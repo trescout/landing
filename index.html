@@ -495,8 +495,8 @@
       <p class="mid-line">TreScout arar, bulur, getirir. Siz sadece okursunuz.</p>
       <p class="sub-line">GitHub, Reddit, HuggingFace ve daha fazlası. Kendi temponuzda, istediğiniz saatte.</p>
 
-      <form class="cta-form" onsubmit="return false">
-        <input class="input" type="email" placeholder="E-postanızı yazın" autocomplete="email" id="hero-email">
+      <form class="cta-form js-tally-form" data-source="hero">
+        <input class="input" type="email" placeholder="E-postanızı yazın" autocomplete="email" required>
         <button class="btn btn-primary btn-large" type="submit">Erken erişim listesine katılın</button>
       </form>
       <p class="hero-note">Beta listesine kaydolun. Yayında olduğumuzda haber veririz, spam göndermeyiz.</p>
@@ -692,8 +692,8 @@
     <div class="final-cta">
       <h2>İstediğiniz saatte. Kahvenize eşlikçi.</h2>
       <p>Erken erişim listesi açık. Yayına geçtiğimizde ilk siz haberdar olun.</p>
-      <form class="cta-form" onsubmit="return false">
-        <input class="input" type="email" placeholder="E-postanızı yazın" autocomplete="email">
+      <form class="cta-form js-tally-form" data-source="bottom">
+        <input class="input" type="email" placeholder="E-postanızı yazın" autocomplete="email" required>
         <button class="btn btn-primary btn-large" type="submit">Listeye katılın</button>
       </form>
     </div>
@@ -705,5 +705,47 @@
       <p>TreScout · Tek fincan kahve. Tüm trendler. · 2026</p>
     </div>
   </footer>
+
+  <!-- ============== TALLY EARLY-ACCESS FORM ============== -->
+  <script async src="https://tally.so/widgets/embed.js"></script>
+  <script>
+    (function () {
+      var TALLY_FORM_ID = '9qp1XY';
+
+      // Open Tally popup. Pre-fill via URL query parameter `email`
+      // (Tally accepts pre-fill on visible questions when the param key
+      // matches the field's slug; if it doesn't match, the popup just
+      // opens with the email field empty — still functional).
+      function openTally(email, source) {
+        var qs = 'email=' + encodeURIComponent(email) +
+                 '&source=' + encodeURIComponent(source);
+        var formIdWithQuery = TALLY_FORM_ID + '?' + qs;
+
+        if (window.Tally && typeof window.Tally.openPopup === 'function') {
+          window.Tally.openPopup(formIdWithQuery, {
+            layout: 'modal',
+            width: 500,
+            autoClose: 2000
+          });
+          return;
+        }
+        // Fallback if widget script blocked or not loaded yet
+        window.open('https://tally.so/r/' + formIdWithQuery,
+                    '_blank', 'noopener,noreferrer');
+      }
+
+      document.querySelectorAll('form.js-tally-form').forEach(function (form) {
+        form.addEventListener('submit', function (e) {
+          e.preventDefault();
+          var input = form.querySelector('input[type="email"]');
+          if (!input || !input.value.trim() || !input.checkValidity()) {
+            if (input) input.reportValidity();
+            return;
+          }
+          openTally(input.value.trim(), form.dataset.source || 'unknown');
+        });
+      });
+    })();
+  </script>
 </body>
 </html>
