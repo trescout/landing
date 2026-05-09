@@ -1,0 +1,15 @@
+# Cursor Rules · TreScout
+
+This repo's AI agent rules live in **AGENTS.md** at the root.
+
+Before any task, read AGENTS.md and follow it.
+
+## Critical points
+
+1. **Turkish content**: Generated Turkish prose for user-facing surfaces (landing page, emails, reports, marketing copy) must be reviewed/rewritten through Gemini. Do not ship direct Cursor (Claude/GPT) Turkish output as final user-facing text.
+2. **Voice**: "siz" (formal Turkish). Never "sen".
+3. **Em dash (—) is forbidden** in Turkish content. Use `,` `.` `:` `;` `·` instead.
+4. **Brand name**: TreScout (both Ss capital). Never Trescout/TRESCOUT.
+5. **Colors**: Only the brand palette in `docs/BRAND.md §3`. Don't introduce hardcoded non-brand colors.
+
+For full rules, rationales, and examples → **AGENTS.md**.
