@@ -20,8 +20,28 @@ trescout-landing/
 
 Bu repo Vercel'a bağlı. `main` branch'a her push otomatik production deploy.
 
-- Production: https://trescout.com
-- Preview: her PR için ayrı URL
+- Production: **https://trescout.com** ✅ canlı
+- `www.trescout.com` → 308 Permanent Redirect → `trescout.com` (bare apex kanonik)
+- Vercel default URL: `trescout-landing.vercel.app` (preview'lar için bu pattern)
+- Her PR için ayrı preview URL
+
+## İletişim altyapısı
+
+| Kanal | Adres / Hesap | Not |
+|---|---|---|
+| Genel iletişim | `hello@trescout.com` | Cloudflare Email Routing → yaani inbox |
+| Operasyonel | `admin@trescout.com` | Servis hesapları, password reset |
+| Erken erişim formu | Tally form `9qp1XY` | Submit → bildirim `hello@`'a |
+| Outbound mail | Resend (`send.trescout.com`) | DKIM/SPF/DMARC verified |
+
+## Sosyal medya
+
+| Platform | Handle | URL |
+|---|---|---|
+| Twitter / X | `@GetTreScout` | https://x.com/GetTreScout |
+| Instagram | `@gettrescout` | https://instagram.com/gettrescout |
+| LinkedIn | TreScout (Company Page) | https://linkedin.com/company/trescout |
+| Bluesky | `@gettrescout.bsky.social` | https://bsky.app/profile/gettrescout.bsky.social |
 
 ## Geliştirme
 
