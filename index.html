@@ -161,7 +161,9 @@
       width: 100%;
       border: 0;
       display: block;
-      color-scheme: dark light;
+      /* color-scheme deliberately not set: cross-origin iframe + Chrome
+         + dark mode inverts Tally's rendering. Explicit dark bg in Tally
+         theme handles the look consistently across browsers. */
     }
     .input {
       flex: 1 1 240px;
