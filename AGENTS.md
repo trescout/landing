@@ -143,7 +143,7 @@ Tam liste için `docs/BRAND.md`. Buradaki sadece en sık ihlal edilenler:
 ### Tagline (kilitli; değiştirme!)
 - Hero: "Teknoloji takibi artık bir iş yükü değil."
 - Mid: "TreScout arar, bulur, getirir. Siz sadece okursunuz."
-- Sub: "GitHub, Reddit, HuggingFace ve daha fazlası. Kendi temponuzda, istediğiniz saatte."
+- Sub: "GitHub, Hacker News, HuggingFace ve daha fazlası. Kendi temponuzda, istediğiniz saatte."
 
 ### Renkler
 Tek kaynak: `docs/BRAND.md §3`. Hardcoded yeni renk eklemeyin; mevcut palet veya türevi kullanın.
