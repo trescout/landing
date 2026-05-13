@@ -206,20 +206,19 @@
     /* ---------- HERO ---------- */
     .hero {
       position: relative;
-      padding: 110px 0 96px;
-      text-align: center;
+      padding: 96px 0 100px;
       overflow: hidden;
     }
     /* Primary blue glow (top-center) */
     .hero::before {
       content: '';
       position: absolute;
-      top: -240px;
+      top: -260px;
       left: 50%;
       transform: translateX(-50%);
-      width: 900px;
-      height: 900px;
-      background: radial-gradient(circle, rgba(95, 168, 211, 0.22) 0%, transparent 55%);
+      width: 1100px;
+      height: 1000px;
+      background: radial-gradient(ellipse, rgba(95, 168, 211, 0.22) 0%, transparent 55%);
       pointer-events: none;
       z-index: 0;
       filter: blur(8px);
@@ -228,31 +227,37 @@
     .hero::after {
       content: '';
       position: absolute;
-      bottom: -200px;
-      right: -100px;
-      width: 600px;
-      height: 600px;
-      background: radial-gradient(circle, rgba(244, 211, 94, 0.07) 0%, transparent 60%);
+      bottom: -240px;
+      right: -120px;
+      width: 700px;
+      height: 700px;
+      background: radial-gradient(circle, rgba(244, 211, 94, 0.09) 0%, transparent 60%);
       pointer-events: none;
       z-index: 0;
     }
-    .hero-content { position: relative; z-index: 1; animation: fadeUp 0.7s cubic-bezier(0.2, 0.8, 0.2, 1) both; }
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      display: grid;
+      grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr);
+      gap: 64px;
+      align-items: center;
+      animation: fadeUp 0.7s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+    }
+    .hero-text { text-align: left; }
     .hero-logo {
-      margin-bottom: 36px;
+      margin-bottom: 28px;
       display: flex;
-      justify-content: center;
+      justify-content: flex-start;
       filter: drop-shadow(0 8px 24px rgba(244, 211, 94, 0.15));
     }
     .hero h1 {
       font-family: Georgia, serif;
-      font-size: clamp(42px, 6.5vw, 76px);
+      font-size: clamp(40px, 5.4vw, 64px);
       font-weight: 700;
-      line-height: 1.08;
+      line-height: 1.06;
       letter-spacing: -0.025em;
-      margin-bottom: 28px;
-      max-width: 920px;
-      margin-left: auto;
-      margin-right: auto;
+      margin-bottom: 24px;
     }
     .hero h1 .accent {
       color: var(--accent);
@@ -273,28 +278,159 @@
     .hero .mid-line {
       font-family: Georgia, serif;
       font-style: italic;
-      font-size: clamp(19px, 2.5vw, 26px);
+      font-size: clamp(18px, 2vw, 22px);
       color: var(--brand-light);
-      margin-bottom: 18px;
-      max-width: 680px;
-      margin-left: auto;
-      margin-right: auto;
+      margin-bottom: 14px;
+      max-width: 540px;
       line-height: 1.4;
     }
     .hero .sub-line {
-      font-size: 17px;
+      font-size: 16px;
       color: var(--ink-muted);
-      max-width: 600px;
-      margin: 0 auto 44px;
+      max-width: 520px;
+      margin: 0 0 36px;
       line-height: 1.65;
     }
     .cta-form {
       display: flex;
       gap: 12px;
       max-width: 520px;
-      margin: 0 auto;
       flex-wrap: wrap;
-      justify-content: center;
+    }
+
+    /* HERO VISUAL · floating email-card mockup */
+    .hero-visual {
+      position: relative;
+      perspective: 1400px;
+    }
+    .email-card {
+      background: linear-gradient(180deg, #1B2A40 0%, #131F33 100%);
+      border: 1px solid rgba(95, 168, 211, 0.2);
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow:
+        0 1px 0 rgba(255, 255, 255, 0.04) inset,
+        0 28px 70px rgba(0, 0, 0, 0.55),
+        0 0 0 1px rgba(15, 25, 41, 0.4);
+      transform: rotateY(-6deg) rotateX(3deg) translateZ(0);
+      transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1);
+      transform-style: preserve-3d;
+    }
+    .hero-visual:hover .email-card {
+      transform: rotateY(-3deg) rotateX(1.5deg) translateZ(0);
+    }
+    .email-card-header {
+      padding: 14px 18px;
+      background: rgba(15, 25, 41, 0.6);
+      border-bottom: 1px solid rgba(95, 168, 211, 0.12);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 12px;
+      color: var(--ink-muted);
+    }
+    .email-card-from strong { color: var(--ink); }
+    .email-card-time { font-family: ui-monospace, monospace; font-size: 11px; }
+    .email-card-subject {
+      padding: 14px 18px;
+      font-weight: 600;
+      font-size: 15px;
+      color: var(--ink);
+      background: rgba(244, 211, 94, 0.04);
+      border-bottom: 1px solid rgba(95, 168, 211, 0.12);
+    }
+    .email-card-body { padding: 18px; }
+    .email-card-greeting {
+      margin-bottom: 14px;
+      font-family: Georgia, serif;
+      font-style: italic;
+      color: var(--brand-light);
+      font-size: 14px;
+    }
+    .mini-repo {
+      padding: 12px 14px;
+      background: rgba(15, 25, 41, 0.45);
+      border-left: 2px solid var(--brand-light);
+      border-radius: 0 8px 8px 0;
+      margin-bottom: 10px;
+    }
+    .mini-repo-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 4px;
+    }
+    .mini-repo-head strong {
+      color: var(--brand-light);
+      font-size: 13px;
+      font-family: ui-monospace, 'SF Mono', monospace;
+      font-weight: 600;
+    }
+    .mini-repo-badge {
+      font-size: 10px;
+      padding: 2px 8px;
+      border-radius: 100px;
+      background: rgba(95, 168, 211, 0.15);
+      color: var(--brand-light);
+      font-weight: 600;
+      letter-spacing: 0.04em;
+    }
+    .mini-repo-badge.new {
+      background: rgba(244, 211, 94, 0.12);
+      color: var(--accent);
+    }
+    .mini-repo-meta {
+      font-size: 11px;
+      color: var(--ink-muted);
+      margin-bottom: 6px;
+      letter-spacing: 0.01em;
+    }
+    .mini-repo p {
+      color: var(--ink);
+      font-size: 12.5px;
+      line-height: 1.5;
+      margin: 0;
+      opacity: 0.85;
+    }
+    .mini-more {
+      margin-top: 4px;
+      padding: 10px 12px;
+      background: rgba(244, 211, 94, 0.08);
+      border: 1px dashed rgba(244, 211, 94, 0.25);
+      border-radius: 8px;
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 500;
+      text-align: center;
+    }
+
+    /* Hero responsive · 968px altında stacklenir */
+    @media (max-width: 968px) {
+      .hero-content {
+        grid-template-columns: 1fr;
+        gap: 56px;
+      }
+      .hero-text {
+        text-align: center;
+        max-width: 640px;
+        margin: 0 auto;
+      }
+      .hero-logo { justify-content: center; }
+      .hero .mid-line { max-width: 540px; margin-left: auto; margin-right: auto; }
+      .hero .sub-line { margin: 0 auto 36px; }
+      .cta-form { justify-content: center; margin: 0 auto; }
+      .hero-note { text-align: center; }
+      .hero-visual { max-width: 480px; margin: 0 auto; }
+      .email-card { transform: rotateY(-3deg) rotateX(1deg); }
+      .hero-visual:hover .email-card { transform: rotateY(-1deg); }
+    }
+    @media (max-width: 540px) {
+      .email-card { transform: none; }
+      .hero-visual:hover .email-card { transform: none; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .email-card,
+      .hero-visual:hover .email-card { transform: none !important; transition: none; }
     }
     /* Form states · custom subscribe form */
     .btn[disabled] {
@@ -752,25 +888,61 @@
   <!-- ============== HERO ============== -->
   <section class="hero">
     <div class="container hero-content">
-      <div class="hero-logo">
-        <svg width="80" height="80" viewBox="0 0 100 100" aria-hidden="true">
-          <rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/>
-          <path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/>
-          <path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/>
-          <path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/>
-          <rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/>
-          <rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/>
-        </svg>
-      </div>
-      <h1>Teknoloji takibi <span class="accent">artık bir iş yükü değil.</span></h1>
-      <p class="mid-line">TreScout tarar, özetler, gönderir. Siz sadece okursunuz.</p>
-      <p class="sub-line">GitHub, Hacker News, HuggingFace ve daha fazlası. Kendi temponuzda, istediğiniz saatte.</p>
+      <div class="hero-text">
+        <div class="hero-logo">
+          <svg width="72" height="72" viewBox="0 0 100 100" aria-hidden="true">
+            <rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/>
+            <path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/>
+            <path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/>
+            <path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/>
+            <rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/>
+            <rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/>
+          </svg>
+        </div>
+        <h1>Teknoloji takibi <span class="accent">artık bir iş yükü değil.</span></h1>
+        <p class="mid-line">TreScout tarar, özetler, gönderir. Siz sadece okursunuz.</p>
+        <p class="sub-line">GitHub, Hacker News, HuggingFace ve daha fazlası. Kendi temponuzda, istediğiniz saatte.</p>
 
-      <form class="cta-form js-subscribe" data-source="hero" novalidate>
-        <input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required>
-        <button class="btn btn-primary btn-large" type="submit">Erken erişim listesine katılın</button>
-      </form>
-      <p class="hero-note">Beta listesine kaydolun. Yayında olduğumuzda haber verelim, spam göndermeyiz. Kaydolarak <a href="/privacy.html">Aydınlatma Metni</a>'ni kabul etmiş olursunuz.</p>
+        <form class="cta-form js-subscribe" data-source="hero" novalidate>
+          <input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required>
+          <button class="btn btn-primary btn-large" type="submit">Erken erişim listesine katılın</button>
+        </form>
+        <p class="hero-note">Beta listesine kaydolun. Yayında olduğumuzda haber verelim, spam göndermeyiz. Kaydolarak <a href="/privacy.html">Aydınlatma Metni</a>'ni kabul etmiş olursunuz.</p>
+      </div>
+
+      <aside class="hero-visual" aria-hidden="true">
+        <div class="email-card">
+          <div class="email-card-header">
+            <div class="email-card-from"><strong>TreScout</strong> · hello@trescout.com</div>
+            <div class="email-card-time">07:00</div>
+          </div>
+          <div class="email-card-subject">📬 Salı raporunuz · 18 yeni keşif</div>
+          <div class="email-card-body">
+            <p class="email-card-greeting">Günaydın, bugünün öne çıkanları.</p>
+
+            <div class="mini-repo">
+              <div class="mini-repo-head">
+                <strong>openai/agents-python</strong>
+                <span class="mini-repo-badge">v1.0.0</span>
+              </div>
+              <div class="mini-repo-meta">+2.1k yıldız · Python · yeni sürüm</div>
+              <p>Çoklu YZ ajan koordinasyonu için resmi kütüphane.</p>
+            </div>
+
+            <div class="mini-repo">
+              <div class="mini-repo-head">
+                <strong>microsoft/markitdown</strong>
+                <span class="mini-repo-badge new">yeni</span>
+              </div>
+              <div class="mini-repo-meta">+890 yıldız · Python · trend</div>
+              <p>Belgeleri yapay zekâya uygun markdown'a çeviren araç.</p>
+            </div>
+
+            <div class="mini-more">+ 16 trend daha · PDF ekte</div>
+          </div>
+        </div>
+      </aside>
+    </div>
     </div>
   </section>
 
