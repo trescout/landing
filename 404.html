@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bulunamadı · TreScout</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <meta name="description" content="TreScout · aradığınız sayfa bulunamadı.">
+  <meta name="robots" content="noindex, follow">
+  <style>
+    :root {
+      --bg: #0F1929;
+      --brand: #1B4965;
+      --accent: #F4D35E;
+      --ink: #E8F1F5;
+      --ink-muted: #A8C0D0;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      background: var(--bg);
+      color: var(--ink);
+      font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+      min-height: 100vh;
+    }
+    .container {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 24px;
+      text-align: center;
+    }
+    .mark {
+      width: 88px;
+      height: 88px;
+      margin-bottom: 32px;
+      opacity: 0.95;
+    }
+    .code {
+      color: var(--ink-muted);
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 14px;
+      letter-spacing: 0.12em;
+      margin-bottom: 16px;
+    }
+    h1 {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 52px;
+      font-weight: 700;
+      line-height: 1.15;
+      margin-bottom: 20px;
+      letter-spacing: -0.01em;
+    }
+    h1 .accent {
+      color: var(--accent);
+    }
+    p {
+      color: var(--ink-muted);
+      font-size: 18px;
+      line-height: 1.6;
+      max-width: 520px;
+      margin-bottom: 36px;
+    }
+    a.cta {
+      display: inline-block;
+      background: var(--accent);
+      color: var(--bg);
+      padding: 14px 32px;
+      font-weight: 600;
+      font-size: 15px;
+      border-radius: 12px;
+      text-decoration: none;
+      transition: transform 0.15s, box-shadow 0.15s;
+    }
+    a.cta:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 8px 24px rgba(244, 211, 94, 0.25);
+    }
+    @media (max-width: 540px) {
+      h1 { font-size: 40px; }
+      p { font-size: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <svg class="mark" viewBox="0 0 100 100" aria-hidden="true">
+      <rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/>
+      <path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/>
+      <path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/>
+      <path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/>
+      <rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/>
+      <rect x="44.5" y="56" width="11" height="36" rx="2" fill="#F4D35E"/>
+    </svg>
+    <div class="code">404</div>
+    <h1>Burada <span class="accent">bir şey yok</span>.</h1>
+    <p>Aradığınız sayfa yerinde değil. Belki bir bağlantı kırılmış, belki burası hiç var olmadı. Anasayfada bekleriz.</p>
+    <a class="cta" href="/">TreScout anasayfa →</a>
+  </div>
+</body>
+</html>

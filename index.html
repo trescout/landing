@@ -20,6 +20,40 @@
   <meta name="twitter:title" content="TreScout · Teknoloji takibi artık bir iş yükü değil.">
   <meta name="twitter:description" content="GitHub, Hacker News, HuggingFace'i her gün tarar, özetler, Türkçe rapor olarak gönderir.">
   <meta name="twitter:image" content="https://trescout.com/og-image.png">
+
+  <!-- Structured data · Organization + WebSite (Google Knowledge Graph) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://trescout.com/#organization",
+        "name": "TreScout",
+        "url": "https://trescout.com",
+        "logo": "https://trescout.com/favicon.svg",
+        "image": "https://trescout.com/og-image.png",
+        "description": "TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile özetler, Türkçe rapor olarak gönderir.",
+        "email": "hello@trescout.com",
+        "sameAs": [
+          "https://x.com/GetTreScout",
+          "https://instagram.com/gettrescout",
+          "https://linkedin.com/company/trescout",
+          "https://bsky.app/profile/gettrescout.bsky.social"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://trescout.com/#website",
+        "url": "https://trescout.com",
+        "name": "TreScout",
+        "description": "Teknoloji takibi artık bir iş yükü değil.",
+        "publisher": { "@id": "https://trescout.com/#organization" },
+        "inLanguage": "tr-TR"
+      }
+    ]
+  }
+  </script>
   <style>
     /* ---------- TOKENS ---------- */
     :root {
