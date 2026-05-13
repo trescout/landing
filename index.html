@@ -71,6 +71,27 @@
     /* ---------- RESET ---------- */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
+
+    /* ---------- A11Y · Skip-to-content ---------- */
+    .skip-link {
+      position: absolute;
+      top: -40px;
+      left: 8px;
+      background: var(--accent);
+      color: var(--bg);
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 600;
+      text-decoration: none;
+      z-index: 1000;
+      transition: top 0.15s;
+    }
+    .skip-link:focus {
+      top: 8px;
+      outline: 2px solid var(--bg);
+      outline-offset: 2px;
+    }
     body {
       background: var(--bg);
       color: var(--ink);
@@ -535,10 +556,12 @@
   </style>
 </head>
 <body>
+  <a class="skip-link" href="#main">Ana içeriğe atla</a>
+
   <!-- ============== NAV ============== -->
   <nav>
     <div class="container nav-inner">
-      <a class="logo-link" href="#">
+      <a class="logo-link" href="/" aria-label="TreScout anasayfa">
         <svg width="32" height="32" viewBox="0 0 100 100" aria-label="TreScout logo">
           <rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/>
           <path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/>
@@ -556,6 +579,8 @@
       </div>
     </div>
   </nav>
+
+  <main id="main">
 
   <!-- ============== HERO ============== -->
   <section class="hero">
@@ -786,6 +811,8 @@
       <p class="hero-note" style="margin-top: 16px; text-align: center;">Kaydolarak <a href="/privacy.html">Aydınlatma Metni</a>'ni kabul etmiş olursunuz.</p>
     </div>
   </section>
+
+  </main>
 
   <!-- ============== FOOTER ============== -->
   <footer>
