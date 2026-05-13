@@ -217,17 +217,36 @@
       flex-wrap: wrap;
       justify-content: center;
     }
-    .cta-tally {
-      max-width: 540px;
-      margin: 0 auto;
+    /* Form states · custom subscribe form */
+    .btn[disabled] {
+      opacity: 0.55;
+      cursor: not-allowed;
+      transform: none !important;
     }
-    .cta-tally iframe {
+    .form-success {
+      max-width: 520px;
+      margin: 0 auto;
+      padding: 16px 22px;
+      background: rgba(244, 211, 94, 0.1);
+      border: 1px solid var(--accent);
+      border-radius: 12px;
+      color: var(--ink);
+      text-align: center;
+      font-size: 15px;
+      line-height: 1.55;
+    }
+    .form-success strong { color: var(--accent); }
+    .form-error {
       width: 100%;
-      border: 0;
-      display: block;
-      /* color-scheme deliberately not set: cross-origin iframe + Chrome
-         + dark mode inverts Tally's rendering. Explicit dark bg in Tally
-         theme handles the look consistently across browsers. */
+      max-width: 520px;
+      margin: 12px auto 0;
+      padding: 10px 14px;
+      background: rgba(255, 120, 120, 0.08);
+      border: 1px solid rgba(255, 120, 120, 0.35);
+      border-radius: 8px;
+      color: #ffb3b3;
+      font-size: 13px;
+      text-align: center;
     }
     .input {
       flex: 1 1 240px;
@@ -599,14 +618,10 @@
       <p class="mid-line">TreScout tarar, özetler, gönderir. Siz sadece okursunuz.</p>
       <p class="sub-line">GitHub, Hacker News, HuggingFace ve daha fazlası. Kendi temponuzda, istediğiniz saatte.</p>
 
-      <div class="cta-tally">
-        <iframe
-          data-tally-src="https://tally.so/embed/9qp1XY?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
-          loading="lazy"
-          height="200"
-          title="TreScout · Erken erişim listesi"
-        ></iframe>
-      </div>
+      <form class="cta-form js-subscribe" data-source="hero" novalidate>
+        <input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required>
+        <button class="btn btn-primary btn-large" type="submit">Erken erişim listesine katılın</button>
+      </form>
       <p class="hero-note">Beta listesine kaydolun. Yayında olduğumuzda haber verelim, spam göndermeyiz. Kaydolarak <a href="/privacy.html">Aydınlatma Metni</a>'ni kabul etmiş olursunuz.</p>
     </div>
   </section>
@@ -800,14 +815,10 @@
     <div class="final-cta">
       <h2>İstediğiniz saatte. Kahvenize eşlikçi.</h2>
       <p>Erken erişim listesi açık. Yayına geçtiğimizde ilk siz haberdar olun.</p>
-      <div class="cta-tally">
-        <iframe
-          data-tally-src="https://tally.so/embed/9qp1XY?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
-          loading="lazy"
-          height="200"
-          title="TreScout · Erken erişim listesi"
-        ></iframe>
-      </div>
+      <form class="cta-form js-subscribe" data-source="bottom" novalidate>
+        <input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required>
+        <button class="btn btn-primary btn-large" type="submit">Listeye katılın</button>
+      </form>
       <p class="hero-note" style="margin-top: 16px; text-align: center;">Kaydolarak <a href="/privacy.html">Aydınlatma Metni</a>'ni kabul etmiş olursunuz.</p>
     </div>
   </section>
@@ -827,7 +838,79 @@
     </div>
   </footer>
 
-  <!-- ============== TALLY EARLY-ACCESS FORM (inline embed) ============== -->
-  <script async src="https://tally.so/widgets/embed.js"></script>
+  <!-- ============== EARLY-ACCESS FORM (custom · /api/subscribe → Resend) ============== -->
+  <script>
+    (function () {
+      var ENDPOINT = '/api/subscribe';
+
+      function showSuccess(form, isDuplicate) {
+        var msg = isDuplicate
+          ? '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.'
+          : '<strong>Aldık.</strong> Yayında olduğumuzda size haber vereceğiz. İyi haftalar.';
+        var div = document.createElement('div');
+        div.className = 'form-success';
+        div.setAttribute('role', 'status');
+        div.setAttribute('aria-live', 'polite');
+        div.innerHTML = msg;
+        form.replaceWith(div);
+      }
+
+      function showError(form, message) {
+        var existing = form.parentElement.querySelector('.form-error');
+        if (existing) existing.remove();
+        var div = document.createElement('div');
+        div.className = 'form-error';
+        div.setAttribute('role', 'alert');
+        div.textContent = message;
+        form.insertAdjacentElement('afterend', div);
+        setTimeout(function () { div.remove(); }, 6000);
+      }
+
+      function bind(form) {
+        form.addEventListener('submit', async function (e) {
+          e.preventDefault();
+          var input = form.querySelector('input[type="email"]');
+          var button = form.querySelector('button[type="submit"]');
+          if (!input || !button) return;
+
+          var email = input.value.trim();
+          if (!email || !input.checkValidity()) {
+            input.reportValidity();
+            return;
+          }
+
+          var originalText = button.textContent;
+          button.disabled = true;
+          button.textContent = 'Gönderiliyor...';
+
+          try {
+            var res = await fetch(ENDPOINT, {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({
+                email: email,
+                source: form.dataset.source || 'unknown'
+              })
+            });
+            var data = await res.json().catch(function () { return {}; });
+
+            if (res.ok && data.ok) {
+              showSuccess(form, data.duplicate === true);
+            } else {
+              button.disabled = false;
+              button.textContent = originalText;
+              showError(form, data.error || 'Bir şeyler ters gitti. Lütfen tekrar deneyin.');
+            }
+          } catch (err) {
+            button.disabled = false;
+            button.textContent = originalText;
+            showError(form, 'Bağlantı hatası. Lütfen tekrar deneyin.');
+          }
+        });
+      }
+
+      document.querySelectorAll('form.js-subscribe').forEach(bind);
+    })();
+  </script>
 </body>
 </html>

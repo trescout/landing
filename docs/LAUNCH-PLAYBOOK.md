@@ -11,9 +11,14 @@ Bu doküman lansman günü tek başvuru kaynağıdır. Sırasıyla yapın, her a
 ## 0. Lansman öncesi 30 dakika · son kontrol
 
 - [ ] `trescout.com` aç · görsel kontrol (desktop + mobile)
-- [ ] Form'a test e-posta gönder · `hello@trescout.com`'a bildirim geldi mi
+- [ ] **Form custom · `/api/subscribe`** endpoint test:
+  - Hero formuna test e-posta gönder, "Aldık" inline başarı mesajı çıkmalı
+  - `hello@trescout.com` inbox'a "Yeni erken erişim kaydı" maili geldi mi
+  - Resend Dashboard → Audiences → TreScout Early Access → contact eklendi mi
+  - **Alttaki CTA formundan da** test (data-source="bottom" doğru gözükmeli notif mailinde)
 - [ ] `trescout.com/privacy.html` açılıyor mu
 - [ ] `trescout.com/sample-report.pdf` indir, ÖRNEK RAPOR badge görünüyor mu
+- [ ] `trescout.com/404` veya geçersiz path · branded 404 görünüyor mu
 - [ ] Tüm görseller telefonda hazır (Instagram için)
 - [ ] Calendly link kopyala-yapıştır için elde
 
@@ -150,8 +155,10 @@ Türkiye'den üç kişilik bir ekip olarak bu yolculuğa çıktık. Lansman çok
 
 | Sorun | Çözüm |
 |---|---|
-| Tally form yüklenmedi | Sayfayı yenile · iframe geç gelmiş olabilir. 30 sn'de gelmezse Tally embed.js URL'i kontrol et |
-| `hello@`'ya bildirim gelmiyor | Tally Settings → Email notifications açık mı doğrula; To: hello@trescout.com yazıyor mu |
+| Form submit "Bağlantı hatası" diyor | `/api/subscribe` endpoint'i çalışıyor mu kontrol: `curl -X POST https://trescout.com/api/subscribe -H 'Content-Type: application/json' -d '{"email":"test@test.com"}'` · 200 dönmeli |
+| Form "Sunucu konfigürasyonu eksik" diyor | Vercel env vars eksik · `RESEND_API_KEY` veya `RESEND_AUDIENCE_ID` set edilmemiş. `docs/ENV.md` rehberini takip et + redeploy |
+| `hello@`'ya bildirim gelmiyor | Resend Dashboard → Logs · gönderim başarılı mı bak. Cloudflare Email Routing aktif mi (yaani'ye forward) |
+| Resend Audience'a kayıt olmuyor | API key permission yetersiz olabilir · `audiences:write` scope'u var mı |
 | Mobile'da form bozuk | Cache temizle (Cmd+Shift+R / Ctrl+Shift+R) · Vercel deploy yenisini al |
 | Privacy.html 404 | Vercel deploy henüz tamamlanmamış olabilir · 1-2 dk bekle |
 | Sample PDF indirilmiyor | Aynı, deploy bekle |

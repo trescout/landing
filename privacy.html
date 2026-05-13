@@ -103,7 +103,7 @@
 
     <h2>1. Hangi verileri topluyoruz?</h2>
     <p>
-      Erken erişim listesine kaydolduğunuzda yalnızca <strong>e-posta adresinizi</strong> topluyoruz. Başka bir kişisel veri (ad, telefon, IP vb.) toplamıyoruz. Form sağlayıcımız Tally, teknik amaçlarla anonim metadata (gönderim zamanı, IP tabanlı genel coğrafi konum) tutabilir; bu veri TreScout tarafından kullanılmaz.
+      Erken erişim listesine kaydolduğunuzda yalnızca <strong>e-posta adresinizi</strong> topluyoruz. Başka bir kişisel veri (ad, telefon vb.) toplamıyoruz. Sunucumuz, teknik amaçla istek meta verisini (gönderim zamanı, kaynak: hangi formdan geldiği) kaydedebilir; bu veri kimliği tanımlamak için kullanılmaz.
     </p>
 
     <h2>2. Niçin topluyoruz?</h2>
@@ -131,9 +131,9 @@
 
     <h2>5. Verilerinizi nerede tutuyoruz?</h2>
     <ul>
-      <li><strong>Form gönderimleri:</strong> Tally (Avrupa Birliği bölgesinde sunucular)</li>
-      <li><strong>E-posta bildirimleri:</strong> Resend (ABD/Avrupa altyapısı)</li>
-      <li><strong>Lansman e-posta listesi:</strong> Resend Audiences</li>
+      <li><strong>Form altyapısı:</strong> Vercel (sunucusuz fonksiyon · isteği alır, doğrular, Resend'e iletir; kalıcı veri saklamaz)</li>
+      <li><strong>Erken erişim listesi:</strong> Resend Audiences (ABD/Avrupa altyapısı · e-posta listesini saklar)</li>
+      <li><strong>Bildirim ve lansman e-postaları:</strong> Resend (ABD/Avrupa altyapısı)</li>
     </ul>
     <p>
       Bu sağlayıcılar uluslararası veri koruma standartlarına (GDPR, SOC 2) uyumludur. Yurt dışına veri aktarımı söz konusudur; ancak veri sadece e-postanızla sınırlıdır.
@@ -156,7 +156,7 @@
 
     <h2>7. Çerezler</h2>
     <p>
-      TreScout landing sayfası tarayıcınıza üçüncü taraf tracking çerezi <strong>yerleştirmez</strong>. Tally form widget'ı kendi teknik çerezlerini kullanabilir; bu çerezler oturum süresince form fonksiyonunu sağlamak içindir, kişiselleştirilmiş reklam için kullanılmaz.
+      TreScout landing sayfası tarayıcınıza <strong>hiçbir tracking çerezi yerleştirmez</strong>. Form bir doğrudan API çağrısıyla çalışır, üçüncü taraf widget yüklenmez. Reklam, davranış izleme veya analytics çerezi yoktur.
     </p>
 
     <h2>8. İletişim</h2>
