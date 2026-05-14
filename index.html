@@ -988,6 +988,106 @@
       color: var(--ink-muted);
     }
 
+    /* Bento layout · 1 hero + 2 side cards */
+    .features-bento {
+      display: grid;
+      grid-template-columns: 1.15fr 1fr;
+      gap: 20px;
+      margin-top: 36px;
+      text-align: left;
+    }
+    .features-bento-side {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+    .feature-hero {
+      padding: 40px 36px;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+    }
+    .feature-hero::after {
+      content: '';
+      position: absolute;
+      top: -100px;
+      right: -100px;
+      width: 280px;
+      height: 280px;
+      background: radial-gradient(circle, rgba(244, 211, 94, 0.08) 0%, transparent 60%);
+      pointer-events: none;
+    }
+    .feature-hero .feature-icon {
+      width: 60px;
+      height: 60px;
+      border-radius: 16px;
+      font-size: 28px;
+    }
+    .feature-hero h3 {
+      font-size: 26px;
+      margin-bottom: 12px;
+      letter-spacing: -0.01em;
+    }
+    .feature-hero p {
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 28px;
+      flex: 1;
+    }
+    .time-slots {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      position: relative;
+      z-index: 1;
+    }
+    .time-slot {
+      padding: 8px 14px;
+      background: rgba(15, 25, 41, 0.5);
+      border: 1px solid rgba(95, 168, 211, 0.18);
+      border-radius: 100px;
+      font-family: ui-monospace, 'SF Mono', monospace;
+      font-size: 13px;
+      color: var(--ink-muted);
+      transition: all 0.2s ease;
+    }
+    .time-slot.active {
+      background: rgba(244, 211, 94, 0.14);
+      border-color: var(--accent);
+      color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(244, 211, 94, 0.1);
+    }
+    .term-preview {
+      margin-top: 16px;
+      padding: 10px 14px;
+      background: rgba(15, 25, 41, 0.4);
+      border-radius: 8px;
+      font-size: 13px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .term-preview code {
+      font-family: ui-monospace, 'SF Mono', monospace;
+      color: var(--accent);
+      font-weight: 600;
+    }
+    .term-arrow {
+      color: var(--ink-muted);
+      font-family: ui-monospace, monospace;
+    }
+    .term-def {
+      color: var(--ink-muted);
+      font-style: italic;
+    }
+    @media (max-width: 768px) {
+      .features-bento { grid-template-columns: 1fr; }
+      .feature-hero { padding: 32px 28px; }
+      .feature-hero h3 { font-size: 22px; }
+    }
+
     /* ---------- ROADMAP (Yol Haritası) ---------- */
     .roadmap {
       position: relative;
@@ -1433,27 +1533,41 @@
     </div>
   </section>
 
-  <!-- ============== FEATURES ============== -->
+  <!-- ============== FEATURES · BENTO ============== -->
   <section class="section section-center reveal">
     <div class="container">
       <span class="eyebrow">Özellikler</span>
       <h2 class="section-title">Sade. Hızlı. Senin temponda.</h2>
 
-      <div class="features-grid">
-        <div class="feature">
+      <div class="features-bento">
+        <div class="feature feature-hero">
           <div class="feature-icon">⏰</div>
           <h3>Esnek zamanlama</h3>
-          <p>Sabah 8, öğlen 12, akşam 18... Saat kaçta isterseniz siz seçin, biz teslim edelim.</p>
+          <p>Saat kaçta isterseniz siz seçin, biz teslim edelim. Her gün aynı ritim, sizin temponuzla.</p>
+          <div class="time-slots" aria-hidden="true">
+            <span class="time-slot">07:00</span>
+            <span class="time-slot">08:00</span>
+            <span class="time-slot active">09:00</span>
+            <span class="time-slot">12:00</span>
+            <span class="time-slot">18:00</span>
+            <span class="time-slot">21:00</span>
+          </div>
         </div>
-        <div class="feature">
-          <div class="feature-icon">📄</div>
-          <h3>PDF rapor</h3>
-          <p>Detaylı, formatlanmış, arşivlenebilir. İndirip klasörünüze koyun, e-postayı silebilirsiniz.</p>
-        </div>
-        <div class="feature">
-          <div class="feature-icon">📚</div>
-          <h3>Anahtar terim sözlüğü</h3>
-          <p>Kendi dilinizde okurken İngilizce teknik terimleri kaçırmayın. <small style="color:var(--ink-muted);">(Şu anda Türkçe destekleniyor. Çoklu dil yakında.)</small></p>
+
+        <div class="features-bento-side">
+          <div class="feature">
+            <div class="feature-icon">📄</div>
+            <h3>PDF rapor</h3>
+            <p>Detaylı, formatlanmış, arşivlenebilir. İndirin, klasörünüze koyun, e-postayı silin.</p>
+          </div>
+          <div class="feature">
+            <div class="feature-icon">📚</div>
+            <h3>Anahtar terim sözlüğü</h3>
+            <p>Türkçe rapor, İngilizce teknik terimler korunmuş ve sonda sözlük olarak açıklanmış.</p>
+            <div class="term-preview" aria-hidden="true">
+              <code>fine-tuning</code> <span class="term-arrow">→</span> <span class="term-def">modeli özel veriyle uyarlama</span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
