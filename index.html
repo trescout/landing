@@ -618,7 +618,187 @@
       color: var(--ink-muted);
     }
 
-    /* ---------- REPORT PREVIEW ---------- */
+    /* ---------- PDF PREVIEW SPLIT ---------- */
+    .preview-split {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1.05fr);
+      gap: 56px;
+      align-items: center;
+    }
+    .preview-text { text-align: left; }
+    .preview-text .section-title { margin-bottom: 18px; }
+    .preview-text .section-lead { margin-bottom: 0; }
+    .bullet-list {
+      list-style: none;
+      margin: 32px 0 0;
+      padding: 0;
+    }
+    .bullet-list li {
+      display: flex;
+      gap: 14px;
+      margin-bottom: 18px;
+      font-size: 15px;
+      line-height: 1.5;
+      color: var(--ink-muted);
+    }
+    .bullet-list li strong { color: var(--ink); font-weight: 600; }
+    .bullet-list .bullet-icon {
+      flex-shrink: 0;
+      width: 36px;
+      height: 36px;
+      border-radius: 10px;
+      background: rgba(95, 168, 211, 0.15);
+      border: 1px solid rgba(95, 168, 211, 0.18);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+    }
+
+    .pdf-card {
+      display: block;
+      background: linear-gradient(180deg, var(--bg-elevated) 0%, rgba(27, 42, 64, 0.7) 100%);
+      border: 1px solid rgba(95, 168, 211, 0.2);
+      border-radius: 20px;
+      overflow: hidden;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1),
+                  box-shadow 0.4s ease,
+                  border-color 0.3s ease;
+      box-shadow: 0 24px 60px rgba(0, 0, 0, 0.4),
+                  0 0 0 1px rgba(255, 255, 255, 0.03) inset;
+    }
+    .pdf-card:hover {
+      transform: translateY(-6px);
+      border-color: rgba(244, 211, 94, 0.3);
+      box-shadow: 0 32px 80px rgba(0, 0, 0, 0.5),
+                  0 0 0 1px rgba(244, 211, 94, 0.08) inset;
+    }
+    .pdf-mockup {
+      padding: 28px 28px 20px;
+      background: linear-gradient(135deg, #ECEEF1 0%, #DFE4EA 100%);
+    }
+    .pdf-page {
+      background: white;
+      border-radius: 6px;
+      padding: 26px 28px 32px;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18),
+                  0 1px 2px rgba(0, 0, 0, 0.1);
+      position: relative;
+      color: #1B4965;
+      min-height: 320px;
+    }
+    .pdf-badge {
+      position: absolute;
+      top: 16px;
+      right: 18px;
+      background: #F4D35E;
+      color: #0F1929;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      padding: 4px 10px;
+      border-radius: 4px;
+      text-transform: uppercase;
+    }
+    .pdf-page-brand {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 20px;
+      font-family: Georgia, serif;
+      font-weight: 700;
+      font-size: 14px;
+      color: #1B4965;
+    }
+    .pdf-title {
+      font-family: Georgia, serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #1B4965;
+      margin-bottom: 6px;
+      line-height: 1.15;
+      max-width: 260px;
+    }
+    .pdf-meta {
+      font-size: 11px;
+      color: #4F6577;
+      margin-bottom: 24px;
+    }
+    .pdf-section {
+      margin-bottom: 16px;
+      padding-left: 12px;
+      border-left: 3px solid #5FA8D3;
+    }
+    .pdf-section-label {
+      font-size: 10px;
+      font-weight: 600;
+      color: #1B4965;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 6px;
+    }
+    .pdf-bar {
+      height: 5px;
+      background: #E1E8ED;
+      border-radius: 2px;
+      margin-bottom: 5px;
+    }
+    .pdf-bar.w-6 { width: 60%; }
+    .pdf-bar.w-7 { width: 75%; }
+    .pdf-bar.w-8 { width: 88%; }
+    .pdf-bar.w-9 { width: 95%; }
+    .pdf-action {
+      padding: 16px 22px;
+      background: rgba(15, 25, 41, 0.4);
+      border-top: 1px solid rgba(95, 168, 211, 0.15);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+    .pdf-action-info { min-width: 0; flex: 1; }
+    .pdf-action-title {
+      font-weight: 600;
+      font-size: 13.5px;
+      color: var(--ink);
+      margin-bottom: 2px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .pdf-action-meta {
+      font-size: 11.5px;
+      color: var(--ink-muted);
+    }
+    .pdf-action-btn {
+      background: linear-gradient(180deg, #F8DC72 0%, #F4D35E 100%);
+      color: var(--bg);
+      padding: 9px 18px;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 13px;
+      flex-shrink: 0;
+      box-shadow: 0 1px 0 rgba(255, 255, 255, 0.25) inset,
+                  0 4px 12px rgba(244, 211, 94, 0.18);
+      transition: box-shadow 0.2s ease;
+    }
+    .pdf-card:hover .pdf-action-btn {
+      box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset,
+                  0 6px 18px rgba(244, 211, 94, 0.32);
+    }
+
+    @media (max-width: 900px) {
+      .preview-split {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+      .preview-text { text-align: center; }
+      .bullet-list li { text-align: left; }
+    }
+
+    /* ---------- REPORT PREVIEW (eski sample frame · artık kullanılmıyor) ---------- */
     .report-frame {
       background: var(--bg-elevated);
       border: 1px solid var(--border);
@@ -977,61 +1157,63 @@
   </section>
 
   <!-- ============== REPORT PREVIEW ============== -->
-  <section class="section section-center reveal" id="preview">
+  <section class="section reveal" id="preview">
     <div class="container">
-      <span class="eyebrow">Örnek E-posta</span>
-      <h2 class="section-title">Gelen kutunuzda böyle bir e-posta olacak.</h2>
-      <p class="section-lead">Kısa e-posta önizlemesi gelir, detaylı rapor PDF olarak ektedir. PDF'i de aşağıdan indirip inceleyebilirsiniz.</p>
-
-      <div class="report-frame">
-        <div class="report-header">
-          <div class="report-dots">
-            <span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
-          </div>
-          <span>📊 TreScout · 9 Mayıs 2026 raporu</span>
-        </div>
-        <div class="report-body">
-          <h2>Bugünün öne çıkanları</h2>
-          <p class="report-meta">9 Mayıs 2026 · 16 trend · 8 dk okuma</p>
-
-          <p style="margin-bottom: 20px; color: var(--ink);">Merhaba 👋</p>
-          <p style="margin-bottom: 20px; color: var(--ink-muted);">
-            Bugün toplam 16 trend derledik. Öne çıkanlar şöyle:
-          </p>
-
-          <ul style="list-style: none; padding: 0; margin: 0 0 24px 0;">
-            <li style="padding: 10px 14px; background: rgba(27, 73, 101, 0.2); border-radius: 8px; margin-bottom: 8px; border-left: 3px solid var(--brand-light);">
-              <strong style="color: var(--brand-light);">GitHub:</strong> <code style="color: var(--ink);">anthropic-ai/claude-code</code> (+1,243)
-            </li>
-            <li style="padding: 10px 14px; background: rgba(27, 73, 101, 0.2); border-radius: 8px; margin-bottom: 8px; border-left: 3px solid var(--brand-light);">
-              <strong style="color: var(--brand-light);">GitHub:</strong> <code style="color: var(--ink);">google-deepmind/gemma-3.5</code> (+2,108)
-            </li>
-            <li style="padding: 10px 14px; background: rgba(27, 73, 101, 0.2); border-radius: 8px; margin-bottom: 8px; border-left: 3px solid var(--brand-light);">
-              <strong style="color: var(--brand-light);">Hacker News:</strong> "Why Rust is winning at systems programming"
-            </li>
-            <li style="padding: 10px 14px; background: rgba(27, 73, 101, 0.2); border-radius: 8px; margin-bottom: 8px; border-left: 3px solid var(--brand-light);">
-              <strong style="color: var(--brand-light);">HuggingFace:</strong> trending model: <code style="color: var(--ink);">SulphurAI/Sulphur-2</code>
-            </li>
-            <li style="padding: 10px 14px; color: var(--ink-muted); font-style: italic;">
-              ... ve 12 trend daha (PDF'te detaylı)
-            </li>
+      <div class="preview-split">
+        <div class="preview-text">
+          <span class="eyebrow">PDF eki</span>
+          <h2 class="section-title">Tam rapor, sade okuma.</h2>
+          <p class="section-lead">E-posta hızlı bir özet sunar; ayrıntılı tüm trendler, kaynak linkleri ve Sektörden Terimler sözlüğü PDF eki olarak gelir.</p>
+          <ul class="bullet-list">
+            <li><span class="bullet-icon">📄</span><span><strong>20+ trend</strong>, kaynak gruplarına ayrılmış</span></li>
+            <li><span class="bullet-icon">📚</span><span><strong>Sektörden Terimler</strong> · İngilizce teknik terimlerin Türkçe açıklamaları</span></li>
+            <li><span class="bullet-icon">🗂️</span><span><strong>Arşivlenebilir</strong> · klasörünüze koyup geçmişi gezin</span></li>
+            <li><span class="bullet-icon">🔗</span><span><strong>Tıklanabilir kaynak linkleri</strong> · doğrudan repo'ya, makaleye, modele</span></li>
           </ul>
-
-          <a href="sample-report.pdf" download="trescout-rapor-2026-05-09.pdf" target="_blank" style="text-decoration: none; color: inherit; display: block;">
-            <div style="background: linear-gradient(135deg, rgba(244, 211, 94, 0.1), rgba(95, 168, 211, 0.1)); border: 1px solid var(--accent); border-radius: 12px; padding: 20px; display: flex; align-items: center; gap: 16px; cursor: pointer; transition: all 0.2s;">
-              <div style="font-size: 40px;">📎</div>
-              <div style="flex: 1;">
-                <div style="font-weight: 600; margin-bottom: 4px;">trescout-rapor-2026-05-09.pdf</div>
-                <div style="font-size: 13px; color: var(--ink-muted);">Tam rapor · 20 trend · Sektörden Terimler · 420 KB</div>
-              </div>
-              <span style="padding: 8px 16px; background: var(--accent); color: var(--bg); border-radius: 8px; font-weight: 600; font-size: 13px;">İndir</span>
-            </div>
-          </a>
-
-          <p style="margin-top: 24px; font-size: 13px; color: var(--ink-muted); text-align: center;">
-            Tam raporu eklediğimiz PDF'te okuyabilirsiniz. PDF'i indirip arşivleyebilir, e-postayı silebilirsiniz. Yukarıdaki PDF gerçek bir örnek; aboneliklerinizde aynı formatta gelir.
-          </p>
         </div>
+
+        <a href="sample-report.pdf" download="trescout-rapor-2026-05-09.pdf" target="_blank" class="pdf-card" aria-label="Örnek raporu PDF olarak indir">
+          <div class="pdf-mockup">
+            <div class="pdf-page">
+              <div class="pdf-badge">Örnek</div>
+              <div class="pdf-page-brand">
+                <svg width="20" height="20" viewBox="0 0 100 100" aria-hidden="true">
+                  <rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/>
+                  <path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="3" opacity="0.3"/>
+                  <path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="3" opacity="0.5"/>
+                  <path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="3" opacity="0.75"/>
+                  <rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/>
+                  <rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/>
+                </svg>
+                <span>TreScout</span>
+              </div>
+              <div class="pdf-title">Bugünün Teknoloji Trendleri</div>
+              <div class="pdf-meta">9 Mayıs 2026, Cuma · 20 trend · ~12 dakika okuma</div>
+              <div class="pdf-section">
+                <div class="pdf-section-label">GitHub Trending</div>
+                <div class="pdf-bar w-9"></div>
+                <div class="pdf-bar w-7"></div>
+                <div class="pdf-bar w-8"></div>
+              </div>
+              <div class="pdf-section">
+                <div class="pdf-section-label">Hacker News</div>
+                <div class="pdf-bar w-8"></div>
+                <div class="pdf-bar w-6"></div>
+              </div>
+              <div class="pdf-section">
+                <div class="pdf-section-label">HuggingFace</div>
+                <div class="pdf-bar w-7"></div>
+              </div>
+            </div>
+          </div>
+          <div class="pdf-action">
+            <div class="pdf-action-info">
+              <div class="pdf-action-title">📎 trescout-rapor-2026-05-09.pdf</div>
+              <div class="pdf-action-meta">Tam rapor · 20 trend · 547 KB</div>
+            </div>
+            <span class="pdf-action-btn">İndir</span>
+          </div>
+        </a>
       </div>
     </div>
   </section>
