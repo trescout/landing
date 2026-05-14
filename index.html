@@ -988,6 +988,104 @@
       color: var(--ink-muted);
     }
 
+    /* ---------- ROADMAP (Yol Haritası) ---------- */
+    .roadmap {
+      position: relative;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+      margin-top: 44px;
+      text-align: left;
+    }
+    .roadmap-track {
+      position: absolute;
+      top: 28px;
+      left: 8%;
+      right: 8%;
+      height: 2px;
+      background: linear-gradient(90deg,
+        rgba(95, 168, 211, 0.4) 0%,
+        rgba(95, 168, 211, 0.4) 100%);
+      background-image: linear-gradient(90deg, rgba(95, 168, 211, 0.4) 50%, transparent 50%);
+      background-size: 8px 2px;
+      background-repeat: repeat-x;
+      z-index: 0;
+    }
+    .roadmap-item {
+      position: relative;
+      z-index: 1;
+      padding: 0 8px;
+    }
+    .roadmap-dot {
+      width: 56px;
+      height: 56px;
+      border-radius: 50%;
+      background: var(--bg);
+      border: 2px solid rgba(95, 168, 211, 0.35);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+      transition: border-color 0.25s ease, transform 0.25s ease;
+    }
+    .roadmap-item:hover .roadmap-dot {
+      border-color: var(--accent);
+      transform: scale(1.05);
+    }
+    .roadmap-stage {
+      display: inline-block;
+      font-family: ui-monospace, 'SF Mono', monospace;
+      font-size: 10px;
+      font-weight: 700;
+      color: var(--accent);
+      background: rgba(244, 211, 94, 0.08);
+      border: 1px solid rgba(244, 211, 94, 0.2);
+      padding: 3px 8px;
+      border-radius: 100px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    .roadmap-title {
+      font-family: Georgia, serif;
+      font-size: 19px;
+      font-weight: 700;
+      margin-bottom: 8px;
+      color: var(--ink);
+    }
+    .roadmap-item p {
+      font-size: 14px;
+      color: var(--ink-muted);
+      line-height: 1.55;
+    }
+    @media (max-width: 768px) {
+      .roadmap {
+        grid-template-columns: 1fr;
+        gap: 28px;
+      }
+      .roadmap-track {
+        top: 0;
+        bottom: 0;
+        left: 27px;
+        right: auto;
+        width: 2px;
+        height: auto;
+        background-image: linear-gradient(180deg, rgba(95, 168, 211, 0.4) 50%, transparent 50%);
+        background-size: 2px 8px;
+        background-repeat: repeat-y;
+      }
+      .roadmap-item { padding-left: 76px; }
+      .roadmap-dot {
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-bottom: 0;
+        width: 56px;
+        height: 56px;
+      }
+    }
+
     /* ---------- FINAL CTA ---------- */
     .final-cta {
       background:
@@ -1361,28 +1459,35 @@
     </div>
   </section>
 
-  <!-- ============== UPCOMING ============== -->
+  <!-- ============== UPCOMING · ROADMAP ============== -->
   <section class="section section-center reveal">
     <div class="container">
-      <span class="eyebrow">Yakında</span>
+      <span class="eyebrow">Yol Haritası</span>
       <h2 class="section-title">İlerleyen sürümlerde...</h2>
-      <p class="section-lead">Şimdilik üç temele odaklandık. Sonraki yol haritamız şöyle:</p>
+      <p class="section-lead">Şimdilik üç temele odaklandık. Sonraki adımlar:</p>
 
-      <div class="features-grid">
-        <div class="feature">
-          <div class="feature-icon">🎯</div>
-          <h3>Konu filtreleri</h3>
-          <p>AI, web, mobile, devops, green-software: Sadece ilgilendiğiniz alanlar gelsin.</p>
+      <div class="roadmap">
+        <div class="roadmap-track" aria-hidden="true"></div>
+
+        <div class="roadmap-item">
+          <div class="roadmap-dot">🎯</div>
+          <div class="roadmap-stage">Sürüm 2</div>
+          <h3 class="roadmap-title">Konu filtreleri</h3>
+          <p>AI, web, mobile, devops, green-software · sadece ilgilendiğiniz alanlar gelsin.</p>
         </div>
-        <div class="feature">
-          <div class="feature-icon">🔁</div>
-          <h3>Aynı şey iki kez gelmez</h3>
-          <p>Bir repo size daha önce gönderildiyse, sonraki günlerde trendde kalsa bile rapora girmez. Yeni keşifler, yeni sürümler ve büyük güncellemeler gelir; geri kalanı filtrelenir. <small style="color:var(--ink-muted);">("Bunu hiç görmek istemiyorum" diyebileceğiniz manuel susturma yakında.)</small></p>
+
+        <div class="roadmap-item">
+          <div class="roadmap-dot">🔁</div>
+          <div class="roadmap-stage">Sürüm 2</div>
+          <h3 class="roadmap-title">Aynı şey iki kez gelmez</h3>
+          <p>Önceden gönderilen repo trendde kalsa bile rapora girmez. Yeni keşifler, yeni sürümler, büyük güncellemeler gelir; geri kalanı filtrelenir.</p>
         </div>
-        <div class="feature">
-          <div class="feature-icon">📦</div>
-          <h3>Geçmiş arşivi</h3>
-          <p>Yeni abone oldunuz ama eski trendleri merak mı ediyorsunuz? Başlangıçtan bugüne, gün gün gönderelim.</p>
+
+        <div class="roadmap-item">
+          <div class="roadmap-dot">📦</div>
+          <div class="roadmap-stage">Sürüm 2</div>
+          <h3 class="roadmap-title">Geçmiş arşivi</h3>
+          <p>Yeni abone oldunuz, eski trendleri merak ediyor musunuz? Başlangıçtan bugüne, gün gün gönderelim.</p>
         </div>
       </div>
     </div>
