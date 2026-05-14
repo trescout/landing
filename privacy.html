@@ -159,7 +159,25 @@
       TreScout landing sayfası tarayıcınıza <strong>hiçbir tracking çerezi yerleştirmez</strong>. Form bir doğrudan API çağrısıyla çalışır, üçüncü taraf widget yüklenmez. Reklam, davranış izleme veya analytics çerezi yoktur.
     </p>
 
-    <h2>8. İletişim</h2>
+    <h2>8. Güvenlik önlemleri</h2>
+    <p>
+      Verinizi korumak için aldığımız teknik önlemler:
+    </p>
+    <ul>
+      <li><strong>HTTPS zorunlu</strong> · TLS 1.3 üzerinden şifreli iletim (HSTS preload kayıtlı, 2 yıl).</li>
+      <li><strong>API key yalıtımı</strong> · Resend API anahtarı yalnızca sunucu tarafında, tarayıcıya hiçbir zaman sızmaz.</li>
+      <li><strong>CSRF koruması</strong> · API endpoint sadece tanımlı origin'lerden gelen istekleri kabul eder.</li>
+      <li><strong>Bot koruması</strong> · Form üzerinde honeypot mekanizması, otomatik botlar engellenir.</li>
+      <li><strong>İçerik Güvenlik Politikası (CSP)</strong> · Sayfaya yabancı script yüklemesi tarayıcı seviyesinde engellenir (XSS koruması).</li>
+      <li><strong>Tıklama hırsızlığı (clickjacking) koruması</strong> · <code>X-Frame-Options</code> ile başka sitelerde iframe içine alınamaz.</li>
+      <li><strong>Disposable e-posta filtresi</strong> · Tek seferlik adresler kabul edilmez, listeyi temiz tutar.</li>
+      <li><strong>Veri lokasyonu</strong> · Hizmet sağlayıcılarımız (Resend, Vercel) GDPR ve SOC 2 uyumlu altyapı kullanır.</li>
+    </ul>
+    <p>
+      Bir güvenlik açığı tespit ederseniz lütfen <a href="mailto:hello@trescout.com">hello@trescout.com</a> adresine bildirin. Sorumlu açıklama (responsible disclosure) yapan herkesle iş birliği yaparız.
+    </p>
+
+    <h2>9. İletişim</h2>
     <p>
       Bu metinle veya kişisel verileriniz konusunda sorularınız için:
     </p>
@@ -168,7 +186,7 @@
       <li>Web: <a href="https://trescout.com">trescout.com</a></li>
     </ul>
 
-    <h2>9. Değişiklikler</h2>
+    <h2>10. Değişiklikler</h2>
     <p>
       Bu metin lansman ve ürün sürüm güncellemeleriyle değişebilir. Önemli değişikliklerde kayıtlı e-posta adresinize bildirim göndeririz. En güncel hâli bu sayfada her zaman bulunur; "Son güncelleme" tarihi en üstte yer alır.
     </p>

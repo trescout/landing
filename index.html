@@ -353,6 +353,16 @@
       outline: 2px solid var(--accent);
       outline-offset: 2px;
     }
+    /* Honeypot · görünmez, klavye fokusu da almaz */
+    .hp-field {
+      position: absolute;
+      left: -9999px;
+      top: -9999px;
+      width: 1px;
+      height: 1px;
+      opacity: 0;
+      pointer-events: none;
+    }
 
     /* HERO VISUAL · gerçek mail client mockup (iCloud / Gmail benzeri) */
     .hero-visual {
@@ -1432,6 +1442,79 @@
       .vertical-cta { text-align: center; }
     }
 
+    /* ---------- COMMUNITY · Ekibe katıl + Geri bildirim ---------- */
+    .community-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+    .community-card {
+      display: flex;
+      gap: 20px;
+      padding: 28px;
+      background: linear-gradient(180deg, var(--bg-elevated) 0%, rgba(27, 42, 64, 0.7) 100%);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1),
+                  border-color 0.2s ease,
+                  box-shadow 0.25s ease;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+    }
+    .community-card:hover {
+      transform: translateY(-3px);
+      border-color: rgba(244, 211, 94, 0.4);
+      box-shadow: 0 16px 40px rgba(0, 0, 0, 0.3);
+    }
+    .community-icon {
+      flex-shrink: 0;
+      width: 52px;
+      height: 52px;
+      border-radius: 14px;
+      background: rgba(95, 168, 211, 0.12);
+      border: 1px solid rgba(95, 168, 211, 0.18);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 26px;
+    }
+    .community-content { flex: 1; min-width: 0; }
+    .community-eyebrow {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 8px;
+    }
+    .community-card h3 {
+      font-family: Georgia, serif;
+      font-size: 22px;
+      margin-bottom: 8px;
+      color: var(--ink);
+    }
+    .community-card p {
+      font-size: 14px;
+      line-height: 1.6;
+      color: var(--ink-muted);
+      margin-bottom: 14px;
+    }
+    .community-cta {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--accent);
+      font-family: ui-monospace, 'SF Mono', monospace;
+      transition: gap 0.15s ease;
+    }
+    .community-card:hover .community-cta {
+      letter-spacing: 0.02em;
+    }
+    @media (max-width: 768px) {
+      .community-grid { grid-template-columns: 1fr; }
+    }
+
     /* ---------- FINAL CTA ---------- */
     .final-cta {
       background:
@@ -1607,6 +1690,8 @@
             <input type="checkbox" name="consent" required>
             <span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span>
           </label>
+          <!-- Honeypot · bot filtresi · gerçek kullanıcı görmez, doldurmaz -->
+          <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
         </form>
         <p class="hero-note">Beta listesine kaydolun. Yayında olduğumuzda haber verelim, spam göndermeyiz.</p>
       </div>
@@ -1930,6 +2015,33 @@
     </div>
   </section>
 
+  <!-- ============== JOIN / FEEDBACK · iki kanat ============== -->
+  <section class="section reveal" id="community">
+    <div class="container">
+      <div class="community-grid">
+        <a href="mailto:hello@trescout.com?subject=TreScout%20%C3%A7al%C4%B1%C5%9Fma%20talebi&amp;body=Merhaba%2C%0A%0ATreScout%20projesinde%20yer%20almak%20isterim.%20K%C4%B1sa%C3%A7a%20kendimi%20tan%C4%B1taca%C4%9F%C4%B1m%3A%0A%0A%E2%80%A2%20Ne%20yap%C4%B1yorum%3A%20%0A%E2%80%A2%20Neden%20kat%C4%B1lmak%20istiyorum%3A%20%0A%E2%80%A2%20%C4%B0lgili%20linkler%20(LinkedIn%2C%20portfolio%2C%20GitHub)%3A%20%0A%0AG%C3%B6r%C3%BC%C5%9Fmek%20%C3%BCzere%2C" class="community-card">
+          <div class="community-icon">🤝</div>
+          <div class="community-content">
+            <span class="community-eyebrow">Birlikte çalışalım</span>
+            <h3>Ekibe katılın</h3>
+            <p>Projeye inanıyor, vakit ayırmak istiyorsanız bize yazın. Geliştirici, tasarımcı, içerik üreticisi · doğru ekipte yer açılır.</p>
+            <span class="community-cta">hello@trescout.com →</span>
+          </div>
+        </a>
+
+        <a href="mailto:hello@trescout.com?subject=TreScout%20geri%20bildirim&amp;body=Merhaba%2C%0A%0ATreScout%20hakk%C4%B1nda%20bir%20%C5%9Fey%20payla%C5%9Fmak%20istiyorum%3A%0A%0A%E2%80%A2%20Konu%20(sorun%20%2F%20%C3%B6neri%20%2F%20fikir)%3A%20%0A%E2%80%A2%20Detay%3A%20%0A%0ATe%C5%9Fekk%C3%BCrler%2C" class="community-card">
+          <div class="community-icon">💬</div>
+          <div class="community-content">
+            <span class="community-eyebrow">Sesimiz olun</span>
+            <h3>Geri bildirim</h3>
+            <p>Sayfada bir sorun, mesajda bir tutarsızlık, üründe bir öneri · ne olursa olsun bize ulaşın. Her mail okunur, çoğuna cevap verilir.</p>
+            <span class="community-cta">hello@trescout.com →</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
   <!-- ============== FINAL CTA ============== -->
   <section class="container" id="cta">
     <div class="final-cta">
@@ -2045,12 +2157,15 @@
           button.textContent = 'Gönderiliyor...';
 
           try {
+            var honeypot = form.querySelector('input[name="website"]');
             var res = await fetch(ENDPOINT, {
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
               body: JSON.stringify({
                 email: email,
-                source: form.dataset.source || 'unknown'
+                source: form.dataset.source || 'unknown',
+                consent: true,
+                website: honeypot ? honeypot.value : ''
               })
             });
             var data = await res.json().catch(function () { return {}; });
