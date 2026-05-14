@@ -293,9 +293,46 @@
     }
     .cta-form {
       display: flex;
+      flex-direction: column;
       gap: 12px;
       max-width: 520px;
+    }
+    .form-row {
+      display: flex;
+      gap: 12px;
       flex-wrap: wrap;
+    }
+    .form-consent {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      font-size: 13px;
+      color: var(--ink-muted);
+      cursor: pointer;
+      line-height: 1.5;
+      padding: 4px 2px;
+    }
+    .form-consent input[type="checkbox"] {
+      flex-shrink: 0;
+      width: 16px;
+      height: 16px;
+      margin-top: 2px;
+      accent-color: var(--accent);
+      cursor: pointer;
+    }
+    .form-consent a {
+      color: var(--ink-muted);
+      border-bottom: 1px solid var(--border);
+      text-decoration: none;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .form-consent a:hover {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+    .form-consent input[type="checkbox"]:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
     }
 
     /* HERO VISUAL · floating email-card mockup */
@@ -1058,29 +1095,35 @@
       color: var(--accent);
       box-shadow: 0 0 0 3px rgba(244, 211, 94, 0.1);
     }
-    .term-preview {
+    .term-list {
       margin-top: 16px;
-      padding: 10px 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .term-row {
+      padding: 10px 12px;
       background: rgba(15, 25, 41, 0.4);
       border-radius: 8px;
-      font-size: 13px;
-      display: flex;
-      align-items: center;
+      font-size: 12.5px;
+      line-height: 1.5;
+      display: grid;
+      grid-template-columns: auto auto 1fr;
       gap: 8px;
-      flex-wrap: wrap;
+      align-items: start;
     }
-    .term-preview code {
+    .term-row code {
       font-family: ui-monospace, 'SF Mono', monospace;
       color: var(--accent);
       font-weight: 600;
+      white-space: nowrap;
     }
-    .term-arrow {
+    .term-row .term-arrow {
       color: var(--ink-muted);
       font-family: ui-monospace, monospace;
     }
-    .term-def {
+    .term-row .term-def {
       color: var(--ink-muted);
-      font-style: italic;
     }
     @media (max-width: 768px) {
       .features-bento { grid-template-columns: 1fr; }
@@ -1186,6 +1229,76 @@
       }
     }
 
+    /* ---------- VERTICALS · Sıradaki alan ---------- */
+    .vertical-cards {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-top: 40px;
+      text-align: left;
+    }
+    .vertical-card {
+      padding: 24px 20px;
+      background: linear-gradient(180deg, var(--bg-elevated) 0%, rgba(27, 42, 64, 0.7) 100%);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1), border-color 0.2s ease;
+    }
+    .vertical-card:hover {
+      transform: translateY(-3px);
+      border-color: rgba(244, 211, 94, 0.3);
+    }
+    .vertical-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 10px;
+      background: rgba(244, 211, 94, 0.1);
+      border: 1px solid rgba(244, 211, 94, 0.18);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      margin-bottom: 14px;
+    }
+    .vertical-card h3 {
+      font-family: Georgia, serif;
+      font-size: 18px;
+      margin-bottom: 6px;
+      color: var(--ink);
+    }
+    .vertical-card p {
+      font-size: 13px;
+      line-height: 1.55;
+      color: var(--ink-muted);
+    }
+    .vertical-cta {
+      margin-top: 44px;
+      max-width: 760px;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 24px 28px;
+      background: rgba(244, 211, 94, 0.06);
+      border: 1px solid rgba(244, 211, 94, 0.2);
+      border-radius: 14px;
+      text-align: left;
+    }
+    .vertical-cta p {
+      font-size: 15px;
+      line-height: 1.65;
+      color: var(--ink);
+      margin: 0;
+    }
+    .vertical-cta strong {
+      color: var(--accent);
+    }
+    @media (max-width: 968px) {
+      .vertical-cards { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 540px) {
+      .vertical-cards { grid-template-columns: 1fr; }
+      .vertical-cta { text-align: center; }
+    }
+
     /* ---------- FINAL CTA ---------- */
     .final-cta {
       background:
@@ -1224,6 +1337,10 @@
       max-width: 540px;
       margin: 0 auto 36px;
       font-size: 17px;
+    }
+    .final-cta-btn {
+      font-size: 16px !important;
+      padding: 16px 36px !important;
     }
     @media (max-width: 540px) {
       .final-cta { padding: 56px 24px; border-radius: 20px; }
@@ -1313,6 +1430,7 @@
   </style>
 </head>
 <body>
+  <span id="top" aria-hidden="true"></span>
   <a class="skip-link" href="#main">Ana içeriğe atla</a>
 
   <!-- ============== NAV ============== -->
@@ -1343,25 +1461,21 @@
   <section class="hero">
     <div class="container hero-content">
       <div class="hero-text">
-        <div class="hero-logo">
-          <svg width="72" height="72" viewBox="0 0 100 100" aria-hidden="true">
-            <rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/>
-            <path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/>
-            <path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/>
-            <path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/>
-            <rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/>
-            <rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/>
-          </svg>
-        </div>
         <h1>Teknoloji takibi <span class="accent">artık bir iş yükü değil.</span></h1>
         <p class="mid-line">TreScout tarar, özetler, gönderir. Siz sadece okursunuz.</p>
         <p class="sub-line">GitHub, Hacker News, HuggingFace ve daha fazlası. Kendi temponuzda, istediğiniz saatte.</p>
 
         <form class="cta-form js-subscribe" data-source="hero" novalidate>
-          <input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required>
-          <button class="btn btn-primary btn-large" type="submit">Erken erişim listesine katılın</button>
+          <div class="form-row">
+            <input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required>
+            <button class="btn btn-primary btn-large" type="submit">Erken erişim listesine katılın</button>
+          </div>
+          <label class="form-consent">
+            <input type="checkbox" name="consent" required>
+            <span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span>
+          </label>
         </form>
-        <p class="hero-note">Beta listesine kaydolun. Yayında olduğumuzda haber verelim, spam göndermeyiz. Kaydolarak <a href="/privacy.html">Aydınlatma Metni</a>'ni kabul etmiş olursunuz.</p>
+        <p class="hero-note">Beta listesine kaydolun. Yayında olduğumuzda haber verelim, spam göndermeyiz.</p>
       </div>
 
       <aside class="hero-visual" aria-hidden="true">
@@ -1439,7 +1553,7 @@
           <h2 class="section-title">Tam rapor, sade okuma.</h2>
           <p class="section-lead">E-posta hızlı bir özet sunar; ayrıntılı tüm trendler, kaynak linkleri ve Sektörden Terimler sözlüğü PDF eki olarak gelir.</p>
           <ul class="bullet-list">
-            <li><span class="bullet-icon">📄</span><span><strong>20+ trend</strong>, kaynak gruplarına ayrılmış</span></li>
+            <li><span class="bullet-icon">📄</span><span><strong>Günün öne çıkanları</strong>, kaynak gruplarına ayrılmış</span></li>
             <li><span class="bullet-icon">📚</span><span><strong>Sektörden Terimler</strong> · İngilizce teknik terimlerin Türkçe açıklamaları</span></li>
             <li><span class="bullet-icon">🗂️</span><span><strong>Arşivlenebilir</strong> · klasörünüze koyup geçmişi gezin</span></li>
             <li><span class="bullet-icon">🔗</span><span><strong>Tıklanabilir kaynak linkleri</strong> · doğrudan repo'ya, makaleye, modele</span></li>
@@ -1562,10 +1676,12 @@
           </div>
           <div class="feature">
             <div class="feature-icon">📚</div>
-            <h3>Anahtar terim sözlüğü</h3>
-            <p>Türkçe rapor, İngilizce teknik terimler korunmuş ve sonda sözlük olarak açıklanmış.</p>
-            <div class="term-preview" aria-hidden="true">
-              <code>fine-tuning</code> <span class="term-arrow">→</span> <span class="term-def">modeli özel veriyle uyarlama</span>
+            <h3>Sektörden terimler</h3>
+            <p>Raporu Türkçe okursunuz, geçen yabancı terimler raporun sonunda tek tek açıklanır. Yeni alanlara hızlı girersiniz.</p>
+            <div class="term-list" aria-hidden="true">
+              <div class="term-row"><code>fine-tuning</code><span class="term-arrow">→</span><span class="term-def">mevcut bir yapay zekâ modelini, sizin verinizle yeniden eğiterek özelleştirme</span></div>
+              <div class="term-row"><code>RAG</code><span class="term-arrow">→</span><span class="term-def">modelin cevap verirken kendi belge havuzunuzdan ilgili parçaları çekip kullanması</span></div>
+              <div class="term-row"><code>MCP</code><span class="term-arrow">→</span><span class="term-def">yapay zekâ ajanlarının harici araçlara bağlanmasını sağlayan açık protokol</span></div>
             </div>
           </div>
         </div>
@@ -1573,36 +1689,72 @@
     </div>
   </section>
 
-  <!-- ============== UPCOMING · ROADMAP ============== -->
+  <!-- ============== UPCOMING · İlk sürümde olacaklar ============== -->
   <section class="section section-center reveal">
     <div class="container">
-      <span class="eyebrow">Yol Haritası</span>
-      <h2 class="section-title">İlerleyen sürümlerde...</h2>
-      <p class="section-lead">Şimdilik üç temele odaklandık. Sonraki adımlar:</p>
+      <span class="eyebrow">İlk Sürümde</span>
+      <h2 class="section-title">Lansmana kadar ekleyecek olduklarımız.</h2>
+      <p class="section-lead">Şimdi temele odaklandık. Bu üç özellik de ilk sürümde gelecek:</p>
 
       <div class="roadmap">
         <div class="roadmap-track" aria-hidden="true"></div>
 
         <div class="roadmap-item">
           <div class="roadmap-dot">🎯</div>
-          <div class="roadmap-stage">Sürüm 2</div>
+          <div class="roadmap-stage">Geliyor</div>
           <h3 class="roadmap-title">Konu filtreleri</h3>
-          <p>AI, web, mobile, devops, green-software · sadece ilgilendiğiniz alanlar gelsin.</p>
+          <p>YZ, web, mobil, devops, yeşil yazılım · sadece ilgilendiğiniz alanlar gelsin.</p>
         </div>
 
         <div class="roadmap-item">
           <div class="roadmap-dot">🔁</div>
-          <div class="roadmap-stage">Sürüm 2</div>
+          <div class="roadmap-stage">Geliyor</div>
           <h3 class="roadmap-title">Aynı şey iki kez gelmez</h3>
-          <p>Önceden gönderilen repo trendde kalsa bile rapora girmez. Yeni keşifler, yeni sürümler, büyük güncellemeler gelir; geri kalanı filtrelenir.</p>
+          <p>Önceden gönderilen repo trendde kalsa bile rapora girmez. Yeni keşifler, yeni sürümler ve büyük güncellemeler gelir; geri kalanı filtrelenir.</p>
         </div>
 
         <div class="roadmap-item">
           <div class="roadmap-dot">📦</div>
-          <div class="roadmap-stage">Sürüm 2</div>
+          <div class="roadmap-stage">Geliyor</div>
           <h3 class="roadmap-title">Geçmiş arşivi</h3>
           <p>Yeni abone oldunuz, eski trendleri merak ediyor musunuz? Başlangıçtan bugüne, gün gün gönderelim.</p>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============== VERTICALS · Sıradaki alan ============== -->
+  <section class="section section-center reveal" id="verticals">
+    <div class="container">
+      <span class="eyebrow">Sıradaki Alan</span>
+      <h2 class="section-title">Sadece teknoloji değil.</h2>
+      <p class="section-lead">TreScout şu an geliştiriciler için. Ama bilgisi sürekli yenilenen her alan için aynı şey kurulabilir: dergiler, tebliğler, regülasyonlar, sektör haberleri. Sıradaki alan, erken erişim listesi belirleyecek.</p>
+
+      <div class="vertical-cards">
+        <div class="vertical-card">
+          <div class="vertical-icon">🩺</div>
+          <h3>Tıp</h3>
+          <p>Yeni klinik çalışmalar, kılavuz güncellemeleri, ilaç onayları · hekim için günlük özet.</p>
+        </div>
+        <div class="vertical-card">
+          <div class="vertical-icon">📖</div>
+          <h3>Akademi</h3>
+          <p>Kendi alanınızdaki yeni makaleler, citation patlamaları, konferans paper'ları, sözlük güncellemeleri.</p>
+        </div>
+        <div class="vertical-card">
+          <div class="vertical-icon">⚖️</div>
+          <h3>Hukuk</h3>
+          <p>Mevzuat değişiklikleri, içtihat kararları, regülasyon güncellemeleri · pratiğe etkisiyle.</p>
+        </div>
+        <div class="vertical-card">
+          <div class="vertical-icon">🏪</div>
+          <h3>Esnaf / KOBİ</h3>
+          <p>Sektör trendleri, tedarikçi haberleri, vergi ve yönetmelik değişiklikleri · kısa, eyleme dönük.</p>
+        </div>
+      </div>
+
+      <div class="vertical-cta">
+        <p><strong>Hangi alan ilk olsun?</strong> Erken erişim listesine katıldığınızda alanınızı bize söyleyin. En çok talep gelen alan ilk açılacak; sizden de "ne takip ediyorum, hangi kaynaklar değerli" sorularına kısa cevap rica edeceğiz. Uzmanlığınız ürünün doğru kurulmasına yardımcı olacak.</p>
       </div>
     </div>
   </section>
@@ -1612,11 +1764,7 @@
     <div class="final-cta">
       <h2>İstediğiniz saatte. Kahvenize eşlikçi.</h2>
       <p>Erken erişim listesi açık. Yayına geçtiğimizde ilk siz haberdar olun.</p>
-      <form class="cta-form js-subscribe" data-source="bottom" novalidate>
-        <input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required>
-        <button class="btn btn-primary btn-large" type="submit">Listeye katılın</button>
-      </form>
-      <p class="hero-note" style="margin-top: 16px; text-align: center;">Kaydolarak <a href="/privacy.html">Aydınlatma Metni</a>'ni kabul etmiş olursunuz.</p>
+      <a href="#top" class="btn btn-primary btn-large final-cta-btn">Erken erişim listesine katıl ↑</a>
     </div>
   </section>
 
@@ -1659,11 +1807,10 @@
         </div>
 
         <div class="footer-col">
-          <div class="footer-col-title">Takip edin</div>
+          <div class="footer-col-title">Sosyal medya</div>
           <ul>
             <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">Twitter / X</a></li>
             <li><a href="https://linkedin.com/company/trescout" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-            <li><a href="https://instagram.com/gettrescout" target="_blank" rel="noopener noreferrer">Instagram</a></li>
             <li><a href="https://bsky.app/profile/gettrescout.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a></li>
           </ul>
         </div>
@@ -1671,7 +1818,6 @@
 
       <div class="footer-bottom">
         <span>© 2026 TreScout · Tüm hakları saklıdır.</span>
-        <span class="footer-bottom-meta">Türkiye'den, dikkatle.</span>
       </div>
     </div>
   </footer>
@@ -1714,6 +1860,12 @@
           var email = input.value.trim();
           if (!email || !input.checkValidity()) {
             input.reportValidity();
+            return;
+          }
+          var consent = form.querySelector('input[name="consent"]');
+          if (consent && !consent.checked) {
+            showError(form, 'Devam etmek için Aydınlatma Metni onayı gerekli.');
+            consent.focus();
             return;
           }
 
