@@ -2852,6 +2852,8 @@
       }
 
       function openModal() {
+        // Guard · zaten açıksa tekrar çalışma (double-fire koruması)
+        if (modal.getAttribute('aria-hidden') === 'false') return;
         lastFocus = document.activeElement;
         // Mevcut scroll pozisyonunu sakla
         savedScrollY = window.pageYOffset || document.documentElement.scrollTop || 0;
@@ -2922,8 +2924,9 @@
         }
       });
 
-      // Consent gereken durumda: checkbox veya etiketine tıklayan → modal otomatik açılır
-      // Checkbox'a doğrudan listener (iOS'ta label bubble bazen kararsız)
+      // Consent gerektiren durumda: label tıklaması (checkbox dahil bubble) → modal
+      // Label'a TEK listener · click bubble'ı zaten checkbox'tan label'a gelir
+      // İki ayrı listener double-fire'a sebep oluyordu (savedScrollY = 0 bug)
       if (checkbox) {
         var consentLabel = checkbox.closest('.form-consent');
 
@@ -2931,25 +2934,50 @@
           return checkbox.hasAttribute('data-needs-consent');
         }
 
-        function triggerConsentFlow(e) {
-          if (!needsConsent()) return;
-          if (e.target.closest('a[data-privacy-modal]')) return;
-          e.preventDefault();
-          if (hint) {
-            hint.classList.remove('shake');
-            void hint.offsetWidth;
-            hint.classList.add('shake');
-            setTimeout(function () { hint.classList.remove('shake'); }, 700);
-          }
-          openModal();
-        }
-
-        // Hem checkbox'a hem label'a listener · iOS'ta hangi olay ateşlerse o yakalansın
-        checkbox.addEventListener('click', triggerConsentFlow);
         if (consentLabel) {
-          consentLabel.addEventListener('click', triggerConsentFlow);
+          consentLabel.addEventListener('click', function (e) {
+            if (!needsConsent()) return;
+            // Aydınlatma Metni link'i kendi handler'ında açıyor · skip
+            if (e.target.closest('a[data-privacy-modal]')) return;
+            e.preventDefault();
+            if (hint) {
+              hint.classList.remove('shake');
+              void hint.offsetWidth;
+              hint.classList.add('shake');
+              setTimeout(function () { hint.classList.remove('shake'); }, 700);
+            }
+            openModal();
+          });
         }
       }
+
+      // Defensive cleanup · sayfa görünür olduğunda stuck scroll lock'u temizle
+      // (Modal açıkken tab değişip dönüldüğünde body fixed kalmış olabilir)
+      document.addEventListener('visibilitychange', function () {
+        if (document.visibilityState === 'visible' &&
+            modal.getAttribute('aria-hidden') === 'true' &&
+            document.body.style.position === 'fixed') {
+          // Modal kapalı ama body hala fixed · stuck state · temizle
+          ['position', 'top', 'left', 'right', 'width', 'overflow'].forEach(function (p) {
+            document.body.style.removeProperty(p);
+          });
+          document.documentElement.style.removeProperty('overflow');
+          document.body.classList.remove('modal-open');
+          document.documentElement.classList.remove('modal-open');
+        }
+      });
+
+      // Pageshow event'i de aynı cleanup (back-forward cache)
+      window.addEventListener('pageshow', function (e) {
+        if (e.persisted && document.body.style.position === 'fixed') {
+          ['position', 'top', 'left', 'right', 'width', 'overflow'].forEach(function (p) {
+            document.body.style.removeProperty(p);
+          });
+          document.documentElement.style.removeProperty('overflow');
+          document.body.classList.remove('modal-open');
+          document.documentElement.classList.remove('modal-open');
+        }
+      });
     })();
   </script>
 
