@@ -327,6 +327,7 @@
       cursor: pointer;
       line-height: 1.5;
       padding: 4px 2px;
+      flex-wrap: wrap;
     }
     .form-consent input[type="checkbox"] {
       flex-shrink: 0;
@@ -335,6 +336,25 @@
       margin-top: 2px;
       accent-color: var(--accent);
       cursor: pointer;
+    }
+    .form-consent input[type="checkbox"]:disabled {
+      cursor: not-allowed;
+      opacity: 0.6;
+    }
+    .form-consent-hint {
+      display: block;
+      width: 100%;
+      margin-left: 26px;
+      margin-top: 2px;
+      font-size: 11.5px;
+      color: var(--ink-muted);
+      font-style: italic;
+      letter-spacing: 0.01em;
+    }
+    .form-consent-hint.read {
+      color: var(--accent);
+      font-style: normal;
+      font-weight: 600;
     }
     .form-consent a {
       color: var(--ink);
@@ -684,6 +704,156 @@
       color: var(--accent);
       border-bottom-color: var(--accent);
       outline: none;
+    }
+
+    /* ---------- AYDINLATMA METNİ MODAL ---------- */
+    .privacy-modal {
+      position: fixed;
+      inset: 0;
+      background: rgba(8, 14, 24, 0.78);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      z-index: 1000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s ease;
+    }
+    .privacy-modal[aria-hidden="false"] {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    .privacy-modal-card {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      width: min(880px, 100%);
+      max-height: 92vh;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 28px 80px rgba(0, 0, 0, 0.6),
+                  0 0 0 1px rgba(255, 255, 255, 0.04) inset;
+      overflow: hidden;
+      transform: translateY(12px);
+      transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+    }
+    .privacy-modal[aria-hidden="false"] .privacy-modal-card {
+      transform: translateY(0);
+    }
+    .privacy-modal-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .privacy-modal-head h2 {
+      font-family: Georgia, serif;
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--ink);
+      margin: 0;
+    }
+    .privacy-modal-x {
+      appearance: none;
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--ink-muted);
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      font-size: 20px;
+      line-height: 1;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s, border-color 0.15s;
+    }
+    .privacy-modal-x:hover,
+    .privacy-modal-x:focus-visible {
+      background: rgba(95, 168, 211, 0.08);
+      color: var(--ink);
+      border-color: rgba(168, 192, 208, 0.4);
+      outline: none;
+    }
+    .privacy-modal-body {
+      flex: 1;
+      overflow: hidden;
+      display: flex;
+      min-height: 0;
+    }
+    .privacy-modal-iframe {
+      width: 100%;
+      height: 100%;
+      min-height: 420px;
+      border: none;
+      background: var(--bg);
+    }
+    .privacy-modal-foot {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 14px 20px;
+      border-top: 1px solid var(--border);
+      flex-shrink: 0;
+      background: rgba(15, 25, 41, 0.4);
+    }
+    .privacy-modal-status {
+      font-size: 13px;
+      color: var(--ink-muted);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .privacy-modal-status.read {
+      color: var(--accent);
+      font-weight: 600;
+    }
+    .privacy-modal-status .pulse-arrow {
+      animation: pulse-down 1.6s ease-in-out infinite;
+    }
+    .privacy-modal-status.read .pulse-arrow { display: none; }
+    @keyframes pulse-down {
+      0%, 100% { transform: translateY(0); opacity: 0.6; }
+      50%      { transform: translateY(3px); opacity: 1; }
+    }
+    .privacy-modal-confirm {
+      appearance: none;
+      background: var(--accent);
+      color: var(--bg);
+      border: none;
+      padding: 9px 18px;
+      border-radius: 10px;
+      font: inherit;
+      font-size: 13.5px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: opacity 0.2s ease, transform 0.18s ease;
+    }
+    .privacy-modal-confirm:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+    .privacy-modal-confirm:not(:disabled):hover {
+      transform: translateY(-1px);
+    }
+    @media (max-width: 640px) {
+      .privacy-modal { padding: 12px; }
+      .privacy-modal-card { max-height: 96vh; }
+      .privacy-modal-foot {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 12px;
+      }
+      .privacy-modal-confirm { width: 100%; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .privacy-modal,
+      .privacy-modal-card { transition: none; }
+      .privacy-modal-status .pulse-arrow { animation: none; }
     }
 
     /* ---------- SECTION COMMON ---------- */
@@ -1911,8 +2081,9 @@
             <button class="btn btn-primary btn-large" type="submit">Erken erişim listesine katılın</button>
           </div>
           <label class="form-consent">
-            <input type="checkbox" name="consent" required>
-            <span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span>
+            <input type="checkbox" name="consent" required disabled aria-describedby="consent-hint">
+            <span><a href="/privacy.html" data-privacy-modal>Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span>
+            <span id="consent-hint" class="form-consent-hint">Onaylamak için Aydınlatma Metni'ni açıp sonuna kadar kaydırın.</span>
           </label>
           <!-- Honeypot · bot filtresi · gerçek kullanıcı görmez, doldurmaz -->
           <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
@@ -2394,6 +2565,26 @@
     </div>
   </footer>
 
+  <!-- ============== AYDINLATMA METNİ MODAL ============== -->
+  <div class="privacy-modal" id="privacy-modal" role="dialog" aria-modal="true" aria-labelledby="privacy-modal-title" aria-hidden="true">
+    <div class="privacy-modal-card">
+      <div class="privacy-modal-head">
+        <h2 id="privacy-modal-title">Aydınlatma Metni</h2>
+        <button type="button" class="privacy-modal-x" aria-label="Kapat">×</button>
+      </div>
+      <div class="privacy-modal-body">
+        <iframe class="privacy-modal-iframe" src="about:blank" title="Aydınlatma Metni"></iframe>
+      </div>
+      <div class="privacy-modal-foot">
+        <span class="privacy-modal-status" aria-live="polite">
+          <span class="pulse-arrow" aria-hidden="true">↓</span>
+          <span class="privacy-modal-status-text">Onay için metnin sonuna kadar kaydırın</span>
+        </span>
+        <button type="button" class="privacy-modal-confirm" disabled>Okudum, kapat</button>
+      </div>
+    </div>
+  </div>
+
   <!-- ============== EARLY-ACCESS FORM (custom · /api/subscribe → Resend) ============== -->
   <script>
     (function () {
@@ -2492,6 +2683,99 @@
         if (!ticking) { requestAnimationFrame(update); ticking = true; }
       }, { passive: true });
       update();
+    })();
+  </script>
+
+  <!-- ============== AYDINLATMA METNİ MODAL · scroll-to-bottom gate ============== -->
+  <script>
+    (function () {
+      var modal = document.getElementById('privacy-modal');
+      if (!modal) return;
+
+      var iframe = modal.querySelector('.privacy-modal-iframe');
+      var closeX = modal.querySelector('.privacy-modal-x');
+      var confirmBtn = modal.querySelector('.privacy-modal-confirm');
+      var statusEl = modal.querySelector('.privacy-modal-status');
+      var statusText = modal.querySelector('.privacy-modal-status-text');
+      var links = document.querySelectorAll('a[data-privacy-modal]');
+      var checkbox = document.querySelector('input[name="consent"]');
+      var hint = document.getElementById('consent-hint');
+
+      var hasRead = false;
+      var lastFocus = null;
+
+      function setRead() {
+        if (hasRead) return;
+        hasRead = true;
+        statusEl.classList.add('read');
+        statusText.textContent = '✓ Sona kadar okundu';
+        confirmBtn.disabled = false;
+        if (hint) {
+          hint.textContent = '✓ Aydınlatma Metni okundu · onaylayabilirsiniz.';
+          hint.classList.add('read');
+        }
+        if (checkbox) checkbox.disabled = false;
+      }
+
+      function openModal() {
+        lastFocus = document.activeElement;
+        // Iframe'i her açılışta yeniden yükle → scroll tepesinden başlasın
+        iframe.src = '/privacy.html?embed=1&t=' + Date.now();
+        modal.setAttribute('aria-hidden', 'false');
+        document.body.style.overflow = 'hidden';
+        setTimeout(function () { closeX.focus(); }, 60);
+      }
+
+      function closeModal() {
+        modal.setAttribute('aria-hidden', 'true');
+        document.body.style.overflow = '';
+        if (lastFocus && typeof lastFocus.focus === 'function') {
+          lastFocus.focus();
+        }
+      }
+
+      // Iframe'den "okundu" mesajını dinle
+      window.addEventListener('message', function (e) {
+        if (e.data && e.data.type === 'trescout-privacy-read') {
+          setRead();
+        }
+      });
+
+      // Form içindeki Aydınlatma Metni link'leri modal açar
+      links.forEach(function (link) {
+        link.addEventListener('click', function (e) {
+          e.preventDefault();
+          openModal();
+        });
+      });
+
+      closeX.addEventListener('click', closeModal);
+      confirmBtn.addEventListener('click', closeModal);
+
+      // Backdrop click
+      modal.addEventListener('click', function (e) {
+        if (e.target === modal) closeModal();
+      });
+
+      // ESC ile kapat
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape' && modal.getAttribute('aria-hidden') === 'false') {
+          closeModal();
+        }
+      });
+
+      // Disabled checkbox'a tıklanırsa kullanıcıyı uyar
+      if (checkbox) {
+        var consentLabel = checkbox.closest('.form-consent');
+        if (consentLabel) {
+          consentLabel.addEventListener('click', function (e) {
+            if (checkbox.disabled && e.target === checkbox) {
+              e.preventDefault();
+              openModal();
+            }
+          });
+        }
+      }
     })();
   </script>
 
