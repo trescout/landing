@@ -152,9 +152,12 @@
       Tüm bu talepleriniz için <a href="mailto:hello@trescout.com">hello@trescout.com</a> adresine yazabilirsiniz. 30 gün içinde size dönüş yaparız.
     </p>
 
-    <h2>7. Çerezler</h2>
+    <h2>7. Çerezler ve analitik</h2>
     <p>
-      TreScout landing sayfası tarayıcınıza <strong>hiçbir tracking çerezi yerleştirmez</strong>. Form bir doğrudan API çağrısıyla çalışır, üçüncü taraf widget yüklenmez. Reklam, davranış izleme veya analytics çerezi yoktur.
+      TreScout landing sayfası tarayıcınıza <strong>hiçbir tracking çerezi yerleştirmez</strong>. Form bir doğrudan API çağrısıyla çalışır, üçüncü taraf reklam veya davranış izleme widget'ı yüklenmez.
+    </p>
+    <p>
+      Sayfa ziyaretçi sayımı için <strong>Vercel Web Analytics</strong> ve <strong>Vercel Speed Insights</strong> kullanılır. Bu hizmetler <em>çerez kullanmaz</em>, <em>parmak izi (fingerprint) toplamaz</em>, kişisel veri saklamaz. Sadece anonim sayfa görüntüleme ve performans metriği toplanır. GDPR ve KVKK uyumludur.
     </p>
 
     <h2>8. Güvenlik önlemleri</h2>
@@ -216,5 +219,9 @@
       });
     })();
   </script>
+
+  <!-- Vercel Analytics · cookieless, KVKK uyumlu -->
+  <script defer src="/_vercel/insights/script.js"></script>
+  <script defer src="/_vercel/speed-insights/script.js"></script>
 </body>
 </html>

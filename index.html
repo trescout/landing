@@ -108,15 +108,14 @@
       overflow-x: hidden;
       position: relative;
       max-width: 100vw;
-      touch-action: pan-y;
     }
-    html { overflow-x: hidden; max-width: 100vw; touch-action: pan-y; }
-    /* Gradient text'in iOS'ta touch'ı yutmasını engelle · scroll her zaman çalışsın */
+    html { overflow-x: hidden; max-width: 100vw; }
+    /* Gradient text iOS'ta tap'i text-selection olarak yorumluyor · scroll engellenmesin */
     .hero h1 .accent,
     .section-title .accent {
-      touch-action: pan-y;
       -webkit-user-select: none;
       user-select: none;
+      -webkit-touch-callout: none;
     }
     /* Modal açık · body scroll lock iOS-safe position:fixed ile inline yapılır
        (openModal/closeModal JS'te); class sadece marker, ek CSS gerektirmez */
@@ -3044,5 +3043,9 @@
       document.querySelectorAll('.reveal').forEach(function (el) { io.observe(el); });
     })();
   </script>
+
+  <!-- ============== VERCEL ANALYTICS · cookieless, KVKK uyumlu ============== -->
+  <script defer src="/_vercel/insights/script.js"></script>
+  <script defer src="/_vercel/speed-insights/script.js"></script>
 </body>
 </html>
