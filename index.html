@@ -773,11 +773,15 @@
       padding: 20px;
       opacity: 0;
       pointer-events: none;
-      transition: opacity 0.2s ease;
+      visibility: hidden;
+      /* visibility 0.2s opacity transition'ı bitince devreye girer · iframe wheel event'leri yutmaz */
+      transition: opacity 0.2s ease, visibility 0s linear 0.2s;
     }
     .privacy-modal[aria-hidden="false"] {
       opacity: 1;
       pointer-events: auto;
+      visibility: visible;
+      transition: opacity 0.2s ease, visibility 0s linear 0s;
     }
     .privacy-modal-card {
       background: var(--bg-elevated);
