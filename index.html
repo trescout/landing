@@ -340,14 +340,16 @@
       cursor: pointer;
     }
     .form-consent a {
-      color: var(--ink-muted);
-      border-bottom: 1px solid var(--border);
+      color: var(--ink);
+      border-bottom: 1px solid rgba(244, 211, 94, 0.45);
       text-decoration: none;
       transition: color 0.15s, border-color 0.15s;
     }
-    .form-consent a:hover {
+    .form-consent a:hover,
+    .form-consent a:focus-visible {
       color: var(--accent);
       border-bottom-color: var(--accent);
+      outline: none;
     }
     .form-consent input[type="checkbox"]:focus-visible {
       outline: 2px solid var(--accent);
@@ -648,7 +650,7 @@
       min-width: 200px;
       padding: 16px 20px;
       background: rgba(27, 42, 64, 0.6);
-      border: 1px solid rgba(95, 168, 211, 0.2);
+      border: 1px solid rgba(168, 192, 208, 0.35);
       border-radius: 12px;
       color: var(--ink);
       font-size: 15px;
@@ -657,7 +659,7 @@
       transition: border-color 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
       backdrop-filter: blur(4px);
     }
-    .input:hover { border-color: rgba(95, 168, 211, 0.35); }
+    .input:hover { border-color: rgba(168, 192, 208, 0.55); }
     .input:focus {
       border-color: var(--accent);
       background: rgba(27, 42, 64, 0.8);
@@ -675,14 +677,16 @@
       color: var(--ink-muted);
     }
     .hero-note a {
-      color: var(--ink-muted);
-      border-bottom: 1px solid var(--border);
+      color: var(--ink);
+      border-bottom: 1px solid rgba(244, 211, 94, 0.4);
       text-decoration: none;
       transition: color 0.15s, border-color 0.15s;
     }
-    .hero-note a:hover {
+    .hero-note a:hover,
+    .hero-note a:focus-visible {
       color: var(--accent);
       border-bottom-color: var(--accent);
+      outline: none;
     }
 
     /* ---------- SECTION COMMON ---------- */
@@ -1022,16 +1026,33 @@
       letter-spacing: 0.08em;
       margin-bottom: 6px;
     }
-    .pdf-bar {
-      height: 5px;
-      background: #E1E8ED;
-      border-radius: 2px;
-      margin-bottom: 5px;
+    .pdf-entry {
+      margin-bottom: 10px;
     }
-    .pdf-bar.w-6 { width: 60%; }
-    .pdf-bar.w-7 { width: 75%; }
-    .pdf-bar.w-8 { width: 88%; }
-    .pdf-bar.w-9 { width: 95%; }
+    .pdf-entry:last-child { margin-bottom: 0; }
+    .pdf-entry-title {
+      font-size: 11px;
+      font-weight: 600;
+      color: #1B2A40;
+      line-height: 1.3;
+      margin-bottom: 2px;
+      font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', monospace;
+      letter-spacing: -0.005em;
+    }
+    .pdf-entry.text .pdf-entry-title {
+      font-family: Georgia, serif;
+      letter-spacing: 0;
+      font-weight: 600;
+    }
+    .pdf-entry-meta {
+      font-size: 9.5px;
+      color: #556678;
+      line-height: 1.35;
+    }
+    .pdf-entry-meta strong {
+      color: #1B4965;
+      font-weight: 600;
+    }
     .pdf-action {
       padding: 16px 22px;
       background: rgba(15, 25, 41, 0.4);
@@ -1918,21 +1939,39 @@
                 <span>TreScout</span>
               </div>
               <div class="pdf-title">Bugünün Teknoloji Trendleri</div>
-              <div class="pdf-meta">9 Mayıs 2026, Cuma · 20 trend · ~12 dakika okuma</div>
+              <div class="pdf-meta">9 Mayıs 2026, Cuma · günün öne çıkanları · ~12 dk okuma</div>
               <div class="pdf-section">
                 <div class="pdf-section-label">GitHub Trending</div>
-                <div class="pdf-bar w-9"></div>
-                <div class="pdf-bar w-7"></div>
-                <div class="pdf-bar w-8"></div>
+                <div class="pdf-entry">
+                  <div class="pdf-entry-title">anthropics/agent-skills</div>
+                  <div class="pdf-entry-meta"><strong>★ 2.1k</strong> · ajanlar için yeniden kullanılabilir yetenek paketleri</div>
+                </div>
+                <div class="pdf-entry">
+                  <div class="pdf-entry-title">deepseek-ai/DeepSeek-V3.1</div>
+                  <div class="pdf-entry-meta"><strong>★ 890</strong> · açık-ağırlık MoE modelinin yeni sürümü</div>
+                </div>
+                <div class="pdf-entry">
+                  <div class="pdf-entry-title">vercel/next.js</div>
+                  <div class="pdf-entry-meta"><strong>v16.2 stable</strong> · App Router cache iyileştirmeleri</div>
+                </div>
               </div>
               <div class="pdf-section">
                 <div class="pdf-section-label">Hacker News</div>
-                <div class="pdf-bar w-8"></div>
-                <div class="pdf-bar w-6"></div>
+                <div class="pdf-entry text">
+                  <div class="pdf-entry-title">YZ ajanlarında bellek mimarisi: ne öğrendik</div>
+                  <div class="pdf-entry-meta"><strong>412 yorum</strong> · mühendislik blogu</div>
+                </div>
+                <div class="pdf-entry text">
+                  <div class="pdf-entry-title">WebGPU üretimde: 18 ay sonra rapor</div>
+                  <div class="pdf-entry-meta"><strong>286 yorum</strong> · saha deneyimi</div>
+                </div>
               </div>
               <div class="pdf-section">
                 <div class="pdf-section-label">HuggingFace</div>
-                <div class="pdf-bar w-7"></div>
+                <div class="pdf-entry">
+                  <div class="pdf-entry-title">Qwen/Qwen3-235B-Instruct</div>
+                  <div class="pdf-entry-meta"><strong>#1 trending</strong> · 235B MoE · çoklu dil yetkinliği</div>
+                </div>
               </div>
             </div>
           </div>
