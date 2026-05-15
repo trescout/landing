@@ -350,8 +350,9 @@
       grid-column: 1;
     }
     .form-consent input[type="checkbox"]:disabled {
-      cursor: not-allowed;
+      cursor: pointer;
       opacity: 0.6;
+      pointer-events: auto;
     }
     .form-consent > span:not(.form-consent-hint) {
       grid-column: 2;
@@ -418,6 +419,19 @@
     .hero-visual {
       position: relative;
       perspective: 1400px;
+    }
+    .hero-visual-label {
+      text-align: center;
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 18px;
+      font-style: italic;
+      color: var(--ink-muted);
+      margin-bottom: 18px;
+      letter-spacing: 0.005em;
+      line-height: 1.4;
+    }
+    @media (max-width: 968px) {
+      .hero-visual-label { font-size: 17px; }
     }
     .email-client {
       background: #FFFFFF;
@@ -2215,6 +2229,7 @@
       </div>
 
       <aside class="hero-visual" aria-hidden="true">
+        <p class="hero-visual-label">TreScout size nasıl bir e-posta gönderecek?</p>
         <div class="email-client">
           <div class="email-client-chrome">
             <div class="email-client-dots">
@@ -2701,7 +2716,7 @@
           <span class="pulse-arrow" aria-hidden="true">↓</span>
           <span class="privacy-modal-status-text">Onay için metnin sonuna kadar kaydırın</span>
         </span>
-        <button type="button" class="privacy-modal-confirm" disabled>Okudum, kapat</button>
+        <button type="button" class="privacy-modal-confirm" disabled>Okudum, onaylıyorum</button>
       </div>
     </div>
   </div>
@@ -2871,7 +2886,14 @@
       });
 
       closeX.addEventListener('click', closeModal);
-      confirmBtn.addEventListener('click', closeModal);
+      confirmBtn.addEventListener('click', function () {
+        // "Okudum, onaylıyorum" · checkbox'ı otomatik check + kapat
+        if (hasRead && checkbox) {
+          checkbox.disabled = false;
+          checkbox.checked = true;
+        }
+        closeModal();
+      });
 
       // Backdrop click
       modal.addEventListener('click', function (e) {
