@@ -110,6 +110,12 @@
       max-width: 100vw;
     }
     html { overflow-x: hidden; max-width: 100vw; }
+    /* Modal açık · body scroll lock · class-based · close'da temizlenir */
+    html.modal-open,
+    body.modal-open {
+      overflow: hidden;
+      touch-action: none;
+    }
     /* Full-page background arcs · logo'dan ilham · subtle radar dalgaları */
     body::before {
       content: '';
@@ -2229,7 +2235,7 @@
       </div>
 
       <aside class="hero-visual" aria-hidden="true">
-        <p class="hero-visual-label">TreScout size nasıl bir e-posta gönderecek?</p>
+        <p class="hero-visual-label">TreScout size nasıl bir e-posta gönderir?</p>
         <div class="email-client">
           <div class="email-client-chrome">
             <div class="email-client-dots">
@@ -2858,13 +2864,18 @@
         // Iframe'i her açılışta yeniden yükle → scroll tepesinden başlasın
         iframe.src = '/privacy.html?embed=1&t=' + Date.now();
         modal.setAttribute('aria-hidden', 'false');
-        document.body.style.overflow = 'hidden';
+        document.body.classList.add('modal-open');
+        document.documentElement.classList.add('modal-open');
         setTimeout(function () { closeX.focus(); }, 60);
       }
 
       function closeModal() {
         modal.setAttribute('aria-hidden', 'true');
+        document.body.classList.remove('modal-open');
+        document.documentElement.classList.remove('modal-open');
+        // Inline style'a fallback temizliği · eski state'lerden kalanları sil
         document.body.style.overflow = '';
+        document.documentElement.style.overflow = '';
         if (lastFocus && typeof lastFocus.focus === 'function') {
           lastFocus.focus();
         }
