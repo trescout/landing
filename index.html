@@ -351,10 +351,9 @@
       cursor: pointer;
       grid-column: 1;
     }
-    .form-consent input[type="checkbox"]:disabled {
-      cursor: pointer;
+    /* Consent gerektiren state · görsel cue: hafif sönük */
+    .form-consent input[type="checkbox"][data-needs-consent] {
       opacity: 0.6;
-      pointer-events: auto;
     }
     .form-consent > span:not(.form-consent-hint) {
       grid-column: 2;
@@ -2220,7 +2219,7 @@
             <button class="btn btn-primary btn-large" type="submit">Erken erişim listesine katılın</button>
           </div>
           <label class="form-consent">
-            <input type="checkbox" name="consent" required disabled aria-describedby="consent-hint">
+            <input type="checkbox" name="consent" required aria-describedby="consent-hint" data-needs-consent>
             <span><a href="/privacy.html" data-privacy-modal>Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span>
             <span id="consent-hint" class="form-consent-hint">Onaylamak için Aydınlatma Metni'ni okuyun.</span>
           </label>
@@ -2864,22 +2863,21 @@
         document.body.style.top = '-' + savedScrollY + 'px';
         document.body.style.left = '0';
         document.body.style.right = '0';
+        document.body.style.width = '100%';
         document.body.classList.add('modal-open');
         setTimeout(function () { closeX.focus(); }, 60);
       }
 
       function closeModal() {
         modal.setAttribute('aria-hidden', 'true');
-        // Tüm scroll-lock state'leri temizle
+        // Tüm scroll-lock state'lerini removeProperty ile kesin sil (iOS-safe)
+        ['position', 'top', 'left', 'right', 'width', 'overflow'].forEach(function (p) {
+          document.body.style.removeProperty(p);
+        });
+        document.documentElement.style.removeProperty('overflow');
         document.body.classList.remove('modal-open');
-        document.body.style.position = '';
-        document.body.style.top = '';
-        document.body.style.left = '';
-        document.body.style.right = '';
-        document.body.style.overflow = '';
-        document.documentElement.style.overflow = '';
         document.documentElement.classList.remove('modal-open');
-        // Scroll pozisyonunu geri yükle (position:fixed kayıp olmasın)
+        // Scroll pozisyonunu geri yükle (anında, smooth değil)
         window.scrollTo(0, savedScrollY);
         if (lastFocus && typeof lastFocus.focus === 'function') {
           lastFocus.focus();
@@ -2905,7 +2903,7 @@
       confirmBtn.addEventListener('click', function () {
         // "Okudum, onaylıyorum" · eksplisit onay · checkbox aktif + işaretli + hint gizle
         if (hasRead && checkbox) {
-          checkbox.disabled = false;
+          checkbox.removeAttribute('data-needs-consent');
           checkbox.checked = true;
           if (hint) hint.style.display = 'none';
         }
@@ -2924,23 +2922,32 @@
         }
       });
 
-      // Disabled checkbox veya etiketine tıklanırsa: hint shake + modal otomatik açılır
+      // Consent gereken durumda: checkbox veya etiketine tıklayan → modal otomatik açılır
+      // Checkbox'a doğrudan listener (iOS'ta label bubble bazen kararsız)
       if (checkbox) {
         var consentLabel = checkbox.closest('.form-consent');
-        if (consentLabel && hint) {
-          consentLabel.addEventListener('click', function (e) {
-            if (!checkbox.disabled) return;
-            // Aydınlatma Metni link'ine direkt tıkladıysa kendi handler'ı modal açıyor
-            if (e.target.closest('a[data-privacy-modal]')) return;
-            e.preventDefault();
-            // Hint'i salla · dikkat çek
+
+        function needsConsent() {
+          return checkbox.hasAttribute('data-needs-consent');
+        }
+
+        function triggerConsentFlow(e) {
+          if (!needsConsent()) return;
+          if (e.target.closest('a[data-privacy-modal]')) return;
+          e.preventDefault();
+          if (hint) {
             hint.classList.remove('shake');
-            void hint.offsetWidth; // restart animation
+            void hint.offsetWidth;
             hint.classList.add('shake');
             setTimeout(function () { hint.classList.remove('shake'); }, 700);
-            // Modal'ı otomatik aç · kullanıcı zaten okumak istiyor
-            openModal();
-          });
+          }
+          openModal();
+        }
+
+        // Hem checkbox'a hem label'a listener · iOS'ta hangi olay ateşlerse o yakalansın
+        checkbox.addEventListener('click', triggerConsentFlow);
+        if (consentLabel) {
+          consentLabel.addEventListener('click', triggerConsentFlow);
         }
       }
     })();
