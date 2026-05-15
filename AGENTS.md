@@ -5,7 +5,7 @@
 > Diğer AI araç-spesifik dosyalar (`CLAUDE.md`, `.cursorrules`, `.continue/config.json` vb.) bu dosyaya referans verir, içeriği tekrarlamaz.
 
 **Versiyon:** 1.0  
-**Son güncelleme:** 2026-05-09
+**Son güncelleme:** 2026-05-12
 
 ---
 
