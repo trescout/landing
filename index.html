@@ -366,6 +366,21 @@
       color: var(--ink-muted);
       font-style: italic;
       letter-spacing: 0.01em;
+      transition: color 0.2s ease;
+    }
+    .form-consent-hint.shake {
+      animation: consent-shake 0.5s cubic-bezier(0.36, 0.07, 0.19, 0.97);
+      color: var(--accent);
+      font-style: normal;
+      font-weight: 600;
+    }
+    @keyframes consent-shake {
+      0%, 100% { transform: translateX(0); }
+      15%, 45%, 75% { transform: translateX(-5px); }
+      30%, 60%, 90% { transform: translateX(5px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .form-consent-hint.shake { animation: none; }
     }
     .form-consent-hint.read {
       color: var(--accent);
@@ -2870,15 +2885,22 @@
         }
       });
 
-      // Disabled checkbox'a tıklanırsa kullanıcıyı uyar
+      // Disabled checkbox veya etiketine tıklanırsa: hint shake + modal otomatik açılır
       if (checkbox) {
         var consentLabel = checkbox.closest('.form-consent');
-        if (consentLabel) {
+        if (consentLabel && hint) {
           consentLabel.addEventListener('click', function (e) {
-            if (checkbox.disabled && e.target === checkbox) {
-              e.preventDefault();
-              openModal();
-            }
+            if (!checkbox.disabled) return;
+            // Aydınlatma Metni link'ine direkt tıkladıysa kendi handler'ı modal açıyor
+            if (e.target.closest('a[data-privacy-modal]')) return;
+            e.preventDefault();
+            // Hint'i salla · dikkat çek
+            hint.classList.remove('shake');
+            void hint.offsetWidth; // restart animation
+            hint.classList.add('shake');
+            setTimeout(function () { hint.classList.remove('shake'); }, 700);
+            // Modal'ı otomatik aç · kullanıcı zaten okumak istiyor
+            openModal();
           });
         }
       }
