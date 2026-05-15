@@ -42,9 +42,7 @@
         "description": "TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile özetler, Türkçe rapor olarak gönderir.",
         "email": "hello@trescout.com",
         "sameAs": [
-          "https://x.com/GetTreScout",
-          "https://linkedin.com/company/trescout",
-          "https://bsky.app/profile/gettrescout.bsky.social"
+          "https://x.com/GetTreScout"
         ]
       },
       {
@@ -962,8 +960,13 @@
                   0 0 0 1px rgba(244, 211, 94, 0.08) inset;
     }
     .pdf-mockup {
-      padding: 28px 28px 20px;
+      padding: 36px 32px 28px;
       background: linear-gradient(135deg, #ECEEF1 0%, #DFE4EA 100%);
+      position: relative;
+    }
+    .pdf-page-stack {
+      position: relative;
+      min-height: 340px;
     }
     .pdf-page {
       background: white;
@@ -974,6 +977,72 @@
       position: relative;
       color: #1B4965;
       min-height: 320px;
+    }
+    /* Yelpaze · 2 arka sayfa gölgesi · gerçek raporun çok sayfa olduğunu ima eder */
+    .pdf-page-ghost {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      background: white;
+      border-radius: 6px;
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12),
+                  0 1px 2px rgba(0, 0, 0, 0.08);
+      min-height: 320px;
+      padding: 28px 26px;
+      overflow: hidden;
+    }
+    .pdf-page-ghost.back-1 {
+      transform: translate(14px, 12px) rotate(2.5deg);
+      transform-origin: bottom left;
+      z-index: 1;
+    }
+    .pdf-page-ghost.back-2 {
+      transform: translate(28px, 22px) rotate(5deg);
+      transform-origin: bottom left;
+      z-index: 0;
+    }
+    .pdf-page-stack > .pdf-page {
+      position: relative;
+      z-index: 2;
+    }
+    /* Hover'da yelpaze hafifçe yayılır */
+    .pdf-card:hover .pdf-page-ghost.back-1 {
+      transform: translate(20px, 14px) rotate(3.5deg);
+    }
+    .pdf-card:hover .pdf-page-ghost.back-2 {
+      transform: translate(38px, 26px) rotate(7deg);
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .pdf-card:hover .pdf-page-ghost.back-1,
+      .pdf-card:hover .pdf-page-ghost.back-2 { transform: translate(14px, 12px) rotate(2.5deg); }
+    }
+    /* Ghost sayfalarda silik gri çizgiler · içerik var hissi */
+    .pdf-ghost-line {
+      height: 6px;
+      background: #E1E8ED;
+      border-radius: 2px;
+      margin-bottom: 8px;
+    }
+    .pdf-ghost-line.w50 { width: 50%; }
+    .pdf-ghost-line.w70 { width: 70%; }
+    .pdf-ghost-line.w90 { width: 90%; }
+    .pdf-ghost-line.w40 { width: 40%; }
+    .pdf-ghost-block {
+      height: 22px;
+      background: #E1E8ED;
+      border-radius: 4px;
+      width: 60%;
+      margin: 14px 0 18px;
+    }
+    .pdf-page-hint {
+      margin-top: 16px;
+      padding-top: 12px;
+      border-top: 1px dashed rgba(95, 168, 211, 0.3);
+      font-size: 9.5px;
+      color: #6B7B8C;
+      font-style: italic;
+      letter-spacing: 0.01em;
     }
     .pdf-badge {
       position: absolute;
@@ -1321,28 +1390,62 @@
       margin-bottom: 28px;
       flex: 1;
     }
-    .time-slots {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
+    .time-strip {
       position: relative;
       z-index: 1;
+      margin-top: 4px;
     }
-    .time-slot {
-      padding: 8px 14px;
-      background: rgba(15, 25, 41, 0.5);
+    .time-strip-rail {
+      position: relative;
+      height: 32px;
+      background: linear-gradient(180deg, rgba(15, 25, 41, 0.6) 0%, rgba(15, 25, 41, 0.3) 100%);
       border: 1px solid rgba(95, 168, 211, 0.18);
       border-radius: 100px;
-      font-family: ui-monospace, 'SF Mono', monospace;
-      font-size: 13px;
-      color: var(--ink-muted);
-      transition: all 0.2s ease;
+      display: flex;
+      align-items: center;
+      padding: 0 12px;
+      gap: 0;
+      justify-content: space-between;
+      overflow: visible;
     }
-    .time-slot.active {
-      background: rgba(244, 211, 94, 0.14);
-      border-color: var(--accent);
-      color: var(--accent);
-      box-shadow: 0 0 0 3px rgba(244, 211, 94, 0.1);
+    .time-strip-tick {
+      width: 1px;
+      height: 8px;
+      background: rgba(168, 192, 208, 0.3);
+      border-radius: 1px;
+    }
+    .time-strip-tick:nth-child(6n+1) { height: 12px; background: rgba(168, 192, 208, 0.55); }
+    .time-strip-thumb {
+      position: absolute;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      background: var(--accent);
+      color: var(--bg);
+      font-family: ui-monospace, 'SF Mono', monospace;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 6px 12px;
+      border-radius: 100px;
+      box-shadow: 0 4px 14px rgba(244, 211, 94, 0.35),
+                  0 0 0 4px rgba(244, 211, 94, 0.12);
+      letter-spacing: 0.02em;
+      white-space: nowrap;
+    }
+    .time-strip-labels {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 8px;
+      padding: 0 4px;
+      font-family: ui-monospace, 'SF Mono', monospace;
+      font-size: 10.5px;
+      color: var(--ink-muted);
+      letter-spacing: 0.04em;
+    }
+    .time-strip-note {
+      margin-top: 14px;
+      font-size: 12.5px;
+      color: var(--ink-muted);
+      font-style: italic;
     }
     .term-list {
       margin-top: 16px;
@@ -1799,7 +1902,7 @@
           <!-- Honeypot · bot filtresi · gerçek kullanıcı görmez, doldurmaz -->
           <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
         </form>
-        <p class="hero-note">Beta listesine kaydolun. Yayında olduğumuzda haber verelim, spam göndermeyiz.</p>
+        <p class="hero-note">Erken erişim listesine kaydolun. Yayında olduğumuzda haber verelim, spam göndermeyiz.</p>
       </div>
 
       <aside class="hero-visual" aria-hidden="true">
@@ -1840,7 +1943,7 @@
 
             <div class="email-subject-line">
               <span class="email-label">📬 Günlük</span>
-              <span class="email-subject">Salı raporunuz · 18 yeni keşif</span>
+              <span class="email-subject">TreScout Rapor · 15 Mayıs 2026</span>
             </div>
 
             <div class="email-body-content">
@@ -1849,7 +1952,6 @@
               <div class="mini-repo">
                 <div class="mini-repo-head">
                   <strong>openai/agents-python</strong>
-                  <span class="mini-repo-badge">v1.0.0</span>
                 </div>
                 <div class="mini-repo-meta">+2.1k yıldız · Python · yeni sürüm</div>
                 <p>Çoklu yapay zekâ ajanı koordinasyonu için resmi kütüphane.</p>
@@ -1858,15 +1960,14 @@
               <div class="mini-repo">
                 <div class="mini-repo-head">
                   <strong>microsoft/markitdown</strong>
-                  <span class="mini-repo-badge new">yeni</span>
                 </div>
-                <div class="mini-repo-meta">+890 yıldız · Python · trend</div>
+                <div class="mini-repo-meta">+890 yıldız · Python · yeni keşif</div>
                 <p>Belgeleri yapay zekâya uygun markdown'a çeviren araç.</p>
               </div>
 
               <div class="mini-more">
                 <span class="mini-more-icon">📎</span>
-                <span class="mini-more-text">trescout-rapor-salı.pdf <em>· 547 KB · 18 trend</em></span>
+                <span class="mini-more-text">trescout-rapor-2026-05-15.pdf <em>· 547 KB · günün öne çıkanları</em></span>
               </div>
             </div>
           </div>
@@ -1881,7 +1982,7 @@
     <div class="container">
       <span class="eyebrow">Nasıl Çalışır</span>
       <h2 class="section-title">Adım adım günlük teknoloji raporunuz.</h2>
-      <p class="section-lead">Her gece arka planda çalışıyor. Seçtiğiniz saatte rapor gelen kutunuzda.</p>
+      <p class="section-lead">Rapor, seçtiğiniz saatte gelen kutunuzda. Her gece arka planda hazırlanır.</p>
 
       <div class="pipeline">
         <div class="step">
@@ -1894,7 +1995,7 @@
           <div class="step-icon">✍️</div>
           <span class="step-number">02</span>
           <h3>Özetleme</h3>
-          <p>YZ ile kısa ve okunabilir rapor üretir. Teknik terimler korunur, sözlükle açıklanır.</p>
+          <p>Yapay zekâ ile kısa ve okunabilir rapor üretir. Yabancı teknik terimler parantez içinde verilir, rapor sonundaki sözlükle açıklanır.</p>
         </div>
         <div class="step">
           <div class="step-icon">📨</div>
@@ -1911,19 +2012,40 @@
     <div class="container">
       <div class="preview-split">
         <div class="preview-text">
-          <span class="eyebrow">PDF eki</span>
+          <span class="eyebrow">PDF rapor</span>
           <h2 class="section-title">Tam rapor, sade okuma.</h2>
-          <p class="section-lead">E-posta hızlı bir özet sunar; ayrıntılı tüm trendler, kaynak linkleri ve Sektörden Terimler sözlüğü PDF eki olarak gelir.</p>
+          <p class="section-lead">E-posta hızlı bir özet sunar; ayrıntılı tüm trendler, kaynak bağlantıları ve Sektörden Terimler Sözlüğü PDF rapor olarak gelir.</p>
           <ul class="bullet-list">
-            <li><span class="bullet-icon">📄</span><span><strong>Günün öne çıkanları</strong>, kaynak gruplarına ayrılmış</span></li>
+            <li><span class="bullet-icon">📄</span><span><strong>Günün öne çıkanları</strong>, kaynak gruplarına ayrılmış (GitHub, Hacker News, HuggingFace…)</span></li>
             <li><span class="bullet-icon">📚</span><span><strong>Sektörden Terimler</strong> · İngilizce teknik terimlerin Türkçe açıklamaları</span></li>
             <li><span class="bullet-icon">🗂️</span><span><strong>Arşivlenebilir</strong> · klasörünüze koyup geçmişi gezin</span></li>
-            <li><span class="bullet-icon">🔗</span><span><strong>Tıklanabilir kaynak linkleri</strong> · doğrudan repo'ya, makaleye, modele</span></li>
+            <li><span class="bullet-icon">🔗</span><span><strong>Tıklanabilir kaynak bağlantıları</strong> · doğrudan repo'ya, makaleye, modele giden linkler</span></li>
           </ul>
         </div>
 
-        <a href="sample-report.pdf" download="trescout-rapor-2026-05-09.pdf" target="_blank" class="pdf-card" aria-label="Örnek raporu PDF olarak indir">
+        <a href="sample-report.pdf" download="trescout-rapor-2026-05-15.pdf" target="_blank" class="pdf-card" aria-label="Örnek raporu PDF olarak indir">
           <div class="pdf-mockup">
+            <div class="pdf-page-stack">
+              <div class="pdf-page-ghost back-2" aria-hidden="true">
+                <div class="pdf-ghost-block"></div>
+                <div class="pdf-ghost-line w70"></div>
+                <div class="pdf-ghost-line w90"></div>
+                <div class="pdf-ghost-line w50"></div>
+                <div class="pdf-ghost-line w40"></div>
+                <div class="pdf-ghost-line w70"></div>
+                <div class="pdf-ghost-line w90"></div>
+                <div class="pdf-ghost-line w50"></div>
+              </div>
+              <div class="pdf-page-ghost back-1" aria-hidden="true">
+                <div class="pdf-ghost-block"></div>
+                <div class="pdf-ghost-line w90"></div>
+                <div class="pdf-ghost-line w70"></div>
+                <div class="pdf-ghost-line w50"></div>
+                <div class="pdf-ghost-line w70"></div>
+                <div class="pdf-ghost-line w40"></div>
+                <div class="pdf-ghost-line w90"></div>
+                <div class="pdf-ghost-line w50"></div>
+              </div>
             <div class="pdf-page">
               <div class="pdf-badge">Örnek</div>
               <div class="pdf-page-brand">
@@ -1938,7 +2060,7 @@
                 <span>TreScout</span>
               </div>
               <div class="pdf-title">Bugünün Teknoloji Trendleri</div>
-              <div class="pdf-meta">9 Mayıs 2026, Cuma · günün öne çıkanları · ~12 dk okuma</div>
+              <div class="pdf-meta">15 Mayıs 2026, Cuma · günün öne çıkanları · ~12 dk okuma</div>
               <div class="pdf-section">
                 <div class="pdf-section-label">GitHub Trending</div>
                 <div class="pdf-entry">
@@ -1972,12 +2094,14 @@
                   <div class="pdf-entry-meta"><strong>#1 trending</strong> · 235B MoE · çoklu dil yetkinliği</div>
                 </div>
               </div>
+              <div class="pdf-page-hint">… devamı: günün geri kalanı · kaynak bağlantıları · Sektörden Terimler Sözlüğü</div>
+            </div>
             </div>
           </div>
           <div class="pdf-action">
             <div class="pdf-action-info">
-              <div class="pdf-action-title">📎 trescout-rapor-2026-05-09.pdf</div>
-              <div class="pdf-action-meta">Tam rapor · 20 trend · 547 KB</div>
+              <div class="pdf-action-title">📎 trescout-rapor-2026-05-15.pdf</div>
+              <div class="pdf-action-meta">Tam rapor · günün öne çıkanları · 547 KB</div>
             </div>
             <span class="pdf-action-btn">İndir</span>
           </div>
@@ -2001,11 +2125,11 @@
 
       <!-- TAB · Neden TreScout -->
       <div class="tab-panel" role="tabpanel" id="tabpanel-neden" aria-labelledby="tab-neden">
-        <h3 class="panel-title">"YZ'ye sorabilirim.". Sorabilirsiniz ama...</h3>
+        <h3 class="panel-title">"Yapay zekâya sorabilirim." Sorabilirsiniz ama…</h3>
         <div class="diff-table">
           <div class="row head">
             <div></div>
-            <div>Manuel takip / chat</div>
+            <div>Manuel takip / YZ araçları</div>
             <div>TreScout</div>
           </div>
           <div class="row">
@@ -2016,17 +2140,17 @@
           <div class="row">
             <div>Çoklu kaynak</div>
             <div class="cross">Tek tek aç, ara</div>
-            <div class="check">✓ GitHub + HN + HF + ...</div>
+            <div class="check">✓ GitHub + Hacker News + HuggingFace…</div>
           </div>
           <div class="row">
             <div>Çoklu dil + teknik terim</div>
-            <div class="cross">Çeviri ya hep ya hiç</div>
-            <div class="check">✓ İstediğiniz dilde özet + İngilizce terim sözlüğü</div>
+            <div class="cross">Yabancı terimler ya yok olur ya yarısı çevirisiz kalır</div>
+            <div class="check">✓ İstediğiniz dilde özet, terim parantez içinde + sözlük</div>
           </div>
           <div class="row">
-            <div>Alışkanlık</div>
-            <div class="cross">Her seferinde unutursun</div>
-            <div class="check">✓ Günlük ritüelinizin parçası</div>
+            <div>Süreklilik</div>
+            <div class="cross">Bakmayı unutabilirsiniz, gün içinde zaman bulunamayabilir</div>
+            <div class="check">✓ Ne olursa olsun gelen kutunuza düşer</div>
           </div>
           <div class="row">
             <div>Arşiv</div>
@@ -2043,14 +2167,43 @@
           <div class="feature feature-hero">
             <div class="feature-icon">⏰</div>
             <h3>Esnek zamanlama</h3>
-            <p>Saat kaçta isterseniz siz seçin, biz teslim edelim. Her gün aynı ritim, sizin temponuzla.</p>
-            <div class="time-slots" aria-hidden="true">
-              <span class="time-slot">07:00</span>
-              <span class="time-slot">08:00</span>
-              <span class="time-slot active">09:00</span>
-              <span class="time-slot">12:00</span>
-              <span class="time-slot">18:00</span>
-              <span class="time-slot">21:00</span>
+            <p>Saat kaçta isterseniz siz seçin, biz teslim edelim. Ne zaman isterseniz okuyun.</p>
+            <div class="time-strip" aria-hidden="true">
+              <div class="time-strip-rail">
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-tick"></span>
+                <span class="time-strip-thumb" style="left: 37.5%;">09:00</span>
+              </div>
+              <div class="time-strip-labels">
+                <span>00:00</span>
+                <span>06:00</span>
+                <span>12:00</span>
+                <span>18:00</span>
+                <span>24:00</span>
+              </div>
+              <div class="time-strip-note">Her dakikada bir seçim · sizin saatiniz, sizin diliminiz</div>
             </div>
           </div>
 
@@ -2058,7 +2211,7 @@
             <div class="feature">
               <div class="feature-icon">📄</div>
               <h3>PDF rapor</h3>
-              <p>Detaylı, formatlanmış, arşivlenebilir. İndirin, klasörünüze koyun, e-postayı silin.</p>
+              <p>Detaylı, formatlanmış, arşivlenebilir. İndirin, klasörünüze koyun, isterseniz e-postayı silin.</p>
             </div>
             <div class="feature">
               <div class="feature-icon">📚</div>
@@ -2149,7 +2302,7 @@
           <div class="community-content">
             <span class="community-eyebrow">Birlikte çalışalım</span>
             <h3>Ekibe katılın</h3>
-            <p>Projeye inanıyor, vakit ayırmak istiyorsanız bize yazın. Geliştirici, tasarımcı, içerik üreticisi · doğru ekipte yer açılır.</p>
+            <p>Projeye inanıyor, vakit ayırmak istiyorsanız bize yazın. Geliştirici, tasarımcı, içerik üreticisi ya da bambaşka bir şey · belki de ekipte size de yer vardır. Kendi yerinizi kendiniz açın.</p>
             <span class="community-cta">hello@trescout.com →</span>
           </div>
         </a>
@@ -2159,7 +2312,7 @@
           <div class="community-content">
             <span class="community-eyebrow">Sesimiz olun</span>
             <h3>Geri bildirim</h3>
-            <p>Sayfada bir sorun, mesajda bir tutarsızlık, üründe bir öneri · ne olursa olsun bize ulaşın. Her mail okunur, çoğuna cevap verilir.</p>
+            <p>Sayfada bir sorun, mesajda bir tutarsızlık, üründe bir öneri · ne olursa olsun bize ulaşın.</p>
             <span class="community-cta">hello@trescout.com →</span>
           </div>
         </a>
@@ -2201,8 +2354,8 @@
           <div class="footer-col-title">Ürün</div>
           <ul>
             <li><a href="#how-it-works">Nasıl çalışır</a></li>
-            <li><a href="#preview">PDF eki</a></li>
-            <li><a href="#cta">Erken erişim</a></li>
+            <li><a href="#preview">PDF rapor</a></li>
+            <li><a href="#top">Erken erişim</a></li>
           </ul>
         </div>
 
@@ -2210,7 +2363,7 @@
           <div class="footer-col-title">İletişim</div>
           <ul>
             <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
-            <li><a href="/privacy.html">Aydınlatma Metni</a></li>
+            <li><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a></li>
           </ul>
         </div>
 
@@ -2218,8 +2371,6 @@
           <div class="footer-col-title">Sosyal medya</div>
           <ul>
             <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">Twitter / X</a></li>
-            <li><a href="https://linkedin.com/company/trescout" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-            <li><a href="https://bsky.app/profile/gettrescout.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a></li>
           </ul>
         </div>
       </div>
