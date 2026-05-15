@@ -161,7 +161,8 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 16px 0;
+      padding: 22px 0;
+      min-height: 76px;
     }
     .logo-link {
       display: flex;
@@ -181,14 +182,12 @@
       gap: 8px;
       align-items: center;
     }
-    /* Mobilde nav · sadece logo + Erken Erişim CTA · iki ghost buton gizlenir */
+    /* Mobilde nav · iki ghost buton gizlenir, sadece logo kalır
+       Sayfa form'a / final CTA'ya scroll ile ulaşılır */
     @media (max-width: 640px) {
       .container { padding: 0 16px; }
-      .nav-actions { gap: 6px; }
       .nav-actions .btn-ghost { display: none; }
-      .nav-actions .btn-primary { padding: 8px 14px; font-size: 13px; }
-      .logo-link { font-size: 18px; gap: 8px; }
-      .logo-link svg { width: 28px; height: 28px; }
+      .logo-link { gap: 8px; }
     }
     .btn {
       display: inline-flex;
@@ -2165,7 +2164,6 @@
       <div class="nav-actions">
         <a href="#how-it-works" class="btn btn-ghost">Nasıl Çalışır</a>
         <a href="#preview" class="btn btn-ghost">Örnek E-posta</a>
-        <a href="#cta" class="btn btn-primary">Erken Erişim</a>
       </div>
     </div>
   </nav>
