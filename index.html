@@ -1395,6 +1395,22 @@
       letter-spacing: 0.1em;
       vertical-align: 2px;
     }
+    .pdf-date-token {
+      display: inline-block;
+      padding: 0 6px;
+      background: rgba(95, 168, 211, 0.12);
+      border: 1px dashed rgba(95, 168, 211, 0.4);
+      border-radius: 3px;
+      color: var(--brand-light);
+      font-family: ui-monospace, 'SF Mono', monospace;
+      letter-spacing: 0.04em;
+    }
+    .mini-more-text .pdf-date-token {
+      background: rgba(155, 132, 36, 0.15);
+      border-color: rgba(155, 132, 36, 0.5);
+      color: #9B8424;
+      font-size: 11px;
+    }
     .pdf-action-meta {
       font-size: 11.5px;
       color: var(--ink-muted);
@@ -2164,7 +2180,7 @@
           <!-- Honeypot · bot filtresi · gerçek kullanıcı görmez, doldurmaz -->
           <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
         </form>
-        <p class="hero-note">Erken erişim listesine kaydolun. Yayında olduğumuzda haber verelim, spam göndermeyiz.</p>
+        <p class="hero-note">Erken erişim listesine kayıt olun. TreScout yayına alındığında bilgilendirme yapılacaktır. Gereksiz ileti gönderilmez.</p>
       </div>
 
       <aside class="hero-visual" aria-hidden="true">
@@ -2229,7 +2245,7 @@
 
               <div class="mini-more">
                 <span class="mini-more-icon">📎</span>
-                <span class="mini-more-text">trescout-rapor-2026-05-15.pdf <span class="pdf-inline-badge">örnek</span> <em>· 547 KB</em></span>
+                <span class="mini-more-text">trescout-rapor-<span class="pdf-date-token">YYYY-AA-GG</span>.pdf <span class="pdf-inline-badge">örnek</span> <em>· 547 KB</em></span>
               </div>
             </div>
           </div>
@@ -2365,8 +2381,8 @@
           </a>
           <div class="pdf-action">
             <div class="pdf-action-info">
-              <div class="pdf-action-title">📎 trescout-rapor-2026-05-15.pdf <span class="pdf-inline-badge">örnek</span></div>
-              <div class="pdf-action-meta">Tasarım temsili · gerçek rapor lansman sonrası · 547 KB</div>
+              <div class="pdf-action-title">📎 trescout-rapor-<span class="pdf-date-token">YYYY-AA-GG</span>.pdf <span class="pdf-inline-badge">örnek</span></div>
+              <div class="pdf-action-meta">Tasarım temsili · gerçek raporlar her gün yeni tarihle · 547 KB</div>
             </div>
             <a class="pdf-action-btn" href="sample-report.pdf" download="trescout-rapor-2026-05-15.pdf" aria-label="Örnek raporu indir">İndir</a>
           </div>
