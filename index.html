@@ -1179,15 +1179,71 @@
       z-index: 2;
     }
     /* Hover'da yelpaze hafifçe açılır */
-    .pdf-card:hover .pdf-page-ghost.back-1 {
+    .pdf-mockup-link:hover .pdf-page-ghost.back-1,
+    .pdf-mockup-link:focus-visible .pdf-page-ghost.back-1 {
       transform: translate(34px, -26px) rotate(4deg);
     }
-    .pdf-card:hover .pdf-page-ghost.back-2 {
+    .pdf-mockup-link:hover .pdf-page-ghost.back-2,
+    .pdf-mockup-link:focus-visible .pdf-page-ghost.back-2 {
       transform: translate(64px, -48px) rotate(8deg);
     }
     @media (prefers-reduced-motion: reduce) {
-      .pdf-card:hover .pdf-page-ghost.back-1 { transform: translate(26px, -22px) rotate(3deg); }
-      .pdf-card:hover .pdf-page-ghost.back-2 { transform: translate(50px, -42px) rotate(6deg); }
+      .pdf-mockup-link:hover .pdf-page-ghost.back-1,
+      .pdf-mockup-link:focus-visible .pdf-page-ghost.back-1 { transform: translate(26px, -22px) rotate(3deg); }
+      .pdf-mockup-link:hover .pdf-page-ghost.back-2,
+      .pdf-mockup-link:focus-visible .pdf-page-ghost.back-2 { transform: translate(50px, -42px) rotate(6deg); }
+    }
+    /* Mockup link · önizleme alanı · hover'da merkez tooltip */
+    .pdf-mockup-link {
+      position: relative;
+      display: block;
+      text-decoration: none;
+      color: inherit;
+      outline: none;
+      cursor: pointer;
+    }
+    .pdf-mockup-link::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: rgba(15, 25, 41, 0);
+      transition: background 0.22s ease;
+      pointer-events: none;
+      z-index: 5;
+    }
+    .pdf-mockup-link::after {
+      content: 'İncelemek için tıklayın';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) scale(0.92);
+      background: var(--accent);
+      color: var(--bg);
+      padding: 11px 22px;
+      border-radius: 100px;
+      font-size: 13.5px;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+      white-space: nowrap;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.22s ease, transform 0.22s cubic-bezier(0.2, 0.8, 0.2, 1);
+      box-shadow: 0 12px 32px rgba(0, 0, 0, 0.5),
+                  0 0 0 4px rgba(244, 211, 94, 0.15);
+      z-index: 10;
+    }
+    .pdf-mockup-link:hover::before,
+    .pdf-mockup-link:focus-visible::before {
+      background: rgba(15, 25, 41, 0.32);
+    }
+    .pdf-mockup-link:hover::after,
+    .pdf-mockup-link:focus-visible::after {
+      opacity: 1;
+      transform: translate(-50%, -50%) scale(1);
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .pdf-mockup-link::after { transition: opacity 0.18s ease; }
+      .pdf-mockup-link::after { transform: translate(-50%, -50%) scale(1); }
     }
     /* Arka sayfalardaki bölüm içeriği · gerçek görünüm ama hafif sakın */
     .pdf-page-ghost .pdf-section { opacity: 0.85; }
@@ -1351,13 +1407,19 @@
       font-weight: 600;
       font-size: 13px;
       flex-shrink: 0;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
       box-shadow: 0 1px 0 rgba(255, 255, 255, 0.25) inset,
                   0 4px 12px rgba(244, 211, 94, 0.18);
-      transition: box-shadow 0.2s ease;
+      transition: box-shadow 0.2s ease, transform 0.18s ease;
     }
-    .pdf-card:hover .pdf-action-btn {
+    .pdf-action-btn:hover,
+    .pdf-action-btn:focus-visible {
       box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset,
                   0 6px 18px rgba(244, 211, 94, 0.32);
+      transform: translateY(-1px);
+      outline: none;
     }
 
     @media (max-width: 900px) {
@@ -2218,12 +2280,13 @@
           <ul class="bullet-list">
             <li><span class="bullet-icon">📄</span><span><strong>Günün öne çıkanları</strong>, kaynak gruplarına ayrılmış (GitHub, Hacker News, HuggingFace…)</span></li>
             <li><span class="bullet-icon">📚</span><span><strong>Sektörden Terimler</strong> · İngilizce teknik terimlerin Türkçe açıklamaları</span></li>
-            <li><span class="bullet-icon">🗂️</span><span><strong>Arşivlenebilir</strong> · klasörünüze koyup geçmişi gezin</span></li>
+            <li><span class="bullet-icon">🗂️</span><span><strong>Arşivlenebilir</strong> · indirilebilir PDF raporlar</span></li>
             <li><span class="bullet-icon">🔗</span><span><strong>Tıklanabilir kaynak bağlantıları</strong> · doğrudan repo'ya, makaleye, modele giden linkler</span></li>
           </ul>
         </div>
 
-        <a href="sample-report.pdf" target="_blank" rel="noopener" class="pdf-card" aria-label="Örnek raporu yeni sekmede aç">
+        <div class="pdf-card">
+          <a href="sample-report.pdf" target="_blank" rel="noopener" class="pdf-mockup-link" aria-label="Örnek raporu yeni sekmede önizle">
           <div class="pdf-mockup">
             <div class="pdf-page-stack">
               <!-- Arka sayfa 2 · HuggingFace · en geride, sağ üstten peek -->
@@ -2299,14 +2362,15 @@
               </div>
             </div>
           </div>
+          </a>
           <div class="pdf-action">
             <div class="pdf-action-info">
               <div class="pdf-action-title">📎 trescout-rapor-2026-05-15.pdf <span class="pdf-inline-badge">örnek</span></div>
               <div class="pdf-action-meta">Tasarım temsili · gerçek rapor lansman sonrası · 547 KB</div>
             </div>
-            <span class="pdf-action-btn">İndir</span>
+            <a class="pdf-action-btn" href="sample-report.pdf" download="trescout-rapor-2026-05-15.pdf" aria-label="Örnek raporu indir">İndir</a>
           </div>
-        </a>
+        </div>
       </div>
     </div>
   </section>
