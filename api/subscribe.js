@@ -152,7 +152,7 @@ export default async function handler(req) {
       ? `Tekrar kayıt: ${email}`
       : `Yeni erken erişim kaydı: ${email}`;
 
-    await fetch(`${RESEND_API}/emails`, {
+    const notifyRes = await fetch(`${RESEND_API}/emails`, {
       method: 'POST',
       headers: {
         'Authorization': `Bearer ${apiKey}`,
@@ -170,6 +170,18 @@ export default async function handler(req) {
         ].filter(Boolean).join('\n')
       })
     });
+
+    // Notification başarısız olsa da kullanıcıya 'ok' döneriz · audience'a kayıt
+    // zaten oldu. Ama hatayı Vercel logs'a basarız, debug için.
+    if (!notifyRes.ok) {
+      const errText = await notifyRes.text().catch(() => '');
+      console.error(
+        'Notification email failed:',
+        notifyRes.status,
+        notifyRes.statusText,
+        errText.slice(0, 500),
+      );
+    }
 
     return jsonResponse({ ok: true, duplicate: isDuplicate });
   } catch (err) {
