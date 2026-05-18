@@ -27,7 +27,10 @@ const RESEND_API = 'https://api.resend.com';
 const EMAIL_REGEX = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 const MAX_EMAIL_LENGTH = 254;
 const NOTIFY_TO = 'hello@trescout.com';
-const NOTIFY_FROM = 'TreScout · Erken Erişim <hello@send.trescout.com>';
+// trescout.com apex verified · subdomain send.trescout.com Free tier'da
+// extra domain gerektiriyor (sadece 1 domain hakkı). Apex'ten gönderiyoruz.
+// İleride Pro upgrade olunca send.trescout.com'a taşınabilir.
+const NOTIFY_FROM = 'TreScout · Erken Erişim <hello@trescout.com>';
 
 /** Allowed request origins (CSRF) */
 const ALLOWED_ORIGINS = new Set([

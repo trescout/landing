@@ -32,7 +32,7 @@ Bu repo Vercel'a bağlı. `main` branch'a her push otomatik production deploy.
 | Genel iletişim | `hello@trescout.com` | Cloudflare Email Routing → yaani inbox |
 | Operasyonel | `admin@trescout.com` | Servis hesapları, password reset |
 | Erken erişim formu | Tally form `9qp1XY` | Submit → bildirim `hello@`'a |
-| Outbound mail | Resend (`send.trescout.com`) | DKIM/SPF/DMARC verified |
+| Outbound mail | Resend (`trescout.com` apex · Free tier) | DKIM/SPF verified · Pro'ya geçince `send.trescout.com` subdomain'ine ayrılır |
 
 ## Sosyal medya
 
