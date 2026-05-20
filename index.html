@@ -656,6 +656,35 @@
     .mini-more-icon { font-size: 16px; }
     .mini-more-text em { font-style: normal; color: #9B8424; }
 
+    /* Birkaç Yudum kutusu · gerçek e-postadaki editorial bloğunun aynası */
+    .mini-yudum {
+      padding: 14px 16px;
+      background: rgba(244, 211, 94, 0.10);
+      border-left: 3px solid #F4D35E;
+      border-radius: 4px;
+    }
+    .mini-yudum-label {
+      font-size: 10px;
+      color: #B8941F;
+      text-transform: uppercase;
+      letter-spacing: 0.18em;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    .mini-yudum-body {
+      font-size: 13px;
+      line-height: 1.55;
+      color: #1B2A40;
+      font-style: italic;
+      margin: 0;
+    }
+    .mini-cta {
+      margin: 12px 0 0;
+      font-size: 12.5px;
+      line-height: 1.5;
+      color: #4F6577;
+    }
+
     /* Hero responsive · 968px altında stacklenir */
     @media (max-width: 968px) {
       .hero-content {
@@ -2060,23 +2089,12 @@
             </div>
 
             <div class="email-body-content">
-              <p class="email-greeting">Günaydın. Bugünün öne çıkanları:</p>
-
-              <div class="mini-repo">
-                <div class="mini-repo-head">
-                  <strong>colbymchenry/codegraph</strong>
-                </div>
-                <div class="mini-repo-meta">+1.910 yıldız · TypeScript · bilgi grafiği</div>
-                <p>Kod tabanını dizinlenmiş bilgi grafiğine çevirip yapay zekâ token tüketimini azaltıyor.</p>
+              <div class="mini-yudum">
+                <div class="mini-yudum-label">Birkaç Yudum</div>
+                <p class="mini-yudum-body">Yazılım geliştirme süreçlerinde kod analizi (code analysis) ve akademik araştırma yetkinliklerini otomatize eden araçlar bugün geliştirici ekosisteminin merkezinde yer alıyor. Açık kaynaklı yapay zekâ mühendisliği (AI engineering) müfredatları ve komut satırı arayüzü (CLI) optimizasyonları üzerine yoğunlaşan projeler dikkat çekiyor.</p>
               </div>
 
-              <div class="mini-repo">
-                <div class="mini-repo-head">
-                  <strong>lmbad0202/academic-research-skills</strong>
-                </div>
-                <div class="mini-repo-meta">+1.639 yıldız · Python · akademik otomasyon</div>
-                <p>Claude Code ile akademik araştırma süreçlerini uçtan uca otomatize ediyor.</p>
-              </div>
+              <p class="mini-cta">Detaylı tüm trendler, kaynak bağlantıları ve Sektörden Terimler Sözlüğü ekteki PDF'te.</p>
 
               <div class="mini-more">
                 <span class="mini-more-icon">📎</span>
