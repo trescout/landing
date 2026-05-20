@@ -1,0 +1,7 @@
+{
+  "_kit_note": "Claude Code MCP server config · TreScout standart MCP server'ları buraya yazılır (Gemini, Supabase, vb.).",
+  "_kit_schema": "{ \"mcpServers\": { \"<name>\": { \"command\": \"<cmd>\", \"args\": [...], \"env\": {...} } } }",
+  "_kit_examples": "https://github.com/anthropics/mcp/blob/main/docs/quickstart.md",
+  "_kit_trescout_note": "Türkçe içerik akışı için Gemini MCP server bağlanırsa: AGENTS.md §2 'Türkçe içerik kuralı' otomatize edilebilir hale gelir.",
+  "mcpServers": {}
+}

@@ -1,0 +1,31 @@
+---
+description: TreScout AI çalışma kuralları · Karpathy + org-wide
+globs:
+  - "**/*"
+alwaysApply: true
+---
+
+# TreScout Landing · Cursor Rules
+
+Tüm kurallar `AGENTS.md` (org-wide) ve `CLAUDE.md` (Karpathy) dosyalarındadır · burası **özet ve trigger**.
+
+## Karpathy 4 Prensip (CLAUDE.md tamamı)
+
+1. **Düşün** · Varsayma. Birden fazla yorum varsa hepsini sun. Net olmayan şey varsa dur, sor.
+2. **Basitlik** · Problemi çözen minimum kod. Spekülatif yok. 200 satır → 50 olabiliyorsa yeniden yaz.
+3. **Cerrahi** · Sadece dokunman gerekene dokun. Bozuk olmayanı refactor etme.
+4. **Hedef Odaklı** · "Bug'ı düzelt" → önce failing test, sonra geç. "Feature ekle" → kabul kriteri liste, sonra kod.
+
+## Kritik özet (tam liste AGENTS.md'de)
+
+- **Türkçe doğal dil → Gemini'den geçer** (AGENTS.md §2)
+- **Plan / Skills / Denetim** ayrımı (AGENTS.md §3)
+- **AI Traceability** zorunlu, her PR'da doldur (AGENTS.md §3.d)
+- **Marka:** "siz" formal · em dash (—) yasak · **TreScout** (T+S büyük) · tagline kilitli (AGENTS.md §6)
+- **Commit:** `feat(<ai-tool>): ...` (AGENTS.md §7)
+
+## Reviewer
+
+Burhan merge eder. Türkçe içerik Gemini'den geçmemişse PR reddedilir. Detay ve istisnalar için **her oturumda** `AGENTS.md` ve `CLAUDE.md`'yi baştan oku.
+
+> **Not:** Bu dosya Cursor'un yeni MDC formatındadır. Eski `.cursorrules` da repoda kalıyor (geriye dönük uyumluluk için). Cursor ikisini de okur, sorun çıkmaz.

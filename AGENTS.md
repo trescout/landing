@@ -69,6 +69,8 @@ Uzmanlık gerektiren teknik konularda, "uzman yazılımcıya soruyormuş gibi" s
 
 Çıktı: somut kod / değişiklik, PR'a eklenir.
 
+**Standart skill bundle:** Tekrarlanan iş akışları `.claude/skills/<id>.md` olarak tanımlanır · agent context'e göre otomatik tetikler. Bu repoda mevcut skills: [`.claude/skills/README.md`](.claude/skills/README.md). Tam kit kütüphanesi (3 kategoride 16 skill): [trescout-kit canonical](https://github.com/burhanarikan/trescout-kit).
+
 ### 3.c. Claude · denetimci
 
 Plan ve Skills çıktıları (ve Gemini Türkçe metni) Claude denetiminden geçer:
@@ -79,6 +81,57 @@ Plan ve Skills çıktıları (ve Gemini Türkçe metni) Claude denetiminden geç
 4. İnsan reviewer (Burhan) merge'den önce son okur
 
 **Sonuç:** Plan'ı bilinçli yapıyoruz, Skills'i uzman gibi sorabiliyoruz, Türkçe akıcılığını Gemini'den, marka tutarlılığını Claude'dan alıyoruz.
+
+### 3.d. AI Traceability (org-wide zorunlu)
+
+Her PR'da aşağıdaki bölüm doldurulur:
+
+```markdown
+## AI Traceability
+
+### Plan Agent
+- Outputs used: <docs/ARCHITECTURE.md §X / Issue #X>
+- Tool: <claude-code | antigravity | cursor | manual>
+
+### Skills Agent
+- [ ] Bu PR'da Skills Agent kullanıldı
+- Konu / Tool / Dosyalar + satırlar / Prompt arşivi (`docs/PROMPTS.md` referansı)
+
+### Türkçe İçerik
+- [ ] Gemini'den geçti
+- [ ] Claude denetiminden geçti
+
+### Manuel
+- AI yapmadığı veya AI önerisini reddedip manuel yazdığın kısım
+```
+
+Skills Agent kullanılan kod dosyalarının başında JSDoc başlığı:
+
+```typescript
+/**
+ * ─────────────────────────────────────────────
+ * Plan Agent · modül tasarımı (docs/ARCHITECTURE.md §X)
+ * Skills Agent · <konu> (lines Y-Z, tool: <araç>)
+ * Manuel · <kalan kısım>
+ * ─────────────────────────────────────────────
+ */
+```
+
+### 3.e. Definition of Done
+
+Genel kontrol listesi (kod repo'ları için):
+
+- [ ] Kabul kriterleri sağlanıyor
+- [ ] Type check geçiyor (varsa)
+- [ ] Lint geçiyor
+- [ ] Birim test eklendi (kritik logic için)
+- [ ] Preview deploy yeşil (varsa)
+- [ ] Türkçe içerik varsa Gemini → Claude akışından geçti
+- [ ] PR açıklamasında AI Traceability dolduruldu
+- [ ] Lead Developer (Burhan) onayladı
+- [ ] `docs/AI_USAGE_LOG.md` güncellendi
+
+> **Production methodology referansı:** Yukarıdaki yapı [12-factor-agents](https://github.com/humanlayer/12-factor-agents) prensipleriyle örtüşür. **Factor 7** "Contact humans with tool calls" → §3.e Lead Developer onayı (human-in-the-loop). **Factor 10** "Small, Focused Agents" → §3.a-§3.c'deki Plan/Skills/Denetim ayrımı (büyük tek agent yerine küçük odaklı). **Factor 2** "Own your prompts" → `docs/PROMPTS.md`. **Factor 3** "Own your context window" → AI'a `AGENTS.md` + `CLAUDE.md`'yi her oturumda baştan okutmak.
 
 ---
 
