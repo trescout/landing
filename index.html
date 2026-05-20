@@ -1504,6 +1504,95 @@
       .bullet-list li { text-align: left; }
     }
 
+    /* ---------- PDF CAROUSEL · gerçek 20 Mayıs 2026 raporunun 6 sayfası ---------- */
+    .pdf-carousel {
+      background: linear-gradient(135deg, #ECEEF1 0%, #DFE4EA 100%);
+      padding: 28px 0 22px;
+      position: relative;
+    }
+    .pdf-carousel-badge {
+      position: absolute;
+      top: 16px;
+      left: 24px;
+      background: var(--accent);
+      color: var(--bg);
+      padding: 5px 11px;
+      border-radius: 100px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      z-index: 5;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    }
+    .pdf-carousel-track {
+      display: flex;
+      gap: 14px;
+      padding: 36px 28px 6px;
+      overflow-x: auto;
+      overflow-y: hidden;
+      scroll-snap-type: x mandatory;
+      scroll-padding-left: 28px;
+      scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
+    }
+    .pdf-carousel-track::-webkit-scrollbar { display: none; }
+    .pdf-carousel-slide {
+      flex: 0 0 auto;
+      width: 230px;
+      scroll-snap-align: start;
+      position: relative;
+      display: block;
+      border-radius: 6px;
+      overflow: hidden;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.16),
+                  0 1px 2px rgba(0, 0, 0, 0.08);
+      background: white;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.3s cubic-bezier(0.2, 0.8, 0.2, 1),
+                  box-shadow 0.3s ease;
+    }
+    .pdf-carousel-slide:hover,
+    .pdf-carousel-slide:focus-visible {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22),
+                  0 1px 2px rgba(0, 0, 0, 0.08);
+      outline: none;
+    }
+    .pdf-carousel-slide img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 1192 / 1686;
+    }
+    .pdf-carousel-pageno {
+      position: absolute;
+      bottom: 10px;
+      right: 10px;
+      background: rgba(15, 25, 41, 0.85);
+      color: #F4D35E;
+      padding: 4px 10px;
+      border-radius: 100px;
+      font-size: 10.5px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      -webkit-backdrop-filter: blur(4px);
+      backdrop-filter: blur(4px);
+    }
+    .pdf-carousel-hint {
+      text-align: center;
+      font-size: 11.5px;
+      color: rgba(27, 73, 101, 0.6);
+      font-weight: 500;
+      letter-spacing: 0.02em;
+      padding: 4px 28px 0;
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .pdf-carousel-track { scroll-behavior: auto; }
+      .pdf-carousel-slide:hover,
+      .pdf-carousel-slide:focus-visible { transform: none; }
+    }
+
     /* ---------- REPORT PREVIEW (eski sample frame · artık kullanılmıyor) ---------- */
     .report-frame {
       background: var(--bg-elevated);
@@ -2360,83 +2449,36 @@
         </div>
 
         <div class="pdf-card">
-          <a href="sample-report.pdf" target="_blank" rel="noopener" class="pdf-mockup-link" aria-label="Örnek raporu yeni sekmede önizle">
-          <div class="pdf-mockup">
-            <div class="pdf-page-stack">
-              <!-- Arka sayfa 2 · HuggingFace · en geride, sağ üstten peek -->
-              <div class="pdf-page-ghost back-2" aria-hidden="true">
-                <div class="pdf-section">
-                  <div class="pdf-section-label">HuggingFace</div>
-                  <div class="pdf-entry">
-                    <div class="pdf-entry-title">SulphurAI/Sulphur-2-base</div>
-                    <div class="pdf-entry-meta"><strong>♥ 1.185 · 1.1M indirme</strong> · text-to-video temel modeli</div>
-                  </div>
-                  <div class="pdf-entry">
-                    <div class="pdf-entry-title">openbmb/MiniCPM-V-4.6</div>
-                    <div class="pdf-entry-meta"><strong>♥ 811 · 144k indirme</strong> · çok modlu büyük dil modeli</div>
-                  </div>
-                </div>
-                <div class="pdf-page-no">6 / 6</div>
-              </div>
-
-              <!-- Arka sayfa 1 · Hacker News · ortada, sağ üstten peek -->
-              <div class="pdf-page-ghost back-1" aria-hidden="true">
-                <div class="pdf-section">
-                  <div class="pdf-section-label">Hacker News</div>
-                  <div class="pdf-entry text">
-                    <div class="pdf-entry-title">Karpathy: Anthropic'e katıldım</div>
-                    <div class="pdf-entry-meta"><strong>1.278 oy · 525 yorum</strong> · sektör hareketi</div>
-                  </div>
-                  <div class="pdf-entry text">
-                    <div class="pdf-entry-title">Gemini 3.5 Flash duyuruldu</div>
-                    <div class="pdf-entry-meta"><strong>730 oy · 517 yorum</strong> · Google · düşük gecikmeli model</div>
-                  </div>
-                  <div class="pdf-entry text">
-                    <div class="pdf-entry-title">VirtualOS Museum: tarayıcıda işletim sistemi arşivi</div>
-                    <div class="pdf-entry-meta"><strong>725 oy · 163 yorum</strong> · sanal makine arşivi</div>
-                  </div>
-                </div>
-                <div class="pdf-page-no">5 / 6</div>
-              </div>
-
-              <!-- Ön sayfa · GitHub · en önde, kapak -->
-              <div class="pdf-page">
-                <div class="pdf-badge">Örnek görsel</div>
-                <div class="pdf-page-brand">
-                  <svg width="20" height="20" viewBox="0 0 100 100" aria-hidden="true">
-                    <rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/>
-                    <path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="3" opacity="0.3"/>
-                    <path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="3" opacity="0.5"/>
-                    <path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="3" opacity="0.75"/>
-                    <rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/>
-                    <rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/>
-                  </svg>
-                  <span>TreScout</span>
-                </div>
-                <div class="pdf-title">Bugünün Teknoloji Trendleri</div>
-                <div class="pdf-meta">20 Mayıs 2026, Çarşamba · 28 öne çıkan · ~42 dk okuma</div>
-                <div class="pdf-demo-note">Bu sayfa <strong>20 Mayıs 2026 raporunun temsilidir.</strong> İndirme bağlantısı o günün gerçek PDF'ini açar.</div>
-                <div class="pdf-section">
-                  <div class="pdf-section-label">GitHub Trending</div>
-                  <div class="pdf-entry">
-                    <div class="pdf-entry-title">tinyhumansai/openhuman</div>
-                    <div class="pdf-entry-meta"><strong>★ 22.314 · +3.973</strong> · Rust · yerel süper zekâ</div>
-                  </div>
-                  <div class="pdf-entry">
-                    <div class="pdf-entry-title">HKUDS/CLI-Anything</div>
-                    <div class="pdf-entry-meta"><strong>★ 38.023 · +1.038</strong> · Python · ajan-uyumlu CLI çerçevesi</div>
-                  </div>
-                  <div class="pdf-entry">
-                    <div class="pdf-entry-title">lmbad0202/academic-research-skills</div>
-                    <div class="pdf-entry-meta"><strong>★ 14.644 · +3.164</strong> · Python · akademik araştırma otomasyonu</div>
-                  </div>
-                </div>
-                <div class="pdf-page-hint">→ devamı: GitHub Trending devamı (s.2–4) · Hacker News (s.5) · HuggingFace (s.6)</div>
-                <div class="pdf-page-no">1 / 6</div>
-              </div>
+          <div class="pdf-carousel" role="region" aria-label="Örnek rapor sayfaları · 20 Mayıs 2026 · 6 sayfa">
+            <div class="pdf-carousel-badge">Örnek · 20 Mayıs 2026</div>
+            <div class="pdf-carousel-track">
+              <a href="sample-report.pdf#page=1" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Sayfa 1 / 6 · Kapak · yeni sekmede aç">
+                <img src="assets/sample-pages/page-1.webp" alt="Kapak · Bugünün Teknoloji Trendleri · 20 Mayıs 2026" width="1192" height="1686" loading="lazy" decoding="async">
+                <span class="pdf-carousel-pageno">1 / 6</span>
+              </a>
+              <a href="sample-report.pdf#page=2" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Sayfa 2 / 6 · GitHub Trending · ilk 6 proje · yeni sekmede aç">
+                <img src="assets/sample-pages/page-2.webp" alt="GitHub Trending · ilk 6 proje" width="1192" height="1686" loading="lazy" decoding="async">
+                <span class="pdf-carousel-pageno">2 / 6</span>
+              </a>
+              <a href="sample-report.pdf#page=3" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Sayfa 3 / 6 · GitHub Trending · projeler 7–12 · yeni sekmede aç">
+                <img src="assets/sample-pages/page-3.webp" alt="GitHub Trending · projeler 7–12" width="1192" height="1686" loading="lazy" decoding="async">
+                <span class="pdf-carousel-pageno">3 / 6</span>
+              </a>
+              <a href="sample-report.pdf#page=4" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Sayfa 4 / 6 · GitHub Trending · projeler 13–18 · yeni sekmede aç">
+                <img src="assets/sample-pages/page-4.webp" alt="GitHub Trending · projeler 13–18" width="1192" height="1686" loading="lazy" decoding="async">
+                <span class="pdf-carousel-pageno">4 / 6</span>
+              </a>
+              <a href="sample-report.pdf#page=5" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Sayfa 5 / 6 · Hacker News · yeni sekmede aç">
+                <img src="assets/sample-pages/page-5.webp" alt="Hacker News · günün öne çıkan tartışmaları" width="1192" height="1686" loading="lazy" decoding="async">
+                <span class="pdf-carousel-pageno">5 / 6</span>
+              </a>
+              <a href="sample-report.pdf#page=6" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Sayfa 6 / 6 · HuggingFace · yeni sekmede aç">
+                <img src="assets/sample-pages/page-6.webp" alt="HuggingFace · günün öne çıkan modelleri" width="1192" height="1686" loading="lazy" decoding="async">
+                <span class="pdf-carousel-pageno">6 / 6</span>
+              </a>
             </div>
+            <div class="pdf-carousel-hint">← kaydırın · tüm 6 sayfa →</div>
           </div>
-          </a>
           <div class="pdf-action">
             <div class="pdf-action-info">
               <div class="pdf-action-title">📎 trescout-rapor-<span class="pdf-date-token">2026-05-20</span>.pdf <span class="pdf-inline-badge">örnek</span></div>
