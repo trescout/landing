@@ -14,9 +14,15 @@
       ]
     },
     {
-      "source": "/(favicon\\.svg|og-image\\.png|sample-report\\.pdf)",
+      "source": "/(favicon\\.svg|og-image\\.png)",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=86400, stale-while-revalidate=604800" }
+      ]
+    },
+    {
+      "source": "/(sample-report\\.pdf|assets/sample-pages/.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=600, stale-while-revalidate=3600" }
       ]
     },
     {
