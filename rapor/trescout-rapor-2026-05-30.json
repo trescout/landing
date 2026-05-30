@@ -1,0 +1,195 @@
+{
+  "date": "2026-05-30",
+  "editorial": "Bugün yazılım geliştirme süreçlerinde otomasyon (automation) ve dosya ayrıştırma (parsing) teknolojileri öne çıkıyor. Özellikle Microsoft'un belge işleme aracı ve Anthropic'in kodlama asistanı, geliştirici araç setlerinde (tooling) verimliliği artıran yeni standartlar belirliyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Microsoft tarafından geliştirilen MarkItDown, çeşitli dosya formatlarını ve ofis belgelerini işaretleme dili (Markdown) biçimine dönüştüren bir Python aracıdır. Bu araç, yapılandırılmamış verileri büyük dil modelleri (large language models) için işlenebilir metin formatına getirmeyi kolaylaştırır.",
+          "meta": "Python · ★ 131.646 · +2.473 bugün"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo, büyük dil modellerini (large language models) kullanarak tek tuşla yüksek çözünürlüklü kısa videolar oluşturan bir otomasyon aracıdır. Python tabanlı bu yazılım, metin girdilerinden video içeriği üretme sürecini otomatikleştirerek içerik oluşturma iş akışını hızlandırır.",
+          "meta": "Python · ★ 71.592 · +2.775 bugün"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code, terminal üzerinde çalışan ve doğal dil komutlarıyla kod tabanını analiz eden bir ajan tabanlı kodlama aracıdır (agentic coding tool). Yazılım geliştirme süreçlerinde rutin görevleri yerine getiren, kod açıklamaları sunan ve sürüm kontrolü (git workflows) işlemlerini yöneten bir yardımcı olarak tasarlanmıştır.",
+          "meta": "Python · ★ 128.283 · +595 bugün"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor, geliştiricilerin kod düzenleyici içinde kendi eklentilerini (plugins) oluşturmalarına olanak tanıyan resmi eklenti spesifikasyonunu yayınladı. TypeScript tabanlı bu yapı, geliştiricilerin özelleştirilmiş iş akışlarını doğrudan düzenleyici ortamına entegre etmelerini sağlıyor.",
+          "meta": "TypeScript · ★ 1.403 · +206 bugün"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness, belirli alanlara özgü yapay zekâ ajan ekipleri tasarlayan ve bu ekiplerin ihtiyaç duyduğu uzmanlaşmış yetenekleri (skills) oluşturan bir meta-yetenek çerçevesidir. Sistem, karmaşık görevleri yerine getirmek için özelleşmiş ajan tanımlarını ve iş akışlarını otomatikleştirir.",
+          "meta": "HTML · ★ 4.165 · +80 bugün"
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "Compound Engineering eklentisi, Claude Code, Codex ve Cursor gibi geliştirme araçları için bileşik mühendislik (compound engineering) süreçlerini entegre ediyor. Yazılım geliştirme iş akışlarında karmaşık görevlerin yönetilmesini ve otomatize edilmesini sağlıyor.",
+          "meta": "TypeScript · ★ 18.351 · +348 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, Claude Code ve Cursor gibi yapay zekâ kodlama araçları için yetenek (skills), bellek (memory) ve güvenlik katmanlarını optimize eden bir sistem sunuyor. Yazılım geliştirme süreçlerinde ajan performansını artırmak amacıyla araştırma odaklı bir altyapı sağlıyor.",
+          "meta": "JavaScript · ★ 199.102 · +918 bugün"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM, çok dilli konuşma üretimi, yaratıcı ses tasarımı ve gerçekçi ses kopyalama (voice cloning) işlemleri için belirteçsiz (tokenizer-free) bir metinden konuşmaya (TTS) modeli sunuyor. Bu yaklaşım, geleneksel yöntemlerin aksine doğrudan ses verisi üzerinde çalışarak daha doğal ve esnek ses sentezi süreçlerini mümkün kılıyor.",
+          "meta": "Python · ★ 22.648 · +658 bugün"
+        },
+        {
+          "title": "galilai-group/stable-worldmodel",
+          "url": "https://github.com/galilai-group/stable-worldmodel",
+          "summary": "Stable-worldmodel, dünya modelleri (world models) üzerine yapılan araştırmaların tekrarlanabilirliğini sağlamak amacıyla geliştirilmiş bir platformdur. Yazılım, yapay zekâ modellerinin çevresel etkileşimlerini simüle etmek ve değerlendirmek için standart bir çerçeve sunar.",
+          "meta": "Python · ★ 1.403 · +319 bugün"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "Project N.O.M.A.D, internet bağlantısı gerektirmeyen çevrimdışı hayatta kalma bilgisayarı için tasarlanmış araçlar, bilgi kaynakları ve yapay zekâ (artificial intelligence) bileşenlerini bir araya getiriyor. Bu sistem, kritik verilerin ve dijital yeteneklerin her koşulda erişilebilir olmasını sağlamayı hedefliyor.",
+          "meta": "TypeScript · ★ 27.228 · +473 bugün"
+        },
+        {
+          "title": "run-llama/liteparse",
+          "url": "https://github.com/run-llama/liteparse",
+          "summary": "Rust diliyle geliştirilen Liteparse, belgeleri hızlı ve verimli bir şekilde ayrıştırmak (parsing) için tasarlanmış açık kaynaklı bir araçtır. Karmaşık doküman yapılarından veri çıkarmayı kolaylaştıran bu çözüm, yüksek performanslı bir belge ayrıştırıcı (document parser) işlevi görür.",
+          "meta": "Rust · ★ 7.781 · +929 bugün"
+        },
+        {
+          "title": "chen08209/FlClash",
+          "url": "https://github.com/chen08209/FlClash",
+          "summary": "FlClash, ClashMeta tabanlı, çok platformlu bir vekil sunucu istemcisi (proxy client) olarak öne çıkıyor. Dart diliyle geliştirilen bu açık kaynaklı uygulama, reklamsız ve kullanıcı dostu bir arayüz deneyimi sunuyor.",
+          "meta": "Dart · ★ 40.313 · +190 bugün"
+        },
+        {
+          "title": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "summary": "FareedKhan-dev tarafından paylaşılan bu çalışma, veri setlerinin indirilmesinden metin üretimine kadar büyük dil modellerinin (large language models) sıfırdan eğitilme sürecini adım adım açıklıyor. Jupyter Notebook formatındaki içerik, model geliştirme süreçlerini teknik bir rehber eşliğinde somutlaştırıyor.",
+          "meta": "Jupyter Notebook · ★ 2.086 · +316 bugün"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView, standart kablosuz ağ (WiFi) sinyallerini kullanarak görüntü verisine ihtiyaç duymadan gerçek zamanlı mekânsal zekâ, hayati bulgu takibi ve varlık algılama işlemleri gerçekleştiriyor. Rust diliyle geliştirilen bu yazılım, mevcut ağ altyapısını kullanarak temassız bir izleme çözümü sunuyor.",
+          "meta": "Rust · ★ 68.643 · +656 bugün"
+        },
+        {
+          "title": "DataTalksClub/data-engineering-zoomcamp",
+          "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+          "summary": "Data Engineering Zoomcamp, üretime hazır veri hatları (data pipelines) oluşturma süreçlerini kapsayan dokuz haftalık ücretsiz bir eğitim programıdır. Katılımcılara veri mühendisliği uygulamalarını uçtan uca öğrenme imkânı sunan bu kurs, Jupyter Not Defterleri (Jupyter Notebook) üzerinden pratik odaklı bir müfredat izler.",
+          "meta": "Jupyter Notebook · ★ 41.734 · +277 bugün"
+        },
+        {
+          "title": "OpenMOSS/MOSS-TTS",
+          "url": "https://github.com/OpenMOSS/MOSS-TTS",
+          "summary": "MOSS-TTS, yüksek doğruluklu ve etkileyici konuşma sentezi (speech synthesis) gerçekleştirmek için tasarlanmış açık kaynaklı bir model ailesidir. Uzun süreli konuşmalar, çoklu konuşmacı diyalogları, karakter tasarımı ve gerçek zamanlı akışlı metinden sese dönüştürme (text-to-speech) gibi karmaşık senaryoları destekler.",
+          "meta": "Python · ★ 2.558 · +88 bugün"
+        },
+        {
+          "title": "dreammis/social-auto-upload",
+          "url": "https://github.com/dreammis/social-auto-upload",
+          "summary": "Python ile geliştirilen social-auto-upload, videoların Douyin, Xiaohongshu, TikTok, YouTube ve Bilibili gibi sosyal medya platformlarına otomatik yüklenmesini sağlayan bir araçtır. Çoklu platform desteği sunan bu yazılım, içerik dağıtım süreçlerini otomatize ederek manuel yükleme ihtiyacını ortadan kaldırır.",
+          "meta": "Python · ★ 11.705 · +106 bugün"
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Anthropics, yapay zekâ ajanlarının karmaşık görevleri yerine getirmesini sağlayan yeniden kullanılabilir yetenek paketleri (agent skills) kütüphanesini açık kaynaklı olarak paylaşıyor. Python tabanlı bu yapı, geliştiricilerin ajan tabanlı iş akışlarını standartlaştırmasına olanak tanıyor.",
+          "meta": "Python · ★ 143.956 · +471 bugün"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build-your-own-x projesi, popüler yazılım teknolojilerini sıfırdan inşa etme rehberleri sunarak programlama becerilerini geliştirmeyi amaçlıyor. Geliştiriciler, veritabanı veya işletim sistemi gibi karmaşık sistemlerin çalışma mantığını uygulamalı projelerle öğreniyor.",
+          "meta": "Markdown · ★ 507.884 · +814 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "The dead economy theory",
+          "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+          "summary": "Ölü ekonomi teorisi, dijital platformlardaki etkileşimlerin ve içeriklerin büyük kısmının insanlar yerine botlar tarafından oluşturulduğunu savunuyor. Bu yaklaşım, internet trafiğinin ve ekonomik verilerin gerçek kullanıcı davranışlarını yansıtmadığı bir yapay ağ (synthetic network) ortamına işaret ediyor.",
+          "meta": "1.162 oy · 1.292 yorum"
+        },
+        {
+          "title": "SQLite is all you need for durable workflows",
+          "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+          "summary": "Geliştiriciler, dayanıklı iş akışları (durable workflows) oluşturmak için karmaşık altyapılar yerine SQLite veritabanını kullanmayı tercih ediyor. Bu yöntem, durum yönetimi (state management) süreçlerini basitleştirerek sistemin güvenilirliğini artırıyor.",
+          "meta": "627 oy · 336 yorum"
+        },
+        {
+          "title": "Notes from the Mistral AI Now Summit",
+          "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+          "summary": "Mistral AI Now zirvesinde tanıtılan yeni modeller, özellikle uç cihazlarda çalışan küçük dil modelleri (small language models) için optimize edilmiş performans sunuyor. Şirket, açık ağırlıklı (open-weights) modelleriyle kurumsal uygulamalarda verimliliği ve yerel işlem kapasitesini artırmayı hedefliyor.",
+          "meta": "426 oy · 181 yorum"
+        },
+        {
+          "title": "Danish pension fund excludes SpaceX citing governance and valuation",
+          "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+          "summary": "Danimarka merkezli bir emeklilik fonu, kurumsal yönetim standartları ve şirket değerlemesiyle ilgili endişeleri gerekçe göstererek SpaceX hisselerini yatırım portföyünden çıkardı. Bu karar, özel uzay şirketlerinin yatırımcılar nezdindeki şeffaflık ve yönetim (governance) beklentilerini karşılamada yaşadığı zorlukları yansıtıyor.",
+          "meta": "415 oy · 312 yorum"
+        },
+        {
+          "title": "It's hard to justify buying a Framework 12",
+          "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+          "summary": "Framework 12 modeli, sunduğu donanım yükseltilebilirliği (hardware upgradeability) avantajına rağmen yüksek fiyatı ve sınırlı performans verimliliği nedeniyle kullanıcılar tarafından eleştiriliyor. Cihazın modüler yapısı, piyasadaki diğer dizüstü bilgisayarlara kıyasla maliyet odaklı bir gerekçelendirme yapmayı zorlaştırıyor.",
+          "meta": "359 oy · 565 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "OpenBMB tarafından geliştirilen MiniCPM5-1B, düşük parametre sayısına sahip bir metin üretme modeli (text-generation model) olarak öne çıkıyor. Sınırlı hesaplama kaynaklarında yüksek performans sunmayı hedefleyen model, uç cihazlarda (edge devices) çalışmaya uygun bir mimari benimsiyor.",
+          "meta": "♥ 597 · 28.793 indirme"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Nvidia tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma görevlerini yerine getiren bir görüntü-metin-metin modeli (image-text-to-text model) olarak öne çıkıyor. Bu model, görsel verilerdeki nesnelerin yerini tespit etme ve bu verileri metin tabanlı çıktılara dönüştürme süreçlerini optimize ediyor.",
+          "meta": "♥ 472 · 18.327 indirme"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "HuggingFace üzerinde yayınlanan Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive, görsel ve metin girdilerini işleyebilen çok modlu (multimodal) bir dil modelidir. Sansürsüz yapısıyla dikkat çeken model, görüntüden metne dönüştürme (image-to-text) süreçlerinde özelleştirilmiş bir performans sunar.",
+          "meta": "♥ 1.094 · 2.227.885 indirme"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Meituan tarafından geliştirilen LongCat-Video-Avatar-1.5, metin girdilerinden yüksek kaliteli video avatarlar oluşturulmasını sağlayan bir üretken yapay zekâ (generative AI) modelidir. Sistem, karakter odaklı video sentezleme (video synthesis) süreçlerinde tutarlı görsel çıktılar üretmek için tasarlanmıştır.",
+          "meta": "♥ 403 · 0 indirme"
+        },
+        {
+          "title": "bytedance-research/Lance",
+          "url": "https://huggingface.co/bytedance-research/Lance",
+          "summary": "ByteDance tarafından geliştirilen Lance, metin, görüntü ve ses gibi farklı veri türlerini aynı anda işleyebilen çok modlu (any-to-any) bir modeldir. Bu mimari, farklı modaliteler arasında doğrudan dönüşüm sağlayarak çapraz modlu görevlerde esnek bir etkileşim sunar.",
+          "meta": "♥ 979 · 2.856 indirme"
+        }
+      ]
+    }
+  ]
+}

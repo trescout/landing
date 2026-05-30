@@ -1,0 +1,183 @@
+{
+  "date": "2026-05-28",
+  "editorial": "Bugünün teknoloji gündemini otonom içerik üretimi (automated content generation) ve karmaşık dokümanları anlamlandırmaya yarayan analiz araçları oluşturuyor. GitHub üzerinde paylaşılan açık kaynaklı projeler, özellikle bilgi işleme süreçlerini hızlandıran eklentiler ve içerik kalitesini denetleyen filtreleme mekanizmaları üzerine yoğunlaşıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo, büyük dil modellerini (large language models) kullanarak tek tuşla yüksek çözünürlüklü kısa videolar oluşturulmasını sağlıyor. Python tabanlı bu araç, içerik üretim sürecini otomatize ederek metinlerden otomatik video kurgusu gerçekleştiriyor.",
+          "meta": "Python · ★ 62.104 · +1.742 bugün"
+        },
+        {
+          "title": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "summary": "Understand-Anything, kod tabanlarını etkileşimli bilgi çizgelerine (knowledge graphs) dönüştürerek geliştiricilerin projelerini görselleştirmesine ve sorgulamasına olanak tanıyor. TypeScript ile geliştirilen bu araç, çeşitli yapay zekâ destekli kodlama yardımcılarıyla entegre çalışarak karmaşık yazılım yapılarını anlamayı kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 39.878 · +4.465 bugün"
+        },
+        {
+          "title": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "summary": "Stop-slop projesi, yapay zekâ tarafından oluşturulan metinlerdeki karakteristik anlatım kalıplarını (AI tells) tespit ederek temizleyen bir düzenleme aracıdır. Yazı dilindeki yapay zekâ izlerini kaldırmak için özelleştirilmiş bir dil işleme kural seti (skill file) sunar.",
+          "meta": "★ 5.711 · +664 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, Claude Code ve Cursor gibi yapay zekâ kodlama araçları için yetenek (skills), bellek (memory) ve güvenlik katmanlarını optimize eden bir sistemdir. Yazılım geliştirme süreçlerinde ajan performansını artırmak amacıyla araştırma odaklı bir altyapı sunar.",
+          "meta": "JavaScript · ★ 196.051 · +2.062 bugün"
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Anthropic tarafından paylaşılan bilgi işi eklentileri (knowledge work plugins), Claude Cowork üzerinde çalışan profesyoneller için açık kaynaklı araçlar sunuyor. Python tabanlı bu kütüphane, karmaşık iş akışlarını otomatikleştirmek amacıyla geliştirilen eklenti modellerini içeriyor.",
+          "meta": "Python · ★ 17.288 · +695 bugün"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill, yapay zekâ modellerinin ürettiği içeriklerin kalitesini artırmak için tasarlanmış bir sistemdir. Modelin genel ve tekdüze yanıtlar (generic slop) oluşturmasını engelleyerek daha özgün ve nitelikli çıktılar üretmesini sağlar.",
+          "meta": "Shell · ★ 24.293 · +2.715 bugün"
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "summary": "Heretic, dil modelleri (language models) üzerindeki sansür mekanizmalarını tamamen otomatik olarak kaldırmayı sağlayan bir Python aracıdır. Yazılım, model ağırlıklarını işleyerek kısıtlamaları devre dışı bırakma sürecini standartlaştırmayı hedefler.",
+          "meta": "Python · ★ 22.018 · +211 bugün"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos, finansal piyasaların kendine has dilini çözümlemek için tasarlanmış bir temel model (foundation model) olarak geliştirildi. Finansal verilerin karmaşık yapısını analiz etmek amacıyla özelleştirilen bu model, piyasa odaklı doğal dil işleme (natural language processing) süreçlerinde kullanılıyor.",
+          "meta": "Python · ★ 26.888 · +401 bugün"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Yapay zekâ ajanları için geliştirilen bu kütüphane, beş farklı siber güvenlik çerçevesiyle eşleştirilmiş 754 yapılandırılmış yetenek (skills) sunuyor. Claude Code ve GitHub Copilot gibi 20'den fazla platformla uyumlu olan bu standart, güvenlik odaklı otomasyon süreçlerini kolaylaştırmayı amaçlıyor.",
+          "meta": "Python · ★ 10.972 · +886 bugün"
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty, yapay zekâ (artificial intelligence) entegrasyonu için tasarlanan açık kaynaklı bir müşteri ilişkileri yönetimi (customer relationship management) platformudur. TypeScript diliyle geliştirilen bu yazılım, Salesforce gibi ticari çözümlere alternatif bir seçenek sunuyor.",
+          "meta": "TypeScript · ★ 47.340 · +519 bugün"
+        },
+        {
+          "title": "Chachamaru127/claude-code-harness",
+          "url": "https://github.com/Chachamaru127/claude-code-harness",
+          "summary": "Claude Code Dedicated Development Harness, otonom planlama, uygulama ve gözden geçirme döngüsüyle yazılım geliştirme süreçlerini otomatize ediyor. Bu araç, yüksek kaliteli kod üretimi için yapay zekâ tabanlı bir iş akışı (workflow) yönetimi sunuyor.",
+          "meta": "Shell · ★ 1.838 · +87 bugün"
+        },
+        {
+          "title": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "summary": "DigitalPlat FreeDomain projesi, kullanıcıların ücretsiz alan adı (domain) edinmelerini sağlayan bir altyapı sunuyor. Bu açık kaynaklı çalışma, web varlığı oluşturma sürecini maliyetsiz hale getirmeyi amaçlıyor.",
+          "meta": "HTML · ★ 169.157 · +2.222 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yapay zekâ ajanları için yetenek çerçevesi (agentic skills framework) ve yazılım geliştirme metodolojisi sunuyor. Bu araç, ajan tabanlı iş akışlarını standartlaştırmak ve yazılım geliştirme süreçlerini yapılandırmak için geliştirildi.",
+          "meta": "Shell · ★ 209.561 · +1.511 bugün"
+        },
+        {
+          "title": "byoungd/English-level-up-tips",
+          "url": "https://github.com/byoungd/English-level-up-tips",
+          "summary": "English-level-up-tips, ileri seviye İngilizce öğrenimi için kapsamlı kaynaklar ve yöntemler sunan bir rehberdir. Dil becerilerini geliştirmek isteyen kullanıcılar için stratejik çalışma planları ve eğitim materyalleri içerir.",
+          "meta": "★ 46.723 · +1.163 bugün"
+        },
+        {
+          "title": "iii-hq/iii",
+          "url": "https://github.com/iii-hq/iii",
+          "summary": "Rust diliyle geliştirilen iii, tüm servislerin gerçek zamanlı olarak oluşturulmasını, genişletilmesini ve gözlemlenmesini (observability) sağlayan bir altyapı sunuyor. Dağıtık sistemlerdeki servis yönetimi süreçlerini tek bir merkezden yönetilebilir hale getiriyor.",
+          "meta": "Rust · ★ 16.881 · +376 bugün"
+        },
+        {
+          "title": "Axorax/awesome-free-apps",
+          "url": "https://github.com/Axorax/awesome-free-apps",
+          "summary": "Axorax tarafından derlenen awesome-free-apps listesi, kişisel bilgisayar ve mobil cihazlar için seçilmiş ücretsiz uygulama önerilerini bir araya getiriyor. Bu kaynak, kullanıcıların ihtiyaç duyabileceği yazılımları kategorize ederek erişilebilir bir rehber sunuyor.",
+          "meta": "JavaScript · ★ 5.887 · +728 bugün"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi, kullanıcıların kendi sunucularında barındırabildiği, gerçek zamanlı sesli sohbet ve oyun oynama yeteneklerine sahip yapay zekâ tabanlı bir sanal karakter (waifu) platformudur. TypeScript ile geliştirilen proje, Neuro-sama benzeri etkileşimli dijital varlıkları masaüstü ve web ortamlarına taşımayı amaçlar.",
+          "meta": "TypeScript · ★ 40.222 · +72 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+          "summary": "Google'ın yapay zekâ destekli arama modunun kullanıcılar tarafından benimsendiğini açıklamasının ardından, DuckDuckGo arama motoru ziyaretçi sayısında yüzde 28 oranında artış yaşadı. Bu durum, kullanıcıların geleneksel arama deneyimini (traditional search) yapay zekâ destekli sonuçlara tercih etme eğilimini gösteriyor.",
+          "meta": "657 oy · 335 yorum"
+        },
+        {
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "summary": "Anthropic ve OpenAI, sundukları geniş kapsamlı dil modelleri (large language models) ile yazılım geliştirme süreçlerinde kalıcı bir pazar uyumu yakaladı. Geliştiricilerin bu araçları günlük iş akışlarına entegre etmesi, üretken yapay zekânın (generative AI) uygulama geliştirme döngüsünde standart bir bileşen haline geldiğini gösteriyor.",
+          "meta": "632 oy · 773 yorum"
+        },
+        {
+          "title": "Last.fm is now independent",
+          "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+          "summary": "Müzik dinleme platformu Last.fm, bağlı bulunduğu medya grubundan ayrılarak bağımsız bir şirket haline geldi. Bu süreçle birlikte platform, kullanıcı verilerini ve hizmet altyapısını kendi bünyesinde yönetmeye başladı.",
+          "meta": "617 oy · 175 yorum"
+        },
+        {
+          "title": "Tech CEOs are apparently suffering from AI psychosis",
+          "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+          "summary": "Teknoloji dünyasındaki üst düzey yöneticilerin, yapay zekâ (artificial intelligence) teknolojilerinin gelecekteki etkilerine dair gerçekçi olmayan beklentiler geliştirmesi yapay zekâ psikozu (AI psychosis) olarak tanımlanıyor. Bu durum, şirketlerin piyasa gerçekleriyle örtüşmeyen stratejik kararlar almasına ve teknolojik gelişmelere yönelik aşırı iyimser bir bakış açısı benimsemesine neden oluyor.",
+          "meta": "557 oy · 283 yorum"
+        },
+        {
+          "title": "YouTube to automatically label AI-generated videos",
+          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "summary": "YouTube, yapay zekâ ile oluşturulmuş veya değiştirilmiş içerikleri belirlemek için yeni etiketleme sistemini devreye alıyor. Platform, izleyicilerin gerçekçi görünen videoları ayırt edebilmesi adına üretken yapay zekâ (generative AI) ile hazırlanan içeriklerde şeffaflığı artırmayı hedefliyor.",
+          "meta": "516 oy · 312 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "bytedance-research/Lance",
+          "url": "https://huggingface.co/bytedance-research/Lance",
+          "summary": "ByteDance tarafından geliştirilen Lance, farklı veri türleri arasında dönüşüm sağlayan çok modlu (any-to-any) bir model yapısı sunuyor. Bu yaklaşım, metin, görüntü ve ses gibi çeşitli girdi formatlarını ortak bir uzayda işleyerek çapraz modlu görevlerde esneklik sağlıyor.",
+          "meta": "♥ 923 · 1.908 indirme"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "OpenBMB tarafından geliştirilen MiniCPM5-1B, metin üretimi (text generation) görevleri için optimize edilmiş düşük parametreli bir dil modelidir. Sınırlı hesaplama kaynaklarında verimli çalışma hedefiyle tasarlanan model, kompakt mimarisiyle dikkat çekmektedir.",
+          "meta": "♥ 412 · 2.409 indirme"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Meituan tarafından geliştirilen LongCat-Video-Avatar-1.5, tek bir referans görselden yüksek kaliteli ve tutarlı video avatarları oluşturmayı sağlayan bir modeldir. Görsel sadakati koruyarak hareketli karakterler üretmek için optimize edilmiş bir görüntü sentezleme (image synthesis) mimarisi kullanır.",
+          "meta": "♥ 343 · 0 indirme"
+        },
+        {
+          "title": "NemoStation/Marlin-2B",
+          "url": "https://huggingface.co/NemoStation/Marlin-2B",
+          "summary": "NemoStation tarafından geliştirilen Marlin-2B, video tabanlı metin üretimi (video-text-to-text) gerçekleştiren bir modeldir. Görsel verileri işleyerek metin çıktıları oluşturma yeteneğiyle çok modlu (multimodal) yapay zekâ uygulamalarında kullanılmaktadır.",
+          "meta": "♥ 415 · 9.144 indirme"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive modeli, görüntü ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapıdır. Sansürsüz (uncensored) yapısıyla kullanıcı kısıtlamalarını kaldıran model, geniş ölçekli dil işleme yeteneklerini görsel veri analiziyle birleştirir.",
+          "meta": "♥ 947 · 1.598.473 indirme"
+        }
+      ]
+    }
+  ]
+}

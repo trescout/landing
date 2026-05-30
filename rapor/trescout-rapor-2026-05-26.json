@@ -1,0 +1,165 @@
+{
+  "date": "2026-05-26",
+  "editorial": "Bugün geliştirici ekosisteminde yapay zekâ mühendisliği (AI engineering) temelleri ile siber güvenlik odaklı eklentilerin (plugins) entegrasyonu öne çıkıyor. GitHub üzerindeki güncel projeler, karmaşık sistemlerin anlaşılması ve içerik kalitesini koruyan filtreleme mekanizmaları üzerine yoğunlaşıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "summary": "Understand-Anything, kod tabanlarını etkileşimli bilgi grafikleri (knowledge graphs) haline getirerek yazılım projeleri üzerinde sorgulama ve keşif yapılmasına olanak tanıyor. Çeşitli kodlama yardımcıları ve komut satırı arayüzleriyle entegre çalışan bu araç, karmaşık kod yapılarını görselleştirerek analiz sürecini kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 35.132 · +4.721 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, yapay zekâ ajanları için yetenek (skills), içgüdü (instincts), bellek (memory) ve güvenlik katmanlarını optimize eden bir sistemdir. Claude Code, Codex ve Cursor gibi geliştirme araçlarında ajan performansını artırmak amacıyla tasarlanmıştır.",
+          "meta": "JavaScript · ★ 194.032 · +1.912 bugün"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Yapay zekâ mühendisliği (AI engineering) alanına giriş yapmak isteyenler için hazırlanan bu kaynak, temelden başlayarak uygulama geliştirme ve yayına alma süreçlerini Python diliyle öğretiyor. Teorik bilgiyi pratik projelerle birleştirerek uçtan uca yazılım geliştirme yetkinliği kazandırmayı hedefliyor.",
+          "meta": "Python · ★ 20.435 · +2.169 bugün"
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Anthropic, bilgi çalışanlarının Claude Cowork üzerinde kullanması için geliştirilen açık kaynaklı eklenti (plugin) deposunu yayınladı. Python tabanlı bu araç seti, üretkenlik süreçlerini otomatikleştirmek amacıyla özelleştirilebilir iş akışları sunuyor.",
+          "meta": "Python · ★ 16.517 · +1.698 bugün"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Yapay zekâ ajanları için geliştirilen bu kütüphane, beş farklı siber güvenlik çerçevesiyle uyumlu 754 yapılandırılmış yetenek (skills) sunuyor. 26 güvenlik alanını kapsayan bu veri seti, Claude Code ve GitHub Copilot gibi 20'den fazla platformda ajan tabanlı iş akışlarını standartlaştırmayı sağlıyor.",
+          "meta": "Python · ★ 9.924 · +871 bugün"
+        },
+        {
+          "title": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "summary": "Stop-slop, yapay zekâ tarafından üretilen metinlerdeki karakteristik anlatım kalıplarını ve tekrarlayan ifadeleri (AI tells) temizlemeye yarayan bir düzenleme aracıdır. Yazılı içeriklerin daha doğal ve insani bir üsluba kavuşması için metin iyileştirme (prose refinement) süreçlerini otomatikleştirir.",
+          "meta": "★ 4.876 · +547 bugün"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill, yapay zekâ modellerinin ürettiği içeriklerdeki sıradanlığı gidermek için tasarlanmış bir araçtır. Modelin çıktı kalitesini artırarak daha özgün ve nitelikli yanıtlar (outputs) oluşturmasını sağlar.",
+          "meta": "Shell · ★ 21.137 · +1.440 bugün"
+        },
+        {
+          "title": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "summary": "DigitalPlat tarafından sunulan FreeDomain projesi, kullanıcılara ücretsiz alan adı (domain) edinme imkânı sağlayan bir altyapı sunuyor. HTML tabanlı bu kaynak, web varlığı oluşturmak isteyenler için erişilebilir bir çözüm geliştiriyor.",
+          "meta": "HTML · ★ 166.947 · +1.127 bugün"
+        },
+        {
+          "title": "jellyfin/jellyfin",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "summary": "Jellyfin, kullanıcıların kendi medya koleksiyonlarını yönetmelerini ve yayınlamalarını sağlayan açık kaynaklı bir medya sunucusu (media server) sistemidir. C# diliyle geliştirilen platform, medya dosyalarını düzenlemek ve farklı cihazlara aktarmak için merkezi bir sunucu altyapısı sunar.",
+          "meta": "C# · ★ 52.316 · +91 bugün"
+        },
+        {
+          "title": "Axorax/awesome-free-apps",
+          "url": "https://github.com/Axorax/awesome-free-apps",
+          "summary": "Axorax tarafından derlenen awesome-free-apps listesi, kişisel bilgisayar ve mobil cihazlar için seçilmiş ücretsiz uygulama önerilerini bir araya getiriyor. Bu kaynak, kullanıcıların ihtiyaç duyabileceği çeşitli yazılımları kategorize ederek erişilebilir bir rehber sunuyor.",
+          "meta": "JavaScript · ★ 5.121 · +738 bugün"
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty, Salesforce platformuna açık kaynaklı bir alternatif olarak geliştirilen ve yapay zekâ (AI) entegrasyonuna odaklanan bir müşteri ilişkileri yönetimi (CRM) sistemidir. TypeScript diliyle yazılan bu platform, kurumsal veri yönetimini yapay zekâ destekli iş akışlarıyla birleştirmeyi hedefler.",
+          "meta": "TypeScript · ★ 46.735 · +237 bugün"
+        },
+        {
+          "title": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "summary": "OpenStock, pahalı borsa platformlarına açık kaynaklı bir alternatif olarak gerçek zamanlı fiyat takibi ve kişiselleştirilmiş uyarılar sunuyor. TypeScript ile geliştirilen bu araç, şirket verilerine yönelik detaylı analizleri ücretsiz ve erişilebilir bir şekilde sağlıyor.",
+          "meta": "TypeScript · ★ 11.968 · +128 bugün"
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Claude-mem, yapay zekâ ajanlarının oturumlar arası kalıcı bağlam (persistent context) kurmasını sağlayan bir araçtır. Ajanın gerçekleştirdiği işlemleri yapay zekâ ile sıkıştırarak gelecekteki oturumlara aktarır ve farklı kodlama asistanlarıyla uyumlu çalışır.",
+          "meta": "TypeScript · ★ 78.506 · +319 bugün"
+        },
+        {
+          "title": "st-tech/ppf-contact-solver",
+          "url": "https://github.com/st-tech/ppf-contact-solver",
+          "summary": "PPF Contact Solver, fizik tabanlı simülasyonlarda kabuklar (shells), katılar (solids) ve çubuklar (rods) arasındaki temas çözümlemelerini gerçekleştiren bir Python kütüphanesidir. Farklı geometrik yapıların etkileşimini hesaplayarak simülasyonlarda fiziksel tutarlılığı artırmayı hedefler.",
+          "meta": "Python · ★ 3.389 · +207 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Using AI to write better code more slowly",
+          "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+          "summary": "Yapay zekâ destekli kod yazımında hız yerine kaliteye odaklanan yaklaşım, geliştiricilerin otomatik üretim (generative AI) araçlarını daha yavaş ve kontrollü kullanmalarını öneriyor. Bu yöntem, kodun okunabilirliğini ve bakımını artırmak için yapay zekâyı bir yardımcı pilot (copilot) olarak değil, bir gözden geçirme aracı olarak konumlandırıyor.",
+          "meta": "1.056 oy · 394 yorum"
+        },
+        {
+          "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+          "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+          "summary": "Stanford Üniversitesi tarafından yürütülen araştırma, yürüyüş yapmanın yaratıcı düşünme (creative thinking) üzerindeki etkisini ortaya koyuyor. Çalışma, yürüyen bireylerin oturarak çalışanlara kıyasla daha yüksek düzeyde yaratıcı fikir ürettiğini gösteriyor.",
+          "meta": "528 oy · 208 yorum"
+        },
+        {
+          "title": "Ferrari Luce",
+          "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+          "summary": "Ferrari, tamamen elektrikli araçlar için geliştirdiği yeni üretim tesisini ve bu alandaki teknolojik altyapısını Luce projesiyle duyurdu. Marka, elektrikli motor (electric motor) ve batarya paketi montaj süreçlerini dijital ikiz (digital twin) teknolojisiyle optimize etmeyi hedefliyor.",
+          "meta": "442 oy · 816 yorum"
+        },
+        {
+          "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+          "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+          "summary": "İspanya, kumar lisansı bulunmadığı gerekçesiyle Polymarket ve Kalshi gibi tahmin piyasası (prediction market) platformlarına erişimi engelledi. Söz konusu platformlar, kullanıcıların gerçek dünya olayları üzerine bahis oynamasına olanak tanıyan merkeziyetsiz finansal araçlar olarak faaliyet gösteriyor.",
+          "meta": "415 oy · 202 yorum"
+        },
+        {
+          "title": "Netherlands blocks US takeover of vital digital supplier",
+          "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+          "summary": "Hollanda hükümeti, ulusal güvenlik gerekçeleriyle kritik dijital altyapı tedarikçisi olan bir şirketin Amerika Birleşik Devletleri merkezli bir firma tarafından satın alınmasını engelledi. Bu karar, stratejik teknoloji varlıklarının yabancı kontrolüne geçişine yönelik denetimlerin sıkılaştırıldığını gösteriyor.",
+          "meta": "386 oy · 140 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "bytedance-research/Lance",
+          "url": "https://huggingface.co/bytedance-research/Lance",
+          "summary": "ByteDance tarafından geliştirilen Lance, farklı veri türleri arasında dönüşüm sağlayan çok modlu (any-to-any) bir model mimarisidir. Bu teknoloji, metin, görüntü ve ses gibi çeşitli girdi formatlarını ortak bir uzayda işleyerek çapraz modlu üretim süreçlerini destekler.",
+          "meta": "♥ 851 · 1.908 indirme"
+        },
+        {
+          "title": "NemoStation/Marlin-2B",
+          "url": "https://huggingface.co/NemoStation/Marlin-2B",
+          "summary": "Marlin-2B, video ve metin verilerini işleyerek metin tabanlı çıktılar üreten bir video-metin-metin (video-text-to-text) modelidir. Küçük parametre yapısıyla video içeriklerini analiz etme ve anlamlandırma süreçlerinde verimlilik odaklı bir çözüm sunar.",
+          "meta": "♥ 367 · 9.144 indirme"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Meituan tarafından geliştirilen LongCat-Video-Avatar-1.5, metin tabanlı komutlarla gerçekçi video avatarlar oluşturulmasına olanak tanıyor. Model, görsel tutarlılığı koruyarak karakterlerin dinamik hareketlerini ve yüz ifadelerini yüksek doğrulukla işliyor.",
+          "meta": "♥ 283 · 0 indirme"
+        },
+        {
+          "title": "sapientinc/HRM-Text-1B",
+          "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
+          "summary": "Sapientinc tarafından geliştirilen HRM-Text-1B, metin üretimi (text-generation) görevleri için optimize edilmiş 1 milyar parametreli bir dil modelidir. Düşük kaynak tüketimiyle metin oluşturma süreçlerinde verimlilik sağlamayı hedefler.",
+          "meta": "♥ 371 · 103.033 indirme"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "OpenBMB tarafından geliştirilen MiniCPM5-1B, düşük parametre sayısına sahip bir metin üretme modeli (text-generation model) olarak öne çıkıyor. Model, sınırlı donanım kaynaklarında verimli dil işleme görevleri gerçekleştirmek üzere tasarlanmıştır.",
+          "meta": "♥ 294 · 2.409 indirme"
+        }
+      ]
+    }
+  ]
+}

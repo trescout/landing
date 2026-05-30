@@ -1,0 +1,177 @@
+{
+  "date": "2026-05-29",
+  "editorial": "Bugün yazılım dünyasında otomasyon araçları (automation tools) ve açık kaynaklı müşteri ilişkileri yönetimi (CRM) sistemleri üzerine yoğun bir ilgi gözlemleniyor. GitHub üzerindeki güncel veriler, özellikle içerik üretimini hızlandıran sistemlerin ve kişiselleştirilmiş beceri setlerinin (skill sets) geliştiriciler arasında öncelik kazandığını gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo, büyük dil modellerini (large language models) kullanarak metin tabanlı içeriklerden otomatik olarak yüksek çözünürlüklü kısa videolar oluşturuyor. Python tabanlı bu araç, video üretim sürecini tek tıkla tamamlanabilir hale getirerek içerik oluşturma iş akışlarını hızlandırıyor.",
+          "meta": "Python · ★ 68.142 · +4.698 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, yapay zekâ ajanları için yetenek yönetimi, bellek, güvenlik ve araştırma odaklı geliştirme süreçlerini kapsayan bir performans optimizasyon sistemi sunuyor. Claude Code, Codex ve Cursor gibi platformlarla uyumlu çalışan bu yapı, ajan tabanlı iş akışlarının verimliliğini artırmayı hedefliyor.",
+          "meta": "JavaScript · ★ 197.955 · +1.385 bugün"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill, yapay zekâ modellerinin ürettiği içeriklerin sıradan ve genel geçer olmasını engelleyen bir sistemdir. Kullanıcıların model çıktılarını daha özgün ve nitelikli hale getirmesini sağlayan bir stil filtresi (style filter) işlevi görür.",
+          "meta": "Shell · ★ 27.340 · +2.234 bugün"
+        },
+        {
+          "title": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "summary": "Stop-slop, yapay zekâ tarafından üretilen metinlerdeki karakteristik anlatım kalıplarını (AI tells) tespit edip temizleyen bir dil işleme aracıdır. Yazılı içeriklerdeki yapay zekâ izlerini silerek metinlerin daha doğal ve insani bir üsluba kavuşmasını sağlar.",
+          "meta": "★ 6.671 · +761 bugün"
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty, yapay zekâ (artificial intelligence) odaklı tasarımıyla Salesforce platformuna açık kaynaklı bir alternatif sunuyor. TypeScript diliyle geliştirilen bu müşteri ilişkileri yönetimi (customer relationship management) yazılımı, kurumsal veri süreçlerini modüler bir yapıda birleştiriyor.",
+          "meta": "TypeScript · ★ 48.098 · +493 bugün"
+        },
+        {
+          "title": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "summary": "DigitalPlat FreeDomain projesi, kullanıcılara ücretsiz alan adı (domain) sağlama hizmeti sunan bir platformdur. Web geliştirme süreçlerinde maliyetsiz bir şekilde dijital varlık oluşturmayı hedefleyen bir yapıya sahiptir.",
+          "meta": "HTML · ★ 171.240 · +1.761 bugün"
+        },
+        {
+          "title": "byoungd/English-level-up-tips",
+          "url": "https://github.com/byoungd/English-level-up-tips",
+          "summary": "İleri seviye İngilizce öğrenimi için hazırlanan bu rehber, dil becerilerini geliştirmeye yönelik yöntemleri ve kaynakları bir araya getiriyor. Öğrenme stratejilerini ve pratik ipuçlarını kapsayan içerik, dil edinim sürecini optimize etmek isteyen kullanıcılar için yapılandırılmış bir yol haritası sunuyor.",
+          "meta": "★ 49.193 · +2.019 bugün"
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Microsoft tarafından geliştirilen MarkItDown, çeşitli dosya formatlarını ve ofis belgelerini işaretleme dili (Markdown) biçimine dönüştüren bir Python aracıdır. Yazılım, yapılandırılmamış verilerin büyük dil modelleri (large language models) için işlenebilir hale getirilmesini kolaylaştırır.",
+          "meta": "Python · ★ 128.420 · +1.410 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yapay zekâ ajanları için geliştirilen bir yetenek çatısı (agentic skills framework) ve yazılım geliştirme metodolojisidir. Sistem, ajan tabanlı iş akışlarını standartlaştırmak için pratik bir uygulama çerçevesi sunar.",
+          "meta": "Shell · ★ 211.820 · +1.730 bugün"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness, alana özgü yapay zekâ ajan ekipleri tasarlayan ve bu ekiplerin ihtiyaç duyduğu uzmanlaşmış yetenekleri (skills) üreten bir meta-yetenek (meta-skill) çerçevesidir. Sistem, karmaşık görevleri yerine getirecek ajan yapılarını tanımlayarak iş akışlarını otomatikleştirir.",
+          "meta": "HTML · ★ 4.063 · +65 bugün"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X, popüler yazılım teknolojilerini sıfırdan inşa ederek programlama becerilerini geliştirmeyi amaçlayan bir rehber koleksiyonudur. Geliştiriciler, veritabanı veya işletim sistemi gibi karmaşık sistemlerin çalışma mantığını uygulamalı projelerle öğrenmektedir.",
+          "meta": "Markdown · ★ 506.894 · +1.066 bugün"
+        },
+        {
+          "title": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "summary": "Understand-Anything, kod tabanlarını etkileşimli bilgi ağlarına (knowledge graphs) dönüştürerek geliştiricilerin projeleri üzerinde sorgulama yapmasına ve keşif gerçekleştirmesine olanak tanıyor. TypeScript tabanlı bu araç, mevcut kod düzenleyiciler ve komut satırı arayüzleri ile entegre çalışarak karmaşık kod yapılarını görselleştiriyor.",
+          "meta": "TypeScript · ★ 43.749 · +3.776 bugün"
+        },
+        {
+          "title": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "summary": "Crawl4AI, büyük dil modelleri (large language models) için optimize edilmiş açık kaynaklı bir web tarayıcısı ve veri kazıyıcıdır. Python tabanlı bu araç, web içeriğini yapay zekâ modellerinin işleyebileceği temiz formatlara dönüştürme sürecini kolaylaştırır.",
+          "meta": "Python · ★ 67.194 · +154 bugün"
+        },
+        {
+          "title": "OpenMOSS/MOSS-TTS",
+          "url": "https://github.com/OpenMOSS/MOSS-TTS",
+          "summary": "MOSI.AI ve OpenMOSS ekibi tarafından geliştirilen MOSS-TTS, yüksek sadakatli konuşma ve ses üretimi sağlayan açık kaynaklı bir model ailesidir. Sistem, uzun metinli konuşma sentezi (speech synthesis), çoklu konuşmacı desteği ve gerçek zamanlı akış gibi karmaşık senaryolar için çözümler sunar.",
+          "meta": "Python · ★ 2.440 · +71 bugün"
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "Compound Engineering eklentisi, Claude Code, Codex ve Cursor gibi geliştirme ortamları için bileşik mühendislik (compound engineering) süreçlerini otomatikleştiren bir yapı sunuyor. Bu araç, karmaşık yazılım görevlerini yönetilebilir iş akışlarına dönüştürerek geliştirici üretkenliğini artırmayı hedefliyor.",
+          "meta": "TypeScript · ★ 17.931 · +184 bugün"
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Anthropics tarafından yayımlanan bu depo, yapay zekâ ajanları için geliştirilen yeniden kullanılabilir yetenek paketlerini (agent skills) içeriyor. Python tabanlı bu kütüphane, karmaşık görevleri yerine getiren otonom sistemlerin iş akışlarını standartlaştırmayı amaçlıyor.",
+          "meta": "Python · ★ 143.307 · +718 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Opus 4.8",
+          "url": "https://www.anthropic.com/news/claude-opus-4-8",
+          "summary": "Anthropic tarafından duyurulan Claude 3.5 Opus, yüksek performanslı dil modelleri arasında daha gelişmiş akıl yürütme ve kod yazma yetenekleri sunuyor. Model, karmaşık görevlerde doğruluk oranını artırmak amacıyla optimize edilmiş mimari yapısını kullanıyor.",
+          "meta": "1.535 oy · 1.200 yorum"
+        },
+        {
+          "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+          "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+          "summary": "İkinci el Lego mağazası zinciri Bricks and Minifigs, bir müşterinin emanet olarak bıraktığı 200 bin dolar değerindeki koleksiyonu izinsiz şekilde satışa sunmakla suçlanıyor. Olay, kurumsal bayilik sistemlerinde emanet yönetimi ve mülkiyet hakları konusundaki güvenlik açıklarını gündeme getiriyor.",
+          "meta": "955 oy · 443 yorum"
+        },
+        {
+          "title": "I made a million dollar product from my dorm room (2025)",
+          "url": "https://nick.winans.io/blog/nice-nano/",
+          "summary": "Nick Winans, üniversite yurdunda geliştirdiği özel klavye mikrodenetleyicisi (microcontroller) projesini bir milyon dolar gelir getiren bir girişime dönüştürdü. Donanım odaklı niş bir ürünün, topluluk geri bildirimleri ve doğrudan satış stratejileriyle nasıl ölçeklendirilebileceğini gösteriyor.",
+          "meta": "407 oy · 62 yorum"
+        },
+        {
+          "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+          "summary": "GitHub, Windows işletim sistemine yönelik sıfırıncı gün açıkları (zero-day exploits) paylaşan bir güvenlik araştırmacısının hesabını kapattı. Söz konusu işlem, platformun güvenlik açıklarının ifşa edilmesine yönelik izlediği politikalar kapsamında gerçekleştirildi.",
+          "meta": "394 oy · 175 yorum"
+        },
+        {
+          "title": "Cars collect a startling amount of data about you",
+          "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+          "summary": "Modern otomobiller, sürüş alışkanlıklarından konum verilerine kadar geniş bir yelpazede kişisel veri topluyor. Bağlantılı araç teknolojileri (connected vehicle technologies) sayesinde bu veri toplama süreçleri, kullanıcı gizliliği açısından yeni riskler oluşturuyor.",
+          "meta": "332 oy · 152 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "OpenBMB tarafından geliştirilen MiniCPM5-1B, metin üretimi (text generation) için optimize edilmiş hafif bir dil modelidir. Düşük parametre sayısıyla kaynak kullanımı verimliliğini artırmayı hedefler.",
+          "meta": "♥ 521 · 23.629 indirme"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Meituan tarafından geliştirilen LongCat-Video-Avatar-1.5, tek bir referans görselden yüksek kaliteli video avatarlar oluşturulmasına olanak tanıyor. Model, görüntü tabanlı video sentezleme (image-to-video synthesis) teknolojisini kullanarak dijital karakterlerin hareketli ve gerçekçi temsillerini üretiyor.",
+          "meta": "♥ 380 · 0 indirme"
+        },
+        {
+          "title": "bytedance-research/Lance",
+          "url": "https://huggingface.co/bytedance-research/Lance",
+          "summary": "ByteDance tarafından geliştirilen Lance, metin, görüntü ve ses gibi farklı veri türleri arasında dönüşüm yapabilen çok modlu (any-to-any) bir modeldir. Bu yapı, tek bir mimari üzerinden çeşitli medya formatlarını işleyerek çapraz modlu üretim yeteneklerini destekler.",
+          "meta": "♥ 965 · 2.738 indirme"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "HuggingFace üzerinde yayınlanan Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive modeli, görüntü ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapı sunuyor. Model, kısıtlamasız (uncensored) veri setiyle eğitilerek kullanıcı etkileşimlerinde daha doğrudan yanıtlar vermeyi hedefliyor.",
+          "meta": "♥ 1.020 · 2.114.938 indirme"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Nvidia tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma (object localization) görevlerini yerine getiren bir görüntü-metin-metin (image-text-to-text) modelidir. Bu model, karmaşık sahnelerdeki nesneleri tanımlamak ve koordinat tabanlı veriler üretmek için özelleşmiş bir mimari kullanır.",
+          "meta": "♥ 280 · 7.861 indirme"
+        }
+      ]
+    }
+  ]
+}
