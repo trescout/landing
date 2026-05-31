@@ -1848,6 +1848,20 @@
             <li><span class="bullet-icon">🗂️</span><span><strong>Arşivlenebilir</strong> · indirilebilir PDF raporlar</span></li>
             <li><span class="bullet-icon">🔗</span><span><strong>Tıklanabilir kaynak bağlantıları</strong> · doğrudan repo'ya, makaleye, modele giden linkler</span></li>
           </ul>
+          <!-- CANLI ARŞİV · statik örneği gerçek/günlük arşive köprüler (sosyal kanıt) -->
+          <a class="preview-archive-cta" href="/reports/">
+            <span class="pac-live" id="js-arch-badge">CANLI</span>
+            <span class="pac-msg"><strong>Bu bir örnek.</strong> Gerçek raporları her gün üretiyoruz · <span class="pac-go">arşivi görün →</span></span>
+          </a>
+          <style>
+            .preview-archive-cta { display: flex; align-items: center; gap: 13px; margin-top: 26px; padding: 14px 18px; background: var(--bg-elevated); border: 1px solid rgba(244, 211, 94, .28); border-radius: 12px; text-decoration: none; transition: border-color .15s, transform .12s; }
+            .preview-archive-cta:hover { border-color: var(--accent); transform: translateY(-1px); }
+            .pac-live { flex-shrink: 0; font-size: 11px; font-weight: 700; letter-spacing: .1em; color: #15202B; background: var(--accent); padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+            .pac-msg { font-size: 14.5px; line-height: 1.5; color: var(--ink-muted); }
+            .pac-msg strong { color: var(--ink); }
+            .pac-go { color: var(--accent); font-weight: 600; white-space: nowrap; }
+          </style>
+          <script>(function(){fetch('/sitemap.xml').then(function(r){return r.text();}).then(function(t){var n=(t.match(/\/reports\/\d{4}-\d{2}-\d{2}\//g)||[]).length;var el=document.getElementById('js-arch-badge');if(n>0&&el)el.textContent='CANLI · '+n+' rapor';}).catch(function(){});})();</script>
         </div>
 
         <div class="pdf-card">
