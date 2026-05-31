@@ -40,7 +40,8 @@
     }
   ],
   "redirects": [
-    { "source": "/rapor", "destination": "/reports", "permanent": true },
-    { "source": "/rapor/:path*", "destination": "/reports/:path*", "permanent": true }
+    { "source": "/rapor", "destination": "/reports/", "permanent": true },
+    { "source": "/rapor/", "destination": "/reports/", "permanent": true },
+    { "source": "/rapor/(.*)", "destination": "/reports/$1", "permanent": true }
   ]
 }
