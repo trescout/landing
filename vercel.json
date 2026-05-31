@@ -26,7 +26,7 @@
       ]
     },
     {
-      "source": "/rapor/(.*\\.pdf)",
+      "source": "/reports/(.*\\.pdf)",
       "headers": [
         { "key": "Content-Disposition", "value": "inline" },
         { "key": "Cache-Control", "value": "public, max-age=3600, stale-while-revalidate=86400" }
@@ -38,5 +38,9 @@
         { "key": "Cache-Control", "value": "no-store, no-cache, must-revalidate" }
       ]
     }
+  ],
+  "redirects": [
+    { "source": "/rapor", "destination": "/reports", "permanent": true },
+    { "source": "/rapor/:path*", "destination": "/reports/:path*", "permanent": true }
   ]
 }
