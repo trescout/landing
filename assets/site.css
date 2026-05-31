@@ -172,6 +172,22 @@ nav.scrolled {
 .btn-ghost { color: var(--ink-muted); }
 .btn-ghost:hover { color: var(--ink); }
 
+/* ---------- SIGNUP CTA · rapor sayfaları (erken erişim dönüşümü) ---------- */
+.signup-cta {
+  margin: 28px 0;
+  padding: 20px 24px;
+  background: var(--bg-elevated);
+  border: 1px solid rgba(244, 211, 94, 0.28);
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+.signup-cta p { margin: 0; font-size: 15.5px; line-height: 1.5; color: var(--ink); max-width: 58ch; }
+.signup-cta strong { color: var(--accent); font-weight: 700; }
+
 /* ---------- FOOTER ---------- */
 footer {
   border-top: 1px solid rgba(95, 168, 211, 0.15);
