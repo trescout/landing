@@ -130,7 +130,6 @@ nav.scrolled {
 }
 @media (max-width: 640px) {
   .container { padding: 0 16px; }
-  .nav-actions .btn-ghost { display: none; }
   .logo-link { gap: 8px; }
 }
 
