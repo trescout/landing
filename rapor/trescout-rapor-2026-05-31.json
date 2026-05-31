@@ -1,0 +1,195 @@
+{
+  "date": "2026-05-31",
+  "editorial": "Bugünün teknoloji gündemi, geliştirici araçlarının (developer tools) otomasyon ve dosya işleme süreçlerini hızlandıran yeni nesil komut satırı arayüzlerine (CLI) odaklanıyor. Özellikle Anthropic ve Microsoft kaynaklı projeler, yapay zekâ destekli kodlama asistanlarının iş akışlarını daha derinlemesine entegre ettiğini gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Microsoft tarafından geliştirilen MarkItDown, çeşitli dosya formatlarını ve ofis belgelerini işaretleme dili (Markdown) biçimine dönüştüren bir Python aracıdır. Bu araç, yapılandırılmamış verilerin büyük dil modelleri (large language models) tarafından işlenmesini kolaylaştırmak amacıyla tasarlanmıştır.",
+          "meta": "Python · ★ 133.159 · +2.470 bugün"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo, büyük dil modellerini (large language models) kullanarak tek tuşla yüksek çözünürlüklü kısa videolar oluşturan bir Python tabanlı araçtır. Otomatik içerik üretimi ve video kurgu süreçlerini birleştirerek video oluşturma iş akışını hızlandırır.",
+          "meta": "Python · ★ 72.574 · +2.768 bugün"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code, terminal üzerinde çalışan ve doğal dil komutlarıyla kod tabanını analiz ederek rutin yazılım görevlerini yerine getiren bir ajan tabanlı kodlama aracıdır (agentic coding tool). Yazılım geliştirme süreçlerini hızlandırmak amacıyla karmaşık kod bloklarını açıklama ve sürüm kontrol (git) iş akışlarını yönetme yetenekleri sunar.",
+          "meta": "Python · ★ 128.523 · +592 bugün"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor, geliştiricilerin kod düzenleyici içinde kendi eklentilerini (plugins) oluşturmalarına olanak tanıyan resmi eklenti spesifikasyonunu yayınladı. TypeScript tabanlı bu yapı, geliştiricilerin özelleştirilmiş araçlar ve iş akışları geliştirerek düzenleyici yeteneklerini genişletmesini sağlıyor.",
+          "meta": "TypeScript · ★ 1.518 · +205 bugün"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness, alana özgü yapay zekâ ajan ekipleri tasarlayan ve bu ekiplerin ihtiyaç duyduğu uzmanlaşmış yetenekleri (skills) oluşturan bir meta-yetenek çerçevesidir. Sistem, karmaşık görevleri yerine getirmek için özelleştirilmiş ajan tanımları yaparak iş akışlarını otomatikleştirir.",
+          "meta": "HTML · ★ 4.359 · +55 bugün"
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "Compound Engineering eklentisi, Claude Code, Codex ve Cursor gibi geliştirme ortamları için bileşik mühendislik (compound engineering) süreçlerini otomatize ediyor. Bu araç, karmaşık yazılım görevlerini yönetilebilir parçalara bölerek yapay zekâ destekli kodlama iş akışlarını standartlaştırıyor.",
+          "meta": "TypeScript · ★ 18.481 · +349 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, yapay zekâ ajanları için yetenek yönetimi, bellek, güvenlik ve araştırma odaklı geliştirme süreçlerini optimize eden bir sistemdir. Claude Code, Codex ve Cursor gibi platformlar üzerinde ajan performansını artırmak amacıyla tasarlanmıştır.",
+          "meta": "JavaScript · ★ 199.571 · +908 bugün"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM, çok dilli konuşma üretimi, yaratıcı ses tasarımı ve gerçeğe yakın ses kopyalama (voice cloning) işlemleri için belirteçsiz (tokenizer-free) bir metinden konuşmaya (TTS) sistemi sunuyor. Bu yaklaşım, geleneksel yöntemlerin aksine ara birim kullanmadan doğrudan ses sentezi gerçekleştirerek dil bağımsız bir model mimarisi oluşturuyor.",
+          "meta": "Python · ★ 22.952 · +779 bugün"
+        },
+        {
+          "title": "galilai-group/stable-worldmodel",
+          "url": "https://github.com/galilai-group/stable-worldmodel",
+          "summary": "Stable-worldmodel, dünya modelleri (world models) üzerine yapılan araştırmaların tekrarlanabilirliğini sağlamak ve performans değerlendirmelerini standartlaştırmak için geliştirilmiş bir platformdur. Proje, Python tabanlı yapısıyla araştırmacılara karmaşık çevresel simülasyonlar ve model eğitimi için ortak bir çalışma alanı sunar.",
+          "meta": "Python · ★ 1.506 · +318 bugün"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "Project N.O.M.A.D, internet bağlantısı gerektirmeyen ortamlarda kritik araçlara, bilgi kaynaklarına ve yapay zekâ (artificial intelligence) modellerine erişim sağlayan çevrimdışı bir hayatta kalma bilgisayarıdır. TypeScript ile geliştirilen bu sistem, kullanıcıların her koşulda veri ve teknoloji desteğine sahip olmasını hedefler.",
+          "meta": "TypeScript · ★ 27.431 · +469 bugün"
+        },
+        {
+          "title": "run-llama/liteparse",
+          "url": "https://github.com/run-llama/liteparse",
+          "summary": "Rust diliyle geliştirilen LiteParse, belgeleri hızlı ve verimli bir şekilde işlemek için tasarlanmış açık kaynaklı bir belge ayrıştırıcıdır (document parser). Geliştiricilere metin çıkarma süreçlerinde performans odaklı bir alternatif sunar.",
+          "meta": "Rust · ★ 8.048 · +925 bugün"
+        },
+        {
+          "title": "chen08209/FlClash",
+          "url": "https://github.com/chen08209/FlClash",
+          "summary": "FlClash, ClashMeta altyapısını kullanan çok platformlu bir vekil sunucu istemcisi (proxy client) olarak öne çıkıyor. Dart diliyle geliştirilen bu açık kaynaklı araç, reklamsız ve kullanıcı dostu bir deneyim sunmayı amaçlıyor.",
+          "meta": "Dart · ★ 40.447 · +187 bugün"
+        },
+        {
+          "title": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "summary": "FareedKhan-dev tarafından paylaşılan proje, veri setlerinin indirilmesinden metin üretimine kadar büyük dil modellerini (large language models) sıfırdan eğitmek için izlenmesi gereken adımları sunuyor. Jupyter Notebook formatındaki bu çalışma, model eğitimi sürecini uçtan uca açıklayan somut bir rehber niteliği taşıyor.",
+          "meta": "Jupyter Notebook · ★ 2.417 · +327 bugün"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView, standart kablosuz internet (WiFi) sinyallerini kullanarak görüntü verisine ihtiyaç duymadan gerçek zamanlı mekânsal zekâ, hayati bulgu takibi ve varlık algılama (presence detection) işlemleri gerçekleştiriyor. Rust diliyle geliştirilen bu yazılım, mevcut ağ altyapısını kullanarak temassız izleme çözümleri sunuyor.",
+          "meta": "Rust · ★ 69.095 · +655 bugün"
+        },
+        {
+          "title": "DataTalksClub/data-engineering-zoomcamp",
+          "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+          "summary": "Data Engineering Zoomcamp, canlıya hazır veri hatları (data pipelines) oluşturmayı öğreten dokuz haftalık ücretsiz bir eğitim programıdır. Katılımcılar, Jupyter Not Defterleri (Jupyter Notebook) üzerinden uygulamalı veri mühendisliği süreçlerini deneyimleme imkânı bulur.",
+          "meta": "Jupyter Notebook · ★ 41.831 · +274 bugün"
+        },
+        {
+          "title": "OpenMOSS/MOSS-TTS",
+          "url": "https://github.com/OpenMOSS/MOSS-TTS",
+          "summary": "MOSI.AI ve OpenMOSS ekibi tarafından geliştirilen MOSS-TTS, yüksek sadakatli ve etkileyici konuşma sentezi (speech synthesis) sunan açık kaynaklı bir model ailesidir. Sistem, uzun süreli konuşmalar, çoklu konuşmacı diyalogları ve gerçek zamanlı akışlı metinden sese dönüştürme (text-to-speech) gibi karmaşık senaryoları desteklemektedir.",
+          "meta": "Python · ★ 2.700 · +62 bugün"
+        },
+        {
+          "title": "dreammis/social-auto-upload",
+          "url": "https://github.com/dreammis/social-auto-upload",
+          "summary": "Social-auto-upload, TikTok, YouTube ve Bilibili gibi popüler sosyal medya platformlarına video yükleme sürecini otomatikleştiren bir Python aracıdır. Çoklu platform desteği sayesinde içerik dağıtım iş akışlarını merkezileştirerek manuel yükleme ihtiyacını ortadan kaldırır.",
+          "meta": "Python · ★ 11.899 · +73 bugün"
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Anthropic tarafından paylaşılan bu depo, yapay zekâ ajanları için geliştirilen yeniden kullanılabilir yetenek paketleri (agent skills) sunuyor. Python tabanlı bu kütüphane, karmaşık görevleri otomatize eden ajanlar için standartlaştırılmış iş akışları oluşturmayı hedefliyor.",
+          "meta": "Python · ★ 144.332 · +454 bugün"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build-your-own-x projesi, popüler yazılım teknolojilerini sıfırdan inşa ederek programlama becerilerini geliştirmeyi amaçlayan bir rehber koleksiyonudur. Geliştiriciler, veritabanı veya işletim sistemi gibi karmaşık sistemlerin çalışma prensiplerini uygulamalı projelerle öğrenmektedir.",
+          "meta": "Markdown · ★ 508.501 · +817 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
+          "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+          "summary": "Microsoft, 2026 yılından itibaren Office 2019 ve 2021 sürümlerini Mac işletim sistemlerinde salt okunur moda (view-only mode) geçireceğini duyurdu. Bu değişiklikle birlikte kullanıcılar, ilgili yazılımlar üzerinden belge düzenleme veya oluşturma işlemlerini gerçekleştiremeyecek.",
+          "meta": "806 oy · 284 yorum"
+        },
+        {
+          "title": "Domain expertise has always been the real moat",
+          "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+          "summary": "Yazılım geliştirme süreçlerinde teknolojik araçlardan ziyade alan uzmanlığı (domain expertise), rekabet avantajı sağlamada belirleyici rol oynuyor. Sektörel bilgi birikimi, karmaşık problemlerin çözümünde ve sürdürülebilir iş modellerinin oluşturulmasında temel savunma hattı (moat) olarak öne çıkıyor.",
+          "meta": "516 oy · 310 yorum"
+        },
+        {
+          "title": "OpenRouter raises $113M Series B",
+          "url": "https://openrouter.ai/announcements/series-b",
+          "summary": "OpenRouter, yapay zekâ modellerine tek bir arayüz üzerinden erişim sağlayan platformunu genişletmek için 113 milyon dolarlık B serisi yatırım aldı. Şirket, bu sermayeyi büyük dil modelleri (large language models) için sunduğu erişim altyapısını geliştirmek ve geliştirici araçlarını büyütmek amacıyla kullanacak.",
+          "meta": "408 oy · 198 yorum"
+        },
+        {
+          "title": "Pandoc Templates",
+          "url": "https://pandoc-templates.org/",
+          "summary": "Pandoc şablonları (Pandoc templates), farklı dosya biçimleri arasında dönüştürme yaparken belge tasarımını özelleştirmeye olanak tanıyan hazır yapı taşları sunuyor. Kullanıcılar bu şablonlar sayesinde teknik dokümantasyon veya akademik yayın süreçlerinde çıktı biçimini (output format) standartlaştırabiliyor.",
+          "meta": "390 oy · 50 yorum"
+        },
+        {
+          "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+          "url": "https://github.com/kristapsdz/openrsync",
+          "summary": "OpenBSD ekibi tarafından geliştirilen openrsync, dosya senkronizasyon aracı rsync'in bağımsız bir uygulamasını sunuyor. Yazılım, mevcut rsync protokolüyle uyumlu çalışırken daha sade ve güvenli bir kod tabanı oluşturmayı hedefliyor.",
+          "meta": "375 oy · 152 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "OpenBMB tarafından geliştirilen MiniCPM5-1B, metin üretimi (text generation) görevleri için optimize edilmiş düşük parametreli bir dil modelidir. Düşük hesaplama maliyetiyle yüksek performans sunmayı hedefleyen model, kaynak kısıtlı cihazlarda çalıştırılmak üzere tasarlanmıştır.",
+          "meta": "♥ 624 · 28.793 indirme"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Nvidia tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma çıktıları üreten bir görüntü-metin-metin (image-text-to-text) modelidir. Model, karmaşık sahnelerdeki nesneleri tanımlamak ve koordinat tabanlı verilerle ilişkilendirmek için tasarlanmıştır.",
+          "meta": "♥ 516 · 24.586 indirme"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive, görsel ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir modeldir. Sansürsüz yapısı ve agresif dil modeli ayarlarıyla, içerik kısıtlaması olmaksızın görsel çözümleme görevleri için geliştirilmiştir.",
+          "meta": "♥ 1.125 · 2.439.402 indirme"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Meituan tarafından geliştirilen LongCat-Video-Avatar-1.5, tek bir referans görselden yüksek kaliteli video avatarları oluşturmayı sağlayan bir çerçeve (framework) sunuyor. Model, hareketli karakterlerin oluşturulmasında tutarlı görsel çıktı sağlamak için video tabanlı bir avatar sentezleme (video avatar synthesis) yöntemi kullanıyor.",
+          "meta": "♥ 419 · 0 indirme"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "summary": "LiquidAI tarafından geliştirilen LFM2.5-8B-A1B, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. Geleneksel mimarilerden farklı olarak sıvı sinir ağları (liquid neural networks) yapısını kullanan model, verimli hesaplama performansı sunmayı amaçlar.",
+          "meta": "♥ 288 · 17.084 indirme"
+        }
+      ]
+    }
+  ]
+}
