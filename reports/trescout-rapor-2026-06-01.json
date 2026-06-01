@@ -1,0 +1,177 @@
+{
+  "date": "2026-06-01",
+  "editorial": "Bugün geliştirici ekosisteminde veri dönüştürme araçları (data conversion tools) ve otomasyon odaklı içerik üretim sistemleri öne çıkıyor. Microsoft tarafından yayınlanan MarkItDown gibi kütüphaneler, farklı dosya formatlarını yapılandırılmış metin verisine çevirme süreçlerini daha erişilebilir kılıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo, büyük dil modellerini (large language models) kullanarak tek tuşla yüksek çözünürlüklü kısa videolar oluşturulmasını sağlıyor. Python tabanlı bu araç, metin girdilerinden otomatik içerik üretimi yaparak video hazırlama sürecini hızlandırıyor.",
+          "meta": "Python · ★ 75.978 · +1.937 bugün"
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Microsoft tarafından geliştirilen MarkItDown, çeşitli dosya formatlarını ve ofis belgelerini işaretleme dili (Markdown) biçimine dönüştüren bir Python aracıdır. Bu araç, yapılandırılmamış verilerin büyük dil modelleri (large language models) tarafından işlenmesini kolaylaştırmak amacıyla tasarlanmıştır.",
+          "meta": "Python · ★ 136.324 · +2.798 bugün"
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling, tekil isteklerden kapsamlı tarama işlemlerine kadar tüm süreçleri yönetebilen uyarlanabilir bir web kazıma (web scraping) çerçevesi sunuyor. Python tabanlı bu araç, web verisi toplama süreçlerini otomatize etmek için esnek bir yapı sağlıyor.",
+          "meta": "Python · ★ 57.333 · +606 bugün"
+        },
+        {
+          "title": "nesquena/hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "summary": "Hermes WebUI, Hermes ajanlarını web tarayıcıları veya mobil cihazlar üzerinden yönetmeyi sağlayan bir arayüz sunuyor. Python tabanlı bu araç, ajan etkileşimlerini merkezi bir platformda birleştirerek kullanıcı erişimini kolaylaştırıyor.",
+          "meta": "Python · ★ 10.353 · +357 bugün"
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "Compound Engineering eklentisi, Claude Code, Codex ve Cursor gibi geliştirme araçları için bileşik mühendislik (compound engineering) süreçlerini otomatize ediyor. Yazılım geliştirme iş akışlarını standartlaştırmak amacıyla TypeScript tabanlı bir yapı sunuyor.",
+          "meta": "TypeScript · ★ 18.887 · +251 bugün"
+        },
+        {
+          "title": "github/docs",
+          "url": "https://github.com/github/docs",
+          "summary": "GitHub, docs.github.com platformunun kaynak kodlarını açık kaynaklı (open-source) olarak paylaşıyor. TypeScript ile geliştirilen bu depo, kullanıcıların platform belgelerine katkıda bulunmasına ve dokümantasyon süreçlerini şeffaflaştırmasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 19.817 · +27 bugün"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM, çok dilli konuşma üretimi, yaratıcı ses tasarımı ve gerçeğe yakın ses kopyalama (voice cloning) işlemleri için belirteçsiz (tokenizer-free) bir metinden konuşmaya (TTS) modeli sunuyor. Bu yaklaşım, geleneksel yöntemlerin aksine ses verisini doğrudan işleyerek daha doğal ve esnek ses sentezleme süreçleri sağlıyor.",
+          "meta": "Python · ★ 23.878 · +635 bugün"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness, alan odaklı yapay zekâ ajanı ekipleri tasarlayan ve bu ekiplerin ihtiyaç duyduğu özelleşmiş yetenekleri (skills) üreten bir üst yetenek (meta-skill) çerçevesidir. Belirli görevler için uzmanlaşmış ajan yapılarını tanımlayarak iş akışlarının otomatikleştirilmesini sağlar.",
+          "meta": "HTML · ★ 4.862 · +323 bugün"
+        },
+        {
+          "title": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "summary": "FareedKhan-dev tarafından paylaşılan bu rehber, veri setlerinin indirilmesinden metin üretimine kadar büyük dil modellerini (large language models) sıfırdan eğitme sürecini adım adım açıklıyor. Jupyter not defterleri üzerinden sunulan bu yöntem, model geliştirme süreçlerini teknik bir çerçevede standartlaştırıyor.",
+          "meta": "Jupyter Notebook · ★ 3.327 · +626 bugün"
+        },
+        {
+          "title": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "summary": "Supermemory, yapay zekâ çağı için tasarlanmış, yüksek ölçeklenebilirliğe sahip bir bellek motoru (memory engine) ve uygulama arayüzüdür. TypeScript ile geliştirilen bu sistem, verilerin hızlı işlenmesi ve yapay zekâ modelleriyle entegre edilmesi için bir bellek uygulama programlama arayüzü (Memory API) sunar.",
+          "meta": "TypeScript · ★ 23.582 · +264 bugün"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "Project N.O.M.A.D, internet bağlantısı gerektirmeyen ortamlarda kritik araçlara, bilgi kaynaklarına ve yerel yapay zekâ (artificial intelligence) modellerine erişim sağlayan taşınabilir bir hayatta kalma bilgisayarıdır. Donanım ve yazılımı bir araya getiren bu sistem, çevrim dışı (offline) koşullarda veri güvenliğini ve sürekli erişilebilirliği destekler.",
+          "meta": "TypeScript · ★ 27.885 · +374 bugün"
+        },
+        {
+          "title": "a5c-ai/babysitter",
+          "url": "https://github.com/a5c-ai/babysitter",
+          "summary": "Babysitter, yapay zekâ ajanlarından oluşan iş gücünün karmaşık görevleri hatasız yönetmesi için deterministik bir denetim mekanizması sunuyor. Proje, halüsinasyonsuz bir öz düzenleme (self-orchestration) süreciyle ajanların iş akışlarına tam uyum sağlamasını hedefliyor.",
+          "meta": "JavaScript · ★ 1.101 · +58 bugün"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code, terminal üzerinde çalışan ve doğal dil komutlarıyla yazılım geliştirme süreçlerini otomatize eden bir ajan tabanlı kodlama aracıdır (agentic coding tool). Bu araç, kod tabanını analiz ederek rutin görevleri yerine getirir, karmaşık yapıları açıklar ve sürüm kontrol (git) iş akışlarını yönetir.",
+          "meta": "Python · ★ 129.182 · +489 bugün"
+        },
+        {
+          "title": "nicobailon/pi-subagents",
+          "url": "https://github.com/nicobailon/pi-subagents",
+          "summary": "Pi-subagents, Pi platformu üzerinde asenkron alt ajan delegasyonu (async subagent delegation) süreçlerini yönetmek için geliştirilmiş bir TypeScript kütüphanesidir. Araç, oturum paylaşımı (session sharing) ve içerik kısaltma (truncation) gibi özelliklerle karmaşık görevlerin alt birimlere bölünmesini kolaylaştırır.",
+          "meta": "TypeScript · ★ 1.951 · +69 bugün"
+        },
+        {
+          "title": "emmabostian/developer-portfolios",
+          "url": "https://github.com/emmabostian/developer-portfolios",
+          "summary": "Geliştirici portfolyoları (developer portfolios), yazılım profesyonellerinin kişisel projelerini ve yetkinliklerini sergilemek için kullandıkları örnekleri bir araya getiriyor. Bu liste, tasarım ve içerik oluşturma sürecinde ilham arayan geliştiricilere referans kaynağı sunuyor.",
+          "meta": "Python · ★ 23.623 · +73 bugün"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X, popüler yazılım teknolojilerini sıfırdan kodlayarak programlama becerilerini geliştirmeyi amaçlayan bir rehber koleksiyonudur. Veritabanı, işletim sistemi ve arama motoru gibi karmaşık sistemlerin çalışma mantığını uygulamalı projelerle öğretir.",
+          "meta": "Markdown · ★ 509.788 · +1.158 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+          "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+          "summary": "Cloudflare Turnstile, bot tespiti için WebGL tabanlı parmak izi alma (fingerprinting) yöntemini zorunlu hale getiriyor. Bu uygulama, kullanıcıların tarayıcı donanım verilerini toplayarak gizlilik endişelerini beraberinde getiriyor.",
+          "meta": "666 oy · 360 yorum"
+        },
+        {
+          "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+          "url": "https://twitter.com/i/status/2060746160558543217",
+          "summary": "Yapay zekâ modelleri, kullanıcıların sistem yetkisi (root access) bulunmayan ortamlarda komut satırı işlemlerini gerçekleştirmesine olanak tanıyan geçici çözümler (workaround) üretiyor. Bu durum, büyük dil modellerinin (large language models) işletim sistemi kısıtlamalarını aşma konusundaki yeteneklerini ortaya koyuyor.",
+          "meta": "544 oy · 259 yorum"
+        },
+        {
+          "title": "The Website Specification",
+          "url": "https://specification.website/",
+          "summary": "Web sitesi spesifikasyonu (The Website Specification), modern web platformlarının temel bileşenlerini ve standartlarını bir araya getiren teknik bir dokümantasyon sunuyor. Bu çalışma, web geliştirme süreçlerinde tutarlılığı artırmak amacıyla tarayıcı davranışları ve arayüz standartlarını (web standards) tanımlıyor.",
+          "meta": "498 oy · 199 yorum"
+        },
+        {
+          "title": "Dav2d",
+          "url": "https://jbkempf.com/blog/2026/dav2d/",
+          "summary": "Dav2d, video dosyalarını AV1 formatına dönüştürmek için tasarlanmış bir kod çözücü (decoder) optimizasyon projesidir. Mevcut video işleme süreçlerinde işlemci verimliliğini artırmak amacıyla düşük seviyeli kod iyileştirmelerine odaklanır.",
+          "meta": "483 oy · 172 yorum"
+        },
+        {
+          "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+          "url": "https://prismml.com/news/bonsai-image-4b",
+          "summary": "PrismML tarafından geliştirilen Bonsai Image 4B, görüntü oluşturma (image generation) modellerini yerel cihazlarda çalıştırmak için 1-bit nicemleme (quantization) yöntemini kullanıyor. Bu yaklaşım, yüksek performanslı donanım gereksinimlerini düşürerek yapay zekâ modellerinin mobil cihazlarda daha verimli çalışmasını sağlıyor.",
+          "meta": "384 oy · 147 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "NVIDIA tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma (object localization) görevlerini yerine getiren bir görüntü-metin-metin (image-text-to-text) modelidir. Sistem, karmaşık görsel veriler üzerinde metin tabanlı sorgularla nesne tespiti ve analizi yapılmasına olanak tanır.",
+          "meta": "♥ 674 · 35.783 indirme"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "OpenBMB tarafından geliştirilen MiniCPM5-1B, düşük parametre sayısıyla metin üretimi (text generation) gerçekleştiren hafif bir dil modelidir. Sınırlı hesaplama kaynaklarında verimli çalışmak üzere optimize edilen bu yapı, uç cihazlarda yapay zekâ uygulamalarını desteklemeyi amaçlar.",
+          "meta": "♥ 670 · 45.698 indirme"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "summary": "LiquidAI tarafından geliştirilen LFM2.5-8B-A1B, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. Geleneksel mimarilerden farklı olarak sıvı sinir ağları (liquid neural networks) yapısını kullanan model, verimli hesaplama süreçleri sunmayı amaçlar.",
+          "meta": "♥ 340 · 37.893 indirme"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "HuggingFace üzerinde paylaşılan Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive, görsel ve metin girdilerini işleyerek metin çıktısı üreten (image-text-to-text) bir modeldir. Sansürsüz yapısıyla dikkat çeken bu model, karmaşık veri işleme süreçlerinde esnek bir kullanım alanı sunuyor.",
+          "meta": "♥ 1.190 · 2.533.393 indirme"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Meituan tarafından geliştirilen LongCat-Video-Avatar-1.5, tek bir referans görselden yüksek kaliteli video avatarlar oluşturulmasını sağlayan bir modeldir. Sistem, karakterin hareketlerini ve yüz ifadelerini video verisi üzerinden tutarlı bir şekilde sentezlemek için video tabanlı avatar oluşturma (video-based avatar generation) teknolojisini kullanır.",
+          "meta": "♥ 448 · 0 indirme"
+        }
+      ]
+    }
+  ]
+}
