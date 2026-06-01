@@ -1,0 +1,54 @@
+name: Deploy Health Check
+
+# Amaç: "deploy sessizce kırıldı, site eski sürümde kaldı" durumunu yakalamak.
+# (Örn. repo private-org yapılınca Vercel Hobby deploy edememişti; saatlerce fark edilmedi.)
+# İki kontrol:
+#   1) Son main commit'inin Vercel deploy durumu 'success' mu?  → bugünkü arıza modu
+#   2) trescout.com erişilebilir ve içerik yerinde mi?           → genel uptime
+# Başarısız olursa job fail eder → GitHub repo sahibine otomatik e-posta bildirimi gönderir.
+
+on:
+  schedule:
+    - cron: '30 4 * * *'   # 04:30 UTC · günlük rapor deploy'undan (04:00) hemen sonra
+    - cron: '0 */6 * * *'  # her 6 saatte bir · genel kapsama
+  workflow_dispatch: {}     # elle tetikleme (Actions sekmesinden)
+
+permissions:
+  contents: read
+  statuses: read
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Vercel production deploy durumu (son main commit)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          state=$(gh api "repos/${{ github.repository }}/commits/main/status" --jq '.state')
+          echo "Son main commit Vercel/deploy durumu: $state"
+          case "$state" in
+            success)
+              echo "✅ Son commit başarıyla deploy edilmiş." ;;
+            pending)
+              echo "::warning::Deploy 'pending' · şu an sürüyor olabilir, bu çalışmada atlandı." ;;
+            *)
+              echo "::error::Production deploy 'success' DEĞİL (durum: '$state'). trescout.com güncel olmayabilir!"
+              gh api "repos/${{ github.repository }}/commits/main/status" \
+                --jq '.statuses[] | "  - \(.context): \(.state) · \(.description)"' || true
+              exit 1 ;;
+          esac
+
+      - name: Canlı site erişilebilir ve içerik yerinde
+        run: |
+          code=$(curl -sS -o /tmp/page.html -w '%{http_code}' --max-time 20 https://trescout.com/)
+          echo "trescout.com HTTP: $code"
+          if [ "$code" != "200" ]; then
+            echo "::error::trescout.com beklenen 200 yerine $code döndü."
+            exit 1
+          fi
+          if ! grep -q "TreScout" /tmp/page.html; then
+            echo "::error::Ana sayfada 'TreScout' bulunamadı · içerik boş/bozuk olabilir."
+            exit 1
+          fi
+          echo "✅ Canlı site 200 ve içerik yerinde."
