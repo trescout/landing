@@ -2,8 +2,8 @@
  * TreScout · paylaşılan site iskeleti (standart)
  * Tokens + reset + nav + buttons + footer · index.html'in iskeletinden çıkarıldı.
  * İkincil sayfalar (rapor arşivi vb.) bunu link'ler · aynı logo/menü/footer/yerleşim.
- * Not: index.html şu an kendi inline kopyasını kullanıyor (launched sayfa, riske
- * atılmadı) · ileride tek-kaynak için o da bunu link'leyebilir.
+ * Not: index.html bunu (iskelet) + assets/index.css'i (sayfa-özel) link'ler.
+ * Artık index.html'de inline CSS yok · CSP style-src 'unsafe-inline' kaldırıldı.
  * ──────────────────────────────────────────────── */
 
 /* ---------- TOKENS ---------- */
