@@ -143,5 +143,37 @@
     "meta": "★ 1.838 · Shell · MIT",
     "source": "GitHub",
     "date": "2026-05-28"
+  },
+  {
+    "slug": "superpowers",
+    "title": "Superpowers",
+    "tagline": "Kodlama ajanlarına bileşik beceriler + yazılım geliştirme metodolojisi.",
+    "meta": "★ 209.561 · Shell · MIT",
+    "source": "GitHub",
+    "date": "2026-05-28"
+  },
+  {
+    "slug": "english-level-up-tips",
+    "title": "English Level Up Tips",
+    "tagline": "İleri seviye İngilizce için kapsamlı, sıra dışı bir öğrenme rehberi.",
+    "meta": "★ 46.723 · Rehber · Lisans: yok",
+    "source": "GitHub",
+    "date": "2026-05-28"
+  },
+  {
+    "slug": "iii",
+    "title": "iii",
+    "tagline": "Tüm servislerini gerçek zamanlı kur, genişlet ve gözlemle (kuyruk, cron, HTTP, state…).",
+    "meta": "★ 16.881 · Rust · Lisans: yok",
+    "source": "GitHub",
+    "date": "2026-05-28"
+  },
+  {
+    "slug": "airi",
+    "title": "AIRI",
+    "tagline": "Kendi sunucunda barınan AI sanal karakteri: sesli sohbet, oyun oynama.",
+    "meta": "★ 40.222 · TypeScript · MIT",
+    "source": "GitHub",
+    "date": "2026-05-28"
   }
 ]
