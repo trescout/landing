@@ -111,5 +111,37 @@
     "meta": "★ 3.389 · Python · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26"
+  },
+  {
+    "slug": "moneyprinterturbo",
+    "title": "MoneyPrinterTurbo",
+    "tagline": "Bir konu yazın, AI tek tuşla altyazılı kısa video üretsin.",
+    "meta": "★ 62.104 · Python · MIT",
+    "source": "GitHub",
+    "date": "2026-05-28"
+  },
+  {
+    "slug": "heretic",
+    "title": "Heretic",
+    "tagline": "Dil modellerindeki güvenlik kısıtlarını kaldıran ileri düzey araç. (Etik/sorumluluk notu var.)",
+    "meta": "★ 22.018 · Python · AGPL-3.0",
+    "source": "GitHub",
+    "date": "2026-05-28"
+  },
+  {
+    "slug": "kronos",
+    "title": "Kronos",
+    "tagline": "Finansal piyasaların 'dilini' çözmek için açık kaynak temel model.",
+    "meta": "★ 26.888 · Python · MIT",
+    "source": "GitHub",
+    "date": "2026-05-28"
+  },
+  {
+    "slug": "claude-code-harness",
+    "title": "Claude Code Harness",
+    "tagline": "Claude Code için disiplinli Planla → Yap → Gözden Geçir döngüsü.",
+    "meta": "★ 1.838 · Shell · MIT",
+    "source": "GitHub",
+    "date": "2026-05-28"
   }
 ]
