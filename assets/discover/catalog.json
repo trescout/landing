@@ -55,5 +55,37 @@
     "meta": "★ 21.137 · Shell · MIT",
     "source": "GitHub",
     "date": "2026-05-26"
+  },
+  {
+    "slug": "free-domain",
+    "title": "FreeDomain",
+    "tagline": "Herkese ücretsiz alan adı (domain). Web kimliğinizi parasız kurun.",
+    "meta": "★ 166.947 · HTML · AGPL-3.0",
+    "source": "GitHub",
+    "date": "2026-05-26"
+  },
+  {
+    "slug": "jellyfin",
+    "title": "Jellyfin",
+    "tagline": "Kendi medya sunucunuz: film, dizi, müziğinizi her cihaza yayınlayın. Ücretsiz, reklamsız.",
+    "meta": "★ 52.316 · C# · GPL-2.0",
+    "source": "GitHub",
+    "date": "2026-05-26"
+  },
+  {
+    "slug": "awesome-free-apps",
+    "title": "Awesome Free Apps",
+    "tagline": "PC ve mobil için seçilmiş en iyi ücretsiz uygulamalar listesi.",
+    "meta": "★ 5.121 · Liste · Lisans: belirsiz",
+    "source": "GitHub",
+    "date": "2026-05-26"
+  },
+  {
+    "slug": "twenty",
+    "title": "Twenty",
+    "tagline": "Salesforce'a açık kaynak alternatif: AI odaklı, modern CRM.",
+    "meta": "★ 46.735 · TypeScript · Lisans: özel",
+    "source": "GitHub",
+    "date": "2026-05-26"
   }
 ]
