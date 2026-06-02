@@ -175,5 +175,37 @@
     "meta": "★ 40.222 · TypeScript · MIT",
     "source": "GitHub",
     "date": "2026-05-28"
+  },
+  {
+    "slug": "markitdown",
+    "title": "MarkItDown",
+    "tagline": "Word, PDF, Excel… her dosyayı AI'ın okuyabileceği Markdown'a çevirir. (Microsoft)",
+    "meta": "★ 128.420 · Python · MIT",
+    "source": "GitHub",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "harness",
+    "title": "Harness · Ajan Ekip Fabrikası",
+    "tagline": "Claude Code için alana özel AI ajan ekipleri tasarlayan meta-beceri.",
+    "meta": "★ 4.063 · Claude Code · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "build-your-own-x",
+    "title": "Build Your Own X",
+    "tagline": "Sevdiğin teknolojileri sıfırdan inşa ederek öğren: veritabanı, OS, Git, Docker…",
+    "meta": "★ 506.894 · Rehber · Lisans: yok",
+    "source": "GitHub",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "crawl4ai",
+    "title": "Crawl4AI",
+    "tagline": "LLM dostu açık kaynak web tarayıcı/kazıyıcı: web'i AI'ın işleyeceği temiz veriye çevirir.",
+    "meta": "★ 67.194 · Python · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-29"
   }
 ]
