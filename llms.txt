@@ -1,0 +1,27 @@
+# TreScout
+
+> TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir. Açık kaynak ve teknoloji trendlerini Türkçe takip etmek isteyenler için.
+
+Son güncelleme: 2026-06-03
+
+## Teknoloji Sözlüğü
+Yapay zekâ ve yazılım terimlerinin sade Türkçe açıklamaları. Her terim sayfasının ham Markdown sürümü URL sonuna `.md` eklenerek alınabilir (örn. https://trescout.com/dictionary/rag.md).
+
+- [Teknoloji Sözlüğü dizini](https://trescout.com/dictionary/)
+- [RAG nedir?](https://trescout.com/dictionary/rag/) (ham: https://trescout.com/dictionary/rag.md)
+- [Fine-tuning nedir?](https://trescout.com/dictionary/fine-tuning/)
+- [Embedding nedir?](https://trescout.com/dictionary/embedding/)
+- [MCP nedir?](https://trescout.com/dictionary/mcp/)
+
+## Keşif
+Her gün öne çıkan GitHub projelerinin Türkçe tanıtımları, kurulum ve "yapay zekâ ile nasıl kullanılır" rehberleriyle.
+
+- [Keşif dizini](https://trescout.com/discover/)
+
+## Raporlar
+Günlük teknoloji raporlarının arşivi (PDF).
+
+- [Raporlar](https://trescout.com/reports/)
+
+## İletişim
+hello@trescout.com
