@@ -319,5 +319,61 @@
     "meta": "★ 11.705 · Python · Lisans: yok",
     "source": "GitHub",
     "date": "2026-05-30"
+  },
+  {
+    "slug": "scrapling",
+    "title": "Scrapling",
+    "tagline": "Tekil istekten kapsamlı taramaya, uyarlanabilir web kazıma çerçevesi.",
+    "meta": "★ 57.333 · Python · BSD-3-Clause",
+    "source": "GitHub",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "hermes-webui",
+    "title": "Hermes WebUI",
+    "tagline": "Hermes AI ajanlarını tarayıcı veya mobilden yönetin.",
+    "meta": "★ 10.353 · Python · MIT",
+    "source": "GitHub",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "github-docs",
+    "title": "GitHub Docs",
+    "tagline": "GitHub'ın resmi dokümantasyonunun açık kaynak deposu (docs.github.com).",
+    "meta": "★ 19.817 · TypeScript · CC-BY-4.0",
+    "source": "GitHub",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "supermemory",
+    "title": "Supermemory",
+    "tagline": "AI çağı için ölçeklenebilir bellek motoru ve API.",
+    "meta": "★ 23.582 · TypeScript · MIT",
+    "source": "GitHub",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "babysitter",
+    "title": "Babysitter",
+    "tagline": "AI ajan iş gücünü hatasız yönetmek için deterministik denetim mekanizması.",
+    "meta": "★ 1.101 · JavaScript · MIT",
+    "source": "GitHub",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "pi-subagents",
+    "title": "Pi Subagents",
+    "tagline": "Pi platformunda asenkron alt-ajan delegasyonu için TypeScript kütüphanesi.",
+    "meta": "★ 1.951 · TypeScript · Lisans: yok",
+    "source": "GitHub",
+    "date": "2026-06-01"
+  },
+  {
+    "slug": "developer-portfolios",
+    "title": "Developer Portfolios",
+    "tagline": "Geliştirici portfolyo örnekleri koleksiyonu — kendi siten için ilham.",
+    "meta": "★ 23.623 · Koleksiyon · Lisans: yok",
+    "source": "GitHub",
+    "date": "2026-06-01"
   }
 ]
