@@ -39,7 +39,8 @@
       "Öğrenme",
       "Geliştirici aracı"
     ],
-    "stars": 20435
+    "stars": 20435,
+    "image": "/assets/discover/og/ai-engineering-from-scratch.webp"
   },
   {
     "slug": "knowledge-work-plugins",
@@ -53,7 +54,8 @@
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 16517
+    "stars": 16517,
+    "image": "/assets/discover/og/knowledge-work-plugins.webp"
   },
   {
     "slug": "anthropic-cybersecurity-skills",
@@ -66,7 +68,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 9924
+    "stars": 9924,
+    "image": "/assets/discover/og/anthropic-cybersecurity-skills.webp"
   },
   {
     "slug": "stop-slop",
@@ -108,7 +111,8 @@
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 166947
+    "stars": 166947,
+    "image": "/assets/discover/og/free-domain.webp"
   },
   {
     "slug": "jellyfin",
@@ -121,7 +125,8 @@
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 52316
+    "stars": 52316,
+    "image": "/assets/discover/og/jellyfin.webp"
   },
   {
     "slug": "awesome-free-apps",
@@ -134,7 +139,8 @@
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 5121
+    "stars": 5121,
+    "image": "/assets/discover/og/awesome-free-apps.webp"
   },
   {
     "slug": "twenty",
@@ -215,7 +221,8 @@
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 22018
+    "stars": 22018,
+    "image": "/assets/discover/og/heretic.webp"
   },
   {
     "slug": "kronos",
@@ -255,7 +262,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 209561
+    "stars": 209561,
+    "image": "/assets/discover/og/superpowers.webp"
   },
   {
     "slug": "english-level-up-tips",
@@ -268,7 +276,8 @@
       "Öğrenme",
       "Kod bilmeyenler için"
     ],
-    "stars": 46723
+    "stars": 46723,
+    "image": "/assets/discover/og/english-level-up-tips.webp"
   },
   {
     "slug": "iii",
@@ -280,7 +289,8 @@
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 16881
+    "stars": 16881,
+    "image": "/assets/discover/og/iii.webp"
   },
   {
     "slug": "airi",
@@ -293,7 +303,8 @@
       "AI ajan araçları",
       "Üretkenlik"
     ],
-    "stars": 40222
+    "stars": 40222,
+    "image": "/assets/discover/og/airi.webp"
   },
   {
     "slug": "markitdown",
@@ -306,7 +317,8 @@
     "tags": [
       "Geliştirici aracı",
       "Üretkenlik"
-    ]
+    ],
+    "image": "/assets/discover/og/markitdown.webp"
   },
   {
     "slug": "harness",
@@ -333,7 +345,8 @@
       "Öğrenme",
       "Geliştirici aracı"
     ],
-    "stars": 506894
+    "stars": 506894,
+    "image": "/assets/discover/og/build-your-own-x.webp"
   },
   {
     "slug": "crawl4ai",
@@ -346,7 +359,8 @@
       "Geliştirici aracı",
       "AI ajan araçları"
     ],
-    "stars": 67194
+    "stars": 67194,
+    "image": "/assets/discover/og/crawl4ai.webp"
   },
   {
     "slug": "moss-tts",
@@ -372,7 +386,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 17931
+    "stars": 17931,
+    "image": "/assets/discover/og/compound-engineering-plugin.webp"
   },
   {
     "slug": "anthropic-skills",
@@ -385,7 +400,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 143307
+    "stars": 143307,
+    "image": "/assets/discover/og/anthropic-skills.webp"
   },
   {
     "slug": "claude-code",
@@ -398,7 +414,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 128283
+    "stars": 128283,
+    "image": "/assets/discover/og/claude-code.webp"
   },
   {
     "slug": "cursor-plugins",
@@ -410,7 +427,8 @@
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 1403
+    "stars": 1403,
+    "image": "/assets/discover/og/cursor-plugins.webp"
   },
   {
     "slug": "voxcpm",
@@ -422,7 +440,8 @@
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 22648
+    "stars": 22648,
+    "image": "/assets/discover/og/voxcpm.webp"
   },
   {
     "slug": "stable-worldmodel",
@@ -434,7 +453,8 @@
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 1403
+    "stars": 1403,
+    "image": "/assets/discover/og/stable-worldmodel.webp"
   },
   {
     "slug": "project-nomad",
@@ -447,7 +467,8 @@
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 27228
+    "stars": 27228,
+    "image": "/assets/discover/og/project-nomad.webp"
   },
   {
     "slug": "liteparse",
@@ -459,7 +480,8 @@
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 7781
+    "stars": 7781,
+    "image": "/assets/discover/og/liteparse.webp"
   },
   {
     "slug": "flclash",
@@ -486,7 +508,8 @@
       "Öğrenme",
       "Geliştirici aracı"
     ],
-    "stars": 2086
+    "stars": 2086,
+    "image": "/assets/discover/og/train-llm-from-scratch.webp"
   },
   {
     "slug": "ruview",
@@ -512,7 +535,8 @@
       "Öğrenme",
       "Geliştirici aracı"
     ],
-    "stars": 41734
+    "stars": 41734,
+    "image": "/assets/discover/og/data-engineering-zoomcamp.webp"
   },
   {
     "slug": "social-auto-upload",
@@ -524,7 +548,8 @@
     "tags": [
       "Üretkenlik"
     ],
-    "stars": 11705
+    "stars": 11705,
+    "image": "/assets/discover/og/social-auto-upload.webp"
   },
   {
     "slug": "scrapling",
@@ -536,7 +561,8 @@
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 57333
+    "stars": 57333,
+    "image": "/assets/discover/og/scrapling.webp"
   },
   {
     "slug": "hermes-webui",
@@ -563,7 +589,8 @@
       "Geliştirici aracı",
       "Öğrenme"
     ],
-    "stars": 19817
+    "stars": 19817,
+    "image": "/assets/discover/og/github-docs.webp"
   },
   {
     "slug": "supermemory",
@@ -590,7 +617,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 1101
+    "stars": 1101,
+    "image": "/assets/discover/og/babysitter.webp"
   },
   {
     "slug": "pi-subagents",
@@ -603,7 +631,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 1951
+    "stars": 1951,
+    "image": "/assets/discover/og/pi-subagents.webp"
   },
   {
     "slug": "developer-portfolios",
@@ -616,6 +645,7 @@
       "Öğrenme",
       "Kod bilmeyenler için"
     ],
-    "stars": 23623
+    "stars": 23623,
+    "image": "/assets/discover/og/developer-portfolios.webp"
   }
 ]
