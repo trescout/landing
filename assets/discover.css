@@ -21,8 +21,9 @@
 
 .disc-title {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: clamp(44px, 9vw, 76px); line-height: 1.02;
+  font-size: clamp(40px, 9vw, 76px); line-height: 1.02;
   font-weight: 700; letter-spacing: -.02em; color: #fff;
+  overflow-wrap: break-word; hyphens: auto;
 }
 .disc-title .disc-accent { color: var(--accent); }
 .disc-lead { margin-top: 22px; font-size: 19px; line-height: 1.65; color: var(--ink); }
