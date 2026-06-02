@@ -1,0 +1,183 @@
+{
+  "date": "2026-06-02",
+  "editorial": "Bugünün teknoloji gündemini veri dönüştürme araçları (data conversion tools) ve otomasyon odaklı web arayüzleri domine ediyor. GitHub üzerindeki popülerlik verileri, geliştiricilerin özellikle dosya işleme ve içerik üretimi süreçlerini hızlandıran modüler kütüphanelere yöneldiğini gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Microsoft tarafından geliştirilen MarkItDown, çeşitli dosya formatlarını ve ofis belgelerini işaretleme dili (Markdown) biçimine dönüştüren bir Python aracıdır. Bu kütüphane, yapılandırılmamış verilerin büyük dil modelleri (large language models) için işlenebilir hale getirilmesini kolaylaştırır.",
+          "meta": "Python · ★ 139.674 · +3.034 bugün"
+        },
+        {
+          "title": "nesquena/hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "summary": "Hermes WebUI, Hermes Ajanı (Hermes Agent) için web veya mobil cihazlar üzerinden erişim sağlayan bir arayüz sunuyor. Python tabanlı bu araç, yapay zekâ ajanları ile etkileşimi tarayıcı üzerinden yönetmeyi kolaylaştırıyor.",
+          "meta": "Python · ★ 11.884 · +945 bugün"
+        },
+        {
+          "title": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "summary": "Supermemory, yapay zekâ çağı için ölçeklenebilir bir bellek motoru (memory engine) ve uygulama arayüzü sunuyor. TypeScript ile geliştirilen bu yapı, kullanıcı verilerini hızlı bir şekilde işleyerek yapay zekâ destekli sistemler için merkezi bir bellek katmanı oluşturuyor.",
+          "meta": "TypeScript · ★ 24.233 · +647 bugün"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo, büyük dil modellerini (large language models) kullanarak metin tabanlı içeriklerden otomatik olarak yüksek çözünürlüklü kısa videolar oluşturuyor. Python tabanlı bu araç, video üretim sürecini tek tıkla otomatize ederek içerik oluşturma iş akışlarını hızlandırıyor.",
+          "meta": "Python · ★ 77.381 · +3.375 bugün"
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling, tekil isteklerden kapsamlı tarama işlemlerine kadar tüm süreci yöneten uyarlanabilir bir web kazıma (web scraping) çatısıdır. Python tabanlı bu araç, veri toplama süreçlerini otomatize etmek için geliştirilmiştir.",
+          "meta": "Python · ★ 58.501 · +1.486 bugün"
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilmiş bir tasarım dili (design language) kütüphanesidir. Yazılım, üretken yapay zekâ (generative AI) araçlarının görsel tutarlılığını ve estetik kalitesini artırmak amacıyla standartlaştırılmış kurallar sunar.",
+          "meta": "JavaScript · ★ 33.104 · +485 bugün"
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "summary": "Heretic, dil modellerindeki sansür mekanizmalarını otomatik olarak kaldıran bir Python aracıdır. Yazılım, model ağırlıkları üzerinde doğrudan değişiklik yaparak kısıtlamaları devre dışı bırakmayı hedefler.",
+          "meta": "Python · ★ 23.165 · +249 bugün"
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "Claude Code, Codex ve Cursor gibi geliştirme araçlarıyla entegre çalışan Compound Engineering eklentisi, karmaşık yazılım sistemlerinin inşası için standartlaştırılmış bileşik mühendislik (compound engineering) süreçleri sunuyor. TypeScript tabanlı bu araç, yapay zekâ destekli kodlama ortamlarında iş akışı verimliliğini artırmayı hedefliyor.",
+          "meta": "TypeScript · ★ 19.232 · +417 bugün"
+        },
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TradingAgents, finansal piyasalarda işlem yapmak amacıyla geliştirilen çoklu ajanlı büyük dil modeli (multi-agent LLM) tabanlı bir çerçevedir. Python ile yazılan bu sistem, otonom ticaret ajanlarının finansal verileri analiz ederek strateji oluşturmasını ve karar verme süreçlerini yönetmesini sağlar.",
+          "meta": "Python · ★ 82.054 · +299 bugün"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness, alana özgü yapay zekâ ajan ekipleri tasarlayan ve bu ekiplerin ihtiyaç duyduğu uzmanlaşmış yetenekleri (skills) oluşturan bir meta-yetenek çerçevesidir. Sistem, karmaşık iş akışlarını yönetmek için özelleştirilmiş ajan yapıları ve görev tanımları geliştirilmesine olanak tanır.",
+          "meta": "HTML · ★ 5.330 · +524 bugün"
+        },
+        {
+          "title": "godotengine/godot",
+          "url": "https://github.com/godotengine/godot",
+          "summary": "Godot Motoru (Godot Engine), iki ve üç boyutlu oyun geliştirme süreçleri için kullanılan açık kaynaklı bir oyun motorudur. C++ diliyle geliştirilen bu platform, geliştiricilere farklı işletim sistemlerinde çalışabilen oyunlar üretme imkânı tanır.",
+          "meta": "C++ · ★ 111.819 · +77 bugün"
+        },
+        {
+          "title": "can1357/oh-my-pi",
+          "url": "https://github.com/can1357/oh-my-pi",
+          "summary": "Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding agent). Araç, dil sunucusu protokolü (LSP), tarayıcı entegrasyonu ve alt ajan yönetimi gibi özelliklerle yazılım geliştirme iş akışlarını optimize etmeyi hedefler.",
+          "meta": "TypeScript · ★ 9.701 · +335 bugün"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM, çok dilli konuşma üretimi, yaratıcı ses tasarımı ve gerçeğe yakın ses kopyalama (voice cloning) işlemleri için geliştirilen, simgeleyici içermeyen (tokenizer-free) bir metinden konuşmaya dönüştürme (TTS) modelidir. Sistem, geleneksel yöntemlerin aksine doğrudan ses dalga formları üzerinde çalışarak daha doğal ve esnek ses sentezi süreçleri sunar.",
+          "meta": "Python · ★ 24.592 · +888 bugün"
+        },
+        {
+          "title": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "summary": "Büyük dil modellerini (large language models) veri indirme aşamasından metin üretimine kadar sıfırdan eğitmeyi hedefleyen bu rehber, süreç için gerekli yöntemleri Jupyter Notebook formatında sunuyor. Teknik uygulama adımlarını basitleştiren çalışma, model geliştirme döngüsünü uçtan uca açıklıyor.",
+          "meta": "Jupyter Notebook · ★ 3.912 · +861 bugün"
+        },
+        {
+          "title": "stefan-jansen/machine-learning-for-trading",
+          "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+          "summary": "Stefan Jansen tarafından hazırlanan bu kaynak, algoritmik ticarette makine öğrenimi (machine learning) uygulamaları için kapsamlı kod örnekleri ve Jupyter not defterleri sunuyor. Finansal piyasalarda veri analizi ve tahmin modelleri geliştirmek isteyenler için pratik bir rehber niteliği taşıyor.",
+          "meta": "Jupyter Notebook · ★ 18.065 · +93 bugün"
+        },
+        {
+          "title": "dmtrKovalenko/fff",
+          "url": "https://github.com/dmtrKovalenko/fff",
+          "summary": "Rust ile geliştirilen fff, yapay zekâ ajanları ve metin düzenleyiciler için dosya arama işlemlerini yüksek hız ve doğrulukla gerçekleştiren bir araç takımıdır. C ve NodeJS desteğiyle farklı geliştirme ortamlarına entegre edilebilir bir yapı sunar.",
+          "meta": "Rust · ★ 7.319 · +135 bugün"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build-your-own-x, popüler yazılım teknolojilerini sıfırdan oluşturma rehberleri sunarak programlama becerilerini geliştirmeyi amaçlıyor. Kullanıcılar, veritabanı veya işletim sistemi gibi karmaşık sistemleri adım adım inşa ederek teknik altyapılarını güçlendiriyor.",
+          "meta": "Markdown · ★ 510.728 · +1.212 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "The newest Instagram “exploit” is the goofiest I've seen",
+          "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+          "summary": "Saldırganlar, Meta'nın hesap kurtarma sürecindeki yapay zekâ destekli kimlik doğrulama (identity verification) sistemini yanıltarak kullanıcı hesaplarını ele geçiriyor. Bu yöntem, sistemin yüz tanıma verilerini manipüle ederek hesap sahipliğini doğrulamak için kullanılan güvenlik protokollerini devre dışı bırakıyor.",
+          "meta": "1.721 oy · 389 yorum"
+        },
+        {
+          "title": "CS336: Language Modeling from Scratch",
+          "url": "https://cs336.stanford.edu/",
+          "summary": "Stanford Üniversitesi tarafından sunulan CS336 dersi, büyük dil modellerinin (large language models) temelden tasarlanması, eğitilmesi ve ölçeklendirilmesi süreçlerini teknik detaylarıyla ele alıyor. Müfredat, derin öğrenme (deep learning) altyapısı üzerinden modern yapay zekâ sistemlerinin mimari yapısını ve optimizasyon yöntemlerini inceliyor.",
+          "meta": "449 oy · 47 yorum"
+        },
+        {
+          "title": "AI Agent Guidelines for CS336 at Stanford",
+          "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+          "summary": "Stanford Üniversitesi CS336 dersi kapsamında yayımlanan yapay zekâ ajanı kılavuzu, otonom sistemlerin geliştirilmesi ve değerlendirilmesi için temel standartları tanımlıyor. Belge, yapay zekâ ajanları (AI agents) için tasarım ilkeleri, hata ayıklama (debugging) yöntemleri ve performans ölçüm süreçlerine dair teknik bir çerçeve sunuyor.",
+          "meta": "398 oy · 129 yorum"
+        },
+        {
+          "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+          "summary": "Anthropic, SpaceX ve OpenAI gibi yüksek sermaye gereksinimi duyan teknoloji şirketlerinin halka arz süreçleri, geleneksel borsa mekanizmalarının bu ölçekteki değerlemeleri karşılama kapasitesini tartışmaya açıyor. Yatırımcılar, bu devasa şirketlerin piyasa derinliği (market depth) üzerindeki etkilerini ve sermaye piyasalarının bu büyüklükteki arzları sindirme potansiyelini değerlendiriyor.",
+          "meta": "312 oy · 547 yorum"
+        },
+        {
+          "title": "Should you normalize RGB values by 255 or 256?",
+          "url": "https://30fps.net/pages/255-vs-256-division/",
+          "summary": "Dijital görüntü işlemede renk değerlerini normalleştirirken 255 veya 256 sayılarına bölme tercihi, renk uzayı doğruluğu ve hesaplama hassasiyeti açısından farklı sonuçlar doğuruyor. Bu seçim, özellikle görüntü verilerinin yeniden ölçeklendirilmesi (rescaling) sırasında oluşan yuvarlama hatalarını ve renk dağılımındaki sapmaları doğrudan etkiliyor.",
+          "meta": "253 oy · 104 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Nvidia tarafından geliştirilen LocateAnything-3B, görüntü ve metin girdilerini işleyerek nesne konumlandırma (object localization) görevlerini yerine getiren bir modeldir. Görsel içeriklerdeki ögeleri metin tabanlı komutlarla tanımlayıp koordinatlarını belirlemek için tasarlanmıştır.",
+          "meta": "♥ 850 · 61.604 indirme"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "OpenBMB tarafından geliştirilen MiniCPM5-1B, metin üretimi (text generation) görevleri için optimize edilmiş düşük parametreli bir dil modelidir. Küçük boyutuna rağmen verimli çıkarım (inference) performansı sunarak sınırlı donanım kaynaklarında çalışmaya olanak tanır.",
+          "meta": "♥ 699 · 57.683 indirme"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "summary": "LiquidAI tarafından yayınlanan LFM2.5-8B-A1B, metin üretimi (text generation) görevleri için optimize edilmiş bir yapay zekâ modelidir. Geleneksel mimarilerden farklı olarak sıvı sinir ağları (liquid neural networks) yapısını kullanan model, verimli hesaplama süreçleri vadediyor.",
+          "meta": "♥ 409 · 47.742 indirme"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "HuggingFace üzerinde paylaşılan Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir çok modlu (multimodal) yapay zekâ modelidir. Sansürsüz yapısı ve özelleştirilmiş parametreleriyle veri işleme süreçlerinde farklı bir yaklaşım sunmaktadır.",
+          "meta": "♥ 1.243 · 2.573.320 indirme"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Meituan tarafından geliştirilen LongCat-Video-Avatar-1.5, tek bir referans görselden yüksek doğrulukta video avatarları oluşturmayı sağlayan bir modeldir. Sistem, karakterin hareketlerini ve yüz ifadelerini video verisi üzerinden tutarlı bir şekilde sentezleyerek dijital insan (digital human) üretimi süreçlerini kolaylaştırır.",
+          "meta": "♥ 472 · 174 indirme"
+        }
+      ]
+    }
+  ]
+}
