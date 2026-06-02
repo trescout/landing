@@ -53,6 +53,20 @@
         <p class="disc-index-lead">TreScout'un her gün yakaladığı GitHub araçlarını burada Türkçe tanıtıyoruz: ne işe yarar, kimin için, ve <strong>AI ile (kod yazmadan) nasıl kullanılır.</strong></p>
       </div>
 
+      <div class="disc-controls">
+        <input id="disc-search" class="disc-search" type="search" placeholder="Ara: araç adı veya açıklama…" aria-label="Araçlarda ara">
+        <div class="disc-sortwrap">
+          <label for="disc-sort">Sırala</label>
+          <select id="disc-sort" class="disc-sort">
+            <option value="stars">En çok yıldız</option>
+            <option value="date">En yeni</option>
+            <option value="title">A–Z</option>
+          </select>
+        </div>
+      </div>
+      <div id="disc-tags" class="disc-tags" role="group" aria-label="Kategoriler"></div>
+      <p id="disc-count" class="disc-count"></p>
+
       <div id="discover-grid" class="disc-grid" aria-live="polite">
         <p class="disc-loading">Yükleniyor…</p>
       </div>

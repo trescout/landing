@@ -208,10 +208,44 @@
 .disc-card-tag { margin: 7px 0 0; font-size: 14.5px; line-height: 1.5; color: var(--ink-muted); }
 .disc-card-meta { display: block; margin-top: 12px; font-size: 12.5px; color: var(--brand-light); }
 
+/* keşif index · arama + filtre + sıralama */
+.disc-controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-top: 32px; }
+.disc-search {
+  flex: 1; min-width: 200px; font: inherit; font-size: 15px; color: var(--ink);
+  background: var(--bg-elevated); border: 1px solid rgba(95, 168, 211, .2);
+  border-radius: 10px; padding: 11px 14px;
+}
+.disc-search::placeholder { color: var(--ink-muted); }
+.disc-search:focus { outline: none; border-color: var(--brand-light); }
+.disc-sortwrap { display: flex; align-items: center; gap: 8px; font-size: 14px; color: var(--ink-muted); }
+.disc-sort {
+  font: inherit; font-size: 14px; color: var(--ink); background: var(--bg-elevated);
+  border: 1px solid rgba(95, 168, 211, .2); border-radius: 10px; padding: 9px 12px; cursor: pointer;
+}
+.disc-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+.disc-chip {
+  font: inherit; font-size: 13px; font-weight: 600; color: var(--ink-muted);
+  background: transparent; border: 1px solid rgba(95, 168, 211, .22);
+  padding: 6px 14px; border-radius: 999px; cursor: pointer; transition: color .15s, background .15s, border-color .15s;
+}
+.disc-chip:hover { color: var(--ink); border-color: var(--brand-light); }
+.disc-chip-active { color: #15202B; background: var(--accent); border-color: var(--accent); }
+.disc-count { margin-top: 16px; font-size: 13px; color: var(--ink-muted); }
+.disc-grid { margin-top: 20px; }
+
+/* kart üzerindeki kategori etiketleri */
+.disc-card-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.disc-card-tagchip {
+  font-size: 11px; color: var(--brand-light); background: rgba(95, 168, 211, .1);
+  border: 1px solid rgba(95, 168, 211, .18); padding: 2px 8px; border-radius: 999px;
+}
+
 @media (max-width: 560px) {
   .disc { padding: 30px 18px 44px; }
   .disc-lead { font-size: 17px; }
   .disc-wins li { font-size: 16px; }
   .disc-fact { flex-direction: column; gap: 4px; }
   .disc-fact-k { flex-basis: auto; }
+  .disc-controls { flex-direction: column; align-items: stretch; }
+  .disc-sortwrap { justify-content: space-between; }
 }
