@@ -2,7 +2,7 @@
   {
     "slug": "understand-anything",
     "title": "Understand Anything",
-    "tagline": "Kodu ya da dokümanı AI ile soru-cevap hâline getirin.",
+    "tagline": "Kodlarınızı veya dokümanlarınızı yapay zekâ ile etkileşimli hale getirin.",
     "meta": "★ 35.132 · TypeScript · MIT",
     "image": "/assets/discover/understand-anything.webp",
     "source": "GitHub",
@@ -17,7 +17,7 @@
   {
     "slug": "ecc",
     "title": "ECC",
-    "tagline": "Claude Code, Codex ve Cursor gibi AI ajanlarına beceri, hafıza ve güvenlik katmanı ekler.",
+    "tagline": "Claude Code, Codex ve Cursor gibi yapay zekâ ajanlarına beceri, hafıza ve güvenlik katmanı ekleyin.",
     "meta": "★ 194.032 · JavaScript · MIT",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -30,7 +30,7 @@
   {
     "slug": "ai-engineering-from-scratch",
     "title": "AI Engineering from Scratch",
-    "tagline": "Yapay zekâ mühendisliğini sıfırdan, elle kod yazarak öğreten 485 derslik ücretsiz kurs.",
+    "tagline": "Yapay zekâ mühendisliğini sıfırdan, uygulamalı kodlama ile öğreten 485 derslik ücretsiz kurs.",
     "meta": "★ 20.435 · Python · MIT",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -43,7 +43,7 @@
   {
     "slug": "knowledge-work-plugins",
     "title": "Knowledge Work Plugins",
-    "tagline": "Claude'u rolünüze özel uzmana çeviren açık kaynak eklentiler (Claude Cowork için).",
+    "tagline": "Claude'u alanında uzman bir asistana dönüştüren açık kaynaklı eklentiler.",
     "meta": "★ 16.517 · Python · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -57,7 +57,7 @@
   {
     "slug": "anthropic-cybersecurity-skills",
     "title": "Anthropic Cybersecurity Skills",
-    "tagline": "AI ajanlarına 754 hazır siber güvenlik becerisi. (Topluluk projesi · Anthropic resmi değil.)",
+    "tagline": "Yapay zekâ ajanları için 754 hazır siber güvenlik becerisi · Anthropic resmi değil.",
     "meta": "★ 9.924 · Python · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -70,7 +70,7 @@
   {
     "slug": "stop-slop",
     "title": "Stop Slop",
-    "tagline": "AI'ın yazıdaki tipik kalıplarını ('AI kokusu') temizleyen bir beceri.",
+    "tagline": "Yapay zekâ tarafından üretilen metinlerdeki yapay ifade kalıplarını temizleyen bir beceri.",
     "meta": "★ 4.876 · Claude Skill · MIT",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -84,7 +84,7 @@
   {
     "slug": "taste-skill",
     "title": "Taste Skill",
-    "tagline": "AI'ın ürettiği arayüzlere 'iyi tasarım zevki' kazandıran agent skill'i.",
+    "tagline": "Yapay zekânın tasarladığı arayüzlere profesyonel bir estetik dokunuş kazandıran beceri.",
     "meta": "★ 21.137 · Shell · MIT",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -97,7 +97,7 @@
   {
     "slug": "free-domain",
     "title": "FreeDomain",
-    "tagline": "Herkese ücretsiz alan adı (domain). Web kimliğinizi parasız kurun.",
+    "tagline": "Web kimliğinizi hiçbir ücret ödemeden kurabileceğiniz ücretsiz alan adları.",
     "meta": "★ 166.947 · HTML · AGPL-3.0",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -110,7 +110,7 @@
   {
     "slug": "jellyfin",
     "title": "Jellyfin",
-    "tagline": "Kendi medya sunucunuz: film, dizi, müziğinizi her cihaza yayınlayın. Ücretsiz, reklamsız.",
+    "tagline": "Film, dizi ve müzik koleksiyonunuzu tüm cihazlarınıza taşıyan ücretsiz medya sunucusu.",
     "meta": "★ 52.316 · C# · GPL-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -123,7 +123,7 @@
   {
     "slug": "awesome-free-apps",
     "title": "Awesome Free Apps",
-    "tagline": "PC ve mobil için seçilmiş en iyi ücretsiz uygulamalar listesi.",
+    "tagline": "Bilgisayar ve mobil cihazlar için özenle seçilmiş en iyi ücretsiz uygulamalar.",
     "meta": "★ 5.121 · Liste · Lisans: belirsiz",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -136,7 +136,7 @@
   {
     "slug": "twenty",
     "title": "Twenty",
-    "tagline": "Salesforce'a açık kaynak alternatif: AI odaklı, modern CRM.",
+    "tagline": "Salesforce'a açık kaynaklı, yapay zekâ odaklı ve modern bir alternatif.",
     "meta": "★ 46.735 · TypeScript · Lisans: özel",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -149,7 +149,7 @@
   {
     "slug": "openstock",
     "title": "OpenStock",
-    "tagline": "Pahalı borsa platformlarına açık kaynak alternatif: gerçek zamanlı fiyat takibi, uyarılar.",
+    "tagline": "Pahalı borsa platformlarına açık kaynaklı, gerçek zamanlı alternatif.",
     "meta": "★ 11.968 · TypeScript · AGPL-3.0",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -162,7 +162,7 @@
   {
     "slug": "claude-mem",
     "title": "claude-mem",
-    "tagline": "AI ajanınıza kalıcı hafıza: oturumlar arası bağlamı hatırlar. Tek komutla kurulur.",
+    "tagline": "AI ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
     "meta": "★ 78.506 · TypeScript · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26"
@@ -170,7 +170,7 @@
   {
     "slug": "ppf-contact-solver",
     "title": "PPF Contact Solver",
-    "tagline": "Fizik simülasyonları için temas çözücü (kumaş, katı, ip). ZOZO'nun fizik motoru.",
+    "tagline": "Fizik simülasyonları için temas çözücü: Kumaş, katı ve ip etkileşimlerinde ZOZO'nun fizik motoru.",
     "meta": "★ 3.389 · Python · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -182,7 +182,7 @@
   {
     "slug": "moneyprinterturbo",
     "title": "MoneyPrinterTurbo",
-    "tagline": "Bir konu yazın, AI tek tuşla altyazılı kısa video üretsin.",
+    "tagline": "Bir konu girin, AI tek tuşla altyazılı kısa videolar üretsin.",
     "meta": "★ 62.104 · Python · MIT",
     "source": "GitHub",
     "date": "2026-05-28",
@@ -195,7 +195,7 @@
   {
     "slug": "heretic",
     "title": "Heretic",
-    "tagline": "Dil modellerindeki güvenlik kısıtlarını kaldıran ileri düzey araç. (Etik/sorumluluk notu var.)",
+    "tagline": "Dil modellerindeki güvenlik kısıtlarını kaldıran ileri düzey araç.",
     "meta": "★ 22.018 · Python · AGPL-3.0",
     "source": "GitHub",
     "date": "2026-05-28",
@@ -207,7 +207,7 @@
   {
     "slug": "kronos",
     "title": "Kronos",
-    "tagline": "Finansal piyasaların 'dilini' çözmek için açık kaynak temel model.",
+    "tagline": "Finansal piyasaların dilini çözmek için geliştirilmiş açık kaynak temel model.",
     "meta": "★ 26.888 · Python · MIT",
     "source": "GitHub",
     "date": "2026-05-28",
@@ -219,7 +219,7 @@
   {
     "slug": "claude-code-harness",
     "title": "Claude Code Harness",
-    "tagline": "Claude Code için disiplinli Planla → Yap → Gözden Geçir döngüsü.",
+    "tagline": "Claude Code için disiplinli bir 'Planla, Yap, Gözden Geçir' döngüsü.",
     "meta": "★ 1.838 · Shell · MIT",
     "source": "GitHub",
     "date": "2026-05-28",
@@ -232,7 +232,7 @@
   {
     "slug": "superpowers",
     "title": "Superpowers",
-    "tagline": "Kodlama ajanlarına bileşik beceriler + yazılım geliştirme metodolojisi.",
+    "tagline": "Kodlama ajanları için bileşik beceriler ve yazılım geliştirme metodolojisi.",
     "meta": "★ 209.561 · Shell · MIT",
     "source": "GitHub",
     "date": "2026-05-28",
@@ -245,7 +245,7 @@
   {
     "slug": "english-level-up-tips",
     "title": "English Level Up Tips",
-    "tagline": "İleri seviye İngilizce için kapsamlı, sıra dışı bir öğrenme rehberi.",
+    "tagline": "İleri seviye İngilizce için kapsamlı ve sıra dışı bir öğrenme rehberi.",
     "meta": "★ 46.723 · Rehber · Lisans: yok",
     "source": "GitHub",
     "date": "2026-05-28",
@@ -258,7 +258,7 @@
   {
     "slug": "iii",
     "title": "iii",
-    "tagline": "Tüm servislerini gerçek zamanlı kur, genişlet ve gözlemle (kuyruk, cron, HTTP, state…).",
+    "tagline": "Tüm servislerinizi gerçek zamanlı kurun, genişletin ve gözlemleyin.",
     "meta": "★ 16.881 · Rust · Lisans: yok",
     "source": "GitHub",
     "date": "2026-05-28",
@@ -270,7 +270,7 @@
   {
     "slug": "airi",
     "title": "AIRI",
-    "tagline": "Kendi sunucunda barınan AI sanal karakteri: sesli sohbet, oyun oynama.",
+    "tagline": "Kendi sunucunuzda barınan, sesli sohbet edebilen ve oyun oynayabilen AI karakteri.",
     "meta": "★ 40.222 · TypeScript · MIT",
     "source": "GitHub",
     "date": "2026-05-28",
@@ -283,7 +283,7 @@
   {
     "slug": "markitdown",
     "title": "MarkItDown",
-    "tagline": "Word, PDF, Excel, PowerPoint… her belgeyi AI'ın okuyacağı temiz Markdown'a çevirir. (Microsoft)",
+    "tagline": "Word, PDF, Excel ve PowerPoint belgelerini AI dostu Markdown formatına çevirir · Microsoft.",
     "meta": "★ 128.420 · Python · MIT",
     "source": "GitHub",
     "date": "2026-05-29"
@@ -304,7 +304,7 @@
   {
     "slug": "build-your-own-x",
     "title": "Build Your Own X",
-    "tagline": "Sevdiğin teknolojileri sıfırdan inşa ederek öğren: veritabanı, OS, Git, Docker…",
+    "tagline": "Veritabanı, işletim sistemi, Git ve Docker gibi teknolojileri sıfırdan inşa ederek öğrenin.",
     "meta": "★ 506.894 · Rehber · Lisans: yok",
     "source": "GitHub",
     "date": "2026-05-29",
@@ -317,7 +317,7 @@
   {
     "slug": "crawl4ai",
     "title": "Crawl4AI",
-    "tagline": "LLM dostu açık kaynak web tarayıcı/kazıyıcı: web'i AI'ın işleyeceği temiz veriye çevirir.",
+    "tagline": "LLM dostu açık kaynak web tarayıcı: web verisini yapay zekâ için temiz bilgiye dönüştürün.",
     "meta": "★ 67.194 · Python · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-29",
@@ -330,7 +330,7 @@
   {
     "slug": "moss-tts",
     "title": "MOSS-TTS",
-    "tagline": "Yüksek kaliteli açık kaynak metin-konuşma (TTS) model ailesi.",
+    "tagline": "Yüksek kaliteli ve açık kaynaklı metin-konuşma (TTS) model ailesi.",
     "meta": "★ 2.440 · Python · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-29",
@@ -342,7 +342,7 @@
   {
     "slug": "compound-engineering-plugin",
     "title": "Compound Engineering",
-    "tagline": "Her iş biriminin bir sonrakini kolaylaştırdığı AI mühendislik eklentisi (Claude Code/Codex/Cursor).",
+    "tagline": "Her işin bir sonrakini kolaylaştırdığı, AI destekli mühendislik eklentisi (Claude Code/Codex/Cursor).",
     "meta": "★ 17.931 · TypeScript · MIT",
     "source": "GitHub",
     "date": "2026-05-29",
@@ -355,7 +355,7 @@
   {
     "slug": "anthropic-skills",
     "title": "Anthropic Skills",
-    "tagline": "Anthropic'in resmi Agent Skills deposu: Claude'un dinamik yüklediği beceri paketleri.",
+    "tagline": "Anthropic'in resmi Agent Skills deposu: Claude'un dinamik olarak yüklediği beceri paketleri.",
     "meta": "★ 143.307 · Python · Lisans: kontrol et",
     "source": "GitHub",
     "date": "2026-05-29",
@@ -368,7 +368,7 @@
   {
     "slug": "claude-code",
     "title": "Claude Code",
-    "tagline": "Terminalde yaşayan, kod tabanınızı anlayan AI ajan kodlama aracı. (Anthropic ürünü)",
+    "tagline": "Terminalde çalışan ve kod tabanınızı anlayan AI ajan kodlama aracı (Anthropic ürünü).",
     "meta": "★ 128.283 · Anthropic ürünü · Açık kaynak değil",
     "source": "GitHub",
     "date": "2026-05-30",
@@ -381,7 +381,7 @@
   {
     "slug": "cursor-plugins",
     "title": "Cursor Plugins",
-    "tagline": "Cursor için resmi eklenti spesifikasyonu ve hazır eklentiler.",
+    "tagline": "Cursor kod editörü için resmi eklenti spesifikasyonu ve hazır eklentiler.",
     "meta": "★ 1.403 · TypeScript · Lisans: kontrol et",
     "source": "GitHub",
     "date": "2026-05-30",
@@ -393,7 +393,7 @@
   {
     "slug": "voxcpm",
     "title": "VoxCPM",
-    "tagline": "Belirteçsiz (tokenizer-free) çok dilli TTS: ses tasarımı ve ses kopyalama.",
+    "tagline": "Belirteçsiz (tokenizer-free) çok dilli TTS: ses tasarımı ve ses kopyalama çözümü.",
     "meta": "★ 22.648 · Python · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-30",
@@ -405,7 +405,7 @@
   {
     "slug": "stable-worldmodel",
     "title": "stable-worldmodel",
-    "tagline": "Dünya modeli (world model) araştırması için tekrarlanabilir platform.",
+    "tagline": "Dünya modeli (world model) araştırmaları için tekrarlanabilir bir platform.",
     "meta": "★ 1.403 · Python · Lisans: kontrol et",
     "source": "GitHub",
     "date": "2026-05-30",
@@ -417,7 +417,7 @@
   {
     "slug": "project-nomad",
     "title": "Project N.O.M.A.D",
-    "tagline": "İnternetsiz çalışan, kritik araç ve bilgi dolu çevrimdışı 'hayatta kalma bilgisayarı'.",
+    "tagline": "İnternetsiz çalışan, kritik araçlar ve bilgiyle donatılmış çevrimdışı hayatta kalma bilgisayarı.",
     "meta": "★ 27.228 · TypeScript · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-30",
@@ -430,7 +430,7 @@
   {
     "slug": "liteparse",
     "title": "Liteparse",
-    "tagline": "Hızlı, açık kaynak belge ayrıştırıcı (document parser). Rust ile.",
+    "tagline": "Rust ile geliştirilmiş hızlı ve açık kaynak belge ayrıştırıcı (document parser).",
     "meta": "★ 7.781 · Rust · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-30",
@@ -442,7 +442,7 @@
   {
     "slug": "flclash",
     "title": "FlClash",
-    "tagline": "ClashMeta tabanlı, çok platformlu, reklamsız açık kaynak proxy istemcisi.",
+    "tagline": "ClashMeta tabanlı, çok platformlu, reklamsız ve açık kaynak proxy istemcisi.",
     "meta": "★ 40.313 · Dart · GPL-3.0",
     "source": "GitHub",
     "date": "2026-05-30",
@@ -455,7 +455,7 @@
   {
     "slug": "train-llm-from-scratch",
     "title": "Train LLM from Scratch",
-    "tagline": "Veri indirmeden metin üretimine: bir LLM'i sıfırdan eğitmenin sade rehberi.",
+    "tagline": "Veri setinden metin üretimine, bir LLM'i sıfırdan eğitmek için kapsamlı rehber.",
     "meta": "★ 2.086 · Jupyter Notebook · MIT",
     "source": "GitHub",
     "date": "2026-05-30",
@@ -468,7 +468,7 @@
   {
     "slug": "ruview",
     "title": "RuView",
-    "tagline": "Sıradan WiFi sinyallerini gerçek zamanlı mekânsal zekâya çevirir (kamera olmadan).",
+    "tagline": "Sıradan WiFi sinyallerini kamera olmadan gerçek zamanlı mekânsal zekâya dönüştürün.",
     "meta": "★ 68.643 · Rust · MIT",
     "source": "GitHub",
     "date": "2026-05-30",
@@ -480,7 +480,7 @@
   {
     "slug": "data-engineering-zoomcamp",
     "title": "Data Engineering Zoomcamp",
-    "tagline": "Üretime hazır veri hatları kurmayı öğreten 9 haftalık ücretsiz kurs.",
+    "tagline": "Üretime hazır veri hatları kurmayı öğreten 9 haftalık ücretsiz eğitim programı.",
     "meta": "★ 41.734 · Kurs · Lisans: kontrol et",
     "source": "GitHub",
     "date": "2026-05-30",
@@ -493,7 +493,7 @@
   {
     "slug": "social-auto-upload",
     "title": "social-auto-upload",
-    "tagline": "Videoları TikTok, YouTube, Bilibili gibi platformlara otomatik yükler.",
+    "tagline": "Videolarınızı TikTok, YouTube ve Bilibili gibi platformlara otomatik olarak yükleyin.",
     "meta": "★ 11.705 · Python · Lisans: yok",
     "source": "GitHub",
     "date": "2026-05-30",
@@ -505,7 +505,7 @@
   {
     "slug": "scrapling",
     "title": "Scrapling",
-    "tagline": "Tekil istekten kapsamlı taramaya, uyarlanabilir web kazıma çerçevesi.",
+    "tagline": "Tekil isteklerden kapsamlı taramalara kadar uyarlanabilir web kazıma çerçevesi.",
     "meta": "★ 57.333 · Python · BSD-3-Clause",
     "source": "GitHub",
     "date": "2026-06-01",
@@ -517,7 +517,7 @@
   {
     "slug": "hermes-webui",
     "title": "Hermes WebUI",
-    "tagline": "Hermes AI ajanlarını tarayıcı veya mobilden yönetin.",
+    "tagline": "Hermes AI ajanlarınızı web tarayıcısı veya mobil cihazınızdan kolayca yönetin.",
     "meta": "★ 10.353 · Python · MIT",
     "source": "GitHub",
     "date": "2026-06-01",
@@ -530,7 +530,7 @@
   {
     "slug": "github-docs",
     "title": "GitHub Docs",
-    "tagline": "GitHub'ın resmi dokümantasyonunun açık kaynak deposu (docs.github.com).",
+    "tagline": "GitHub'ın resmi dokümantasyonuna ait açık kaynak deposu.",
     "meta": "★ 19.817 · TypeScript · CC-BY-4.0",
     "source": "GitHub",
     "date": "2026-06-01",
@@ -543,7 +543,7 @@
   {
     "slug": "supermemory",
     "title": "Supermemory",
-    "tagline": "AI çağı için ölçeklenebilir bellek motoru ve API.",
+    "tagline": "Yapay zekâ çağı için tasarlanmış ölçeklenebilir bellek motoru ve API.",
     "meta": "★ 23.582 · TypeScript · MIT",
     "source": "GitHub",
     "date": "2026-06-01",
@@ -582,7 +582,7 @@
   {
     "slug": "developer-portfolios",
     "title": "Developer Portfolios",
-    "tagline": "Geliştirici portfolyo örnekleri koleksiyonu — kendi siten için ilham.",
+    "tagline": "Kendi siteniz için ilham alabileceğiniz geliştirici portfolyo örnekleri koleksiyonu.",
     "meta": "★ 23.623 · Koleksiyon · Lisans: yok",
     "source": "GitHub",
     "date": "2026-06-01",
