@@ -1,24 +1,31 @@
 /* TreScout · /discover · keşif entry'leri · site.css (iskelet + token) üzerine biner.
- * Medium tarzı okunabilir makale düzeni · tüm entry'ler bunu paylaşır. */
+ * Insta-carousel enerjisi: vurucu hook, taranabilir, "kaydet" tetikleyici · dürüstlük korunur. */
 
-.disc { max-width: 760px; margin: 0 auto; padding: 48px 24px 64px; }
+.disc { max-width: 720px; margin: 0 auto; padding: 44px 24px 64px; }
 
 .disc-back {
   display: inline-block; font-size: 14px; color: var(--ink-muted);
-  margin-bottom: 26px; transition: color .15s;
+  margin-bottom: 22px; transition: color .15s;
 }
 .disc-back:hover { color: var(--accent); }
 
+.disc-top { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 16px; }
 .disc-eyebrow {
   font-size: 12px; letter-spacing: .22em; text-transform: uppercase;
-  color: var(--accent); font-weight: 700; margin-bottom: 12px;
+  color: var(--accent); font-weight: 700;
 }
+.disc-momentum {
+  font-size: 12.5px; font-weight: 700; color: #15202B;
+  background: var(--accent); padding: 4px 12px; border-radius: 999px; white-space: nowrap;
+}
+
 .disc-title {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: clamp(34px, 6vw, 52px); line-height: 1.08;
-  font-weight: 700; letter-spacing: -.015em; color: #fff;
+  font-size: clamp(44px, 9vw, 76px); line-height: 1.02;
+  font-weight: 700; letter-spacing: -.02em; color: #fff;
 }
-.disc-lead { margin-top: 18px; font-size: 19px; line-height: 1.7; color: var(--ink); }
+.disc-title .disc-accent { color: var(--accent); }
+.disc-lead { margin-top: 22px; font-size: 19px; line-height: 1.65; color: var(--ink); }
 .disc-lead strong { color: #fff; }
 
 .disc-meta {
@@ -31,33 +38,44 @@
   padding: 4px 11px; border-radius: 999px; white-space: nowrap;
 }
 
-.disc-sec { margin-top: 40px; }
+.disc-sec { margin-top: 44px; }
 .disc-sec h2 {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: 24px; font-weight: 700; color: #fff; margin-bottom: 14px;
-}
-.disc-sec h3 {
-  font-size: 15px; font-weight: 700; color: var(--brand-light);
-  letter-spacing: .02em; margin: 22px 0 8px;
+  font-size: 26px; font-weight: 700; color: #fff; margin-bottom: 16px;
 }
 .disc-sec p { font-size: 16.5px; line-height: 1.75; color: var(--ink-muted); margin-bottom: 14px; }
-.disc-sec p strong, .disc-list strong, .disc-steps strong { color: var(--ink); }
+.disc-sec p strong { color: var(--ink); }
 .disc-sec a { color: var(--accent); font-weight: 500; }
 .disc-sec a:hover { text-decoration: underline; }
 
-.disc-list, .disc-steps { margin: 0 0 14px; padding-left: 22px; }
-.disc-list li, .disc-steps li { font-size: 16px; line-height: 1.7; color: var(--ink-muted); margin-bottom: 10px; }
-.disc-steps li { margin-bottom: 12px; }
-
-/* istemler */
-.disc-prompts-intro { font-weight: 600; color: var(--ink); margin-top: 18px !important; }
-.disc-prompts { list-style: none; padding: 0; margin: 8px 0 0; }
-.disc-prompts li {
-  font-family: 'SF Mono', ui-monospace, Menlo, Consolas, monospace;
-  font-size: 14px; line-height: 1.5; color: var(--ink);
-  background: var(--bg-elevated); border: 1px solid rgba(95, 168, 211, .14);
-  border-radius: 8px; padding: 10px 14px; margin-bottom: 8px;
+/* ✓ kazanım listesi · taranabilir, vurucu */
+.disc-wins { list-style: none; padding: 0; margin: 0; }
+.disc-wins li {
+  position: relative; padding-left: 34px; margin-bottom: 14px;
+  font-size: 17px; line-height: 1.6; color: var(--ink-muted);
 }
+.disc-wins li::before {
+  content: '✓'; position: absolute; left: 0; top: -1px;
+  width: 23px; height: 23px; line-height: 23px; text-align: center;
+  font-size: 13px; font-weight: 700; color: #15202B;
+  background: var(--accent); border-radius: 7px;
+}
+.disc-wins strong { color: var(--ink); }
+
+/* istem kartları · sayfanın "havalı" görseli */
+.disc-prompts { list-style: none; padding: 0; margin: 0; }
+.disc-prompts li {
+  position: relative; padding: 13px 16px 13px 38px; margin-bottom: 10px;
+  font-family: 'SF Mono', ui-monospace, Menlo, Consolas, monospace;
+  font-size: 14.5px; line-height: 1.5; color: var(--ink);
+  background: var(--bg-elevated); border: 1px solid rgba(95, 168, 211, .16);
+  border-radius: 10px;
+}
+.disc-prompts li::before {
+  content: '›'; position: absolute; left: 16px; top: 12px;
+  color: var(--accent); font-weight: 700;
+}
+.disc-prompts-note { font-size: 14px; color: var(--ink-muted); opacity: .85; margin-top: 6px; }
 
 /* dürüstlük notu */
 .disc-note {
@@ -66,7 +84,15 @@
   border-left: 3px solid var(--accent); border-radius: 0 10px 10px 0;
 }
 .disc-note strong { color: var(--ink); }
-.disc-note a { color: var(--accent); }
+
+/* "kaydet" callout'u · göz çeken, FOMO */
+.disc-save {
+  margin-top: 40px; padding: 22px 24px; font-size: 17px; line-height: 1.6;
+  color: var(--ink); text-align: center;
+  background: linear-gradient(135deg, rgba(244, 211, 94, .14), rgba(95, 168, 211, .08));
+  border: 1px solid rgba(244, 211, 94, .3); border-radius: 16px;
+}
+.disc-save strong { color: #fff; }
 
 /* bağlantılar */
 .disc-links { list-style: none; padding: 0; margin: 0; }
@@ -74,7 +100,7 @@
 .disc-links a { color: var(--accent); font-weight: 600; font-size: 16px; }
 .disc-links a:hover { text-decoration: underline; }
 
-/* CTA */
+/* TreScout CTA */
 .disc-cta {
   margin-top: 48px; padding: 28px; text-align: center;
   background: var(--bg-elevated); border: 1px solid rgba(244, 211, 94, .22); border-radius: 16px;
@@ -86,6 +112,7 @@
 .disc-disclaimer { margin-top: 28px; font-size: 13px; line-height: 1.6; color: var(--ink-muted); opacity: .8; }
 
 @media (max-width: 560px) {
-  .disc { padding: 32px 18px 44px; }
+  .disc { padding: 30px 18px 44px; }
   .disc-lead { font-size: 17px; }
+  .disc-wins li { font-size: 16px; }
 }
