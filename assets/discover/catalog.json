@@ -241,7 +241,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 1838
+    "stars": 1838,
+    "image": "/assets/discover/claude-code-harness.webp"
   },
   {
     "slug": "superpowers",
@@ -318,7 +319,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4063
+    "stars": 4063,
+    "image": "/assets/discover/harness.webp"
   },
   {
     "slug": "build-your-own-x",
@@ -496,7 +498,8 @@
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 68643
+    "stars": 68643,
+    "image": "/assets/discover/ruview.webp"
   },
   {
     "slug": "data-engineering-zoomcamp",
