@@ -207,5 +207,29 @@
     "meta": "★ 67.194 · Python · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-29"
+  },
+  {
+    "slug": "moss-tts",
+    "title": "MOSS-TTS",
+    "tagline": "Yüksek kaliteli açık kaynak metin-konuşma (TTS) model ailesi.",
+    "meta": "★ 2.440 · Python · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "compound-engineering-plugin",
+    "title": "Compound Engineering",
+    "tagline": "Her iş biriminin bir sonrakini kolaylaştırdığı AI mühendislik eklentisi (Claude Code/Codex/Cursor).",
+    "meta": "★ 17.931 · TypeScript · MIT",
+    "source": "GitHub",
+    "date": "2026-05-29"
+  },
+  {
+    "slug": "anthropic-skills",
+    "title": "Anthropic Skills",
+    "tagline": "Anthropic'in resmi Agent Skills deposu: Claude'un dinamik yüklediği beceri paketleri.",
+    "meta": "★ 143.307 · Python · Lisans: kontrol et",
+    "source": "GitHub",
+    "date": "2026-05-29"
   }
 ]
