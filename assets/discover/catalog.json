@@ -165,7 +165,12 @@
     "tagline": "AI ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
     "meta": "★ 78.506 · TypeScript · Apache-2.0",
     "source": "GitHub",
-    "date": "2026-05-26"
+    "date": "2026-05-26",
+    "stars": 78506,
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ]
   },
   {
     "slug": "ppf-contact-solver",
@@ -286,7 +291,12 @@
     "tagline": "Word, PDF, Excel ve PowerPoint belgelerini AI dostu Markdown formatına çevirir · Microsoft.",
     "meta": "★ 128.420 · Python · MIT",
     "source": "GitHub",
-    "date": "2026-05-29"
+    "date": "2026-05-29",
+    "stars": 128420,
+    "tags": [
+      "Geliştirici aracı",
+      "Üretkenlik"
+    ]
   },
   {
     "slug": "harness",
