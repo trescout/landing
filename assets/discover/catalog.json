@@ -23,5 +23,37 @@
     "meta": "★ 20.435 · Python · MIT",
     "source": "GitHub",
     "date": "2026-05-26"
+  },
+  {
+    "slug": "knowledge-work-plugins",
+    "title": "Knowledge Work Plugins",
+    "tagline": "Claude'u rolünüze özel uzmana çeviren açık kaynak eklentiler (Claude Cowork için).",
+    "meta": "★ 16.517 · Python · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-26"
+  },
+  {
+    "slug": "anthropic-cybersecurity-skills",
+    "title": "Anthropic Cybersecurity Skills",
+    "tagline": "AI ajanlarına 754 hazır siber güvenlik becerisi. (Topluluk projesi · Anthropic resmi değil.)",
+    "meta": "★ 9.924 · Python · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-26"
+  },
+  {
+    "slug": "stop-slop",
+    "title": "Stop Slop",
+    "tagline": "AI'ın yazıdaki tipik kalıplarını ('AI kokusu') temizleyen bir beceri.",
+    "meta": "★ 4.876 · Claude Skill · MIT",
+    "source": "GitHub",
+    "date": "2026-05-26"
+  },
+  {
+    "slug": "taste-skill",
+    "title": "Taste Skill",
+    "tagline": "AI'ın ürettiği arayüzlere 'iyi tasarım zevki' kazandıran agent skill'i.",
+    "meta": "★ 21.137 · Shell · MIT",
+    "source": "GitHub",
+    "date": "2026-05-26"
   }
 ]
