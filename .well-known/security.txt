@@ -1,0 +1,7 @@
+# TreScout · security.txt (RFC 9116)
+# Bir güvenlik açığı tespit ederseniz lütfen bize bildirin · sorumlu açıklamaya açığız.
+
+Contact: mailto:hello@trescout.com
+Expires: 2027-06-02T00:00:00.000Z
+Preferred-Languages: tr, en
+Canonical: https://trescout.com/.well-known/security.txt
