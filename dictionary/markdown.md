@@ -6,19 +6,32 @@
 Metinleri biçimlendirmek için kullanılan, basit işaretlerle yazı yazmayı sağlayan hafif bir biçimlendirme dili.
 
 ## Tanım
-Metinleri biçimlendirmek için kullanılan, basit işaretlerle yazı yazmayı sağlayan hafif bir biçimlendirme dili. Karmaşık kodlara ihtiyaç duymadan belgelerin hızlıca düzenlenmesine ve okunabilir kalmasına olanak tanır.
+Markdown, karmaşık kodlar yazmadan metinleri biçimlendirmeye yarayan hafif ve basit bir işaretleme dilidir. Yazı yazarken başlıklar, listeler veya kalın harfler gibi düzenlemeleri birkaç basit karakterle yapmanıza olanak tanır.
+
+## Bir benzetmeyle
+Şöyle düşünün: Bir metin editöründe menülerle uğraşmak yerine, kağıt üzerine kalemle not alır gibi hızlıca biçimlendirme yapmak gibidir.
 
 ## Nasıl çalışır?
-Metin içerisine yerleştirilen özel karakterler, yazılım tarafından otomatik olarak başlık, kalın yazı veya liste gibi görsel öğelere dönüştürülür.
+Metin içerisine yıldız veya diyez işareti gibi karakterler eklenir. Örneğin bir kelimenin başına ve sonuna yıldız koyduğunuzda sistem bunu otomatik olarak italik yazıya dönüştürür.
 
-## Örnek
-Teknik dokümantasyon hazırlarken başlıkları belirlemek için metnin başına diyez işareti ekleyerek Markdown formatını kullanabilirsiniz.
+## Nerede kullanılır?
+Yazılımcıların dokümantasyon yazarken, not alma uygulamalarında veya web sitelerinde içerik oluştururken en çok tercih ettiği yöntemdir.
+
+## Sık karıştırılanlar
+HTML ile karıştırılır ancak HTML çok daha karmaşık ve detaylıyken, Markdown sadece okunabilirliği artırmak için tasarlanmıştır.
+
+## Sıkça sorulanlar
+
+**Neden Word yerine Markdown kullanmalıyım?**  
+Markdown çok daha hızlıdır, dikkatinizi dağıtmaz ve her türlü platformda kolayca görüntülenebilir.
+
+**Markdown dosyalarını nasıl açarım?**  
+Herhangi bir metin editörüyle açabilirsiniz, ancak özel görüntüleyicilerle biçimlendirilmiş halini daha rahat okuyabilirsiniz.
 
 ## İlgili terimler
+- [Document Parsing](/dictionary/document-parsing/)
 - [API](/dictionary/api/)
 - [CLI](/dictionary/cli/)
-- [Data Pipeline](/dictionary/data-pipeline/)
-- [Document Parsing](/dictionary/document-parsing/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/markdown/

@@ -22,6 +22,20 @@
 }
 .dict-related a:hover { color: #15202B; background: var(--accent); border-color: var(--accent); }
 
+/* ders-gibi parçalar · analoji callout + SSS */
+.dict-analogy {
+  margin: 18px 0; padding: 16px 18px; border-radius: 0 12px 12px 0;
+  background: rgba(95, 168, 211, .08); border-left: 4px solid var(--brand-light);
+  font-size: 16.5px; line-height: 1.65; color: var(--ink);
+}
+.dict-faq { display: flex; flex-direction: column; gap: 14px; }
+.dict-faq-item {
+  padding: 14px 16px; background: var(--bg-elevated);
+  border: 1px solid rgba(95, 168, 211, .14); border-radius: 12px;
+}
+.dict-faq-q { margin: 0 0 6px; font-size: 16px; font-weight: 700; color: #fff; line-height: 1.4; }
+.dict-faq-a { margin: 0; font-size: 15.5px; line-height: 1.65; color: var(--ink-muted); }
+
 /* ── Sözlük index ── */
 .dict-index-hero { max-width: 760px; margin: 0 auto; padding: 48px 0 8px; text-align: center; }
 .dict-index-hero .disc-eyebrow { display: block; margin-bottom: 12px; }

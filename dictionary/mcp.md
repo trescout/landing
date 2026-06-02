@@ -8,18 +8,32 @@
 Yapay zeka modellerinin dış dünyadaki verilerle güvenli şekilde konuşmasını sağlayan standarttır.
 
 ## Tanım
-Model Context Protocol, yapay zeka sistemlerinin farklı veri kaynaklarına ve araçlara bağlanması için geliştirilmiş ortak bir dildir. Bu protokol sayesinde modeller, karmaşık kurulumlara gerek kalmadan dış sistemlerle etkileşime girer. Veri paylaşımını standartlaştırarak geliştirme süreçlerini kolaylaştırır.
+Model Context Protocol (MCP), yapay zeka modellerinin dış dünyadaki verilerle ve yazılımlarla güvenli bir şekilde konuşmasını sağlayan evrensel bir köprüdür. Farklı uygulamaların yapay zeka ile aynı dili konuşmasını sağlar.
+
+## Bir benzetmeyle
+Şöyle düşünün: Bir priz standardı gibidir; her cihazın aynı fişle çalışması gibi, farklı veri kaynaklarının da yapay zekaya kolayca bağlanmasını sağlar.
 
 ## Nasıl çalışır?
-Farklı uygulamalar bu protokolü kullanarak yapay zeka modellerine veri sağlar veya modellerin bu veriler üzerinde işlem yapmasına izin verir.
+Geliştiriciler MCP sayesinde yapay zekayı veritabanlarına veya dosya sistemlerine güvenli bir şekilde bağlar. Model, bu protokol üzerinden ihtiyaç duyduğu veriyi çeker.
 
-## Örnek
-Bir yapay zeka asistanı, MCP sayesinde şirketinizin özel veritabanına güvenli bir şekilde bağlanıp güncel raporları okuyabilir.
+## Nerede kullanılır?
+Şirket içi özel belgelerin yapay zeka tarafından okunması veya canlı veritabanlarından rapor alınması gereken durumlarda kullanılır.
+
+## Sık karıştırılanlar
+API ile karıştırılır; API bir kapıyken, MCP bu kapıdan geçen verinin standart bir dilde konuşulmasını sağlayan bir kural setidir.
+
+## Sıkça sorulanlar
+
+**MCP neden gereklidir?**  
+Her uygulama için ayrı bağlantı kurmak yerine standart bir yol izleyerek güvenliği ve verimliliği artırır.
+
+**MCP açık kaynak mı?**  
+Evet, yapay zeka ekosisteminin birlikte çalışabilirliğini artırmak için geliştirilmiş açık bir standarttır.
 
 ## İlgili terimler
-- [AI Agent](/dictionary/ai-agent/)
-- [Agentic AI](/dictionary/agentic-ai/)
 - [API](/dictionary/api/)
+- [Data Pipeline](/dictionary/data-pipeline/)
+- [AI Agent](/dictionary/ai-agent/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/mcp/

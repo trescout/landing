@@ -6,18 +6,32 @@
 Farklı yapay zeka sistemlerini birleştirerek daha güçlü çözümler üretme yaklaşımıdır.
 
 ## Tanım
-Compound engineering, tek bir model yerine birden fazla yapay zeka bileşenini veya aracını bir araya getirerek karmaşık görevleri çözme yöntemidir. Bu yaklaşım, sistemin yeteneklerini tek bir modelin sınırlarının ötesine taşır.
+Compound engineering, tek bir modelin sınırlarını aşmak için farklı yapay zeka araçlarını, veri kaynaklarını ve mantıksal süreçleri bir araya getirme disiplinidir. Daha akıllı ve çok yönlü sistemler kurmayı hedefler.
+
+## Bir benzetmeyle
+Şöyle düşünün: Sadece bir tornavida kullanmak yerine, bir matkap, testere ve ölçüm cihazını birleştirerek tam bir atölye kurmak gibidir.
 
 ## Nasıl çalışır?
-Farklı modelleri, araçları ve veri kaynaklarını bir zincir gibi birbirine bağlar. Her bir parça kendi uzmanlık alanındaki işi yapar ve sonuçlar birleştirilerek nihai çıktı oluşturulur.
+Bir yapay zeka modeli bir görevi yaparken, diğeri veriyi kontrol eder, üçüncüsü ise sonucu kullanıcıya sunar. Bu parçalar bir zincir gibi birbirine bağlanarak tek bir sistem gibi çalışır.
 
-## Örnek
-Bir yapay zeka sisteminin hem internetten araştırma yapıp hem de bir belgeyi analiz ederek özet çıkarması compound engineering örneğidir.
+## Nerede kullanılır?
+Karmaşık iş akışlarını otomatize eden yapay zeka ajanlarında ve gelişmiş veri analiz platformlarında kullanılır.
+
+## Sık karıştırılanlar
+Sadece tek bir model eğitmek olan 'fine-tuning' ile karıştırılır, ancak compound engineering mevcut modellerin yeteneklerini birleştirmeye odaklanır.
+
+## Sıkça sorulanlar
+
+**Neden tek bir model yetmiyor?**  
+Karmaşık görevlerde tek bir model her zaman en iyi sonucu vermeyebilir, parçaları birleştirmek hata payını azaltır.
+
+**Bu yaklaşım zor mu?**  
+Parçaların birbirine uyumlu çalışmasını sağlamak ciddi bir planlama ve mühendislik gerektirir.
 
 ## İlgili terimler
+- [Compound Engineering](/dictionary/compound-engineering/)
 - [AI Agent](/dictionary/ai-agent/)
 - [Agentic AI](/dictionary/agentic-ai/)
-- [MCP](/dictionary/mcp/)
 - [RAG](/dictionary/rag/)
 
 ---

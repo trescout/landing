@@ -6,18 +6,33 @@
 Yapay zekanın verileri anlamlarına göre hızlıca bulabilmesi için saklandığı özel bir veritabanı türüdür.
 
 ## Tanım
-Vector database, geleneksel veritabanlarından farklı olarak verileri anlam ilişkilerine göre depolar. Yapay zekanın ihtiyaç duyduğu bilgiyi saniyeler içinde bulmasını sağlar. Özellikle büyük ölçekli ve akıllı sistemlerin vazgeçilmezidir.
+Vektör veritabanı, verileri geleneksel satır ve sütunlar yerine anlamlarını temsil eden sayısal vektörler olarak saklayan özel bir depolama sistemidir. Bu yapı, yapay zekanın milyonlarca veri arasından en alakalı olanı milisaniyeler içinde bulmasını sağlar.
+
+## Bir benzetmeyle
+Şöyle düşünün: Geleneksel veritabanı bir kütüphanedeki alfabetik katalog gibidir. Vektör veritabanı ise bir insanın zihnindeki kavram haritası gibidir; bir fikri düşündüğünüzde onunla ilişkili tüm anılarınızın aynı anda aklınıza gelmesi gibi çalışır.
 
 ## Nasıl çalışır?
-Verileri embedding yöntemiyle sayısal vektörlere dönüştürür ve bunları çok boyutlu bir uzayda saklar. Siz bir soru sorduğunuzda, veritabanı en yakın anlamlı veriyi matematiksel olarak bulup getirir.
+Önce veriler embedding yöntemiyle sayısal vektörlere dönüştürülür. Sorgu yapıldığında veritabanı, sorgunun vektörü ile verilerin vektörleri arasındaki mesafeyi ölçer. En kısa mesafeye sahip olanlar, yani anlamca en yakın olanlar sonuç olarak getirilir.
 
-## Örnek
-Binlerce döküman arasından sadece sorduğunuz soruyla ilgili olan paragrafı anında bulmak için kullanılır.
+## Nerede kullanılır?
+Akıllı arama sistemlerinde, öneri motorlarında ve yapay zekanın uzun süreli hafızasını oluşturduğu RAG sistemlerinde kullanılır.
+
+## Sık karıştırılanlar
+SQL gibi klasik veritabanları ile karıştırılır, ancak klasik veritabanları tam eşleşme ararken vektör veritabanları benzerlik arar.
+
+## Sıkça sorulanlar
+
+**Klasik veritabanlarından daha mı yavaştır?**  
+Hayır, çok büyük veri setlerinde benzerlik araması yapmak için klasik yöntemlerden çok daha hızlıdır.
+
+**Hangi veriler saklanabilir?**  
+Metin, görsel, ses veya video gibi anlamı vektöre dönüştürülebilen her türlü veri saklanabilir.
 
 ## İlgili terimler
 - [Embedding](/dictionary/embedding/)
 - [RAG](/dictionary/rag/)
-- [LLM](/dictionary/llm/)
+- [Knowledge Graph](/dictionary/knowledge-graph/)
+- [Memory Engine](/dictionary/memory-engine/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/vector-database/

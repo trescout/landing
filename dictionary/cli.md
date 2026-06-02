@@ -8,17 +8,32 @@
 Bilgisayara komutları yazılı metinler ile verme yöntemidir.
 
 ## Tanım
-CLI, grafiksel arayüzler yerine klavyeden yazılan metin komutlarıyla bilgisayarı yönetmenizi sağlar. Yazılımcılar için hızlı ve hassas kontrol imkanı sunar.
+CLI, bilgisayarı fare ile tıklamak yerine metin tabanlı komutlar yazarak yönetme yöntemidir. Hızlıdır ve özellikle yazılımcılar için çok güçlü bir kontrol aracıdır.
+
+## Bir benzetmeyle
+Şöyle düşünün: Bir menüden yemek seçmek yerine, şefe doğrudan özel bir tarif yazdırmak gibidir.
 
 ## Nasıl çalışır?
-Ekranda gördüğünüz bir terminal penceresine özel komutlar yazarsınız. Bilgisayar bu komutları doğrudan işleyerek sonuçları size metin olarak verir.
+Siyah bir ekran açılır ve buraya belirli komutlar yazılır. Bilgisayar bu komutları okur ve anında yerine getirir.
 
-## Örnek
-Bir yazılımcının dosyaları kopyalamak veya bir programı çalıştırmak için fare kullanmak yerine terminale komut yazmasıdır.
+## Nerede kullanılır?
+Yazılım geliştirme süreçlerinde, sunucu yönetiminde ve yapay zeka modellerini yerel bilgisayarda çalıştırmak için kullanılır.
+
+## Sık karıştırılanlar
+Grafiksel arayüz (GUI) ile karıştırılır, ancak CLI tamamen metne dayalıdır ve çok daha fazla özelleştirme imkanı sunar.
+
+## Sıkça sorulanlar
+
+**CLI öğrenmek şart mı?**  
+Modern araçların çoğu için şart olmasa da, profesyonel seviyede çalışmak için büyük bir hız kazandırır.
+
+**Yanlış komut yazarsam ne olur?**  
+Sistem genellikle hata verir, ancak dikkatli olunması gereken kritik komutlar da mevcuttur.
 
 ## İlgili terimler
-- [API](/dictionary/api/)
-- [Data Pipeline](/dictionary/data-pipeline/)
+- [CLI](/dictionary/cli/)
+- [Self-hosting](/dictionary/self-hosting/)
+- [Offline](/dictionary/offline/)
 - [Open Source](/dictionary/open-source/)
 
 ---

@@ -6,13 +6,27 @@
 Yapay zekanın metinleri işlemek için kullandığı en küçük anlam birimidir.
 
 ## Tanım
-Token, yapay zekanın okuduğu kelimelerin veya kelime parçalarının sayısal karşılığıdır. Bir cümle işlenirken önce parçalara ayrılır ve her parça bir token olarak adlandırılır. Yapay zekanın kapasitesi ve maliyeti genellikle bu token miktarı üzerinden hesaplanır.
+Yapay zekanın dili işlemek için kullandığı en temel parçacıklardır. Bir kelime, hece veya noktalama işareti modelin dünyasında bir sayısal koda karşılık gelir.
+
+## Bir benzetmeyle
+Şöyle düşünün: Bir kitabı okurken harfleri değil de kelimeleri veya heceleri birer tuğla gibi üst üste dizerek anlamlı bir duvar inşa etmek gibidir.
 
 ## Nasıl çalışır?
-Yapay zeka metni harf veya kelime gruplarına böler. Örneğin bir kelime bazen tek bir token olabilirken, uzun bir kelime birden fazla tokena bölünebilir.
+Model metni okumadan önce onu küçük parçalara böler. Bu parçalar sayesinde yapay zeka, dilin yapısını ve kelimeler arası ilişkileri matematiksel olarak hesaplayabilir.
 
-## Örnek
-Bir metni yapay zekaya gönderdiğinizde sistem önce onu binlerce tokene dönüştürür.
+## Nerede kullanılır?
+Yapay zeka modellerinin maliyet hesaplamalarında ve hız ölçümlerinde kullanılır. Bir modelin ne kadar metin işleyebileceği veya ne kadar hızlı yanıt vereceği token sayısı üzerinden belirlenir.
+
+## Sık karıştırılanlar
+Kelime sayısı ile karıştırılır, ancak tokenlar bazen bir kelimenin bir kısmı veya sadece bir boşluk olabilir.
+
+## Sıkça sorulanlar
+
+**1000 token yaklaşık kaç kelimedir?**  
+Genellikle İngilizce metinlerde 1000 token yaklaşık 750 kelimeye denk gelir.
+
+**Neden token kullanıyoruz?**  
+Bilgisayarlar kelimeleri değil sayıları anladığı için metni matematiksel bir formata dönüştürmemiz gerekir.
 
 ## İlgili terimler
 - [Tokenizer](/dictionary/tokenizer/)

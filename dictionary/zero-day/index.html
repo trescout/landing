@@ -7,7 +7,7 @@
 <meta name="description" content="Henüz çözümü bulunmamış, yeni keşfedilen güvenlik açığıdır.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/zero-day/">
-<meta property="og:title" content="Zero-day Exploit nedir? · TreScout Sözlük">
+<meta property="og:title" content="Zero-day Exploit nedir?">
 <meta property="og:description" content="Henüz çözümü bulunmamış, yeni keşfedilen güvenlik açığıdır.">
 <meta property="og:url" content="https://trescout.com/dictionary/zero-day/">
 <meta property="og:type" content="article">
@@ -17,7 +17,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Zero-day Exploit nedir? · TreScout Sözlük">
+<meta name="twitter:title" content="Zero-day Exploit nedir?">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/zero-day.webp">
 <script type="application/ld+json">
 {
@@ -25,7 +25,7 @@
   "@type": "DefinedTerm",
   "name": "Zero-day Exploit",
   "inLanguage": "tr",
-  "description": "Zero-day, bir yazılımda bulunan ve üreticisinin henüz fark etmediği veya yamalamadığı güvenlik açığıdır. Bu açıklar siber saldırganlar için büyük bir risk oluşturur çünkü savunma mekanizması henüz yoktur.",
+  "description": "Sıfırıncı gün açığı, yazılım geliştiricilerinin henüz farkında olmadığı veya çözüm üretmediği kritik bir güvenlik zafiyetidir. Saldırganlar bu açığı keşfettiği an, savunma mekanizmaları henüz hazır olmadığından sistemlere sızmak için büyük bir avantaj elde ederler.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -34,11 +34,35 @@
   "url": "https://trescout.com/dictionary/zero-day/"
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Neden sıfırıncı gün deniyor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Çünkü geliştiricinin bu açığı düzeltmek için elinde sıfır günü, yani hiç vakti yoktur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Sıfırıncı gün saldırısından nasıl korunurum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yazılımlarınızı her zaman güncel tutarak ve şüpheli bağlantılardan kaçınarak riskinizi en aza indirebilirsiniz."
+      }
+    }
+  ]
+}
+</script>
+<link rel="alternate" type="text/markdown" href="/dictionary/zero-day.md">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-<link rel="alternate" type="text/markdown" href="/dictionary/zero-day.md">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -50,7 +74,7 @@
 <h1 class="disc-title">Zero-day Exploit <span class="disc-accent">nedir?</span></h1>
 
 <p class="disc-lead">Henüz çözümü bulunmamış, yeni keşfedilen güvenlik açığıdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Zero-day, bir yazılımda bulunan ve üreticisinin henüz fark etmediği veya yamalamadığı güvenlik açığıdır. Bu açıklar siber saldırganlar için büyük bir risk oluşturur çünkü savunma mekanizması henüz yoktur.</p></section><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Saldırganlar bu açığı yazılımın üreticisi haberdar olmadan kullanır. Üretici açığı öğrendiği andan itibaren çözüm geliştirmek için sıfır günü vardır.</p></section><section class="disc-sec"><h2>Örnek</h2><p>Popüler bir mesajlaşma uygulamasında bulunan ve güncellemeyle kapatılana kadar herkesin mesajlarını okumaya yarayan bir açık zero-day saldırısıdır.</p></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/open-source/">Open Source</a><a href="/dictionary/observability/">Observability</a></div></section>
+<section class="disc-sec"><h2>Tanım</h2><p>Sıfırıncı gün açığı, yazılım geliştiricilerinin henüz farkında olmadığı veya çözüm üretmediği kritik bir güvenlik zafiyetidir. Saldırganlar bu açığı keşfettiği an, savunma mekanizmaları henüz hazır olmadığından sistemlere sızmak için büyük bir avantaj elde ederler.</p></section><div class="dict-analogy">Şöyle düşünün: Evinizin kapısındaki kilidin imalat hatasını hırsızın sizden önce fark edip, sizin henüz haberiniz bile yokken o kapıyı kolayca açabilmesi gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Bir yazılımda kod hatası veya mantık boşluğu bulunur. Saldırgan bu boşluğu kullanarak sisteme izinsiz erişim sağlar. Yazılım sahibi durumu fark edip yama (patch) yayınlayana kadar sistem savunmasız kalır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Siber güvenlik dünyasında, devletler arası dijital casusluktan bireysel kullanıcıların verilerini çalmaya kadar her alanda kullanılır. Büyük teknoloji şirketleri bu açıkları bulana ödül verir.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Bilinen yazılım hatalarıyla karıştırılır ancak sıfırıncı gün açığının farkı, geliştiricinin henüz savunma geliştirecek vaktinin olmamasıdır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden sıfırıncı gün deniyor?</p><p class="dict-faq-a">Çünkü geliştiricinin bu açığı düzeltmek için elinde sıfır günü, yani hiç vakti yoktur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Sıfırıncı gün saldırısından nasıl korunurum?</p><p class="dict-faq-a">Yazılımlarınızı her zaman güncel tutarak ve şüpheli bağlantılardan kaçınarak riskinizi en aza indirebilirsiniz.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/observability/">Observability</a><a href="/dictionary/open-source/">Open Source</a><a href="/dictionary/self-hosting/">Self-hosting</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

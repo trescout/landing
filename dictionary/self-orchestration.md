@@ -6,19 +6,33 @@
 Yapay zekânın karmaşık görevleri kendi başına planlaması ve gerekli adımları sırasıyla yönetmesi.
 
 ## Tanım
-Yapay zekânın karmaşık görevleri kendi başına planlaması ve gerekli adımları sırasıyla yönetmesi. İnsan müdahalesini en aza indirerek otonom iş akışları oluşturulmasını sağlar.
+Yapay zekânın karmaşık görevleri kendi başına planlaması ve gerekli adımları sırasıyla yönetmesidir. Model, büyük bir hedefi küçük parçalara böler ve her adımı sırasıyla gerçekleştirir.
+
+## Bir benzetmeyle
+Şöyle düşünün: Bir şefin mutfaktaki tüm aşçıları yönetip yemeğin zamanında çıkmasını sağlaması gibi, yapay zekânın da görev akışını yönetmesidir.
 
 ## Nasıl çalışır?
-Model, ana hedefi küçük alt görevlere böler ve her bir adımın sonucuna göre bir sonraki adımı belirleyerek süreci yönetir.
+Model hedefe odaklanır, eksik olan adımları belirler, gerekli araçları seçer ve her adımın sonucuna göre bir sonraki adımı planlar.
 
-## Örnek
-Self-orchestration kullanan bir sistem, bir projeyi planlamaktan gerekli dosyaları oluşturmaya kadar tüm süreci kendi yönetebilir.
+## Nerede kullanılır?
+Otonom ajanlarda, karmaşık yazılım geliştirme süreçlerinde ve veri işleme hatlarında kullanılır.
+
+## Sık karıştırılanlar
+Basit otomasyonla karıştırılır, oysa bu yöntem dinamik ve karar verme yetisi içerir.
+
+## Sıkça sorulanlar
+
+**Hata yaparsa ne olur?**  
+İyi tasarlanmış sistemler hatayı fark eder ve stratejisini değiştirerek tekrar dener.
+
+**İnsan müdahalesi gerekir mi?**  
+Genellikle sadece başlangıçta hedefi belirlemek için gerekir, gerisini sistem yönetir.
 
 ## İlgili terimler
 - [AI Agent](/dictionary/ai-agent/)
 - [Agentic AI](/dictionary/agentic-ai/)
-- [MCP](/dictionary/mcp/)
 - [Data Pipeline](/dictionary/data-pipeline/)
+- [MCP](/dictionary/mcp/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/self-orchestration/

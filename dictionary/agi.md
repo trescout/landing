@@ -8,18 +8,33 @@
 İnsan seviyesinde veya üzerinde zeka sergileyen yapay zeka hedefidir.
 
 ## Tanım
-Yapay Genel Zeka, bir sistemin herhangi bir entelektüel görevi bir insan kadar iyi yapabilme kapasitesidir. Mevcut yapay zekalar belirli alanlarda uzmanlaşırken AGI tüm alanlarda öğrenme ve uygulama yeteneğine sahip olmayı amaçlar.
+Yapay Genel Zeka (AGI), bir yapay zekanın herhangi bir entelektüel görevi bir insan kadar iyi veya daha iyi yapabilme kapasitesidir. Şu anki yapay zekalar belirli alanlarda uzmanlaşırken, AGI hedefi çok yönlü ve kendi kendine öğrenen bir zekadır.
+
+## Bir benzetmeyle
+Şöyle düşünün: Sadece satranç oynayan bir bilgisayar programı yerine, hem yemek yapabilen hem de şiir yazabilen bir zeka hayal edin.
 
 ## Nasıl çalışır?
-Henüz tam olarak ulaşılmamış olan bu seviye, sistemin farklı disiplinler arasında bağlantı kurması ve yeni durumları kendi başına öğrenmesiyle mümkün olacaktır.
+AGI, farklı uzmanlık alanlarını birleştirerek yeni durumlara uyum sağlar. Belirli bir komut setiyle değil, genel mantık yürütme ve problem çözme yetenekleriyle çalışır.
 
-## Örnek
-Bir gün bir yapay zekanın hem yemek yapıp hem de karmaşık bir matematik problemini çözebilmesi AGI seviyesine ulaştığını gösterir.
+## Nerede kullanılır?
+Henüz tam anlamıyla mevcut değildir ancak yapay zeka araştırmalarının nihai hedefi olarak kabul edilir.
+
+## Sık karıştırılanlar
+Bugünkü gelişmiş dil modelleriyle sıkça karıştırılır ancak onlar henüz sadece belirli görevlerde uzmanlaşmış dar zekalardır.
+
+## Sıkça sorulanlar
+
+**AGI'ye ulaştığımızı nasıl anlarız?**  
+Yapay zeka, hiç görmediği bir alanda bile insan yardımı olmadan uzman seviyesinde performans gösterdiğinde buna yaklaşmış oluruz.
+
+**AGI tehlikeli mi?**  
+Bu, etik ve güvenlik tartışmalarının merkezinde yer alan, kontrol edilebilirliği üzerine çokça kafa yorulan bir konudur.
 
 ## İlgili terimler
-- [LLM](/dictionary/llm/)
-- [Generative AI](/dictionary/generative-ai/)
 - [World Model](/dictionary/world-model/)
+- [AI Agent](/dictionary/ai-agent/)
+- [Foundation Model](/dictionary/foundation-model/)
+- [Artificial Intelligence](/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agi/

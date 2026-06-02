@@ -8,19 +8,33 @@
 İnternet bağlantısına ihtiyaç duymadan, cihazın kendi kaynaklarıyla çalışan sistem.
 
 ## Tanım
-İnternet bağlantısına ihtiyaç duymadan, cihazın kendi kaynaklarıyla çalışan sistem. Veri gizliliğini artırır ve ağ bağımlılığını ortadan kaldırarak her koşulda erişilebilirlik sağlar.
+İnternet bağlantısına ihtiyaç duymadan, cihazın kendi kaynaklarıyla çalışan sistemdir. Veriler buluta gitmediği için gizlilik ve hız açısından büyük avantaj sağlar.
+
+## Bir benzetmeyle
+Şöyle düşünün: İnternet gerektiren bir kütüphaneye gitmek yerine, tüm kitapların evinizdeki kendi kütüphanenizde bulunması gibidir.
 
 ## Nasıl çalışır?
-Model ağırlıkları yerel cihazın depolama birimine yüklenir ve tüm hesaplamalar cihazın işlemcisi tarafından gerçekleştirilir.
+Yapay zekâ modeli, cihazın işlemcisine ve belleğine yüklenir. Tüm hesaplamalar cihaz üzerinde yapılır.
 
-## Örnek
-Gizlilik gerektiren verilerle çalışan bir uygulama, offline modda çalışarak verilerin dışarı çıkmasını engeller.
+## Nerede kullanılır?
+Gizlilik gerektiren tıbbi cihazlarda, internetin olmadığı bölgelerde veya kişisel bilgisayarlarda kullanılır.
+
+## Sık karıştırılanlar
+Sadece basit modellerle çalışabileceği düşünülür, ancak günümüzde güçlü modeller de cihaz üzerinde çalışabilir.
+
+## Sıkça sorulanlar
+
+**Bilgisayarım çok ısınır mı?**  
+Evet, ağır modelleri çalıştırmak cihazın işlemcisini yorabilir.
+
+**Güncellemeleri nasıl alır?**  
+İnternete bağlandığınızda manuel olarak veya sistem üzerinden güncellenir.
 
 ## İlgili terimler
-- [Self-hosting](/dictionary/self-hosting/)
-- [Open Weights](/dictionary/open-weights/)
-- [Quantization](/dictionary/quantization/)
 - [SLM](/dictionary/slm/)
+- [Open Weights](/dictionary/open-weights/)
+- [Self-hosting](/dictionary/self-hosting/)
+- [Quantization](/dictionary/quantization/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/offline/

@@ -6,15 +6,30 @@
 Bir sistemin iç durumunu dışarıdan gelen verilerle izleme yeteneğidir.
 
 ## Tanım
-Gözlemlenebilirlik, karmaşık dijital sistemlerin neden beklenmedik şekilde davrandığını anlamak için kullanılır. Sistemdeki hataları tespit etmek ve performans sorunlarını çözmek için kritik bir öneme sahiptir.
+Observability, karmaşık yazılım sistemlerinin iç dünyasında neler olup bittiğini anlamamızı sağlayan bir gözlem mekanizmasıdır. Sadece bir hata olduğunda uyarı vermekle kalmaz, sistemin neden yavaşladığını veya neden beklenen sonucu vermediğini verilerle açıklar.
+
+## Bir benzetmeyle
+Şöyle düşünün: Arabanızın sadece motor arıza ışığının yanması hata takibidir, ancak motorun sıcaklığını, yağ basıncını ve yakıt akışını anlık izleyen gösterge paneli observability sağlar.
 
 ## Nasıl çalışır?
-Sistemden gelen loglar ve veriler sürekli toplanarak analiz edilir, böylece bir sorun yaşandığında kaynağına kolayca ulaşılır.
+Sistemden gelen loglar, metrikler ve izleme verileri toplanır. Bu veriler birleştirilerek sistemin sağlık durumu görselleştirilir. Böylece sorun henüz kullanıcıya yansımadan tespit edilebilir.
 
-## Örnek
-Bir web sitesi yavaşladığında sorunun sunucudan mı yoksa internet bağlantısından mı kaynaklandığını anlamak için gözlemlenebilirlik araçları kullanılır.
+## Nerede kullanılır?
+Büyük sunucu ağlarında ve yapay zeka modellerinin performansını izlemek için kullanılır. Özellikle sistemin nerede tıkandığını bulmak için kritik bir araçtır.
+
+## Sık karıştırılanlar
+Genellikle sadece hata kaydı tutmak olan 'monitoring' ile karıştırılır, ancak observability sistemin neden hata verdiğini anlamaya odaklanır.
+
+## Sıkça sorulanlar
+
+**Neden sadece hata kaydı tutmak yetmiyor?**  
+Hata kaydı sorunu söyler ama nedenini açıklamaz, observability ise sistemin içindeki tüm adımları görmenizi sağlar.
+
+**Her sistem için gerekli mi?**  
+Basit uygulamalar için abartı olabilir ancak çok sayıda parçadan oluşan yapay zeka sistemlerinde hayati önem taşır.
 
 ## İlgili terimler
+- [Observability](/dictionary/observability/)
 - [State Management](/dictionary/state-management/)
 - [Data Pipeline](/dictionary/data-pipeline/)
 - [API](/dictionary/api/)

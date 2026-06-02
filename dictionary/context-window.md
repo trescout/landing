@@ -6,18 +6,32 @@
 Yapay zekanın tek seferde hatırlayabildiği ve işleyebildiği bilgi kapasitesidir.
 
 ## Tanım
-Context window, yapay zekanın bir konuşma veya metin boyunca hafızasında tutabildiği maksimum veri miktarıdır. Bu alan dolduğunda model eski bilgileri unutmaya başlar. Daha geniş bir pencere, daha uzun belgelerin analiz edilmesini sağlar.
+Yapay zekanın tek bir konuşma veya işlem sırasında hafızasında tutabildiği toplam bilgi miktarıdır. Bu sınır, modelin geçmişi ne kadar iyi hatırlayacağını belirler.
+
+## Bir benzetmeyle
+Şöyle düşünün: Bir masanın büyüklüğü gibidir; masaya ne kadar çok kağıt sığdırırsanız, yapay zeka o kadar çok bilgiyi aynı anda göz önünde bulundurabilir.
 
 ## Nasıl çalışır?
-Model, kendisine verilen girdileri bir pencere içerisinde tutar. Pencere sınırı aşıldığında en eski bilgiler sistemden çıkarılır.
+Model her yeni kelimeyi işlerken, önceki kelimeleri de bu pencere içinde tutar. Pencere dolduğunda model en eski bilgileri unutmaya başlar.
 
-## Örnek
-Eğer context window yeterince genişse yapay zeka yüzlerce sayfalık bir kitabı tek seferde okuyup analiz edebilir.
+## Nerede kullanılır?
+Uzun kitapları özetletirken veya karmaşık bir kod projesini analiz ettirirken bu kapasite hayati önem taşır.
+
+## Sık karıştırılanlar
+Modelin genel bilgisi ile karıştırılır; genel bilgi eğitimde kazanılır, context window ise o anki sohbetin kısa süreli hafızasıdır.
+
+## Sıkça sorulanlar
+
+**Context window dolarsa ne olur?**  
+Model konuşmanın başını unutur ve konudan kopmaya başlar.
+
+**Daha büyük context window her zaman iyi midir?**  
+Evet ama işlem maliyetini ve yanıt süresini artırabilir.
 
 ## İlgili terimler
+- [Memory Engine](/dictionary/memory-engine/)
 - [LLM](/dictionary/llm/)
 - [Token](/dictionary/token/)
-- [RAG](/dictionary/rag/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/context-window/

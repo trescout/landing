@@ -6,18 +6,32 @@
 Yapay zekanın yazılı metinleri insan sesine dönüştürme teknolojisidir.
 
 ## Tanım
-Konuşma sentezi, bilgisayarların metinleri doğal ve akıcı bir insan sesiyle okumasını sağlar. Bu teknoloji, dijital içeriklerin erişilebilirliğini artırmak ve sesli asistanlar oluşturmak için kullanılır.
+Speech Synthesis (Konuşma Sentezi), yazılı metinlerin yapay zeka yardımıyla yapay ses dalgalarına dönüştürülmesini ifade eden genel teknik terimdir. Metinden Sese teknolojisinin bilimsel ve teknik ismidir.
+
+## Bir benzetmeyle
+Şöyle düşünün: Bir müzisyenin notalara bakarak enstrümanıyla ses üretmesi gibi, yapay zekanın da metne bakarak ses üretmesidir.
 
 ## Nasıl çalışır?
-Sistem önce metni analiz eder ve ardından önceden kaydedilmiş ses verilerini veya yapay sinir ağlarını kullanarak ses dalgaları üretir.
+Metin, dilbilgisi kuralları ve ses birimleri (fonemler) kullanılarak işlenir. Ardından bu birimler birleştirilerek doğal bir konuşma akışı oluşturulur.
 
-## Örnek
-Akıllı telefonunuzdaki sesli asistanın size hava durumunu okuması bir konuşma sentezi örneğidir.
+## Nerede kullanılır?
+Erişilebilirlik araçlarında, otomatik çağrı merkezlerinde ve dijital içerik üretiminde temel yapı taşıdır.
+
+## Sık karıştırılanlar
+Sadece seslendirme ile karıştırılır; oysa bu süreç metnin anlamını ve vurgusunu da hesaplayan karmaşık bir matematiksel hesaplamadır.
+
+## Sıkça sorulanlar
+
+**Speech Synthesis ile Text-to-Speech farkı nedir?**  
+Aynı şeydir; biri teknik süreç, diğeri ise bu sürecin kullanıcıya sunulan uygulamalı adıdır.
+
+**Duyguları sese yansıtabilir mi?**  
+Evet, gelişmiş modeller metindeki üzüntü veya heyecan gibi duyguları tonlamaya yansıtabilir.
 
 ## İlgili terimler
 - [Text-to-Speech](/dictionary/text-to-speech/)
 - [Voice Cloning](/dictionary/voice-cloning/)
-- [LLM](/dictionary/llm/)
+- [NLP](/dictionary/nlp/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/speech-synthesis/

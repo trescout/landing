@@ -8,13 +8,27 @@
 Bilgisayarların insan dilini anlama ve işleme yeteneğidir.
 
 ## Tanım
-Doğal Dil İşleme, makinelerin insanlar gibi konuşmasını, yazmasını ve metinleri anlamlandırmasını sağlayan bir alandır. Dilin yapısını, kurallarını ve duygusal tonunu analiz eder. Günümüzde dijital asistanlardan çeviri araçlarına kadar birçok teknolojinin temelini oluşturur.
+NLP (Doğal Dil İşleme), bilgisayarların insan dilini anlamasını, yorumlamasını ve üretmesini sağlayan bir yapay zeka dalıdır. Bu teknoloji sayesinde makineler sadece kelimeleri değil, cümlelerin arkasındaki anlamı ve duyguyu da kavramaya çalışır.
+
+## Bir benzetmeyle
+Şöyle düşünün: Bir yabancı dili hiç bilmeyen birine, o dilin kurallarını ve sözlüğünü vererek zamanla sizinle akıcı bir şekilde sohbet etmesini sağlamak gibidir.
 
 ## Nasıl çalışır?
-Sistem, metni parçalara ayırır ve kelimeler arasındaki ilişkileri matematiksel modellerle değerlendirerek anlam çıkarır.
+Önce metinler küçük parçalara bölünür. Ardından bu parçalar matematiksel değerlere dönüştürülür ve model, veriler içindeki kalıpları öğrenerek bir sonraki kelimeyi tahmin etmeye başlar.
 
-## Örnek
-E-posta kutunuzdaki spam filtreleri, NLP sayesinde gelen mesajın içeriğini anlayıp istenmeyenleri otomatik olarak ayıklar.
+## Nerede kullanılır?
+Akıllı telefonlardaki otomatik düzeltme özelliklerinde, müşteri hizmetleri chatbotlarında ve çeviri uygulamalarında her gün karşımıza çıkar.
+
+## Sık karıştırılanlar
+Genellikle sadece dil çevirisi ile karıştırılır ancak NLP, metin özetleme ve duygu analizi gibi çok daha geniş kapsamlı işlemleri kapsar.
+
+## Sıkça sorulanlar
+
+**NLP her dili anlayabilir mi?**  
+Modelin eğitildiği veri setine bağlıdır, ancak günümüzde yaygın dillerde oldukça yüksek başarı oranlarına sahiptir.
+
+**Makineler gerçekten dili anlıyor mu?**  
+Hayır, makineler aslında istatistiksel olasılıklar üzerinden işlem yapar, yani gerçek bir bilinçten ziyade gelişmiş bir tahmin yürütme söz konusudur.
 
 ## İlgili terimler
 - [LLM](/dictionary/llm/)

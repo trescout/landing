@@ -6,18 +6,32 @@
 Büyük ve karmaşık bir yapay zeka modelinin bilgisini daha küçük bir modele aktarma sürecidir.
 
 ## Tanım
-Distillation, devasa modellerin yeteneklerini koruyarak daha hızlı ve hafif modeller üretme yöntemidir. Büyük model öğretmen, küçük model ise öğrenci rolündedir. Bu sayede güçlü yapay zeka modelleri telefon gibi düşük donanımlı cihazlarda çalışabilir hale gelir.
+Distillation (Bilgi Damıtma), çok büyük ve karmaşık bir yapay zeka modelinin bilgisini, daha küçük ve verimli bir modele aktarma sürecidir. Bu yöntem, devasa modellerin performansına yakın sonuçları daha az kaynak harcayarak almamızı sağlar.
+
+## Bir benzetmeyle
+Şöyle düşünün: Bir profesörün yıllarca biriktirdiği bilgiyi, bir öğrenciye kısa sürede ve öz bir şekilde özetleyerek aktarması gibidir.
 
 ## Nasıl çalışır?
-Büyük modelin çıktıları, küçük modelin eğitimi sırasında rehber olarak kullanılır ve küçük modelin benzer sonuçlar üretmesi sağlanır.
+Büyük model bir öğretmen gibi davranır ve küçük modelin tahminlerini denetler. Küçük model, öğretmenin cevaplarına benzeyen sonuçlar üretmeyi öğrenerek zamanla kendi başına uzmanlaşır.
 
-## Örnek
-Devasa bir dil modelinin bilgisi, akıllı telefonlarda hızlıca çalışabilen daha küçük bir modele aktarılabilir.
+## Nerede kullanılır?
+Akıllı telefonlar veya düşük donanımlı cihazlar gibi, devasa modellerin sığmayacağı yerlerde hızlı ve etkili sonuçlar almak için tercih edilir.
+
+## Sık karıştırılanlar
+Quantization ile karıştırılır; ancak quantization modelin ağırlıklarını sıkıştırırken, distillation tamamen yeni ve küçük bir modelin eğitilmesini içerir.
+
+## Sıkça sorulanlar
+
+**Küçük model büyük model kadar başarılı olur mu?**  
+Genellikle biraz performans kaybı yaşanır ancak hız ve maliyet avantajı bu kaybı dengeler.
+
+**Her model damıtılabilir mi?**  
+Evet, ancak karmaşık modellerin bilgisini küçük bir yapıya sığdırmak oldukça zorlu bir eğitim süreci gerektirir.
 
 ## İlgili terimler
-- [LLM](/dictionary/llm/)
 - [SLM](/dictionary/slm/)
 - [Quantization](/dictionary/quantization/)
+- [Foundation Model](/dictionary/foundation-model/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/distillation/

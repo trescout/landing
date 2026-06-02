@@ -6,18 +6,32 @@
 Yapay zekanın sadece metin üretmek yerine hedeflere ulaşmak için inisiyatif almasıdır.
 
 ## Tanım
-Agentic AI, yapay zekanın pasif bir araç olmaktan çıkıp aktif bir katılımcı haline gelmesini ifade eder. Bu yapılar kendi kararlarını verir ve çevresiyle etkileşime girer. İş süreçlerini hızlandırmak ve verimliliği artırmak için kritik öneme sahiptir.
+Yapay zekanın pasif bir araç olmaktan çıkıp, hedefleri doğrultusunda proaktif davranan bir yapıya bürünmesidir. Sistemin kendi hatalarını fark edip düzeltme yeteneği bu kavramın merkezindedir.
+
+## Bir benzetmeyle
+Şöyle düşünün: Bir arabanın sadece sizin sürmenizi beklemesi yerine, rotayı bilip trafiğe göre kendi kendine en iyi yolu seçen otonom bir araç olması gibidir.
 
 ## Nasıl çalışır?
-Sistem, verilen geniş kapsamlı bir hedefi küçük görevlere böler ve bu görevleri yerine getirmek için gerekli yazılımları veya verileri kullanır.
+Sistem, karmaşık bir sorunu çözmek için farklı araçları birbiriyle koordine eder. Bir adım başarısız olursa, alternatif bir yol deneyerek hedefine ulaşmaya çalışır.
 
-## Örnek
-Agentic AI kullanan bir sistem, müşteri şikayetlerini analiz edip ilgili departmana otomatik olarak çözüm önerisi iletebilir.
+## Nerede kullanılır?
+Şirket içi iş akışlarını otomatize eden yazılımlarda ve karmaşık yazılım geliştirme süreçlerinde kullanılır.
+
+## Sık karıştırılanlar
+Yapay zeka ile karıştırılır; bu aslında yapay zekanın uygulama biçimindeki bir evrimdir.
+
+## Sıkça sorulanlar
+
+**Agentic AI ile AI Agent farkı nedir?**  
+AI Agent tek bir birimi, Agentic AI ise bu yeteneklerin bütününe verilen genel ismi ifade eder.
+
+**Bu teknoloji iş dünyasını nasıl değiştirir?**  
+Tekrarlayan ve planlama gerektiren işleri tamamen yapay zekaya devretmemizi sağlar.
 
 ## İlgili terimler
 - [AI Agent](/dictionary/ai-agent/)
-- [LLM](/dictionary/llm/)
-- [AI Agent](/dictionary/ai-agent/)
+- [Self-orchestration](/dictionary/self-orchestration/)
+- [Compound Engineering](/dictionary/compound-engineering/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agentic-ai/

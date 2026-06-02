@@ -6,17 +6,33 @@
 Yeni içerik, metin, görsel veya ses üretebilen yapay zeka teknolojilerinin genel adıdır.
 
 ## Tanım
-Generative AI, sadece mevcut verileri analiz etmekle kalmaz, aynı zamanda sıfırdan yeni eserler ortaya koyar. İnsan yaratıcılığını taklit ederek sanat, kod veya metin üretimi yapabilir. Günümüzün en popüler teknoloji alanlarından biridir.
+Generative AI, mevcut verileri analiz edip bunlardan yeni ve özgün içerikler üretebilen yapay zeka teknolojilerinin genel adıdır. Sadece olanı analiz etmez, sizin isteğinize göre yepyeni metinler, görseller veya sesler yaratır.
+
+## Bir benzetmeyle
+Şöyle düşünün: Sadece resimlere bakan bir sanat eleştirmeni değil, eline fırçayı alıp yeni bir tablo çizen bir ressam gibidir.
 
 ## Nasıl çalışır?
-Öğrendiği kalıpları kullanarak daha önce hiç görmediği yeni kombinasyonlar oluşturur. Örneğin bir görseli tarif ettiğinizde, öğrendiği milyonlarca görselden yola çıkarak size özel bir resim çizer.
+Milyarlarca örneği inceleyerek içeriklerin nasıl oluşturulduğuna dair kuralları öğrenir. Ardından, verdiğiniz bir komutla (prompt) bu kuralları kullanarak daha önce hiç var olmamış bir şeyi üretir.
 
-## Örnek
-Bir yapay zekaya sadece bir cümle yazarak profesyonel kalitede bir logo tasarlatabilirsiniz.
+## Nerede kullanılır?
+Yaratıcı işlerde, tasarımda, yazılım kodlamada ve içerik üretiminde devrim yaratmaktadır.
+
+## Sık karıştırılanlar
+Sadece metin üreten modellerle karıştırılır; oysa görsel, ses ve video üreten modeller de bu kategoriye girer.
+
+## Sıkça sorulanlar
+
+**Generative AI telif hakkını ihlal eder mi?**  
+Bu hala tartışmalı bir konu, ancak üretilen içeriklerin özgünlüğü konusunda sürekli yeni düzenlemeler yapılıyor.
+
+**Herkes kullanabilir mi?**  
+Evet, bugün basit bir komut yazabilen herkes bu teknolojiden faydalanabilir.
 
 ## İlgili terimler
 - [LLM](/dictionary/llm/)
 - [Diffusion Model](/dictionary/diffusion-model/)
+- [Text-to-Speech](/dictionary/text-to-speech/)
+- [Prompt Engineering](/dictionary/prompt-engineering/)
 - [Multimodal](/dictionary/multimodal/)
 
 ---

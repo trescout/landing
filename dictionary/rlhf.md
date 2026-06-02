@@ -8,18 +8,33 @@
 Yapay zekayı insan geri bildirimleriyle eğiten bir iyileştirme sürecidir.
 
 ## Tanım
-RLHF, yapay zekanın verdiği yanıtların insanlar tarafından puanlanarak modelin daha güvenli ve doğru hale getirilmesidir. Modelin sadece veriyi değil, insan tercihlerini de öğrenmesini sağlar. Yapay zekanın daha doğal ve yardımcı konuşmasını mümkün kılar.
+RLHF, yapay zekanın verdiği yanıtların insanlar tarafından puanlanarak modelin daha güvenli ve yardımcı hale getirilmesidir. Bu süreç, modelin sadece bilgili değil aynı zamanda insan tercihlerine uygun davranmasını sağlar.
+
+## Bir benzetmeyle
+Şöyle düşünün: Bir stajyere işi öğretmek gibidir. Stajyer bir rapor hazırlar, siz de 'bu kısım çok iyi ama şu üslubu değiştir' diyerek onu eğitirsiniz. Zamanla stajyer sizin neyi beğeneceğinizi öğrenir.
 
 ## Nasıl çalışır?
-Yapay zeka birkaç farklı yanıt üretir ve insanlar bu yanıtlardan hangisinin daha iyi olduğunu seçer. Model bu seçimleri analiz ederek gelecekteki yanıtlarını daha kaliteli hale getirir.
+Önce model farklı yanıtlar üretir. İnsanlar bu yanıtları en iyiden en kötüye doğru sıralar. Bu geri bildirimlerle bir ödül modeli eğitilir ve ana yapay zeka modeli, bu ödül modelinden yüksek puan alacak şekilde ince ayar yapılır.
 
-## Örnek
-Sohbet botunun nazik ve doğru yanıtlar vermesi için RLHF yöntemiyle eğitilmesi gerekir.
+## Nerede kullanılır?
+ChatGPT gibi sohbet robotlarının insan gibi doğal ve güvenli konuşması için son aşamada uygulanır.
+
+## Sık karıştırılanlar
+Sadece eğitim değil, modelin davranışını hizalama (alignment) sürecidir.
+
+## Sıkça sorulanlar
+
+**Neden gerekli?**  
+Çünkü sadece internet verisiyle eğitilen modeller bazen kaba veya yanlış bilgiler verebilir.
+
+**İnsanlar mı puanlıyor?**  
+Evet, genellikle eğitilmiş uzmanlar veya geniş kitleler tarafından puanlama yapılır.
 
 ## İlgili terimler
-- [LLM](/dictionary/llm/)
 - [Fine-tuning](/dictionary/fine-tuning/)
-- [Generative AI](/dictionary/generative-ai/)
+- [LLM](/dictionary/llm/)
+- [AI Skills](/dictionary/ai-skills/)
+- [Hallucination](/dictionary/hallucination/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/rlhf/
