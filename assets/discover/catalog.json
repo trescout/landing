@@ -162,15 +162,10 @@
   {
     "slug": "claude-mem",
     "title": "claude-mem",
-    "tagline": "AI ajanınıza kalıcı hafıza: oturumlar arası bağlamı hatırlar.",
+    "tagline": "AI ajanınıza kalıcı hafıza: oturumlar arası bağlamı hatırlar. Tek komutla kurulur.",
     "meta": "★ 78.506 · TypeScript · Apache-2.0",
     "source": "GitHub",
-    "date": "2026-05-26",
-    "tags": [
-      "AI ajan araçları",
-      "Geliştirici aracı"
-    ],
-    "stars": 78506
+    "date": "2026-05-26"
   },
   {
     "slug": "ppf-contact-solver",
@@ -288,15 +283,10 @@
   {
     "slug": "markitdown",
     "title": "MarkItDown",
-    "tagline": "Word, PDF, Excel… her dosyayı AI'ın okuyabileceği Markdown'a çevirir. (Microsoft)",
+    "tagline": "Word, PDF, Excel, PowerPoint… her belgeyi AI'ın okuyacağı temiz Markdown'a çevirir. (Microsoft)",
     "meta": "★ 128.420 · Python · MIT",
     "source": "GitHub",
-    "date": "2026-05-29",
-    "tags": [
-      "Geliştirici aracı",
-      "Üretkenlik"
-    ],
-    "stars": 128420
+    "date": "2026-05-29"
   },
   {
     "slug": "harness",
