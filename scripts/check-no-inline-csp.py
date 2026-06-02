@@ -18,8 +18,7 @@ import sys, re, glob, os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-files = set(glob.glob(os.path.join(ROOT, "*.html")))
-files |= set(glob.glob(os.path.join(ROOT, "reports", "**", "*.html"), recursive=True))
+files = set(glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True))
 
 STYLE_ATTR = re.compile(r'\sstyle\s*=')
 SCRIPT_OPEN = re.compile(r'<script\b([^>]*)>', re.IGNORECASE)

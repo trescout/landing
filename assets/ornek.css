@@ -1,0 +1,79 @@
+/* TreScout · /ornek/ · örnek rapor sayfası · site.css (iskelet + token) üzerine biner */
+
+.ornek-main { max-width: 800px; margin: 0 auto; padding: 56px 24px 64px; }
+
+.ornek-eyebrow {
+  font-size: 12px; letter-spacing: .22em; text-transform: uppercase;
+  color: var(--accent); font-weight: 700; margin-bottom: 12px;
+}
+.ornek-title {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(32px, 6vw, 48px); line-height: 1.1;
+  font-weight: 700; letter-spacing: -.015em; color: #fff;
+}
+.ornek-lead {
+  margin-top: 18px; font-size: 18px; line-height: 1.7; color: var(--ink-muted);
+}
+.ornek-lead strong { color: var(--ink); }
+
+/* rapor gövdesi */
+.ornek-report { margin-top: 40px; }
+.ornek-loading { color: var(--ink-muted); font-size: 15px; padding: 24px 0; }
+.ornek-fallback { color: var(--ink-muted); font-size: 15px; padding: 24px 0; }
+.ornek-fallback a { color: var(--accent); font-weight: 600; }
+
+.ornek-date {
+  font-size: 13px; letter-spacing: .04em; color: var(--brand-light);
+  text-transform: uppercase; font-weight: 600; margin-bottom: 14px;
+}
+.ornek-editorial {
+  font-size: 17px; line-height: 1.75; color: var(--ink);
+  padding: 18px 20px; background: var(--bg-elevated);
+  border-left: 3px solid var(--accent); border-radius: 0 12px 12px 0;
+  margin-bottom: 36px;
+}
+
+.ornek-sec { margin-bottom: 34px; }
+.ornek-sec-title {
+  font-size: 13px; letter-spacing: .14em; text-transform: uppercase;
+  color: var(--brand-light); font-weight: 700; margin-bottom: 14px;
+  padding-bottom: 8px; border-bottom: 1px solid rgba(95, 168, 211, 0.16);
+}
+
+.ornek-item {
+  padding: 16px 0; border-bottom: 1px solid rgba(95, 168, 211, 0.10);
+}
+.ornek-item:last-child { border-bottom: none; }
+.ornek-item-title {
+  display: inline; font-size: 16.5px; font-weight: 600; color: #fff;
+  transition: color .15s;
+}
+.ornek-item-title:hover { color: var(--accent); }
+.ornek-item-meta {
+  display: block; font-size: 12.5px; color: var(--ink-muted);
+  opacity: .8; margin-top: 4px;
+}
+.ornek-item-sum {
+  margin-top: 8px; font-size: 14.5px; line-height: 1.6; color: var(--ink-muted);
+}
+
+/* alt CTA */
+.ornek-cta {
+  margin-top: 44px; padding: 28px; text-align: center;
+  background: var(--bg-elevated); border: 1px solid rgba(244, 211, 94, .22);
+  border-radius: 16px;
+}
+.ornek-cta p { font-size: 16px; line-height: 1.6; color: var(--ink-muted); margin-bottom: 18px; }
+.ornek-cta p strong { color: var(--ink); }
+.ornek-cta .btn { margin: 4px 6px; }
+.ornek-cta .btn-large, .ornek-cta .btn-primary { padding: 13px 26px; }
+
+/* "ve N daha" vurgusu */
+.ornek-more {
+  margin-top: 18px; font-size: 14px; color: var(--accent); font-weight: 600;
+}
+
+@media (max-width: 560px) {
+  .ornek-main { padding: 36px 18px 44px; }
+  .ornek-editorial { font-size: 16px; padding: 14px 16px; }
+}
