@@ -20,6 +20,26 @@
 <meta name="twitter:title" content="Artık kodu veya dokümanı okumayın. Sorun.">
 <meta name="twitter:description" content="Understand Anything: kodu ya da doküman yığınını AI ile soru-cevap hâline getirir. Türkçe rehber.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Understand Anything: kodu veya dokümanı AI ile sorulabilir yapın",
+  "inLanguage": "tr",
+  "datePublished": "2026-05-26",
+  "author": { "@type": "Organization", "name": "TreScout", "url": "https://trescout.com" },
+  "publisher": { "@type": "Organization", "name": "TreScout", "logo": { "@type": "ImageObject", "url": "https://trescout.com/favicon.svg" } },
+  "image": "https://trescout.com/og-image.png",
+  "url": "https://trescout.com/discover/understand-anything/",
+  "about": {
+    "@type": "SoftwareSourceCode",
+    "name": "Understand Anything",
+    "codeRepository": "https://github.com/Lum1104/Understand-Anything",
+    "programmingLanguage": "TypeScript",
+    "license": "https://opensource.org/licenses/MIT"
+  }
+}
+</script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
@@ -71,6 +91,14 @@
         <li>GitHub Trending · 26 May 2026</li>
       </ul>
 
+      <div class="disc-facts">
+        <div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Bir kodu ya da doküman yığınını hızlı anlamak isteyen herkes</span></div>
+        <div class="disc-fact"><span class="disc-fact-k">Zorluk</span><span class="disc-fact-v">Başlangıç–orta · bir AI asistanı gerekir</span></div>
+        <div class="disc-fact"><span class="disc-fact-k">Kurulum</span><span class="disc-fact-v">~5 dakika · ya da 0 (canlı demo)</span></div>
+        <div class="disc-fact"><span class="disc-fact-k">Ücret</span><span class="disc-fact-v">Ücretsiz · açık kaynak (MIT)</span></div>
+        <div class="disc-fact"><span class="disc-fact-k">Çalışır</span><span class="disc-fact-v">Claude Code, Codex, Antigravity, Gemini CLI, Cursor…</span></div>
+      </div>
+
       <section class="disc-sec">
         <h2>Ne kazandırır?</h2>
         <ul class="disc-wins">
@@ -108,9 +136,36 @@
 
       <section class="disc-sec disc-how">
         <h2>2 dakikada deneyin</h2>
-        <p><strong>Sıfır kurulum:</strong> <a href="https://understand-anything.com/demo/" target="_blank" rel="noopener">canlı demoyu</a> açın, içinde gezin. Aracın ne yaptığını görmenin en hızlı yolu.</p>
-        <p><strong>Kendi dosyalarınızda:</strong> bir AI asistanı (Claude Code / Codex / Antigravity / Gemini CLI) + tek satır eklenti kurulumu, sonra dosyalarınıza "anlat" deyin.</p>
+        <p><strong>Sıfır kurulum:</strong> önce <a href="https://understand-anything.com/demo/" target="_blank" rel="noopener">canlı demoyu</a> açıp gezin. Aracın ne yaptığını görmenin en hızlı yolu.</p>
+        <p><strong>Kendi dosyalarınızda</strong> kurmak için tek komut:</p>
+
+        <div class="disc-cmd">
+          <div class="disc-cmd-head"><span>Claude Code</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div>
+          <pre><code>/plugin marketplace add Lum1104/Understand-Anything
+/plugin install understand-anything</code></pre>
+        </div>
+
+        <div class="disc-cmd">
+          <div class="disc-cmd-head"><span>Codex · Antigravity · Gemini CLI · Cursor…</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div>
+          <pre><code>curl -fsSL https://raw.githubusercontent.com/Lum1104/Understand-Anything/main/install.sh | bash</code></pre>
+        </div>
+
+        <p>Kurduktan sonra asistana dosyalarınızı işaret edip düz cümleyle sorun.</p>
         <div class="disc-note"><strong>Gerçekçi olalım:</strong> "tek tıkla çalışır" değil. Çalışan bir AI asistanı (ve çoğu zaman bir hesap) gerekir. Hiç kurulum istemeyen tek yol yukarıdaki canlı demo.</div>
+      </section>
+
+      <section class="disc-sec">
+        <h2>Neden gündemde?</h2>
+        <p>Çünkü "kodu ve bilgiyi AI'a sorarak anlama" dalgasının tam ortasında. Tek başına bir uygulama değil; kullandığınız asistana (Claude Code, Codex, Gemini CLI…) eklenti olarak giriyor. Bir günde 4.700'den fazla geliştiricinin yıldızlaması da ilginin bir göstergesi.</p>
+      </section>
+
+      <section class="disc-sec">
+        <h2>Sınırları · dürüstçe</h2>
+        <ul class="disc-list">
+          <li>Sihir değil: cevapların kalitesi, kullandığınız AI modeline bağlı.</li>
+          <li>Çok büyük ve dağınık projelerde ilk tarama zaman alabilir.</li>
+          <li>Bir AI asistanı kurmanız (ve çoğu zaman bir hesap açmanız) gerekir.</li>
+        </ul>
       </section>
 
       <aside class="disc-save">
@@ -181,5 +236,7 @@
       </div>
     </div>
   </footer>
+
+  <script src="/assets/discover.js" defer></script>
 </body>
 </html>
