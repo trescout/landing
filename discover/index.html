@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Keşif · Geliştirici araçlarını Türkçe keşfedin · TreScout</title>
+<meta name="description" content="TreScout'un her gün yakaladığı GitHub araçlarını; ne işe yaradıklarını ve AI ile (Claude Code, Codex, Gemini CLI) nasıl kullanılacağını Türkçe anlatıyoruz. Kod bilmeniz şart değil.">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="canonical" href="https://trescout.com/discover/">
+<meta property="og:title" content="Keşif · Geliştirici araçlarını Türkçe keşfedin · TreScout">
+<meta property="og:description" content="Her gün yakaladığımız araçları Türkçe tanıtıyoruz: ne işe yarar, AI ile nasıl kullanılır.">
+<meta property="og:url" content="https://trescout.com/discover/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:image" content="https://trescout.com/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@GetTreScout">
+<meta name="twitter:title" content="Keşif · Geliştirici araçlarını Türkçe keşfedin">
+<meta name="twitter:image" content="https://trescout.com/og-image.png">
+<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css">
+<link rel="stylesheet" href="/assets/discover.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Ana içeriğe atla</a>
+  <nav>
+    <div class="container nav-inner">
+      <a class="logo-link" href="/" aria-label="TreScout anasayfa">
+        <svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true">
+          <rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/>
+          <path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/>
+          <path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/>
+          <path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/>
+          <rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/>
+          <rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/>
+        </svg>
+        <span>TreScout</span>
+      </a>
+      <div class="nav-actions">
+        <a href="/reports/" class="btn btn-ghost">Raporlar</a>
+        <a href="/#top" class="btn btn-primary">Erken erişim</a>
+      </div>
+    </div>
+  </nav>
+
+  <main id="main">
+    <div class="container">
+      <div class="disc-index-hero">
+        <div class="disc-eyebrow">Keşif</div>
+        <h1 class="disc-index-title">Araçları Türkçe keşfedin</h1>
+        <p class="disc-index-lead">TreScout'un her gün yakaladığı GitHub araçlarını burada Türkçe tanıtıyoruz: ne işe yarar, kimin için, ve <strong>AI ile (kod yazmadan) nasıl kullanılır.</strong></p>
+      </div>
+
+      <div id="discover-grid" class="disc-grid" aria-live="polite">
+        <p class="disc-loading">Yükleniyor…</p>
+      </div>
+
+      <aside class="disc-cta">
+        <p><strong>Her gün yeni keşifler.</strong> Tamamı TreScout'un günlük raporundan çıkar · e-postanıza isterseniz.</p>
+        <a class="btn btn-primary" href="/#top">Erken erişim listesine katılın →</a>
+      </aside>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand-block">
+          <div class="footer-logo">
+            <svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true">
+              <rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/>
+              <path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/>
+              <path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/>
+              <path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/>
+              <rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/>
+              <rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/>
+            </svg>
+            <span>TreScout</span>
+          </div>
+          <p class="footer-tagline">TreScout tarar, özetler, gönderir. Siz sadece okursunuz.</p>
+        </div>
+        <div class="footer-col">
+          <div class="footer-col-title">Ürün</div>
+          <ul>
+            <li><a href="/#how-it-works">Nasıl Çalışır</a></li>
+            <li><a href="/reports/">Raporlar</a></li>
+            <li><a href="/#top">Erken Erişim</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <div class="footer-col-title">İletişim</div>
+          <ul>
+            <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
+            <li><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <div class="footer-col-title">Sosyal medya</div>
+          <ul>
+            <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 TreScout · Tüm hakları saklıdır.</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/assets/discover.js" defer></script>
+</body>
+</html>
