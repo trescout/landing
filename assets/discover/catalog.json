@@ -7,5 +7,21 @@
     "image": "/assets/discover/understand-anything.webp",
     "source": "GitHub",
     "date": "2026-05-26"
+  },
+  {
+    "slug": "ecc",
+    "title": "ECC",
+    "tagline": "Claude Code, Codex ve Cursor gibi AI ajanlarına beceri, hafıza ve güvenlik katmanı ekler.",
+    "meta": "★ 194.032 · JavaScript · MIT",
+    "source": "GitHub",
+    "date": "2026-05-26"
+  },
+  {
+    "slug": "ai-engineering-from-scratch",
+    "title": "AI Engineering from Scratch",
+    "tagline": "Yapay zekâ mühendisliğini sıfırdan, elle kod yazarak öğreten 485 derslik ücretsiz kurs.",
+    "meta": "★ 20.435 · Python · MIT",
+    "source": "GitHub",
+    "date": "2026-05-26"
   }
 ]
