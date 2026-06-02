@@ -231,5 +231,93 @@
     "meta": "★ 143.307 · Python · Lisans: kontrol et",
     "source": "GitHub",
     "date": "2026-05-29"
+  },
+  {
+    "slug": "claude-code",
+    "title": "Claude Code",
+    "tagline": "Terminalde yaşayan, kod tabanınızı anlayan AI ajan kodlama aracı. (Anthropic ürünü)",
+    "meta": "★ 128.283 · Anthropic ürünü · Açık kaynak değil",
+    "source": "GitHub",
+    "date": "2026-05-30"
+  },
+  {
+    "slug": "cursor-plugins",
+    "title": "Cursor Plugins",
+    "tagline": "Cursor için resmi eklenti spesifikasyonu ve hazır eklentiler.",
+    "meta": "★ 1.403 · TypeScript · Lisans: kontrol et",
+    "source": "GitHub",
+    "date": "2026-05-30"
+  },
+  {
+    "slug": "voxcpm",
+    "title": "VoxCPM",
+    "tagline": "Belirteçsiz (tokenizer-free) çok dilli TTS: ses tasarımı ve ses kopyalama.",
+    "meta": "★ 22.648 · Python · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-30"
+  },
+  {
+    "slug": "stable-worldmodel",
+    "title": "stable-worldmodel",
+    "tagline": "Dünya modeli (world model) araştırması için tekrarlanabilir platform.",
+    "meta": "★ 1.403 · Python · Lisans: kontrol et",
+    "source": "GitHub",
+    "date": "2026-05-30"
+  },
+  {
+    "slug": "project-nomad",
+    "title": "Project N.O.M.A.D",
+    "tagline": "İnternetsiz çalışan, kritik araç ve bilgi dolu çevrimdışı 'hayatta kalma bilgisayarı'.",
+    "meta": "★ 27.228 · TypeScript · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-30"
+  },
+  {
+    "slug": "liteparse",
+    "title": "Liteparse",
+    "tagline": "Hızlı, açık kaynak belge ayrıştırıcı (document parser). Rust ile.",
+    "meta": "★ 7.781 · Rust · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-30"
+  },
+  {
+    "slug": "flclash",
+    "title": "FlClash",
+    "tagline": "ClashMeta tabanlı, çok platformlu, reklamsız açık kaynak proxy istemcisi.",
+    "meta": "★ 40.313 · Dart · GPL-3.0",
+    "source": "GitHub",
+    "date": "2026-05-30"
+  },
+  {
+    "slug": "train-llm-from-scratch",
+    "title": "Train LLM from Scratch",
+    "tagline": "Veri indirmeden metin üretimine: bir LLM'i sıfırdan eğitmenin sade rehberi.",
+    "meta": "★ 2.086 · Jupyter Notebook · MIT",
+    "source": "GitHub",
+    "date": "2026-05-30"
+  },
+  {
+    "slug": "ruview",
+    "title": "RuView",
+    "tagline": "Sıradan WiFi sinyallerini gerçek zamanlı mekânsal zekâya çevirir (kamera olmadan).",
+    "meta": "★ 68.643 · Rust · MIT",
+    "source": "GitHub",
+    "date": "2026-05-30"
+  },
+  {
+    "slug": "data-engineering-zoomcamp",
+    "title": "Data Engineering Zoomcamp",
+    "tagline": "Üretime hazır veri hatları kurmayı öğreten 9 haftalık ücretsiz kurs.",
+    "meta": "★ 41.734 · Kurs · Lisans: kontrol et",
+    "source": "GitHub",
+    "date": "2026-05-30"
+  },
+  {
+    "slug": "social-auto-upload",
+    "title": "social-auto-upload",
+    "tagline": "Videoları TikTok, YouTube, Bilibili gibi platformlara otomatik yükler.",
+    "meta": "★ 11.705 · Python · Lisans: yok",
+    "source": "GitHub",
+    "date": "2026-05-30"
   }
 ]
