@@ -1,0 +1,24 @@
+name: CSP Inline Guard
+
+# Strict CSP (script-src/style-src 'self') varken sayfalara inline CSS/JS sızmasın.
+# Bu seansta CSP bir kez inline kalıntı yüzünden kırılmıştı · bu guard tekrarını önler.
+# HTML değişen PR'larda + main push'larında (cron'un ürettiği rapor sayfaları dahil) çalışır.
+
+on:
+  pull_request:
+    paths: ['**.html']
+  push:
+    branches: [main]
+    paths: ['**.html']
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Inline CSS/JS kontrolü
+        run: python3 scripts/check-no-inline-csp.py
