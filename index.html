@@ -78,6 +78,7 @@
       <div class="nav-actions">
         <a href="/discover/" class="btn btn-ghost">Keşif</a>
         <a href="/reports/" class="btn btn-ghost">Raporlar</a>
+        <a href="#top" class="btn btn-primary">Erken erişim</a>
       </div>
     </div>
   </nav>
@@ -472,7 +473,17 @@
     <div class="final-cta">
       <h2>İstediğiniz saatte. Kahvenize eşlikçi.</h2>
       <p>Erken erişim listesi açık. Yayına geçtiğimizde ilk siz haberdar olun.</p>
-      <a href="#top" class="btn btn-primary btn-large final-cta-btn">Erken erişim listesine katıl ↑</a>
+      <form class="cta-form final-cta-form js-subscribe" data-source="final-cta" novalidate>
+        <div class="form-row">
+          <input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required>
+          <button class="btn btn-primary btn-large" type="submit">Erken erişim listesine katılın</button>
+        </div>
+        <label class="form-consent">
+          <input type="checkbox" name="consent" required>
+          <span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span>
+        </label>
+        <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
+      </form>
     </div>
   </section>
 
