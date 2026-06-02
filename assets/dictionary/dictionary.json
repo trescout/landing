@@ -390,5 +390,12 @@
     "full": "Çevrimdışı",
     "cat": "dev",
     "kisa": "İnternet bağlantısına ihtiyaç duymadan, cihazın kendi kaynaklarıyla çalışan sistem."
+  },
+  {
+    "slug": "agentic-coding-tool",
+    "en": "Agentic Coding Tool",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım geliştirme süreçlerinde sadece kod yazmakla kalmayıp, hataları ayıklayan ve proje akışını yöneten otonom yapay zeka yardımcılarıdır."
   }
 ]
