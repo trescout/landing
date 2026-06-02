@@ -87,5 +87,29 @@
     "meta": "★ 46.735 · TypeScript · Lisans: özel",
     "source": "GitHub",
     "date": "2026-05-26"
+  },
+  {
+    "slug": "openstock",
+    "title": "OpenStock",
+    "tagline": "Pahalı borsa platformlarına açık kaynak alternatif: gerçek zamanlı fiyat takibi, uyarılar.",
+    "meta": "★ 11.968 · TypeScript · AGPL-3.0",
+    "source": "GitHub",
+    "date": "2026-05-26"
+  },
+  {
+    "slug": "claude-mem",
+    "title": "claude-mem",
+    "tagline": "AI ajanınıza kalıcı hafıza: oturumlar arası bağlamı hatırlar.",
+    "meta": "★ 78.506 · TypeScript · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-26"
+  },
+  {
+    "slug": "ppf-contact-solver",
+    "title": "PPF Contact Solver",
+    "tagline": "Fizik simülasyonları için temas çözücü (kumaş, katı, ip). ZOZO'nun fizik motoru.",
+    "meta": "★ 3.389 · Python · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-26"
   }
 ]
