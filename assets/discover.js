@@ -11,8 +11,8 @@
   /* 1) Kopyala butonları */
   document.querySelectorAll('.disc-copy').forEach(function (btn) {
     btn.addEventListener('click', function () {
-      var box = btn.closest('.disc-cmd');
-      var code = box && box.querySelector('code');
+      var box = btn.closest('.disc-cmd, .disc-ai');
+      var code = box && (box.querySelector('code') || box.querySelector('.disc-ai-text'));
       if (!code || !navigator.clipboard) return;
       navigator.clipboard.writeText(code.textContent.trim()).then(function () {
         var prev = btn.textContent;

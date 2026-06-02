@@ -25,7 +25,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 194032
+    "stars": 194032,
+    "image": "/assets/discover/ecc.webp"
   },
   {
     "slug": "ai-engineering-from-scratch",
@@ -79,7 +80,8 @@
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 4876
+    "stars": 4876,
+    "image": "/assets/discover/stop-slop.webp"
   },
   {
     "slug": "taste-skill",
@@ -92,7 +94,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 21137
+    "stars": 21137,
+    "image": "/assets/discover/taste-skill.webp"
   },
   {
     "slug": "free-domain",
@@ -144,7 +147,8 @@
       "Üretkenlik",
       "Geliştirici aracı"
     ],
-    "stars": 46735
+    "stars": 46735,
+    "image": "/assets/discover/twenty.webp"
   },
   {
     "slug": "openstock",
@@ -157,7 +161,8 @@
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 11968
+    "stars": 11968,
+    "image": "/assets/discover/openstock.webp"
   },
   {
     "slug": "claude-mem",
@@ -170,7 +175,8 @@
     "tags": [
       "AI ajan araçları",
       "Geliştirici aracı"
-    ]
+    ],
+    "image": "/assets/discover/claude-mem.webp"
   },
   {
     "slug": "ppf-contact-solver",
@@ -182,7 +188,8 @@
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3389
+    "stars": 3389,
+    "image": "/assets/discover/ppf-contact-solver.webp"
   },
   {
     "slug": "moneyprinterturbo",
@@ -195,7 +202,8 @@
       "Üretkenlik",
       "AI ajan araçları"
     ],
-    "stars": 62104
+    "stars": 62104,
+    "image": "/assets/discover/moneyprinterturbo.webp"
   },
   {
     "slug": "heretic",
@@ -219,7 +227,8 @@
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 26888
+    "stars": 26888,
+    "image": "/assets/discover/kronos.webp"
   },
   {
     "slug": "claude-code-harness",
@@ -347,7 +356,8 @@
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 2440
+    "stars": 2440,
+    "image": "/assets/discover/moss-tts.webp"
   },
   {
     "slug": "compound-engineering-plugin",
@@ -460,7 +470,8 @@
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 40313
+    "stars": 40313,
+    "image": "/assets/discover/flclash.webp"
   },
   {
     "slug": "train-llm-from-scratch",
@@ -535,7 +546,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 10353
+    "stars": 10353,
+    "image": "/assets/discover/hermes-webui.webp"
   },
   {
     "slug": "github-docs",
@@ -561,7 +573,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 23582
+    "stars": 23582,
+    "image": "/assets/discover/supermemory.webp"
   },
   {
     "slug": "babysitter",
