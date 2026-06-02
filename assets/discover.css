@@ -111,6 +111,37 @@
 
 .disc-disclaimer { margin-top: 28px; font-size: 13px; line-height: 1.6; color: var(--ink-muted); opacity: .8; }
 
+/* ekran görüntüsü */
+.disc-shot { margin: 30px 0 0; }
+.disc-shot img {
+  display: block; width: 100%; height: auto; border-radius: 14px;
+  border: 1px solid rgba(95, 168, 211, .18);
+}
+.disc-shot figcaption {
+  margin-top: 10px; font-size: 12.5px; color: var(--ink-muted); opacity: .8; text-align: center;
+}
+
+/* soru → cevap örneği · "nasıl bir his" */
+.disc-demo {
+  display: flex; flex-direction: column; gap: 14px;
+  padding: 18px; background: var(--bg-elevated);
+  border: 1px solid rgba(95, 168, 211, .14); border-radius: 14px;
+}
+.disc-demo-row { display: flex; flex-direction: column; gap: 6px; }
+.disc-demo-who {
+  font-size: 11px; letter-spacing: .1em; text-transform: uppercase;
+  font-weight: 700; color: var(--ink-muted);
+}
+.disc-demo-who-ai { color: var(--accent); }
+.disc-demo-q p, .disc-demo-a p { margin: 0; font-size: 15.5px; line-height: 1.6; }
+.disc-demo-q p { color: var(--ink); }
+.disc-demo-a {
+  padding: 12px 14px; background: rgba(95, 168, 211, .07);
+  border-left: 3px solid var(--brand-light); border-radius: 0 10px 10px 0;
+}
+.disc-demo-a p { color: var(--ink-muted); }
+.disc-demo-note { font-size: 13px; color: var(--ink-muted); opacity: .8; margin-top: 10px; }
+
 @media (max-width: 560px) {
   .disc { padding: 30px 18px 44px; }
   .disc-lead { font-size: 17px; }
