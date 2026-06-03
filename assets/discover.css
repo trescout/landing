@@ -192,6 +192,16 @@
 .disc-ai-head span { font-size: 12.5px; font-weight: 700; color: var(--brand-light); line-height: 1.4; }
 .disc-ai-text { margin: 0; font-size: 15.5px; line-height: 1.6; color: var(--ink); }
 
+/* ilgili sözlük terimleri · keşif → sözlük çapraz-link (GEO knowledge graph) */
+.disc-related { display: flex; flex-wrap: wrap; gap: 9px; }
+.disc-related a {
+  font-size: 14px; font-weight: 600; color: var(--brand-light);
+  background: rgba(95, 168, 211, .1); border: 1px solid rgba(95, 168, 211, .22);
+  padding: 7px 15px; border-radius: 999px; text-decoration: none;
+  transition: color .15s, background .15s, border-color .15s;
+}
+.disc-related a:hover { color: #15202B; background: var(--accent); border-color: var(--accent); }
+
 /* disc-cta inline abone formu · funnel (subscribe.js bağlar) */
 .disc-cta-form { max-width: 440px; margin: 0 auto 4px; text-align: left; }
 .cta-form { display: flex; flex-direction: column; gap: 10px; }
