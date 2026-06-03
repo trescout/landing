@@ -23,6 +23,20 @@ TODAY=os.environ.get("DICT_DATE") or datetime.date.today().isoformat()
 def esc(s): return html.escape(s or "",quote=True)
 def norm_url(u): return re.sub(r'\.git$','',(u or '').strip().rstrip('/').lower())
 def slugify(s): return re.sub(r'[^a-z0-9]+','-',s.split('/')[-1].lower()).strip('-')
+ACR={"rag","llm","ai","tts","cli","api","ml","ui","ux","sdk","mcp","db","vtuber","osint","slm","agi","nlp","gpu","cpu","io","cv","qa","ide","crm","pdf","html","css","json","yaml","ar","vr","p2p"}
+SMALL={"for","and","of","to","the","in","on","a","an","with","ile","ve","by","from"}
+def nice_title(repo):
+    """Repo adından otomatik düzgün başlık · zaten proper-case'i korur, tireyi boşluğa çevirir, akronimleri büyütür."""
+    repo=(repo or "").strip()
+    if re.search(r'[A-Z]',repo) and re.search(r'[a-z]',repo): return repo  # MoneyPrinterTurbo, Open-LLM-VTuber → aynen
+    if '-' not in repo and '_' not in repo and len(repo)<=4 and repo.isalpha() and repo.islower(): return repo.upper()  # fff → FFF
+    out=[]
+    for i,w in enumerate(re.split(r'[-_]+',repo)):
+        lw=w.lower()
+        if lw in ACR: out.append(lw.upper())
+        elif i>0 and lw in SMALL: out.append(lw)
+        elif w: out.append(w[0].upper()+w[1:])
+    return " ".join(out)
 
 # ---- mevcut repo URL'leri (dedup) ----
 def existing_urls():
@@ -53,6 +67,13 @@ def parse_meta(meta):
     m2=re.match(r'^\s*([A-Za-z0-9+#. ]+?)\s*·',meta or ''); lang=m2.group(1).strip() if m2 else ""
     mom=re.search(r'(\+[\d.]+\s*bugün)',meta or ''); momentum=mom.group(1) if mom else ""
     return lang,stars,momentum
+
+def make_tagline(summary, fallback):
+    """Özetin ilk cümlesi · gerekirse KELİME sınırında kes (mid-word kesme yok)."""
+    if not summary: return fallback
+    s=re.split(r'(?<=[.!?])\s', summary.strip())[0].strip()
+    if len(s)>130: s=s[:127].rsplit(' ',1)[0].rstrip(' ,;:')+"…"
+    return s
 
 def infer_tags(summary):
     s=(summary or '').lower()
@@ -180,12 +201,12 @@ def main():
     new=[]
     for it in items:
         if norm_url(it.get("url","")) in ex: continue
-        title=it.get("title","").split("/")[-1] or it.get("title","")
+        title=nice_title(it.get("title","").split("/")[-1] or it.get("title",""))
         slug=slugify(it.get("title",""))
         if not slug or slug in cat_slugs: continue
         lang,stars,momentum=parse_meta(it.get("meta",""))
         summary=it.get("summary","").strip()
-        tagline=re.split(r'(?<=[.!?])\s',summary)[0][:120] if summary else title
+        tagline=make_tagline(summary, title)
         new.append({"slug":slug,"title":title,"tagline":tagline,"summary":summary,"url":it.get("url",""),
                     "lang":lang,"stars":stars,"momentum":momentum,"date":it.get("_date",TODAY),
                     "tags":infer_tags(summary)})
