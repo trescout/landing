@@ -1,7 +1,7 @@
-name: Sözlük oto-büyüme
+name: İçerik oto-büyüme (sözlük + keşif)
 
-# Yeni rapor landing'e düştüğünde (reports/**) sözlüğü büyüt + günlük cron yedeği + manuel.
-# Gerekli secret: GEMINI_API_KEY (repo Settings → Secrets → Actions).
+# Yeni rapor landing'e düştüğünde (reports/**): sözlüğe yeni terimler + keşfe yeni repolar (lite) eklenir.
+# Günlük cron yedeği + manuel. Gerekli secret: GEMINI_API_KEY (repo Settings → Secrets → Actions).
 on:
   push:
     branches: [main]
@@ -28,14 +28,19 @@ jobs:
         with:
           python-version: '3.12'
 
-      # PDF yedeği için (rapor JSON'unda glossary yoksa pdftotext ile okunur)
-      - name: poppler-utils kur
-        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      # PDF yedeği için pdftotext + keşif lite kartları için Pillow
+      - name: Bağımlılıklar
+        run: |
+          sudo apt-get update && sudo apt-get install -y poppler-utils fonts-dejavu-core
+          pip install Pillow
 
       - name: Sözlüğü büyüt (yeni rapor terimleri)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python3 scripts/dict-sync.py
+
+      - name: Keşfi büyüt (yeni rapor repoları · lite)
+        run: python3 scripts/discover-sync.py
 
       - name: CSP guard
         run: python3 scripts/check-no-inline-csp.py
@@ -46,9 +51,9 @@ jobs:
             git config user.name "TreScout Bot"
             git config user.email "hello@trescout.com"
             git add -A
-            git commit -m "chore(dict-sync): sözlüğe yeni rapor terimleri eklendi [skip ci]"
+            git commit -m "chore(content-sync): rapordan yeni sözlük/keşif içeriği eklendi [skip ci]"
             git push
-            echo "Yeni terim(ler) eklendi ve push edildi."
+            echo "Yeni içerik eklendi ve push edildi."
           else
-            echo "Eklenecek yeni terim yok · sözlük güncel."
+            echo "Eklenecek yeni içerik yok · güncel."
           fi
