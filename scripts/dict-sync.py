@@ -103,7 +103,8 @@ def collect_glossary():
 # ---------- 2) Gemini dedup + ders-gibi içerik ----------
 SYS=("Sen TreScout için Türkçe teknoloji sözlüğü editörüsün; kod bilmeyene DERS ANLATIR gibi yazarsın. "
  "Sana MEVCUT sözlük terimleri (slug · ad) ve raporlardan gelen ADAY terimler (terim · açıklama) verilecek. "
- "Her aday için: MEVCUT bir terimle AYNI kavram mı? AYNIYSA çıktıya KOYMA. YENİYSE ders-gibi içerik üret. "
+ "Her aday için: MEVCUT bir terimle TAM OLARAK AYNI kavram mı (kesin kopya / birebir eşanlamlı, ör. 'large language models' = 'llm')? "
+ "SADECE tam kopyaysa çıktıya KOYMA. En ufak anlamlı fark bile varsa EKLE (kapsayıcı ol). Eklenecekse ders-gibi içerik üret. "
  "KURALLAR: 'siz' dili; em dash (—) YASAK; UYDURMA (emin değilsen genel-doğru); jargon yığma; marka TreScout. "
  'Her YENİ terim için JSON: {"slug"(ingilizce-kucuk-tireli),"en"(görünen ingilizce ad),"full"(akronim açılımı veya ""),'
  '"cat"("ai"|"dev"|"data"),"kisa"(verilen açıklamayı temel al, tek cümle),"tanim"(2-4 cümle),"analoji"(günlük benzetme 1-2 cümle),'
@@ -240,8 +241,17 @@ def main():
     if not terms: print("glossary bulunamadı (rapor JSON'unda 'glossary' yok, PDF de yok)."); return
     manifest=json.load(open(MANIFEST,encoding="utf-8"))
     existing_slugs={m["slug"] for m in manifest}
-    candidates=[t for t in terms if slugify(t["term"]) not in existing_slugs]
-    print(f"slug eşleşmeyen aday: {len(candidates)} (gerisi zaten var)")
+    # tam-kopya filtresi: slug + isim + akronim/full eşleşmesi (ör. "tts" = text-to-speech full "TTS")
+    keys=set(existing_slugs)
+    for m in manifest:
+        keys.add(m["en"].lower().strip()); keys.add(slugify(m["en"]))
+        for part in (m.get("full") or "").split("·"):
+            p=part.strip()
+            if p: keys.add(p.lower()); keys.add(slugify(p))
+    def is_dup(term):
+        return slugify(term) in existing_slugs or term.lower().strip() in keys or slugify(term) in keys
+    candidates=[t for t in terms if not is_dup(t["term"])]
+    print(f"tam-kopya olmayan aday: {len(candidates)} (gerisi zaten var)")
     if not candidates: print("eklenecek yeni terim yok · sözlük güncel ✅"); return
     key=gemini_key()
     if not key: print("HATA: GEMINI_API_KEY yok (ortam değişkeni ya da app/.env.local)."); sys.exit(1)

@@ -488,5 +488,19 @@
     "full": "",
     "cat": "data",
     "kisa": "Borsa ve finansal piyasalardaki alım-satım işlemlerinin, önceden belirlenmiş kurallar çerçevesinde yazılımlar tarafından otomatik yapılmasıdır."
+  },
+  {
+    "slug": "hermes-agent",
+    "en": "Hermes Agent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kullanıcı adına otonom kararlar alabilen ve belirli görevleri uçtan uca tamamlayan özel bir yapay zeka birimidir."
+  },
+  {
+    "slug": "ai-coding-agent",
+    "en": "AI Coding Agent",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım geliştirme sürecinde kod yazan, hata ayıklayan ve proje mimarisine katkıda bulunan yapay zeka tabanlı asistandır."
   }
 ]
