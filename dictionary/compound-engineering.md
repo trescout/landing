@@ -3,10 +3,10 @@
 **Kategori:** Geliştirme  
 **Son güncelleme:** 2026-06-03
 
-Farklı yapay zeka sistemlerini birleştirerek daha güçlü çözümler üretme yaklaşımıdır.
+Her mühendislik adımının bir sonrakini kolaylaştıracak şekilde biriktiği, yapay zekâ destekli bir çalışma yaklaşımıdır.
 
 ## Tanım
-Compound engineering, tek bir modelin sınırlarını aşmak için farklı yapay zeka araçlarını, veri kaynaklarını ve mantıksal süreçleri bir araya getirme disiplinidir. Daha akıllı ve çok yönlü sistemler kurmayı hedefler.
+Compound engineering, yazılım geliştirmenin her adımını (planlama, kodlama, inceleme, öğrenme) yapay zekâ ile yürütüp çıkan öğrenmeleri kaydederek bir sonraki işi kolaylaştırmayı hedefler. Böylece kazanımlar zamanla birikir, ekip her seferinde daha hızlı ve tutarlı çalışır.
 
 ## Bir benzetmeyle
 Şöyle düşünün: Sadece bir tornavida kullanmak yerine, bir matkap, testere ve ölçüm cihazını birleştirerek tam bir atölye kurmak gibidir.

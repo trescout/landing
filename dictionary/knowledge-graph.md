@@ -3,7 +3,7 @@
 **Kategori:** Veri & Altyapı  
 **Son güncelleme:** 2026-06-03
 
-Veriler arasındaki ilişkileri görselleştiren bir bilgi ağıdır.
+Veriler ve kavramlar arasındaki ilişkileri birbirine bağlayan yapılandırılmış bir bilgi ağıdır.
 
 ## Tanım
 Bilgi grafiği, verilerin birbirleriyle olan ilişkilerini bir harita gibi birbirine bağlayan yapılandırılmış bir veri modelidir. Bu sayede yapay zeka, birbirinden bağımsız görünen bilgiler arasındaki gizli bağları kolayca keşfedebilir.

@@ -207,7 +207,7 @@
     "en": "Knowledge Graph",
     "full": "",
     "cat": "data",
-    "kisa": "Veriler arasındaki ilişkileri görselleştiren bir bilgi ağıdır."
+    "kisa": "Veriler ve kavramlar arasındaki ilişkileri birbirine bağlayan yapılandırılmış bir bilgi ağıdır."
   },
   {
     "slug": "agi",
@@ -263,7 +263,7 @@
     "en": "Compound Engineering",
     "full": "",
     "cat": "dev",
-    "kisa": "Farklı yapay zeka sistemlerini birleştirerek daha güçlü çözümler üretme yaklaşımıdır."
+    "kisa": "Her mühendislik adımının bir sonrakini kolaylaştıracak şekilde biriktiği, yapay zekâ destekli bir çalışma yaklaşımıdır."
   },
   {
     "slug": "api",
