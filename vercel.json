@@ -20,7 +20,7 @@
       ]
     },
     {
-      "source": "/(assets/fonts/.*|assets/discover/.*\\.webp)",
+      "source": "/(assets/fonts/.*|assets/(discover|dictionary)/.*\\.webp)",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=2592000, stale-while-revalidate=31536000" }
       ]
