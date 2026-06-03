@@ -1,0 +1,147 @@
+{
+  "date": "2026-06-03",
+  "editorial": "Bugünün teknoloji gündeminde veri işleme (data processing) ve web kazıma (web scraping) araçlarının otomasyon süreçlerini hızlandırdığı görülüyor. Özellikle Microsoft tarafından yayınlanan MarkItDown gibi kütüphaneler, karmaşık dosya formatlarını makine öğrenmesi modelleri için okunabilir metinlere dönüştürme konusunda standartları belirliyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom, büyük dil modellerine (LLM) gönderilen günlük dosyalarını, araç çıktılarını ve bağlamsal veri parçalarını (RAG chunks) sıkıştırarak jeton (token) kullanımını %60 ile %95 oranında azaltıyor. Python tabanlı bu araç, kütüphane, vekil sunucu (proxy) ve Model Bağlam Protokolü (MCP) sunucusu olarak farklı entegrasyon seçenekleri sunuyor.",
+          "meta": "Python · ★ 7.746 · +1.265 bugün"
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Microsoft tarafından geliştirilen MarkItDown, çeşitli dosya formatlarını ve ofis belgelerini işaretleme dili (Markdown) biçimine dönüştüren bir Python aracıdır. Bu araç, yapılandırılmamış verileri metin tabanlı formatlara çevirerek veri işleme süreçlerini kolaylaştırır.",
+          "meta": "Python · ★ 141.948 · +3.618 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, yapay zekâ ajanları için yetenek (skills), içgüdü (instincts), bellek (memory) ve güvenlik katmanlarını optimize eden bir sistemdir. Claude Code, Codex ve Cursor gibi geliştirme araçlarında ajan performansını artırmak amacıyla tasarlanmıştır.",
+          "meta": "JavaScript · ★ 204.662 · +1.533 bugün"
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling, tekil isteklerden kapsamlı tarama işlemlerine kadar tüm süreçleri yönetebilen uyarlanabilir bir web kazıma (web scraping) çatısıdır. Python tabanlı bu araç, veri toplama süreçlerini otomatize etmek için esnek bir yapı sunar.",
+          "meta": "Python · ★ 59.573 · +1.182 bugün"
+        },
+        {
+          "title": "nesquena/hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "summary": "Hermes WebUI, Hermes ajanlarını web tarayıcıları veya mobil cihazlar üzerinden yönetmek için geliştirilmiş bir arayüz sunuyor. Python tabanlı bu proje, ajan tabanlı iş akışlarına erişimi kolaylaştıran bir kullanıcı arayüzü (web interface) sağlıyor.",
+          "meta": "Python · ★ 12.800 · +1.722 bugün"
+        },
+        {
+          "title": "reconurge/flowsint",
+          "url": "https://github.com/reconurge/flowsint",
+          "summary": "Flowsint, siber güvenlik analistleri ve araştırmacılar için görsel, esnek ve genişletilebilir çizge tabanlı inceleme (graph-based investigation) platformu sunuyor. TypeScript ile geliştirilen bu araç, karmaşık veri setlerinin görselleştirilerek analiz edilmesini kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 4.693 · +124 bugün"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM, çok dilli konuşma üretimi ve ses kopyalama işlemleri için belirteçsiz (tokenizer-free) bir mimari sunuyor. Sistem, metin tabanlı bir belirleyici kullanmadan doğrudan ses verisi üzerinde çalışarak yaratıcı ses tasarımı ve gerçekçi ses kopyalama süreçlerini destekliyor.",
+          "meta": "Python · ★ 25.363 · +783 bugün"
+        },
+        {
+          "title": "stefan-jansen/machine-learning-for-trading",
+          "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+          "summary": "Stefan Jansen tarafından hazırlanan bu kaynak, algoritmik alım satım (algorithmic trading) süreçlerinde makine öğrenmesi (machine learning) uygulamalarını Jupyter Not Defterleri (Jupyter Notebooks) üzerinden detaylandırıyor. Finansal veri analizi ve tahmin modelleri oluşturmak isteyenler için pratik kod örnekleri ve strateji geliştirme yöntemleri sunuyor.",
+          "meta": "Jupyter Notebook · ★ 18.746 · +574 bugün"
+        },
+        {
+          "title": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "summary": "Production-agentic-rag-course, karmaşık veri kaynaklarından bilgi getirme süreçlerini otomatize eden ajan tabanlı getirme destekli üretim (agentic RAG) sistemlerinin geliştirilmesine yönelik uygulamalı bir eğitim sunuyor. Python dilini temel alan bu kaynak, ölçeklenebilir ve üretim seviyesinde yapay zekâ uygulamaları oluşturmak için gerekli teknik mimariyi öğretiyor.",
+          "meta": "Python · ★ 6.536 · +30 bugün"
+        },
+        {
+          "title": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "summary": "Supermemory, yapay zekâ çağı için ölçeklenebilir bir bellek motoru (memory engine) ve uygulama altyapısı sunuyor. TypeScript ile geliştirilen bu sistem, verilerin hızlı işlenmesi ve yönetilmesi için özelleşmiş bir bellek arayüzü (memory API) sağlıyor.",
+          "meta": "TypeScript · ★ 24.859 · +680 bugün"
+        },
+        {
+          "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "summary": "Open-LLM-VTuber, büyük dil modelleriyle (large language models) eller serbest sesli etkileşim kurulmasını ve canlı iki boyutlu (Live2D) karakterlerin yerel sistemlerde çalıştırılmasını sağlıyor. Sistem, sesli kesinti desteğiyle kullanıcı ile yapay zekâ arasında gerçek zamanlı bir iletişim deneyimi sunuyor.",
+          "meta": "Python · ★ 8.629 · +66 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gmail thinks I'm stupid, so I left",
+          "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+          "summary": "Kullanıcılar, Gmail'in otomatik filtreleme ve akıllı yanıt (smart reply) gibi özelliklerinin kullanıcı tercihlerini kısıtladığını belirterek alternatif e-posta hizmetlerine yöneliyor. Bu eğilim, kişisel veri kontrolü ve yazılım üzerindeki denetim kaybına yönelik artan bir tepkiyi temsil ediyor.",
+          "meta": "908 oy · 584 yorum"
+        },
+        {
+          "title": "MAI-Code-1-Flash",
+          "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+          "summary": "Microsoft, yazılım geliştirme süreçlerini hızlandırmak amacıyla optimize edilen kodlama odaklı dil modeli MAI-Code-1-Flash modelini duyurdu. Bu model, düşük gecikme süresiyle yüksek performanslı kod üretimi (code generation) sağlamak üzere tasarlandı.",
+          "meta": "462 oy · 207 yorum"
+        },
+        {
+          "title": "CT scans of BYD car parts",
+          "url": "https://www.lumafield.com/scan-of-the-month/byd",
+          "summary": "Lumafield, BYD marka elektrikli araç parçalarını endüstriyel bilgisayarlı tomografi (CT scan) yöntemiyle görüntüleyerek üretim kalitesini ve mühendislik detaylarını analiz ediyor. Bu çalışma, otomotiv bileşenlerinin iç yapısını ve üretim standartlarını şeffaf bir şekilde ortaya koyuyor.",
+          "meta": "371 oy · 192 yorum"
+        },
+        {
+          "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+          "url": "https://blog.ammaraskar.com/github-token-stealing/",
+          "summary": "Visual Studio Code üzerindeki bir güvenlik açığı, kötü niyetli kişilerin tek tıklamayla GitHub erişim belirteçlerini (GitHub tokens) çalmasına olanak tanıyor. Bu açık, geliştiricilerin kimlik doğrulama bilgilerinin (authentication credentials) yetkisiz erişime karşı savunmasız kalmasına yol açıyor.",
+          "meta": "363 oy · 55 yorum"
+        },
+        {
+          "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+          "url": "https://github.com/c0dejedi/nbd-vram",
+          "summary": "Nbd-vram projesi, Linux sistemlerde ekran kartı belleğini (VRAM) takas alanı (swap space) olarak kullanmaya olanak tanıyor. Bu yöntem, sistem belleğinin yetersiz kaldığı durumlarda grafik işlemci belleğini bir depolama birimi gibi değerlendirerek bellek yönetimini genişletiyor.",
+          "meta": "288 oy · 77 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Nvidia tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma (object localization) görevlerini yerine getiren bir görüntü-metin-metin (image-text-to-text) modelidir. Model, karmaşık sahnelerdeki nesneleri tanımlamak ve koordinatlarını belirlemek için çok modlu (multimodal) bir mimari kullanır.",
+          "meta": "♥ 1.046 · 78.925 indirme"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "summary": "LiquidAI tarafından geliştirilen LFM2.5-8B-A1B, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. Geleneksel mimarilerden farklı olarak sıvı sinir ağları (liquid neural networks) yapısını kullanan model, verimli hesaplama süreçleri sunmayı amaçlar.",
+          "meta": "♥ 455 · 60.171 indirme"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "OpenBMB tarafından geliştirilen MiniCPM5-1B, metin üretimi (text generation) görevleri için optimize edilmiş düşük parametreli bir dil modelidir. Sınırlı hesaplama kaynaklarında yüksek performans sunmayı hedefleyen bu model, verimli yapay zekâ (efficient AI) yaklaşımlarını destekler.",
+          "meta": "♥ 738 · 68.494 indirme"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive modeli, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir çok modlu (multimodal) yapay zekâ modelidir. Sansürsüz yapısı ve agresif yanıt verme eğilimiyle, belirli kullanım senaryoları için özelleştirilmiş bir dil modeli (language model) olarak öne çıkmaktadır.",
+          "meta": "♥ 1.309 · 2.602.333 indirme"
+        },
+        {
+          "title": "stepfun-ai/Step-3.7-Flash",
+          "url": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+          "summary": "Stepfun-ai tarafından geliştirilen Step-3.7-Flash, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir çok modlu modeldir (multimodal model). Düşük gecikme süresiyle çalışan bu model, görsel verilerin metinsel analizinde hızlı yanıt verme odaklı bir mimari sunar.",
+          "meta": "♥ 218 · 17.965 indirme"
+        }
+      ]
+    }
+  ]
+}

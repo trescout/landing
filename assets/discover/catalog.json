@@ -647,5 +647,153 @@
     ],
     "stars": 23623,
     "image": "/assets/discover/og/developer-portfolios.webp"
+  },
+  {
+    "slug": "impeccable",
+    "title": "impeccable",
+    "tagline": "Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilmiş bir tasarım dili (design languag",
+    "meta": "★ 33.104 · JavaScript",
+    "image": "/assets/discover/og/impeccable.webp",
+    "source": "GitHub",
+    "date": "2026-06-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 33104,
+    "lite": true
+  },
+  {
+    "slug": "tradingagents",
+    "title": "TradingAgents",
+    "tagline": "TradingAgents, finansal piyasalarda işlem yapmak amacıyla geliştirilen çoklu ajanlı büyük dil modeli (multi-agent LLM) t",
+    "meta": "★ 82.054 · Python",
+    "image": "/assets/discover/og/tradingagents.webp",
+    "source": "GitHub",
+    "date": "2026-06-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 82054,
+    "lite": true
+  },
+  {
+    "slug": "godot",
+    "title": "godot",
+    "tagline": "Godot Motoru (Godot Engine), iki ve üç boyutlu oyun geliştirme süreçleri için kullanılan açık kaynaklı bir oyun motorudu",
+    "meta": "★ 111.819 · C++",
+    "image": "/assets/discover/og/godot.webp",
+    "source": "GitHub",
+    "date": "2026-06-02",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 111819,
+    "lite": true
+  },
+  {
+    "slug": "oh-my-pi",
+    "title": "oh-my-pi",
+    "tagline": "Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI c",
+    "meta": "★ 9.701 · TypeScript",
+    "image": "/assets/discover/og/oh-my-pi.webp",
+    "source": "GitHub",
+    "date": "2026-06-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 9701,
+    "lite": true
+  },
+  {
+    "slug": "machine-learning-for-trading",
+    "title": "machine-learning-for-trading",
+    "tagline": "Stefan Jansen tarafından hazırlanan bu kaynak, algoritmik ticarette makine öğrenimi (machine learning) uygulamaları için",
+    "meta": "★ 18.065 · Jupyter Notebook",
+    "image": "/assets/discover/og/machine-learning-for-trading.webp",
+    "source": "GitHub",
+    "date": "2026-06-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 18065,
+    "lite": true
+  },
+  {
+    "slug": "fff",
+    "title": "fff",
+    "tagline": "Rust ile geliştirilen fff, yapay zekâ ajanları ve metin düzenleyiciler için dosya arama işlemlerini yüksek hız ve doğrul",
+    "meta": "★ 7.319 · Rust",
+    "image": "/assets/discover/og/fff.webp",
+    "source": "GitHub",
+    "date": "2026-06-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7319,
+    "lite": true
+  },
+  {
+    "slug": "headroom",
+    "title": "headroom",
+    "tagline": "Headroom, büyük dil modellerine (LLM) gönderilen günlük dosyalarını, araç çıktılarını ve bağlamsal veri parçalarını (RAG",
+    "meta": "★ 7.746 · Python",
+    "image": "/assets/discover/og/headroom.webp",
+    "source": "GitHub",
+    "date": "2026-06-03",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7746,
+    "lite": true
+  },
+  {
+    "slug": "flowsint",
+    "title": "flowsint",
+    "tagline": "Flowsint, siber güvenlik analistleri ve araştırmacılar için görsel, esnek ve genişletilebilir çizge tabanlı inceleme (gr",
+    "meta": "★ 4.693 · TypeScript",
+    "image": "/assets/discover/og/flowsint.webp",
+    "source": "GitHub",
+    "date": "2026-06-03",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 4693,
+    "lite": true
+  },
+  {
+    "slug": "production-agentic-rag-course",
+    "title": "production-agentic-rag-course",
+    "tagline": "Production-agentic-rag-course, karmaşık veri kaynaklarından bilgi getirme süreçlerini otomatize eden ajan tabanlı getirm",
+    "meta": "★ 6.536 · Python",
+    "image": "/assets/discover/og/production-agentic-rag-course.webp",
+    "source": "GitHub",
+    "date": "2026-06-03",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 6536,
+    "lite": true
+  },
+  {
+    "slug": "open-llm-vtuber",
+    "title": "Open-LLM-VTuber",
+    "tagline": "Open-LLM-VTuber, büyük dil modelleriyle (large language models) eller serbest sesli etkileşim kurulmasını ve canlı iki b",
+    "meta": "★ 8.629 · Python",
+    "image": "/assets/discover/og/open-llm-vtuber.webp",
+    "source": "GitHub",
+    "date": "2026-06-03",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 8629,
+    "lite": true
   }
 ]
