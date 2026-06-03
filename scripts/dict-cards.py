@@ -3,8 +3,9 @@
 TreScout Sözlük · per-term OG kart üreticisi (YEREL araç · Pillow + font gerektirir).
 Manifest'teki kartı eksik her terim için 1200x630 marka kartı üretir ve o terimin
 sayfasındaki og:image/twitter:image'ı og-default'tan kendi kartına çevirir.
-CI değil, yerelde çalıştırın: python3 scripts/dict-cards.py
-Font: SF Pro (macOS) → yoksa DejaVu (Linux) → yoksa atlar.
+Idempotent (var olan kartı atlar) · CI'da da güvenli (font yoksa 0 ile çıkar).
+Kullanım: python3 scripts/dict-cards.py
+Font: SF Pro (macOS) → yoksa DejaVu (Linux/CI) → yoksa atlar.
 """
 import os, json, glob
 from PIL import Image, ImageDraw, ImageFont

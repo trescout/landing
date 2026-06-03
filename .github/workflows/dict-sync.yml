@@ -39,6 +39,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python3 scripts/dict-sync.py
 
+      - name: Sözlük kartlarını üret (yeni terimler · marka OG)
+        run: python3 scripts/dict-cards.py
+
       - name: Keşfi büyüt (yeni rapor repoları · lite)
         run: python3 scripts/discover-sync.py
 

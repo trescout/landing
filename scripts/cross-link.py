@@ -34,9 +34,10 @@ def rx(p):
     return re.compile(r'(?<![\w-])'+re.escape(p)+r'(?![\w-])', 0 if acr else re.I)
 TERMS=[(t["slug"],[rx(p) for p in pats(t)]) for t in man]
 
-# mevcut bölümleri kaldır (refresh)
-RE_DICTTERMS=re.compile(r'<section class="disc-sec"><h2>İlgili sözlük terimleri</h2>.*?</section>\n?',re.S)
-RE_TOOLS=re.compile(r'<section class="disc-sec"><h2>İlgili araçlar</h2>.*?</section>\n?',re.S)
+# mevcut bölümleri kaldır (refresh) · \n?[ \t]* sondaki girintiyi de yutar →
+# yeniden eklemede 6 boşluk birikmez (idempotent · whitespace drift yok)
+RE_DICTTERMS=re.compile(r'<section class="disc-sec"><h2>İlgili sözlük terimleri</h2>.*?</section>\n?[ \t]*',re.S)
+RE_TOOLS=re.compile(r'<section class="disc-sec"><h2>İlgili araçlar</h2>.*?</section>\n?[ \t]*',re.S)
 
 def prose(t):
     t=re.sub(r'(?s)<(script|style|nav|footer|form)\b.*?</\1>',' ',t)
@@ -53,7 +54,8 @@ for f in disc_files:
     t=open(f,encoding="utf-8").read()
     t=RE_DICTTERMS.sub('',t)   # eski bölümü kaldır
     open(f,"w",encoding="utf-8").write(t)  # temiz hâli yaz (sonra ekleyeceğiz)
-    hits=[ts for ts,rxs in TERMS if any(r.search(prose(t)) for r in rxs)]
+    pr=prose(t)                # prose'u dosya başına BİR kez hesapla (terim×desen başına değil)
+    hits=[ts for ts,rxs in TERMS if any(r.search(pr) for r in rxs)]
     ent_terms[slug]=hits
     for h in hits: term_ents.setdefault(h,[]).append(slug)
 freq={t:len(e) for t,e in term_ents.items()}
