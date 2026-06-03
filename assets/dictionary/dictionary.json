@@ -453,5 +453,40 @@
     "full": "",
     "cat": "data",
     "kisa": "Kod yazarken notlar alabileceğiniz ve sonuçları anında görebileceğiniz etkileşimli bir çalışma ortamıdır."
+  },
+  {
+    "slug": "instincts",
+    "en": "Instincts",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın eğitim sürecinde öğrendiği kalıpları kullanarak, düşünmeden verdiği hızlı ve otomatik tepkilerdir."
+  },
+  {
+    "slug": "memory",
+    "en": "Memory",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın geçmiş etkileşimleri saklayarak, gelecekteki cevaplarını bu bilgilere göre kişiselleştirme yeteneğidir."
+  },
+  {
+    "slug": "web-interface",
+    "en": "Web Interface",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Karmaşık yazılımları veya yapay zekâ modellerini internet tarayıcınız üzerinden kolayca yönetmenizi sağlayan görsel arayüzdür."
+  },
+  {
+    "slug": "graph-based-investigation",
+    "en": "Graph-based Investigation",
+    "full": "",
+    "cat": "data",
+    "kisa": "Veriler arasındaki ilişkileri bir ağ haritası üzerinde görselleştirerek, gizli bağlantıları keşfetme yöntemidir."
+  },
+  {
+    "slug": "algorithmic-trading",
+    "en": "Algorithmic Trading",
+    "full": "",
+    "cat": "data",
+    "kisa": "Borsa ve finansal piyasalardaki alım-satım işlemlerinin, önceden belirlenmiş kurallar çerçevesinde yazılımlar tarafından otomatik yapılmasıdır."
   }
 ]
