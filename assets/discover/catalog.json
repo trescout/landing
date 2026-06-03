@@ -4,7 +4,7 @@
     "title": "Understand Anything",
     "tagline": "Kodlarınızı veya dokümanlarınızı yapay zekâ ile etkileşimli hale getirin.",
     "meta": "★ 35.132 · TypeScript · MIT",
-    "image": "/assets/discover/understand-anything.webp",
+    "image": "/assets/discover/og/understand-anything.webp",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
@@ -26,7 +26,7 @@
       "Geliştirici aracı"
     ],
     "stars": 194032,
-    "image": "/assets/discover/ecc.webp"
+    "image": "/assets/discover/og/ecc.webp"
   },
   {
     "slug": "ai-engineering-from-scratch",
@@ -84,7 +84,7 @@
       "Kod bilmeyenler için"
     ],
     "stars": 4876,
-    "image": "/assets/discover/stop-slop.webp"
+    "image": "/assets/discover/og/stop-slop.webp"
   },
   {
     "slug": "taste-skill",
@@ -98,7 +98,7 @@
       "Geliştirici aracı"
     ],
     "stars": 21137,
-    "image": "/assets/discover/taste-skill.webp"
+    "image": "/assets/discover/og/taste-skill.webp"
   },
   {
     "slug": "free-domain",
@@ -154,7 +154,7 @@
       "Geliştirici aracı"
     ],
     "stars": 46735,
-    "image": "/assets/discover/twenty.webp"
+    "image": "/assets/discover/og/twenty.webp"
   },
   {
     "slug": "openstock",
@@ -168,7 +168,7 @@
       "Kod bilmeyenler için"
     ],
     "stars": 11968,
-    "image": "/assets/discover/openstock.webp"
+    "image": "/assets/discover/og/openstock.webp"
   },
   {
     "slug": "claude-mem",
@@ -182,7 +182,7 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "image": "/assets/discover/claude-mem.webp"
+    "image": "/assets/discover/og/claude-mem.webp"
   },
   {
     "slug": "ppf-contact-solver",
@@ -195,7 +195,7 @@
       "Geliştirici aracı"
     ],
     "stars": 3389,
-    "image": "/assets/discover/ppf-contact-solver.webp"
+    "image": "/assets/discover/og/ppf-contact-solver.webp"
   },
   {
     "slug": "moneyprinterturbo",
@@ -209,7 +209,7 @@
       "AI ajan araçları"
     ],
     "stars": 62104,
-    "image": "/assets/discover/moneyprinterturbo.webp"
+    "image": "/assets/discover/og/moneyprinterturbo.webp"
   },
   {
     "slug": "heretic",
@@ -235,7 +235,7 @@
       "Geliştirici aracı"
     ],
     "stars": 26888,
-    "image": "/assets/discover/kronos.webp"
+    "image": "/assets/discover/og/kronos.webp"
   },
   {
     "slug": "claude-code-harness",
@@ -249,7 +249,7 @@
       "Geliştirici aracı"
     ],
     "stars": 1838,
-    "image": "/assets/discover/claude-code-harness.webp"
+    "image": "/assets/discover/og/claude-code-harness.webp"
   },
   {
     "slug": "superpowers",
@@ -332,7 +332,7 @@
       "Geliştirici aracı"
     ],
     "stars": 4063,
-    "image": "/assets/discover/harness.webp"
+    "image": "/assets/discover/og/harness.webp"
   },
   {
     "slug": "build-your-own-x",
@@ -373,7 +373,7 @@
       "Geliştirici aracı"
     ],
     "stars": 2440,
-    "image": "/assets/discover/moss-tts.webp"
+    "image": "/assets/discover/og/moss-tts.webp"
   },
   {
     "slug": "compound-engineering-plugin",
@@ -495,7 +495,7 @@
       "Kod bilmeyenler için"
     ],
     "stars": 40313,
-    "image": "/assets/discover/flclash.webp"
+    "image": "/assets/discover/og/flclash.webp"
   },
   {
     "slug": "train-llm-from-scratch",
@@ -522,7 +522,7 @@
       "Geliştirici aracı"
     ],
     "stars": 68643,
-    "image": "/assets/discover/ruview.webp"
+    "image": "/assets/discover/og/ruview.webp"
   },
   {
     "slug": "data-engineering-zoomcamp",
@@ -576,7 +576,7 @@
       "Geliştirici aracı"
     ],
     "stars": 10353,
-    "image": "/assets/discover/hermes-webui.webp"
+    "image": "/assets/discover/og/hermes-webui.webp"
   },
   {
     "slug": "github-docs",
@@ -604,7 +604,7 @@
       "Geliştirici aracı"
     ],
     "stars": 23582,
-    "image": "/assets/discover/supermemory.webp"
+    "image": "/assets/discover/og/supermemory.webp"
   },
   {
     "slug": "babysitter",
