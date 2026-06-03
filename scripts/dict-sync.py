@@ -14,7 +14,7 @@ Akış:
 GEMINI_API_KEY: ortam değişkeni (CI secret) ya da ../trescout-app/.env.local (yerel).
 Kullanım: python3 scripts/dict-sync.py [--dry]   (--dry: yazma, sadece ne ekleneceğini göster)
 """
-import os, re, sys, json, glob, subprocess, urllib.request
+import os, re, sys, json, glob, time, subprocess, urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # landing repo kökü
 REPORTS = os.path.join(ROOT, "reports")
@@ -116,8 +116,20 @@ def gemini(existing, candidates, key):
           "generationConfig":{"temperature":0.5,"responseMimeType":"application/json","maxOutputTokens":8192}}
     url=f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={key}"
     req=urllib.request.Request(url,data=json.dumps(body).encode(),headers={"Content-Type":"application/json"},method="POST")
-    raw=json.loads(urllib.request.urlopen(req,timeout=150).read().decode())["candidates"][0]["content"]["parts"][0]["text"]
-    return json.loads(raw)
+    last=None
+    for attempt in range(5):  # geçici 429/500/503/timeout için retry + backoff
+        try:
+            raw=json.loads(urllib.request.urlopen(req,timeout=150).read().decode())["candidates"][0]["content"]["parts"][0]["text"]
+            return json.loads(raw)
+        except urllib.error.HTTPError as e:
+            last=e
+            if e.code in (429,500,502,503) and attempt<4: time.sleep((attempt+1)*5); continue
+            raise
+        except Exception as e:
+            last=e
+            if attempt<4: time.sleep((attempt+1)*5); continue
+            raise
+    raise last
 
 # ---------- 3) render ----------
 LOGO='<svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg>'

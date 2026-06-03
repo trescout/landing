@@ -397,5 +397,61 @@
     "full": "",
     "cat": "dev",
     "kisa": "Yazılım geliştirme süreçlerinde sadece kod yazmakla kalmayıp, hataları ayıklayan ve proje akışını yöneten otonom yapay zeka yardımcılarıdır."
+  },
+  {
+    "slug": "design-language",
+    "en": "Design Language",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir ürünün görsel dünyasını ve kullanıcı deneyimini tutarlı kılan kurallar bütünüdür."
+  },
+  {
+    "slug": "multi-agent-llm",
+    "en": "Multi-agent LLM",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Birden fazla yapay zekâ modelinin iş birliği yaparak karmaşık görevleri çözdüğü bir çalışma sistemidir."
+  },
+  {
+    "slug": "godot-engine",
+    "en": "Godot Engine",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Oyun geliştirmek için kullanılan, tamamen ücretsiz ve açık kaynaklı bir yazılım platformudur."
+  },
+  {
+    "slug": "lsp",
+    "en": "LSP",
+    "full": "Language Server Protocol",
+    "cat": "dev",
+    "kisa": "Kod yazarken editörünüze akıllı özellikler kazandıran standart bir iletişim protokolüdür."
+  },
+  {
+    "slug": "rag-chunks",
+    "en": "RAG Chunks",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Uzun belgelerin yapay zekânın daha kolay anlaması için küçük parçalara bölünmüş halidir."
+  },
+  {
+    "slug": "proxy",
+    "en": "Proxy",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternet üzerindeki işlemlerinizi sizin yerinize yapan bir aracı sunucudur."
+  },
+  {
+    "slug": "machine-learning",
+    "en": "Machine Learning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bilgisayarların verilerden ders çıkararak kendi kendine öğrenmesini sağlayan teknolojidir."
+  },
+  {
+    "slug": "jupyter-notebooks",
+    "en": "Jupyter Notebooks",
+    "full": "",
+    "cat": "data",
+    "kisa": "Kod yazarken notlar alabileceğiniz ve sonuçları anında görebileceğiniz etkileşimli bir çalışma ortamıdır."
   }
 ]
