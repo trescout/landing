@@ -42,7 +42,10 @@ jobs:
       - name: Sözlük kartlarını üret (yeni terimler · marka OG)
         run: python3 scripts/dict-cards.py
 
-      - name: Keşfi büyüt (yeni rapor repoları · lite)
+      - name: Keşfi büyüt (yeni rapor repoları · zengin/lite)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
         run: python3 scripts/discover-sync.py
 
       - name: Çapraz-linkleri yenile (keşif ↔ sözlük)

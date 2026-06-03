@@ -11,7 +11,7 @@ Dedup: repo URL ile (slug değil) → "FreeDomain"/"free-domain" gibi yanlış k
 Index grid catalog.json'dan client-side render olduğu için index'i ayrıca üretmeye gerek yok.
 Kullanım: python3 scripts/discover-sync.py [--dry]
 """
-import os, re, sys, json, glob, html, datetime
+import os, re, sys, json, glob, html, time, base64, datetime, urllib.request, urllib.error
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REPORTS=os.path.join(ROOT,"reports"); DISC=os.path.join(ROOT,"discover")
 OGDIR=os.path.join(ROOT,"assets","discover","og")
@@ -157,7 +157,149 @@ PRE=('<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type=
      '<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>\n')
 VERCEL='  <script defer src="/_vercel/insights/script.js"></script>\n  <script defer src="/_vercel/speed-insights/script.js"></script>\n'
 
-def build_page(e):
+# ============ ZENGİN OTO (README'den gerçek komut + Gemini anlatım) ============
+MODEL="gemini-3.1-flash-lite"
+def gemini_key():
+    k=os.environ.get("GEMINI_API_KEY")
+    if k: return k
+    envp=os.path.join(os.path.dirname(ROOT),"trescout-app",".env.local")
+    if os.path.exists(envp):
+        for l in open(envp):
+            if l.strip().startswith("GEMINI_API_KEY="): return l.split("=",1)[1].strip().strip('"').strip("'")
+    return None
+
+# ---- GitHub README + meta (kimliksiz 60/saat · token varsa 5000) ----
+def gh_get(url):
+    req=urllib.request.Request(url,headers={"Accept":"application/vnd.github+json","User-Agent":"trescout-discover-sync"})
+    tok=os.environ.get("GITHUB_TOKEN")
+    if tok: req.add_header("Authorization","Bearer "+tok)
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req,timeout=30) as r: return json.loads(r.read().decode())
+        except urllib.error.HTTPError as e:
+            if e.code==404: return None
+            if e.code in (403,429,500,502,503) and attempt<2: time.sleep((attempt+1)*3); continue
+            return None
+        except Exception:
+            if attempt<2: time.sleep((attempt+1)*3); continue
+            return None
+    return None
+def owner_repo(url):
+    m=re.search(r'github\.com/([^/]+)/([^/#?]+)',url or '')
+    return (m.group(1),re.sub(r'\.git$','',m.group(2))) if m else (None,None)
+def fetch_readme(owner,repo):
+    d=gh_get(f"https://api.github.com/repos/{owner}/{repo}/readme")
+    if not d or "content" not in d: return ""
+    try: return base64.b64decode(d["content"]).decode("utf-8","replace")
+    except Exception: return ""
+def fetch_meta(owner,repo):
+    d=gh_get(f"https://api.github.com/repos/{owner}/{repo}") or {}
+    lic=((d.get("license") or {}).get("spdx_id") or "")
+    return {"license":"" if lic in ("","NOASSERTION") else lic}
+
+# ---- gerçek komut bloklarını ayıkla (verbatim kaynak) ----
+RUN_HINT=re.compile(r'\b(pip|pipx|uv|conda|npm|npx|pnpm|yarn|bun|cargo|go|docker|git clone|brew|apt|apt-get|make|poetry|gem|composer|dotnet|curl|wget|bash|sh|python3?|node|deno)\b')
+def clean_cmd(c):
+    return "\n".join(re.sub(r'^\s*\$\s+','',l) for l in (c or '').splitlines()).strip()
+def install_blocks(md):
+    out=[]; seen=set()
+    for lang,code in re.findall(r'```([\w+.\-]*)\n(.*?)```',md,re.S):
+        code=clean_cmd(code)
+        lines=[l for l in code.splitlines() if l.strip() and not l.strip().startswith("#")]
+        if not lines or len(lines)>8: continue
+        if lang.lower() in ("bash","sh","shell","console","zsh","") and RUN_HINT.search(code) and code not in seen:
+            seen.add(code); out.append(code)
+    return out[:6]
+def _norm(s):
+    return re.sub(r'\s+',' ',re.sub(r'(?m)^\s*[\$#]\s+',' ',s or '')).strip()
+def verbatim_ok(cmd,hay):
+    c=_norm(cmd); return bool(c) and c in hay
+
+# ---- Gemini: README'den zengin içerik (UYDURMA YOK, komut birebir) ----
+ENRICH_SYS=("Sen TreScout için Türkçe içerik editörüsün; kod bilmeyene bir GitHub aracını tanıtıyorsun. "
+ "Sana README ve ondan AYIKLANMIŞ gerçek komut blokları verilecek (boş da olabilir). "
+ "MUTLAK KURALLAR: UYDURMA, sadece README'de geçeni kullan. Komutu SADECE verilen bloklardan BİREBİR al (tek karakter bile değiştirme/ekleme yok); emin değilsen boş bırak. "
+ "'siz' dili; em dash (—) YASAK; pazarlama/abartı yok; TreScout bu aracı geliştirmedi, yalnızca tanıtıyor. "
+ 'ÇIKTI yalnızca JSON: {"kazanimlar"(3 kısa somut madde),'
+ '"kurulum"([{"baslik","komut"}] 0-2, komut SADECE verilen bloklardan birebir),'
+ '"calistirma"([{"baslik","komut"}] 0-2, ilk kullanım),'
+ '"nasil_baslanir"(EĞER gerçek kurulum komutu YOKSA kod bilmeyenin nasıl başlayacağını 1-3 cümle DÜZ METİN anlat: kabuk komutu YAZMA, README\'de geçen indirme/resmî site/doküman yolunu tarif et. Komut varsa boş bırak),'
+ '"ai_prompt"(kod bilmeyenin yapay zekâ ajanına yapıştıracağı tek paragraf Türkçe istem; yalnızca gerçek komutlara dayan),'
+ '"kimin_icin"(tek cümle)}. Başka metin yok.')
+def start_url(md):
+    """README'nin kurulum/indirme bölümündeki ilk gerçek URL (linki uydurmadan vermek için)."""
+    m=re.search(r'(?is)#{1,4}[^\n]*(?:install|setup|getting started|download|quick ?start|kurulum)[^\n]*\n(.+?)(?=\n#{1,4}\s|\Z)',md)
+    region=m.group(1) if m else md[:1500]
+    u=re.search(r'\((https?://[^)\s]+)\)',region) or re.search(r'(https?://[^)\s\]>]+)',region)
+    return u.group(1) if u else ""
+def gemini_enrich(title,summary,readme,blocks,key):
+    payload=("ARAÇ: "+title+"\nÖZET: "+(summary or "")+"\n\nREADME:\n"+readme[:8000]+
+             "\n\nAYIKLANAN GERÇEK KOMUTLAR (komutu yalnızca bunlardan, birebir seç):\n"+json.dumps(blocks,ensure_ascii=False))
+    body={"systemInstruction":{"parts":[{"text":ENRICH_SYS}]},"contents":[{"parts":[{"text":payload}]}],
+          "generationConfig":{"temperature":0.4,"responseMimeType":"application/json","maxOutputTokens":2048}}
+    url=f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={key}"
+    req=urllib.request.Request(url,data=json.dumps(body).encode(),headers={"Content-Type":"application/json"},method="POST")
+    for attempt in range(4):
+        try:
+            raw=json.loads(urllib.request.urlopen(req,timeout=120).read().decode())["candidates"][0]["content"]["parts"][0]["text"]
+            return json.loads(raw)
+        except urllib.error.HTTPError as e:
+            if e.code in (429,500,502,503) and attempt<3: time.sleep((attempt+1)*4); continue
+            return None
+        except Exception:
+            if attempt<3: time.sleep((attempt+1)*4); continue
+            return None
+    return None
+
+def enrich_entry(url,title,summary,key):
+    """Döner: (rich_dict, None) ya da (None, reason). reason: readme_yok | komut_yok"""
+    owner,repo=owner_repo(url)
+    if not owner: return None,"readme_yok"
+    readme=fetch_readme(owner,repo)
+    if not readme.strip(): return None,"readme_yok"
+    if not key: return None,"komut_yok"
+    blocks=install_blocks(readme)
+    g=gemini_enrich(title,summary,readme,blocks,key)
+    if not isinstance(g,dict): return None,"komut_yok"
+    hay=_norm(readme+" "+" ".join(blocks))
+    for grp in ("kurulum","calistirma"):  # UYDURMA ENGELİ: README'de birebir geçmeyen komutu at
+        g[grp]=[{"baslik":str(x.get("baslik","Komut"))[:40],"komut":clean_cmd(x.get("komut",""))}
+                for x in (g.get(grp) or []) if isinstance(x,dict) and verbatim_ok(x.get("komut",""),hay)]
+    g["kazanimlar"]=[str(x) for x in (g.get("kazanimlar") or [])][:4]
+    g["ai_prompt"]=str(g.get("ai_prompt") or ""); g["kimin_icin"]=str(g.get("kimin_icin") or "")
+    g["nasil_baslanir"]=str(g.get("nasil_baslanir") or "").strip()
+    if not (g["kurulum"] or g["calistirma"]):   # komut yok → komutsuz-zengin (düz-metin başlangıç + gerçek link)
+        g["start_url"]=start_url(readme)
+        if not g["kazanimlar"] and not g["nasil_baslanir"]: return None,"komut_yok"
+    g["license"]=fetch_meta(owner,repo).get("license","")
+    return g,None
+
+def rich_sections(g):
+    s=""
+    if g.get("kazanimlar"):
+        s+='<section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins">'+"".join(f"<li>{esc(x)}</li>" for x in g["kazanimlar"])+'</ul></section>\n      '
+    for grp,h in (("kurulum","Kurulum"),("calistirma","Çalıştırma")):
+        if not g.get(grp): continue
+        cmds="".join('<div class="disc-cmd"><div class="disc-cmd-head"><span>'+esc(it["baslik"])+'</span>'
+                     '<button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div>'
+                     '<pre><code>'+esc(it["komut"])+'</code></pre></div>' for it in g[grp])
+        s+=f'<section class="disc-sec"><h2>{h}</h2>{cmds}</section>\n      '
+    has_cmd=bool(g.get("kurulum") or g.get("calistirma"))
+    if not has_cmd and g.get("nasil_baslanir"):
+        link=(f'<ul class="disc-links"><li><a href="{esc(g.get("start_url",""))}" target="_blank" rel="noopener">Resmî kaynak →</a></li></ul>' if g.get("start_url") else '')
+        s+=f'<section class="disc-sec"><h2>Nasıl başlanır?</h2><p>{esc(g["nasil_baslanir"])}</p>{link}</section>\n      '
+    if has_cmd and g.get("ai_prompt"):
+        s+=('<section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head">'
+            '<span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span>'
+            '<button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div>'
+            '<p class="disc-ai-text">'+esc(g["ai_prompt"])+'</p></div></section>\n      ')
+    facts=""
+    if g.get("kimin_icin"): facts+='<div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">'+esc(g["kimin_icin"])+'</span></div>'
+    if g.get("license"): facts+='<div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">'+esc(g["license"])+'</span></div>'
+    if facts: s+=f'<div class="disc-facts">{facts}</div>\n      '
+    return s
+
+def build_page(e, rich=None):
     slug=e["slug"];title=e["title"];tagline=e["tagline"];summary=e["summary"];url=e["url"]
     lang=e["lang"];stars=e["stars"];momentum=e["momentum"];date=e["date"]
     canon=f"https://trescout.com/discover/{slug}/";ogimg=f"https://trescout.com/assets/discover/og/{slug}.webp"
@@ -172,6 +314,7 @@ def build_page(e):
         chips="".join(f'<a href="/dictionary/{r}/">{esc(EN_MAP.get(r,r))}</a>' for r in rel if r in EN_MAP)
         if chips: relsec=f'<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related">{chips}</div></section>'
     mom=f'<span class="disc-momentum">🚀 {esc(momentum)}</span>' if momentum else ''
+    rich_html=rich_sections(rich) if rich else ''
     head=('<!DOCTYPE html>\n<html lang="tr">\n<head>\n<meta charset="UTF-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
       f'<title>{esc(title)} · Keşif · TreScout</title>\n<meta name="description" content="{esc(tagline)}">\n'
       '<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
@@ -185,44 +328,90 @@ def build_page(e):
       '<a class="disc-back" href="/discover/">← Keşif</a>\n'
       f'<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub</span>{mom}</div>\n'
       f'<h1 class="disc-title">{esc(title)}</h1>\n<p class="disc-lead">{esc(summary)}</p>\n'
-      f'<ul class="disc-meta">{metas}</ul>\n{relsec}\n'
+      f'<ul class="disc-meta">{metas}</ul>\n      {rich_html}{relsec}\n'
       f'<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="{esc(url)}" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>\n'
       '<aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p>'
       +FORM+'<a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>\n'
       '<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.</p>\n'
-      '</article>\n</main>\n'+FOOTER+'\n<script src="/assets/subscribe.js" defer></script>\n'+VERCEL+'</body>\n</html>\n')
+      '</article>\n</main>\n'+FOOTER+'\n'+('<script src="/assets/discover.js" defer></script>\n' if rich else '')+'<script src="/assets/subscribe.js" defer></script>\n'+VERCEL+'</body>\n</html>\n')
     return head+body
 
+def base_entry(n, rich, reason):
+    """catalog kaydı · rich → 'lite':False; değilse lite + işaret (needs_enrichment + sebep)."""
+    meta=(f"★ {n['stars']:,}".replace(',','.')+(f" · {n['lang']}" if n['lang'] else "")) if n['stars'] else n['lang']
+    c={"slug":n["slug"],"title":n["title"],"tagline":n["tagline"],"meta":meta,
+       "image":f"/assets/discover/og/{n['slug']}.webp","source":"GitHub","date":n["date"],
+       "tags":n["tags"],"stars":n["stars"]}
+    if rich: c["lite"]=False
+    else: c.update({"lite":True,"needs_enrichment":True,"enrich_reason":reason})
+    return c
+
+def process_one(n, key):
+    """Entry'i zenginleştir + sayfa & kart yaz. Döner: (rich|None, reason|None)."""
+    rich,reason=enrich_entry(n["url"],n["title"],n.get("summary",""),key)
+    os.makedirs(os.path.join(DISC,n["slug"]),exist_ok=True)
+    open(os.path.join(DISC,n["slug"],"index.html"),"w",encoding="utf-8").write(build_page(n,rich))
+    card=os.path.join(OGDIR,n["slug"]+".webp")
+    if not os.path.exists(card):   # kart başlık/tagline'a bağlı · varsa yeniden üretme (gereksiz binary churn yok)
+        make_card(n["slug"],n["title"],n["tagline"],n["stars"],n["lang"],card)
+    return rich,reason
+
+def reprocess_lite(cat, by_slug, key):
+    """Mevcut lite entry'leri yeniden değerlendir · README+komut varsa zengine çevir, yoksa lite+işaret."""
+    rows=[]
+    for c in [x for x in cat if x.get("lite")]:
+        f=os.path.join(DISC,c["slug"],"index.html")
+        t=open(f,encoding="utf-8").read() if os.path.exists(f) else ""
+        m=re.search(r'"codeRepository":\s*"([^"]+)"',t) or re.search(r'href="(https://github\.com/[^"]+?)"',t)
+        lang,stars,momentum=parse_meta(c.get("meta",""))
+        ls=re.search(r'<p class="disc-lead">(.*?)</p>',t,re.S)
+        summary=html.unescape(re.sub(r'<[^>]+>','',ls.group(1))).strip() if ls else c.get("tagline","")
+        rows.append({"slug":c["slug"],"title":c["title"],"tagline":c["tagline"],"summary":summary,
+                     "url":m.group(1) if m else "","lang":lang,"stars":c.get("stars",stars),
+                     "momentum":momentum,"date":c.get("date",TODAY),"tags":c.get("tags") or infer_tags(summary)})
+    print(f"--reprocess-lite: {len(rows)} lite entry yeniden değerlendirilecek")
+    if DRY:
+        for n in rows: print(f"  ~ {n['slug']}  ({n['url']})")
+        print("[--dry] yazılmadı."); return
+    nrich=nlite=0
+    for n in rows:
+        rich,reason=process_one(n,key)
+        by_slug[n["slug"]].clear(); by_slug[n["slug"]].update(base_entry(n,rich,reason))
+        if rich: nrich+=1; print(f"  ✅ zengin: {n['slug']} · kurulum {len(rich['kurulum'])} · çalıştırma {len(rich['calistirma'])} · prompt {'var' if rich['ai_prompt'] else 'yok'}")
+        else: nlite+=1; print(f"  ◦ lite kaldı: {n['slug']} ({reason})")
+    json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
+    print(f"✅ {nrich} zengin · {nlite} lite (işaretli → aylık kuyruğa düşer) · catalog güncellendi")
+
 def main():
-    ex=existing_urls()
-    items=report_items()
+    key=gemini_key()
     cat=json.load(open(CATALOG,encoding="utf-8"))
-    cat_slugs={c["slug"] for c in cat}
+    by_slug={c["slug"]:c for c in cat}
+    os.makedirs(OGDIR,exist_ok=True)
+    if "--reprocess-lite" in sys.argv:
+        if not key: print("UYARI: GEMINI_API_KEY yok · zenginleştirme yapılamaz, lite kalır.")
+        reprocess_lite(cat, by_slug, key); return
+    ex=existing_urls(); items=report_items(); cat_slugs=set(by_slug)
     new=[]
     for it in items:
         if norm_url(it.get("url","")) in ex: continue
-        title=nice_title(it.get("title","").split("/")[-1] or it.get("title",""))
         slug=slugify(it.get("title",""))
         if not slug or slug in cat_slugs: continue
+        title=nice_title(it.get("title","").split("/")[-1] or it.get("title",""))
         lang,stars,momentum=parse_meta(it.get("meta",""))
         summary=it.get("summary","").strip()
-        tagline=make_tagline(summary, title)
-        new.append({"slug":slug,"title":title,"tagline":tagline,"summary":summary,"url":it.get("url",""),
-                    "lang":lang,"stars":stars,"momentum":momentum,"date":it.get("_date",TODAY),
-                    "tags":infer_tags(summary)})
-    print(f"rapor GitHub repo: {len(items)} · mevcut (URL): {len(ex)} · YENİ lite eklenecek: {len(new)}")
+        new.append({"slug":slug,"title":title,"tagline":make_tagline(summary,title),"summary":summary,
+                    "url":it.get("url",""),"lang":lang,"stars":stars,"momentum":momentum,
+                    "date":it.get("_date",TODAY),"tags":infer_tags(summary)})
+    print(f"rapor GitHub repo: {len(items)} · mevcut (URL): {len(ex)} · YENİ: {len(new)}")
     for n in new: print(f"  + {n['slug']}  ({n['title']})")
     if DRY: print("[--dry] yazılmadı."); return
     if not new: print("eklenecek yeni repo yok · keşif güncel ✅"); return
-    os.makedirs(OGDIR,exist_ok=True)
+    nrich=nlite=0
     for n in new:
-        os.makedirs(os.path.join(DISC,n["slug"]),exist_ok=True)
-        open(os.path.join(DISC,n["slug"],"index.html"),"w",encoding="utf-8").write(build_page(n))
-        make_card(n["slug"],n["title"],n["tagline"],n["stars"],n["lang"],os.path.join(OGDIR,n["slug"]+".webp"))
-        cat.append({"slug":n["slug"],"title":n["title"],"tagline":n["tagline"],
-                    "meta":(f"★ {n['stars']:,}".replace(',','.')+(f" · {n['lang']}" if n['lang'] else "")) if n['stars'] else n['lang'],
-                    "image":f"/assets/discover/og/{n['slug']}.webp","source":"GitHub","date":n["date"],
-                    "tags":n["tags"],"stars":n["stars"],"lite":True})
+        rich,reason=process_one(n,key)
+        cat.append(base_entry(n,rich,reason))
+        if rich: nrich+=1; print(f"  ✅ zengin: {n['slug']}")
+        else: nlite+=1; print(f"  ◦ lite: {n['slug']} ({reason})")
     json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
     sm=open(SITEMAP,encoding="utf-8").read(); lines=[]
     for n in new:
@@ -230,6 +419,6 @@ def main():
         if u in sm: continue
         lines+=["  <url>",f"    <loc>{u}</loc>",f"    <lastmod>{n['date']}</lastmod>","    <changefreq>monthly</changefreq>","    <priority>0.6</priority>","  </url>"]
     if lines: open(SITEMAP,"w",encoding="utf-8").write(sm.replace("</urlset>","\n".join(lines)+"\n</urlset>"))
-    print(f"✅ {len(new)} lite keşif entry eklendi (catalog 'lite':true · sonra elle zenginleştir)")
+    print(f"✅ {nrich} zengin + {nlite} lite eklendi (lite'lar aylık kuyruğa düşer)")
 
 if __name__=="__main__": main()
