@@ -1,0 +1,945 @@
+[
+  {
+    "slug": "understand-anything",
+    "title": "Understand Anything",
+    "tagline": "Kodlarınızı veya dokümanlarınızı yapay zekâ ile etkileşimli hale getirin.",
+    "meta": "★ 35.132 · TypeScript · MIT",
+    "image": "/assets/discover/og/understand-anything.webp",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı",
+      "Kod bilmeyenler için"
+    ],
+    "stars": 35132
+  },
+  {
+    "slug": "ecc",
+    "title": "ECC",
+    "tagline": "Claude Code, Codex ve Cursor gibi yapay zekâ ajanlarına beceri, hafıza ve güvenlik katmanı ekleyin.",
+    "meta": "★ 194.032 · JavaScript · MIT",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 194032,
+    "image": "/assets/discover/og/ecc.webp"
+  },
+  {
+    "slug": "ai-engineering-from-scratch",
+    "title": "AI Engineering from Scratch",
+    "tagline": "Yapay zekâ mühendisliğini sıfırdan, uygulamalı kodlama ile öğreten 485 derslik ücretsiz kurs.",
+    "meta": "★ 20.435 · Python · MIT",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "tags": [
+      "Öğrenme",
+      "Geliştirici aracı"
+    ],
+    "stars": 20435,
+    "image": "/assets/discover/og/ai-engineering-from-scratch.webp"
+  },
+  {
+    "slug": "knowledge-work-plugins",
+    "title": "Knowledge Work Plugins",
+    "tagline": "Claude'u alanında uzman bir asistana dönüştüren açık kaynaklı eklentiler.",
+    "meta": "★ 16.517 · Python · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "tags": [
+      "AI ajan araçları",
+      "Üretkenlik",
+      "Kod bilmeyenler için"
+    ],
+    "stars": 16517,
+    "image": "/assets/discover/og/knowledge-work-plugins.webp"
+  },
+  {
+    "slug": "anthropic-cybersecurity-skills",
+    "title": "Anthropic Cybersecurity Skills",
+    "tagline": "Yapay zekâ ajanları için 754 hazır siber güvenlik becerisi · Anthropic resmi değil.",
+    "meta": "★ 9.924 · Python · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 9924,
+    "image": "/assets/discover/og/anthropic-cybersecurity-skills.webp"
+  },
+  {
+    "slug": "stop-slop",
+    "title": "Stop Slop",
+    "tagline": "Yapay zekâ tarafından üretilen metinlerdeki yapay ifade kalıplarını temizleyen bir beceri.",
+    "meta": "★ 4.876 · Claude Skill · MIT",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "tags": [
+      "AI ajan araçları",
+      "Üretkenlik",
+      "Kod bilmeyenler için"
+    ],
+    "stars": 4876,
+    "image": "/assets/discover/og/stop-slop.webp"
+  },
+  {
+    "slug": "taste-skill",
+    "title": "Taste Skill",
+    "tagline": "Yapay zekânın tasarladığı arayüzlere profesyonel bir estetik dokunuş kazandıran beceri.",
+    "meta": "★ 21.137 · Shell · MIT",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 21137,
+    "image": "/assets/discover/og/taste-skill.webp"
+  },
+  {
+    "slug": "free-domain",
+    "title": "FreeDomain",
+    "tagline": "Web kimliğinizi hiçbir ücret ödemeden kurabileceğiniz ücretsiz alan adları.",
+    "meta": "★ 166.947 · HTML · AGPL-3.0",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "tags": [
+      "Üretkenlik",
+      "Kod bilmeyenler için"
+    ],
+    "stars": 166947,
+    "image": "/assets/discover/og/free-domain.webp"
+  },
+  {
+    "slug": "jellyfin",
+    "title": "Jellyfin",
+    "tagline": "Film, dizi ve müzik koleksiyonunuzu tüm cihazlarınıza taşıyan ücretsiz medya sunucusu.",
+    "meta": "★ 52.316 · C# · GPL-2.0",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "tags": [
+      "Üretkenlik",
+      "Kod bilmeyenler için"
+    ],
+    "stars": 52316,
+    "image": "/assets/discover/og/jellyfin.webp"
+  },
+  {
+    "slug": "awesome-free-apps",
+    "title": "Awesome Free Apps",
+    "tagline": "Bilgisayar ve mobil cihazlar için özenle seçilmiş en iyi ücretsiz uygulamalar.",
+    "meta": "★ 5.121 · Liste · Lisans: belirsiz",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "tags": [
+      "Üretkenlik",
+      "Kod bilmeyenler için"
+    ],
+    "stars": 5121,
+    "image": "/assets/discover/og/awesome-free-apps.webp"
+  },
+  {
+    "slug": "twenty",
+    "title": "Twenty",
+    "tagline": "Salesforce'a açık kaynaklı, yapay zekâ odaklı ve modern bir alternatif.",
+    "meta": "★ 46.735 · TypeScript · Lisans: özel",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "tags": [
+      "Üretkenlik",
+      "Geliştirici aracı"
+    ],
+    "stars": 46735,
+    "image": "/assets/discover/og/twenty.webp"
+  },
+  {
+    "slug": "openstock",
+    "title": "OpenStock",
+    "tagline": "Pahalı borsa platformlarına açık kaynaklı, gerçek zamanlı alternatif.",
+    "meta": "★ 11.968 · TypeScript · AGPL-3.0",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "tags": [
+      "Üretkenlik",
+      "Kod bilmeyenler için"
+    ],
+    "stars": 11968,
+    "image": "/assets/discover/og/openstock.webp"
+  },
+  {
+    "slug": "claude-mem",
+    "title": "claude-mem",
+    "tagline": "AI ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
+    "meta": "★ 78.506 · TypeScript · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "stars": 78506,
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "image": "/assets/discover/og/claude-mem.webp"
+  },
+  {
+    "slug": "ppf-contact-solver",
+    "title": "PPF Contact Solver",
+    "tagline": "Fizik simülasyonları için temas çözücü: Kumaş, katı ve ip etkileşimlerinde ZOZO'nun fizik motoru.",
+    "meta": "★ 3.389 · Python · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-26",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 3389,
+    "image": "/assets/discover/og/ppf-contact-solver.webp"
+  },
+  {
+    "slug": "moneyprinterturbo",
+    "title": "MoneyPrinterTurbo",
+    "tagline": "Bir konu girin, AI tek tuşla altyazılı kısa videolar üretsin.",
+    "meta": "★ 62.104 · Python · MIT",
+    "source": "GitHub",
+    "date": "2026-05-28",
+    "tags": [
+      "Üretkenlik",
+      "AI ajan araçları"
+    ],
+    "stars": 62104,
+    "image": "/assets/discover/og/moneyprinterturbo.webp"
+  },
+  {
+    "slug": "heretic",
+    "title": "Heretic",
+    "tagline": "Dil modellerindeki güvenlik kısıtlarını kaldıran ileri düzey araç.",
+    "meta": "★ 22.018 · Python · AGPL-3.0",
+    "source": "GitHub",
+    "date": "2026-05-28",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 22018,
+    "image": "/assets/discover/og/heretic.webp"
+  },
+  {
+    "slug": "kronos",
+    "title": "Kronos",
+    "tagline": "Finansal piyasaların dilini çözmek için geliştirilmiş açık kaynak temel model.",
+    "meta": "★ 26.888 · Python · MIT",
+    "source": "GitHub",
+    "date": "2026-05-28",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 26888,
+    "image": "/assets/discover/og/kronos.webp"
+  },
+  {
+    "slug": "claude-code-harness",
+    "title": "Claude Code Harness",
+    "tagline": "Claude Code için disiplinli bir 'Planla, Yap, Gözden Geçir' döngüsü.",
+    "meta": "★ 1.838 · Shell · MIT",
+    "source": "GitHub",
+    "date": "2026-05-28",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1838,
+    "image": "/assets/discover/og/claude-code-harness.webp"
+  },
+  {
+    "slug": "superpowers",
+    "title": "Superpowers",
+    "tagline": "Kodlama ajanları için bileşik beceriler ve yazılım geliştirme metodolojisi.",
+    "meta": "★ 209.561 · Shell · MIT",
+    "source": "GitHub",
+    "date": "2026-05-28",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 209561,
+    "image": "/assets/discover/og/superpowers.webp"
+  },
+  {
+    "slug": "english-level-up-tips",
+    "title": "English Level Up Tips",
+    "tagline": "İleri seviye İngilizce için kapsamlı ve sıra dışı bir öğrenme rehberi.",
+    "meta": "★ 46.723 · Rehber · Lisans: yok",
+    "source": "GitHub",
+    "date": "2026-05-28",
+    "tags": [
+      "Öğrenme",
+      "Kod bilmeyenler için"
+    ],
+    "stars": 46723,
+    "image": "/assets/discover/og/english-level-up-tips.webp"
+  },
+  {
+    "slug": "iii",
+    "title": "iii",
+    "tagline": "Tüm servislerinizi gerçek zamanlı kurun, genişletin ve gözlemleyin.",
+    "meta": "★ 16.881 · Rust · Lisans: yok",
+    "source": "GitHub",
+    "date": "2026-05-28",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 16881,
+    "image": "/assets/discover/og/iii.webp"
+  },
+  {
+    "slug": "airi",
+    "title": "AIRI",
+    "tagline": "Kendi sunucunuzda barınan, sesli sohbet edebilen ve oyun oynayabilen AI karakteri.",
+    "meta": "★ 40.222 · TypeScript · MIT",
+    "source": "GitHub",
+    "date": "2026-05-28",
+    "tags": [
+      "AI ajan araçları",
+      "Üretkenlik"
+    ],
+    "stars": 40222,
+    "image": "/assets/discover/og/airi.webp"
+  },
+  {
+    "slug": "markitdown",
+    "title": "MarkItDown",
+    "tagline": "Word, PDF, Excel ve PowerPoint belgelerini AI dostu Markdown formatına çevirir · Microsoft.",
+    "meta": "★ 128.420 · Python · MIT",
+    "source": "GitHub",
+    "date": "2026-05-29",
+    "stars": 128420,
+    "tags": [
+      "Geliştirici aracı",
+      "Üretkenlik"
+    ],
+    "image": "/assets/discover/og/markitdown.webp"
+  },
+  {
+    "slug": "harness",
+    "title": "Harness · Ajan Ekip Fabrikası",
+    "tagline": "Claude Code için alana özel AI ajan ekipleri tasarlayan meta-beceri.",
+    "meta": "★ 4.063 · Claude Code · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-29",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 4063,
+    "image": "/assets/discover/og/harness.webp"
+  },
+  {
+    "slug": "build-your-own-x",
+    "title": "Build Your Own X",
+    "tagline": "Veritabanı, işletim sistemi, Git ve Docker gibi teknolojileri sıfırdan inşa ederek öğrenin.",
+    "meta": "★ 506.894 · Rehber · Lisans: yok",
+    "source": "GitHub",
+    "date": "2026-05-29",
+    "tags": [
+      "Öğrenme",
+      "Geliştirici aracı"
+    ],
+    "stars": 506894,
+    "image": "/assets/discover/og/build-your-own-x.webp"
+  },
+  {
+    "slug": "crawl4ai",
+    "title": "Crawl4AI",
+    "tagline": "LLM dostu açık kaynak web tarayıcı: web verisini yapay zekâ için temiz bilgiye dönüştürün.",
+    "meta": "★ 67.194 · Python · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-29",
+    "tags": [
+      "Geliştirici aracı",
+      "AI ajan araçları"
+    ],
+    "stars": 67194,
+    "image": "/assets/discover/og/crawl4ai.webp"
+  },
+  {
+    "slug": "moss-tts",
+    "title": "MOSS-TTS",
+    "tagline": "Yüksek kaliteli ve açık kaynaklı metin-konuşma (TTS) model ailesi.",
+    "meta": "★ 2.440 · Python · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-29",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 2440,
+    "image": "/assets/discover/og/moss-tts.webp"
+  },
+  {
+    "slug": "compound-engineering-plugin",
+    "title": "Compound Engineering",
+    "tagline": "Her işin bir sonrakini kolaylaştırdığı, AI destekli mühendislik eklentisi (Claude Code/Codex/Cursor).",
+    "meta": "★ 17.931 · TypeScript · MIT",
+    "source": "GitHub",
+    "date": "2026-05-29",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 17931,
+    "image": "/assets/discover/og/compound-engineering-plugin.webp"
+  },
+  {
+    "slug": "anthropic-skills",
+    "title": "Anthropic Skills",
+    "tagline": "Anthropic'in resmi Agent Skills deposu: Claude'un dinamik olarak yüklediği beceri paketleri.",
+    "meta": "★ 143.307 · Python · Lisans: kontrol et",
+    "source": "GitHub",
+    "date": "2026-05-29",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 143307,
+    "image": "/assets/discover/og/anthropic-skills.webp"
+  },
+  {
+    "slug": "claude-code",
+    "title": "Claude Code",
+    "tagline": "Terminalde çalışan ve kod tabanınızı anlayan AI ajan kodlama aracı (Anthropic ürünü).",
+    "meta": "★ 128.283 · Anthropic ürünü · Açık kaynak değil",
+    "source": "GitHub",
+    "date": "2026-05-30",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 128283,
+    "image": "/assets/discover/og/claude-code.webp"
+  },
+  {
+    "slug": "cursor-plugins",
+    "title": "Cursor Plugins",
+    "tagline": "Cursor kod editörü için resmi eklenti spesifikasyonu ve hazır eklentiler.",
+    "meta": "★ 1.403 · TypeScript · Lisans: kontrol et",
+    "source": "GitHub",
+    "date": "2026-05-30",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1403,
+    "image": "/assets/discover/og/cursor-plugins.webp"
+  },
+  {
+    "slug": "voxcpm",
+    "title": "VoxCPM",
+    "tagline": "Belirteçsiz (tokenizer-free) çok dilli TTS: ses tasarımı ve ses kopyalama çözümü.",
+    "meta": "★ 22.648 · Python · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-30",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 22648,
+    "image": "/assets/discover/og/voxcpm.webp"
+  },
+  {
+    "slug": "stable-worldmodel",
+    "title": "stable-worldmodel",
+    "tagline": "Dünya modeli (world model) araştırmaları için tekrarlanabilir bir platform.",
+    "meta": "★ 1.403 · Python · Lisans: kontrol et",
+    "source": "GitHub",
+    "date": "2026-05-30",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1403,
+    "image": "/assets/discover/og/stable-worldmodel.webp"
+  },
+  {
+    "slug": "project-nomad",
+    "title": "Project N.O.M.A.D",
+    "tagline": "İnternetsiz çalışan, kritik araçlar ve bilgiyle donatılmış çevrimdışı hayatta kalma bilgisayarı.",
+    "meta": "★ 27.228 · TypeScript · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-30",
+    "tags": [
+      "Üretkenlik",
+      "Kod bilmeyenler için"
+    ],
+    "stars": 27228,
+    "image": "/assets/discover/og/project-nomad.webp"
+  },
+  {
+    "slug": "liteparse",
+    "title": "Liteparse",
+    "tagline": "Rust ile geliştirilmiş hızlı ve açık kaynak belge ayrıştırıcı (document parser).",
+    "meta": "★ 7.781 · Rust · Apache-2.0",
+    "source": "GitHub",
+    "date": "2026-05-30",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 7781,
+    "image": "/assets/discover/og/liteparse.webp"
+  },
+  {
+    "slug": "flclash",
+    "title": "FlClash",
+    "tagline": "ClashMeta tabanlı, çok platformlu, reklamsız ve açık kaynak proxy istemcisi.",
+    "meta": "★ 40.313 · Dart · GPL-3.0",
+    "source": "GitHub",
+    "date": "2026-05-30",
+    "tags": [
+      "Üretkenlik",
+      "Kod bilmeyenler için"
+    ],
+    "stars": 40313,
+    "image": "/assets/discover/og/flclash.webp"
+  },
+  {
+    "slug": "train-llm-from-scratch",
+    "title": "Train LLM from Scratch",
+    "tagline": "Veri setinden metin üretimine, bir LLM'i sıfırdan eğitmek için kapsamlı rehber.",
+    "meta": "★ 2.086 · Jupyter Notebook · MIT",
+    "source": "GitHub",
+    "date": "2026-05-30",
+    "tags": [
+      "Öğrenme",
+      "Geliştirici aracı"
+    ],
+    "stars": 2086,
+    "image": "/assets/discover/og/train-llm-from-scratch.webp"
+  },
+  {
+    "slug": "ruview",
+    "title": "RuView",
+    "tagline": "Sıradan WiFi sinyallerini kamera olmadan gerçek zamanlı mekânsal zekâya dönüştürün.",
+    "meta": "★ 68.643 · Rust · MIT",
+    "source": "GitHub",
+    "date": "2026-05-30",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 68643,
+    "image": "/assets/discover/og/ruview.webp"
+  },
+  {
+    "slug": "data-engineering-zoomcamp",
+    "title": "Data Engineering Zoomcamp",
+    "tagline": "Üretime hazır veri hatları kurmayı öğreten 9 haftalık ücretsiz eğitim programı.",
+    "meta": "★ 41.734 · Kurs · Lisans: kontrol et",
+    "source": "GitHub",
+    "date": "2026-05-30",
+    "tags": [
+      "Öğrenme",
+      "Geliştirici aracı"
+    ],
+    "stars": 41734,
+    "image": "/assets/discover/og/data-engineering-zoomcamp.webp"
+  },
+  {
+    "slug": "social-auto-upload",
+    "title": "social-auto-upload",
+    "tagline": "Videolarınızı TikTok, YouTube ve Bilibili gibi platformlara otomatik olarak yükleyin.",
+    "meta": "★ 11.705 · Python · Lisans: yok",
+    "source": "GitHub",
+    "date": "2026-05-30",
+    "tags": [
+      "Üretkenlik"
+    ],
+    "stars": 11705,
+    "image": "/assets/discover/og/social-auto-upload.webp"
+  },
+  {
+    "slug": "scrapling",
+    "title": "Scrapling",
+    "tagline": "Tekil isteklerden kapsamlı taramalara kadar uyarlanabilir web kazıma çerçevesi.",
+    "meta": "★ 57.333 · Python · BSD-3-Clause",
+    "source": "GitHub",
+    "date": "2026-06-01",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 57333,
+    "image": "/assets/discover/og/scrapling.webp"
+  },
+  {
+    "slug": "hermes-webui",
+    "title": "Hermes WebUI",
+    "tagline": "Hermes AI ajanlarınızı web tarayıcısı veya mobil cihazınızdan kolayca yönetin.",
+    "meta": "★ 10.353 · Python · MIT",
+    "source": "GitHub",
+    "date": "2026-06-01",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 10353,
+    "image": "/assets/discover/og/hermes-webui.webp"
+  },
+  {
+    "slug": "github-docs",
+    "title": "GitHub Docs",
+    "tagline": "GitHub'ın resmi dokümantasyonuna ait açık kaynak deposu.",
+    "meta": "★ 19.817 · TypeScript · CC-BY-4.0",
+    "source": "GitHub",
+    "date": "2026-06-01",
+    "tags": [
+      "Geliştirici aracı",
+      "Öğrenme"
+    ],
+    "stars": 19817,
+    "image": "/assets/discover/og/github-docs.webp"
+  },
+  {
+    "slug": "supermemory",
+    "title": "Supermemory",
+    "tagline": "Yapay zekâ çağı için tasarlanmış ölçeklenebilir bellek motoru ve API.",
+    "meta": "★ 23.582 · TypeScript · MIT",
+    "source": "GitHub",
+    "date": "2026-06-01",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 23582,
+    "image": "/assets/discover/og/supermemory.webp"
+  },
+  {
+    "slug": "babysitter",
+    "title": "Babysitter",
+    "tagline": "AI ajan iş gücünü hatasız yönetmek için deterministik denetim mekanizması.",
+    "meta": "★ 1.101 · JavaScript · MIT",
+    "source": "GitHub",
+    "date": "2026-06-01",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1101,
+    "image": "/assets/discover/og/babysitter.webp"
+  },
+  {
+    "slug": "pi-subagents",
+    "title": "Pi Subagents",
+    "tagline": "Pi platformunda asenkron alt-ajan delegasyonu için TypeScript kütüphanesi.",
+    "meta": "★ 1.951 · TypeScript · Lisans: yok",
+    "source": "GitHub",
+    "date": "2026-06-01",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1951,
+    "image": "/assets/discover/og/pi-subagents.webp"
+  },
+  {
+    "slug": "developer-portfolios",
+    "title": "Developer Portfolios",
+    "tagline": "Kendi siteniz için ilham alabileceğiniz geliştirici portfolyo örnekleri koleksiyonu.",
+    "meta": "★ 23.623 · Koleksiyon · Lisans: yok",
+    "source": "GitHub",
+    "date": "2026-06-01",
+    "tags": [
+      "Öğrenme",
+      "Kod bilmeyenler için"
+    ],
+    "stars": 23623,
+    "image": "/assets/discover/og/developer-portfolios.webp"
+  },
+  {
+    "slug": "impeccable",
+    "title": "Impeccable",
+    "tagline": "Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilmiş bir tasarım dili (design language)…",
+    "meta": "★ 33.104",
+    "image": "/assets/discover/og/impeccable.webp",
+    "source": "GitHub",
+    "date": "2026-06-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 33104,
+    "lite": false
+  },
+  {
+    "slug": "tradingagents",
+    "title": "TradingAgents",
+    "tagline": "TradingAgents, finansal piyasalarda işlem yapmak amacıyla geliştirilen çoklu ajanlı büyük dil modeli (multi-agent LLM) tabanlı…",
+    "meta": "★ 82.054",
+    "image": "/assets/discover/og/tradingagents.webp",
+    "source": "GitHub",
+    "date": "2026-06-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 82054,
+    "lite": false
+  },
+  {
+    "slug": "godot",
+    "title": "Godot",
+    "tagline": "Godot Motoru (Godot Engine), iki ve üç boyutlu oyun geliştirme süreçleri için kullanılan açık kaynaklı bir oyun motorudur.",
+    "meta": "★ 111.819",
+    "image": "/assets/discover/og/godot.webp",
+    "source": "GitHub",
+    "date": "2026-06-02",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 111819,
+    "lite": false,
+    "shot": {
+      "src": "/assets/discover/godot.webp",
+      "w": 1280,
+      "h": 720,
+      "alt": "Godot editöründe üçüncü şahıs demo sahnesinden bir görünüm",
+      "credit": "Görsel: Godot Engine (godot-design) · CC-BY-4.0"
+    },
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install --cask godot"
+        },
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install GodotEngine.GodotEngine"
+        }
+      ],
+      "kaynak": "Homebrew · winget (resmî paket yöneticileri) · veya godotengine.org'dan indirin"
+    }
+  },
+  {
+    "slug": "oh-my-pi",
+    "title": "Oh My Pi",
+    "tagline": "Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding…",
+    "meta": "★ 9.701",
+    "image": "/assets/discover/og/oh-my-pi.webp",
+    "source": "GitHub",
+    "date": "2026-06-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 9701,
+    "lite": false
+  },
+  {
+    "slug": "machine-learning-for-trading",
+    "title": "Machine Learning for Trading",
+    "tagline": "Stefan Jansen tarafından hazırlanan bu kaynak, algoritmik ticarette makine öğrenimi (machine learning) uygulamaları için…",
+    "meta": "★ 18.065",
+    "image": "/assets/discover/og/machine-learning-for-trading.webp",
+    "source": "GitHub",
+    "date": "2026-06-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 18065,
+    "lite": false,
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "conda ile (macOS · Linux · Windows)",
+          "komut": "git clone https://github.com/stefan-jansen/machine-learning-for-trading.git\ncd machine-learning-for-trading\nconda env create -f installation/ml4t-base.yml\nconda activate ml4t"
+        }
+      ],
+      "kaynak": "Resmî kurulum dokümanı (depo installation/ klasörü)"
+    }
+  },
+  {
+    "slug": "fff",
+    "title": "FFF",
+    "tagline": "Rust ile geliştirilen fff, yapay zekâ ajanları ve metin düzenleyiciler için dosya arama işlemlerini yüksek hız ve doğrulukla…",
+    "meta": "★ 7.319",
+    "image": "/assets/discover/og/fff.webp",
+    "source": "GitHub",
+    "date": "2026-06-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7319,
+    "lite": false
+  },
+  {
+    "slug": "headroom",
+    "title": "Headroom",
+    "tagline": "Headroom, büyük dil modellerine (LLM) gönderilen günlük dosyalarını, araç çıktılarını ve bağlamsal veri parçalarını (RAG…",
+    "meta": "★ 7.746",
+    "image": "/assets/discover/og/headroom.webp",
+    "source": "GitHub",
+    "date": "2026-06-03",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7746,
+    "lite": false
+  },
+  {
+    "slug": "flowsint",
+    "title": "Flowsint",
+    "tagline": "Flowsint, siber güvenlik analistleri ve araştırmacılar için görsel, esnek ve genişletilebilir çizge tabanlı inceleme…",
+    "meta": "★ 4.693",
+    "image": "/assets/discover/og/flowsint.webp",
+    "source": "GitHub",
+    "date": "2026-06-03",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 4693,
+    "lite": false
+  },
+  {
+    "slug": "production-agentic-rag-course",
+    "title": "Production Agentic RAG Course",
+    "tagline": "Production-agentic-rag-course, karmaşık veri kaynaklarından bilgi getirme süreçlerini otomatize eden ajan tabanlı getirme…",
+    "meta": "★ 6.536",
+    "image": "/assets/discover/og/production-agentic-rag-course.webp",
+    "source": "GitHub",
+    "date": "2026-06-03",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 6536,
+    "lite": false
+  },
+  {
+    "slug": "open-llm-vtuber",
+    "title": "Open-LLM-VTuber",
+    "tagline": "Open-LLM-VTuber, büyük dil modelleriyle (large language models) eller serbest sesli etkileşim kurulmasını ve canlı iki boyutlu…",
+    "meta": "★ 8.629",
+    "image": "/assets/discover/og/open-llm-vtuber.webp",
+    "source": "GitHub",
+    "date": "2026-06-03",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 8629,
+    "lite": false,
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "uv ile (önerilen)",
+          "komut": "git clone https://github.com/Open-LLM-VTuber/Open-LLM-VTuber --recursive\ncd Open-LLM-VTuber\nuv sync"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Çalıştır",
+          "komut": "uv run run_server.py"
+        }
+      ],
+      "kaynak": "Resmî dokümantasyon (docs.llmvtuber.com)"
+    }
+  },
+  {
+    "slug": "trivy",
+    "title": "Trivy",
+    "tagline": "Trivy, konteynerler, Kubernetes kümeleri ve bulut altyapılarındaki güvenlik açıklarını, hatalı yapılandırmaları ve gizli…",
+    "meta": "★ 35.511 · Go",
+    "image": "/assets/discover/og/trivy.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 35511,
+    "lite": false
+  },
+  {
+    "slug": "hermes-agent",
+    "title": "Hermes Agent",
+    "tagline": "NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom ajan…",
+    "meta": "★ 179.808 · Python",
+    "image": "/assets/discover/og/hermes-agent.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 179808,
+    "lite": false
+  },
+  {
+    "slug": "opendataloader-pdf",
+    "title": "Opendataloader PDF",
+    "tagline": "OpenDataLoader PDF, yapay zekâ modelleri için veriyi hazır hale getiren açık kaynaklı bir PDF ayrıştırıcıdır (PDF parser).",
+    "meta": "★ 23.530 · Java",
+    "image": "/assets/discover/og/opendataloader-pdf.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 23530,
+    "lite": false
+  },
+  {
+    "slug": "odoo",
+    "title": "Odoo",
+    "tagline": "Odoo, işletmelerin tüm operasyonel süreçlerini tek bir çatı altında yönetmelerini sağlayan açık kaynaklı bir kurumsal kaynak…",
+    "meta": "★ 52.082",
+    "image": "/assets/discover/og/odoo.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 52082,
+    "lite": false
+  },
+  {
+    "slug": "coding-interview-university",
+    "title": "Coding Interview University",
+    "tagline": "Coding-interview-university, yazılım mühendisi olmak isteyenler için bilgisayar bilimleri (computer science) temellerini…",
+    "meta": "★ 349.290",
+    "image": "/assets/discover/og/coding-interview-university.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 349290,
+    "lite": false
+  },
+  {
+    "slug": "airllm",
+    "title": "Airllm",
+    "tagline": "AirLLM, 70 milyar parametreli büyük dil modellerinin (large language models) yalnızca 4 GB video belleğine (VRAM) sahip grafik…",
+    "meta": "★ 19.113 · Jupyter Notebook",
+    "image": "/assets/discover/og/airllm.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 19113,
+    "lite": false
+  },
+  {
+    "slug": "vibe-trading",
+    "title": "Vibe-Trading",
+    "tagline": "Vibe-Trading, finansal piyasalarda işlem yapmak amacıyla geliştirilmiş kişisel bir alım satım ajanı (trading agent) sunuyor.",
+    "meta": "★ 10.343 · Python",
+    "image": "/assets/discover/og/vibe-trading.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 10343,
+    "lite": false
+  }
+]

@@ -1,0 +1,555 @@
+[
+  {
+    "slug": "rag",
+    "en": "RAG",
+    "full": "Retrieval-Augmented Generation",
+    "cat": "ai",
+    "kisa": "Yapay zekanın güncel ve özel verilerinizden bilgi alarak cevap üretmesini sağlayan bir yöntemdir."
+  },
+  {
+    "slug": "fine-tuning",
+    "en": "Fine-tuning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Hazır bir yapay zeka modelini belirli bir görev veya uzmanlık alanı için özel olarak eğitme sürecidir."
+  },
+  {
+    "slug": "llm",
+    "en": "LLM",
+    "full": "Large Language Model",
+    "cat": "ai",
+    "kisa": "İnsan dilini anlayan, analiz eden ve metin üretebilen devasa yapay zeka modelleridir."
+  },
+  {
+    "slug": "slm",
+    "en": "SLM",
+    "full": "Small Language Model",
+    "cat": "ai",
+    "kisa": "Daha az veriyle eğitilmiş, hızlı çalışan ve düşük donanımlarda bile verimli sonuç veren küçük yapay zeka modelleridir."
+  },
+  {
+    "slug": "foundation-model",
+    "en": "Foundation Model",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Birçok farklı uygulama için temel oluşturan, geniş kapsamlı eğitilmiş ana yapay zeka modelleridir."
+  },
+  {
+    "slug": "generative-ai",
+    "en": "Generative AI",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yeni içerik, metin, görsel veya ses üretebilen yapay zeka teknolojilerinin genel adıdır."
+  },
+  {
+    "slug": "multimodal",
+    "en": "Multimodal",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Metin, ses, görsel ve video gibi farklı veri türlerini aynı anda işleyebilen yapay zeka yeteneğidir."
+  },
+  {
+    "slug": "embedding",
+    "en": "Embedding",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kelime veya verilerin yapay zeka tarafından anlaşılabilmesi için sayısal dizilere dönüştürülmesidir."
+  },
+  {
+    "slug": "vector-database",
+    "en": "Vector Database",
+    "full": "",
+    "cat": "data",
+    "kisa": "Yapay zekanın verileri anlamlarına göre hızlıca bulabilmesi için saklandığı özel bir veritabanı türüdür."
+  },
+  {
+    "slug": "transformer",
+    "en": "Transformer",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Modern yapay zeka modellerinin temelini oluşturan güçlü bir mimari yapıdır."
+  },
+  {
+    "slug": "diffusion-model",
+    "en": "Diffusion Model",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Gürültülü veriden temiz ve anlamlı görseller üreten bir yapay zeka yöntemidir."
+  },
+  {
+    "slug": "rlhf",
+    "en": "RLHF",
+    "full": "Reinforcement Learning from Human Feedback",
+    "cat": "ai",
+    "kisa": "Yapay zekayı insan geri bildirimleriyle eğiten bir iyileştirme sürecidir."
+  },
+  {
+    "slug": "quantization",
+    "en": "Quantization",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zeka modellerini daha hafif ve hızlı hale getirmek için yapılan boyut küçültme işlemidir."
+  },
+  {
+    "slug": "prompt-engineering",
+    "en": "Prompt Engineering",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekadan en iyi sonucu almak için verilen komutları optimize etme sanatıdır."
+  },
+  {
+    "slug": "hallucination",
+    "en": "Hallucination",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın gerçekte olmayan bilgileri sanki doğruymuş gibi sunmasıdır."
+  },
+  {
+    "slug": "token",
+    "en": "Token",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın metinleri işlemek için kullandığı en küçük anlam birimidir."
+  },
+  {
+    "slug": "inference",
+    "en": "Inference",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Eğitilmiş bir yapay zeka modelinin yeni veriler üzerinde tahmin yürütme sürecidir."
+  },
+  {
+    "slug": "context-window",
+    "en": "Context Window",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın tek seferde hatırlayabildiği ve işleyebildiği bilgi kapasitesidir."
+  },
+  {
+    "slug": "ai-agent",
+    "en": "AI Agent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kendi başına karar verip görevleri yerine getiren otonom yapay zeka sistemidir."
+  },
+  {
+    "slug": "agentic-ai",
+    "en": "Agentic AI",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın sadece metin üretmek yerine hedeflere ulaşmak için inisiyatif almasıdır."
+  },
+  {
+    "slug": "mcp",
+    "en": "MCP",
+    "full": "Model Context Protocol",
+    "cat": "ai",
+    "kisa": "Yapay zeka modellerinin dış dünyadaki verilerle güvenli şekilde konuşmasını sağlayan standarttır."
+  },
+  {
+    "slug": "nlp",
+    "en": "NLP",
+    "full": "Natural Language Processing",
+    "cat": "ai",
+    "kisa": "Bilgisayarların insan dilini anlama ve işleme yeteneğidir."
+  },
+  {
+    "slug": "open-weights",
+    "en": "Open Weights",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zeka modelinin eğitilmiş iç parametrelerinin herkesle paylaşılmasıdır."
+  },
+  {
+    "slug": "distillation",
+    "en": "Distillation",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Büyük ve karmaşık bir yapay zeka modelinin bilgisini daha küçük bir modele aktarma sürecidir."
+  },
+  {
+    "slug": "tokenizer",
+    "en": "Tokenizer",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Metinleri yapay zekanın anlayabileceği küçük sayısal parçalara bölen araçtır."
+  },
+  {
+    "slug": "text-to-speech",
+    "en": "Text-to-Speech",
+    "full": "TTS",
+    "cat": "ai",
+    "kisa": "Yazılı metinlerin yapay zeka tarafından insan sesiyle seslendirilmesidir."
+  },
+  {
+    "slug": "voice-cloning",
+    "en": "Voice Cloning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Belirli bir kişinin sesini taklit ederek yeni cümleler kuran yapay zeka teknolojisidir."
+  },
+  {
+    "slug": "speech-synthesis",
+    "en": "Speech Synthesis",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın yazılı metinleri insan sesine dönüştürme teknolojisidir."
+  },
+  {
+    "slug": "world-model",
+    "en": "World Model",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın fiziksel dünyanın nasıl işlediğini anlamasını sağlayan sistemdir."
+  },
+  {
+    "slug": "knowledge-graph",
+    "en": "Knowledge Graph",
+    "full": "",
+    "cat": "data",
+    "kisa": "Veriler ve kavramlar arasındaki ilişkileri birbirine bağlayan yapılandırılmış bir bilgi ağıdır."
+  },
+  {
+    "slug": "agi",
+    "en": "AGI",
+    "full": "Artificial General Intelligence",
+    "cat": "ai",
+    "kisa": "İnsan seviyesinde veya üzerinde zeka sergileyen yapay zeka hedefidir."
+  },
+  {
+    "slug": "few-shot-learning",
+    "en": "Few-shot Learning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın çok az örnekle yeni bir görevi öğrenme yeteneğidir."
+  },
+  {
+    "slug": "zero-shot-learning",
+    "en": "Zero-shot Learning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın hiç eğitim almadığı bir konuyu tahmin etme yeteneğidir."
+  },
+  {
+    "slug": "temperature",
+    "en": "Temperature",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın ürettiği cevapların yaratıcılık seviyesini belirleyen ayardır."
+  },
+  {
+    "slug": "digital-twin",
+    "en": "Digital Twin",
+    "full": "",
+    "cat": "data",
+    "kisa": "Fiziksel bir nesnenin veya sistemin dijital kopyasıdır."
+  },
+  {
+    "slug": "observability",
+    "en": "Observability",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir sistemin iç durumunu dışarıdan gelen verilerle izleme yeteneğidir."
+  },
+  {
+    "slug": "state-management",
+    "en": "State Management",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın o anki durumunu ve verilerini takip etme yöntemidir."
+  },
+  {
+    "slug": "compound-engineering",
+    "en": "Compound Engineering",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Her mühendislik adımının bir sonrakini kolaylaştıracak şekilde biriktiği, yapay zekâ destekli bir çalışma yaklaşımıdır."
+  },
+  {
+    "slug": "api",
+    "en": "API",
+    "full": "Application Programming Interface",
+    "cat": "dev",
+    "kisa": "İki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprüdür."
+  },
+  {
+    "slug": "cli",
+    "en": "CLI",
+    "full": "Command Line Interface",
+    "cat": "dev",
+    "kisa": "Bilgisayara komutları yazılı metinler ile verme yöntemidir."
+  },
+  {
+    "slug": "data-pipeline",
+    "en": "Data Pipeline",
+    "full": "",
+    "cat": "data",
+    "kisa": "Verilerin bir yerden alınıp işlenerek başka bir yere taşınması sürecidir."
+  },
+  {
+    "slug": "document-parsing",
+    "en": "Document Parsing",
+    "full": "",
+    "cat": "data",
+    "kisa": "Karmaşık belgelerdeki verilerin bilgisayarın anlayacağı formata dönüştürülmesidir."
+  },
+  {
+    "slug": "prediction-market",
+    "en": "Prediction Market",
+    "full": "",
+    "cat": "data",
+    "kisa": "Gelecekteki olayların sonuçlarını tahmin etmek için oluşturulan pazar yeridir."
+  },
+  {
+    "slug": "zero-day",
+    "en": "Zero-day Exploit",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Henüz çözümü bulunmamış, yeni keşfedilen güvenlik açığıdır."
+  },
+  {
+    "slug": "open-source",
+    "en": "Open Source",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kaynak kodları herkesin erişimine ve geliştirmesine açık olan yazılımlardır."
+  },
+  {
+    "slug": "self-hosting",
+    "en": "Self-hosting",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımları kendi sunucularınızda veya bilgisayarlarınızda barındırma yöntemidir."
+  },
+  {
+    "slug": "artificial-intelligence",
+    "en": "Artificial Intelligence",
+    "full": "AI · Yapay Zekâ",
+    "cat": "ai",
+    "kisa": "İnsan zekâsını taklit ederek öğrenme, mantık yürütme ve problem çözme yeteneğine sahip bilgisayar sistemleri."
+  },
+  {
+    "slug": "markdown",
+    "en": "Markdown",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Metinleri biçimlendirmek için kullanılan, basit işaretlerle yazı yazmayı sağlayan hafif bir biçimlendirme dili."
+  },
+  {
+    "slug": "web-scraping",
+    "en": "Web Scraping",
+    "full": "Web Kazıma",
+    "cat": "data",
+    "kisa": "İnternet sitelerindeki verileri otomatik yöntemlerle toplayıp kaydeden yazılım süreci."
+  },
+  {
+    "slug": "ai-skills",
+    "en": "AI Skills",
+    "full": "Skills",
+    "cat": "ai",
+    "kisa": "Yapay zekâ modellerinin belirli bir görevi yerine getirmek için kullandığı özel yetenekler veya araçlar."
+  },
+  {
+    "slug": "meta-skill",
+    "en": "Meta-skill",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yeni beceriler öğrenmeyi veya mevcut becerileri daha verimli kullanmayı sağlayan üst düzey yetenek."
+  },
+  {
+    "slug": "memory-engine",
+    "en": "Memory Engine",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın geçmiş etkileşimleri hatırlamasını ve bu bilgileri kullanarak daha tutarlı yanıtlar vermesini sağlayan sistem."
+  },
+  {
+    "slug": "memory-api",
+    "en": "Memory API",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımların yapay zekâ hafızasına veri eklemesini veya mevcut bilgileri sorgulamasını sağlayan bağlantı noktası."
+  },
+  {
+    "slug": "self-orchestration",
+    "en": "Self-orchestration",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın karmaşık görevleri kendi başına planlaması ve gerekli adımları sırasıyla yönetmesi."
+  },
+  {
+    "slug": "tokenizer-free",
+    "en": "Tokenizer-free",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Metinleri küçük parçalara ayırmadan, doğrudan ham veri üzerinden işlem yapan yapay zekâ mimarisi."
+  },
+  {
+    "slug": "offline",
+    "en": "Offline",
+    "full": "Çevrimdışı",
+    "cat": "dev",
+    "kisa": "İnternet bağlantısına ihtiyaç duymadan, cihazın kendi kaynaklarıyla çalışan sistem."
+  },
+  {
+    "slug": "agentic-coding-tool",
+    "en": "Agentic Coding Tool",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım geliştirme süreçlerinde sadece kod yazmakla kalmayıp, hataları ayıklayan ve proje akışını yöneten otonom yapay zeka yardımcılarıdır."
+  },
+  {
+    "slug": "design-language",
+    "en": "Design Language",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir ürünün görsel dünyasını ve kullanıcı deneyimini tutarlı kılan kurallar bütünüdür."
+  },
+  {
+    "slug": "multi-agent-llm",
+    "en": "Multi-agent LLM",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Birden fazla yapay zekâ modelinin iş birliği yaparak karmaşık görevleri çözdüğü bir çalışma sistemidir."
+  },
+  {
+    "slug": "godot-engine",
+    "en": "Godot Engine",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Oyun geliştirmek için kullanılan, tamamen ücretsiz ve açık kaynaklı bir yazılım platformudur."
+  },
+  {
+    "slug": "lsp",
+    "en": "LSP",
+    "full": "Language Server Protocol",
+    "cat": "dev",
+    "kisa": "Kod yazarken editörünüze akıllı özellikler kazandıran standart bir iletişim protokolüdür."
+  },
+  {
+    "slug": "rag-chunks",
+    "en": "RAG Chunks",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Uzun belgelerin yapay zekânın daha kolay anlaması için küçük parçalara bölünmüş halidir."
+  },
+  {
+    "slug": "proxy",
+    "en": "Proxy",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternet üzerindeki işlemlerinizi sizin yerinize yapan bir aracı sunucudur."
+  },
+  {
+    "slug": "machine-learning",
+    "en": "Machine Learning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bilgisayarların verilerden ders çıkararak kendi kendine öğrenmesini sağlayan teknolojidir."
+  },
+  {
+    "slug": "jupyter-notebooks",
+    "en": "Jupyter Notebooks",
+    "full": "",
+    "cat": "data",
+    "kisa": "Kod yazarken notlar alabileceğiniz ve sonuçları anında görebileceğiniz etkileşimli bir çalışma ortamıdır."
+  },
+  {
+    "slug": "instincts",
+    "en": "Instincts",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın eğitim sürecinde öğrendiği kalıpları kullanarak, düşünmeden verdiği hızlı ve otomatik tepkilerdir."
+  },
+  {
+    "slug": "memory",
+    "en": "Memory",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın geçmiş etkileşimleri saklayarak, gelecekteki cevaplarını bu bilgilere göre kişiselleştirme yeteneğidir."
+  },
+  {
+    "slug": "web-interface",
+    "en": "Web Interface",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Karmaşık yazılımları veya yapay zekâ modellerini internet tarayıcınız üzerinden kolayca yönetmenizi sağlayan görsel arayüzdür."
+  },
+  {
+    "slug": "graph-based-investigation",
+    "en": "Graph-based Investigation",
+    "full": "",
+    "cat": "data",
+    "kisa": "Veriler arasındaki ilişkileri bir ağ haritası üzerinde görselleştirerek, gizli bağlantıları keşfetme yöntemidir."
+  },
+  {
+    "slug": "algorithmic-trading",
+    "en": "Algorithmic Trading",
+    "full": "",
+    "cat": "data",
+    "kisa": "Borsa ve finansal piyasalardaki alım-satım işlemlerinin, önceden belirlenmiş kurallar çerçevesinde yazılımlar tarafından otomatik yapılmasıdır."
+  },
+  {
+    "slug": "hermes-agent",
+    "en": "Hermes Agent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kullanıcı adına otonom kararlar alabilen ve belirli görevleri uçtan uca tamamlayan özel bir yapay zeka birimidir."
+  },
+  {
+    "slug": "ai-coding-agent",
+    "en": "AI Coding Agent",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım geliştirme sürecinde kod yazan, hata ayıklayan ve proje mimarisine katkıda bulunan yapay zeka tabanlı asistandır."
+  },
+  {
+    "slug": "secrets",
+    "en": "Secrets",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım uygulamalarının güvenli bir şekilde çalışması için ihtiyaç duyduğu şifreler, API anahtarları ve erişim kodlarıdır."
+  },
+  {
+    "slug": "sbom",
+    "en": "SBOM",
+    "full": "Software Bill of Materials",
+    "cat": "dev",
+    "kisa": "Bir yazılımın içinde kullanılan tüm açık kaynaklı kütüphanelerin ve bileşenlerin listelendiği bir envanter belgesidir."
+  },
+  {
+    "slug": "autonomous-agent",
+    "en": "Autonomous Agent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnsan müdahalesi olmadan kendi başına hedefler belirleyip bu hedeflere ulaşmak için gerekli adımları atan yazılımdır."
+  },
+  {
+    "slug": "continuous-learning",
+    "en": "Continuous Learning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir yapay zeka sisteminin yeni verilerle karşılaştıkça bilgilerini unutmadan sürekli güncelleyerek gelişmesi sürecidir."
+  },
+  {
+    "slug": "pdf-parser",
+    "en": "PDF Parser",
+    "full": "",
+    "cat": "data",
+    "kisa": "PDF dosyalarındaki karmaşık verileri okuyup bilgisayarın işleyebileceği düzenli bir formata dönüştüren araçtır."
+  },
+  {
+    "slug": "enterprise-resource-planning",
+    "en": "Enterprise Resource Planning",
+    "full": "ERP",
+    "cat": "dev",
+    "kisa": "Bir şirketin muhasebe, stok, insan kaynakları gibi tüm iş süreçlerini tek bir merkezden yönetmesini sağlayan yazılım sistemidir."
+  },
+  {
+    "slug": "live2d",
+    "en": "Live2D",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İki boyutlu çizimleri üç boyutluymuş gibi hareket ettirerek karakterlere canlılık kazandıran bir teknolojidir."
+  }
+]

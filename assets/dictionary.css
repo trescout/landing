@@ -1,0 +1,89 @@
+/* TreScout · Sözlük · site.css + discover.css (disc-* + form) üzerine biner.
+ * Terim sayfaları disc-* sınıflarını yeniden kullanır; burada yalnız sözlüğe özel parçalar. */
+
+/* terim sayfası · üst tarih damgası */
+.dict-time {
+  font-size: 12.5px; color: var(--ink-muted); white-space: nowrap;
+  background: rgba(95, 168, 211, .08); border: 1px solid rgba(95, 168, 211, .18);
+  padding: 4px 11px; border-radius: 999px;
+}
+/* İngilizce açılım (h1 altı) */
+.dict-en {
+  margin: 10px 0 0; font-size: 16px; color: var(--brand-light);
+  font-family: 'SF Mono', ui-monospace, Menlo, Consolas, monospace; letter-spacing: .01em;
+}
+/* ilgili terimler · knowledge graph iç-linkleri */
+.dict-related { display: flex; flex-wrap: wrap; gap: 9px; }
+.dict-related a {
+  font-size: 14px; font-weight: 600; color: var(--brand-light);
+  background: rgba(95, 168, 211, .1); border: 1px solid rgba(95, 168, 211, .22);
+  padding: 7px 15px; border-radius: 999px; text-decoration: none;
+  transition: color .15s, background .15s, border-color .15s;
+}
+.dict-related a:hover { color: #15202B; background: var(--accent); border-color: var(--accent); }
+
+/* ders-gibi parçalar · analoji callout + SSS */
+.dict-analogy {
+  margin: 18px 0; padding: 16px 18px; border-radius: 0 12px 12px 0;
+  background: rgba(95, 168, 211, .08); border-left: 4px solid var(--brand-light);
+  font-size: 16.5px; line-height: 1.65; color: var(--ink);
+}
+.dict-faq { display: flex; flex-direction: column; gap: 14px; }
+.dict-faq-item {
+  padding: 14px 16px; background: var(--bg-elevated);
+  border: 1px solid rgba(95, 168, 211, .14); border-radius: 12px;
+}
+.dict-faq-q { margin: 0 0 6px; font-size: 16px; font-weight: 700; color: #fff; line-height: 1.4; }
+.dict-faq-a { margin: 0; font-size: 15.5px; line-height: 1.65; color: var(--ink-muted); }
+
+/* ── Sözlük index ── */
+.dict-index-hero { max-width: 760px; margin: 0 auto; padding: 48px 0 8px; text-align: center; }
+.dict-index-hero .disc-eyebrow { display: block; margin-bottom: 12px; }
+.dict-index-title {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(34px, 6vw, 54px); line-height: 1.08; font-weight: 700;
+  letter-spacing: -.02em; color: #fff;
+}
+.dict-index-lead { margin: 16px auto 0; max-width: 60ch; font-size: 18px; line-height: 1.6; color: var(--ink-muted); }
+.dict-index-lead strong { color: var(--ink); }
+
+.dict-controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-top: 32px; }
+.dict-search {
+  flex: 1; min-width: 200px; font: inherit; font-size: 15px; color: var(--ink);
+  background: var(--bg-elevated); border: 1px solid rgba(95, 168, 211, .2);
+  border-radius: 10px; padding: 11px 14px;
+}
+.dict-search::placeholder { color: var(--ink-muted); }
+.dict-search:focus { outline: none; border-color: var(--brand-light); }
+.dict-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+.dict-chip {
+  font: inherit; font-size: 13px; font-weight: 600; color: var(--ink-muted);
+  background: transparent; border: 1px solid rgba(95, 168, 211, .22);
+  padding: 6px 14px; border-radius: 999px; cursor: pointer;
+  transition: color .15s, background .15s, border-color .15s;
+}
+.dict-chip:hover { color: var(--ink); border-color: var(--brand-light); }
+.dict-chip-active { color: #15202B; background: var(--accent); border-color: var(--accent); }
+.dict-count { margin-top: 16px; font-size: 13px; color: var(--ink-muted); }
+
+.dict-grid {
+  margin: 20px 0 0; display: grid; gap: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+.dict-card {
+  display: block; padding: 18px 20px; text-decoration: none;
+  background: var(--bg-elevated); border: 1px solid rgba(95, 168, 211, .16);
+  border-radius: 14px; transition: border-color .15s, transform .12s;
+}
+.dict-card:hover { border-color: var(--brand-light); transform: translateY(-2px); }
+.dict-card-term { font-size: 18px; font-weight: 700; color: #fff; margin: 0; }
+.dict-card-en { font-size: 12.5px; color: var(--brand-light); margin: 2px 0 0; font-family: 'SF Mono', ui-monospace, Menlo, monospace; }
+.dict-card-kisa { margin: 9px 0 0; font-size: 14px; line-height: 1.5; color: var(--ink-muted); }
+.dict-empty { display: none; color: var(--ink-muted); padding: 28px 0; text-align: center; }
+
+/* A→Z grup başlığı (opsiyonel görünüm) */
+.dict-group-letter { grid-column: 1 / -1; font-size: 13px; font-weight: 700; color: var(--accent); letter-spacing: .1em; margin-top: 8px; }
+
+@media (max-width: 560px) {
+  .dict-controls { flex-direction: column; align-items: stretch; }
+}

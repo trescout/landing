@@ -20,9 +20,16 @@
       ]
     },
     {
-      "source": "/assets/fonts/(.*)",
+      "source": "/(assets/fonts/.*|assets/discover/.*\\.webp|assets/dictionary/.*\\.webp)",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=2592000, stale-while-revalidate=31536000" }
+      ]
+    },
+    {
+      "source": "/(.*\\.md)",
+      "headers": [
+        { "key": "Content-Type", "value": "text/markdown; charset=utf-8" },
+        { "key": "Cache-Control", "value": "public, max-age=3600, stale-while-revalidate=86400" }
       ]
     },
     {

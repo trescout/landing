@@ -1,0 +1,74 @@
+name: İçerik oto-büyüme (sözlük + keşif)
+
+# Yeni rapor landing'e düştüğünde (reports/**): sözlüğe yeni terimler + keşfe yeni repolar (lite) eklenir.
+# Günlük cron yedeği + manuel. Gerekli secret: GEMINI_API_KEY (repo Settings → Secrets → Actions).
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'reports/**'
+  schedule:
+    - cron: '30 5 * * *'   # her gün 05:30 UTC · app raporu (~04:00) + publish sonrası yedek
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dict-sync
+  cancel-in-progress: false
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # PDF yedeği için pdftotext + keşif lite kartları için Pillow
+      - name: Bağımlılıklar
+        run: |
+          sudo apt-get update && sudo apt-get install -y poppler-utils fonts-dejavu-core
+          pip install Pillow
+
+      - name: Sözlüğü büyüt (yeni rapor terimleri)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python3 scripts/dict-sync.py
+
+      - name: Sözlük kartlarını üret (yeni terimler · marka OG)
+        run: python3 scripts/dict-cards.py
+
+      - name: Keşfi büyüt (yeni rapor repoları · zengin/lite)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/discover-sync.py
+
+      - name: Çapraz-linkleri yenile (keşif ↔ sözlük)
+        run: python3 scripts/cross-link.py
+
+      - name: AI'a hizmet · keşif index server-render + .md + llms.txt
+        run: |
+          python3 scripts/discover-index.py
+          python3 scripts/discover-md.py
+          python3 scripts/llms-txt.py
+
+      - name: CSP guard
+        run: python3 scripts/check-no-inline-csp.py
+
+      - name: Değişiklik varsa commit'le
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "TreScout Bot"
+            git config user.email "hello@trescout.com"
+            git add -A
+            git commit -m "chore(content-sync): rapordan yeni sözlük/keşif içeriği eklendi [skip ci]"
+            git push
+            echo "Yeni içerik eklendi ve push edildi."
+          else
+            echo "Eklenecek yeni içerik yok · güncel."
+          fi

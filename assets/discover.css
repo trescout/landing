@@ -1,0 +1,309 @@
+/* TreScout · /discover · keşif entry'leri · site.css (iskelet + token) üzerine biner.
+ * Insta-carousel enerjisi: vurucu hook, taranabilir, "kaydet" tetikleyici · dürüstlük korunur. */
+
+.disc { max-width: 720px; margin: 0 auto; padding: 44px 24px 64px; }
+
+.disc-back {
+  display: inline-block; font-size: 14px; color: var(--ink-muted);
+  margin-bottom: 22px; transition: color .15s;
+}
+.disc-back:hover { color: var(--accent); }
+
+.disc-top { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 16px; }
+.disc-eyebrow {
+  font-size: 12px; letter-spacing: .22em; text-transform: uppercase;
+  color: var(--accent); font-weight: 700;
+}
+.disc-momentum {
+  font-size: 12.5px; font-weight: 700; color: #15202B;
+  background: var(--accent); padding: 4px 12px; border-radius: 999px; white-space: nowrap;
+}
+
+.disc-title {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(40px, 9vw, 76px); line-height: 1.02;
+  font-weight: 700; letter-spacing: -.02em; color: #fff;
+  overflow-wrap: break-word; hyphens: auto;
+}
+.disc-title .disc-accent { color: var(--accent); }
+.disc-lead { margin-top: 22px; font-size: 19px; line-height: 1.65; color: var(--ink); }
+.disc-lead strong { color: #fff; }
+
+.disc-meta {
+  list-style: none; padding: 0; margin: 22px 0 0;
+  display: flex; flex-wrap: wrap; gap: 8px;
+}
+.disc-meta li {
+  font-size: 12.5px; color: var(--brand-light);
+  background: rgba(95, 168, 211, .1); border: 1px solid rgba(95, 168, 211, .22);
+  padding: 4px 11px; border-radius: 999px; white-space: nowrap;
+}
+
+.disc-sec { margin-top: 44px; }
+.disc-sec h2 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 26px; font-weight: 700; color: #fff; margin-bottom: 16px;
+}
+.disc-sec p { font-size: 16.5px; line-height: 1.75; color: var(--ink-muted); margin-bottom: 14px; }
+.disc-sec p strong { color: var(--ink); }
+.disc-sec a { color: var(--accent); font-weight: 500; }
+.disc-sec a:hover { text-decoration: underline; }
+
+/* ✓ kazanım listesi · taranabilir, vurucu */
+.disc-wins { list-style: none; padding: 0; margin: 0; }
+.disc-wins li {
+  position: relative; padding-left: 34px; margin-bottom: 14px;
+  font-size: 17px; line-height: 1.6; color: var(--ink-muted);
+}
+.disc-wins li::before {
+  content: '✓'; position: absolute; left: 0; top: -1px;
+  width: 23px; height: 23px; line-height: 23px; text-align: center;
+  font-size: 13px; font-weight: 700; color: #15202B;
+  background: var(--accent); border-radius: 7px;
+}
+.disc-wins strong { color: var(--ink); }
+
+/* istem kartları · sayfanın "havalı" görseli */
+.disc-prompts { list-style: none; padding: 0; margin: 0; }
+.disc-prompts li {
+  position: relative; padding: 13px 16px 13px 38px; margin-bottom: 10px;
+  font-family: 'SF Mono', ui-monospace, Menlo, Consolas, monospace;
+  font-size: 14.5px; line-height: 1.5; color: var(--ink);
+  background: var(--bg-elevated); border: 1px solid rgba(95, 168, 211, .16);
+  border-radius: 10px;
+}
+.disc-prompts li::before {
+  content: '›'; position: absolute; left: 16px; top: 12px;
+  color: var(--accent); font-weight: 700;
+}
+.disc-prompts-note { font-size: 14px; color: var(--ink-muted); opacity: .85; margin-top: 6px; }
+
+/* dürüstlük notu */
+.disc-note {
+  margin-top: 20px; padding: 16px 18px; font-size: 14.5px; line-height: 1.6;
+  color: var(--ink-muted); background: rgba(244, 211, 94, .07);
+  border-left: 3px solid var(--accent); border-radius: 0 10px 10px 0;
+}
+.disc-note strong { color: var(--ink); }
+
+/* "kaydet" callout'u · göz çeken, FOMO */
+.disc-save {
+  margin-top: 40px; padding: 22px 24px; font-size: 17px; line-height: 1.6;
+  color: var(--ink); text-align: center;
+  background: linear-gradient(135deg, rgba(244, 211, 94, .14), rgba(95, 168, 211, .08));
+  border: 1px solid rgba(244, 211, 94, .3); border-radius: 16px;
+}
+.disc-save strong { color: #fff; }
+
+/* bağlantılar */
+.disc-links { list-style: none; padding: 0; margin: 0; }
+.disc-links li { margin-bottom: 10px; }
+.disc-links a { color: var(--accent); font-weight: 600; font-size: 16px; }
+.disc-links a:hover { text-decoration: underline; }
+
+/* TreScout CTA */
+.disc-cta {
+  margin-top: 48px; padding: 28px; text-align: center;
+  background: var(--bg-elevated); border: 1px solid rgba(244, 211, 94, .22); border-radius: 16px;
+}
+.disc-cta p { font-size: 16px; line-height: 1.6; color: var(--ink-muted); margin-bottom: 18px; }
+.disc-cta p strong { color: var(--ink); }
+.disc-cta .btn { margin: 4px 6px; }
+
+.disc-disclaimer { margin-top: 28px; font-size: 13px; line-height: 1.6; color: var(--ink-muted); opacity: .8; }
+
+/* ekran görüntüsü */
+.disc-shot { margin: 30px 0 0; }
+.disc-shot img {
+  display: block; width: 100%; height: auto; border-radius: 14px;
+  border: 1px solid rgba(95, 168, 211, .18);
+}
+.disc-shot figcaption {
+  margin-top: 10px; font-size: 12.5px; color: var(--ink-muted); opacity: .8; text-align: center;
+}
+
+/* soru → cevap örneği · "nasıl bir his" */
+.disc-demo {
+  display: flex; flex-direction: column; gap: 14px;
+  padding: 18px; background: var(--bg-elevated);
+  border: 1px solid rgba(95, 168, 211, .14); border-radius: 14px;
+}
+.disc-demo-row { display: flex; flex-direction: column; gap: 6px; }
+.disc-demo-who {
+  font-size: 11px; letter-spacing: .1em; text-transform: uppercase;
+  font-weight: 700; color: var(--ink-muted);
+}
+.disc-demo-who-ai { color: var(--accent); }
+.disc-demo-q p, .disc-demo-a p { margin: 0; font-size: 15.5px; line-height: 1.6; }
+.disc-demo-q p { color: var(--ink); }
+.disc-demo-a {
+  padding: 12px 14px; background: rgba(95, 168, 211, .07);
+  border-left: 3px solid var(--brand-light); border-radius: 0 10px 10px 0;
+}
+.disc-demo-a p { color: var(--ink-muted); }
+.disc-demo-note { font-size: 13px; color: var(--ink-muted); opacity: .8; margin-top: 10px; }
+
+/* tek bakışta künye */
+.disc-facts {
+  margin-top: 26px; display: grid;
+  background: var(--bg-elevated); border: 1px solid rgba(95, 168, 211, .14);
+  border-radius: 14px; overflow: hidden;
+}
+.disc-fact { display: flex; gap: 14px; padding: 12px 16px; border-top: 1px solid rgba(95, 168, 211, .08); }
+.disc-fact:first-child { border-top: none; }
+.disc-fact-k {
+  flex: 0 0 112px; font-size: 12.5px; font-weight: 700; color: var(--brand-light);
+  text-transform: uppercase; letter-spacing: .04em;
+}
+.disc-fact-v { font-size: 15px; color: var(--ink-muted); line-height: 1.5; }
+
+/* komut bloğu + kopyala butonu */
+.disc-cmd {
+  margin: 14px 0; background: #0b1320;
+  border: 1px solid rgba(95, 168, 211, .18); border-radius: 12px; overflow: hidden;
+}
+.disc-cmd-head {
+  display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  padding: 9px 14px; background: rgba(95, 168, 211, .06);
+  border-bottom: 1px solid rgba(95, 168, 211, .12); font-size: 12.5px; color: var(--ink-muted);
+}
+.disc-copy {
+  font-size: 12px; font-weight: 700; color: var(--accent); background: transparent;
+  border: 1px solid rgba(244, 211, 94, .35); border-radius: 7px;
+  padding: 4px 12px; cursor: pointer; transition: background .15s, color .15s;
+}
+.disc-copy:hover { background: var(--accent); color: #15202B; }
+.disc-cmd pre { margin: 0; padding: 14px; overflow-x: auto; }
+.disc-cmd code {
+  font-family: 'SF Mono', ui-monospace, Menlo, Consolas, monospace;
+  font-size: 13.5px; line-height: 1.6; color: var(--ink); white-space: pre;
+}
+
+/* "kod bilmiyorsan AI'a yapıştır" bloğu · no-code yol */
+.disc-ai {
+  margin: 16px 0; padding: 16px 18px;
+  background: linear-gradient(135deg, rgba(95, 168, 211, .12), rgba(244, 211, 94, .06));
+  border: 1px solid rgba(95, 168, 211, .28); border-left: 4px solid var(--accent);
+  border-radius: 12px;
+}
+.disc-ai-head {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 10px;
+}
+.disc-ai-head span { font-size: 12.5px; font-weight: 700; color: var(--brand-light); line-height: 1.4; }
+.disc-ai-text { margin: 0; font-size: 15.5px; line-height: 1.6; color: var(--ink); }
+
+/* ilgili sözlük terimleri · keşif → sözlük çapraz-link (GEO knowledge graph) */
+.disc-related { display: flex; flex-wrap: wrap; gap: 9px; }
+.disc-related a {
+  font-size: 14px; font-weight: 600; color: var(--brand-light);
+  background: rgba(95, 168, 211, .1); border: 1px solid rgba(95, 168, 211, .22);
+  padding: 7px 15px; border-radius: 999px; text-decoration: none;
+  transition: color .15s, background .15s, border-color .15s;
+}
+.disc-related a:hover { color: #15202B; background: var(--accent); border-color: var(--accent); }
+
+/* disc-cta inline abone formu · funnel (subscribe.js bağlar) */
+.disc-cta-form { max-width: 440px; margin: 0 auto 4px; text-align: left; }
+.cta-form { display: flex; flex-direction: column; gap: 10px; }
+.cta-form .form-row { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
+.cta-form .input {
+  flex: 1 1 200px; min-width: 160px; padding: 13px 16px; font: inherit; font-size: 15px;
+  background: var(--bg-elevated); border: 1px solid rgba(95, 168, 211, .3);
+  border-radius: 10px; color: var(--ink); outline: none;
+  transition: border-color .15s, box-shadow .15s;
+}
+.cta-form .input::placeholder { color: var(--ink-muted); }
+.cta-form .input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(244, 211, 94, .18); }
+.disc-cta-form .btn { margin: 0; }
+.cta-form .form-consent {
+  display: grid; grid-template-columns: 16px 1fr; column-gap: 9px; align-items: start;
+  font-size: 12.5px; color: var(--ink-muted); cursor: pointer; line-height: 1.5; text-align: left;
+}
+.cta-form .form-consent input[type="checkbox"] {
+  width: 16px; height: 16px; margin-top: 2px; accent-color: var(--accent); cursor: pointer;
+}
+.cta-form .form-consent a { color: var(--ink); border-bottom: 1px solid rgba(244, 211, 94, .45); text-decoration: none; }
+.cta-form .form-consent a:hover, .cta-form .form-consent a:focus-visible { color: var(--accent); border-bottom-color: var(--accent); outline: none; }
+.disc-cta .form-success {
+  max-width: 440px; margin: 0 auto; padding: 14px 18px; border-radius: 12px;
+  background: rgba(244, 211, 94, .1); border: 1px solid var(--accent); color: var(--ink); font-size: 15px; line-height: 1.5;
+}
+.disc-cta .form-success strong { color: var(--accent); }
+.disc-cta .form-error {
+  max-width: 440px; margin: 10px auto 0; padding: 9px 13px; border-radius: 8px;
+  background: rgba(255, 120, 120, .08); border: 1px solid rgba(255, 120, 120, .35); color: #ffb3b3; font-size: 13px;
+}
+.disc-cta-all { display: inline-block; margin-top: 10px; }
+.hp-field { position: absolute; left: -9999px; top: -9999px; width: 1px; height: 1px; opacity: 0; }
+
+/* ── keşif index (katalog) ── */
+.disc-index-hero { max-width: 760px; margin: 0 auto; padding: 48px 0 8px; text-align: center; }
+.disc-index-hero .disc-eyebrow { display: block; margin-bottom: 12px; }
+.disc-index-title {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(34px, 6vw, 54px); line-height: 1.08; font-weight: 700;
+  letter-spacing: -.02em; color: #fff;
+}
+.disc-index-lead { margin: 16px auto 0; max-width: 60ch; font-size: 18px; line-height: 1.6; color: var(--ink-muted); }
+.disc-index-lead strong { color: var(--ink); }
+
+.disc-loading { color: var(--ink-muted); padding: 28px 0; text-align: center; }
+.disc-loading a { color: var(--accent); }
+
+.disc-grid {
+  margin: 40px 0 0; display: grid; gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+.disc-card {
+  display: flex; flex-direction: column; overflow: hidden;
+  background: var(--bg-elevated); border: 1px solid rgba(95, 168, 211, .16);
+  border-radius: 16px; transition: border-color .15s, transform .12s;
+}
+.disc-card:hover { border-color: var(--brand-light); transform: translateY(-2px); }
+.disc-card-img { width: 100%; aspect-ratio: 2 / 1; object-fit: cover; display: block; background: #0b1320; }
+.disc-card-body { padding: 16px 18px 18px; }
+.disc-card-title { font-size: 19px; font-weight: 700; color: #fff; margin: 0; }
+.disc-card-tag { margin: 7px 0 0; font-size: 14.5px; line-height: 1.5; color: var(--ink-muted); }
+.disc-card-meta { display: block; margin-top: 12px; font-size: 12.5px; color: var(--brand-light); }
+
+/* keşif index · arama + filtre + sıralama */
+.disc-controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-top: 32px; }
+.disc-search {
+  flex: 1; min-width: 200px; font: inherit; font-size: 15px; color: var(--ink);
+  background: var(--bg-elevated); border: 1px solid rgba(95, 168, 211, .2);
+  border-radius: 10px; padding: 11px 14px;
+}
+.disc-search::placeholder { color: var(--ink-muted); }
+.disc-search:focus { outline: none; border-color: var(--brand-light); }
+.disc-sortwrap { display: flex; align-items: center; gap: 8px; font-size: 14px; color: var(--ink-muted); }
+.disc-sort {
+  font: inherit; font-size: 14px; color: var(--ink); background: var(--bg-elevated);
+  border: 1px solid rgba(95, 168, 211, .2); border-radius: 10px; padding: 9px 12px; cursor: pointer;
+}
+.disc-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+.disc-chip {
+  font: inherit; font-size: 13px; font-weight: 600; color: var(--ink-muted);
+  background: transparent; border: 1px solid rgba(95, 168, 211, .22);
+  padding: 6px 14px; border-radius: 999px; cursor: pointer; transition: color .15s, background .15s, border-color .15s;
+}
+.disc-chip:hover { color: var(--ink); border-color: var(--brand-light); }
+.disc-chip-active { color: #15202B; background: var(--accent); border-color: var(--accent); }
+.disc-count { margin-top: 16px; font-size: 13px; color: var(--ink-muted); }
+.disc-grid { margin-top: 20px; }
+
+/* kart üzerindeki kategori etiketleri */
+.disc-card-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.disc-card-tagchip {
+  font-size: 11px; color: var(--brand-light); background: rgba(95, 168, 211, .1);
+  border: 1px solid rgba(95, 168, 211, .18); padding: 2px 8px; border-radius: 999px;
+}
+
+@media (max-width: 560px) {
+  .disc { padding: 30px 18px 44px; }
+  .disc-lead { font-size: 17px; }
+  .disc-wins li { font-size: 16px; }
+  .disc-fact { flex-direction: column; gap: 4px; }
+  .disc-fact-k { flex-basis: auto; }
+  .disc-controls { flex-direction: column; align-items: stretch; }
+  .disc-sortwrap { justify-content: space-between; }
+}

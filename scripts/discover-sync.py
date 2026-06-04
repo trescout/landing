@@ -1,0 +1,457 @@
+#!/usr/bin/env python3
+"""
+TreScout Keşif · oto-büyüme motoru (LITE)
+=========================================
+Günlük raporların GitHub bölümündeki YENİ repoları, keşfe "lite" entry olarak ekler.
+Lite = başlık + raporun Türkçe özeti + marka kart (kapak) + sözlük çapraz-link + funnel.
+(Mevcut 47 küratörlü entry kadar zengin DEĞİL: araştırılmış komut / gerçek ekran görüntüsü / AI-prompt yok.
+ Sonra elle zenginleştirilir · catalog'da "lite": true ile işaretlenir.)
+
+Dedup: repo URL ile (slug değil) → "FreeDomain"/"free-domain" gibi yanlış kopya engellenir. Idempotent.
+Index grid catalog.json'dan client-side render olduğu için index'i ayrıca üretmeye gerek yok.
+Kullanım: python3 scripts/discover-sync.py [--dry]
+"""
+import os, re, sys, json, glob, html, time, base64, datetime, urllib.request, urllib.error
+ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REPORTS=os.path.join(ROOT,"reports"); DISC=os.path.join(ROOT,"discover")
+OGDIR=os.path.join(ROOT,"assets","discover","og")
+CATALOG=os.path.join(ROOT,"assets","discover","catalog.json")
+DICTMAN=os.path.join(ROOT,"assets","dictionary","dictionary.json")
+SITEMAP=os.path.join(ROOT,"sitemap.xml")
+DRY="--dry" in sys.argv
+TODAY=os.environ.get("DICT_DATE") or datetime.date.today().isoformat()
+def esc(s): return html.escape(s or "",quote=True)
+def norm_url(u): return re.sub(r'\.git$','',(u or '').strip().rstrip('/').lower())
+def slugify(s): return re.sub(r'[^a-z0-9]+','-',s.split('/')[-1].lower()).strip('-')
+ACR={"rag","llm","ai","tts","cli","api","ml","ui","ux","sdk","mcp","db","vtuber","osint","slm","agi","nlp","gpu","cpu","io","cv","qa","ide","crm","pdf","html","css","json","yaml","ar","vr","p2p"}
+SMALL={"for","and","of","to","the","in","on","a","an","with","ile","ve","by","from"}
+def nice_title(repo):
+    """Repo adından otomatik düzgün başlık · zaten proper-case'i korur, tireyi boşluğa çevirir, akronimleri büyütür."""
+    repo=(repo or "").strip()
+    if re.search(r'[A-Z]',repo) and re.search(r'[a-z]',repo): return repo  # MoneyPrinterTurbo, Open-LLM-VTuber → aynen
+    if '-' not in repo and '_' not in repo and len(repo)<=3 and repo.isalpha() and repo.islower(): return repo.upper()  # fff → FFF (≤3 akronim; odoo gibi 4-harf isimler title-case kalır)
+    out=[]
+    for i,w in enumerate(re.split(r'[-_]+',repo)):
+        lw=w.lower()
+        if lw in ACR: out.append(lw.upper())
+        elif i>0 and lw in SMALL: out.append(lw)
+        elif w: out.append(w[0].upper()+w[1:])
+    return " ".join(out)
+
+# ---- mevcut repo URL'leri (dedup) ----
+def existing_urls():
+    urls=set()
+    for f in glob.glob(DISC+"/*/index.html"):
+        t=open(f,encoding="utf-8").read()
+        m=re.search(r'"codeRepository":\s*"([^"]+)"',t) or re.search(r'href="(https://github\.com/[^"]+?)"',t)
+        if m: urls.add(norm_url(m.group(1)))
+    return urls
+
+# ---- rapor GitHub item'ları ----
+def report_items():
+    seen={}
+    for f in sorted(glob.glob(REPORTS+"/*.json")):
+        try: d=json.load(open(f,encoding="utf-8"))
+        except Exception: continue
+        date=d.get("date","")
+        for sec in d.get("sections",[]):
+            if sec.get("sourceName")!="github": continue
+            for it in sec.get("items",[]):
+                u=norm_url(it.get("url",""))
+                if u and u not in seen: seen[u]={**it,"_date":date}
+    return list(seen.values())
+
+def parse_meta(meta):
+    lang=""; stars=0
+    m=re.search(r'★\s*([\d.]+)',meta or ''); stars=int(m.group(1).replace('.','')) if m else 0
+    m2=re.match(r'^\s*([A-Za-z0-9+#. ]+?)\s*·',meta or ''); lang=m2.group(1).strip() if m2 else ""
+    mom=re.search(r'(\+[\d.]+\s*bugün)',meta or ''); momentum=mom.group(1) if mom else ""
+    return lang,stars,momentum
+
+def make_tagline(summary, fallback):
+    """Özetin ilk cümlesi · gerekirse KELİME sınırında kes (mid-word kesme yok)."""
+    if not summary: return fallback
+    s=re.split(r'(?<=[.!?])\s', summary.strip())[0].strip()
+    if len(s)>130: s=s[:127].rsplit(' ',1)[0].rstrip(' ,;:')+"…"
+    return s
+
+def infer_tags(summary):
+    s=(summary or '').lower()
+    tags=[]
+    if any(k in s for k in ["yapay zek","model","ajan","llm","yapay zeka"," ai "]): tags.append("AI ajan araçları")
+    tags.append("Geliştirici aracı")
+    return tags[:2] or ["Geliştirici aracı"]
+
+# ---- sözlük çapraz-link (özet içinde geçen terimler) ----
+def dict_matcher():
+    man=json.load(open(DICTMAN,encoding="utf-8"))
+    EN={t["slug"]:t["en"] for t in man}
+    ALIAS={"open-source":["açık kaynak"],"artificial-intelligence":["yapay zekâ","yapay zeka"],"llm":["büyük dil model"],
+           "web-scraping":["web kazıma"],"voice-cloning":["ses klonla"],"text-to-speech":["metinden konuşma"]}
+    pats=[]
+    for t in man:
+        ps=[t["en"]]+ALIAS.get(t["slug"],[])
+        for p in ps:
+            acr=p.isupper() and len(p)<=5
+            pats.append((t["slug"],re.compile(r'(?<![\w-])'+re.escape(p)+r'(?![\w-])',0 if acr else re.I)))
+    freq={}  # global frekans (özgül önce sıralama için kabaca)
+    return EN,pats
+EN_MAP,DPATS=dict_matcher()
+def related_terms(summary):
+    hits=[]
+    for slug,rx in DPATS:
+        if slug not in hits and rx.search(summary or ''): hits.append(slug)
+    return hits[:5]
+
+# ---- marka kart (font fallback: SF Pro → DejaVu → atla) ----
+def make_card(slug,title,tagline,stars,lang,out):
+    try:
+        from PIL import Image,ImageDraw,ImageFont
+    except Exception:
+        return False
+    FONT=next((p for p in ["/System/Library/Fonts/SFNS.ttf","/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"] if os.path.exists(p)),None)
+    if not FONT: return False
+    W,H=1200,630;PAD=76
+    NAVY=(27,73,101);YELLOW=(244,211,94);BLUE=(95,168,211);WHITE=(255,255,255);LIGHT=(205,218,229);BG_TOP=(19,44,67);BG_BOT=(9,17,28)
+    def f(s,w=400):
+        x=ImageFont.truetype(FONT,s)
+        try:x.set_variation_by_axes([100,max(17,min(96,s)),400,w])
+        except Exception:pass
+        return x
+    def wrap(d,t,fn,mw,ml):
+        ws=t.split();ls=[];c=""
+        for w in ws:
+            x=(c+" "+w).strip()
+            if d.textlength(x,font=fn)<=mw:c=x
+            else:
+                if c:ls.append(c)
+                c=w
+                if len(ls)==ml:break
+        if c and len(ls)<ml:ls.append(c)
+        return ls
+    img=Image.new("RGB",(W,H),BG_BOT);d=ImageDraw.Draw(img,"RGBA")
+    for yy in range(H):d.line([(0,yy),(W,yy)],fill=tuple(int(BG_TOP[i]+(BG_BOT[i]-BG_TOP[i])*(yy/H)) for i in range(3)))
+    for r in (520,400,280,160):d.arc([W-260-r,H-40-r,W-260+r,H-40+r],180,360,fill=(95,168,211,28),width=3)
+    k=52/100.0;x=y=PAD
+    d.rounded_rectangle([x,y,x+52,y+52],radius=int(22*k),fill=NAVY)
+    for r in (30,20,10):
+        rr=r*k;cx,cy=x+50*k,y+56*k;d.arc([cx-rr,cy-rr,cx+rr,cy+rr],180,360,fill=BLUE,width=2)
+    d.rounded_rectangle([x+20*k,y+56*k,x+80*k,y+67*k],radius=2,fill=YELLOW)
+    d.rounded_rectangle([x+44.5*k,y+56*k,x+55.5*k,y+84*k],radius=2,fill=YELLOW)
+    d.text((PAD+68,PAD+8),"TreScout",font=f(30,700),fill=WHITE)
+    d.text((PAD,PAD+78),"KEŞİF · GİTHUB",font=f(20,700),fill=YELLOW)
+    tf=f(64,800);tl=wrap(d,title,tf,W-2*PAD,2)
+    for i,ln in enumerate(tl):d.text((PAD,PAD+128+i*74),ln,font=tf,fill=WHITE)
+    gy=PAD+128+len(tl)*74+8
+    for ln in wrap(d,tagline,f(28,400),W-2*PAD,3):d.text((PAD,gy),ln,font=f(28,400),fill=LIGHT);gy+=40
+    foot=(f"★ {stars:,}".replace(',','.')+(f" · {lang}" if lang else "")) if stars else (lang or "TreScout Keşif")
+    d.text((PAD,H-PAD-30),foot,font=f(24,500),fill=BLUE)
+    img.save(out,"WEBP",quality=86,method=6)
+    return True
+
+LOGO='<svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg>'
+NAV='<nav><div class="container nav-inner"><a class="logo-link" href="/" aria-label="TreScout anasayfa">'+LOGO+'<span>TreScout</span></a><div class="nav-actions"><a href="/discover/" class="btn btn-ghost">Keşif</a><a href="/dictionary/" class="btn btn-ghost">Sözlük</a><a href="/#top" class="btn btn-primary">Erken erişim</a></div></div></nav>'
+FOOTER='<footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo">'+LOGO+'<span>TreScout</span></div><p class="footer-tagline">TreScout tarar, özetler, gönderir. Siz sadece okursunuz.</p></div><div class="footer-col"><div class="footer-col-title">Ürün</div><ul><li><a href="/#how-it-works">Nasıl Çalışır</a></li><li><a href="/discover/">Keşif</a></li><li><a href="/dictionary/">Sözlük</a></li><li><a href="/reports/">Raporlar</a></li></ul></div><div class="footer-col"><div class="footer-col-title">İletişim</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Sosyal medya</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tüm hakları saklıdır.</span></div></div></footer>'
+FORM='<form class="cta-form disc-cta-form js-subscribe" data-source="discover" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>\'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form>'
+PRE=('<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>\n'
+     '<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>\n')
+VERCEL='  <script defer src="/_vercel/insights/script.js"></script>\n  <script defer src="/_vercel/speed-insights/script.js"></script>\n'
+
+# ============ ZENGİN OTO (README'den gerçek komut + Gemini anlatım) ============
+MODEL="gemini-3.1-flash-lite"
+def gemini_key():
+    k=os.environ.get("GEMINI_API_KEY")
+    if k: return k
+    envp=os.path.join(os.path.dirname(ROOT),"trescout-app",".env.local")
+    if os.path.exists(envp):
+        for l in open(envp):
+            if l.strip().startswith("GEMINI_API_KEY="): return l.split("=",1)[1].strip().strip('"').strip("'")
+    return None
+
+# ---- GitHub README + meta (kimliksiz 60/saat · token varsa 5000) ----
+def gh_get(url):
+    req=urllib.request.Request(url,headers={"Accept":"application/vnd.github+json","User-Agent":"trescout-discover-sync"})
+    tok=os.environ.get("GITHUB_TOKEN")
+    if tok: req.add_header("Authorization","Bearer "+tok)
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req,timeout=30) as r: return json.loads(r.read().decode())
+        except urllib.error.HTTPError as e:
+            if e.code==404: return None
+            if e.code in (403,429,500,502,503) and attempt<2: time.sleep((attempt+1)*3); continue
+            return None
+        except Exception:
+            if attempt<2: time.sleep((attempt+1)*3); continue
+            return None
+    return None
+def owner_repo(url):
+    m=re.search(r'github\.com/([^/]+)/([^/#?]+)',url or '')
+    return (m.group(1),re.sub(r'\.git$','',m.group(2))) if m else (None,None)
+def fetch_readme(owner,repo):
+    d=gh_get(f"https://api.github.com/repos/{owner}/{repo}/readme")
+    if not d or "content" not in d: return ""
+    try: return base64.b64decode(d["content"]).decode("utf-8","replace")
+    except Exception: return ""
+def fetch_meta(owner,repo):
+    d=gh_get(f"https://api.github.com/repos/{owner}/{repo}") or {}
+    lic=((d.get("license") or {}).get("spdx_id") or "")
+    hp=(d.get("homepage") or "").strip()
+    return {"license":"" if lic in ("","NOASSERTION") else lic,
+            "homepage":hp if hp.startswith("http") else ""}
+
+# ---- gerçek komut bloklarını ayıkla (verbatim kaynak) ----
+RUN_HINT=re.compile(r'\b(pip|pipx|uv|conda|npm|npx|pnpm|yarn|bun|cargo|go|docker|git clone|brew|apt|apt-get|make|poetry|gem|composer|dotnet|curl|wget|bash|sh|python3?|node|deno)\b')
+def clean_cmd(c):
+    return "\n".join(re.sub(r'^\s*\$\s+','',l) for l in (c or '').splitlines()).strip()
+def install_blocks(md):
+    out=[]; seen=set()
+    for lang,code in re.findall(r'```([\w+.\-]*)\n(.*?)```',md,re.S):
+        code=clean_cmd(code)
+        lines=[l for l in code.splitlines() if l.strip() and not l.strip().startswith("#")]
+        if not lines or len(lines)>8: continue
+        if lang.lower() in ("bash","sh","shell","console","zsh","") and RUN_HINT.search(code) and code not in seen:
+            seen.add(code); out.append(code)
+    return out[:6]
+def _norm(s):
+    return re.sub(r'\s+',' ',re.sub(r'(?m)^\s*[\$#]\s+',' ',s or '')).strip()
+def verbatim_ok(cmd,hay):
+    c=_norm(cmd); return bool(c) and c in hay
+
+# ---- Gemini: README'den zengin içerik (UYDURMA YOK, komut birebir) ----
+ENRICH_SYS=("Sen TreScout için Türkçe içerik editörüsün; kod bilmeyene bir GitHub aracını tanıtıyorsun. "
+ "Sana README ve ondan AYIKLANMIŞ gerçek komut blokları verilecek (boş da olabilir). "
+ "MUTLAK KURALLAR: UYDURMA, sadece README'de geçeni kullan. Komutu SADECE verilen bloklardan BİREBİR al (tek karakter bile değiştirme/ekleme yok); emin değilsen boş bırak. "
+ "'siz' dili; em dash (—) YASAK; pazarlama/abartı yok; TreScout bu aracı geliştirmedi, yalnızca tanıtıyor. "
+ 'ÇIKTI yalnızca JSON: {"kazanimlar"(3 kısa somut madde),'
+ '"kurulum"([{"baslik","komut"}] 0-2, komut SADECE verilen bloklardan birebir),'
+ '"calistirma"([{"baslik","komut"}] 0-2, ilk kullanım),'
+ '"nasil_baslanir"(EĞER gerçek kurulum komutu YOKSA kod bilmeyenin nasıl başlayacağını 1-3 cümle DÜZ METİN anlat: kabuk komutu YAZMA, README\'de geçen indirme/resmî site/doküman yolunu tarif et. Komut varsa boş bırak),'
+ '"ai_prompt"(kod bilmeyenin yapay zekâ ajanına yapıştıracağı tek paragraf Türkçe istem; yalnızca gerçek komutlara dayan),'
+ '"kimin_icin"(tek cümle)}. Başka metin yok.')
+def start_url(md):
+    """README'nin kurulum/indirme bölümündeki ilk gerçek URL (linki uydurmadan vermek için)."""
+    m=re.search(r'(?is)#{1,4}[^\n]*(?:install|setup|getting started|download|quick ?start|kurulum)[^\n]*\n(.+?)(?=\n#{1,4}\s|\Z)',md)
+    region=m.group(1) if m else md[:1500]
+    u=re.search(r'\((https?://[^)\s]+)\)',region) or re.search(r'(https?://[^)\s\]>]+)',region)
+    return u.group(1) if u else ""
+def gemini_enrich(title,summary,readme,blocks,key):
+    payload=("ARAÇ: "+title+"\nÖZET: "+(summary or "")+"\n\nREADME:\n"+readme[:8000]+
+             "\n\nAYIKLANAN GERÇEK KOMUTLAR (komutu yalnızca bunlardan, birebir seç):\n"+json.dumps(blocks,ensure_ascii=False))
+    body={"systemInstruction":{"parts":[{"text":ENRICH_SYS}]},"contents":[{"parts":[{"text":payload}]}],
+          "generationConfig":{"temperature":0.4,"responseMimeType":"application/json","maxOutputTokens":2048}}
+    url=f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={key}"
+    req=urllib.request.Request(url,data=json.dumps(body).encode(),headers={"Content-Type":"application/json"},method="POST")
+    for attempt in range(4):
+        try:
+            raw=json.loads(urllib.request.urlopen(req,timeout=120).read().decode())["candidates"][0]["content"]["parts"][0]["text"]
+            return json.loads(raw)
+        except urllib.error.HTTPError as e:
+            if e.code in (429,500,502,503) and attempt<3: time.sleep((attempt+1)*4); continue
+            return None
+        except Exception:
+            if attempt<3: time.sleep((attempt+1)*4); continue
+            return None
+    return None
+
+def enrich_entry(url,title,summary,key):
+    """Döner: (rich_dict, None) ya da (None, reason). reason: readme_yok | komut_yok"""
+    owner,repo=owner_repo(url)
+    if not owner: return None,"readme_yok"
+    readme=fetch_readme(owner,repo)
+    if not readme.strip(): return None,"readme_yok"
+    if not key: return None,"komut_yok"
+    blocks=install_blocks(readme)
+    g=gemini_enrich(title,summary,readme,blocks,key)
+    if not isinstance(g,dict): return None,"komut_yok"
+    hay=_norm(readme+" "+" ".join(blocks))
+    for grp in ("kurulum","calistirma"):  # UYDURMA ENGELİ: README'de birebir geçmeyen komutu at
+        g[grp]=[{"baslik":str(x.get("baslik","Komut"))[:40],"komut":clean_cmd(x.get("komut",""))}
+                for x in (g.get(grp) or []) if isinstance(x,dict) and verbatim_ok(x.get("komut",""),hay)]
+    g["kazanimlar"]=[str(x) for x in (g.get("kazanimlar") or [])][:4]
+    g["ai_prompt"]=str(g.get("ai_prompt") or ""); g["kimin_icin"]=str(g.get("kimin_icin") or "")
+    g["nasil_baslanir"]=str(g.get("nasil_baslanir") or "").strip()
+    meta=fetch_meta(owner,repo); g["license"]=meta.get("license","")
+    if not (g["kurulum"] or g["calistirma"]):   # komut yok → komutsuz-zengin (düz-metin başlangıç + GERÇEK link)
+        g["start_url"]=meta.get("homepage") or start_url(readme)   # repo sahibinin beyan ettiği resmî site, yoksa README
+        if not g["kazanimlar"] and not g["nasil_baslanir"]: return None,"komut_yok"
+    return g,None
+
+def cmd_block(it):
+    return ('<div class="disc-cmd"><div class="disc-cmd-head"><span>'+esc(it.get("baslik","Komut"))+'</span>'
+            '<button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div>'
+            '<pre><code>'+esc(it.get("komut",""))+'</code></pre></div>')
+
+def rich_sections(g, cmds=None):
+    s=""
+    if g.get("kazanimlar"):
+        s+='<section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins">'+"".join(f"<li>{esc(x)}</li>" for x in g["kazanimlar"])+'</ul></section>\n      '
+    if cmds:   # elle araştırılmış + DOĞRULANMIŞ komutlar (README dışı yetkili kaynak: resmî docs / paket yöneticisi / depo)
+        for grp,h in (("kurulum","Kurulum"),("calistirma","Çalıştırma")):
+            its=cmds.get(grp) or []
+            if its: s+=f'<section class="disc-sec"><h2>{h}</h2>'+"".join(cmd_block(it) for it in its)+'</section>\n      '
+        if cmds.get("kaynak"): s+=f'<p class="disc-note"><strong>Kaynak:</strong> {esc(cmds["kaynak"])}</p>\n      '
+    else:
+        for grp,h in (("kurulum","Kurulum"),("calistirma","Çalıştırma")):
+            if g.get(grp): s+=f'<section class="disc-sec"><h2>{h}</h2>'+"".join(cmd_block(it) for it in g[grp])+'</section>\n      '
+        if not (g.get("kurulum") or g.get("calistirma")) and g.get("nasil_baslanir"):
+            link=(f'<ul class="disc-links"><li><a href="{esc(g.get("start_url",""))}" target="_blank" rel="noopener">Resmî kaynak →</a></li></ul>' if g.get("start_url") else '')
+            s+=f'<section class="disc-sec"><h2>Nasıl başlanır?</h2><p>{esc(g["nasil_baslanir"])}</p>{link}</section>\n      '
+    if (g.get("kurulum") or g.get("calistirma")) and g.get("ai_prompt"):
+        s+=('<section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head">'
+            '<span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span>'
+            '<button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div>'
+            '<p class="disc-ai-text">'+esc(g["ai_prompt"])+'</p></div></section>\n      ')
+    facts=""
+    if g.get("kimin_icin"): facts+='<div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">'+esc(g["kimin_icin"])+'</span></div>'
+    if g.get("license"): facts+='<div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">'+esc(g["license"])+'</span></div>'
+    if facts: s+=f'<div class="disc-facts">{facts}</div>\n      '
+    return s
+
+def build_page(e, rich=None):
+    slug=e["slug"];title=e["title"];tagline=e["tagline"];summary=e["summary"];url=e["url"]
+    lang=e["lang"];stars=e["stars"];momentum=e["momentum"];date=e["date"]
+    canon=f"https://trescout.com/discover/{slug}/";ogimg=f"https://trescout.com/assets/discover/og/{slug}.webp"
+    ld=json.dumps({"@context":"https://schema.org","@type":"Article","headline":title,"inLanguage":"tr",
+        "description":tagline,"author":{"@type":"Organization","name":"TreScout","url":"https://trescout.com"},
+        "publisher":{"@type":"Organization","name":"TreScout"},"image":ogimg,"url":canon,
+        "about":{"@type":"SoftwareSourceCode","name":title,"codeRepository":url,**({"programmingLanguage":lang} if lang else {})}},ensure_ascii=False,indent=2)
+    metas="".join(f"<li>{esc(x)}</li>" for x in ([f"★ {stars:,}".replace(',','.')] if stars else [])+([lang] if lang else [])+[f"GitHub Trending · {date}"] if x)
+    rel=related_terms(summary)
+    relsec=""
+    if rel:
+        chips="".join(f'<a href="/dictionary/{r}/">{esc(EN_MAP.get(r,r))}</a>' for r in rel if r in EN_MAP)
+        if chips: relsec=f'<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related">{chips}</div></section>'
+    mom=f'<span class="disc-momentum">🚀 {esc(momentum)}</span>' if momentum else ''
+    rich_html=rich_sections(rich, e.get("cmds")) if rich else ''
+    sh=e.get("shot"); shot_html=''
+    if sh:   # lisansı temiz gerçek ekran görüntüsü (catalog 'shot' alanı · reprocess'te korunur)
+        shot_html=(f'<figure class="disc-shot"><img src="{esc(sh["src"])}" width="{sh.get("w","")}" height="{sh.get("h","")}" '
+                   f'loading="lazy" decoding="async" alt="{esc(sh.get("alt",""))}"><figcaption>{esc(sh.get("credit",""))}</figcaption></figure>\n      ')
+    head=('<!DOCTYPE html>\n<html lang="tr">\n<head>\n<meta charset="UTF-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
+      f'<title>{esc(title)} · Keşif · TreScout</title>\n<meta name="description" content="{esc(tagline)}">\n'
+      '<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
+      f'<link rel="alternate" type="text/markdown" href="/discover/{slug}.md">\n<link rel="canonical" href="{canon}">\n<meta property="og:title" content="{esc(title)}">\n<meta property="og:description" content="{esc(tagline)}">\n'
+      f'<meta property="og:url" content="{canon}">\n<meta property="og:type" content="article">\n<meta property="og:locale" content="tr_TR">\n'
+      f'<meta property="og:image" content="{ogimg}">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n'
+      f'<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:site" content="@GetTreScout">\n<meta name="twitter:title" content="{esc(title)}">\n<meta name="twitter:image" content="{ogimg}">\n'
+      f'<script type="application/ld+json">\n{ld}\n</script>\n'+PRE+
+      '<link rel="stylesheet" href="/assets/site.css">\n<link rel="stylesheet" href="/assets/discover.css">\n</head>\n')
+    body=('<body>\n<a class="skip-link" href="#main">Ana içeriğe atla</a>\n'+NAV+'\n<main id="main">\n<article class="disc">\n'
+      '<a class="disc-back" href="/discover/">← Keşif</a>\n'
+      f'<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub</span>{mom}</div>\n'
+      f'<h1 class="disc-title">{esc(title)}</h1>\n<p class="disc-lead">{esc(summary)}</p>\n'
+      f'<ul class="disc-meta">{metas}</ul>\n      {shot_html}{rich_html}{relsec}\n'
+      f'<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="{esc(url)}" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>\n'
+      '<aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p>'
+      +FORM+'<a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>\n'
+      '<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.</p>\n'
+      '</article>\n</main>\n'+FOOTER+'\n'+('<script src="/assets/discover.js" defer></script>\n' if rich else '')+'<script src="/assets/subscribe.js" defer></script>\n'+VERCEL+'</body>\n</html>\n')
+    return head+body
+
+def base_entry(n, rich, reason):
+    """catalog kaydı · komutlu-zengin→temiz; komutsuz-zengin→lite:False ama kuyrukta (ekran görüntüsü/cila); README yok→lite+kuyruk."""
+    meta=(f"★ {n['stars']:,}".replace(',','.')+(f" · {n['lang']}" if n['lang'] else "")) if n['stars'] else n['lang']
+    c={"slug":n["slug"],"title":n["title"],"tagline":n["tagline"],"meta":meta,
+       "image":f"/assets/discover/og/{n['slug']}.webp","source":"GitHub","date":n["date"],
+       "tags":n["tags"],"stars":n["stars"]}
+    if rich:
+        c["lite"]=False
+        if n.get("shot"): c["shot"]=n["shot"]
+        if n.get("cmds"): c["cmds"]=n["cmds"]
+        if not (rich.get("kurulum") or rich.get("calistirma") or n.get("cmds")):  # hiç komut yok → kuyrukta (insan komut bulur/ekler, --done ile kapatır)
+            c["needs_enrichment"]=True; c["enrich_reason"]="komutsuz"
+    else:
+        c.update({"lite":True,"needs_enrichment":True,"enrich_reason":reason})
+    return c
+
+def process_one(n, key):
+    """Entry'i zenginleştir + sayfa & kart yaz. Döner: (rich|None, reason|None)."""
+    rich,reason=enrich_entry(n["url"],n["title"],n.get("summary",""),key)
+    os.makedirs(os.path.join(DISC,n["slug"]),exist_ok=True)
+    open(os.path.join(DISC,n["slug"],"index.html"),"w",encoding="utf-8").write(build_page(n,rich))
+    card=os.path.join(OGDIR,n["slug"]+".webp")
+    if not os.path.exists(card):   # kart başlık/tagline'a bağlı · varsa yeniden üretme (gereksiz binary churn yok)
+        make_card(n["slug"],n["title"],n["tagline"],n["stars"],n["lang"],card)
+    return rich,reason
+
+def reprocess(cat, by_slug, key, targets, label):
+    """Verilen entry'leri yeniden değerlendir · README+komut→zengin, komut yok→komutsuz-zengin, README yok→lite+işaret."""
+    rows=[]
+    for c in targets:
+        f=os.path.join(DISC,c["slug"],"index.html")
+        t=open(f,encoding="utf-8").read() if os.path.exists(f) else ""
+        m=re.search(r'"codeRepository":\s*"([^"]+)"',t) or re.search(r'href="(https://github\.com/[^"]+?)"',t)
+        lang,stars,momentum=parse_meta(c.get("meta",""))
+        ls=re.search(r'<p class="disc-lead">(.*?)</p>',t,re.S)
+        summary=html.unescape(re.sub(r'<[^>]+>','',ls.group(1))).strip() if ls else c.get("tagline","")
+        rows.append({"slug":c["slug"],"title":c["title"],"tagline":c["tagline"],"summary":summary,
+                     "url":m.group(1) if m else "","lang":lang,"stars":c.get("stars",stars),
+                     "momentum":momentum,"date":c.get("date",TODAY),"tags":c.get("tags") or infer_tags(summary),
+                     "shot":c.get("shot"),"cmds":c.get("cmds")})
+    print(f"{label}: {len(rows)} entry yeniden değerlendirilecek")
+    if DRY:
+        for n in rows: print(f"  ~ {n['slug']}  ({n['url']})")
+        print("[--dry] yazılmadı."); return
+    nrich=nlite=0
+    for n in rows:
+        rich,reason=process_one(n,key)
+        by_slug[n["slug"]].clear(); by_slug[n["slug"]].update(base_entry(n,rich,reason))
+        if rich: nrich+=1; print(f"  ✅ zengin: {n['slug']} · kurulum {len(rich['kurulum'])} · çalıştırma {len(rich['calistirma'])} · prompt {'var' if rich['ai_prompt'] else 'yok'}")
+        else: nlite+=1; print(f"  ◦ lite kaldı: {n['slug']} ({reason})")
+    json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
+    print(f"✅ {nrich} zengin · {nlite} lite (işaretli → aylık kuyruğa düşer) · catalog güncellendi")
+
+def main():
+    key=gemini_key()
+    cat=json.load(open(CATALOG,encoding="utf-8"))
+    by_slug={c["slug"]:c for c in cat}
+    os.makedirs(OGDIR,exist_ok=True)
+    dn=next((a for a in sys.argv if a.startswith("--done=")),None)
+    if dn:   # kuyruktan çıkar (insan o entry'i en iyiye çekti ya da 'uygun değil' dedi)
+        slugs={s.strip() for s in dn.split("=",1)[1].split(",") if s.strip()}
+        n=0
+        for c in cat:
+            if c["slug"] in slugs and c.get("needs_enrichment"):
+                c.pop("needs_enrichment",None); c.pop("enrich_reason",None); n+=1
+        json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
+        print(f"✅ {n} entry kuyruktan çıkarıldı: {', '.join(sorted(slugs))}"); return
+    if "--reprocess-lite" in sys.argv:
+        if not key: print("UYARI: GEMINI_API_KEY yok · zenginleştirme yapılamaz, lite kalır.")
+        reprocess(cat, by_slug, key, [c for c in cat if c.get("lite")], "--reprocess-lite"); return
+    rpa=next((a for a in sys.argv if a.startswith("--reprocess=")),None)
+    if rpa:
+        if not key: print("UYARI: GEMINI_API_KEY yok · zenginleştirme yapılamaz.")
+        slugs={s.strip() for s in rpa.split("=",1)[1].split(",") if s.strip()}
+        reprocess(cat, by_slug, key, [c for c in cat if c["slug"] in slugs], "--reprocess="+",".join(sorted(slugs))); return
+    ex=existing_urls(); items=report_items(); cat_slugs=set(by_slug)
+    new=[]
+    for it in items:
+        if norm_url(it.get("url","")) in ex: continue
+        slug=slugify(it.get("title",""))
+        if not slug or slug in cat_slugs: continue
+        title=nice_title(it.get("title","").split("/")[-1] or it.get("title",""))
+        lang,stars,momentum=parse_meta(it.get("meta",""))
+        summary=it.get("summary","").strip()
+        new.append({"slug":slug,"title":title,"tagline":make_tagline(summary,title),"summary":summary,
+                    "url":it.get("url",""),"lang":lang,"stars":stars,"momentum":momentum,
+                    "date":it.get("_date",TODAY),"tags":infer_tags(summary)})
+    print(f"rapor GitHub repo: {len(items)} · mevcut (URL): {len(ex)} · YENİ: {len(new)}")
+    for n in new: print(f"  + {n['slug']}  ({n['title']})")
+    if DRY: print("[--dry] yazılmadı."); return
+    if not new: print("eklenecek yeni repo yok · keşif güncel ✅"); return
+    nrich=nlite=0
+    for n in new:
+        rich,reason=process_one(n,key)
+        cat.append(base_entry(n,rich,reason))
+        if rich: nrich+=1; print(f"  ✅ zengin: {n['slug']}")
+        else: nlite+=1; print(f"  ◦ lite: {n['slug']} ({reason})")
+    json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
+    sm=open(SITEMAP,encoding="utf-8").read(); lines=[]
+    for n in new:
+        u=f"https://trescout.com/discover/{n['slug']}/"
+        if u in sm: continue
+        lines+=["  <url>",f"    <loc>{u}</loc>",f"    <lastmod>{n['date']}</lastmod>","    <changefreq>monthly</changefreq>","    <priority>0.6</priority>","  </url>"]
+    if lines: open(SITEMAP,"w",encoding="utf-8").write(sm.replace("</urlset>","\n".join(lines)+"\n</urlset>"))
+    print(f"✅ {nrich} zengin + {nlite} lite eklendi (lite'lar aylık kuyruğa düşer)")
+
+if __name__=="__main__": main()
