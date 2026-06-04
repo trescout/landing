@@ -697,7 +697,9 @@
       "h": 720,
       "alt": "Godot editöründe üçüncü şahıs demo sahnesinden bir görünüm",
       "credit": "Görsel: Godot Engine (godot-design) · CC-BY-4.0"
-    }
+    },
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   },
   {
     "slug": "oh-my-pi",

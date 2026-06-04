@@ -12,10 +12,16 @@ import os, re, sys, json, subprocess
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CATALOG=os.path.join(ROOT,"assets","discover","catalog.json")
 TITLE="🧰 Elle zenginleştirme kuyruğu (lite → en iyi)"
-REASON={"readme_yok":"README yok · sıfırdan zenginleştirin",
-        "komut_yok":"kurulum komutu bulunamadı",
-        "komutsuz":"komut yok · oto-zenginleştirildi, ekran görüntüsü/cila ekleyin"}
 DRY="--dry" in sys.argv or not os.environ.get("GH_TOKEN")
+
+def missing(slug):
+    """Sayfayı okuyup eksik parçaları döner: kurulum komutu / ekran görüntüsü."""
+    f=os.path.join(ROOT,"discover",slug,"index.html")
+    t=open(f,encoding="utf-8").read() if os.path.exists(f) else ""
+    m=[]
+    if "<pre><code>" not in t: m.append("kurulum komutu")
+    if 'class="disc-shot"' not in t: m.append("ekran görüntüsü")
+    return m
 
 def repo_url(slug):
     f=os.path.join(ROOT,"discover",slug,"index.html")
@@ -29,15 +35,16 @@ def main():
     q=[c for c in cat if c.get("needs_enrichment")]
     if not q:
         print("kuyruk boş · işaretli entry yok · issue açılmadı."); return
-    lines=["Bu liste otomatik üretildi. Aşağıdaki keşif sayfaları henüz **en iyi** seviyede değil "
-           "(çoğu oto-zenginleştirildi ama kurulum komutu yok ve gerçek ekran görüntüsü eklenmedi). "
-           "İnceleyip en iyiye çekin, sonra kutucuğu işaretleyin.","",
+    lines=["Bu liste otomatik üretildi. Aşağıdaki keşif sayfaları henüz **en iyi** seviyede değil. "
+           "Her birine eksik parçayı ekleyin: gerçek kurulum komutu bulunursa, lisansı temiz ekran görüntüsü. "
+           "Uygun değilse (ör. masaüstü uygulaması, komutu yok) olduğu gibi bırakın. "
+           "Bitince kutucuğu işaretleyin ve kuyruktan çıkarmak için "
+           "`python3 scripts/discover-sync.py --done=SLUG` çalıştırın (ya da bana söyleyin).","",
            f"Toplam: **{len(q)}** entry.",""]
     for c in sorted(q,key=lambda x:-(x.get("stars") or 0)):
-        ru=repo_url(c["slug"])
-        rl=f" · [repo]({ru})" if ru else ""
-        lines.append(f"- [ ] **{c['title']}** · {REASON.get(c.get('enrich_reason'),c.get('enrich_reason') or '?')} "
-                     f"· [sayfa](https://trescout.com/discover/{c['slug']}/){rl}")
+        ru=repo_url(c["slug"]); rl=f" · [repo]({ru})" if ru else ""
+        miss=missing(c["slug"]); eksik=("eksik: "+", ".join(miss)) if miss else "elle gözden geçir"
+        lines.append(f"- [ ] **{c['title']}** · {eksik} · [sayfa](https://trescout.com/discover/{c['slug']}/){rl}")
     body="\n".join(lines)
     if DRY:
         print("[dry / GH_TOKEN yok] açılacak/güncellenecek issue gövdesi:\n")

@@ -351,7 +351,7 @@ def base_entry(n, rich, reason):
     if rich:
         c["lite"]=False
         if n.get("shot"): c["shot"]=n["shot"]
-        if not (rich.get("kurulum") or rich.get("calistirma")) and not n.get("shot"):  # komutsuz + ekran görüntüsü yoksa kuyrukta
+        if not (rich.get("kurulum") or rich.get("calistirma")):  # komut yok → kuyrukta (ekran görüntüsü olsa da; insan komut ekler/onaylar, --done ile kapatır)
             c["needs_enrichment"]=True; c["enrich_reason"]="komutsuz"
     else:
         c.update({"lite":True,"needs_enrichment":True,"enrich_reason":reason})
@@ -399,6 +399,15 @@ def main():
     cat=json.load(open(CATALOG,encoding="utf-8"))
     by_slug={c["slug"]:c for c in cat}
     os.makedirs(OGDIR,exist_ok=True)
+    dn=next((a for a in sys.argv if a.startswith("--done=")),None)
+    if dn:   # kuyruktan çıkar (insan o entry'i en iyiye çekti ya da 'uygun değil' dedi)
+        slugs={s.strip() for s in dn.split("=",1)[1].split(",") if s.strip()}
+        n=0
+        for c in cat:
+            if c["slug"] in slugs and c.get("needs_enrichment"):
+                c.pop("needs_enrichment",None); c.pop("enrich_reason",None); n+=1
+        json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
+        print(f"✅ {n} entry kuyruktan çıkarıldı: {', '.join(sorted(slugs))}"); return
     if "--reprocess-lite" in sys.argv:
         if not key: print("UYARI: GEMINI_API_KEY yok · zenginleştirme yapılamaz, lite kalır.")
         reprocess(cat, by_slug, key, [c for c in cat if c.get("lite")], "--reprocess-lite"); return
