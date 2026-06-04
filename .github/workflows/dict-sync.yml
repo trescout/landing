@@ -51,6 +51,11 @@ jobs:
       - name: Çapraz-linkleri yenile (keşif ↔ sözlük)
         run: python3 scripts/cross-link.py
 
+      - name: AI'a hizmet · keşif .md endpoint'leri + llms.txt indeksi
+        run: |
+          python3 scripts/discover-md.py
+          python3 scripts/llms-txt.py
+
       - name: CSP guard
         run: python3 scripts/check-no-inline-csp.py
 

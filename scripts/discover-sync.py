@@ -330,7 +330,7 @@ def build_page(e, rich=None):
     head=('<!DOCTYPE html>\n<html lang="tr">\n<head>\n<meta charset="UTF-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
       f'<title>{esc(title)} · Keşif · TreScout</title>\n<meta name="description" content="{esc(tagline)}">\n'
       '<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
-      f'<link rel="canonical" href="{canon}">\n<meta property="og:title" content="{esc(title)}">\n<meta property="og:description" content="{esc(tagline)}">\n'
+      f'<link rel="alternate" type="text/markdown" href="/discover/{slug}.md">\n<link rel="canonical" href="{canon}">\n<meta property="og:title" content="{esc(title)}">\n<meta property="og:description" content="{esc(tagline)}">\n'
       f'<meta property="og:url" content="{canon}">\n<meta property="og:type" content="article">\n<meta property="og:locale" content="tr_TR">\n'
       f'<meta property="og:image" content="{ogimg}">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n'
       f'<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:site" content="@GetTreScout">\n<meta name="twitter:title" content="{esc(title)}">\n<meta name="twitter:image" content="{ogimg}">\n'
