@@ -690,7 +690,9 @@
       "Geliştirici aracı"
     ],
     "stars": 111819,
-    "lite": false
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   },
   {
     "slug": "oh-my-pi",
@@ -720,7 +722,9 @@
       "Geliştirici aracı"
     ],
     "stars": 18065,
-    "lite": false
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   },
   {
     "slug": "fff",
@@ -794,6 +798,8 @@
       "Geliştirici aracı"
     ],
     "stars": 8629,
-    "lite": false
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

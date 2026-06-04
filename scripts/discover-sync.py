@@ -339,13 +339,17 @@ def build_page(e, rich=None):
     return head+body
 
 def base_entry(n, rich, reason):
-    """catalog kaydı · rich → 'lite':False; değilse lite + işaret (needs_enrichment + sebep)."""
+    """catalog kaydı · komutlu-zengin→temiz; komutsuz-zengin→lite:False ama kuyrukta (ekran görüntüsü/cila); README yok→lite+kuyruk."""
     meta=(f"★ {n['stars']:,}".replace(',','.')+(f" · {n['lang']}" if n['lang'] else "")) if n['stars'] else n['lang']
     c={"slug":n["slug"],"title":n["title"],"tagline":n["tagline"],"meta":meta,
        "image":f"/assets/discover/og/{n['slug']}.webp","source":"GitHub","date":n["date"],
        "tags":n["tags"],"stars":n["stars"]}
-    if rich: c["lite"]=False
-    else: c.update({"lite":True,"needs_enrichment":True,"enrich_reason":reason})
+    if rich:
+        c["lite"]=False
+        if not (rich.get("kurulum") or rich.get("calistirma")):  # komutsuz-zengin: yine de elle cila/ekran görüntüsü için kuyrukta
+            c["needs_enrichment"]=True; c["enrich_reason"]="komutsuz"
+    else:
+        c.update({"lite":True,"needs_enrichment":True,"enrich_reason":reason})
     return c
 
 def process_one(n, key):
