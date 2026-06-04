@@ -195,7 +195,9 @@ def fetch_readme(owner,repo):
 def fetch_meta(owner,repo):
     d=gh_get(f"https://api.github.com/repos/{owner}/{repo}") or {}
     lic=((d.get("license") or {}).get("spdx_id") or "")
-    return {"license":"" if lic in ("","NOASSERTION") else lic}
+    hp=(d.get("homepage") or "").strip()
+    return {"license":"" if lic in ("","NOASSERTION") else lic,
+            "homepage":hp if hp.startswith("http") else ""}
 
 # ---- gerçek komut bloklarını ayıkla (verbatim kaynak) ----
 RUN_HINT=re.compile(r'\b(pip|pipx|uv|conda|npm|npx|pnpm|yarn|bun|cargo|go|docker|git clone|brew|apt|apt-get|make|poetry|gem|composer|dotnet|curl|wget|bash|sh|python3?|node|deno)\b')
@@ -268,10 +270,10 @@ def enrich_entry(url,title,summary,key):
     g["kazanimlar"]=[str(x) for x in (g.get("kazanimlar") or [])][:4]
     g["ai_prompt"]=str(g.get("ai_prompt") or ""); g["kimin_icin"]=str(g.get("kimin_icin") or "")
     g["nasil_baslanir"]=str(g.get("nasil_baslanir") or "").strip()
-    if not (g["kurulum"] or g["calistirma"]):   # komut yok → komutsuz-zengin (düz-metin başlangıç + gerçek link)
-        g["start_url"]=start_url(readme)
+    meta=fetch_meta(owner,repo); g["license"]=meta.get("license","")
+    if not (g["kurulum"] or g["calistirma"]):   # komut yok → komutsuz-zengin (düz-metin başlangıç + GERÇEK link)
+        g["start_url"]=meta.get("homepage") or start_url(readme)   # repo sahibinin beyan ettiği resmî site, yoksa README
         if not g["kazanimlar"] and not g["nasil_baslanir"]: return None,"komut_yok"
-    g["license"]=fetch_meta(owner,repo).get("license","")
     return g,None
 
 def rich_sections(g):
@@ -356,10 +358,10 @@ def process_one(n, key):
         make_card(n["slug"],n["title"],n["tagline"],n["stars"],n["lang"],card)
     return rich,reason
 
-def reprocess_lite(cat, by_slug, key):
-    """Mevcut lite entry'leri yeniden değerlendir · README+komut varsa zengine çevir, yoksa lite+işaret."""
+def reprocess(cat, by_slug, key, targets, label):
+    """Verilen entry'leri yeniden değerlendir · README+komut→zengin, komut yok→komutsuz-zengin, README yok→lite+işaret."""
     rows=[]
-    for c in [x for x in cat if x.get("lite")]:
+    for c in targets:
         f=os.path.join(DISC,c["slug"],"index.html")
         t=open(f,encoding="utf-8").read() if os.path.exists(f) else ""
         m=re.search(r'"codeRepository":\s*"([^"]+)"',t) or re.search(r'href="(https://github\.com/[^"]+?)"',t)
@@ -369,7 +371,7 @@ def reprocess_lite(cat, by_slug, key):
         rows.append({"slug":c["slug"],"title":c["title"],"tagline":c["tagline"],"summary":summary,
                      "url":m.group(1) if m else "","lang":lang,"stars":c.get("stars",stars),
                      "momentum":momentum,"date":c.get("date",TODAY),"tags":c.get("tags") or infer_tags(summary)})
-    print(f"--reprocess-lite: {len(rows)} lite entry yeniden değerlendirilecek")
+    print(f"{label}: {len(rows)} entry yeniden değerlendirilecek")
     if DRY:
         for n in rows: print(f"  ~ {n['slug']}  ({n['url']})")
         print("[--dry] yazılmadı."); return
@@ -389,7 +391,12 @@ def main():
     os.makedirs(OGDIR,exist_ok=True)
     if "--reprocess-lite" in sys.argv:
         if not key: print("UYARI: GEMINI_API_KEY yok · zenginleştirme yapılamaz, lite kalır.")
-        reprocess_lite(cat, by_slug, key); return
+        reprocess(cat, by_slug, key, [c for c in cat if c.get("lite")], "--reprocess-lite"); return
+    rpa=next((a for a in sys.argv if a.startswith("--reprocess=")),None)
+    if rpa:
+        if not key: print("UYARI: GEMINI_API_KEY yok · zenginleştirme yapılamaz.")
+        slugs={s.strip() for s in rpa.split("=",1)[1].split(",") if s.strip()}
+        reprocess(cat, by_slug, key, [c for c in cat if c["slug"] in slugs], "--reprocess="+",".join(sorted(slugs))); return
     ex=existing_urls(); items=report_items(); cat_slugs=set(by_slug)
     new=[]
     for it in items:
