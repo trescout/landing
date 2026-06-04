@@ -29,7 +29,7 @@ def nice_title(repo):
     """Repo adından otomatik düzgün başlık · zaten proper-case'i korur, tireyi boşluğa çevirir, akronimleri büyütür."""
     repo=(repo or "").strip()
     if re.search(r'[A-Z]',repo) and re.search(r'[a-z]',repo): return repo  # MoneyPrinterTurbo, Open-LLM-VTuber → aynen
-    if '-' not in repo and '_' not in repo and len(repo)<=4 and repo.isalpha() and repo.islower(): return repo.upper()  # fff → FFF
+    if '-' not in repo and '_' not in repo and len(repo)<=3 and repo.isalpha() and repo.islower(): return repo.upper()  # fff → FFF (≤3 akronim; odoo gibi 4-harf isimler title-case kalır)
     out=[]
     for i,w in enumerate(re.split(r'[-_]+',repo)):
         lw=w.lower()

@@ -839,5 +839,109 @@
       ],
       "kaynak": "Resmî dokümantasyon (docs.llmvtuber.com)"
     }
+  },
+  {
+    "slug": "trivy",
+    "title": "Trivy",
+    "tagline": "Trivy, konteynerler, Kubernetes kümeleri ve bulut altyapılarındaki güvenlik açıklarını, hatalı yapılandırmaları ve gizli…",
+    "meta": "★ 35.511 · Go",
+    "image": "/assets/discover/og/trivy.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 35511,
+    "lite": false
+  },
+  {
+    "slug": "hermes-agent",
+    "title": "Hermes Agent",
+    "tagline": "NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom ajan…",
+    "meta": "★ 179.808 · Python",
+    "image": "/assets/discover/og/hermes-agent.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 179808,
+    "lite": false
+  },
+  {
+    "slug": "opendataloader-pdf",
+    "title": "Opendataloader PDF",
+    "tagline": "OpenDataLoader PDF, yapay zekâ modelleri için veriyi hazır hale getiren açık kaynaklı bir PDF ayrıştırıcıdır (PDF parser).",
+    "meta": "★ 23.530 · Java",
+    "image": "/assets/discover/og/opendataloader-pdf.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 23530,
+    "lite": false
+  },
+  {
+    "slug": "odoo",
+    "title": "Odoo",
+    "tagline": "Odoo, işletmelerin tüm operasyonel süreçlerini tek bir çatı altında yönetmelerini sağlayan açık kaynaklı bir kurumsal kaynak…",
+    "meta": "★ 52.082",
+    "image": "/assets/discover/og/odoo.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 52082,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "coding-interview-university",
+    "title": "Coding Interview University",
+    "tagline": "Coding-interview-university, yazılım mühendisi olmak isteyenler için bilgisayar bilimleri (computer science) temellerini…",
+    "meta": "★ 349.290",
+    "image": "/assets/discover/og/coding-interview-university.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 349290,
+    "lite": false
+  },
+  {
+    "slug": "airllm",
+    "title": "Airllm",
+    "tagline": "AirLLM, 70 milyar parametreli büyük dil modellerinin (large language models) yalnızca 4 GB video belleğine (VRAM) sahip grafik…",
+    "meta": "★ 19.113 · Jupyter Notebook",
+    "image": "/assets/discover/og/airllm.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 19113,
+    "lite": false
+  },
+  {
+    "slug": "vibe-trading",
+    "title": "Vibe-Trading",
+    "tagline": "Vibe-Trading, finansal piyasalarda işlem yapmak amacıyla geliştirilmiş kişisel bir alım satım ajanı (trading agent) sunuyor.",
+    "meta": "★ 10.343 · Python",
+    "image": "/assets/discover/og/vibe-trading.webp",
+    "source": "GitHub",
+    "date": "2026-06-04",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 10343,
+    "lite": false
   }
 ]

@@ -502,5 +502,54 @@
     "full": "",
     "cat": "dev",
     "kisa": "Yazılım geliştirme sürecinde kod yazan, hata ayıklayan ve proje mimarisine katkıda bulunan yapay zeka tabanlı asistandır."
+  },
+  {
+    "slug": "secrets",
+    "en": "Secrets",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım uygulamalarının güvenli bir şekilde çalışması için ihtiyaç duyduğu şifreler, API anahtarları ve erişim kodlarıdır."
+  },
+  {
+    "slug": "sbom",
+    "en": "SBOM",
+    "full": "Software Bill of Materials",
+    "cat": "dev",
+    "kisa": "Bir yazılımın içinde kullanılan tüm açık kaynaklı kütüphanelerin ve bileşenlerin listelendiği bir envanter belgesidir."
+  },
+  {
+    "slug": "autonomous-agent",
+    "en": "Autonomous Agent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnsan müdahalesi olmadan kendi başına hedefler belirleyip bu hedeflere ulaşmak için gerekli adımları atan yazılımdır."
+  },
+  {
+    "slug": "continuous-learning",
+    "en": "Continuous Learning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir yapay zeka sisteminin yeni verilerle karşılaştıkça bilgilerini unutmadan sürekli güncelleyerek gelişmesi sürecidir."
+  },
+  {
+    "slug": "pdf-parser",
+    "en": "PDF Parser",
+    "full": "",
+    "cat": "data",
+    "kisa": "PDF dosyalarındaki karmaşık verileri okuyup bilgisayarın işleyebileceği düzenli bir formata dönüştüren araçtır."
+  },
+  {
+    "slug": "enterprise-resource-planning",
+    "en": "Enterprise Resource Planning",
+    "full": "ERP",
+    "cat": "dev",
+    "kisa": "Bir şirketin muhasebe, stok, insan kaynakları gibi tüm iş süreçlerini tek bir merkezden yönetmesini sağlayan yazılım sistemidir."
+  },
+  {
+    "slug": "live2d",
+    "en": "Live2D",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İki boyutlu çizimleri üç boyutluymuş gibi hareket ettirerek karakterlere canlılık kazandıran bir teknolojidir."
   }
 ]
