@@ -276,21 +276,27 @@ def enrich_entry(url,title,summary,key):
         if not g["kazanimlar"] and not g["nasil_baslanir"]: return None,"komut_yok"
     return g,None
 
-def rich_sections(g):
+def cmd_block(it):
+    return ('<div class="disc-cmd"><div class="disc-cmd-head"><span>'+esc(it.get("baslik","Komut"))+'</span>'
+            '<button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div>'
+            '<pre><code>'+esc(it.get("komut",""))+'</code></pre></div>')
+
+def rich_sections(g, cmds=None):
     s=""
     if g.get("kazanimlar"):
         s+='<section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins">'+"".join(f"<li>{esc(x)}</li>" for x in g["kazanimlar"])+'</ul></section>\n      '
-    for grp,h in (("kurulum","Kurulum"),("calistirma","Çalıştırma")):
-        if not g.get(grp): continue
-        cmds="".join('<div class="disc-cmd"><div class="disc-cmd-head"><span>'+esc(it["baslik"])+'</span>'
-                     '<button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div>'
-                     '<pre><code>'+esc(it["komut"])+'</code></pre></div>' for it in g[grp])
-        s+=f'<section class="disc-sec"><h2>{h}</h2>{cmds}</section>\n      '
-    has_cmd=bool(g.get("kurulum") or g.get("calistirma"))
-    if not has_cmd and g.get("nasil_baslanir"):
-        link=(f'<ul class="disc-links"><li><a href="{esc(g.get("start_url",""))}" target="_blank" rel="noopener">Resmî kaynak →</a></li></ul>' if g.get("start_url") else '')
-        s+=f'<section class="disc-sec"><h2>Nasıl başlanır?</h2><p>{esc(g["nasil_baslanir"])}</p>{link}</section>\n      '
-    if has_cmd and g.get("ai_prompt"):
+    if cmds:   # elle araştırılmış + DOĞRULANMIŞ komutlar (README dışı yetkili kaynak: resmî docs / paket yöneticisi / depo)
+        for grp,h in (("kurulum","Kurulum"),("calistirma","Çalıştırma")):
+            its=cmds.get(grp) or []
+            if its: s+=f'<section class="disc-sec"><h2>{h}</h2>'+"".join(cmd_block(it) for it in its)+'</section>\n      '
+        if cmds.get("kaynak"): s+=f'<p class="disc-note"><strong>Kaynak:</strong> {esc(cmds["kaynak"])}</p>\n      '
+    else:
+        for grp,h in (("kurulum","Kurulum"),("calistirma","Çalıştırma")):
+            if g.get(grp): s+=f'<section class="disc-sec"><h2>{h}</h2>'+"".join(cmd_block(it) for it in g[grp])+'</section>\n      '
+        if not (g.get("kurulum") or g.get("calistirma")) and g.get("nasil_baslanir"):
+            link=(f'<ul class="disc-links"><li><a href="{esc(g.get("start_url",""))}" target="_blank" rel="noopener">Resmî kaynak →</a></li></ul>' if g.get("start_url") else '')
+            s+=f'<section class="disc-sec"><h2>Nasıl başlanır?</h2><p>{esc(g["nasil_baslanir"])}</p>{link}</section>\n      '
+    if (g.get("kurulum") or g.get("calistirma")) and g.get("ai_prompt"):
         s+=('<section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head">'
             '<span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span>'
             '<button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div>'
@@ -316,7 +322,7 @@ def build_page(e, rich=None):
         chips="".join(f'<a href="/dictionary/{r}/">{esc(EN_MAP.get(r,r))}</a>' for r in rel if r in EN_MAP)
         if chips: relsec=f'<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related">{chips}</div></section>'
     mom=f'<span class="disc-momentum">🚀 {esc(momentum)}</span>' if momentum else ''
-    rich_html=rich_sections(rich) if rich else ''
+    rich_html=rich_sections(rich, e.get("cmds")) if rich else ''
     sh=e.get("shot"); shot_html=''
     if sh:   # lisansı temiz gerçek ekran görüntüsü (catalog 'shot' alanı · reprocess'te korunur)
         shot_html=(f'<figure class="disc-shot"><img src="{esc(sh["src"])}" width="{sh.get("w","")}" height="{sh.get("h","")}" '
@@ -351,7 +357,8 @@ def base_entry(n, rich, reason):
     if rich:
         c["lite"]=False
         if n.get("shot"): c["shot"]=n["shot"]
-        if not (rich.get("kurulum") or rich.get("calistirma")):  # komut yok → kuyrukta (ekran görüntüsü olsa da; insan komut ekler/onaylar, --done ile kapatır)
+        if n.get("cmds"): c["cmds"]=n["cmds"]
+        if not (rich.get("kurulum") or rich.get("calistirma") or n.get("cmds")):  # hiç komut yok → kuyrukta (insan komut bulur/ekler, --done ile kapatır)
             c["needs_enrichment"]=True; c["enrich_reason"]="komutsuz"
     else:
         c.update({"lite":True,"needs_enrichment":True,"enrich_reason":reason})
@@ -380,7 +387,7 @@ def reprocess(cat, by_slug, key, targets, label):
         rows.append({"slug":c["slug"],"title":c["title"],"tagline":c["tagline"],"summary":summary,
                      "url":m.group(1) if m else "","lang":lang,"stars":c.get("stars",stars),
                      "momentum":momentum,"date":c.get("date",TODAY),"tags":c.get("tags") or infer_tags(summary),
-                     "shot":c.get("shot")})
+                     "shot":c.get("shot"),"cmds":c.get("cmds")})
     print(f"{label}: {len(rows)} entry yeniden değerlendirilecek")
     if DRY:
         for n in rows: print(f"  ~ {n['slug']}  ({n['url']})")

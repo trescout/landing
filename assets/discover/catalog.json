@@ -698,8 +698,19 @@
       "alt": "Godot editöründe üçüncü şahıs demo sahnesinden bir görünüm",
       "credit": "Görsel: Godot Engine (godot-design) · CC-BY-4.0"
     },
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install --cask godot"
+        },
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install GodotEngine.GodotEngine"
+        }
+      ],
+      "kaynak": "Homebrew · winget (resmî paket yöneticileri) · veya godotengine.org'dan indirin"
+    }
   },
   {
     "slug": "oh-my-pi",
@@ -730,8 +741,15 @@
     ],
     "stars": 18065,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "conda ile (macOS · Linux · Windows)",
+          "komut": "git clone https://github.com/stefan-jansen/machine-learning-for-trading.git\ncd machine-learning-for-trading\nconda env create -f installation/ml4t-base.yml\nconda activate ml4t"
+        }
+      ],
+      "kaynak": "Resmî kurulum dokümanı (depo installation/ klasörü)"
+    }
   },
   {
     "slug": "fff",
@@ -806,7 +824,20 @@
     ],
     "stars": 8629,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "uv ile (önerilen)",
+          "komut": "git clone https://github.com/Open-LLM-VTuber/Open-LLM-VTuber --recursive\ncd Open-LLM-VTuber\nuv sync"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Çalıştır",
+          "komut": "uv run run_server.py"
+        }
+      ],
+      "kaynak": "Resmî dokümantasyon (docs.llmvtuber.com)"
+    }
   }
 ]
