@@ -1,8 +1,8 @@
 name: CSP Inline Guard
 
-# Strict CSP (script-src/style-src 'self') varken sayfalara inline CSS/JS sızmasın.
-# Bu seansta CSP bir kez inline kalıntı yüzünden kırılmıştı · bu guard tekrarını önler.
-# HTML değişen PR'larda + main push'larında (cron'un ürettiği rapor sayfaları dahil) çalışır.
+# Sayfa guard'ları · HTML değişen PR'larda + main push'larında (cron/app'in ürettiği rapor sayfaları dahil) çalışır.
+# 1) Strict CSP (script-src/style-src 'self') varken inline CSS/JS sızmasın (bir kez kırılmıştı).
+# 2) Nav tutarlılığı: shared-component (nav) sayfa tipine göre kaymasın — 'link kayboluyor' bug'ı tekrarlamasın.
 
 on:
   pull_request:
@@ -22,3 +22,5 @@ jobs:
       - uses: actions/checkout@v4
       - name: Inline CSS/JS kontrolü
         run: python3 scripts/check-no-inline-csp.py
+      - name: Nav tutarlılık kontrolü
+        run: python3 scripts/check-nav-consistency.py
