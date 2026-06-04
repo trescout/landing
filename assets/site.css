@@ -150,6 +150,9 @@ nav.scrolled {
 @media (max-width: 640px) {
   .container { padding: 0 16px; }
   .logo-link { gap: 8px; }
+  /* Mobilde nav taşmasın: bölüm linkleri (ghost) gizlenir, birincil CTA kalır · tüm bölümler footer'da */
+  .nav-actions { gap: 6px; }
+  .nav-actions .btn-ghost { display: none; }
 }
 
 /* ---------- BUTTONS ---------- */
