@@ -691,8 +691,13 @@
     ],
     "stars": 111819,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "shot": {
+      "src": "/assets/discover/godot.webp",
+      "w": 1280,
+      "h": 720,
+      "alt": "Godot editöründe üçüncü şahıs demo sahnesinden bir görünüm",
+      "credit": "Görsel: Godot Engine (godot-design) · CC-BY-4.0"
+    }
   },
   {
     "slug": "oh-my-pi",
