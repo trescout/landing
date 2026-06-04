@@ -1,0 +1,165 @@
+{
+  "date": "2026-06-04",
+  "editorial": "Bugünün teknoloji gündemi, belge işleme (document processing) süreçlerini otomatize eden araçlar ile büyük dil modelleri (large language models) için geliştirilen otonom ajan mimarileri etrafında şekilleniyor. Açık kaynaklı güvenlik tarayıcıları ve arayüz geliştirmeleri, sistemlerin hem veri işleme kapasitesini hem de operasyonel güvenliğini artırmaya odaklanıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom, büyük dil modellerine (LLM) gönderilen günlük dosyalarını, kod çıktılarını ve bilgi getirme (RAG) parçalarını sıkıştırarak jeton (token) kullanımını yüzde 60 ile 95 oranında azaltıyor. Kütüphane, vekil sunucu (proxy) ve Model Bağlam Protokolü (MCP) sunucusu seçenekleriyle veri işleme maliyetlerini düşürmeyi hedefliyor.",
+          "meta": "Python · ★ 10.887 · +3.530 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, Claude Code ve Cursor gibi geliştirici araçları için yetenek, bellek ve güvenlik katmanlarını optimize eden bir ajan performans sistemi sunuyor. Sistem, yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanlarının iş akışlarını daha verimli hale getirmek için tasarlanmıştır.",
+          "meta": "JavaScript · ★ 206.286 · +2.141 bugün"
+        },
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "summary": "Trivy, konteynerler, Kubernetes kümeleri ve bulut altyapılarındaki güvenlik açıklarını, hatalı yapılandırmaları ve gizli anahtarları (secrets) tespit eden kapsamlı bir güvenlik tarama aracıdır. Yazılım malzeme listesi (SBOM) oluşturma yeteneğiyle geliştirme süreçlerinde güvenlik denetimlerini otomatize eder.",
+          "meta": "Go · ★ 35.511 · +24 bugün"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom ajan (autonomous agent) altyapısı sunuyor. Python tabanlı bu sistem, kişiselleştirilmiş iş akışları oluşturmak için sürekli öğrenen bir yapı (continuous learning) kullanıyor.",
+          "meta": "Python · ★ 179.808 · +1.735 bugün"
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Microsoft tarafından geliştirilen MarkItDown, çeşitli dosya formatlarını ve ofis belgelerini işaretleme dili (Markdown) biçimine dönüştüren bir Python aracıdır. Bu araç, yapılandırılmamış verileri büyük dil modelleri (large language models) için daha işlenebilir metin formatlarına çevirmeyi kolaylaştırır.",
+          "meta": "Python · ★ 143.384 · +1.984 bugün"
+        },
+        {
+          "title": "nesquena/hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "summary": "Hermes WebUI, Hermes ajanlarını web tarayıcıları veya mobil cihazlar üzerinden yönetmek için geliştirilmiş bir arayüzdür. Python tabanlı bu araç, kullanıcıların yapay zekâ ajanlarıyla (AI agents) etkileşimini kolaylaştıran bir platform sunar.",
+          "meta": "Python · ★ 13.256 · +719 bugün"
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling, tekil isteklerden kapsamlı tarama işlemlerine kadar tüm süreci yöneten uyarlanabilir bir web kazıma (web scraping) çerçevesidir. Python tabanlı bu araç, karmaşık veri toplama görevlerini basitleştirmek için tasarlanmıştır.",
+          "meta": "Python · ★ 60.629 · +1.067 bugün"
+        },
+        {
+          "title": "opendataloader-project/opendataloader-pdf",
+          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+          "summary": "OpenDataLoader PDF, yapay zekâ modelleri için veriyi hazır hale getiren açık kaynaklı bir PDF ayrıştırıcıdır (PDF parser). Java tabanlı bu proje, PDF belgelerinin erişilebilirliğini otomatikleştirerek veri işleme süreçlerini hızlandırır.",
+          "meta": "Java · ★ 23.530 · +570 bugün"
+        },
+        {
+          "title": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "summary": "Odoo, işletmelerin tüm operasyonel süreçlerini tek bir çatı altında yönetmelerini sağlayan açık kaynaklı bir kurumsal kaynak planlama (enterprise resource planning) platformudur. Python diliyle geliştirilen bu sistem, satıştan muhasebeye kadar geniş bir yelpazede modüler iş uygulamaları sunar.",
+          "meta": "Python · ★ 52.082 · +29 bugün"
+        },
+        {
+          "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "summary": "Open-LLM-VTuber, büyük dil modelleriyle (large language models) eller serbest sesli etkileşim kurulmasını ve sesli kesintiye izin veren canlı karakter animasyonu (Live2D) desteğini yerel sistemlerde çalıştırıyor. Platformlar arası uyumluluğa sahip bu proje, yapay zekâ destekli sanal yayıncılık süreçlerini otomatize ediyor.",
+          "meta": "Python · ★ 9.185 · +693 bugün"
+        },
+        {
+          "title": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "summary": "Coding-interview-university, yazılım mühendisi olmak isteyenler için bilgisayar bilimleri (computer science) temellerini kapsayan kapsamlı bir çalışma planı sunuyor. Bu kaynak, teknik mülakatlara hazırlık sürecinde ihtiyaç duyulan teorik ve pratik bilgileri yapılandırılmış bir müfredatla birleştiriyor.",
+          "meta": "★ 349.290 · +330 bugün"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM, 70 milyar parametreli büyük dil modellerinin (large language models) yalnızca 4 GB video belleğine (VRAM) sahip grafik işlem birimlerinde çalıştırılmasına olanak tanıyor. Bu kütüphane, bellek optimizasyonu tekniklerini kullanarak yüksek kapasiteli modellerin düşük donanım gereksinimleriyle kullanılmasını sağlıyor.",
+          "meta": "Jupyter Notebook · ★ 19.113 · +208 bugün"
+        },
+        {
+          "title": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "summary": "Supermemory, yapay zekâ çağı için ölçeklenebilir bir bellek motoru (memory engine) ve uygulama arayüzü sunuyor. TypeScript ile geliştirilen bu yapı, verilerin hızlı işlenmesi ve yönetilmesi için özelleşmiş bir bellek programlama arayüzü (Memory API) sağlıyor.",
+          "meta": "TypeScript · ★ 25.363 · +600 bugün"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading, finansal piyasalarda işlem yapmak amacıyla geliştirilmiş kişisel bir alım satım ajanı (trading agent) sunuyor. Proje, Python tabanlı yapısıyla kullanıcıların otomatik ticaret stratejilerini yönetmelerine olanak tanıyor.",
+          "meta": "Python · ★ 10.343 · +197 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+          "summary": "Google, metin ve görsel verileri tek bir mimaride işleyebilen çok modlu (multimodal) yapay zekâ modeli Gemma 2 12B'yi duyurdu. Kodlayıcı içermeyen (encoder-free) yapısı sayesinde model, görsel ve metinsel girdileri doğrudan işleyerek daha tutarlı yanıtlar oluşturmayı hedefliyor.",
+          "meta": "814 oy · 321 yorum"
+        },
+        {
+          "title": "Elixir v1.20: Now a gradually typed language",
+          "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+          "summary": "Elixir v1.20 sürümü, kademeli tipleme (gradual typing) desteğini dilin merkezine dahil ediyor. Bu güncelleme, geliştiricilerin kod tabanlarında statik tip denetimi (static type checking) yapmalarına olanak tanıyarak çalışma zamanı hatalarını azaltmayı hedefliyor.",
+          "meta": "730 oy · 264 yorum"
+        },
+        {
+          "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+          "url": "https://burntsushi.net/encephalitis/",
+          "summary": "Yazılım geliştiricisi Andrew Gallant, anti-NMDA reseptör ensefaliti teşhisi sonrası yaşadığı sağlık sürecini ve bu nadir nörolojik durumun günlük yaşam üzerindeki etkilerini paylaşıyor. Kişisel deneyim odaklı bu anlatı, tıbbi teşhis süreçlerinin karmaşıklığına ve sağlık sorunlarının profesyonel yaşam üzerindeki yansımalarına dikkat çekiyor.",
+          "meta": "596 oy · 181 yorum"
+        },
+        {
+          "title": "\"They're made out of weights\"",
+          "url": "https://maxleiter.com/blog/weights",
+          "summary": "Büyük dil modellerinin (large language models) çalışma prensibini ağırlıklar (weights) üzerinden inceleyen bu çalışma, yapay zekâ sistemlerinin karmaşık mantık yürütme süreçlerinin aslında matematiksel katsayıların etkileşiminden ibaret olduğunu açıklıyor. Yazı, modellerin öğrenme ve tahmin yeteneklerinin temelindeki veri işleme mekanizmalarına teknik bir bakış sunuyor.",
+          "meta": "562 oy · 199 yorum"
+        },
+        {
+          "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+          "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+          "summary": "Uber, kurumsal yapay zekâ kullanımına aylık 1.500 dolarlık bir harcama sınırı getirerek yazılım araçlarının fiyatlandırma stratejilerinde yeni bir ölçüt oluşturuyor. Bu uygulama, şirketlerin operasyonel maliyetlerini kontrol altında tutmak için kullandığı kullanım tabanlı fiyatlandırma (usage-based pricing) modellerinin yaygınlaştığını gösteriyor.",
+          "meta": "467 oy · 580 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "NVIDIA tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma (object localization) görevlerini yerine getiren bir görüntü-metin-metin (image-text-to-text) modelidir. Model, karmaşık sahnelerdeki nesneleri tanımlamak ve bu nesnelerin koordinatlarını metin tabanlı çıktı olarak sunmak için tasarlanmıştır.",
+          "meta": "♥ 1.210 · 91.834 indirme"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "summary": "LiquidAI tarafından geliştirilen LFM2.5-8B-A1B, metin üretimi (text generation) odaklı bir model olarak kullanıma sunuldu. Model, yüksek performanslı hesaplama mimarisiyle dil işleme süreçlerinde verimlilik sağlamayı hedefliyor.",
+          "meta": "♥ 486 · 72.114 indirme"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "HuggingFace üzerinde paylaşılan Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive modeli, görsel ve metin verilerini işleyerek metin çıktısı üreten (image-text-to-text) bir yapay zekâ modelidir. Model, içerik kısıtlaması bulunmayan (uncensored) yapısıyla farklı veri türlerini analiz etme yeteneği sunar.",
+          "meta": "♥ 1.368 · 2.646.756 indirme"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "OpenBMB tarafından geliştirilen MiniCPM5-1B, metin üretimi (text generation) görevleri için optimize edilmiş düşük parametreli bir dil modelidir. Sınırlı hesaplama kaynaklarında yüksek performans sunmayı amaçlayan bu model, verimli yapay zekâ (efficient AI) çözümleri arasında yer alıyor.",
+          "meta": "♥ 762 · 79.427 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Google tarafından geliştirilen Gemma 2 12B, farklı veri türleri arasında dönüşüm yapabilen çok modlu (any-to-any) bir model yapısı sunuyor. Bu model, metin ve görsel gibi çeşitli girdi türlerini işleyerek esnek bir yapay zekâ deneyimi sağlıyor.",
+          "meta": "♥ 274 · 14.866 indirme"
+        }
+      ]
+    }
+  ]
+}
