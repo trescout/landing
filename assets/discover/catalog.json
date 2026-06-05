@@ -941,5 +941,112 @@
     ],
     "stars": 10343,
     "lite": false
+  },
+  {
+    "slug": "paddleocr",
+    "title": "PaddleOCR",
+    "tagline": "PaddlePaddle tarafından geliştirilen PaddleOCR, PDF ve görsel belgeleri büyük dil modelleri (large language models) için…",
+    "meta": "★ 80.160 · Python",
+    "image": "/assets/discover/og/paddleocr.webp",
+    "source": "GitHub",
+    "date": "2026-06-05",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 80160,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "spec-kit",
+    "title": "Spec Kit",
+    "tagline": "GitHub tarafından yayınlanan spec-kit, şartname odaklı geliştirme (spec-driven development) süreçlerini başlatmak için gerekli…",
+    "meta": "★ 108.801 · Python",
+    "image": "/assets/discover/og/spec-kit.webp",
+    "source": "GitHub",
+    "date": "2026-06-05",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 108801,
+    "lite": false
+  },
+  {
+    "slug": "cosmos",
+    "title": "Cosmos",
+    "tagline": "NVIDIA tarafından geliştirilen Cosmos, robotlar ve otonom araçlar gibi fiziksel sistemler için dünya modelleri (world models)…",
+    "meta": "★ 9.173 · Jupyter Notebook",
+    "image": "/assets/discover/og/cosmos.webp",
+    "source": "GitHub",
+    "date": "2026-06-05",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 9173,
+    "lite": false
+  },
+  {
+    "slug": "open-notebook",
+    "title": "Open Notebook",
+    "tagline": "Open-notebook, Google NotebookLM'in açık kaynaklı bir alternatifini sunarak kullanıcıların kendi verileri üzerinde…",
+    "meta": "★ 25.373 · TypeScript",
+    "image": "/assets/discover/og/open-notebook.webp",
+    "source": "GitHub",
+    "date": "2026-06-05",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 25373,
+    "lite": false
+  },
+  {
+    "slug": "copilot-sdk",
+    "title": "Copilot SDK",
+    "tagline": "GitHub Copilot SDK, geliştiricilerin GitHub Copilot yapay zekâ ajanlarını kendi uygulama ve hizmetlerine entegre etmelerini…",
+    "meta": "★ 9.070 · Java",
+    "image": "/assets/discover/og/copilot-sdk.webp",
+    "source": "GitHub",
+    "date": "2026-06-05",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 9070,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "openclaw-windows-node",
+    "title": "Openclaw Windows Node",
+    "tagline": "OpenClaw Windows düğümü (node), sistem tepsisi uygulaması, paylaşılan kütüphane ve PowerToys komut paleti uzantısı…",
+    "meta": "★ 1.432 · C#",
+    "image": "/assets/discover/og/openclaw-windows-node.webp",
+    "source": "GitHub",
+    "date": "2026-06-05",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1432,
+    "lite": false
+  },
+  {
+    "slug": "last30days-skill",
+    "title": "Last30days Skill",
+    "tagline": "Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlarda araştırma yaparak güncel verileri…",
+    "meta": "★ 27.863 · Python",
+    "image": "/assets/discover/og/last30days-skill.webp",
+    "source": "GitHub",
+    "date": "2026-06-05",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 27863,
+    "lite": false
   }
 ]

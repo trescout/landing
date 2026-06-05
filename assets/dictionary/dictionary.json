@@ -551,5 +551,40 @@
     "full": "",
     "cat": "ai",
     "kisa": "İki boyutlu çizimleri üç boyutluymuş gibi hareket ettirerek karakterlere canlılık kazandıran bir teknolojidir."
+  },
+  {
+    "slug": "optical-character-recognition",
+    "en": "Optical Character Recognition",
+    "full": "OCR",
+    "cat": "data",
+    "kisa": "Görsel haldeki metinleri bilgisayarın düzenleyebileceği dijital yazıya dönüştüren teknoloji."
+  },
+  {
+    "slug": "spec-driven-development",
+    "en": "Spec-driven Development",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımı kodlamaya başlamadan önce tüm detayların ve kuralların önceden belirlenmiş bir belgeye göre yapılması."
+  },
+  {
+    "slug": "physical-ai",
+    "en": "Physical AI",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Robotlar gibi fiziksel dünyadaki nesneleri kontrol edebilen ve çevreyle etkileşime giren yapay zekâ sistemleri."
+  },
+  {
+    "slug": "ai-powered-note-analysis",
+    "en": "AI-powered Note Analysis",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Tutulan notlardaki önemli bilgilerin yapay zekâ tarafından bulunup özetlenmesi veya düzenlenmesi."
+  },
+  {
+    "slug": "computer-science",
+    "en": "Computer Science",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarların çalışma prensiplerini, yazılım geliştirmeyi ve veri işleme yöntemlerini inceleyen bilim dalı."
   }
 ]

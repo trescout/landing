@@ -32,7 +32,7 @@ Coding Interview University müfredatını kullanarak bir yazılım mühendisli�
 - [GitHub deposu →](https://github.com/jwasham/coding-interview-university)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Computer Science Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
