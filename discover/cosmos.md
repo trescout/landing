@@ -41,7 +41,7 @@ NVIDIA Cosmos platformunu kullanarak fiziksel yapay zekâ uygulamaları gelişti
 - [GitHub deposu →](https://github.com/NVIDIA/cosmos)
 
 ## İlgili sözlük terimleri
-Physical AI Jupyter Notebooks Artificial Intelligence 
+Physical AI World Models Jupyter Notebooks Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

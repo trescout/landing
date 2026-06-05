@@ -40,7 +40,7 @@ Lisans: GitHub standart bir lisans tespit etmedi. Yeniden kullanım öncesi repo
 - [GitHub deposu →](https://github.com/galilai-group/stable-worldmodel)
 
 ## İlgili sözlük terimleri
-Open Source Artificial Intelligence 
+World Models Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

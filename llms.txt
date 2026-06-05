@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir. Açık kaynak ve teknoloji trendlerini Türkçe takip etmek isteyenler için.
 
-Son güncelleme: 2026-06-05 · 71 araç · 84 terim
+Son güncelleme: 2026-06-05 · 71 araç · 85 terim
 
 ## Teknoloji Sözlüğü
 
@@ -91,6 +91,7 @@ Yapay zekâ ve yazılım terimlerinin sade Türkçe açıklamaları. Her terimin
 - [Web Interface nedir?](https://trescout.com/dictionary/web-interface/) (ham: https://trescout.com/dictionary/web-interface.md): Karmaşık yazılımları veya yapay zekâ modellerini internet tarayıcınız üzerinden kolayca y…
 - [Web Scraping nedir?](https://trescout.com/dictionary/web-scraping/) (ham: https://trescout.com/dictionary/web-scraping.md): İnternet sitelerindeki verileri otomatik yöntemlerle toplayıp kaydeden yazılım süreci.
 - [World Model nedir?](https://trescout.com/dictionary/world-model/) (ham: https://trescout.com/dictionary/world-model.md): Yapay zekanın fiziksel dünyanın nasıl işlediğini anlamasını sağlayan sistemdir.
+- [World Models nedir?](https://trescout.com/dictionary/world-models/) (ham: https://trescout.com/dictionary/world-models.md): Yapay zekânın fiziksel dünyanın kurallarını ve işleyişini öğrenerek gelecekteki sonuçları…
 - [Zero-day Exploit nedir?](https://trescout.com/dictionary/zero-day/) (ham: https://trescout.com/dictionary/zero-day.md): Henüz çözümü bulunmamış, yeni keşfedilen güvenlik açığıdır.
 - [Zero-shot Learning nedir?](https://trescout.com/dictionary/zero-shot-learning/) (ham: https://trescout.com/dictionary/zero-shot-learning.md): Yapay zekanın hiç eğitim almadığı bir konuyu tahmin etme yeteneğidir.
 

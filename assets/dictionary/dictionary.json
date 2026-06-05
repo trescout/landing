@@ -586,5 +586,12 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bilgisayarların çalışma prensiplerini, yazılım geliştirmeyi ve veri işleme yöntemlerini inceleyen bilim dalı."
+  },
+  {
+    "slug": "world-models",
+    "en": "World Models",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın fiziksel dünyanın kurallarını ve işleyişini öğrenerek gelecekteki sonuçları simüle etmesini sağlayan sistemlerdir."
   }
 ]
