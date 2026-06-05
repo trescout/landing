@@ -1,0 +1,165 @@
+{
+  "date": "2026-06-05",
+  "editorial": "Bugün öne çıkan başlıklar otonom ajanlar (autonomous agents) ve görsel tanıma sistemleri üzerine yoğunlaşıyor. Özellikle NousResearch tarafından yayınlanan ajan mimarileri ve NVIDIA'nın görüntü işleme modelleri (vision models) geliştiricilerin odak noktasında yer alıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom, büyük dil modellerine (LLM) gönderilen günlük dosyalarını, verileri ve bağlamsal bilgi parçalarını (RAG chunks) sıkıştırarak jeton (token) kullanımını yüzde 95'e varan oranda azaltıyor. Python tabanlı bu araç, kütüphane ve vekil sunucu (proxy) desteğiyle model yanıt kalitesini korurken işlem maliyetlerini düşürmeyi amaçlıyor.",
+          "meta": "Python · ★ 13.394 · +3.142 bugün"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom yapay zekâ ajanıdır (autonomous AI agent). Python tabanlı bu sistem, kişiselleştirilmiş görev yönetimi ve sürekli öğrenme (continuous learning) yetenekleriyle kullanıcı ihtiyaçlarına uyum sağlamayı amaçlar.",
+          "meta": "Python · ★ 181.576 · +1.913 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, Claude Code ve Cursor gibi yapay zekâ kodlama araçları için yetenek (skills), içgüdü (instincts) ve bellek (memory) katmanlarını optimize eden bir sistem sunuyor. Yazılım geliştirme süreçlerinde ajan performansını ve güvenlik standartlarını artırmayı hedefleyen bir altyapı sağlıyor.",
+          "meta": "JavaScript · ★ 207.674 · +1.750 bugün"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "summary": "PaddlePaddle tarafından geliştirilen PaddleOCR, PDF ve görsel belgeleri büyük dil modelleri (large language models) için yapılandırılmış veriye dönüştüren hafif bir optik karakter tanıma (optical character recognition) aracıdır. 100'den fazla dili destekleyen bu kütüphane, görsel içerikler ile yapay zekâ modelleri arasındaki veri akışını standartlaştırmaktadır.",
+          "meta": "Python · ★ 80.160 · +141 bugün"
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "GitHub tarafından yayınlanan spec-kit, şartname odaklı geliştirme (spec-driven development) süreçlerini başlatmak için gerekli araçları sunuyor. Python tabanlı bu kütüphane, yazılım geliştirme aşamasında tanımlanan teknik şartnamelerin kod süreçlerine entegrasyonunu kolaylaştırıyor.",
+          "meta": "Python · ★ 108.801 · +321 bugün"
+        },
+        {
+          "title": "NVIDIA/cosmos",
+          "url": "https://github.com/NVIDIA/cosmos",
+          "summary": "NVIDIA tarafından geliştirilen Cosmos, robotlar ve otonom araçlar gibi fiziksel sistemler için dünya modelleri (world models), veri setleri ve araçlar sunan açık bir platformdur. Geliştiricilerin fiziksel yapay zekâ (physical AI) uygulamaları oluşturmasını kolaylaştıran bir altyapı sağlar.",
+          "meta": "Jupyter Notebook · ★ 9.173 · +133 bugün"
+        },
+        {
+          "title": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "summary": "Open-notebook, Google NotebookLM'in açık kaynaklı bir alternatifini sunarak kullanıcıların kendi verileri üzerinde özelleştirilebilir yapay zekâ destekli not analizi (AI-powered note analysis) yapmalarına olanak tanıyor. TypeScript ile geliştirilen bu proje, orijinal platforma kıyasla daha fazla esneklik ve genişletilmiş özellik seti sağlıyor.",
+          "meta": "TypeScript · ★ 25.373 · +212 bugün"
+        },
+        {
+          "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "summary": "Open-LLM-VTuber, yerel olarak çalışan büyük dil modelleri (large language models) ile sesli etkileşimi ve Live2D karakter animasyonlarını bir araya getiriyor. Sistem, kullanıcıların sesli kesintilere izin veren doğal bir akışla sanal karakterlerle konuşmasını sağlıyor.",
+          "meta": "Python · ★ 9.800 · +581 bugün"
+        },
+        {
+          "title": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "summary": "Yazılım mühendisi adayları için hazırlanan bu çalışma planı, bilgisayar bilimleri (computer science) temel konularını içeren kapsamlı bir eğitim müfredatı sunuyor. Teknik mülakatlara hazırlık sürecini yapılandırmak isteyen geliştiriciler için bir yol haritası görevi görüyor.",
+          "meta": "★ 349.959 · +632 bugün"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub Copilot SDK, geliştiricilerin GitHub Copilot yapay zekâ ajanlarını kendi uygulama ve hizmetlerine entegre etmelerini sağlayan çok platformlu bir yazılım geliştirme kiti (SDK) sunuyor. Java diliyle hazırlanan bu araç, özelleştirilmiş yapay zekâ iş akışlarının farklı platformlarda standart bir yapıyla oluşturulmasına olanak tanıyor.",
+          "meta": "Java · ★ 9.070 · +38 bugün"
+        },
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "summary": "Trivy, konteynerler, Kubernetes kümeleri ve bulut altyapıları üzerinde güvenlik açığı taraması, yapılandırma hataları denetimi ve yazılım bileşen listesi (SBOM) oluşturma işlemleri gerçekleştiren kapsamlı bir güvenlik aracıdır. Go diliyle geliştirilen bu açık kaynaklı çözüm, kod depolarından bulut ortamlarına kadar geniş bir yelpazede güvenlik risklerini tespit etmeyi sağlar.",
+          "meta": "Go · ★ 35.731 · +255 bugün"
+        },
+        {
+          "title": "openclaw/openclaw-windows-node",
+          "url": "https://github.com/openclaw/openclaw-windows-node",
+          "summary": "OpenClaw Windows düğümü (node), sistem tepsisi uygulaması, paylaşılan kütüphane ve PowerToys komut paleti uzantısı aracılığıyla Windows işletim sistemi üzerinde bütünleşik bir yönetim paketi sunuyor. C# diliyle geliştirilen bu araç, sistem kaynaklarına erişimi ve kullanıcı iş akışlarını standartlaştırmayı hedefliyor.",
+          "meta": "C# · ★ 1.432 · +411 bugün"
+        },
+        {
+          "title": "reconurge/flowsint",
+          "url": "https://github.com/reconurge/flowsint",
+          "summary": "Flowsint, siber güvenlik analistleri ve araştırmacılar için görsel, esnek ve genişletilebilir çizge tabanlı (graph-based) inceleme platformu sunuyor. TypeScript ile geliştirilen bu araç, karmaşık veri setlerini görselleştirerek güvenlik süreçlerini standartlaştırmayı hedefliyor.",
+          "meta": "TypeScript · ★ 5.422 · +308 bugün"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlarda araştırma yaparak güncel verileri sentezleyen bir yapay zekâ yeteneği (AI agent skill) sunuyor. Python tabanlı bu araç, farklı kaynaklardan elde edilen bilgileri birleştirerek kullanıcılar için doğrulanabilir özetler oluşturuyor.",
+          "meta": "Python · ★ 27.863 · +199 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "VoidZero Is Joining Cloudflare",
+          "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+          "summary": "JavaScript araç zinciri geliştiricisi VoidZero, Cloudflare bünyesine katıldı. Bu birleşme ile Vite, Vitest ve Rolldup gibi popüler araçların performansını artırmaya yönelik çalışmalar Cloudflare altyapısında devam edecek.",
+          "meta": "629 oy · 272 yorum"
+        },
+        {
+          "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+          "summary": "S&P Dow Jones Endeksleri, büyük ölçekli halka arzların (IPO) endekslere hızlı girişine izin veren kuralları değiştirmeme kararı aldı. Bu düzenleme, SpaceX gibi yüksek piyasa değerine sahip şirketlerin endekslere dahil edilmeden önce belirli bir süre piyasada işlem görme şartını koruyor.",
+          "meta": "500 oy · 243 yorum"
+        },
+        {
+          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+          "summary": "Yapay zekâ modellerinin kendi kodlarını yazıp optimize etmesi olarak tanımlanan özyinelemeli öz-gelişim (recursive self-improvement), sistemlerin performansını insan müdahalesi olmadan artırmayı hedefliyor. Bu süreç, yapay zekânın kendi mimarisini iyileştirerek daha yetenekli modeller oluşturması için gereken teknik ve güvenlik standartlarını belirlemeye odaklanıyor.",
+          "meta": "441 oy · 585 yorum"
+        },
+        {
+          "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+          "url": "https://github.com/anthropics/defending-code-reference-harness",
+          "summary": "Anthropic, yapay zekâ destekli güvenlik açığı tespiti (vulnerability discovery) süreçlerini iyileştirmek amacıyla açık kaynaklı bir çerçeve (framework) yayımladı. Bu araç, yazılım kodundaki zayıf noktaları belirlemek için geliştiricilere standart bir test ortamı (harness) sunuyor.",
+          "meta": "398 oy · 114 yorum"
+        },
+        {
+          "title": "Retro-Tech Parenting",
+          "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+          "summary": "Ebeveynler, çocuklarının dijital ekranlara maruz kalmasını sınırlamak için eski teknoloji (retro-tech) cihazlarına yöneliyor. Akıllı telefonlar yerine basit işlevli telefonlar (feature phones) ve internet bağlantısı olmayan dijital araçlar kullanılarak çocukların odaklanma becerilerinin korunması hedefleniyor.",
+          "meta": "287 oy · 197 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "NVIDIA tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma çıktıları üreten bir görüntü-metin-metin (image-text-to-text) modelidir. Bu model, görsel verilerdeki nesneleri tanımlamak ve koordinat tabanlı verilerle ilişkilendirmek için tasarlanmıştır.",
+          "meta": "♥ 1.317 · 101.823 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Google tarafından geliştirilen Gemma 2 12B, farklı veri türleri arasında dönüşüm yapabilen çok modlu (any-to-any) bir model yapısı sunuyor. Bu model, metin ve görsel verileri işleyerek çeşitli görevlerde esnek bir performans sergiliyor.",
+          "meta": "♥ 468 · 142.851 indirme"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "summary": "LiquidAI tarafından geliştirilen LFM2.5-8B-A1B, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. Geleneksel mimarilerden farklı olarak sıvı sinir ağları (liquid neural networks) yapısını kullanan model, verimli hesaplama performansı sunmayı amaçlar.",
+          "meta": "♥ 519 · 82.709 indirme"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive modeli, görüntü ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapıdır. Sansürsüz (uncensored) yapısıyla kısıtlamasız içerik üretimine odaklanan bu model, görsel verileri çözümleme süreçlerinde esneklik sağlamayı amaçlar.",
+          "meta": "♥ 1.427 · 2.687.304 indirme"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "Unsloth tarafından optimize edilen Gemma 4-12b-it modeli, görüntü ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapıdır. Model, GGUF formatı sayesinde düşük bellek kullanımıyla yerel donanımlarda verimli çıkarım (inference) yapılmasına olanak tanır.",
+          "meta": "♥ 324 · 296.410 indirme"
+        }
+      ]
+    }
+  ]
+}
