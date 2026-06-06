@@ -1048,5 +1048,98 @@
     ],
     "stars": 27863,
     "lite": false
+  },
+  {
+    "slug": "copilotkit",
+    "title": "CopilotKit",
+    "tagline": "CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz…",
+    "meta": "★ 32.818 · TypeScript",
+    "image": "/assets/discover/og/copilotkit.webp",
+    "source": "GitHub",
+    "date": "2026-06-06",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 32818,
+    "lite": false
+  },
+  {
+    "slug": "agent-reach",
+    "title": "Agent-Reach",
+    "tagline": "Agent-Reach, yapay zekâ ajanlarına internetin tamamını tarama ve içerik okuma yeteneği kazandıran bir komut satırı arayüzü…",
+    "meta": "★ 21.757 · Python",
+    "image": "/assets/discover/og/agent-reach.webp",
+    "source": "GitHub",
+    "date": "2026-06-06",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 21757,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "mirofish",
+    "title": "MiroFish",
+    "tagline": "MiroFish, çeşitli veri türlerini tahmin etmek amacıyla geliştirilen basit ve evrensel bir sürü zekâsı motoru (swarm…",
+    "meta": "★ 64.830 · Python",
+    "image": "/assets/discover/og/mirofish.webp",
+    "source": "GitHub",
+    "date": "2026-06-06",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 64830,
+    "lite": false
+  },
+  {
+    "slug": "plugins",
+    "title": "Plugins",
+    "tagline": "OpenAI eklentileri (plugins), dil modellerinin güncel verilere erişmesini ve üçüncü taraf uygulamalarla etkileşime girmesini…",
+    "meta": "★ 1.596 · JavaScript",
+    "image": "/assets/discover/og/plugins.webp",
+    "source": "GitHub",
+    "date": "2026-06-06",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1596,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "mempalace",
+    "title": "Mempalace",
+    "tagline": "MemPalace, yapay zekâ modelleri için açık kaynaklı bir bellek sistemi (memory system) sunuyor.",
+    "meta": "★ 53.981 · Python",
+    "image": "/assets/discover/og/mempalace.webp",
+    "source": "GitHub",
+    "date": "2026-06-06",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 53981,
+    "lite": false
+  },
+  {
+    "slug": "flue",
+    "title": "Flue",
+    "tagline": "Astro ekibi tarafından geliştirilen Flue, TypeScript tabanlı bir kum havuzu ajan çatısı (sandbox agent framework) olarak öne…",
+    "meta": "★ 4.594 · TypeScript",
+    "image": "/assets/discover/og/flue.webp",
+    "source": "GitHub",
+    "date": "2026-06-06",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 4594,
+    "lite": false
   }
 ]

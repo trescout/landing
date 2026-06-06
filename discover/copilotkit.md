@@ -1,0 +1,45 @@
+# CopilotKit
+
+CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz yığını (frontend stack) sunuyor. AG-UI protokolü üzerinden uygulamalara akıllı yetenekler entegre edilmesini sağlayan bir altyapı sağlıyor.
+
+- ★ 32.818
+- TypeScript
+- GitHub Trending · 2026-06-06
+
+## Ne kazandırır?
+- Uygulamalara dinamik ve akıllı arayüzler ekler.
+- Yapay zeka ajanları ile kullanıcı arayüzü arasında gerçek zamanlı veri paylaşımı sağlar.
+- İnsan onaylı iş akışları ve kendi kendine öğrenen ajanlar oluşturulmasına olanak tanır.
+
+## Kurulum
+
+**Yeni projeler için**
+
+```
+npx copilotkit@latest create -f 
+```
+
+**Mevcut projeler için**
+
+```
+npx copilotkit@latest init
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+CopilotKit kullanarak uygulamama yapay zeka yetenekleri eklemek istiyorum. Projemin altyapısına uygun olarak npx copilotkit@latest create -f veya mevcut projem için npx copilotkit@latest init komutlarını kullanarak kurulumu nasıl yapılandırabilirim? Ajanların arayüzle etkileşimini sağlamak ve Generative UI özelliklerini kullanmaya başlamak için izlemem gereken temel adımları açıkla.
+
+- **Kimin için:** Uygulamalarına yapay zeka destekli akıllı arayüzler ve ajan tabanlı iş akışları entegre etmek isteyen yazılım geliştiriciler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/CopilotKit/CopilotKit)
+
+## İlgili sözlük terimleri
+Generative UI Frontend Stack Artificial Intelligence 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/copilotkit/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

@@ -593,5 +593,33 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay zekânın fiziksel dünyanın kurallarını ve işleyişini öğrenerek gelecekteki sonuçları simüle etmesini sağlayan sistemlerdir."
+  },
+  {
+    "slug": "generative-ui",
+    "en": "Generative UI",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kullanıcının o anki ihtiyacına göre yapay zekâ tarafından anlık olarak oluşturulan ekran tasarımıdır."
+  },
+  {
+    "slug": "frontend-stack",
+    "en": "Frontend Stack",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir web sitesinin veya uygulamanın kullanıcı tarafından görünen kısmını oluşturmak için kullanılan yazılım araçları bütünüdür."
+  },
+  {
+    "slug": "swarm-intelligence-engine",
+    "en": "Swarm Intelligence Engine",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Birçok küçük birimin bir araya gelerek tek bir akıllı sistem gibi hareket etmesini sağlayan yönetim mekanizmasıdır."
+  },
+  {
+    "slug": "ai-agent-skill",
+    "en": "AI Agent Skill",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ temsilcisinin bir işi tamamlamak için kullanabileceği, internette arama yapmak veya dosya düzenlemek gibi özel becerilerdir."
   }
 ]

@@ -30,7 +30,7 @@ Sen bir yapay zekâ ajanısın. Last30days-skill aracını kullanarak [ARANACAK 
 - [GitHub deposu →](https://github.com/mvanhorn/last30days-skill)
 
 ## İlgili sözlük terimleri
-AI Agent Artificial Intelligence 
+AI Agent Skill AI Agent Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
