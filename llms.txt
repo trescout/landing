@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir. Açık kaynak ve teknoloji trendlerini Türkçe takip etmek isteyenler için.
 
-Son güncelleme: 2026-06-06 · 77 araç · 89 terim
+Son güncelleme: 2026-06-06 · 77 araç · 90 terim
 
 ## Teknoloji Sözlüğü
 
@@ -21,6 +21,7 @@ Yapay zekâ ve yazılım terimlerinin sade Türkçe açıklamaları. Her terimin
 - [API nedir?](https://trescout.com/dictionary/api/) (ham: https://trescout.com/dictionary/api.md): İki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprüdür.
 - [Artificial Intelligence nedir?](https://trescout.com/dictionary/artificial-intelligence/) (ham: https://trescout.com/dictionary/artificial-intelligence.md): İnsan zekâsını taklit ederek öğrenme, mantık yürütme ve problem çözme yeteneğine sahip bi…
 - [Autonomous Agent nedir?](https://trescout.com/dictionary/autonomous-agent/) (ham: https://trescout.com/dictionary/autonomous-agent.md): İnsan müdahalesi olmadan kendi başına hedefler belirleyip bu hedeflere ulaşmak için gerek…
+- [Autonomous AI Agent nedir?](https://trescout.com/dictionary/autonomous-ai-agent/) (ham: https://trescout.com/dictionary/autonomous-ai-agent.md): İnsan müdahalesi olmadan kendi hedeflerini belirleyip karmaşık görevleri uçtan uca yerine…
 - [CLI nedir?](https://trescout.com/dictionary/cli/) (ham: https://trescout.com/dictionary/cli.md): Bilgisayara komutları yazılı metinler ile verme yöntemidir.
 - [Compound Engineering nedir?](https://trescout.com/dictionary/compound-engineering/) (ham: https://trescout.com/dictionary/compound-engineering.md): Her mühendislik adımının bir sonrakini kolaylaştıracak şekilde biriktiği, yapay zekâ dest…
 - [Computer Science nedir?](https://trescout.com/dictionary/computer-science/) (ham: https://trescout.com/dictionary/computer-science.md): Bilgisayarların çalışma prensiplerini, yazılım geliştirmeyi ve veri işleme yöntemlerini i…

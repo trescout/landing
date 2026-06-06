@@ -621,5 +621,12 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay zekâ temsilcisinin bir işi tamamlamak için kullanabileceği, internette arama yapmak veya dosya düzenlemek gibi özel becerilerdir."
+  },
+  {
+    "slug": "autonomous-ai-agent",
+    "en": "Autonomous AI Agent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnsan müdahalesi olmadan kendi hedeflerini belirleyip karmaşık görevleri uçtan uca yerine getirebilen yazılım sistemidir."
   }
 ]
