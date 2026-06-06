@@ -1,0 +1,183 @@
+{
+  "date": "2026-06-06",
+  "editorial": "Yazılım dünyasında bugün otonom ajanlar (autonomous agents) ve bu ajanların uygulama arayüzlerine entegrasyonu (integration) üzerine yoğun bir geliştirici aktivitesi gözlemleniyor. GitHub üzerindeki güncel projeler, özellikle karmaşık görev yönetimi ve veri işleme süreçlerinde yapay zekâ tabanlı otomasyonun standartlaşma eğiliminde olduğunu gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom yapay zekâ ajanı (autonomous AI agent) yapısı sunuyor. Python tabanlı bu sistem, kişiselleştirilmiş iş akışları oluşturmak için sürekli öğrenme (continuous learning) mekanizmalarını kullanıyor.",
+          "meta": "Python · ★ 183.675 · +1.845 bugün"
+        },
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom, büyük dil modellerine (LLM) gönderilen günlük dosyalarını, kod çıktılarını ve bağlamsal veri parçalarını (RAG chunks) sıkıştırarak jeton (token) kullanımını %95'e varan oranda azaltıyor. Bu kütüphane, veri yoğunluğunu artırarak model yanıt kalitesini korurken işlem maliyetlerini düşürmeyi hedefliyor.",
+          "meta": "Python · ★ 14.791 · +2.473 bugün"
+        },
+        {
+          "title": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "summary": "CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz yığını (frontend stack) sunuyor. AG-UI protokolü üzerinden uygulamalara akıllı yetenekler entegre edilmesini sağlayan bir altyapı sağlıyor.",
+          "meta": "TypeScript · ★ 32.818 · +366 bugün"
+        },
+        {
+          "title": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "summary": "Open-notebook, Google'ın NotebookLM aracına alternatif olarak geliştirilen açık kaynaklı bir not defteri uygulamasıdır. Kullanıcılara belgeleri analiz etme ve yapay zekâ destekli içerik üretme süreçlerinde daha fazla esneklik ve özelleştirme imkânı sağlar.",
+          "meta": "TypeScript · ★ 26.176 · +1.152 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, yapay zekâ ajanları için yetenekler (skills), içgüdüler (instincts), bellek (memory) ve güvenlik katmanlarını birleştiren bir performans optimizasyon sistemidir. Claude Code, Codex ve Cursor gibi geliştirme araçlarıyla entegre çalışarak ajan tabanlı iş akışlarının verimliliğini artırmayı hedefler.",
+          "meta": "JavaScript · ★ 208.558 · +1.361 bugün"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach, yapay zekâ ajanlarına internetin tamamını tarama ve içerik okuma yeteneği kazandıran bir komut satırı arayüzü (CLI) aracıdır. Twitter, Reddit ve GitHub gibi platformlardan veri çekmek için herhangi bir uygulama programlama arayüzü (API) ücreti ödemeden doğrudan erişim sağlar.",
+          "meta": "Python · ★ 21.757 · +148 bugün"
+        },
+        {
+          "title": "NVIDIA/cosmos",
+          "url": "https://github.com/NVIDIA/cosmos",
+          "summary": "NVIDIA tarafından geliştirilen Cosmos, robotlar ve otonom araçlar gibi sistemler için fiziksel yapay zekâ (physical AI) uygulamaları oluşturmaya yarayan dünya modelleri (world models), veri setleri ve araçlar sunan açık bir platformdur. Geliştiricilerin fiziksel dünyayı anlayan akıllı sistemler tasarlamasını kolaylaştırmayı amaçlar.",
+          "meta": "Jupyter Notebook · ★ 9.481 · +479 bugün"
+        },
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "summary": "MiroFish, çeşitli veri türlerini tahmin etmek amacıyla geliştirilen basit ve evrensel bir sürü zekâsı motoru (swarm intelligence engine) sunuyor. Python tabanlı bu araç, karmaşık sistemlerdeki örüntüleri tanımlamak için kolektif hesaplama yöntemlerinden yararlanıyor.",
+          "meta": "Python · ★ 64.830 · +320 bugün"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlar üzerinden güncel verileri tarayarak araştırma yapan bir yapay zekâ yeteneği (AI agent skill) sunuyor. Python tabanlı bu araç, toplanan bilgileri sentezleyerek kullanıcıya dayanaklı özetler sağlıyor.",
+          "meta": "Python · ★ 28.321 · +731 bugün"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "summary": "PaddleOCR, PDF ve görsellerdeki metinleri yapılandırılmış verilere dönüştürerek büyük dil modelleriyle (large language models) entegre çalışan hafif bir optik karakter tanıma (optical character recognition) aracıdır. 100'den fazla dili destekleyen bu kütüphane, görsel belgelerin yapay zekâ iş akışlarına dahil edilmesini kolaylaştırır.",
+          "meta": "Python · ★ 80.646 · +747 bugün"
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "OpenAI eklentileri (plugins), dil modellerinin güncel verilere erişmesini ve üçüncü taraf uygulamalarla etkileşime girmesini sağlıyor. Bu yapı, yapay zekânın dış araçları kullanarak karmaşık görevleri yerine getirmesine olanak tanıyor.",
+          "meta": "JavaScript · ★ 1.596 · +49 bugün"
+        },
+        {
+          "title": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "summary": "MemPalace, yapay zekâ modelleri için açık kaynaklı bir bellek sistemi (memory system) sunuyor. Sistem, geniş dil modellerinin (large language models) bağlamsal hafıza performansını ölçümlemek ve geliştirmek amacıyla optimize edilmiş araçlar içeriyor.",
+          "meta": "Python · ★ 53.981 · +227 bugün"
+        },
+        {
+          "title": "withastro/flue",
+          "url": "https://github.com/withastro/flue",
+          "summary": "Astro ekibi tarafından geliştirilen Flue, TypeScript tabanlı bir kum havuzu ajan çatısı (sandbox agent framework) olarak öne çıkıyor. Bu yapı, geliştiricilerin güvenli ve izole edilmiş ortamlarda yapay zekâ ajanları oluşturmasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 4.594 · +126 bugün"
+        },
+        {
+          "title": "openclaw/openclaw-windows-node",
+          "url": "https://github.com/openclaw/openclaw-windows-node",
+          "summary": "OpenClaw Windows düğümü (node), sistem tepsisi uygulaması ve paylaşılan kütüphaneler aracılığıyla OpenClaw ekosistemini Windows işletim sistemine entegre ediyor. C# diliyle geliştirilen bu araç, PowerToys komut paleti uzantısı üzerinden sistem genelinde iş akışı yönetimi sağlıyor.",
+          "meta": "C# · ★ 1.640 · +326 bugün"
+        },
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "summary": "Trivy, konteynerler, Kubernetes kümeleri ve bulut altyapıları üzerinde güvenlik açığı taraması (vulnerability scanning), yanlış yapılandırma tespiti ve yazılım malzeme listesi (SBOM) oluşturma işlemleri gerçekleştiren kapsamlı bir güvenlik aracıdır. Go diliyle geliştirilen bu açık kaynaklı çözüm, yazılım geliştirme yaşam döngüsünün farklı aşamalarında güvenlik denetimlerini otomatize etmeyi sağlar.",
+          "meta": "Go · ★ 35.889 · +207 bugün"
+        },
+        {
+          "title": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "summary": "Yazılım mühendisi olmak isteyenler için hazırlanan bu kaynak, bilgisayar bilimleri (computer science) alanında kapsamlı bir çalışma planı sunuyor. Teknik mülakatlara hazırlık sürecini yapılandıran içerik, temel mühendislik disiplinlerini öğrenmek için gereken yol haritasını detaylandırıyor.",
+          "meta": "★ 350.488 · +745 bugün"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub, geliştiricilerin GitHub Copilot ajanlarını kendi uygulama ve servislerine entegre etmelerini sağlayan çoklu platform yazılım geliştirme kiti (SDK) yayınladı. Bu araç, yapay zekâ destekli kodlama asistanlarının farklı platformlarda standart bir şekilde kullanılabilmesine olanak tanıyor.",
+          "meta": "Java · ★ 9.301 · +309 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+          "url": "https://mouseless.click",
+          "summary": "Mouseless, işletim sistemi genelinde klavye tabanlı kontrol sağlayan ve fare kullanımını en aza indiren bir araçtır. Kullanıcıların komut satırı arayüzü (command-line interface) benzeri bir deneyimle uygulama geçişlerini ve pencere yönetimini hızlandırmasını sağlar.",
+          "meta": "509 oy · 211 yorum"
+        },
+        {
+          "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+          "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+          "summary": "Birleşik Krallık hükümeti, dijital hizmetlerindeki ödeme altyapısını Stripe platformundan Hollanda merkezli ödeme hizmeti sağlayıcısı (payment service provider) Adyen sistemine taşıdı. Bu geçiş, kamu sektörü ödeme süreçlerinde esneklik ve ölçeklenebilirlik hedefleri doğrultusunda gerçekleştirildi.",
+          "meta": "408 oy · 141 yorum"
+        },
+        {
+          "title": "Tracing a powerful GNSS interference source over Europe",
+          "url": "https://arxiv.org/abs/2606.03673",
+          "summary": "Avrupa genelinde yaşanan Küresel Konumlandırma Uydu Sistemi (GNSS) sinyal kesintileri, araştırmacılar tarafından radyo frekansı parazit kaynaklarını izleme yöntemiyle analiz ediliyor. Çalışma, sinyal bozucu (jammer) cihazların tespit edilmesinde kullanılan teknik yaklaşımları ve bu tür müdahalelerin havacılık üzerindeki etkilerini ortaya koyuyor.",
+          "meta": "384 oy · 201 yorum"
+        },
+        {
+          "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+          "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+          "summary": "Uluslararası Uzay İstasyonu'ndaki (ISS) hava sızıntısı onarımları nedeniyle sığınaklara geçen astronotlar, güvenliğin sağlanmasının ardından tekrar istasyon modüllerine geri döndü. Mürettebatın rutin operasyonlarına devam ettiği süreçte sızıntının kaynağına yönelik teknik incelemeler sürdürülüyor.",
+          "meta": "378 oy · 243 yorum"
+        },
+        {
+          "title": "pg_durable: Microsoft open sources in-database durable execution",
+          "url": "https://github.com/microsoft/pg_durable",
+          "summary": "Microsoft, veritabanı içinde dayanıklı yürütme (durable execution) sağlayan pg_durable projesini açık kaynaklı hale getirdi. Bu araç, PostgreSQL üzerinde uzun süreli iş akışlarının hata toleranslı ve tutarlı bir şekilde yönetilmesine olanak tanıyor.",
+          "meta": "378 oy · 86 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "NVIDIA tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma görevlerini yerine getiren bir görüntü-metin-metin modeli (image-text-to-text model) olarak çalışıyor. Model, karmaşık görsel sahnelerdeki öğeleri tanımlamak ve bu öğelerin koordinatlarını metin tabanlı çıktılarla ilişkilendirmek için tasarlanıyor.",
+          "meta": "♥ 1.394 · 101.823 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Google tarafından geliştirilen Gemma 2 9B tabanlı Gemma-2-9B-it modeli, çok modlu (multimodal) veri işleme yetenekleriyle her türden girdiyi her türden çıktıya dönüştürebilen (any-to-any) bir yapı sunuyor. Model, farklı veri tipleri arasında esnek dönüşüm sağlayarak karmaşık görevlerin tek bir mimari üzerinden yürütülmesini hedefliyor.",
+          "meta": "♥ 564 · 142.851 indirme"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "Unsloth tarafından optimize edilen Gemma 4-12B-IT modeli, görsel ve metin tabanlı girdileri işleyebilen çok modlu (multimodal) bir yapı sunuyor. Model, GGUF formatı sayesinde düşük bellek kullanımıyla yerel cihazlarda verimli çıkarım (inference) yapılmasına olanak tanıyor.",
+          "meta": "♥ 388 · 296.410 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B",
+          "url": "https://huggingface.co/google/gemma-4-12B",
+          "summary": "Google tarafından yayınlanan Gemma 4-12B, farklı veri türlerini işleyebilen çok modlu (multimodal) bir yapı sunuyor. Bu model, herhangi bir girdiden herhangi bir çıktıya dönüşüm yapabilen çok yönlü (any-to-any) bir mimari ile çalışıyor.",
+          "meta": "♥ 345 · 53.525 indirme"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "HuggingFace üzerinde paylaşılan Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive modeli, görsel ve metin girdilerini işleyerek metin çıktısı üreten (image-text-to-text) bir yapı sunuyor. Model, kısıtlamasız (uncensored) veri setleri kullanılarak eğitilen geniş dil modelleri kategorisinde yer alıyor.",
+          "meta": "♥ 1.461 · 2.687.304 indirme"
+        }
+      ]
+    }
+  ]
+}
