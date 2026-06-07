@@ -1,0 +1,189 @@
+{
+  "date": "2026-06-07",
+  "editorial": "Yazılım dünyası bugün kişisel yapay zekâ altyapısı (personal AI infrastructure) ve otonom ajanların bellek yönetimi (memory management) üzerine odaklanıyor. GitHub üzerindeki açık kaynaklı araçlar, kullanıcıların kendi yetenek paketlerini (skill sets) oluşturabileceği modüler sistemlerin hızla geliştiğini gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlarda araştırma yaparak güncel verileri sentezleyen bir yapay zekâ yeteneği (AI skill) sunuyor. Python tabanlı bu araç, farklı kaynaklardan gelen bilgileri birleştirerek kullanıcılar için temellendirilmiş özetler oluşturuyor.",
+          "meta": "Python · ★ 29.225 · +439 bugün"
+        },
+        {
+          "title": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "summary": "CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için uçtan uca bir çerçeve (framework) sunuyor. React, Angular ve mobil platformlarla entegre çalışan bu araç, geliştiricilerin uygulama içi yapay zekâ deneyimlerini standart bir protokol üzerinden kurgulamasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 33.408 · +631 bugün"
+        },
+        {
+          "title": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "summary": "MemPalace, yapay zekâ sistemleri için açık kaynaklı ve performans odaklı bir bellek yönetimi (memory management) altyapısı sunuyor. Sistem, geliştiricilere yapay zekâ modellerinin uzun süreli bilgi depolama ve geri çağırma süreçlerini optimize etmeleri için ücretsiz bir araç seti sağlıyor.",
+          "meta": "Python · ★ 54.440 · +446 bugün"
+        },
+        {
+          "title": "danielmiessler/Personal_AI_Infrastructure",
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "summary": "Kişisel yapay zekâ altyapısı (Personal AI Infrastructure), insan yeteneklerini artırmak amacıyla tasarlanmış ajan tabanlı yapay zekâ (agentic AI) sistemleri oluşturmaya yönelik bir çerçeve sunuyor. TypeScript ile geliştirilen bu yapı, kullanıcıların kendi otonom iş akışlarını yönetmelerini sağlayan modüler bir mimariyi destekliyor.",
+          "meta": "TypeScript · ★ 15.080 · +70 bugün"
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "OpenAI eklentileri (plugins), dil modellerinin güncel verilere erişmesini ve üçüncü taraf uygulamalarla doğrudan etkileşime girmesini sağlıyor. Bu yapı, yapay zekâ modellerinin dış araçları kullanarak karmaşık görevleri yerine getirmesine imkân tanıyor.",
+          "meta": "JavaScript · ★ 1.856 · +213 bugün"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach, yapay zekâ ajanlarının internetteki çeşitli platformlarda arama yapmasını ve içerik okumasını sağlayan açık kaynaklı bir araçtır. Komut satırı arayüzü (CLI) üzerinden çalışan bu sistem, herhangi bir uygulama programlama arayüzü (API) ücreti ödemeden veri erişimi sunar.",
+          "meta": "Python · ★ 22.675 · +683 bugün"
+        },
+        {
+          "title": "sveltejs/svelte",
+          "url": "https://github.com/sveltejs/svelte",
+          "summary": "Svelte, geleneksel çerçevelerin aksine tarayıcıda çalışma zamanı (runtime) yükünü azaltan bir derleme zamanı (compile-time) yaklaşımı kullanıyor. Bu JavaScript kütüphanesi, uygulama kodunu küçük ve hızlı çalışan saf JavaScript modüllerine dönüştürerek web geliştirme süreçlerini basitleştiriyor.",
+          "meta": "JavaScript · ★ 87.060 · +25 bugün"
+        },
+        {
+          "title": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "summary": "NGINX açık kaynak kod deposu, yüksek performanslı bir web sunucusu ve ters vekil sunucu (reverse proxy) olarak C diliyle geliştirilmeye devam ediyor. Yazılım, ağ trafiğini yönetmek ve içerik dağıtımını optimize etmek amacıyla geniş ölçekli altyapılarda standart bir çözüm sunuyor.",
+          "meta": "C · ★ 30.727 · +20 bugün"
+        },
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "summary": "Trivy, konteynerler, Kubernetes kümeleri ve bulut altyapıları genelinde güvenlik açığı taraması (vulnerability scanning), yanlış yapılandırma denetimi ve yazılım malzeme listesi (SBOM) oluşturma işlemleri gerçekleştiren kapsamlı bir güvenlik aracıdır. Go diliyle geliştirilen bu açık kaynaklı çözüm, yazılım geliştirme yaşam döngüsü boyunca güvenlik risklerini tespit etmek için merkezi bir platform sunar.",
+          "meta": "Go · ★ 36.034 · +159 bugün"
+        },
+        {
+          "title": "golang/go",
+          "url": "https://github.com/golang/go",
+          "summary": "Google tarafından geliştirilen Go programlama dili, yüksek performanslı ve ölçeklenebilir yazılımlar oluşturmak için tasarlanmış açık kaynaklı bir sistem programlama dilidir (system programming language). Eşzamanlılık (concurrency) yönetimi ve hızlı derleme süreleri ile modern bulut bilişim altyapılarında yaygın olarak tercih edilmektedir.",
+          "meta": "Go · ★ 134.555 · +30 bugün"
+        },
+        {
+          "title": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "summary": "Open-notebook, Google NotebookLM aracının açık kaynaklı bir alternatifini sunarak kullanıcılara daha fazla esneklik ve özelleştirme imkanı tanıyor. TypeScript ile geliştirilen bu platform, belgeler üzerinden etkileşimli analiz ve içerik üretimi süreçlerini yerel veya özelleştirilebilir altyapılarla destekliyor.",
+          "meta": "TypeScript · ★ 26.783 · +794 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yazılım geliştirme süreçlerinde ajan tabanlı yetenekler (agentic skills) oluşturmak için kullanılan bir çerçeve ve metodolojidir. Shell diliyle geliştirilen bu yapı, otonom sistemlerin iş akışlarını standartlaştırmayı amaçlar.",
+          "meta": "Shell · ★ 219.905 · +700 bugün"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Claude Code altyapısını kullanan career-ops, yapay zekâ destekli iş arama süreçlerini 14 farklı yetenek moduyla otomatikleştiriyor. Sistem, Go tabanlı bir kontrol paneli üzerinden toplu işlem yönetimi ve özgeçmiş oluşturma gibi işlevleri tek bir merkezde topluyor.",
+          "meta": "JavaScript · ★ 49.580 · +193 bugün"
+        },
+        {
+          "title": "openai/whisper",
+          "url": "https://github.com/openai/whisper",
+          "summary": "OpenAI tarafından geliştirilen Whisper, geniş ölçekli zayıf denetimli öğrenme (weak supervision) yöntemiyle eğitilmiş bir konuşma tanıma (speech recognition) modelidir. Çok dilli ses verilerini metne dönüştürme ve çeviri yapma süreçlerinde yüksek doğruluk oranları sunar.",
+          "meta": "Python · ★ 101.952 · +150 bugün"
+        },
+        {
+          "title": "vitejs/vite",
+          "url": "https://github.com/vitejs/vite",
+          "summary": "Vite, modern web projeleri için hızlı bir geliştirme ortamı ve derleme aracı (build tool) sunuyor. Yerel ES modüllerini kullanarak geliştirme sürecindeki bekleme sürelerini azaltan bir ön yüz araç seti (frontend tooling) işlevi görüyor.",
+          "meta": "TypeScript · ★ 81.238 · +25 bugün"
+        },
+        {
+          "title": "microsoft/mxc",
+          "url": "https://github.com/microsoft/mxc",
+          "summary": "Microsoft tarafından geliştirilen MXC, Rust diliyle yazılmış politika tabanlı, katmanlı bir yalıtım ve kapsayıcılık (isolation and containment) çözümüdür. Sistem kaynaklarını güvenli bir şekilde sınırlandırmak ve uygulama güvenliğini artırmak amacıyla tasarlanmıştır.",
+          "meta": "Rust · ★ 641 · +64 bugün"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "summary": "PaddlePaddle tarafından geliştirilen PaddleOCR, görsel ve PDF dosyalarındaki metinleri yapılandırılmış veriye dönüştüren hafif bir optik karakter tanıma (optical character recognition) aracıdır. 100'den fazla dili destekleyen bu kütüphane, belgelerin büyük dil modelleri (large language models) ile işlenmesini kolaylaştırır.",
+          "meta": "Python · ★ 81.093 · +433 bugün"
+        },
+        {
+          "title": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "summary": "Microsoft tarafından yayınlanan VibeVoice, açık kaynaklı bir sesli yapay zekâ (voice AI) çerçevesi olarak geliştirildi. Sistem, Python tabanlı yapısıyla kullanıcıların kendi ses modellerini eğitmelerine ve uygulamalarına entegre etmelerine olanak tanıyor.",
+          "meta": "Python · ★ 48.569 · +216 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+          "url": "https://news.ycombinator.com/item?id=48406174",
+          "summary": "Yazılımcılar, üretken yapay zekâ (generative AI) araçlarının başlangıçta basit birer eğlence veya sınırlı bir kodlama desteği olduğunu düşünürken, modellerin karmaşık problemleri çözme yeteneği karşısında görüşlerini değiştirdi. Bu süreç, büyük dil modellerinin (large language models) teknik kapasitesinin beklenenden hızlı geliştiğini gösteren deneyimlere dayanıyor.",
+          "meta": "603 oy · 1.002 yorum"
+        },
+        {
+          "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+          "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+          "summary": "Meta, yapay zekâ sohbet robotunun (AI chatbot) kötüye kullanımı sonucu binlerce Instagram hesabının ele geçirildiğini doğruladı. Saldırganlar, sistemdeki güvenlik açıklarını kullanarak kullanıcı hesaplarına yetkisiz erişim sağladı.",
+          "meta": "558 oy · 199 yorum"
+        },
+        {
+          "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+          "url": "https://ntsc.rs/",
+          "summary": "ntsc-rs, analog televizyon ve video kaset (VHS) sinyallerine özgü görüntü bozulmalarını dijital ortama taşıyan açık kaynaklı bir video benzetim (emulation) aracıdır. Yazılım, eski yayın standartlarının görsel dokusunu modern dijital içeriklere uygulamak için çeşitli filtreleme teknikleri kullanır.",
+          "meta": "328 oy · 87 yorum"
+        },
+        {
+          "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+          "url": "https://pokeemerald.com/",
+          "summary": "Pokemon Emerald oyunu, web tabanlı çalışma ortamı (WebAssembly) üzerinde yüksek performanslı bir şekilde çalıştırıldı. Optimizasyon çalışmaları sayesinde oyun, saniyede 100 bin kare (100k FPS) gibi yüksek bir hız değerine ulaştı.",
+          "meta": "309 oy · 87 yorum"
+        },
+        {
+          "title": "Moving beyond fork() + exec()",
+          "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+          "summary": "İşletim sistemlerinde süreç oluşturma yöntemi olan çatal ve yürüt (fork and exec) mekanizmasının yerini, daha modern ve verimli süreç başlatma (process spawning) teknikleri alıyor. Bu yaklaşım, özellikle büyük bellek alanlarına sahip uygulamalarda performans kayıplarını azaltmayı ve sistem kaynaklarını daha etkin yönetmeyi hedefliyor.",
+          "meta": "287 oy · 286 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Nvidia tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma (object localization) görevlerini yerine getiren bir görüntü-metin-metin modeli (image-text-to-text model) olarak çalışıyor. Model, karmaşık görsel veriler üzerinde metin tabanlı sorgularla nesne tespiti ve analiz süreçlerini destekliyor.",
+          "meta": "♥ 1.471 · 115.556 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Google tarafından geliştirilen gemma-4-12B-it, farklı veri türlerini işleyebilen çok modlu (any-to-any) bir yapay zekâ modelidir. Model, metin ve görsel verileri eş zamanlı olarak işleme yeteneğiyle çeşitli uygulama alanlarında esneklik sunar.",
+          "meta": "♥ 638 · 434.969 indirme"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "Unsloth tarafından optimize edilen Gemma-4-12b-it modeli, görsel ve metin tabanlı verileri işleyebilen çok modlu (multimodal) bir yapı sunuyor. GGUF formatı sayesinde bu model, düşük bellek kullanımıyla yerel donanımlarda daha verimli çalışabiliyor.",
+          "meta": "♥ 429 · 568.158 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B",
+          "url": "https://huggingface.co/google/gemma-4-12B",
+          "summary": "Google tarafından geliştirilen Gemma-4-12B, farklı veri türlerini işleyebilen çok modlu (any-to-any) bir model yapısı sunuyor. Bu model, metin ve diğer veri formatlarını tek bir mimari üzerinden işleyerek esnek bir kullanım alanı sağlıyor.",
+          "meta": "♥ 385 · 99.655 indirme"
+        },
+        {
+          "title": "ideogram-ai/ideogram-4-fp8",
+          "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+          "summary": "Ideogram tarafından geliştirilen ideogram-4-fp8, metinden görüntü oluşturma (text-to-image) süreçlerinde kullanılan bir modeldir. Kayan nokta hassasiyeti 8-bit (floating point 8) formatında optimize edilerek daha verimli çalışma performansı sunar.",
+          "meta": "♥ 315 · 4.377 indirme"
+        }
+      ]
+    }
+  ]
+}
