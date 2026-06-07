@@ -3,6 +3,7 @@ name: CSP Inline Guard
 # Sayfa guard'ları · HTML değişen PR'larda + main push'larında (cron/app'in ürettiği rapor sayfaları dahil) çalışır.
 # 1) Strict CSP (script-src/style-src 'self') varken inline CSS/JS sızmasın (bir kez kırılmıştı).
 # 2) Nav tutarlılığı: shared-component (nav) sayfa tipine göre kaymasın — 'link kayboluyor' bug'ı tekrarlamasın.
+# 3) Footer tutarlılığı: footer-grid'li tüm sayfalarda aynı "Ürün" linkleri (footer üreticiden üreticiye kaymasın).
 
 on:
   pull_request:
@@ -24,3 +25,5 @@ jobs:
         run: python3 scripts/check-no-inline-csp.py
       - name: Nav tutarlılık kontrolü
         run: python3 scripts/check-nav-consistency.py
+      - name: Footer tutarlılık kontrolü
+        run: python3 scripts/check-footer-consistency.py
