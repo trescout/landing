@@ -4,6 +4,7 @@ name: CSP Inline Guard
 # 1) Strict CSP (script-src/style-src 'self') varken inline CSS/JS sızmasın (bir kez kırılmıştı).
 # 2) Nav tutarlılığı: shared-component (nav) sayfa tipine göre kaymasın — 'link kayboluyor' bug'ı tekrarlamasın.
 # 3) Footer tutarlılığı: footer-grid'li tüm sayfalarda aynı "Ürün" linkleri (footer üreticiden üreticiye kaymasın).
+# 4) Logo geometrisi: marka işaretinin şekli (3 yay + T) her yerde aynı (boyut/aria/çerçeve bağlama göre serbest).
 
 on:
   pull_request:
@@ -27,3 +28,5 @@ jobs:
         run: python3 scripts/check-nav-consistency.py
       - name: Footer tutarlılık kontrolü
         run: python3 scripts/check-footer-consistency.py
+      - name: Logo geometri kontrolü
+        run: python3 scripts/check-logo-consistency.py
