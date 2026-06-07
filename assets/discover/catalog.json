@@ -1141,5 +1141,143 @@
     ],
     "stars": 4594,
     "lite": false
+  },
+  {
+    "slug": "personal-ai-infrastructure",
+    "title": "Personal_AI_Infrastructure",
+    "tagline": "Kişisel yapay zekâ altyapısı (Personal AI Infrastructure), insan yeteneklerini artırmak amacıyla tasarlanmış ajan tabanlı…",
+    "meta": "★ 15.080 · TypeScript",
+    "image": "/assets/discover/og/personal-ai-infrastructure.webp",
+    "source": "GitHub",
+    "date": "2026-06-07",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 15080,
+    "lite": false
+  },
+  {
+    "slug": "svelte",
+    "title": "Svelte",
+    "tagline": "Svelte, geleneksel çerçevelerin aksine tarayıcıda çalışma zamanı (runtime) yükünü azaltan bir derleme zamanı (compile-time)…",
+    "meta": "★ 87.060 · JavaScript",
+    "image": "/assets/discover/og/svelte.webp",
+    "source": "GitHub",
+    "date": "2026-06-07",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 87060,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "nginx",
+    "title": "Nginx",
+    "tagline": "NGINX açık kaynak kod deposu, yüksek performanslı bir web sunucusu ve ters vekil sunucu (reverse proxy) olarak C diliyle…",
+    "meta": "★ 30.727 · C",
+    "image": "/assets/discover/og/nginx.webp",
+    "source": "GitHub",
+    "date": "2026-06-07",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 30727,
+    "lite": false
+  },
+  {
+    "slug": "go",
+    "title": "GO",
+    "tagline": "Google tarafından geliştirilen Go programlama dili, yüksek performanslı ve ölçeklenebilir yazılımlar oluşturmak için…",
+    "meta": "★ 134.555 · Go",
+    "image": "/assets/discover/og/go.webp",
+    "source": "GitHub",
+    "date": "2026-06-07",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 134555,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "career-ops",
+    "title": "Career Ops",
+    "tagline": "Claude Code altyapısını kullanan career-ops, yapay zekâ destekli iş arama süreçlerini 14 farklı yetenek moduyla…",
+    "meta": "★ 49.580 · JavaScript",
+    "image": "/assets/discover/og/career-ops.webp",
+    "source": "GitHub",
+    "date": "2026-06-07",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 49580,
+    "lite": false
+  },
+  {
+    "slug": "whisper",
+    "title": "Whisper",
+    "tagline": "OpenAI tarafından geliştirilen Whisper, geniş ölçekli zayıf denetimli öğrenme (weak supervision) yöntemiyle eğitilmiş bir…",
+    "meta": "★ 101.952 · Python",
+    "image": "/assets/discover/og/whisper.webp",
+    "source": "GitHub",
+    "date": "2026-06-07",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 101952,
+    "lite": false
+  },
+  {
+    "slug": "vite",
+    "title": "Vite",
+    "tagline": "Vite, modern web projeleri için hızlı bir geliştirme ortamı ve derleme aracı (build tool) sunuyor.",
+    "meta": "★ 81.238 · TypeScript",
+    "image": "/assets/discover/og/vite.webp",
+    "source": "GitHub",
+    "date": "2026-06-07",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 81238,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "mxc",
+    "title": "MXC",
+    "tagline": "Microsoft tarafından geliştirilen MXC, Rust diliyle yazılmış politika tabanlı, katmanlı bir yalıtım ve kapsayıcılık (isolation…",
+    "meta": "★ 641 · Rust",
+    "image": "/assets/discover/og/mxc.webp",
+    "source": "GitHub",
+    "date": "2026-06-07",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 641,
+    "lite": false
+  },
+  {
+    "slug": "vibevoice",
+    "title": "VibeVoice",
+    "tagline": "Microsoft tarafından yayınlanan VibeVoice, açık kaynaklı bir sesli yapay zekâ (voice AI) çerçevesi olarak geliştirildi.",
+    "meta": "★ 48.569 · Python",
+    "image": "/assets/discover/og/vibevoice.webp",
+    "source": "GitHub",
+    "date": "2026-06-07",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 48569,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

@@ -28,7 +28,7 @@ Lisans: GitHub standart bir lisans tespit etmedi. Yeniden kullanım/dağıtım �
 - [GitHub deposu →](https://github.com/cursor/plugins)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Plugins Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

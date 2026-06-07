@@ -21,7 +21,7 @@ Bu araç, OpenAI eklentileri için örnek bir koleksiyon sunan bir depodur. Kull
 - [GitHub deposu →](https://github.com/openai/plugins)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Plugins Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -36,7 +36,7 @@ CopilotKit kullanarak uygulamama yapay zeka yetenekleri eklemek istiyorum. Proje
 - [GitHub deposu →](https://github.com/CopilotKit/CopilotKit)
 
 ## İlgili sözlük terimleri
-Generative UI Frontend Stack Artificial Intelligence 
+Generative UI Frontend Stack Framework Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

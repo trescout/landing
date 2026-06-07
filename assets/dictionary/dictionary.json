@@ -628,5 +628,75 @@
     "full": "",
     "cat": "ai",
     "kisa": "İnsan müdahalesi olmadan kendi hedeflerini belirleyip karmaşık görevleri uçtan uca yerine getirebilen yazılım sistemidir."
+  },
+  {
+    "slug": "framework",
+    "en": "Framework",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım geliştirirken işleri hızlandırmak için kullanılan hazır yapı ve kurallar bütünüdür."
+  },
+  {
+    "slug": "memory-management",
+    "en": "Memory Management",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarın geçici hafızasının verimli kullanılması için verilerin düzenli şekilde yerleştirilmesi ve temizlenmesidir."
+  },
+  {
+    "slug": "personal-ai-infrastructure",
+    "en": "Personal AI Infrastructure",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kişisel verilerinizi işleyen yapay zekâ araçlarının çalışması için gereken bireysel dijital altyapıdır."
+  },
+  {
+    "slug": "plugins",
+    "en": "Plugins",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Ana programa yeni özellikler eklemek için sonradan dahil edilen küçük yazılım parçalarıdır."
+  },
+  {
+    "slug": "runtime",
+    "en": "Runtime",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın bilgisayarda çalıştırıldığı an ve bu süreçte ihtiyaç duyduğu ortamdır."
+  },
+  {
+    "slug": "compile-time",
+    "en": "Compile-time",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılan kodun bilgisayarın anlayacağı dile çevrildiği ve hataların kontrol edildiği hazırlık aşamasıdır."
+  },
+  {
+    "slug": "reverse-proxy",
+    "en": "Reverse Proxy",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternetten gelen istekleri karşılayıp uygun sunuculara dağıtan ve güvenliği sağlayan bir trafik yönlendiricisidir."
+  },
+  {
+    "slug": "vulnerability-scanning",
+    "en": "Vulnerability Scanning",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılım veya sistemdeki güvenlik açıklarını bulmak için yapılan otomatik tarama işlemidir."
+  },
+  {
+    "slug": "system-programming-language",
+    "en": "System Programming Language",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İşletim sistemi veya donanım sürücüsü gibi temel seviyede yazılımlar geliştirmek için kullanılan güçlü dildir."
+  },
+  {
+    "slug": "concurrency",
+    "en": "Concurrency",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir bilgisayarın aynı anda birden fazla işlemi yönetebilme ve parçalar halinde yürütebilme yeteneğidir."
   }
 ]
