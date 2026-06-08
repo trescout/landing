@@ -1,0 +1,171 @@
+{
+  "date": "2026-06-08",
+  "editorial": "Bugünün teknoloji gündemini otonom yetenek setleri (skill sets) ve açık kaynaklı ajan (agent) mimarileri domine ediyor. Özellikle NousResearch tarafından yayınlanan Hermes modeli, geliştiricilerin kendi yapay zekâ asistanlarını (AI assistants) özelleştirilebilir bir yapıda kurgulamalarına olanak tanıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlarda araştırma yapan last30days-skill, elde edilen verileri sentezleyerek kullanıcıya dayanaklı bir özet sunan bir yapay zekâ yeteneği (AI agent skill) olarak öne çıkıyor. Python tabanlı bu araç, farklı dijital kaynaklardan gelen bilgileri birleştirerek güncel konulara dair kapsamlı raporlar oluşturuyor.",
+          "meta": "Python · ★ 32.482 · +1.111 bugün"
+        },
+        {
+          "title": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "summary": "Açık kaynak kodlu bilgisayarlı görü kütüphanesi (computer vision library) olan OpenCV, görüntü işleme ve makine öğrenmesi (machine learning) uygulamaları için geniş kapsamlı araçlar sunuyor. C++ diliyle geliştirilen bu kütüphane, gerçek zamanlı görsel veri analizi süreçlerinde standart bir altyapı görevi görüyor.",
+          "meta": "C++ · ★ 88.274 · +65 bugün"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill, yapay zekâ modellerinin ürettiği içeriklerdeki tekdüze ve genel geçer ifadeleri azaltarak daha nitelikli sonuçlar elde edilmesini sağlayan bir sistemdir. Kullanıcıların yapay zekâ çıktılarını kişiselleştirmesine ve dil kalitesini artırmasına olanak tanır.",
+          "meta": "Shell · ★ 37.663 · +1.103 bugün"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle zaman içinde öğrenerek yeteneklerini genişleten bir otonom yapay zekâ ajanıdır (autonomous AI agent). Python tabanlı bu sistem, kişiselleştirilmiş görev yönetimi ve sürekli öğrenme (continual learning) süreçlerini desteklemek üzere tasarlanmıştır.",
+          "meta": "Python · ★ 186.572 · +1.112 bugün"
+        },
+        {
+          "title": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "summary": "Open-notebook, Google NotebookLM'in açık kaynaklı bir alternatifini sunarak kullanıcılara belgeleri üzerinde daha fazla esneklik ve özelleştirme imkanı tanıyor. TypeScript ile geliştirilen bu proje, kişisel bilgi yönetimi ve yapay zekâ destekli içerik analizi süreçlerini yerel veya özelleştirilebilir ortamlara taşıyor.",
+          "meta": "TypeScript · ★ 27.633 · +554 bugün"
+        },
+        {
+          "title": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "summary": "AiToEarn, kullanıcıların yapay zekâ destekli otomasyonlar aracılığıyla gelir elde etme süreçlerini yönetmelerini sağlayan bir TypeScript tabanlı platformdur. Proje, otonom görev yürütme ve yapay zekâ tabanlı kazanç modellerini (AI-driven earning models) bir araya getirerek geliştiricilere açık bir altyapı sunuyor.",
+          "meta": "TypeScript · ★ 19.145 · +183 bugün"
+        },
+        {
+          "title": "aaif-goose/goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "summary": "Goose, kod önerilerinin ötesine geçerek yazılım kurulumu, yürütme, düzenleme ve test süreçlerini otomatize eden açık kaynaklı bir yapay zekâ ajanıdır. Rust diliyle geliştirilen bu araç, farklı büyük dil modelleriyle (LLM) entegre çalışarak yazılım geliştirme iş akışlarını uçtan uca yönetmeyi hedefler.",
+          "meta": "Rust · ★ 47.753 · +322 bugün"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "Project N.O.M.A.D, internet bağlantısı gerektirmeyen ortamlarda kritik araçlara, bilgi kaynaklarına ve yerel yapay zekâ (artificial intelligence) modellerine erişim sağlayan çevrimdışı bir hayatta kalma bilgisayarıdır. Taşınabilir sistem, acil durum senaryolarında kullanıcıya bağımsız bir veri ve işlem kapasitesi sunmayı hedefler.",
+          "meta": "TypeScript · ★ 29.903 · +309 bugün"
+        },
+        {
+          "title": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "summary": "Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını sağlayan C ve C++ tabanlı bir çıkarım (inference) kütüphanesidir. Yazılım, düşük bellek kullanımı ve yüksek performans odaklı yapısıyla yerel cihazlarda yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.",
+          "meta": "C++ · ★ 115.499 · +158 bugün"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "TurboQuant altyapısı üzerine inşa edilen turbovec, Rust diliyle geliştirilmiş yüksek performanslı bir vektör dizini (vector index) aracıdır. Python bağlamaları (bindings) sayesinde geliştiricilerin vektör tabanlı arama işlemlerini hızlı ve verimli bir şekilde gerçekleştirmesine olanak tanır.",
+          "meta": "Python · ★ 7.703 · +1.554 bugün"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "ChinaTextbook deposu, ilkokuldan üniversite seviyesine kadar Çin eğitim müfredatında kullanılan ders kitaplarının taşınabilir belge formatındaki (PDF) dijital arşivini sunuyor. Bu kaynak, geniş kapsamlı akademik materyallere merkezi bir erişim noktası sağlıyor.",
+          "meta": "Roff · ★ 72.765 · +350 bugün"
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "OpenAI eklentileri (plugins), dil modellerinin güncel verilere erişmesini ve dış sistemlerle etkileşime girmesini sağlayan bir çerçeve sunuyor. Bu yapı, üretken yapay zekâ (generative AI) modellerinin gerçek zamanlı işlemler gerçekleştirmesine ve üçüncü taraf uygulamalarla bağlantı kurmasına olanak tanıyor.",
+          "meta": "JavaScript · ★ 2.152 · +262 bugün"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilen bir masaüstü uygulamasıdır. TypeScript ile yazılan bu araç, kişisel dokümantasyon ve not sistemlerini düzenli bir yapıda tutmayı kolaylaştırır.",
+          "meta": "TypeScript · ★ 13.116 · +245 bugün"
+        },
+        {
+          "title": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "summary": "Python tabanlı GhostTrack, mobil numaralar üzerinden konum takibi yapılmasına olanak tanıyan bir araçtır. Açık kaynaklı bu yazılım, hedef numaranın coğrafi verilerini tespit etmek amacıyla geliştirilmiştir.",
+          "meta": "Python · ★ 13.874 · +28 bugün"
+        },
+        {
+          "title": "microsoft/pg_durable",
+          "url": "https://github.com/microsoft/pg_durable",
+          "summary": "Microsoft tarafından geliştirilen pg_durable, PostgreSQL üzerinde dayanıklı yürütme (durable execution) süreçlerini yönetmek için tasarlanmış bir kütüphanedir. Rust diliyle yazılan araç, karmaşık iş akışlarını veritabanı içerisinde hata toleranslı ve kalıcı bir şekilde çalıştırmayı sağlar.",
+          "meta": "Rust · ★ 1.580 · +316 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do",
+          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "summary": "Büyük dil modellerinin (large language models) yazılım geliştirme süreçlerine entegrasyonu, geleneksel kod yazma pratiklerinin değerini sorgulatan bir dönüşüm yaratıyor. Yazılım mühendisleri, otomasyonun artan etkisi karşısında teknik yetkinliklerini yeniden tanımlama ve insan odaklı problem çözme becerilerine odaklanma ihtiyacı duyuyor.",
+          "meta": "944 oy · 910 yorum"
+        },
+        {
+          "title": "Building from zero after addiction, prison, and a felony",
+          "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+          "summary": "Yazılım geliştiricisi Gavin Ray, bağımlılık ve hapis süreci sonrası sıfırdan inşa ettiği kariyer yolculuğunu ve teknik yetkinlik kazanma deneyimini paylaşıyor. Kişisel gelişim ile profesyonel yazılım geliştirme (software development) disiplinini birleştiren bu anlatı, zorlu yaşam koşullarının teknoloji sektöründeki kariyer hedefleri üzerindeki etkisini ele alıyor.",
+          "meta": "612 oy · 271 yorum"
+        },
+        {
+          "title": "How's Linear so fast? A technical breakdown",
+          "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+          "summary": "Linear, uygulama performansını optimize etmek için iyimser kullanıcı arayüzü güncellemeleri (optimistic UI) ve veri önbellekleme (caching) stratejilerini bir arada kullanıyor. Yazılım, sunucu yanıtlarını beklemeden yerel durum yönetimi (state management) ile etkileşimleri anlık hale getirerek gecikmeyi en aza indiriyor.",
+          "meta": "402 oy · 181 yorum"
+        },
+        {
+          "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+          "url": "https://www.ioccc.org/2025/",
+          "summary": "Uluslararası Karmaşık C Kodu Yarışması (International Obfuscated C Code Contest), 2025 yılı kazananlarını duyurarak en karmaşık ve anlaşılması güç C kaynak kodlarını (source code) ödüllendirdi. Yarışma, programlama dillerinin sınırlarını zorlayan yaratıcı ve gizemli yazılım geliştirme pratiklerini sergilemeye devam ediyor.",
+          "meta": "392 oy · 89 yorum"
+        },
+        {
+          "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+          "url": "https://github.com/devenjarvis/lathe",
+          "summary": "Lathe, büyük dil modellerini (large language models) işi kullanıcı adına yapmak yerine teknik konuları öğretmek için kullanan bir eğitim aracıdır. Yazılım geliştiricilerin kodları manuel olarak yazmasını teşvik eden yerel bir arayüz üzerinden kaynak destekli uygulamalı dersler oluşturur.",
+          "meta": "303 oy · 55 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "NVIDIA tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma (object localization) görevlerini yerine getiren bir görüntü-metin-metin (image-text-to-text) modelidir. Model, karmaşık sahnelerdeki nesneleri tanımlamak ve bu nesnelerin koordinatlarını metin tabanlı çıktılarla belirtmek için tasarlanmıştır.",
+          "meta": "♥ 1.559 · 121.594 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Google tarafından geliştirilen Gemma 2 9B tabanlı Gemma-4-12B-it modeli, metin ve görüntü gibi farklı veri türlerini işleyebilen çok modlu (multimodal) bir yapı sunuyor. Model, her türlü girdiyi işleme (any-to-any) yeteneğiyle farklı veri formatları arasında etkileşim kurmayı hedefliyor.",
+          "meta": "♥ 712 · 554.173 indirme"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "Unsloth tarafından optimize edilen Gemma 4-12B modeli, görsel ve metin verilerini işleyebilen çok modlu (multimodal) bir yapı sunuyor. GGUF formatındaki bu model, düşük bellek kullanımıyla yerel cihazlarda metin tabanlı görsel analiz süreçlerini hızlandırıyor.",
+          "meta": "♥ 468 · 645.263 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B",
+          "url": "https://huggingface.co/google/gemma-4-12B",
+          "summary": "Google tarafından yayınlanan Gemma-4-12B, farklı veri türleri arasında dönüşüm yapabilen çok yönlü bir çok modlu model (any-to-any model) olarak tasarlandı. Bu model, metin ve görsel gibi çeşitli girdi türlerini işleyerek esnek bir yapay zekâ deneyimi sunuyor.",
+          "meta": "♥ 423 · 117.509 indirme"
+        },
+        {
+          "title": "ideogram-ai/ideogram-4-fp8",
+          "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+          "summary": "Ideogram tarafından geliştirilen ideogram-4-fp8, metinden görsele dönüştürme (text-to-image) süreçlerinde düşük bellek kullanımı sağlayan kayan noktalı 8-bit (FP8) hassasiyetli bir modeldir. Bu model, görsel oluşturma işlemlerinde donanım verimliliğini artırarak daha hızlı işleme kapasitesi sunar.",
+          "meta": "♥ 363 · 5.495 indirme"
+        }
+      ]
+    }
+  ]
+}
