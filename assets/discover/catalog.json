@@ -1279,5 +1279,140 @@
     "lite": false,
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "opencv",
+    "title": "Opencv",
+    "tagline": "Açık kaynak kodlu bilgisayarlı görü kütüphanesi (computer vision library) olan OpenCV, görüntü işleme ve makine öğrenmesi…",
+    "meta": "★ 88.274 · C++",
+    "image": "/assets/discover/og/opencv.webp",
+    "source": "GitHub",
+    "date": "2026-06-08",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 88274,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "aitoearn",
+    "title": "AiToEarn",
+    "tagline": "AiToEarn, kullanıcıların yapay zekâ destekli otomasyonlar aracılığıyla gelir elde etme süreçlerini yönetmelerini sağlayan bir…",
+    "meta": "★ 19.145 · TypeScript",
+    "image": "/assets/discover/og/aitoearn.webp",
+    "source": "GitHub",
+    "date": "2026-06-08",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 19145,
+    "lite": false
+  },
+  {
+    "slug": "goose",
+    "title": "Goose",
+    "tagline": "Goose, kod önerilerinin ötesine geçerek yazılım kurulumu, yürütme, düzenleme ve test süreçlerini otomatize eden açık kaynaklı…",
+    "meta": "★ 47.753 · Rust",
+    "image": "/assets/discover/og/goose.webp",
+    "source": "GitHub",
+    "date": "2026-06-08",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 47753,
+    "lite": false
+  },
+  {
+    "slug": "llama-cpp",
+    "title": "Llama.cpp",
+    "tagline": "Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını…",
+    "meta": "★ 115.499 · C++",
+    "image": "/assets/discover/og/llama-cpp.webp",
+    "source": "GitHub",
+    "date": "2026-06-08",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 115499,
+    "lite": false
+  },
+  {
+    "slug": "turbovec",
+    "title": "Turbovec",
+    "tagline": "TurboQuant altyapısı üzerine inşa edilen turbovec, Rust diliyle geliştirilmiş yüksek performanslı bir vektör dizini (vector…",
+    "meta": "★ 7.703 · Python",
+    "image": "/assets/discover/og/turbovec.webp",
+    "source": "GitHub",
+    "date": "2026-06-08",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 7703,
+    "lite": false
+  },
+  {
+    "slug": "chinatextbook",
+    "title": "ChinaTextbook",
+    "tagline": "ChinaTextbook deposu, ilkokuldan üniversite seviyesine kadar Çin eğitim müfredatında kullanılan ders kitaplarının taşınabilir…",
+    "meta": "★ 72.765 · Roff",
+    "image": "/assets/discover/og/chinatextbook.webp",
+    "source": "GitHub",
+    "date": "2026-06-08",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 72765,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "tolaria",
+    "title": "Tolaria",
+    "tagline": "Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilen bir masaüstü uygulamasıdır.",
+    "meta": "★ 13.116 · TypeScript",
+    "image": "/assets/discover/og/tolaria.webp",
+    "source": "GitHub",
+    "date": "2026-06-08",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 13116,
+    "lite": false
+  },
+  {
+    "slug": "ghosttrack",
+    "title": "GhostTrack",
+    "tagline": "Python tabanlı GhostTrack, mobil numaralar üzerinden konum takibi yapılmasına olanak tanıyan bir araçtır.",
+    "meta": "★ 13.874 · Python",
+    "image": "/assets/discover/og/ghosttrack.webp",
+    "source": "GitHub",
+    "date": "2026-06-08",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 13874,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "pg-durable",
+    "title": "Pg Durable",
+    "tagline": "Microsoft tarafından geliştirilen pg_durable, PostgreSQL üzerinde dayanıklı yürütme (durable execution) süreçlerini yönetmek…",
+    "meta": "★ 1.580 · Rust",
+    "image": "/assets/discover/og/pg-durable.webp",
+    "source": "GitHub",
+    "date": "2026-06-08",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1580,
+    "lite": false
   }
 ]

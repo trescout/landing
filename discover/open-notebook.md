@@ -38,7 +38,7 @@ Open Notebook aracını kurmak istiyorum. Docker Desktop yüklü durumda. Öncel
 - [GitHub deposu →](https://github.com/lfnovo/open-notebook)
 
 ## İlgili sözlük terimleri
-AI-powered Note Analysis Artificial Intelligence 
+AI-powered Note Analysis PDF Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -23,7 +23,7 @@ PaddleOCR'ı kullanmaya başlamak için resmî web sitesi olan paddleocr.com adr
 - [GitHub deposu →](https://github.com/PaddlePaddle/PaddleOCR)
 
 ## İlgili sözlük terimleri
-Optical Character Recognition Markdown Artificial Intelligence 
+Optical Character Recognition Markdown PDF Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

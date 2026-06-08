@@ -698,5 +698,54 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bir bilgisayarın aynı anda birden fazla işlemi yönetebilme ve parçalar halinde yürütebilme yeteneğidir."
+  },
+  {
+    "slug": "computer-vision-library",
+    "en": "Computer Vision Library",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bilgisayarların görsel verileri işlemesini ve anlamlandırmasını sağlayan hazır yazılım araçlarıdır."
+  },
+  {
+    "slug": "continual-learning",
+    "en": "Continual Learning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın yeni bilgiler öğrenirken eski bilgilerini unutmadan sürekli güncel kalma yeteneğidir."
+  },
+  {
+    "slug": "ai-driven-earning-models",
+    "en": "AI-driven Earning Models",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ yeteneklerini kullanarak ticari değer yaratma ve gelir elde etme yöntemleridir."
+  },
+  {
+    "slug": "vector-index",
+    "en": "Vector Index",
+    "full": "",
+    "cat": "data",
+    "kisa": "Verilerin sayısal karşılıklarını (vektörleri) hızlıca arayıp bulmak için kullanılan bir haritalama yöntemidir."
+  },
+  {
+    "slug": "bindings",
+    "en": "Bindings",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Farklı programlama dillerinin birbirinin kütüphanelerini kullanabilmesini sağlayan köprülerdir."
+  },
+  {
+    "slug": "pdf",
+    "en": "PDF",
+    "full": "Portable Document Format",
+    "cat": "data",
+    "kisa": "Hangi cihazda açılırsa açılsın biçimi bozulmadan görüntülenen dijital belge formatıdır."
+  },
+  {
+    "slug": "durable-execution",
+    "en": "Durable Execution",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir işlemin, hata veya kesinti olsa bile kaldığı yerden güvenle devam etmesini sağlayan sistemdir."
   }
 ]
