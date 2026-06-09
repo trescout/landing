@@ -57,8 +57,16 @@ jobs:
           python3 scripts/discover-md.py
           python3 scripts/llms-txt.py
 
-      - name: CSP guard
+      # Sayfa guard'ları · üretilen sayfalar [skip ci] ile push'landığı için csp-inline-guard.yml
+      # bot commit'lerinde çalışmaz; aynı 4 guard'ı burada üretici çıktısına da uyguluyoruz.
+      - name: Inline CSS/JS kontrolü
         run: python3 scripts/check-no-inline-csp.py
+      - name: Nav tutarlılık kontrolü
+        run: python3 scripts/check-nav-consistency.py
+      - name: Footer tutarlılık kontrolü
+        run: python3 scripts/check-footer-consistency.py
+      - name: Logo geometri kontrolü
+        run: python3 scripts/check-logo-consistency.py
 
       - name: Değişiklik varsa commit'le
         run: |
