@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir. Açık kaynak ve teknoloji trendlerini Türkçe takip etmek isteyenler için.
 
-Son güncelleme: 2026-06-09 · 100 araç · 113 terim
+Son güncelleme: 2026-06-09 · 100 araç · 114 terim
 
 ## Teknoloji Sözlüğü
 
@@ -11,6 +11,7 @@ Yapay zekâ ve yazılım terimlerinin sade Türkçe açıklamaları. Her terimin
 - [Teknoloji Sözlüğü dizini](https://trescout.com/dictionary/)
 - [Agentic AI nedir?](https://trescout.com/dictionary/agentic-ai/) (ham: https://trescout.com/dictionary/agentic-ai.md): Yapay zekanın sadece metin üretmek yerine hedeflere ulaşmak için inisiyatif almasıdır.
 - [Agentic Coding Tool nedir?](https://trescout.com/dictionary/agentic-coding-tool/) (ham: https://trescout.com/dictionary/agentic-coding-tool.md): Yazılım geliştirme süreçlerinde sadece kod yazmakla kalmayıp, hataları ayıklayan ve proje…
+- [Agentic Skills nedir?](https://trescout.com/dictionary/agentic-skills/) (ham: https://trescout.com/dictionary/agentic-skills.md): Otonom yapay zekâ sistemlerinin karmaşık süreçleri yönetmek ve hedeflere ulaşmak için kul…
 - [AGI nedir?](https://trescout.com/dictionary/agi/) (ham: https://trescout.com/dictionary/agi.md): İnsan seviyesinde veya üzerinde zeka sergileyen yapay zeka hedefidir.
 - [AI Agent nedir?](https://trescout.com/dictionary/ai-agent/) (ham: https://trescout.com/dictionary/ai-agent.md): Kendi başına karar verip görevleri yerine getiren otonom yapay zeka sistemidir.
 - [AI Agent Skill nedir?](https://trescout.com/dictionary/ai-agent-skill/) (ham: https://trescout.com/dictionary/ai-agent-skill.md): Yapay zekâ temsilcisinin bir işi tamamlamak için kullanabileceği, internette arama yapmak…

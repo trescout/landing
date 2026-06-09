@@ -789,5 +789,12 @@
     "full": "",
     "cat": "ai",
     "kisa": "Bilgisayarların görsel verileri (fotoğraf, video) analiz edip içindeki nesneleri, kişileri veya olayları anlamlandırmasını sağlayan teknolojidir."
+  },
+  {
+    "slug": "agentic-skills",
+    "en": "Agentic Skills",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Otonom yapay zekâ sistemlerinin karmaşık süreçleri yönetmek ve hedeflere ulaşmak için kullandığı ileri seviye yetenekler bütünüdür."
   }
 ]

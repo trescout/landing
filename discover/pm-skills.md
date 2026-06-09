@@ -22,7 +22,7 @@ Claude Cowork kullanıyorsanız, arayüzdeki 'Customize' menüsüne giderek 'Bro
 - [GitHub deposu →](https://github.com/phuryn/pm-skills)
 
 ## İlgili sözlük terimleri
-Plugins AI Skills Artificial Intelligence 
+Agentic Skills Plugins AI Skills Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
