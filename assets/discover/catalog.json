@@ -1414,5 +1414,81 @@
     ],
     "stars": 1580,
     "lite": false
+  },
+  {
+    "slug": "skills",
+    "title": "Skills",
+    "tagline": "Google tarafından geliştirilen yetenekler (skills) kütüphanesi, yapay zekâ ajanlarının Google ürünleri ve teknolojileriyle…",
+    "meta": "★ 12.675 · Python",
+    "image": "/assets/discover/og/skills.webp",
+    "source": "GitHub",
+    "date": "2026-06-09",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 12675,
+    "lite": false
+  },
+  {
+    "slug": "pm-skills",
+    "title": "Pm Skills",
+    "tagline": "PM Skills Marketplace, ürün yönetimi süreçleri için geliştirilmiş 100'den fazla otonom yetenek (agentic skills), komut ve…",
+    "meta": "★ 12.983",
+    "image": "/assets/discover/og/pm-skills.webp",
+    "source": "GitHub",
+    "date": "2026-06-09",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 12983,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "whichllm",
+    "title": "Whichllm",
+    "tagline": "Whichllm, donanımınız üzerinde en yüksek performansı gösteren yerel büyük dil modellerini (large language models)…",
+    "meta": "★ 3.679 · Python",
+    "image": "/assets/discover/og/whichllm.webp",
+    "source": "GitHub",
+    "date": "2026-06-09",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 3679,
+    "lite": false
+  },
+  {
+    "slug": "supervision",
+    "title": "Supervision",
+    "tagline": "Roboflow tarafından geliştirilen Supervision, bilgisayarlı görü (computer vision) projeleri için yeniden kullanılabilir…",
+    "meta": "★ 42.546 · Python",
+    "image": "/assets/discover/og/supervision.webp",
+    "source": "GitHub",
+    "date": "2026-06-09",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 42546,
+    "lite": false
+  },
+  {
+    "slug": "claude-howto",
+    "title": "Claude Howto",
+    "tagline": "Claude Code için hazırlanan bu görsel rehber, temel kavramlardan ileri seviye ajan (agent) yapılandırmalarına kadar geniş bir…",
+    "meta": "★ 36.008 · Python",
+    "image": "/assets/discover/og/claude-howto.webp",
+    "source": "GitHub",
+    "date": "2026-06-09",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 36008,
+    "lite": false
   }
 ]

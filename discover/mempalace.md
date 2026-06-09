@@ -38,7 +38,7 @@ MemPalace aracını kullanarak yerel yapay zekâ bellek sistemimi kurmak istiyor
 - [GitHub deposu →](https://github.com/MemPalace/mempalace)
 
 ## İlgili sözlük terimleri
-Memory Artificial Intelligence 
+Memory Memory System Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

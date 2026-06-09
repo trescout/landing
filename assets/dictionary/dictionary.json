@@ -747,5 +747,47 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bir işlemin, hata veya kesinti olsa bile kaldığı yerden güvenle devam etmesini sağlayan sistemdir."
+  },
+  {
+    "slug": "grounded-summary",
+    "en": "Grounded Summary",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın sadece sağlanan kaynak belgelere sadık kalarak oluşturduğu, uydurma içermeyen özetleme yöntemidir."
+  },
+  {
+    "slug": "vector-indexing",
+    "en": "Vector Indexing",
+    "full": "",
+    "cat": "data",
+    "kisa": "Büyük veri kümelerini, bilgisayarın anlamlı benzerlikleri saniyeler içinde bulabileceği sayısal bir haritaya dönüştürme işlemidir."
+  },
+  {
+    "slug": "desktop-app",
+    "en": "Desktop App",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternet tarayıcısına ihtiyaç duymadan doğrudan bilgisayarınızın işletim sistemi üzerinde çalışan yazılımlardır."
+  },
+  {
+    "slug": "benchmarks",
+    "en": "Benchmarks",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zeka modellerinin veya yazılımların performansını, hızını ve doğruluğunu ölçmek için kullanılan standart testlerdir."
+  },
+  {
+    "slug": "memory-system",
+    "en": "Memory System",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın geçmiş etkileşimleri, kullanıcı tercihlerini ve verileri hatırlamasını sağlayan depolama mimarisidir."
+  },
+  {
+    "slug": "computer-vision",
+    "en": "Computer Vision",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bilgisayarların görsel verileri (fotoğraf, video) analiz edip içindeki nesneleri, kişileri veya olayları anlamlandırmasını sağlayan teknolojidir."
   }
 ]

@@ -23,7 +23,7 @@ OpenCV kullanmaya başlamak için resmî web sitesi olan opencv.org adresini ziy
 - [GitHub deposu →](https://github.com/opencv/opencv)
 
 ## İlgili sözlük terimleri
-Computer Vision Library Machine Learning Open Source 
+Computer Vision Library Machine Learning Computer Vision Open Source 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

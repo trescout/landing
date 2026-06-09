@@ -1,0 +1,39 @@
+# Skills
+
+Google tarafından geliştirilen yetenekler (skills) kütüphanesi, yapay zekâ ajanlarının Google ürünleri ve teknolojileriyle etkileşim kurmasını sağlayan Python tabanlı araçlar sunuyor. Bu kaynak, ajanların belirli görevleri yerine getirmesi için gerekli işlevselliği standartlaştırılmış bir yapıda sağlıyor.
+
+- ★ 12.675
+- Python
+- GitHub Trending · 2026-06-09
+
+## Ne kazandırır?
+- Yapay zekâ ajanlarına Google ürünleri ile etkileşim yeteneği kazandırır.
+- Google Cloud servisleri için standartlaştırılmış araçlar sunar.
+- Gemini API ve çeşitli bulut altyapı servislerine kolay erişim sağlar.
+
+## Kurulum
+
+**Paket kurulumu**
+
+```
+npx skills add google/skills
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Google ürünleri ve teknolojileriyle etkileşim kuran yapay zekâ ajanları geliştirmek istiyorum. npx skills add google/skills komutu ile yüklediğim kütüphaneyi kullanarak Gemini API, BigQuery veya Cloud Run gibi servisleri ajanıma nasıl entegre edebilirim? Hangi yetenekleri seçmem gerektiği konusunda bana rehberlik et.
+
+- **Kimin için:** Google Cloud servislerini kullanan yapay zekâ ajanları geliştirmek isteyen yazılımcılar ve teknoloji meraklıları içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/google/skills)
+
+## İlgili sözlük terimleri
+AI Skills API Artificial Intelligence 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/skills/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
