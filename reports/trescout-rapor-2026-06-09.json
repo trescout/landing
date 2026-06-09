@@ -1,0 +1,177 @@
+{
+  "date": "2026-06-09",
+  "editorial": "Yapay zekâ ekosistemi bugün kişisel altyapı (personal AI infrastructure) ve yetenek yönetimi (skill management) üzerine odaklanan araçlarla genişliyor. Daniel Miessler'in paylaştığı mimari şemalar ve Google tarafından yayınlanan yetenek kütüphaneleri, otonom ajanların çalışma prensiplerini standartlaştırma çabasını gözler önüne seriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlardan güncel verileri tarayarak belirli konular hakkında sentezlenmiş özetler oluşturan bir yapay zekâ yeteneği (AI agent skill) sunuyor. Python tabanlı bu araç, farklı kaynaklardan elde edilen bilgileri birleştirerek kullanıcıya kanıta dayalı bir özet (grounded summary) sağlıyor.",
+          "meta": "Python · ★ 35.537 · +3.558 bugün"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "TurboQuant üzerine inşa edilen ve Rust diliyle geliştirilen Turbovec, Python bağlamaları (bindings) sayesinde hızlı vektör dizinleme (vector indexing) imkânı sunuyor. Bu kütüphane, yüksek performanslı arama işlemleri için vektör tabanlı veri yapılarını optimize etmeyi hedefliyor.",
+          "meta": "Python · ★ 9.415 · +1.729 bugün"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Google tarafından geliştirilen yetenekler (skills) kütüphanesi, yapay zekâ ajanlarının Google ürünleri ve teknolojileriyle etkileşim kurmasını sağlayan Python tabanlı araçlar sunuyor. Bu kaynak, ajanların belirli görevleri yerine getirmesi için gerekli işlevselliği standartlaştırılmış bir yapıda sağlıyor.",
+          "meta": "Python · ★ 12.675 · +461 bugün"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilmiş bir masaüstü uygulamasıdır (desktop app). TypeScript ile yazılan bu araç, kişisel dokümantasyon süreçlerini düzenlemek için arayüz desteği sunar.",
+          "meta": "TypeScript · ★ 13.858 · +651 bugün"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach, yapay zekâ ajanlarına internet üzerindeki çeşitli platformları tarama ve okuma yeteneği kazandıran bir komut satırı arayüzü (CLI) aracıdır. Twitter, Reddit ve GitHub gibi popüler ağlardan veri çekmeyi, herhangi bir uygulama programlama arayüzü (API) ücreti ödemeden mümkün kılar.",
+          "meta": "Python · ★ 24.771 · +679 bugün"
+        },
+        {
+          "title": "danielmiessler/Personal_AI_Infrastructure",
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "summary": "Kişisel yapay zekâ altyapısı (Personal AI Infrastructure), bireysel yetenekleri genişletmek amacıyla tasarlanmış ajan tabanlı yapay zekâ (agentic AI) sistemlerini kapsıyor. TypeScript diliyle geliştirilen bu yapı, kullanıcıların kendi otomasyon süreçlerini ve akıllı iş akışlarını yönetmelerine olanak tanıyor.",
+          "meta": "TypeScript · ★ 15.576 · +62 bugün"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Claude Code altyapısını kullanan career-ops, yapay zekâ destekli iş arama süreçlerini 14 farklı yetenek moduyla otomatikleştiriyor. Sistem, Go diliyle yazılmış bir kontrol paneli üzerinden toplu işlem yapma ve PDF formatında özgeçmiş oluşturma imkânı sağlıyor.",
+          "meta": "JavaScript · ★ 50.866 · +308 bugün"
+        },
+        {
+          "title": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "summary": "PM Skills Marketplace, ürün yönetimi süreçleri için geliştirilmiş 100'den fazla otonom yetenek (agentic skills), komut ve eklenti sunuyor. Bu kaynak, keşif aşamasından büyüme evresine kadar tüm ürün yaşam döngüsü boyunca yapay zekâ destekli iş akışlarını standartlaştırmayı amaçlıyor.",
+          "meta": "★ 12.983 · +164 bugün"
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "OpenAI eklentileri (plugins), dil modellerinin dış verilere erişmesini ve gerçek zamanlı işlemler gerçekleştirmesini sağlayan bir genişletilebilirlik mimarisi sunuyor. Bu yapı, yapay zekâ modellerinin üçüncü taraf uygulamalarla etkileşime girerek işlevselliklerini artırmasına olanak tanıyor.",
+          "meta": "JavaScript · ★ 2.415 · +296 bugün"
+        },
+        {
+          "title": "Andyyyy64/whichllm",
+          "url": "https://github.com/Andyyyy64/whichllm",
+          "summary": "Whichllm, donanımınız üzerinde en yüksek performansı gösteren yerel büyük dil modellerini (large language models) belirlemenizi sağlayan bir araçtır. Parametre sayısından ziyade güncel kıyaslama testlerine (benchmarks) odaklanan bu Python tabanlı yazılım, tek komutla en uygun modeli seçmenize olanak tanır.",
+          "meta": "Python · ★ 3.679 · +143 bugün"
+        },
+        {
+          "title": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "summary": "MemPalace, yapay zekâ modelleri için açık kaynaklı ve yüksek performanslı bir bellek sistemi (memory system) sunuyor. Geliştiriciler, bu Python tabanlı kütüphane ile yapay zekâ uygulamalarına verimli veri depolama ve geri çağırma yetenekleri kazandırabiliyor.",
+          "meta": "Python · ★ 55.090 · +170 bugün"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Roboflow tarafından geliştirilen Supervision, bilgisayarlı görü (computer vision) projeleri için yeniden kullanılabilir yardımcı araçlar ve fonksiyonlar sunuyor. Python tabanlı bu kütüphane, nesne tespiti ve takibi gibi süreçlerdeki standart işlemleri kolaylaştırarak geliştirme iş akışlarını hızlandırıyor.",
+          "meta": "Python · ★ 42.546 · +1.288 bugün"
+        },
+        {
+          "title": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "summary": "CopilotKit, yapay zekâ ajanları ve üretken kullanıcı arayüzleri (generative UI) oluşturmak için gerekli olan ön yüz bileşenlerini (frontend stack) sağlar. Geliştiricilerin React, Angular ve mobil platformlarda ajan tabanlı etkileşimli arayüzler geliştirmesine olanak tanıyan AG-UI protokolünü kullanır.",
+          "meta": "TypeScript · ★ 34.314 · +378 bugün"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "ChinaTextbook projesi, ilkokuldan üniversite seviyesine kadar Çin eğitim sisteminde kullanılan ders kitaplarının PDF formatındaki arşivini sunuyor. Açık kaynaklı bu depo, akademik kaynaklara erişimi dijital bir kütüphane yapısında bir araya getiriyor.",
+          "meta": "Roff · ★ 73.209 · +592 bugün"
+        },
+        {
+          "title": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "summary": "Claude Code için hazırlanan bu görsel rehber, temel kavramlardan ileri seviye ajan (agent) yapılandırmalarına kadar geniş bir yelpazede örnekler sunuyor. Kopyalanabilir şablonlar aracılığıyla kullanıcıların kod yazma süreçlerini hızlandırmayı ve uygulama geliştirme pratiklerini standartlaştırmayı amaçlıyor.",
+          "meta": "Python · ★ 36.008 · +312 bugün"
+        },
+        {
+          "title": "aaif-goose/goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "summary": "Rust diliyle geliştirilen Goose, kod önerilerinin ötesine geçerek yazılım kurulumu, yürütme, düzenleme ve test süreçlerini otomatize eden açık kaynaklı bir yapay zekâ ajanıdır (AI agent). Herhangi bir büyük dil modeliyle (LLM) entegre çalışabilen bu genişletilebilir yapı, geliştirme iş akışlarını uçtan uca yönetmeyi amaçlar.",
+          "meta": "Rust · ★ 48.233 · +699 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Performative-UI – A react component library of design tropes",
+          "url": "https://vorpus.github.io/performativeUI/",
+          "summary": "Performative-UI, kullanıcı arayüzü tasarımında sıkça kullanılan klişeleri (design tropes) hazır React bileşenleri olarak sunuyor. Geliştiriciler, bu kütüphane sayesinde yaygın görsel kalıpları projelerine hızlıca entegre edebiliyor.",
+          "meta": "929 oy · 168 yorum"
+        },
+        {
+          "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+          "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+          "summary": "Sosyal medya platformları, kullanıcıların arkadaşlarıyla etkileşim kurduğu alanlar olmaktan çıkarak geçici akımların (fads) ve algoritmik içeriklerin domine ettiği mecralara dönüştü. Bu değişim, kişisel bağlantıların yerini içerik tüketimine bırakmasıyla sosyal ağların temel işlevini farklı bir boyuta taşıdı.",
+          "meta": "623 oy · 430 yorum"
+        },
+        {
+          "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+          "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+          "summary": "Xiaomi tarafından geliştirilen MiMo-v2.5-Pro-UltraSpeed, saniyede 1000 belirteç (token) üretim hızı sunan 1 trilyon parametreli bir büyük dil modeli (large language model) olarak tanıtıldı. Bu teknoloji, yüksek ölçekli modellerde çıkarım (inference) hızını artırarak gerçek zamanlı etkileşim kapasitesini genişletmeyi hedefliyor.",
+          "meta": "548 oy · 397 yorum"
+        },
+        {
+          "title": "Siri AI",
+          "url": "https://www.apple.com/apple-intelligence/",
+          "summary": "Apple, Apple Zekâsı (Apple Intelligence) ile Siri'yi kişisel bağlamı anlayan ve uygulamalar arası işlem yapabilen üretken yapay zekâ (generative AI) modelleriyle güncelliyor. Bu sistem, cihaz üzerinde işleme (on-device processing) ve bulut tabanlı özel sunucular aracılığıyla kullanıcı verilerinin gizliliğini koruyarak daha gelişmiş bir dijital asistan deneyimi sunmayı hedefliyor.",
+          "meta": "540 oy · 487 yorum"
+        },
+        {
+          "title": "Apple reveals new AI architecture built around Google Gemini models",
+          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+          "summary": "Apple, yapay zekâ mimarisini Google Gemini modelleriyle entegre ederek cihaz içi ve bulut tabanlı işlemleri birleştiren yeni bir yapıya taşıyor. Bu mimari, Apple'ın kendi donanım yeteneklerini Google'ın büyük dil modelleri (large language models) ile birleştirerek sistem genelinde daha gelişmiş bir yapay zekâ deneyimi sunmayı hedefliyor.",
+          "meta": "537 oy · 415 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "NVIDIA tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma (object localization) görevlerini yerine getiren bir görüntü-metin-metin (image-text-to-text) modelidir. Model, görsel içeriklerdeki nesneleri tanımlamak ve bu nesnelerin koordinatlarını metin tabanlı çıktılarla sunmak için tasarlanmıştır.",
+          "meta": "♥ 1.646 · 121.594 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Google tarafından geliştirilen Gemma 2-9B modelinin güncellenmiş bir sürümü olan Gemma-2-11B-it, çok modlu yeteneklere sahip her şeyden her şeye (any-to-any) dönüştürme yapabilen bir modeldir. Bu model, metin ve görsel verileri aynı anda işleyerek farklı veri türleri arasında etkileşimli çıktı üretme kapasitesi sunar.",
+          "meta": "♥ 762 · 554.173 indirme"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "Unsloth tarafından optimize edilen Gemma-4-12b-it modeli, görsel ve metin verilerini işleyebilen çok modlu (multimodal) bir yapı sunuyor. Model, GGUF formatı sayesinde donanım kaynaklarını verimli kullanarak yerel cihazlarda metin tabanlı görsel analiz süreçlerini hızlandırıyor.",
+          "meta": "♥ 509 · 645.263 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B",
+          "url": "https://huggingface.co/google/gemma-4-12B",
+          "summary": "Google tarafından geliştirilen Gemma-4-12B, farklı veri türlerini işleyebilen çok modlu (any-to-any) bir model yapısı sunuyor. Bu model, metin ve diğer veri formatları arasında esnek dönüşüm süreçlerini destekleyerek geniş kapsamlı görevlerde kullanılabiliyor.",
+          "meta": "♥ 459 · 117.509 indirme"
+        },
+        {
+          "title": "ideogram-ai/ideogram-4-fp8",
+          "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+          "summary": "Ideogram tarafından geliştirilen ideogram-4-fp8, metinden görüntü oluşturma (text-to-image) süreçlerinde kullanılan bir modeldir. Kayan nokta hassasiyeti 8 bit (FP8) formatıyla optimize edilen bu model, görsel üretim performansını artırmayı hedefler.",
+          "meta": "♥ 407 · 5.495 indirme"
+        }
+      ]
+    }
+  ]
+}
