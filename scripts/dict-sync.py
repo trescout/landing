@@ -115,8 +115,9 @@ def gemini(existing, candidates, key):
              "\n\nADAY terimler:\n"+json.dumps(candidates,ensure_ascii=False))
     body={"systemInstruction":{"parts":[{"text":SYS}]},"contents":[{"parts":[{"text":payload}]}],
           "generationConfig":{"temperature":0.5,"responseMimeType":"application/json","maxOutputTokens":8192}}
-    url=f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={key}"
-    req=urllib.request.Request(url,data=json.dumps(body).encode(),headers={"Content-Type":"application/json"},method="POST")
+    # key header'da taşınır · URL query param'ı log/proxy'lerde sızabilir
+    url=f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+    req=urllib.request.Request(url,data=json.dumps(body).encode(),headers={"Content-Type":"application/json","x-goog-api-key":key},method="POST")
     last=None
     for attempt in range(5):  # geçici 429/500/503/timeout için retry + backoff
         try:
@@ -257,6 +258,9 @@ def main():
     if not key: print("HATA: GEMINI_API_KEY yok (ortam değişkeni ya da app/.env.local)."); sys.exit(1)
     existing=[(m["slug"],m["en"]) for m in manifest]
     new=gemini(existing, [{"term":c["term"],"aciklama":c["explanation"]} for c in candidates], key)
+    # güvenlik: Gemini'nin döndürdüğü slug'ı normalize et · ham slug path'e
+    # girince "../x" gibi bir değer os.path.join ile dictionary/ dışına yazardı
+    for n in new: n["slug"]=slugify(n.get("slug") or "")
     # geçerlilik + slug çakışması filtre
     new=[n for n in new if n.get("slug") and n["slug"] not in existing_slugs and n.get("en") and n.get("kisa") and n.get("tanim")]
     if not new: print("Gemini yeni terim üretmedi (hepsi eş-anlamlı/mevcut) · sözlük güncel ✅"); return

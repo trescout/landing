@@ -239,8 +239,9 @@ def gemini_enrich(title,summary,readme,blocks,key):
              "\n\nAYIKLANAN GERÇEK KOMUTLAR (komutu yalnızca bunlardan, birebir seç):\n"+json.dumps(blocks,ensure_ascii=False))
     body={"systemInstruction":{"parts":[{"text":ENRICH_SYS}]},"contents":[{"parts":[{"text":payload}]}],
           "generationConfig":{"temperature":0.4,"responseMimeType":"application/json","maxOutputTokens":2048}}
-    url=f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={key}"
-    req=urllib.request.Request(url,data=json.dumps(body).encode(),headers={"Content-Type":"application/json"},method="POST")
+    # key header'da taşınır · URL query param'ı log/proxy'lerde sızabilir
+    url=f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+    req=urllib.request.Request(url,data=json.dumps(body).encode(),headers={"Content-Type":"application/json","x-goog-api-key":key},method="POST")
     for attempt in range(4):
         try:
             raw=json.loads(urllib.request.urlopen(req,timeout=120).read().decode())["candidates"][0]["content"]["parts"][0]["text"]
