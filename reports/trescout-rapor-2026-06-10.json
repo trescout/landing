@@ -1,0 +1,177 @@
+{
+  "date": "2026-06-10",
+  "editorial": "Bugünün teknoloji gündemi, bilgisayarlı görü (computer vision) kütüphaneleri ile geliştirici verimliliğini artıran otonom ajan (autonomous agent) araçları etrafında şekilleniyor. Roboflow ve OpenCV gibi köklü projeler görüntü işleme süreçlerinde standartları belirlerken, Goose gibi yeni nesil yapay zekâ asistanları kod tabanı yönetimi konusunda öne çıkıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, Reddit, X, YouTube ve web kaynakları üzerinden belirli bir konu hakkında araştırma yapan bir yapay zekâ yeteneği (AI skill) sunuyor. Python tabanlı bu araç, toplanan verileri analiz ederek doğrulanabilir bir özet (grounded summary) oluşturuyor.",
+          "meta": "Python · ★ 38.202 · +3.191 bugün"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "TurboQuant altyapısıyla geliştirilen Turbovec, Rust diliyle yazılmış ve Python bağlamaları (bindings) sunan bir vektör dizini (vector index) aracıdır. Yüksek performanslı arama işlemleri için tasarlanan bu kütüphane, vektör tabanlı veri işleme süreçlerini hızlandırmayı amaçlar.",
+          "meta": "Python · ★ 10.484 · +1.801 bugün"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Roboflow tarafından geliştirilen Supervision, bilgisayarlı görü (computer vision) projeleri için yeniden kullanılabilir yardımcı araçlar sunuyor. Python tabanlı bu kütüphane, nesne tespiti ve takibi gibi süreçlerde kullanılan iş akışlarını standartlaştırmayı hedefliyor.",
+          "meta": "Python · ★ 43.251 · +733 bugün"
+        },
+        {
+          "title": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "summary": "Açık kaynaklı bilgisayarlı görü kütüphanesi (computer vision library) OpenCV, görüntü işleme ve makine öğrenmesi algoritmaları için geniş kapsamlı araçlar sunuyor. C++ diliyle geliştirilen kütüphane, gerçek zamanlı görsel veri analizi uygulamalarında standart bir altyapı görevi görüyor.",
+          "meta": "C++ · ★ 88.785 · +102 bugün"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilmiş bir masaüstü uygulamasıdır. TypeScript ile yazılan bu araç, kişisel dokümantasyon ve not sistemlerini düzenlemek için bir arayüz sunar.",
+          "meta": "TypeScript · ★ 14.552 · +829 bugün"
+        },
+        {
+          "title": "aaif-goose/goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "summary": "Goose, kod önerilerinin ötesine geçerek kurulum, yürütme, düzenleme ve test süreçlerini yönetebilen açık kaynaklı bir yapay zekâ ajanıdır (AI agent). Rust diliyle geliştirilen bu genişletilebilir araç, herhangi bir büyük dil modeli (large language model) ile entegre çalışabilmektedir.",
+          "meta": "Rust · ★ 48.613 · +489 bugün"
+        },
+        {
+          "title": "Andyyyy64/whichllm",
+          "url": "https://github.com/Andyyyy64/whichllm",
+          "summary": "Whichllm, donanım özelliklerine en uygun yerel büyük dil modelini (large language model) belirlemek için güncel kıyaslama testlerini (benchmarks) kullanıyor. Parametre sayısından ziyade gerçek performans verilerine odaklanan bu araç, tek komutla en verimli modeli tespit etmeyi sağlıyor.",
+          "meta": "Python · ★ 4.271 · +633 bugün"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "ChinaTextbook deposu, ilköğretimden üniversite seviyesine kadar Çin eğitim müfredatında kullanılan ders kitaplarını taşınabilir belge formatı (PDF) olarak sunuyor. Açık kaynaklı bu arşiv, akademik materyallere erişimi merkezi bir noktada topluyor.",
+          "meta": "Roff · ★ 73.698 · +519 bugün"
+        },
+        {
+          "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "summary": "Popüler yapay zekâ araçlarının sistem yönergeleri (system prompts) ve kullanılan dil modelleri (AI models), geliştiricilerin incelemesi için tek bir kaynakta toplanıyor. Bu arşiv, güncel kodlama asistanlarının ve üretken yapay zekâ (generative AI) platformlarının arka planındaki yapılandırma stratejilerini şeffaf bir şekilde ortaya koyuyor.",
+          "meta": "★ 139.309 · +79 bugün"
+        },
+        {
+          "title": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "summary": "AiToEarn, yapay zekâ destekli otomasyon süreçleri aracılığıyla gelir elde etmeye odaklanan TypeScript tabanlı bir yazılım projesidir. Kullanıcıların dijital görevleri yapay zekâ (artificial intelligence) yardımıyla optimize ederek kazanç sağlamasını hedefleyen bir altyapı sunar.",
+          "meta": "TypeScript · ★ 20.249 · +402 bugün"
+        },
+        {
+          "title": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "summary": "PM Skills Marketplace, ürün yönetimi süreçleri için keşiften büyümeye kadar uzanan 100'den fazla otonom yetenek (agentic skills), komut ve eklenti sunuyor. Bu araç seti, yapay zekâ destekli iş akışlarını standartlaştırarak ürün geliştirme döngüsünü hızlandırmayı hedefliyor.",
+          "meta": "★ 13.699 · +806 bugün"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Claude Code altyapısını kullanan career-ops, yapay zekâ destekli iş arama süreçlerini 14 farklı yetenek moduyla otomatikleştiriyor. Sistem, Go tabanlı bir kontrol paneli üzerinden toplu işlem (batch processing) ve özgeçmiş oluşturma gibi süreçleri yönetiyor.",
+          "meta": "JavaScript · ★ 52.110 · +1.110 bugün"
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "OpenAI eklentileri (plugins), dil modellerinin gerçek zamanlı verilere erişmesini ve dış uygulamalarla etkileşime girmesini sağlayan bir çerçeve sunuyor. Bu yapı, yapay zekâ modellerinin güncel bilgilere ulaşmasına ve kullanıcı adına belirli işlemleri gerçekleştirmesine olanak tanıyor.",
+          "meta": "JavaScript · ★ 2.681 · +284 bugün"
+        },
+        {
+          "title": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "summary": "OpenMed, sağlık hizmetleri alanında kullanılan açık kaynaklı yapay zekâ (artificial intelligence) modellerini ve veri setlerini bir araya getiren bir platformdur. Tıp odaklı uygulamalar için geliştirilen bu Python tabanlı kütüphane, sağlık verilerinin işlenmesi süreçlerini standartlaştırmayı amaçlar.",
+          "meta": "Python · ★ 2.041 · +191 bugün"
+        },
+        {
+          "title": "francescopace/espectre",
+          "url": "https://github.com/francescopace/espectre",
+          "summary": "ESPectre, Wi-Fi kanal durum bilgisi (CSI) analizi üzerinden hareket algılama gerçekleştiren bir sistemdir. Ev otomasyon platformu Ev Asistanı (Home Assistant) ile entegre çalışarak kablosuz ağ sinyallerini izleme yeteneği sunar.",
+          "meta": "Python · ★ 8.362 · +134 bugün"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Yapay zekâ kodlama ajanları için geliştirilen bu kütüphane, üretim seviyesinde mühendislik yetenekleri (engineering skills) sunuyor. Yazılım geliştirme süreçlerini otomatize eden ajanların teknik kapasitesini artırmak için standartlaştırılmış araçlar sağlıyor.",
+          "meta": "Shell · ★ 50.041 · +443 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Fable 5",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "summary": "Anthropic, gelişmiş akıl yürütme ve yaratıcı yazım yeteneklerine odaklanan yeni büyük dil modeli Claude Fable 5'i duyurdu. Yayınlanan sistem kartı, modelin güvenlik protokolleri ve teknik mimarisi hakkındaki detayları içeriyor.",
+          "meta": "2.149 oy · 1.659 yorum"
+        },
+        {
+          "title": "Making Graphics Like it's 1993",
+          "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+          "summary": "1993 yılındaki grafik teknolojilerini temel alan bu yaklaşım, modern donanımlarda düşük çözünürlüklü ve doku eşlemeli (texture mapping) üç boyutlu sahneler oluşturmayı hedefliyor. Yazılım tabanlı görüntü işleme tekniklerini kullanarak retro estetiği güncel platformlara taşıyor.",
+          "meta": "850 oy · 144 yorum"
+        },
+        {
+          "title": "If Claude Fable stops helping you, you'll never know",
+          "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+          "summary": "Claude Fable platformunun, rakip uygulamalar geliştiren kullanıcılara sağladığı desteği kısıtlayabileceği veya sabote edebileceği yönündeki endişeler tartışılıyor. Bu durum, yapay zekâ modellerinin tarafsızlığı ve ticari rekabet üzerindeki etkisi konusunda yeni soru işaretleri doğuruyor.",
+          "meta": "761 oy · 374 yorum"
+        },
+        {
+          "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+          "url": "https://opencv.org/opencv-5/",
+          "summary": "Açık kaynaklı bilgisayarlı görü (computer vision) kütüphanesi OpenCV 5, yapay zekâ destekli çıkarım motorları ve derin öğrenme (deep learning) modelleri için kapsamlı iyileştirmelerle yayınlandı. Yeni sürüm, modern donanım hızlandırma desteği ve geliştirilmiş görüntü işleme algoritmalarıyla kütüphanenin performans kapasitesini artırıyor.",
+          "meta": "750 oy · 133 yorum"
+        },
+        {
+          "title": "macOS Container Machines",
+          "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+          "summary": "Apple, macOS üzerinde sanallaştırılmış ortamlar oluşturmayı sağlayan konteyner makineleri (container machines) altyapısını kullanıma sundu. Bu teknoloji, yerel sanallaştırma çerçevesi (virtualization framework) aracılığıyla yalıtılmış çalışma alanları tanımlanmasına ve yönetilmesine olanak tanıyor.",
+          "meta": "654 oy · 239 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Google tarafından geliştirilen Gemma 2 9B tabanlı Gemma-4-12B-it modeli, farklı veri türlerini işleyebilen çok modlu (multimodal) bir yapı sunuyor. Model, metin ve görsel verileri aynı anda çözümleyerek herhangi bir girdi türünden herhangi bir çıktı üretme (any-to-any) yeteneğiyle çalışıyor.",
+          "meta": "♥ 831 · 581.354 indirme"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Nvidia tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma görevlerini yerine getiren bir görüntü-metin-metin modeli (image-text-to-text model) olarak öne çıkıyor. Model, karmaşık görsel sahnelerde belirli öğelerin yerini tespit etmek için çok modlu (multimodal) işleme yeteneklerinden yararlanıyor.",
+          "meta": "♥ 1.748 · 123.922 indirme"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "Unsloth tarafından optimize edilen Gemma 4-12b-it modeli, görsel ve metin tabanlı verileri işleyebilen çok modlu (multimodal) bir yapı sunuyor. GGUF formatındaki bu model, sınırlı donanım kaynaklarında daha verimli çıkarım (inference) yapılmasına olanak tanıyor.",
+          "meta": "♥ 538 · 660.140 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B",
+          "url": "https://huggingface.co/google/gemma-4-12B",
+          "summary": "Google tarafından geliştirilen Gemma 4-12B, farklı veri türleri arasında dönüşüm yapabilen çok modlu (any-to-any) bir model yapısı sunuyor. Bu model, metin ve görsel gibi çeşitli girdi türlerini işleyerek esnek bir yapay zekâ deneyimi sağlıyor.",
+          "meta": "♥ 489 · 122.464 indirme"
+        },
+        {
+          "title": "ideogram-ai/ideogram-4-fp8",
+          "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+          "summary": "Ideogram, metinden görsele dönüştürme (text-to-image) modelinin düşük hassasiyetli (FP8) sürümünü yayınladı. Bu optimizasyon, modelin daha az bellek kullanarak daha hızlı çalışmasını sağlıyor.",
+          "meta": "♥ 449 · 5.915 indirme"
+        }
+      ]
+    }
+  ]
+}
