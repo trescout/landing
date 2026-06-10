@@ -817,5 +817,12 @@
     "full": "",
     "cat": "dev",
     "kisa": "Çok sayıda işlemin tek tek değil, bir grup halinde arka planda otomatik olarak gerçekleştirilmesidir."
+  },
+  {
+    "slug": "ai-skill",
+    "en": "AI Skill",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın belirli bir görevi veya süreci başarıyla tamamlayabilmesi için sahip olduğu özelleşmiş yetenekler bütünüdür."
   }
 ]
