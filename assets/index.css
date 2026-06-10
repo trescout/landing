@@ -1159,6 +1159,35 @@
     .diff-table .check { color: var(--success); }
     .diff-table .cross { color: var(--ink-muted); }
 
+    /* Mobil: 3 sütun 375px'de sıkışıp okunmaz oluyor → her satırı karta çevir,
+       sütunları ::before ile etiketle (head satırı gizlenir). */
+    @media (max-width: 600px) {
+      .diff-table .row.head { display: none; }
+      .diff-table .row {
+        grid-template-columns: 1fr;
+        gap: 2px;
+        padding: 18px 20px 20px;
+      }
+      .diff-table .row > div:first-child {
+        font-weight: 700;
+        font-size: 15px;
+        color: var(--ink);
+        margin-bottom: 8px;
+      }
+      .diff-table .row .cross::before,
+      .diff-table .row .check::before {
+        display: block;
+        font-size: 11px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin-top: 8px;
+        opacity: 0.75;
+      }
+      .diff-table .row .cross::before { content: "Manuel / YZ araçları"; color: var(--ink-muted); }
+      .diff-table .row .check::before { content: "TreScout"; color: var(--success); }
+    }
+
     /* ---------- FEATURES ---------- */
     .features-grid {
       display: grid;
