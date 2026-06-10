@@ -37,7 +37,7 @@ Projemin tasarım kalitesini ve görsel tutarlılığını artırmak istiyorum. 
 - [GitHub deposu →](https://github.com/pbakaus/impeccable)
 
 ## İlgili sözlük terimleri
-Generative AI Design Language CLI Artificial Intelligence 
+Design Language Generative AI CLI Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -796,5 +796,26 @@
     "full": "",
     "cat": "ai",
     "kisa": "Otonom yapay zekâ sistemlerinin karmaşık süreçleri yönetmek ve hedeflere ulaşmak için kullandığı ileri seviye yetenekler bütünüdür."
+  },
+  {
+    "slug": "system-prompts",
+    "en": "System Prompts",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın nasıl davranacağını ve hangi kurallara uyacağını belirleyen temel talimatlar bütünüdür."
+  },
+  {
+    "slug": "ai-models",
+    "en": "AI Models",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Büyük miktarda veriyle eğitilerek tahmin yapma veya içerik üretme yeteneği kazanan matematiksel yapılardır."
+  },
+  {
+    "slug": "batch-processing",
+    "en": "Batch Processing",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Çok sayıda işlemin tek tek değil, bir grup halinde arka planda otomatik olarak gerçekleştirilmesidir."
   }
 ]

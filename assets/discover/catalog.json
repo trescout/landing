@@ -1490,5 +1490,68 @@
     ],
     "stars": 36008,
     "lite": false
+  },
+  {
+    "slug": "system-prompts-and-models-of-ai-tools",
+    "title": "System Prompts and Models of AI Tools",
+    "tagline": "Popüler yapay zekâ araçlarının sistem yönergeleri (system prompts) ve kullanılan dil modelleri (AI models), geliştiricilerin…",
+    "meta": "★ 139.309",
+    "image": "/assets/discover/og/system-prompts-and-models-of-ai-tools.webp",
+    "source": "GitHub",
+    "date": "2026-06-10",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 139309,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "openmed",
+    "title": "Openmed",
+    "tagline": "OpenMed, sağlık hizmetleri alanında kullanılan açık kaynaklı yapay zekâ (artificial intelligence) modellerini ve veri…",
+    "meta": "★ 2.041 · Python",
+    "image": "/assets/discover/og/openmed.webp",
+    "source": "GitHub",
+    "date": "2026-06-10",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 2041,
+    "lite": false
+  },
+  {
+    "slug": "espectre",
+    "title": "Espectre",
+    "tagline": "ESPectre, Wi-Fi kanal durum bilgisi (CSI) analizi üzerinden hareket algılama gerçekleştiren bir sistemdir.",
+    "meta": "★ 8.362 · Python",
+    "image": "/assets/discover/og/espectre.webp",
+    "source": "GitHub",
+    "date": "2026-06-10",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 8362,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "agent-skills",
+    "title": "Agent Skills",
+    "tagline": "Yapay zekâ kodlama ajanları için geliştirilen bu kütüphane, üretim seviyesinde mühendislik yetenekleri (engineering skills)…",
+    "meta": "★ 50.041 · Shell",
+    "image": "/assets/discover/og/agent-skills.webp",
+    "source": "GitHub",
+    "date": "2026-06-10",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 50041,
+    "lite": false
   }
 ]
