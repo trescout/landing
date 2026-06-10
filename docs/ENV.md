@@ -73,31 +73,12 @@ npx vercel dev    # local server (api/ route'ları dahil)
 
 `dict-sync.yml` workflow'u (sözlük + keşif oto-büyüme) Vercel env'lerinden **ayrı** bir kasaya bakar: GitHub Actions secret store.
 
-| Key | Nerede | Açıklama |
-|---|---|---|
-| `GEMINI_API_KEY` | **Org secret** (`trescout`) | dict-sync + discover-sync (zengin-oto) Gemini'yi çağırır |
-| `GITHUB_TOKEN` | otomatik (`github.token`) | README/meta çekme · ekstra kurulum gerekmez |
+| Key | Açıklama |
+|---|---|
+| `GEMINI_API_KEY` | dict-sync + discover-sync (zengin-oto) Gemini'yi çağırır · repo/org secret olarak Actions store'da |
+| `GITHUB_TOKEN` | otomatik (`github.token`) · README/meta çekme · ekstra kurulum gerekmez |
 
-### Org secret · görünürlük kısıtı (ÖNEMLİ)
-
-- `GEMINI_API_KEY` **org-seviyesi** secret olarak eklendi (trescout → Settings → Secrets and variables → Actions).
-- **Mevcut GitHub planında org secret'ları yalnızca PUBLIC repolara scope'lanabiliyor.**
-- `trescout/landing` **public** → kapsanıyor ✅ (Action çalışır).
-- `app` · `internal` · `brand-kit` · `kit-app` **private** → org public-secret onlara ulaşmaz; her biri kendi repo secret'ını kullanır (`trescout/app`'te `GEMINI_API_KEY` repo secret olarak zaten var, 2026-05-30).
-
-### ⚠️ İleride bak (plan / görünürlük değişiklikleri)
-
-- **landing private olursa** → org public-secret artık kapsamaz → Action `GEMINI_API_KEY`'i bulamaz. Çözüm: landing'e repo-level secret ekle, YA DA GitHub Team/Enterprise'a yüksel (org secret'ları private repolara da açılır).
-- **Plan yükseltmesi (Free → Team)** → org secret'ları private repolara da scope'lanabilir → app vb. repo secret'ları org'a taşıyıp tek kaynak yapabilirsin.
-- Her durumda: merge sonrası **ilk Action koşusunda** dict-sync adımının geçtiğini doğrula (secret gerçekten erişiliyor mu).
-
-## Secret / env tam haritası (nerede ne var)
-
-| Sır | Kasa | Kullanan |
-|---|---|---|
-| `RESEND_API_KEY` · `RESEND_AUDIENCE_ID` | Vercel env (runtime) | `api/subscribe` (erken-erişim funnel) |
-| `GEMINI_API_KEY` | GitHub **org** secret (public repolar) | landing Action (oto-büyüme) |
-| `GEMINI_API_KEY` | `trescout-app/.env.local` (yerel) | script'leri yerelde çalıştırma |
-| `GEMINI_API_KEY` · `LANDING_PUSH_TOKEN` | `trescout/app` repo secret | app workflow'ları (rapor üretimi + landing'e push) |
-
-> Üç ayrı kasa karışmasın: Vercel (funnel runtime) · GitHub Actions (CI oto-büyüme) · yerel .env.local (geliştirme). Aynı isimli secret farklı kasalarda ayrı ayrı durur.
+> Org secret görünürlük kısıtları, plan/görünürlük değişikliği senaryoları ve
+> tüm repolar arası secret-kasa haritası (nerede ne var) `trescout-internal`
+> reposunda tutulur. Bu repo public olduğu için altyapı topolojisi burada
+> tekrarlanmaz.

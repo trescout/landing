@@ -25,14 +25,15 @@ Bu repo Vercel'a bağlı. `main` branch'a her push otomatik production deploy.
 - Vercel default URL: `trescout-landing.vercel.app` (preview'lar için bu pattern)
 - Her PR için ayrı preview URL
 
-## İletişim altyapısı
+## İletişim
 
-| Kanal | Adres / Hesap | Not |
-|---|---|---|
-| Genel iletişim | `hello@trescout.com` | Cloudflare Email Routing → yaani inbox |
-| Operasyonel | `admin@trescout.com` | Servis hesapları, password reset |
-| Erken erişim formu | Tally form `9qp1XY` | Submit → bildirim `hello@`'a |
-| Outbound mail | Resend (`trescout.com` apex · Free tier) | DKIM/SPF verified · Pro'ya geçince `send.trescout.com` subdomain'ine ayrılır |
+| Kanal | Adres |
+|---|---|
+| Genel iletişim | `hello@trescout.com` |
+| Erken erişim formu | landing hero formu → `/api/subscribe` |
+
+> Operasyonel hesaplar, e-posta yönlendirme topolojisi ve mail altyapısı detayları
+> `trescout-internal` reposunda tutulur (bu repo public).
 
 ## Sosyal medya
 
