@@ -84,6 +84,42 @@ function isOriginAllowed(origin) {
   return false;
 }
 
+/**
+ * Best-effort per-IP rate limit · 10 dakikada 5 istek.
+ *
+ * Form gönderimi insan için seyrek bir işlem; 5/10dk cömert. Amaç tek kaynaktan
+ * burst'ü (inbox flood / audience kirletme / Resend kota tüketimi) kesmek.
+ *
+ * Sınır: edge isolate-bazlı bellek · birden çok isolate/region'a yayılan
+ * dağıtık saldırıyı yakalamaz ve isolate geri dönüşümünde sıfırlanır. Honeypot +
+ * origin check + Cloudflare üstüne bir KATMAN. Kalıcı/garanti çözüm için Vercel
+ * WAF rate-limit kuralı veya Upstash Ratelimit (kalıcı store) — bkz. docs.
+ */
+const RATE_WINDOW_MS = 10 * 60 * 1000;
+const RATE_MAX = 5;
+const rateHits = new Map(); // ip → number[] (istek timestamp'leri)
+
+function isRateLimited(ip, now) {
+  if (!ip) return false; // IP yoksa limitleyemeyiz · diğer katmanlara bırak
+  const cutoff = now - RATE_WINDOW_MS;
+  const hits = (rateHits.get(ip) || []).filter((t) => t > cutoff);
+  hits.push(now);
+  rateHits.set(ip, hits);
+  // Map'in sınırsız büyümesini engelle · pencere dışı IP'leri ara sıra temizle
+  if (rateHits.size > 5000) {
+    for (const [k, v] of rateHits) {
+      if (v.every((t) => t <= cutoff)) rateHits.delete(k);
+    }
+  }
+  return hits.length > RATE_MAX;
+}
+
+function clientIp(req) {
+  const xff = req.headers.get('x-forwarded-for');
+  if (xff) return xff.split(',')[0].trim();
+  return req.headers.get('x-real-ip') || '';
+}
+
 export default async function handler(req) {
   if (req.method !== 'POST') {
     return jsonResponse({ error: 'Method not allowed' }, 405);
@@ -94,6 +130,13 @@ export default async function handler(req) {
   if (!isOriginAllowed(origin)) {
     console.warn('Blocked origin:', origin);
     return jsonResponse({ error: 'İstek geçersiz' }, 403);
+  }
+
+  // Rate limit · pahalı Resend çağrılarından önce
+  const ip = clientIp(req);
+  if (isRateLimited(ip, Date.now())) {
+    console.warn('Rate limited:', ip);
+    return jsonResponse({ error: 'Çok fazla deneme · birkaç dakika sonra tekrar deneyin' }, 429);
   }
 
   let body;
