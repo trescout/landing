@@ -60,12 +60,24 @@ function jsonResponse(body, status = 200) {
 function isOriginAllowed(origin) {
   if (!origin) return false;
   if (ALLOWED_ORIGINS.has(origin)) return true;
-  // Vercel preview deployments · *.vercel.app subdomain
   try {
     const url = new URL(origin);
-    if (url.hostname.endsWith('.vercel.app')) return true;
-    // Local dev
-    if (url.hostname === 'localhost' || url.hostname === '127.0.0.1') return true;
+    // Sadece BU projenin preview deploy'ları · ham *.vercel.app herhangi bir
+    // üçüncü taraf Vercel sitesinin CSRF check'ini geçmesine izin verirdi.
+    if (
+      url.protocol === 'https:' &&
+      url.hostname.startsWith('trescout-landing-') &&
+      url.hostname.endsWith('.vercel.app')
+    ) {
+      return true;
+    }
+    // Local dev · yalnızca production-dışı ortamda
+    if (
+      process.env.VERCEL_ENV !== 'production' &&
+      (url.hostname === 'localhost' || url.hostname === '127.0.0.1')
+    ) {
+      return true;
+    }
   } catch {
     return false;
   }
