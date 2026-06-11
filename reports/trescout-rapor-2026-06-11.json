@@ -1,0 +1,249 @@
+{
+  "date": "2026-06-11",
+  "editorial": "Bugünün teknoloji gündemini yapay zekâ ajanları (AI agents) için geliştirilen yetenek setleri (skill sets) ve dijital iz sürme araçları oluşturuyor. GitHub üzerindeki güncel depolar, özellikle otonom sistemlerin iş akışlarını optimize eden modüler yapılar ve açık kaynaklı bilgi toplama (OSINT) araçları üzerinde yoğunlaşıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Yapay zekâ kodlama ajanları için geliştirilen agent-skills, üretim aşamasına hazır mühendislik yetenekleri (engineering skills) sunuyor. Bu kütüphane, yazılım geliştirme süreçlerinde ajanların görev tamamlama kapasitesini artırmak için standartlaştırılmış araçlar sağlıyor.",
+          "meta": "Shell · ★ 53.040 · +821 bugün"
+        },
+        {
+          "title": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "summary": "PM Skills Marketplace, ürün yönetimi süreçleri için keşiften büyümeye kadar uzanan 100'den fazla otonom yetenek (agentic skills), komut ve eklenti sunuyor. Bu kaynak, ürün yönetimi iş akışlarını otomatize etmek isteyen yapay zekâ ajanları için hazır modüller sağlıyor.",
+          "meta": "★ 15.664 · +804 bugün"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilmiş bir masaüstü uygulamasıdır. TypeScript ile yazılan bu araç, kişisel dokümantasyon ve not yönetimi süreçlerini yerel bir arayüz üzerinden düzenlemeyi sağlar.",
+          "meta": "TypeScript · ★ 15.148 · +612 bugün"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlardan güncel verileri tarayarak araştırma yapan bir yapay zekâ yeteneği (AI skill) sunuyor. Python tabanlı bu araç, farklı kaynaklardan elde edilen bilgileri birleştirerek doğrulanabilir özetler oluşturuyor.",
+          "meta": "Python · ★ 39.399 · +2.535 bugün"
+        },
+        {
+          "title": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "summary": "Maigret, kullanıcı adlarını temel alarak 3000'den fazla internet sitesi üzerinde tarama yapıyor ve kişilere dair bir dosya (dossier) oluşturuyor. Python ile geliştirilen bu araç, açık kaynaklı istihbarat (OSINT) süreçlerinde dijital ayak izi takibini otomatize ediyor.",
+          "meta": "Python · ★ 32.267 · +318 bugün"
+        },
+        {
+          "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "summary": "Bu açık kaynaklı depo, popüler yapay zekâ araçlarının sistem istemlerini (system prompts) ve kullanılan temel modelleri tek bir merkezde topluyor. Geliştiriciler, güncel kodlama asistanlarının ve üretken yapay zekâ (generative AI) platformlarının çalışma mantığını inceleme imkânı buluyor.",
+          "meta": "★ 139.671 · +393 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yapay zekâ ajanları için yetenek çerçevesi (agentic skills framework) ve yazılım geliştirme metodolojisi sunuyor. Bu araç, ajan tabanlı iş akışlarını standartlaştırmak ve uygulama geliştirme süreçlerini yapılandırmak amacıyla tasarlanmıştır.",
+          "meta": "Shell · ★ 224.112 · +1.104 bugün"
+        },
+        {
+          "title": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "summary": "MasterDnsVPN, sansür engellerini aşmak için geliştirilen ve düşük yükle çalışan bir alan adı sistemi tünelleme (DNS tunneling) sanal özel ağ (VPN) çözümüdür. Go diliyle yazılan araç, veri iletiminde yüksek paket kaybı kararlılığı ve çözümleyici yük dengeleme (resolver load balancing) özellikleri sunar.",
+          "meta": "Go · ★ 5.411 · +354 bugün"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo, büyük dil modellerini (large language models) kullanarak metin tabanlı içeriklerden tek tıkla yüksek çözünürlüklü kısa videolar oluşturulmasını sağlıyor. Python tabanlı bu araç, video üretim sürecini otomatize ederek içerik oluşturma iş akışlarını hızlandırıyor.",
+          "meta": "Python · ★ 85.531 · +1.389 bugün"
+        },
+        {
+          "title": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "summary": "Maziyar Panahi tarafından geliştirilen OpenMed, sağlık hizmetleri alanında kullanılan açık kaynaklı yapay zekâ (open-source healthcare AI) modellerini ve araçlarını bir araya getiriyor. Proje, tıbbi verilerin işlenmesi ve analiz edilmesi süreçleri için standart bir altyapı sunmayı hedefliyor.",
+          "meta": "Python · ★ 2.454 · +527 bugün"
+        },
+        {
+          "title": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "summary": "Claude Code için hazırlanan bu görsel rehber, temel kavramlardan gelişmiş yapay zekâ ajanlarına (agents) kadar geniş bir yelpazede uygulamalı örnekler sunuyor. Kopyalanabilir şablonlar içeren bu kaynak, kullanıcıların karmaşık iş akışlarını hızlıca hayata geçirmesine olanak tanıyor.",
+          "meta": "Python · ★ 36.736 · +211 bugün"
+        },
+        {
+          "title": "activeloopai/hivemind",
+          "url": "https://github.com/activeloopai/hivemind",
+          "summary": "Activeloop tarafından geliştirilen Hivemind, tüm yapay zekâ ajanları için merkezi bir bellek ve koordinasyon katmanı (centralized memory layer) sunuyor. TypeScript tabanlı bu yapı, farklı ajanların verileri paylaşmasını ve ortak bir zekâ havuzu üzerinden iletişim kurmasını sağlıyor.",
+          "meta": "TypeScript · ★ 985 · +64 bugün"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView, standart kablosuz ağ (WiFi) sinyallerini kullanarak görüntü verisi olmadan gerçek zamanlı mekânsal zekâ, hayati belirti takibi ve varlık algılama (presence detection) işlemleri gerçekleştiriyor. Rust diliyle geliştirilen bu teknoloji, donanım gereksinimlerini en aza indirerek çevresel izleme süreçlerini standart sinyaller üzerinden yürütüyor.",
+          "meta": "Rust · ★ 73.055 · +420 bugün"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Roboflow tarafından geliştirilen Supervision, bilgisayarlı görü (computer vision) projeleri için yeniden kullanılabilir araçlar ve yardımcı fonksiyonlar sunuyor. Python tabanlı bu kütüphane, nesne tespiti ve takibi gibi süreçlerdeki standart görevleri kolaylaştırarak geliştirme iş akışlarını hızlandırıyor.",
+          "meta": "Python · ★ 43.735 · +695 bugün"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Google, kendi ürün ve teknolojileriyle entegre çalışan yapay zekâ ajanları için geliştirici araç seti olan yetenekler (skills) kütüphanesini yayınladı. Python tabanlı bu yapı, ajanların Google servisleri üzerinde özelleştirilmiş görevleri yerine getirmesini sağlayan modüler işlevler sunuyor.",
+          "meta": "Python · ★ 13.468 · +211 bugün"
+        },
+        {
+          "title": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "summary": "FareedKhan-dev/train-llm-from-scratch projesi, veri indirme aşamasından metin üretimine kadar büyük dil modellerini (large language models) eğitmek için uçtan uca bir yöntem sunuyor. Python tabanlı bu çalışma, kendi dil modelini sıfırdan geliştirmek isteyenler için basitleştirilmiş bir iş akışı sağlıyor.",
+          "meta": "Python · ★ 5.451 · +247 bugün"
+        },
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Apple tarafından geliştirilen container, Mac üzerinde hafif sanal makineler (virtual machines) kullanarak Linux kapsayıcıları (containers) oluşturmaya ve çalıştırmaya olanak tanıyor. Swift diliyle yazılan araç, Apple silikon (Apple silicon) mimarisi için optimize edilmiş bir performans sunuyor.",
+          "meta": "Swift · ★ 30.453 · +1.611 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Building an HTML-first site doubled our users overnight",
+          "url": "https://mohkohn.co.uk/writing/html-first/",
+          "summary": "Karmaşık JavaScript çerçeveleri yerine HTML öncelikli (HTML-first) bir yaklaşım benimsemek, web sitelerinin yükleme sürelerini iyileştirerek kullanıcı etkileşimini doğrudan artırıyor. Bu yöntem, sunucu taraflı işleme (server-side rendering) ile daha yalın bir altyapı sunarak erişilebilirliği ve performans verilerini optimize ediyor.",
+          "meta": "1.115 oy · 503 yorum"
+        },
+        {
+          "title": "πFS",
+          "url": "https://github.com/philipl/pifs",
+          "summary": "πFS, pi sayısının basamaklarını bir dosya sistemi (file system) olarak kullanan deneysel bir depolama yöntemidir. Verileri doğrudan saklamak yerine, belirli bir verinin pi sayısı içindeki konumunu indeksleyerek veri erişimi sağlar.",
+          "meta": "725 oy · 171 yorum"
+        },
+        {
+          "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+          "url": "https://news.ycombinator.com/item?id=48477135",
+          "summary": "Yalın Girişim (The Lean Startup) kitabının yazarı Eric Ries, yeni eseri Incorruptible kapsamında gerçekleştirdiği soru-cevap etkinliğinde, on beş yıllık gözlemlerini büyük şirketler ve kamu kurumları özelinde paylaşıyor. Girişimcilik metodolojilerinin farklı sektörlerdeki uygulama süreçlerini ve kurumsal dönüşüm deneyimlerini değerlendiriyor.",
+          "meta": "646 oy · 484 yorum"
+        },
+        {
+          "title": "PgDog is funded and coming to a database near you",
+          "url": "https://pgdog.dev/blog/our-funding-announcement",
+          "summary": "PgDog, PostgreSQL veritabanları için gerçek zamanlı değişiklik yakalama (change data capture) süreçlerini basitleştiren bir araç olarak yatırım aldı. Geliştiricilerin veritabanı olaylarını dış sistemlere aktarmasını sağlayan bu çözüm, veri akışı yönetimini kolaylaştırmayı hedefliyor.",
+          "meta": "450 oy · 220 yorum"
+        },
+        {
+          "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+          "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+          "summary": "Siber güvenlik araştırmacıları, Anthropic tarafından geliştirilen Fable modelindeki güvenlik önlemlerinin (guardrails) sistemin kötü niyetli kullanımını engellemekte yetersiz kaldığını belirtiyor. Uzmanlar, modelin güvenlik kısıtlamalarının (safety constraints) aşılabilir olduğunu ve siber saldırı senaryolarında risk oluşturabileceğini savunuyor.",
+          "meta": "416 oy · 363 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Nvidia tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma (object localization) görevlerini yerine getiren bir görüntü-metin-metin (image-text-to-text) modelidir. Model, verilen metin komutlarına dayanarak görüntülerdeki nesnelerin koordinatlarını belirleme yeteneği sunar.",
+          "meta": "♥ 1.825 · 131.794 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Google, çok modlu yeteneklere sahip Gemma 2 model ailesinin yeni üyesi olan 12 milyar parametreli Gemma 2 12B modelini kullanıma sundu. Bu model, metin ve görsel verileri aynı anda işleyebilen çok modlu (multimodal) mimarisiyle farklı veri türleri arasında geçiş yapabilen bir yapı sunuyor.",
+          "meta": "♥ 910 · 675.936 indirme"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "Unsloth tarafından optimize edilen Gemma 4-12b-it modeli, görsel ve metin tabanlı verileri işleyebilen çok modlu (multimodal) bir yapı sunuyor. Model, GGUF formatı sayesinde düşük bellek kullanımıyla yerel cihazlarda metin ve görüntü işleme süreçlerini destekliyor.",
+          "meta": "♥ 554 · 711.706 indirme"
+        },
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "Google tarafından geliştirilen DiffusionGemma, metin ve görsel girdilerini işleyerek metin tabanlı çıktılar üreten bir çok modlu (multimodal) modeldir. Model, 26 milyar parametre kapasitesiyle görsel verilerin metinle ilişkilendirilmesi süreçlerinde yeni bir yaklaşım sunuyor.",
+          "meta": "♥ 337 · 0 indirme"
+        },
+        {
+          "title": "bosonai/higgs-audio-v3-tts-4b",
+          "url": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
+          "summary": "BosonAI tarafından geliştirilen higgs-audio-v3-tts-4b, metinden konuşmaya dönüştürme (text-to-speech) işlemlerinde kullanılan 4 milyar parametreli bir modeldir. Bu model, doğal ses sentezleme yetenekleriyle dijital içerik üretim süreçlerine alternatif bir çözüm sunmaktadır.",
+          "meta": "♥ 334 · 19.948 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık problemleri çözmek için matematik ve mantık kullanarak sistemler tasarlama ve inşa etme becerisi."
+    },
+    {
+      "term": "agentic skills",
+      "explanation": "Bir yapay zekânın kendi başına karar verip hedefe ulaşmak için gerekli adımları planlama yeteneği."
+    },
+    {
+      "term": "AI skill",
+      "explanation": "Yapay zekâ araçlarını kullanarak belirli bir görevi yerine getirme veya bir sorunu çözme yetkinliği."
+    },
+    {
+      "term": "dossier",
+      "explanation": "Belirli bir kişi, konu veya olay hakkındaki tüm belgelerin ve bilgilerin toplandığı düzenli dosya."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "İnternet üzerindeki herkese açık kaynaklardan bilgi toplayıp analiz etme yöntemi."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Bir yapay zekâ modeline nasıl davranması ve hangi kurallara uyması gerektiğini belirten başlangıç talimatları."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Daha önce öğrendiği verileri kullanarak yeni metinler, görseller veya sesler oluşturabilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekâların bağımsız hareket etme yeteneklerini geliştirmek için kullanılan yöntemler ve kurallar bütünü."
+    },
+    {
+      "term": "DNS tunneling",
+      "explanation": "İnternet trafiğini normalde adres bulmak için kullanılan sistem üzerinden gizlice geçirme yöntemi."
+    },
+    {
+      "term": "VPN",
+      "explanation": "İnternet üzerindeki verilerinizi şifreleyerek kimliğinizi gizleyen ve güvenli bağlantı sağlayan araç."
+    },
+    {
+      "term": "resolver load balancing",
+      "explanation": "İnternet adres sorgularını birden fazla sunucuya dağıtarak sistemin aşırı yüklenmesini önleme işlemi."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "open-source healthcare AI",
+      "explanation": "Sağlık alanında herkesin inceleyip geliştirebileceği şekilde paylaşıma açılmış yapay zekâ yazılımları."
+    },
+    {
+      "term": "agents",
+      "explanation": "Kullanıcıdan aldığı hedef doğrultusunda kendi başına araçları kullanan ve kararlar veren yapay zekâ programları."
+    },
+    {
+      "term": "centralized memory layer",
+      "explanation": "Yapay zekâ sistemlerinin geçmiş bilgileri ve deneyimleri tek bir merkezden hatırlamasını sağlayan ortak hafıza alanı."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "Cihazların kabloya ihtiyaç duymadan radyo dalgaları aracılığıyla internete bağlanmasını sağlayan teknoloji."
+    }
+  ]
+}
