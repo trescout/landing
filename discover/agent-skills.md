@@ -31,7 +31,7 @@ Senin bir yazılım mühendisi gibi çalışmanı istiyorum. Agent Skills kütü
 - [GitHub deposu →](https://github.com/addyosmani/agent-skills)
 
 ## İlgili sözlük terimleri
-AI Skills Artificial Intelligence 
+Engineering Skills AI Skills Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

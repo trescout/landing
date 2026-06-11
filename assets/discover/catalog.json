@@ -1553,5 +1553,62 @@
     ],
     "stars": 50041,
     "lite": false
+  },
+  {
+    "slug": "maigret",
+    "title": "Maigret",
+    "tagline": "Maigret, kullanıcı adlarını temel alarak 3000'den fazla internet sitesi üzerinde tarama yapıyor ve kişilere dair bir dosya…",
+    "meta": "★ 32.267 · Python",
+    "image": "/assets/discover/og/maigret.webp",
+    "source": "GitHub",
+    "date": "2026-06-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 32267,
+    "lite": false
+  },
+  {
+    "slug": "masterdnsvpn",
+    "title": "MasterDnsVPN",
+    "tagline": "MasterDnsVPN, sansür engellerini aşmak için geliştirilen ve düşük yükle çalışan bir alan adı sistemi tünelleme (DNS tunneling)…",
+    "meta": "★ 5.411 · Go",
+    "image": "/assets/discover/og/masterdnsvpn.webp",
+    "source": "GitHub",
+    "date": "2026-06-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 5411,
+    "lite": false
+  },
+  {
+    "slug": "hivemind",
+    "title": "Hivemind",
+    "tagline": "Activeloop tarafından geliştirilen Hivemind, tüm yapay zekâ ajanları için merkezi bir bellek ve koordinasyon katmanı…",
+    "meta": "★ 985 · TypeScript",
+    "image": "/assets/discover/og/hivemind.webp",
+    "source": "GitHub",
+    "date": "2026-06-11",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 985,
+    "lite": false
+  },
+  {
+    "slug": "container",
+    "title": "Container",
+    "tagline": "Apple tarafından geliştirilen container, Mac üzerinde hafif sanal makineler (virtual machines) kullanarak Linux kapsayıcıları…",
+    "meta": "★ 30.453 · Swift",
+    "image": "/assets/discover/og/container.webp",
+    "source": "GitHub",
+    "date": "2026-06-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 30453,
+    "lite": false
   }
 ]

@@ -824,5 +824,75 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay zekânın belirli bir görevi veya süreci başarıyla tamamlayabilmesi için sahip olduğu özelleşmiş yetenekler bütünüdür."
+  },
+  {
+    "slug": "engineering-skills",
+    "en": "Engineering Skills",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Karmaşık problemleri çözmek için mantık ve matematik kullanarak sistemler tasarlama ve inşa etme yeteneğidir."
+  },
+  {
+    "slug": "dossier",
+    "en": "Dossier",
+    "full": "",
+    "cat": "data",
+    "kisa": "Belirli bir konu veya kişi hakkındaki tüm belgelerin ve bilgilerin bir araya getirildiği düzenli bir dosya sistemidir."
+  },
+  {
+    "slug": "osint",
+    "en": "OSINT",
+    "full": "Open Source Intelligence",
+    "cat": "data",
+    "kisa": "İnternet üzerindeki herkese açık kaynaklardan bilgi toplayıp analiz etme yöntemidir."
+  },
+  {
+    "slug": "agentic-skills-framework",
+    "en": "Agentic Skills Framework",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâların bağımsız hareket etme ve araç kullanma yeteneklerini geliştirmek için kullanılan kurallar bütünüdür."
+  },
+  {
+    "slug": "dns-tunneling",
+    "en": "DNS Tunneling",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternet trafiğini normalde adres bulmak için kullanılan sistem üzerinden gizlice geçirme yöntemidir."
+  },
+  {
+    "slug": "vpn",
+    "en": "VPN",
+    "full": "Virtual Private Network",
+    "cat": "dev",
+    "kisa": "İnternet üzerindeki verilerinizi şifreleyerek kimliğinizi gizleyen ve güvenli bağlantı sağlayan araçtır."
+  },
+  {
+    "slug": "resolver-load-balancing",
+    "en": "Resolver Load Balancing",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternet adres sorgularını birden fazla sunucuya dağıtarak sistemin aşırı yüklenmesini önleme işlemidir."
+  },
+  {
+    "slug": "open-source-healthcare-ai",
+    "en": "Open Source Healthcare AI",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Sağlık alanında herkesin inceleyip geliştirebileceği şekilde paylaşıma açılmış yapay zekâ yazılımlarıdır."
+  },
+  {
+    "slug": "centralized-memory-layer",
+    "en": "Centralized Memory Layer",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ sistemlerinin geçmiş bilgileri ve deneyimleri tek bir merkezden hatırlamasını sağlayan ortak hafıza alanıdır."
+  },
+  {
+    "slug": "wifi",
+    "en": "WiFi",
+    "full": "Wireless Fidelity",
+    "cat": "dev",
+    "kisa": "Cihazların kabloya ihtiyaç duymadan radyo dalgaları aracılığıyla internete bağlanmasını sağlayan teknolojidir."
   }
 ]
