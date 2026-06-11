@@ -894,5 +894,12 @@
     "full": "Wireless Fidelity",
     "cat": "dev",
     "kisa": "Cihazların kabloya ihtiyaç duymadan radyo dalgaları aracılığıyla internete bağlanmasını sağlayan teknolojidir."
+  },
+  {
+    "slug": "agents",
+    "en": "Agents",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kullanıcıdan aldığı hedefler doğrultusunda kendi başına araçları kullanan ve kararlar veren otonom yapay zeka programlarıdır."
   }
 ]
