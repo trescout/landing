@@ -44,7 +44,7 @@ OpenMed kütüphanesini kullanarak tıbbi metin analizi yapmak istiyorum. Cihaz�
 - [GitHub deposu →](https://github.com/maziyarpanahi/openmed)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Apple Silicon Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

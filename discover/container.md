@@ -38,7 +38,7 @@ Apple silikon işlemcili Mac bilgisayarımda container aracını kullanarak OCI 
 - [GitHub deposu →](https://github.com/apple/container)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Virtual Machines Containers Apple Silicon Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

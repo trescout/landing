@@ -1610,5 +1610,143 @@
     ],
     "stars": 30453,
     "lite": false
+  },
+  {
+    "slug": "skillspector",
+    "title": "SkillSpector",
+    "tagline": "NVIDIA tarafından geliştirilen SkillSpector, yapay zekâ ajanlarına ait yetenek paketlerindeki (skills) güvenlik açıklarını ve…",
+    "meta": "★ 2.967 · Python",
+    "image": "/assets/discover/og/skillspector.webp",
+    "source": "GitHub",
+    "date": "2026-06-12",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 2967,
+    "lite": false
+  },
+  {
+    "slug": "restic",
+    "title": "Restic",
+    "tagline": "Go diliyle geliştirilen Restic, verileri şifreleyerek hızlı ve verimli bir şekilde yedekleyen açık kaynaklı bir yedekleme…",
+    "meta": "★ 34.273 · Go",
+    "image": "/assets/discover/og/restic.webp",
+    "source": "GitHub",
+    "date": "2026-06-12",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 34273,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "agency-agents",
+    "title": "Agency Agents",
+    "tagline": "Agency-agents projesi, farklı uzmanlık alanlarına sahip yapay zekâ ajanlarını bir araya getirerek dijital bir ajans yapısı…",
+    "meta": "★ 111.887 · Shell",
+    "image": "/assets/discover/og/agency-agents.webp",
+    "source": "GitHub",
+    "date": "2026-06-12",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 111887,
+    "lite": false
+  },
+  {
+    "slug": "chatwoot",
+    "title": "Chatwoot",
+    "tagline": "Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel desk) yönetimi sunan açık kaynaklı bir…",
+    "meta": "★ 30.493 · Ruby",
+    "image": "/assets/discover/og/chatwoot.webp",
+    "source": "GitHub",
+    "date": "2026-06-12",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 30493,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "agentsview",
+    "title": "Agentsview",
+    "tagline": "Agentsview, kodlama ajanları için yerel öncelikli (local-first) oturum zekası ve analitik verileri sunan bir izleme aracıdır.",
+    "meta": "★ 1.867 · Go",
+    "image": "/assets/discover/og/agentsview.webp",
+    "source": "GitHub",
+    "date": "2026-06-12",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1867,
+    "lite": false
+  },
+  {
+    "slug": "zhangxuefeng-skill",
+    "title": "Zhangxuefeng Skill",
+    "tagline": "Zhangxuefeng-skill, üniversite sınavı tercihleri, lisansüstü eğitim ve kariyer planlama süreçleri için yapılandırılmış bir…",
+    "meta": "★ 8.114",
+    "image": "/assets/discover/og/zhangxuefeng-skill.webp",
+    "source": "GitHub",
+    "date": "2026-06-12",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 8114,
+    "lite": false
+  },
+  {
+    "slug": "sia",
+    "title": "SIA",
+    "tagline": "SIA, yapay zekâ modellerinin ve ajanların belirli kıyaslama görevlerindeki (benchmark tasks) performanslarını otonom şekilde…",
+    "meta": "★ 1.478 · Python",
+    "image": "/assets/discover/og/sia.webp",
+    "source": "GitHub",
+    "date": "2026-06-12",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1478,
+    "lite": false
+  },
+  {
+    "slug": "mattermost",
+    "title": "Mattermost",
+    "tagline": "Mattermost, yazılım geliştirme yaşam döngüsü boyunca güvenli iş birliği sağlamak amacıyla tasarlanmış açık kaynaklı bir…",
+    "meta": "★ 37.444 · TypeScript",
+    "image": "/assets/discover/og/mattermost.webp",
+    "source": "GitHub",
+    "date": "2026-06-12",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 37444,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "fanqiang",
+    "title": "Fanqiang",
+    "tagline": "Fanqiang projesi, internet sansürünü aşmak için geliştirilen ve Kotlin diliyle yazılmış bir ağ geçidi (gateway) aracıdır.",
+    "meta": "★ 47.142 · Kotlin",
+    "image": "/assets/discover/og/fanqiang.webp",
+    "source": "GitHub",
+    "date": "2026-06-12",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 47142,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

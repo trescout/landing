@@ -38,7 +38,7 @@ Hivemind aracını kullanarak yapay zekâ ajanlarım arasında ortak bir bellek 
 - [GitHub deposu →](https://github.com/activeloopai/hivemind)
 
 ## İlgili sözlük terimleri
-Centralized Memory Layer Token Memory Artificial Intelligence 
+Centralized Memory Layer Memory Token Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

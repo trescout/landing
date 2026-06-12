@@ -901,5 +901,54 @@
     "full": "",
     "cat": "ai",
     "kisa": "Kullanıcıdan aldığı hedefler doğrultusunda kendi başına araçları kullanan ve kararlar veren otonom yapay zeka programlarıdır."
+  },
+  {
+    "slug": "virtual-machines",
+    "en": "Virtual Machines",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir bilgisayarın içinde, sanki ayrı bir cihazmış gibi çalışan sanal işletim sistemleridir."
+  },
+  {
+    "slug": "containers",
+    "en": "Containers",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın çalışması için gereken her şeyi içinde barındıran, farklı ortamlarda sorunsuz taşınabilen hafif paketlerdir."
+  },
+  {
+    "slug": "apple-silicon",
+    "en": "Apple Silicon",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Apple tarafından bilgisayarlar için özel olarak tasarlanan, yüksek performans ve düşük enerji tüketen işlemci mimarisidir."
+  },
+  {
+    "slug": "backup-program",
+    "en": "Backup Program",
+    "full": "",
+    "cat": "data",
+    "kisa": "Dijital verilerinizin bir kopyasını alarak kaybolmalarını önleyen yazılımdır."
+  },
+  {
+    "slug": "incremental-backup",
+    "en": "Incremental Backup",
+    "full": "",
+    "cat": "data",
+    "kisa": "Sadece en son yedeklemeden sonra değişen dosyaları kaydederek zamandan ve alandan tasarruf eden yedekleme yöntemidir."
+  },
+  {
+    "slug": "arq",
+    "en": "ARQ",
+    "full": "Automatic Repeat Request",
+    "cat": "dev",
+    "kisa": "Veri iletimi sırasında hata oluştuğunda bilginin otomatik olarak tekrar gönderilmesini sağlayan hata kontrol mekanizmasıdır."
+  },
+  {
+    "slug": "omni-channel-desk",
+    "en": "Omni-channel Desk",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Müşterilerden gelen e-posta, mesaj ve çağrı gibi tüm farklı iletişim kanallarını tek bir ekranda toplayan destek sistemidir."
   }
 ]
