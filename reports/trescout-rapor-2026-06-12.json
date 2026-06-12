@@ -1,0 +1,261 @@
+{
+  "date": "2026-06-12",
+  "editorial": "Bugünün teknoloji gündemini otonom yetenek (agent skills) kütüphaneleri ve veri işleme araçları oluşturuyor. Geliştiriciler, özellikle açık kaynaklı yapay zekâ modellerini spesifik görevlere odaklayan modüler mimarilere (modular architectures) yönelmiş durumda.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Apple tarafından geliştirilen Container, Mac cihazlarda hafif sanal makineler (virtual machines) kullanarak Linux kapsayıcıları (containers) oluşturulmasını ve çalıştırılmasını sağlıyor. Swift diliyle yazılan araç, Apple silikon (Apple silicon) mimarisi için optimize edilmiş bir performans sunuyor.",
+          "meta": "Swift · ★ 33.754 · +2.430 bugün"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Addy Osmani tarafından geliştirilen agent-skills, yapay zekâ kodlama ajanları için üretim seviyesinde mühendislik becerileri (engineering skills) sunuyor. Bu kütüphane, otomasyon süreçlerinde kullanılan ajanların teknik yetkinliklerini standartlaştırmayı hedefliyor.",
+          "meta": "Shell · ★ 55.681 · +3.278 bugün"
+        },
+        {
+          "title": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "summary": "OpenMed, sağlık hizmetleri alanında açık kaynaklı yapay zekâ modelleri ve veri setleri sunan bir Python kütüphanesidir. Tıbbi uygulamalar için geliştirilen bu araç seti, sağlık verilerinin işlenmesi ve analiz edilmesi süreçlerini standartlaştırmayı amaçlar.",
+          "meta": "Python · ★ 2.964 · +426 bugün"
+        },
+        {
+          "title": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "summary": "PM Skills Marketplace, ürün yönetimi süreçleri için keşiften büyümeye kadar uzanan 100'den fazla otonom yetenek (agentic skills), komut ve eklenti sunuyor. Bu araç seti, ürün geliştirme iş akışlarını otomatize etmek amacıyla tasarlanmış modüler bileşenleri bir araya getiriyor.",
+          "meta": "★ 16.548 · +1.978 bugün"
+        },
+        {
+          "title": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "summary": "NVIDIA tarafından geliştirilen SkillSpector, yapay zekâ ajanlarına ait yetenek paketlerindeki (skills) güvenlik açıklarını ve kötü niyetli kalıpları tespit eden bir tarama aracıdır. Python tabanlı bu yazılım, ajan tabanlı sistemlerin geliştirilme sürecinde karşılaşılan güvenlik risklerini analiz etmeyi hedefler.",
+          "meta": "Python · ★ 2.967 · +319 bugün"
+        },
+        {
+          "title": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "summary": "Maigret, kullanıcı adlarını temel alarak 3000'den fazla internet sitesinde tarama yapıyor ve kişilere dair kapsamlı bir dijital dosya (dossier) oluşturuyor. Python tabanlı bu araç, açık kaynaklı istihbarat (OSINT) süreçlerinde kullanıcı profillerini merkezi bir noktadan sorgulamayı sağlıyor.",
+          "meta": "Python · ★ 32.818 · +661 bugün"
+        },
+        {
+          "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "summary": "Popüler yapay zekâ araçlarının sistem istemleri (system prompts), dahili araçları ve kullandıkları modeller bu derlemede bir araya getiriliyor. Geliştiriciler, farklı yapay zekâ tabanlı kodlama asistanlarının çalışma prensiplerini ve yapılandırma detaylarını inceleme imkânı buluyor.",
+          "meta": "★ 140.003 · +368 bugün"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilmiş bir masaüstü uygulamasıdır. TypeScript ile yazılan bu araç, kişisel dokümantasyon süreçlerini düzenlemek için merkezi bir yönetim alanı sunar.",
+          "meta": "TypeScript · ★ 15.525 · +604 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yapay zekâ ajanları için yetenek çerçevesi (agentic skills framework) ve yazılım geliştirme metodolojisi sunuyor. Bu araç, ajan tabanlı iş akışlarını standartlaştırmak ve yazılım süreçlerini otomatize etmek için tasarlanmıştır.",
+          "meta": "Shell · ★ 225.354 · +1.322 bugün"
+        },
+        {
+          "title": "restic/restic",
+          "url": "https://github.com/restic/restic",
+          "summary": "Go diliyle geliştirilen Restic, verileri şifreleyerek hızlı ve verimli bir şekilde yedekleyen açık kaynaklı bir yedekleme programı (backup program) sunuyor. Farklı depolama sistemlerini destekleyen bu araç, artımlı yedekleme (incremental backup) yöntemiyle depolama alanından tasarruf sağlıyor.",
+          "meta": "Go · ★ 34.273 · +61 bugün"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-agents projesi, farklı uzmanlık alanlarına sahip yapay zekâ ajanlarını bir araya getirerek dijital bir ajans yapısı oluşturuyor. Yazılım geliştirme, içerik üretimi ve veri doğrulama gibi süreçleri özelleşmiş karakterler ve iş akışları üzerinden yönetmeyi sağlıyor.",
+          "meta": "Shell · ★ 111.887 · +1.599 bugün"
+        },
+        {
+          "title": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "summary": "MasterDnsVPN, sansür engellerini aşmak için geliştirilen ve düşük ek yükle çalışan bir alan adı sistemi tünelleme (DNS tunneling) sanal özel ağ (VPN) çözümüdür. Go diliyle yazılan araç, veri iletiminde paket kaybı kararlılığını artırmak için otomatik tekrar isteği (ARQ) ve çözümleyici yük dengeleme tekniklerini kullanır.",
+          "meta": "Go · ★ 5.826 · +507 bugün"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel desk) yönetimi sunan açık kaynaklı bir platformdur. Intercom ve Zendesk gibi ticari yazılımlara alternatif olarak geliştirilen bu araç, müşteri etkileşimlerini tek bir merkezden yönetmeyi sağlar.",
+          "meta": "Ruby · ★ 30.493 · +67 bugün"
+        },
+        {
+          "title": "kenn-io/agentsview",
+          "url": "https://github.com/kenn-io/agentsview",
+          "summary": "Agentsview, kodlama ajanları için yerel öncelikli (local-first) oturum zekası ve analitik verileri sunan bir izleme aracıdır. Claude Code ve Codex dahil yirmiden fazla ajanı destekleyen bu yazılım, ccusage aracına kıyasla daha hızlı bir performans vadediyor.",
+          "meta": "Go · ★ 1.867 · +114 bugün"
+        },
+        {
+          "title": "alchaincyf/zhangxuefeng-skill",
+          "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+          "summary": "Zhangxuefeng-skill, üniversite sınavı tercihleri, lisansüstü eğitim ve kariyer planlama süreçleri için yapılandırılmış bir bilişsel işletim sistemi (cognitive operating system) sunuyor. Nuwa.skill altyapısıyla oluşturulan bu proje, karmaşık karar verme süreçlerini pratik bir düşünce çerçevesi (thought framework) ile standartlaştırıyor.",
+          "meta": "★ 8.114 · +89 bugün"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "ChinaTextbook deposu, Çin'deki ilkokuldan üniversite seviyesine kadar kullanılan tüm ders kitaplarının PDF formatındaki arşivini sunuyor. Bu açık kaynaklı proje, eğitim materyallerine erişimi merkezileştirerek geniş bir akademik kaynak kütüphanesi oluşturuyor.",
+          "meta": "Roff · ★ 74.049 · +88 bugün"
+        },
+        {
+          "title": "hexo-ai/sia",
+          "url": "https://github.com/hexo-ai/sia",
+          "summary": "SIA, yapay zekâ modellerinin ve ajanların belirli kıyaslama görevlerindeki (benchmark tasks) performanslarını otonom şekilde artırmak için geliştirilen bir öz-iyileştiren yapay zekâ (self-improving AI) çerçevesidir. Python tabanlı bu sistem, yapay zekâ sistemlerinin kendi çıktılarını analiz ederek süreçlerini optimize etmesini sağlar.",
+          "meta": "Python · ★ 1.478 · +199 bugün"
+        },
+        {
+          "title": "mattermost/mattermost",
+          "url": "https://github.com/mattermost/mattermost",
+          "summary": "Mattermost, yazılım geliştirme yaşam döngüsü boyunca güvenli iş birliği sağlamak amacıyla tasarlanmış açık kaynaklı bir platformdur. Yazılım ekiplerinin iletişim süreçlerini merkezi bir yapı üzerinden yönetmelerine olanak tanır.",
+          "meta": "TypeScript · ★ 37.444 · +53 bugün"
+        },
+        {
+          "title": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "summary": "Fanqiang projesi, internet sansürünü aşmak için geliştirilen ve Kotlin diliyle yazılmış bir ağ geçidi (gateway) aracıdır. Kullanıcılara kısıtlı ağ kaynaklarına erişim sağlamak amacıyla tasarlanmış açık kaynaklı bir yazılımdır.",
+          "meta": "Kotlin · ★ 47.142 · +161 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Homebrew 6.0.0",
+          "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+          "summary": "macOS ve Linux için paket yöneticisi olan Homebrew 6.0.0, yeni bir depo güven mekanizması (tap trust security) ve daha hızlı çalışan bir dahili JSON arayüzü (API) ile güncellendi. Sürüm ayrıca Linux üzerinde yalıtılmış çalışma ortamı (sandboxing) desteği ve kullanıcı geri bildirimlerine dayalı varsayılan ayar iyileştirmeleri içeriyor.",
+          "meta": "1.188 oy · 274 yorum"
+        },
+        {
+          "title": "If you are asking for human attention, demonstrate human effort",
+          "url": "https://tombedor.dev/human-attention-and-human-effort/",
+          "summary": "Yazılım geliştirme süreçlerinde insan odaklı etkileşim talep eden kişilerin, karşı taraftan yanıt alabilmek için kendi çabalarını somut biçimde ortaya koymaları bekleniyor. Bu yaklaşım, özellikle teknik destek veya iş birliği taleplerinde bağlam sunmanın ve ön hazırlık yapmanın, muhatabın dikkatini çekmek için temel bir gereklilik olduğunu savunuyor.",
+          "meta": "640 oy · 200 yorum"
+        },
+        {
+          "title": "MiMo Code is now released and open-source",
+          "url": "https://mimo.xiaomi.com/mimocode",
+          "summary": "Xiaomi tarafından geliştirilen MiMo Code, çok modlu (multimodal) büyük dil modellerinin kod oluşturma ve yazılım geliştirme süreçlerindeki performansını artırmayı amaçlayan açık kaynaklı bir çerçevedir. Bu araç, karmaşık programlama görevlerini daha verimli yönetmek için geliştirilmiş özel bir mimari yapı sunar.",
+          "meta": "481 oy · 268 yorum"
+        },
+        {
+          "title": "Petition to Withdraw Canada's Bill C-22",
+          "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+          "summary": "Kanada'da sunulan C-22 sayılı yasa tasarısı, çevrim içi güvenlik ve dijital içerik denetimi konularındaki düzenlemeleri nedeniyle kamuoyunda tartışmalara yol açıyor. Söz konusu tasarının geri çekilmesi için başlatılan imza kampanyası, ifade özgürlüğü ve dijital haklar üzerindeki olası kısıtlamalara yönelik endişeleri yansıtıyor.",
+          "meta": "429 oy · 144 yorum"
+        },
+        {
+          "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+          "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+          "summary": "Sistem dinamikleri üzerine hazırlanan bu çalışma, önleyici müdahalelerin görünmezliği nedeniyle sorunları henüz oluşmadan çözen yöneticilerin takdir edilmediğini ortaya koyuyor. Başarıyı ölçülebilir sonuçlar yerine kriz yönetimiyle ilişkilendiren kurumsal kültürlerin, uzun vadeli iyileştirme süreçlerini nasıl engellediğini analiz ediyor.",
+          "meta": "419 oy · 142 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "Google tarafından geliştirilen DiffusionGemma, metin ve görsel girdilerini işleyerek metin tabanlı çıktılar üreten çok modlu (multimodal) bir modeldir. Sistem, görsel verileri çözümleme ve bu veriler üzerinden anlamlı metinler oluşturma yeteneğiyle dikkat çekiyor.",
+          "meta": "♥ 530 · 0 indirme"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Nvidia tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma (object localization) görevlerini yerine getiren bir görüntü-metin-metin modeli (image-text-to-text model) olarak öne çıkıyor. Model, görsel verilerdeki nesneleri tanımlama ve bu nesnelerin koordinatlarını metin tabanlı çıktı olarak sunma yeteneği sağlıyor.",
+          "meta": "♥ 1.897 · 131.794 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Google tarafından geliştirilen Gemma 2-9B modelinin güncellenmiş bir sürümü olan Gemma-2-12B-it, metin ve çok modlu verileri işleyebilen her şeyden her şeye (any-to-any) yetenekli bir modeldir. Bu açık ağırlıklı model, yüksek performanslı çıkarım (inference) süreçleri için optimize edilmiş bir mimari sunar.",
+          "meta": "♥ 944 · 675.936 indirme"
+        },
+        {
+          "title": "CohereLabs/North-Mini-Code-1.0",
+          "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+          "summary": "CohereLabs tarafından geliştirilen North-Mini-Code-1.0, metin üretimi (text generation) odaklı bir dil modelidir. Yazılım geliştirme süreçlerini desteklemek amacıyla tasarlanan bu model, kod tabanlı görevlerde performans sunmayı hedefler.",
+          "meta": "♥ 316 · 1.859 indirme"
+        },
+        {
+          "title": "bosonai/higgs-audio-v3-tts-4b",
+          "url": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
+          "summary": "Bosonai tarafından geliştirilen Higgs-audio-v3-tts-4b, metinden sese dönüştürme (text-to-speech) işlemleri için tasarlanmış 4 milyar parametreli bir modeldir. Bu model, metin tabanlı verileri yüksek doğrulukla işitsel içeriklere dönüştürme yeteneği sunar.",
+          "meta": "♥ 370 · 19.948 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "virtual machines",
+      "explanation": "Bir bilgisayarın içinde, sanki ayrı bir cihazmış gibi çalışan sanal işletim sistemleri."
+    },
+    {
+      "term": "containers",
+      "explanation": "Bir yazılımın çalışması için gereken her şeyi içinde barındıran, farklı ortamlarda sorunsuz taşınabilen hafif paketler."
+    },
+    {
+      "term": "Apple silicon",
+      "explanation": "Apple tarafından bilgisayarlar için özel olarak tasarlanan, yüksek performans ve düşük enerji tüketen işlemci mimarisi."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık problemleri mantıksal adımlarla analiz edip çözüm üretebilme yeteneği."
+    },
+    {
+      "term": "agentic skills",
+      "explanation": "Bir yapay zekânın kendisine verilen hedefi gerçekleştirmek için kendi başına karar alıp aksiyon alabilme becerisi."
+    },
+    {
+      "term": "skills",
+      "explanation": "Belirli bir işi yapmak için gereken bilgi ve uygulama becerisi."
+    },
+    {
+      "term": "dossier",
+      "explanation": "Bir kişi veya konu hakkında toplanan tüm bilgilerin düzenli bir şekilde bir araya getirildiği dosya."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "İnternette herkese açık kaynaklardan bilgi toplayıp analiz etme yöntemi."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Bir yapay zekâya nasıl davranması ve hangi kurallara uyması gerektiğini belirten başlangıç talimatları."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekâların bağımsız hareket etme yeteneklerini geliştirmek için kullanılan yapılandırılmış yöntemler bütünü."
+    },
+    {
+      "term": "backup program",
+      "explanation": "Dijital verilerinizin bir kopyasını alarak kaybolmalarını önleyen yazılım."
+    },
+    {
+      "term": "incremental backup",
+      "explanation": "Sadece en son yedeklemeden sonra değişen dosyaları kaydederek zamandan ve alandan tasarruf eden yedekleme yöntemi."
+    },
+    {
+      "term": "DNS tunneling",
+      "explanation": "İnternet trafiğini normalde web sitelerine ulaşmak için kullanılan protokollerin içine gizleyerek veri aktarma tekniği."
+    },
+    {
+      "term": "VPN",
+      "explanation": "İnternet bağlantınızı şifreleyerek verilerinizi koruyan ve sizi farklı bir konumdaymış gibi gösteren araç."
+    },
+    {
+      "term": "ARQ",
+      "explanation": "Veri iletimi sırasında hata oluştuğunda bilginin otomatik olarak tekrar gönderilmesini sağlayan hata kontrol mekanizması."
+    },
+    {
+      "term": "omni-channel desk",
+      "explanation": "Müşterilerden gelen e-posta, mesaj ve çağrı gibi tüm farklı iletişim kanallarını tek bir ekranda toplayan destek sistemi."
+    }
+  ]
+}
