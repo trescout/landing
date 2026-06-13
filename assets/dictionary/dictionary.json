@@ -985,5 +985,12 @@
     "full": "",
     "cat": "ai",
     "kisa": "Kodları, model ağırlıkları ve çalışma mantığı herkesin incelemesine, değiştirmesine ve geliştirmesine açık olan yapay zeka modelleridir."
+  },
+  {
+    "slug": "iptv",
+    "en": "IPTV",
+    "full": "Internet Protocol Television",
+    "cat": "data",
+    "kisa": "Televizyon yayınlarının geleneksel anten veya uydu yerine internet bağlantısı üzerinden dijital olarak iletilmesi yöntemidir."
   }
 ]

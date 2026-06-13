@@ -22,6 +22,9 @@ Bu aracı kullanmak için herhangi bir kurulum yapmanıza gerek yoktur. Projenin
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/iptv-org/iptv)
 
+## İlgili sözlük terimleri
+IPTV 
+
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
 ---
