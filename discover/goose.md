@@ -30,7 +30,7 @@ Goose aracını kullanarak yazılım geliştirme süreçlerimi nasıl otomatize 
 - [GitHub deposu →](https://github.com/aaif-goose/goose)
 
 ## İlgili sözlük terimleri
-MCP LLM CLI Artificial Intelligence 
+MCP CLI LLM Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

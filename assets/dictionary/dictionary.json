@@ -950,5 +950,40 @@
     "full": "",
     "cat": "ai",
     "kisa": "Müşterilerden gelen e-posta, mesaj ve çağrı gibi tüm farklı iletişim kanallarını tek bir ekranda toplayan destek sistemidir."
+  },
+  {
+    "slug": "kv-cache",
+    "en": "KV Cache",
+    "full": "Key-Value Cache",
+    "cat": "ai",
+    "kisa": "Yapay zekanın daha önce işlediği kelimeleri belleğinde tutarak aynı işlemleri tekrar yapmasını engelleyen bir hızlandırma yöntemidir."
+  },
+  {
+    "slug": "regulatory-restriction",
+    "en": "Regulatory Restriction",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Teknolojik faaliyetlerin, ürünlerin veya yazılımların devletler ya da kurumlar tarafından yasal kurallarla sınırlandırılmasıdır."
+  },
+  {
+    "slug": "human-effort",
+    "en": "Human Effort",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir projenin veya görevin tamamlanması için insanların harcadığı zihinsel ve fiziksel çabanın bütünüdür."
+  },
+  {
+    "slug": "crispr",
+    "en": "CRISPR",
+    "full": "Clustered Regularly Interspaced Short Palindromic Repeats",
+    "cat": "ai",
+    "kisa": "Canlıların genetik kodlarını bir kelime işlemciyle metin düzenler gibi değiştirmeye yarayan hassas bir biyoteknoloji aracıdır."
+  },
+  {
+    "slug": "open-source-ai",
+    "en": "Open Source AI",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kodları, model ağırlıkları ve çalışma mantığı herkesin incelemesine, değiştirmesine ve geliştirmesine açık olan yapay zeka modelleridir."
   }
 ]

@@ -1748,5 +1748,68 @@
     "lite": false,
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "server",
+    "title": "Server",
+    "tagline": "Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya…",
+    "meta": "★ 1.857 · Python",
+    "image": "/assets/discover/og/server.webp",
+    "source": "GitHub",
+    "date": "2026-06-13",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1857,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "iptv",
+    "title": "Iptv",
+    "tagline": "Dünya genelindeki halka açık televizyon kanallarını tek bir merkezde toplayan iptv-org projesi, internet protokolü üzerinden…",
+    "meta": "★ 118.170 · TypeScript",
+    "image": "/assets/discover/og/iptv.webp",
+    "source": "GitHub",
+    "date": "2026-06-13",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 118170,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "lmcache",
+    "title": "LMCache",
+    "tagline": "LMCache, büyük dil modelleri (large language models) için anahtar-değer önbelleği (KV cache) yönetimini optimize ederek…",
+    "meta": "★ 8.698 · Python",
+    "image": "/assets/discover/og/lmcache.webp",
+    "source": "GitHub",
+    "date": "2026-06-13",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 8698,
+    "lite": false
+  },
+  {
+    "slug": "powertoys",
+    "title": "PowerToys",
+    "tagline": "Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştirmeyi artırmak amacıyla geliştirilen bir yardımcı…",
+    "meta": "★ 134.431 · C",
+    "image": "/assets/discover/og/powertoys.webp",
+    "source": "GitHub",
+    "date": "2026-06-13",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 134431,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]
