@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-13",
+  "editorial": "Yazılım dünyasında bugün otonom yetenek paketleri (agent skills) ve açık kaynaklı medya yönetimi çözümleri ön plana çıkıyor. GitHub verileri, geliştiricilerin özellikle konteyner (container) izolasyonu ve merkezi sunucu yönetimi üzerine odaklandığını gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Yapay zekâ kodlama ajanları için geliştirilen bu kütüphane, üretim seviyesinde mühendislik yetenekleri (engineering skills) sunuyor. Yazılım geliştirme süreçlerini otomatikleştiren ajanların iş akışlarını standartlaştırmayı hedefliyor.",
+          "meta": "Shell · ★ 57.241 · +2.656 bugün"
+        },
+        {
+          "title": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "summary": "Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu yazılımı, sürekli çalışan cihazlar üzerinde merkezi bir müzik yönetim sistemi oluşturulmasını sağlar.",
+          "meta": "Python · ★ 1.857 · +20 bugün"
+        },
+        {
+          "title": "mattermost/mattermost",
+          "url": "https://github.com/mattermost/mattermost",
+          "summary": "Mattermost, yazılım geliştirme yaşam döngüsü boyunca güvenli iş birliği sağlamak amacıyla tasarlanmış açık kaynaklı bir platformdur. TypeScript diliyle geliştirilen bu sistem, ekiplerin iletişim ve proje yönetimi süreçlerini tek bir merkezde toplar.",
+          "meta": "TypeScript · ★ 37.696 · +388 bugün"
+        },
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Apple tarafından geliştirilen container, Apple silikon işlemciler için optimize edilmiş hafif sanal makineler (virtual machines) aracılığıyla Linux kapsayıcıları (containers) oluşturulmasını ve çalıştırılmasını sağlıyor. Swift diliyle yazılan bu araç, macOS üzerinde yerel kapsayıcı yönetimi için performans odaklı bir çözüm sunuyor.",
+          "meta": "Swift · ★ 35.486 · +3.504 bugün"
+        },
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "Dünya genelindeki halka açık televizyon kanallarını tek bir merkezde toplayan iptv-org projesi, internet protokolü üzerinden televizyon yayını (IPTV) listelerini düzenli bir veri kümesi olarak sunuyor. TypeScript ile geliştirilen bu açık kaynaklı koleksiyon, kullanıcıların farklı ülkelerdeki yayınlara erişimini standartlaştırıyor.",
+          "meta": "TypeScript · ★ 118.170 · +179 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış bir ajan yetenekleri çerçevesi (agentic skills framework) ve metodolojisidir. Bu yapı, yazılım geliştirme iş akışlarını standartlaştırmak amacıyla ajan tabanlı sistemler için modüler yetenekler sunar.",
+          "meta": "Shell · ★ 226.284 · +1.275 bugün"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilmiş bir masaüstü uygulamasıdır. TypeScript ile yazılan bu araç, kişisel dokümantasyon süreçlerini düzenlemek için merkezi bir arayüz sunar.",
+          "meta": "TypeScript · ★ 15.926 · +369 bugün"
+        },
+        {
+          "title": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "summary": "OpenMed, sağlık hizmetleri alanında kullanılmak üzere geliştirilmiş açık kaynaklı bir yapay zekâ (artificial intelligence) kütüphanesidir. Python tabanlı bu platform, tıbbi verilerin işlenmesi ve analiz edilmesi süreçlerini standartlaştırmayı amaçlamaktadır.",
+          "meta": "Python · ★ 3.270 · +515 bugün"
+        },
+        {
+          "title": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "summary": "LMCache, büyük dil modelleri (large language models) için anahtar-değer önbelleği (KV cache) yönetimini optimize ederek çıkarım hızını artıran bir katman sunuyor. Bellek kullanımını verimli hale getiren bu sistem, aynı bağlamı kullanan sorgularda hesaplama yükünü azaltmayı hedefliyor.",
+          "meta": "Python · ★ 8.698 · +28 bugün"
+        },
+        {
+          "title": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "summary": "PM Skills Marketplace, ürün yönetimi süreçleri için keşiften büyümeye kadar uzanan 100'den fazla otonom yetenek (agentic skills), komut ve eklenti sunuyor. Bu platform, ürün geliştirme iş akışlarını otomatikleştirmek için hazır araç setleri sağlıyor.",
+          "meta": "★ 17.229 · +827 bugün"
+        },
+        {
+          "title": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "summary": "MasterDnsVPN, sansür aşımı için geliştirilmiş, düşük ek yükle çalışan bir alan adı sistemi tünelleme (DNS tunneling) sanal özel ağ (VPN) çözümüdür. Go diliyle yazılan araç, veri kaybı durumunda otomatik yeniden iletim (ARQ) ve çözümleyici yük dengeleme özellikleriyle yüksek hız ve kararlılık sunar.",
+          "meta": "Go · ★ 6.104 · +400 bugün"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-agents projesi, farklı uzmanlık alanlarına sahip özelleşmiş yapay zekâ ajanlarından oluşan bir dijital ajans yapısı sunuyor. Sistem, kullanıcıların belirli iş süreçlerini yönetebilmesi için kişilik sahibi ve somut çıktılar üreten uzman ajanları tek bir çatı altında topluyor.",
+          "meta": "Shell · ★ 112.596 · +1.026 bugün"
+        },
+        {
+          "title": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "summary": "Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştirmeyi artırmak amacıyla geliştirilen bir yardımcı yazılım koleksiyonudur. Kullanıcılara sistem üzerinde gelişmiş özelleştirme araçları ve iş akışı optimizasyonları sunar.",
+          "meta": "C · ★ 134.431 · +103 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "summary": "Anthropic, Amerika Birleşik Devletleri hükümetinin talimatı doğrultusunda Fable 5 ve Mythos 5 modellerine erişimi askıya aldığını duyurdu. Şirket, bu kararın ulusal güvenlik gerekçeleriyle alınan düzenleyici bir kısıtlama (regulatory restriction) olduğunu belirtti.",
+          "meta": "2.000 oy · 1.472 yorum"
+        },
+        {
+          "title": "If you are asking for human attention, demonstrate human effort",
+          "url": "https://tombedor.dev/human-attention-and-human-effort/",
+          "summary": "Dijital iletişimde insan dikkatini talep eden içeriklerin, harcanan çabayı (human effort) somut bir şekilde göstermesi gerektiğini savunuyor. Kaliteli etkileşim için içerik üreticilerinin, karşı taraftan zaman istemeden önce kendi hazırlık süreçlerini kanıtlaması gerektiğini belirtiyor.",
+          "meta": "1.571 oy · 469 yorum"
+        },
+        {
+          "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+          "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+          "summary": "Geliştirilen yeni bir gen düzenleme (CRISPR) yöntemi, kanser hücrelerini seçici olarak parçalayarak tedavi edilemez kabul edilen tümörleri hedef alıyor. Bu teknik, sağlıklı hücrelere zarar vermeden kanserli yapıların genetik kodunu bozarak hücre ölümünü tetikliyor.",
+          "meta": "796 oy · 189 yorum"
+        },
+        {
+          "title": "Open source AI must win",
+          "url": "https://opensourceaimustwin.com/?share=v2",
+          "summary": "Açık kaynak yapay zekâ (open source AI) savunucuları, yapay zekâ teknolojilerinin merkeziyetsiz ve erişilebilir kalması gerektiğini vurguluyor. Bu yaklaşım, kapalı kaynaklı modellerin oluşturduğu tekelleşme riskine karşı şeffaflığı ve topluluk odaklı geliştirmeyi temel alıyor.",
+          "meta": "764 oy · 237 yorum"
+        },
+        {
+          "title": "Electric motors with no rare earths",
+          "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+          "summary": "Renault, elektrikli araç motorlarında nadir toprak elementleri (rare earth elements) kullanmayan yeni nesil teknolojiler geliştiriyor. Bu yaklaşım, üretim süreçlerinde dışa bağımlılığı azaltarak sürdürülebilir motor mimarilerini (electric motor architectures) desteklemeyi amaçlıyor.",
+          "meta": "392 oy · 98 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "Google tarafından geliştirilen DiffusionGemma, metin ve görsel girdilerini işleyerek metin tabanlı çıktılar üreten bir çok modlu (multimodal) modeldir. Model, görüntülerden elde edilen bilgileri metin tabanlı görevlerle birleştirerek analiz yeteneğini genişletir.",
+          "meta": "♥ 641 · 20.669 indirme"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Nvidia tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma (object localization) görevlerini yerine getiren bir görüntü-metin-metin (image-text-to-text) modelidir. Sistem, karmaşık görsel veriler üzerinde metin tabanlı sorgularla nesne tespiti yapılmasına olanak tanır.",
+          "meta": "♥ 1.931 · 149.206 indirme"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K2.7-Code, görsel ve metin tabanlı girdileri işleyerek kod üretimi (code generation) gerçekleştiren bir modeldir. Çok modlu (multimodal) yapısı sayesinde karmaşık yazılım geliştirme süreçlerinde görsel verileri metin çıktılarına dönüştürerek destek sağlar.",
+          "meta": "♥ 389 · 0 indirme"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Google tarafından geliştirilen Gemma 2 4B ve 12B modelleri, metin ve görüntü işleme yeteneklerine sahip çok modlu (multimodal) bir yapı sunuyor. Bu modeller, farklı veri türlerini tek bir mimari üzerinden işleyerek herhangi bir girdi türünden herhangi bir çıktı üretme (any-to-any) kapasitesi sağlıyor.",
+          "meta": "♥ 977 · 911.544 indirme"
+        },
+        {
+          "title": "CohereLabs/North-Mini-Code-1.0",
+          "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+          "summary": "CohereLabs tarafından geliştirilen North-Mini-Code-1.0, metin üretme (text-generation) yeteneklerine odaklanan özelleşmiş bir dil modelidir. Yazılım geliştirme süreçlerini desteklemek amacıyla tasarlanan bu model, kod tabanlı görevlerde verimliliği artırmayı hedeflemektedir.",
+          "meta": "♥ 339 · 4.054 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık sorunları çözmek için mantıklı ve sistematik yöntemler geliştirme yeteneği."
+    },
+    {
+      "term": "virtual machines",
+      "explanation": "Bir bilgisayarın içinde sanki ayrı bir cihaz varmış gibi çalışan sanal işletim sistemleri."
+    },
+    {
+      "term": "containers",
+      "explanation": "Bir yazılımın çalışması için gereken her şeyi içinde barındıran, her ortamda aynı şekilde çalışan paketler."
+    },
+    {
+      "term": "IPTV",
+      "explanation": "Televizyon yayınlarının geleneksel anten yerine internet üzerinden izlenmesini sağlayan teknoloji."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekânın kendi başına karar alıp görevleri yerine getirmesi için ihtiyaç duyduğu yetenekler bütünü."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Bilgisayarların insanlar gibi öğrenme, mantık yürütme ve problem çözme yeteneği kazanması."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "KV cache",
+      "explanation": "Yapay zekânın daha önce işlediği bilgileri hatırlayarak aynı işlemleri tekrar yapmasını engelleyen hızlandırma yöntemi."
+    },
+    {
+      "term": "agentic skills",
+      "explanation": "Yapay zekânın bir hedef doğrultusunda kendi başına plan yapıp harekete geçebilme becerisi."
+    },
+    {
+      "term": "DNS tunneling",
+      "explanation": "İnternet trafiğini normalde adres bulmak için kullanılan sistemin içine gizleyerek veri aktarma yöntemi."
+    },
+    {
+      "term": "VPN",
+      "explanation": "İnternet üzerindeki verilerinizi şifreleyerek kimliğinizi gizleyen ve güvenli bağlantı sağlayan araç."
+    },
+    {
+      "term": "ARQ",
+      "explanation": "İletişim sırasında hatalı giden verilerin otomatik olarak tekrar gönderilmesini sağlayan hata düzeltme sistemi."
+    },
+    {
+      "term": "regulatory restriction",
+      "explanation": "Devletlerin veya kurumların teknolojik faaliyetleri kısıtlayan yasal kuralları."
+    },
+    {
+      "term": "human effort",
+      "explanation": "Bir işin tamamlanması için insanların harcadığı fiziksel veya zihinsel emek."
+    },
+    {
+      "term": "CRISPR",
+      "explanation": "Canlıların genetik kodlarını düzenlemeye yarayan hassas bir biyoteknoloji aracı."
+    },
+    {
+      "term": "open source AI",
+      "explanation": "Kodları ve çalışma mantığı herkesin incelemesine, değiştirmesine ve geliştirmesine açık olan yapay zekâ modelleri."
+    }
+  ]
+}
