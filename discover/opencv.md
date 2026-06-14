@@ -3,20 +3,24 @@
 Açık kaynak kodlu bilgisayarlı görü kütüphanesi (computer vision library) olan OpenCV, görüntü işleme ve makine öğrenmesi (machine learning) uygulamaları için geniş kapsamlı araçlar sunuyor. C++ diliyle geliştirilen bu kütüphane, gerçek zamanlı görsel veri analizi süreçlerinde standart bir altyapı görevi görüyor.
 
 - ★ 88.274
-- C++
 - GitHub Trending · 2026-06-08
 
 ## Ne kazandırır?
-- Gerçek zamanlı görsel veri analizi yapmanızı sağlar.
-- Görüntü işleme süreçlerini standart bir altyapıyla yönetir.
-- Makine öğrenmesi uygulamaları için geniş araç desteği sunar.
+- Gerçek zamanlı görsel veri analizi yapabilme.
+- Görüntü işleme süreçlerini standart altyapıyla yönetme.
+- Makine öğrenmesi uygulamaları için geniş araçlara erişim.
 
-## Nasıl başlanır?
+## Kurulum
 
-OpenCV kullanmaya başlamak için resmî web sitesi olan opencv.org adresini ziyaret edebilir, detaylı teknik bilgilere ve öğrenme kaynaklarına docs.opencv.org üzerinden ulaşabilirsiniz.
-- [Resmî kaynak →](https://opencv.org)
+**Python (pip)**
 
-- **Kimin için:** Bilgisayarlı görü, görüntü işleme ve makine öğrenmesi alanlarında uygulama geliştirmek isteyen yazılımcılar ve araştırmacılar içindir. 
+```
+pip install opencv-python
+```
+
+Kaynak: PyPI · opencv-python (resmî paket)
+
+- **Kimin için:** Görüntü işleme ve bilgisayarlı görü alanında uygulama geliştirmek isteyen yazılımcılar ve araştırmacılar için uygundur. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar

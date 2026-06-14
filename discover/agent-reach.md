@@ -3,27 +3,45 @@
 Agent-Reach, yapay zekâ ajanlarına internetin tamamını tarama ve içerik okuma yeteneği kazandıran bir komut satırı arayüzü (CLI) aracıdır. Twitter, Reddit ve GitHub gibi platformlardan veri çekmek için herhangi bir uygulama programlama arayüzü (API) ücreti ödemeden doğrudan erişim sağlar.
 
 - ★ 21.757
-- Python
 - GitHub Trending · 2026-06-06
 
 ## Ne kazandırır?
-- Yapay zekâ ajanlarına internette arama ve içerik okuma yeteneği kazandırır.
-- Twitter, Reddit ve GitHub gibi platformlara API ücreti ödemeden erişim sağlar.
-- Tüm kurulum ve yapılandırma süreçlerini tek bir komutla otomatikleştirir.
+- Yapay zeka ajanlarına interneti tarama ve içerik okuma yeteneği kazandırır.
+- Twitter, Reddit ve YouTube gibi platformlara API ücreti ödemeden erişim sağlar.
+- Platform değişikliklerini takip ederek bağlantı yöntemlerini otomatik günceller.
 
-## Nasıl başlanır?
+## Kurulum
 
-Agent-Reach kurulumu için projenin GitHub sayfasındaki dokümantasyonu takip etmeniz yeterlidir. Kurulum ve güncelleme işlemleri için README dosyasında belirtilen bağlantıları AI ajanınla paylaşarak ajanın süreci otomatik yönetmesini sağlayabilirsiniz.
-- [Resmî kaynak →](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge")
+**Python (pip)**
 
-- **Kimin için:** Yapay zekâ ajanlarının internetteki platformlardan veri çekmesini isteyen ancak karmaşık API yapılandırmalarıyla uğraşmak istemeyen kullanıcılar içindir. 
+```
+pip install agent-reach
+```
+
+## Çalıştırma
+
+**Kanalları kur**
+
+```
+agent-reach install
+```
+
+**Durum kontrolü**
+
+```
+agent-reach doctor
+```
+
+Kaynak: Agent-Reach · docs/install.md (resmî)
+
+- **Kimin için:** Yapay zeka ajanlarının internet üzerindeki platformlara erişimini ve veri okuma süreçlerini otomatikleştirmek isteyen kullanıcılar içindir. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Panniantong/Agent-Reach)
 
 ## İlgili sözlük terimleri
-API CLI Artificial Intelligence 
+CLI API Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
