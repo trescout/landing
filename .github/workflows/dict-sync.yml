@@ -9,7 +9,12 @@ on:
       - 'reports/**'
   schedule:
     - cron: '30 5 * * *'   # her gün 05:30 UTC · app raporu (~04:00) + publish sonrası yedek
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      reprocess_slugs:
+        description: "Keşif reprocess · virgülle slug listesi (catalog'a elle cmds eklenince sayfayı yeniden render eder). Boş = sadece normal büyüme."
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -47,6 +52,16 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
         run: python3 scripts/discover-sync.py
+
+      # Elle tetiklenirse · catalog'a eklenen cmds'leri sayfaya render et + komutsuz flag'i temizle.
+      # Slug listesi env üzerinden geçer (komut enjeksiyonu önlemek için inline interpolasyon yok).
+      - name: Keşif reprocess (elle · cmds render)
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.reprocess_slugs != '' }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+          SLUGS: ${{ github.event.inputs.reprocess_slugs }}
+        run: python3 scripts/discover-sync.py --reprocess="$SLUGS"
 
       - name: Çapraz-linkleri yenile (keşif ↔ sözlük)
         run: python3 scripts/cross-link.py

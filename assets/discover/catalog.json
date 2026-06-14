@@ -1027,7 +1027,16 @@
     "stars": 9070,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Node.js (npm)",
+          "komut": "npm install @github/copilot-sdk"
+        }
+      ],
+      "kaynak": "npm · @github/copilot-sdk · docs.github.com (resmî)"
+    }
   },
   {
     "slug": "openclaw-windows-node",
@@ -1088,7 +1097,26 @@
     "stars": 21757,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Python (pip)",
+          "komut": "pip install agent-reach"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Kanalları kur",
+          "komut": "agent-reach install"
+        },
+        {
+          "baslik": "Durum kontrolü",
+          "komut": "agent-reach doctor"
+        }
+      ],
+      "kaynak": "Agent-Reach · docs/install.md (resmî)"
+    }
   },
   {
     "slug": "mirofish",
@@ -1446,7 +1474,22 @@
     "stars": 13874,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Klonla + bağımlılıklar (Linux · Python 3)",
+          "komut": "git clone https://github.com/HunxByts/GhostTrack.git && cd GhostTrack && pip3 install -r requirements.txt"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Çalıştır",
+          "komut": "python3 GhostTR.py"
+        }
+      ],
+      "kaynak": "GhostTrack README (resmî)"
+    }
   },
   {
     "slug": "pg-durable",
@@ -1729,7 +1772,16 @@
     "stars": 30493,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker Compose (self-hosted)",
+          "komut": "git clone https://github.com/chatwoot/chatwoot.git && cd chatwoot && docker compose up -d"
+        }
+      ],
+      "kaynak": "developers.chatwoot.com/self-hosted/deployment/docker (resmî)"
+    }
   },
   {
     "slug": "agentsview",
