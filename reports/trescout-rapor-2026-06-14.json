@@ -1,0 +1,231 @@
+{
+  "date": "2026-06-14",
+  "editorial": "Yazılım dünyasında bugün otonom yetenek paketleri (agent skills) ve açık kaynaklı altyapı yönetimi üzerine odaklanan projeler ön planda. GitHub verileri, özellikle uygulama konteynerleri (container) ve müşteri etkileşim sistemlerinin geliştiriciler arasında yüksek ilgi gördüğünü gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "Dünya genelindeki halka açık internet televizyonu (IPTV) kanallarını tek bir merkezde toplayan bu proje, canlı yayın akışlarını düzenli bir veritabanı (database) olarak sunuyor. Açık kaynaklı yapısı sayesinde kullanıcıların küresel televizyon içeriklerine erişimini kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 119.525 · +530 bugün"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Addy Osmani tarafından geliştirilen agent-skills, yapay zekâ kodlama ajanları için üretim seviyesinde mühendislik yetenekleri (engineering skills) sunuyor. Bu kütüphane, ajan tabanlı yazılım geliştirme süreçlerini standartlaştırmak amacıyla hazır işlevler sağlıyor.",
+          "meta": "Shell · ★ 58.794 · +1.514 bugün"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel desk) süreçlerini yönetmek için açık kaynaklı bir alternatif sunuyor. Ruby diliyle geliştirilen platform, Intercom veya Zendesk gibi kurumsal müşteri destek yazılımlarına benzer işlevsellik sağlıyor.",
+          "meta": "Ruby · ★ 30.977 · +83 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yazılım geliştirme süreçlerini otomatize etmek için tasarlanmış bir ajan yetenekleri çatısı (agentic skills framework) ve metodolojisidir. Shell diliyle yazılan bu araç, yazılım geliştirme iş akışlarını standartlaştıran bir yapı sunuyor.",
+          "meta": "Shell · ★ 227.249 · +924 bugün"
+        },
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Apple tarafından geliştirilen Container, Mac cihazlarda hafif sanal makineler (lightweight virtual machines) kullanarak Linux kapsayıcıları (containers) oluşturmaya ve çalıştırmaya olanak tanıyor. Swift diliyle yazılan araç, Apple silikon (Apple silicon) mimarisi için optimize edilmiş bir performans sunuyor.",
+          "meta": "Swift · ★ 36.562 · +1.487 bugün"
+        },
+        {
+          "title": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "summary": "Music Assistant, farklı dijital müzik servislerini ve bağlı hoparlörleri tek bir merkezde toplayan açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu yazılımı, Raspberry Pi veya ağa bağlı depolama (NAS) gibi sürekli çalışan cihazlar üzerinde merkezi bir kontrol noktası işlevi görür.",
+          "meta": "Python · ★ 2.062 · +270 bugün"
+        },
+        {
+          "title": "kenn-io/agentsview",
+          "url": "https://github.com/kenn-io/agentsview",
+          "summary": "Agentsview, kodlama ajanları için yerel öncelikli oturum zekası (session intelligence) ve analiz araçları sunuyor. Claude Code ve Codex dahil yirmiden fazla ajanı destekleyen bu yapı, kullanım verisi takibinde (ccusage) yüksek performanslı bir alternatif oluşturuyor.",
+          "meta": "Go · ★ 2.475 · +190 bugün"
+        },
+        {
+          "title": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "summary": "LMCache, büyük dil modellerinde (LLM) anahtar değer önbelleğini (KV cache) yöneterek çıkarım hızını artıran bir katman sunuyor. Bellek kullanımını optimize eden bu sistem, tekrarlayan sorgularda veri erişimini hızlandırarak model performansını iyileştiriyor.",
+          "meta": "Python · ★ 8.985 · +238 bugün"
+        },
+        {
+          "title": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "summary": "Microsoft PowerToys, Windows kullanıcıları için üretkenliği ve sistem özelleştirmesini artıran çeşitli araçlar (utilities) sunuyor. Açık kaynaklı bu koleksiyon, işletim sistemi deneyimini iyileştiren işlevsel yardımcı programları bir araya getiriyor.",
+          "meta": "C · ★ 134.770 · +370 bugün"
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Andrew Ng tarafından geliştirilen aisuite, farklı üretken yapay zekâ (generative AI) sağlayıcılarını tek bir arayüz üzerinden yönetmeyi sağlayan bir Python kütüphanesidir. Geliştiricilerin çeşitli model servisleri arasında kod değişikliği yapmadan geçiş yapmasına olanak tanır.",
+          "meta": "Python · ★ 14.220 · +127 bugün"
+        },
+        {
+          "title": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "summary": "NVIDIA tarafından geliştirilen SkillSpector, yapay zekâ ajanlarına ait yeteneklerdeki (skills) güvenlik açıklarını ve kötü niyetli kalıpları tespit eden bir tarayıcıdır. Python tabanlı bu araç, ajan tabanlı sistemlerdeki olası güvenlik risklerini belirleyerek yazılım güvenliğini artırmayı hedefler.",
+          "meta": "Python · ★ 4.680 · +804 bugün"
+        },
+        {
+          "title": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "summary": "Bannedbook tarafından geliştirilen fanqiang, internet erişim kısıtlamalarını aşmaya yönelik (circumvention) araçları içeren bir Kotlin projesidir. Ağ trafiğini yönlendirme ve sansür engellerini kaldırma yöntemleri üzerine teknik kaynaklar sunmaktadır.",
+          "meta": "Kotlin · ★ 47.614 · +93 bugün"
+        },
+        {
+          "title": "swc-project/swc",
+          "url": "https://github.com/swc-project/swc",
+          "summary": "Rust diliyle geliştirilen SWC, web projeleri için hızlı bir derleme (compilation) ve paketleme (bundling) platformu sunuyor. JavaScript ve TypeScript dosyalarını yüksek performansla işleyerek modern web geliştirme süreçlerini hızlandırıyor.",
+          "meta": "Rust · ★ 33.681 · +20 bugün"
+        },
+        {
+          "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "summary": "Popüler yapay zekâ araçlarının kullandığı sistem istemleri (system prompts) ve tercih edilen dil modelleri, geliştiriciler tarafından tek bir merkezde derleniyor. Bu liste, güncel kodlama asistanlarının ve üretken yapay zekâ platformlarının arka planındaki yapılandırma stratejilerini inceleme imkânı sunuyor.",
+          "meta": "★ 140.390 · +109 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Noise infusion banned from statistical products published by Census Bureau",
+          "url": "https://desfontain.es/blog/banning-noise.html",
+          "summary": "ABD Nüfus Sayım Bürosu, istatistiksel ürünlerinde gizliliği korumak için uyguladığı gürültü ekleme (noise infusion) yöntemini yasakladı. Bu karar, verilerin doğruluğunu artırmak amacıyla diferansiyel gizlilik (differential privacy) tekniklerinde yeni bir düzenleme sürecini başlatıyor.",
+          "meta": "812 oy · 507 yorum"
+        },
+        {
+          "title": "Every Frame Perfect",
+          "url": "https://tonsky.me/blog/every-frame-perfect/",
+          "summary": "Modern arayüzlerin akıcılığını inceleyen bu çalışma, yazılım geliştirme sürecinde kare hızı (frame rate) tutarlılığının kullanıcı deneyimi üzerindeki etkisini ele alıyor. Arayüz tepkiselliğini korumak için donanım kaynaklarının verimli kullanımı ve gecikme (latency) optimizasyonu üzerine teknik stratejiler sunuyor.",
+          "meta": "676 oy · 223 yorum"
+        },
+        {
+          "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+          "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+          "summary": "Amazon yöneticilerinin ABD hükümet yetkilileriyle gerçekleştirdiği görüşmeler, Anthropic tarafından geliştirilen yapay zekâ modellerine yönelik denetimlerin artmasına yol açtı. Bu süreç, büyük dil modellerinin (large language models) ulusal güvenlik ve düzenleyici uyumluluk çerçevesinde incelenmesini tetikledi.",
+          "meta": "660 oy · 490 yorum"
+        },
+        {
+          "title": "GLM 5.2 Is Out",
+          "url": "https://twitter.com/jietang/status/2065784751345287314",
+          "summary": "Zhipu AI tarafından geliştirilen GLM 5.2, çok modlu yetenekleri (multimodal capabilities) ve genişletilmiş bağlam penceresi (context window) desteğiyle güncellendi. Yeni sürüm, karmaşık akıl yürütme süreçlerinde daha yüksek doğruluk ve performans artışı sağlıyor.",
+          "meta": "539 oy · 285 yorum"
+        },
+        {
+          "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+          "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+          "summary": "Pankreas tümörleri üzerinde yapılan çalışmalar, kanser hücrelerinin hayatta kalmasını sağlayan merkezi bir kontrol mekanizmasını (master switch) ortaya koymuş olabilir. Bu keşif, tümörlerin büyümesini durdurmaya yönelik yeni tedavi yöntemlerinin geliştirilmesine olanak tanıyor.",
+          "meta": "351 oy · 126 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "Google tarafından yayınlanan DiffusionGemma, metin ve görsel girdilerini işleyerek metin tabanlı çıktılar üreten bir çok modlu (multimodal) modeldir. Model, görsel verileri anlama ve metinle ilişkilendirme yeteneğiyle farklı içerik oluşturma süreçlerinde kullanılıyor.",
+          "meta": "♥ 729 · 92.080 indirme"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K2.7-Code, görsel ve metin verilerini girdi olarak işleyebilen çok modlu (multimodal) bir kodlama modelidir. Yazılım geliştirme süreçlerinde görsel içeriklerden metin tabanlı kod üretimi yapmayı hedeflemektedir.",
+          "meta": "♥ 553 · 1.689 indirme"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "NVIDIA tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma (object localization) görevlerini yerine getiren bir görüntü-metin-metin (image-text-to-text) modelidir. Model, verilen metin komutlarına dayanarak görüntülerdeki nesnelerin koordinatlarını belirleme yeteneği sunar.",
+          "meta": "♥ 1.970 · 69.443 indirme"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMaxAI tarafından geliştirilen MiniMax-M3, görsel ve metin girdilerini işleyerek metin tabanlı çıktılar üreten çok modlu (multimodal) bir modeldir. Sistem, farklı veri türlerini tek bir mimari üzerinde birleştirerek karmaşık içerik analizi ve üretim süreçlerini destekler.",
+          "meta": "♥ 436 · 1.031 indirme"
+        },
+        {
+          "title": "CohereLabs/North-Mini-Code-1.0",
+          "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+          "summary": "CohereLabs tarafından geliştirilen North-Mini-Code-1.0, metin üretimi (text generation) odaklı bir dil modelidir. Yazılım geliştirme süreçlerini desteklemek amacıyla optimize edilen bu model, kod tabanlı görevlerde performans sergilemektedir.",
+          "meta": "♥ 360 · 6.533 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IPTV",
+      "explanation": "Televizyon yayınlarının geleneksel anten veya uydu yerine internet üzerinden izlenmesini sağlayan teknoloji."
+    },
+    {
+      "term": "database",
+      "explanation": "Bilgilerin düzenli bir şekilde saklandığı, ihtiyaç duyulduğunda kolayca erişilip yönetilebildiği dijital ortam."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık sorunları çözmek için mantıksal yöntemler, teknik bilgi ve yaratıcılığı birleştirme yeteneği."
+    },
+    {
+      "term": "omni-channel desk",
+      "explanation": "Müşterilerin farklı kanallardan gelen taleplerini tek bir merkezden takip edip yanıtlamayı sağlayan destek sistemi."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekâ sistemlerinin kendi başına karar verip görevleri tamamlaması için gereken yeteneklerin yapılandırılmış hali."
+    },
+    {
+      "term": "lightweight virtual machines",
+      "explanation": "Sadece gerekli kaynakları kullanarak hızlıca çalışan, çok az yer kaplayan küçük sanal bilgisayarlar."
+    },
+    {
+      "term": "containers",
+      "explanation": "Bir yazılımın çalışması için gereken tüm dosyaları içinde barındıran ve her bilgisayarda aynı şekilde çalışmasını sağlayan paketler."
+    },
+    {
+      "term": "Apple silicon",
+      "explanation": "Apple cihazlarının yüksek performans ve düşük enerji tüketimi için özel olarak tasarladığı kendi işlemci mimarisi."
+    },
+    {
+      "term": "NAS",
+      "explanation": "Ev veya ofis ağındaki tüm cihazların ortaklaşa kullanabileceği, merkezi bir depolama alanı sunan cihaz."
+    },
+    {
+      "term": "session intelligence",
+      "explanation": "Kullanıcıların etkileşimlerini analiz ederek davranışlarını anlayan ve daha iyi deneyim sunmayı hedefleyen sistem."
+    },
+    {
+      "term": "ccusage",
+      "explanation": "Bir sistemin veya hizmetin ne kadar yoğun kullanıldığını gösteren tüketim verisi."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "KV cache",
+      "explanation": "Yapay zekânın daha önce işlediği bilgileri hafızasında tutarak aynı sorulara daha hızlı cevap vermesini sağlayan bellek alanı."
+    },
+    {
+      "term": "utilities",
+      "explanation": "Bilgisayarın bakımını, yönetimini veya temel işlevlerini kolaylaştıran yardımcı küçük yazılımlar."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Öğrendiği verileri kullanarak yeni metin, görsel veya ses gibi içerikler oluşturabilen yapay zekâ türü."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir işi yapmak için gereken pratik bilgi ve uygulama becerilerinin bütünü."
+    }
+  ]
+}
