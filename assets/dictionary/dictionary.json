@@ -992,5 +992,47 @@
     "full": "Internet Protocol Television",
     "cat": "data",
     "kisa": "Televizyon yayınlarının geleneksel anten veya uydu yerine internet bağlantısı üzerinden dijital olarak iletilmesi yöntemidir."
+  },
+  {
+    "slug": "database",
+    "en": "Database",
+    "full": "",
+    "cat": "data",
+    "kisa": "Bilgilerin düzenli bir şekilde saklandığı, ihtiyaç duyulduğunda kolayca erişilip yönetilebildiği dijital ortam."
+  },
+  {
+    "slug": "lightweight-virtual-machines",
+    "en": "Lightweight Virtual Machines",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Sadece gerekli kaynakları kullanarak hızlıca çalışan, çok az yer kaplayan küçük sanal bilgisayarlar."
+  },
+  {
+    "slug": "nas",
+    "en": "NAS",
+    "full": "Network Attached Storage",
+    "cat": "data",
+    "kisa": "Ev veya ofis ağındaki tüm cihazların ortaklaşa kullanabileceği, merkezi bir depolama alanı sunan cihaz."
+  },
+  {
+    "slug": "session-intelligence",
+    "en": "Session Intelligence",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kullanıcıların etkileşimlerini analiz ederek davranışlarını anlayan ve daha iyi deneyim sunmayı hedefleyen sistem."
+  },
+  {
+    "slug": "ccusage",
+    "en": "CCUsage",
+    "full": "Compute Consumption Usage",
+    "cat": "dev",
+    "kisa": "Bir sistemin veya hizmetin ne kadar yoğun kullanıldığını gösteren tüketim verisi."
+  },
+  {
+    "slug": "utilities",
+    "en": "Utilities",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarın bakımını, yönetimini veya temel işlevlerini kolaylaştıran yardımcı küçük yazılımlar."
   }
 ]

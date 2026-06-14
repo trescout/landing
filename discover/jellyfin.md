@@ -40,7 +40,7 @@ Lisans: GPL-2.0 · Kullanması tamamen serbest ve ücretsiz. Yazılımı değiş
 - [Ana sayfa →](https://jellyfin.org)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+NAS Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

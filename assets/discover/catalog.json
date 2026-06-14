@@ -1811,5 +1811,36 @@
     "lite": false,
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "aisuite",
+    "title": "Aisuite",
+    "tagline": "Andrew Ng tarafından geliştirilen aisuite, farklı üretken yapay zekâ (generative AI) sağlayıcılarını tek bir arayüz üzerinden…",
+    "meta": "★ 14.220 · Python",
+    "image": "/assets/discover/og/aisuite.webp",
+    "source": "GitHub",
+    "date": "2026-06-14",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 14220,
+    "lite": false
+  },
+  {
+    "slug": "swc",
+    "title": "SWC",
+    "tagline": "Rust diliyle geliştirilen SWC, web projeleri için hızlı bir derleme (compilation) ve paketleme (bundling) platformu sunuyor.",
+    "meta": "★ 33.681 · Rust",
+    "image": "/assets/discover/og/swc.webp",
+    "source": "GitHub",
+    "date": "2026-06-14",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 33681,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

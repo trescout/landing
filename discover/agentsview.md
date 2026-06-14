@@ -50,7 +50,7 @@ Agentsview aracını kullanarak yapay zeka kodlama ajanlarımın oturum geçmiş
 - [GitHub deposu →](https://github.com/kenn-io/agentsview)
 
 ## İlgili sözlük terimleri
-Token Artificial Intelligence 
+CCUsage Token Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
