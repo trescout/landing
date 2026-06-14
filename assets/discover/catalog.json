@@ -1139,9 +1139,7 @@
       "Geliştirici aracı"
     ],
     "stars": 1596,
-    "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "lite": false
   },
   {
     "slug": "mempalace",
@@ -1334,7 +1332,7 @@
     "stars": 48569,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "resmî Microsoft repo geri çekildi · doğrulanabilir komut yok"
   },
   {
     "slug": "opencv",
@@ -1517,9 +1515,7 @@
       "Geliştirici aracı"
     ],
     "stars": 12983,
-    "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "lite": false
   },
   {
     "slug": "whichllm",
@@ -1609,7 +1605,7 @@
     "stars": 8362,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "firmware (ESPHome) · standart pip/npm kurulum komutu yok"
   },
   {
     "slug": "agent-skills",
