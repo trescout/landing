@@ -957,7 +957,16 @@
     "stars": 80160,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Python (pip)",
+          "komut": "pip install paddleocr"
+        }
+      ],
+      "kaynak": "PyPI · paddleocr (resmî paket)"
+    }
   },
   {
     "slug": "spec-kit",
@@ -1171,7 +1180,16 @@
     "stars": 87060,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Yeni proje (resmî CLI)",
+          "komut": "npx sv create"
+        }
+      ],
+      "kaynak": "svelte.dev (resmî CLI)"
+    }
   },
   {
     "slug": "nginx",
@@ -1201,7 +1219,20 @@
     "stars": 134555,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install go"
+        },
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install GoLang.Go"
+        }
+      ],
+      "kaynak": "go.dev/doc/install (resmî) · veya go.dev/dl'den indirin"
+    }
   },
   {
     "slug": "career-ops",
@@ -1247,7 +1278,16 @@
     "stars": 81238,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Yeni proje (npm)",
+          "komut": "npm create vite@latest"
+        }
+      ],
+      "kaynak": "vite.dev (resmî dokümantasyon)"
+    }
   },
   {
     "slug": "mxc",
@@ -1294,7 +1334,16 @@
     "stars": 88274,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Python (pip)",
+          "komut": "pip install opencv-python"
+        }
+      ],
+      "kaynak": "PyPI · opencv-python (resmî paket)"
+    }
   },
   {
     "slug": "aitoearn",
@@ -1367,9 +1416,7 @@
       "Geliştirici aracı"
     ],
     "stars": 72765,
-    "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "lite": false
   },
   {
     "slug": "tolaria",
@@ -1504,9 +1551,7 @@
       "Geliştirici aracı"
     ],
     "stars": 139309,
-    "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "lite": false
   },
   {
     "slug": "openmed",
@@ -1640,7 +1685,20 @@
     "stars": 34273,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install restic"
+        },
+        {
+          "baslik": "Debian/Ubuntu",
+          "komut": "apt install restic"
+        }
+      ],
+      "kaynak": "restic.readthedocs.io (resmî)"
+    }
   },
   {
     "slug": "agency-agents",
@@ -1731,7 +1789,16 @@
     "stars": 37444,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker (önizleme)",
+          "komut": "docker run --name mattermost-preview -d --publish 8065:8065 mattermost/mattermost-preview"
+        }
+      ],
+      "kaynak": "docs.mattermost.com (resmî · önizleme imajı)"
+    }
   },
   {
     "slug": "fanqiang",
@@ -1745,9 +1812,7 @@
       "Geliştirici aracı"
     ],
     "stars": 47142,
-    "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "lite": false
   },
   {
     "slug": "server",
@@ -1763,7 +1828,16 @@
     "stars": 1857,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker",
+          "komut": "docker run --network host --privileged -v ma-data:/data ghcr.io/music-assistant/server"
+        }
+      ],
+      "kaynak": "music-assistant.io/installation (resmî · Home Assistant eklentisi de mevcut)"
+    }
   },
   {
     "slug": "iptv",
@@ -1777,9 +1851,7 @@
       "Geliştirici aracı"
     ],
     "stars": 118170,
-    "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "lite": false
   },
   {
     "slug": "lmcache",
@@ -1810,7 +1882,16 @@
     "stars": 134431,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install Microsoft.PowerToys"
+        }
+      ],
+      "kaynak": "Microsoft Learn (resmî)"
+    }
   },
   {
     "slug": "aisuite",
@@ -1841,6 +1922,15 @@
     "stars": 33681,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Proje bağımlılığı (npm)",
+          "komut": "npm i -D @swc/core"
+        }
+      ],
+      "kaynak": "swc.rs (resmî dokümantasyon)"
+    }
   }
 ]
