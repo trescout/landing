@@ -55,7 +55,7 @@ Lisans: AGPL-3.0 · Hazır siteyi kullanmak serbest. Ancak projeyi değiştirir,
 - [Hazır site →](https://openstock-ods.vercel.app)
 
 ## İlgili sözlük terimleri
-Self-hosting Artificial Intelligence 
+Self-hosting Clone Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

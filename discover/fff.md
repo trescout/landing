@@ -43,7 +43,7 @@ Projemdeki tüm dosya arama ve içerik tarama (grep) işlemleri için fff araçl
 - [GitHub deposu →](https://github.com/dmtrKovalenko/fff)
 
 ## İlgili sözlük terimleri
-MCP Artificial Intelligence 
+MCP Rust Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

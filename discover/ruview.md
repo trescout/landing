@@ -51,7 +51,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsini
 - [GitHub deposu →](https://github.com/ruvnet/RuView)
 
 ## İlgili sözlük terimleri
-WiFi Open Source Artificial Intelligence 
+WiFi Rust Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

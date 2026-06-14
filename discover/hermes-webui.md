@@ -44,7 +44,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsini
 - [GitHub deposu →](https://github.com/nesquena/hermes-webui)
 
 ## İlgili sözlük terimleri
-Open Source Artificial Intelligence 
+Clone Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -44,7 +44,7 @@ Microsoft tarafından geliştirilen MXC aracını kullanarak güvenilmeyen bir k
 - [GitHub deposu →](https://github.com/microsoft/mxc)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Rust Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

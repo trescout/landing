@@ -53,7 +53,7 @@ Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabi
 - [MOSI.AI →](https://mosi.cn)
 
 ## İlgili sözlük terimleri
-Text-to-Speech Open Source Artificial Intelligence 
+Text-to-Speech Clone Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

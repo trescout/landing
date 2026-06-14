@@ -26,6 +26,9 @@ Kaynak: swc.rs (resmî dokümantasyon)
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/swc-project/swc)
 
+## İlgili sözlük terimleri
+Rust 
+
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
 ---

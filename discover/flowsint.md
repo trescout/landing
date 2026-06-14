@@ -39,7 +39,7 @@ Flowsint aracını kurmak istiyorum. Docker ve Make yüklü bir sistemde git clo
 - [GitHub deposu →](https://github.com/reconurge/flowsint)
 
 ## İlgili sözlük terimleri
-Graph-based Investigation OSINT Artificial Intelligence 
+Graph-based Investigation OSINT Clone Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

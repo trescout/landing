@@ -1034,5 +1034,82 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bilgisayarın bakımını, yönetimini veya temel işlevlerini kolaylaştıran yardımcı küçük yazılımlar."
+  },
+  {
+    "slug": "unit-testing",
+    "en": "Unit Testing",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımın en küçük parçalarının tek başına doğru çalışıp çalışmadığını doğrulayan test yöntemidir."
+  },
+  {
+    "slug": "testing-framework",
+    "en": "Testing Framework",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım testlerini düzenli, hızlı ve kolay bir şekilde yazıp çalıştırmanızı sağlayan hazır araçlar bütünüdür."
+  },
+  {
+    "slug": "rust",
+    "en": "Rust",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Hafıza güvenliğini ön planda tutan, yüksek performanslı bir sistem programlama dilidir."
+  },
+  {
+    "slug": "compiler",
+    "en": "Compiler",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnsanların yazdığı kodları, bilgisayarın doğrudan anlayıp çalıştırabileceği makine diline çeviren programdır."
+  },
+  {
+    "slug": "cloud-native",
+    "en": "Cloud Native",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Uygulamaların bulut ortamında en yüksek verimle çalışacak şekilde tasarlanması ve yönetilmesi yaklaşımıdır."
+  },
+  {
+    "slug": "service-mesh",
+    "en": "Service Mesh",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Karmaşık yazılım sistemlerinde, farklı servislerin birbirleriyle güvenli ve düzenli iletişim kurmasını sağlayan bir altyapı katmanıdır."
+  },
+  {
+    "slug": "end-to-end-testing",
+    "en": "End-to-End Testing",
+    "full": "E2E Testing",
+    "cat": "dev",
+    "kisa": "Bir uygulamanın gerçek bir kullanıcı gibi baştan sona tüm işleyişinin doğrulanmasıdır."
+  },
+  {
+    "slug": "clone",
+    "en": "Clone",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternetteki bir yazılım projesinin tüm dosyalarını ve geçmişini kendi bilgisayarınıza kopyalama işlemidir."
+  },
+  {
+    "slug": "tech-stack",
+    "en": "Tech Stack",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılım projesini inşa etmek için kullanılan tüm diller, veritabanları ve araçların oluşturduğu bütündür."
+  },
+  {
+    "slug": "autonomous-robots-intro",
+    "en": "Introduction to Autonomous Robots",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Dışarıdan sürekli komut almadan, kendi kararlarını verip çevresinde hareket edebilen makinelerin temel çalışma prensibidir."
+  },
+  {
+    "slug": "playlist",
+    "en": "Playlist",
+    "full": "",
+    "cat": "data",
+    "kisa": "Dijital içeriklerin belirli bir sırayla veya temaya göre oynatılmak üzere bir araya getirildiği listedir."
   }
 ]

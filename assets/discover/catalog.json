@@ -1952,5 +1952,113 @@
       ],
       "kaynak": "swc.rs (resmî dokümantasyon)"
     }
+  },
+  {
+    "slug": "freecodecamp",
+    "title": "freeCodeCamp",
+    "tagline": "freeCodeCamp, matematik, programlama ve bilgisayar bilimi konularında ücretsiz eğitim materyalleri sunan açık kaynaklı bir…",
+    "meta": "★ 447.139 · TypeScript",
+    "image": "/assets/discover/og/freecodecamp.webp",
+    "source": "GitHub",
+    "date": "2026-06-15",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 447139,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "pytest",
+    "title": "Pytest",
+    "tagline": "Pytest, Python projelerinde küçük ölçekli birim testlerinden (unit testing) karmaşık işlevsel testlere kadar geniş bir…",
+    "meta": "★ 14.015 · Python",
+    "image": "/assets/discover/og/pytest.webp",
+    "source": "GitHub",
+    "date": "2026-06-15",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 14015,
+    "lite": false
+  },
+  {
+    "slug": "meshery",
+    "title": "Meshery",
+    "tagline": "Meshery, bulut yerlisi (cloud native) altyapıların yönetimi için tasarlanmış bir hizmet ağı (service mesh) yönetim platformudur.",
+    "meta": "★ 10.384 · TypeScript",
+    "image": "/assets/discover/og/meshery.webp",
+    "source": "GitHub",
+    "date": "2026-06-15",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 10384,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "cypress",
+    "title": "Cypress",
+    "tagline": "Cypress, tarayıcı tabanlı uygulamalar için uçtan uca test (end-to-end testing) süreçlerini hızlandıran ve kolaylaştıran bir…",
+    "meta": "★ 49.912 · TypeScript",
+    "image": "/assets/discover/og/cypress.webp",
+    "source": "GitHub",
+    "date": "2026-06-15",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 49912,
+    "lite": false
+  },
+  {
+    "slug": "clone-wars",
+    "title": "Clone-Wars",
+    "tagline": "Clone-Wars, Airbnb, Instagram ve Netflix gibi popüler platformların 100'den fazla açık kaynaklı kopyasını (clone) tek bir çatı…",
+    "meta": "★ 35.393",
+    "image": "/assets/discover/og/clone-wars.webp",
+    "source": "GitHub",
+    "date": "2026-06-15",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 35393,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "introduction-to-autonomous-robots",
+    "title": "Introduction-to-Autonomous-Robots",
+    "tagline": "Otonom robotlara giriş (Introduction to Autonomous Robots) projesi, robotik sistemlerin temel prensiplerini ve algoritmik…",
+    "meta": "★ 2.681 · TeX",
+    "image": "/assets/discover/og/introduction-to-autonomous-robots.webp",
+    "source": "GitHub",
+    "date": "2026-06-15",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 2681,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "puppeteer",
+    "title": "Puppeteer",
+    "tagline": "Puppeteer, Chrome ve Firefox tarayıcılarını kontrol etmek için kullanılan bir tarayıcı otomasyonu (browser automation)…",
+    "meta": "★ 94.629 · TypeScript",
+    "image": "/assets/discover/og/puppeteer.webp",
+    "source": "GitHub",
+    "date": "2026-06-15",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 94629,
+    "lite": false,
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

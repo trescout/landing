@@ -40,7 +40,7 @@ PostgreSQL üzerinde pg_durable eklentisini kullanarak bir iş akışı oluştur
 - [GitHub deposu →](https://github.com/microsoft/pg_durable)
 
 ## İlgili sözlük terimleri
-Durable Execution Artificial Intelligence 
+Durable Execution Rust Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

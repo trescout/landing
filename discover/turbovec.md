@@ -36,7 +36,7 @@ Python veya Rust projelerimde vektör tabanlı arama işlemlerini hızlandırmak
 - [GitHub deposu →](https://github.com/RyanCodrai/turbovec)
 
 ## İlgili sözlük terimleri
-Vector Database Vector Index Bindings RAG Artificial Intelligence 
+Vector Database Vector Index Bindings RAG Rust Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
