@@ -1111,5 +1111,54 @@
     "full": "",
     "cat": "data",
     "kisa": "Dijital içeriklerin belirli bir sırayla veya temaya göre oynatılmak üzere bir araya getirildiği listedir."
+  },
+  {
+    "slug": "live-streams",
+    "en": "Live Streams",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir etkinliğin veya görüntünün internet üzerinden eş zamanlı olarak izleyicilere aktarılmasıdır."
+  },
+  {
+    "slug": "compilation",
+    "en": "Compilation",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnsan diline yakın yazılan kodların, bilgisayarın işlemcisinin anlayabileceği makine diline dönüştürülmesi sürecidir."
+  },
+  {
+    "slug": "bundling",
+    "en": "Bundling",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Web sitelerinin çalışması için gereken çok sayıda küçük kod dosyasının birleştirilerek tek bir paket haline getirilmesidir."
+  },
+  {
+    "slug": "omni-channel",
+    "en": "Omni-channel",
+    "full": "",
+    "cat": "data",
+    "kisa": "Mağaza, internet sitesi ve mobil uygulama gibi tüm satış kanallarının birbiriyle uyumlu ve kesintisiz çalışmasıdır."
+  },
+  {
+    "slug": "service-mesh-manager",
+    "en": "Service Mesh Manager",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Karmaşık yazılım sistemlerinde farklı parçaların birbirleriyle nasıl iletişim kurduğunu yöneten ve denetleyen araçtır."
+  },
+  {
+    "slug": "clones",
+    "en": "Clones",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılım projesinin veya verinin, üzerinde çalışma yapmak için başka bir bilgisayara kopyalanmasıdır."
+  },
+  {
+    "slug": "autonomous-robotics",
+    "en": "Autonomous Robotics",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnsan müdahalesi olmadan, çevresini algılayıp kendi kararlarını vererek hareket edebilen makinelerdir."
   }
 ]

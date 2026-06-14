@@ -27,7 +27,7 @@ Kaynak: swc.rs (resmî dokümantasyon)
 - [GitHub deposu →](https://github.com/swc-project/swc)
 
 ## İlgili sözlük terimleri
-Rust 
+Compilation Bundling Rust 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
