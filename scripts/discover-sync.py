@@ -229,11 +229,17 @@ ENRICH_SYS=("Sen TreScout için Türkçe içerik editörüsün; kod bilmeyene bi
  '"ai_prompt"(kod bilmeyenin yapay zekâ ajanına yapıştıracağı tek paragraf Türkçe istem; yalnızca gerçek komutlara dayan),'
  '"kimin_icin"(tek cümle)}. Başka metin yok.')
 def start_url(md):
-    """README'nin kurulum/indirme bölümündeki ilk gerçek URL (linki uydurmadan vermek için)."""
+    """README'nin kurulum/indirme bölümündeki ilk gerçek URL (linki uydurmadan vermek için).
+    README başlığındaki rozet/görselleri (shields.io, .png/.svg ...) atlar · onlar
+    'resmî kaynak' değil. Gerçek bir URL bulunmazsa "" döner (kart o satırı basmaz)."""
+    BAD=re.compile(r'(?i)\.(?:png|jpe?g|gif|svg|webp|ico)(?:[?#]|$)|shields\.io|/badge/|badgen\.net')
     m=re.search(r'(?is)#{1,4}[^\n]*(?:install|setup|getting started|download|quick ?start|kurulum)[^\n]*\n(.+?)(?=\n#{1,4}\s|\Z)',md)
     region=m.group(1) if m else md[:1500]
-    u=re.search(r'\((https?://[^)\s]+)\)',region) or re.search(r'(https?://[^)\s\]>]+)',region)
-    return u.group(1) if u else ""
+    # Markdown link hedefleri önce, sonra çıplak URL'ler · sondaki tırnak/işaret kırpılır
+    for g in re.findall(r'\((https?://[^)\s]+)\)|(https?://[^)\s\]>"\']+)',region):
+        u=(g[0] or g[1]).rstrip('"\'/.,);]>')
+        if u and not BAD.search(u): return u
+    return ""
 def gemini_enrich(title,summary,readme,blocks,key):
     payload=("ARAÇ: "+title+"\nÖZET: "+(summary or "")+"\n\nREADME:\n"+readme[:8000]+
              "\n\nAYIKLANAN GERÇEK KOMUTLAR (komutu yalnızca bunlardan, birebir seç):\n"+json.dumps(blocks,ensure_ascii=False))
