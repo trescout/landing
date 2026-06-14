@@ -3,27 +3,31 @@
 GitHub Copilot SDK, geliştiricilerin GitHub Copilot yapay zekâ ajanlarını kendi uygulama ve hizmetlerine entegre etmelerini sağlayan çok platformlu bir yazılım geliştirme kiti (SDK) sunuyor. Java diliyle hazırlanan bu araç, özelleştirilmiş yapay zekâ iş akışlarının farklı platformlarda standart bir yapıyla oluşturulmasına olanak tanıyor.
 
 - ★ 9.070
-- Java
 - GitHub Trending · 2026-06-05
 
 ## Ne kazandırır?
-- Uygulamalara yapay zeka destekli iş akışları entegre eder.
-- Copilot CLI motorunu programatik olarak kullanmanızı sağlar.
-- Planlama, araç çağırma ve dosya düzenleme süreçlerini yönetir.
+- Uygulama içine yapay zekâ iş akışları entegre edilir.
+- Copilot'un planlama ve araç çağırma yetenekleri kullanılır.
+- Kendi API anahtarları ile özelleştirilmiş modeller çalıştırılır.
 
-## Nasıl başlanır?
+## Kurulum
 
-GitHub Copilot SDK kullanmaya başlamak için öncelikle projenizin ihtiyaç duyduğu programlama diline (Python, TypeScript, Go, .NET, Java veya Rust) uygun olan SDK paketini seçmelisiniz. Ardından, GitHub Copilot SDK deposundaki 'Getting Started Guide' dokümanını inceleyerek kurulum adımlarını takip edebilir ve tercih ettiğiniz dilin altındaki README dosyalarından kullanım örneklerine ulaşabilirsiniz.
-- [Resmî kaynak →](https://github.com/features/copilot/cli)
+**Node.js (npm)**
 
-- **Kimin için:** Kendi yazılım projelerine GitHub Copilot'un yapay zeka yeteneklerini ve iş akışlarını entegre etmek isteyen geliştiriciler içindir. 
+```
+npm install @github/copilot-sdk
+```
+
+Kaynak: npm · @github/copilot-sdk · docs.github.com (resmî)
+
+- **Kimin için:** Uygulamalarına yapay zekâ tabanlı iş akışları ve ajanlar entegre etmek isteyen yazılım geliştiriciler içindir. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/github/copilot-sdk)
 
 ## İlgili sözlük terimleri
-CLI Artificial Intelligence 
+API Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

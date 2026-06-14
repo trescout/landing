@@ -3,24 +3,35 @@
 Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştirmeyi artırmak amacıyla geliştirilen bir yardımcı yazılım koleksiyonudur. Kullanıcılara sistem üzerinde gelişmiş özelleştirme araçları ve iş akışı optimizasyonları sunar.
 
 - ★ 134.431
-- C
 - GitHub Trending · 2026-06-13
 
 ## Ne kazandırır?
-- Windows işletim sistemini kişiselleştirme imkânı sağlar.
-- Günlük görevleri hızlandıran 30'dan fazla araç sunar.
-- İş akışını optimize eden yardımcı yazılımlar içerir.
+- Windows üzerinde 30'dan fazla yardımcı araçla sistem özelleştirmesi sağlar.
+- Günlük görevleri hızlandırarak iş akışını optimize eder.
+- Gelişmiş pencere yönetimi, renk seçimi ve dosya işlemleri gibi özellikler sunar.
 
-## Nasıl başlanır?
+## Kurulum
 
-PowerToys aracını kullanmaya başlamak için resmî GitHub sayfası üzerinden .exe dosyasını indirebilir veya Microsoft Store üzerinden kolayca kurulum yapabilirsiniz. Alternatif olarak, komut satırı kullanmayı tercih ederseniz WinGet üzerinden kurulum komutlarını çalıştırabilirsiniz. Detaylı kurulum adımları ve sistem gereksinimleri için resmî kurulum dokümanlarını inceleyebilirsiniz.
-- [Resmî kaynak →](https://aka.ms/powertoys-docs")
+**Windows (winget)**
 
-- **Kimin için:** Windows işletim sisteminde verimliliğini artırmak ve sistemini kişiselleştirmek isteyen tüm kullanıcılar içindir. 
+```
+winget install Microsoft.PowerToys
+```
+
+Kaynak: Microsoft Learn (resmî)
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+PowerToys yüklü bir Windows sisteminde verimliliğimi artırmak istiyorum. Özellikle pencere düzenleme, dosya isimlendirme veya hızlı arama gibi özelliklerden hangilerini kullanmam iş akışımı daha çok kolaylaştırır? Hangi araçların ne işe yaradığını ve bunları nasıl aktif edebileceğimi adım adım açıklar mısın?
+
+- **Kimin için:** Windows işletim sisteminde verimliliğini artırmak ve sistemini daha fazla kişiselleştirmek isteyen tüm kullanıcılar için uygundur. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/microsoft/PowerToys)
+
+## İlgili sözlük terimleri
+Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -3,20 +3,24 @@
 Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel desk) yönetimi sunan açık kaynaklı bir platformdur. Intercom ve Zendesk gibi ticari yazılımlara alternatif olarak geliştirilen bu araç, müşteri etkileşimlerini tek bir merkezden yönetmeyi sağlar.
 
 - ★ 30.493
-- Ruby
 - GitHub Trending · 2026-06-12
 
 ## Ne kazandırır?
 - Tüm müşteri kanallarını tek bir gelen kutusunda birleştirir.
 - Yapay zeka desteğiyle rutin soruları otomatik yanıtlar.
-- Kendi kendine barındırma seçeneğiyle veri kontrolü sağlar.
+- Kendi sunucunuzda barındırarak müşteri verileri üzerinde tam kontrol sağlar.
 
-## Nasıl başlanır?
+## Kurulum
 
-Chatwoot kurulumu için Heroku veya DigitalOcean üzerindeki tek tıkla dağıtım butonlarını kullanabilirsiniz. Detaylı kurulum seçenekleri ve ortam değişkenleri ayarları için resmî web sitesindeki dağıtım sayfasını ve yardım merkezini ziyaret edebilirsiniz.
-- [Resmî kaynak →](https://www.chatwoot.com/help-center)
+**Docker Compose (self-hosted)**
 
-- **Kimin için:** Müşteri etkileşimlerini tek bir merkezden yönetmek ve destek süreçlerini otomatize etmek isteyen işletmeler için uygundur. 
+```
+git clone https://github.com/chatwoot/chatwoot.git && cd chatwoot && docker compose up -d
+```
+
+Kaynak: developers.chatwoot.com/self-hosted/deployment/docker (resmî)
+
+- **Kimin için:** Müşteri destek süreçlerini tek bir merkezden yönetmek ve verileri üzerinde tam kontrol sahibi olmak isteyen işletmeler için uygundur. 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/chatwoot/chatwoot)

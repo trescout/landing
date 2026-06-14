@@ -946,7 +946,7 @@
     "slug": "paddleocr",
     "title": "PaddleOCR",
     "tagline": "PaddlePaddle tarafından geliştirilen PaddleOCR, PDF ve görsel belgeleri büyük dil modelleri (large language models) için…",
-    "meta": "★ 80.160 · Python",
+    "meta": "★ 80.160",
     "image": "/assets/discover/og/paddleocr.webp",
     "source": "GitHub",
     "date": "2026-06-05",
@@ -956,8 +956,15 @@
     ],
     "stars": 80160,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Python (pip)",
+          "komut": "pip install paddleocr"
+        }
+      ],
+      "kaynak": "PyPI · paddleocr (resmî paket)"
+    }
   },
   {
     "slug": "spec-kit",
@@ -1007,7 +1014,7 @@
     "slug": "copilot-sdk",
     "title": "Copilot SDK",
     "tagline": "GitHub Copilot SDK, geliştiricilerin GitHub Copilot yapay zekâ ajanlarını kendi uygulama ve hizmetlerine entegre etmelerini…",
-    "meta": "★ 9.070 · Java",
+    "meta": "★ 9.070",
     "image": "/assets/discover/og/copilot-sdk.webp",
     "source": "GitHub",
     "date": "2026-06-05",
@@ -1017,8 +1024,15 @@
     ],
     "stars": 9070,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Node.js (npm)",
+          "komut": "npm install @github/copilot-sdk"
+        }
+      ],
+      "kaynak": "npm · @github/copilot-sdk · docs.github.com (resmî)"
+    }
   },
   {
     "slug": "openclaw-windows-node",
@@ -1068,7 +1082,7 @@
     "slug": "agent-reach",
     "title": "Agent-Reach",
     "tagline": "Agent-Reach, yapay zekâ ajanlarına internetin tamamını tarama ve içerik okuma yeteneği kazandıran bir komut satırı arayüzü…",
-    "meta": "★ 21.757 · Python",
+    "meta": "★ 21.757",
     "image": "/assets/discover/og/agent-reach.webp",
     "source": "GitHub",
     "date": "2026-06-06",
@@ -1078,8 +1092,25 @@
     ],
     "stars": 21757,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Python (pip)",
+          "komut": "pip install agent-reach"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Kanalları kur",
+          "komut": "agent-reach install"
+        },
+        {
+          "baslik": "Durum kontrolü",
+          "komut": "agent-reach doctor"
+        }
+      ],
+      "kaynak": "Agent-Reach · docs/install.md (resmî)"
+    }
   },
   {
     "slug": "mirofish",
@@ -1161,7 +1192,7 @@
     "slug": "svelte",
     "title": "Svelte",
     "tagline": "Svelte, geleneksel çerçevelerin aksine tarayıcıda çalışma zamanı (runtime) yükünü azaltan bir derleme zamanı (compile-time)…",
-    "meta": "★ 87.060 · JavaScript",
+    "meta": "★ 87.060",
     "image": "/assets/discover/og/svelte.webp",
     "source": "GitHub",
     "date": "2026-06-07",
@@ -1170,8 +1201,15 @@
     ],
     "stars": 87060,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Yeni proje (resmî CLI)",
+          "komut": "npx sv create"
+        }
+      ],
+      "kaynak": "svelte.dev (resmî CLI)"
+    }
   },
   {
     "slug": "nginx",
@@ -1191,7 +1229,7 @@
     "slug": "go",
     "title": "GO",
     "tagline": "Google tarafından geliştirilen Go programlama dili, yüksek performanslı ve ölçeklenebilir yazılımlar oluşturmak için…",
-    "meta": "★ 134.555 · Go",
+    "meta": "★ 134.555",
     "image": "/assets/discover/og/go.webp",
     "source": "GitHub",
     "date": "2026-06-07",
@@ -1200,8 +1238,19 @@
     ],
     "stars": 134555,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install go"
+        },
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install GoLang.Go"
+        }
+      ],
+      "kaynak": "go.dev/doc/install (resmî) · veya go.dev/dl'den indirin"
+    }
   },
   {
     "slug": "career-ops",
@@ -1237,7 +1286,7 @@
     "slug": "vite",
     "title": "Vite",
     "tagline": "Vite, modern web projeleri için hızlı bir geliştirme ortamı ve derleme aracı (build tool) sunuyor.",
-    "meta": "★ 81.238 · TypeScript",
+    "meta": "★ 81.238",
     "image": "/assets/discover/og/vite.webp",
     "source": "GitHub",
     "date": "2026-06-07",
@@ -1246,8 +1295,15 @@
     ],
     "stars": 81238,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Yeni proje (npm)",
+          "komut": "npm create vite@latest"
+        }
+      ],
+      "kaynak": "vite.dev (resmî dokümantasyon)"
+    }
   },
   {
     "slug": "mxc",
@@ -1284,7 +1340,7 @@
     "slug": "opencv",
     "title": "Opencv",
     "tagline": "Açık kaynak kodlu bilgisayarlı görü kütüphanesi (computer vision library) olan OpenCV, görüntü işleme ve makine öğrenmesi…",
-    "meta": "★ 88.274 · C++",
+    "meta": "★ 88.274",
     "image": "/assets/discover/og/opencv.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -1293,8 +1349,15 @@
     ],
     "stars": 88274,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Python (pip)",
+          "komut": "pip install opencv-python"
+        }
+      ],
+      "kaynak": "PyPI · opencv-python (resmî paket)"
+    }
   },
   {
     "slug": "aitoearn",
@@ -1367,9 +1430,7 @@
       "Geliştirici aracı"
     ],
     "stars": 72765,
-    "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "lite": false
   },
   {
     "slug": "tolaria",
@@ -1389,7 +1450,7 @@
     "slug": "ghosttrack",
     "title": "GhostTrack",
     "tagline": "Python tabanlı GhostTrack, mobil numaralar üzerinden konum takibi yapılmasına olanak tanıyan bir araçtır.",
-    "meta": "★ 13.874 · Python",
+    "meta": "★ 13.874",
     "image": "/assets/discover/og/ghosttrack.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -1398,8 +1459,21 @@
     ],
     "stars": 13874,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Klonla + bağımlılıklar (Linux · Python 3)",
+          "komut": "git clone https://github.com/HunxByts/GhostTrack.git && cd GhostTrack && pip3 install -r requirements.txt"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Çalıştır",
+          "komut": "python3 GhostTR.py"
+        }
+      ],
+      "kaynak": "GhostTrack README (resmî)"
+    }
   },
   {
     "slug": "pg-durable",
@@ -1504,9 +1578,7 @@
       "Geliştirici aracı"
     ],
     "stars": 139309,
-    "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "lite": false
   },
   {
     "slug": "openmed",
@@ -1630,7 +1702,7 @@
     "slug": "restic",
     "title": "Restic",
     "tagline": "Go diliyle geliştirilen Restic, verileri şifreleyerek hızlı ve verimli bir şekilde yedekleyen açık kaynaklı bir yedekleme…",
-    "meta": "★ 34.273 · Go",
+    "meta": "★ 34.273",
     "image": "/assets/discover/og/restic.webp",
     "source": "GitHub",
     "date": "2026-06-12",
@@ -1639,8 +1711,19 @@
     ],
     "stars": 34273,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install restic"
+        },
+        {
+          "baslik": "Debian/Ubuntu",
+          "komut": "apt install restic"
+        }
+      ],
+      "kaynak": "restic.readthedocs.io (resmî)"
+    }
   },
   {
     "slug": "agency-agents",
@@ -1661,7 +1744,7 @@
     "slug": "chatwoot",
     "title": "Chatwoot",
     "tagline": "Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel desk) yönetimi sunan açık kaynaklı bir…",
-    "meta": "★ 30.493 · Ruby",
+    "meta": "★ 30.493",
     "image": "/assets/discover/og/chatwoot.webp",
     "source": "GitHub",
     "date": "2026-06-12",
@@ -1670,8 +1753,15 @@
     ],
     "stars": 30493,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker Compose (self-hosted)",
+          "komut": "git clone https://github.com/chatwoot/chatwoot.git && cd chatwoot && docker compose up -d"
+        }
+      ],
+      "kaynak": "developers.chatwoot.com/self-hosted/deployment/docker (resmî)"
+    }
   },
   {
     "slug": "agentsview",
@@ -1721,7 +1811,7 @@
     "slug": "mattermost",
     "title": "Mattermost",
     "tagline": "Mattermost, yazılım geliştirme yaşam döngüsü boyunca güvenli iş birliği sağlamak amacıyla tasarlanmış açık kaynaklı bir…",
-    "meta": "★ 37.444 · TypeScript",
+    "meta": "★ 37.444",
     "image": "/assets/discover/og/mattermost.webp",
     "source": "GitHub",
     "date": "2026-06-12",
@@ -1730,8 +1820,15 @@
     ],
     "stars": 37444,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker (önizleme)",
+          "komut": "docker run --name mattermost-preview -d --publish 8065:8065 mattermost/mattermost-preview"
+        }
+      ],
+      "kaynak": "docs.mattermost.com (resmî · önizleme imajı)"
+    }
   },
   {
     "slug": "fanqiang",
@@ -1745,15 +1842,13 @@
       "Geliştirici aracı"
     ],
     "stars": 47142,
-    "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "lite": false
   },
   {
     "slug": "server",
     "title": "Server",
     "tagline": "Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya…",
-    "meta": "★ 1.857 · Python",
+    "meta": "★ 1.857",
     "image": "/assets/discover/og/server.webp",
     "source": "GitHub",
     "date": "2026-06-13",
@@ -1762,8 +1857,15 @@
     ],
     "stars": 1857,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker",
+          "komut": "docker run --network host --privileged -v ma-data:/data ghcr.io/music-assistant/server"
+        }
+      ],
+      "kaynak": "music-assistant.io/installation (resmî · Home Assistant eklentisi de mevcut)"
+    }
   },
   {
     "slug": "iptv",
@@ -1777,9 +1879,7 @@
       "Geliştirici aracı"
     ],
     "stars": 118170,
-    "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "lite": false
   },
   {
     "slug": "lmcache",
@@ -1800,7 +1900,7 @@
     "slug": "powertoys",
     "title": "PowerToys",
     "tagline": "Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştirmeyi artırmak amacıyla geliştirilen bir yardımcı…",
-    "meta": "★ 134.431 · C",
+    "meta": "★ 134.431",
     "image": "/assets/discover/og/powertoys.webp",
     "source": "GitHub",
     "date": "2026-06-13",
@@ -1809,8 +1909,15 @@
     ],
     "stars": 134431,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install Microsoft.PowerToys"
+        }
+      ],
+      "kaynak": "Microsoft Learn (resmî)"
+    }
   },
   {
     "slug": "aisuite",
@@ -1831,7 +1938,7 @@
     "slug": "swc",
     "title": "SWC",
     "tagline": "Rust diliyle geliştirilen SWC, web projeleri için hızlı bir derleme (compilation) ve paketleme (bundling) platformu sunuyor.",
-    "meta": "★ 33.681 · Rust",
+    "meta": "★ 33.681",
     "image": "/assets/discover/og/swc.webp",
     "source": "GitHub",
     "date": "2026-06-14",
@@ -1840,7 +1947,14 @@
     ],
     "stars": 33681,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Proje bağımlılığı (npm)",
+          "komut": "npm i -D @swc/core"
+        }
+      ],
+      "kaynak": "swc.rs (resmî dokümantasyon)"
+    }
   }
 ]

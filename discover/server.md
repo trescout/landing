@@ -3,20 +3,24 @@
 Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu yazılımı, sürekli çalışan cihazlar üzerinde merkezi bir müzik yönetim sistemi oluşturulmasını sağlar.
 
 - ★ 1.857
-- Python
 - GitHub Trending · 2026-06-13
 
 ## Ne kazandırır?
 - Dijital müzik servislerini tek bir arayüzde birleştirir.
-- Bağlı hoparlörleri merkezi bir sistem üzerinden yönetmenizi sağlar.
-- Home Assistant ile entegre çalışarak otomasyon desteği sunar.
+- Farklı marka hoparlörleri merkezi olarak yönetmenizi sağlar.
+- Ev otomasyon sistemleriyle entegre çalışarak müzik yönetimini kolaylaştırır.
 
-## Nasıl başlanır?
+## Kurulum
 
-Music Assistant kurulumu için resmî dokümantasyon sayfasını ziyaret etmeniz gerekmektedir. Kurulum süreci, Home Assistant eklentisi veya Docker konteyneri üzerinden gerçekleştirilmektedir; detaylı adımlar için https://music-assistant.io/installation/ adresindeki kılavuzu takip edebilirsiniz.
-- [Resmî kaynak →](https://music-assistant.io)
+**Docker**
 
-- **Kimin için:** Dijital müzik kütüphanesini merkezi bir sistem üzerinden yönetmek ve farklı hoparlörlerini tek bir arayüzde birleştirmek isteyen kullanıcılar içindir. 
+```
+docker run --network host --privileged -v ma-data:/data ghcr.io/music-assistant/server
+```
+
+Kaynak: music-assistant.io/installation (resmî · Home Assistant eklentisi de mevcut)
+
+- **Kimin için:** Dijital müzik servislerini ve farklı hoparlör sistemlerini tek bir merkezden yönetmek isteyen ev otomasyonu kullanıcıları içindir. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar

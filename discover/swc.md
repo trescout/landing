@@ -3,20 +3,24 @@
 Rust diliyle geliştirilen SWC, web projeleri için hızlı bir derleme (compilation) ve paketleme (bundling) platformu sunuyor. JavaScript ve TypeScript dosyalarını yüksek performansla işleyerek modern web geliştirme süreçlerini hızlandırıyor.
 
 - ★ 33.681
-- Rust
 - GitHub Trending · 2026-06-14
 
 ## Ne kazandırır?
-- JavaScript ve TypeScript dosyalarını yüksek hızda derler.
-- Rust diliyle geliştirilmiş performans odaklı bir yapı sunar.
-- Modern web geliştirme süreçlerini hızlandırmak için optimize edilmiştir.
+- JavaScript ve TypeScript dosyalarını yüksek hızla derler.
+- Rust diliyle geliştirilmiş performans odaklı bir altyapı sunar.
+- Web geliştirme süreçlerini hızlandırmak için optimize edilmiştir.
 
-## Nasıl başlanır?
+## Kurulum
 
-SWC kullanmaya başlamak için resmî web sitesi olan swc.rs adresini ziyaret etmelisiniz. JavaScript projelerinde kullanım detayları ve kurulum adımları için sitedeki dokümantasyon bölümünü inceleyerek projenize uygun yapılandırmayı öğrenebilirsiniz.
-- [Resmî kaynak →](https://swc.rs)
+**Proje bağımlılığı (npm)**
 
-- **Kimin için:** Web projelerinde derleme ve paketleme süreçlerini hızlandırmak isteyen JavaScript ve TypeScript geliştiricileri için uygundur. 
+```
+npm i -D @swc/core
+```
+
+Kaynak: swc.rs (resmî dokümantasyon)
+
+- **Kimin için:** Web projelerinde derleme ve paketleme süreçlerini yüksek performansla yönetmek isteyen JavaScript, TypeScript ve Rust geliştiricileri içindir. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar
