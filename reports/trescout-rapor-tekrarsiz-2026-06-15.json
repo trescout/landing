@@ -1,0 +1,164 @@
+{
+  "date": "2026-06-15",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "summary": "freeCodeCamp, matematik, programlama ve bilgisayar bilimi konularında ücretsiz eğitim materyalleri sunan açık kaynaklı bir öğrenme platformudur. TypeScript diliyle geliştirilen bu proje, kullanıcıların yazılım geliştirme becerilerini uygulamalı müfredat üzerinden edinmelerini sağlar.",
+          "meta": "TypeScript · ★ 447.139 · +253 bugün"
+        },
+        {
+          "title": "pytest-dev/pytest",
+          "url": "https://github.com/pytest-dev/pytest",
+          "summary": "Pytest, Python projelerinde küçük ölçekli birim testlerinden (unit testing) karmaşık işlevsel testlere kadar geniş bir yelpazeyi destekleyen bir test çerçevesidir (testing framework). Geliştiricilerin daha az kodla daha kapsamlı testler yazmasına olanak tanıyan yapısı sayesinde yazılım geliştirme süreçlerinde standart bir araç haline gelmiştir.",
+          "meta": "Python · ★ 14.015 · +8 bugün"
+        },
+        {
+          "title": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "summary": "Meshery, bulut yerlisi (cloud native) altyapıların yönetimi için tasarlanmış bir hizmet ağı (service mesh) yönetim platformudur. Platform, karmaşık bulut ortamlarında yapılandırma, yaşam döngüsü yönetimi ve performans analizi süreçlerini tek bir merkezden yürütmeyi sağlar.",
+          "meta": "TypeScript · ★ 10.384 · +45 bugün"
+        },
+        {
+          "title": "cypress-io/cypress",
+          "url": "https://github.com/cypress-io/cypress",
+          "summary": "Cypress, tarayıcı tabanlı uygulamalar için uçtan uca test (end-to-end testing) süreçlerini hızlandıran ve kolaylaştıran bir otomasyon çerçevesidir (framework). TypeScript ile geliştirilen bu araç, web uygulamalarının güvenilirliğini artırmak adına geliştiricilere hızlı hata ayıklama ve test yönetimi imkânı sunar.",
+          "meta": "TypeScript · ★ 49.912 · +121 bugün"
+        },
+        {
+          "title": "GorvGoyl/Clone-Wars",
+          "url": "https://github.com/GorvGoyl/Clone-Wars",
+          "summary": "Clone-Wars, Airbnb, Instagram ve Netflix gibi popüler platformların 100'den fazla açık kaynaklı kopyasını (clone) tek bir çatı altında topluyor. Geliştiriciler, projelerin kaynak kodlarına, teknoloji yığınlarına (tech stack) ve canlı demo bağlantılarına erişerek uygulama mimarilerini inceleyebiliyor.",
+          "meta": "★ 35.393 · +337 bugün"
+        },
+        {
+          "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "summary": "Otonom robotlara giriş (Introduction to Autonomous Robots) projesi, robotik sistemlerin temel prensiplerini ve algoritmik yapılarını akademik bir yaklaşımla sunuyor. TeX dilinde hazırlanan bu kaynak, otonom hareket ve sistem tasarımı konularında teknik bir rehberlik sağlıyor.",
+          "meta": "TeX · ★ 2.681 · +276 bugün"
+        },
+        {
+          "title": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "summary": "Free-TV projesi, dünya genelindeki ücretsiz televizyon kanallarını listeleyen M3U çalma listelerini (playlist) bir araya getiriyor. Kullanıcılar, bu açık kaynaklı veri setini kullanarak farklı medya oynatıcılar üzerinden canlı yayınlara erişebiliyor.",
+          "meta": "Python · ★ 16.902 · +52 bugün"
+        },
+        {
+          "title": "puppeteer/puppeteer",
+          "url": "https://github.com/puppeteer/puppeteer",
+          "summary": "Puppeteer, Chrome ve Firefox tarayıcılarını kontrol etmek için kullanılan bir tarayıcı otomasyonu (browser automation) kütüphanesidir. TypeScript ile geliştirilen bu araç, web sayfaları üzerinde test otomasyonu ve veri kazıma (web scraping) işlemleri için standart bir arayüz sunar.",
+          "meta": "TypeScript · ★ 94.629 · +59 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Firewood Splitting Simulator",
+          "url": "https://screen.toys/firewood/",
+          "summary": "Tarayıcı tabanlı odun kırma simülatörü (firewood splitting simulator), fizik tabanlı etkileşimleri basit bir arayüzle birleştirerek kullanıcıya dijital bir deneyim sunuyor. Web teknolojileri kullanılarak geliştirilen bu araç, karmaşık olmayan mekaniklerle etkileşimli dijital oyuncak (digital toy) kategorisinde yer alıyor.",
+          "meta": "545 oy · 181 yorum"
+        },
+        {
+          "title": "Not everyone is using AI for everything",
+          "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+          "summary": "Kullanıcılar yapay zekâ araçlarını her iş akışına dahil etmek yerine, yalnızca belirli ve somut görevler için seçici bir şekilde kullanıyor. Bu eğilim, yapay zekânın genel bir çözümden ziyade, verimlilik artırıcı bir araç (tool) olarak konumlandığını gösteriyor.",
+          "meta": "388 oy · 418 yorum"
+        },
+        {
+          "title": "How to earn a billion dollars",
+          "url": "https://paulgraham.com/earn.html",
+          "summary": "Paul Graham, bir milyar dolar kazanmanın temelinde ölçeklenebilir ve yüksek talep gören bir değer yaratmanın yattığını belirtiyor. Bu süreçte, insanların ihtiyaç duyduğu ancak henüz çözülmemiş problemleri hedefleyen bir girişim kurmanın ve bu girişimi büyüterek piyasa değerine dönüştürmenin gerekliliğini vurguluyor.",
+          "meta": "375 oy · 1.133 yorum"
+        },
+        {
+          "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+          "url": "https://github.com/tamnd/kage",
+          "summary": "Kage, web sitelerini çevrimdışı görüntüleme amacıyla tek bir çalıştırılabilir dosyaya (binary) dönüştüren bir araçtır. Web sayfalarını yerel bir ortamda arşivleyerek internet bağlantısı olmadan erişilebilir kılmayı hedefler.",
+          "meta": "304 oy · 62 yorum"
+        },
+        {
+          "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+          "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+          "summary": "Rio de Janeiro merkezli bir girişim tarafından geliştirildiği iddia edilen Nex-N2 isimli büyük dil modeli (large language model), mevcut açık kaynaklı modellerin birleştirilmiş bir sürümü (model merge) olduğu gerekçesiyle tartışma yarattı. Teknik analizler, modelin mimari yapısının ve ağırlık dosyalarının başka bir modelle büyük oranda örtüştüğünü ortaya koyuyor.",
+          "meta": "234 oy · 128 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IPTV",
+      "explanation": "Televizyon yayınlarının geleneksel anten veya uydu yerine internet bağlantısı üzerinden izlenmesini sağlayan sistem."
+    },
+    {
+      "term": "unit testing",
+      "explanation": "Yazılımın en küçük parçalarının beklendiği gibi çalışıp çalışmadığını kontrol etmek için yapılan testler."
+    },
+    {
+      "term": "testing framework",
+      "explanation": "Yazılım testlerini daha hızlı ve düzenli yapmanızı sağlayan hazır araçlar bütünü."
+    },
+    {
+      "term": "Rust",
+      "explanation": "Hafıza güvenliğini ön planda tutan, sistem programlama için kullanılan modern ve hızlı bir yazılım dili."
+    },
+    {
+      "term": "compiler",
+      "explanation": "Yazılımcının yazdığı kodları bilgisayarın anlayabileceği makine diline çeviren program."
+    },
+    {
+      "term": "omni-channel desk",
+      "explanation": "Müşteri destek taleplerinin sosyal medya, e-posta ve telefon gibi tüm kanallardan tek bir merkezde toplandığı yönetim sistemi."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir kişinin belirli bir alanda sahip olduğu teknik bilgi ve uygulama yetenekleri."
+    },
+    {
+      "term": "cloud native",
+      "explanation": "Bulut bilişim ortamlarının sunduğu imkanlardan tam verim alacak şekilde tasarlanmış uygulamalar."
+    },
+    {
+      "term": "service mesh",
+      "explanation": "Karmaşık yazılım sistemlerinde farklı parçaların birbirleriyle güvenli ve düzenli iletişim kurmasını sağlayan ağ katmanı."
+    },
+    {
+      "term": "end-to-end testing",
+      "explanation": "Bir uygulamanın baştan sona tüm işleyişinin, gerçek bir kullanıcı gibi davranılarak test edilmesi."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, temel yapıları hazır sunan bir çalışma iskeleti."
+    },
+    {
+      "term": "clone",
+      "explanation": "İnternetteki bir yazılım projesinin tüm dosyalarını kendi bilgisayarınıza kopyalama işlemi."
+    },
+    {
+      "term": "tech stack",
+      "explanation": "Bir yazılım projesini oluşturmak için kullanılan tüm programlama dilleri, veritabanları ve araçların toplamı."
+    },
+    {
+      "term": "Introduction to Autonomous Robots",
+      "explanation": "Dışarıdan müdahale olmadan kendi kararlarını verip hareket edebilen makinelerin çalışma prensiplerine giriş eğitimi."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Çok geniş verilerle eğitilmiş, metin yazmadan görsel oluşturmaya kadar pek çok farklı işi yapabilen temel yapay zekâ modelleri."
+    },
+    {
+      "term": "playlist",
+      "explanation": "Dijital ortamda dinlenen veya izlenen içeriklerin belirli bir sırayla oynatılmak üzere bir araya getirildiği liste."
+    }
+  ]
+}
