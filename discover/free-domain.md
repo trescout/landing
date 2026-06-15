@@ -1,4 +1,4 @@
-# Ücretsiz alan adı.
+# Ücretsiz Alan Adı Alın
 
 FreeDomain , herkesin dijital bir kimliğe sahip olabilmesi için ücretsiz alan adı hizmeti sunar. Benzersiz bir adres kaydedebilir ve Cloudflare gibi dilediğiniz DNS sağlayıcısıyla yönetebilirsiniz. Web'de var olmanın maliyetini sıfıra indirin.
 

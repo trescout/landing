@@ -1,4 +1,4 @@
-# Claude'a hazır beceriler.
+# Claude için dinamik beceriler geliştirin
 
 Anthropic Skills ; Claude'un özel görevlerde daha yüksek performans göstermek için dinamik olarak yüklediği beceri paketlerinin resmi deposudur. Talimatlar, scriptler ve kaynaklardan oluşan bu klasörler, Claude'a belirli işleri nasıl yapacağını öğretir.
 

@@ -1,4 +1,4 @@
-# Claude'u işinizin uzmanı yapın.
+# Claude ile Uzman Asistan Deneyimi
 
 Anthropic tarafından sunulan bu açık kaynaklı eklenti seti, her iş fonksiyonu için beceriler, bağlayıcılar, slash komutları ve alt-ajanları bir araya getirir. Claude'un o işin uzmanı gibi davranmasını sağlayan bu çözüm, Claude Cowork için tasarlanmış 11 hazır eklenti içerir.
 
@@ -47,7 +47,7 @@ Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabi
 - [Claude Cowork →](https://claude.com/product/cowork)
 
 ## İlgili sözlük terimleri
-Open Source Artificial Intelligence 
+Plugins Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

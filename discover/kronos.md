@@ -1,4 +1,4 @@
-# Piyasaların dilini çözen model.
+# Finansal Piyasaları Analiz Eden Model
 
 Kronos , finansal piyasaların kendine has örüntülerini çözümlemek için tasarlanmış bir temel modeldir (foundation model) . Piyasa verilerinin karmaşık yapısını analiz etmeye odaklanır ve kantitatif finans ile makine öğrenmesi çalışmalarında kullanılır.
 

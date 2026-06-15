@@ -1,4 +1,4 @@
-# Belgeleri hızlıca ayrıştır.
+# Belgelerinizi Rust ile hızlıca ayrıştırın
 
 Liteparse (run-llama); belgeleri hızlı ve verimli bir şekilde ayrıştırmak için Rust ile yazılmış açık kaynak bir belge ayrıştırıcıdır. Karmaşık doküman yapılarını işlenebilir hale getirerek AI ve RAG süreçlerinde kolaylık sağlar.
 

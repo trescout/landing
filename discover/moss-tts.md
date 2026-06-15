@@ -1,4 +1,4 @@
-# Metni gerçekçi sese çevir.
+# Doğal ve Akıcı Sesler Üretin
 
 MOSS-TTS (MOSI.AI ve OpenMOSS); yüksek sadakatli konuşma ve ses üretimi sağlayan açık kaynak bir model ailesidir. Uzun metinli konuşma sentezi, çoklu konuşmacı desteği ve gerçek zamanlı akış gibi senaryolar için çözümler sunar.
 

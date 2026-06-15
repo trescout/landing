@@ -12,7 +12,8 @@
       "Geliştirici aracı",
       "Kod bilmeyenler için"
     ],
-    "stars": 35132
+    "stars": 35132,
+    "headline": "Kodlarınızı Yapay Zekayla Sorgulayın"
   },
   {
     "slug": "ecc",
@@ -26,7 +27,8 @@
       "Geliştirici aracı"
     ],
     "stars": 194032,
-    "image": "/assets/discover/og/ecc.webp"
+    "image": "/assets/discover/og/ecc.webp",
+    "headline": "Yapay Zeka Ajanlarınıza Güç Katın"
   },
   {
     "slug": "ai-engineering-from-scratch",
@@ -40,7 +42,8 @@
       "Geliştirici aracı"
     ],
     "stars": 20435,
-    "image": "/assets/discover/og/ai-engineering-from-scratch.webp"
+    "image": "/assets/discover/og/ai-engineering-from-scratch.webp",
+    "headline": "Sıfırdan Yapay Zeka Mühendisliği Eğitimi"
   },
   {
     "slug": "knowledge-work-plugins",
@@ -55,7 +58,8 @@
       "Kod bilmeyenler için"
     ],
     "stars": 16517,
-    "image": "/assets/discover/og/knowledge-work-plugins.webp"
+    "image": "/assets/discover/og/knowledge-work-plugins.webp",
+    "headline": "Claude ile Uzman Asistan Deneyimi"
   },
   {
     "slug": "anthropic-cybersecurity-skills",
@@ -69,7 +73,8 @@
       "Geliştirici aracı"
     ],
     "stars": 9924,
-    "image": "/assets/discover/og/anthropic-cybersecurity-skills.webp"
+    "image": "/assets/discover/og/anthropic-cybersecurity-skills.webp",
+    "headline": "Yapay zeka için siber güvenlik becerileri"
   },
   {
     "slug": "stop-slop",
@@ -84,7 +89,8 @@
       "Kod bilmeyenler için"
     ],
     "stars": 4876,
-    "image": "/assets/discover/og/stop-slop.webp"
+    "image": "/assets/discover/og/stop-slop.webp",
+    "headline": "Yapay zeka metinlerini doğallaştırın"
   },
   {
     "slug": "taste-skill",
@@ -98,7 +104,8 @@
       "Geliştirici aracı"
     ],
     "stars": 21137,
-    "image": "/assets/discover/og/taste-skill.webp"
+    "image": "/assets/discover/og/taste-skill.webp",
+    "headline": "Yapay Zeka Tasarımlarını Profesyonelleştirin"
   },
   {
     "slug": "free-domain",
@@ -112,7 +119,8 @@
       "Kod bilmeyenler için"
     ],
     "stars": 166947,
-    "image": "/assets/discover/og/free-domain.webp"
+    "image": "/assets/discover/og/free-domain.webp",
+    "headline": "Ücretsiz Alan Adı Alın"
   },
   {
     "slug": "jellyfin",
@@ -126,7 +134,8 @@
       "Kod bilmeyenler için"
     ],
     "stars": 52316,
-    "image": "/assets/discover/og/jellyfin.webp"
+    "image": "/assets/discover/og/jellyfin.webp",
+    "headline": "Kendi Medya Sunucunuzu Kurun"
   },
   {
     "slug": "awesome-free-apps",
@@ -140,7 +149,8 @@
       "Kod bilmeyenler için"
     ],
     "stars": 5121,
-    "image": "/assets/discover/og/awesome-free-apps.webp"
+    "image": "/assets/discover/og/awesome-free-apps.webp",
+    "headline": "En İyi Ücretsiz Uygulama Seçkisi"
   },
   {
     "slug": "twenty",
@@ -154,7 +164,8 @@
       "Geliştirici aracı"
     ],
     "stars": 46735,
-    "image": "/assets/discover/og/twenty.webp"
+    "image": "/assets/discover/og/twenty.webp",
+    "headline": "Modern ve Açık Kaynaklı CRM"
   },
   {
     "slug": "openstock",
@@ -168,7 +179,8 @@
       "Kod bilmeyenler için"
     ],
     "stars": 11968,
-    "image": "/assets/discover/og/openstock.webp"
+    "image": "/assets/discover/og/openstock.webp",
+    "headline": "Borsa Verilerini Ücretsiz Takip Edin"
   },
   {
     "slug": "claude-mem",
@@ -182,7 +194,8 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "image": "/assets/discover/og/claude-mem.webp"
+    "image": "/assets/discover/og/claude-mem.webp",
+    "headline": "AI Ajanınıza Kalıcı Hafıza Kazandırın"
   },
   {
     "slug": "ppf-contact-solver",
@@ -195,7 +208,8 @@
       "Geliştirici aracı"
     ],
     "stars": 3389,
-    "image": "/assets/discover/og/ppf-contact-solver.webp"
+    "image": "/assets/discover/og/ppf-contact-solver.webp",
+    "headline": "Fizik Simülasyonlarında Temasları Yönetin"
   },
   {
     "slug": "moneyprinterturbo",
@@ -209,7 +223,8 @@
       "AI ajan araçları"
     ],
     "stars": 62104,
-    "image": "/assets/discover/og/moneyprinterturbo.webp"
+    "image": "/assets/discover/og/moneyprinterturbo.webp",
+    "headline": "Tek tuşla yapay zeka videoları üretin"
   },
   {
     "slug": "heretic",
@@ -222,7 +237,8 @@
       "Geliştirici aracı"
     ],
     "stars": 22018,
-    "image": "/assets/discover/og/heretic.webp"
+    "image": "/assets/discover/og/heretic.webp",
+    "headline": "Dil Modellerinde Güvenlik Sınırlarını Aşın"
   },
   {
     "slug": "kronos",
@@ -235,7 +251,8 @@
       "Geliştirici aracı"
     ],
     "stars": 26888,
-    "image": "/assets/discover/og/kronos.webp"
+    "image": "/assets/discover/og/kronos.webp",
+    "headline": "Finansal Piyasaları Analiz Eden Model"
   },
   {
     "slug": "claude-code-harness",
@@ -249,7 +266,8 @@
       "Geliştirici aracı"
     ],
     "stars": 1838,
-    "image": "/assets/discover/og/claude-code-harness.webp"
+    "image": "/assets/discover/og/claude-code-harness.webp",
+    "headline": "Claude Code ile Disiplinli Geliştirme"
   },
   {
     "slug": "superpowers",
@@ -263,7 +281,8 @@
       "Geliştirici aracı"
     ],
     "stars": 209561,
-    "image": "/assets/discover/og/superpowers.webp"
+    "image": "/assets/discover/og/superpowers.webp",
+    "headline": "Kodlama Ajanları İçin Gelişmiş Metodoloji"
   },
   {
     "slug": "english-level-up-tips",
@@ -277,7 +296,8 @@
       "Kod bilmeyenler için"
     ],
     "stars": 46723,
-    "image": "/assets/discover/og/english-level-up-tips.webp"
+    "image": "/assets/discover/og/english-level-up-tips.webp",
+    "headline": "İngilizcenizi İleri Seviyeye Taşıyın"
   },
   {
     "slug": "iii",
@@ -290,7 +310,8 @@
       "Geliştirici aracı"
     ],
     "stars": 16881,
-    "image": "/assets/discover/og/iii.webp"
+    "image": "/assets/discover/og/iii.webp",
+    "headline": "Servislerinizi Gerçek Zamanlı Yönetin"
   },
   {
     "slug": "airi",
@@ -304,7 +325,8 @@
       "Üretkenlik"
     ],
     "stars": 40222,
-    "image": "/assets/discover/og/airi.webp"
+    "image": "/assets/discover/og/airi.webp",
+    "headline": "Kendi Sesli Yapay Zeka Karakterinizi Oluşturun"
   },
   {
     "slug": "markitdown",
@@ -318,7 +340,8 @@
       "Geliştirici aracı",
       "Üretkenlik"
     ],
-    "image": "/assets/discover/og/markitdown.webp"
+    "image": "/assets/discover/og/markitdown.webp",
+    "headline": "Belgelerinizi Yapay Zekaya Hazırlayın"
   },
   {
     "slug": "harness",
@@ -332,7 +355,8 @@
       "Geliştirici aracı"
     ],
     "stars": 4063,
-    "image": "/assets/discover/og/harness.webp"
+    "image": "/assets/discover/og/harness.webp",
+    "headline": "Claude Code için uzman ajanlar tasarlayın"
   },
   {
     "slug": "build-your-own-x",
@@ -346,7 +370,8 @@
       "Geliştirici aracı"
     ],
     "stars": 506894,
-    "image": "/assets/discover/og/build-your-own-x.webp"
+    "image": "/assets/discover/og/build-your-own-x.webp",
+    "headline": "Kendi Teknolojilerinizi Sıfırdan İnşa Edin"
   },
   {
     "slug": "crawl4ai",
@@ -360,7 +385,8 @@
       "AI ajan araçları"
     ],
     "stars": 67194,
-    "image": "/assets/discover/og/crawl4ai.webp"
+    "image": "/assets/discover/og/crawl4ai.webp",
+    "headline": "Web Verilerini Yapay Zekaya Hazırlayın"
   },
   {
     "slug": "moss-tts",
@@ -373,7 +399,8 @@
       "Geliştirici aracı"
     ],
     "stars": 2440,
-    "image": "/assets/discover/og/moss-tts.webp"
+    "image": "/assets/discover/og/moss-tts.webp",
+    "headline": "Doğal ve Akıcı Sesler Üretin"
   },
   {
     "slug": "compound-engineering-plugin",
@@ -387,7 +414,8 @@
       "Geliştirici aracı"
     ],
     "stars": 17931,
-    "image": "/assets/discover/og/compound-engineering-plugin.webp"
+    "image": "/assets/discover/og/compound-engineering-plugin.webp",
+    "headline": "Yapay Zeka Destekli Mühendislik Süreçleri"
   },
   {
     "slug": "anthropic-skills",
@@ -401,7 +429,8 @@
       "Geliştirici aracı"
     ],
     "stars": 143307,
-    "image": "/assets/discover/og/anthropic-skills.webp"
+    "image": "/assets/discover/og/anthropic-skills.webp",
+    "headline": "Claude için dinamik beceriler geliştirin"
   },
   {
     "slug": "claude-code",
@@ -415,7 +444,8 @@
       "Geliştirici aracı"
     ],
     "stars": 128283,
-    "image": "/assets/discover/og/claude-code.webp"
+    "image": "/assets/discover/og/claude-code.webp",
+    "headline": "Terminalde Yapay Zeka Destekli Kodlama"
   },
   {
     "slug": "cursor-plugins",
@@ -428,7 +458,8 @@
       "Geliştirici aracı"
     ],
     "stars": 1403,
-    "image": "/assets/discover/og/cursor-plugins.webp"
+    "image": "/assets/discover/og/cursor-plugins.webp",
+    "headline": "Cursor Editörünü Eklentilerle Özelleştirin"
   },
   {
     "slug": "voxcpm",
@@ -441,7 +472,8 @@
       "Geliştirici aracı"
     ],
     "stars": 22648,
-    "image": "/assets/discover/og/voxcpm.webp"
+    "image": "/assets/discover/og/voxcpm.webp",
+    "headline": "Belirteçsiz Çok Dilli Ses Tasarımı"
   },
   {
     "slug": "stable-worldmodel",
@@ -454,7 +486,8 @@
       "Geliştirici aracı"
     ],
     "stars": 1403,
-    "image": "/assets/discover/og/stable-worldmodel.webp"
+    "image": "/assets/discover/og/stable-worldmodel.webp",
+    "headline": "Dünya Modeli Araştırmalarını Hızlandırın"
   },
   {
     "slug": "project-nomad",
@@ -468,7 +501,8 @@
       "Kod bilmeyenler için"
     ],
     "stars": 27228,
-    "image": "/assets/discover/og/project-nomad.webp"
+    "image": "/assets/discover/og/project-nomad.webp",
+    "headline": "İnternetsiz Hayatta Kalma Bilgisayarı"
   },
   {
     "slug": "liteparse",
@@ -481,7 +515,8 @@
       "Geliştirici aracı"
     ],
     "stars": 7781,
-    "image": "/assets/discover/og/liteparse.webp"
+    "image": "/assets/discover/og/liteparse.webp",
+    "headline": "Belgelerinizi Rust ile hızlıca ayrıştırın"
   },
   {
     "slug": "flclash",
@@ -495,7 +530,8 @@
       "Kod bilmeyenler için"
     ],
     "stars": 40313,
-    "image": "/assets/discover/og/flclash.webp"
+    "image": "/assets/discover/og/flclash.webp",
+    "headline": "Açık kaynaklı modern proxy istemcisi"
   },
   {
     "slug": "train-llm-from-scratch",
@@ -509,7 +545,8 @@
       "Geliştirici aracı"
     ],
     "stars": 2086,
-    "image": "/assets/discover/og/train-llm-from-scratch.webp"
+    "image": "/assets/discover/og/train-llm-from-scratch.webp",
+    "headline": "Sıfırdan Kendi LLM Modelini Eğit"
   },
   {
     "slug": "ruview",
@@ -522,7 +559,8 @@
       "Geliştirici aracı"
     ],
     "stars": 68643,
-    "image": "/assets/discover/og/ruview.webp"
+    "image": "/assets/discover/og/ruview.webp",
+    "headline": "WiFi Sinyalleriyle Mekansal Zeka Kazanın"
   },
   {
     "slug": "data-engineering-zoomcamp",
@@ -536,7 +574,8 @@
       "Geliştirici aracı"
     ],
     "stars": 41734,
-    "image": "/assets/discover/og/data-engineering-zoomcamp.webp"
+    "image": "/assets/discover/og/data-engineering-zoomcamp.webp",
+    "headline": "Veri Mühendisliğinde Uzmanlaşın"
   },
   {
     "slug": "social-auto-upload",
@@ -549,7 +588,8 @@
       "Üretkenlik"
     ],
     "stars": 11705,
-    "image": "/assets/discover/og/social-auto-upload.webp"
+    "image": "/assets/discover/og/social-auto-upload.webp",
+    "headline": "Videolarınızı Tüm Platformlara Otomatik Yükleyin"
   },
   {
     "slug": "scrapling",

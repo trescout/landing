@@ -1,4 +1,4 @@
-# Dünya modeli araştırması.
+# Dünya Modeli Araştırmalarını Hızlandırın
 
 stable-worldmodel ; 'dünya modelleri' (world models) üzerine yapılan araştırmaların tekrarlanabilir ve karşılaştırılabilir olmasını sağlayan bir platformdur. Özellikle araştırma ve değerlendirme süreçlerine odaklanır.
 

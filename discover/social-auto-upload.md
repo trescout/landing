@@ -1,4 +1,4 @@
-# Videoları otomatik yükle.
+# Videolarınızı Tüm Platformlara Otomatik Yükleyin
 
 social-auto-upload , videolarınızı TikTok, YouTube, Bilibili, Douyin ve Xiaohongshu gibi sosyal medya platformlarına otomatik olarak yükleyen bir Python aracıdır. Çok platformlu içerik dağıtım süreçlerinizi kolaylaştırır.
 

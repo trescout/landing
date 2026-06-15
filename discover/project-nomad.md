@@ -1,4 +1,4 @@
-# İnternetsiz her şey yanında.
+# İnternetsiz Hayatta Kalma Bilgisayarı
 
 Project N.O.M.A.D ; internet bağlantısı gerektirmeyen, kritik araçlar, bilgi kaynakları ve yapay zekâ ile donatılmış kendi kendine yeten, çevrimdışı bir bilgisayar kurma projesidir. Acil durumlar ve internetin olmadığı senaryolar için özel olarak tasarlanmıştır.
 

@@ -1,4 +1,4 @@
-# Metni doğal sese çevir.
+# Belirteçsiz Çok Dilli Ses Tasarımı
 
 VoxCPM ; çok dilli konuşma üretimi, yaratıcı ses tasarımı ve gerçekçi ses kopyalama (voice cloning) işlemleri için geliştirilmiş, belirteçsiz (tokenizer-free) açık kaynak bir TTS modelidir.
 

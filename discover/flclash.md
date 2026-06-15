@@ -1,4 +1,4 @@
-# Çok platformlu proxy istemcisi.
+# Açık kaynaklı modern proxy istemcisi
 
 FlClash ; ClashMeta tabanlı, çok platformlu bir proxy (vekil sunucu) istemcisidir. Dart ile geliştirilmiş olup reklamsız, kullanıcı dostu ve açık kaynaklı bir yapıya sahiptir.
 

@@ -1,4 +1,4 @@
-# AI ajan ekipleri tasarlayın.
+# Claude Code için uzman ajanlar tasarlayın
 
 Harness , Claude Code'un ajan ekip sistemini kullanarak karmaşık görevleri uzmanlaşmış ajanlardan oluşan koordineli ekiplere böler. 'Şunun için bir harness kur' komutuyla, gereken ekibi ve becerileri sizin için tasarlar.
 

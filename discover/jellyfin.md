@@ -1,4 +1,4 @@
-# Kendi medya sunucunuz.
+# Kendi Medya Sunucunuzu Kurun
 
 Jellyfin , kendi film, dizi ve müzik koleksiyonunuzu yönetip tüm cihazlarınıza yayınlamanızı sağlayan özgür bir medya sunucusudur. Plex ve Emby'ye alternatif olan bu platformda premium kilitler, reklamlar veya gizli ücretler bulunmaz.
 

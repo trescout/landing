@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir. Açık kaynak ve teknoloji trendlerini Türkçe takip etmek isteyenler için.
 
-Son güncelleme: 2026-06-14 · 130 araç · 166 terim
+Son güncelleme: 2026-06-15 · 130 araç · 166 terim
 
 ## Teknoloji Sözlüğü
 

@@ -1,4 +1,4 @@
-# WiFi sinyalini mekânsal zekâya çevir.
+# WiFi Sinyalleriyle Mekansal Zeka Kazanın
 
 RuView , sıradan WiFi sinyallerini kullanarak kamera olmadan gerçek zamanlı mekânsal zekâ, hayati bulgu takibi ve varlık algılama işlemleri gerçekleştirir. Rust ile geliştirilmiş açık kaynak bir projedir.
 
