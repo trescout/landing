@@ -1,4 +1,4 @@
-# AI Ajanınıza Kalıcı Hafıza Kazandırın
+# yapay zekâ Ajanınıza Kalıcı Hafıza Kazandırın
 
 claude-mem , AI ajanlarınızın oturumlar arası hatırlama yapabilmesini sağlar. Bir oturumda gerçekleşen her şeyi yakalar, AI ile anlamlı özetlere dönüştürür ve sonraki oturumda ilgili bağlamı geri sunar. Claude Code, Codex, Gemini, Copilot ve OpenCode ile uyumludur.
 
