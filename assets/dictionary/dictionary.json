@@ -1160,5 +1160,19 @@
     "full": "",
     "cat": "ai",
     "kisa": "İnsan müdahalesi olmadan, çevresini algılayıp kendi kararlarını vererek hareket edebilen makinelerdir."
+  },
+  {
+    "slug": "security-scanner",
+    "en": "Security Scanner",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım veya ağ sistemlerindeki güvenlik açıklarını otomatik olarak tespit eden bir araçtır."
+  },
+  {
+    "slug": "open-source-clones",
+    "en": "Open-Source Clones",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Popüler yazılımların kaynak kodlarının herkesin erişimine açık şekilde kopyalanarak oluşturulan benzerleridir."
   }
 ]
