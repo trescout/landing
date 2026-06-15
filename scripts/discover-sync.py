@@ -383,7 +383,8 @@ HEADLINE_SYS=("Sen TreScout için Türkçe içerik editörüsün. Verilen GitHub
   "abartı/hype yok; em dash (—) YASAK. 'AI/yapay zeka' yerine MUTLAKA 'yapay zekâ' (şapkalı â, küçük harf) yaz. "
   "ÇIKTI yalnızca JSON: {\"baslik\":\"...\"}. Başka metin yok.")
 def normalize_headline(s):
-    """Marka düzeltmeleri · 'Yapay Zeka/Zekayla' → 'yapay zekâ...' (şapkalı â, küçük harf); em dash → ·"""
+    """Marka düzeltmeleri · 'AI' → 'yapay zekâ'; 'Yapay Zeka/Zekayla' → 'yapay zekâ...' (şapkalı, küçük); em dash → ·"""
+    s=re.sub(r'\bAI\b','yapay zekâ',s)
     s=re.sub(r'(?i)yapay\s+zek[aâ](\w*)', lambda m: 'yapay zekâ'+m.group(1), s)
     return s.replace('—','·').strip()
 
