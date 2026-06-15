@@ -5,6 +5,7 @@
   .arch-eyebrow { font-size: 12px; letter-spacing: .22em; text-transform: uppercase; color: var(--accent); font-weight: 700; margin-bottom: 14px; }
   .arch-title { font-family: Georgia, 'Times New Roman', serif; font-size: clamp(30px,6vw,44px); line-height: 1.1; font-weight: 700; letter-spacing: -.015em; color: #fff; }
   .arch-intro { margin-top: 14px; font-size: 16px; color: var(--ink-muted); max-width: 60ch; }
+  .arch-tabs { display: flex; gap: 10px; margin-top: 20px; flex-wrap: wrap; }
   .arch-list { margin-top: 36px; display: grid; gap: 14px; }
   .card { display: flex; gap: 16px; align-items: stretch; padding: 20px; background: var(--bg-elevated); border: 1px solid rgba(95,168,211,0.16); border-radius: 14px; transition: border-color .15s, transform .12s; }
   .card:hover { border-color: var(--brand-light); transform: translateY(-1px); }
