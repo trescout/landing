@@ -15,6 +15,10 @@ on:
         description: "Keşif reprocess · virgülle slug listesi (catalog'a elle cmds eklenince sayfayı yeniden render eder). Boş = sadece normal büyüme."
         required: false
         default: ''
+      headlines_limit:
+        description: "Başlık backfill · başlığı olmayan KAÇ girdiye editöryel H1 üretilsin (0 = atla). Batch için ör. 40."
+        required: false
+        default: '0'
 
 permissions:
   contents: write
@@ -62,6 +66,15 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           SLUGS: ${{ github.event.inputs.reprocess_slugs }}
         run: python3 scripts/discover-sync.py --reprocess="$SLUGS"
+
+      # Editöryel başlık backfill · başlığı olmayan girdilere detay-sayfası H1 üretir
+      # (liste kartları repo adında kalır). Limit env üzerinden · enjeksiyon yok.
+      - name: Keşif başlık backfill (elle · editöryel H1)
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.headlines_limit != '' && github.event.inputs.headlines_limit != '0' }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LIMIT: ${{ github.event.inputs.headlines_limit }}
+        run: python3 scripts/discover-sync.py --headlines --limit="$LIMIT"
 
       - name: Çapraz-linkleri yenile (keşif ↔ sözlük)
         run: python3 scripts/cross-link.py
