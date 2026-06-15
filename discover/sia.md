@@ -1,4 +1,4 @@
-# SIA
+# yapay zekâ modellerini otonom test edin
 
 SIA, yapay zekâ modellerinin ve ajanların belirli kıyaslama görevlerindeki (benchmark tasks) performanslarını otonom şekilde artırmak için geliştirilen bir öz-iyileştiren yapay zekâ (self-improving AI) çerçevesidir. Python tabanlı bu sistem, yapay zekâ sistemlerinin kendi çıktılarını analiz ederek süreçlerini optimize etmesini sağlar.
 

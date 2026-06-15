@@ -1,4 +1,4 @@
-# freeCodeCamp
+# Yazılım dünyasına ücretsiz adım atın
 
 freeCodeCamp, matematik, programlama ve bilgisayar bilimi konularında ücretsiz eğitim materyalleri sunan açık kaynaklı bir öğrenme platformudur. TypeScript diliyle geliştirilen bu proje, kullanıcıların yazılım geliştirme becerilerini uygulamalı müfredat üzerinden edinmelerini sağlar.
 

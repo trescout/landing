@@ -1,4 +1,4 @@
-# Ajanları kontrol altında tut.
+# yapay zekâ ajanlarınızı hatasız yönetin
 
 Babysitter , yapay zekâ ajanlarından oluşan iş gücünün karmaşık görevleri hatasız ve halüsinasyonsuz bir şekilde yürütebilmesi için deterministik bir denetim mekanizması sunar.
 

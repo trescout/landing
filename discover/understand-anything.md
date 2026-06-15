@@ -1,4 +1,4 @@
-# Kodlarınızı Yapay Zekayla Sorgulayın
+# Kodlarınızı yapay zekâyla Sorgulayın
 
 Karşınızda tanımadığınız 200.000 satırlık bir kod tabanı veya devasa bir doküman arşivi mi var? Understand Anything , tüm bu içeriği içine girip soru sorabileceğiniz bir haritaya dönüştürür. Claude Code, Codex, Antigravity ve Gemini CLI ile uyumlu çalışır.
 

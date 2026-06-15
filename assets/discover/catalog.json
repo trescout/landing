@@ -13,7 +13,7 @@
       "Kod bilmeyenler için"
     ],
     "stars": 35132,
-    "headline": "Kodlarınızı Yapay Zekayla Sorgulayın"
+    "headline": "Kodlarınızı yapay zekâyla Sorgulayın"
   },
   {
     "slug": "ecc",
@@ -28,7 +28,7 @@
     ],
     "stars": 194032,
     "image": "/assets/discover/og/ecc.webp",
-    "headline": "Yapay Zeka Ajanlarınıza Güç Katın"
+    "headline": "yapay zekâ Ajanlarınıza Güç Katın"
   },
   {
     "slug": "ai-engineering-from-scratch",
@@ -43,7 +43,7 @@
     ],
     "stars": 20435,
     "image": "/assets/discover/og/ai-engineering-from-scratch.webp",
-    "headline": "Sıfırdan Yapay Zeka Mühendisliği Eğitimi"
+    "headline": "Sıfırdan yapay zekâ Mühendisliği Eğitimi"
   },
   {
     "slug": "knowledge-work-plugins",
@@ -74,7 +74,7 @@
     ],
     "stars": 9924,
     "image": "/assets/discover/og/anthropic-cybersecurity-skills.webp",
-    "headline": "Yapay zeka için siber güvenlik becerileri"
+    "headline": "yapay zekâ için siber güvenlik becerileri"
   },
   {
     "slug": "stop-slop",
@@ -90,7 +90,7 @@
     ],
     "stars": 4876,
     "image": "/assets/discover/og/stop-slop.webp",
-    "headline": "Yapay zeka metinlerini doğallaştırın"
+    "headline": "yapay zekâ metinlerini doğallaştırın"
   },
   {
     "slug": "taste-skill",
@@ -105,7 +105,7 @@
     ],
     "stars": 21137,
     "image": "/assets/discover/og/taste-skill.webp",
-    "headline": "Yapay Zeka Tasarımlarını Profesyonelleştirin"
+    "headline": "yapay zekâ Tasarımlarını Profesyonelleştirin"
   },
   {
     "slug": "free-domain",
@@ -224,7 +224,7 @@
     ],
     "stars": 62104,
     "image": "/assets/discover/og/moneyprinterturbo.webp",
-    "headline": "Tek tuşla yapay zeka videoları üretin"
+    "headline": "Tek tuşla yapay zekâ videoları üretin"
   },
   {
     "slug": "heretic",
@@ -326,7 +326,7 @@
     ],
     "stars": 40222,
     "image": "/assets/discover/og/airi.webp",
-    "headline": "Kendi Sesli Yapay Zeka Karakterinizi Oluşturun"
+    "headline": "Kendi Sesli yapay zekâ Karakterinizi Oluşturun"
   },
   {
     "slug": "markitdown",
@@ -341,7 +341,7 @@
       "Üretkenlik"
     ],
     "image": "/assets/discover/og/markitdown.webp",
-    "headline": "Belgelerinizi Yapay Zekaya Hazırlayın"
+    "headline": "Belgelerinizi yapay zekâya Hazırlayın"
   },
   {
     "slug": "harness",
@@ -386,7 +386,7 @@
     ],
     "stars": 67194,
     "image": "/assets/discover/og/crawl4ai.webp",
-    "headline": "Web Verilerini Yapay Zekaya Hazırlayın"
+    "headline": "Web Verilerini yapay zekâya Hazırlayın"
   },
   {
     "slug": "moss-tts",
@@ -415,7 +415,7 @@
     ],
     "stars": 17931,
     "image": "/assets/discover/og/compound-engineering-plugin.webp",
-    "headline": "Yapay Zeka Destekli Mühendislik Süreçleri"
+    "headline": "yapay zekâ Destekli Mühendislik Süreçleri"
   },
   {
     "slug": "anthropic-skills",
@@ -445,7 +445,7 @@
     ],
     "stars": 128283,
     "image": "/assets/discover/og/claude-code.webp",
-    "headline": "Terminalde Yapay Zeka Destekli Kodlama"
+    "headline": "Terminalde yapay zekâ Destekli Kodlama"
   },
   {
     "slug": "cursor-plugins",
@@ -602,7 +602,8 @@
       "Geliştirici aracı"
     ],
     "stars": 57333,
-    "image": "/assets/discover/og/scrapling.webp"
+    "image": "/assets/discover/og/scrapling.webp",
+    "headline": "Esnek web kazıma ile verilerinizi çekin"
   },
   {
     "slug": "hermes-webui",
@@ -616,7 +617,8 @@
       "Geliştirici aracı"
     ],
     "stars": 10353,
-    "image": "/assets/discover/og/hermes-webui.webp"
+    "image": "/assets/discover/og/hermes-webui.webp",
+    "headline": "yapay zekâ ajanlarınızı webden yönetin"
   },
   {
     "slug": "github-docs",
@@ -630,7 +632,8 @@
       "Öğrenme"
     ],
     "stars": 19817,
-    "image": "/assets/discover/og/github-docs.webp"
+    "image": "/assets/discover/og/github-docs.webp",
+    "headline": "GitHub dokümantasyonuna katkıda bulunun"
   },
   {
     "slug": "supermemory",
@@ -644,7 +647,8 @@
       "Geliştirici aracı"
     ],
     "stars": 23582,
-    "image": "/assets/discover/og/supermemory.webp"
+    "image": "/assets/discover/og/supermemory.webp",
+    "headline": "yapay zekâ için akıllı bellek"
   },
   {
     "slug": "babysitter",
@@ -658,7 +662,8 @@
       "Geliştirici aracı"
     ],
     "stars": 1101,
-    "image": "/assets/discover/og/babysitter.webp"
+    "image": "/assets/discover/og/babysitter.webp",
+    "headline": "yapay zekâ ajanlarınızı hatasız yönetin"
   },
   {
     "slug": "pi-subagents",
@@ -672,7 +677,8 @@
       "Geliştirici aracı"
     ],
     "stars": 1951,
-    "image": "/assets/discover/og/pi-subagents.webp"
+    "image": "/assets/discover/og/pi-subagents.webp",
+    "headline": "yapay zekâ ile asenkron görev yönetimi"
   },
   {
     "slug": "developer-portfolios",
@@ -686,7 +692,8 @@
       "Kod bilmeyenler için"
     ],
     "stars": 23623,
-    "image": "/assets/discover/og/developer-portfolios.webp"
+    "image": "/assets/discover/og/developer-portfolios.webp",
+    "headline": "İlham Veren Geliştirici Portfolyoları"
   },
   {
     "slug": "impeccable",
@@ -701,7 +708,8 @@
       "Geliştirici aracı"
     ],
     "stars": 33104,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ tasarımlarınızı mükemmelleştirin"
   },
   {
     "slug": "tradingagents",
@@ -716,7 +724,8 @@
       "Geliştirici aracı"
     ],
     "stars": 82054,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ile akıllı borsa işlemleri"
   },
   {
     "slug": "godot",
@@ -750,7 +759,8 @@
         }
       ],
       "kaynak": "Homebrew · winget (resmî paket yöneticileri) · veya godotengine.org'dan indirin"
-    }
+    },
+    "headline": "Açık kaynakla oyununuzu geliştirin"
   },
   {
     "slug": "oh-my-pi",
@@ -765,7 +775,8 @@
       "Geliştirici aracı"
     ],
     "stars": 9701,
-    "lite": false
+    "lite": false,
+    "headline": "Terminalde yapay zekâ destekli kodlama"
   },
   {
     "slug": "machine-learning-for-trading",
@@ -789,7 +800,8 @@
         }
       ],
       "kaynak": "Resmî kurulum dokümanı (depo installation/ klasörü)"
-    }
+    },
+    "headline": "Algoritmik ticarette yapay zekâ rehberi"
   },
   {
     "slug": "fff",
@@ -804,7 +816,8 @@
       "Geliştirici aracı"
     ],
     "stars": 7319,
-    "lite": false
+    "lite": false,
+    "headline": "Dosya aramada yapay zekâ hızı"
   },
   {
     "slug": "headroom",
@@ -819,7 +832,8 @@
       "Geliştirici aracı"
     ],
     "stars": 7746,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ çıktılarınızı analiz edin"
   },
   {
     "slug": "flowsint",
@@ -833,7 +847,8 @@
       "Geliştirici aracı"
     ],
     "stars": 4693,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ile siber tehditleri görselleştirin"
   },
   {
     "slug": "production-agentic-rag-course",
@@ -848,7 +863,8 @@
       "Geliştirici aracı"
     ],
     "stars": 6536,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ile akıllı veri getirme"
   },
   {
     "slug": "open-llm-vtuber",
@@ -878,7 +894,8 @@
         }
       ],
       "kaynak": "Resmî dokümantasyon (docs.llmvtuber.com)"
-    }
+    },
+    "headline": "yapay zekâ ile canlı avatarlar"
   },
   {
     "slug": "trivy",
@@ -892,7 +909,8 @@
       "Geliştirici aracı"
     ],
     "stars": 35511,
-    "lite": false
+    "lite": false,
+    "headline": "Konteyner ve Bulut Güvenliğinizi yapay zekâ ile Koruyun"
   },
   {
     "slug": "hermes-agent",
@@ -907,7 +925,8 @@
       "Geliştirici aracı"
     ],
     "stars": 179808,
-    "lite": false
+    "lite": false,
+    "headline": "Kullanıcı Etkileşimleriyle Gelişen yapay zekâ"
   },
   {
     "slug": "opendataloader-pdf",
@@ -922,7 +941,8 @@
       "Geliştirici aracı"
     ],
     "stars": 23530,
-    "lite": false
+    "lite": false,
+    "headline": "PDF verilerini yapay zekâya hazırlayın"
   },
   {
     "slug": "odoo",
@@ -936,7 +956,8 @@
       "Geliştirici aracı"
     ],
     "stars": 52082,
-    "lite": false
+    "lite": false,
+    "headline": "İş süreçlerinizi yapay zekâ ile yönetin"
   },
   {
     "slug": "coding-interview-university",
@@ -950,7 +971,8 @@
       "Geliştirici aracı"
     ],
     "stars": 349290,
-    "lite": false
+    "lite": false,
+    "headline": "Yazılım mülakatlarına yapay zekâ desteğiyle hazırlanın"
   },
   {
     "slug": "airllm",
@@ -965,7 +987,8 @@
       "Geliştirici aracı"
     ],
     "stars": 19113,
-    "lite": false
+    "lite": false,
+    "headline": "Dev yapay zekâ modellerini 4GB VRAM ile çalıştırın"
   },
   {
     "slug": "vibe-trading",
@@ -980,7 +1003,8 @@
       "Geliştirici aracı"
     ],
     "stars": 10343,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ile kişisel alım satım"
   },
   {
     "slug": "paddleocr",
@@ -1004,7 +1028,8 @@
         }
       ],
       "kaynak": "PyPI · paddleocr (resmî paket)"
-    }
+    },
+    "headline": "Belgeleri yapay zekâ ile dijitalleştirin"
   },
   {
     "slug": "spec-kit",
@@ -1018,7 +1043,8 @@
       "Geliştirici aracı"
     ],
     "stars": 108801,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ile şartname odaklı geliştirme"
   },
   {
     "slug": "cosmos",
@@ -1033,7 +1059,8 @@
       "Geliştirici aracı"
     ],
     "stars": 9173,
-    "lite": false
+    "lite": false,
+    "headline": "Fiziksel sistemler için yapay zekâ modelleri"
   },
   {
     "slug": "open-notebook",
@@ -1048,7 +1075,8 @@
       "Geliştirici aracı"
     ],
     "stars": 25373,
-    "lite": false
+    "lite": false,
+    "headline": "Kendi verilerinizle yapay zekâ asistanı"
   },
   {
     "slug": "copilot-sdk",
@@ -1072,7 +1100,8 @@
         }
       ],
       "kaynak": "npm · @github/copilot-sdk · docs.github.com (resmî)"
-    }
+    },
+    "headline": "Kendi yapay zekâ ajanlarınızı geliştirin"
   },
   {
     "slug": "openclaw-windows-node",
@@ -1086,7 +1115,8 @@
       "Geliştirici aracı"
     ],
     "stars": 1432,
-    "lite": false
+    "lite": false,
+    "headline": "Windows için yapay zekâ düğümü"
   },
   {
     "slug": "last30days-skill",
@@ -1101,7 +1131,8 @@
       "Geliştirici aracı"
     ],
     "stars": 27863,
-    "lite": false
+    "lite": false,
+    "headline": "Son 30 Günün yapay zekâ Destekli Özeti"
   },
   {
     "slug": "copilotkit",
@@ -1116,7 +1147,8 @@
       "Geliştirici aracı"
     ],
     "stars": 32818,
-    "lite": false
+    "lite": false,
+    "headline": "Uygulamalarınız İçin yapay zekâ Arayüzleri"
   },
   {
     "slug": "agent-reach",
@@ -1150,7 +1182,8 @@
         }
       ],
       "kaynak": "Agent-Reach · docs/install.md (resmî)"
-    }
+    },
+    "headline": "yapay zekâ ajanlarına interneti taratın"
   },
   {
     "slug": "mirofish",
@@ -1164,7 +1197,8 @@
       "Geliştirici aracı"
     ],
     "stars": 64830,
-    "lite": false
+    "lite": false,
+    "headline": "Veri Tahmininde Evrensel yapay zekâ"
   },
   {
     "slug": "plugins",
@@ -1179,7 +1213,8 @@
       "Geliştirici aracı"
     ],
     "stars": 1596,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ile güncel verilere erişin"
   },
   {
     "slug": "mempalace",
@@ -1194,7 +1229,8 @@
       "Geliştirici aracı"
     ],
     "stars": 53981,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ modellerine bellek kazandırın"
   },
   {
     "slug": "flue",
@@ -1209,7 +1245,8 @@
       "Geliştirici aracı"
     ],
     "stars": 4594,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ajanları için TypeScript çatısı"
   },
   {
     "slug": "personal-ai-infrastructure",
@@ -1224,7 +1261,8 @@
       "Geliştirici aracı"
     ],
     "stars": 15080,
-    "lite": false
+    "lite": false,
+    "headline": "Kişisel yapay zekâ altyapınızı kurun"
   },
   {
     "slug": "svelte",
@@ -1247,7 +1285,8 @@
         }
       ],
       "kaynak": "svelte.dev (resmî CLI)"
-    }
+    },
+    "headline": "Hızlı web uygulamaları için yapay zekâ destekli derleme"
   },
   {
     "slug": "nginx",
@@ -1261,7 +1300,8 @@
       "Geliştirici aracı"
     ],
     "stars": 30727,
-    "lite": false
+    "lite": false,
+    "headline": "Web Sunucunuzu yapay zekâyla Hızlandırın"
   },
   {
     "slug": "go",
@@ -1288,7 +1328,8 @@
         }
       ],
       "kaynak": "go.dev/doc/install (resmî) · veya go.dev/dl'den indirin"
-    }
+    },
+    "headline": "Yüksek Performanslı Yazılımlar Geliştirin"
   },
   {
     "slug": "career-ops",
@@ -1303,7 +1344,8 @@
       "Geliştirici aracı"
     ],
     "stars": 49580,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ile kariyerinizi yönetin"
   },
   {
     "slug": "whisper",
@@ -1318,7 +1360,8 @@
       "Geliştirici aracı"
     ],
     "stars": 101952,
-    "lite": false
+    "lite": false,
+    "headline": "Sesleri yapay zekâ ile yazıya dökün"
   },
   {
     "slug": "vite",
@@ -1341,7 +1384,8 @@
         }
       ],
       "kaynak": "vite.dev (resmî dokümantasyon)"
-    }
+    },
+    "headline": "Modern Web Projelerini Hızlandırın"
   },
   {
     "slug": "mxc",
@@ -1355,7 +1399,8 @@
       "Geliştirici aracı"
     ],
     "stars": 641,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ile güvenli sistem yalıtımı"
   },
   {
     "slug": "vibevoice",
@@ -1372,7 +1417,8 @@
     "stars": 48569,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "resmî Microsoft repo geri çekildi · doğrulanabilir komut yok"
+    "enrich_reason": "resmî Microsoft repo geri çekildi · doğrulanabilir komut yok",
+    "headline": "Açık kaynaklı yapay zekâ ses çerçevesi"
   },
   {
     "slug": "opencv",
@@ -1395,7 +1441,8 @@
         }
       ],
       "kaynak": "PyPI · opencv-python (resmî paket)"
-    }
+    },
+    "headline": "Görüntü İşleme İçin yapay zekâ Rehberi"
   },
   {
     "slug": "aitoearn",
@@ -1410,7 +1457,8 @@
       "Geliştirici aracı"
     ],
     "stars": 19145,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ile gelir yönetimi"
   },
   {
     "slug": "goose",
@@ -1425,7 +1473,8 @@
       "Geliştirici aracı"
     ],
     "stars": 47753,
-    "lite": false
+    "lite": false,
+    "headline": "Yazılım süreçlerini yapay zekâ ile yönetinşa otomatize edin"
   },
   {
     "slug": "llama-cpp",
@@ -1440,7 +1489,8 @@
       "Geliştirici aracı"
     ],
     "stars": 115499,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ modellerini bilgisayarınızda çalıştırın"
   },
   {
     "slug": "turbovec",
@@ -1454,7 +1504,8 @@
       "Geliştirici aracı"
     ],
     "stars": 7703,
-    "lite": false
+    "lite": false,
+    "headline": "Yüksek performanslı yapay zekâ vektör dizini"
   },
   {
     "slug": "chinatextbook",
@@ -1468,7 +1519,8 @@
       "Geliştirici aracı"
     ],
     "stars": 72765,
-    "lite": false
+    "lite": false,
+    "headline": "Çin eğitim müfredatına yapay zekâ ile erişin"
   },
   {
     "slug": "tolaria",
@@ -1482,7 +1534,8 @@
       "Geliştirici aracı"
     ],
     "stars": 13116,
-    "lite": false
+    "lite": false,
+    "headline": "Markdown notlarınızı yapay zekâ ile düzenleyin"
   },
   {
     "slug": "ghosttrack",
@@ -1511,7 +1564,8 @@
         }
       ],
       "kaynak": "GhostTrack README (resmî)"
-    }
+    },
+    "headline": "Numara ile konum bulmayı kolaylaştırın"
   },
   {
     "slug": "pg-durable",
@@ -1525,7 +1579,8 @@
       "Geliştirici aracı"
     ],
     "stars": 1580,
-    "lite": false
+    "lite": false,
+    "headline": "PostgreSQL ile yapay zekâ süreçlerini yönetin"
   },
   {
     "slug": "skills",
@@ -1540,7 +1595,8 @@
       "Geliştirici aracı"
     ],
     "stars": 12675,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ajanlarını Google ile güçlendirin"
   },
   {
     "slug": "pm-skills",
@@ -1555,7 +1611,8 @@
       "Geliştirici aracı"
     ],
     "stars": 12983,
-    "lite": false
+    "lite": false,
+    "headline": "Ürün yönetimi için yapay zekâ yetenekleri"
   },
   {
     "slug": "whichllm",
@@ -1570,7 +1627,8 @@
       "Geliştirici aracı"
     ],
     "stars": 3679,
-    "lite": false
+    "lite": false,
+    "headline": "Donanımınıza En Uygun yapay zekâ Modelini Bulun"
   },
   {
     "slug": "supervision",
@@ -1584,7 +1642,8 @@
       "Geliştirici aracı"
     ],
     "stars": 42546,
-    "lite": false
+    "lite": false,
+    "headline": "Bilgisayarlı görü projelerinizi yapay zekâ ile hızlandırın"
   },
   {
     "slug": "claude-howto",
@@ -1599,7 +1658,8 @@
       "Geliştirici aracı"
     ],
     "stars": 36008,
-    "lite": false
+    "lite": false,
+    "headline": "Claude Code ile yapay zekâ geliştirin"
   },
   {
     "slug": "system-prompts-and-models-of-ai-tools",
@@ -1614,7 +1674,8 @@
       "Geliştirici aracı"
     ],
     "stars": 139309,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ araçlarının perde arkası"
   },
   {
     "slug": "openmed",
@@ -1629,7 +1690,8 @@
       "Geliştirici aracı"
     ],
     "stars": 2041,
-    "lite": false
+    "lite": false,
+    "headline": "Sağlıkta Açık Kaynak yapay zekâ"
   },
   {
     "slug": "espectre",
@@ -1645,7 +1707,8 @@
     "stars": 8362,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "firmware (ESPHome) · standart pip/npm kurulum komutu yok"
+    "enrich_reason": "firmware (ESPHome) · standart pip/npm kurulum komutu yok",
+    "headline": "Wi-Fi ile yapay zekâ destekli hareket algılama"
   },
   {
     "slug": "agent-skills",
@@ -1660,7 +1723,8 @@
       "Geliştirici aracı"
     ],
     "stars": 50041,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ajanlarına mühendislik yeteneği kazandırın"
   },
   {
     "slug": "maigret",
@@ -1674,7 +1738,8 @@
       "Geliştirici aracı"
     ],
     "stars": 32267,
-    "lite": false
+    "lite": false,
+    "headline": "Kullanıcı adlarıyla dijital iz sürme"
   },
   {
     "slug": "masterdnsvpn",
@@ -1688,7 +1753,8 @@
       "Geliştirici aracı"
     ],
     "stars": 5411,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ile sansürleri aşın"
   },
   {
     "slug": "hivemind",
@@ -1703,7 +1769,8 @@
       "Geliştirici aracı"
     ],
     "stars": 985,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ajanları için merkezi bellek"
   },
   {
     "slug": "container",
@@ -1717,7 +1784,8 @@
       "Geliştirici aracı"
     ],
     "stars": 30453,
-    "lite": false
+    "lite": false,
+    "headline": "Mac üzerinde hızlı Linux sanallaştırma"
   },
   {
     "slug": "skillspector",
@@ -1732,7 +1800,8 @@
       "Geliştirici aracı"
     ],
     "stars": 2967,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ yeteneklerini güvenli kılın"
   },
   {
     "slug": "restic",
@@ -1759,7 +1828,8 @@
         }
       ],
       "kaynak": "restic.readthedocs.io (resmî)"
-    }
+    },
+    "headline": "Verilerinizi Hızlıca Şifreleyerek Yedekleyin"
   },
   {
     "slug": "agency-agents",
@@ -1774,7 +1844,8 @@
       "Geliştirici aracı"
     ],
     "stars": 111887,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ ajanlarıyla dijital ajans kurun"
   },
   {
     "slug": "chatwoot",
@@ -1797,7 +1868,8 @@
         }
       ],
       "kaynak": "developers.chatwoot.com/self-hosted/deployment/docker (resmî)"
-    }
+    },
+    "headline": "Müşteri desteğini yapay zekâ ile yönetin"
   },
   {
     "slug": "agentsview",
@@ -1812,7 +1884,8 @@
       "Geliştirici aracı"
     ],
     "stars": 1867,
-    "lite": false
+    "lite": false,
+    "headline": "Kodlama ajanlarınızı yapay zekâ ile izleyin"
   },
   {
     "slug": "zhangxuefeng-skill",
@@ -1826,7 +1899,8 @@
       "Geliştirici aracı"
     ],
     "stars": 8114,
-    "lite": false
+    "lite": false,
+    "headline": "Kariyer ve Tercih Rehberiniz yapay zekâ"
   },
   {
     "slug": "sia",
@@ -1841,7 +1915,8 @@
       "Geliştirici aracı"
     ],
     "stars": 1478,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ modellerini otonom test edin"
   },
   {
     "slug": "mattermost",
@@ -1864,7 +1939,8 @@
         }
       ],
       "kaynak": "docs.mattermost.com (resmî · önizleme imajı)"
-    }
+    },
+    "headline": "Yazılım ekipleri için güvenli iş birliği"
   },
   {
     "slug": "fanqiang",
@@ -1878,7 +1954,8 @@
       "Geliştirici aracı"
     ],
     "stars": 47142,
-    "lite": false
+    "lite": false,
+    "headline": "İnternet sansürünü yapay zekâ ile aşın"
   },
   {
     "slug": "server",
@@ -1901,7 +1978,8 @@
         }
       ],
       "kaynak": "music-assistant.io/installation (resmî · Home Assistant eklentisi de mevcut)"
-    }
+    },
+    "headline": "Müzik arşivinizi yapay zekâ ile yönetin"
   },
   {
     "slug": "iptv",
@@ -1915,7 +1993,8 @@
       "Geliştirici aracı"
     ],
     "stars": 118170,
-    "lite": false
+    "lite": false,
+    "headline": "Dünya televizyonlarını tek merkezde izleyin"
   },
   {
     "slug": "lmcache",
@@ -1930,7 +2009,8 @@
       "Geliştirici aracı"
     ],
     "stars": 8698,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ modellerinde KV önbelleği yönetimi"
   },
   {
     "slug": "powertoys",
@@ -1953,7 +2033,8 @@
         }
       ],
       "kaynak": "Microsoft Learn (resmî)"
-    }
+    },
+    "headline": "Windows deneyiminizi yapay zekâ ile özelleştirin"
   },
   {
     "slug": "aisuite",
@@ -1968,7 +2049,8 @@
       "Geliştirici aracı"
     ],
     "stars": 14220,
-    "lite": false
+    "lite": false,
+    "headline": "yapay zekâ modellerini tek arayüzde yönetin"
   },
   {
     "slug": "swc",
@@ -1991,7 +2073,8 @@
         }
       ],
       "kaynak": "swc.rs (resmî dokümantasyon)"
-    }
+    },
+    "headline": "Web projelerinizi yapay zekâ hızında derleyin"
   },
   {
     "slug": "freecodecamp",
@@ -2007,7 +2090,8 @@
     "stars": 447139,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "headline": "Yazılım dünyasına ücretsiz adım atın"
   },
   {
     "slug": "pytest",
@@ -2021,7 +2105,8 @@
       "Geliştirici aracı"
     ],
     "stars": 14015,
-    "lite": false
+    "lite": false,
+    "headline": "Python projelerinde test süreçlerini hızlandırın"
   },
   {
     "slug": "meshery",
@@ -2037,7 +2122,8 @@
     "stars": 10384,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "headline": "Bulut yerlisi altyapıları yönetin"
   },
   {
     "slug": "cypress",
@@ -2051,7 +2137,8 @@
       "Geliştirici aracı"
     ],
     "stars": 49912,
-    "lite": false
+    "lite": false,
+    "headline": "Uçtan uca testlerinizi hızlandırın"
   },
   {
     "slug": "clone-wars",
@@ -2067,7 +2154,8 @@
     "stars": 35393,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "headline": "Popüler Platformları yapay zekâyla Kopyalayın"
   },
   {
     "slug": "introduction-to-autonomous-robots",
@@ -2083,7 +2171,8 @@
     "stars": 2681,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "headline": "Otonom Robotik Dünyasına Giriş Yapın"
   },
   {
     "slug": "puppeteer",
@@ -2099,6 +2188,7 @@
     "stars": 94629,
     "lite": false,
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "headline": "Tarayıcı işlemlerini yapay zekâ ile otomatikleştirin"
   }
 ]

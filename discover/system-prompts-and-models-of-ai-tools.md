@@ -1,4 +1,4 @@
-# System Prompts and Models of AI Tools
+# yapay zekâ araçlarının perde arkası
 
 Popüler yapay zekâ araçlarının sistem yönergeleri (system prompts) ve kullanılan dil modelleri (AI models), geliştiricilerin incelemesi için tek bir kaynakta toplanıyor. Bu arşiv, güncel kodlama asistanlarının ve üretken yapay zekâ (generative AI) platformlarının arka planındaki yapılandırma stratejilerini şeffaf bir şekilde ortaya koyuyor.
 

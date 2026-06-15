@@ -1,4 +1,4 @@
-# Machine Learning for Trading
+# Algoritmik ticarette yapay zekâ rehberi
 
 Stefan Jansen tarafından hazırlanan bu kaynak, algoritmik ticarette makine öğrenimi (machine learning) uygulamaları için kapsamlı kod örnekleri ve Jupyter not defterleri sunuyor. Finansal piyasalarda veri analizi ve tahmin modelleri geliştirmek isteyenler için pratik bir rehber niteliği taşıyor.
 
@@ -29,7 +29,7 @@ Kaynak: Resmî kurulum dokümanı (depo installation/ klasörü)
 - [GitHub deposu →](https://github.com/stefan-jansen/machine-learning-for-trading)
 
 ## İlgili sözlük terimleri
-Machine Learning Jupyter Notebooks 
+Machine Learning Jupyter Notebooks Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

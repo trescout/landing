@@ -1,4 +1,4 @@
-# Trivy
+# Konteyner ve Bulut Güvenliğinizi yapay zekâ ile Koruyun
 
 Trivy, konteynerler, Kubernetes kümeleri ve bulut altyapılarındaki güvenlik açıklarını, hatalı yapılandırmaları ve gizli anahtarları (secrets) tespit eden kapsamlı bir güvenlik tarama aracıdır. Yazılım malzeme listesi (SBOM) oluşturma yeteneğiyle geliştirme süreçlerinde güvenlik denetimlerini otomatize eder.
 

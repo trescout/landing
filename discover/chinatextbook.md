@@ -1,4 +1,4 @@
-# ChinaTextbook
+# Çin eğitim müfredatına yapay zekâ ile erişin
 
 ChinaTextbook deposu, ilkokuldan üniversite seviyesine kadar Çin eğitim müfredatında kullanılan ders kitaplarının taşınabilir belge formatındaki (PDF) dijital arşivini sunuyor. Bu kaynak, geniş kapsamlı akademik materyallere merkezi bir erişim noktası sağlıyor.
 
@@ -22,7 +22,7 @@ ChinaTextbook deposunun GitHub sayfasını ziyaret ederek ilkokul, ortaokul, lis
 - [GitHub deposu →](https://github.com/TapXWorld/ChinaTextbook)
 
 ## İlgili sözlük terimleri
-PDF 
+PDF Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

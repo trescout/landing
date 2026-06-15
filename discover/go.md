@@ -1,4 +1,4 @@
-# GO
+# Yüksek Performanslı Yazılımlar Geliştirin
 
 Google tarafından geliştirilen Go programlama dili, yüksek performanslı ve ölçeklenebilir yazılımlar oluşturmak için tasarlanmış açık kaynaklı bir sistem programlama dilidir (system programming language). Eşzamanlılık (concurrency) yönetimi ve hızlı derleme süreleri ile modern bulut bilişim altyapılarında yaygın olarak tercih edilmektedir.
 

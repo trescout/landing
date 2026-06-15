@@ -1,4 +1,4 @@
-# GitHub'ın dokümanları açık.
+# GitHub dokümantasyonuna katkıda bulunun
 
 GitHub Docs , docs.github.com adresindeki belgelerin kaynak kodlarını içeren açık kaynak deposudur. GitHub'ın resmi belgelerine katkıda bulunabilir ve içeriklerin nasıl hazırlandığını inceleyebilirsiniz.
 

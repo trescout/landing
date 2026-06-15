@@ -1,4 +1,4 @@
-# Web'i akıllıca kazı.
+# Esnek web kazıma ile verilerinizi çekin
 
 Scrapling , tek bir istekten geniş kapsamlı tarama işlerine kadar her ölçeği yönetebilen uyarlanabilir bir web kazıma (scraping) çerçevesidir . Sayfa yapısı değişse dahi yüksek uyum sağlamayı hedefler. Python tabanlıdır.
 

@@ -1,4 +1,4 @@
-# Zhangxuefeng Skill
+# Kariyer ve Tercih Rehberiniz yapay zekâ
 
 Zhangxuefeng-skill, üniversite sınavı tercihleri, lisansüstü eğitim ve kariyer planlama süreçleri için yapılandırılmış bir bilişsel işletim sistemi (cognitive operating system) sunuyor. Nuwa.skill altyapısıyla oluşturulan bu proje, karmaşık karar verme süreçlerini pratik bir düşünce çerçevesi (thought framework) ile standartlaştırıyor.
 

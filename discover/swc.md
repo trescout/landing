@@ -1,4 +1,4 @@
-# SWC
+# Web projelerinizi yapay zekâ hızında derleyin
 
 Rust diliyle geliştirilen SWC, web projeleri için hızlı bir derleme (compilation) ve paketleme (bundling) platformu sunuyor. JavaScript ve TypeScript dosyalarını yüksek performansla işleyerek modern web geliştirme süreçlerini hızlandırıyor.
 
@@ -27,7 +27,7 @@ Kaynak: swc.rs (resmî dokümantasyon)
 - [GitHub deposu →](https://github.com/swc-project/swc)
 
 ## İlgili sözlük terimleri
-Compilation Bundling Rust 
+Compilation Bundling Rust Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

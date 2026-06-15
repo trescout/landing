@@ -1,4 +1,4 @@
-# GhostTrack
+# Numara ile konum bulmayı kolaylaştırın
 
 Python tabanlı GhostTrack, mobil numaralar üzerinden konum takibi yapılmasına olanak tanıyan bir araçtır. Açık kaynaklı bu yazılım, hedef numaranın coğrafi verilerini tespit etmek amacıyla geliştirilmiştir.
 

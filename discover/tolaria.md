@@ -1,4 +1,4 @@
-# Tolaria
+# Markdown notlarınızı yapay zekâ ile düzenleyin
 
 Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilen bir masaüstü uygulamasıdır. TypeScript ile yazılan bu araç, kişisel dokümantasyon ve not sistemlerini düzenli bir yapıda tutmayı kolaylaştırır.
 

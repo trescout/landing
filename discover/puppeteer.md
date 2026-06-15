@@ -1,4 +1,4 @@
-# Puppeteer
+# Tarayıcı işlemlerini yapay zekâ ile otomatikleştirin
 
 Puppeteer, Chrome ve Firefox tarayıcılarını kontrol etmek için kullanılan bir tarayıcı otomasyonu (browser automation) kütüphanesidir. TypeScript ile geliştirilen bu araç, web sayfaları üzerinde test otomasyonu ve veri kazıma (web scraping) işlemleri için standart bir arayüz sunar.
 
@@ -23,7 +23,7 @@ Puppeteer kullanmaya başlamak için resmî dokümantasyon sayfasını ziyaret e
 - [GitHub deposu →](https://github.com/puppeteer/puppeteer)
 
 ## İlgili sözlük terimleri
-Web Scraping 
+Web Scraping Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

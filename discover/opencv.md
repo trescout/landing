@@ -1,4 +1,4 @@
-# Opencv
+# Görüntü İşleme İçin yapay zekâ Rehberi
 
 Açık kaynak kodlu bilgisayarlı görü kütüphanesi (computer vision library) olan OpenCV, görüntü işleme ve makine öğrenmesi (machine learning) uygulamaları için geniş kapsamlı araçlar sunuyor. C++ diliyle geliştirilen bu kütüphane, gerçek zamanlı görsel veri analizi süreçlerinde standart bir altyapı görevi görüyor.
 
@@ -27,7 +27,7 @@ Kaynak: PyPI · opencv-python (resmî paket)
 - [GitHub deposu →](https://github.com/opencv/opencv)
 
 ## İlgili sözlük terimleri
-Computer Vision Library Machine Learning Computer Vision Open Source 
+Computer Vision Library Machine Learning Computer Vision Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

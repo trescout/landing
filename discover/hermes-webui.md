@@ -1,4 +1,4 @@
-# Ajanlarını her yerden yönet.
+# yapay zekâ ajanlarınızı webden yönetin
 
 Hermes WebUI , Hermes AI ajanlarını web tarayıcısı veya mobil cihazlar üzerinden yönetmenizi sağlayan bir arayüzdür. Ajan etkileşimlerini tek bir merkezden takip edip kontrol etmenize olanak tanır.
 

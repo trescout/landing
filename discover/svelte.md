@@ -1,4 +1,4 @@
-# Svelte
+# Hızlı web uygulamaları için yapay zekâ destekli derleme
 
 Svelte, geleneksel çerçevelerin aksine tarayıcıda çalışma zamanı (runtime) yükünü azaltan bir derleme zamanı (compile-time) yaklaşımı kullanıyor. Bu JavaScript kütüphanesi, uygulama kodunu küçük ve hızlı çalışan saf JavaScript modüllerine dönüştürerek web geliştirme süreçlerini basitleştiriyor.
 
@@ -27,7 +27,7 @@ Kaynak: svelte.dev (resmî CLI)
 - [GitHub deposu →](https://github.com/sveltejs/svelte)
 
 ## İlgili sözlük terimleri
-Compile-time Runtime CLI 
+Compile-time Runtime CLI Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

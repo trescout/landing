@@ -1,4 +1,4 @@
-# Belgelerinizi Yapay Zekaya Hazırlayın
+# Belgelerinizi yapay zekâya Hazırlayın
 
 MarkItDown (Microsoft); Word, PDF, PowerPoint, Excel ve daha fazlasını büyük dil modellerinin kolayca okuyabileceği temiz Markdown metnine çeviren hafif bir Python aracıdır. Belge içindeki başlıkları, listeleri ve tabloları koruyarak dönüştürür.
 

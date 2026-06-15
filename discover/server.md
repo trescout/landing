@@ -1,4 +1,4 @@
-# Server
+# Müzik arşivinizi yapay zekâ ile yönetin
 
 Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu yazılımı, sürekli çalışan cihazlar üzerinde merkezi bir müzik yönetim sistemi oluşturulmasını sağlar.
 
@@ -25,6 +25,9 @@ Kaynak: music-assistant.io/installation (resmî · Home Assistant eklentisi de m
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/music-assistant/server)
+
+## İlgili sözlük terimleri
+Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

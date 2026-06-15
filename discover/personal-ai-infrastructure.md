@@ -1,4 +1,4 @@
-# Personal_AI_Infrastructure
+# Kişisel yapay zekâ altyapınızı kurun
 
 Kişisel yapay zekâ altyapısı (Personal AI Infrastructure), insan yeteneklerini artırmak amacıyla tasarlanmış ajan tabanlı yapay zekâ (agentic AI) sistemleri oluşturmaya yönelik bir çerçeve sunuyor. TypeScript ile geliştirilen bu yapı, kullanıcıların kendi otonom iş akışlarını yönetmelerini sağlayan modüler bir mimariyi destekliyor.
 

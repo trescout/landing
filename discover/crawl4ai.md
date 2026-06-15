@@ -1,4 +1,4 @@
-# Web Verilerini Yapay Zekaya Hazırlayın
+# Web Verilerini yapay zekâya Hazırlayın
 
 Crawl4AI ; büyük dil modelleri için optimize edilmiş, açık kaynak bir web tarayıcı ve kazıyıcıdır . Web sayfalarını, yapay zekâ modellerinin kolayca işleyebileceği temiz ve yapılandırılmış formatlara (Markdown vb.) dönüştürür.
 

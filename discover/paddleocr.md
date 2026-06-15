@@ -1,4 +1,4 @@
-# PaddleOCR
+# Belgeleri yapay zekâ ile dijitalleştirin
 
 PaddlePaddle tarafından geliştirilen PaddleOCR, PDF ve görsel belgeleri büyük dil modelleri (large language models) için yapılandırılmış veriye dönüştüren hafif bir optik karakter tanıma (optical character recognition) aracıdır. 100'den fazla dili destekleyen bu kütüphane, görsel içerikler ile yapay zekâ modelleri arasındaki veri akışını standartlaştırmaktadır.
 

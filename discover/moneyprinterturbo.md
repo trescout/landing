@@ -1,4 +1,4 @@
-# Tek tuşla yapay zeka videoları üretin
+# Tek tuşla yapay zekâ videoları üretin
 
 MoneyPrinterTurbo , verdiğiniz bir konu veya anahtar kelimeden büyük dil modellerini kullanarak otomatik kısa videolar üretir. Metin, altyazı, arka plan müziği ve görselleri birleştirir. (İsim pazarlama amaçlıdır, bir 'para basma' makinesi değil, içerik üretim aracıdır.)
 
