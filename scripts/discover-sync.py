@@ -223,7 +223,7 @@ ENRICH_SYS=("Sen TreScout için Türkçe içerik editörüsün; kod bilmeyene bi
  "MUTLAK KURALLAR: UYDURMA, sadece README'de geçeni kullan. Komutu SADECE verilen bloklardan BİREBİR al (tek karakter bile değiştirme/ekleme yok); emin değilsen boş bırak. "
  "'siz' dili; em dash (—) YASAK; pazarlama/abartı yok; TreScout bu aracı geliştirmedi, yalnızca tanıtıyor. "
  'ÇIKTI yalnızca JSON: {'
- '"baslik"(aracın ne yaptığını yakalayan KISA çekici Türkçe başlık, 2-6 kelime, blog başlığı gibi; repo adını tekrarlama, abartı/hype yok, em dash yok, nokta opsiyonel · ör. "AI ajanınıza kalıcı hafıza"),'
+ '"baslik"(aracın ne yaptığını yakalayan KISA çekici Türkçe başlık, 2-6 kelime, blog başlığı gibi; repo adını tekrarlama, abartı/hype yok, em dash yok, AI yerine "yapay zekâ" (şapkalı/küçük), nokta opsiyonel · ör. "yapay zekâ ajanınıza kalıcı hafıza"),'
  '"kazanimlar"(3 kısa somut madde),'
  '"kurulum"([{"baslik","komut"}] 0-2, komut SADECE verilen bloklardan birebir),'
  '"calistirma"([{"baslik","komut"}] 0-2, ilk kullanım),'
@@ -369,7 +369,7 @@ def base_entry(n, rich, reason):
        "tags":n["tags"],"stars":n["stars"]}
     if rich:
         c["lite"]=False
-        if rich.get("baslik"): c["headline"]=rich["baslik"].strip()  # detay sayfası editöryel H1
+        if rich.get("baslik"): c["headline"]=normalize_headline(rich["baslik"].strip())  # detay sayfası editöryel H1
         if n.get("shot"): c["shot"]=n["shot"]
         if n.get("cmds"): c["cmds"]=n["cmds"]
         if not (rich.get("kurulum") or rich.get("calistirma") or n.get("cmds")):  # hiç komut yok → kuyrukta (insan komut bulur/ekler, --done ile kapatır)
@@ -380,7 +380,13 @@ def base_entry(n, rich, reason):
 
 HEADLINE_SYS=("Sen TreScout için Türkçe içerik editörüsün. Verilen GitHub aracı için KISA çekici bir başlık yaz: "
   "2-6 kelime, aracın ne yaptığını yakalasın, blog başlığı gibi. 'siz' dili; repo adını tekrarlama; "
-  "abartı/hype yok; em dash (—) YASAK. ÇIKTI yalnızca JSON: {\"baslik\":\"...\"}. Başka metin yok.")
+  "abartı/hype yok; em dash (—) YASAK. 'AI/yapay zeka' yerine MUTLAKA 'yapay zekâ' (şapkalı â, küçük harf) yaz. "
+  "ÇIKTI yalnızca JSON: {\"baslik\":\"...\"}. Başka metin yok.")
+def normalize_headline(s):
+    """Marka düzeltmeleri · 'Yapay Zeka/Zekayla' → 'yapay zekâ...' (şapkalı â, küçük harf); em dash → ·"""
+    s=re.sub(r'(?i)yapay\s+zek[aâ](\w*)', lambda m: 'yapay zekâ'+m.group(1), s)
+    return s.replace('—','·').strip()
+
 def gemini_headline(title,tagline,key):
     """Mevcut girdiler için yalnız başlık üreten küçük çağrı (full enrich'i tekrar etmez)."""
     payload=f"ARAÇ: {title}\nTANIM: {tagline or ''}"
@@ -391,7 +397,7 @@ def gemini_headline(title,tagline,key):
     for attempt in range(4):
         try:
             raw=json.loads(urllib.request.urlopen(req,timeout=60).read().decode())["candidates"][0]["content"]["parts"][0]["text"]
-            b=(json.loads(raw).get("baslik") or "").strip().replace("—","·")  # em dash güvenliği
+            b=normalize_headline((json.loads(raw).get("baslik") or "").strip())
             return b or None
         except urllib.error.HTTPError as e:
             if e.code in (429,500,502,503) and attempt<3: time.sleep((attempt+1)*4); continue
@@ -401,8 +407,28 @@ def gemini_headline(title,tagline,key):
             return None
     return None
 
+def _set_page_headline(c, headline):
+    """Detay sayfasının H1'ini + eyebrow'unu cerrahi güncelle · diğer içerik korunur."""
+    p=os.path.join(DISC,c["slug"],"index.html")
+    if not os.path.exists(p): return
+    html=open(p,encoding="utf-8").read()
+    html=re.sub(r'<h1 class="disc-title">.*?</h1>', f'<h1 class="disc-title">{esc(headline)}</h1>', html, count=1, flags=re.S)
+    if f'GitHub · {esc(c["title"])}' not in html:  # eyebrow'a repo adı ekle (yoksa)
+        html=re.sub(r'(<span class="disc-eyebrow">Keşif · GitHub)(</span>)', rf'\1 · {esc(c["title"])}\2', html, count=1)
+    open(p,"w",encoding="utf-8").write(html)
+
 def headline_backfill(cat, key, limit):
-    """Başlığı olmayan girdilere editöryel H1 üret + sayfayı CERRAHİ güncelle (içeriği bozmadan)."""
+    """1) Mevcut başlıkları normalize et (Gemini'siz · marka). 2) Başlığı olmayanlara üret (limit)."""
+    # 1. Mevcut başlıkları normalize et (ör. 'Yapay Zeka' → 'yapay zekâ')
+    fixed=0
+    for c in cat:
+        if c.get("headline"):
+            nb=normalize_headline(c["headline"])
+            if nb!=c["headline"]:
+                c["headline"]=nb; fixed+=1
+                if not DRY: _set_page_headline(c, nb)
+    if fixed: print(f"  · {fixed} mevcut başlık normalize edildi (marka)")
+    # 2. Başlığı olmayanlara üret
     todo=[c for c in cat if not c.get("headline")][:limit]
     print(f"--headlines · {len(todo)} girdiye başlık üretilecek")
     if DRY:
@@ -412,18 +438,11 @@ def headline_backfill(cat, key, limit):
     for c in todo:
         b=gemini_headline(c["title"], c.get("tagline",""), key)
         if not b: print(f"  ! {c['slug']}: başlık üretilemedi"); continue
-        c["headline"]=b
-        p=os.path.join(DISC,c["slug"],"index.html")
-        if os.path.exists(p):
-            html=open(p,encoding="utf-8").read()
-            html=re.sub(r'<h1 class="disc-title">.*?</h1>', f'<h1 class="disc-title">{esc(b)}</h1>', html, count=1, flags=re.S)
-            if f'GitHub · {esc(c["title"])}' not in html:  # eyebrow'a repo adı ekle (yoksa)
-                html=re.sub(r'(<span class="disc-eyebrow">Keşif · GitHub)(</span>)', rf'\1 · {esc(c["title"])}\2', html, count=1)
-            open(p,"w",encoding="utf-8").write(html)
+        c["headline"]=b; _set_page_headline(c, b)
         n+=1; print(f"  ✓ {c['slug']}: {b}")
         time.sleep(1)  # rate limit
     json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
-    print(f"✅ {n} başlık eklendi · catalog güncellendi")
+    print(f"✅ {n} yeni başlık · {fixed} normalize · catalog güncellendi")
 
 def process_one(n, key):
     """Entry'i zenginleştir + sayfa & kart yaz. Döner: (rich|None, reason|None)."""
