@@ -1,0 +1,255 @@
+{
+  "date": "2026-06-16",
+  "editorial": "Bugünün teknoloji gündeminde açık kaynak kodlu veri yönetimi ve otonom etkileşim sistemleri (autonomous interaction systems) ön planda yer alıyor. GitHub verileri, özellikle bulut yerel (cloud-native) altyapı araçları ve algoritmik öğrenme kaynaklarına olan ilginin istikrarlı bir şekilde arttığını gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "Dünya genelindeki herkese açık internet televizyonu (IPTV) yayınlarını tek bir merkezde toplayan bu proje, kullanıcıların canlı içeriklere erişimini kolaylaştırıyor. Açık kaynaklı veritabanı, farklı bölgelerden gelen kanal listelerini düzenli bir yapıda sunarak medya oynatıcılar için standart bir kaynak oluşturuyor.",
+          "meta": "TypeScript · ★ 123.405 · +2.657 bugün"
+        },
+        {
+          "title": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "summary": "Tesla araç sahipleri için geliştirilen Teslamate, verileri kendi sunucunuzda barındırmanıza olanak tanıyan bir veri kaydedici (data logger) uygulamasıdır. Elixir diliyle yazılan bu açık kaynaklı araç, sürüş geçmişi ve şarj verileri gibi detaylı istatistikleri görselleştirerek kullanıcıya sunar.",
+          "meta": "Elixir · ★ 8.326 · +33 bugün"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach, yapay zekâ ajanlarına internet üzerindeki platformları tarama ve okuma yeteneği kazandıran bir komut satırı arayüzü (CLI) aracıdır. Twitter, Reddit ve GitHub gibi popüler ağlardan veri çekmeyi, herhangi bir uygulama programlama arayüzü (API) ücreti ödemeden mümkün kılar.",
+          "meta": "Python · ★ 31.218 · +1.100 bugün"
+        },
+        {
+          "title": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "summary": "Meshery, bulut yerlisi (cloud native) altyapıların yönetimi için tasarlanmış bir hizmet ağı (service mesh) yönetim aracıdır. Platform, karmaşık mikro hizmet mimarilerini görselleştirmek ve yapılandırmak için merkezi bir kontrol düzlemi sunar.",
+          "meta": "TypeScript · ★ 10.717 · +228 bugün"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot, canlı sohbet ve e-posta desteği gibi özellikleri tek bir platformda toplayan açık kaynaklı bir çok kanallı müşteri destek (omni-channel support) yazılımıdır. Ruby diliyle geliştirilen bu araç, Intercom veya Zendesk gibi tescilli hizmetlere alternatif bir çözüm sunar.",
+          "meta": "Ruby · ★ 31.888 · +431 bugün"
+        },
+        {
+          "title": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "summary": "Hello 算法, veri yapıları ve algoritmaları animasyonlu görselleştirmelerle destekleyerek öğreten açık kaynaklı bir eğitim platformudur. Proje, çok sayıda programlama dili desteği ve tek tıkla çalıştırılabilir kod örnekleri sunarak öğrenme sürecini standartlaştırıyor.",
+          "meta": "Java · ★ 127.220 · +71 bugün"
+        },
+        {
+          "title": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "summary": "freeCodeCamp, matematik, programlama ve bilgisayar bilimi konularında ücretsiz eğitim materyalleri sunan açık kaynaklı bir öğrenme platformudur. TypeScript diliyle geliştirilen proje, kullanıcıların yazılım geliştirme becerilerini uygulamalı müfredat üzerinden edinmelerini sağlar.",
+          "meta": "TypeScript · ★ 448.140 · +736 bugün"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor. Masaüstü işletim sistemlerini kontrol edebilen ajanların eğitimi ve değerlendirilmesi amacıyla kum havuzu (sandbox), yazılım geliştirme kiti (SDK) ve kıyaslama (benchmark) araçlarını tek bir çatı altında topluyor.",
+          "meta": "HTML · ★ 18.298 · +70 bugün"
+        },
+        {
+          "title": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "summary": "Yazılım mühendisi olmak isteyenler için hazırlanan bu çalışma planı, bilgisayar bilimleri (computer science) temellerini ve teknik mülakat hazırlık süreçlerini kapsıyor. GitHub üzerinde geniş bir kaynak havuzu sunan bu rehber, kariyer gelişimi için gereken teorik ve pratik bilgileri yapılandırılmış bir müfredatla birleştiriyor.",
+          "meta": "★ 352.551 · +364 bugün"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Yapay zekâ mühendisliği (AI engineering) temellerini Python üzerinden öğreten bu kaynak, modellerin geliştirilmesinden yayına alınmasına kadar uçtan uca bir süreç sunuyor. Uygulamalı projeler aracılığıyla yapay zekâ sistemlerinin inşa edilmesi ve dağıtılması (deployment) süreçlerini teknik bir çerçevede ele alıyor.",
+          "meta": "Python · ★ 33.448 · +562 bugün"
+        },
+        {
+          "title": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "summary": "Music Assistant, farklı dijital müzik servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu uygulaması, Raspberry Pi veya ağa bağlı depolama (NAS) gibi sürekli çalışan cihazlarda merkezi bir müzik yönetim sistemi oluşturulmasını sağlar.",
+          "meta": "Python · ★ 2.458 · +225 bugün"
+        },
+        {
+          "title": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "summary": "Free-TV/IPTV projesi, dünya genelindeki ücretsiz televizyon kanallarını içeren M3U çalma listelerini (playlist) tek bir kaynakta topluyor. Kullanıcılar, bu listeleri kullanarak çeşitli medya oynatıcılar üzerinden canlı yayınlara erişim sağlayabiliyor.",
+          "meta": "Python · ★ 17.399 · +361 bugün"
+        },
+        {
+          "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "summary": "Otonom robotlara giriş (Introduction to Autonomous Robots) materyalleri, robotik sistemlerin temel prensiplerini ve algoritmik altyapılarını teknik bir çerçevede sunuyor. TeX dilinde hazırlanan bu kaynak, otonom hareket ve sistem tasarımı konularında akademik bir temel oluşturuyor.",
+          "meta": "TeX · ★ 3.147 · +489 bugün"
+        },
+        {
+          "title": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "summary": "Win11Debloat, Windows 10 ve 11 işletim sistemlerinde önceden yüklenmiş uygulamaları kaldırmayı ve telemetri verilerini devre dışı bırakmayı sağlayan bir PowerShell betiğidir. Kullanıcıların sistemlerini özelleştirmelerine ve gereksiz bileşenlerden arındırarak sistem hafifletme (debloat) işlemi yapmalarına olanak tanır.",
+          "meta": "PowerShell · ★ 48.210 · +112 bugün"
+        },
+        {
+          "title": "mikeroyal/Self-Hosting-Guide",
+          "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+          "summary": "Self-Hosting Guide, yerel ağlarda veya özel web sunucularında yazılım uygulamalarını barındırma ve yönetme süreçlerine dair kapsamlı bir rehber sunuyor. Bulut bilişim, büyük dil modelleri (large language models), otomasyon ve ağ yapılandırması gibi konularda teknik kaynaklar sağlıyor.",
+          "meta": "Dockerfile · ★ 21.324 · +188 bugün"
+        },
+        {
+          "title": "itsfatduck/optimizerDuck",
+          "url": "https://github.com/itsfatduck/optimizerDuck",
+          "summary": "C# diliyle geliştirilen optimizerDuck, Windows işletim sistemlerinde performans artışı ve gizlilik odaklı yapılandırmalar sunan açık kaynaklı bir araçtır. Kullanıcıların sistem ayarlarını basitleştirmesini sağlayan bu yazılım, Windows optimizasyon süreçlerini tek bir arayüzde toplar.",
+          "meta": "C# · ★ 3.900 · +340 bugün"
+        },
+        {
+          "title": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "summary": "NVIDIA tarafından geliştirilen SkillSpector, yapay zekâ ajanlarına ait yetenek paketlerindeki (skills) güvenlik açıklarını ve kötü niyetli kalıpları tespit eden bir tarama aracıdır. Python tabanlı bu yazılım, ajan tabanlı sistemlerin geliştirilme sürecinde karşılaşılan güvenlik risklerini analiz etmeyi hedefler.",
+          "meta": "Python · ★ 6.697 · +1.079 bugün"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos, finansal piyasaların dilini çözümlemek üzere eğitilmiş bir temel model (foundation model) olarak geliştirildi. Finansal verilerin karmaşık yapısını anlamlandırmak için tasarlanan bu model, piyasa analiz süreçlerini otomatikleştirmeyi hedefliyor.",
+          "meta": "Python · ★ 30.434 · +396 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Iroh 1.0",
+          "url": "https://www.iroh.computer/blog/v1",
+          "summary": "Iroh 1.0, verilerin cihazlar arasında güvenli ve hızlı aktarılmasını sağlayan bir eşler arası (peer-to-peer) ağ protokolü sunuyor. Geliştiricilerin karmaşık ağ yapılandırmalarıyla uğraşmadan yerel ağlarda veya internet üzerinden veri paylaşımı yapabilen uygulamalar geliştirmesine olanak tanıyor.",
+          "meta": "1.163 oy · 352 yorum"
+        },
+        {
+          "title": "A backdoor in a LinkedIn job offer",
+          "url": "https://roman.pt/posts/linkedin-backdoor/",
+          "summary": "LinkedIn üzerinden gönderilen sahte iş teklifleri, adayların bilgisayarlarına kötü amaçlı yazılım (malware) bulaştırmak için bir arka kapı (backdoor) yöntemi olarak kullanılıyor. Saldırganlar, işe alım süreci görünümü altında gönderdikleri dosyalarla sistemlere yetkisiz erişim sağlıyor.",
+          "meta": "1.135 oy · 209 yorum"
+        },
+        {
+          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+          "url": "https://news.ycombinator.com/item?id=48542100",
+          "summary": "Yazılım geliştiriciler, günlük kodlama süreçlerinde bulut tabanlı modeller yerine yerel dil modellerini (local language models) ana araç olarak kullanma eğilimini değerlendiriyor. Kullanıcılar, bu geçiş sürecindeki donanım kurulumlarını ve saniye başına üretilen belirteç (tokens per second) performanslarını birbirleriyle paylaşıyor.",
+          "meta": "962 oy · 431 yorum"
+        },
+        {
+          "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+          "url": "https://tinywind.io",
+          "summary": "TinyWind, gerçekçi rüzgar fiziği simülasyonuna dayalı tarayıcı tabanlı bir piksel sanat korsanlık oyunudur. Oyuncular, dinamik hava koşullarında gemi yönetimi yaparak açık denizlerde navigasyon deneyimi yaşar.",
+          "meta": "818 oy · 154 yorum"
+        },
+        {
+          "title": "Hetzner Price Adjustment",
+          "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+          "summary": "Hetzner, bulut sunucusu (cloud server) hizmetlerinde fiyatlandırma yapısını standartlaştırarak bazı paketlerde güncellemeye gidiyor. Şirket, enerji maliyetleri ve altyapı yatırımları doğrultusunda gerçekleştirdiği bu fiyat düzenlemesiyle hizmet maliyetlerini yeniden dengeliyor.",
+          "meta": "428 oy · 585 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "Google tarafından geliştirilen DiffusionGemma, metin ve görsel girdilerini işleyerek metin tabanlı çıktılar üreten bir çok modlu (multimodal) modeldir. Model, görüntülerden elde edilen bilgileri metin tabanlı akıl yürütme süreçlerine entegre etmek için tasarlanmıştır.",
+          "meta": "♥ 907 · 375.974 indirme"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax tarafından geliştirilen MiniMax-M3, görüntü ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir modeldir. Sistem, görsel verileri çözümleme ve metin tabanlı görevlerde kullanma yeteneğiyle dikkat çekmektedir.",
+          "meta": "♥ 915 · 25.064 indirme"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "HuggingFace üzerinde paylaşılan gemma-4-12B-coder-fable5-composer2.5-v1-GGUF, metin üretimi (text-generation) odaklı bir dil modelidir. Model, düşük kaynaklı cihazlarda çalıştırılabilmesi için nicemleme (quantization) formatında sunulmaktadır.",
+          "meta": "♥ 846 · 60.921 indirme"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K2.7-Code, görsel ve metin tabanlı verileri işleyerek kod üretimi gerçekleştiren çok modlu (multimodal) bir yapay zekâ modelidir. Model, karmaşık yazılım geliştirme süreçlerinde metin ve görüntü girdilerini analiz ederek çözüm üretme yeteneği sunar.",
+          "meta": "♥ 765 · 102.206 indirme"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Nvidia tarafından geliştirilen LocateAnything-3B, görsel ve metinsel girdileri işleyerek nesne konumlandırma (object localization) görevlerini yerine getiren bir görüntü-metin-metin (image-text-to-text) modelidir. Bu model, karmaşık görsel veriler üzerinde metin tabanlı sorgularla nesne tespiti yapılmasına olanak tanır.",
+          "meta": "♥ 2.072 · 98.698 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IPTV",
+      "explanation": "Televizyon yayınlarının geleneksel anten veya uydu yerine internet bağlantısı üzerinden izlenmesini sağlayan sistem."
+    },
+    {
+      "term": "data logger",
+      "explanation": "Sensörlerden gelen bilgileri belirli aralıklarla kaydedip saklayan elektronik cihaz."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, klavyeden yazılan metin komutlarıyla yönetmenizi sağlayan arayüz."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan köprü."
+    },
+    {
+      "term": "cloud native",
+      "explanation": "Doğrudan internet üzerindeki sunucularda çalışmak üzere tasarlanmış, esnek ve ölçeklenebilir yazılım yapısı."
+    },
+    {
+      "term": "service mesh",
+      "explanation": "Karmaşık yazılım sistemlerinde farklı parçaların birbirleriyle güvenli ve düzenli şekilde iletişim kurmasını sağlayan ağ katmanı."
+    },
+    {
+      "term": "omni-channel support",
+      "explanation": "Müşterilerin bir markaya hem mağazadan hem de internetin her kanalından kesintisiz şekilde ulaşabilmesi."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Yeni yazılımların ana sisteme zarar vermeden güvenle test edilebildiği yalıtılmış çalışma alanı."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Yazılımcıların belirli bir platform veya cihaz için uygulama geliştirmesini kolaylaştıran araçlar bütünü."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Bir cihazın veya yazılımın performansını standart testlerle ölçüp diğerleriyle kıyaslama yöntemi."
+    },
+    {
+      "term": "computer science",
+      "explanation": "Bilgisayarların çalışma prensiplerini, yazılım geliştirmeyi ve verilerin işlenme süreçlerini inceleyen bilim dalı."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "Yapay zekâ modellerini tasarlayıp bunları gerçek hayatta çalışacak sistemlere dönüştürme süreci."
+    },
+    {
+      "term": "deployment",
+      "explanation": "Hazırlanan bir yazılımın kullanıcıların erişimine açılması için sunucuya yüklenip çalışır hale getirilmesi."
+    },
+    {
+      "term": "NAS",
+      "explanation": "Ev veya ofis ağındaki cihazların ortaklaşa kullanabileceği, internete bağlı merkezi depolama birimi."
+    },
+    {
+      "term": "playlist",
+      "explanation": "Dijital ortamdaki müzik veya videoların belirli bir sırayla çalınması için oluşturulan liste."
+    },
+    {
+      "term": "Introduction to Autonomous Robots",
+      "explanation": "Dışarıdan komut almadan kendi kararlarını verebilen robotların çalışma mantığına giriş eğitimi."
+    }
+  ]
+}

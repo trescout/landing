@@ -1,0 +1,111 @@
+{
+  "date": "2026-06-16",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "summary": "Tesla araç sahipleri için geliştirilen Teslamate, verileri kendi sunucunuzda barındırmanıza olanak tanıyan bir veri kaydedici (data logger) uygulamasıdır. Elixir diliyle yazılan bu açık kaynaklı araç, sürüş geçmişi ve şarj verileri gibi detaylı istatistikleri görselleştirerek kullanıcıya sunar.",
+          "meta": "Elixir · ★ 8.326 · +33 bugün"
+        },
+        {
+          "title": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "summary": "Hello 算法, veri yapıları ve algoritmaları animasyonlu görselleştirmelerle destekleyerek öğreten açık kaynaklı bir eğitim platformudur. Proje, çok sayıda programlama dili desteği ve tek tıkla çalıştırılabilir kod örnekleri sunarak öğrenme sürecini standartlaştırıyor.",
+          "meta": "Java · ★ 127.220 · +71 bugün"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor. Masaüstü işletim sistemlerini kontrol edebilen ajanların eğitimi ve değerlendirilmesi amacıyla kum havuzu (sandbox), yazılım geliştirme kiti (SDK) ve kıyaslama (benchmark) araçlarını tek bir çatı altında topluyor.",
+          "meta": "HTML · ★ 18.298 · +70 bugün"
+        },
+        {
+          "title": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "summary": "Win11Debloat, Windows 10 ve 11 işletim sistemlerinde önceden yüklenmiş uygulamaları kaldırmayı ve telemetri verilerini devre dışı bırakmayı sağlayan bir PowerShell betiğidir. Kullanıcıların sistemlerini özelleştirmelerine ve gereksiz bileşenlerden arındırarak sistem hafifletme (debloat) işlemi yapmalarına olanak tanır.",
+          "meta": "PowerShell · ★ 48.210 · +112 bugün"
+        },
+        {
+          "title": "mikeroyal/Self-Hosting-Guide",
+          "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+          "summary": "Self-Hosting Guide, yerel ağlarda veya özel web sunucularında yazılım uygulamalarını barındırma ve yönetme süreçlerine dair kapsamlı bir rehber sunuyor. Bulut bilişim, büyük dil modelleri (large language models), otomasyon ve ağ yapılandırması gibi konularda teknik kaynaklar sağlıyor.",
+          "meta": "Dockerfile · ★ 21.324 · +188 bugün"
+        },
+        {
+          "title": "itsfatduck/optimizerDuck",
+          "url": "https://github.com/itsfatduck/optimizerDuck",
+          "summary": "C# diliyle geliştirilen optimizerDuck, Windows işletim sistemlerinde performans artışı ve gizlilik odaklı yapılandırmalar sunan açık kaynaklı bir araçtır. Kullanıcıların sistem ayarlarını basitleştirmesini sağlayan bu yazılım, Windows optimizasyon süreçlerini tek bir arayüzde toplar.",
+          "meta": "C# · ★ 3.900 · +340 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Iroh 1.0",
+          "url": "https://www.iroh.computer/blog/v1",
+          "summary": "Iroh 1.0, verilerin cihazlar arasında güvenli ve hızlı aktarılmasını sağlayan bir eşler arası (peer-to-peer) ağ protokolü sunuyor. Geliştiricilerin karmaşık ağ yapılandırmalarıyla uğraşmadan yerel ağlarda veya internet üzerinden veri paylaşımı yapabilen uygulamalar geliştirmesine olanak tanıyor.",
+          "meta": "1.163 oy · 352 yorum"
+        },
+        {
+          "title": "A backdoor in a LinkedIn job offer",
+          "url": "https://roman.pt/posts/linkedin-backdoor/",
+          "summary": "LinkedIn üzerinden gönderilen sahte iş teklifleri, adayların bilgisayarlarına kötü amaçlı yazılım (malware) bulaştırmak için bir arka kapı (backdoor) yöntemi olarak kullanılıyor. Saldırganlar, işe alım süreci görünümü altında gönderdikleri dosyalarla sistemlere yetkisiz erişim sağlıyor.",
+          "meta": "1.135 oy · 209 yorum"
+        },
+        {
+          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+          "url": "https://news.ycombinator.com/item?id=48542100",
+          "summary": "Yazılım geliştiriciler, günlük kodlama süreçlerinde bulut tabanlı modeller yerine yerel dil modellerini (local language models) ana araç olarak kullanma eğilimini değerlendiriyor. Kullanıcılar, bu geçiş sürecindeki donanım kurulumlarını ve saniye başına üretilen belirteç (tokens per second) performanslarını birbirleriyle paylaşıyor.",
+          "meta": "962 oy · 431 yorum"
+        },
+        {
+          "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+          "url": "https://tinywind.io",
+          "summary": "TinyWind, gerçekçi rüzgar fiziği simülasyonuna dayalı tarayıcı tabanlı bir piksel sanat korsanlık oyunudur. Oyuncular, dinamik hava koşullarında gemi yönetimi yaparak açık denizlerde navigasyon deneyimi yaşar.",
+          "meta": "818 oy · 154 yorum"
+        },
+        {
+          "title": "Hetzner Price Adjustment",
+          "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+          "summary": "Hetzner, bulut sunucusu (cloud server) hizmetlerinde fiyatlandırma yapısını standartlaştırarak bazı paketlerde güncellemeye gidiyor. Şirket, enerji maliyetleri ve altyapı yatırımları doğrultusunda gerçekleştirdiği bu fiyat düzenlemesiyle hizmet maliyetlerini yeniden dengeliyor.",
+          "meta": "428 oy · 585 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "HuggingFace üzerinde paylaşılan gemma-4-12B-coder-fable5-composer2.5-v1-GGUF, metin üretimi (text-generation) odaklı bir dil modelidir. Model, düşük kaynaklı cihazlarda çalıştırılabilmesi için nicemleme (quantization) formatında sunulmaktadır.",
+          "meta": "♥ 846 · 60.921 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "data logger",
+      "explanation": "Sensörlerden gelen bilgileri belirli aralıklarla kaydedip saklayan elektronik cihaz."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Yeni yazılımların ana sisteme zarar vermeden güvenle test edilebildiği yalıtılmış çalışma alanı."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Yazılımcıların belirli bir platform veya cihaz için uygulama geliştirmesini kolaylaştıran araçlar bütünü."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Bir cihazın veya yazılımın performansını standart testlerle ölçüp diğerleriyle kıyaslama yöntemi."
+    }
+  ]
+}
