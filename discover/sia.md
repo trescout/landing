@@ -58,7 +58,7 @@ SIA çerçevesini kullanarak bir yapay zeka ajanının performansını artırmak
 - [GitHub deposu →](https://github.com/hexo-ai/sia)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Benchmark Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

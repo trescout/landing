@@ -1174,5 +1174,54 @@
     "full": "",
     "cat": "dev",
     "kisa": "Popüler yazılımların kaynak kodlarının herkesin erişimine açık şekilde kopyalanarak oluşturulan benzerleridir."
+  },
+  {
+    "slug": "data-logger",
+    "en": "Data Logger",
+    "full": "",
+    "cat": "data",
+    "kisa": "Sensörlerden gelen verileri belirli aralıklarla kaydedip depolayan elektronik cihazdır."
+  },
+  {
+    "slug": "omni-channel-support",
+    "en": "Omni-channel Support",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Müşterilerin bir markaya tüm kanallardan kesintisiz ve bağlantılı şekilde ulaşabilmesini sağlayan destek yapısıdır."
+  },
+  {
+    "slug": "sandbox",
+    "en": "Sandbox",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yeni yazılımların veya kodların ana sisteme zarar vermeden güvenle test edilebildiği yalıtılmış çalışma alanıdır."
+  },
+  {
+    "slug": "sdk",
+    "en": "SDK",
+    "full": "Software Development Kit",
+    "cat": "dev",
+    "kisa": "Yazılımcıların belirli bir platform için uygulama geliştirmesini kolaylaştıran araçlar ve kütüphaneler bütünüdür."
+  },
+  {
+    "slug": "benchmark",
+    "en": "Benchmark",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir yazılımın veya donanımın performansını standart testlerle ölçüp diğerleriyle kıyaslama yöntemidir."
+  },
+  {
+    "slug": "ai-engineering",
+    "en": "AI Engineering",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zeka modellerini tasarlayıp bunları gerçek dünyada çalışan sistemlere dönüştürme sürecidir."
+  },
+  {
+    "slug": "deployment",
+    "en": "Deployment",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Hazırlanan bir yazılımın kullanıcıların erişimine açılması için sunucuya yüklenip çalışır hale getirilmesidir."
   }
 ]

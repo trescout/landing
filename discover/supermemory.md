@@ -42,7 +42,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsini
 - [GitHub deposu →](https://github.com/supermemoryai/supermemory)
 
 ## İlgili sözlük terimleri
-MCP API Open Source Artificial Intelligence 
+SDK MCP API Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

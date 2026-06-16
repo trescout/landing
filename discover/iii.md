@@ -59,7 +59,7 @@ Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; bu varsayılan olarak 'tüm ha
 - [Ana sayfa →](https://iii.dev)
 
 ## İlgili sözlük terimleri
-Observability Rust Open Source Artificial Intelligence 
+Observability Sandbox SDK Rust Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

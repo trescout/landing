@@ -27,7 +27,7 @@ Kaynak: npm · @github/copilot-sdk · docs.github.com (resmî)
 - [GitHub deposu →](https://github.com/github/copilot-sdk)
 
 ## İlgili sözlük terimleri
-API Artificial Intelligence 
+SDK API Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

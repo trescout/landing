@@ -2190,5 +2190,105 @@
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
     "headline": "Tarayıcı işlemlerini yapay zekâ ile otomatikleştirin"
+  },
+  {
+    "slug": "teslamate",
+    "title": "Teslamate",
+    "tagline": "Tesla araç sahipleri için geliştirilen Teslamate, verileri kendi sunucunuzda barındırmanıza olanak tanıyan bir veri kaydedici…",
+    "meta": "★ 8.326 · Elixir",
+    "image": "/assets/discover/og/teslamate.webp",
+    "source": "GitHub",
+    "date": "2026-06-16",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 8326,
+    "lite": false,
+    "headline": "Tesla verilerinizi kendi sunucunuzda izleyin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "hello-algo",
+    "title": "Hello Algo",
+    "tagline": "Hello 算法, veri yapıları ve algoritmaları animasyonlu görselleştirmelerle destekleyerek öğreten açık kaynaklı bir eğitim…",
+    "meta": "★ 127.220 · Java",
+    "image": "/assets/discover/og/hello-algo.webp",
+    "source": "GitHub",
+    "date": "2026-06-16",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 127220,
+    "lite": false,
+    "headline": "Animasyonlarla veri yapıları ve algoritmalar",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "cua",
+    "title": "CUA",
+    "tagline": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor.",
+    "meta": "★ 18.298 · HTML",
+    "image": "/assets/discover/og/cua.webp",
+    "source": "GitHub",
+    "date": "2026-06-16",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 18298,
+    "lite": false,
+    "headline": "yapay zekâ ajanları için bilgisayar kontrolü"
+  },
+  {
+    "slug": "win11debloat",
+    "title": "Win11Debloat",
+    "tagline": "Win11Debloat, Windows 10 ve 11 işletim sistemlerinde önceden yüklenmiş uygulamaları kaldırmayı ve telemetri verilerini devre…",
+    "meta": "★ 48.210 · PowerShell",
+    "image": "/assets/discover/og/win11debloat.webp",
+    "source": "GitHub",
+    "date": "2026-06-16",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 48210,
+    "lite": false,
+    "headline": "Windows sisteminizi hafifletin ve özelleştirin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "self-hosting-guide",
+    "title": "Self-Hosting-Guide",
+    "tagline": "Self-Hosting Guide, yerel ağlarda veya özel web sunucularında yazılım uygulamalarını barındırma ve yönetme süreçlerine dair…",
+    "meta": "★ 21.324 · Dockerfile",
+    "image": "/assets/discover/og/self-hosting-guide.webp",
+    "source": "GitHub",
+    "date": "2026-06-16",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 21324,
+    "lite": false,
+    "headline": "Kendi sunucunuzu yönetme rehberi"
+  },
+  {
+    "slug": "optimizerduck",
+    "title": "optimizerDuck",
+    "tagline": "C# diliyle geliştirilen optimizerDuck, Windows işletim sistemlerinde performans artışı ve gizlilik odaklı yapılandırmalar…",
+    "meta": "★ 3.900 · C#",
+    "image": "/assets/discover/og/optimizerduck.webp",
+    "source": "GitHub",
+    "date": "2026-06-16",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 3900,
+    "lite": false,
+    "headline": "Windows performansını ve gizliliğini artırın",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]
