@@ -1223,5 +1223,47 @@
     "full": "",
     "cat": "dev",
     "kisa": "Hazırlanan bir yazılımın kullanıcıların erişimine açılması için sunucuya yüklenip çalışır hale getirilmesidir."
+  },
+  {
+    "slug": "web-compiler",
+    "en": "Web Compiler",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kodlarınızı bilgisayarınıza hiçbir şey kurmadan, doğrudan internet tarayıcınız üzerinden çalıştırılabilir hale getiren araçtır."
+  },
+  {
+    "slug": "streaming-applications",
+    "en": "Streaming Applications",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Büyük dosyaları tamamen indirmenize gerek kalmadan, internet üzerinden parça parça çekerek anlık izleme veya dinleme sunan uygulamalardır."
+  },
+  {
+    "slug": "root",
+    "en": "Root",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir işletim sistemi üzerinde tüm dosyalara, ayarlara ve komutlara sınırsız erişim sağlayan en üst düzey yetkili hesaptır."
+  },
+  {
+    "slug": "adb",
+    "en": "ADB",
+    "full": "Android Debug Bridge",
+    "cat": "dev",
+    "kisa": "Bilgisayarınız üzerinden Android cihazlara komut gönderip, yazılım yükleme veya sistem dosyalarını yönetme gibi işlemleri yapmanızı sağlayan bir köprüdür."
+  },
+  {
+    "slug": "in-process-vector-database",
+    "en": "In-process Vector Database",
+    "full": "",
+    "cat": "data",
+    "kisa": "Yapay zekânın verilerini ayrı bir sunucuya gitmeden, doğrudan uygulamanın kendi hafızası içinde tutan hızlı bir veri saklama sistemidir."
+  },
+  {
+    "slug": "api-gateway",
+    "en": "API Gateway",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Dış dünyadan gelen tüm istekleri karşılayan, bunları doğru yerlere yönlendiren ve güvenlik kontrollerini yapan merkezi bir giriş kapısıdır."
   }
 ]

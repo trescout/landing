@@ -2290,5 +2290,69 @@
     "headline": "Windows performansını ve gizliliğini artırın",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "universal-android-debloater-next-generation",
+    "title": "Universal Android Debloater Next Generation",
+    "tagline": "Universal Android Debloater Next Generation, kök dizin erişimi (root) gerektirmeyen Android cihazlardaki gereksiz uygulamaları…",
+    "meta": "★ 7.487 · Rust",
+    "image": "/assets/discover/og/universal-android-debloater-next-generation.webp",
+    "source": "GitHub",
+    "date": "2026-06-17",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 7487,
+    "lite": false,
+    "headline": "Android cihazınızdaki gereksiz uygulamaları temizleyin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "zvec",
+    "title": "Zvec",
+    "tagline": "Alibaba tarafından geliştirilen zvec, C++ diliyle yazılmış hafif ve yüksek hızlı bir süreç içi vektör veritabanı (in-process…",
+    "meta": "★ 10.691 · C++",
+    "image": "/assets/discover/og/zvec.webp",
+    "source": "GitHub",
+    "date": "2026-06-17",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 10691,
+    "lite": false,
+    "headline": "Uygulama içi hızlı yapay zekâ veritabanı"
+  },
+  {
+    "slug": "openwa",
+    "title": "OpenWA",
+    "tagline": "OpenWA, WhatsApp mesajlaşma protokolü için ücretsiz ve açık kaynaklı bir ağ geçidi (API gateway) çözümü sunuyor.",
+    "meta": "★ 9.223 · TypeScript",
+    "image": "/assets/discover/og/openwa.webp",
+    "source": "GitHub",
+    "date": "2026-06-17",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 9223,
+    "lite": false,
+    "headline": "WhatsApp için açık kaynaklı ağ geçidi"
+  },
+  {
+    "slug": "iroh",
+    "title": "Iroh",
+    "tagline": "Iroh, IP adresleri yerine anahtar tabanlı (key-based) adresleme kullanarak ağ bağlantılarını daha esnek hale getiren modüler…",
+    "meta": "★ 9.418 · Rust",
+    "image": "/assets/discover/og/iroh.webp",
+    "source": "GitHub",
+    "date": "2026-06-17",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 9418,
+    "lite": false,
+    "headline": "anahtar tabanlı esnek ağ bağlantıları",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]
