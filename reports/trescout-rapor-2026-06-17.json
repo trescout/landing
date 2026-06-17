@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-17",
+  "editorial": "Bugünün teknoloji gündeminde yazılım geliştirme araçları (development tools) ve otomasyon kütüphaneleri öne çıkıyor. GitHub verileri, özellikle hızlı derleyiciler (compilers) ve tarayıcı otomasyonu (browser automation) projelerine olan ilginin belirgin şekilde arttığını gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "summary": "freeCodeCamp, matematik, programlama ve bilgisayar bilimleri alanlarında ücretsiz eğitim müfredatı sunan açık kaynaklı bir platformdur. TypeScript diliyle geliştirilen proje, kullanıcıların yazılım becerilerini geliştirmeleri için etkileşimli bir öğrenme ortamı sağlar.",
+          "meta": "TypeScript · ★ 448.854 · +633 bugün"
+        },
+        {
+          "title": "swc-project/swc",
+          "url": "https://github.com/swc-project/swc",
+          "summary": "Rust diliyle geliştirilen hızlı web derleyicisi (web compiler) SWC, JavaScript ve TypeScript dosyalarının dönüştürülmesi ve paketlenmesi süreçlerinde yüksek performans sunuyor. Proje, web geliştirme araç zincirini hızlandırmak amacıyla geleneksel araçlara alternatif bir altyapı sağlıyor.",
+          "meta": "Rust · ★ 34.020 · +20 bugün"
+        },
+        {
+          "title": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "summary": "Teslamate, Tesla araç verilerini yerel sunucularda depolayan açık kaynaklı bir veri kaydedici (data logger) uygulamasıdır. Elixir diliyle geliştirilen bu araç, kullanıcıların sürüş ve şarj istatistiklerini kendi altyapıları üzerinden detaylı şekilde izlemelerine olanak tanır.",
+          "meta": "Elixir · ★ 8.469 · +215 bugün"
+        },
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "Dünya genelindeki halka açık televizyon kanallarını tek bir merkezde toplayan iptv-org projesi, internet protokolü üzerinden televizyon (IPTV) yayınlarına erişim sağlayan geniş kapsamlı bir liste sunuyor. Geliştiriciler, bu veri setini kullanarak farklı platformlar için televizyon izleme uygulamaları (streaming applications) geliştirebiliyor.",
+          "meta": "TypeScript · ★ 124.577 · +1.197 bugün"
+        },
+        {
+          "title": "puppeteer/puppeteer",
+          "url": "https://github.com/puppeteer/puppeteer",
+          "summary": "Puppeteer, Chrome ve Firefox tarayıcılarını kontrol etmek için kullanılan bir tarayıcı otomasyonu arayüzü (API) sunuyor. TypeScript ile geliştirilen bu kütüphane, web sayfalarının test edilmesi ve veri kazıma (web scraping) süreçlerinin yönetilmesini sağlıyor.",
+          "meta": "TypeScript · ★ 94.987 · +56 bugün"
+        },
+        {
+          "title": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "summary": "Meshery, bulut yerlisi (cloud native) altyapıların yönetimi için tasarlanmış bir hizmet ağı yönetim aracıdır (service mesh manager). Platform, farklı hizmet ağlarının yapılandırılmasını, dağıtımını ve performans analizini tek bir arayüz üzerinden standartlaştırır.",
+          "meta": "TypeScript · ★ 10.920 · +228 bugün"
+        },
+        {
+          "title": "cypress-io/cypress",
+          "url": "https://github.com/cypress-io/cypress",
+          "summary": "Cypress, tarayıcı üzerinde çalışan tüm uygulamalar için hızlı ve güvenilir uçtan uca test (end-to-end testing) süreçleri sunan bir otomasyon aracıdır. TypeScript ile geliştirilen bu platform, web arayüzlerinin işlevselliğini doğrulamak amacıyla yaygın olarak tercih edilmektedir.",
+          "meta": "TypeScript · ★ 50.288 · +13 bugün"
+        },
+        {
+          "title": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "summary": "Music Assistant, farklı dijital müzik servislerini ve ses cihazlarını tek bir merkezde birleştiren açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu uygulaması, sürekli çalışan cihazlar üzerinden merkezi bir ses yönetim sistemi oluşturulmasını sağlar.",
+          "meta": "Python · ★ 2.635 · +157 bugün"
+        },
+        {
+          "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "summary": "Universal Android Debloater Next Generation, kök dizin erişimi (root) gerektirmeyen Android cihazlardaki gereksiz uygulamaları kaldırmak için Rust diliyle geliştirilmiş çapraz platform bir grafik arayüzüdür. Araç, Android Hata Ayıklama Köprüsü (ADB) kullanarak cihazın gizlilik, güvenlik ve pil ömrü performansını iyileştirmeyi amaçlar.",
+          "meta": "Rust · ★ 7.487 · +146 bugün"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM2, çok dilli konuşma üretimi, yaratıcı ses tasarımı ve gerçeğe yakın ses kopyalama (voice cloning) işlemleri için belirteçsiz (tokenizer-free) bir metinden konuşmaya (text-to-speech) dönüştürme modeli sunuyor. Bu yaklaşım, geleneksel yöntemlerin aksine ses verisini doğrudan işleyerek daha doğal ve esnek ses sentezleme süreçleri sağlıyor.",
+          "meta": "Python · ★ 30.314 · +408 bugün"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Alibaba tarafından geliştirilen zvec, C++ diliyle yazılmış hafif ve yüksek hızlı bir süreç içi vektör veritabanı (in-process vector database) çözümüdür. Uygulamaların vektör verilerini doğrudan bellek üzerinde işlemesine olanak tanıyarak sistem performansını artırmayı hedefler.",
+          "meta": "C++ · ★ 10.691 · +156 bugün"
+        },
+        {
+          "title": "rmyndharis/OpenWA",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "summary": "OpenWA, WhatsApp mesajlaşma protokolü için ücretsiz ve açık kaynaklı bir ağ geçidi (API gateway) çözümü sunuyor. TypeScript diliyle geliştirilen bu araç, kullanıcıların kendi sunucularında (self-hosted) WhatsApp entegrasyonlarını yönetmelerine olanak tanıyor.",
+          "meta": "TypeScript · ★ 9.223 · +185 bugün"
+        },
+        {
+          "title": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "summary": "Iroh, IP adresleri yerine anahtar tabanlı (key-based) adresleme kullanarak ağ bağlantılarını daha esnek hale getiren modüler bir ağ yığınıdır (networking stack). Rust diliyle geliştirilen bu araç, ağ kesintilerine karşı dayanıklı ve doğrudan veri aktarımı sağlayan bir altyapı sunar.",
+          "meta": "Rust · ★ 9.418 · +334 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Running local models is good now",
+          "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+          "summary": "Yerel büyük dil modellerini (large language models) kişisel bilgisayarlarda çalıştırmak, donanım verimliliğinin artması ve yazılım araçlarının kolaylaşmasıyla erişilebilir hale geldi. Kullanıcılar, bulut tabanlı hizmetlere bağımlı kalmadan veri gizliliğini koruyarak kendi sistemleri üzerinde yapay zekâ modellerini (local models) çalıştırabiliyor.",
+          "meta": "1.293 oy · 499 yorum"
+        },
+        {
+          "title": "SpaceX to buy Cursor for $60B",
+          "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+          "summary": "SpaceX, yapay zekâ destekli kod düzenleyici (AI code editor) Cursor'un geliştiricisi Anysphere'i 60 milyar dolar karşılığında satın alıyor. Bu hamleyle şirket, yazılım geliştirme süreçlerini otomatize eden üretken yapay zekâ (generative AI) teknolojilerini kendi operasyonlarına entegre etmeyi hedefliyor.",
+          "meta": "1.013 oy · 1.511 yorum"
+        },
+        {
+          "title": "GrapheneOS has been ported to Android 17",
+          "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+          "summary": "GrapheneOS, Android 17 sürümüne taşındı ve resmi sürümlerin yakında yayınlanması planlanıyor. Gizlilik odaklı işletim sistemi, güncel Android sürümüyle birlikte yeni güvenlik özelliklerini desteklemeye hazırlanıyor.",
+          "meta": "736 oy · 337 yorum"
+        },
+        {
+          "title": "Mechanical Watch (2022)",
+          "url": "https://ciechanow.ski/mechanical-watch/",
+          "summary": "Bartosz Ciechanowski tarafından hazırlanan interaktif makale, mekanik saatlerin çalışma prensiplerini dişli çarklar, zemberekler ve eşapman (escapement) mekanizmaları üzerinden görselleştiriyor. Karmaşık zaman tutma sistemlerinin fiziksel işleyişini adım adım açıklayan çalışma, mühendislik detaylarını dijital simülasyonlarla destekliyor.",
+          "meta": "692 oy · 116 yorum"
+        },
+        {
+          "title": "Calvin and Hobbes and the price of integrity",
+          "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+          "summary": "Bill Watterson, Calvin ve Hobbes çizgi romanının ticari ürün haklarını reddederek yaratıcı bütünlüğünü (creative integrity) korumayı tercih etti. Bu yaklaşım, sanatçıların eserleri üzerindeki kontrolü ve ticari başarı ile sanatsal bağımsızlık arasındaki dengeyi tartışmaya açıyor.",
+          "meta": "410 oy · 177 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma-4-12B-coder modeli, kod yazma görevleri için optimize edilmiş metin üretme (text generation) yetenekleri sunuyor. Model, GGUF formatı sayesinde düşük donanım gereksinimleriyle yerel cihazlarda çalıştırılabiliyor.",
+          "meta": "♥ 1.285 · 60.921 indirme"
+        },
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "Google tarafından yayınlanan DiffusionGemma, metin ve görsel girdilerini işleyerek metin tabanlı çıktılar üreten bir çok modlu (multimodal) modeldir. Model, görüntülerden elde edilen bilgileri çözümleyerek kullanıcı sorgularına yanıt verme yeteneği sunar.",
+          "meta": "♥ 958 · 375.974 indirme"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3, metin ve görsel verilerini eş zamanlı işleyebilen çok modlu (multimodal) bir modeldir. Sistem, görüntü ve metin girdilerini birleştirerek metin tabanlı çıktılar üretme yeteneği sunar.",
+          "meta": "♥ 1.037 · 25.064 indirme"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K2.7-Code, görsel ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir modeldir. Yazılım geliştirme süreçlerine odaklanan bu model, kod tabanlı görevlerde görsel verileri metinle birleştirerek analiz etme yeteneği sunar.",
+          "meta": "♥ 818 · 102.206 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından yayınlanan GLM-5.2, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. HuggingFace platformunda yer alan bu model, geniş kapsamlı metin oluşturma süreçlerinde kullanılmak üzere tasarlanmıştır.",
+          "meta": "♥ 725 · 0 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "web compiler",
+      "explanation": "Yazılan kodları bilgisayara indirmeye gerek kalmadan doğrudan internet tarayıcısı üzerinden çalıştırılabilir hale getiren araç."
+    },
+    {
+      "term": "data logger",
+      "explanation": "Sensörlerden gelen bilgileri zaman damgasıyla birlikte kaydedip saklayan elektronik cihaz."
+    },
+    {
+      "term": "IPTV",
+      "explanation": "Televizyon yayınlarının geleneksel anten veya uydu yerine internet bağlantısı üzerinden izlenmesini sağlayan sistem."
+    },
+    {
+      "term": "streaming applications",
+      "explanation": "Video veya ses dosyalarını indirmeyi beklemeden, internet üzerinden anlık olarak izlemeye veya dinlemeye yarayan uygulamalar."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan köprü."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "İnternet sitelerindeki verilerin yazılımlar aracılığıyla otomatik olarak toplanıp kaydedilmesi işlemi."
+    },
+    {
+      "term": "cloud native",
+      "explanation": "En başından itibaren internet üzerindeki sunucularda çalışacak şekilde tasarlanmış modern yazılım mimarisi."
+    },
+    {
+      "term": "service mesh manager",
+      "explanation": "Karmaşık yazılım sistemlerinde farklı parçaların birbirleriyle nasıl iletişim kurduğunu düzenleyen ve yöneten kontrol aracı."
+    },
+    {
+      "term": "end-to-end testing",
+      "explanation": "Bir yazılımın baştan sona tüm özelliklerinin, gerçek bir kullanıcı gibi davranılarak hatasız çalışıp çalışmadığının kontrol edilmesi."
+    },
+    {
+      "term": "root",
+      "explanation": "Bir cihazın işletim sistemi üzerinde tüm yetkilere sahip olan en üst düzey yönetici hesabı."
+    },
+    {
+      "term": "ADB",
+      "explanation": "Bilgisayar üzerinden Android cihazlara komut göndererek yazılım yönetimi yapmayı sağlayan bağlantı aracı."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Yapay zekâ kullanarak bir kişinin sesini taklit eden ve o kişinin ses tonuyla yeni cümleler kurabilen teknoloji."
+    },
+    {
+      "term": "tokenizer-free",
+      "explanation": "Yapay zekânın metinleri küçük parçalara bölmeden, doğrudan ham karakterler veya veriler üzerinden işleme yöntemi."
+    },
+    {
+      "term": "text-to-speech",
+      "explanation": "Yazılı metinleri bilgisayar veya yapay zekâ yardımıyla insan sesiyle seslendiren teknoloji."
+    },
+    {
+      "term": "in-process vector database",
+      "explanation": "Yapay zekânın ihtiyaç duyduğu karmaşık verileri, ayrı bir sunucuya ihtiyaç duymadan doğrudan uygulamanın kendi içinde hızlıca saklayan sistem."
+    },
+    {
+      "term": "API gateway",
+      "explanation": "Dışarıdan gelen tüm istekleri karşılayan ve bunları ilgili yazılım birimlerine yönlendiren merkezi giriş kapısı."
+    }
+  ]
+}
