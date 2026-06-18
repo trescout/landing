@@ -1,0 +1,267 @@
+{
+  "date": "2026-06-18",
+  "editorial": "Bugünün teknoloji gündeminde kod tabanı bellek yönetimi (codebase memory) ve merkeziyetsiz ağ protokolleri üzerine kurulu altyapı araçları öne çıkıyor. Google Research tarafından yayınlanan zaman serisi tahmin modelleri (time series forecasting models) ise veri analitiği tarafında dikkate değer bir verimlilik artışı vadediyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp, kod tabanlarını kalıcı bir bilgi grafiğine (knowledge graph) dönüştürerek yüksek performanslı kod istihbaratı sunuyor. C diliyle geliştirilen araç, 158 programlama dilini desteklerken sorgu sürelerini milisaniyenin altına indiriyor ve jeton (token) kullanımını azaltıyor.",
+          "meta": "C · ★ 6.142 · +371 bugün"
+        },
+        {
+          "title": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "summary": "Iroh, IP adreslerine bağımlılığı ortadan kaldırarak ağ bağlantılarında anahtar tabanlı (dial keys) bir yapı kullanan modüler bir ağ yığınıdır (networking stack). Rust diliyle geliştirilen bu araç, dağıtık sistemlerde ağ iletişimini daha esnek ve dayanıklı hale getirmeyi amaçlar.",
+          "meta": "Rust · ★ 9.773 · +421 bugün"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach, yapay zekâ ajanlarına internet üzerindeki sosyal medya ve içerik platformlarını tarama yeteneği kazandıran bir komut satırı arayüzü (CLI) aracıdır. Kullanıcılara herhangi bir uygulama programlama arayüzü (API) ücreti ödemeden Twitter, Reddit ve GitHub gibi platformlardan veri okuma ve arama yapma imkânı sunar.",
+          "meta": "Python · ★ 33.781 · +1.161 bugün"
+        },
+        {
+          "title": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "summary": "Meshery, bulut yerlisi (cloud native) altyapıların yaşam döngüsünü yönetmek için geliştirilmiş bir hizmet ağı (service mesh) yönetim platformudur. Dağıtık sistemlerin yapılandırılması, performansı ve güvenliği üzerinde merkezi bir kontrol düzlemi sağlar.",
+          "meta": "TypeScript · ★ 11.085 · +196 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yazılım geliştirme süreçlerinde ajan tabanlı yetenekler (agentic skills) oluşturmak için kullanılan bir çerçeve (framework) ve metodoloji sunuyor. Bu araç, yazılım geliştirme iş akışlarını ajan odaklı bir yaklaşımla standartlaştırmayı hedefliyor.",
+          "meta": "Shell · ★ 231.635 · +1.129 bugün"
+        },
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "Google Research tarafından geliştirilen Zaman Serisi Temel Modeli (Time Series Foundation Model), zaman serisi tahminleme işlemleri için önceden eğitilmiş bir yapı sunuyor. Model, farklı veri setleri üzerinde genel tahminleme yetenekleri sağlamak amacıyla tasarlanmıştır.",
+          "meta": "Python · ★ 22.167 · +606 bugün"
+        },
+        {
+          "title": "RocketChat/Rocket.Chat",
+          "url": "https://github.com/RocketChat/Rocket.Chat",
+          "summary": "Rocket.Chat, görev kritik operasyonlar için tasarlanmış güvenli bir iletişim işletim sistemi (communications operating system) sunuyor. TypeScript diliyle geliştirilen platform, kurum içi mesajlaşma ve iş birliği süreçlerini merkezileştirmeyi hedefliyor.",
+          "meta": "TypeScript · ★ 45.649 · +22 bugün"
+        },
+        {
+          "title": "continuedev/continue",
+          "url": "https://github.com/continuedev/continue",
+          "summary": "Continue, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent). Geliştiricilerin kendi yerel dil modellerini (LLM) kullanarak kod yazma, hata ayıklama ve yeniden yapılandırma (refactoring) işlemlerini IDE içerisinde gerçekleştirmelerine olanak tanır.",
+          "meta": "TypeScript · ★ 34.017 · +49 bugün"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot, tasarımcılar ve yazılımcılar arasında iş birliğini güçlendiren açık kaynaklı bir tasarım aracıdır. Vektör tabanlı arayüzü sayesinde tasarım süreçlerini kodlama aşamasıyla bütünleşik bir şekilde yönetmeyi sağlar.",
+          "meta": "Clojure · ★ 50.242 · +70 bugün"
+        },
+        {
+          "title": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "summary": "Hello 算法, veri yapıları ve algoritmaları animasyonlu görselleştirmelerle destekleyen açık kaynaklı bir eğitim platformudur. Çok sayıda programlama dili desteği sunan proje, karmaşık kavramları kod örnekleri ve etkileşimli içeriklerle anlaşılır kılmayı amaçlar.",
+          "meta": "Java · ★ 127.608 · +96 bugün"
+        },
+        {
+          "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "summary": "Universal Android Debloater Next Generation, Rust diliyle geliştirilen ve Android cihazlardaki gereksiz yazılımları (bloatware) kaldırmak için ADB (Android Debug Bridge) protokolünü kullanan çapraz platform bir arayüzdür. Kök erişimi (root) gerektirmeyen bu uygulama, cihaz gizliliğini, güvenliğini ve pil ömrünü iyileştirmeyi amaçlar.",
+          "meta": "Rust · ★ 7.733 · +457 bugün"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan bu depo, yazılım mühendislerinin yapay zekâ asistanlarını daha verimli kullanmaları için hazırlanan komut dosyalarını (scripts) ve yapılandırılmış yönergeleri içeriyor. Geliştiriciler, Claude gibi yapay zekâ modellerinin kod yazma ve hata ayıklama süreçlerindeki performansını artırmak amacıyla bu hazır yetenek setlerini (skills) kullanıyor.",
+          "meta": "Shell · ★ 134.391 · +1.523 bugün"
+        },
+        {
+          "title": "yairm210/Unciv",
+          "url": "https://github.com/yairm210/Unciv",
+          "summary": "Unciv, Civilization V oyununun açık kaynak kodlu bir masaüstü ve Android uyarlamasıdır. Kotlin diliyle geliştirilen proje, orijinal oyun mekaniklerini daha hafif bir altyapı üzerinde kullanıcılarla buluşturuyor.",
+          "meta": "Kotlin · ★ 10.739 · +24 bugün"
+        },
+        {
+          "title": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "summary": "freeCodeCamp, matematik, programlama ve bilgisayar bilimi konularında ücretsiz eğitim materyalleri sunan açık kaynaklı bir platformdur. TypeScript diliyle geliştirilen proje, kullanıcıların yazılım geliştirme becerilerini uygulamalı bir müfredat üzerinden ilerletmelerini sağlar.",
+          "meta": "TypeScript · ★ 449.270 · +757 bugün"
+        },
+        {
+          "title": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "summary": "ByteDance tarafından geliştirilen UI-TARS, çok modlu yapay zekâ modellerini (multimodal AI models) masaüstü arayüzleriyle entegre eden açık kaynaklı bir ajan altyapısıdır. Bu sistem, görsel verileri işleyerek bilgisayar üzerindeki görevleri otonom şekilde gerçekleştiren ajanların (AI agents) oluşturulmasını sağlar.",
+          "meta": "TypeScript · ★ 36.779 · +150 bugün"
+        },
+        {
+          "title": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "summary": "Nautilus Trader, Rust diliyle geliştirilmiş, deterministik olay güdümlü mimariye (event-driven architecture) sahip bir alım satım motorudur (trading engine). Yüksek performanslı finansal sistemler için üretim seviyesinde (production-grade) altyapı çözümleri sunar.",
+          "meta": "Rust · ★ 23.912 · +98 bugün"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot, açık kaynak kodlu yapısıyla canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel support) yönetimi sağlıyor. Intercom ve Zendesk gibi platformlara alternatif sunan bu araç, müşteri etkileşimlerini tek bir panel üzerinden merkezileştiriyor.",
+          "meta": "Ruby · ★ 32.482 · +264 bugün"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage, yapay zekâ kodlama asistanlarını tam kapsamlı bir video prodüksiyon stüdyosuna dönüştüren açık kaynaklı bir ajan tabanlı sistemdir (agentic system). Python tabanlı bu platform, 12 farklı işlem hattı (pipeline) ve 500'den fazla ajan yeteneği (agent skills) ile video üretim süreçlerini otomatize ediyor.",
+          "meta": "Python · ★ 5.648 · +98 bugün"
+        },
+        {
+          "title": "alexzhang13/rlm",
+          "url": "https://github.com/alexzhang13/rlm",
+          "summary": "Özyinelemeli dil modelleri (Recursive Language Models) için geliştirilen rlm, farklı çalışma ortamlarını (sandboxes) destekleyen tak-çalıştır bir çıkarım kütüphanesidir. Python tabanlı bu araç, karmaşık dil modeli süreçlerini standartlaştırarak farklı sistemlere entegre edilmesini kolaylaştırır.",
+          "meta": "Python · ★ 4.987 · +43 bugün"
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane, görev yönetimi, sprint planlama ve dokümantasyon süreçlerini bir araya getiren açık kaynaklı bir proje yönetim platformudur. Jira ve Linear gibi kurumsal araçlara alternatif olarak geliştirilen bu platform, ekiplerin iş akışlarını merkezi bir arayüz üzerinden düzenlemesine olanak tanır.",
+          "meta": "TypeScript · ★ 51.506 · +89 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Lore – Open source version control system designed for scalability",
+          "url": "https://lore.org/",
+          "summary": "Lore, ölçeklenebilirlik odaklı tasarlanmış açık kaynaklı bir sürüm kontrol sistemi (version control system) olarak geliştirildi. Yazılım projelerinde büyük veri setlerini ve karmaşık iş akışlarını yönetmek için alternatif bir altyapı sunuyor.",
+          "meta": "1.117 oy · 595 yorum"
+        },
+        {
+          "title": "Volkswagen started blocking GrapheneOS users",
+          "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+          "summary": "Volkswagen, güvenlik gerekçesiyle GrapheneOS işletim sistemi yüklü cihazlarda mobil uygulamasının çalışmasını engelliyor. Şirket, kök erişimi (root access) veya özelleştirilmiş yazılım tespit edildiğinde güvenlik protokolleri gereği uygulamaya erişimi kısıtlıyor.",
+          "meta": "658 oy · 394 yorum"
+        },
+        {
+          "title": "Midjourney Medical",
+          "url": "https://www.midjourney.com/medical/blogpost",
+          "summary": "Midjourney, tıbbi görüntüleme verilerini analiz etmek ve radyolojik taramaları anlamlandırmak amacıyla özelleşmiş bir yapay zekâ modeli (medical AI model) geliştiriyor. Şirket, bu sistemle teşhis süreçlerini hızlandırmayı ve tıbbi görsel verilerin işlenmesinde standart bir altyapı oluşturmayı hedefliyor.",
+          "meta": "650 oy · 447 yorum"
+        },
+        {
+          "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+          "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+          "summary": "Amerika Birleşik Devletleri, güvenlik riskleri gerekçesiyle yüzden fazla Çinli şirketi kara listeye almasına rağmen DeepSeek platformuna yönelik kısıtlamaları şimdilik erteledi. Söz konusu karar, teknoloji şirketlerinin ulusal güvenlik üzerindeki etkilerine dair yürütülen incelemelerin devam ettiğini gösteriyor.",
+          "meta": "449 oy · 498 yorum"
+        },
+        {
+          "title": "RFC 10008: The new HTTP Query Method",
+          "url": "https://www.rfc-editor.org/info/rfc10008/",
+          "summary": "HTTP sorgu yöntemi (HTTP Query Method), gövde içeriği taşıyabilen ancak güvenli ve yan etkisiz işlemler için tasarlanmış yeni bir standart sunuyor. Bu yöntem, mevcut GET isteğinin URL uzunluğu kısıtlamalarını aşarak daha karmaşık veri sorgularının iletilmesine olanak tanıyor.",
+          "meta": "365 oy · 154 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma-4-12B-coder modeli, kod yazma görevleri için optimize edilmiş bir metin üretme (text-generation) modelidir. GGUF formatı sayesinde, donanım kaynakları kısıtlı cihazlarda yerel çalıştırma (local inference) imkanı sunar.",
+          "meta": "♥ 1.557 · 146.784 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text generation) görevleri için tasarlanmış bir dil modelidir. HuggingFace platformunda yayınlanan bu model, doğal dil işleme süreçlerinde içerik oluşturma yetenekleri sunar.",
+          "meta": "♥ 1.132 · 666 indirme"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3, metin ve görsel verileri eş zamanlı işleyebilen çok modlu bir model (multimodal model) olarak öne çıkıyor. Sistem, görsel ve metinsel girdileri analiz ederek anlamlı metin çıktıları üretme yeteneği sunuyor.",
+          "meta": "♥ 1.075 · 42.198 indirme"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K2.7-Code, görsel ve metin verilerini girdi olarak işleyebilen çok modlu (multimodal) bir kodlama modelidir. Yazılım geliştirme süreçlerinde görsel içerikleri analiz ederek metin tabanlı kod çıktıları üretmek üzere tasarlanmıştır.",
+          "meta": "♥ 856 · 172.727 indirme"
+        },
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "Google, metin ve görsel girdilerini işleyerek metin tabanlı çıktılar üreten çok modlu (multimodal) yapay zekâ modeli DiffusionGemma-26B-A4B-it modelini kullanıma sundu. Bu model, görsel ve metinsel verileri bütünleşik bir yapıda işleyerek karmaşık görevlerde analiz yeteneğini artırmayı hedefliyor.",
+          "meta": "♥ 986 · 460.173 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "knowledge graph",
+      "explanation": "Bilgileri birbirleriyle olan ilişkileriyle birlikte bir ağ yapısında birbirine bağlayan veri tabanı."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekanın metinleri işlerken kullandığı, kelimelerin veya hecelerin parçalara ayrılmış en küçük birimi."
+    },
+    {
+      "term": "dial keys",
+      "explanation": "Eski telefonlarda numara çevirmek için kullanılan, döndürülerek çalışan mekanik tuş takımı."
+    },
+    {
+      "term": "networking stack",
+      "explanation": "Bilgisayarların birbirleriyle iletişim kurmasını sağlayan yazılım ve protokollerin katmanlı yapısı."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlar girerek yönetmenizi sağlayan metin tabanlı arayüz."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan köprü."
+    },
+    {
+      "term": "cloud native",
+      "explanation": "Doğrudan internet üzerindeki sunucularda çalışacak şekilde tasarlanmış, ölçeklenebilir yazılım mimarisi."
+    },
+    {
+      "term": "service mesh",
+      "explanation": "Karmaşık yazılım sistemlerinde parçalar arasındaki veri trafiğini düzenleyen ve güvenliğini sağlayan altyapı katmanı."
+    },
+    {
+      "term": "agentic skills",
+      "explanation": "Yapay zekanın kendisine verilen bir hedefi gerçekleştirmek için kendi başına karar alıp adım atabilme yeteneği."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri hızlandırmak için kullanılan, hazır araçlar ve kurallar bütünü."
+    },
+    {
+      "term": "Time Series Foundation Model",
+      "explanation": "Zamana bağlı verilerdeki değişimleri analiz edip gelecekteki durumları tahmin edebilen gelişmiş yapay zeka modeli."
+    },
+    {
+      "term": "communications operating system",
+      "explanation": "Farklı iletişim araçlarını ve kanallarını tek bir merkezden yönetmeyi sağlayan yazılım platformu."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Kendi başına yazılım kodu yazabilen, hataları düzelten ve projeleri geliştirebilen otonom yapay zeka."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zeka modeli."
+    },
+    {
+      "term": "refactoring",
+      "explanation": "Yazılımın dışarıdan görünen davranışını değiştirmeden, içindeki kod yapısını daha düzenli ve verimli hale getirme işlemi."
+    },
+    {
+      "term": "bloatware",
+      "explanation": "Bilgisayar veya telefona önceden yüklenmiş, genellikle gereksiz yer kaplayan ve sistemi yavaşlatan yazılımlar."
+    }
+  ]
+}
