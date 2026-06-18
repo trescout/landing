@@ -50,7 +50,7 @@ Oh My Pi aracını terminalimde kullanmaya başladım. Bu yapay zekâ kodlama aj
 - [GitHub deposu →](https://github.com/can1357/oh-my-pi)
 
 ## İlgili sözlük terimleri
-LSP AI Coding Agent Artificial Intelligence 
+LSP AI Coding Agent Coding Agent Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

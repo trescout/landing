@@ -23,7 +23,7 @@ Continue aracını kullanmaya başlamak için VS Code Marketplace veya OpenVSX �
 - [GitHub deposu →](https://github.com/continuedev/continue)
 
 ## İlgili sözlük terimleri
-Refactoring LLM 
+Refactoring Coding Agent LLM 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

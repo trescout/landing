@@ -1307,5 +1307,12 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bilgisayar veya telefona önceden yüklenmiş, genellikle gereksiz yer kaplayan ve sistemi yavaşlatan yazılımlardır."
+  },
+  {
+    "slug": "coding-agent",
+    "en": "Coding Agent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yazılım geliştirme süreçlerini otomatize eden ve bağımsız olarak kod yazabilen yapay zeka sistemidir."
   }
 ]
