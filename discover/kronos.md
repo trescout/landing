@@ -45,7 +45,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsini
 - [GitHub deposu →](https://github.com/shiyu-coder/Kronos)
 
 ## İlgili sözlük terimleri
-Foundation Model NLP Open Source Artificial Intelligence 
+NLP Foundation Model Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

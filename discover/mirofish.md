@@ -38,7 +38,7 @@ MiroFish aracını kullanarak bir simülasyon başlatmak istiyorum. Öncelikle .
 - [GitHub deposu →](https://github.com/666ghj/MiroFish)
 
 ## İlgili sözlük terimleri
-Swarm Intelligence Engine Sandbox LLM API Artificial Intelligence 
+Swarm Intelligence Engine Sandbox API LLM Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -36,7 +36,7 @@ Aisuite kütüphanesini kullanarak farklı yapay zekâ modellerini tek bir aray�
 - [GitHub deposu →](https://github.com/andrewyng/aisuite)
 
 ## İlgili sözlük terimleri
-Agents Generative AI API Artificial Intelligence 
+Generative AI Agents API Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

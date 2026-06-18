@@ -21,6 +21,9 @@ Aracı kullanmaya başlamak için GitHub üzerindeki resmî sürümler sayfasın
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/itsfatduck/optimizerDuck)
 
+## İlgili sözlük terimleri
+Bloatware 
+
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
 ---

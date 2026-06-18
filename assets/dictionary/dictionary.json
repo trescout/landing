@@ -1265,5 +1265,47 @@
     "full": "",
     "cat": "dev",
     "kisa": "Dış dünyadan gelen tüm istekleri karşılayan, bunları doğru yerlere yönlendiren ve güvenlik kontrollerini yapan merkezi bir giriş kapısıdır."
+  },
+  {
+    "slug": "dial-keys",
+    "en": "Dial Keys",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Eski telefonlarda numara çevirmek için kullanılan, döndürülerek çalışan mekanik tuş takımıdır."
+  },
+  {
+    "slug": "networking-stack",
+    "en": "Networking Stack",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarların birbirleriyle iletişim kurmasını sağlayan yazılım ve protokollerin katmanlı yapısıdır."
+  },
+  {
+    "slug": "time-series-foundation-model",
+    "en": "Time Series Foundation Model",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Zamana bağlı verilerdeki değişimleri analiz edip gelecekteki durumları tahmin edebilen gelişmiş yapay zeka modelidir."
+  },
+  {
+    "slug": "communications-operating-system",
+    "en": "Communications Operating System",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Farklı iletişim araçlarını ve kanallarını tek bir merkezden yönetmeyi sağlayan yazılım platformudur."
+  },
+  {
+    "slug": "refactoring",
+    "en": "Refactoring",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımın dışarıdan görünen davranışını değiştirmeden, içindeki kod yapısını daha düzenli ve verimli hale getirme işlemidir."
+  },
+  {
+    "slug": "bloatware",
+    "en": "Bloatware",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayar veya telefona önceden yüklenmiş, genellikle gereksiz yer kaplayan ve sistemi yavaşlatan yazılımlardır."
   }
 ]

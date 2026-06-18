@@ -23,7 +23,7 @@ Iroh, öncelikli olarak bir Rust kütüphanesidir. Başlamak için resmî doküm
 - [GitHub deposu →](https://github.com/n0-computer/iroh)
 
 ## İlgili sözlük terimleri
-Rust 
+Networking Stack Rust 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -1,0 +1,32 @@
+# açık kaynaklı proje yönetim platformu
+
+Plane, görev yönetimi, sprint planlama ve dokümantasyon süreçlerini bir araya getiren açık kaynaklı bir proje yönetim platformudur. Jira ve Linear gibi kurumsal araçlara alternatif olarak geliştirilen bu platform, ekiplerin iş akışlarını merkezi bir arayüz üzerinden düzenlemesine olanak tanır.
+
+- ★ 51.506
+- TypeScript
+- GitHub Trending · 2026-06-18
+
+## Ne kazandırır?
+- Görevleri ve ürün yol haritalarını merkezi bir arayüzde takip etme
+- Karmaşık projeleri yönetilebilir modüllere ve döngülere bölme
+- Yapay zekâ destekli dokümantasyon ve analiz araçları
+
+## Nasıl başlanır?
+
+Hızlıca başlamak için Plane Cloud üzerinden ücretsiz bir hesap oluşturabilirsiniz. Eğer kendi altyapınızda barındırmak isterseniz, resmî dokümantasyon sayfasındaki Docker veya Kubernetes kurulum rehberlerini takip ederek kendi sunucunuza kurulum yapabilirsiniz.
+- [Resmî kaynak →](http://plane.so)
+
+- **Kimin için:** Projelerini merkezi bir platform üzerinden takip etmek, sprintlerini planlamak ve dokümantasyon süreçlerini yönetmek isteyen ekipler için uygundur. 
+- **Lisans:** AGPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/makeplane/plane)
+
+## İlgili sözlük terimleri
+Artificial Intelligence 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/plane/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

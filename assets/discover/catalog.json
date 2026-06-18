@@ -2354,5 +2354,185 @@
     "headline": "anahtar tabanlı esnek ağ bağlantıları",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "codebase-memory-mcp",
+    "title": "Codebase Memory MCP",
+    "tagline": "Codebase-memory-mcp, kod tabanlarını kalıcı bir bilgi grafiğine (knowledge graph) dönüştürerek yüksek performanslı kod…",
+    "meta": "★ 6.142 · C",
+    "image": "/assets/discover/og/codebase-memory-mcp.webp",
+    "source": "GitHub",
+    "date": "2026-06-18",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 6142,
+    "lite": false,
+    "headline": "yapay zekâ kodlama ajanları için hızlı indeksleme"
+  },
+  {
+    "slug": "timesfm",
+    "title": "Timesfm",
+    "tagline": "Google Research tarafından geliştirilen Zaman Serisi Temel Modeli (Time Series Foundation Model), zaman serisi tahminleme…",
+    "meta": "★ 22.167 · Python",
+    "image": "/assets/discover/og/timesfm.webp",
+    "source": "GitHub",
+    "date": "2026-06-18",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 22167,
+    "lite": false,
+    "headline": "zaman serileri için yapay zekâ tahminleme"
+  },
+  {
+    "slug": "rocket-chat",
+    "title": "Rocket.Chat",
+    "tagline": "Rocket.Chat, görev kritik operasyonlar için tasarlanmış güvenli bir iletişim işletim sistemi (communications operating system)…",
+    "meta": "★ 45.649 · TypeScript",
+    "image": "/assets/discover/og/rocket-chat.webp",
+    "source": "GitHub",
+    "date": "2026-06-18",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 45649,
+    "lite": false,
+    "headline": "Güvenli ve özelleştirilebilir ekip iletişimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "continue",
+    "title": "Continue",
+    "tagline": "Continue, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent).",
+    "meta": "★ 34.017 · TypeScript",
+    "image": "/assets/discover/og/continue.webp",
+    "source": "GitHub",
+    "date": "2026-06-18",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 34017,
+    "lite": false,
+    "headline": "Açık kaynaklı kodlama ajanı",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "penpot",
+    "title": "Penpot",
+    "tagline": "Penpot, tasarımcılar ve yazılımcılar arasında iş birliğini güçlendiren açık kaynaklı bir tasarım aracıdır.",
+    "meta": "★ 50.242 · Clojure",
+    "image": "/assets/discover/og/penpot.webp",
+    "source": "GitHub",
+    "date": "2026-06-18",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 50242,
+    "lite": false,
+    "headline": "Tasarım ve yazılımı birleştiren platform",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "unciv",
+    "title": "Unciv",
+    "tagline": "Unciv, Civilization V oyununun açık kaynak kodlu bir masaüstü ve Android uyarlamasıdır.",
+    "meta": "★ 10.739 · Kotlin",
+    "image": "/assets/discover/og/unciv.webp",
+    "source": "GitHub",
+    "date": "2026-06-18",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 10739,
+    "lite": false,
+    "headline": "Hafif ve açık kaynaklı strateji oyunu",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "ui-tars-desktop",
+    "title": "UI-TARS-desktop",
+    "tagline": "ByteDance tarafından geliştirilen UI-TARS, çok modlu yapay zekâ modellerini (multimodal AI models) masaüstü arayüzleriyle…",
+    "meta": "★ 36.779 · TypeScript",
+    "image": "/assets/discover/og/ui-tars-desktop.webp",
+    "source": "GitHub",
+    "date": "2026-06-18",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 36779,
+    "lite": false,
+    "headline": "bilgisayarınızı yöneten yapay zekâ arayüzü"
+  },
+  {
+    "slug": "nautilus-trader",
+    "title": "Nautilus Trader",
+    "tagline": "Nautilus Trader, Rust diliyle geliştirilmiş, deterministik olay güdümlü mimariye (event-driven architecture) sahip bir alım…",
+    "meta": "★ 23.912 · Rust",
+    "image": "/assets/discover/og/nautilus-trader.webp",
+    "source": "GitHub",
+    "date": "2026-06-18",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 23912,
+    "lite": false,
+    "headline": "Yüksek performanslı yapay zekâ alım satım motoru"
+  },
+  {
+    "slug": "openmontage",
+    "title": "OpenMontage",
+    "tagline": "OpenMontage, yapay zekâ kodlama asistanlarını tam kapsamlı bir video prodüksiyon stüdyosuna dönüştüren açık kaynaklı bir ajan…",
+    "meta": "★ 5.648 · Python",
+    "image": "/assets/discover/og/openmontage.webp",
+    "source": "GitHub",
+    "date": "2026-06-18",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 5648,
+    "lite": false,
+    "headline": "yapay zekâ ile profesyonel video üretimi"
+  },
+  {
+    "slug": "rlm",
+    "title": "RLM",
+    "tagline": "Özyinelemeli dil modelleri (Recursive Language Models) için geliştirilen rlm, farklı çalışma ortamlarını (sandboxes)…",
+    "meta": "★ 4.987 · Python",
+    "image": "/assets/discover/og/rlm.webp",
+    "source": "GitHub",
+    "date": "2026-06-18",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 4987,
+    "lite": false,
+    "headline": "Özyinelemeli yapay zekâ modelleri için altyapı"
+  },
+  {
+    "slug": "plane",
+    "title": "Plane",
+    "tagline": "Plane, görev yönetimi, sprint planlama ve dokümantasyon süreçlerini bir araya getiren açık kaynaklı bir proje yönetim…",
+    "meta": "★ 51.506 · TypeScript",
+    "image": "/assets/discover/og/plane.webp",
+    "source": "GitHub",
+    "date": "2026-06-18",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 51506,
+    "lite": false,
+    "headline": "açık kaynaklı proje yönetim platformu",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]
