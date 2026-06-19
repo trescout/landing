@@ -2534,5 +2534,126 @@
     "headline": "açık kaynaklı proje yönetim platformu",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "glm-5",
+    "title": "GLM 5",
+    "tagline": "GLM-5, yazılım geliştirme süreçlerini sezgisel kodlamadan (vibe coding) yapılandırılmış ajan tabanlı mühendisliğe (agentic…",
+    "meta": "★ 4.301",
+    "image": "/assets/discover/og/glm-5.webp",
+    "source": "GitHub",
+    "date": "2026-06-19",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 4301,
+    "lite": false,
+    "headline": "karmaşık yazılım görevleri için yapay zekâ",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "kilocode",
+    "title": "Kilocode",
+    "tagline": "Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur…",
+    "meta": "★ 22.481 · TypeScript",
+    "image": "/assets/discover/og/kilocode.webp",
+    "source": "GitHub",
+    "date": "2026-06-19",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 22481,
+    "lite": false,
+    "headline": "Çok yönlü yapay zekâ kodlama ajanı"
+  },
+  {
+    "slug": "insomnia",
+    "title": "Insomnia",
+    "tagline": "Insomnia, GraphQL, REST, WebSockets, SSE ve gRPC protokollerini destekleyen açık kaynaklı bir uygulama programlama arayüzü…",
+    "meta": "★ 38.771 · TypeScript",
+    "image": "/assets/discover/og/insomnia.webp",
+    "source": "GitHub",
+    "date": "2026-06-19",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 38771,
+    "lite": false,
+    "headline": "Kapsamlı yapay zekâ destekli API istemcisi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "aspnetcore",
+    "title": "Aspnetcore",
+    "tagline": "ASP.NET Core, Windows, macOS ve Linux üzerinde modern bulut tabanlı web uygulamaları geliştirmek için kullanılan platformlar…",
+    "meta": "★ 38.124 · C#",
+    "image": "/assets/discover/og/aspnetcore.webp",
+    "source": "GitHub",
+    "date": "2026-06-19",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 38124,
+    "lite": false,
+    "headline": "Modern web uygulamaları için yapay zekâ destekli altyapı",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "awesome-artificial-intelligence",
+    "title": "Awesome Artificial Intelligence",
+    "tagline": "Awesome-artificial-intelligence, yapay zekâ (artificial intelligence) alanındaki eğitimleri, kitapları, video dersleri ve…",
+    "meta": "★ 14.532",
+    "image": "/assets/discover/og/awesome-artificial-intelligence.webp",
+    "source": "GitHub",
+    "date": "2026-06-19",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 14532,
+    "lite": false,
+    "headline": "yapay zekâ geliştirme için temel kaynaklar",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "ltx-2",
+    "title": "LTX 2",
+    "tagline": "Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python çıkarım (inference) ve düşük…",
+    "meta": "★ 7.550 · Python",
+    "image": "/assets/discover/og/ltx-2.webp",
+    "source": "GitHub",
+    "date": "2026-06-19",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7550,
+    "lite": false,
+    "headline": "Yerel sistemde yapay zekâ video üretimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "libretranslate",
+    "title": "LibreTranslate",
+    "tagline": "LibreTranslate, özgür ve açık kaynak kodlu bir makine çevirisi arayüzü (API) sunuyor.",
+    "meta": "★ 15.075 · Python",
+    "image": "/assets/discover/og/libretranslate.webp",
+    "source": "GitHub",
+    "date": "2026-06-19",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 15075,
+    "lite": false,
+    "headline": "Kendi sunucunuzda özgür makine çevirisi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

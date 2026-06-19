@@ -1314,5 +1314,47 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yazılım geliştirme süreçlerini otomatize eden ve bağımsız olarak kod yazabilen yapay zeka sistemidir."
+  },
+  {
+    "slug": "key-based",
+    "en": "Key-based",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Sisteme giriş veya veri güvenliği için özel bir anahtar koduna dayanan yöntemdir."
+  },
+  {
+    "slug": "vibe-coding",
+    "en": "Vibe Coding",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Teknik ayrıntılara girmeden, sadece ne istediğinizi tarif ederek yapay zeka ile kod yazma yaklaşımıdır."
+  },
+  {
+    "slug": "agentic-engineering",
+    "en": "Agentic Engineering",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kendi kararlarını alıp hedefe ulaşabilen otonom yazılım sistemleri tasarlama disiplinidir."
+  },
+  {
+    "slug": "in-process",
+    "en": "In-process",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir işlemin dışarıdan yardıma ihtiyaç duymadan, programın kendi çalışma alanı içinde gerçekleşmesidir."
+  },
+  {
+    "slug": "sandbox-agent-framework",
+    "en": "Sandbox Agent Framework",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zeka ajanlarının ana sisteme zarar vermeden güvenli bir alanda çalışmasını sağlayan altyapıdır."
+  },
+  {
+    "slug": "agentic-engineering-platform",
+    "en": "Agentic Engineering Platform",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Otonom yapay zeka ajanları oluşturmak, yönetmek ve test etmek için kullanılan kapsamlı geliştirme ortamıdır."
   }
 ]
