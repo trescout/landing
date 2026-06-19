@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-19",
+  "editorial": "Zaman serisi tahminleme modelleri (time series forecasting) ve merkeziyetsiz ağ protokolleri bugün geliştirici ekosisteminde öne çıkan temel odak noktalarıdır. Özellikle Google tarafından yayınlanan TimesFM kütüphanesi, büyük ölçekli veri setlerinde tahminleme performansını artırmak isteyen mühendisler için kritik bir referans kaynağı oluşturuyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "Google Research tarafından geliştirilen Zaman Serisi Temel Modeli (Time Series Foundation Model), zaman serisi tahminleme işlemleri için önceden eğitilmiş bir yapı sunuyor. Python tabanlı bu model, farklı veri setleri üzerinde genel tahmin yetenekleri kazandırılarak zaman serisi analizi süreçlerini standartlaştırıyor.",
+          "meta": "Python · ★ 23.650 · +844 bugün"
+        },
+        {
+          "title": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "summary": "Iroh, IP adreslerine bağımlılığı ortadan kaldırarak ağ bağlantılarını anahtar tabanlı (key-based) bir yapıda kuran modüler bir ağ yığını (networking stack) sunuyor. Rust diliyle geliştirilen bu araç, ağ düğümleri arasında doğrudan ve güvenli veri aktarımı için alternatif bir iletişim protokolü sağlıyor.",
+          "meta": "Rust · ★ 10.101 · +369 bugün"
+        },
+        {
+          "title": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "summary": "freeCodeCamp, matematik, programlama ve bilgisayar bilimleri alanlarında ücretsiz eğitim müfredatı sunan açık kaynaklı bir platformdur. TypeScript tabanlı bu proje, kullanıcıların etkileşimli alıştırmalarla yazılım geliştirme becerileri kazanmasını sağlar.",
+          "meta": "TypeScript · ★ 449.684 · +417 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yazılım geliştirme metodolojileriyle entegre çalışan bir ajan yetenekleri çatısı (agentic skills framework) sunuyor. Yazılım süreçlerinde ajan tabanlı iş akışlarını standartlaştırmayı ve işlevsel hale getirmeyi hedefliyor.",
+          "meta": "Shell · ★ 232.765 · +1.429 bugün"
+        },
+        {
+          "title": "zai-org/GLM-5",
+          "url": "https://github.com/zai-org/GLM-5",
+          "summary": "GLM-5, yazılım geliştirme süreçlerini sezgisel kodlamadan (vibe coding) yapılandırılmış ajan tabanlı mühendisliğe (agentic engineering) taşımayı amaçlayan bir çerçeve sunuyor. Bu sistem, karmaşık görevleri otonom bir şekilde yönetebilen yapay zekâ ajanları (AI agents) aracılığıyla yazılım geliştirme iş akışlarını standartlaştırıyor.",
+          "meta": "★ 4.301 · +202 bugün"
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp, kod tabanlarını kalıcı bir bilgi çizgesi (knowledge graph) üzerinde indeksleyerek yüksek performanslı kod zekâsı sunuyor. C diliyle geliştirilen bu sunucu, 158 programlama dilini desteklerken sorgu sürelerini milisaniyenin altına indiriyor ve bağlam penceresi tüketimini büyük oranda düşürüyor.",
+          "meta": "C · ★ 7.381 · +2.322 bugün"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Alibaba tarafından geliştirilen zvec, süreç içi (in-process) çalışan hafif ve yüksek hızlı bir vektör veritabanı (vector database) çözümüdür. C++ diliyle yazılan bu araç, özellikle düşük gecikme süresi gerektiren uygulamalar için vektör arama işlemlerini optimize eder.",
+          "meta": "C++ · ★ 11.388 · +259 bugün"
+        },
+        {
+          "title": "withastro/flue",
+          "url": "https://github.com/withastro/flue",
+          "summary": "Astro ekibi tarafından geliştirilen Flue, TypeScript tabanlı bir sanal alan ajanı çatısı (sandbox agent framework) sunuyor. Yazılımcıların güvenli ve izole ortamlarda yapay zekâ ajanları oluşturmasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 5.603 · +162 bugün"
+        },
+        {
+          "title": "Kilo-Org/kilocode",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "summary": "Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur (agentic engineering platform). Açık kaynak kodlu yazılım geliştirme ajanı (coding agent) üzerinden uygulama oluşturma, dağıtma ve yineleme süreçlerini standartlaştırır.",
+          "meta": "TypeScript · ★ 22.481 · +1.345 bugün"
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane, görev yönetimi, sprint planlama ve dokümantasyon süreçlerini bir araya getiren açık kaynaklı bir proje yönetim platformudur. Jira ve Linear gibi araçlara alternatif olarak geliştirilen platform, TypeScript tabanlı yapısıyla ekiplerin iş akışlarını merkezileştirmesini sağlar.",
+          "meta": "TypeScript · ★ 51.960 · +613 bugün"
+        },
+        {
+          "title": "Kong/insomnia",
+          "url": "https://github.com/Kong/insomnia",
+          "summary": "Insomnia, GraphQL, REST, WebSockets, SSE ve gRPC protokollerini destekleyen açık kaynaklı bir uygulama programlama arayüzü (API) istemcisidir. Yazılım, bulut tabanlı, yerel ve Git üzerinden depolama seçenekleriyle çapraz platform desteği sunar.",
+          "meta": "TypeScript · ★ 38.771 · +18 bugün"
+        },
+        {
+          "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "summary": "Universal Android Debloater Next Generation, Rust diliyle geliştirilen ve kök erişimi (root) gerektirmeyen Android cihazlardaki gereksiz uygulamaları kaldırmaya yarayan çapraz platformlu bir grafik arayüzdür. Araç, Android Hata Ayıklama Köprüsü (ADB) üzerinden çalışarak cihaz gizliliğini, güvenliğini ve pil ömrünü iyileştirmeyi hedefler.",
+          "meta": "Rust · ★ 7.999 · +244 bugün"
+        },
+        {
+          "title": "dotnet/aspnetcore",
+          "url": "https://github.com/dotnet/aspnetcore",
+          "summary": "ASP.NET Core, Windows, macOS ve Linux üzerinde modern bulut tabanlı web uygulamaları geliştirmek için kullanılan platformlar arası bir .NET çerçevesidir (framework). C# diliyle geliştirilen bu yapı, yüksek performanslı ve ölçeklenebilir web hizmetleri oluşturmaya olanak tanır.",
+          "meta": "C# · ★ 38.124 · +14 bugün"
+        },
+        {
+          "title": "owainlewis/awesome-artificial-intelligence",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+          "summary": "Awesome-artificial-intelligence, yapay zekâ (artificial intelligence) alanındaki eğitimleri, kitapları, video dersleri ve akademik makaleleri bir araya getiren kapsamlı bir kaynak listesidir. Bu derleme, öğrenme sürecindeki kullanıcılar için disipline dayalı yapılandırılmış bir içerik havuzu sunar.",
+          "meta": "★ 14.532 · +40 bugün"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "summary": "Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python çıkarım (inference) ve düşük dereceli uyarlama (low-rank adaptation, LoRA) eğitim paketi sunuyor. Bu araç seti, kullanıcıların LTX-2 modellerini kendi verileriyle eğitmesine ve model çıktılarını yerel sistemlerde çalıştırmasına olanak tanıyor.",
+          "meta": "Python · ★ 7.550 · +51 bugün"
+        },
+        {
+          "title": "LibreTranslate/LibreTranslate",
+          "url": "https://github.com/LibreTranslate/LibreTranslate",
+          "summary": "LibreTranslate, özgür ve açık kaynak kodlu bir makine çevirisi arayüzü (API) sunuyor. Kendi sunucunuzda barındırabileceğiniz bu Python tabanlı araç, internet bağlantısı olmadan çevrim dışı çalışma imkânı sağlıyor.",
+          "meta": "Python · ★ 15.075 · +51 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "I found 10k GitHub repositories distributing Trojan malware",
+          "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+          "summary": "GitHub üzerinde barındırılan on bin binden fazla yazılım deposunun, Truva atı (Trojan) türünde kötü amaçlı yazılımlar dağıttığı tespit edildi. Bu depolar, meşru projeleri taklit ederek kullanıcıları zararlı dosyaları indirmeye teşvik eden bir yöntem izliyor.",
+          "meta": "780 oy · 203 yorum"
+        },
+        {
+          "title": ".gitignore Isn't the only way to ignore files in Git",
+          "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+          "summary": "Git projelerinde dosya hariç tutma (ignoring files) işlemleri için yalnızca .gitignore dosyası kullanılmıyor. Geliştiriciler, yerel yapılandırmalar için .git/info/exclude dosyasını veya genel kapsamlı hariç tutmalar için global yapılandırma (global config) yöntemlerini tercih edebiliyor.",
+          "meta": "410 oy · 129 yorum"
+        },
+        {
+          "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+          "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+          "summary": "Norveçli perakendeci Elkjop, kullanıcıların veri işleme izinlerini zorunlu kılan uygulamaları nedeniyle 1,8 milyon avro tutarında idari para cezasına çarptırıldı. Bu karar, Genel Veri Koruma Tüzüğü (GDPR) kapsamında kullanıcı rızasının özgürce verilmesi gerektiği kuralının ihlal edilmesine dayanıyor.",
+          "meta": "374 oy · 214 yorum"
+        },
+        {
+          "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+          "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+          "summary": "Cornell Üniversitesi tarafından sunulan ileri derleyiciler (advanced compilers) dersi, modern derleyici tasarımı ve optimizasyon tekniklerini kapsayan kendi kendine öğrenme materyallerini erişime açıyor. Program, derleyici altyapısı (compiler infrastructure) ve kod üretimi süreçlerine dair teorik bilgileri pratik uygulamalarla destekliyor.",
+          "meta": "364 oy · 51 yorum"
+        },
+        {
+          "title": "Show HN: Are You in the Weights?",
+          "url": "https://www.intheweights.com/",
+          "summary": "İnternet trafiğinin büyük dil modellerine (large language models) kaymasıyla birlikte, kişisel verilerin yapay zekâ modellerinin ağırlıklarında (weights) ne ölçüde yer aldığını sorgulayan bir platform geliştirildi. Bu araç, çeşitli modelleri eş zamanlı sorgulayarak verilerin yapay zekâ hafızasındaki izlerini analiz ediyor.",
+          "meta": "336 oy · 188 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma-4-12B temelli bu metin üretme modeli (text-generation model), kod yazma ve içerik oluşturma süreçlerine yönelik özelleştirilmiş ağırlıklar içeriyor. Model, düşük kaynaklı cihazlarda çalışabilmesi için nicelenmiş (quantized) GGUF formatında sunuluyor.",
+          "meta": "♥ 1.748 · 211.424 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından yayınlanan GLM-5.2, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. HuggingFace platformunda yüksek etkileşim alan bu model, geniş kapsamlı metin oluşturma süreçlerinde kullanılmaktadır.",
+          "meta": "♥ 1.410 · 4.307 indirme"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMaxAI tarafından geliştirilen MiniMax-M3, görsel ve metinsel verileri işleyerek metin tabanlı çıktılar üreten çok modlu bir modeldir (multimodal model). Sistem, farklı veri türlerini eş zamanlı analiz ederek karmaşık görevlerde işlevsellik sunar.",
+          "meta": "♥ 1.109 · 56.162 indirme"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K2.7-Code, görsel ve metin verilerini girdi olarak işleyebilen çok modlu (multimodal) bir kodlama modelidir. Yazılım geliştirme süreçlerinde görsel içerikleri analiz ederek metin tabanlı kod çıktıları üretmek üzere tasarlanmıştır.",
+          "meta": "♥ 890 · 229.156 indirme"
+        },
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "Google tarafından yayınlanan DiffusionGemma, görüntü ve metin girdilerini işleyerek metin tabanlı çıktılar üreten bir çok modlu (multimodal) modeldir. Model, görsel verileri anlama ve metinle ilişkilendirme yeteneğiyle karmaşık içerik analiz süreçlerini destekler.",
+          "meta": "♥ 1.007 · 527.080 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Time Series Foundation Model",
+      "explanation": "Geçmişteki sayısal verilerin düzenini öğrenerek gelecekteki değişimleri tahmin edebilen gelişmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "key-based",
+      "explanation": "Bir sisteme erişmek veya veriyi şifrelemek için özel bir anahtar kodunun kullanıldığı yöntem."
+    },
+    {
+      "term": "networking stack",
+      "explanation": "Bilgisayarların birbirleriyle iletişim kurmasını sağlayan yazılım ve protokollerin üst üste dizilmiş katmanları."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekâ yazılımlarının karmaşık işleri kendi başına yapabilmesi için ihtiyaç duyduğu yetenekler bütünü."
+    },
+    {
+      "term": "vibe coding",
+      "explanation": "Teknik detaylara boğulmadan, sadece ne istediğinizi tarif ederek yapay zekâ yardımıyla hızlıca kod yazma süreci."
+    },
+    {
+      "term": "agentic engineering",
+      "explanation": "Kendi kararlarını alıp hedefe ulaşabilen otonom yazılımlar tasarlama ve geliştirme disiplini."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Verilen görevleri yerine getirmek için araçları kullanan ve kendi başına karar verebilen akıllı yazılımlar."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Bilgilerin birbirleriyle olan ilişkilerini bir ağ haritası gibi birbirine bağlayarak sunan veri yapısı."
+    },
+    {
+      "term": "in-process",
+      "explanation": "Bir programın kendi çalışma alanı içerisinde, dışarıdan yardıma ihtiyaç duymadan gerçekleşen işlem."
+    },
+    {
+      "term": "vector database",
+      "explanation": "Yapay zekânın verileri anlamlı sayılara dönüştürerek hızlıca arayıp bulabildiği özel bir veri depolama alanı."
+    },
+    {
+      "term": "sandbox agent framework",
+      "explanation": "Yapay zekâ yazılımlarının ana sisteme zarar vermeden güvenli bir ortamda test edilmesini sağlayan altyapı."
+    },
+    {
+      "term": "agentic engineering platform",
+      "explanation": "Kendi kendine çalışan akıllı yazılımlar oluşturmak, yönetmek ve test etmek için kullanılan kapsamlı geliştirme ortamı."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Yazılımcı gibi davranarak kod yazan, hataları düzelten ve projeleri tamamlayan yapay zekâ aracı."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan dijital köprü."
+    },
+    {
+      "term": "root",
+      "explanation": "Bir bilgisayar sistemindeki tüm dosya ve ayarlara tam erişim yetkisi olan en üst düzey yönetici hesabı."
+    },
+    {
+      "term": "ADB",
+      "explanation": "Bilgisayar ile Android cihazlar arasında komut gönderip veri yönetimi yapmayı sağlayan bağlantı aracı."
+    }
+  ]
+}

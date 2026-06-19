@@ -1,0 +1,118 @@
+{
+  "date": "2026-06-19",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "zai-org/GLM-5",
+          "url": "https://github.com/zai-org/GLM-5",
+          "summary": "GLM-5, yazılım geliştirme süreçlerini sezgisel kodlamadan (vibe coding) yapılandırılmış ajan tabanlı mühendisliğe (agentic engineering) taşımayı amaçlayan bir çerçeve sunuyor. Bu sistem, karmaşık görevleri otonom bir şekilde yönetebilen yapay zekâ ajanları (AI agents) aracılığıyla yazılım geliştirme iş akışlarını standartlaştırıyor.",
+          "meta": "★ 4.301 · +202 bugün"
+        },
+        {
+          "title": "Kilo-Org/kilocode",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "summary": "Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur (agentic engineering platform). Açık kaynak kodlu yazılım geliştirme ajanı (coding agent) üzerinden uygulama oluşturma, dağıtma ve yineleme süreçlerini standartlaştırır.",
+          "meta": "TypeScript · ★ 22.481 · +1.345 bugün"
+        },
+        {
+          "title": "Kong/insomnia",
+          "url": "https://github.com/Kong/insomnia",
+          "summary": "Insomnia, GraphQL, REST, WebSockets, SSE ve gRPC protokollerini destekleyen açık kaynaklı bir uygulama programlama arayüzü (API) istemcisidir. Yazılım, bulut tabanlı, yerel ve Git üzerinden depolama seçenekleriyle çapraz platform desteği sunar.",
+          "meta": "TypeScript · ★ 38.771 · +18 bugün"
+        },
+        {
+          "title": "dotnet/aspnetcore",
+          "url": "https://github.com/dotnet/aspnetcore",
+          "summary": "ASP.NET Core, Windows, macOS ve Linux üzerinde modern bulut tabanlı web uygulamaları geliştirmek için kullanılan platformlar arası bir .NET çerçevesidir (framework). C# diliyle geliştirilen bu yapı, yüksek performanslı ve ölçeklenebilir web hizmetleri oluşturmaya olanak tanır.",
+          "meta": "C# · ★ 38.124 · +14 bugün"
+        },
+        {
+          "title": "owainlewis/awesome-artificial-intelligence",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+          "summary": "Awesome-artificial-intelligence, yapay zekâ (artificial intelligence) alanındaki eğitimleri, kitapları, video dersleri ve akademik makaleleri bir araya getiren kapsamlı bir kaynak listesidir. Bu derleme, öğrenme sürecindeki kullanıcılar için disipline dayalı yapılandırılmış bir içerik havuzu sunar.",
+          "meta": "★ 14.532 · +40 bugün"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "summary": "Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python çıkarım (inference) ve düşük dereceli uyarlama (low-rank adaptation, LoRA) eğitim paketi sunuyor. Bu araç seti, kullanıcıların LTX-2 modellerini kendi verileriyle eğitmesine ve model çıktılarını yerel sistemlerde çalıştırmasına olanak tanıyor.",
+          "meta": "Python · ★ 7.550 · +51 bugün"
+        },
+        {
+          "title": "LibreTranslate/LibreTranslate",
+          "url": "https://github.com/LibreTranslate/LibreTranslate",
+          "summary": "LibreTranslate, özgür ve açık kaynak kodlu bir makine çevirisi arayüzü (API) sunuyor. Kendi sunucunuzda barındırabileceğiniz bu Python tabanlı araç, internet bağlantısı olmadan çevrim dışı çalışma imkânı sağlıyor.",
+          "meta": "Python · ★ 15.075 · +51 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "I found 10k GitHub repositories distributing Trojan malware",
+          "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+          "summary": "GitHub üzerinde barındırılan on bin binden fazla yazılım deposunun, Truva atı (Trojan) türünde kötü amaçlı yazılımlar dağıttığı tespit edildi. Bu depolar, meşru projeleri taklit ederek kullanıcıları zararlı dosyaları indirmeye teşvik eden bir yöntem izliyor.",
+          "meta": "780 oy · 203 yorum"
+        },
+        {
+          "title": ".gitignore Isn't the only way to ignore files in Git",
+          "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+          "summary": "Git projelerinde dosya hariç tutma (ignoring files) işlemleri için yalnızca .gitignore dosyası kullanılmıyor. Geliştiriciler, yerel yapılandırmalar için .git/info/exclude dosyasını veya genel kapsamlı hariç tutmalar için global yapılandırma (global config) yöntemlerini tercih edebiliyor.",
+          "meta": "410 oy · 129 yorum"
+        },
+        {
+          "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+          "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+          "summary": "Norveçli perakendeci Elkjop, kullanıcıların veri işleme izinlerini zorunlu kılan uygulamaları nedeniyle 1,8 milyon avro tutarında idari para cezasına çarptırıldı. Bu karar, Genel Veri Koruma Tüzüğü (GDPR) kapsamında kullanıcı rızasının özgürce verilmesi gerektiği kuralının ihlal edilmesine dayanıyor.",
+          "meta": "374 oy · 214 yorum"
+        },
+        {
+          "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+          "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+          "summary": "Cornell Üniversitesi tarafından sunulan ileri derleyiciler (advanced compilers) dersi, modern derleyici tasarımı ve optimizasyon tekniklerini kapsayan kendi kendine öğrenme materyallerini erişime açıyor. Program, derleyici altyapısı (compiler infrastructure) ve kod üretimi süreçlerine dair teorik bilgileri pratik uygulamalarla destekliyor.",
+          "meta": "364 oy · 51 yorum"
+        },
+        {
+          "title": "Show HN: Are You in the Weights?",
+          "url": "https://www.intheweights.com/",
+          "summary": "İnternet trafiğinin büyük dil modellerine (large language models) kaymasıyla birlikte, kişisel verilerin yapay zekâ modellerinin ağırlıklarında (weights) ne ölçüde yer aldığını sorgulayan bir platform geliştirildi. Bu araç, çeşitli modelleri eş zamanlı sorgulayarak verilerin yapay zekâ hafızasındaki izlerini analiz ediyor.",
+          "meta": "336 oy · 188 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "vibe coding",
+      "explanation": "Teknik detaylara boğulmadan, sadece ne istediğinizi tarif ederek yapay zekâ yardımıyla hızlıca kod yazma süreci."
+    },
+    {
+      "term": "agentic engineering",
+      "explanation": "Kendi kararlarını alıp hedefe ulaşabilen otonom yazılımlar tasarlama ve geliştirme disiplini."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Verilen görevleri yerine getirmek için araçları kullanan ve kendi başına karar verebilen akıllı yazılımlar."
+    },
+    {
+      "term": "agentic engineering platform",
+      "explanation": "Kendi kendine çalışan akıllı yazılımlar oluşturmak, yönetmek ve test etmek için kullanılan kapsamlı geliştirme ortamı."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Yazılımcı gibi davranarak kod yazan, hataları düzelten ve projeleri tamamlayan yapay zekâ aracı."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan dijital köprü."
+    }
+  ]
+}
