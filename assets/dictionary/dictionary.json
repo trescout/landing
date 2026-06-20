@@ -1356,5 +1356,54 @@
     "full": "",
     "cat": "ai",
     "kisa": "Otonom yapay zeka ajanları oluşturmak, yönetmek ve test etmek için kullanılan kapsamlı geliştirme ortamıdır."
+  },
+  {
+    "slug": "video-editor",
+    "en": "Video Editor",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Görüntü ve ses dosyalarını düzenleyerek bir video haline getiren yazılımlardır."
+  },
+  {
+    "slug": "global-intelligence-dashboard",
+    "en": "Global Intelligence Dashboard",
+    "full": "",
+    "cat": "data",
+    "kisa": "Dünyanın farklı noktalarından gelen verileri merkezi bir noktada toplayıp görselleştiren yönetim ekranıdır."
+  },
+  {
+    "slug": "situational-awareness",
+    "en": "Situational Awareness",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir sistemin çevresindeki olayları anlık olarak algılayıp durumu doğru yorumlama yeteneğidir."
+  },
+  {
+    "slug": "notebooks",
+    "en": "Notebooks",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kod yazarken notlar alıp sonuçları anında görebileceğiniz etkileşimli çalışma ortamlarıdır."
+  },
+  {
+    "slug": "agent-native-applications",
+    "en": "Agent-native Applications",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zeka ajanlarının karar alıp işlemleri yürütmesi için özel olarak tasarlanmış uygulamalardır."
+  },
+  {
+    "slug": "agentic-video-production-system",
+    "en": "Agentic Video Production System",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnsan müdahalesi olmadan video kurgulayan ve düzenleyen akıllı sistemlerdir."
+  },
+  {
+    "slug": "pipeline",
+    "en": "Pipeline",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Verinin ham halden işlenmiş bir sonuca ulaşana kadar geçtiği otomatik adımlar dizisidir."
   }
 ]

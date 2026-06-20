@@ -23,7 +23,7 @@ Başlamak için resmî Microsoft ASP.NET Core Başlangıç Kılavuzu'nu ziyaret 
 - [GitHub deposu →](https://github.com/dotnet/aspnetcore)
 
 ## İlgili sözlük terimleri
-Framework SDK Artificial Intelligence 
+SDK Framework Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -2655,5 +2655,73 @@
     "headline": "Kendi sunucunuzda özgür makine çevirisi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "palmier-pro",
+    "title": "Palmier Pro",
+    "tagline": "Palmier Pro, macOS işletim sistemi üzerinde çalışan ve yapay zekâ destekli düzenleme araçları sunan bir video düzenleyici…",
+    "meta": "★ 2.134 · Swift",
+    "image": "/assets/discover/og/palmier-pro.webp",
+    "source": "GitHub",
+    "date": "2026-06-20",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 2134,
+    "lite": false,
+    "headline": "macOS için yapay zekâlı video düzenleyici",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "worldmonitor",
+    "title": "Worldmonitor",
+    "tagline": "Worldmonitor, yapay zekâ destekli haber derleme ve jeopolitik izleme özelliklerini tek bir arayüzde birleştiren gerçek zamanlı…",
+    "meta": "★ 57.469 · TypeScript",
+    "image": "/assets/discover/og/worldmonitor.webp",
+    "source": "GitHub",
+    "date": "2026-06-20",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 57469,
+    "lite": false,
+    "headline": "Gerçek zamanlı küresel istihbarat paneli"
+  },
+  {
+    "slug": "awesome-generative-ai-guide",
+    "title": "Awesome Generative AI Guide",
+    "tagline": "Awesome-generative-ai-guide deposu, üretken yapay zekâ (generative AI) alanındaki güncel araştırmaları, mülakat kaynaklarını…",
+    "meta": "★ 27.722 · HTML",
+    "image": "/assets/discover/og/awesome-generative-ai-guide.webp",
+    "source": "GitHub",
+    "date": "2026-06-20",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 27722,
+    "lite": false,
+    "headline": "Üretken yapay zekâ için kapsamlı rehber",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "agent-native",
+    "title": "Agent Native",
+    "tagline": "BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications)…",
+    "meta": "★ 1.138 · TypeScript",
+    "image": "/assets/discover/og/agent-native.webp",
+    "source": "GitHub",
+    "date": "2026-06-20",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1138,
+    "lite": false,
+    "headline": "yapay zekâ ajanları için uygulama çerçevesi"
   }
 ]
