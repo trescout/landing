@@ -1,0 +1,237 @@
+{
+  "date": "2026-06-20",
+  "editorial": "Bugün geliştirici ekosisteminde kod tabanı belleği (codebase memory) ve otonom ajan (autonomous agent) mimarileri üzerine odaklanan araçlar öne çıkıyor. Google Research tarafından paylaşılan zaman serisi tahmin (time series forecasting) modelleri ise veriye dayalı öngörü yeteneklerini genişleten önemli bir kaynak sunuyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "DeusData tarafından geliştirilen codebase-memory-mcp, kod tabanlarını kalıcı bir bilgi grafiğine (knowledge graph) dönüştürerek yüksek performanslı kod analizi sunuyor. C diliyle yazılan bu sunucu, 158 programlama dilini destekleyerek sorgu sürelerini milisaniyenin altına indiriyor ve token kullanımını büyük oranda azaltıyor.",
+          "meta": "C · ★ 8.589 · +1.058 bugün"
+        },
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "Google Research tarafından geliştirilen Zaman Serisi Temel Modeli (Time Series Foundation Model), tahminleme süreçleri için önceden eğitilmiş bir yapı sunuyor. Model, karmaşık zaman serisi verilerini analiz ederek farklı alanlardaki öngörü yeteneklerini standartlaştırmayı hedefliyor.",
+          "meta": "Python · ★ 24.191 · +1.510 bugün"
+        },
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro, macOS işletim sistemi üzerinde çalışan ve yapay zekâ destekli düzenleme araçları sunan bir video düzenleyici (video editor) olarak geliştirildi. Swift diliyle yazılan bu uygulama, yapay zekâ tabanlı iş akışlarını yerel sistem performansı ile birleştirmeyi amaçlıyor.",
+          "meta": "Swift · ★ 2.134 · +756 bugün"
+        },
+        {
+          "title": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "summary": "Worldmonitor, yapay zekâ destekli haber derleme ve jeopolitik izleme özelliklerini tek bir arayüzde birleştiren gerçek zamanlı bir küresel istihbarat paneli (global intelligence dashboard) sunuyor. Altyapı takibi ve durum farkındalığı (situational awareness) sağlayan bu araç, karmaşık veri akışlarını görselleştirerek analiz süreçlerini kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 57.469 · +156 bugün"
+        },
+        {
+          "title": "aishwaryanr/awesome-generative-ai-guide",
+          "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+          "summary": "Awesome-generative-ai-guide deposu, üretken yapay zekâ (generative AI) alanındaki güncel araştırmaları, mülakat kaynaklarını ve uygulama defterlerini (notebooks) tek bir noktada topluyor. Bu kaynak, geliştiriciler ve araştırmacılar için kapsamlı bir öğrenme ve referans merkezi görevi görüyor.",
+          "meta": "HTML · ★ 27.722 · +107 bugün"
+        },
+        {
+          "title": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "summary": "BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications) oluşturmaya odaklanan bir TypeScript çerçevesidir (framework). Geliştiricilerin ajan tabanlı iş akışlarını doğrudan uygulama mimarisine entegre etmelerini sağlar.",
+          "meta": "TypeScript · ★ 1.138 · +147 bugün"
+        },
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom, büyük dil modellerine (LLM) gönderilen günlük dosyalarını, araç çıktılarını ve bağlamsal veri parçalarını (RAG chunks) sıkıştırarak jeton (token) kullanımını yüzde 95'e varan oranda azaltıyor. Kütüphane, vekil sunucu (proxy) ve Model Bağlam Protokolü (MCP) sunucusu olarak kullanılabilen bu araç, model performansını korurken maliyetleri düşürmeyi hedefliyor.",
+          "meta": "Python · ★ 39.624 · +4.005 bugün"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage, yapay zekâ destekli kodlama asistanlarını kapsamlı bir video üretim stüdyosuna dönüştüren açık kaynaklı bir ajan tabanlı video üretim sistemi (agentic video production system) sunuyor. Platform, 12 farklı iş akışı (pipeline), 52 araç ve 500'den fazla ajan yeteneği (agent skills) ile video oluşturma süreçlerini otomatize ediyor.",
+          "meta": "Python · ★ 6.471 · +156 bugün"
+        },
+        {
+          "title": "zai-org/GLM-5",
+          "url": "https://github.com/zai-org/GLM-5",
+          "summary": "GLM-5, kodlama odaklı geliştirme süreçlerinden otonom görev yürütme yeteneğine sahip ajan tabanlı mühendisliğe (agentic engineering) geçişi hedefleyen bir çerçeve sunuyor. Bu proje, yazılım geliştirme süreçlerinde yapay zekâ destekli iş akışlarını standartlaştırmayı amaçlıyor.",
+          "meta": "★ 4.666 · +480 bugün"
+        },
+        {
+          "title": "withastro/flue",
+          "url": "https://github.com/withastro/flue",
+          "summary": "TypeScript tabanlı Flue, geliştiricilerin güvenli ve yalıtılmış ortamlarda yapay zekâ ajanları oluşturmasına olanak tanıyan bir kum havuzu çatısı (sandbox framework) sunuyor. Bu araç, ajanların çalışma zamanı (runtime) süreçlerini standartlaştırarak geliştirme aşamasındaki denetimi artırıyor.",
+          "meta": "TypeScript · ★ 5.907 · +309 bugün"
+        },
+        {
+          "title": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "summary": "Iroh, IP adresleri yerine kriptografik anahtarlar üzerinden iletişim kuran modüler bir ağ yığını (networking stack) sunuyor. Rust diliyle geliştirilen bu araç, ağ bağlantılarının sürekliliğini sağlamak için adres tabanlı sistemlerin kısıtlamalarını aşmayı hedefliyor.",
+          "meta": "Rust · ★ 10.283 · +302 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yazılım geliştirme süreçlerini ajan tabanlı yetenekler (agentic skills) ile birleştiren bir çerçeve ve metodoloji sunuyor. Shell diliyle yazılan bu yapı, otonom sistemlerin iş akışlarını standartlaştırmayı hedefliyor.",
+          "meta": "Shell · ★ 233.624 · +1.110 bugün"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot, tasarımcılar ve yazılımcılar arasındaki iş birliğini güçlendiren açık kaynaklı bir tasarım aracıdır. Vektör tabanlı arayüzü, tasarım ve kod süreçlerini ortak bir platformda birleştirerek standart dosya formatları üzerinden çalışmayı destekler.",
+          "meta": "Clojure · ★ 50.700 · +85 bugün"
+        },
+        {
+          "title": "Kong/insomnia",
+          "url": "https://github.com/Kong/insomnia",
+          "summary": "Insomnia, GraphQL, REST, WebSockets, SSE ve gRPC protokollerini destekleyen açık kaynaklı bir uygulama programlama arayüzü (API) istemcisidir. Yazılım, bulut, yerel ve Git tabanlı depolama seçenekleriyle geliştiricilere çok platformlu bir test ortamı sunar.",
+          "meta": "TypeScript · ★ 39.063 · +292 bugün"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "summary": "Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python tabanlı bir çıkarım (inference) ve düşük dereceli uyarlama (LoRA) eğitim paketi sunuyor. Bu araç, kullanıcıların video üretim modellerine özel veri setleriyle ince ayar (fine-tuning) yapmalarına olanak tanıyor.",
+          "meta": "Python · ★ 7.721 · +196 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Hyundai buys Boston Dynamics",
+          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+          "summary": "Hyundai, Boston Dynamics şirketindeki hisselerinin tamamını SoftBank'tan 325 milyon dolar karşılığında satın alarak robotik alanındaki kontrolünü artırdı. Bu hamle, otomotiv üreticisinin otonom mobilite ve insansı robot (humanoid robot) teknolojilerine yönelik stratejik yatırımlarını güçlendiriyor.",
+          "meta": "781 oy · 346 yorum"
+        },
+        {
+          "title": "Norway imposes near ban on AI in elementary school",
+          "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+          "summary": "Norveç, ilköğretim seviyesindeki okullarda yapay zekâ (artificial intelligence) kullanımına yönelik kısıtlamaları içeren yeni bir düzenlemeyi yürürlüğe koydu. Bu karar, eğitim ortamında veri gizliliğini korumayı ve öğrencilerin dijital araçlarla etkileşimini denetim altına almayı hedefliyor.",
+          "meta": "612 oy · 426 yorum"
+        },
+        {
+          "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+          "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+          "summary": "Project Valhalla, Java Sanal Makinesi (JVM) üzerinde değer türleri (value types) ve geliştirilmiş bellek düzeni desteği sunarak performans artışı sağlamayı hedefliyor. Bu çalışma, nesne yönelimli programlamada veri yerelliğini (data locality) optimize ederek bellek kullanımını daha verimli hale getiriyor.",
+          "meta": "586 oy · 360 yorum"
+        },
+        {
+          "title": "There are no instances in ATProto",
+          "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+          "summary": "ATProto protokolü, geleneksel sosyal ağların aksine merkezi sunucular yerine kullanıcı odaklı bir veri yapısı kullanıyor. Bu mimari, kullanıcıların hesaplarını farklı platformlar arasında taşıyabilmesini sağlayan taşınabilirlik (portability) özelliği sunuyor.",
+          "meta": "418 oy · 216 yorum"
+        },
+        {
+          "title": "Court Records Should Be Free",
+          "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+          "summary": "Elektronik Sınır Vakfı (Electronic Frontier Foundation), mahkeme kayıtlarına erişim için talep edilen ücretlerin şeffaflığı engellediğini savunuyor. Bu yaklaşım, kamuya açık hukuki belgelerin dijital ortamda ücretsiz ve kısıtlamasız şekilde erişilebilir olması gerektiğini vurguluyor.",
+          "meta": "348 oy · 73 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma-4-12B-coder modeli, kod yazma ve geliştirme süreçlerine odaklanan bir metin üretme (text generation) modelidir. GGUF formatında sunulan bu yapı, modelin farklı donanım kaynaklarında daha verimli çalışmasını sağlayan bir nicemleme (quantization) yöntemi kullanır.",
+          "meta": "♥ 1.875 · 268.102 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Model, geniş kapsamlı dil işleme yetenekleriyle çeşitli içerik oluşturma süreçlerinde kullanılmaktadır.",
+          "meta": "♥ 1.564 · 11.871 indirme"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMaxAI tarafından geliştirilen MiniMax-M3, görsel ve metin verilerini aynı anda işleyebilen çok modlu (multimodal) bir modeldir. Sistem, görüntü ve metin girdilerini birleştirerek metin tabanlı çıktılar üreten bir yapı sunar.",
+          "meta": "♥ 1.138 · 67.836 indirme"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K2.7-Code, görsel ve metin tabanlı girdileri işleyerek metin çıktısı üreten çok modlu (multimodal) bir modeldir. Yazılım geliştirme süreçlerine odaklanan bu model, kodlama görevlerinde görsel ve metinsel verileri birleştirerek çözüm sunar.",
+          "meta": "♥ 911 · 274.865 indirme"
+        },
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "summary": "WeiboAI tarafından geliştirilen VibeThinker-3B, metin üretimi (text generation) odaklı kompakt bir dil modelidir. 3 milyar parametreye sahip olan bu yapı, kaynak verimliliği ile metin oluşturma görevlerinde performans sunmayı amaçlar.",
+          "meta": "♥ 473 · 12.148 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "knowledge graph",
+      "explanation": "Bilgileri birbirine bağlı noktalar halinde düzenleyerek veriler arasındaki ilişkileri anlamlandıran bir haritalama yöntemi."
+    },
+    {
+      "term": "Time Series Foundation Model",
+      "explanation": "Geçmişteki sayısal verileri inceleyerek gelecekteki değişimleri tahmin edebilen kapsamlı yapay zekâ modelleri."
+    },
+    {
+      "term": "video editor",
+      "explanation": "Görüntü ve ses dosyalarını kesip birleştirerek izlenebilir bir video haline getiren yazılım."
+    },
+    {
+      "term": "global intelligence dashboard",
+      "explanation": "Dünyanın farklı yerlerinden gelen verileri tek bir ekranda toplayarak durumu izlemeyi sağlayan yönetim paneli."
+    },
+    {
+      "term": "situational awareness",
+      "explanation": "Bir sistemin çevresinde olup bitenleri anlık olarak algılayıp mevcut durumu doğru şekilde kavraması."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Öğrendiği bilgilerden yola çıkarak sıfırdan metin, görsel veya ses gibi yeni içerikler üretebilen teknoloji."
+    },
+    {
+      "term": "notebooks",
+      "explanation": "Kod yazarken aynı zamanda notlar alıp sonuçları anında görebileceğiniz etkileşimli çalışma ortamları."
+    },
+    {
+      "term": "agent-native applications",
+      "explanation": "Kullanıcı adına karar verip işlemleri kendi başına yürütebilen yapay zekâ yardımcıları için özel tasarlanmış uygulamalar."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işinizi kolaylaştıran, hazır araçlar ve kurallar bütünü sunan temel yapı."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini öğrenip metinleri anlama, özetleme ve yeni içerik üretme yeteneğine sahip gelişmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "RAG chunks",
+      "explanation": "Yapay zekânın daha iyi cevap verebilmesi için büyük belgelerin küçük ve anlamlı parçalara bölünmüş hali."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekânın metni işlerken kullandığı, harf veya kelime parçalarına denk gelen en küçük veri birimi."
+    },
+    {
+      "term": "proxy",
+      "explanation": "Sizinle internet arasındaki trafiği yöneten, kimliğinizi gizleyen veya bağlantıyı denetleyen aracı sunucu."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarına ve araçlara güvenli bir şekilde bağlanmasını sağlayan standart protokol."
+    },
+    {
+      "term": "agentic video production system",
+      "explanation": "İnsan müdahalesi olmadan kendi başına video kurgulayan, efekt ekleyen ve düzenleme yapan akıllı sistem."
+    },
+    {
+      "term": "pipeline",
+      "explanation": "Bir verinin işlenip sonuç haline gelene kadar geçtiği otomatik adımlar dizisi."
+    }
+  ]
+}
