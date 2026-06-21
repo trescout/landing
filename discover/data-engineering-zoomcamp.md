@@ -28,7 +28,7 @@ Lisans: GitHub standart bir lisans tespit etmedi. İçeriği takip etmek/öğren
 - [GitHub deposu →](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Pipelines Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

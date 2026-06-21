@@ -1412,5 +1412,19 @@
     "full": "Customer Relationship Management",
     "cat": "data",
     "kisa": "Şirketlerin müşteri bilgilerini, geçmiş etkileşimlerini ve satış süreçlerini tek bir merkezden yönetmesini sağlayan dijital sistemdir."
+  },
+  {
+    "slug": "agentic-system",
+    "en": "Agentic System",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnsan müdahalesi olmadan hedeflere ulaşmak için kendi başına karar alıp aksiyon geliştiren otonom yapılar."
+  },
+  {
+    "slug": "pipelines",
+    "en": "Pipelines",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Verinin bir noktadan alınıp işlenerek nihai bir ürüne dönüştüğü, birbirine bağlı otomatik aşamalar dizisi."
   }
 ]

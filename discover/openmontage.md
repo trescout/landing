@@ -32,7 +32,7 @@ OpenMontage sistemini kullanarak bir video prodüksiyonu başlatmak istiyorum. K
 - [GitHub deposu →](https://github.com/calesthio/OpenMontage)
 
 ## İlgili sözlük terimleri
-Pipeline AI Skills Artificial Intelligence 
+Agentic System Pipeline AI Skills Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
