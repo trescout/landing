@@ -1,0 +1,43 @@
+# yerel ortamda çalışan yapay zekâ ses stüdyosu
+
+Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve içerik oluşturma işlemlerini gerçekleştirmesine olanak tanıyan açık kaynaklı bir yapay zekâ ses stüdyosudur. TypeScript diliyle geliştirilen bu platform, ses işleme süreçlerini yerel ortamda yönetmek için kapsamlı araçlar sunar.
+
+- ★ 31.156
+- TypeScript
+- GitHub Trending · 2026-06-21
+
+## Ne kazandırır?
+- Kendi sesinizi veya başkalarının sesini saniyeler içinde kopyalayın.
+- 23 farklı dilde doğal seslendirme ve dikte yapın.
+- Tüm ses verilerini yerel bilgisayarınızda tutarak gizliliği koruyun.
+
+## Kurulum
+
+**Kaynak koddan kurulum**
+
+```
+git clone https://github.com/jamiepine/voicebox.git
+cd voicebox
+
+just setup # creates Python venv, installs all deps
+just dev # starts backend + desktop app
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Voicebox üzerinde ses kopyalama ve seslendirme süreçlerini yönetiyorum. Seçtiğim ses profili için en uygun TTS motorunu belirlememe yardımcı ol, metin içerisindeki duygusal vurguları nasıl ekleyeceğimi göster ve yerel yapay zekâ ajanımın sesli yanıt vermesi için gerekli olan voicebox.speak araç çağrısını nasıl yapılandıracağımı adım adım açıkla.
+
+- **Kimin için:** Kendi bilgisayarında gizlilikten ödün vermeden profesyonel ses kopyalama ve dikte araçlarını kullanmak isteyen içerik üreticileri ve geliştiriciler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/jamiepine/voicebox)
+
+## İlgili sözlük terimleri
+Voice Cloning Text-to-Speech Artificial Intelligence 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/voicebox/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

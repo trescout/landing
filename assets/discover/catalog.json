@@ -2723,5 +2723,69 @@
     "stars": 1138,
     "lite": false,
     "headline": "yapay zekâ ajanları için uygulama çerçevesi"
+  },
+  {
+    "slug": "turso",
+    "title": "Turso",
+    "tagline": "Turso, SQLite ile uyumlu çalışan ve süreç içi (in-process) bir SQL veritabanı sunuyor.",
+    "meta": "★ 20.466 · Rust",
+    "image": "/assets/discover/og/turso.webp",
+    "source": "GitHub",
+    "date": "2026-06-21",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 20466,
+    "lite": false,
+    "headline": "SQLite uyumlu süreç içi veritabanı"
+  },
+  {
+    "slug": "voicebox",
+    "title": "Voicebox",
+    "tagline": "Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve içerik oluşturma işlemlerini gerçekleştirmesine olanak…",
+    "meta": "★ 31.156 · TypeScript",
+    "image": "/assets/discover/og/voicebox.webp",
+    "source": "GitHub",
+    "date": "2026-06-21",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 31156,
+    "lite": false,
+    "headline": "yerel ortamda çalışan yapay zekâ ses stüdyosu"
+  },
+  {
+    "slug": "smsforwarder",
+    "title": "SmsForwarder",
+    "tagline": "SmsForwarder, Android cihazlardaki kısa mesajları, çağrıları ve uygulama bildirimlerini belirlenen kurallar çerçevesinde…",
+    "meta": "★ 26.560 · Kotlin",
+    "image": "/assets/discover/og/smsforwarder.webp",
+    "source": "GitHub",
+    "date": "2026-06-21",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 26560,
+    "lite": false,
+    "headline": "Android mesajlarınızı farklı platformlara yönlendirin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "jcode",
+    "title": "Jcode",
+    "tagline": "Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness)…",
+    "meta": "★ 7.450 · Rust",
+    "image": "/assets/discover/og/jcode.webp",
+    "source": "GitHub",
+    "date": "2026-06-21",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7450,
+    "lite": false,
+    "headline": "Kodlama ajanları için yüksek performanslı çerçeve"
   }
 ]

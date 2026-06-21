@@ -1405,5 +1405,12 @@
     "full": "",
     "cat": "dev",
     "kisa": "Verinin ham halden işlenmiş bir sonuca ulaşana kadar geçtiği otomatik adımlar dizisidir."
+  },
+  {
+    "slug": "crm",
+    "en": "CRM",
+    "full": "Customer Relationship Management",
+    "cat": "data",
+    "kisa": "Şirketlerin müşteri bilgilerini, geçmiş etkileşimlerini ve satış süreçlerini tek bir merkezden yönetmesini sağlayan dijital sistemdir."
   }
 ]

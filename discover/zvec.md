@@ -36,7 +36,7 @@ Zvec kütüphanesini kullanarak bir koleksiyon oluşturmam gerekiyor. Python dil
 - [GitHub deposu →](https://github.com/alibaba/zvec)
 
 ## İlgili sözlük terimleri
-Database In-process Vector Database In-process Vector Database Artificial Intelligence 
+Database In-process Vector Database Vector Database In-process Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

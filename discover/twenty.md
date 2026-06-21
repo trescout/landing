@@ -46,7 +46,7 @@ Lisans: ⚠️ Lisansı standart değil (GitHub 'NOASSERTION'). 'Açık kaynak' 
 - [Ana sayfa →](https://twenty.com)
 
 ## İlgili sözlük terimleri
-Self-hosting Open Source Artificial Intelligence 
+CRM Self-hosting Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
