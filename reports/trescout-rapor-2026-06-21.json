@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-21",
+  "editorial": "Bugünün teknoloji gündeminde açık kaynaklı arayüz tasarımı (UI design) ve veri yönetimi (data management) araçları öne çıkıyor. Özellikle model bağlamı (model context) ve zaman serisi tahminleme (time-series forecasting) alanındaki yeni kütüphaneler, geliştiricilerin veri işleme süreçlerini optimize etmeye odaklanıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro, yapay zekâ destekli düzenleme araçlarını entegre eden macOS tabanlı bir video düzenleyici (video editor) olarak geliştirildi. Swift diliyle yazılan bu uygulama, video işleme süreçlerinde üretken yapay zekâ (generative AI) özelliklerini kullanmayı hedefliyor.",
+          "meta": "Swift · ★ 3.871 · +902 bugün"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot, tasarımcılar ve yazılımcılar arasındaki iş birliğini güçlendirmek amacıyla geliştirilmiş açık kaynaklı bir tasarım aracıdır. Clojure diliyle yazılan platform, tasarım süreçlerini kod tabanlı çalışma akışlarıyla bütünleştirmeyi hedefler.",
+          "meta": "Clojure · ★ 51.765 · +420 bugün"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage, yapay zekâ destekli kodlama asistanlarını kapsamlı bir video prodüksiyon stüdyosuna dönüştüren açık kaynaklı bir ajan tabanlı sistemdir (agentic system). Python tabanlı bu platform, 12 farklı iş akışı (pipelines) ve 500'den fazla ajan yeteneği (agent skills) ile video üretim süreçlerini otomatize etmektedir.",
+          "meta": "Python · ★ 7.346 · +677 bugün"
+        },
+        {
+          "title": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "summary": "Turso, SQLite ile uyumlu çalışan ve süreç içi (in-process) bir SQL veritabanı sunuyor. Rust diliyle geliştirilen bu sistem, uygulama süreçlerine entegre edilerek veri yönetimi süreçlerini basitleştiriyor.",
+          "meta": "Rust · ★ 20.466 · +801 bugün"
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp, kod tabanlarını kalıcı bir bilgi çizgesi (knowledge graph) üzerinde indeksleyerek yüksek performanslı kod zekâsı sunuyor. C diliyle geliştirilen bu sunucu, 158 programlama dilini desteklerken sorgu sürelerini milisaniyenin altına indiriyor ve belirteç (token) kullanımını azaltıyor.",
+          "meta": "C · ★ 9.661 · +1.271 bugün"
+        },
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "Google Research tarafından geliştirilen Zaman Serisi Temel Modeli (Time Series Foundation Model), tahminleme görevleri için önceden eğitilmiş bir mimari sunuyor. Bu model, zaman serisi verilerini analiz etmek ve geleceğe yönelik tahminler üretmek amacıyla geniş ölçekli veri setleri üzerinde eğitildi.",
+          "meta": "Python · ★ 24.672 · +433 bugün"
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty, yapay zekâ odaklı özelliklerle geliştirilen açık kaynaklı bir müşteri ilişkileri yönetimi (CRM) platformudur. TypeScript diliyle yazılan proje, geleneksel kurumsal yazılımlara modern ve esnek bir alternatif sunmayı hedefler.",
+          "meta": "TypeScript · ★ 50.959 · +140 bugün"
+        },
+        {
+          "title": "Kong/insomnia",
+          "url": "https://github.com/Kong/insomnia",
+          "summary": "Insomnia, GraphQL, REST, WebSockets, SSE ve gRPC protokollerini destekleyen açık kaynaklı bir uygulama programlama arayüzü (API) istemcisidir. Kullanıcılar, bulut, yerel depolama ve Git entegrasyonu seçenekleriyle ağ isteklerini yönetebilir ve test edebilir.",
+          "meta": "TypeScript · ★ 39.433 · +329 bugün"
+        },
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom, büyük dil modellerine (LLM) gönderilen günlük dosyalarını, araç çıktılarını ve bilgi getirme (RAG) parçalarını sıkıştırarak jeton (token) kullanımını yüzde 60 ile 95 oranında azaltıyor. Kütüphane, vekil sunucu (proxy) ve Model Bağlam Protokolü (MCP) sunucusu olarak kullanılabilen araç, model performansını korurken maliyet verimliliği sağlıyor.",
+          "meta": "Python · ★ 42.513 · +3.795 bugün"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve içerik oluşturma işlemlerini gerçekleştirmesine olanak tanıyan açık kaynaklı bir yapay zekâ ses stüdyosudur. TypeScript diliyle geliştirilen bu platform, ses işleme süreçlerini yerel ortamda yönetmek için kapsamlı araçlar sunar.",
+          "meta": "TypeScript · ★ 31.156 · +145 bugün"
+        },
+        {
+          "title": "Kilo-Org/kilocode",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "summary": "Kilo, yazılım geliştirme süreçlerini otomatikleştiren hepsi bir arada bir ajan tabanlı mühendislik platformudur (agentic engineering platform). Açık kaynaklı kodlama ajanı sayesinde yazılım projelerinin oluşturulması, dağıtılması ve geliştirilmesi süreçlerini hızlandırmayı amaçlar.",
+          "meta": "TypeScript · ★ 23.477 · +513 bugün"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan bu depo, yazılım geliştiricilerin yapay zekâ asistanlarını yapılandırılmış komutlarla yönetmesini sağlayan yetenek paketleri (skills) sunuyor. Kullanıcılar, doğrudan Claude dizini üzerinden erişilebilen bu hazır yönergelerle karmaşık geliştirme süreçlerini otomatize ediyor.",
+          "meta": "Shell · ★ 138.647 · +1.395 bugün"
+        },
+        {
+          "title": "withastro/flue",
+          "url": "https://github.com/withastro/flue",
+          "summary": "Astro ekibi tarafından geliştirilen Flue, TypeScript tabanlı bir kum havuzu ajan çatısı (sandbox agent framework) sunuyor. Yazılımcıların güvenli ve izole ortamlarda yapay zekâ ajanları oluşturmasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 6.188 · +316 bugün"
+        },
+        {
+          "title": "owainlewis/awesome-artificial-intelligence",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+          "summary": "Awesome-artificial-intelligence deposu, yapay zekâ (artificial intelligence) alanındaki eğitimleri, kitapları, video dersleri ve akademik makaleleri tek bir merkezde topluyor. Bu kaynak, öğrenme sürecini yapılandırmak isteyenler için kapsamlı bir müfredat ve literatür arşivi sunuyor.",
+          "meta": "★ 14.888 · +48 bugün"
+        },
+        {
+          "title": "pppscn/SmsForwarder",
+          "url": "https://github.com/pppscn/SmsForwarder",
+          "summary": "SmsForwarder, Android cihazlardaki kısa mesajları, çağrıları ve uygulama bildirimlerini belirlenen kurallar çerçevesinde farklı mesajlaşma platformlarına veya web kancalarına (webhook) yönlendiren bir araçtır. Kullanıcıların cihazlarını uzaktan yönetmesine ve pil durumu ile rehber gibi verilere erişmesine olanak tanıyan bu yazılım, Kotlin diliyle geliştirilmiştir.",
+          "meta": "Kotlin · ★ 26.560 · +104 bugün"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness) sunuyor. Yazılım geliştirme süreçlerinde kullanılan ajanların performansını ölçmek amacıyla standart bir altyapı sağlıyor.",
+          "meta": "Rust · ★ 7.450 · +87 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "SMPTE Makes Its Standards Freely Accessible",
+          "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+          "summary": "Sinema ve Televizyon Mühendisleri Derneği (SMPTE), medya teknolojisi standartlarını küresel topluluğun erişimine ücretsiz olarak açtı. Bu adım, dijital medya standartları kütüphanesinin (standards library) sektör genelinde daha geniş çapta benimsenmesini hedefliyor.",
+          "meta": "254 oy · 76 yorum"
+        },
+        {
+          "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+          "url": "https://github.com/mysk-research/loupe",
+          "summary": "Loupe, yerel uygulamaların (native apps) cihaz üzerindeki hangi verilere erişebildiğini görselleştirerek kullanıcı farkındalığını artırmayı amaçlayan bir iOS uygulamasıdır. Yazılım, uygulamaların arka planda gerçekleştirdiği veri erişim süreçlerini şeffaf bir şekilde raporlar.",
+          "meta": "254 oy · 76 yorum"
+        },
+        {
+          "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+          "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+          "summary": "F-15 Strike Eagle II oyununun tersine mühendislik (reverse engineering) projesi, yazılımın farklı DOS ortamlarında çalışabilirliğini doğrulamak için test pilotları arıyor. Çalışma, klasik oyunun kaynak kodunu modern sistemlere uyarlayarak korunmasını amaçlıyor.",
+          "meta": "241 oy · 64 yorum"
+        },
+        {
+          "title": "Renting a sewing machine from the library",
+          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+          "summary": "Finlandiya'daki kütüphaneler, dikiş makinesinden matkap setine kadar geniş bir yelpazedeki eşyaları ödünç vererek geleneksel kitap odaklı hizmet modelini dönüştürüyor. Bu uygulama, tüketim alışkanlıklarını azaltmayı hedefleyen paylaşım ekonomisi (sharing economy) modelini kütüphane altyapısıyla birleştiriyor.",
+          "meta": "212 oy · 107 yorum"
+        },
+        {
+          "title": "Temporary Cloudflare accounts for AI agents",
+          "url": "https://blog.cloudflare.com/temporary-accounts/",
+          "summary": "Cloudflare, yapay zekâ ajanlarının (AI agents) güvenli bir şekilde çalışabilmesi için geçici bulut hesapları (temporary cloud accounts) oluşturulmasına olanak tanıyan bir altyapı sunuyor. Bu sistem, ajanların yetkilendirme süreçlerini basitleştirerek sınırlı süreli ve kısıtlı erişim izinleriyle çalışmasını sağlıyor.",
+          "meta": "204 oy · 109 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma-4-12B-coder modeli, kod yazma görevleri için optimize edilmiş bir metin üretme (text generation) modelidir. GGUF formatında sunulan bu yapı, yerel donanımlarda daha verimli çalışması için nicemleme (quantization) teknikleriyle optimize edilmiştir.",
+          "meta": "♥ 2.006 · 312.332 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text-generation) odaklı bir dil modelidir. HuggingFace platformunda geniş bir kullanıcı kitlesine ulaşan bu model, doğal dil işleme görevlerinde metin oluşturma yetenekleri sunmaktadır.",
+          "meta": "♥ 1.721 · 19.683 indirme"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMaxAI tarafından geliştirilen MiniMax-M3, görsel ve metinsel girdileri işleyerek metin çıktısı üreten çok modlu (multimodal) bir modeldir. Sistem, farklı veri türlerini eşzamanlı analiz ederek karmaşık içerik oluşturma süreçlerini destekler.",
+          "meta": "♥ 1.166 · 85.771 indirme"
+        },
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "summary": "WeiboAI tarafından geliştirilen VibeThinker-3B, metin üretimi (text generation) odaklı kompakt bir dil modelidir. 3 milyar parametreli yapısı, düşük hesaplama maliyetiyle metin oluşturma görevlerinde verimli bir alternatif sunar.",
+          "meta": "♥ 526 · 16.270 indirme"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K2.7-Code, görsel ve metin girdilerini işleyerek kod üretimi (code generation) gerçekleştiren çok modlu (multimodal) bir modeldir. Yazılım geliştirme süreçlerinde görsel verileri analiz ederek metin tabanlı çözümler sunmayı hedefler.",
+          "meta": "♥ 934 · 317.963 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "video editor",
+      "explanation": "Görüntü ve ses dosyalarını kesip birleştirerek düzenlemenizi sağlayan yazılım."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Öğrendiği verileri kullanarak sıfırdan metin, görsel veya ses gibi yeni içerikler üretebilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "agentic system",
+      "explanation": "İnsan müdahalesi olmadan kendi başına kararlar alıp hedeflere ulaşmak için adımlar atabilen otonom sistem."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "Bir verinin işlenip sonuç haline gelene kadar geçtiği birbirine bağlı aşamalar dizisi."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Yapay zekânın belirli görevleri yerine getirmek için sahip olduğu özel yetenekler veya araçlar."
+    },
+    {
+      "term": "in-process",
+      "explanation": "Bir işlemin başka bir yere aktarılmadan, doğrudan mevcut programın kendi çalışma alanı içinde gerçekleşmesi."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Bilgiler arasındaki ilişkileri bir ağ yapısı gibi birbirine bağlayarak sunan veri modeli."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekânın metinleri işlerken kullandığı kelime veya karakter parçacıkları."
+    },
+    {
+      "term": "Time Series Foundation Model",
+      "explanation": "Geçmişteki sayısal verilerin değişimlerini analiz ederek gelecekteki eğilimleri tahmin edebilen kapsamlı yapay zekâ modeli."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Şirketlerin müşterileriyle olan iletişimini ve satış süreçlerini takip ettiği dijital yönetim sistemi."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan köprü."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın cevap üretirken kendi hafızası yerine güncel ve özel belgelerden bilgi almasını sağlayan yöntem."
+    },
+    {
+      "term": "proxy",
+      "explanation": "İnternet üzerindeki istekleri sizin yerinize ileten ve kimliğinizi gizleyen aracı sunucu."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarına ve araçlara standart bir yolla bağlanmasını sağlayan protokol."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Bir kişinin sesini analiz ederek, o kişiymiş gibi yeni cümleler söyletmeyi sağlayan teknoloji."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "date": "2026-06-21",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "summary": "Turso, SQLite ile uyumlu çalışan ve süreç içi (in-process) bir SQL veritabanı sunuyor. Rust diliyle geliştirilen bu sistem, uygulama süreçlerine entegre edilerek veri yönetimi süreçlerini basitleştiriyor.",
+          "meta": "Rust · ★ 20.466 · +801 bugün"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve içerik oluşturma işlemlerini gerçekleştirmesine olanak tanıyan açık kaynaklı bir yapay zekâ ses stüdyosudur. TypeScript diliyle geliştirilen bu platform, ses işleme süreçlerini yerel ortamda yönetmek için kapsamlı araçlar sunar.",
+          "meta": "TypeScript · ★ 31.156 · +145 bugün"
+        },
+        {
+          "title": "pppscn/SmsForwarder",
+          "url": "https://github.com/pppscn/SmsForwarder",
+          "summary": "SmsForwarder, Android cihazlardaki kısa mesajları, çağrıları ve uygulama bildirimlerini belirlenen kurallar çerçevesinde farklı mesajlaşma platformlarına veya web kancalarına (webhook) yönlendiren bir araçtır. Kullanıcıların cihazlarını uzaktan yönetmesine ve pil durumu ile rehber gibi verilere erişmesine olanak tanıyan bu yazılım, Kotlin diliyle geliştirilmiştir.",
+          "meta": "Kotlin · ★ 26.560 · +104 bugün"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness) sunuyor. Yazılım geliştirme süreçlerinde kullanılan ajanların performansını ölçmek amacıyla standart bir altyapı sağlıyor.",
+          "meta": "Rust · ★ 7.450 · +87 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "SMPTE Makes Its Standards Freely Accessible",
+          "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+          "summary": "Sinema ve Televizyon Mühendisleri Derneği (SMPTE), medya teknolojisi standartlarını küresel topluluğun erişimine ücretsiz olarak açtı. Bu adım, dijital medya standartları kütüphanesinin (standards library) sektör genelinde daha geniş çapta benimsenmesini hedefliyor.",
+          "meta": "254 oy · 76 yorum"
+        },
+        {
+          "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+          "url": "https://github.com/mysk-research/loupe",
+          "summary": "Loupe, yerel uygulamaların (native apps) cihaz üzerindeki hangi verilere erişebildiğini görselleştirerek kullanıcı farkındalığını artırmayı amaçlayan bir iOS uygulamasıdır. Yazılım, uygulamaların arka planda gerçekleştirdiği veri erişim süreçlerini şeffaf bir şekilde raporlar.",
+          "meta": "254 oy · 76 yorum"
+        },
+        {
+          "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+          "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+          "summary": "F-15 Strike Eagle II oyununun tersine mühendislik (reverse engineering) projesi, yazılımın farklı DOS ortamlarında çalışabilirliğini doğrulamak için test pilotları arıyor. Çalışma, klasik oyunun kaynak kodunu modern sistemlere uyarlayarak korunmasını amaçlıyor.",
+          "meta": "241 oy · 64 yorum"
+        },
+        {
+          "title": "Renting a sewing machine from the library",
+          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+          "summary": "Finlandiya'daki kütüphaneler, dikiş makinesinden matkap setine kadar geniş bir yelpazedeki eşyaları ödünç vererek geleneksel kitap odaklı hizmet modelini dönüştürüyor. Bu uygulama, tüketim alışkanlıklarını azaltmayı hedefleyen paylaşım ekonomisi (sharing economy) modelini kütüphane altyapısıyla birleştiriyor.",
+          "meta": "212 oy · 107 yorum"
+        },
+        {
+          "title": "Temporary Cloudflare accounts for AI agents",
+          "url": "https://blog.cloudflare.com/temporary-accounts/",
+          "summary": "Cloudflare, yapay zekâ ajanlarının (AI agents) güvenli bir şekilde çalışabilmesi için geçici bulut hesapları (temporary cloud accounts) oluşturulmasına olanak tanıyan bir altyapı sunuyor. Bu sistem, ajanların yetkilendirme süreçlerini basitleştirerek sınırlı süreli ve kısıtlı erişim izinleriyle çalışmasını sağlıyor.",
+          "meta": "204 oy · 109 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "in-process",
+      "explanation": "Bir işlemin başka bir yere aktarılmadan, doğrudan mevcut programın kendi çalışma alanı içinde gerçekleşmesi."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Bir kişinin sesini analiz ederek, o kişiymiş gibi yeni cümleler söyletmeyi sağlayan teknoloji."
+    }
+  ]
+}
