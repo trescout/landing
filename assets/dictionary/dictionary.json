@@ -1426,5 +1426,40 @@
     "full": "",
     "cat": "dev",
     "kisa": "Verinin bir noktadan alınıp işlenerek nihai bir ürüne dönüştüğü, birbirine bağlı otomatik aşamalar dizisi."
+  },
+  {
+    "slug": "dashboard",
+    "en": "Dashboard",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Karmaşık verileri ve istatistikleri tek bir ekranda görsel olarak takip etmenizi sağlayan panel."
+  },
+  {
+    "slug": "superagent",
+    "en": "SuperAgent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Birden fazla görevi aynı anda yönetebilen ve karmaşık işlemleri çözebilen gelişmiş yapay zekâ yardımcısı."
+  },
+  {
+    "slug": "ticket-purchasing-assistant",
+    "en": "Ticket Purchasing Assistant",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kullanıcı adına bilet arayıp satın alma işlemlerini gerçekleştiren dijital yardımcı."
+  },
+  {
+    "slug": "long-term-memory",
+    "en": "Long-term Memory",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın geçmişteki bilgileri ve deneyimleri uzun süre saklayıp ihtiyaç duyduğunda hatırlaması."
+  },
+  {
+    "slug": "knowledge-graph-engine",
+    "en": "Knowledge Graph Engine",
+    "full": "",
+    "cat": "data",
+    "kisa": "Bilgiler arasındaki karmaşık bağları kuran ve sorgulanmasını sağlayan yazılım altyapısı."
   }
 ]

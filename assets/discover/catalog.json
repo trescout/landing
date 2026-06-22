@@ -2787,5 +2787,103 @@
     "stars": 7450,
     "lite": false,
     "headline": "Kodlama ajanları için yüksek performanslı çerçeve"
+  },
+  {
+    "slug": "daily-stock-analysis",
+    "title": "Daily Stock Analysis",
+    "tagline": "Büyük dil modelleri (large language models) ile desteklenen bu sistem, çok kaynaklı piyasa verilerini ve gerçek zamanlı…",
+    "meta": "★ 45.304 · Python",
+    "image": "/assets/discover/og/daily-stock-analysis.webp",
+    "source": "GitHub",
+    "date": "2026-06-22",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 45304,
+    "lite": false,
+    "headline": "yapay zekâ ile otomatik borsa analizi"
+  },
+  {
+    "slug": "deer-flow",
+    "title": "Deer Flow",
+    "tagline": "ByteDance tarafından geliştirilen Deer-Flow, uzun süreli görevleri yerine getirmek için tasarlanmış açık kaynaklı bir süper…",
+    "meta": "★ 72.905 · Python",
+    "image": "/assets/discover/og/deer-flow.webp",
+    "source": "GitHub",
+    "date": "2026-06-22",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 72905,
+    "lite": false,
+    "headline": "Karmaşık görevler için yapay zekâ ajanı"
+  },
+  {
+    "slug": "bilitickerbuy",
+    "title": "biliTickerBuy",
+    "tagline": "Bilibili üyelik satın alma işlemlerini otomatikleştiren bu Python tabanlı araç, bilet alım süreçlerini hızlandırmak için…",
+    "meta": "★ 3.782 · Python",
+    "image": "/assets/discover/og/bilitickerbuy.webp",
+    "source": "GitHub",
+    "date": "2026-06-22",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 3782,
+    "lite": false,
+    "headline": "Bilibili bilet alım süreçlerini hızlandırın",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "spiderfoot",
+    "title": "Spiderfoot",
+    "tagline": "SpiderFoot, tehdit istihbaratı ve saldırı yüzeyi haritalama süreçleri için açık kaynaklı istihbarat (OSINT) toplama…",
+    "meta": "★ 18.921 · Python",
+    "image": "/assets/discover/og/spiderfoot.webp",
+    "source": "GitHub",
+    "date": "2026-06-22",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 18921,
+    "lite": false,
+    "headline": "Açık kaynaklı istihbarat toplama aracı"
+  },
+  {
+    "slug": "cognee",
+    "title": "Cognee",
+    "tagline": "Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (long-term memory) sağlayan açık kaynaklı bir platformdur.",
+    "meta": "★ 18.871 · Python",
+    "image": "/assets/discover/og/cognee.webp",
+    "source": "GitHub",
+    "date": "2026-06-22",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 18871,
+    "lite": false,
+    "headline": "yapay zekâ ajanınıza kalıcı hafıza"
+  },
+  {
+    "slug": "system-prompts-leaks",
+    "title": "System Prompts Leaks",
+    "tagline": "GitHub üzerinde paylaşılan system_prompts_leaks deposu, Anthropic, OpenAI, Google ve xAI gibi büyük teknoloji şirketlerinin…",
+    "meta": "★ 44.809 · JavaScript",
+    "image": "/assets/discover/og/system-prompts-leaks.webp",
+    "source": "GitHub",
+    "date": "2026-06-22",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 44809,
+    "lite": false,
+    "headline": "yapay zekâ modellerinin gizli talimatları",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]
