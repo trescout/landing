@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-22",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "Büyük dil modelleri (large language models) ile desteklenen bu sistem, çok kaynaklı piyasa verilerini ve gerçek zamanlı haberleri analiz ederek yatırım kararları için görselleştirilmiş paneller sunuyor. Otomatik bildirimler ve ücretsiz zamanlanmış çalışma desteğiyle farklı borsalar için analiz süreçlerini standartlaştırıyor.",
+          "meta": "Python · ★ 45.304 · +568 bugün"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "ByteDance tarafından geliştirilen Deer-Flow, uzun süreli görevleri yerine getirmek için tasarlanmış açık kaynaklı bir süper ajan (SuperAgent) çerçevesidir. Sistem; kum havuzu (sandbox), hafıza yönetimi ve alt ajanlar kullanarak karmaşık iş akışlarını otonom şekilde araştırıp kodlayabilmektedir.",
+          "meta": "Python · ★ 72.905 · +442 bugün"
+        },
+        {
+          "title": "mikumifa/biliTickerBuy",
+          "url": "https://github.com/mikumifa/biliTickerBuy",
+          "summary": "Bilibili üyelik satın alma işlemlerini otomatikleştiren bu Python tabanlı araç, bilet alım süreçlerini hızlandırmak için tasarlanmış bir yardımcı yazılımdır (ticket purchasing assistant). Kullanıcıların platform üzerindeki sınırlı stoklu ürünleri daha hızlı yakalamasına olanak tanır.",
+          "meta": "Python · ★ 3.782 · +67 bugün"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot, tehdit istihbaratı ve saldırı yüzeyi haritalama süreçleri için açık kaynaklı istihbarat (OSINT) toplama işlemlerini otomatize eden bir Python aracıdır. Çeşitli veri kaynaklarını entegre ederek dijital varlıklar üzerindeki güvenlik açıklarını tespit etmeyi sağlar.",
+          "meta": "Python · ★ 18.921 · +294 bugün"
+        },
+        {
+          "title": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "summary": "Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (long-term memory) sağlayan açık kaynaklı bir platformdur. Kendi kendine barındırılan bir bilgi grafiği motoru (knowledge graph engine) kullanarak ajanların verileri yapılandırılmış şekilde saklamasına ve geri çağırmasına olanak tanır.",
+          "meta": "Python · ★ 18.871 · +347 bugün"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "GitHub üzerinde paylaşılan system_prompts_leaks deposu, Anthropic, OpenAI, Google ve xAI gibi büyük teknoloji şirketlerinin yapay zekâ modellerine ait sistem istemlerini (system prompts) bir araya getiriyor. Bu derleme, popüler dil modellerinin arka planda çalışan yapılandırma talimatlarını ve kısıtlamalarını incelemek isteyen geliştiriciler için merkezi bir kaynak sunuyor.",
+          "meta": "JavaScript · ★ 44.809 · +282 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Identity verification on Claude",
+          "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+          "summary": "Anthropic, Claude platformunda güvenlik önlemlerini artırmak amacıyla kimlik doğrulama (identity verification) sürecini devreye alıyor. Bu uygulama, kullanıcıların resmi belgelerini yükleyerek hesap güvenliğini sağlamalarını ve platform erişimini doğrulamalarını zorunlu kılıyor.",
+          "meta": "749 oy · 620 yorum"
+        },
+        {
+          "title": "Did my old job only exist because of fraud?",
+          "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+          "summary": "Yazılım geliştirme süreçlerinde sahte trafik ve yapay etkileşimlerin, bazı iş rollerinin varlığını sürdürmesi için temel motivasyon kaynağı olduğu tartışılıyor. Bu durum, teknoloji sektöründeki verimlilik metriklerinin ve iş tanımlarının gerçek değer üretimi yerine yanıltıcı göstergeler üzerine kurulu olabileceğini ortaya koyuyor.",
+          "meta": "551 oy · 236 yorum"
+        },
+        {
+          "title": "Prefer duplication over the wrong abstraction (2016)",
+          "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+          "summary": "Yazılım geliştirme sürecinde yanlış soyutlama (wrong abstraction) yapmaktansa kod tekrarını tercih etmek, sistemin esnekliğini korumaya yardımcı olur. Gereksiz genelleştirmelerden kaçınmak, kod tabanının ileride ihtiyaç duyulacak değişikliklere daha kolay uyum sağlamasını mümkün kılar.",
+          "meta": "485 oy · 316 yorum"
+        },
+        {
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
+          "url": "https://apertvs.ai/",
+          "summary": "Apertus, ülkelerin kendi verileriyle eğitilebilir modeller oluşturmasına olanak tanıyan açık kaynaklı bir temel model (foundation model) platformudur. Egemen yapay zekâ (sovereign AI) vizyonu doğrultusunda, yerel altyapı üzerinde çalışabilen şeffaf ve denetlenebilir yapay zekâ sistemleri geliştirmeyi hedefler.",
+          "meta": "375 oy · 127 yorum"
+        },
+        {
+          "title": "Deno Desktop",
+          "url": "https://docs.deno.com/runtime/desktop/",
+          "summary": "Deno Desktop, geliştiricilerin Deno çalışma zamanını (runtime) kullanarak yerel masaüstü uygulamaları oluşturmasına olanak tanıyor. Bu araç, web teknolojileriyle masaüstü yazılım geliştirme sürecini basitleştiren bir uygulama çerçevesi (framework) sunuyor.",
+          "meta": "349 oy · 144 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Gemma-4-12B tabanlı bu metin üretme modeli (text-generation model), ajan tabanlı görevler için optimize edilmiş özel bir yapılandırma sunuyor. GGUF formatında yayınlanan model, yerel cihazlarda çalıştırılabilen verimli bir çıkarım (inference) deneyimi sağlıyor.",
+          "meta": "♥ 317 · 50.314 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "SuperAgent",
+      "explanation": "Birden fazla görevi aynı anda yönetebilen ve karmaşık işlemleri çözebilen gelişmiş yapay zekâ yardımcısı."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Programları ana sistemden izole ederek güvenli bir şekilde test etmenizi sağlayan kapalı alan."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Bilgiler arasındaki ilişkileri birbirine bağlı noktalar şeklinde gösteren veri yapısı."
+    },
+    {
+      "term": "ticket purchasing assistant",
+      "explanation": "Kullanıcı adına bilet arayıp satın alma işlemlerini gerçekleştiren dijital yardımcı."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "İnternette herkese açık kaynaklardan bilgi toplayıp analiz etme yöntemi."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "Yapay zekânın geçmişteki bilgileri ve deneyimleri uzun süre saklayıp ihtiyaç duyduğunda hatırlaması."
+    },
+    {
+      "term": "knowledge graph engine",
+      "explanation": "Bilgiler arasındaki karmaşık bağları kuran ve sorgulanmasını sağlayan yazılım altyapısı."
+    }
+  ]
+}
