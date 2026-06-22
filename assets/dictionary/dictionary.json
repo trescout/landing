@@ -1461,5 +1461,19 @@
     "full": "",
     "cat": "data",
     "kisa": "Bilgiler arasındaki karmaşık bağları kuran ve sorgulanmasını sağlayan yazılım altyapısı."
+  },
+  {
+    "slug": "ai-agents",
+    "en": "AI Agents",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Verilen görevleri yerine getirmek için araçları kullanan ve kendi başına karar verebilen akıllı yazılımlar."
+  },
+  {
+    "slug": "agent-skills",
+    "en": "Agent Skills",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ ajanlarının belirli görevleri yerine getirmek için kullandığı özel yetenekler veya araçlar."
   }
 ]

@@ -44,7 +44,7 @@ Bilgisayarımda veya tarayıcımda gerçekleştirmemi istediğin karmaşık bir 
 - [GitHub deposu →](https://github.com/bytedance/UI-TARS-desktop)
 
 ## İlgili sözlük terimleri
-Multimodal AI Models Agents Artificial Intelligence 
+Multimodal AI Models AI Agents Agents Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
