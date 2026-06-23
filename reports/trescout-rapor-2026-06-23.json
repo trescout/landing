@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-23",
+  "editorial": "Açık kaynaklı görüntü işleme ve üretken ses modelleri bugün geliştirici ekosisteminde yoğun ilgi görüyor. Siber güvenlik odaklı yapay zekâ yetenekleri (skills) ve PDF yönetimi araçları da GitHub üzerindeki yükselen eğilimler arasında yer alıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage, yapay zekâ destekli kodlama asistanlarını kapsamlı bir video prodüksiyon stüdyosuna dönüştüren açık kaynaklı bir ajan tabanlı sistemdir (agentic system). Python tabanlı bu platform, 12 farklı iş akışı (pipeline), 52 araç ve 500'den fazla ajan yeteneği (agent skills) ile video üretim süreçlerini otomatize ediyor.",
+          "meta": "Python · ★ 13.255 · +2.938 bugün"
+        },
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro, yapay zekâ destekli düzenleme araçlarını entegre eden, macOS işletim sistemi için geliştirilmiş bir video düzenleyici (video editor) uygulamasıdır. Swift diliyle yazılan bu araç, yapay zekâ tabanlı iş akışlarını yerel masaüstü deneyimiyle birleştirmeyi amaçlıyor.",
+          "meta": "Swift · ★ 7.875 · +2.463 bugün"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve ses üretimi yapmasına olanak tanıyan açık kaynaklı bir yapay zekâ ses stüdyosudur. TypeScript diliyle geliştirilen bu platform, ses işleme süreçlerini tek bir merkezde birleştirerek içerik üreticilerine erişilebilir araçlar sunmaktadır.",
+          "meta": "TypeScript · ★ 32.634 · +529 bugün"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Anthropic-Cybersecurity-Skills, yapay zekâ ajanları için altı farklı siber güvenlik çerçevesiyle uyumlu 817 yapılandırılmış yetenek (skills) sunuyor. Bu kütüphane, Claude Code ve GitHub Copilot gibi 20'den fazla platformda güvenlik odaklı iş akışlarını standartlaştırmayı sağlıyor.",
+          "meta": "Python · ★ 19.034 · +956 bugün"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot, tasarımcılar ve yazılımcılar arasındaki iş birliğini güçlendirmek için geliştirilen açık kaynaklı bir tasarım aracıdır (design tool). Vektör tabanlı arayüzü sayesinde tasarım süreçlerini kod geliştirme aşamasıyla bütünleşik bir şekilde yönetmeyi sağlar.",
+          "meta": "Clojure · ★ 53.054 · +728 bugün"
+        },
+        {
+          "title": "Stirling-Tools/Stirling-PDF",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "summary": "Stirling-PDF, kullanıcıların PDF dosyaları üzerinde her cihazda düzenleme yapmasına olanak tanıyan açık kaynaklı bir belge işleme aracıdır. TypeScript ile geliştirilen bu uygulama, yerel sunucularda çalışarak doküman yönetimi süreçlerini merkezileştirir.",
+          "meta": "TypeScript · ★ 83.316 · +547 bugün"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Gstack, Garry Tan'ın Claude Code yapılandırmasını temel alan ve CEO, tasarımcı, mühendislik yöneticisi gibi farklı roller üstlenen 23 özelleşmiş araçtan oluşan bir sistemdir. Bu TypeScript tabanlı yapı, yazılım geliştirme süreçlerini otomatize etmek için tanımlanmış iş akışları (workflows) sunar.",
+          "meta": "TypeScript · ★ 113.462 · +573 bugün"
+        },
+        {
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "summary": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor. Yapay zekâ ajanlarının görsel içerik üretmesini kolaylaştırmak amacıyla tasarlanan bu araç, web tabanlı arayüzleri video formatına çeviriyor.",
+          "meta": "TypeScript · ★ 30.297 · +395 bugün"
+        },
+        {
+          "title": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "summary": "Turso, SQLite ile uyumlu yapıda çalışan bir süreç içi veritabanı (in-process database) çözümüdür. Rust diliyle geliştirilen bu teknoloji, uç bilişim (edge computing) ortamlarında düşük gecikmeli veri yönetimi sağlamayı amaçlar.",
+          "meta": "Rust · ★ 21.657 · +540 bugün"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "ByteDance tarafından geliştirilen Deer-Flow, uzun süreli görevleri yerine getirmek için tasarlanmış açık kaynaklı bir süper ajan (SuperAgent) çerçevesidir. Sistem; kum havuzu (sandbox), bellek, araçlar ve alt ajanlar kullanarak dakikalar veya saatler süren karmaşık iş akışlarını otonom şekilde yönetir.",
+          "meta": "Python · ★ 73.535 · +738 bugün"
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp, kod tabanlarını kalıcı bir bilgi çizgesi (knowledge graph) üzerinde indeksleyerek yüksek performanslı kod zekâsı sunuyor. C diliyle geliştirilen araç, 158 programlama dilini desteklerken sorgu sürelerini milisaniyenin altına indiriyor ve belirteç (token) kullanımını azaltıyor.",
+          "meta": "C · ★ 12.032 · +1.185 bugün"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen tarafından geliştirilen bu sistem, büyük dil modelleri (large language models) kullanarak çoklu piyasa verilerini ve güncel haberleri analiz eden otomatik bir borsa takip aracıdır. Python tabanlı bu yazılım, karar destek paneli ve otomatik bildirim özellikleri sayesinde sıfır maliyetle düzenli piyasa raporları sunar.",
+          "meta": "Python · ★ 46.256 · +1.557 bugün"
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl, web sitelerindeki verileri büyük ölçekte taramak, ayıklamak ve yapay zekâ modellerinin işleyebileceği temiz metin formatına dönüştürmek için bir arayüz (API) sunuyor. Bu araç, web içeriğiyle etkileşimi otomatize ederek veri toplama süreçlerini kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 137.683 · +615 bugün"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "JCodesMore tarafından geliştirilen yapay zekâ web sitesi kopyalayıcı (AI website cloner), TypeScript tabanlı kodlama ajanlarını kullanarak tek komutla mevcut web sitelerinin kopyalanmasını sağlıyor. Bu araç, web tasarımı ve geliştirme süreçlerini otomatize etmek için yapay zekâ destekli kod oluşturma (AI-powered code generation) yönteminden yararlanıyor.",
+          "meta": "TypeScript · ★ 18.039 · +100 bugün"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM, 70 milyar parametreli büyük dil modellerinin (large language models) sadece 4 GB belleğe sahip grafik işlem birimlerinde (GPU) çalıştırılmasına olanak tanıyor. Bu kütüphane, bellek optimizasyonu teknikleri kullanarak yüksek kapasiteli modellerin düşük donanım kaynaklarıyla çıkarım (inference) yapmasını sağlıyor.",
+          "meta": "Jupyter Notebook · ★ 21.167 · +193 bugün"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan bu depo, yazılım geliştiricilerin Claude ortamında kullandığı özelleştirilmiş yetenek paketlerini (skills) bir araya getiriyor. Geliştiricilerin yapay zekâ destekli iş akışlarını otomatikleştirmesi ve standartlaştırması için hazır betiklerden (scripts) oluşan bir kütüphane sunuyor.",
+          "meta": "Shell · ★ 142.361 · +2.051 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Steam Machine launches today",
+          "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+          "summary": "Valve, oyun kütüphanesini oturma odasına taşıyan yeni donanım platformu Steam Machine'i piyasaya sürdü. Cihaz, özel bir işletim sistemi (SteamOS) üzerinden oyun deneyimini konsol benzeri bir arayüzle sunmayı hedefliyor.",
+          "meta": "1.491 oy · 1.307 yorum"
+        },
+        {
+          "title": "Help I accidentally a wigglegram",
+          "url": "https://lmao.center/blog/wiggle-accidents/",
+          "summary": "Wigglegram, iki veya daha fazla fotoğrafın hızlıca art arda oynatılmasıyla oluşturulan bir derinlik algısı yanılsaması (stereoskopik etki) tekniğidir. Bu yöntem, statik görsellere hareket katarak üç boyutlu bir derinlik hissi yaratmayı amaçlar.",
+          "meta": "526 oy · 122 yorum"
+        },
+        {
+          "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+          "url": "https://ipvm.com/reports/police-chiefs-track",
+          "summary": "Flock Safety tarafından sağlanan plaka tanıma sistemleri (automatic license plate recognition), emniyet müdürlerinin kişisel amaçlarla kadınları takip etmek için kullanılmasıyla güvenlik ve gizlilik tartışmalarını tetikliyor. Bu durum, gözetleme teknolojilerinin denetimi için yasal arama kararı (warrant) zorunluluğunun gerekliliğini gündeme taşıyor.",
+          "meta": "490 oy · 200 yorum"
+        },
+        {
+          "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+          "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+          "summary": "Kanada hükümeti, 2040 yılına kadar on adede kadar yeni nükleer reaktör inşa ederek enerji üretim kapasitesini artırmayı hedefleyen bir nükleer rönesans stratejisi planlıyor. Bu girişim, ülkenin temiz enerji hedeflerine ulaşmak için nükleer enerji (nuclear energy) altyapısını genişletme çabalarını temsil ediyor.",
+          "meta": "443 oy · 293 yorum"
+        },
+        {
+          "title": "GLM-5.2 – How to Run Locally",
+          "url": "https://unsloth.ai/docs/models/glm-5.2",
+          "summary": "Unsloth platformu, GLM-5.2 modelinin yerel bilgisayarlarda çalıştırılması için gerekli optimizasyon yöntemlerini ve kurulum adımlarını sunuyor. Bu rehber, yüksek performanslı dil modellerini (large language models) daha düşük donanım gereksinimleriyle çalıştırmayı hedefleyen teknik süreçleri detaylandırıyor.",
+          "meta": "340 oy · 147 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Açık kaynaklı yapısıyla farklı doğal dil işleme uygulamalarında kullanılmak üzere tasarlanmıştır.",
+          "meta": "♥ 2.077 · 33.589 indirme"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma-4-12B-coder-fable5-composer2.5-v1, yazılım geliştirme süreçlerine yönelik optimize edilmiş bir metin üretme modeli (text-generation model) olarak sunuluyor. Model, GGUF formatı sayesinde farklı donanım yapılandırmalarında yerel çalıştırma (local inference) imkânı sağlıyor.",
+          "meta": "♥ 2.188 · 414.734 indirme"
+        },
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "summary": "WeiboAI tarafından geliştirilen VibeThinker-3B, metin üretimi (text generation) odaklı kompakt bir dil modelidir. 3 milyar parametreli yapısı sayesinde düşük hesaplama maliyetiyle metin oluşturma görevlerinde verimlilik sağlar.",
+          "meta": "♥ 623 · 32.385 indirme"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "HuggingFace üzerinde paylaşılan gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF, metin üretimi (text generation) süreçleri için optimize edilmiş bir modeldir. Model, düşük kaynaklı cihazlarda çalışabilmesi için GGUF formatında sıkıştırılmış bir yapı sunar.",
+          "meta": "♥ 399 · 50.314 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel tabanlı metinleri metin verisine dönüştüren bir görüntüden metne (image-to-text) modelidir. Karmaşık dokümanlardaki verileri dijitalleştirmek amacıyla geliştirilen bu teknoloji, optik karakter tanıma (optical character recognition) süreçlerinde yüksek doğruluk hedefliyor.",
+          "meta": "♥ 261 · 47 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agentic system",
+      "explanation": "Kendi başına karar verip hedeflere ulaşmak için gerekli adımları planlayabilen otonom yazılım sistemleri."
+    },
+    {
+      "term": "pipeline",
+      "explanation": "Bir verinin işlenip sonuç haline gelene kadar geçtiği birbirine bağlı aşamalar dizisi."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Yapay zekâ yazılımlarının belirli görevleri yerine getirmek için kullandığı özel yetenekler veya araçlar."
+    },
+    {
+      "term": "video editor",
+      "explanation": "Görüntü ve ses dosyalarını kesip birleştirerek düzenlemenizi sağlayan dijital yazılım."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Bir kişinin sesini örnek alarak, o kişinin ses tonuyla yeni cümleler söyleten teknoloji."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya yapay zekânın belirli bir işi yapmak için sahip olduğu uzmanlıklar."
+    },
+    {
+      "term": "design tool",
+      "explanation": "Görsel içerikler, grafikler veya arayüzler oluşturmanıza yardımcı olan dijital çizim yazılımı."
+    },
+    {
+      "term": "workflows",
+      "explanation": "Bir işi tamamlamak için izlenmesi gereken düzenli ve tekrarlanabilir adımlar bütünü."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, hazır yapı ve kurallar sunan temel iskelet."
+    },
+    {
+      "term": "in-process database",
+      "explanation": "Ayrı bir sunucuya ihtiyaç duymadan doğrudan uygulamanın içinde çalışan hafif veri depolama sistemi."
+    },
+    {
+      "term": "edge computing",
+      "explanation": "Verilerin merkeze gönderilmeden, cihazın kendi üzerinde veya kaynağa yakın bir noktada işlenmesi."
+    },
+    {
+      "term": "SuperAgent",
+      "explanation": "Birden fazla görevi aynı anda yönetebilen ve karmaşık süreçleri tek başına yürüten gelişmiş yapay zekâ yardımcısı."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Yeni yazılımların ana sisteme zarar vermeden güvenle test edilebildiği izole edilmiş çalışma alanı."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Bilgilerin birbirleriyle olan ilişkilerini bir ağ gibi birbirine bağlayarak sunan veri yapısı."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekânın metinleri işlerken kullandığı, kelime veya hece parçalarına denk gelen en küçük veri birimi."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    }
+  ]
+}

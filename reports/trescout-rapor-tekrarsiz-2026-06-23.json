@@ -1,0 +1,101 @@
+{
+  "date": "2026-06-23",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Stirling-Tools/Stirling-PDF",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "summary": "Stirling-PDF, kullanıcıların PDF dosyaları üzerinde her cihazda düzenleme yapmasına olanak tanıyan açık kaynaklı bir belge işleme aracıdır. TypeScript ile geliştirilen bu uygulama, yerel sunucularda çalışarak doküman yönetimi süreçlerini merkezileştirir.",
+          "meta": "TypeScript · ★ 83.316 · +547 bugün"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Gstack, Garry Tan'ın Claude Code yapılandırmasını temel alan ve CEO, tasarımcı, mühendislik yöneticisi gibi farklı roller üstlenen 23 özelleşmiş araçtan oluşan bir sistemdir. Bu TypeScript tabanlı yapı, yazılım geliştirme süreçlerini otomatize etmek için tanımlanmış iş akışları (workflows) sunar.",
+          "meta": "TypeScript · ★ 113.462 · +573 bugün"
+        },
+        {
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "summary": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor. Yapay zekâ ajanlarının görsel içerik üretmesini kolaylaştırmak amacıyla tasarlanan bu araç, web tabanlı arayüzleri video formatına çeviriyor.",
+          "meta": "TypeScript · ★ 30.297 · +395 bugün"
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl, web sitelerindeki verileri büyük ölçekte taramak, ayıklamak ve yapay zekâ modellerinin işleyebileceği temiz metin formatına dönüştürmek için bir arayüz (API) sunuyor. Bu araç, web içeriğiyle etkileşimi otomatize ederek veri toplama süreçlerini kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 137.683 · +615 bugün"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "JCodesMore tarafından geliştirilen yapay zekâ web sitesi kopyalayıcı (AI website cloner), TypeScript tabanlı kodlama ajanlarını kullanarak tek komutla mevcut web sitelerinin kopyalanmasını sağlıyor. Bu araç, web tasarımı ve geliştirme süreçlerini otomatize etmek için yapay zekâ destekli kod oluşturma (AI-powered code generation) yönteminden yararlanıyor.",
+          "meta": "TypeScript · ★ 18.039 · +100 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Steam Machine launches today",
+          "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+          "summary": "Valve, oyun kütüphanesini oturma odasına taşıyan yeni donanım platformu Steam Machine'i piyasaya sürdü. Cihaz, özel bir işletim sistemi (SteamOS) üzerinden oyun deneyimini konsol benzeri bir arayüzle sunmayı hedefliyor.",
+          "meta": "1.491 oy · 1.307 yorum"
+        },
+        {
+          "title": "Help I accidentally a wigglegram",
+          "url": "https://lmao.center/blog/wiggle-accidents/",
+          "summary": "Wigglegram, iki veya daha fazla fotoğrafın hızlıca art arda oynatılmasıyla oluşturulan bir derinlik algısı yanılsaması (stereoskopik etki) tekniğidir. Bu yöntem, statik görsellere hareket katarak üç boyutlu bir derinlik hissi yaratmayı amaçlar.",
+          "meta": "526 oy · 122 yorum"
+        },
+        {
+          "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+          "url": "https://ipvm.com/reports/police-chiefs-track",
+          "summary": "Flock Safety tarafından sağlanan plaka tanıma sistemleri (automatic license plate recognition), emniyet müdürlerinin kişisel amaçlarla kadınları takip etmek için kullanılmasıyla güvenlik ve gizlilik tartışmalarını tetikliyor. Bu durum, gözetleme teknolojilerinin denetimi için yasal arama kararı (warrant) zorunluluğunun gerekliliğini gündeme taşıyor.",
+          "meta": "490 oy · 200 yorum"
+        },
+        {
+          "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+          "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+          "summary": "Kanada hükümeti, 2040 yılına kadar on adede kadar yeni nükleer reaktör inşa ederek enerji üretim kapasitesini artırmayı hedefleyen bir nükleer rönesans stratejisi planlıyor. Bu girişim, ülkenin temiz enerji hedeflerine ulaşmak için nükleer enerji (nuclear energy) altyapısını genişletme çabalarını temsil ediyor.",
+          "meta": "443 oy · 293 yorum"
+        },
+        {
+          "title": "GLM-5.2 – How to Run Locally",
+          "url": "https://unsloth.ai/docs/models/glm-5.2",
+          "summary": "Unsloth platformu, GLM-5.2 modelinin yerel bilgisayarlarda çalıştırılması için gerekli optimizasyon yöntemlerini ve kurulum adımlarını sunuyor. Bu rehber, yüksek performanslı dil modellerini (large language models) daha düşük donanım gereksinimleriyle çalıştırmayı hedefleyen teknik süreçleri detaylandırıyor.",
+          "meta": "340 oy · 147 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel tabanlı metinleri metin verisine dönüştüren bir görüntüden metne (image-to-text) modelidir. Karmaşık dokümanlardaki verileri dijitalleştirmek amacıyla geliştirilen bu teknoloji, optik karakter tanıma (optical character recognition) süreçlerinde yüksek doğruluk hedefliyor.",
+          "meta": "♥ 261 · 47 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "workflows",
+      "explanation": "Bir işi tamamlamak için izlenmesi gereken düzenli ve tekrarlanabilir adımlar bütünü."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, hazır yapı ve kurallar sunan temel iskelet."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    }
+  ]
+}
