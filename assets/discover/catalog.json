@@ -2885,5 +2885,83 @@
     "headline": "yapay zekâ modellerinin gizli talimatları",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "stirling-pdf",
+    "title": "Stirling-PDF",
+    "tagline": "Stirling-PDF, kullanıcıların PDF dosyaları üzerinde her cihazda düzenleme yapmasına olanak tanıyan açık kaynaklı bir belge…",
+    "meta": "★ 83.316 · TypeScript",
+    "image": "/assets/discover/og/stirling-pdf.webp",
+    "source": "GitHub",
+    "date": "2026-06-23",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 83316,
+    "lite": false,
+    "headline": "Kendi sunucunuzda kapsamlı PDF düzenleme"
+  },
+  {
+    "slug": "gstack",
+    "title": "Gstack",
+    "tagline": "Gstack, Garry Tan'ın Claude Code yapılandırmasını temel alan ve CEO, tasarımcı, mühendislik yöneticisi gibi farklı roller…",
+    "meta": "★ 113.462 · TypeScript",
+    "image": "/assets/discover/og/gstack.webp",
+    "source": "GitHub",
+    "date": "2026-06-23",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 113462,
+    "lite": false,
+    "headline": "yapay zekâ ile yazılım geliştirme fabrikası"
+  },
+  {
+    "slug": "hyperframes",
+    "title": "Hyperframes",
+    "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
+    "meta": "★ 30.297 · TypeScript",
+    "image": "/assets/discover/og/hyperframes.webp",
+    "source": "GitHub",
+    "date": "2026-06-23",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 30297,
+    "lite": false,
+    "headline": "HTML kodlarını videoya dönüştürün"
+  },
+  {
+    "slug": "firecrawl",
+    "title": "Firecrawl",
+    "tagline": "Firecrawl, web sitelerindeki verileri büyük ölçekte taramak, ayıklamak ve yapay zekâ modellerinin işleyebileceği temiz metin…",
+    "meta": "★ 137.683 · TypeScript",
+    "image": "/assets/discover/og/firecrawl.webp",
+    "source": "GitHub",
+    "date": "2026-06-23",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 137683,
+    "lite": false,
+    "headline": "Web verilerini yapay zekâya hazırlayın"
+  },
+  {
+    "slug": "ai-website-cloner-template",
+    "title": "AI Website Cloner Template",
+    "tagline": "JCodesMore tarafından geliştirilen yapay zekâ web sitesi kopyalayıcı (AI website cloner), TypeScript tabanlı kodlama…",
+    "meta": "★ 18.039 · TypeScript",
+    "image": "/assets/discover/og/ai-website-cloner-template.webp",
+    "source": "GitHub",
+    "date": "2026-06-23",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 18039,
+    "lite": false,
+    "headline": "yapay zekâ ile web sitesi kopyalama"
   }
 ]

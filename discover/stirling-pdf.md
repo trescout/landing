@@ -1,0 +1,46 @@
+# Kendi sunucunuzda kapsamlı PDF düzenleme
+
+Stirling-PDF, kullanıcıların PDF dosyaları üzerinde her cihazda düzenleme yapmasına olanak tanıyan açık kaynaklı bir belge işleme aracıdır. TypeScript ile geliştirilen bu uygulama, yerel sunucularda çalışarak doküman yönetimi süreçlerini merkezileştirir.
+
+- ★ 83.316
+- TypeScript
+- GitHub Trending · 2026-06-23
+
+## Ne kazandırır?
+- 50'den fazla farklı PDF düzenleme aracı
+- Verilerinizi dış servislere göndermeden yerel işleme
+- Tarayıcı veya masaüstü üzerinden kolay erişim
+
+## Kurulum
+
+**Docker ile hızlı kurulum**
+
+```
+docker run -p 8080:8080 docker.stirlingpdf.com/stirlingtools/stirling-pdf
+```
+
+## Çalıştırma
+
+**Arayüze erişim**
+
+```
+http://localhost:8080
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Stirling-PDF aracını kullanarak PDF belgelerim üzerinde düzenleme, dönüştürme ve birleştirme işlemlerini nasıl yapabilirim? Belgelerimi yerel olarak güvende tutarak 50'den fazla araçtan en verimli şekilde nasıl yararlanabileceğim konusunda bana rehberlik et ve iş akışlarımı otomatize etmeme yardımcı ol.
+
+- **Kimin için:** PDF dosyalarını gizlilikten ödün vermeden kendi sunucularında veya yerel bilgisayarlarında işlemek isteyen kullanıcılar içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/Stirling-Tools/Stirling-PDF)
+
+## İlgili sözlük terimleri
+PDF Artificial Intelligence 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/stirling-pdf/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

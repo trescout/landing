@@ -1475,5 +1475,33 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay zekâ ajanlarının belirli görevleri yerine getirmek için kullandığı özel yetenekler veya araçlar."
+  },
+  {
+    "slug": "design-tool",
+    "en": "Design Tool",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Görsel içerik, grafik veya kullanıcı arayüzleri oluşturmanızı sağlayan dijital tasarım yazılımıdır."
+  },
+  {
+    "slug": "workflows",
+    "en": "Workflows",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir işin başından sonuna kadar izlediği düzenli ve mantıksal adımlar dizisidir."
+  },
+  {
+    "slug": "in-process-database",
+    "en": "In-process Database",
+    "full": "",
+    "cat": "data",
+    "kisa": "Ayrı bir sunucuya ihtiyaç duymadan doğrudan uygulamanın içinde çalışan hafif veri depolama sistemidir."
+  },
+  {
+    "slug": "edge-computing",
+    "en": "Edge Computing",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Verilerin merkezi bir sunucuya gönderilmeden, verinin üretildiği cihazın kendisinde veya çok yakınında işlenmesidir."
   }
 ]

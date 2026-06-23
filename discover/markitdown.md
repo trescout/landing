@@ -48,7 +48,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsini
 - [GitHub deposu →](https://github.com/microsoft/markitdown)
 
 ## İlgili sözlük terimleri
-Markdown RAG PDF Open Source Artificial Intelligence 
+RAG Markdown PDF Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
