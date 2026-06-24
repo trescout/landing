@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir. Açık kaynak ve teknoloji trendlerini Türkçe takip etmek isteyenler için.
 
-Son güncelleme: 2026-06-24 · 179 araç · 220 terim
+Son güncelleme: 2026-06-24 · 179 araç · 221 terim
 
 ## Teknoloji Sözlüğü
 
@@ -10,6 +10,7 @@ Yapay zekâ ve yazılım terimlerinin sade Türkçe açıklamaları. Her terimin
 
 - [Teknoloji Sözlüğü dizini](https://trescout.com/dictionary/)
 - [ADB nedir?](https://trescout.com/dictionary/adb/) (ham: https://trescout.com/dictionary/adb.md): Bilgisayarınız üzerinden Android cihazlara komut gönderip, yazılım yükleme veya sistem do…
+- [Agent Skill nedir?](https://trescout.com/dictionary/agent-skill/) (ham: https://trescout.com/dictionary/agent-skill.md): Yapay zekâ ajanlarının belirli bir görevi yerine getirmek için kullandığı özel yetenekler…
 - [Agent Skills nedir?](https://trescout.com/dictionary/agent-skills/) (ham: https://trescout.com/dictionary/agent-skills.md): Yapay zekâ ajanlarının belirli görevleri yerine getirmek için kullandığı özel yetenekler…
 - [Agent-native Applications nedir?](https://trescout.com/dictionary/agent-native-applications/) (ham: https://trescout.com/dictionary/agent-native-applications.md): Yapay zeka ajanlarının karar alıp işlemleri yürütmesi için özel olarak tasarlanmış uygula…
 - [Agentic AI nedir?](https://trescout.com/dictionary/agentic-ai/) (ham: https://trescout.com/dictionary/agentic-ai.md): Yapay zekanın sadece metin üretmek yerine hedeflere ulaşmak için inisiyatif almasıdır.

@@ -1538,5 +1538,12 @@
     "full": "",
     "cat": "dev",
     "kisa": "Yazılımların belirli işlemleri gerçekleştirmek için dış dünyayla etkileşime girmesini sağlayan yardımcı fonksiyonlar veya araçlardır."
+  },
+  {
+    "slug": "agent-skill",
+    "en": "Agent Skill",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ ajanlarının belirli bir görevi yerine getirmek için kullandığı özel yetenekler veya araçlardır."
   }
 ]
