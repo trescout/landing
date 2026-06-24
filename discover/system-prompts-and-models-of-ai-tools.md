@@ -22,7 +22,7 @@ Bu araç herhangi bir kurulum gerektirmeyen bir bilgi arşividir. İncelemek ist
 - [GitHub deposu →](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 ## İlgili sözlük terimleri
-System Prompts AI Models Generative AI Artificial Intelligence 
+System Prompts AI Models Tools Generative AI Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

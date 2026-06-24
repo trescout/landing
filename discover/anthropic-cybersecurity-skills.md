@@ -40,7 +40,7 @@ Lisans: Apache-2.0 · özgürce/ticari kullanılabilir. ⚠️ Ad benzerliğine 
 - [Proje sayfası →](https://mahipal.engineer/Anthropic-Cybersecurity-Skills/)
 
 ## İlgili sözlük terimleri
-AI Skills CLI Open Source Artificial Intelligence 
+Cybersecurity Skills AI Skills CLI Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

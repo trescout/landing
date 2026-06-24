@@ -31,7 +31,7 @@ Sen artık benim sanal mühendislik ekibimsin. Gstack araçlarını kullanarak p
 - [GitHub deposu →](https://github.com/garrytan/gstack)
 
 ## İlgili sözlük terimleri
-Workflows Artificial Intelligence 
+Workflows QA Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

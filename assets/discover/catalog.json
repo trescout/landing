@@ -2963,5 +2963,40 @@
     "stars": 18039,
     "lite": false,
     "headline": "yapay zekâ ile web sitesi kopyalama"
+  },
+  {
+    "slug": "claude-plugins-official",
+    "title": "Claude Plugins Official",
+    "tagline": "Anthropic, Claude Code için geliştirilen yüksek kaliteli eklentileri (plugins) tek bir merkezde toplayan resmi bir dizin sunuyor.",
+    "meta": "★ 30.960 · Python",
+    "image": "/assets/discover/og/claude-plugins-official.webp",
+    "source": "GitHub",
+    "date": "2026-06-24",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 30960,
+    "lite": false,
+    "headline": "Claude kodlama asistanı için eklentiler",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "claude-code-best-practice",
+    "title": "Claude Code Best Practice",
+    "tagline": "Claude Code için geliştirilen bu rehber, sezgisel kodlama (vibe coding) yaklaşımından ajan tabanlı mühendisliğe (agentic…",
+    "meta": "★ 59.766 · HTML",
+    "image": "/assets/discover/og/claude-code-best-practice.webp",
+    "source": "GitHub",
+    "date": "2026-06-24",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 59766,
+    "lite": false,
+    "headline": "Claude Code için yapay zekâ rehberi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

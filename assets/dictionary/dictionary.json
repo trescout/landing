@@ -1503,5 +1503,40 @@
     "full": "",
     "cat": "dev",
     "kisa": "Verilerin merkezi bir sunucuya gönderilmeden, verinin üretildiği cihazın kendisinde veya çok yakınında işlenmesidir."
+  },
+  {
+    "slug": "cybersecurity-skills",
+    "en": "Cybersecurity Skills",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Dijital sistemleri ve verileri siber tehditlere karşı korumak için gereken teknik bilgi ve yetkinlikler bütünüdür."
+  },
+  {
+    "slug": "qa",
+    "en": "QA",
+    "full": "Quality Assurance",
+    "cat": "dev",
+    "kisa": "Bir yazılımın kullanıcıya ulaşmadan önce belirlenen standartlara uygun, hatasız ve kaliteli olduğundan emin olma sürecidir."
+  },
+  {
+    "slug": "subagents",
+    "en": "Subagents",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Ana bir yapay zekâ sisteminin yönetimi altında, daha küçük ve özel görevleri yerine getiren yardımcı birimlerdir."
+  },
+  {
+    "slug": "ai-capabilities",
+    "en": "AI Capabilities",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ sistemlerinin analiz etme, öğrenme, içerik üretme veya problem çözme gibi gerçekleştirebildiği tüm işlevlerdir."
+  },
+  {
+    "slug": "tools",
+    "en": "Tools",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımların belirli işlemleri gerçekleştirmek için dış dünyayla etkileşime girmesini sağlayan yardımcı fonksiyonlar veya araçlardır."
   }
 ]

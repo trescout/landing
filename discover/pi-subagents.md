@@ -46,7 +46,7 @@ Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; varsayılan olarak 'tüm hakla
 - [GitHub deposu →](https://github.com/nicobailon/pi-subagents)
 
 ## İlgili sözlük terimleri
-Open Source Artificial Intelligence 
+Subagents Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
