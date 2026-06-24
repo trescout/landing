@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-24",
+  "editorial": "Bugün yazılım dünyasında açık kaynaklı görsel kurgu araçları (open-source video editing) ve finansal analiz otomasyonları öne çıkan başlıklar arasında yer alıyor. Siber güvenlik yetkinliklerini geliştiren rehberler ile veri akış yönetimi (data flow management) üzerine odaklanan projeler geliştiricilerin radarında bulunuyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage, yapay zekâ destekli kodlama asistanlarını kapsamlı bir video prodüksiyon stüdyosuna dönüştüren açık kaynaklı bir ajan tabanlı sistemdir (agentic system). Python tabanlı bu platform, 12 farklı iş akışı (pipeline), 52 araç ve 500'den fazla ajan yeteneği (agent skill) ile video üretim süreçlerini otomatize ediyor.",
+          "meta": "Python · ★ 16.844 · +3.592 bugün"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "Büyük dil modelleri (large language models) ile desteklenen bu sistem, çok kaynaklı piyasa verilerini ve güncel haberleri analiz ederek otomatik borsa bildirimleri sunuyor. Python tabanlı altyapısı sayesinde kullanıcılar, karar destek paneli üzerinden piyasa takibini maliyetsiz şekilde zamanlayabiliyor.",
+          "meta": "Python · ★ 47.630 · +1.119 bugün"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Anthropic-Cybersecurity-Skills, yapay zekâ ajanları için altı farklı güvenlik çerçevesiyle uyumlu 817 yapılandırılmış siber güvenlik yeteneği (cybersecurity skills) sunuyor. Bu kütüphane, 29 güvenlik alanını kapsayarak Claude Code ve GitHub Copilot gibi 20'den fazla platformda ajan tabanlı iş akışlarını standartlaştırmayı hedefliyor.",
+          "meta": "Python · ★ 20.090 · +1.041 bugün"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Gstack, yapay zekâ destekli kodlama aracı Claude Code için özelleştirilmiş 23 farklı araç seti sunuyor. Bu yapılandırma, yazılım geliştirme süreçlerinde yönetici, tasarımcı ve kalite güvence (QA) gibi farklı rollerin iş akışlarını otomatize etmeyi hedefliyor.",
+          "meta": "TypeScript · ★ 114.445 · +1.011 bugün"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "ByteDance tarafından geliştirilen Deer-Flow, uzun süreli ve karmaşık görevleri yerine getirmek için tasarlanmış açık kaynaklı bir üst düzey yapay zekâ ajanı (superagent) çerçevesidir. Sistem; kum havuzu (sandbox), bellek yönetimi, araç kullanımı ve alt ajanlar (subagents) aracılığıyla dakikalar veya saatler süren iş akışlarını otonom şekilde yönetir.",
+          "meta": "Python · ★ 74.159 · +739 bugün"
+        },
+        {
+          "title": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "summary": "Worldmonitor, yapay zekâ destekli haber derleme, jeopolitik izleme ve altyapı takibi özelliklerini tek bir arayüzde birleştiren gerçek zamanlı bir küresel istihbarat paneli sunuyor. Bu araç, karmaşık veri akışlarını işleyerek kullanıcılar için bütünleşik bir durumsal farkındalık (situational awareness) ortamı oluşturuyor.",
+          "meta": "TypeScript · ★ 59.318 · +294 bugün"
+        },
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro, yapay zekâ destekli özelliklerle donatılmış macOS tabanlı bir video düzenleme yazılımıdır (video editor). Swift diliyle geliştirilen bu araç, video kurgu süreçlerini otomatize etmek için yapay zekâ yeteneklerini (AI capabilities) yerel uygulama ortamına taşır.",
+          "meta": "Swift · ★ 8.616 · +1.630 bugün"
+        },
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "summary": "Anthropic, Claude Code için geliştirilen yüksek kaliteli eklentileri (plugins) tek bir merkezde toplayan resmi bir dizin sunuyor. Bu Python tabanlı yapı, geliştiricilerin kodlama asistanları için hazırlanan araçları (tools) standart bir formatta paylaşmasını ve keşfetmesini sağlıyor.",
+          "meta": "Python · ★ 30.960 · +77 bugün"
+        },
+        {
+          "title": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "summary": "Claude Code için geliştirilen bu rehber, sezgisel kodlama (vibe coding) yaklaşımından ajan tabanlı mühendisliğe (agentic engineering) geçiş süreçlerini ele alıyor. Yazılım geliştirme süreçlerinde yapay zekâ ajanlarının verimliliğini artırmak adına pratik uygulama yöntemleri ve en iyi pratikler (best practices) sunuyor.",
+          "meta": "HTML · ★ 59.766 · +344 bugün"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness, alana özgü yapay zekâ ajan ekipleri tasarlayan ve bu ajanların kullanacağı yetenekleri (skills) oluşturan bir üst yetenek (meta-skill) çerçevesidir. Sistem, özelleşmiş ajan tanımları yaparak karmaşık iş akışlarını otomatikleştirme sürecini standartlaştırır.",
+          "meta": "HTML · ★ 7.530 · +128 bugün"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve içerik üretimi yapmasına olanak tanıyan açık kaynaklı bir yapay zekâ ses stüdyosudur. TypeScript diliyle geliştirilen bu platform, ses işleme süreçlerini erişilebilir kılmayı amaçlar.",
+          "meta": "TypeScript · ★ 33.464 · +1.045 bugün"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "Yapay zekâ kodlama ajanlarını (AI coding agents) kullanan bu şablon, herhangi bir web sitesini tek bir komutla kopyalamaya olanak tanıyor. TypeScript tabanlı proje, web sitesi klonlama süreçlerini otomatize ederek geliştiricilerin iş akışını hızlandırıyor.",
+          "meta": "TypeScript · ★ 18.766 · +826 bugün"
+        },
+        {
+          "title": "byoungd/English-level-up-tips",
+          "url": "https://github.com/byoungd/English-level-up-tips",
+          "summary": "English-level-up-tips, İngilizce öğrenme sürecini hızlandırmak için ileri seviye stratejiler ve kaynaklar sunan kapsamlı bir rehberdir. Dil becerilerini geliştirmek isteyen kullanıcılar için öğrenme yöntemlerini ve pratik ipuçlarını bir araya getirir.",
+          "meta": "★ 54.627 · +125 bugün"
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp, kod tabanlarını kalıcı bir bilgi grafiğine (knowledge graph) dönüştürerek yüksek performanslı kod analizi sunuyor. C diliyle geliştirilen bu araç, 158 farklı programlama dilini desteklerken sorgu sürelerini milisaniyenin altına indiriyor ve token kullanımını azaltıyor.",
+          "meta": "C · ★ 13.480 · +1.300 bugün"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir yapay zekâ ajanı (AI agent) altyapısı sunuyor. Python tabanlı bu sistem, kişiselleştirilmiş görev yürütme ve sürekli öğrenme (continual learning) yeteneklerini bir araya getiriyor.",
+          "meta": "Python · ★ 201.322 · +936 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, yapay zekâ ajanları için yetenekler (skills), içgüdüler (instincts), bellek (memory) ve güvenlik katmanlarını optimize eden bir performans sistemi sunuyor. Claude Code ve Cursor gibi geliştirme araçlarında ajan tabanlı iş akışlarını daha verimli hale getirmeyi amaçlıyor.",
+          "meta": "JavaScript · ★ 220.776 · +593 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "FUTO Swipe – A new swipe typing model",
+          "url": "https://swipe.futo.tech/",
+          "summary": "FUTO Swipe, açık kaynaklı bir alternatif olarak geliştirilen yeni bir kaydırmalı yazma modeli (swipe typing model) sunuyor. Kullanıcı gizliliğini ön planda tutan bu teknoloji, metin girişi sürecini yerel cihaz üzerinde işleyerek kişisel verilerin korunmasını sağlıyor.",
+          "meta": "485 oy · 147 yorum"
+        },
+        {
+          "title": "Fired by Google for creating the Google workspace CLI",
+          "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+          "summary": "Google Workspace için komut satırı arayüzü (CLI) geliştiren bir yazılımcı, şirket içi araçların kullanımıyla ilgili politikaları ihlal ettiği gerekçesiyle işten çıkarıldı. Bu durum, kurum içi geliştirici araçlarının (internal developer tools) kullanımı ve şirketlerin açık kaynak politikaları üzerindeki denetim sınırlarını tartışmaya açtı.",
+          "meta": "465 oy · 285 yorum"
+        },
+        {
+          "title": "Jerry's Map",
+          "url": "http://www.jerrysmap.com/the-map",
+          "summary": "Jerry Gretzinger, 1963 yılından bu yana aralıksız şekilde çizdiği hayali bir dünyayı temsil eden devasa harita projesini (Jerry's Map) dijital ortamda erişime açtı. Binlerce el çizimi paneli bir araya getiren bu çalışma, sürekli genişleyen karmaşık bir coğrafi veri tabanı (database) işlevi görüyor.",
+          "meta": "441 oy · 51 yorum"
+        },
+        {
+          "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+          "url": "https://tikz.dev/editor/",
+          "summary": "TikZ düzenleyici (TikZ Editor), LaTeX belgelerinde görsel oluşturmayı sağlayan TikZ paketini kod yazmak yerine görsel arayüz (WYSIWYG) üzerinden düzenlemeye olanak tanıyor. Bu araç, akademik çizimlerin koordinat belirleme ve derleme süreçlerini kolaylaştırarak görsel tasarım aşamasını hızlandırıyor.",
+          "meta": "377 oy · 71 yorum"
+        },
+        {
+          "title": "In memory of the man who put red and green squiggles under words",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+          "summary": "Metin düzenleyicilerde yazım hatalarını kırmızı ve yeşil dalgalı çizgilerle işaretleme özelliğini geliştiren yazılım mühendisi anılıyor. Bu basit görsel geri bildirim mekanizması, günümüzde modern kelime işlemcilerin (word processors) standart bir parçası haline geldi.",
+          "meta": "329 oy · 44 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından yayınlanan GLM-5.2, metin üretimi (text-generation) görevleri için optimize edilmiş bir dil modelidir. Açık kaynaklı ekosistemde geniş dil modelleri (large language models) kategorisinde yer alarak farklı uygulama alanlarında kullanılabilir.",
+          "meta": "♥ 2.243 · 40.127 indirme"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma-4-12B-coder-fable5-composer2.5-v1, yazılım geliştirme süreçlerine odaklanan bir metin üretim modeli (text-generation model) olarak sunuluyor. Model, GGUF formatı sayesinde farklı donanım kaynaklarında verimli bir şekilde çalıştırılabiliyor.",
+          "meta": "♥ 2.254 · 456.117 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel metinleri metne dönüştürme (image-text-to-text) işlemlerini gerçekleştiren bir modeldir. Karmaşık dokümanlardaki metinleri yüksek doğrulukla işleyerek dijital ortama aktarmayı hedefler.",
+          "meta": "♥ 553 · 8.396 indirme"
+        },
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "summary": "WeiboAI tarafından geliştirilen VibeThinker-3B, metin üretimi (text generation) görevleri için optimize edilmiş kompakt bir dil modelidir. 3 milyar parametreli yapısıyla, sınırlı hesaplama kaynaklarında verimli metin oluşturma süreçlerini destekler.",
+          "meta": "♥ 671 · 41.170 indirme"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "HuggingFace üzerinde paylaşılan Gemma-4-12B tabanlı bu model, metin üretimi (text generation) görevleri için optimize edilmiş bir yapı sunuyor. Model, ajan tabanlı (agentic) iş akışlarında kullanılmak üzere özel eğitim parametreleriyle yapılandırılmış GGUF formatlı bir dosya içeriyor.",
+          "meta": "♥ 466 · 96.459 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agentic system",
+      "explanation": "Kendi başına karar verip hedeflere ulaşmak için adımlar atabilen otonom yazılım sistemi."
+    },
+    {
+      "term": "pipeline",
+      "explanation": "Bir işin tamamlanması için verinin geçtiği, birbirini takip eden otomatik aşamalar dizisi."
+    },
+    {
+      "term": "agent skill",
+      "explanation": "Yapay zekânın belirli bir görevi yerine getirmek için sahip olduğu özel yetenek veya beceri."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "cybersecurity skills",
+      "explanation": "Dijital sistemleri ve verileri siber saldırılara karşı korumak için gereken teknik bilgi ve beceriler."
+    },
+    {
+      "term": "QA",
+      "explanation": "Bir yazılımın piyasaya çıkmadan önce hatalardan arındırılmış ve kaliteli olduğundan emin olma süreci."
+    },
+    {
+      "term": "superagent",
+      "explanation": "Karmaşık görevleri yönetmek için diğer küçük yazılım birimlerini koordine eden gelişmiş yapay zekâ sistemi."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Bir yazılımın ana sisteme zarar vermeden güvenle test edilebildiği izole edilmiş çalışma alanı."
+    },
+    {
+      "term": "subagents",
+      "explanation": "Ana bir yapay zekâ sisteminin yönetimi altında, daha küçük ve özel görevleri yerine getiren yardımcı birimler."
+    },
+    {
+      "term": "situational awareness",
+      "explanation": "Yapay zekânın içinde bulunduğu ortamı, verileri ve koşulları doğru şekilde algılayıp anlamlandırma yeteneği."
+    },
+    {
+      "term": "video editor",
+      "explanation": "Görüntü ve ses dosyalarını birleştirerek, keserek veya efekt ekleyerek izlenebilir bir video haline getiren yazılım."
+    },
+    {
+      "term": "AI capabilities",
+      "explanation": "Yapay zekânın analiz yapma, öğrenme veya içerik üretme gibi gerçekleştirebildiği tüm işlevler."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Ana bir programa yeni özellikler eklemek için sonradan yüklenen küçük yazılım eklentileri."
+    },
+    {
+      "term": "tools",
+      "explanation": "Yazılımların belirli işlemleri gerçekleştirmek için kullandığı yardımcı fonksiyonlar veya araçlar."
+    },
+    {
+      "term": "vibe coding",
+      "explanation": "Teknik detaylara boğulmadan, yapay zekâ ile sohbet ederek ve sezgisel bir yaklaşımla kod yazma yöntemi."
+    },
+    {
+      "term": "agentic engineering",
+      "explanation": "Kendi kendine karar verebilen otonom yazılım birimlerini tasarlama ve geliştirme disiplini."
+    }
+  ]
+}

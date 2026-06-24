@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-24",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "summary": "Anthropic, Claude Code için geliştirilen yüksek kaliteli eklentileri (plugins) tek bir merkezde toplayan resmi bir dizin sunuyor. Bu Python tabanlı yapı, geliştiricilerin kodlama asistanları için hazırlanan araçları (tools) standart bir formatta paylaşmasını ve keşfetmesini sağlıyor.",
+          "meta": "Python · ★ 30.960 · +77 bugün"
+        },
+        {
+          "title": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "summary": "Claude Code için geliştirilen bu rehber, sezgisel kodlama (vibe coding) yaklaşımından ajan tabanlı mühendisliğe (agentic engineering) geçiş süreçlerini ele alıyor. Yazılım geliştirme süreçlerinde yapay zekâ ajanlarının verimliliğini artırmak adına pratik uygulama yöntemleri ve en iyi pratikler (best practices) sunuyor.",
+          "meta": "HTML · ★ 59.766 · +344 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "FUTO Swipe – A new swipe typing model",
+          "url": "https://swipe.futo.tech/",
+          "summary": "FUTO Swipe, açık kaynaklı bir alternatif olarak geliştirilen yeni bir kaydırmalı yazma modeli (swipe typing model) sunuyor. Kullanıcı gizliliğini ön planda tutan bu teknoloji, metin girişi sürecini yerel cihaz üzerinde işleyerek kişisel verilerin korunmasını sağlıyor.",
+          "meta": "485 oy · 147 yorum"
+        },
+        {
+          "title": "Fired by Google for creating the Google workspace CLI",
+          "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+          "summary": "Google Workspace için komut satırı arayüzü (CLI) geliştiren bir yazılımcı, şirket içi araçların kullanımıyla ilgili politikaları ihlal ettiği gerekçesiyle işten çıkarıldı. Bu durum, kurum içi geliştirici araçlarının (internal developer tools) kullanımı ve şirketlerin açık kaynak politikaları üzerindeki denetim sınırlarını tartışmaya açtı.",
+          "meta": "465 oy · 285 yorum"
+        },
+        {
+          "title": "Jerry's Map",
+          "url": "http://www.jerrysmap.com/the-map",
+          "summary": "Jerry Gretzinger, 1963 yılından bu yana aralıksız şekilde çizdiği hayali bir dünyayı temsil eden devasa harita projesini (Jerry's Map) dijital ortamda erişime açtı. Binlerce el çizimi paneli bir araya getiren bu çalışma, sürekli genişleyen karmaşık bir coğrafi veri tabanı (database) işlevi görüyor.",
+          "meta": "441 oy · 51 yorum"
+        },
+        {
+          "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+          "url": "https://tikz.dev/editor/",
+          "summary": "TikZ düzenleyici (TikZ Editor), LaTeX belgelerinde görsel oluşturmayı sağlayan TikZ paketini kod yazmak yerine görsel arayüz (WYSIWYG) üzerinden düzenlemeye olanak tanıyor. Bu araç, akademik çizimlerin koordinat belirleme ve derleme süreçlerini kolaylaştırarak görsel tasarım aşamasını hızlandırıyor.",
+          "meta": "377 oy · 71 yorum"
+        },
+        {
+          "title": "In memory of the man who put red and green squiggles under words",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+          "summary": "Metin düzenleyicilerde yazım hatalarını kırmızı ve yeşil dalgalı çizgilerle işaretleme özelliğini geliştiren yazılım mühendisi anılıyor. Bu basit görsel geri bildirim mekanizması, günümüzde modern kelime işlemcilerin (word processors) standart bir parçası haline geldi.",
+          "meta": "329 oy · 44 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "plugins",
+      "explanation": "Ana bir programa yeni özellikler eklemek için sonradan yüklenen küçük yazılım eklentileri."
+    },
+    {
+      "term": "tools",
+      "explanation": "Yazılımların belirli işlemleri gerçekleştirmek için kullandığı yardımcı fonksiyonlar veya araçlar."
+    },
+    {
+      "term": "vibe coding",
+      "explanation": "Teknik detaylara boğulmadan, yapay zekâ ile sohbet ederek ve sezgisel bir yaklaşımla kod yazma yöntemi."
+    },
+    {
+      "term": "agentic engineering",
+      "explanation": "Kendi kendine karar verebilen otonom yazılım birimlerini tasarlama ve geliştirme disiplini."
+    }
+  ]
+}
