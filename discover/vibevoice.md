@@ -1,22 +1,42 @@
-# Açık kaynaklı yapay zekâ ses çerçevesi
+# Uzun ses kayıtları için yapay zekâ
 
 Microsoft tarafından yayınlanan VibeVoice, açık kaynaklı bir sesli yapay zekâ (voice AI) çerçevesi olarak geliştirildi. Sistem, Python tabanlı yapısıyla kullanıcıların kendi ses modellerini eğitmelerine ve uygulamalarına entegre etmelerine olanak tanıyor.
 
 - ★ 48.569
-- Python
 - GitHub Trending · 2026-06-07
 
 ## Ne kazandırır?
-- 60 dakikaya kadar uzun ses kayıtlarını tek seferde metne dönüştürür.
-- Konuşmacı takibi, zaman damgası ve içerik dökümü sağlar.
-- Özelleştirilebilir anahtar kelimelerle teknik terimlerde yüksek doğruluk sunar.
+- 60 dakikaya kadar kesintisiz ses dökümü
+- Konuşmacı, zaman damgası ve içerik takibi
+- Özel terimler ile yüksek doğrulukta tanıma
 
-## Nasıl başlanır?
+## Kurulum
 
-VibeVoice araçlarını kullanmaya başlamak için projenin resmî GitHub sayfasını ziyaret edebilirsiniz. Ses tanıma özellikleri için Hugging Face üzerindeki VibeVoice-ASR koleksiyonuna göz atabilir veya tarayıcı üzerinden doğrudan deneme yapmak için sağlanan Playground ve Colab bağlantılarını kullanabilirsiniz.
-- [Resmî kaynak →](https://microsoft.github.io/VibeVoice/)
+**GitHub'dan kur**
 
-- **Kimin için:** Uzun süreli ses kayıtlarını analiz etmek, konuşmacıları ayırt etmek ve sesli içeriklerden yapılandırılmış metin dökümleri elde etmek isteyen araştırmacılar ve geliştiriciler içindir. 
+```
+git clone https://github.com/microsoft/VibeVoice.git
+cd VibeVoice
+pip install -e .
+```
+
+## Çalıştırma
+
+**Gradio demo**
+
+```
+python demo/vibevoice_asr_gradio_demo.py --model_path microsoft/VibeVoice-ASR --share
+```
+
+**Dosyadan transkripsiyon**
+
+```
+python demo/vibevoice_asr_inference_from_file.py --model_path microsoft/VibeVoice-ASR --audio_files [ses-dosyasi]
+```
+
+Kaynak: Resmî depo · docs/vibevoice-asr.md (microsoft/VibeVoice). Kurulabilir model VibeVoice-ASR; TTS kodu depodan çıkarıldı.
+
+- **Kimin için:** Uzun süreli ses kayıtlarını, podcastleri veya çok konuşmacılı toplantıları metne dökmek isteyen araştırmacılar ve geliştiriciler içindir. 
 - **Lisans:** MIT 
 
 ## Bağlantılar

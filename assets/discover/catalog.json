@@ -1406,7 +1406,7 @@
     "slug": "vibevoice",
     "title": "VibeVoice",
     "tagline": "Microsoft tarafından yayınlanan VibeVoice, açık kaynaklı bir sesli yapay zekâ (voice AI) çerçevesi olarak geliştirildi.",
-    "meta": "★ 48.569 · Python",
+    "meta": "★ 48.569",
     "image": "/assets/discover/og/vibevoice.webp",
     "source": "GitHub",
     "date": "2026-06-07",
@@ -1416,9 +1416,7 @@
     ],
     "stars": 48569,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "resmî Microsoft repo geri çekildi · doğrulanabilir komut yok",
-    "headline": "Açık kaynaklı yapay zekâ ses çerçevesi",
+    "headline": "Uzun ses kayıtları için yapay zekâ",
     "cmds": {
       "kurulum": [
         {
