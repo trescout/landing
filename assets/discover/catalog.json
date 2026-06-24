@@ -1418,7 +1418,26 @@
     "lite": false,
     "needs_enrichment": true,
     "enrich_reason": "resmî Microsoft repo geri çekildi · doğrulanabilir komut yok",
-    "headline": "Açık kaynaklı yapay zekâ ses çerçevesi"
+    "headline": "Açık kaynaklı yapay zekâ ses çerçevesi",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "GitHub'dan kur",
+          "komut": "git clone https://github.com/microsoft/VibeVoice.git\ncd VibeVoice\npip install -e ."
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Gradio demo",
+          "komut": "python demo/vibevoice_asr_gradio_demo.py --model_path microsoft/VibeVoice-ASR --share"
+        },
+        {
+          "baslik": "Dosyadan transkripsiyon",
+          "komut": "python demo/vibevoice_asr_inference_from_file.py --model_path microsoft/VibeVoice-ASR --audio_files [ses-dosyasi]"
+        }
+      ],
+      "kaynak": "Resmî depo · docs/vibevoice-asr.md (microsoft/VibeVoice). Kurulabilir model VibeVoice-ASR; TTS kodu depodan çıkarıldı."
+    }
   },
   {
     "slug": "opencv",
@@ -1706,8 +1725,6 @@
     ],
     "stars": 8362,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "firmware (ESPHome) · standart pip/npm kurulum komutu yok",
     "headline": "Wi-Fi ile yapay zekâ destekli hareket algılama"
   },
   {
