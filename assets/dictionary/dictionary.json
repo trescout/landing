@@ -1580,5 +1580,12 @@
     "full": "",
     "cat": "dev",
     "kisa": "İnternet üzerinden gönderilen verilerin, ağın taşıma kapasitesine göre daha küçük parçalara bölünmesi işlemidir."
+  },
+  {
+    "slug": "ai-coding-agents",
+    "en": "AI Coding Agents",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yazılım geliştirme süreçlerinde kod yazma, hata ayıklama ve proje yönetimi gibi görevleri otonom şekilde yürüten yapay zekâ yardımcılarıdır."
   }
 ]
