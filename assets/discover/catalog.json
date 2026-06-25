@@ -3013,5 +3013,119 @@
     "headline": "Claude Code için yapay zekâ rehberi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "hiring-agent",
+    "title": "Hiring Agent",
+    "tagline": "Hiring-agent, özgeçmişleri değerlendirmek ve puanlamak için tasarlanmış bir yapay zekâ ajanıdır (AI agent).",
+    "meta": "★ 2.482 · Python",
+    "image": "/assets/discover/og/hiring-agent.webp",
+    "source": "GitHub",
+    "date": "2026-06-25",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 2482,
+    "lite": false,
+    "headline": "yapay zekâ ile özgeçmiş değerlendirme"
+  },
+  {
+    "slug": "flutter",
+    "title": "Flutter",
+    "tagline": "Google tarafından geliştirilen Flutter, tek bir kod tabanı kullanarak mobil, web ve masaüstü platformları için hızlı bir…",
+    "meta": "★ 177.494 · Dart",
+    "image": "/assets/discover/og/flutter.webp",
+    "source": "GitHub",
+    "date": "2026-06-25",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 177494,
+    "lite": false,
+    "headline": "tek kodla çoklu platform uygulaması",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "headunit-revived",
+    "title": "Headunit Revived",
+    "tagline": "Headunit-revived projesi, Android Auto arayüzünü farklı ekranlarda görüntülemeyi sağlayan bir uygulama sunuyor.",
+    "meta": "★ 1.484 · Kotlin",
+    "image": "/assets/discover/og/headunit-revived.webp",
+    "source": "GitHub",
+    "date": "2026-06-25",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1484,
+    "lite": false,
+    "headline": "Tabletinizi Android Auto ekranına dönüştürün",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "orca",
+    "title": "Orca",
+    "tagline": "Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme…",
+    "meta": "★ 7.044 · TypeScript",
+    "image": "/assets/discover/og/orca.webp",
+    "source": "GitHub",
+    "date": "2026-06-25",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7044,
+    "lite": false,
+    "headline": "Birden fazla yapay zekâ ajanı yönetin"
+  },
+  {
+    "slug": "design-md",
+    "title": "Design.md",
+    "tagline": "Google Labs tarafından geliştirilen DESIGN.md, görsel kimlik bilgilerini kodlama ajanlarına aktarmak için yapılandırılmış bir…",
+    "meta": "★ 17.720 · TypeScript",
+    "image": "/assets/discover/og/design-md.webp",
+    "source": "GitHub",
+    "date": "2026-06-25",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 17720,
+    "lite": false,
+    "headline": "Tasarım sistemlerini yapay zekâya tanıtın"
+  },
+  {
+    "slug": "zapret-discord-youtube",
+    "title": "Zapret Discord Youtube",
+    "tagline": "Zapret-discord-youtube, ağ trafiğini şifreleyerek veya paket parçalama (packet fragmentation) yöntemlerini kullanarak kısıtlı…",
+    "meta": "★ 30.060 · Batchfile",
+    "image": "/assets/discover/og/zapret-discord-youtube.webp",
+    "source": "GitHub",
+    "date": "2026-06-25",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 30060,
+    "lite": false,
+    "headline": "Kısıtlı platformlara erişim sağlayan araç",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "no-mistakes",
+    "title": "No Mistakes",
+    "tagline": "Go diliyle geliştirilen no-mistakes, yazılım geliştiricilerin hatalı kod gönderimlerini (git push) engellemek için tasarlanmış…",
+    "meta": "★ 2.519 · Go",
+    "image": "/assets/discover/og/no-mistakes.webp",
+    "source": "GitHub",
+    "date": "2026-06-25",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 2519,
+    "lite": false,
+    "headline": "Kod gönderimleriniz için yapay zekâ destekli güvenlik"
   }
 ]

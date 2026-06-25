@@ -1545,5 +1545,40 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay zekâ ajanlarının belirli bir görevi yerine getirmek için kullandığı özel yetenekler veya araçlardır."
+  },
+  {
+    "slug": "user-interface",
+    "en": "User Interface",
+    "full": "UI",
+    "cat": "dev",
+    "kisa": "Kullanıcının bir cihaz veya yazılımla etkileşime girmesini sağlayan görsel ekran ve kontrol alanıdır."
+  },
+  {
+    "slug": "infotainment-systems",
+    "en": "Infotainment Systems",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Araçlarda navigasyon, müzik ve araç kontrollerini birleştiren dijital ekranlı eğlence panelidir."
+  },
+  {
+    "slug": "agent-development-environment",
+    "en": "Agent Development Environment",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâlı yardımcılar oluşturmak, test etmek ve yönetmek için kullanılan özel yazılım geliştirme ortamıdır."
+  },
+  {
+    "slug": "design-systems",
+    "en": "Design Systems",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir uygulamanın tasarımında tutarlılığı sağlamak için kullanılan standart renk, yazı tipi ve bileşen kütüphanesidir."
+  },
+  {
+    "slug": "packet-fragmentation",
+    "en": "Packet Fragmentation",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternet üzerinden gönderilen verilerin, ağın taşıma kapasitesine göre daha küçük parçalara bölünmesi işlemidir."
   }
 ]
