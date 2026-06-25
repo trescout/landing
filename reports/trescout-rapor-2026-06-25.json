@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-25",
+  "editorial": "Bugün yazılım dünyasında odak noktası, işe alım süreçlerini otomatize eden ajanlar (hiring agents) ve veri görselleştirme araçları üzerine yoğunlaşıyor. Özellikle Apple'ın konteyner (container) mimarisi üzerine yayınladığı yeni kaynaklar, sistem izolasyonu ve performans optimizasyonu konularında geliştiriciler için temel bir referans oluşturuyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage, yapay zekâ destekli kodlama asistanlarını kapsamlı bir video prodüksiyon stüdyosuna dönüştüren açık kaynaklı bir ajan tabanlı sistemdir (agentic system). Python tabanlı bu platform, 12 farklı iş akışı (pipeline) ve 500'den fazla ajan yeteneği (agent skill) ile video üretim süreçlerini otomatize etmeyi sağlar.",
+          "meta": "Python · ★ 20.542 · +3.719 bugün"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen tarafından geliştirilen günlük hisse senedi analizi sistemi, büyük dil modellerini (LLM) kullanarak çok kaynaklı piyasa verilerini ve güncel haberleri işliyor. Sistem, karar destek paneli ve otomatik bildirim özellikleri sayesinde sıfır maliyetle düzenli borsa analizleri sunuyor.",
+          "meta": "Python · ★ 49.041 · +1.468 bugün"
+        },
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Apple tarafından geliştirilen Container, macOS üzerinde hafif sanal makineler kullanarak Linux kapsayıcıları (containers) oluşturmaya ve çalıştırmaya olanak tanıyor. Swift diliyle yazılan bu araç, Apple silikon (Apple silicon) mimarisi için optimize edilmiş bir performans sunuyor.",
+          "meta": "Swift · ★ 42.628 · +1.838 bugün"
+        },
+        {
+          "title": "interviewstreet/hiring-agent",
+          "url": "https://github.com/interviewstreet/hiring-agent",
+          "summary": "Hiring-agent, özgeçmişleri değerlendirmek ve puanlamak için tasarlanmış bir yapay zekâ ajanıdır (AI agent). Python diliyle geliştirilen bu araç, işe alım süreçlerinde aday tarama işlemlerini otomatize etmeyi amaçlar.",
+          "meta": "Python · ★ 2.482 · +203 bugün"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "Yapay zekâ kodlama ajanlarını (AI coding agents) kullanan bu şablon, herhangi bir web sitesinin yapısını tek komutla kopyalamaya olanak tanıyor. TypeScript diliyle geliştirilen araç, web geliştirme süreçlerinde içerik ve tasarım aktarımını otomatize ediyor.",
+          "meta": "TypeScript · ★ 19.675 · +692 bugün"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness, alan odaklı yapay zekâ ajan ekipleri tasarlayan ve bu ekiplerin ihtiyaç duyduğu özelleşmiş yetenekleri (skills) otomatik olarak üreten bir meta-yetenek (meta-skill) çerçevesidir. Sistem, karmaşık görevleri yerine getirecek ajan yapılarını tanımlayarak iş akışlarını optimize etmeyi hedefler.",
+          "meta": "HTML · ★ 7.861 · +277 bugün"
+        },
+        {
+          "title": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "summary": "Google tarafından geliştirilen Flutter, tek bir kod tabanı kullanarak mobil, web ve masaüstü platformları için hızlı bir şekilde kullanıcı arayüzü (user interface) oluşturulmasına olanak tanıyor. Dart programlama dilini temel alan bu açık kaynaklı çerçeve (framework), yüksek performanslı ve görsel açıdan zengin uygulamalar geliştirmek için yaygın olarak tercih ediliyor.",
+          "meta": "Dart · ★ 177.494 · +73 bugün"
+        },
+        {
+          "title": "andreknieriem/headunit-revived",
+          "url": "https://github.com/andreknieriem/headunit-revived",
+          "summary": "Headunit-revived projesi, Android Auto arayüzünü farklı ekranlarda görüntülemeyi sağlayan bir uygulama sunuyor. Kotlin diliyle geliştirilen bu yazılım, araç içi bilgi-eğlence sistemleri (infotainment systems) için alternatif bir görüntüleme çözümü sağlıyor.",
+          "meta": "Kotlin · ★ 1.484 · +41 bugün"
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme ortamı (agent development environment) sunuyor. Kullanıcılar, kendi aboneliklerini kullanarak çeşitli kodlama ajanlarını hem masaüstü hem de mobil platformlarda çalıştırabiliyor.",
+          "meta": "TypeScript · ★ 7.044 · +331 bugün"
+        },
+        {
+          "title": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "summary": "Google Labs tarafından geliştirilen DESIGN.md, görsel kimlik bilgilerini kodlama ajanlarına aktarmak için yapılandırılmış bir format spesifikasyonu sunuyor. Bu standart, tasarım sistemlerinin (design systems) yapay zekâ ajanları tarafından tutarlı ve kalıcı bir şekilde anlaşılmasını sağlıyor.",
+          "meta": "TypeScript · ★ 17.720 · +619 bugün"
+        },
+        {
+          "title": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "summary": "Zapret-discord-youtube, ağ trafiğini şifreleyerek veya paket parçalama (packet fragmentation) yöntemlerini kullanarak kısıtlı platformlara erişim sağlamayı hedefleyen bir araçtır. Özellikle Discord ve YouTube gibi hizmetlere yönelik erişim engellerini aşmak amacıyla geliştirilmiştir.",
+          "meta": "Batchfile · ★ 30.060 · +61 bugün"
+        },
+        {
+          "title": "kunchenguid/no-mistakes",
+          "url": "https://github.com/kunchenguid/no-mistakes",
+          "summary": "Go diliyle geliştirilen no-mistakes, yazılım geliştiricilerin hatalı kod gönderimlerini (git push) engellemek için tasarlanmış bir komut satırı aracıdır. Yerel geliştirme ortamında çalışarak, kod tabanına istenmeyen değişikliklerin aktarılmasını önleyen bir güvenlik katmanı sağlar.",
+          "meta": "Go · ★ 2.519 · +110 bugün"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir yapay zekâ ajanıdır (AI agent). Python tabanlı bu sistem, kişiselleştirilmiş görev yönetimi ve sürekli öğrenme (continuous learning) yetenekleriyle otonom iş akışlarını destekler.",
+          "meta": "Python · ★ 202.422 · +1.178 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "OpenAI unveils its first custom chip, built by Broadcom",
+          "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+          "summary": "OpenAI, Broadcom iş birliğiyle geliştirdiği ilk özel üretim çip olan Jalapeno'yu duyurdu. Bu donanım, çıkarım (inference) süreçlerini hızlandırmak ve yapay zekâ modellerinin operasyonel maliyetlerini düşürmek için tasarlandı.",
+          "meta": "663 oy · 372 yorum"
+        },
+        {
+          "title": "RubyLLM: A Ruby framework for all major AI providers",
+          "url": "https://rubyllm.com/",
+          "summary": "RubyLLM, Ruby yazılım diliyle geliştirilen uygulamaların farklı yapay zekâ sağlayıcılarına erişmesini sağlayan bir çerçeve (framework) sunuyor. Bu araç, geliştiricilerin büyük dil modellerini (large language models) Ruby tabanlı projelerine entegre etme sürecini standartlaştırıyor.",
+          "meta": "378 oy · 61 yorum"
+        },
+        {
+          "title": "Krea 2: SOTA open-weights 12B image model",
+          "url": "https://www.krea.ai/blog/krea-2-technical-report",
+          "summary": "Krea 2, görüntü oluşturma süreçlerinde yüksek performans sunan 12 milyar parametreli açık ağırlıklı (open-weights) bir modeldir. Görsel üretim kalitesini artırmak için optimize edilen bu model, görüntü sentezleme (image synthesis) alanında yeni bir standart belirlemeyi hedefliyor.",
+          "meta": "372 oy · 40 yorum"
+        },
+        {
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "summary": "Anthropic, Alibaba'nın Claude yapay zekâ modelinin yeteneklerini izinsiz şekilde kopyaladığını iddia ediyor. Şirket, model ağırlıklarının ve mimari özelliklerinin yetkisiz yöntemlerle çıkarıldığını (model extraction) savunuyor.",
+          "meta": "338 oy · 575 yorum"
+        },
+        {
+          "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
+          "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
+          "summary": "Güvenli Kabuk (SSH) tünelleri, yerel ve uzak bağlantı noktası yönlendirme (port forwarding) yöntemleriyle ağ trafiğini güvenli bir şekilde iletmek için kullanılıyor. Bu rehber, ağ trafiğini şifreleyerek farklı sunucular arasında güvenli veri erişimi sağlayan teknik süreçleri uygulamalı örneklerle açıklıyor.",
+          "meta": "316 oy · 60 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text generation) görevleri için tasarlanmış bir dil modelidir. HuggingFace platformunda geniş bir kullanıcı kitlesine ulaşan model, doğal dil işleme süreçlerinde metin oluşturma yetenekleri sunar.",
+          "meta": "♥ 2.382 · 57.186 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel metinleri işleyerek metin çıktısı üreten bir görüntüden metne (image-to-text) modelidir. Sistem, karmaşık dokümanlardaki verileri dijital formata dönüştürme sürecini otomatize etmeyi amaçlar.",
+          "meta": "♥ 782 · 45.687 indirme"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma-4-12B-coder-fable5-composer2.5-v1-GGUF, metin oluşturma (text-generation) yeteneklerine sahip, optimize edilmiş bir dil modelidir. GGUF formatı sayesinde düşük donanım gereksinimleriyle yerel cihazlarda kod yazma ve içerik üretme süreçlerini destekler.",
+          "meta": "♥ 2.312 · 483.139 indirme"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Gemma-4-12B temelli bu model, özelleştirilmiş ajan yetenekleri (agentic capabilities) ve kompozisyon teknikleri kullanılarak geliştirilen bir metin üretim (text generation) modelidir. GGUF formatında sunulan bu yapı, yerel donanımlarda daha verimli çıkarım (inference) işlemleri gerçekleştirmeyi amaçlar.",
+          "meta": "♥ 555 · 138.704 indirme"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M, genişletilmiş bağlam penceresi (context window) desteğiyle metin üretimi (text generation) gerçekleştiren bir dil modelidir. Düşük kaynaklı cihazlarda çalışmaya olanak tanıyan nicemlenmiş (quantized) GGUF formatında sunulmaktadır.",
+          "meta": "♥ 388 · 63.637 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agentic system",
+      "explanation": "Kendi başına karar alıp hedefe ulaşmak için gerekli adımları planlayabilen otonom yazılım yapısı."
+    },
+    {
+      "term": "pipeline",
+      "explanation": "Bir verinin işlenmesi sırasında geçtiği, birbirine bağlı otomatik aşamalar dizisi."
+    },
+    {
+      "term": "agent skill",
+      "explanation": "Yapay zekâlı bir yazılımın belirli bir görevi yerine getirmek için kullandığı özel yetenek veya araç."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini öğrenerek metinleri anlayan, özetleyen veya yeni içerikler üreten gelişmiş yapay zekâ modeli."
+    },
+    {
+      "term": "containers",
+      "explanation": "Bir yazılımın çalışması için gereken tüm dosyaları içinde barındıran ve her bilgisayarda aynı şekilde çalışmasını sağlayan paketler."
+    },
+    {
+      "term": "Apple silicon",
+      "explanation": "Apple cihazlarının yüksek performans ve düşük enerji tüketimi için özel olarak tasarladığı kendi işlemci mimarisi."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Kullanıcıdan aldığı komutları yerine getirmek için çevresiyle etkileşime giren ve kendi kararlarını veren dijital yardımcı."
+    },
+    {
+      "term": "AI coding agents",
+      "explanation": "Yazılımcılar için kod yazan, hataları bulan ve projeleri geliştiren yapay zekâ tabanlı yardımcılar."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya sistemin belirli bir işi yapmak için sahip olduğu işlevsel yetenekler."
+    },
+    {
+      "term": "meta-skill",
+      "explanation": "Yeni yetenekler öğrenmeyi veya mevcut yetenekleri daha verimli kullanmayı sağlayan üst düzey beceri."
+    },
+    {
+      "term": "user interface",
+      "explanation": "Kullanıcının bir cihaz veya yazılımla etkileşime girmesini sağlayan görsel ekran ve kontrol alanı."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri hızlandırmak için kullanılan, hazır yapılar ve kurallar bütünü."
+    },
+    {
+      "term": "infotainment systems",
+      "explanation": "Araçlarda hem navigasyon hem de müzik gibi eğlence özelliklerini bir arada sunan dijital ekran paneli."
+    },
+    {
+      "term": "agent development environment",
+      "explanation": "Yapay zekâlı yardımcılar oluşturmak, test etmek ve yönetmek için kullanılan özel yazılım geliştirme ortamı."
+    },
+    {
+      "term": "design systems",
+      "explanation": "Bir uygulamanın tasarımında tutarlılığı sağlamak için kullanılan standart renk, yazı tipi ve bileşen kütüphanesi."
+    },
+    {
+      "term": "packet fragmentation",
+      "explanation": "İnternet üzerinden gönderilen verilerin, ağın taşıma kapasitesine göre daha küçük parçalara bölünmesi işlemi."
+    }
+  ]
+}
