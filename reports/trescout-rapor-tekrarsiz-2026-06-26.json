@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-26",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI-berkshire, Claude Code altyapısını kullanarak Warren Buffett ve Charlie Munger gibi yatırımcıların metodolojilerini uygulayan bir değer yatırımı araştırma çerçevesidir (research framework). Sistem, çoklu yapay zekâ ajanı (multi-agent) yapısıyla finansal verileri analiz ederek karşıt görüşlü incelemeler yürütmektedir.",
+          "meta": "Python · ★ 2.500 · +309 bugün"
+        },
+        {
+          "title": "mauriceboe/TREK",
+          "url": "https://github.com/mauriceboe/TREK",
+          "summary": "TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılan (self-hosted) bir seyahat planlama uygulamasıdır. Aşamalı web uygulaması (PWA) desteği ve tek oturum açma (SSO) entegrasyonu ile kullanıcıların seyahat süreçlerini dijital ortamda organize etmelerine olanak tanır.",
+          "meta": "TypeScript · ★ 7.040 · +241 bugün"
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open SEO, Semrush ve Ahrefs gibi ücretli araçlara açık kaynaklı bir alternatif sunuyor. Arama motoru optimizasyonu (SEO) verilerini analiz etmek için geliştirilen bu yazılım, TypeScript tabanlı altyapısıyla süreçleri şeffaflaştırmayı hedefliyor.",
+          "meta": "TypeScript · ★ 2.736 · +57 bugün"
+        },
+        {
+          "title": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "summary": "AWS, yapay zekâ ajanlarının bulut altyapısıyla etkileşimini kolaylaştırmak için Model Bağlantı Protokolü (Model Context Protocol) sunucuları, yetenekler (skills) ve eklentiler içeren bir araç seti yayımladı. Bu geliştirme, ajanların AWS servisleri üzerinde doğrudan işlem yapabilmesini sağlayan standartlaştırılmış bir yapı sunuyor.",
+          "meta": "Python · ★ 1.209 · +47 bugün"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "summary": "Alibaba tarafından geliştirilen page-agent, doğal dil komutlarıyla web arayüzlerini kontrol etmeye olanak tanıyan bir sayfa içi grafik kullanıcı arayüzü (graphical user interface) ajanıdır. TypeScript ile yazılan bu araç, web etkileşimlerini otomatize etmek için tarayıcı tabanlı bir kontrol mekanizması sunmaktadır.",
+          "meta": "TypeScript · ★ 20.032 · +163 bugün"
+        },
+        {
+          "title": "IceWhaleTech/CasaOS",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "summary": "CasaOS, Docker tabanlı uygulamaları yönetmeyi kolaylaştıran açık kaynaklı bir kişisel bulut sistemi (personal cloud system) sunuyor. Go diliyle geliştirilen bu arayüz, kullanıcıların kendi sunucularını görsel bir panel üzerinden basit şekilde yönetmelerine imkan tanıyor.",
+          "meta": "Go · ★ 34.992 · +223 bugün"
+        },
+        {
+          "title": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "summary": "MinerU, PDF ve Office gibi karmaşık belge formatlarını büyük dil modelleri (large language models) için uygun olan işaretleme dili (markdown) veya JSON formatına dönüştürüyor. Bu araç, yapılandırılmamış verileri ajan tabanlı iş akışlarında (agentic workflows) kullanılabilir hale getirmeyi amaçlıyor.",
+          "meta": "Python · ★ 69.899 · +644 bugün"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler, popüler Çin sosyal medya platformlarındaki gönderileri ve kullanıcı yorumlarını otomatik olarak veri madenciliği (web scraping) yöntemiyle topluyor. Python tabanlı bu araç, içerik analizi ve veri toplama süreçleri için geniş kapsamlı bir veri çekme (crawling) altyapısı sunuyor.",
+          "meta": "Python · ★ 53.062 · +398 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "An entire Herculaneum scroll has been read for the first time",
+          "url": "https://scrollprize.org/firstscroll",
+          "summary": "Vezüv Yanardağı patlamasıyla karbonlaşan Herculaneum parşömenleri, bilgisayarlı tomografi (computed tomography) ve yapay zekâ destekli görüntü işleme teknikleri kullanılarak ilk kez fiziksel olarak açılmadan okundu. Bu çalışma, antik metinlerin dijital ortamda çözümlenmesi için geliştirilen sanal açma (virtual unwrapping) yöntemlerinin başarısını kanıtlıyor.",
+          "meta": "1.238 oy · 260 yorum"
+        },
+        {
+          "title": "Om Malik has died",
+          "url": "https://om.co/2026/06/24/1966-2026/",
+          "summary": "Teknoloji gazeteciliğinin öncü isimlerinden Om Malik, 59 yaşında hayatını kaybetti. Gigaom platformunun kurucusu olan Malik, Silikon Vadisi ekosisteminin dijital dönüşüm sürecini belgeleyen yazılarıyla tanınıyordu.",
+          "meta": "822 oy · 91 yorum"
+        },
+        {
+          "title": "Apple raises prices of MacBooks, iPads",
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+          "summary": "Apple, artan bellek maliyetleri nedeniyle MacBook ve iPad modellerinin satış fiyatlarında güncellemeye gitti. Donanım bileşenlerindeki fiyat artışları, şirketin ürün gamındaki maliyet yapısını doğrudan etkiledi.",
+          "meta": "698 oy · 1.007 yorum"
+        },
+        {
+          "title": "The 'papers, please' era of the internet will decimate your privacy",
+          "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+          "summary": "İnternet platformlarının yaş doğrulama ve kimlik kanıtlama süreçlerini zorunlu kılması, kullanıcı mahremiyeti üzerinde baskı oluşturuyor. Dijital kimlik (digital identity) uygulamalarının yaygınlaşması, kişisel verilerin toplanma kapsamını genişleterek anonimlik alanlarını daraltıyor.",
+          "meta": "643 oy · 301 yorum"
+        },
+        {
+          "title": "Oxide computer 3D rack guided tour",
+          "url": "https://explorer.oxide.computer/",
+          "summary": "Oxide Computer, veri merkezi donanım tasarımını şeffaf hale getiren üç boyutlu bir raf gezintisi (3D rack tour) aracı yayınladı. Kullanıcılar, sunucu sistemlerinin iç yapısını ve bileşen yerleşimlerini tarayıcı üzerinden detaylıca inceleyebiliyor.",
+          "meta": "356 oy · 140 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "research framework",
+      "explanation": "Bir araştırma sürecini yürütmek için kullanılan standart yöntemler ve araçlar bütünü."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Birden fazla yapay zekâlı yazılımın ortak bir hedef için iş birliği yaparak çalışması."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Bir yazılımı başka bir şirketin sunucusunda değil, kendi bilgisayarınızda veya özel sunucunuzda barındırmak."
+    },
+    {
+      "term": "PWA",
+      "explanation": "İnternet tarayıcısı üzerinden çalışan ancak telefonunuza uygulama gibi yüklenebilen web sayfaları."
+    },
+    {
+      "term": "SSO",
+      "explanation": "Tek bir kullanıcı adı ve şifre ile birçok farklı uygulamaya aynı anda giriş yapmanızı sağlayan sistem."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Web sitelerinin arama motorlarında daha üst sıralarda çıkması için yapılan düzenlemeler."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarıyla güvenli ve standart bir şekilde konuşmasını sağlayan köprü."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya sistemin belirli bir işlemi gerçekleştirebilmek için ihtiyaç duyduğu teknik beceriler."
+    }
+  ]
+}

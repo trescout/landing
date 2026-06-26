@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-26",
+  "editorial": "Yazılım dünyasında bugün odak noktası, Apple tarafından paylaşılan konteyner (container) mimarileri ve açık kaynaklı yapay zekâ araçlarının geliştirme süreçlerine entegrasyonu üzerine yoğunlaşıyor. GitHub üzerindeki güncel veriler, özellikle kod tasarımı ve otomatik içerik oluşturma (content generation) projelerinde dikkate değer bir hareketlilik olduğunu gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "summary": "Google Labs tarafından geliştirilen DESIGN.md, kodlama ajanlarına görsel kimlik bilgilerini aktarmak için yapılandırılmış bir format spesifikasyonu sunuyor. Bu standart, tasarım sistemlerinin yazılım ajanları tarafından kalıcı ve tutarlı bir şekilde anlaşılmasını sağlıyor.",
+          "meta": "TypeScript · ★ 20.008 · +1.475 bugün"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage, yapay zekâ destekli kodlama asistanlarını kapsamlı bir video üretim stüdyosuna dönüştüren açık kaynaklı bir ajan tabanlı video üretim sistemi (agentic video production system) sunuyor. Platform, 12 farklı iş akışı (pipeline), 52 araç ve 500'den fazla ajan yeteneği (agent skills) ile video oluşturma süreçlerini otomatize ediyor.",
+          "meta": "Python · ★ 22.696 · +3.434 bugün"
+        },
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI-berkshire, Claude Code altyapısını kullanarak Warren Buffett ve Charlie Munger gibi yatırımcıların metodolojilerini uygulayan bir değer yatırımı araştırma çerçevesidir (research framework). Sistem, çoklu yapay zekâ ajanı (multi-agent) yapısıyla finansal verileri analiz ederek karşıt görüşlü incelemeler yürütmektedir.",
+          "meta": "Python · ★ 2.500 · +309 bugün"
+        },
+        {
+          "title": "mauriceboe/TREK",
+          "url": "https://github.com/mauriceboe/TREK",
+          "summary": "TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılan (self-hosted) bir seyahat planlama uygulamasıdır. Aşamalı web uygulaması (PWA) desteği ve tek oturum açma (SSO) entegrasyonu ile kullanıcıların seyahat süreçlerini dijital ortamda organize etmelerine olanak tanır.",
+          "meta": "TypeScript · ★ 7.040 · +241 bugün"
+        },
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Apple tarafından geliştirilen Container, Apple silikon işlemciler için optimize edilmiş hafif sanal makineler (virtual machines) aracılığıyla Linux kapsayıcıları (containers) oluşturulmasını ve çalıştırılmasını sağlıyor. Swift diliyle yazılan bu araç, macOS üzerinde yerel bir kapsayıcı deneyimi sunmayı hedefliyor.",
+          "meta": "Swift · ★ 43.405 · +1.351 bugün"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "Yapay zekâ kodlama ajanlarını kullanan bu şablon, herhangi bir web sitesini tek bir komutla kopyalamaya (cloning) olanak tanıyor. TypeScript tabanlı proje, web geliştirme süreçlerini otomatize etmek için ajan tabanlı iş akışlarından yararlanıyor.",
+          "meta": "TypeScript · ★ 20.822 · +1.024 bugün"
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open SEO, Semrush ve Ahrefs gibi ücretli araçlara açık kaynaklı bir alternatif sunuyor. Arama motoru optimizasyonu (SEO) verilerini analiz etmek için geliştirilen bu yazılım, TypeScript tabanlı altyapısıyla süreçleri şeffaflaştırmayı hedefliyor.",
+          "meta": "TypeScript · ★ 2.736 · +57 bugün"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Garry Tan tarafından paylaşılan gstack, Claude Code üzerinde çalışan 23 farklı özelleştirilmiş araç seti sunuyor. Bu yapı; yönetici, tasarımcı, mühendislik yöneticisi ve kalite güvence (QA) gibi çeşitli iş rollerini otomatize ederek yazılım geliştirme süreçlerini standartlaştırıyor.",
+          "meta": "TypeScript · ★ 116.077 · +767 bugün"
+        },
+        {
+          "title": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "summary": "AWS, yapay zekâ ajanlarının bulut altyapısıyla etkileşimini kolaylaştırmak için Model Bağlantı Protokolü (Model Context Protocol) sunucuları, yetenekler (skills) ve eklentiler içeren bir araç seti yayımladı. Bu geliştirme, ajanların AWS servisleri üzerinde doğrudan işlem yapabilmesini sağlayan standartlaştırılmış bir yapı sunuyor.",
+          "meta": "Python · ★ 1.209 · +47 bugün"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Yapay zekâ ajanları için geliştirilen 817 yapılandırılmış siber güvenlik yeteneği (cybersecurity skills), MITRE ve NIST gibi altı farklı güvenlik çerçevesiyle uyumlu çalışıyor. Bu kütüphane, Claude Code ve GitHub Copilot dahil olmak üzere yirmiden fazla platformda güvenlik odaklı iş akışlarını standartlaştırmayı sağlıyor.",
+          "meta": "Python · ★ 21.475 · +571 bugün"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "summary": "Alibaba tarafından geliştirilen page-agent, doğal dil komutlarıyla web arayüzlerini kontrol etmeye olanak tanıyan bir sayfa içi grafik kullanıcı arayüzü (graphical user interface) ajanıdır. TypeScript ile yazılan bu araç, web etkileşimlerini otomatize etmek için tarayıcı tabanlı bir kontrol mekanizması sunmaktadır.",
+          "meta": "TypeScript · ★ 20.032 · +163 bugün"
+        },
+        {
+          "title": "IceWhaleTech/CasaOS",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "summary": "CasaOS, Docker tabanlı uygulamaları yönetmeyi kolaylaştıran açık kaynaklı bir kişisel bulut sistemi (personal cloud system) sunuyor. Go diliyle geliştirilen bu arayüz, kullanıcıların kendi sunucularını görsel bir panel üzerinden basit şekilde yönetmelerine imkan tanıyor.",
+          "meta": "Go · ★ 34.992 · +223 bugün"
+        },
+        {
+          "title": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "summary": "MinerU, PDF ve Office gibi karmaşık belge formatlarını büyük dil modelleri (large language models) için uygun olan işaretleme dili (markdown) veya JSON formatına dönüştürüyor. Bu araç, yapılandırılmamış verileri ajan tabanlı iş akışlarında (agentic workflows) kullanılabilir hale getirmeyi amaçlıyor.",
+          "meta": "Python · ★ 69.899 · +644 bugün"
+        },
+        {
+          "title": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "summary": "Free-TV/IPTV projesi, dünya genelindeki ücretsiz televizyon kanallarını içeren M3U çalma listelerini (playlist) tek bir merkezde topluyor. Python tabanlı bu açık kaynaklı yapı, kullanıcıların dijital televizyon yayınlarına erişimini standartlaştırıyor.",
+          "meta": "Python · ★ 18.329 · +139 bugün"
+        },
+        {
+          "title": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "summary": "Claude Code için geliştirilen bu rehber, sezgisel kodlama (vibe coding) sürecinden ajan tabanlı mühendisliğe (agentic engineering) geçişi destekleyen yöntemleri içeriyor. Yazılım geliştirme süreçlerinde yapay zekâ ajanlarının verimliliğini artırmak için gerekli olan pratik uygulama tekniklerini sunuyor.",
+          "meta": "HTML · ★ 60.895 · +287 bugün"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler, popüler Çin sosyal medya platformlarındaki gönderileri ve kullanıcı yorumlarını otomatik olarak veri madenciliği (web scraping) yöntemiyle topluyor. Python tabanlı bu araç, içerik analizi ve veri toplama süreçleri için geniş kapsamlı bir veri çekme (crawling) altyapısı sunuyor.",
+          "meta": "Python · ★ 53.062 · +398 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "An entire Herculaneum scroll has been read for the first time",
+          "url": "https://scrollprize.org/firstscroll",
+          "summary": "Vezüv Yanardağı patlamasıyla karbonlaşan Herculaneum parşömenleri, bilgisayarlı tomografi (computed tomography) ve yapay zekâ destekli görüntü işleme teknikleri kullanılarak ilk kez fiziksel olarak açılmadan okundu. Bu çalışma, antik metinlerin dijital ortamda çözümlenmesi için geliştirilen sanal açma (virtual unwrapping) yöntemlerinin başarısını kanıtlıyor.",
+          "meta": "1.238 oy · 260 yorum"
+        },
+        {
+          "title": "Om Malik has died",
+          "url": "https://om.co/2026/06/24/1966-2026/",
+          "summary": "Teknoloji gazeteciliğinin öncü isimlerinden Om Malik, 59 yaşında hayatını kaybetti. Gigaom platformunun kurucusu olan Malik, Silikon Vadisi ekosisteminin dijital dönüşüm sürecini belgeleyen yazılarıyla tanınıyordu.",
+          "meta": "822 oy · 91 yorum"
+        },
+        {
+          "title": "Apple raises prices of MacBooks, iPads",
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+          "summary": "Apple, artan bellek maliyetleri nedeniyle MacBook ve iPad modellerinin satış fiyatlarında güncellemeye gitti. Donanım bileşenlerindeki fiyat artışları, şirketin ürün gamındaki maliyet yapısını doğrudan etkiledi.",
+          "meta": "698 oy · 1.007 yorum"
+        },
+        {
+          "title": "The 'papers, please' era of the internet will decimate your privacy",
+          "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+          "summary": "İnternet platformlarının yaş doğrulama ve kimlik kanıtlama süreçlerini zorunlu kılması, kullanıcı mahremiyeti üzerinde baskı oluşturuyor. Dijital kimlik (digital identity) uygulamalarının yaygınlaşması, kişisel verilerin toplanma kapsamını genişleterek anonimlik alanlarını daraltıyor.",
+          "meta": "643 oy · 301 yorum"
+        },
+        {
+          "title": "Oxide computer 3D rack guided tour",
+          "url": "https://explorer.oxide.computer/",
+          "summary": "Oxide Computer, veri merkezi donanım tasarımını şeffaf hale getiren üç boyutlu bir raf gezintisi (3D rack tour) aracı yayınladı. Kullanıcılar, sunucu sistemlerinin iç yapısını ve bileşen yerleşimlerini tarayıcı üzerinden detaylıca inceleyebiliyor.",
+          "meta": "356 oy · 140 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından yayınlanan GLM-5.2, metin üretimi (text-generation) görevleri için optimize edilmiş bir dil modelidir. HuggingFace platformunda geniş bir kullanıcı kitlesi tarafından erişilebilir kılınan bu model, çeşitli doğal dil işleme süreçlerinde kullanılmaktadır.",
+          "meta": "♥ 2.519 · 67.107 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel metinleri işleyerek metin çıktısı üreten bir görüntüden metne (image-to-text) modelidir. Model, karmaşık dokümanlardaki verileri dijital formata dönüştürme sürecini standartlaştırmayı amaçlıyor.",
+          "meta": "♥ 930 · 70.743 indirme"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "HuggingFace üzerinde paylaşılan Gemma-4-12B tabanlı bu model, metin üretimi (text generation) görevleri için optimize edilmiş bir yapı sunuyor. Model, özellikle ajan tabanlı (agentic) iş akışlarında kullanılmak üzere yapılandırılmış ağırlık dosyalarıyla dikkat çekiyor.",
+          "meta": "♥ 633 · 165.187 indirme"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma 4-12B tabanlı bu metin üretme modeli (text-generation model), kod yazımı ve yaratıcı kurgu süreçlerine odaklanan özelleştirilmiş bir yapı sunuyor. GGUF formatında sunulan model, yerel donanımlarda verimli çıkarım (inference) yapılmasına olanak tanıyor.",
+          "meta": "♥ 2.372 · 495.813 indirme"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M, metin üretimi (text generation) için optimize edilmiş 9 milyar parametreli bir dil modelidir. Düşük kaynaklı cihazlarda çalışabilmesi için genel metin formatı (GGUF) ile sıkıştırılmış bir yapı sunar.",
+          "meta": "♥ 507 · 134.294 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agentic video production system",
+      "explanation": "Kendi başına karar verip video kurgulama ve düzenleme süreçlerini yönetebilen otonom yazılım."
+    },
+    {
+      "term": "pipeline",
+      "explanation": "Bir işin başından sonuna kadar geçtiği, birbirini takip eden otomatik aşamalar dizisi."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Yapay zekâlı bir yazılımın belirli bir görevi yerine getirmek için sahip olduğu yetenekler."
+    },
+    {
+      "term": "research framework",
+      "explanation": "Bir araştırma sürecini yürütmek için kullanılan standart yöntemler ve araçlar bütünü."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Birden fazla yapay zekâlı yazılımın ortak bir hedef için iş birliği yaparak çalışması."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Bir yazılımı başka bir şirketin sunucusunda değil, kendi bilgisayarınızda veya özel sunucunuzda barındırmak."
+    },
+    {
+      "term": "PWA",
+      "explanation": "İnternet tarayıcısı üzerinden çalışan ancak telefonunuza uygulama gibi yüklenebilen web sayfaları."
+    },
+    {
+      "term": "SSO",
+      "explanation": "Tek bir kullanıcı adı ve şifre ile birçok farklı uygulamaya aynı anda giriş yapmanızı sağlayan sistem."
+    },
+    {
+      "term": "virtual machines",
+      "explanation": "Güçlü bir bilgisayarın kaynaklarını kullanarak içinde başka bir işletim sistemi çalıştıran sanal bilgisayarlar."
+    },
+    {
+      "term": "containers",
+      "explanation": "Bir yazılımın çalışması için gereken her şeyi içinde barındıran ve her ortamda aynı şekilde çalışan küçük paketler."
+    },
+    {
+      "term": "cloning",
+      "explanation": "Bir yazılım projesinin veya verinin tamamını başka bir yere kopyalayarak çoğaltmak."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Web sitelerinin arama motorlarında daha üst sıralarda çıkması için yapılan düzenlemeler."
+    },
+    {
+      "term": "QA",
+      "explanation": "Bir yazılımın piyasaya çıkmadan önce hatalardan arındırılması için yapılan kalite kontrol süreçleri."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarıyla güvenli ve standart bir şekilde konuşmasını sağlayan köprü."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya sistemin belirli bir işlemi gerçekleştirebilmek için ihtiyaç duyduğu teknik beceriler."
+    },
+    {
+      "term": "cybersecurity skills",
+      "explanation": "Dijital sistemleri ve verileri siber saldırılara karşı korumak için gereken teknik bilgi ve uzmanlık."
+    }
+  ]
+}
