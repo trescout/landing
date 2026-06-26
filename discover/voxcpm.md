@@ -49,7 +49,7 @@ Lisans: Apache-2.0 · kod özgürce kullanılabilir/ticari. Model çıktısı ve
 - [GitHub deposu →](https://github.com/OpenBMB/VoxCPM)
 
 ## İlgili sözlük terimleri
-Tokenizer-free Voice Cloning Text-to-Speech Clone Open Source Artificial Intelligence 
+Tokenizer-free Voice Cloning Cloning Text-to-Speech Clone Open Source 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

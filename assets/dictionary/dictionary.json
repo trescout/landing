@@ -1587,5 +1587,54 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yazılım geliştirme süreçlerinde kod yazma, hata ayıklama ve proje yönetimi gibi görevleri otonom şekilde yürüten yapay zekâ yardımcılarıdır."
+  },
+  {
+    "slug": "research-framework",
+    "en": "Research Framework",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir araştırma sürecini adım adım yürütmek için kullanılan standart yöntemler ve araçlar bütünüdür."
+  },
+  {
+    "slug": "multi-agent",
+    "en": "Multi-agent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Birden fazla yapay zekâlı yazılımın, karmaşık bir görevi bölüşerek ortak bir hedef için iş birliği yapmasıdır."
+  },
+  {
+    "slug": "self-hosted",
+    "en": "Self-hosted",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımı üçüncü taraf bir bulut hizmeti yerine, kendi bilgisayarınızda veya özel sunucunuzda barındırmaktır."
+  },
+  {
+    "slug": "pwa",
+    "en": "PWA",
+    "full": "Progressive Web App",
+    "cat": "dev",
+    "kisa": "İnternet tarayıcısı üzerinden çalışan ancak telefonunuza veya bilgisayarınıza uygulama gibi yüklenebilen web sayfalarıdır."
+  },
+  {
+    "slug": "sso",
+    "en": "SSO",
+    "full": "Single Sign-On",
+    "cat": "dev",
+    "kisa": "Tek bir kullanıcı adı ve şifre ile birçok farklı uygulamaya aynı anda giriş yapmanızı sağlayan sistemdir."
+  },
+  {
+    "slug": "cloning",
+    "en": "Cloning",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılım projesinin veya verinin tamamını başka bir yere kopyalayarak çoğaltma işlemidir."
+  },
+  {
+    "slug": "seo",
+    "en": "SEO",
+    "full": "Search Engine Optimization",
+    "cat": "dev",
+    "kisa": "Web sitelerinin arama motorlarında daha üst sıralarda çıkması için yapılan teknik ve içerik düzenlemeleridir."
   }
 ]

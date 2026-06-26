@@ -45,7 +45,7 @@ TradingAgents aracını kullanarak finansal piyasa verilerini analiz etmek istiy
 - [GitHub deposu →](https://github.com/TauricResearch/TradingAgents)
 
 ## İlgili sözlük terimleri
-Multi-agent LLM LLM API Artificial Intelligence 
+Multi-agent LLM Multi-agent LLM API Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

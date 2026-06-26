@@ -26,7 +26,7 @@ Kaynak: developers.chatwoot.com/self-hosted/deployment/docker (resmî)
 - [GitHub deposu →](https://github.com/chatwoot/chatwoot)
 
 ## İlgili sözlük terimleri
-Omni-channel Desk Omni-channel Deployment Artificial Intelligence 
+Omni-channel Desk Omni-channel Deployment Self-hosted Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

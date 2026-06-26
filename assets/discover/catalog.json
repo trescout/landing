@@ -3127,5 +3127,129 @@
     "stars": 2519,
     "lite": false,
     "headline": "Kod gönderimleriniz için yapay zekâ destekli güvenlik"
+  },
+  {
+    "slug": "ai-berkshire",
+    "title": "AI Berkshire",
+    "tagline": "AI-berkshire, Claude Code altyapısını kullanarak Warren Buffett ve Charlie Munger gibi yatırımcıların metodolojilerini…",
+    "meta": "★ 2.500 · Python",
+    "image": "/assets/discover/og/ai-berkshire.webp",
+    "source": "GitHub",
+    "date": "2026-06-26",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 2500,
+    "lite": false,
+    "headline": "yapay zekâ ile değer yatırımı araştırması"
+  },
+  {
+    "slug": "trek",
+    "title": "TREK",
+    "tagline": "TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılan…",
+    "meta": "★ 7.040 · TypeScript",
+    "image": "/assets/discover/og/trek.webp",
+    "source": "GitHub",
+    "date": "2026-06-26",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 7040,
+    "lite": false,
+    "headline": "Kendi sunucunuzda kişisel yapay zekâ seyahat planlayıcısı"
+  },
+  {
+    "slug": "open-seo",
+    "title": "Open Seo",
+    "tagline": "Open SEO, Semrush ve Ahrefs gibi ücretli araçlara açık kaynaklı bir alternatif sunuyor.",
+    "meta": "★ 2.736 · TypeScript",
+    "image": "/assets/discover/og/open-seo.webp",
+    "source": "GitHub",
+    "date": "2026-06-26",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 2736,
+    "lite": false,
+    "headline": "SEO verilerini yapay zekâ ile yönetin"
+  },
+  {
+    "slug": "agent-toolkit-for-aws",
+    "title": "Agent Toolkit for Aws",
+    "tagline": "AWS, yapay zekâ ajanlarının bulut altyapısıyla etkileşimini kolaylaştırmak için Model Bağlantı Protokolü (Model Context…",
+    "meta": "★ 1.209 · Python",
+    "image": "/assets/discover/og/agent-toolkit-for-aws.webp",
+    "source": "GitHub",
+    "date": "2026-06-26",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1209,
+    "lite": false,
+    "headline": "yapay zekâ ajanları için AWS araç seti"
+  },
+  {
+    "slug": "page-agent",
+    "title": "Page Agent",
+    "tagline": "Alibaba tarafından geliştirilen page-agent, doğal dil komutlarıyla web arayüzlerini kontrol etmeye olanak tanıyan bir sayfa…",
+    "meta": "★ 20.032 · TypeScript",
+    "image": "/assets/discover/og/page-agent.webp",
+    "source": "GitHub",
+    "date": "2026-06-26",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 20032,
+    "lite": false,
+    "headline": "Doğal dil ile web arayüzlerini yönetin"
+  },
+  {
+    "slug": "casaos",
+    "title": "CasaOS",
+    "tagline": "CasaOS, Docker tabanlı uygulamaları yönetmeyi kolaylaştıran açık kaynaklı bir kişisel bulut sistemi (personal cloud system)…",
+    "meta": "★ 34.992 · Go",
+    "image": "/assets/discover/og/casaos.webp",
+    "source": "GitHub",
+    "date": "2026-06-26",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 34992,
+    "lite": false,
+    "headline": "Kişisel bulut sunucunuzu yönetin"
+  },
+  {
+    "slug": "mineru",
+    "title": "MinerU",
+    "tagline": "MinerU, PDF ve Office gibi karmaşık belge formatlarını büyük dil modelleri (large language models) için uygun olan işaretleme…",
+    "meta": "★ 69.899 · Python",
+    "image": "/assets/discover/og/mineru.webp",
+    "source": "GitHub",
+    "date": "2026-06-26",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 69899,
+    "lite": false,
+    "headline": "Belgelerinizi yapay zekâ için dönüştürün"
+  },
+  {
+    "slug": "mediacrawler",
+    "title": "MediaCrawler",
+    "tagline": "MediaCrawler, popüler Çin sosyal medya platformlarındaki gönderileri ve kullanıcı yorumlarını otomatik olarak veri madenciliği…",
+    "meta": "★ 53.062 · Python",
+    "image": "/assets/discover/og/mediacrawler.webp",
+    "source": "GitHub",
+    "date": "2026-06-26",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 53062,
+    "lite": false,
+    "headline": "Sosyal medya verilerini otomatik toplayın"
   }
 ]

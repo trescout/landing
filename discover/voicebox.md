@@ -34,7 +34,7 @@ Voicebox üzerinde ses kopyalama ve seslendirme süreçlerini yönetiyorum. Seç
 - [GitHub deposu →](https://github.com/jamiepine/voicebox)
 
 ## İlgili sözlük terimleri
-Voice Cloning Text-to-Speech Artificial Intelligence 
+Voice Cloning Cloning Text-to-Speech Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
