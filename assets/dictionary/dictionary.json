@@ -1636,5 +1636,82 @@
     "full": "Search Engine Optimization",
     "cat": "dev",
     "kisa": "Web sitelerinin arama motorlarında daha üst sıralarda çıkması için yapılan teknik ve içerik düzenlemeleridir."
+  },
+  {
+    "slug": "user-identifiers",
+    "en": "User Identifiers",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Dijital sistemlerde her bir kullanıcıyı birbirinden ayırt etmek için kullanılan benzersiz kimlik belirteçleridir."
+  },
+  {
+    "slug": "driver-assistance-system",
+    "en": "Driver Assistance System",
+    "full": "Advanced Driver Assistance Systems (ADAS)",
+    "cat": "ai",
+    "kisa": "Sürüş sırasında güvenliği artırmak için sürücüyü uyaran veya aracı otomatik kontrol eden akıllı yardımcı teknolojilerdir."
+  },
+  {
+    "slug": "git-push",
+    "en": "Git Push",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yerel bilgisayarınızda yaptığınız yazılım değişikliklerini internet üzerindeki ortak bir sunucuya yükleme işlemidir."
+  },
+  {
+    "slug": "logs",
+    "en": "Logs",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın arka planda yaptığı işlemlerin ve karşılaştığı hataların zaman damgasıyla tutulan kayıtlarıdır."
+  },
+  {
+    "slug": "traces",
+    "en": "Traces",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir işlemin sistem içinde hangi aşamalardan geçtiğini adım adım gösteren izleme kayıtlarıdır."
+  },
+  {
+    "slug": "saas",
+    "en": "SaaS",
+    "full": "Software as a Service",
+    "cat": "dev",
+    "kisa": "Yazılımı bilgisayarınıza kurmak yerine internet üzerinden kiralayarak kullanma modelidir."
+  },
+  {
+    "slug": "paas",
+    "en": "PaaS",
+    "full": "Platform as a Service",
+    "cat": "dev",
+    "kisa": "Yazılımcıların uygulamalarını geliştirmeleri ve yayınlamaları için gerekli altyapının hazır sunulmasıdır."
+  },
+  {
+    "slug": "iaas",
+    "en": "IaaS",
+    "full": "Infrastructure as a Service",
+    "cat": "dev",
+    "kisa": "İnternet üzerinden sanal sunucu ve depolama alanı gibi temel donanım kaynaklarının kiralanmasıdır."
+  },
+  {
+    "slug": "agentic-workflows",
+    "en": "Agentic Workflows",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zeka araçlarının insan müdahalesi olmadan kendi kararlarını verip bir işi uçtan uca tamamlamasıdır."
+  },
+  {
+    "slug": "cognitive-operating-system",
+    "en": "Cognitive Operating System",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnsan zihninin çalışma prensiplerini taklit ederek bilgiyi işleyen ve karar alma süreçlerini yöneten gelişmiş yazılım mimarisidir."
+  },
+  {
+    "slug": "value-investing",
+    "en": "Value Investing",
+    "full": "",
+    "cat": "data",
+    "kisa": "Gerçek değerinden daha düşük fiyatlandığını düşündüğünüz varlıkları uzun vadeli kazanç için satın alma stratejisidir."
   }
 ]

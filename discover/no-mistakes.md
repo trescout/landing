@@ -44,7 +44,7 @@ Bu projede no-mistakes aracını kullanarak kod kalitesini artırmak istiyorum. 
 - [GitHub deposu →](https://github.com/kunchenguid/no-mistakes)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Git Push Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

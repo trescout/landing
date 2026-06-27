@@ -39,7 +39,7 @@ Elimdeki karmaşık PDF ve Office belgelerini yapay zekâ ajanımın anlayabilec
 - [GitHub deposu →](https://github.com/opendatalab/MinerU)
 
 ## İlgili sözlük terimleri
-Workflows Markdown PDF Artificial Intelligence 
+Agentic Workflows Workflows Markdown PDF Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

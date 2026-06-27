@@ -3251,5 +3251,72 @@
     "stars": 53062,
     "lite": false,
     "headline": "Sosyal medya verilerini otomatik toplayın"
+  },
+  {
+    "slug": "simplex-chat",
+    "title": "Simplex Chat",
+    "tagline": "SimpleX, kullanıcı tanımlayıcıları (user identifiers) kullanmadan çalışan ilk mesajlaşma ağı olarak gizlilik odaklı bir…",
+    "meta": "★ 12.874 · Haskell",
+    "image": "/assets/discover/og/simplex-chat.webp",
+    "source": "GitHub",
+    "date": "2026-06-27",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 12874,
+    "lite": false,
+    "headline": "Kullanıcı tanımlayıcısı olmayan gizli mesajlaşma"
+  },
+  {
+    "slug": "openpilot",
+    "title": "Openpilot",
+    "tagline": "Comma AI tarafından geliştirilen openpilot, robotik sistemler için tasarlanmış açık kaynaklı bir işletim sistemidir.",
+    "meta": "★ 61.864 · Python",
+    "image": "/assets/discover/og/openpilot.webp",
+    "source": "GitHub",
+    "date": "2026-06-27",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 61864,
+    "lite": false,
+    "headline": "araçlar için açık kaynaklı yapay zekâ",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "grafana",
+    "title": "Grafana",
+    "tagline": "Grafana, farklı veri kaynaklarından gelen metrikleri, günlükleri (logs) ve izleme verilerini (traces) tek bir arayüzde…",
+    "meta": "★ 74.994 · TypeScript",
+    "image": "/assets/discover/og/grafana.webp",
+    "source": "GitHub",
+    "date": "2026-06-27",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 74994,
+    "lite": false,
+    "headline": "Verilerinizi tek arayüzde görselleştirin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "free-for-dev",
+    "title": "Free for Dev",
+    "tagline": "Free-for-dev, yazılım geliştirme süreçlerinde kullanılan hizmet olarak yazılım (SaaS), hizmet olarak platform (PaaS) ve hizmet…",
+    "meta": "★ 123.834 · HTML",
+    "image": "/assets/discover/og/free-for-dev.webp",
+    "source": "GitHub",
+    "date": "2026-06-27",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 123834,
+    "lite": false,
+    "headline": "Ücretsiz geliştirici araçları kaynak listesi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]
