@@ -1,0 +1,249 @@
+{
+  "date": "2026-06-27",
+  "editorial": "Bugünün teknoloji gündeminde merkeziyetsiz iletişim protokolleri (decentralized communication) ile otonom sürüş sistemleri (autonomous driving) arasındaki teknik verimlilik arayışı öne çıkıyor. GitHub üzerindeki güncel veriler, geliştiricilerin hem gizlilik odaklı mesajlaşma altyapılarına hem de açık kaynaklı yazılım (open source software) ekosistemindeki ücretsiz araçlara olan ilgisinin arttığını doğruluyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "summary": "SimpleX, kullanıcı tanımlayıcıları (user identifiers) kullanmadan çalışan ilk mesajlaşma ağı olarak gizlilik odaklı bir iletişim altyapısı sunuyor. Haskell diliyle geliştirilen platform, merkeziyetsiz yapısı sayesinde kullanıcı verilerini tamamen anonim tutmayı hedefliyor.",
+          "meta": "Haskell · ★ 12.874 · +432 bugün"
+        },
+        {
+          "title": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "summary": "Google Labs tarafından geliştirilen DESIGN.md, görsel kimlik bilgilerini kodlama ajanlarına aktarmak için yapılandırılmış bir format spesifikasyonu sunuyor. Bu standart, tasarım sistemlerinin yapay zekâ ajanları tarafından kalıcı ve tutarlı bir şekilde anlaşılmasını sağlıyor.",
+          "meta": "TypeScript · ★ 21.626 · +2.407 bugün"
+        },
+        {
+          "title": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "summary": "Comma AI tarafından geliştirilen openpilot, robotik sistemler için tasarlanmış açık kaynaklı bir işletim sistemidir. Yazılım, 300'den fazla araç modelinde sürücü destek sistemini (driver assistance system) yükselterek otonom sürüş yetenekleri kazandırıyor.",
+          "meta": "Python · ★ 61.864 · +80 bugün"
+        },
+        {
+          "title": "kunchenguid/no-mistakes",
+          "url": "https://github.com/kunchenguid/no-mistakes",
+          "summary": "Go diliyle geliştirilen no-mistakes, yazılım geliştiricilerin hatalı kod gönderimlerini (git push) engellemek için tasarlanmış bir komut satırı aracıdır. Bu araç, yerel depolama alanındaki değişiklikleri denetleyerek yanlışlıkla yapılan paylaşımların önüne geçmeyi amaçlar.",
+          "meta": "Go · ★ 3.570 · +398 bugün"
+        },
+        {
+          "title": "grafana/grafana",
+          "url": "https://github.com/grafana/grafana",
+          "summary": "Grafana, farklı veri kaynaklarından gelen metrikleri, günlükleri (logs) ve izleme verilerini (traces) tek bir arayüzde birleştiren açık kaynaklı bir gözlemlenebilirlik ve veri görselleştirme platformudur. Prometheus, Elasticsearch ve PostgreSQL gibi birçok sistemle entegre çalışarak karmaşık veri setlerinin analiz edilmesini sağlar.",
+          "meta": "TypeScript · ★ 74.994 · +32 bugün"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev, yazılım geliştirme süreçlerinde kullanılan hizmet olarak yazılım (SaaS), hizmet olarak platform (PaaS) ve hizmet olarak altyapı (IaaS) çözümlerinin ücretsiz katmanlarını bir araya getiren bir kaynak listesidir. Geliştiricilerin ve altyapı mühendislerinin maliyetsiz araçlara erişimini kolaylaştırmayı amaçlar.",
+          "meta": "HTML · ★ 123.834 · +90 bugün"
+        },
+        {
+          "title": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "summary": "MinerU, PDF ve ofis belgeleri gibi karmaşık dosya formatlarını büyük dil modelleri (large language models) için uygun olan işaretleme dili (markdown) veya JSON formatına dönüştürüyor. Bu araç, yapılandırılmamış verileri ayrıştırarak yapay zekâ ajanlarının (agentic workflows) iş akışlarında kullanılabilir hale getiriyor.",
+          "meta": "Python · ★ 70.610 · +960 bugün"
+        },
+        {
+          "title": "alchaincyf/zhangxuefeng-skill",
+          "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+          "summary": "Zhangxuefeng-skill, üniversite sınavı tercihleri, lisansüstü eğitim ve kariyer planlaması süreçlerine yönelik stratejik düşünme çerçeveleri sunan bir bilişsel işletim sistemi (cognitive operating system) olarak tanımlanıyor. Bu yapı, Nuwa.skill platformu aracılığıyla oluşturulan pratik karar verme modellerini içeriyor.",
+          "meta": "★ 9.333 · +160 bugün"
+        },
+        {
+          "title": "mauriceboe/TREK",
+          "url": "https://github.com/mauriceboe/TREK",
+          "summary": "TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılabilen (self-hosted) bir seyahat planlama uygulamasıdır. İlerici web uygulaması (PWA) desteği ve tek oturum açma (SSO) gibi modern web standartlarını içeren proje, TypeScript diliyle geliştirilmiştir.",
+          "meta": "TypeScript · ★ 7.819 · +1.060 bugün"
+        },
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI-berkshire, Claude Code altyapısını kullanarak dört büyük yatırımcının metodolojilerini uygulayan bir değer yatırımı (value investing) araştırma çerçevesidir. Çoklu yapay zekâ ajanı (multi-agent) yapısıyla finansal verileri paralel olarak analiz ederek yatırım kararlarını desteklemeyi hedefler.",
+          "meta": "Python · ★ 3.295 · +1.274 bugün"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage, yapay zekâ destekli kodlama asistanlarını kapsamlı bir video prodüksiyon stüdyosuna dönüştüren açık kaynaklı bir ajan tabanlı sistemdir (agentic system). Python tabanlı bu platform, 12 farklı iş akışı (pipeline) ve 500'den fazla ajan yeteneği (agent skill) ile video üretim süreçlerini otomatize etmektedir.",
+          "meta": "Python · ★ 24.004 · +1.754 bugün"
+        },
+        {
+          "title": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "summary": "AWS tarafından geliştirilen agent-toolkit-for-aws, yapay zekâ ajanlarının AWS servisleri üzerinde işlem yapabilmesi için gerekli Model Bağlam Protokolü (Model Context Protocol) sunucularını ve eklentileri sağlar. Bu araç seti, ajanların bulut altyapısı üzerinde yetenek (skill) tabanlı iş akışlarını standartlaştırmasına olanak tanır.",
+          "meta": "Python · ★ 1.405 · +243 bugün"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler, popüler Çin sosyal medya platformlarındaki video, gönderi ve yorum verilerini toplamak için geliştirilmiş bir veri kazıma (web scraping) aracıdır. Python tabanlı bu yazılım, farklı platformlar için özelleştirilmiş modüller kullanarak geniş kapsamlı içerik çekme süreçlerini otomatize eder.",
+          "meta": "Python · ★ 53.482 · +673 bugün"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Gstack, Garry Tan'ın Claude Code yapılandırmasını temel alan ve CEO, tasarımcı, mühendislik yöneticisi gibi farklı rolleri üstlenen 23 özelleşmiş araç seti sunuyor. Bu TypeScript tabanlı yapı, yazılım geliştirme süreçlerini otomatize etmek için tanımlı iş akışları (opinionated workflows) kullanıyor.",
+          "meta": "TypeScript · ★ 116.772 · +950 bugün"
+        },
+        {
+          "title": "IceWhaleTech/CasaOS",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "summary": "CasaOS, ev sunucuları için tasarlanmış, kullanıcı dostu arayüze sahip açık kaynaklı bir kişisel bulut (personal cloud) sistemidir. Go diliyle geliştirilen bu platform, Docker tabanlı uygulamaların kolayca yönetilmesini ve merkezi bir depolama alanı oluşturulmasını sağlar.",
+          "meta": "Go · ★ 35.493 · +619 bugün"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "Yapay zekâ kodlama ajanları (AI coding agents) kullanan bu şablon, herhangi bir web sitesinin tek komutla kopyalanmasını sağlıyor. TypeScript tabanlı proje, web geliştirme süreçlerini otomatize etmek için hızlı bir klonlama altyapısı sunuyor.",
+          "meta": "TypeScript · ★ 21.520 · +1.088 bugün"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach, yapay zekâ ajanlarına internet üzerindeki platformları tarama ve okuma yeteneği kazandıran bir komut satırı arayüzü (CLI) aracıdır. Twitter, Reddit ve GitHub gibi popüler ağlardan veri çekmek için herhangi bir uygulama programlama arayüzü (API) ücreti talep etmeden çalışır.",
+          "meta": "Python · ★ 42.672 · +1.194 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+          "summary": "Amerika Birleşik Devletleri hükümeti, OpenAI tarafından geliştirilen yeni nesil yapay zekâ modellerine erişim sağlayacak kullanıcıları denetleme yetkisine sahip olacak. Bu uygulama, yüksek kapasiteli modellerin kullanımında ulusal güvenlik ve risk yönetimi (risk management) kriterlerini ön plana çıkarıyor.",
+          "meta": "955 oy · 1.018 yorum"
+        },
+        {
+          "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+          "summary": "OpenAI, yeni nesil dil modeli GPT-5.6 Sol için sistem kartını ve ön izleme detaylarını paylaştı. Yayınlanan teknik dokümanlar, modelin güvenlik protokolleri ve geliştirilmiş akıl yürütme yetenekleri (reasoning capabilities) üzerine odaklanıyor.",
+          "meta": "940 oy · 579 yorum"
+        },
+        {
+          "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+          "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+          "summary": "Amerika Birleşik Devletleri hükümeti, Anthropic tarafından geliştirilen Mythos yapay zekâ modelinin belirli güvenilir kuruluşlar tarafından kullanılmasına onay verdi. Bu gelişme, yüksek kapasiteli yapay zekâ modellerinin ulusal güvenlik ve denetim çerçevesinde kontrollü erişime açılmasını temsil ediyor.",
+          "meta": "356 oy · 355 yorum"
+        },
+        {
+          "title": "We can still stop California's 3D printer surveillance scheme",
+          "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+          "summary": "Kaliforniya eyaletinde gündeme gelen yasa tasarısı, üç boyutlu yazıcı (3D printer) üreticilerini cihazlara kullanıcı takibi yapabilen gözetim teknolojileri (surveillance technology) entegre etmeye zorlamayı hedefliyor. Elektronik Sınır Vakfı, bu düzenlemenin kişisel üretim özgürlüğünü kısıtlayacağını ve mahremiyet haklarını ihlal edeceğini savunarak tasarıya karşı çıkıyor.",
+          "meta": "343 oy · 117 yorum"
+        },
+        {
+          "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+          "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+          "summary": "AWS Lambda, yalıtılmış çalışma ortamları (sandboxes) oluşturmak için mikro sanal makineler (microVMs) teknolojisini kullanıma sunuyor. Bu yaklaşım, geliştiricilere tam yaşam döngüsü denetimi sağlayarak güvenlik ve kaynak yönetimi süreçlerini iyileştiriyor.",
+          "meta": "314 oy · 175 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel metinleri işleyerek metin çıktısı üreten bir görüntüden metne (image-to-text) modelidir. Model, karmaşık dokümanlardaki verileri dijital formata dönüştürmek amacıyla optik karakter tanıma (optical character recognition) süreçlerini optimize eder.",
+          "meta": "♥ 1.069 · 134.146 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text generation) görevleri için tasarlanmış bir dil modelidir. HuggingFace platformunda geniş bir kullanıcı kitlesine ulaşan bu model, doğal dil işleme süreçlerinde metin oluşturma yetenekleri sunar.",
+          "meta": "♥ 2.619 · 83.589 indirme"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M modeli, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Düşük kaynaklı cihazlarda çalışabilmesi adına nicemleme (quantization) yöntemiyle GGUF formatında sunulmuştur.",
+          "meta": "♥ 614 · 486.810 indirme"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Gemma-4-12B tabanlı bu model, metin üretimi (text generation) görevlerinde kullanılmak üzere optimize edilmiş bir yapı sunuyor. Model, GGUF formatı sayesinde düşük donanım gereksinimleriyle yerel cihazlarda çalıştırılabiliyor.",
+          "meta": "♥ 694 · 186.663 indirme"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma-4-12B temelli bu metin üretme modeli (text-generation model), kod yazımı ve yaratıcı kurgu süreçleri için optimize edilmiş özel bir yapı sunuyor. Model, düşük kaynaklı cihazlarda çalışabilmesi için nicemlenmiş (quantized) GGUF formatında kullanıma sunuluyor.",
+          "meta": "♥ 2.408 · 516.333 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "user identifiers",
+      "explanation": "Bir dijital sistemde kişiyi diğerlerinden ayırt etmek için kullanılan benzersiz kimlik numaraları veya kullanıcı adları."
+    },
+    {
+      "term": "driver assistance system",
+      "explanation": "Sürüş sırasında güvenliği artırmak için sürücüyü uyaran veya aracı otomatik kontrol eden akıllı yardımcı teknolojiler."
+    },
+    {
+      "term": "git push",
+      "explanation": "Bilgisayarınızda yaptığınız yazılım değişikliklerini internetteki ortak bir depolama alanına gönderme işlemi."
+    },
+    {
+      "term": "logs",
+      "explanation": "Bir yazılımın arka planda yaptığı işlemlerin ve karşılaştığı hataların zaman damgasıyla kaydedildiği günlükler."
+    },
+    {
+      "term": "traces",
+      "explanation": "Bir işlemin sistem içindeki farklı aşamalardan geçerken izlediği yolun adım adım kaydedilmesi."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Yazılımı bilgisayarınıza kurmak yerine, internet üzerinden tarayıcı aracılığıyla kiralayarak kullanma modeli."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Yazılımcıların kendi uygulamalarını geliştirmeleri ve yayınlamaları için gerekli altyapının internet üzerinden hazır sunulması."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "İnternet üzerinden sanal sunucu ve depolama alanı gibi temel donanım kaynaklarının kiralanması."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "markdown",
+      "explanation": "Karmaşık kodlar yerine basit işaretler kullanarak metinleri hızlıca biçimlendirmeye yarayan yazı dili."
+    },
+    {
+      "term": "agentic workflows",
+      "explanation": "Yapay zekâ araçlarının insan müdahalesi olmadan kendi kararlarını verip bir işi uçtan uca tamamlaması."
+    },
+    {
+      "term": "cognitive operating system",
+      "explanation": "İnsan zihninin çalışma prensiplerini taklit ederek bilgiyi işleyen ve karar alma süreçlerini yöneten gelişmiş yazılım mimarisi."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Bir yazılımı dışarıdan kiralamak yerine kendi sunucunuzda veya bilgisayarınızda barındırarak çalıştırmanız."
+    },
+    {
+      "term": "PWA",
+      "explanation": "İnternet sitelerinin telefonunuza uygulama gibi yüklenip çevrimdışı da çalışabilen modern hali."
+    },
+    {
+      "term": "SSO",
+      "explanation": "Tek bir kullanıcı adı ve şifreyle birden fazla farklı uygulamaya aynı anda giriş yapabilme kolaylığı."
+    },
+    {
+      "term": "value investing",
+      "explanation": "Gerçek değerinden daha düşük fiyatlandığını düşündüğünüz şirketlerin hisselerini uzun vadeli kazanç için satın alma stratejisi."
+    }
+  ]
+}

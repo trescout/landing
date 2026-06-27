@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-27",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "summary": "SimpleX, kullanıcı tanımlayıcıları (user identifiers) kullanmadan çalışan ilk mesajlaşma ağı olarak gizlilik odaklı bir iletişim altyapısı sunuyor. Haskell diliyle geliştirilen platform, merkeziyetsiz yapısı sayesinde kullanıcı verilerini tamamen anonim tutmayı hedefliyor.",
+          "meta": "Haskell · ★ 12.874 · +432 bugün"
+        },
+        {
+          "title": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "summary": "Comma AI tarafından geliştirilen openpilot, robotik sistemler için tasarlanmış açık kaynaklı bir işletim sistemidir. Yazılım, 300'den fazla araç modelinde sürücü destek sistemini (driver assistance system) yükselterek otonom sürüş yetenekleri kazandırıyor.",
+          "meta": "Python · ★ 61.864 · +80 bugün"
+        },
+        {
+          "title": "grafana/grafana",
+          "url": "https://github.com/grafana/grafana",
+          "summary": "Grafana, farklı veri kaynaklarından gelen metrikleri, günlükleri (logs) ve izleme verilerini (traces) tek bir arayüzde birleştiren açık kaynaklı bir gözlemlenebilirlik ve veri görselleştirme platformudur. Prometheus, Elasticsearch ve PostgreSQL gibi birçok sistemle entegre çalışarak karmaşık veri setlerinin analiz edilmesini sağlar.",
+          "meta": "TypeScript · ★ 74.994 · +32 bugün"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev, yazılım geliştirme süreçlerinde kullanılan hizmet olarak yazılım (SaaS), hizmet olarak platform (PaaS) ve hizmet olarak altyapı (IaaS) çözümlerinin ücretsiz katmanlarını bir araya getiren bir kaynak listesidir. Geliştiricilerin ve altyapı mühendislerinin maliyetsiz araçlara erişimini kolaylaştırmayı amaçlar.",
+          "meta": "HTML · ★ 123.834 · +90 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+          "summary": "Amerika Birleşik Devletleri hükümeti, OpenAI tarafından geliştirilen yeni nesil yapay zekâ modellerine erişim sağlayacak kullanıcıları denetleme yetkisine sahip olacak. Bu uygulama, yüksek kapasiteli modellerin kullanımında ulusal güvenlik ve risk yönetimi (risk management) kriterlerini ön plana çıkarıyor.",
+          "meta": "955 oy · 1.018 yorum"
+        },
+        {
+          "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+          "summary": "OpenAI, yeni nesil dil modeli GPT-5.6 Sol için sistem kartını ve ön izleme detaylarını paylaştı. Yayınlanan teknik dokümanlar, modelin güvenlik protokolleri ve geliştirilmiş akıl yürütme yetenekleri (reasoning capabilities) üzerine odaklanıyor.",
+          "meta": "940 oy · 579 yorum"
+        },
+        {
+          "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+          "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+          "summary": "Amerika Birleşik Devletleri hükümeti, Anthropic tarafından geliştirilen Mythos yapay zekâ modelinin belirli güvenilir kuruluşlar tarafından kullanılmasına onay verdi. Bu gelişme, yüksek kapasiteli yapay zekâ modellerinin ulusal güvenlik ve denetim çerçevesinde kontrollü erişime açılmasını temsil ediyor.",
+          "meta": "356 oy · 355 yorum"
+        },
+        {
+          "title": "We can still stop California's 3D printer surveillance scheme",
+          "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+          "summary": "Kaliforniya eyaletinde gündeme gelen yasa tasarısı, üç boyutlu yazıcı (3D printer) üreticilerini cihazlara kullanıcı takibi yapabilen gözetim teknolojileri (surveillance technology) entegre etmeye zorlamayı hedefliyor. Elektronik Sınır Vakfı, bu düzenlemenin kişisel üretim özgürlüğünü kısıtlayacağını ve mahremiyet haklarını ihlal edeceğini savunarak tasarıya karşı çıkıyor.",
+          "meta": "343 oy · 117 yorum"
+        },
+        {
+          "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+          "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+          "summary": "AWS Lambda, yalıtılmış çalışma ortamları (sandboxes) oluşturmak için mikro sanal makineler (microVMs) teknolojisini kullanıma sunuyor. Bu yaklaşım, geliştiricilere tam yaşam döngüsü denetimi sağlayarak güvenlik ve kaynak yönetimi süreçlerini iyileştiriyor.",
+          "meta": "314 oy · 175 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "user identifiers",
+      "explanation": "Bir dijital sistemde kişiyi diğerlerinden ayırt etmek için kullanılan benzersiz kimlik numaraları veya kullanıcı adları."
+    },
+    {
+      "term": "driver assistance system",
+      "explanation": "Sürüş sırasında güvenliği artırmak için sürücüyü uyaran veya aracı otomatik kontrol eden akıllı yardımcı teknolojiler."
+    },
+    {
+      "term": "logs",
+      "explanation": "Bir yazılımın arka planda yaptığı işlemlerin ve karşılaştığı hataların zaman damgasıyla kaydedildiği günlükler."
+    },
+    {
+      "term": "traces",
+      "explanation": "Bir işlemin sistem içindeki farklı aşamalardan geçerken izlediği yolun adım adım kaydedilmesi."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Yazılımı bilgisayarınıza kurmak yerine, internet üzerinden tarayıcı aracılığıyla kiralayarak kullanma modeli."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Yazılımcıların kendi uygulamalarını geliştirmeleri ve yayınlamaları için gerekli altyapının internet üzerinden hazır sunulması."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "İnternet üzerinden sanal sunucu ve depolama alanı gibi temel donanım kaynaklarının kiralanması."
+    }
+  ]
+}
