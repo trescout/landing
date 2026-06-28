@@ -1713,5 +1713,47 @@
     "full": "",
     "cat": "data",
     "kisa": "Gerçek değerinden daha düşük fiyatlandığını düşündüğünüz varlıkları uzun vadeli kazanç için satın alma stratejisidir."
+  },
+  {
+    "slug": "end-to-end-privacy",
+    "en": "End-to-End Privacy",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Verilerin sadece gönderen ve alıcı tarafından okunabildiği, aradaki kimsenin erişemediği bir güvenlik yöntemidir."
+  },
+  {
+    "slug": "adversarial-analysis",
+    "en": "Adversarial Analysis",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir sistemin zayıf noktalarını bulmak için kötü niyetli saldırıları taklit ederek yapılan güvenlik testidir."
+  },
+  {
+    "slug": "personal-cloud",
+    "en": "Personal Cloud",
+    "full": "",
+    "cat": "data",
+    "kisa": "Kişisel dosyaların internet üzerinden her yerden erişilebilecek şekilde özel bir alanda saklanmasıdır."
+  },
+  {
+    "slug": "free-tier",
+    "en": "Free Tier",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir hizmetin sınırlı özelliklerle ücretsiz olarak sunulan başlangıç seviyesidir."
+  },
+  {
+    "slug": "pptx",
+    "en": "PPTX",
+    "full": "PowerPoint Presentation",
+    "cat": "data",
+    "kisa": "Sunum hazırlamak için kullanılan dosyaların standart dijital formatıdır."
+  },
+  {
+    "slug": "opinionated-tools",
+    "en": "Opinionated Tools",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kullanıcıya çok fazla seçenek sunmak yerine, en iyi çalışma yöntemini önceden belirleyip dayatan yazılım araçlarıdır."
   }
 ]

@@ -1,0 +1,49 @@
+# açık kaynaklı yapay zekâ kodlama ajanı
+
+OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent). TypeScript diliyle geliştirilen bu araç, yazılım projelerinde otonom görev yürütme yetenekleri sunar.
+
+- ★ 179.948
+- TypeScript
+- GitHub Trending · 2026-06-28
+
+## Ne kazandırır?
+- Yazılım geliştirme süreçlerini otonom olarak yönetir
+- Kod inceleme ve planlama için özel modlar sunar
+- Çok adımlı görevler için genel arama yeteneği sağlar
+
+## Kurulum
+
+**Masaüstü uygulaması kurulumu**
+
+```
+# macOS (Homebrew)
+brew install --cask opencode-desktop
+# Windows (Scoop)
+scoop bucket add extras; scoop install extras/opencode-desktop
+```
+
+**Özel dizin ile kurulum**
+
+```
+OPENCODE_INSTALL_DIR=/usr/local/bin curl -fsSL https://opencode.ai/install | bash
+XDG_BIN_DIR=$HOME/.local/bin curl -fsSL https://opencode.ai/install | bash
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+OpenCode aracını kullanarak mevcut yazılım projemdeki kodları analiz etmeni ve geliştirme süreçlerini otomatikleştirmene yardımcı olmanı istiyorum. Çalışma sırasında build ajanını kullanarak tam erişimle geliştirme yapabilir veya plan ajanını kullanarak kodları inceleyip değişiklikleri planlayabilirsin. Karmaşık arama veya çok adımlı görevler için @general komutunu kullanmanı bekliyorum.
+
+- **Kimin için:** Yazılım geliştirme süreçlerini otomatikleştirmek isteyen geliştiriciler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/anomalyco/opencode)
+
+## İlgili sözlük terimleri
+Coding Agent Artificial Intelligence 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/opencode/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

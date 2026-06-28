@@ -3318,5 +3318,103 @@
     "headline": "Ücretsiz geliştirici araçları kaynak listesi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "ppt-master",
+    "title": "Ppt Master",
+    "tagline": "PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönüştüren yapay zekâ destekli bir araçtır.",
+    "meta": "★ 33.348 · Python",
+    "image": "/assets/discover/og/ppt-master.webp",
+    "source": "GitHub",
+    "date": "2026-06-28",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 33348,
+    "lite": false,
+    "headline": "Belgeleri düzenlenebilir sunumlara dönüştüren yapay zekâ"
+  },
+  {
+    "slug": "open-generative-ai",
+    "title": "Open-Generative-AI",
+    "tagline": "Open-Generative-AI, içerik filtrelemesi bulunmayan ve 200'den fazla görsel ile video oluşturma modelini (model) barındıran…",
+    "meta": "★ 21.507 · JavaScript",
+    "image": "/assets/discover/og/open-generative-ai.webp",
+    "source": "GitHub",
+    "date": "2026-06-28",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 21507,
+    "lite": false,
+    "headline": "Kısıtlamasız yapay zekâ görsel ve video stüdyosu"
+  },
+  {
+    "slug": "dbt-core",
+    "title": "Dbt Core",
+    "tagline": "Veri dönüştürme aracı (dbt-core), veri analistlerinin ve mühendislerinin yazılım geliştirme süreçlerine benzer yöntemlerle…",
+    "meta": "★ 13.271 · Rust",
+    "image": "/assets/discover/og/dbt-core.webp",
+    "source": "GitHub",
+    "date": "2026-06-28",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 13271,
+    "lite": false,
+    "headline": "Veri ambarında standartlaştırılmış dönüşüm süreçleri",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "opencode",
+    "title": "Opencode",
+    "tagline": "OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent).",
+    "meta": "★ 179.948 · TypeScript",
+    "image": "/assets/discover/og/opencode.webp",
+    "source": "GitHub",
+    "date": "2026-06-28",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 179948,
+    "lite": false,
+    "headline": "açık kaynaklı yapay zekâ kodlama ajanı"
+  },
+  {
+    "slug": "openspec",
+    "title": "OpenSpec",
+    "tagline": "OpenSpec, yapay zekâ kod asistanları için şartname odaklı geliştirme (spec-driven development) süreçlerini destekleyen bir…",
+    "meta": "★ 57.272 · TypeScript",
+    "image": "/assets/discover/og/openspec.webp",
+    "source": "GitHub",
+    "date": "2026-06-28",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 57272,
+    "lite": false,
+    "headline": "yapay zekâ projelerinde standart geliştirme"
+  },
+  {
+    "slug": "keycloak",
+    "title": "Keycloak",
+    "tagline": "Keycloak, modern uygulamalar ve hizmetler için açık kaynaklı kimlik ve erişim yönetimi (identity and access management)…",
+    "meta": "★ 35.354 · Java",
+    "image": "/assets/discover/og/keycloak.webp",
+    "source": "GitHub",
+    "date": "2026-06-28",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 35354,
+    "lite": false,
+    "headline": "Uygulamalarınız için merkezi kimlik yönetimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

@@ -38,7 +38,7 @@ Kişisel sunucumda Docker tabanlı uygulamaları yönetmek için CasaOS kullanı
 - [GitHub deposu →](https://github.com/IceWhaleTech/CasaOS)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Personal Cloud Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
