@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-28",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "summary": "PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönüştüren yapay zekâ destekli bir araçtır. Sistem, metinleri yerel şekiller, animasyonlar ve sesli konuşmacı notları içeren özelleştirilebilir sunumlara çevirir.",
+          "meta": "Python · ★ 33.348 · +589 bugün"
+        },
+        {
+          "title": "Anil-matcha/Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "summary": "Open-Generative-AI, içerik filtrelemesi bulunmayan ve 200'den fazla görsel ile video oluşturma modelini (model) barındıran açık kaynaklı bir stüdyo platformudur. Kullanıcılar, MIT lisansıyla sunulan bu yazılımı kendi sunucularında (self-hosted) çalıştırarak görsel üretim süreçlerini özgürce yönetebilirler.",
+          "meta": "JavaScript · ★ 21.507 · +255 bugün"
+        },
+        {
+          "title": "dbt-labs/dbt-core",
+          "url": "https://github.com/dbt-labs/dbt-core",
+          "summary": "Veri dönüştürme aracı (dbt-core), veri analistlerinin ve mühendislerinin yazılım geliştirme süreçlerine benzer yöntemlerle veri dönüşümü (data transformation) yapmalarını sağlıyor. Sürüm kontrolü ve test süreçlerini veri ambarlarına entegre ederek analitik iş akışlarını standartlaştırıyor.",
+          "meta": "Rust · ★ 13.271 · +18 bugün"
+        },
+        {
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "summary": "OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent). TypeScript diliyle geliştirilen bu araç, yazılım projelerinde otonom görev yürütme yetenekleri sunar.",
+          "meta": "TypeScript · ★ 179.948 · +392 bugün"
+        },
+        {
+          "title": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "summary": "OpenSpec, yapay zekâ kod asistanları için şartname odaklı geliştirme (spec-driven development) süreçlerini destekleyen bir TypeScript kütüphanesidir. Yazılım geliştirme aşamalarında teknik gereksinimlerin standartlaştırılmasını ve kod üretim süreçlerinin daha kontrollü ilerlemesini sağlar.",
+          "meta": "TypeScript · ★ 57.272 · +177 bugün"
+        },
+        {
+          "title": "keycloak/keycloak",
+          "url": "https://github.com/keycloak/keycloak",
+          "summary": "Keycloak, modern uygulamalar ve hizmetler için açık kaynaklı kimlik ve erişim yönetimi (identity and access management) çözümleri sunuyor. Java tabanlı bu platform, merkezi kimlik doğrulama ve yetkilendirme süreçlerini standartlaştırmak için kullanılıyor.",
+          "meta": "Java · ★ 35.354 · +20 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+          "url": "https://github.com/bikini/exploitarium",
+          "summary": "Bikini adlı anonim bir GitHub hesabı, daha önce bildirilmemiş güvenlik açıkları (zero-day) için hazırlanan istismar kodlarını (exploit) herkese açık olarak paylaşıyor. Söz konusu depo, çeşitli yazılımlardaki kritik zafiyetleri hedefleyen teknik dokümanları ve saldırı araçlarını içeriyor.",
+          "meta": "780 oy · 303 yorum"
+        },
+        {
+          "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "summary": "DeepSeek tarafından geliştirilen DSpark, tahmini kod çözme (speculative decoding) yöntemiyle büyük dil modellerinin (large language models) çıkarım hızını artırıyor. Bu yaklaşım, küçük bir modelin tahminlerini büyük bir modelle doğrulayarak hesaplama verimliliğini yükseltiyor.",
+          "meta": "754 oy · 315 yorum"
+        },
+        {
+          "title": "OpenRA",
+          "url": "https://www.openra.net/",
+          "summary": "OpenRA, klasik gerçek zamanlı strateji (real-time strategy) oyunlarını modern işletim sistemlerinde çalıştırmak için geliştirilen açık kaynaklı bir oyun motorudur. Proje, orijinal oyun mekaniklerini koruyarak yüksek çözünürlüklü ekran desteği ve çok oyunculu (multiplayer) altyapı gibi güncellemeler sunar.",
+          "meta": "665 oy · 131 yorum"
+        },
+        {
+          "title": "Fintech Engineering Handbook",
+          "url": "https://w.pitula.me/fintech-engineering-handbook/",
+          "summary": "Fintech Mühendislik El Kitabı (Fintech Engineering Handbook), finansal teknoloji sistemlerinde ölçeklenebilirlik, güvenlik ve uyumluluk gereksinimlerini teknik bir çerçevede ele alıyor. Yazılım geliştirme süreçlerinde finansal verilerin işlenmesi ve sistem mimarisinin yapılandırılması için temel prensipleri özetliyor.",
+          "meta": "541 oy · 170 yorum"
+        },
+        {
+          "title": "The case for physical media ownership",
+          "url": "https://dervis.de/physical/",
+          "summary": "Dijital içerik platformlarındaki abonelik modellerine karşın fiziksel medya sahipliği, dijital varlıkların erişim haklarının kısıtlanmasına karşı bir alternatif sunuyor. Kullanıcılar, içeriklerin platformlardan kaldırılması riskine karşı kalıcı erişim ve mülkiyet haklarını korumak için fiziksel formatlara yöneliyor.",
+          "meta": "423 oy · 269 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M, metin üretimi (text generation) odaklı açık kaynaklı bir dil modelidir. Geniş bağlam penceresi (context window) desteğiyle karmaşık içerik oluşturma süreçlerinde performans artışı sağlamayı hedefler.",
+          "meta": "♥ 500 · 30.298 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "PPTX",
+      "explanation": "Sunum hazırlamak için kullanılan dosyaların standart dijital formatı."
+    }
+  ]
+}
