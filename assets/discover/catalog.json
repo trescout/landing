@@ -3416,5 +3416,100 @@
     "headline": "Uygulamalarınız için merkezi kimlik yönetimi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "lingbot-map",
+    "title": "Lingbot Map",
+    "tagline": "Lingbot-map, akış halindeki verilerden sahneleri yeniden oluşturmak için tasarlanmış ileri beslemeli bir üç boyutlu temel…",
+    "meta": "★ 8.439 · Python",
+    "image": "/assets/discover/og/lingbot-map.webp",
+    "source": "GitHub",
+    "date": "2026-06-29",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 8439,
+    "lite": false,
+    "headline": "Akış verisinden üç boyutlu sahneler oluşturun"
+  },
+  {
+    "slug": "cupy",
+    "title": "Cupy",
+    "tagline": "CuPy, sayısal hesaplama kütüphanesi NumPy ve SciPy arayüzlerini grafik işlem birimi (GPU) hızlandırmasıyla birleştiriyor.",
+    "meta": "★ 11.639 · Python",
+    "image": "/assets/discover/og/cupy.webp",
+    "source": "GitHub",
+    "date": "2026-06-29",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 11639,
+    "lite": false,
+    "headline": "GPU destekli sayısal hesaplama kütüphanesi"
+  },
+  {
+    "slug": "fluidvoice",
+    "title": "FluidVoice",
+    "tagline": "FluidVoice, macOS işletim sistemi üzerinde tamamen çevrim dışı çalışan hızlı bir sesli dikte (voice to text) uygulamasıdır.",
+    "meta": "★ 3.995 · Swift",
+    "image": "/assets/discover/og/fluidvoice.webp",
+    "source": "GitHub",
+    "date": "2026-06-29",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 3995,
+    "lite": false,
+    "headline": "macOS için gizlilik odaklı sesli dikte"
+  },
+  {
+    "slug": "system-design-101",
+    "title": "System Design 101",
+    "tagline": "ByteByteGoHq tarafından hazırlanan system-design-101 deposu, karmaşık sistem mimarilerini görselleştirmeler ve sade bir dille…",
+    "meta": "★ 84.839",
+    "image": "/assets/discover/og/system-design-101.webp",
+    "source": "GitHub",
+    "date": "2026-06-29",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 84839,
+    "lite": false,
+    "headline": "Görsellerle sistem tasarımı rehberi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "strix",
+    "title": "Strix",
+    "tagline": "Strix, uygulamalardaki güvenlik açıklarını tespit etmek ve gidermek için tasarlanmış açık kaynaklı bir yapay zekâ tabanlı…",
+    "meta": "★ 27.035 · Python",
+    "image": "/assets/discover/og/strix.webp",
+    "source": "GitHub",
+    "date": "2026-06-29",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 27035,
+    "lite": false,
+    "headline": "yapay zekâ ile otomatik güvenlik taraması"
+  },
+  {
+    "slug": "video-use",
+    "title": "Video Use",
+    "tagline": "Video-use kütüphanesi, kodlama ajanlarının (coding agents) video düzenleme süreçlerini otomatize etmesine olanak tanıyor.",
+    "meta": "★ 11.471 · Python",
+    "image": "/assets/discover/og/video-use.webp",
+    "source": "GitHub",
+    "date": "2026-06-29",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 11471,
+    "lite": false,
+    "headline": "yapay zekâ ile otomatik video düzenleme"
   }
 ]

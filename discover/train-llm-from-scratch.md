@@ -41,7 +41,7 @@ Lisans: MIT · içeriği ve kodu özgürce kullanabilir, uyarlayabilir, paylaşa
 - [GitHub deposu →](https://github.com/FareedKhan-dev/train-llm-from-scratch)
 
 ## İlgili sözlük terimleri
-Transformer Jupyter Notebooks LLM Open Source Artificial Intelligence 
+Transformer Jupyter Notebooks GPU LLM Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

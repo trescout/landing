@@ -1755,5 +1755,47 @@
     "full": "",
     "cat": "dev",
     "kisa": "Kullanıcıya çok fazla seçenek sunmak yerine, en iyi çalışma yöntemini önceden belirleyip dayatan yazılım araçlarıdır."
+  },
+  {
+    "slug": "gpu",
+    "en": "GPU",
+    "full": "Graphics Processing Unit",
+    "cat": "dev",
+    "kisa": "Yapay zekâ ve grafik işleme gibi ağır matematiksel yükleri aynı anda parçalara bölerek çok hızlı çözen özel işlem birimi."
+  },
+  {
+    "slug": "voice-to-text",
+    "en": "Voice to Text",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Ses dalgalarını analiz ederek konuşulanları dijital metne dönüştüren teknoloji."
+  },
+  {
+    "slug": "trading-agent",
+    "en": "Trading Agent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Finansal piyasalarda verileri analiz edip sizin yerinize otomatik alım satım kararları veren yapay zekâ yazılımı."
+  },
+  {
+    "slug": "trading-strategies",
+    "en": "Trading Strategies",
+    "full": "",
+    "cat": "data",
+    "kisa": "Yatırım yaparken hangi koşullarda alım veya satım yapılacağını belirleyen mantıksal kurallar dizisi."
+  },
+  {
+    "slug": "system-design",
+    "en": "System Design",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Büyük ve karmaşık yazılım sistemlerinin mimarisini, parçaların birbiriyle iletişimini ve veri akışını planlama süreci."
+  },
+  {
+    "slug": "ai-security-tool",
+    "en": "AI Security Tool",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ modellerini siber saldırılara, veri sızıntılarına ve kötü niyetli manipülasyonlara karşı koruyan yazılım."
   }
 ]

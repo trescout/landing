@@ -44,7 +44,7 @@ Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabi
 - [Proje sayfası →](https://st-tech.github.io/ppf-contact-solver)
 
 ## İlgili sözlük terimleri
-Open Source Artificial Intelligence 
+GPU Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -52,7 +52,7 @@ Whichllm aracını kullanarak donanım özelliklerime en uygun yerel büyük dil
 - [GitHub deposu →](https://github.com/Andyyyy64/whichllm)
 
 ## İlgili sözlük terimleri
-Benchmarks Benchmark Artificial Intelligence 
+Benchmarks Benchmark GPU Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

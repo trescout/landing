@@ -22,7 +22,7 @@ Aracı kullanmaya başlamak için GitHub üzerindeki resmî sürümler sayfasın
 - [GitHub deposu →](https://github.com/itsfatduck/optimizerDuck)
 
 ## İlgili sözlük terimleri
-Bloatware 
+Bloatware GPU 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
