@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-29",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "Lingbot-map, akış halindeki verilerden sahneleri yeniden oluşturmak için tasarlanmış ileri beslemeli bir üç boyutlu temel modeldir (3D foundation model). Proje, Python diliyle geliştirilen mimarisi sayesinde karmaşık çevresel verileri işleyerek görselleştirme süreçlerini optimize eder.",
+          "meta": "Python · ★ 8.439 · +372 bugün"
+        },
+        {
+          "title": "cupy/cupy",
+          "url": "https://github.com/cupy/cupy",
+          "summary": "CuPy, sayısal hesaplama kütüphanesi NumPy ve SciPy arayüzlerini grafik işlem birimi (GPU) hızlandırmasıyla birleştiriyor. Python tabanlı bu kütüphane, CUDA çekirdeklerini kullanarak karmaşık matematiksel işlemleri hızlandırıyor.",
+          "meta": "Python · ★ 11.639 · +174 bugün"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice, macOS işletim sistemi üzerinde tamamen çevrim dışı çalışan hızlı bir sesli dikte (voice to text) uygulamasıdır. Swift diliyle geliştirilen bu araç, verileri yerel olarak işleyerek gizlilik odaklı bir ses dönüştürme deneyimi sunar.",
+          "meta": "Swift · ★ 3.995 · +365 bugün"
+        },
+        {
+          "title": "ByteByteGoHq/system-design-101",
+          "url": "https://github.com/ByteByteGoHq/system-design-101",
+          "summary": "ByteByteGoHq tarafından hazırlanan system-design-101 deposu, karmaşık sistem mimarilerini görselleştirmeler ve sade bir dille açıklıyor. Yazılım mühendisliği mülakatlarına hazırlananlar için sistem tasarımı (system design) kavramlarını temelden ileri seviyeye taşıyan bir kaynak sunuyor.",
+          "meta": "★ 84.839 · +250 bugün"
+        },
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix, uygulamalardaki güvenlik açıklarını tespit etmek ve gidermek için tasarlanmış açık kaynaklı bir yapay zekâ tabanlı güvenlik aracıdır (AI security tool). Python diliyle geliştirilen bu sistem, yazılım geliştirme süreçlerinde zafiyet tarama ve düzeltme işlemlerini otomatize eder.",
+          "meta": "Python · ★ 27.035 · +122 bugün"
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "Video-use kütüphanesi, kodlama ajanlarının (coding agents) video düzenleme süreçlerini otomatize etmesine olanak tanıyor. Python tabanlı bu araç, görsel düzenleme görevlerini yazılım komutları aracılığıyla yerine getirerek iş akışlarını hızlandırıyor.",
+          "meta": "Python · ★ 11.471 · +196 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GLM 5.2 beats Claude in our benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+          "summary": "Semgrep tarafından paylaşılan test sonuçları, GLM 5.2 modelinin siber güvenlik odaklı kıyaslama testlerinde (benchmarks) Claude modellerini geride bıraktığını gösteriyor. Model, kod analizi ve güvenlik açıklarını tespit etme süreçlerinde yüksek performans sergiliyor.",
+          "meta": "810 oy · 378 yorum"
+        },
+        {
+          "title": "The KIDS Act would require age checks to get online",
+          "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+          "summary": "Çocukların İnternet Güvenliğini Koruma (KIDS) Yasası, çevrim içi platformlara erişim için zorunlu yaş doğrulama (age verification) sistemleri getirmeyi planlıyor. Bu düzenleme, kullanıcıların dijital kimliklerini kanıtlamasını şart koşarak internet üzerindeki anonimliği ve veri gizliliğini tartışmaya açıyor.",
+          "meta": "469 oy · 368 yorum"
+        },
+        {
+          "title": "I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "summary": "Kullanıcılar, tıbbi görüntüleme (MRI) sonuçlarını analiz etmek için komut satırı arayüzü (CLI) tabanlı kodlama asistanı Claude Code aracını kullanıyor. Bu yöntem, görüntü verilerinin işlenmesi ve yorumlanması sürecinde yapay zekâ destekli ikinci bir görüş alma pratiğini yaygınlaştırıyor.",
+          "meta": "425 oy · 556 yorum"
+        },
+        {
+          "title": "Age verification is just a precursor to automated attribution of speech",
+          "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+          "summary": "Dijital platformlarda uygulanan yaş doğrulama (age verification) süreçleri, internet üzerindeki içeriklerin kimlik ile ilişkilendirilmesini sağlayan otomatik atıf (automated attribution) sistemlerine geçişin ilk aşamasını oluşturuyor. Bu teknik altyapı, çevrim içi ifade özgürlüğü ve anonimlik kavramlarının gelecekteki yasal düzenlemelerle nasıl şekilleneceğine dair tartışmaları beraberinde getiriyor.",
+          "meta": "409 oy · 220 yorum"
+        },
+        {
+          "title": "Professor denounces mass AI fraud on an exam at Brown",
+          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+          "summary": "Brown Üniversitesi'nde bir profesör, sınavlarda kitlesel ölçekte üretken yapay zekâ (generative AI) kullanımıyla gerçekleşen akademik dürüstlük ihlallerine dikkat çekiyor. Bu durum, eğitim kurumlarının yapay zekâ destekli kopya (AI-assisted cheating) karşısında değerlendirme yöntemlerini yeniden gözden geçirmesini zorunlu kılıyor.",
+          "meta": "396 oy · 525 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "GPU",
+      "explanation": "Görüntü işleme ve yapay zekâ hesaplamaları gibi yoğun matematiksel işlemleri çok hızlı yapabilen özel bilgisayar işlemcisi."
+    },
+    {
+      "term": "voice to text",
+      "explanation": "Söylediğiniz sözcükleri algılayıp bunları dijital ortamda yazılı metne dönüştüren teknoloji."
+    },
+    {
+      "term": "system design",
+      "explanation": "Büyük ölçekli yazılımların nasıl çalışacağını, parçaların birbiriyle nasıl haberleşeceğini ve verilerin nasıl saklanacağını planlama süreci."
+    },
+    {
+      "term": "AI security tool",
+      "explanation": "Yapay zekâ sistemlerini dışarıdan gelebilecek saldırılara, hatalı veri girişlerine veya kötü niyetli kullanımlara karşı koruyan yazılım."
+    }
+  ]
+}

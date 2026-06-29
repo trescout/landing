@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-29",
+  "editorial": "Bugünün teknoloji gündeminde merkeziyetsiz iletişim protokolleri ve otonom sürüş sistemleri (autonomous driving systems) gibi teknik derinliği yüksek projeler öne çıkıyor. Geliştirici kaynakları (developer resources) ve kod tabanı bellek yönetimi (codebase memory management) üzerine odaklanan araçların GitHub üzerindeki etkileşimi, altyapı odaklı bir ilginin sürdüğünü gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "summary": "SimpleX, kullanıcı tanımlayıcıları (user identifiers) kullanmadan çalışan ilk mesajlaşma ağı olarak gizlilik odaklı bir iletişim altyapısı sunuyor. Haskell diliyle geliştirilen bu platform, merkeziyetsiz yapısı sayesinde kullanıcı verilerini tamamen anonim tutmayı hedefliyor.",
+          "meta": "Haskell · ★ 15.704 · +1.180 bugün"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev, yazılım geliştiriciler ve altyapı uzmanları için ücretsiz katman (free tier) sunan hizmet sağlayıcılarını (SaaS, PaaS, IaaS) bir araya getiren kapsamlı bir liste sunuyor. Geliştiricilerin maliyet yönetimi yapmasına yardımcı olan bu kaynak, bulut tabanlı araçlara erişimi kolaylaştırıyor.",
+          "meta": "HTML · ★ 126.084 · +495 bugün"
+        },
+        {
+          "title": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "summary": "Comma.ai tarafından geliştirilen openpilot, robotik sistemler için tasarlanmış açık kaynaklı bir işletim sistemidir. Yazılım, 300'den fazla araç modelinde sürücü destek sistemlerini (driver assistance system) yükselterek otonom sürüş yetenekleri kazandırır.",
+          "meta": "Python · ★ 62.596 · +266 bugün"
+        },
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI-berkshire, Claude Code ve Codex altyapısını kullanarak değer yatırımı (value investing) araştırmaları yapan çoklu ajanlı (multi-agent) bir çerçevedir. Warren Buffett, Charlie Munger, Duan Yongping ve Li Lu gibi yatırımcıların metodolojilerini temel alarak finansal analiz süreçlerini otomatize eder.",
+          "meta": "Python · ★ 6.056 · +1.445 bugün"
+        },
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "Lingbot-map, akış halindeki verilerden sahneleri yeniden oluşturmak için tasarlanmış ileri beslemeli bir üç boyutlu temel modeldir (3D foundation model). Proje, Python diliyle geliştirilen mimarisi sayesinde karmaşık çevresel verileri işleyerek görselleştirme süreçlerini optimize eder.",
+          "meta": "Python · ★ 8.439 · +372 bugün"
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "DeusData tarafından geliştirilen codebase-memory-mcp, kod tabanlarını kalıcı bir bilgi çizgesi (knowledge graph) üzerinde dizinleyerek yüksek performanslı kod zekâsı sunuyor. C diliyle yazılan bu sunucu, 158 programlama dilini desteklerken sorguları milisaniye düzeyinde gerçekleştirerek belirteç (token) kullanımını azaltıyor.",
+          "meta": "C · ★ 20.524 · +2.190 bugün"
+        },
+        {
+          "title": "cupy/cupy",
+          "url": "https://github.com/cupy/cupy",
+          "summary": "CuPy, sayısal hesaplama kütüphanesi NumPy ve SciPy arayüzlerini grafik işlem birimi (GPU) hızlandırmasıyla birleştiriyor. Python tabanlı bu kütüphane, CUDA çekirdeklerini kullanarak karmaşık matematiksel işlemleri hızlandırıyor.",
+          "meta": "Python · ★ 11.639 · +174 bugün"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice, macOS işletim sistemi üzerinde tamamen çevrim dışı çalışan hızlı bir sesli dikte (voice to text) uygulamasıdır. Swift diliyle geliştirilen bu araç, verileri yerel olarak işleyerek gizlilik odaklı bir ses dönüştürme deneyimi sunar.",
+          "meta": "Swift · ★ 3.995 · +365 bugün"
+        },
+        {
+          "title": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "summary": "MinerU, karmaşık PDF ve ofis belgelerini büyük dil modelleri (large language models) için uygun olan işaretleme dili (markdown) veya JSON formatına dönüştüren bir araçtır. Bu çözüm, yapılandırılmamış verileri ajan tabanlı iş akışlarında (agentic workflows) kullanılabilir hale getirmeyi amaçlar.",
+          "meta": "Python · ★ 72.027 · +380 bugün"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading, finansal piyasa verilerini analiz ederek kişisel yatırım kararları alan bir yapay zekâ ajanı (trading agent) sunuyor. Python tabanlı bu proje, piyasa eğilimlerini değerlendirmek için otomatikleştirilmiş işlem stratejileri (trading strategies) geliştiriyor.",
+          "meta": "Python · ★ 14.692 · +492 bugün"
+        },
+        {
+          "title": "ByteByteGoHq/system-design-101",
+          "url": "https://github.com/ByteByteGoHq/system-design-101",
+          "summary": "ByteByteGoHq tarafından hazırlanan system-design-101 deposu, karmaşık sistem mimarilerini görselleştirmeler ve sade bir dille açıklıyor. Yazılım mühendisliği mülakatlarına hazırlananlar için sistem tasarımı (system design) kavramlarını temelden ileri seviyeye taşıyan bir kaynak sunuyor.",
+          "meta": "★ 84.839 · +250 bugün"
+        },
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix, uygulamalardaki güvenlik açıklarını tespit etmek ve gidermek için tasarlanmış açık kaynaklı bir yapay zekâ tabanlı güvenlik aracıdır (AI security tool). Python diliyle geliştirilen bu sistem, yazılım geliştirme süreçlerinde zafiyet tarama ve düzeltme işlemlerini otomatize eder.",
+          "meta": "Python · ★ 27.035 · +122 bugün"
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "Video-use kütüphanesi, kodlama ajanlarının (coding agents) video düzenleme süreçlerini otomatize etmesine olanak tanıyor. Python tabanlı bu araç, görsel düzenleme görevlerini yazılım komutları aracılığıyla yerine getirerek iş akışlarını hızlandırıyor.",
+          "meta": "Python · ★ 11.471 · +196 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GLM 5.2 beats Claude in our benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+          "summary": "Semgrep tarafından paylaşılan test sonuçları, GLM 5.2 modelinin siber güvenlik odaklı kıyaslama testlerinde (benchmarks) Claude modellerini geride bıraktığını gösteriyor. Model, kod analizi ve güvenlik açıklarını tespit etme süreçlerinde yüksek performans sergiliyor.",
+          "meta": "810 oy · 378 yorum"
+        },
+        {
+          "title": "The KIDS Act would require age checks to get online",
+          "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+          "summary": "Çocukların İnternet Güvenliğini Koruma (KIDS) Yasası, çevrim içi platformlara erişim için zorunlu yaş doğrulama (age verification) sistemleri getirmeyi planlıyor. Bu düzenleme, kullanıcıların dijital kimliklerini kanıtlamasını şart koşarak internet üzerindeki anonimliği ve veri gizliliğini tartışmaya açıyor.",
+          "meta": "469 oy · 368 yorum"
+        },
+        {
+          "title": "I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "summary": "Kullanıcılar, tıbbi görüntüleme (MRI) sonuçlarını analiz etmek için komut satırı arayüzü (CLI) tabanlı kodlama asistanı Claude Code aracını kullanıyor. Bu yöntem, görüntü verilerinin işlenmesi ve yorumlanması sürecinde yapay zekâ destekli ikinci bir görüş alma pratiğini yaygınlaştırıyor.",
+          "meta": "425 oy · 556 yorum"
+        },
+        {
+          "title": "Age verification is just a precursor to automated attribution of speech",
+          "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+          "summary": "Dijital platformlarda uygulanan yaş doğrulama (age verification) süreçleri, internet üzerindeki içeriklerin kimlik ile ilişkilendirilmesini sağlayan otomatik atıf (automated attribution) sistemlerine geçişin ilk aşamasını oluşturuyor. Bu teknik altyapı, çevrim içi ifade özgürlüğü ve anonimlik kavramlarının gelecekteki yasal düzenlemelerle nasıl şekilleneceğine dair tartışmaları beraberinde getiriyor.",
+          "meta": "409 oy · 220 yorum"
+        },
+        {
+          "title": "Professor denounces mass AI fraud on an exam at Brown",
+          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+          "summary": "Brown Üniversitesi'nde bir profesör, sınavlarda kitlesel ölçekte üretken yapay zekâ (generative AI) kullanımıyla gerçekleşen akademik dürüstlük ihlallerine dikkat çekiyor. Bu durum, eğitim kurumlarının yapay zekâ destekli kopya (AI-assisted cheating) karşısında değerlendirme yöntemlerini yeniden gözden geçirmesini zorunlu kılıyor.",
+          "meta": "396 oy · 525 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel tabanlı metinleri metin çıktısına dönüştüren bir optik karakter tanıma (optical character recognition) modelidir. Karmaşık dokümanlardaki verileri işlemek için görüntüden metne (image-to-text) dönüştürme yeteneği sunar.",
+          "meta": "♥ 1.288 · 295.064 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text-generation) odaklı bir dil modelidir. Hugging Face platformunda yüksek ilgi gören bu model, doğal dil işleme görevlerinde metin oluşturma kapasitesi sunuyor.",
+          "meta": "♥ 2.861 · 118.651 indirme"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M modeli, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir çok modlu (multimodal) yapay zekâ modelidir. GGUF formatında sunulan bu model, yerel cihazlarda çalıştırılmak üzere optimize edilmiş düşük bellek kullanımıyla dikkat çekiyor.",
+          "meta": "♥ 845 · 831.529 indirme"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Gemma-4-12B tabanlı bu model, metin üretimi (text generation) görevlerinde kullanılmak üzere optimize edilmiş bir yapı sunuyor. GGUF formatında sunulan bu çalışma, yerel cihazlarda çalıştırılabilen ajan tabanlı (agentic) iş akışlarını desteklemeyi amaçlıyor.",
+          "meta": "♥ 814 · 225.822 indirme"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "summary": "Empero-ai tarafından geliştirilen Qwythos-9B, metin üretimi (text generation) odaklı bir dil modelidir. 9 milyar parametreli bu model, geniş bağlam penceresi desteğiyle karmaşık içerik oluşturma süreçlerinde kullanılıyor.",
+          "meta": "♥ 534 · 52.492 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "user identifiers",
+      "explanation": "Bir uygulamada veya internet sitesinde sizi diğer kişilerden ayırt etmeye yarayan benzersiz kullanıcı numaraları veya kodları."
+    },
+    {
+      "term": "free tier",
+      "explanation": "Bir hizmetin veya uygulamanın, kullanıcıların belirli sınırlara kadar hiçbir ücret ödemeden kullanabildiği başlangıç seviyesi."
+    },
+    {
+      "term": "driver assistance system",
+      "explanation": "Sürüş sırasında güvenliği artırmak için şerit takibi veya otomatik frenleme gibi özelliklerle sürücüye yardımcı olan teknolojik donanımlar."
+    },
+    {
+      "term": "value investing",
+      "explanation": "Gerçek değerinden daha düşük fiyatlandığını düşündüğünüz hisse senetlerini, uzun vadeli kazanç hedefiyle satın alma yöntemi."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Karmaşık bir görevi yerine getirmek için birbirleriyle iletişim kurarak iş birliği yapan birden fazla yapay zekâ yazılımının bir arada çalışması."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Farklı bilgiler arasındaki ilişkileri birbirine bağlayarak bir ağ yapısında sunan, verilerin anlamlı bir şekilde düzenlendiği sistem."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekâ modellerinin metinleri işlerken kullandığı, kelimelerin veya hecelerin sayısal karşılığı olan en küçük veri parçası."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Görüntü işleme ve yapay zekâ hesaplamaları gibi yoğun matematiksel işlemleri çok hızlı yapabilen özel bilgisayar işlemcisi."
+    },
+    {
+      "term": "voice to text",
+      "explanation": "Söylediğiniz sözcükleri algılayıp bunları dijital ortamda yazılı metne dönüştüren teknoloji."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "markdown",
+      "explanation": "Karmaşık kodlar kullanmadan, basit işaretlerle metinleri biçimlendirmeye yarayan hafif bir yazım dili."
+    },
+    {
+      "term": "agentic workflows",
+      "explanation": "Yapay zekâ yazılımlarının bir işi tamamlamak için kendi kararlarını alıp adımları sırasıyla yönettiği çalışma süreçleri."
+    },
+    {
+      "term": "trading agent",
+      "explanation": "Borsa veya kripto para piyasalarında sizin yerinize piyasa verilerini analiz edip otomatik alım satım yapan yazılım."
+    },
+    {
+      "term": "trading strategies",
+      "explanation": "Yatırım yaparken hangi koşullarda alım veya satım yapılacağını belirleyen önceden tanımlanmış kurallar bütünü."
+    },
+    {
+      "term": "system design",
+      "explanation": "Büyük ölçekli yazılımların nasıl çalışacağını, parçaların birbiriyle nasıl haberleşeceğini ve verilerin nasıl saklanacağını planlama süreci."
+    },
+    {
+      "term": "AI security tool",
+      "explanation": "Yapay zekâ sistemlerini dışarıdan gelebilecek saldırılara, hatalı veri girişlerine veya kötü niyetli kullanımlara karşı koruyan yazılım."
+    }
+  ]
+}
