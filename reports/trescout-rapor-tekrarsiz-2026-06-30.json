@@ -1,0 +1,113 @@
+{
+  "date": "2026-06-30",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "logto-io/logto",
+          "url": "https://github.com/logto-io/logto",
+          "summary": "Logto, SaaS ve yapay zekâ uygulamaları için Açık Kimlik Doğrulama (OIDC) ve OAuth 2.1 protokollerini temel alan bir kimlik doğrulama ve yetkilendirme altyapısı sunuyor. Çoklu kiracılık (multi-tenancy), tek oturum açma (SSO) ve rol tabanlı erişim denetimi (RBAC) gibi özellikleri TypeScript ile geliştirilmiş bir yapıda birleştiriyor.",
+          "meta": "TypeScript · ★ 12.903 · +158 bugün"
+        },
+        {
+          "title": "Unclecheng-li/VulnClaw",
+          "url": "https://github.com/Unclecheng-li/VulnClaw",
+          "summary": "VulnClaw, yapay zekâ ajanları (AI agents) ve model bağlam protokolü (Model Context Protocol) araç zincirini kullanarak sızma testi süreçlerini otomatize ediyor. Araç, doğal dil komutlarını işleyerek bilgi toplama, zafiyet tarama, istismar ve raporlama adımlarını uçtan uca gerçekleştiriyor.",
+          "meta": "Python · ★ 1.313 · +129 bugün"
+        },
+        {
+          "title": "0xNyk/council-of-high-intelligence",
+          "url": "https://github.com/0xNyk/council-of-high-intelligence",
+          "summary": "Council of High Intelligence, farklı büyük dil modellerini (large language models) kullanarak çeşitli uzman kişilikler üzerinden yapılandırılmış karar verme süreçleri yürütüyor. Sistem, karmaşık problemleri çok turlu tartışmalarla analiz ederek farklı yapay zekâ modellerinin bakış açılarını birleştiriyor.",
+          "meta": "Shell · ★ 2.176 · +331 bugün"
+        },
+        {
+          "title": "veracrypt/VeraCrypt",
+          "url": "https://github.com/veracrypt/VeraCrypt",
+          "summary": "VeraCrypt, TrueCrypt temel alınarak geliştirilen ve güçlü güvenlik standartları sunan bir disk şifreleme (disk encryption) aracıdır. C diliyle yazılan bu açık kaynaklı yazılım, verilerin güvenliğini sağlamak için çeşitli şifreleme algoritmaları ve kimlik doğrulama yöntemleri kullanır.",
+          "meta": "C · ★ 10.574 · +186 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Qwen 3.6 27B is the sweet spot for local development",
+          "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+          "summary": "Qwen 2.5 32B modelinin yerel geliştirme süreçlerinde performans ve kaynak kullanımı açısından ideal bir denge sunduğu belirtiliyor. Bu model, donanım gereksinimleri ile işlem kapasitesi arasında kurduğu verimli ilişki sayesinde yerel yapay zekâ uygulamaları için tercih ediliyor.",
+          "meta": "886 oy · 600 yorum"
+        },
+        {
+          "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+          "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+          "summary": "Daniel Sanchez Estrada'nın dergi (zine) dağıtımı nedeniyle otuz yıl hapis cezasına çarptırılması, ifade özgürlüğü (free speech) kapsamında hukuki tartışmaları tetikliyor. Bu karar, yayın dağıtım faaliyetlerinin cezai yaptırımlarla karşı karşıya kalması nedeniyle dijital ve basılı içerik paylaşımında emsal oluşturma riski taşıyor.",
+          "meta": "539 oy · 331 yorum"
+        },
+        {
+          "title": "US Supreme Court rules geofence warrants require constitutional protections",
+          "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+          "summary": "ABD Yüksek Mahkemesi, coğrafi çit (geofence) tabanlı arama emirlerinin anayasal koruma gerektirdiğine hükmetti. Bu karar, kolluk kuvvetlerinin belirli bir bölgedeki tüm kullanıcı verilerini toplamasını dijital gizlilik hakları kapsamında kısıtlıyor.",
+          "meta": "516 oy · 243 yorum"
+        },
+        {
+          "title": ".self: A new top-level domain designed to support self-hosting",
+          "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+          "summary": ".self üst seviye alan adı (top-level domain), kullanıcıların kendi sunucularında barındırma (self-hosting) süreçlerini desteklemek amacıyla geliştirildi. Bu alan adı uzantısı, dijital varlıkların merkeziyetsiz bir yapıda kişisel kontrol altında tutulmasını hedefliyor.",
+          "meta": "486 oy · 276 yorum"
+        },
+        {
+          "title": "Free the Icons",
+          "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+          "summary": "Apple, macOS işletim sisteminde uygulama simgelerinin özelleştirilmesini kısıtlayan yeni güvenlik protokolleri getiriyor. Yazılım geliştiricileri, bu kısıtlamaların kullanıcı deneyimini ve kişiselleştirme (personalization) imkanlarını sınırlandırdığını savunuyor.",
+          "meta": "420 oy · 114 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "DeepReinforce tarafından yayınlanan Ornith-1.0-35B-GGUF, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Model, donanım kaynaklarını verimli kullanmak amacıyla genel grafik işlem birimi formatı (GGUF) ile sıkıştırılarak sunulmaktadır.",
+          "meta": "♥ 492 · 123.598 indirme"
+        },
+        {
+          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+          "summary": "Qwen tarafından geliştirilen Qwen-AgentWorld-35B-A3B, metin üretimi (text generation) odaklı bir yapay zekâ modelidir. Bu model, ajan tabanlı görevleri yerine getirmek üzere özelleştirilmiş bir mimari sunar.",
+          "meta": "♥ 444 · 26.223 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip belirli görevleri yerine getirebilen otonom yapay zekâ yazılımları."
+    },
+    {
+      "term": "local",
+      "explanation": "Verilerin veya programların internete ihtiyaç duymadan doğrudan kendi cihazınızda çalışması."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Yazılımı bilgisayarınıza kurmak yerine internet üzerinden kiralayarak kullanma modeli."
+    },
+    {
+      "term": "OIDC",
+      "explanation": "Farklı sitelere giriş yaparken kimliğinizi güvenli bir şekilde doğrulayan standart protokol."
+    },
+    {
+      "term": "multi-tenancy",
+      "explanation": "Tek bir yazılımın aynı anda birçok farklı kullanıcıya veya şirkete birbirinden bağımsız şekilde hizmet vermesi."
+    },
+    {
+      "term": "SSO",
+      "explanation": "Tek bir kullanıcı adı ve şifre ile birden fazla farklı uygulamaya giriş yapabilme kolaylığı."
+    }
+  ]
+}
