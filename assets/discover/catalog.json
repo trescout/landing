@@ -3511,5 +3511,70 @@
     "stars": 11471,
     "lite": false,
     "headline": "yapay zekâ ile otomatik video düzenleme"
+  },
+  {
+    "slug": "logto",
+    "title": "Logto",
+    "tagline": "Logto, SaaS ve yapay zekâ uygulamaları için Açık Kimlik Doğrulama (OIDC) ve OAuth 2.1 protokollerini temel alan bir kimlik…",
+    "meta": "★ 12.903 · TypeScript",
+    "image": "/assets/discover/og/logto.webp",
+    "source": "GitHub",
+    "date": "2026-06-30",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 12903,
+    "lite": false,
+    "headline": "SaaS ve yapay zekâ uygulamaları için kimlik doğrulama"
+  },
+  {
+    "slug": "vulnclaw",
+    "title": "VulnClaw",
+    "tagline": "VulnClaw, yapay zekâ ajanları (AI agents) ve model bağlam protokolü (Model Context Protocol) araç zincirini kullanarak sızma…",
+    "meta": "★ 1.313 · Python",
+    "image": "/assets/discover/og/vulnclaw.webp",
+    "source": "GitHub",
+    "date": "2026-06-30",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1313,
+    "lite": false,
+    "headline": "yapay zekâ ile otomatik sızma testi"
+  },
+  {
+    "slug": "council-of-high-intelligence",
+    "title": "Council of High Intelligence",
+    "tagline": "Council of High Intelligence, farklı büyük dil modellerini (large language models) kullanarak çeşitli uzman kişilikler…",
+    "meta": "★ 2.176 · Shell",
+    "image": "/assets/discover/og/council-of-high-intelligence.webp",
+    "source": "GitHub",
+    "date": "2026-06-30",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 2176,
+    "lite": false,
+    "headline": "yapay zekâ ile çok yönlü karar verme"
+  },
+  {
+    "slug": "veracrypt",
+    "title": "VeraCrypt",
+    "tagline": "VeraCrypt, TrueCrypt temel alınarak geliştirilen ve güçlü güvenlik standartları sunan bir disk şifreleme (disk encryption)…",
+    "meta": "★ 10.574 · C",
+    "image": "/assets/discover/og/veracrypt.webp",
+    "source": "GitHub",
+    "date": "2026-06-30",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 10574,
+    "lite": false,
+    "headline": "Güçlü disk şifreleme aracı",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

@@ -30,7 +30,7 @@ AWS üzerinde uygulama geliştirme, dağıtma ve yönetme süreçlerimde bana ya
 - [GitHub deposu →](https://github.com/aws/agent-toolkit-for-aws)
 
 ## İlgili sözlük terimleri
-MCP AI Skills Artificial Intelligence 
+AI Skills MCP Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -1797,5 +1797,47 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay zekâ modellerini siber saldırılara, veri sızıntılarına ve kötü niyetli manipülasyonlara karşı koruyan yazılım."
+  },
+  {
+    "slug": "array-operations",
+    "en": "Array Operations",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayar hafızasında yan yana dizilmiş veri grupları üzerinde yapılan toplu matematiksel işlemlerdir."
+  },
+  {
+    "slug": "offline-dictation",
+    "en": "Offline Dictation",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnternet bağlantısı gerektirmeden, konuşulanları anlık olarak metne dönüştüren teknolojidir."
+  },
+  {
+    "slug": "local",
+    "en": "Local",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Programların veya verilerin internete ihtiyaç duymadan, tamamen sizin cihazınızda çalışmasıdır."
+  },
+  {
+    "slug": "operating-system-for-robotics",
+    "en": "Operating System for Robotics",
+    "full": "ROS",
+    "cat": "dev",
+    "kisa": "Robotların hareketlerini, sensörlerini ve karmaşık parçalarını yöneten özel bir yazılım altyapısıdır."
+  },
+  {
+    "slug": "oidc",
+    "en": "OIDC",
+    "full": "OpenID Connect",
+    "cat": "dev",
+    "kisa": "Farklı sitelere giriş yaparken kimliğinizi güvenli bir şekilde doğrulayan standart bir protokoldür."
+  },
+  {
+    "slug": "multi-tenancy",
+    "en": "Multi-tenancy",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Tek bir yazılımın, aynı anda birçok farklı kullanıcıya veya şirkete birbirinden bağımsız hizmet vermesidir."
   }
 ]

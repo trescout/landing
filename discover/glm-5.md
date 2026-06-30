@@ -22,7 +22,7 @@ GLM-5 serisi modelleri kullanmaya başlamak için z.ai platformu üzerinden API 
 - [GitHub deposu →](https://github.com/zai-org/GLM-5)
 
 ## İlgili sözlük terimleri
-Vibe Coding AI Agents Agentic Engineering Agents Token API 
+Vibe Coding Agentic Engineering AI Agents Token Agents API 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
