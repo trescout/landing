@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-01",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "Hasaneyldrm tarafından paylaşılan egzersiz veri seti (exercises-dataset), 433 farklı fitness hareketini isim, hedef kas grubu, ekipman ve görsel talimatlarla birlikte sunuyor. Bu kapsamlı kaynak, spor teknolojileri uygulamaları geliştirenler için yapılandırılmış bir veri altyapısı sağlıyor.",
+          "meta": "HTML · ★ 7.552 · +1.343 bugün"
+        },
+        {
+          "title": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "summary": "OmniRoute, 231'den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir ağ geçididir (gateway). Gelişmiş sıkıştırma teknikleriyle jeton (token) kullanımını azaltırken, akıllı yedekleme ve çok modlu arayüz desteğiyle geliştirici araçlarını optimize eder.",
+          "meta": "TypeScript · ★ 8.906 · +387 bugün"
+        },
+        {
+          "title": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "summary": "Ortak Kullanıcı Parola Profilleyici (Common User Passwords Profiler), hedef odaklı parola listeleri oluşturmak için kullanılan bir Python aracıdır. Belirli kullanıcı verilerini analiz ederek özelleştirilmiş sözlük dosyaları (wordlists) hazırlar.",
+          "meta": "Python · ★ 6.161 · +32 bugün"
+        },
+        {
+          "title": "google/agents-cli",
+          "url": "https://github.com/google/agents-cli",
+          "summary": "Google tarafından geliştirilen komut satırı arayüzü (CLI), kodlama asistanlarını Google Bulut (Google Cloud) üzerinde yapay zekâ ajanları oluşturma, değerlendirme ve dağıtma konusunda uzmanlaştırıyor. Python tabanlı bu araç, ajan geliştirme süreçlerini standartlaştırarak bulut altyapısı üzerindeki operasyonel iş akışlarını hızlandırıyor.",
+          "meta": "Python · ★ 4.413 · +445 bugün"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Rust diliyle geliştirilen herdr, uçbirim (terminal) üzerinde çalışan bir ajan çoklayıcı (agent multiplexer) olarak görev yapıyor. Bu araç, kullanıcıların terminal ortamında birden fazla yapay zekâ ajanını eş zamanlı yönetmesine olanak tanıyor.",
+          "meta": "Rust · ★ 9.203 · +486 bugün"
+        },
+        {
+          "title": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "summary": "Instatic, TypeScript tabanlı, kendi kendine barındırılan (self-hosted) modern bir görsel içerik yönetim sistemi (CMS) olarak sunuluyor. Kullanıcıların hızlı kurulum süreciyle içerik yönetimi arayüzünü kendi sunucularında çalıştırmasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 1.681 · +351 bugün"
+        },
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "Microsoft tarafından hazırlanan AI for Beginners, 12 haftalık bir müfredatla yapay zekâya giriş konularını Jupyter not defterleri (Jupyter Notebooks) üzerinden öğretiyor. 24 derslik bu içerik, temel kavramları uygulamalı örneklerle öğrenmek isteyenler için yapılandırılmış bir eğitim kaynağı sunuyor.",
+          "meta": "Jupyter Notebook · ★ 49.751 · +252 bugün"
+        },
+        {
+          "title": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "summary": "Meta tarafından geliştirilen Astryx, tamamen özelleştirilebilir ve yapay zekâ ajanlarıyla uyumlu (agent ready) bir tasarım sistemi (design system) sunuyor. TypeScript tabanlı bu açık kaynaklı kütüphane, arayüz bileşenlerini otonom sistemlerin kullanımına uygun şekilde yapılandırıyor.",
+          "meta": "TypeScript · ★ 2.000 · +364 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Code is steganographically marking requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "summary": "Anthropic tarafından geliştirilen Claude Code aracı, gönderilen istemlere görünmez veriler ekleyerek steganografi yöntemiyle işaretleme yapıyor. Bu teknik, yapay zekâ modellerinin kullanım verilerini takip etmek ve güvenlik süreçlerini yönetmek amacıyla geliştirilen bir izleme mekanizması işlevi görüyor.",
+          "meta": "1.870 oy · 529 yorum"
+        },
+        {
+          "title": "Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "summary": "Anthropic, Claude 3.5 Sonnet modelinin güncellenmiş sürümünü yayınlayarak kodlama ve muhakeme yeteneklerinde performans artışı sağladı. Yeni model, bilgisayar kullanımı (computer use) yeteneğiyle arayüzler üzerinden doğrudan işlem yapabilme kapasitesini genişletiyor.",
+          "meta": "1.092 oy · 627 yorum"
+        },
+        {
+          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+          "summary": "Ticaret Bakanlığı, Claude Fable 5 ve Mythos 5 modellerine yönelik ihracat kontrollerini kaldırdı. Bu düzenleme, söz konusu yapay zekâ modellerinin uluslararası pazarlarda ticari erişimini ve kullanımını serbest bırakıyor.",
+          "meta": "635 oy · 344 yorum"
+        },
+        {
+          "title": "Claude Science",
+          "url": "https://claude.com/product/claude-science",
+          "summary": "Anthropic, bilimsel araştırmalardaki karmaşık veri setlerini analiz etmek ve hipotezleri doğrulamak için tasarlanan Claude Science aracını kullanıma sundu. Bu araç, büyük dil modellerinin (large language models) akademik literatür taraması ve veri işleme süreçlerindeki yetkinliklerini artırmayı hedefliyor.",
+          "meta": "471 oy · 142 yorum"
+        },
+        {
+          "title": "Nano Banana 2 Lite",
+          "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+          "summary": "Google, düşük gecikmeli görsel işleme süreçleri için optimize edilen Gemini Flash Lite modelini duyurdu. Bu model, sınırlı kaynaklara sahip cihazlarda hızlı görüntü analizi (image analysis) gerçekleştirmek üzere tasarlandı.",
+          "meta": "363 oy · 144 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "exercises-dataset",
+      "explanation": "Bir konuyu öğrenirken pratik yapmanızı sağlayan, düzenlenmiş alıştırma verileri bütünü."
+    },
+    {
+      "term": "endpoint",
+      "explanation": "Ağa bağlı olan bilgisayar, telefon veya tablet gibi uç noktadaki cihazlar."
+    },
+    {
+      "term": "gateway",
+      "explanation": "Farklı ağlar arasında veri trafiğini yöneten ve geçişi sağlayan bağlantı noktası."
+    },
+    {
+      "term": "token",
+      "explanation": "Dijital işlemlerde kimliğinizi doğrulayan veya sistemlere erişim izni veren geçici güvenlik anahtarı."
+    },
+    {
+      "term": "Common User Passwords Profiler",
+      "explanation": "İnsanların sıkça kullandığı zayıf şifreleri analiz ederek güvenlik açıklarını belirleyen bir araç."
+    },
+    {
+      "term": "wordlists",
+      "explanation": "Sistemlere giriş denemeleri yapmak için kullanılan, sık tercih edilen kelimelerin ve şifrelerin bulunduğu listeler."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "Google Cloud",
+      "explanation": "Google tarafından sunulan, internet üzerinden veri depolama ve uygulama çalıştırma hizmetleri platformu."
+    }
+  ]
+}
