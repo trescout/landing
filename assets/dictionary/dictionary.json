@@ -1839,5 +1839,61 @@
     "full": "",
     "cat": "dev",
     "kisa": "Tek bir yazılımın, aynı anda birçok farklı kullanıcıya veya şirkete birbirinden bağımsız hizmet vermesidir."
+  },
+  {
+    "slug": "exercises-dataset",
+    "en": "Exercises Dataset",
+    "full": "",
+    "cat": "data",
+    "kisa": "Bir konuyu öğrenirken pratik yapmanızı sağlayan düzenlenmiş alıştırma verileri bütünüdür."
+  },
+  {
+    "slug": "penetration-testing",
+    "en": "Penetration Testing",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Sistemlerin güvenliğini test etmek için uzmanlar tarafından yapılan kontrollü siber saldırı denemeleridir."
+  },
+  {
+    "slug": "speech-to-text",
+    "en": "Speech-to-Text",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Söylenen sözleri dinleyip bunları otomatik olarak yazılı metne dönüştüren teknolojidir."
+  },
+  {
+    "slug": "endpoint",
+    "en": "Endpoint",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Ağa bağlı olan bilgisayar, telefon veya tablet gibi uç noktadaki cihazlardır."
+  },
+  {
+    "slug": "gateway",
+    "en": "Gateway",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Farklı ağlar arasında veri trafiğini yöneten ve geçişi sağlayan bağlantı noktasıdır."
+  },
+  {
+    "slug": "common-user-passwords-profiler",
+    "en": "Common User Passwords Profiler",
+    "full": "CUPS",
+    "cat": "dev",
+    "kisa": "İnsanların sıkça kullandığı zayıf şifreleri analiz ederek güvenlik açıklarını belirleyen bir araçtır."
+  },
+  {
+    "slug": "wordlists",
+    "en": "Wordlists",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Sistemlere giriş denemeleri yapmak için kullanılan, sık tercih edilen kelimelerin ve şifrelerin bulunduğu listelerdir."
+  },
+  {
+    "slug": "google-cloud",
+    "en": "Google Cloud",
+    "full": "Google Cloud Platform",
+    "cat": "dev",
+    "kisa": "Google tarafından sunulan, internet üzerinden veri depolama ve uygulama çalıştırma hizmetleri platformudur."
   }
 ]

@@ -22,7 +22,7 @@ Fanqiang projesi, doğrudan bir yazılım kurulumundan ziyade kapsamlı bir rehb
 - [GitHub deposu →](https://github.com/bannedbook/fanqiang)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Gateway Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -3576,5 +3576,136 @@
     "headline": "Güçlü disk şifreleme aracı",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "exercises-dataset",
+    "title": "Exercises Dataset",
+    "tagline": "Hasaneyldrm tarafından paylaşılan egzersiz veri seti (exercises-dataset), 433 farklı fitness hareketini isim, hedef kas grubu…",
+    "meta": "★ 7.552 · HTML",
+    "image": "/assets/discover/og/exercises-dataset.webp",
+    "source": "GitHub",
+    "date": "2026-07-01",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 7552,
+    "lite": false,
+    "headline": "Çok dilli fitness egzersiz veri seti",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "omniroute",
+    "title": "OmniRoute",
+    "tagline": "OmniRoute, 231'den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir…",
+    "meta": "★ 8.906 · TypeScript",
+    "image": "/assets/discover/og/omniroute.webp",
+    "source": "GitHub",
+    "date": "2026-07-01",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 8906,
+    "lite": false,
+    "headline": "Tüm yapay zekâ sağlayıcılarını birleştirin"
+  },
+  {
+    "slug": "cupp",
+    "title": "Cupp",
+    "tagline": "Ortak Kullanıcı Parola Profilleyici (Common User Passwords Profiler), hedef odaklı parola listeleri oluşturmak için kullanılan…",
+    "meta": "★ 6.161 · Python",
+    "image": "/assets/discover/og/cupp.webp",
+    "source": "GitHub",
+    "date": "2026-07-01",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 6161,
+    "lite": false,
+    "headline": "Hedef odaklı parola listesi oluşturma",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "agents-cli",
+    "title": "Agents CLI",
+    "tagline": "Google tarafından geliştirilen komut satırı arayüzü (CLI), kodlama asistanlarını Google Bulut (Google Cloud) üzerinde yapay…",
+    "meta": "★ 4.413 · Python",
+    "image": "/assets/discover/og/agents-cli.webp",
+    "source": "GitHub",
+    "date": "2026-07-01",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 4413,
+    "lite": false,
+    "headline": "Kodlama asistanları için yapay zekâ araçları"
+  },
+  {
+    "slug": "herdr",
+    "title": "Herdr",
+    "tagline": "Rust diliyle geliştirilen herdr, uçbirim (terminal) üzerinde çalışan bir ajan çoklayıcı (agent multiplexer) olarak görev yapıyor.",
+    "meta": "★ 9.203 · Rust",
+    "image": "/assets/discover/og/herdr.webp",
+    "source": "GitHub",
+    "date": "2026-07-01",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 9203,
+    "lite": false,
+    "headline": "Terminalde çoklu yapay zekâ yönetimi"
+  },
+  {
+    "slug": "instatic",
+    "title": "Instatic",
+    "tagline": "Instatic, TypeScript tabanlı, kendi kendine barındırılan (self-hosted) modern bir görsel içerik yönetim sistemi (CMS) olarak…",
+    "meta": "★ 1.681 · TypeScript",
+    "image": "/assets/discover/og/instatic.webp",
+    "source": "GitHub",
+    "date": "2026-07-01",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1681,
+    "lite": false,
+    "headline": "Kendi sunucunuzda modern yapay zekâ destekli CMS"
+  },
+  {
+    "slug": "ai-for-beginners",
+    "title": "AI-For-Beginners",
+    "tagline": "Microsoft tarafından hazırlanan AI for Beginners, 12 haftalık bir müfredatla yapay zekâya giriş konularını Jupyter not…",
+    "meta": "★ 49.751 · Jupyter Notebook",
+    "image": "/assets/discover/og/ai-for-beginners.webp",
+    "source": "GitHub",
+    "date": "2026-07-01",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 49751,
+    "lite": false,
+    "headline": "12 haftalık yapay zekâ müfredatı",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "astryx",
+    "title": "Astryx",
+    "tagline": "Meta tarafından geliştirilen Astryx, tamamen özelleştirilebilir ve yapay zekâ ajanlarıyla uyumlu (agent ready) bir tasarım…",
+    "meta": "★ 2.000 · TypeScript",
+    "image": "/assets/discover/og/astryx.webp",
+    "source": "GitHub",
+    "date": "2026-07-01",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 2000,
+    "lite": false,
+    "headline": "yapay zekâ uyumlu tasarım sistemi"
   }
 ]

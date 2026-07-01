@@ -30,7 +30,7 @@ Google ürünleri ve teknolojileriyle etkileşim kuran yapay zekâ ajanları gel
 - [GitHub deposu →](https://github.com/google/skills)
 
 ## İlgili sözlük terimleri
-AI Skills API Artificial Intelligence 
+Google Cloud AI Skills API Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

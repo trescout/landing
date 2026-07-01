@@ -72,7 +72,7 @@ OpenWA aracını kullanarak WhatsApp üzerinden mesajlaşma süreçlerimi otomat
 - [GitHub deposu →](https://github.com/rmyndharis/OpenWA)
 
 ## İlgili sözlük terimleri
-API Gateway Self-hosted API Artificial Intelligence 
+API Gateway Gateway Self-hosted API Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
