@@ -1,0 +1,89 @@
+{
+  "date": "2026-07-02",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "summary": "AllenAI tarafından geliştirilen olmocr, PDF belgelerini büyük dil modelleri (large language models) için uygun metin formatlarına dönüştüren bir araç takımıdır. Bu yazılım, karmaşık doküman yapılarının doğrusal bir biçimde işlenmesini sağlayarak veri seti hazırlama süreçlerini kolaylaştırır.",
+          "meta": "Python · ★ 18.418 · +334 bugün"
+        },
+        {
+          "title": "togatoga/karukan",
+          "url": "https://github.com/togatoga/karukan",
+          "summary": "Rust diliyle geliştirilen Karukan, Linux ve macOS işletim sistemleri için sinirsel kana-kanji dönüştürme motoru (neural kana-kanji conversion engine) kullanan bir Japonca giriş yöntemi sistemidir (Japanese Input Method System). Yazılım, geleneksel yöntemlerin ötesine geçerek metin dönüştürme süreçlerinde yapay zekâ tabanlı bir yaklaşım sunar.",
+          "meta": "Rust · ★ 615 · +42 bugün"
+        },
+        {
+          "title": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "summary": "TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ ajanları (AI agents) için anlık, eş zamanlı ve güvenli bir çalışma ortamı (sandbox) sunuyor. Hafif yapısıyla dikkat çeken bu araç, ajan tabanlı sistemlerin yalıtılmış bir alanda çalışmasını sağlıyor.",
+          "meta": "Rust · ★ 6.927 · +79 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "For first time, a cell built from scratch grows and divides",
+          "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+          "summary": "Sıfırdan tasarlanan sentetik hücreler, laboratuvar ortamında ilk kez büyüme ve bölünme süreçlerini başarıyla tamamladı. Bu gelişme, biyolojik sistemlerin temel işleyişini yeniden oluşturma ve yaşamın kökenlerini anlama çalışmalarında kritik bir aşamayı temsil ediyor.",
+          "meta": "836 oy · 274 yorum"
+        },
+        {
+          "title": "ZCode – Harness for GLM-5.2",
+          "url": "https://zcode.z.ai/en",
+          "summary": "ZCode, GLM-5.2 dil modelleri için geliştirilmiş bir test ve değerlendirme çerçevesi (harness) sunuyor. Bu araç, büyük dil modellerinin (large language models) performansını ölçümlemek ve geliştirme süreçlerini standartlaştırmak için kullanılıyor.",
+          "meta": "354 oy · 280 yorum"
+        },
+        {
+          "title": "FFmpeg 9.1's new AAC encoder",
+          "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+          "summary": "FFmpeg 9.1 sürümü, ses kodlama kalitesini artıran yeni bir gelişmiş ses kodlayıcı (AAC encoder) içeriyor. Bu güncelleme, özellikle düşük bit hızlarında daha yüksek ses sadakati ve verimli sıkıştırma performansı sağlıyor.",
+          "meta": "352 oy · 109 yorum"
+        },
+        {
+          "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+          "url": "https://www.workerowned.info/",
+          "summary": "Çalışanların ortak olduğu kooperatifler (worker-owned co-ops) tarafından üretilen 22 binden fazla ürünü listeleyen dizin, kullanıcıların bu işletmelere doğrudan ulaşmasını sağlıyor. Platform, kooperatif odaklı ürünlerin keşfedilebilirliğini artırarak alternatif bir pazar yeri (marketplace) deneyimi sunuyor.",
+          "meta": "327 oy · 65 yorum"
+        },
+        {
+          "title": "What to learn to be a graphics programmer",
+          "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+          "summary": "Grafik programcısı olmak isteyenler için matematiksel temeller, donanım mimarisi ve grafik uygulama arayüzleri (graphics APIs) gibi temel yetkinlikler öne çıkıyor. Bu yol haritası, düşük seviyeli sistem programlama ve görselleştirme tekniklerini öğrenmek isteyenler için kapsamlı bir öğrenme süreci sunuyor.",
+          "meta": "313 oy · 162 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "summary": "DeepReinforce-AI tarafından geliştirilen Ornith-1.0-9B-GGUF, metin üretimi (text generation) odaklı bir dil modelidir. Model, donanım kaynaklarını verimli kullanmak amacıyla GGUF formatında sıkıştırılarak sunulmaktadır.",
+          "meta": "♥ 375 · 191.409 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "neural kana-kanji conversion engine",
+      "explanation": "Japonca yazım sistemindeki fonetik karakterleri anlamlı sembollere dönüştüren yapay zekâ tabanlı yazılım motoru."
+    },
+    {
+      "term": "Japanese Input Method System",
+      "explanation": "Japonca karakterlerin klavye üzerinden yazılmasını sağlayan giriş aracı."
+    }
+  ]
+}
