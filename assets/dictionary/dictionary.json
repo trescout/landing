@@ -1930,5 +1930,19 @@
     "full": "IME",
     "cat": "dev",
     "kisa": "Japonca karakterlerin standart bir klavye ile yazılmasını sağlayan arayüz yazılımıdır."
+  },
+  {
+    "slug": "design-system",
+    "en": "Design System",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Uygulama geliştirirken kullanılan tasarım standartları ve bileşenler bütünüdür."
+  },
+  {
+    "slug": "ai-gateway",
+    "en": "AI Gateway",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zeka modellerine giden trafiği yöneten ve denetleyen bir geçit yazılımıdır."
   }
 ]
