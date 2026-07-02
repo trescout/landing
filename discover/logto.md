@@ -37,7 +37,7 @@ Logto kullanarak uygulamam için güvenli bir kimlik doğrulama sistemi kurmak i
 - [GitHub deposu →](https://github.com/logto-io/logto)
 
 ## İlgili sözlük terimleri
-OIDC Multi-tenancy SSO SaaS SDK Artificial Intelligence 
+OIDC Multi-tenancy RBAC SSO SaaS SDK 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

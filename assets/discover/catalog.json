@@ -3707,5 +3707,57 @@
     "stars": 2000,
     "lite": false,
     "headline": "yapay zekâ uyumlu tasarım sistemi"
+  },
+  {
+    "slug": "olmocr",
+    "title": "Olmocr",
+    "tagline": "AllenAI tarafından geliştirilen olmocr, PDF belgelerini büyük dil modelleri (large language models) için uygun metin…",
+    "meta": "★ 18.418 · Python",
+    "image": "/assets/discover/og/olmocr.webp",
+    "source": "GitHub",
+    "date": "2026-07-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 18418,
+    "lite": false,
+    "headline": "PDF belgelerini yapay zekâ için dönüştürün"
+  },
+  {
+    "slug": "karukan",
+    "title": "Karukan",
+    "tagline": "Rust diliyle geliştirilen Karukan, Linux ve macOS işletim sistemleri için sinirsel kana-kanji dönüştürme motoru (neural…",
+    "meta": "★ 615 · Rust",
+    "image": "/assets/discover/og/karukan.webp",
+    "source": "GitHub",
+    "date": "2026-07-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 615,
+    "lite": false,
+    "headline": "yapay zekâ destekli japonca giriş sistemi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "cubesandbox",
+    "title": "CubeSandbox",
+    "tagline": "TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ ajanları (AI agents) için anlık, eş zamanlı ve…",
+    "meta": "★ 6.927 · Rust",
+    "image": "/assets/discover/og/cubesandbox.webp",
+    "source": "GitHub",
+    "date": "2026-07-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 6927,
+    "lite": false,
+    "headline": "yapay zekâ ajanları için güvenli çalışma ortamı",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

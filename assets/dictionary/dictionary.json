@@ -1895,5 +1895,40 @@
     "full": "Google Cloud Platform",
     "cat": "dev",
     "kisa": "Google tarafından sunulan, internet üzerinden veri depolama ve uygulama çalıştırma hizmetleri platformudur."
+  },
+  {
+    "slug": "agent-ready",
+    "en": "Agent Ready",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir yazılımın veya yapay zekâ sisteminin otonom görevler üstlenmeye hazır olduğunu ifade eden durum bilgisidir."
+  },
+  {
+    "slug": "token-compression",
+    "en": "Token Compression",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ modellerinin işlediği veri miktarını azaltarak daha hızlı ve verimli çalışmasını sağlayan teknik bir yöntemdir."
+  },
+  {
+    "slug": "rbac",
+    "en": "RBAC",
+    "full": "Role-Based Access Control",
+    "cat": "dev",
+    "kisa": "Kullanıcılara sistem içindeki görevlerine göre yetki verme ve erişim sınırlandırma yöntemidir."
+  },
+  {
+    "slug": "neural-kana-kanji-conversion-engine",
+    "en": "Neural Kana-Kanji Conversion Engine",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Japonca fonetik yazımı, anlamlı karakterlere dönüştüren yapay zekâ tabanlı bir yazılım motorudur."
+  },
+  {
+    "slug": "japanese-input-method-system",
+    "en": "Japanese Input Method System",
+    "full": "IME",
+    "cat": "dev",
+    "kisa": "Japonca karakterlerin standart bir klavye ile yazılmasını sağlayan arayüz yazılımıdır."
   }
 ]
