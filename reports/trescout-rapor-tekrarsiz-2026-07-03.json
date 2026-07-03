@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-03",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman, Claude Code için geliştirilen ve yapay zekâ modelinin dil kullanımını basitleştirerek belirteç (token) tüketimini yüzde 65 oranında azaltan bir yetenek paketidir. Bu araç, karmaşık komutları ilkel bir dil yapısına indirgeyerek işlem maliyetlerini düşürmeyi hedefler.",
+          "meta": "JavaScript · ★ 81.688 · +926 bugün"
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "Chrome Geliştirici Araçları (Chrome DevTools) için geliştirilen bu sunucu, kodlama yapan yapay zekâ ajanlarının (coding agents) tarayıcı tabanlı hata ayıklama süreçlerini yönetmesini sağlıyor. Model Bağlam Protokolü (Model Context Protocol) üzerinden çalışan bu araç, ajanların web uygulamalarını doğrudan incelemesine ve hata giderme işlemlerini otomatize etmesine olanak tanıyor.",
+          "meta": "TypeScript · ★ 45.204 · +104 bugün"
+        },
+        {
+          "title": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "summary": "GitHub tarafından geliştirilen actions/checkout, yazılım geliştirme süreçlerinde depo kopyalama (repository checkout) işlemlerini otomatize eden bir araçtır. Sürekli entegrasyon (continuous integration) iş akışlarında kaynak kodun çalışma ortamına aktarılmasını sağlar.",
+          "meta": "TypeScript · ★ 8.197 · +26 bugün"
+        },
+        {
+          "title": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "summary": "Agent Skills, yapay zekâ ajanlarının görevlerini yerine getirirken kullandığı yetenekleri (skills) standartlaştıran bir teknik şartname ve dokümantasyon projesidir. Python tabanlı bu yapı, farklı ajan sistemleri arasında yetenek paylaşımını ve birlikte çalışabilirliği (interoperability) kolaylaştırmayı amaçlar.",
+          "meta": "Python · ★ 21.721 · +86 bugün"
+        },
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "OpenAI tarafından geliştirilen Codex eklentisi, Claude Code üzerinde kod inceleme süreçlerini otomatize etmek ve görev delegasyonu sağlamak için kullanılıyor. Bu araç, yazılım geliştirme iş akışlarında farklı yapay zekâ modellerinin (large language models) entegre çalışmasına olanak tanıyor.",
+          "meta": "JavaScript · ★ 22.800 · +352 bugün"
+        },
+        {
+          "title": "langflow-ai/langflow",
+          "url": "https://github.com/langflow-ai/langflow",
+          "summary": "Langflow, yapay zekâ destekli ajanlar ve iş akışları oluşturmak için görsel bir arayüz sunan Python tabanlı bir geliştirme platformudur. Kullanıcılar, karmaşık dil modeli uygulamalarını kod yazmadan sürükle bırak yöntemiyle tasarlayıp yayına alabilir.",
+          "meta": "Python · ★ 150.932 · +117 bugün"
+        },
+        {
+          "title": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "summary": "PyTorch, Python tabanlı tensör hesaplamaları ve dinamik sinir ağları (dynamic neural networks) için güçlü grafik işlem birimi (GPU) hızlandırması sunan bir makine öğrenmesi kütüphanesidir. Derin öğrenme modellerinin geliştirilmesi ve dağıtılması süreçlerinde geniş bir ekosistem desteği sağlar.",
+          "meta": "Python · ★ 101.297 · +65 bugün"
+        },
+        {
+          "title": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "summary": "Harvard Üniversitesi tarafından paylaşılan bu kaynak, makine öğrenmesi sistemleri (machine learning systems) üzerine kapsamlı bir teknik rehber sunuyor. Donanım ve yazılım katmanlarını birleştiren bu çalışma, ölçeklenebilir yapay zekâ altyapılarının tasarım süreçlerini ele alıyor.",
+          "meta": "Python · ★ 25.784 · +68 bugün"
+        },
+        {
+          "title": "ryanmcdermott/clean-code-javascript",
+          "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+          "summary": "Temiz kod (clean code) prensiplerini JavaScript diline uyarlayan bu rehber, yazılım geliştirme süreçlerinde okunabilir ve sürdürülebilir kod yazımı için standartlar sunuyor. Nesne yönelimli programlama (object-oriented programming) ve fonksiyonel programlama ilkelerini pratik örneklerle birleştiriyor.",
+          "meta": "JavaScript · ★ 94.633 · +27 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Virginia bans sale of geolocation data",
+          "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+          "summary": "Virginia eyaleti, kişisel konum verilerinin (geolocation data) pazarlanmasını ve satışını yasaklayan yeni bir düzenlemeyi yürürlüğe koydu. Bu yasal adım, tüketicilerin dijital mahremiyetini korumak amacıyla üçüncü taraf veri komisyoncularının faaliyetlerini sınırlandırıyor.",
+          "meta": "692 oy · 117 yorum"
+        },
+        {
+          "title": "PeerTube is a free, decentralized and federated video platform",
+          "url": "https://github.com/Chocobozzz/PeerTube",
+          "summary": "PeerTube, merkeziyetsiz ve birleşik (federated) yapısıyla video barındırma hizmetlerine alternatif sunan açık kaynaklı bir platformdur. P2P (eşten eşe) protokollerini kullanarak bant genişliği yükünü dağıtmayı ve içerik üzerinde kullanıcı denetimini artırmayı hedefler.",
+          "meta": "592 oy · 274 yorum"
+        },
+        {
+          "title": "Podman v6.0.0",
+          "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+          "summary": "Podman v6.0.0, kapsayıcı yönetimi (container management) süreçlerinde performans artışı ve genişletilmiş API desteği sunuyor. Yeni sürüm, bulut yerel (cloud-native) iş akışları için daha kararlı bir altyapı ve gelişmiş hata ayıklama araçları sağlıyor.",
+          "meta": "478 oy · 188 yorum"
+        },
+        {
+          "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+          "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+          "summary": "Linux 6.9 sürümüyle birlikte, askıya alma (suspend) sırasında disk şifreleme anahtarlarının bellekten silinmesini sağlayan LUKS işlevi devre dışı kaldı. Bu durum, cihazların uyku modundayken fiziksel bellek saldırılarına karşı korunmasız kalmasına yol açıyor.",
+          "meta": "440 oy · 197 yorum"
+        },
+        {
+          "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+          "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+          "summary": "İsviçre'nin yüksek hızlı internet altyapısına erişimindeki başarısı, serbest piyasa rekabeti yerine yerel yönetimlerin ve kamu odaklı düzenlemelerin sağladığı altyapı yatırımlarına dayanıyor. Bu durum, telekomünikasyon sektöründeki piyasa serbestliği (free market) argümanlarının, geniş bant erişimi (broadband access) konusundaki etkinliğini sorgulatıyor.",
+          "meta": "348 oy · 219 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "token",
+      "explanation": "Yapay zekânın metinleri işlerken kullandığı, kelime veya hece parçalarına karşılık gelen en küçük veri birimi."
+    },
+    {
+      "term": "Chrome DevTools",
+      "explanation": "Web tarayıcısının içine gömülü olan, web sitelerinin kodlarını incelemeye ve hataları düzeltmeye yarayan geliştirici aracı."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Yazılımcı gibi davranarak kod yazabilen, hata ayıklayabilen ve projeleri yönetebilen otonom yapay zekâ programları."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarıyla güvenli ve standart bir şekilde iletişim kurmasını sağlayan bağlantı yöntemi."
+    },
+    {
+      "term": "repository checkout",
+      "explanation": "Bir yazılım projesinin tüm dosyalarını merkezi bir sunucudan kendi bilgisayarınıza kopyalama işlemi."
+    },
+    {
+      "term": "continuous integration",
+      "explanation": "Yazılımcıların yazdığı kodların otomatik olarak birleştirilip test edilerek hataların erkenden yakalanmasını sağlayan süreç."
+    },
+    {
+      "term": "skills",
+      "explanation": "Yapay zekâ modellerinin belirli bir görevi yerine getirmek için kullandığı özel yetenekler veya araç setleri."
+    },
+    {
+      "term": "memory",
+      "explanation": "Yapay zekânın geçmişteki konuşmaları veya işlemleri hatırlayarak sonraki adımlarında kullanmasını sağlayan veri saklama alanı."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "interoperability",
+      "explanation": "Farklı sistemlerin veya yazılımların birbirleriyle sorunsuz bir şekilde veri alışverişi yapabilme yeteneği."
+    },
+    {
+      "term": "dynamic neural networks",
+      "explanation": "İşlenen verinin türüne göre yapısını anlık olarak değiştirebilen esnek yapay zekâ mimarileri."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Görüntü işleme ve yapay zekâ hesaplamaları gibi karmaşık matematiksel işlemleri aynı anda çok hızlı yapan özel işlemci."
+    },
+    {
+      "term": "machine learning systems",
+      "explanation": "Verileri analiz ederek kendi kendine öğrenen ve zamanla daha doğru tahminler yapabilen bilgisayar sistemleri."
+    },
+    {
+      "term": "clean code",
+      "explanation": "Başka yazılımcıların kolayca okuyabileceği, anlaşılır, basit ve hatasız yazılmış kod yapısı."
+    }
+  ]
+}
