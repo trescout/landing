@@ -3759,5 +3759,155 @@
     "headline": "yapay zekâ ajanları için güvenli çalışma ortamı",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "caveman",
+    "title": "Caveman",
+    "tagline": "Caveman, Claude Code için geliştirilen ve yapay zekâ modelinin dil kullanımını basitleştirerek belirteç (token) tüketimini…",
+    "meta": "★ 81.688 · JavaScript",
+    "image": "/assets/discover/og/caveman.webp",
+    "source": "GitHub",
+    "date": "2026-07-03",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 81688,
+    "lite": false,
+    "headline": "yapay zekâ yanıtlarını kısaltarak tasarruf edin"
+  },
+  {
+    "slug": "chrome-devtools-mcp",
+    "title": "Chrome Devtools MCP",
+    "tagline": "Chrome Geliştirici Araçları (Chrome DevTools) için geliştirilen bu sunucu, kodlama yapan yapay zekâ ajanlarının (coding…",
+    "meta": "★ 45.204 · TypeScript",
+    "image": "/assets/discover/og/chrome-devtools-mcp.webp",
+    "source": "GitHub",
+    "date": "2026-07-03",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 45204,
+    "lite": false,
+    "headline": "yapay zekâ için tarayıcı hata ayıklama"
+  },
+  {
+    "slug": "checkout",
+    "title": "Checkout",
+    "tagline": "GitHub tarafından geliştirilen actions/checkout, yazılım geliştirme süreçlerinde depo kopyalama (repository checkout)…",
+    "meta": "★ 8.197 · TypeScript",
+    "image": "/assets/discover/og/checkout.webp",
+    "source": "GitHub",
+    "date": "2026-07-03",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 8197,
+    "lite": false,
+    "headline": "GitHub iş akışlarında depo kopyalama",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "agentskills",
+    "title": "Agentskills",
+    "tagline": "Agent Skills, yapay zekâ ajanlarının görevlerini yerine getirirken kullandığı yetenekleri (skills) standartlaştıran bir teknik…",
+    "meta": "★ 21.721 · Python",
+    "image": "/assets/discover/og/agentskills.webp",
+    "source": "GitHub",
+    "date": "2026-07-03",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 21721,
+    "lite": false,
+    "headline": "yapay zekâ ajanlarına standart yetenekler kazandırın",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "codex-plugin-cc",
+    "title": "Codex Plugin Cc",
+    "tagline": "OpenAI tarafından geliştirilen Codex eklentisi, Claude Code üzerinde kod inceleme süreçlerini otomatize etmek ve görev…",
+    "meta": "★ 22.800 · JavaScript",
+    "image": "/assets/discover/og/codex-plugin-cc.webp",
+    "source": "GitHub",
+    "date": "2026-07-03",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 22800,
+    "lite": false,
+    "headline": "Claude Code için yapay zekâ destekli kod inceleme"
+  },
+  {
+    "slug": "langflow",
+    "title": "Langflow",
+    "tagline": "Langflow, yapay zekâ destekli ajanlar ve iş akışları oluşturmak için görsel bir arayüz sunan Python tabanlı bir geliştirme…",
+    "meta": "★ 150.932 · Python",
+    "image": "/assets/discover/og/langflow.webp",
+    "source": "GitHub",
+    "date": "2026-07-03",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 150932,
+    "lite": false,
+    "headline": "Görsel arayüzle yapay zekâ iş akışları"
+  },
+  {
+    "slug": "pytorch",
+    "title": "Pytorch",
+    "tagline": "PyTorch, Python tabanlı tensör hesaplamaları ve dinamik sinir ağları (dynamic neural networks) için güçlü grafik işlem birimi…",
+    "meta": "★ 101.297 · Python",
+    "image": "/assets/discover/og/pytorch.webp",
+    "source": "GitHub",
+    "date": "2026-07-03",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 101297,
+    "lite": false,
+    "headline": "Esnek ve hızlı yapay zekâ kütüphanesi"
+  },
+  {
+    "slug": "cs249r-book",
+    "title": "Cs249r Book",
+    "tagline": "Harvard Üniversitesi tarafından paylaşılan bu kaynak, makine öğrenmesi sistemleri (machine learning systems) üzerine kapsamlı…",
+    "meta": "★ 25.784 · Python",
+    "image": "/assets/discover/og/cs249r-book.webp",
+    "source": "GitHub",
+    "date": "2026-07-03",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 25784,
+    "lite": false,
+    "headline": "yapay zekâ sistemleri için kapsamlı rehber",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "clean-code-javascript",
+    "title": "Clean Code Javascript",
+    "tagline": "Temiz kod (clean code) prensiplerini JavaScript diline uyarlayan bu rehber, yazılım geliştirme süreçlerinde okunabilir ve…",
+    "meta": "★ 94.633 · JavaScript",
+    "image": "/assets/discover/og/clean-code-javascript.webp",
+    "source": "GitHub",
+    "date": "2026-07-03",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 94633,
+    "lite": false,
+    "headline": "JavaScript ile temiz kod yazımı",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

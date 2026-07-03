@@ -1944,5 +1944,54 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay zeka modellerine giden trafiği yöneten ve denetleyen bir geçit yazılımıdır."
+  },
+  {
+    "slug": "chrome-devtools",
+    "en": "Chrome DevTools",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Web tarayıcısının içine gömülü, web sitelerinin kodlarını incelemeye ve hataları düzeltmeye yarayan geliştirici aracıdır."
+  },
+  {
+    "slug": "repository-checkout",
+    "en": "Repository Checkout",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılım projesinin tüm dosyalarını merkezi bir sunucudan kendi bilgisayarınıza kopyalama işlemidir."
+  },
+  {
+    "slug": "continuous-integration",
+    "en": "Continuous Integration",
+    "full": "CI",
+    "cat": "dev",
+    "kisa": "Yazılımcıların yazdığı kodların otomatik olarak birleştirilip test edilerek hataların erkenden yakalanmasını sağlayan süreçtir."
+  },
+  {
+    "slug": "interoperability",
+    "en": "Interoperability",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Farklı sistemlerin veya yazılımların birbirleriyle sorunsuz bir şekilde veri alışverişi yapabilme yeteneğidir."
+  },
+  {
+    "slug": "dynamic-neural-networks",
+    "en": "Dynamic Neural Networks",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İşlenen verinin türüne göre yapısını anlık olarak değiştirebilen esnek yapay zekâ mimarileridir."
+  },
+  {
+    "slug": "machine-learning-systems",
+    "en": "Machine Learning Systems",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Verileri analiz ederek kendi kendine öğrenen ve zamanla daha doğru tahminler yapabilen bilgisayar sistemleridir."
+  },
+  {
+    "slug": "clean-code",
+    "en": "Clean Code",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Başka yazılımcıların kolayca okuyabileceği, anlaşılır, basit ve hatasız yazılmış kod yapısıdır."
   }
 ]

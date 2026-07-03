@@ -22,7 +22,7 @@ Kurulum ve kullanım detayları için GitHub deposundaki dokümantasyon bölüm�
 - [GitHub deposu →](https://github.com/TencentCloud/CubeSandbox)
 
 ## İlgili sözlük terimleri
-AI Agents Sandbox Agents SDK Rust Artificial Intelligence 
+AI Agents Sandbox SDK Agents Rust Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

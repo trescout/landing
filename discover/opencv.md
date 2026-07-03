@@ -27,7 +27,7 @@ Kaynak: PyPI · opencv-python (resmî paket)
 - [GitHub deposu →](https://github.com/opencv/opencv)
 
 ## İlgili sözlük terimleri
-Computer Vision Library Machine Learning Computer Vision Open Source Artificial Intelligence 
+Computer Vision Library Computer Vision Machine Learning Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
