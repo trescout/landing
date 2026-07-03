@@ -1993,5 +1993,12 @@
     "full": "",
     "cat": "dev",
     "kisa": "Başka yazılımcıların kolayca okuyabileceği, anlaşılır, basit ve hatasız yazılmış kod yapısıdır."
+  },
+  {
+    "slug": "coding-agents",
+    "en": "Coding Agents",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yazılımcı gibi davranarak kod yazabilen, hata ayıklayabilen ve projeleri yönetebilen otonom yapay zekâ programlarıdır."
   }
 ]

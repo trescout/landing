@@ -40,7 +40,7 @@ Set up https://github.com/browser-use/video-use for me. Read install.md first to
 - [GitHub deposu →](https://github.com/browser-use/video-use)
 
 ## İlgili sözlük terimleri
-Agents API Artificial Intelligence 
+Coding Agents Agents API Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
