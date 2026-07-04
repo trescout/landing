@@ -1,0 +1,108 @@
+{
+  "date": "2026-07-04",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "summary": "Java ile geliştirilen Elasticsearch, büyük veri kümeleri üzerinde hızlı arama ve analiz yapılmasına olanak tanıyan dağıtık (distributed) ve açık kaynaklı bir arama motorudur. RESTful mimarisi sayesinde verilerin gerçek zamanlı olarak indekslenmesini ve sorgulanmasını destekler.",
+          "meta": "Java · ★ 77.374 · +91 bugün"
+        },
+        {
+          "title": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "summary": "Ansible, uygulama dağıtımı ve sistem yönetimi süreçlerini otomatikleştiren bir bilişim teknolojileri otomasyon platformudur. Uzak sistemlere herhangi bir aracı yazılım (agent) yüklemeye gerek duymadan, SSH protokolü üzerinden basit bir dille yapılandırma işlemlerini gerçekleştirir.",
+          "meta": "Python · ★ 69.245 · +65 bugün"
+        },
+        {
+          "title": "rommapp/romm",
+          "url": "https://github.com/rommapp/romm",
+          "summary": "Romm, oyun dosyalarını (ROM) düzenlemek ve tarayıcı üzerinden doğrudan oynamak için tasarlanmış, kendi sunucunuzda barındırabileceğiniz bir oyun kütüphanesi yöneticisidir. Python diliyle geliştirilen bu araç, oyun koleksiyonlarını görsel bir arayüzle yönetme ve oynatma imkanı sunar.",
+          "meta": "Python · ★ 9.887 · +239 bugün"
+        },
+        {
+          "title": "apache/maven",
+          "url": "https://github.com/apache/maven",
+          "summary": "Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yöneten bir proje yönetim ve anlama aracıdır (build automation tool). Yazılım geliştirme yaşam döngüsünü standartlaştırmak için proje nesne modeli (project object model) yapısını kullanır.",
+          "meta": "Java · ★ 5.250 · +58 bugün"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code, terminal üzerinde çalışan ve doğal dil komutlarıyla kod tabanını analiz ederek rutin görevleri otomatize eden bir ajan tabanlı kodlama aracıdır (agentic coding tool). Yazılım geliştirme süreçlerinde kod açıklaması yapma ve sürüm kontrolü (git workflow) işlemlerini yöneterek geliştirici verimliliğini artırmayı hedefler.",
+          "meta": "Python · ★ 135.933 · +221 bugün",
+          "returning": true
+        },
+        {
+          "title": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "summary": "Supabase, web, mobil ve yapay zekâ uygulamaları geliştirmek için Postgres veritabanı (Postgres database) altyapısı sunan bir geliştirme platformudur. Açık kaynaklı yapısıyla uygulama geliştirme süreçlerini hızlandırmak için gerekli olan veritabanı yönetimi ve arka uç (backend) hizmetlerini bir arada sağlar.",
+          "meta": "TypeScript · ★ 105.582 · +169 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Costco is the anti-Amazon",
+          "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+          "summary": "Costco, sınırlı ürün çeşitliliği ve abonelik tabanlı gelir modeliyle Amazon'un her şeyi satma stratejisinin karşısında konumlanıyor. Perakende devi, düşük kâr marjları ve operasyonel verimlilik odaklı yaklaşımıyla geleneksel e-ticaret modellerinden ayrışıyor.",
+          "meta": "380 oy · 359 yorum"
+        },
+        {
+          "title": "Espionage Against the European Parliament",
+          "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+          "summary": "Avrupa Parlamentosu bünyesinde casus yazılım faaliyetlerini inceleyen bir komite üyesinin, Pegasus isimli casus yazılım (spyware) ile hedef alındığı tespit edildi. Citizen Lab tarafından yürütülen araştırma, parlamenterlerin dijital güvenliğine yönelik siber casusluk (cyber espionage) risklerinin devam ettiğini ortaya koyuyor.",
+          "meta": "326 oy · 78 yorum"
+        },
+        {
+          "title": "Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "summary": "Jamesob tarafından hazırlanan rehber, en gelişmiş büyük dil modellerini (SOTA LLMs) yerel donanım üzerinde çalıştırmak için gereken yazılım ve donanım gereksinimlerini detaylandırıyor. Kullanıcıların kendi sistemlerinde yüksek performanslı modelleri kurmalarını ve optimize etmelerini sağlayan teknik yöntemleri bir araya getiriyor.",
+          "meta": "320 oy · 145 yorum"
+        },
+        {
+          "title": "Factories are just rooms",
+          "url": "https://interconnected.org/home/2026/07/03/factories",
+          "summary": "Üretim tesislerinin fiziksel altyapıdan ziyade yazılım tabanlı birer veri merkezi (data center) haline dönüştüğü savunuluyor. Fiziksel üretim süreçlerinin dijitalleşmesiyle birlikte fabrikalar, yüksek işlem gücüne sahip programlanabilir alanlar olarak yeniden tanımlanıyor.",
+          "meta": "225 oy · 90 yorum"
+        },
+        {
+          "title": "Performance per dollar is getting faster and cheaper",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "summary": "Yapay zekâ donanımlarında dolar başına performans (performance per dollar) verimliliği, işlemci mimarilerindeki gelişmelerle birlikte hızla artıyor. Bu eğilim, hesaplama gücü maliyetlerinin düşmesini sağlayarak büyük dil modellerinin (large language models) eğitim ve çıkarım süreçlerini daha erişilebilir kılıyor.",
+          "meta": "200 oy · 61 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "summary": "DeepSeek-V4-Pro-DSpark, metin üretimi (text generation) görevleri için optimize edilmiş bir yapay zekâ modelidir. HuggingFace platformunda yer alan bu model, geniş ölçekli dil işleme süreçlerinde kullanılmak üzere tasarlanmıştır.",
+          "meta": "♥ 350 · 9.388 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "distributed",
+      "explanation": "Bir işlemin tek bir bilgisayar yerine ağa bağlı birden fazla cihaz üzerinde paylaştırılarak yapılması."
+    },
+    {
+      "term": "agent",
+      "explanation": "Kendi başına karar verip hedeflenen görevi yerine getirmek için araçları kullanabilen akıllı yazılım birimi."
+    },
+    {
+      "term": "ROM",
+      "explanation": "Bilgisayar kapandığında bile içindeki bilgileri silmeyen, sadece okunabilir kalıcı bellek türü."
+    }
+  ]
+}

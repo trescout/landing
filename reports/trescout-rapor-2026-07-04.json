@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-04",
+  "editorial": "Yazılım dünyasında bugün geliştirici araçları (developer tools) ve yapay zekâ destekli kodlama asistanları arasındaki entegrasyon protokolleri ön plana çıkıyor. Özellikle Chrome DevTools tarafındaki Model Context Protocol (Model Bağlam Protokolü) desteği, tarayıcı tabanlı hata ayıklama süreçlerinde yeni bir standart oluşturma potansiyeli taşıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix, uygulamalardaki güvenlik açıklarını tespit etmek ve gidermek amacıyla geliştirilen açık kaynaklı bir yapay zekâ destekli sızma testi (penetration testing) aracıdır. Python diliyle yazılan bu yazılım, sistem zafiyetlerini otomatikleştirilmiş süreçlerle analiz etmeyi hedefler.",
+          "meta": "Python · ★ 35.012 · +2.803 bugün"
+        },
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "OpenAI tarafından geliştirilen Codex eklentisi, Claude Code üzerinde kod inceleme süreçlerini otomatize etmeye ve görev delegasyonuna olanak tanıyor. Bu entegrasyon, yazılım geliştirme iş akışlarında farklı yapay zekâ modellerinin birlikte çalışabilirliğini (interoperability) artırıyor.",
+          "meta": "JavaScript · ★ 23.396 · +634 bugün"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman, Claude Code üzerinde kullanılan ve dil yapısını basitleştirerek belirteç (token) tüketimini yüzde 65 oranında azaltan bir yetenek paketidir. Geliştiriciler, karmaşık ifadeler yerine mağara adamı tarzı kısa ve doğrudan bir dil kullanarak yapay zekâ maliyetlerini düşürmeyi hedefler.",
+          "meta": "JavaScript · ★ 83.163 · +2.863 bugün"
+        },
+        {
+          "title": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "summary": "Java ile geliştirilen Elasticsearch, büyük veri kümeleri üzerinde hızlı arama ve analiz yapılmasına olanak tanıyan dağıtık (distributed) ve açık kaynaklı bir arama motorudur. RESTful mimarisi sayesinde verilerin gerçek zamanlı olarak indekslenmesini ve sorgulanmasını destekler.",
+          "meta": "Java · ★ 77.374 · +91 bugün"
+        },
+        {
+          "title": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "summary": "GitHub Actions üzerinde çalışan checkout eylemi (action), GitHub depolarındaki kaynak kodun iş akışlarına aktarılmasını sağlıyor. Bu araç, yazılım geliştirme süreçlerinde kodun otomatik olarak çekilmesi (checkout) ve derleme ortamına hazırlanması için standart bir yöntem sunuyor.",
+          "meta": "TypeScript · ★ 8.282 · +129 bugün"
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "Chrome DevTools için geliştirilen bu sunucu, kodlama ajanlarının (coding agents) tarayıcı araçlarına doğrudan erişmesini sağlayan bir Model Bağlantı Protokolü (Model Context Protocol) entegrasyonu sunuyor. Yazılım geliştirme süreçlerinde hata ayıklama ve web inceleme görevlerini otomatikleştirmek için standart bir arayüz sağlıyor.",
+          "meta": "TypeScript · ★ 45.555 · +405 bugün"
+        },
+        {
+          "title": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "summary": "Ansible, uygulama dağıtımı ve sistem yönetimi süreçlerini otomatikleştiren bir bilişim teknolojileri otomasyon platformudur. Uzak sistemlere herhangi bir aracı yazılım (agent) yüklemeye gerek duymadan, SSH protokolü üzerinden basit bir dille yapılandırma işlemlerini gerçekleştirir.",
+          "meta": "Python · ★ 69.245 · +65 bugün"
+        },
+        {
+          "title": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "summary": "Meta tarafından geliştirilen Astryx, tamamen özelleştirilebilir ve yapay zekâ ajanlarıyla uyumlu (agent ready) bir tasarım sistemi (design system) sunuyor. TypeScript tabanlı bu açık kaynaklı yapı, arayüz bileşenlerinin otonom sistemler tarafından yönetilmesini kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 4.873 · +885 bugün"
+        },
+        {
+          "title": "rommapp/romm",
+          "url": "https://github.com/rommapp/romm",
+          "summary": "Romm, oyun dosyalarını (ROM) düzenlemek ve tarayıcı üzerinden doğrudan oynamak için tasarlanmış, kendi sunucunuzda barındırabileceğiniz bir oyun kütüphanesi yöneticisidir. Python diliyle geliştirilen bu araç, oyun koleksiyonlarını görsel bir arayüzle yönetme ve oynatma imkanı sunar.",
+          "meta": "Python · ★ 9.887 · +239 bugün"
+        },
+        {
+          "title": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "summary": "Harvard Üniversitesi tarafından yayımlanan bu kaynak, makine öğrenmesi sistemleri (machine learning systems) mimarisini ve donanım üzerindeki optimizasyon süreçlerini ele alıyor. Yazılım ve donanım katmanlarını birleştiren bu çalışma, ölçeklenebilir yapay zekâ altyapıları geliştirmek isteyenler için teknik bir rehber sunuyor.",
+          "meta": "Python · ★ 26.287 · +793 bugün"
+        },
+        {
+          "title": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "summary": "PyTorch, Python tabanlı tensör hesaplamaları ve dinamik sinir ağları (dynamic neural networks) için güçlü grafik işlem birimi (GPU) hızlandırması sağlayan bir kütüphanedir. Derin öğrenme modellerinin geliştirilmesi ve dağıtılması süreçlerinde yaygın olarak tercih edilen bir açık kaynaklı çerçevedir (framework).",
+          "meta": "Python · ★ 101.465 · +293 bugün"
+        },
+        {
+          "title": "apache/maven",
+          "url": "https://github.com/apache/maven",
+          "summary": "Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yöneten bir proje yönetim ve anlama aracıdır (build automation tool). Yazılım geliştirme yaşam döngüsünü standartlaştırmak için proje nesne modeli (project object model) yapısını kullanır.",
+          "meta": "Java · ★ 5.250 · +58 bugün"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code, terminal üzerinde çalışan ve doğal dil komutlarıyla kod tabanını analiz ederek rutin görevleri otomatize eden bir ajan tabanlı kodlama aracıdır (agentic coding tool). Yazılım geliştirme süreçlerinde kod açıklaması yapma ve sürüm kontrolü (git workflow) işlemlerini yöneterek geliştirici verimliliğini artırmayı hedefler.",
+          "meta": "Python · ★ 135.933 · +221 bugün"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Herdr, uçbirim (terminal) üzerinde çalışan ve birden fazla yapay zekâ ajanını aynı anda yönetmeye olanak tanıyan bir ajan çoklayıcıdır (agent multiplexer). Rust diliyle geliştirilen bu araç, kullanıcıların farklı ajanlar arasında geçiş yapmasını ve iş akışlarını doğrudan komut satırı üzerinden koordine etmesini sağlar.",
+          "meta": "Rust · ★ 10.939 · +478 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yazılım geliştirme metodolojileri ile entegre çalışan bir ajan yetenekleri çerçevesi (agentic skills framework) sunuyor. Bu araç, yazılım süreçlerinde ajan tabanlı iş akışlarını standartlaştırmak için bir geliştirme yöntemi sağlıyor.",
+          "meta": "Shell · ★ 245.707 · +1.209 bugün"
+        },
+        {
+          "title": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "summary": "Agent Skills projesi, yapay zekâ ajanları için yeniden kullanılabilir yetenek paketleri (skills) oluşturulmasına yönelik bir teknik şartname ve dokümantasyon sunuyor. Bu standart, farklı ajan sistemleri arasında işlevsel yeteneklerin paylaşılmasını ve entegrasyonunu kolaylaştırmayı hedefliyor.",
+          "meta": "Python · ★ 22.075 · +406 bugün"
+        },
+        {
+          "title": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "summary": "Supabase, web, mobil ve yapay zekâ uygulamaları geliştirmek için Postgres veritabanı (Postgres database) altyapısı sunan bir geliştirme platformudur. Açık kaynaklı yapısıyla uygulama geliştirme süreçlerini hızlandırmak için gerekli olan veritabanı yönetimi ve arka uç (backend) hizmetlerini bir arada sağlar.",
+          "meta": "TypeScript · ★ 105.582 · +169 bugün"
+        },
+        {
+          "title": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "summary": "TencentCloud tarafından geliştirilen CubeSandbox, yapay zekâ ajanları (AI agents) için Rust diliyle yazılmış hızlı, eş zamanlı ve güvenli bir çalışma alanı (sandbox) sunuyor. Proje, düşük kaynak tüketimiyle izole edilmiş ortamlar oluşturarak ajan tabanlı sistemlerin güvenliğini artırmayı hedefliyor.",
+          "meta": "Rust · ★ 7.217 · +60 bugün"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-agents projesi, farklı uzmanlık alanlarına sahip yapay zekâ ajanlarını tek bir çatı altında toplayarak yazılım geliştirme ve içerik üretimi süreçlerini otomatize ediyor. Her bir ajan, kendine özgü kişilik ve iş akışı tanımlarıyla belirli görevleri yerine getirmek üzere tasarlanmış uzmanlaşmış bir yapı sunuyor.",
+          "meta": "Shell · ★ 126.662 · +1.208 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Costco is the anti-Amazon",
+          "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+          "summary": "Costco, sınırlı ürün çeşitliliği ve abonelik tabanlı gelir modeliyle Amazon'un her şeyi satma stratejisinin karşısında konumlanıyor. Perakende devi, düşük kâr marjları ve operasyonel verimlilik odaklı yaklaşımıyla geleneksel e-ticaret modellerinden ayrışıyor.",
+          "meta": "380 oy · 359 yorum"
+        },
+        {
+          "title": "Espionage Against the European Parliament",
+          "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+          "summary": "Avrupa Parlamentosu bünyesinde casus yazılım faaliyetlerini inceleyen bir komite üyesinin, Pegasus isimli casus yazılım (spyware) ile hedef alındığı tespit edildi. Citizen Lab tarafından yürütülen araştırma, parlamenterlerin dijital güvenliğine yönelik siber casusluk (cyber espionage) risklerinin devam ettiğini ortaya koyuyor.",
+          "meta": "326 oy · 78 yorum"
+        },
+        {
+          "title": "Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "summary": "Jamesob tarafından hazırlanan rehber, en gelişmiş büyük dil modellerini (SOTA LLMs) yerel donanım üzerinde çalıştırmak için gereken yazılım ve donanım gereksinimlerini detaylandırıyor. Kullanıcıların kendi sistemlerinde yüksek performanslı modelleri kurmalarını ve optimize etmelerini sağlayan teknik yöntemleri bir araya getiriyor.",
+          "meta": "320 oy · 145 yorum"
+        },
+        {
+          "title": "Factories are just rooms",
+          "url": "https://interconnected.org/home/2026/07/03/factories",
+          "summary": "Üretim tesislerinin fiziksel altyapıdan ziyade yazılım tabanlı birer veri merkezi (data center) haline dönüştüğü savunuluyor. Fiziksel üretim süreçlerinin dijitalleşmesiyle birlikte fabrikalar, yüksek işlem gücüne sahip programlanabilir alanlar olarak yeniden tanımlanıyor.",
+          "meta": "225 oy · 90 yorum"
+        },
+        {
+          "title": "Performance per dollar is getting faster and cheaper",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "summary": "Yapay zekâ donanımlarında dolar başına performans (performance per dollar) verimliliği, işlemci mimarilerindeki gelişmelerle birlikte hızla artıyor. Bu eğilim, hesaplama gücü maliyetlerinin düşmesini sağlayarak büyük dil modellerinin (large language models) eğitim ve çıkarım süreçlerini daha erişilebilir kılıyor.",
+          "meta": "200 oy · 61 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B, görsel ve metin tabanlı girdileri işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapay zekâ modelidir. Model, geniş bağlam penceresi desteğiyle karmaşık veri setlerini çözümleme kapasitesi sunar.",
+          "meta": "♥ 1.392 · 1.366.360 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Hugging Face platformunda yüksek etkileşim alan model, açık kaynaklı yapay zekâ ekosistemindeki metin oluşturma kapasitelerini genişletmektedir.",
+          "meta": "♥ 3.351 · 191.462 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel metinleri metne dönüştürme (image-text-to-text) görevleri için optimize edilmiş bir modeldir. Karmaşık doküman yapılarındaki verileri işleyerek metin tabanlı çıktı üretme yeteneği sunar.",
+          "meta": "♥ 1.696 · 885.040 indirme"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "DeepReinforce-AI tarafından geliştirilen Ornith-1.0-35B, metin üretimi (text generation) odaklı bir dil modelidir. Model, donanım kaynaklarını verimli kullanmak amacıyla GGUF formatında sunulmaktadır.",
+          "meta": "♥ 691 · 322.780 indirme"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "summary": "DeepSeek-V4-Pro-DSpark, metin üretimi (text generation) görevleri için optimize edilmiş bir yapay zekâ modelidir. HuggingFace platformunda yer alan bu model, geniş ölçekli dil işleme süreçlerinde kullanılmak üzere tasarlanmıştır.",
+          "meta": "♥ 350 · 9.388 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "penetration testing",
+      "explanation": "Bir sistemin güvenliğini test etmek amacıyla uzmanlar tarafından yapılan kontrollü siber saldırı denemeleri."
+    },
+    {
+      "term": "interoperability",
+      "explanation": "Farklı yazılım veya donanımların birbirleriyle sorunsuz bir şekilde veri alışverişi yapabilme yeteneği."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekanın metinleri işlerken kullandığı, kelime veya hece parçalarına karşılık gelen en küçük veri birimi."
+    },
+    {
+      "term": "distributed",
+      "explanation": "Bir işlemin tek bir bilgisayar yerine ağa bağlı birden fazla cihaz üzerinde paylaştırılarak yapılması."
+    },
+    {
+      "term": "action",
+      "explanation": "Bir yazılımın veya yapay zekanın belirli bir komut üzerine gerçekleştirdiği somut işlem."
+    },
+    {
+      "term": "checkout",
+      "explanation": "İnternet üzerinden yapılan alışverişlerde ödeme işleminin tamamlandığı son aşama."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Yazılımcıların yerine kod yazabilen, hataları düzelten ve uygulama geliştirebilen otonom yapay zeka araçları."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Yapay zeka modellerinin farklı veri kaynaklarıyla güvenli ve standart bir şekilde konuşmasını sağlayan bağlantı kuralı."
+    },
+    {
+      "term": "agent",
+      "explanation": "Kendi başına karar verip hedeflenen görevi yerine getirmek için araçları kullanabilen akıllı yazılım birimi."
+    },
+    {
+      "term": "agent ready",
+      "explanation": "Bir yapay zeka biriminin kendisine verilen görevi yapmaya hazır olduğunu bildiren durum mesajı."
+    },
+    {
+      "term": "design system",
+      "explanation": "Bir uygulamanın görsel tutarlılığını sağlamak için kullanılan önceden hazırlanmış tasarım kuralları ve bileşenler bütünü."
+    },
+    {
+      "term": "ROM",
+      "explanation": "Bilgisayar kapandığında bile içindeki bilgileri silmeyen, sadece okunabilir kalıcı bellek türü."
+    },
+    {
+      "term": "machine learning systems",
+      "explanation": "Verileri analiz ederek kendi kendine öğrenen ve zamanla daha doğru tahminler yapabilen bilgisayar yapıları."
+    },
+    {
+      "term": "dynamic neural networks",
+      "explanation": "İşlediği veriye göre yapısını ve bağlantılarını anlık olarak değiştirebilen gelişmiş yapay zeka modelleri."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Özellikle grafik işleme ve yapay zeka hesaplamaları gibi yoğun işlemleri hızlandırmak için tasarlanmış özel işlemci."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, hazır kütüphaneler ve kurallar sunan temel uygulama iskeleti."
+    }
+  ]
+}
