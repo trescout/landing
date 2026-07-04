@@ -3909,5 +3909,92 @@
     "headline": "JavaScript ile temiz kod yazımı",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "elasticsearch",
+    "title": "Elasticsearch",
+    "tagline": "Java ile geliştirilen Elasticsearch, büyük veri kümeleri üzerinde hızlı arama ve analiz yapılmasına olanak tanıyan dağıtık…",
+    "meta": "★ 77.374 · Java",
+    "image": "/assets/discover/og/elasticsearch.webp",
+    "source": "GitHub",
+    "date": "2026-07-04",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 77374,
+    "lite": false,
+    "headline": "Büyük verilerde hızlı arama yapın",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "ansible",
+    "title": "Ansible",
+    "tagline": "Ansible, uygulama dağıtımı ve sistem yönetimi süreçlerini otomatikleştiren bir bilişim teknolojileri otomasyon platformudur.",
+    "meta": "★ 69.245 · Python",
+    "image": "/assets/discover/og/ansible.webp",
+    "source": "GitHub",
+    "date": "2026-07-04",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 69245,
+    "lite": false,
+    "headline": "BT sistemlerini otomatikleştiren platform",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "romm",
+    "title": "Romm",
+    "tagline": "Romm, oyun dosyalarını (ROM) düzenlemek ve tarayıcı üzerinden doğrudan oynamak için tasarlanmış, kendi sunucunuzda…",
+    "meta": "★ 9.887 · Python",
+    "image": "/assets/discover/og/romm.webp",
+    "source": "GitHub",
+    "date": "2026-07-04",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 9887,
+    "lite": false,
+    "headline": "Kendi oyun kütüphanenizi yönetin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "maven",
+    "title": "Maven",
+    "tagline": "Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yöneten bir proje yönetim ve anlama aracıdır (build…",
+    "meta": "★ 5.250 · Java",
+    "image": "/assets/discover/og/maven.webp",
+    "source": "GitHub",
+    "date": "2026-07-04",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 5250,
+    "lite": false,
+    "headline": "Java projeleri için proje yönetimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "supabase",
+    "title": "Supabase",
+    "tagline": "Supabase, web, mobil ve yapay zekâ uygulamaları geliştirmek için Postgres veritabanı (Postgres database) altyapısı sunan bir…",
+    "meta": "★ 105.582 · TypeScript",
+    "image": "/assets/discover/og/supabase.webp",
+    "source": "GitHub",
+    "date": "2026-07-04",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 105582,
+    "lite": false,
+    "headline": "açık kaynaklı Postgres geliştirme platformu",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

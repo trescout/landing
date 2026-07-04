@@ -2000,5 +2000,33 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yazılımcı gibi davranarak kod yazabilen, hata ayıklayabilen ve projeleri yönetebilen otonom yapay zekâ programlarıdır."
+  },
+  {
+    "slug": "distributed",
+    "en": "Distributed",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir işin tek bir merkez yerine ağa bağlı birden fazla cihaz arasında paylaştırılarak yapılmasıdır."
+  },
+  {
+    "slug": "action",
+    "en": "Action",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir yapay zekanın veya yazılımın, kendisine verilen komut üzerine dış dünyada veya sistem içinde yaptığı somut işlemdir."
+  },
+  {
+    "slug": "checkout",
+    "en": "Checkout",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir alışveriş sürecinin sonunda ödeme ve onay işlemlerinin gerçekleştirildiği son aşamadır."
+  },
+  {
+    "slug": "rom",
+    "en": "ROM",
+    "full": "Read-Only Memory",
+    "cat": "dev",
+    "kisa": "Bilgisayar kapandığında bile içindeki bilgileri koruyan, sadece okunabilen kalıcı bellek türüdür."
   }
 ]
