@@ -1,0 +1,129 @@
+{
+  "date": "2026-07-05",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "summary": "Meetily, toplantı kayıtlarını yerel olarak işleyen ve bulut bağlantısına ihtiyaç duymayan, açık kaynaklı bir toplantı asistanıdır. Rust diliyle geliştirilen uygulama, hızlı ses dökümü (transcription), konuşmacı ayrıştırma (speaker diarization) ve yerel dil modelleriyle özetleme yetenekleri sunar.",
+          "meta": "Rust · ★ 15.565 · +718 bugün"
+        },
+        {
+          "title": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "summary": ".NET ve C# tabanlı yapay zekâ kodlama ajanları için geliştirilen bu kütüphane, yazılım geliştirme süreçlerini destekleyen özelleşmiş yetenek paketleri (skills) sunuyor. Geliştiricilerin otomasyon araçlarını standartlaştırmasına ve kodlama görevlerini verimli bir şekilde yürütmesine olanak tanıyor.",
+          "meta": "C# · ★ 3.872 · +59 bugün"
+        },
+        {
+          "title": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "summary": "Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya yönetim çözümüdür. TypeScript ile yazılan bu platform, kullanıcılara kendi altyapıları üzerinde merkezi bir medya arşivi oluşturma imkânı tanır.",
+          "meta": "TypeScript · ★ 105.748 · +201 bugün"
+        },
+        {
+          "title": "chthollyphile/folia-major",
+          "url": "https://github.com/chthollyphile/folia-major",
+          "summary": "Folia-major, yerel müzik dosyaları ve çevrimiçi platformlar için görselleştirilmiş şarkı sözü animasyonları sunan bir oynatıcı arayüzüdür. TypeScript ile geliştirilen bu araç, müzik dinleme deneyimini dinamik görsel efektlerle zenginleştirmeyi amaçlar.",
+          "meta": "TypeScript · ★ 1.034 · +175 bugün"
+        },
+        {
+          "title": "CoplayDev/unity-mcp",
+          "url": "https://github.com/CoplayDev/unity-mcp",
+          "summary": "Unity MCP, büyük dil modelleri (large language models) ile Unity düzenleyicisi arasında bir köprü kurarak varlık yönetimi, sahne kontrolü ve kod düzenleme süreçlerinin otomatize edilmesini sağlıyor. Model Sunucu Protokolü (Model Context Protocol) aracılığıyla çalışan bu araç, yapay zekâ asistanlarının oyun geliştirme iş akışlarına doğrudan müdahale etmesine imkân tanıyor.",
+          "meta": "C# · ★ 11.702 · +69 bugün"
+        },
+        {
+          "title": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "summary": "Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda 330'dan fazla yetenek paketi (skills) ve 70'in üzerinde özel komut sunuyor. Python tabanlı bu araç seti, yapay zekâ tabanlı iş akışlarını standartlaştırmak ve üretkenliği artırmak amacıyla özelleştirilebilir betikler sağlıyor.",
+          "meta": "Python · ★ 20.244 · +136 bugün"
+        },
+        {
+          "title": "crynta/terax-ai",
+          "url": "https://github.com/crynta/terax-ai",
+          "summary": "Terax-ai, terminal odaklı yapay zekâ yerel geliştirme ortamı (AI-native dev workspace) olarak 7 megabaytlık düşük boyutlu yapısıyla dikkat çekiyor. TypeScript ile geliştirilen bu araç, geliştiricilere terminal üzerinden doğrudan yapay zekâ destekli kodlama imkânı sunuyor.",
+          "meta": "TypeScript · ★ 8.121 · +62 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Leaking YouTube creators' private videos",
+          "url": "https://javoriuski.com/post/youtube",
+          "summary": "YouTube üzerindeki özel videoların, platformun arayüzündeki bir güvenlik açığı nedeniyle yetkisiz kişilerce erişilebilir hale geldiği tespit edildi. Bu durum, içerik üreticilerinin gizli tuttuğu video dosyalarının meta verileri üzerinden sızdırılmasına yol açıyor.",
+          "meta": "577 oy · 318 yorum"
+        },
+        {
+          "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+          "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+          "summary": "Fable motoru kullanılarak geliştirilen açık kaynaklı proje, Command and Conquer Generals oyununu macOS, iPhone ve iPad cihazlarda yerel (native) olarak çalıştırılabilir hale getiriyor. Bu çalışma, eski strateji oyunlarının modern Apple donanımlarında ek bir emülasyon katmanına ihtiyaç duymadan oynanabilmesini sağlıyor.",
+          "meta": "511 oy · 211 yorum"
+        },
+        {
+          "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+          "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+          "summary": "Anna's Archive platformu, Google Kitaplar (Google Books) ve benzeri kaynaklardan taranmış tüm kitap verilerini içeren kapsamlı bir dijital kütüphane oluşturmak amacıyla 200 bin dolarlık bir ödül programı başlattı. Bu girişim, telif hakkı süresi dolmuş veya erişime açık eserlerin merkezi bir veri setinde toplanmasını hedefliyor.",
+          "meta": "426 oy · 232 yorum"
+        },
+        {
+          "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+          "url": "https://github.com/anthropics/claude-code/issues/74066",
+          "summary": "Claude Code kullanıcıları, farklı çalışma alanı örnekleri (workspace instances) veya tüketici hesapları arasında oturum veya önbellek sızıntısı (cache leakage) yaşandığını bildiriyor. Bu durum, birbirinden bağımsız oturumlar arasında veri güvenliği riski oluşturabilecek teknik bir zafiyete işaret ediyor.",
+          "meta": "288 oy · 130 yorum"
+        },
+        {
+          "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+          "url": "https://github.com/openai/codex/issues/30364",
+          "summary": "OpenAI modellerindeki kodlama mantığı (reasoning-token) kümeleme yönteminin, bazı durumlarda model performansında düşüşe yol açtığı tartışılıyor. Kullanıcılar, bu kümeleme stratejisinin kod oluşturma süreçlerinde hata payını artırdığını belirtiyor.",
+          "meta": "237 oy · 82 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/Qwen3.6-27B-NVFP4",
+          "url": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
+          "summary": "Nvidia tarafından sunulan Qwen3.6-27B-NVFP4, metin üretimi (text-generation) görevleri için optimize edilmiş bir dil modelidir. Dört bitlik kayan nokta (FP4) hassasiyetiyle eğitilen bu model, yüksek performanslı çıkarım süreçlerini desteklemektedir.",
+          "meta": "♥ 259 · 184.521 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "token",
+      "explanation": "Yapay zekanın metinleri işlerken kullandığı, kelimelerin veya hecelerin parçalara bölünmüş en küçük birimi."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Yapay zeka modellerinin farklı veri kaynaklarına ve uygulamalara güvenli bir şekilde bağlanmasını sağlayan standart yöntem."
+    },
+    {
+      "term": "transcription",
+      "explanation": "Ses kayıtlarının veya konuşmaların yazıya dökülerek metin haline getirilmesi işlemi."
+    },
+    {
+      "term": "speaker diarization",
+      "explanation": "Ses kaydındaki konuşmaların hangi kişinin ağzından çıktığını ayırt ederek kimin ne zaman konuştuğunu belirleme süreci."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Bir yazılımı başka bir şirketin sunucusunda değil, kendi bilgisayarınızda veya özel sunucunuzda çalıştırma yöntemi."
+    },
+    {
+      "term": "terminal",
+      "explanation": "Bilgisayara doğrudan metin komutları yazarak işlem yapmanızı sağlayan siyah ekranlı komut satırı arayüzü."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya yapay zekanın belirli bir işi yapabilmesi için sahip olduğu özel yetenekler."
+    }
+  ]
+}
