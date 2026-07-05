@@ -30,7 +30,7 @@ SimpleX Chat'in kullanıcı tanımlayıcıları kullanmadan çalışan yapısın
 - [GitHub deposu →](https://github.com/simplex-chat/simplex-chat)
 
 ## İlgili sözlük terimleri
-User Identifiers Artificial Intelligence 
+User Identifiers Terminal Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

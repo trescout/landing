@@ -3996,5 +3996,105 @@
     "headline": "açık kaynaklı Postgres geliştirme platformu",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "meetily",
+    "title": "Meetily",
+    "tagline": "Meetily, toplantı kayıtlarını yerel olarak işleyen ve bulut bağlantısına ihtiyaç duymayan, açık kaynaklı bir toplantı asistanıdır.",
+    "meta": "★ 15.565 · Rust",
+    "image": "/assets/discover/og/meetily.webp",
+    "source": "GitHub",
+    "date": "2026-07-05",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 15565,
+    "lite": false,
+    "headline": "Verilerinizi koruyan yerel yapay zekâ asistanı"
+  },
+  {
+    "slug": "immich",
+    "title": "Immich",
+    "tagline": "Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya…",
+    "meta": "★ 105.748 · TypeScript",
+    "image": "/assets/discover/og/immich.webp",
+    "source": "GitHub",
+    "date": "2026-07-05",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 105748,
+    "lite": false,
+    "headline": "Kendi fotoğraf ve video arşivinizi yönetin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "folia-major",
+    "title": "Folia Major",
+    "tagline": "Folia-major, yerel müzik dosyaları ve çevrimiçi platformlar için görselleştirilmiş şarkı sözü animasyonları sunan bir oynatıcı…",
+    "meta": "★ 1.034 · TypeScript",
+    "image": "/assets/discover/og/folia-major.webp",
+    "source": "GitHub",
+    "date": "2026-07-05",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1034,
+    "lite": false,
+    "headline": "Müzik deneyimini görselleştiren şarkı oynatıcı",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "unity-mcp",
+    "title": "Unity MCP",
+    "tagline": "Unity MCP, büyük dil modelleri (large language models) ile Unity düzenleyicisi arasında bir köprü kurarak varlık yönetimi…",
+    "meta": "★ 11.702 · C#",
+    "image": "/assets/discover/og/unity-mcp.webp",
+    "source": "GitHub",
+    "date": "2026-07-05",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 11702,
+    "lite": false,
+    "headline": "yapay zekâ ile unity yönetimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "claude-skills",
+    "title": "Claude Skills",
+    "tagline": "Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda…",
+    "meta": "★ 20.244 · Python",
+    "image": "/assets/discover/og/claude-skills.webp",
+    "source": "GitHub",
+    "date": "2026-07-05",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 20244,
+    "lite": false,
+    "headline": "yapay zekâ kodlama ajanlarına uzmanlık kazandırın"
+  },
+  {
+    "slug": "terax-ai",
+    "title": "Terax AI",
+    "tagline": "Terax-ai, terminal odaklı yapay zekâ yerel geliştirme ortamı (AI-native dev workspace) olarak 7 megabaytlık düşük boyutlu…",
+    "meta": "★ 8.121 · TypeScript",
+    "image": "/assets/discover/og/terax-ai.webp",
+    "source": "GitHub",
+    "date": "2026-07-05",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 8121,
+    "lite": false,
+    "headline": "Terminal odaklı yapay zekâ geliştirme ortamı"
   }
 ]

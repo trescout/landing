@@ -23,7 +23,7 @@ Aracı kullanmaya başlamak için öncelikle bilgisayarınızda Python 3 kurulu 
 - [GitHub deposu →](https://github.com/Mebus/cupp)
 
 ## İlgili sözlük terimleri
-Common User Passwords Profiler Wordlists 
+Common User Passwords Profiler Wordlists Terminal 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

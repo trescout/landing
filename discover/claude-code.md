@@ -47,7 +47,7 @@ Lisans: ⚠️ Açık kaynak değildir ; Anthropic'in bir ürünüdür ve Ticari
 - [Ticari Şartlar →](https://www.anthropic.com/legal/commercial-terms)
 
 ## İlgili sözlük terimleri
-Open Source Artificial Intelligence 
+Terminal Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -22,6 +22,9 @@ GitHub sayfasındaki 'Quick method' başlığı altında bulunan PowerShell komu
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Raphire/Win11Debloat)
 
+## İlgili sözlük terimleri
+Terminal 
+
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
 ---

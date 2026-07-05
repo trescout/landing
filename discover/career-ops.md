@@ -46,7 +46,7 @@ Career-Ops sistemini kişiselleştirmek istiyorum. Özgeçmişimi ve kariyer hed
 - [GitHub deposu →](https://github.com/santifer/career-ops)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Terminal Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

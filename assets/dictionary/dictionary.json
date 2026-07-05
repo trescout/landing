@@ -2028,5 +2028,54 @@
     "full": "Read-Only Memory",
     "cat": "dev",
     "kisa": "Bilgisayar kapandığında bile içindeki bilgileri koruyan, sadece okunabilen kalıcı bellek türüdür."
+  },
+  {
+    "slug": "page-agent",
+    "en": "Page Agent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnternet sayfalarını tarayıp kullanıcı adına tıklama veya veri girişi gibi işlemler yapan özel bir yapay zeka yardımcısıdır."
+  },
+  {
+    "slug": "gui",
+    "en": "GUI",
+    "full": "Graphical User Interface",
+    "cat": "dev",
+    "kisa": "Bilgisayar programlarını metin yazmak yerine simgeler, menüler ve pencerelerle görsel olarak yönetmenizi sağlayan arayüzdür."
+  },
+  {
+    "slug": "transcription",
+    "en": "Transcription",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Sesli konuşmaların veya kayıtların yapay zeka tarafından analiz edilerek yazılı metne dönüştürülmesi işlemidir."
+  },
+  {
+    "slug": "speaker-diarization",
+    "en": "Speaker Diarization",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Ses kaydındaki konuşmaların kimin tarafından yapıldığını ayırt ederek metin üzerinde konuşmacıları etiketleme sürecidir."
+  },
+  {
+    "slug": "terminal",
+    "en": "Terminal",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarınızla fare kullanmadan, sadece metin komutları yazarak doğrudan iletişim kurmanızı sağlayan siyah ekranlı arayüzdür."
+  },
+  {
+    "slug": "agent-multiplexer",
+    "en": "Agent Multiplexer",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Farklı uzmanlıklara sahip yapay zeka yardımcılarını tek bir merkezden yönetip, gelen görevleri en uygun asistana yönlendiren sistemdir."
+  },
+  {
+    "slug": "specification",
+    "en": "Specification",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir projenin, yazılımın veya ürünün ne yapması gerektiğini ve hangi kurallara uyması gerektiğini belirten detaylı teknik dokümandır."
   }
 ]

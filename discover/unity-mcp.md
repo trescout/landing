@@ -1,0 +1,32 @@
+# yapay zekâ ile unity yönetimi
+
+Unity MCP, büyük dil modelleri (large language models) ile Unity düzenleyicisi arasında bir köprü kurarak varlık yönetimi, sahne kontrolü ve kod düzenleme süreçlerinin otomatize edilmesini sağlıyor. Model Sunucu Protokolü (Model Context Protocol) aracılığıyla çalışan bu araç, yapay zekâ asistanlarının oyun geliştirme iş akışlarına doğrudan müdahale etmesine imkân tanıyor.
+
+- ★ 11.702
+- C#
+- GitHub Trending · 2026-07-05
+
+## Ne kazandırır?
+- Doğal dille sahne ve nesne kontrolü
+- Otomatik C# kod düzenleme ve test
+- 47 farklı araçla oyun iş akışı
+
+## Nasıl başlanır?
+
+Unity projenizi açın ve Package Manager penceresine gidin. 'Add package from git URL' seçeneğine tıklayarak https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity#main adresini yapıştırın. Kurulum tamamlandıktan sonra Window menüsü altından 'MCP for Unity' sekmesine giderek yapılandırma ayarlarını tamamlayın.
+- [Resmî kaynak →](https://www.coplay.dev)
+
+- **Kimin için:** Oyun geliştirme süreçlerini yapay zekâ yardımıyla hızlandırmak isteyen Unity geliştiricileri için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/CoplayDev/unity-mcp)
+
+## İlgili sözlük terimleri
+MCP Artificial Intelligence 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/unity-mcp/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
