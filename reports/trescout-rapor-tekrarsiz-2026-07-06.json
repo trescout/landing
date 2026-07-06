@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-06",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "summary": "Anthropic tarafından geliştirilen kodlama asistanı Claude Code için hazırlanan bu seçki, yazılım geliştirme süreçlerini hızlandıran araçları, eklentileri ve yetenek paketlerini (skills) bir araya getiriyor. Geliştiricilerin bu yapay zekâ aracını projelerine entegre etmelerini kolaylaştıran kaynaklar, otomasyon kapasitesini artırmaya odaklanıyor.",
+          "meta": "Python · ★ 48.592 · +148 bugün"
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "Claude Code ve yapay zekâ ajanları için geliştirilen marketingskills kütüphanesi, dönüşüm oranı optimizasyonu (CRO), metin yazarlığı, arama motoru optimizasyonu (SEO), analitik ve büyüme mühendisliği gibi alanlarda özelleşmiş yetenekler sunuyor. Bu araç seti, yapay zekâ modellerinin pazarlama odaklı görevleri daha profesyonel ve veriye dayalı şekilde yürütmesini sağlıyor.",
+          "meta": "JavaScript · ★ 36.679 · +145 bugün"
+        },
+        {
+          "title": "gastownhall/gastown",
+          "url": "https://github.com/gastownhall/gastown",
+          "summary": "Gas Town, çoklu ajan çalışma alanı yöneticisi (multi-agent workspace manager) olarak farklı yapay zekâ ajanlarının bir arada çalışmasını sağlayan bir altyapı sunuyor. Go diliyle geliştirilen bu araç, karmaşık iş akışlarında ajanlar arası koordinasyonu ve kaynak yönetimini merkezileştiriyor.",
+          "meta": "Go · ★ 16.488 · +51 bugün"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar, OpenAI Codex ve Claude Code kullanım verilerini oturum açma zorunluluğu olmadan görüntülemeyi sağlayan bir araçtır. Swift diliyle geliştirilen bu uygulama, geliştiricilerin yapay zekâ destekli kodlama araçlarındaki tüketim istatistiklerini izlemelerini kolaylaştırır.",
+          "meta": "Swift · ★ 16.432 · +153 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Organic Maps",
+          "url": "https://organicmaps.app/",
+          "summary": "Organic Maps, çevrimdışı harita verilerini temel alan ve kullanıcı gizliliğini önceliklendiren açık kaynaklı bir harita uygulamasıdır. Uygulama, internet bağlantısı gerektirmeden navigasyon ve yerel arama (local search) özellikleri sunarak OpenStreetMap verilerini kullanır.",
+          "meta": "940 oy · 282 yorum"
+        },
+        {
+          "title": "OpenPrinter",
+          "url": "https://www.opentools.studio/",
+          "summary": "OpenPrinter, farklı yazıcı modelleri için sürücü bağımsız bir baskı deneyimi sunan açık kaynaklı bir yazdırma protokolüdür. Geleneksel sürücü kurulumlarına ihtiyaç duymadan, ağ üzerindeki yazıcılarla doğrudan iletişim kuran evrensel bir arayüz sağlar.",
+          "meta": "795 oy · 192 yorum"
+        },
+        {
+          "title": "It's not about physical vs. digital games, it's about ownership",
+          "url": "https://popcar.bearblog.dev/its-about-ownership/",
+          "summary": "Dijital oyun dünyasında yaşanan tartışmalar fiziksel ve dijital format ayrımından ziyade, kullanıcıların sahip olduğu mülkiyet hakları (ownership) kavramına odaklanıyor. Platformların oyunlara erişimi kısıtlama yetkisi, dijital içeriklerin kalıcılığı ve tüketici hakları konusunda yeni bir hukuki tartışma başlatıyor.",
+          "meta": "449 oy · 339 yorum"
+        },
+        {
+          "title": "The future of Flipper Zero development",
+          "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+          "summary": "Flipper Zero geliştiricileri, cihazın yazılım ekosistemini modüler bir yapıya (modular architecture) dönüştürerek topluluk katkılarını kolaylaştırmayı hedefliyor. Bu yeni yaklaşım, donanım yazılımı (firmware) geliştirmeyi daha sürdürülebilir kılmak için uygulama tabanlı bir dağıtım modeline geçişi öngörüyor.",
+          "meta": "307 oy · 125 yorum"
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra will be in Codex",
+          "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+          "summary": "GPT-5.6 Sol Ultra modelinin kod yazım aracı olan Codex içerisine entegre edileceği duyuruldu. Bu gelişme, yazılım geliştirme süreçlerinde kullanılan yapay zekâ destekli kod tamamlama (code completion) yeteneklerinin güncellenmesini sağlıyor.",
+          "meta": "249 oy · 177 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "InternScience tarafından geliştirilen Agents-A1, metin üretimi (text generation) görevleri için optimize edilmiş bir yapay zekâ modelidir. Bu model, karmaşık mantıksal yürütme ve ajan tabanlı iş akışlarını desteklemek üzere tasarlanmıştır.",
+          "meta": "♥ 311 · 7.010 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya yapay zekânın belirli bir görevi yerine getirmek için sahip olduğu yetenekler."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Bir internet sitesini ziyaret eden kişilerin müşteri olma oranını artırmaya yönelik yapılan çalışmalar."
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "date": "2026-07-06",
+  "editorial": "Bugünün gündemi, büyük dil modellerine yetenek (skill) kazandıran entegrasyonlar ve sistem talimatlarının (system prompts) güvenlik açıklarına odaklanıyor. GitHub üzerindeki güncel depolar, geliştiricilerin yapay zekâ ajanlarını özelleştirme ve mevcut sistemleri dış müdahalelere karşı test etme eğiliminde olduğunu gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "summary": "Meetily, toplantı kayıtlarını yerel olarak işleyen ve bulut bağlantısına ihtiyaç duymayan gizlilik odaklı bir toplantı asistanıdır. Rust diliyle geliştirilen araç, konuşmacı ayrıştırma (speaker diarization) ve yapay zekâ destekli özetleme özelliklerini yüksek hızlı canlı döküm (live transcription) yetenekleriyle birleştirir.",
+          "meta": "Rust · ★ 17.898 · +1.409 bugün"
+        },
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "OpenAI tarafından geliştirilen codex-plugin-cc, Claude Code arayüzü üzerinden kod inceleme (code review) ve görev atama (task delegation) süreçlerini otomatize ediyor. Bu eklenti, geliştiricilerin yazılım geliştirme süreçlerinde Codex modellerinin yeteneklerinden doğrudan yararlanmasını sağlıyor.",
+          "meta": "JavaScript · ★ 25.842 · +1.532 bugün"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Popüler yapay zekâ modellerine ait sistem istemleri (system prompts), geliştiriciler ve araştırmacılar tarafından derlenerek merkezi bir veri setinde toplanıyor. Bu çalışma, Claude, GPT, Gemini ve Grok gibi büyük dil modellerinin (large language models) davranışlarını yönlendiren gizli talimatların analiz edilmesine olanak tanıyor.",
+          "meta": "JavaScript · ★ 50.488 · +981 bugün"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill, yapay zekâ modellerinin ürettiği içeriklerin kalitesini artırmak ve standart, sıradan yanıtları engellemek için geliştirilmiş bir araçtır. JavaScript tabanlı bu kütüphane, modellerin daha özgün ve nitelikli çıktı (output) üretmesini sağlamak amacıyla tasarlanmıştır.",
+          "meta": "JavaScript · ★ 58.065 · +863 bugün"
+        },
+        {
+          "title": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "summary": "Claude Code ve benzeri kodlama ajanları için geliştirilen bu kütüphane, 330'dan fazla yetenek (skills), 70'in üzerinde özel komut ve 30'dan fazla ajan yapılandırması sunuyor. Yazılım geliştirme, pazarlama ve operasyonel süreçlerdeki iş akışlarını otomatikleştirmek için geniş bir eklenti (plugin) ve betik (script) yelpazesi sağlıyor.",
+          "meta": "Python · ★ 20.814 · +392 bugün"
+        },
+        {
+          "title": "rommapp/romm",
+          "url": "https://github.com/rommapp/romm",
+          "summary": "Romm, kullanıcıların oyun kütüphanelerini düzenlemelerine ve doğrudan tarayıcı üzerinden oynamalarına olanak tanıyan, kendi sunucunuzda barındırabileceğiniz (self-hosted) bir oyun arşivi yöneticisidir. Python diliyle geliştirilen bu araç, dijital oyun koleksiyonlarını yönetmek için görsel odaklı bir arayüz sunar.",
+          "meta": "Python · ★ 10.679 · +410 bugün"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Rust diliyle geliştirilen herdr, terminal üzerinde çalışan bir ajan çoklayıcı (agent multiplexer) olarak görev yapıyor. Kullanıcıların komut satırı üzerinden birden fazla yapay zekâ ajanıyla eş zamanlı etkileşime girmesine olanak tanıyor.",
+          "meta": "Rust · ★ 12.354 · +651 bugün"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "summary": "Alibaba tarafından geliştirilen page-agent, web arayüzlerini doğal dil komutlarıyla yönetmeyi sağlayan bir sayfa içi grafik kullanıcı arayüzü (graphical user interface) ajanıdır. TypeScript ile yazılan bu araç, web üzerindeki etkileşimli görevleri otomatize etmek için tarayıcı tabanlı bir kontrol mekanizması sunar.",
+          "meta": "TypeScript · ★ 24.266 · +805 bugün"
+        },
+        {
+          "title": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "summary": "Harvard Üniversitesi tarafından yayınlanan bu kaynak, makine öğrenmesi sistemleri (machine learning systems) mimarisini ve donanım üzerindeki optimizasyon süreçlerini ele alıyor. Yazılım ve donanım etkileşimine odaklanan içerik, ölçeklenebilir yapay zekâ altyapıları oluşturmak için teknik bir rehber sunuyor.",
+          "meta": "Python · ★ 26.981 · +329 bugün"
+        },
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix, uygulamalardaki güvenlik açıklarını tespit etmek ve gidermek amacıyla tasarlanmış açık kaynaklı bir yapay zekâ destekli sızma testi (penetration testing) aracıdır. Python diliyle geliştirilen bu platform, yazılım güvenliğini otomatize ederek zafiyet yönetimi süreçlerini kolaylaştırır.",
+          "meta": "Python · ★ 37.503 · +1.114 bugün"
+        },
+        {
+          "title": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "summary": "Anthropic tarafından geliştirilen kodlama asistanı Claude Code için hazırlanan bu seçki, yazılım geliştirme süreçlerini hızlandıran araçları, eklentileri ve yetenek paketlerini (skills) bir araya getiriyor. Geliştiricilerin bu yapay zekâ aracını projelerine entegre etmelerini kolaylaştıran kaynaklar, otomasyon kapasitesini artırmaya odaklanıyor.",
+          "meta": "Python · ★ 48.592 · +148 bugün"
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "Claude Code ve yapay zekâ ajanları için geliştirilen marketingskills kütüphanesi, dönüşüm oranı optimizasyonu (CRO), metin yazarlığı, arama motoru optimizasyonu (SEO), analitik ve büyüme mühendisliği gibi alanlarda özelleşmiş yetenekler sunuyor. Bu araç seti, yapay zekâ modellerinin pazarlama odaklı görevleri daha profesyonel ve veriye dayalı şekilde yürütmesini sağlıyor.",
+          "meta": "JavaScript · ★ 36.679 · +145 bugün"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman, Claude Code üzerinde kullanılan ve dil yapısını basitleştirerek belirteç (token) kullanımını yüzde 65 oranında azaltan bir yetenek paketidir. Bu araç, yapay zekâ modellerinin daha az veriyle işlem yapmasını sağlayarak maliyet verimliliğini artırmayı hedefler.",
+          "meta": "JavaScript · ★ 85.237 · +1.052 bugün"
+        },
+        {
+          "title": "CoplayDev/unity-mcp",
+          "url": "https://github.com/CoplayDev/unity-mcp",
+          "summary": "Unity MCP, yapay zekâ asistanları ile Unity Düzenleyici (Unity Editor) arasında bir köprü kurarak varlık yönetimi, sahne kontrolü ve kod düzenleme gibi görevlerin otomasyonunu sağlıyor. Bu araç, büyük dil modellerinin (LLM) oyun geliştirme süreçlerine doğrudan müdahale etmesine olanak tanıyor.",
+          "meta": "C# · ★ 12.081 · +414 bugün"
+        },
+        {
+          "title": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "summary": "Meta tarafından geliştirilen Astryx, tamamen özelleştirilebilir ve yapay zekâ ajanlarıyla (AI agents) uyumlu çalışacak şekilde tasarlanmış bir tasarım sistemi (design system) sunuyor. TypeScript tabanlı bu açık kaynaklı proje, arayüz bileşenlerini otonom sistemlerin kullanımına uygun hale getirmeyi amaçlıyor.",
+          "meta": "TypeScript · ★ 6.144 · +522 bugün"
+        },
+        {
+          "title": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "summary": "Immich, kişisel sunucularda barındırılabilen yüksek performanslı bir fotoğraf ve video yönetim çözümü (photo and video management solution) sunuyor. TypeScript diliyle geliştirilen bu platform, medya dosyalarını düzenlemek ve yedeklemek için merkezi bir yapı sağlıyor.",
+          "meta": "TypeScript · ★ 106.308 · +470 bugün"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView, standart kablosuz ağ (WiFi) sinyallerini kullanarak görüntü verisi olmadan gerçek zamanlı mekânsal algılama, hayati bulgu takibi ve varlık tespiti gerçekleştiriyor. Rust diliyle geliştirilen bu yazılım, ortamdaki radyo dalgalarını analiz ederek görsel mahremiyeti koruyan bir izleme altyapısı sunuyor.",
+          "meta": "Rust · ★ 76.868 · +161 bugün"
+        },
+        {
+          "title": "gastownhall/gastown",
+          "url": "https://github.com/gastownhall/gastown",
+          "summary": "Gas Town, çoklu ajan çalışma alanı yöneticisi (multi-agent workspace manager) olarak farklı yapay zekâ ajanlarının bir arada çalışmasını sağlayan bir altyapı sunuyor. Go diliyle geliştirilen bu araç, karmaşık iş akışlarında ajanlar arası koordinasyonu ve kaynak yönetimini merkezileştiriyor.",
+          "meta": "Go · ★ 16.488 · +51 bugün"
+        },
+        {
+          "title": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "summary": "Microsoft tarafından geliştirilen dotnet/skills, yapay zekâ kodlama ajanlarının .NET ve C# projelerinde daha etkili çalışmasını sağlayan hazır yetenek paketleri (skills) sunuyor. Bu kütüphane, yazılım geliştirme süreçlerini otomatize eden ajanlar için standartlaştırılmış işlevler sağlamayı hedefliyor.",
+          "meta": "C# · ★ 4.128 · +246 bugün"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar, OpenAI Codex ve Claude Code kullanım verilerini oturum açma zorunluluğu olmadan görüntülemeyi sağlayan bir araçtır. Swift diliyle geliştirilen bu uygulama, geliştiricilerin yapay zekâ destekli kodlama araçlarındaki tüketim istatistiklerini izlemelerini kolaylaştırır.",
+          "meta": "Swift · ★ 16.432 · +153 bugün"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code, terminal üzerinde çalışan ve doğal dil komutlarıyla kod tabanını analiz ederek rutin görevleri, karmaşık kod açıklamalarını ve sürüm kontrol (git) iş akışlarını yöneten bir ajan tabanlı kodlama aracıdır (agentic coding tool). Yazılım geliştirme süreçlerini hızlandırmayı hedefleyen bu araç, geliştiricilerin terminal ortamından ayrılmadan kodlama görevlerini otomatize etmelerini sağlar.",
+          "meta": "Python · ★ 136.429 · +156 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Organic Maps",
+          "url": "https://organicmaps.app/",
+          "summary": "Organic Maps, çevrimdışı harita verilerini temel alan ve kullanıcı gizliliğini önceliklendiren açık kaynaklı bir harita uygulamasıdır. Uygulama, internet bağlantısı gerektirmeden navigasyon ve yerel arama (local search) özellikleri sunarak OpenStreetMap verilerini kullanır.",
+          "meta": "940 oy · 282 yorum"
+        },
+        {
+          "title": "OpenPrinter",
+          "url": "https://www.opentools.studio/",
+          "summary": "OpenPrinter, farklı yazıcı modelleri için sürücü bağımsız bir baskı deneyimi sunan açık kaynaklı bir yazdırma protokolüdür. Geleneksel sürücü kurulumlarına ihtiyaç duymadan, ağ üzerindeki yazıcılarla doğrudan iletişim kuran evrensel bir arayüz sağlar.",
+          "meta": "795 oy · 192 yorum"
+        },
+        {
+          "title": "It's not about physical vs. digital games, it's about ownership",
+          "url": "https://popcar.bearblog.dev/its-about-ownership/",
+          "summary": "Dijital oyun dünyasında yaşanan tartışmalar fiziksel ve dijital format ayrımından ziyade, kullanıcıların sahip olduğu mülkiyet hakları (ownership) kavramına odaklanıyor. Platformların oyunlara erişimi kısıtlama yetkisi, dijital içeriklerin kalıcılığı ve tüketici hakları konusunda yeni bir hukuki tartışma başlatıyor.",
+          "meta": "449 oy · 339 yorum"
+        },
+        {
+          "title": "The future of Flipper Zero development",
+          "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+          "summary": "Flipper Zero geliştiricileri, cihazın yazılım ekosistemini modüler bir yapıya (modular architecture) dönüştürerek topluluk katkılarını kolaylaştırmayı hedefliyor. Bu yeni yaklaşım, donanım yazılımı (firmware) geliştirmeyi daha sürdürülebilir kılmak için uygulama tabanlı bir dağıtım modeline geçişi öngörüyor.",
+          "meta": "307 oy · 125 yorum"
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra will be in Codex",
+          "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+          "summary": "GPT-5.6 Sol Ultra modelinin kod yazım aracı olan Codex içerisine entegre edileceği duyuruldu. Bu gelişme, yazılım geliştirme süreçlerinde kullanılan yapay zekâ destekli kod tamamlama (code completion) yeteneklerinin güncellenmesini sağlıyor.",
+          "meta": "249 oy · 177 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B, görsel ve metin verilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapay zekâ modelidir. GGUF formatında sunulan bu model, yerel cihazlarda çalıştırılmak üzere optimize edilmiş bir görüntüden metne (image-to-text) dönüştürme yeteneği sağlar.",
+          "meta": "♥ 1.583 · 1.533.844 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. HuggingFace platformunda yüksek etkileşim alan bu model, geniş kapsamlı metin oluşturma süreçlerinde kullanılmaktadır.",
+          "meta": "♥ 3.479 · 220.379 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel tabanlı metinleri işleyerek metin çıktısı üreten bir görüntüden metne (image-to-text) modelidir. Model, karmaşık dokümanlardaki verileri dijital formata dönüştürmek amacıyla tasarlanmıştır.",
+          "meta": "♥ 1.763 · 1.044.217 indirme"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "DeepReinforce-AI tarafından geliştirilen Ornith-1.0-35B, metin üretimi (text generation) odaklı bir dil modelidir. Model, yüksek bellek verimliliği sağlayan nicemleme (quantization) formatı GGUF ile sunulmaktadır.",
+          "meta": "♥ 742 · 394.164 indirme"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "InternScience tarafından geliştirilen Agents-A1, metin üretimi (text generation) görevleri için optimize edilmiş bir yapay zekâ modelidir. Bu model, karmaşık mantıksal yürütme ve ajan tabanlı iş akışlarını desteklemek üzere tasarlanmıştır.",
+          "meta": "♥ 311 · 7.010 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "speaker diarization",
+      "explanation": "Ses kaydındaki konuşmaları kimin yaptığını ayırt ederek bölümlere ayıran teknoloji."
+    },
+    {
+      "term": "live transcription",
+      "explanation": "Konuşulan sesin anlık olarak metne dönüştürülüp ekranda gösterilmesi."
+    },
+    {
+      "term": "code review",
+      "explanation": "Yazılımcıların birbirlerinin yazdığı kodları hatalara karşı inceleyip kontrol etmesi."
+    },
+    {
+      "term": "task delegation",
+      "explanation": "Bir işin tamamlanması için sorumluluğun başka bir kişiye veya sisteme devredilmesi."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Yapay zekânın nasıl davranması ve hangi kurallara uyması gerektiğini belirleyen başlangıç talimatları."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "output",
+      "explanation": "Bir bilgisayar programının veya cihazın işlem sonucunda verdiği çıktı."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya yapay zekânın belirli bir görevi yerine getirmek için sahip olduğu yetenekler."
+    },
+    {
+      "term": "plugin",
+      "explanation": "Ana programa ek özellikler kazandırmak için sonradan yüklenen küçük yazılım parçaları."
+    },
+    {
+      "term": "script",
+      "explanation": "Bilgisayara belirli bir işi otomatik olarak yaptırmak için yazılan kısa komut dizisi."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Bir hizmeti dışarıdan kiralamak yerine kendi sunucunuzda barındırıp yönetmeniz."
+    },
+    {
+      "term": "agent multiplexer",
+      "explanation": "Birden fazla yapay zekâ aracını aynı anda yönetip işleri aralarında paylaştıran sistem."
+    },
+    {
+      "term": "graphical user interface",
+      "explanation": "Bilgisayarı menüler, simgeler ve pencereler aracılığıyla görsel olarak yönetmenizi sağlayan arayüz."
+    },
+    {
+      "term": "machine learning systems",
+      "explanation": "Verileri inceleyerek kendi kendine öğrenen ve zamanla daha iyi kararlar veren bilgisayar yapıları."
+    },
+    {
+      "term": "penetration testing",
+      "explanation": "Siber güvenlik uzmanlarının bir sisteme sızmaya çalışarak güvenlik açıklarını bulması."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Bir internet sitesini ziyaret eden kişilerin müşteri olma oranını artırmaya yönelik yapılan çalışmalar."
+    }
+  ]
+}
