@@ -4096,5 +4096,71 @@
     "stars": 8121,
     "lite": false,
     "headline": "Terminal odaklı yapay zekâ geliştirme ortamı"
+  },
+  {
+    "slug": "awesome-claude-code",
+    "title": "Awesome Claude Code",
+    "tagline": "Anthropic tarafından geliştirilen kodlama asistanı Claude Code için hazırlanan bu seçki, yazılım geliştirme süreçlerini…",
+    "meta": "★ 48.592 · Python",
+    "image": "/assets/discover/og/awesome-claude-code.webp",
+    "source": "GitHub",
+    "date": "2026-07-06",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 48592,
+    "lite": false,
+    "headline": "Claude Code için kapsamlı kaynak rehberi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "marketingskills",
+    "title": "Marketingskills",
+    "tagline": "Claude Code ve yapay zekâ ajanları için geliştirilen marketingskills kütüphanesi, dönüşüm oranı optimizasyonu (CRO), metin…",
+    "meta": "★ 36.679 · JavaScript",
+    "image": "/assets/discover/og/marketingskills.webp",
+    "source": "GitHub",
+    "date": "2026-07-06",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 36679,
+    "lite": false,
+    "headline": "yapay zekâ ajanınıza pazarlama becerileri kazandırın"
+  },
+  {
+    "slug": "gastown",
+    "title": "Gastown",
+    "tagline": "Gas Town, çoklu ajan çalışma alanı yöneticisi (multi-agent workspace manager) olarak farklı yapay zekâ ajanlarının bir arada…",
+    "meta": "★ 16.488 · Go",
+    "image": "/assets/discover/og/gastown.webp",
+    "source": "GitHub",
+    "date": "2026-07-06",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 16488,
+    "lite": false,
+    "headline": "yapay zekâ ajanları için çalışma alanı yönetimi"
+  },
+  {
+    "slug": "codexbar",
+    "title": "CodexBar",
+    "tagline": "CodexBar, OpenAI Codex ve Claude Code kullanım verilerini oturum açma zorunluluğu olmadan görüntülemeyi sağlayan bir araçtır.",
+    "meta": "★ 16.432 · Swift",
+    "image": "/assets/discover/og/codexbar.webp",
+    "source": "GitHub",
+    "date": "2026-07-06",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 16432,
+    "lite": false,
+    "headline": "yapay zekâ kullanım limitlerini izleyin"
   }
 ]

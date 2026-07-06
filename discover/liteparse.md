@@ -52,7 +52,7 @@ Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabi
 - [GitHub deposu →](https://github.com/run-llama/liteparse)
 
 ## İlgili sözlük terimleri
-Pipeline RAG PDF Rust Open Source Artificial Intelligence 
+Output Pipeline RAG PDF Rust Open Source 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

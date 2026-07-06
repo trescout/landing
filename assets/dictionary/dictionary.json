@@ -2077,5 +2077,47 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bir projenin, yazılımın veya ürünün ne yapması gerektiğini ve hangi kurallara uyması gerektiğini belirten detaylı teknik dokümandır."
+  },
+  {
+    "slug": "live-transcription",
+    "en": "Live Transcription",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Konuşulan sesin anlık olarak metne dönüştürülüp eşzamanlı olarak ekranda gösterilmesi sürecidir."
+  },
+  {
+    "slug": "code-review",
+    "en": "Code Review",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımcıların, birbirlerinin yazdığı kodları hataları bulmak ve kaliteyi artırmak için incelemesi sürecidir."
+  },
+  {
+    "slug": "task-delegation",
+    "en": "Task Delegation",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir işin tamamlanması için sorumluluğun başka bir kişiye veya yapay zeka sistemine devredilmesidir."
+  },
+  {
+    "slug": "output",
+    "en": "Output",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir bilgisayar programının veya yapay zeka sisteminin işlem sonucunda ürettiği veridir."
+  },
+  {
+    "slug": "script",
+    "en": "Script",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayara belirli bir işi otomatik olarak yaptırmak için yazılan kısa ve doğrudan çalışan komut dizisidir."
+  },
+  {
+    "slug": "cro",
+    "en": "CRO",
+    "full": "Conversion Rate Optimization",
+    "cat": "data",
+    "kisa": "Bir web sitesini ziyaret eden kişilerin, müşteri veya abone olma oranını artırmaya yönelik yapılan iyileştirmelerdir."
   }
 ]
