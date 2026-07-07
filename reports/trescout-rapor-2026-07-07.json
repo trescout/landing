@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-07",
+  "editorial": "Yapay zekâ sistemlerinde yetenek paketleri (skills) ve istem sızıntıları (prompt leaks) bugün geliştirici ekosisteminin merkezinde yer alıyor. GitHub üzerindeki açık kaynaklı projeler, özellikle Claude ve benzeri modellerin işlevselliğini artıran özelleştirilmiş beceri setlerine odaklanıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Bu depo, Anthropic, OpenAI, Google ve xAI gibi büyük dil modellerine ait sistem yönergelerini (system prompts) derleyerek erişime açıyor. Çeşitli yapay zekâ modellerinin çalışma prensiplerini ve kısıtlamalarını anlamak isteyen geliştiriciler için güncel bir veri kaynağı sunuyor.",
+          "meta": "JavaScript · ★ 52.076 · +1.378 bugün"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Addy Osmani tarafından geliştirilen agent-skills, yapay zekâ kodlama ajanları için üretim seviyesinde mühendislik yetenekleri (engineering skills) sunuyor. Bu kütüphane, JavaScript tabanlı ajanların karmaşık yazılım geliştirme görevlerini standartlaştırılmış yöntemlerle yerine getirmesini sağlıyor.",
+          "meta": "JavaScript · ★ 71.250 · +1.112 bugün"
+        },
+        {
+          "title": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "summary": "Meetily, toplantı kayıtlarını yerel ortamda işleyen ve bulut bağlantısı gerektirmeyen, açık kaynaklı bir toplantı asistanıdır. Rust diliyle geliştirilen uygulama, canlı konuşma dökümü (live transcription), konuşmacı ayrıştırma (speaker diarization) ve özetleme işlemleri için yerel dil modellerini kullanır.",
+          "meta": "Rust · ★ 19.818 · +2.494 bugün"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView, standart kablosuz ağ (WiFi) sinyallerini kullanarak görüntü verisi olmadan gerçek zamanlı mekânsal zekâ, hayati bulgu takibi ve varlık algılama (presence detection) işlemleri gerçekleştiriyor. Rust diliyle geliştirilen bu teknoloji, herhangi bir kamera donanımına ihtiyaç duymadan ortamdaki hareketleri ve biyometrik verileri analiz ediyor.",
+          "meta": "Rust · ★ 77.861 · +470 bugün"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill, yapay zekâ modellerinin ürettiği içeriklerin sıradan ve genel geçer olmasını engellemek amacıyla geliştirilen bir araçtır. Yazılım, dil modellerinin çıktı kalitesini artırmak için estetik ve özgünlük odaklı bir filtreleme mekanizması sunar.",
+          "meta": "JavaScript · ★ 59.459 · +1.458 bugün"
+        },
+        {
+          "title": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "summary": "Claude Code ve benzeri kodlama ajanları için geliştirilen bu kütüphane, 330'dan fazla yetenek (skills), 70'ten fazla özel komut ve 30'un üzerinde hazır ajan yapısı sunuyor. Mühendislikten finansal operasyonlara kadar geniş bir yelpazede özelleştirilebilir iş akışları ve betikler (scripts) sağlayarak yapay zekâ tabanlı üretkenliği standartlaştırıyor.",
+          "meta": "Python · ★ 21.346 · +610 bugün"
+        },
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "OpenAI tarafından yayınlanan codex-plugin-cc, Claude Code içerisinde kod inceleme ve görev devretme işlemleri için Codex modelinin kullanılmasını sağlıyor. Bu eklenti, geliştiricilerin kod tabanı üzerindeki otomasyon süreçlerinde farklı yapay zekâ modellerini bir arada çalıştırmasına imkan tanıyor.",
+          "meta": "JavaScript · ★ 26.431 · +906 bugün"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, Reddit, X, YouTube, Hacker News ve web kaynakları üzerinden belirli bir konu hakkında araştırma yapan bir yapay zekâ yeteneği (AI skill) sunuyor. Python tabanlı bu araç, toplanan verileri analiz ederek doğrulanabilir özetler oluşturuyor.",
+          "meta": "Python · ★ 50.004 · +458 bugün"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Herdr, terminal üzerinde çalışan ve birden fazla yapay zekâ ajanını aynı anda yönetmeye olanak tanıyan bir ajan çoklayıcı (agent multiplexer) aracıdır. Rust diliyle geliştirilen bu yazılım, kullanıcıların komut satırı üzerinden farklı yapay zekâ modelleriyle etkileşim kurmasını sağlar.",
+          "meta": "Rust · ★ 13.065 · +779 bugün"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video, Claude modeline video içeriğini analiz etme yeteneği kazandıran bir Python aracıdır. Yazılım, videoları indirip karelere ayırarak ve metne dönüştürerek (transcription) görsel veriyi yapay zekâ modelinin işleyebileceği formata getirir.",
+          "meta": "Python · ★ 4.554 · +427 bugün"
+        },
+        {
+          "title": "karakeep-app/karakeep",
+          "url": "https://github.com/karakeep-app/karakeep",
+          "summary": "Karakeep, bağlantıları, notları ve görselleri tek bir merkezde toplayan, kendi sunucunuzda barındırabileceğiniz (self-hostable) bir içerik yönetim uygulamasıdır. Yapay zekâ destekli otomatik etiketleme (automatic tagging) ve tam metin arama (full text search) özellikleri ile dijital arşivleme süreçlerini kolaylaştırır.",
+          "meta": "TypeScript · ★ 27.033 · +199 bugün"
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl, web sitelerinden veri kazıma (web scraping) ve arama işlemlerini büyük ölçekte gerçekleştirmek için geliştirilmiş bir arayüz (API) sunuyor. Bu araç, web içeriğini büyük dil modelleri (large language models) için uygun formatlara dönüştürerek veri işleme süreçlerini hızlandırıyor.",
+          "meta": "TypeScript · ★ 146.681 · +867 bugün"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar, OpenAI Codex ve Claude Code kullanım istatistiklerini herhangi bir oturum açma işlemi gerektirmeden görüntülemeye olanak tanıyor. Swift diliyle geliştirilen bu araç, geliştiricilerin kodlama asistanı kullanım verilerini takip etmelerini kolaylaştırıyor.",
+          "meta": "Swift · ★ 16.847 · +598 bugün"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Alibaba tarafından geliştirilen zvec, süreç içi (in-process) çalışma mantığıyla yüksek performans sunan hafif bir vektör veritabanıdır (vector database). C++ diliyle yazılan bu araç, hızlı veri işleme ihtiyaçları için optimize edilmiş bir yapı sunar.",
+          "meta": "C++ · ★ 13.670 · +382 bugün"
+        },
+        {
+          "title": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "summary": "Awesome listeleri, yazılım geliştirme ve teknoloji dünyasındaki çeşitli konulara dair küratörlü kaynak koleksiyonları sunuyor. Bu depo, farklı alanlardaki en iyi araçları, kütüphaneleri ve öğrenme materyallerini bir araya getiren kapsamlı bir dizin (directory) işlevi görüyor.",
+          "meta": "★ 482.524 · +345 bugün"
+        },
+        {
+          "title": "gastownhall/gastown",
+          "url": "https://github.com/gastownhall/gastown",
+          "summary": "Gas Town, çoklu ajanlı çalışma alanı yöneticisi (multi-agent workspace manager) olarak geliştirilen bir sistemdir. Go diliyle yazılan bu araç, otonom ajanların iş birliği yaptığı çalışma ortamlarını yönetmek için yapılandırılmış bir altyapı sunar.",
+          "meta": "Go · ★ 16.787 · +291 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Resetting Xbox",
+          "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+          "summary": "Microsoft, Xbox ekosistemini modernize etmek amacıyla konsol yazılımı ve kullanıcı arayüzünde kapsamlı bir yeniden yapılandırma sürecine giriyor. Bu güncelleme, platformun dijital mağaza deneyimini ve sistem genelindeki performans verimliliğini artırmayı hedefliyor.",
+          "meta": "585 oy · 594 yorum"
+        },
+        {
+          "title": "OpenWrt One – Open Hardware Router",
+          "url": "https://openwrt.org/toh/openwrt/one",
+          "summary": "OpenWrt One, açık donanım (open hardware) prensipleriyle tasarlanmış bir yönlendirici (router) projesidir. Yazılım desteğini doğrudan OpenWrt topluluğundan alan cihaz, kullanıcıların ağ donanımları üzerinde tam denetim sahibi olmasını amaçlıyor.",
+          "meta": "558 oy · 220 yorum"
+        },
+        {
+          "title": "CoMaps – FOSS Offline Maps",
+          "url": "https://www.comaps.app/",
+          "summary": "CoMaps, internet bağlantısı gerektirmeyen, açık kaynaklı (FOSS) bir harita uygulamasıdır. Kullanıcıların çevrimdışı haritaları (offline maps) cihazlarına indirerek veri gizliliğini korumasına ve konum takibi olmadan navigasyon yapmasına olanak tanır.",
+          "meta": "479 oy · 94 yorum"
+        },
+        {
+          "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+          "url": "https://github.com/MaximeRivest/Riddle",
+          "summary": "Fable projesi, dijital not defteri reMarkable cihazını Harry Potter evrenindeki Tom Riddle’ın günlüğüne dönüştürerek kullanıcılarla etkileşimli bir metin tabanlı oyun deneyimi sunuyor. Yazılım, cihazın ekranını ve kalem girişlerini kullanarak yapay zekâ destekli bir anlatı (narrative) arayüzü oluşturuyor.",
+          "meta": "385 oy · 207 yorum"
+        },
+        {
+          "title": "A global workspace in language models",
+          "url": "https://www.anthropic.com/research/global-workspace",
+          "summary": "Anthropic araştırmacıları, dil modellerinin içsel süreçlerini anlamak için küresel çalışma alanı (global workspace) teorisini uyguluyor. Bu yöntem, modellerin farklı bilgi parçalarını birleştirerek karmaşık görevleri nasıl yerine getirdiğini şeffaf hale getirmeyi amaçlıyor.",
+          "meta": "348 oy · 127 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Empero-ai tarafından yayınlanan Qwythos-9B, görsel ve metin tabanlı verileri işleyerek metin çıktısı üreten bir çok modlu model (multimodal model) yapısına sahiptir. Model, 9 milyar parametre kapasitesiyle yüksek bağlam penceresi (context window) desteği sunan GGUF formatında kullanıma sunulmuştur.",
+          "meta": "♥ 1.676 · 1.617.508 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text generation) görevleri için tasarlanmış bir dil modelidir. HuggingFace platformunda geniş bir kullanıcı kitlesine ulaşan bu model, doğal dil işleme süreçlerinde alternatif bir çözüm sunmaktadır.",
+          "meta": "♥ 3.548 · 231.218 indirme"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Tencent tarafından geliştirilen Hy3, metin üretme (text generation) süreçleri için optimize edilmiş bir dil modelidir. Model, geniş ölçekli veri setleri üzerinde eğitilerek çeşitli doğal dil işleme görevlerinde performans göstermeyi amaçlar.",
+          "meta": "♥ 374 · 2 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel metinleri işleyerek metin çıktısı üreten bir görüntü-metin-metin (image-text-to-text) modelidir. Sistem, karmaşık dokümanlardaki verileri dijital formata dönüştürme sürecini otomatize etmeyi amaçlıyor.",
+          "meta": "♥ 1.805 · 1.070.230 indirme"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "InternScience tarafından geliştirilen Agents-A1, metin üretimi (text generation) görevleri için optimize edilmiş bir yapay zekâ modelidir. Bu model, karmaşık mantıksal akıl yürütme gerektiren süreçlerde ajan tabanlı (agent-based) iş akışlarını desteklemek üzere tasarlanmıştır.",
+          "meta": "♥ 350 · 8.766 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "system prompts",
+      "explanation": "Yapay zekanın nasıl davranması ve hangi kurallara uyması gerektiğini belirleyen başlangıç talimatları."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık problemleri çözmek için teknik yöntemler geliştirme ve sistemler kurma becerisi."
+    },
+    {
+      "term": "live transcription",
+      "explanation": "Konuşulan sesin anlık olarak yazıya dökülmesi işlemi."
+    },
+    {
+      "term": "speaker diarization",
+      "explanation": "Ses kaydındaki konuşmaların kim tarafından yapıldığını ayırt edip gruplandıran teknoloji."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "Cihazların kabloya ihtiyaç duymadan internete veya birbirine bağlanmasını sağlayan kablosuz ağ teknolojisi."
+    },
+    {
+      "term": "presence detection",
+      "explanation": "Bir ortamda insan olup olmadığını sensörler veya yazılımlar aracılığıyla anlayan sistem."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya yapay zekanın belirli bir görevi yerine getirebilmesi için sahip olduğu yetenekler."
+    },
+    {
+      "term": "scripts",
+      "explanation": "Bilgisayarın belirli işleri otomatik olarak yapması için yazılmış kısa komut dizileri."
+    },
+    {
+      "term": "AI skill",
+      "explanation": "Yapay zekanın bir işi yapabilmesi için özel olarak eğitildiği veya tanımlandığı yetenek alanı."
+    },
+    {
+      "term": "agent multiplexer",
+      "explanation": "Birden fazla yapay zeka görevlisini yöneterek gelen istekleri doğru birime yönlendiren merkez."
+    },
+    {
+      "term": "transcription",
+      "explanation": "Ses veya video kayıtlarındaki konuşmaların metin haline getirilmesi."
+    },
+    {
+      "term": "self-hostable",
+      "explanation": "Bir yazılımın dışarıdan hizmet almak yerine kendi bilgisayarınızda veya sunucunuzda çalıştırılabilmesi."
+    },
+    {
+      "term": "automatic tagging",
+      "explanation": "Dosya veya verilerin içeriğine bakılarak sistem tarafından kendiliğinden etiketlenmesi."
+    },
+    {
+      "term": "full text search",
+      "explanation": "Bir belgenin içindeki tüm kelimeleri tarayarak aranan bilginin bulunması."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "İnternet sitelerindeki verilerin yazılımlar aracılığıyla otomatik olarak kopyalanıp toplanması."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbiriyle konuşmasını ve veri alışverişi yapmasını sağlayan köprü."
+    }
+  ]
+}

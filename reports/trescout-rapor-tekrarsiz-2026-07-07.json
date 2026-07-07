@@ -1,0 +1,93 @@
+{
+  "date": "2026-07-07",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video, Claude modeline video içeriğini analiz etme yeteneği kazandıran bir Python aracıdır. Yazılım, videoları indirip karelere ayırarak ve metne dönüştürerek (transcription) görsel veriyi yapay zekâ modelinin işleyebileceği formata getirir.",
+          "meta": "Python · ★ 4.554 · +427 bugün"
+        },
+        {
+          "title": "karakeep-app/karakeep",
+          "url": "https://github.com/karakeep-app/karakeep",
+          "summary": "Karakeep, bağlantıları, notları ve görselleri tek bir merkezde toplayan, kendi sunucunuzda barındırabileceğiniz (self-hostable) bir içerik yönetim uygulamasıdır. Yapay zekâ destekli otomatik etiketleme (automatic tagging) ve tam metin arama (full text search) özellikleri ile dijital arşivleme süreçlerini kolaylaştırır.",
+          "meta": "TypeScript · ★ 27.033 · +199 bugün"
+        },
+        {
+          "title": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "summary": "Awesome listeleri, yazılım geliştirme ve teknoloji dünyasındaki çeşitli konulara dair küratörlü kaynak koleksiyonları sunuyor. Bu depo, farklı alanlardaki en iyi araçları, kütüphaneleri ve öğrenme materyallerini bir araya getiren kapsamlı bir dizin (directory) işlevi görüyor.",
+          "meta": "★ 482.524 · +345 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Resetting Xbox",
+          "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+          "summary": "Microsoft, Xbox ekosistemini modernize etmek amacıyla konsol yazılımı ve kullanıcı arayüzünde kapsamlı bir yeniden yapılandırma sürecine giriyor. Bu güncelleme, platformun dijital mağaza deneyimini ve sistem genelindeki performans verimliliğini artırmayı hedefliyor.",
+          "meta": "585 oy · 594 yorum"
+        },
+        {
+          "title": "OpenWrt One – Open Hardware Router",
+          "url": "https://openwrt.org/toh/openwrt/one",
+          "summary": "OpenWrt One, açık donanım (open hardware) prensipleriyle tasarlanmış bir yönlendirici (router) projesidir. Yazılım desteğini doğrudan OpenWrt topluluğundan alan cihaz, kullanıcıların ağ donanımları üzerinde tam denetim sahibi olmasını amaçlıyor.",
+          "meta": "558 oy · 220 yorum"
+        },
+        {
+          "title": "CoMaps – FOSS Offline Maps",
+          "url": "https://www.comaps.app/",
+          "summary": "CoMaps, internet bağlantısı gerektirmeyen, açık kaynaklı (FOSS) bir harita uygulamasıdır. Kullanıcıların çevrimdışı haritaları (offline maps) cihazlarına indirerek veri gizliliğini korumasına ve konum takibi olmadan navigasyon yapmasına olanak tanır.",
+          "meta": "479 oy · 94 yorum"
+        },
+        {
+          "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+          "url": "https://github.com/MaximeRivest/Riddle",
+          "summary": "Fable projesi, dijital not defteri reMarkable cihazını Harry Potter evrenindeki Tom Riddle’ın günlüğüne dönüştürerek kullanıcılarla etkileşimli bir metin tabanlı oyun deneyimi sunuyor. Yazılım, cihazın ekranını ve kalem girişlerini kullanarak yapay zekâ destekli bir anlatı (narrative) arayüzü oluşturuyor.",
+          "meta": "385 oy · 207 yorum"
+        },
+        {
+          "title": "A global workspace in language models",
+          "url": "https://www.anthropic.com/research/global-workspace",
+          "summary": "Anthropic araştırmacıları, dil modellerinin içsel süreçlerini anlamak için küresel çalışma alanı (global workspace) teorisini uyguluyor. Bu yöntem, modellerin farklı bilgi parçalarını birleştirerek karmaşık görevleri nasıl yerine getirdiğini şeffaf hale getirmeyi amaçlıyor.",
+          "meta": "348 oy · 127 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Tencent tarafından geliştirilen Hy3, metin üretme (text generation) süreçleri için optimize edilmiş bir dil modelidir. Model, geniş ölçekli veri setleri üzerinde eğitilerek çeşitli doğal dil işleme görevlerinde performans göstermeyi amaçlar.",
+          "meta": "♥ 374 · 2 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "transcription",
+      "explanation": "Ses veya video kayıtlarındaki konuşmaların metin haline getirilmesi."
+    },
+    {
+      "term": "self-hostable",
+      "explanation": "Bir yazılımın dışarıdan hizmet almak yerine kendi bilgisayarınızda veya sunucunuzda çalıştırılabilmesi."
+    },
+    {
+      "term": "automatic tagging",
+      "explanation": "Dosya veya verilerin içeriğine bakılarak sistem tarafından kendiliğinden etiketlenmesi."
+    },
+    {
+      "term": "full text search",
+      "explanation": "Bir belgenin içindeki tüm kelimeleri tarayarak aranan bilginin bulunması."
+    }
+  ]
+}
