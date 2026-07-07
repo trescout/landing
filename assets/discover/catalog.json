@@ -4162,5 +4162,56 @@
     "stars": 16432,
     "lite": false,
     "headline": "yapay zekâ kullanım limitlerini izleyin"
+  },
+  {
+    "slug": "claude-video",
+    "title": "Claude Video",
+    "tagline": "Claude-video, Claude modeline video içeriğini analiz etme yeteneği kazandıran bir Python aracıdır.",
+    "meta": "★ 4.554 · Python",
+    "image": "/assets/discover/og/claude-video.webp",
+    "source": "GitHub",
+    "date": "2026-07-07",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 4554,
+    "lite": false,
+    "headline": "yapay zekâ ile video analizi"
+  },
+  {
+    "slug": "karakeep",
+    "title": "Karakeep",
+    "tagline": "Karakeep, bağlantıları, notları ve görselleri tek bir merkezde toplayan, kendi sunucunuzda barındırabileceğiniz…",
+    "meta": "★ 27.033 · TypeScript",
+    "image": "/assets/discover/og/karakeep.webp",
+    "source": "GitHub",
+    "date": "2026-07-07",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 27033,
+    "lite": false,
+    "headline": "Kendi sunucunuzda dijital arşiv yönetimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "awesome",
+    "title": "Awesome",
+    "tagline": "Awesome listeleri, yazılım geliştirme ve teknoloji dünyasındaki çeşitli konulara dair küratörlü kaynak koleksiyonları sunuyor.",
+    "meta": "★ 482.524",
+    "image": "/assets/discover/og/awesome.webp",
+    "source": "GitHub",
+    "date": "2026-07-07",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 482524,
+    "lite": false,
+    "headline": "Teknoloji dünyasında küratörlü kaynak rehberi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

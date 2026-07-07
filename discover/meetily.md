@@ -33,7 +33,7 @@ Toplantı kayıtlarımı yerel olarak işleyen bu aracı kullanarak, gizliliğim
 - [GitHub deposu →](https://github.com/Zackriya-Solutions/meetily)
 
 ## İlgili sözlük terimleri
-Transcription Speaker Diarization Rust Artificial Intelligence 
+Speaker Diarization Transcription Rust Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

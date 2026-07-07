@@ -2119,5 +2119,26 @@
     "full": "Conversion Rate Optimization",
     "cat": "data",
     "kisa": "Bir web sitesini ziyaret eden kişilerin, müşteri veya abone olma oranını artırmaya yönelik yapılan iyileştirmelerdir."
+  },
+  {
+    "slug": "presence-detection",
+    "en": "Presence Detection",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir ortamda insan varlığını sensörler veya yazılım yardımıyla tespit eden teknolojidir."
+  },
+  {
+    "slug": "automatic-tagging",
+    "en": "Automatic Tagging",
+    "full": "",
+    "cat": "data",
+    "kisa": "Verilerin veya dosyaların içeriği analiz edilerek sistem tarafından otomatik olarak kategorize edilmesidir."
+  },
+  {
+    "slug": "full-text-search",
+    "en": "Full Text Search",
+    "full": "",
+    "cat": "data",
+    "kisa": "Bir belgedeki veya veritabanındaki sadece başlıkları değil, tüm metin içeriğini tarayarak yapılan detaylı arama yöntemidir."
   }
 ]
