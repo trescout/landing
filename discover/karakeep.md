@@ -23,7 +23,7 @@ Kurulum yapmak için resmî dokümantasyon sayfasındaki Docker kurulum rehberin
 - [GitHub deposu →](https://github.com/karakeep-app/karakeep)
 
 ## İlgili sözlük terimleri
-Automatic Tagging Full Text Search Artificial Intelligence 
+Automatic Tagging Full Text Search Self-hostable Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

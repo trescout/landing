@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir. Açık kaynak ve teknoloji trendlerini Türkçe takip etmek isteyenler için.
 
-Son güncelleme: 2026-07-07 · 252 araç · 306 terim
+Son güncelleme: 2026-07-07 · 252 araç · 307 terim
 
 ## Teknoloji Sözlüğü
 
@@ -249,6 +249,7 @@ Yapay zekâ ve yazılım terimlerinin sade Türkçe açıklamaları. Her terimin
 - [SDK nedir?](https://trescout.com/dictionary/sdk/) (ham: https://trescout.com/dictionary/sdk.md): Yazılımcıların belirli bir platform için uygulama geliştirmesini kolaylaştıran araçlar ve…
 - [Secrets nedir?](https://trescout.com/dictionary/secrets/) (ham: https://trescout.com/dictionary/secrets.md): Yazılım uygulamalarının güvenli bir şekilde çalışması için ihtiyaç duyduğu şifreler, API…
 - [Security Scanner nedir?](https://trescout.com/dictionary/security-scanner/) (ham: https://trescout.com/dictionary/security-scanner.md): Yazılım veya ağ sistemlerindeki güvenlik açıklarını otomatik olarak tespit eden bir araçt…
+- [Self-hostable nedir?](https://trescout.com/dictionary/self-hostable/) (ham: https://trescout.com/dictionary/self-hostable.md): Bir yazılımın dışarıdan hizmet almak yerine kendi altyapınızda çalıştırılabilir olmasıdır.
 - [Self-hosted nedir?](https://trescout.com/dictionary/self-hosted/) (ham: https://trescout.com/dictionary/self-hosted.md): Bir yazılımı üçüncü taraf bir bulut hizmeti yerine, kendi bilgisayarınızda veya özel sunu…
 - [Self-hosting nedir?](https://trescout.com/dictionary/self-hosting/) (ham: https://trescout.com/dictionary/self-hosting.md): Yazılımları kendi sunucularınızda veya bilgisayarlarınızda barındırma yöntemidir.
 - [Self-orchestration nedir?](https://trescout.com/dictionary/self-orchestration/) (ham: https://trescout.com/dictionary/self-orchestration.md): Yapay zekânın karmaşık görevleri kendi başına planlaması ve gerekli adımları sırasıyla yö…

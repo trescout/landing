@@ -2140,5 +2140,12 @@
     "full": "",
     "cat": "data",
     "kisa": "Bir belgedeki veya veritabanındaki sadece başlıkları değil, tüm metin içeriğini tarayarak yapılan detaylı arama yöntemidir."
+  },
+  {
+    "slug": "self-hostable",
+    "en": "Self-hostable",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın dışarıdan hizmet almak yerine kendi altyapınızda çalıştırılabilir olmasıdır."
   }
 ]
