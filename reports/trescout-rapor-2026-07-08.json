@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-08",
+  "editorial": "Bugünün teknoloji gündemini otonom yetenek setleri (agent skills) ve sistem komutlarının (system prompts) güvenliği üzerine kurulu bir yapı belirliyor. Özellikle açık kaynaklı iş arama otomasyonları ile güvenli çalışma ortamı (sandbox) çözümleri geliştirici ekosisteminde yoğun ilgi görüyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "Claude Code altyapısını kullanan ai-job-search, iş arama sürecini otomatikleştiren bir çerçeve (framework) sunuyor. Araç, kullanıcı profilini analiz ederek öz geçmiş düzenleme, ön yazı yazma ve mülakat hazırlığı gibi görevleri yapay zekâ desteğiyle gerçekleştiriyor.",
+          "meta": "TypeScript · ★ 12.031 · +2.514 bugün"
+        },
+        {
+          "title": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "summary": "Meetily, Rust diliyle geliştirilen ve tüm işlemleri yerel cihazda yürüten gizlilik odaklı bir toplantı asistanıdır. Ses kaydı dökümü (transcription), konuşmacı ayrıştırma (speaker diarization) ve özetleme süreçlerini bulut bağlantısı olmadan gerçekleştirir.",
+          "meta": "Rust · ★ 21.061 · +1.777 bugün"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Yapay zekâ kodlama ajanları için geliştirilen bu kütüphane, üretim seviyesinde mühendislik yetenekleri (engineering skills) sunuyor. JavaScript tabanlı bu araç seti, ajanların yazılım geliştirme süreçlerinde daha işlevsel görevler üstlenmesini sağlıyor.",
+          "meta": "JavaScript · ★ 72.455 · +1.317 bugün"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView, standart kablosuz internet sinyallerini kullanarak görüntü verisine ihtiyaç duymadan gerçek zamanlı mekânsal zekâ, hayati belirti takibi ve varlık algılama (presence detection) işlemleri gerçekleştiriyor. Rust diliyle geliştirilen bu teknoloji, mevcut WiFi altyapısını görsel olmayan bir algılama sistemine dönüştürüyor.",
+          "meta": "Rust · ★ 78.671 · +1.129 bugün"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Sistem istemi sızıntıları (system prompt leaks) deposu, Anthropic, OpenAI, Google ve xAI gibi büyük dil modellerine ait gizli talimat setlerini bir araya getiriyor. Bu çalışma, popüler yapay zekâ modellerinin çalışma prensiplerini ve güvenlik yapılandırmalarını anlamak isteyen geliştiriciler için merkezi bir kaynak sunuyor.",
+          "meta": "JavaScript · ★ 53.327 · +1.691 bugün"
+        },
+        {
+          "title": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "summary": "Tencent Cloud tarafından geliştirilen CubeSandbox, yapay zekâ ajanları (AI agents) için hızlı, eş zamanlı ve güvenli bir çalışma ortamı (sandbox) sunuyor. Rust diliyle yazılan bu hafif yapı, ajanların yalıtılmış bir alanda güvenle çalışmasını sağlıyor.",
+          "meta": "Rust · ★ 8.583 · +664 bugün"
+        },
+        {
+          "title": "AhmadIbrahiim/Website-downloader",
+          "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+          "summary": "AhmadIbrahiim tarafından geliştirilen Website-downloader, Node.js kullanarak bir web sitesinin tüm kaynak kodlarını ve varlıklarını (assets) yerel bilgisayara indirmeye olanak tanıyor. Araç, JavaScript dosyaları, stil sayfaları ve görseller dahil olmak üzere sitenin tamamını arşivlemek için kullanılıyor.",
+          "meta": "HTML · ★ 4.223 · +140 bugün"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar, OpenAI Codex ve Claude Code kullanım istatistiklerini oturum açma gereksinimi olmadan görüntülemeyi sağlayan bir araçtır. Swift diliyle geliştirilen bu yazılım, geliştiricilerin yapay zekâ destekli kodlama araçlarındaki tüketim verilerini takip etmesini kolaylaştırır.",
+          "meta": "Swift · ★ 17.106 · +376 bugün"
+        },
+        {
+          "title": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "summary": "Microsoft tarafından geliştirilen dotnet/skills, yapay zekâ kodlama ajanlarının .NET ve C# projelerinde daha etkili çalışmasını sağlayan yeniden kullanılabilir yetenek paketleri (skills) sunuyor. Bu kütüphane, geliştirme süreçlerini otomatikleştirmek için ajan tabanlı iş akışlarını standartlaştırmayı amaçlıyor.",
+          "meta": "C# · ★ 4.361 · +64 bugün"
+        },
+        {
+          "title": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "summary": "OfficeCLI, yapay zekâ ajanlarının Word, Excel ve PowerPoint dosyalarını doğrudan okumasına, düzenlemesine ve otomatize etmesine olanak tanıyan açık kaynaklı bir ofis paketi sunuyor. C# ile geliştirilen bu araç, herhangi bir ofis yazılımı kurulumuna ihtiyaç duymadan tek bir ikili dosya (binary) üzerinden işlem yapılmasına imkân veriyor.",
+          "meta": "C# · ★ 10.491 · +893 bugün"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video aracı, videoları indirip karelerine ayıran ve ses kayıtlarını metne dönüştüren bir yapıyla Claude modeline video analizi yeteneği kazandırıyor. Python tabanlı bu sistem, görsel ve işitsel verileri işleyerek yapay zekânın video içerikleri üzerinden çıkarım yapmasını sağlıyor.",
+          "meta": "Python · ★ 5.415 · +965 bugün"
+        },
+        {
+          "title": "kyutai-labs/pocket-tts",
+          "url": "https://github.com/kyutai-labs/pocket-tts",
+          "summary": "Kyutai Labs tarafından geliştirilen Pocket-TTS, grafik işlem birimine ihtiyaç duymadan sadece merkezi işlem birimi (CPU) üzerinde çalışan hafif bir metinden sese dönüştürme (text-to-speech) modelidir. Düşük kaynak tüketimi sayesinde donanım kısıtlaması olan cihazlarda hızlı ve verimli ses sentezleme imkânı sunar.",
+          "meta": "Python · ★ 6.350 · +531 bugün"
+        },
+        {
+          "title": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "summary": "Anthropic tarafından geliştirilen Claude Code için oluşturulan bu kürasyon, yazılım geliştirme ajanlarına (coding agents) yönelik yetenek paketlerini, geliştirici araçlarını ve eklentileri bir araya getiriyor. Derleme, Claude Code ekosistemindeki iş akışlarını optimize etmek için kullanılan kaynakları merkezi bir noktada topluyor.",
+          "meta": "Python · ★ 49.316 · +144 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+          "url": "https://streetcomplete.app/",
+          "summary": "StreetComplete, kullanıcıların basit soruları yanıtlayarak Açık Sokak Haritası (OpenStreetMap) verilerini güncellemesini sağlayan bir mobil uygulamadır. Gönüllü katkılarını oyunlaştırma (gamification) yöntemiyle teşvik ederek harita üzerindeki eksik bilgilerin tamamlanmasını hedefler.",
+          "meta": "732 oy · 173 yorum"
+        },
+        {
+          "title": "Chat Control 1.0 and 2.0 Explained",
+          "url": "https://fightchatcontrol.eu/chat-control-overview",
+          "summary": "Avrupa Birliği bünyesinde tartışılan sohbet kontrolü (chat control) düzenlemeleri, uçtan uca şifrelenmiş mesajlaşma platformlarında içerik tarama zorunluluğu getirmeyi amaçlıyor. Bu yasal girişimler, çocuk istismarıyla mücadele gerekçesiyle dijital mahremiyet ve veri güvenliği standartlarını yeniden tanımlıyor.",
+          "meta": "550 oy · 182 yorum"
+        },
+        {
+          "title": "Every new car sold in the European Union must include a driver monitoring camera",
+          "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+          "summary": "Avrupa Birliği genelinde satılan tüm yeni araçlarda, sürücü dikkat dağınıklığını tespit eden izleme kamerası (driver monitoring camera) bulundurma zorunluluğu getirildi. Bu sistem, sürücü davranışlarını analiz ederek güvenlik uyarıları (safety alerts) aracılığıyla kaza riskini azaltmayı hedefliyor.",
+          "meta": "535 oy · 694 yorum"
+        },
+        {
+          "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+          "url": "https://30papers.com/",
+          "summary": "30papers.com platformu, yapay zekâ araştırmacısı Ilya Sutskever tarafından önerilen 30 temel makine öğrenmesi (machine learning) makalesini yeni başlayanlar için erişilebilir bir formatta sunuyor. Proje, karmaşık akademik içerikleri basitleştirerek makine öğrenmesi alanındaki temel kavramların öğrenilmesini kolaylaştırmayı amaçlıyor.",
+          "meta": "452 oy · 71 yorum"
+        },
+        {
+          "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+          "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+          "summary": "Kokoro, düşük işlemci gücüyle çalışan ve yerel cihazlarda yüksek kaliteli metinden sese dönüştürme (text-to-speech) yeteneği sunan bir modeldir. Hafif mimarisi sayesinde internet bağlantısına ihtiyaç duymadan hızlı ve doğal ses sentezleme işlemleri gerçekleştirilmesine olanak tanır.",
+          "meta": "368 oy · 74 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B modeli, görsel ve metin verilerini işleyerek metin çıktısı üreten bir çok modlu (multimodal) yapay zekâ modelidir. GGUF formatında sunulan bu model, düşük donanım gereksinimleriyle yerel sistemlerde görsel tabanlı metin üretimi yapılmasına olanak tanır.",
+          "meta": "♥ 1.778 · 1.683.711 indirme"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Tencent tarafından geliştirilen Hy3, metin üretimi (text generation) süreçleri için optimize edilmiş bir dil modelidir. Model, geniş kapsamlı veri setleri üzerinde eğitilerek çeşitli doğal dil işleme görevlerinde tutarlı çıktılar üretmeyi amaçlar.",
+          "meta": "♥ 508 · 121 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Açık kaynaklı yapısıyla geliştiricilere çeşitli doğal dil işleme süreçlerinde kullanabilecekleri yeni bir alternatif sunmaktadır.",
+          "meta": "♥ 3.611 · 281.584 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel tabanlı metinleri metin verisine dönüştüren bir görüntü-metin-metin (image-text-to-text) modelidir. Bu model, karmaşık dokümanlar ve yoğun metin içeren görseller üzerinde yüksek doğrulukla optik karakter tanıma (optical character recognition) işlemleri gerçekleştirmektedir.",
+          "meta": "♥ 1.840 · 1.084.945 indirme"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "InternScience tarafından geliştirilen Agents-A1, metin üretimi (text generation) görevleri için optimize edilmiş bir yapay zekâ modelidir. Model, karmaşık komutları işleme ve bağlamsal tutarlılığı koruma konusunda özelleşmiş bir mimari sunmaktadır.",
+          "meta": "♥ 379 · 14.723 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri hızlandırmak için kullanılan, hazır yapı ve kurallar bütünü."
+    },
+    {
+      "term": "transcription",
+      "explanation": "Konuşma seslerinin yazıya dökülerek metin haline getirilmesi işlemi."
+    },
+    {
+      "term": "speaker diarization",
+      "explanation": "Bir ses kaydındaki konuşmaların kim tarafından yapıldığını ayırt edip etiketleme süreci."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık problemleri mantıksal adımlarla çözebilme ve teknik araçları verimli kullanabilme yeteneği."
+    },
+    {
+      "term": "presence detection",
+      "explanation": "Sensörler veya yazılımlar aracılığıyla bir ortamda insan veya nesne olup olmadığının anlaşılması."
+    },
+    {
+      "term": "system prompt leaks",
+      "explanation": "Bir yapay zekânın arka planda gizli tutulan talimatlarının kullanıcı tarafından açığa çıkarılması."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar alıp belirli görevleri yerine getirebilen otonom yazılımlar."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Yazılımların ana sisteme zarar vermeden güvenle test edilebildiği izole edilmiş çalışma alanı."
+    },
+    {
+      "term": "assets",
+      "explanation": "Bir projede kullanılan görsel, ses, kod veya dosya gibi tüm dijital kaynaklar."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yapay zekâ modelinin belirli bir konuda uzmanlaşarak gerçekleştirebildiği özel yetenekler."
+    },
+    {
+      "term": "binary",
+      "explanation": "Bilgisayarın doğrudan anlayıp çalıştırabildiği, sadece sıfır ve birlerden oluşan makine dili."
+    },
+    {
+      "term": "CPU",
+      "explanation": "Bilgisayardaki tüm hesaplamaları yapan ve komutları işleyen ana işlem birimi."
+    },
+    {
+      "term": "text-to-speech",
+      "explanation": "Yazılı metinlerin bilgisayar tarafından doğal bir insan sesiyle seslendirilmesi."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Kullanıcı adına yazılım kodu yazan, hata ayıklayan ve projeler geliştiren yapay zekâ araçları."
+    },
+    {
+      "term": "OpenStreetMap",
+      "explanation": "Gönüllüler tarafından oluşturulan, herkesin ücretsiz kullanabildiği dünya haritası veritabanı."
+    },
+    {
+      "term": "gamification",
+      "explanation": "Oyun dışı alanlarda kullanıcıyı motive etmek için puan, rozet veya seviye gibi oyun mekaniklerinin kullanılması."
+    }
+  ]
+}

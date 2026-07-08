@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-08",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "Claude Code altyapısını kullanan ai-job-search, iş arama sürecini otomatikleştiren bir çerçeve (framework) sunuyor. Araç, kullanıcı profilini analiz ederek öz geçmiş düzenleme, ön yazı yazma ve mülakat hazırlığı gibi görevleri yapay zekâ desteğiyle gerçekleştiriyor.",
+          "meta": "TypeScript · ★ 12.031 · +2.514 bugün"
+        },
+        {
+          "title": "AhmadIbrahiim/Website-downloader",
+          "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+          "summary": "AhmadIbrahiim tarafından geliştirilen Website-downloader, Node.js kullanarak bir web sitesinin tüm kaynak kodlarını ve varlıklarını (assets) yerel bilgisayara indirmeye olanak tanıyor. Araç, JavaScript dosyaları, stil sayfaları ve görseller dahil olmak üzere sitenin tamamını arşivlemek için kullanılıyor.",
+          "meta": "HTML · ★ 4.223 · +140 bugün"
+        },
+        {
+          "title": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "summary": "OfficeCLI, yapay zekâ ajanlarının Word, Excel ve PowerPoint dosyalarını doğrudan okumasına, düzenlemesine ve otomatize etmesine olanak tanıyan açık kaynaklı bir ofis paketi sunuyor. C# ile geliştirilen bu araç, herhangi bir ofis yazılımı kurulumuna ihtiyaç duymadan tek bir ikili dosya (binary) üzerinden işlem yapılmasına imkân veriyor.",
+          "meta": "C# · ★ 10.491 · +893 bugün"
+        },
+        {
+          "title": "kyutai-labs/pocket-tts",
+          "url": "https://github.com/kyutai-labs/pocket-tts",
+          "summary": "Kyutai Labs tarafından geliştirilen Pocket-TTS, grafik işlem birimine ihtiyaç duymadan sadece merkezi işlem birimi (CPU) üzerinde çalışan hafif bir metinden sese dönüştürme (text-to-speech) modelidir. Düşük kaynak tüketimi sayesinde donanım kısıtlaması olan cihazlarda hızlı ve verimli ses sentezleme imkânı sunar.",
+          "meta": "Python · ★ 6.350 · +531 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+          "url": "https://streetcomplete.app/",
+          "summary": "StreetComplete, kullanıcıların basit soruları yanıtlayarak Açık Sokak Haritası (OpenStreetMap) verilerini güncellemesini sağlayan bir mobil uygulamadır. Gönüllü katkılarını oyunlaştırma (gamification) yöntemiyle teşvik ederek harita üzerindeki eksik bilgilerin tamamlanmasını hedefler.",
+          "meta": "732 oy · 173 yorum"
+        },
+        {
+          "title": "Chat Control 1.0 and 2.0 Explained",
+          "url": "https://fightchatcontrol.eu/chat-control-overview",
+          "summary": "Avrupa Birliği bünyesinde tartışılan sohbet kontrolü (chat control) düzenlemeleri, uçtan uca şifrelenmiş mesajlaşma platformlarında içerik tarama zorunluluğu getirmeyi amaçlıyor. Bu yasal girişimler, çocuk istismarıyla mücadele gerekçesiyle dijital mahremiyet ve veri güvenliği standartlarını yeniden tanımlıyor.",
+          "meta": "550 oy · 182 yorum"
+        },
+        {
+          "title": "Every new car sold in the European Union must include a driver monitoring camera",
+          "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+          "summary": "Avrupa Birliği genelinde satılan tüm yeni araçlarda, sürücü dikkat dağınıklığını tespit eden izleme kamerası (driver monitoring camera) bulundurma zorunluluğu getirildi. Bu sistem, sürücü davranışlarını analiz ederek güvenlik uyarıları (safety alerts) aracılığıyla kaza riskini azaltmayı hedefliyor.",
+          "meta": "535 oy · 694 yorum"
+        },
+        {
+          "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+          "url": "https://30papers.com/",
+          "summary": "30papers.com platformu, yapay zekâ araştırmacısı Ilya Sutskever tarafından önerilen 30 temel makine öğrenmesi (machine learning) makalesini yeni başlayanlar için erişilebilir bir formatta sunuyor. Proje, karmaşık akademik içerikleri basitleştirerek makine öğrenmesi alanındaki temel kavramların öğrenilmesini kolaylaştırmayı amaçlıyor.",
+          "meta": "452 oy · 71 yorum"
+        },
+        {
+          "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+          "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+          "summary": "Kokoro, düşük işlemci gücüyle çalışan ve yerel cihazlarda yüksek kaliteli metinden sese dönüştürme (text-to-speech) yeteneği sunan bir modeldir. Hafif mimarisi sayesinde internet bağlantısına ihtiyaç duymadan hızlı ve doğal ses sentezleme işlemleri gerçekleştirilmesine olanak tanır.",
+          "meta": "368 oy · 74 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri hızlandırmak için kullanılan, hazır yapı ve kurallar bütünü."
+    },
+    {
+      "term": "assets",
+      "explanation": "Bir projede kullanılan görsel, ses, kod veya dosya gibi tüm dijital kaynaklar."
+    },
+    {
+      "term": "binary",
+      "explanation": "Bilgisayarın doğrudan anlayıp çalıştırabildiği, sadece sıfır ve birlerden oluşan makine dili."
+    },
+    {
+      "term": "CPU",
+      "explanation": "Bilgisayardaki tüm hesaplamaları yapan ve komutları işleyen ana işlem birimi."
+    },
+    {
+      "term": "text-to-speech",
+      "explanation": "Yazılı metinlerin bilgisayar tarafından doğal bir insan sesiyle seslendirilmesi."
+    },
+    {
+      "term": "OpenStreetMap",
+      "explanation": "Gönüllüler tarafından oluşturulan, herkesin ücretsiz kullanabildiği dünya haritası veritabanı."
+    },
+    {
+      "term": "gamification",
+      "explanation": "Oyun dışı alanlarda kullanıcıyı motive etmek için puan, rozet veya seviye gibi oyun mekaniklerinin kullanılması."
+    }
+  ]
+}
