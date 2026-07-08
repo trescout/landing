@@ -2189,5 +2189,12 @@
     "full": "",
     "cat": "dev",
     "kisa": "Oyun dışı alanlarda kullanıcıyı motive etmek için oyun mekaniklerinin kullanılmasıdır."
+  },
+  {
+    "slug": "scripts",
+    "en": "Scripts",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarın belirli görevleri otomatik olarak yerine getirmesi için hazırlanan kısa komut dizileridir."
   }
 ]
