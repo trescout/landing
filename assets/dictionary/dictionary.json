@@ -2147,5 +2147,47 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bir yazılımın dışarıdan hizmet almak yerine kendi altyapınızda çalıştırılabilir olmasıdır."
+  },
+  {
+    "slug": "system-prompt-leaks",
+    "en": "System Prompt Leaks",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın gizli talimatlarının kullanıcı tarafından ortaya çıkarılmasıdır."
+  },
+  {
+    "slug": "assets",
+    "en": "Assets",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir projeyi oluşturan tüm dijital parçaların bütünüdür."
+  },
+  {
+    "slug": "binary",
+    "en": "Binary",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarın sadece 0 ve 1 kullanarak anladığı en temel makine dilidir."
+  },
+  {
+    "slug": "cpu",
+    "en": "CPU",
+    "full": "Central Processing Unit",
+    "cat": "dev",
+    "kisa": "Bilgisayarın tüm işlemleri yapan ve yöneten ana beynidir."
+  },
+  {
+    "slug": "openstreetmap",
+    "en": "OpenStreetMap",
+    "full": "",
+    "cat": "data",
+    "kisa": "Dünya üzerindeki herkesin katkıda bulunabildiği ücretsiz ve açık kaynaklı bir harita projesidir."
+  },
+  {
+    "slug": "gamification",
+    "en": "Gamification",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Oyun dışı alanlarda kullanıcıyı motive etmek için oyun mekaniklerinin kullanılmasıdır."
   }
 ]

@@ -4213,5 +4213,70 @@
     "headline": "Teknoloji dünyasında küratörlü kaynak rehberi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "ai-job-search",
+    "title": "AI Job Search",
+    "tagline": "Claude Code altyapısını kullanan ai-job-search, iş arama sürecini otomatikleştiren bir çerçeve (framework) sunuyor.",
+    "meta": "★ 12.031 · TypeScript",
+    "image": "/assets/discover/og/ai-job-search.webp",
+    "source": "GitHub",
+    "date": "2026-07-08",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 12031,
+    "lite": false,
+    "headline": "Claude Code ile otomatik iş başvurusu"
+  },
+  {
+    "slug": "website-downloader",
+    "title": "Website-downloader",
+    "tagline": "AhmadIbrahiim tarafından geliştirilen Website-downloader, Node.js kullanarak bir web sitesinin tüm kaynak kodlarını ve…",
+    "meta": "★ 4.223 · HTML",
+    "image": "/assets/discover/og/website-downloader.webp",
+    "source": "GitHub",
+    "date": "2026-07-08",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 4223,
+    "lite": false,
+    "headline": "Web sitelerini yerel diske indirin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "officecli",
+    "title": "OfficeCLI",
+    "tagline": "OfficeCLI, yapay zekâ ajanlarının Word, Excel ve PowerPoint dosyalarını doğrudan okumasına, düzenlemesine ve otomatize…",
+    "meta": "★ 10.491 · C#",
+    "image": "/assets/discover/og/officecli.webp",
+    "source": "GitHub",
+    "date": "2026-07-08",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 10491,
+    "lite": false,
+    "headline": "yapay zekâ ile ofis dosyalarını yönetin"
+  },
+  {
+    "slug": "pocket-tts",
+    "title": "Pocket TTS",
+    "tagline": "Kyutai Labs tarafından geliştirilen Pocket-TTS, grafik işlem birimine ihtiyaç duymadan sadece merkezi işlem birimi (CPU)…",
+    "meta": "★ 6.350 · Python",
+    "image": "/assets/discover/og/pocket-tts.webp",
+    "source": "GitHub",
+    "date": "2026-07-08",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 6350,
+    "lite": false,
+    "headline": "CPU üzerinde çalışan hafif yapay zekâ ses sentezleyici"
   }
 ]
