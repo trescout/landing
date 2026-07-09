@@ -2196,5 +2196,40 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bilgisayarın belirli görevleri otomatik olarak yerine getirmesi için hazırlanan kısa komut dizileridir."
+  },
+  {
+    "slug": "orm",
+    "en": "ORM",
+    "full": "Object-Relational Mapping",
+    "cat": "dev",
+    "kisa": "Veritabanı tablolarını kod içindeki nesnelere dönüştüren bir köprüdür."
+  },
+  {
+    "slug": "type-safe",
+    "en": "Type-safe",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Veri türlerinin hatalı kullanımını engelleyerek yazılımın güvenli çalışmasını sağlayan bir disiplindir."
+  },
+  {
+    "slug": "declarative-continuous-deployment",
+    "en": "Declarative Continuous Deployment",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Sistemin son halini tanımlayıp, güncellemelerin otomatik olarak bu hedefe ulaşmasını sağlayan yöntemdir."
+  },
+  {
+    "slug": "office-suite",
+    "en": "Office Suite",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Günlük ofis işlerini dijital ortamda yapmak için bir araya getirilmiş yazılım paketidir."
+  },
+  {
+    "slug": "patch",
+    "en": "Patch",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımdaki hataları düzeltmek veya eksikleri gidermek için uygulanan küçük güncelleme yamasıdır."
   }
 ]

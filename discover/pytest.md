@@ -30,7 +30,7 @@ Python projemde birim testleri yazmak istiyorum. Pytest kullanarak basit bir tes
 - [GitHub deposu →](https://github.com/pytest-dev/pytest)
 
 ## İlgili sözlük terimleri
-Unit Testing Testing Framework Terminal Framework Artificial Intelligence 
+Unit Testing Testing Framework Framework Terminal Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

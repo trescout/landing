@@ -51,7 +51,7 @@ OpenDataLoader PDF aracını kullanarak elimdeki PDF dosyalarını analiz etmek 
 - [GitHub deposu →](https://github.com/opendataloader-project/opendataloader-pdf)
 
 ## İlgili sözlük terimleri
-PDF Parser RAG SDK Markdown PDF LLM 
+PDF Parser RAG SDK Markdown LLM PDF 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

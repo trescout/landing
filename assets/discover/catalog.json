@@ -4278,5 +4278,100 @@
     "stars": 6350,
     "lite": false,
     "headline": "CPU üzerinde çalışan hafif yapay zekâ ses sentezleyici"
+  },
+  {
+    "slug": "tencentdb-agent-memory",
+    "title": "TencentDB-Agent-Memory",
+    "tagline": "TencentDB Agent Memory, yapay zekâ ajanları için dört aşamalı bir süreçle tamamen yerel uzun süreli bellek (long-term memory)…",
+    "meta": "★ 7.846 · TypeScript",
+    "image": "/assets/discover/og/tencentdb-agent-memory.webp",
+    "source": "GitHub",
+    "date": "2026-07-09",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7846,
+    "lite": false,
+    "headline": "yapay zekâ ajanları için katmanlı bellek"
+  },
+  {
+    "slug": "prisma",
+    "title": "Prisma",
+    "tagline": "Prisma, Node.js ve TypeScript projeleri için veritabanı etkileşimlerini kolaylaştıran bir nesne ilişkisel eşleyici (ORM) aracıdır.",
+    "meta": "★ 46.668 · TypeScript",
+    "image": "/assets/discover/og/prisma.webp",
+    "source": "GitHub",
+    "date": "2026-07-09",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 46668,
+    "lite": false,
+    "headline": "Node.js projeleri için veritabanı yönetimi"
+  },
+  {
+    "slug": "argo-cd",
+    "title": "Argo Cd",
+    "tagline": "Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarative continuous deployment) süreçlerini yöneten bir…",
+    "meta": "★ 23.488 · Go",
+    "image": "/assets/discover/og/argo-cd.webp",
+    "source": "GitHub",
+    "date": "2026-07-09",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 23488,
+    "lite": false,
+    "headline": "Kubernetes için yapay zekâ destekli sürekli dağıtım",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "photogimp",
+    "title": "PhotoGIMP",
+    "tagline": "PhotoGIMP, GIMP arayüzünü Photoshop kullanıcılarına tanıdık gelecek şekilde düzenleyen bir yama (patch) sunuyor.",
+    "meta": "★ 15.195 · CSS",
+    "image": "/assets/discover/og/photogimp.webp",
+    "source": "GitHub",
+    "date": "2026-07-09",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 15195,
+    "lite": false,
+    "headline": "GIMP arayüzünü Photoshop benzeri yapın"
+  },
+  {
+    "slug": "desktopcommandermcp",
+    "title": "DesktopCommanderMCP",
+    "tagline": "DesktopCommanderMCP, Claude için geliştirilen ve yapay zekâ modeline uçbirim denetimi (terminal control), dosya sistemi…",
+    "meta": "★ 6.436 · TypeScript",
+    "image": "/assets/discover/og/desktopcommandermcp.webp",
+    "source": "GitHub",
+    "date": "2026-07-09",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 6436,
+    "lite": false,
+    "headline": "yapay zekâ ile bilgisayarınızı yönetin"
+  },
+  {
+    "slug": "autoremesher",
+    "title": "Autoremesher",
+    "tagline": "Autoremesher, üç boyutlu modellerdeki düzensiz yüzey yapılarını otomatik olarak dörtgen ağlara (quad remeshing) dönüştüren bir…",
+    "meta": "★ 2.123 · C++",
+    "image": "/assets/discover/og/autoremesher.webp",
+    "source": "GitHub",
+    "date": "2026-07-09",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 2123,
+    "lite": false,
+    "headline": "Üç boyutlu modeller için otomatik dörtgenleştirme"
   }
 ]

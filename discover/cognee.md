@@ -44,7 +44,7 @@ Cognee kullanarak verilerimi bir bilgi grafiği yapısında saklamak ve ajanım�
 - [GitHub deposu →](https://github.com/topoteretes/cognee)
 
 ## İlgili sözlük terimleri
-Long-term Memory Knowledge Graph Engine Knowledge Graph Memory Artificial Intelligence 
+Knowledge Graph Engine Long-term Memory Knowledge Graph Memory Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
