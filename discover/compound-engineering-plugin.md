@@ -45,7 +45,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsini
 - [GitHub deposu →](https://github.com/EveryInc/compound-engineering-plugin)
 
 ## İlgili sözlük terimleri
-Compound Engineering Open Source Artificial Intelligence 
+Compound Engineering Plugin Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

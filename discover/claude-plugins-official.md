@@ -23,7 +23,7 @@ Claude Code arayüzü içerisinde '/plugin > Discover' menüsünü kullanarak me
 - [GitHub deposu →](https://github.com/anthropics/claude-plugins-official)
 
 ## İlgili sözlük terimleri
-Tools Plugins 
+Tools Plugins Plugin 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

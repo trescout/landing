@@ -56,7 +56,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsini
 - [GitHub deposu →](https://github.com/Chachamaru127/claude-code-harness)
 
 ## İlgili sözlük terimleri
-Open Source Artificial Intelligence 
+Plugin Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -47,7 +47,7 @@ Bir işe alım uzmanı gibi davranarak, sağlanan özgeçmiş verilerini ve GitH
 - [GitHub deposu →](https://github.com/interviewstreet/hiring-agent)
 
 ## İlgili sözlük terimleri
-AI Agent PDF Artificial Intelligence 
+AI Agent PDF Agent Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

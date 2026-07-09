@@ -60,7 +60,7 @@ Vibe-Trading ajanı ile finansal piyasalarda işlem yapmak istiyorum. Lütfen ba
 - [GitHub deposu →](https://github.com/HKUDS/Vibe-Trading)
 
 ## İlgili sözlük terimleri
-Trading Agent Artificial Intelligence 
+Trading Agent Agent Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

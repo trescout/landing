@@ -59,7 +59,7 @@ TencentDB Agent Memory kullanarak yapay zekâ ajanımın uzun süreli hafızası
 - [GitHub deposu →](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
 ## İlgili sözlük terimleri
-Long-term Memory Memory Token API Artificial Intelligence 
+Long-term Memory Memory Token Agent API Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

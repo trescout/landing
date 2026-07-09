@@ -47,7 +47,7 @@ Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabi
 - [Claude Cowork →](https://claude.com/product/cowork)
 
 ## İlgili sözlük terimleri
-Plugins Open Source Artificial Intelligence 
+Plugins Plugin Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

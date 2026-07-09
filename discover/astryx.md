@@ -40,7 +40,7 @@ Astryx tasarım sistemini kullanarak bir arayüz bileşeni oluşturmak istiyorum
 - [GitHub deposu →](https://github.com/facebook/astryx)
 
 ## İlgili sözlük terimleri
-Agent Ready Design System CLI API Artificial Intelligence 
+Agent Ready Design System CLI Agent API Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

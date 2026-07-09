@@ -2231,5 +2231,19 @@
     "full": "",
     "cat": "dev",
     "kisa": "Yazılımdaki hataları düzeltmek veya eksikleri gidermek için uygulanan küçük güncelleme yamasıdır."
+  },
+  {
+    "slug": "agent",
+    "en": "Agent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kendi başına karar verip hedeflenen görevi yerine getirmek için araçları kullanabilen akıllı yazılım birimi."
+  },
+  {
+    "slug": "plugin",
+    "en": "Plugin",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Ana programa ek özellikler kazandırmak için sonradan yüklenen küçük yazılım parçaları."
   }
 ]

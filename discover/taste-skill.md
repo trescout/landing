@@ -47,7 +47,7 @@ Lisans: MIT · özgürce kullanabilir, uyarlayabilir, ticari işte kullanabilirs
 - [Ana sayfa (tasteskill.dev) →](https://tasteskill.dev)
 
 ## İlgili sözlük terimleri
-AI Agent Agent Skills AI Skills Open Source Artificial Intelligence 
+AI Agent Agent Skills AI Skills Agent Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

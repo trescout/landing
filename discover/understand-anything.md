@@ -102,7 +102,7 @@ Gerçekçi olalım: "tek tıkla çalışır" değil. Çalışan bir AI asistanı
 - [Türkçe README →](https://github.com/Lum1104/Understand-Anything/blob/main/READMEs/README.tr-TR.md)
 
 ## İlgili sözlük terimleri
-Knowledge Graph CLI Open Source Artificial Intelligence 
+Knowledge Graph Plugin CLI Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki (26 Mayıs 2026) değerlerdir.
 

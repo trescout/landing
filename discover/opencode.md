@@ -40,7 +40,7 @@ OpenCode aracını kullanarak mevcut yazılım projemdeki kodları analiz etmeni
 - [GitHub deposu →](https://github.com/anomalyco/opencode)
 
 ## İlgili sözlük terimleri
-Coding Agent Artificial Intelligence 
+Coding Agent Agent Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

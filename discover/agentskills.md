@@ -23,7 +23,7 @@ Agent Skills bir yazılım kurulumundan ziyade bir standarttır. Başlamak için
 - [GitHub deposu →](https://github.com/agentskills/agentskills)
 
 ## İlgili sözlük terimleri
-Interoperability Agent Skills AI Skills Artificial Intelligence 
+Interoperability Agent Skills AI Skills Agent Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

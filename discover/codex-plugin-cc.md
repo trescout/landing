@@ -38,7 +38,7 @@ Claude Code içerisinde Codex eklentisini kullanarak mevcut kodum üzerinde bir 
 - [GitHub deposu →](https://github.com/openai/codex-plugin-cc)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Plugin Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

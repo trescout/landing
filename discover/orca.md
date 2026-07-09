@@ -36,7 +36,7 @@ Orca üzerinde birden fazla yapay zekâ ajanını eş zamanlı olarak farklı ç
 - [GitHub deposu →](https://github.com/stablyai/orca)
 
 ## İlgili sözlük terimleri
-Agent Development Environment Artificial Intelligence 
+Agent Development Environment Agent Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

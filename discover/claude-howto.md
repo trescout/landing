@@ -53,7 +53,7 @@ Claude Code kullanıyorum ve bu rehberdeki şablonları kullanarak iş akışım
 - [GitHub deposu →](https://github.com/luongnv89/claude-howto)
 
 ## İlgili sözlük terimleri
-MCP Artificial Intelligence 
+MCP Agent Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

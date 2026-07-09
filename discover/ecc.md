@@ -50,7 +50,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari projede kullanab
 - [Türkçe README →](https://github.com/affaan-m/ECC/blob/main/docs/tr/README.md)
 
 ## İlgili sözlük terimleri
-Tools Open Source Artificial Intelligence 
+Tools Plugin Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

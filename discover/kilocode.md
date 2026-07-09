@@ -50,7 +50,7 @@ Bir yazılım geliştirme ajanı olarak, mevcut proje dizinimde doğal dilden ko
 - [GitHub deposu →](https://github.com/Kilo-Org/kilocode)
 
 ## İlgili sözlük terimleri
-Agentic Engineering Platform Agentic Engineering Coding Agent CLI Open Source Artificial Intelligence 
+Agentic Engineering Platform Agentic Engineering Coding Agent CLI Agent Open Source 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

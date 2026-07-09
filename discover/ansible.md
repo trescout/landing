@@ -22,6 +22,9 @@ Ansible kurulumu için resmî web sitesindeki kurulum rehberini ziyaret etmeniz 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/ansible/ansible)
 
+## İlgili sözlük terimleri
+Agent 
+
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
 ---
