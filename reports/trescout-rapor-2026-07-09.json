@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-09",
+  "editorial": "Yapay zekâ tabanlı iş arama ve otonom ajanların yetenek setleri (agent skills) bugün geliştirici ekosisteminin merkezinde yer alıyor. Özellikle veri tabanı bellek mimarileri (database memory architectures) ve iş akışı otomasyonu üzerine odaklanan açık kaynak projelerindeki artış dikkat çekici.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "Claude Code altyapısını kullanan bu çerçeve (framework), iş arama sürecini otomatize etmek için tasarlanmıştır. Kullanıcı profiliyle entegre olan sistem, iş ilanlarını değerlendirerek öz geçmiş düzenleme, ön yazı hazırlama ve mülakat hazırlığı süreçlerini yönetir.",
+          "meta": "TypeScript · ★ 16.216 · +5.079 bugün"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Yapay zekâ kodlama ajanları için geliştirilen agent-skills, üretim seviyesinde mühendislik yetenekleri (engineering skills) sunuyor. Bu kütüphane, yazılım geliştirme süreçlerinde ajanların görevleri daha verimli yerine getirmesi için standartlaşmış işlevler sağlıyor.",
+          "meta": "JavaScript · ★ 74.933 · +1.297 bugün"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView, standart kablosuz ağ (WiFi) sinyallerini kullanarak görüntü verisi olmadan gerçek zamanlı mekânsal zekâ, hayati bulgu takibi ve varlık algılama (presence detection) işlemleri gerçekleştiriyor. Rust diliyle geliştirilen bu teknoloji, herhangi bir kamera donanımına ihtiyaç duymadan ortamdaki hareketleri ve biyometrik verileri analiz ediyor.",
+          "meta": "Rust · ★ 79.373 · +799 bugün"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory, yapay zekâ ajanları için dört aşamalı bir süreçle tamamen yerel uzun süreli bellek (long-term memory) çözümü sunuyor. Dış kaynaklı uygulama programlama arayüzlerine (API) ihtiyaç duymadan veri saklama ve geri çağırma işlemlerini gerçekleştiriyor.",
+          "meta": "TypeScript · ★ 7.846 · +318 bugün"
+        },
+        {
+          "title": "prisma/prisma",
+          "url": "https://github.com/prisma/prisma",
+          "summary": "Prisma, Node.js ve TypeScript projeleri için veritabanı etkileşimlerini kolaylaştıran bir nesne ilişkisel eşleyici (ORM) aracıdır. Farklı veritabanı sistemlerini destekleyen yapısı, geliştiricilere tip güvenli (type-safe) veritabanı sorguları oluşturma imkânı tanır.",
+          "meta": "TypeScript · ★ 46.668 · +46 bugün"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlar üzerinden güncel verileri tarayarak kapsamlı bir sentezleme yapan bir yapay zekâ yeteneği (AI agent skill) sunuyor. Python tabanlı bu araç, farklı kaynaklardan elde edilen bilgileri birleştirerek kullanıcılar için kanıta dayalı özetler oluşturuyor.",
+          "meta": "Python · ★ 50.980 · +352 bugün"
+        },
+        {
+          "title": "argoproj/argo-cd",
+          "url": "https://github.com/argoproj/argo-cd",
+          "summary": "Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarative continuous deployment) süreçlerini yöneten bir araçtır. Uygulama durumlarını Git depolarıyla senkronize ederek altyapı üzerinde otomatik güncellemeler sağlar.",
+          "meta": "Go · ★ 23.488 · +29 bugün"
+        },
+        {
+          "title": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "summary": "OfficeCLI, yapay zekâ ajanlarının Word, Excel ve PowerPoint dosyalarını doğrudan okuması, düzenlemesi ve otomatize etmesi için geliştirilmiş açık kaynaklı bir ofis paketi (office suite) çözümüdür. Herhangi bir ofis yazılımı kurulumuna ihtiyaç duymadan tek bir ikili dosya (binary) üzerinden çalışarak ajan tabanlı iş akışlarını destekler.",
+          "meta": "C# · ★ 12.507 · +1.717 bugün"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Popüler büyük dil modellerine ait sistem yönergeleri (system prompts), geliştiriciler tarafından derlenerek açık kaynaklı bir veritabanında toplanıyor. Bu çalışma, farklı yapay zekâ modellerinin çalışma prensiplerini ve kısıtlamalarını anlamak için merkezi bir referans noktası sunuyor.",
+          "meta": "JavaScript · ★ 54.528 · +1.218 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yapay zekâ ajanları için uygulama geliştirme metodolojisi ve yetenek çerçevesi (framework) sunuyor. Yazılım süreçlerini ajan tabanlı iş akışlarıyla birleştirerek standart bir geliştirme yapısı oluşturmayı hedefliyor.",
+          "meta": "Shell · ★ 250.211 · +1.116 bugün"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Alibaba tarafından geliştirilen zvec, süreç içi (in-process) çalışma prensibiyle yüksek performanslı vektör veritabanı (vector database) hizmeti sunuyor. C++ diliyle yazılan bu hafif yapı, hızlı veri işleme süreçleri için optimize edilmiş bir çözüm sağlıyor.",
+          "meta": "C++ · ★ 14.545 · +395 bugün"
+        },
+        {
+          "title": "Diolinux/PhotoGIMP",
+          "url": "https://github.com/Diolinux/PhotoGIMP",
+          "summary": "PhotoGIMP, GIMP arayüzünü Photoshop kullanıcılarına tanıdık gelecek şekilde düzenleyen bir yama (patch) sunuyor. Bu araç, görsel düzenleme yazılımı (image editing software) geçiş sürecini kolaylaştırmak için kısayolları ve menü yerleşimlerini Photoshop standartlarına uyarlıyor.",
+          "meta": "CSS · ★ 15.195 · +1.125 bugün"
+        },
+        {
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "summary": "DesktopCommanderMCP, Claude için geliştirilen ve yapay zekâ modeline uçbirim denetimi (terminal control), dosya sistemi araması ve fark tabanlı dosya düzenleme (diff file editing) yetenekleri kazandıran bir Model Bağlantı Protokolü (Model Context Protocol) sunucusudur. TypeScript ile yazılan bu araç, yapay zekânın yerel dosya sistemleri üzerinde doğrudan işlem yapabilmesini sağlar.",
+          "meta": "TypeScript · ★ 6.436 · +28 bugün"
+        },
+        {
+          "title": "huxingyi/autoremesher",
+          "url": "https://github.com/huxingyi/autoremesher",
+          "summary": "Autoremesher, üç boyutlu modellerdeki düzensiz yüzey yapılarını otomatik olarak dörtgen ağlara (quad remeshing) dönüştüren bir araçtır. C++ diliyle geliştirilen bu yazılım, karmaşık geometrileri animasyon ve modelleme süreçlerine uygun hale getirmek için optimize edilmiştir.",
+          "meta": "C++ · ★ 2.123 · +296 bugün"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video projesi, videoları karelerine ayıran ve ses kayıtlarını metne dönüştüren bir süreçle yapay zekâ modelinin video içeriklerini analiz etmesini sağlıyor. Python tabanlı bu araç, görsel ve işitsel verileri işleyerek Claude'un video dosyaları üzerinde sorgulama yapmasına olanak tanıyor.",
+          "meta": "Python · ★ 6.270 · +951 bugün"
+        },
+        {
+          "title": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "summary": "TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ ajanları (AI agents) için anlık, eş zamanlı ve güvenli bir çalışma ortamı (sandbox) sunuyor. Hafif mimarisi sayesinde ajanların yalıtılmış bir alanda güvenli şekilde çalıştırılmasını sağlıyor.",
+          "meta": "Rust · ★ 9.092 · +564 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+          "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+          "summary": "Uniqlo mağazalarında satılan bir tişörtün üzerindeki gizlenmiş (obfuscated) bash betiği, teknik meraklılar tarafından çözümlenerek içeriğindeki komutların işleyişi ortaya çıkarıldı. Söz konusu betik, kendi kendini değerlendiren (self-evaluating) yapısıyla perakende ürünleri üzerindeki beklenmedik dijital kodlamalara dair bir örnek oluşturuyor.",
+          "meta": "1.361 oy · 213 yorum"
+        },
+        {
+          "title": "Chatto is now open source",
+          "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+          "summary": "Chatto, geliştiricilerin uygulamalarına sohbet arayüzleri entegre etmesini sağlayan açık kaynaklı bir kütüphanedir. Bileşen tabanlı yapısıyla kullanıcı etkileşimlerini yönetmeyi ve mesajlaşma akışlarını özelleştirmeyi kolaylaştırır.",
+          "meta": "928 oy · 241 yorum"
+        },
+        {
+          "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+          "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+          "summary": "John Deere, Federal Ticaret Komisyonu (FTC) ile yapılan anlaşma kapsamında tarım ekipmanı sahiplerine onarım hakkı (right to repair) tanıyor. Bu düzenleme, kullanıcıların ekipmanlarını yetkili servisler dışında tamir etmelerine olanak tanıyan yazılım araçlarına ve teknik belgelere erişimini sağlıyor.",
+          "meta": "696 oy · 131 yorum"
+        },
+        {
+          "title": "GPT‑Live",
+          "url": "https://openai.com/index/introducing-gpt-live/",
+          "summary": "OpenAI tarafından tanıtılan GPT-Live, kullanıcıların yapay zekâ modelleriyle gerçek zamanlı sesli etkileşim (real-time voice interaction) kurmasını sağlıyor. Bu özellik, düşük gecikmeli konuşma yetenekleri (low-latency speech capabilities) sayesinde doğal ve kesintisiz diyalog deneyimini hedefliyor.",
+          "meta": "685 oy · 447 yorum"
+        },
+        {
+          "title": "Grok 4.5",
+          "url": "https://x.ai/news/grok-4-5",
+          "summary": "xAI tarafından geliştirilen Grok 4.5, çok modlu yetenekleri (multimodal capabilities) ve gelişmiş muhakeme becerileriyle dikkat çekiyor. Model, Cursor gibi yazılım geliştirme araçlarına entegre edilerek kod yazma ve analiz süreçlerinde yüksek performans sunmayı hedefliyor.",
+          "meta": "590 oy · 801 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M modeli, görsel ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapay zekâ modelidir. GGUF formatında sunulan bu model, yerel cihazlarda çalıştırılabilmesi için optimize edilmiş bir mimariye sahiptir.",
+          "meta": "♥ 1.879 · 1.683.711 indirme"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Tencent tarafından geliştirilen Hy3, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Model, geniş ölçekli veri kümeleri üzerinde eğitilerek çeşitli doğal dil işleme (natural language processing) süreçlerinde performans sergilemeyi amaçlar.",
+          "meta": "♥ 575 · 121 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text generation) süreçleri için optimize edilmiş bir dil modelidir. Açık kaynaklı yapısıyla geliştiricilere yüksek performanslı bir metin oluşturma (text generation) altyapısı sunar.",
+          "meta": "♥ 3.680 · 281.584 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel metinleri işleyerek metin çıktısı üreten bir görüntüden metne (image-to-text) modelidir. Model, karmaşık dokümanlardaki metinleri yüksek doğrulukla çözümlemek amacıyla tasarlanmıştır.",
+          "meta": "♥ 1.879 · 1.084.945 indirme"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "InternScience tarafından geliştirilen Agents-A1, metin üretimi (text generation) odaklı bir dil modelidir. Bu model, karmaşık görevleri yerine getirebilen yapay zekâ ajanları (AI agents) için özel olarak eğitilmiş bir altyapı sunar.",
+          "meta": "♥ 409 · 14.723 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri hızlandırmak için kullanılan, hazır yapılar ve kurallar bütünü."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık problemleri mantıklı adımlarla çözebilme ve teknik araçları verimli kullanabilme yeteneği."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "İnternete kablo kullanmadan, radyo dalgaları aracılığıyla bağlanmayı sağlayan teknoloji."
+    },
+    {
+      "term": "presence detection",
+      "explanation": "Bir odada veya alanda insan olup olmadığını sensörler yardımıyla anlayan sistem."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "Yapay zekânın geçmişteki bilgileri unutmadan uzun süre saklayıp ihtiyaç duyduğunda kullanabilmesi."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan köprü."
+    },
+    {
+      "term": "ORM",
+      "explanation": "Veritabanındaki karmaşık tabloları, yazılımcıların daha kolay anlayabileceği nesnelere dönüştüren araç."
+    },
+    {
+      "term": "type-safe",
+      "explanation": "Yazılımda verilerin yanlış türde kullanılmasını engelleyerek hataları daha oluşmadan yakalayan yapı."
+    },
+    {
+      "term": "AI agent skill",
+      "explanation": "Yapay zekânın belirli bir görevi yerine getirmek için sahip olduğu özel yetenek veya araç."
+    },
+    {
+      "term": "declarative continuous deployment",
+      "explanation": "Sistemin nasıl görüneceğini tanımlayıp, güncellemelerin otomatik ve hatasız şekilde yayına alınması."
+    },
+    {
+      "term": "office suite",
+      "explanation": "Belge yazma, hesap tablosu oluşturma ve sunum hazırlama gibi işleri yapan programlar bütünü."
+    },
+    {
+      "term": "binary",
+      "explanation": "Bilgisayarın doğrudan anlayabildiği, sadece sıfır ve birlerden oluşan en temel veri biçimi."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Yapay zekâya nasıl davranması ve hangi kurallara uyması gerektiğini belirten başlangıç talimatları."
+    },
+    {
+      "term": "in-process",
+      "explanation": "Bir işlemin, ana programın kendi çalışma alanı içerisinde ayrı bir yere ihtiyaç duymadan yürütülmesi."
+    },
+    {
+      "term": "vector database",
+      "explanation": "Verileri matematiksel sayılara dönüştürerek benzerliklerine göre hızlıca arayıp bulan özel veritabanı."
+    },
+    {
+      "term": "patch",
+      "explanation": "Bir yazılımdaki hatayı düzeltmek veya performansı artırmak için sonradan eklenen küçük güncelleme dosyası."
+    }
+  ]
+}

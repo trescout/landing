@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-09",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory, yapay zekâ ajanları için dört aşamalı bir süreçle tamamen yerel uzun süreli bellek (long-term memory) çözümü sunuyor. Dış kaynaklı uygulama programlama arayüzlerine (API) ihtiyaç duymadan veri saklama ve geri çağırma işlemlerini gerçekleştiriyor.",
+          "meta": "TypeScript · ★ 7.846 · +318 bugün"
+        },
+        {
+          "title": "prisma/prisma",
+          "url": "https://github.com/prisma/prisma",
+          "summary": "Prisma, Node.js ve TypeScript projeleri için veritabanı etkileşimlerini kolaylaştıran bir nesne ilişkisel eşleyici (ORM) aracıdır. Farklı veritabanı sistemlerini destekleyen yapısı, geliştiricilere tip güvenli (type-safe) veritabanı sorguları oluşturma imkânı tanır.",
+          "meta": "TypeScript · ★ 46.668 · +46 bugün"
+        },
+        {
+          "title": "argoproj/argo-cd",
+          "url": "https://github.com/argoproj/argo-cd",
+          "summary": "Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarative continuous deployment) süreçlerini yöneten bir araçtır. Uygulama durumlarını Git depolarıyla senkronize ederek altyapı üzerinde otomatik güncellemeler sağlar.",
+          "meta": "Go · ★ 23.488 · +29 bugün"
+        },
+        {
+          "title": "Diolinux/PhotoGIMP",
+          "url": "https://github.com/Diolinux/PhotoGIMP",
+          "summary": "PhotoGIMP, GIMP arayüzünü Photoshop kullanıcılarına tanıdık gelecek şekilde düzenleyen bir yama (patch) sunuyor. Bu araç, görsel düzenleme yazılımı (image editing software) geçiş sürecini kolaylaştırmak için kısayolları ve menü yerleşimlerini Photoshop standartlarına uyarlıyor.",
+          "meta": "CSS · ★ 15.195 · +1.125 bugün"
+        },
+        {
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "summary": "DesktopCommanderMCP, Claude için geliştirilen ve yapay zekâ modeline uçbirim denetimi (terminal control), dosya sistemi araması ve fark tabanlı dosya düzenleme (diff file editing) yetenekleri kazandıran bir Model Bağlantı Protokolü (Model Context Protocol) sunucusudur. TypeScript ile yazılan bu araç, yapay zekânın yerel dosya sistemleri üzerinde doğrudan işlem yapabilmesini sağlar.",
+          "meta": "TypeScript · ★ 6.436 · +28 bugün"
+        },
+        {
+          "title": "huxingyi/autoremesher",
+          "url": "https://github.com/huxingyi/autoremesher",
+          "summary": "Autoremesher, üç boyutlu modellerdeki düzensiz yüzey yapılarını otomatik olarak dörtgen ağlara (quad remeshing) dönüştüren bir araçtır. C++ diliyle geliştirilen bu yazılım, karmaşık geometrileri animasyon ve modelleme süreçlerine uygun hale getirmek için optimize edilmiştir.",
+          "meta": "C++ · ★ 2.123 · +296 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+          "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+          "summary": "Uniqlo mağazalarında satılan bir tişörtün üzerindeki gizlenmiş (obfuscated) bash betiği, teknik meraklılar tarafından çözümlenerek içeriğindeki komutların işleyişi ortaya çıkarıldı. Söz konusu betik, kendi kendini değerlendiren (self-evaluating) yapısıyla perakende ürünleri üzerindeki beklenmedik dijital kodlamalara dair bir örnek oluşturuyor.",
+          "meta": "1.361 oy · 213 yorum"
+        },
+        {
+          "title": "Chatto is now open source",
+          "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+          "summary": "Chatto, geliştiricilerin uygulamalarına sohbet arayüzleri entegre etmesini sağlayan açık kaynaklı bir kütüphanedir. Bileşen tabanlı yapısıyla kullanıcı etkileşimlerini yönetmeyi ve mesajlaşma akışlarını özelleştirmeyi kolaylaştırır.",
+          "meta": "928 oy · 241 yorum"
+        },
+        {
+          "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+          "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+          "summary": "John Deere, Federal Ticaret Komisyonu (FTC) ile yapılan anlaşma kapsamında tarım ekipmanı sahiplerine onarım hakkı (right to repair) tanıyor. Bu düzenleme, kullanıcıların ekipmanlarını yetkili servisler dışında tamir etmelerine olanak tanıyan yazılım araçlarına ve teknik belgelere erişimini sağlıyor.",
+          "meta": "696 oy · 131 yorum"
+        },
+        {
+          "title": "GPT‑Live",
+          "url": "https://openai.com/index/introducing-gpt-live/",
+          "summary": "OpenAI tarafından tanıtılan GPT-Live, kullanıcıların yapay zekâ modelleriyle gerçek zamanlı sesli etkileşim (real-time voice interaction) kurmasını sağlıyor. Bu özellik, düşük gecikmeli konuşma yetenekleri (low-latency speech capabilities) sayesinde doğal ve kesintisiz diyalog deneyimini hedefliyor.",
+          "meta": "685 oy · 447 yorum"
+        },
+        {
+          "title": "Grok 4.5",
+          "url": "https://x.ai/news/grok-4-5",
+          "summary": "xAI tarafından geliştirilen Grok 4.5, çok modlu yetenekleri (multimodal capabilities) ve gelişmiş muhakeme becerileriyle dikkat çekiyor. Model, Cursor gibi yazılım geliştirme araçlarına entegre edilerek kod yazma ve analiz süreçlerinde yüksek performans sunmayı hedefliyor.",
+          "meta": "590 oy · 801 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "long-term memory",
+      "explanation": "Yapay zekânın geçmişteki bilgileri unutmadan uzun süre saklayıp ihtiyaç duyduğunda kullanabilmesi."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan köprü."
+    },
+    {
+      "term": "ORM",
+      "explanation": "Veritabanındaki karmaşık tabloları, yazılımcıların daha kolay anlayabileceği nesnelere dönüştüren araç."
+    },
+    {
+      "term": "type-safe",
+      "explanation": "Yazılımda verilerin yanlış türde kullanılmasını engelleyerek hataları daha oluşmadan yakalayan yapı."
+    },
+    {
+      "term": "declarative continuous deployment",
+      "explanation": "Sistemin nasıl görüneceğini tanımlayıp, güncellemelerin otomatik ve hatasız şekilde yayına alınması."
+    },
+    {
+      "term": "patch",
+      "explanation": "Bir yazılımdaki hatayı düzeltmek veya performansı artırmak için sonradan eklenen küçük güncelleme dosyası."
+    }
+  ]
+}
