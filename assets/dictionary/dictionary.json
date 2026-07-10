@@ -2287,5 +2287,12 @@
     "full": "",
     "cat": "ai",
     "kisa": "Üçgenlerden oluşan karmaşık bir 3D modelin yüzeyini, daha düzenli ve dörtgen parçalara (quads) dönüştürme işlemidir."
+  },
+  {
+    "slug": "linux-server-security",
+    "en": "Linux Server Security",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Açık kaynaklı sunucu sistemlerini siber tehditlere karşı güçlendirme ve koruma disiplinidir."
   }
 ]
