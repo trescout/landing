@@ -57,7 +57,7 @@ Elimdeki 3D model dosyasını dörtgen ağ yapısına dönüştürmek istiyorum.
 - [GitHub deposu →](https://github.com/huxingyi/autoremesher)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Quad Remeshing Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

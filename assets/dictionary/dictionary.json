@@ -2245,5 +2245,47 @@
     "full": "",
     "cat": "dev",
     "kisa": "Ana programa ek özellikler kazandırmak için sonradan yüklenen küçük yazılım parçaları."
+  },
+  {
+    "slug": "design-md",
+    "en": "DESIGN.md",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılım projesinin mimari kararlarını ve tasarım mantığını açıklayan dokümantasyon dosyasıdır."
+  },
+  {
+    "slug": "terminal-control",
+    "en": "Terminal Control",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayara grafik arayüz (fare ve pencere) kullanmadan, doğrudan komut satırı üzerinden talimat verme sürecidir."
+  },
+  {
+    "slug": "diff-file-editing",
+    "en": "Diff File Editing",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir dosyanın tamamını değiştirmek yerine, sadece eski ve yeni sürüm arasındaki farkları (diff) uygulayarak güncelleme yapma yöntemidir."
+  },
+  {
+    "slug": "cookbooks",
+    "en": "Cookbooks",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Belirli bir teknolojiyi kullanırken karşılaşılan yaygın sorunlara pratik ve hazır çözüm tarifleri sunan teknik rehberlerdir."
+  },
+  {
+    "slug": "server-hardening",
+    "en": "Server Hardening",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir sunucudaki gereksiz özellikleri kapatarak ve güvenlik ayarlarını sıkılaştırarak saldırı riskini azaltma işlemidir."
+  },
+  {
+    "slug": "quad-remeshing",
+    "en": "Quad Remeshing",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Üçgenlerden oluşan karmaşık bir 3D modelin yüzeyini, daha düzenli ve dörtgen parçalara (quads) dönüştürme işlemidir."
   }
 ]

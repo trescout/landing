@@ -50,7 +50,7 @@ Projemin görsel kimliğini ve tasarım sistemini tanımlayan DESIGN.md dosyası
 - [GitHub deposu →](https://github.com/google-labs-code/design.md)
 
 ## İlgili sözlük terimleri
-Design Systems Artificial Intelligence 
+Design Systems DESIGN.md Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

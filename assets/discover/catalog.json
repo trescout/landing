@@ -4373,5 +4373,89 @@
     "stars": 2123,
     "lite": false,
     "headline": "Üç boyutlu modeller için otomatik dörtgenleştirme"
+  },
+  {
+    "slug": "u3-sdk",
+    "title": "U3 SDK",
+    "tagline": "SmartlyDressedGames, açık dünya zombi hayatta kalma oyunu Unturned için geliştirilen U3-SDK yazılım geliştirme kitini…",
+    "meta": "★ 2.182 · C#",
+    "image": "/assets/discover/og/u3-sdk.webp",
+    "source": "GitHub",
+    "date": "2026-07-10",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 2182,
+    "lite": false,
+    "headline": "Unturned oyununu özelleştirin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "awesome-design-md",
+    "title": "Awesome Design Md",
+    "tagline": "Awesome-design-md, popüler marka tasarım sistemlerine ait tasarım dokümanlarını (DESIGN.md) bir araya getiren bir koleksiyondur.",
+    "meta": "★ 100.194",
+    "image": "/assets/discover/og/awesome-design-md.webp",
+    "source": "GitHub",
+    "date": "2026-07-10",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 100194,
+    "lite": false,
+    "headline": "yapay zekâ için hazır tasarım dokümanları",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "claude-cookbooks",
+    "title": "Claude Cookbooks",
+    "tagline": "Anthropics tarafından paylaşılan Claude yemek kitapları (cookbooks), Claude modellerinin kullanımı için pratik kod örnekleri…",
+    "meta": "★ 47.306 · Jupyter Notebook",
+    "image": "/assets/discover/og/claude-cookbooks.webp",
+    "source": "GitHub",
+    "date": "2026-07-10",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 47306,
+    "lite": false,
+    "headline": "Claude modelleri için pratik uygulama rehberi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "pentagi",
+    "title": "Pentagi",
+    "tagline": "Go diliyle geliştirilen Pentagi, karmaşık sızma testlerini (penetration testing) gerçekleştirebilen tam otonom yapay zekâ…",
+    "meta": "★ 19.634 · Go",
+    "image": "/assets/discover/og/pentagi.webp",
+    "source": "GitHub",
+    "date": "2026-07-10",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 19634,
+    "lite": false,
+    "headline": "Otonom sızma testi için yapay zekâ"
+  },
+  {
+    "slug": "how-to-secure-a-linux-server",
+    "title": "How-To-Secure-A-Linux-Server",
+    "tagline": "Linux sunucu güvenliği (Linux server security) üzerine hazırlanan bu rehber, sistemleri dış tehditlere karşı korumak için…",
+    "meta": "★ 29.237",
+    "image": "/assets/discover/og/how-to-secure-a-linux-server.webp",
+    "source": "GitHub",
+    "date": "2026-07-10",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 29237,
+    "lite": false,
+    "headline": "Linux sunucunuzu güvenli hale getirin"
   }
 ]

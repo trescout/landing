@@ -1,0 +1,31 @@
+# Unturned oyununu özelleştirin
+
+SmartlyDressedGames, açık dünya zombi hayatta kalma oyunu Unturned için geliştirilen U3-SDK yazılım geliştirme kitini (software development kit) açık kaynak olarak paylaştı. C# diliyle hazırlanan bu kaynak kodlar, topluluk üyelerinin oyun üzerinde özelleştirme ve geliştirme yapmasına olanak tanıyor.
+
+- ★ 2.182
+- C#
+- GitHub Trending · 2026-07-10
+
+## Ne kazandırır?
+- Oyunun kaynak kodlarına erişim sağlar
+- Kendi içeriklerinizi ve modlarınızı geliştirmenize olanak tanır
+- Topluluk odaklı oyun düzenlemeleri yapabilirsiniz
+
+## Nasıl başlanır?
+
+Projeyi bilgisayarınıza indirin veya kopyalayın. Ardından Unity Hub üzerinden belirtilen Unity 2022.3.62f3 sürümünü kurun ve Steam'de Unturned oyununun yüklü olduğundan emin olun. Son olarak projeyi Unity editörü ile açıp Assets/GameStartup.unity sahnesine giderek başlatabilirsiniz.
+- [Resmî kaynak →](https://smartlydressedgames.com/unturned/)
+
+- **Kimin için:** Unturned oyununu modlamak ve oyunun kaynak kodları üzerinde geliştirme yapmak isteyen kullanıcılar içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/SmartlyDressedGames/U3-SDK)
+
+## İlgili sözlük terimleri
+Assets SDK Open Source 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/u3-sdk/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
