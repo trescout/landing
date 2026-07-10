@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-10",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "SmartlyDressedGames/U3-SDK",
+          "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+          "summary": "SmartlyDressedGames, açık dünya zombi hayatta kalma oyunu Unturned için geliştirilen U3-SDK yazılım geliştirme kitini (software development kit) açık kaynak olarak paylaştı. C# diliyle hazırlanan bu kaynak kodlar, topluluk üyelerinin oyun üzerinde özelleştirme ve geliştirme yapmasına olanak tanıyor.",
+          "meta": "C# · ★ 2.182 · +524 bugün"
+        },
+        {
+          "title": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "summary": "Awesome-design-md, popüler marka tasarım sistemlerine ait tasarım dokümanlarını (DESIGN.md) bir araya getiren bir koleksiyondur. Yazılım ajanları, bu dokümanları kullanarak projelere uygun kullanıcı arayüzleri (UI) oluşturabilir.",
+          "meta": "★ 100.194 · +1.391 bugün"
+        },
+        {
+          "title": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "summary": "Anthropics tarafından paylaşılan Claude yemek kitapları (cookbooks), Claude modellerinin kullanımı için pratik kod örnekleri ve Jupyter not defterleri (notebooks) sunuyor. Bu kaynak, geliştiricilerin yapay zekâ uygulamalarında Claude entegrasyonunu hızlandırmak için çeşitli iş akışı şablonları sağlıyor.",
+          "meta": "Jupyter Notebook · ★ 47.306 · +194 bugün"
+        },
+        {
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "summary": "Go diliyle geliştirilen Pentagi, karmaşık sızma testlerini (penetration testing) gerçekleştirebilen tam otonom yapay zekâ ajanları (AI agents) sistemi sunuyor. Sistem, güvenlik açıklarını tespit etmek ve sömürmek için otonom iş akışlarını standartlaştırmayı hedefliyor.",
+          "meta": "Go · ★ 19.634 · +535 bugün"
+        },
+        {
+          "title": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "summary": "Crawl4AI, büyük dil modelleri (large language models) için optimize edilmiş açık kaynaklı bir web tarayıcı ve veri kazıyıcıdır. Python tabanlı araç, yapılandırılmamış web verilerini yapay zekâ uygulamalarında doğrudan kullanılabilir formatlara dönüştürür.",
+          "meta": "Python · ★ 72.019 · +215 bugün",
+          "returning": true
+        },
+        {
+          "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+          "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+          "summary": "Linux sunucu güvenliği (Linux server security) üzerine hazırlanan bu rehber, sistemleri dış tehditlere karşı korumak için izlenmesi gereken temel yapılandırma adımlarını bir araya getiriyor. Sürekli güncellenen içerik, sunucu sıkılaştırma (server hardening) süreçlerinde uygulanabilecek en iyi yöntemleri pratik bir kılavuz olarak sunuyor.",
+          "meta": "★ 29.237 · +243 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "EU Parliament greenlights Chat Control 1.0",
+          "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+          "summary": "Avrupa Parlamentosu, dijital iletişim platformlarında çocuk istismarı materyallerini tespit etmek amacıyla uçtan uca şifreleme (end-to-end encryption) sistemlerini taramayı hedefleyen düzenlemeyi onayladı. Söz konusu karar, özel yazışmaların gizliliği ve güvenlik protokolleri üzerinde denetim mekanizmalarının uygulanması konusunda tartışmaları beraberinde getirdi.",
+          "meta": "1.276 oy · 605 yorum"
+        },
+        {
+          "title": "GPT-5.6",
+          "url": "https://openai.com/index/gpt-5-6/",
+          "summary": "OpenAI, büyük dil modellerinde güvenlik ve performans iyileştirmelerini odağına alan GPT-5.6 sürümünü duyurdu. Yeni model, geliştirilmiş mantık yürütme (reasoning) yetenekleri ve güncellenmiş güvenlik protokolleri ile API üzerinden erişime açıldı.",
+          "meta": "1.213 oy · 858 yorum"
+        },
+        {
+          "title": "Show HN: 18 Words",
+          "url": "https://18words.com/",
+          "summary": "18 Words, kullanıcıların günlük kelime dağarcığını geliştirmek amacıyla her gün sadece on sekiz kelime öğreten bir kelime ezberleme platformudur. Arayüz, öğrenme sürecini basitleştirmek için dikkat dağıtıcı unsurlardan arındırılmış minimalist bir tasarım sunar.",
+          "meta": "954 oy · 312 yorum"
+        },
+        {
+          "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+          "url": "https://github.com/malisper/pgrust",
+          "summary": "PostgreSQL veritabanı yönetim sisteminin, Rust programlama diliyle yeniden yazılan sürümü tüm gerileme testlerini (regression tests) başarıyla tamamlıyor. Bu proje, bellek güvenliğini artırmak ve modern dil özelliklerinden faydalanmak amacıyla veritabanı mimarisini Rust ekosistemine taşıyor.",
+          "meta": "599 oy · 501 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "software development kit",
+      "explanation": "Bir yazılımı belirli bir platform için geliştirmeye yarayan araçlar, kütüphaneler ve dokümanlar bütünü."
+    },
+    {
+      "term": "DESIGN.md",
+      "explanation": "Bir projenin nasıl tasarlandığını ve hangi mimari kararların alındığını anlatan bilgilendirme dosyası."
+    },
+    {
+      "term": "UI",
+      "explanation": "Kullanıcının bir uygulama veya web sitesiyle etkileşime girdiği tüm görsel öğeler."
+    },
+    {
+      "term": "cookbooks",
+      "explanation": "Belirli bir teknolojiyi kullanırken karşılaşılan sorunlara pratik ve hazır çözüm tarifleri sunan rehberler."
+    },
+    {
+      "term": "notebooks",
+      "explanation": "Kodların, açıklamaların ve sonuçların aynı sayfada bir arada görülebildiği etkileşimli çalışma ortamları."
+    },
+    {
+      "term": "penetration testing",
+      "explanation": "Bir sistemin güvenliğini test etmek amacıyla, kötü niyetli kişilerin yapabileceği saldırıları kontrollü şekilde deneme süreci."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip hedeflenen görevleri yerine getirebilen otonom yapay zekâ yazılımları."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "Linux server security",
+      "explanation": "Açık kaynaklı sunucu sistemlerini siber saldırılara ve yetkisiz erişimlere karşı koruma çalışmaları."
+    },
+    {
+      "term": "server hardening",
+      "explanation": "Bir sunucudaki gereksiz özellikleri kapatarak ve güvenlik ayarlarını sıkılaştırarak saldırı riskini azaltma işlemi."
+    }
+  ]
+}
