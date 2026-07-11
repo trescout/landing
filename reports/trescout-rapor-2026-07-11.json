@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-11",
+  "editorial": "Bugünün teknoloji gündeminde otonom yazılım ajanları (AI agents) için geliştirilen yetenek setleri ve sistem seviyesindeki performans odaklı araçlar öne çıkıyor. GitHub üzerindeki güncel veriler, geliştiricilerin hem uygulama çalışma zamanı (runtime) optimizasyonuna hem de model tabanlı iş akışlarını otomatize etmeye odaklandığını gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "summary": "DesktopCommanderMCP, Claude için geliştirilen ve yapay zekâ modeline uçbirim denetimi (terminal control), dosya sistemi arama ve dosya düzenleme (diff file editing) yetenekleri kazandıran bir Model Bağlam Protokolü (Model Context Protocol) sunucusudur. Bu araç, yapay zekâ ajanlarının yerel dosya sistemleri üzerinde doğrudan işlem yapabilmesini sağlar.",
+          "meta": "TypeScript · ★ 7.453 · +328 bugün"
+        },
+        {
+          "title": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "summary": "Bun, JavaScript çalışma zamanı (runtime), paket yöneticisi, test çalıştırıcı ve paketleyiciyi tek bir çatı altında toplayan yüksek performanslı bir araçtır. Rust diliyle geliştirilen bu platform, yazılım geliştirme süreçlerini hızlandırmak için tümleşik bir altyapı sunar.",
+          "meta": "Rust · ★ 94.374 · +209 bugün"
+        },
+        {
+          "title": "abseil/abseil-cpp",
+          "url": "https://github.com/abseil/abseil-cpp",
+          "summary": "Google tarafından geliştirilen Abseil, C++ standart kütüphanesini tamamlayan açık kaynaklı kod parçaları (code snippets) sunuyor. Bu kütüphane, karmaşık yazılım projelerinde kodun sürdürülebilirliğini ve performansını artırmak amacıyla temel veri yapıları ile algoritmalar sağlıyor.",
+          "meta": "C++ · ★ 17.545 · +89 bugün"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Addy Osmani tarafından geliştirilen agent-skills, yapay zekâ kodlama ajanları için üretim seviyesinde mühendislik yetenekleri (engineering skills) sunuyor. Bu kütüphane, JavaScript tabanlı ajanların karmaşık yazılım görevlerini daha güvenilir şekilde yerine getirmesini sağlıyor.",
+          "meta": "JavaScript · ★ 76.967 · +1.116 bugün"
+        },
+        {
+          "title": "jbeder/yaml-cpp",
+          "url": "https://github.com/jbeder/yaml-cpp",
+          "summary": "yaml-cpp, C++ programlama dili için YAML formatındaki verileri ayrıştıran (parser) ve oluşturan (emitter) bir kütüphanedir. Yazılım geliştiricilerin yapılandırma dosyalarını yönetmesine ve veri serileştirme (serialization) işlemlerini gerçekleştirmesine olanak tanır.",
+          "meta": "C++ · ★ 6.101 · +69 bugün"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan bu depo, yazılım mühendislerinin Claude gibi yapay zekâ araçlarını daha verimli kullanmaları için hazırlanan istem (prompt) ve yapılandırma dosyalarını içeriyor. Geliştiriciler, bu hazır yetenek paketleri (skills) sayesinde karmaşık kodlama görevlerini otomatize ederek iş akışlarını standartlaştırıyor.",
+          "meta": "Shell · ★ 164.906 · +1.712 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yapay zekâ ajanları için yetenek çerçevesi (agentic skills framework) ve yazılım geliştirme metodolojisi sunuyor. Bu araç, ajan tabanlı iş akışlarını yapılandırmak ve operasyonel süreçleri standartlaştırmak amacıyla tasarlanıyor.",
+          "meta": "Shell · ★ 251.949 · +1.013 bugün"
+        },
+        {
+          "title": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "summary": "JavaScript dilinin bir üst kümesi (superset) olan TypeScript, kodun derleme aşamasında hata denetimi yapılmasına olanak tanıyor. Statik tip tanımlama (static typing) özelliğiyle daha güvenilir ve ölçeklenebilir yazılım geliştirme süreçlerini destekliyor.",
+          "meta": "TypeScript · ★ 109.817 · +177 bugün"
+        },
+        {
+          "title": "catchorg/Catch2",
+          "url": "https://github.com/catchorg/Catch2",
+          "summary": "Catch2, C++14 ve sonraki sürümleri destekleyen modern bir birim testi (unit testing) çatısıdır. Yazılım geliştirme süreçlerinde test güdümlü geliştirme (TDD) ve davranış odaklı geliştirme (BDD) pratiklerini desteklemek için tasarlanmıştır.",
+          "meta": "C++ · ★ 20.636 · +76 bugün"
+        },
+        {
+          "title": "chriskohlhoff/asio",
+          "url": "https://github.com/chriskohlhoff/asio",
+          "summary": "Asio, eşzamansız giriş çıkış (asynchronous I/O) işlemleri için geliştirilmiş bir C++ kütüphanesidir. Ağ programlama ve düşük seviyeli sistem görevleri için taşınabilir bir ağ geçidi (network abstraction) sunar.",
+          "meta": "C++ · ★ 6.090 · +92 bugün"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory, yapay zekâ ajanları (AI Agents) için dış uygulama programlama arayüzü (API) bağımlılığı olmadan yerel uzun süreli bellek desteği sunuyor. Dört aşamalı aşamalı bir boru hattı (progressive pipeline) yapısını kullanan bu araç, verilerin yerel ortamda işlenmesini ve saklanmasını sağlıyor.",
+          "meta": "TypeScript · ★ 8.308 · +123 bugün"
+        },
+        {
+          "title": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "summary": "Claude Code şablonları, Claude Code aracı için yapılandırma ve izleme süreçlerini kolaylaştıran bir komut satırı arayüzü (CLI) sunuyor. Python tabanlı bu araç, geliştiricilerin kodlama asistanı üzerindeki kontrolünü ve iş akışı yönetimini standartlaştırıyor.",
+          "meta": "Python · ★ 28.812 · +118 bugün"
+        },
+        {
+          "title": "zeux/meshoptimizer",
+          "url": "https://github.com/zeux/meshoptimizer",
+          "summary": "Meshoptimizer kütüphanesi, üç boyutlu ağ (mesh) verilerini optimize ederek dosya boyutlarını küçültüyor ve işleme (rendering) performansını artırıyor. C++ diliyle geliştirilen bu araç, grafik uygulamalarında bellek kullanımını iyileştirmek için geometrik verileri düzenliyor.",
+          "meta": "C++ · ★ 8.045 · +91 bugün"
+        },
+        {
+          "title": "tailscale/tailscale",
+          "url": "https://github.com/tailscale/tailscale",
+          "summary": "Tailscale, WireGuard protokolünü iki faktörlü kimlik doğrulama (two-factor authentication) ile birleştirerek güvenli ağ bağlantıları kurmayı kolaylaştırıyor. Go diliyle geliştirilen bu araç, karmaşık ağ yapılandırmalarına ihtiyaç duymadan cihazlar arası şifreli iletişim sağlıyor.",
+          "meta": "Go · ★ 33.734 · +143 bugün"
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "Google Labs tarafından geliştirilen Stitch Skills, Stitch MCP sunucusuyla uyumlu çalışmak üzere tasarlanmış bir ajan yetenekleri (agent skills) kütüphanesidir. Açık standartları takip eden bu kütüphane, Gemini CLI ve Cursor gibi kodlama ajanları (coding agents) için iş akışlarını standartlaştırmayı amaçlar.",
+          "meta": "TypeScript · ★ 6.814 · +117 bugün"
+        },
+        {
+          "title": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "summary": "OfficeCLI, yapay zekâ ajanlarının Word, Excel ve PowerPoint dosyalarını okuması, düzenlemesi ve otomatize etmesi için geliştirilmiş açık kaynaklı bir ofis yazılımıdır. Microsoft Office kurulumuna ihtiyaç duymayan bu tekil çalıştırılabilir dosya (single binary), C# diliyle oluşturulmuştur.",
+          "meta": "C# · ★ 14.593 · +1.224 bugün"
+        },
+        {
+          "title": "hashicorp/terraform",
+          "url": "https://github.com/hashicorp/terraform",
+          "summary": "HashiCorp tarafından geliştirilen Terraform, altyapıyı kod olarak (infrastructure as code) tanımlayarak güvenli ve öngörülebilir şekilde oluşturulmasına olanak tanır. Go diliyle yazılan bu araç, uygulama programlama arayüzlerini (API) bildirimsel yapılandırma dosyalarına dönüştürerek ekiplerin altyapı süreçlerini sürüm kontrolü altında yönetmesini sağlar.",
+          "meta": "Go · ★ 49.219 · +172 bugün"
+        },
+        {
+          "title": "grpc/grpc",
+          "url": "https://github.com/grpc/grpc",
+          "summary": "gRPC, farklı programlama dilleri arasında yüksek performanslı iletişim sağlayan açık kaynaklı bir uzaktan yordam çağrısı (remote procedure call) çerçevesidir. C++ tabanlı altyapısı sayesinde Python, Ruby, C# ve PHP gibi diller için ölçeklenebilir ağ hizmetleri geliştirilmesine olanak tanır.",
+          "meta": "C++ · ★ 45.162 · +78 bugün"
+        },
+        {
+          "title": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "summary": "Next.js, React tabanlı web uygulamaları geliştirmek için kullanılan bir çerçeve (framework) olarak sunucu taraflı oluşturma (server-side rendering) ve statik site üretimi gibi özellikler sağlıyor. Modern web projelerinde performans odaklı optimizasyonlar ve ölçeklenebilir altyapı çözümleri sunmasıyla geliştiriciler arasında yaygın bir tercih haline geliyor.",
+          "meta": "JavaScript · ★ 140.777 · +191 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+          "summary": "Apple, eski çalışanlarının şirket bünyesindeki ticari sırları (trade secrets) çalarak OpenAI ile paylaştığı iddiasıyla dava açtı. Söz konusu hukuki süreç, yapay zekâ geliştirme süreçlerinde fikri mülkiyet haklarının korunması konusundaki tartışmaları beraberinde getirdi.",
+          "meta": "852 oy · 423 yorum"
+        },
+        {
+          "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+          "url": "https://github.com/JustVugg/colibri",
+          "summary": "Colibri projesi, büyük dil modellerinin (large language models) düşük donanımlı bilgisayarlarda çalıştırılabilmesi için GLM 5.2 modelini optimize ediyor. Bu çalışma, yüksek performanslı yapay zekâ modellerinin yerel sistemlerde verimli şekilde kullanılmasını sağlıyor.",
+          "meta": "843 oy · 208 yorum"
+        },
+        {
+          "title": "QuadRF can spot drones and see WiFi through my wall",
+          "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+          "summary": "QuadRF, radyo frekansı algılama (radio frequency sensing) teknolojisini kullanarak duvarların arkasındaki kablosuz ağ sinyallerini ve insansız hava araçlarını (drones) tespit edebiliyor. Cihaz, çevredeki elektromanyetik dalgaları analiz ederek fiziksel engellerin ötesindeki hareketliliği görselleştiren bir izleme sistemi sunuyor.",
+          "meta": "523 oy · 184 yorum"
+        },
+        {
+          "title": "New York City to ban deceptive subscription practices",
+          "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+          "summary": "New York şehri, tüketicileri yanıltan abonelik iptal süreçlerini ve otomatik yenileme uygulamalarını yasaklayan yeni düzenlemeleri yürürlüğe koyuyor. Bu yasal adım, abonelikten çıkma (cancellation) işlemlerinin üyelik başlatma süreci kadar kolay ve şeffaf olmasını zorunlu kılıyor.",
+          "meta": "487 oy · 238 yorum"
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "summary": "GPT-5.6 Sol Ultra modeli, matematik dünyasında uzun süredir çözülemeyen Döngü Çift Örtü Sanısı'nı (Cycle Double Cover Conjecture) kanıtladığını duyurdu. Bu çalışma, büyük dil modellerinin (large language models) karmaşık matematiksel ispat süreçlerindeki yetkinliğini ortaya koyuyor.",
+          "meta": "412 oy · 322 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Tencent tarafından geliştirilen Hy3, metin üretme (text generation) görevleri için optimize edilmiş bir dil modelidir. Model, geniş ölçekli veri setleri üzerinde eğitilerek çeşitli doğal dil işleme (natural language processing) süreçlerinde performans artışı sağlamayı hedefler.",
+          "meta": "♥ 677 · 6.923 indirme"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M modeli, görsel ve metinsel verileri işleyerek metin çıktısı üreten bir görüntü-metin-metin (image-text-to-text) modelidir. Model, geniş bağlam penceresi desteğiyle farklı veri türlerini tek bir iş akışında birleştirme imkanı sunar.",
+          "meta": "♥ 1.985 · 1.909.705 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından yayınlanan GLM-5.2, metin üretimi (text-generation) görevleri için optimize edilmiş bir dil modelidir. Hugging Face platformunda yüksek ilgi gören bu model, doğal dil işleme süreçlerinde içerik oluşturma yeteneklerini geliştirmeyi hedefler.",
+          "meta": "♥ 3.795 · 392.655 indirme"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "InternScience tarafından geliştirilen Agents-A1, metin üretimi (text generation) görevleri için optimize edilmiş bir yapay zekâ modelidir. Bu model, karmaşık görevleri yerine getirebilen ajan tabanlı sistemlerin (agent-based systems) geliştirilmesi sürecinde temel bir dil işleme altyapısı sunar.",
+          "meta": "♥ 476 · 25.772 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel tabanlı metinleri işleyerek metin çıktısı üreten bir görüntüden metne (image-to-text) modelidir. Model, karmaşık dokümanlardaki verileri dijital formata dönüştürme sürecini optimize etmek için tasarlanmıştır.",
+          "meta": "♥ 1.922 · 1.319.683 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "terminal control",
+      "explanation": "Bilgisayarın komut satırı ekranını yönetmek ve buradaki metin akışını düzenlemek için kullanılan yöntemler."
+    },
+    {
+      "term": "diff file editing",
+      "explanation": "Bir dosyanın eski ve yeni hali arasındaki farkları tespit edip sadece değişen kısımları güncelleyen düzenleme yöntemi."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarıyla güvenli ve standart bir şekilde iletişim kurmasını sağlayan bağlantı kuralı."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Yazılan bir programın bilgisayarda çalıştırıldığı an ve bu süreci yöneten altyapı."
+    },
+    {
+      "term": "code snippets",
+      "explanation": "Daha büyük bir projenin içinde kullanılmak üzere önceden hazırlanmış küçük ve işlevsel kod parçaları."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık sorunları mantıksal adımlarla çözme, sistem tasarlama ve teknik araçları verimli kullanma yeteneği."
+    },
+    {
+      "term": "parser",
+      "explanation": "Bilgisayarın anlayabileceği şekilde yazılmış karmaşık verileri, programın işleyebileceği küçük parçalara ayıran araç."
+    },
+    {
+      "term": "emitter",
+      "explanation": "İşlenmiş verileri veya kodları, başka bir programın kullanabileceği bir çıktı biçimine dönüştüren mekanizma."
+    },
+    {
+      "term": "serialization",
+      "explanation": "Karmaşık veri yapılarını, bir dosyaya kaydedilmeye veya internet üzerinden gönderilmeye uygun düz bir metin dizisine çevirme işlemi."
+    },
+    {
+      "term": "prompt",
+      "explanation": "Yapay zekâdan belirli bir sonuç almak için ona verilen yazılı talimat veya soru."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir işi belirli bir standartta ve verimlilikte yapabilmek için sahip olunan teknik veya pratik yetenekler."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekâ sistemlerinin kendi başına karar verip görevleri tamamlamasını sağlayan yetenekler bütünü ve çalışma düzeni."
+    },
+    {
+      "term": "superset",
+      "explanation": "Mevcut bir sistemin tüm özelliklerini kapsayan ve üzerine yeni yetenekler eklenmiş daha geniş kapsamlı yapı."
+    },
+    {
+      "term": "static typing",
+      "explanation": "Programdaki verilerin türlerinin, kod çalıştırılmadan önce yazım aşamasında kesin olarak belirlenmesi kuralı."
+    },
+    {
+      "term": "unit testing",
+      "explanation": "Yazılımın en küçük parçalarının beklendiği gibi çalışıp çalışmadığını kontrol eden otomatik test süreci."
+    },
+    {
+      "term": "TDD",
+      "explanation": "Önce yazılacak kodun testini hazırlayıp, ardından bu testi geçecek kadar kod yazmayı esas alan geliştirme yöntemi."
+    }
+  ]
+}
