@@ -2294,5 +2294,61 @@
     "full": "",
     "cat": "dev",
     "kisa": "Açık kaynaklı sunucu sistemlerini siber tehditlere karşı güçlendirme ve koruma disiplinidir."
+  },
+  {
+    "slug": "code-snippets",
+    "en": "Code Snippets",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Büyük bir yazılım projesinde tekrar kullanılmak üzere saklanan küçük ve işlevsel kod parçalarıdır."
+  },
+  {
+    "slug": "parser",
+    "en": "Parser",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Karmaşık verileri veya kodları, bilgisayarın adım adım işleyebileceği anlamlı parçalara ayıran bir çözümleyicidir."
+  },
+  {
+    "slug": "emitter",
+    "en": "Emitter",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İşlenmiş veriyi veya kodu, başka bir sistemin veya aracın kullanabileceği bir çıktı formatına dönüştüren mekanizmadır."
+  },
+  {
+    "slug": "serialization",
+    "en": "Serialization",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Karmaşık veri yapılarını, depolanabilir veya iletilebilir düz bir metin veya bayt dizisine dönüştürme işlemidir."
+  },
+  {
+    "slug": "prompt",
+    "en": "Prompt",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâdan belirli bir görev yapmasını veya bir soruya cevap vermesini istemek için kullanılan yazılı talimattır."
+  },
+  {
+    "slug": "superset",
+    "en": "Superset",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Mevcut bir sistemin tüm özelliklerini barındıran ve üzerine yeni yetenekler eklenmiş daha kapsamlı bir yapıdır."
+  },
+  {
+    "slug": "static-typing",
+    "en": "Static Typing",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Programdaki verilerin türlerinin, kod çalıştırılmadan önce yazım aşamasında kesin olarak belirlenmesi kuralıdır."
+  },
+  {
+    "slug": "tdd",
+    "en": "TDD",
+    "full": "Test-Driven Development",
+    "cat": "dev",
+    "kisa": "Önce yazılacak kodun testini hazırlayıp, ardından bu testi geçecek kadar kod yazmayı esas alan geliştirme yöntemidir."
   }
 ]

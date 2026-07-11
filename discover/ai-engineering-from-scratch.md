@@ -34,7 +34,7 @@ Lisans: MIT · içeriği ve kodu özgürce kullanabilir, uyarlayabilir, paylaşa
 - [Ana sayfa →](https://aiengineeringfromscratch.com)
 
 ## İlgili sözlük terimleri
-Tokenizer AI Engineering MCP Rust Open Source Artificial Intelligence 
+Tokenizer AI Engineering Prompt MCP Rust Open Source 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

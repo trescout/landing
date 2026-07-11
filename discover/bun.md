@@ -1,0 +1,57 @@
+# JavaScript projeleri için hızlı çalışma zamanı
+
+Bun, JavaScript çalışma zamanı (runtime), paket yöneticisi, test çalıştırıcı ve paketleyiciyi tek bir çatı altında toplayan yüksek performanslı bir araçtır. Rust diliyle geliştirilen bu platform, yazılım geliştirme süreçlerini hızlandırmak için tümleşik bir altyapı sunar.
+
+- ★ 94.374
+- Rust
+- GitHub Trending · 2026-07-11
+
+## Ne kazandırır?
+- Node.js ile uyumlu hızlı çalışma zamanı
+- Tek çatı altında paket yöneticisi ve test aracı
+- Düşük bellek kullanımı ve hızlı başlatma
+
+## Kurulum
+
+**Kurulum betiği ile yükleme**
+
+```
+curl -fsSL https://bun.com/install | bash
+```
+
+**Windows üzerinde yükleme**
+
+```
+powershell -c "irm bun.sh/install.ps1 | iex"
+```
+
+## Çalıştırma
+
+**Paket yükleme**
+
+```
+bun install 
+```
+
+**Dosya çalıştırma**
+
+```
+bun run index.tsx
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın Bun kullanarak JavaScript veya TypeScript tabanlı bir projeyi nasıl daha hızlı çalıştırabilirim ve Node.js projelerimi Bun'a taşırken nelere dikkat etmeliyim? Bun'ın sunduğu paket yöneticisi ve test aracı özelliklerini projeme nasıl entegre edebileceğimi adım adım açıkla.
+
+- **Kimin için:** JavaScript ve TypeScript projelerinde geliştirme süreçlerini hızlandırmak ve tek bir araçla tüm altyapıyı yönetmek isteyen geliştiriciler içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/oven-sh/bun)
+
+## İlgili sözlük terimleri
+Runtime Rust Artificial Intelligence 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/bun/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

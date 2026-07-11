@@ -41,7 +41,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsini
 - [GitHub deposu →](https://github.com/a5c-ai/babysitter)
 
 ## İlgili sözlük terimleri
-Plugin Open Source Artificial Intelligence 
+TDD Plugin Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

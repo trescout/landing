@@ -46,7 +46,7 @@ Flue framework'ünü kullanarak bir yapay zekâ ajanı geliştirmek istiyorum. P
 - [GitHub deposu →](https://github.com/withastro/flue)
 
 ## İlgili sözlük terimleri
-Sandbox Agent Framework Runtime Sandbox Framework Agent Artificial Intelligence 
+Sandbox Agent Framework Prompt Runtime Sandbox Framework Agent 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

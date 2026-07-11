@@ -38,7 +38,7 @@ Elimdeki PDF belgelerini yapay zekâ modellerinin kolayca okuyabileceği temiz b
 - [GitHub deposu →](https://github.com/allenai/olmocr)
 
 ## İlgili sözlük terimleri
-GPU Markdown PDF Artificial Intelligence 
+Markdown GPU PDF Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

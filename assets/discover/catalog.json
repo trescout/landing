@@ -4457,5 +4457,217 @@
     "stars": 29237,
     "lite": false,
     "headline": "Linux sunucunuzu güvenli hale getirin"
+  },
+  {
+    "slug": "bun",
+    "title": "BUN",
+    "tagline": "Bun, JavaScript çalışma zamanı (runtime), paket yöneticisi, test çalıştırıcı ve paketleyiciyi tek bir çatı altında toplayan…",
+    "meta": "★ 94.374 · Rust",
+    "image": "/assets/discover/og/bun.webp",
+    "source": "GitHub",
+    "date": "2026-07-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 94374,
+    "lite": false,
+    "headline": "JavaScript projeleri için hızlı çalışma zamanı"
+  },
+  {
+    "slug": "abseil-cpp",
+    "title": "Abseil Cpp",
+    "tagline": "Google tarafından geliştirilen Abseil, C++ standart kütüphanesini tamamlayan açık kaynaklı kod parçaları (code snippets) sunuyor.",
+    "meta": "★ 17.545 · C++",
+    "image": "/assets/discover/og/abseil-cpp.webp",
+    "source": "GitHub",
+    "date": "2026-07-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 17545,
+    "lite": false,
+    "headline": "C++ standart kütüphanesini güçlendiren araçlar",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "yaml-cpp",
+    "title": "YAML Cpp",
+    "tagline": "yaml-cpp, C++ programlama dili için YAML formatındaki verileri ayrıştıran (parser) ve oluşturan (emitter) bir kütüphanedir.",
+    "meta": "★ 6.101 · C++",
+    "image": "/assets/discover/og/yaml-cpp.webp",
+    "source": "GitHub",
+    "date": "2026-07-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 6101,
+    "lite": false,
+    "headline": "C++ projeleri için YAML yönetimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "typescript",
+    "title": "TypeScript",
+    "tagline": "JavaScript dilinin bir üst kümesi (superset) olan TypeScript, kodun derleme aşamasında hata denetimi yapılmasına olanak tanıyor.",
+    "meta": "★ 109.817 · TypeScript",
+    "image": "/assets/discover/og/typescript.webp",
+    "source": "GitHub",
+    "date": "2026-07-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 109817,
+    "lite": false,
+    "headline": "JavaScript projeleri için hata denetimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "catch2",
+    "title": "Catch2",
+    "tagline": "Catch2, C++14 ve sonraki sürümleri destekleyen modern bir birim testi (unit testing) çatısıdır.",
+    "meta": "★ 20.636 · C++",
+    "image": "/assets/discover/og/catch2.webp",
+    "source": "GitHub",
+    "date": "2026-07-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 20636,
+    "lite": false,
+    "headline": "C++ projeleri için birim test çatısı",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "asio",
+    "title": "Asio",
+    "tagline": "Asio, eşzamansız giriş çıkış (asynchronous I/O) işlemleri için geliştirilmiş bir C++ kütüphanesidir.",
+    "meta": "★ 6.090 · C++",
+    "image": "/assets/discover/og/asio.webp",
+    "source": "GitHub",
+    "date": "2026-07-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 6090,
+    "lite": false,
+    "headline": "Eşzamansız ağ programlama kütüphanesi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "claude-code-templates",
+    "title": "Claude Code Templates",
+    "tagline": "Claude Code şablonları, Claude Code aracı için yapılandırma ve izleme süreçlerini kolaylaştıran bir komut satırı arayüzü (CLI)…",
+    "meta": "★ 28.812 · Python",
+    "image": "/assets/discover/og/claude-code-templates.webp",
+    "source": "GitHub",
+    "date": "2026-07-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 28812,
+    "lite": false,
+    "headline": "Claude Code için hazır yapılandırmalar"
+  },
+  {
+    "slug": "meshoptimizer",
+    "title": "Meshoptimizer",
+    "tagline": "Meshoptimizer kütüphanesi, üç boyutlu ağ (mesh) verilerini optimize ederek dosya boyutlarını küçültüyor ve işleme (rendering)…",
+    "meta": "★ 8.045 · C++",
+    "image": "/assets/discover/og/meshoptimizer.webp",
+    "source": "GitHub",
+    "date": "2026-07-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 8045,
+    "lite": false,
+    "headline": "üç boyutlu ağları optimize edin"
+  },
+  {
+    "slug": "tailscale",
+    "title": "Tailscale",
+    "tagline": "Tailscale, WireGuard protokolünü iki faktörlü kimlik doğrulama (two-factor authentication) ile birleştirerek güvenli ağ…",
+    "meta": "★ 33.734 · Go",
+    "image": "/assets/discover/og/tailscale.webp",
+    "source": "GitHub",
+    "date": "2026-07-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 33734,
+    "lite": false,
+    "headline": "Cihazlar arası güvenli ağ bağlantısı"
+  },
+  {
+    "slug": "stitch-skills",
+    "title": "Stitch Skills",
+    "tagline": "Google Labs tarafından geliştirilen Stitch Skills, Stitch MCP sunucusuyla uyumlu çalışmak üzere tasarlanmış bir ajan…",
+    "meta": "★ 6.814 · TypeScript",
+    "image": "/assets/discover/og/stitch-skills.webp",
+    "source": "GitHub",
+    "date": "2026-07-11",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 6814,
+    "lite": false,
+    "headline": "yapay zekâ ajanları için tasarım yetenekleri"
+  },
+  {
+    "slug": "terraform",
+    "title": "Terraform",
+    "tagline": "HashiCorp tarafından geliştirilen Terraform, altyapıyı kod olarak (infrastructure as code) tanımlayarak güvenli ve…",
+    "meta": "★ 49.219 · Go",
+    "image": "/assets/discover/og/terraform.webp",
+    "source": "GitHub",
+    "date": "2026-07-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 49219,
+    "lite": false,
+    "headline": "Altyapınızı kod ile yönetin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "grpc",
+    "title": "Grpc",
+    "tagline": "gRPC, farklı programlama dilleri arasında yüksek performanslı iletişim sağlayan açık kaynaklı bir uzaktan yordam çağrısı…",
+    "meta": "★ 45.162 · C++",
+    "image": "/assets/discover/og/grpc.webp",
+    "source": "GitHub",
+    "date": "2026-07-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 45162,
+    "lite": false,
+    "headline": "Farklı diller arası hızlı iletişim",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "next-js",
+    "title": "Next.js",
+    "tagline": "Next.js, React tabanlı web uygulamaları geliştirmek için kullanılan bir çerçeve (framework) olarak sunucu taraflı oluşturma…",
+    "meta": "★ 140.777 · JavaScript",
+    "image": "/assets/discover/og/next-js.webp",
+    "source": "GitHub",
+    "date": "2026-07-11",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 140777,
+    "lite": false,
+    "headline": "React ile hızlı web uygulamaları geliştirin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]
