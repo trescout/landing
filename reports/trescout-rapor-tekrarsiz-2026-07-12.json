@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-12",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "OpenAI eklentileri (plugins), dil modellerinin güncel verilere erişmesini ve üçüncü taraf uygulamalarla etkileşime girmesini sağlıyor. Bu yapı, yapay zekâ sistemlerinin dış araçları kullanarak görevleri yerine getirmesine olanak tanıyan bir genişletilebilirlik (extensibility) modeli sunuyor.",
+          "meta": "JavaScript · ★ 4.462 · +29 bugün",
+          "returning": true
+        },
+        {
+          "title": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "summary": "Home Assistant, yerel kontrol ve gizliliği önceliklendiren açık kaynaklı bir ev otomasyonu (home automation) platformudur. Python diliyle geliştirilen bu sistem, kullanıcıların akıllı cihazlarını merkezi bir ağ üzerinden yönetmelerine olanak tanır.",
+          "meta": "Python · ★ 88.765 · +80 bugün"
+        },
+        {
+          "title": "DayuanJiang/next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "summary": "Next.js tabanlı bu uygulama, diyagram oluşturma aracı draw.io ile üretken yapay zekâ (generative AI) yeteneklerini birleştiriyor. Kullanıcılar, doğal dil komutları aracılığıyla görsel şemalar oluşturabiliyor ve mevcut diyagramlarını yapay zekâ desteğiyle düzenleyebiliyor.",
+          "meta": "TypeScript · ★ 33.359 · +81 bugün"
+        },
+        {
+          "title": "nasa/fprime",
+          "url": "https://github.com/nasa/fprime",
+          "summary": "NASA tarafından geliştirilen F´, uçuş yazılımları ve gömülü sistemler (embedded systems) için tasarlanmış açık kaynaklı bir çerçevedir (framework). C++ diliyle yazılan bu yapı, uzay araçları ve karmaşık sistemler için modüler bir geliştirme ortamı sunar.",
+          "meta": "C++ · ★ 11.523 · +22 bugün"
+        },
+        {
+          "title": "nuxt/nuxt",
+          "url": "https://github.com/nuxt/nuxt",
+          "summary": "Nuxt, Vue tabanlı uygulamalar geliştirmek için kullanılan tam yığın (full-stack) bir çerçevedir (framework). TypeScript desteğiyle sunulan bu araç, sunucu taraflı işleme (server-side rendering) ve statik site oluşturma süreçlerini optimize eder.",
+          "meta": "TypeScript · ★ 60.747 · +16 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Prefer strict tables in SQLite",
+          "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+          "summary": "SQLite içerisinde katı tablolar (strict tables) kullanımı, veri türü kısıtlamalarını zorunlu kılarak beklenmedik veri girişlerini engelliyor. Bu yapı, veritabanı şemasında tip güvenliğini (type safety) artırarak hataları azaltıyor.",
+          "meta": "254 oy · 127 yorum"
+        },
+        {
+          "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+          "url": "https://antjs.org",
+          "summary": "Ant, kendi JavaScript motorunu temel alan bir çalışma zamanı (runtime) ve kapsamlı bir ekosistem sunuyor. Paket yöneticisi, uygulama kayıt defteri (registry), barındırma platformu ve yerel masaüstü uygulamaları geliştirmeye olanak tanıyan araçlarıyla uçtan uca bir geliştirme ortamı sağlıyor.",
+          "meta": "231 oy · 101 yorum"
+        },
+        {
+          "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "summary": "xAI tarafından geliştirilen Grok Build komut satırı arayüzü (CLI), yerel dizinlerdeki dosyaları analiz ederek sunucuya gönderiyor. Bu süreçte kod tabanının içeriği, modelin bağlam penceresini (context window) oluşturmak amacıyla uzaktan işleniyor.",
+          "meta": "226 oy · 111 yorum"
+        },
+        {
+          "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+          "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+          "summary": "Nvidia, CoreWeave ve Nebius gibi bulut bilişim sağlayıcıları arasındaki finansal ilişkiler, grafik işlem birimi (GPU) pazarındaki büyümeyi destekleyen döngüsel bir sermaye akışı yaratıyor. Bu yapı, teknoloji şirketlerinin kendi donanım satışlarını finanse etmek için müşterilerine yatırım yaptığı bir ekosistem modeli oluşturuyor.",
+          "meta": "219 oy · 71 yorum"
+        },
+        {
+          "title": "We scaled PgBouncer to 4x throughput",
+          "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+          "summary": "ClickHouse mühendisleri, veritabanı bağlantı havuzu yöneticisi (connection pooler) olan PgBouncer'ın işleme kapasitesini (throughput) dört katına çıkaran optimizasyonlar geliştirdi. Yapılan iyileştirmeler, yüksek trafikli PostgreSQL ortamlarında performans darboğazlarını aşmayı hedefliyor.",
+          "meta": "197 oy · 39 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "summary": "Bottlecapai tarafından geliştirilen ThinkingCap-Qwen3.6-27B, görsel ve metin verilerini işleyerek metin tabanlı çıktılar üreten bir çok modlu (multimodal) yapay zekâ modelidir. Qwen mimarisini temel alan bu model, karmaşık görsel içerikleri analiz etme ve anlamlandırma süreçlerinde kullanılmaktadır.",
+          "meta": "♥ 240 · 4.128 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlar girerek yönetmenizi sağlayan metin tabanlı arayüz."
+    },
+    {
+      "term": "rendering",
+      "explanation": "Bilgisayarın ham verileri işleyerek ekranda gördüğümüz görsel veya grafik haline getirme süreci."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Bir yazılımın mevcut özelliklerine ek işlevler kazandırmak için sonradan yüklenen küçük eklentiler."
+    },
+    {
+      "term": "extensibility",
+      "explanation": "Bir sistemin temel yapısı bozulmadan yeni özellikler eklenerek geliştirilmeye uygun olması."
+    }
+  ]
+}
