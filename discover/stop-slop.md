@@ -35,7 +35,7 @@ Lisans: MIT · özgürce kullanabilir, uyarlayabilir, ticari işte kullanabilirs
 - [GitHub deposu →](https://github.com/hardikpandya/stop-slop)
 
 ## İlgili sözlük terimleri
-LLM Open Source Artificial Intelligence 
+Skill LLM Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

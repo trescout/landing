@@ -44,7 +44,7 @@ Lisans: GitHub bu repo için standart bir lisans tespit etmedi. Anthropic'in res
 - [GitHub deposu →](https://github.com/anthropics/skills)
 
 ## İlgili sözlük terimleri
-AI Skill Plugin AI Skills PDF Artificial Intelligence 
+AI Skill Skill Plugin AI Skills PDF Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

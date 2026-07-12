@@ -50,7 +50,7 @@ Senin için hazırlanan OfficeCLI aracı ile Word, Excel ve PowerPoint dosyalar�
 - [GitHub deposu →](https://github.com/iOfficeAI/OfficeCLI)
 
 ## İlgili sözlük terimleri
-Binary Artificial Intelligence 
+Binary Skill Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
