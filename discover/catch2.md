@@ -23,7 +23,7 @@ Catch2 bir kütüphane olarak yapılandırılmıştır. Başlamak için GitHub s
 - [GitHub deposu →](https://github.com/catchorg/Catch2)
 
 ## İlgili sözlük terimleri
-Unit Testing TDD 
+BDD Unit Testing TDD 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

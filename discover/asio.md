@@ -22,7 +22,7 @@ Asio bir C++ kütüphanesidir. Kullanmaya başlamak için https://think-async.co
 - [GitHub deposu →](https://github.com/chriskohlhoff/asio)
 
 ## İlgili sözlük terimleri
-API 
+I/O API 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

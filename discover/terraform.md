@@ -22,7 +22,7 @@ Terraform kullanmaya başlamak için resmî web sitesi üzerindeki dokümantasyo
 - [GitHub deposu →](https://github.com/hashicorp/terraform)
 
 ## İlgili sözlük terimleri
-API 
+Infrastructure as Code API 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

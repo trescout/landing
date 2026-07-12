@@ -23,7 +23,7 @@ Next.js ile çalışmaya başlamak için resmî web sitesi olan nextjs.org adres
 - [GitHub deposu →](https://github.com/vercel/next.js)
 
 ## İlgili sözlük terimleri
-Framework Rust 
+Rendering Framework Rust 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

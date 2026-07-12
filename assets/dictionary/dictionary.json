@@ -2350,5 +2350,61 @@
     "full": "Test-Driven Development",
     "cat": "dev",
     "kisa": "Önce yazılacak kodun testini hazırlayıp, ardından bu testi geçecek kadar kod yazmayı esas alan geliştirme yöntemidir."
+  },
+  {
+    "slug": "bdd",
+    "en": "BDD",
+    "full": "Behavior-Driven Development",
+    "cat": "dev",
+    "kisa": "Yazılımın nasıl davranması gerektiğini herkesin anlayabileceği basit cümlelerle tanımlayarak geliştirme süreci."
+  },
+  {
+    "slug": "common-libraries",
+    "en": "Common Libraries",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımcıların sık kullandığı işlemleri kolayca yapabilmesi için önceden hazırlanmış hazır kod paketleri."
+  },
+  {
+    "slug": "claude-code-templates",
+    "en": "Claude Code Templates",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ destekli kodlama araçlarının belirli projeleri hızlıca başlatması için sunduğu hazır taslaklar."
+  },
+  {
+    "slug": "infrastructure-as-code",
+    "en": "Infrastructure as Code",
+    "full": "IaC",
+    "cat": "dev",
+    "kisa": "Sunucu ve ağ gibi sistem kurulumlarını elle yapmak yerine, kod dosyaları yazarak otomatikleştirme yöntemi."
+  },
+  {
+    "slug": "mesh",
+    "en": "Mesh",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Birbirine bağlı çok sayıda cihazın veya hizmetin, merkezi bir noktaya ihtiyaç duymadan veri alışverişi yapması."
+  },
+  {
+    "slug": "rendering",
+    "en": "Rendering",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarın ham verileri işleyerek ekranda gördüğümüz görsel veya grafik haline getirme süreci."
+  },
+  {
+    "slug": "extensibility",
+    "en": "Extensibility",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir sistemin temel yapısı bozulmadan yeni özellikler eklenerek geliştirilmeye uygun olması."
+  },
+  {
+    "slug": "io",
+    "en": "I/O",
+    "full": "Input/Output",
+    "cat": "dev",
+    "kisa": "Bir bilgisayar sisteminin dış dünyadan veri alması ve dış dünyaya veri göndermesi süreci."
   }
 ]

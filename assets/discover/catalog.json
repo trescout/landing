@@ -4669,5 +4669,83 @@
     "headline": "React ile hızlı web uygulamaları geliştirin",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "core",
+    "title": "Core",
+    "tagline": "Home Assistant, yerel kontrol ve gizliliği önceliklendiren açık kaynaklı bir ev otomasyonu (home automation) platformudur.",
+    "meta": "★ 88.765 · Python",
+    "image": "/assets/discover/og/core.webp",
+    "source": "GitHub",
+    "date": "2026-07-12",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 88765,
+    "lite": false,
+    "headline": "Yerel kontrollü ev otomasyonu platformu",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "next-ai-draw-io",
+    "title": "Next AI Draw IO",
+    "tagline": "Next.js tabanlı bu uygulama, diyagram oluşturma aracı draw.io ile üretken yapay zekâ (generative AI) yeteneklerini birleştiriyor.",
+    "meta": "★ 33.359 · TypeScript",
+    "image": "/assets/discover/og/next-ai-draw-io.webp",
+    "source": "GitHub",
+    "date": "2026-07-12",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 33359,
+    "lite": false,
+    "headline": "yapay zekâ ile otomatik diyagram oluşturma"
+  },
+  {
+    "slug": "pgrust",
+    "title": "Pgrust",
+    "tagline": "PostgreSQL veritabanı yönetim sisteminin Rust programlama dili ile yeniden yazıldığı pgrust projesi, tüm regresyon testlerini…",
+    "meta": "★ 2.171 · Rust",
+    "image": "/assets/discover/og/pgrust.webp",
+    "source": "GitHub",
+    "date": "2026-07-12",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 2171,
+    "lite": false,
+    "headline": "Rust ile yeniden yazılan PostgreSQL"
+  },
+  {
+    "slug": "fprime",
+    "title": "Fprime",
+    "tagline": "NASA tarafından geliştirilen F´, uçuş yazılımları ve gömülü sistemler (embedded systems) için tasarlanmış açık kaynaklı bir…",
+    "meta": "★ 11.523 · C++",
+    "image": "/assets/discover/og/fprime.webp",
+    "source": "GitHub",
+    "date": "2026-07-12",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 11523,
+    "lite": false,
+    "headline": "NASA uçuş yazılımları geliştirme çerçevesi"
+  },
+  {
+    "slug": "nuxt",
+    "title": "Nuxt",
+    "tagline": "Nuxt, Vue tabanlı uygulamalar geliştirmek için kullanılan tam yığın (full-stack) bir çerçevedir (framework).",
+    "meta": "★ 60.747 · TypeScript",
+    "image": "/assets/discover/og/nuxt.webp",
+    "source": "GitHub",
+    "date": "2026-07-12",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 60747,
+    "lite": false,
+    "headline": "Vue ile tam yığın web geliştirme"
   }
 ]
