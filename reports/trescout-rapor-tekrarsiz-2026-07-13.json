@@ -1,0 +1,165 @@
+{
+  "date": "2026-07-13",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Dicklesworthstone/destructive_command_guard",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "summary": "Yıkıcı Komut Koruması (destructive command guard), yapay zekâ ajanları tarafından çalıştırılan tehlikeli git ve kabuk (shell) komutlarını engellemek için geliştirilmiş bir güvenlik katmanıdır. Rust diliyle yazılan bu araç, sistem seviyesinde komut yürütme süreçlerini denetleyerek istenmeyen veri kaybı veya sistem hasarı risklerini azaltır.",
+          "meta": "Rust · ★ 3.284 · +444 bugün"
+        },
+        {
+          "title": "PrefectHQ/prefect",
+          "url": "https://github.com/PrefectHQ/prefect",
+          "summary": "Prefect, Python tabanlı veri hatları oluşturmak için kullanılan bir iş akışı düzenleme çerçevesidir (workflow orchestration framework). Dayanıklı veri süreçleri geliştirmek amacıyla tasarlanan bu araç, karmaşık veri iş akışlarının yönetilmesini ve izlenmesini sağlar.",
+          "meta": "Python · ★ 23.248 · +66 bugün"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "Awesome-llm-apps deposu, doğrudan çalıştırılabilir 100'den fazla yapay zekâ ajanı (AI agent) ve getirilmiş nesil artırımlı (RAG) uygulama örneği sunuyor. Python tabanlı bu projeler, geliştiricilerin uygulamaları kopyalayıp özelleştirerek hızlıca yayına almasına olanak tanıyor.",
+          "meta": "Python · ★ 118.879 · +408 bugün"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "Project N.O.M.A.D, internet bağlantısı gerektirmeyen çevrimdışı (offline) ortamlarda kritik araçlara, bilgi kaynaklarına ve yapay zekâ desteğine erişim sağlayan taşınabilir bir hayatta kalma bilgisayarıdır. TypeScript ile geliştirilen bu sistem, kullanıcıların ihtiyaç duyduğu verileri yerel bir donanım üzerinde barındırarak her koşulda erişilebilir kılmayı hedefler.",
+          "meta": "TypeScript · ★ 33.924 · +125 bugün",
+          "returning": true
+        },
+        {
+          "title": "ColeMurray/background-agents",
+          "url": "https://github.com/ColeMurray/background-agents",
+          "summary": "ColeMurray tarafından geliştirilen background-agents, TypeScript tabanlı açık kaynaklı bir arka plan ajanları kodlama sistemidir. Geliştiricilerin uygulamalar içerisinde otonom süreçler yürüten yapay zekâ ajanları (AI agents) oluşturmasına olanak tanır.",
+          "meta": "TypeScript · ★ 2.329 · +16 bugün"
+        },
+        {
+          "title": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "summary": "Wand-Enhancer, WeMod uygulaması için kullanıcı deneyimini (user experience) geliştiren ve birlikte çalışabilirliği (interoperability) artıran bir C# tabanlı eklentidir. Uygulamanın işlevselliğini genişleterek kullanıcıların araçlar üzerindeki kontrolünü optimize eder.",
+          "meta": "C# · ★ 7.061 · +609 bugün"
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3Code, TypeScript tabanlı projelerde kod kalitesini artırmak ve standartlaştırmak için geliştirilen bir araç setidir. Geliştiricilere tip güvenliği (type safety) ve kod düzenleme süreçlerinde otomasyon desteği sağlar.",
+          "meta": "TypeScript · ★ 13.814 · +75 bugün"
+        },
+        {
+          "title": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "summary": "Yapay zekâ destekli yatırım fonu (AI hedge fund), finansal piyasa analizi ve varlık yönetimi süreçlerini otomatize etmek için otonom ajanlar kullanıyor. Python tabanlı bu proje, piyasa verilerini işleyerek yatırım stratejileri geliştiren bir yapay zekâ ekibi (AI team) modeli sunuyor.",
+          "meta": "Python · ★ 61.500 · +115 bugün"
+        },
+        {
+          "title": "chen08209/FlClash",
+          "url": "https://github.com/chen08209/FlClash",
+          "summary": "FlClash, ClashMeta tabanlı, çok platformlu bir vekil sunucu istemcisi (proxy client) olarak hizmet veriyor. Dart diliyle geliştirilen bu açık kaynaklı uygulama, reklamsız ve kullanıcı dostu bir arayüz sunmayı hedefliyor.",
+          "meta": "Dart · ★ 45.340 · +154 bugün",
+          "returning": true
+        },
+        {
+          "title": "par274/sharpemu",
+          "url": "https://github.com/par274/sharpemu",
+          "summary": "Sharpemu, C# diliyle geliştirilen deneysel bir PlayStation 5 öykünücü (emulator) projesidir. Konsol mimarisini yazılım tabanlı olarak taklit etmeyi hedefleyen bu çalışma, oyun konsolu öykünme teknolojileri üzerinde yürütülen teknik bir denemedir.",
+          "meta": "C# · ★ 1.379 · +314 bugün"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark, yapay zekâ tarafından üretilen standart içeriklerin (AI slop) tasarım üzerindeki etkisini azaltmak amacıyla geliştirilen bir stil dosyasıdır. Claude Code, Cursor ve Codex gibi araçlarda kullanılan arayüzlerin özgün ve insani bir estetik kazanmasını sağlar.",
+          "meta": "CSS · ★ 4.508 · +155 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "summary": "Claude Code ve OpenCode araçlarının token kullanım verimliliği üzerine yapılan bir analiz, Claude Code'un istem (prompt) okunmadan önce 33 bin token, OpenCode'un ise 7 bin token harcadığını ortaya koyuyor. Bu fark, geliştirici araçlarındaki sistem istemi (system prompt) ve bağlam yönetimi yükünün maliyet üzerindeki etkisini gösteriyor.",
+          "meta": "541 oy · 307 yorum"
+        },
+        {
+          "title": "Ask HN: Add flag for AI-generated articles",
+          "url": "https://news.ycombinator.com/item?id=48886741",
+          "summary": "Hacker News topluluğu, yapay zekâ tarafından oluşturulan içeriklerin (AI-generated content) platform üzerinde özel bir etiketle işaretlenip işaretlenmemesini tartışıyor. Bu işaretleme sisteminin içeriklerin sıralamasını değiştirmeden, yalnızca okuyuculara bilgi veren bir gösterge olarak kullanılması öneriliyor.",
+          "meta": "462 oy · 240 yorum"
+        },
+        {
+          "title": "I love LLMs, I hate hype",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "summary": "Büyük dil modellerinin (large language models) teknik kapasitesini takdir eden yaklaşım, yapay zekâ sektöründeki abartılı pazarlama söylemlerini eleştiriyor. Yazılım geliştirme süreçlerinde bu modellerin somut verimlilik artışı sağladığı, ancak mevcut beklentilerin gerçekçi olmayan bir iyimserlik barındırdığı savunuluyor.",
+          "meta": "396 oy · 248 yorum"
+        },
+        {
+          "title": "Vint Cerf, “father of the Internet”, is retiring",
+          "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+          "summary": "İnternetin mimarlarından Vint Cerf, Google'daki görevinden emekliye ayrılıyor. TCP/IP protokollerinin geliştirilmesine öncülük eden Cerf, dijital ağların temel yapısının oluşturulmasında kritik rol oynamıştır.",
+          "meta": "301 oy · 176 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "conradlocke/krea2-identity-edit",
+          "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "summary": "Krea2-identity-edit modeli, görsel üretim süreçlerinde kimlik koruma (identity preservation) ve tutarlı karakter oluşturma işlemlerine odaklanıyor. Bu araç, kullanıcıların belirli bir özneyi farklı bağlamlarda veya stillerde yeniden üretmesini sağlayan bir ince ayar (fine-tuning) çözümüdür.",
+          "meta": "♥ 218 · 0 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "destructive command guard",
+      "explanation": "Verileri silme veya sistemi bozma riski taşıyan komutları çalıştırmadan önce sizi uyaran güvenlik mekanizması."
+    },
+    {
+      "term": "shell",
+      "explanation": "Bilgisayarın işletim sistemiyle doğrudan metin komutları üzerinden iletişim kurmanızı sağlayan temel yazılım katmanı."
+    },
+    {
+      "term": "workflow orchestration framework",
+      "explanation": "Karmaşık iş süreçlerini, görevleri ve bu görevlerin birbirini takip etme sırasını düzenleyen yazılım altyapısı."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Belirli bir hedefi gerçekleştirmek için kendi başına karar alabilen ve araçları kullanabilen otonom yapay zekâ yazılımı."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın kendi eğitim verisi dışındaki güncel veya özel belgelere bakarak daha doğru cevaplar üretmesini sağlayan yöntem."
+    },
+    {
+      "term": "offline",
+      "explanation": "İnternet bağlantısına ihtiyaç duymadan, sadece cihazın kendi kaynaklarını kullanarak çalışma durumu."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başlarına görevleri planlayıp yürütebilen ve hedeflere ulaşmak için çeşitli dijital araçları kullanan yapay zekâ birimleri."
+    },
+    {
+      "term": "user experience",
+      "explanation": "Bir uygulamayı veya cihazı kullanırken hissettiğiniz kolaylık, hız ve genel memnuniyet düzeyi."
+    },
+    {
+      "term": "interoperability",
+      "explanation": "Farklı marka veya türdeki yazılım ve donanımların birbirleriyle sorunsuz şekilde veri alışverişi yapabilmesi."
+    },
+    {
+      "term": "type safety",
+      "explanation": "Yazılım geliştirirken verilerin yanlış türde kullanılmasını engelleyerek programın hata yapma ihtimalini düşüren güvenlik kuralı."
+    },
+    {
+      "term": "AI hedge fund",
+      "explanation": "Yatırım kararlarını insan müdahalesi yerine gelişmiş yapay zekâ algoritmalarıyla veren bir yatırım fonu türü."
+    }
+  ]
+}
