@@ -22,6 +22,9 @@ Kuruluma başlamak için home-assistant.io adresini ziyaret edin. Sitedeki kurul
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/home-assistant/core)
 
+## İlgili sözlük terimleri
+Home Automation 
+
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
 ---

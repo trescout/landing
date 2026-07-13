@@ -44,7 +44,7 @@ Agency Agents projesindeki uzman yapay zeka ajanlarını kullanarak çalışma s
 - [GitHub deposu →](https://github.com/msitarzewski/agency-agents)
 
 ## İlgili sözlük terimleri
-Agents Artificial Intelligence 
+Shell Agents Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

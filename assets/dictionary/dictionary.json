@@ -2413,5 +2413,54 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay zekâ asistanlarının belirli bir işi veya görevi yerine getirebilmek için kullandığı özelleşmiş yetenekler bütünüdür."
+  },
+  {
+    "slug": "destructive-command-guard",
+    "en": "Destructive Command Guard",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Veri silme veya sistemi bozma riski olan komutları çalıştırmadan önce sizi durduran bir güvenlik kalkanıdır."
+  },
+  {
+    "slug": "shell",
+    "en": "Shell",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayara grafiksel arayüz yerine doğrudan metin komutları yazarak hükmetmenizi sağlayan bir arayüzdür."
+  },
+  {
+    "slug": "workflow-orchestration-framework",
+    "en": "Workflow Orchestration Framework",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Karmaşık işlerin hangi sırayla ve nasıl yapılacağını yöneten bir düzenleme altyapısıdır."
+  },
+  {
+    "slug": "home-automation",
+    "en": "Home Automation",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Evinizdeki cihazların yapay zeka veya internet üzerinden otomatik olarak kontrol edilmesidir."
+  },
+  {
+    "slug": "user-experience",
+    "en": "User Experience",
+    "full": "UX",
+    "cat": "dev",
+    "kisa": "Bir ürünü kullanırken yaşadığınız genel kolaylık, hız ve memnuniyet duygusudur."
+  },
+  {
+    "slug": "type-safety",
+    "en": "Type Safety",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımda verilerin yanlış türde kullanılmasını engelleyerek hataları daha kod yazarken yakalayan bir güvenlik kuralıdır."
+  },
+  {
+    "slug": "ai-hedge-fund",
+    "en": "AI Hedge Fund",
+    "full": "",
+    "cat": "data",
+    "kisa": "Yatırım kararlarını tamamen veya büyük oranda yapay zeka algoritmalarına bırakan bir yatırım fonudur."
   }
 ]

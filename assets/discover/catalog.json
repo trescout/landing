@@ -4747,5 +4747,149 @@
     "stars": 60747,
     "lite": false,
     "headline": "Vue ile tam yığın web geliştirme"
+  },
+  {
+    "slug": "destructive-command-guard",
+    "title": "Destructive Command Guard",
+    "tagline": "Yıkıcı Komut Koruması (destructive command guard), yapay zekâ ajanları tarafından çalıştırılan tehlikeli git ve kabuk (shell)…",
+    "meta": "★ 3.284 · Rust",
+    "image": "/assets/discover/og/destructive-command-guard.webp",
+    "source": "GitHub",
+    "date": "2026-07-13",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 3284,
+    "lite": false,
+    "headline": "yapay zekâ ajanları için komut koruması"
+  },
+  {
+    "slug": "prefect",
+    "title": "Prefect",
+    "tagline": "Prefect, Python tabanlı veri hatları oluşturmak için kullanılan bir iş akışı düzenleme çerçevesidir (workflow orchestration…",
+    "meta": "★ 23.248 · Python",
+    "image": "/assets/discover/og/prefect.webp",
+    "source": "GitHub",
+    "date": "2026-07-13",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 23248,
+    "lite": false,
+    "headline": "Python ile veri süreçlerini yönetin"
+  },
+  {
+    "slug": "awesome-llm-apps",
+    "title": "Awesome LLM Apps",
+    "tagline": "Awesome-llm-apps deposu, doğrudan çalıştırılabilir 100'den fazla yapay zekâ ajanı (AI agent) ve getirilmiş nesil artırımlı…",
+    "meta": "★ 118.879 · Python",
+    "image": "/assets/discover/og/awesome-llm-apps.webp",
+    "source": "GitHub",
+    "date": "2026-07-13",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 118879,
+    "lite": false,
+    "headline": "Hazır yapay zekâ uygulama şablonları"
+  },
+  {
+    "slug": "background-agents",
+    "title": "Background Agents",
+    "tagline": "ColeMurray tarafından geliştirilen background-agents, TypeScript tabanlı açık kaynaklı bir arka plan ajanları kodlama sistemidir.",
+    "meta": "★ 2.329 · TypeScript",
+    "image": "/assets/discover/og/background-agents.webp",
+    "source": "GitHub",
+    "date": "2026-07-13",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 2329,
+    "lite": false,
+    "headline": "Otonom yazılım geliştiren yapay zekâ ajanları"
+  },
+  {
+    "slug": "wand-enhancer",
+    "title": "Wand-Enhancer",
+    "tagline": "Wand-Enhancer, WeMod uygulaması için kullanıcı deneyimini (user experience) geliştiren ve birlikte çalışabilirliği…",
+    "meta": "★ 7.061 · C#",
+    "image": "/assets/discover/og/wand-enhancer.webp",
+    "source": "GitHub",
+    "date": "2026-07-13",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 7061,
+    "lite": false,
+    "headline": "Wand uygulaması için arayüz özelleştirme",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "t3code",
+    "title": "T3code",
+    "tagline": "T3Code, TypeScript tabanlı projelerde kod kalitesini artırmak ve standartlaştırmak için geliştirilen bir araç setidir.",
+    "meta": "★ 13.814 · TypeScript",
+    "image": "/assets/discover/og/t3code.webp",
+    "source": "GitHub",
+    "date": "2026-07-13",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 13814,
+    "lite": false,
+    "headline": "Kodlama ajanları için web arayüzü"
+  },
+  {
+    "slug": "ai-hedge-fund",
+    "title": "AI Hedge Fund",
+    "tagline": "Yapay zekâ destekli yatırım fonu (AI hedge fund), finansal piyasa analizi ve varlık yönetimi süreçlerini otomatize etmek için…",
+    "meta": "★ 61.500 · Python",
+    "image": "/assets/discover/og/ai-hedge-fund.webp",
+    "source": "GitHub",
+    "date": "2026-07-13",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 61500,
+    "lite": false,
+    "headline": "yatırım stratejileri için yapay zekâ ajanları"
+  },
+  {
+    "slug": "sharpemu",
+    "title": "Sharpemu",
+    "tagline": "Sharpemu, C# diliyle geliştirilen deneysel bir PlayStation 5 öykünücü (emulator) projesidir.",
+    "meta": "★ 1.379 · C#",
+    "image": "/assets/discover/og/sharpemu.webp",
+    "source": "GitHub",
+    "date": "2026-07-13",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1379,
+    "lite": false,
+    "headline": "Deneysel PlayStation 5 öykünücü projesi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "hallmark",
+    "title": "Hallmark",
+    "tagline": "Hallmark, yapay zekâ tarafından üretilen standart içeriklerin (AI slop) tasarım üzerindeki etkisini azaltmak amacıyla…",
+    "meta": "★ 4.508 · CSS",
+    "image": "/assets/discover/og/hallmark.webp",
+    "source": "GitHub",
+    "date": "2026-07-13",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 4508,
+    "lite": false,
+    "headline": "yapay zekâ tasarımlarına özgünlük kazandırın"
   }
 ]

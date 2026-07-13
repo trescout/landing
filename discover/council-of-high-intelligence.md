@@ -54,7 +54,7 @@ Sen bir yapay zekâ danışma kurulunun parçasısın. Karar vermem gereken konu
 - [GitHub deposu →](https://github.com/0xNyk/council-of-high-intelligence)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Shell Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
