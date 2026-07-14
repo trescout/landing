@@ -4891,5 +4891,36 @@
     "stars": 4508,
     "lite": false,
     "headline": "yapay zekâ tasarımlarına özgünlük kazandırın"
+  },
+  {
+    "slug": "opencut",
+    "title": "OpenCut",
+    "tagline": "OpenCut, video düzenleme süreçleri için açık kaynaklı bir alternatif sunan TypeScript tabanlı bir uygulama geliştirme projesidir.",
+    "meta": "★ 67.464 · TypeScript",
+    "image": "/assets/discover/og/opencut.webp",
+    "source": "GitHub",
+    "date": "2026-07-14",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 67464,
+    "lite": false,
+    "headline": "Açık kaynaklı video düzenleme platformu"
+  },
+  {
+    "slug": "graphify",
+    "title": "Graphify",
+    "tagline": "Graphify, kod dosyaları, veritabanı şemaları ve dokümantasyon gibi farklı veri türlerini sorgulanabilir bir bilgi çizgesi…",
+    "meta": "★ 85.141 · Python",
+    "image": "/assets/discover/og/graphify.webp",
+    "source": "GitHub",
+    "date": "2026-07-14",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 85141,
+    "lite": false,
+    "headline": "Projelerinizi yapay zekâ için bilgi çizgesine dönüştürün"
   }
 ]

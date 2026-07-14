@@ -50,7 +50,7 @@ Whisper aracını kullanarak elimdeki ses dosyasını metne dönüştürmek isti
 - [GitHub deposu →](https://github.com/openai/whisper)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Whisper Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

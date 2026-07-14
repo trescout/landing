@@ -2462,5 +2462,61 @@
     "full": "",
     "cat": "data",
     "kisa": "Yatırım kararlarını tamamen veya büyük oranda yapay zeka algoritmalarına bırakan bir yatırım fonudur."
+  },
+  {
+    "slug": "ai-companion",
+    "en": "AI Companion",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kullanıcıyla etkileşim kurarak arkadaşlık eden veya günlük işlerde yardımcı olan yapay zekâ uygulamasıdır."
+  },
+  {
+    "slug": "ai-slop",
+    "en": "AI-slop",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ tarafından hızlıca üretilmiş, düşük kaliteli ve genellikle bir değer katmayan içerik yığınıdır."
+  },
+  {
+    "slug": "ai-coding-assistants",
+    "en": "AI Coding Assistants",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımcılara kod yazarken öneriler sunan, hataları bulan ve geliştirme sürecini hızlandıran yapay zekâ araçlarıdır."
+  },
+  {
+    "slug": "specifications",
+    "en": "Specifications",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir ürünün veya yazılımın ne yapması gerektiğini ve nasıl çalışacağını belirten detaylı kurallar bütünüdür."
+  },
+  {
+    "slug": "marketing-skills",
+    "en": "Marketing Skills",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir ürünün veya hizmetin hedef kitleye ulaştırılmasını ve tercih edilmesini sağlayan tanıtım ve strateji yetenekleridir."
+  },
+  {
+    "slug": "speech-analyzer",
+    "en": "SpeechAnalyzer",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Ses kayıtlarını metne dönüştüren ve bu metindeki duygu, ton veya anlamı çözümleyen bir analiz aracıdır."
+  },
+  {
+    "slug": "whisper",
+    "en": "Whisper",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Konuşulan dili yüksek doğrulukla metne dönüştüren, yapay zekâ tabanlı bir ses tanıma teknolojisidir."
+  },
+  {
+    "slug": "xcode",
+    "en": "Xcode",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Apple cihazları (iPhone, Mac, iPad) için uygulama geliştirmek amacıyla kullanılan resmi yazılım geliştirme ortamıdır."
   }
 ]

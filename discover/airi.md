@@ -46,7 +46,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsini
 - [Dokümantasyon →](https://airi.moeru.ai/docs/)
 
 ## İlgili sözlük terimleri
-Self-hosting Open Source Artificial Intelligence 
+AI Companion Self-hosting Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
