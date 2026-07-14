@@ -1,0 +1,114 @@
+{
+  "date": "2026-07-14",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut, video düzenleme süreçleri için açık kaynaklı bir alternatif sunan TypeScript tabanlı bir uygulama geliştirme projesidir. CapCut benzeri bir kullanıcı deneyimi sağlamayı hedefleyen bu platform, video kurgu araçlarını erişilebilir kılmayı amaçlar.",
+          "meta": "TypeScript · ★ 67.464 · +1.229 bugün"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi, kullanıcıların kendi sunucularında barındırabildiği, gerçek zamanlı sesli sohbet ve oyun oynama yeteneklerine sahip bir yapay zekâ arkadaşı (AI companion) platformudur. Proje, Neuro-sama benzeri etkileşimli karakterleri masaüstü ve web ortamlarına taşımayı hedeflemektedir.",
+          "meta": "TypeScript · ★ 42.089 · +78 bugün",
+          "returning": true
+        },
+        {
+          "title": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "summary": "Graphify, kod dosyaları, veritabanı şemaları ve dokümantasyon gibi farklı veri türlerini sorgulanabilir bir bilgi çizgesi (knowledge graph) yapısına dönüştürüyor. Python tabanlı bu araç, çeşitli yapay zekâ kod yardımcıları (AI coding assistants) için merkezi bir veri katmanı oluşturmayı hedefliyor.",
+          "meta": "Python · ★ 85.141 · +1.095 bugün"
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "GitHub tarafından yayınlanan spec-kit, şartname odaklı geliştirme (spec-driven development) süreçlerini başlatmak için gerekli araçları sunuyor. Python tabanlı bu kütüphane, yazılım projelerinde standartlaştırılmış teknik özellikler (specifications) oluşturmayı ve yönetmeyi kolaylaştırıyor.",
+          "meta": "Python · ★ 120.786 · +543 bugün",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+          "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+          "summary": "Apple, yeni konuşma çözümleyici (SpeechAnalyzer) arayüzünü (API) OpenAI'ın fısıltı (Whisper) modeli ve önceki sürümüyle karşılaştırmalı olarak test ediyor. Cihaz içi işleme odaklanan bu yeni arayüz, özellikle düşük gecikme süresi ve gizlilik avantajlarıyla sesli veri işleme süreçlerinde alternatif bir seçenek sunuyor.",
+          "meta": "511 oy · 200 yorum"
+        },
+        {
+          "title": "Building and shipping Mac and iOS apps without opening Xcode",
+          "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+          "summary": "Geliştiriciler, Apple'ın tümleşik geliştirme ortamı (Xcode) arayüzünü kullanmadan komut satırı araçları ve otomasyon süreçleri ile Mac ve iOS uygulamaları geliştirebiliyor. Bu yöntem, derleme (build) ve dağıtım (deployment) aşamalarını terminal üzerinden yöneterek geliştirme süreçlerini hızlandırıyor.",
+          "meta": "396 oy · 176 yorum"
+        },
+        {
+          "title": "The art and engineering of Sega CD Silpheed",
+          "url": "https://fabiensanglard.net/silpheed/index.html",
+          "summary": "Fabien Sanglard, Sega CD platformu için geliştirilen Silpheed oyununun teknik mimarisini ve görsel efektlerini detaylı bir şekilde inceliyor. Çalışma, 1993 yılındaki donanım kısıtlamaları altında çokgen tabanlı grafiklerin (polygonal graphics) ve önceden işlenmiş videoların nasıl entegre edildiğini teknik belgelerle açıklıyor.",
+          "meta": "241 oy · 50 yorum"
+        },
+        {
+          "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+          "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+          "summary": "Japonya, kullanılmış elektrikli araç bataryalarından lityum geri kazanım oranını yüzde 90 seviyesine çıkaran yeni bir yöntem geliştirdi. Bu teknoloji, batarya geri dönüşüm (battery recycling) süreçlerinde verimliliği artırarak kritik hammadde tedarikinde sürdürülebilirliği destekliyor.",
+          "meta": "226 oy · 60 yorum"
+        },
+        {
+          "title": "The Git history command deserves more attention",
+          "url": "https://lalitm.com/post/git-history/",
+          "summary": "Git geçmişi (Git history) komutu, yazılım geliştirme süreçlerinde proje gelişimini izlemek ve hata ayıklamak için etkili bir araçtır. Bu komut, sürüm kontrolü (version control) geçmişini analiz ederek kod değişikliklerinin izini sürmeyi kolaylaştırır.",
+          "meta": "184 oy · 109 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI companion",
+      "explanation": "Kullanıcıyla sohbet eden, ona arkadaşlık eden veya günlük işlerinde destek olan yapay zekâ uygulaması."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Bilgileri birbirine bağlı noktalar halinde düzenleyerek veriler arasındaki ilişkileri anlamlandıran yapı."
+    },
+    {
+      "term": "AI coding assistants",
+      "explanation": "Yazılımcılara kod yazarken öneriler sunan, hataları düzelten ve işlerini hızlandıran yapay zekâ araçları."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "Bir yazılımı kodlamaya başlamadan önce tüm gereksinimlerin ve kuralların detaylıca belirlendiği çalışma yöntemi."
+    },
+    {
+      "term": "specifications",
+      "explanation": "Bir ürünün veya yazılımın nasıl çalışması gerektiğini belirten teknik kurallar ve detaylar listesi."
+    },
+    {
+      "term": "SpeechAnalyzer",
+      "explanation": "Ses kayıtlarını metne dönüştürüp içindeki duygu veya anlamı çözümleyen analiz aracı."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbiriyle konuşmasını ve veri alışverişi yapmasını sağlayan köprü."
+    },
+    {
+      "term": "Whisper",
+      "explanation": "Konuşulan dili yüksek doğrulukla metne dönüştürebilen yapay zekâ tabanlı ses tanıma teknolojisi."
+    },
+    {
+      "term": "Xcode",
+      "explanation": "Apple cihazları için uygulama geliştirmek amacıyla kullanılan resmi yazılım geliştirme ortamı."
+    }
+  ]
+}
