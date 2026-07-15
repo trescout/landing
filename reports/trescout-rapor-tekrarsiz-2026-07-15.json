@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-15",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "1c7/chinese-independent-developer",
+          "url": "https://github.com/1c7/chinese-independent-developer",
+          "summary": "Çinli bağımsız geliştiricilerin yürüttüğü projeleri listeleyen bu açık kaynaklı veri tabanı, yazılımcıların geliştirdiği uygulamaları ve çalışma alanlarını bir araya getiriyor. Platform, bağımsız geliştiricilik (indie hacking) ekosistemindeki güncel eğilimleri ve ürün odaklı çalışmaları takip etmeyi sağlıyor.",
+          "meta": "Python · ★ 54.609 · +1.196 bugün"
+        },
+        {
+          "title": "AIEraDev/Clypra",
+          "url": "https://github.com/AIEraDev/Clypra",
+          "summary": "Clypra, Tauri, React ve TypeScript kullanılarak geliştirilen açık kaynak kodlu bir video düzenleyici (video editor) uygulamasıdır. Yazılım, ücretli video düzenleme araçlarında bulunan gelişmiş özellikleri ücretsiz bir alternatif olarak sunmayı hedefler.",
+          "meta": "TypeScript · ★ 2.729 · +85 bugün"
+        },
+        {
+          "title": "chenyme/grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "summary": "Grok Build, Grok Web ve Grok Console platformları için geliştirilen bu ağ geçidi (API gateway), çoklu hesap yönetimini tek bir merkezde topluyor. Go diliyle yazılan araç, kullanıcıların farklı Grok servislerine erişimini standartlaştırarak yönetilebilir bir arayüz sunuyor.",
+          "meta": "Go · ★ 5.927 · +186 bugün"
+        },
+        {
+          "title": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "summary": "Maths-cs-ai-compendium, yapay zekâ ve makine öğrenimi (machine learning) alanında uzmanlaşmak isteyen mühendisler için matematik, bilgisayar bilimleri ve yapay zekâ konularını kapsayan kapsamlı bir kaynak derlemesi sunuyor. Bu depo, teorik temelleri güçlendirmek ve araştırma mühendisliği becerilerini geliştirmek amacıyla yapılandırılmış bir çalışma rehberi görevi görüyor.",
+          "meta": "TypeScript · ★ 5.424 · +112 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+          "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+          "summary": "Geliştiriciler, karmaşık uygulama (application) mimarileri yerine standart web sayfalarının sunduğu hafif ve erişilebilir yapıyı tercih etmeye yöneliyor. Bu yaklaşım, kullanıcı deneyimini basitleştirmek için tarayıcı tabanlı çözümlerin (web-based solutions) çoğu zaman yeterli olduğunu savunuyor.",
+          "meta": "773 oy · 467 yorum"
+        },
+        {
+          "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+          "url": "https://prismml.com/news/bonsai-27b",
+          "summary": "PrismML tarafından geliştirilen Bonsai 27B, akıllı telefonlar üzerinde çalışabilen 27 milyar parametreli bir büyük dil modeli (large language model) olarak tasarlandı. Model, model sıkıştırma (model compression) tekniklerini kullanarak yüksek hesaplama gücü gerektiren modelleri mobil cihazlarda erişilebilir kılıyor.",
+          "meta": "525 oy · 187 yorum"
+        },
+        {
+          "title": "How to stop Claude from saying load-bearing",
+          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "summary": "Claude gibi büyük dil modellerinin (LLM) yanıtlarında sıkça kullandığı \"taşıyıcı\" (load-bearing) ifadesi, modelin belirli bir bağlama aşırı güven duyduğunu gösteren bir kalıptır. Kullanıcılar, sistem talimatları (system prompts) üzerinden bu tür tekrarlayan ve içerik kalitesini düşüren ifadeleri engelleyerek modelin daha özgün yanıtlar üretmesini sağlayabiliyor.",
+          "meta": "489 oy · 529 yorum"
+        },
+        {
+          "title": "Are we offloading too much of our thinking to AI?",
+          "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+          "summary": "Yapay zekâ araçlarına devredilen bilişsel yükün, insan zihninin problem çözme ve eleştirel düşünme yetenekleri üzerindeki etkileri tartışılıyor. Otomasyonun entelektüel süreçleri kolaylaştırması ile bireylerin kendi analiz becerilerini yitirme riski arasındaki denge teknoloji dünyasında sorgulanıyor.",
+          "meta": "426 oy · 409 yorum"
+        },
+        {
+          "title": "The Tower Keeps Rising",
+          "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+          "summary": "Yazılım dünyasında karmaşıklığın artmasıyla birlikte, sistemlerin yönetilebilirliğini zorlaştıran soyutlama katmanlarının (abstraction layers) birikmesi bir sorun teşkil ediyor. Modern yazılım geliştirme süreçlerinde, bu katmanların yarattığı teknik borç ve bakım maliyetleri sistem mimarilerinin sürdürülebilirliğini kısıtlıyor.",
+          "meta": "423 oy · 191 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "indie hacking",
+      "explanation": "Büyük şirketlere bağlı kalmadan, tek başına veya küçük ekiplerle kendi dijital ürünlerini geliştirip satma süreci."
+    },
+    {
+      "term": "prompt",
+      "explanation": "Yapay zekâdan bir sonuç almak için ona verdiğiniz yazılı talimat veya komut."
+    },
+    {
+      "term": "video editor",
+      "explanation": "Görüntüleri kesip biçmeye, efekt eklemeye ve sesleri düzenleyerek izlenebilir bir film haline getirmeye yarayan yazılım."
+    },
+    {
+      "term": "API gateway",
+      "explanation": "Farklı uygulamalar arasındaki veri trafiğini yöneten, güvenliği sağlayan ve istekleri doğru yere yönlendiren dijital kapı."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Bilgisayarların verileri inceleyerek kendi kendine öğrenmesini ve zamanla daha iyi tahminler yapmasını sağlayan teknoloji."
+    },
+    {
+      "term": "application",
+      "explanation": "Bilgisayar veya telefonlarda belirli bir işi yapmak için kullandığınız her türlü yazılım programı."
+    },
+    {
+      "term": "web-based solutions",
+      "explanation": "Bilgisayarınıza hiçbir şey kurmanıza gerek kalmadan, sadece internet tarayıcısı üzerinden çalışan yazılım hizmetleri."
+    }
+  ]
+}

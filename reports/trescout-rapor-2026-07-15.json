@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-15",
+  "editorial": "Bugünün teknoloji gündeminde bağımsız geliştiricilerin açık kaynaklı yapay zeka uygulamaları (AI apps) ve finansal piyasalara yönelik otonom model mimarileri öne çıkıyor. GitHub üzerindeki popüler depolar, özellikle büyük dil modellerinin (LLM) pratik kullanım alanlarını genişleten araç setlerine ve yazılım becerilerini (skills) geliştirmeye odaklanan kaynaklara işaret ediyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "1c7/chinese-independent-developer",
+          "url": "https://github.com/1c7/chinese-independent-developer",
+          "summary": "Çinli bağımsız geliştiricilerin yürüttüğü projeleri listeleyen bu açık kaynaklı veri tabanı, yazılımcıların geliştirdiği uygulamaları ve çalışma alanlarını bir araya getiriyor. Platform, bağımsız geliştiricilik (indie hacking) ekosistemindeki güncel eğilimleri ve ürün odaklı çalışmaları takip etmeyi sağlıyor.",
+          "meta": "Python · ★ 54.609 · +1.196 bugün"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "Awesome-llm-apps deposu, doğrudan çalıştırılabilir 100'den fazla yapay zekâ ajanı ve getirilmiş artırılmış üretim (retrieval-augmented generation) uygulamasını bir araya getiriyor. Python tabanlı bu açık kaynaklı projeler, geliştiricilerin uygulamaları kopyalayıp özelleştirerek hızlıca yayına almasına olanak tanıyor.",
+          "meta": "Python · ★ 121.162 · +1.106 bugün"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan bu depo, yazılım mühendislerinin Claude üzerinde kullandığı özelleştirilmiş istem (prompt) ve yapılandırma dosyalarını bir araya getiriyor. Geliştiriciler, bu hazır yetenek setlerini (skills) kullanarak yapay zekâ destekli kodlama süreçlerini standartlaştırıyor.",
+          "meta": "Shell · ★ 170.810 · +1.679 bugün"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut, CapCut video düzenleme yazılımına açık kaynaklı bir alternatif sunuyor. TypeScript diliyle geliştirilen platform, kullanıcıların video kurgu süreçlerini özgürce yönetebilmelerine olanak tanıyor.",
+          "meta": "TypeScript · ★ 69.524 · +4.276 bugün"
+        },
+        {
+          "title": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "summary": "Yapay zekâ destekli yatırım fonu (AI hedge fund), finansal piyasa analizi ve ticaret stratejileri geliştirmek için otonom yapay zekâ ajanlarını (AI agents) kullanıyor. Python tabanlı bu proje, piyasa verilerini işleyerek yatırım kararları alma süreçlerini otomatize etmeyi hedefliyor.",
+          "meta": "Python · ★ 61.997 · +109 bugün"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark, yapay zekâ tarafından oluşturulan içeriklerin (AI-slop) görsel tasarım üzerindeki etkisini azaltmak amacıyla geliştirilen bir stil dosyasıdır. Claude Code, Cursor ve Codex gibi kodlama araçlarında üretilen arayüzlerin özgün ve insan odaklı bir tasarıma sahip olmasını sağlar.",
+          "meta": "CSS · ★ 6.370 · +1.015 bugün"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading, finansal piyasalarda işlem yapmak için geliştirilmiş kişisel bir ticaret ajanıdır (trading agent). Python tabanlı bu proje, piyasa verilerini analiz ederek kullanıcılar adına otomatik alım satım stratejileri yürütmeyi amaçlar.",
+          "meta": "Python · ★ 23.102 · +1.256 bugün"
+        },
+        {
+          "title": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "summary": "Win11Debloat, Windows 10 ve 11 işletim sistemlerinde önceden yüklenmiş uygulamaları kaldırmayı, telemetri verilerini devre dışı bırakmayı ve sistem özelleştirmeleri yapmayı sağlayan bir PowerShell betiğidir. Kullanıcıların işletim sistemi üzerindeki gereksiz öğeleri temizleyerek daha sade bir kullanıcı deneyimi elde etmesine yardımcı olur.",
+          "meta": "PowerShell · ★ 51.923 · +783 bugün"
+        },
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "Hasan Eylldrm tarafından paylaşılan fitness veri seti, 1.324 farklı egzersiz için animasyonlu görseller, kas grubu bilgileri ve altı dilde adım adım talimatlar içeriyor. Bu kapsamlı kaynak, spor uygulamaları geliştirenler için yapılandırılmış bir egzersiz verisi katmanı sunuyor.",
+          "meta": "HTML · ★ 13.778 · +851 bugün"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot, ürün ekiplerinin ölçeklenebilir iş birliği yapmasına olanak tanıyan açık kaynaklı bir tasarım platformudur. Clojure diliyle geliştirilen bu araç, tasarım süreçlerinde şeffaflığı ve ortak çalışma imkanlarını artırmayı hedefler.",
+          "meta": "Clojure · ★ 56.290 · +395 bugün"
+        },
+        {
+          "title": "AIEraDev/Clypra",
+          "url": "https://github.com/AIEraDev/Clypra",
+          "summary": "Clypra, Tauri, React ve TypeScript kullanılarak geliştirilen açık kaynak kodlu bir video düzenleyici (video editor) uygulamasıdır. Yazılım, ücretli video düzenleme araçlarında bulunan gelişmiş özellikleri ücretsiz bir alternatif olarak sunmayı hedefler.",
+          "meta": "TypeScript · ★ 2.729 · +85 bugün"
+        },
+        {
+          "title": "par274/sharpemu",
+          "url": "https://github.com/par274/sharpemu",
+          "summary": "Sharpemu, PlayStation 5 oyun konsolu için C# diliyle geliştirilen deneysel bir öykünücü (emulator) projesidir. Proje, konsol mimarisini yazılım tabanlı bir ortamda çalıştırmayı hedefleyen teknik bir çalışma niteliği taşır.",
+          "meta": "C# · ★ 2.242 · +332 bugün"
+        },
+        {
+          "title": "chenyme/grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "summary": "Grok Build, Grok Web ve Grok Console platformları için geliştirilen bu ağ geçidi (API gateway), çoklu hesap yönetimini tek bir merkezde topluyor. Go diliyle yazılan araç, kullanıcıların farklı Grok servislerine erişimini standartlaştırarak yönetilebilir bir arayüz sunuyor.",
+          "meta": "Go · ★ 5.927 · +186 bugün"
+        },
+        {
+          "title": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "summary": "Graphify, yazılım projelerindeki kod dosyaları, veritabanı şemaları ve dokümanlar gibi farklı veri türlerini sorgulanabilir bir bilgi çizgesi (knowledge graph) yapısına dönüştürüyor. Bu araç, yapay zekâ destekli kodlama asistanlarının (AI coding assistants) proje bağlamını daha bütünsel bir şekilde anlamasını sağlıyor.",
+          "meta": "Python · ★ 86.756 · +1.851 bugün"
+        },
+        {
+          "title": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "summary": "Maths-cs-ai-compendium, yapay zekâ ve makine öğrenimi (machine learning) alanında uzmanlaşmak isteyen mühendisler için matematik, bilgisayar bilimleri ve yapay zekâ konularını kapsayan kapsamlı bir kaynak derlemesi sunuyor. Bu depo, teorik temelleri güçlendirmek ve araştırma mühendisliği becerilerini geliştirmek amacıyla yapılandırılmış bir çalışma rehberi görevi görüyor.",
+          "meta": "TypeScript · ★ 5.424 · +112 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+          "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+          "summary": "Geliştiriciler, karmaşık uygulama (application) mimarileri yerine standart web sayfalarının sunduğu hafif ve erişilebilir yapıyı tercih etmeye yöneliyor. Bu yaklaşım, kullanıcı deneyimini basitleştirmek için tarayıcı tabanlı çözümlerin (web-based solutions) çoğu zaman yeterli olduğunu savunuyor.",
+          "meta": "773 oy · 467 yorum"
+        },
+        {
+          "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+          "url": "https://prismml.com/news/bonsai-27b",
+          "summary": "PrismML tarafından geliştirilen Bonsai 27B, akıllı telefonlar üzerinde çalışabilen 27 milyar parametreli bir büyük dil modeli (large language model) olarak tasarlandı. Model, model sıkıştırma (model compression) tekniklerini kullanarak yüksek hesaplama gücü gerektiren modelleri mobil cihazlarda erişilebilir kılıyor.",
+          "meta": "525 oy · 187 yorum"
+        },
+        {
+          "title": "How to stop Claude from saying load-bearing",
+          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "summary": "Claude gibi büyük dil modellerinin (LLM) yanıtlarında sıkça kullandığı \"taşıyıcı\" (load-bearing) ifadesi, modelin belirli bir bağlama aşırı güven duyduğunu gösteren bir kalıptır. Kullanıcılar, sistem talimatları (system prompts) üzerinden bu tür tekrarlayan ve içerik kalitesini düşüren ifadeleri engelleyerek modelin daha özgün yanıtlar üretmesini sağlayabiliyor.",
+          "meta": "489 oy · 529 yorum"
+        },
+        {
+          "title": "Are we offloading too much of our thinking to AI?",
+          "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+          "summary": "Yapay zekâ araçlarına devredilen bilişsel yükün, insan zihninin problem çözme ve eleştirel düşünme yetenekleri üzerindeki etkileri tartışılıyor. Otomasyonun entelektüel süreçleri kolaylaştırması ile bireylerin kendi analiz becerilerini yitirme riski arasındaki denge teknoloji dünyasında sorgulanıyor.",
+          "meta": "426 oy · 409 yorum"
+        },
+        {
+          "title": "The Tower Keeps Rising",
+          "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+          "summary": "Yazılım dünyasında karmaşıklığın artmasıyla birlikte, sistemlerin yönetilebilirliğini zorlaştıran soyutlama katmanlarının (abstraction layers) birikmesi bir sorun teşkil ediyor. Modern yazılım geliştirme süreçlerinde, bu katmanların yarattığı teknik borç ve bakım maliyetleri sistem mimarilerinin sürdürülebilirliğini kısıtlıyor.",
+          "meta": "423 oy · 191 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M modeli, görsel ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapay zekâ modelidir. GGUF formatında sunulan bu model, yerel cihazlarda çalıştırılmak üzere optimize edilmiştir.",
+          "meta": "♥ 2.168 · 2.006.265 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text-generation) görevleri için optimize edilmiş bir dil modelidir. Söz konusu model, geniş kapsamlı veri setleri üzerinde eğitilerek doğal dil işleme (natural language processing) süreçlerinde yüksek performans sunmayı hedefler.",
+          "meta": "♥ 3.952 · 489.611 indirme"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Tencent tarafından geliştirilen Hy3, metin üretimi (text generation) süreçleri için optimize edilmiş bir dil modelidir. Model, geniş ölçekli veri setleri üzerinde eğitilerek çeşitli doğal dil işleme görevlerinde performans göstermeyi hedefler.",
+          "meta": "♥ 785 · 10.406 indirme"
+        },
+        {
+          "title": "conradlocke/krea2-identity-edit",
+          "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "summary": "Krea2-identity-edit modeli, görsel düzenleme süreçlerinde kimlik koruma (identity preservation) odaklı bir yaklaşım sunuyor. Bu model, kullanıcıların belirli bir görsel kimliği değiştirmeden farklı bağlamlara uyarlamasına olanak tanıyan görüntü düzenleme (image editing) yetenekleri sağlıyor.",
+          "meta": "♥ 291 · 0 indirme"
+        },
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "summary": "Bottlecapai tarafından geliştirilen ThinkingCap-Qwen3.6-27B, görsel ve metin verilerini işleyerek metin çıktısı üreten bir çok modlu (multimodal) yapay zekâ modelidir. Qwen mimarisini temel alan bu yapı, karmaşık görsel içerikleri analiz etme ve metin tabanlı yanıtlar oluşturma yeteneği sunar.",
+          "meta": "♥ 352 · 6.208 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "indie hacking",
+      "explanation": "Büyük şirketlere bağlı kalmadan, tek başına veya küçük ekiplerle kendi dijital ürünlerini geliştirip satma süreci."
+    },
+    {
+      "term": "retrieval-augmented generation",
+      "explanation": "Yapay zekânın cevap üretirken güncel ve özel verileri dış kaynaklardan tarayıp doğruluğunu artırması yöntemi."
+    },
+    {
+      "term": "prompt",
+      "explanation": "Yapay zekâdan bir sonuç almak için ona verdiğiniz yazılı talimat veya komut."
+    },
+    {
+      "term": "skills",
+      "explanation": "Sesli asistanların veya akıllı cihazların belirli görevleri yerine getirebilmesi için kazandığı ek yetenekler."
+    },
+    {
+      "term": "AI hedge fund",
+      "explanation": "Yatırım kararlarını insan yerine tamamen yapay zekâ algoritmalarının verdiği finansal fon yönetimi."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar alabilen, hedeflere ulaşmak için araçları kullanan ve görevleri otomatik tamamlayan yazılımlar."
+    },
+    {
+      "term": "AI-slop",
+      "explanation": "Yapay zekâ tarafından üretilmiş, düşük kaliteli, özensiz ve genellikle interneti kirleten içerikler."
+    },
+    {
+      "term": "trading agent",
+      "explanation": "Borsadaki fiyat değişimlerini takip edip sizin yerinize otomatik alım satım yapan yazılım programı."
+    },
+    {
+      "term": "video editor",
+      "explanation": "Görüntüleri kesip biçmeye, efekt eklemeye ve sesleri düzenleyerek izlenebilir bir film haline getirmeye yarayan yazılım."
+    },
+    {
+      "term": "emulator",
+      "explanation": "Bir cihazın donanımını taklit ederek, başka bir sisteme ait oyun veya programları çalıştırmanızı sağlayan yazılım."
+    },
+    {
+      "term": "API gateway",
+      "explanation": "Farklı uygulamalar arasındaki veri trafiğini yöneten, güvenliği sağlayan ve istekleri doğru yere yönlendiren dijital kapı."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Bilgileri birbirleriyle olan ilişkileriyle birlikte bir ağ yapısında kaydeden akıllı veri tabanı."
+    },
+    {
+      "term": "AI coding assistants",
+      "explanation": "Yazılımcıların kod yazarken hata yapmasını engelleyen, eksik kısımları tamamlayan veya öneriler sunan yapay zekâ araçları."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Bilgisayarların verileri inceleyerek kendi kendine öğrenmesini ve zamanla daha iyi tahminler yapmasını sağlayan teknoloji."
+    },
+    {
+      "term": "application",
+      "explanation": "Bilgisayar veya telefonlarda belirli bir işi yapmak için kullandığınız her türlü yazılım programı."
+    },
+    {
+      "term": "web-based solutions",
+      "explanation": "Bilgisayarınıza hiçbir şey kurmanıza gerek kalmadan, sadece internet tarayıcısı üzerinden çalışan yazılım hizmetleri."
+    }
+  ]
+}
