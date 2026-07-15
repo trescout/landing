@@ -2518,5 +2518,33 @@
     "full": "",
     "cat": "dev",
     "kisa": "Apple cihazları (iPhone, Mac, iPad) için uygulama geliştirmek amacıyla kullanılan resmi yazılım geliştirme ortamıdır."
+  },
+  {
+    "slug": "indie-hacking",
+    "en": "Indie Hacking",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Büyük şirketlerin desteği olmadan, tek başına veya çok küçük ekiplerle dijital ürünler geliştirip piyasaya sürme kültürüdür."
+  },
+  {
+    "slug": "emulator",
+    "en": "Emulator",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir bilgisayarın veya oyun konsolunun donanımını yazılımsal olarak taklit ederek, başka cihazlara ait programları çalıştırmanızı sağlayan bir araçtır."
+  },
+  {
+    "slug": "application",
+    "en": "Application",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayar, telefon veya tablet gibi cihazlarda belirli bir görevi yerine getirmek için tasarlanmış yazılım programıdır."
+  },
+  {
+    "slug": "web-based-solutions",
+    "en": "Web-based Solutions",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarınıza herhangi bir kurulum yapmadan, sadece internet tarayıcısı üzerinden erişip kullanabildiğiniz yazılım hizmetleridir."
   }
 ]

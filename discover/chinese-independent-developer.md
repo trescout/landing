@@ -1,0 +1,31 @@
+# Çinli bağımsız geliştiricilerin projelerini keşfedin
+
+Çinli bağımsız geliştiricilerin yürüttüğü projeleri listeleyen bu açık kaynaklı veri tabanı, yazılımcıların geliştirdiği uygulamaları ve çalışma alanlarını bir araya getiriyor. Platform, bağımsız geliştiricilik (indie hacking) ekosistemindeki güncel eğilimleri ve ürün odaklı çalışmaları takip etmeyi sağlıyor.
+
+- ★ 54.609
+- Python
+- GitHub Trending · 2026-07-15
+
+## Ne kazandırır?
+- Bağımsız geliştiricilerin güncel uygulamalarına erişim
+- Farklı sektörlerdeki ürün odaklı çalışmaları takip etme
+- Açık kaynaklı projelerin canlı veri tabanını inceleme
+
+## Nasıl başlanır?
+
+Bu araç bir yazılım kurulumu gerektirmez. Projeleri incelemek için GitHub üzerindeki ana sayfayı ziyaret edebilir, listelenen uygulamaların web sitelerine veya ilgili depo bağlantılarına tıklayarak doğrudan göz atabilirsiniz.
+- [Resmî kaynak →](https://github.com/xhdndmm)
+
+- **Kimin için:** Bağımsız geliştiricilik ekosistemindeki yeni ürünleri, güncel eğilimleri ve yaratıcı yazılım projelerini takip etmek isteyen herkes içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/1c7/chinese-independent-developer)
+
+## İlgili sözlük terimleri
+Indie Hacking 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/chinese-independent-developer/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

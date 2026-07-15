@@ -4922,5 +4922,70 @@
     "stars": 85141,
     "lite": false,
     "headline": "Projelerinizi yapay zekâ için bilgi çizgesine dönüştürün"
+  },
+  {
+    "slug": "chinese-independent-developer",
+    "title": "Chinese Independent Developer",
+    "tagline": "Çinli bağımsız geliştiricilerin yürüttüğü projeleri listeleyen bu açık kaynaklı veri tabanı, yazılımcıların geliştirdiği…",
+    "meta": "★ 54.609 · Python",
+    "image": "/assets/discover/og/chinese-independent-developer.webp",
+    "source": "GitHub",
+    "date": "2026-07-15",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 54609,
+    "lite": false,
+    "headline": "Çinli bağımsız geliştiricilerin projelerini keşfedin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "clypra",
+    "title": "Clypra",
+    "tagline": "Clypra, Tauri, React ve TypeScript kullanılarak geliştirilen açık kaynak kodlu bir video düzenleyici (video editor) uygulamasıdır.",
+    "meta": "★ 2.729 · TypeScript",
+    "image": "/assets/discover/og/clypra.webp",
+    "source": "GitHub",
+    "date": "2026-07-15",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 2729,
+    "lite": false,
+    "headline": "açık kaynak profesyonel yapay zekâ video düzenleyici"
+  },
+  {
+    "slug": "grok2api",
+    "title": "Grok2api",
+    "tagline": "Grok Build, Grok Web ve Grok Console platformları için geliştirilen bu ağ geçidi (API gateway), çoklu hesap yönetimini tek bir…",
+    "meta": "★ 5.927 · Go",
+    "image": "/assets/discover/og/grok2api.webp",
+    "source": "GitHub",
+    "date": "2026-07-15",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 5927,
+    "lite": false,
+    "headline": "Grok servisleri için merkezi yönetim"
+  },
+  {
+    "slug": "maths-cs-ai-compendium",
+    "title": "Maths Cs AI Compendium",
+    "tagline": "Maths-cs-ai-compendium, yapay zekâ ve makine öğrenimi (machine learning) alanında uzmanlaşmak isteyen mühendisler için…",
+    "meta": "★ 5.424 · TypeScript",
+    "image": "/assets/discover/og/maths-cs-ai-compendium.webp",
+    "source": "GitHub",
+    "date": "2026-07-15",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 5424,
+    "lite": false,
+    "headline": "yapay zekâ ve mühendislik için kapsamlı rehber",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

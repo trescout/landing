@@ -22,7 +22,7 @@ Projeyi kullanmak için GitHub sayfasındaki 'Releases' sekmesinden hazır dosya
 - [GitHub deposu →](https://github.com/par274/sharpemu)
 
 ## İlgili sözlük terimleri
-CPU SDK 
+Emulator CPU SDK 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
