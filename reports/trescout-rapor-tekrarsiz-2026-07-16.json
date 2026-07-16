@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-16",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "summary": "Open Interpreter, yerel bilgisayar ortamında kod çalıştırarak yazılım geliştirme süreçlerini otomatize eden bir kodlama ajanı (coding agent) sunuyor. Düşük maliyetli dil modelleriyle uyumlu çalışacak şekilde tasarlanan bu araç, karmaşık görevleri doğrudan terminal üzerinden yürütmeyi sağlıyor.",
+          "meta": "Rust · ★ 65.626 · +299 bugün"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning) tabanlı bir özel ders sistemidir. Proje, yapay zekâ destekli bireyselleştirilmiş öğretim (personalized tutoring) yöntemleriyle öğrenme deneyimini optimize etmeyi amaçlamaktadır.",
+          "meta": "Python · ★ 26.461 · +172 bugün"
+        },
+        {
+          "title": "YimMenu/YimMenuV2",
+          "url": "https://github.com/YimMenu/YimMenuV2",
+          "summary": "YimMenuV2, Grand Theft Auto 5: Enhanced sürümü için geliştirilen deneysel bir menü modifikasyonudur. C++ diliyle yazılan bu araç, oyun içerisinde çeşitli özelleştirmeler ve genişletilmiş işlevler (features) sunar.",
+          "meta": "C++ · ★ 1.458 · +38 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Inkling: Our Open-Weights Model",
+          "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+          "summary": "Thinking Machines tarafından yayınlanan Inkling, açık ağırlıklı (open-weights) bir dil modeli olarak geliştiricilere sunuluyor. Model, özel veri setleri üzerinde ince ayar (fine-tuning) yapılmasına olanak tanıyan esnek bir yapı hedefliyor.",
+          "meta": "856 oy · 214 yorum"
+        },
+        {
+          "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+          "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+          "summary": "Stripe ve yatırım şirketi Advent, ödeme sistemleri sağlayıcısı PayPal'ı satın almak için 53 milyar doların üzerinde ortak bir teklif sundu. Bu girişim, finansal teknoloji (fintech) sektöründeki büyük ölçekli konsolidasyon eğilimlerini yansıtıyor.",
+          "meta": "412 oy · 223 yorum"
+        },
+        {
+          "title": "Grok Build is open source",
+          "url": "https://github.com/xai-org/grok-build",
+          "summary": "xAI, Grok modelinin mimarisini ve eğitim süreçlerini temel alan Grok-1 açık kaynak kodlu (open source) kütüphanesini yayınladı. Bu geliştirme, geliştiricilerin büyük dil modelleri (large language models) üzerinde ince ayar (fine-tuning) yapmalarına ve modelin çalışma prensiplerini incelemelerine olanak tanıyor.",
+          "meta": "369 oy · 400 yorum"
+        },
+        {
+          "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+          "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+          "summary": "Gemma 4 26B modeli, grafik işlem birimi (GPU) kullanılmadan, 13 yıllık bir Xeon işlemci üzerinde saniyede 5 belirteç (token) hızıyla çalıştırılabiliyor. Bu uygulama, büyük dil modellerinin (LLM) eski donanımlarda verimli çıkarım (inference) yapabilmesi için optimizasyon tekniklerinin önemini gösteriyor.",
+          "meta": "268 oy · 174 yorum"
+        },
+        {
+          "title": "SQLite should have (Rust-style) editions",
+          "url": "https://mort.coffee/home/sqlite-editions/",
+          "summary": "SQLite veritabanı motoru için Rust dilindeki sürümler (editions) modeline benzer bir yapı öneriliyor. Bu yaklaşım, geriye dönük uyumluluğu bozmadan yeni özelliklerin eklenmesini ve yazılımın uzun vadeli bakım süreçlerinin iyileştirilmesini amaçlıyor.",
+          "meta": "199 oy · 77 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B, üçlü ağırlıklandırma (ternary quantization) yöntemiyle optimize edilmiş bir metin üretim modeli (text-generation model) olarak sunuluyor. Bu teknik, modelin performans kaybını minimize ederken bellek kullanımını düşürmeyi hedefliyor.",
+          "meta": "♥ 497 · 23 indirme"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Thinkingmachines tarafından geliştirilen Inkling, görsel ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir modeldir. Sistem, görsel verileri çözümleyip metin tabanlı görevlerde kullanmak üzere tasarlanmıştır.",
+          "meta": "♥ 486 · 0 indirme"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. GGUF formatında sunulan bu yapı, modelin farklı donanım kaynaklarında daha verimli çalışmasını sağlar.",
+          "meta": "♥ 283 · 513 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "coding agent",
+      "explanation": "Sizin için yazılım kodları yazan, hataları düzelten ve uygulama geliştiren yapay zekâ aracı."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "Bir yapay zekâ modelinin yeni verilerle karşılaştıkça eski bilgilerini unutmadan sürekli gelişmesi süreci."
+    },
+    {
+      "term": "personalized tutoring",
+      "explanation": "Öğrencinin hızına ve ihtiyaçlarına göre içeriklerini değiştiren, kişiye özel eğitim veren dijital sistem."
+    },
+    {
+      "term": "features",
+      "explanation": "Bir ürünün veya yazılımın kullanıcılara sunduğu özel fonksiyonlar ve yetenekler."
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-16",
+  "editorial": "Bugün yazılım dünyasında açık kaynaklı video düzenleme araçları (open-source video editing tools) ile ticaret stratejilerini optimize eden algoritmik modeller ön plana çıkıyor. GitHub verileri, geliştirici yetkinliklerini ölçen beceri setleri (skill sets) ve komut güvenliği katmanlarının yazılım süreçlerinde daha fazla ağırlık kazandığını gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut, CapCut video düzenleme yazılımına açık kaynaklı bir alternatif sunuyor. TypeScript diliyle geliştirilen platform, kullanıcıların video kurgu süreçlerini özgür bir yazılım ekosisteminde yönetmelerine olanak tanıyor.",
+          "meta": "TypeScript · ★ 72.541 · +1.664 bugün"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark, yapay zekâ tarafından üretilen içeriklerin (AI-slop) görsel tasarım üzerindeki etkilerini azaltmayı hedefleyen bir stil kütüphanesidir. Claude Code, Cursor ve Codex gibi geliştirme araçlarında kullanılan arayüzlerin tasarım kalitesini artırmak için CSS tabanlı çözümler sunar.",
+          "meta": "CSS · ★ 9.248 · +1.277 bugün"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan bu depo, yazılım geliştiricilerin Claude üzerinde kullandığı özelleştirilmiş yetenek (skills) tanımlarını bir araya getiriyor. Geliştiriciler, yapay zekâ asistanlarının kod yazım süreçlerini optimize etmek için oluşturduğu bu yapılandırılmış komut setlerini (prompts) paylaşıyor.",
+          "meta": "Shell · ★ 172.771 · +2.130 bugün"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi, kullanıcıların kendi sunucularında barındırabileceği, gerçek zamanlı sesli sohbet ve oyun oynama yeteneklerine sahip yapay zekâ tabanlı bir sanal arkadaş (companion) projesidir. TypeScript ile geliştirilen bu sistem, Minecraft ve Factorio gibi oyunlarla etkileşime girerek dijital karakterleri yerel ortamlarda çalıştırmayı hedefler.",
+          "meta": "TypeScript · ★ 42.635 · +110 bugün"
+        },
+        {
+          "title": "Dicklesworthstone/destructive_command_guard",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "summary": "Yıkıcı komut koruyucusu (destructive command guard), yapay zekâ ajanları tarafından çalıştırılan tehlikeli git ve kabuk (shell) komutlarını engelleyen bir güvenlik aracıdır. Rust diliyle geliştirilen bu çözüm, ajan tabanlı iş akışlarında istenmeyen sistem müdahalelerini kısıtlamayı hedefler.",
+          "meta": "Rust · ★ 4.858 · +471 bugün"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading, finansal piyasalarda işlem yapmak amacıyla geliştirilmiş kişisel bir ticaret ajanı (trading agent) sunuyor. Python tabanlı bu proje, piyasa verilerini analiz ederek kullanıcılar adına otomatik alım satım stratejileri yürütmeyi hedefliyor.",
+          "meta": "Python · ★ 23.888 · +915 bugün"
+        },
+        {
+          "title": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "summary": "Open Interpreter, yerel bilgisayar ortamında kod çalıştırarak yazılım geliştirme süreçlerini otomatize eden bir kodlama ajanı (coding agent) sunuyor. Düşük maliyetli dil modelleriyle uyumlu çalışacak şekilde tasarlanan bu araç, karmaşık görevleri doğrudan terminal üzerinden yürütmeyi sağlıyor.",
+          "meta": "Rust · ★ 65.626 · +299 bugün"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning) tabanlı bir özel ders sistemidir. Proje, yapay zekâ destekli bireyselleştirilmiş öğretim (personalized tutoring) yöntemleriyle öğrenme deneyimini optimize etmeyi amaçlamaktadır.",
+          "meta": "Python · ★ 26.461 · +172 bugün"
+        },
+        {
+          "title": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "summary": "Maths-cs-ai-compendium, yapay zekâ ve makine öğrenimi (machine learning) mühendisliği için gerekli matematiksel temelleri ve bilgisayar bilimi (computer science) prensiplerini tek bir kaynakta topluyor. Araştırma mühendisi olmak isteyenler için teorik bilgiyi uygulamalı bir müfredatla birleştiriyor.",
+          "meta": "TypeScript · ★ 6.049 · +725 bugün"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "Shubhamsaboo tarafından derlenen depo, doğrudan çalıştırılabilir 100'den fazla yapay zekâ ajanı ve getirim artırılmış üretim (retrieval-augmented generation) uygulamasını içeriyor. Python tabanlı bu projeler, geliştiricilerin uygulamaları kopyalayıp özelleştirerek hızlıca yayına almasına olanak tanıyor.",
+          "meta": "Python · ★ 122.131 · +1.236 bugün"
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "Claude Code ve yapay zekâ ajanları için geliştirilen bu kütüphane, dönüşüm oranı optimizasyonu (CRO), metin yazarlığı, arama motoru optimizasyonu (SEO), analitik ve büyüme mühendisliği gibi alanlarda özelleşmiş yetenekler sunuyor. JavaScript tabanlı bu araç seti, yapay zekâ modellerinin pazarlama odaklı iş akışlarını daha etkili yönetmesini sağlıyor.",
+          "meta": "JavaScript · ★ 39.929 · +340 bugün"
+        },
+        {
+          "title": "YimMenu/YimMenuV2",
+          "url": "https://github.com/YimMenu/YimMenuV2",
+          "summary": "YimMenuV2, Grand Theft Auto 5: Enhanced sürümü için geliştirilen deneysel bir menü modifikasyonudur. C++ diliyle yazılan bu araç, oyun içerisinde çeşitli özelleştirmeler ve genişletilmiş işlevler (features) sunar.",
+          "meta": "C++ · ★ 1.458 · +38 bugün"
+        },
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "Hasan Eyl-drm tarafından hazırlanan egzersiz veri seti (exercises-dataset), 1.324 farklı hareketi animasyonlu görseller, kas grubu bilgileri ve altı dilde adım adım talimatlarla sunuyor. Fitness uygulamaları için yapılandırılmış bir veri katmanı sağlayan bu kaynak, egzersiz verilerini standartlaştırmayı amaçlıyor.",
+          "meta": "HTML · ★ 14.540 · +949 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Inkling: Our Open-Weights Model",
+          "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+          "summary": "Thinking Machines tarafından yayınlanan Inkling, açık ağırlıklı (open-weights) bir dil modeli olarak geliştiricilere sunuluyor. Model, özel veri setleri üzerinde ince ayar (fine-tuning) yapılmasına olanak tanıyan esnek bir yapı hedefliyor.",
+          "meta": "856 oy · 214 yorum"
+        },
+        {
+          "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+          "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+          "summary": "Stripe ve yatırım şirketi Advent, ödeme sistemleri sağlayıcısı PayPal'ı satın almak için 53 milyar doların üzerinde ortak bir teklif sundu. Bu girişim, finansal teknoloji (fintech) sektöründeki büyük ölçekli konsolidasyon eğilimlerini yansıtıyor.",
+          "meta": "412 oy · 223 yorum"
+        },
+        {
+          "title": "Grok Build is open source",
+          "url": "https://github.com/xai-org/grok-build",
+          "summary": "xAI, Grok modelinin mimarisini ve eğitim süreçlerini temel alan Grok-1 açık kaynak kodlu (open source) kütüphanesini yayınladı. Bu geliştirme, geliştiricilerin büyük dil modelleri (large language models) üzerinde ince ayar (fine-tuning) yapmalarına ve modelin çalışma prensiplerini incelemelerine olanak tanıyor.",
+          "meta": "369 oy · 400 yorum"
+        },
+        {
+          "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+          "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+          "summary": "Gemma 4 26B modeli, grafik işlem birimi (GPU) kullanılmadan, 13 yıllık bir Xeon işlemci üzerinde saniyede 5 belirteç (token) hızıyla çalıştırılabiliyor. Bu uygulama, büyük dil modellerinin (LLM) eski donanımlarda verimli çıkarım (inference) yapabilmesi için optimizasyon tekniklerinin önemini gösteriyor.",
+          "meta": "268 oy · 174 yorum"
+        },
+        {
+          "title": "SQLite should have (Rust-style) editions",
+          "url": "https://mort.coffee/home/sqlite-editions/",
+          "summary": "SQLite veritabanı motoru için Rust dilindeki sürümler (editions) modeline benzer bir yapı öneriliyor. Bu yaklaşım, geriye dönük uyumluluğu bozmadan yeni özelliklerin eklenmesini ve yazılımın uzun vadeli bakım süreçlerinin iyileştirilmesini amaçlıyor.",
+          "meta": "199 oy · 77 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B, üçlü ağırlıklandırma (ternary quantization) yöntemiyle optimize edilmiş bir metin üretim modeli (text-generation model) olarak sunuluyor. Bu teknik, modelin performans kaybını minimize ederken bellek kullanımını düşürmeyi hedefliyor.",
+          "meta": "♥ 497 · 23 indirme"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Thinkingmachines tarafından geliştirilen Inkling, görsel ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir modeldir. Sistem, görsel verileri çözümleyip metin tabanlı görevlerde kullanmak üzere tasarlanmıştır.",
+          "meta": "♥ 486 · 0 indirme"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M modeli, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir görüntü-metin-metin (image-text-to-text) modelidir. Model, geniş bağlam penceresi (context window) desteğiyle karmaşık veri setlerini analiz etme kapasitesi sunar.",
+          "meta": "♥ 2.220 · 2.006.265 indirme"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. GGUF formatında sunulan bu yapı, modelin farklı donanım kaynaklarında daha verimli çalışmasını sağlar.",
+          "meta": "♥ 283 · 513 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Model, geniş kapsamlı dil işleme yetenekleriyle çeşitli içerik oluşturma süreçlerinde kullanılmaktadır.",
+          "meta": "♥ 4.006 · 489.611 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI-slop",
+      "explanation": "Yapay zekâ tarafından üretilen, düşük kaliteli, özensiz ve genellikle interneti kirleten değersiz içerikler."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya cihazın belirli görevleri yerine getirebilmesi için sahip olduğu yetenekler."
+    },
+    {
+      "term": "prompts",
+      "explanation": "Yapay zekâdan bir sonuç almak için ona verdiğiniz yazılı komutlar veya sorular."
+    },
+    {
+      "term": "companion",
+      "explanation": "Kullanıcıyla sohbet eden, ona yardımcı olan veya günlük işlerinde eşlik eden dijital asistan."
+    },
+    {
+      "term": "destructive command guard",
+      "explanation": "Sisteme zarar verebilecek hatalı veya tehlikeli komutların çalıştırılmasını engelleyen güvenlik mekanizması."
+    },
+    {
+      "term": "shell",
+      "explanation": "Kullanıcının bilgisayarın işletim sistemiyle doğrudan yazılı komutlar aracılığıyla iletişim kurmasını sağlayan ortam."
+    },
+    {
+      "term": "trading agent",
+      "explanation": "Borsa veya kripto para piyasalarında sizin yerinize alım satım işlemleri yapan otonom yazılım."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Sizin için yazılım kodları yazan, hataları düzelten ve uygulama geliştiren yapay zekâ aracı."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "Bir yapay zekâ modelinin yeni verilerle karşılaştıkça eski bilgilerini unutmadan sürekli gelişmesi süreci."
+    },
+    {
+      "term": "personalized tutoring",
+      "explanation": "Öğrencinin hızına ve ihtiyaçlarına göre içeriklerini değiştiren, kişiye özel eğitim veren dijital sistem."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Bilgisayarların verileri inceleyerek kendi kendine öğrenmesini ve zamanla daha iyi kararlar vermesini sağlayan yöntem."
+    },
+    {
+      "term": "computer science",
+      "explanation": "Bilgisayarların çalışma prensiplerini, yazılım geliştirmeyi ve veri işleme yöntemlerini inceleyen bilim dalı."
+    },
+    {
+      "term": "retrieval-augmented generation",
+      "explanation": "Yapay zekânın cevap üretirken güncel ve güvenilir dış kaynaklardan bilgi çekerek daha doğru sonuçlar vermesi."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Bir web sitesini ziyaret eden kişilerin, o sitede alışveriş yapma veya üye olma gibi istenen işlemleri gerçekleştirme oranını artırma çalışması."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Web sitelerinin arama motorlarında daha üst sıralarda çıkması için yapılan düzenleme ve iyileştirme çalışmaları."
+    },
+    {
+      "term": "features",
+      "explanation": "Bir ürünün veya yazılımın kullanıcılara sunduğu özel fonksiyonlar ve yetenekler."
+    }
+  ]
+}
