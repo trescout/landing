@@ -2567,5 +2567,19 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bir yazılımın veya ürünün kullanıcılara sunduğu belirgin yetenekler ve fonksiyonlar."
+  },
+  {
+    "slug": "prompts",
+    "en": "Prompts",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâdan bir sonuç almak için ona verdiğiniz yazılı komutlar veya sorulardır."
+  },
+  {
+    "slug": "companion",
+    "en": "Companion",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kullanıcıyla sohbet eden, ona yardımcı olan veya günlük işlerinde eşlik eden dijital asistandır."
   }
 ]

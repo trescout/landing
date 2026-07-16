@@ -23,7 +23,7 @@ Bu araç bir yazılım kurulumu gerektirmez. GitHub üzerindeki System Prompts L
 - [GitHub deposu →](https://github.com/asgeirtj/system_prompts_leaks)
 
 ## İlgili sözlük terimleri
-System Prompts Artificial Intelligence 
+System Prompts Prompts Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
