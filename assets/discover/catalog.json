@@ -4987,5 +4987,54 @@
     "headline": "yapay zekâ ve mühendislik için kapsamlı rehber",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "openinterpreter",
+    "title": "Openinterpreter",
+    "tagline": "Open Interpreter, yerel bilgisayar ortamında kod çalıştırarak yazılım geliştirme süreçlerini otomatize eden bir kodlama ajanı…",
+    "meta": "★ 65.626 · Rust",
+    "image": "/assets/discover/og/openinterpreter.webp",
+    "source": "GitHub",
+    "date": "2026-07-16",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 65626,
+    "lite": false,
+    "headline": "bilgisayarınızda kod çalıştıran yapay zekâ"
+  },
+  {
+    "slug": "deeptutor",
+    "title": "DeepTutor",
+    "tagline": "DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning)…",
+    "meta": "★ 26.461 · Python",
+    "image": "/assets/discover/og/deeptutor.webp",
+    "source": "GitHub",
+    "date": "2026-07-16",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 26461,
+    "lite": false,
+    "headline": "yapay zekâ destekli kişiselleştirilmiş eğitim"
+  },
+  {
+    "slug": "yimmenuv2",
+    "title": "YimMenuV2",
+    "tagline": "YimMenuV2, Grand Theft Auto 5: Enhanced sürümü için geliştirilen deneysel bir menü modifikasyonudur.",
+    "meta": "★ 1.458 · C++",
+    "image": "/assets/discover/og/yimmenuv2.webp",
+    "source": "GitHub",
+    "date": "2026-07-16",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1458,
+    "lite": false,
+    "headline": "Grand Theft Auto 5 için deneysel mod menüsü",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

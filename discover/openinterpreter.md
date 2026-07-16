@@ -1,0 +1,47 @@
+# bilgisayarınızda kod çalıştıran yapay zekâ
+
+Open Interpreter, yerel bilgisayar ortamında kod çalıştırarak yazılım geliştirme süreçlerini otomatize eden bir kodlama ajanı (coding agent) sunuyor. Düşük maliyetli dil modelleriyle uyumlu çalışacak şekilde tasarlanan bu araç, karmaşık görevleri doğrudan terminal üzerinden yürütmeyi sağlıyor.
+
+- ★ 65.626
+- Rust
+- GitHub Trending · 2026-07-16
+
+## Ne kazandırır?
+- Yerel terminal üzerinden yazılım süreçlerini otomatize eder.
+- Düşük maliyetli dil modelleriyle uyumlu çalışır.
+- Web ve yerel uygulamaları test etme yeteneği sunar.
+
+## Kurulum
+
+**macOS ve Linux için kurulum**
+
+```
+curl -fsSL https://www.openinterpreter.com/install | sh
+```
+
+## Çalıştırma
+
+**Oturumu başlatma**
+
+```
+i
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bilgisayarımda bir kodlama ajanı olarak görev yapmanı istiyorum. Yerel ortamımda kod çalıştırarak karmaşık görevleri otomatize etmeni, gerektiğinde web veya yerel uygulamaları test etmeni bekliyorum. İşlemleri gerçekleştirirken düşük maliyetli modelleri optimize eden yapıları kullan ve terminal üzerinden komutlarımı güvenli bir şekilde yürüt.
+
+- **Kimin için:** Yazılım geliştirme süreçlerini terminal üzerinden otomatize etmek isteyen kullanıcılar için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/openinterpreter/openinterpreter)
+
+## İlgili sözlük terimleri
+Coding Agent Terminal Rust Agent Artificial Intelligence 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/openinterpreter/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

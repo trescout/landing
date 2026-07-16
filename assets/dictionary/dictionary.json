@@ -2546,5 +2546,26 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bilgisayarınıza herhangi bir kurulum yapmadan, sadece internet tarayıcısı üzerinden erişip kullanabildiğiniz yazılım hizmetleridir."
+  },
+  {
+    "slug": "lifelong-learning",
+    "en": "Lifelong Learning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın eski bilgilerini kaybetmeden yeni verilerle sürekli öğrenme yeteneği."
+  },
+  {
+    "slug": "personalized-tutoring",
+    "en": "Personalized Tutoring",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Öğrencinin anlama hızına ve eksiklerine göre uyarlanan yapay zeka destekli özel eğitim."
+  },
+  {
+    "slug": "features",
+    "en": "Features",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın veya ürünün kullanıcılara sunduğu belirgin yetenekler ve fonksiyonlar."
   }
 ]
