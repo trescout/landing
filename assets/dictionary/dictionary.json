@@ -2581,5 +2581,68 @@
     "full": "",
     "cat": "ai",
     "kisa": "Kullanıcıyla sohbet eden, ona yardımcı olan veya günlük işlerinde eşlik eden dijital asistandır."
+  },
+  {
+    "slug": "bi",
+    "en": "BI",
+    "full": "Business Intelligence",
+    "cat": "data",
+    "kisa": "Ham verileri anlamlı raporlara dönüştürerek iş kararlarını destekleyen analiz araçlarıdır."
+  },
+  {
+    "slug": "semantic-metadata",
+    "en": "Semantic Metadata",
+    "full": "",
+    "cat": "data",
+    "kisa": "Verinin sadece ne olduğunu değil, ne anlama geldiğini ve diğer verilerle bağını açıklayan etikettir."
+  },
+  {
+    "slug": "single-source-of-truth",
+    "en": "Single Source of Truth",
+    "full": "SSOT",
+    "cat": "data",
+    "kisa": "Tüm verilerin tek bir güvenilir merkezden yönetilmesi ve herkesin aynı bilgiye ulaşması prensibidir."
+  },
+  {
+    "slug": "ai-generated-content",
+    "en": "AI-generated Content",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnsan eli değmeden, yapay zekâ modelleri tarafından oluşturulan her türlü dijital içeriktir."
+  },
+  {
+    "slug": "ai-observability",
+    "en": "AI Observability",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ sistemlerinin iç dünyasını izleyerek nasıl karar verdiğini ve nerede hata yaptığını takip etme sürecidir."
+  },
+  {
+    "slug": "session-replay",
+    "en": "Session Replay",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kullanıcının web sitenizdeki tüm hareketlerini bir film gibi kaydedip izlemenizi sağlayan teknolojidir."
+  },
+  {
+    "slug": "data-layer",
+    "en": "Data Layer",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Uygulamanızın veritabanı ile konuşmasını sağlayan, veriyi düzenleyen orta katmandır."
+  },
+  {
+    "slug": "ai-team-operations",
+    "en": "AI Team Operations",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ projelerini geliştiren ekiplerin iş akışlarını verimli yönetme disiplinidir."
+  },
+  {
+    "slug": "tutoring",
+    "en": "Tutoring",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın bir öğrenciye özel bir öğretmen gibi konuları anlatması ve rehberlik etmesidir."
   }
 ]

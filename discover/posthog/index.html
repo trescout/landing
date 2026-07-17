@@ -3,30 +3,30 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>DeepTutor · Keşif · TreScout</title>
-<meta name="description" content="DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning)…">
+<title>Posthog · Keşif · TreScout</title>
+<meta name="description" content="PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session…">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="alternate" type="text/markdown" href="/discover/deeptutor.md">
-<link rel="canonical" href="https://trescout.com/discover/deeptutor/">
-<meta property="og:title" content="DeepTutor">
-<meta property="og:description" content="DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning)…">
-<meta property="og:url" content="https://trescout.com/discover/deeptutor/">
+<link rel="alternate" type="text/markdown" href="/discover/posthog.md">
+<link rel="canonical" href="https://trescout.com/discover/posthog/">
+<meta property="og:title" content="Posthog">
+<meta property="og:description" content="PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session…">
+<meta property="og:url" content="https://trescout.com/discover/posthog/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:image" content="https://trescout.com/assets/discover/og/deeptutor.webp">
+<meta property="og:image" content="https://trescout.com/assets/discover/og/posthog.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="DeepTutor">
-<meta name="twitter:image" content="https://trescout.com/assets/discover/og/deeptutor.webp">
+<meta name="twitter:title" content="Posthog">
+<meta name="twitter:image" content="https://trescout.com/assets/discover/og/posthog.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "DeepTutor",
+  "headline": "Posthog",
   "inLanguage": "tr",
-  "description": "DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning)…",
+  "description": "PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session…",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -36,12 +36,12 @@
     "@type": "Organization",
     "name": "TreScout"
   },
-  "image": "https://trescout.com/assets/discover/og/deeptutor.webp",
-  "url": "https://trescout.com/discover/deeptutor/",
+  "image": "https://trescout.com/assets/discover/og/posthog.webp",
+  "url": "https://trescout.com/discover/posthog/",
   "about": {
     "@type": "SoftwareSourceCode",
-    "name": "DeepTutor",
-    "codeRepository": "https://github.com/HKUDS/DeepTutor",
+    "name": "Posthog",
+    "codeRepository": "https://github.com/PostHog/posthog",
     "programmingLanguage": "Python"
   }
 }
@@ -57,23 +57,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
-<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · DeepTutor</span><span class="disc-momentum">🚀 +172 bugün</span></div>
-<h1 class="disc-title">Yapay zekâ destekli kişiselleştirilmiş eğitim</h1>
-<p class="disc-lead">DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning) tabanlı bir özel ders sistemidir. Proje, yapay zekâ destekli bireyselleştirilmiş öğretim (personalized tutoring) yöntemleriyle öğrenme deneyimini optimize etmeyi amaçlamaktadır.</p>
-<ul class="disc-meta"><li>★ 26.461</li><li>Python</li><li>GitHub Trending · 2026-07-16</li></ul>
-      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>Yaşam boyu öğrenme odaklı özel ders sistemi</li><li>Kişiselleştirilmiş yapay zekâ ajanları ile etkileşim</li><li>Gelişmiş bilgi tabanı ve RAG desteği</li></ul></section>
-      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Hızlı kurulum</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>mkdir -p my-deeptutor &amp;&amp; cd my-deeptutor
-pip install -U deeptutor
-deeptutor init     # prompts for ports + LLM provider + optional embedding
-deeptutor start    # starts backend + frontend; keep the terminal open</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Docker ile çalıştırma</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>docker run --rm --name deeptutor \
-  -p 127.0.0.1:3782:3782 \
-  -v deeptutor-data:/app/data \
-  ghcr.io/hkuds/deeptutor:latest</code></pre></div></section>
-      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Sistemi başlatma</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>deeptutor start    # starts backend + frontend; keep the terminal open</code></pre></div></section>
-      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">DeepTutor sistemini kullanarak öğrenme sürecimi nasıl kişiselleştirebilirim? Kendi yapay zekâ partnerlerimi oluşturmak ve özel eğitim materyallerimi bu sisteme entegre ederek yaşam boyu öğrenme deneyimimi optimize etmek için izlemem gereken temel adımları açıkla.</p></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Kendi özel eğitim asistanını oluşturmak ve kişiselleştirilmiş bir öğrenme ortamı kurmak isteyen öğrenciler ve eğitmenler için uygundur.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">Apache-2.0</span></div></div>
-      <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/HKUDS/DeepTutor" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/lifelong-learning/">Lifelong Learning</a><a href="/dictionary/personalized-tutoring/">Personalized Tutoring</a><a href="/dictionary/tutoring/">Tutoring</a><a href="/dictionary/rag/">RAG</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · Posthog</span><span class="disc-momentum">🚀 +77 bugün</span></div>
+<h1 class="disc-title">Ürün geliştirme için yapay zekâ gözlemlenebilirliği</h1>
+<p class="disc-lead">PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session replay) gibi araçları bir araya getiren kapsamlı bir platformdur. Yazılım geliştiricilerin hata takibi, deney yönetimi ve kullanıcı verilerini analiz ederek otonom ürünler oluşturmasını sağlar.</p>
+<ul class="disc-meta"><li>★ 35.939</li><li>Python</li><li>GitHub Trending · 2026-07-17</li></ul>
+      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>Kullanıcı davranışlarını analiz ederek hataları otomatik tespit edin.</li><li>Oturum tekrarları ve web analizleri ile kullanıcı deneyimini izleyin.</li><li>Yapay zekâ destekli uygulamalarınızın performansını ve maliyetini takip edin.</li></ul></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Linux üzerinde Docker ile kurulum</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>/bin/bash -c &quot;$(curl -fsSL https://raw.githubusercontent.com/posthog/posthog/HEAD/bin/deploy-hobby)&quot;</code></pre></div></section>
+      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">PostHog platformunu kullanarak ürünümdeki kullanıcı davranışlarını analiz etmem gerekiyor. Hataları tespit etmek, oturum tekrarlarını incelemek ve yapay zekâ destekli özelliklerimin performansını izlemek için hangi araçları kullanmalıyım? Veri toplama ve analiz süreçlerini otomatize etmek için izlemem gereken adımları açıkla.</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Ürün geliştirme süreçlerini veriye dayalı yönetmek ve kullanıcı deneyimini iyileştirmek isteyen yazılım geliştiriciler ve ürün yöneticileri içindir.</span></div></div>
+      <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/PostHog/posthog" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/ai-observability/">AI Observability</a><a href="/dictionary/session-replay/">Session Replay</a><a href="/dictionary/observability/">Observability</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 <p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.</p>
 </article>

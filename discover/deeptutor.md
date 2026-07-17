@@ -50,7 +50,7 @@ DeepTutor sistemini kullanarak öğrenme sürecimi nasıl kişiselleştirebiliri
 - [GitHub deposu →](https://github.com/HKUDS/DeepTutor)
 
 ## İlgili sözlük terimleri
-Lifelong Learning Personalized Tutoring RAG Artificial Intelligence 
+Lifelong Learning Personalized Tutoring Tutoring RAG Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

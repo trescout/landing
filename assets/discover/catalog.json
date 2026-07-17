@@ -5036,5 +5036,105 @@
     "headline": "Grand Theft Auto 5 için deneysel mod menüsü",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "ossie",
+    "title": "Ossie",
+    "tagline": "Apache Ossie, analitik, yapay zekâ ve iş zekâsı (BI) platformları arasında anlamsal üst veri (semantic metadata) değişimini…",
+    "meta": "★ 997 · Python",
+    "image": "/assets/discover/og/ossie.webp",
+    "source": "GitHub",
+    "date": "2026-07-17",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 997,
+    "lite": false,
+    "headline": "Veri platformları için ortak anlamsal standart",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "posthog",
+    "title": "Posthog",
+    "tagline": "PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session…",
+    "meta": "★ 35.939 · Python",
+    "image": "/assets/discover/og/posthog.webp",
+    "source": "GitHub",
+    "date": "2026-07-17",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 35939,
+    "lite": false,
+    "headline": "Ürün geliştirme için yapay zekâ gözlemlenebilirliği"
+  },
+  {
+    "slug": "bonsai-demo",
+    "title": "Bonsai-demo",
+    "tagline": "Bonsai demo projesi, makine öğrenimi (machine learning) modellerinin dağıtım süreçlerini basitleştirmek için tasarlanmış bir…",
+    "meta": "★ 1.587 · Shell",
+    "image": "/assets/discover/og/bonsai-demo.webp",
+    "source": "GitHub",
+    "date": "2026-07-17",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1587,
+    "lite": false,
+    "headline": "Yerel cihazda yapay zekâ modelleri"
+  },
+  {
+    "slug": "lobehub",
+    "title": "Lobehub",
+    "tagline": "LobeHub, yapay zekâ ajanlarını işe alma, zamanlama ve raporlama süreçleriyle yöneterek 7 gün 24 saat çalışan bir yapay zekâ…",
+    "meta": "★ 80.291 · TypeScript",
+    "image": "/assets/discover/og/lobehub.webp",
+    "source": "GitHub",
+    "date": "2026-07-17",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 80291,
+    "lite": false,
+    "headline": "yapay zekâ ajanları ile operasyon yönetimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "ui-skills",
+    "title": "UI Skills",
+    "tagline": "Tasarım mühendisleri için geliştirilen ui-skills, kullanıcı arayüzü (UI) geliştirme süreçlerinde ihtiyaç duyulan teknik…",
+    "meta": "★ 4.436 · TypeScript",
+    "image": "/assets/discover/og/ui-skills.webp",
+    "source": "GitHub",
+    "date": "2026-07-17",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 4436,
+    "lite": false,
+    "headline": "Tasarım mühendisleri için arayüz becerileri"
+  },
+  {
+    "slug": "computer-science",
+    "title": "Computer Science",
+    "tagline": "Bilgisayar bilimleri (computer science) alanında ücretsiz ve kendi kendine öğrenme odaklı bir müfredat sunan bu kaynak…",
+    "meta": "★ 206.669 · HTML",
+    "image": "/assets/discover/og/computer-science.webp",
+    "source": "GitHub",
+    "date": "2026-07-17",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 206669,
+    "lite": false,
+    "headline": "Ücretsiz bilgisayar bilimleri eğitim yolu",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]
