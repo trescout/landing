@@ -1,0 +1,249 @@
+{
+  "date": "2026-07-17",
+  "editorial": "Bugün açık kaynak dünyasında yerel modellerin (local models) yürütülmesi ve kullanıcı etkileşimli analiz araçları ön planda yer alıyor. Özellikle kod yorumlayıcılar (code interpreters) ve veri analitiği platformları üzerinde geliştirilen yeni modüler yapılar, geliştirici ekosisteminin odağını oluşturuyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "summary": "Apache Ossie, analitik, yapay zekâ ve iş zekâsı (BI) platformları arasında anlamsal üst veri (semantic metadata) değişimini standartlaştırmayı amaçlayan bir endüstri girişimidir. Bu proje, farklı platformlar arasında satıcıdan bağımsız, tek bir doğruluk kaynağı (single source of truth) oluşturarak veri entegrasyonunu kolaylaştırır.",
+          "meta": "Python · ★ 997 · +60 bugün"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark, yapay zekâ tarafından üretilen içerikleri (AI-generated content) tespit etmek ve ayırt etmek için tasarlanmış bir tasarım aracıdır. Claude Code, Cursor ve Codex gibi geliştirme ortamlarında yapay zekâ çıktılarının özgünlüğünü korumaya yönelik görsel standartlar sunar.",
+          "meta": "CSS · ★ 11.237 · +3.372 bugün"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut, video düzenleme süreçleri için açık kaynaklı bir alternatif sunan web tabanlı bir uygulama geliştiriyor. TypeScript ile hazırlanan bu proje, kullanıcıların video kurgu araçlarına erişimini standartlaştırmayı hedefliyor.",
+          "meta": "TypeScript · ★ 74.256 · +3.537 bugün"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session replay) gibi araçları bir araya getiren kapsamlı bir platformdur. Yazılım geliştiricilerin hata takibi, deney yönetimi ve kullanıcı verilerini analiz ederek otonom ürünler oluşturmasını sağlar.",
+          "meta": "Python · ★ 35.939 · +77 bugün"
+        },
+        {
+          "title": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "summary": "Open Interpreter, Kimi K3 gibi açık kaynaklı modelleri kullanarak bilgisayar üzerinde kod çalıştıran bir kodlama ajanıdır (coding agent). Rust diliyle geliştirilen bu araç, yerel modellerin doğrudan sistem komutları ve yazılım geliştirme süreçleri üzerinde işlem yapmasını sağlar.",
+          "meta": "Rust · ★ 66.083 · +661 bugün"
+        },
+        {
+          "title": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "summary": "Bonsai demo projesi, makine öğrenimi (machine learning) modellerinin dağıtım süreçlerini basitleştirmek için tasarlanmış bir araç seti sunuyor. Yazılım, karmaşık model mimarilerini yönetilebilir iş akışlarına dönüştürerek geliştiricilerin uygulama süreçlerini optimize etmesine yardımcı oluyor.",
+          "meta": "Shell · ★ 1.587 · +196 bugün"
+        },
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "Hasan Eylidrim tarafından paylaşılan fitness veri seti, 1.324 egzersiz için animasyonlu görseller, kas grubu bilgileri ve altı dilde adım adım talimatlar içeriyor. Bu açık kaynaklı veri tabanı, egzersiz takibi uygulamaları için yapılandırılmış bir bilgi katmanı (data layer) sunuyor.",
+          "meta": "HTML · ★ 15.177 · +710 bugün"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "Awesome-llm-apps deposu, geliştiricilerin doğrudan çalıştırabileceği, özelleştirebileceği ve yayına alabileceği 100'den fazla yapay zekâ ajanı (AI agent) ve getirme tabanlı üretim (RAG) uygulaması içeriyor. Python tabanlı bu kaynak, hazır uygulamalar üzerinden iş akışlarını standartlaştırmayı ve uygulama geliştirme süreçlerini hızlandırmayı amaçlıyor.",
+          "meta": "Python · ★ 123.132 · +923 bugün"
+        },
+        {
+          "title": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "summary": "LobeHub, yapay zekâ ajanlarını işe alma, zamanlama ve raporlama süreçleriyle yöneterek 7 gün 24 saat çalışan bir yapay zekâ ekibi operasyonu (AI team operations) oluşturmayı sağlıyor. Platform, farklı ajanları tek bir merkezden organize ederek iş akışlarını otomatize eden bir yönetici arayüzü sunuyor.",
+          "meta": "TypeScript · ★ 80.291 · +71 bugün"
+        },
+        {
+          "title": "YimMenu/YimMenuV2",
+          "url": "https://github.com/YimMenu/YimMenuV2",
+          "summary": "YimMenuV2, Grand Theft Auto 5 oyunu için geliştirilen deneysel bir menü modifikasyonudur. C++ programlama diliyle hazırlanan bu proje, oyunculara oyun içi çeşitli özellikler ve özelleştirme seçenekleri sunar.",
+          "meta": "C++ · ★ 1.521 · +128 bugün"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor, öğrenci verilerini analiz ederek sürekli öğrenme (lifelong learning) odaklı kişiselleştirilmiş özel ders deneyimi sunan bir yapay zekâ sistemidir. Platform, eğitim süreçlerini optimize etmek için öğrenci performansını sürekli takip eden bir rehberlik (tutoring) modeli kullanır.",
+          "meta": "Python · ★ 27.023 · +656 bugün"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan bu depo, yazılım mühendislerinin yapay zekâ destekli kodlama süreçlerinde kullandığı özel komut seti dosyalarını (skills) içeriyor. Geliştiricilerin üretken yapay zekâ (generative AI) araçlarını daha verimli kullanabilmeleri için yapılandırılmış iş akışları ve talimatlar sunuyor.",
+          "meta": "Shell · ★ 174.638 · +2.060 bugün"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub Copilot SDK, geliştiricilerin GitHub Copilot ajanlarını kendi uygulama ve hizmetlerine entegre etmelerini sağlayan çok platformlu bir yazılım geliştirme kiti (SDK) sunuyor. Java tabanlı bu araç, yapay zekâ destekli kodlama asistanlarının farklı platformlarda standart bir şekilde kullanılmasını sağlıyor.",
+          "meta": "Java · ★ 9.698 · +13 bugün"
+        },
+        {
+          "title": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "summary": "Tasarım mühendisleri için geliştirilen ui-skills, kullanıcı arayüzü (UI) geliştirme süreçlerinde ihtiyaç duyulan teknik becerileri ve yetkinlikleri bir araya getiriyor. TypeScript tabanlı bu kaynak, arayüz tasarımından kodlamaya geçiş yapan profesyoneller için bir yetkinlik haritası sunuyor.",
+          "meta": "TypeScript · ★ 4.436 · +178 bugün"
+        },
+        {
+          "title": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "summary": "Graphify, yazılım projelerindeki kod dosyalarını, veritabanı şemalarını ve dokümanları sorgulanabilir bir bilgi çizgesi (knowledge graph) yapısına dönüştürüyor. Bu araç, yapay zekâ kod asistanlarının (AI coding assistants) karmaşık proje yapılarını bütüncül bir veri modeli üzerinden analiz etmesine olanak tanıyor.",
+          "meta": "Python · ★ 89.390 · +1.107 bugün"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X, popüler yazılım teknolojilerini sıfırdan kodlayarak programlama becerilerini geliştirmeyi amaçlayan bir rehberler koleksiyonudur. Geliştiriciler, veritabanı veya işletim sistemi gibi karmaşık sistemleri adım adım inşa ederek mimari yapıları uygulamalı öğrenme fırsatı bulur.",
+          "meta": "Markdown · ★ 526.539 · +435 bugün"
+        },
+        {
+          "title": "ossu/computer-science",
+          "url": "https://github.com/ossu/computer-science",
+          "summary": "Bilgisayar bilimleri (computer science) alanında ücretsiz ve kendi kendine öğrenme odaklı bir müfredat sunan bu kaynak, akademik standartlara uygun bir eğitim yolu oluşturuyor. Yazılım geliştirme ve temel bilişim disiplinlerini kapsayan yapılandırılmış bir öğrenme süreci sağlıyor.",
+          "meta": "HTML · ★ 206.669 · +107 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kimi K3: Open Frontier Intelligence",
+          "url": "https://www.kimi.com/blog/kimi-k3",
+          "summary": "Moonshot AI tarafından duyurulan Kimi k3, uzun bağlam penceresi (long context window) ve yüksek işlem hızıyla öne çıkan yeni bir açık sınır zekâsı (open frontier intelligence) modelidir. Model, özellikle karmaşık mantık yürütme ve büyük veri setlerini analiz etme süreçlerinde maliyet verimliliği sağlamayı hedeflemektedir.",
+          "meta": "1.435 oy · 864 yorum"
+        },
+        {
+          "title": "Microsoft Comic Chat is now open source",
+          "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+          "summary": "Microsoft, 1996 yılında kullanıma sunduğu karakter tabanlı sohbet uygulaması Comic Chat'in kaynak kodlarını açık kaynak (open source) olarak paylaştı. Yazılım, kullanıcıların metin tabanlı konuşmalarını otomatik olarak çizgi roman panellerine dönüştüren bir arayüz (interface) sunuyor.",
+          "meta": "617 oy · 138 yorum"
+        },
+        {
+          "title": "Decoy Font",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "summary": "Decoy Font, metinleri görsel olarak gizlemek için kullanılan bir yazı tipi (font) deneyidir. Bu araç, metinleri okunabilir karakterler yerine rastgele görünen şekillerle maskeleyerek içerik gizleme (content masking) yöntemi sunar.",
+          "meta": "486 oy · 115 yorum"
+        },
+        {
+          "title": "How Our Rust-to-Zig Rewrite Is Going",
+          "url": "https://rtfeldman.com/rust-to-zig",
+          "summary": "Yazılım geliştiriciler, performans ve bellek yönetimi süreçlerini optimize etmek amacıyla Rust dilinden Zig diline geçiş projelerini paylaşıyor. Bu dönüşüm süreci, derleme hızı ve düşük seviyeli sistem programlama (low-level systems programming) kontrolü üzerindeki etkilerle değerlendiriliyor.",
+          "meta": "471 oy · 247 yorum"
+        },
+        {
+          "title": "NotebookLM is now Gemini Notebook",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+          "summary": "Google, kişisel yapay zekâ destekli not defteri NotebookLM'i, Gemini Notebook adıyla yeniden markalandırarak Gemini ekosistemine dahil ediyor. Bu dönüşüm, platformun gelişmiş üretken yapay zekâ (generative AI) yeteneklerini Google'ın temel yapay zekâ modeliyle daha bütünleşik bir şekilde sunmasını sağlıyor.",
+          "meta": "282 oy · 143 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Thinking Machines tarafından geliştirilen Inkling, görsel ve metin verilerini girdi olarak alıp metin çıktısı üreten bir çok modlu (multimodal) modeldir. Model, karmaşık görsel içerikleri analiz ederek doğal dilde anlamlı yanıtlar oluşturma yeteneği sunar.",
+          "meta": "♥ 843 · 4 indirme"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B-gguf, metin üretimi (text generation) için geliştirilmiş, yüksek performanslı bir dil modelidir. Model, verimliliği artırmak amacıyla üçlü nicemleme (ternary quantization) tekniğini kullanarak donanım kaynaklarını optimize eder.",
+          "meta": "♥ 623 · 74.007 indirme"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Prism-ml tarafından yayınlanan Bonsai-27B, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Model, düşük kaynaklı donanımlarda çalışabilmesi için nicemleme (quantization) formatı olan GGUF yapısıyla sunulmaktadır.",
+          "meta": "♥ 351 · 559.267 indirme"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B, görsel ve metin tabanlı girdileri işleyerek metin çıktısı üreten bir çok modlu (multimodal) yapay zekâ modelidir. Model, 1 milyon bağlam penceresi (context window) kapasitesiyle geniş veri setlerini analiz etme imkânı sunar.",
+          "meta": "♥ 2.242 · 2.042.670 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. HuggingFace platformunda geniş bir kullanıcı kitlesine ulaşan bu model, doğal dil işleme süreçlerinde metin oluşturma yeteneklerini geliştirmeyi hedefler.",
+          "meta": "♥ 4.039 · 513.061 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "BI",
+      "explanation": "Ham verileri analiz ederek şirketlerin daha doğru kararlar almasını sağlayan iş zekâsı araçları."
+    },
+    {
+      "term": "semantic metadata",
+      "explanation": "Bir verinin ne anlama geldiğini ve diğer verilerle nasıl bir ilişkisi olduğunu açıklayan tanımlayıcı bilgiler."
+    },
+    {
+      "term": "single source of truth",
+      "explanation": "Bir kurumdaki tüm bilgilerin tek bir güvenilir ve güncel kaynaktan yönetilmesi prensibi."
+    },
+    {
+      "term": "AI-generated content",
+      "explanation": "Yapay zekâ tarafından oluşturulan metin, görsel veya ses gibi dijital içerikler."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "Yapay zekâ sistemlerinin nasıl çalıştığını izleyerek hataları ve beklenmedik sonuçları takip etme süreci."
+    },
+    {
+      "term": "session replay",
+      "explanation": "Bir kullanıcının web sitesinde yaptığı hareketlerin video gibi kaydedilip daha sonra tekrar izlenebilmesi."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Yazılımcıların yerine kod yazabilen, hataları düzelten ve projeleri geliştiren otonom yazılım araçları."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Bilgisayarların verileri kullanarak kendi kendine öğrenmesi ve zamanla daha iyi sonuçlar üretmesi."
+    },
+    {
+      "term": "data layer",
+      "explanation": "Uygulamalar ile veritabanı arasında yer alan, verilerin işlenmesini ve düzenlenmesini sağlayan yazılım katmanı."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Kendi başına karar verip belirli görevleri yerine getirebilen otonom yapay zekâ programı."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın güncel ve özel verilere erişerek daha doğru cevaplar vermesini sağlayan bilgi getirme yöntemi."
+    },
+    {
+      "term": "AI team operations",
+      "explanation": "Yapay zekâ projelerini geliştiren ekiplerin iş akışlarını ve süreçlerini yönetme biçimi."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "Yapay zekâ modellerinin yeni bilgiler öğrendikçe eski bilgilerini unutmadan sürekli gelişmesi."
+    },
+    {
+      "term": "tutoring",
+      "explanation": "Yapay zekânın bir öğrenciye özel ders vererek konuları anlamasına yardımcı olması."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yapay zekâ modelinin belirli bir alanda uzmanlaşarak gerçekleştirebildiği yetenekler."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Öğrendiği verilerden yola çıkarak daha önce var olmayan yeni içerikler üretebilen yapay zekâ teknolojisi."
+    }
+  ]
+}
