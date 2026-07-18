@@ -2644,5 +2644,47 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay zekânın bir öğrenciye özel bir öğretmen gibi konuları anlatması ve rehberlik etmesidir."
+  },
+  {
+    "slug": "computer-use",
+    "en": "Computer Use",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekanın tıpkı bir insan gibi ekranı görüp fare ve klavye kullanarak bilgisayarı yönetebilme yeteneğidir."
+  },
+  {
+    "slug": "protocol-buffers",
+    "en": "Protocol Buffers",
+    "full": "Protobuf",
+    "cat": "dev",
+    "kisa": "Farklı yazılımların birbirleriyle konuşurken veriyi çok hızlı ve küçük boyutlarda paketleyip taşımasını sağlayan bir yöntemdir."
+  },
+  {
+    "slug": "code-intelligence-graph",
+    "en": "Code Intelligence Graph",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılım projesindeki tüm dosyaların, fonksiyonların ve değişkenlerin birbirleriyle olan ilişkilerini gösteren detaylı bir haritadır."
+  },
+  {
+    "slug": "context-reduction",
+    "en": "Context Reduction",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekaya verilen devasa bilgiyi, modelin daha hızlı ve doğru çalışması için gereksiz detaylardan arındırıp özetleme işlemidir."
+  },
+  {
+    "slug": "e-signature",
+    "en": "E-signature",
+    "full": "Electronic Signature",
+    "cat": "dev",
+    "kisa": "Dijital belgelerin yasal olarak imzalanmasını ve kimlik doğrulanmasını sağlayan elektronik yöntemdir."
+  },
+  {
+    "slug": "tutoring-models",
+    "en": "Tutoring Models",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Öğrencilere konuları adım adım anlatan, soruları yanıtlayan ve kişiselleştirilmiş eğitim desteği sunan yapay zeka sistemleridir."
   }
 ]

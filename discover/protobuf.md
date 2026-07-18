@@ -1,0 +1,31 @@
+# Veri değişiminde hızlı ve yapılandırılmış format
+
+Google tarafından geliştirilen protokol tamponları (protocol buffers), yapılandırılmış verileri seri hale getirmek için kullanılan dilden bağımsız bir veri değişim formatıdır. Bu mekanizma, sistemler arası iletişimde verimli ve hızlı bir ikili (binary) veri aktarımı sağlar.
+
+- ★ 71.559
+- C++
+- GitHub Trending · 2026-07-18
+
+## Ne kazandırır?
+- Sistemler arası verimli ikili veri aktarımı
+- Dilden bağımsız veri serileştirme
+- Esnek ve genişletilebilir veri yapısı
+
+## Nasıl başlanır?
+
+Protobuf kullanmaya başlamak için resmî dokümantasyon sitesini ziyaret edebilir veya GitHub sürümleri sayfasından işletim sisteminize uygun önceden derlenmiş ikili dosyaları indirebilirsiniz. Kullandığınız programlama diline özel çalışma zamanı kütüphanelerini yüklemek için ilgili kaynak dizinlerindeki talimatları takip etmeniz gerekmektedir.
+- [Resmî kaynak →](http://protobuf.dev)
+
+- **Kimin için:** Farklı yazılım sistemleri arasında hızlı ve verimli veri iletişimi kurmak isteyen yazılım geliştiriciler için uygundur. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/protocolbuffers/protobuf)
+
+## İlgili sözlük terimleri
+Protocol Buffers Binary 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/protobuf/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

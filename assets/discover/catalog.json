@@ -5136,5 +5136,71 @@
     "headline": "Ücretsiz bilgisayar bilimleri eğitim yolu",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "cwc-workshops",
+    "title": "Cwc Workshops",
+    "tagline": "Anthropic tarafından paylaşılan bu atölye çalışmaları, geliştiricilere bilgisayar kullanımı (computer use) yeteneğine sahip…",
+    "meta": "★ 1.632 · TypeScript",
+    "image": "/assets/discover/og/cwc-workshops.webp",
+    "source": "GitHub",
+    "date": "2026-07-18",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1632,
+    "lite": false,
+    "headline": "yapay zekâ ajanları için uygulamalı atölye",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "protobuf",
+    "title": "Protobuf",
+    "tagline": "Google tarafından geliştirilen protokol tamponları (protocol buffers), yapılandırılmış verileri seri hale getirmek için…",
+    "meta": "★ 71.559 · C++",
+    "image": "/assets/discover/og/protobuf.webp",
+    "source": "GitHub",
+    "date": "2026-07-18",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 71559,
+    "lite": false,
+    "headline": "Veri değişiminde hızlı ve yapılandırılmış format",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "code-review-graph",
+    "title": "Code Review Graph",
+    "tagline": "Code-review-graph, kod tabanını analiz ederek yapay zekâ araçları için yerel odaklı bir kod zekası haritası (code intelligence…",
+    "meta": "★ 19.852 · Python",
+    "image": "/assets/discover/og/code-review-graph.webp",
+    "source": "GitHub",
+    "date": "2026-07-18",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 19852,
+    "lite": false,
+    "headline": "yapay zekâ kod incelemesinde token tasarrufu"
+  },
+  {
+    "slug": "docuseal",
+    "title": "Docuseal",
+    "tagline": "DocuSeal, dijital belge oluşturma, doldurma ve imzalama süreçleri için açık kaynaklı bir alternatif sunuyor.",
+    "meta": "★ 17.916 · Ruby",
+    "image": "/assets/discover/og/docuseal.webp",
+    "source": "GitHub",
+    "date": "2026-07-18",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 17916,
+    "lite": false,
+    "headline": "Dijital belgeleri kolayca imzalayın"
   }
 ]
