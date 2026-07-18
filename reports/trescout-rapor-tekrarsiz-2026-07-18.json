@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-18",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "anthropics/cwc-workshops",
+          "url": "https://github.com/anthropics/cwc-workshops",
+          "summary": "Anthropic tarafından paylaşılan bu atölye çalışmaları, geliştiricilere bilgisayar kullanımı (computer use) yeteneğine sahip yapay zekâ ajanları oluşturma süreçlerini uygulamalı olarak gösteriyor. TypeScript tabanlı örnekler, modellerin ekran arayüzleriyle etkileşime girerek karmaşık görevleri yönetmesine olanak tanıyan teknik yapıları içeriyor.",
+          "meta": "TypeScript · ★ 1.632 · +45 bugün"
+        },
+        {
+          "title": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "summary": "Google tarafından geliştirilen protokol tamponları (protocol buffers), yapılandırılmış verileri seri hale getirmek için kullanılan dilden bağımsız bir veri değişim formatıdır. Bu mekanizma, sistemler arası iletişimde verimli ve hızlı bir ikili (binary) veri aktarımı sağlar.",
+          "meta": "C++ · ★ 71.559 · +11 bugün"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph, kod tabanını analiz ederek yapay zekâ araçları için yerel odaklı bir kod zekası haritası (code intelligence graph) oluşturuyor. Bu yapı, büyük projelerde bağlam azaltma (context reduction) yöntemlerini kullanarak yapay zekâ destekli kod inceleme süreçlerini daha verimli hale getiriyor.",
+          "meta": "Python · ★ 19.852 · +74 bugün"
+        },
+        {
+          "title": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "summary": "DocuSeal, dijital belge oluşturma, doldurma ve imzalama süreçleri için açık kaynaklı bir alternatif sunuyor. Ruby diliyle geliştirilen bu platform, elektronik imza (e-signature) süreçlerini kendi altyapısında yönetmek isteyen kullanıcılar için çözüm sağlıyor.",
+          "meta": "Ruby · ★ 17.916 · +91 bugün"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "TurboQuant altyapısıyla geliştirilen Turbovec, Rust diliyle yazılmış yüksek performanslı bir vektör dizini (vector index) sunuyor. Python bağlamaları (bindings) sayesinde veri işleme süreçlerinde hızlı arama ve indeksleme imkânı sağlıyor.",
+          "meta": "Python · ★ 13.393 · +280 bugün",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+          "url": "https://news.ycombinator.com/item?id=48945241",
+          "summary": "Amazon Web Services (AWS) kullanıcıları, faturalandırma panellerinde gerçek dışı ve milyar dolarlık tutarlara ulaşan hatalı tahmini fatura verileri (estimated billing data) ile karşılaşıyor. Bulut hizmet sağlayıcısı, sistemlerinde yaşanan bu veri hatasına dair teknik bir aksaklık bildirimi yayınlayarak sorunun çözümüne yönelik çalışmalarını sürdürüyor.",
+          "meta": "1.120 oy · 663 yorum"
+        },
+        {
+          "title": "Thanks HN for 15 years of support and helping me find my life's work",
+          "url": "https://news.ycombinator.com/item?id=48949551",
+          "summary": "Yazılım geliştiriciler için oluşturulan eğitim topluluğu Recurse Center, on beşinci yılını kutluyor. Girişimciler, iş odaklı bir platform olarak başlayan projelerini zamanla yazılım odaklı bir öğrenme merkezine (programming retreat) dönüştürdü.",
+          "meta": "482 oy · 49 yorum"
+        },
+        {
+          "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+          "summary": "Kaiser Permanente bünyesindeki hemşireler, yapay zekâ destekli araçların ve iş yeri gözetim sistemlerinin iş yükünü artırdığını ve hasta bakım kalitesini düşürdüğünü belirtiyor. Çalışanlar, algoritmik yönetim süreçlerinin klinik karar verme yetilerini kısıtladığını ve mesleki stresi yükselttiğini ifade ediyor.",
+          "meta": "432 oy · 283 yorum"
+        },
+        {
+          "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+          "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+          "summary": "Gök bilimciler, yaşanabilir bölgede yer alan Dünya benzeri bir öte gezegenin (exoplanet) çevresinde ilk kez atmosfer izlerine rastladı. 55 Cancri e gezegenindeki bu bulgu, kayalık dünyaların atmosferik yapılarını incelemek için yeni bir yöntem sunuyor.",
+          "meta": "415 oy · 251 yorum"
+        },
+        {
+          "title": "The state of open source AI",
+          "url": "https://stateofopensource.ai/",
+          "summary": "Açık kaynak yapay zekâ (open source AI) ekosistemi, model ağırlıklarının erişilebilirliği ve geliştirici araçlarının çeşitlenmesiyle birlikte genişlemeye devam ediyor. Rapor, şeffaf modellerin teknoloji sektöründeki benimsenme oranlarını ve topluluk odaklı inovasyonun sektör standartları üzerindeki etkisini analiz ediyor.",
+          "meta": "406 oy · 296 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "computer use",
+      "explanation": "Yapay zekânın tıpkı bir insan gibi fareyi hareket ettirip klavyeyi kullanarak bilgisayar ekranındaki işlemleri yönetebilmesi."
+    },
+    {
+      "term": "protocol buffers",
+      "explanation": "Farklı yazılımların birbirine veri gönderirken kullandığı, bilgiyi çok hızlı ve küçük boyutlarda paketleyen bir veri taşıma yöntemi."
+    },
+    {
+      "term": "binary",
+      "explanation": "Bilgisayarın işlemcisinin doğrudan anladığı, sadece sıfır ve birlerden oluşan en temel makine dili."
+    },
+    {
+      "term": "code intelligence graph",
+      "explanation": "Bir yazılım projesindeki tüm dosyaların ve komutların birbirleriyle olan ilişkilerini gösteren detaylı bir harita."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "Yapay zekâya verilen devasa bilgiyi, modelin daha hızlı ve doğru çalışması için gereksiz kısımlardan arındırıp özetleme işlemi."
+    },
+    {
+      "term": "e-signature",
+      "explanation": "Dijital belgelerin yasal olarak imzalanmasını sağlayan, kimlik doğrulama özelliği taşıyan elektronik onay yöntemi."
+    },
+    {
+      "term": "vector index",
+      "explanation": "Yapay zekânın karmaşık verileri sayısal değerlere dönüştürerek aradığınız bilgiyi çok hızlı bir şekilde bulmasını sağlayan özel bir arama dizini."
+    },
+    {
+      "term": "bindings",
+      "explanation": "Bir programlama dilinde yazılmış kütüphanelerin, başka bir dilde de kullanılabilmesi için kurulan köprüler."
+    }
+  ]
+}

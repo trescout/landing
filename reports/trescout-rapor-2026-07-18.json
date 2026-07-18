@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-18",
+  "editorial": "Yazılım geliştirme süreçlerinde kendi araçlarını inşa etme (build your own x) eğilimi ile yapay zekâ destekli kodlama asistanları (coding assistants) bugün ön planda. GitHub üzerindeki güncel veriler, temel bilgisayar bilimi matematik kaynaklarının ve uygulama geliştirme kitlerinin (SDK) yazılımcıların çalışma masasında ağırlık kazandığını gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build-your-own-x projesi, popüler yazılım teknolojilerini sıfırdan kodlayarak programlama becerilerini geliştirmeyi amaçlayan bir öğrenme rehberidir. Geliştiriciler, veritabanı veya işletim sistemi gibi karmaşık sistemleri adım adım inşa ederek teknik derinlik kazanmaktadır.",
+          "meta": "Markdown · ★ 527.611 · +1.068 bugün"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog, ürün geliştirme süreçlerini otomatize etmek için yapay zekâ gözlemlenebilirliği (AI observability), oturum kaydı ve hata takibi gibi araçları tek bir platformda birleştiriyor. Geliştiriciler, bu araçlar sayesinde kullanıcı verilerini analiz ederek ürün iyileştirmelerini doğrudan Slack veya Model Bağlantı Protokolü (Model Context Protocol) üzerinden yönetebiliyor.",
+          "meta": "Python · ★ 36.267 · +438 bugün"
+        },
+        {
+          "title": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "summary": "Maths-cs-ai-compendium, yapay zekâ ve makine öğrenmesi (machine learning) alanında uzmanlaşmak isteyen mühendisler için matematik, bilgisayar bilimleri ve yapay zekâ konularını kapsayan kapsamlı bir kaynak derlemesi sunuyor. Bu depo, teorik temelleri güçlendirmek ve araştırma mühendisliği süreçlerinde yetkinlik kazanmak amacıyla yapılandırılmış bir müfredat işlevi görüyor.",
+          "meta": "TypeScript · ★ 6.731 · +200 bugün"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark, Claude Code, Cursor ve Codex gibi yapay zekâ destekli kodlama araçlarının ürettiği standart içeriklerden (AI-slop) kaçınmak için geliştirilmiş bir tasarım stilidir. CSS tabanlı bu yaklaşım, yapay zekâ tarafından oluşturulan arayüzlerin ayırt edilebilirliğini azaltarak daha özgün ve insan odaklı tasarımlar üretmeyi hedefler.",
+          "meta": "CSS · ★ 12.247 · +1.485 bugün"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub, geliştiricilerin GitHub Copilot ajanlarını kendi uygulama ve servislerine entegre etmelerini sağlayan çoklu platform yazılım geliştirme kiti (SDK) yayınladı. Bu araç, geliştiricilerin yapay zekâ destekli asistanları kendi çalışma ortamlarına doğrudan dahil etmelerine olanak tanıyor.",
+          "meta": "Java · ★ 9.826 · +233 bugün"
+        },
+        {
+          "title": "anthropics/cwc-workshops",
+          "url": "https://github.com/anthropics/cwc-workshops",
+          "summary": "Anthropic tarafından paylaşılan bu atölye çalışmaları, geliştiricilere bilgisayar kullanımı (computer use) yeteneğine sahip yapay zekâ ajanları oluşturma süreçlerini uygulamalı olarak gösteriyor. TypeScript tabanlı örnekler, modellerin ekran arayüzleriyle etkileşime girerek karmaşık görevleri yönetmesine olanak tanıyan teknik yapıları içeriyor.",
+          "meta": "TypeScript · ★ 1.632 · +45 bugün"
+        },
+        {
+          "title": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "summary": "Bonsai-demo, makine öğrenimi modellerinin optimizasyonu için geliştirilen Bonsai platformuna yönelik uygulama örnekleri sunuyor. Geliştiricilerin sistemin işleyişini test etmelerini sağlayan bu araç, model eğitimi ve dağıtımı süreçlerini basitleştirmeyi hedefliyor.",
+          "meta": "Shell · ★ 1.746 · +278 bugün"
+        },
+        {
+          "title": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "summary": "Google tarafından geliştirilen protokol tamponları (protocol buffers), yapılandırılmış verileri seri hale getirmek için kullanılan dilden bağımsız bir veri değişim formatıdır. Bu mekanizma, sistemler arası iletişimde verimli ve hızlı bir ikili (binary) veri aktarımı sağlar.",
+          "meta": "C++ · ★ 71.559 · +11 bugün"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph, kod tabanını analiz ederek yapay zekâ araçları için yerel odaklı bir kod zekası haritası (code intelligence graph) oluşturuyor. Bu yapı, büyük projelerde bağlam azaltma (context reduction) yöntemlerini kullanarak yapay zekâ destekli kod inceleme süreçlerini daha verimli hale getiriyor.",
+          "meta": "Python · ★ 19.852 · +74 bugün"
+        },
+        {
+          "title": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "summary": "DocuSeal, dijital belge oluşturma, doldurma ve imzalama süreçleri için açık kaynaklı bir alternatif sunuyor. Ruby diliyle geliştirilen bu platform, elektronik imza (e-signature) süreçlerini kendi altyapısında yönetmek isteyen kullanıcılar için çözüm sağlıyor.",
+          "meta": "Ruby · ★ 17.916 · +91 bugün"
+        },
+        {
+          "title": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "summary": "Open Interpreter, yerel modelleri kullanarak bilgisayar üzerinde kod çalıştıran ve yazılım geliştirme süreçlerini otomatikleştiren bir kodlama ajanıdır (coding agent). Rust diliyle geliştirilen bu araç, açık kaynaklı modeller aracılığıyla doğrudan işletim sistemi seviyesinde komut yürütme yeteneği sunar.",
+          "meta": "Rust · ★ 66.480 · +431 bugün"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "TurboQuant altyapısıyla geliştirilen Turbovec, Rust diliyle yazılmış yüksek performanslı bir vektör dizini (vector index) sunuyor. Python bağlamaları (bindings) sayesinde veri işleme süreçlerinde hızlı arama ve indeksleme imkânı sağlıyor.",
+          "meta": "Python · ★ 13.393 · +280 bugün"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor, kullanıcıların öğrenme süreçlerini sürekli kişiselleştiren yaşam boyu öğrenme (lifelong learning) odaklı bir özel ders platformudur. Sistem, bireysel ihtiyaçlara uyum sağlayan yapay zekâ destekli eğitim modelleri (tutoring models) ile öğrenci gelişimini optimize etmeyi amaçlar.",
+          "meta": "Python · ★ 27.457 · +531 bugün"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut, video düzenleme süreçleri için açık kaynaklı bir CapCut alternatifi sunuyor. TypeScript diliyle geliştirilen bu platform, kullanıcıların video kurgu araçlarına erişimini özgürleştirmeyi hedefliyor.",
+          "meta": "TypeScript · ★ 75.036 · +1.074 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+          "url": "https://news.ycombinator.com/item?id=48945241",
+          "summary": "Amazon Web Services (AWS) kullanıcıları, faturalandırma panellerinde gerçek dışı ve milyar dolarlık tutarlara ulaşan hatalı tahmini fatura verileri (estimated billing data) ile karşılaşıyor. Bulut hizmet sağlayıcısı, sistemlerinde yaşanan bu veri hatasına dair teknik bir aksaklık bildirimi yayınlayarak sorunun çözümüne yönelik çalışmalarını sürdürüyor.",
+          "meta": "1.120 oy · 663 yorum"
+        },
+        {
+          "title": "Thanks HN for 15 years of support and helping me find my life's work",
+          "url": "https://news.ycombinator.com/item?id=48949551",
+          "summary": "Yazılım geliştiriciler için oluşturulan eğitim topluluğu Recurse Center, on beşinci yılını kutluyor. Girişimciler, iş odaklı bir platform olarak başlayan projelerini zamanla yazılım odaklı bir öğrenme merkezine (programming retreat) dönüştürdü.",
+          "meta": "482 oy · 49 yorum"
+        },
+        {
+          "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+          "summary": "Kaiser Permanente bünyesindeki hemşireler, yapay zekâ destekli araçların ve iş yeri gözetim sistemlerinin iş yükünü artırdığını ve hasta bakım kalitesini düşürdüğünü belirtiyor. Çalışanlar, algoritmik yönetim süreçlerinin klinik karar verme yetilerini kısıtladığını ve mesleki stresi yükselttiğini ifade ediyor.",
+          "meta": "432 oy · 283 yorum"
+        },
+        {
+          "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+          "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+          "summary": "Gök bilimciler, yaşanabilir bölgede yer alan Dünya benzeri bir öte gezegenin (exoplanet) çevresinde ilk kez atmosfer izlerine rastladı. 55 Cancri e gezegenindeki bu bulgu, kayalık dünyaların atmosferik yapılarını incelemek için yeni bir yöntem sunuyor.",
+          "meta": "415 oy · 251 yorum"
+        },
+        {
+          "title": "The state of open source AI",
+          "url": "https://stateofopensource.ai/",
+          "summary": "Açık kaynak yapay zekâ (open source AI) ekosistemi, model ağırlıklarının erişilebilirliği ve geliştirici araçlarının çeşitlenmesiyle birlikte genişlemeye devam ediyor. Rapor, şeffaf modellerin teknoloji sektöründeki benimsenme oranlarını ve topluluk odaklı inovasyonun sektör standartları üzerindeki etkisini analiz ediyor.",
+          "meta": "406 oy · 296 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Thinking Machines tarafından geliştirilen Inkling, görsel ve metinsel verileri işleyerek metin çıktısı üreten bir görüntü-metin-metin modeli (image-text-to-text model) olarak çalışıyor. Model, çok modlu (multimodal) veri setleri üzerinden kullanıcı etkileşimlerini metin tabanlı yanıtlarla destekliyor.",
+          "meta": "♥ 975 · 7.870 indirme"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B, üçlü ağırlıklandırma (ternary quantization) yöntemiyle optimize edilmiş bir metin üretim modeli (text generation model) olarak sunuluyor. Bu teknik, modelin bellek kullanımını düşürürken performans kaybını minimize etmeyi amaçlıyor.",
+          "meta": "♥ 687 · 200.774 indirme"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Prism-ML tarafından yayınlanan Bonsai-27B, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Model, yüksek performanslı çıkarım süreçlerini desteklemek amacıyla nicelenmiş (quantized) GGUF formatında sunulmaktadır.",
+          "meta": "♥ 403 · 1.045.182 indirme"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M modeli, görsel ve metinsel verileri işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapay zekâ modelidir. Model, geniş bağlam penceresi (context window) desteğiyle karmaşık görüntü ve metin analizleri için optimize edilmiştir.",
+          "meta": "♥ 2.281 · 2.096.147 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından yayınlanan GLM-5.2, metin üretimi (text-generation) görevleri için optimize edilmiş bir dil modelidir. HuggingFace üzerinde geniş bir kullanıcı kitlesine ulaşan bu model, doğal dil işleme süreçlerinde metin oluşturma yeteneklerini geliştirmeyi amaçlar.",
+          "meta": "♥ 4.078 · 534.698 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI observability",
+      "explanation": "Yapay zekâ sistemlerinin nasıl çalıştığını, nerede hata yaptığını ve neden bu sonuçları verdiğini izleyip anlamanızı sağlayan takip mekanizması."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarıyla güvenli ve standart bir şekilde konuşmasını sağlayan ortak bir bağlantı dili."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Bilgisayarların verileri inceleyerek kendi kendine kurallar çıkarması ve bu sayede deneyim kazandıkça daha iyi sonuçlar üretmesi."
+    },
+    {
+      "term": "AI-slop",
+      "explanation": "Yapay zekâ tarafından üretilen, düşük kaliteli, özensiz ve genellikle interneti kirleten değersiz içerikler."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Yazılımcıların belirli bir platform veya cihaz için uygulama geliştirmesini kolaylaştıran hazır araçlar ve kütüphaneler bütünü."
+    },
+    {
+      "term": "computer use",
+      "explanation": "Yapay zekânın tıpkı bir insan gibi fareyi hareket ettirip klavyeyi kullanarak bilgisayar ekranındaki işlemleri yönetebilmesi."
+    },
+    {
+      "term": "protocol buffers",
+      "explanation": "Farklı yazılımların birbirine veri gönderirken kullandığı, bilgiyi çok hızlı ve küçük boyutlarda paketleyen bir veri taşıma yöntemi."
+    },
+    {
+      "term": "binary",
+      "explanation": "Bilgisayarın işlemcisinin doğrudan anladığı, sadece sıfır ve birlerden oluşan en temel makine dili."
+    },
+    {
+      "term": "code intelligence graph",
+      "explanation": "Bir yazılım projesindeki tüm dosyaların ve komutların birbirleriyle olan ilişkilerini gösteren detaylı bir harita."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "Yapay zekâya verilen devasa bilgiyi, modelin daha hızlı ve doğru çalışması için gereksiz kısımlardan arındırıp özetleme işlemi."
+    },
+    {
+      "term": "e-signature",
+      "explanation": "Dijital belgelerin yasal olarak imzalanmasını sağlayan, kimlik doğrulama özelliği taşıyan elektronik onay yöntemi."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Sizin yerinize yazılım kodları yazan, hataları bulan ve projeleri baştan sona geliştirebilen otonom yapay zekâ yazılımı."
+    },
+    {
+      "term": "vector index",
+      "explanation": "Yapay zekânın karmaşık verileri sayısal değerlere dönüştürerek aradığınız bilgiyi çok hızlı bir şekilde bulmasını sağlayan özel bir arama dizini."
+    },
+    {
+      "term": "bindings",
+      "explanation": "Bir programlama dilinde yazılmış kütüphanelerin, başka bir dilde de kullanılabilmesi için kurulan köprüler."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "Yapay zekânın yeni bilgiler öğrendikçe eski bilgilerini unutmadan sürekli kendini geliştirmeye devam etmesi."
+    },
+    {
+      "term": "tutoring models",
+      "explanation": "Öğrencilere konuları adım adım anlatan, soruları yanıtlayan ve kişiselleştirilmiş eğitim desteği sunan yapay zekâ sistemleri."
+    }
+  ]
+}
