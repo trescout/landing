@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-19",
+  "editorial": "Bugün geliştirici araçları ve yapay zekâ mühendisliği (AI engineering) pratikleri üzerine yoğunlaşan bir hareketlilik gözlemleniyor. GitHub üzerinde açık kaynaklı veri analitiği (analytics) ve kod inceleme (code review) süreçlerini otomatize eden projeler popülerlik kazanıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "Lingbot-map, akış verilerinden sahne yeniden yapılandırma (scene reconstruction) işlemleri için geliştirilmiş ileri beslemeli bir temel modeldir (foundation model). Üç boyutlu ortamları gerçek zamanlı veri akışıyla modellemeye yönelik bir çözüm sunar.",
+          "meta": "Python · ★ 13.120 · +831 bugün"
+        },
+        {
+          "title": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "summary": "Apache Ossie, analitik, yapay zekâ ve iş zekâsı (BI) platformları arasında anlamsal üstveri (semantic metadata) değişimini standartlaştırmayı amaçlayan bir girişimdir. Bu proje, anlamsal veriler için satıcıdan bağımsız, tek bir doğruluk kaynağı (single source of truth) oluşturmayı hedefler.",
+          "meta": "Python · ★ 1.318 · +47 bugün"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog, ürün geliştirme süreçlerini optimize etmek için yapay zekâ gözlemlenebilirliği (AI observability), oturum kaydı ve hata takibi gibi araçları tek bir platformda birleştiriyor. Geliştiriciler, bu araçlar sayesinde kullanıcı verilerini analiz ederek otonom ürün iş akışlarını yönetebiliyor.",
+          "meta": "Python · ★ 36.675 · +338 bugün"
+        },
+        {
+          "title": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "summary": "Tasarım mühendisleri için geliştirilen ui-skills, kullanıcı arayüzü (UI) geliştirme süreçlerinde ihtiyaç duyulan teknik becerileri ve yetkinlikleri bir araya getiriyor. TypeScript tabanlı bu kaynak, arayüz odaklı yazılım geliştirme standartlarını ve metodolojilerini yapılandırılmış bir müfredatla sunuyor.",
+          "meta": "TypeScript · ★ 5.166 · +123 bugün"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Yapay zekâ mühendisliği (AI engineering) alanına giriş yapmak isteyenler için hazırlanan bu kaynak, Python kullanarak uçtan uca uygulama geliştirme süreçlerini öğretmeyi amaçlıyor. Teorik bilgilerin pratiğe döküldüğü bu çalışma, yapay zekâ tabanlı yazılımların tasarlanması ve yayına alınması (deployment) konularını kapsıyor.",
+          "meta": "Python · ★ 39.221 · +191 bugün"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph, kod tabanının yerel bir haritasını oluşturarak yapay zekâ destekli yazılım araçlarının yalnızca ilgili bölümleri işlemesini sağlayan bir kod zekâsı grafiği (code intelligence graph) sunuyor. Bu yöntem, büyük projelerdeki iş akışlarında ve kod inceleme süreçlerinde bağlam azaltma (context reduction) sağlayarak verimliliği artırıyor.",
+          "meta": "Python · ★ 20.303 · +355 bugün"
+        },
+        {
+          "title": "elder-plinius/G0DM0D3",
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "summary": "G0DM0D3, büyük dil modellerinin (large language models) güvenlik katmanlarını aşmayı hedefleyen özgürleştirilmiş bir yapay zekâ sohbet arayüzüdür. TypeScript ile geliştirilen bu açık kaynaklı proje, kullanıcıların kısıtlamalara takılmadan modellerle etkileşime girmesini sağlar.",
+          "meta": "TypeScript · ★ 9.570 · +69 bugün"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM, 70 milyar parametreli büyük dil modellerinin (large language models) yalnızca 4 gigabaytlık ekran kartı belleği (VRAM) ile çalıştırılmasına olanak tanıyor. Bu kütüphane, bellek optimizasyonu teknikleri kullanarak yüksek kapasiteli modellerin düşük donanımlı sistemlerde çıkarım (inference) yapmasını sağlıyor.",
+          "meta": "Jupyter Notebook · ★ 23.415 · +161 bugün"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo, yapay zekâ kodlama ajanları için yerel öncelikli (local-first) arama, veri çekme ve tarama yetenekleri sunan bir araçtır. Model bağlamı protokolü (MCP) üzerinden çalışan bu sistem, bulut bağımlılığı olmadan ve API anahtarı gerektirmeden ücretsiz araştırma imkânı sağlar.",
+          "meta": "TypeScript · ★ 1.365 · +203 bugün"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X, popüler yazılım teknolojilerini sıfırdan kodlayarak programlama becerilerini geliştirmeyi amaçlayan bir kaynak listesidir. Geliştiriciler, veritabanı veya işletim sistemi gibi karmaşık sistemlerin çalışma mantığını uygulamalı projelerle (hands-on projects) öğrenmektedir.",
+          "meta": "Markdown · ★ 528.427 · +1.126 bugün"
+        },
+        {
+          "title": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi CLI, komut satırı arayüzü (CLI) üzerinden çalışan bir yapay zekâ ajanıdır. Python tabanlı bu araç, yazılım geliştirme süreçlerinde komut satırı etkileşimlerini otomatikleştirmek için tasarlanmıştır.",
+          "meta": "Python · ★ 9.577 · +65 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LG monitors silently install software through Windows Update without consent",
+          "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+          "summary": "LG monitörler, kullanıcı onayı almadan Windows Güncellemesi (Windows Update) aracılığıyla arka planda yazılım kurulumu gerçekleştiriyor. Bu durum, donanım sürücülerinin yanı sıra ek uygulamaların sisteme dahil edilmesi konusunda güvenlik ve kullanıcı kontrolü tartışmalarını beraberinde getiriyor.",
+          "meta": "1.083 oy · 549 yorum"
+        },
+        {
+          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "summary": "Yapay zekâ modelleri, dışbükey optimizasyon (convex optimization) alanında otuz yıldır çözülemeyen bir matematiksel problemi basit bir komut (prompt) yardımıyla çözüme kavuşturdu. Bu gelişme, büyük dil modellerinin (large language models) karmaşık matematiksel kanıtlarda mantıksal çıkarım yapma kapasitesini ortaya koyuyor.",
+          "meta": "541 oy · 345 yorum"
+        },
+        {
+          "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+          "summary": "Belediye Başkanı Mamdani, ev sahiplerinin kiralık mülk ilanlarında yapay zekâ tarafından oluşturulan görselleri (AI-generated images) gizlice kullanmasını yasaklayan bir düzenleme getirdi. Bu uygulama, konut reklamlarında görsel şeffaflığı artırmayı ve dijital manipülasyonun önüne geçmeyi amaçlıyor.",
+          "meta": "396 oy · 176 yorum"
+        },
+        {
+          "title": "Speech Recognition and TTS in less than 500kb",
+          "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+          "summary": "Moonshine projesi, 500 kilobayttan daha az bir boyuta sahip konuşma tanıma (speech recognition) ve metinden sese dönüştürme (text-to-speech) modelleri sunuyor. Bu hafif yapılar, sınırlı donanım kaynaklarına sahip sistemlerde yerel dil işleme yeteneklerini mümkün kılıyor.",
+          "meta": "387 oy · 40 yorum"
+        },
+        {
+          "title": "If You Build It, They Will Come",
+          "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+          "summary": "Yazılım projelerinde kullanıcı kitlesi oluşturmanın, ürünün teknik kalitesinden ziyade pazarlama ve topluluk etkileşimiyle doğrudan ilişkili olduğu savunuluyor. Geliştiricilerin ürün odaklı yaklaşım yerine, kullanıcı edinme stratejilerine (user acquisition) odaklanması gerektiği vurgulanıyor.",
+          "meta": "351 oy · 126 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Thinking Machines tarafından geliştirilen Inkling, görsel ve metinsel verileri girdi olarak kabul ederek metin tabanlı çıktılar üreten bir çok modlu (multimodal) modeldir. Sistem, görüntü ve metin arasındaki etkileşimi analiz ederek içerik üretimi süreçlerini destekler.",
+          "meta": "♥ 1.078 · 12.456 indirme"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B-gguf, metin üretimi (text generation) için optimize edilmiş ve düşük bitli nicemleme (quantization) teknikleriyle küçültülmüş bir dil modelidir. Bu model, donanım kaynaklarını verimli kullanarak yüksek performanslı çıkarım (inference) süreçlerini destekler.",
+          "meta": "♥ 750 · 301.893 indirme"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Prism-ml tarafından geliştirilen Bonsai-27B, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Model, yüksek performanslı çıkarım sağlamak amacıyla nicelenmiş (quantized) GGUF formatında sunulmaktadır.",
+          "meta": "♥ 452 · 1.218.815 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından yayınlanan GLM-5.2, metin üretimi (text-generation) görevleri için optimize edilmiş bir dil modelidir. HuggingFace platformunda yüksek etkileşim alan bu model, geniş kapsamlı metin oluşturma süreçlerinde kullanılmaktadır.",
+          "meta": "♥ 4.134 · 541.662 indirme"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M, görsel ve metin verilerini işleyerek metin çıktısı üreten (image-text-to-text) bir yapay zekâ modelidir. GGUF formatında sunulan bu model, yüksek bağlam penceresi desteğiyle farklı veri türlerini analiz etme imkânı sağlar.",
+          "meta": "♥ 2.319 · 2.112.869 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "scene reconstruction",
+      "explanation": "Fotoğraf veya video görüntülerinden yola çıkarak fiziksel bir ortamın üç boyutlu dijital kopyasını oluşturma süreci."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Çok geniş veri kümeleriyle eğitilip farklı birçok görevde temel olarak kullanılabilen devasa yapay zekâ modelleri."
+    },
+    {
+      "term": "BI",
+      "explanation": "Şirketlerin ellerindeki ham verileri analiz ederek daha doğru ve hızlı iş kararları almalarını sağlayan yöntemler bütünü."
+    },
+    {
+      "term": "semantic metadata",
+      "explanation": "Bir verinin ne anlama geldiğini ve diğer verilerle nasıl bir ilişkisi olduğunu açıklayan tanımlayıcı bilgiler."
+    },
+    {
+      "term": "single source of truth",
+      "explanation": "Bir kurumdaki tüm verilerin tek bir güvenilir noktadan yönetilerek karışıklığın önlenmesi prensibi."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "Yapay zekâ sistemlerinin nasıl çalıştığını, neden o kararları verdiğini ve hata yapıp yapmadığını sürekli izleme süreci."
+    },
+    {
+      "term": "UI",
+      "explanation": "Kullanıcının bir yazılım veya cihazla etkileşime girdiği düğmeler, menüler ve ekran tasarımları."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "Yapay zekâ modellerini alıp bunları gerçek dünyadaki uygulamalarda verimli ve güvenli bir şekilde çalıştırma mühendisliği."
+    },
+    {
+      "term": "deployment",
+      "explanation": "Hazırlanan bir yazılımın veya modelin, kullanıcıların erişebileceği canlı ortama aktarılması."
+    },
+    {
+      "term": "code intelligence graph",
+      "explanation": "Yazılım kodları arasındaki karmaşık ilişkileri ve bağlantıları haritalandırarak geliştiricilere yol gösteren yapı."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "Yapay zekânın işlem yaparken gereksiz bilgilerden arındırılıp sadece en önemli veriye odaklanmasının sağlanması."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "VRAM",
+      "explanation": "Ekran kartının görüntü işleme ve yapay zekâ hesaplamaları sırasında geçici olarak kullandığı özel bellek alanı."
+    },
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin, kendisine verilen yeni verilerle tahmin yürütme veya sonuç üretme aşaması."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Verilerin internete ihtiyaç duymadan doğrudan cihazın kendi hafızasında saklanmasını ve işlenmesini öncelikleyen yazılım yaklaşımı."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarına ve araçlara standart bir yolla bağlanmasını sağlayan köprü protokolü."
+    }
+  ]
+}

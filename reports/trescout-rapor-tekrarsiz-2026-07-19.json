@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-19",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Yapay zekâ mühendisliği (AI engineering) alanına giriş yapmak isteyenler için hazırlanan bu kaynak, Python kullanarak uçtan uca uygulama geliştirme süreçlerini öğretmeyi amaçlıyor. Teorik bilgilerin pratiğe döküldüğü bu çalışma, yapay zekâ tabanlı yazılımların tasarlanması ve yayına alınması (deployment) konularını kapsıyor.",
+          "meta": "Python · ★ 39.221 · +191 bugün",
+          "returning": true
+        },
+        {
+          "title": "elder-plinius/G0DM0D3",
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "summary": "G0DM0D3, büyük dil modellerinin (large language models) güvenlik katmanlarını aşmayı hedefleyen özgürleştirilmiş bir yapay zekâ sohbet arayüzüdür. TypeScript ile geliştirilen bu açık kaynaklı proje, kullanıcıların kısıtlamalara takılmadan modellerle etkileşime girmesini sağlar.",
+          "meta": "TypeScript · ★ 9.570 · +69 bugün"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo, yapay zekâ kodlama ajanları için yerel öncelikli (local-first) arama, veri çekme ve tarama yetenekleri sunan bir araçtır. Model bağlamı protokolü (MCP) üzerinden çalışan bu sistem, bulut bağımlılığı olmadan ve API anahtarı gerektirmeden ücretsiz araştırma imkânı sağlar.",
+          "meta": "TypeScript · ★ 1.365 · +203 bugün"
+        },
+        {
+          "title": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi CLI, komut satırı arayüzü (CLI) üzerinden çalışan bir yapay zekâ ajanıdır. Python tabanlı bu araç, yazılım geliştirme süreçlerinde komut satırı etkileşimlerini otomatikleştirmek için tasarlanmıştır.",
+          "meta": "Python · ★ 9.577 · +65 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LG monitors silently install software through Windows Update without consent",
+          "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+          "summary": "LG monitörler, kullanıcı onayı almadan Windows Güncellemesi (Windows Update) aracılığıyla arka planda yazılım kurulumu gerçekleştiriyor. Bu durum, donanım sürücülerinin yanı sıra ek uygulamaların sisteme dahil edilmesi konusunda güvenlik ve kullanıcı kontrolü tartışmalarını beraberinde getiriyor.",
+          "meta": "1.083 oy · 549 yorum"
+        },
+        {
+          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "summary": "Yapay zekâ modelleri, dışbükey optimizasyon (convex optimization) alanında otuz yıldır çözülemeyen bir matematiksel problemi basit bir komut (prompt) yardımıyla çözüme kavuşturdu. Bu gelişme, büyük dil modellerinin (large language models) karmaşık matematiksel kanıtlarda mantıksal çıkarım yapma kapasitesini ortaya koyuyor.",
+          "meta": "541 oy · 345 yorum"
+        },
+        {
+          "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+          "summary": "Belediye Başkanı Mamdani, ev sahiplerinin kiralık mülk ilanlarında yapay zekâ tarafından oluşturulan görselleri (AI-generated images) gizlice kullanmasını yasaklayan bir düzenleme getirdi. Bu uygulama, konut reklamlarında görsel şeffaflığı artırmayı ve dijital manipülasyonun önüne geçmeyi amaçlıyor.",
+          "meta": "396 oy · 176 yorum"
+        },
+        {
+          "title": "Speech Recognition and TTS in less than 500kb",
+          "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+          "summary": "Moonshine projesi, 500 kilobayttan daha az bir boyuta sahip konuşma tanıma (speech recognition) ve metinden sese dönüştürme (text-to-speech) modelleri sunuyor. Bu hafif yapılar, sınırlı donanım kaynaklarına sahip sistemlerde yerel dil işleme yeteneklerini mümkün kılıyor.",
+          "meta": "387 oy · 40 yorum"
+        },
+        {
+          "title": "If You Build It, They Will Come",
+          "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+          "summary": "Yazılım projelerinde kullanıcı kitlesi oluşturmanın, ürünün teknik kalitesinden ziyade pazarlama ve topluluk etkileşimiyle doğrudan ilişkili olduğu savunuluyor. Geliştiricilerin ürün odaklı yaklaşım yerine, kullanıcı edinme stratejilerine (user acquisition) odaklanması gerektiği vurgulanıyor.",
+          "meta": "351 oy · 126 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "BI",
+      "explanation": "Şirketlerin ellerindeki ham verileri analiz ederek daha doğru ve hızlı iş kararları almalarını sağlayan yöntemler bütünü."
+    },
+    {
+      "term": "UI",
+      "explanation": "Kullanıcının bir yazılım veya cihazla etkileşime girdiği düğmeler, menüler ve ekran tasarımları."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "Yapay zekâ modellerini alıp bunları gerçek dünyadaki uygulamalarda verimli ve güvenli bir şekilde çalıştırma mühendisliği."
+    },
+    {
+      "term": "deployment",
+      "explanation": "Hazırlanan bir yazılımın veya modelin, kullanıcıların erişebileceği canlı ortama aktarılması."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Verilerin internete ihtiyaç duymadan doğrudan cihazın kendi hafızasında saklanmasını ve işlenmesini öncelikleyen yazılım yaklaşımı."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarına ve araçlara standart bir yolla bağlanmasını sağlayan köprü protokolü."
+    }
+  ]
+}
