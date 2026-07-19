@@ -67,7 +67,7 @@ AirLLM kütüphanesini kullanarak 70B parametreli bir modeli düşük VRAM kapas
 - [GitHub deposu →](https://github.com/lyogavin/airllm)
 
 ## İlgili sözlük terimleri
-Jupyter Notebooks Artificial Intelligence 
+VRAM Jupyter Notebooks Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

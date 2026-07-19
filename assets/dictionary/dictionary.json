@@ -2686,5 +2686,26 @@
     "full": "",
     "cat": "ai",
     "kisa": "Öğrencilere konuları adım adım anlatan, soruları yanıtlayan ve kişiselleştirilmiş eğitim desteği sunan yapay zeka sistemleridir."
+  },
+  {
+    "slug": "scene-reconstruction",
+    "en": "Scene Reconstruction",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Fiziksel ortamların görüntülerden yola çıkarak üç boyutlu dijital modellerini oluşturma sürecidir."
+  },
+  {
+    "slug": "vram",
+    "en": "VRAM",
+    "full": "Video Random Access Memory",
+    "cat": "dev",
+    "kisa": "Ekran kartının üzerindeki, yoğun grafik ve yapay zeka işlemlerini hızlandıran özel bellek birimidir."
+  },
+  {
+    "slug": "local-first",
+    "en": "Local-first",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternet bağlantısına bağımlı kalmadan, verilerin cihazda tutulmasını ve işlenmesini esas alan yazılım yaklaşımıdır."
   }
 ]

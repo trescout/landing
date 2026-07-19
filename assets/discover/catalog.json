@@ -5202,5 +5202,53 @@
     "stars": 17916,
     "lite": false,
     "headline": "Dijital belgeleri kolayca imzalayın"
+  },
+  {
+    "slug": "g0dm0d3",
+    "title": "G0DM0D3",
+    "tagline": "G0DM0D3, büyük dil modellerinin (large language models) güvenlik katmanlarını aşmayı hedefleyen özgürleştirilmiş bir yapay…",
+    "meta": "★ 9.570 · TypeScript",
+    "image": "/assets/discover/og/g0dm0d3.webp",
+    "source": "GitHub",
+    "date": "2026-07-19",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 9570,
+    "lite": false,
+    "headline": "Kısıtlamasız yapay zekâ etkileşim arayüzü"
+  },
+  {
+    "slug": "wigolo",
+    "title": "Wigolo",
+    "tagline": "Wigolo, yapay zekâ kodlama ajanları için yerel öncelikli (local-first) arama, veri çekme ve tarama yetenekleri sunan bir araçtır.",
+    "meta": "★ 1.365 · TypeScript",
+    "image": "/assets/discover/og/wigolo.webp",
+    "source": "GitHub",
+    "date": "2026-07-19",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1365,
+    "lite": false,
+    "headline": "yapay zekâ ajanınıza yerel web yetenekleri"
+  },
+  {
+    "slug": "kimi-cli",
+    "title": "Kimi CLI",
+    "tagline": "Moonshot AI tarafından geliştirilen Kimi CLI, komut satırı arayüzü (CLI) üzerinden çalışan bir yapay zekâ ajanıdır.",
+    "meta": "★ 9.577 · Python",
+    "image": "/assets/discover/og/kimi-cli.webp",
+    "source": "GitHub",
+    "date": "2026-07-19",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 9577,
+    "lite": false,
+    "headline": "Terminalda yapay zekâ destekli geliştirme"
   }
 ]
