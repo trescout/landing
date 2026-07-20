@@ -1,0 +1,39 @@
+# yapay zekâ ajanları için rehber
+
+Yapay zekâ ajanları (AI agents) üzerine hazırlanan bu açık kaynaklı kitap, tasarım prensipleri ve mühendislik uygulamalarını kapsamlı bir şekilde ele alıyor. İçeriğinde teorik bilgilerin yanı sıra bölümlere ayrılmış uygulama kodları ve derlenmiş PDF dosyaları yer alıyor.
+
+- ★ 7.362
+- Python
+- GitHub Trending · 2026-07-20
+
+## Ne kazandırır?
+- Yapay zekâ ajanlarının çalışma prensiplerini öğrenin
+- Uygulamalı kod örnekleri ile pratik beceri kazanın
+- Ajan tasarımı ve mühendislik süreçlerini keşfedin
+
+## Kurulum
+
+**PDF dokümanını derleme**
+
+```
+cd book && bash build_pdf.sh
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Sen bir yapay zekâ ajanı geliştirme uzmanısın. Bana 'Agent = LLM + Bağlam + Araçlar' formülünü temel alarak, bir ajanın hafıza sistemini nasıl kuracağımı ve dış araçları (tool calling) nasıl entegre edeceğimi adım adım açıkla. Özellikle RAG (Retrieval-Augmented Generation) süreçlerinde bağlam yönetimini optimize etmek için hangi mühendislik yaklaşımlarını kullanmam gerektiğini örneklerle anlat.
+
+- **Kimin için:** Yapay zekâ ajanları tasarlamak ve mühendislik uygulamalarını öğrenmek isteyen geliştiriciler veya teknoloji meraklıları içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/bojieli/ai-agent-book)
+
+## İlgili sözlük terimleri
+AI Agent AI Agents RAG Agents LLM PDF 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/ai-agent-book/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

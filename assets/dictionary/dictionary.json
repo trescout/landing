@@ -2707,5 +2707,40 @@
     "full": "",
     "cat": "dev",
     "kisa": "İnternet bağlantısına bağımlı kalmadan, verilerin cihazda tutulmasını ve işlenmesini esas alan yazılım yaklaşımıdır."
+  },
+  {
+    "slug": "local-first-code-intelligence",
+    "en": "Local-first Code Intelligence",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım geliştirme araçlarının, verileri buluta göndermeden doğrudan yerel cihazınızda işleyerek kod önerileri sunmasıdır."
+  },
+  {
+    "slug": "voice-synthesis",
+    "en": "Voice Synthesis",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yazılı metinlerin bilgisayar tarafından doğal ve akıcı bir insan sesiyle seslendirilmesi teknolojisidir."
+  },
+  {
+    "slug": "desktop-client",
+    "en": "Desktop Client",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarınıza yükleyerek doğrudan masaüstü ortamında çalıştırdığınız yazılım uygulamasıdır."
+  },
+  {
+    "slug": "console-host",
+    "en": "Console Host",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarda metin tabanlı komutların yazıldığı ve sonuçların görüntülendiği pencere ortamıdır."
+  },
+  {
+    "slug": "development-framework",
+    "en": "Development Framework",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım geliştirme sürecini hızlandıran, hazır yapıları ve kuralları sunan bir çalışma çatısıdır."
   }
 ]

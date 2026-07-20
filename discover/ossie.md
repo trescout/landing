@@ -23,7 +23,7 @@ Apache Ossie bir yazılım kurulumundan ziyade bir standart belirtimidir. Projen
 - [GitHub deposu →](https://github.com/apache/ossie)
 
 ## İlgili sözlük terimleri
-BI Semantic Metadata Single Source of Truth Artificial Intelligence 
+Semantic Metadata Single Source of Truth BI Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

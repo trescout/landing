@@ -5250,5 +5250,120 @@
     "stars": 9577,
     "lite": false,
     "headline": "Terminalda yapay zekâ destekli geliştirme"
+  },
+  {
+    "slug": "ai-agent-book",
+    "title": "AI Agent Book",
+    "tagline": "Yapay zekâ ajanları (AI agents) üzerine hazırlanan bu açık kaynaklı kitap, tasarım prensipleri ve mühendislik uygulamalarını…",
+    "meta": "★ 7.362 · Python",
+    "image": "/assets/discover/og/ai-agent-book.webp",
+    "source": "GitHub",
+    "date": "2026-07-20",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7362,
+    "lite": false,
+    "headline": "yapay zekâ ajanları için rehber"
+  },
+  {
+    "slug": "ktransformers",
+    "title": "Ktransformers",
+    "tagline": "Ktransformers, büyük dil modellerinin (large language models) çıkarım ve ince ayar (fine-tuning) süreçlerinde heterojen…",
+    "meta": "★ 18.491 · Python",
+    "image": "/assets/discover/og/ktransformers.webp",
+    "source": "GitHub",
+    "date": "2026-07-20",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 18491,
+    "lite": false,
+    "headline": "yapay zekâ modelleri için heterojen hızlandırma"
+  },
+  {
+    "slug": "jellium-desktop",
+    "title": "Jellium Desktop",
+    "tagline": "Jellium-desktop, medya sunucusu Jellyfin için Rust diliyle geliştirilmiş resmi olmayan bir masaüstü istemcisidir (desktop client).",
+    "meta": "★ 1.342 · Rust",
+    "image": "/assets/discover/og/jellium-desktop.webp",
+    "source": "GitHub",
+    "date": "2026-07-20",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1342,
+    "lite": false,
+    "headline": "Jellyfin medya kütüphanenize masaüstü erişimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "terminal",
+    "title": "Terminal",
+    "tagline": "Microsoft, Windows Terminal ve geleneksel Windows konsol ana bilgisayarını (console host) tek bir çatı altında birleştiriyor.",
+    "meta": "★ 104.241 · C++",
+    "image": "/assets/discover/og/terminal.webp",
+    "source": "GitHub",
+    "date": "2026-07-20",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 104241,
+    "lite": false,
+    "headline": "Modern Windows komut satırı deneyimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "astrbot",
+    "title": "AstrBot",
+    "tagline": "AstrBot, çeşitli anlık mesajlaşma platformları, büyük dil modelleri (large language models) ve eklentilerle entegre çalışan…",
+    "meta": "★ 36.787 · Python",
+    "image": "/assets/discover/og/astrbot.webp",
+    "source": "GitHub",
+    "date": "2026-07-20",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 36787,
+    "lite": false,
+    "headline": "Mesajlaşma uygulamaları için yapay zekâ ajanı"
+  },
+  {
+    "slug": "wrenai",
+    "title": "WrenAI",
+    "tagline": "Canner tarafından geliştirilen WrenAI, doğal dili veritabanı sorgularına (text-to-SQL) dönüştürerek verileri otomatik olarak…",
+    "meta": "★ 16.314 · Python",
+    "image": "/assets/discover/og/wrenai.webp",
+    "source": "GitHub",
+    "date": "2026-07-20",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 16314,
+    "lite": false,
+    "headline": "yapay zekâ ile otomatik iş zekâsı"
+  },
+  {
+    "slug": "cs-self-learning",
+    "title": "Cs Self Learning",
+    "tagline": "Pekin Üniversitesi öğrencileri tarafından hazırlanan bu rehber, bilgisayar bilimleri (computer science) alanında kendi kendine…",
+    "meta": "★ 74.290 · HTML",
+    "image": "/assets/discover/og/cs-self-learning.webp",
+    "source": "GitHub",
+    "date": "2026-07-20",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 74290,
+    "lite": false,
+    "headline": "Bilgisayar bilimleri için kapsamlı yol haritası",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

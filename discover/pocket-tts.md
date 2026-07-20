@@ -50,7 +50,7 @@ Pocket TTS aracını kullanarak metinden sese dönüştürme işlemi yapmak isti
 - [GitHub deposu →](https://github.com/kyutai-labs/pocket-tts)
 
 ## İlgili sözlük terimleri
-CPU Text-to-Speech Artificial Intelligence 
+Text-to-Speech CPU Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
