@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-20",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "summary": "Yapay zekâ ajanları (AI agents) üzerine hazırlanan bu açık kaynaklı kitap, tasarım prensipleri ve mühendislik uygulamalarını kapsamlı bir şekilde ele alıyor. İçeriğinde teorik bilgilerin yanı sıra bölümlere ayrılmış uygulama kodları ve derlenmiş PDF dosyaları yer alıyor.",
+          "meta": "Python · ★ 7.362 · +1.734 bugün"
+        },
+        {
+          "title": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "summary": "Ktransformers, büyük dil modellerinin (large language models) çıkarım ve ince ayar (fine-tuning) süreçlerinde heterojen donanım optimizasyonlarını destekleyen esnek bir çerçeve sunuyor. Bu yapı, farklı donanım kaynaklarını verimli kullanarak model performansını artırmayı hedefliyor.",
+          "meta": "Python · ★ 18.491 · +360 bugün"
+        },
+        {
+          "title": "andrewrabert/jellium-desktop",
+          "url": "https://github.com/andrewrabert/jellium-desktop",
+          "summary": "Jellium-desktop, medya sunucusu Jellyfin için Rust diliyle geliştirilmiş resmi olmayan bir masaüstü istemcisidir (desktop client). Yazılım, kullanıcıların medya kütüphanelerine doğrudan işletim sistemi üzerinden erişmelerini sağlayan yerel bir arayüz sunar.",
+          "meta": "Rust · ★ 1.342 · +43 bugün"
+        },
+        {
+          "title": "microsoft/terminal",
+          "url": "https://github.com/microsoft/terminal",
+          "summary": "Microsoft, Windows Terminal ve geleneksel Windows konsol ana bilgisayarını (console host) tek bir çatı altında birleştiriyor. C++ diliyle geliştirilen bu açık kaynaklı proje, komut satırı deneyimini modern arayüz ve özelleştirilebilir sekmelerle yeniden yapılandırıyor.",
+          "meta": "C++ · ★ 104.241 · +59 bugün"
+        },
+        {
+          "title": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "summary": "AstrBot, çeşitli anlık mesajlaşma platformları, büyük dil modelleri (large language models) ve eklentilerle entegre çalışan bir yapay zekâ ajanı geliştirme çerçevesidir (development framework). Python tabanlı bu araç, açık kaynaklı bir alternatif olarak özelleştirilebilir yapay zekâ asistanları oluşturulmasına olanak tanır.",
+          "meta": "Python · ★ 36.787 · +83 bugün"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua, açık kaynaklı sürücüler ve işletim sistemi bağımsız filo yönetimi ile bilgisayar kullanımı (computer-use) teknolojilerini ölçeklendirmeyi hedefliyor. Platform, yapay zekâ modellerinin eğitimi, değerlendirilmesi ve veri üretimi süreçleri için standartlaştırılmış kıyaslama (benchmark) araçları sunuyor.",
+          "meta": "HTML · ★ 20.286 · +64 bugün",
+          "returning": true
+        },
+        {
+          "title": "Canner/WrenAI",
+          "url": "https://github.com/Canner/WrenAI",
+          "summary": "Canner tarafından geliştirilen WrenAI, doğal dili veritabanı sorgularına (text-to-SQL) dönüştürerek verileri otomatik olarak panellere ve grafiklere aktaran açık kaynaklı bir üretken iş zekası (generative BI) aracıdır. Platform, yirmiden fazla veri kaynağını destekleyen yönetilebilir bir bağlam katmanı üzerinden yapay zekâ ajanları için güvenilir veri analitiği süreçleri sunar.",
+          "meta": "Python · ★ 16.314 · +121 bugün"
+        },
+        {
+          "title": "PKUFlyingPig/cs-self-learning",
+          "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+          "summary": "Pekin Üniversitesi öğrencileri tarafından hazırlanan bu rehber, bilgisayar bilimleri (computer science) alanında kendi kendine öğrenmek isteyenler için kapsamlı bir yol haritası sunuyor. Temel derslerden uzmanlık alanlarına kadar geniş bir müfredatı kaynaklar ve çalışma yöntemleriyle birleştiriyor.",
+          "meta": "HTML · ★ 74.290 · +134 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+          "url": "https://news.ycombinator.com/item?id=48968606",
+          "summary": "Bir yazılım mühendisi, 120 bin dolarlık ticari bowling merkezi otomasyon sistemini 1.600 dolarlık ESP32 mikrodenetleyiciler kullanarak yeniden tasarladı. Gömülü sistemler (embedded systems) ile geliştirilen bu çözüm, pahalı endüstriyel donanımlara uygun maliyetli bir alternatif oluşturuyor.",
+          "meta": "2.036 oy · 212 yorum"
+        },
+        {
+          "title": "Qwen 3.8",
+          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+          "summary": "Alibaba tarafından geliştirilen Qwen 3.8, geniş ölçekli dil modelleri (large language models) için yeni bir fiyatlandırma ve token planı sunuyor. Bu model, bulut tabanlı altyapısı üzerinden geliştiricilere erişilebilir bir hesaplama kapasitesi sağlıyor.",
+          "meta": "846 oy · 579 yorum"
+        },
+        {
+          "title": "Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "summary": "Claude Code, çalışma ortamını hızlandırmak amacıyla JavaScript çalışma zamanı (runtime) olarak Bun kullanmaya başladı. Bu geçiş, Rust ile yazılmış altyapı bileşenlerinin entegrasyonu sayesinde geliştirici araçlarının performansını artırmayı hedefliyor.",
+          "meta": "472 oy · 629 yorum"
+        },
+        {
+          "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+          "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+          "summary": "Donanım geliştirme sürecinde ölçeklenebilir üretim ve tedarik zinciri yönetimi, yazılım odaklı girişimcilerin aşabileceği somut zorluklar içeriyor. 2.500 adet MIDI kaydedici satışı üzerinden elde edilen deneyimler, donanım girişimciliğinin (hardware entrepreneurship) sanılandan daha erişilebilir olduğunu gösteriyor.",
+          "meta": "461 oy · 209 yorum"
+        },
+        {
+          "title": "Minecraft: Java Edition now uses SDL3",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+          "summary": "Minecraft: Java Sürümü, grafik ve giriş aygıtı yönetimi için kullanılan Basit Doğrudan Medya Katmanı (Simple DirectMedia Layer) kütüphanesini üçüncü sürüme (SDL3) yükseltti. Bu güncelleme, oyunun donanım etkileşimini modernize ederek daha kararlı bir performans altyapısı sunuyor.",
+          "meta": "293 oy · 200 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip verilen görevleri adım adım yerine getirebilen otonom yazılımlar."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Genel amaçlı bir yapay zekânın, belirli bir konuda uzmanlaşması için küçük bir veri setiyle yeniden eğitilmesi."
+    },
+    {
+      "term": "desktop client",
+      "explanation": "Bilgisayarınıza indirip doğrudan masaüstü üzerinden kullandığınız yazılım uygulaması."
+    },
+    {
+      "term": "console host",
+      "explanation": "Bilgisayarda metin tabanlı komutların çalıştırıldığı ve sonuçlarının görüntülendiği pencere ortamı."
+    },
+    {
+      "term": "development framework",
+      "explanation": "Yazılım geliştirirken işleri hızlandıran, temel yapıları hazır sunan bir çalışma çatısı."
+    }
+  ]
+}

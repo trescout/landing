@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-20",
+  "editorial": "Yazılım geliştirme süreçlerinde otonom ajan (autonomous agent) mimarileri ve kod inceleme (code review) otomasyonları bugün geliştirici topluluğunun ana odak noktasını oluşturuyor. GitHub üzerindeki güncel projeler, özellikle büyük dil modellerinin çıkarım (inference) verimliliğini artıran bellek yönetimi teknikleri ile pratik mühendislik rehberlerine olan ilginin arttığını gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "summary": "Yapay zekâ ajanları (AI agents) üzerine hazırlanan bu açık kaynaklı kitap, tasarım prensipleri ve mühendislik uygulamalarını kapsamlı bir şekilde ele alıyor. İçeriğinde teorik bilgilerin yanı sıra bölümlere ayrılmış uygulama kodları ve derlenmiş PDF dosyaları yer alıyor.",
+          "meta": "Python · ★ 7.362 · +1.734 bugün"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph, yerel odaklı kod zekası (local-first code intelligence) yaklaşımıyla kod tabanının kalıcı bir haritasını oluşturarak yapay zekâ araçlarının yalnızca ilgili bölümleri işlemesini sağlıyor. Bu yöntem, büyük ölçekli projelerde bağlam azaltma (context reduction) teknikleri kullanarak kod inceleme süreçlerini hızlandırıyor.",
+          "meta": "Python · ★ 21.777 · +663 bugün"
+        },
+        {
+          "title": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "summary": "Ktransformers, büyük dil modellerinin (large language models) çıkarım ve ince ayar (fine-tuning) süreçlerinde heterojen donanım optimizasyonlarını destekleyen esnek bir çerçeve sunuyor. Bu yapı, farklı donanım kaynaklarını verimli kullanarak model performansını artırmayı hedefliyor.",
+          "meta": "Python · ★ 18.491 · +360 bugün"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Yapay zekâ mühendisliği (AI engineering) alanına giriş yapmak isteyenler için hazırlanan bu kaynak, Python kullanarak temelden uçtan uca uygulama geliştirme süreçlerini kapsıyor. Teorik bilgiyi pratik projelerle birleştirerek, geliştiricilerin kendi yapay zekâ çözümlerini oluşturup yayına almalarını sağlıyor.",
+          "meta": "Python · ★ 39.934 · +501 bugün"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox, kullanıcıların ses klonlama, dikte ve ses sentezleme (voice synthesis) işlemlerini gerçekleştirmesine olanak tanıyan açık kaynaklı bir yapay zekâ ses stüdyosudur. TypeScript diliyle geliştirilen bu platform, ses tabanlı içerik oluşturma süreçlerini tek bir arayüzde birleştirir.",
+          "meta": "TypeScript · ★ 43.601 · +610 bugün"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo, yapay zekâ kodlama ajanları için yerel öncelikli (local-first) arama, veri çekme ve tarama yetenekleri sunan bir araçtır. Model bağlamı protokolü (Model Context Protocol - MCP) üzerinden çalışan bu sistem, herhangi bir API anahtarı veya bulut bağımlılığı olmadan ücretsiz araştırma imkânı sağlar.",
+          "meta": "TypeScript · ★ 2.054 · +595 bugün"
+        },
+        {
+          "title": "andrewrabert/jellium-desktop",
+          "url": "https://github.com/andrewrabert/jellium-desktop",
+          "summary": "Jellium-desktop, medya sunucusu Jellyfin için Rust diliyle geliştirilmiş resmi olmayan bir masaüstü istemcisidir (desktop client). Yazılım, kullanıcıların medya kütüphanelerine doğrudan işletim sistemi üzerinden erişmelerini sağlayan yerel bir arayüz sunar.",
+          "meta": "Rust · ★ 1.342 · +43 bugün"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub Copilot SDK, geliştiricilerin GitHub Copilot ajanlarını kendi uygulama ve hizmetlerine entegre etmelerini sağlayan çok platformlu bir yazılım geliştirme kiti (SDK) sunuyor. Bu araç, Java dilini kullanarak yapay zekâ destekli yardımcıları farklı platformlarda standart bir şekilde çalıştırmayı mümkün kılıyor.",
+          "meta": "Java · ★ 9.998 · +39 bugün"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog, ürün geliştirme süreçlerini otomatikleştirmek için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session replay) gibi araçları bir araya getiren bir platformdur. Yazılım geliştiriciler, bu araç setiyle kullanıcı verilerini analiz ederek ürün hatalarını teşhis edebilir ve geliştirme süreçlerini merkezi bir arayüz üzerinden yönetebilir.",
+          "meta": "Python · ★ 37.016 · +411 bugün"
+        },
+        {
+          "title": "microsoft/terminal",
+          "url": "https://github.com/microsoft/terminal",
+          "summary": "Microsoft, Windows Terminal ve geleneksel Windows konsol ana bilgisayarını (console host) tek bir çatı altında birleştiriyor. C++ diliyle geliştirilen bu açık kaynaklı proje, komut satırı deneyimini modern arayüz ve özelleştirilebilir sekmelerle yeniden yapılandırıyor.",
+          "meta": "C++ · ★ 104.241 · +59 bugün"
+        },
+        {
+          "title": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "summary": "AstrBot, çeşitli anlık mesajlaşma platformları, büyük dil modelleri (large language models) ve eklentilerle entegre çalışan bir yapay zekâ ajanı geliştirme çerçevesidir (development framework). Python tabanlı bu araç, açık kaynaklı bir alternatif olarak özelleştirilebilir yapay zekâ asistanları oluşturulmasına olanak tanır.",
+          "meta": "Python · ★ 36.787 · +83 bugün"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Rust diliyle geliştirilen jcode, yazılım geliştirme süreçlerini otomatize eden kodlama ajanları (coding agents) için bir test ve değerlendirme platformu sunuyor. Bu araç, yazılım geliştirme ajanlarının performansını ölçmek ve iş akışlarını standartlaştırmak amacıyla tasarlanmıştır.",
+          "meta": "Rust · ★ 9.066 · +235 bugün"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua, açık kaynaklı sürücüler ve işletim sistemi bağımsız filo yönetimi ile bilgisayar kullanımı (computer-use) teknolojilerini ölçeklendirmeyi hedefliyor. Platform, yapay zekâ modellerinin eğitimi, değerlendirilmesi ve veri üretimi süreçleri için standartlaştırılmış kıyaslama (benchmark) araçları sunuyor.",
+          "meta": "HTML · ★ 20.286 · +64 bugün"
+        },
+        {
+          "title": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "summary": "MoonshotAI tarafından geliştirilen Kimi CLI, komut satırı arayüzü (CLI) üzerinden çalışan bir yapay zekâ ajanıdır. Python tabanlı bu araç, geliştiricilerin terminal ortamında karmaşık görevleri otomatize etmelerine olanak tanır.",
+          "meta": "Python · ★ 9.992 · +410 bugün"
+        },
+        {
+          "title": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "summary": "Zapret-discord-youtube projesi, yerel ağ trafiğini yönlendirerek kısıtlı platformlara erişim sağlayan bir ağ engeli aşma (circumvention) aracıdır. Özellikle Discord ve YouTube gibi hizmetlere yönelik erişim engellerini baypas etmek (bypass) için özelleştirilmiş betik dosyaları sunar.",
+          "meta": "Batchfile · ★ 31.054 · +106 bugün"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build your own x projesi, popüler yazılım teknolojilerini sıfırdan kodlayarak programlama becerilerini geliştirmeyi amaçlayan bir rehberler bütünü sunuyor. Geliştiriciler, veritabanı veya işletim sistemi gibi karmaşık sistemlerin çalışma prensiplerini uygulamalı projeler üzerinden öğreniyor.",
+          "meta": "Markdown · ★ 529.087 · +754 bugün"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM, 70 milyar parametreli büyük dil modellerinin (large language models) sadece 4 GB belleğe sahip grafik işlem birimlerinde (GPU) çalıştırılmasına olanak tanıyor. Bu kütüphane, bellek optimizasyonu tekniklerini kullanarak yüksek kapasiteli modellerin düşük donanım gereksinimleriyle kullanılmasını sağlıyor.",
+          "meta": "Jupyter Notebook · ★ 23.722 · +358 bugün"
+        },
+        {
+          "title": "Canner/WrenAI",
+          "url": "https://github.com/Canner/WrenAI",
+          "summary": "Canner tarafından geliştirilen WrenAI, doğal dili veritabanı sorgularına (text-to-SQL) dönüştürerek verileri otomatik olarak panellere ve grafiklere aktaran açık kaynaklı bir üretken iş zekası (generative BI) aracıdır. Platform, yirmiden fazla veri kaynağını destekleyen yönetilebilir bir bağlam katmanı üzerinden yapay zekâ ajanları için güvenilir veri analitiği süreçleri sunar.",
+          "meta": "Python · ★ 16.314 · +121 bugün"
+        },
+        {
+          "title": "PKUFlyingPig/cs-self-learning",
+          "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+          "summary": "Pekin Üniversitesi öğrencileri tarafından hazırlanan bu rehber, bilgisayar bilimleri (computer science) alanında kendi kendine öğrenmek isteyenler için kapsamlı bir yol haritası sunuyor. Temel derslerden uzmanlık alanlarına kadar geniş bir müfredatı kaynaklar ve çalışma yöntemleriyle birleştiriyor.",
+          "meta": "HTML · ★ 74.290 · +134 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+          "url": "https://news.ycombinator.com/item?id=48968606",
+          "summary": "Bir yazılım mühendisi, 120 bin dolarlık ticari bowling merkezi otomasyon sistemini 1.600 dolarlık ESP32 mikrodenetleyiciler kullanarak yeniden tasarladı. Gömülü sistemler (embedded systems) ile geliştirilen bu çözüm, pahalı endüstriyel donanımlara uygun maliyetli bir alternatif oluşturuyor.",
+          "meta": "2.036 oy · 212 yorum"
+        },
+        {
+          "title": "Qwen 3.8",
+          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+          "summary": "Alibaba tarafından geliştirilen Qwen 3.8, geniş ölçekli dil modelleri (large language models) için yeni bir fiyatlandırma ve token planı sunuyor. Bu model, bulut tabanlı altyapısı üzerinden geliştiricilere erişilebilir bir hesaplama kapasitesi sağlıyor.",
+          "meta": "846 oy · 579 yorum"
+        },
+        {
+          "title": "Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "summary": "Claude Code, çalışma ortamını hızlandırmak amacıyla JavaScript çalışma zamanı (runtime) olarak Bun kullanmaya başladı. Bu geçiş, Rust ile yazılmış altyapı bileşenlerinin entegrasyonu sayesinde geliştirici araçlarının performansını artırmayı hedefliyor.",
+          "meta": "472 oy · 629 yorum"
+        },
+        {
+          "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+          "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+          "summary": "Donanım geliştirme sürecinde ölçeklenebilir üretim ve tedarik zinciri yönetimi, yazılım odaklı girişimcilerin aşabileceği somut zorluklar içeriyor. 2.500 adet MIDI kaydedici satışı üzerinden elde edilen deneyimler, donanım girişimciliğinin (hardware entrepreneurship) sanılandan daha erişilebilir olduğunu gösteriyor.",
+          "meta": "461 oy · 209 yorum"
+        },
+        {
+          "title": "Minecraft: Java Edition now uses SDL3",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+          "summary": "Minecraft: Java Sürümü, grafik ve giriş aygıtı yönetimi için kullanılan Basit Doğrudan Medya Katmanı (Simple DirectMedia Layer) kütüphanesini üçüncü sürüme (SDL3) yükseltti. Bu güncelleme, oyunun donanım etkileşimini modernize ederek daha kararlı bir performans altyapısı sunuyor.",
+          "meta": "293 oy · 200 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Thinking Machines tarafından geliştirilen Inkling, görsel ve metinsel verileri girdi olarak kabul ederek metin tabanlı çıktılar üreten bir çok modlu (multimodal) modeldir. Model, karmaşık görüntüleri analiz ederek bu içerikler hakkında detaylı metinler oluşturma yeteneği sunar.",
+          "meta": "♥ 1.168 · 13.462 indirme"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Prism-ml tarafından geliştirilen Ternary-Bonsai-27B, üçlü ağırlıklandırma (ternary weight) yöntemiyle optimize edilmiş bir metin üretim modeli (text-generation model) olarak sunuluyor. Bu yaklaşım, modelin bellek kullanımını düşürerek donanım gereksinimlerini azaltmayı hedefliyor.",
+          "meta": "♥ 806 · 338.945 indirme"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Prism-ml tarafından yayınlanan Bonsai-27B, metin üretimi (text-generation) görevleri için optimize edilmiş bir dil modelidir. Model, verimli çalışma amacıyla GGUF formatında sunularak farklı donanım yapılandırmalarında kullanılabilir hale getirilmiştir.",
+          "meta": "♥ 510 · 1.262.894 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görüntü tabanlı metinleri işleyerek metin çıktısı üreten bir görsel-metin modeli (image-text-to-text model) olarak öne çıkıyor. Model, karmaşık dokümanlardaki verileri dijital formata dönüştürme süreçlerini otomatize ediyor.",
+          "meta": "♥ 2.230 · 2.122.848 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından geliştirilen GLM-5.2, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. HuggingFace platformunda yüksek etkileşim alan model, açık kaynaklı dil işleme yeteneklerini genişletmeyi hedeflemektedir.",
+          "meta": "♥ 4.179 · 536.177 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip verilen görevleri adım adım yerine getirebilen otonom yazılımlar."
+    },
+    {
+      "term": "local-first code intelligence",
+      "explanation": "Yazılım geliştirme araçlarının, verileri internete ihtiyaç duymadan doğrudan bilgisayarınızda işleyerek öneriler sunması."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "Yapay zekânın daha hızlı ve doğru çalışması için ona verilen gereksiz bilgilerin temizlenerek özünün bırakılması."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Genel amaçlı bir yapay zekânın, belirli bir konuda uzmanlaşması için küçük bir veri setiyle yeniden eğitilmesi."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "Yapay zekâ teknolojilerini kullanarak gerçek dünya problemlerini çözen sistemler tasarlama süreci."
+    },
+    {
+      "term": "voice synthesis",
+      "explanation": "Yazılı metinlerin bilgisayar tarafından doğal bir insan sesiyle seslendirilmesi."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Uygulamanın çalışmak için internete ihtiyaç duymadan tüm verileri cihazınızda saklaması ve yönetmesi."
+    },
+    {
+      "term": "Model Context Protocol - MCP",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarıyla kolayca iletişim kurmasını sağlayan standart bir bağlantı dili."
+    },
+    {
+      "term": "desktop client",
+      "explanation": "Bilgisayarınıza indirip doğrudan masaüstü üzerinden kullandığınız yazılım uygulaması."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Yazılımcıların belirli bir platform veya cihaz için uygulama geliştirmesini kolaylaştıran hazır araçlar paketi."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "Yapay zekâ sistemlerinin nasıl çalıştığını izleyerek hatalarını ve performansını takip etme yöntemi."
+    },
+    {
+      "term": "session replay",
+      "explanation": "Kullanıcının uygulamada yaptığı hareketlerin bir video gibi kaydedilip sonradan tekrar izlenebilmesi."
+    },
+    {
+      "term": "console host",
+      "explanation": "Bilgisayarda metin tabanlı komutların çalıştırıldığı ve sonuçlarının görüntülendiği pencere ortamı."
+    },
+    {
+      "term": "development framework",
+      "explanation": "Yazılım geliştirirken işleri hızlandıran, temel yapıları hazır sunan bir çalışma çatısı."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Yazılımcıların yerine kod yazan, hataları bulan ve projeleri yönetebilen akıllı yazılım yardımcıları."
+    }
+  ]
+}
