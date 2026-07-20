@@ -2742,5 +2742,12 @@
     "full": "",
     "cat": "dev",
     "kisa": "Yazılım geliştirme sürecini hızlandıran, hazır yapıları ve kuralları sunan bir çalışma çatısıdır."
+  },
+  {
+    "slug": "model-context-protocol",
+    "en": "Model Context Protocol",
+    "full": "MCP",
+    "cat": "ai",
+    "kisa": "Yapay zeka sistemlerinin verilerle ve araçlarla güvenli bir şekilde konuşmasını sağlayan ortak bir dil."
   }
 ]

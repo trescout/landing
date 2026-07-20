@@ -23,7 +23,7 @@ Unity projenizi açın ve Package Manager penceresine gidin. 'Add package from g
 - [GitHub deposu →](https://github.com/CoplayDev/unity-mcp)
 
 ## İlgili sözlük terimleri
-MCP Artificial Intelligence 
+Model Context Protocol MCP Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -36,7 +36,7 @@ Chrome DevTools MCP sunucusunu kullanarak aktif tarayıcı oturumuma bağlan ve 
 - [GitHub deposu →](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 ## İlgili sözlük terimleri
-Chrome DevTools Coding Agents Agents MCP Artificial Intelligence 
+Chrome DevTools Coding Agents Model Context Protocol Agents MCP Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
