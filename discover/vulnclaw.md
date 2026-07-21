@@ -52,7 +52,7 @@ Sen bir sızma testi uzmanısın. VulnClaw aracını kullanarak hedef sistem üz
 - [GitHub deposu →](https://github.com/Unclecheng-li/VulnClaw)
 
 ## İlgili sözlük terimleri
-Model Context Protocol AI Agents Agents MCP Artificial Intelligence 
+AI Agents Model Context Protocol Agents MCP Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

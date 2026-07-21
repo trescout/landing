@@ -2749,5 +2749,26 @@
     "full": "MCP",
     "cat": "ai",
     "kisa": "Yapay zeka sistemlerinin verilerle ve araçlarla güvenli bir şekilde konuşmasını sağlayan ortak bir dil."
+  },
+  {
+    "slug": "local-first-code-intelligence-graph",
+    "en": "Local-first Code Intelligence Graph",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım projelerindeki kod parçalarının ilişkilerini internete ihtiyaç duymadan yerel bilgisayarınızda haritalayan bir sistemdir."
+  },
+  {
+    "slug": "code-agent",
+    "en": "Code Agent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yazılım geliştirme süreçlerinde kod yazma, hata ayıklama ve test etme gibi görevleri otonom olarak üstlenen bir yapay zekâdır."
+  },
+  {
+    "slug": "cli-agent",
+    "en": "CLI Agent",
+    "full": "Command Line Interface Agent",
+    "cat": "dev",
+    "kisa": "Bilgisayarın komut satırı üzerinden işlemleri otomatik olarak yöneten ve kullanıcı adına görevleri yerine getiren bir yazılımdır."
   }
 ]

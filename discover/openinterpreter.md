@@ -38,7 +38,7 @@ Bilgisayarımda bir kodlama ajanı olarak görev yapmanı istiyorum. Yerel ortam
 - [GitHub deposu →](https://github.com/openinterpreter/openinterpreter)
 
 ## İlgili sözlük terimleri
-Coding Agent Terminal Rust Agent Artificial Intelligence 
+Coding Agent Terminal Agent Rust Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

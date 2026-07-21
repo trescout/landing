@@ -37,7 +37,7 @@ Terminal üzerinde çalışan tüm yapay zekâ ajanlarımı tek bir merkezden y�
 - [GitHub deposu →](https://github.com/ogulcancelik/herdr)
 
 ## İlgili sözlük terimleri
-Agent Multiplexer Terminal Rust Agent Artificial Intelligence 
+Agent Multiplexer Terminal Agent Rust Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
