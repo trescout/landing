@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-21",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "PrefectHQ/fastmcp",
+          "url": "https://github.com/PrefectHQ/fastmcp",
+          "summary": "FastMCP, Model Bağlam Protokolü (Model Context Protocol - MCP) sunucuları ve istemcileri geliştirmeyi kolaylaştıran Python tabanlı bir çerçevedir (framework). Geliştiricilerin yapay zekâ modelleri ile yerel araçlar arasında hızlı entegrasyon kurmasını sağlar.",
+          "meta": "Python · ★ 26.621 · +96 bugün"
+        },
+        {
+          "title": "tokio-rs/topcoat",
+          "url": "https://github.com/tokio-rs/topcoat",
+          "summary": "Tokio ekibi tarafından geliştirilen Topcoat, Rust dilinde web uygulamaları oluşturmak için gerekli tüm araçları barındıran kapsamlı bir çatı (framework) sunuyor. Geliştiricilerin ihtiyaç duyduğu temel bileşenleri tek bir yapıda toplayarak uygulama geliştirme sürecini standartlaştırmayı hedefliyor.",
+          "meta": "Rust · ★ 1.715 · +371 bugün"
+        },
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "Dünya genelindeki herkese açık internet televizyonu (IPTV) yayınlarını tek bir merkezde toplayan bu proje, kullanıcıların canlı yayın kanallarına erişimini kolaylaştırıyor. TypeScript diliyle geliştirilen bu koleksiyon, açık kaynaklı veri setleri üzerinden küresel çapta kanal listeleri sunuyor.",
+          "meta": "TypeScript · ★ 133.863 · +240 bugün",
+          "returning": true
+        },
+        {
+          "title": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "summary": "OpenShip, kullanıcıların kendi sunucularında barındırabildiği bir uygulama dağıtım platformu (deployment platform) sunuyor. TypeScript diliyle geliştirilen bu araç, bulut tabanlı altyapı hizmetlerine alternatif olarak kendi kendine barındırma (self-hosted) süreçlerini kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 5.130 · +1.641 bugün"
+        },
+        {
+          "title": "microsoft/Ontology-Playground",
+          "url": "https://github.com/microsoft/Ontology-Playground",
+          "summary": "Microsoft tarafından geliştirilen Ontology-Playground, ontolojileri öğrenmek ve Microsoft Fabric IQ üzerinde görsel tasarımlar oluşturmak için kullanılan açık kaynaklı bir web uygulamasıdır. Tamamen statik yapıda çalışan bu araç, kullanıcıların ontoloji modellerini tasarlamasına, RDF/XML formatında dışa aktarmasına ve etkileşimli diyagramlar paylaşmasına olanak tanır.",
+          "meta": "TypeScript · ★ 1.806 · +464 bugün"
+        },
+        {
+          "title": "handy-computer/transcribe.cpp",
+          "url": "https://github.com/handy-computer/transcribe.cpp",
+          "summary": "Transcribe.cpp, 16'dan fazla model ailesini destekleyen ve C++ diliyle geliştirilen bir konuşmayı metne dönüştürme (speech-to-text) çıkarım (inference) kütüphanesidir. Ggml altyapısını kullanan bu araç, farklı ses işleme modellerinin yerel sistemlerde verimli bir şekilde çalıştırılmasını sağlar.",
+          "meta": "C++ · ★ 1.357 · +395 bugün"
+        },
+        {
+          "title": "moonshine-ai/moonshine",
+          "url": "https://github.com/moonshine-ai/moonshine",
+          "summary": "Moonshine, sesli arayüzler ve yapay zekâ ajanları için düşük gecikmeli konuşmayı metne dönüştürme (speech to text), niyet tanıma (intent recognition) ve metni sese dönüştürme (text to speech) yetenekleri sunuyor. C++ diliyle geliştirilen bu kütüphane, gerçek zamanlı ses işleme süreçlerini optimize etmeyi hedefliyor.",
+          "meta": "C++ · ★ 10.028 · +282 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "China’s open-weights AI strategy is winning",
+          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+          "summary": "Çin merkezli yapay zekâ geliştiricileri, açık ağırlıklı (open-weights) modelleri yaygınlaştırarak küresel ekosistemde hızlı bir benimsenme süreci yönetiyor. Kapalı ve mülkiyet odaklı (proprietary) modellerin aksine bu strateji, yerel ve uluslararası geliştiricilerin teknolojiye erişimini kolaylaştırarak rekabet avantajı sağlıyor.",
+          "meta": "1.049 oy · 818 yorum"
+        },
+        {
+          "title": "Hacker wipes Romania's land registry database",
+          "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+          "summary": "Romanya'nın tapu sicil veri tabanı, bir siber saldırı sonucunda tamamen silindi. Olay, kritik kamu altyapılarının veri yedekleme (data backup) ve siber güvenlik süreçlerindeki zafiyetleri gündeme getirdi.",
+          "meta": "620 oy · 344 yorum"
+        },
+        {
+          "title": "Who's afraid of Chinese models?",
+          "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+          "summary": "Çin merkezli yapay zekâ modellerinin küresel pazardaki rekabetçi fiyatlandırması ve açık kaynaklı ekosistemlere entegrasyonu, batılı teknoloji şirketlerinin pazar hakimiyeti üzerinde baskı oluşturuyor. Bu modellerin düşük maliyetli erişilebilirliği, yapay zekâ geliştirme süreçlerinde bölgesel bağımlılıkları ve güvenlik politikalarını yeniden tartışmaya açıyor.",
+          "meta": "497 oy · 340 yorum"
+        },
+        {
+          "title": "Kimi Work",
+          "url": "https://www.kimi.com/products/kimi-work",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi Work, kurumsal ekipler için tasarlanmış bir iş birliği ve üretkenlik platformudur. Sistem, uzun bağlam penceresi (long context window) desteğiyle karmaşık dokümanları analiz ederek ekip içi bilgi yönetimini otomatize eder.",
+          "meta": "488 oy · 207 yorum"
+        },
+        {
+          "title": "Jelly UI: Soft-body physics for native HTML form controls",
+          "url": "https://jelly-ui.com/",
+          "summary": "Jelly UI, yerel HTML form kontrollerine yumuşak gövde fiziği (soft-body physics) uygulayarak arayüz öğelerine esnek bir etkileşim kazandırıyor. Bu kütüphane, web bileşenlerine fizik tabanlı animasyonlar ekleyerek kullanıcı deneyimini daha dinamik hale getiriyor.",
+          "meta": "425 oy · 144 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin, daha önce görmediği yeni veriler üzerinde tahmin veya çıkarım yapma süreci."
+    }
+  ]
+}

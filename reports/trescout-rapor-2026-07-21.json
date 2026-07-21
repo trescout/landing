@@ -1,0 +1,267 @@
+{
+  "date": "2026-07-21",
+  "editorial": "Yazılım geliştirme süreçlerinde kod inceleme (code review) otomasyonu ve yapay zekâ destekli otonom ajan (autonomous agent) mimarileri bugün geliştirici ekosisteminin merkezinde yer alıyor. GitHub verileri, özellikle büyük dil modellerinin (large language models) yerel sistemlerde verimli çalışmasını sağlayan önbellek yönetimi ve mühendislik pratiklerine ilginin arttığını gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph, yerel öncelikli kod zekâsı grafiği (local-first code intelligence graph) oluşturarak yapay zekâ araçlarının yalnızca ilgili kod parçalarına odaklanmasını sağlıyor. Bu yöntem, büyük ölçekli projelerde bağlam azaltma (context reduction) teknikleriyle kod inceleme süreçlerini optimize ediyor.",
+          "meta": "Python · ★ 23.736 · +1.833 bugün"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Rust diliyle geliştirilen jcode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış akıllı bir kod ajanı (code agent) altyapısı sunuyor. Yazılım projelerinde karmaşık görevleri yerine getirmek amacıyla optimize edilen bu araç, geliştiricilere kod tabanı üzerinde yüksek performanslı bir otomasyon desteği sağlıyor.",
+          "meta": "Rust · ★ 9.837 · +568 bugün"
+        },
+        {
+          "title": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "summary": "OmniRoute, 268'den fazla sağlayıcıyı ve 500'ü aşkın modeli tek bir uç noktada (endpoint) birleştiren ücretsiz bir yapay zekâ ağ geçidi (AI gateway) sunuyor. Kota duyarlı otomatik yedekleme ve belirteç (token) sıkıştırma özellikleri sayesinde geliştiricilerin farklı yapay zekâ araçlarıyla entegre çalışmasını kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 22.302 · +1.107 bugün"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Yapay zekâ mühendisliği (AI engineering) alanına giriş yapmak isteyenler için hazırlanan bu kaynak, temelden başlayarak uygulama geliştirme ve yayına alma süreçlerini kapsayan bir yol haritası sunuyor. Python diliyle hazırlanan içerik, teorik bilgilerin pratik projelerle birleştirildiği bir öğrenme süreci vadediyor.",
+          "meta": "Python · ★ 40.838 · +823 bugün"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-agents, farklı uzmanlık alanlarına sahip yapay zekâ ajanlarını tek bir çatı altında toplayan bir sistem sunuyor. Yazılım geliştirme, topluluk yönetimi ve içerik denetimi gibi görevler için özelleşmiş ajanlar, tanımlı süreçler ve kişilik yapılarıyla iş akışlarını otomatikleştiriyor.",
+          "meta": "Shell · ★ 134.946 · +862 bugün"
+        },
+        {
+          "title": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "summary": "Ktransformers, büyük dil modelleri (large language models) için heterojen çıkarım (inference) ve ince ayar (fine-tuning) süreçlerini optimize eden esnek bir çerçeve sunuyor. Donanım kaynaklarını verimli kullanmayı hedefleyen bu yapı, farklı hesaplama birimleri üzerinde model performansını artırmaya odaklanıyor.",
+          "meta": "Python · ★ 18.785 · +458 bugün"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox, kullanıcıların ses klonlama, dikte ve içerik oluşturma işlemlerini gerçekleştirmesine olanak tanıyan açık kaynaklı bir yapay zekâ ses stüdyosudur. TypeScript diliyle geliştirilen bu platform, ses işleme süreçlerini merkezi bir arayüz üzerinden yönetmeyi sağlar.",
+          "meta": "TypeScript · ★ 44.461 · +821 bugün"
+        },
+        {
+          "title": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "summary": "Cognee, yapay zekâ ajanları için oturumlar arası kalıcı uzun süreli bellek (long-term memory) sağlayan açık kaynaklı bir platformdur. Kendi kendine barındırılan bir bilgi grafiği motoru (knowledge graph engine) kullanarak ajanların verileri yapılandırmasına ve hatırlamasına olanak tanır.",
+          "meta": "Python · ★ 28.875 · +234 bugün"
+        },
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "Lingbot-map, akan verilerden sahne yeniden oluşturma (scene reconstruction) işlemleri için geliştirilmiş ileri beslemeli bir üç boyutlu temel modeldir (3D foundation model). Python diliyle yazılan bu proje, gerçek zamanlı veri akışlarını kullanarak karmaşık ortamları dijital ortama aktarmayı hedefler.",
+          "meta": "Python · ★ 14.396 · +565 bugün"
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open-seo, Semrush ve Ahrefs gibi ücretli araçlara açık kaynaklı bir alternatif sunuyor. Arama motoru optimizasyonu (search engine optimization) verilerini analiz etmek için TypeScript ile geliştirilen bu araç, kullanıcıların kendi altyapıları üzerinde SEO süreçlerini yönetmelerine olanak tanıyor.",
+          "meta": "TypeScript · ★ 6.072 · +939 bugün"
+        },
+        {
+          "title": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi CLI, komut satırı arayüzü (CLI) üzerinden yapay zekâ destekli işlemler gerçekleştiren bir komut satırı ajanıdır (CLI agent). Python diliyle yazılan araç, terminal ortamında geliştirici iş akışlarını otomatize etmeyi hedefler.",
+          "meta": "Python · ★ 10.332 · +410 bugün"
+        },
+        {
+          "title": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "summary": "AstrBot, çeşitli anlık mesajlaşma platformlarını, büyük dil modellerini (large language models) ve eklentileri bir araya getiren bir yapay zekâ ajanı geliştirme çerçevesidir (development framework). Python tabanlı bu açık kaynaklı proje, kullanıcıların kendi özelleştirilebilir yapay zekâ asistanlarını oluşturmalarına olanak tanır.",
+          "meta": "Python · ★ 37.219 · +317 bugün"
+        },
+        {
+          "title": "PrefectHQ/fastmcp",
+          "url": "https://github.com/PrefectHQ/fastmcp",
+          "summary": "FastMCP, Model Bağlam Protokolü (Model Context Protocol - MCP) sunucuları ve istemcileri geliştirmeyi kolaylaştıran Python tabanlı bir çerçevedir (framework). Geliştiricilerin yapay zekâ modelleri ile yerel araçlar arasında hızlı entegrasyon kurmasını sağlar.",
+          "meta": "Python · ★ 26.621 · +96 bugün"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo, yapay zekâ kodlama ajanları için yerel öncelikli (local-first) arama, veri çekme ve tarama yetenekleri sunan bir araçtır. Model Bağlantı Protokolü (MCP) üzerinden çalışan bu sistem, herhangi bir API anahtarı veya bulut hizmeti gerektirmeden ücretsiz araştırma imkanı sağlar.",
+          "meta": "TypeScript · ★ 2.709 · +689 bugün"
+        },
+        {
+          "title": "tokio-rs/topcoat",
+          "url": "https://github.com/tokio-rs/topcoat",
+          "summary": "Tokio ekibi tarafından geliştirilen Topcoat, Rust dilinde web uygulamaları oluşturmak için gerekli tüm araçları barındıran kapsamlı bir çatı (framework) sunuyor. Geliştiricilerin ihtiyaç duyduğu temel bileşenleri tek bir yapıda toplayarak uygulama geliştirme sürecini standartlaştırmayı hedefliyor.",
+          "meta": "Rust · ★ 1.715 · +371 bugün"
+        },
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "Dünya genelindeki herkese açık internet televizyonu (IPTV) yayınlarını tek bir merkezde toplayan bu proje, kullanıcıların canlı yayın kanallarına erişimini kolaylaştırıyor. TypeScript diliyle geliştirilen bu koleksiyon, açık kaynaklı veri setleri üzerinden küresel çapta kanal listeleri sunuyor.",
+          "meta": "TypeScript · ★ 133.863 · +240 bugün"
+        },
+        {
+          "title": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "summary": "OpenShip, kullanıcıların kendi sunucularında barındırabildiği bir uygulama dağıtım platformu (deployment platform) sunuyor. TypeScript diliyle geliştirilen bu araç, bulut tabanlı altyapı hizmetlerine alternatif olarak kendi kendine barındırma (self-hosted) süreçlerini kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 5.130 · +1.641 bugün"
+        },
+        {
+          "title": "microsoft/Ontology-Playground",
+          "url": "https://github.com/microsoft/Ontology-Playground",
+          "summary": "Microsoft tarafından geliştirilen Ontology-Playground, ontolojileri öğrenmek ve Microsoft Fabric IQ üzerinde görsel tasarımlar oluşturmak için kullanılan açık kaynaklı bir web uygulamasıdır. Tamamen statik yapıda çalışan bu araç, kullanıcıların ontoloji modellerini tasarlamasına, RDF/XML formatında dışa aktarmasına ve etkileşimli diyagramlar paylaşmasına olanak tanır.",
+          "meta": "TypeScript · ★ 1.806 · +464 bugün"
+        },
+        {
+          "title": "handy-computer/transcribe.cpp",
+          "url": "https://github.com/handy-computer/transcribe.cpp",
+          "summary": "Transcribe.cpp, 16'dan fazla model ailesini destekleyen ve C++ diliyle geliştirilen bir konuşmayı metne dönüştürme (speech-to-text) çıkarım (inference) kütüphanesidir. Ggml altyapısını kullanan bu araç, farklı ses işleme modellerinin yerel sistemlerde verimli bir şekilde çalıştırılmasını sağlar.",
+          "meta": "C++ · ★ 1.357 · +395 bugün"
+        },
+        {
+          "title": "moonshine-ai/moonshine",
+          "url": "https://github.com/moonshine-ai/moonshine",
+          "summary": "Moonshine, sesli arayüzler ve yapay zekâ ajanları için düşük gecikmeli konuşmayı metne dönüştürme (speech to text), niyet tanıma (intent recognition) ve metni sese dönüştürme (text to speech) yetenekleri sunuyor. C++ diliyle geliştirilen bu kütüphane, gerçek zamanlı ses işleme süreçlerini optimize etmeyi hedefliyor.",
+          "meta": "C++ · ★ 10.028 · +282 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "China’s open-weights AI strategy is winning",
+          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+          "summary": "Çin merkezli yapay zekâ geliştiricileri, açık ağırlıklı (open-weights) modelleri yaygınlaştırarak küresel ekosistemde hızlı bir benimsenme süreci yönetiyor. Kapalı ve mülkiyet odaklı (proprietary) modellerin aksine bu strateji, yerel ve uluslararası geliştiricilerin teknolojiye erişimini kolaylaştırarak rekabet avantajı sağlıyor.",
+          "meta": "1.049 oy · 818 yorum"
+        },
+        {
+          "title": "Hacker wipes Romania's land registry database",
+          "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+          "summary": "Romanya'nın tapu sicil veri tabanı, bir siber saldırı sonucunda tamamen silindi. Olay, kritik kamu altyapılarının veri yedekleme (data backup) ve siber güvenlik süreçlerindeki zafiyetleri gündeme getirdi.",
+          "meta": "620 oy · 344 yorum"
+        },
+        {
+          "title": "Who's afraid of Chinese models?",
+          "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+          "summary": "Çin merkezli yapay zekâ modellerinin küresel pazardaki rekabetçi fiyatlandırması ve açık kaynaklı ekosistemlere entegrasyonu, batılı teknoloji şirketlerinin pazar hakimiyeti üzerinde baskı oluşturuyor. Bu modellerin düşük maliyetli erişilebilirliği, yapay zekâ geliştirme süreçlerinde bölgesel bağımlılıkları ve güvenlik politikalarını yeniden tartışmaya açıyor.",
+          "meta": "497 oy · 340 yorum"
+        },
+        {
+          "title": "Kimi Work",
+          "url": "https://www.kimi.com/products/kimi-work",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi Work, kurumsal ekipler için tasarlanmış bir iş birliği ve üretkenlik platformudur. Sistem, uzun bağlam penceresi (long context window) desteğiyle karmaşık dokümanları analiz ederek ekip içi bilgi yönetimini otomatize eder.",
+          "meta": "488 oy · 207 yorum"
+        },
+        {
+          "title": "Jelly UI: Soft-body physics for native HTML form controls",
+          "url": "https://jelly-ui.com/",
+          "summary": "Jelly UI, yerel HTML form kontrollerine yumuşak gövde fiziği (soft-body physics) uygulayarak arayüz öğelerine esnek bir etkileşim kazandırıyor. Bu kütüphane, web bileşenlerine fizik tabanlı animasyonlar ekleyerek kullanıcı deneyimini daha dinamik hale getiriyor.",
+          "meta": "425 oy · 144 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Thinking Machines tarafından geliştirilen Inkling, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir çok modlu (multimodal) modeldir. Sistem, karmaşık görsel verileri anlamlandırıp metin tabanlı analizler sunmak üzere tasarlanmıştır.",
+          "meta": "♥ 1.285 · 13.462 indirme"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Prism-ml tarafından geliştirilen Ternary-Bonsai-27B, metin üretimi (text generation) için optimize edilmiş bir dil modelidir. Model, yüksek performanslı çıkarım (inference) süreçlerini desteklemek amacıyla GGUF formatında sunulmaktadır.",
+          "meta": "♥ 867 · 338.945 indirme"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Prism-ml tarafından geliştirilen Bonsai-27B, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Model, yüksek performanslı çıkarım (inference) süreçlerini desteklemek amacıyla GGUF formatında sunulmaktadır.",
+          "meta": "♥ 547 · 1.262.894 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel metinleri işleyerek metin çıktısı üreten bir görüntüden metne dönüştürme (image-text-to-text) modelidir. Model, karmaşık dokümanlardaki verileri dijital formata aktarmak amacıyla tasarlanmıştır.",
+          "meta": "♥ 2.479 · 2.122.848 indirme"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "Zai-org tarafından yayınlanan GLM-5.2, metin üretimi (text-generation) görevleri için optimize edilmiş bir dil modelidir. HuggingFace platformunda geniş bir kullanıcı kitlesine ulaşan bu model, doğal dil işleme süreçlerinde metin oluşturma yeteneklerini geliştirmeyi hedefler.",
+          "meta": "♥ 4.235 · 531.947 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "local-first code intelligence graph",
+      "explanation": "Yazılım projelerindeki kod parçalarının birbiriyle olan ilişkilerini, internete ihtiyaç duymadan bilgisayarınızda analiz eden bir haritalama sistemi."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "Yapay zekânın daha hızlı ve doğru çalışması için ona verilen gereksiz bilgilerin ayıklanarak sadece önemli kısımların bırakılması."
+    },
+    {
+      "term": "code agent",
+      "explanation": "Yazılım geliştirme süreçlerinde kod yazma, hata ayıklama ve test etme gibi görevleri kendi başına yerine getirebilen otonom yazılım."
+    },
+    {
+      "term": "endpoint",
+      "explanation": "İki farklı yazılımın birbirine bağlanarak veri alışverişi yaptığı dijital iletişim noktası."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "Farklı yapay zekâ modellerine erişimi yöneten, güvenliği sağlayan ve gelen istekleri düzenleyen bir köprü görevi gören sistem."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekânın metinleri işlerken kullandığı, kelimelere veya hecelere karşılık gelen en küçük anlam birimi."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "Yapay zekâ modellerini kullanarak gerçek dünya problemlerine çözüm üreten uygulamalar geliştirme disiplini."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin, daha önce görmediği yeni veriler üzerinde tahmin veya çıkarım yapma süreci."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Genel amaçlı eğitilmiş bir yapay zekâ modelinin, belirli bir konuda daha uzman olması için küçük ve özel bir veri setiyle tekrar eğitilmesi."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "Yapay zekânın geçmişteki konuşmaları veya bilgileri unutmadan, uzun süreli etkileşimlerde hatırlamasını sağlayan depolama alanı."
+    },
+    {
+      "term": "knowledge graph engine",
+      "explanation": "Bilgileri birbirine bağlı bir ağ yapısında düzenleyerek, karmaşık sorulara anlamlı yanıtlar bulunmasını sağlayan teknoloji."
+    },
+    {
+      "term": "scene reconstruction",
+      "explanation": "Fotoğraf veya video gibi görüntülerden yola çıkarak, fiziksel bir ortamın üç boyutlu dijital kopyasını oluşturma işlemi."
+    },
+    {
+      "term": "search engine optimization",
+      "explanation": "İnternet sitelerinin arama motorlarında daha üst sıralarda çıkması için yapılan düzenleme ve iyileştirme çalışmaları."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "CLI agent",
+      "explanation": "Bilgisayarın komut satırı üzerinden işlemleri otomatik olarak yöneten ve kullanıcı adına görevleri yerine getiren yazılım."
+    }
+  ]
+}
