@@ -1,0 +1,149 @@
+{
+  "date": "2026-07-22",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "Kodlama ajanlarının çıktılarını daha odaklı ve düzenli hale getirmek için geliştirilen i-have-adhd, karmaşık yanıtları parçalara bölerek kullanıcı deneyimini iyileştiriyor. Bu Python tabanlı yetenek (skill), yapay zekânın bilgi sunumunu dikkat eksikliği ve hiperaktivite bozukluğu (ADHD) dostu bir formatta standartlaştırıyor.",
+          "meta": "Python · ★ 7.248 · +1.866 bugün"
+        },
+        {
+          "title": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "summary": "Metinden bilgisayar destekli tasarım (text-to-cad) araçları, robotik ve donanım tasarımı süreçlerini otomatikleştirmek için geliştirilen bir yetenek paketi (agent skills) koleksiyonudur. JavaScript tabanlı bu kütüphane, karmaşık mühendislik modellerinin doğal dil komutlarıyla oluşturulmasına olanak tanır.",
+          "meta": "JavaScript · ★ 9.319 · +291 bugün"
+        },
+        {
+          "title": "tradesdontlie/tradingview-mcp",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "summary": "TradingView-mcp, Claude Code ile TradingView masaüstü uygulamasını birbirine bağlayarak grafik analiz süreçlerini otomatize etmeyi sağlıyor. Bu entegrasyon, kullanıcıların yapay zekâ destekli model bağlamı (Model Context Protocol) üzerinden teknik analiz iş akışlarını kişiselleştirmesine olanak tanıyor.",
+          "meta": "JavaScript · ★ 4.930 · +114 bugün"
+        },
+        {
+          "title": "AlexsJones/llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "summary": "Rust diliyle geliştirilen llmfit, yüzlerce büyük dil modelini (large language model) ve sağlayıcıyı tarayarak donanımınızla uyumlu olanları tek bir komutla tespit etmenizi sağlıyor. Araç, yerel sistem kaynaklarına en uygun modelleri bulma sürecini otomatikleştiriyor.",
+          "meta": "Rust · ★ 30.309 · +129 bugün"
+        },
+        {
+          "title": "hyprwm/Hyprland",
+          "url": "https://github.com/hyprwm/Hyprland",
+          "summary": "Hyprland, Wayland görüntü sunucusu (compositor) üzerinde çalışan ve özelleştirilebilir dinamik döşeme (tiling) yapısı sunan bir pencere yöneticisidir. C++ ile geliştirilen bu araç, görsel estetikten ödün vermeden yüksek performanslı bir masaüstü deneyimi sağlar.",
+          "meta": "C++ · ★ 37.107 · +58 bugün"
+        },
+        {
+          "title": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "summary": "Apollo 11 görevinde kullanılan komuta ve ay modülü rehberlik bilgisayarının (Guidance Computer) orijinal kaynak kodu, montaj dili (Assembly) ile GitHub üzerinde erişime açıldı. Yazılım, Ay'a iniş yapan ilk insanlı görevde kullanılan hesaplama algoritmalarının teknik detaylarını belgeliyor.",
+          "meta": "Assembly · ★ 70.068 · +1.235 bugün"
+        },
+        {
+          "title": "DioxusLabs/dioxus",
+          "url": "https://github.com/DioxusLabs/dioxus",
+          "summary": "Dioxus, web, masaüstü ve mobil platformlar için tek bir kod tabanıyla uçtan uca (fullstack) uygulamalar geliştirmeye olanak tanıyan bir Rust çerçevesidir (framework). React benzeri bileşen tabanlı yapısıyla kullanıcı arayüzü oluşturma sürecini hızlandırarak Rust ekosistemindeki uygulama geliştirme deneyimini standartlaştırır.",
+          "meta": "Rust · ★ 37.762 · +271 bugün"
+        },
+        {
+          "title": "langchain-ai/open_deep_research",
+          "url": "https://github.com/langchain-ai/open_deep_research",
+          "summary": "LangChain tarafından geliştirilen open-deep-research, karmaşık soruları yanıtlamak için internet üzerinde çok adımlı araştırmalar yapan otonom bir sistemdir. Araştırma sürecini planlama, veri toplama ve sentezleme aşamalarıyla otomatize ederek derinlemesine analiz (deep research) süreçlerini kolaylaştırır.",
+          "meta": "Python · ★ 12.307 · +23 bugün"
+        },
+        {
+          "title": "agegr/pi-web",
+          "url": "https://github.com/agegr/pi-web",
+          "summary": "Pi-web, Pi kodlama ajanı için geliştirilmiş bir web tabanlı kullanıcı arayüzü (web UI) sunuyor. TypeScript diliyle yazılan bu araç, kodlama süreçlerini görsel bir arayüz üzerinden yönetmeyi mümkün kılıyor.",
+          "meta": "TypeScript · ★ 1.821 · +298 bugün"
+        },
+        {
+          "title": "schollz/croc",
+          "url": "https://github.com/schollz/croc",
+          "summary": "Croc, iki bilgisayar arasında uçtan uca şifreleme (end-to-end encryption) kullanarak güvenli dosya ve veri aktarımı sağlayan bir araçtır. Go programlama diliyle geliştirilen bu yazılım, aktarım sürecini kolaylaştırmak için geçici bir röle (relay) mekanizması kullanır.",
+          "meta": "Go · ★ 36.970 · +361 bugün"
+        },
+        {
+          "title": "dottxt-ai/outlines",
+          "url": "https://github.com/dottxt-ai/outlines",
+          "summary": "Outlines kütüphanesi, büyük dil modellerinden gelen yanıtları önceden tanımlanmış şemalara göre yapılandırılmış çıktılar (structured outputs) halinde sunulmasını sağlıyor. Geliştiriciler, Python tabanlı bu araçla model çıktılarını düzenli ifadeler (regular expressions) veya bağlamsız dil bilgisi (context-free grammars) kurallarıyla kısıtlayarak veri bütünlüğünü koruyor.",
+          "meta": "Python · ★ 14.917 · +65 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "OpenAI and Hugging Face address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "summary": "OpenAI ve Hugging Face, model değerlendirme süreçleri sırasında yaşanan bir güvenlik ihlali (security incident) üzerinde iş birliği yaparak sorunu çözüme kavuşturdu. Taraflar, sistem güvenliğini artırmak amacıyla değerlendirme altyapılarındaki açıklıkları kapatmaya yönelik güncellemeler gerçekleştirdi.",
+          "meta": "959 oy · 655 yorum"
+        },
+        {
+          "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+          "summary": "Google, Gemini serisini genişleterek hızlı işlem odaklı yeni modelleri olan Gemini 3.6 Flash, 3.5 Flash-Lite ve 3.5 Flash Cyber sürümlerini duyurdu. Bu modeller, farklı hesaplama ihtiyaçlarına yönelik performans ve verimlilik dengesi sunan özelleştirilmiş yapay zekâ (artificial intelligence) seçenekleri sağlıyor.",
+          "meta": "656 oy · 512 yorum"
+        },
+        {
+          "title": "Advertise in ChatGPT",
+          "url": "https://ads.openai.com/",
+          "summary": "OpenAI, ChatGPT kullanıcılarına yönelik reklam yerleşimleri için bir reklam platformu (advertising platform) üzerinde çalışıyor. Bu sistem, markaların yapay zekâ destekli sohbet arayüzleri üzerinden hedef kitlelerine ulaşmasını sağlıyor.",
+          "meta": "600 oy · 435 yorum"
+        },
+        {
+          "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+          "url": "https://fireworks.ai/blog/kimik3-fable",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi K3 modeli, Fable modeliyle rekabet ederek en iyi durum (state-of-the-art) performans seviyelerine ulaşıyor. Fireworks.ai altyapısıyla sunulan bu modeller, çıkarım (inference) süreçlerinde yüksek doğruluk ve hız verimliliği sağlıyor.",
+          "meta": "499 oy · 280 yorum"
+        },
+        {
+          "title": "FreeInk: Open ecosystem for e-readers",
+          "url": "https://freeink.org/",
+          "summary": "FreeInk, e-kitap okuyucular için açık kaynaklı bir ekosistem sunarak cihaz bağımsızlığını ve içerik yönetimini kolaylaştırıyor. Platform, farklı donanımlar arasında standart bir okuma deneyimi ve veri taşınabilirliği sağlamayı hedefliyor.",
+          "meta": "491 oy · 113 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "reteetzad/Kimi-K3",
+          "url": "https://huggingface.co/reteetzad/Kimi-K3",
+          "summary": "Hugging Face üzerinde paylaşılan Kimi-K3 modeli, büyük dil modelleri (large language models) için geliştirilmiş bir ağırlık birleştirme (model merging) çalışmasıdır. Farklı modellerin yeteneklerini bir araya getirerek performans optimizasyonu sağlamayı hedefler.",
+          "meta": "♥ 530 · 0 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "MCP",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarına ve araçlara standart bir yolla bağlanmasını sağlayan bir köprü protokolü."
+    },
+    {
+      "term": "skill",
+      "explanation": "Bir yazılımın veya yapay zekânın belirli bir işlemi gerçekleştirmek için sahip olduğu özelleşmiş yetenek."
+    },
+    {
+      "term": "ADHD",
+      "explanation": "Dikkat dağınıklığı, aşırı hareketlilik ve dürtüsellik ile kendini gösteren, odaklanma güçlüğü yaratan nörolojik bir durum."
+    },
+    {
+      "term": "text-to-cad",
+      "explanation": "Yazılı komutları kullanarak otomatik olarak üç boyutlu teknik çizimler ve modeller oluşturan teknoloji."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Yapay zekâlı yardımcıların internette arama yapmak veya dosya düzenlemek gibi işleri yapabilmesi için kazandığı beceriler."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    }
+  ]
+}
