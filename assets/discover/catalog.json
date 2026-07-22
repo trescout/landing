@@ -5461,5 +5461,182 @@
     "stars": 10028,
     "lite": false,
     "headline": "Gerçek zamanlı yapay zekâ ses araçları"
+  },
+  {
+    "slug": "i-have-adhd",
+    "title": "I Have Adhd",
+    "tagline": "Kodlama ajanlarının çıktılarını daha odaklı ve düzenli hale getirmek için geliştirilen i-have-adhd, karmaşık yanıtları…",
+    "meta": "★ 7.248 · Python",
+    "image": "/assets/discover/og/i-have-adhd.webp",
+    "source": "GitHub",
+    "date": "2026-07-22",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7248,
+    "lite": false,
+    "headline": "yapay zekâ yanıtlarını odaklı hale getirin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "text-to-cad",
+    "title": "Text to Cad",
+    "tagline": "Metinden bilgisayar destekli tasarım (text-to-cad) araçları, robotik ve donanım tasarımı süreçlerini otomatikleştirmek için…",
+    "meta": "★ 9.319 · JavaScript",
+    "image": "/assets/discover/og/text-to-cad.webp",
+    "source": "GitHub",
+    "date": "2026-07-22",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 9319,
+    "lite": false,
+    "headline": "yapay zekâ ile otomatik tasarım"
+  },
+  {
+    "slug": "tradingview-mcp",
+    "title": "Tradingview MCP",
+    "tagline": "TradingView-mcp, Claude Code ile TradingView masaüstü uygulamasını birbirine bağlayarak grafik analiz süreçlerini otomatize…",
+    "meta": "★ 4.930 · JavaScript",
+    "image": "/assets/discover/og/tradingview-mcp.webp",
+    "source": "GitHub",
+    "date": "2026-07-22",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 4930,
+    "lite": false,
+    "headline": "TradingView için yapay zekâ entegrasyonu"
+  },
+  {
+    "slug": "llmfit",
+    "title": "Llmfit",
+    "tagline": "Rust diliyle geliştirilen llmfit, yüzlerce büyük dil modelini (large language model) ve sağlayıcıyı tarayarak donanımınızla…",
+    "meta": "★ 30.309 · Rust",
+    "image": "/assets/discover/og/llmfit.webp",
+    "source": "GitHub",
+    "date": "2026-07-22",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 30309,
+    "lite": false,
+    "headline": "donanımınıza uygun yapay zekâ modellerini bulun"
+  },
+  {
+    "slug": "hyprland",
+    "title": "Hyprland",
+    "tagline": "Hyprland, Wayland görüntü sunucusu (compositor) üzerinde çalışan ve özelleştirilebilir dinamik döşeme (tiling) yapısı sunan…",
+    "meta": "★ 37.107 · C++",
+    "image": "/assets/discover/og/hyprland.webp",
+    "source": "GitHub",
+    "date": "2026-07-22",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 37107,
+    "lite": false,
+    "headline": "Wayland üzerinde özelleştirilebilir masaüstü deneyimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "apollo-11",
+    "title": "Apollo-11",
+    "tagline": "Apollo 11 görevinde kullanılan komuta ve ay modülü rehberlik bilgisayarının (Guidance Computer) orijinal kaynak kodu, montaj…",
+    "meta": "★ 70.068 · Assembly",
+    "image": "/assets/discover/og/apollo-11.webp",
+    "source": "GitHub",
+    "date": "2026-07-22",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 70068,
+    "lite": false,
+    "headline": "Apollo 11 rehberlik bilgisayarı kaynak kodları",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "dioxus",
+    "title": "Dioxus",
+    "tagline": "Dioxus, web, masaüstü ve mobil platformlar için tek bir kod tabanıyla uçtan uca (fullstack) uygulamalar geliştirmeye olanak…",
+    "meta": "★ 37.762 · Rust",
+    "image": "/assets/discover/og/dioxus.webp",
+    "source": "GitHub",
+    "date": "2026-07-22",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 37762,
+    "lite": false,
+    "headline": "Rust ile çok platformlu uygulamalar"
+  },
+  {
+    "slug": "open-deep-research",
+    "title": "Open Deep Research",
+    "tagline": "LangChain tarafından geliştirilen open-deep-research, karmaşık soruları yanıtlamak için internet üzerinde çok adımlı…",
+    "meta": "★ 12.307 · Python",
+    "image": "/assets/discover/og/open-deep-research.webp",
+    "source": "GitHub",
+    "date": "2026-07-22",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 12307,
+    "lite": false,
+    "headline": "Otonom yapay zekâ ile derinlemesine araştırma"
+  },
+  {
+    "slug": "pi-web",
+    "title": "Pi Web",
+    "tagline": "Pi-web, Pi kodlama ajanı için geliştirilmiş bir web tabanlı kullanıcı arayüzü (web UI) sunuyor.",
+    "meta": "★ 1.821 · TypeScript",
+    "image": "/assets/discover/og/pi-web.webp",
+    "source": "GitHub",
+    "date": "2026-07-22",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1821,
+    "lite": false,
+    "headline": "Pi kodlama ajanı için web arayüzü"
+  },
+  {
+    "slug": "croc",
+    "title": "Croc",
+    "tagline": "Croc, iki bilgisayar arasında uçtan uca şifreleme (end-to-end encryption) kullanarak güvenli dosya ve veri aktarımı sağlayan…",
+    "meta": "★ 36.970 · Go",
+    "image": "/assets/discover/og/croc.webp",
+    "source": "GitHub",
+    "date": "2026-07-22",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 36970,
+    "lite": false,
+    "headline": "Güvenli ve kolay dosya transferi"
+  },
+  {
+    "slug": "outlines",
+    "title": "Outlines",
+    "tagline": "Outlines kütüphanesi, büyük dil modellerinden gelen yanıtları önceden tanımlanmış şemalara göre yapılandırılmış çıktılar…",
+    "meta": "★ 14.917 · Python",
+    "image": "/assets/discover/og/outlines.webp",
+    "source": "GitHub",
+    "date": "2026-07-22",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 14917,
+    "lite": false,
+    "headline": "yapay zekâ çıktılarını yapılandırın"
   }
 ]

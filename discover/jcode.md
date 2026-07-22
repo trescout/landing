@@ -47,7 +47,7 @@ Kodlama odaklı yapay zekâ ajanımın performansını ve çoklu oturum yönetim
 - [GitHub deposu →](https://github.com/1jehuang/jcode)
 
 ## İlgili sözlük terimleri
-Rust Artificial Intelligence 
+Harness Rust Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

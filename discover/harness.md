@@ -41,7 +41,7 @@ Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabi
 - [GitHub deposu →](https://github.com/revfactory/harness)
 
 ## İlgili sözlük terimleri
-Plugin Open Source Artificial Intelligence 
+Harness Plugin Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

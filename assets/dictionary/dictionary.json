@@ -2770,5 +2770,26 @@
     "full": "Command Line Interface Agent",
     "cat": "dev",
     "kisa": "Bilgisayarın komut satırı üzerinden işlemleri otomatik olarak yöneten ve kullanıcı adına görevleri yerine getiren bir yazılımdır."
+  },
+  {
+    "slug": "adhd",
+    "en": "ADHD",
+    "full": "Attention Deficit Hyperactivity Disorder",
+    "cat": "ai",
+    "kisa": "Dikkat dağınıklığı, aşırı hareketlilik ve dürtüsellik ile karakterize edilen nörolojik bir durumdur."
+  },
+  {
+    "slug": "text-to-cad",
+    "en": "Text-to-CAD",
+    "full": "Text to Computer-Aided Design",
+    "cat": "dev",
+    "kisa": "Yazılı metin komutlarını kullanarak otomatik olarak üç boyutlu teknik çizimler oluşturan bir teknolojidir."
+  },
+  {
+    "slug": "harness",
+    "en": "Harness",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın veya sistemin beklenen standartlarda çalışıp çalışmadığını denetleyen kontrol mekanizmasıdır."
   }
 ]

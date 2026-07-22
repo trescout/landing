@@ -1,0 +1,46 @@
+# Pi kodlama ajanı için web arayüzü
+
+Pi-web, Pi kodlama ajanı için geliştirilmiş bir web tabanlı kullanıcı arayüzü (web UI) sunuyor. TypeScript diliyle yazılan bu araç, kodlama süreçlerini görsel bir arayüz üzerinden yönetmeyi mümkün kılıyor.
+
+- ★ 1.821
+- TypeScript
+- GitHub Trending · 2026-07-22
+
+## Ne kazandırır?
+- Geçmiş kodlama oturumlarını görsel olarak tarayın
+- Dosyaları tarayıcı üzerinden önizleyin
+- Model ve yetenek ayarlarını arayüzden yönetin
+
+## Kurulum
+
+**Kurulum yapmadan hızlıca çalıştırma**
+
+```
+npx @agegr/pi-web@latest
+```
+
+**Küresel olarak yükleme**
+
+```
+npm install -g @agegr/pi-web
+pi-web
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Pi kodlama ajanı ile yaptığım çalışmaları görselleştirmek ve oturumlarımı daha verimli yönetmek istiyorum. Pi Web aracını kullanarak yerel oturum dosyalarımı tarayıcı üzerinden nasıl görüntüleyebilirim, sohbet geçmişimi nasıl düzenleyebilirim ve proje dosyalarımı arayüz üzerinden nasıl önizleyebilirim? Kurulum sonrası tarayıcıda açılan çalışma alanını kullanarak model yapılandırması ve yetenek yönetimi işlemlerini nasıl daha kolay yapabileceğimi adım adım açıkla.
+
+- **Kimin için:** Pi kodlama ajanı kullanan ve terminal yerine görsel bir web arayüzü ile çalışma süreçlerini yönetmek isteyen yazılımcılar içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/agegr/pi-web)
+
+## İlgili sözlük terimleri
+Terminal Artificial Intelligence 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/pi-web/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
