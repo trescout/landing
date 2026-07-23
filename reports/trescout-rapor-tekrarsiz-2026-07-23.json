@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-23",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "likec4/likec4",
+          "url": "https://github.com/likec4/likec4",
+          "summary": "Likec4, yazılım mimarisini doğrudan kaynak kod üzerinden görselleştiren ve canlı diyagramlar oluşturulmasını sağlayan bir araçtır. Kod tabanıyla eş zamanlı güncellenen mimari şemalar (diagrams) aracılığıyla teknik dokümantasyonun sürekliliğini hedefler.",
+          "meta": "TypeScript · ★ 4.419 · +80 bugün"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos, finansal piyasaların kendine özgü dilini çözümlemek amacıyla geliştirilmiş bir temel modeldir (foundation model). Finansal verilerin karmaşık yapısını analiz ederek piyasa dinamiklerini anlamlandırmak için özelleşmiş bir mimari sunar.",
+          "meta": "Python · ★ 32.705 · +137 bugün",
+          "returning": true
+        },
+        {
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "ComposioHQ tarafından derlenen awesome-claude-skills, Claude yapay zekâ iş akışlarını özelleştirmeye yönelik araçları ve kaynakları bir araya getiriyor. Bu liste, geliştiricilerin Claude için yetenek (skill) paketleri oluşturmasını ve mevcut projeleri entegre etmesini kolaylaştırıyor.",
+          "meta": "Python · ★ 68.956 · +163 bugün"
+        },
+        {
+          "title": "dreamhunter2333/cloudflare_temp_email",
+          "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+          "summary": "Cloudflare altyapısını kullanarak ücretsiz geçici e-posta (temporary email) hizmeti oluşturmayı sağlayan bu araç, e-posta alıp gönderme işlemlerini destekliyor. Proje, eklerin yönetimi, IMAP ve SMTP protokolleri ile Telegram botu entegrasyonu gibi özellikler sunuyor.",
+          "meta": "TypeScript · ★ 10.884 · +68 bugün"
+        },
+        {
+          "title": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "summary": "Rust programlama diliyle geliştirilen Pumpkin, Minecraft sunucularını daha hızlı ve verimli bir şekilde barındırmayı hedefleyen açık kaynaklı bir altyapı sunuyor. Bellek güvenliği ve yüksek performans odaklı yapısıyla sunucu yönetimi süreçlerini optimize etmeyi amaçlıyor.",
+          "meta": "Rust · ★ 8.562 · +108 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+          "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "summary": "Matematikçi Terence Tao, Jacobian sanısı (Jacobian Conjecture) için öne sürülen karşı örneği ChatGPT ile analiz ederek çözüm sürecini değerlendiriyor. Bu tartışma, yapay zekânın karmaşık matematiksel problemleri doğrulama ve çözümleme kapasitesini akademik bir perspektifle inceliyor.",
+          "meta": "766 oy · 455 yorum"
+        },
+        {
+          "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+          "url": "https://bento.page/slides/",
+          "summary": "Bento, tüm sunum dosyasını tek bir HTML belgesi içinde düzenleme, görüntüleme ve iş birliği yapma imkânı sunan bir araçtır. Web ön yüz teknolojilerini kullanan bu platform, kod tabanlı sunum hazırlama süreçlerinde manuel düzenleme ihtiyacını ortadan kaldırarak iş akışını hızlandırmayı hedefler.",
+          "meta": "751 oy · 168 yorum"
+        },
+        {
+          "title": "John C. Dvorak has died",
+          "url": "https://twitter.com/na_announce/status/2079952538040672302",
+          "summary": "Teknoloji yazarı ve eleştirmen John C. Dvorak hayatını kaybetti. Uzun yıllar süren bilişim gazeteciliği kariyeriyle sektörde geniş bir okuyucu kitlesine ulaştı.",
+          "meta": "687 oy · 220 yorum"
+        },
+        {
+          "title": "Are AI labs pelicanmaxxing?",
+          "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+          "summary": "Yapay zekâ laboratuvarları, veri toplama süreçlerinde halka açık internet verilerini yoğun şekilde kullanarak pelikan maksimizasyonu (pelicanmaxxing) olarak adlandırılan bir strateji izliyor. Bu yaklaşım, modellerin eğitiminde kullanılan veri setlerini genişletmek için internetteki tüm içeriği ayrım gözetmeksizin tüketmeyi hedefliyor.",
+          "meta": "468 oy · 181 yorum"
+        },
+        {
+          "title": "GigaToken: ~1000x faster Language model tokenization",
+          "url": "https://github.com/marcelroed/gigatoken/",
+          "summary": "GigaToken, dil modellerinde kullanılan belirteçleştirme (tokenization) işlemini geleneksel yöntemlere kıyasla yaklaşık 1000 kat hızlandıran bir kütüphanedir. Bu teknoloji, büyük veri kümelerinin işlenmesinde hesaplama maliyetini düşürmek amacıyla optimize edilmiş bir dizinleme yapısı kullanır.",
+          "meta": "448 oy · 95 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Poolside tarafından geliştirilen Laguna-S-2.1, metin üretimi (text-generation) görevleri için optimize edilmiş bir dil modelidir. Model, geniş kapsamlı dil işleme yetenekleriyle çeşitli içerik oluşturma süreçlerini desteklemektedir.",
+          "meta": "♥ 420 · 3.056 indirme"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion modeli, görsel ve metin verilerini işleyerek metin çıktısı üreten (image-text-to-text) bir yapay zekâ modelidir. Model, kısıtlamasız (uncensored) yapısıyla farklı veri setlerinin birleştirildiği özelleştirilmiş bir mimari sunar.",
+          "meta": "♥ 340 · 62.842 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skill",
+      "explanation": "Akıllı cihazların veya yazılımların belirli bir komutla yerine getirebildiği özel yetenekler."
+    },
+    {
+      "term": "diagrams",
+      "explanation": "Bir sistemin nasıl çalıştığını veya parçaların birbirine nasıl bağlandığını gösteren basit çizimler."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekânın metinleri işlerken kullandığı, kelimelere veya hecelere karşılık gelen en küçük veri parçası."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Çok geniş veri kümeleriyle eğitilmiş, üzerinde birçok farklı uygulama geliştirilebilen temel yapay zekâ yapısı."
+    }
+  ]
+}
