@@ -50,7 +50,7 @@ Croc aracını kullanarak iki bilgisayar arasında güvenli bir şekilde dosya t
 - [GitHub deposu →](https://github.com/schollz/croc)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+End-to-End Encryption Relay Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

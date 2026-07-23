@@ -2791,5 +2791,40 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bir yazılımın veya sistemin beklenen standartlarda çalışıp çalışmadığını denetleyen kontrol mekanizmasıdır."
+  },
+  {
+    "slug": "end-to-end-encryption",
+    "en": "End-to-End Encryption",
+    "full": "E2EE",
+    "cat": "dev",
+    "kisa": "Mesajların sadece gönderen ve alıcı tarafından okunabildiği, aradaki kimsenin içeriği göremediği bir güvenlik yöntemidir."
+  },
+  {
+    "slug": "relay",
+    "en": "Relay",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Veriyi bir noktadan diğerine aktararak sinyalin ulaşamadığı yerlere taşıyan veya bağlantıyı köprüleyen sistemdir."
+  },
+  {
+    "slug": "diagrams",
+    "en": "Diagrams",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Karmaşık sistemlerin, süreçlerin veya yapıların görsel olarak basitleştirilmiş şemalarıdır."
+  },
+  {
+    "slug": "guidance-computer",
+    "en": "Guidance Computer",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir aracın veya sistemin rotasını hesaplayan, otonom olarak hedefe ulaşmasını sağlayan yönlendirme beynidir."
+  },
+  {
+    "slug": "assembly",
+    "en": "Assembly",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Karmaşık bir sistemi oluşturmak için çeşitli bileşenlerin veya parçaların bir araya getirilmesi sürecidir."
   }
 ]

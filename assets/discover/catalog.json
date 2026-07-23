@@ -5638,5 +5638,72 @@
     "stars": 14917,
     "lite": false,
     "headline": "yapay zekâ çıktılarını yapılandırın"
+  },
+  {
+    "slug": "likec4",
+    "title": "Likec4",
+    "tagline": "Likec4, yazılım mimarisini doğrudan kaynak kod üzerinden görselleştiren ve canlı diyagramlar oluşturulmasını sağlayan bir araçtır.",
+    "meta": "★ 4.419 · TypeScript",
+    "image": "/assets/discover/og/likec4.webp",
+    "source": "GitHub",
+    "date": "2026-07-23",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 4419,
+    "lite": false,
+    "headline": "yazılım mimarinizi canlı diyagramlarla görselleştirin"
+  },
+  {
+    "slug": "awesome-claude-skills",
+    "title": "Awesome Claude Skills",
+    "tagline": "ComposioHQ tarafından derlenen awesome-claude-skills, Claude yapay zekâ iş akışlarını özelleştirmeye yönelik araçları ve…",
+    "meta": "★ 68.956 · Python",
+    "image": "/assets/discover/og/awesome-claude-skills.webp",
+    "source": "GitHub",
+    "date": "2026-07-23",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 68956,
+    "lite": false,
+    "headline": "Claude için hazır yapay zekâ yetenekleri",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "cloudflare-temp-email",
+    "title": "Cloudflare Temp Email",
+    "tagline": "Cloudflare altyapısını kullanarak ücretsiz geçici e-posta (temporary email) hizmeti oluşturmayı sağlayan bu araç, e-posta alıp…",
+    "meta": "★ 10.884 · TypeScript",
+    "image": "/assets/discover/og/cloudflare-temp-email.webp",
+    "source": "GitHub",
+    "date": "2026-07-23",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 10884,
+    "lite": false,
+    "headline": "Cloudflare üzerinde ücretsiz geçici e-posta",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "pumpkin",
+    "title": "Pumpkin",
+    "tagline": "Rust programlama diliyle geliştirilen Pumpkin, Minecraft sunucularını daha hızlı ve verimli bir şekilde barındırmayı…",
+    "meta": "★ 8.562 · Rust",
+    "image": "/assets/discover/og/pumpkin.webp",
+    "source": "GitHub",
+    "date": "2026-07-23",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 8562,
+    "lite": false,
+    "headline": "Rust ile hızlı Minecraft sunucuları",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

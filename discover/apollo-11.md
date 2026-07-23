@@ -20,6 +20,9 @@ Bu depo, Apollo 11 görevinde kullanılan rehberlik bilgisayarının orijinal ka
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/chrislgarry/Apollo-11)
 
+## İlgili sözlük terimleri
+Guidance Computer Assembly 
+
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
 ---
