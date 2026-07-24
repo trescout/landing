@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-24",
+  "editorial": "Günün odak noktası sistem izleme (monitoring) ve otonom görev yönetimi araçları üzerine yoğunlaşıyor. GitHub verileri, özellikle altyapı takibi (infrastructure monitoring) ve yazılım geliştirme süreçlerini hızlandıran otomasyon kütüphanelerinin (automation libraries) yükselişte olduğunu gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Block tarafından Rust diliyle geliştirilen Buzz, merkeziyetsiz bir kovan zihni iletişim platformu (hive mind communication platform) olarak tasarlanmıştır. Dağıtık ağ yapısı üzerinden kolektif veri paylaşımını ve eş zamanlı etkileşimi destekleyen bir altyapı sunar.",
+          "meta": "Rust · ★ 7.593 · +2.162 bugün"
+        },
+        {
+          "title": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "summary": "Worldmonitor, yapay zekâ destekli haber derleme, jeopolitik izleme ve altyapı takibi özelliklerini tek bir arayüzde birleştiren gerçek zamanlı bir küresel istihbarat paneli (global intelligence dashboard) sunuyor. TypeScript ile geliştirilen bu araç, karmaşık veri akışlarını analiz ederek kullanıcıların durumsal farkındalık (situational awareness) kazanmasını sağlıyor.",
+          "meta": "TypeScript · ★ 72.095 · +3.175 bugün"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos, finansal piyasaların kendine has dilini çözümlemek için geliştirilmiş bir temel modeldir (foundation model). Finansal verilerin işlenmesi ve analiz edilmesi süreçlerinde uzmanlaşmış bir yapay zekâ mimarisi sunar.",
+          "meta": "Python · ★ 33.209 · +401 bugün"
+        },
+        {
+          "title": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "summary": "Rust diliyle geliştirilen Pumpkin, yüksek performanslı ve verimli Minecraft sunucuları barındırmayı hedefleyen açık kaynaklı bir platformdur. Yazılım, oyun sunucusu yönetimi süreçlerini hızlandırmak için bellek güvenliği odaklı bir altyapı sunar.",
+          "meta": "Rust · ★ 9.034 · +565 bugün"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite, kullanıcılar ve yapay zekâ ajanları (AI agents) için eş zamanlı çalışma imkânı sunan bir tarayıcıdır. JavaScript tabanlı bu araç, insan ve makine etkileşimini aynı tarayıcı ortamında paralel şekilde yürütmeyi hedefler.",
+          "meta": "JavaScript · ★ 1.896 · +247 bugün"
+        },
+        {
+          "title": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "summary": "Apollo 11 görevinde kullanılan komuta ve ay modüllerine ait rehberlik bilgisayarı (Guidance Computer) kaynak kodları, montaj dili (Assembly) ile GitHub üzerinde erişime açıldı. Bu arşiv, uzay programı tarihindeki temel yazılım mimarisini ve düşük seviyeli programlama yöntemlerini inceleme imkanı sunuyor.",
+          "meta": "Assembly · ★ 71.188 · +592 bugün"
+        },
+        {
+          "title": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "summary": "OmniRoute, 290'dan fazla sağlayıcı ve 500'ü aşkın modeli tek bir uç nokta (endpoint) üzerinden erişilebilir kılan açık kaynaklı bir yapay zekâ ağ geçididir (AI gateway). Geliştiricilere kota duyarlı otomatik yedekleme ve belirteç (token) sıkıştırma özellikleri sunarak uygulama geliştirme süreçlerini optimize eder.",
+          "meta": "TypeScript · ★ 27.625 · +1.929 bugün"
+        },
+        {
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "ComposioHQ tarafından derlenen awesome-claude-skills listesi, Claude yapay zekâ iş akışlarını özelleştirmek için kullanılan yetenek paketleri (skills), araçlar ve kaynakları bir araya getiriyor. Bu Python tabanlı koleksiyon, geliştiricilerin yapay zekâ ajanları için işlevsel entegrasyonlar oluşturmasını kolaylaştırıyor.",
+          "meta": "Python · ★ 69.587 · +636 bugün"
+        },
+        {
+          "title": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "summary": "Metinden bilgisayar destekli tasarım (text-to-cad) araçları, donanım tasarımı ve robotik süreçlerini otomatikleştirmek için geliştirilen bir dizi yapay zekâ ajanı yeteneği (agent skills) sunuyor. JavaScript tabanlı bu koleksiyon, karmaşık mühendislik modellerinin doğal dil komutlarıyla oluşturulmasını sağlıyor.",
+          "meta": "JavaScript · ★ 10.149 · +230 bugün"
+        },
+        {
+          "title": "agegr/pi-web",
+          "url": "https://github.com/agegr/pi-web",
+          "summary": "Pi-web, Pi kodlama ajanı için geliştirilmiş bir web tabanlı kullanıcı arayüzü (web UI) sunuyor. TypeScript ile yazılan bu araç, yazılım geliştirme süreçlerinde ajan tabanlı etkileşimleri görselleştirmeyi sağlıyor.",
+          "meta": "TypeScript · ★ 2.472 · +315 bugün"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli (LLM) ajanlarını hibrit bir yapıda birleştiriyor. Yazılım güvenliği kuralları ve satır bazlı yorumlama yetenekleriyle donatılan araç, Go diliyle yazılmış olup OpenAI ve Anthropic uyumlu bir altyapı sunuyor.",
+          "meta": "Go · ★ 11.836 · +180 bugün"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView, standart kablosuz ağ (WiFi) sinyallerini kullanarak görüntü verisine ihtiyaç duymadan gerçek zamanlı mekânsal zekâ, hayati bulgu takibi ve varlık algılama işlemleri gerçekleştiriyor. Rust diliyle geliştirilen bu teknoloji, mevcut sinyal altyapısını kullanarak temassız bir izleme çözümü sunuyor.",
+          "meta": "Rust · ★ 85.395 · +1.708 bugün"
+        },
+        {
+          "title": "likec4/likec4",
+          "url": "https://github.com/likec4/likec4",
+          "summary": "LikeC4, kaynak koddan canlı ve güncel yazılım mimarisi diyagramları (software architecture diagrams) oluşturulmasını sağlayan bir araçtır. Yazılım yapısını görselleştirmek ve iş birliği içinde geliştirmek için kod tabanıyla senkronize çalışan bir modelleme dili sunar.",
+          "meta": "TypeScript · ★ 4.787 · +472 bugün"
+        },
+        {
+          "title": "Automattic/harper",
+          "url": "https://github.com/Automattic/harper",
+          "summary": "Harper, Rust diliyle geliştirilen çevrim dışı ve gizlilik odaklı bir dil bilgisi denetleyicisi (grammar checker) sunuyor. Açık kaynaklı bu araç, metin analizi süreçlerinde yüksek performanslı ve güvenli bir alternatif oluşturmayı hedefliyor.",
+          "meta": "Rust · ★ 12.510 · +624 bugün"
+        },
+        {
+          "title": "jellyfin/jellyfin",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "summary": "Jellyfin, kullanıcıların kendi medya koleksiyonlarını yönetmelerini ve yayınlamalarını sağlayan özgür bir medya sistemi (media system) sunuyor. C# diliyle geliştirilen bu sunucu arka ucu (server backend) ve uygulama programlama arayüzü (API), merkezi bir medya sunucusu kurmak için açık kaynaklı bir alternatif oluşturuyor.",
+          "meta": "C# · ★ 54.815 · +66 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Writing by hand is good for your brain",
+          "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+          "summary": "El ile yazma pratiği, bilişsel süreçleri destekleyerek öğrenme ve hafıza tutma kapasitesini dijital araçlara kıyasla artırıyor. Nörolojik etkileşimler, fiziksel yazma eyleminin zihinsel odaklanma ve bilgi işleme süreçleri üzerindeki olumlu katkılarını ortaya koyuyor.",
+          "meta": "1.176 oy · 546 yorum"
+        },
+        {
+          "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "summary": "Teknoloji girişimi kurucuları, Amerika Birleşik Devletleri hükümetine Çin menşeli açık ağırlıklı yapay zekâ (open weight AI) modellerine erişimi kısıtlamaması çağrısında bulunuyor. Bu kısıtlamaların inovasyonu yavaşlatacağını ve açık kaynaklı yapay zekâ ekosistemine zarar vereceğini savunuyorlar.",
+          "meta": "848 oy · 721 yorum"
+        },
+        {
+          "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+          "summary": "OpenAI, model değerlendirme süreçleri sırasında Hugging Face üzerinde beklenmedik bir güvenlik ihlaline (security incident) yol açtı. İki kurum, yaşanan bu teknik aksaklığın ardından sistem güvenliğini artırmak amacıyla iş birliği içinde çalışıyor.",
+          "meta": "464 oy · 370 yorum"
+        },
+        {
+          "title": "98.css",
+          "url": "https://jdan.github.io/98.css/#status-bar",
+          "summary": "98.css, Windows 98 görsel dilini web arayüzlerine taşımak için geliştirilmiş bir stil sayfası (stylesheet) kütüphanesidir. Geliştiricilerin modern web projelerinde nostaljik bir kullanıcı arayüzü (user interface) oluşturmasına olanak tanır.",
+          "meta": "400 oy · 91 yorum"
+        },
+        {
+          "title": "What happened to TheNumbers.com",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "summary": "Film endüstrisi verilerini derleyen TheNumbers.com sitesinin aniden çevrimdışı olması, dijital arşivlerin ve veri kaynaklarının sürekliliği konusundaki riskleri gündeme getiriyor. Bu durum, merkezi platformlara dayalı bilgi depolama yöntemlerinin veri kaybı (data loss) karşısındaki kırılganlığını ortaya koyuyor.",
+          "meta": "341 oy · 148 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel tabanlı metinleri metin verisine dönüştüren bir görüntüden metne (image-to-text) modelidir. Karmaşık dokümanlardaki verileri dijitalleştirmek için tasarlanan bu model, optik karakter tanıma (OCR) süreçlerinde yüksek doğruluk hedefliyor.",
+          "meta": "♥ 2.917 · 2.414.259 indirme"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Thinking Machines tarafından geliştirilen Inkling, görsel ve metinsel verileri girdi olarak işleyerek metin tabanlı çıktılar üreten bir çok modlu (multimodal) modeldir. Sistem, görüntü ve metin arasındaki ilişkileri çözümleyerek karmaşık bağlamlarda anlamlı yanıtlar oluşturma yeteneği sunar.",
+          "meta": "♥ 1.517 · 24.669 indirme"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Poolside tarafından geliştirilen Laguna-S-2.1, metin üretimi (text generation) odaklı bir dil modelidir. Geliştiricilerin doğal dil işleme görevlerinde kullanması için tasarlanmış olan bu model, HuggingFace platformunda erişime sunulmuştur.",
+          "meta": "♥ 535 · 13.285 indirme"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Upstage tarafından geliştirilen Solar-Open2-250B, metin üretimi (text-generation) görevleri için tasarlanmış geniş ölçekli bir dil modelidir. Model, yüksek parametre kapasitesiyle karmaşık dil işleme süreçlerinde performans artışı sağlamayı amaçlamaktadır.",
+          "meta": "♥ 483 · 362 indirme"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion modeli, görsel ve metin tabanlı girdileri işleyerek metin çıktısı üreten bir çok modlu (multimodal) yapay zekâ modelidir. Sansürsüz yapısı ve geniş parametre sayısı ile karmaşık veri setlerinde esnek bir kullanım alanı sunar.",
+          "meta": "♥ 418 · 334.847 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "hive mind communication platform",
+      "explanation": "Bir grup insanın veya sistemin ortak bir akıl gibi hareket etmesini sağlayan, fikirlerin hızla paylaşıldığı dijital ortam."
+    },
+    {
+      "term": "global intelligence dashboard",
+      "explanation": "Dünyanın dört bir yanından gelen verilerin tek bir ekranda özetlenerek analiz edildiği yönetim paneli."
+    },
+    {
+      "term": "situational awareness",
+      "explanation": "Bir sistemin çevresinde olup bitenleri anlık olarak algılayıp mevcut durumu doğru yorumlaması."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Farklı birçok görevi yerine getirmek için eğitilmiş, üzerine başka uygulamaların inşa edildiği devasa yapay zekâ altyapısı."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip hedeflenen işleri sizin yerinize yerine getiren otonom yazılımlar."
+    },
+    {
+      "term": "Guidance Computer",
+      "explanation": "Bir aracın veya sistemin rotasını belirleyip hedefe ulaşmasını sağlayan yönlendirme bilgisayarı."
+    },
+    {
+      "term": "Assembly",
+      "explanation": "Bilgisayarın donanımıyla doğrudan iletişim kuran, en temel seviyedeki düşük düzeyli programlama dili."
+    },
+    {
+      "term": "endpoint",
+      "explanation": "Bir ağa bağlı olan bilgisayar, telefon veya sunucu gibi iletişimin başladığı ya da bittiği uç nokta."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "Farklı yapay zekâ servislerine erişimi düzenleyen, güvenliği sağlayan ve trafiği yöneten geçiş kapısı."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekânın metinleri işlerken kullandığı, kelime veya hece parçalarına karşılık gelen en küçük veri birimi."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya yapay zekânın belirli bir işlemi gerçekleştirmek için sahip olduğu özel yetenekler."
+    },
+    {
+      "term": "text-to-cad",
+      "explanation": "Yazılan metin komutlarını otomatik olarak üç boyutlu teknik çizimlere dönüştüren teknoloji."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Yapay zekâlı yazılımın karmaşık görevleri tamamlamak için kullandığı özelleşmiş beceriler bütünü."
+    },
+    {
+      "term": "web UI",
+      "explanation": "Bir yazılımı internet tarayıcısı üzerinden kullanmanızı sağlayan görsel arayüz."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "Verilerin bir aşamadan diğerine geçerek işlendiği ve nihai sonuca ulaştığı otomatik süreç hattı."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    }
+  ]
+}

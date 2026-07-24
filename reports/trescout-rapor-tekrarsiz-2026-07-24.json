@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-24",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Block tarafından Rust diliyle geliştirilen Buzz, merkeziyetsiz bir kovan zihni iletişim platformu (hive mind communication platform) olarak tasarlanmıştır. Dağıtık ağ yapısı üzerinden kolektif veri paylaşımını ve eş zamanlı etkileşimi destekleyen bir altyapı sunar.",
+          "meta": "Rust · ★ 7.593 · +2.162 bugün"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite, kullanıcılar ve yapay zekâ ajanları (AI agents) için eş zamanlı çalışma imkânı sunan bir tarayıcıdır. JavaScript tabanlı bu araç, insan ve makine etkileşimini aynı tarayıcı ortamında paralel şekilde yürütmeyi hedefler.",
+          "meta": "JavaScript · ★ 1.896 · +247 bugün"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli (LLM) ajanlarını hibrit bir yapıda birleştiriyor. Yazılım güvenliği kuralları ve satır bazlı yorumlama yetenekleriyle donatılan araç, Go diliyle yazılmış olup OpenAI ve Anthropic uyumlu bir altyapı sunuyor.",
+          "meta": "Go · ★ 11.836 · +180 bugün"
+        },
+        {
+          "title": "Automattic/harper",
+          "url": "https://github.com/Automattic/harper",
+          "summary": "Harper, Rust diliyle geliştirilen çevrim dışı ve gizlilik odaklı bir dil bilgisi denetleyicisi (grammar checker) sunuyor. Açık kaynaklı bu araç, metin analizi süreçlerinde yüksek performanslı ve güvenli bir alternatif oluşturmayı hedefliyor.",
+          "meta": "Rust · ★ 12.510 · +624 bugün"
+        },
+        {
+          "title": "jellyfin/jellyfin",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "summary": "Jellyfin, kullanıcıların kendi medya koleksiyonlarını yönetmelerini ve yayınlamalarını sağlayan özgür bir medya sistemi (media system) sunuyor. C# diliyle geliştirilen bu sunucu arka ucu (server backend) ve uygulama programlama arayüzü (API), merkezi bir medya sunucusu kurmak için açık kaynaklı bir alternatif oluşturuyor.",
+          "meta": "C# · ★ 54.815 · +66 bugün",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Writing by hand is good for your brain",
+          "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+          "summary": "El ile yazma pratiği, bilişsel süreçleri destekleyerek öğrenme ve hafıza tutma kapasitesini dijital araçlara kıyasla artırıyor. Nörolojik etkileşimler, fiziksel yazma eyleminin zihinsel odaklanma ve bilgi işleme süreçleri üzerindeki olumlu katkılarını ortaya koyuyor.",
+          "meta": "1.176 oy · 546 yorum"
+        },
+        {
+          "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "summary": "Teknoloji girişimi kurucuları, Amerika Birleşik Devletleri hükümetine Çin menşeli açık ağırlıklı yapay zekâ (open weight AI) modellerine erişimi kısıtlamaması çağrısında bulunuyor. Bu kısıtlamaların inovasyonu yavaşlatacağını ve açık kaynaklı yapay zekâ ekosistemine zarar vereceğini savunuyorlar.",
+          "meta": "848 oy · 721 yorum"
+        },
+        {
+          "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+          "summary": "OpenAI, model değerlendirme süreçleri sırasında Hugging Face üzerinde beklenmedik bir güvenlik ihlaline (security incident) yol açtı. İki kurum, yaşanan bu teknik aksaklığın ardından sistem güvenliğini artırmak amacıyla iş birliği içinde çalışıyor.",
+          "meta": "464 oy · 370 yorum"
+        },
+        {
+          "title": "98.css",
+          "url": "https://jdan.github.io/98.css/#status-bar",
+          "summary": "98.css, Windows 98 görsel dilini web arayüzlerine taşımak için geliştirilmiş bir stil sayfası (stylesheet) kütüphanesidir. Geliştiricilerin modern web projelerinde nostaljik bir kullanıcı arayüzü (user interface) oluşturmasına olanak tanır.",
+          "meta": "400 oy · 91 yorum"
+        },
+        {
+          "title": "What happened to TheNumbers.com",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "summary": "Film endüstrisi verilerini derleyen TheNumbers.com sitesinin aniden çevrimdışı olması, dijital arşivlerin ve veri kaynaklarının sürekliliği konusundaki riskleri gündeme getiriyor. Bu durum, merkezi platformlara dayalı bilgi depolama yöntemlerinin veri kaybı (data loss) karşısındaki kırılganlığını ortaya koyuyor.",
+          "meta": "341 oy · 148 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Upstage tarafından geliştirilen Solar-Open2-250B, metin üretimi (text-generation) görevleri için tasarlanmış geniş ölçekli bir dil modelidir. Model, yüksek parametre kapasitesiyle karmaşık dil işleme süreçlerinde performans artışı sağlamayı amaçlamaktadır.",
+          "meta": "♥ 483 · 362 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "hive mind communication platform",
+      "explanation": "Bir grup insanın veya sistemin ortak bir akıl gibi hareket etmesini sağlayan, fikirlerin hızla paylaşıldığı dijital ortam."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip hedeflenen işleri sizin yerinize yerine getiren otonom yazılımlar."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "Verilerin bir aşamadan diğerine geçerek işlendiği ve nihai sonuca ulaştığı otomatik süreç hattı."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    }
+  ]
+}
