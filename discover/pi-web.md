@@ -37,7 +37,7 @@ Pi kodlama ajanı ile yaptığım çalışmaları görselleştirmek ve oturumlar
 - [GitHub deposu →](https://github.com/agegr/pi-web)
 
 ## İlgili sözlük terimleri
-Terminal Artificial Intelligence 
+Web UI Terminal Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

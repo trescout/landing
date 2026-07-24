@@ -5705,5 +5705,69 @@
     "headline": "Rust ile hızlı Minecraft sunucuları",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "buzz",
+    "title": "Buzz",
+    "tagline": "Block tarafından Rust diliyle geliştirilen Buzz, merkeziyetsiz bir kovan zihni iletişim platformu (hive mind communication…",
+    "meta": "★ 7.593 · Rust",
+    "image": "/assets/discover/og/buzz.webp",
+    "source": "GitHub",
+    "date": "2026-07-24",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 7593,
+    "lite": false,
+    "headline": "yapay zekâ ajanlarıyla ortak çalışma alanı"
+  },
+  {
+    "slug": "ego-lite",
+    "title": "Ego Lite",
+    "tagline": "Ego-lite, kullanıcılar ve yapay zekâ ajanları (AI agents) için eş zamanlı çalışma imkânı sunan bir tarayıcıdır.",
+    "meta": "★ 1.896 · JavaScript",
+    "image": "/assets/discover/og/ego-lite.webp",
+    "source": "GitHub",
+    "date": "2026-07-24",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1896,
+    "lite": false,
+    "headline": "yapay zekâ ajanları için eş zamanlı tarayıcı"
+  },
+  {
+    "slug": "open-code-review",
+    "title": "Open Code Review",
+    "tagline": "Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli…",
+    "meta": "★ 11.836 · Go",
+    "image": "/assets/discover/og/open-code-review.webp",
+    "source": "GitHub",
+    "date": "2026-07-24",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 11836,
+    "lite": false,
+    "headline": "yapay zekâ destekli hassas kod inceleme"
+  },
+  {
+    "slug": "harper",
+    "title": "Harper",
+    "tagline": "Harper, Rust diliyle geliştirilen çevrim dışı ve gizlilik odaklı bir dil bilgisi denetleyicisi (grammar checker) sunuyor.",
+    "meta": "★ 12.510 · Rust",
+    "image": "/assets/discover/og/harper.webp",
+    "source": "GitHub",
+    "date": "2026-07-24",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 12510,
+    "lite": false,
+    "headline": "Gizlilik odaklı çevrim dışı dil bilgisi denetleyicisi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

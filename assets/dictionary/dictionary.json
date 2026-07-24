@@ -2826,5 +2826,19 @@
     "full": "",
     "cat": "dev",
     "kisa": "Karmaşık bir sistemi oluşturmak için çeşitli bileşenlerin veya parçaların bir araya getirilmesi sürecidir."
+  },
+  {
+    "slug": "hive-mind-communication-platform",
+    "en": "Hive Mind Communication Platform",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bireylerin veya sistemlerin tek bir ortak zihin gibi hareket etmesini sağlayan kolektif iletişim alanı."
+  },
+  {
+    "slug": "web-ui",
+    "en": "Web UI",
+    "full": "Web User Interface",
+    "cat": "dev",
+    "kisa": "Bir yazılımı bilgisayarınıza kurmak yerine internet tarayıcısı üzerinden kullanmanıza olanak tanıyan görsel arayüz."
   }
 ]

@@ -30,7 +30,7 @@ Sen bir yapay zekâ ajanı geliştirme uzmanısın. Bana 'Agent = LLM + Bağlam 
 - [GitHub deposu →](https://github.com/bojieli/ai-agent-book)
 
 ## İlgili sözlük terimleri
-AI Agent AI Agents RAG Agents LLM PDF 
+AI Agent AI Agents RAG Agents PDF LLM 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

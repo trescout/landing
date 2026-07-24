@@ -27,7 +27,7 @@ Kaynak: PyPI · paddleocr (resmî paket)
 - [GitHub deposu →](https://github.com/PaddlePaddle/PaddleOCR)
 
 ## İlgili sözlük terimleri
-Optical Character Recognition Markdown RAG LLM PDF Artificial Intelligence 
+Optical Character Recognition Markdown RAG PDF LLM Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
