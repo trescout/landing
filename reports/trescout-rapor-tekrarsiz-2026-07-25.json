@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-25",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Go diliyle geliştirilen superfile, terminal tabanlı dosya yöneticilerine modern ve görsel açıdan zengin bir arayüz kazandırıyor. Kullanıcılar, komut satırı üzerinde dosya işlemlerini daha estetik ve işlevsel bir deneyimle yönetebiliyor.",
+          "meta": "Go · ★ 19.700 · +338 bugün"
+        },
+        {
+          "title": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "summary": "Dive into LLMs, büyük dil modellerinin (large language models) çalışma prensiplerini Jupyter Notebook dosyaları üzerinden uygulamalı olarak öğreten bir eğitim serisidir. Proje, temel kavramlardan ileri seviye tekniklere kadar geniş bir yelpazede kodlama pratikleri sunarak model geliştirme süreçlerini somutlaştırır.",
+          "meta": "Jupyter Notebook · ★ 45.115 · +328 bugün"
+        },
+        {
+          "title": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "summary": "Chat2DB, yapay zekâ destekli bir veritabanı yönetim aracı ve SQL istemcisi (SQL client) olarak öne çıkıyor. Java ile geliştirilen bu platform, MySQL, PostgreSQL ve Oracle gibi çok sayıda veritabanı sistemini tek bir grafik kullanıcı arayüzü (GUI) üzerinden yönetme imkânı sağlıyor.",
+          "meta": "Java · ★ 26.409 · +82 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "summary": "Anthropic, gelişmiş akıl yürütme ve karmaşık problem çözme kapasitesine odaklanan yeni büyük dil modeli Claude 3.5 Opus'u duyurdu. Model, sistem kartı üzerinden paylaşılan güvenlik iyileştirmeleri ve güncellenmiş teknik mimarisiyle yüksek performanslı yapay zekâ (artificial intelligence) standartlarını hedefliyor.",
+          "meta": "1.441 oy · 790 yorum"
+        },
+        {
+          "title": "If coding has been solved, why does software keep getting worse?",
+          "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+          "summary": "Yazılım geliştirme süreçlerinin otomasyonu ve yapay zekâ destekli kod üretimi (AI-assisted coding) yaygınlaşmasına rağmen, son kullanıcı deneyimindeki teknik aksaklıklar ve yazılım kalitesindeki düşüş tartışmaları devam ediyor. Uzmanlar, kod yazma hızındaki artışın sistem karmaşıklığını yönetme becerisiyle örtüşmediğini ve teknik borç (technical debt) birikiminin yazılım ekosistemini olumsuz etkilediğini vurguluyor.",
+          "meta": "683 oy · 516 yorum"
+        },
+        {
+          "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+          "summary": "Nvidia, Microsoft ve Meta, açık ağırlıklı modellerin (open-weight models) aşırı düzenlenmesinin teknolojik inovasyonu kısıtlayacağını savunuyor. Teknoloji şirketleri, bu modellerin kısıtlanması yerine güvenlik standartlarının geliştirilmesini öneriyor.",
+          "meta": "573 oy · 255 yorum"
+        },
+        {
+          "title": "India's first privately-developed rocket reaches orbit on debut launch",
+          "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+          "summary": "Hindistan merkezli özel bir uzay girişimi, geliştirdiği ilk roketiyle ilk deneme uçuşunda yörüngeye ulaşmayı başardı. Bu gelişme, ülkenin ticari uzay taşımacılığı (commercial spaceflight) sektöründeki yetkinliğini ve özel sektörün uzay ekonomisindeki rolünü artırıyor.",
+          "meta": "557 oy · 163 yorum"
+        },
+        {
+          "title": "My security camera shipped a GitHub admin token in its login page",
+          "url": "https://hhh.hn/hanwha-github-token/",
+          "summary": "Hanwha Vision güvenlik kameralarının giriş sayfasında, GitHub yönetici erişim anahtarı (admin token) açık kaynak kodlu olarak yer alıyor. Bu durum, cihazların yazılım geliştirme sürecinde hassas verilerin (sensitive data) yanlışlıkla dışa aktarıldığını ortaya koyuyor.",
+          "meta": "550 oy · 186 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zeka modelleri."
+    }
+  ]
+}
