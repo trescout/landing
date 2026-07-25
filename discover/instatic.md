@@ -30,7 +30,7 @@ Sayfa düzenleme arayüzünde yapay zekâ ajanını kullanarak belirtilen tasar�
 - [GitHub deposu →](https://github.com/CoreBunch/Instatic)
 
 ## İlgili sözlük terimleri
-Self-hosted Artificial Intelligence 
+CMS Self-hosted Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

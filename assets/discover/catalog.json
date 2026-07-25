@@ -5769,5 +5769,54 @@
     "headline": "Gizlilik odaklı çevrim dışı dil bilgisi denetleyicisi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "superfile",
+    "title": "Superfile",
+    "tagline": "Go diliyle geliştirilen superfile, terminal tabanlı dosya yöneticilerine modern ve görsel açıdan zengin bir arayüz kazandırıyor.",
+    "meta": "★ 19.700 · Go",
+    "image": "/assets/discover/og/superfile.webp",
+    "source": "GitHub",
+    "date": "2026-07-25",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 19700,
+    "lite": false,
+    "headline": "Terminalde modern dosya yönetimi"
+  },
+  {
+    "slug": "dive-into-llms",
+    "title": "Dive Into Llms",
+    "tagline": "Dive into LLMs, büyük dil modellerinin (large language models) çalışma prensiplerini Jupyter Notebook dosyaları üzerinden…",
+    "meta": "★ 45.115 · Jupyter Notebook",
+    "image": "/assets/discover/og/dive-into-llms.webp",
+    "source": "GitHub",
+    "date": "2026-07-25",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 45115,
+    "lite": false,
+    "headline": "Uygulamalı yapay zekâ eğitim serisi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "chat2db",
+    "title": "Chat2DB",
+    "tagline": "Chat2DB, yapay zekâ destekli bir veritabanı yönetim aracı ve SQL istemcisi (SQL client) olarak öne çıkıyor.",
+    "meta": "★ 26.409 · Java",
+    "image": "/assets/discover/og/chat2db.webp",
+    "source": "GitHub",
+    "date": "2026-07-25",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 26409,
+    "lite": false,
+    "headline": "yapay zekâ destekli veritabanı yönetimi"
   }
 ]

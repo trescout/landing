@@ -1,0 +1,45 @@
+# yapay zekâ destekli veritabanı yönetimi
+
+Chat2DB, yapay zekâ destekli bir veritabanı yönetim aracı ve SQL istemcisi (SQL client) olarak öne çıkıyor. Java ile geliştirilen bu platform, MySQL, PostgreSQL ve Oracle gibi çok sayıda veritabanı sistemini tek bir grafik kullanıcı arayüzü (GUI) üzerinden yönetme imkânı sağlıyor.
+
+- ★ 26.409
+- Java
+- GitHub Trending · 2026-07-25
+
+## Ne kazandırır?
+- 30'dan fazla veritabanı desteği
+- Doğal dille SQL oluşturma ve açıklama
+- Görsel veri yönetimi ve paneller
+
+## Kurulum
+
+**Docker ile kurulum**
+
+```
+./script/security/init-community-encryption-key.sh
+docker compose --file docker/docker-compose.yml up --detach
+```
+
+**Şifreleme anahtarı oluşturma**
+
+```
+./script/security/init-community-encryption-key.sh
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Veritabanı tablolarımı analiz et, karmaşık SQL sorgularını doğal dilde açıkla ve mevcut sorgularımı performans için optimize et. Veritabanı şemamdaki ilişkileri anlamama yardımcı ol ve gerekli DDL/DML komutlarını oluştur.
+
+- **Kimin için:** Veritabanı yöneticileri, veri analistleri ve SQL süreçlerini yapay zekâ ile hızlandırmak isteyen geliştiriciler için uygundur. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/OtterMind/Chat2DB)
+
+## İlgili sözlük terimleri
+GUI Artificial Intelligence 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/chat2db/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

@@ -2840,5 +2840,40 @@
     "full": "Web User Interface",
     "cat": "dev",
     "kisa": "Bir yazılımı bilgisayarınıza kurmak yerine internet tarayıcısı üzerinden kullanmanıza olanak tanıyan görsel arayüz."
+  },
+  {
+    "slug": "grammar-checker",
+    "en": "Grammar Checker",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yazılı metinlerdeki dil bilgisi, imla ve noktalama hatalarını otomatik olarak tespit edip düzelten yazılımlardır."
+  },
+  {
+    "slug": "architecture-diagrams",
+    "en": "Architecture Diagrams",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Karmaşık bir yazılım sisteminin bileşenlerini ve bu bileşenlerin birbirleriyle olan ilişkilerini gösteren görsel şemalardır."
+  },
+  {
+    "slug": "agentic",
+    "en": "Agentic",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir yapay zekânın, kendisine verilen hedef doğrultusunda insan müdahalesi olmadan kendi başına plan yapıp aksiyon alabilme yeteneğidir."
+  },
+  {
+    "slug": "cms",
+    "en": "CMS",
+    "full": "Content Management System",
+    "cat": "dev",
+    "kisa": "Kod yazmayı bilmeden web siteleri üzerinden içerik oluşturmanızı, düzenlemenizi ve yayınlamanızı sağlayan kullanıcı dostu bir yazılımdır."
+  },
+  {
+    "slug": "auto-fallback",
+    "en": "Auto-fallback",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir sistemde hata oluştuğunda veya ana yöntem başarısız olduğunda, sistemin otomatik olarak daha güvenli veya alternatif bir yönteme geçiş yapmasıdır."
   }
 ]

@@ -23,7 +23,7 @@ Bu araç bir yazılım kütüphanesi değil, Claude Code kullanımına yönelik 
 - [GitHub deposu →](https://github.com/shanraisshan/claude-code-best-practice)
 
 ## İlgili sözlük terimleri
-Vibe Coding Agentic Engineering Artificial Intelligence 
+Vibe Coding Agentic Engineering Agentic Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
