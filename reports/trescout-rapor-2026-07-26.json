@@ -1,0 +1,255 @@
+{
+  "date": "2026-07-26",
+  "editorial": "Bugünün gündemi, yazılım geliştirme süreçlerini hızlandıran kod inceleme (code review) araçları ve yapay zekâ modellerine yetenek kazandıran entegrasyon kütüphaneleri üzerine kurulu. GitHub üzerinde paylaşılan yeni açık kaynaklı projeler, özellikle Claude gibi dil modellerinin iş akışlarına dahil edilme biçimlerini standartlaştıran teknik dokümanlara odaklanıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Block tarafından geliştirilen Buzz, Rust diliyle yazılmış bir kovan zihni iletişim platformudur. Dağıtık sistemler üzerinde merkeziyetsiz bir haberleşme mimarisi (hive mind communication) kurmayı hedefler.",
+          "meta": "Rust · ★ 12.248 · +2.491 bugün"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, belirlenimci iş akışları ile büyük dil modeli (LLM) ajanlarını hibrit bir mimaride birleştiriyor. Yazılım güvenliği kuralları ile önceden eğitilmiş sistem, satır bazlı yorumlar yaparak kod kalitesini artırmayı hedefliyor.",
+          "meta": "Go · ★ 13.158 · +431 bugün"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite, yapay zekâ ajanlarının web otomasyonu süreçlerini yürütmesi için oturum açılmış tarayıcı durumunu (browser state) paylaşan hafif bir tarayıcı aracıdır. Kurulum gerektirmeyen bu yapı, kullanıcıyı rahatsız etmeden ajanların web üzerindeki etkileşimlerini hızlandırmayı hedefler.",
+          "meta": "JavaScript · ★ 3.775 · +986 bugün"
+        },
+        {
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "ComposioHQ tarafından derlenen awesome-claude-skills, Claude yapay zekâ iş akışlarını özelleştirmek için kullanılan yetenek paketlerini (skills), araçları ve kaynakları bir araya getiriyor. Bu liste, geliştiricilerin Claude tabanlı otomasyon süreçlerini yapılandırmaları için merkezi bir referans noktası sunuyor.",
+          "meta": "Python · ★ 70.713 · +577 bugün"
+        },
+        {
+          "title": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "summary": "Anthropic tarafından paylaşılan Claude yemek kitapları (cookbooks), Claude modellerinin kullanımı için pratik kod örnekleri ve Jupyter not defterleri sunuyor. Bu kaynak, geliştiricilerin yapay zekâ uygulamalarında model entegrasyonu ve istem mühendisliği (prompt engineering) süreçlerini hızlandırmayı amaçlıyor.",
+          "meta": "Jupyter Notebook · ★ 49.967 · +132 bugün"
+        },
+        {
+          "title": "Automattic/harper",
+          "url": "https://github.com/Automattic/harper",
+          "summary": "Automattic tarafından geliştirilen Harper, Rust diliyle yazılmış çevrim dışı ve gizlilik odaklı bir dil bilgisi denetleyicisi (grammar checker) sunuyor. Açık kaynaklı bu araç, yüksek performanslı yapısıyla metin düzenleme süreçlerinde yerel veri işleme imkânı sağlıyor.",
+          "meta": "Rust · ★ 13.498 · +503 bugün"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos, finansal piyasaların kendine has dilini çözümlemek için tasarlanmış bir temel model (foundation model) olarak geliştirildi. Finansal verilerin karmaşık yapısını anlamlandırmayı hedefleyen bu model, piyasa analiz süreçlerini otomatize etmek için kullanılıyor.",
+          "meta": "Python · ★ 33.870 · +319 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yazılım geliştirme süreçlerini agentik iş akışlarıyla birleştiren bir yetenek çerçevesi (framework) ve metodoloji sunuyor. Shell tabanlı bu yapı, otonom sistemlerin yazılım geliştirme döngülerine entegrasyonunu standartlaştırmayı amaçlıyor.",
+          "meta": "Shell · ★ 261.220 · +479 bugün"
+        },
+        {
+          "title": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "summary": "Rust programlama diliyle geliştirilen Pumpkin, yüksek performanslı ve verimli Minecraft sunucuları oluşturmayı hedefleyen bir altyapı sunuyor. Proje, sunucu barındırma süreçlerini hızlandırarak kullanıcıların kendi oyun ortamlarını daha düşük kaynak tüketimiyle yönetmelerine olanak tanıyor.",
+          "meta": "Rust · ★ 9.775 · +358 bugün"
+        },
+        {
+          "title": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "summary": "Bitchat, Bluetooth ağ (mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen, yerel bir sohbet ortamı sunuyor. Swift diliyle geliştirilen uygulama, kullanıcıların yakın mesafede doğrudan iletişim kurmasını sağlayan IRC benzeri bir deneyim vadediyor.",
+          "meta": "Swift · ★ 28.892 · +1.720 bugün"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan bu depo, yazılım mühendislerinin yapay zekâ ajanları (AI agents) için geliştirdiği özelleştirilmiş yetenek paketlerini (skills) içeriyor. Komut satırı araçlarını otomatikleştiren bu betikler, geliştirici iş akışlarını standartlaştırmak için kullanılıyor.",
+          "meta": "Shell · ★ 188.590 · +1.740 bugün"
+        },
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro, yapay zekâ destekli düzenleme araçlarını macOS ortamına entegre eden bir video düzenleme yazılımıdır. Swift diliyle geliştirilen bu platform, video kurgu süreçlerini otomatize etmek için tasarlanmıştır.",
+          "meta": "Swift · ★ 12.304 · +412 bugün"
+        },
+        {
+          "title": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "summary": "Instatic, Webflow ve WordPress gibi platformlara açık kaynaklı bir alternatif olarak sunulan, ajan tabanlı (agentic) bir görsel içerik yönetim sistemidir (CMS). Kendi sunucunuzda barındırabileceğiniz bu araç, kullanıcı yönetimi ve eklenti desteği ile temiz statik sayfalar oluşturulmasını sağlıyor.",
+          "meta": "TypeScript · ★ 5.206 · +426 bugün"
+        },
+        {
+          "title": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "summary": "Dive into LLMs projesi, büyük dil modellerinin (large language models) çalışma prensiplerini uygulamalı Jupyter not defterleri üzerinden öğreten bir eğitim serisidir. Programlama pratikleri aracılığıyla modellerin temel mimarilerini ve işleyiş süreçlerini teknik bir çerçevede sunar.",
+          "meta": "Jupyter Notebook · ★ 45.438 · +408 bugün"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "TurboQuant üzerine inşa edilen TurboVec, Rust diliyle geliştirilmiş ve Python bağlamları (bindings) sunan bir vektör dizinleme (vector index) aracıdır. Yüksek performanslı arama işlemleri için tasarlanan bu yapı, vektör veritabanı operasyonlarını hızlandırmayı hedefler.",
+          "meta": "Python · ★ 14.329 · +86 bugün"
+        },
+        {
+          "title": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "summary": "Chat2DB, farklı veritabanı sistemlerini destekleyen yapay zekâ destekli bir veritabanı yönetim aracı ve SQL istemcisidir (SQL client). Java diliyle geliştirilen bu platform, doğal dil işleme yetenekleriyle veri sorgulama süreçlerini görsel bir arayüz (GUI) üzerinden kolaylaştırır.",
+          "meta": "Java · ★ 26.778 · +360 bugün"
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Andrew Ng tarafından geliştirilen aisuite, farklı üretken yapay zekâ (generative AI) sağlayıcılarına tek bir arayüz üzerinden erişim imkânı sunuyor. Python tabanlı bu kütüphane, geliştiricilerin farklı model sağlayıcıları arasında geçiş yapmasını kolaylaştıran birleşik bir yapı (unified interface) sağlıyor.",
+          "meta": "Python · ★ 15.272 · +77 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, Claude Code ve Cursor gibi yapay zekâ kodlama araçları için yetenek (skills), içgüdü (instincts) ve bellek (memory) katmanlarını optimize eden bir sistem sunuyor. Yazılım geliştirme süreçlerinde ajan performansını ve güvenlik standartlarını artırmayı hedefleyen bir altyapı sağlıyor.",
+          "meta": "JavaScript · ★ 233.406 · +377 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Android May Soon Restrict On-Device ADB",
+          "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+          "summary": "Google, Android işletim sisteminde cihaz içi hata ayıklama köprüsü (on-device ADB) kullanımını kısıtlamaya hazırlanıyor. Bu değişiklik, güvenlik protokollerini güçlendirmek amacıyla yerel hata ayıklama işlemlerine yönelik erişim izinlerini sınırlandırıyor.",
+          "meta": "902 oy · 445 yorum"
+        },
+        {
+          "title": "Open-weight AI is having its Kubernetes moment",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+          "summary": "Açık ağırlıklı yapay zekâ modelleri (open-weight AI), yazılım dünyasında konteyner orkestrasyonunu standartlaştıran Kubernetes gibi bir dönüm noktasından geçiyor. Bu süreç, parçalı yapay zekâ ekosisteminin ortak altyapılar ve araçlar etrafında birleşerek endüstriyel ölçekte yaygınlaşmasını sağlıyor.",
+          "meta": "360 oy · 283 yorum"
+        },
+        {
+          "title": "Did They Ghost You?",
+          "url": "https://didtheyghostyou.com/",
+          "summary": "Did They Ghost You, iş başvurusu süreçlerinde adayların geri dönüş alamadığı şirketleri takip etmelerini sağlayan bir platformdur. Kullanıcılar, başvuru yaptıkları kurumları listeleyerek diğer adayların geri bildirimlerini görebilir ve iletişim süreçlerindeki şeffaflığı artırabilir.",
+          "meta": "359 oy · 162 yorum"
+        },
+        {
+          "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+          "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
+          "summary": "Amazon ormanlarında kurulan ağaç tepesi köprüleri (canopy bridges), yaban hayatının güvenli geçişini sağlayarak 15 bin geçişte sıfır trafik kazası verisiyle sonuçlandı. Bu altyapı çözümü, parçalanmış orman habitatlarında hayvanların karayolu trafiğine maruz kalmadan hareket etmesine olanak tanıyor.",
+          "meta": "340 oy · 98 yorum"
+        },
+        {
+          "title": "The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "summary": "Claude 5 nesil modelleri için geliştirilen bağlam mühendisliği (context engineering), büyük veri kümelerinin işlenmesinde modelin odaklanma kapasitesini artıran yeni yöntemler sunuyor. Bu teknikler, uzun metinlerde bilginin geri çağrılma başarısını (recall accuracy) yükselterek karmaşık analiz süreçlerini optimize ediyor.",
+          "meta": "262 oy · 167 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel metinleri işleyerek metin çıktısı üreten bir görüntüden metne (image-to-text) modelidir. Sistem, karmaşık dokümanlardaki verileri dijital formata dönüştürme sürecini otomatize etmeyi hedeflemektedir.",
+          "meta": "♥ 3.126 · 2.564.264 indirme"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Poolside tarafından geliştirilen Laguna-S-2.1, metin üretimi (text-generation) odaklı bir dil modelidir. Model, geniş kapsamlı dil işleme görevlerinde kullanılmak üzere tasarlanmıştır.",
+          "meta": "♥ 668 · 45.260 indirme"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Upstage tarafından geliştirilen Solar-Open2-250B, metin üretimi (text generation) odaklı büyük bir dil modelidir. 250 milyar parametrelik yapısıyla karmaşık dil işleme görevlerinde yüksek kapasiteli bir çözüm sunar.",
+          "meta": "♥ 573 · 2.784 indirme"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B tabanlı bu model, görsel ve metin girdilerini işleyerek metin çıktısı üreten (image-text-to-text) bir yapı sunuyor. Sansürsüz (uncensored) veri setleriyle eğitilen model, farklı füzyon tekniklerini birleştirerek genişletilmiş bir dil yeteneği sağlıyor.",
+          "meta": "♥ 560 · 483.845 indirme"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Thinking Machines tarafından geliştirilen Inkling, görsel ve metinsel verileri eş zamanlı işleyebilen bir görüntü-metin-metin (image-text-to-text) modelidir. Bu model, çok modlu (multimodal) girdi setlerini analiz ederek karmaşık görevler için metin tabanlı çıktılar üretmektedir.",
+          "meta": "♥ 1.572 · 31.575 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "hive mind communication",
+      "explanation": "Bir grubun tüm üyelerinin aynı anda bilgi paylaşarak tek bir zihin gibi hareket etmesini sağlayan iletişim biçimi."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini taklit ederek metinler yazabilen, çok geniş verilerle eğitilmiş gelişmiş yapay zekâ sistemi."
+    },
+    {
+      "term": "browser state",
+      "explanation": "İnternet tarayıcısının o anki oturumunda tuttuğu açık sekmeler, çerezler ve kullanıcı ayarları gibi bilgilerin bütünü."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya yapay zekânın belirli bir görevi yerine getirmek için sahip olduğu özel yetenekler."
+    },
+    {
+      "term": "cookbooks",
+      "explanation": "Belirli bir teknolojiyi kullanırken karşılaşılan sorunlara karşı adım adım çözüm yolları sunan rehber kitapçıklar."
+    },
+    {
+      "term": "prompt engineering",
+      "explanation": "Yapay zekâdan en doğru ve kaliteli yanıtı alabilmek için ona verilen komutları en verimli şekilde tasarlama sanatı."
+    },
+    {
+      "term": "grammar checker",
+      "explanation": "Yazılan metinlerdeki imla hatalarını ve dil bilgisi yanlışlarını otomatik olarak bulan dijital araç."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Pek çok farklı görevi yerine getirebilmek için devasa verilerle eğitilmiş, üzerine başka uygulamaların inşa edildiği temel yapay zekâ modeli."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılımcıların sıfırdan başlamak yerine hazır yapılar kullanarak daha hızlı uygulama geliştirmesini sağlayan temel yazılım iskeleti."
+    },
+    {
+      "term": "mesh",
+      "explanation": "Birbirine bağlı cihazların veriyi tek bir merkez yerine birbirleri üzerinden aktararak oluşturduğu geniş ağ yapısı."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar alıp hedeflenen görevleri yerine getirebilen otonom yapay zekâ yazılımları."
+    },
+    {
+      "term": "agentic",
+      "explanation": "Bir yazılımın dışarıdan sürekli komut almadan kendi kararlarını verip hedefe yönelik hareket edebilme yeteneği."
+    },
+    {
+      "term": "CMS",
+      "explanation": "Kodlama bilmeye gerek kalmadan internet siteleri oluşturmaya ve içerik yönetmeye yarayan yazılım sistemi."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "bindings",
+      "explanation": "Farklı programlama dillerinin veya yazılım parçalarının birbirleriyle iletişim kurmasını sağlayan köprüler."
+    },
+    {
+      "term": "vector index",
+      "explanation": "Yapay zekânın verileri anlamlarına göre gruplayıp ihtiyaç duyduğunda çok hızlı bir şekilde bulmasını sağlayan özel bir arama dizini."
+    }
+  ]
+}

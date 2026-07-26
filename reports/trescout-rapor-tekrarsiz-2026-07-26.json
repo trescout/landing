@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-26",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "summary": "Bitchat, Bluetooth ağ (mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen, yerel bir sohbet ortamı sunuyor. Swift diliyle geliştirilen uygulama, kullanıcıların yakın mesafede doğrudan iletişim kurmasını sağlayan IRC benzeri bir deneyim vadediyor.",
+          "meta": "Swift · ★ 28.892 · +1.720 bugün"
+        },
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro, yapay zekâ destekli düzenleme araçlarını macOS ortamına entegre eden bir video düzenleme yazılımıdır. Swift diliyle geliştirilen bu platform, video kurgu süreçlerini otomatize etmek için tasarlanmıştır.",
+          "meta": "Swift · ★ 12.304 · +412 bugün",
+          "returning": true
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Andrew Ng tarafından geliştirilen aisuite, farklı üretken yapay zekâ (generative AI) sağlayıcılarına tek bir arayüz üzerinden erişim imkânı sunuyor. Python tabanlı bu kütüphane, geliştiricilerin farklı model sağlayıcıları arasında geçiş yapmasını kolaylaştıran birleşik bir yapı (unified interface) sağlıyor.",
+          "meta": "Python · ★ 15.272 · +77 bugün",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Android May Soon Restrict On-Device ADB",
+          "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+          "summary": "Google, Android işletim sisteminde cihaz içi hata ayıklama köprüsü (on-device ADB) kullanımını kısıtlamaya hazırlanıyor. Bu değişiklik, güvenlik protokollerini güçlendirmek amacıyla yerel hata ayıklama işlemlerine yönelik erişim izinlerini sınırlandırıyor.",
+          "meta": "902 oy · 445 yorum"
+        },
+        {
+          "title": "Open-weight AI is having its Kubernetes moment",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+          "summary": "Açık ağırlıklı yapay zekâ modelleri (open-weight AI), yazılım dünyasında konteyner orkestrasyonunu standartlaştıran Kubernetes gibi bir dönüm noktasından geçiyor. Bu süreç, parçalı yapay zekâ ekosisteminin ortak altyapılar ve araçlar etrafında birleşerek endüstriyel ölçekte yaygınlaşmasını sağlıyor.",
+          "meta": "360 oy · 283 yorum"
+        },
+        {
+          "title": "Did They Ghost You?",
+          "url": "https://didtheyghostyou.com/",
+          "summary": "Did They Ghost You, iş başvurusu süreçlerinde adayların geri dönüş alamadığı şirketleri takip etmelerini sağlayan bir platformdur. Kullanıcılar, başvuru yaptıkları kurumları listeleyerek diğer adayların geri bildirimlerini görebilir ve iletişim süreçlerindeki şeffaflığı artırabilir.",
+          "meta": "359 oy · 162 yorum"
+        },
+        {
+          "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+          "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
+          "summary": "Amazon ormanlarında kurulan ağaç tepesi köprüleri (canopy bridges), yaban hayatının güvenli geçişini sağlayarak 15 bin geçişte sıfır trafik kazası verisiyle sonuçlandı. Bu altyapı çözümü, parçalanmış orman habitatlarında hayvanların karayolu trafiğine maruz kalmadan hareket etmesine olanak tanıyor.",
+          "meta": "340 oy · 98 yorum"
+        },
+        {
+          "title": "The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "summary": "Claude 5 nesil modelleri için geliştirilen bağlam mühendisliği (context engineering), büyük veri kümelerinin işlenmesinde modelin odaklanma kapasitesini artıran yeni yöntemler sunuyor. Bu teknikler, uzun metinlerde bilginin geri çağrılma başarısını (recall accuracy) yükselterek karmaşık analiz süreçlerini optimize ediyor.",
+          "meta": "262 oy · 167 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "mesh",
+      "explanation": "Birbirine bağlı cihazların veriyi tek bir merkez yerine birbirleri üzerinden aktararak oluşturduğu geniş ağ yapısı."
+    }
+  ]
+}
