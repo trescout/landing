@@ -2875,5 +2875,19 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bir sistemde hata oluştuğunda veya ana yöntem başarısız olduğunda, sistemin otomatik olarak daha güvenli veya alternatif bir yönteme geçiş yapmasıdır."
+  },
+  {
+    "slug": "hive-mind-communication",
+    "en": "Hive Mind Communication",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir grubun üyelerinin bilgiyi anlık paylaşarak tek bir zihin gibi hareket etmesini sağlayan iletişim yöntemidir."
+  },
+  {
+    "slug": "browser-state",
+    "en": "Browser State",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternet tarayıcınızın o anki oturumunda aktif olan tüm verilerin ve ayarların kaydedildiği durumdur."
   }
 ]

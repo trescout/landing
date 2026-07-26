@@ -1,0 +1,39 @@
+# İnternetsiz iletişim için Bluetooth ağı
+
+Bitchat, Bluetooth ağ (mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen, yerel bir sohbet ortamı sunuyor. Swift diliyle geliştirilen uygulama, kullanıcıların yakın mesafede doğrudan iletişim kurmasını sağlayan IRC benzeri bir deneyim vadediyor.
+
+- ★ 28.892
+- Swift
+- GitHub Trending · 2026-07-26
+
+## Ne kazandırır?
+- Bluetooth üzerinden internetsiz yerel sohbet
+- Nostr protokolü ile küresel erişim
+- Hesap veya telefon numarası gerektirmez
+
+## Kurulum
+
+**Just aracını yükleyin**
+
+```
+brew install just
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bitchat uygulamasının sunduğu Bluetooth mesh ve Nostr protokolü hibrit yapısını kullanarak, internetin olmadığı durumlarda yakın çevremle nasıl güvenli bir şekilde mesajlaşabilirim? Uygulamanın sunduğu IRC tarzı komutları ve konum tabanlı kanal özelliklerini kullanarak yerel bir topluluk sohbetini nasıl başlatacağımı adım adım açıkla.
+
+- **Kimin için:** İnternet bağlantısının kısıtlı olduğu veya gizliliğin ön planda tutulduğu durumlarda doğrudan iletişim kurmak isteyen kullanıcılar içindir. 
+- **Lisans:** Unlicense 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/permissionlesstech/bitchat)
+
+## İlgili sözlük terimleri
+Mesh Artificial Intelligence 
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/bitchat/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

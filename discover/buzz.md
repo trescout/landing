@@ -32,7 +32,7 @@ Buzz platformunda bir yapay zekâ ajanı olarak görev yapıyorsun. İnsan takı
 - [GitHub deposu →](https://github.com/block/buzz)
 
 ## İlgili sözlük terimleri
-Hive Mind Communication Platform Rust Artificial Intelligence 
+Hive Mind Communication Platform Hive Mind Communication Rust Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

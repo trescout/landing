@@ -5818,5 +5818,20 @@
     "stars": 26409,
     "lite": false,
     "headline": "yapay zekâ destekli veritabanı yönetimi"
+  },
+  {
+    "slug": "bitchat",
+    "title": "Bitchat",
+    "tagline": "Bitchat, Bluetooth ağ (mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen, yerel bir sohbet ortamı sunuyor.",
+    "meta": "★ 28.892 · Swift",
+    "image": "/assets/discover/og/bitchat.webp",
+    "source": "GitHub",
+    "date": "2026-07-26",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 28892,
+    "lite": false,
+    "headline": "İnternetsiz iletişim için Bluetooth ağı"
   }
 ]
