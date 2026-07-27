@@ -2659,7 +2659,26 @@
     "lite": false,
     "headline": "Modern web uygulamaları için yapay zekâ destekli altyapı",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install --cask dotnet-sdk"
+        },
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install Microsoft.DotNet.SDK.9"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Yeni ASP.NET Core projesi oluştur ve çalıştır",
+          "komut": "dotnet new webapi -n MyWebApp\ncd MyWebApp\ndotnet run"
+        }
+      ],
+      "kaynak": "Resmî Microsoft .NET dokümantasyonu (learn.microsoft.com/aspnet/core)"
+    }
   },
   {
     "slug": "awesome-artificial-intelligence",
