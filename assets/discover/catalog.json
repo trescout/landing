@@ -2800,9 +2800,7 @@
     ],
     "stars": 27722,
     "lite": false,
-    "headline": "Üretken yapay zekâ için kapsamlı rehber",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "headline": "Üretken yapay zekâ için kapsamlı rehber"
   },
   {
     "slug": "agent-native",
