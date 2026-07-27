@@ -3003,7 +3003,26 @@
     "lite": false,
     "headline": "Bilibili bilet alım süreçlerini hızlandırın",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Linux · macOS için otomatik kurulum",
+          "komut": "curl -fsSL https://raw.githubusercontent.com/mikumifa/biliTickerBuy/main/install.sh | sh"
+        },
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install biliTickerBuy"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Komut satırından çalıştır",
+          "komut": "btb"
+        }
+      ],
+      "kaynak": "Resmî biliTickerBuy dokümantasyonu (docs/installation.md)"
+    }
   },
   {
     "slug": "spiderfoot",
