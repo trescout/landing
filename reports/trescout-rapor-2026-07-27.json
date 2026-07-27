@@ -1,0 +1,249 @@
+{
+  "date": "2026-07-27",
+  "editorial": "Bugünün teknoloji gündeminde merkeziyetsiz iletişim protokolleri (decentralized communication protocols) ve terminal tabanlı dosya yönetimi (terminal-based file management) araçları öne çıkıyor. Geliştiricilerin açık kaynaklı (open source) ekosistemde özellikle sistem performansı ve kullanıcı arayüzü optimizasyonuna odaklanan projelere yöneldiği gözlemleniyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "summary": "BitChat, Bluetooth ağ (Bluetooth mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen yerel bir sohbet ortamı sunuyor. Swift diliyle geliştirilen bu uygulama, kullanıcıların merkezi bir sunucuya ihtiyaç duymadan, eski nesil internet röle sohbeti (IRC) benzeri bir deneyimle iletişim kurmasını sağlıyor.",
+          "meta": "Swift · ★ 30.947 · +1.166 bugün"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite, yapay zekâ ajanlarının web otomasyonu süreçlerini yürütmesi için oturum açılmış tarayıcı durumunu (browser state) paylaşan hafif bir tarayıcı aracıdır. Kodlama asistanlarıyla entegre çalışan bu çözüm, kullanıcıyı rahatsız etmeden tarayıcı tabanlı görevlerin otomatikleştirilmesini sağlar.",
+          "meta": "JavaScript · ★ 5.012 · +900 bugün"
+        },
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Block tarafından geliştirilen Buzz, Rust diliyle yazılmış bir kovan zihni iletişim platformudur. Dağıtık sistemlerde merkeziyetsiz bir haberleşme ağı (hive mind communication) kurmayı amaçlayan açık kaynaklı bir altyapı sunar.",
+          "meta": "Rust · ★ 13.741 · +1.710 bugün"
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3code, TypeScript tabanlı projelerde kod kalitesini artırmak ve geliştirme süreçlerini hızlandırmak için tasarlanmış bir araç setidir. Geliştiricilerin tip güvenli (type-safe) uygulamalar oluşturmasını kolaylaştıran yapılandırılmış bir çerçeve sunar.",
+          "meta": "TypeScript · ★ 15.148 · +149 bugün"
+        },
+        {
+          "title": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "summary": "Instatic, Webflow ve WordPress gibi platformlara açık kaynaklı bir alternatif sunan, ajan tabanlı (agentic) bir görsel içerik yönetim sistemi (CMS) olarak öne çıkıyor. TypeScript ile geliştirilen bu araç, kullanıcı yönetimi ve eklenti desteğiyle statik sayfalar oluşturma sürecini kendi sunucunuzda barındırmanıza olanak tanıyor.",
+          "meta": "TypeScript · ★ 5.863 · +888 bugün"
+        },
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Go programlama diliyle geliştirilen superfile, terminal tabanlı dosya yönetimi için modern ve görsel açıdan zengin bir arayüz sunuyor. Kullanıcılar, komut satırı üzerinde dosya işlemlerini daha işlevsel hale getiren bu terminal dosya yöneticisi (terminal file manager) ile sistem dizinlerini yönetebiliyor.",
+          "meta": "Go · ★ 20.412 · +131 bugün"
+        },
+        {
+          "title": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "summary": "Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağlayan bir çalışma zamanı ortamı (runtime environment) sunuyor. V8 motorunu temel alan bu platform, sunucu tarafında ölçeklenebilir ağ uygulamaları geliştirmek için kullanılıyor.",
+          "meta": "JavaScript · ★ 118.523 · +36 bugün"
+        },
+        {
+          "title": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "summary": "Chat2DB, çok sayıda veri tabanı yönetim sistemini destekleyen yapay zekâ destekli bir veri tabanı aracı ve SQL istemcisidir (SQL client). Java diliyle geliştirilen bu grafiksel kullanıcı arayüzü (GUI), doğal dil işleme yetenekleriyle veri tabanı sorgulama süreçlerini hızlandırmayı hedefler.",
+          "meta": "Java · ★ 27.277 · +398 bugün"
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilmiş bir tasarım dili (design language) sunuyor. Bu araç, yapay zekâ destekli arayüzlerin görsel tutarlılığını ve kullanıcı deneyimi kalitesini artırmayı hedefliyor.",
+          "meta": "JavaScript · ★ 50.919 · +413 bugün"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos, finansal piyasaların dilini çözümlemek amacıyla geliştirilmiş bir temel model (foundation model) olarak öne çıkıyor. Finansal verilerin işlenmesi ve piyasa analizleri için özelleştirilmiş bir yapay zekâ mimarisi sunuyor.",
+          "meta": "Python · ★ 34.284 · +321 bugün"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Alibaba tarafından geliştirilen Open-code-review, belirlenimci boru hatları (deterministic pipelines) ile büyük dil modeli (LLM) ajanlarını birleştiren hibrit bir kod inceleme aracıdır. Yazılım geliştirme süreçlerinde satır bazlı yorumlar sunan sistem, iş parçacığı güvenliği (thread-safety) ve SQL enjeksiyonu gibi güvenlik açıklarını önceden eğitilmiş kurallarla tespit eder.",
+          "meta": "Go · ★ 14.156 · +832 bugün"
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Andrew Ng tarafından geliştirilen aisuite, farklı üretken yapay zekâ (generative AI) sağlayıcılarını tek bir arayüz üzerinden yönetmeyi sağlayan bir Python kütüphanesidir. Geliştiricilerin çeşitli model servisleri arasında geçiş yapmasını kolaylaştıran birleşik bir katman sunar.",
+          "meta": "Python · ★ 15.462 · +187 bugün"
+        },
+        {
+          "title": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "summary": "Anthropic tarafından paylaşılan Claude yemek kitapları (cookbooks), Claude modellerinin kullanımı için pratik kod örnekleri ve Jupyter not defterleri sunuyor. Bu kaynak, geliştiricilerin yapay zekâ uygulamalarında Claude entegrasyonunu hızlandırmak için tasarlanmış somut iş akışlarını içeriyor.",
+          "meta": "Jupyter Notebook · ★ 50.363 · +379 bugün"
+        },
+        {
+          "title": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "summary": "Rust diliyle geliştirilen Pumpkin, hızlı ve verimli Minecraft sunucuları barındırmayı hedefleyen açık kaynaklı bir sunucu yazılımıdır. Yüksek performans odaklı yapısıyla kullanıcıların kendi oyun sunucularını daha düşük kaynak tüketimiyle yönetmelerine olanak tanır.",
+          "meta": "Rust · ★ 10.111 · +338 bugün"
+        },
+        {
+          "title": "permissionlesstech/bitchat-android",
+          "url": "https://github.com/permissionlesstech/bitchat-android",
+          "summary": "Bitchat-android, Bluetooth ağ (mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen, merkeziyetsiz bir mesajlaşma deneyimi sunuyor. Kotlin diliyle geliştirilen uygulama, kullanıcıların yerel ağ üzerinden IRC benzeri bir iletişim kurmasını sağlıyor.",
+          "meta": "Kotlin · ★ 6.833 · +260 bugün"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Jenkins, yazılım geliştirme süreçlerini otomatize eden açık kaynaklı bir sürekli entegrasyon (continuous integration) ve sürekli dağıtım (continuous delivery) sunucusudur. Java tabanlı bu platform, yazılım projelerinin derleme, test ve dağıtım aşamalarını yönetmek için geniş bir eklenti ekosistemi sunar.",
+          "meta": "Java · ★ 25.763 · +18 bugün"
+        },
+        {
+          "title": "amnezia-vpn/amnezia-client",
+          "url": "https://github.com/amnezia-vpn/amnezia-client",
+          "summary": "Amnezia VPN istemcisi, kullanıcıların kendi sunucuları üzerinden sansürsüz internet erişimi sağlamasına olanak tanıyan açık kaynaklı bir ağ aracıdır. C++ diliyle geliştirilen bu yazılım, masaüstü ve mobil platformlarda kişisel gizliliği koruyan özelleştirilebilir tünelleme protokolleri sunar.",
+          "meta": "C++ · ★ 13.457 · +35 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kill The Cookie Banner",
+          "url": "https://killthecookiebanner.eu/",
+          "summary": "Çerez banner'larını (cookie banner) kaldırmayı hedefleyen girişim, internet kullanıcılarının onay pencereleriyle karşılaşmadan web sitelerinde gezinebilmesini amaçlıyor. Avrupa Birliği'ndeki dijital düzenlemeleri temel alan bu proje, kullanıcı gizliliği ile internet deneyimini iyileştirmeyi hedefleyen standartlar öneriyor.",
+          "meta": "933 oy · 445 yorum"
+        },
+        {
+          "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+          "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+          "summary": "ABD'de bir vatandaş, havalimanı araması sırasında GrapheneOS yüklü telefonunun verilerini uzaktan silmesi nedeniyle adli engelleme (obstruction of justice) ile suçlandı. Olay, gizlilik odaklı işletim sistemlerinin kolluk kuvvetleri incelemeleriyle yaşadığı hukuki çatışmaları gündeme taşıyor.",
+          "meta": "553 oy · 385 yorum"
+        },
+        {
+          "title": "PGSimCity - How PostgreSQL Works",
+          "url": "https://nikolays.github.io/PGSimCity/",
+          "summary": "PGSimCity, PostgreSQL veritabanı yönetim sisteminin iç işleyişini görsel bir simülasyon üzerinden açıklıyor. Kullanıcılar, veritabanı işlemlerinin (database operations) arka planda nasıl gerçekleştiğini etkileşimli bir arayüzle gözlemleyebiliyor.",
+          "meta": "435 oy · 45 yorum"
+        },
+        {
+          "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+          "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+          "summary": "Htmx 4.0, yalnızca Game Boy konsolu üzerinde çalışmak üzere tasarlanan ilk JavaScript kütüphanesi olarak duyuruldu. Bu sürüm, web geliştirme araçlarının geleneksel tarayıcı ortamlarının dışındaki donanımlara taşınmasını hedefleyen deneysel bir yaklaşım sunuyor.",
+          "meta": "415 oy · 140 yorum"
+        },
+        {
+          "title": "French firefighters face 'pyrocumulonimbus' for first time",
+          "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+          "summary": "Fransa'daki itfaiye ekipleri, aşırı sıcaklıkların tetiklediği yoğun duman ve ısı kaynaklı ateş bulutları (pyrocumulonimbus) ile ilk kez karşılaşıyor. Bu meteorolojik olay, yangınların kendi hava sistemlerini oluşturarak söndürme çalışmalarını zorlaştırmasına neden oluyor.",
+          "meta": "299 oy · 184 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel metinleri işleyerek metin çıktısı üreten bir görüntüden metne dönüştürme (image-to-text) modelidir. Model, karmaşık dokümanlardaki verileri dijital formata aktarmak için tasarlanmıştır.",
+          "meta": "♥ 3.244 · 2.593.460 indirme"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Poolside tarafından geliştirilen Laguna-S-2.1, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Model, geniş ölçekli veri setleri üzerinde eğitilerek doğal dil işleme yeteneklerini artırmayı amaçlar.",
+          "meta": "♥ 708 · 56.445 indirme"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Upstage tarafından geliştirilen Solar-Open2-250B, metin üretimi (text generation) görevleri için tasarlanmış büyük ölçekli bir dil modelidir. Model, 250 milyar parametre kapasitesiyle karmaşık dil işleme süreçlerinde yüksek performans sunmayı amaçlar.",
+          "meta": "♥ 609 · 3.305 indirme"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B tabanlı bu model, görsel ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapı sunuyor. Sansürsüz (uncensored) veri setleriyle eğitilen model, GGUF formatında sıkıştırılarak farklı donanımlarda çalıştırılmak üzere optimize ediliyor.",
+          "meta": "♥ 658 · 552.026 indirme"
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.2-3B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+          "summary": "Nanbeige tarafından geliştirilen Nanbeige4.2-3B, metin üretimi (text generation) görevleri için optimize edilmiş küçük ölçekli bir dil modelidir. Düşük parametre sayısıyla hızlı çıkarım (inference) süreçlerine odaklanan bu model, sınırlı donanım kaynaklarında verimli çalışma imkanı sunuyor.",
+          "meta": "♥ 453 · 14.049 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Bluetooth mesh",
+      "explanation": "Birden fazla cihazın birbirine bağlanarak geniş bir alanda ağ kurmasını sağlayan kablosuz iletişim teknolojisi."
+    },
+    {
+      "term": "IRC",
+      "explanation": "İnternet üzerinden gerçek zamanlı olarak yazışmaya imkân tanıyan eski ve basit bir mesajlaşma sistemi."
+    },
+    {
+      "term": "browser state",
+      "explanation": "Bir internet tarayıcısının o anki oturumunda tuttuğu verilerin ve ayarların bütünü."
+    },
+    {
+      "term": "hive mind communication",
+      "explanation": "Bir grup sistemin veya kişinin tek bir zihin gibi hareket ederek bilgi paylaşması."
+    },
+    {
+      "term": "type-safe",
+      "explanation": "Yazılımda hatalı veri türlerinin kullanılmasını engelleyerek programın çökme riskini azaltan yapı."
+    },
+    {
+      "term": "agentic",
+      "explanation": "Bir yapay zekânın kendisine verilen hedefi gerçekleştirmek için kendi kararlarını alıp adımlar atabilmesi."
+    },
+    {
+      "term": "CMS",
+      "explanation": "Kodlama bilmeden web sitesi içeriklerini yönetmenizi sağlayan yazılım aracı."
+    },
+    {
+      "term": "terminal file manager",
+      "explanation": "Dosyalarınızı görsel pencereler yerine sadece komut satırı üzerinden yönetmenizi sağlayan araç."
+    },
+    {
+      "term": "runtime environment",
+      "explanation": "Bir yazılımın bilgisayarda çalışabilmesi için ihtiyaç duyduğu temel destekleyici ortam."
+    },
+    {
+      "term": "SQL client",
+      "explanation": "Veritabanındaki bilgileri sorgulamanıza ve yönetmenize yardımcı olan uygulama."
+    },
+    {
+      "term": "GUI",
+      "explanation": "Bilgisayar programlarını simgeler, menüler ve pencerelerle görsel olarak yönetmenizi sağlayan arayüz."
+    },
+    {
+      "term": "design language",
+      "explanation": "Bir markanın veya ürünün görsel tutarlılığını sağlayan renk, yazı tipi ve şekil kuralları bütünü."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Pek çok farklı görevi yerine getirebilmek için devasa verilerle eğitilmiş temel yapay zekâ yapısı."
+    },
+    {
+      "term": "deterministic pipelines",
+      "explanation": "Her çalıştırıldığında aynı girdiyle her zaman aynı sonucu veren düzenli işlem süreçleri."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "thread-safety",
+      "explanation": "Bir programın aynı anda birden fazla işlem yaparken verilerin bozulmasını engelleyen güvenlik özelliği."
+    }
+  ]
+}

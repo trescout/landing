@@ -1,0 +1,102 @@
+{
+  "date": "2026-07-27",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "summary": "Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağlayan bir çalışma zamanı ortamı (runtime environment) sunuyor. V8 motorunu temel alan bu platform, sunucu tarafında ölçeklenebilir ağ uygulamaları geliştirmek için kullanılıyor.",
+          "meta": "JavaScript · ★ 118.523 · +36 bugün"
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilmiş bir tasarım dili (design language) sunuyor. Bu araç, yapay zekâ destekli arayüzlerin görsel tutarlılığını ve kullanıcı deneyimi kalitesini artırmayı hedefliyor.",
+          "meta": "JavaScript · ★ 50.919 · +413 bugün",
+          "returning": true
+        },
+        {
+          "title": "permissionlesstech/bitchat-android",
+          "url": "https://github.com/permissionlesstech/bitchat-android",
+          "summary": "Bitchat-android, Bluetooth ağ (mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen, merkeziyetsiz bir mesajlaşma deneyimi sunuyor. Kotlin diliyle geliştirilen uygulama, kullanıcıların yerel ağ üzerinden IRC benzeri bir iletişim kurmasını sağlıyor.",
+          "meta": "Kotlin · ★ 6.833 · +260 bugün"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Jenkins, yazılım geliştirme süreçlerini otomatize eden açık kaynaklı bir sürekli entegrasyon (continuous integration) ve sürekli dağıtım (continuous delivery) sunucusudur. Java tabanlı bu platform, yazılım projelerinin derleme, test ve dağıtım aşamalarını yönetmek için geniş bir eklenti ekosistemi sunar.",
+          "meta": "Java · ★ 25.763 · +18 bugün"
+        },
+        {
+          "title": "amnezia-vpn/amnezia-client",
+          "url": "https://github.com/amnezia-vpn/amnezia-client",
+          "summary": "Amnezia VPN istemcisi, kullanıcıların kendi sunucuları üzerinden sansürsüz internet erişimi sağlamasına olanak tanıyan açık kaynaklı bir ağ aracıdır. C++ diliyle geliştirilen bu yazılım, masaüstü ve mobil platformlarda kişisel gizliliği koruyan özelleştirilebilir tünelleme protokolleri sunar.",
+          "meta": "C++ · ★ 13.457 · +35 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kill The Cookie Banner",
+          "url": "https://killthecookiebanner.eu/",
+          "summary": "Çerez banner'larını (cookie banner) kaldırmayı hedefleyen girişim, internet kullanıcılarının onay pencereleriyle karşılaşmadan web sitelerinde gezinebilmesini amaçlıyor. Avrupa Birliği'ndeki dijital düzenlemeleri temel alan bu proje, kullanıcı gizliliği ile internet deneyimini iyileştirmeyi hedefleyen standartlar öneriyor.",
+          "meta": "933 oy · 445 yorum"
+        },
+        {
+          "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+          "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+          "summary": "ABD'de bir vatandaş, havalimanı araması sırasında GrapheneOS yüklü telefonunun verilerini uzaktan silmesi nedeniyle adli engelleme (obstruction of justice) ile suçlandı. Olay, gizlilik odaklı işletim sistemlerinin kolluk kuvvetleri incelemeleriyle yaşadığı hukuki çatışmaları gündeme taşıyor.",
+          "meta": "553 oy · 385 yorum"
+        },
+        {
+          "title": "PGSimCity - How PostgreSQL Works",
+          "url": "https://nikolays.github.io/PGSimCity/",
+          "summary": "PGSimCity, PostgreSQL veritabanı yönetim sisteminin iç işleyişini görsel bir simülasyon üzerinden açıklıyor. Kullanıcılar, veritabanı işlemlerinin (database operations) arka planda nasıl gerçekleştiğini etkileşimli bir arayüzle gözlemleyebiliyor.",
+          "meta": "435 oy · 45 yorum"
+        },
+        {
+          "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+          "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+          "summary": "Htmx 4.0, yalnızca Game Boy konsolu üzerinde çalışmak üzere tasarlanan ilk JavaScript kütüphanesi olarak duyuruldu. Bu sürüm, web geliştirme araçlarının geleneksel tarayıcı ortamlarının dışındaki donanımlara taşınmasını hedefleyen deneysel bir yaklaşım sunuyor.",
+          "meta": "415 oy · 140 yorum"
+        },
+        {
+          "title": "French firefighters face 'pyrocumulonimbus' for first time",
+          "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+          "summary": "Fransa'daki itfaiye ekipleri, aşırı sıcaklıkların tetiklediği yoğun duman ve ısı kaynaklı ateş bulutları (pyrocumulonimbus) ile ilk kez karşılaşıyor. Bu meteorolojik olay, yangınların kendi hava sistemlerini oluşturarak söndürme çalışmalarını zorlaştırmasına neden oluyor.",
+          "meta": "299 oy · 184 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Nanbeige/Nanbeige4.2-3B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+          "summary": "Nanbeige tarafından geliştirilen Nanbeige4.2-3B, metin üretimi (text generation) görevleri için optimize edilmiş küçük ölçekli bir dil modelidir. Düşük parametre sayısıyla hızlı çıkarım (inference) süreçlerine odaklanan bu model, sınırlı donanım kaynaklarında verimli çalışma imkanı sunuyor.",
+          "meta": "♥ 453 · 14.049 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IRC",
+      "explanation": "İnternet üzerinden gerçek zamanlı olarak yazışmaya imkân tanıyan eski ve basit bir mesajlaşma sistemi."
+    },
+    {
+      "term": "runtime environment",
+      "explanation": "Bir yazılımın bilgisayarda çalışabilmesi için ihtiyaç duyduğu temel destekleyici ortam."
+    },
+    {
+      "term": "design language",
+      "explanation": "Bir markanın veya ürünün görsel tutarlılığını sağlayan renk, yazı tipi ve şekil kuralları bütünü."
+    }
+  ]
+}
