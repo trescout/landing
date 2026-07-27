@@ -2284,7 +2284,22 @@
     "lite": false,
     "headline": "Windows sisteminizi hafifletin ve özelleştirin",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "PowerShell ile doğrudan çalıştırma (Windows)",
+          "komut": "& ([scriptblock]::Create((irm \"https://debloat.raphi.re/\")))"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Sessiz modda komut satırından çalıştır",
+          "komut": "& ([scriptblock]::Create((irm \"https://debloat.raphi.re/\"))) -Sysprep -Silent"
+        }
+      ],
+      "kaynak": "Resmî Win11Debloat README (Raphire/Win11Debloat)"
+    }
   },
   {
     "slug": "self-hosting-guide",
