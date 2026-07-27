@@ -2750,7 +2750,26 @@
     "lite": false,
     "headline": "Yerel sistemde yapay zekâ video üretimi",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "GitHub'dan depoyu klonla ve dizine gir",
+          "komut": "git clone https://github.com/Lightricks/LTX-2.git\ncd LTX-2"
+        },
+        {
+          "baslik": "Model ağırlıklarını indirin (Hugging Face CLI)",
+          "komut": "hf download Lightricks/LTX-2.3 ltx-2.3-22b-distilled-1.1.safetensors --local-dir models/ltx-2.3"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "uv ile çıkarım (inference) boru hattını çalıştır",
+          "komut": "uv run python -m ltx_pipelines.distilled --distilled-checkpoint-path models/ltx-2.3/ltx-2.3-22b-distilled-1.1.safetensors"
+        }
+      ],
+      "kaynak": "Resmî LTX-2 README (Lightricks/LTX-2)"
+    }
   },
   {
     "slug": "libretranslate",
