@@ -2561,7 +2561,22 @@
     "lite": false,
     "headline": "açık kaynaklı proje yönetim platformu",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker ile self-host kurulumu",
+          "komut": "mkdir plane-selfhost && cd plane-selfhost\ncurl -fsSL https://prime.plane.so/deploy.sh | bash"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Docker Compose servislerini başlat",
+          "komut": "./setup.sh"
+        }
+      ],
+      "kaynak": "Resmî Plane dokümantasyonu (developers.plane.so)"
+    }
   },
   {
     "slug": "glm-5",
