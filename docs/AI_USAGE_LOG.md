@@ -1,0 +1,5 @@
+# AI Usage Log · TreScout Landing
+
+| Tarih | Kişi | Görev | AI Aracı | Rol | PR/Commit |
+|---|---|---|---|---|---|
+| 2026-07-27 | Mustafa | Keşif enrichment · Parti A (Issue #30) | Antigravity | Skills Agent | Refs #30 |
