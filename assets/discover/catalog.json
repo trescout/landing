@@ -2940,9 +2940,7 @@
     ],
     "stars": 44809,
     "lite": false,
-    "headline": "yapay zekâ modellerinin gizli talimatları",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "headline": "yapay zekâ modellerinin gizli talimatları"
   },
   {
     "slug": "stirling-pdf",
