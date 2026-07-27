@@ -2462,7 +2462,26 @@
     "lite": false,
     "headline": "Açık kaynaklı kodlama ajanı",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile CLI kurulumu (Global)",
+          "komut": "npm i -g @continuedev/cli"
+        },
+        {
+          "baslik": "VS Code eklentisi olarak kurulum",
+          "komut": "code --install-extension Continue.continue"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "CLI üzerinden Continue ajanını çalıştır",
+          "komut": "cn"
+        }
+      ],
+      "kaynak": "npm (@continuedev/cli) · VS Code Marketplace (Continue.continue)"
+    }
   },
   {
     "slug": "penpot",
