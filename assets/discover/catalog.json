@@ -2396,7 +2396,26 @@
     "lite": false,
     "headline": "anahtar tabanlı esnek ağ bağlantıları",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Cargo ile (Rust projesine ekle)",
+          "komut": "cargo add iroh"
+        },
+        {
+          "baslik": "iroh CLI aracını kur",
+          "komut": "cargo install iroh"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Node kimliğini göster (CLI)",
+          "komut": "iroh node id"
+        }
+      ],
+      "kaynak": "crates.io (iroh) · resmî dokümantasyon (iroh.computer)"
+    }
   },
   {
     "slug": "codebase-memory-mcp",
