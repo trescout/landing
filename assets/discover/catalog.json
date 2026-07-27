@@ -2202,7 +2202,22 @@
     "lite": false,
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "headline": "Tarayıcı işlemlerini yapay zekâ ile otomatikleştirin"
+    "headline": "Tarayıcı işlemlerini yapay zekâ ile otomatikleştirin",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile (Node.js)",
+          "komut": "npm i puppeteer"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Node.js betiği ile çalıştır",
+          "komut": "node index.js"
+        }
+      ],
+      "kaynak": "npm (resmî paket yöneticisi) · pnpm / yarn"
+    }
   },
   {
     "slug": "teslamate",
