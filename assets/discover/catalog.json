@@ -5833,5 +5833,67 @@
     "stars": 28892,
     "lite": false,
     "headline": "İnternetsiz iletişim için Bluetooth ağı"
+  },
+  {
+    "slug": "node",
+    "title": "Node",
+    "tagline": "Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağlayan bir çalışma zamanı ortamı (runtime environment) sunuyor.",
+    "meta": "★ 118.523 · JavaScript",
+    "image": "/assets/discover/og/node.webp",
+    "source": "GitHub",
+    "date": "2026-07-27",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 118523,
+    "lite": false,
+    "headline": "JavaScript ile sunucu tarafı geliştirme"
+  },
+  {
+    "slug": "bitchat-android",
+    "title": "Bitchat Android",
+    "tagline": "Bitchat-android, Bluetooth ağ (mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen, merkeziyetsiz bir mesajlaşma…",
+    "meta": "★ 6.833 · Kotlin",
+    "image": "/assets/discover/og/bitchat-android.webp",
+    "source": "GitHub",
+    "date": "2026-07-27",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 6833,
+    "lite": false,
+    "headline": "İnternetsiz Bluetooth üzerinden güvenli mesajlaşma"
+  },
+  {
+    "slug": "jenkins",
+    "title": "Jenkins",
+    "tagline": "Jenkins, yazılım geliştirme süreçlerini otomatize eden açık kaynaklı bir sürekli entegrasyon (continuous integration) ve…",
+    "meta": "★ 25.763 · Java",
+    "image": "/assets/discover/og/jenkins.webp",
+    "source": "GitHub",
+    "date": "2026-07-27",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 25763,
+    "lite": false,
+    "headline": "Yazılım süreçlerini otomatize eden sunucu",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "amnezia-client",
+    "title": "Amnezia Client",
+    "tagline": "Amnezia VPN istemcisi, kullanıcıların kendi sunucuları üzerinden sansürsüz internet erişimi sağlamasına olanak tanıyan açık…",
+    "meta": "★ 13.457 · C++",
+    "image": "/assets/discover/og/amnezia-client.webp",
+    "source": "GitHub",
+    "date": "2026-07-27",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 13457,
+    "lite": false,
+    "headline": "Kendi sunucunuzda kişisel yapay zekâ destekli VPN"
   }
 ]

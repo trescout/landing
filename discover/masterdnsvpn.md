@@ -41,7 +41,7 @@ MasterDnsVPN aracını kullanarak sansürlü bir ağda DNS tünelleme üzerinden
 - [GitHub deposu →](https://github.com/masterking32/MasterDnsVPN)
 
 ## İlgili sözlük terimleri
-DNS Tunneling VPN Resolver Load Balancing Artificial Intelligence 
+DNS Tunneling Resolver Load Balancing VPN Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

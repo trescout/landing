@@ -30,7 +30,7 @@ Elimdeki üç boyutlu ağ verisini optimize etmek istiyorum. Meshoptimizer küt�
 - [GitHub deposu →](https://github.com/zeux/meshoptimizer)
 
 ## İlgili sözlük terimleri
-Mesh Rendering GPU Artificial Intelligence 
+Rendering Mesh GPU Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

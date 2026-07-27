@@ -23,7 +23,7 @@ GitHub Actions iş akışı dosyanızın (workflow) steps kısmına - uses: acti
 - [GitHub deposu →](https://github.com/actions/checkout)
 
 ## İlgili sözlük terimleri
-Repository Checkout Continuous Integration Checkout 
+Repository Checkout Checkout Continuous Integration 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

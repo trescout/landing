@@ -30,7 +30,7 @@ Bitchat uygulamasının sunduğu Bluetooth mesh ve Nostr protokolü hibrit yapı
 - [GitHub deposu →](https://github.com/permissionlesstech/bitchat)
 
 ## İlgili sözlük terimleri
-Mesh Artificial Intelligence 
+Bluetooth Mesh IRC Mesh Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

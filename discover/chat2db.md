@@ -36,7 +36,7 @@ Veritabanı tablolarımı analiz et, karmaşık SQL sorgularını doğal dilde a
 - [GitHub deposu →](https://github.com/OtterMind/Chat2DB)
 
 ## İlgili sözlük terimleri
-GUI Artificial Intelligence 
+SQL Client GUI Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

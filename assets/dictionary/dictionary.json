@@ -2889,5 +2889,54 @@
     "full": "",
     "cat": "dev",
     "kisa": "İnternet tarayıcınızın o anki oturumunda aktif olan tüm verilerin ve ayarların kaydedildiği durumdur."
+  },
+  {
+    "slug": "bluetooth-mesh",
+    "en": "Bluetooth Mesh",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Birden fazla cihazın birbirine bağlanarak geniş bir alanda ağ kurmasını sağlayan kablosuz iletişim teknolojisi."
+  },
+  {
+    "slug": "irc",
+    "en": "IRC",
+    "full": "Internet Relay Chat",
+    "cat": "dev",
+    "kisa": "İnternet üzerinden gerçek zamanlı olarak yazışmaya imkân tanıyan eski ve basit bir mesajlaşma sistemi."
+  },
+  {
+    "slug": "terminal-file-manager",
+    "en": "Terminal File Manager",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Dosyalarınızı görsel pencereler yerine sadece komut satırı üzerinden yönetmenizi sağlayan araç."
+  },
+  {
+    "slug": "runtime-environment",
+    "en": "Runtime Environment",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın bilgisayarda çalışabilmesi için ihtiyaç duyduğu temel destekleyici ortam."
+  },
+  {
+    "slug": "sql-client",
+    "en": "SQL Client",
+    "full": "",
+    "cat": "data",
+    "kisa": "Veritabanındaki bilgileri sorgulamanıza ve yönetmenize yardımcı olan uygulama."
+  },
+  {
+    "slug": "deterministic-pipelines",
+    "en": "Deterministic Pipelines",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Her çalıştırıldığında aynı girdiyle her zaman aynı sonucu veren düzenli işlem süreçleri."
+  },
+  {
+    "slug": "thread-safety",
+    "en": "Thread-safety",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir programın aynı anda birden fazla işlem yaparken verilerin bozulmasını engelleyen güvenlik özelliği."
   }
 ]
