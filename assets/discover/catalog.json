@@ -2645,7 +2645,26 @@
     "lite": false,
     "headline": "karmaşık yazılım görevleri için yapay zekâ",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "vLLM ile sunum altyapısını kur",
+          "komut": "pip install vllm"
+        },
+        {
+          "baslik": "Hugging Face CLI ile model ağırlıklarını indir",
+          "komut": "hf download zai-org/GLM-5.2-FP8"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "vLLM sunucusunu başlat",
+          "komut": "vllm serve zai-org/GLM-5.2-FP8"
+        }
+      ],
+      "kaynak": "Resmî GLM-5 README (zai-org/GLM-5) · vLLM dokümantasyonu"
+    }
   },
   {
     "slug": "kilocode",
