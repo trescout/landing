@@ -125,7 +125,7 @@ Genel kontrol listesi (kod repo'ları için):
 - [ ] Type check geçiyor (varsa)
 - [ ] Lint geçiyor
 - [ ] Birim test eklendi (kritik logic için)
-- [ ] Preview deploy yeşil (varsa)
+- [ ] Preview deploy yeşil (varsa · fork PR'ında Vercel check'i `Authorization required to deploy` ile kırmızı görünür, bu bir hata değildir: sayfa görünümünü etkileyen işlerde Burhan authorize edip preview'a bakar, içerik/JSON PR'larında bloklamaz)
 - [ ] Türkçe içerik varsa Gemini → Claude akışından geçti
 - [ ] PR açıklamasında AI Traceability dolduruldu
 - [ ] Lead Developer (Burhan) onayladı
@@ -205,7 +205,7 @@ Tek kaynak: `docs/BRAND.md §3`. Hardcoded yeni renk eklemeyin; mevcut palet vey
 
 ## 7. PR akışı
 
-1. Branch açın (`feat/`, `fix/`, `docs/` öneki)
+1. Branch açın (`feat/`, `fix/`, `docs/` öneki) · repoya yazma yetkiniz yoksa kendi **fork'unuzda** açın, PR'ı fork'tan gönderin
 2. Kod + (gerekirse) doküman güncellemesi
    - Conventional commit mesajı: `feat(<scope>): ...`, `fix(<scope>): ...`, `docs(<scope>): ...`, `chore(<scope>): ...`
    - `<scope>` parantezinde **kullanılan AI aracı**: `claude-code`, `cursor`, `antigravity`, `manual`. Örnek: `feat(claude-code): add tally form to hero`
@@ -213,7 +213,9 @@ Tek kaynak: `docs/BRAND.md §3`. Hardcoded yeni renk eklemeyin; mevcut palet vey
 4. PR açın · template (`.github/pull_request_template.md`) otomatik gelir, tüm bölümleri doldurun
 5. Burhan Claude ile son denetim yapar, merge eder
 
-> Repo küçük, 3 kişilik. Issue template'i yok · ad-hoc issue'lar yeterli. AI_USAGE_LOG yok · git log + commit scope audit trail için yeterli. Bu yapı `trescout/app` açıldığında o repoya göre yeniden tartılır.
+> Repo küçük, 3 kişilik. Issue template'i yok · ad-hoc issue'lar yeterli. Bu yapı `trescout/app` açıldığında o repoya göre yeniden tartılır.
+>
+> **Güncelleme (2026-07-27):** Bu not eskiden "AI_USAGE_LOG yok · git log + commit scope yeterli" diyordu, §3.e kontrol listesi ise dosyayı istiyordu. Çelişki §3.e lehine kapatıldı: `docs/AI_USAGE_LOG.md` artık var ve org-wide §3.d izlenebilirliğinin tek satırlık özeti olarak tutulur (git log onun yerine geçmez, çünkü hangi AI aracının hangi rolde kullanıldığını commit scope tek başına taşımıyor).
 
 ---
 
