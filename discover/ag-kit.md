@@ -54,7 +54,7 @@ Bu projede Antigravity çalışma alanı kurdum ve AG Kit araçlarını aktif et
 - [GitHub deposu →](https://github.com/vudovn/ag-kit)
 
 ## İlgili sözlük terimleri
-AI Agents Agentic Agents Artificial Intelligence 
+Agentic Systems AI Agents Agentic Agents Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

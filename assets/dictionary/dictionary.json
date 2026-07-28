@@ -2966,5 +2966,19 @@
     "full": "",
     "cat": "data",
     "kisa": "Sisteme eklenen kaynak miktarı arttıkça, performansın da aynı oranda düzenli bir şekilde artması durumu."
+  },
+  {
+    "slug": "ai-companions",
+    "en": "AI Companions",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kullanıcıyla duygusal bağ kuran ve kişisel ihtiyaçlara göre destek sunan yapay zekâ yazılımlarıdır."
+  },
+  {
+    "slug": "agentic-systems",
+    "en": "Agentic Systems",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Birden fazla yapay zekâ biriminin iş birliği yaparak karmaşık sorunları çözdüğü sistemler bütünüdür."
   }
 ]
