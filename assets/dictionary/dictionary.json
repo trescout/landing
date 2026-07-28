@@ -2938,5 +2938,33 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bir programın aynı anda birden fazla işlem yaparken verilerin bozulmasını engelleyen güvenlik özelliği."
+  },
+  {
+    "slug": "gis",
+    "en": "GIS",
+    "full": "Geographic Information System",
+    "cat": "data",
+    "kisa": "Dünya üzerindeki coğrafi verileri toplayan, analiz eden ve harita üzerinde görselleştiren dijital sistem."
+  },
+  {
+    "slug": "fine-tuned-ruleset",
+    "en": "Fine-tuned Ruleset",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Belirli bir işi daha iyi yapması için özel verilerle eğitilerek hassaslaştırılmış kurallar bütünü."
+  },
+  {
+    "slug": "continuous-deployment",
+    "en": "Continuous Deployment",
+    "full": "CD",
+    "cat": "dev",
+    "kisa": "Testi başarıyla geçen kodların hiçbir insan müdahalesi olmadan otomatik olarak canlıya alınması."
+  },
+  {
+    "slug": "linear-scalability",
+    "en": "Linear Scalability",
+    "full": "",
+    "cat": "data",
+    "kisa": "Sisteme eklenen kaynak miktarı arttıkça, performansın da aynı oranda düzenli bir şekilde artması durumu."
   }
 ]

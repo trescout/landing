@@ -5895,5 +5895,72 @@
     "stars": 13457,
     "lite": false,
     "headline": "Kendi sunucunuzda kişisel yapay zekâ destekli VPN"
+  },
+  {
+    "slug": "geolibre",
+    "title": "GeoLibre",
+    "tagline": "GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için tasarlanmış hafif, bulut tabanlı bir coğrafi bilgi…",
+    "meta": "★ 2.891 · TypeScript",
+    "image": "/assets/discover/og/geolibre.webp",
+    "source": "GitHub",
+    "date": "2026-07-28",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 2891,
+    "lite": false,
+    "headline": "Bulut tabanlı açık kaynaklı haritalama",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "ag-kit",
+    "title": "Ag Kit",
+    "tagline": "Ag-kit, TypeScript tabanlı projelerde otonom yapay zekâ ajanları (AI agents) oluşturmak için gerekli araçları ve yapıları…",
+    "meta": "★ 8.020 · TypeScript",
+    "image": "/assets/discover/og/ag-kit.webp",
+    "source": "GitHub",
+    "date": "2026-07-28",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 8020,
+    "lite": false,
+    "headline": "Antigravity için otonom yapay zekâ kiti"
+  },
+  {
+    "slug": "cassandra",
+    "title": "Cassandra",
+    "tagline": "Apache Cassandra, standart donanımlar veya bulut altyapıları üzerinde performans kaybı yaşatmadan doğrusal ölçeklenebilirlik…",
+    "meta": "★ 10.004 · Java",
+    "image": "/assets/discover/og/cassandra.webp",
+    "source": "GitHub",
+    "date": "2026-07-28",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 10004,
+    "lite": false,
+    "headline": "Dağıtık sistemler için ölçeklenebilir veritabanı",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "imgui",
+    "title": "Imgui",
+    "tagline": "Dear ImGui, C++ projeleri için minimum bağımlılıkla çalışan, hafif bir grafik kullanıcı arayüzü (graphical user interface)…",
+    "meta": "★ 75.256 · C++",
+    "image": "/assets/discover/og/imgui.webp",
+    "source": "GitHub",
+    "date": "2026-07-28",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 75256,
+    "lite": false,
+    "headline": "C++ projeleri için hafif arayüz",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]
