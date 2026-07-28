@@ -2104,8 +2104,6 @@
     ],
     "stars": 447139,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "headline": "Yazılım dünyasına ücretsiz adım atın"
   },
   {
@@ -2202,9 +2200,16 @@
     ],
     "stars": 94629,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
-    "headline": "Tarayıcı işlemlerini yapay zekâ ile otomatikleştirin"
+    "headline": "Tarayıcı işlemlerini yapay zekâ ile otomatikleştirin",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile (Node.js)",
+          "komut": "npm i puppeteer"
+        }
+      ],
+      "kaynak": "npm (resmî paket yöneticisi) · pnpm / yarn"
+    }
   },
   {
     "slug": "teslamate",
@@ -2270,8 +2275,21 @@
     "stars": 48210,
     "lite": false,
     "headline": "Windows sisteminizi hafifletin ve özelleştirin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "PowerShell ile doğrudan çalıştırma (Windows)",
+          "komut": "& ([scriptblock]::Create((irm \"https://debloat.raphi.re/\")))"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Sessiz modda çalıştır",
+          "komut": "& ([scriptblock]::Create((irm \"https://debloat.raphi.re/\"))) -Silent"
+        }
+      ],
+      "kaynak": "Resmî Win11Debloat README (Raphire/Win11Debloat)"
+    }
   },
   {
     "slug": "self-hosting-guide",
@@ -2367,8 +2385,25 @@
     "stars": 9418,
     "lite": false,
     "headline": "anahtar tabanlı esnek ağ bağlantıları",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Cargo ile (Rust projesine ekle)",
+          "komut": "cargo add iroh"
+        },
+        {
+          "baslik": "iroh CLI aracını kur",
+          "komut": "cargo install iroh"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Node kimliğini göster (CLI)",
+          "komut": "iroh node id"
+        }
+      ],
+      "kaynak": "crates.io (iroh) · resmî dokümantasyon (iroh.computer)"
+    }
   },
   {
     "slug": "codebase-memory-mcp",
@@ -2433,8 +2468,25 @@
     "stars": 34017,
     "lite": false,
     "headline": "Açık kaynaklı kodlama ajanı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile CLI kurulumu (Global)",
+          "komut": "npm i -g @continuedev/cli"
+        },
+        {
+          "baslik": "VS Code eklentisi olarak kurulum",
+          "komut": "code --install-extension Continue.continue"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "CLI üzerinden Continue ajanını çalıştır",
+          "komut": "cn"
+        }
+      ],
+      "kaynak": "npm (@continuedev/cli) · VS Code Marketplace (Continue.continue)"
+    }
   },
   {
     "slug": "penpot",
@@ -2466,9 +2518,7 @@
     ],
     "stars": 10739,
     "lite": false,
-    "headline": "Hafif ve açık kaynaklı strateji oyunu",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "headline": "Hafif ve açık kaynaklı strateji oyunu"
   },
   {
     "slug": "ui-tars-desktop",
@@ -2565,8 +2615,25 @@
     "stars": 4301,
     "lite": false,
     "headline": "karmaşık yazılım görevleri için yapay zekâ",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "vLLM ile sunum altyapısını kur",
+          "komut": "pip install vllm"
+        },
+        {
+          "baslik": "Hugging Face CLI ile model ağırlıklarını indir",
+          "komut": "hf download zai-org/GLM-5.2-FP8"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "vLLM sunucusunu başlat",
+          "komut": "vllm serve zai-org/GLM-5.2-FP8"
+        }
+      ],
+      "kaynak": "Resmî GLM-5 README (zai-org/GLM-5) · vLLM dokümantasyonu"
+    }
   },
   {
     "slug": "kilocode",
@@ -2615,8 +2682,25 @@
     "stars": 38124,
     "lite": false,
     "headline": "Modern web uygulamaları için yapay zekâ destekli altyapı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install --cask dotnet-sdk"
+        },
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install Microsoft.DotNet.SDK.10"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Yeni ASP.NET Core projesi oluştur ve çalıştır",
+          "komut": "dotnet new webapi -n MyWebApp\ncd MyWebApp\ndotnet run"
+        }
+      ],
+      "kaynak": "Resmî Microsoft .NET dokümantasyonu (learn.microsoft.com/aspnet/core)"
+    }
   },
   {
     "slug": "awesome-artificial-intelligence",
@@ -2651,8 +2735,25 @@
     "stars": 7550,
     "lite": false,
     "headline": "Yerel sistemde yapay zekâ video üretimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "GitHub'dan depoyu klonla ve dizine gir",
+          "komut": "git clone https://github.com/Lightricks/LTX-2.git\ncd LTX-2"
+        },
+        {
+          "baslik": "Model ağırlıklarını indirin (Hugging Face CLI)",
+          "komut": "hf download Lightricks/LTX-2.3 ltx-2.3-22b-distilled-1.1.safetensors --local-dir models/ltx-2.3"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "uv ile çıkarım (inference) boru hattını çalıştır",
+          "komut": "uv run python -m ltx_pipelines.distilled --distilled-checkpoint-path models/ltx-2.3/ltx-2.3-22b-distilled-1.1.safetensors"
+        }
+      ],
+      "kaynak": "Resmî LTX-2 README (Lightricks/LTX-2)"
+    }
   },
   {
     "slug": "libretranslate",
@@ -2668,8 +2769,25 @@
     "stars": 15075,
     "lite": false,
     "headline": "Kendi sunucunuzda özgür makine çevirisi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install libretranslate"
+        },
+        {
+          "baslik": "Docker ile",
+          "komut": "docker run -p 5000:5000 libretranslate/libretranslate"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Çeviri sunucusunu başlat",
+          "komut": "libretranslate"
+        }
+      ],
+      "kaynak": "PyPI (libretranslate) · Docker Hub (libretranslate/libretranslate)"
+    }
   },
   {
     "slug": "palmier-pro",
@@ -2685,9 +2803,7 @@
     ],
     "stars": 2134,
     "lite": false,
-    "headline": "macOS için yapay zekâlı video düzenleyici",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "headline": "macOS için yapay zekâlı video düzenleyici"
   },
   {
     "slug": "worldmonitor",
@@ -2719,9 +2835,7 @@
     ],
     "stars": 27722,
     "lite": false,
-    "headline": "Üretken yapay zekâ için kapsamlı rehber",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "headline": "Üretken yapay zekâ için kapsamlı rehber"
   },
   {
     "slug": "agent-native",
@@ -2849,8 +2963,25 @@
     "stars": 3782,
     "lite": false,
     "headline": "Bilibili bilet alım süreçlerini hızlandırın",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Linux · macOS için otomatik kurulum",
+          "komut": "curl -fsSL https://raw.githubusercontent.com/mikumifa/biliTickerBuy/main/install.sh | sh"
+        },
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install biliTickerBuy"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Komut satırından çalıştır",
+          "komut": "btb"
+        }
+      ],
+      "kaynak": "Resmî biliTickerBuy dokümantasyonu (docs/installation.md)"
+    }
   },
   {
     "slug": "spiderfoot",
@@ -2897,9 +3028,7 @@
     ],
     "stars": 44809,
     "lite": false,
-    "headline": "yapay zekâ modellerinin gizli talimatları",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "headline": "yapay zekâ modellerinin gizli talimatları"
   },
   {
     "slug": "stirling-pdf",
