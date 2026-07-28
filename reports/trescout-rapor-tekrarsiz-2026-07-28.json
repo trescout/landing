@@ -1,0 +1,103 @@
+{
+  "date": "2026-07-28",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "summary": "GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için tasarlanmış hafif, bulut tabanlı bir coğrafi bilgi sistemi (GIS) platformudur. TypeScript ile geliştirilen bu araç, web tarayıcıları, masaüstü, mobil cihazlar ve Jupyter not defterleri (Jupyter notebooks) üzerinde çalışabilmektedir.",
+          "meta": "TypeScript · ★ 2.891 · +420 bugün"
+        },
+        {
+          "title": "vudovn/ag-kit",
+          "url": "https://github.com/vudovn/ag-kit",
+          "summary": "Ag-kit, TypeScript tabanlı projelerde otonom yapay zekâ ajanları (AI agents) oluşturmak için gerekli araçları ve yapıları sunan bir geliştirme kütüphanesidir. Geliştiricilerin karmaşık iş akışlarını yönetebilen ajan sistemlerini (agentic systems) hızlıca tasarlamasına olanak tanır.",
+          "meta": "TypeScript · ★ 8.020 · +14 bugün"
+        },
+        {
+          "title": "apache/cassandra",
+          "url": "https://github.com/apache/cassandra",
+          "summary": "Apache Cassandra, standart donanımlar veya bulut altyapıları üzerinde performans kaybı yaşatmadan doğrusal ölçeklenebilirlik (linear scalability) ve hata toleransı (fault-tolerance) sağlayan açık kaynaklı, dağıtık bir işlemsel veritabanıdır (transactional distributed database). Java diliyle geliştirilen bu sistem, yüksek erişilebilirlik gerektiren büyük ölçekli veri yönetim süreçleri için tasarlanmıştır.",
+          "meta": "Java · ★ 10.004 · +11 bugün"
+        },
+        {
+          "title": "ocornut/imgui",
+          "url": "https://github.com/ocornut/imgui",
+          "summary": "Dear ImGui, C++ projeleri için minimum bağımlılıkla çalışan, hafif bir grafik kullanıcı arayüzü (graphical user interface) kütüphanesidir. Yazılım geliştiricilere hızlı prototipleme ve araç geliştirme süreçlerinde sade bir arayüz oluşturma imkânı tanır.",
+          "meta": "C++ · ★ 75.256 · +51 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Our position on open-weights models",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "summary": "Anthropic, açık ağırlıklı modellerin (open-weights models) güvenlik risklerini ve kötüye kullanım potansiyelini gerekçe göstererek bu modellere karşı temkinli bir yaklaşım benimsiyor. Şirket, yapay zekâ sistemlerinin geliştirilmesinde şeffaflık ile güvenlik arasında bir denge kurulması gerektiğini savunuyor.",
+          "meta": "721 oy · 1.019 yorum"
+        },
+        {
+          "title": "Benchmarking Opus 5 on SlopCodeBench",
+          "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+          "summary": "SlopCodeBench, kodlama odaklı yapay zekâ ajanlarının karmaşık ve düşük kaliteli veri setleri karşısındaki performansını ölçmek için geliştirilen bir kıyaslama testi (benchmarking) aracıdır. Bu test, modellerin kod oluşturma süreçlerinde karşılaştıkları gürültülü verileri ayıklama ve bağlam yönetimi (context management) yeteneklerini değerlendirir.",
+          "meta": "223 oy · 52 yorum"
+        },
+        {
+          "title": "Using an open model feels surprisingly good",
+          "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+          "summary": "Açık kaynaklı dil modellerinin yerel sistemlerde çalıştırılması, veri gizliliği ve model üzerinde tam denetim sağlama avantajları nedeniyle tercih ediliyor. Kullanıcılar, kapalı kaynaklı sistemlere bağımlılığı azaltan bu modellerin performans ve özelleştirilebilirlik açısından sunduğu esnekliği ön plana çıkarıyor.",
+          "meta": "201 oy · 66 yorum"
+        },
+        {
+          "title": "Watching Go's new garbage collector move through the heap",
+          "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+          "summary": "Go programlama dili, yeni çöp toplayıcı (garbage collector) mekanizmasıyla bellek yönetimi süreçlerinde daha düşük gecikme süreleri hedefliyor. Bu güncelleme, yığın (heap) üzerindeki nesne tarama işlemlerini optimize ederek sistem performansını artırıyor.",
+          "meta": "196 oy · 20 yorum"
+        },
+        {
+          "title": "The computer that helped win World War II",
+          "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+          "summary": "İkinci Dünya Savaşı sırasında Alman şifrelerini kırmak için geliştirilen Colossus bilgisayarı, IEEE tarafından tarihsel bir dönüm noktası (milestone) olarak tescillendi. Bu sistem, ilk programlanabilir dijital elektronik bilgisayar (electronic digital computer) olma özelliğiyle modern bilişim teknolojilerinin temelini oluşturuyor.",
+          "meta": "193 oy · 76 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K3, görsel ve metinsel verileri işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapay zekâ modelidir. Model, karmaşık görüntü analizlerini ve metin tabanlı görevleri bütünleşik bir yapıda gerçekleştirmek üzere tasarlanmıştır.",
+          "meta": "♥ 6.868 · 2.850 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "GIS",
+      "explanation": "Dünya üzerindeki coğrafi verileri toplayan, analiz eden ve harita üzerinde görselleştiren dijital sistem."
+    },
+    {
+      "term": "Jupyter notebooks",
+      "explanation": "Kod yazarken aynı zamanda açıklayıcı metinler ve sonuçları yan yana görmenizi sağlayan etkileşimli çalışma ortamı."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip hedeflenen görevleri yerine getirebilen otonom yapay zekâ yazılımları."
+    },
+    {
+      "term": "agentic systems",
+      "explanation": "Birden fazla yapay zekâ biriminin birbiriyle iş birliği yaparak karmaşık sorunları çözdüğü sistemler."
+    },
+    {
+      "term": "linear scalability",
+      "explanation": "Sisteme eklenen kaynak miktarı arttıkça, performansın da aynı oranda düzenli bir şekilde artması durumu."
+    }
+  ]
+}

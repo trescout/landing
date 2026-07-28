@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-28",
+  "editorial": "Bugünün teknoloji gündemi merkeziyetsiz iletişim protokolleri ve ağ sansürünü aşmaya odaklanan araçlar (censorship circumvention tools) etrafında şekilleniyor. Açık kaynaklı dosya yöneticileri ve veri toplama yazılımları (data scrapers) GitHub üzerinde geliştirici ilgisini çeken diğer temel başlıklar arasında yer alıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "summary": "BitChat, Bluetooth ağ (Bluetooth mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen yerel bir sohbet ortamı sunuyor. İnternet erişimi olmayan alanlarda, İnternet Aktarım Sohbeti (IRC) benzeri bir deneyim sağlamak amacıyla Swift diliyle geliştirilmiştir.",
+          "meta": "Swift · ★ 32.586 · +2.346 bugün"
+        },
+        {
+          "title": "amnezia-vpn/amnezia-client",
+          "url": "https://github.com/amnezia-vpn/amnezia-client",
+          "summary": "Amnezia VPN istemcisi, kullanıcıların kendi sunucuları üzerinden sansürsüz internet erişimi sağlamasına olanak tanıyan açık kaynaklı bir ağ aracıdır. C++ diliyle geliştirilen uygulama, masaüstü ve mobil platformlarda özelleştirilebilir protokol desteğiyle gizlilik odaklı bağlantı seçenekleri sunar.",
+          "meta": "C++ · ★ 13.981 · +515 bugün"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi, kullanıcıların kendi sunucularında barındırabildiği, gerçek zamanlı sesli sohbet ve oyun oynama yeteneklerine sahip yapay zekâ tabanlı sanal karakterler (AI companions) oluşturmayı sağlıyor. TypeScript diliyle geliştirilen bu proje, Neuro-sama benzeri etkileşimli dijital varlıkları masaüstü ve web platformlarına taşıyor.",
+          "meta": "TypeScript · ★ 44.255 · +572 bugün"
+        },
+        {
+          "title": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "summary": "GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için tasarlanmış hafif, bulut tabanlı bir coğrafi bilgi sistemi (GIS) platformudur. TypeScript ile geliştirilen bu araç, web tarayıcıları, masaüstü, mobil cihazlar ve Jupyter not defterleri (Jupyter notebooks) üzerinde çalışabilmektedir.",
+          "meta": "TypeScript · ★ 2.891 · +420 bugün"
+        },
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Go diliyle geliştirilen superfile, terminal tabanlı dosya yönetimi için modern ve görsel açıdan zengin bir arayüz sunuyor. Kullanıcılar, komut satırı üzerinde dosya işlemlerini daha hızlı ve estetik bir deneyimle gerçekleştirebiliyor.",
+          "meta": "Go · ★ 21.053 · +600 bugün"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler, Çin merkezli popüler sosyal medya platformlarındaki içerikleri ve kullanıcı yorumlarını otomatik olarak toplamaya yarayan bir veri kazıma (web scraping) aracıdır. Python tabanlı bu yazılım, Xiaohongshu, Douyin, Bilibili ve Weibo gibi birçok platformdan yapılandırılmış veri çekme süreçlerini destekler.",
+          "meta": "Python · ★ 58.510 · +362 bugün"
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilmiş bir tasarım dili (design language) kütüphanesidir. Geliştiricilerin yapay zekâ destekli arayüzlerini daha tutarlı ve estetik bir görsel standartta (design system) oluşturmalarını sağlar.",
+          "meta": "JavaScript · ★ 51.792 · +847 bugün"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos, finansal piyasaların kendine özgü dilini çözümlemek amacıyla geliştirilen bir temel modeldir (foundation model). Finansal verilerin işlenmesi ve analizi süreçlerinde uzmanlaşmış bir dil yapısı sunar.",
+          "meta": "Python · ★ 34.655 · +441 bugün"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Alibaba tarafından geliştirilen Open-Code-Review, kesinlik temelli iş akışlarını büyük dil modelleriyle (LLM) birleştiren hibrit bir kod inceleme aracıdır. Yazılım geliştirme süreçlerinde satır düzeyinde yorumlar sunan araç, güvenlik açıklarını tespit etmek için önceden eğitilmiş kurallar (fine-tuned ruleset) kullanır.",
+          "meta": "Go · ★ 15.118 · +979 bugün"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Jenkins, yazılım geliştirme süreçlerinde sürekli entegrasyon (continuous integration) ve sürekli dağıtım (continuous deployment) işlemlerini otomatikleştiren açık kaynaklı bir sunucudur. Java tabanlı bu platform, yazılım projelerinin derlenmesi, test edilmesi ve yayına alınması aşamalarını yönetmek için geniş bir eklenti ekosistemi sunar.",
+          "meta": "Java · ★ 25.927 · +180 bugün"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video, videoları indirip karelerine ayıran ve ses kayıtlarını metne dönüştüren bir Python aracıdır. Elde edilen verileri Claude modeline aktararak yapay zekânın video içeriğini analiz etmesini sağlar.",
+          "meta": "Python · ★ 11.353 · +434 bugün"
+        },
+        {
+          "title": "vudovn/ag-kit",
+          "url": "https://github.com/vudovn/ag-kit",
+          "summary": "Ag-kit, TypeScript tabanlı projelerde otonom yapay zekâ ajanları (AI agents) oluşturmak için gerekli araçları ve yapıları sunan bir geliştirme kütüphanesidir. Geliştiricilerin karmaşık iş akışlarını yönetebilen ajan sistemlerini (agentic systems) hızlıca tasarlamasına olanak tanır.",
+          "meta": "TypeScript · ★ 8.020 · +14 bugün"
+        },
+        {
+          "title": "apache/cassandra",
+          "url": "https://github.com/apache/cassandra",
+          "summary": "Apache Cassandra, standart donanımlar veya bulut altyapıları üzerinde performans kaybı yaşatmadan doğrusal ölçeklenebilirlik (linear scalability) ve hata toleransı (fault-tolerance) sağlayan açık kaynaklı, dağıtık bir işlemsel veritabanıdır (transactional distributed database). Java diliyle geliştirilen bu sistem, yüksek erişilebilirlik gerektiren büyük ölçekli veri yönetim süreçleri için tasarlanmıştır.",
+          "meta": "Java · ★ 10.004 · +11 bugün"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlar üzerinden güncel verileri tarayarak araştırma yapan bir yapay zekâ yeteneği (AI skill) sunuyor. Python tabanlı bu araç, toplanan bilgileri analiz edip doğrulanabilir bir özet haline getiriyor.",
+          "meta": "Python · ★ 54.328 · +240 bugün"
+        },
+        {
+          "title": "ocornut/imgui",
+          "url": "https://github.com/ocornut/imgui",
+          "summary": "Dear ImGui, C++ projeleri için minimum bağımlılıkla çalışan, hafif bir grafik kullanıcı arayüzü (graphical user interface) kütüphanesidir. Yazılım geliştiricilere hızlı prototipleme ve araç geliştirme süreçlerinde sade bir arayüz oluşturma imkânı tanır.",
+          "meta": "C++ · ★ 75.256 · +51 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Our position on open-weights models",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "summary": "Anthropic, açık ağırlıklı modellerin (open-weights models) güvenlik risklerini ve kötüye kullanım potansiyelini gerekçe göstererek bu modellere karşı temkinli bir yaklaşım benimsiyor. Şirket, yapay zekâ sistemlerinin geliştirilmesinde şeffaflık ile güvenlik arasında bir denge kurulması gerektiğini savunuyor.",
+          "meta": "721 oy · 1.019 yorum"
+        },
+        {
+          "title": "Benchmarking Opus 5 on SlopCodeBench",
+          "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+          "summary": "SlopCodeBench, kodlama odaklı yapay zekâ ajanlarının karmaşık ve düşük kaliteli veri setleri karşısındaki performansını ölçmek için geliştirilen bir kıyaslama testi (benchmarking) aracıdır. Bu test, modellerin kod oluşturma süreçlerinde karşılaştıkları gürültülü verileri ayıklama ve bağlam yönetimi (context management) yeteneklerini değerlendirir.",
+          "meta": "223 oy · 52 yorum"
+        },
+        {
+          "title": "Using an open model feels surprisingly good",
+          "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+          "summary": "Açık kaynaklı dil modellerinin yerel sistemlerde çalıştırılması, veri gizliliği ve model üzerinde tam denetim sağlama avantajları nedeniyle tercih ediliyor. Kullanıcılar, kapalı kaynaklı sistemlere bağımlılığı azaltan bu modellerin performans ve özelleştirilebilirlik açısından sunduğu esnekliği ön plana çıkarıyor.",
+          "meta": "201 oy · 66 yorum"
+        },
+        {
+          "title": "Watching Go's new garbage collector move through the heap",
+          "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+          "summary": "Go programlama dili, yeni çöp toplayıcı (garbage collector) mekanizmasıyla bellek yönetimi süreçlerinde daha düşük gecikme süreleri hedefliyor. Bu güncelleme, yığın (heap) üzerindeki nesne tarama işlemlerini optimize ederek sistem performansını artırıyor.",
+          "meta": "196 oy · 20 yorum"
+        },
+        {
+          "title": "The computer that helped win World War II",
+          "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+          "summary": "İkinci Dünya Savaşı sırasında Alman şifrelerini kırmak için geliştirilen Colossus bilgisayarı, IEEE tarafından tarihsel bir dönüm noktası (milestone) olarak tescillendi. Bu sistem, ilk programlanabilir dijital elektronik bilgisayar (electronic digital computer) olma özelliğiyle modern bilişim teknolojilerinin temelini oluşturuyor.",
+          "meta": "193 oy · 76 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K3, görsel ve metinsel verileri işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapay zekâ modelidir. Model, karmaşık görüntü analizlerini ve metin tabanlı görevleri bütünleşik bir yapıda gerçekleştirmek üzere tasarlanmıştır.",
+          "meta": "♥ 6.868 · 2.850 indirme"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Poolside tarafından geliştirilen Laguna-S-2.1, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Model, geniş ölçekli veri setleri üzerinde eğitilerek çeşitli doğal dil işleme süreçlerinde kullanılmak üzere tasarlanmıştır.",
+          "meta": "♥ 768 · 63.605 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel metinleri işleyerek metin çıktısı üreten bir görüntüden metne (image-to-text) modelidir. Model, karmaşık dokümanlardaki verileri dijital formata dönüştürme süreçlerinde kullanılmak üzere tasarlanmıştır.",
+          "meta": "♥ 3.349 · 2.645.773 indirme"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF, görsel ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir modeldir. Model, sansürsüz (uncensored) yapısı ve çeşitli veri setlerinin birleştirilmesiyle oluşturulan özelleştirilmiş mimarisiyle dikkat çekmektedir.",
+          "meta": "♥ 770 · 634.146 indirme"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Upstage tarafından geliştirilen Solar-Open2-250B, metin üretimi (text generation) odaklı geniş ölçekli bir dil modelidir. Yüksek parametre kapasitesiyle karmaşık dil işleme görevlerinde performans artışı sağlamayı hedefler.",
+          "meta": "♥ 635 · 3.761 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Bluetooth mesh",
+      "explanation": "Birbirine bağlı çok sayıda cihazın, veriyi elden ele ileterek geniş bir alanda iletişim kurmasını sağlayan kablosuz ağ teknolojisi."
+    },
+    {
+      "term": "IRC",
+      "explanation": "İnternet üzerinden gerçek zamanlı yazışmaya olanak tanıyan en eski sohbet protokollerinden biri."
+    },
+    {
+      "term": "AI companions",
+      "explanation": "Kullanıcıyla duygusal bağ kurabilen, sohbet eden ve kişisel ihtiyaçlara göre destek veren yapay zekâ yazılımları."
+    },
+    {
+      "term": "GIS",
+      "explanation": "Dünya üzerindeki coğrafi verileri toplayan, analiz eden ve harita üzerinde görselleştiren dijital sistem."
+    },
+    {
+      "term": "Jupyter notebooks",
+      "explanation": "Kod yazarken aynı zamanda açıklayıcı metinler ve sonuçları yan yana görmenizi sağlayan etkileşimli çalışma ortamı."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "İnternet sitelerindeki verileri otomatik yazılımlar kullanarak kopyalayıp toplama işlemi."
+    },
+    {
+      "term": "design language",
+      "explanation": "Bir markanın görsel kimliğini oluşturan renk, yazı tipi ve şekil gibi öğelerin tutarlı kullanım kuralları."
+    },
+    {
+      "term": "design system",
+      "explanation": "Bir ürünün tasarımında kullanılan tüm parçaların, kodların ve kuralların bir arada bulunduğu kapsamlı kütüphane."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Çok geniş veri kümeleriyle eğitilmiş, farklı birçok görevi yerine getirebilen temel yapay zekâ yapısı."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "fine-tuned ruleset",
+      "explanation": "Belirli bir işi daha iyi yapması için özel verilerle eğitilerek hassaslaştırılmış kurallar bütünü."
+    },
+    {
+      "term": "continuous integration",
+      "explanation": "Yazılımcıların yazdığı kodların sık sık ana projeye eklenip hataların erkenden bulunmasını sağlayan süreç."
+    },
+    {
+      "term": "continuous deployment",
+      "explanation": "Testi başarıyla geçen kodların hiçbir insan müdahalesi olmadan otomatik olarak canlıya alınması."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip hedeflenen görevleri yerine getirebilen otonom yapay zekâ yazılımları."
+    },
+    {
+      "term": "agentic systems",
+      "explanation": "Birden fazla yapay zekâ biriminin birbiriyle iş birliği yaparak karmaşık sorunları çözdüğü sistemler."
+    },
+    {
+      "term": "linear scalability",
+      "explanation": "Sisteme eklenen kaynak miktarı arttıkça, performansın da aynı oranda düzenli bir şekilde artması durumu."
+    }
+  ]
+}
