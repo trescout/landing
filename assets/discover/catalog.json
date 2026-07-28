@@ -2690,7 +2690,7 @@
         },
         {
           "baslik": "Windows (winget)",
-          "komut": "winget install Microsoft.DotNet.SDK"
+          "komut": "winget install Microsoft.DotNet.SDK.10"
         }
       ],
       "calistirma": [
