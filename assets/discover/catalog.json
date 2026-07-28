@@ -2200,20 +2200,12 @@
     ],
     "stars": 94629,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "headline": "Tarayıcı işlemlerini yapay zekâ ile otomatikleştirin",
     "cmds": {
       "kurulum": [
         {
           "baslik": "npm ile (Node.js)",
           "komut": "npm i puppeteer"
-        }
-      ],
-      "calistirma": [
-        {
-          "baslik": "Node.js betiği ile çalıştır",
-          "komut": "node index.js"
         }
       ],
       "kaynak": "npm (resmî paket yöneticisi) · pnpm / yarn"
@@ -2283,8 +2275,6 @@
     "stars": 48210,
     "lite": false,
     "headline": "Windows sisteminizi hafifletin ve özelleştirin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "cmds": {
       "kurulum": [
         {
@@ -2294,8 +2284,8 @@
       ],
       "calistirma": [
         {
-          "baslik": "Sessiz modda komut satırından çalıştır",
-          "komut": "& ([scriptblock]::Create((irm \"https://debloat.raphi.re/\"))) -Sysprep -Silent"
+          "baslik": "Sessiz modda çalıştır",
+          "komut": "& ([scriptblock]::Create((irm \"https://debloat.raphi.re/\"))) -Silent"
         }
       ],
       "kaynak": "Resmî Win11Debloat README (Raphire/Win11Debloat)"
@@ -2395,8 +2385,6 @@
     "stars": 9418,
     "lite": false,
     "headline": "anahtar tabanlı esnek ağ bağlantıları",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "cmds": {
       "kurulum": [
         {
@@ -2480,8 +2468,6 @@
     "stars": 34017,
     "lite": false,
     "headline": "Açık kaynaklı kodlama ajanı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "cmds": {
       "kurulum": [
         {
@@ -2612,22 +2598,7 @@
     "lite": false,
     "headline": "açık kaynaklı proje yönetim platformu",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
-    "cmds": {
-      "kurulum": [
-        {
-          "baslik": "Docker ile self-host kurulumu",
-          "komut": "mkdir plane-selfhost && cd plane-selfhost\ncurl -fsSL https://prime.plane.so/deploy.sh | bash"
-        }
-      ],
-      "calistirma": [
-        {
-          "baslik": "Docker Compose servislerini başlat",
-          "komut": "./setup.sh"
-        }
-      ],
-      "kaynak": "Resmî Plane dokümantasyonu (developers.plane.so)"
-    }
+    "enrich_reason": "komutsuz"
   },
   {
     "slug": "glm-5",
@@ -2644,8 +2615,6 @@
     "stars": 4301,
     "lite": false,
     "headline": "karmaşık yazılım görevleri için yapay zekâ",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "cmds": {
       "kurulum": [
         {
@@ -2713,8 +2682,6 @@
     "stars": 38124,
     "lite": false,
     "headline": "Modern web uygulamaları için yapay zekâ destekli altyapı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "cmds": {
       "kurulum": [
         {
@@ -2723,7 +2690,7 @@
         },
         {
           "baslik": "Windows (winget)",
-          "komut": "winget install Microsoft.DotNet.SDK.9"
+          "komut": "winget install Microsoft.DotNet.SDK"
         }
       ],
       "calistirma": [
@@ -2768,8 +2735,6 @@
     "stars": 7550,
     "lite": false,
     "headline": "Yerel sistemde yapay zekâ video üretimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "cmds": {
       "kurulum": [
         {
@@ -2804,8 +2769,6 @@
     "stars": 15075,
     "lite": false,
     "headline": "Kendi sunucunuzda özgür makine çevirisi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "cmds": {
       "kurulum": [
         {
@@ -3000,8 +2963,6 @@
     "stars": 3782,
     "lite": false,
     "headline": "Bilibili bilet alım süreçlerini hızlandırın",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "cmds": {
       "kurulum": [
         {
