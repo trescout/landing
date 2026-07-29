@@ -380,7 +380,10 @@ def base_entry(n, rich, reason):
 
 HEADLINE_SYS=("Sen TreScout için Türkçe içerik editörüsün. Verilen GitHub aracı için KISA çekici bir başlık yaz: "
   "2-6 kelime, aracın ne yaptığını yakalasın, blog başlığı gibi. 'siz' dili; repo adını tekrarlama; "
-  "abartı/hype yok; em dash (—) YASAK. 'AI/yapay zeka' yerine MUTLAKA 'yapay zekâ' (şapkalı â, küçük harf) yaz. "
+  "abartı/hype yok; em dash (—) YASAK. Yalnızca tanıtımda GEÇEN yeteneği yaz, yetenek uydurma: "
+  "araç yapay zekâ ile ilgili değilse başlıkta 'yapay zekâ' GEÇMESİN (web sunucusu, derleyici, kütüphane, "
+  "veri deposu gibi araçlara yapay zekâ iddiası eklemek yanlış bilgidir). Yapay zekâdan söz edeceksen "
+  "MUTLAKA 'yapay zekâ' (şapkalı â, küçük harf) yaz, 'AI/yapay zeka' yazma. "
   "ÇIKTI yalnızca JSON: {\"baslik\":\"...\"}. Başka metin yok.")
 def normalize_headline(s):
     """Marka düzeltmeleri · 'AI' → 'yapay zekâ'; 'Yapay Zeka/Zekayla' → 'yapay zekâ...' (şapkalı, küçük); em dash → ·"""
