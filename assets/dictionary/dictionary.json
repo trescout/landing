@@ -2980,5 +2980,40 @@
     "full": "",
     "cat": "ai",
     "kisa": "Birden fazla yapay zekâ biriminin iş birliği yaparak karmaşık sorunları çözdüğü sistemler bütünüdür."
+  },
+  {
+    "slug": "etf",
+    "en": "ETF",
+    "full": "Exchange Traded Fund",
+    "cat": "data",
+    "kisa": "Birçok farklı hisse senedini veya varlığı tek bir paket halinde borsada alıp satmanızı sağlayan yatırım aracıdır."
+  },
+  {
+    "slug": "backtesting",
+    "en": "Backtesting",
+    "full": "",
+    "cat": "data",
+    "kisa": "Bir yatırım stratejisinin geçmişteki piyasa verileri kullanılarak ne kadar başarılı olacağını test etme yöntemidir."
+  },
+  {
+    "slug": "voice-agents",
+    "en": "Voice Agents",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kullanıcıyla sesli iletişim kuran, soruları yanıtlayan ve komutları yerine getiren yapay zekâ asistanlarıdır."
+  },
+  {
+    "slug": "systematic-trading",
+    "en": "Systematic Trading",
+    "full": "",
+    "cat": "data",
+    "kisa": "Yatırım kararlarının duygulardan arındırılmış, önceden belirlenmiş kurallar ve disiplinli bir plan çerçevesinde verilmesidir."
+  },
+  {
+    "slug": "agent-governance-toolkit",
+    "en": "Agent Governance Toolkit",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Otonom yapay zekâ sistemlerinin güvenli, etik ve kurallara uygun çalışmasını sağlayan yönetim araçları setidir."
   }
 ]

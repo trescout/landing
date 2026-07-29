@@ -29,7 +29,7 @@ Kaynak: Resmî kurulum dokümanı (depo installation/ klasörü)
 - [GitHub deposu →](https://github.com/stefan-jansen/machine-learning-for-trading)
 
 ## İlgili sözlük terimleri
-Machine Learning Jupyter Notebooks Artificial Intelligence 
+Backtesting Machine Learning Jupyter Notebooks Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

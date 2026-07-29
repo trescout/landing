@@ -59,7 +59,7 @@ Production-agentic-rag-course projesini kullanarak bir akademik araştırma asis
 - [GitHub deposu →](https://github.com/jamwithai/production-agentic-rag-course)
 
 ## İlgili sözlük terimleri
-Clone Agentic RAG API Artificial Intelligence 
+Clone RAG Agentic API Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

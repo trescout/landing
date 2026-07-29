@@ -6091,5 +6091,102 @@
     "headline": "C++ projeleri için hafif arayüz",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "editor",
+    "title": "Editor",
+    "tagline": "TypeScript tabanlı pascalorg/editor, kullanıcıların tarayıcı üzerinden üç boyutlu mimari projeler oluşturmasına ve bu…",
+    "meta": "★ 18.985 · TypeScript",
+    "image": "/assets/discover/og/editor.webp",
+    "source": "GitHub",
+    "date": "2026-07-29",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 18985,
+    "lite": false,
+    "headline": "web tabanlı 3 boyutlu mimari düzenleyici"
+  },
+  {
+    "slug": "free-stockdb",
+    "title": "Free Stockdb",
+    "tagline": "Free-stockdb, A hisse senetleri ve borsa yatırım fonları (ETF) için günlük ve dakikalık verileri yöneten yerel bir nicel…",
+    "meta": "★ 1.492 · HTML",
+    "image": "/assets/discover/og/free-stockdb.webp",
+    "source": "GitHub",
+    "date": "2026-07-29",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1492,
+    "lite": false,
+    "headline": "yerel borsa verisi ve analiz motoru",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "speech-to-speech",
+    "title": "Speech to Speech",
+    "tagline": "Hugging Face tarafından geliştirilen speech-to-speech kütüphanesi, açık kaynaklı modeller kullanarak yerel sesli ajanlar…",
+    "meta": "★ 7.443 · Python",
+    "image": "/assets/discover/og/speech-to-speech.webp",
+    "source": "GitHub",
+    "date": "2026-07-29",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7443,
+    "lite": false,
+    "headline": "Açık kaynaklı yerel sesli ajanlar"
+  },
+  {
+    "slug": "book-to-skill",
+    "title": "Book to Skill",
+    "tagline": "Book-to-skill projesi, teknik kitapların taşınabilir belge biçimlerini (PDF) Claude Code için kullanılabilir yetenek…",
+    "meta": "★ 11.802 · Python",
+    "image": "/assets/discover/og/book-to-skill.webp",
+    "source": "GitHub",
+    "date": "2026-07-29",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 11802,
+    "lite": false,
+    "headline": "Teknik kitapları yapay zekâ yeteneğine dönüştürün"
+  },
+  {
+    "slug": "awesome-systematic-trading",
+    "title": "Awesome Systematic Trading",
+    "tagline": "Sistematik alım satım (systematic trading) alanındaki kütüphaneleri, stratejileri ve eğitim kaynaklarını bir araya getiren bu…",
+    "meta": "★ 9.886 · Python",
+    "image": "/assets/discover/og/awesome-systematic-trading.webp",
+    "source": "GitHub",
+    "date": "2026-07-29",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 9886,
+    "lite": false,
+    "headline": "Sistematik alım satım kaynak kütüphanesi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "agent-governance-toolkit",
+    "title": "Agent Governance Toolkit",
+    "tagline": "Microsoft tarafından geliştirilen ajan yönetişim araç seti (agent governance toolkit), otonom yapay zekâ ajanları için…",
+    "meta": "★ 5.342 · Python",
+    "image": "/assets/discover/og/agent-governance-toolkit.webp",
+    "source": "GitHub",
+    "date": "2026-07-29",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 5342,
+    "lite": false,
+    "headline": "Otonom yapay zekâ ajanları için güvenlik"
   }
 ]
