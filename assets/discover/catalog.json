@@ -2191,7 +2191,7 @@
     "slug": "puppeteer",
     "title": "Puppeteer",
     "tagline": "Puppeteer, Chrome ve Firefox tarayıcılarını kontrol etmek için kullanılan bir tarayıcı otomasyonu (browser automation)…",
-    "meta": "★ 94.629 · TypeScript",
+    "meta": "★ 94.629",
     "image": "/assets/discover/og/puppeteer.webp",
     "source": "GitHub",
     "date": "2026-06-15",
@@ -2200,7 +2200,7 @@
     ],
     "stars": 94629,
     "lite": false,
-    "headline": "Tarayıcı işlemlerini yapay zekâ ile otomatikleştirin",
+    "headline": "Tarayıcıları kod ile yönetin",
     "cmds": {
       "kurulum": [
         {
@@ -2265,7 +2265,7 @@
     "slug": "win11debloat",
     "title": "Win11Debloat",
     "tagline": "Win11Debloat, Windows 10 ve 11 işletim sistemlerinde önceden yüklenmiş uygulamaları kaldırmayı ve telemetri verilerini devre…",
-    "meta": "★ 48.210 · PowerShell",
+    "meta": "★ 48.210",
     "image": "/assets/discover/og/win11debloat.webp",
     "source": "GitHub",
     "date": "2026-06-16",
@@ -2274,7 +2274,7 @@
     ],
     "stars": 48210,
     "lite": false,
-    "headline": "Windows sisteminizi hafifletin ve özelleştirin",
+    "headline": "Windows sisteminizi hızlandırın ve sadeleştirin",
     "cmds": {
       "kurulum": [
         {
@@ -2375,7 +2375,7 @@
     "slug": "iroh",
     "title": "Iroh",
     "tagline": "Iroh, IP adresleri yerine anahtar tabanlı (key-based) adresleme kullanarak ağ bağlantılarını daha esnek hale getiren modüler…",
-    "meta": "★ 9.418 · Rust",
+    "meta": "★ 9.418",
     "image": "/assets/discover/og/iroh.webp",
     "source": "GitHub",
     "date": "2026-06-17",
@@ -2384,7 +2384,7 @@
     ],
     "stars": 9418,
     "lite": false,
-    "headline": "anahtar tabanlı esnek ağ bağlantıları",
+    "headline": "Anahtar tabanlı esnek ağ bağlantıları",
     "cmds": {
       "kurulum": [
         {
@@ -2457,7 +2457,7 @@
     "slug": "continue",
     "title": "Continue",
     "tagline": "Continue, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent).",
-    "meta": "★ 34.017 · TypeScript",
+    "meta": "★ 34.017",
     "image": "/assets/discover/og/continue.webp",
     "source": "GitHub",
     "date": "2026-06-18",
@@ -2467,7 +2467,7 @@
     ],
     "stars": 34017,
     "lite": false,
-    "headline": "Açık kaynaklı kodlama ajanı",
+    "headline": "Açık kaynak kodlama ajanı",
     "cmds": {
       "kurulum": [
         {
@@ -2614,7 +2614,7 @@
     ],
     "stars": 4301,
     "lite": false,
-    "headline": "karmaşık yazılım görevleri için yapay zekâ",
+    "headline": "yapay zekâ ile uzun vadeli mühendislik",
     "cmds": {
       "kurulum": [
         {
@@ -2672,7 +2672,7 @@
     "slug": "aspnetcore",
     "title": "Aspnetcore",
     "tagline": "ASP.NET Core, Windows, macOS ve Linux üzerinde modern bulut tabanlı web uygulamaları geliştirmek için kullanılan platformlar…",
-    "meta": "★ 38.124 · C#",
+    "meta": "★ 38.124",
     "image": "/assets/discover/og/aspnetcore.webp",
     "source": "GitHub",
     "date": "2026-06-19",
@@ -2681,7 +2681,7 @@
     ],
     "stars": 38124,
     "lite": false,
-    "headline": "Modern web uygulamaları için yapay zekâ destekli altyapı",
+    "headline": "Modern web uygulamaları için yapay zekâ destekli çerçeve",
     "cmds": {
       "kurulum": [
         {
@@ -2724,7 +2724,7 @@
     "slug": "ltx-2",
     "title": "LTX 2",
     "tagline": "Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python çıkarım (inference) ve düşük…",
-    "meta": "★ 7.550 · Python",
+    "meta": "★ 7.550",
     "image": "/assets/discover/og/ltx-2.webp",
     "source": "GitHub",
     "date": "2026-06-19",
@@ -2734,7 +2734,7 @@
     ],
     "stars": 7550,
     "lite": false,
-    "headline": "Yerel sistemde yapay zekâ video üretimi",
+    "headline": "yerel sistemde yapay zekâ ile video üretimi",
     "cmds": {
       "kurulum": [
         {
@@ -2759,7 +2759,7 @@
     "slug": "libretranslate",
     "title": "LibreTranslate",
     "tagline": "LibreTranslate, özgür ve açık kaynak kodlu bir makine çevirisi arayüzü (API) sunuyor.",
-    "meta": "★ 15.075 · Python",
+    "meta": "★ 15.075",
     "image": "/assets/discover/og/libretranslate.webp",
     "source": "GitHub",
     "date": "2026-06-19",
@@ -2953,7 +2953,7 @@
     "slug": "bilitickerbuy",
     "title": "biliTickerBuy",
     "tagline": "Bilibili üyelik satın alma işlemlerini otomatikleştiren bu Python tabanlı araç, bilet alım süreçlerini hızlandırmak için…",
-    "meta": "★ 3.782 · Python",
+    "meta": "★ 3.782",
     "image": "/assets/discover/og/bilitickerbuy.webp",
     "source": "GitHub",
     "date": "2026-06-22",

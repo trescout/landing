@@ -3,20 +3,38 @@
 LibreTranslate, özgür ve açık kaynak kodlu bir makine çevirisi arayüzü (API) sunuyor. Kendi sunucunuzda barındırabileceğiniz bu Python tabanlı araç, internet bağlantısı olmadan çevrim dışı çalışma imkânı sağlıyor.
 
 - ★ 15.075
-- Python
 - GitHub Trending · 2026-06-19
 
 ## Ne kazandırır?
 - Tamamen açık kaynaklı çeviri altyapısı
-- Kendi sunucunuzda barındırma imkânı
-- Google veya Azure bağımlılığı olmadan çalışma
+- İnternet bağlantısı olmadan çevrim dışı çalışma
+- Google veya Azure gibi bağımlılıkları kaldırma
 
-## Nasıl başlanır?
+## Kurulum
 
-Aracı kullanmaya başlamak için resmî dokümantasyon sayfasında yer alan hızlı başlangıç kılavuzunu inceleyebilirsiniz. Detaylı kurulum ve kullanım talimatlarına LibreTranslate'in resmî API dokümantasyon sitesi üzerinden ulaşarak kendi sunucunuzda yapılandırma adımlarını takip edebilirsiniz.
-- [Resmî kaynak →](https://libretranslate.com)
+**pip ile (PyPI)**
 
-- **Kimin için:** Verilerinin gizliliğini korumak isteyen ve çeviri hizmetini kendi sunucularında barındırmayı tercih eden geliştiriciler veya kurumlar içindir. 
+```
+pip install libretranslate
+```
+
+**Docker ile**
+
+```
+docker run -p 5000:5000 libretranslate/libretranslate
+```
+
+## Çalıştırma
+
+**Çeviri sunucusunu başlat**
+
+```
+libretranslate
+```
+
+Kaynak: PyPI (libretranslate) · Docker Hub (libretranslate/libretranslate)
+
+- **Kimin için:** Veri gizliliğine önem veren ve kendi çeviri altyapısını bağımsız olarak yönetmek isteyen kullanıcılar içindir. 
 - **Lisans:** AGPL-3.0 
 
 ## Bağlantılar

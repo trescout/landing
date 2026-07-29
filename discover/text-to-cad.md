@@ -30,7 +30,7 @@ Sen bir mühendislik asistanısın. text-to-cad kütüphanesini kullanarak belir
 - [GitHub deposu →](https://github.com/earthtojake/text-to-cad)
 
 ## İlgili sözlük terimleri
-Text-to-CAD Agent Skills AI Skills CLI Agent Artificial Intelligence 
+Text-to-CAD Agent Skills AI Skills Agent CLI Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

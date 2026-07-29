@@ -41,8 +41,7 @@
   "about": {
     "@type": "SoftwareSourceCode",
     "name": "LTX 2",
-    "codeRepository": "https://github.com/Lightricks/LTX-2",
-    "programmingLanguage": "Python"
+    "codeRepository": "https://github.com/Lightricks/LTX-2"
   }
 }
 </script>
@@ -57,15 +56,19 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
-<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · LTX 2</span><span class="disc-momentum">🚀 +51 bugün</span></div>
-<h1 class="disc-title">Yerel sistemde yapay zekâ video üretimi</h1>
+<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · LTX 2</span></div>
+<h1 class="disc-title">yerel sistemde yapay zekâ ile video üretimi</h1>
 <p class="disc-lead">Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python çıkarım (inference) ve düşük dereceli uyarlama (low-rank adaptation, LoRA) eğitim paketi sunuyor. Bu araç seti, kullanıcıların LTX-2 modellerini kendi verileriyle eğitmesine ve model çıktılarını yerel sistemlerde çalıştırmasına olanak tanıyor.</p>
-<ul class="disc-meta"><li>★ 7.550</li><li>Python</li><li>GitHub Trending · 2026-06-19</li></ul>
-      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>Kendi verilerinizle model eğitme imkânı</li><li>Yerel sistemde video ve ses üretimi</li><li>Çeşitli kontrol ve detaylandırma araçları</li></ul></section>
-      <section class="disc-sec"><h2>Nasıl başlanır?</h2><p>Kurulum komutlarını çalıştırdıktan sonra, projenin HuggingFace sayfasından gerekli model dosyalarını indirmeniz gerekir. İndirdiğiniz bu dosyaları projenin ilgili klasörlerine yerleştirerek kullanıma hazır hale getirebilirsiniz.</p><ul class="disc-links"><li><a href="https://ltx.io/model/ltx-2" target="_blank" rel="noopener">Resmî kaynak →</a></li></ul></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Kendi yerel donanımı üzerinde video ve ses üreten yapay zekâ modellerini eğitmek veya çalıştırmak isteyen kullanıcılar içindir.</span></div></div>
+<ul class="disc-meta"><li>★ 7.550</li><li>GitHub Trending · 2026-06-19</li></ul>
+      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>Ses ve video senkronizasyonu sağlar</li><li>Yerel sistemlerde model eğitimi destekler</li><li>Kendi verilerinizle düşük dereceli uyarlama yapabilirsiniz</li></ul></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>GitHub&#x27;dan depoyu klonla ve dizine gir</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>git clone https://github.com/Lightricks/LTX-2.git
+cd LTX-2</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Model ağırlıklarını indirin (Hugging Face CLI)</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>hf download Lightricks/LTX-2.3 ltx-2.3-22b-distilled-1.1.safetensors --local-dir models/ltx-2.3</code></pre></div></section>
+      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>uv ile çıkarım (inference) boru hattını çalıştır</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>uv run python -m ltx_pipelines.distilled --distilled-checkpoint-path models/ltx-2.3/ltx-2.3-22b-distilled-1.1.safetensors</code></pre></div></section>
+      <p class="disc-note"><strong>Kaynak:</strong> Resmî LTX-2 README (Lightricks/LTX-2)</p>
+      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">Bu araçla video oluşturmak için yukarıdaki komutu terminalinize yapıştırın. Komut içindeki --prompt kısmını, kendi video senaryonuz ve karakter betimlemelerinizle değiştirerek daha özgün sonuçlar alabilirsiniz; eğer sisteminizde bellek sorunu yaşarsanız komuta --quantization fp8-cast --offload cpu parametrelerini eklemeyi deneyin.</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Kendi yerel donanımı üzerinde ses ve video üreten yapay zekâ modelleriyle çalışmak isteyen geliştiriciler ve içerik üreticileri içindir.</span></div></div>
       <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/Lightricks/LTX-2" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/inference/">Inference</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/inference/">Inference</a><a href="/dictionary/cli/">CLI</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 <p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.</p>
 </article>

@@ -38,7 +38,7 @@ Agent-Native çerçevesini kullanarak uygulamam için bir aksiyon tanımlamak is
 - [GitHub deposu →](https://github.com/BuilderIO/agent-native)
 
 ## İlgili sözlük terimleri
-Agent-native Applications Framework CLI Agent API Artificial Intelligence 
+Agent-native Applications Framework Agent CLI API Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

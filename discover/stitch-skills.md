@@ -46,7 +46,7 @@ Stitch Skills kütüphanesini kullanarak mevcut arayüz kodumu analiz et ve bunu
 - [GitHub deposu →](https://github.com/google-labs-code/stitch-skills)
 
 ## İlgili sözlük terimleri
-Coding Agents Agent Skills Agents AI Skills MCP CLI 
+Coding Agents Agent Skills Agents AI Skills MCP Agent 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

@@ -3,21 +3,38 @@
 Bilibili üyelik satın alma işlemlerini otomatikleştiren bu Python tabanlı araç, bilet alım süreçlerini hızlandırmak için tasarlanmış bir yardımcı yazılımdır (ticket purchasing assistant). Kullanıcıların platform üzerindeki sınırlı stoklu ürünleri daha hızlı yakalamasına olanak tanır.
 
 - ★ 3.782
-- Python
 - GitHub Trending · 2026-06-22
 
 ## Ne kazandırır?
-- Bilibili platformunda bilet alım işlemlerini otomatikleştirir
-- Sınırlı stoklu ürünleri yakalama şansını artırır
-- Kişisel kullanım için geliştirilmiş ücretsiz bir araçtır
+- Bilibili üzerinden bilet alım işlemlerini otomatize eder.
+- Sınırlı stoklu ürünleri yakalama hızını artırır.
+- Kişisel kullanım için tasarlanmış yardımcı bir araçtır.
 
-## Nasıl başlanır?
+## Kurulum
 
-Aracı kullanmaya başlamak için GitHub sayfasındaki kurulum rehberine göz atmanız gerekmektedir. Detaylı kurulum adımları için proje içerisindeki ./docs/installation.md dosyasını inceleyebilir veya kullanım kılavuzu için paylaşılan Feishu bağlantısını ziyaret edebilirsiniz.
-- [Resmî kaynak →](https://github.com/mikumifa/biliTickerBuy)
+**Linux · macOS için otomatik kurulum**
 
-- **Kimin için:** Bilibili platformu üzerinden sınırlı sayıdaki bilet veya ürünleri daha hızlı satın almak isteyen bireysel kullanıcılar içindir. 
-- **Lisans:** MIT 
+```
+curl -fsSL https://raw.githubusercontent.com/mikumifa/biliTickerBuy/main/install.sh | sh
+```
+
+**pip ile (PyPI)**
+
+```
+pip install biliTickerBuy
+```
+
+## Çalıştırma
+
+**Komut satırından çalıştır**
+
+```
+btb
+```
+
+Kaynak: Resmî biliTickerBuy dokümantasyonu (docs/installation.md)
+
+- **Kimin için:** Bilibili platformunda sınırlı sayıdaki bilet ve ürünleri hızlı bir şekilde satın almak isteyen bireysel kullanıcılar için uygundur. 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/mikumifa/biliTickerBuy)

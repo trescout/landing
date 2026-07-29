@@ -1,22 +1,30 @@
-# Tarayıcı işlemlerini yapay zekâ ile otomatikleştirin
+# Tarayıcıları kod ile yönetin
 
 Puppeteer, Chrome ve Firefox tarayıcılarını kontrol etmek için kullanılan bir tarayıcı otomasyonu (browser automation) kütüphanesidir. TypeScript ile geliştirilen bu araç, web sayfaları üzerinde test otomasyonu ve veri kazıma (web scraping) işlemleri için standart bir arayüz sunar.
 
 - ★ 94.629
-- TypeScript
 - GitHub Trending · 2026-06-15
 
 ## Ne kazandırır?
-- Chrome ve Firefox tarayıcılarını programatik olarak kontrol etme
-- Web sayfaları üzerinde otomatik test süreçleri oluşturma
-- Otomatik veri kazıma ve tarayıcı etkileşimi sağlama
+- Chrome ve Firefox üzerinde tam kontrol sağlar.
+- Web sayfalarında otomatik testler yapabilirsiniz.
+- Veri kazıma işlemlerini kolayca gerçekleştirebilirsiniz.
 
-## Nasıl başlanır?
+## Kurulum
 
-Puppeteer kullanmaya başlamak için resmî dokümantasyon sayfasını ziyaret edebilirsiniz. Kurulum ve kullanım detaylarına ulaşmak için pptr.dev adresindeki başlangıç rehberini incelemeniz yeterlidir.
-- [Resmî kaynak →](https://pptr.dev)
+**npm ile (Node.js)**
 
-- **Kimin için:** Web tarayıcıları üzerinden otomatik testler yapmak veya veri toplamak isteyen yazılım geliştiriciler için uygundur. 
+```
+npm i puppeteer
+```
+
+Kaynak: npm (resmî paket yöneticisi) · pnpm / yarn
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Puppeteer kütüphanesini kullanarak bir web sayfasını açan, belirli bir boyuta getiren, arama kutusuna metin yazan ve sonuçları listeleyen bir JavaScript kodu oluştur. Kodun tarayıcıyı başlatmasını, sayfada işlem yapmasını ve sonunda tarayıcıyı kapatmasını sağla.
+
+- **Kimin için:** Web otomasyonu, test süreçleri veya veri toplama işlemleriyle ilgilenen geliştiriciler için uygundur. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar
