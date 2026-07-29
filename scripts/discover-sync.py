@@ -361,7 +361,28 @@ def build_page(e, rich=None):
       '</article>\n</main>\n'+FOOTER+'\n'+('<script src="/assets/discover.js" defer></script>\n' if rich else '')+'<script src="/assets/subscribe.js" defer></script>\n'+VERCEL+'</body>\n</html>\n')
     return head+body
 
-def base_entry(n, rich, reason):
+AI_IZI=re.compile(r'(yapay zek|makine öğren|derin öğren|sinir ağ|büyük dil model|\bai\b|\bllm\b|\bgpt\b|\bml\b|model|ajan|agent|chatbot|sohbet bot|üretken|çıkarım|inference|transformer|embedding|vektör|neural|prompt)',re.I)
+def _ai_iddiasi(s): return bool(re.search(r'yapay zek',s or '',re.I))
+def _kaynakta_ai(n):
+    blob=" ".join(str(n.get(k) or "") for k in ("title","tagline","summary"))+" "+" ".join(n.get("tags") or [])
+    return bool(AI_IZI.search(blob))
+
+def vet_headline(h, n, key):
+    """Başlıktaki yapay zekâ iddiası kaynak metinde karşılık bulmalı.
+
+    Model, yazım kuralını konu yönlendirmesi gibi okuyup alakasız araca (web sunucusu,
+    derleyici, kütüphane) yapay zekâ iddiası ekleyebiliyor. Kaynakta iz yoksa bir kez
+    daha üretiyoruz; yine geliyorsa başlığı kullanmıyoruz (mevcut başlık korunur).
+    """
+    if not h or not _ai_iddiasi(h) or _kaynakta_ai(n): return h
+    if key:
+        h2=gemini_headline(n.get("title",""), n.get("tagline",""), key,
+                           extra="UYARI: Bu araç yapay zekâ ile ilgili DEĞİL. Başlıkta yapay zekâdan söz etme.")
+        if h2 and not _ai_iddiasi(h2): return h2
+    print(f"  ⚠ başlık reddedildi · kaynakta yapay zekâ izi yok: {n.get('slug')} → '{h}'")
+    return None
+
+def base_entry(n, rich, reason, key=None):
     """catalog kaydı · komutlu-zengin→temiz; komutsuz-zengin→lite:False ama kuyrukta (ekran görüntüsü/cila); README yok→lite+kuyruk."""
     meta=(f"★ {n['stars']:,}".replace(',','.')+(f" · {n['lang']}" if n['lang'] else "")) if n['stars'] else n['lang']
     c={"slug":n["slug"],"title":n["title"],"tagline":n["tagline"],"meta":meta,
@@ -369,7 +390,11 @@ def base_entry(n, rich, reason):
        "tags":n["tags"],"stars":n["stars"]}
     if rich:
         c["lite"]=False
-        if rich.get("baslik"): c["headline"]=normalize_headline(rich["baslik"].strip())  # detay sayfası editöryel H1
+        if rich.get("baslik"):  # detay sayfası editöryel H1
+            nb=vet_headline(normalize_headline(rich["baslik"].strip()), n, key)
+            eski=n.get("headline")
+            if nb: c["headline"]=nb
+            elif eski and not _ai_iddiasi(eski): c["headline"]=eski  # reddedildi · mevcut başlık temizse korunur
         if n.get("shot"): c["shot"]=n["shot"]
         if n.get("cmds"): c["cmds"]=n["cmds"]
         if not (rich.get("kurulum") or rich.get("calistirma") or n.get("cmds")):  # hiç komut yok → kuyrukta (insan komut bulur/ekler, --done ile kapatır)
@@ -391,9 +416,9 @@ def normalize_headline(s):
     s=re.sub(r'(?i)yapay\s+zek[aâ](\w*)', lambda m: 'yapay zekâ'+m.group(1), s)
     return s.replace('—','·').strip()
 
-def gemini_headline(title,tagline,key):
+def gemini_headline(title,tagline,key,extra=""):
     """Mevcut girdiler için yalnız başlık üreten küçük çağrı (full enrich'i tekrar etmez)."""
-    payload=f"ARAÇ: {title}\nTANIM: {tagline or ''}"
+    payload=f"ARAÇ: {title}\nTANIM: {tagline or ''}"+(f"\n{extra}" if extra else "")
     body={"systemInstruction":{"parts":[{"text":HEADLINE_SYS}]},"contents":[{"parts":[{"text":payload}]}],
           "generationConfig":{"temperature":0.5,"responseMimeType":"application/json","maxOutputTokens":64}}
     url=f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
@@ -440,7 +465,7 @@ def headline_backfill(cat, key, limit):
         print("[--dry] yazılmadı."); return
     n=0
     for c in todo:
-        b=gemini_headline(c["title"], c.get("tagline",""), key)
+        b=vet_headline(gemini_headline(c["title"], c.get("tagline",""), key), c, key)
         if not b: print(f"  ! {c['slug']}: başlık üretilemedi"); continue
         c["headline"]=b; _set_page_headline(c, b)
         n+=1; print(f"  ✓ {c['slug']}: {b}")
@@ -468,7 +493,7 @@ def reprocess(cat, by_slug, key, targets, label):
         lang,stars,momentum=parse_meta(c.get("meta",""))
         ls=re.search(r'<p class="disc-lead">(.*?)</p>',t,re.S)
         summary=html.unescape(re.sub(r'<[^>]+>','',ls.group(1))).strip() if ls else c.get("tagline","")
-        rows.append({"slug":c["slug"],"title":c["title"],"tagline":c["tagline"],"summary":summary,
+        rows.append({"slug":c["slug"],"title":c["title"],"tagline":c["tagline"],"summary":summary,"headline":c.get("headline"),
                      "url":m.group(1) if m else "","lang":lang,"stars":c.get("stars",stars),
                      "momentum":momentum,"date":c.get("date",TODAY),"tags":c.get("tags") or infer_tags(summary),
                      "shot":c.get("shot"),"cmds":c.get("cmds")})
@@ -479,7 +504,7 @@ def reprocess(cat, by_slug, key, targets, label):
     nrich=nlite=0
     for n in rows:
         rich,reason=process_one(n,key)
-        by_slug[n["slug"]].clear(); by_slug[n["slug"]].update(base_entry(n,rich,reason))
+        by_slug[n["slug"]].clear(); by_slug[n["slug"]].update(base_entry(n,rich,reason,key))
         if rich: nrich+=1; print(f"  ✅ zengin: {n['slug']} · kurulum {len(rich['kurulum'])} · çalıştırma {len(rich['calistirma'])} · prompt {'var' if rich['ai_prompt'] else 'yok'}")
         else: nlite+=1; print(f"  ◦ lite kaldı: {n['slug']} ({reason})")
     json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
@@ -530,7 +555,7 @@ def main():
     nrich=nlite=0
     for n in new:
         rich,reason=process_one(n,key)
-        cat.append(base_entry(n,rich,reason))
+        cat.append(base_entry(n,rich,reason,key))
         if rich: nrich+=1; print(f"  ✅ zengin: {n['slug']}")
         else: nlite+=1; print(f"  ◦ lite: {n['slug']} ({reason})")
     json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
