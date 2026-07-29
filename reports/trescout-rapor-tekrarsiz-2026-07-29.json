@@ -1,0 +1,120 @@
+{
+  "date": "2026-07-29",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "TypeScript tabanlı pascalorg/editor, kullanıcıların tarayıcı üzerinden üç boyutlu mimari projeler oluşturmasına ve bu projeleri paylaşmasına olanak tanıyor. Yazılım, mimari tasarım süreçlerini web tabanlı bir arayüzle erişilebilir kılmayı hedefliyor.",
+          "meta": "TypeScript · ★ 18.985 · +341 bugün"
+        },
+        {
+          "title": "hello245m/free-stockdb",
+          "url": "https://github.com/hello245m/free-stockdb",
+          "summary": "Free-stockdb, A hisse senetleri ve borsa yatırım fonları (ETF) için günlük ve dakikalık verileri yöneten yerel bir nicel analiz motorudur. Sistem, verilerin artımlı senkronizasyonu, yerel önbellekleme, fiyat düzeltme, geriye dönük test (backtesting) ve teknik gösterge hesaplamaları gibi işlevleri bir arada sunar.",
+          "meta": "HTML · ★ 1.492 · +50 bugün"
+        },
+        {
+          "title": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "summary": "Hugging Face tarafından geliştirilen speech-to-speech kütüphanesi, açık kaynaklı modeller kullanarak yerel sesli ajanlar (voice agents) oluşturulmasına olanak tanıyor. Python tabanlı bu araç, geliştiricilerin cihaz üzerinde çalışan gerçek zamanlı sesli etkileşim sistemleri kurmasını sağlıyor.",
+          "meta": "Python · ★ 7.443 · +227 bugün"
+        },
+        {
+          "title": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "summary": "Book-to-skill projesi, teknik kitapların taşınabilir belge biçimlerini (PDF) Claude Code için kullanılabilir yetenek paketlerine (skills) dönüştürüyor. Bu araç, teknik kaynakların çalışma süreçlerinde doğrudan referans alınmasını ve uygulanmasını sağlıyor.",
+          "meta": "Python · ★ 11.802 · +423 bugün"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "Sistematik alım satım (systematic trading) alanındaki kütüphaneleri, stratejileri ve eğitim kaynaklarını bir araya getiren bu liste, Python tabanlı finansal modelleme süreçlerini destekliyor. Algoritmik ticaret (algorithmic trading) dünyasına giriş yapmak isteyenler için gerekli araçları ve literatürü tek bir merkezde topluyor.",
+          "meta": "Python · ★ 9.886 · +309 bugün"
+        },
+        {
+          "title": "microsoft/agent-governance-toolkit",
+          "url": "https://github.com/microsoft/agent-governance-toolkit",
+          "summary": "Microsoft tarafından geliştirilen ajan yönetişim araç seti (agent governance toolkit), otonom yapay zekâ ajanları için politika uygulama, sıfır güven kimlik doğrulaması (zero-trust identity) ve yalıtılmış çalışma ortamı (sandboxing) gibi güvenlik katmanları sunuyor. Yazılım, OWASP Ajan Odaklı İlk 10 (OWASP Agentic Top 10) listesindeki güvenlik açıklarına karşı koruma sağlamayı hedefliyor.",
+          "meta": "Python · ★ 5.342 · +46 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Substack writers, you need a website",
+          "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+          "summary": "Substack yazarları, platform bağımlılığını azaltmak ve içerik mülkiyetini korumak için kişisel web sitelerine ihtiyaç duyuyor. Kendi alan adlarını yönetmek, okuyucu verileri üzerinde kontrol sağlamak ve platform kısıtlamalarından bağımsız bir dijital varlık oluşturmak için gerekli görülüyor.",
+          "meta": "487 oy · 231 yorum"
+        },
+        {
+          "title": "Codex Security",
+          "url": "https://github.com/openai/codex-security",
+          "summary": "OpenAI, kod tabanlı güvenlik açıklarını tespit etmek için geliştirdiği Codex Güvenlik (Codex Security) araç setini açık kaynaklı olarak paylaştı. Bu yazılım, yazılım geliştirme süreçlerinde güvenlik zafiyetlerini belirlemek amacıyla büyük dil modellerini (large language models) kullanıyor.",
+          "meta": "452 oy · 140 yorum"
+        },
+        {
+          "title": "Kimi K3 Architecture Overview and Notes",
+          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "summary": "Kimi K3 mimarisi, büyük dil modellerinin (large language models) verimliliğini artırmak amacıyla geliştirilen yeni nesil bir yapı sunuyor. Bu mimari, hesaplama kaynaklarını optimize ederek modelin çıkarım (inference) hızını ve ölçeklenebilirliğini geliştirmeye odaklanıyor.",
+          "meta": "372 oy · 64 yorum"
+        },
+        {
+          "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+          "url": "https://www.slow-journalism.com/",
+          "summary": "Yavaş gazetecilik (slow journalism) akımı, güncel haberleri hızla paylaşmak yerine derinlemesine analiz ve doğrulanmış bilgiye odaklanan bir yayıncılık anlayışını savunuyor. Bu yaklaşım, anlık tüketim odaklı haber döngüsünün yarattığı bilgi kirliliğini azaltmayı hedefliyor.",
+          "meta": "272 oy · 159 yorum"
+        },
+        {
+          "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+          "url": "https://github.com/twalichiewicz/HNewhere",
+          "summary": "HNewhere, Hacker News üzerindeki bağlantıları ve ilgili tartışmaları aynı sekme içerisinde birleştirerek kullanıcı deneyimini iyileştiren bir kullanıcı betiği (userscript) sunuyor. Bu araç, içerik ile yorumlar arasında sürekli sekme değiştirmeyi gerektiren iş akışını tek bir arayüzde birleştiriyor.",
+          "meta": "235 oy · 64 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Yapay zekâ modellerinin belirli bir görevi yerine getirmek için kazandığı özel yetenekler."
+    },
+    {
+      "term": "ETF",
+      "explanation": "Borsa yatırım fonu olarak adlandırılan, birçok farklı hisse senedini tek bir paket halinde satın almanızı sağlayan yatırım aracı."
+    },
+    {
+      "term": "backtesting",
+      "explanation": "Bir yatırım stratejisinin geçmişteki piyasa verileri kullanılarak ne kadar başarılı olacağını test etme yöntemi."
+    },
+    {
+      "term": "voice agents",
+      "explanation": "Kullanıcıyla sesli iletişim kuran, soruları yanıtlayan ve verilen komutları yerine getiren dijital asistanlar."
+    },
+    {
+      "term": "PDF",
+      "explanation": "Belgelerin farklı cihazlarda aynı şekilde görünmesini sağlayan, düzenlenmesi zor olan sabit dosya formatı."
+    },
+    {
+      "term": "systematic trading",
+      "explanation": "Yatırım kararlarının duygulardan arındırılmış, önceden belirlenmiş kurallar ve disiplinli bir plan çerçevesinde verilmesi."
+    },
+    {
+      "term": "algorithmic trading",
+      "explanation": "Finansal piyasalardaki alım satım işlemlerinin, bilgisayar programları tarafından hızla ve otomatik olarak yapılması."
+    },
+    {
+      "term": "agent governance toolkit",
+      "explanation": "Otonom çalışan yapay zekâ sistemlerinin güvenli, etik ve kurallara uygun hareket etmesini sağlayan yönetim araçları seti."
+    }
+  ]
+}

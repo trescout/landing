@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-29",
+  "editorial": "Bugünün teknoloji gündeminde yapay zekâ geliştirme araçları (AI development tools) ve sürekli entegrasyon sistemleri (CI/CD systems) ön planda yer alıyor. Andrew Ng tarafından paylaşılan çoklu model kütüphanesi (multi-model library) aisuite, farklı dil modellerini tek bir arayüzde birleştirmesiyle geliştiricilerin dikkatini çekiyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "TypeScript tabanlı pascalorg/editor, kullanıcıların tarayıcı üzerinden üç boyutlu mimari projeler oluşturmasına ve bu projeleri paylaşmasına olanak tanıyor. Yazılım, mimari tasarım süreçlerini web tabanlı bir arayüzle erişilebilir kılmayı hedefliyor.",
+          "meta": "TypeScript · ★ 18.985 · +341 bugün"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Java diliyle geliştirilen Jenkins, yazılım geliştirme süreçlerinde sürekli entegrasyon (continuous integration) ve sürekli dağıtım (continuous deployment) işlemlerini otomatize eden bir sunucu çözümüdür. Yazılım projelerinde derleme, test ve dağıtım süreçlerini yönetmek için geniş bir eklenti ekosistemi sunar.",
+          "meta": "Java · ★ 26.144 · +180 bugün"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi, kullanıcıların kendi sunucularında barındırabildiği, gerçek zamanlı sesli sohbet ve oyun oynama yeteneklerine sahip bir yapay zekâ arkadaşı (AI companion) platformudur. Proje, Neuro-sama benzeri etkileşimli dijital karakterleri yerel sistemlerde çalıştırmayı ve farklı oyun ortamlarına entegre etmeyi amaçlıyor.",
+          "meta": "TypeScript · ★ 44.962 · +797 bugün"
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Andrew Ng tarafından geliştirilen aisuite, farklı üretken yapay zekâ (generative AI) sağlayıcılarını tek bir arayüz üzerinden yönetmeyi sağlayan bir Python kütüphanesidir. Geliştiricilerin çeşitli model servisleri arasında geçiş yapmasını kolaylaştırarak entegrasyon süreçlerini standartlaştırır.",
+          "meta": "Python · ★ 15.752 · +62 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, yapay zekâ ajanları için yetenek (skills), içgüdü (instincts), bellek (memory) ve güvenlik katmanlarını birleştiren bir performans optimizasyon sistemidir. Claude Code, Codex ve Cursor gibi geliştirme araçlarında ajan tabanlı iş akışlarının verimliliğini artırmayı hedefler.",
+          "meta": "JavaScript · ★ 235.046 · +636 bugün"
+        },
+        {
+          "title": "hello245m/free-stockdb",
+          "url": "https://github.com/hello245m/free-stockdb",
+          "summary": "Free-stockdb, A hisse senetleri ve borsa yatırım fonları (ETF) için günlük ve dakikalık verileri yöneten yerel bir nicel analiz motorudur. Sistem, verilerin artımlı senkronizasyonu, yerel önbellekleme, fiyat düzeltme, geriye dönük test (backtesting) ve teknik gösterge hesaplamaları gibi işlevleri bir arada sunar.",
+          "meta": "HTML · ★ 1.492 · +50 bugün"
+        },
+        {
+          "title": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "summary": "Hugging Face tarafından geliştirilen speech-to-speech kütüphanesi, açık kaynaklı modeller kullanarak yerel sesli ajanlar (voice agents) oluşturulmasına olanak tanıyor. Python tabanlı bu araç, geliştiricilerin cihaz üzerinde çalışan gerçek zamanlı sesli etkileşim sistemleri kurmasını sağlıyor.",
+          "meta": "Python · ★ 7.443 · +227 bugün"
+        },
+        {
+          "title": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "summary": "Book-to-skill projesi, teknik kitapların taşınabilir belge biçimlerini (PDF) Claude Code için kullanılabilir yetenek paketlerine (skills) dönüştürüyor. Bu araç, teknik kaynakların çalışma süreçlerinde doğrudan referans alınmasını ve uygulanmasını sağlıyor.",
+          "meta": "Python · ★ 11.802 · +423 bugün"
+        },
+        {
+          "title": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "summary": "GeoLibre, coğrafi veri görselleştirme, keşif ve analiz süreçleri için geliştirilmiş hafif ve bulut tabanlı bir coğrafi bilgi sistemi (GIS) platformudur. TypeScript ile yazılan bu araç; web tarayıcıları, masaüstü, mobil cihazlar ve Jupyter not defterleri (Jupyter notebooks) üzerinde çalışabilen esnek bir yapı sunar.",
+          "meta": "TypeScript · ★ 3.563 · +607 bugün"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "Sistematik alım satım (systematic trading) alanındaki kütüphaneleri, stratejileri ve eğitim kaynaklarını bir araya getiren bu liste, Python tabanlı finansal modelleme süreçlerini destekliyor. Algoritmik ticaret (algorithmic trading) dünyasına giriş yapmak isteyenler için gerekli araçları ve literatürü tek bir merkezde topluyor.",
+          "meta": "Python · ★ 9.886 · +309 bugün"
+        },
+        {
+          "title": "microsoft/agent-governance-toolkit",
+          "url": "https://github.com/microsoft/agent-governance-toolkit",
+          "summary": "Microsoft tarafından geliştirilen ajan yönetişim araç seti (agent governance toolkit), otonom yapay zekâ ajanları için politika uygulama, sıfır güven kimlik doğrulaması (zero-trust identity) ve yalıtılmış çalışma ortamı (sandboxing) gibi güvenlik katmanları sunuyor. Yazılım, OWASP Ajan Odaklı İlk 10 (OWASP Agentic Top 10) listesindeki güvenlik açıklarına karşı koruma sağlamayı hedefliyor.",
+          "meta": "Python · ★ 5.342 · +46 bugün"
+        },
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Go programlama diliyle geliştirilen superfile, terminal tabanlı dosya yönetimi için modern ve görsel açıdan zengin bir arayüz sunuyor. Kullanıcılar, komut satırı üzerinde dosya işlemlerini daha işlevsel ve estetik bir yapıda gerçekleştirebiliyor.",
+          "meta": "Go · ★ 21.651 · +662 bugün"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video projesi, Claude modeline video izleme yeteneği kazandırmak için videoları karelere ayıran ve ses kayıtlarını metne dönüştüren (transcription) bir Python aracıdır. Bu sistem, görsel verileri ve metin dökümlerini işleyerek yapay zekânın video içeriği üzerinde analiz yapmasını sağlar.",
+          "meta": "Python · ★ 12.328 · +988 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Substack writers, you need a website",
+          "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+          "summary": "Substack yazarları, platform bağımlılığını azaltmak ve içerik mülkiyetini korumak için kişisel web sitelerine ihtiyaç duyuyor. Kendi alan adlarını yönetmek, okuyucu verileri üzerinde kontrol sağlamak ve platform kısıtlamalarından bağımsız bir dijital varlık oluşturmak için gerekli görülüyor.",
+          "meta": "487 oy · 231 yorum"
+        },
+        {
+          "title": "Codex Security",
+          "url": "https://github.com/openai/codex-security",
+          "summary": "OpenAI, kod tabanlı güvenlik açıklarını tespit etmek için geliştirdiği Codex Güvenlik (Codex Security) araç setini açık kaynaklı olarak paylaştı. Bu yazılım, yazılım geliştirme süreçlerinde güvenlik zafiyetlerini belirlemek amacıyla büyük dil modellerini (large language models) kullanıyor.",
+          "meta": "452 oy · 140 yorum"
+        },
+        {
+          "title": "Kimi K3 Architecture Overview and Notes",
+          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "summary": "Kimi K3 mimarisi, büyük dil modellerinin (large language models) verimliliğini artırmak amacıyla geliştirilen yeni nesil bir yapı sunuyor. Bu mimari, hesaplama kaynaklarını optimize ederek modelin çıkarım (inference) hızını ve ölçeklenebilirliğini geliştirmeye odaklanıyor.",
+          "meta": "372 oy · 64 yorum"
+        },
+        {
+          "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+          "url": "https://www.slow-journalism.com/",
+          "summary": "Yavaş gazetecilik (slow journalism) akımı, güncel haberleri hızla paylaşmak yerine derinlemesine analiz ve doğrulanmış bilgiye odaklanan bir yayıncılık anlayışını savunuyor. Bu yaklaşım, anlık tüketim odaklı haber döngüsünün yarattığı bilgi kirliliğini azaltmayı hedefliyor.",
+          "meta": "272 oy · 159 yorum"
+        },
+        {
+          "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+          "url": "https://github.com/twalichiewicz/HNewhere",
+          "summary": "HNewhere, Hacker News üzerindeki bağlantıları ve ilgili tartışmaları aynı sekme içerisinde birleştirerek kullanıcı deneyimini iyileştiren bir kullanıcı betiği (userscript) sunuyor. Bu araç, içerik ile yorumlar arasında sürekli sekme değiştirmeyi gerektiren iş akışını tek bir arayüzde birleştiriyor.",
+          "meta": "235 oy · 64 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K3, görsel ve metin verilerini girdi olarak işleyip metin çıktısı üreten çok modlu (multimodal) bir modeldir. Model, karmaşık görsel içerikleri analiz ederek kullanıcı sorgularına metin tabanlı yanıtlar oluşturma yeteneği sunar.",
+          "meta": "♥ 8.229 · 99.214 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel metinleri işleyerek metin çıktısı üreten bir görüntüden metne (image-to-text) modelidir. Karmaşık dokümanlardaki metinleri yüksek doğrulukla çözümlemek amacıyla tasarlanmıştır.",
+          "meta": "♥ 3.440 · 2.694.935 indirme"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Upstage tarafından geliştirilen Solar-Open2-250B, metin üretimi (text generation) odaklı geniş kapsamlı bir dil modelidir. Yüksek parametre kapasitesiyle karmaşık görevlerde performans sergilemeyi amaçlayan bu model, açık kaynaklı yapay zekâ ekosistemine yeni bir seçenek sunuyor.",
+          "meta": "♥ 668 · 4.804 indirme"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B tabanlı bu model, görsel ve metin girdilerini işleyerek metin çıktısı üreten (image-text-to-text) bir yapı sunuyor. Sansürsüz (uncensored) olarak yapılandırılan model, farklı veri setlerinin birleştirilmesiyle (model merging) oluşturulan özelleşmiş bir sürüm olarak öne çıkıyor.",
+          "meta": "♥ 869 · 736.692 indirme"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Poolside tarafından geliştirilen Laguna-S-2.1, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Model, geniş kapsamlı dil işleme süreçlerinde kullanılmak üzere tasarlanmış açık kaynaklı bir mimari sunar.",
+          "meta": "♥ 804 · 67.286 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "continuous integration",
+      "explanation": "Yazılımcıların yazdığı kod parçalarının, hataları erkenden bulmak için otomatik olarak ana projeye düzenli şekilde eklenmesi."
+    },
+    {
+      "term": "continuous deployment",
+      "explanation": "Hazırlanan yazılım güncellemelerinin, insan müdahalesi olmadan otomatik olarak doğrudan kullanıcılara sunulması."
+    },
+    {
+      "term": "AI companion",
+      "explanation": "Kullanıcıyla sohbet eden, günlük işlerinde ona yardımcı olan ve kişisel ihtiyaçlarını öğrenen yapay zekâ yazılımı."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Daha önce öğrendiği bilgilerden yola çıkarak yeni metinler, görseller veya sesler oluşturabilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "skills",
+      "explanation": "Yapay zekâ modellerinin belirli bir görevi yerine getirmek için kazandığı özel yetenekler."
+    },
+    {
+      "term": "instincts",
+      "explanation": "Yapay zekânın karmaşık durumlarda önceden eğitildiği verilere dayanarak hızlı ve sezgisel kararlar verme yeteneği."
+    },
+    {
+      "term": "memory",
+      "explanation": "Yapay zekânın geçmişteki konuşmaları veya kullanıcı tercihlerini hatırlayarak gelecekteki etkileşimlerini kişiselleştirmesi."
+    },
+    {
+      "term": "ETF",
+      "explanation": "Borsa yatırım fonu olarak adlandırılan, birçok farklı hisse senedini tek bir paket halinde satın almanızı sağlayan yatırım aracı."
+    },
+    {
+      "term": "backtesting",
+      "explanation": "Bir yatırım stratejisinin geçmişteki piyasa verileri kullanılarak ne kadar başarılı olacağını test etme yöntemi."
+    },
+    {
+      "term": "voice agents",
+      "explanation": "Kullanıcıyla sesli iletişim kuran, soruları yanıtlayan ve verilen komutları yerine getiren dijital asistanlar."
+    },
+    {
+      "term": "PDF",
+      "explanation": "Belgelerin farklı cihazlarda aynı şekilde görünmesini sağlayan, düzenlenmesi zor olan sabit dosya formatı."
+    },
+    {
+      "term": "GIS",
+      "explanation": "Dünya üzerindeki coğrafi verileri toplayan, analiz eden ve haritalar üzerinde görselleştiren sistem."
+    },
+    {
+      "term": "Jupyter notebooks",
+      "explanation": "Kod yazarken aynı zamanda notlar alabileceğiniz ve sonuçları anında görebileceğiniz etkileşimli çalışma ortamı."
+    },
+    {
+      "term": "systematic trading",
+      "explanation": "Yatırım kararlarının duygulardan arındırılmış, önceden belirlenmiş kurallar ve disiplinli bir plan çerçevesinde verilmesi."
+    },
+    {
+      "term": "algorithmic trading",
+      "explanation": "Finansal piyasalardaki alım satım işlemlerinin, bilgisayar programları tarafından hızla ve otomatik olarak yapılması."
+    },
+    {
+      "term": "agent governance toolkit",
+      "explanation": "Otonom çalışan yapay zekâ sistemlerinin güvenli, etik ve kurallara uygun hareket etmesini sağlayan yönetim araçları seti."
+    }
+  ]
+}
