@@ -54,7 +54,7 @@ Bu aracı kullanarak kendi yerel sesli ajanımı kurmak istiyorum. VAD, STT, LLM
 - [GitHub deposu →](https://github.com/huggingface/speech-to-speech)
 
 ## İlgili sözlük terimleri
-Voice Agents Agents LLM Artificial Intelligence 
+Voice Agents Speech-to-Speech Agents LLM Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

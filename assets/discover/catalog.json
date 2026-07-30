@@ -6188,5 +6188,89 @@
     "stars": 5342,
     "lite": false,
     "headline": "Otonom yapay zekâ ajanları için güvenlik"
+  },
+  {
+    "slug": "snipe-it",
+    "title": "Snipe It",
+    "tagline": "Snipe-IT, bilişim teknolojileri varlıklarını ve yazılım lisanslarını takip etmeye yarayan açık kaynaklı bir yönetim sistemidir.",
+    "meta": "★ 14.536 · PHP",
+    "image": "/assets/discover/og/snipe-it.webp",
+    "source": "GitHub",
+    "date": "2026-07-30",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 14536,
+    "lite": false,
+    "headline": "kurumsal varlık ve lisans yönetimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "faceswap",
+    "title": "Faceswap",
+    "tagline": "Python tabanlı Faceswap, derin sahte (deepfake) teknolojisini kullanarak görüntülerdeki yüzleri değiştirmeye olanak tanıyan…",
+    "meta": "★ 56.487 · Python",
+    "image": "/assets/discover/og/faceswap.webp",
+    "source": "GitHub",
+    "date": "2026-07-30",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 56487,
+    "lite": false,
+    "headline": "Görüntülerde Yüz Değiştirme Rehberi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "openwork",
+    "title": "Openwork",
+    "tagline": "Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir…",
+    "meta": "★ 18.143 · TypeScript",
+    "image": "/assets/discover/og/openwork.webp",
+    "source": "GitHub",
+    "date": "2026-07-30",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 18143,
+    "lite": false,
+    "headline": "yapay zekâ iş akışlarını paylaşın"
+  },
+  {
+    "slug": "flashkda",
+    "title": "FlashKDA",
+    "tagline": "Moonshot AI tarafından geliştirilen FlashKDA, Kimi Delta Attention mekanizması için yüksek performanslı çekirdekler (kernels)…",
+    "meta": "★ 1.043 · Cuda",
+    "image": "/assets/discover/og/flashkda.webp",
+    "source": "GitHub",
+    "date": "2026-07-30",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1043,
+    "lite": false,
+    "headline": "Kimi Delta Attention için yüksek performanslı çekirdekler"
+  },
+  {
+    "slug": "ane",
+    "title": "ANE",
+    "tagline": "Maderix tarafından geliştirilen ANE, tersine mühendislik ile elde edilen özel uygulama programlama arayüzleri (private APIs)…",
+    "meta": "★ 7.185",
+    "image": "/assets/discover/og/ane.webp",
+    "source": "GitHub",
+    "date": "2026-07-30",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7185,
+    "lite": false,
+    "headline": "Apple Sinir Motorunda yapay zekâ eğitimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

@@ -3015,5 +3015,54 @@
     "full": "",
     "cat": "ai",
     "kisa": "Otonom yapay zekâ sistemlerinin güvenli, etik ve kurallara uygun çalışmasını sağlayan yönetim araçları setidir."
+  },
+  {
+    "slug": "waifu",
+    "en": "Waifu",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Anime veya oyun dünyasındaki kurgusal karakterlere duyulan özel hayranlığı ifade eden bir terimdir."
+  },
+  {
+    "slug": "speech-to-speech",
+    "en": "Speech-to-Speech",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Sesli girdiyi doğrudan sesli çıktıya dönüştüren, metne ihtiyaç duymayan bir teknoloji."
+  },
+  {
+    "slug": "deepfake",
+    "en": "Deepfake",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ ile bir kişinin sesini veya görüntüsünü başka birine gerçeğinden ayırt edilemeyecek şekilde uyarlama teknolojisi."
+  },
+  {
+    "slug": "face-swapping",
+    "en": "Face Swapping",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir görüntüdeki veya videodaki yüzü, yapay zekâ kullanarak başka bir kişinin yüzüyle değiştirme işlemi."
+  },
+  {
+    "slug": "frontier-voice-ai",
+    "en": "Frontier Voice AI",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnsan gibi doğal, duygulu ve gerçek zamanlı tepki verebilen en gelişmiş sesli yapay zekâ teknolojileri."
+  },
+  {
+    "slug": "kernels",
+    "en": "Kernels",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarın donanımı ile yazılımları arasındaki iletişimi yöneten işletim sisteminin en temel parçası."
+  },
+  {
+    "slug": "attention",
+    "en": "Attention",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın bir metin veya veri içindeki en önemli parçalara odaklanmasını sağlayan mekanizma."
   }
 ]

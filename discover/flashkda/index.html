@@ -3,30 +3,30 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Speech to Speech · Keşif · TreScout</title>
-<meta name="description" content="Hugging Face tarafından geliştirilen speech-to-speech kütüphanesi, açık kaynaklı modeller kullanarak yerel sesli ajanlar…">
+<title>FlashKDA · Keşif · TreScout</title>
+<meta name="description" content="Moonshot AI tarafından geliştirilen FlashKDA, Kimi Delta Attention mekanizması için yüksek performanslı çekirdekler (kernels)…">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="alternate" type="text/markdown" href="/discover/speech-to-speech.md">
-<link rel="canonical" href="https://trescout.com/discover/speech-to-speech/">
-<meta property="og:title" content="Speech to Speech">
-<meta property="og:description" content="Hugging Face tarafından geliştirilen speech-to-speech kütüphanesi, açık kaynaklı modeller kullanarak yerel sesli ajanlar…">
-<meta property="og:url" content="https://trescout.com/discover/speech-to-speech/">
+<link rel="alternate" type="text/markdown" href="/discover/flashkda.md">
+<link rel="canonical" href="https://trescout.com/discover/flashkda/">
+<meta property="og:title" content="FlashKDA">
+<meta property="og:description" content="Moonshot AI tarafından geliştirilen FlashKDA, Kimi Delta Attention mekanizması için yüksek performanslı çekirdekler (kernels)…">
+<meta property="og:url" content="https://trescout.com/discover/flashkda/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:image" content="https://trescout.com/assets/discover/og/speech-to-speech.webp">
+<meta property="og:image" content="https://trescout.com/assets/discover/og/flashkda.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Speech to Speech">
-<meta name="twitter:image" content="https://trescout.com/assets/discover/og/speech-to-speech.webp">
+<meta name="twitter:title" content="FlashKDA">
+<meta name="twitter:image" content="https://trescout.com/assets/discover/og/flashkda.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Speech to Speech",
+  "headline": "FlashKDA",
   "inLanguage": "tr",
-  "description": "Hugging Face tarafından geliştirilen speech-to-speech kütüphanesi, açık kaynaklı modeller kullanarak yerel sesli ajanlar…",
+  "description": "Moonshot AI tarafından geliştirilen FlashKDA, Kimi Delta Attention mekanizması için yüksek performanslı çekirdekler (kernels)…",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -36,13 +36,13 @@
     "@type": "Organization",
     "name": "TreScout"
   },
-  "image": "https://trescout.com/assets/discover/og/speech-to-speech.webp",
-  "url": "https://trescout.com/discover/speech-to-speech/",
+  "image": "https://trescout.com/assets/discover/og/flashkda.webp",
+  "url": "https://trescout.com/discover/flashkda/",
   "about": {
     "@type": "SoftwareSourceCode",
-    "name": "Speech to Speech",
-    "codeRepository": "https://github.com/huggingface/speech-to-speech",
-    "programmingLanguage": "Python"
+    "name": "FlashKDA",
+    "codeRepository": "https://github.com/MoonshotAI/FlashKDA",
+    "programmingLanguage": "Cuda"
   }
 }
 </script>
@@ -57,21 +57,20 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
-<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · Speech to Speech</span><span class="disc-momentum">🚀 +227 bugün</span></div>
-<h1 class="disc-title">Açık kaynaklı yerel sesli ajanlar</h1>
-<p class="disc-lead">Hugging Face tarafından geliştirilen speech-to-speech kütüphanesi, açık kaynaklı modeller kullanarak yerel sesli ajanlar (voice agents) oluşturulmasına olanak tanıyor. Python tabanlı bu araç, geliştiricilerin cihaz üzerinde çalışan gerçek zamanlı sesli etkileşim sistemleri kurmasını sağlıyor.</p>
-<ul class="disc-meta"><li>★ 7.443</li><li>Python</li><li>GitHub Trending · 2026-07-29</li></ul>
-      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>Düşük gecikmeli modüler ses hattı</li><li>OpenAI Realtime uyumlu WebSocket desteği</li><li>Farklı donanımlarda yerel çalışma imkânı</li></ul></section>
-      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Temel kurulum</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>pip install speech-to-speech</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Kaynak koddan kurulum</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>git clone https://github.com/huggingface/speech-to-speech.git
-cd speech-to-speech
-uv sync</code></pre></div></section>
-      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Sunucuyu başlatma</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>pip install speech-to-speech
-export OPENAI_API_KEY=...
-speech-to-speech</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>İstemci ile bağlanma</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>python scripts/listen_and_play_realtime.py --host 127.0.0.1 --port 8765</code></pre></div></section>
-      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">Bu aracı kullanarak kendi yerel sesli ajanımı kurmak istiyorum. VAD, STT, LLM ve TTS bileşenlerini kullanarak düşük gecikmeli bir ses hattı oluşturmak için izlemem gereken temel adımlar nelerdir? Hangi komutla sunucuyu ayağa kaldırabilirim ve OpenAI Realtime uyumlu bir istemci ile nasıl bağlantı kurabilirim?</p></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Kendi donanımı üzerinde yerel ve özelleştirilebilir sesli etkileşim sistemleri geliştirmek isteyen yazılımcılar içindir.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">Apache-2.0</span></div></div>
-      <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/huggingface/speech-to-speech" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/voice-agents/">Voice Agents</a><a href="/dictionary/speech-to-speech/">Speech-to-Speech</a><a href="/dictionary/agents/">Agents</a><a href="/dictionary/llm/">LLM</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · FlashKDA</span><span class="disc-momentum">🚀 +91 bugün</span></div>
+<h1 class="disc-title">Kimi Delta Attention için yüksek performanslı çekirdekler</h1>
+<p class="disc-lead">Moonshot AI tarafından geliştirilen FlashKDA, Kimi Delta Attention mekanizması için yüksek performanslı çekirdekler (kernels) sunuyor. CUDA tabanlı bu teknoloji, büyük dil modellerinde dikkat (attention) hesaplamalarını hızlandırmayı amaçlıyor.</p>
+<ul class="disc-meta"><li>★ 1.043</li><li>Cuda</li><li>GitHub Trending · 2026-07-30</li></ul>
+      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>CUDA tabanlı hızlandırılmış dikkat hesaplamaları</li><li>Büyük dil modellerinde verimli çalışma</li><li>CUTLASS ile optimize edilmiş çekirdek yapısı</li></ul></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Temel kurulum</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>git clone https://github.com/MoonshotAI/FlashKDA.git flash-kda
+cd flash-kda
+git submodule update --init --recursive
+pip install -v --no-build-isolation .</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Tüm mimariler için derleme</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>FLASH_KDA_CUDA_ARCHS=all pip install -v --no-build-isolation .</code></pre></div></section>
+      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>FLA arka ucu olarak kullanma</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>pip install -U flash-linear-attention</code></pre></div></section>
+      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">FlashKDA aracını kullanarak Kimi Delta Attention hesaplamalarını hızlandırmak istiyorum. Flash-linear-attention kütüphanesi ile entegre bir şekilde, torch.inference_mode() altında chunk_kda fonksiyonunu kullanarak modelimin dikkat mekanizmasını nasıl optimize edebilirim? Lütfen gerekli parametreleri ve dikkat etmem gereken donanım gereksinimlerini göz önünde bulundurarak bir uygulama örneği oluştur.</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Büyük dil modellerinde dikkat hesaplamalarını CUDA üzerinde hızlandırmak isteyen geliştiriciler için uygundur.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">MIT</span></div></div>
+      <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/MoonshotAI/FlashKDA" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/kernels/">Kernels</a><a href="/dictionary/attention/">Attention</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 <p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.</p>
 </article>
