@@ -1,0 +1,249 @@
+{
+  "date": "2026-07-30",
+  "editorial": "Coğrafi veri işleme kütüphaneleri ve ses tabanlı etkileşim modelleri, açık kaynak dünyasında geliştirici odaklı araçların merkezine yerleşti. Özellikle konuşmadan konuşmaya (speech-to-speech) çeviri teknolojileri ve uçtan uca varlık yönetimi yazılımları, GitHub üzerinde yüksek etkileşim oranlarıyla öne çıkıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "summary": "GeoLibre, coğrafi verilerin görselleştirilmesi, keşfedilmesi ve analiz edilmesi için geliştirilmiş hafif ve bulut tabanlı bir coğrafi bilgi sistemi (GIS) platformudur. TypeScript ile yazılan bu araç, web tarayıcıları, masaüstü, mobil cihazlar ve Jupyter not defterleri (Jupyter notebooks) üzerinde çalışabilmektedir.",
+          "meta": "TypeScript · ★ 4.236 · +671 bugün"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi, kullanıcıların kendi sunucularında barındırabileceği, gerçek zamanlı sesli sohbet ve oyun oynama yeteneklerine sahip yapay zekâ tabanlı bir sanal karakter (waifu) platformudur. TypeScript diliyle geliştirilen bu proje, Neuro-sama benzeri etkileşimli dijital varlıkları yerel sistemlerde çalıştırmayı hedefler.",
+          "meta": "TypeScript · ★ 45.549 · +682 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, yapay zekâ ajanları için beceriler, içgüdüler, bellek ve güvenlik katmanlarını optimize eden bir performans çerçevesidir (framework). Claude Code ve Cursor gibi geliştirme araçlarında ajan tabanlı iş akışlarını iyileştirmek amacıyla tasarlanmıştır.",
+          "meta": "JavaScript · ★ 235.779 · +857 bugün"
+        },
+        {
+          "title": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "summary": "Hugging Face tarafından geliştirilen speech-to-speech kütüphanesi, açık kaynaklı modeller kullanarak yerel sesli ajanlar (voice agents) oluşturulmasına olanak tanıyor. Geliştiriciler, bu araç setiyle konuşmadan konuşmaya (speech-to-speech) etkileşim kurabilen sistemleri kendi donanımları üzerinde çalıştırabiliyor.",
+          "meta": "Python · ★ 8.047 · +827 bugün"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Rust diliyle geliştirilen jcode, bellek kullanımını en aza indiren bir çalışma ortamı (harness) sunuyor. Yazılım, sistem kaynaklarını verimli kullanarak yüksek performanslı kod çalıştırma süreçlerini optimize ediyor.",
+          "meta": "Rust · ★ 13.624 · +640 bugün"
+        },
+        {
+          "title": "grokability/snipe-it",
+          "url": "https://github.com/grokability/snipe-it",
+          "summary": "Snipe-IT, bilişim teknolojileri varlıklarını ve yazılım lisanslarını takip etmeye yarayan açık kaynaklı bir yönetim sistemidir. PHP diliyle geliştirilen bu platform, kurumların envanter kayıtlarını ve kullanım döngülerini dijital ortamda düzenlemesine olanak tanır.",
+          "meta": "PHP · ★ 14.536 · +164 bugün"
+        },
+        {
+          "title": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "summary": "Python tabanlı Faceswap, derin sahte (deepfake) teknolojisini kullanarak görüntülerdeki yüzleri değiştirmeye olanak tanıyan açık kaynaklı bir yazılımdır. Kullanıcıların video ve görseller üzerinde yüz dönüştürme (face swapping) işlemleri gerçekleştirmesine imkân sağlar.",
+          "meta": "Python · ★ 56.487 · +166 bugün"
+        },
+        {
+          "title": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "summary": "Microsoft tarafından geliştirilen VibeVoice, açık kaynaklı bir öncü sesli yapay zekâ (frontier voice AI) modeli olarak sunuluyor. Python tabanlı bu proje, ses işleme süreçlerinde yüksek performanslı ve erişilebilir çözümler sağlamayı hedefliyor.",
+          "meta": "Python · ★ 51.459 · +336 bugün"
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir yazılım projesidir. TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerini otomatize etmeyi hedefleyen yapay zekâ destekli bir çalışma ortamı sunar.",
+          "meta": "TypeScript · ★ 18.143 · +97 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yazılım geliştirme metodolojileriyle entegre çalışan bir ajan yetenekleri çerçevesi (agentic skills framework) sunuyor. Bu araç, yazılım süreçlerini otomatikleştirmek için standartlaştırılmış bir yöntem geliştiriyor.",
+          "meta": "Shell · ★ 263.489 · +616 bugün"
+        },
+        {
+          "title": "MoonshotAI/FlashKDA",
+          "url": "https://github.com/MoonshotAI/FlashKDA",
+          "summary": "Moonshot AI tarafından geliştirilen FlashKDA, Kimi Delta Attention mekanizması için yüksek performanslı çekirdekler (kernels) sunuyor. CUDA tabanlı bu teknoloji, büyük dil modellerinde dikkat (attention) hesaplamalarını hızlandırmayı amaçlıyor.",
+          "meta": "Cuda · ★ 1.043 · +91 bugün"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler, popüler Çin sosyal medya platformlarındaki video, gönderi ve yorum verilerini toplamak için geliştirilmiş bir veri kazıma (web scraping) aracıdır. Python tabanlı bu yazılım, Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Baidu Tieba ve Zhihu gibi mecralardan veri çekme süreçlerini otomatize eder.",
+          "meta": "Python · ★ 59.242 · +154 bugün"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Alibaba tarafından geliştirilen Open-code-review, deterministik işlem hatları (pipelines) ile büyük dil modeli (LLM) ajanlarını birleştiren hibrit bir kod inceleme aracıdır. Yazılım geliştirme süreçlerinde satır düzeyinde yorumlar yapabilen sistem, güvenlik açıklarını tespit etmek için önceden eğitilmiş kurallar seti (fine-tuned ruleset) kullanır.",
+          "meta": "Go · ★ 16.204 · +359 bugün"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "Sistematik alım satım (systematic trading) alanındaki kütüphaneleri, stratejileri ve eğitim kaynaklarını bir araya getiren bu liste, Python tabanlı finansal modelleme süreçlerini destekliyor. Algoritmik ticaret (algorithmic trading) dünyasına giriş yapmak veya mevcut stratejileri geliştirmek isteyen kullanıcılar için kapsamlı bir referans sunuyor.",
+          "meta": "Python · ★ 10.533 · +945 bugün"
+        },
+        {
+          "title": "maderix/ANE",
+          "url": "https://github.com/maderix/ANE",
+          "summary": "Maderix tarafından geliştirilen ANE, tersine mühendislik ile elde edilen özel uygulama programlama arayüzleri (private APIs) aracılığıyla Apple Sinir Motoru (Apple Neural Engine) üzerinde sinir ağı eğitimi (neural network training) yapılmasına olanak tanıyor. Bu çalışma, Apple donanımlarının yapay zekâ model eğitimi süreçlerinde doğrudan kullanımını mümkün kılıyor.",
+          "meta": "Objective-C · ★ 7.185 · +22 bugün"
+        },
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "Pascalorg tarafından geliştirilen editör, kullanıcıların üç boyutlu mimari projeler oluşturmasına ve bu projeleri paylaşmasına olanak tanıyor. TypeScript diliyle yazılan bu platform, mimari tasarım süreçlerini tarayıcı tabanlı bir çalışma ortamına taşıyor.",
+          "meta": "TypeScript · ★ 19.731 · +1.022 bugün"
+        },
+        {
+          "title": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "summary": "Book-to-skill projesi, teknik kitapları yapay zekâ destekli kodlama asistanı Claude Code için kullanılabilir yetenek paketlerine (skills) dönüştürüyor. Bu araç, kitap içeriğini çalışma sürecinde başvurulabilir ve uygulanabilir bir bilgi kaynağı haline getiriyor.",
+          "meta": "Python · ★ 13.106 · +1.421 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+          "url": "https://github.com/drumih/turbo-fieldfare",
+          "summary": "TurboFieldfare, Gemma 4 26B modelinin 4-bit nicemleme (quantization) kullanılarak Apple M-serisi işlemcilerde sadece 2 GB bellek tüketimiyle çalıştırılmasını sağlayan bir çıkarım motorudur (inference engine). Swift ve Metal dilleriyle geliştirilen bu araç, cihaz üzerinde yapay zekâ (on-device AI) performansını optimize etmeyi hedefliyor.",
+          "meta": "727 oy · 252 yorum"
+        },
+        {
+          "title": "Superlogical",
+          "url": "https://www.superlogical.com/",
+          "summary": "Superlogical, karmaşık mantıksal sistemleri ve kuralları yönetmek için tasarlanmış bir mantık programlama (logic programming) aracıdır. Geliştiricilerin veri yapılarını ve iş kurallarını bildirimsel (declarative) bir yaklaşımla tanımlamasına olanak tanır.",
+          "meta": "616 oy · 385 yorum"
+        },
+        {
+          "title": "The coolest use for the Vision Pro",
+          "url": "https://christianselig.com/2026/07/vision-pro-house/",
+          "summary": "Apple Vision Pro kullanıcıları, cihazın uzamsal hesaplama (spatial computing) yeteneklerini kullanarak evlerindeki akıllı cihazları fiziksel ortamda görselleştiriyor. Bu yöntem, nesnelerin üzerine yerleştirilen sanal arayüzler aracılığıyla ev otomasyonunu (home automation) doğrudan etkileşimli hale getiriyor.",
+          "meta": "541 oy · 225 yorum"
+        },
+        {
+          "title": "Kimi K3-256k",
+          "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi K3-256k, 256 bin belirteçlik (token) uzun bağlam penceresiyle kodlama ve yazılım geliştirme süreçlerine odaklanıyor. Model, uzun kod tabanlarını analiz etme ve karmaşık programlama görevlerinde yüksek doğrulukla çözüm üretme kapasitesi sunuyor.",
+          "meta": "399 oy · 116 yorum"
+        },
+        {
+          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+          "summary": "Hugging Face tarafından paylaşılan teknik rapor, 2026 yılında bir sınır yapay zekâ laboratuvarına (frontier lab) yönelik gerçekleştirilen ajan sızma (agent intrusion) olayını kronolojik olarak inceliyor. Rapor, otonom sistemlerin güvenlik açıklarını ve bu tür saldırıların teknik işleyişini analiz ederek savunma stratejileri için veri sağlıyor.",
+          "meta": "345 oy · 199 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K3, görsel ve metinsel girdileri işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapay zekâ modelidir. Model, görüntü ve metin verilerini bütünleşik bir yapıda analiz ederek karmaşık görevleri yerine getirme yeteneği sunar.",
+          "meta": "♥ 8.745 · 99.214 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel tabanlı metinleri işleyerek metin çıktısı üreten bir görüntüden metne (image-to-text) modelidir. Karmaşık dokümanlardaki verileri dijitalleştirmek amacıyla tasarlanan bu model, optik karakter tanıma (optical character recognition) süreçlerini uçtan uca yönetiyor.",
+          "meta": "♥ 3.526 · 2.694.935 indirme"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B tabanlı bu model, görsel ve metin girdilerini işleyerek metin çıktısı üreten (image-text-to-text) bir yapı sunuyor. Sansürsüz (uncensored) olarak yapılandırılan model, farklı veri setlerinin birleştirilmesiyle (model merging) oluşturulan özelleştirilmiş bir sürüm olma özelliği taşıyor.",
+          "meta": "♥ 964 · 736.692 indirme"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Poolside tarafından geliştirilen Laguna-S-2.1, metin üretimi (text-generation) odaklı bir dil modelidir. Model, geniş kapsamlı içerik oluşturma süreçlerinde kullanılmak üzere tasarlanmıştır.",
+          "meta": "♥ 831 · 67.286 indirme"
+        },
+        {
+          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "summary": "Kwaipilot tarafından geliştirilen KAT-Coder-V2.5-Dev, metin üretimi (text-generation) odaklı bir dil modelidir. Yazılım geliştirme süreçlerini desteklemek amacıyla tasarlanan model, kod yazımı ve teknik metin oluşturma görevlerinde kullanılmaktadır.",
+          "meta": "♥ 323 · 6.275 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "GIS",
+      "explanation": "Dünya üzerindeki coğrafi verileri toplayıp haritalar üzerinde analiz etmenizi sağlayan dijital sistem."
+    },
+    {
+      "term": "Jupyter notebooks",
+      "explanation": "Kod yazarken aynı zamanda açıklayıcı notlar ekleyip sonuçları anında görebildiğiniz etkileşimli çalışma ortamı."
+    },
+    {
+      "term": "waifu",
+      "explanation": "Genellikle anime veya oyun karakterlerine duyulan hayranlığı ifade eden, kurgusal karakterlere verilen isim."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işinizi kolaylaştıran, hazır araçlar ve kurallar bütünü sunan temel yapı."
+    },
+    {
+      "term": "voice agents",
+      "explanation": "Sizinle sesli iletişim kurup sorularınızı yanıtlayan veya görevlerinizi yerine getiren dijital yardımcılar."
+    },
+    {
+      "term": "speech-to-speech",
+      "explanation": "Bir dildeki sesli konuşmayı anında başka bir dildeki sese dönüştüren teknoloji."
+    },
+    {
+      "term": "harness",
+      "explanation": "Karmaşık bir gücü veya veriyi kontrol altına alıp belirli bir amaç doğrultusunda kullanıma hazır hale getirmek."
+    },
+    {
+      "term": "deepfake",
+      "explanation": "Yapay zekâ kullanarak bir kişinin görüntüsünü veya sesini başka birine gerçeğinden ayırt edilemeyecek şekilde uyarlamak."
+    },
+    {
+      "term": "face swapping",
+      "explanation": "Bir fotoğraftaki veya videodaki yüzü, başka bir kişinin yüzüyle dijital olarak değiştirmek."
+    },
+    {
+      "term": "frontier voice AI",
+      "explanation": "İnsan gibi doğal ve duygulu konuşabilen, en gelişmiş sesli yapay zekâ teknolojileri."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekânın kendi başına karar verip karmaşık görevleri tamamlamasını sağlayan yetenekler bütünü."
+    },
+    {
+      "term": "kernels",
+      "explanation": "Bilgisayarın donanımı ile yazılımları arasındaki iletişimi yöneten işletim sisteminin en temel çekirdek parçası."
+    },
+    {
+      "term": "attention",
+      "explanation": "Yapay zekânın bir metin içindeki önemli kelimelere odaklanarak anlamı daha iyi kavramasını sağlayan mekanizma."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "İnternet sitelerindeki verileri otomatik araçlar kullanarak toplama ve kaydetme işlemi."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "Verinin bir noktadan alınıp işlenerek başka bir noktaya taşınması sürecindeki birbirini izleyen adımlar dizisi."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    }
+  ]
+}

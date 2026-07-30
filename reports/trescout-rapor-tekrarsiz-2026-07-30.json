@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-30",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "grokability/snipe-it",
+          "url": "https://github.com/grokability/snipe-it",
+          "summary": "Snipe-IT, bilişim teknolojileri varlıklarını ve yazılım lisanslarını takip etmeye yarayan açık kaynaklı bir yönetim sistemidir. PHP diliyle geliştirilen bu platform, kurumların envanter kayıtlarını ve kullanım döngülerini dijital ortamda düzenlemesine olanak tanır.",
+          "meta": "PHP · ★ 14.536 · +164 bugün"
+        },
+        {
+          "title": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "summary": "Python tabanlı Faceswap, derin sahte (deepfake) teknolojisini kullanarak görüntülerdeki yüzleri değiştirmeye olanak tanıyan açık kaynaklı bir yazılımdır. Kullanıcıların video ve görseller üzerinde yüz dönüştürme (face swapping) işlemleri gerçekleştirmesine imkân sağlar.",
+          "meta": "Python · ★ 56.487 · +166 bugün"
+        },
+        {
+          "title": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "summary": "Microsoft tarafından geliştirilen VibeVoice, açık kaynaklı bir öncü sesli yapay zekâ (frontier voice AI) modeli olarak sunuluyor. Python tabanlı bu proje, ses işleme süreçlerinde yüksek performanslı ve erişilebilir çözümler sağlamayı hedefliyor.",
+          "meta": "Python · ★ 51.459 · +336 bugün",
+          "returning": true
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir yazılım projesidir. TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerini otomatize etmeyi hedefleyen yapay zekâ destekli bir çalışma ortamı sunar.",
+          "meta": "TypeScript · ★ 18.143 · +97 bugün"
+        },
+        {
+          "title": "MoonshotAI/FlashKDA",
+          "url": "https://github.com/MoonshotAI/FlashKDA",
+          "summary": "Moonshot AI tarafından geliştirilen FlashKDA, Kimi Delta Attention mekanizması için yüksek performanslı çekirdekler (kernels) sunuyor. CUDA tabanlı bu teknoloji, büyük dil modellerinde dikkat (attention) hesaplamalarını hızlandırmayı amaçlıyor.",
+          "meta": "Cuda · ★ 1.043 · +91 bugün"
+        },
+        {
+          "title": "maderix/ANE",
+          "url": "https://github.com/maderix/ANE",
+          "summary": "Maderix tarafından geliştirilen ANE, tersine mühendislik ile elde edilen özel uygulama programlama arayüzleri (private APIs) aracılığıyla Apple Sinir Motoru (Apple Neural Engine) üzerinde sinir ağı eğitimi (neural network training) yapılmasına olanak tanıyor. Bu çalışma, Apple donanımlarının yapay zekâ model eğitimi süreçlerinde doğrudan kullanımını mümkün kılıyor.",
+          "meta": "Objective-C · ★ 7.185 · +22 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+          "url": "https://github.com/drumih/turbo-fieldfare",
+          "summary": "TurboFieldfare, Gemma 4 26B modelinin 4-bit nicemleme (quantization) kullanılarak Apple M-serisi işlemcilerde sadece 2 GB bellek tüketimiyle çalıştırılmasını sağlayan bir çıkarım motorudur (inference engine). Swift ve Metal dilleriyle geliştirilen bu araç, cihaz üzerinde yapay zekâ (on-device AI) performansını optimize etmeyi hedefliyor.",
+          "meta": "727 oy · 252 yorum"
+        },
+        {
+          "title": "Superlogical",
+          "url": "https://www.superlogical.com/",
+          "summary": "Superlogical, karmaşık mantıksal sistemleri ve kuralları yönetmek için tasarlanmış bir mantık programlama (logic programming) aracıdır. Geliştiricilerin veri yapılarını ve iş kurallarını bildirimsel (declarative) bir yaklaşımla tanımlamasına olanak tanır.",
+          "meta": "616 oy · 385 yorum"
+        },
+        {
+          "title": "The coolest use for the Vision Pro",
+          "url": "https://christianselig.com/2026/07/vision-pro-house/",
+          "summary": "Apple Vision Pro kullanıcıları, cihazın uzamsal hesaplama (spatial computing) yeteneklerini kullanarak evlerindeki akıllı cihazları fiziksel ortamda görselleştiriyor. Bu yöntem, nesnelerin üzerine yerleştirilen sanal arayüzler aracılığıyla ev otomasyonunu (home automation) doğrudan etkileşimli hale getiriyor.",
+          "meta": "541 oy · 225 yorum"
+        },
+        {
+          "title": "Kimi K3-256k",
+          "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi K3-256k, 256 bin belirteçlik (token) uzun bağlam penceresiyle kodlama ve yazılım geliştirme süreçlerine odaklanıyor. Model, uzun kod tabanlarını analiz etme ve karmaşık programlama görevlerinde yüksek doğrulukla çözüm üretme kapasitesi sunuyor.",
+          "meta": "399 oy · 116 yorum"
+        },
+        {
+          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+          "summary": "Hugging Face tarafından paylaşılan teknik rapor, 2026 yılında bir sınır yapay zekâ laboratuvarına (frontier lab) yönelik gerçekleştirilen ajan sızma (agent intrusion) olayını kronolojik olarak inceliyor. Rapor, otonom sistemlerin güvenlik açıklarını ve bu tür saldırıların teknik işleyişini analiz ederek savunma stratejileri için veri sağlıyor.",
+          "meta": "345 oy · 199 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "summary": "Kwaipilot tarafından geliştirilen KAT-Coder-V2.5-Dev, metin üretimi (text-generation) odaklı bir dil modelidir. Yazılım geliştirme süreçlerini desteklemek amacıyla tasarlanan model, kod yazımı ve teknik metin oluşturma görevlerinde kullanılmaktadır.",
+          "meta": "♥ 323 · 6.275 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "deepfake",
+      "explanation": "Yapay zekâ kullanarak bir kişinin görüntüsünü veya sesini başka birine gerçeğinden ayırt edilemeyecek şekilde uyarlamak."
+    },
+    {
+      "term": "face swapping",
+      "explanation": "Bir fotoğraftaki veya videodaki yüzü, başka bir kişinin yüzüyle dijital olarak değiştirmek."
+    },
+    {
+      "term": "frontier voice AI",
+      "explanation": "İnsan gibi doğal ve duygulu konuşabilen, en gelişmiş sesli yapay zekâ teknolojileri."
+    },
+    {
+      "term": "kernels",
+      "explanation": "Bilgisayarın donanımı ile yazılımları arasındaki iletişimi yöneten işletim sisteminin en temel çekirdek parçası."
+    },
+    {
+      "term": "attention",
+      "explanation": "Yapay zekânın bir metin içindeki önemli kelimelere odaklanarak anlamı daha iyi kavramasını sağlayan mekanizma."
+    }
+  ]
+}
