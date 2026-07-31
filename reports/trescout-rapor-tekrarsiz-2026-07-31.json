@@ -1,0 +1,75 @@
+{
+  "date": "2026-07-31",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "WhiskeySockets/Baileys",
+          "url": "https://github.com/WhiskeySockets/Baileys",
+          "summary": "Baileys, WhatsApp Web protokolünü temel alan ve TypeScript ile JavaScript tabanlı uygulamalar geliştirmeye olanak tanıyan soket tabanlı bir arayüz (API) sunuyor. Geliştiriciler, bu kütüphane sayesinde WhatsApp mesajlaşma işlevlerini kendi projelerine doğrudan entegre edebiliyor.",
+          "meta": "JavaScript · ★ 10.485 · +19 bugün"
+        },
+        {
+          "title": "agavra/tuicr",
+          "url": "https://github.com/agavra/tuicr",
+          "summary": "Rust diliyle geliştirilen tuicr, Vim klavye kısayollarını destekleyen bir uçbirim kullanıcı arayüzü (terminal user interface) tabanlı kod inceleme (code review) aracıdır. Geliştiricilerin kod gözden geçirme süreçlerini doğrudan terminal üzerinden yönetmelerine olanak tanır.",
+          "meta": "Rust · ★ 1.940 · +190 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "UEFA and its national associations will not participate in FIFA competitions",
+          "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+          "summary": "UEFA ve üye ulusal federasyonlar, FIFA tarafından planlanan yeni turnuva formatlarına katılmayacaklarını duyurdu. Bu karar, uluslararası futbol takvimindeki yönetim ve organizasyon yapısına yönelik görüş ayrılıklarını yansıtıyor.",
+          "meta": "925 oy · 501 yorum"
+        },
+        {
+          "title": "Read this before you buy that TV streaming stick",
+          "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+          "summary": "Televizyon yayın çubukları (streaming sticks), cihazların güvenliğini tehlikeye atan kötü amaçlı yazılımlar ve yetkisiz veri takibi konusunda riskler barındırıyor. Kullanıcılar, özellikle bilinmeyen markaların sunduğu donanımları tercih ederken cihazların gizlilik politikalarını ve yazılım güncelliğini incelemelidir.",
+          "meta": "671 oy · 384 yorum"
+        },
+        {
+          "title": "Stacked PRs are now live on GitHub",
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+          "summary": "GitHub, yazılım geliştirme süreçlerini hızlandırmak için yığınlı çekme istekleri (stacked pull requests) özelliğini genel ön izlemeye açtı. Bu özellik, geliştiricilerin büyük değişiklikleri daha küçük ve yönetilebilir parçalar halinde birbirine bağlı olarak göndermesine olanak tanıyor.",
+          "meta": "582 oy · 195 yorum"
+        },
+        {
+          "title": "Advancing the price-performance frontier with GPT‑5.6",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+          "summary": "OpenAI, yeni nesil dil modeli GPT-5.6 ile fiyat-performans sınırını genişleterek işlem maliyetlerini düşürmeyi hedefliyor. Model, daha yüksek verimlilik sunan mimari iyileştirmelerle karmaşık görevlerde hesaplama maliyetlerini (compute costs) optimize ediyor.",
+          "meta": "547 oy · 355 yorum"
+        },
+        {
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "summary": "Google DeepMind tarafından geliştirilen Gemini Robotics 2, robotların fiziksel hareketlerini ve çevresel algılarını bütünleşik bir zekâ (whole body intelligence) ile yönetmelerini sağlıyor. Bu model, robotların karmaşık görevleri daha yüksek hassasiyet ve uyum yeteneğiyle yerine getirmesine olanak tanıyor.",
+          "meta": "531 oy · 423 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "owensong/Inflect-Micro-v2",
+          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "summary": "Inflect-Micro-v2, metinden konuşmaya dönüştürme (text-to-speech) işlemleri için geliştirilmiş kompakt bir yapay zekâ modelidir. Düşük kaynak tüketimiyle hızlı ses sentezleme (speech synthesis) süreçlerine odaklanır.",
+          "meta": "♥ 328 · 1.100 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle veri alışverişi yapmasını sağlayan dijital köprü."
+    }
+  ]
+}

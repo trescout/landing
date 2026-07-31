@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-31",
+  "editorial": "Bugün yazılım dünyasında ses tabanlı etkileşim (speech-to-speech) modelleri ve sistematik ticaret (systematic trading) kütüphaneleri geliştiricilerin odak noktasında yer alıyor. GitHub verileri, özellikle açık kaynaklı yapay zekâ araçlarının ve otomasyon kütüphanelerinin kullanım oranında belirgin bir artış olduğunu gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "summary": "Hugging Face tarafından yayınlanan speech-to-speech kütüphanesi, açık kaynaklı modeller kullanarak yerel sesli ajanlar (voice agents) geliştirilmesine olanak tanıyor. Python tabanlı bu araç, geliştiricilerin kendi sistemleri üzerinde konuşmadan konuşmaya (speech-to-speech) etkileşim kuran uygulamalar oluşturmasını sağlıyor.",
+          "meta": "Python · ★ 9.260 · +628 bugün"
+        },
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "Microsoft tarafından hazırlanan AI-For-Beginners, 12 haftalık bir müfredatla yapay zekâ (artificial intelligence) temellerini Jupyter Not defterleri (Jupyter Notebooks) üzerinden öğretiyor. 24 derslik bu açık kaynaklı içerik, başlangıç seviyesindeki kullanıcılara teorik bilgiyi uygulamalı projelerle birleştirme imkânı sunuyor.",
+          "meta": "Jupyter Notebook · ★ 54.451 · +155 bugün"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "Sistematik alım satım (systematic trading) dünyasına yönelik kütüphaneleri, stratejileri ve eğitim kaynaklarını bir araya getiren bu liste, Python tabanlı finansal analiz araçlarını merkezi bir noktada topluyor. Algoritmik ticaret süreçlerini geliştirmek isteyen geliştiriciler için geniş bir kaynak kütüphanesi sunuyor.",
+          "meta": "Python · ★ 11.268 · +621 bugün"
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif sunan ve opencode altyapısını kullanan bir yazılım geliştirme aracıdır. TypeScript ile geliştirilen bu proje, otonom kodlama süreçlerini açık kaynak ekosistemine taşımayı hedeflemektedir.",
+          "meta": "TypeScript · ★ 18.941 · +915 bugün"
+        },
+        {
+          "title": "WhiskeySockets/Baileys",
+          "url": "https://github.com/WhiskeySockets/Baileys",
+          "summary": "Baileys, WhatsApp Web protokolünü temel alan ve TypeScript ile JavaScript tabanlı uygulamalar geliştirmeye olanak tanıyan soket tabanlı bir arayüz (API) sunuyor. Geliştiriciler, bu kütüphane sayesinde WhatsApp mesajlaşma işlevlerini kendi projelerine doğrudan entegre edebiliyor.",
+          "meta": "JavaScript · ★ 10.485 · +19 bugün"
+        },
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "TypeScript ile geliştirilen Pascal, kullanıcıların 3 boyutlu mimari projeler oluşturmasına ve bu projeleri paylaşmasına olanak tanıyan bir düzenleyici (editor) sunuyor. Platform, mimari tasarım süreçlerini tarayıcı tabanlı bir arayüz üzerinden erişilebilir kılmayı hedefliyor.",
+          "meta": "TypeScript · ★ 20.242 · +625 bugün"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlardan güncel verileri tarayarak araştırma yapan bir yapay zekâ yeteneği (AI agent skill) sunuyor. Python tabanlı bu araç, toplanan bilgileri analiz ederek kullanıcılar için gerekçelendirilmiş özetler oluşturuyor.",
+          "meta": "Python · ★ 55.714 · +378 bugün"
+        },
+        {
+          "title": "dotnet/aspnetcore",
+          "url": "https://github.com/dotnet/aspnetcore",
+          "summary": "ASP.NET Core, Windows, macOS ve Linux üzerinde modern bulut tabanlı web uygulamaları geliştirmek için kullanılan platformlar arası bir .NET çatısıdır (framework). C# diliyle yazılan bu açık kaynaklı altyapı, yüksek performanslı ve ölçeklenebilir web hizmetleri oluşturmaya olanak tanır.",
+          "meta": "C# · ★ 38.317 · +7 bugün"
+        },
+        {
+          "title": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "summary": "Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştirme seçeneklerini artıran bir yardımcı araçlar koleksiyonudur. Açık kaynaklı bu paket, kullanıcıların sistem deneyimini iyileştirmek için çeşitli özelleştirme (customization) ve üretkenlik (productivity) araçları sunar.",
+          "meta": "C · ★ 137.230 · +70 bugün"
+        },
+        {
+          "title": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "summary": "Ansible, uygulama dağıtımı ve sistem yönetimi süreçlerini otomatikleştiren bir bilişim teknolojileri otomasyon (IT automation) platformudur. Uzak sistemlere herhangi bir yazılım kurmaya gerek duymadan, SSH protokolü üzerinden basit bir dille yapılandırma yönetimi sağlar.",
+          "meta": "Python · ★ 69.947 · +29 bugün"
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "Chrome Geliştirici Araçları (Chrome DevTools), kodlama ajanlarının tarayıcı tabanlı web hata ayıklama ve inceleme işlemlerini gerçekleştirmesini sağlayan bir model bağlam protokolü (Model Context Protocol) sunuyor. Bu entegrasyon, otonom yazılım geliştirme araçlarının tarayıcı üzerindeki teknik verilere doğrudan erişerek hata giderme süreçlerini otomatikleştirmesine olanak tanıyor.",
+          "meta": "TypeScript · ★ 48.165 · +80 bugün"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Java tabanlı Jenkins, yazılım geliştirme süreçlerinde sürekli entegrasyon (continuous integration) ve sürekli dağıtım (continuous deployment) işlemlerini otomatize eden bir sunucu yazılımıdır. Geniş eklenti desteği sayesinde farklı platformlarda karmaşık iş akışlarının yönetilmesini sağlar.",
+          "meta": "Java · ★ 26.337 · +25 bugün"
+        },
+        {
+          "title": "agavra/tuicr",
+          "url": "https://github.com/agavra/tuicr",
+          "summary": "Rust diliyle geliştirilen tuicr, Vim klavye kısayollarını destekleyen bir uçbirim kullanıcı arayüzü (terminal user interface) tabanlı kod inceleme (code review) aracıdır. Geliştiricilerin kod gözden geçirme süreçlerini doğrudan terminal üzerinden yönetmelerine olanak tanır.",
+          "meta": "Rust · ★ 1.940 · +190 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, Claude Code ve Cursor gibi yapay zekâ kodlama araçları için beceriler, bellek yönetimi ve güvenlik katmanları sunan bir performans optimizasyon sistemidir. Yazılım geliştirme süreçlerinde ajan tabanlı iş akışlarını güçlendirmek amacıyla tasarlanmış bir altyapı sağlar.",
+          "meta": "JavaScript · ★ 236.374 · +804 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "UEFA and its national associations will not participate in FIFA competitions",
+          "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+          "summary": "UEFA ve üye ulusal federasyonlar, FIFA tarafından planlanan yeni turnuva formatlarına katılmayacaklarını duyurdu. Bu karar, uluslararası futbol takvimindeki yönetim ve organizasyon yapısına yönelik görüş ayrılıklarını yansıtıyor.",
+          "meta": "925 oy · 501 yorum"
+        },
+        {
+          "title": "Read this before you buy that TV streaming stick",
+          "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+          "summary": "Televizyon yayın çubukları (streaming sticks), cihazların güvenliğini tehlikeye atan kötü amaçlı yazılımlar ve yetkisiz veri takibi konusunda riskler barındırıyor. Kullanıcılar, özellikle bilinmeyen markaların sunduğu donanımları tercih ederken cihazların gizlilik politikalarını ve yazılım güncelliğini incelemelidir.",
+          "meta": "671 oy · 384 yorum"
+        },
+        {
+          "title": "Stacked PRs are now live on GitHub",
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+          "summary": "GitHub, yazılım geliştirme süreçlerini hızlandırmak için yığınlı çekme istekleri (stacked pull requests) özelliğini genel ön izlemeye açtı. Bu özellik, geliştiricilerin büyük değişiklikleri daha küçük ve yönetilebilir parçalar halinde birbirine bağlı olarak göndermesine olanak tanıyor.",
+          "meta": "582 oy · 195 yorum"
+        },
+        {
+          "title": "Advancing the price-performance frontier with GPT‑5.6",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+          "summary": "OpenAI, yeni nesil dil modeli GPT-5.6 ile fiyat-performans sınırını genişleterek işlem maliyetlerini düşürmeyi hedefliyor. Model, daha yüksek verimlilik sunan mimari iyileştirmelerle karmaşık görevlerde hesaplama maliyetlerini (compute costs) optimize ediyor.",
+          "meta": "547 oy · 355 yorum"
+        },
+        {
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "summary": "Google DeepMind tarafından geliştirilen Gemini Robotics 2, robotların fiziksel hareketlerini ve çevresel algılarını bütünleşik bir zekâ (whole body intelligence) ile yönetmelerini sağlıyor. Bu model, robotların karmaşık görevleri daha yüksek hassasiyet ve uyum yeteneğiyle yerine getirmesine olanak tanıyor.",
+          "meta": "531 oy · 423 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K3, görsel ve metinsel verileri işleyerek metin çıktısı üreten çok modlu (multimodal) bir modeldir. Sistem, karmaşık görsel içerikleri çözümleme ve bu içeriklere dayalı tutarlı metinler oluşturma yeteneği sunar.",
+          "meta": "♥ 9.079 · 387.822 indirme"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B tabanlı bu model, görsel ve metin girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapı sunuyor. Sansürsüz (uncensored) olarak yapılandırılan model, yerel cihazlarda çalıştırılabilmesi için nicemlenmiş (quantized) GGUF formatında kullanıma sunuluyor.",
+          "meta": "♥ 1.053 · 955.767 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel tabanlı metinleri metin çıktılarına dönüştüren bir görüntüden metne (image-to-text) modelidir. Karmaşık dokümanlardaki verileri işlemek için tasarlanan bu model, optik karakter tanıma (OCR) süreçlerinde yüksek doğruluk hedefliyor.",
+          "meta": "♥ 3.596 · 2.598.659 indirme"
+        },
+        {
+          "title": "owensong/Inflect-Micro-v2",
+          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "summary": "Inflect-Micro-v2, metinden konuşmaya dönüştürme (text-to-speech) işlemleri için geliştirilmiş kompakt bir yapay zekâ modelidir. Düşük kaynak tüketimiyle hızlı ses sentezleme (speech synthesis) süreçlerine odaklanır.",
+          "meta": "♥ 328 · 1.100 indirme"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Poolside tarafından geliştirilen Laguna-S-2.1, metin üretimi (text generation) odaklı bir dil modelidir. Geliştiriciler için optimize edilen bu model, doğal dil işleme süreçlerinde metin oluşturma görevlerini yerine getirmektedir.",
+          "meta": "♥ 852 · 73.246 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "voice agents",
+      "explanation": "Kullanıcıyla sesli iletişim kurarak soruları yanıtlayan veya verilen görevleri yerine getiren dijital yardımcılar."
+    },
+    {
+      "term": "speech-to-speech",
+      "explanation": "Konuşulan sesin doğrudan başka bir ses formatına veya dile dönüştürülmesini sağlayan teknoloji."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Bilgisayarların insanlar gibi öğrenme, mantık yürütme ve karar verme yeteneklerine sahip olması."
+    },
+    {
+      "term": "Jupyter Notebooks",
+      "explanation": "Kod yazarken aynı zamanda açıklayıcı notlar ve grafikler eklemeye imkan tanıyan etkileşimli çalışma ortamı."
+    },
+    {
+      "term": "systematic trading",
+      "explanation": "Borsa işlemlerinin önceden belirlenmiş kurallar ve bilgisayar algoritmaları kullanılarak otomatik yapılması."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle veri alışverişi yapmasını sağlayan dijital köprü."
+    },
+    {
+      "term": "editor",
+      "explanation": "Yazılımcıların kodlarını yazıp düzenledikleri, renklendirme ve hata kontrolü gibi özellikler sunan program."
+    },
+    {
+      "term": "AI agent skill",
+      "explanation": "Yapay zekanın belirli bir görevi yerine getirebilmesi için sahip olduğu özel yetenek veya beceri seti."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri hızlandıran, hazır yapılar ve kurallar bütünü sunan temel iskelet."
+    },
+    {
+      "term": "customization",
+      "explanation": "Bir programın veya sistemin kullanıcının kişisel ihtiyaçlarına göre ayarlanması."
+    },
+    {
+      "term": "productivity",
+      "explanation": "Belli bir sürede yapılan iş miktarını artıran verimlilik düzeyi."
+    },
+    {
+      "term": "IT automation",
+      "explanation": "Tekrarlanan bilgisayar işlemlerinin insan müdahalesi olmadan yazılımlar aracılığıyla yapılması."
+    },
+    {
+      "term": "Chrome DevTools",
+      "explanation": "İnternet tarayıcısının içine yerleştirilmiş, web sitelerinin nasıl çalıştığını incelemeye ve hataları düzeltmeye yarayan araçlar."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Yapay zeka modellerinin farklı veri kaynaklarıyla güvenli ve standart bir şekilde konuşmasını sağlayan bağlantı yöntemi."
+    },
+    {
+      "term": "continuous integration",
+      "explanation": "Yazılımcıların yazdığı kodların sürekli olarak birleştirilip hatalara karşı otomatik test edilmesi süreci."
+    },
+    {
+      "term": "continuous deployment",
+      "explanation": "Testi başarıyla geçen kodların hiçbir manuel müdahale olmadan doğrudan canlı sisteme aktarılması."
+    }
+  ]
+}
