@@ -3064,5 +3064,33 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay zekânın bir metin veya veri içindeki en önemli parçalara odaklanmasını sağlayan mekanizma."
+  },
+  {
+    "slug": "editor",
+    "en": "Editor",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımcıların kod yazmak, düzenlemek ve hataları ayıklamak için kullandığı özel bir yazı programıdır."
+  },
+  {
+    "slug": "customization",
+    "en": "Customization",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın veya sistemin, kullanıcının özel tercihlerine ve ihtiyaçlarına göre yeniden şekillendirilmesidir."
+  },
+  {
+    "slug": "productivity",
+    "en": "Productivity",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Belli bir zaman dilimi içerisinde daha kaliteli ve daha fazla iş üretme kapasitesidir."
+  },
+  {
+    "slug": "it-automation",
+    "en": "IT Automation",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayar sistemlerindeki rutin ve tekrarlanan görevlerin yazılımlar tarafından insana ihtiyaç duymadan yürütülmesidir."
   }
 ]

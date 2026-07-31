@@ -30,7 +30,7 @@ Clypra video düzenleyicisini kullanarak profesyonel bir kurgu yapmak istiyorum.
 - [GitHub deposu →](https://github.com/AIEraDev/Clypra)
 
 ## İlgili sözlük terimleri
-Video Editor Open Source Artificial Intelligence 
+Video Editor Editor Open Source Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

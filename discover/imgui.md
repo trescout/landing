@@ -23,7 +23,7 @@ Projenize başlamak için GitHub deposundaki tüm imgui ile başlayan .cpp ve .h
 - [GitHub deposu →](https://github.com/ocornut/imgui)
 
 ## İlgili sözlük terimleri
-User Interface GUI 
+GUI User Interface 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

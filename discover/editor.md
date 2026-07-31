@@ -38,7 +38,7 @@ Pascal Editor kullanarak mimari bir sahne oluşturmak istiyorum. Proje mimarisin
 - [GitHub deposu →](https://github.com/pascalorg/editor)
 
 ## İlgili sözlük terimleri
-Artificial Intelligence 
+Editor Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 

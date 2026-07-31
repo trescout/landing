@@ -6272,5 +6272,37 @@
     "headline": "Apple Sinir Motorunda yapay zekâ eğitimi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "baileys",
+    "title": "Baileys",
+    "tagline": "Baileys, WhatsApp Web protokolünü temel alan ve TypeScript ile JavaScript tabanlı uygulamalar geliştirmeye olanak tanıyan…",
+    "meta": "★ 10.485 · JavaScript",
+    "image": "/assets/discover/og/baileys.webp",
+    "source": "GitHub",
+    "date": "2026-07-31",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 10485,
+    "lite": false,
+    "headline": "WhatsApp Web protokolü ile entegrasyon",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "tuicr",
+    "title": "Tuicr",
+    "tagline": "Rust diliyle geliştirilen tuicr, Vim klavye kısayollarını destekleyen bir uçbirim kullanıcı arayüzü (terminal user interface)…",
+    "meta": "★ 1.940 · Rust",
+    "image": "/assets/discover/og/tuicr.webp",
+    "source": "GitHub",
+    "date": "2026-07-31",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1940,
+    "lite": false,
+    "headline": "Terminalde Vim ile kod inceleme"
   }
 ]

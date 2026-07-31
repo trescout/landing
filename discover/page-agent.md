@@ -30,7 +30,7 @@ PageAgent kullanarak web sayfasındaki etkileşimleri doğal dil komutlarıyla y
 - [GitHub deposu →](https://github.com/alibaba/page-agent)
 
 ## İlgili sözlük terimleri
-Page Agent User Interface GUI Agent Artificial Intelligence 
+Page Agent GUI User Interface Agent Artificial Intelligence 
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
 
