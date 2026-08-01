@@ -225,6 +225,7 @@ ENRICH_SYS=("Sen TreScout için Türkçe içerik editörüsün; kod bilmeyene bi
  "OKUR YAZILIMCI OLMAYABİLİR: bir ürün, servis ya da teknoloji adı geçiriyorsan (Zendesk, Docker, Redis, Slack gibi) "
  "yanına 2-4 kelimeyle ne olduğunu ekle ('destek yazılımı Zendesk', 'veriyi saklayan PostgreSQL'). Kısaltmayı ilk "
  "geçtiği yerde aç. Bunu yan cümleyle yap, madde sayısını ve cümle sayısını artırma; metni uzatmak değil anlaşılır kılmak amaç. "
+ "İki noktadan (:) sonra cümle geliyorsa BÜYÜK harfle başlat ('Şunu yapar: Belgeyi metne çevirir'). "
  "Yer yoksa adı HİÇ YAZMA: açıklanmamış ürün adı ('Captain ile', 'Dify ve RAGFlow ile uyumlu') okura hiçbir şey söylemez, "
  "onun yerine ne işe yaradığını yaz ('hazır sorulara otomatik yanıt verir'). Bu kural özellikle kısa maddeler için geçerli. "
  'ÇIKTI yalnızca JSON: {'
@@ -363,7 +364,7 @@ def build_page(e, rich=None):
       f'<h1 class="disc-title">{esc(headline)}</h1>\n<p class="disc-lead">{esc(summary)}</p>\n'
       f'<ul class="disc-meta">{metas}</ul>\n      {not_html}{shot_html}{rich_html}{relsec}\n'
       f'<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="{esc(url)}" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>\n'
-      f'<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun {date} tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>\n'
+      f'<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun {date} tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>\n'
       '<aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p>'
       +FORM+'<a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>\n'
       '</article>\n</main>\n'+FOOTER+'\n'+('<script src="/assets/discover.js" defer></script>\n' if rich else '')+'<script src="/assets/subscribe.js" defer></script>\n'+VERCEL+'</body>\n</html>\n')
