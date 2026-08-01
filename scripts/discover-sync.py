@@ -225,6 +225,8 @@ ENRICH_SYS=("Sen TreScout için Türkçe içerik editörüsün; kod bilmeyene bi
  "OKUR YAZILIMCI OLMAYABİLİR: bir ürün, servis ya da teknoloji adı geçiriyorsan (Zendesk, Docker, Redis, Slack gibi) "
  "yanına 2-4 kelimeyle ne olduğunu ekle ('destek yazılımı Zendesk', 'veriyi saklayan PostgreSQL'). Kısaltmayı ilk "
  "geçtiği yerde aç. Bunu yan cümleyle yap, madde sayısını ve cümle sayısını artırma; metni uzatmak değil anlaşılır kılmak amaç. "
+ "Yer yoksa adı HİÇ YAZMA: açıklanmamış ürün adı ('Captain ile', 'Dify ve RAGFlow ile uyumlu') okura hiçbir şey söylemez, "
+ "onun yerine ne işe yaradığını yaz ('hazır sorulara otomatik yanıt verir'). Bu kural özellikle kısa maddeler için geçerli. "
  'ÇIKTI yalnızca JSON: {'
  '"baslik"(aracın ne yaptığını yakalayan KISA çekici Türkçe başlık, 2-6 kelime, blog başlığı gibi; repo adını tekrarlama, abartı/hype yok, em dash yok, AI yerine "yapay zekâ" (şapkalı/küçük), nokta opsiyonel · ör. "yapay zekâ ajanınıza kalıcı hafıza"),'
  '"kazanimlar"(3 kısa somut madde),'
