@@ -6304,5 +6304,53 @@
     "stars": 1940,
     "lite": false,
     "headline": "Terminalde Vim ile kod inceleme"
+  },
+  {
+    "slug": "reverse-skill",
+    "title": "Reverse Skill",
+    "tagline": "Reverse-skill, tersine mühendislik ve sızma testi süreçleri için yapay zekâ destekli bir yönlendirme paketi (routing pack)…",
+    "meta": "★ 11.014 · PowerShell",
+    "image": "/assets/discover/og/reverse-skill.webp",
+    "source": "GitHub",
+    "date": "2026-08-01",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 11014,
+    "lite": false,
+    "headline": "Sızma testleri için yapay zekâ yönlendirme"
+  },
+  {
+    "slug": "kaneo",
+    "title": "Kaneo",
+    "tagline": "Kaneo, kullanıcı odaklı bir arayüzle geliştirilen açık kaynaklı bir proje yönetimi (project management) aracıdır.",
+    "meta": "★ 5.248 · TypeScript",
+    "image": "/assets/discover/og/kaneo.webp",
+    "source": "GitHub",
+    "date": "2026-08-01",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 5248,
+    "lite": false,
+    "headline": "Sade ve hızlı proje yönetimi"
+  },
+  {
+    "slug": "esp32-bit-pirate",
+    "title": "ESP32-Bit-Pirate",
+    "tagline": "ESP32-Bit-Pirate, web tabanlı bir komut satırı arayüzü (CLI) üzerinden çok sayıda haberleşme protokolünü destekleyen bir…",
+    "meta": "★ 5.115 · C++",
+    "image": "/assets/discover/og/esp32-bit-pirate.webp",
+    "source": "GitHub",
+    "date": "2026-08-01",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 5115,
+    "lite": false,
+    "headline": "donanım analizi için çok protokollü araç",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   }
 ]

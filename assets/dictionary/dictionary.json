@@ -3092,5 +3092,40 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bilgisayar sistemlerindeki rutin ve tekrarlanan görevlerin yazılımlar tarafından insana ihtiyaç duymadan yürütülmesidir."
+  },
+  {
+    "slug": "routing-pack",
+    "en": "Routing Pack",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Veri paketlerinin ağ üzerindeki en verimli rotayı izlemesini sağlayan kurallar dizisidir."
+  },
+  {
+    "slug": "toolchain-bootstrapping",
+    "en": "Toolchain Bootstrapping",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılım aracının, kendisini derleyebilecek veya oluşturabilecek kapasiteye ulaşana kadar aşamalı olarak geliştirilmesi sürecidir."
+  },
+  {
+    "slug": "keybindings",
+    "en": "Keybindings",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Klavye tuşlarına belirli görevlerin veya komutların atanması işlemidir."
+  },
+  {
+    "slug": "project-management",
+    "en": "Project Management",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Belirli bir hedefi gerçekleştirmek için zaman, kaynak ve görevlerin planlanması ve yönetilmesidir."
+  },
+  {
+    "slug": "deep-learning",
+    "en": "Deep Learning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay sinir ağlarını kullanarak bilgisayarların büyük verilerden kendi kendine öğrenmesini sağlayan bir makine öğrenmesi yöntemidir."
   }
 ]
