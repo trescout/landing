@@ -336,6 +336,8 @@ def build_page(e, rich=None):
         if chips: relsec=f'<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related">{chips}</div></section>'
     mom=f'<span class="disc-momentum">🚀 {esc(momentum)}</span>' if momentum else ''
     rich_html=rich_sections(rich, e.get("cmds")) if rich else ''
+    notu=(e.get("trescout_notu") or "").strip()   # elle yazılan editöryel yargı · README özetinden farkımız
+    not_html=f'<aside class="disc-note"><p><strong>TreScout notu:</strong> {esc(notu)}</p></aside>\n      ' if notu else ''
     sh=e.get("shot"); shot_html=''
     if sh:   # lisansı temiz gerçek ekran görüntüsü (catalog 'shot' alanı · reprocess'te korunur)
         shot_html=(f'<figure class="disc-shot"><img src="{esc(sh["src"])}" width="{sh.get("w","")}" height="{sh.get("h","")}" '
@@ -353,7 +355,7 @@ def build_page(e, rich=None):
       '<a class="disc-back" href="/discover/">← Keşif</a>\n'
       f'<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub{eyebrow_repo}</span>{mom}</div>\n'
       f'<h1 class="disc-title">{esc(headline)}</h1>\n<p class="disc-lead">{esc(summary)}</p>\n'
-      f'<ul class="disc-meta">{metas}</ul>\n      {shot_html}{rich_html}{relsec}\n'
+      f'<ul class="disc-meta">{metas}</ul>\n      {not_html}{shot_html}{rich_html}{relsec}\n'
       f'<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="{esc(url)}" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>\n'
       '<aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p>'
       +FORM+'<a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>\n'
@@ -397,6 +399,7 @@ def base_entry(n, rich, reason, key=None):
             elif eski and not _ai_iddiasi(eski): c["headline"]=eski  # reddedildi · mevcut başlık temizse korunur
         if n.get("shot"): c["shot"]=n["shot"]
         if n.get("cmds"): c["cmds"]=n["cmds"]
+        if n.get("trescout_notu"): c["trescout_notu"]=n["trescout_notu"]
         if not (rich.get("kurulum") or rich.get("calistirma") or n.get("cmds")):  # hiç komut yok → kuyrukta (insan komut bulur/ekler, --done ile kapatır)
             c["needs_enrichment"]=True; c["enrich_reason"]="komutsuz"
     else:
@@ -496,7 +499,7 @@ def reprocess(cat, by_slug, key, targets, label):
         rows.append({"slug":c["slug"],"title":c["title"],"tagline":c["tagline"],"summary":summary,"headline":c.get("headline"),
                      "url":m.group(1) if m else "","lang":lang,"stars":c.get("stars",stars),
                      "momentum":momentum,"date":c.get("date",TODAY),"tags":c.get("tags") or infer_tags(summary),
-                     "shot":c.get("shot"),"cmds":c.get("cmds")})
+                     "shot":c.get("shot"),"cmds":c.get("cmds"),"trescout_notu":c.get("trescout_notu")})
     print(f"{label}: {len(rows)} entry yeniden değerlendirilecek")
     if DRY:
         for n in rows: print(f"  ~ {n['slug']}  ({n['url']})")
