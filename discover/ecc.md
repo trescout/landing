@@ -49,7 +49,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari projede kullanab
 - [Ana sayfa (ecc.tools) →](https://ecc.tools)
 - [Türkçe README →](https://github.com/affaan-m/ECC/blob/main/docs/tr/README.md)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 Tools Plugin Open Source Artificial Intelligence

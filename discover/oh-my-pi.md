@@ -49,7 +49,7 @@ Oh My Pi aracını terminalimde kullanmaya başladım. Bu yapay zekâ kodlama aj
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/can1357/oh-my-pi)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 LSP AI Coding Agent Coding Agent Terminal Agent Artificial Intelligence

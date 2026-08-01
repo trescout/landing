@@ -5,12 +5,12 @@ Go diliyle geliştirilen Restic, verileri şifreleyerek hızlı ve verimli bir �
 - ★ 34.273
 - GitHub Trending · 2026-06-12
 
-TreScout notu: Yedeği şifreleyip tekrar eden veriyi ayıkladığı için depolama maliyeti düşük kalır. Arayüzü yoktur, zamanlanmış görevi ve saklama politikasını siz kurarsınız · forget ve prune adımlarını atlarsanız depo şişer. Geri yükleme senaryosunu kurduğunuz gün bir kez deneyin, yedeğin çalıştığını ancak öyle bilirsiniz.
+TreScout notu: Yedeklerinizi şifreleyerek saklar ve aynı dosyayı iki kez yazmadığı için yer kaplamaz. Tıklanacak bir arayüzü yok, komut satırından çalışır ve eski yedekleri temizleme işini siz ayarlarsınız, ayarlamazsanız depolama zamanla şişer. Kurduğunuz gün bir dosyayı geri yüklemeyi deneyin: Yedeğin gerçekten çalıştığını başka türlü anlayamazsınız.
 
 ## Ne kazandırır?
 - Verileri şifreleyerek yüksek güvenlik sağlar
 - Artımlı yedekleme ile depolama alanından tasarruf eder
-- Farklı bulut depolama servisleriyle uyumlu çalışır
+- Farklı bulut ve yerel depolama sistemleriyle uyumludur
 
 ## Kurulum
 
@@ -30,15 +30,15 @@ Kaynak: restic.readthedocs.io (resmî)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Restic yedekleme programını kullanarak verilerimi nasıl daha verimli yedekleyebilirim? Özellikle şifreleme ve artımlı yedekleme özelliklerini kullanarak yerel veya bulut tabanlı bir depolama alanına yedek alma sürecini adım adım açıkla. Yedekleme havuzu oluşturma, dosyaları yedekleme, mevcut yedekleri listeleme ve gerektiğinde geri yükleme işlemleri için hangi temel komutları kullanmalıyım?
+Verilerimi Restic kullanarak güvenli bir şekilde yedeklemek istiyorum. Yerel bir klasörü veya belirli bir dizini şifreli bir yedekleme deposuna nasıl aktarabilirim? Yedekleme deposunu oluşturma ve ilk yedekleme işlemini başlatma adımlarını, verilerimin şifrelenmesini sağlayacak şekilde adım adım açıklar mısın?
 
-- **Kimin için:** Verilerini hızlı, güvenli ve düzenli bir şekilde yedeklemek isteyen tüm kullanıcılar için uygundur. 
+- **Kimin için:** Verilerini şifreleyerek hızlı ve verimli bir şekilde yedeklemek isteyen tüm kullanıcılar için uygundur. 
 - **Lisans:** BSD-2-Clause 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/restic/restic)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 Backup Program Incremental Backup Artificial Intelligence

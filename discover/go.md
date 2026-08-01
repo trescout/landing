@@ -1,16 +1,16 @@
-# Modern ve verimli yazılım geliştirme dili
+# Hızlı ve güvenilir yazılım dili
 
 Google tarafından geliştirilen Go programlama dili, yüksek performanslı ve ölçeklenebilir yazılımlar oluşturmak için tasarlanmış açık kaynaklı bir sistem programlama dilidir (system programming language). Eşzamanlılık (concurrency) yönetimi ve hızlı derleme süreleri ile modern bulut bilişim altyapılarında yaygın olarak tercih edilmektedir.
 
 - ★ 134.555
 - GitHub Trending · 2026-06-07
 
-TreScout notu: Tek bir çalıştırılabilir dosya üretmesi dağıtımı sadeleştirir, sunucuya kopyalayıp çalıştırırsınız. Karşılığında dilin ifade gücü dardır: hata kontrolü tekrar eder, jenerikler dile geç eklendi. Servis ve komut satırı aracı yazıyorsanız yerinde bir tercih, ağır iş mantığı modelleyecekseniz zorlar.
+TreScout notu: Yazdığınız program tek bir dosya olarak çıkar, o dosyayı sunucuya kopyalayıp çalıştırırsınız, yanına başka bir şey kurmanız gerekmez. Karşılığında dil kasıtlı olarak sade tutulmuş: Aynı hata kontrolünü tekrar tekrar yazarsınız. Sunucu servisi ve komut satırı aracı yazmak için iyi, karmaşık iş kurallarını modellemek için zorlar.
 
 ## Ne kazandırır?
-- Basit ve güvenilir kod yazımı
-- Yüksek performanslı sistem programlama
-- Modern bulut altyapılarıyla uyum
+- Basit ve anlaşılır kod yapısı
+- Yüksek performanslı çalışma kapasitesi
+- Modern bulut sistemleri için verimlilik
 
 ## Kurulum
 
@@ -30,15 +30,15 @@ Kaynak: go.dev/doc/install (resmî) · veya go.dev/dl'den indirin
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Go programlama dilinin temel özelliklerini, basit ve güvenilir yazılım geliştirme süreçlerine nasıl katkı sağladığını ve modern sistem programlamadaki yerini açıklayan bir rehber hazırla. Google tarafından geliştirilen bu dilin, özellikle bulut bilişim altyapılarında neden tercih edildiğini ve yeni başlayan birinin bu dili öğrenirken nelere dikkat etmesi gerektiğini özetle.
+Go programlama dili ile basit, güvenilir ve verimli yazılımlar geliştirmek istiyorum. Bu dilin temel sözdizimi yapısını, eşzamanlılık yönetimini ve modern bulut bilişim projelerinde nasıl kullanıldığını başlangıç seviyesinde bir yazılımcı için açıkla.
 
-- **Kimin için:** Ölçeklenebilir ve yüksek performanslı yazılımlar geliştirmek isteyen yazılım geliştiriciler için uygundur. 
+- **Kimin için:** Ölçeklenebilir ve yüksek performanslı yazılımlar geliştirmek isteyen yazılım geliştiricileri için uygundur. 
 - **Lisans:** BSD-3-Clause 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/golang/go)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-07 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 System Programming Language Concurrency Artificial Intelligence

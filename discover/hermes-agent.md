@@ -37,7 +37,7 @@ Hermes Agent ile çalışırken otonom öğrenme döngüsünden faydalanmak isti
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/NousResearch/hermes-agent)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 Hermes Agent Autonomous Agent Continuous Learning Agent Artificial Intelligence

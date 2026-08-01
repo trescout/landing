@@ -1,16 +1,16 @@
-# Açık kaynaklı çok kanallı müşteri destek platformu
+# Açık kaynaklı müşteri destek platformu
 
 Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel desk) yönetimi sunan açık kaynaklı bir platformdur. Intercom ve Zendesk gibi ticari yazılımlara alternatif olarak geliştirilen bu araç, müşteri etkileşimlerini tek bir merkezden yönetmeyi sağlar.
 
 - ★ 30.493
 - GitHub Trending · 2026-06-12
 
-TreScout notu: Zendesk ya da Intercom yerine kendi sunucunuzda çalışan destek masası. Kurulum tek konteyner değildir: veritabanı, kuyruk ve önbellek ister, küçük bir sunucuda zorlanır. WhatsApp kanalı için Meta tarafında iş ortağı onayı gerekir, bunu kurulum öncesinde hesaba katın.
+TreScout notu: Müşterilerden gelen mesajları tek ekranda toplar: Site sohbeti, e-posta, WhatsApp. Aynı işi yapan hazır servisler kişi başına aylık ücret alır, bu kendi sunucunuzda çalıştığı için o ücret yoktur, karşılığında sunucu ve bakım sizin işiniz olur. Kurulumu tek parça değildir, yanında birkaç yardımcı program ister ve en ucuz sunucu paketlerinde zorlanır.
 
 ## Ne kazandırır?
-- Tüm müşteri mesajlarını tek bir gelen kutusunda toplar
-- Yapay zekâ destekli otomatik yanıtlarla iş yükünü azaltır
-- Kendi kendine yardım için bilgi merkezi portalı sunar
+- Tüm müşteri kanallarını tek bir gelen kutusunda birleştirir.
+- Yapay zekâ destekli asistan ile rutin soruları otomatik yanıtlar.
+- Kendi sunucunuzda barındırarak müşteri verileriniz üzerinde tam kontrol sağlar.
 
 ## Kurulum
 
@@ -24,14 +24,14 @@ Kaynak: developers.chatwoot.com/self-hosted/deployment/docker (resmî)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Chatwoot üzerinde müşteri destek süreçlerimi yönetiyorum. Müşterilerden gelen sıkça sorulan soruları otomatik yanıtlamak, destek ekibimin iş yükünü hafifletmek ve farklı kanallardan gelen mesajları tek bir merkezden takip etmek istiyorum. Captain yapay zekâ ajanını kullanarak yanıtları nasıl otomatikleştirebilirim ve müşteri memnuniyetini artırmak için hangi raporlama araçlarını kullanmalıyım?
+Bir müşteri destek temsilcisi gibi davranarak gelen soruları yanıtla. Chatwoot üzerindeki Captain yapay zekâ asistanı olarak, sık sorulan soruları otomatik olarak çözümle ve karmaşık konuları ilgili ekip arkadaşlarına yönlendir. Müşterilere her zaman nazik, hızlı ve doğru bilgiler vererek destek deneyimini iyileştir.
 
 - **Kimin için:** Müşteri etkileşimlerini tek merkezden yönetmek ve destek süreçlerini otomatize etmek isteyen işletmeler için uygundur. 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/chatwoot/chatwoot)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 Omni-channel Desk Omni-channel Deployment Self-hosted Artificial Intelligence

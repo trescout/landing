@@ -1,16 +1,16 @@
-# Modern web projeleri için hızlı geliştirme
+# Web projeleri için hızlı geliştirme ortamı
 
 Vite, modern web projeleri için hızlı bir geliştirme ortamı ve derleme aracı (build tool) sunuyor. Yerel ES modüllerini kullanarak geliştirme sürecindeki bekleme sürelerini azaltan bir ön yüz araç seti (frontend tooling) işlevi görüyor.
 
 - ★ 81.238
 - GitHub Trending · 2026-06-07
 
-TreScout notu: Asıl kazanç geliştirme sunucusunun anında açılması · büyük projede dakikalara çıkan bekleme saniyeye iner. Eski Webpack eklentilerine bağımlıysanız geçişte karşılıklarını aramanız gerekir. Bugün sıfırdan ön yüz projesi kuruyorsanız varsayılan tercih olarak düşünebilirsiniz.
+TreScout notu: Geliştirme sırasında kaydettiğiniz değişikliği anında ekrana yansıtır, büyük projede dakikalara çıkan beklemeyi saniyeye indirir. Eski araçlardan geçiyorsanız kullandığınız eklentilerin burada karşılığı var mı diye bakın. Yeni bir web projesine başlıyorsanız varsayılan tercih sayılabilir.
 
 ## Ne kazandırır?
-- Anında sunucu başlatma desteği
-- Çok hızlı modül yenileme süreci
-- Optimize edilmiş üretim çıktıları
+- Yerel ES modülleri sayesinde anında sunucu başlatma
+- Hızlı modül değişimi ile kesintisiz geliştirme süreci
+- Üretim aşaması için optimize edilmiş kod paketleme
 
 ## Kurulum
 
@@ -24,15 +24,15 @@ Kaynak: vite.dev (resmî dokümantasyon)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Vite kullanarak modern bir web projesi başlatmak istiyorum. Proje kurulumu, geliştirme sunucusunu çalıştırma ve üretim için kod paketleme süreçlerinde izlemem gereken temel adımları bana açıkla. Vite'in sunduğu hızlı geliştirme deneyiminden nasıl faydalanabileceğimi ve yerel ES modüllerini nasıl kullanabileceğimi örneklerle anlat.
+Benim için modern bir web projesi başlatmak istiyorum. Vite kullanarak geliştirme ortamımı nasıl kurabilirim ve projemi yayına hazırlamak için hangi adımları izlemeliyim? Hızlı geliştirme ve optimize edilmiş derleme süreçleri için temel yapılandırma önerilerini açıkla.
 
-- **Kimin için:** Web projelerinde geliştirme sürelerini kısaltmak ve daha verimli bir derleme süreci arayan ön yüz geliştiricileri için uygundur. 
+- **Kimin için:** Web projelerinde geliştirme hızını artırmak ve modern araçlarla çalışmak isteyen yazılımcılar içindir. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/vitejs/vite)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-07 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 Artificial Intelligence

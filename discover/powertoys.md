@@ -1,16 +1,16 @@
-# Windows için gelişmiş sistem araçları
+# Windows deneyimini özelleştiren yardımcı araçlar
 
 Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştirmeyi artırmak amacıyla geliştirilen bir yardımcı yazılım koleksiyonudur. Kullanıcılara sistem üzerinde gelişmiş özelleştirme araçları ve iş akışı optimizasyonları sunar.
 
 - ★ 134.431
 - GitHub Trending · 2026-06-13
 
-TreScout notu: Tek bir uygulama değil, birbirinden bağımsız araçlar paketi · çoğu kişi aslında FancyZones ve PowerToys Run için kuruyor. Kurumsal cihazlarda yönetici izni gerekebilir. macOS'tan Windows'a geçenler için pencere yönetimi ve hızlı başlatma boşluğunu kapatır.
+TreScout notu: Tek bir program değil, Windows'a eklenen küçük araçlar paketi. Çoğu kişi ikisi için kuruyor: Pencereleri ekrana ızgara düzeninde yerleştiren araç ve klavyeden hızlı arama. Şirket bilgisayarında kurulum yönetici izni isteyebilir.
 
 ## Ne kazandırır?
-- Otuzdan fazla yardımcı araçla iş akışını hızlandırır
-- Windows sistemini kişiselleştirme imkânı sunar
-- Ekran düzenleme ve dosya yönetimi gibi görevleri kolaylaştırır
+- Pencere düzenleme ve ekran yönetimi sağlar
+- Gelişmiş dosya ve metin düzenleme imkânı sunar
+- Klavye ve fare kullanımını hızlandırır
 
 ## Kurulum
 
@@ -24,15 +24,15 @@ Kaynak: Microsoft Learn (resmî)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Windows işletim sisteminde verimliliğimi artırmak istiyorum. PowerToys içerisindeki araçları kullanarak iş akışımı nasıl optimize edebilirim ve hangi yardımcı araçlar günlük görevlerimi hızlandırmak için en uygun olanlardır?
+Windows işletim sisteminde verimliliğimi artırmak için PowerToys yardımcı yazılım koleksiyonunu kullanıyorum. Hangi araçların iş akışımı nasıl optimize edebileceği konusunda bana rehberlik et ve belirli görevleri yerine getirmek için hangi yardımcı programı kullanmam gerektiğini açıkla.
 
-- **Kimin için:** Windows işletim sisteminde verimliliğini artırmak ve sistemini daha işlevsel hale getirmek isteyen tüm kullanıcılar için uygundur. 
+- **Kimin için:** Windows üzerinde günlük görevlerini hızlandırmak ve sistemini kişiselleştirmek isteyen tüm kullanıcılar için uygundur. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/microsoft/PowerToys)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 Artificial Intelligence

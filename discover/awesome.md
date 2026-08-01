@@ -21,7 +21,7 @@ Bu araç bir yazılım kurulumu gerektirmez. İlgilendiğiniz teknoloji veya kon
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/sindresorhus/awesome)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-07 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/awesome/

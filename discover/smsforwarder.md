@@ -22,7 +22,7 @@ Aracı kullanmaya başlamak için GitHub üzerindeki resmî sürümler sayfasın
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/pppscn/SmsForwarder)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-21 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/smsforwarder/

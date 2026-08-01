@@ -54,7 +54,7 @@ Lisans: AGPL-3.0 · Hazır siteyi kullanmak serbest. Ancak projeyi değiştirir,
 - [GitHub deposu →](https://github.com/Open-Dev-Society/OpenStock)
 - [Hazır site →](https://openstock-ods.vercel.app)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 Self-hosting Clone Artificial Intelligence

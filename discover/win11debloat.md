@@ -1,16 +1,16 @@
-# Windows sisteminizi gereksizlerden arındırın
+# Windows sisteminizi yapay zekâdan arındırın
 
 Win11Debloat, Windows 10 ve 11 işletim sistemlerinde önceden yüklenmiş uygulamaları kaldırmayı ve telemetri verilerini devre dışı bırakmayı sağlayan bir PowerShell betiğidir. Kullanıcıların sistemlerini özelleştirmelerine ve gereksiz bileşenlerden arındırarak sistem hafifletme (debloat) işlemi yapmalarına olanak tanır.
 
 - ★ 48.210
 - GitHub Trending · 2026-06-16
 
-TreScout notu: Betiği uzaktan indirip çalıştırdığınız için ne yaptığını önce okumanız gerekir, kaldırılan bazı bileşenleri geri getirmek kolay değildir. Kişisel makinede önyüklü uygulamalardan ve telemetriden kurtulmak için pratik. Kurum cihazında ya da başkalarıyla paylaştığınız bilgisayarda kullanmayın.
+TreScout notu: Windows'la birlikte gelen istemediğiniz uygulamaları kaldırır, arka planda veri toplayan ayarları kapatır. Çalıştırmadan önce ne yaptığını okuyun: Kaldırılan bazı parçaları geri getirmek kolay değildir. Kişisel bilgisayarda pratik, şirket cihazında ya da başkasıyla paylaştığınız bilgisayarda kullanmayın.
 
 ## Ne kazandırır?
-- Önceden yüklenmiş uygulamaları hızla kaldırın
-- Telemetri ve takip verilerini devre dışı bırakın
-- Sistem arayüzünü ve ayarlarını özelleştirin
+- Önceden yüklenmiş gereksiz uygulamaları hızla kaldırır.
+- Telemetri ve izleme verilerini devre dışı bırakır.
+- Yapay zekâ destekli özellikleri ve reklamları kapatır.
 
 ## Kurulum
 
@@ -32,15 +32,15 @@ Kaynak: Resmî Win11Debloat README (Raphire/Win11Debloat)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Windows 11 veya 10 işletim sistemimde gereksiz uygulamaları kaldırmak, telemetri verilerini kapatmak ve sistemimi hafifletmek istiyorum. Win11Debloat aracını kullanarak sistem performansımı nasıl optimize edebilirim ve hangi ayarların gizlilik açısından kapatılması daha güvenlidir?
+Windows 11 işletim sistemimdeki gereksiz uygulamaları kaldırmak, telemetri verilerini kapatmak ve yapay zekâ destekli Copilot gibi özellikleri devre dışı bırakmak istiyorum. Win11Debloat aracını kullanarak sistemimi nasıl daha hafif ve gizlilik odaklı hale getirebilirim? Lütfen bu aracı kullanırken sistem kararlılığını korumak için dikkat etmem gerekenleri ve güvenli bir şekilde nasıl özelleştirme yapabileceğimi adım adım açıkla.
 
-- **Kimin için:** Windows işletim sistemini gereksiz bileşenlerden arındırarak daha hafif ve kişiselleştirilmiş bir deneyim isteyen kullanıcılar içindir. 
+- **Kimin için:** Windows 10 veya 11 işletim sistemini kullanan, sistemini gereksiz bileşenlerden arındırmak ve gizlilik ayarlarını kontrol etmek isteyen kullanıcılar içindir. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Raphire/Win11Debloat)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-16 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 Artificial Intelligence

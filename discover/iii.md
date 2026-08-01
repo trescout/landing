@@ -58,7 +58,7 @@ Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; bu varsayılan olarak 'tüm ha
 - [GitHub deposu →](https://github.com/iii-hq/iii)
 - [Ana sayfa →](https://iii.dev)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 Observability Sandbox SDK Rust Open Source Artificial Intelligence
