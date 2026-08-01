@@ -1,0 +1,219 @@
+{
+  "date": "2026-08-01",
+  "editorial": "Yazılım geliştirme süreçlerinde otomasyon yetenekleri (skill) ve sistemli ticaret (systematic trading) stratejileri bugün geliştirici topluluğunun ana gündemini oluşturuyor. Microsoft tarafından paylaşılan yardımcı pilot geliştirme kiti (copilot sdk) ise yapay zekâ entegrasyonlu araçların standartlaşma eğilimini net bir şekilde ortaya koyuyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-skill, tersine mühendislik ve sızma testi süreçleri için yapay zekâ destekli bir yönlendirme paketi (routing pack) sunuyor. Araç zinciri önyükleme (toolchain bootstrapping) ve kendi kendine gelişen bilgi tabanı özellikleriyle Claude Code, Cursor ve Cline gibi kodlama araçlarıyla entegre çalışıyor.",
+          "meta": "PowerShell · ★ 11.014 · +335 bugün"
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir yazılım geliştirme aracıdır. TypeScript ile hazırlanan proje, otonom kodlama süreçlerini açık kaynak ekosistemine taşımayı hedefler.",
+          "meta": "TypeScript · ★ 19.654 · +806 bugün"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, Reddit, X, YouTube ve Hacker News gibi platformlardan güncel verileri tarayarak karmaşık konular hakkında özetler oluşturan bir yapay zekâ yeteneği (AI agent skill) sunuyor. Python tabanlı bu araç, farklı kaynaklardaki bilgileri birleştirerek kullanıcılar için kanıta dayalı sentezler üretiyor.",
+          "meta": "Python · ★ 56.349 · +658 bugün"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "Sistematik alım satım (systematic trading) süreçleri için kütüphaneler, stratejiler, kitaplar ve eğitim kaynaklarını bir araya getiren bu liste, Python tabanlı finansal modelleme araçlarını merkezi bir noktada topluyor. Algoritmik ticaret (algorithmic trading) dünyasına giriş yapan geliştiriciler için geniş kapsamlı bir referans kütüphanesi işlevi görüyor.",
+          "meta": "Python · ★ 11.878 · +763 bugün"
+        },
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "Microsoft tarafından hazırlanan AI-For-Beginners, 12 haftalık müfredat ve 24 dersten oluşan kapsamlı bir yapay zekâ (artificial intelligence) eğitim programı sunuyor. Jupyter Not Defterleri (Jupyter Notebooks) üzerinden yürütülen bu açık kaynaklı proje, temel seviyeden başlayarak katılımcılara uygulamalı öğrenme imkânı sağlıyor.",
+          "meta": "Jupyter Notebook · ★ 55.508 · +1.592 bugün"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub, geliştiricilerin Copilot ajanlarını kendi uygulama ve hizmetlerine entegre etmelerini sağlayan çoklu platform yazılım geliştirme kiti (SDK) yayınladı. Bu araç, Java tabanlı projelerde yapay zekâ destekli iş akışlarının standart bir yapıyla sisteme dahil edilmesine olanak tanıyor.",
+          "meta": "Java · ★ 10.164 · +7 bugün"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı (omni-channel) müşteri hizmetleri yönetimi sunan açık kaynaklı bir platformdur. Intercom ve Zendesk gibi yazılımlara alternatif olarak geliştirilen bu araç, müşteri etkileşimlerini tek bir panel üzerinden merkezileştirmeyi sağlar.",
+          "meta": "Ruby · ★ 35.205 · +35 bugün"
+        },
+        {
+          "title": "agavra/tuicr",
+          "url": "https://github.com/agavra/tuicr",
+          "summary": "Rust diliyle geliştirilen tuicr, Vim tuş takımı (keybindings) desteğiyle terminal tabanlı bir kod inceleme (code review) arayüzü sunuyor. Yazılım geliştiricilerin terminal ortamından ayrılmadan kod gözden geçirme süreçlerini yönetmelerini sağlıyor.",
+          "meta": "Rust · ★ 2.193 · +335 bugün"
+        },
+        {
+          "title": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "summary": "Kaneo, kullanıcı odaklı bir arayüzle geliştirilen açık kaynaklı bir proje yönetimi (project management) aracıdır. TypeScript ile yazılan platform, karmaşıklıktan arındırılmış iş akışları oluşturmayı hedefler.",
+          "meta": "TypeScript · ★ 5.248 · +194 bugün"
+        },
+        {
+          "title": "geo-tp/ESP32-Bit-Pirate",
+          "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+          "summary": "ESP32-Bit-Pirate, web tabanlı bir komut satırı arayüzü (CLI) üzerinden çok sayıda haberleşme protokolünü destekleyen bir donanım hackleme aracıdır. C++ diliyle geliştirilen bu sistem, farklı protokolleri tek bir platform üzerinden yöneterek donanım analizi süreçlerini kolaylaştırır.",
+          "meta": "C++ · ★ 5.115 · +83 bugün"
+        },
+        {
+          "title": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "summary": "Faceswap, Python tabanlı yapısı ile videolar ve fotoğraflar üzerinde yüz değiştirme (face swapping) işlemlerini gerçekleştiren açık kaynaklı bir yazılımdır. Derin öğrenme (deep learning) tekniklerini kullanarak kullanıcıların görsel içerikler üzerinde yüz dönüşümü yapmasına olanak tanır.",
+          "meta": "Python · ★ 57.075 · +93 bugün"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Rust diliyle geliştirilen jcode, bellek kullanımını en aza indiren bir kod işleme aracı (harness) sunuyor. Yazılım süreçlerinde sistem kaynaklarını verimli yönetmek amacıyla tasarlanan bu yapı, yüksek performanslı kod çalıştırma ortamları sağlıyor.",
+          "meta": "Rust · ★ 14.709 · +527 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Elevators",
+          "url": "https://john.fun/elevators",
+          "summary": "Asansörlerin çalışma mantığını ve kat seçim algoritmalarını inceleyen bu çalışma, dikey ulaşım sistemlerinde verimlilik optimizasyonuna odaklanıyor. Yazılım tabanlı simülasyonlar üzerinden, bekleme sürelerini azaltan ve enerji tasarrufu sağlayan dağıtık kontrol stratejilerini (distributed control strategies) analiz ediyor.",
+          "meta": "1.130 oy · 268 yorum"
+        },
+        {
+          "title": "qm – Multiplayer agent harness for work",
+          "url": "https://github.com/yc-software/qm",
+          "summary": "qm, çok oyunculu yapay zekâ ajanları (multiplayer AI agents) için iş birliği ve görev yönetimi sağlayan bir altyapı sunuyor. Bu araç, farklı ajanların ortak bir çalışma alanında (harness) eş zamanlı olarak görevleri yürütmesine olanak tanıyor.",
+          "meta": "526 oy · 110 yorum"
+        },
+        {
+          "title": "Tailscale didn't stop the Hugging Face intrusion",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "summary": "Hugging Face üzerinde gerçekleşen yetkisiz erişim olayı, yalnızca güvenli ağ (mesh VPN) kullanımının sistem güvenliğini sağlamak için yeterli olmadığını gösteriyor. Güvenli ağ çözümleri, kimlik doğrulama (authentication) ve erişim denetimi (access control) gibi katmanlı güvenlik önlemleriyle desteklenmediğinde açıklar oluşabiliyor.",
+          "meta": "517 oy · 195 yorum"
+        },
+        {
+          "title": "Twenty-five years ago it was cryptography, today it's model weights",
+          "url": "https://weeraman.com/because-we-can/",
+          "summary": "Yirmi beş yıl önce kriptografi (cryptography) alanında yaşanan açık kaynak tartışmaları, günümüzde yapay zekâ model ağırlıklarının (model weights) erişilebilirliği etrafında tekrarlanıyor. Teknoloji dünyası, güvenlik ve inovasyon dengesini kurmak adına açık erişim ile kapalı sistemler arasındaki sınırları yeniden tanımlıyor.",
+          "meta": "222 oy · 108 yorum"
+        },
+        {
+          "title": "Big Food vs. the People",
+          "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+          "summary": "Lighthouse Reports tarafından yürütülen araştırma, büyük gıda şirketlerinin beslenme politikalarını etkilemek için yürüttüğü lobi faaliyetlerini ve bilimsel veriler üzerindeki baskılarını inceliyor. Çalışma, gıda endüstrisinin halk sağlığı düzenlemelerini engellemek amacıyla kullandığı stratejileri somut kanıtlarla ortaya koyuyor.",
+          "meta": "218 oy · 142 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K3, görsel ve metin girdilerini işleyerek metin tabanlı çıktılar üreten çok modlu (multimodal) bir modeldir. Sistem, karmaşık görsel verileri analiz etme ve bu veriler üzerinden anlamlı metinler oluşturma yeteneği sunar.",
+          "meta": "♥ 9.322 · 493.481 indirme"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Düşük gecikme süresi ve yüksek verimlilik odaklı mimarisiyle geniş ölçekli dil işleme süreçlerini destekler.",
+          "meta": "♥ 1.119 · 0 indirme"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion modeli, görselden metne dönüştürme (image-to-text) yeteneklerini genişleten bir çok modlu (multimodal) yapay zekâ modelidir. Sansürsüz yapısı ve optimize edilmiş GGUF formatı sayesinde yerel donanımlarda yüksek performanslı metin üretimi sağlar.",
+          "meta": "♥ 1.161 · 1.119.057 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsel tabanlı metin tanıma (image-text-to-text) işlemlerini gerçekleştiren bir modeldir. Görüntü içerisindeki metinleri işleyerek metin tabanlı çıktılara dönüştürme yeteneği sunar.",
+          "meta": "♥ 3.672 · 2.513.603 indirme"
+        },
+        {
+          "title": "owensong/Inflect-Micro-v2",
+          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "summary": "Inflect-Micro-v2, metinden konuşmaya dönüştürme (text-to-speech) işlemleri için geliştirilmiş bir modeldir. Düşük kaynak tüketimiyle yüksek kaliteli ses sentezi süreçlerini desteklemek üzere tasarlanmıştır.",
+          "meta": "♥ 349 · 1.449 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "routing pack",
+      "explanation": "Bilgisayar ağlarında verilerin hedefine en hızlı şekilde ulaşması için kullanılan yönlendirme kuralları bütünü."
+    },
+    {
+      "term": "toolchain bootstrapping",
+      "explanation": "Bir yazılım geliştirme aracını, kendi kendini oluşturabilecek şekilde sıfırdan inşa etme süreci."
+    },
+    {
+      "term": "AI agent skill",
+      "explanation": "Yapay zekâlı bir yazılımın belirli bir görevi yerine getirmek için sahip olduğu özel yetenek veya beceri."
+    },
+    {
+      "term": "systematic trading",
+      "explanation": "Yatırım kararlarının önceden belirlenmiş kurallara ve mantıksal çerçevelere dayalı olarak verilmesi."
+    },
+    {
+      "term": "algorithmic trading",
+      "explanation": "Borsa işlemlerinin insanlar yerine önceden yazılmış bilgisayar kodları tarafından otomatik olarak yapılması."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Bilgisayarların insanlar gibi öğrenme, karar verme ve problem çözme yeteneğine sahip olması."
+    },
+    {
+      "term": "Jupyter Notebooks",
+      "explanation": "Kodları, açıklamaları ve sonuçları aynı sayfada görmenizi sağlayan etkileşimli bir çalışma ortamı."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Yazılımcıların belirli bir platform veya cihaz için uygulama geliştirmesini kolaylaştıran araçlar paketi."
+    },
+    {
+      "term": "omni-channel",
+      "explanation": "Bir markanın tüm satış kanallarını birbirine bağlayarak müşteriye kesintisiz bir deneyim sunması."
+    },
+    {
+      "term": "keybindings",
+      "explanation": "Klavye üzerindeki tuşlara belirli komutları veya kısayolları atama işlemi."
+    },
+    {
+      "term": "code review",
+      "explanation": "Yazılan kodların hataları bulmak veya geliştirmek amacıyla başka bir yazılımcı tarafından incelenmesi."
+    },
+    {
+      "term": "project management",
+      "explanation": "Bir işin hedeflerine ulaşması için kaynakların, zamanın ve görevlerin planlanıp yönetilmesi."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "face swapping",
+      "explanation": "Yapay zekâ kullanarak bir görüntüdeki yüzü başka bir kişiyle değiştirme işlemi."
+    },
+    {
+      "term": "deep learning",
+      "explanation": "Bilgisayarların insan beynindeki sinir ağlarını taklit ederek karmaşık verileri öğrenmesini sağlayan yöntem."
+    },
+    {
+      "term": "harness",
+      "explanation": "Bir yazılımın veya sistemin doğru çalışıp çalışmadığını test etmek için kullanılan yardımcı araç."
+    }
+  ]
+}

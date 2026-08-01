@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-01",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-skill, tersine mühendislik ve sızma testi süreçleri için yapay zekâ destekli bir yönlendirme paketi (routing pack) sunuyor. Araç zinciri önyükleme (toolchain bootstrapping) ve kendi kendine gelişen bilgi tabanı özellikleriyle Claude Code, Cursor ve Cline gibi kodlama araçlarıyla entegre çalışıyor.",
+          "meta": "PowerShell · ★ 11.014 · +335 bugün"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı (omni-channel) müşteri hizmetleri yönetimi sunan açık kaynaklı bir platformdur. Intercom ve Zendesk gibi yazılımlara alternatif olarak geliştirilen bu araç, müşteri etkileşimlerini tek bir panel üzerinden merkezileştirmeyi sağlar.",
+          "meta": "Ruby · ★ 35.205 · +35 bugün",
+          "returning": true
+        },
+        {
+          "title": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "summary": "Kaneo, kullanıcı odaklı bir arayüzle geliştirilen açık kaynaklı bir proje yönetimi (project management) aracıdır. TypeScript ile yazılan platform, karmaşıklıktan arındırılmış iş akışları oluşturmayı hedefler.",
+          "meta": "TypeScript · ★ 5.248 · +194 bugün"
+        },
+        {
+          "title": "geo-tp/ESP32-Bit-Pirate",
+          "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+          "summary": "ESP32-Bit-Pirate, web tabanlı bir komut satırı arayüzü (CLI) üzerinden çok sayıda haberleşme protokolünü destekleyen bir donanım hackleme aracıdır. C++ diliyle geliştirilen bu sistem, farklı protokolleri tek bir platform üzerinden yöneterek donanım analizi süreçlerini kolaylaştırır.",
+          "meta": "C++ · ★ 5.115 · +83 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Elevators",
+          "url": "https://john.fun/elevators",
+          "summary": "Asansörlerin çalışma mantığını ve kat seçim algoritmalarını inceleyen bu çalışma, dikey ulaşım sistemlerinde verimlilik optimizasyonuna odaklanıyor. Yazılım tabanlı simülasyonlar üzerinden, bekleme sürelerini azaltan ve enerji tasarrufu sağlayan dağıtık kontrol stratejilerini (distributed control strategies) analiz ediyor.",
+          "meta": "1.130 oy · 268 yorum"
+        },
+        {
+          "title": "qm – Multiplayer agent harness for work",
+          "url": "https://github.com/yc-software/qm",
+          "summary": "qm, çok oyunculu yapay zekâ ajanları (multiplayer AI agents) için iş birliği ve görev yönetimi sağlayan bir altyapı sunuyor. Bu araç, farklı ajanların ortak bir çalışma alanında (harness) eş zamanlı olarak görevleri yürütmesine olanak tanıyor.",
+          "meta": "526 oy · 110 yorum"
+        },
+        {
+          "title": "Tailscale didn't stop the Hugging Face intrusion",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "summary": "Hugging Face üzerinde gerçekleşen yetkisiz erişim olayı, yalnızca güvenli ağ (mesh VPN) kullanımının sistem güvenliğini sağlamak için yeterli olmadığını gösteriyor. Güvenli ağ çözümleri, kimlik doğrulama (authentication) ve erişim denetimi (access control) gibi katmanlı güvenlik önlemleriyle desteklenmediğinde açıklar oluşabiliyor.",
+          "meta": "517 oy · 195 yorum"
+        },
+        {
+          "title": "Twenty-five years ago it was cryptography, today it's model weights",
+          "url": "https://weeraman.com/because-we-can/",
+          "summary": "Yirmi beş yıl önce kriptografi (cryptography) alanında yaşanan açık kaynak tartışmaları, günümüzde yapay zekâ model ağırlıklarının (model weights) erişilebilirliği etrafında tekrarlanıyor. Teknoloji dünyası, güvenlik ve inovasyon dengesini kurmak adına açık erişim ile kapalı sistemler arasındaki sınırları yeniden tanımlıyor.",
+          "meta": "222 oy · 108 yorum"
+        },
+        {
+          "title": "Big Food vs. the People",
+          "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+          "summary": "Lighthouse Reports tarafından yürütülen araştırma, büyük gıda şirketlerinin beslenme politikalarını etkilemek için yürüttüğü lobi faaliyetlerini ve bilimsel veriler üzerindeki baskılarını inceliyor. Çalışma, gıda endüstrisinin halk sağlığı düzenlemelerini engellemek amacıyla kullandığı stratejileri somut kanıtlarla ortaya koyuyor.",
+          "meta": "218 oy · 142 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Düşük gecikme süresi ve yüksek verimlilik odaklı mimarisiyle geniş ölçekli dil işleme süreçlerini destekler.",
+          "meta": "♥ 1.119 · 0 indirme"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "routing pack",
+      "explanation": "Bilgisayar ağlarında verilerin hedefine en hızlı şekilde ulaşması için kullanılan yönlendirme kuralları bütünü."
+    },
+    {
+      "term": "toolchain bootstrapping",
+      "explanation": "Bir yazılım geliştirme aracını, kendi kendini oluşturabilecek şekilde sıfırdan inşa etme süreci."
+    },
+    {
+      "term": "omni-channel",
+      "explanation": "Bir markanın tüm satış kanallarını birbirine bağlayarak müşteriye kesintisiz bir deneyim sunması."
+    },
+    {
+      "term": "project management",
+      "explanation": "Bir işin hedeflerine ulaşması için kaynakların, zamanın ve görevlerin planlanıp yönetilmesi."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "harness",
+      "explanation": "Bir yazılımın veya sistemin doğru çalışıp çalışmadığını test etmek için kullanılan yardımcı araç."
+    }
+  ]
+}
