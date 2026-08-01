@@ -8,9 +8,9 @@ PaddlePaddle tarafından geliştirilen PaddleOCR, PDF ve görsel belgeleri büy�
 TreScout notu: Belge tarama ve tablo çıkarmada ücretsiz seçenekler arasında en yetkinlerinden. Kurulumun ağır tarafı altındaki paddlepaddle çalışma zamanı, sanal ortamda kurun · ekran kartı olmadan da çalışır ama yavaşlar. Latin alfabesi modeli Türkçe belgelerde iş görür, yine de kendi örneklerinizle sınayın, sonuç belge kalitesine çok bağlı.
 
 ## Ne kazandırır?
-- PDF ve görselleri yapılandırılmış JSON veya Markdown formatına dönüştürür
-- 100'den fazla dili tek modelle yüksek doğrulukla tanır
-- Dify ve RAGFlow gibi popüler yapay zekâ araçlarıyla uyumlu çalışır
+- PDF ve görselleri JSON veya Markdown formatına dönüştürür
+- 100'den fazla dilde yüksek doğrulukla metin tanıma sağlar
+- Düşük kaynak kullanımıyla hızlı ve verimli işlem yapar
 
 ## Kurulum
 
@@ -24,9 +24,9 @@ Kaynak: PyPI · paddleocr (resmî paket)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Elimdeki PDF ve görsel belgeleri, yapay zekâ modellerinin anlayabileceği yapılandırılmış Markdown veya JSON formatına dönüştürmek istiyorum. PaddleOCR kullanarak bu belgelerdeki metinleri, tabloları ve formülleri en yüksek doğrulukla nasıl ayıklayabilirim? Özellikle çok dilli belgeler için en verimli model yapılandırması nedir ve bu veriyi büyük dil modellerine aktarırken dikkat etmem gereken standartlar nelerdir?
+Elimdeki PDF ve görsel belgelerini, yapay zekâ modellerinin işleyebileceği yapılandırılmış verilere dönüştürmek istiyorum. PaddleOCR aracını kullanarak bu belgelerdeki metinleri, tabloları ve formülleri en yüksek doğrulukla nasıl Markdown veya JSON formatına çevirebilirim? Bu süreçte en verimli sonuçları almak için hangi model ayarlarını veya yöntemleri izlemeliyim?
 
-- **Kimin için:** Belgelerini yapay zekâ destekli uygulamalarda kullanmak isteyen geliştiriciler ve veri analistleri için uygundur. 
+- **Kimin için:** Belgelerini yapay zekâ uygulamalarında kullanmak üzere dijital ortama aktarmak isteyen geliştiriciler ve veri analistleri için uygundur. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar

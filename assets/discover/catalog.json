@@ -1839,7 +1839,7 @@
     ],
     "stars": 34273,
     "lite": false,
-    "headline": "Verilerinizi şifreli ve hızlı yedekleyin",
+    "headline": "Verilerinizi şifreleyerek güvenle yedekleyin",
     "cmds": {
       "kurulum": [
         {
@@ -1956,7 +1956,7 @@
     ],
     "stars": 37444,
     "lite": false,
-    "headline": "Ekibiniz için güvenli iş birliği platformu",
+    "headline": "Yazılım ekipleri için güvenli iş birliği platformu",
     "cmds": {
       "kurulum": [
         {
@@ -2484,7 +2484,7 @@
     ],
     "stars": 34017,
     "lite": false,
-    "headline": "Açık kaynaklı yapay zekâ kodlama asistanı",
+    "headline": "Kodlama süreçleriniz için açık kaynaklı yapay zekâ ajanı",
     "cmds": {
       "kurulum": [
         {

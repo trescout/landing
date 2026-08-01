@@ -1,4 +1,4 @@
-# Verilerinizi şifreli ve hızlı yedekleyin
+# Verilerinizi şifreleyerek güvenle yedekleyin
 
 Go diliyle geliştirilen Restic, verileri şifreleyerek hızlı ve verimli bir şekilde yedekleyen açık kaynaklı bir yedekleme programı (backup program) sunuyor. Farklı depolama sistemlerini destekleyen bu araç, artımlı yedekleme (incremental backup) yöntemiyle depolama alanından tasarruf sağlıyor.
 
@@ -8,9 +8,9 @@ Go diliyle geliştirilen Restic, verileri şifreleyerek hızlı ve verimli bir �
 TreScout notu: Yedeği şifreleyip tekrar eden veriyi ayıkladığı için depolama maliyeti düşük kalır. Arayüzü yoktur, zamanlanmış görevi ve saklama politikasını siz kurarsınız · forget ve prune adımlarını atlarsanız depo şişer. Geri yükleme senaryosunu kurduğunuz gün bir kez deneyin, yedeğin çalıştığını ancak öyle bilirsiniz.
 
 ## Ne kazandırır?
-- Verileri şifreleyerek güvenli yedekleme sağlar
+- Verileri şifreleyerek yüksek güvenlik sağlar
 - Artımlı yedekleme ile depolama alanından tasarruf eder
-- Farklı bulut ve yerel depolama sistemlerini destekler
+- Farklı bulut depolama servisleriyle uyumlu çalışır
 
 ## Kurulum
 
@@ -30,9 +30,9 @@ Kaynak: restic.readthedocs.io (resmî)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Restic yedekleme programını kullanarak bir depo oluşturmak ve belirli bir klasörü yedeklemek istiyorum. Yedekleme sürecini başlatmak için gerekli olan depo oluşturma ve yedekleme komutlarını, depo yolu ve kaynak klasör bilgilerini nasıl yapılandırmam gerektiğini adım adım açıklar mısın?
+Restic yedekleme programını kullanarak verilerimi nasıl daha verimli yedekleyebilirim? Özellikle şifreleme ve artımlı yedekleme özelliklerini kullanarak yerel veya bulut tabanlı bir depolama alanına yedek alma sürecini adım adım açıkla. Yedekleme havuzu oluşturma, dosyaları yedekleme, mevcut yedekleri listeleme ve gerektiğinde geri yükleme işlemleri için hangi temel komutları kullanmalıyım?
 
-- **Kimin için:** Verilerini güvenli, hızlı ve şifreli bir şekilde yedeklemek isteyen kullanıcılar için uygundur. 
+- **Kimin için:** Verilerini hızlı, güvenli ve düzenli bir şekilde yedeklemek isteyen tüm kullanıcılar için uygundur. 
 - **Lisans:** BSD-2-Clause 
 
 ## Bağlantılar

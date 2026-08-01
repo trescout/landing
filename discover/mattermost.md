@@ -1,4 +1,4 @@
-# Ekibiniz için güvenli iş birliği platformu
+# Yazılım ekipleri için güvenli iş birliği platformu
 
 Mattermost, yazılım geliştirme yaşam döngüsü boyunca güvenli iş birliği sağlamak amacıyla tasarlanmış açık kaynaklı bir platformdur. Yazılım ekiplerinin iletişim süreçlerini merkezi bir yapı üzerinden yönetmelerine olanak tanır.
 
@@ -9,7 +9,7 @@ TreScout notu: Slack yerine kendi sunucunuzda çalışan sürüm, asıl gerekçe
 
 ## Ne kazandırır?
 - Merkezi iletişim ve iş akışı otomasyonu sağlar.
-- Sesli arama ve ekran paylaşımı desteği sunar.
+- Sesli görüşme ve ekran paylaşımı desteği sunar.
 - Yapay zekâ entegrasyonları ile verimliliği artırır.
 
 ## Kurulum
@@ -24,9 +24,9 @@ Kaynak: docs.mattermost.com (resmî · önizleme imajı)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Mattermost platformunu kullanarak yazılım geliştirme süreçlerimizi nasıl daha güvenli ve verimli hale getirebiliriz? Ekip içi iletişimde iş akışı otomasyonu ve yapay zekâ entegrasyonlarını kullanmanın avantajları nelerdir? Platformun sunduğu sesli arama ve ekran paylaşımı gibi özellikleri iş birliğine nasıl dahil edebiliriz?
+Mattermost platformunu kullanarak yazılım geliştirme süreçlerimizde ekip içi iletişimi nasıl daha verimli hale getirebilirim? İş akışı otomasyonu, sesli görüşme ve yapay zekâ entegrasyonlarını kullanarak ekip içi iş birliğini merkezi bir yapıda yönetmek için izlemem gereken temel adımları ve en iyi kullanım senaryolarını açıkla.
 
-- **Kimin için:** Yazılım geliştirme yaşam döngüsü boyunca iletişim süreçlerini merkezi ve güvenli bir yapıda yönetmek isteyen teknik ekipler için uygundur. 
+- **Kimin için:** Yazılım geliştirme süreçlerinde güvenli ve merkezi bir iletişim ortamına ihtiyaç duyan teknik ekipler için uygundur. 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/mattermost/mattermost)
