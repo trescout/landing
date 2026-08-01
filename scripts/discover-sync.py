@@ -392,7 +392,9 @@ def base_entry(n, rich, reason, key=None):
        "tags":n["tags"],"stars":n["stars"]}
     if rich:
         c["lite"]=False
-        if rich.get("baslik"):  # detay sayfası editöryel H1
+        if n.get("headline_locked") and n.get("headline"):  # elle yazılmış başlık · model üzerine yazamaz
+            c["headline"]=n["headline"]; c["headline_locked"]=True
+        elif rich.get("baslik"):  # detay sayfası editöryel H1
             nb=vet_headline(normalize_headline(rich["baslik"].strip()), n, key)
             eski=n.get("headline")
             if nb: c["headline"]=nb
@@ -499,7 +501,8 @@ def reprocess(cat, by_slug, key, targets, label):
         rows.append({"slug":c["slug"],"title":c["title"],"tagline":c["tagline"],"summary":summary,"headline":c.get("headline"),
                      "url":m.group(1) if m else "","lang":lang,"stars":c.get("stars",stars),
                      "momentum":momentum,"date":c.get("date",TODAY),"tags":c.get("tags") or infer_tags(summary),
-                     "shot":c.get("shot"),"cmds":c.get("cmds"),"trescout_notu":c.get("trescout_notu")})
+                     "shot":c.get("shot"),"cmds":c.get("cmds"),"trescout_notu":c.get("trescout_notu"),
+                     "headline_locked":c.get("headline_locked")})
     print(f"{label}: {len(rows)} entry yeniden değerlendirilecek")
     if DRY:
         for n in rows: print(f"  ~ {n['slug']}  ({n['url']})")

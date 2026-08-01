@@ -1029,7 +1029,8 @@
       ],
       "kaynak": "PyPI · paddleocr (resmî paket)"
     },
-    "headline": "Belgeleri yapay zekâ ile dijitalleştirin"
+    "headline": "Belgeleri yapay zekâ ile dijitalleştirin",
+    "trescout_notu": "Belge tarama ve tablo çıkarmada ücretsiz seçenekler arasında en yetkinlerinden. Kurulumun ağır tarafı altındaki paddlepaddle çalışma zamanı, sanal ortamda kurun · ekran kartı olmadan da çalışır ama yavaşlar. Latin alfabesi modeli Türkçe belgelerde iş görür, yine de kendi örneklerinizle sınayın, sonuç belge kalitesine çok bağlı."
   },
   {
     "slug": "spec-kit",
@@ -1286,7 +1287,9 @@
       ],
       "kaynak": "svelte.dev (resmî CLI)"
     },
-    "headline": "Hızlı web uygulamaları için yapay zekâ destekli derleme"
+    "headline": "Derleme zamanında çalışan arayüz çerçevesi",
+    "trescout_notu": "Derleme aşamasında iş yaptığı için tarayıcıya inen kod küçülür, öğrenmesi de React'e göre kolaydır. Bedeli ekosistem: hazır bileşen kütüphanesi, topluluk çözümleri ve işe alım havuzu React'in yanında dar kalır. Küçük ve orta ölçekli arayüzlerde rahat, ekip standardı yapmadan önce bu farkı tartın.",
+    "headline_locked": true
   },
   {
     "slug": "nginx",
@@ -1329,7 +1332,8 @@
       ],
       "kaynak": "go.dev/doc/install (resmî) · veya go.dev/dl'den indirin"
     },
-    "headline": "Yüksek Performanslı Yazılımlar Geliştirin"
+    "headline": "Yüksek Performanslı Yazılımlar Geliştirin",
+    "trescout_notu": "Tek bir çalıştırılabilir dosya üretmesi dağıtımı sadeleştirir, sunucuya kopyalayıp çalıştırırsınız. Karşılığında dilin ifade gücü dardır: hata kontrolü tekrar eder, jenerikler dile geç eklendi. Servis ve komut satırı aracı yazıyorsanız yerinde bir tercih, ağır iş mantığı modelleyecekseniz zorlar."
   },
   {
     "slug": "career-ops",
@@ -1385,7 +1389,8 @@
       ],
       "kaynak": "vite.dev (resmî dokümantasyon)"
     },
-    "headline": "Modern Web Projelerini Hızlandırın"
+    "headline": "Modern Web Projelerini Hızlandırın",
+    "trescout_notu": "Asıl kazanç geliştirme sunucusunun anında açılması · büyük projede dakikalara çıkan bekleme saniyeye iner. Eski Webpack eklentilerine bağımlıysanız geçişte karşılıklarını aramanız gerekir. Bugün sıfırdan ön yüz projesi kuruyorsanız varsayılan tercih olarak düşünebilirsiniz."
   },
   {
     "slug": "mxc",
@@ -1435,7 +1440,8 @@
         }
       ],
       "kaynak": "Resmî depo · docs/vibevoice-asr.md (microsoft/VibeVoice). Kurulabilir model VibeVoice-ASR; TTS kodu depodan çıkarıldı."
-    }
+    },
+    "trescout_notu": "Depo yayımlandıktan sonra değişti: metinden konuşma tarafı geri çekildi, bugün kurulabilir olan konuşmadan metne modeli. Uzun kayıtları tek parça işleyebilmesi ayırt edici yanı. Hızlı değişen bir proje, üretim işine koymadan önce deponun güncel durumuna bakın."
   },
   {
     "slug": "opencv",
@@ -1459,7 +1465,9 @@
       ],
       "kaynak": "PyPI · opencv-python (resmî paket)"
     },
-    "headline": "Görüntü İşleme İçin yapay zekâ Rehberi"
+    "headline": "Görüntü işlemenin açık kaynak standardı",
+    "trescout_notu": "Yapay zekâ modeli eğitmek için değil, görüntüyü işlemek için: kırpma, eşikleme, kenar bulma, kamera akışı okuma. Derin öğrenme tarafında PyTorch'un yerini tutmaz, ikisi genelde birlikte kullanılır. opencv-python çoğu iş için yeter, video kodekleri ve arayüz pencereleri için ek paket gerekebilir.",
+    "headline_locked": true
   },
   {
     "slug": "aitoearn",
@@ -1844,7 +1852,8 @@
       ],
       "kaynak": "restic.readthedocs.io (resmî)"
     },
-    "headline": "Verilerinizi Hızlıca Şifreleyerek Yedekleyin"
+    "headline": "Verilerinizi Hızlıca Şifreleyerek Yedekleyin",
+    "trescout_notu": "Yedeği şifreleyip tekrar eden veriyi ayıkladığı için depolama maliyeti düşük kalır. Arayüzü yoktur, zamanlanmış görevi ve saklama politikasını siz kurarsınız · forget ve prune adımlarını atlarsanız depo şişer. Geri yükleme senaryosunu kurduğunuz gün bir kez deneyin, yedeğin çalıştığını ancak öyle bilirsiniz."
   },
   {
     "slug": "agency-agents",
@@ -1884,7 +1893,8 @@
       ],
       "kaynak": "developers.chatwoot.com/self-hosted/deployment/docker (resmî)"
     },
-    "headline": "Müşteri desteğini yapay zekâ ile yönetin"
+    "headline": "Müşteri desteğini yapay zekâ ile yönetin",
+    "trescout_notu": "Zendesk ya da Intercom yerine kendi sunucunuzda çalışan destek masası. Kurulum tek konteyner değildir: veritabanı, kuyruk ve önbellek ister, küçük bir sunucuda zorlanır. WhatsApp kanalı için Meta tarafında iş ortağı onayı gerekir, bunu kurulum öncesinde hesaba katın."
   },
   {
     "slug": "agentsview",
@@ -1955,7 +1965,8 @@
       ],
       "kaynak": "docs.mattermost.com (resmî · önizleme imajı)"
     },
-    "headline": "Yazılım ekipleri için güvenli iş birliği"
+    "headline": "Yazılım ekipleri için güvenli iş birliği",
+    "trescout_notu": "Slack yerine kendi sunucunuzda çalışan sürüm, asıl gerekçe genelde verinin sizde kalması olur. Sayfadaki komut deneme imajıdır, üretimde ayrı veritabanıyla kurulur. Mobil bildirim tarafı ek kurulum ister, ekip beklentisini buna göre ayarlayın."
   },
   {
     "slug": "fanqiang",
@@ -2049,7 +2060,9 @@
       ],
       "kaynak": "Microsoft Learn (resmî)"
     },
-    "headline": "Windows deneyiminizi yapay zekâ ile özelleştirin"
+    "headline": "Windows'u kendinize göre ayarlayın",
+    "trescout_notu": "Tek bir uygulama değil, birbirinden bağımsız araçlar paketi · çoğu kişi aslında FancyZones ve PowerToys Run için kuruyor. Kurumsal cihazlarda yönetici izni gerekebilir. macOS'tan Windows'a geçenler için pencere yönetimi ve hızlı başlatma boşluğunu kapatır.",
+    "headline_locked": true
   },
   {
     "slug": "aisuite",
@@ -2089,7 +2102,9 @@
       ],
       "kaynak": "swc.rs (resmî dokümantasyon)"
     },
-    "headline": "Web projelerinizi yapay zekâ hızında derleyin"
+    "headline": "Web projelerinizi Rust hızında derleyin",
+    "trescout_notu": "Babel'in yaptığı işi Rust ile çok daha hızlı yapar · Next.js bunu zaten içeride kullanıyor, farkında olmadan kullanıyor olabilirsiniz. Tür denetimi yapmaz, yalnız dönüştürür, tsc yerine geçmez. Babel eklentilerine bağlıysanız karşılıklarının olup olmadığına bakın, eklenti ekosistemi daha dar.",
+    "headline_locked": true
   },
   {
     "slug": "freecodecamp",
@@ -2209,7 +2224,8 @@
         }
       ],
       "kaynak": "npm (resmî paket yöneticisi) · pnpm / yarn"
-    }
+    },
+    "trescout_notu": "Playwright ile aynı işi yapar ama daha dar kapsamlıdır: Chrome merkezlidir, çok tarayıcı ve hazır test koşucusu isteyen ekipler Playwright'ta daha rahat eder. Kurulum tarayıcıyı da indirdiği için sürekli tümleştirme ortamında imaj boyutunu hesaba katın. Tek seferlik kazıma ve PDF üretimi için fazlasıyla yeterli."
   },
   {
     "slug": "teslamate",
@@ -2289,7 +2305,8 @@
         }
       ],
       "kaynak": "Resmî Win11Debloat README (Raphire/Win11Debloat)"
-    }
+    },
+    "trescout_notu": "Betiği uzaktan indirip çalıştırdığınız için ne yaptığını önce okumanız gerekir, kaldırılan bazı bileşenleri geri getirmek kolay değildir. Kişisel makinede önyüklü uygulamalardan ve telemetriden kurtulmak için pratik. Kurum cihazında ya da başkalarıyla paylaştığınız bilgisayarda kullanmayın."
   },
   {
     "slug": "self-hosting-guide",
@@ -2486,7 +2503,8 @@
         }
       ],
       "kaynak": "npm (@continuedev/cli) · VS Code Marketplace (Continue.continue)"
-    }
+    },
+    "trescout_notu": "Kapalı kutu asistanlardan farkı modelin sizde olması, kendi anahtarınızı ya da yerel modeli bağlarsınız · kodun nereye gittiği sorusunun cevabı sizde kalır. Karşılığında kurulum ve model seçimi sizin işiniz, kutudan çıkan deneyim ticari alternatifler kadar cilalı değil. Şirket politikası kodun dışarı çıkmasını kısıtlıyorsa iyi bir çıkış yolu."
   },
   {
     "slug": "penpot",
@@ -2681,7 +2699,7 @@
     ],
     "stars": 38124,
     "lite": false,
-    "headline": "Modern web uygulamaları için yapay zekâ destekli çerçeve",
+    "headline": "Kurumsal web uygulamaları için platform",
     "cmds": {
       "kurulum": [
         {
@@ -2700,7 +2718,9 @@
         }
       ],
       "kaynak": "Resmî Microsoft .NET dokümantasyonu (learn.microsoft.com/aspnet/core)"
-    }
+    },
+    "trescout_notu": "Windows'a bağlı olduğu algısı eskidir, Linux üzerinde ve konteynerde sorunsuz çalışır. Kurumsal tarafta güçlüdür: kimlik doğrulama, veri erişimi ve izleme parçaları kutudan çıkar. C# bilmiyorsanız öğrenme maliyeti Node ya da Python'a göre yüksektir, tek bir küçük uç nokta için ağır kalır.",
+    "headline_locked": true
   },
   {
     "slug": "awesome-artificial-intelligence",
