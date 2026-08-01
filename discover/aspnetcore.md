@@ -1,14 +1,16 @@
-# Modern web uygulamaları için yapay zekâ destekli çerçeve
+# Modern web uygulamaları için yapay zekâ destekli altyapı
 
 ASP.NET Core, Windows, macOS ve Linux üzerinde modern bulut tabanlı web uygulamaları geliştirmek için kullanılan platformlar arası bir .NET çerçevesidir (framework). C# diliyle geliştirilen bu yapı, yüksek performanslı ve ölçeklenebilir web hizmetleri oluşturmaya olanak tanır.
 
 - ★ 38.124
 - GitHub Trending · 2026-06-19
 
+TreScout notu: Windows'a bağlı olduğu algısı eskidir, Linux üzerinde ve konteynerde sorunsuz çalışır. Kurumsal tarafta güçlüdür: kimlik doğrulama, veri erişimi ve izleme parçaları kutudan çıkar. C# bilmiyorsanız öğrenme maliyeti Node ya da Python'a göre yüksektir, tek bir küçük uç nokta için ağır kalır.
+
 ## Ne kazandırır?
-- Bulut tabanlı modern web uygulamaları geliştirme
 - Windows, macOS ve Linux üzerinde platformlar arası çalışma
-- Yüksek performanslı ve ölçeklenebilir hizmetler oluşturma
+- Bulut tabanlı uygulamalar için optimize edilmiş modüler yapı
+- Yüksek performanslı ve ölçeklenebilir web hizmetleri geliştirme
 
 ## Kurulum
 
@@ -36,7 +38,7 @@ dotnet run
 
 Kaynak: Resmî Microsoft .NET dokümantasyonu (learn.microsoft.com/aspnet/core)
 
-- **Kimin için:** Modern ve ölçeklenebilir bulut tabanlı web uygulamaları geliştirmek isteyen yazılımcılar içindir. 
+- **Kimin için:** Modern ve ölçeklenebilir web uygulamaları, IoT çözümleri veya mobil arka uç sistemleri geliştirmek isteyen yazılım geliştiriciler için uygundur. 
 - **Lisans:** MIT 
 
 ## Bağlantılar

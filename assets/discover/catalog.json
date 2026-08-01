@@ -1020,6 +1020,7 @@
     ],
     "stars": 80160,
     "lite": false,
+    "headline": "Belgeleri yapay zekâya hazırlayan OCR aracı",
     "cmds": {
       "kurulum": [
         {
@@ -1029,7 +1030,6 @@
       ],
       "kaynak": "PyPI · paddleocr (resmî paket)"
     },
-    "headline": "Belgeleri yapay zekâ ile dijitalleştirin",
     "trescout_notu": "Belge tarama ve tablo çıkarmada ücretsiz seçenekler arasında en yetkinlerinden. Kurulumun ağır tarafı altındaki paddlepaddle çalışma zamanı, sanal ortamda kurun · ekran kartı olmadan da çalışır ama yavaşlar. Latin alfabesi modeli Türkçe belgelerde iş görür, yine de kendi örneklerinizle sınayın, sonuç belge kalitesine çok bağlı."
   },
   {
@@ -1278,6 +1278,8 @@
     ],
     "stars": 87060,
     "lite": false,
+    "headline": "Derleme zamanında çalışan arayüz çerçevesi",
+    "headline_locked": true,
     "cmds": {
       "kurulum": [
         {
@@ -1287,9 +1289,7 @@
       ],
       "kaynak": "svelte.dev (resmî CLI)"
     },
-    "headline": "Derleme zamanında çalışan arayüz çerçevesi",
-    "trescout_notu": "Derleme aşamasında iş yaptığı için tarayıcıya inen kod küçülür, öğrenmesi de React'e göre kolaydır. Bedeli ekosistem: hazır bileşen kütüphanesi, topluluk çözümleri ve işe alım havuzu React'in yanında dar kalır. Küçük ve orta ölçekli arayüzlerde rahat, ekip standardı yapmadan önce bu farkı tartın.",
-    "headline_locked": true
+    "trescout_notu": "Derleme aşamasında iş yaptığı için tarayıcıya inen kod küçülür, öğrenmesi de React'e göre kolaydır. Bedeli ekosistem: hazır bileşen kütüphanesi, topluluk çözümleri ve işe alım havuzu React'in yanında dar kalır. Küçük ve orta ölçekli arayüzlerde rahat, ekip standardı yapmadan önce bu farkı tartın."
   },
   {
     "slug": "nginx",
@@ -1319,6 +1319,7 @@
     ],
     "stars": 134555,
     "lite": false,
+    "headline": "Güvenilir ve verimli yazılımlar geliştirin",
     "cmds": {
       "kurulum": [
         {
@@ -1332,7 +1333,6 @@
       ],
       "kaynak": "go.dev/doc/install (resmî) · veya go.dev/dl'den indirin"
     },
-    "headline": "Yüksek Performanslı Yazılımlar Geliştirin",
     "trescout_notu": "Tek bir çalıştırılabilir dosya üretmesi dağıtımı sadeleştirir, sunucuya kopyalayıp çalıştırırsınız. Karşılığında dilin ifade gücü dardır: hata kontrolü tekrar eder, jenerikler dile geç eklendi. Servis ve komut satırı aracı yazıyorsanız yerinde bir tercih, ağır iş mantığı modelleyecekseniz zorlar."
   },
   {
@@ -1380,6 +1380,7 @@
     ],
     "stars": 81238,
     "lite": false,
+    "headline": "Modern web projeleri için hızlı geliştirme",
     "cmds": {
       "kurulum": [
         {
@@ -1389,7 +1390,6 @@
       ],
       "kaynak": "vite.dev (resmî dokümantasyon)"
     },
-    "headline": "Modern Web Projelerini Hızlandırın",
     "trescout_notu": "Asıl kazanç geliştirme sunucusunun anında açılması · büyük projede dakikalara çıkan bekleme saniyeye iner. Eski Webpack eklentilerine bağımlıysanız geçişte karşılıklarını aramanız gerekir. Bugün sıfırdan ön yüz projesi kuruyorsanız varsayılan tercih olarak düşünebilirsiniz."
   },
   {
@@ -1421,7 +1421,7 @@
     ],
     "stars": 48569,
     "lite": false,
-    "headline": "Uzun ses kayıtları için yapay zekâ",
+    "headline": "yapay zekâ ile uzun ses kayıtlarını çözümleyin",
     "cmds": {
       "kurulum": [
         {
@@ -1456,6 +1456,8 @@
     ],
     "stars": 88274,
     "lite": false,
+    "headline": "Görüntü işlemenin açık kaynak standardı",
+    "headline_locked": true,
     "cmds": {
       "kurulum": [
         {
@@ -1465,9 +1467,7 @@
       ],
       "kaynak": "PyPI · opencv-python (resmî paket)"
     },
-    "headline": "Görüntü işlemenin açık kaynak standardı",
-    "trescout_notu": "Yapay zekâ modeli eğitmek için değil, görüntüyü işlemek için: kırpma, eşikleme, kenar bulma, kamera akışı okuma. Derin öğrenme tarafında PyTorch'un yerini tutmaz, ikisi genelde birlikte kullanılır. opencv-python çoğu iş için yeter, video kodekleri ve arayüz pencereleri için ek paket gerekebilir.",
-    "headline_locked": true
+    "trescout_notu": "Yapay zekâ modeli eğitmek için değil, görüntüyü işlemek için: kırpma, eşikleme, kenar bulma, kamera akışı okuma. Derin öğrenme tarafında PyTorch'un yerini tutmaz, ikisi genelde birlikte kullanılır. opencv-python çoğu iş için yeter, video kodekleri ve arayüz pencereleri için ek paket gerekebilir."
   },
   {
     "slug": "aitoearn",
@@ -1839,6 +1839,7 @@
     ],
     "stars": 34273,
     "lite": false,
+    "headline": "Verilerinizi şifreli ve güvenli yedekleyin",
     "cmds": {
       "kurulum": [
         {
@@ -1852,7 +1853,6 @@
       ],
       "kaynak": "restic.readthedocs.io (resmî)"
     },
-    "headline": "Verilerinizi Hızlıca Şifreleyerek Yedekleyin",
     "trescout_notu": "Yedeği şifreleyip tekrar eden veriyi ayıkladığı için depolama maliyeti düşük kalır. Arayüzü yoktur, zamanlanmış görevi ve saklama politikasını siz kurarsınız · forget ve prune adımlarını atlarsanız depo şişer. Geri yükleme senaryosunu kurduğunuz gün bir kez deneyin, yedeğin çalıştığını ancak öyle bilirsiniz."
   },
   {
@@ -1884,6 +1884,7 @@
     ],
     "stars": 30493,
     "lite": false,
+    "headline": "Açık kaynaklı çok kanallı müşteri destek platformu",
     "cmds": {
       "kurulum": [
         {
@@ -1893,7 +1894,6 @@
       ],
       "kaynak": "developers.chatwoot.com/self-hosted/deployment/docker (resmî)"
     },
-    "headline": "Müşteri desteğini yapay zekâ ile yönetin",
     "trescout_notu": "Zendesk ya da Intercom yerine kendi sunucunuzda çalışan destek masası. Kurulum tek konteyner değildir: veritabanı, kuyruk ve önbellek ister, küçük bir sunucuda zorlanır. WhatsApp kanalı için Meta tarafında iş ortağı onayı gerekir, bunu kurulum öncesinde hesaba katın."
   },
   {
@@ -1956,6 +1956,7 @@
     ],
     "stars": 37444,
     "lite": false,
+    "headline": "açık kaynaklı güvenli iş birliği platformu",
     "cmds": {
       "kurulum": [
         {
@@ -1965,7 +1966,6 @@
       ],
       "kaynak": "docs.mattermost.com (resmî · önizleme imajı)"
     },
-    "headline": "Yazılım ekipleri için güvenli iş birliği",
     "trescout_notu": "Slack yerine kendi sunucunuzda çalışan sürüm, asıl gerekçe genelde verinin sizde kalması olur. Sayfadaki komut deneme imajıdır, üretimde ayrı veritabanıyla kurulur. Mobil bildirim tarafı ek kurulum ister, ekip beklentisini buna göre ayarlayın."
   },
   {
@@ -2051,6 +2051,8 @@
     ],
     "stars": 134431,
     "lite": false,
+    "headline": "Windows'u kendinize göre ayarlayın",
+    "headline_locked": true,
     "cmds": {
       "kurulum": [
         {
@@ -2060,9 +2062,7 @@
       ],
       "kaynak": "Microsoft Learn (resmî)"
     },
-    "headline": "Windows'u kendinize göre ayarlayın",
-    "trescout_notu": "Tek bir uygulama değil, birbirinden bağımsız araçlar paketi · çoğu kişi aslında FancyZones ve PowerToys Run için kuruyor. Kurumsal cihazlarda yönetici izni gerekebilir. macOS'tan Windows'a geçenler için pencere yönetimi ve hızlı başlatma boşluğunu kapatır.",
-    "headline_locked": true
+    "trescout_notu": "Tek bir uygulama değil, birbirinden bağımsız araçlar paketi · çoğu kişi aslında FancyZones ve PowerToys Run için kuruyor. Kurumsal cihazlarda yönetici izni gerekebilir. macOS'tan Windows'a geçenler için pencere yönetimi ve hızlı başlatma boşluğunu kapatır."
   },
   {
     "slug": "aisuite",
@@ -2093,6 +2093,8 @@
     ],
     "stars": 33681,
     "lite": false,
+    "headline": "Web projelerinizi Rust hızında derleyin",
+    "headline_locked": true,
     "cmds": {
       "kurulum": [
         {
@@ -2102,9 +2104,7 @@
       ],
       "kaynak": "swc.rs (resmî dokümantasyon)"
     },
-    "headline": "Web projelerinizi Rust hızında derleyin",
-    "trescout_notu": "Babel'in yaptığı işi Rust ile çok daha hızlı yapar · Next.js bunu zaten içeride kullanıyor, farkında olmadan kullanıyor olabilirsiniz. Tür denetimi yapmaz, yalnız dönüştürür, tsc yerine geçmez. Babel eklentilerine bağlıysanız karşılıklarının olup olmadığına bakın, eklenti ekosistemi daha dar.",
-    "headline_locked": true
+    "trescout_notu": "Babel'in yaptığı işi Rust ile çok daha hızlı yapar · Next.js bunu zaten içeride kullanıyor, farkında olmadan kullanıyor olabilirsiniz. Tür denetimi yapmaz, yalnız dönüştürür, tsc yerine geçmez. Babel eklentilerine bağlıysanız karşılıklarının olup olmadığına bakın, eklenti ekosistemi daha dar."
   },
   {
     "slug": "freecodecamp",
@@ -2290,7 +2290,7 @@
     ],
     "stars": 48210,
     "lite": false,
-    "headline": "Windows sisteminizi hızlandırın ve sadeleştirin",
+    "headline": "Windows sisteminizi gereksizlerden arındırın",
     "cmds": {
       "kurulum": [
         {
@@ -2484,7 +2484,7 @@
     ],
     "stars": 34017,
     "lite": false,
-    "headline": "Açık kaynak kodlama ajanı",
+    "headline": "Açık kaynaklı yapay zekâ kodlama ajanı",
     "cmds": {
       "kurulum": [
         {
@@ -2700,6 +2700,7 @@
     "stars": 38124,
     "lite": false,
     "headline": "Kurumsal web uygulamaları için platform",
+    "headline_locked": true,
     "cmds": {
       "kurulum": [
         {
@@ -2719,8 +2720,7 @@
       ],
       "kaynak": "Resmî Microsoft .NET dokümantasyonu (learn.microsoft.com/aspnet/core)"
     },
-    "trescout_notu": "Windows'a bağlı olduğu algısı eskidir, Linux üzerinde ve konteynerde sorunsuz çalışır. Kurumsal tarafta güçlüdür: kimlik doğrulama, veri erişimi ve izleme parçaları kutudan çıkar. C# bilmiyorsanız öğrenme maliyeti Node ya da Python'a göre yüksektir, tek bir küçük uç nokta için ağır kalır.",
-    "headline_locked": true
+    "trescout_notu": "Windows'a bağlı olduğu algısı eskidir, Linux üzerinde ve konteynerde sorunsuz çalışır. Kurumsal tarafta güçlüdür: kimlik doğrulama, veri erişimi ve izleme parçaları kutudan çıkar. C# bilmiyorsanız öğrenme maliyeti Node ya da Python'a göre yüksektir, tek bir küçük uç nokta için ağır kalır."
   },
   {
     "slug": "awesome-artificial-intelligence",

@@ -1,14 +1,16 @@
-# Windows sisteminizi hızlandırın ve sadeleştirin
+# Windows sisteminizi gereksizlerden arındırın
 
 Win11Debloat, Windows 10 ve 11 işletim sistemlerinde önceden yüklenmiş uygulamaları kaldırmayı ve telemetri verilerini devre dışı bırakmayı sağlayan bir PowerShell betiğidir. Kullanıcıların sistemlerini özelleştirmelerine ve gereksiz bileşenlerden arındırarak sistem hafifletme (debloat) işlemi yapmalarına olanak tanır.
 
 - ★ 48.210
 - GitHub Trending · 2026-06-16
 
+TreScout notu: Betiği uzaktan indirip çalıştırdığınız için ne yaptığını önce okumanız gerekir, kaldırılan bazı bileşenleri geri getirmek kolay değildir. Kişisel makinede önyüklü uygulamalardan ve telemetriden kurtulmak için pratik. Kurum cihazında ya da başkalarıyla paylaştığınız bilgisayarda kullanmayın.
+
 ## Ne kazandırır?
-- Önceden yüklenmiş gereksiz uygulamaları hızla kaldırın
+- Önceden yüklü uygulamaları hızla kaldırın
 - Telemetri ve izleme verilerini devre dışı bırakın
-- Arayüz öğelerini ve yapay zekâ özelliklerini özelleştirin
+- Sistem arayüzünü ve ayarlarını özelleştirin
 
 ## Kurulum
 
@@ -30,9 +32,9 @@ Kaynak: Resmî Win11Debloat README (Raphire/Win11Debloat)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Windows 11 sistemimdeki gereksiz uygulamaları kaldırmak, telemetri verilerini kapatmak ve sistem arayüzünü kişisel tercihlerime göre sadeleştirmek istiyorum. Win11Debloat aracını kullanarak sistem performansını artırmak ve gizlilik ayarlarımı optimize etmek için izlemem gereken adımları ve dikkat etmem gereken noktaları açıklar mısın?
+Windows 11 veya 10 işletim sistemimde gereksiz ön yüklü uygulamaları kaldırmak, telemetri verilerini kapatmak ve sistemimi hafifletmek istiyorum. Win11Debloat aracını kullanarak sistem performansımı nasıl optimize edebilirim ve hangi ayarlar gizlilik için en uygunudur?
 
-- **Kimin için:** Sistemini gereksiz bileşenlerden arındırmak ve Windows deneyimini özelleştirmek isteyen kullanıcılar içindir. 
+- **Kimin için:** Windows sistemindeki gereksiz uygulamalardan kurtulmak ve gizlilik ayarlarını kontrol altına almak isteyen kullanıcılar içindir. 
 - **Lisans:** MIT 
 
 ## Bağlantılar

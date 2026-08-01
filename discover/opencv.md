@@ -1,14 +1,16 @@
-# Görüntü İşleme İçin yapay zekâ Rehberi
+# Görüntü işleme ve yapay zekâ kütüphanesi
 
 Açık kaynak kodlu bilgisayarlı görü kütüphanesi (computer vision library) olan OpenCV, görüntü işleme ve makine öğrenmesi (machine learning) uygulamaları için geniş kapsamlı araçlar sunuyor. C++ diliyle geliştirilen bu kütüphane, gerçek zamanlı görsel veri analizi süreçlerinde standart bir altyapı görevi görüyor.
 
 - ★ 88.274
 - GitHub Trending · 2026-06-08
 
+TreScout notu: Yapay zekâ modeli eğitmek için değil, görüntüyü işlemek için: kırpma, eşikleme, kenar bulma, kamera akışı okuma. Derin öğrenme tarafında PyTorch'un yerini tutmaz, ikisi genelde birlikte kullanılır. opencv-python çoğu iş için yeter, video kodekleri ve arayüz pencereleri için ek paket gerekebilir.
+
 ## Ne kazandırır?
-- Gerçek zamanlı görsel veri analizi yapabilme.
-- Görüntü işleme süreçlerini standart altyapıyla yönetme.
-- Makine öğrenmesi uygulamaları için geniş araçlara erişim.
+- Gerçek zamanlı görsel veri analizi yapma
+- Görüntü işleme süreçlerini standartlaştırma
+- Makine öğrenmesi uygulamaları geliştirme
 
 ## Kurulum
 
@@ -20,7 +22,7 @@ pip install opencv-python
 
 Kaynak: PyPI · opencv-python (resmî paket)
 
-- **Kimin için:** Görüntü işleme ve bilgisayarlı görü alanında uygulama geliştirmek isteyen yazılımcılar ve araştırmacılar için uygundur. 
+- **Kimin için:** Görüntü işleme ve bilgisayarlı görü projeleri geliştirmek isteyen yazılımcılar ve araştırmacılar için uygundur. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar

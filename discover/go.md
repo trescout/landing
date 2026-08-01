@@ -1,14 +1,16 @@
-# Yüksek Performanslı Yazılımlar Geliştirin
+# Güvenilir ve verimli yazılımlar geliştirin
 
 Google tarafından geliştirilen Go programlama dili, yüksek performanslı ve ölçeklenebilir yazılımlar oluşturmak için tasarlanmış açık kaynaklı bir sistem programlama dilidir (system programming language). Eşzamanlılık (concurrency) yönetimi ve hızlı derleme süreleri ile modern bulut bilişim altyapılarında yaygın olarak tercih edilmektedir.
 
 - ★ 134.555
 - GitHub Trending · 2026-06-07
 
+TreScout notu: Tek bir çalıştırılabilir dosya üretmesi dağıtımı sadeleştirir, sunucuya kopyalayıp çalıştırırsınız. Karşılığında dilin ifade gücü dardır: hata kontrolü tekrar eder, jenerikler dile geç eklendi. Servis ve komut satırı aracı yazıyorsanız yerinde bir tercih, ağır iş mantığı modelleyecekseniz zorlar.
+
 ## Ne kazandırır?
-- Basit ve güvenilir yazılımlar geliştirme imkanı sağlar.
-- Yüksek performanslı ve verimli sistem programlama desteği sunar.
-- Modern bulut bilişim altyapıları için ölçeklenebilir çözümler üretir.
+- Basit ve anlaşılır kod yapısı
+- Yüksek performanslı sistem programlama
+- Modern bulut altyapılarıyla tam uyum
 
 ## Kurulum
 
@@ -26,7 +28,7 @@ winget install GoLang.Go
 
 Kaynak: go.dev/doc/install (resmî) · veya go.dev/dl'den indirin
 
-- **Kimin için:** Yüksek performanslı, ölçeklenebilir ve güvenilir sistem yazılımları geliştirmek isteyen yazılımcılar için uygundur. 
+- **Kimin için:** Ölçeklenebilir ve yüksek performanslı sistem yazılımları geliştirmek isteyen yazılımcılar için uygundur. 
 - **Lisans:** BSD-3-Clause 
 
 ## Bağlantılar
