@@ -1,4 +1,4 @@
-# açık kaynaklı güvenli iş birliği platformu
+# Ekibiniz için güvenli iş birliği platformu
 
 Mattermost, yazılım geliştirme yaşam döngüsü boyunca güvenli iş birliği sağlamak amacıyla tasarlanmış açık kaynaklı bir platformdur. Yazılım ekiplerinin iletişim süreçlerini merkezi bir yapı üzerinden yönetmelerine olanak tanır.
 
@@ -8,9 +8,9 @@ Mattermost, yazılım geliştirme yaşam döngüsü boyunca güvenli iş birliğ
 TreScout notu: Slack yerine kendi sunucunuzda çalışan sürüm, asıl gerekçe genelde verinin sizde kalması olur. Sayfadaki komut deneme imajıdır, üretimde ayrı veritabanıyla kurulur. Mobil bildirim tarafı ek kurulum ister, ekip beklentisini buna göre ayarlayın.
 
 ## Ne kazandırır?
-- Merkezi iletişim ve iş akışı otomasyonu
-- Sesli görüşme ve ekran paylaşımı desteği
-- Yapay zekâ entegrasyonu ile geliştirilmiş süreçler
+- Merkezi iletişim ve iş akışı otomasyonu sağlar.
+- Sesli arama ve ekran paylaşımı desteği sunar.
+- Yapay zekâ entegrasyonları ile verimliliği artırır.
 
 ## Kurulum
 
@@ -24,9 +24,9 @@ Kaynak: docs.mattermost.com (resmî · önizleme imajı)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Mattermost platformunun temel özelliklerini, kendi sunucumda barındırma seçeneklerini ve iş akışı otomasyonu ile yapay zekâ entegrasyonlarını kullanarak yazılım geliştirme süreçlerimi nasıl daha güvenli ve merkezi bir yapıya kavuşturabileceğimi açıkla.
+Mattermost platformunu kullanarak yazılım geliştirme süreçlerimizi nasıl daha güvenli ve verimli hale getirebiliriz? Ekip içi iletişimde iş akışı otomasyonu ve yapay zekâ entegrasyonlarını kullanmanın avantajları nelerdir? Platformun sunduğu sesli arama ve ekran paylaşımı gibi özellikleri iş birliğine nasıl dahil edebiliriz?
 
-- **Kimin için:** Yazılım geliştirme süreçlerinde güvenli, merkezi ve özelleştirilebilir bir iletişim platformuna ihtiyaç duyan ekipler içindir. 
+- **Kimin için:** Yazılım geliştirme yaşam döngüsü boyunca iletişim süreçlerini merkezi ve güvenli bir yapıda yönetmek isteyen teknik ekipler için uygundur. 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/mattermost/mattermost)

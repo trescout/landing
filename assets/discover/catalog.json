@@ -1020,7 +1020,7 @@
     ],
     "stars": 80160,
     "lite": false,
-    "headline": "Belgeleri yapay zekâya hazırlayan OCR aracı",
+    "headline": "Belgeleri yapay zekâ için dijitalleştirin",
     "cmds": {
       "kurulum": [
         {
@@ -1839,7 +1839,7 @@
     ],
     "stars": 34273,
     "lite": false,
-    "headline": "verilerinizi şifreleyerek güvenle yedekleyin",
+    "headline": "Verilerinizi şifreli ve hızlı yedekleyin",
     "cmds": {
       "kurulum": [
         {
@@ -1884,7 +1884,7 @@
     ],
     "stars": 30493,
     "lite": false,
-    "headline": "Açık kaynaklı çok kanallı destek platformu",
+    "headline": "Açık kaynaklı çok kanallı müşteri destek platformu",
     "cmds": {
       "kurulum": [
         {
@@ -1956,7 +1956,7 @@
     ],
     "stars": 37444,
     "lite": false,
-    "headline": "açık kaynaklı güvenli iş birliği platformu",
+    "headline": "Ekibiniz için güvenli iş birliği platformu",
     "cmds": {
       "kurulum": [
         {
@@ -2484,7 +2484,7 @@
     ],
     "stars": 34017,
     "lite": false,
-    "headline": "Açık kaynaklı yapay zekâ kodlama ajanı",
+    "headline": "Açık kaynaklı yapay zekâ kodlama asistanı",
     "cmds": {
       "kurulum": [
         {

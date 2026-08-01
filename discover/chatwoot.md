@@ -1,4 +1,4 @@
-# Açık kaynaklı çok kanallı destek platformu
+# Açık kaynaklı çok kanallı müşteri destek platformu
 
 Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel desk) yönetimi sunan açık kaynaklı bir platformdur. Intercom ve Zendesk gibi ticari yazılımlara alternatif olarak geliştirilen bu araç, müşteri etkileşimlerini tek bir merkezden yönetmeyi sağlar.
 
@@ -9,8 +9,8 @@ TreScout notu: Zendesk ya da Intercom yerine kendi sunucunuzda çalışan destek
 
 ## Ne kazandırır?
 - Tüm müşteri mesajlarını tek bir gelen kutusunda birleştirir
-- Yapay zekâ destekli otomatik yanıtlar ile iş yükünü azaltır
-- Kendi kendine barındırma ile müşteri verileri üzerinde tam kontrol sağlar
+- Yapay zekâ destekli Captain ile soruları otomatik yanıtlar
+- Kendi sunucunuzda barındırarak verileriniz üzerinde tam kontrol sağlar
 
 ## Kurulum
 
@@ -24,9 +24,9 @@ Kaynak: developers.chatwoot.com/self-hosted/deployment/docker (resmî)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Chatwoot platformunu kullanarak müşteri destek süreçlerimi nasıl optimize edebilirim? Özellikle çok kanallı destek yönetimi, yapay zekâ destekli otomatik yanıtlar ve yardım merkezi oluşturma konularında izlemem gereken temel adımları ve bu özellikleri verimli kullanmak için dikkat etmem gereken püf noktalarını açıklar mısın?
+Chatwoot platformunu kullanarak müşteri destek süreçlerimi nasıl optimize edebilirim? Özellikle web sitemdeki canlı sohbet, e-posta ve sosyal medya kanallarından gelen mesajları tek bir merkezde toplamak, yapay zekâ destekli Captain aracını devreye alarak sık sorulan soruları otomatize etmek ve ekipler arası iş birliğini artırmak için hangi adımları izlemeliyim? Platformun sunduğu raporlama ve analiz araçlarını kullanarak müşteri memnuniyetini nasıl ölçebileceğimi açıkla.
 
-- **Kimin için:** Müşteri destek süreçlerini tek bir merkezden yönetmek ve verileri üzerinde tam kontrol sahibi olmak isteyen işletmeler için uygundur. 
+- **Kimin için:** Müşteri etkileşimlerini tek bir merkezden yönetmek ve destek süreçlerini otomatize etmek isteyen işletmeler için uygundur. 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/chatwoot/chatwoot)

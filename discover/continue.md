@@ -1,4 +1,4 @@
-# Açık kaynaklı yapay zekâ kodlama ajanı
+# Açık kaynaklı yapay zekâ kodlama asistanı
 
 Continue, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent). Geliştiricilerin kendi yerel dil modellerini (LLM) kullanarak kod yazma, hata ayıklama ve yeniden yapılandırma (refactoring) işlemlerini IDE içerisinde gerçekleştirmelerine olanak tanır.
 
@@ -8,9 +8,9 @@ Continue, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanm
 TreScout notu: Kapalı kutu asistanlardan farkı modelin sizde olması, kendi anahtarınızı ya da yerel modeli bağlarsınız · kodun nereye gittiği sorusunun cevabı sizde kalır. Karşılığında kurulum ve model seçimi sizin işiniz, kutudan çıkan deneyim ticari alternatifler kadar cilalı değil. Şirket politikası kodun dışarı çıkmasını kısıtlıyorsa iyi bir çıkış yolu.
 
 ## Ne kazandırır?
-- IDE içerisinde kod yazma ve düzenleme
-- Yerel dil modelleri ile çalışma imkânı
-- Hata ayıklama ve kod yapılandırma
+- Kod yazma ve hata ayıklama süreçlerini hızlandırır
+- Kodları yeniden yapılandırma desteği sunar
+- Yerel dil modelleri ile güvenli çalışma imkânı sağlar
 
 ## Kurulum
 
@@ -38,9 +38,9 @@ Kaynak: npm (@continuedev/cli) · VS Code Marketplace (Continue.continue)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Continue eklentisini kullanarak kod yazma süreçlerimi nasıl otomatikleştirebilirim? Yerel dil modellerini IDE içerisine nasıl entegre ederim ve kodum üzerinde hata ayıklama veya yeniden yapılandırma işlemleri için bu aracı en verimli şekilde nasıl yapılandırabilirim?
+Continue aracını kullanarak kod yazma, hata ayıklama ve kod tabanımı yeniden yapılandırma süreçlerimde bana yardımcı olmanı istiyorum. Yerel dil modelleri ile entegre çalışarak kod önerileri sunmanı, yazdığım kodlardaki hataları tespit etmeni ve daha temiz bir kod yapısı için iyileştirmeler önermeni bekliyorum.
 
-- **Kimin için:** Kod yazma süreçlerini yerel yapay zekâ modelleriyle hızlandırmak ve IDE içerisinde otomatikleştirmek isteyen yazılım geliştiriciler için uygundur. 
+- **Kimin için:** Yazılım geliştirme süreçlerini otomatikleştirmek ve yapay zekâ desteğiyle kodlama verimliliğini artırmak isteyen geliştiriciler için uygundur. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar

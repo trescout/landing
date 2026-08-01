@@ -1,4 +1,4 @@
-# verilerinizi şifreleyerek güvenle yedekleyin
+# Verilerinizi şifreli ve hızlı yedekleyin
 
 Go diliyle geliştirilen Restic, verileri şifreleyerek hızlı ve verimli bir şekilde yedekleyen açık kaynaklı bir yedekleme programı (backup program) sunuyor. Farklı depolama sistemlerini destekleyen bu araç, artımlı yedekleme (incremental backup) yöntemiyle depolama alanından tasarruf sağlıyor.
 
@@ -30,9 +30,9 @@ Kaynak: restic.readthedocs.io (resmî)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Restic kullanarak verilerimi nasıl yedekleyebilirim? Yedekleme havuzunu oluşturmak için hangi komutu kullanmalıyım ve ardından belirli bir klasörü yedekleme havuzuna eklemek için izlemem gereken adımlar nelerdir? Lütfen yedekleme sırasında şifreleme ve artımlı yedekleme özelliklerinin nasıl devreye girdiğini açıklayarak, başlangıç için en temel komutları içeren bir rehber hazırla.
+Restic yedekleme programını kullanarak bir depo oluşturmak ve belirli bir klasörü yedeklemek istiyorum. Yedekleme sürecini başlatmak için gerekli olan depo oluşturma ve yedekleme komutlarını, depo yolu ve kaynak klasör bilgilerini nasıl yapılandırmam gerektiğini adım adım açıklar mısın?
 
-- **Kimin için:** Verilerini şifreli, hızlı ve verimli bir şekilde yedeklemek isteyen tüm kullanıcılar için uygundur. 
+- **Kimin için:** Verilerini güvenli, hızlı ve şifreli bir şekilde yedeklemek isteyen kullanıcılar için uygundur. 
 - **Lisans:** BSD-2-Clause 
 
 ## Bağlantılar

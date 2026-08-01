@@ -1,4 +1,4 @@
-# Belgeleri yapay zekâya hazırlayan OCR aracı
+# Belgeleri yapay zekâ için dijitalleştirin
 
 PaddlePaddle tarafından geliştirilen PaddleOCR, PDF ve görsel belgeleri büyük dil modelleri (large language models) için yapılandırılmış veriye dönüştüren hafif bir optik karakter tanıma (optical character recognition) aracıdır. 100'den fazla dili destekleyen bu kütüphane, görsel içerikler ile yapay zekâ modelleri arasındaki veri akışını standartlaştırmaktadır.
 
@@ -8,9 +8,9 @@ PaddlePaddle tarafından geliştirilen PaddleOCR, PDF ve görsel belgeleri büy�
 TreScout notu: Belge tarama ve tablo çıkarmada ücretsiz seçenekler arasında en yetkinlerinden. Kurulumun ağır tarafı altındaki paddlepaddle çalışma zamanı, sanal ortamda kurun · ekran kartı olmadan da çalışır ama yavaşlar. Latin alfabesi modeli Türkçe belgelerde iş görür, yine de kendi örneklerinizle sınayın, sonuç belge kalitesine çok bağlı.
 
 ## Ne kazandırır?
-- PDF ve görselleri yapılandırılmış JSON veya Markdown formatına dönüştürür.
-- 100'den fazla dili destekleyen çok dilli metin tanıma yeteneği sunar.
-- Düşük kaynak kullanımıyla yüksek doğrulukta belge analizi sağlar.
+- PDF ve görselleri yapılandırılmış JSON veya Markdown formatına dönüştürür
+- 100'den fazla dili tek modelle yüksek doğrulukla tanır
+- Dify ve RAGFlow gibi popüler yapay zekâ araçlarıyla uyumlu çalışır
 
 ## Kurulum
 
@@ -24,9 +24,9 @@ Kaynak: PyPI · paddleocr (resmî paket)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Elimdeki PDF ve görsel belgeleri, yapay zekâ modellerinin (LLM) işleyebileceği yapılandırılmış Markdown veya JSON formatına dönüştürmek istiyorum. PaddleOCR'ın sunduğu belge ayrıştırma ve metin tanıma özelliklerini kullanarak, karmaşık dokümanlardaki tabloları, formülleri ve metinleri en yüksek doğrulukla nasıl dijital veriye çevirebilirim? Hangi model veya araç seti bu işlem için en verimli sonucu verir?
+Elimdeki PDF ve görsel belgeleri, yapay zekâ modellerinin anlayabileceği yapılandırılmış Markdown veya JSON formatına dönüştürmek istiyorum. PaddleOCR kullanarak bu belgelerdeki metinleri, tabloları ve formülleri en yüksek doğrulukla nasıl ayıklayabilirim? Özellikle çok dilli belgeler için en verimli model yapılandırması nedir ve bu veriyi büyük dil modellerine aktarırken dikkat etmem gereken standartlar nelerdir?
 
-- **Kimin için:** Belgelerini yapay zekâ modelleriyle işlemek isteyen geliştiriciler ve veri analistleri için uygundur. 
+- **Kimin için:** Belgelerini yapay zekâ destekli uygulamalarda kullanmak isteyen geliştiriciler ve veri analistleri için uygundur. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar
@@ -35,7 +35,7 @@ Elimdeki PDF ve görsel belgeleri, yapay zekâ modellerinin (LLM) işleyebilece�
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Optical Character Recognition Markdown PDF LLM Artificial Intelligence
+Optical Character Recognition Markdown PDF Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/paddleocr/
