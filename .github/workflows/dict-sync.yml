@@ -96,6 +96,11 @@ jobs:
       - name: Logo geometri kontrolü
         run: python3 scripts/check-logo-consistency.py
 
+      - name: Keşif sayfalarını tazele (yeniden gündeme girenler + en eski bakılanlar)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/discover-sync.py --refresh --limit=10
+
       - name: Değişiklik varsa commit'le
         run: |
           if [ -n "$(git status --porcelain)" ]; then

@@ -3,7 +3,7 @@
     "slug": "understand-anything",
     "title": "Understand Anything",
     "tagline": "Kodlarınızı veya dokümanlarınızı yapay zekâ ile etkileşimli hale getirin.",
-    "meta": "★ 35.132 · TypeScript · MIT",
+    "meta": "★ 77.021 · MIT",
     "image": "/assets/discover/og/understand-anything.webp",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -12,44 +12,75 @@
       "Geliştirici aracı",
       "Kod bilmeyenler için"
     ],
-    "stars": 35132,
-    "headline": "Kodlarınızı yapay zekâyla Sorgulayın"
+    "stars": 77021,
+    "headline": "Kodlarınızı yapay zekâyla Sorgulayın",
+    "last_review": "2026-08-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-01",
+        "yildiz": 77021,
+        "onceki_yildiz": 35132,
+        "surum": "v2.9.0",
+        "surum_tarihi": "2026-07-10",
+        "tasindi": "Egonex-AI/Understand-Anything"
+      }
+    ]
   },
   {
     "slug": "ecc",
     "title": "ECC",
     "tagline": "Claude Code, Codex ve Cursor gibi yapay zekâ ajanlarına beceri, hafıza ve güvenlik katmanı ekleyin.",
-    "meta": "★ 194.032 · JavaScript · MIT",
+    "meta": "★ 236.779 · MIT",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 194032,
+    "stars": 236779,
     "image": "/assets/discover/og/ecc.webp",
-    "headline": "yapay zekâ Ajanlarınıza Güç Katın"
+    "headline": "yapay zekâ Ajanlarınıza Güç Katın",
+    "last_review": "2026-08-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-01",
+        "yildiz": 236779,
+        "onceki_yildiz": 194032,
+        "surum": "v2.1.0",
+        "surum_tarihi": "2026-07-27"
+      }
+    ]
   },
   {
     "slug": "ai-engineering-from-scratch",
     "title": "AI Engineering from Scratch",
     "tagline": "Yapay zekâ mühendisliğini sıfırdan, uygulamalı kodlama ile öğreten 485 derslik ücretsiz kurs.",
-    "meta": "★ 20.435 · Python · MIT",
+    "meta": "★ 45.404 · MIT",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Öğrenme",
       "Geliştirici aracı"
     ],
-    "stars": 20435,
+    "stars": 45404,
     "image": "/assets/discover/og/ai-engineering-from-scratch.webp",
-    "headline": "Sıfırdan yapay zekâ Mühendisliği Eğitimi"
+    "headline": "Sıfırdan yapay zekâ Mühendisliği Eğitimi",
+    "last_review": "2026-08-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-01",
+        "yildiz": 45404,
+        "onceki_yildiz": 20435,
+        "surum": "v2026.07",
+        "surum_tarihi": "2026-07-25"
+      }
+    ]
   },
   {
     "slug": "knowledge-work-plugins",
     "title": "Knowledge Work Plugins",
     "tagline": "Claude'u alanında uzman bir asistana dönüştüren açık kaynaklı eklentiler.",
-    "meta": "★ 16.517 · Python · Apache-2.0",
+    "meta": "★ 23.222 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
@@ -57,30 +88,48 @@
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 16517,
+    "stars": 23222,
     "image": "/assets/discover/og/knowledge-work-plugins.webp",
-    "headline": "Claude ile Uzman Asistan Deneyimi"
+    "headline": "Claude ile Uzman Asistan Deneyimi",
+    "last_review": "2026-08-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-01",
+        "yildiz": 23222,
+        "onceki_yildiz": 16517
+      }
+    ]
   },
   {
     "slug": "anthropic-cybersecurity-skills",
     "title": "Anthropic Cybersecurity Skills",
     "tagline": "Yapay zekâ ajanları için 754 hazır siber güvenlik becerisi · Anthropic resmi değil.",
-    "meta": "★ 9.924 · Python · Apache-2.0",
+    "meta": "★ 27.085 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 9924,
+    "stars": 27085,
     "image": "/assets/discover/og/anthropic-cybersecurity-skills.webp",
-    "headline": "yapay zekâ için siber güvenlik becerileri"
+    "headline": "yapay zekâ için siber güvenlik becerileri",
+    "last_review": "2026-08-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-01",
+        "yildiz": 27085,
+        "onceki_yildiz": 9924,
+        "surum": "v1.3.0",
+        "surum_tarihi": "2026-06-22"
+      }
+    ]
   },
   {
     "slug": "stop-slop",
     "title": "Stop Slop",
     "tagline": "Yapay zekâ tarafından üretilen metinlerdeki yapay ifade kalıplarını temizleyen bir beceri.",
-    "meta": "★ 4.876 · Claude Skill · MIT",
+    "meta": "★ 14.843 · MIT",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
@@ -88,24 +137,40 @@
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 4876,
+    "stars": 14843,
     "image": "/assets/discover/og/stop-slop.webp",
-    "headline": "yapay zekâ metinlerini doğallaştırın"
+    "headline": "yapay zekâ metinlerini doğallaştırın",
+    "last_review": "2026-08-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-01",
+        "yildiz": 14843,
+        "onceki_yildiz": 4876
+      }
+    ]
   },
   {
     "slug": "taste-skill",
     "title": "Taste Skill",
     "tagline": "Yapay zekânın tasarladığı arayüzlere profesyonel bir estetik dokunuş kazandıran beceri.",
-    "meta": "★ 21.137 · Shell · MIT",
+    "meta": "★ 69.955 · MIT",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 21137,
+    "stars": 69955,
     "image": "/assets/discover/og/taste-skill.webp",
-    "headline": "yapay zekâ Tasarımlarını Profesyonelleştirin"
+    "headline": "yapay zekâ Tasarımlarını Profesyonelleştirin",
+    "last_review": "2026-08-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-01",
+        "yildiz": 69955,
+        "onceki_yildiz": 21137
+      }
+    ]
   },
   {
     "slug": "free-domain",
@@ -1875,14 +1940,14 @@
     "slug": "chatwoot",
     "title": "Chatwoot",
     "tagline": "Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel desk) yönetimi sunan açık kaynaklı bir…",
-    "meta": "★ 30.493",
+    "meta": "★ 35.290",
     "image": "/assets/discover/og/chatwoot.webp",
     "source": "GitHub",
     "date": "2026-06-12",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 30493,
+    "stars": 35290,
     "lite": false,
     "headline": "Açık kaynaklı müşteri destek platformu",
     "cmds": {
@@ -1894,7 +1959,17 @@
       ],
       "kaynak": "developers.chatwoot.com/self-hosted/deployment/docker (resmî)"
     },
-    "trescout_notu": "Müşterilerden gelen mesajları tek ekranda toplar: Site sohbeti, e-posta, WhatsApp. Aynı işi yapan hazır servisler kişi başına aylık ücret alır, bu kendi sunucunuzda çalıştığı için o ücret yoktur, karşılığında sunucu ve bakım sizin işiniz olur. Kurulumu tek parça değildir, yanında birkaç yardımcı program ister ve en ucuz sunucu paketlerinde zorlanır."
+    "trescout_notu": "Müşterilerden gelen mesajları tek ekranda toplar: Site sohbeti, e-posta, WhatsApp. Aynı işi yapan hazır servisler kişi başına aylık ücret alır, bu kendi sunucunuzda çalıştığı için o ücret yoktur, karşılığında sunucu ve bakım sizin işiniz olur. Kurulumu tek parça değildir, yanında birkaç yardımcı program ister ve en ucuz sunucu paketlerinde zorlanır.",
+    "last_review": "2026-08-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-01",
+        "yildiz": 35290,
+        "onceki_yildiz": 30493,
+        "surum": "v4.16.2",
+        "surum_tarihi": "2026-07-27"
+      }
+    ]
   },
   {
     "slug": "agentsview",

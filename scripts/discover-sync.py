@@ -345,6 +345,7 @@ def build_page(e, rich=None):
     rich_html=rich_sections(rich, e.get("cmds")) if rich else ''
     notu=(e.get("trescout_notu") or "").strip()   # elle yazılan editöryel yargı · README özetinden farkımız
     not_html=f'<aside class="disc-note"><p><strong>TreScout notu:</strong> {esc(notu)}</p></aside>\n      ' if notu else ''
+    guncelleme_html=update_section(e.get("guncellemeler"))
     sh=e.get("shot"); shot_html=''
     if sh:   # lisansı temiz gerçek ekran görüntüsü (catalog 'shot' alanı · reprocess'te korunur)
         shot_html=(f'<figure class="disc-shot"><img src="{esc(sh["src"])}" width="{sh.get("w","")}" height="{sh.get("h","")}" '
@@ -362,7 +363,7 @@ def build_page(e, rich=None):
       '<a class="disc-back" href="/discover/">← Keşif</a>\n'
       f'<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub{eyebrow_repo}</span>{mom}</div>\n'
       f'<h1 class="disc-title">{esc(headline)}</h1>\n<p class="disc-lead">{esc(summary)}</p>\n'
-      f'<ul class="disc-meta">{metas}</ul>\n      {not_html}{shot_html}{rich_html}{relsec}\n'
+      f'<ul class="disc-meta">{metas}</ul>\n      {not_html}{guncelleme_html}{shot_html}{rich_html}{relsec}\n'
       f'<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="{esc(url)}" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>\n'
       f'<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun {date} tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>\n'
       '<aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p>'
@@ -409,6 +410,8 @@ def base_entry(n, rich, reason, key=None):
         if n.get("shot"): c["shot"]=n["shot"]
         if n.get("cmds"): c["cmds"]=n["cmds"]
         if n.get("trescout_notu"): c["trescout_notu"]=n["trescout_notu"]
+        for k in ("guncellemeler","last_review","arsivlendi"):
+            if n.get(k): c[k]=n[k]
         if not (rich.get("kurulum") or rich.get("calistirma") or n.get("cmds")):  # hiç komut yok → kuyrukta (insan komut bulur/ekler, --done ile kapatır)
             c["needs_enrichment"]=True; c["enrich_reason"]="komutsuz"
     else:
@@ -509,7 +512,9 @@ def reprocess(cat, by_slug, key, targets, label):
                      "url":m.group(1) if m else "","lang":lang,"stars":c.get("stars",stars),
                      "momentum":momentum,"date":c.get("date",TODAY),"tags":c.get("tags") or infer_tags(summary),
                      "shot":c.get("shot"),"cmds":c.get("cmds"),"trescout_notu":c.get("trescout_notu"),
-                     "headline_locked":c.get("headline_locked")})
+                     "headline_locked":c.get("headline_locked"),
+                     "guncellemeler":c.get("guncellemeler"),"last_review":c.get("last_review"),
+                     "arsivlendi":c.get("arsivlendi")})
     print(f"{label}: {len(rows)} entry yeniden değerlendirilecek")
     if DRY:
         for n in rows: print(f"  ~ {n['slug']}  ({n['url']})")
@@ -522,6 +527,125 @@ def reprocess(cat, by_slug, key, targets, label):
         else: nlite+=1; print(f"  ◦ lite kaldı: {n['slug']} ({reason})")
     json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
     print(f"✅ {nrich} zengin · {nlite} lite (işaretli → aylık kuyruğa düşer) · catalog güncellendi")
+
+# ============ TAZELEME · sayfa keşif gününde donmasın ============
+AYLAR=("Ocak","Şubat","Mart","Nisan","Mayıs","Haziran","Temmuz","Ağustos","Eylül","Ekim","Kasım","Aralık")
+def tr_date(iso):
+    """2026-08-01 → 1 Ağustos 2026"""
+    try: y,m,d=[int(x) for x in iso[:10].split("-")]; return f"{d} {AYLAR[m-1]} {y}"
+    except Exception: return iso
+
+def gh_json(path):
+    """GitHub REST · token varsa kullanılır (Actions'ta var), yoksa anonim sınırla çalışır."""
+    req=urllib.request.Request("https://api.github.com"+path,headers={"Accept":"application/vnd.github+json",
+        "User-Agent":"trescout-refresh"})
+    tok=os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
+    if tok: req.add_header("Authorization","Bearer "+tok)
+    try:
+        with urllib.request.urlopen(req,timeout=30) as r: return json.loads(r.read().decode())
+    except urllib.error.HTTPError as e:
+        if e.code==404: return None
+        raise
+    except Exception: return None
+
+def page_repo(slug):
+    f=os.path.join(DISC,slug,"index.html")
+    if not os.path.exists(f): return None
+    t=open(f,encoding="utf-8").read()
+    m=re.search(r'"codeRepository":\s*"https://github\.com/([^/"]+)/([^/"]+)"',t)
+    return f"{m.group(1)}/{m.group(2)}" if m else None
+
+def returning_slugs():
+    """Son iki rapordaki 'yeniden gündemde' kayıtları → slug kümesi."""
+    url2slug={}
+    for c in json.load(open(CATALOG,encoding="utf-8")):
+        r=page_repo(c["slug"])
+        if r: url2slug[r.lower()]=c["slug"]
+    out=set()
+    for f in sorted(glob.glob(REPORTS+"/*.json"))[-2:]:
+        try: d=json.load(open(f,encoding="utf-8"))
+        except Exception: continue
+        for sec in d.get("sections",[]):
+            for it in sec.get("items",[]):
+                if not it.get("returning"): continue
+                m=re.search(r'github\.com/([^/\s]+)/([^/\s#?]+)',it.get("url",""))
+                if m:
+                    s=url2slug.get(f"{m.group(1)}/{m.group(2)}".lower())
+                    if s: out.add(s)
+    return out
+
+def update_section(gs):
+    """Tarihli güncelleme katmanları · üzerine yazmaz, biriktirir. Yoksa boş döner."""
+    if not gs: return ""
+    li=[]
+    for g in reversed(gs[-4:]):   # en yeni üstte · en fazla 4 katman
+        p=[]
+        if g.get("onceki_yildiz") and g.get("yildiz"):
+            p.append(f"Yıldız {g['onceki_yildiz']:,} → {g['yildiz']:,}".replace(',','.'))
+        elif g.get("yildiz"): p.append(f"Yıldız {g['yildiz']:,}".replace(',','.'))
+        if g.get("surum"):
+            t=f" ({tr_date(g['surum_tarihi'])})" if g.get("surum_tarihi") else ""
+            p.append(f"son sürüm {esc(g['surum'])}{t}")
+        if g.get("tasindi"): p.append(f"depo taşındı, yeni adresi {esc(g['tasindi'])}")
+        if g.get("arsiv"): p.append("depo arşivlendi, geliştirme durdu")
+        if p: li.append(f"<li><strong>{tr_date(g['tarih'])}:</strong> "+", ".join(p)+".</li>")
+    if not li: return ""
+    return '<section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins">'+"".join(li)+'</ul></section>\n      '
+
+def _set_page_update(c):
+    """Sayfaya 'Güncelleme' bölümünü ve güncel yıldızı cerrahi yaz · diğer içerik korunur."""
+    p=os.path.join(DISC,c["slug"],"index.html")
+    if not os.path.exists(p): return
+    t=open(p,encoding="utf-8").read()
+    blok=update_section(c.get("guncellemeler"))
+    t=re.sub(r'\s*<section class="disc-sec"><h2>Güncelleme</h2>.*?</section>\n?','\n',t,flags=re.S)
+    if blok:
+        # Sıra üreticiyle aynı olmalı: TreScout notu varsa onun altına, yoksa meta listesinin altına
+        anchor=r'(<aside class="disc-note"><p><strong>TreScout notu:.*?</aside>\n\s*)' if 'TreScout notu:' in t \
+               else r'(<ul class="disc-meta">.*?</ul>\n\s*)'
+        t=re.sub(anchor,lambda m:m.group(1)+blok,t,count=1,flags=re.S)
+    if c.get("stars"):  # meta listesindeki yıldız güncel kalsın
+        t=re.sub(r'<li>★ [\d.]+</li>',"<li>★ "+f"{c['stars']:,}".replace(',','.')+"</li>",t,count=1)
+    open(p,"w",encoding="utf-8").write(t)
+
+def refresh(cat, by_slug, limit):
+    """Yeniden gündeme girenler + en uzun süredir bakılmayanlar · üzerine YAZMAZ, tarihli katman ekler."""
+    zengin=[c for c in cat if not c.get("lite")]
+    donen=returning_slugs()
+    def oncelik(c):
+        return (0 if c["slug"] in donen else 1, c.get("last_review") or c.get("date") or "")
+    aday=sorted(zengin,key=oncelik)[:limit]
+    print(f"tazeleme · {len(donen)} yeniden gündemde · {len(aday)} kayıt incelenecek")
+    n=0
+    for c in aday:
+        repo=page_repo(c["slug"])
+        if not repo: continue
+        info=gh_json("/repos/"+repo)
+        if not info: print(f"  ! {c['slug']}: depo okunamadı"); continue
+        rel=gh_json("/repos/"+repo+"/releases/latest") or {}
+        eski=c.get("stars") or 0; yeni=info.get("stargazers_count") or 0
+        son=(c.get("guncellemeler") or [{}])[-1]
+        yeni_surum=rel.get("tag_name") and rel.get("tag_name")!=son.get("surum") and rel.get("tag_name")!=c.get("surum")
+        # Depo taşınmış/yeniden adlandırılmışsa API farklı full_name döner · sessiz geçmesin
+        tasindi=(info.get("full_name") or "").lower()!=repo.lower()
+        onemli=(eski and abs(yeni-eski)>=max(1000,eski*0.05)) or yeni_surum or tasindi or (info.get("archived") and not c.get("arsivlendi"))
+        c["last_review"]=TODAY
+        if onemli:
+            g={"tarih":TODAY,"yildiz":yeni,"onceki_yildiz":eski}
+            if rel.get("tag_name"): g["surum"]=rel["tag_name"]; g["surum_tarihi"]=(rel.get("published_at") or "")[:10]
+            if info.get("archived"): g["arsiv"]=True; c["arsivlendi"]=True
+            if tasindi: g["tasindi"]=info["full_name"]
+            c.setdefault("guncellemeler",[]).append(g)
+            c["stars"]=yeni
+            lang=(c.get("meta") or "").split("·")[-1].strip() if "·" in (c.get("meta") or "") else ""
+            c["meta"]=("★ "+f"{yeni:,}".replace(',','.')+(f" · {lang}" if lang else "")) if yeni else c.get("meta")
+            if not DRY: _set_page_update(c)
+            n+=1
+            print(f"  ✅ {c['slug']}: ★{eski:,} → ★{yeni:,}".replace(',','.')+(f" · {g.get('surum','')}" if g.get("surum") else ""))
+        else:
+            print(f"  · {c['slug']}: kayda değer değişiklik yok")
+    if not DRY: json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
+    print(f"✅ {n} sayfaya güncelleme katmanı eklendi · {len(aday)} kayıt incelendi")
 
 def main():
     key=gemini_key()
@@ -541,6 +665,9 @@ def main():
                 c.pop("needs_enrichment",None); c.pop("enrich_reason",None); n+=1
         json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
         print(f"✅ {n} entry kuyruktan çıkarıldı: {', '.join(sorted(slugs))}"); return
+    if "--refresh" in sys.argv:   # sayfa keşif gününde donmasın · yeniden gündeme girenler + en eski bakılanlar
+        la=next((a for a in sys.argv if a.startswith("--limit=")),None)
+        refresh(cat, by_slug, int(la.split("=")[1]) if la else 10); return
     if "--reprocess-lite" in sys.argv:
         if not key: print("UYARI: GEMINI_API_KEY yok · zenginleştirme yapılamaz, lite kalır.")
         reprocess(cat, by_slug, key, [c for c in cat if c.get("lite")], "--reprocess-lite"); return
