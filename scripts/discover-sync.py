@@ -222,6 +222,9 @@ ENRICH_SYS=("Sen TreScout için Türkçe içerik editörüsün; kod bilmeyene bi
  "Sana README ve ondan AYIKLANMIŞ gerçek komut blokları verilecek (boş da olabilir). "
  "MUTLAK KURALLAR: UYDURMA, sadece README'de geçeni kullan. Komutu SADECE verilen bloklardan BİREBİR al (tek karakter bile değiştirme/ekleme yok); emin değilsen boş bırak. "
  "'siz' dili; em dash (—) YASAK; pazarlama/abartı yok; TreScout bu aracı geliştirmedi, yalnızca tanıtıyor. "
+ "OKUR YAZILIMCI OLMAYABİLİR: bir ürün, servis ya da teknoloji adı geçiriyorsan (Zendesk, Docker, Redis, Slack gibi) "
+ "yanına 2-4 kelimeyle ne olduğunu ekle ('destek yazılımı Zendesk', 'veriyi saklayan PostgreSQL'). Kısaltmayı ilk "
+ "geçtiği yerde aç. Bunu yan cümleyle yap, madde sayısını ve cümle sayısını artırma; metni uzatmak değil anlaşılır kılmak amaç. "
  'ÇIKTI yalnızca JSON: {'
  '"baslik"(aracın ne yaptığını yakalayan KISA çekici Türkçe başlık, 2-6 kelime, blog başlığı gibi; repo adını tekrarlama, abartı/hype yok, em dash yok, AI yerine "yapay zekâ" (şapkalı/küçük), nokta opsiyonel · ör. "yapay zekâ ajanınıza kalıcı hafıza"),'
  '"kazanimlar"(3 kısa somut madde),'
