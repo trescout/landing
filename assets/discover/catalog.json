@@ -1030,7 +1030,7 @@
       ],
       "kaynak": "PyPI · paddleocr (resmî paket)"
     },
-    "trescout_notu": "Belge tarama ve tablo çıkarmada ücretsiz seçenekler arasında en yetkinlerinden. Kurulumun ağır tarafı altındaki paddlepaddle çalışma zamanı, sanal ortamda kurun · ekran kartı olmadan da çalışır ama yavaşlar. Latin alfabesi modeli Türkçe belgelerde iş görür, yine de kendi örneklerinizle sınayın, sonuç belge kalitesine çok bağlı."
+    "trescout_notu": "Taranmış belgedeki ve görseldeki yazıyı düzenlenebilir metne çevirir, tabloları da tanır. Ücretsiz seçenekler arasında en yetkinlerinden, ama kurulumun ağır tarafı altındaki hesaplama kütüphanesidir · ayrı bir çalışma alanında kurun, ekran kartı olmadan da çalışır ama yavaşlar. Türkçe belgelerde iş görür, yine de kendi örneklerinizle deneyin: Sonuç belgenin tarama kalitesine çok bağlı."
   },
   {
     "slug": "spec-kit",
@@ -1289,7 +1289,7 @@
       ],
       "kaynak": "svelte.dev (resmî CLI)"
     },
-    "trescout_notu": "Derleme aşamasında iş yaptığı için tarayıcıya inen kod küçülür, öğrenmesi de React'e göre kolaydır. Bedeli ekosistem: hazır bileşen kütüphanesi, topluluk çözümleri ve işe alım havuzu React'in yanında dar kalır. Küçük ve orta ölçekli arayüzlerde rahat, ekip standardı yapmadan önce bu farkı tartın."
+    "trescout_notu": "Web arayüzü yazarken kullanılan çerçevelerden biri. İşin çoğunu siz kodu yazarken hallettiği için ziyaretçinin tarayıcısına daha az kod iner, sayfa hızlı açılır. Bedeli topluluk büyüklüğü: En yaygın seçenek olan React'e göre hazır parça, örnek ve iş ilanı azdır."
   },
   {
     "slug": "nginx",
@@ -1333,7 +1333,7 @@
       ],
       "kaynak": "go.dev/doc/install (resmî) · veya go.dev/dl'den indirin"
     },
-    "trescout_notu": "Tek bir çalıştırılabilir dosya üretmesi dağıtımı sadeleştirir, sunucuya kopyalayıp çalıştırırsınız. Karşılığında dilin ifade gücü dardır: hata kontrolü tekrar eder, jenerikler dile geç eklendi. Servis ve komut satırı aracı yazıyorsanız yerinde bir tercih, ağır iş mantığı modelleyecekseniz zorlar."
+    "trescout_notu": "Yazdığınız program tek bir dosya olarak çıkar, o dosyayı sunucuya kopyalayıp çalıştırırsınız, yanına başka bir şey kurmanız gerekmez. Karşılığında dil kasıtlı olarak sade tutulmuş: Aynı hata kontrolünü tekrar tekrar yazarsınız. Sunucu servisi ve komut satırı aracı yazmak için iyi, karmaşık iş kurallarını modellemek için zorlar."
   },
   {
     "slug": "career-ops",
@@ -1390,7 +1390,7 @@
       ],
       "kaynak": "vite.dev (resmî dokümantasyon)"
     },
-    "trescout_notu": "Asıl kazanç geliştirme sunucusunun anında açılması · büyük projede dakikalara çıkan bekleme saniyeye iner. Eski Webpack eklentilerine bağımlıysanız geçişte karşılıklarını aramanız gerekir. Bugün sıfırdan ön yüz projesi kuruyorsanız varsayılan tercih olarak düşünebilirsiniz."
+    "trescout_notu": "Geliştirme sırasında kaydettiğiniz değişikliği anında ekrana yansıtır, büyük projede dakikalara çıkan beklemeyi saniyeye indirir. Eski araçlardan geçiyorsanız kullandığınız eklentilerin burada karşılığı var mı diye bakın. Yeni bir web projesine başlıyorsanız varsayılan tercih sayılabilir."
   },
   {
     "slug": "mxc",
@@ -1441,7 +1441,7 @@
       ],
       "kaynak": "Resmî depo · docs/vibevoice-asr.md (microsoft/VibeVoice). Kurulabilir model VibeVoice-ASR; TTS kodu depodan çıkarıldı."
     },
-    "trescout_notu": "Depo yayımlandıktan sonra değişti: metinden konuşma tarafı geri çekildi, bugün kurulabilir olan konuşmadan metne modeli. Uzun kayıtları tek parça işleyebilmesi ayırt edici yanı. Hızlı değişen bir proje, üretim işine koymadan önce deponun güncel durumuna bakın."
+    "trescout_notu": "Depo yayımlandıktan sonra değişti: Sesi yazıya çeviren kısım duruyor, yazıyı sese çeviren kısım geri çekildi. Uzun kayıtları tek seferde işleyebilmesi ayırt edici yanı. Hızlı değişen bir proje, işinize katmadan önce deponun bugünkü hâline bakın."
   },
   {
     "slug": "opencv",
@@ -1467,7 +1467,7 @@
       ],
       "kaynak": "PyPI · opencv-python (resmî paket)"
     },
-    "trescout_notu": "Yapay zekâ modeli eğitmek için değil, görüntüyü işlemek için: kırpma, eşikleme, kenar bulma, kamera akışı okuma. Derin öğrenme tarafında PyTorch'un yerini tutmaz, ikisi genelde birlikte kullanılır. opencv-python çoğu iş için yeter, video kodekleri ve arayüz pencereleri için ek paket gerekebilir."
+    "trescout_notu": "Yapay zekâ modeli eğitmek için değil, görüntünün kendisiyle uğraşmak için: Kırpma, renk düzeltme, kenar bulma, kameradan görüntü okuma. Model eğitmek gerektiğinde bu iş için ayrı kütüphaneler kullanılır, bu onların yerine geçmez. Kurulumu tek komut, video biçimleri için ek paket isteyebilir."
   },
   {
     "slug": "aitoearn",
@@ -1853,7 +1853,7 @@
       ],
       "kaynak": "restic.readthedocs.io (resmî)"
     },
-    "trescout_notu": "Yedeği şifreleyip tekrar eden veriyi ayıkladığı için depolama maliyeti düşük kalır. Arayüzü yoktur, zamanlanmış görevi ve saklama politikasını siz kurarsınız · forget ve prune adımlarını atlarsanız depo şişer. Geri yükleme senaryosunu kurduğunuz gün bir kez deneyin, yedeğin çalıştığını ancak öyle bilirsiniz."
+    "trescout_notu": "Yedeklerinizi şifreleyerek saklar ve aynı dosyayı iki kez yazmadığı için yer kaplamaz. Tıklanacak bir arayüzü yok, komut satırından çalışır ve eski yedekleri temizleme işini siz ayarlarsınız, ayarlamazsanız depolama zamanla şişer. Kurduğunuz gün bir dosyayı geri yüklemeyi deneyin: Yedeğin gerçekten çalıştığını başka türlü anlayamazsınız."
   },
   {
     "slug": "agency-agents",
@@ -1894,7 +1894,7 @@
       ],
       "kaynak": "developers.chatwoot.com/self-hosted/deployment/docker (resmî)"
     },
-    "trescout_notu": "Zendesk ya da Intercom yerine kendi sunucunuzda çalışan destek masası. Kurulum tek konteyner değildir: veritabanı, kuyruk ve önbellek ister, küçük bir sunucuda zorlanır. WhatsApp kanalı için Meta tarafında iş ortağı onayı gerekir, bunu kurulum öncesinde hesaba katın."
+    "trescout_notu": "Müşterilerden gelen mesajları tek ekranda toplar: Site sohbeti, e-posta, WhatsApp. Aynı işi yapan hazır servisler kişi başına aylık ücret alır, bu kendi sunucunuzda çalıştığı için o ücret yoktur, karşılığında sunucu ve bakım sizin işiniz olur. Kurulumu tek parça değildir, yanında birkaç yardımcı program ister ve en ucuz sunucu paketlerinde zorlanır."
   },
   {
     "slug": "agentsview",
@@ -1966,7 +1966,7 @@
       ],
       "kaynak": "docs.mattermost.com (resmî · önizleme imajı)"
     },
-    "trescout_notu": "Slack yerine kendi sunucunuzda çalışan sürüm, asıl gerekçe genelde verinin sizde kalması olur. Sayfadaki komut deneme imajıdır, üretimde ayrı veritabanıyla kurulur. Mobil bildirim tarafı ek kurulum ister, ekip beklentisini buna göre ayarlayın."
+    "trescout_notu": "Ekip içi mesajlaşma aracı. Hazır servislerden farkı kendi sunucunuzda çalışması, yazışmalar sizde kalır. Sayfadaki komut deneme kurulumudur, gerçek kullanımda ayrı bir veri tabanıyla kurulur. Telefon bildirimleri ek ayar ister, ekibe söz vermeden önce oraya bakın."
   },
   {
     "slug": "fanqiang",
@@ -2062,7 +2062,7 @@
       ],
       "kaynak": "Microsoft Learn (resmî)"
     },
-    "trescout_notu": "Tek bir uygulama değil, birbirinden bağımsız araçlar paketi · çoğu kişi aslında FancyZones ve PowerToys Run için kuruyor. Kurumsal cihazlarda yönetici izni gerekebilir. macOS'tan Windows'a geçenler için pencere yönetimi ve hızlı başlatma boşluğunu kapatır."
+    "trescout_notu": "Tek bir program değil, Windows'a eklenen küçük araçlar paketi. Çoğu kişi ikisi için kuruyor: Pencereleri ekrana ızgara düzeninde yerleştiren araç ve klavyeden hızlı arama. Şirket bilgisayarında kurulum yönetici izni isteyebilir."
   },
   {
     "slug": "aisuite",
@@ -2104,7 +2104,7 @@
       ],
       "kaynak": "swc.rs (resmî dokümantasyon)"
     },
-    "trescout_notu": "Babel'in yaptığı işi Rust ile çok daha hızlı yapar · Next.js bunu zaten içeride kullanıyor, farkında olmadan kullanıyor olabilirsiniz. Tür denetimi yapmaz, yalnız dönüştürür, tsc yerine geçmez. Babel eklentilerine bağlıysanız karşılıklarının olup olmadığına bakın, eklenti ekosistemi daha dar."
+    "trescout_notu": "Yazdığınız modern JavaScript kodunu tarayıcıların anladığı biçime çevirir, aynı işi yapan eski araçlara göre çok daha hızlıdır. Hata denetimi yapmaz, yalnızca çevirir. Bazı popüler çerçeveler bunu zaten içeride kullanıyor, farkında olmadan kullanıyor olabilirsiniz."
   },
   {
     "slug": "freecodecamp",
@@ -2225,7 +2225,7 @@
       ],
       "kaynak": "npm (resmî paket yöneticisi) · pnpm / yarn"
     },
-    "trescout_notu": "Playwright ile aynı işi yapar ama daha dar kapsamlıdır: Chrome merkezlidir, çok tarayıcı ve hazır test koşucusu isteyen ekipler Playwright'ta daha rahat eder. Kurulum tarayıcıyı da indirdiği için sürekli tümleştirme ortamında imaj boyutunu hesaba katın. Tek seferlik kazıma ve PDF üretimi için fazlasıyla yeterli."
+    "trescout_notu": "Tarayıcıyı elle değil kodla kullanmanızı sağlar: Sayfayı açar, tıklar, form doldurur, ekran görüntüsü ya da PDF alır. Aynı işi yapan Playwright daha geniş kapsamlıdır, birden çok tarayıcı gerekiyorsa oraya bakın. Kurulum tarayıcının bir kopyasını da indirir, yer kaplar."
   },
   {
     "slug": "teslamate",
@@ -2306,7 +2306,7 @@
       ],
       "kaynak": "Resmî Win11Debloat README (Raphire/Win11Debloat)"
     },
-    "trescout_notu": "Betiği uzaktan indirip çalıştırdığınız için ne yaptığını önce okumanız gerekir, kaldırılan bazı bileşenleri geri getirmek kolay değildir. Kişisel makinede önyüklü uygulamalardan ve telemetriden kurtulmak için pratik. Kurum cihazında ya da başkalarıyla paylaştığınız bilgisayarda kullanmayın."
+    "trescout_notu": "Windows'la birlikte gelen istemediğiniz uygulamaları kaldırır, arka planda veri toplayan ayarları kapatır. Çalıştırmadan önce ne yaptığını okuyun: Kaldırılan bazı parçaları geri getirmek kolay değildir. Kişisel bilgisayarda pratik, şirket cihazında ya da başkasıyla paylaştığınız bilgisayarda kullanmayın."
   },
   {
     "slug": "self-hosting-guide",
@@ -2504,7 +2504,7 @@
       ],
       "kaynak": "npm (@continuedev/cli) · VS Code Marketplace (Continue.continue)"
     },
-    "trescout_notu": "Kapalı kutu asistanlardan farkı modelin sizde olması, kendi anahtarınızı ya da yerel modeli bağlarsınız · kodun nereye gittiği sorusunun cevabı sizde kalır. Karşılığında kurulum ve model seçimi sizin işiniz, kutudan çıkan deneyim ticari alternatifler kadar cilalı değil. Şirket politikası kodun dışarı çıkmasını kısıtlıyorsa iyi bir çıkış yolu."
+    "trescout_notu": "Kod yazarken yardımcı olan yapay zekâ asistanı. Hazır asistanlardan farkı, hangi modeli kullanacağınıza sizin karar vermeniz: Kendi anahtarınızı ya da bilgisayarınızda çalışan bir modeli bağlarsınız, kodunuz dışarı çıkmaz. Karşılığında kurulum ve model seçimi sizin işiniz olur, deneyim hazır ürünler kadar cilalı değildir."
   },
   {
     "slug": "penpot",
@@ -2720,7 +2720,7 @@
       ],
       "kaynak": "Resmî Microsoft .NET dokümantasyonu (learn.microsoft.com/aspnet/core)"
     },
-    "trescout_notu": "Windows'a bağlı olduğu algısı eskidir, Linux üzerinde ve konteynerde sorunsuz çalışır. Kurumsal tarafta güçlüdür: kimlik doğrulama, veri erişimi ve izleme parçaları kutudan çıkar. C# bilmiyorsanız öğrenme maliyeti Node ya da Python'a göre yüksektir, tek bir küçük uç nokta için ağır kalır."
+    "trescout_notu": "Microsoft'un web uygulaması geliştirme altyapısı. Windows'a bağlı olduğu algısı eskidir, Linux'ta da sorunsuz çalışır. Kurumsal işlerde güçlüdür: Kullanıcı girişi, veri tabanı erişimi ve izleme için hazır parçalar kutudan çıkar. C# dilini bilmiyorsanız öğrenme maliyeti yüksektir, küçük bir iş için ağır kalır."
   },
   {
     "slug": "awesome-artificial-intelligence",
