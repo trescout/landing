@@ -35,10 +35,10 @@ WrenAI kullanarak veritabanı bağlantımı yapılandır, proje iskeletini oluş
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Canner/WrenAI)
 
-## İlgili sözlük terimleri
-BI CLI Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+BI CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/wrenai/

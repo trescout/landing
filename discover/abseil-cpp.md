@@ -22,10 +22,10 @@ Abseil kullanmaya başlamak için resmî web sitesindeki Abseil Quickstart dokü
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/abseil/abseil-cpp)
 
-## İlgili sözlük terimleri
-Code Snippets 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Code Snippets
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/abseil-cpp/

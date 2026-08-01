@@ -21,10 +21,10 @@ Clone-Wars bir yazılım aracı değil, popüler platformların açık kaynaklı
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/GorvGoyl/Clone-Wars)
 
-## İlgili sözlük terimleri
-Tech Stack Clone 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Tech Stack Clone
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/clone-wars/

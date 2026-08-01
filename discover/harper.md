@@ -22,10 +22,10 @@ Harper aracını kullanmaya başlamak için resmî web sitesi olan writewithharp
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Automattic/harper)
 
-## İlgili sözlük terimleri
-Grammar Checker Rust 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Grammar Checker Rust
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/harper/

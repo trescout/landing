@@ -22,10 +22,10 @@ Bu araç hazır bir kurulum dosyası sunmaz. GitHub üzerindeki orijinal depoyu 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/k1tbyte/Wand-Enhancer)
 
-## İlgili sözlük terimleri
-User Experience Interoperability 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+User Experience Interoperability
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/wand-enhancer/

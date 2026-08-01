@@ -45,10 +45,10 @@ OmniRoute kullanarak 231 farklı yapay zekâ sağlayıcısını tek bir uç nokt
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/diegosouzapw/OmniRoute)
 
-## İlgili sözlük terimleri
-Endpoint Gateway Token Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Endpoint Gateway Token Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/omniroute/

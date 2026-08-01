@@ -37,10 +37,10 @@ Set up ego lite for me: https://github.com/citrolabs/ego-lite. Read `skills/ego-
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/citrolabs/ego-lite)
 
-## İlgili sözlük terimleri
-AI Agents Skill Agents AI Skills Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+AI Agents Skill Agents AI Skills Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ego-lite/

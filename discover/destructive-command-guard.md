@@ -28,10 +28,10 @@ Yapay zekâ ajanımın sistemimde çalıştırdığı komutları denetlemek içi
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Dicklesworthstone/destructive_command_guard)
 
-## İlgili sözlük terimleri
-Destructive Command Guard Shell Rust Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Destructive Command Guard Shell Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/destructive-command-guard/

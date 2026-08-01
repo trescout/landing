@@ -8,9 +8,9 @@ PaddlePaddle tarafından geliştirilen PaddleOCR, PDF ve görsel belgeleri büy�
 TreScout notu: Belge tarama ve tablo çıkarmada ücretsiz seçenekler arasında en yetkinlerinden. Kurulumun ağır tarafı altındaki paddlepaddle çalışma zamanı, sanal ortamda kurun · ekran kartı olmadan da çalışır ama yavaşlar. Latin alfabesi modeli Türkçe belgelerde iş görür, yine de kendi örneklerinizle sınayın, sonuç belge kalitesine çok bağlı.
 
 ## Ne kazandırır?
-- PDF ve görselleri yapılandırılmış JSON veya Markdown verisine dönüştürür.
-- 100'den fazla dili destekleyen yüksek hızlı metin tanıma sağlar.
-- Dify ve RAGFlow gibi popüler yapay zekâ platformlarıyla entegre çalışır.
+- PDF ve görselleri yapılandırılmış JSON veya Markdown formatına dönüştürür.
+- 100'den fazla dili destekleyen çok dilli metin tanıma yeteneği sunar.
+- Düşük kaynak kullanımıyla yüksek doğrulukta belge analizi sağlar.
 
 ## Kurulum
 
@@ -22,16 +22,20 @@ pip install paddleocr
 
 Kaynak: PyPI · paddleocr (resmî paket)
 
-- **Kimin için:** Belgelerini yapay zekâ uygulamalarında veya RAG sistemlerinde kullanmak isteyen geliştiriciler ve veri analistleri için uygundur. 
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Elimdeki PDF ve görsel belgeleri, yapay zekâ modellerinin (LLM) işleyebileceği yapılandırılmış Markdown veya JSON formatına dönüştürmek istiyorum. PaddleOCR'ın sunduğu belge ayrıştırma ve metin tanıma özelliklerini kullanarak, karmaşık dokümanlardaki tabloları, formülleri ve metinleri en yüksek doğrulukla nasıl dijital veriye çevirebilirim? Hangi model veya araç seti bu işlem için en verimli sonucu verir?
+
+- **Kimin için:** Belgelerini yapay zekâ modelleriyle işlemek isteyen geliştiriciler ve veri analistleri için uygundur. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/PaddlePaddle/PaddleOCR)
 
-## İlgili sözlük terimleri
-Optical Character Recognition RAG Markdown PDF Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Optical Character Recognition Markdown PDF LLM Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/paddleocr/

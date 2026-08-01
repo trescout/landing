@@ -35,10 +35,10 @@ Bilgisayarımda dosya yönetimi, terminal komutları ve belge düzenleme işleml
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 
-## İlgili sözlük terimleri
-Terminal Control Diff File Editing Model Context Protocol Terminal PDF MCP 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Terminal Control Diff File Editing Model Context Protocol Terminal PDF MCP
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/desktopcommandermcp/

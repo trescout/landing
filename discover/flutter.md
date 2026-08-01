@@ -22,10 +22,10 @@ Flutter ile geliştirmeye başlamak için resmî web sitesi olan flutter.dev adr
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/flutter/flutter)
 
-## İlgili sözlük terimleri
-User Interface Framework 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-25 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+User Interface Framework
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/flutter/

@@ -48,10 +48,10 @@ Grok2API kurulumunu tamamladım ve yönetici paneline giriş yaptım. Şimdi Gro
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/chenyme/grok2api)
 
-## İlgili sözlük terimleri
-API Gateway Gateway API Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-15 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+API Gateway Gateway API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/grok2api/

@@ -9,8 +9,8 @@ TreScout notu: Babel'in yaptığı işi Rust ile çok daha hızlı yapar · Next
 
 ## Ne kazandırır?
 - JavaScript ve TypeScript dosyalarını yüksek hızda işler
+- Rust diliyle geliştirilmiş performanslı altyapı
 - Modern web geliştirme süreçlerini hızlandırır
-- Rust dili ile geliştirilmiş yüksek performanslı altyapı
 
 ## Kurulum
 
@@ -22,16 +22,20 @@ npm i -D @swc/core
 
 Kaynak: swc.rs (resmî dokümantasyon)
 
-- **Kimin için:** Web projelerinde derleme ve paketleme hızını artırmak isteyen yazılım geliştiriciler için uygundur. 
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Benim bir web geliştirme projem var ve derleme süreçlerimi hızlandırmak istiyorum. SWC kullanarak JavaScript ve TypeScript dosyalarımı nasıl daha verimli bir şekilde derleyebilirim? Projemin mevcut yapısını bozmadan bu araca geçiş yapmam için izlemem gereken temel adımlar nelerdir?
+
+- **Kimin için:** Web projelerinde derleme ve paketleme süreçlerini hızlandırmak isteyen yazılım geliştiriciler için uygundur. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/swc-project/swc)
 
-## İlgili sözlük terimleri
-Compilation Bundling Rust 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-14 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Compilation Bundling Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/swc/

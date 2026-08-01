@@ -21,10 +21,10 @@ Claude Cowork kullanıyorsanız, arayüzdeki 'Customize' menüsüne giderek 'Bro
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/phuryn/pm-skills)
 
-## İlgili sözlük terimleri
-Agentic Skills Plugins Agentic AI Skills Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-09 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Agentic Skills Plugins Agentic AI Skills Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pm-skills/

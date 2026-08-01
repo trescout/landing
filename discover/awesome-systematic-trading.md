@@ -21,10 +21,10 @@ Bu araç bir yazılım kurulumu gerektirmez; sistematik alım satım stratejiler
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/paperswithbacktest/awesome-systematic-trading)
 
-## İlgili sözlük terimleri
-Algorithmic Trading Systematic Trading Backtesting 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-29 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Algorithmic Trading Systematic Trading Backtesting
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-systematic-trading/

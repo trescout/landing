@@ -21,10 +21,10 @@ Hello Algo platformuna başlamak için resmî web sitesi olan hello-algo.com adr
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/krahets/hello-algo)
 
-## İlgili sözlük terimleri
-PDF 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-16 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+PDF
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hello-algo/

@@ -1,4 +1,4 @@
-# yapay zekâ ile uzun vadeli mühendislik
+# uzun vadeli görevler için yapay zekâ
 
 GLM-5, yazılım geliştirme süreçlerini sezgisel kodlamadan (vibe coding) yapılandırılmış ajan tabanlı mühendisliğe (agentic engineering) taşımayı amaçlayan bir çerçeve sunuyor. Bu sistem, karmaşık görevleri otonom bir şekilde yönetebilen yapay zekâ ajanları (AI agents) aracılığıyla yazılım geliştirme iş akışlarını standartlaştırıyor.
 
@@ -6,9 +6,9 @@ GLM-5, yazılım geliştirme süreçlerini sezgisel kodlamadan (vibe coding) yap
 - GitHub Trending · 2026-06-19
 
 ## Ne kazandırır?
-- 1 milyon token kapasiteli uzun bağlam desteği
-- Karmaşık yazılım görevlerinde otonom çalışma yeteneği
-- Yeniden strateji kurabilen gelişmiş akıl yürütme
+- 1 milyon token kapasitesiyle kesintisiz uzun süreli çalışma
+- Karmaşık yazılım mühendisliği görevlerinde otonom planlama
+- Ayarlanabilir düşünme çabası ile performans ve hız dengesi
 
 ## Kurulum
 
@@ -34,16 +34,20 @@ vllm serve zai-org/GLM-5.2-FP8
 
 Kaynak: Resmî GLM-5 README (zai-org/GLM-5) · vLLM dokümantasyonu
 
-- **Kimin için:** Karmaşık sistem mühendisliği ve uzun vadeli yazılım geliştirme süreçlerini otonom bir şekilde yönetmek isteyen geliştiriciler içindir. 
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Sen bir yapay zekâ mühendislik asistanısın. Karmaşık yazılım geliştirme görevlerini parçalara ayır, stratejini her adımda gözden geçir ve uzun süreli oturumlarda tutarlılığını koru. Kodlama görevlerinde 'reasoning_effort' parametresini kullanarak düşünme derinliğini yönet; yüksek karmaşıklıktaki iş akışlarında 'max' ayarını tercih ederek en iyi sonucu hedefle.
+
+- **Kimin için:** Karmaşık sistem mühendisliği ve uzun vadeli otonom yazılım geliştirme süreçleri üzerinde çalışan geliştiriciler için uygundur. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/zai-org/GLM-5)
 
-## İlgili sözlük terimleri
-Vibe Coding Agentic Engineering AI Agents Agentic Token Agents 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Vibe Coding Agentic Engineering AI Agents Agentic Token Agents
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/glm-5/

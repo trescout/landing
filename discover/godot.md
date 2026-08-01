@@ -1,4 +1,4 @@
-# Açık kaynakla oyununuzu geliştirin
+# açık kaynaklı oyun geliştirme motoru
 
 Godot Motoru (Godot Engine), iki ve üç boyutlu oyun geliştirme süreçleri için kullanılan açık kaynaklı bir oyun motorudur. C++ diliyle geliştirilen bu platform, geliştiricilere farklı işletim sistemlerinde çalışabilen oyunlar üretme imkânı tanır.
 
@@ -8,9 +8,9 @@ Godot Motoru (Godot Engine), iki ve üç boyutlu oyun geliştirme süreçleri i�
 _Görsel: Godot Engine (godot-design) · CC-BY-4.0_
 
 ## Ne kazandırır?
-- İki ve üç boyutlu oyunlar geliştirebilme imkânı sağlar.
-- Tek arayüz üzerinden farklı platformlara oyun çıktısı alınabilir.
-- Tamamen ücretsiz ve açık kaynaklı bir geliştirme ortamı sunar.
+- İki ve üç boyutlu oyunlar için kapsamlı araçlar sunar
+- Tek tıkla farklı platformlara oyun çıktısı almanızı sağlar
+- Tamamen ücretsiz ve topluluk tarafından yönetilen bir yapıya sahiptir
 
 ## Kurulum
 
@@ -28,16 +28,20 @@ winget install GodotEngine.GodotEngine
 
 Kaynak: Homebrew · winget (resmî paket yöneticileri) · veya godotengine.org'dan indirin
 
-- **Kimin için:** Kendi iki veya üç boyutlu oyunlarını geliştirmek isteyen bağımsız oyun geliştiricileri ve hobi amaçlı kodlama yapan kişiler için uygundur. 
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Godot motoru ile iki veya üç boyutlu bir oyun projesi geliştirmek istiyorum. Oyun geliştirme sürecine başlamam için temel arayüz kullanımı, sahne oluşturma mantığı ve proje yapısı hakkında bana adım adım bir başlangıç rehberi hazırlar mısın?
+
+- **Kimin için:** Kendi oyunlarını geliştirmek isteyen ve açık kaynaklı, esnek bir oyun motoru arayan tüm geliştiriciler için uygundur. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/godotengine/godot)
 
-## İlgili sözlük terimleri
-Godot Engine 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Godot Engine Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/godot/

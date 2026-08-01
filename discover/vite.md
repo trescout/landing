@@ -8,8 +8,8 @@ Vite, modern web projeleri için hızlı bir geliştirme ortamı ve derleme arac
 TreScout notu: Asıl kazanç geliştirme sunucusunun anında açılması · büyük projede dakikalara çıkan bekleme saniyeye iner. Eski Webpack eklentilerine bağımlıysanız geçişte karşılıklarını aramanız gerekir. Bugün sıfırdan ön yüz projesi kuruyorsanız varsayılan tercih olarak düşünebilirsiniz.
 
 ## Ne kazandırır?
-- Anlık sunucu başlatma süresi
-- Hızlı modül yenileme özelliği
+- Anında sunucu başlatma desteği
+- Çok hızlı modül yenileme süreci
 - Optimize edilmiş üretim çıktıları
 
 ## Kurulum
@@ -22,13 +22,20 @@ npm create vite@latest
 
 Kaynak: vite.dev (resmî dokümantasyon)
 
-- **Kimin için:** Web projelerinde geliştirme ve derleme süreçlerini hızlandırmak isteyen ön yüz geliştiricileri içindir. 
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Vite kullanarak modern bir web projesi başlatmak istiyorum. Proje kurulumu, geliştirme sunucusunu çalıştırma ve üretim için kod paketleme süreçlerinde izlemem gereken temel adımları bana açıkla. Vite'in sunduğu hızlı geliştirme deneyiminden nasıl faydalanabileceğimi ve yerel ES modüllerini nasıl kullanabileceğimi örneklerle anlat.
+
+- **Kimin için:** Web projelerinde geliştirme sürelerini kısaltmak ve daha verimli bir derleme süreci arayan ön yüz geliştiricileri için uygundur. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/vitejs/vite)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-07 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vite/

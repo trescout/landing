@@ -7,8 +7,8 @@ Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ mod
 
 ## Ne kazandırır?
 - Ses ve video senkronizasyonu sağlar
-- Yerel sistemlerde model eğitimi destekler
-- Kendi verilerinizle düşük dereceli uyarlama yapabilirsiniz
+- Kendi verilerinizle LoRA eğitimi yapabilirsiniz
+- Yerel sistemde yüksek kaliteli video üretimi
 
 ## Kurulum
 
@@ -37,17 +37,17 @@ Kaynak: Resmî LTX-2 README (Lightricks/LTX-2)
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Bu araçla video oluşturmak için yukarıdaki komutu terminalinize yapıştırın. Komut içindeki --prompt kısmını, kendi video senaryonuz ve karakter betimlemelerinizle değiştirerek daha özgün sonuçlar alabilirsiniz; eğer sisteminizde bellek sorunu yaşarsanız komuta --quantization fp8-cast --offload cpu parametrelerini eklemeyi deneyin.
+Lütfen LTX-2 modelini kullanarak, istediğim sahneyi detaylı bir şekilde betimleyen ve ses ile video senkronizasyonunu içeren bir video oluştur. Sahne detaylarını, karakterin görünümünü, kamera açısını ve konuşma metnini belirterek modelin çıktı üretmesini sağla.
 
-- **Kimin için:** Kendi yerel donanımı üzerinde ses ve video üreten yapay zekâ modelleriyle çalışmak isteyen geliştiriciler ve içerik üreticileri içindir. 
+- **Kimin için:** Kendi yerel sisteminde sesli ve görüntülü yapay zekâ videoları oluşturmak veya modelleri eğitmek isteyen kullanıcılar içindir. 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Lightricks/LTX-2)
 
-## İlgili sözlük terimleri
-Inference CLI Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Inference CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ltx-2/

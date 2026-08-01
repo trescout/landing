@@ -44,10 +44,10 @@ Maigret aracını kullanarak hedef bir kullanıcı adı üzerinde kapsamlı bir 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/soxoj/maigret)
 
-## İlgili sözlük terimleri
-Dossier OSINT Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-11 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Dossier OSINT Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/maigret/

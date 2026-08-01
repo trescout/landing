@@ -32,10 +32,10 @@ Terminal içerisinde bir geliştirme ajanı olarak çalışmanı istiyorum. Yaz�
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/MoonshotAI/kimi-cli)
 
-## İlgili sözlük terimleri
-Terminal CLI Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-19 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Terminal CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/kimi-cli/

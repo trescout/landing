@@ -21,10 +21,10 @@ Projeyi kullanmak için GitHub sayfasındaki 'Releases' sekmesinden hazır dosya
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/par274/sharpemu)
 
-## İlgili sözlük terimleri
-Emulator CPU SDK 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Emulator CPU SDK
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sharpemu/

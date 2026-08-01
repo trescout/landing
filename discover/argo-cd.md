@@ -22,10 +22,10 @@ Argo CD kullanmaya başlamak için resmî dokümantasyon sayfasını ziyaret ede
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/argoproj/argo-cd)
 
-## İlgili sözlük terimleri
-Declarative Continuous Deployment Continuous Deployment Deployment Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Declarative Continuous Deployment Continuous Deployment Deployment Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/argo-cd/

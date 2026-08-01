@@ -29,10 +29,10 @@ Python projemde birim testleri yazmak istiyorum. Pytest kullanarak basit bir tes
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/pytest-dev/pytest)
 
-## İlgili sözlük terimleri
-Testing Framework Unit Testing Terminal Framework Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Testing Framework Unit Testing Terminal Framework Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pytest/

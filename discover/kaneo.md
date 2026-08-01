@@ -47,10 +47,10 @@ Kaneo projesini kurmak ve yapılandırmak istiyorum. Projenin hızlı kurulumu i
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/usekaneo/kaneo)
 
-## İlgili sözlük terimleri
-Project Management Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-01 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Project Management Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/kaneo/

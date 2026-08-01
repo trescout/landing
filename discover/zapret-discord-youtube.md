@@ -21,10 +21,10 @@ Resmî GitHub sayfasındaki son sürüm bağlantısına giderek arşiv dosyasın
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Flowseal/zapret-discord-youtube)
 
-## İlgili sözlük terimleri
-Packet Fragmentation 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-25 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Packet Fragmentation
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/zapret-discord-youtube/

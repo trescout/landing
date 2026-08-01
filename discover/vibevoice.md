@@ -9,8 +9,8 @@ TreScout notu: Depo yayımlandıktan sonra değişti: metinden konuşma tarafı 
 
 ## Ne kazandırır?
 - 60 dakikaya kadar kesintisiz ses kaydı işleme
-- konuşmacı, zaman damgası ve içerik dökümü
-- özel terimler için kelime desteği
+- Konuşmacı, zaman damgası ve içerik ayrımı
+- Özel terimler ile doğruluk oranını artırma
 
 ## Kurulum
 
@@ -38,16 +38,20 @@ python demo/vibevoice_asr_inference_from_file.py --model_path microsoft/VibeVoic
 
 Kaynak: Resmî depo · docs/vibevoice-asr.md (microsoft/VibeVoice). Kurulabilir model VibeVoice-ASR; TTS kodu depodan çıkarıldı.
 
-- **Kimin için:** Uzun süreli ses kayıtlarını, podcastleri veya toplantı notlarını otomatik olarak metne dökmek isteyen araştırmacılar ve geliştiriciler için uygundur. 
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+VibeVoice-ASR modelini kullanarak elimdeki 60 dakikalık uzun ses kaydını analiz etmeni istiyorum. Ses kaydındaki konuşmacıları, her birinin ne zaman konuştuğunu ve konuşma içeriklerini yapılandırılmış bir metin olarak hazırla. Analiz sırasında teknik terimlerin doğru anlaşılması için verdiğim özel kelime listesini (hotwords) dikkate al.
+
+- **Kimin için:** Uzun süreli ses kayıtlarını, toplantı dökümlerini veya podcast içeriklerini hızlı ve yapılandırılmış şekilde metne dönüştürmek isteyen kullanıcılar içindir. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/microsoft/VibeVoice)
 
-## İlgili sözlük terimleri
-Text-to-Speech Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-07 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Text-to-Speech Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vibevoice/

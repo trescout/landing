@@ -29,10 +29,10 @@ Sen bir yapay zekâ ajanısın. Last30days-skill aracını kullanarak [ARANACAK 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/mvanhorn/last30days-skill)
 
-## İlgili sözlük terimleri
-AI Agent Skill Agent Skill AI Agent Skill Agent Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+AI Agent Skill Agent Skill AI Agent Skill Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/last30days-skill/

@@ -22,10 +22,10 @@ Bu rehbere başlamak için herhangi bir kurulum yapmanız gerekmez. Projenin res
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/PKUFlyingPig/cs-self-learning)
 
-## İlgili sözlük terimleri
-Computer Science 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Computer Science
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cs-self-learning/

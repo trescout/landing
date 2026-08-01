@@ -22,10 +22,10 @@ Aracı kullanmaya başlamak için öncelikle bilgisayarınızda Python 3 kurulu 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Mebus/cupp)
 
-## İlgili sözlük terimleri
-Common User Passwords Profiler Wordlists Terminal 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Common User Passwords Profiler Wordlists Terminal
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cupp/

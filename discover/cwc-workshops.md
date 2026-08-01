@@ -21,10 +21,10 @@ Bu araç, Anthropic tarafından düzenlenen Code with Claude atölye çalışmal
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/anthropics/cwc-workshops)
 
-## İlgili sözlük terimleri
-Computer Use MCP Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-18 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Computer Use MCP Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cwc-workshops/

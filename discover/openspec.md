@@ -37,10 +37,10 @@ OpenSpec kullanarak bir geliştirme süreci başlatmak istiyorum. Lütfen mevcut
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Fission-AI/OpenSpec)
 
-## İlgili sözlük terimleri
-Spec-driven Development Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Spec-driven Development Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openspec/

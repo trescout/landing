@@ -1,4 +1,4 @@
-# Kendi sunucunuzda özgür makine çevirisi
+# Kendi sunucunuzda özgür çeviri hizmeti
 
 LibreTranslate, özgür ve açık kaynak kodlu bir makine çevirisi arayüzü (API) sunuyor. Kendi sunucunuzda barındırabileceğiniz bu Python tabanlı araç, internet bağlantısı olmadan çevrim dışı çalışma imkânı sağlıyor.
 
@@ -6,9 +6,9 @@ LibreTranslate, özgür ve açık kaynak kodlu bir makine çevirisi arayüzü (A
 - GitHub Trending · 2026-06-19
 
 ## Ne kazandırır?
-- Tamamen açık kaynaklı çeviri altyapısı
-- İnternet bağlantısı olmadan çevrim dışı çalışma
-- Google veya Azure gibi bağımlılıkları kaldırma
+- Google veya Azure gibi bağımlı servislerden kurtulun
+- İnternet bağlantısı olmadan çevrim dışı çeviri yapın
+- Tamamen açık kaynaklı ve özgür çeviri motoru kullanın
 
 ## Kurulum
 
@@ -34,16 +34,20 @@ libretranslate
 
 Kaynak: PyPI (libretranslate) · Docker Hub (libretranslate/libretranslate)
 
-- **Kimin için:** Veri gizliliğine önem veren ve kendi çeviri altyapısını bağımsız olarak yönetmek isteyen kullanıcılar içindir. 
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+LibreTranslate aracını kendi sunucumda barındırmak istiyorum. Argos Translate kütüphanesini temel alan bu açık kaynaklı çeviri motorunu sistemime kurmak ve çevrim dışı kullanıma hazır hale getirmek için izlemem gereken adımları, teknik detaylara boğulmadan, adım adım bir rehber şeklinde açıklar mısın?
+
+- **Kimin için:** Veri gizliliğine önem veren ve kendi çeviri altyapısını bağımsız bir şekilde yönetmek isteyen kullanıcılar için uygundur. 
 - **Lisans:** AGPL-3.0 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/LibreTranslate/LibreTranslate)
 
-## İlgili sözlük terimleri
-API Open Source 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+API Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/libretranslate/

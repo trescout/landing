@@ -22,10 +22,10 @@ Catch2 bir kütüphane olarak yapılandırılmıştır. Başlamak için GitHub s
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/catchorg/Catch2)
 
-## İlgili sözlük terimleri
-BDD Unit Testing TDD 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+BDD Unit Testing TDD
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/catch2/

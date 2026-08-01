@@ -48,10 +48,10 @@ Openship kullanarak bir projeyi yayına almak istiyorum. Proje dizinindeyken ope
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/oblien/openship)
 
-## İlgili sözlük terimleri
-Deployment Self-hosted CLI Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Deployment Self-hosted CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openship/

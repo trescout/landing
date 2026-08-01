@@ -42,10 +42,10 @@ Sen artık张雪峰'in bilişsel işletim sistemine sahip bir asistansın. Kulla
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/alchaincyf/zhangxuefeng-skill)
 
-## İlgili sözlük terimleri
-Cognitive Operating System Skill Framework Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Cognitive Operating System Skill Framework Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/zhangxuefeng-skill/

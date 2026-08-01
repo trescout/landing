@@ -28,10 +28,10 @@ Bir Linux sunucusu yöneticisiyim. Sunucumun güvenliğini artırmak istiyorum. 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
-## İlgili sözlük terimleri
-Server Hardening Linux Server Security Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-10 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Server Hardening Linux Server Security Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/how-to-secure-a-linux-server/

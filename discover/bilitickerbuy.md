@@ -6,9 +6,9 @@ Bilibili üyelik satın alma işlemlerini otomatikleştiren bu Python tabanlı a
 - GitHub Trending · 2026-06-22
 
 ## Ne kazandırır?
-- Bilibili üzerinden bilet alım işlemlerini otomatize eder.
-- Sınırlı stoklu ürünleri yakalama hızını artırır.
-- Kişisel kullanım için tasarlanmış yardımcı bir araçtır.
+- Bilibili üzerinden bilet alım işlemlerini otomatize eder
+- Sınırlı stoklu ürünleri yakalama hızını artırır
+- Kişisel kullanım için pratik bir yardımcı araçtır
 
 ## Kurulum
 
@@ -34,15 +34,19 @@ btb
 
 Kaynak: Resmî biliTickerBuy dokümantasyonu (docs/installation.md)
 
-- **Kimin için:** Bilibili platformunda sınırlı sayıdaki bilet ve ürünleri hızlı bir şekilde satın almak isteyen bireysel kullanıcılar için uygundur. 
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bilibili bilet alım süreçlerini otomatikleştirmek istiyorum. Bu aracın kurulumu ve kullanımıyla ilgili temel adımları, dokümantasyon sayfalarındaki bilgiler ışığında bana açıklar mısın?
+
+- **Kimin için:** Bilibili platformu üzerinden sınırlı sayıdaki bilet ve ürünleri daha hızlı satın almak isteyen bireysel kullanıcılar içindir. 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/mikumifa/biliTickerBuy)
 
-## İlgili sözlük terimleri
-Ticket Purchasing Assistant 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Ticket Purchasing Assistant Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/bilitickerbuy/

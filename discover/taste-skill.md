@@ -46,10 +46,10 @@ Lisans: MIT · özgürce kullanabilir, uyarlayabilir, ticari işte kullanabilirs
 - [GitHub deposu →](https://github.com/Leonxlnx/taste-skill)
 - [Ana sayfa (tasteskill.dev) →](https://tasteskill.dev)
 
-## İlgili sözlük terimleri
-AI Agent Agent Skills Shell Skill AI Skills Agent 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+AI Agent Agent Skills Shell Skill AI Skills Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/taste-skill/

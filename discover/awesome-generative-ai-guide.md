@@ -22,10 +22,10 @@ Bu araç herhangi bir kurulum gerektirmez. GitHub üzerindeki resmî sayfayı zi
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 
-## İlgili sözlük terimleri
-Notebooks Generative AI LLM Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Notebooks Generative AI LLM Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-generative-ai-guide/

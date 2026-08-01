@@ -49,10 +49,10 @@ Claude Code çalışma ortamımı optimize etmek istiyorum. npx claude-code-temp
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/davila7/claude-code-templates)
 
-## İlgili sözlük terimleri
-Claude Code Templates MCP CLI Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Claude Code Templates MCP CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-code-templates/

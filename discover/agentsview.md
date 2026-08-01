@@ -49,10 +49,10 @@ Agentsview aracını kullanarak yapay zeka kodlama ajanlarımın oturum geçmiş
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/kenn-io/agentsview)
 
-## İlgili sözlük terimleri
-CCUsage Local-first Token Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+CCUsage Local-first Token Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agentsview/

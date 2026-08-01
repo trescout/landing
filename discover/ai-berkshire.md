@@ -38,10 +38,10 @@ Sen bir yatırım analisti olarak, Warren Buffett, Charlie Munger, Duan Yongping
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/xbtlin/ai-berkshire)
 
-## İlgili sözlük terimleri
-Research Framework Multi-agent Framework Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Research Framework Multi-agent Framework Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-berkshire/

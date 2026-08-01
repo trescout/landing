@@ -42,10 +42,10 @@ Projemdeki tüm dosya arama ve içerik tarama (grep) işlemleri için fff araçl
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/dmtrKovalenko/fff)
 
-## İlgili sözlük terimleri
-MCP Rust Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+MCP Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fff/

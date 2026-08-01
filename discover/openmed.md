@@ -43,10 +43,10 @@ OpenMed kütüphanesini kullanarak tıbbi metin analizi yapmak istiyorum. Cihaz�
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/maziyarpanahi/openmed)
 
-## İlgili sözlük terimleri
-Apple Silicon Open Source Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-10 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Apple Silicon Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openmed/

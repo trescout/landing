@@ -22,10 +22,10 @@ Aracı kullanmaya başlamak için GitHub sayfasındaki Wiki bölümüne gidin. B
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
 
-## İlgili sözlük terimleri
-Root ADB Rust 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Root ADB Rust
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/universal-android-debloater-next-generation/

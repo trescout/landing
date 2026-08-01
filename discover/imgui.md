@@ -22,10 +22,10 @@ Projenize başlamak için GitHub deposundaki tüm imgui ile başlayan .cpp ve .h
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/ocornut/imgui)
 
-## İlgili sözlük terimleri
-GUI User Interface 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-28 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+GUI User Interface
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/imgui/

@@ -29,10 +29,10 @@ Open Code Review aracını kullanarak mevcut Git değişikliklerimi incele. Kod 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/alibaba/open-code-review)
 
-## İlgili sözlük terimleri
-Pipelines Code Review Token LLM CLI Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Pipelines Code Review Token LLM CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-code-review/

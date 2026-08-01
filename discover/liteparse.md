@@ -51,10 +51,10 @@ Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabi
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/run-llama/liteparse)
 
-## İlgili sözlük terimleri
-Output Pipeline RAG PDF Rust Open Source 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Output Pipeline RAG PDF Rust Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/liteparse/

@@ -46,10 +46,10 @@ Lisans: ⚠️ Açık kaynak değildir ; Anthropic'in bir ürünüdür ve Ticari
 - [GitHub deposu →](https://github.com/anthropics/claude-code)
 - [Ticari Şartlar →](https://www.anthropic.com/legal/commercial-terms)
 
-## İlgili sözlük terimleri
-Terminal Open Source Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Terminal Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-code/

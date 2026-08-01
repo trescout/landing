@@ -43,10 +43,10 @@ Worldmonitor aracını kullanarak küresel haber akışlarını, jeopolitik geli
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/koala73/worldmonitor)
 
-## İlgili sözlük terimleri
-Global Intelligence Dashboard Situational Awareness Dashboard Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Global Intelligence Dashboard Situational Awareness Dashboard Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/worldmonitor/

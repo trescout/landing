@@ -22,10 +22,10 @@ Resmî GitHub sayfasındaki indirme bağlantısını kullanarak Palmier Pro uygu
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/palmier-io/palmier-pro)
 
-## İlgili sözlük terimleri
-Video Editor Apple Silicon Editor MCP Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Video Editor Apple Silicon Editor MCP Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/palmier-pro/

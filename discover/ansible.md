@@ -22,10 +22,10 @@ Ansible kurulumu için resmî web sitesindeki kurulum rehberini ziyaret etmeniz 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/ansible/ansible)
 
-## İlgili sözlük terimleri
-Agent 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-04 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ansible/

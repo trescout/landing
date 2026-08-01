@@ -10,7 +10,7 @@ TreScout notu: Playwright ile aynı işi yapar ama daha dar kapsamlıdır: Chrom
 ## Ne kazandırır?
 - Chrome ve Firefox tarayıcılarını programatik olarak kontrol etme
 - Web sayfalarında otomatik test süreçleri oluşturma
-- Veri kazıma işlemlerini standart bir arayüzle gerçekleştirme
+- Otomatik veri kazıma işlemleri gerçekleştirme
 
 ## Kurulum
 
@@ -24,18 +24,18 @@ Kaynak: npm (resmî paket yöneticisi) · pnpm / yarn
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Bir web sayfasını otomatik olarak açan, belirli bir adrese giden, ekran boyutunu ayarlayan ve bir arama kutusuna metin girerek sonuçları listeleyen bir JavaScript otomasyon betiği oluştur. İşlem sonunda tarayıcıyı kapatmayı unutma.
+Puppeteer kütüphanesini kullanarak bir web sitesini ziyaret eden, ekran boyutunu ayarlayan ve belirli bir öğeye tıklayarak içerik okuyan bir JavaScript otomasyon betiği oluştur. İşlem sonunda tarayıcıyı kapatmayı unutma.
 
-- **Kimin için:** Web sayfaları üzerinde test otomasyonu yapmak veya veri toplamak isteyen yazılım geliştiriciler için uygundur. 
+- **Kimin için:** Web tarayıcıları üzerinde test otomasyonu veya veri kazıma işlemleri yapmak isteyen yazılım geliştiriciler için uygundur. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/puppeteer/puppeteer)
 
-## İlgili sözlük terimleri
-Web Scraping PDF Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Web Scraping PDF Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/puppeteer/

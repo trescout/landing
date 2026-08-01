@@ -21,10 +21,10 @@ Terraform kullanmaya başlamak için resmî web sitesi üzerindeki dokümantasyo
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/hashicorp/terraform)
 
-## İlgili sözlük terimleri
-Infrastructure as Code API 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Infrastructure as Code API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/terraform/

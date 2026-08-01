@@ -21,10 +21,10 @@ Bu araç, Claude Code kullanıcısı geliştiriciler için hazırlanmış bir ka
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/hesreallyhim/awesome-claude-code)
 
-## İlgili sözlük terimleri
-AI Skills Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-06 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+AI Skills Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-claude-code/

@@ -29,10 +29,10 @@ Bir yapay zekâ ajanı geliştiriyorum ve bu ajanın araç kullanımını kısı
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/microsoft/agent-governance-toolkit)
 
-## İlgili sözlük terimleri
-Agent Governance Toolkit Agentic Agent Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-29 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Agent Governance Toolkit Agentic Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-governance-toolkit/

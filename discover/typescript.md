@@ -22,10 +22,10 @@ TypeScript kullanmaya başlamak için resmî web sitesindeki TypeScript in 5 min
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/microsoft/TypeScript)
 
-## İlgili sözlük terimleri
-Superset Static Typing 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Superset Static Typing
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/typescript/

@@ -22,10 +22,10 @@ Resmî web sitesindeki Web Flasher aracını kullanarak cihazınıza uygun yazı
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/geo-tp/ESP32-Bit-Pirate)
 
-## İlgili sözlük terimleri
-Terminal CLI 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-01 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Terminal CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/esp32-bit-pirate/

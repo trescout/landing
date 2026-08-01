@@ -38,10 +38,10 @@ Bir AI kodlama ajanı kullanırken, projenin temel ilkelerini belirlemek için /
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/github/spec-kit)
 
-## İlgili sözlük terimleri
-Spec-driven Development CLI Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Spec-driven Development CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/spec-kit/

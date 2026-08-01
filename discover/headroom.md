@@ -44,10 +44,10 @@ Headroom aracını kullanarak yapay zeka ajanımın bağlamsal veri ve günlük 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/chopratejas/headroom)
 
-## İlgili sözlük terimleri
-RAG Chunks Proxy RAG Token LLM MCP 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-03 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+RAG Chunks Proxy RAG Token LLM MCP
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/headroom/

@@ -10,7 +10,7 @@ TreScout notu: Slack yerine kendi sunucunuzda çalışan sürüm, asıl gerekçe
 ## Ne kazandırır?
 - Merkezi iletişim ve iş akışı otomasyonu
 - Sesli görüşme ve ekran paylaşımı desteği
-- Yapay zekâ entegrasyonu ile geliştirilmiş süreç yönetimi
+- Yapay zekâ entegrasyonu ile geliştirilmiş süreçler
 
 ## Kurulum
 
@@ -22,15 +22,19 @@ docker run --name mattermost-preview -d --publish 8065:8065 mattermost/mattermos
 
 Kaynak: docs.mattermost.com (resmî · önizleme imajı)
 
-- **Kimin için:** Yazılım geliştirme süreçlerini güvenli ve merkezi bir platform üzerinden yönetmek isteyen teknik ekipler için uygundur. 
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Mattermost platformunun temel özelliklerini, kendi sunucumda barındırma seçeneklerini ve iş akışı otomasyonu ile yapay zekâ entegrasyonlarını kullanarak yazılım geliştirme süreçlerimi nasıl daha güvenli ve merkezi bir yapıya kavuşturabileceğimi açıkla.
+
+- **Kimin için:** Yazılım geliştirme süreçlerinde güvenli, merkezi ve özelleştirilebilir bir iletişim platformuna ihtiyaç duyan ekipler içindir. 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/mattermost/mattermost)
 
-## İlgili sözlük terimleri
-Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mattermost/

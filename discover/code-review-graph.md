@@ -43,10 +43,10 @@ Bu projede code-review-graph yüklü. Lütfen projenin kod inceleme grafiğini o
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/tirth8205/code-review-graph)
 
-## İlgili sözlük terimleri
-Code Intelligence Graph Context Reduction Code Review Token Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-18 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Code Intelligence Graph Context Reduction Code Review Token Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/code-review-graph/

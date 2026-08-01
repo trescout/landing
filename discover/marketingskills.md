@@ -35,10 +35,10 @@ Sen artık pazarlama konusunda uzmanlaşmış bir asistansın. Projemize ekledi�
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/coreyhaines31/marketingskills)
 
-## İlgili sözlük terimleri
-CRO SEO Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-06 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+CRO SEO Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/marketingskills/

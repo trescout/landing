@@ -21,10 +21,10 @@ Projeyi bilgisayarınıza indirin veya kopyalayın. Ardından Unity Hub üzerind
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/SmartlyDressedGames/U3-SDK)
 
-## İlgili sözlük terimleri
-Assets SDK Open Source 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-10 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Assets SDK Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/u3-sdk/

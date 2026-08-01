@@ -37,10 +37,10 @@ Claude Video aracını kullanarak paylaştığım videoyu analiz etmeni istiyoru
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/bradautomates/claude-video)
 
-## İlgili sözlük terimleri
-Transcription Whisper API Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-07 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Transcription Whisper API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-video/

@@ -22,10 +22,10 @@ Jellium Desktop uygulamasını kullanmaya başlamak için GitHub sayfasındaki i
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/andrewrabert/jellium-desktop)
 
-## İlgili sözlük terimleri
-Desktop Client Rust 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Desktop Client Rust
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/jellium-desktop/

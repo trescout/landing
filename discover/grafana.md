@@ -22,10 +22,10 @@ Grafana kullanmaya başlamak için resmî web sitesi olan grafana.com/get adresi
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/grafana/grafana)
 
-## İlgili sözlük terimleri
-Logs Traces 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-27 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Logs Traces
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/grafana/

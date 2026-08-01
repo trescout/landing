@@ -22,10 +22,10 @@ Aracı kullanmaya başlamak için GitHub sayfasındaki kodları bilgisayarınız
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/AhmadIbrahiim/Website-downloader)
 
-## İlgili sözlük terimleri
-Assets Terminal 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-08 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Assets Terminal
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/website-downloader/

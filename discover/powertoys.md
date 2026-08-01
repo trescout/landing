@@ -1,4 +1,4 @@
-# Windows sisteminizi özelleştiren yardımcı araçlar
+# Windows için gelişmiş sistem araçları
 
 Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştirmeyi artırmak amacıyla geliştirilen bir yardımcı yazılım koleksiyonudur. Kullanıcılara sistem üzerinde gelişmiş özelleştirme araçları ve iş akışı optimizasyonları sunar.
 
@@ -8,9 +8,9 @@ Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştir
 TreScout notu: Tek bir uygulama değil, birbirinden bağımsız araçlar paketi · çoğu kişi aslında FancyZones ve PowerToys Run için kuruyor. Kurumsal cihazlarda yönetici izni gerekebilir. macOS'tan Windows'a geçenler için pencere yönetimi ve hızlı başlatma boşluğunu kapatır.
 
 ## Ne kazandırır?
-- 30'dan fazla sistem aracıyla verimlilik artışı
-- İş akışını optimize eden kişiselleştirme seçenekleri
-- Pencere yönetimi ve dosya işlemleri için pratik çözümler
+- Otuzdan fazla yardımcı araçla iş akışını hızlandırır
+- Windows sistemini kişiselleştirme imkânı sunar
+- Ekran düzenleme ve dosya yönetimi gibi görevleri kolaylaştırır
 
 ## Kurulum
 
@@ -22,13 +22,20 @@ winget install Microsoft.PowerToys
 
 Kaynak: Microsoft Learn (resmî)
 
-- **Kimin için:** Windows işletim sistemini daha verimli kullanmak ve sistem üzerinde gelişmiş özelleştirmeler yapmak isteyen kullanıcılar içindir. 
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Windows işletim sisteminde verimliliğimi artırmak istiyorum. PowerToys içerisindeki araçları kullanarak iş akışımı nasıl optimize edebilirim ve hangi yardımcı araçlar günlük görevlerimi hızlandırmak için en uygun olanlardır?
+
+- **Kimin için:** Windows işletim sisteminde verimliliğini artırmak ve sistemini daha işlevsel hale getirmek isteyen tüm kullanıcılar için uygundur. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/microsoft/PowerToys)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/powertoys/

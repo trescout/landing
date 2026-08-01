@@ -22,10 +22,10 @@ Resmî web sitesi olan jenkins.io adresindeki indirme sayfasına giderek platfor
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/jenkinsci/jenkins)
 
-## İlgili sözlük terimleri
-Continuous Integration 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-27 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Continuous Integration
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/jenkins/

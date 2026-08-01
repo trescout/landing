@@ -22,10 +22,10 @@ Meshery'yi kullanmaya başlamak için tarayıcınız üzerinden meshery.io adres
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/meshery/meshery)
 
-## İlgili sözlük terimleri
-Cloud Native Service Mesh Mesh 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Cloud Native Service Mesh Mesh
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/meshery/

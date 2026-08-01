@@ -22,10 +22,10 @@ GeoLibre'yi kullanmaya başlamak için herhangi bir kurulum yapmanıza gerek yok
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/opengeos/GeoLibre)
 
-## İlgili sözlük terimleri
-GIS Notebooks Jupyter Notebooks 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-28 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+GIS Notebooks Jupyter Notebooks
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/geolibre/

@@ -22,10 +22,10 @@ Claude Code arayüzü içerisinde '/plugin > Discover' menüsünü kullanarak me
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/anthropics/claude-plugins-official)
 
-## İlgili sözlük terimleri
-Tools Plugins Plugin 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-24 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Tools Plugins Plugin
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-plugins-official/

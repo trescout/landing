@@ -1,4 +1,4 @@
-# Anahtar tabanlı esnek ağ bağlantıları
+# anahtar tabanlı esnek ağ bağlantıları
 
 Iroh, IP adresleri yerine anahtar tabanlı (key-based) adresleme kullanarak ağ bağlantılarını daha esnek hale getiren modüler bir ağ yığınıdır (networking stack). Rust diliyle geliştirilen bu araç, ağ kesintilerine karşı dayanıklı ve doğrudan veri aktarımı sağlayan bir altyapı sunar.
 
@@ -6,9 +6,9 @@ Iroh, IP adresleri yerine anahtar tabanlı (key-based) adresleme kullanarak ağ 
 - GitHub Trending · 2026-06-17
 
 ## Ne kazandırır?
-- IP adresi yerine genel anahtar ile bağlantı kurma
-- Doğrudan veri aktarımı için otomatik delik açma
-- QUIC tabanlı şifreli ve hızlı veri iletimi
+- IP adresleri yerine genel anahtar ile bağlantı kurma
+- Doğrudan veri aktarımı için otomatik delik açma (hole-punching)
+- QUIC tabanlı güvenli ve şifreli iletişim
 
 ## Kurulum
 
@@ -34,16 +34,20 @@ iroh node id
 
 Kaynak: crates.io (iroh) · resmî dokümantasyon (iroh.computer)
 
-- **Kimin için:** Ağ bağlantılarında IP bağımlılığından kurtulmak ve esnek, dayanıklı veri aktarım protokolleri geliştirmek isteyen yazılımcılar içindir. 
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Iroh kütüphanesini kullanarak anahtar tabanlı bir ağ bağlantısı kurmak istiyorum. Rust dilinde bir uç nokta oluşturup, başka bir uç noktaya genel anahtar üzerinden nasıl bağlanabileceğimi ve QUIC protokolü ile güvenli veri akışını nasıl başlatabileceğimi gösteren temel bir örnek kod yapısı oluşturur musun?
+
+- **Kimin için:** Doğrudan ve kesintisiz ağ bağlantıları kurmak isteyen Rust geliştiricileri için tasarlanmıştır. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/n0-computer/iroh)
 
-## İlgili sözlük terimleri
-Networking Stack Key-based CLI Rust 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Networking Stack Key-based CLI Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/iroh/

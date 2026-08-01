@@ -31,10 +31,10 @@ OpenMontage sistemini kullanarak bir video prodüksiyonu başlatmak istiyorum. K
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/calesthio/OpenMontage)
 
-## İlgili sözlük terimleri
-Agentic System Pipeline Agent Skills Agentic AI Skills Agent 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Agentic System Pipeline Agent Skills Agentic AI Skills Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openmontage/

@@ -22,10 +22,10 @@ Windows Terminal uygulamasını Microsoft Store üzerinden kolayca indirebilirsi
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/microsoft/terminal)
 
-## İlgili sözlük terimleri
-Console Host Terminal 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Console Host Terminal
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/terminal/

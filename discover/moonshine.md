@@ -44,10 +44,10 @@ Moonshine kütüphanesini kullanarak sesli bir arayüz geliştirmek istiyorum. M
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/moonshine-ai/moonshine)
 
-## İlgili sözlük terimleri
-Artificial Intelligence 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/moonshine/

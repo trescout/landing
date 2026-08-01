@@ -26,10 +26,10 @@ Lisans: AGPL-3.0 · kullanımı serbest; ancak kodu değiştirip dağıtır ya d
 - [GitHub deposu →](https://github.com/p-e-w/heretic)
 - [Proje sayfası →](https://heretic-project.org)
 
-## İlgili sözlük terimleri
-Transformer Open Source 
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.
+## İlgili sözlük terimleri
+Transformer Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/heretic/
