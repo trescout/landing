@@ -305,7 +305,8 @@ def rich_sections(g, cmds=None):
         if not (g.get("kurulum") or g.get("calistirma")) and g.get("nasil_baslanir"):
             link=(f'<ul class="disc-links"><li><a href="{esc(g.get("start_url",""))}" target="_blank" rel="noopener">Resmî kaynak →</a></li></ul>' if g.get("start_url") else '')
             s+=f'<section class="disc-sec"><h2>Nasıl başlanır?</h2><p>{esc(g["nasil_baslanir"])}</p>{link}</section>\n      '
-    if (g.get("kurulum") or g.get("calistirma")) and g.get("ai_prompt"):
+    komut_var=bool(g.get("kurulum") or g.get("calistirma") or (cmds and (cmds.get("kurulum") or cmds.get("calistirma"))))
+    if komut_var and g.get("ai_prompt"):  # elle eklenen komutlar da bu bölümü açar (README'den komut çıkmasa bile)
         s+=('<section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head">'
             '<span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span>'
             '<button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div>'
@@ -357,9 +358,9 @@ def build_page(e, rich=None):
       f'<h1 class="disc-title">{esc(headline)}</h1>\n<p class="disc-lead">{esc(summary)}</p>\n'
       f'<ul class="disc-meta">{metas}</ul>\n      {not_html}{shot_html}{rich_html}{relsec}\n'
       f'<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="{esc(url)}" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>\n'
+      f'<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun {date} tarihindeki hâlini anlatır: yıldız, sayılar ve metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>\n'
       '<aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p>'
       +FORM+'<a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>\n'
-      '<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Yıldız ve sayılar keşif tarihindeki değerlerdir.</p>\n'
       '</article>\n</main>\n'+FOOTER+'\n'+('<script src="/assets/discover.js" defer></script>\n' if rich else '')+'<script src="/assets/subscribe.js" defer></script>\n'+VERCEL+'</body>\n</html>\n')
     return head+body
 
