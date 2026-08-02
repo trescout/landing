@@ -4,10 +4,13 @@ claude-mem , AI ajanlarınızın oturumlar arası hatırlama yapabilmesini sağl
 
 _Görsel: claude-mem (proje deposundan)_
 
-- ★ 78.506
+- ★ 89.278
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 26 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 78.506 → 89.278, son sürüm v13.12.4 (23 Temmuz 2026).
 
 - **Kimin için:** AI kodlama ajanı kullananlar 
 - **Zorluk:** Kolay · tek komutla kurulum 

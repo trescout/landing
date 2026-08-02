@@ -369,118 +369,195 @@
     "slug": "heretic",
     "title": "Heretic",
     "tagline": "Dil modellerindeki güvenlik kısıtlarını kaldıran ileri düzey araç.",
-    "meta": "★ 22.018 · Python · AGPL-3.0",
+    "meta": "★ 27.018 · AGPL-3.0",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 22018,
+    "stars": 27018,
     "image": "/assets/discover/og/heretic.webp",
-    "headline": "Dil Modellerinde Güvenlik Sınırlarını Aşın"
+    "headline": "Dil Modellerinde Güvenlik Sınırlarını Aşın",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 27018,
+        "onceki_yildiz": 22018,
+        "surum": "v1.4.0",
+        "surum_tarihi": "2026-06-14"
+      }
+    ]
   },
   {
     "slug": "kronos",
     "title": "Kronos",
     "tagline": "Finansal piyasaların dilini çözmek için geliştirilmiş açık kaynak temel model.",
-    "meta": "★ 26.888 · Python · MIT",
+    "meta": "★ 35.441 · MIT",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 26888,
+    "stars": 35441,
     "image": "/assets/discover/og/kronos.webp",
-    "headline": "Finansal Piyasaları Analiz Eden Model"
+    "headline": "Finansal Piyasaları Analiz Eden Model",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 35441,
+        "onceki_yildiz": 26888
+      }
+    ]
   },
   {
     "slug": "claude-code-harness",
     "title": "Claude Code Harness",
     "tagline": "Claude Code için disiplinli bir 'Planla, Yap, Gözden Geçir' döngüsü.",
-    "meta": "★ 1.838 · Shell · MIT",
+    "meta": "★ 3.037 · MIT",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 1838,
+    "stars": 3037,
     "image": "/assets/discover/og/claude-code-harness.webp",
-    "headline": "Claude Code ile Disiplinli Geliştirme"
+    "headline": "Claude Code ile Disiplinli Geliştirme",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 3037,
+        "onceki_yildiz": 1838,
+        "surum": "v5.6.0",
+        "surum_tarihi": "2026-08-01"
+      }
+    ]
   },
   {
     "slug": "superpowers",
     "title": "Superpowers",
     "tagline": "Kodlama ajanları için bileşik beceriler ve yazılım geliştirme metodolojisi.",
-    "meta": "★ 209.561 · Shell · MIT",
+    "meta": "★ 264.883 · MIT",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 209561,
+    "stars": 264883,
     "image": "/assets/discover/og/superpowers.webp",
-    "headline": "Kodlama Ajanları İçin Gelişmiş Metodoloji"
+    "headline": "Kodlama Ajanları İçin Gelişmiş Metodoloji",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 264883,
+        "onceki_yildiz": 209561,
+        "surum": "v6.2.0",
+        "surum_tarihi": "2026-07-24"
+      }
+    ]
   },
   {
     "slug": "english-level-up-tips",
     "title": "English Level Up Tips",
     "tagline": "İleri seviye İngilizce için kapsamlı ve sıra dışı bir öğrenme rehberi.",
-    "meta": "★ 46.723 · Rehber · Lisans: yok",
+    "meta": "★ 56.687 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
       "Öğrenme",
       "Kod bilmeyenler için"
     ],
-    "stars": 46723,
+    "stars": 56687,
     "image": "/assets/discover/og/english-level-up-tips.webp",
-    "headline": "İngilizcenizi İleri Seviyeye Taşıyın"
+    "headline": "İngilizcenizi İleri Seviyeye Taşıyın",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 56687,
+        "onceki_yildiz": 46723,
+        "tasindi": "byoungd/up"
+      }
+    ]
   },
   {
     "slug": "iii",
     "title": "iii",
     "tagline": "Tüm servislerinizi gerçek zamanlı kurun, genişletin ve gözlemleyin.",
-    "meta": "★ 16.881 · Rust · Lisans: yok",
+    "meta": "★ 18.547 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 16881,
+    "stars": 18547,
     "image": "/assets/discover/og/iii.webp",
-    "headline": "Servislerinizi Gerçek Zamanlı Yönetin"
+    "headline": "Servislerinizi Gerçek Zamanlı Yönetin",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 18547,
+        "onceki_yildiz": 16881,
+        "surum": "iii/v0.22.0",
+        "surum_tarihi": "2026-07-22"
+      }
+    ]
   },
   {
     "slug": "airi",
     "title": "AIRI",
     "tagline": "Kendi sunucunuzda barınan, sesli sohbet edebilen ve oyun oynayabilen AI karakteri.",
-    "meta": "★ 40.222 · TypeScript · MIT",
+    "meta": "★ 46.435 · MIT",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
       "AI ajan araçları",
       "Üretkenlik"
     ],
-    "stars": 40222,
+    "stars": 46435,
     "image": "/assets/discover/og/airi.webp",
-    "headline": "Kendi Sesli yapay zekâ Karakterinizi Oluşturun"
+    "headline": "Kendi Sesli yapay zekâ Karakterinizi Oluşturun",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 46435,
+        "onceki_yildiz": 40222,
+        "surum": "v0.11.3",
+        "surum_tarihi": "2026-07-18"
+      }
+    ]
   },
   {
     "slug": "markitdown",
     "title": "MarkItDown",
     "tagline": "Word, PDF, Excel ve PowerPoint belgelerini AI dostu Markdown formatına çevirir · Microsoft.",
-    "meta": "★ 128.420 · Python · MIT",
+    "meta": "★ 170.726 · MIT",
     "source": "GitHub",
     "date": "2026-05-29",
-    "stars": 128420,
+    "stars": 170726,
     "tags": [
       "Geliştirici aracı",
       "Üretkenlik"
     ],
     "image": "/assets/discover/og/markitdown.webp",
-    "headline": "Belgelerinizi yapay zekâya Hazırlayın"
+    "headline": "Belgelerinizi yapay zekâya Hazırlayın",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 170726,
+        "onceki_yildiz": 128420,
+        "surum": "v0.1.7",
+        "surum_tarihi": "2026-07-29"
+      }
+    ]
   },
   {
     "slug": "harness",

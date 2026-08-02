@@ -2,10 +2,13 @@
 
 Awesome Free Apps , bilgisayar ve telefonunuz için seçilmiş ücretsiz uygulamaların kategorize edilmiş bir rehberidir. Windows, macOS, Linux, Android ve iOS filtreleri ile 'açık kaynak' ve 'önerilen' işaretlerini kullanarak aradığınız araca hızla ulaşabilirsiniz.
 
-- ★ 5.121
+- ★ 7.106
 - Liste
 - Lisans: belirsiz
 - GitHub Trending · 26 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 5.121 → 7.106.
 
 - **Kimin için:** Ücretsiz yazılım arayan herkes 
 - **Zorluk:** Çok kolay · sadece okuyun 

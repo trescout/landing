@@ -4,10 +4,13 @@ OpenStock , pahalı borsa platformlarına karşı geliştirilmiş açık kaynakl
 
 _Görsel: OpenStock (proje deposundan)_
 
-- ★ 11.968
+- ★ 14.018
 - TypeScript
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 11.968 → 14.018.
 
 - **Kimin için:** Borsa/hisse takip etmek isteyenler 
 - **Zorluk:** Kolay (hazır site) · ileri (self-host) 

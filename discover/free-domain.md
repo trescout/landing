@@ -2,10 +2,13 @@
 
 FreeDomain , herkesin dijital bir kimliğe sahip olabilmesi için ücretsiz alan adı hizmeti sunar. Benzersiz bir adres kaydedebilir ve Cloudflare gibi dilediğiniz DNS sağlayıcısıyla yönetebilirsiniz. Web'de var olmanın maliyetini sıfıra indirin.
 
-- ★ 166.947
+- ★ 190.061
 - HTML
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 166.947 → 190.061.
 
 - **Kimin için:** Ücretsiz web adresi isteyen herkes (kod gerekmez) 
 - **Zorluk:** Başlangıç dostu 
