@@ -96,10 +96,14 @@ jobs:
       - name: Logo geometri kontrolü
         run: python3 scripts/check-logo-consistency.py
 
-      - name: Keşif sayfalarını tazele (yeniden gündeme girenler + en eski bakılanlar)
+      # Tazeleme yardımcı bir adım · GitHub API aksarsa asıl işi (içerik büyümesi
+      # + commit) düşürmesin. 2026-08-02'de REST hız sınırı 403 döndü ve dört
+      # çalışmayı üst üste düşürdü, o yüzden hem GraphQL'e geçildi hem bu bayrak.
+      - name: Keşif sayfalarını tazele (tüm depolar · GraphQL toplu sorgu)
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/discover-sync.py --refresh --limit=0   # hepsi · ~380 depo, 2 istek/depo
+        run: python3 scripts/discover-sync.py --refresh
 
       - name: Değişiklik varsa commit'le
         run: |
