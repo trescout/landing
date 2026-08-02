@@ -614,7 +614,7 @@ def refresh(cat, by_slug, limit):
     donen=returning_slugs()
     def oncelik(c):
         return (0 if c["slug"] in donen else 1, c.get("last_review") or c.get("date") or "")
-    aday=sorted(zengin,key=oncelik)[:limit]
+    aday=sorted(zengin,key=oncelik) if limit<=0 else sorted(zengin,key=oncelik)[:limit]   # limit=0 → hepsi
     print(f"tazeleme · {len(donen)} yeniden gündemde · {len(aday)} kayıt incelenecek")
     n=0
     for c in aday:
@@ -667,7 +667,7 @@ def main():
         print(f"✅ {n} entry kuyruktan çıkarıldı: {', '.join(sorted(slugs))}"); return
     if "--refresh" in sys.argv:   # sayfa keşif gününde donmasın · yeniden gündeme girenler + en eski bakılanlar
         la=next((a for a in sys.argv if a.startswith("--limit=")),None)
-        refresh(cat, by_slug, int(la.split("=")[1]) if la else 10); return
+        refresh(cat, by_slug, int(la.split("=")[1]) if la else 0); return   # varsayılan: hepsi
     if "--reprocess-lite" in sys.argv:
         if not key: print("UYARI: GEMINI_API_KEY yok · zenginleştirme yapılamaz, lite kalır.")
         reprocess(cat, by_slug, key, [c for c in cat if c.get("lite")], "--reprocess-lite"); return

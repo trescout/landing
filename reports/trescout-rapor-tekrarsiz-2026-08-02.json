@@ -178,41 +178,6 @@
       ]
     },
     {
-      "sourceName": "releases",
-      "items": [
-        {
-          "title": "topoteretes/cognee v1.4.1",
-          "url": "https://github.com/topoteretes/cognee/releases/tag/v1.4.1",
-          "summary": "Veri işleme ve bellek yönetimi aracı Cognee, 1.4.1 sürümüyle arama alaka düzeyini artırarak veri giriş süreçlerini daha kararlı hale getiriyor. Güncelleme, bellek kullanımını ve gecikme sürelerini düşürerek sistemin genel çalışma performansını iyileştiriyor.",
-          "meta": "★ 29.679"
-        },
-        {
-          "title": "MadsLorentzen/ai-job-search v1.2.0",
-          "url": "https://github.com/MadsLorentzen/ai-job-search/releases/tag/v1.2.0",
-          "summary": "Açık kaynaklı iş arama aracı ai-job-search, 1.2.0 sürümüyle kullanıcıların kişisel verilerini korumaya yönelik güvenlik güncellemeleri getirdi. Güncelleme, GitHub üzerinde oluşturulan çatalların (fork) varsayılan olarak herkese açık olduğunu vurgulayarak, kişisel bilgilerin güvenli bir şekilde saklanması için özel depo (private repository) kullanımını zorunlu kılıyor.",
-          "meta": "★ 29.142"
-        },
-        {
-          "title": "karakeep-app/karakeep v0.33.1",
-          "url": "https://github.com/karakeep-app/karakeep/releases/tag/v0.33.1",
-          "summary": "Yer imi yöneticisi Karakeep, yeni sürümüyle birlikte anlam tabanlı arama yapmayı sağlayan anlamsal arama (semantic search) özelliğini kullanıma sundu. Mobil uygulamasına çevrimdışı okuma desteği ve pano üzerinden tek dokunuşla kaydetme gibi işlevler ekleyen güncelleme, genel performans iyileştirmeleriyle birlikte geliyor.",
-          "meta": "★ 27.992"
-        },
-        {
-          "title": "1jehuang/jcode v0.65.0",
-          "url": "https://github.com/1jehuang/jcode/releases/tag/v0.65.0",
-          "summary": "Kod düzenleme aracı jcode, yeni sürümüyle birlikte kesintisiz otomatik güncelleme desteği ve terminal tabanlı arayüzünde (TUI) daha kararlı bir çalışma deneyimi sunuyor. Kullanıcılar artık üzerinde çalıştıkları görevleri ekranın üst kısmına sabitleyebilir ve geliştirilmiş oturum yönetimiyle farklı komut satırı arayüzlerinden gelen verileri daha düzenli görüntüleyebilir.",
-          "meta": "★ 15.011"
-        },
-        {
-          "title": "oblien/openship v0.5.0",
-          "url": "https://github.com/oblien/openship/releases/tag/v0.5.0",
-          "summary": "Açık kaynaklı kargo takip aracı OpenShip, 0.5.0 sürümüyle birlikte yeni özellikler ve iyileştirmeler sunuyor. Farklı lojistik servislerini tek bir arayüzde birleştiren bu platform, gönderi takibini merkezi hale getirmeyi amaçlıyor.",
-          "meta": "★ 10.117"
-        }
-      ]
-    },
-    {
       "sourceName": "lobsters",
       "items": [
         {
