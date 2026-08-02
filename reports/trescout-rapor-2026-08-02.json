@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "editorial": "Bugün yazılım dünyasında temel seviye üretken yapay zekâ (generative AI) eğitimleri ile sistemli ticaret (systematic trading) algoritmaları arasındaki teknik boşluk hızla kapanıyor. Microsoft tarafından paylaşılan başlangıç rehberleri ve Copilot SDK gibi araçlar, geliştiricilerin otomasyon yeteneklerini (skill) kendi sistemlerine entegre etme süreçlerini standartlaştırıyor.",
+  "editorial": "Bugün teknoloji gündeminde yapay zekâ modellerindeki token sıkıştırma (token compression) teknikleri ve yazılım geliştirme metodolojileri öne çıkıyor. DeepSeek ve Kimi gibi yeni nesil dil modelleri (large language models) performans odaklı güncellemeler alırken, teknik dokümantasyon standartları ve sistem mimarileri üzerine tartışmalar derinleşiyor.",
   "sections": [
     {
       "sourceName": "github",
