@@ -3127,5 +3127,54 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay sinir ağlarını kullanarak bilgisayarların büyük verilerden kendi kendine öğrenmesini sağlayan bir makine öğrenmesi yöntemidir."
+  },
+  {
+    "slug": "stacked-pull-requests",
+    "en": "Stacked Pull Requests",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Büyük yazılım değişikliklerini, birbirine bağlı küçük ve yönetilebilir parçalar halinde sırayla sisteme ekleme yöntemidir."
+  },
+  {
+    "slug": "zero-shot-voice-cloning",
+    "en": "Zero-shot Voice Cloning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir kişinin sesini sadece çok kısa bir örnekten yola çıkarak, önceden özel bir eğitim almadan kopyalama teknolojisidir."
+  },
+  {
+    "slug": "structured-latent",
+    "en": "Structured Latent",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Karmaşık verilerin, yapay zekânın daha kolay anlayabileceği düzenli ve anlamlı bir matematiksel forma dönüştürülmesidir."
+  },
+  {
+    "slug": "skill-sets",
+    "en": "Skill Sets",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir kişinin veya yapay zekânın belirli bir işi veya görevi yerine getirmek için sahip olduğu yetenekler bütünüdür."
+  },
+  {
+    "slug": "really-simple-syndication",
+    "en": "Really Simple Syndication",
+    "full": "RSS",
+    "cat": "data",
+    "kisa": "Web sitelerindeki güncellemelerin veya haberlerin, sitelere tek tek girmeye gerek kalmadan tek bir yerden takip edilmesini sağlayan içerik dağıtım sistemidir."
+  },
+  {
+    "slug": "ai-video-editing",
+    "en": "AI Video Editing",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Videolardaki kesme, efekt ekleme veya görüntü iyileştirme gibi işlemleri yapay zekâ yardımıyla otomatik yapma sürecidir."
+  },
+  {
+    "slug": "multimodal-model",
+    "en": "Multimodal Model",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Sadece metni değil, aynı zamanda görüntü, ses ve video gibi farklı veri türlerini aynı anda işleyebilen yapay zekâ modelidir."
   }
 ]

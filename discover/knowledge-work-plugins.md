@@ -2,10 +2,13 @@
 
 Anthropic tarafından sunulan bu açık kaynaklı eklenti seti, her iş fonksiyonu için beceriler, bağlayıcılar, slash komutları ve alt-ajanları bir araya getirir. Claude'un o işin uzmanı gibi davranmasını sağlayan bu çözüm, Claude Cowork için tasarlanmış 11 hazır eklenti içerir.
 
-- ★ 16.517
+- ★ 23.222
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
+
+## Güncelleme
+- 1 Ağustos 2026: Yıldız 16.517 → 23.222.
 
 - **Kimin için:** Kod yazmayan bilgi çalışanları (Cowork kullananlar) 
 - **Zorluk:** Başlangıç dostu · Claude Cowork üzerinde 

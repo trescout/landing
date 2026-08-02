@@ -4,10 +4,13 @@ ECC; Claude Code, Codex, Cursor ve OpenCode gibi yapay zekâ kodlama araçların
 
 _Görsel: ECC (proje deposundan)_
 
-- ★ 194.032
+- ★ 236.779
 - JavaScript
 - MIT
 - GitHub Trending · 26 May 2026
+
+## Güncelleme
+- 1 Ağustos 2026: Yıldız 194.032 → 236.779, son sürüm v2.1.0 (27 Temmuz 2026).
 
 - **Kimin için:** Claude Code / Codex / Cursor kullanan geliştiriciler 
 - **Zorluk:** Orta–ileri · AI asistanı kullanmaya aşina olmak gerekir 

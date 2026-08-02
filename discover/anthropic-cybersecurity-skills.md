@@ -2,10 +2,13 @@
 
 Yapay zekâ ajanları için geliştirilmiş 754 hazır siber güvenlik becerisi ; 26 farklı güvenlik alanını kapsar ve MITRE ATT&CK, NIST CSF, MITRE ATLAS gibi 5 temel çerçeveyle eşlenir. Claude Code, GitHub Copilot, Codex, Cursor ve Gemini CLI gibi 20'den fazla platformda çalışır. (İsmine rağmen Anthropic'in resmi projesi değildir, bağımsız bir topluluk çalışmasıdır.)
 
-- ★ 9.924
+- ★ 27.085
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
+
+## Güncelleme
+- 1 Ağustos 2026: Yıldız 9.924 → 27.085, son sürüm v1.3.0 (22 Haziran 2026).
 
 - **Kimin için:** Güvenlik analistleri + AI ajanlarıyla çalışanlar 
 - **Durum:** Topluluk projesi · Anthropic ile resmi bağı YOK 

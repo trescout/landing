@@ -176,120 +176,194 @@
     "slug": "free-domain",
     "title": "FreeDomain",
     "tagline": "Web kimliğinizi hiçbir ücret ödemeden kurabileceğiniz ücretsiz alan adları.",
-    "meta": "★ 166.947 · HTML · AGPL-3.0",
+    "meta": "★ 190.061 · AGPL-3.0",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 166947,
+    "stars": 190061,
     "image": "/assets/discover/og/free-domain.webp",
-    "headline": "Ücretsiz Alan Adı Alın"
+    "headline": "Ücretsiz Alan Adı Alın",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 190061,
+        "onceki_yildiz": 166947
+      }
+    ]
   },
   {
     "slug": "jellyfin",
     "title": "Jellyfin",
     "tagline": "Film, dizi ve müzik koleksiyonunuzu tüm cihazlarınıza taşıyan ücretsiz medya sunucusu.",
-    "meta": "★ 52.316 · C# · GPL-2.0",
+    "meta": "★ 55.268 · GPL-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 52316,
+    "stars": 55268,
     "image": "/assets/discover/og/jellyfin.webp",
-    "headline": "Kendi Medya Sunucunuzu Kurun"
+    "headline": "Kendi Medya Sunucunuzu Kurun",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 55268,
+        "onceki_yildiz": 52316,
+        "surum": "v10.11.11",
+        "surum_tarihi": "2026-06-06"
+      }
+    ]
   },
   {
     "slug": "awesome-free-apps",
     "title": "Awesome Free Apps",
     "tagline": "Bilgisayar ve mobil cihazlar için özenle seçilmiş en iyi ücretsiz uygulamalar.",
-    "meta": "★ 5.121 · Liste · Lisans: belirsiz",
+    "meta": "★ 7.106 · Lisans: belirsiz",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 5121,
+    "stars": 7106,
     "image": "/assets/discover/og/awesome-free-apps.webp",
-    "headline": "En İyi Ücretsiz Uygulama Seçkisi"
+    "headline": "En İyi Ücretsiz Uygulama Seçkisi",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 7106,
+        "onceki_yildiz": 5121
+      }
+    ]
   },
   {
     "slug": "twenty",
     "title": "Twenty",
     "tagline": "Salesforce'a açık kaynaklı, yapay zekâ odaklı ve modern bir alternatif.",
-    "meta": "★ 46.735 · TypeScript · Lisans: özel",
+    "meta": "★ 54.054 · Lisans: özel",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Üretkenlik",
       "Geliştirici aracı"
     ],
-    "stars": 46735,
+    "stars": 54054,
     "image": "/assets/discover/og/twenty.webp",
-    "headline": "Modern ve Açık Kaynaklı CRM"
+    "headline": "Modern ve Açık Kaynaklı CRM",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 54054,
+        "onceki_yildiz": 46735,
+        "surum": "twenty/v2.26.0",
+        "surum_tarihi": "2026-07-31"
+      }
+    ]
   },
   {
     "slug": "openstock",
     "title": "OpenStock",
     "tagline": "Pahalı borsa platformlarına açık kaynaklı, gerçek zamanlı alternatif.",
-    "meta": "★ 11.968 · TypeScript · AGPL-3.0",
+    "meta": "★ 14.018 · AGPL-3.0",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 11968,
+    "stars": 14018,
     "image": "/assets/discover/og/openstock.webp",
-    "headline": "Borsa Verilerini Ücretsiz Takip Edin"
+    "headline": "Borsa Verilerini Ücretsiz Takip Edin",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 14018,
+        "onceki_yildiz": 11968
+      }
+    ]
   },
   {
     "slug": "claude-mem",
     "title": "claude-mem",
     "tagline": "AI ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
-    "meta": "★ 78.506 · TypeScript · Apache-2.0",
+    "meta": "★ 89.278 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
-    "stars": 78506,
+    "stars": 89278,
     "tags": [
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
     "image": "/assets/discover/og/claude-mem.webp",
-    "headline": "yapay zekâ Ajanınıza Kalıcı Hafıza Kazandırın"
+    "headline": "yapay zekâ Ajanınıza Kalıcı Hafıza Kazandırın",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 89278,
+        "onceki_yildiz": 78506,
+        "surum": "v13.12.4",
+        "surum_tarihi": "2026-07-23"
+      }
+    ]
   },
   {
     "slug": "ppf-contact-solver",
     "title": "PPF Contact Solver",
     "tagline": "Fizik simülasyonları için temas çözücü: Kumaş, katı ve ip etkileşimlerinde ZOZO'nun fizik motoru.",
-    "meta": "★ 3.389 · Python · Apache-2.0",
+    "meta": "★ 4.378 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3389,
+    "stars": 4378,
     "image": "/assets/discover/og/ppf-contact-solver.webp",
-    "headline": "Fizik Simülasyonlarında Temasları Yönetin"
+    "headline": "Fizik Simülasyonlarında Temasları Yönetin",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 4378,
+        "onceki_yildiz": 3389,
+        "surum": "addon-2026-07-27-0038",
+        "surum_tarihi": "2026-07-26"
+      }
+    ]
   },
   {
     "slug": "moneyprinterturbo",
     "title": "MoneyPrinterTurbo",
     "tagline": "Bir konu girin, AI tek tuşla altyazılı kısa videolar üretsin.",
-    "meta": "★ 62.104 · Python · MIT",
+    "meta": "★ 101.070 · MIT",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
       "Üretkenlik",
       "AI ajan araçları"
     ],
-    "stars": 62104,
+    "stars": 101070,
     "image": "/assets/discover/og/moneyprinterturbo.webp",
-    "headline": "Tek tuşla yapay zekâ videoları üretin"
+    "headline": "Tek tuşla yapay zekâ videoları üretin",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 101070,
+        "onceki_yildiz": 62104,
+        "surum": "v1.3.3",
+        "surum_tarihi": "2026-07-24"
+      }
+    ]
   },
   {
     "slug": "heretic",
@@ -1960,7 +2034,7 @@
       "kaynak": "developers.chatwoot.com/self-hosted/deployment/docker (resmî)"
     },
     "trescout_notu": "Müşterilerden gelen mesajları tek ekranda toplar: Site sohbeti, e-posta, WhatsApp. Aynı işi yapan hazır servisler kişi başına aylık ücret alır, bu kendi sunucunuzda çalıştığı için o ücret yoktur, karşılığında sunucu ve bakım sizin işiniz olur. Kurulumu tek parça değildir, yanında birkaç yardımcı program ister ve en ucuz sunucu paketlerinde zorlanır.",
-    "last_review": "2026-08-01",
+    "last_review": "2026-08-02",
     "guncellemeler": [
       {
         "tarih": "2026-08-01",
@@ -3032,7 +3106,7 @@
     "slug": "deer-flow",
     "title": "Deer Flow",
     "tagline": "ByteDance tarafından geliştirilen Deer-Flow, uzun süreli görevleri yerine getirmek için tasarlanmış açık kaynaklı bir süper…",
-    "meta": "★ 72.905 · Python",
+    "meta": "★ 78.818 · Python",
     "image": "/assets/discover/og/deer-flow.webp",
     "source": "GitHub",
     "date": "2026-06-22",
@@ -3040,9 +3114,19 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 72905,
+    "stars": 78818,
     "lite": false,
-    "headline": "Karmaşık görevler için yapay zekâ ajanı"
+    "headline": "Karmaşık görevler için yapay zekâ ajanı",
+    "last_review": "2026-08-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 78818,
+        "onceki_yildiz": 72905,
+        "surum": "v2.0.0",
+        "surum_tarihi": "2026-06-25"
+      }
+    ]
   },
   {
     "slug": "bilitickerbuy",
@@ -6447,5 +6531,102 @@
     "headline": "donanım analizi için çok protokollü araç",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "generative-ai-for-beginners",
+    "title": "Generative AI for Beginners",
+    "tagline": "Microsoft tarafından hazırlanan bu eğitim içeriği, üretken yapay zekâ (generative AI) teknolojilerine giriş yapmak isteyenler…",
+    "meta": "★ 114.349 · Jupyter Notebook",
+    "image": "/assets/discover/og/generative-ai-for-beginners.webp",
+    "source": "GitHub",
+    "date": "2026-08-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 114349,
+    "lite": false,
+    "headline": "Üretken yapay zekâ uygulamaları geliştirme eğitimi",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "gh-stack",
+    "title": "Gh Stack",
+    "tagline": "GitHub tarafından geliştirilen gh-stack, yazılım geliştirme sürecinde yığınlı çekme istekleri (stacked pull requests)…",
+    "meta": "★ 860 · Go",
+    "image": "/assets/discover/og/gh-stack.webp",
+    "source": "GitHub",
+    "date": "2026-08-02",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 860,
+    "lite": false,
+    "headline": "Yığınlı çekme isteklerini yönetin"
+  },
+  {
+    "slug": "voice-pro",
+    "title": "Voice Pro",
+    "tagline": "Voice-pro, metinden konuşmaya dönüştürme (TTS) ve sıfır örnekli ses kopyalama (zero-shot voice cloning) araçlarını bir araya…",
+    "meta": "★ 11.859 · Python",
+    "image": "/assets/discover/og/voice-pro.webp",
+    "source": "GitHub",
+    "date": "2026-08-02",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 11859,
+    "lite": false,
+    "headline": "Metinden konuşmaya ve ses kopyalama"
+  },
+  {
+    "slug": "invidious",
+    "title": "Invidious",
+    "tagline": "Invidious, YouTube platformuna alternatif olarak geliştirilen açık kaynaklı bir arayüzdür.",
+    "meta": "★ 21.676 · Crystal",
+    "image": "/assets/discover/og/invidious.webp",
+    "source": "GitHub",
+    "date": "2026-08-02",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 21676,
+    "lite": false,
+    "headline": "Reklamsız ve takipsiz video izleme",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
+  },
+  {
+    "slug": "trellis-2",
+    "title": "TRELLIS.2",
+    "tagline": "Microsoft tarafından geliştirilen TRELLIS, metin veya görsel girdilerini üç boyutlu (3D) modellere dönüştüren bir yapısal…",
+    "meta": "★ 9.992 · Python",
+    "image": "/assets/discover/og/trellis-2.webp",
+    "source": "GitHub",
+    "date": "2026-08-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 9992,
+    "lite": false,
+    "headline": "Görsellerden yüksek kaliteli 3D modeller üretin"
+  },
+  {
+    "slug": "k-skill",
+    "title": "K Skill",
+    "tagline": "NomaDamas/k-skill, yapay zekâ ajanlarına (AI agents) kültürel bağlamda yerel yetenekler kazandırmak için tasarlanmış bir…",
+    "meta": "★ 6.780 · JavaScript",
+    "image": "/assets/discover/og/k-skill.webp",
+    "source": "GitHub",
+    "date": "2026-08-02",
+    "tags": [
+      "AI ajan araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 6780,
+    "lite": false,
+    "headline": "yapay zekâ ajanınıza yerel yetenekler kazandırın"
   }
 ]

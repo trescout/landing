@@ -4,13 +4,16 @@ Karşınızda tanımadığınız 200.000 satırlık bir kod tabanı veya devasa 
 
 _Görsel: Understand Anything projesi · tara → haritala → öğret_
 
-- ★ 35.132
+- ★ 77.021
 
 - TypeScript
 
 - MIT
 
 - GitHub Trending · 26 May 2026
+
+## Güncelleme
+- 1 Ağustos 2026: Yıldız 35.132 → 77.021, son sürüm v2.9.0 (10 Temmuz 2026), depo taşındı, yeni adresi Egonex-AI/Understand-Anything.
 
 - **Kimin için:** Bir kodu ya da doküman yığınını hızlı anlamak isteyen herkes 
 
