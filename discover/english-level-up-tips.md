@@ -2,10 +2,13 @@
 
 English Level Up Tips , ileri seviye İngilizce için stratejik çalışma planları, seçilmiş kaynaklar ve yöntemler sunan kapsamlı bir rehberdir. Dil becerilerini gerçekten geliştirmek isteyenler için derli toplu bir kaynak niteliğindedir.
 
-- ★ 46.723
+- ★ 56.687
 - Rehber
 - Lisans: yok
 - GitHub Trending · 28 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 46.723 → 56.687, depo taşındı, yeni adresi byoungd/up.
 
 - **Kimin için:** İngilizcesini ileri seviyeye taşımak isteyenler 
 - **Zorluk:** Kolay · okuyup uygulayın 

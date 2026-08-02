@@ -51,7 +51,7 @@ TradingView masaüstü uygulamam ile bağlantı kurdun. Şimdi grafik üzerinde 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Script Model Context Protocol MCP CLI Artificial Intelligence
+Script Model Context Protocol Model Context Protocol MCP CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tradingview-mcp/

@@ -3176,5 +3176,12 @@
     "full": "",
     "cat": "ai",
     "kisa": "Sadece metni değil, aynı zamanda görüntü, ses ve video gibi farklı veri türlerini aynı anda işleyebilen yapay zekâ modelidir."
+  },
+  {
+    "slug": "model-context-protocol-mcp",
+    "en": "Model Context Protocol",
+    "full": "Model Context Protocol",
+    "cat": "ai",
+    "kisa": "Yapay zeka modellerinin farklı veri kaynaklarıyla ve araçlarla güvenli bir şekilde konuşmasını sağlayan standart bir bağlantı dilidir."
   }
 ]

@@ -4,10 +4,13 @@ Claude Code Harness , ham ajan çalışmasının dağılma eğilimini frenleyere
 
 _Görsel: Claude Code Harness (proje deposundan)_
 
-- ★ 1.838
+- ★ 3.037
 - Shell
 - MIT
 - GitHub Trending · 28 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 1.838 → 3.037, son sürüm v5.6.0 (1 Ağustos 2026).
 
 - **Kimin için:** Claude Code ile ciddi iş yapan geliştiriciler 
 - **Zorluk:** Orta · Claude Code kullanımı 
