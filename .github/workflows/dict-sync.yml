@@ -99,7 +99,7 @@ jobs:
       - name: Keşif sayfalarını tazele (yeniden gündeme girenler + en eski bakılanlar)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/discover-sync.py --refresh --limit=10
+        run: python3 scripts/discover-sync.py --refresh --limit=0   # hepsi · ~380 depo, 2 istek/depo
 
       - name: Değişiklik varsa commit'le
         run: |
