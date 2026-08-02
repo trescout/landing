@@ -608,6 +608,30 @@ def _set_page_update(c):
         t=re.sub(r'<li>★ [\d.]+</li>',"<li>★ "+f"{c['stars']:,}".replace(',','.')+"</li>",t,count=1)
     open(p,"w",encoding="utf-8").write(t)
 
+def gh_graphql(repos):
+    """50'şer depo tek istekte · REST'te depo başına 2 istek gerekiyordu, ikincil
+    hız sınırına takılıp iş akışını düşürüyordu (403). Token yoksa boş döner."""
+    tok=os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
+    if not tok: return {}
+    out={}
+    for i in range(0,len(repos),50):
+        parts=[]
+        for j,r in enumerate(repos[i:i+50]):
+            o,n=r.split("/",1)
+            parts.append(f'r{j}: repository(owner: {json.dumps(o)}, name: {json.dumps(n)}) '
+                         '{ nameWithOwner stargazerCount isArchived latestRelease { tagName publishedAt } }')
+        body=json.dumps({"query":"query { "+" ".join(parts)+" }"}).encode()
+        req=urllib.request.Request("https://api.github.com/graphql",data=body,method="POST",
+            headers={"Authorization":"Bearer "+tok,"Content-Type":"application/json","User-Agent":"trescout-refresh"})
+        try:
+            with urllib.request.urlopen(req,timeout=60) as r: d=json.loads(r.read().decode())
+        except Exception as e:
+            print(f"  ! GraphQL isteği başarısız ({e}) · tazeleme yarıda kesildi"); break
+        for v in (d.get("data") or {}).values():
+            if v and v.get("nameWithOwner"): out[v["nameWithOwner"].lower()]=v
+        time.sleep(1)   # nazik davran · ikincil sınıra takılma
+    return out
+
 def refresh(cat, by_slug, limit):
     """Yeniden gündeme girenler + en uzun süredir bakılmayanlar · üzerine YAZMAZ, tarihli katman ekler."""
     zengin=[c for c in cat if not c.get("lite")]
@@ -616,13 +640,19 @@ def refresh(cat, by_slug, limit):
         return (0 if c["slug"] in donen else 1, c.get("last_review") or c.get("date") or "")
     aday=sorted(zengin,key=oncelik) if limit<=0 else sorted(zengin,key=oncelik)[:limit]   # limit=0 → hepsi
     print(f"tazeleme · {len(donen)} yeniden gündemde · {len(aday)} kayıt incelenecek")
+    repolar={c["slug"]:page_repo(c["slug"]) for c in aday}
+    veri=gh_graphql([r for r in repolar.values() if r])
+    if not veri:
+        print("  ! depo verisi alınamadı (token yok ya da istek reddedildi) · tazeleme atlandı"); return
     n=0
     for c in aday:
-        repo=page_repo(c["slug"])
+        repo=repolar.get(c["slug"])
         if not repo: continue
-        info=gh_json("/repos/"+repo)
-        if not info: print(f"  ! {c['slug']}: depo okunamadı"); continue
-        rel=gh_json("/repos/"+repo+"/releases/latest") or {}
+        d=veri.get(repo.lower())
+        if not d: continue   # silinmiş/erişilemeyen depo
+        info={"full_name":d.get("nameWithOwner"),"stargazers_count":d.get("stargazerCount"),"archived":d.get("isArchived")}
+        r=d.get("latestRelease") or {}
+        rel={"tag_name":r.get("tagName"),"published_at":r.get("publishedAt")}
         eski=c.get("stars") or 0; yeni=info.get("stargazers_count") or 0
         son=(c.get("guncellemeler") or [{}])[-1]
         yeni_surum=rel.get("tag_name") and rel.get("tag_name")!=son.get("surum") and rel.get("tag_name")!=c.get("surum")
