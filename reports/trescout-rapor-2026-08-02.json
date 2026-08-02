@@ -1,0 +1,386 @@
+{
+  "date": "2026-08-02",
+  "editorial": "Bugün yazılım dünyasında temel seviye üretken yapay zekâ (generative AI) eğitimleri ile sistemli ticaret (systematic trading) algoritmaları arasındaki teknik boşluk hızla kapanıyor. Microsoft tarafından paylaşılan başlangıç rehberleri ve Copilot SDK gibi araçlar, geliştiricilerin otomasyon yeteneklerini (skill) kendi sistemlerine entegre etme süreçlerini standartlaştırıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "Microsoft tarafından hazırlanan AI For Beginners, yapay zekâ (artificial intelligence) alanına giriş yapmak isteyenler için 12 haftalık ve 24 dersten oluşan kapsamlı bir müfredat sunuyor. Eğitim materyalleri, etkileşimli kod blokları içeren Jupyter Notebook formatında hazırlanarak öğrenme sürecini uygulamalı hale getiriyor.",
+          "meta": "Jupyter Notebook · ★ 57.798 · +949 bugün"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "Sistematik ticaret (systematic trading) alanında kullanılan kütüphaneleri, stratejileri ve eğitim kaynaklarını bir araya getiren bu liste, yatırım süreçlerini otomatikleştirmek isteyenler için kapsamlı bir rehber sunuyor. Python tabanlı araçlara odaklanan bu derleme, finansal piyasalarda veri analizi ve geriye dönük test (backtesting) yapmak isteyen geliştiricilere teknik bir yol haritası sağlıyor.",
+          "meta": "Python · ★ 12.368 · +523 bugün"
+        },
+        {
+          "title": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "summary": "Kaneo, karmaşıklıktan arındırılmış, açık kaynaklı bir proje yönetimi aracıdır. Kullanıcıların iş akışlarını basitleştirmeye odaklanan bu yazılım, TypeScript diliyle geliştirilmiştir.",
+          "meta": "TypeScript · ★ 5.780 · +760 bugün"
+        },
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-skill, tersine mühendislik ve sızma testleri süreçlerini otomatize eden bir yapay zekâ destekli yetenek yönlendiricisidir. Claude Code ve Cursor gibi kodlama asistanlarıyla entegre çalışarak, ihtiyaç duyulan araç zincirini otomatik kurar ve kendi kendine gelişen bir bilgi tabanı sunar.",
+          "meta": "PowerShell · ★ 12.125 · +1.320 bugün"
+        },
+        {
+          "title": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "summary": "Microsoft tarafından hazırlanan bu eğitim içeriği, üretken yapay zekâ (generative AI) teknolojilerine giriş yapmak isteyenler için 21 derslik bir müfredat sunuyor. Jupyter Notebook formatındaki bu kaynak, geliştiricilerin kendi projelerini oluşturmaları için temel kavramları ve uygulama yöntemlerini öğretiyor.",
+          "meta": "Jupyter Notebook · ★ 114.349 · +108 bugün"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub tarafından sunulan Copilot SDK, geliştiricilerin yapay zekâ destekli kod asistanı GitHub Copilot'u kendi uygulama ve servislerine entegre etmelerini sağlıyor. Bu yazılım geliştirme kiti, farklı platformlarda yapay zekâ tabanlı iş akışları oluşturmayı kolaylaştırıyor.",
+          "meta": "Java · ★ 10.305 · +142 bugün"
+        },
+        {
+          "title": "github/gh-stack",
+          "url": "https://github.com/github/gh-stack",
+          "summary": "GitHub tarafından geliştirilen gh-stack, yazılım geliştirme sürecinde yığınlı çekme istekleri (stacked pull requests) oluşturmayı ve yönetmeyi kolaylaştıran bir komut satırı aracıdır. Karmaşık kod değişikliklerini küçük ve bağımsız parçalara bölerek inceleme sürecini hızlandırmayı hedefler.",
+          "meta": "Go · ★ 860 · +46 bugün"
+        },
+        {
+          "title": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "summary": "Hugging Face tarafından geliştirilen speech-to-speech, açık kaynaklı modeller kullanarak yerel ortamda çalışan sesli asistanlar (voice agents) oluşturmanızı sağlıyor. Bu kütüphane, bulut tabanlı servislere ihtiyaç duymadan gerçek zamanlı sesli etkileşim kuran uygulamalar geliştirilmesine olanak tanıyor.",
+          "meta": "Python · ★ 10.284 · +442 bugün"
+        },
+        {
+          "title": "abus-aikorea/voice-pro",
+          "url": "https://github.com/abus-aikorea/voice-pro",
+          "summary": "Voice-pro, metinden konuşmaya dönüştürme (TTS) ve sıfır örnekli ses kopyalama (zero-shot voice cloning) araçlarını bir araya getiren açık kaynaklı bir arayüzdür. Kullanıcılar, web tabanlı arayüzü üzerinden ses ayrıştırma, çok dilli çeviri ve YouTube içeriklerini işleme gibi işlemleri tek bir platformda gerçekleştirebilir.",
+          "meta": "Python · ★ 11.859 · +58 bugün"
+        },
+        {
+          "title": "iv-org/invidious",
+          "url": "https://github.com/iv-org/invidious",
+          "summary": "Invidious, YouTube platformuna alternatif olarak geliştirilen açık kaynaklı bir arayüzdür. Kullanıcılara reklam içermeyen ve veri takibi yapmayan bir video izleme deneyimi sunar.",
+          "meta": "Crystal · ★ 21.676 · +435 bugün"
+        },
+        {
+          "title": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "summary": "Ansible, uygulama dağıtımı ve sistem yönetimi süreçlerini otomatikleştiren açık kaynaklı bir BT otomasyon platformu. Uzak sistemlere herhangi bir yazılım kurmadan, SSH protokolü üzerinden basit bir dille yapılandırma ve yönetim işlemlerini gerçekleştiriyor.",
+          "meta": "Python · ★ 70.141 · +30 bugün"
+        },
+        {
+          "title": "microsoft/TRELLIS.2",
+          "url": "https://github.com/microsoft/TRELLIS.2",
+          "summary": "Microsoft tarafından geliştirilen TRELLIS, metin veya görsel girdilerini üç boyutlu (3D) modellere dönüştüren bir yapısal gizli temsil (structured latent) mimarisi. Bu teknoloji, yüksek kaliteli 3D varlıkları hızlı ve kompakt bir şekilde oluşturmak için üretken yapay zekâ (generative AI) yöntemlerini kullanıyor.",
+          "meta": "Python · ★ 9.992 · +107 bugün"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentCloud tarafından geliştirilen TencentDB Agent Memory, yapay zekâ ajanları için konuşmaları, belgeleri ve kodları yeniden kullanılabilir veri varlıklarına dönüştüren bir merkezdir. Bu sistem, farklı ajanlar arasında bilgi paylaşımını ve yönetişimi kolaylaştırarak iş akışlarını standartlaştırmayı hedefler.",
+          "meta": "TypeScript · ★ 10.416 · +227 bugün"
+        },
+        {
+          "title": "NomaDamas/k-skill",
+          "url": "https://github.com/NomaDamas/k-skill",
+          "summary": "NomaDamas/k-skill, yapay zekâ ajanlarına (AI agents) kültürel bağlamda yerel yetenekler kazandırmak için tasarlanmış bir kütüphane. Ajanların kullanıcılarla daha doğal ve kültürel kodlara uygun etkileşim kurmasını sağlayan özelleştirilmiş beceri setleri (skill sets) sunuyor.",
+          "meta": "JavaScript · ★ 6.780 · +53 bugün"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "ByteDance tarafından geliştirilen Deer-flow, uzun süreli karmaşık görevleri araştırma, kodlama ve içerik üretimi yoluyla gerçekleştiren bir süper ajan (SuperAgent) altyapısıdır. Kum havuzu (sandbox), hafıza ve alt ajanlar gibi bileşenleri kullanarak dakikalar veya saatler süren süreçleri otonom şekilde yönetir.",
+          "meta": "Python · ★ 78.814 · +209 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "How Google helped destroy adoption of RSS feeds (2023)",
+          "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+          "summary": "Google, 2013 yılında popüler içerik takip aracı Google Reader'ı kapatarak RSS beslemelerinin (Really Simple Syndication) internet üzerindeki yaygın kullanımını azalttı. Bu hamle, merkezi platformların öne çıktığı ve açık web standartlarının yerini kapalı algoritmaların aldığı bir içerik tüketim dönemini başlattı.",
+          "meta": "487 oy · 163 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49136821",
+              "popularity": 487,
+              "engagementCount": 163
+            }
+          ]
+        },
+        {
+          "title": "Diátaxis",
+          "url": "https://diataxis.fr/",
+          "summary": "Diátaxis, yazılım dokümantasyonunu öğrenme, pratik yapma, referans ve açıklama olmak üzere dört temel kategoriye ayıran sistematik bir çerçevedir. Bu yöntem, kullanıcıların ihtiyaçlarına göre yapılandırılmış içerik sunarak teknik belgelerin anlaşılabilirliğini artırmayı amaçlar.",
+          "meta": "277 oy · 38 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49138188",
+              "popularity": 277,
+              "engagementCount": 38
+            }
+          ]
+        },
+        {
+          "title": "Seedance 2.5",
+          "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+          "summary": "ByteDance tarafından geliştirilen video üretim aracı Seedance 2.5, kullanıcıların tek çekim videoları düzenlemesine ve referans görselleri kullanarak tutarlı içerikler oluşturmasına olanak tanıyor. Bu sürüm, yapay zekâ destekli video düzenleme (AI video editing) süreçlerinde esnek görsel kontrol ve yüksek doğruluklu sonuçlar sunuyor.",
+          "meta": "271 oy · 136 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49138302",
+              "popularity": 271,
+              "engagementCount": 136
+            }
+          ]
+        },
+        {
+          "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "summary": "Yapay zekâ modelleri, doğru yönlendirici sorular sorulduğunda kişisel finansal tavsiye konusunda yüksek doğruluk oranlarına ulaşıyor. Finansal okuryazarlık araçları, karmaşık ekonomik verileri analiz ederek bireyler için kişiselleştirilmiş stratejiler geliştirme potansiyeli taşıyor.",
+          "meta": "259 oy · 218 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49139102",
+              "popularity": 259,
+              "engagementCount": 218
+            }
+          ]
+        },
+        {
+          "title": "NetBSD 11.0",
+          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "summary": "NetBSD 11.0, yüksek taşınabilirlik odaklı açık kaynaklı işletim sistemi NetBSD'nin en güncel sürümüdür. Yeni sürüm, donanım desteğini genişletirken sistem güvenliğini ve performansını artıran çeşitli iyileştirmeler içeriyor.",
+          "meta": "255 oy · 115 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49136736",
+              "popularity": 255,
+              "engagementCount": 115
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/pvrnor/netbsd_11_0_released",
+              "popularity": 65,
+              "engagementCount": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K3, hem görsel hem de metin verilerini işleyebilen çok modlu bir yapay zekâ modeli (multimodal model). Kullanıcılara görsel içerikleri analiz etme ve metin tabanlı yanıtlar üretme imkânı sunuyor.",
+          "meta": "♥ 9.511 · 559.924 indirme"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek tarafından geliştirilen metin üretme modeli (text-generation model) DeepSeek-V4-Flash-0731, yüksek performanslı dil işleme görevleri için optimize edilmiş bir yapı sunuyor. Hugging Face üzerinde paylaşılan bu model, hızlı yanıt üretme süreçlerine odaklanan geliştiriciler için alternatif bir seçenek oluşturuyor.",
+          "meta": "♥ 1.486 · 15.366 indirme"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion, görsel ve metin verilerini işleyebilen çok modlu bir yapay zekâ modeli (multimodal model). Açık kaynaklı modellerin barındırıldığı platform HuggingFace üzerinde sunulan bu çalışma, sansürsüz içerik üretimi ve farklı veri türlerini birleştirme yeteneklerine odaklanıyor.",
+          "meta": "♥ 1.249 · 1.173.001 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsellerdeki metinleri işleyerek metin tabanlı çıktıya dönüştüren bir görüntüden metne (image-to-text) modelidir. Karmaşık dokümanlardaki verileri dijital formata aktarmak için tasarlanmış bir yapay zekâ çözümüdür.",
+          "meta": "♥ 3.720 · 2.457.387 indirme"
+        },
+        {
+          "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "summary": "Unsloth, büyük dil modellerini optimize eden bir kütüphane, DeepSeek-V4 modelini daha hızlı ve düşük bellek kullanımıyla çalıştırmak için GGUF formatında sıkıştırılmış bir sürümünü yayımladı. Bu çalışma, yüksek performanslı modellerin tüketici sınıfı donanımlarda daha verimli çalışmasını sağlıyor.",
+          "meta": "♥ 297 · 4.048 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models",
+          "url": "https://huggingface.co/papers/2607.23193",
+          "summary": "OmniScope, çok modlu büyük dil modellerinde (omnimodal large language models) kullanılan belirteç sıkıştırma (token compression) yöntemlerindeki veri kaybı sorununu çözmeyi amaçlıyor. Farklı modların aynı sorgu için farklı anlarda önem kazandığını belirten bu çerçeve, eğitim gerektirmeyen yapısıyla kritik bilgilerin korunmasını sağlıyor.",
+          "meta": "3 beğeni · 2 yorum"
+        },
+        {
+          "title": "β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
+          "url": "https://huggingface.co/papers/2607.28582",
+          "summary": "β-OPSD, dil modellerinde akıl yürütme yeteneğini geliştiren öz damıtma (self-distillation) yöntemini optimize edilebilir bir parametre olan beta değeri üzerinden yeniden tanımlıyor. Bu yaklaşım, öğrenci modelin referans modele olan bağlılığını kontrol ederek eğitim sürecindeki kararsızlığı azaltmayı hedefliyor.",
+          "meta": "18 beğeni · 2 yorum"
+        },
+        {
+          "title": "Beyond Geometric Complementarity: Coherent Overlap in Sparse Mixture-of-Experts Routing",
+          "url": "https://huggingface.co/papers/2607.28308",
+          "summary": "Seyrek uzman karışımı (sparse mixture-of-experts) dil modellerinde tokenların farklı uzmanlara yönlendirilme mekanizması, uzman alt uzayı ayrıştırma endeksi (ESSI) kullanılarak inceleniyor. Araştırma, uzmanların seçimindeki tutarlılık ile model performansına olan katkılarını birbirinden ayırarak yönlendirme stratejilerini daha net tanımlıyor.",
+          "meta": "2 beğeni · 2 yorum"
+        },
+        {
+          "title": "Fairness Pruning: Locating Demographic Bias in GLU-MLP Layers via Differential Activations",
+          "url": "https://huggingface.co/papers/2607.28319",
+          "summary": "Fairness Pruning, büyük dil modellerindeki (LLM) demografik önyargıları tespit etmek ve gidermek için geliştirilen yapısal bir müdahale yöntemidir. Yöntem, GLU mimarisine sahip modellerde belirli demografik niteliklere farklı tepki veren nöronları, çıkarım sırasındaki aktivasyon farklarını analiz ederek belirler.",
+          "meta": "2 beğeni · 3 yorum"
+        },
+        {
+          "title": "Σ-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems",
+          "url": "https://huggingface.co/papers/2607.27958",
+          "summary": "Σ-Mem, büyük dil modelleri (large language models) tabanlı çoklu ajan sistemlerinde ajanların birbirlerine olan güvenilirliğini takip eden bir bellek mekanizmasıdır. Sistem, ajanların geçmiş performanslarını ve yetkinlik kanıtlarını kaydederek karmaşık iş akışlarında daha güvenilir iş birliği yapılmasını sağlar.",
+          "meta": "12 beğeni · 2 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": [
+        {
+          "title": "topoteretes/cognee v1.4.1",
+          "url": "https://github.com/topoteretes/cognee/releases/tag/v1.4.1",
+          "summary": "Veri işleme ve bellek yönetimi aracı Cognee, 1.4.1 sürümüyle arama alaka düzeyini artırarak veri giriş süreçlerini daha kararlı hale getiriyor. Güncelleme, bellek kullanımını ve gecikme sürelerini düşürerek sistemin genel çalışma performansını iyileştiriyor.",
+          "meta": "★ 29.679"
+        },
+        {
+          "title": "MadsLorentzen/ai-job-search v1.2.0",
+          "url": "https://github.com/MadsLorentzen/ai-job-search/releases/tag/v1.2.0",
+          "summary": "Açık kaynaklı iş arama aracı ai-job-search, 1.2.0 sürümüyle kullanıcıların kişisel verilerini korumaya yönelik güvenlik güncellemeleri getirdi. Güncelleme, GitHub üzerinde oluşturulan çatalların (fork) varsayılan olarak herkese açık olduğunu vurgulayarak, kişisel bilgilerin güvenli bir şekilde saklanması için özel depo (private repository) kullanımını zorunlu kılıyor.",
+          "meta": "★ 29.142"
+        },
+        {
+          "title": "karakeep-app/karakeep v0.33.1",
+          "url": "https://github.com/karakeep-app/karakeep/releases/tag/v0.33.1",
+          "summary": "Yer imi yöneticisi Karakeep, yeni sürümüyle birlikte anlam tabanlı arama yapmayı sağlayan anlamsal arama (semantic search) özelliğini kullanıma sundu. Mobil uygulamasına çevrimdışı okuma desteği ve pano üzerinden tek dokunuşla kaydetme gibi işlevler ekleyen güncelleme, genel performans iyileştirmeleriyle birlikte geliyor.",
+          "meta": "★ 27.992"
+        },
+        {
+          "title": "1jehuang/jcode v0.65.0",
+          "url": "https://github.com/1jehuang/jcode/releases/tag/v0.65.0",
+          "summary": "Kod düzenleme aracı jcode, yeni sürümüyle birlikte kesintisiz otomatik güncelleme desteği ve terminal tabanlı arayüzünde (TUI) daha kararlı bir çalışma deneyimi sunuyor. Kullanıcılar artık üzerinde çalıştıkları görevleri ekranın üst kısmına sabitleyebilir ve geliştirilmiş oturum yönetimiyle farklı komut satırı arayüzlerinden gelen verileri daha düzenli görüntüleyebilir.",
+          "meta": "★ 15.011"
+        },
+        {
+          "title": "oblien/openship v0.5.0",
+          "url": "https://github.com/oblien/openship/releases/tag/v0.5.0",
+          "summary": "Açık kaynaklı kargo takip aracı OpenShip, 0.5.0 sürümüyle birlikte yeni özellikler ve iyileştirmeler sunuyor. Farklı lojistik servislerini tek bir arayüzde birleştiren bu platform, gönderi takibini merkezi hale getirmeyi amaçlıyor.",
+          "meta": "★ 10.117"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "An old-new take on argument parsing in Rust",
+          "url": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
+          "summary": "Rust programlama dilinde komut satırı argümanlarını ayrıştırma (argument parsing) süreci, geliştiricilerin daha basit ve doğrudan yöntemlere yönelmesiyle yeniden değerlendiriliyor. Bu yaklaşım, karmaşık kütüphaneler yerine standart veya hafif araçları kullanarak kod tabanındaki bağımlılıkları azaltmayı hedefliyor.",
+          "meta": "19 oy · 5 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/vrd28h/old_new_take_on_argument_parsing_rust",
+              "popularity": 19,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Resigning from Arch Linux",
+          "url": "https://linderud.dev/blog/resigning-from-arch-linux/",
+          "summary": "Arch Linux geliştiricisi Lukas Märdian, dağıtımın yönetim ekibindeki görevinden ayrıldığını duyurdu. Bu karar, dağıtımın geliştirme süreçlerinde yaşanan yapısal değişiklikler ve kişisel önceliklerin değişmesiyle gerekçelendiriliyor.",
+          "meta": "24 oy · 1 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ectcmr/resigning_from_arch_linux",
+              "popularity": 24,
+              "engagementCount": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "artificial intelligence",
+      "explanation": "Bilgisayarların insanlar gibi öğrenme, karar verme ve problem çözme yeteneği kazanması."
+    },
+    {
+      "term": "systematic trading",
+      "explanation": "Borsa işlemlerinin duygulardan arındırılmış, önceden belirlenmiş matematiksel kurallara göre otomatik yapılması."
+    },
+    {
+      "term": "backtesting",
+      "explanation": "Bir yatırım stratejisinin geçmişteki veriler kullanılarak ne kadar başarılı olacağının test edilmesi."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Mevcut verileri kullanarak yeni metin, görsel veya ses gibi içerikler üretebilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "stacked pull requests",
+      "explanation": "Büyük bir yazılım değişikliğini, birbirine bağlı küçük ve yönetilebilir parçalar halinde sırayla sisteme ekleme yöntemi."
+    },
+    {
+      "term": "voice agents",
+      "explanation": "Sesli komutları anlayıp yanıt veren, insanlarla konuşarak etkileşim kuran dijital yardımcılar."
+    },
+    {
+      "term": "TTS",
+      "explanation": "Yazılı metinlerin bilgisayar tarafından doğal bir insan sesiyle seslendirilmesi teknolojisi."
+    },
+    {
+      "term": "zero-shot voice cloning",
+      "explanation": "Bir kişinin sesini sadece birkaç saniyelik örnekten kopyalayarak, o kişinin hiç söylemediği cümleleri söyletme teknolojisi."
+    },
+    {
+      "term": "structured latent",
+      "explanation": "Karmaşık verilerin, yapay zekânın daha kolay anlayabileceği düzenli ve anlamlı bir matematiksel forma dönüştürülmesi."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar alıp hedeflenen görevleri yerine getirmek için araçları kullanabilen otonom yazılımlar."
+    },
+    {
+      "term": "skill sets",
+      "explanation": "Bir kişinin veya yapay zekânın belirli bir işi yapmak için sahip olduğu yetenekler bütünü."
+    },
+    {
+      "term": "SuperAgent",
+      "explanation": "Birden fazla karmaşık görevi aynı anda yönetebilen ve farklı sistemlerle entegre çalışabilen gelişmiş yapay zekâ yazılımı."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Yazılımların ana sisteme zarar vermeden güvenle test edilebildiği izole edilmiş çalışma ortamı."
+    },
+    {
+      "term": "Really Simple Syndication",
+      "explanation": "Web sitelerindeki güncellemelerin veya haberlerin tek bir yerden takip edilmesini sağlayan içerik dağıtım sistemi."
+    },
+    {
+      "term": "AI video editing",
+      "explanation": "Videolardaki kesme, efekt ekleme veya görüntü iyileştirme gibi işlemleri yapay zekâ yardımıyla otomatik yapma süreci."
+    },
+    {
+      "term": "multimodal model",
+      "explanation": "Sadece metni değil, aynı zamanda görüntü, ses ve video gibi farklı veri türlerini aynı anda işleyebilen yapay zekâ modeli."
+    }
+  ]
+}
