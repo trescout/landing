@@ -1348,7 +1348,7 @@
     ],
     "stars": 7528,
     "lite": false,
-    "headline": "yapay zekâ ile siber tehditleri görselleştirin",
+    "headline": "Çizge tabanlı siber tehdit görselleştirme",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -1358,7 +1358,8 @@
         "surum": "v1.2.11",
         "surum_tarihi": "2026-07-01"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "production-agentic-rag-course",
@@ -1440,7 +1441,8 @@
     ],
     "stars": 35511,
     "lite": false,
-    "headline": "Konteyner ve Bulut Güvenliğinizi yapay zekâ ile Koruyun"
+    "headline": "Konteyner ve bulut güvenlik tarayıcısı",
+    "headline_locked": true
   },
   {
     "slug": "hermes-agent",
@@ -1507,8 +1509,9 @@
     ],
     "stars": 52082,
     "lite": false,
-    "headline": "İş süreçlerinizi yapay zekâ ile yönetin",
-    "last_review": "2026-08-02"
+    "headline": "Açık kaynaklı kurumsal kaynak planlama",
+    "last_review": "2026-08-02",
+    "headline_locked": true
   },
   {
     "slug": "coding-interview-university",
@@ -1861,7 +1864,7 @@
     ],
     "stars": 69813,
     "lite": false,
-    "headline": "Veri Tahmininde Evrensel yapay zekâ",
+    "headline": "Veri tahmininde sürü zekâsı motoru",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -1871,7 +1874,8 @@
         "surum": "v0.1.2",
         "surum_tarihi": "2026-03-07"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "plugins",
@@ -2012,7 +2016,7 @@
     ],
     "stars": 31312,
     "lite": false,
-    "headline": "Web Sunucunuzu yapay zekâyla Hızlandırın",
+    "headline": "Yüksek performanslı web sunucusu ve ters vekil",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -2022,7 +2026,8 @@
         "surum": "release-1.31.3",
         "surum_tarihi": "2026-07-15"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "go",
@@ -2154,8 +2159,9 @@
     ],
     "stars": 641,
     "lite": false,
-    "headline": "yapay zekâ ile güvenli sistem yalıtımı",
-    "last_review": "2026-08-02"
+    "headline": "Rust ile politika tabanlı katmanlı sistem yalıtımı",
+    "last_review": "2026-08-02",
+    "headline_locked": true
   },
   {
     "slug": "vibevoice",
@@ -2328,7 +2334,7 @@
     ],
     "stars": 14575,
     "lite": false,
-    "headline": "Yüksek performanslı yapay zekâ vektör dizini",
+    "headline": "Rust ile yüksek performanslı vektör dizini",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -2336,7 +2342,8 @@
         "yildiz": 14575,
         "onceki_yildiz": 7703
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "chinatextbook",
@@ -2351,8 +2358,9 @@
     ],
     "stars": 72765,
     "lite": false,
-    "headline": "Çin eğitim müfredatına yapay zekâ ile erişin",
-    "last_review": "2026-08-02"
+    "headline": "Çin eğitim müfredatı ve ders kitapları",
+    "last_review": "2026-08-02",
+    "headline_locked": true
   },
   {
     "slug": "tolaria",
@@ -2367,7 +2375,7 @@
     ],
     "stars": 19219,
     "lite": false,
-    "headline": "Markdown notlarınızı yapay zekâ ile düzenleyin",
+    "headline": "Markdown bilgi tabanı masaüstü uygulaması",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -2377,7 +2385,8 @@
         "surum": "v2027-07-31",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "ghosttrack",
@@ -2423,7 +2432,7 @@
     ],
     "stars": 2716,
     "lite": false,
-    "headline": "PostgreSQL ile yapay zekâ süreçlerini yönetin",
+    "headline": "PostgreSQL üzerinde dayanıklı süreç yönetimi",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -2433,7 +2442,8 @@
         "surum": "v0.2.5",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "skills",
@@ -2524,7 +2534,7 @@
     ],
     "stars": 48545,
     "lite": false,
-    "headline": "Bilgisayarlı görü projelerinizi yapay zekâ ile hızlandırın",
+    "headline": "Bilgisayarlı görü projeleri için araçlar",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -2534,7 +2544,8 @@
         "surum": "0.29.1",
         "surum_tarihi": "2026-06-23"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "claude-howto",
@@ -2618,7 +2629,7 @@
     ],
     "stars": 8905,
     "lite": false,
-    "headline": "Wi-Fi ile yapay zekâ destekli hareket algılama",
+    "headline": "Wi-Fi sinyalleri ile hareket algılama",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -2628,7 +2639,8 @@
         "surum": "2.8.0",
         "surum_tarihi": "2026-05-21"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "agent-skills",
@@ -2694,7 +2706,7 @@
     ],
     "stars": 6870,
     "lite": false,
-    "headline": "yapay zekâ ile sansürleri aşın",
+    "headline": "DNS tünelleme ile sansür engellerini aşın",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -2704,7 +2716,8 @@
         "surum": "v2026.06.13.234407-7de2476",
         "surum_tarihi": "2026-06-13"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "hivemind",
@@ -2920,7 +2933,7 @@
     ],
     "stars": 10048,
     "lite": false,
-    "headline": "Kariyer ve Tercih Rehberiniz yapay zekâ",
+    "headline": "Kariyer ve üniversite tercihi rehberi",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -2928,7 +2941,8 @@
         "yildiz": 10048,
         "onceki_yildiz": 8114
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "sia",
@@ -2995,7 +3009,7 @@
     ],
     "stars": 49405,
     "lite": false,
-    "headline": "İnternet sansürünü yapay zekâ ile aşın",
+    "headline": "Kotlin ile internet sansürünü aşın",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -3005,7 +3019,8 @@
         "surum": "FQNews-v1.3.8",
         "surum_tarihi": "2024-08-18"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "server",
@@ -3020,7 +3035,7 @@
     ],
     "stars": 2913,
     "lite": false,
-    "headline": "Dijital müzik kütüphanenizi tek merkezden yönetin",
+    "headline": "Açık kaynaklı dijital müzik sunucusu",
     "cmds": {
       "kurulum": [
         {
@@ -3039,7 +3054,8 @@
         "surum": "2.9.10",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "iptv",
@@ -3566,7 +3582,7 @@
     ],
     "stars": 15356,
     "lite": false,
-    "headline": "Uygulama içi hızlı yapay zekâ veritabanı",
+    "headline": "Hızlı uygulama içi vektör veritabanı",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -3576,7 +3592,8 @@
         "surum": "v0.6.0",
         "surum_tarihi": "2026-07-20"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "openwa",
@@ -4972,7 +4989,7 @@
     ],
     "stars": 10091,
     "lite": false,
-    "headline": "SEO verilerini yapay zekâ ile yönetin",
+    "headline": "Açık kaynaklı SEO veri ve analiz platformu",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -4982,7 +4999,8 @@
         "surum": "v0.1.3",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "agent-toolkit-for-aws",
@@ -5735,7 +5753,7 @@
     ],
     "stars": 7250,
     "lite": false,
-    "headline": "Kendi sunucunuzda modern yapay zekâ destekli CMS",
+    "headline": "Kendi sunucunuzda modern görsel CMS",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -5745,7 +5763,8 @@
         "surum": "v0.0.14",
         "surum_tarihi": "2026-07-28"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "ai-for-beginners",
@@ -7716,7 +7735,7 @@
     ],
     "stars": 2952,
     "lite": false,
-    "headline": "açık kaynak profesyonel yapay zekâ video düzenleyici",
+    "headline": "Açık kaynaklı masaüstü video düzenleyici",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -7726,7 +7745,8 @@
         "surum": "v1.2.1",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "grok2api",
@@ -8845,7 +8865,7 @@
     ],
     "stars": 20906,
     "lite": false,
-    "headline": "yapay zekâ ajanlarıyla ortak çalışma alanı",
+    "headline": "Merkeziyetsiz kovan zihni iletişim platformu",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -8855,7 +8875,8 @@
         "surum": "desktop-v0.5.3",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "ego-lite",
@@ -9130,7 +9151,7 @@
     ],
     "stars": 14262,
     "lite": false,
-    "headline": "Kendi sunucunuzda kişisel yapay zekâ destekli VPN",
+    "headline": "Kendi sunucunuzda kişisel VPN istemcisi",
     "last_review": "2026-08-02",
     "guncellemeler": [
       {
@@ -9140,7 +9161,8 @@
         "surum": "5.0.0.5",
         "surum_tarihi": "2026-07-26"
       }
-    ]
+    ],
+    "headline_locked": true
   },
   {
     "slug": "geolibre",
