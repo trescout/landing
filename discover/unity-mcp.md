@@ -2,11 +2,12 @@
 
 Unity MCP, büyük dil modelleri (large language models) ile Unity düzenleyicisi arasında bir köprü kurarak varlık yönetimi, sahne kontrolü ve kod düzenleme süreçlerinin otomatize edilmesini sağlıyor. Model Sunucu Protokolü (Model Context Protocol) aracılığıyla çalışan bu araç, yapay zekâ asistanlarının oyun geliştirme iş akışlarına doğrudan müdahale etmesine imkân tanıyor.
 
-- ★ 13.064
+- ★ 13.091
 - C#
 - GitHub Trending · 2026-07-05
 
 ## Güncelleme
+- 3 Ağustos 2026: Yıldız 13.064 → 13.091, son sürüm v10.1.2 (2 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 11.702 → 13.064, son sürüm v10.1.0 (13 Temmuz 2026).
 
 ## Ne kazandırır?

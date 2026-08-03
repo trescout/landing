@@ -3218,5 +3218,12 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bilgisayarın çekirdeğine (kernel) müdahale etmeden, kullanıcı uygulamalarının çalıştığı güvenli alan."
+  },
+  {
+    "slug": "ide",
+    "en": "IDE",
+    "full": "Integrated Development Environment",
+    "cat": "dev",
+    "kisa": "Yazılımcıların kod yazarken ihtiyaç duyduğu tüm araçları tek bir çatı altında toplayan gelişmiş bir çalışma ortamıdır."
   }
 ]

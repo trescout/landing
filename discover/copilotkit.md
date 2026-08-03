@@ -2,11 +2,12 @@
 
 CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz yığını (frontend stack) sunuyor. AG-UI protokolü üzerinden uygulamalara akıllı yetenekler entegre edilmesini sağlayan bir altyapı sağlıyor.
 
-- ★ 36.405
+- ★ 36.415
 - TypeScript
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
+- 3 Ağustos 2026: Yıldız 36.405 → 36.415, son sürüm v1.65.0 (3 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 32.818 → 36.405, son sürüm v1.64.2 (31 Temmuz 2026).
 
 ## Ne kazandırır?

@@ -2335,7 +2335,7 @@
     "slug": "llama-cpp",
     "title": "Llama.cpp",
     "tagline": "Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını…",
-    "meta": "★ 122.500 · C++",
+    "meta": "★ 122.512 · C++",
     "image": "/assets/discover/og/llama-cpp.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -2343,7 +2343,7 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 122500,
+    "stars": 122512,
     "lite": false,
     "headline": "yapay zekâ modellerini bilgisayarınızda çalıştırın",
     "last_review": "2026-08-03",
@@ -2360,6 +2360,13 @@
         "yildiz": 122500,
         "onceki_yildiz": 122424,
         "surum": "b10236",
+        "surum_tarihi": "2026-08-03"
+      },
+      {
+        "tarih": "2026-08-03",
+        "yildiz": 122512,
+        "onceki_yildiz": 122500,
+        "surum": "b10237",
         "surum_tarihi": "2026-08-03"
       }
     ]
@@ -2391,17 +2398,24 @@
     "slug": "chinatextbook",
     "title": "ChinaTextbook",
     "tagline": "ChinaTextbook deposu, ilkokuldan üniversite seviyesine kadar Çin eğitim müfredatında kullanılan ders kitaplarının taşınabilir…",
-    "meta": "★ 72.765 · Roff",
+    "meta": "★ 76.412 · Roff",
     "image": "/assets/discover/og/chinatextbook.webp",
     "source": "GitHub",
     "date": "2026-06-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 72765,
+    "stars": 76412,
     "lite": false,
     "headline": "Çin eğitim müfredatına yapay zekâ ile erişin",
-    "last_review": "2026-08-03"
+    "last_review": "2026-08-03",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-03",
+        "yildiz": 76412,
+        "onceki_yildiz": 72765
+      }
+    ]
   },
   {
     "slug": "tolaria",
@@ -6409,14 +6423,14 @@
     "slug": "folia-major",
     "title": "Folia Major",
     "tagline": "Folia-major, yerel müzik dosyaları ve çevrimiçi platformlar için görselleştirilmiş şarkı sözü animasyonları sunan bir oynatıcı…",
-    "meta": "★ 1.598 · TypeScript",
+    "meta": "★ 1.602 · TypeScript",
     "image": "/assets/discover/og/folia-major.webp",
     "source": "GitHub",
     "date": "2026-07-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 1598,
+    "stars": 1602,
     "lite": false,
     "headline": "Müzik deneyimini görselleştiren şarkı oynatıcı",
     "needs_enrichment": true,
@@ -6429,6 +6443,13 @@
         "onceki_yildiz": 1034,
         "surum": "v0.6.10",
         "surum_tarihi": "2026-08-02"
+      },
+      {
+        "tarih": "2026-08-03",
+        "yildiz": 1602,
+        "onceki_yildiz": 1598,
+        "surum": "v0.6.11",
+        "surum_tarihi": "2026-08-03"
       }
     ]
   },

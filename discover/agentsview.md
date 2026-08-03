@@ -2,11 +2,12 @@
 
 Agentsview, kodlama ajanları için yerel öncelikli (local-first) oturum zekası ve analitik verileri sunan bir izleme aracıdır. Claude Code ve Codex dahil yirmiden fazla ajanı destekleyen bu yazılım, ccusage aracına kıyasla daha hızlı bir performans vadediyor.
 
-- ★ 4.672
+- ★ 4.683
 - Go
 - GitHub Trending · 2026-06-12
 
 ## Güncelleme
+- 3 Ağustos 2026: Yıldız 4.672 → 4.683, son sürüm v0.40.0 (3 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 1.867 → 4.672, son sürüm v0.39.0 (27 Temmuz 2026).
 
 ## Ne kazandırır?
