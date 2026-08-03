@@ -1,0 +1,359 @@
+{
+  "date": "2026-08-03",
+  "editorial": "Bugün yazılım geliştirme süreçlerinde hız odaklı modellerin (speed-oriented models) zekâ kapasitesinin önüne geçtiği ve veri yapılarındaki güvenilirlik sorunlarının tartışıldığı bir gün. Özellikle DeepSeek ve Qwen gibi yeni nesil modellerin kodlama performansındaki yükselişi, büyük dil modellerinin (LLM) güvenlik açıklarına dair teknik makalelerle dengeleniyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "Microsoft tarafından hazırlanan AI-For-Beginners, 12 haftalık bir müfredatla yapay zekâ temellerini öğreten açık kaynaklı bir eğitim programı. Etkileşimli kod dosyaları (Jupyter Notebook) üzerinden teorik bilgileri pratik uygulamalarla destekleyerek öğrenme sürecini kolaylaştırıyor.",
+          "meta": "Jupyter Notebook · ★ 59.742 · +2.629 bugün"
+        },
+        {
+          "title": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "summary": "Kaneo, karmaşıklıktan arındırılmış, açık kaynaklı bir proje yönetim aracıdır. Kullanıcıların iş akışlarını basitleştirmeye odaklanan bu yazılım, Jira gibi geleneksel proje takip platformlarına alternatif bir deneyim sunar.",
+          "meta": "TypeScript · ★ 6.372 · +496 bugün"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM, 70 milyar parametreli büyük dil modellerini (large language models) sadece 4 GB belleğe sahip grafik işlemcilerde (GPU) çalıştırmanıza olanak tanır. Bu kütüphane, yüksek bellek gerektiren yapay zekâ modellerini sınırlı donanım kaynaklarıyla kullanmak isteyenler için bir çözüm sunar.",
+          "meta": "Jupyter Notebook · ★ 25.971 · +819 bugün"
+        },
+        {
+          "title": "iv-org/invidious",
+          "url": "https://github.com/iv-org/invidious",
+          "summary": "Invidious, YouTube platformuna alternatif bir arayüz sunan açık kaynaklı bir yazılım. Kullanıcıların video izleme deneyimini reklam içermeyen ve veri takibinden arındırılmış bir yapıda sunmayı amaçlıyor.",
+          "meta": "Crystal · ★ 22.071 · +305 bugün"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X, popüler yazılım teknolojilerini sıfırdan inşa ederek programlama becerilerini geliştirmeyi sağlayan bir öğrenme kaynağıdır. Veritabanı, işletim sistemi veya arama motoru gibi karmaşık sistemlerin nasıl çalıştığını uygulamalı projelerle öğretir.",
+          "meta": "Markdown · ★ 535.205 · +674 bugün"
+        },
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-skill, tersine mühendislik ve sızma testi süreçleri için yapay zekâ destekli bir yetenek yönlendiricisi sunuyor. Claude Code ve Cursor gibi kodlama asistanlarıyla entegre çalışan bu araç, ihtiyaç duyulan güvenlik araçlarını otomatik olarak kuruyor ve kendi bilgi tabanını sürekli güncelliyor.",
+          "meta": "PowerShell · ★ 14.299 · +1.141 bugün"
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork, yazılım geliştirme süreçlerini otomatize eden yapay zekâ asistanı Claude Cowork'un açık kaynaklı bir alternatifidir. Opencode altyapısını kullanan bu araç, geliştiricilere kendi projelerinde özelleştirilebilir bir kodlama asistanı (coding assistant) kullanma imkânı tanır.",
+          "meta": "TypeScript · ★ 20.503 · +280 bugün"
+        },
+        {
+          "title": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "summary": "Microsoft tarafından hazırlanan bu eğitim serisi, üretken yapay zekâ (generative AI) teknolojilerine giriş yapmak isteyenler için 21 derslik bir müfredat sunuyor. Jupyter Notebook formatındaki içerik, katılımcıların kendi uygulamalarını geliştirmeleri için gerekli temel kavramları ve teknik becerileri öğretiyor.",
+          "meta": "Jupyter Notebook · ★ 115.026 · +588 bugün"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach, yapay zekâ ajanlarına internet üzerindeki popüler platformlarda arama yapma ve içerik okuma yeteneği kazandıran bir komut satırı arayüzü (CLI). Kullanıcılara herhangi bir uygulama programlama arayüzü (API) ücreti ödemeden Twitter, Reddit ve GitHub gibi platformlardan veri çekme imkânı sunuyor.",
+          "meta": "Python · ★ 65.059 · +659 bugün"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentCloud tarafından geliştirilen TencentDB Agent Memory, yapay zekâ ajanları için konuşmaları, belgeleri ve kodları yeniden kullanılabilir veri varlıklarına dönüştüren bir takım seviyesinde bellek merkezi. TypeScript ile yazılan bu araç, farklı ajanlar ve çerçeveler arasında bilgi paylaşımını ve yönetişimi standartlaştırmayı amaçlıyor.",
+          "meta": "TypeScript · ★ 11.428 · +602 bugün"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, Reddit, X, YouTube ve Hacker News gibi platformlarda güncel konu araştırması yapan bir yapay zekâ yeteneği (AI skill) olarak tasarlandı. Python tabanlı bu araç, farklı kaynaklardan topladığı verileri analiz ederek kullanıcıya doğrulanabilir bir özet sunuyor.",
+          "meta": "Python · ★ 57.008 · +206 bugün"
+        },
+        {
+          "title": "NomaDamas/k-skill",
+          "url": "https://github.com/NomaDamas/k-skill",
+          "summary": "K-skill, yapay zekâ ajanlarını (AI agents) Kore kültürü ve dil yapısına göre özelleştiren bir yetenek kütüphanesidir. Geliştiricilerin yerel bağlamlara uygun etkileşimler tasarlamasını sağlayan JavaScript tabanlı bir araç setidir.",
+          "meta": "JavaScript · ★ 6.937 · +177 bugün"
+        },
+        {
+          "title": "HarbourMasters/Lighthouse",
+          "url": "https://github.com/HarbourMasters/Lighthouse",
+          "summary": "Lighthouse, C diliyle geliştirilmiş, düşük seviyeli sistemler için tasarlanmış bir kod kapsama (code coverage) aracıdır. Yazılımın test süreçlerinde hangi kod bloklarının çalıştırıldığını analiz ederek geliştiricilere hata ayıklama ve performans optimizasyonu konusunda veri sağlar.",
+          "meta": "C · ★ 259 · +65 bugün"
+        },
+        {
+          "title": "antirez/ds4",
+          "url": "https://github.com/antirez/ds4",
+          "summary": "Redis'in yaratıcısı Salvatore Sanfilippo tarafından geliştirilen ds4, DeepSeek modellerini yerel donanımlar üzerinde çalıştırmayı sağlayan bir çıkarım motoru (inference engine). C diliyle yazılan bu araç, Metal, CUDA ve ROCm desteği sayesinde farklı grafik işlemcilerinde yüksek performanslı model çalıştırma imkânı sunuyor.",
+          "meta": "C · ★ 20.117 · +139 bugün"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel alan bir yapay zekâ kodlama ajanıdır. Önek önbelleği (prefix-cache) kararlılığına odaklanan bu araç, geliştiricilerin uzun süreli oturumlarda kesintisiz kodlama desteği almasını sağlar.",
+          "meta": "Go · ★ 29.369 · +333 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Karpathy’s Pelican",
+          "url": "https://twitter.com/karpathy/status/2083749667410727319",
+          "summary": "Andrej Karpathy tarafından geliştirilen Pelican, statik site oluşturucu (static site generator) olarak basit ve hızlı bir içerik yönetimi sunuyor. Python tabanlı bu araç, karmaşık yapılandırmalar yerine metin dosyalarını doğrudan web sayfasına dönüştürmeye odaklanıyor.",
+          "meta": "538 oy · 376 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49140998",
+              "popularity": 538,
+              "engagementCount": 376
+            }
+          ]
+        },
+        {
+          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "summary": "Alibaba tarafından geliştirilen büyük dil modeli Qwen3.8-Max, yazılım geliştirme süreçlerinde kod yazma ve iş birliği yeteneklerini ileri bir seviyeye taşıyor. Model, karmaşık programlama görevlerinde yüksek doğruluk ve verimli çalışma performansı sunarak geliştirici araçları (IDE) için yeni bir standart belirliyor.",
+          "meta": "415 oy · 172 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49150470",
+              "popularity": 415,
+              "engagementCount": 172
+            }
+          ]
+        },
+        {
+          "title": "How the words we teach English language learners changed",
+          "url": "https://pudding.cool/2026/07/essential-words/",
+          "summary": "The Pudding tarafından hazırlanan görselleştirme, İngilizce öğrenenler için hazırlanan ders kitaplarında kullanılan kelime dağarcığının zaman içindeki değişimini inceliyor. Çalışma, öğretim materyallerinin kültürel ve dilsel önceliklerinin on yıllar içinde nasıl farklılaştığını veri odaklı bir yaklaşımla ortaya koyuyor.",
+          "meta": "208 oy · 156 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49145590",
+              "popularity": 208,
+              "engagementCount": 156
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+          "url": "https://github.com/wie-project/kakehashi",
+          "summary": "Kakehashi, macOS ikili dosyalarını (binary) Linux ARM mimarisinde çalıştırmayı sağlayan deneysel bir kullanıcı alanı (userspace) aracıdır. Apple işletim sistemi uygulamalarını farklı bir çekirdek üzerinde çalıştırmak için gerekli çeviri katmanını oluşturmayı hedefler.",
+          "meta": "208 oy · 50 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49145937",
+              "popularity": 208,
+              "engagementCount": 50
+            }
+          ]
+        },
+        {
+          "title": "Developers are attached to tools because tools encode trust",
+          "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+          "summary": "Yazılımcıların kullandıkları araçlara duyduğu bağlılık, bu araçların iş akışlarında güven ve öngörülebilirlik sağlamasından kaynaklanıyor. Geliştiriciler, teknik bir çözümün (tool) sunduğu standartları ve güvenilirliği, kişisel verimliliklerini korumak adına temel bir referans noktası olarak görüyor.",
+          "meta": "193 oy · 104 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49097961",
+              "popularity": 193,
+              "engagementCount": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K3, hem görsel hem de metin verilerini işleyebilen çok modlu (multimodal) bir yapay zekâ modeli. Kullanıcılara karmaşık görüntüleri analiz etme ve metin tabanlı komutlarla etkileşim kurma imkânı tanıyor.",
+          "meta": "♥ 9.708 · 837.202 indirme"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, DeepSeek tarafından geliştirilen ve metin oluşturma (text generation) görevleri için optimize edilmiş bir yapay zekâ modelidir. Hugging Face üzerinde barındırılan bu model, yüksek performanslı dil işleme yeteneklerini daha hızlı yanıt süreleriyle sunmayı hedefler.",
+          "meta": "♥ 1.850 · 156.173 indirme"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax tarafından geliştirilen MiniMax-H3, görsel ve metin girdilerini kullanarak video oluşturan bir çok modlu yapay zekâ (multimodal AI) modelidir. Kullanıcılara statik içeriklerden veya yazılı komutlardan yüksek kaliteli hareketli görüntüler üretme imkânı tanır.",
+          "meta": "♥ 630 · 0 indirme"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir yapay zekâ modeli. Açık kaynaklı modellerin barındırıldığı platform HuggingFace üzerinde paylaşılan bu çalışma, sansürsüz içerik üretimi odaklı bir yapı sunuyor.",
+          "meta": "♥ 1.370 · 1.372.285 indirme"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR, görsellerdeki metinleri işleyerek metin tabanlı çıktıya dönüştüren bir görüntüden metne (image-to-text) modelidir. Farklı formatlardaki görsel verileri metin verisine çevirerek dijitalleştirme süreçlerini kolaylaştırır.",
+          "meta": "♥ 3.802 · 2.536.284 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift",
+          "url": "https://huggingface.co/papers/2607.28996",
+          "summary": "SULAND v2, insansız hava ve kara araçlarının (UAV/UGV) yüzey mayınlarını tespit etmesi için geliştirilmiş kapsamlı bir RGB görüntü veri seti ve kıyaslama aracıdır. Farklı çalışma koşullarında nesne tespit modellerinin performansını ölçerek, bu güvenlik odaklı alanda modellerin genel geçerliliğini test etmeyi amaçlar.",
+          "meta": "0 beğeni · 1 yorum"
+        },
+        {
+          "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
+          "url": "https://huggingface.co/papers/2607.27951",
+          "summary": "Büyük dil modellerindeki (large language models) güvenlik önlemleri, yanıtın nasıl kullanılacağını bilmeden karar verdiği için çift kullanımlı görevlerde açıklar yaratıyor. Araştırmacılar, saldırganların iyi niyetli kullanıcıları taklit edebildiği durumlarda, kopyalanabilir bağlamın güvenlik için güvenilir bir temel oluşturamadığını kanıtlıyor.",
+          "meta": "0 beğeni · 1 yorum"
+        },
+        {
+          "title": "Enhancing Rubric-based RL via Self-Distillation",
+          "url": "https://huggingface.co/papers/2607.18082",
+          "summary": "Ölçüt tabanlı pekiştirmeli öğrenme (rubric-based reinforcement learning), geniş kapsamlı görevlerde dil modellerini iyileştirmek için kullanılan bir yöntemdir. Araştırmacılar, dış rehberlikten kaynaklanan eğitim ve çıkarım uyumsuzluğunu gidermek adına öz damıtma (self-distillation) tekniğini kullanarak keşfedilmemiş ölçütlerin optimizasyon sürecine dahil edilmesini sağlıyor.",
+          "meta": "13 beğeni · 1 yorum"
+        },
+        {
+          "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
+          "url": "https://huggingface.co/papers/2607.29025",
+          "summary": "Çoklu referanslı görsel düzenleme modellerinde görsel tutarlılığı ve uyumu sağlamak için geliştirilen değerlendirme ve doğrulama ödül sistemi (evaluation-verification reward), pekiştirmeli öğrenme (reinforcement learning) yöntemlerini bu alana taşıyor. Bu yaklaşım, çoklu görsel arasındaki ilişkisel kısıtlamaları modelleyerek düzenleme süreçlerinde görsel bütünlüğü korumayı hedefliyor.",
+          "meta": "11 beğeni · 0 yorum"
+        },
+        {
+          "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+          "url": "https://huggingface.co/papers/2607.29677",
+          "summary": "ExtractBench, kurumsal belgelerden şema tabanlı veri çıkarma işlemlerini değerlendiren yeni bir kıyaslama aracıdır (benchmark). Sistem, yapay zekâ modellerinin doğruluk, tamlık, kaynak kanıtlama ve maliyet performansını 370 farklı kurumsal belge üzerinden ölçer.",
+          "meta": "13 beğeni · 0 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Your JSON Is Lying to You",
+          "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+          "summary": "JSON formatı, veri tiplerini ve sayısal hassasiyeti ifade etme konusunda sınırlı kapasitesi nedeniyle uygulamalarda beklenmedik veri kayıplarına yol açabiliyor. Özellikle büyük tam sayıların veya hassas ondalıklı değerlerin işlenmesi sırasında yaşanan bu tutarsızlıklar, veri bütünlüğü (data integrity) sorunlarını beraberinde getiriyor.",
+          "meta": "9 oy · 3 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/tjgemj/your_json_is_lying_you",
+              "popularity": 9,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "I'm (mostly) picking models on speed now, not intelligence",
+          "url": "https://martinalderson.com/posts/speed-vs-intelligence/",
+          "summary": "Yazılım geliştiriciler, yapay zekâ modellerini seçerken artık zekâ kapasitesinden ziyade hız (latency) kriterine odaklanıyor. Yanıt süresinin kısalığı, günlük iş akışlarında verimliliği artırdığı için modellerin karmaşıklığından daha öncelikli bir tercih sebebi haline geliyor.",
+          "meta": "27 oy · 15 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aso7dh/i_m_mostly_picking_models_on_speed_now_not",
+              "popularity": 27,
+              "engagementCount": 15
+            }
+          ]
+        },
+        {
+          "title": "Faster floating point math with Rust’s new API",
+          "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+          "summary": "Rust programlama diline eklenen yeni uygulama programlama arayüzü (API), kayan noktalı sayı hesaplamalarında (floating point math) işlem hızını artırıyor. Bu güncelleme, özellikle yoğun matematiksel işlemler gerektiren yazılımlarda performans optimizasyonu sağlıyor.",
+          "meta": "18 oy · 7 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new",
+              "popularity": 18,
+              "engagementCount": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Jupyter Notebook",
+      "explanation": "Kodları yazıp çalıştırırken aynı zamanda notlar ve grafikler ekleyebildiğiniz etkileşimli bir çalışma ortamı."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Özellikle görüntü işleme ve yapay zekâ hesaplamaları gibi karmaşık işlemleri çok hızlı yapabilen güçlü işlemci birimi."
+    },
+    {
+      "term": "coding assistant",
+      "explanation": "Yazılım geliştirirken kod yazmanıza yardımcı olan, hataları bulan ve öneriler sunan yapay zekâ aracı."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Öğrendiği bilgilerden yola çıkarak yeni metinler, görseller veya sesler oluşturabilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlar yazarak yönetmenizi sağlayan metin tabanlı arayüz."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan köprü."
+    },
+    {
+      "term": "AI skill",
+      "explanation": "Bir yapay zekânın belirli bir görevi yerine getirmek için sahip olduğu özel yetenek veya uzmanlık alanı."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip hedeflere ulaşmak için araçları kullanan otonom yapay zekâ yazılımları."
+    },
+    {
+      "term": "code coverage",
+      "explanation": "Yazılan bir programın ne kadarının testler tarafından kontrol edildiğini gösteren ölçüm değeri."
+    },
+    {
+      "term": "inference engine",
+      "explanation": "Eğitilmiş bir yapay zekâ modelini kullanarak yeni veriler hakkında tahmin veya sonuç üreten yazılım parçası."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "Yapay zekânın daha önce işlediği metin başlangıçlarını hafızada tutarak aynı işlemleri tekrar yapmasını engelleyen hızlandırma yöntemi."
+    },
+    {
+      "term": "static site generator",
+      "explanation": "Hazır içerikleri alıp hızlı açılan sabit web sayfalarına dönüştüren yazılım aracı."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Yazılımcıların kod yazarken ihtiyaç duyduğu tüm araçları tek bir yerde toplayan gelişmiş çalışma ortamı."
+    },
+    {
+      "term": "binary",
+      "explanation": "Bilgisayarın doğrudan anlayıp çalıştırabileceği, sadece sıfır ve birlerden oluşan makine dili formatı."
+    },
+    {
+      "term": "userspace",
+      "explanation": "Bilgisayarın işletim sistemi çekirdeğine dokunmadan, kullanıcı uygulamalarının çalıştığı güvenli alan."
+    }
+  ]
+}
