@@ -4907,7 +4907,26 @@
         "surum": "3.19.0-0.1.pre",
         "surum_tarihi": "2024-01-11"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install --cask flutter"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Ortam kontrollerini doğrula",
+          "komut": "flutter doctor"
+        },
+        {
+          "baslik": "Yeni proje oluştur ve çalıştır",
+          "komut": "flutter create my_app\ncd my_app\nflutter run"
+        }
+      ],
+      "kaynak": "Homebrew Cask (flutter) · resmî Flutter dokümantasyonu (docs.flutter.dev)"
+    }
   },
   {
     "slug": "headunit-revived",
@@ -5298,7 +5317,26 @@
         "surum": "v13.1.1",
         "surum_tarihi": "2026-07-21"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install grafana"
+        },
+        {
+          "baslik": "Docker ile",
+          "komut": "docker run -d -p 3000:3000 --name=grafana grafana/grafana"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Homebrew servisi olarak başlat",
+          "komut": "brew services start grafana"
+        }
+      ],
+      "kaynak": "Homebrew (grafana) · Docker Hub (grafana/grafana) · resmî Grafana dokümantasyonu (grafana.com/docs)"
+    }
   },
   {
     "slug": "free-for-dev",
@@ -6254,7 +6292,26 @@
         "surum": "v9.4.4",
         "surum_tarihi": "2026-07-21"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker imajını çek",
+          "komut": "docker pull docker.elastic.co/elasticsearch/elasticsearch:latest"
+        },
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install elastic/tap/elasticsearch-full"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Tek düğüm modunda Docker ile başlat",
+          "komut": "docker run -p 9200:9200 -p 9300:9300 -e \"discovery.type=single-node\" docker.elastic.co/elasticsearch/elasticsearch:latest"
+        }
+      ],
+      "kaynak": "Elastic Docker Registry · Homebrew (elastic/tap/elasticsearch-full) · resmî Elastic dokümantasyonu"
+    }
   },
   {
     "slug": "ansible",
@@ -6281,7 +6338,26 @@
         "surum": "v2.21.2",
         "surum_tarihi": "2026-07-13"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install ansible"
+        },
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install ansible"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Ansible playbook betiğini çalıştır",
+          "komut": "ansible-playbook site.yml"
+        }
+      ],
+      "kaynak": "PyPI (ansible) · Homebrew (ansible) · resmî Ansible dokümantasyonu (docs.ansible.com)"
+    }
   },
   {
     "slug": "romm",
@@ -6364,7 +6440,26 @@
         "surum": "v1.26.07",
         "surum_tarihi": "2026-07-09"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install supabase/tap/supabase"
+        },
+        {
+          "baslik": "npm ile geliştirme bağımlılığı olarak ekle",
+          "komut": "npm install -D supabase"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Yerel Supabase geliştirme ortamını başlat",
+          "komut": "supabase init\nsupabase start"
+        }
+      ],
+      "kaynak": "Homebrew (supabase/tap/supabase) · npm (supabase) · resmî dokümantasyon (supabase.com/docs)"
+    }
   },
   {
     "slug": "meetily",
@@ -6417,7 +6512,22 @@
         "surum": "v3.1.0",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker Compose yapılandırmasını indir",
+          "komut": "mkdir immich-app && cd immich-app\nwget -O docker-compose.yml https://github.com/immich-app/immich/releases/latest/download/docker-compose.yml\nwget -O .env https://github.com/immich-app/immich/releases/latest/download/example.env"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Docker servislerini başlat",
+          "komut": "docker compose up -d"
+        }
+      ],
+      "kaynak": "Resmî Immich dokümantasyonu (immich.app/docs/install/docker-compose)"
+    }
   },
   {
     "slug": "folia-major",
@@ -7192,7 +7302,26 @@
         "surum": "v6.0.3",
         "surum_tarihi": "2026-04-16"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile global kurulum",
+          "komut": "npm install -g typescript"
+        },
+        {
+          "baslik": "Proje bağımlılığı olarak ekle",
+          "komut": "npm install --save-dev typescript"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "TypeScript dosyasını derle",
+          "komut": "tsc index.ts"
+        }
+      ],
+      "kaynak": "npm (typescript) · resmî TypeScript dokümantasyonu (typescriptlang.org)"
+    }
   },
   {
     "slug": "catch2",
@@ -7419,7 +7548,22 @@
         "surum": "v16.2.12",
         "surum_tarihi": "2026-07-25"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npx ile yeni Next.js projesi oluştur",
+          "komut": "npx create-next-app@latest my-app"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Geliştirme sunucusunu başlat",
+          "komut": "cd my-app\nnpm run dev"
+        }
+      ],
+      "kaynak": "npm (create-next-app) · resmî Next.js dokümantasyonu (nextjs.org/docs)"
+    }
   },
   {
     "slug": "core",
@@ -7446,7 +7590,26 @@
         "surum": "2026.7.4",
         "surum_tarihi": "2026-07-24"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (Python sanal ortamı)",
+          "komut": "pip install homeassistant"
+        },
+        {
+          "baslik": "Docker ile",
+          "komut": "docker run -d --name homeassistant --privileged --restart=unless-stopped --network=host ghcr.io/home-assistant/home-assistant:stable"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Home Assistant Core sunucusunu başlat",
+          "komut": "hass"
+        }
+      ],
+      "kaynak": "PyPI (homeassistant) · GitHub Container Registry (ghcr.io) · resmî Home Assistant dokümantasyonu (home-assistant.io)"
+    }
   },
   {
     "slug": "next-ai-draw-io",
@@ -8390,7 +8553,22 @@
         "surum": "v1.24.11911.0",
         "surum_tarihi": "2026-07-16"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install Microsoft.WindowsTerminal"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Komut satırından çalıştır",
+          "komut": "wt"
+        }
+      ],
+      "kaynak": "winget (Microsoft.WindowsTerminal) · resmî Microsoft dokümantasyonu (learn.microsoft.com)"
+    }
   },
   {
     "slug": "astrbot",
