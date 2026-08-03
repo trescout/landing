@@ -2,9 +2,12 @@
 
 LMCache, büyük dil modelleri (large language models) için anahtar-değer önbelleği (KV cache) yönetimini optimize ederek çıkarım hızını artıran bir katman sunuyor. Bellek kullanımını verimli hale getiren bu sistem, aynı bağlamı kullanan sorgularda hesaplama yükünü azaltmayı hedefliyor.
 
-- ★ 8.698
+- ★ 10.985
 - Python
 - GitHub Trending · 2026-06-13
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 8.698 → 10.985, son sürüm operator-v0.5.1 (23 Temmuz 2026).
 
 ## Ne kazandırır?
 - Büyük dil modellerinde çıkarım hızını artırarak ilk token süresini kısaltır.

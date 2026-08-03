@@ -2,9 +2,12 @@
 
 Worldmonitor, yapay zekâ destekli haber derleme ve jeopolitik izleme özelliklerini tek bir arayüzde birleştiren gerçek zamanlı bir küresel istihbarat paneli (global intelligence dashboard) sunuyor. Altyapı takibi ve durum farkındalığı (situational awareness) sağlayan bu araç, karmaşık veri akışlarını görselleştirerek analiz süreçlerini kolaylaştırıyor.
 
-- ★ 57.469
+- ★ 78.032
 - TypeScript
 - GitHub Trending · 2026-06-20
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 57.469 → 78.032, son sürüm v2.5.23 (1 Mart 2026).
 
 ## Ne kazandırır?
 - 500'den fazla haber kaynağının yapay zekâ ile özetlenmesi

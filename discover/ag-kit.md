@@ -2,9 +2,12 @@
 
 Ag-kit, TypeScript tabanlı projelerde otonom yapay zekâ ajanları (AI agents) oluşturmak için gerekli araçları ve yapıları sunan bir geliştirme kütüphanesidir. Geliştiricilerin karmaşık iş akışlarını yönetebilen ajan sistemlerini (agentic systems) hızlıca tasarlamasına olanak tanır.
 
-- ★ 8.020
+- ★ 8.084
 - TypeScript
 - GitHub Trending · 2026-07-28
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 8.020 → 8.084, son sürüm v2026.7.27 (26 Temmuz 2026).
 
 ## Ne kazandırır?
 - 20 farklı uzman yapay zekâ rolü

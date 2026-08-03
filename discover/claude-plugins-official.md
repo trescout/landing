@@ -2,9 +2,12 @@
 
 Anthropic, Claude Code için geliştirilen yüksek kaliteli eklentileri (plugins) tek bir merkezde toplayan resmi bir dizin sunuyor. Bu Python tabanlı yapı, geliştiricilerin kodlama asistanları için hazırlanan araçları (tools) standart bir formatta paylaşmasını ve keşfetmesini sağlıyor.
 
-- ★ 30.960
+- ★ 32.968
 - Python
 - GitHub Trending · 2026-06-24
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 30.960 → 32.968.
 
 ## Ne kazandırır?
 - Claude Code için hazırlanan eklentileri tek merkezden keşfedin

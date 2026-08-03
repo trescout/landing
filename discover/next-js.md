@@ -2,9 +2,12 @@
 
 Next.js, React tabanlı web uygulamaları geliştirmek için kullanılan bir çerçeve (framework) olarak sunucu taraflı oluşturma (server-side rendering) ve statik site üretimi gibi özellikler sağlıyor. Modern web projelerinde performans odaklı optimizasyonlar ve ölçeklenebilir altyapı çözümleri sunmasıyla geliştiriciler arasında yaygın bir tercih haline geliyor.
 
-- ★ 140.777
+- ★ 141.225
 - JavaScript
 - GitHub Trending · 2026-07-11
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 140.777 → 141.225, son sürüm v16.2.12 (25 Temmuz 2026).
 
 ## Ne kazandırır?
 - Sunucu taraflı oluşturma desteği

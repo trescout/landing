@@ -2,9 +2,12 @@
 
 Andrew Ng tarafından geliştirilen aisuite, farklı üretken yapay zekâ (generative AI) sağlayıcılarını tek bir arayüz üzerinden yönetmeyi sağlayan bir Python kütüphanesidir. Geliştiricilerin çeşitli model servisleri arasında kod değişikliği yapmadan geçiş yapmasına olanak tanır.
 
-- ★ 14.220
+- ★ 15.888
 - Python
 - GitHub Trending · 2026-06-14
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 14.220 → 15.888, son sürüm v0.1.3 (20 Temmuz 2026).
 
 ## Ne kazandırır?
 - Farklı yapay zekâ sağlayıcılarını tek bir arayüzle yönetme

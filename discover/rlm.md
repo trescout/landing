@@ -2,9 +2,12 @@
 
 Özyinelemeli dil modelleri (Recursive Language Models) için geliştirilen rlm, farklı çalışma ortamlarını (sandboxes) destekleyen tak-çalıştır bir çıkarım kütüphanesidir. Python tabanlı bu araç, karmaşık dil modeli süreçlerini standartlaştırarak farklı sistemlere entegre edilmesini kolaylaştırır.
 
-- ★ 4.987
+- ★ 5.343
 - Python
 - GitHub Trending · 2026-06-18
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 4.987 → 5.343, son sürüm v0.1.3 (26 Haziran 2026).
 
 ## Ne kazandırır?
 - Sonsuz uzunlukta bağlam yönetimi

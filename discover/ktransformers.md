@@ -2,9 +2,12 @@
 
 Ktransformers, büyük dil modellerinin (large language models) çıkarım ve ince ayar (fine-tuning) süreçlerinde heterojen donanım optimizasyonlarını destekleyen esnek bir çerçeve sunuyor. Bu yapı, farklı donanım kaynaklarını verimli kullanarak model performansını artırmayı hedefliyor.
 
-- ★ 18.491
+- ★ 19.145
 - Python
 - GitHub Trending · 2026-07-20
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 18.491 → 19.145, son sürüm v0.6.4 (23 Temmuz 2026).
 
 ## Ne kazandırır?
 - İşlemci ve ekran kartı kaynaklarını birlikte kullanarak verimli çalışma

@@ -2,9 +2,12 @@
 
 Çinli bağımsız geliştiricilerin yürüttüğü projeleri listeleyen bu açık kaynaklı veri tabanı, yazılımcıların geliştirdiği uygulamaları ve çalışma alanlarını bir araya getiriyor. Platform, bağımsız geliştiricilik (indie hacking) ekosistemindeki güncel eğilimleri ve ürün odaklı çalışmaları takip etmeyi sağlıyor.
 
-- ★ 54.609
+- ★ 60.379
 - Python
 - GitHub Trending · 2026-07-15
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 54.609 → 60.379.
 
 ## Ne kazandırır?
 - Bağımsız geliştiricilerin güncel uygulamalarına erişim

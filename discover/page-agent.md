@@ -2,9 +2,12 @@
 
 Alibaba tarafından geliştirilen page-agent, doğal dil komutlarıyla web arayüzlerini kontrol etmeye olanak tanıyan bir sayfa içi grafik kullanıcı arayüzü (graphical user interface) ajanıdır. TypeScript ile yazılan bu araç, web etkileşimlerini otomatize etmek için tarayıcı tabanlı bir kontrol mekanizması sunmaktadır.
 
-- ★ 20.032
+- ★ 28.366
 - TypeScript
 - GitHub Trending · 2026-06-26
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 20.032 → 28.366, son sürüm v1.12.2 (16 Temmuz 2026).
 
 ## Ne kazandırır?
 - Tarayıcı eklentisi veya Python gerektirmez

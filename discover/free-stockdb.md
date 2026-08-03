@@ -2,9 +2,12 @@
 
 Free-stockdb, A hisse senetleri ve borsa yatırım fonları (ETF) için günlük ve dakikalık verileri yöneten yerel bir nicel analiz motorudur. Sistem, verilerin artımlı senkronizasyonu, yerel önbellekleme, fiyat düzeltme, geriye dönük test (backtesting) ve teknik gösterge hesaplamaları gibi işlevleri bir arada sunar.
 
-- ★ 1.492
+- ★ 1.684
 - HTML
 - GitHub Trending · 2026-07-29
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 1.492 → 1.684, son sürüm 测试版本0.2.1 (19 Temmuz 2026).
 
 ## Ne kazandırır?
 - Tüm borsa verilerini bilgisayarınızda saklayın

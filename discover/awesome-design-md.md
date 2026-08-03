@@ -2,8 +2,11 @@
 
 Awesome-design-md, popüler marka tasarım sistemlerine ait tasarım dokümanlarını (DESIGN.md) bir araya getiren bir koleksiyondur. Yazılım ajanları, bu dokümanları kullanarak projelere uygun kullanıcı arayüzleri (UI) oluşturabilir.
 
-- ★ 100.194
+- ★ 105.953
 - GitHub Trending · 2026-07-10
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 100.194 → 105.953.
 
 ## Ne kazandırır?
 - Popüler markaların tasarım dillerini projelerinize taşıyın

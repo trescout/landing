@@ -2,10 +2,13 @@
 
 Babysitter , yapay zekâ ajanlarından oluşan iş gücünün karmaşık görevleri hatasız ve halüsinasyonsuz bir şekilde yürütebilmesi için deterministik bir denetim mekanizması sunar.
 
-- ★ 1.101
+- ★ 1.632
 - JavaScript
 - MIT
 - GitHub Trending · 1 Haziran 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 1.101 → 1.632, son sürüm v0.0.188 (26 Haziran 2026).
 
 - **Kimin için:** Çoklu AI ajanı çalıştıran geliştiriciler 
 - **Zorluk:** Orta–ileri 

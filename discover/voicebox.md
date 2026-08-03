@@ -2,9 +2,12 @@
 
 Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve içerik oluşturma işlemlerini gerçekleştirmesine olanak tanıyan açık kaynaklı bir yapay zekâ ses stüdyosudur. TypeScript diliyle geliştirilen bu platform, ses işleme süreçlerini yerel ortamda yönetmek için kapsamlı araçlar sunar.
 
-- ★ 31.156
+- ★ 48.096
 - TypeScript
 - GitHub Trending · 2026-06-21
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 31.156 → 48.096, son sürüm v0.5.0 (25 Nisan 2026).
 
 ## Ne kazandırır?
 - Kendi sesinizi veya başkalarının sesini saniyeler içinde kopyalayın.

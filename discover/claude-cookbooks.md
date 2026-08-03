@@ -2,9 +2,12 @@
 
 Anthropics tarafından paylaşılan Claude yemek kitapları (cookbooks), Claude modellerinin kullanımı için pratik kod örnekleri ve Jupyter not defterleri (notebooks) sunuyor. Bu kaynak, geliştiricilerin yapay zekâ uygulamalarında Claude entegrasyonunu hızlandırmak için çeşitli iş akışı şablonları sağlıyor.
 
-- ★ 47.306
+- ★ 50.838
 - Jupyter Notebook
 - GitHub Trending · 2026-07-10
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 47.306 → 50.838.
 
 ## Ne kazandırır?
 - Claude API entegrasyonu için hazır kod şablonları

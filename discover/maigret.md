@@ -2,9 +2,12 @@
 
 Maigret, kullanıcı adlarını temel alarak 3000'den fazla internet sitesi üzerinde tarama yapıyor ve kişilere dair bir dosya (dossier) oluşturuyor. Python ile geliştirilen bu araç, açık kaynaklı istihbarat (OSINT) süreçlerinde dijital ayak izi takibini otomatize ediyor.
 
-- ★ 32.267
+- ★ 36.075
 - Python
 - GitHub Trending · 2026-06-11
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 32.267 → 36.075, son sürüm main (26 Nisan 2026).
 
 ## Ne kazandırır?
 - 3000'den fazla sitede kullanıcı adı bazlı tarama yapar.

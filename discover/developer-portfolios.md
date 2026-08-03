@@ -2,10 +2,13 @@
 
 Developer Portfolios , yazılımcıların kişisel projelerini ve yetkinliklerini sergilediği portfolyo örneklerinden oluşan derli toplu bir koleksiyondur. Kendi sitenizi tasarlarken ilham almak için idealdir.
 
-- ★ 23.623
+- ★ 25.746
 - Koleksiyon
 - Lisans: yok
 - GitHub Trending · 1 Haziran 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 23.623 → 25.746.
 
 - **Kimin için:** Kendi portfolyo sitesini yapacak herkes 
 - **Zorluk:** Çok kolay · sadece göz atın 

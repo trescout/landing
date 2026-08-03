@@ -2,9 +2,12 @@
 
 Python tabanlı Faceswap, derin sahte (deepfake) teknolojisini kullanarak görüntülerdeki yüzleri değiştirmeye olanak tanıyan açık kaynaklı bir yazılımdır. Kullanıcıların video ve görseller üzerinde yüz dönüştürme (face swapping) işlemleri gerçekleştirmesine imkân sağlar.
 
-- ★ 56.487
+- ★ 57.204
 - Python
 - GitHub Trending · 2026-07-30
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 56.487 → 57.204, son sürüm v3.0.0 (21 Aralık 2025).
 
 ## Ne kazandırır?
 - Görüntü ve videolarda yüz değişimi

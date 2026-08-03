@@ -2,8 +2,11 @@
 
 PM Skills Marketplace, ürün yönetimi süreçleri için geliştirilmiş 100'den fazla otonom yetenek (agentic skills), komut ve eklenti sunuyor. Bu kaynak, keşif aşamasından büyüme evresine kadar tüm ürün yaşam döngüsü boyunca yapay zekâ destekli iş akışlarını standartlaştırmayı amaçlıyor.
 
-- ★ 12.983
+- ★ 24.775
 - GitHub Trending · 2026-06-09
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 12.983 → 24.775, son sürüm v2.1.0 (3 Temmuz 2026).
 
 ## Ne kazandırır?
 - Ürün yönetimi süreçleri için 100'den fazla otonom yetenek ve komut sağlar.

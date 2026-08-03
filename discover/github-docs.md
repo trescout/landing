@@ -2,10 +2,13 @@
 
 GitHub Docs , docs.github.com adresindeki belgelerin kaynak kodlarını içeren açık kaynak deposudur. GitHub'ın resmi belgelerine katkıda bulunabilir ve içeriklerin nasıl hazırlandığını inceleyebilirsiniz.
 
-- ★ 19.817
+- ★ 20.600
 - TypeScript
 - CC-BY-4.0
 - GitHub Trending · 1 Haziran 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 19.817 → 20.600, son sürüm v1.0.1 (14 Şubat 2023).
 
 - **Kimin için:** Dokümana katkı yapmak/incelemek isteyenler 
 - **Zorluk:** Başlangıç-orta 

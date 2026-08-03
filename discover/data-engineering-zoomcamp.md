@@ -2,10 +2,13 @@
 
 Data Engineering Zoomcamp , üretime hazır veri hatları (data pipelines) oluşturmayı kapsayan, DataTalksClub tarafından sunulan dokuz haftalık ücretsiz bir eğitimdir. Uygulamalı ve projeye dayalı bir müfredat sunar.
 
-- ★ 41.734
+- ★ 44.237
 - Kurs
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 41.734 → 44.237.
 
 - **Kimin için:** Veri mühendisliği öğrenmek isteyenler 
 - **Zorluk:** Orta · programlama temeli 

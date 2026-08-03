@@ -2,9 +2,12 @@
 
 Next.js tabanlı bu uygulama, diyagram oluşturma aracı draw.io ile üretken yapay zekâ (generative AI) yeteneklerini birleştiriyor. Kullanıcılar, doğal dil komutları aracılığıyla görsel şemalar oluşturabiliyor ve mevcut diyagramlarını yapay zekâ desteğiyle düzenleyebiliyor.
 
-- ★ 33.359
+- ★ 33.999
 - TypeScript
 - GitHub Trending · 2026-07-12
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 33.359 → 33.999, son sürüm v0.4.16 (21 Mayıs 2026).
 
 ## Ne kazandırır?
 - Doğal dil komutlarıyla profesyonel şemalar çizin

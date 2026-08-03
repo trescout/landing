@@ -2,9 +2,12 @@
 
 ByteDance tarafından geliştirilen UI-TARS, çok modlu yapay zekâ modellerini (multimodal AI models) masaüstü arayüzleriyle entegre eden açık kaynaklı bir ajan altyapısıdır. Bu sistem, görsel verileri işleyerek bilgisayar üzerindeki görevleri otonom şekilde gerçekleştiren ajanların (AI agents) oluşturulmasını sağlar.
 
-- ★ 36.779
+- ★ 38.404
 - TypeScript
 - GitHub Trending · 2026-06-18
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 36.779 → 38.404, son sürüm v0.3.0 (4 Kasım 2025).
 
 ## Ne kazandırır?
 - Masaüstü ve tarayıcı görevlerini otonom gerçekleştirme

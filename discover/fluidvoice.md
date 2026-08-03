@@ -2,9 +2,12 @@
 
 FluidVoice, macOS işletim sistemi üzerinde tamamen çevrim dışı çalışan hızlı bir sesli dikte (voice to text) uygulamasıdır. Swift diliyle geliştirilen bu araç, verileri yerel olarak işleyerek gizlilik odaklı bir ses dönüştürme deneyimi sunar.
 
-- ★ 3.995
+- ★ 9.248
 - Swift
 - GitHub Trending · 2026-06-29
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 3.995 → 9.248, son sürüm v1.6.6 (31 Temmuz 2026).
 
 ## Ne kazandırır?
 - Tamamen yerel ve çevrim dışı ses dönüştürme

@@ -2,10 +2,13 @@
 
 Rust diliyle geliştirilen SWC, web projeleri için hızlı bir derleme (compilation) ve paketleme (bundling) platformu sunuyor. JavaScript ve TypeScript dosyalarını yüksek performansla işleyerek modern web geliştirme süreçlerini hızlandırıyor.
 
-- ★ 33.681
+- ★ 34.160
 - GitHub Trending · 2026-06-14
 
 TreScout notu: Yazdığınız modern JavaScript kodunu tarayıcıların anladığı biçime çevirir, aynı işi yapan eski araçlara göre çok daha hızlıdır. Hata denetimi yapmaz, yalnızca çevirir. Bazı popüler çerçeveler bunu zaten içeride kullanıyor, farkında olmadan kullanıyor olabilirsiniz.
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 33.681 → 34.160, son sürüm v1.15.47 (29 Temmuz 2026).
 
 ## Ne kazandırır?
 - JavaScript ve TypeScript dosyalarını yüksek hızla işler

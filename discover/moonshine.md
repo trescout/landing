@@ -2,9 +2,12 @@
 
 Moonshine, sesli arayüzler ve yapay zekâ ajanları için düşük gecikmeli konuşmayı metne dönüştürme (speech to text), niyet tanıma (intent recognition) ve metni sese dönüştürme (text to speech) yetenekleri sunuyor. C++ diliyle geliştirilen bu kütüphane, gerçek zamanlı ses işleme süreçlerini optimize etmeyi hedefliyor.
 
-- ★ 10.028
+- ★ 10.579
 - C++
 - GitHub Trending · 2026-07-21
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 10.028 → 10.579, son sürüm v0.1.0 (27 Temmuz 2026).
 
 ## Ne kazandırır?
 - Cihaz üzerinde çalışan hızlı ve gizli ses işleme

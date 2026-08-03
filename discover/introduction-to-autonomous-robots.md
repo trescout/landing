@@ -2,9 +2,12 @@
 
 Otonom robotlara giriş (Introduction to Autonomous Robots) projesi, robotik sistemlerin temel prensiplerini ve algoritmik yapılarını akademik bir yaklaşımla sunuyor. TeX dilinde hazırlanan bu kaynak, otonom hareket ve sistem tasarımı konularında teknik bir rehberlik sağlıyor.
 
-- ★ 2.681
+- ★ 3.301
 - TeX
 - GitHub Trending · 2026-06-15
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 2.681 → 3.301, son sürüm v3.0 (1 Aralık 2021).
 
 ## Ne kazandırır?
 - Otonom robotik sistemlerin temel mekanizma ve algoritmalarını öğrenme.

@@ -2,9 +2,12 @@
 
 C# diliyle geliştirilen optimizerDuck, Windows işletim sistemlerinde performans artışı ve gizlilik odaklı yapılandırmalar sunan açık kaynaklı bir araçtır. Kullanıcıların sistem ayarlarını basitleştirmesini sağlayan bu yazılım, Windows optimizasyon süreçlerini tek bir arayüzde toplar.
 
-- ★ 3.900
+- ★ 7.672
 - C#
 - GitHub Trending · 2026-06-16
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 3.900 → 7.672, son sürüm v2.25.5 (16 Temmuz 2026).
 
 ## Ne kazandırır?
 - Windows arka plan işlemlerini ve bloatware yazılımları temizler

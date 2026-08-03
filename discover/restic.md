@@ -2,10 +2,13 @@
 
 Go diliyle geliştirilen Restic, verileri şifreleyerek hızlı ve verimli bir şekilde yedekleyen açık kaynaklı bir yedekleme programı (backup program) sunuyor. Farklı depolama sistemlerini destekleyen bu araç, artımlı yedekleme (incremental backup) yöntemiyle depolama alanından tasarruf sağlıyor.
 
-- ★ 34.273
+- ★ 35.302
 - GitHub Trending · 2026-06-12
 
 TreScout notu: Yedeklerinizi şifreleyerek saklar ve aynı dosyayı iki kez yazmadığı için yer kaplamaz. Tıklanacak bir arayüzü yok, komut satırından çalışır ve eski yedekleri temizleme işini siz ayarlarsınız, ayarlamazsanız depolama zamanla şişer. Kurduğunuz gün bir dosyayı geri yüklemeyi deneyin: Yedeğin gerçekten çalıştığını başka türlü anlayamazsınız.
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 34.273 → 35.302, son sürüm v0.19.1 (5 Temmuz 2026).
 
 ## Ne kazandırır?
 - Verileri şifreleyerek yüksek güvenlik sağlar

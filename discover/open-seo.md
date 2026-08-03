@@ -2,9 +2,12 @@
 
 Open SEO, Semrush ve Ahrefs gibi ücretli araçlara açık kaynaklı bir alternatif sunuyor. Arama motoru optimizasyonu (SEO) verilerini analiz etmek için geliştirilen bu yazılım, TypeScript tabanlı altyapısıyla süreçleri şeffaflaştırmayı hedefliyor.
 
-- ★ 2.736
+- ★ 10.091
 - TypeScript
 - GitHub Trending · 2026-06-26
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 2.736 → 10.091, son sürüm v0.1.3 (30 Temmuz 2026).
 
 ## Ne kazandırır?
 - Abonelik ücreti olmadan sadece kullandığın kadar öde

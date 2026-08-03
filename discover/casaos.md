@@ -2,9 +2,12 @@
 
 CasaOS, Docker tabanlı uygulamaları yönetmeyi kolaylaştıran açık kaynaklı bir kişisel bulut sistemi (personal cloud system) sunuyor. Go diliyle geliştirilen bu arayüz, kullanıcıların kendi sunucularını görsel bir panel üzerinden basit şekilde yönetmelerine imkan tanıyor.
 
-- ★ 34.992
+- ★ 36.953
 - Go
 - GitHub Trending · 2026-06-26
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 34.992 → 36.953, son sürüm v0.4.15 (19 Aralık 2024).
 
 ## Ne kazandırır?
 - Docker uygulamalarını tek tıkla kurun

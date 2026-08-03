@@ -2,9 +2,12 @@
 
 VeraCrypt, TrueCrypt temel alınarak geliştirilen ve güçlü güvenlik standartları sunan bir disk şifreleme (disk encryption) aracıdır. C diliyle yazılan bu açık kaynaklı yazılım, verilerin güvenliğini sağlamak için çeşitli şifreleme algoritmaları ve kimlik doğrulama yöntemleri kullanır.
 
-- ★ 10.574
+- ★ 10.906
 - C
 - GitHub Trending · 2026-06-30
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 10.574 → 10.906, son sürüm VeraCrypt_1.26.29 (12 Haziran 2026).
 
 ## Ne kazandırır?
 - Açık kaynaklı disk şifreleme

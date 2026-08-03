@@ -2,9 +2,12 @@
 
 Dear ImGui, C++ projeleri için minimum bağımlılıkla çalışan, hafif bir grafik kullanıcı arayüzü (graphical user interface) kütüphanesidir. Yazılım geliştiricilere hızlı prototipleme ve araç geliştirme süreçlerinde sade bir arayüz oluşturma imkânı tanır.
 
-- ★ 75.256
+- ★ 75.457
 - C++
 - GitHub Trending · 2026-07-28
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 75.256 → 75.457, son sürüm v1.92.9b (31 Temmuz 2026).
 
 ## Ne kazandırır?
 - Dış bağımlılık gerektirmeyen sade yapı

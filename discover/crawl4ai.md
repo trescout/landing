@@ -2,10 +2,13 @@
 
 Crawl4AI ; büyük dil modelleri için optimize edilmiş, açık kaynak bir web tarayıcı ve kazıyıcıdır . Web sayfalarını, yapay zekâ modellerinin kolayca işleyebileceği temiz ve yapılandırılmış formatlara (Markdown vb.) dönüştürür.
 
-- ★ 67.194
+- ★ 75.853
 - Python
 - Apache-2.0
 - GitHub Trending · 29 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 67.194 → 75.853, son sürüm v0.9.2 (15 Temmuz 2026).
 
 - **Kimin için:** AI/veri için web verisi toplayanlar 
 - **Zorluk:** Orta · Python 

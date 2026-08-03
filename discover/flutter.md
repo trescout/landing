@@ -2,9 +2,12 @@
 
 Google tarafından geliştirilen Flutter, tek bir kod tabanı kullanarak mobil, web ve masaüstü platformları için hızlı bir şekilde kullanıcı arayüzü (user interface) oluşturulmasına olanak tanıyor. Dart programlama dilini temel alan bu açık kaynaklı çerçeve (framework), yüksek performanslı ve görsel açıdan zengin uygulamalar geliştirmek için yaygın olarak tercih ediliyor.
 
-- ★ 177.494
+- ★ 178.068
 - Dart
 - GitHub Trending · 2026-06-25
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 177.494 → 178.068, son sürüm 3.19.0-0.1.pre (11 Ocak 2024).
 
 ## Ne kazandırır?
 - Tek kod tabanıyla mobil, web ve masaüstü desteği

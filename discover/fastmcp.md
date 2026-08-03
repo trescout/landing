@@ -2,9 +2,12 @@
 
 FastMCP, Model Bağlam Protokolü (Model Context Protocol - MCP) sunucuları ve istemcileri geliştirmeyi kolaylaştıran Python tabanlı bir çerçevedir (framework). Geliştiricilerin yapay zekâ modelleri ile yerel araçlar arasında hızlı entegrasyon kurmasını sağlar.
 
-- ★ 26.621
+- ★ 27.020
 - Python
 - GitHub Trending · 2026-07-21
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 26.621 → 27.020, son sürüm v3.4.5 (27 Temmuz 2026).
 
 ## Ne kazandırır?
 - Python fonksiyonlarını kolayca yapay zekâ araçlarına dönüştürür

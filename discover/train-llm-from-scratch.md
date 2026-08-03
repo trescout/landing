@@ -2,10 +2,13 @@
 
 train-llm-from-scratch , veri setini indirme aşamasından metin üretimine kadar bir büyük dil modelini sıfırdan eğitmenin sade ve adım adım yöntemini sunar. Öğrenme süreciniz için pratik bir kaynaktır.
 
-- ★ 2.086
+- ★ 8.864
 - Jupyter Notebook
 - MIT
 - GitHub Trending · 30 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 2.086 → 8.864.
 
 - **Kimin için:** LLM eğitimini elle öğrenmek isteyenler 
 - **Zorluk:** Orta–ileri · Python/ML temeli 

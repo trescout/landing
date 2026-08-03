@@ -2,8 +2,11 @@
 
 Zhangxuefeng-skill, üniversite sınavı tercihleri, lisansüstü eğitim ve kariyer planlama süreçleri için yapılandırılmış bir bilişsel işletim sistemi (cognitive operating system) sunuyor. Nuwa.skill altyapısıyla oluşturulan bu proje, karmaşık karar verme süreçlerini pratik bir düşünce çerçevesi (thought framework) ile standartlaştırıyor.
 
-- ★ 8.114
+- ★ 10.048
 - GitHub Trending · 2026-06-12
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 8.114 → 10.048.
 
 ## Ne kazandırır?
 - Karmaşık kariyer ve eğitim kararlarını张雪峰'in bilişsel çerçevesiyle analiz eder.

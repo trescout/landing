@@ -2,10 +2,13 @@
 
 VoxCPM ; çok dilli konuşma üretimi, yaratıcı ses tasarımı ve gerçekçi ses kopyalama (voice cloning) işlemleri için geliştirilmiş, belirteçsiz (tokenizer-free) açık kaynak bir TTS modelidir.
 
-- ★ 22.648
+- ★ 34.774
 - Python
 - Apache-2.0
 - GitHub Trending · 30 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 22.648 → 34.774, son sürüm 2.0.3 (11 Mayıs 2026).
 
 - **Kimin için:** Ses/TTS geliştiren geliştiriciler, araştırmacılar 
 - **Zorluk:** İleri · ML/model bilgisi 

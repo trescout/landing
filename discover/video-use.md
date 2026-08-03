@@ -2,9 +2,12 @@
 
 Video-use kütüphanesi, kodlama ajanlarının (coding agents) video düzenleme süreçlerini otomatize etmesine olanak tanıyor. Python tabanlı bu araç, görsel düzenleme görevlerini yazılım komutları aracılığıyla yerine getirerek iş akışlarını hızlandırıyor.
 
-- ★ 11.471
+- ★ 18.290
 - Python
 - GitHub Trending · 2026-06-29
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 11.471 → 18.290.
 
 ## Ne kazandırır?
 - Dolgu kelimeleri ve sessiz boşlukları otomatik temizler

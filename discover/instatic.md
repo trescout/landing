@@ -2,9 +2,12 @@
 
 Instatic, TypeScript tabanlı, kendi kendine barındırılan (self-hosted) modern bir görsel içerik yönetim sistemi (CMS) olarak sunuluyor. Kullanıcıların hızlı kurulum süreciyle içerik yönetimi arayüzünü kendi sunucularında çalıştırmasına olanak tanıyor.
 
-- ★ 1.681
+- ★ 7.250
 - TypeScript
 - GitHub Trending · 2026-07-01
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 1.681 → 7.250, son sürüm v0.0.14 (28 Temmuz 2026).
 
 ## Ne kazandırır?
 - Tüm içerik yönetimini tek bir sunucuda toplayın

@@ -2,10 +2,13 @@
 
 Puppeteer, Chrome ve Firefox tarayıcılarını kontrol etmek için kullanılan bir tarayıcı otomasyonu (browser automation) kütüphanesidir. TypeScript ile geliştirilen bu araç, web sayfaları üzerinde test otomasyonu ve veri kazıma (web scraping) işlemleri için standart bir arayüz sunar.
 
-- ★ 94.629
+- ★ 95.396
 - GitHub Trending · 2026-06-15
 
 TreScout notu: Tarayıcıyı elle değil kodla kullanmanızı sağlar: Sayfayı açar, tıklar, form doldurur, ekran görüntüsü ya da PDF alır. Aynı işi yapan Playwright daha geniş kapsamlıdır, birden çok tarayıcı gerekiyorsa oraya bakın. Kurulum tarayıcının bir kopyasını da indirir, yer kaplar.
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 94.629 → 95.396, son sürüm puppeteer-core-v25.4.0 (27 Temmuz 2026).
 
 ## Ne kazandırır?
 - Chrome ve Firefox tarayıcılarını yazılımla kontrol eder

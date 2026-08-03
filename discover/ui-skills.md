@@ -2,9 +2,12 @@
 
 Tasarım mühendisleri için geliştirilen ui-skills, kullanıcı arayüzü (UI) geliştirme süreçlerinde ihtiyaç duyulan teknik becerileri ve yetkinlikleri bir araya getiriyor. TypeScript tabanlı bu kaynak, arayüz tasarımından kodlamaya geçiş yapan profesyoneller için bir yetkinlik haritası sunuyor.
 
-- ★ 4.436
+- ★ 6.838
 - TypeScript
 - GitHub Trending · 2026-07-17
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 4.436 → 6.838, son sürüm v0.2.3 (22 Haziran 2026).
 
 ## Ne kazandırır?
 - Arayüz geliştirme süreçlerinde teknik yetkinlik haritası

@@ -3183,5 +3183,40 @@
     "full": "Model Context Protocol",
     "cat": "ai",
     "kisa": "Yapay zeka modellerinin farklı veri kaynaklarıyla ve araçlarla güvenli bir şekilde konuşmasını sağlayan standart bir bağlantı dilidir."
+  },
+  {
+    "slug": "code-coverage",
+    "en": "Code Coverage",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım testlerinin, yazılan kodun ne kadarlık bir kısmını gerçekten çalıştırıp kontrol ettiğini ölçen bir metrik."
+  },
+  {
+    "slug": "inference-engine",
+    "en": "Inference Engine",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Eğitilmiş bir yapay zekâ modelini kullanarak, ona verilen yeni girdilere karşı tahmin veya sonuç üreten yazılım motoru."
+  },
+  {
+    "slug": "prefix-cache",
+    "en": "Prefix Cache",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın daha önce işlediği metin başlangıçlarını hafızada tutarak aynı işlemleri tekrar yapmasını engelleyen hızlandırma yöntemi."
+  },
+  {
+    "slug": "static-site-generator",
+    "en": "Static Site Generator",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Hazır içerikleri ve şablonları alıp, kullanıcıya sunulmaya hazır sabit web sayfalarına dönüştüren araç."
+  },
+  {
+    "slug": "userspace",
+    "en": "Userspace",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarın çekirdeğine (kernel) müdahale etmeden, kullanıcı uygulamalarının çalıştığı güvenli alan."
   }
 ]

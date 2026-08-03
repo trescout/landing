@@ -2,9 +2,12 @@
 
 Turso, SQLite ile uyumlu çalışan ve süreç içi (in-process) bir SQL veritabanı sunuyor. Rust diliyle geliştirilen bu sistem, uygulama süreçlerine entegre edilerek veri yönetimi süreçlerini basitleştiriyor.
 
-- ★ 20.466
+- ★ 23.620
 - Rust
 - GitHub Trending · 2026-06-21
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 20.466 → 23.620, son sürüm v0.7.2 (30 Temmuz 2026).
 
 ## Ne kazandırır?
 - SQLite ile tam SQL uyumluluğu

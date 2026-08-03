@@ -2,9 +2,12 @@
 
 PyTorch, Python tabanlı tensör hesaplamaları ve dinamik sinir ağları (dynamic neural networks) için güçlü grafik işlem birimi (GPU) hızlandırması sunan bir makine öğrenmesi kütüphanesidir. Derin öğrenme modellerinin geliştirilmesi ve dağıtılması süreçlerinde geniş bir ekosistem desteği sağlar.
 
-- ★ 101.297
+- ★ 102.131
 - Python
 - GitHub Trending · 2026-07-03
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 101.297 → 102.131, son sürüm v2.13.0 (8 Temmuz 2026).
 
 ## Ne kazandırır?
 - GPU destekli yüksek performanslı tensör hesaplamaları

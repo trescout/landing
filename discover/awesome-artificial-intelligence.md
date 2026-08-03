@@ -2,8 +2,11 @@
 
 Awesome-artificial-intelligence, yapay zekâ (artificial intelligence) alanındaki eğitimleri, kitapları, video dersleri ve akademik makaleleri bir araya getiren kapsamlı bir kaynak listesidir. Bu derleme, öğrenme sürecindeki kullanıcılar için disipline dayalı yapılandırılmış bir içerik havuzu sunar.
 
-- ★ 14.532
+- ★ 15.631
 - GitHub Trending · 2026-06-19
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 14.532 → 15.631.
 
 ## Ne kazandırır?
 - Yapay zekâ mühendisliği için seçilmiş güncel kitaplar

@@ -2,9 +2,12 @@
 
 YimMenuV2, Grand Theft Auto 5: Enhanced sürümü için geliştirilen deneysel bir menü modifikasyonudur. C++ diliyle yazılan bu araç, oyun içerisinde çeşitli özelleştirmeler ve genişletilmiş işlevler (features) sunar.
 
-- ★ 1.458
+- ★ 1.612
 - C++
 - GitHub Trending · 2026-07-16
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 1.458 → 1.612, son sürüm nightly (30 Temmuz 2026).
 
 ## Ne kazandırır?
 - Oyun içi genişletilmiş işlevler sunar

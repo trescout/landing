@@ -2,8 +2,11 @@
 
 GLM-5, yazılım geliştirme süreçlerini sezgisel kodlamadan (vibe coding) yapılandırılmış ajan tabanlı mühendisliğe (agentic engineering) taşımayı amaçlayan bir çerçeve sunuyor. Bu sistem, karmaşık görevleri otonom bir şekilde yönetebilen yapay zekâ ajanları (AI agents) aracılığıyla yazılım geliştirme iş akışlarını standartlaştırıyor.
 
-- ★ 4.301
+- ★ 6.864
 - GitHub Trending · 2026-06-19
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 4.301 → 6.864.
 
 ## Ne kazandırır?
 - 1 milyon token kapasitesiyle kesintisiz uzun süreli çalışma

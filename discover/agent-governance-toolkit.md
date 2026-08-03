@@ -2,9 +2,12 @@
 
 Microsoft tarafından geliştirilen ajan yönetişim araç seti (agent governance toolkit), otonom yapay zekâ ajanları için politika uygulama, sıfır güven kimlik doğrulaması (zero-trust identity) ve yalıtılmış çalışma ortamı (sandboxing) gibi güvenlik katmanları sunuyor. Yazılım, OWASP Ajan Odaklı İlk 10 (OWASP Agentic Top 10) listesindeki güvenlik açıklarına karşı koruma sağlamayı hedefliyor.
 
-- ★ 5.342
+- ★ 5.564
 - Python
 - GitHub Trending · 2026-07-29
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 5.342 → 5.564, son sürüm v4.1.0 (9 Haziran 2026).
 
 ## Ne kazandırır?
 - Ajan eylemlerinde politika denetimi

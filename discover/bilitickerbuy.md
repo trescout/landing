@@ -2,8 +2,11 @@
 
 Bilibili üyelik satın alma işlemlerini otomatikleştiren bu Python tabanlı araç, bilet alım süreçlerini hızlandırmak için tasarlanmış bir yardımcı yazılımdır (ticket purchasing assistant). Kullanıcıların platform üzerindeki sınırlı stoklu ürünleri daha hızlı yakalamasına olanak tanır.
 
-- ★ 3.782
+- ★ 4.173
 - GitHub Trending · 2026-06-22
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 3.782 → 4.173, son sürüm v2.15.16 (4 Temmuz 2026).
 
 ## Ne kazandırır?
 - Bilibili üzerinden bilet alım işlemlerini otomatize eder

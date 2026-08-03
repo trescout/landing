@@ -2,10 +2,13 @@
 
 PaddlePaddle tarafından geliştirilen PaddleOCR, PDF ve görsel belgeleri büyük dil modelleri (large language models) için yapılandırılmış veriye dönüştüren hafif bir optik karakter tanıma (optical character recognition) aracıdır. 100'den fazla dili destekleyen bu kütüphane, görsel içerikler ile yapay zekâ modelleri arasındaki veri akışını standartlaştırmaktadır.
 
-- ★ 80.160
+- ★ 86.787
 - GitHub Trending · 2026-06-05
 
 TreScout notu: Taranmış belgedeki ve görseldeki yazıyı düzenlenebilir metne çevirir, tabloları da tanır. Ücretsiz seçenekler arasında en yetkinlerinden, ama kurulumun ağır tarafı altındaki hesaplama kütüphanesidir · ayrı bir çalışma alanında kurun, ekran kartı olmadan da çalışır ama yavaşlar. Türkçe belgelerde iş görür, yine de kendi örneklerinizle deneyin: Sonuç belgenin tarama kalitesine çok bağlı.
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 80.160 → 86.787, son sürüm v3.7.0 (11 Haziran 2026).
 
 ## Ne kazandırır?
 - PDF ve görselleri JSON veya Markdown formatına dönüştürür

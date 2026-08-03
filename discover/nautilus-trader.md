@@ -2,9 +2,12 @@
 
 Nautilus Trader, Rust diliyle geliştirilmiş, deterministik olay güdümlü mimariye (event-driven architecture) sahip bir alım satım motorudur (trading engine). Yüksek performanslı finansal sistemler için üretim seviyesinde (production-grade) altyapı çözümleri sunar.
 
-- ★ 23.912
+- ★ 25.204
 - Rust
 - GitHub Trending · 2026-06-18
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 23.912 → 25.204, son sürüm v1.230.0 (29 Haziran 2026).
 
 ## Ne kazandırır?
 - Rust tabanlı hızlı ve güvenli alım satım altyapısı

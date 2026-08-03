@@ -2,9 +2,12 @@
 
 yaml-cpp, C++ programlama dili için YAML formatındaki verileri ayrıştıran (parser) ve oluşturan (emitter) bir kütüphanedir. Yazılım geliştiricilerin yapılandırma dosyalarını yönetmesine ve veri serileştirme (serialization) işlemlerini gerçekleştirmesine olanak tanır.
 
-- ★ 6.101
+- ★ 6.113
 - C++
 - GitHub Trending · 2026-07-11
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 6.101 → 6.113, son sürüm yaml-cpp-0.9.0 (4 Şubat 2026).
 
 ## Ne kazandırır?
 - YAML 1.2 standartlarına tam uyum

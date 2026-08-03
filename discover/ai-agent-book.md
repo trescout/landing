@@ -2,9 +2,12 @@
 
 Yapay zekâ ajanları (AI agents) üzerine hazırlanan bu açık kaynaklı kitap, tasarım prensipleri ve mühendislik uygulamalarını kapsamlı bir şekilde ele alıyor. İçeriğinde teorik bilgilerin yanı sıra bölümlere ayrılmış uygulama kodları ve derlenmiş PDF dosyaları yer alıyor.
 
-- ★ 7.362
+- ★ 29.814
 - Python
 - GitHub Trending · 2026-07-20
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 7.362 → 29.814.
 
 ## Ne kazandırır?
 - Yapay zekâ ajanlarının çalışma prensiplerini öğrenin
@@ -32,7 +35,7 @@ Sen bir yapay zekâ ajanı geliştirme uzmanısın. Bana 'Agent = LLM + Bağlam 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agent RAG AI Agents Agents LLM PDF
+AI Agent RAG AI Agents Agents PDF LLM
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-agent-book/

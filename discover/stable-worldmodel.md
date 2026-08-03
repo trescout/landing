@@ -2,10 +2,13 @@
 
 stable-worldmodel ; 'dünya modelleri' (world models) üzerine yapılan araştırmaların tekrarlanabilir ve karşılaştırılabilir olmasını sağlayan bir platformdur. Özellikle araştırma ve değerlendirme süreçlerine odaklanır.
 
-- ★ 1.403
+- ★ 2.080
 - Python
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 1.403 → 2.080, son sürüm 0.1.1 (6 Haziran 2026).
 
 - **Kimin için:** ML/RL araştırmacıları 
 - **Zorluk:** İleri · araştırma odaklı 

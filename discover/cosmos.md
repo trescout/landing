@@ -2,9 +2,12 @@
 
 NVIDIA tarafından geliştirilen Cosmos, robotlar ve otonom araçlar gibi fiziksel sistemler için dünya modelleri (world models), veri setleri ve araçlar sunan açık bir platformdur. Geliştiricilerin fiziksel yapay zekâ (physical AI) uygulamaları oluşturmasını kolaylaştıran bir altyapı sağlar.
 
-- ★ 9.173
+- ★ 11.343
 - Jupyter Notebook
 - GitHub Trending · 2026-06-05
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 9.173 → 11.343, son sürüm Cosmos3 (1 Haziran 2026).
 
 ## Ne kazandırır?
 - Fiziksel yapay zekâ uygulamaları için dünya modelleri, veri setleri ve araçlar sunar.

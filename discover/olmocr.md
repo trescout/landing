@@ -2,9 +2,12 @@
 
 AllenAI tarafından geliştirilen olmocr, PDF belgelerini büyük dil modelleri (large language models) için uygun metin formatlarına dönüştüren bir araç takımıdır. Bu yazılım, karmaşık doküman yapılarının doğrusal bir biçimde işlenmesini sağlayarak veri seti hazırlama süreçlerini kolaylaştırır.
 
-- ★ 18.418
+- ★ 19.259
 - Python
 - GitHub Trending · 2026-07-02
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 18.418 → 19.259, son sürüm v0.4.27 (12 Mart 2026).
 
 ## Ne kazandırır?
 - PDF ve resim formatlarını temiz Markdown metnine dönüştürür

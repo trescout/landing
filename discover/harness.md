@@ -4,10 +4,13 @@ Harness , Claude Code'un ajan ekip sistemini kullanarak karmaşık görevleri uz
 
 _Görsel: harness (proje deposundan)_
 
-- ★ 4.063
+- ★ 8.581
 - Claude Code
 - Apache-2.0
 - GitHub Trending · 29 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 4.063 → 8.581.
 
 - **Kimin için:** Claude Code ile karmaşık iş yapan geliştiriciler 
 - **Zorluk:** Orta–ileri · Claude Code 

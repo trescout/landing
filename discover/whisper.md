@@ -2,9 +2,12 @@
 
 OpenAI tarafından geliştirilen Whisper, geniş ölçekli zayıf denetimli öğrenme (weak supervision) yöntemiyle eğitilmiş bir konuşma tanıma (speech recognition) modelidir. Çok dilli ses verilerini metne dönüştürme ve çeviri yapma süreçlerinde yüksek doğruluk oranları sunar.
 
-- ★ 101.952
+- ★ 106.452
 - Python
 - GitHub Trending · 2026-06-07
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 101.952 → 106.452, son sürüm v20250625 (26 Haziran 2025).
 
 ## Ne kazandırır?
 - Ses dosyalarını yüksek doğrulukla metne dönüştürme.

@@ -2,9 +2,12 @@
 
 Caveman, Claude Code için geliştirilen ve yapay zekâ modelinin dil kullanımını basitleştirerek belirteç (token) tüketimini yüzde 65 oranında azaltan bir yetenek paketidir. Bu araç, karmaşık komutları ilkel bir dil yapısına indirgeyerek işlem maliyetlerini düşürmeyi hedefler.
 
-- ★ 81.688
+- ★ 95.226
 - JavaScript
 - GitHub Trending · 2026-07-03
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 81.688 → 95.226, son sürüm v1.9.1 (3 Temmuz 2026).
 
 ## Ne kazandırır?
 - Yapay zekâ yanıtlarında %65'e varan belirteç tasarrufu sağlar.

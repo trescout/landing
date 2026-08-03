@@ -2,9 +2,12 @@
 
 Pekin Üniversitesi öğrencileri tarafından hazırlanan bu rehber, bilgisayar bilimleri (computer science) alanında kendi kendine öğrenmek isteyenler için kapsamlı bir yol haritası sunuyor. Temel derslerden uzmanlık alanlarına kadar geniş bir müfredatı kaynaklar ve çalışma yöntemleriyle birleştiriyor.
 
-- ★ 74.290
+- ★ 74.728
 - HTML
 - GitHub Trending · 2026-07-20
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 74.290 → 74.728, son sürüm v1.2.0 (8 Haziran 2025).
 
 ## Ne kazandırır?
 - Üniversite düzeyinde yapılandırılmış müfredat

@@ -2,8 +2,11 @@
 
 Production-agentic-rag-course, karmaşık veri kaynaklarından bilgi getirme süreçlerini otomatize eden ajan tabanlı getirme destekli üretim (agentic RAG) sistemlerinin geliştirilmesine yönelik uygulamalı bir eğitim sunuyor. Python dilini temel alan bu kaynak, ölçeklenebilir ve üretim seviyesinde yapay zekâ uygulamaları oluşturmak için gerekli teknik mimariyi öğretiyor.
 
-- ★ 6.536
+- ★ 8.216
 - GitHub Trending · 2026-06-03
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 6.536 → 8.216, son sürüm week7.0 (26 Kasım 2025).
 
 ## Ne kazandırır?
 - Üretim seviyesinde RAG sistemleri için gerekli altyapıyı kurma.

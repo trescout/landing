@@ -2,9 +2,12 @@
 
 JavaScript dilinin bir üst kümesi (superset) olan TypeScript, kodun derleme aşamasında hata denetimi yapılmasına olanak tanıyor. Statik tip tanımlama (static typing) özelliğiyle daha güvenilir ve ölçeklenebilir yazılım geliştirme süreçlerini destekliyor.
 
-- ★ 109.817
+- ★ 110.042
 - TypeScript
 - GitHub Trending · 2026-07-11
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 109.817 → 110.042, son sürüm v6.0.3 (16 Nisan 2026).
 
 ## Ne kazandırır?
 - Kod yazarken hata denetimi yapma

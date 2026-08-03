@@ -4,10 +4,13 @@ MOSS-TTS (MOSI.AI ve OpenMOSS); yüksek sadakatli konuşma ve ses üretimi sağl
 
 _Görsel: MOSS-TTS (proje deposundan)_
 
-- ★ 2.440
+- ★ 3.939
 - Python
 - Apache-2.0
 - GitHub Trending · 29 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 2.440 → 3.939.
 
 - **Kimin için:** TTS/ses üretimi yapan geliştiriciler, araştırmacılar 
 - **Zorluk:** İleri · ML/model bilgisi 

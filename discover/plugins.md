@@ -2,9 +2,12 @@
 
 OpenAI eklentileri (plugins), dil modellerinin güncel verilere erişmesini ve üçüncü taraf uygulamalarla etkileşime girmesini sağlıyor. Bu yapı, yapay zekânın dış araçları kullanarak karmaşık görevleri yerine getirmesine olanak tanıyor.
 
-- ★ 1.596
+- ★ 4.881
 - JavaScript
 - GitHub Trending · 2026-06-06
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 1.596 → 4.881.
 
 ## Ne kazandırır?
 - Dil modellerinin güncel verilere erişmesini sağlar.

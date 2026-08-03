@@ -2,9 +2,12 @@
 
 AirLLM, 70 milyar parametreli büyük dil modellerinin (large language models) yalnızca 4 GB video belleğine (VRAM) sahip grafik işlem birimlerinde çalıştırılmasına olanak tanıyor. Bu kütüphane, bellek optimizasyonu tekniklerini kullanarak yüksek kapasiteli modellerin düşük donanım gereksinimleriyle kullanılmasını sağlıyor.
 
-- ★ 19.113
+- ★ 25.416
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 19.113 → 25.416, son sürüm v3.1.0 (29 Temmuz 2026).
 
 ## Ne kazandırır?
 - 70B parametreli modelleri 4GB VRAM ile çalıştırma imkanı.

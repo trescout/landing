@@ -2,9 +2,12 @@
 
 Fanqiang projesi, internet sansürünü aşmak için geliştirilen ve Kotlin diliyle yazılmış bir ağ geçidi (gateway) aracıdır. Kullanıcılara kısıtlı ağ kaynaklarına erişim sağlamak amacıyla tasarlanmış açık kaynaklı bir yazılımdır.
 
-- ★ 47.142
+- ★ 49.405
 - Kotlin
 - GitHub Trending · 2026-06-12
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 47.142 → 49.405, son sürüm FQNews-v1.3.8 (18 Ağustos 2024).
 
 ## Ne kazandırır?
 - Farklı işletim sistemleri ve cihazlar için geniş kapsamlı ağ erişim rehberlerine erişim sağlar.

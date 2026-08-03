@@ -2,8 +2,11 @@
 
 LibreTranslate, özgür ve açık kaynak kodlu bir makine çevirisi arayüzü (API) sunuyor. Kendi sunucunuzda barındırabileceğiniz bu Python tabanlı araç, internet bağlantısı olmadan çevrim dışı çalışma imkânı sağlıyor.
 
-- ★ 15.075
+- ★ 15.834
 - GitHub Trending · 2026-06-19
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 15.075 → 15.834, son sürüm v1.9.6 (26 Mayıs 2026).
 
 ## Ne kazandırır?
 - Google veya Azure gibi bağımlı servislerden kurtulun

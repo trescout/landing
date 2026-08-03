@@ -2,9 +2,12 @@
 
 Prisma, Node.js ve TypeScript projeleri için veritabanı etkileşimlerini kolaylaştıran bir nesne ilişkisel eşleyici (ORM) aracıdır. Farklı veritabanı sistemlerini destekleyen yapısı, geliştiricilere tip güvenli (type-safe) veritabanı sorguları oluşturma imkânı tanır.
 
-- ★ 46.668
+- ★ 47.427
 - TypeScript
 - GitHub Trending · 2026-07-09
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 46.668 → 47.427, son sürüm 7.9.1 (27 Temmuz 2026).
 
 ## Ne kazandırır?
 - Tip güvenli veritabanı sorguları oluşturma

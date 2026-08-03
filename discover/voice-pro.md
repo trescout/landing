@@ -2,9 +2,12 @@
 
 Voice-pro, metinden konuşmaya dönüştürme (TTS) ve sıfır örnekli ses kopyalama (zero-shot voice cloning) araçlarını bir araya getiren açık kaynaklı bir arayüzdür. Kullanıcılar, web tabanlı arayüzü üzerinden ses ayrıştırma, çok dilli çeviri ve YouTube içeriklerini işleme gibi işlemleri tek bir platformda gerçekleştirebilir.
 
-- ★ 11.859
+- ★ 11.965
 - Python
 - GitHub Trending · 2026-08-02
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 11.859 → 11.965, son sürüm v4.0.0 (13 Temmuz 2026).
 
 ## Ne kazandırır?
 - YouTube videolarından ses ayrıştırma ve çeviri yapma

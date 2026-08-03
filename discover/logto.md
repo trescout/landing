@@ -2,9 +2,12 @@
 
 Logto, SaaS ve yapay zekâ uygulamaları için Açık Kimlik Doğrulama (OIDC) ve OAuth 2.1 protokollerini temel alan bir kimlik doğrulama ve yetkilendirme altyapısı sunuyor. Çoklu kiracılık (multi-tenancy), tek oturum açma (SSO) ve rol tabanlı erişim denetimi (RBAC) gibi özellikleri TypeScript ile geliştirilmiş bir yapıda birleştiriyor.
 
-- ★ 12.903
+- ★ 14.271
 - TypeScript
 - GitHub Trending · 2026-06-30
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 12.903 → 14.271, son sürüm v1.42.0 (30 Temmuz 2026).
 
 ## Ne kazandırır?
 - OIDC ve OAuth 2.1 protokolleri ile güvenli altyapı

@@ -2,9 +2,12 @@
 
 Meshoptimizer kütüphanesi, üç boyutlu ağ (mesh) verilerini optimize ederek dosya boyutlarını küçültüyor ve işleme (rendering) performansını artırıyor. C++ diliyle geliştirilen bu araç, grafik uygulamalarında bellek kullanımını iyileştirmek için geometrik verileri düzenliyor.
 
-- ★ 8.045
+- ★ 8.177
 - C++
 - GitHub Trending · 2026-07-11
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 8.045 → 8.177, son sürüm v1.2 (30 Haziran 2026).
 
 ## Ne kazandırır?
 - Üç boyutlu modellerde dosya boyutunu küçültür

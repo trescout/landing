@@ -2,9 +2,12 @@
 
 SpiderFoot, tehdit istihbaratı ve saldırı yüzeyi haritalama süreçleri için açık kaynaklı istihbarat (OSINT) toplama işlemlerini otomatize eden bir Python aracıdır. Çeşitli veri kaynaklarını entegre ederek dijital varlıklar üzerindeki güvenlik açıklarını tespit etmeyi sağlar.
 
-- ★ 18.921
+- ★ 20.026
 - Python
 - GitHub Trending · 2026-06-22
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 18.921 → 20.026, son sürüm v4.0 (7 Nisan 2022).
 
 ## Ne kazandırır?
 - 200'den fazla modül ile otomatik veri toplama

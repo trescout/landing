@@ -2,9 +2,12 @@
 
 GitHub tarafından geliştirilen actions/checkout, yazılım geliştirme süreçlerinde depo kopyalama (repository checkout) işlemlerini otomatize eden bir araçtır. Sürekli entegrasyon (continuous integration) iş akışlarında kaynak kodun çalışma ortamına aktarılmasını sağlar.
 
-- ★ 8.197
+- ★ 8.589
 - TypeScript
 - GitHub Trending · 2026-07-03
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 8.197 → 8.589, son sürüm v7.0.1 (20 Temmuz 2026).
 
 ## Ne kazandırır?
 - Kaynak kodun çalışma ortamına aktarılması

@@ -2,9 +2,12 @@
 
 Dünya genelindeki halka açık televizyon kanallarını tek bir merkezde toplayan iptv-org projesi, internet protokolü üzerinden televizyon yayını (IPTV) listelerini düzenli bir veri kümesi olarak sunuyor. TypeScript ile geliştirilen bu açık kaynaklı koleksiyon, kullanıcıların farklı ülkelerdeki yayınlara erişimini standartlaştırıyor.
 
-- ★ 118.170
+- ★ 134.991
 - TypeScript
 - GitHub Trending · 2026-06-13
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 118.170 → 134.991.
 
 ## Ne kazandırır?
 - Dünya genelindeki halka açık televizyon kanallarını tek bir merkezde toplar.

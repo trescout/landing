@@ -2,9 +2,12 @@
 
 Firecrawl, web sitelerindeki verileri büyük ölçekte taramak, ayıklamak ve yapay zekâ modellerinin işleyebileceği temiz metin formatına dönüştürmek için bir arayüz (API) sunuyor. Bu araç, web içeriğiyle etkileşimi otomatize ederek veri toplama süreçlerini kolaylaştırıyor.
 
-- ★ 137.683
+- ★ 159.421
 - TypeScript
 - GitHub Trending · 2026-06-23
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 137.683 → 159.421, son sürüm v2.11.0 (19 Haziran 2026).
 
 ## Ne kazandırır?
 - Web sitelerini temiz metin formatına dönüştürür

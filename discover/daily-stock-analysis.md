@@ -2,9 +2,12 @@
 
 Büyük dil modelleri (large language models) ile desteklenen bu sistem, çok kaynaklı piyasa verilerini ve gerçek zamanlı haberleri analiz ederek yatırım kararları için görselleştirilmiş paneller sunuyor. Otomatik bildirimler ve ücretsiz zamanlanmış çalışma desteğiyle farklı borsalar için analiz süreçlerini standartlaştırıyor.
 
-- ★ 45.304
+- ★ 59.863
 - Python
 - GitHub Trending · 2026-06-22
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 45.304 → 59.863, son sürüm v3.29.0 (2 Ağustos 2026).
 
 ## Ne kazandırır?
 - Çok kaynaklı piyasa verileriyle otomatik yatırım raporları

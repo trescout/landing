@@ -2,9 +2,12 @@
 
 Lingbot-map, akış halindeki verilerden sahneleri yeniden oluşturmak için tasarlanmış ileri beslemeli bir üç boyutlu temel modeldir (3D foundation model). Proje, Python diliyle geliştirilen mimarisi sayesinde karmaşık çevresel verileri işleyerek görselleştirme süreçlerini optimize eder.
 
-- ★ 8.439
+- ★ 16.054
 - Python
 - GitHub Trending · 2026-06-29
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 8.439 → 16.054.
 
 ## Ne kazandırır?
 - Uzun video sekanslarında kararlı 3D yeniden oluşturma

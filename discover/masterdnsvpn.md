@@ -2,9 +2,12 @@
 
 MasterDnsVPN, sansür engellerini aşmak için geliştirilen ve düşük yükle çalışan bir alan adı sistemi tünelleme (DNS tunneling) sanal özel ağ (VPN) çözümüdür. Go diliyle yazılan araç, veri iletiminde yüksek paket kaybı kararlılığı ve çözümleyici yük dengeleme (resolver load balancing) özellikleri sunar.
 
-- ★ 5.411
+- ★ 6.870
 - Go
 - GitHub Trending · 2026-06-11
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 5.411 → 6.870, son sürüm v2026.06.13.234407-7de2476 (13 Haziran 2026).
 
 ## Ne kazandırır?
 - DNS tünelleme yöntemiyle sansürlü ağlarda veri iletimi sağlar.

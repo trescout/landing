@@ -2,9 +2,12 @@
 
 Rust diliyle geliştirilen Karukan, Linux ve macOS işletim sistemleri için sinirsel kana-kanji dönüştürme motoru (neural kana-kanji conversion engine) kullanan bir Japonca giriş yöntemi sistemidir (Japanese Input Method System). Yazılım, geleneksel yöntemlerin ötesine geçerek metin dönüştürme süreçlerinde yapay zekâ tabanlı bir yaklaşım sunar.
 
-- ★ 615
+- ★ 692
 - Rust
 - GitHub Trending · 2026-07-02
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 615 → 692, son sürüm v0.1.0 (23 Şubat 2026).
 
 ## Ne kazandırır?
 - GPT-2 tabanlı sinirsel kana-kanji dönüşümü

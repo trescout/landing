@@ -2,9 +2,12 @@
 
 Meetily, toplantı kayıtlarını yerel olarak işleyen ve bulut bağlantısına ihtiyaç duymayan, açık kaynaklı bir toplantı asistanıdır. Rust diliyle geliştirilen uygulama, hızlı ses dökümü (transcription), konuşmacı ayrıştırma (speaker diarization) ve yerel dil modelleriyle özetleme yetenekleri sunar.
 
-- ★ 15.565
+- ★ 27.968
 - Rust
 - GitHub Trending · 2026-07-05
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 15.565 → 27.968, son sürüm v0.4.0 (5 Haziran 2026).
 
 ## Ne kazandırır?
 - Tüm ses dökümü ve özetleme işlemleri cihazınızda gerçekleşir.

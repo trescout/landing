@@ -2,9 +2,12 @@
 
 PostgreSQL veritabanı yönetim sisteminin Rust programlama dili ile yeniden yazıldığı pgrust projesi, tüm regresyon testlerini başarıyla tamamlıyor. Bu çalışma, bellek güvenliği (memory safety) odaklı bir dille veritabanı mimarisini modernize etmeyi amaçlıyor.
 
-- ★ 2.171
+- ★ 3.957
 - Rust
 - GitHub Trending · 2026-07-12
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 2.171 → 3.957, son sürüm v0.2-release (30 Temmuz 2026).
 
 ## Ne kazandırır?
 - Postgres 18.3 ile disk uyumluluğu

@@ -2,9 +2,12 @@
 
 Maths-cs-ai-compendium, yapay zekâ ve makine öğrenimi (machine learning) alanında uzmanlaşmak isteyen mühendisler için matematik, bilgisayar bilimleri ve yapay zekâ konularını kapsayan kapsamlı bir kaynak derlemesi sunuyor. Bu depo, teorik temelleri güçlendirmek ve araştırma mühendisliği becerilerini geliştirmek amacıyla yapılandırılmış bir çalışma rehberi görevi görüyor.
 
-- ★ 5.424
+- ★ 7.220
 - TypeScript
 - GitHub Trending · 2026-07-15
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 5.424 → 7.220.
 
 ## Ne kazandırır?
 - Matematik ve bilgisayar bilimleri temellerini güçlendirme

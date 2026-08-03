@@ -2,9 +2,12 @@
 
 gRPC, farklı programlama dilleri arasında yüksek performanslı iletişim sağlayan açık kaynaklı bir uzaktan yordam çağrısı (remote procedure call) çerçevesidir. C++ tabanlı altyapısı sayesinde Python, Ruby, C# ve PHP gibi diller için ölçeklenebilir ağ hizmetleri geliştirilmesine olanak tanır.
 
-- ★ 45.162
+- ★ 45.240
 - C++
 - GitHub Trending · 2026-07-11
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 45.162 → 45.240, son sürüm v1.83.0 (22 Temmuz 2026).
 
 ## Ne kazandırır?
 - Farklı programlama dilleri arasında veri alışverişi sağlar

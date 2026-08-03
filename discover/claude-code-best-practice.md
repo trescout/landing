@@ -2,9 +2,12 @@
 
 Claude Code için geliştirilen bu rehber, sezgisel kodlama (vibe coding) yaklaşımından ajan tabanlı mühendisliğe (agentic engineering) geçiş süreçlerini ele alıyor. Yazılım geliştirme süreçlerinde yapay zekâ ajanlarının verimliliğini artırmak adına pratik uygulama yöntemleri ve en iyi pratikler (best practices) sunuyor.
 
-- ★ 59.766
+- ★ 63.889
 - HTML
 - GitHub Trending · 2026-06-24
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 59.766 → 63.889.
 
 ## Ne kazandırır?
 - Ajan tabanlı mühendislik süreçlerini öğrenin.

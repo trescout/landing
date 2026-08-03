@@ -2,9 +2,12 @@
 
 PhotoGIMP, GIMP arayüzünü Photoshop kullanıcılarına tanıdık gelecek şekilde düzenleyen bir yama (patch) sunuyor. Bu araç, görsel düzenleme yazılımı (image editing software) geçiş sürecini kolaylaştırmak için kısayolları ve menü yerleşimlerini Photoshop standartlarına uyarlıyor.
 
-- ★ 15.195
+- ★ 17.197
 - CSS
 - GitHub Trending · 2026-07-09
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 15.195 → 17.197, son sürüm 3.1 (11 Temmuz 2026).
 
 ## Ne kazandırır?
 - Photoshop ile aynı kısayol tuşları

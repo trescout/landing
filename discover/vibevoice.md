@@ -2,10 +2,13 @@
 
 Microsoft tarafından yayınlanan VibeVoice, açık kaynaklı bir sesli yapay zekâ (voice AI) çerçevesi olarak geliştirildi. Sistem, Python tabanlı yapısıyla kullanıcıların kendi ses modellerini eğitmelerine ve uygulamalarına entegre etmelerine olanak tanıyor.
 
-- ★ 48.569
+- ★ 51.860
 - GitHub Trending · 2026-06-07
 
 TreScout notu: Depo yayımlandıktan sonra değişti: Sesi yazıya çeviren kısım duruyor, yazıyı sese çeviren kısım geri çekildi. Uzun kayıtları tek seferde işleyebilmesi ayırt edici yanı. Hızlı değişen bir proje, işinize katmadan önce deponun bugünkü hâline bakın.
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 48.569 → 51.860.
 
 ## Ne kazandırır?
 - Tek seferde 60 dakikaya kadar ses kaydını metne dönüştürür.

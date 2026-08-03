@@ -2,9 +2,12 @@
 
 Hiring-agent, özgeçmişleri değerlendirmek ve puanlamak için tasarlanmış bir yapay zekâ ajanıdır (AI agent). Python diliyle geliştirilen bu araç, işe alım süreçlerinde aday tarama işlemlerini otomatize etmeyi amaçlar.
 
-- ★ 2.482
+- ★ 6.694
 - Python
 - GitHub Trending · 2026-06-25
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 2.482 → 6.694.
 
 ## Ne kazandırır?
 - PDF formatındaki özgeçmişleri otomatik ayrıştırır.

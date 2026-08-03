@@ -2,9 +2,12 @@
 
 OpenCut, video düzenleme süreçleri için açık kaynaklı bir alternatif sunan TypeScript tabanlı bir uygulama geliştirme projesidir. CapCut benzeri bir kullanıcı deneyimi sağlamayı hedefleyen bu platform, video kurgu araçlarını erişilebilir kılmayı amaçlar.
 
-- ★ 67.464
+- ★ 80.488
 - TypeScript
 - GitHub Trending · 2026-07-14
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 67.464 → 80.488, son sürüm v0.3.0 (15 Nisan 2026).
 
 ## Ne kazandırır?
 - Web, masaüstü ve mobil platform desteği

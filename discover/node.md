@@ -2,9 +2,12 @@
 
 Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağlayan bir çalışma zamanı ortamı (runtime environment) sunuyor. V8 motorunu temel alan bu platform, sunucu tarafında ölçeklenebilir ağ uygulamaları geliştirmek için kullanılıyor.
 
-- ★ 118.523
+- ★ 118.617
 - JavaScript
 - GitHub Trending · 2026-07-27
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 118.523 → 118.617, son sürüm v26.5.1 (29 Temmuz 2026).
 
 ## Ne kazandırır?
 - JavaScript kodunu tarayıcı dışında çalıştırır

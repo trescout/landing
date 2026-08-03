@@ -2,9 +2,12 @@
 
 Baileys, WhatsApp Web protokolünü temel alan ve TypeScript ile JavaScript tabanlı uygulamalar geliştirmeye olanak tanıyan soket tabanlı bir arayüz (API) sunuyor. Geliştiriciler, bu kütüphane sayesinde WhatsApp mesajlaşma işlevlerini kendi projelerine doğrudan entegre edebiliyor.
 
-- ★ 10.485
+- ★ 10.556
 - JavaScript
 - GitHub Trending · 2026-07-31
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 10.485 → 10.556, son sürüm v7.0.0-rc14 (29 Temmuz 2026).
 
 ## Ne kazandırır?
 - WhatsApp Web API ile doğrudan etkileşim kurun

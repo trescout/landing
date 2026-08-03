@@ -2,9 +2,12 @@
 
 Kodlama ajanlarının çıktılarını daha odaklı ve düzenli hale getirmek için geliştirilen i-have-adhd, karmaşık yanıtları parçalara bölerek kullanıcı deneyimini iyileştiriyor. Bu Python tabanlı yetenek (skill), yapay zekânın bilgi sunumunu dikkat eksikliği ve hiperaktivite bozukluğu (ADHD) dostu bir formatta standartlaştırıyor.
 
-- ★ 7.248
+- ★ 15.559
 - Python
 - GitHub Trending · 2026-07-22
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 7.248 → 15.559.
 
 ## Ne kazandırır?
 - Yapay zekâ yanıtlarında gereksiz giriş cümlelerini kaldırır.

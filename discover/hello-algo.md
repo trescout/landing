@@ -2,9 +2,12 @@
 
 Hello 算法, veri yapıları ve algoritmaları animasyonlu görselleştirmelerle destekleyerek öğreten açık kaynaklı bir eğitim platformudur. Proje, çok sayıda programlama dili desteği ve tek tıkla çalıştırılabilir kod örnekleri sunarak öğrenme sürecini standartlaştırıyor.
 
-- ★ 127.220
+- ★ 129.072
 - Java
 - GitHub Trending · 2026-06-16
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 127.220 → 129.072, son sürüm 1.3.0 (1 Ocak 2026).
 
 ## Ne kazandırır?
 - Animasyonlu görsel anlatımlarla kolay öğrenim

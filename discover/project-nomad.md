@@ -2,10 +2,13 @@
 
 Project N.O.M.A.D ; internet bağlantısı gerektirmeyen, kritik araçlar, bilgi kaynakları ve yapay zekâ ile donatılmış kendi kendine yeten, çevrimdışı bir bilgisayar kurma projesidir. Acil durumlar ve internetin olmadığı senaryolar için özel olarak tasarlanmıştır.
 
-- ★ 27.228
+- ★ 35.380
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 30 May 2026
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 27.228 → 35.380, son sürüm v1.33.0 (23 Haziran 2026).
 
 - **Kimin için:** Çevrimdışı/acil durum hazırlığı yapan herkes 
 - **Zorluk:** Orta · kurmak için biraz teknik bilgi 
