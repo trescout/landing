@@ -1637,7 +1637,7 @@
       ],
       "kaynak": "PyPI · paddleocr (resmî paket)"
     },
-    "trescout_notu": "Taranmış belgedeki ve görseldeki yazıyı düzenlenebilir metne çevirir, tabloları da tanır. Ücretsiz seçenekler arasında en yetkinlerinden, ama kurulumun ağır tarafı altındaki hesaplama kütüphanesidir · ayrı bir çalışma alanında kurun, ekran kartı olmadan da çalışır ama yavaşlar. Türkçe belgelerde iş görür, yine de kendi örneklerinizle deneyin: Sonuç belgenin tarama kalitesine çok bağlı.",
+    "trescout_notu": "Çok dilli metin algılama ve tanıma süreçlerinde yüksek doğruluk sunan kapsamlı bir OCR araç setidir. Belge tarama ve karmaşık tablo ayrıştırma projeleri için hazır modeller barındırır.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
@@ -2029,7 +2029,7 @@
       ],
       "kaynak": "svelte.dev (resmî CLI)"
     },
-    "trescout_notu": "Web arayüzü yazarken kullanılan çerçevelerden biri. İşin çoğunu siz kodu yazarken hallettiği için ziyaretçinin tarayıcısına daha az kod iner, sayfa hızlı açılır. Bedeli topluluk büyüklüğü: En yaygın seçenek olan React'e göre hazır parça, örnek ve iş ilanı azdır.",
+    "trescout_notu": "Tarayıcı tarafında sanal DOM (Virtual DOM) yükünü kaldırıp derleme zamanında saf JavaScript çıktısı üreten hafif bir arayüz çerçevesidir. Küçük ve orta ölçekli projelerde yüksek çalışma zamanı performansı sağlar.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
@@ -2093,7 +2093,7 @@
       ],
       "kaynak": "go.dev/doc/install (resmî) · veya go.dev/dl'den indirin"
     },
-    "trescout_notu": "Yazdığınız program tek bir dosya olarak çıkar, o dosyayı sunucuya kopyalayıp çalıştırırsınız, yanına başka bir şey kurmanız gerekmez. Karşılığında dil kasıtlı olarak sade tutulmuş: Aynı hata kontrolünü tekrar tekrar yazarsınız. Sunucu servisi ve komut satırı aracı yazmak için iyi, karmaşık iş kurallarını modellemek için zorlar.",
+    "trescout_notu": "Büyük ölçekli sistemlerde yüksek eşzamanlılık ve hızlı derleme arayan ekipler için idealdir. Kar karmaşıklığını azaltır ancak nesne yönelimli derin kalıtım yapılarına alışkın geliştiriciler için öğrenme eğrisi gerektirebilir.",
     "last_review": "2026-08-03"
   },
   {
@@ -2171,7 +2171,7 @@
       ],
       "kaynak": "vite.dev (resmî dokümantasyon)"
     },
-    "trescout_notu": "Geliştirme sırasında kaydettiğiniz değişikliği anında ekrana yansıtır, büyük projede dakikalara çıkan beklemeyi saniyeye indirir. Eski araçlardan geçiyorsanız kullandığınız eklentilerin burada karşılığı var mı diye bakın. Yeni bir web projesine başlıyorsanız varsayılan tercih sayılabilir.",
+    "trescout_notu": "Yerel ES modüllerini kullanarak geliştirme sunucusu başlatma süresini saniyelere indiren modern web paketleyicisidir. Geleneksel ağır derleme araçlarına kıyasla anlık sıcak modül değişimi (HMR) sunarak geliştirici deneyimini belirgin şekilde iyileştirir.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
@@ -2233,7 +2233,7 @@
       ],
       "kaynak": "Resmî depo · docs/vibevoice-asr.md (microsoft/VibeVoice). Kurulabilir model VibeVoice-ASR; TTS kodu depodan çıkarıldı."
     },
-    "trescout_notu": "Depo yayımlandıktan sonra değişti: Sesi yazıya çeviren kısım duruyor, yazıyı sese çeviren kısım geri çekildi. Uzun kayıtları tek seferde işleyebilmesi ayırt edici yanı. Hızlı değişen bir proje, işinize katmadan önce deponun bugünkü hâline bakın.",
+    "trescout_notu": "Düşük gecikmeli konuşmayı metne dönüştürme ve ses sentezleme süreçleri sunan odaklanmış bir ses araç kütüphanesidir. Yapay zekâ destekli sesli asistanlar ve gerçek zamanlı diyalog uygulamaları geliştirmek isteyen ekipler için uygundur.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
@@ -2267,7 +2267,7 @@
       ],
       "kaynak": "PyPI · opencv-python (resmî paket)"
     },
-    "trescout_notu": "Yapay zekâ modeli eğitmek için değil, görüntünün kendisiyle uğraşmak için: Kırpma, renk düzeltme, kenar bulma, kameradan görüntü okuma. Model eğitmek gerektiğinde bu iş için ayrı kütüphaneler kullanılır, bu onların yerine geçmez. Kurulumu tek komut, video biçimleri için ek paket isteyebilir.",
+    "trescout_notu": "Gerçek zamanlı görüntü işleme ve bilgisayarlı görü projelerinin açık kaynaklı temel taşıdır. Geleneksel piksel manipülasyonundan derin öğrenme çıkarımına kadar geniş bir yelpaze sunar; ancak C++ ve Python bağlayıcıları yüksek performans hedeflenerek tasarlandığından doğrudan kullanıma alışmak deneyim ister.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
@@ -2873,7 +2873,7 @@
       ],
       "kaynak": "restic.readthedocs.io (resmî)"
     },
-    "trescout_notu": "Yedeklerinizi şifreleyerek saklar ve aynı dosyayı iki kez yazmadığı için yer kaplamaz. Tıklanacak bir arayüzü yok, komut satırından çalışır ve eski yedekleri temizleme işini siz ayarlarsınız, ayarlamazsanız depolama zamanla şişer. Kurduğunuz gün bir dosyayı geri yüklemeyi deneyin: Yedeğin gerçekten çalıştığını başka türlü anlayamazsınız.",
+    "trescout_notu": "Şifreli, veri mükerrerliğini önleyen (deduplicated) ve farklı bulut sağlayıcılarına doğrudan yedek alabilen hızlı bir yedekleme aracıdır. Sunucu yedekleme süreçlerinde ağ band genişliğini ve depolama alanını minimumda tutmak isteyen sistem yöneticileri için idealdir.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
@@ -2932,7 +2932,7 @@
       ],
       "kaynak": "developers.chatwoot.com/self-hosted/deployment/docker (resmî)"
     },
-    "trescout_notu": "Müşterilerden gelen mesajları tek ekranda toplar: Site sohbeti, e-posta, WhatsApp. Aynı işi yapan hazır servisler kişi başına aylık ücret alır, bu kendi sunucunuzda çalıştığı için o ücret yoktur, karşılığında sunucu ve bakım sizin işiniz olur. Kurulumu tek parça değildir, yanında birkaç yardımcı program ister ve en ucuz sunucu paketlerinde zorlanır.",
+    "trescout_notu": "Müşteri destek kanallarını (canlı sohbet, e-posta, sosyal medya) tek bir merkezde toplayan açık kaynaklı bir müşteri iletişim platformudur. Kendi sunucunuzda barındırarak müşteri verilerini kontrol altında tutmanızı sağlar.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
@@ -3040,7 +3040,7 @@
       ],
       "kaynak": "docs.mattermost.com (resmî · önizleme imajı)"
     },
-    "trescout_notu": "Ekip içi mesajlaşma aracı. Hazır servislerden farkı kendi sunucunuzda çalışması, yazışmalar sizde kalır. Sayfadaki komut deneme kurulumudur, gerçek kullanımda ayrı bir veri tabanıyla kurulur. Telefon bildirimleri ek ayar ister, ekibe söz vermeden önce oraya bakın.",
+    "trescout_notu": "Veri gizliliği ve kendi sunucusunda barındırma (self-hosted) zorunluluğu olan kurumlar için Slack ve Microsoft Teams alternatifidir. Güvenlik odaklı sohbet ve kanal yönetimi sunar; dış servis entegrasyonlarını kendi altyapınızda tutmanıza imkân tanır.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
@@ -3184,7 +3184,7 @@
       ],
       "kaynak": "Microsoft Learn (resmî)"
     },
-    "trescout_notu": "Tek bir program değil, Windows'a eklenen küçük araçlar paketi. Çoğu kişi ikisi için kuruyor: Pencereleri ekrana ızgara düzeninde yerleştiren araç ve klavyeden hızlı arama. Şirket bilgisayarında kurulum yönetici izni isteyebilir.",
+    "trescout_notu": "Windows işletim sisteminde varsayılan olarak bulunmayan pencere yönetimi, kural tabanlı yeniden adlandırma ve hızlı arama gibi verimlilik araçlarını tek paket altında toplar. Sistem kaynağı tüketimi düşüktür; günlük masaüstü iş akışını hızlandırmak isteyen kullanıcılar için önerilir.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
@@ -3246,7 +3246,7 @@
       ],
       "kaynak": "swc.rs (resmî dokümantasyon)"
     },
-    "trescout_notu": "Yazdığınız modern JavaScript kodunu tarayıcıların anladığı biçime çevirir, aynı işi yapan eski araçlara göre çok daha hızlıdır. Hata denetimi yapmaz, yalnızca çevirir. Bazı popüler çerçeveler bunu zaten içeride kullanıyor, farkında olmadan kullanıyor olabilirsiniz.",
+    "trescout_notu": "Rust diliyle yazılmış, Babel'e kıyasla katlarca hızlı çalışan JavaScript ve TypeScript derleyicisidir. Büyük kod tabanlarında derleme sürelerini düşürmek isteyen projelerde performans darboğazlarını çözer.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
@@ -3419,7 +3419,7 @@
       ],
       "kaynak": "npm (resmî paket yöneticisi) · pnpm / yarn"
     },
-    "trescout_notu": "Tarayıcıyı elle değil kodla kullanmanızı sağlar: Sayfayı açar, tıklar, form doldurur, ekran görüntüsü ya da PDF alır. Aynı işi yapan Playwright daha geniş kapsamlıdır, birden çok tarayıcı gerekiyorsa oraya bakın. Kurulum tarayıcının bir kopyasını da indirir, yer kaplar.",
+    "trescout_notu": "Node.js ortamında Chromium ve Firefox tarayıcılarını kodla yönetmek, ekran görüntüsü almak veya uçtan uca testler yapmak için sektör standardıdır. Karmaşık tek sayfa uygulamalarında (SPA) uç senaryoları doğrularken yüksek performans sunar.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
@@ -3547,7 +3547,7 @@
       ],
       "kaynak": "Resmî Win11Debloat README (Raphire/Win11Debloat)"
     },
-    "trescout_notu": "Windows'la birlikte gelen istemediğiniz uygulamaları kaldırır, arka planda veri toplayan ayarları kapatır. Çalıştırmadan önce ne yaptığını okuyun: Kaldırılan bazı parçaları geri getirmek kolay değildir. Kişisel bilgisayarda pratik, şirket cihazında ya da başkasıyla paylaştığınız bilgisayarda kullanmayın.",
+    "trescout_notu": "Windows 11 ile birlikte gelen gereksiz telemetry, reklam ve varsayılan uygulamaları PowerShell betikleriyle temizlemenizi sağlar. Dağıtım öncesinde sistem izini hafifletmek isteyen yöneticiler için kullanışlıdır.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
@@ -3843,7 +3843,7 @@
       ],
       "kaynak": "npm (@continuedev/cli) · VS Code Marketplace (Continue.continue)"
     },
-    "trescout_notu": "Kod yazarken yardımcı olan yapay zekâ asistanı. Hazır asistanlardan farkı, hangi modeli kullanacağınıza sizin karar vermeniz: Kendi anahtarınızı ya da bilgisayarınızda çalışan bir modeli bağlarsınız, kodunuz dışarı çıkmaz. Karşılığında kurulum ve model seçimi sizin işiniz olur, deneyim hazır ürünler kadar cilalı değildir.",
+    "trescout_notu": "VS Code ve JetBrains IDE'lerine yerel öncelikli (local-first) yapay zekâ kodlama asistanı entegre eden açık kaynaklı bir uzantıdır. Kendi açık kaynaklı dil modellerinizi (LLM) geliştirme ortamınıza bağlayarak kod gizliliğini korumanıza yardımcı olur.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
@@ -4172,7 +4172,7 @@
       ],
       "kaynak": "Resmî Microsoft .NET dokümantasyonu (learn.microsoft.com/aspnet/core)"
     },
-    "trescout_notu": "Microsoft'un web uygulaması geliştirme altyapısı. Windows'a bağlı olduğu algısı eskidir, Linux'ta da sorunsuz çalışır. Kurumsal işlerde güçlüdür: Kullanıcı girişi, veri tabanı erişimi ve izleme için hazır parçalar kutudan çıkar. C# dilini bilmiyorsanız öğrenme maliyeti yüksektir, küçük bir iş için ağır kalır.",
+    "trescout_notu": "Yüksek performanslı, çapraz platform arka plan servisleri ve kurumsal web API'leri geliştirmek için tasarlanmış bağımlılık enjeksiyonu odaklı bir altyapıdır. Büyük ölçekli kurumsal mimarilerde kararlılık ve güvenlik arayan ekipler için idealdir.",
     "last_review": "2026-08-03",
     "guncellemeler": [
       {
