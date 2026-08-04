@@ -17,7 +17,7 @@ console.log(`Extracted ${urlList.length} URLs from sitemap.xml for IndexNow ping
 const payload = JSON.stringify({
   host: HOST,
   key: KEY,
-  keyLocation: `https://trescout.com/trescout-indexnow-key.txt`,
+  keyLocation: `https://trescout.com/${KEY}.txt`,
   urlList: urlList
 });
 
