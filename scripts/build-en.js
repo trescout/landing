@@ -20,6 +20,46 @@ try {
 
 console.log(`Loaded ${dictionary.length} dictionary terms and ${catalog.length} discover items.`);
 
+const richEnFooter = `<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand-block">
+        <div class="footer-logo">
+          <svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg>
+          <span>TreScout</span>
+        </div>
+        <p class="footer-tagline">TreScout scans, summarizes, and delivers. You just read.</p>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-title">Product</div>
+        <ul>
+          <li><a href="/en/#how-it-works">How It Works</a></li>
+          <li><a href="/en/discover/">Discover</a></li>
+          <li><a href="/en/dictionary/">Dictionary</a></li>
+          <li><a href="/reports/">Reports Archive</a></li>
+          <li><a href="/en/#top">Early Access</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-title">Contact</div>
+        <ul>
+          <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
+          <li><a href="/privacy.html" target="_blank" rel="noopener">Privacy Notice</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-title">Social</div>
+        <ul>
+          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 TreScout · All rights reserved.</span>
+    </div>
+  </div>
+</footer>`;
+
 // 1. Generate /en/dictionary/ entries
 let enDictCount = 0;
 dictionary.forEach(t => {
@@ -95,7 +135,7 @@ ${JSON.stringify({
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
-<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/dictionary/${slug}/" class="btn btn-ghost">TR</a></div></div></nav>
+<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/reports/" class="btn btn-ghost">Reports Archive</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/en/#top" class="btn btn-primary">Early Access</a><a href="/dictionary/${slug}/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
 <main id="main">
 <article class="disc container" style="max-width:800px; margin:40px auto; padding:0 20px;">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
@@ -104,10 +144,10 @@ ${JSON.stringify({
 ${full ? `<p class="dict-en">${full}</p>` : ''}
 <p class="disc-lead">${desc}</p>
 <section class="disc-sec"><h2>Technical Overview</h2><p>${desc}</p></section>
-<aside class="disc-cta"><p><strong>Daily AI-Filtered Tech Radar.</strong> TreScout scans GitHub, Hacker News, and HuggingFace daily to bring you curated insights.</p><a class="btn btn-primary" href="/en/">Learn More</a></aside>
+<aside class="disc-cta"><p><strong>Daily AI-Filtered Tech Radar.</strong> TreScout scans GitHub, Hacker News, and HuggingFace daily to bring you curated insights.</p><a class="btn btn-primary" href="/en/#top">Join Early Access</a></aside>
 </article>
 </main>
-<footer class="footer"><div class="container footer-inner"><p>© 2026 TreScout · All rights reserved.</p></div></footer>
+${richEnFooter}
 </body>
 </html>`;
 
@@ -191,7 +231,7 @@ ${JSON.stringify({
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
-<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/discover/${slug}/" class="btn btn-ghost">TR</a></div></div></nav>
+<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/reports/" class="btn btn-ghost">Reports Archive</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/en/#top" class="btn btn-primary">Early Access</a><a href="/discover/${slug}/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
 <main id="main">
 <article class="disc container" style="max-width:800px; margin:40px auto; padding:0 20px;">
 <a class="disc-back" href="/en/discover/">← Discover</a>
@@ -199,10 +239,10 @@ ${JSON.stringify({
 <h1 class="disc-title">${title}</h1>
 <p class="disc-lead">${tagline}</p>
 <section class="disc-sec"><h2>Project Stats</h2><p>Stars: ${c.stars || 0}${c.date ? ` · Date: ${c.date}` : ''}</p></section>
-<aside class="disc-cta"><p><strong>Daily AI-Filtered Tech Radar.</strong> TreScout scans GitHub, Hacker News, and HuggingFace daily to bring you curated insights.</p><a class="btn btn-primary" href="/en/">Learn More</a></aside>
+<aside class="disc-cta"><p><strong>Daily AI-Filtered Tech Radar.</strong> TreScout scans GitHub, Hacker News, and HuggingFace daily to bring you curated insights.</p><a class="btn btn-primary" href="/en/#top">Join Early Access</a></aside>
 </article>
 </main>
-<footer class="footer"><div class="container footer-inner"><p>© 2026 TreScout · All rights reserved.</p></div></footer>
+${richEnFooter}
 </body>
 </html>`;
 
@@ -216,7 +256,7 @@ ${JSON.stringify({
 
 console.log(`Generated ${enDiscCount} EN discover pages & markdown files.`);
 
-// 3. Generate /en/dictionary/index.html with rich UI, search input & filter chips
+// 3. Generate /en/dictionary/index.html with rich UI, search input, filter chips & rich footer
 const dictIndexDir = path.join(ROOT, 'en', 'dictionary');
 fs.mkdirSync(dictIndexDir, { recursive: true });
 
@@ -251,7 +291,7 @@ const dictIndexHtml = `<!DOCTYPE html>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
-<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/dictionary/" class="btn btn-ghost">TR</a></div></div></nav>
+<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/reports/" class="btn btn-ghost">Reports Archive</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/en/#top" class="btn btn-primary">Early Access</a><a href="/dictionary/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
 <main id="main">
 <div class="disc">
 <div class="dict-index-hero"><span class="disc-eyebrow">Tech Dictionary</span><h1 class="dict-index-title">Modern AI & Software Glossary</h1><p class="dict-index-lead">Plain-language definitions for modern technical terms. TreScout scans daily trends and expands this glossary continuously.</p></div>
@@ -265,7 +305,7 @@ ${dictCards}
 <aside class="disc-cta"><p><strong>New tech terms in your inbox every morning.</strong> Join TreScout early access for daily digests.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join Early Access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I agree to receive daily tech updates from TreScout. No spam ever.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form></aside>
 </div>
 </main>
-<footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout scans, summarizes, and delivers. You just read.</p></div><div class="footer-col"><div class="footer-col-title">Product</div><ul><li><a href="/en/#how-it-works">How It Works</a></li><li><a href="/en/discover/">Discover</a></li><li><a href="/en/dictionary/">Dictionary</a></li><li><a href="/reports/">Reports Archive</a></li><li><a href="/en/#top">Early Access</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/privacy.html" target="_blank" rel="noopener">Privacy Notice</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Social</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · All rights reserved.</span></div></div></footer>
+${richEnFooter}
 <script src="/assets/dictionary.js" defer></script>
 <script src="/assets/subscribe.js" defer></script>
 </body>
@@ -273,7 +313,7 @@ ${dictCards}
 fs.writeFileSync(path.join(dictIndexDir, 'index.html'), dictIndexHtml, 'utf8');
 console.log('Generated rich /en/dictionary/index.html');
 
-// 4. Generate /en/discover/index.html with rich UI, search input & filter chips
+// 4. Generate /en/discover/index.html with rich UI, search input, filter chips & rich footer
 const discIndexDir = path.join(ROOT, 'en', 'discover');
 fs.mkdirSync(discIndexDir, { recursive: true });
 
@@ -310,7 +350,7 @@ const discIndexHtml = `<!DOCTYPE html>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
-<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/discover/" class="btn btn-ghost">TR</a></div></div></nav>
+<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/reports/" class="btn btn-ghost">Reports Archive</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/en/#top" class="btn btn-primary">Early Access</a><a href="/discover/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
 <main id="main">
 <div class="container">
   <div class="disc-index-hero">
@@ -330,7 +370,7 @@ const discIndexHtml = `<!DOCTYPE html>
   <p class="disc-empty" id="disc-empty">No matching tools. Try adjusting your search.</p>
 </div>
 </main>
-<footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout scans, summarizes, and delivers. You just read.</p></div><div class="footer-col"><div class="footer-col-title">Product</div><ul><li><a href="/en/#how-it-works">How It Works</a></li><li><a href="/en/discover/">Discover</a></li><li><a href="/en/dictionary/">Dictionary</a></li><li><a href="/reports/">Reports Archive</a></li><li><a href="/en/#top">Early Access</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/privacy.html" target="_blank" rel="noopener">Privacy Notice</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Social</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · All rights reserved.</span></div></div></footer>
+${richEnFooter}
 <script src="/assets/discover.js" defer></script>
 <script src="/assets/subscribe.js" defer></script>
 </body>
