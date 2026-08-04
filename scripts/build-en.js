@@ -60,7 +60,7 @@ const richEnFooter = `<footer>
   </div>
 </footer>`;
 
-// 1. Generate /en/dictionary/ entries
+// 1. Generate /en/dictionary/ entries & sync TR hreflang + EN nav button
 let enDictCount = 0;
 dictionary.forEach(t => {
   const slug = t.slug;
@@ -69,15 +69,21 @@ dictionary.forEach(t => {
   const canonTr = `${BASE_URL}/dictionary/${slug}/`;
   const canonEn = `${BASE_URL}/en/dictionary/${slug}/`;
 
-  // Update TR page hreflang
+  // Update TR page hreflang and add EN nav switcher link
   const trHtmlPath = path.join(ROOT, 'dictionary', slug, 'index.html');
   if (fs.existsSync(trHtmlPath)) {
     let trHtml = fs.readFileSync(trHtmlPath, 'utf8');
     if (!trHtml.includes('hreflang="en"')) {
       const hrefTags = `<link rel="alternate" hreflang="tr" href="${canonTr}">\n<link rel="alternate" hreflang="en" href="${canonEn}">\n`;
       trHtml = trHtml.replace('<link rel="canonical"', hrefTags + '<link rel="canonical"');
-      fs.writeFileSync(trHtmlPath, trHtml, 'utf8');
     }
+    if (!trHtml.includes(`href="/en/dictionary/${slug}/"`)) {
+      trHtml = trHtml.replace(
+        '</div></div></nav>',
+        `<a href="/en/dictionary/${slug}/" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a></div></div></nav>`
+      );
+    }
+    fs.writeFileSync(trHtmlPath, trHtml, 'utf8');
   }
 
   // Create EN HTML page
@@ -137,7 +143,7 @@ ${JSON.stringify({
 <a class="skip-link" href="#main">Skip to main content</a>
 <nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/reports/" class="btn btn-ghost">Reports Archive</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/en/#top" class="btn btn-primary">Early Access</a><a href="/dictionary/${slug}/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
 <main id="main">
-<article class="disc container" style="max-width:800px; margin:40px auto; padding:0 20px;">
+<article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
 <div class="disc-top"><span class="disc-eyebrow">Dictionary · ${t.cat || 'Tech'}</span></div>
 <h1 class="disc-title">What is <span class="disc-accent">${enTitle}</span>?</h1>
@@ -161,7 +167,7 @@ ${richEnFooter}
 
 console.log(`Generated ${enDictCount} EN dictionary pages & markdown files.`);
 
-// 2. Generate /en/discover/ entries
+// 2. Generate /en/discover/ entries & sync TR hreflang + EN nav button
 let enDiscCount = 0;
 catalog.forEach(c => {
   const slug = c.slug;
@@ -169,15 +175,21 @@ catalog.forEach(c => {
   const canonTr = `${BASE_URL}/discover/${slug}/`;
   const canonEn = `${BASE_URL}/en/discover/${slug}/`;
 
-  // Update TR page hreflang
+  // Update TR page hreflang and add EN nav switcher link
   const trHtmlPath = path.join(ROOT, 'discover', slug, 'index.html');
   if (fs.existsSync(trHtmlPath)) {
     let trHtml = fs.readFileSync(trHtmlPath, 'utf8');
     if (!trHtml.includes('hreflang="en"')) {
       const hrefTags = `<link rel="alternate" hreflang="tr" href="${canonTr}">\n<link rel="alternate" hreflang="en" href="${canonEn}">\n`;
       trHtml = trHtml.replace('<link rel="canonical"', hrefTags + '<link rel="canonical"');
-      fs.writeFileSync(trHtmlPath, trHtml, 'utf8');
     }
+    if (!trHtml.includes(`href="/en/discover/${slug}/"`)) {
+      trHtml = trHtml.replace(
+        '</div></div></nav>',
+        `<a href="/en/discover/${slug}/" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a></div></div></nav>`
+      );
+    }
+    fs.writeFileSync(trHtmlPath, trHtml, 'utf8');
   }
 
   // Create EN HTML page
@@ -233,7 +245,7 @@ ${JSON.stringify({
 <a class="skip-link" href="#main">Skip to main content</a>
 <nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/reports/" class="btn btn-ghost">Reports Archive</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/en/#top" class="btn btn-primary">Early Access</a><a href="/discover/${slug}/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
 <main id="main">
-<article class="disc container" style="max-width:800px; margin:40px auto; padding:0 20px;">
+<article class="disc">
 <a class="disc-back" href="/en/discover/">← Discover</a>
 <div class="disc-top"><span class="disc-eyebrow">Discover · ${c.source || 'GitHub'}</span></div>
 <h1 class="disc-title">${title}</h1>
