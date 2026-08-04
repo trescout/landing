@@ -7,6 +7,7 @@ const DICT_JSON = path.join(ROOT, 'assets', 'dictionary', 'dictionary.json');
 const CAT_JSON = path.join(ROOT, 'assets', 'discover', 'catalog.json');
 const SITEMAP = path.join(ROOT, 'sitemap.xml');
 const TODAY = new Date().toISOString().split('T')[0];
+const BASE_URL = process.env.SITE_URL || 'https://trescout.com';
 
 let dictionary, catalog;
 try {
@@ -25,8 +26,8 @@ dictionary.forEach(t => {
   const slug = t.slug;
   const enTitle = t.en;
   const full = t.full || '';
-  const canonTr = `https://trescout.com/dictionary/${slug}/`;
-  const canonEn = `https://trescout.com/en/dictionary/${slug}/`;
+  const canonTr = `${BASE_URL}/dictionary/${slug}/`;
+  const canonEn = `${BASE_URL}/en/dictionary/${slug}/`;
 
   // Update TR page hreflang
   const trHtmlPath = path.join(ROOT, 'dictionary', slug, 'index.html');
@@ -100,8 +101,8 @@ let enDiscCount = 0;
 catalog.forEach(c => {
   const slug = c.slug;
   const title = c.title;
-  const canonTr = `https://trescout.com/discover/${slug}/`;
-  const canonEn = `https://trescout.com/en/discover/${slug}/`;
+  const canonTr = `${BASE_URL}/discover/${slug}/`;
+  const canonEn = `${BASE_URL}/en/discover/${slug}/`;
 
   // Update TR page hreflang
   const trHtmlPath = path.join(ROOT, 'discover', slug, 'index.html');
@@ -173,14 +174,14 @@ let sm = fs.readFileSync(SITEMAP, 'utf8');
 let smLines = [];
 
 dictionary.forEach(t => {
-  const url = `https://trescout.com/en/dictionary/${t.slug}/`;
+  const url = `${BASE_URL}/en/dictionary/${t.slug}/`;
   if (!sm.includes(url)) {
     smLines.push(`  <url>\n    <loc>${url}</loc>\n    <lastmod>${TODAY}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.6</priority>\n  </url>`);
   }
 });
 
 catalog.forEach(c => {
-  const url = `https://trescout.com/en/discover/${c.slug}/`;
+  const url = `${BASE_URL}/en/discover/${c.slug}/`;
   if (!sm.includes(url)) {
     smLines.push(`  <url>\n    <loc>${url}</loc>\n    <lastmod>${TODAY}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.6</priority>\n  </url>`);
   }

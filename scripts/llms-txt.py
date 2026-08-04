@@ -56,3 +56,26 @@ for c in sorted(cat, key=lambda x: -(x.get("stars") or 0)):
 open(os.path.join(ROOT, "llms-full.txt"), "w", encoding="utf-8").write("\n".join(F))
 print(f"llms-full.txt güncellendi · {len(F)} satır tam içerik haritalandı.")
 
+# llms-en.txt üreteci (İngilizce dinamik indeks)
+E = ["# TreScout (English Index)", "",
+     "> TreScout scans GitHub, Hacker News, and HuggingFace daily, filters the noise using multi-agent AI, and delivers structured tech digests.", "",
+     f"Last updated: {TODAY} · {len(cat)} tools · {len(man)} terms", "",
+     "## Tech Dictionary", "",
+     "Plain-language definitions of AI and software terms. Append `.md` to any URL for raw Markdown (e.g. " + B + "/en/dictionary/rag.md).", "",
+     f"- [Tech Dictionary index]({B}/en/dictionary/)"]
+for t in sorted(man, key=lambda x: x["en"].lower()):
+    E.append(f"- [What is {t['en']}?]({B}/en/dictionary/{t['slug']}/) (raw: {B}/en/dictionary/{t['slug']}.md): {clip(t.get('kisa', ''))}")
+E += ["", "## Discover", "",
+      "Daily highlights of trending open-source projects with setup commands and AI-powered usage guides.", "",
+      f"- [Discover index]({B}/en/discover/)"]
+for c in sorted(cat, key=lambda x: -(x.get("stars") or 0)):
+    E.append(f"- [{c['title']}]({B}/en/discover/{c['slug']}/) (raw: {B}/en/discover/{c['slug']}.md): {clip(c.get('tagline', ''))}")
+E += ["", "## Reports", "", "Archive of daily tech reports (PDF).", "", f"- [Reports]({B}/reports/)", "",
+      "## AI Crawlers & API Access", "",
+      "Every dictionary term and open-source project page is served as both HTML and plain Markdown:",
+      f"- Append `.md` to any dictionary or discover URL to fetch raw Markdown.",
+      "- Use `Accept: text/markdown` HTTP request headers.", "",
+      "## Contact", "", "hello@trescout.com", ""]
+open(os.path.join(ROOT, "llms-en.txt"), "w", encoding="utf-8").write("\n".join(E))
+print(f"llms-en.txt güncellendi · {len(man)} term + {len(cat)} tool indekslendi (EN)")
+
