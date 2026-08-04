@@ -1,0 +1,365 @@
+{
+  "date": "2026-08-04",
+  "editorial": "Bugün geliştirici araçlarının açık kaynak (open source) olması gerektiği tartışmaları ile yüksek performanslı dil modellerinin (LLMs) uzmanlık seviyesini ödüllendiren yeni mimariler öne çıkıyor. GitHub ve HuggingFace üzerindeki veriler, düşük bellek tüketimiyle büyük modelleri çalıştırma (inference) çabalarının ve 3D veri sıkıştırma tekniklerinin hız kazandığını gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM, 70 milyar parametreli büyük dil modellerini (large language models) sadece 4 gigabayt video belleğine sahip grafik işlemcilerde (GPU) çalıştırmanıza olanak tanır. Bu kütüphane, yüksek donanım gereksinimi duyan modelleri düşük kapasiteli tüketici sınıfı donanımlarda çalıştırarak erişilebilirliği artırır.",
+          "meta": "Jupyter Notebook · ★ 27.515 · +1.085 bugün"
+        },
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-skill, tersine mühendislik ve sızma testi süreçlerini otomatikleştiren, yapay zekâ destekli bir yetenek yönlendiricisidir. Claude Code veya Cursor gibi yapay zekâ destekli kodlama araçlarıyla (AI coding clients) entegre çalışarak, güvenlik araştırmaları için ihtiyaç duyulan araç zincirlerini otomatik kurar ve deneyim tabanını sürekli günceller.",
+          "meta": "PowerShell · ★ 16.395 · +2.446 bugün"
+        },
+        {
+          "title": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "summary": "Firecrawl tarafından geliştirilen PDF Inspector, PDF dosyalarını incelemek, sınıflandırmak ve metinlerini ayıklamak için tasarlanmış hızlı bir Rust kütüphanesidir. Taranmış belgeler ile metin tabanlı dosyaları ayırt ederek veri işleme süreçlerinde akıllı yönlendirme kararları alınmasını sağlar.",
+          "meta": "Rust · ★ 8.766 · +1.699 bugün"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modelleriyle entegre olan bir yapay zekâ kodlama ajanıdır. Önek önbelleği (prefix-cache) kararlılığına odaklanan bu araç, geliştiricilerin uzun süreli kodlama süreçlerini kesintisiz yönetmelerini sağlar.",
+          "meta": "Go · ★ 30.213 · +883 bugün"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory, yapay zekâ ajanları için konuşmaları, belgeleri ve kodları yeniden kullanılabilir bellek varlıklarına dönüştüren bir merkezdir. Bu sistem, verileri sohbet geçmişi, yetenek (skill), bilgi tabanı (LLM-Wiki) ve kod grafiği (Code-Graph) olarak yapılandırarak farklı ajanlar arasında paylaşılabilir hale getirir.",
+          "meta": "TypeScript · ★ 12.417 · +1.090 bugün"
+        },
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "Microsoft tarafından hazırlanan AI-For-Beginners, yapay zekâ (artificial intelligence) dünyasına giriş yapmak isteyenler için 12 haftalık bir müfredat sunuyor. Etkileşimli kod blokları içeren Jupyter Notebook formatındaki bu eğitim seti, temel kavramlardan uygulamalı projelere kadar geniş bir öğrenme yolu sağlıyor.",
+          "meta": "Jupyter Notebook · ★ 61.100 · +1.902 bugün"
+        },
+        {
+          "title": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "summary": "Microsoft tarafından hazırlanan generative-ai-for-beginners, üretken yapay zekâ (generative AI) teknolojilerine giriş yapmak isteyenler için 21 derslik bir eğitim müfredatı sunuyor. İçerik, Jupyter Notebook formatındaki uygulamalı projelerle temel kavramları ve model geliştirme süreçlerini öğretmeyi amaçlıyor.",
+          "meta": "Jupyter Notebook · ★ 115.799 · +775 bugün"
+        },
+        {
+          "title": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "summary": "System Design Primer, büyük ölçekli yazılım sistemleri tasarlamak isteyenler için kapsamlı bir öğrenme kaynağı sunuyor. Teknik mülakatlara hazırlanan yazılımcılar için sistem tasarımı (system design) prensiplerini ve pratik çalışma kartlarını bir araya getiriyor.",
+          "meta": "Python · ★ 360.710 · +237 bugün"
+        },
+        {
+          "title": "antirez/ds4",
+          "url": "https://github.com/antirez/ds4",
+          "summary": "Redis'in yaratıcısı tarafından geliştirilen ds4, DeepSeek modellerini yerel cihazlarda çalıştırmayı sağlayan bir çıkarım motoru (inference engine). Metal, CUDA ve ROCm desteğiyle donanım hızlandırmalı yapay zekâ modellerini düşük seviyeli C diliyle optimize edilmiş şekilde sunuyor.",
+          "meta": "C · ★ 20.440 · +384 bugün"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos, finansal piyasaların karmaşık dilini anlamak ve analiz etmek üzere tasarlanmış bir temel model (foundation model). Finansal veriler üzerinde eğitilen bu Python tabanlı sistem, piyasa hareketlerini yorumlama ve finansal metinleri işleme süreçlerini otomatikleştirmeyi hedefliyor.",
+          "meta": "Python · ★ 35.882 · +200 bugün"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach, yapay zekâ ajanlarının internetteki çeşitli platformlarda (Twitter, Reddit, YouTube, GitHub) arama yapmasını ve içerik okumasını sağlayan bir Python aracıdır. Herhangi bir uygulama programlama arayüzü (API) ücreti ödemeden, komut satırı üzerinden web verilerine erişim imkânı tanır.",
+          "meta": "Python · ★ 65.979 · +1.057 bugün"
+        },
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "summary": "Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama veya geliştirme ortamı (IDE) üzerinden ücretsiz erişim sağlıyor. Bu açık kaynaklı araç, OpenClaw gibi sesli komut desteği sunan platformlarla entegre çalışarak kullanıcıların yapay zekâ yeteneklerini farklı cihazlarda kullanmasına imkân tanıyor.",
+          "meta": "Python · ★ 44.150 · +278 bugün"
+        },
+        {
+          "title": "iv-org/invidious",
+          "url": "https://github.com/iv-org/invidious",
+          "summary": "Invidious, video platformu YouTube için geliştirilen alternatif bir arayüzdür. Kullanıcılara reklam içermeyen ve kişisel verileri takip etmeyen bir izleme deneyimi sunar.",
+          "meta": "Crystal · ★ 22.316 · +402 bugün"
+        },
+        {
+          "title": "livekit/agents",
+          "url": "https://github.com/livekit/agents",
+          "summary": "LiveKit Agents, gerçek zamanlı sesli ve görüntülü yapay zekâ ajanları geliştirmek için kullanılan bir Python çerçevesidir (framework). Geliştiricilerin düşük gecikmeli sesli etkileşimler kurmasını sağlayarak, insan benzeri tepkiler veren yapay zekâ sistemlerinin oluşturulmasını kolaylaştırır.",
+          "meta": "Python · ★ 12.122 · +148 bugün"
+        },
+        {
+          "title": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "summary": "Kaneo, karmaşık özellikleri arındırarak kullanıcı odaklı bir deneyim sunan açık kaynaklı bir proje yönetimi aracıdır. TypeScript ile geliştirilen bu platform, Jira gibi popüler proje takip yazılımlarına sadeleştirilmiş bir alternatif oluşturmayı hedefler.",
+          "meta": "TypeScript · ★ 6.988 · +665 bugün"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve ses üretimi yapmasına olanak tanıyan açık kaynaklı bir yapay zekâ ses stüdyosu. TypeScript diliyle geliştirilen bu araç, ses teknolojilerini yerel ortamda çalıştırmak isteyenler için kapsamlı bir çözüm sunuyor.",
+          "meta": "TypeScript · ★ 48.852 · +412 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LLMs reward expertise",
+          "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+          "summary": "Büyük dil modelleri (LLM), karmaşık görevlerde uzmanlık gerektiren bağlamlar sağlandığında daha yüksek performans gösteriyor. Kullanıcıların teknik bilgi düzeyini artırması, yapay zekâ modellerinden alınan çıktıların kalitesini doğrudan etkiliyor.",
+          "meta": "717 oy · 300 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49161518",
+              "popularity": 717,
+              "engagementCount": 300
+            }
+          ]
+        },
+        {
+          "title": "Devtools must be open source",
+          "url": "https://blog.exe.dev/devtools-must-be-open-source",
+          "summary": "Yazılım geliştirme araçlarının (devtools) açık kaynak kodlu olması, kullanıcıların bağımlılığını azaltarak araçların uzun vadeli sürdürülebilirliğini sağlar. Bu yaklaşım, geliştiricilerin kullandıkları teknolojiler üzerinde tam denetim sahibi olmalarına ve topluluk destekli iyileştirmeler yapmalarına olanak tanır.",
+          "meta": "562 oy · 195 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49156111",
+              "popularity": 562,
+              "engagementCount": 195
+            }
+          ]
+        },
+        {
+          "title": "Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics/",
+          "summary": "OpenAI, matematik ve teorik bilgisayar bilimleri alanında kaydedilen on önemli ilerlemeyi derledi. Bu çalışma, karmaşık problemlerin çözümünde kullanılan yeni yöntemleri ve hesaplamalı matematik (computational mathematics) alanındaki güncel gelişmeleri özetliyor.",
+          "meta": "510 oy · 781 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49157930",
+              "popularity": 510,
+              "engagementCount": 781
+            }
+          ]
+        },
+        {
+          "title": "More German than many Germans",
+          "url": "https://mertbulan.com/more-german-than-many-germans/",
+          "summary": "Mert Bulan, Almanya'daki bürokratik süreçlerin ve kültürel alışkanlıkların dijitalleşme ile olan karmaşık ilişkisini kendi deneyimleri üzerinden aktarıyor. Yazı, ülkedeki geleneksel işleyişin modern teknolojiyle uyum sağlama çabalarını ve bu süreçte karşılaşılan zorlukları ele alıyor.",
+          "meta": "468 oy · 325 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49151734",
+              "popularity": 468,
+              "engagementCount": 325
+            }
+          ]
+        },
+        {
+          "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+          "summary": "Yapay zekâ tarafından üretilen kodların kopyalanıp yapıştırılması yerine manuel olarak yeniden yazılması, geliştiricilerin mantığı daha derinlemesine kavramasını ve bilişsel borç (cognitive debt) oluşumunu engellemesini sağlıyor. Bu yöntem, kodun işleyişine dair farkındalığı artırarak hataların ayıklanmasını ve sistemin daha iyi sahiplenilmesini destekliyor.",
+          "meta": "447 oy · 364 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49153374",
+              "popularity": 447,
+              "engagementCount": 364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K3, görsel ve metin verilerini aynı anda işleyebilen çok modlu bir yapay zekâ modeli (multimodal model). Kullanıcılara görsel içerikleri metne dönüştürme ve bu veriler üzerinden etkileşimli analiz yapma imkânı sağlıyor.",
+          "meta": "♥ 9.884 · 967.622 indirme"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek tarafından geliştirilen metin üretme modeli (text-generation model) DeepSeek-V4-Flash-0731, yüksek performanslı dil işleme görevleri için optimize edilmiş bir yapı sunuyor. Model, geliştiricilere açık kaynaklı yapay zekâ platformu HuggingFace üzerinden erişilebilir bir dil modeli alternatifi sağlıyor.",
+          "meta": "♥ 2.113 · 236.076 indirme"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMaxAI tarafından geliştirilen MiniMax-H3, görsel ve metin girdilerini kullanarak video üreten bir yapay zekâ modelidir. Bu model, karmaşık komutları görsel içeriklere dönüştürerek video oluşturma süreçlerini destekler.",
+          "meta": "♥ 1.602 · 0 indirme"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Hugging Face üzerinde paylaşılan Qwen3.6-27B-Fable-Fusion, görsel ve metin verilerini işleyerek metin çıktısı üreten bir yapay zekâ modeli. Sansürsüz yapısı ve yüksek parametre sayısı ile kullanıcıların kendi yerel sistemlerinde karmaşık içerik üretimi yapmasına olanak tanıyor.",
+          "meta": "♥ 1.455 · 1.550.034 indirme"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3, metin ve görsel işleme yeteneklerine sahip çok modlu bir büyük dil modeli (large language model). ComfyUI görsel düzenleme arayüzü ile entegre çalışarak kullanıcıların karmaşık görüntü oluşturma süreçlerini daha hızlı yönetmesini sağlıyor.",
+          "meta": "♥ 477 · 2 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering",
+          "url": "https://huggingface.co/papers/2608.01185",
+          "summary": "3DZip, üç boyutlu görme-dil modellerinde (3D VLM) yoğun veri işleme yükünü azaltmak için mekânsal farkındalık odaklı bir belirteç sıkıştırma (token compression) yöntemi sunuyor. Bu teknik, sahne geometrisini koruyarak gereksiz verileri eliyor ve üç boyutlu soru-cevap süreçlerinde hesaplama verimliliğini artırıyor.",
+          "meta": "5 beğeni · 2 yorum"
+        },
+        {
+          "title": "DAPD: Dual-Anchored Policy Distillation",
+          "url": "https://huggingface.co/papers/2608.01735",
+          "summary": "Çift çapalı politika damıtma (dual-anchored policy distillation), dil modellerinin eğitim sürecinde öğretmen ve öğrenci modeller arasındaki bilgi asimetrisini gidermeyi amaçlıyor. Bu yöntem, öğrencinin çıkarım aşamasında erişemediği ayrıcalıklı verilere dayalı hatalı davranışlar geliştirmesini engelleyerek model performansını artırıyor.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+          "url": "https://huggingface.co/papers/2608.01964",
+          "summary": "LongHorizon-Harness, büyük dil modeli (large language model) tabanlı ajanların uzun süreli görevlerde yaşadığı durum takibi ve hata birikimi sorunlarını çözmeyi amaçlıyor. Karmaşık süreçleri bir görev durumu yönetimi (task-state management) problemi olarak yeniden tanımlayarak, ajanların çok adımlı iş akışlarında daha tutarlı kararlar almasını sağlıyor.",
+          "meta": "44 beğeni · 1 yorum"
+        },
+        {
+          "title": "DiffusionGemma Technical Report",
+          "url": "https://huggingface.co/papers/2608.00146",
+          "summary": "Google tarafından geliştirilen DiffusionGemma, metin üretiminde geleneksel yöntemlerin aksine ayrık difüzyon (discrete diffusion) kullanarak 256'lı bloklar halinde paralel işlem yapar. Bu yaklaşım, büyük dil modellerindeki (large language models) sıralı kelime üretme darboğazını aşarak yüksek hızda metin oluşturmayı hedefler.",
+          "meta": "2 beğeni · 0 yorum"
+        },
+        {
+          "title": "CADENA: Stepwise CAD Reverse Engineering",
+          "url": "https://huggingface.co/papers/2608.00799",
+          "summary": "CADENA, üç boyutlu ağ modellerini (3D mesh) parametrik bilgisayar destekli tasarım (CAD) programlarına dönüştüren bir sistemdir. İnsan mühendislerin çalışma biçimini taklit ederek, modeli tek seferde oluşturmak yerine adım adım özellik ekleyerek ve her aşamada geometrik doğrulamalar yaparak inşa eder.",
+          "meta": "1 beğeni · 1 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Kill the Cookie Banner",
+          "url": "https://killthecookiebanner.eu/",
+          "summary": "Kill the Cookie Banner, web sitelerindeki çerez onay kutularını (cookie banners) tarayıcı düzeyinde engelleyerek kullanıcı deneyimini iyileştirmeyi amaçlayan bir girişimdir. Avrupa Birliği genelindeki yasal düzenlemelerin getirdiği bildirim yorgunluğunu, otomatik onay veya reddetme mekanizmalarıyla ortadan kaldırmayı hedefler.",
+          "meta": "103 oy · 20 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aftrcr/kill_cookie_banner",
+              "popularity": 103,
+              "engagementCount": 20
+            }
+          ]
+        },
+        {
+          "title": "Don't be a meat proxy",
+          "url": "https://gruhn.me/blog/2026-08-03/",
+          "summary": "Yazılım geliştiricilerin yapay zekâ araçlarını kullanırken kendi mantıklarını devre dışı bırakıp sadece birer aracı (proxy) haline gelmeleri eleştiriliyor. Bu yaklaşım, kod kalitesini ve sistem üzerindeki hakimiyeti azaltan bir risk olarak tanımlanıyor.",
+          "meta": "95 oy · 42 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy",
+              "popularity": 95,
+              "engagementCount": 42
+            }
+          ]
+        },
+        {
+          "title": "help wanted",
+          "url": "https://lake.computer/blog/help-wanted/",
+          "summary": "Lake, kişisel bilgisayar deneyimini yeniden tanımlamayı amaçlayan açık kaynaklı bir işletim sistemi projesi. Geliştirici ekip, işletim sistemi mimarisi ve kullanıcı arayüzü tasarımı gibi temel alanlarda katkı sağlayacak yeni yazılımcılar arıyor.",
+          "meta": "143 oy · 19 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a355zh/help_wanted",
+              "popularity": 143,
+              "engagementCount": 19
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Bilgisayardaki görüntüleri işlemek ve yapay zekâ hesaplamalarını hızlandırmak için kullanılan güçlü işlemci birimi."
+    },
+    {
+      "term": "AI coding clients",
+      "explanation": "Yazılım geliştirirken kod yazmanıza, hataları bulmanıza ve projeyi tamamlamanıza yardımcı olan yapay zekâ destekli araçlar."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "Yapay zekânın daha önce işlediği bilgileri hafızasında tutarak aynı sorulara çok daha hızlı yanıt vermesini sağlayan bir yöntem."
+    },
+    {
+      "term": "skill",
+      "explanation": "Bir yapay zekâ asistanının belirli bir konuda uzmanlaşarak kullanıcıya özel görevleri yerine getirebilme yeteneği."
+    },
+    {
+      "term": "LLM-Wiki",
+      "explanation": "Yapay zekâ modellerinin daha doğru bilgi vermesi için dış kaynaklardan beslendiği dijital bir bilgi kütüphanesi."
+    },
+    {
+      "term": "Code-Graph",
+      "explanation": "Bir yazılım projesindeki farklı kod parçalarının birbirleriyle olan bağlantılarını haritalandıran görsel bir yapı."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Bilgisayarların insanlar gibi düşünme, öğrenme ve problem çözme yeteneği kazanması."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Var olan verileri kullanarak yeni metinler, görseller veya sesler oluşturabilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "system design",
+      "explanation": "Karmaşık bir yazılımın parçalarının birbiriyle nasıl çalışacağını ve verilerin nasıl akacağını planlama süreci."
+    },
+    {
+      "term": "inference engine",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin, kendisine verilen yeni veriler üzerinde tahmin yürütmesini sağlayan yazılım katmanı."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Birçok farklı görevde kullanılmak üzere devasa verilerle eğitilmiş, yapay zekâ uygulamalarının temelini oluşturan ana model."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan dijital köprü."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Yazılımcıların kod yazarken ihtiyaç duydukları tüm araçları bir arada bulabildikleri gelişmiş çalışma ortamı."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, hazır yapılar ve kurallar bütünü sunan bir iskelet sistemi."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Bir kişinin sesini analiz ederek, o kişinin ses tonuyla yapay konuşmalar üretme teknolojisi."
+    }
+  ]
+}
