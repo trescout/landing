@@ -1637,7 +1637,7 @@
     "full": "",
     "cat": "dev",
     "kisa": "Karmaşık verileri ve istatistikleri tek bir ekranda görsel olarak takip etmenizi sağlayan panel.",
-    "kisa_en": "A panel that allows you to visually track complex data and statistics on a single screen."
+    "kisa_en": "Panel that allows you to visually track complex data and statistics on a single screen."
   },
   {
     "slug": "superagent",
@@ -2005,7 +2005,7 @@
     "full": "",
     "cat": "dev",
     "kisa": "Kullanıcıya çok fazla seçenek sunmak yerine, en iyi çalışma yöntemini önceden belirleyip dayatan yazılım araçlarıdır.",
-    "kisa_en": "They are software tools that predetermine and impose the best working method instead of offering the user too many options."
+    "kisa_en": "They are software tools that predetermine and impose the best working method rather than offering the user too many options."
   },
   {
     "slug": "gpu",
@@ -2365,7 +2365,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "Farklı uzmanlıklara sahip yapay zeka yardımcılarını tek bir merkezden yönetip, gelen görevleri en uygun asistana yönlendiren sistemdir.",
-    "kisa_en": "It is a system that manages artificial intelligence assistants with different specializations from a single center and directs incoming tasks to the most appropriate assistant."
+    "kisa_en": "It is a system that manages artificial intelligence assistants with different specializations from a single center and directs incoming tasks to the most suitable assistant."
   },
   {
     "slug": "specification",
