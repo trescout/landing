@@ -67,6 +67,31 @@ dictionary.forEach(t => {
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
+<script type="application/ld+json">
+${JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": enTitle,
+  "description": desc,
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "TreScout Tech Dictionary",
+    "url": `${BASE_URL}/en/dictionary/`
+  },
+  "url": canonEn
+})}
+</script>
+<script type="application/ld+json">
+${JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": `${BASE_URL}/en/` },
+    { "@type": "ListItem", "position": 2, "name": "Dictionary", "item": `${BASE_URL}/en/dictionary/` },
+    { "@type": "ListItem", "position": 3, "name": enTitle }
+  ]
+})}
+</script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -141,6 +166,28 @@ catalog.forEach(c => {
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
+<script type="application/ld+json">
+${JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": title,
+  "description": tagline,
+  "url": canonEn,
+  "applicationCategory": "DeveloperApplication",
+  ...(c.stars ? { "aggregateRating": { "@type": "AggregateRating", "ratingValue": "5", "ratingCount": String(c.stars) } } : {})
+})}
+</script>
+<script type="application/ld+json">
+${JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": `${BASE_URL}/en/` },
+    { "@type": "ListItem", "position": 2, "name": "Discover", "item": `${BASE_URL}/en/discover/` },
+    { "@type": "ListItem", "position": 3, "name": title }
+  ]
+})}
+</script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
