@@ -6,9 +6,16 @@ const ROOT = path.dirname(__dirname);
 const DICT_JSON = path.join(ROOT, 'assets', 'dictionary', 'dictionary.json');
 const CAT_JSON = path.join(ROOT, 'assets', 'discover', 'catalog.json');
 const SITEMAP = path.join(ROOT, 'sitemap.xml');
+const TODAY = new Date().toISOString().split('T')[0];
 
-const dictionary = JSON.parse(fs.readFileSync(DICT_JSON, 'utf8'));
-const catalog = JSON.parse(fs.readFileSync(CAT_JSON, 'utf8'));
+let dictionary, catalog;
+try {
+  dictionary = JSON.parse(fs.readFileSync(DICT_JSON, 'utf8'));
+  catalog = JSON.parse(fs.readFileSync(CAT_JSON, 'utf8'));
+} catch (err) {
+  console.error(`Failed to load data files: ${err.message}`);
+  process.exit(1);
+}
 
 console.log(`Loaded ${dictionary.length} dictionary terms and ${catalog.length} discover items.`);
 
@@ -48,6 +55,7 @@ dictionary.forEach(t => {
 <link rel="canonical" href="${canonEn}">
 <link rel="alternate" hreflang="tr" href="${canonTr}">
 <link rel="alternate" hreflang="en" href="${canonEn}">
+<link rel="alternate" hreflang="x-default" href="${canonEn}">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/${slug}.md">
 <meta property="og:title" content="What is ${enTitle}? · TreScout">
 <meta property="og:description" content="${desc}">
@@ -122,6 +130,7 @@ catalog.forEach(c => {
 <link rel="canonical" href="${canonEn}">
 <link rel="alternate" hreflang="tr" href="${canonTr}">
 <link rel="alternate" hreflang="en" href="${canonEn}">
+<link rel="alternate" hreflang="x-default" href="${canonEn}">
 <link rel="alternate" type="text/markdown" href="/en/discover/${slug}.md">
 <meta property="og:title" content="${title} · TreScout Discover">
 <meta property="og:description" content="${tagline}">
@@ -141,7 +150,7 @@ catalog.forEach(c => {
 <div class="disc-top"><span class="disc-eyebrow">Discover · ${c.source || 'GitHub'}</span></div>
 <h1 class="disc-title">${title}</h1>
 <p class="disc-lead">${tagline}</p>
-<section class="disc-sec"><h2>Project Stats</h2><p>Stars: ${c.stars || 0} · Date: ${c.date || ''}</p></section>
+<section class="disc-sec"><h2>Project Stats</h2><p>Stars: ${c.stars || 0}${c.date ? ` · Date: ${c.date}` : ''}</p></section>
 <aside class="disc-cta"><p><strong>Daily AI-Filtered Tech Radar.</strong> TreScout scans GitHub, Hacker News, and HuggingFace daily to bring you curated insights.</p><a class="btn btn-primary" href="/en/">Learn More</a></aside>
 </article>
 </main>
@@ -166,14 +175,14 @@ let smLines = [];
 dictionary.forEach(t => {
   const url = `https://trescout.com/en/dictionary/${t.slug}/`;
   if (!sm.includes(url)) {
-    smLines.push(`  <url>\n    <loc>${url}</loc>\n    <lastmod>2026-08-04</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.6</priority>\n  </url>`);
+    smLines.push(`  <url>\n    <loc>${url}</loc>\n    <lastmod>${TODAY}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.6</priority>\n  </url>`);
   }
 });
 
 catalog.forEach(c => {
   const url = `https://trescout.com/en/discover/${c.slug}/`;
   if (!sm.includes(url)) {
-    smLines.push(`  <url>\n    <loc>${url}</loc>\n    <lastmod>2026-08-04</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.6</priority>\n  </url>`);
+    smLines.push(`  <url>\n    <loc>${url}</loc>\n    <lastmod>${TODAY}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.6</priority>\n  </url>`);
   }
 });
 
