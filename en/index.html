@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>TreScout · Tech monitoring is no longer a burden.</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="apple-touch-icon" href="/brand-mark.png">
+  <meta name="theme-color" content="#0F1929">
   <meta name="description" content="Tech monitoring is no longer a burden. TreScout scans GitHub, Hacker News, and HuggingFace, summarizes with AI, and delivers concise digests.">
   <link rel="canonical" href="https://trescout.com/en/">
   <link rel="alternate" hreflang="tr" href="https://trescout.com/">
@@ -16,6 +18,8 @@
   <meta property="og:type" content="website">
   <meta property="og:locale" content="en_US">
   <meta property="og:image" content="https://trescout.com/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@GetTreScout">
   <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -35,45 +39,45 @@
         <a href="/en/discover/" class="btn btn-ghost">Discover</a>
         <a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a>
         <a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a>
-        <a href="/" class="btn btn-ghost">TR</a>
+        <a href="/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a>
       </div>
     </div>
   </nav>
 
   <main id="main">
-    <section class="hero container" style="max-width: 800px; margin: 60px auto; text-align: center; padding: 0 20px;">
-      <span class="disc-eyebrow">AI-POWERED TECH RADAR</span>
-      <h1 style="font-size: 2.5rem; font-weight: 700; margin-top: 15px; line-height: 1.2;">Tech monitoring is no longer a burden.</h1>
-      <p class="disc-lead" style="margin-top: 20px; font-size: 1.2rem; color: var(--text-muted, #555);">
-        TreScout scans GitHub, Hacker News, and HuggingFace daily. It filters out the noise with multi-agent AI and delivers clear, structured digests.
-      </p>
-      
-      <div style="margin-top: 40px;">
-        <form class="cta-form js-subscribe" data-source="hero-en" novalidate style="display: inline-block; width: 100%; max-width: 550px;">
-          <div class="form-row" style="display: flex; gap: 10px;">
-            <input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required style="flex: 1; padding: 12px 16px; border-radius: 8px; border: 1px solid #ccc;">
-            <button class="btn btn-primary btn-large" type="submit" style="padding: 12px 24px;">Join Early Access</button>
-          </div>
-          <label class="form-consent" style="display: block; margin-top: 12px; font-size: 0.85rem; color: #666; text-align: left;">
-            <input type="checkbox" name="consent" required data-needs-consent>
-            <span>I agree to receive daily tech updates from TreScout. No spam ever.</span>
-          </label>
-          <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field" style="display:none;">
-        </form>
+    <section class="hero">
+      <div class="container hero-content">
+        <div class="hero-text">
+          <h1>Tech monitoring <span class="accent">is no longer a burden.</span></h1>
+          <p class="mid-line">TreScout scans, summarizes, and delivers. You just read.</p>
+          <p class="sub-line">GitHub, Hacker News, HuggingFace and more. Filtered out with multi-agent AI into concise digests.</p>
+          
+          <form class="cta-form js-subscribe" data-source="hero-en" novalidate>
+            <div class="form-row">
+              <input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required>
+              <button class="btn btn-primary btn-large" type="submit">Join Early Access</button>
+            </div>
+            <label class="form-consent">
+              <input type="checkbox" name="consent" required data-needs-consent>
+              <span>I agree to receive daily tech updates from TreScout. No spam ever.</span>
+            </label>
+            <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
+          </form>
+        </div>
       </div>
     </section>
 
-    <section class="container" style="max-width: 800px; margin: 60px auto; padding: 0 20px;">
-      <h2 style="font-size: 1.5rem; margin-bottom: 20px;">Why TreScout?</h2>
-      <ul style="line-height: 1.8; list-style-type: none; padding-left: 0;">
-        <li style="margin-bottom: 15px;">🔍 <strong>Automated Multi-Source Scanning:</strong> Scrapes trending repos, papers, and community discussions.</li>
-        <li style="margin-bottom: 15px;">🤖 <strong>Multi-LLM Pipeline:</strong> Uses Cerebras for scoring, Claude for architectural reasoning, and Gemini for fluent summaries.</li>
-        <li style="margin-bottom: 15px;">📄 <strong>Markdown & PDF Native:</strong> Designed for both human readers and AI agents (LLM-friendly endpoints).</li>
+    <section class="value-prop container">
+      <h2 class="section-title">Why TreScout?</h2>
+      <ul class="value-list">
+        <li>🔍 <strong>Automated Multi-Source Scanning:</strong> Scrapes trending repos, papers, and community discussions daily.</li>
+        <li>🤖 <strong>Multi-LLM Pipeline:</strong> Uses Cerebras for scoring, Claude for architectural reasoning, and Gemini for fluent summaries.</li>
+        <li>📄 <strong>Markdown & PDF Native:</strong> Designed for both human readers and AI agents (LLM-friendly endpoints).</li>
       </ul>
     </section>
   </main>
 
-  <footer class="footer" style="margin-top: 80px; padding: 20px 0; border-top: 1px solid #eee; text-align: center;">
+  <footer class="footer">
     <div class="container footer-inner">
       <p>© 2026 TreScout · All rights reserved.</p>
     </div>

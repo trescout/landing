@@ -27,6 +27,7 @@
 
 /* ---------- TOKENS ---------- */
 :root {
+  color-scheme: dark;
   --brand: #1B4965;
   --brand-light: #5FA8D3;
   --accent: #F4D35E;
