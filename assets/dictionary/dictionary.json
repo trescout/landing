@@ -3239,5 +3239,19 @@
     "full": "",
     "cat": "dev",
     "kisa": "Yazılım projelerindeki kod bloklarının, fonksiyonların ve dosyaların birbirleriyle olan ilişkilerini görselleştiren bir harita yapısıdır."
+  },
+  {
+    "slug": "jupyter-notebook",
+    "en": "Jupyter Notebook",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kod yazarken aynı zamanda notlar, grafikler ve görselleştirmeler ekleyebildiğiniz etkileşimli bir çalışma ortamıdır."
+  },
+  {
+    "slug": "coding-assistant",
+    "en": "Coding Assistant",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yazılım geliştirme sürecinde size öneriler sunan, kod yazmanızı hızlandıran ve hataları tespit eden yapay zekâ destekli yardımcıdır."
   }
 ]

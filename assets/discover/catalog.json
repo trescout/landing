@@ -2398,7 +2398,7 @@
     "slug": "llama-cpp",
     "title": "Llama.cpp",
     "tagline": "Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını…",
-    "meta": "★ 122.629 · C++",
+    "meta": "★ 122.639 · C++",
     "image": "/assets/discover/og/llama-cpp.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -2406,7 +2406,7 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 122629,
+    "stars": 122639,
     "lite": false,
     "headline": "yapay zekâ modellerini bilgisayarınızda çalıştırın",
     "last_review": "2026-08-04",
@@ -2437,6 +2437,13 @@
         "yildiz": 122629,
         "onceki_yildiz": 122512,
         "surum": "b10255",
+        "surum_tarihi": "2026-08-04"
+      },
+      {
+        "tarih": "2026-08-04",
+        "yildiz": 122639,
+        "onceki_yildiz": 122629,
+        "surum": "b10256",
         "surum_tarihi": "2026-08-04"
       }
     ]
@@ -4180,7 +4187,7 @@
     "slug": "kilocode",
     "title": "Kilocode",
     "tagline": "Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur…",
-    "meta": "★ 26.672 · TypeScript",
+    "meta": "★ 26.704 · TypeScript",
     "image": "/assets/discover/og/kilocode.webp",
     "source": "GitHub",
     "date": "2026-06-19",
@@ -4188,7 +4195,7 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 26672,
+    "stars": 26704,
     "lite": false,
     "headline": "Çok yönlü yapay zekâ kodlama ajanı",
     "last_review": "2026-08-04",
@@ -4199,6 +4206,13 @@
         "onceki_yildiz": 22481,
         "surum": "jetbrains/v7.0.12",
         "surum_tarihi": "2026-08-01"
+      },
+      {
+        "tarih": "2026-08-04",
+        "yildiz": 26704,
+        "onceki_yildiz": 26672,
+        "surum": "v7.4.19",
+        "surum_tarihi": "2026-08-04"
       }
     ]
   },
@@ -8880,7 +8894,7 @@
     "slug": "llmfit",
     "title": "Llmfit",
     "tagline": "Rust diliyle geliştirilen llmfit, yüzlerce büyük dil modelini (large language model) ve sağlayıcıyı tarayarak donanımınızla…",
-    "meta": "★ 31.076 · Rust",
+    "meta": "★ 31.111 · Rust",
     "image": "/assets/discover/og/llmfit.webp",
     "source": "GitHub",
     "date": "2026-07-22",
@@ -8888,7 +8902,7 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 31076,
+    "stars": 31111,
     "lite": false,
     "headline": "donanımınıza uygun yapay zekâ modellerini bulun",
     "last_review": "2026-08-04",
@@ -8906,6 +8920,13 @@
         "onceki_yildiz": 31060,
         "surum": "v1.1.7",
         "surum_tarihi": "2026-08-03"
+      },
+      {
+        "tarih": "2026-08-04",
+        "yildiz": 31111,
+        "onceki_yildiz": 31076,
+        "surum": "v1.1.8",
+        "surum_tarihi": "2026-08-04"
       }
     ]
   },
@@ -9978,14 +9999,14 @@
     "slug": "kaneo",
     "title": "Kaneo",
     "tagline": "Kaneo, kullanıcı odaklı bir arayüzle geliştirilen açık kaynaklı bir proje yönetimi (project management) aracıdır.",
-    "meta": "★ 5.995 · TypeScript",
+    "meta": "★ 7.032 · TypeScript",
     "image": "/assets/discover/og/kaneo.webp",
     "source": "GitHub",
     "date": "2026-08-01",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 5995,
+    "stars": 7032,
     "lite": false,
     "headline": "Sade ve hızlı proje yönetimi",
     "last_review": "2026-08-04",
@@ -9994,6 +10015,13 @@
         "tarih": "2026-08-02",
         "yildiz": 5995,
         "onceki_yildiz": 5248,
+        "surum": "v2.12.1",
+        "surum_tarihi": "2026-07-30"
+      },
+      {
+        "tarih": "2026-08-04",
+        "yildiz": 7032,
+        "onceki_yildiz": 5995,
         "surum": "v2.12.1",
         "surum_tarihi": "2026-07-30"
       }

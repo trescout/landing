@@ -2,11 +2,12 @@
 
 DocuSeal, dijital belge oluşturma, doldurma ve imzalama süreçleri için açık kaynaklı bir alternatif sunuyor. Ruby diliyle geliştirilen bu platform, elektronik imza (e-signature) süreçlerini kendi altyapısında yönetmek isteyen kullanıcılar için çözüm sağlıyor.
 
-- ★ 18.176
+- ★ 18.183
 - Ruby
 - GitHub Trending · 2026-07-18
 
 ## Güncelleme
+- 4 Ağustos 2026: Yıldız 18.176 → 18.183, son sürüm 3.1.7 (3 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 17.916 → 18.176, son sürüm 3.1.6 (27 Temmuz 2026).
 
 ## Ne kazandırır?

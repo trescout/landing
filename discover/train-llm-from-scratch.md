@@ -46,7 +46,7 @@ Lisans: MIT · içeriği ve kodu özgürce kullanabilir, uyarlayabilir, paylaşa
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Transformer Jupyter Notebooks GPU LLM Open Source Artificial Intelligence
+Transformer Jupyter Notebook Jupyter Notebooks GPU LLM Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/train-llm-from-scratch/

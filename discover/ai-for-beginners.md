@@ -27,7 +27,7 @@ Kurulum komutlarını kullanmak istemiyorsanız, projenin GitHub sayfasındaki B
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Notebooks Jupyter Notebooks Artificial Intelligence
+Notebooks Jupyter Notebook Jupyter Notebooks Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-for-beginners/

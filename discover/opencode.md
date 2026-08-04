@@ -2,11 +2,12 @@
 
 OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent). TypeScript diliyle geliştirilen bu araç, yazılım projelerinde otonom görev yürütme yetenekleri sunar.
 
-- ★ 192.342
+- ★ 193.021
 - TypeScript
 - GitHub Trending · 2026-06-28
 
 ## Güncelleme
+- 4 Ağustos 2026: Yıldız 192.342 → 193.021, son sürüm v1.18.12 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 179.948 → 192.342, son sürüm v1.18.11 (1 Ağustos 2026).
 
 ## Ne kazandırır?

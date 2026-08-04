@@ -2,9 +2,12 @@
 
 AWS, yapay zekâ ajanlarının bulut altyapısıyla etkileşimini kolaylaştırmak için Model Bağlantı Protokolü (Model Context Protocol) sunucuları, yetenekler (skills) ve eklentiler içeren bir araç seti yayımladı. Bu geliştirme, ajanların AWS servisleri üzerinde doğrudan işlem yapabilmesini sağlayan standartlaştırılmış bir yapı sunuyor.
 
-- ★ 1.209
+- ★ 2.215
 - Python
 - GitHub Trending · 2026-06-26
+
+## Güncelleme
+- 4 Ağustos 2026: Yıldız 1.209 → 2.215.
 
 ## Ne kazandırır?
 - AWS servisleriyle doğrudan ve güvenli etkileşim
