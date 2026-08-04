@@ -17,7 +17,7 @@ function getFiles(dir, fileList = []) {
 }
 
 const allHtmls = getFiles('.');
-console.log(`Auditing and fixing headers/footers across ${allHtmls.length} HTML files...`);
+console.log(`Auditing and fixing clean headers (no Early Access button) & footers across ${allHtmls.length} HTML files...`);
 
 const richTrFooter = `<footer>
   <div class="container">
@@ -76,8 +76,8 @@ const richEnFooter = `<footer>
           <li><a href="/en/#how-it-works">How It Works</a></li>
           <li><a href="/en/discover/">Discover</a></li>
           <li><a href="/en/dictionary/">Dictionary</a></li>
-          <li><a href="/reports/">Reports Archive</a></li>
-          <li><a href="/compare/rss-vs-ai/">Compare</a></li>
+          <li><a href="/en/reports/">Reports Archive</a></li>
+          <li><a href="/en/compare/rss-vs-ai/">Compare</a></li>
           <li><a href="/en/#top">Early Access</a></li>
         </ul>
       </div>
@@ -115,6 +115,8 @@ allHtmls.forEach(relPath => {
     if (normPath === 'en/index.html') oppLink = '/';
     else if (normPath === 'en/dictionary/index.html') oppLink = '/dictionary/';
     else if (normPath === 'en/discover/index.html') oppLink = '/discover/';
+    else if (normPath === 'en/reports/index.html') oppLink = '/reports/';
+    else if (normPath === 'en/compare/rss-vs-ai/index.html') oppLink = '/compare/rss-vs-ai/';
     else if (normPath.startsWith('en/dictionary/')) {
       const slug = normPath.replace('en/dictionary/', '').replace('/index.html', '');
       oppLink = `/dictionary/${slug}/`;
@@ -126,6 +128,8 @@ allHtmls.forEach(relPath => {
     if (normPath === 'index.html') oppLink = '/en/';
     else if (normPath === 'dictionary/index.html') oppLink = '/en/dictionary/';
     else if (normPath === 'discover/index.html') oppLink = '/en/discover/';
+    else if (normPath === 'reports/index.html') oppLink = '/en/reports/';
+    else if (normPath === 'compare/rss-vs-ai/index.html') oppLink = '/en/compare/rss-vs-ai/';
     else if (normPath.startsWith('dictionary/')) {
       const slug = normPath.replace('dictionary/', '').replace('/index.html', '');
       oppLink = `/en/dictionary/${slug}/`;
@@ -136,8 +140,8 @@ allHtmls.forEach(relPath => {
   }
 
   const expectedNav = isEn ?
-`<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/reports/" class="btn btn-ghost">Reports Archive</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/en/#top" class="btn btn-primary">Early Access</a><a href="${oppLink}" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>` :
-`<nav><div class="container nav-inner"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/discover/" class="btn btn-ghost">Keşif</a><a href="/dictionary/" class="btn btn-ghost">Sözlük</a><a href="/reports/" class="btn btn-ghost">Raporlar</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Karşılaştır</a><a href="/#top" class="btn btn-primary">Erken erişim</a><a href="${oppLink}" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a></div></div></nav>`;
+`<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports Archive</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="${oppLink}" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>` :
+`<nav><div class="container nav-inner"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/discover/" class="btn btn-ghost">Keşif</a><a href="/dictionary/" class="btn btn-ghost">Sözlük</a><a href="/reports/" class="btn btn-ghost">Raporlar</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Karşılaştır</a><a href="${oppLink}" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a></div></div></nav>`;
 
   const expectedFooter = isEn ? richEnFooter : richTrFooter;
 
