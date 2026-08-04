@@ -1,6 +1,6 @@
 # OpenWA
 
-> OpenWA, WhatsApp mesajlaşma protokolü için ücretsiz ve açık kaynaklı bir ağ geçidi (API gateway) çözümü sunuyor.
+> OpenWA offers a free and open source API gateway solution for the WhatsApp messaging protocol.
 
 **Source:** GitHub  
 **Stars:** 12355

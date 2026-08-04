@@ -5,7 +5,7 @@
 **Category:** data
 
 ## Overview
-Dünya üzerindeki coğrafi verileri toplayan, analiz eden ve harita üzerinde görselleştiren dijital sistem.
+A digital system that collects, analyzes and visualizes geographical data on the world on a map.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/gis/

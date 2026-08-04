@@ -1,6 +1,6 @@
 # VeraCrypt
 
-> VeraCrypt, TrueCrypt temel alınarak geliştirilen ve güçlü güvenlik standartları sunan bir disk şifreleme (disk encryption)…
+> VeraCrypt is a disk encryption system that is based on TrueCrypt and offers strong security standards.
 
 **Source:** GitHub  
 **Stars:** 10906

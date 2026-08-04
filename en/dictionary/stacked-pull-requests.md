@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Büyük yazılım değişikliklerini, birbirine bağlı küçük ve yönetilebilir parçalar halinde sırayla sisteme ekleme yöntemidir.
+It is a method of introducing major software changes into the system sequentially in small, manageable pieces that are interconnected.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/stacked-pull-requests/

@@ -1,6 +1,6 @@
 # VulnClaw
 
-> VulnClaw, yapay zekâ ajanları (AI agents) ve model bağlam protokolü (Model Context Protocol) araç zincirini kullanarak sızma…
+> VulnClaw provides infiltration using AI agents and Model Context Protocol toolchain.
 
 **Source:** GitHub  
 **Stars:** 2425

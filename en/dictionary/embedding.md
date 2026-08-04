@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Kelime veya verilerin yapay zeka tarafından anlaşılabilmesi için sayısal dizilere dönüştürülmesidir.
+It is the conversion of words or data into numerical strings so that they can be understood by artificial intelligence.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/embedding/

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir hizmetin sınırlı özelliklerle ücretsiz olarak sunulan başlangıç seviyesidir.
+It is the entry level of a service offered for free with limited features.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/free-tier/

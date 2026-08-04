@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılımın en küçük parçalarının tek başına doğru çalışıp çalışmadığını doğrulayan test yöntemidir.
+It is a testing method that verifies whether the smallest parts of the software work correctly on their own.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/unit-testing/

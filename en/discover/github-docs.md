@@ -1,6 +1,6 @@
 # GitHub Docs
 
-> GitHub'ın resmi dokümantasyonuna ait açık kaynak deposu.
+> Open source repository of GitHub's official documentation.
 
 **Source:** GitHub  
 **Stars:** 20600

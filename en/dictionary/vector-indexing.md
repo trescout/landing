@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Büyük veri kümelerini, bilgisayarın anlamlı benzerlikleri saniyeler içinde bulabileceği sayısal bir haritaya dönüştürme işlemidir.
+It is the process of converting large data sets into a digital map from which a computer can find meaningful similarities in seconds.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/vector-indexing/

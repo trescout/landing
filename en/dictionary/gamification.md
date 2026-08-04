@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Oyun dışı alanlarda kullanıcıyı motive etmek için oyun mekaniklerinin kullanılmasıdır.
+It is the use of game mechanics to motivate the user in non-game areas.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/gamification/

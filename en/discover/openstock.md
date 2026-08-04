@@ -1,6 +1,6 @@
 # OpenStock
 
-> Pahalı borsa platformlarına açık kaynaklı, gerçek zamanlı alternatif.
+> Open source, real-time alternative to expensive exchange platforms.
 
 **Source:** GitHub  
 **Stars:** 14018

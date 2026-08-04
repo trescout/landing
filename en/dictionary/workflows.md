@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir işin başından sonuna kadar izlediği düzenli ve mantıksal adımlar dizisidir.
+It is an orderly and logical sequence of steps that a job follows from beginning to end.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/workflows/

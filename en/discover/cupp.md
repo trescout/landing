@@ -1,6 +1,6 @@
 # Cupp
 
-> Ortak Kullanıcı Parola Profilleyici (Common User Passwords Profiler), hedef odaklı parola listeleri oluşturmak için kullanılan…
+> Common User Passwords Profiler is a tool used to create targeted password lists.
 
 **Source:** GitHub  
 **Stars:** 6161

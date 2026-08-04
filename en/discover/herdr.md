@@ -1,6 +1,6 @@
 # Herdr
 
-> Rust diliyle geliştirilen herdr, uçbirim (terminal) üzerinde çalışan bir ajan çoklayıcı (agent multiplexer) olarak görev yapıyor.
+> Developed with the Rust language, herdr functions as an agent multiplexer running on the terminal.
 
 **Source:** GitHub  
 **Stars:** 9203

@@ -1,6 +1,6 @@
 # VibeVoice
 
-> Microsoft tarafından yayınlanan VibeVoice, açık kaynaklı bir sesli yapay zekâ (voice AI) çerçevesi olarak geliştirildi.
+> Published by Microsoft, VibeVoice was developed as an open source voice AI framework.
 
 **Source:** GitHub  
 **Stars:** 51860

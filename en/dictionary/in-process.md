@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir işlemin dışarıdan yardıma ihtiyaç duymadan, programın kendi çalışma alanı içinde gerçekleşmesidir.
+It is the execution of a process within the program's own workspace, without the need for outside help.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/in-process/

@@ -1,6 +1,6 @@
 # Palmier Pro
 
-> Palmier Pro, macOS işletim sistemi üzerinde çalışan ve yapay zekâ destekli düzenleme araçları sunan bir video düzenleyici…
+> Palmier Pro is a video editor that runs on the macOS operating system and offers artificial intelligence-supported editing tools…
 
 **Source:** GitHub  
 **Stars:** 13010

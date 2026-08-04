@@ -1,6 +1,6 @@
 # Dive Into Llms
 
-> Dive into LLMs, büyük dil modellerinin (large language models) çalışma prensiplerini Jupyter Notebook dosyaları üzerinden…
+> Dive into LLMs explains the working principles of large language models through Jupyter Notebook files.
 
 **Source:** GitHub  
 **Stars:** 47047

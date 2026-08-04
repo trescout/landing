@@ -1,6 +1,6 @@
 # How-To-Secure-A-Linux-Server
 
-> Linux sunucu güvenliği (Linux server security) üzerine hazırlanan bu rehber, sistemleri dış tehditlere karşı korumak için…
+> This guide on Linux server security is designed to protect systems against external threats.
 
 **Source:** GitHub  
 **Stars:** 29237

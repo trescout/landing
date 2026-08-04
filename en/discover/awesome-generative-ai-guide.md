@@ -1,6 +1,6 @@
 # Awesome Generative AI Guide
 
-> Awesome-generative-ai-guide deposu, üretken yapay zekâ (generative AI) alanındaki güncel araştırmaları, mülakat kaynaklarını…
+> Awesome-generative-ai-guide repository contains current research, interview resources in the field of generative artificial intelligence (generative AI)...
 
 **Source:** GitHub  
 **Stars:** 27722

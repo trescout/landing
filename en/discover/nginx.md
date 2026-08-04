@@ -1,6 +1,6 @@
 # Nginx
 
-> NGINX açık kaynak kod deposu, yüksek performanslı bir web sunucusu ve ters vekil sunucu (reverse proxy) olarak C diliyle…
+> NGINX is an open source code repository, a high-performance web server and reverse proxy, based on the C language.
 
 **Source:** GitHub  
 **Stars:** 31312

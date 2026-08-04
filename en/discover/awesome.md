@@ -1,6 +1,6 @@
 # Awesome
 
-> Awesome listeleri, yazılım geliştirme ve teknoloji dünyasındaki çeşitli konulara dair küratörlü kaynak koleksiyonları sunuyor.
+> Awesome lists offers curated collections of resources on a variety of topics in the world of software development and technology.
 
 **Source:** GitHub  
 **Stars:** 482524

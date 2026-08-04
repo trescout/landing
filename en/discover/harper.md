@@ -1,6 +1,6 @@
 # Harper
 
-> Harper, Rust diliyle geliştirilen çevrim dışı ve gizlilik odaklı bir dil bilgisi denetleyicisi (grammar checker) sunuyor.
+> Harper offers an offline and privacy-oriented grammar checker developed with the Rust language.
 
 **Source:** GitHub  
 **Stars:** 14110

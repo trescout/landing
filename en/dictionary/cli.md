@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayara komutları yazılı metinler ile verme yöntemidir.
+It is a method of giving commands to the computer through written texts.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/cli/

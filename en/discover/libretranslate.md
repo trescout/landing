@@ -1,6 +1,6 @@
 # LibreTranslate
 
-> LibreTranslate, özgür ve açık kaynak kodlu bir makine çevirisi arayüzü (API) sunuyor.
+> LibreTranslate offers a free and open source machine translation interface (API).
 
 **Source:** GitHub  
 **Stars:** 15834

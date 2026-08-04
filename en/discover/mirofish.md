@@ -1,6 +1,6 @@
 # MiroFish
 
-> MiroFish, çeşitli veri türlerini tahmin etmek amacıyla geliştirilen basit ve evrensel bir sürü zekâsı motoru (swarm…
+> MiroFish is a simple and universal swarm intelligence engine developed to predict various types of data.
 
 **Source:** GitHub  
 **Stars:** 69813

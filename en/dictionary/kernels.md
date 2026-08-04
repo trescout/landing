@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayarın donanımı ile yazılımları arasındaki iletişimi yöneten işletim sisteminin en temel parçası.
+The most basic part of the operating system that manages the communication between the computer's hardware and software.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/kernels/

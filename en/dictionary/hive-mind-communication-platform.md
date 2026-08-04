@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Bireylerin veya sistemlerin tek bir ortak zihin gibi hareket etmesini sağlayan kolektif iletişim alanı.
+A collective communication field that enables individuals or systems to act as a single collective mind.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/hive-mind-communication-platform/

@@ -1,6 +1,6 @@
 # Claude Howto
 
-> Claude Code için hazırlanan bu görsel rehber, temel kavramlardan ileri seviye ajan (agent) yapılandırmalarına kadar geniş bir…
+> This visual guide for Claude Code covers a wide range of topics, from basic concepts to advanced agent configurations.
 
 **Source:** GitHub  
 **Stars:** 40779

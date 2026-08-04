@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Söylenen sözleri dinleyip bunları otomatik olarak yazılı metne dönüştüren teknolojidir.
+It is technology that listens to spoken words and automatically converts them into written text.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/speech-to-text/

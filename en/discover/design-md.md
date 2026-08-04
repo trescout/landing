@@ -1,6 +1,6 @@
 # Design.md
 
-> Google Labs tarafından geliştirilen DESIGN.md, görsel kimlik bilgilerini kodlama ajanlarına aktarmak için yapılandırılmış bir…
+> Developed by Google Labs, DESIGN.md is a structured system for passing visual credentials to coding agents.
 
 **Source:** GitHub  
 **Stars:** 26873

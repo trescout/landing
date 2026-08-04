@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Veritabanındaki bilgileri sorgulamanıza ve yönetmenize yardımcı olan uygulama.
+Application that helps you query and manage information in the database.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/sql-client/

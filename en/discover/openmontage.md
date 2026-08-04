@@ -1,6 +1,6 @@
 # OpenMontage
 
-> OpenMontage, yapay zekâ kodlama asistanlarını tam kapsamlı bir video prodüksiyon stüdyosuna dönüştüren açık kaynaklı bir ajan…
+> OpenMontage is an open source agent that turns AI coding assistants into a full-fledged video production studio.
 
 **Source:** GitHub  
 **Stars:** 44651

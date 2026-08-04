@@ -1,6 +1,6 @@
 # Next.js
 
-> Next.js, React tabanlı web uygulamaları geliştirmek için kullanılan bir çerçeve (framework) olarak sunucu taraflı oluşturma…
+> Next.js is a server-side rendering framework used to develop React-based web applications.
 
 **Source:** GitHub  
 **Stars:** 141328

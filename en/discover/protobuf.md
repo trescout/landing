@@ -1,6 +1,6 @@
 # Protobuf
 
-> Google tarafından geliştirilen protokol tamponları (protocol buffers), yapılandırılmış verileri seri hale getirmek için…
+> Protocol buffers developed by Google are used to serialize structured data.
 
 **Source:** GitHub  
 **Stars:** 71674

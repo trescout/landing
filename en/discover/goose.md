@@ -1,6 +1,6 @@
 # Goose
 
-> Goose, kod önerilerinin ötesine geçerek yazılım kurulumu, yürütme, düzenleme ve test süreçlerini otomatize eden açık kaynaklı…
+> Goose is an open source software that goes beyond code suggestions and automates software installation, execution, editing and testing.
 
 **Source:** GitHub  
 **Stars:** 52110

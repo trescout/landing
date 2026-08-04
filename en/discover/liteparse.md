@@ -1,6 +1,6 @@
 # Liteparse
 
-> Rust ile geliştirilmiş hızlı ve açık kaynak belge ayrıştırıcı (document parser).
+> Fast and open source document parser developed with Rust.
 
 **Source:** GitHub  
 **Stars:** 11883

@@ -1,6 +1,6 @@
 # Invidious
 
-> Invidious, YouTube platformuna alternatif olarak geliştirilen açık kaynaklı bir arayüzdür.
+> Invidious is an open source interface developed as an alternative to the YouTube platform.
 
 **Source:** GitHub  
 **Stars:** 21884

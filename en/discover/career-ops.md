@@ -1,6 +1,6 @@
 # Career Ops
 
-> Claude Code altyapısını kullanan career-ops, yapay zekâ destekli iş arama süreçlerini 14 farklı yetenek moduyla…
+> Using the Claude Code infrastructure, career-ops offers artificial intelligence-supported job search processes with 14 different skill modes.
 
 **Source:** GitHub  
 **Stars:** 62526

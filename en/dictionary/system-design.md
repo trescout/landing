@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Büyük ve karmaşık yazılım sistemlerinin mimarisini, parçaların birbiriyle iletişimini ve veri akışını planlama süreci.
+The process of planning the architecture, communication of parts and data flow of large and complex software systems.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/system-design/

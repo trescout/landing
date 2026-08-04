@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zeka modellerinin dış dünyadaki verilerle güvenli şekilde konuşmasını sağlayan standarttır.
+It is the standard that enables artificial intelligence models to talk securely with data from the outside world.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/mcp/

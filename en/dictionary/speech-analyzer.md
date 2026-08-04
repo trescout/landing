@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Ses kayıtlarını metne dönüştüren ve bu metindeki duygu, ton veya anlamı çözümleyen bir analiz aracıdır.
+It is an analysis tool that converts audio recordings into text and analyzes the emotion, tone or meaning in this text.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/speech-analyzer/

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Sistemlere giriş denemeleri yapmak için kullanılan, sık tercih edilen kelimelerin ve şifrelerin bulunduğu listelerdir.
+These are lists of frequently used words and passwords used to attempt to log into systems.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/wordlists/

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Birden fazla yapay zekâ modelinin iş birliği yaparak karmaşık görevleri çözdüğü bir çalışma sistemidir.
+It is a working system in which multiple artificial intelligence models cooperate to solve complex tasks.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/multi-agent-llm/

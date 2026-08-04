@@ -1,6 +1,6 @@
 # PhotoGIMP
 
-> PhotoGIMP, GIMP arayüzünü Photoshop kullanıcılarına tanıdık gelecek şekilde düzenleyen bir yama (patch) sunuyor.
+> PhotoGIMP offers a patch that makes the GIMP interface look familiar to Photoshop users.
 
 **Source:** GitHub  
 **Stars:** 17197

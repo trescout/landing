@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılım testlerinin, yazılan kodun ne kadarlık bir kısmını gerçekten çalıştırıp kontrol ettiğini ölçen bir metrik.
+A metric that measures how much of the written code software tests actually run and check.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/code-coverage/

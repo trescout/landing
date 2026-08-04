@@ -1,6 +1,6 @@
 # ANE
 
-> Maderix tarafından geliştirilen ANE, tersine mühendislik ile elde edilen özel uygulama programlama arayüzleri (private APIs)…
+> Developed by Maderix, ANE uses private application programming interfaces (private APIs) obtained through reverse engineering…
 
 **Source:** GitHub  
 **Stars:** 7185

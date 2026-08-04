@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Sesli girdiyi doğrudan sesli çıktıya dönüştüren, metne ihtiyaç duymayan bir teknoloji.
+A technology that directly converts voice input into voice output, without the need for text.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/speech-to-speech/

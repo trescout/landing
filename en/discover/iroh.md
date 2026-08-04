@@ -1,6 +1,6 @@
 # Iroh
 
-> Iroh, IP adresleri yerine anahtar tabanlı (key-based) adresleme kullanarak ağ bağlantılarını daha esnek hale getiren modüler…
+> Iroh is a modular system that makes network connections more flexible by using key-based addressing instead of IP addresses.
 
 **Source:** GitHub  
 **Stars:** 11957

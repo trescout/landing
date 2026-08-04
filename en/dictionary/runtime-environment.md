@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılımın bilgisayarda çalışabilmesi için ihtiyaç duyduğu temel destekleyici ortam.
+The basic supporting environment that a software needs to run on a computer.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/runtime-environment/

@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılımın içinde kullanılan tüm açık kaynaklı kütüphanelerin ve bileşenlerin listelendiği bir envanter belgesidir.
+It is an inventory document that lists all open source libraries and components used in a software.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/sbom/

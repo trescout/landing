@@ -1,6 +1,6 @@
 # Tradingview MCP
 
-> TradingView-mcp, Claude Code ile TradingView masaüstü uygulamasını birbirine bağlayarak grafik analiz süreçlerini otomatize…
+> TradingView-mcp automates chart analysis processes by connecting Claude Code with the TradingView desktop application.
 
 **Source:** GitHub  
 **Stars:** 4930

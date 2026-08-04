@@ -1,6 +1,6 @@
 # Background Agents
 
-> ColeMurray tarafından geliştirilen background-agents, TypeScript tabanlı açık kaynaklı bir arka plan ajanları kodlama sistemidir.
+> Developed by ColeMurray, background-agents is an open source background-agents coding system based on TypeScript.
 
 **Source:** GitHub  
 **Stars:** 2329

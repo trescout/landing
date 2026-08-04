@@ -1,6 +1,6 @@
 # Continue
 
-> Continue, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent).
+> Continue is an open source coding agent designed to automate software development processes.
 
 **Source:** GitHub  
 **Stars:** 35282

@@ -1,6 +1,6 @@
 # Topcoat
 
-> Tokio ekibi tarafından geliştirilen Topcoat, Rust dilinde web uygulamaları oluşturmak için gerekli tüm araçları barındıran…
+> Developed by the Tokio team, Topcoat contains all the necessary tools to create web applications in Rust.
 
 **Source:** GitHub  
 **Stars:** 4127

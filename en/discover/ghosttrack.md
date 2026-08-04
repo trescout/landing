@@ -1,6 +1,6 @@
 # GhostTrack
 
-> Python tabanlı GhostTrack, mobil numaralar üzerinden konum takibi yapılmasına olanak tanıyan bir araçtır.
+> Python-based GhostTrack is a tool that allows location tracking via mobile numbers.
 
 **Source:** GitHub  
 **Stars:** 13874

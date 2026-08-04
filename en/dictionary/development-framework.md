@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılım geliştirme sürecini hızlandıran, hazır yapıları ve kuralları sunan bir çalışma çatısıdır.
+It is a working framework that accelerates the software development process and offers ready-made structures and rules.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/development-framework/

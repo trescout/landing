@@ -1,6 +1,6 @@
 # Awesome LLM Apps
 
-> Awesome-llm-apps deposu, doğrudan çalıştırılabilir 100'den fazla yapay zekâ ajanı (AI agent) ve getirilmiş nesil artırımlı…
+> The awesome-llm-apps repository contains more than 100 directly executable AI agents and introduced generation incremental…
 
 **Source:** GitHub  
 **Stars:** 129783

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayarın belirli görevleri otomatik olarak yerine getirmesi için hazırlanan kısa komut dizileridir.
+They are short command sequences prepared for the computer to perform certain tasks automatically.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/scripts/

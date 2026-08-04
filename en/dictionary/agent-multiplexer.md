@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Farklı uzmanlıklara sahip yapay zeka yardımcılarını tek bir merkezden yönetip, gelen görevleri en uygun asistana yönlendiren sistemdir.
+It is a system that manages artificial intelligence assistants with different specializations from a single center and directs incoming tasks to the most appropriate assistant.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agent-multiplexer/

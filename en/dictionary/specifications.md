@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir ürünün veya yazılımın ne yapması gerektiğini ve nasıl çalışacağını belirten detaylı kurallar bütünüdür.
+It is a set of detailed rules that specify what a product or software should do and how it will work.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/specifications/

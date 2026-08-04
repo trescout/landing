@@ -1,6 +1,6 @@
 # Open Seo
 
-> Open SEO, Semrush ve Ahrefs gibi ücretli araçlara açık kaynaklı bir alternatif sunuyor.
+> Open SEO offers an open source alternative to paid tools like Semrush and Ahrefs.
 
 **Source:** GitHub  
 **Stars:** 10091

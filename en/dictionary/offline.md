@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-İnternet bağlantısına ihtiyaç duymadan, cihazın kendi kaynaklarıyla çalışan sistem.
+The system works with the device's own resources, without the need for an internet connection.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/offline/

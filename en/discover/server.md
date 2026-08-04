@@ -1,6 +1,6 @@
 # Server
 
-> Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya…
+> Music Assistant is an open-source media platform that combines different digital streaming services and connected speakers into a single interface.
 
 **Source:** GitHub  
 **Stars:** 2913

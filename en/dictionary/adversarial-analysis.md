@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir sistemin zayıf noktalarını bulmak için kötü niyetli saldırıları taklit ederek yapılan güvenlik testidir.
+It is security testing performed by imitating malicious attacks to find the weak points of a system.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/adversarial-analysis/

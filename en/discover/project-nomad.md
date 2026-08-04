@@ -1,6 +1,6 @@
 # Project N.O.M.A.D
 
-> İnternetsiz çalışan, kritik araçlar ve bilgiyle donatılmış çevrimdışı hayatta kalma bilgisayarı.
+> Offline survival computer that works without internet and is equipped with critical tools and knowledge.
 
 **Source:** GitHub  
 **Stars:** 35435

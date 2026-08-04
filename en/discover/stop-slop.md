@@ -1,6 +1,6 @@
 # Stop Slop
 
-> Yapay zekâ tarafından üretilen metinlerdeki yapay ifade kalıplarını temizleyen bir beceri.
+> A skill that removes artificial expression patterns in texts produced by artificial intelligence.
 
 **Source:** GitHub  
 **Stars:** 14843

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yeni içerik, metin, görsel veya ses üretebilen yapay zeka teknolojilerinin genel adıdır.
+It is the general name of artificial intelligence technologies that can produce new content, text, visuals or audio.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/generative-ai/

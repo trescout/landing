@@ -1,6 +1,6 @@
 # Machine Learning for Trading
 
-> Stefan Jansen tarafından hazırlanan bu kaynak, algoritmik ticarette makine öğrenimi (machine learning) uygulamaları için…
+> This resource, prepared by Stefan Jansen, is for machine learning applications in algorithmic trading.
 
 **Source:** GitHub  
 **Stars:** 20241

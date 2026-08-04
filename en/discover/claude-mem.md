@@ -1,6 +1,6 @@
 # claude-mem
 
-> AI ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.
+> Persistent memory for your AI agent: Remembers cross-session context and is set up with a single command.
 
 **Source:** GitHub  
 **Stars:** 89464

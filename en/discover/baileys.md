@@ -1,6 +1,6 @@
 # Baileys
 
-> Baileys, WhatsApp Web protokolünü temel alan ve TypeScript ile JavaScript tabanlı uygulamalar geliştirmeye olanak tanıyan…
+> Baileys is based on the WhatsApp Web protocol and allows developing TypeScript and JavaScript-based applications.
 
 **Source:** GitHub  
 **Stars:** 10556

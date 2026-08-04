@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yazılım geliştirme süreçlerini otomatize eden ve bağımsız olarak kod yazabilen yapay zeka sistemidir.
+It is an artificial intelligence system that automates software development processes and can write code independently.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/coding-agent/

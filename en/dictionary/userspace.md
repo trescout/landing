@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayarın çekirdeğine (kernel) müdahale etmeden, kullanıcı uygulamalarının çalıştığı güvenli alan.
+A safe area where user applications run without interfering with the computer's kernel.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/userspace/

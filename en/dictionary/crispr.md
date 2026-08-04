@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-Canlıların genetik kodlarını bir kelime işlemciyle metin düzenler gibi değiştirmeye yarayan hassas bir biyoteknoloji aracıdır.
+It is a sensitive biotechnology tool that helps modify the genetic codes of living things, just like editing text with a word processor.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/crispr/

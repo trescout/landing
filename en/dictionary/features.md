@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılımın veya ürünün kullanıcılara sunduğu belirgin yetenekler ve fonksiyonlar.
+The distinct capabilities and functions that a software or product offers to users.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/features/

@@ -1,6 +1,6 @@
 # Data Engineering Zoomcamp
 
-> Üretime hazır veri hatları kurmayı öğreten 9 haftalık ücretsiz eğitim programı.
+> Free 9-week training program that teaches you how to set up production-ready data pipelines.
 
 **Source:** GitHub  
 **Stars:** 44237

@@ -1,6 +1,6 @@
 # Core
 
-> Home Assistant, yerel kontrol ve gizliliği önceliklendiren açık kaynaklı bir ev otomasyonu (home automation) platformudur.
+> Home Assistant is an open source home automation platform that prioritizes local control and privacy.
 
 **Source:** GitHub  
 **Stars:** 89632

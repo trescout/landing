@@ -1,6 +1,6 @@
 # AiToEarn
 
-> AiToEarn, kullanıcıların yapay zekâ destekli otomasyonlar aracılığıyla gelir elde etme süreçlerini yönetmelerini sağlayan bir…
+> AiToEarn is a platform that allows users to manage their revenue generation processes through artificial intelligence-supported automations.
 
 **Source:** GitHub  
 **Stars:** 24551

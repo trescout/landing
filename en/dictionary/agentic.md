@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Bir yapay zekânın, kendisine verilen hedef doğrultusunda insan müdahalesi olmadan kendi başına plan yapıp aksiyon alabilme yeteneğidir.
+It is the ability of an artificial intelligence to plan and take action on its own, without human intervention, in line with the target given to it.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agentic/

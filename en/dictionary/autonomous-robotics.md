@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-İnsan müdahalesi olmadan, çevresini algılayıp kendi kararlarını vererek hareket edebilen makinelerdir.
+They are machines that can act by sensing their environment and making their own decisions, without human intervention.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/autonomous-robotics/

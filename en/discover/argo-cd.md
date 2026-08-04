@@ -1,6 +1,6 @@
 # Argo Cd
 
-> Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarative continuous deployment) süreçlerini yöneten bir…
+> Argo CD is a tool that manages declarative continuous deployment processes for Kubernetes environments.
 
 **Source:** GitHub  
 **Stars:** 23807

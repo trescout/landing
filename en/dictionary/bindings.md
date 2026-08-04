@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Farklı programlama dillerinin birbirinin kütüphanelerini kullanabilmesini sağlayan köprülerdir.
+They are bridges that enable different programming languages ​​to use each other's libraries.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/bindings/

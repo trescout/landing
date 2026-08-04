@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılımı bilgisayarınıza kurmak yerine internet tarayıcısı üzerinden kullanmanıza olanak tanıyan görsel arayüz.
+A visual interface that allows you to use a software via an internet browser instead of installing it on your computer.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/web-ui/

@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zeka modellerinin farklı veri kaynaklarıyla ve araçlarla güvenli bir şekilde konuşmasını sağlayan standart bir bağlantı dilidir.
+It is a standard connection language that allows AI models to talk securely with different data sources and tools.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/model-context-protocol-mcp/

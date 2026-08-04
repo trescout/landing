@@ -1,6 +1,6 @@
 # Turso
 
-> Turso, SQLite ile uyumlu çalışan ve süreç içi (in-process) bir SQL veritabanı sunuyor.
+> Turso offers an in-process SQL database that is compatible with SQLite.
 
 **Source:** GitHub  
 **Stars:** 23620

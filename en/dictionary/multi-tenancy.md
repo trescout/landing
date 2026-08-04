@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Tek bir yazılımın, aynı anda birçok farklı kullanıcıya veya şirkete birbirinden bağımsız hizmet vermesidir.
+It is the ability of a single software to provide independent services to many different users or companies at the same time.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/multi-tenancy/

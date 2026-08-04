@@ -1,6 +1,6 @@
 # GO
 
-> Google tarafından geliştirilen Go programlama dili, yüksek performanslı ve ölçeklenebilir yazılımlar oluşturmak için…
+> Go programming language developed by Google is used to create high-performance and scalable software.
 
 **Source:** GitHub  
 **Stars:** 134555

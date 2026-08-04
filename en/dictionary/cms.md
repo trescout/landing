@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Kod yazmayı bilmeden web siteleri üzerinden içerik oluşturmanızı, düzenlemenizi ve yayınlamanızı sağlayan kullanıcı dostu bir yazılımdır.
+It is a user-friendly software that allows you to create, edit and publish content on websites without knowing how to code.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/cms/

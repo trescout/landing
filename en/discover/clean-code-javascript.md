@@ -1,6 +1,6 @@
 # Clean Code Javascript
 
-> Temiz kod (clean code) prensiplerini JavaScript diline uyarlayan bu rehber, yazılım geliştirme süreçlerinde okunabilir ve…
+> This guide, which adapts clean code principles to the JavaScript language, is readable and…
 
 **Source:** GitHub  
 **Stars:** 94633

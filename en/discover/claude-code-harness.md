@@ -1,6 +1,6 @@
 # Claude Code Harness
 
-> Claude Code için disiplinli bir 'Planla, Yap, Gözden Geçir' döngüsü.
+> A disciplined 'Plan, Do, Review' cycle for Claude Code.
 
 **Source:** GitHub  
 **Stars:** 3037

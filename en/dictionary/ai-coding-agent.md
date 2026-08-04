@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılım geliştirme sürecinde kod yazan, hata ayıklayan ve proje mimarisine katkıda bulunan yapay zeka tabanlı asistandır.
+It is an artificial intelligence-based assistant that writes code, debugs and contributes to the project architecture during the software development process.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ai-coding-agent/

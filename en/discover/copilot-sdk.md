@@ -1,6 +1,6 @@
 # Copilot SDK
 
-> GitHub Copilot SDK, geliştiricilerin GitHub Copilot yapay zekâ ajanlarını kendi uygulama ve hizmetlerine entegre etmelerini…
+> GitHub Copilot SDK allows developers to integrate GitHub Copilot AI agents into their applications and services.
 
 **Source:** GitHub  
 **Stars:** 10331

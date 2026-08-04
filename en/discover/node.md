@@ -1,6 +1,6 @@
 # Node
 
-> Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağlayan bir çalışma zamanı ortamı (runtime environment) sunuyor.
+> Node.js offers a runtime environment that allows JavaScript code to be run outside the browser.
 
 **Source:** GitHub  
 **Stars:** 118705

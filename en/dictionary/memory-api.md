@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılımların yapay zekâ hafızasına veri eklemesini veya mevcut bilgileri sorgulamasını sağlayan bağlantı noktası.
+Port that allows software to add data to artificial intelligence memory or query existing information.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/memory-api/

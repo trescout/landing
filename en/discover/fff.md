@@ -1,6 +1,6 @@
 # FFF
 
-> Rust ile geliştirilen fff, yapay zekâ ajanları ve metin düzenleyiciler için dosya arama işlemlerini yüksek hız ve doğrulukla…
+> Developed with Rust, fff provides file searches with high speed and accuracy for artificial intelligence agents and text editors.
 
 **Source:** GitHub  
 **Stars:** 9882

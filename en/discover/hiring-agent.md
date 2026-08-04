@@ -1,6 +1,6 @@
 # Hiring Agent
 
-> Hiring-agent, özgeçmişleri değerlendirmek ve puanlamak için tasarlanmış bir yapay zekâ ajanıdır (AI agent).
+> Hiring-agent is an artificial intelligence agent (AI agent) designed to evaluate and score resumes.
 
 **Source:** GitHub  
 **Stars:** 6694

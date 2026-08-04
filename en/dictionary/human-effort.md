@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir projenin veya görevin tamamlanması için insanların harcadığı zihinsel ve fiziksel çabanın bütünüdür.
+It is the totality of mental and physical effort made by people to complete a project or task.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/human-effort/

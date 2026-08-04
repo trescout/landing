@@ -1,6 +1,6 @@
 # Train LLM from Scratch
 
-> Veri setinden metin üretimine, bir LLM'i sıfırdan eğitmek için kapsamlı rehber.
+> From dataset to text generation, the comprehensive guide to training an LLM from scratch.
 
 **Source:** GitHub  
 **Stars:** 8864

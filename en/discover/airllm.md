@@ -1,6 +1,6 @@
 # Airllm
 
-> AirLLM, 70 milyar parametreli büyük dil modellerinin (large language models) yalnızca 4 GB video belleğine (VRAM) sahip grafik…
+> AirLLM is a graphical solution for large language models with 70 billion parameters, with only 4 GB video memory (VRAM).
 
 **Source:** GitHub  
 **Stars:** 27522

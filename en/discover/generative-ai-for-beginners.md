@@ -1,6 +1,6 @@
 # Generative AI for Beginners
 
-> Microsoft tarafından hazırlanan bu eğitim içeriği, üretken yapay zekâ (generative AI) teknolojilerine giriş yapmak isteyenler…
+> This training content prepared by Microsoft is for those who want to get into generative artificial intelligence (generative AI) technologies.
 
 **Source:** GitHub  
 **Stars:** 114349

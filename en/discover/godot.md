@@ -1,6 +1,6 @@
 # Godot
 
-> Godot Motoru (Godot Engine), iki ve üç boyutlu oyun geliştirme süreçleri için kullanılan açık kaynaklı bir oyun motorudur.
+> Godot Engine (Godot Engine) is an open source game engine used for two- and three-dimensional game development processes.
 
 **Source:** GitHub  
 **Stars:** 114944

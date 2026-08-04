@@ -1,6 +1,6 @@
 # Aspnetcore
 
-> ASP.NET Core, Windows, macOS ve Linux üzerinde modern bulut tabanlı web uygulamaları geliştirmek için kullanılan platformlar…
+> ASP.NET Core is a platform used to develop modern cloud-based web applications on Windows, macOS and Linux.
 
 **Source:** GitHub  
 **Stars:** 38339

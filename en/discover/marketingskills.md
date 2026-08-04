@@ -1,6 +1,6 @@
 # Marketingskills
 
-> Claude Code ve yapay zekâ ajanları için geliştirilen marketingskills kütüphanesi, dönüşüm oranı optimizasyonu (CRO), metin…
+> Claude Code and the marketingskills library developed for artificial intelligence agents, conversion rate optimization (CRO), text…
 
 **Source:** GitHub  
 **Stars:** 42728

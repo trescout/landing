@@ -1,6 +1,6 @@
 # Open Notebook
 
-> Open-notebook, Google NotebookLM'in açık kaynaklı bir alternatifini sunarak kullanıcıların kendi verileri üzerinde…
+> Open-notebook offers an open-source alternative to Google NotebookLM, allowing users to exercise control over their own data.
 
 **Source:** GitHub  
 **Stars:** 36268

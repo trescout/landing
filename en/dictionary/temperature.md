@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekanın ürettiği cevapların yaratıcılık seviyesini belirleyen ayardır.
+It is the setting that determines the creativity level of the answers produced by artificial intelligence.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/temperature/

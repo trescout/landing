@@ -1,6 +1,6 @@
 # Pg Durable
 
-> Microsoft tarafından geliştirilen pg_durable, PostgreSQL üzerinde dayanıklı yürütme (durable execution) süreçlerini yönetmek…
+> Developed by Microsoft, pg_durable is a tool for managing durable execution processes on PostgreSQL.
 
 **Source:** GitHub  
 **Stars:** 2716

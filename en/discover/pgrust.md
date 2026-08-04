@@ -1,6 +1,6 @@
 # Pgrust
 
-> PostgreSQL veritabanı yönetim sisteminin Rust programlama dili ile yeniden yazıldığı pgrust projesi, tüm regresyon testlerini…
+> The pgrust project, in which the PostgreSQL database management system was rewritten with the Rust programming language, includes all regression tests.
 
 **Source:** GitHub  
 **Stars:** 3957

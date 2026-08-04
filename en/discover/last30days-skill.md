@@ -1,6 +1,6 @@
 # Last30days Skill
 
-> Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlarda araştırma yaparak güncel verileri…
+> Last30days-skill obtains current data by researching on platforms such as Reddit, X, YouTube, Hacker News and Polymarket.
 
 **Source:** GitHub  
 **Stars:** 56777

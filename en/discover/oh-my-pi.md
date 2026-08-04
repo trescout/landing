@@ -1,6 +1,6 @@
 # Oh My Pi
 
-> Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding…
+> Oh-my-pi is an artificial intelligence coding agent (AI coding…) that runs in a terminal environment and automates code editing processes.
 
 **Source:** GitHub  
 **Stars:** 21651

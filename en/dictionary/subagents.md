@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Ana bir yapay zekâ sisteminin yönetimi altında, daha küçük ve özel görevleri yerine getiren yardımcı birimlerdir.
+They are auxiliary units that perform smaller and specialized tasks under the management of a main artificial intelligence system.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/subagents/

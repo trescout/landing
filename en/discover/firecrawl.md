@@ -1,6 +1,6 @@
 # Firecrawl
 
-> Firecrawl, web sitelerindeki verileri büyük ölçekte taramak, ayıklamak ve yapay zekâ modellerinin işleyebileceği temiz metin…
+> Firecrawl is a tool for crawling and extracting data from websites at scale and generating clean text that artificial intelligence models can process.
 
 **Source:** GitHub  
 **Stars:** 159421

@@ -1,6 +1,6 @@
 # Kimi CLI
 
-> Moonshot AI tarafından geliştirilen Kimi CLI, komut satırı arayüzü (CLI) üzerinden çalışan bir yapay zekâ ajanıdır.
+> Developed by Moonshot AI, Kimi CLI is an artificial intelligence agent that works via a command line interface (CLI).
 
 **Source:** GitHub  
 **Stars:** 11074

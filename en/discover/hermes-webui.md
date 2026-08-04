@@ -1,6 +1,6 @@
 # Hermes WebUI
 
-> Hermes AI ajanlarınızı web tarayıcısı veya mobil cihazınızdan kolayca yönetin.
+> Easily manage your Hermes AI agents from your web browser or mobile device.
 
 **Source:** GitHub  
 **Stars:** 16850

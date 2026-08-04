@@ -1,6 +1,6 @@
 # Strix
 
-> Strix, uygulamalardaki güvenlik açıklarını tespit etmek ve gidermek için tasarlanmış açık kaynaklı bir yapay zekâ tabanlı…
+> Strix is ​​an open-source artificial intelligence-based application designed to detect and fix security vulnerabilities in applications.
 
 **Source:** GitHub  
 **Stars:** 46599

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılım projesinin veya verinin, üzerinde çalışma yapmak için başka bir bilgisayara kopyalanmasıdır.
+It is the copying of a software project or data to another computer to work on it.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/clones/

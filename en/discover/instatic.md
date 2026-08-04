@@ -1,6 +1,6 @@
 # Instatic
 
-> Instatic, TypeScript tabanlı, kendi kendine barındırılan (self-hosted) modern bir görsel içerik yönetim sistemi (CMS) olarak…
+> Instatic is a modern self-hosted visual content management system (CMS) based on TypeScript.
 
 **Source:** GitHub  
 **Stars:** 7250

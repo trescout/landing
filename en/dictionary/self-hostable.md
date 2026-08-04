@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılımın dışarıdan hizmet almak yerine kendi altyapınızda çalıştırılabilir olmasıdır.
+It means that a software can be run on your own infrastructure instead of outsourcing it.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/self-hostable/

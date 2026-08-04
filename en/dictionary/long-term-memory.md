@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekânın geçmişteki bilgileri ve deneyimleri uzun süre saklayıp ihtiyaç duyduğunda hatırlaması.
+Artificial intelligence stores past information and experiences for a long time and remembers them when needed.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/long-term-memory/

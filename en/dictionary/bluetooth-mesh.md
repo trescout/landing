@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Birden fazla cihazın birbirine bağlanarak geniş bir alanda ağ kurmasını sağlayan kablosuz iletişim teknolojisi.
+Wireless communication technology that allows multiple devices to connect to each other and establish a network in a wide area.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/bluetooth-mesh/

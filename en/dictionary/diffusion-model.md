@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Gürültülü veriden temiz ve anlamlı görseller üreten bir yapay zeka yöntemidir.
+It is an artificial intelligence method that produces clean and meaningful images from noisy data.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/diffusion-model/

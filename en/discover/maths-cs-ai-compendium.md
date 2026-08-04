@@ -1,6 +1,6 @@
 # Maths Cs AI Compendium
 
-> Maths-cs-ai-compendium, yapay zekâ ve makine öğrenimi (machine learning) alanında uzmanlaşmak isteyen mühendisler için…
+> Maths-cs-ai-compendium is for engineers who want to specialize in artificial intelligence and machine learning…
 
 **Source:** GitHub  
 **Stars:** 7220

@@ -1,6 +1,6 @@
 # Jellyfin
 
-> Film, dizi ve müzik koleksiyonunuzu tüm cihazlarınıza taşıyan ücretsiz medya sunucusu.
+> Free media server that brings your movie, TV series and music collection to all your devices.
 
 **Source:** GitHub  
 **Stars:** 55268

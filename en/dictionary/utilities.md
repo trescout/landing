@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayarın bakımını, yönetimini veya temel işlevlerini kolaylaştıran yardımcı küçük yazılımlar.
+Helpful small software that facilitates the maintenance, management or basic functions of the computer.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/utilities/

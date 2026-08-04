@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılımın o anki durumunu ve verilerini takip etme yöntemidir.
+It is a method of tracking the current status and data of a software.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/state-management/

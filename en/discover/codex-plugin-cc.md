@@ -1,6 +1,6 @@
 # Codex Plugin Cc
 
-> OpenAI tarafından geliştirilen Codex eklentisi, Claude Code üzerinde kod inceleme süreçlerini otomatize etmek ve görev…
+> Developed by OpenAI, the Codex plugin is used to automate code review processes and task tasks on Claude Code.
 
 **Source:** GitHub  
 **Stars:** 30950

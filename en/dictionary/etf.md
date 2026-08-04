@@ -5,7 +5,7 @@
 **Category:** data
 
 ## Overview
-Birçok farklı hisse senedini veya varlığı tek bir paket halinde borsada alıp satmanızı sağlayan yatırım aracıdır.
+It is an investment tool that allows you to buy and sell many different stocks or assets in a single package on the stock exchange.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/etf/

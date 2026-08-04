@@ -1,6 +1,6 @@
 # Claude Code Templates
 
-> Claude Code şablonları, Claude Code aracı için yapılandırma ve izleme süreçlerini kolaylaştıran bir komut satırı arayüzü (CLI)…
+> Claude Code templates provide a command line interface (CLI) for the Claude Code tool that simplifies configuration and monitoring.
 
 **Source:** GitHub  
 **Stars:** 30058

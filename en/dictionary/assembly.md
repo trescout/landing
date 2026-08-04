@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Karmaşık bir sistemi oluşturmak için çeşitli bileşenlerin veya parçaların bir araya getirilmesi sürecidir.
+It is the process of bringing together various components or parts to form a complex system.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/assembly/

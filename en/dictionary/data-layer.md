@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Uygulamanızın veritabanı ile konuşmasını sağlayan, veriyi düzenleyen orta katmandır.
+It is the middle layer that allows your application to talk to the database and organizes the data.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/data-layer/

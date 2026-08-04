@@ -1,6 +1,6 @@
 # Pytest
 
-> Pytest, Python projelerinde küçük ölçekli birim testlerinden (unit testing) karmaşık işlevsel testlere kadar geniş bir…
+> Pytest offers a wide range of tests in Python projects, from small-scale unit testing to complex functional tests.
 
 **Source:** GitHub  
 **Stars:** 14382

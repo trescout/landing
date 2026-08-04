@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Sadece en son yedeklemeden sonra değişen dosyaları kaydederek zamandan ve alandan tasarruf eden yedekleme yöntemidir.
+It is a backup method that saves time and space by saving only the files that have changed since the last backup.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/incremental-backup/

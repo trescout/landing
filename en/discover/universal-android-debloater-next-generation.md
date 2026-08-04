@@ -1,6 +1,6 @@
 # Universal Android Debloater Next Generation
 
-> Universal Android Debloater Next Generation, kök dizin erişimi (root) gerektirmeyen Android cihazlardaki gereksiz uygulamaları…
+> Universal Android Debloater Next Generation removes unnecessary applications on Android devices that do not require root access (root).
 
 **Source:** GitHub  
 **Stars:** 8660

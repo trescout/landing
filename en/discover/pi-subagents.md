@@ -1,6 +1,6 @@
 # Pi Subagents
 
-> Pi platformunda asenkron alt-ajan delegasyonu için TypeScript kütüphanesi.
+> TypeScript library for asynchronous sub-agent delegation on the Pi platform.
 
 **Source:** GitHub  
 **Stars:** 2831

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Kodları, model ağırlıkları ve çalışma mantığı herkesin incelemesine, değiştirmesine ve geliştirmesine açık olan yapay zeka modelleridir.
+They are artificial intelligence models whose codes, model weights and working logic are open to anyone to examine, change and improve.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/open-source-ai/

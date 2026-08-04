@@ -1,6 +1,6 @@
 # Amnezia Client
 
-> Amnezia VPN istemcisi, kullanıcıların kendi sunucuları üzerinden sansürsüz internet erişimi sağlamasına olanak tanıyan açık…
+> Amnesia VPN client is an open-source application that allows users to gain uncensored internet access through its own servers.
 
 **Source:** GitHub  
 **Stars:** 14262

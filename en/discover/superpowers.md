@@ -1,6 +1,6 @@
 # Superpowers
 
-> Kodlama ajanları için bileşik beceriler ve yazılım geliştirme metodolojisi.
+> Composite skills and software development methodology for coding agents.
 
 **Source:** GitHub  
 **Stars:** 264883

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Kullanıcının web sitenizdeki tüm hareketlerini bir film gibi kaydedip izlemenizi sağlayan teknolojidir.
+It is a technology that allows you to record and watch all the user's movements on your website like a movie.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/session-replay/

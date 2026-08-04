@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Yazılımcıların yazdığı kodların otomatik olarak birleştirilip test edilerek hataların erkenden yakalanmasını sağlayan süreçtir.
+It is the process that ensures that errors are caught early by automatically combining and testing the codes written by software developers.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/continuous-integration/

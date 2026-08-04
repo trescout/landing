@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-İnsan zekâsını taklit ederek öğrenme, mantık yürütme ve problem çözme yeteneğine sahip bilgisayar sistemleri.
+Computer systems that have the ability to learn, reason and solve problems by imitating human intelligence.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/artificial-intelligence/

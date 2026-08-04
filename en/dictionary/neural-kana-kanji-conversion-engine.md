@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Japonca fonetik yazımı, anlamlı karakterlere dönüştüren yapay zekâ tabanlı bir yazılım motorudur.
+It is an artificial intelligence-based software engine that converts Japanese phonetic writing into meaningful characters.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/neural-kana-kanji-conversion-engine/

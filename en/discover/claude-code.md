@@ -1,6 +1,6 @@
 # Claude Code
 
-> Terminalde çalışan ve kod tabanınızı anlayan AI ajan kodlama aracı (Anthropic ürünü).
+> AI agent coding tool (product from Anthropic) that runs in the terminal and understands your codebase.
 
 **Source:** GitHub  
 **Stars:** 140160

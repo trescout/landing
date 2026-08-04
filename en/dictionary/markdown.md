@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Metinleri biçimlendirmek için kullanılan, basit işaretlerle yazı yazmayı sağlayan hafif bir biçimlendirme dili.
+A lightweight formatting language used to format text, allowing writing with simple characters.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/markdown/

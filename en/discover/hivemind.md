@@ -1,6 +1,6 @@
 # Hivemind
 
-> Activeloop tarafından geliştirilen Hivemind, tüm yapay zekâ ajanları için merkezi bir bellek ve koordinasyon katmanı…
+> Hivemind, developed by Activeloop, is a central memory and coordination layer for all artificial intelligence agents.
 
 **Source:** GitHub  
 **Stars:** 1526

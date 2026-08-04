@@ -1,6 +1,6 @@
 # RuView
 
-> Sıradan WiFi sinyallerini kamera olmadan gerçek zamanlı mekânsal zekâya dönüştürün.
+> Turn ordinary WiFi signals into real-time spatial intelligence without a camera.
 
 **Source:** GitHub  
 **Stars:** 88270

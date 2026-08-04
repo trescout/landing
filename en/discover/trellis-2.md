@@ -1,6 +1,6 @@
 # TRELLIS.2
 
-> Microsoft tarafından geliştirilen TRELLIS, metin veya görsel girdilerini üç boyutlu (3D) modellere dönüştüren bir yapısal…
+> Developed by Microsoft, TRELLIS is a structured software that converts text or visual input into three-dimensional (3D) models.
 
 **Source:** GitHub  
 **Stars:** 9992

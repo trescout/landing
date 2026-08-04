@@ -1,6 +1,6 @@
 # Zvec
 
-> Alibaba tarafından geliştirilen zvec, C++ diliyle yazılmış hafif ve yüksek hızlı bir süreç içi vektör veritabanı (in-process…
+> Developed by Alibaba, zvec is a lightweight and high-speed in-process vector database written in C++.
 
 **Source:** GitHub  
 **Stars:** 15356

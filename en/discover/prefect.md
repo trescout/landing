@@ -1,6 +1,6 @@
 # Prefect
 
-> Prefect, Python tabanlı veri hatları oluşturmak için kullanılan bir iş akışı düzenleme çerçevesidir (workflow orchestration…
+> Prefect is a workflow orchestration framework for creating Python-based data pipelines.
 
 **Source:** GitHub  
 **Stars:** 23532

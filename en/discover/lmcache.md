@@ -1,6 +1,6 @@
 # LMCache
 
-> LMCache, büyük dil modelleri (large language models) için anahtar-değer önbelleği (KV cache) yönetimini optimize ederek…
+> LMCache optimizes key-value cache (KV cache) management for large language models.
 
 **Source:** GitHub  
 **Stars:** 10985

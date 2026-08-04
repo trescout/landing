@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Eğitilmiş bir yapay zekâ modelini kullanarak, ona verilen yeni girdilere karşı tahmin veya sonuç üreten yazılım motoru.
+A software engine that uses a trained artificial intelligence model to produce predictions or results based on new inputs given to it.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/inference-engine/

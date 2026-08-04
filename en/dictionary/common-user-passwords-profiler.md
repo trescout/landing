@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-İnsanların sıkça kullandığı zayıf şifreleri analiz ederek güvenlik açıklarını belirleyen bir araçtır.
+It is a tool that identifies security vulnerabilities by analyzing weak passwords that people frequently use.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/common-user-passwords-profiler/

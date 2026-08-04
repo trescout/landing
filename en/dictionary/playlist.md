@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Dijital içeriklerin belirli bir sırayla veya temaya göre oynatılmak üzere bir araya getirildiği listedir.
+It is a list where digital content is brought together to be played in a certain order or according to a theme.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/playlist/

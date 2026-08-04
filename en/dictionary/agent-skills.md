@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâ ajanlarının belirli görevleri yerine getirmek için kullandığı özel yetenekler veya araçlar.
+Special abilities or tools that AI agents use to perform specific tasks.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agent-skills/

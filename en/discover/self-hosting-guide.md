@@ -1,6 +1,6 @@
 # Self-Hosting-Guide
 
-> Self-Hosting Guide, yerel ağlarda veya özel web sunucularında yazılım uygulamalarını barındırma ve yönetme süreçlerine dair…
+> The Self-Hosting Guide covers the process of hosting and managing software applications on local networks or private web servers.
 
 **Source:** GitHub  
 **Stars:** 21324

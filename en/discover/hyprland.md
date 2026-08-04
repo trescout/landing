@@ -1,6 +1,6 @@
 # Hyprland
 
-> Hyprland, Wayland görüntü sunucusu (compositor) üzerinde çalışan ve özelleştirilebilir dinamik döşeme (tiling) yapısı sunan…
+> Hyprland runs on the Wayland compositor and offers customizable dynamic tiling structure.
 
 **Source:** GitHub  
 **Stars:** 37701

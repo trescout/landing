@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Sadece metni değil, aynı zamanda görüntü, ses ve video gibi farklı veri türlerini aynı anda işleyebilen yapay zekâ modelidir.
+It is an artificial intelligence model that can simultaneously process not only text but also different types of data such as images, audio and video.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/multimodal-model/

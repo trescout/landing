@@ -1,6 +1,6 @@
 # Personal_AI_Infrastructure
 
-> Kişisel yapay zekâ altyapısı (Personal AI Infrastructure), insan yeteneklerini artırmak amacıyla tasarlanmış ajan tabanlı…
+> Personal artificial intelligence infrastructure (Personal AI Infrastructure) is an agent-based technology designed to increase human capabilities.
 
 **Source:** GitHub  
 **Stars:** 15080

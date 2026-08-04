@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir programın aynı anda birden fazla işlem yaparken verilerin bozulmasını engelleyen güvenlik özelliği.
+A security feature of a program that prevents data from being corrupted when performing multiple operations at the same time.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/thread-safety/

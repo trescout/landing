@@ -1,6 +1,6 @@
 # Immich
 
-> Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya…
+> Immich is a high-performance self-hosted media platform developed for managing photo and video files.
 
 **Source:** GitHub  
 **Stars:** 109538

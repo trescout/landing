@@ -1,6 +1,6 @@
 # Karukan
 
-> Rust diliyle geliştirilen Karukan, Linux ve macOS işletim sistemleri için sinirsel kana-kanji dönüştürme motoru (neural…
+> Developed with the Rust language, Karukan is a neural kana-kanji conversion engine (neural…
 
 **Source:** GitHub  
 **Stars:** 692

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılım aracının, kendisini derleyebilecek veya oluşturabilecek kapasiteye ulaşana kadar aşamalı olarak geliştirilmesi sürecidir.
+It is the process of gradually improving a software tool until it reaches the capacity to compile or build itself.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/toolchain-bootstrapping/

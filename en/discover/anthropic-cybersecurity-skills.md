@@ -1,6 +1,6 @@
 # Anthropic Cybersecurity Skills
 
-> Yapay zekâ ajanları için 754 hazır siber güvenlik becerisi · Anthropic resmi değil.
+> 754 ready-made cybersecurity skills for AI agents · Anthropic unofficial.
 
 **Source:** GitHub  
 **Stars:** 27085

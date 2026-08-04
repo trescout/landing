@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Kullanıcıdan aldığı hedefler doğrultusunda kendi başına araçları kullanan ve kararlar veren otonom yapay zeka programlarıdır.
+They are autonomous artificial intelligence programs that use vehicles and make decisions on their own in line with the goals they receive from the user.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agents/

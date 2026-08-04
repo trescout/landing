@@ -1,6 +1,6 @@
 # Babysitter
 
-> AI ajan iş gücünü hatasız yönetmek için deterministik denetim mekanizması.
+> Deterministic control mechanism to manage AI agent workforce without errors.
 
 **Source:** GitHub  
 **Stars:** 1632

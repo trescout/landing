@@ -1,6 +1,6 @@
 # Agent Governance Toolkit
 
-> Microsoft tarafından geliştirilen ajan yönetişim araç seti (agent governance toolkit), otonom yapay zekâ ajanları için…
+> The agent governance toolkit developed by Microsoft is for autonomous artificial intelligence agents.
 
 **Source:** GitHub  
 **Stars:** 5564

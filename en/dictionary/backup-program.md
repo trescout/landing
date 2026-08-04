@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Dijital verilerinizin bir kopyasını alarak kaybolmalarını önleyen yazılımdır.
+It is software that prevents loss of your digital data by making a copy of it.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/backup-program/

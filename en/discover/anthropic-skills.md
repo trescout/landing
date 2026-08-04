@@ -1,6 +1,6 @@
 # Anthropic Skills
 
-> Anthropic'in resmi Agent Skills deposu: Claude'un dinamik olarak yüklediği beceri paketleri.
+> Anthropic's official Agent Skills repository: Claude's dynamically loaded skill packs.
 
 **Source:** GitHub  
 **Stars:** 165785

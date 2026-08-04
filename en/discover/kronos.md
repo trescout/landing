@@ -1,6 +1,6 @@
 # Kronos
 
-> Finansal piyasaların dilini çözmek için geliştirilmiş açık kaynak temel model.
+> An open source basic model developed to decipher the language of financial markets.
 
 **Source:** GitHub  
 **Stars:** 35441

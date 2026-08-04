@@ -1,6 +1,6 @@
 # Openclaw Windows Node
 
-> OpenClaw Windows düğümü (node), sistem tepsisi uygulaması, paylaşılan kütüphane ve PowerToys komut paleti uzantısı…
+> OpenClaw Windows node, system tray application, shared library and PowerToys command palette extension…
 
 **Source:** GitHub  
 **Stars:** 2018

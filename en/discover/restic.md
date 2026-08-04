@@ -1,6 +1,6 @@
 # Restic
 
-> Go diliyle geliştirilen Restic, verileri şifreleyerek hızlı ve verimli bir şekilde yedekleyen açık kaynaklı bir yedekleme…
+> Developed with the Go language, Restic is an open source backup system that backs up data quickly and efficiently by encrypting it.
 
 **Source:** GitHub  
 **Stars:** 35302

@@ -1,6 +1,6 @@
 # Next AI Draw IO
 
-> Next.js tabanlı bu uygulama, diyagram oluşturma aracı draw.io ile üretken yapay zekâ (generative AI) yeteneklerini birleştiriyor.
+> This Next.js-based application combines diagramming tool draw.io with generative AI capabilities.
 
 **Source:** GitHub  
 **Stars:** 33999

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Web tarayıcısının içine gömülü, web sitelerinin kodlarını incelemeye ve hataları düzeltmeye yarayan geliştirici aracıdır.
+It is a developer tool embedded in the web browser that helps examine the codes of websites and fix errors.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/chrome-devtools/

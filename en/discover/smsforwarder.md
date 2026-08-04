@@ -1,6 +1,6 @@
 # SmsForwarder
 
-> SmsForwarder, Android cihazlardaki kısa mesajları, çağrıları ve uygulama bildirimlerini belirlenen kurallar çerçevesinde…
+> SmsForwarder sends text messages, calls and application notifications on Android devices within the framework of determined rules.
 
 **Source:** GitHub  
 **Stars:** 27342

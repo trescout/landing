@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Yazılımcıların uygulamalarını geliştirmeleri ve yayınlamaları için gerekli altyapının hazır sunulmasıdır.
+It is the provision of the necessary infrastructure for software developers to develop and publish their applications.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/paas/

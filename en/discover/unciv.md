@@ -1,6 +1,6 @@
 # Unciv
 
-> Unciv, Civilization V oyununun açık kaynak kodlu bir masaüstü ve Android uyarlamasıdır.
+> Unciv is an open source desktop and Android adaptation of the Civilization V game.
 
 **Source:** GitHub  
 **Stars:** 11043

@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Bir bilgisayar sisteminin dış dünyadan veri alması ve dış dünyaya veri göndermesi süreci.
+The process by which a computer system receives data from and sends data to the outside world.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/io/

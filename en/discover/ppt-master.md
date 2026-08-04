@@ -1,6 +1,6 @@
 # Ppt Master
 
-> PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönüştüren yapay zekâ destekli bir araçtır.
+> PPT-Master is an AI-powered tool that converts documents directly into editable presentation files (PPTX).
 
 **Source:** GitHub  
 **Stars:** 42557

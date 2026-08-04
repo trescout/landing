@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Metin, ses, görsel ve video gibi farklı veri türlerini aynı anda işleyebilen yapay zeka yeteneğidir.
+It is an artificial intelligence ability that can simultaneously process different types of data such as text, audio, visual and video.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/multimodal/

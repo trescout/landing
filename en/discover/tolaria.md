@@ -1,6 +1,6 @@
 # Tolaria
 
-> Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilen bir masaüstü uygulamasıdır.
+> Tolaria is a desktop application developed for managing Markdown-based knowledge bases.
 
 **Source:** GitHub  
 **Stars:** 19219

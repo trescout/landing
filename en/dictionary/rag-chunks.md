@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Uzun belgelerin yapay zekânın daha kolay anlaması için küçük parçalara bölünmüş halidir.
+It is a version of long documents divided into small pieces so that artificial intelligence can understand them more easily.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/rag-chunks/

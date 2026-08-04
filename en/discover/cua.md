@@ -1,6 +1,6 @@
 # CUA
 
-> CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor.
+> CUA provides an open source infrastructure for computer-capable artificial intelligence agents.
 
 **Source:** GitHub  
 **Stars:** 20909

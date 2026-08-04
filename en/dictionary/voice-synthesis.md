@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yazılı metinlerin bilgisayar tarafından doğal ve akıcı bir insan sesiyle seslendirilmesi teknolojisidir.
+It is the technology of voicing written texts with a natural and fluent human voice by a computer.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/voice-synthesis/

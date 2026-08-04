@@ -1,6 +1,6 @@
 # OpenCut
 
-> OpenCut, video düzenleme süreçleri için açık kaynaklı bir alternatif sunan TypeScript tabanlı bir uygulama geliştirme projesidir.
+> OpenCut is a TypeScript-based application development project that offers an open source alternative for video editing processes.
 
 **Source:** GitHub  
 **Stars:** 80488

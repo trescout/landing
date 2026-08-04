@@ -1,6 +1,6 @@
 # Jellium Desktop
 
-> Jellium-desktop, medya sunucusu Jellyfin için Rust diliyle geliştirilmiş resmi olmayan bir masaüstü istemcisidir (desktop client).
+> Jellium-desktop is an unofficial desktop client developed in Rust for the media server Jellyfin.
 
 **Source:** GitHub  
 **Stars:** 1342

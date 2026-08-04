@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Finansal piyasalarda verileri analiz edip sizin yerinize otomatik alım satım kararları veren yapay zekâ yazılımı.
+Artificial intelligence software that analyzes data in financial markets and makes automatic trading decisions for you.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/trading-agent/

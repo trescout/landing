@@ -1,6 +1,6 @@
 # stable-worldmodel
 
-> Dünya modeli (world model) araştırmaları için tekrarlanabilir bir platform.
+> A reproducible platform for world model research.
 
 **Source:** GitHub  
 **Stars:** 2080

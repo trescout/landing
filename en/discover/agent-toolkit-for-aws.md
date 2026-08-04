@@ -1,6 +1,6 @@
 # Agent Toolkit for Aws
 
-> AWS, yapay zekâ ajanlarının bulut altyapısıyla etkileşimini kolaylaştırmak için Model Bağlantı Protokolü (Model Context…
+> AWS is introducing Model Connection Protocol (Model Context…) to facilitate the interaction of AI agents with cloud infrastructure.
 
 **Source:** GitHub  
 **Stars:** 2215

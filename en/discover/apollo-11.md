@@ -1,6 +1,6 @@
 # Apollo-11
 
-> Apollo 11 görevinde kullanılan komuta ve ay modülü rehberlik bilgisayarının (Guidance Computer) orijinal kaynak kodu, montaj…
+> Original source code of the command and lunar module guidance computer (Guidance Computer) used in the Apollo 11 mission, assembly…
 
 **Source:** GitHub  
 **Stars:** 70068

@@ -1,6 +1,6 @@
 # SWC
 
-> Rust diliyle geliştirilen SWC, web projeleri için hızlı bir derleme (compilation) ve paketleme (bundling) platformu sunuyor.
+> Developed with the Rust language, SWC offers a fast compilation and bundling platform for web projects.
 
 **Source:** GitHub  
 **Stars:** 34160

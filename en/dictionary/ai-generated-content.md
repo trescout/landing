@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-İnsan eli değmeden, yapay zekâ modelleri tarafından oluşturulan her türlü dijital içeriktir.
+It is all kinds of digital content created by artificial intelligence models without human intervention.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ai-generated-content/

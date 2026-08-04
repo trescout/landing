@@ -1,6 +1,6 @@
 # G0DM0D3
 
-> G0DM0D3, büyük dil modellerinin (large language models) güvenlik katmanlarını aşmayı hedefleyen özgürleştirilmiş bir yapay…
+> G0DM0D3 is a liberated artificial intelligence that aims to bypass the security layers of large language models.
 
 **Source:** GitHub  
 **Stars:** 9570

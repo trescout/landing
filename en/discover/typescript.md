@@ -1,6 +1,6 @@
 # TypeScript
 
-> JavaScript dilinin bir üst kümesi (superset) olan TypeScript, kodun derleme aşamasında hata denetimi yapılmasına olanak tanıyor.
+> TypeScript, a superset of the JavaScript language, allows error checking during the compilation phase of the code.
 
 **Source:** GitHub  
 **Stars:** 110042

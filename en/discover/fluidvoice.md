@@ -1,6 +1,6 @@
 # FluidVoice
 
-> FluidVoice, macOS işletim sistemi üzerinde tamamen çevrim dışı çalışan hızlı bir sesli dikte (voice to text) uygulamasıdır.
+> FluidVoice is a fast voice to text application that works completely offline on the macOS operating system.
 
 **Source:** GitHub  
 **Stars:** 9248

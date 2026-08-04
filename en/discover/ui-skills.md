@@ -1,6 +1,6 @@
 # UI Skills
 
-> Tasarım mühendisleri için geliştirilen ui-skills, kullanıcı arayüzü (UI) geliştirme süreçlerinde ihtiyaç duyulan teknik…
+> Developed for design engineers, ui-skills provides technical skills needed in user interface (UI) development processes.
 
 **Source:** GitHub  
 **Stars:** 6838

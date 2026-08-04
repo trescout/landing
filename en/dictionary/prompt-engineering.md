@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekadan en iyi sonucu almak için verilen komutları optimize etme sanatıdır.
+It is the art of optimizing the commands given to get the best results from artificial intelligence.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/prompt-engineering/

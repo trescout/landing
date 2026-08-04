@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Hazırlanan bir yazılımın kullanıcıların erişimine açılması için sunucuya yüklenip çalışır hale getirilmesidir.
+It is the process of uploading a prepared software to the server and making it operational so that it can be accessed by users.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/deployment/

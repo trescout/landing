@@ -1,6 +1,6 @@
 # Awesome Design Md
 
-> Awesome-design-md, popüler marka tasarım sistemlerine ait tasarım dokümanlarını (DESIGN.md) bir araya getiren bir koleksiyondur.
+> Awesome-design-md is a collection of design documents (DESIGN.md) from popular brand design systems.
 
 **Source:** GitHub  
 **Stars:** 105953

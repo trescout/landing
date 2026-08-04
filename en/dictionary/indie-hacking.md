@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Büyük şirketlerin desteği olmadan, tek başına veya çok küçük ekiplerle dijital ürünler geliştirip piyasaya sürme kültürüdür.
+It is the culture of developing and launching digital products alone or with very small teams, without the support of large companies.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/indie-hacking/

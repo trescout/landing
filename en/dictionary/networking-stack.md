@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayarların birbirleriyle iletişim kurmasını sağlayan yazılım ve protokollerin katmanlı yapısıdır.
+It is the layered structure of software and protocols that enable computers to communicate with each other.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/networking-stack/

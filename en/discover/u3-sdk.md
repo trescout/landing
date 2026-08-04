@@ -1,6 +1,6 @@
 # U3 SDK
 
-> SmartlyDressedGames, açık dünya zombi hayatta kalma oyunu Unturned için geliştirilen U3-SDK yazılım geliştirme kitini…
+> SmartlyDressedGames has released the U3-SDK software development kit for the open-world zombie survival game Unturned.
 
 **Source:** GitHub  
 **Stars:** 3324

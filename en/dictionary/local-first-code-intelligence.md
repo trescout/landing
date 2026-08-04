@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılım geliştirme araçlarının, verileri buluta göndermeden doğrudan yerel cihazınızda işleyerek kod önerileri sunmasıdır.
+Software development tools provide code suggestions by processing data directly on your local device without sending it to the cloud.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/local-first-code-intelligence/

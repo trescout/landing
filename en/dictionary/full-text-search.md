@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Bir belgedeki veya veritabanındaki sadece başlıkları değil, tüm metin içeriğini tarayarak yapılan detaylı arama yöntemidir.
+It is a detailed search method performed by scanning the entire text content of a document or database, not just the titles.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/full-text-search/

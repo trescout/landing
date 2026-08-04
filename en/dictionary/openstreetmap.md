@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Dünya üzerindeki herkesin katkıda bulunabildiği ücretsiz ve açık kaynaklı bir harita projesidir.
+It is a free and open source map project that anyone in the world can contribute to.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/openstreetmap/

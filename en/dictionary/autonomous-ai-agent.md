@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-İnsan müdahalesi olmadan kendi hedeflerini belirleyip karmaşık görevleri uçtan uca yerine getirebilen yazılım sistemidir.
+It is a software system that can set its own goals and perform complex tasks end-to-end without human intervention.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/autonomous-ai-agent/

@@ -1,6 +1,6 @@
 # AI Hedge Fund
 
-> Yapay zekâ destekli yatırım fonu (AI hedge fund), finansal piyasa analizi ve varlık yönetimi süreçlerini otomatize etmek için…
+> Artificial intelligence-supported investment fund (AI hedge fund) is designed to automate financial market analysis and asset management processes…
 
 **Source:** GitHub  
 **Stars:** 62606

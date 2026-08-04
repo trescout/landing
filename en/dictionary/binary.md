@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayarın sadece 0 ve 1 kullanarak anladığı en temel makine dilidir.
+It is the most basic machine language that the computer understands using only 0 and 1.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/binary/

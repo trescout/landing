@@ -5,7 +5,7 @@
 **Category:** data
 
 ## Overview
-Tüm verilerin tek bir güvenilir merkezden yönetilmesi ve herkesin aynı bilgiye ulaşması prensibidir.
+It is the principle that all data is managed from a single reliable center and everyone has access to the same information.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/single-source-of-truth/

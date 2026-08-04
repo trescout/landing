@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Bir yatırım stratejisinin geçmişteki piyasa verileri kullanılarak ne kadar başarılı olacağını test etme yöntemidir.
+It is a method of testing how successful an investment strategy will be using historical market data.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/backtesting/

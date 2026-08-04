@@ -1,6 +1,6 @@
 # Transcribe.cpp
 
-> Transcribe.cpp, 16'dan fazla model ailesini destekleyen ve C++ diliyle geliştirilen bir konuşmayı metne dönüştürme…
+> Transcribe.cpp is a speech-to-text converter developed in C++ language that supports more than 16 model families.
 
 **Source:** GitHub  
 **Stars:** 1673

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Fiziksel ortamların görüntülerden yola çıkarak üç boyutlu dijital modellerini oluşturma sürecidir.
+It is the process of creating three-dimensional digital models of physical environments based on images.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/scene-reconstruction/

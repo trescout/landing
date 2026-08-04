@@ -1,6 +1,6 @@
 # Grafana
 
-> Grafana, farklı veri kaynaklarından gelen metrikleri, günlükleri (logs) ve izleme verilerini (traces) tek bir arayüzde…
+> Grafana combines metrics, logs and traces from different data sources in a single interface.
 
 **Source:** GitHub  
 **Stars:** 75925

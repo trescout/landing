@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Bilgilerin düzenli bir şekilde saklandığı, ihtiyaç duyulduğunda kolayca erişilip yönetilebildiği dijital ortam.
+A digital environment where information is stored regularly and can be easily accessed and managed when needed.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/database/

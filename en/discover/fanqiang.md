@@ -1,6 +1,6 @@
 # Fanqiang
 
-> Fanqiang projesi, internet sansürünü aşmak için geliştirilen ve Kotlin diliyle yazılmış bir ağ geçidi (gateway) aracıdır.
+> The Fanqiang project is a gateway tool written in Kotlin, developed to bypass internet censorship.
 
 **Source:** GitHub  
 **Stars:** 49405

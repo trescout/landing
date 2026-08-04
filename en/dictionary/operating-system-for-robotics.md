@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Robotların hareketlerini, sensörlerini ve karmaşık parçalarını yöneten özel bir yazılım altyapısıdır.
+It is a special software infrastructure that manages the movements, sensors and complex parts of robots.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/operating-system-for-robotics/

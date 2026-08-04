@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Tek bir kullanıcı adı ve şifre ile birçok farklı uygulamaya aynı anda giriş yapmanızı sağlayan sistemdir.
+It is a system that allows you to log in to many different applications at the same time with a single username and password.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/sso/

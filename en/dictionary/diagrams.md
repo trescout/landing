@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Karmaşık sistemlerin, süreçlerin veya yapıların görsel olarak basitleştirilmiş şemalarıdır.
+They are visually simplified diagrams of complex systems, processes or structures.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/diagrams/

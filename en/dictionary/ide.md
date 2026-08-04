@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Yazılımcıların kod yazarken ihtiyaç duyduğu tüm araçları tek bir çatı altında toplayan gelişmiş bir çalışma ortamıdır.
+It is an advanced working environment that gathers all the tools that software developers need while writing code under one roof.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ide/

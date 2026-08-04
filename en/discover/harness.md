@@ -1,6 +1,6 @@
 # Harness · Ajan Ekip Fabrikası
 
-> Claude Code için alana özel AI ajan ekipleri tasarlayan meta-beceri.
+> Meta-skill designing domain-specific AI agent teams for Claude Code.
 
 **Source:** GitHub  
 **Stars:** 8581

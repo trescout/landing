@@ -1,6 +1,6 @@
 # Agentsview
 
-> Agentsview, kodlama ajanları için yerel öncelikli (local-first) oturum zekası ve analitik verileri sunan bir izleme aracıdır.
+> Agentsview is a monitoring tool that provides local-first session intelligence and analytics data for coding agents.
 
 **Source:** GitHub  
 **Stars:** 4683

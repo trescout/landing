@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayar hafızasında yan yana dizilmiş veri grupları üzerinde yapılan toplu matematiksel işlemlerdir.
+These are collective mathematical operations performed on groups of data lined up side by side in computer memory.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/array-operations/

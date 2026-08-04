@@ -1,6 +1,6 @@
 # Meshoptimizer
 
-> Meshoptimizer kütüphanesi, üç boyutlu ağ (mesh) verilerini optimize ederek dosya boyutlarını küçültüyor ve işleme (rendering)…
+> The Meshoptimizer library optimizes three-dimensional mesh data, reducing file sizes and rendering.
 
 **Source:** GitHub  
 **Stars:** 8177

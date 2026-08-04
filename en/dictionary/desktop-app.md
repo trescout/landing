@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-İnternet tarayıcısına ihtiyaç duymadan doğrudan bilgisayarınızın işletim sistemi üzerinde çalışan yazılımlardır.
+They are software that runs directly on your computer's operating system without the need for an internet browser.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/desktop-app/

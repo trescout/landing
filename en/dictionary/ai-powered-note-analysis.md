@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Tutulan notlardaki önemli bilgilerin yapay zekâ tarafından bulunup özetlenmesi veya düzenlenmesi.
+The important information in the notes is found and summarized or organized by artificial intelligence.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ai-powered-note-analysis/

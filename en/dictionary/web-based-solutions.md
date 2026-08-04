@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayarınıza herhangi bir kurulum yapmadan, sadece internet tarayıcısı üzerinden erişip kullanabildiğiniz yazılım hizmetleridir.
+They are software services that you can access and use only via an internet browser, without any installation on your computer.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/web-based-solutions/

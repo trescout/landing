@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Müşterilerin bir markaya tüm kanallardan kesintisiz ve bağlantılı şekilde ulaşabilmesini sağlayan destek yapısıdır.
+It is the support structure that allows customers to reach a brand in an uninterrupted and connected manner through all channels.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/omni-channel-support/

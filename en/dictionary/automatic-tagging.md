@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Verilerin veya dosyaların içeriği analiz edilerek sistem tarafından otomatik olarak kategorize edilmesidir.
+The content of data or files is analyzed and automatically categorized by the system.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/automatic-tagging/

@@ -1,6 +1,6 @@
 # Stirling-PDF
 
-> Stirling-PDF, kullanıcıların PDF dosyaları üzerinde her cihazda düzenleme yapmasına olanak tanıyan açık kaynaklı bir belge…
+> Stirling-PDF is an open source document that allows users to edit PDF files on any device.
 
 **Source:** GitHub  
 **Stars:** 88578

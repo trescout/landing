@@ -1,6 +1,6 @@
 # Scrapling
 
-> Tekil isteklerden kapsamlı taramalara kadar uyarlanabilir web kazıma çerçevesi.
+> Adaptive web scraping framework from single requests to comprehensive scans.
 
 **Source:** GitHub  
 **Stars:** 72180

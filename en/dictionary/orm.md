@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Veritabanı tablolarını kod içindeki nesnelere dönüştüren bir köprüdür.
+It is a bridge that converts database tables into objects in code.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/orm/

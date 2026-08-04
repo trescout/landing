@@ -1,6 +1,6 @@
 # Zapret Discord Youtube
 
-> Zapret-discord-youtube, ağ trafiğini şifreleyerek veya paket parçalama (packet fragmentation) yöntemlerini kullanarak kısıtlı…
+> Zapret-discord-youtube restricts network traffic by encrypting it or using packet fragmentation methods.
 
 **Source:** GitHub  
 **Stars:** 31660

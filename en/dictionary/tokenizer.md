@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Metinleri yapay zekanın anlayabileceği küçük sayısal parçalara bölen araçtır.
+It is a tool that divides texts into small numerical pieces that artificial intelligence can understand.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/tokenizer/

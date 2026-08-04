@@ -1,6 +1,6 @@
 # Claude Skills
 
-> Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda…
+> This library, developed for Claude Code and various coding agents, is used in different fields from engineering to marketing.
 
 **Source:** GitHub  
 **Stars:** 23654

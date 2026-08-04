@@ -1,6 +1,6 @@
 # CubeSandbox
 
-> TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ ajanları (AI agents) için anlık, eş zamanlı ve…
+> Developed by TencentCloud in Rust, CubeSandbox is an instant, simultaneous and…
 
 **Source:** GitHub  
 **Stars:** 10828

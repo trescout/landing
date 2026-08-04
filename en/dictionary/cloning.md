@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılım projesinin veya verinin tamamını başka bir yere kopyalayarak çoğaltma işlemidir.
+It is the process of duplicating a software project or entire data by copying it to another location.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/cloning/

@@ -1,6 +1,6 @@
 # Agents CLI
 
-> Google tarafından geliştirilen komut satırı arayüzü (CLI), kodlama asistanlarını Google Bulut (Google Cloud) üzerinde yapay…
+> The command line interface (CLI) developed by Google allows coding assistants to run on Google Cloud (Google Cloud).
 
 **Source:** GitHub  
 **Stars:** 5455

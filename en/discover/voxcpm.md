@@ -1,6 +1,6 @@
 # VoxCPM
 
-> Belirteçsiz (tokenizer-free) çok dilli TTS: ses tasarımı ve ses kopyalama çözümü.
+> Tokenizer-free multilingual TTS: audio design and audio transcription solution.
 
 **Source:** GitHub  
 **Stars:** 34774

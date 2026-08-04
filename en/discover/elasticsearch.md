@@ -1,6 +1,6 @@
 # Elasticsearch
 
-> Java ile geliştirilen Elasticsearch, büyük veri kümeleri üzerinde hızlı arama ve analiz yapılmasına olanak tanıyan dağıtık…
+> Developed with Java, Elasticsearch is a distributed…
 
 **Source:** GitHub  
 **Stars:** 77640

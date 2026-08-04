@@ -1,6 +1,6 @@
 # GeoLibre
 
-> GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için tasarlanmış hafif, bulut tabanlı bir coğrafi bilgi…
+> GeoLibre is a lightweight, cloud-based geospatial information application designed to visualize, explore and analyze geographic data.
 
 **Source:** GitHub  
 **Stars:** 4941

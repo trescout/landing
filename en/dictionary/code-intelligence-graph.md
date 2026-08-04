@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılım projesindeki tüm dosyaların, fonksiyonların ve değişkenlerin birbirleriyle olan ilişkilerini gösteren detaylı bir haritadır.
+It is a detailed map that shows the relationships of all files, functions and variables in a software project.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/code-intelligence-graph/

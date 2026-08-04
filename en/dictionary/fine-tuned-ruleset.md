@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Belirli bir işi daha iyi yapması için özel verilerle eğitilerek hassaslaştırılmış kurallar bütünü.
+A set of rules that are refined by being trained with special data to do a certain job better.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/fine-tuned-ruleset/

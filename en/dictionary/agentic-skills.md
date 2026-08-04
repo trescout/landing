@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Otonom yapay zekâ sistemlerinin karmaşık süreçleri yönetmek ve hedeflere ulaşmak için kullandığı ileri seviye yetenekler bütünüdür.
+It is a set of advanced capabilities that autonomous artificial intelligence systems use to manage complex processes and achieve goals.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agentic-skills/

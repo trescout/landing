@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Dünyanın farklı noktalarından gelen verileri merkezi bir noktada toplayıp görselleştiren yönetim ekranıdır.
+It is a management screen that collects and visualizes data from different parts of the world at a central point.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/global-intelligence-dashboard/

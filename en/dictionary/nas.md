@@ -5,7 +5,7 @@
 **Category:** data
 
 ## Overview
-Ev veya ofis ağındaki tüm cihazların ortaklaşa kullanabileceği, merkezi bir depolama alanı sunan cihaz.
+A device that provides a central storage area that can be shared by all devices in the home or office network.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/nas/

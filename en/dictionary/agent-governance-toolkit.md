@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Otonom yapay zekâ sistemlerinin güvenli, etik ve kurallara uygun çalışmasını sağlayan yönetim araçları setidir.
+It is a set of management tools that ensure that autonomous artificial intelligence systems operate safely, ethically and in accordance with the rules.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agent-governance-toolkit/

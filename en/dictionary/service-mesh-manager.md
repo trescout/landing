@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Karmaşık yazılım sistemlerinde farklı parçaların birbirleriyle nasıl iletişim kurduğunu yöneten ve denetleyen araçtır.
+It is the tool that manages and controls how different parts of complex software systems communicate with each other.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/service-mesh-manager/

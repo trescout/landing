@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Programların veya verilerin internete ihtiyaç duymadan, tamamen sizin cihazınızda çalışmasıdır.
+It means that programs or data run entirely on your device, without the need for the Internet.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/local/

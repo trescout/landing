@@ -1,6 +1,6 @@
 # Unity MCP
 
-> Unity MCP, büyük dil modelleri (large language models) ile Unity düzenleyicisi arasında bir köprü kurarak varlık yönetimi…
+> Unity MCP provides asset management by building a bridge between large language models and the Unity editor.
 
 **Source:** GitHub  
 **Stars:** 13091

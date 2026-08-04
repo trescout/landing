@@ -1,6 +1,6 @@
 # Chinese Independent Developer
 
-> Çinli bağımsız geliştiricilerin yürüttüğü projeleri listeleyen bu açık kaynaklı veri tabanı, yazılımcıların geliştirdiği…
+> This open source database, which lists projects carried out by Chinese independent developers, is a database developed by software developers.
 
 **Source:** GitHub  
 **Stars:** 60379

@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-İki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprüdür.
+It is a digital bridge that allows two different software to talk to each other.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/api/

@@ -1,6 +1,6 @@
 # MOSS-TTS
 
-> Yüksek kaliteli ve açık kaynaklı metin-konuşma (TTS) model ailesi.
+> A high-quality and open-source text-to-speech (TTS) model family.
 
 **Source:** GitHub  
 **Stars:** 3939

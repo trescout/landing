@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yazılım geliştirme süreçlerinde kod yazma, hata ayıklama ve test etme gibi görevleri otonom olarak üstlenen bir yapay zekâdır.
+It is an artificial intelligence that autonomously undertakes tasks such as writing code, debugging and testing in software development processes.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/code-agent/

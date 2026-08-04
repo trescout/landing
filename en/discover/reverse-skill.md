@@ -1,6 +1,6 @@
 # Reverse Skill
 
-> Reverse-skill, tersine mühendislik ve sızma testi süreçleri için yapay zekâ destekli bir yönlendirme paketi (routing pack)…
+> An artificial intelligence-supported routing package for reverse-skill, reverse engineering and penetration testing processes…
 
 **Source:** GitHub  
 **Stars:** 16399

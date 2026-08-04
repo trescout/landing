@@ -1,6 +1,6 @@
 # AI Agent Book
 
-> Yapay zekâ ajanları (AI agents) üzerine hazırlanan bu açık kaynaklı kitap, tasarım prensipleri ve mühendislik uygulamalarını…
+> This open source book on artificial intelligence agents (AI agents) covers design principles and engineering practices.
 
 **Source:** GitHub  
 **Stars:** 29814

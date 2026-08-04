@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir sistemde hata oluştuğunda veya ana yöntem başarısız olduğunda, sistemin otomatik olarak daha güvenli veya alternatif bir yönteme geçiş yapmasıdır.
+When an error occurs in a system or the main method fails, the system automatically switches to a safer or alternative method.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/auto-fallback/

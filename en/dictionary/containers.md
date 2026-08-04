@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılımın çalışması için gereken her şeyi içinde barındıran, farklı ortamlarda sorunsuz taşınabilen hafif paketlerdir.
+They are lightweight packages that contain everything required for a software to run and can be moved to different environments without any problems.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/containers/

@@ -1,6 +1,6 @@
 # Lingbot Map
 
-> Lingbot-map, akış halindeki verilerden sahneleri yeniden oluşturmak için tasarlanmış ileri beslemeli bir üç boyutlu temel…
+> Lingbot-map is a feed-forward three-dimensional primitive designed to reconstruct scenes from streaming data.
 
 **Source:** GitHub  
 **Stars:** 16054

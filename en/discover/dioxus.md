@@ -1,6 +1,6 @@
 # Dioxus
 
-> Dioxus, web, masaüstü ve mobil platformlar için tek bir kod tabanıyla uçtan uca (fullstack) uygulamalar geliştirmeye olanak…
+> Dioxus enables the development of end-to-end (fullstack) applications with a single code base for web, desktop and mobile platforms.
 
 **Source:** GitHub  
 **Stars:** 38444

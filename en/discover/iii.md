@@ -1,6 +1,6 @@
 # iii
 
-> Tüm servislerinizi gerçek zamanlı kurun, genişletin ve gözlemleyin.
+> Install, extend and monitor all your services in real time.
 
 **Source:** GitHub  
 **Stars:** 18547

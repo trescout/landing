@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Her mühendislik adımının bir sonrakini kolaylaştıracak şekilde biriktiği, yapay zekâ destekli bir çalışma yaklaşımıdır.
+It is an AI-supported approach to work where each engineering step accumulates to facilitate the next.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/compound-engineering/

@@ -1,6 +1,6 @@
 # Nautilus Trader
 
-> Nautilus Trader, Rust diliyle geliştirilmiş, deterministik olay güdümlü mimariye (event-driven architecture) sahip bir alım…
+> Nautilus Trader is a trading platform with deterministic event-driven architecture developed in Rust language.
 
 **Source:** GitHub  
 **Stars:** 25223

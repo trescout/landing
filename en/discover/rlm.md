@@ -1,6 +1,6 @@
 # RLM
 
-> Özyinelemeli dil modelleri (Recursive Language Models) için geliştirilen rlm, farklı çalışma ortamlarını (sandboxes)…
+> Developed for recursive language models (Recursive Language Models), rlm supports different working environments (sandboxes).
 
 **Source:** GitHub  
 **Stars:** 5343

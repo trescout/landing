@@ -5,7 +5,7 @@
 **Category:** data
 
 ## Overview
-Hangi cihazda açılırsa açılsın biçimi bozulmadan görüntülenen dijital belge formatıdır.
+It is a digital document format that is displayed without losing its format no matter what device it is opened on.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/pdf/

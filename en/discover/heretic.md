@@ -1,6 +1,6 @@
 # Heretic
 
-> Dil modellerindeki güvenlik kısıtlarını kaldıran ileri düzey araç.
+> Advanced tool that removes security restrictions in language models.
 
 **Source:** GitHub  
 **Stars:** 27018

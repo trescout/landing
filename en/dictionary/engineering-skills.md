@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Karmaşık problemleri çözmek için mantık ve matematik kullanarak sistemler tasarlama ve inşa etme yeteneğidir.
+It is the ability to design and build systems using logic and mathematics to solve complex problems.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/engineering-skills/

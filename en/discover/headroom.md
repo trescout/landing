@@ -1,6 +1,6 @@
 # Headroom
 
-> Headroom, büyük dil modellerine (LLM) gönderilen günlük dosyalarını, araç çıktılarını ve bağlamsal veri parçalarını (RAG…
+> Headroom contains log files, tool outputs, and contextual data pieces (RAG…) sent to large language models (LLM).
 
 **Source:** GitHub  
 **Stars:** 7746

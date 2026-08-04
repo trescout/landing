@@ -1,6 +1,6 @@
 # Speech to Speech
 
-> Hugging Face tarafından geliştirilen speech-to-speech kütüphanesi, açık kaynaklı modeller kullanarak yerel sesli ajanlar…
+> The speech-to-speech library developed by Hugging Face creates native voice agents using open source models.
 
 **Source:** GitHub  
 **Stars:** 10774

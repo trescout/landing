@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Kullanıcıların etkileşimlerini analiz ederek davranışlarını anlayan ve daha iyi deneyim sunmayı hedefleyen sistem.
+A system that understands users' behavior by analyzing their interactions and aims to provide a better experience.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/session-intelligence/

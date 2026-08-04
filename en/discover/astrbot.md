@@ -1,6 +1,6 @@
 # AstrBot
 
-> AstrBot, çeşitli anlık mesajlaşma platformları, büyük dil modelleri (large language models) ve eklentilerle entegre çalışan…
+> AstrBot works integrated with various instant messaging platforms, large language models and plug-ins.
 
 **Source:** GitHub  
 **Stars:** 38478

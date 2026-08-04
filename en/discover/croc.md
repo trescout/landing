@@ -1,6 +1,6 @@
 # Croc
 
-> Croc, iki bilgisayar arasında uçtan uca şifreleme (end-to-end encryption) kullanarak güvenli dosya ve veri aktarımı sağlayan…
+> Croc provides secure file and data transfer between two computers using end-to-end encryption.
 
 **Source:** GitHub  
 **Stars:** 39265

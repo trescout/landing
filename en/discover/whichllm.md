@@ -1,6 +1,6 @@
 # Whichllm
 
-> Whichllm, donanımınız üzerinde en yüksek performansı gösteren yerel büyük dil modellerini (large language models)…
+> Whichllm creates native large language models that perform best on your hardware…
 
 **Source:** GitHub  
 **Stars:** 6101

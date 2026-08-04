@@ -1,6 +1,6 @@
 # Whisper
 
-> OpenAI tarafından geliştirilen Whisper, geniş ölçekli zayıf denetimli öğrenme (weak supervision) yöntemiyle eğitilmiş bir…
+> Developed by OpenAI, Whisper is a program trained using large-scale weak supervision learning method.
 
 **Source:** GitHub  
 **Stars:** 106452

@@ -1,6 +1,6 @@
 # Jenkins
 
-> Jenkins, yazılım geliştirme süreçlerini otomatize eden açık kaynaklı bir sürekli entegrasyon (continuous integration) ve…
+> Jenkins is an open source continuous integration and…
 
 **Source:** GitHub  
 **Stars:** 26390

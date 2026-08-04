@@ -1,6 +1,6 @@
 # Maigret
 
-> Maigret, kullanıcı adlarını temel alarak 3000'den fazla internet sitesi üzerinde tarama yapıyor ve kişilere dair bir dosya…
+> Maigret scans more than 3000 websites based on usernames and creates a file of people.
 
 **Source:** GitHub  
 **Stars:** 36075

@@ -1,6 +1,6 @@
 # Llmfit
 
-> Rust diliyle geliştirilen llmfit, yüzlerce büyük dil modelini (large language model) ve sağlayıcıyı tarayarak donanımınızla…
+> Developed with the Rust language, llmfit scans hundreds of large language models and providers and…
 
 **Source:** GitHub  
 **Stars:** 31111

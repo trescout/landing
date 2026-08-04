@@ -1,6 +1,6 @@
 # Clypra
 
-> Clypra, Tauri, React ve TypeScript kullanılarak geliştirilen açık kaynak kodlu bir video düzenleyici (video editor) uygulamasıdır.
+> Clypra is an open source video editor application developed using Tauri, React and TypeScript.
 
 **Source:** GitHub  
 **Stars:** 2952

@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-Bilgisayarların insan dilini anlama ve işleme yeteneğidir.
+It is the ability of computers to understand and process human language.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/nlp/

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılım projesinin tüm dosyalarını merkezi bir sunucudan kendi bilgisayarınıza kopyalama işlemidir.
+It is the process of copying all the files of a software project from a central server to your own computer.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/repository-checkout/

@@ -1,6 +1,6 @@
 # MinerU
 
-> MinerU, PDF ve Office gibi karmaşık belge formatlarını büyük dil modelleri (large language models) için uygun olan işaretleme…
+> MinerU provides markup for complex document formats such as PDF and Office, suitable for large language models.
 
 **Source:** GitHub  
 **Stars:** 76547

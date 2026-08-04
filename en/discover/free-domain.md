@@ -1,6 +1,6 @@
 # FreeDomain
 
-> Web kimliğinizi hiçbir ücret ödemeden kurabileceğiniz ücretsiz alan adları.
+> Free domain names where you can set up your web identity at no cost.
 
 **Source:** GitHub  
 **Stars:** 190061

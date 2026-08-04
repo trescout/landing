@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayarların çalışma prensiplerini, yazılım geliştirmeyi ve veri işleme yöntemlerini inceleyen bilim dalı.
+The branch of science that studies the working principles of computers, software development and data processing methods.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/computer-science/

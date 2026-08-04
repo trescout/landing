@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Belirli bir kişinin sesini taklit ederek yeni cümleler kuran yapay zeka teknolojisidir.
+It is an artificial intelligence technology that creates new sentences by imitating the voice of a specific person.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/voice-cloning/

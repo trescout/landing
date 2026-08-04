@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayarın tüm işlemleri yapan ve yöneten ana beynidir.
+It is the main brain of the computer that performs and manages all operations.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/cpu/

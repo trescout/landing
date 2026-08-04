@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Karmaşık yazılımları veya yapay zekâ modellerini internet tarayıcınız üzerinden kolayca yönetmenizi sağlayan görsel arayüzdür.
+It is a visual interface that allows you to easily manage complex software or artificial intelligence models via your internet browser.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/web-interface/

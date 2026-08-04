@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-İnsan gibi doğal, duygulu ve gerçek zamanlı tepki verebilen en gelişmiş sesli yapay zekâ teknolojileri.
+The most advanced voice artificial intelligence technologies that can react naturally, emotionally and in real time like a human.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/frontier-voice-ai/

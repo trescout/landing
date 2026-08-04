@@ -1,6 +1,6 @@
 # Website-downloader
 
-> AhmadIbrahiim tarafından geliştirilen Website-downloader, Node.js kullanarak bir web sitesinin tüm kaynak kodlarını ve…
+> Developed by AhmadIbrahiim, Website-downloader downloads all the source codes and data of a website using Node.js.
 
 **Source:** GitHub  
 **Stars:** 4223

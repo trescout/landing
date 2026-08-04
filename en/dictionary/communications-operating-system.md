@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Farklı iletişim araçlarını ve kanallarını tek bir merkezden yönetmeyi sağlayan yazılım platformudur.
+It is a software platform that allows managing different communication tools and channels from a single center.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/communications-operating-system/

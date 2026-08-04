@@ -1,6 +1,6 @@
 # ESP32-Bit-Pirate
 
-> ESP32-Bit-Pirate, web tabanlı bir komut satırı arayüzü (CLI) üzerinden çok sayıda haberleşme protokolünü destekleyen bir…
+> ESP32-Bit-Pirate is a software that supports multiple communication protocols via a web-based command line interface (CLI).
 
 **Source:** GitHub  
 **Stars:** 5281

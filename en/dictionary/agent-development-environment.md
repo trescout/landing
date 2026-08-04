@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâlı yardımcılar oluşturmak, test etmek ve yönetmek için kullanılan özel yazılım geliştirme ortamıdır.
+It is a specialized software development environment used to create, test and manage artificial intelligence assistants.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agent-development-environment/

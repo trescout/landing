@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-Sürüş sırasında güvenliği artırmak için sürücüyü uyaran veya aracı otomatik kontrol eden akıllı yardımcı teknolojilerdir.
+They are smart assistive technologies that warn the driver or automatically control the vehicle to increase safety while driving.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/driver-assistance-system/

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Modern yapay zeka modellerinin temelini oluşturan güçlü bir mimari yapıdır.
+It is a powerful architectural structure that forms the basis of modern artificial intelligence models.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/transformer/

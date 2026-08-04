@@ -1,6 +1,6 @@
 # MoneyPrinterTurbo
 
-> Bir konu girin, AI tek tuşla altyazılı kısa videolar üretsin.
+> Enter a topic and AI will produce short videos with subtitles with one click.
 
 **Source:** GitHub  
 **Stars:** 101070

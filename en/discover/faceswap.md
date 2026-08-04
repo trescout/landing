@@ -1,6 +1,6 @@
 # Faceswap
 
-> Python tabanlı Faceswap, derin sahte (deepfake) teknolojisini kullanarak görüntülerdeki yüzleri değiştirmeye olanak tanıyan…
+> Python-based Faceswap allows changing faces in images using deepfake technology.
 
 **Source:** GitHub  
 **Stars:** 57204

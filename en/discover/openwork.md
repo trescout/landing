@@ -1,6 +1,6 @@
 # Openwork
 
-> Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir…
+> Openwork is a platform developed as an open source alternative to the Claude Cowork platform and uses the opencode infrastructure.
 
 **Source:** GitHub  
 **Stars:** 20740

@@ -1,6 +1,6 @@
 # DesktopCommanderMCP
 
-> DesktopCommanderMCP, Claude için geliştirilen ve yapay zekâ modeline uçbirim denetimi (terminal control), dosya sistemi…
+> DesktopCommanderMCP, developed for Claude and based on the artificial intelligence model, terminal control, file system…
 
 **Source:** GitHub  
 **Stars:** 9072

@@ -1,6 +1,6 @@
 # Ansible
 
-> Ansible, uygulama dağıtımı ve sistem yönetimi süreçlerini otomatikleştiren bir bilişim teknolojileri otomasyon platformudur.
+> Ansible is an information technologies automation platform that automates application deployment and system management processes.
 
 **Source:** GitHub  
 **Stars:** 70171

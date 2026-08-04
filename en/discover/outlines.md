@@ -1,6 +1,6 @@
 # Outlines
 
-> Outlines kütüphanesi, büyük dil modellerinden gelen yanıtları önceden tanımlanmış şemalara göre yapılandırılmış çıktılar…
+> The Outlines library outputs responses from large language models structured according to predefined schemas.
 
 **Source:** GitHub  
 **Stars:** 15477

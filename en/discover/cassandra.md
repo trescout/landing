@@ -1,6 +1,6 @@
 # Cassandra
 
-> Apache Cassandra, standart donanımlar veya bulut altyapıları üzerinde performans kaybı yaşatmadan doğrusal ölçeklenebilirlik…
+> Apache Cassandra offers linear scalability without loss of performance on standard hardware or cloud infrastructures.
 
 **Source:** GitHub  
 **Stars:** 10004

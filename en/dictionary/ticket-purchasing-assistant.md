@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Kullanıcı adına bilet arayıp satın alma işlemlerini gerçekleştiren dijital yardımcı.
+A digital assistant that searches for tickets and makes purchases on behalf of the user.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ticket-purchasing-assistant/

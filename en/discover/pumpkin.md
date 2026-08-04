@@ -1,6 +1,6 @@
 # Pumpkin
 
-> Rust programlama diliyle geliştirilen Pumpkin, Minecraft sunucularını daha hızlı ve verimli bir şekilde barındırmayı…
+> Developed with the Rust programming language, Pumpkin aims to host Minecraft servers faster and more efficiently.
 
 **Source:** GitHub  
 **Stars:** 10510

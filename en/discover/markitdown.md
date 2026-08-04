@@ -1,6 +1,6 @@
 # MarkItDown
 
-> Word, PDF, Excel ve PowerPoint belgelerini AI dostu Markdown formatına çevirir · Microsoft.
+> Converts Word, PDF, Excel and PowerPoint documents into AI-friendly Markdown format · Microsoft.
 
 **Source:** GitHub  
 **Stars:** 170726

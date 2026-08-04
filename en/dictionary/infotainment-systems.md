@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Araçlarda navigasyon, müzik ve araç kontrollerini birleştiren dijital ekranlı eğlence panelidir.
+It is a digital screen entertainment panel that combines navigation, music and vehicle controls in vehicles.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/infotainment-systems/

@@ -1,6 +1,6 @@
 # Bitchat
 
-> Bitchat, Bluetooth ağ (mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen, yerel bir sohbet ortamı sunuyor.
+> Bitchat offers a local chat environment that does not require an internet connection, using Bluetooth mesh technology.
 
 **Source:** GitHub  
 **Stars:** 34123

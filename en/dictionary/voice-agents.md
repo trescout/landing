@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Kullanıcıyla sesli iletişim kuran, soruları yanıtlayan ve komutları yerine getiren yapay zekâ asistanlarıdır.
+They are artificial intelligence assistants that communicate with the user by voice, answer questions and carry out commands.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/voice-agents/

@@ -1,6 +1,6 @@
 # Code Review Graph
 
-> Code-review-graph, kod tabanını analiz ederek yapay zekâ araçları için yerel odaklı bir kod zekası haritası (code intelligence…
+> Code-review-graph analyzes the code base to create a locally focused code intelligence map for AI tools.
 
 **Source:** GitHub  
 **Stars:** 28041

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekanın çok az örnekle yeni bir görevi öğrenme yeteneğidir.
+It is the ability of artificial intelligence to learn a new task with very few examples.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/few-shot-learning/

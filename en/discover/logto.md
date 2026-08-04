@@ -1,6 +1,6 @@
 # Logto
 
-> Logto, SaaS ve yapay zekâ uygulamaları için Açık Kimlik Doğrulama (OIDC) ve OAuth 2.1 protokollerini temel alan bir kimlik…
+> Logto is an identity solution based on Open Authentication (OIDC) and OAuth 2.1 protocols for SaaS and artificial intelligence applications.
 
 **Source:** GitHub  
 **Stars:** 14271

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılım testlerini düzenli, hızlı ve kolay bir şekilde yazıp çalıştırmanızı sağlayan hazır araçlar bütünüdür.
+It is a set of ready-made tools that enable you to write and run software tests regularly, quickly and easily.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/testing-framework/

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-İnternet trafiğini normalde adres bulmak için kullanılan sistem üzerinden gizlice geçirme yöntemidir.
+It is a method of secretly passing Internet traffic through the system normally used to find addresses.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/dns-tunneling/

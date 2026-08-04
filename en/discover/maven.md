@@ -1,6 +1,6 @@
 # Maven
 
-> Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yöneten bir proje yönetim ve anlama aracıdır (build…
+> Apache Maven is a project management and understanding tool that manages software creation processes in Java-based projects (build…
 
 **Source:** GitHub  
 **Stars:** 5292

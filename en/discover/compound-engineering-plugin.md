@@ -1,6 +1,6 @@
 # Compound Engineering
 
-> Her işin bir sonrakini kolaylaştırdığı, AI destekli mühendislik eklentisi (Claude Code/Codex/Cursor).
+> AI-powered engineering plugin (Claude Code/Codex/Cursor) where each job makes the next one easier.
 
 **Source:** GitHub  
 **Stars:** 23748

@@ -20,8 +20,10 @@
   <meta name="twitter:site" content="@GetTreScout">
   <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/index.css">
 </head>
 <body>
+  <span id="top" aria-hidden="true"></span>
   <a class="skip-link" href="#main">Skip to main content</a>
   <nav>
     <div class="container nav-inner">
@@ -30,8 +32,8 @@
         <span>TreScout</span>
       </a>
       <div class="nav-actions">
-        <a href="/discover/" class="btn btn-ghost">Discover</a>
-        <a href="/dictionary/" class="btn btn-ghost">Dictionary</a>
+        <a href="/en/discover/" class="btn btn-ghost">Discover</a>
+        <a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a>
         <a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a>
         <a href="/" class="btn btn-ghost">TR</a>
       </div>
@@ -47,7 +49,17 @@
       </p>
       
       <div style="margin-top: 40px;">
-        <a href="/#top" class="btn btn-primary" style="padding: 12px 24px; font-size: 1rem;">Get Early Access</a>
+        <form class="cta-form js-subscribe" data-source="hero-en" novalidate style="display: inline-block; width: 100%; max-width: 550px;">
+          <div class="form-row" style="display: flex; gap: 10px;">
+            <input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required style="flex: 1; padding: 12px 16px; border-radius: 8px; border: 1px solid #ccc;">
+            <button class="btn btn-primary btn-large" type="submit" style="padding: 12px 24px;">Join Early Access</button>
+          </div>
+          <label class="form-consent" style="display: block; margin-top: 12px; font-size: 0.85rem; color: #666; text-align: left;">
+            <input type="checkbox" name="consent" required data-needs-consent>
+            <span>I agree to receive daily tech updates from TreScout. No spam ever.</span>
+          </label>
+          <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field" style="display:none;">
+        </form>
       </div>
     </section>
 

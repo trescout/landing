@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Müşterilerden gelen e-posta, mesaj ve çağrı gibi tüm farklı iletişim kanallarını tek bir ekranda toplayan destek sistemidir.
+It is a support system that collects all different communication channels such as e-mails, messages and calls from customers on a single screen.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/omni-channel-desk/

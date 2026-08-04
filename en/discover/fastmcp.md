@@ -1,6 +1,6 @@
 # Fastmcp
 
-> FastMCP, Model Bağlam Protokolü (Model Context Protocol - MCP) sunucuları ve istemcileri geliştirmeyi kolaylaştıran Python…
+> FastMCP is a Python…
 
 **Source:** GitHub  
 **Stars:** 27020

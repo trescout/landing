@@ -1,6 +1,6 @@
 # Pytorch
 
-> PyTorch, Python tabanlı tensör hesaplamaları ve dinamik sinir ağları (dynamic neural networks) için güçlü grafik işlem birimi…
+> PyTorch is a powerful graphics processing unit for Python-based tensor calculations and dynamic neural networks.
 
 **Source:** GitHub  
 **Stars:** 102131

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Uygulamaların bulut ortamında en yüksek verimle çalışacak şekilde tasarlanması ve yönetilmesi yaklaşımıdır.
+It is an approach to designing and managing applications to run with the highest efficiency in the cloud environment.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/cloud-native/

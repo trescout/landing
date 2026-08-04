@@ -1,6 +1,6 @@
 # Mempalace
 
-> MemPalace, yapay zekâ modelleri için açık kaynaklı bir bellek sistemi (memory system) sunuyor.
+> MemPalace offers an open source memory system for artificial intelligence models.
 
 **Source:** GitHub  
 **Stars:** 57977

@@ -5,7 +5,7 @@
 **Category:** data
 
 ## Overview
-Bir web sitesini ziyaret eden kişilerin, müşteri veya abone olma oranını artırmaya yönelik yapılan iyileştirmelerdir.
+These are improvements made to increase the rate of visitors to a website becoming customers or subscribers.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/cro/

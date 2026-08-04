@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-Yazılı metinlerin yapay zeka tarafından insan sesiyle seslendirilmesidir.
+It is the vocalization of written texts with a human voice by artificial intelligence.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/text-to-speech/

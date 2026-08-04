@@ -1,6 +1,6 @@
 # Spiderfoot
 
-> SpiderFoot, tehdit istihbaratı ve saldırı yüzeyi haritalama süreçleri için açık kaynaklı istihbarat (OSINT) toplama…
+> SpiderFoot provides open source intelligence (OSINT) collection for threat intelligence and attack surface mapping processes.
 
 **Source:** GitHub  
 **Stars:** 20026

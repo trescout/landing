@@ -1,6 +1,6 @@
 # Bitchat Android
 
-> Bitchat-android, Bluetooth ağ (mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen, merkeziyetsiz bir mesajlaşma…
+> Bitchat-android is a decentralized messaging system that does not require an internet connection using Bluetooth mesh technology.
 
 **Source:** GitHub  
 **Stars:** 7246

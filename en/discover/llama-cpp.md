@@ -1,6 +1,6 @@
 # Llama.cpp
 
-> Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını…
+> Llama.cpp enables large language models to run efficiently on standard hardware.
 
 **Source:** GitHub  
 **Stars:** 122639

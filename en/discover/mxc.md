@@ -1,6 +1,6 @@
 # MXC
 
-> Microsoft tarafından geliştirilen MXC, Rust diliyle yazılmış politika tabanlı, katmanlı bir yalıtım ve kapsayıcılık (isolation…
+> Developed by Microsoft, MXC is a policy-based, layered isolation and containerization system written in Rust.
 
 **Source:** GitHub  
 **Stars:** 641

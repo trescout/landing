@@ -1,6 +1,6 @@
 # Claude Plugins Official
 
-> Anthropic, Claude Code için geliştirilen yüksek kaliteli eklentileri (plugins) tek bir merkezde toplayan resmi bir dizin sunuyor.
+> Anthropic offers an official directory that collects high-quality plugins developed for Claude Code in a single center.
 
 **Source:** GitHub  
 **Stars:** 32968

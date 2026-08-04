@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekanın daha önce işlediği kelimeleri belleğinde tutarak aynı işlemleri tekrar yapmasını engelleyen bir hızlandırma yöntemidir.
+It is an acceleration method that prevents artificial intelligence from repeating the same operations by keeping the words it has previously processed in its memory.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/kv-cache/

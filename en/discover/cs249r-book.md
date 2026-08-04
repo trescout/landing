@@ -1,6 +1,6 @@
 # Cs249r Book
 
-> Harvard Üniversitesi tarafından paylaşılan bu kaynak, makine öğrenmesi sistemleri (machine learning systems) üzerine kapsamlı…
+> This resource shared by Harvard University is a comprehensive resource on machine learning systems.
 
 **Source:** GitHub  
 **Stars:** 27689

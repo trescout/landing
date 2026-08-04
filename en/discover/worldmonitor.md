@@ -1,6 +1,6 @@
 # Worldmonitor
 
-> Worldmonitor, yapay zekâ destekli haber derleme ve jeopolitik izleme özelliklerini tek bir arayüzde birleştiren gerçek zamanlı…
+> Worldmonitor is a real-time…
 
 **Source:** GitHub  
 **Stars:** 78032

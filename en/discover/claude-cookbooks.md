@@ -1,6 +1,6 @@
 # Claude Cookbooks
 
-> Anthropics tarafından paylaşılan Claude yemek kitapları (cookbooks), Claude modellerinin kullanımı için pratik kod örnekleri…
+> Claude cookbooks shared by Anthropics, practical code examples for the use of Claude models...
 
 **Source:** GitHub  
 **Stars:** 50838

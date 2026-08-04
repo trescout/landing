@@ -1,6 +1,6 @@
 # DeepTutor
 
-> DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning)…
+> DeepTutor is a lifelong learning platform that offers personalized education processes using student data.
 
 **Source:** GitHub  
 **Stars:** 31925

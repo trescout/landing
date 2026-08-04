@@ -1,6 +1,6 @@
 # LTX 2
 
-> Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python çıkarım (inference) ve düşük…
+> Developed by Lightricks, LTX-2 uses Python inference and low-cost technology for artificial intelligence models that produce audio and video.
 
 **Source:** GitHub  
 **Stars:** 7550

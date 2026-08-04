@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılım projesini inşa etmek için kullanılan tüm diller, veritabanları ve araçların oluşturduğu bütündür.
+It is the collection of all languages, databases and tools used to build a software project.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/tech-stack/

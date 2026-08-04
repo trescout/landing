@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Robotlar gibi fiziksel dünyadaki nesneleri kontrol edebilen ve çevreyle etkileşime giren yapay zekâ sistemleri.
+Artificial intelligence systems that can control objects in the physical world, such as robots, and interact with the environment.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/physical-ai/

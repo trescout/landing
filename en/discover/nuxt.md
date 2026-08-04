@@ -1,6 +1,6 @@
 # Nuxt
 
-> Nuxt, Vue tabanlı uygulamalar geliştirmek için kullanılan tam yığın (full-stack) bir çerçevedir (framework).
+> Nuxt is a full-stack framework used to develop Vue-based applications.
 
 **Source:** GitHub  
 **Stars:** 60715

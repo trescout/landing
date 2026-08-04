@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Büyük bir yazılım projesinde tekrar kullanılmak üzere saklanan küçük ve işlevsel kod parçalarıdır.
+They are small, functional pieces of code that are saved for reuse in a large software project.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/code-snippets/

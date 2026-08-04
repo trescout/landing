@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekanın sadece sağlanan kaynak belgelere sadık kalarak oluşturduğu, uydurma içermeyen özetleme yöntemidir.
+It is a summary method that does not involve fabrication and is created by artificial intelligence by adhering only to the source documents provided.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/grounded-summary/

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekanın nasıl davranacağını ve hangi kurallara uyacağını belirleyen temel talimatlar bütünüdür.
+It is a set of basic instructions that determine how artificial intelligence will behave and what rules it will follow.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/system-prompts/

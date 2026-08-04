@@ -1,6 +1,6 @@
 # Cosmos
 
-> NVIDIA tarafından geliştirilen Cosmos, robotlar ve otonom araçlar gibi fiziksel sistemler için dünya modelleri (world models)…
+> Developed by NVIDIA, Cosmos is a world model for physical systems such as robots and autonomous vehicles.
 
 **Source:** GitHub  
 **Stars:** 11343

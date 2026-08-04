@@ -1,6 +1,6 @@
 # Agent Skills
 
-> Yapay zekâ kodlama ajanları için geliştirilen bu kütüphane, üretim seviyesinde mühendislik yetenekleri (engineering skills)…
+> Developed for artificial intelligence coding agents, this library provides production-level engineering skills…
 
 **Source:** GitHub  
 **Stars:** 81505

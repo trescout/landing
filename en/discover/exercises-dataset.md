@@ -1,6 +1,6 @@
 # Exercises Dataset
 
-> Hasaneyldrm tarafından paylaşılan egzersiz veri seti (exercises-dataset), 433 farklı fitness hareketini isim, hedef kas grubu…
+> The exercise data set (exercises-dataset) shared by Hasaneyldrm includes 433 different fitness movements by name, target muscle group…
 
 **Source:** GitHub  
 **Stars:** 18515

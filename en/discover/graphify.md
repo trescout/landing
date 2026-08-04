@@ -1,6 +1,6 @@
 # Graphify
 
-> Graphify, kod dosyaları, veritabanı şemaları ve dokümantasyon gibi farklı veri türlerini sorgulanabilir bir bilgi çizgesi…
+> Graphify combines different types of data, such as code files, database schemas, and documentation, into a queryable information graph.
 
 **Source:** GitHub  
 **Stars:** 100836

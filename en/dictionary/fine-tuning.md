@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Hazır bir yapay zeka modelini belirli bir görev veya uzmanlık alanı için özel olarak eğitme sürecidir.
+It is the process of specifically training a ready-made artificial intelligence model for a specific task or area of ​​expertise.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/fine-tuning/

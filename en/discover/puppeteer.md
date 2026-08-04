@@ -1,6 +1,6 @@
 # Puppeteer
 
-> Puppeteer, Chrome ve Firefox tarayıcılarını kontrol etmek için kullanılan bir tarayıcı otomasyonu (browser automation)…
+> Puppeteer is a browser automation system used to control Chrome and Firefox browsers.
 
 **Source:** GitHub  
 **Stars:** 95396

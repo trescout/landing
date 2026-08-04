@@ -1,6 +1,6 @@
 # Chatwoot
 
-> Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel desk) yönetimi sunan açık kaynaklı bir…
+> Chatwoot is an open source application that offers live chat, email support and omni-channel customer service (omni-channel desk) management.
 
 **Source:** GitHub  
 **Stars:** 35290

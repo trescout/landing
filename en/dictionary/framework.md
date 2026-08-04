@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılım geliştirirken işleri hızlandırmak için kullanılan hazır yapı ve kurallar bütünüdür.
+It is a set of ready-made structures and rules used to speed up work when developing software.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/framework/

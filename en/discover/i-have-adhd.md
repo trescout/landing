@@ -1,6 +1,6 @@
 # I Have Adhd
 
-> Kodlama ajanlarının çıktılarını daha odaklı ve düzenli hale getirmek için geliştirilen i-have-adhd, karmaşık yanıtları…
+> Developed to make the output of coding agents more focused and organized, i-have-adhd solves complex answers…
 
 **Source:** GitHub  
 **Stars:** 15559

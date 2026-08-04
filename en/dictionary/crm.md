@@ -5,7 +5,7 @@
 **Category:** data
 
 ## Overview
-Şirketlerin müşteri bilgilerini, geçmiş etkileşimlerini ve satış süreçlerini tek bir merkezden yönetmesini sağlayan dijital sistemdir.
+It is a digital system that allows companies to manage customer information, past interactions and sales processes from a single center.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/crm/

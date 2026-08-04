@@ -1,6 +1,6 @@
 # Ontology-Playground
 
-> Microsoft tarafından geliştirilen Ontology-Playground, ontolojileri öğrenmek ve Microsoft Fabric IQ üzerinde görsel tasarımlar…
+> Ontology-Playground, developed by Microsoft, is a platform for learning ontologies and creating visual designs on Microsoft Fabric IQ.
 
 **Source:** GitHub  
 **Stars:** 1806

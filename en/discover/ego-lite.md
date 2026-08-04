@@ -1,6 +1,6 @@
 # Ego Lite
 
-> Ego-lite, kullanıcılar ve yapay zekâ ajanları (AI agents) için eş zamanlı çalışma imkânı sunan bir tarayıcıdır.
+> Ego-lite is a browser that allows users and artificial intelligence agents to work simultaneously.
 
 **Source:** GitHub  
 **Stars:** 7602

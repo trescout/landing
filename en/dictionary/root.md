@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir işletim sistemi üzerinde tüm dosyalara, ayarlara ve komutlara sınırsız erişim sağlayan en üst düzey yetkili hesaptır.
+It is the highest level authorized account that provides unlimited access to all files, settings and commands on an operating system.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/root/

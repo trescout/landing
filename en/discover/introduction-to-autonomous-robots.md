@@ -1,6 +1,6 @@
 # Introduction-to-Autonomous-Robots
 
-> Otonom robotlara giriş (Introduction to Autonomous Robots) projesi, robotik sistemlerin temel prensiplerini ve algoritmik…
+> Introduction to Autonomous Robots project covers the basic principles of robotic systems and algorithmic…
 
 **Source:** GitHub  
 **Stars:** 3301

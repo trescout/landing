@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Apple cihazları (iPhone, Mac, iPad) için uygulama geliştirmek amacıyla kullanılan resmi yazılım geliştirme ortamıdır.
+It is the official software development environment used to develop applications for Apple devices (iPhone, Mac, iPad).
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/xcode/

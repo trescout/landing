@@ -1,6 +1,6 @@
 # Penpot
 
-> Penpot, tasarımcılar ve yazılımcılar arasında iş birliğini güçlendiren açık kaynaklı bir tasarım aracıdır.
+> Penpot is an open source design tool that strengthens collaboration between designers and developers.
 
 **Source:** GitHub  
 **Stars:** 57989

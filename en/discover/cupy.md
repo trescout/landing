@@ -1,6 +1,6 @@
 # Cupy
 
-> CuPy, sayısal hesaplama kütüphanesi NumPy ve SciPy arayüzlerini grafik işlem birimi (GPU) hızlandırmasıyla birleştiriyor.
+> CuPy combines the numerical computing library NumPy and SciPy interfaces with graphics processing unit (GPU) acceleration.
 
 **Source:** GitHub  
 **Stars:** 12227

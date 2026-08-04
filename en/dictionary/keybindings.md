@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Klavye tuşlarına belirli görevlerin veya komutların atanması işlemidir.
+It is the process of assigning specific tasks or commands to keyboard keys.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/keybindings/

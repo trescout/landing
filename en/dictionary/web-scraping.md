@@ -5,7 +5,7 @@
 **Category:** data
 
 ## Overview
-İnternet sitelerindeki verileri otomatik yöntemlerle toplayıp kaydeden yazılım süreci.
+Software process that collects and records data from websites using automatic methods.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/web-scraping/

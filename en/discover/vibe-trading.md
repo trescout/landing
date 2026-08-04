@@ -1,6 +1,6 @@
 # Vibe-Trading
 
-> Vibe-Trading, finansal piyasalarda işlem yapmak amacıyla geliştirilmiş kişisel bir alım satım ajanı (trading agent) sunuyor.
+> Vibe-Trading offers a personal trading agent developed for trading in financial markets.
 
 **Source:** GitHub  
 **Stars:** 29309

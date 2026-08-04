@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekanın fiziksel dünyanın nasıl işlediğini anlamasını sağlayan sistemdir.
+It is the system that allows artificial intelligence to understand how the physical world works.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/world-model/

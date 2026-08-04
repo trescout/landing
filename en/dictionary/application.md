@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayar, telefon veya tablet gibi cihazlarda belirli bir görevi yerine getirmek için tasarlanmış yazılım programıdır.
+It is a software program designed to perform a specific task on devices such as computers, phones or tablets.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/application/

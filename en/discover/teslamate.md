@@ -1,6 +1,6 @@
 # Teslamate
 
-> Tesla araç sahipleri için geliştirilen Teslamate, verileri kendi sunucunuzda barındırmanıza olanak tanıyan bir veri kaydedici…
+> Developed for Tesla vehicle owners, Teslamate is a data logger that allows you to host data on your own server.
 
 **Source:** GitHub  
 **Stars:** 8798

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-İşletim sistemi veya donanım sürücüsü gibi temel seviyede yazılımlar geliştirmek için kullanılan güçlü dildir.
+It is a powerful language used to develop basic level software such as an operating system or hardware driver.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/system-programming-language/

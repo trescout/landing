@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâ sistemlerinin analiz etme, öğrenme, içerik üretme veya problem çözme gibi gerçekleştirebildiği tüm işlevlerdir.
+These are all functions that artificial intelligence systems can perform, such as analyzing, learning, producing content or solving problems.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ai-capabilities/

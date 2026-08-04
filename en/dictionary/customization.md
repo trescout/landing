@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılımın veya sistemin, kullanıcının özel tercihlerine ve ihtiyaçlarına göre yeniden şekillendirilmesidir.
+It is the reshaping of a software or system according to the user's specific preferences and needs.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/customization/

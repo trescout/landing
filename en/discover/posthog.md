@@ -1,6 +1,6 @@
 # Posthog
 
-> PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session…
+> PostHog provides artificial intelligence observability, analysis and session replay for product development processes.
 
 **Source:** GitHub  
 **Stars:** 37487

@@ -1,6 +1,6 @@
 # Langflow
 
-> Langflow, yapay zekâ destekli ajanlar ve iş akışları oluşturmak için görsel bir arayüz sunan Python tabanlı bir geliştirme…
+> Langflow is a Python-based development tool that offers a visual interface for creating AI-powered agents and workflows.
 
 **Source:** GitHub  
 **Stars:** 152754

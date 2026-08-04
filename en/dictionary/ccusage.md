@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Bir sistemin veya hizmetin ne kadar yoğun kullanıldığını gösteren tüketim verisi.
+Consumption data that shows how intensively a system or service is used.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ccusage/

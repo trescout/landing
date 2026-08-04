@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Bir araştırma sürecini adım adım yürütmek için kullanılan standart yöntemler ve araçlar bütünüdür.
+It is a set of standard methods and tools used to carry out a research process step by step.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/research-framework/

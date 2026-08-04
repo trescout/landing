@@ -1,6 +1,6 @@
 # System Prompts Leaks
 
-> GitHub üzerinde paylaşılan system_prompts_leaks deposu, Anthropic, OpenAI, Google ve xAI gibi büyük teknoloji şirketlerinin…
+> The system_prompts_leaks repository shared on GitHub is from major technology companies such as Anthropic, OpenAI, Google and xAI.
 
 **Source:** GitHub  
 **Stars:** 61968

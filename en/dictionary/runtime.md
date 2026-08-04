@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılımın bilgisayarda çalıştırıldığı an ve bu süreçte ihtiyaç duyduğu ortamdır.
+It is the moment when a software is run on the computer and the environment it needs in this process.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/runtime/

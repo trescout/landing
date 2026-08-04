@@ -1,6 +1,6 @@
 # Chrome Devtools MCP
 
-> Chrome Geliştirici Araçları (Chrome DevTools) için geliştirilen bu sunucu, kodlama yapan yapay zekâ ajanlarının (coding…
+> This server, developed for Chrome DevTools, allows coding artificial intelligence agents (coding…
 
 **Source:** GitHub  
 **Stars:** 48381

@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-İnternet üzerindeki verilerinizi şifreleyerek kimliğinizi gizleyen ve güvenli bağlantı sağlayan araçtır.
+It is a tool that hides your identity and provides a secure connection by encrypting your data on the internet.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/vpn/

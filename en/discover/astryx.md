@@ -1,6 +1,6 @@
 # Astryx
 
-> Meta tarafından geliştirilen Astryx, tamamen özelleştirilebilir ve yapay zekâ ajanlarıyla uyumlu (agent ready) bir tasarım…
+> Developed by Meta, Astryx is a fully customizable and agent ready design…
 
 **Source:** GitHub  
 **Stars:** 11277

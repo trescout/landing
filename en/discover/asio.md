@@ -1,6 +1,6 @@
 # Asio
 
-> Asio, eşzamansız giriş çıkış (asynchronous I/O) işlemleri için geliştirilmiş bir C++ kütüphanesidir.
+> Asio is a C++ library developed for asynchronous I/O operations.
 
 **Source:** GitHub  
 **Stars:** 6090

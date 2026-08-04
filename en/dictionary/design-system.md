@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Uygulama geliştirirken kullanılan tasarım standartları ve bileşenler bütünüdür.
+It is the set of design standards and components used when developing applications.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/design-system/

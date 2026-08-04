@@ -1,6 +1,6 @@
 # Opencv
 
-> Açık kaynak kodlu bilgisayarlı görü kütüphanesi (computer vision library) olan OpenCV, görüntü işleme ve makine öğrenmesi…
+> OpenCV, an open source computer vision library, is an application for image processing and machine learning.
 
 **Source:** GitHub  
 **Stars:** 90258

@@ -1,6 +1,6 @@
 # Svelte
 
-> Svelte, geleneksel çerçevelerin aksine tarayıcıda çalışma zamanı (runtime) yükünü azaltan bir derleme zamanı (compile-time)…
+> Unlike traditional frameworks, Svelte is a compile-time application that reduces the runtime load on the browser.
 
 **Source:** GitHub  
 **Stars:** 87724

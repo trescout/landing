@@ -1,6 +1,6 @@
 # CodexBar
 
-> CodexBar, OpenAI Codex ve Claude Code kullanım verilerini oturum açma zorunluluğu olmadan görüntülemeyi sağlayan bir araçtır.
+> CodexBar is a tool that allows viewing OpenAI Codex and Claude Code usage data without requiring a login.
 
 **Source:** GitHub  
 **Stars:** 19597

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekanın gerçekte olmayan bilgileri sanki doğruymuş gibi sunmasıdır.
+Artificial intelligence presents information that does not actually exist as if it were true.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/hallucination/

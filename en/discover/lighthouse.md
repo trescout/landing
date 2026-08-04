@@ -1,6 +1,6 @@
 # Lighthouse
 
-> Lighthouse, C diliyle geliştirilmiş, düşük seviyeli sistemler için tasarlanmış bir kod kapsama (code coverage) aracıdır.
+> Lighthouse is a code coverage tool developed in C language and designed for low-level systems.
 
 **Source:** GitHub  
 **Stars:** 260

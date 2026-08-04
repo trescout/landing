@@ -1,6 +1,6 @@
 # AIRI
 
-> Kendi sunucunuzda barınan, sesli sohbet edebilen ve oyun oynayabilen AI karakteri.
+> AI character hosted on your own server, capable of voice chat and playing games.
 
 **Source:** GitHub  
 **Stars:** 46435

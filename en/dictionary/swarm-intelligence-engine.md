@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Birçok küçük birimin bir araya gelerek tek bir akıllı sistem gibi hareket etmesini sağlayan yönetim mekanizmasıdır.
+It is a management mechanism that allows many small units to come together and act as a single intelligent system.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/swarm-intelligence-engine/

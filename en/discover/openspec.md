@@ -1,6 +1,6 @@
 # OpenSpec
 
-> OpenSpec, yapay zekâ kod asistanları için şartname odaklı geliştirme (spec-driven development) süreçlerini destekleyen bir…
+> OpenSpec is a platform that supports spec-driven development processes for artificial intelligence code assistants.
 
 **Source:** GitHub  
 **Stars:** 63477

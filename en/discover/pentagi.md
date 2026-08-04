@@ -1,6 +1,6 @@
 # Pentagi
 
-> Go diliyle geliştirilen Pentagi, karmaşık sızma testlerini (penetration testing) gerçekleştirebilen tam otonom yapay zekâ…
+> Developed with the Go language, Pentagi is a fully autonomous artificial intelligence system that can perform complex penetration testing.
 
 **Source:** GitHub  
 **Stars:** 21475

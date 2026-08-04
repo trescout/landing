@@ -1,6 +1,6 @@
 # Page Agent
 
-> Alibaba tarafından geliştirilen page-agent, doğal dil komutlarıyla web arayüzlerini kontrol etmeye olanak tanıyan bir sayfa…
+> Developed by Alibaba, page-agent is a page agent that allows controlling web interfaces with natural language commands.
 
 **Source:** GitHub  
 **Stars:** 28366

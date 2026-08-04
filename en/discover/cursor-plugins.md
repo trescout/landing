@@ -1,6 +1,6 @@
 # Cursor Plugins
 
-> Cursor kod editörü için resmi eklenti spesifikasyonu ve hazır eklentiler.
+> Official plugin specification and ready-made plugins for the Cursor code editor.
 
 **Source:** GitHub  
 **Stars:** 2515

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-İnternet tarayıcınızın o anki oturumunda aktif olan tüm verilerin ve ayarların kaydedildiği durumdur.
+It is the state in which all data and settings active in the current session of your internet browser are saved.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/browser-state/

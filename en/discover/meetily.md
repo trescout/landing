@@ -1,6 +1,6 @@
 # Meetily
 
-> Meetily, toplantı kayıtlarını yerel olarak işleyen ve bulut bağlantısına ihtiyaç duymayan, açık kaynaklı bir toplantı asistanıdır.
+> Meetily is an open source meeting assistant that processes meeting recordings locally and does not require a cloud connection.
 
 **Source:** GitHub  
 **Stars:** 27968

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekânın belirli bir görevi veya süreci başarıyla tamamlayabilmesi için sahip olduğu özelleşmiş yetenekler bütünüdür.
+It is the set of specialized abilities that artificial intelligence has to successfully complete a certain task or process.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ai-skill/

@@ -1,6 +1,6 @@
 # Orca
 
-> Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme…
+> Developed by Stablyai, Orca is an agent development tool that allows managing multiple artificial intelligence agents simultaneously.
 
 **Source:** GitHub  
 **Stars:** 36861

@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Veriler ve kavramlar arasındaki ilişkileri birbirine bağlayan yapılandırılmış bir bilgi ağıdır.
+It is a structured information network that connects relationships between data and concepts.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/knowledge-graph/

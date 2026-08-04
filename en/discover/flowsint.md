@@ -1,6 +1,6 @@
 # Flowsint
 
-> Flowsint, siber güvenlik analistleri ve araştırmacılar için görsel, esnek ve genişletilebilir çizge tabanlı inceleme…
+> Flowsint is a visual, flexible and extensible graph-based analysis tool for cybersecurity analysts and researchers.
 
 **Source:** GitHub  
 **Stars:** 7528

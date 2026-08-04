@@ -1,6 +1,6 @@
 # Terax AI
 
-> Terax-ai, terminal odaklı yapay zekâ yerel geliştirme ortamı (AI-native dev workspace) olarak 7 megabaytlık düşük boyutlu…
+> Terax-ai is a 7-megabyte low-size, terminal-oriented artificial intelligence native development environment (AI-native dev workspace).
 
 **Source:** GitHub  
 **Stars:** 8790

@@ -1,6 +1,6 @@
 # Lobehub
 
-> LobeHub, yapay zekâ ajanlarını işe alma, zamanlama ve raporlama süreçleriyle yöneterek 7 gün 24 saat çalışan bir yapay zekâ…
+> LobeHub is an artificial intelligence system that works 24/7 by managing AI agents through recruitment, scheduling and reporting processes.
 
 **Source:** GitHub  
 **Stars:** 81117

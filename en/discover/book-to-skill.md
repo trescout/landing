@@ -1,6 +1,6 @@
 # Book to Skill
 
-> Book-to-skill projesi, teknik kitapların taşınabilir belge biçimlerini (PDF) Claude Code için kullanılabilir yetenek…
+> The Book-to-skill project makes portable document formats (PDF) of technical books available for Claude Code…
 
 **Source:** GitHub  
 **Stars:** 15238

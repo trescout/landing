@@ -1,6 +1,6 @@
 # Kaneo
 
-> Kaneo, kullanıcı odaklı bir arayüzle geliştirilen açık kaynaklı bir proje yönetimi (project management) aracıdır.
+> Kaneo is an open source project management tool developed with a user-oriented interface.
 
 **Source:** GitHub  
 **Stars:** 7032

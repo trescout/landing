@@ -1,6 +1,6 @@
 # Computer Science
 
-> Bilgisayar bilimleri (computer science) alanında ücretsiz ve kendi kendine öğrenme odaklı bir müfredat sunan bu kaynak…
+> This resource, which offers a free and self-learning focused curriculum in the field of computer science…
 
 **Source:** GitHub  
 **Stars:** 206669

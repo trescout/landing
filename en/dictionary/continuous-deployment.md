@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Testi başarıyla geçen kodların hiçbir insan müdahalesi olmadan otomatik olarak canlıya alınması.
+Codes that pass the test automatically go live without any human intervention.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/continuous-deployment/

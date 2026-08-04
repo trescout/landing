@@ -1,6 +1,6 @@
 # Wand-Enhancer
 
-> Wand-Enhancer, WeMod uygulaması için kullanıcı deneyimini (user experience) geliştiren ve birlikte çalışabilirliği…
+> Wand-Enhancer improves user experience and interoperability for the WeMod application.
 
 **Source:** GitHub  
 **Stars:** 14159

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-İnsan müdahalesi olmadan video kurgulayan ve düzenleyen akıllı sistemlerdir.
+They are intelligent systems that edit and edit videos without human intervention.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agentic-video-production-system/

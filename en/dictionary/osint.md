@@ -5,7 +5,7 @@
 **Category:** data
 
 ## Overview
-İnternet üzerindeki herkese açık kaynaklardan bilgi toplayıp analiz etme yöntemidir.
+It is a method of collecting and analyzing information from publicly available sources on the Internet.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/osint/

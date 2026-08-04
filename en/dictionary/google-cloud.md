@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Google tarafından sunulan, internet üzerinden veri depolama ve uygulama çalıştırma hizmetleri platformudur.
+It is a platform for data storage and application execution services over the internet, offered by Google.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/google-cloud/

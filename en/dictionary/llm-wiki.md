@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâ modellerinin daha doğru ve güncel yanıtlar verebilmesi için dış kaynaklardan beslendiği yapılandırılmış bilgi kütüphanesidir.
+It is a structured information library where artificial intelligence models are fed from external sources to provide more accurate and up-to-date answers.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/llm-wiki/

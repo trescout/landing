@@ -1,6 +1,6 @@
 # Pi Web
 
-> Pi-web, Pi kodlama ajanı için geliştirilmiş bir web tabanlı kullanıcı arayüzü (web UI) sunuyor.
+> Pi-web offers an improved web-based user interface (web UI) for the Pi coding agent.
 
 **Source:** GitHub  
 **Stars:** 3485

@@ -1,6 +1,6 @@
 # PaddleOCR
 
-> PaddlePaddle tarafından geliştirilen PaddleOCR, PDF ve görsel belgeleri büyük dil modelleri (large language models) için…
+> Developed by PaddlePaddle, PaddleOCR is a powerful tool for processing PDF and visual documents using large language models.
 
 **Source:** GitHub  
 **Stars:** 86787

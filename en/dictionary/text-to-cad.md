@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Yazılı metin komutlarını kullanarak otomatik olarak üç boyutlu teknik çizimler oluşturan bir teknolojidir.
+It is a technology that automatically creates three-dimensional technical drawings using written text commands.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/text-to-cad/

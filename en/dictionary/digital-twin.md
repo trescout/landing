@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Fiziksel bir nesnenin veya sistemin dijital kopyasıdır.
+It is a digital copy of a physical object or system.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/digital-twin/

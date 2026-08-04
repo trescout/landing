@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir dosyanın tamamını değiştirmek yerine, sadece eski ve yeni sürüm arasındaki farkları (diff) uygulayarak güncelleme yapma yöntemidir.
+It is a method of updating a file by applying only the differences (diffs) between the old and new version, instead of changing the entire file.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/diff-file-editing/

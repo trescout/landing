@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekânın fiziksel dünyanın kurallarını ve işleyişini öğrenerek gelecekteki sonuçları simüle etmesini sağlayan sistemlerdir.
+They are systems that enable artificial intelligence to simulate future results by learning the rules and functioning of the physical world.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/world-models/

@@ -1,6 +1,6 @@
 # Awesome Artificial Intelligence
 
-> Awesome-artificial-intelligence, yapay zekâ (artificial intelligence) alanındaki eğitimleri, kitapları, video dersleri ve…
+> Awesome-artificial-intelligence offers trainings, books, video lessons and…
 
 **Source:** GitHub  
 **Stars:** 15631

@@ -1,6 +1,6 @@
 # Jcode
 
-> Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness)…
+> Developed with the Rust language, jcode is a framework (harness) for testing and evaluating coding-oriented artificial intelligence agents.
 
 **Source:** GitHub  
 **Stars:** 15647

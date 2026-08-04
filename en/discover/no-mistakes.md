@@ -1,6 +1,6 @@
 # No Mistakes
 
-> Go diliyle geliştirilen no-mistakes, yazılım geliştiricilerin hatalı kod gönderimlerini (git push) engellemek için tasarlanmış…
+> Developed with the Go language, no-mistakes is designed to prevent software developers from submitting faulty code (git push).
 
 **Source:** GitHub  
 **Stars:** 7334

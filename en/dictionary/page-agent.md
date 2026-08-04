@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-İnternet sayfalarını tarayıp kullanıcı adına tıklama veya veri girişi gibi işlemler yapan özel bir yapay zeka yardımcısıdır.
+It is a special artificial intelligence assistant that scans web pages and performs actions such as clicking or entering data on behalf of the user.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/page-agent/

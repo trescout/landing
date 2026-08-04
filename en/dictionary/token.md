@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekanın metinleri işlemek için kullandığı en küçük anlam birimidir.
+It is the smallest unit of meaning that artificial intelligence uses to process texts.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/token/

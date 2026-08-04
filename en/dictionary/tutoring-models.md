@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Öğrencilere konuları adım adım anlatan, soruları yanıtlayan ve kişiselleştirilmiş eğitim desteği sunan yapay zeka sistemleridir.
+They are artificial intelligence systems that explain topics to students step by step, answer questions and provide personalized educational support.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/tutoring-models/

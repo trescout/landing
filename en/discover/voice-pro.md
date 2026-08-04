@@ -1,6 +1,6 @@
 # Voice Pro
 
-> Voice-pro, metinden konuşmaya dönüştürme (TTS) ve sıfır örnekli ses kopyalama (zero-shot voice cloning) araçlarını bir araya…
+> Voice-pro combines text-to-speech (TTS) and zero-shot voice cloning tools.
 
 **Source:** GitHub  
 **Stars:** 11965

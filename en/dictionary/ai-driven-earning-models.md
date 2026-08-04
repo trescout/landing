@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâ yeteneklerini kullanarak ticari değer yaratma ve gelir elde etme yöntemleridir.
+They are methods of creating commercial value and generating revenue by using artificial intelligence capabilities.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ai-driven-earning-models/

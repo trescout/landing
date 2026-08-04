@@ -1,6 +1,6 @@
 # Snipe It
 
-> Snipe-IT, bilişim teknolojileri varlıklarını ve yazılım lisanslarını takip etmeye yarayan açık kaynaklı bir yönetim sistemidir.
+> Snipe-IT is an open source management system for tracking information technology assets and software licenses.
 
 **Source:** GitHub  
 **Stars:** 14677

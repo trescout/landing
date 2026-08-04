@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Mesajların sadece gönderen ve alıcı tarafından okunabildiği, aradaki kimsenin içeriği göremediği bir güvenlik yöntemidir.
+It is a security method in which messages can only be read by the sender and the recipient, and no one in between can see the content.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/end-to-end-encryption/

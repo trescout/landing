@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Gelecekteki olayların sonuçlarını tahmin etmek için oluşturulan pazar yeridir.
+It is a marketplace created to predict the outcomes of future events.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/prediction-market/

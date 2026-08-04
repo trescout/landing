@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Karmaşık bir yazılım sisteminin bileşenlerini ve bu bileşenlerin birbirleriyle olan ilişkilerini gösteren görsel şemalardır.
+They are visual diagrams that show the components of a complex software system and their relationships with each other.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/architecture-diagrams/

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Kod yazarken notlar alıp sonuçları anında görebileceğiniz etkileşimli çalışma ortamlarıdır.
+They are interactive work environments where you can take notes while writing code and see the results instantly.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/notebooks/

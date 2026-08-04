@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Üçgenlerden oluşan karmaşık bir 3D modelin yüzeyini, daha düzenli ve dörtgen parçalara (quads) dönüştürme işlemidir.
+It is the process of transforming the surface of a complex 3D model consisting of triangles into more regular and rectangular parts (quads).
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/quad-remeshing/

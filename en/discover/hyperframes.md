@@ -1,6 +1,6 @@
 # Hyperframes
 
-> Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.
+> Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video.
 
 **Source:** GitHub  
 **Stars:** 39239

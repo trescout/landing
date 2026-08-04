@@ -1,6 +1,6 @@
 # TREK
 
-> TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılan…
+> TREK is a self-hosted…
 
 **Source:** GitHub  
 **Stars:** 7040

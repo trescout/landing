@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Bilgisayarların görsel verileri (fotoğraf, video) analiz edip içindeki nesneleri, kişileri veya olayları anlamlandırmasını sağlayan teknolojidir.
+It is a technology that allows computers to analyze visual data (photos, videos) and make sense of the objects, people or events in them.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/computer-vision/

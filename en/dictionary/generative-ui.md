@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Kullanıcının o anki ihtiyacına göre yapay zekâ tarafından anlık olarak oluşturulan ekran tasarımıdır.
+It is a screen design created instantly by artificial intelligence according to the user's current needs.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/generative-ui/

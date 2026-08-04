@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Teknolojik faaliyetlerin, ürünlerin veya yazılımların devletler ya da kurumlar tarafından yasal kurallarla sınırlandırılmasıdır.
+It is the restriction of technological activities, products or software by legal rules by states or institutions.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/regulatory-restriction/

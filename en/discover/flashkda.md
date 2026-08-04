@@ -1,6 +1,6 @@
 # FlashKDA
 
-> Moonshot AI tarafından geliştirilen FlashKDA, Kimi Delta Attention mekanizması için yüksek performanslı çekirdekler (kernels)…
+> Developed by Moonshot AI, FlashKDA provides high-performance kernels for the Some Delta Attention mechanism…
 
 **Source:** GitHub  
 **Stars:** 1043

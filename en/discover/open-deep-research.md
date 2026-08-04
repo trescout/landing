@@ -1,6 +1,6 @@
 # Open Deep Research
 
-> LangChain tarafından geliştirilen open-deep-research, karmaşık soruları yanıtlamak için internet üzerinde çok adımlı…
+> Developed by LangChain, open-deep-research is a multi-step search on the internet to answer complex questions.
 
 **Source:** GitHub  
 **Stars:** 12307

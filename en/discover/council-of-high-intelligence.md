@@ -1,6 +1,6 @@
 # Council of High Intelligence
 
-> Council of High Intelligence, farklı büyük dil modellerini (large language models) kullanarak çeşitli uzman kişilikler…
+> The Council of High Intelligence creates a variety of expert personalities using different large language models.
 
 **Source:** GitHub  
 **Stars:** 3808

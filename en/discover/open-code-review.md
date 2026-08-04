@@ -1,6 +1,6 @@
 # Open Code Review
 
-> Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli…
+> Open source code review tool developed by Alibaba, large language model with deterministic pipelines…
 
 **Source:** GitHub  
 **Stars:** 18105

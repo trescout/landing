@@ -1,6 +1,6 @@
 # Terminal
 
-> Microsoft, Windows Terminal ve geleneksel Windows konsol ana bilgisayarını (console host) tek bir çatı altında birleştiriyor.
+> Microsoft is combining Windows Terminal and the traditional Windows console host under one roof.
 
 **Source:** GitHub  
 **Stars:** 104442

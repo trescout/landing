@@ -1,6 +1,6 @@
 # Understand Anything
 
-> Kodlarınızı veya dokümanlarınızı yapay zekâ ile etkileşimli hale getirin.
+> Make your codes or documents interactive with artificial intelligence.
 
 **Source:** GitHub  
 **Stars:** 77021

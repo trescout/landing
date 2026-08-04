@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yazılım geliştirme süreçlerinde kod yazma, hata ayıklama ve proje yönetimi gibi görevleri otonom şekilde yürüten yapay zekâ yardımcılarıdır.
+They are artificial intelligence assistants that autonomously carry out tasks such as writing code, debugging and project management in software development processes.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ai-coding-agents/

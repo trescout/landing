@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir yazılım projesinin mimari kararlarını ve tasarım mantığını açıklayan dokümantasyon dosyasıdır.
+It is a documentation file that explains the architectural decisions and design logic of a software project.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/design-md/

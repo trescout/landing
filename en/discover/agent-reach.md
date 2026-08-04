@@ -1,6 +1,6 @@
 # Agent-Reach
 
-> Agent-Reach, yapay zekâ ajanlarına internetin tamamını tarama ve içerik okuma yeteneği kazandıran bir komut satırı arayüzü…
+> Agent-Reach is a command line interface that gives artificial intelligence agents the ability to scan the entire internet and read content.
 
 **Source:** GitHub  
 **Stars:** 64497

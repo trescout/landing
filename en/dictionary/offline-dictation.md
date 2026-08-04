@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-İnternet bağlantısı gerektirmeden, konuşulanları anlık olarak metne dönüştüren teknolojidir.
+It is a technology that instantly converts spoken words into text without requiring an internet connection.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/offline-dictation/

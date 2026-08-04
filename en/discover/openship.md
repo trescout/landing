@@ -1,6 +1,6 @@
 # Openship
 
-> OpenShip, kullanıcıların kendi sunucularında barındırabildiği bir uygulama dağıtım platformu (deployment platform) sunuyor.
+> OpenShip offers an application distribution platform that users can host on their own servers.
 
 **Source:** GitHub  
 **Stars:** 10135

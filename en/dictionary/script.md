@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayara belirli bir işi otomatik olarak yaptırmak için yazılan kısa ve doğrudan çalışan komut dizisidir.
+It is a short and direct sequence of commands written to make the computer do a certain job automatically.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/script/

@@ -1,6 +1,6 @@
 # Abseil Cpp
 
-> Google tarafından geliştirilen Abseil, C++ standart kütüphanesini tamamlayan açık kaynaklı kod parçaları (code snippets) sunuyor.
+> Developed by Google, Abseil offers open source code snippets that complement the C++ standard library.
 
 **Source:** GitHub  
 **Stars:** 18043

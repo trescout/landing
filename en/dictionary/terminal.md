@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayarınızla fare kullanmadan, sadece metin komutları yazarak doğrudan iletişim kurmanızı sağlayan siyah ekranlı arayüzdür.
+It is a black-screen interface that allows you to communicate directly with your computer without using a mouse, just by typing text commands.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/terminal/

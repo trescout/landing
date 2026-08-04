@@ -1,6 +1,6 @@
 # Text to Cad
 
-> Metinden bilgisayar destekli tasarım (text-to-cad) araçları, robotik ve donanım tasarımı süreçlerini otomatikleştirmek için…
+> Text-to-CAD tools are used to automate robotics and hardware design processes.
 
 **Source:** GitHub  
 **Stars:** 12478

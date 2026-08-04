@@ -1,6 +1,6 @@
 # Daily Stock Analysis
 
-> Büyük dil modelleri (large language models) ile desteklenen bu sistem, çok kaynaklı piyasa verilerini ve gerçek zamanlı…
+> Supported by large language models, this system combines multi-source market data and real-time…
 
 **Source:** GitHub  
 **Stars:** 59863

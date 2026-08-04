@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılımcıların, birbirlerinin yazdığı kodları hataları bulmak ve kaliteyi artırmak için incelemesi sürecidir.
+It is the process of software developers examining each other's codes to find errors and improve quality.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/code-review/

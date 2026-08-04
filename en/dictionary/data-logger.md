@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Sensörlerden gelen verileri belirli aralıklarla kaydedip depolayan elektronik cihazdır.
+It is an electronic device that records and stores data from sensors at regular intervals.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/data-logger/

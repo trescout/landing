@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-İnternet tarayıcısı üzerinden çalışan ancak telefonunuza veya bilgisayarınıza uygulama gibi yüklenebilen web sayfalarıdır.
+These are web pages that work through an internet browser but can be installed on your phone or computer like an application.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/pwa/

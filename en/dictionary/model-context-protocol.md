@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zeka sistemlerinin verilerle ve araçlarla güvenli bir şekilde konuşmasını sağlayan ortak bir dil.
+A common language that enables AI systems to talk to data and tools securely.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/model-context-protocol/

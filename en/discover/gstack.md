@@ -1,6 +1,6 @@
 # Gstack
 
-> Gstack, Garry Tan'ın Claude Code yapılandırmasını temel alan ve CEO, tasarımcı, mühendislik yöneticisi gibi farklı roller…
+> Gstack is based on Garry Tan's Claude Code configuration and provides different roles such as CEO, designer, engineering manager.
 
 **Source:** GitHub  
 **Stars:** 125874

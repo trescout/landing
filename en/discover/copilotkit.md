@@ -1,6 +1,6 @@
 # CopilotKit
 
-> CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz…
+> CopilotKit is a React and Angular-based frontend for developing artificial intelligence agents and generative UIs.
 
 **Source:** GitHub  
 **Stars:** 36438

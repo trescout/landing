@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zeka modellerinin veya yazılımların performansını, hızını ve doğruluğunu ölçmek için kullanılan standart testlerdir.
+These are standard tests used to measure the performance, speed and accuracy of artificial intelligence models or software.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/benchmarks/

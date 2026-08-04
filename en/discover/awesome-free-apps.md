@@ -1,6 +1,6 @@
 # Awesome Free Apps
 
-> Bilgisayar ve mobil cihazlar için özenle seçilmiş en iyi ücretsiz uygulamalar.
+> Carefully selected best free applications for computer and mobile devices.
 
 **Source:** GitHub  
 **Stars:** 7106

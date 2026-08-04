@@ -1,6 +1,6 @@
 # T3code
 
-> T3Code, TypeScript tabanlı projelerde kod kalitesini artırmak ve standartlaştırmak için geliştirilen bir araç setidir.
+> T3Code is a toolset developed to improve and standardize code quality in TypeScript-based projects.
 
 **Source:** GitHub  
 **Stars:** 16312

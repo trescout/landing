@@ -1,6 +1,6 @@
 # BUN
 
-> Bun, JavaScript çalışma zamanı (runtime), paket yöneticisi, test çalıştırıcı ve paketleyiciyi tek bir çatı altında toplayan…
+> It brings together the JavaScript runtime, package manager, test runner and packager under one roof.
 
 **Source:** GitHub  
 **Stars:** 95153

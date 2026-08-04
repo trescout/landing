@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılım uygulamalarının güvenli bir şekilde çalışması için ihtiyaç duyduğu şifreler, API anahtarları ve erişim kodlarıdır.
+These are the passwords, API keys and access codes that software applications need to operate securely.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/secrets/

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayara grafik arayüz (fare ve pencere) kullanmadan, doğrudan komut satırı üzerinden talimat verme sürecidir.
+It is the process of giving instructions to the computer directly via the command line, without using a graphical interface (mouse and windows).
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/terminal-control/

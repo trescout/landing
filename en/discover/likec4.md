@@ -1,6 +1,6 @@
 # Likec4
 
-> Likec4, yazılım mimarisini doğrudan kaynak kod üzerinden görselleştiren ve canlı diyagramlar oluşturulmasını sağlayan bir araçtır.
+> Likec4 is a tool that visualizes software architecture directly from the source code and enables the creation of live diagrams.
 
 **Source:** GitHub  
 **Stars:** 5328

@@ -1,6 +1,6 @@
 # OfficeCLI
 
-> OfficeCLI, yapay zekâ ajanlarının Word, Excel ve PowerPoint dosyalarını doğrudan okumasına, düzenlemesine ve otomatize…
+> OfficeCLI allows artificial intelligence agents to directly read, edit and automate Word, Excel and PowerPoint files.
 
 **Source:** GitHub  
 **Stars:** 24245

@@ -1,6 +1,6 @@
 # Container
 
-> Apple tarafından geliştirilen container, Mac üzerinde hafif sanal makineler (virtual machines) kullanarak Linux kapsayıcıları…
+> Developed by Apple, containers are Linux containers on Mac using lightweight virtual machines.
 
 **Source:** GitHub  
 **Stars:** 48543

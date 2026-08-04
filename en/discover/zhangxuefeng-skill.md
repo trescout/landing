@@ -1,6 +1,6 @@
 # Zhangxuefeng Skill
 
-> Zhangxuefeng-skill, üniversite sınavı tercihleri, lisansüstü eğitim ve kariyer planlama süreçleri için yapılandırılmış bir…
+> Zhangxuefeng-skill is a structured program for university exam preferences, postgraduate education and career planning processes.
 
 **Source:** GitHub  
 **Stars:** 10048

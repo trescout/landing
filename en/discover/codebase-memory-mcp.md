@@ -1,6 +1,6 @@
 # Codebase Memory MCP
 
-> Codebase-memory-mcp, kod tabanlarını kalıcı bir bilgi grafiğine (knowledge graph) dönüştürerek yüksek performanslı kod…
+> Codebase-memory-mcp provides high-performance coding by transforming code bases into a persistent knowledge graph.
 
 **Source:** GitHub  
 **Stars:** 37095

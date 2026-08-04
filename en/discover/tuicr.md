@@ -1,6 +1,6 @@
 # Tuicr
 
-> Rust diliyle geliştirilen tuicr, Vim klavye kısayollarını destekleyen bir uçbirim kullanıcı arayüzü (terminal user interface)…
+> Developed in Rust, tuicr is a terminal user interface that supports Vim keyboard shortcuts.
 
 **Source:** GitHub  
 **Stars:** 2291

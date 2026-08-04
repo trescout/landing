@@ -1,6 +1,6 @@
 # Chat2DB
 
-> Chat2DB, yapay zekâ destekli bir veritabanı yönetim aracı ve SQL istemcisi (SQL client) olarak öne çıkıyor.
+> Chat2DB stands out as an artificial intelligence-supported database management tool and SQL client.
 
 **Source:** GitHub  
 **Stars:** 27604

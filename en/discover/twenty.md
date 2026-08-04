@@ -1,6 +1,6 @@
 # Twenty
 
-> Salesforce'a açık kaynaklı, yapay zekâ odaklı ve modern bir alternatif.
+> An open source, AI-driven and modern alternative to Salesforce.
 
 **Source:** GitHub  
 **Stars:** 54054

@@ -1,6 +1,6 @@
 # Claude Video
 
-> Claude-video, Claude modeline video içeriğini analiz etme yeteneği kazandıran bir Python aracıdır.
+> Claude-video is a Python tool that gives the Claude model the ability to analyze video content.
 
 **Source:** GitHub  
 **Stars:** 13424

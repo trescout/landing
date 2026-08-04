@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-İnternet üzerinden gerçek zamanlı olarak yazışmaya imkân tanıyan eski ve basit bir mesajlaşma sistemi.
+An old and simple messaging system that allows real-time correspondence over the Internet.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/irc/

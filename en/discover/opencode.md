@@ -1,6 +1,6 @@
 # Opencode
 
-> OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent).
+> OpenCode is an open source coding agent designed to automate software development processes.
 
 **Source:** GitHub  
 **Stars:** 193021

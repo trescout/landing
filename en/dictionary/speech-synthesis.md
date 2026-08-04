@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekanın yazılı metinleri insan sesine dönüştürme teknolojisidir.
+It is the technology of artificial intelligence to convert written texts into human voices.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/speech-synthesis/

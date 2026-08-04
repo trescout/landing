@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Dijital sistemleri ve verileri siber tehditlere karşı korumak için gereken teknik bilgi ve yetkinlikler bütünüdür.
+It is the set of technical knowledge and competencies required to protect digital systems and data against cyber threats.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/cybersecurity-skills/

@@ -1,6 +1,6 @@
 # Docuseal
 
-> DocuSeal, dijital belge oluşturma, doldurma ve imzalama süreçleri için açık kaynaklı bir alternatif sunuyor.
+> DocuSeal offers an open source alternative for creating, filling and signing digital documents.
 
 **Source:** GitHub  
 **Stars:** 18183

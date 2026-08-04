@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Belli bir zaman dilimi içerisinde daha kaliteli ve daha fazla iş üretme kapasitesidir.
+It is the capacity to produce higher quality and more work within a certain period of time.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/productivity/

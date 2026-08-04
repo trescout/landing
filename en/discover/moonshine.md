@@ -1,6 +1,6 @@
 # Moonshine
 
-> Moonshine, sesli arayüzler ve yapay zekâ ajanları için düşük gecikmeli konuşmayı metne dönüştürme (speech to text), niyet…
+> Moonshine is a low-latency speech-to-text, intent…
 
 **Source:** GitHub  
 **Stars:** 10579

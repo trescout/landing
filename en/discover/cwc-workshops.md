@@ -1,6 +1,6 @@
 # Cwc Workshops
 
-> Anthropic tarafından paylaşılan bu atölye çalışmaları, geliştiricilere bilgisayar kullanımı (computer use) yeteneğine sahip…
+> These workshops shared by Anthropic provide developers with computer use skills.
 
 **Source:** GitHub  
 **Stars:** 1632

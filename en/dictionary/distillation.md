@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Büyük ve karmaşık bir yapay zeka modelinin bilgisini daha küçük bir modele aktarma sürecidir.
+It is the process of transferring the information of a large and complex artificial intelligence model to a smaller model.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/distillation/

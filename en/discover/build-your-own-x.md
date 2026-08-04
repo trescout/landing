@@ -1,6 +1,6 @@
 # Build Your Own X
 
-> Veritabanı, işletim sistemi, Git ve Docker gibi teknolojileri sıfırdan inşa ederek öğrenin.
+> Learn technologies such as database, operating system, Git and Docker by building them from scratch.
 
 **Source:** GitHub  
 **Stars:** 534641

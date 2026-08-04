@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Kullanıcıyla etkileşim kurarak arkadaşlık eden veya günlük işlerde yardımcı olan yapay zekâ uygulamasıdır.
+It is an artificial intelligence application that interacts with the user, befriends him or helps him with daily tasks.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ai-companion/

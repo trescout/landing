@@ -1,6 +1,6 @@
 # ECC
 
-> Claude Code, Codex ve Cursor gibi yapay zekâ ajanlarına beceri, hafıza ve güvenlik katmanı ekleyin.
+> Add a layer of skill, memory and security to AI agents like Claude Code, Codex and Cursor.
 
 **Source:** GitHub  
 **Stars:** 236779

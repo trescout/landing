@@ -1,6 +1,6 @@
 # Folia Major
 
-> Folia-major, yerel müzik dosyaları ve çevrimiçi platformlar için görselleştirilmiş şarkı sözü animasyonları sunan bir oynatıcı…
+> Folia-major is a player that provides visualized lyric animations for local music files and online platforms.
 
 **Source:** GitHub  
 **Stars:** 1602

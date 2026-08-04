@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Bir işin tamamlanması için sorumluluğun başka bir kişiye veya yapay zeka sistemine devredilmesidir.
+It is the transfer of responsibility for the completion of a job to another person or artificial intelligence system.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/task-delegation/

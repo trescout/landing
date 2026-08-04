@@ -1,6 +1,6 @@
 # Impeccable
 
-> Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilmiş bir tasarım dili (design language)…
+> Impeccable is a design language developed to improve the design outputs of artificial intelligence models.
 
 **Source:** GitHub  
 **Stars:** 53997

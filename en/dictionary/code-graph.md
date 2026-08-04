@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılım projelerindeki kod bloklarının, fonksiyonların ve dosyaların birbirleriyle olan ilişkilerini görselleştiren bir harita yapısıdır.
+It is a map structure that visualizes the relationships between code blocks, functions and files in software projects.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/code-graph/

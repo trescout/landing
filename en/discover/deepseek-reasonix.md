@@ -1,6 +1,6 @@
 # DeepSeek-Reasonix
 
-> DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel alan bir yapay zekâ kodlama ajanıdır.
+> DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models.
 
 **Source:** GitHub  
 **Stars:** 30216

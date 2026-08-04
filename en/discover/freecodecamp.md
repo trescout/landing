@@ -1,6 +1,6 @@
 # freeCodeCamp
 
-> freeCodeCamp, matematik, programlama ve bilgisayar bilimi konularında ücretsiz eğitim materyalleri sunan açık kaynaklı bir…
+> freeCodeCamp is an open source website that offers free educational materials on mathematics, programming and computer science.
 
 **Source:** GitHub  
 **Stars:** 447139

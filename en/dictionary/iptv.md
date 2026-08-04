@@ -5,7 +5,7 @@
 **Category:** data
 
 ## Overview
-Televizyon yayınlarının geleneksel anten veya uydu yerine internet bağlantısı üzerinden dijital olarak iletilmesi yöntemidir.
+It is a method of digitally transmitting television broadcasts over an internet connection instead of a traditional antenna or satellite.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/iptv/

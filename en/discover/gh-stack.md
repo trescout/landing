@@ -1,6 +1,6 @@
 # Gh Stack
 
-> GitHub tarafından geliştirilen gh-stack, yazılım geliştirme sürecinde yığınlı çekme istekleri (stacked pull requests)…
+> Developed by GitHub, gh-stack is a system that handles stacked pull requests in the software development process.
 
 **Source:** GitHub  
 **Stars:** 911

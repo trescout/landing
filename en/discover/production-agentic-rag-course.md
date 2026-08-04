@@ -1,6 +1,6 @@
 # Production Agentic RAG Course
 
-> Production-agentic-rag-course, karmaşık veri kaynaklarından bilgi getirme süreçlerini otomatize eden ajan tabanlı getirme…
+> Production-agent-rag-course is an agent-based fetching process that automates the processes of fetching information from complex data sources.
 
 **Source:** GitHub  
 **Stars:** 8216

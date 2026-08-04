@@ -1,6 +1,6 @@
 # Aisuite
 
-> Andrew Ng tarafından geliştirilen aisuite, farklı üretken yapay zekâ (generative AI) sağlayıcılarını tek bir arayüz üzerinden…
+> Developed by Andrew Ng, aisuite integrates different generative AI providers through a single interface.
 
 **Source:** GitHub  
 **Stars:** 15888

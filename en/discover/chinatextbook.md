@@ -1,6 +1,6 @@
 # ChinaTextbook
 
-> ChinaTextbook deposu, ilkokuldan üniversite seviyesine kadar Çin eğitim müfredatında kullanılan ders kitaplarının taşınabilir…
+> ChinaTextbook repository is a portable collection of textbooks used in the Chinese education curriculum from primary school to university level…
 
 **Source:** GitHub  
 **Stars:** 76412

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Bir görüntüdeki veya videodaki yüzü, yapay zekâ kullanarak başka bir kişinin yüzüyle değiştirme işlemi.
+The process of replacing a face in an image or video with the face of another person using artificial intelligence.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/face-swapping/

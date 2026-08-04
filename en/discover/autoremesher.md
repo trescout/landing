@@ -1,6 +1,6 @@
 # Autoremesher
 
-> Autoremesher, üç boyutlu modellerdeki düzensiz yüzey yapılarını otomatik olarak dörtgen ağlara (quad remeshing) dönüştüren bir…
+> Autoremesher is a system that automatically transforms irregular surface structures in three-dimensional models into quad remeshing.
 
 **Source:** GitHub  
 **Stars:** 3087

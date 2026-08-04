@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâ ajanlarının belirli bir görevi yerine getirmek için kullandığı özel yetenekler veya araçlardır.
+They are special abilities or tools that artificial intelligence agents use to perform a specific task.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agent-skill/

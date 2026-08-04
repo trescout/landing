@@ -1,6 +1,6 @@
 # YimMenuV2
 
-> YimMenuV2, Grand Theft Auto 5: Enhanced sürümü için geliştirilen deneysel bir menü modifikasyonudur.
+> YimMenuV2 is an experimental menu modification developed for Grand Theft Auto 5: Enhanced edition.
 
 **Source:** GitHub  
 **Stars:** 1612

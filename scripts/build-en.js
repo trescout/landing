@@ -44,7 +44,7 @@ dictionary.forEach(t => {
   const enDir = path.join(ROOT, 'en', 'dictionary', slug);
   fs.mkdirSync(enDir, { recursive: true });
 
-  const desc = t.kisa || `${enTitle} definition and technical overview.`;
+  const desc = t.kisa_en || t.kisa || `${enTitle} definition and technical overview.`;
   const htmlContent = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -103,7 +103,7 @@ ${JSON.stringify({
 <h1 class="disc-title">What is <span class="disc-accent">${enTitle}</span>?</h1>
 ${full ? `<p class="dict-en">${full}</p>` : ''}
 <p class="disc-lead">${desc}</p>
-<section class="disc-sec"><h2>Technical Summary</h2><p>${desc}</p></section>
+<section class="disc-sec"><h2>Technical Overview</h2><p>${desc}</p></section>
 <aside class="disc-cta"><p><strong>Daily AI-Filtered Tech Radar.</strong> TreScout scans GitHub, Hacker News, and HuggingFace daily to bring you curated insights.</p><a class="btn btn-primary" href="/en/">Learn More</a></aside>
 </article>
 </main>
@@ -144,7 +144,7 @@ catalog.forEach(c => {
   const enDir = path.join(ROOT, 'en', 'discover', slug);
   fs.mkdirSync(enDir, { recursive: true });
 
-  const tagline = c.tagline || `${title} open-source repository overview.`;
+  const tagline = c.tagline_en || c.tagline || `${title} open-source repository overview.`;
   const htmlContent = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -216,9 +216,128 @@ ${JSON.stringify({
 
 console.log(`Generated ${enDiscCount} EN discover pages & markdown files.`);
 
-// 3. Update sitemap.xml with all new EN URLs
+// 3. Generate /en/dictionary/index.html
+const dictIndexDir = path.join(ROOT, 'en', 'dictionary');
+fs.mkdirSync(dictIndexDir, { recursive: true });
+
+const dictListItems = dictionary.map(t => {
+  const desc = t.kisa_en || t.kisa || '';
+  return `<li style="margin-bottom: 20px; padding: 15px; border: 1px solid #eee; border-radius: 8px;">
+    <h3 style="margin: 0 0 8px 0;"><a href="/en/dictionary/${t.slug}/" style="color: var(--color-primary, #1B4965); text-decoration: none;">${t.en}</a></h3>
+    <p style="margin: 0; color: #555; font-size: 0.95rem;">${desc}</p>
+  </li>`;
+}).join('\n');
+
+const dictIndexHtml = `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tech Dictionary · AI & Software Terms · TreScout</title>
+<meta name="description" content="Plain-language definitions of AI and software terms including RAG, Fine-tuning, LLM, MCP, and more.">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="canonical" href="${BASE_URL}/en/dictionary/">
+<link rel="alternate" hreflang="tr" href="${BASE_URL}/dictionary/">
+<link rel="alternate" hreflang="en" href="${BASE_URL}/en/dictionary/">
+<link rel="alternate" hreflang="x-default" href="${BASE_URL}/en/dictionary/">
+<meta property="og:title" content="Tech Dictionary · TreScout">
+<meta property="og:description" content="Plain-language definitions of AI and software terms.">
+<meta property="og:url" content="${BASE_URL}/en/dictionary/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css">
+<link rel="stylesheet" href="/assets/dictionary.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/dictionary/" class="btn btn-ghost">TR</a></div></div></nav>
+<main id="main">
+<div class="container" style="max-width:900px; margin:40px auto; padding:0 20px;">
+  <div style="margin-bottom: 40px; text-align: center;">
+    <span class="disc-eyebrow">Tech Dictionary</span>
+    <h1 style="font-size: 2.2rem; margin-top: 10px;">Clear Definitions for Modern Tech Terms</h1>
+    <p style="color: #666; font-size: 1.1rem; margin-top: 10px;">Understand key concepts in AI, Machine Learning, and Software Engineering.</p>
+  </div>
+  <ul style="list-style: none; padding: 0;">
+    ${dictListItems}
+  </ul>
+</div>
+</main>
+<footer class="footer"><div class="container footer-inner"><p>© 2026 TreScout · All rights reserved.</p></div></footer>
+</body>
+</html>`;
+fs.writeFileSync(path.join(dictIndexDir, 'index.html'), dictIndexHtml, 'utf8');
+console.log('Generated /en/dictionary/index.html');
+
+// 4. Generate /en/discover/index.html
+const discIndexDir = path.join(ROOT, 'en', 'discover');
+fs.mkdirSync(discIndexDir, { recursive: true });
+
+const discListItems = catalog.map(c => {
+  const tagline = c.tagline_en || c.tagline || '';
+  return `<li style="margin-bottom: 20px; padding: 15px; border: 1px solid #eee; border-radius: 8px;">
+    <h3 style="margin: 0 0 8px 0;"><a href="/en/discover/${c.slug}/" style="color: var(--color-primary, #1B4965); text-decoration: none;">${c.title}</a> <span style="font-size:0.85rem; color:#888; font-weight:normal;">★ ${c.stars || 0}</span></h3>
+    <p style="margin: 0; color: #555; font-size: 0.95rem;">${tagline}</p>
+  </li>`;
+}).join('\n');
+
+const discIndexHtml = `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Discover Open Source Projects · TreScout</title>
+<meta name="description" content="Daily curated highlights of open-source developer tools, AI projects, and trending GitHub repositories.">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="canonical" href="${BASE_URL}/en/discover/">
+<link rel="alternate" hreflang="tr" href="${BASE_URL}/discover/">
+<link rel="alternate" hreflang="en" href="${BASE_URL}/en/discover/">
+<link rel="alternate" hreflang="x-default" href="${BASE_URL}/en/discover/">
+<meta property="og:title" content="Discover Open Source Projects · TreScout">
+<meta property="og:description" content="Daily curated highlights of open-source developer tools and AI projects.">
+<meta property="og:url" content="${BASE_URL}/en/discover/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css">
+<link rel="stylesheet" href="/assets/discover.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/discover/" class="btn btn-ghost">TR</a></div></div></nav>
+<main id="main">
+<div class="container" style="max-width:900px; margin:40px auto; padding:0 20px;">
+  <div style="margin-bottom: 40px; text-align: center;">
+    <span class="disc-eyebrow">Discover</span>
+    <h1 style="font-size: 2.2rem; margin-top: 10px;">Trending Open Source Tools</h1>
+    <p style="color: #666; font-size: 1.1rem; margin-top: 10px;">Handpicked developer tools, AI frameworks, and GitHub repositories.</p>
+  </div>
+  <ul style="list-style: none; padding: 0;">
+    ${discListItems}
+  </ul>
+</div>
+</main>
+<footer class="footer"><div class="container footer-inner"><p>© 2026 TreScout · All rights reserved.</p></div></footer>
+</body>
+</html>`;
+fs.writeFileSync(path.join(discIndexDir, 'index.html'), discIndexHtml, 'utf8');
+console.log('Generated /en/discover/index.html');
+
+// 5. Update sitemap.xml with all new EN URLs
 let sm = fs.readFileSync(SITEMAP, 'utf8');
 let smLines = [];
+
+const indexEnUrls = [
+  `${BASE_URL}/en/dictionary/`,
+  `${BASE_URL}/en/discover/`
+];
+
+indexEnUrls.forEach(url => {
+  if (!sm.includes(url)) {
+    smLines.push(`  <url>\n    <loc>${url}</loc>\n    <lastmod>${TODAY}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.8</priority>\n  </url>`);
+  }
+});
 
 dictionary.forEach(t => {
   const url = `${BASE_URL}/en/dictionary/${t.slug}/`;

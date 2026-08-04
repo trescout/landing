@@ -1,6 +1,6 @@
 # K Skill
 
-> NomaDamas/k-skill, yapay zekâ ajanlarına (AI agents) kültürel bağlamda yerel yetenekler kazandırmak için tasarlanmış bir…
+> NomaDamas/k-skill is a platform designed to provide AI agents with local skills in a cultural context.
 
 **Source:** GitHub  
 **Stars:** 6780

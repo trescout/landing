@@ -1,6 +1,6 @@
 # Kilocode
 
-> Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur…
+> Kilo is an all-in-one agent-based engineering platform designed to accelerate software development processes…
 
 **Source:** GitHub  
 **Stars:** 26704

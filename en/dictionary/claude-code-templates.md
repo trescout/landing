@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâ destekli kodlama araçlarının belirli projeleri hızlıca başlatması için sunduğu hazır taslaklar.
+Ready-made drafts that AI-powered coding tools provide to quickly launch certain projects.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/claude-code-templates/

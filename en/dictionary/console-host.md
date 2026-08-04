@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayarda metin tabanlı komutların yazıldığı ve sonuçların görüntülendiği pencere ortamıdır.
+It is a window environment in which text-based commands are written on the computer and the results are displayed.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/console-host/

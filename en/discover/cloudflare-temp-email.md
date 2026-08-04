@@ -1,6 +1,6 @@
 # Cloudflare Temp Email
 
-> Cloudflare altyapısını kullanarak ücretsiz geçici e-posta (temporary email) hizmeti oluşturmayı sağlayan bu araç, e-posta alıp…
+> This tool, which allows you to create a free temporary email service using the Cloudflare infrastructure, allows you to receive and receive emails…
 
 **Source:** GitHub  
 **Stars:** 11156

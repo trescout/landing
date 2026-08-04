@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekayı insan geri bildirimleriyle eğiten bir iyileştirme sürecidir.
+It is an improvement process that trains artificial intelligence with human feedback.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/rlhf/

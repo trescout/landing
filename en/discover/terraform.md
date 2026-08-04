@@ -1,6 +1,6 @@
 # Terraform
 
-> HashiCorp tarafından geliştirilen Terraform, altyapıyı kod olarak (infrastructure as code) tanımlayarak güvenli ve…
+> Developed by HashiCorp, Terraform defines the infrastructure as code, providing a secure and…
 
 **Source:** GitHub  
 **Stars:** 49375

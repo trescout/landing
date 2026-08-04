@@ -1,6 +1,6 @@
 # UI-TARS-desktop
 
-> ByteDance tarafından geliştirilen UI-TARS, çok modlu yapay zekâ modellerini (multimodal AI models) masaüstü arayüzleriyle…
+> Developed by ByteDance, UI-TARS combines multimodal AI models with desktop interfaces.
 
 **Source:** GitHub  
 **Stars:** 38404

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Kendi başına karar verip görevleri yerine getiren otonom yapay zeka sistemidir.
+It is an autonomous artificial intelligence system that makes decisions and performs tasks on its own.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ai-agent/

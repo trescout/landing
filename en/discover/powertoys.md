@@ -1,6 +1,6 @@
 # PowerToys
 
-> Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştirmeyi artırmak amacıyla geliştirilen bir yardımcı…
+> Microsoft PowerToys is a utility developed to increase efficiency and personalization in the Windows operating system.
 
 **Source:** GitHub  
 **Stars:** 137392

@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Yapay zekâ ve grafik işleme gibi ağır matematiksel yükleri aynı anda parçalara bölerek çok hızlı çözen özel işlem birimi.
+A special processing unit that solves heavy mathematical loads such as artificial intelligence and graphics processing very quickly by dividing them into parts at the same time.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/gpu/

@@ -1,6 +1,6 @@
 # Supabase
 
-> Supabase, web, mobil ve yapay zekâ uygulamaları geliştirmek için Postgres veritabanı (Postgres database) altyapısı sunan bir…
+> Supabase is a Postgres database infrastructure that provides Postgres database infrastructure for developing web, mobile and artificial intelligence applications.
 
 **Source:** GitHub  
 **Stars:** 107399

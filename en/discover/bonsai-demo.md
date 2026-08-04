@@ -1,6 +1,6 @@
 # Bonsai-demo
 
-> Bonsai demo projesi, makine öğrenimi (machine learning) modellerinin dağıtım süreçlerini basitleştirmek için tasarlanmış bir…
+> The Bonsai demo project is a project designed to simplify the deployment processes of machine learning models.
 
 **Source:** GitHub  
 **Stars:** 1587

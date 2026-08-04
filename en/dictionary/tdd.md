@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Önce yazılacak kodun testini hazırlayıp, ardından bu testi geçecek kadar kod yazmayı esas alan geliştirme yöntemidir.
+It is a development method based on first preparing the test of the code to be written and then writing enough code to pass this test.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/tdd/

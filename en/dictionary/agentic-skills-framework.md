@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâların bağımsız hareket etme ve araç kullanma yeteneklerini geliştirmek için kullanılan kurallar bütünüdür.
+It is a set of rules used to improve the ability of artificial intelligence to act independently and use vehicles.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agentic-skills-framework/

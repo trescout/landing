@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Kişisel dosyaların internet üzerinden her yerden erişilebilecek şekilde özel bir alanda saklanmasıdır.
+It is the storage of personal files in a private area that can be accessed from anywhere over the internet.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/personal-cloud/

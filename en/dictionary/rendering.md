@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayarın ham verileri işleyerek ekranda gördüğümüz görsel veya grafik haline getirme süreci.
+The process of a computer processing raw data and turning it into a visual or graphic that we see on the screen.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/rendering/

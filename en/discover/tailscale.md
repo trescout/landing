@@ -1,6 +1,6 @@
 # Tailscale
 
-> Tailscale, WireGuard protokolünü iki faktörlü kimlik doğrulama (two-factor authentication) ile birleştirerek güvenli ağ…
+> Tailscale provides secure networking by combining the WireGuard protocol with two-factor authentication.
 
 **Source:** GitHub  
 **Stars:** 34778

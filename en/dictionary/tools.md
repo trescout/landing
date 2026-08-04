@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılımların belirli işlemleri gerçekleştirmek için dış dünyayla etkileşime girmesini sağlayan yardımcı fonksiyonlar veya araçlardır.
+They are auxiliary functions or tools that enable software to interact with the outside world to perform certain operations.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/tools/

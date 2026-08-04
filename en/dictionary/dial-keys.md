@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Eski telefonlarda numara çevirmek için kullanılan, döndürülerek çalışan mekanik tuş takımıdır.
+It is a rotating mechanical keypad used to dial numbers on old phones.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/dial-keys/

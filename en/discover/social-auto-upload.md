@@ -1,6 +1,6 @@
 # social-auto-upload
 
-> Videolarınızı TikTok, YouTube ve Bilibili gibi platformlara otomatik olarak yükleyin.
+> Automatically upload your videos to platforms like TikTok, YouTube and Bilibili.
 
 **Source:** GitHub  
 **Stars:** 13937

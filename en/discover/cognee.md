@@ -1,6 +1,6 @@
 # Cognee
 
-> Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (long-term memory) sağlayan açık kaynaklı bir platformdur.
+> Cognee is an open source platform that provides long-term memory between sessions to artificial intelligence agents.
 
 **Source:** GitHub  
 **Stars:** 29692

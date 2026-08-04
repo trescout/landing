@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zeka araçlarının insan müdahalesi olmadan kendi kararlarını verip bir işi uçtan uca tamamlamasıdır.
+Artificial intelligence tools make their own decisions and complete a job end-to-end without human intervention.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agentic-workflows/

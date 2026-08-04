@@ -1,6 +1,6 @@
 # Hallmark
 
-> Hallmark, yapay zekâ tarafından üretilen standart içeriklerin (AI slop) tasarım üzerindeki etkisini azaltmak amacıyla…
+> Hallmark aims to reduce the impact of standard content produced by artificial intelligence (AI slop) on design…
 
 **Source:** GitHub  
 **Stars:** 20791

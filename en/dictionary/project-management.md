@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Belirli bir hedefi gerçekleştirmek için zaman, kaynak ve görevlerin planlanması ve yönetilmesidir.
+It is the planning and management of time, resources and tasks to achieve a specific goal.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/project-management/

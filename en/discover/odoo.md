@@ -1,6 +1,6 @@
 # Odoo
 
-> Odoo, işletmelerin tüm operasyonel süreçlerini tek bir çatı altında yönetmelerini sağlayan açık kaynaklı bir kurumsal kaynak…
+> Odoo is an open source enterprise resource that allows businesses to manage all their operational processes under one roof.
 
 **Source:** GitHub  
 **Stars:** 52082

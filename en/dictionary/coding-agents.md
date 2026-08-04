@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yazılımcı gibi davranarak kod yazabilen, hata ayıklayabilen ve projeleri yönetebilen otonom yapay zekâ programlarıdır.
+They are autonomous artificial intelligence programs that can write code, debug and manage projects by acting like a programmer.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/coding-agents/

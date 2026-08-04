@@ -1,6 +1,6 @@
 # CasaOS
 
-> CasaOS, Docker tabanlı uygulamaları yönetmeyi kolaylaştıran açık kaynaklı bir kişisel bulut sistemi (personal cloud system)…
+> CasaOS is an open source personal cloud system that makes it easier to manage Docker-based applications.
 
 **Source:** GitHub  
 **Stars:** 36953

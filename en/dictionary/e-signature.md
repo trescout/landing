@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Dijital belgelerin yasal olarak imzalanmasını ve kimlik doğrulanmasını sağlayan elektronik yöntemdir.
+It is an electronic method that allows digital documents to be legally signed and authenticated.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/e-signature/

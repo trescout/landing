@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Bir ortamda insan varlığını sensörler veya yazılım yardımıyla tespit eden teknolojidir.
+It is a technology that detects human presence in an environment with the help of sensors or software.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/presence-detection/

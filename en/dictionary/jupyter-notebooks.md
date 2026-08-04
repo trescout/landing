@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Kod yazarken notlar alabileceğiniz ve sonuçları anında görebileceğiniz etkileşimli bir çalışma ortamıdır.
+It is an interactive work environment where you can take notes while writing code and see the results instantly.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/jupyter-notebooks/

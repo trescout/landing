@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayar kapandığında bile içindeki bilgileri koruyan, sadece okunabilen kalıcı bellek türüdür.
+It is a type of read-only permanent memory that preserves the information inside even when the computer is turned off.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/rom/

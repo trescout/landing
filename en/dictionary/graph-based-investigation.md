@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Veriler arasındaki ilişkileri bir ağ haritası üzerinde görselleştirerek, gizli bağlantıları keşfetme yöntemidir.
+It is a method of discovering hidden connections by visualizing the relationships between data on a network map.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/graph-based-investigation/

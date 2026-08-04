@@ -5,7 +5,7 @@
 **Category:** data
 
 ## Overview
-Görsel haldeki metinleri bilgisayarın düzenleyebileceği dijital yazıya dönüştüren teknoloji.
+Technology that converts visual texts into digital text that can be edited by a computer.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/optical-character-recognition/

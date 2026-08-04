@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Yazılımın nasıl davranması gerektiğini herkesin anlayabileceği basit cümlelerle tanımlayarak geliştirme süreci.
+The development process of defining how software should behave in simple sentences that everyone can understand.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/bdd/

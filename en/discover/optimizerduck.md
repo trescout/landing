@@ -1,6 +1,6 @@
 # optimizerDuck
 
-> C# diliyle geliştirilen optimizerDuck, Windows işletim sistemlerinde performans artışı ve gizlilik odaklı yapılandırmalar…
+> Developed with C# language, optimizerDuck provides performance increase and privacy-oriented configurations in Windows operating systems…
 
 **Source:** GitHub  
 **Stars:** 7672

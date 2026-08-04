@@ -5,7 +5,7 @@
 **Category:** data
 
 ## Overview
-Ham verileri anlamlı raporlara dönüştürerek iş kararlarını destekleyen analiz araçlarıdır.
+They are analysis tools that support business decisions by transforming raw data into meaningful reports.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/bi/

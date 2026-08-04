@@ -1,6 +1,6 @@
 # Iptv
 
-> Dünya genelindeki halka açık televizyon kanallarını tek bir merkezde toplayan iptv-org projesi, internet protokolü üzerinden…
+> The iptv-org project, which gathers public television channels around the world in a single center, is available via internet protocol…
 
 **Source:** GitHub  
 **Stars:** 134991

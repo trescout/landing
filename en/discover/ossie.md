@@ -1,6 +1,6 @@
 # Ossie
 
-> Apache Ossie, analitik, yapay zekâ ve iş zekâsı (BI) platformları arasında anlamsal üst veri (semantic metadata) değişimini…
+> Apache Ossie enables semantic metadata exchange between analytics, artificial intelligence and business intelligence (BI) platforms.
 
 **Source:** GitHub  
 **Stars:** 997

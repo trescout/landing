@@ -1,6 +1,6 @@
 # WrenAI
 
-> Canner tarafından geliştirilen WrenAI, doğal dili veritabanı sorgularına (text-to-SQL) dönüştürerek verileri otomatik olarak…
+> Developed by Canner, WrenAI automatically converts data into database queries (text-to-SQL).
 
 **Source:** GitHub  
 **Stars:** 16780

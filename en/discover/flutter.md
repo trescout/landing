@@ -1,6 +1,6 @@
 # Flutter
 
-> Google tarafından geliştirilen Flutter, tek bir kod tabanı kullanarak mobil, web ve masaüstü platformları için hızlı bir…
+> Developed by Google, Flutter is a fast application for mobile, web and desktop platforms using a single code base.
 
 **Source:** GitHub  
 **Stars:** 178068

@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Cihazların kabloya ihtiyaç duymadan radyo dalgaları aracılığıyla internete bağlanmasını sağlayan teknolojidir.
+It is the technology that allows devices to connect to the internet via radio waves without the need for cables.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/wifi/

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Bir kişinin veya yapay zekânın belirli bir işi veya görevi yerine getirmek için sahip olduğu yetenekler bütünüdür.
+It is the set of abilities that a person or artificial intelligence has to perform a specific job or task.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/skill-sets/

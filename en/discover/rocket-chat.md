@@ -1,6 +1,6 @@
 # Rocket.Chat
 
-> Rocket.Chat, görev kritik operasyonlar için tasarlanmış güvenli bir iletişim işletim sistemi (communications operating system)…
+> Rocket.Chat is a secure communications operating system designed for mission-critical operations.
 
 **Source:** GitHub  
 **Stars:** 45919

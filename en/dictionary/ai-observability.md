@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâ sistemlerinin iç dünyasını izleyerek nasıl karar verdiğini ve nerede hata yaptığını takip etme sürecidir.
+It is the process of tracking how artificial intelligence systems make decisions and where they make mistakes by monitoring their inner world.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ai-observability/

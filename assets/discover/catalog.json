@@ -24,7 +24,8 @@
         "surum_tarihi": "2026-07-10",
         "tasindi": "Egonex-AI/Understand-Anything"
       }
-    ]
+    ],
+    "tagline_en": "Make your codes or documents interactive with artificial intelligence."
   },
   {
     "slug": "ecc",
@@ -49,7 +50,8 @@
         "surum": "v2.1.0",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "tagline_en": "Add a layer of skill, memory and security to AI agents like Claude Code, Codex and Cursor."
   },
   {
     "slug": "ai-engineering-from-scratch",
@@ -74,7 +76,8 @@
         "surum": "v2026.07",
         "surum_tarihi": "2026-07-25"
       }
-    ]
+    ],
+    "tagline_en": "A free 485-lesson course that teaches artificial intelligence engineering from scratch with applied coding."
   },
   {
     "slug": "knowledge-work-plugins",
@@ -98,7 +101,8 @@
         "yildiz": 23222,
         "onceki_yildiz": 16517
       }
-    ]
+    ],
+    "tagline_en": "Open source plugins that turn Claude into an expert assistant."
   },
   {
     "slug": "anthropic-cybersecurity-skills",
@@ -123,7 +127,8 @@
         "surum": "v1.3.0",
         "surum_tarihi": "2026-06-22"
       }
-    ]
+    ],
+    "tagline_en": "754 ready-made cybersecurity skills for AI agents · Anthropic unofficial."
   },
   {
     "slug": "stop-slop",
@@ -147,7 +152,8 @@
         "yildiz": 14843,
         "onceki_yildiz": 4876
       }
-    ]
+    ],
+    "tagline_en": "A skill that removes artificial expression patterns in texts produced by artificial intelligence."
   },
   {
     "slug": "taste-skill",
@@ -170,7 +176,8 @@
         "yildiz": 69955,
         "onceki_yildiz": 21137
       }
-    ]
+    ],
+    "tagline_en": "The skill that gives a professional aesthetic touch to interfaces designed by artificial intelligence."
   },
   {
     "slug": "free-domain",
@@ -193,7 +200,8 @@
         "yildiz": 190061,
         "onceki_yildiz": 166947
       }
-    ]
+    ],
+    "tagline_en": "Free domain names where you can set up your web identity at no cost."
   },
   {
     "slug": "jellyfin",
@@ -218,7 +226,8 @@
         "surum": "v10.11.11",
         "surum_tarihi": "2026-06-06"
       }
-    ]
+    ],
+    "tagline_en": "Free media server that brings your movie, TV series and music collection to all your devices."
   },
   {
     "slug": "awesome-free-apps",
@@ -241,7 +250,8 @@
         "yildiz": 7106,
         "onceki_yildiz": 5121
       }
-    ]
+    ],
+    "tagline_en": "Carefully selected best free applications for computer and mobile devices."
   },
   {
     "slug": "twenty",
@@ -266,7 +276,8 @@
         "surum": "twenty/v2.26.0",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "An open source, AI-driven and modern alternative to Salesforce."
   },
   {
     "slug": "openstock",
@@ -289,7 +300,8 @@
         "yildiz": 14018,
         "onceki_yildiz": 11968
       }
-    ]
+    ],
+    "tagline_en": "Open source, real-time alternative to expensive exchange platforms."
   },
   {
     "slug": "claude-mem",
@@ -328,7 +340,8 @@
         "surum": "v13.13.1",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Persistent memory for your AI agent: Remembers cross-session context and is set up with a single command."
   },
   {
     "slug": "ppf-contact-solver",
@@ -359,7 +372,8 @@
         "surum": "addon-2026-08-03-0714",
         "surum_tarihi": "2026-08-02"
       }
-    ]
+    ],
+    "tagline_en": "Contact solver for physics simulations: ZOZO's physics engine for fabric, solid and rope interactions."
   },
   {
     "slug": "moneyprinterturbo",
@@ -384,7 +398,8 @@
         "surum": "v1.3.3",
         "surum_tarihi": "2026-07-24"
       }
-    ]
+    ],
+    "tagline_en": "Enter a topic and AI will produce short videos with subtitles with one click."
   },
   {
     "slug": "heretic",
@@ -408,7 +423,8 @@
         "surum": "v1.4.0",
         "surum_tarihi": "2026-06-14"
       }
-    ]
+    ],
+    "tagline_en": "Advanced tool that removes security restrictions in language models."
   },
   {
     "slug": "kronos",
@@ -430,7 +446,8 @@
         "yildiz": 35441,
         "onceki_yildiz": 26888
       }
-    ]
+    ],
+    "tagline_en": "An open source basic model developed to decipher the language of financial markets."
   },
   {
     "slug": "claude-code-harness",
@@ -455,7 +472,8 @@
         "surum": "v5.6.0",
         "surum_tarihi": "2026-08-01"
       }
-    ]
+    ],
+    "tagline_en": "A disciplined 'Plan, Do, Review' cycle for Claude Code."
   },
   {
     "slug": "superpowers",
@@ -480,7 +498,8 @@
         "surum": "v6.2.0",
         "surum_tarihi": "2026-07-24"
       }
-    ]
+    ],
+    "tagline_en": "Composite skills and software development methodology for coding agents."
   },
   {
     "slug": "english-level-up-tips",
@@ -504,7 +523,8 @@
         "onceki_yildiz": 46723,
         "tasindi": "byoungd/up"
       }
-    ]
+    ],
+    "tagline_en": "A comprehensive and extraordinary learning guide for advanced English."
   },
   {
     "slug": "iii",
@@ -528,7 +548,8 @@
         "surum": "iii/v0.22.0",
         "surum_tarihi": "2026-07-22"
       }
-    ]
+    ],
+    "tagline_en": "Install, extend and monitor all your services in real time."
   },
   {
     "slug": "airi",
@@ -553,7 +574,8 @@
         "surum": "v0.11.3",
         "surum_tarihi": "2026-07-18"
       }
-    ]
+    ],
+    "tagline_en": "AI character hosted on your own server, capable of voice chat and playing games."
   },
   {
     "slug": "markitdown",
@@ -578,7 +600,8 @@
         "surum": "v0.1.7",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "Converts Word, PDF, Excel and PowerPoint documents into AI-friendly Markdown format · Microsoft."
   },
   {
     "slug": "harness",
@@ -601,7 +624,8 @@
         "yildiz": 8581,
         "onceki_yildiz": 4063
       }
-    ]
+    ],
+    "tagline_en": "Meta-skill designing domain-specific AI agent teams for Claude Code."
   },
   {
     "slug": "build-your-own-x",
@@ -624,7 +648,8 @@
         "yildiz": 534641,
         "onceki_yildiz": 506894
       }
-    ]
+    ],
+    "tagline_en": "Learn technologies such as database, operating system, Git and Docker by building them from scratch."
   },
   {
     "slug": "crawl4ai",
@@ -649,7 +674,8 @@
         "surum": "v0.9.2",
         "surum_tarihi": "2026-07-15"
       }
-    ]
+    ],
+    "tagline_en": "LLM-friendly open source web browser: transform web data into clean information for AI."
   },
   {
     "slug": "moss-tts",
@@ -671,7 +697,8 @@
         "yildiz": 3939,
         "onceki_yildiz": 2440
       }
-    ]
+    ],
+    "tagline_en": "A high-quality and open-source text-to-speech (TTS) model family."
   },
   {
     "slug": "compound-engineering-plugin",
@@ -703,7 +730,8 @@
         "surum": "compound-engineering-v3.21.1",
         "surum_tarihi": "2026-08-04"
       }
-    ]
+    ],
+    "tagline_en": "AI-powered engineering plugin (Claude Code/Codex/Cursor) where each job makes the next one easier."
   },
   {
     "slug": "anthropic-skills",
@@ -726,7 +754,8 @@
         "yildiz": 165785,
         "onceki_yildiz": 143307
       }
-    ]
+    ],
+    "tagline_en": "Anthropic's official Agent Skills repository: Claude's dynamically loaded skill packs."
   },
   {
     "slug": "claude-code",
@@ -758,7 +787,8 @@
         "surum": "v2.1.221",
         "surum_tarihi": "2026-08-04"
       }
-    ]
+    ],
+    "tagline_en": "AI agent coding tool (product from Anthropic) that runs in the terminal and understands your codebase."
   },
   {
     "slug": "cursor-plugins",
@@ -780,7 +810,8 @@
         "yildiz": 2515,
         "onceki_yildiz": 1403
       }
-    ]
+    ],
+    "tagline_en": "Official plugin specification and ready-made plugins for the Cursor code editor."
   },
   {
     "slug": "voxcpm",
@@ -804,7 +835,8 @@
         "surum": "2.0.3",
         "surum_tarihi": "2026-05-11"
       }
-    ]
+    ],
+    "tagline_en": "Tokenizer-free multilingual TTS: audio design and audio transcription solution."
   },
   {
     "slug": "stable-worldmodel",
@@ -828,7 +860,8 @@
         "surum": "0.1.1",
         "surum_tarihi": "2026-06-06"
       }
-    ]
+    ],
+    "tagline_en": "A reproducible platform for world model research."
   },
   {
     "slug": "project-nomad",
@@ -860,7 +893,8 @@
         "surum": "v1.34.0",
         "surum_tarihi": "2026-08-04"
       }
-    ]
+    ],
+    "tagline_en": "Offline survival computer that works without internet and is equipped with critical tools and knowledge."
   },
   {
     "slug": "liteparse",
@@ -891,7 +925,8 @@
         "surum": "docker-v2.11.0",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Fast and open source document parser developed with Rust."
   },
   {
     "slug": "flclash",
@@ -916,7 +951,8 @@
         "surum": "v0.8.94",
         "surum_tarihi": "2026-07-11"
       }
-    ]
+    ],
+    "tagline_en": "Multi-platform, ad-free and open source proxy client based on ClashMeta."
   },
   {
     "slug": "train-llm-from-scratch",
@@ -939,7 +975,8 @@
         "yildiz": 8864,
         "onceki_yildiz": 2086
       }
-    ]
+    ],
+    "tagline_en": "From dataset to text generation, the comprehensive guide to training an LLM from scratch."
   },
   {
     "slug": "ruview",
@@ -970,7 +1007,8 @@
         "surum": "v2146",
         "surum_tarihi": "2026-08-02"
       }
-    ]
+    ],
+    "tagline_en": "Turn ordinary WiFi signals into real-time spatial intelligence without a camera."
   },
   {
     "slug": "data-engineering-zoomcamp",
@@ -993,7 +1031,8 @@
         "yildiz": 44237,
         "onceki_yildiz": 41734
       }
-    ]
+    ],
+    "tagline_en": "Free 9-week training program that teaches you how to set up production-ready data pipelines."
   },
   {
     "slug": "social-auto-upload",
@@ -1017,7 +1056,8 @@
         "surum": "oh-v1.0",
         "surum_tarihi": "2024-04-10"
       }
-    ]
+    ],
+    "tagline_en": "Automatically upload your videos to platforms like TikTok, YouTube and Bilibili."
   },
   {
     "slug": "scrapling",
@@ -1041,7 +1081,8 @@
         "surum": "v0.4.12",
         "surum_tarihi": "2026-07-26"
       }
-    ]
+    ],
+    "tagline_en": "Adaptive web scraping framework from single requests to comprehensive scans."
   },
   {
     "slug": "hermes-webui",
@@ -1066,7 +1107,8 @@
         "surum": "v0.52.106",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "Easily manage your Hermes AI agents from your web browser or mobile device."
   },
   {
     "slug": "github-docs",
@@ -1091,7 +1133,8 @@
         "surum": "v1.0.1",
         "surum_tarihi": "2023-02-14"
       }
-    ]
+    ],
+    "tagline_en": "Open source repository of GitHub's official documentation."
   },
   {
     "slug": "supermemory",
@@ -1116,7 +1159,8 @@
         "surum": "server-v0.0.6",
         "surum_tarihi": "2026-07-19"
       }
-    ]
+    ],
+    "tagline_en": "Scalable memory engine and API designed for the age of artificial intelligence."
   },
   {
     "slug": "babysitter",
@@ -1141,7 +1185,8 @@
         "surum": "v0.0.188",
         "surum_tarihi": "2026-06-26"
       }
-    ]
+    ],
+    "tagline_en": "Deterministic control mechanism to manage AI agent workforce without errors."
   },
   {
     "slug": "pi-subagents",
@@ -1166,7 +1211,8 @@
         "surum": "v0.40.0",
         "surum_tarihi": "2026-08-01"
       }
-    ]
+    ],
+    "tagline_en": "TypeScript library for asynchronous sub-agent delegation on the Pi platform."
   },
   {
     "slug": "developer-portfolios",
@@ -1189,7 +1235,8 @@
         "yildiz": 25746,
         "onceki_yildiz": 23623
       }
-    ]
+    ],
+    "tagline_en": "A collection of developer portfolio examples to get inspiration for your own site."
   },
   {
     "slug": "impeccable",
@@ -1215,7 +1262,8 @@
         "surum": "ext-v1.3.1",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Impeccable is a design language developed to improve the design outputs of artificial intelligence models."
   },
   {
     "slug": "tradingagents",
@@ -1241,7 +1289,8 @@
         "surum": "v0.3.1",
         "surum_tarihi": "2026-07-05"
       }
-    ]
+    ],
+    "tagline_en": "TradingAgents is based on the multi-agent large language model (multi-agent LLM) developed for the purpose of trading in financial markets."
   },
   {
     "slug": "godot",
@@ -1286,7 +1335,8 @@
         "surum": "4.7.1-stable",
         "surum_tarihi": "2026-07-14"
       }
-    ]
+    ],
+    "tagline_en": "Godot Engine (Godot Engine) is an open source game engine used for two- and three-dimensional game development processes."
   },
   {
     "slug": "oh-my-pi",
@@ -1326,7 +1376,8 @@
         "surum": "v17.2.7",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Oh-my-pi is an artificial intelligence coding agent (AI coding…) that runs in a terminal environment and automates code editing processes."
   },
   {
     "slug": "machine-learning-for-trading",
@@ -1361,7 +1412,8 @@
         "surum": "v3.0.0-artifacts",
         "surum_tarihi": "2026-07-24"
       }
-    ]
+    ],
+    "tagline_en": "This resource, prepared by Stefan Jansen, is for machine learning applications in algorithmic trading."
   },
   {
     "slug": "fff",
@@ -1387,7 +1439,8 @@
         "surum": "v0.10.1",
         "surum_tarihi": "2026-07-20"
       }
-    ]
+    ],
+    "tagline_en": "Developed with Rust, fff provides file searches with high speed and accuracy for artificial intelligence agents and text editors."
   },
   {
     "slug": "headroom",
@@ -1403,7 +1456,8 @@
     ],
     "stars": 7746,
     "lite": false,
-    "headline": "yapay zekâ çıktılarınızı analiz edin"
+    "headline": "yapay zekâ çıktılarınızı analiz edin",
+    "tagline_en": "Headroom contains log files, tool outputs, and contextual data pieces (RAG…) sent to large language models (LLM)."
   },
   {
     "slug": "flowsint",
@@ -1428,7 +1482,8 @@
         "surum": "v1.2.11",
         "surum_tarihi": "2026-07-01"
       }
-    ]
+    ],
+    "tagline_en": "Flowsint is a visual, flexible and extensible graph-based analysis tool for cybersecurity analysts and researchers."
   },
   {
     "slug": "production-agentic-rag-course",
@@ -1454,7 +1509,8 @@
         "surum": "week7.0",
         "surum_tarihi": "2025-11-26"
       }
-    ]
+    ],
+    "tagline_en": "Production-agent-rag-course is an agent-based fetching process that automates the processes of fetching information from complex data sources."
   },
   {
     "slug": "open-llm-vtuber",
@@ -1495,7 +1551,8 @@
         "surum": "v1.2.1",
         "surum_tarihi": "2025-08-26"
       }
-    ]
+    ],
+    "tagline_en": "Open-LLM-VTuber enables hands-free voice interaction with large language models and live two-dimensional…"
   },
   {
     "slug": "trivy",
@@ -1510,7 +1567,8 @@
     ],
     "stars": 35511,
     "lite": false,
-    "headline": "Konteyner ve Bulut Güvenliğinizi yapay zekâ ile Koruyun"
+    "headline": "Konteyner ve Bulut Güvenliğinizi yapay zekâ ile Koruyun",
+    "tagline_en": "Trivy detects vulnerabilities, misconfigurations, and secrets in containers, Kubernetes clusters, and cloud infrastructures."
   },
   {
     "slug": "hermes-agent",
@@ -1543,7 +1601,8 @@
         "surum": "v2026.8.3",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Developed by NousResearch, Hermes Agent is an autonomous agent that evolves over time by learning through user interactions."
   },
   {
     "slug": "opendataloader-pdf",
@@ -1569,7 +1628,8 @@
         "surum": "v2.5.0",
         "surum_tarihi": "2026-07-14"
       }
-    ]
+    ],
+    "tagline_en": "OpenDataLoader PDF is an open source PDF parser that makes data available for artificial intelligence models."
   },
   {
     "slug": "odoo",
@@ -1585,7 +1645,8 @@
     "stars": 52082,
     "lite": false,
     "headline": "İş süreçlerinizi yapay zekâ ile yönetin",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Odoo is an open source enterprise resource that allows businesses to manage all their operational processes under one roof."
   },
   {
     "slug": "coding-interview-university",
@@ -1601,7 +1662,8 @@
     "stars": 349290,
     "lite": false,
     "headline": "Yazılım mülakatlarına yapay zekâ desteğiyle hazırlanın",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Coding-interview-university provides the basics of computer science for those who want to become software engineers…"
   },
   {
     "slug": "airllm",
@@ -1634,7 +1696,8 @@
         "surum": "v3.1.0",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "AirLLM is a graphical solution for large language models with 70 billion parameters, with only 4 GB video memory (VRAM)."
   },
   {
     "slug": "vibe-trading",
@@ -1660,7 +1723,8 @@
         "surum": "v0.1.12",
         "surum_tarihi": "2026-07-22"
       }
-    ]
+    ],
+    "tagline_en": "Vibe-Trading offers a personal trading agent developed for trading in financial markets."
   },
   {
     "slug": "paddleocr",
@@ -1696,7 +1760,8 @@
         "surum": "v3.7.0",
         "surum_tarihi": "2026-06-11"
       }
-    ]
+    ],
+    "tagline_en": "Developed by PaddlePaddle, PaddleOCR is a powerful tool for processing PDF and visual documents using large language models."
   },
   {
     "slug": "spec-kit",
@@ -1728,7 +1793,8 @@
         "surum": "v0.15.2",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Published by GitHub, spec-kit is a tool required to start specification-driven development processes."
   },
   {
     "slug": "cosmos",
@@ -1754,7 +1820,8 @@
         "surum": "Cosmos3",
         "surum_tarihi": "2026-06-01"
       }
-    ]
+    ],
+    "tagline_en": "Developed by NVIDIA, Cosmos is a world model for physical systems such as robots and autonomous vehicles."
   },
   {
     "slug": "open-notebook",
@@ -1780,7 +1847,8 @@
         "surum": "v1.14.0",
         "surum_tarihi": "2026-07-21"
       }
-    ]
+    ],
+    "tagline_en": "Open-notebook offers an open-source alternative to Google NotebookLM, allowing users to exercise control over their own data."
   },
   {
     "slug": "copilot-sdk",
@@ -1815,7 +1883,8 @@
         "surum": "rust/v1.0.8",
         "surum_tarihi": "2026-07-22"
       }
-    ]
+    ],
+    "tagline_en": "GitHub Copilot SDK allows developers to integrate GitHub Copilot AI agents into their applications and services."
   },
   {
     "slug": "openclaw-windows-node",
@@ -1840,7 +1909,8 @@
         "surum": "v0.6.12",
         "surum_tarihi": "2026-06-30"
       }
-    ]
+    ],
+    "tagline_en": "OpenClaw Windows node, system tray application, shared library and PowerToys command palette extension…"
   },
   {
     "slug": "last30days-skill",
@@ -1866,7 +1936,8 @@
         "surum": "v3.18.4",
         "surum_tarihi": "2026-07-28"
       }
-    ]
+    ],
+    "tagline_en": "Last30days-skill obtains current data by researching on platforms such as Reddit, X, YouTube, Hacker News and Polymarket."
   },
   {
     "slug": "copilotkit",
@@ -1906,7 +1977,8 @@
         "surum": "angular/v0.3.1",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "CopilotKit is a React and Angular-based frontend for developing artificial intelligence agents and generative UIs."
   },
   {
     "slug": "agent-reach",
@@ -1951,7 +2023,8 @@
         "surum": "v1.5.0",
         "surum_tarihi": "2026-06-11"
       }
-    ]
+    ],
+    "tagline_en": "Agent-Reach is a command line interface that gives artificial intelligence agents the ability to scan the entire internet and read content."
   },
   {
     "slug": "mirofish",
@@ -1976,7 +2049,8 @@
         "surum": "v0.1.2",
         "surum_tarihi": "2026-03-07"
       }
-    ]
+    ],
+    "tagline_en": "MiroFish is a simple and universal swarm intelligence engine developed to predict various types of data."
   },
   {
     "slug": "plugins",
@@ -2000,7 +2074,8 @@
         "yildiz": 4881,
         "onceki_yildiz": 1596
       }
-    ]
+    ],
+    "tagline_en": "OpenAI plugins allow language models to access current data and interact with third-party applications."
   },
   {
     "slug": "mempalace",
@@ -2026,7 +2101,8 @@
         "surum": "v3.6.0",
         "surum_tarihi": "2026-07-17"
       }
-    ]
+    ],
+    "tagline_en": "MemPalace offers an open source memory system for artificial intelligence models."
   },
   {
     "slug": "flue",
@@ -2050,7 +2126,8 @@
         "yildiz": 7625,
         "onceki_yildiz": 4594
       }
-    ]
+    ],
+    "tagline_en": "Developed by the Astro team, Flue is a TypeScript-based sandbox agent framework."
   },
   {
     "slug": "personal-ai-infrastructure",
@@ -2066,7 +2143,8 @@
     ],
     "stars": 15080,
     "lite": false,
-    "headline": "Kişisel yapay zekâ altyapınızı kurun"
+    "headline": "Kişisel yapay zekâ altyapınızı kurun",
+    "tagline_en": "Personal artificial intelligence infrastructure (Personal AI Infrastructure) is an agent-based technology designed to increase human capabilities."
   },
   {
     "slug": "svelte",
@@ -2102,7 +2180,8 @@
         "surum": "svelte@5.56.8",
         "surum_tarihi": "2026-07-24"
       }
-    ]
+    ],
+    "tagline_en": "Unlike traditional frameworks, Svelte is a compile-time application that reduces the runtime load on the browser."
   },
   {
     "slug": "nginx",
@@ -2127,7 +2206,8 @@
         "surum": "release-1.31.3",
         "surum_tarihi": "2026-07-15"
       }
-    ]
+    ],
+    "tagline_en": "NGINX is an open source code repository, a high-performance web server and reverse proxy, based on the C language."
   },
   {
     "slug": "go",
@@ -2157,7 +2237,8 @@
       "kaynak": "go.dev/doc/install (resmî) · veya go.dev/dl'den indirin"
     },
     "trescout_notu": "Yazdığınız program tek bir dosya olarak çıkar, o dosyayı sunucuya kopyalayıp çalıştırırsınız, yanına başka bir şey kurmanız gerekmez. Karşılığında dil kasıtlı olarak sade tutulmuş: Aynı hata kontrolünü tekrar tekrar yazarsınız. Sunucu servisi ve komut satırı aracı yazmak için iyi, karmaşık iş kurallarını modellemek için zorlar.",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Go programming language developed by Google is used to create high-performance and scalable software."
   },
   {
     "slug": "career-ops",
@@ -2183,7 +2264,8 @@
         "surum": "career-ops-v1.24.0",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Using the Claude Code infrastructure, career-ops offers artificial intelligence-supported job search processes with 14 different skill modes."
   },
   {
     "slug": "whisper",
@@ -2209,7 +2291,8 @@
         "surum": "v20250625",
         "surum_tarihi": "2025-06-26"
       }
-    ]
+    ],
+    "tagline_en": "Developed by OpenAI, Whisper is a program trained using large-scale weak supervision learning method."
   },
   {
     "slug": "vite",
@@ -2244,7 +2327,8 @@
         "surum": "create-vite@9.1.2",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Vite offers a fast development environment and build tool for modern web projects."
   },
   {
     "slug": "mxc",
@@ -2260,7 +2344,8 @@
     "stars": 641,
     "lite": false,
     "headline": "yapay zekâ ile güvenli sistem yalıtımı",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Developed by Microsoft, MXC is a policy-based, layered isolation and containerization system written in Rust."
   },
   {
     "slug": "vibevoice",
@@ -2304,7 +2389,8 @@
         "yildiz": 51860,
         "onceki_yildiz": 48569
       }
-    ]
+    ],
+    "tagline_en": "Published by Microsoft, VibeVoice was developed as an open source voice AI framework."
   },
   {
     "slug": "opencv",
@@ -2340,7 +2426,8 @@
         "surum": "5.0.0",
         "surum_tarihi": "2026-06-06"
       }
-    ]
+    ],
+    "tagline_en": "OpenCV, an open source computer vision library, is an application for image processing and machine learning."
   },
   {
     "slug": "aitoearn",
@@ -2366,7 +2453,8 @@
         "surum": "v2.5.0",
         "surum_tarihi": "2026-06-24"
       }
-    ]
+    ],
+    "tagline_en": "AiToEarn is a platform that allows users to manage their revenue generation processes through artificial intelligence-supported automations."
   },
   {
     "slug": "goose",
@@ -2392,7 +2480,8 @@
         "surum": "v1.45.0",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "Goose is an open source software that goes beyond code suggestions and automates software installation, execution, editing and testing."
   },
   {
     "slug": "llama-cpp",
@@ -2446,7 +2535,8 @@
         "surum": "b10256",
         "surum_tarihi": "2026-08-04"
       }
-    ]
+    ],
+    "tagline_en": "Llama.cpp enables large language models to run efficiently on standard hardware."
   },
   {
     "slug": "turbovec",
@@ -2469,7 +2559,8 @@
         "yildiz": 14575,
         "onceki_yildiz": 7703
       }
-    ]
+    ],
+    "tagline_en": "Built on the TurboQuant infrastructure, turbovec is a high-performance vector directory (vector…"
   },
   {
     "slug": "chinatextbook",
@@ -2492,7 +2583,8 @@
         "yildiz": 76412,
         "onceki_yildiz": 72765
       }
-    ]
+    ],
+    "tagline_en": "ChinaTextbook repository is a portable collection of textbooks used in the Chinese education curriculum from primary school to university level…"
   },
   {
     "slug": "tolaria",
@@ -2517,7 +2609,8 @@
         "surum": "v2027-07-31",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "Tolaria is a desktop application developed for managing Markdown-based knowledge bases."
   },
   {
     "slug": "ghosttrack",
@@ -2548,7 +2641,8 @@
       ],
       "kaynak": "GhostTrack README (resmî)"
     },
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Python-based GhostTrack is a tool that allows location tracking via mobile numbers."
   },
   {
     "slug": "pg-durable",
@@ -2573,7 +2667,8 @@
         "surum": "v0.2.5",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Microsoft, pg_durable is a tool for managing durable execution processes on PostgreSQL."
   },
   {
     "slug": "skills",
@@ -2597,7 +2692,8 @@
         "yildiz": 15389,
         "onceki_yildiz": 12675
       }
-    ]
+    ],
+    "tagline_en": "The skills library developed by Google allows artificial intelligence agents to use Google products and technologies."
   },
   {
     "slug": "pm-skills",
@@ -2623,7 +2719,8 @@
         "surum": "v2.1.0",
         "surum_tarihi": "2026-07-03"
       }
-    ]
+    ],
+    "tagline_en": "PM Skills Marketplace offers more than 100 agentic skills, commands and tools developed for product management processes."
   },
   {
     "slug": "whichllm",
@@ -2649,7 +2746,8 @@
         "surum": "v0.5.15",
         "surum_tarihi": "2026-07-03"
       }
-    ]
+    ],
+    "tagline_en": "Whichllm creates native large language models that perform best on your hardware…"
   },
   {
     "slug": "supervision",
@@ -2674,7 +2772,8 @@
         "surum": "0.29.1",
         "surum_tarihi": "2026-06-23"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Roboflow, Supervision can be reused for computer vision projects…"
   },
   {
     "slug": "claude-howto",
@@ -2700,7 +2799,8 @@
         "surum": "v2.1.160",
         "surum_tarihi": "2026-06-02"
       }
-    ]
+    ],
+    "tagline_en": "This visual guide for Claude Code covers a wide range of topics, from basic concepts to advanced agent configurations."
   },
   {
     "slug": "system-prompts-and-models-of-ai-tools",
@@ -2717,7 +2817,8 @@
     "stars": 139309,
     "lite": false,
     "headline": "yapay zekâ araçlarının perde arkası",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "System prompts and language models used in popular artificial intelligence tools are used by developers…"
   },
   {
     "slug": "openmed",
@@ -2743,7 +2844,8 @@
         "surum": "v2.0.0",
         "surum_tarihi": "2026-07-28"
       }
-    ]
+    ],
+    "tagline_en": "OpenMed develops open source artificial intelligence models and data used in healthcare."
   },
   {
     "slug": "espectre",
@@ -2768,7 +2870,8 @@
         "surum": "2.8.0",
         "surum_tarihi": "2026-05-21"
       }
-    ]
+    ],
+    "tagline_en": "ESPectre is a system that performs motion detection via Wi-Fi channel state information (CSI) analysis."
   },
   {
     "slug": "agent-skills",
@@ -2801,7 +2904,8 @@
         "surum": "0.6.6",
         "surum_tarihi": "2026-08-04"
       }
-    ]
+    ],
+    "tagline_en": "Developed for artificial intelligence coding agents, this library provides production-level engineering skills…"
   },
   {
     "slug": "maigret",
@@ -2826,7 +2930,8 @@
         "surum": "main",
         "surum_tarihi": "2026-04-26"
       }
-    ]
+    ],
+    "tagline_en": "Maigret scans more than 3000 websites based on usernames and creates a file of people."
   },
   {
     "slug": "masterdnsvpn",
@@ -2851,7 +2956,8 @@
         "surum": "v2026.06.13.234407-7de2476",
         "surum_tarihi": "2026-06-13"
       }
-    ]
+    ],
+    "tagline_en": "MasterDnsVPN is a low-load domain name system tunneling (DNS tunneling) system developed to overcome censorship barriers."
   },
   {
     "slug": "hivemind",
@@ -2877,7 +2983,8 @@
         "surum": "v0.7.145",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Hivemind, developed by Activeloop, is a central memory and coordination layer for all artificial intelligence agents."
   },
   {
     "slug": "container",
@@ -2902,7 +3009,8 @@
         "surum": "1.2.0",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Apple, containers are Linux containers on Mac using lightweight virtual machines."
   },
   {
     "slug": "skillspector",
@@ -2928,7 +3036,8 @@
         "surum": "v2.5.1",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "Developed by NVIDIA, SkillSpector detects vulnerabilities and vulnerabilities in the skill packages of artificial intelligence agents."
   },
   {
     "slug": "restic",
@@ -2967,7 +3076,8 @@
         "surum": "v0.19.1",
         "surum_tarihi": "2026-07-05"
       }
-    ]
+    ],
+    "tagline_en": "Developed with the Go language, Restic is an open source backup system that backs up data quickly and efficiently by encrypting it."
   },
   {
     "slug": "agency-agents",
@@ -2991,7 +3101,8 @@
         "yildiz": 138170,
         "onceki_yildiz": 111887
       }
-    ]
+    ],
+    "tagline_en": "Agency-agents project creates a digital agency structure by bringing together artificial intelligence agents with different areas of expertise."
   },
   {
     "slug": "chatwoot",
@@ -3026,7 +3137,8 @@
         "surum": "v4.16.2",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "tagline_en": "Chatwoot is an open source application that offers live chat, email support and omni-channel customer service (omni-channel desk) management."
   },
   {
     "slug": "agentsview",
@@ -3059,7 +3171,8 @@
         "surum": "v0.40.0",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Agentsview is a monitoring tool that provides local-first session intelligence and analytics data for coding agents."
   },
   {
     "slug": "zhangxuefeng-skill",
@@ -3082,7 +3195,8 @@
         "yildiz": 10048,
         "onceki_yildiz": 8114
       }
-    ]
+    ],
+    "tagline_en": "Zhangxuefeng-skill is a structured program for university exam preferences, postgraduate education and career planning processes."
   },
   {
     "slug": "sia",
@@ -3099,7 +3213,8 @@
     "stars": 1478,
     "lite": false,
     "headline": "yapay zekâ modellerini otonom test edin",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "SIA autonomously monitors the performance of artificial intelligence models and agents on specific benchmark tasks."
   },
   {
     "slug": "mattermost",
@@ -3134,7 +3249,8 @@
         "surum": "v11.9.0",
         "surum_tarihi": "2026-07-08"
       }
-    ]
+    ],
+    "tagline_en": "Mattermost is an open source software designed to enable secure collaboration throughout the software development lifecycle."
   },
   {
     "slug": "fanqiang",
@@ -3159,7 +3275,8 @@
         "surum": "FQNews-v1.3.8",
         "surum_tarihi": "2024-08-18"
       }
-    ]
+    ],
+    "tagline_en": "The Fanqiang project is a gateway tool written in Kotlin, developed to bypass internet censorship."
   },
   {
     "slug": "server",
@@ -3193,7 +3310,8 @@
         "surum": "2.9.10",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Music Assistant is an open-source media platform that combines different digital streaming services and connected speakers into a single interface."
   },
   {
     "slug": "iptv",
@@ -3216,7 +3334,8 @@
         "yildiz": 134991,
         "onceki_yildiz": 118170
       }
-    ]
+    ],
+    "tagline_en": "The iptv-org project, which gathers public television channels around the world in a single center, is available via internet protocol…"
   },
   {
     "slug": "lmcache",
@@ -3242,7 +3361,8 @@
         "surum": "operator-v0.5.1",
         "surum_tarihi": "2026-07-23"
       }
-    ]
+    ],
+    "tagline_en": "LMCache optimizes key-value cache (KV cache) management for large language models."
   },
   {
     "slug": "powertoys",
@@ -3278,7 +3398,8 @@
         "surum": "v0.100.2",
         "surum_tarihi": "2026-06-26"
       }
-    ]
+    ],
+    "tagline_en": "Microsoft PowerToys is a utility developed to increase efficiency and personalization in the Windows operating system."
   },
   {
     "slug": "aisuite",
@@ -3304,7 +3425,8 @@
         "surum": "v0.1.3",
         "surum_tarihi": "2026-07-20"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Andrew Ng, aisuite integrates different generative AI providers through a single interface."
   },
   {
     "slug": "swc",
@@ -3340,7 +3462,8 @@
         "surum": "v1.15.47",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "Developed with the Rust language, SWC offers a fast compilation and bundling platform for web projects."
   },
   {
     "slug": "freecodecamp",
@@ -3356,7 +3479,8 @@
     "stars": 447139,
     "lite": false,
     "headline": "Yazılım dünyasına ücretsiz adım atın",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "freeCodeCamp is an open source website that offers free educational materials on mathematics, programming and computer science."
   },
   {
     "slug": "pytest",
@@ -3381,7 +3505,8 @@
         "surum": "9.1.1",
         "surum_tarihi": "2026-06-19"
       }
-    ]
+    ],
+    "tagline_en": "Pytest offers a wide range of tests in Python projects, from small-scale unit testing to complex functional tests."
   },
   {
     "slug": "meshery",
@@ -3415,7 +3540,8 @@
         "surum": "v1.0.64",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Meshery is a service mesh management platform designed for the management of cloud native infrastructures."
   },
   {
     "slug": "cypress",
@@ -3440,7 +3566,8 @@
         "surum": "v15.19.0",
         "surum_tarihi": "2026-07-21"
       }
-    ]
+    ],
+    "tagline_en": "Cypress is a tool that accelerates and facilitates end-to-end testing processes for browser-based applications."
   },
   {
     "slug": "clone-wars",
@@ -3458,7 +3585,8 @@
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
     "headline": "Popüler Platformları yapay zekâyla Kopyalayın",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Clone-Wars brings more than 100 open source clones of popular platforms such as Airbnb, Instagram and Netflix under one roof."
   },
   {
     "slug": "introduction-to-autonomous-robots",
@@ -3485,7 +3613,8 @@
         "surum": "v3.0",
         "surum_tarihi": "2021-12-01"
       }
-    ]
+    ],
+    "tagline_en": "Introduction to Autonomous Robots project covers the basic principles of robotic systems and algorithmic…"
   },
   {
     "slug": "puppeteer",
@@ -3520,7 +3649,8 @@
         "surum": "puppeteer-core-v25.4.0",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "tagline_en": "Puppeteer is a browser automation system used to control Chrome and Firefox browsers."
   },
   {
     "slug": "teslamate",
@@ -3547,7 +3677,8 @@
         "surum": "v4.0.1",
         "surum_tarihi": "2026-06-14"
       }
-    ]
+    ],
+    "tagline_en": "Developed for Tesla vehicle owners, Teslamate is a data logger that allows you to host data on your own server."
   },
   {
     "slug": "hello-algo",
@@ -3574,7 +3705,8 @@
         "surum": "1.3.0",
         "surum_tarihi": "2026-01-01"
       }
-    ]
+    ],
+    "tagline_en": "Hello 算法 is an open source educational tool that teaches data structures and algorithms with animated visualizations."
   },
   {
     "slug": "cua",
@@ -3614,7 +3746,8 @@
         "surum": "sandbox-v0.1.24",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "CUA provides an open source infrastructure for computer-capable artificial intelligence agents."
   },
   {
     "slug": "win11debloat",
@@ -3655,7 +3788,8 @@
         "surum": "2026.07.11",
         "surum_tarihi": "2026-07-11"
       }
-    ]
+    ],
+    "tagline_en": "Win11Debloat allows you to uninstall pre-installed apps and disable telemetry data on Windows 10 and 11 operating systems."
   },
   {
     "slug": "self-hosting-guide",
@@ -3672,7 +3806,8 @@
     "stars": 21324,
     "lite": false,
     "headline": "Kendi sunucunuzu yönetme rehberi",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "The Self-Hosting Guide covers the process of hosting and managing software applications on local networks or private web servers."
   },
   {
     "slug": "optimizerduck",
@@ -3699,7 +3834,8 @@
         "surum": "v2.25.5",
         "surum_tarihi": "2026-07-16"
       }
-    ]
+    ],
+    "tagline_en": "Developed with C# language, optimizerDuck provides performance increase and privacy-oriented configurations in Windows operating systems…"
   },
   {
     "slug": "universal-android-debloater-next-generation",
@@ -3726,7 +3862,8 @@
         "surum": "v1.2.0",
         "surum_tarihi": "2026-01-12"
       }
-    ]
+    ],
+    "tagline_en": "Universal Android Debloater Next Generation removes unnecessary applications on Android devices that do not require root access (root)."
   },
   {
     "slug": "zvec",
@@ -3751,7 +3888,8 @@
         "surum": "v0.6.0",
         "surum_tarihi": "2026-07-20"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Alibaba, zvec is a lightweight and high-speed in-process vector database written in C++."
   },
   {
     "slug": "openwa",
@@ -3783,7 +3921,8 @@
         "surum": "v0.13.0",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "OpenWA offers a free and open source API gateway solution for the WhatsApp messaging protocol."
   },
   {
     "slug": "iroh",
@@ -3827,7 +3966,8 @@
         "surum": "v1.0.3",
         "surum_tarihi": "2026-07-20"
       }
-    ]
+    ],
+    "tagline_en": "Iroh is a modular system that makes network connections more flexible by using key-based addressing instead of IP addresses."
   },
   {
     "slug": "codebase-memory-mcp",
@@ -3852,7 +3992,8 @@
         "surum": "v0.9.0",
         "surum_tarihi": "2026-07-08"
       }
-    ]
+    ],
+    "tagline_en": "Codebase-memory-mcp provides high-performance coding by transforming code bases into a persistent knowledge graph."
   },
   {
     "slug": "timesfm",
@@ -3878,7 +4019,8 @@
         "surum": "v2.0.2",
         "surum_tarihi": "2026-07-02"
       }
-    ]
+    ],
+    "tagline_en": "Time Series Foundation Model, developed by Google Research, is a time series forecasting…"
   },
   {
     "slug": "rocket-chat",
@@ -3905,7 +4047,8 @@
         "surum": "8.6.1",
         "surum_tarihi": "2026-07-10"
       }
-    ]
+    ],
+    "tagline_en": "Rocket.Chat is a secure communications operating system designed for mission-critical operations."
   },
   {
     "slug": "continue",
@@ -3951,7 +4094,8 @@
         "surum": "v2.0.0-vscode",
         "surum_tarihi": "2026-06-19"
       }
-    ]
+    ],
+    "tagline_en": "Continue is an open source coding agent designed to automate software development processes."
   },
   {
     "slug": "penpot",
@@ -3978,7 +4122,8 @@
         "surum": "2.17.0",
         "surum_tarihi": "2026-07-22"
       }
-    ]
+    ],
+    "tagline_en": "Penpot is an open source design tool that strengthens collaboration between designers and developers."
   },
   {
     "slug": "unciv",
@@ -4003,7 +4148,8 @@
         "surum": "4.21.5",
         "surum_tarihi": "2026-08-02"
       }
-    ]
+    ],
+    "tagline_en": "Unciv is an open source desktop and Android adaptation of the Civilization V game."
   },
   {
     "slug": "ui-tars-desktop",
@@ -4029,7 +4175,8 @@
         "surum": "v0.3.0",
         "surum_tarihi": "2025-11-04"
       }
-    ]
+    ],
+    "tagline_en": "Developed by ByteDance, UI-TARS combines multimodal AI models with desktop interfaces."
   },
   {
     "slug": "nautilus-trader",
@@ -4061,7 +4208,8 @@
         "surum": "v1.231.0",
         "surum_tarihi": "2026-08-02"
       }
-    ]
+    ],
+    "tagline_en": "Nautilus Trader is a trading platform with deterministic event-driven architecture developed in Rust language."
   },
   {
     "slug": "openmontage",
@@ -4085,7 +4233,8 @@
         "yildiz": 44651,
         "onceki_yildiz": 5648
       }
-    ]
+    ],
+    "tagline_en": "OpenMontage is an open source agent that turns AI coding assistants into a full-fledged video production studio."
   },
   {
     "slug": "rlm",
@@ -4111,7 +4260,8 @@
         "surum": "v0.1.3",
         "surum_tarihi": "2026-06-26"
       }
-    ]
+    ],
+    "tagline_en": "Developed for recursive language models (Recursive Language Models), rlm supports different working environments (sandboxes)."
   },
   {
     "slug": "plane",
@@ -4138,7 +4288,8 @@
         "surum": "v1.4.0",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "Plane is an open source project management tool that combines task management, sprint planning and documentation processes."
   },
   {
     "slug": "glm-5",
@@ -4181,7 +4332,8 @@
         "yildiz": 6864,
         "onceki_yildiz": 4301
       }
-    ]
+    ],
+    "tagline_en": "GLM-5 transforms software development processes from intuitive coding (vibe coding) to structured agent-based engineering (agent…"
   },
   {
     "slug": "kilocode",
@@ -4214,7 +4366,8 @@
         "surum": "v7.4.19",
         "surum_tarihi": "2026-08-04"
       }
-    ]
+    ],
+    "tagline_en": "Kilo is an all-in-one agent-based engineering platform designed to accelerate software development processes…"
   },
   {
     "slug": "insomnia",
@@ -4241,7 +4394,8 @@
         "surum": "core@13.1.0",
         "surum_tarihi": "2026-07-24"
       }
-    ]
+    ],
+    "tagline_en": "Insomnia is an open source application programming interface that supports GraphQL, REST, WebSockets, SSE and gRPC protocols."
   },
   {
     "slug": "aspnetcore",
@@ -4287,7 +4441,8 @@
         "surum": "v8.0.29",
         "surum_tarihi": "2026-07-14"
       }
-    ]
+    ],
+    "tagline_en": "ASP.NET Core is a platform used to develop modern cloud-based web applications on Windows, macOS and Linux."
   },
   {
     "slug": "awesome-artificial-intelligence",
@@ -4313,7 +4468,8 @@
         "yildiz": 15631,
         "onceki_yildiz": 14532
       }
-    ]
+    ],
+    "tagline_en": "Awesome-artificial-intelligence offers trainings, books, video lessons and…"
   },
   {
     "slug": "ltx-2",
@@ -4349,7 +4505,8 @@
       ],
       "kaynak": "Resmî LTX-2 README (Lightricks/LTX-2)"
     },
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Developed by Lightricks, LTX-2 uses Python inference and low-cost technology for artificial intelligence models that produce audio and video."
   },
   {
     "slug": "libretranslate",
@@ -4393,7 +4550,8 @@
         "surum": "v1.9.6",
         "surum_tarihi": "2026-05-26"
       }
-    ]
+    ],
+    "tagline_en": "LibreTranslate offers a free and open source machine translation interface (API)."
   },
   {
     "slug": "palmier-pro",
@@ -4426,7 +4584,8 @@
         "surum": "v0.7.1",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Palmier Pro is a video editor that runs on the macOS operating system and offers artificial intelligence-supported editing tools…"
   },
   {
     "slug": "worldmonitor",
@@ -4452,7 +4611,8 @@
         "surum": "v2.5.23",
         "surum_tarihi": "2026-03-01"
       }
-    ]
+    ],
+    "tagline_en": "Worldmonitor is a real-time…"
   },
   {
     "slug": "awesome-generative-ai-guide",
@@ -4469,7 +4629,8 @@
     "stars": 27722,
     "lite": false,
     "headline": "Üretken yapay zekâ için kapsamlı rehber",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Awesome-generative-ai-guide repository contains current research, interview resources in the field of generative artificial intelligence (generative AI)..."
   },
   {
     "slug": "agent-native",
@@ -4509,7 +4670,8 @@
         "surum": "@agent-native/core@0.136.4",
         "surum_tarihi": "2026-08-04"
       }
-    ]
+    ],
+    "tagline_en": "Agent-native, native applications for artificial intelligence agents developed by BuilderIO…"
   },
   {
     "slug": "turso",
@@ -4534,7 +4696,8 @@
         "surum": "v0.7.2",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Turso offers an in-process SQL database that is compatible with SQLite."
   },
   {
     "slug": "voicebox",
@@ -4560,7 +4723,8 @@
         "surum": "v0.5.0",
         "surum_tarihi": "2026-04-25"
       }
-    ]
+    ],
+    "tagline_en": "Voicebox allows users to perform voice cloning, dictation and content creation."
   },
   {
     "slug": "smsforwarder",
@@ -4587,7 +4751,8 @@
         "surum": "v3.5.0",
         "surum_tarihi": "2026-02-14"
       }
-    ]
+    ],
+    "tagline_en": "SmsForwarder sends text messages, calls and application notifications on Android devices within the framework of determined rules."
   },
   {
     "slug": "jcode",
@@ -4620,7 +4785,8 @@
         "surum": "v0.67.1",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Developed with the Rust language, jcode is a framework (harness) for testing and evaluating coding-oriented artificial intelligence agents."
   },
   {
     "slug": "daily-stock-analysis",
@@ -4646,7 +4812,8 @@
         "surum": "v3.29.0",
         "surum_tarihi": "2026-08-02"
       }
-    ]
+    ],
+    "tagline_en": "Supported by large language models, this system combines multi-source market data and real-time…"
   },
   {
     "slug": "deer-flow",
@@ -4672,7 +4839,8 @@
         "surum": "v2.0.0",
         "surum_tarihi": "2026-06-25"
       }
-    ]
+    ],
+    "tagline_en": "Developed by ByteDance, Deer-Flow is an open-source supercomputer designed to perform long-duration tasks."
   },
   {
     "slug": "bilitickerbuy",
@@ -4716,7 +4884,8 @@
         "surum": "v2.15.16",
         "surum_tarihi": "2026-07-04"
       }
-    ]
+    ],
+    "tagline_en": "This Python-based tool, which automates Bilibili membership purchasing processes, is designed to speed up ticket purchasing processes."
   },
   {
     "slug": "spiderfoot",
@@ -4741,7 +4910,8 @@
         "surum": "v4.0",
         "surum_tarihi": "2022-04-07"
       }
-    ]
+    ],
+    "tagline_en": "SpiderFoot provides open source intelligence (OSINT) collection for threat intelligence and attack surface mapping processes."
   },
   {
     "slug": "cognee",
@@ -4767,7 +4937,8 @@
         "surum": "v1.4.1",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "Cognee is an open source platform that provides long-term memory between sessions to artificial intelligence agents."
   },
   {
     "slug": "system-prompts-leaks",
@@ -4791,7 +4962,8 @@
         "yildiz": 61968,
         "onceki_yildiz": 44809
       }
-    ]
+    ],
+    "tagline_en": "The system_prompts_leaks repository shared on GitHub is from major technology companies such as Anthropic, OpenAI, Google and xAI."
   },
   {
     "slug": "stirling-pdf",
@@ -4816,7 +4988,8 @@
         "surum": "v2.14.2",
         "surum_tarihi": "2026-07-08"
       }
-    ]
+    ],
+    "tagline_en": "Stirling-PDF is an open source document that allows users to edit PDF files on any device."
   },
   {
     "slug": "gstack",
@@ -4839,7 +5012,8 @@
         "yildiz": 125874,
         "onceki_yildiz": 113462
       }
-    ]
+    ],
+    "tagline_en": "Gstack is based on Garry Tan's Claude Code configuration and provides different roles such as CEO, designer, engineering manager."
   },
   {
     "slug": "hyperframes",
@@ -4872,7 +5046,8 @@
         "surum": "v0.7.90",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video."
   },
   {
     "slug": "firecrawl",
@@ -4898,7 +5073,8 @@
         "surum": "v2.11.0",
         "surum_tarihi": "2026-06-19"
       }
-    ]
+    ],
+    "tagline_en": "Firecrawl is a tool for crawling and extracting data from websites at scale and generating clean text that artificial intelligence models can process."
   },
   {
     "slug": "ai-website-cloner-template",
@@ -4924,7 +5100,8 @@
         "surum": "v0.3.1",
         "surum_tarihi": "2026-03-30"
       }
-    ]
+    ],
+    "tagline_en": "Artificial intelligence website cloner developed by JCodesMore is a TypeScript-based coding…"
   },
   {
     "slug": "claude-plugins-official",
@@ -4949,7 +5126,8 @@
         "yildiz": 32968,
         "onceki_yildiz": 30960
       }
-    ]
+    ],
+    "tagline_en": "Anthropic offers an official directory that collects high-quality plugins developed for Claude Code in a single center."
   },
   {
     "slug": "claude-code-best-practice",
@@ -4975,7 +5153,8 @@
         "yildiz": 63889,
         "onceki_yildiz": 59766
       }
-    ]
+    ],
+    "tagline_en": "This guide developed for Claude Code covers everything from the vibe coding approach to agent-based engineering (agent…"
   },
   {
     "slug": "hiring-agent",
@@ -4999,7 +5178,8 @@
         "yildiz": 6694,
         "onceki_yildiz": 2482
       }
-    ]
+    ],
+    "tagline_en": "Hiring-agent is an artificial intelligence agent (AI agent) designed to evaluate and score resumes."
   },
   {
     "slug": "flutter",
@@ -5026,7 +5206,8 @@
         "surum": "3.19.0-0.1.pre",
         "surum_tarihi": "2024-01-11"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Google, Flutter is a fast application for mobile, web and desktop platforms using a single code base."
   },
   {
     "slug": "headunit-revived",
@@ -5043,7 +5224,8 @@
     "lite": false,
     "headline": "Tabletinizi Android Auto ekranına dönüştürün",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "tagline_en": "The headunit-revived project provides an application that allows viewing the Android Auto interface on different screens."
   },
   {
     "slug": "orca",
@@ -5083,7 +5265,8 @@
         "surum": "v1.4.167",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Stablyai, Orca is an agent development tool that allows managing multiple artificial intelligence agents simultaneously."
   },
   {
     "slug": "design-md",
@@ -5109,7 +5292,8 @@
         "surum": "0.4.0",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Google Labs, DESIGN.md is a structured system for passing visual credentials to coding agents."
   },
   {
     "slug": "zapret-discord-youtube",
@@ -5136,7 +5320,8 @@
         "surum": "1.10.0",
         "surum_tarihi": "2026-07-22"
       }
-    ]
+    ],
+    "tagline_en": "Zapret-discord-youtube restricts network traffic by encrypting it or using packet fragmentation methods."
   },
   {
     "slug": "no-mistakes",
@@ -5161,7 +5346,8 @@
         "surum": "v1.41.2",
         "surum_tarihi": "2026-07-24"
       }
-    ]
+    ],
+    "tagline_en": "Developed with the Go language, no-mistakes is designed to prevent software developers from submitting faulty code (git push)."
   },
   {
     "slug": "ai-berkshire",
@@ -5187,7 +5373,8 @@
         "surum": "v1.0.0",
         "surum_tarihi": "2026-04-07"
       }
-    ]
+    ],
+    "tagline_en": "Using the Claude Code infrastructure, AI-berkshire uses the methodologies of investors such as Warren Buffett and Charlie Munger…"
   },
   {
     "slug": "trek",
@@ -5202,7 +5389,8 @@
     ],
     "stars": 7040,
     "lite": false,
-    "headline": "Kendi sunucunuzda kişisel yapay zekâ seyahat planlayıcısı"
+    "headline": "Kendi sunucunuzda kişisel yapay zekâ seyahat planlayıcısı",
+    "tagline_en": "TREK is a self-hosted…"
   },
   {
     "slug": "open-seo",
@@ -5227,7 +5415,8 @@
         "surum": "v0.1.3",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Open SEO offers an open source alternative to paid tools like Semrush and Ahrefs."
   },
   {
     "slug": "agent-toolkit-for-aws",
@@ -5251,7 +5440,8 @@
         "yildiz": 2215,
         "onceki_yildiz": 1209
       }
-    ]
+    ],
+    "tagline_en": "AWS is introducing Model Connection Protocol (Model Context…) to facilitate the interaction of AI agents with cloud infrastructure."
   },
   {
     "slug": "page-agent",
@@ -5277,7 +5467,8 @@
         "surum": "v1.12.2",
         "surum_tarihi": "2026-07-16"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Alibaba, page-agent is a page agent that allows controlling web interfaces with natural language commands."
   },
   {
     "slug": "casaos",
@@ -5302,7 +5493,8 @@
         "surum": "v0.4.15",
         "surum_tarihi": "2024-12-19"
       }
-    ]
+    ],
+    "tagline_en": "CasaOS is an open source personal cloud system that makes it easier to manage Docker-based applications."
   },
   {
     "slug": "mineru",
@@ -5328,7 +5520,8 @@
         "surum": "mineru-3.4.4-released",
         "surum_tarihi": "2026-07-10"
       }
-    ]
+    ],
+    "tagline_en": "MinerU provides markup for complex document formats such as PDF and Office, suitable for large language models."
   },
   {
     "slug": "mediacrawler",
@@ -5351,7 +5544,8 @@
         "yildiz": 59631,
         "onceki_yildiz": 53062
       }
-    ]
+    ],
+    "tagline_en": "MediaCrawler automatically data mines posts and user comments on popular Chinese social media platforms."
   },
   {
     "slug": "simplex-chat",
@@ -5376,7 +5570,8 @@
         "surum": "v7.0.0",
         "surum_tarihi": "2026-07-28"
       }
-    ]
+    ],
+    "tagline_en": "SimpleX is a privacy-focused platform that is the first messaging network that operates without using user identifiers."
   },
   {
     "slug": "openpilot",
@@ -5404,7 +5599,8 @@
         "surum": "v0.11.1",
         "surum_tarihi": "2026-06-05"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Comma AI, openpilot is an open source operating system designed for robotic systems."
   },
   {
     "slug": "grafana",
@@ -5431,7 +5627,8 @@
         "surum": "v13.1.1",
         "surum_tarihi": "2026-07-21"
       }
-    ]
+    ],
+    "tagline_en": "Grafana combines metrics, logs and traces from different data sources in a single interface."
   },
   {
     "slug": "free-for-dev",
@@ -5456,7 +5653,8 @@
         "yildiz": 131012,
         "onceki_yildiz": 123834
       }
-    ]
+    ],
+    "tagline_en": "Free-for-dev, software as a service (SaaS), platform as a service (PaaS) and service…"
   },
   {
     "slug": "ppt-master",
@@ -5482,7 +5680,8 @@
         "surum": "v4.3.0",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "PPT-Master is an AI-powered tool that converts documents directly into editable presentation files (PPTX)."
   },
   {
     "slug": "open-generative-ai",
@@ -5508,7 +5707,8 @@
         "surum": "v2.0.0",
         "surum_tarihi": "2026-05-23"
       }
-    ]
+    ],
+    "tagline_en": "Open-Generative-AI has no content filtering and contains more than 200 visual and video creation models (models)."
   },
   {
     "slug": "dbt-core",
@@ -5535,7 +5735,8 @@
         "surum": "v1.12.0",
         "surum_tarihi": "2026-07-16"
       }
-    ]
+    ],
+    "tagline_en": "The data transformation tool (dbt-core) enables data analysts and engineers to use software development processes in similar ways."
   },
   {
     "slug": "opencode",
@@ -5568,7 +5769,8 @@
         "surum": "v1.18.12",
         "surum_tarihi": "2026-08-04"
       }
-    ]
+    ],
+    "tagline_en": "OpenCode is an open source coding agent designed to automate software development processes."
   },
   {
     "slug": "openspec",
@@ -5594,7 +5796,8 @@
         "surum": "v1.7.0",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "OpenSpec is a platform that supports spec-driven development processes for artificial intelligence code assistants."
   },
   {
     "slug": "keycloak",
@@ -5621,7 +5824,8 @@
         "surum": "26.7.0",
         "surum_tarihi": "2026-07-09"
       }
-    ]
+    ],
+    "tagline_en": "Keycloak is an open source identity and access management solution for modern applications and services."
   },
   {
     "slug": "lingbot-map",
@@ -5645,7 +5849,8 @@
         "yildiz": 16054,
         "onceki_yildiz": 8439
       }
-    ]
+    ],
+    "tagline_en": "Lingbot-map is a feed-forward three-dimensional primitive designed to reconstruct scenes from streaming data."
   },
   {
     "slug": "cupy",
@@ -5670,7 +5875,8 @@
         "surum": "v14.1.1",
         "surum_tarihi": "2026-06-01"
       }
-    ]
+    ],
+    "tagline_en": "CuPy combines the numerical computing library NumPy and SciPy interfaces with graphics processing unit (GPU) acceleration."
   },
   {
     "slug": "fluidvoice",
@@ -5695,7 +5901,8 @@
         "surum": "v1.6.6",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "FluidVoice is a fast voice to text application that works completely offline on the macOS operating system."
   },
   {
     "slug": "system-design-101",
@@ -5713,7 +5920,8 @@
     "headline": "Görsellerle sistem tasarımı rehberi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "The system-design-101 repository prepared by ByteByteGoHq explains complex system architectures with visualizations and simple language."
   },
   {
     "slug": "strix",
@@ -5739,7 +5947,8 @@
         "surum": "v1.4.1",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "tagline_en": "Strix is ​​an open-source artificial intelligence-based application designed to detect and fix security vulnerabilities in applications."
   },
   {
     "slug": "video-use",
@@ -5763,7 +5972,8 @@
         "yildiz": 18290,
         "onceki_yildiz": 11471
       }
-    ]
+    ],
+    "tagline_en": "The video-use library allows coding agents to automate video editing processes."
   },
   {
     "slug": "logto",
@@ -5789,7 +5999,8 @@
         "surum": "v1.42.0",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Logto is an identity solution based on Open Authentication (OIDC) and OAuth 2.1 protocols for SaaS and artificial intelligence applications."
   },
   {
     "slug": "vulnclaw",
@@ -5815,7 +6026,8 @@
         "surum": "v0.3.6",
         "surum_tarihi": "2026-07-25"
       }
-    ]
+    ],
+    "tagline_en": "VulnClaw provides infiltration using AI agents and Model Context Protocol toolchain."
   },
   {
     "slug": "council-of-high-intelligence",
@@ -5841,7 +6053,8 @@
         "surum": "v1.2.0",
         "surum_tarihi": "2026-07-04"
       }
-    ]
+    ],
+    "tagline_en": "The Council of High Intelligence creates a variety of expert personalities using different large language models."
   },
   {
     "slug": "veracrypt",
@@ -5868,7 +6081,8 @@
         "surum": "VeraCrypt_1.26.29",
         "surum_tarihi": "2026-06-12"
       }
-    ]
+    ],
+    "tagline_en": "VeraCrypt is a disk encryption system that is based on TrueCrypt and offers strong security standards."
   },
   {
     "slug": "exercises-dataset",
@@ -5893,7 +6107,8 @@
         "yildiz": 18515,
         "onceki_yildiz": 7552
       }
-    ]
+    ],
+    "tagline_en": "The exercise data set (exercises-dataset) shared by Hasaneyldrm includes 433 different fitness movements by name, target muscle group…"
   },
   {
     "slug": "omniroute",
@@ -5919,7 +6134,8 @@
         "surum": "v3.8.49",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "OmniRoute is a platform that offers free access by combining more than 231 artificial intelligence providers into a single endpoint."
   },
   {
     "slug": "cupp",
@@ -5937,7 +6153,8 @@
     "headline": "Hedef odaklı parola listesi oluşturma",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Common User Passwords Profiler is a tool used to create targeted password lists."
   },
   {
     "slug": "agents-cli",
@@ -5963,7 +6180,8 @@
         "surum": "v1.2.1",
         "surum_tarihi": "2026-07-23"
       }
-    ]
+    ],
+    "tagline_en": "The command line interface (CLI) developed by Google allows coding assistants to run on Google Cloud (Google Cloud)."
   },
   {
     "slug": "herdr",
@@ -5979,7 +6197,8 @@
     ],
     "stars": 9203,
     "lite": false,
-    "headline": "Terminalde çoklu yapay zekâ yönetimi"
+    "headline": "Terminalde çoklu yapay zekâ yönetimi",
+    "tagline_en": "Developed with the Rust language, herdr functions as an agent multiplexer running on the terminal."
   },
   {
     "slug": "instatic",
@@ -6004,7 +6223,8 @@
         "surum": "v0.0.14",
         "surum_tarihi": "2026-07-28"
       }
-    ]
+    ],
+    "tagline_en": "Instatic is a modern self-hosted visual content management system (CMS) based on TypeScript."
   },
   {
     "slug": "ai-for-beginners",
@@ -6030,7 +6250,8 @@
         "yildiz": 58739,
         "onceki_yildiz": 49751
       }
-    ]
+    ],
+    "tagline_en": "AI for Beginners, prepared by Microsoft, covers introductory artificial intelligence topics with a 12-week curriculum, using Jupyter notes…"
   },
   {
     "slug": "astryx",
@@ -6056,7 +6277,8 @@
         "surum": "v0.2.0",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Meta, Astryx is a fully customizable and agent ready design…"
   },
   {
     "slug": "olmocr",
@@ -6082,7 +6304,8 @@
         "surum": "v0.4.27",
         "surum_tarihi": "2026-03-12"
       }
-    ]
+    ],
+    "tagline_en": "Developed by AllenAI, olmocr converts PDF documents into text formats suitable for large language models."
   },
   {
     "slug": "karukan",
@@ -6110,7 +6333,8 @@
         "surum": "v0.1.0",
         "surum_tarihi": "2026-02-23"
       }
-    ]
+    ],
+    "tagline_en": "Developed with the Rust language, Karukan is a neural kana-kanji conversion engine (neural…"
   },
   {
     "slug": "cubesandbox",
@@ -6138,7 +6362,8 @@
         "surum": "v0.6.0",
         "surum_tarihi": "2026-07-24"
       }
-    ]
+    ],
+    "tagline_en": "Developed by TencentCloud in Rust, CubeSandbox is an instant, simultaneous and…"
   },
   {
     "slug": "caveman",
@@ -6171,7 +6396,8 @@
         "surum": "v1.10.0",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Caveman, developed for Claude Code, simplifies the language use of the artificial intelligence model and reduces token consumption."
   },
   {
     "slug": "chrome-devtools-mcp",
@@ -6197,7 +6423,8 @@
         "surum": "chrome-devtools-mcp-v1.6.0",
         "surum_tarihi": "2026-07-14"
       }
-    ]
+    ],
+    "tagline_en": "This server, developed for Chrome DevTools, allows coding artificial intelligence agents (coding…"
   },
   {
     "slug": "checkout",
@@ -6224,7 +6451,8 @@
         "surum": "v7.0.1",
         "surum_tarihi": "2026-07-20"
       }
-    ]
+    ],
+    "tagline_en": "Developed by GitHub, actions/checkout is a tool for repository copying (repository checkout) in software development processes."
   },
   {
     "slug": "agentskills",
@@ -6250,7 +6478,8 @@
         "yildiz": 23755,
         "onceki_yildiz": 21721
       }
-    ]
+    ],
+    "tagline_en": "Agent Skills is a technique that standardizes the skills that artificial intelligence agents use while performing their duties."
   },
   {
     "slug": "codex-plugin-cc",
@@ -6276,7 +6505,8 @@
         "surum": "v1.0.6",
         "surum_tarihi": "2026-07-08"
       }
-    ]
+    ],
+    "tagline_en": "Developed by OpenAI, the Codex plugin is used to automate code review processes and task tasks on Claude Code."
   },
   {
     "slug": "langflow",
@@ -6302,7 +6532,8 @@
         "surum": "v1.11.1",
         "surum_tarihi": "2026-07-28"
       }
-    ]
+    ],
+    "tagline_en": "Langflow is a Python-based development tool that offers a visual interface for creating AI-powered agents and workflows."
   },
   {
     "slug": "pytorch",
@@ -6328,7 +6559,8 @@
         "surum": "v2.13.0",
         "surum_tarihi": "2026-07-08"
       }
-    ]
+    ],
+    "tagline_en": "PyTorch is a powerful graphics processing unit for Python-based tensor calculations and dynamic neural networks."
   },
   {
     "slug": "cs249r-book",
@@ -6356,7 +6588,8 @@
         "surum": "tinytorch-v0.1.13",
         "surum_tarihi": "2026-06-24"
       }
-    ]
+    ],
+    "tagline_en": "This resource shared by Harvard University is a comprehensive resource on machine learning systems."
   },
   {
     "slug": "clean-code-javascript",
@@ -6374,7 +6607,8 @@
     "headline": "JavaScript ile temiz kod yazımı",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "This guide, which adapts clean code principles to the JavaScript language, is readable and…"
   },
   {
     "slug": "elasticsearch",
@@ -6401,7 +6635,8 @@
         "surum": "v9.4.4",
         "surum_tarihi": "2026-07-21"
       }
-    ]
+    ],
+    "tagline_en": "Developed with Java, Elasticsearch is a distributed…"
   },
   {
     "slug": "ansible",
@@ -6428,7 +6663,8 @@
         "surum": "v2.21.2",
         "surum_tarihi": "2026-07-13"
       }
-    ]
+    ],
+    "tagline_en": "Ansible is an information technologies automation platform that automates application deployment and system management processes."
   },
   {
     "slug": "romm",
@@ -6455,7 +6691,8 @@
         "surum": "5.1.0",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "Romm is designed to edit game files (ROM) and play directly through the browser, on your own server."
   },
   {
     "slug": "maven",
@@ -6483,7 +6720,8 @@
         "surum": "maven-3.10.0-rc-1",
         "surum_tarihi": "2026-07-13"
       }
-    ]
+    ],
+    "tagline_en": "Apache Maven is a project management and understanding tool that manages software creation processes in Java-based projects (build…"
   },
   {
     "slug": "supabase",
@@ -6511,7 +6749,8 @@
         "surum": "v1.26.07",
         "surum_tarihi": "2026-07-09"
       }
-    ]
+    ],
+    "tagline_en": "Supabase is a Postgres database infrastructure that provides Postgres database infrastructure for developing web, mobile and artificial intelligence applications."
   },
   {
     "slug": "meetily",
@@ -6537,7 +6776,8 @@
         "surum": "v0.4.0",
         "surum_tarihi": "2026-06-05"
       }
-    ]
+    ],
+    "tagline_en": "Meetily is an open source meeting assistant that processes meeting recordings locally and does not require a cloud connection."
   },
   {
     "slug": "immich",
@@ -6564,7 +6804,8 @@
         "surum": "v3.1.0",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "Immich is a high-performance self-hosted media platform developed for managing photo and video files."
   },
   {
     "slug": "folia-major",
@@ -6598,7 +6839,8 @@
         "surum": "v0.6.11",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Folia-major is a player that provides visualized lyric animations for local music files and online platforms."
   },
   {
     "slug": "unity-mcp",
@@ -6633,7 +6875,8 @@
         "surum": "v10.1.2",
         "surum_tarihi": "2026-08-02"
       }
-    ]
+    ],
+    "tagline_en": "Unity MCP provides asset management by building a bridge between large language models and the Unity editor."
   },
   {
     "slug": "claude-skills",
@@ -6659,7 +6902,8 @@
         "surum": "v2.9.0",
         "surum_tarihi": "2026-05-28"
       }
-    ]
+    ],
+    "tagline_en": "This library, developed for Claude Code and various coding agents, is used in different fields from engineering to marketing."
   },
   {
     "slug": "terax-ai",
@@ -6685,7 +6929,8 @@
         "surum": "v0.8.6",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "tagline_en": "Terax-ai is a 7-megabyte low-size, terminal-oriented artificial intelligence native development environment (AI-native dev workspace)."
   },
   {
     "slug": "awesome-claude-code",
@@ -6711,7 +6956,8 @@
         "yildiz": 51520,
         "onceki_yildiz": 48592
       }
-    ]
+    ],
+    "tagline_en": "This selection prepared for Claude Code, the coding assistant developed by Anthropic, examines software development processes."
   },
   {
     "slug": "marketingskills",
@@ -6737,7 +6983,8 @@
         "surum": "v2.10.0",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "tagline_en": "Claude Code and the marketingskills library developed for artificial intelligence agents, conversion rate optimization (CRO), text…"
   },
   {
     "slug": "gastown",
@@ -6763,7 +7010,8 @@
         "surum": "v1.2.1",
         "surum_tarihi": "2026-06-06"
       }
-    ]
+    ],
+    "tagline_en": "Gas Town is a combination of different artificial intelligence agents as a multi-agent workspace manager."
   },
   {
     "slug": "codexbar",
@@ -6796,7 +7044,8 @@
         "surum": "v0.47.0",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "CodexBar is a tool that allows viewing OpenAI Codex and Claude Code usage data without requiring a login."
   },
   {
     "slug": "claude-video",
@@ -6822,7 +7071,8 @@
         "surum": "v0.2.0",
         "surum_tarihi": "2026-07-01"
       }
-    ]
+    ],
+    "tagline_en": "Claude-video is a Python tool that gives the Claude model the ability to analyze video content."
   },
   {
     "slug": "karakeep",
@@ -6850,7 +7100,8 @@
         "surum": "v0.33.1",
         "surum_tarihi": "2026-08-01"
       }
-    ]
+    ],
+    "tagline_en": "Karakeep is a platform that collects links, notes and images in a single center and hosts them on your own server."
   },
   {
     "slug": "awesome",
@@ -6868,7 +7119,8 @@
     "headline": "Teknoloji dünyasında küratörlü kaynak rehberi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Awesome lists offers curated collections of resources on a variety of topics in the world of software development and technology."
   },
   {
     "slug": "ai-job-search",
@@ -6901,7 +7153,8 @@
         "surum": "v1.3.0",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Using the Claude Code infrastructure, ai-job-search offers a framework that automates the job search process."
   },
   {
     "slug": "website-downloader",
@@ -6919,7 +7172,8 @@
     "headline": "Web sitelerini yerel diske indirin",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Developed by AhmadIbrahiim, Website-downloader downloads all the source codes and data of a website using Node.js."
   },
   {
     "slug": "officecli",
@@ -6945,7 +7199,8 @@
         "surum": "v1.0.143",
         "surum_tarihi": "2026-07-28"
       }
-    ]
+    ],
+    "tagline_en": "OfficeCLI allows artificial intelligence agents to directly read, edit and automate Word, Excel and PowerPoint files."
   },
   {
     "slug": "pocket-tts",
@@ -6971,7 +7226,8 @@
         "surum": "v2.1.0",
         "surum_tarihi": "2026-05-04"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Kyutai Labs, Pocket-TTS uses only a central processing unit (CPU) without the need for a graphics processing unit…"
   },
   {
     "slug": "tencentdb-agent-memory",
@@ -7004,7 +7260,8 @@
         "surum": "v2.0.0",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "TencentDB Agent Memory provides completely local long-term memory for artificial intelligence agents with a four-step process."
   },
   {
     "slug": "prisma",
@@ -7029,7 +7286,8 @@
         "surum": "7.9.1",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "tagline_en": "Prisma is an object relational mapper (ORM) tool that simplifies database interactions for Node.js and TypeScript projects."
   },
   {
     "slug": "argo-cd",
@@ -7056,7 +7314,8 @@
         "surum": "v3.4.6",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "Argo CD is a tool that manages declarative continuous deployment processes for Kubernetes environments."
   },
   {
     "slug": "photogimp",
@@ -7081,7 +7340,8 @@
         "surum": "3.1",
         "surum_tarihi": "2026-07-11"
       }
-    ]
+    ],
+    "tagline_en": "PhotoGIMP offers a patch that makes the GIMP interface look familiar to Photoshop users."
   },
   {
     "slug": "desktopcommandermcp",
@@ -7107,7 +7367,8 @@
         "surum": "v0.2.44",
         "surum_tarihi": "2026-07-09"
       }
-    ]
+    ],
+    "tagline_en": "DesktopCommanderMCP, developed for Claude and based on the artificial intelligence model, terminal control, file system…"
   },
   {
     "slug": "autoremesher",
@@ -7133,7 +7394,8 @@
         "surum": "1.0.0",
         "surum_tarihi": "2026-07-06"
       }
-    ]
+    ],
+    "tagline_en": "Autoremesher is a system that automatically transforms irregular surface structures in three-dimensional models into quad remeshing."
   },
   {
     "slug": "u3-sdk",
@@ -7167,7 +7429,8 @@
         "surum": "v3.26.3.7",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "SmartlyDressedGames has released the U3-SDK software development kit for the open-world zombie survival game Unturned."
   },
   {
     "slug": "awesome-design-md",
@@ -7193,7 +7456,8 @@
         "yildiz": 105953,
         "onceki_yildiz": 100194
       }
-    ]
+    ],
+    "tagline_en": "Awesome-design-md is a collection of design documents (DESIGN.md) from popular brand design systems."
   },
   {
     "slug": "claude-cookbooks",
@@ -7219,7 +7483,8 @@
         "yildiz": 50838,
         "onceki_yildiz": 47306
       }
-    ]
+    ],
+    "tagline_en": "Claude cookbooks shared by Anthropics, practical code examples for the use of Claude models..."
   },
   {
     "slug": "pentagi",
@@ -7245,7 +7510,8 @@
         "surum": "v2.1.0",
         "surum_tarihi": "2026-05-29"
       }
-    ]
+    ],
+    "tagline_en": "Developed with the Go language, Pentagi is a fully autonomous artificial intelligence system that can perform complex penetration testing."
   },
   {
     "slug": "how-to-secure-a-linux-server",
@@ -7261,7 +7527,8 @@
     "stars": 29237,
     "lite": false,
     "headline": "Linux sunucunuzu güvenli hale getirin",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "This guide on Linux server security is designed to protect systems against external threats."
   },
   {
     "slug": "bun",
@@ -7286,7 +7553,8 @@
         "surum": "bun-v1.3.14",
         "surum_tarihi": "2026-05-13"
       }
-    ]
+    ],
+    "tagline_en": "It brings together the JavaScript runtime, package manager, test runner and packager under one roof."
   },
   {
     "slug": "abseil-cpp",
@@ -7313,7 +7581,8 @@
         "surum": "20260526.0",
         "surum_tarihi": "2026-06-01"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Google, Abseil offers open source code snippets that complement the C++ standard library."
   },
   {
     "slug": "yaml-cpp",
@@ -7340,7 +7609,8 @@
         "surum": "yaml-cpp-0.9.0",
         "surum_tarihi": "2026-02-04"
       }
-    ]
+    ],
+    "tagline_en": "yaml-cpp is a library for the C++ programming language that parses and emitters data in YAML format."
   },
   {
     "slug": "typescript",
@@ -7367,7 +7637,8 @@
         "surum": "v6.0.3",
         "surum_tarihi": "2026-04-16"
       }
-    ]
+    ],
+    "tagline_en": "TypeScript, a superset of the JavaScript language, allows error checking during the compilation phase of the code."
   },
   {
     "slug": "catch2",
@@ -7394,7 +7665,8 @@
         "surum": "v3.15.3",
         "surum_tarihi": "2026-07-26"
       }
-    ]
+    ],
+    "tagline_en": "Catch2 is a modern unit testing framework that supports C++14 and later."
   },
   {
     "slug": "asio",
@@ -7412,7 +7684,8 @@
     "headline": "Eşzamansız ağ programlama kütüphanesi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Asio is a C++ library developed for asynchronous I/O operations."
   },
   {
     "slug": "claude-code-templates",
@@ -7437,7 +7710,8 @@
         "surum": "v1.28.3",
         "surum_tarihi": "2025-11-15"
       }
-    ]
+    ],
+    "tagline_en": "Claude Code templates provide a command line interface (CLI) for the Claude Code tool that simplifies configuration and monitoring."
   },
   {
     "slug": "meshoptimizer",
@@ -7462,7 +7736,8 @@
         "surum": "v1.2",
         "surum_tarihi": "2026-06-30"
       }
-    ]
+    ],
+    "tagline_en": "The Meshoptimizer library optimizes three-dimensional mesh data, reducing file sizes and rendering."
   },
   {
     "slug": "tailscale",
@@ -7494,7 +7769,8 @@
         "surum": "v1.102.1",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Tailscale provides secure networking by combining the WireGuard protocol with two-factor authentication."
   },
   {
     "slug": "stitch-skills",
@@ -7520,7 +7796,8 @@
         "surum": "v1.0",
         "surum_tarihi": "2026-05-18"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Google Labs, Stitch Skills is an agent designed to work with the Stitch MCP server."
   },
   {
     "slug": "terraform",
@@ -7547,7 +7824,8 @@
         "surum": "v1.15.8",
         "surum_tarihi": "2026-07-08"
       }
-    ]
+    ],
+    "tagline_en": "Developed by HashiCorp, Terraform defines the infrastructure as code, providing a secure and…"
   },
   {
     "slug": "grpc",
@@ -7574,7 +7852,8 @@
         "surum": "v1.83.0",
         "surum_tarihi": "2026-07-22"
       }
-    ]
+    ],
+    "tagline_en": "gRPC is an open source remote procedure call that provides high-performance communication between different programming languages."
   },
   {
     "slug": "next-js",
@@ -7608,7 +7887,8 @@
         "surum": "v16.3.0",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Next.js is a server-side rendering framework used to develop React-based web applications."
   },
   {
     "slug": "core",
@@ -7635,7 +7915,8 @@
         "surum": "2026.7.4",
         "surum_tarihi": "2026-07-24"
       }
-    ]
+    ],
+    "tagline_en": "Home Assistant is an open source home automation platform that prioritizes local control and privacy."
   },
   {
     "slug": "next-ai-draw-io",
@@ -7661,7 +7942,8 @@
         "surum": "v0.4.16",
         "surum_tarihi": "2026-05-21"
       }
-    ]
+    ],
+    "tagline_en": "This Next.js-based application combines diagramming tool draw.io with generative AI capabilities."
   },
   {
     "slug": "pgrust",
@@ -7686,7 +7968,8 @@
         "surum": "v0.2-release",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "The pgrust project, in which the PostgreSQL database management system was rewritten with the Rust programming language, includes all regression tests."
   },
   {
     "slug": "fprime",
@@ -7711,7 +7994,8 @@
         "surum": "v4.2.2",
         "surum_tarihi": "2026-04-24"
       }
-    ]
+    ],
+    "tagline_en": "Developed by NASA, F´ is an open source software designed for flight software and embedded systems."
   },
   {
     "slug": "nuxt",
@@ -7736,7 +8020,8 @@
         "surum": "v4.5.1",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "tagline_en": "Nuxt is a full-stack framework used to develop Vue-based applications."
   },
   {
     "slug": "destructive-command-guard",
@@ -7769,7 +8054,8 @@
         "surum": "v0.9.2",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Destructive Command Guard, dangerous git and shell attacks run by artificial intelligence agents…"
   },
   {
     "slug": "prefect",
@@ -7794,7 +8080,8 @@
         "surum": "3.8.1",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Prefect is a workflow orchestration framework for creating Python-based data pipelines."
   },
   {
     "slug": "awesome-llm-apps",
@@ -7818,7 +8105,8 @@
         "yildiz": 129783,
         "onceki_yildiz": 118879
       }
-    ]
+    ],
+    "tagline_en": "The awesome-llm-apps repository contains more than 100 directly executable AI agents and introduced generation incremental…"
   },
   {
     "slug": "background-agents",
@@ -7835,7 +8123,8 @@
     "stars": 2329,
     "lite": false,
     "headline": "Otonom yazılım geliştiren yapay zekâ ajanları",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Developed by ColeMurray, background-agents is an open source background-agents coding system based on TypeScript."
   },
   {
     "slug": "wand-enhancer",
@@ -7862,7 +8151,8 @@
         "surum": "1.0.9.4",
         "surum_tarihi": "2026-07-21"
       }
-    ]
+    ],
+    "tagline_en": "Wand-Enhancer improves user experience and interoperability for the WeMod application."
   },
   {
     "slug": "t3code",
@@ -7887,7 +8177,8 @@
         "surum": "v0.0.31",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "T3Code is a toolset developed to improve and standardize code quality in TypeScript-based projects."
   },
   {
     "slug": "ai-hedge-fund",
@@ -7913,7 +8204,8 @@
         "surum": "v2.0.2",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Artificial intelligence-supported investment fund (AI hedge fund) is designed to automate financial market analysis and asset management processes…"
   },
   {
     "slug": "sharpemu",
@@ -7930,7 +8222,8 @@
     "lite": false,
     "headline": "Deneysel PlayStation 5 öykünücü projesi",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "tagline_en": "Sharpemu is an experimental PlayStation 5 emulator project developed in C# language."
   },
   {
     "slug": "hallmark",
@@ -7954,7 +8247,8 @@
         "yildiz": 20791,
         "onceki_yildiz": 4508
       }
-    ]
+    ],
+    "tagline_en": "Hallmark aims to reduce the impact of standard content produced by artificial intelligence (AI slop) on design…"
   },
   {
     "slug": "opencut",
@@ -7979,7 +8273,8 @@
         "surum": "v0.3.0",
         "surum_tarihi": "2026-04-15"
       }
-    ]
+    ],
+    "tagline_en": "OpenCut is a TypeScript-based application development project that offers an open source alternative for video editing processes."
   },
   {
     "slug": "graphify",
@@ -8005,7 +8300,8 @@
         "surum": "v0.9.32",
         "surum_tarihi": "2026-08-01"
       }
-    ]
+    ],
+    "tagline_en": "Graphify combines different types of data, such as code files, database schemas, and documentation, into a queryable information graph."
   },
   {
     "slug": "chinese-independent-developer",
@@ -8030,7 +8326,8 @@
         "yildiz": 60379,
         "onceki_yildiz": 54609
       }
-    ]
+    ],
+    "tagline_en": "This open source database, which lists projects carried out by Chinese independent developers, is a database developed by software developers."
   },
   {
     "slug": "clypra",
@@ -8055,7 +8352,8 @@
         "surum": "v1.2.1",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Clypra is an open source video editor application developed using Tauri, React and TypeScript."
   },
   {
     "slug": "grok2api",
@@ -8080,7 +8378,8 @@
         "surum": "v3.0.11",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "Developed for Grok Build, Grok Web and Grok Console platforms, this gateway (API gateway) integrates multi-account management into a single…"
   },
   {
     "slug": "maths-cs-ai-compendium",
@@ -8106,7 +8405,8 @@
         "yildiz": 7220,
         "onceki_yildiz": 5424
       }
-    ]
+    ],
+    "tagline_en": "Maths-cs-ai-compendium is for engineers who want to specialize in artificial intelligence and machine learning…"
   },
   {
     "slug": "openinterpreter",
@@ -8132,7 +8432,8 @@
         "surum": "rust-v0.0.34",
         "surum_tarihi": "2026-07-18"
       }
-    ]
+    ],
+    "tagline_en": "Open Interpreter is a coding agent that automates software development processes by running code in the local computer environment."
   },
   {
     "slug": "deeptutor",
@@ -8158,7 +8459,8 @@
         "surum": "v1.5.8",
         "surum_tarihi": "2026-08-02"
       }
-    ]
+    ],
+    "tagline_en": "DeepTutor is a lifelong learning platform that offers personalized education processes using student data."
   },
   {
     "slug": "yimmenuv2",
@@ -8185,7 +8487,8 @@
         "surum": "nightly",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "YimMenuV2 is an experimental menu modification developed for Grand Theft Auto 5: Enhanced edition."
   },
   {
     "slug": "ossie",
@@ -8204,7 +8507,8 @@
     "headline": "Veri platformları için ortak anlamsal standart",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Apache Ossie enables semantic metadata exchange between analytics, artificial intelligence and business intelligence (BI) platforms."
   },
   {
     "slug": "posthog",
@@ -8237,7 +8541,8 @@
         "surum": "posthog-cli/v0.10.0",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "PostHog provides artificial intelligence observability, analysis and session replay for product development processes."
   },
   {
     "slug": "bonsai-demo",
@@ -8254,7 +8559,8 @@
     "stars": 1587,
     "lite": false,
     "headline": "Yerel cihazda yapay zekâ modelleri",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "The Bonsai demo project is a project designed to simplify the deployment processes of machine learning models."
   },
   {
     "slug": "lobehub",
@@ -8282,7 +8588,8 @@
         "surum": "v2.2.13",
         "surum_tarihi": "2026-08-01"
       }
-    ]
+    ],
+    "tagline_en": "LobeHub is an artificial intelligence system that works 24/7 by managing AI agents through recruitment, scheduling and reporting processes."
   },
   {
     "slug": "ui-skills",
@@ -8307,7 +8614,8 @@
         "surum": "v0.2.3",
         "surum_tarihi": "2026-06-22"
       }
-    ]
+    ],
+    "tagline_en": "Developed for design engineers, ui-skills provides technical skills needed in user interface (UI) development processes."
   },
   {
     "slug": "computer-science",
@@ -8325,7 +8633,8 @@
     "headline": "Ücretsiz bilgisayar bilimleri eğitim yolu",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "This resource, which offers a free and self-learning focused curriculum in the field of computer science…"
   },
   {
     "slug": "cwc-workshops",
@@ -8344,7 +8653,8 @@
     "headline": "yapay zekâ ajanları için uygulamalı atölye",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "These workshops shared by Anthropic provide developers with computer use skills."
   },
   {
     "slug": "protobuf",
@@ -8371,7 +8681,8 @@
         "surum": "v35.1",
         "surum_tarihi": "2026-06-11"
       }
-    ]
+    ],
+    "tagline_en": "Protocol buffers developed by Google are used to serialize structured data."
   },
   {
     "slug": "code-review-graph",
@@ -8397,7 +8708,8 @@
         "surum": "v2.3.7",
         "surum_tarihi": "2026-07-18"
       }
-    ]
+    ],
+    "tagline_en": "Code-review-graph analyzes the code base to create a locally focused code intelligence map for AI tools."
   },
   {
     "slug": "docuseal",
@@ -8429,7 +8741,8 @@
         "surum": "3.1.7",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "DocuSeal offers an open source alternative for creating, filling and signing digital documents."
   },
   {
     "slug": "g0dm0d3",
@@ -8446,7 +8759,8 @@
     "stars": 9570,
     "lite": false,
     "headline": "Kısıtlamasız yapay zekâ etkileşim arayüzü",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "G0DM0D3 is a liberated artificial intelligence that aims to bypass the security layers of large language models."
   },
   {
     "slug": "wigolo",
@@ -8472,7 +8786,8 @@
         "surum": "v0.2.1",
         "surum_tarihi": "2026-07-19"
       }
-    ]
+    ],
+    "tagline_en": "Wigolo is a tool that provides local-first search, data extraction and crawling capabilities for artificial intelligence coding agents."
   },
   {
     "slug": "kimi-cli",
@@ -8498,7 +8813,8 @@
         "surum": "1.49.0",
         "surum_tarihi": "2026-07-16"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Moonshot AI, Kimi CLI is an artificial intelligence agent that works via a command line interface (CLI)."
   },
   {
     "slug": "ai-agent-book",
@@ -8522,7 +8838,8 @@
         "yildiz": 29814,
         "onceki_yildiz": 7362
       }
-    ]
+    ],
+    "tagline_en": "This open source book on artificial intelligence agents (AI agents) covers design principles and engineering practices."
   },
   {
     "slug": "ktransformers",
@@ -8548,7 +8865,8 @@
         "surum": "v0.6.4",
         "surum_tarihi": "2026-07-23"
       }
-    ]
+    ],
+    "tagline_en": "Ktransformers is a heterogeneous technology in the inference and fine-tuning processes of large language models."
   },
   {
     "slug": "jellium-desktop",
@@ -8566,7 +8884,8 @@
     "headline": "Jellyfin medya kütüphanenize masaüstü erişimi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Jellium-desktop is an unofficial desktop client developed in Rust for the media server Jellyfin."
   },
   {
     "slug": "terminal",
@@ -8593,7 +8912,8 @@
         "surum": "v1.24.11911.0",
         "surum_tarihi": "2026-07-16"
       }
-    ]
+    ],
+    "tagline_en": "Microsoft is combining Windows Terminal and the traditional Windows console host under one roof."
   },
   {
     "slug": "astrbot",
@@ -8619,7 +8939,8 @@
         "surum": "v4.27.1",
         "surum_tarihi": "2026-08-02"
       }
-    ]
+    ],
+    "tagline_en": "AstrBot works integrated with various instant messaging platforms, large language models and plug-ins."
   },
   {
     "slug": "wrenai",
@@ -8645,7 +8966,8 @@
         "surum": "wren-pydantic-v0.2.1",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Canner, WrenAI automatically converts data into database queries (text-to-SQL)."
   },
   {
     "slug": "cs-self-learning",
@@ -8672,7 +8994,8 @@
         "surum": "v1.2.0",
         "surum_tarihi": "2025-06-08"
       }
-    ]
+    ],
+    "tagline_en": "This guide, prepared by Peking University students, is a self-study in the field of computer science."
   },
   {
     "slug": "fastmcp",
@@ -8698,7 +9021,8 @@
         "surum": "v3.4.5",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "tagline_en": "FastMCP is a Python…"
   },
   {
     "slug": "topcoat",
@@ -8725,7 +9049,8 @@
         "surum": "v0.5.0",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "tagline_en": "Developed by the Tokio team, Topcoat contains all the necessary tools to create web applications in Rust."
   },
   {
     "slug": "openship",
@@ -8750,7 +9075,8 @@
         "surum": "v0.5.0",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "OpenShip offers an application distribution platform that users can host on their own servers."
   },
   {
     "slug": "ontology-playground",
@@ -8767,7 +9093,8 @@
     "stars": 1806,
     "lite": false,
     "headline": "Ontology-Playground ile yapay zekâ ontolojileri tasarlayın",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Ontology-Playground, developed by Microsoft, is a platform for learning ontologies and creating visual designs on Microsoft Fabric IQ."
   },
   {
     "slug": "transcribe-cpp",
@@ -8793,7 +9120,8 @@
         "surum": "v0.1.3",
         "surum_tarihi": "2026-07-12"
       }
-    ]
+    ],
+    "tagline_en": "Transcribe.cpp is a speech-to-text converter developed in C++ language that supports more than 16 model families."
   },
   {
     "slug": "moonshine",
@@ -8819,7 +9147,8 @@
         "surum": "v0.1.0",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "tagline_en": "Moonshine is a low-latency speech-to-text, intent…"
   },
   {
     "slug": "i-have-adhd",
@@ -8845,7 +9174,8 @@
         "yildiz": 15559,
         "onceki_yildiz": 7248
       }
-    ]
+    ],
+    "tagline_en": "Developed to make the output of coding agents more focused and organized, i-have-adhd solves complex answers…"
   },
   {
     "slug": "text-to-cad",
@@ -8871,7 +9201,8 @@
         "surum": "0.3.13",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "Text-to-CAD tools are used to automate robotics and hardware design processes."
   },
   {
     "slug": "tradingview-mcp",
@@ -8888,7 +9219,8 @@
     "stars": 4930,
     "lite": false,
     "headline": "TradingView için yapay zekâ entegrasyonu",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "TradingView-mcp automates chart analysis processes by connecting Claude Code with the TradingView desktop application."
   },
   {
     "slug": "llmfit",
@@ -8928,7 +9260,8 @@
         "surum": "v1.1.8",
         "surum_tarihi": "2026-08-04"
       }
-    ]
+    ],
+    "tagline_en": "Developed with the Rust language, llmfit scans hundreds of large language models and providers and…"
   },
   {
     "slug": "hyprland",
@@ -8955,7 +9288,8 @@
         "surum": "v0.56.1",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "tagline_en": "Hyprland runs on the Wayland compositor and offers customizable dynamic tiling structure."
   },
   {
     "slug": "apollo-11",
@@ -8973,7 +9307,8 @@
     "headline": "Apollo 11 rehberlik bilgisayarı kaynak kodları",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Original source code of the command and lunar module guidance computer (Guidance Computer) used in the Apollo 11 mission, assembly…"
   },
   {
     "slug": "dioxus",
@@ -8998,7 +9333,8 @@
         "surum": "v0.7.10",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Dioxus enables the development of end-to-end (fullstack) applications with a single code base for web, desktop and mobile platforms."
   },
   {
     "slug": "open-deep-research",
@@ -9014,7 +9350,8 @@
     "stars": 12307,
     "lite": false,
     "headline": "Otonom yapay zekâ ile derinlemesine araştırma",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Developed by LangChain, open-deep-research is a multi-step search on the internet to answer complex questions."
   },
   {
     "slug": "pi-web",
@@ -9040,7 +9377,8 @@
         "surum": "v0.8.6",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "Pi-web offers an improved web-based user interface (web UI) for the Pi coding agent."
   },
   {
     "slug": "croc",
@@ -9065,7 +9403,8 @@
         "surum": "v11.0.1",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "Croc provides secure file and data transfer between two computers using end-to-end encryption."
   },
   {
     "slug": "outlines",
@@ -9091,7 +9430,8 @@
         "surum": "1.3.2",
         "surum_tarihi": "2026-07-20"
       }
-    ]
+    ],
+    "tagline_en": "The Outlines library outputs responses from large language models structured according to predefined schemas."
   },
   {
     "slug": "likec4",
@@ -9116,7 +9456,8 @@
         "surum": "v1.59.2",
         "surum_tarihi": "2026-07-22"
       }
-    ]
+    ],
+    "tagline_en": "Likec4 is a tool that visualizes software architecture directly from the source code and enables the creation of live diagrams."
   },
   {
     "slug": "awesome-claude-skills",
@@ -9135,7 +9476,8 @@
     "headline": "Claude için hazır yapay zekâ yetenekleri",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Curated by ComposioHQ, awesome-claude-skills includes tools and tools for customizing Claude AI workflows."
   },
   {
     "slug": "cloudflare-temp-email",
@@ -9162,7 +9504,8 @@
         "surum": "v1.10.0",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "This tool, which allows you to create a free temporary email service using the Cloudflare infrastructure, allows you to receive and receive emails…"
   },
   {
     "slug": "pumpkin",
@@ -9187,7 +9530,8 @@
         "yildiz": 10510,
         "onceki_yildiz": 8562
       }
-    ]
+    ],
+    "tagline_en": "Developed with the Rust programming language, Pumpkin aims to host Minecraft servers faster and more efficiently."
   },
   {
     "slug": "buzz",
@@ -9219,7 +9563,8 @@
         "surum": "desktop-v0.5.4",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Block in Rust, Buzz is a decentralized hive mind communication platform (hive mind communication…"
   },
   {
     "slug": "ego-lite",
@@ -9245,7 +9590,8 @@
         "surum": "v1.2.5",
         "surum_tarihi": "2026-07-17"
       }
-    ]
+    ],
+    "tagline_en": "Ego-lite is a browser that allows users and artificial intelligence agents to work simultaneously."
   },
   {
     "slug": "open-code-review",
@@ -9278,7 +9624,8 @@
         "surum": "v1.8.6",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Open source code review tool developed by Alibaba, large language model with deterministic pipelines…"
   },
   {
     "slug": "harper",
@@ -9305,7 +9652,8 @@
         "surum": "v2.7.0",
         "surum_tarihi": "2026-07-28"
       }
-    ]
+    ],
+    "tagline_en": "Harper offers an offline and privacy-oriented grammar checker developed with the Rust language."
   },
   {
     "slug": "superfile",
@@ -9330,7 +9678,8 @@
         "surum": "v1.6.0",
         "surum_tarihi": "2026-06-07"
       }
-    ]
+    ],
+    "tagline_en": "Developed with the Go language, superfile provides a modern and visually rich interface to terminal-based file managers."
   },
   {
     "slug": "dive-into-llms",
@@ -9358,7 +9707,8 @@
         "surum": "v1",
         "surum_tarihi": "2025-06-12"
       }
-    ]
+    ],
+    "tagline_en": "Dive into LLMs explains the working principles of large language models through Jupyter Notebook files."
   },
   {
     "slug": "chat2db",
@@ -9384,7 +9734,8 @@
         "surum": "v5.3.2",
         "surum_tarihi": "2026-07-28"
       }
-    ]
+    ],
+    "tagline_en": "Chat2DB stands out as an artificial intelligence-supported database management tool and SQL client."
   },
   {
     "slug": "bitchat",
@@ -9409,7 +9760,8 @@
         "surum": "v1.7.1",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "Bitchat offers a local chat environment that does not require an internet connection, using Bluetooth mesh technology."
   },
   {
     "slug": "node",
@@ -9441,7 +9793,8 @@
         "surum": "v26.6.0",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Node.js offers a runtime environment that allows JavaScript code to be run outside the browser."
   },
   {
     "slug": "bitchat-android",
@@ -9466,7 +9819,8 @@
         "surum": "1.7.4",
         "surum_tarihi": "2026-06-17"
       }
-    ]
+    ],
+    "tagline_en": "Bitchat-android is a decentralized messaging system that does not require an internet connection using Bluetooth mesh technology."
   },
   {
     "slug": "jenkins",
@@ -9493,7 +9847,8 @@
         "surum": "jenkins-2.575",
         "surum_tarihi": "2026-07-28"
       }
-    ]
+    ],
+    "tagline_en": "Jenkins is an open source continuous integration and…"
   },
   {
     "slug": "amnezia-client",
@@ -9518,7 +9873,8 @@
         "surum": "5.0.0.5",
         "surum_tarihi": "2026-07-26"
       }
-    ]
+    ],
+    "tagline_en": "Amnesia VPN client is an open-source application that allows users to gain uncensored internet access through its own servers."
   },
   {
     "slug": "geolibre",
@@ -9545,7 +9901,8 @@
         "surum": "v2.4.0",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "GeoLibre is a lightweight, cloud-based geospatial information application designed to visualize, explore and analyze geographic data."
   },
   {
     "slug": "ag-kit",
@@ -9571,7 +9928,8 @@
         "surum": "v2026.7.27",
         "surum_tarihi": "2026-07-26"
       }
-    ]
+    ],
+    "tagline_en": "Ag-kit provides the necessary tools and structures to create autonomous artificial intelligence agents (AI agents) in TypeScript-based projects."
   },
   {
     "slug": "cassandra",
@@ -9589,7 +9947,8 @@
     "headline": "Dağıtık sistemler için ölçeklenebilir veritabanı",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Apache Cassandra offers linear scalability without loss of performance on standard hardware or cloud infrastructures."
   },
   {
     "slug": "imgui",
@@ -9616,7 +9975,8 @@
         "surum": "v1.92.9b",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "Dear ImGui is a lightweight graphical user interface for C++ projects that works with minimal dependencies…"
   },
   {
     "slug": "editor",
@@ -9641,7 +10001,8 @@
         "surum": "v0.9.1",
         "surum_tarihi": "2026-06-10"
       }
-    ]
+    ],
+    "tagline_en": "TypeScript-based pascalorg/editor allows users to create and use three-dimensional architectural projects via the browser."
   },
   {
     "slug": "free-stockdb",
@@ -9668,7 +10029,8 @@
         "surum": "测试版本0.2.1",
         "surum_tarihi": "2026-07-19"
       }
-    ]
+    ],
+    "tagline_en": "Free-stockdb is a native quantitative quant that manages daily and minute data for A stocks and exchange traded funds (ETFs)."
   },
   {
     "slug": "speech-to-speech",
@@ -9701,7 +10063,8 @@
         "surum": "v0.2.11",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "The speech-to-speech library developed by Hugging Face creates native voice agents using open source models."
   },
   {
     "slug": "book-to-skill",
@@ -9726,7 +10089,8 @@
         "surum": "v1.3.0",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "The Book-to-skill project makes portable document formats (PDF) of technical books available for Claude Code…"
   },
   {
     "slug": "awesome-systematic-trading",
@@ -9752,7 +10116,8 @@
         "yildiz": 12499,
         "onceki_yildiz": 9886
       }
-    ]
+    ],
+    "tagline_en": "Bringing together libraries, strategies and educational resources in the field of systematic trading, this…"
   },
   {
     "slug": "agent-governance-toolkit",
@@ -9778,7 +10143,8 @@
         "surum": "v4.1.0",
         "surum_tarihi": "2026-06-09"
       }
-    ]
+    ],
+    "tagline_en": "The agent governance toolkit developed by Microsoft is for autonomous artificial intelligence agents."
   },
   {
     "slug": "snipe-it",
@@ -9805,7 +10171,8 @@
         "surum": "v8.6.3",
         "surum_tarihi": "2026-06-15"
       }
-    ]
+    ],
+    "tagline_en": "Snipe-IT is an open source management system for tracking information technology assets and software licenses."
   },
   {
     "slug": "faceswap",
@@ -9832,7 +10199,8 @@
         "surum": "v3.0.0",
         "surum_tarihi": "2025-12-21"
       }
-    ]
+    ],
+    "tagline_en": "Python-based Faceswap allows changing faces in images using deepfake technology."
   },
   {
     "slug": "openwork",
@@ -9865,7 +10233,8 @@
         "surum": "v0.18.13",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "Openwork is a platform developed as an open source alternative to the Claude Cowork platform and uses the opencode infrastructure."
   },
   {
     "slug": "flashkda",
@@ -9882,7 +10251,8 @@
     "stars": 1043,
     "lite": false,
     "headline": "Kimi Delta Attention için yüksek performanslı çekirdekler",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Developed by Moonshot AI, FlashKDA provides high-performance kernels for the Some Delta Attention mechanism…"
   },
   {
     "slug": "ane",
@@ -9901,7 +10271,8 @@
     "headline": "Apple Sinir Motorunda yapay zekâ eğitimi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Developed by Maderix, ANE uses private application programming interfaces (private APIs) obtained through reverse engineering…"
   },
   {
     "slug": "baileys",
@@ -9928,7 +10299,8 @@
         "surum": "v7.0.0-rc14",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "Baileys is based on the WhatsApp Web protocol and allows developing TypeScript and JavaScript-based applications."
   },
   {
     "slug": "tuicr",
@@ -9953,7 +10325,8 @@
         "surum": "v0.20.0",
         "surum_tarihi": "2026-08-02"
       }
-    ]
+    ],
+    "tagline_en": "Developed in Rust, tuicr is a terminal user interface that supports Vim keyboard shortcuts."
   },
   {
     "slug": "reverse-skill",
@@ -9993,7 +10366,8 @@
         "surum": "v1.0.0",
         "surum_tarihi": "2026-07-17"
       }
-    ]
+    ],
+    "tagline_en": "An artificial intelligence-supported routing package for reverse-skill, reverse engineering and penetration testing processes…"
   },
   {
     "slug": "kaneo",
@@ -10025,7 +10399,8 @@
         "surum": "v2.12.1",
         "surum_tarihi": "2026-07-30"
       }
-    ]
+    ],
+    "tagline_en": "Kaneo is an open source project management tool developed with a user-oriented interface."
   },
   {
     "slug": "esp32-bit-pirate",
@@ -10052,7 +10427,8 @@
         "surum": "v1.6",
         "surum_tarihi": "2026-06-05"
       }
-    ]
+    ],
+    "tagline_en": "ESP32-Bit-Pirate is a software that supports multiple communication protocols via a web-based command line interface (CLI)."
   },
   {
     "slug": "generative-ai-for-beginners",
@@ -10071,7 +10447,8 @@
     "headline": "Üretken yapay zekâ uygulamaları geliştirme eğitimi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "This training content prepared by Microsoft is for those who want to get into generative artificial intelligence (generative AI) technologies."
   },
   {
     "slug": "gh-stack",
@@ -10096,7 +10473,8 @@
         "surum": "v0.1.0",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "Developed by GitHub, gh-stack is a system that handles stacked pull requests in the software development process."
   },
   {
     "slug": "voice-pro",
@@ -10121,7 +10499,8 @@
         "surum": "v4.0.0",
         "surum_tarihi": "2026-07-13"
       }
-    ]
+    ],
+    "tagline_en": "Voice-pro combines text-to-speech (TTS) and zero-shot voice cloning tools."
   },
   {
     "slug": "invidious",
@@ -10148,7 +10527,8 @@
         "surum": "v2.20260723.0",
         "surum_tarihi": "2026-07-23"
       }
-    ]
+    ],
+    "tagline_en": "Invidious is an open source interface developed as an alternative to the YouTube platform."
   },
   {
     "slug": "trellis-2",
@@ -10165,7 +10545,8 @@
     "stars": 9992,
     "lite": false,
     "headline": "Görsellerden yüksek kaliteli 3D modeller üretin",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Developed by Microsoft, TRELLIS is a structured software that converts text or visual input into three-dimensional (3D) models."
   },
   {
     "slug": "k-skill",
@@ -10182,7 +10563,8 @@
     "stars": 6780,
     "lite": false,
     "headline": "yapay zekâ ajanınıza yerel yetenekler kazandırın",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "NomaDamas/k-skill is a platform designed to provide AI agents with local skills in a cultural context."
   },
   {
     "slug": "lighthouse",
@@ -10209,7 +10591,8 @@
         "surum": "1.0.1",
         "surum_tarihi": "2026-08-01"
       }
-    ]
+    ],
+    "tagline_en": "Lighthouse is a code coverage tool developed in C language and designed for low-level systems."
   },
   {
     "slug": "ds4",
@@ -10226,7 +10609,8 @@
     "stars": 20117,
     "lite": false,
     "headline": "Yerel donanımda DeepSeek çalıştırma motoru",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Developed by Salvatore Sanfilippo, the creator of Redis, DS4 supports DeepSeek models on local hardware."
   },
   {
     "slug": "deepseek-reasonix",
@@ -10259,7 +10643,8 @@
         "surum": "desktop-v1.19.5",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models."
   },
   {
     "slug": "pdf-inspector",
@@ -10275,7 +10660,8 @@
     "stars": 8766,
     "lite": false,
     "headline": "Hızlı ve Yerel PDF Metin İşleme",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Developed by Firecrawl, PDF Inspector is a tool for examining, classifying and extracting text from PDF files."
   },
   {
     "slug": "system-design-primer",
@@ -10293,7 +10679,8 @@
     "headline": "Büyük ölçekli sistem tasarımı rehberi",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "System Design Primer offers a comprehensive learning resource for those who want to design large-scale software systems."
   },
   {
     "slug": "free-claude-code",
@@ -10310,7 +10697,8 @@
     "stars": 44150,
     "lite": false,
     "headline": "yapay zekâ ajanlarına ücretsiz erişim",
-    "last_review": "2026-08-04"
+    "last_review": "2026-08-04",
+    "tagline_en": "Terminals, applications for artificial intelligence models such as free-claude-code, Claude Code and Codex developed by Alishahryar1…"
   },
   {
     "slug": "agents",
@@ -10336,6 +10724,7 @@
         "surum": "livekit-agents@1.6.8",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "tagline_en": "LiveKit Agents is a Python framework for developing real-time voice and video AI agents…"
   }
 ]

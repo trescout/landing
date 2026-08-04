@@ -1,6 +1,6 @@
 # Prisma
 
-> Prisma, Node.js ve TypeScript projeleri için veritabanı etkileşimlerini kolaylaştıran bir nesne ilişkisel eşleyici (ORM) aracıdır.
+> Prisma is an object relational mapper (ORM) tool that simplifies database interactions for Node.js and TypeScript projects.
 
 **Source:** GitHub  
 **Stars:** 47427

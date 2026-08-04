@@ -1,6 +1,6 @@
 # Voicebox
 
-> Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve içerik oluşturma işlemlerini gerçekleştirmesine olanak…
+> Voicebox allows users to perform voice cloning, dictation and content creation.
 
 **Source:** GitHub  
 **Stars:** 48096

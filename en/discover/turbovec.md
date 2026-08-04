@@ -1,6 +1,6 @@
 # Turbovec
 
-> TurboQuant altyapısı üzerine inşa edilen turbovec, Rust diliyle geliştirilmiş yüksek performanslı bir vektör dizini (vector…
+> Built on the TurboQuant infrastructure, turbovec is a high-performance vector directory (vector…
 
 **Source:** GitHub  
 **Stars:** 14575

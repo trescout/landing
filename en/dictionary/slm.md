@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-Daha az veriyle eğitilmiş, hızlı çalışan ve düşük donanımlarda bile verimli sonuç veren küçük yapay zeka modelleridir.
+They are small artificial intelligence models that are trained with less data, work fast and provide efficient results even on low hardware.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/slm/

@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Sisteme eklenen kaynak miktarı arttıkça, performansın da aynı oranda düzenli bir şekilde artması durumu.
+As the amount of resources added to the system increases, the performance increases at the same rate.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/linear-scalability/

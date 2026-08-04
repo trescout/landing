@@ -1,6 +1,6 @@
 # Grok2api
 
-> Grok Build, Grok Web ve Grok Console platformları için geliştirilen bu ağ geçidi (API gateway), çoklu hesap yönetimini tek bir…
+> Developed for Grok Build, Grok Web and Grok Console platforms, this gateway (API gateway) integrates multi-account management into a single…
 
 **Source:** GitHub  
 **Stars:** 6945

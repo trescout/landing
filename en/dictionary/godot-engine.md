@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Oyun geliştirmek için kullanılan, tamamen ücretsiz ve açık kaynaklı bir yazılım platformudur.
+It is a completely free and open source software platform used for game development.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/godot-engine/

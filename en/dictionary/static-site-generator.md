@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Hazır içerikleri ve şablonları alıp, kullanıcıya sunulmaya hazır sabit web sayfalarına dönüştüren araç.
+A tool that takes ready-made content and templates and turns them into fixed web pages ready to be presented to the user.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/static-site-generator/

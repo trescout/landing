@@ -1,6 +1,6 @@
 # Trivy
 
-> Trivy, konteynerler, Kubernetes kümeleri ve bulut altyapılarındaki güvenlik açıklarını, hatalı yapılandırmaları ve gizli…
+> Trivy detects vulnerabilities, misconfigurations, and secrets in containers, Kubernetes clusters, and cloud infrastructures.
 
 **Source:** GitHub  
 **Stars:** 35511

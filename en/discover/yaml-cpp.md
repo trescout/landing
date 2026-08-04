@@ -1,6 +1,6 @@
 # YAML Cpp
 
-> yaml-cpp, C++ programlama dili için YAML formatındaki verileri ayrıştıran (parser) ve oluşturan (emitter) bir kütüphanedir.
+> yaml-cpp is a library for the C++ programming language that parses and emitters data in YAML format.
 
 **Source:** GitHub  
 **Stars:** 6113

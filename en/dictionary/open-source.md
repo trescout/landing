@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Kaynak kodları herkesin erişimine ve geliştirmesine açık olan yazılımlardır.
+They are software whose source codes are open to everyone to access and develop.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/open-source/

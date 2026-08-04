@@ -1,6 +1,6 @@
 # FlClash
 
-> ClashMeta tabanlı, çok platformlu, reklamsız ve açık kaynak proxy istemcisi.
+> Multi-platform, ad-free and open source proxy client based on ClashMeta.
 
 **Source:** GitHub  
 **Stars:** 47428

@@ -1,6 +1,6 @@
 # Openmed
 
-> OpenMed, sağlık hizmetleri alanında kullanılan açık kaynaklı yapay zekâ (artificial intelligence) modellerini ve veri…
+> OpenMed develops open source artificial intelligence models and data used in healthcare.
 
 **Source:** GitHub  
 **Stars:** 4793

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Sadece gerekli kaynakları kullanarak hızlıca çalışan, çok az yer kaplayan küçük sanal bilgisayarlar.
+Small virtual computers that run quickly using only the necessary resources and take up very little space.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/lightweight-virtual-machines/

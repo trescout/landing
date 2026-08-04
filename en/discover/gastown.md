@@ -1,6 +1,6 @@
 # Gastown
 
-> Gas Town, çoklu ajan çalışma alanı yöneticisi (multi-agent workspace manager) olarak farklı yapay zekâ ajanlarının bir arada…
+> Gas Town is a combination of different artificial intelligence agents as a multi-agent workspace manager.
 
 **Source:** GitHub  
 **Stars:** 17403

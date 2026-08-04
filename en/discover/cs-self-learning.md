@@ -1,6 +1,6 @@
 # Cs Self Learning
 
-> Pekin Üniversitesi öğrencileri tarafından hazırlanan bu rehber, bilgisayar bilimleri (computer science) alanında kendi kendine…
+> This guide, prepared by Peking University students, is a self-study in the field of computer science.
 
 **Source:** GitHub  
 **Stars:** 74728

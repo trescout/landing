@@ -1,6 +1,6 @@
 # Agency Agents
 
-> Agency-agents projesi, farklı uzmanlık alanlarına sahip yapay zekâ ajanlarını bir araya getirerek dijital bir ajans yapısı…
+> Agency-agents project creates a digital agency structure by bringing together artificial intelligence agents with different areas of expertise.
 
 **Source:** GitHub  
 **Stars:** 138170

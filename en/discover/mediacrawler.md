@@ -1,6 +1,6 @@
 # MediaCrawler
 
-> MediaCrawler, popüler Çin sosyal medya platformlarındaki gönderileri ve kullanıcı yorumlarını otomatik olarak veri madenciliği…
+> MediaCrawler automatically data mines posts and user comments on popular Chinese social media platforms.
 
 **Source:** GitHub  
 **Stars:** 59631

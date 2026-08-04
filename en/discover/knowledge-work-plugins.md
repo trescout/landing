@@ -1,6 +1,6 @@
 # Knowledge Work Plugins
 
-> Claude'u alanında uzman bir asistana dönüştüren açık kaynaklı eklentiler.
+> Open source plugins that turn Claude into an expert assistant.
 
 **Source:** GitHub  
 **Stars:** 23222

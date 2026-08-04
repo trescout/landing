@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâ modellerini siber saldırılara, veri sızıntılarına ve kötü niyetli manipülasyonlara karşı koruyan yazılım.
+Software that protects AI models against cyber attacks, data leaks and malicious manipulation.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ai-security-tool/

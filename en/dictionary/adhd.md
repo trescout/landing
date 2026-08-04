@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-Dikkat dağınıklığı, aşırı hareketlilik ve dürtüsellik ile karakterize edilen nörolojik bir durumdur.
+It is a neurological condition characterized by distractibility, hyperactivity and impulsivity.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/adhd/

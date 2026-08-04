@@ -1,6 +1,6 @@
 # Video Use
 
-> Video-use kütüphanesi, kodlama ajanlarının (coding agents) video düzenleme süreçlerini otomatize etmesine olanak tanıyor.
+> The video-use library allows coding agents to automate video editing processes.
 
 **Source:** GitHub  
 **Stars:** 18290

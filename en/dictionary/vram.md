@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Ekran kartının üzerindeki, yoğun grafik ve yapay zeka işlemlerini hızlandıran özel bellek birimidir.
+It is a special memory unit on the graphics card that accelerates intensive graphics and artificial intelligence operations.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/vram/

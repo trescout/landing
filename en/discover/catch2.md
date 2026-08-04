@@ -1,6 +1,6 @@
 # Catch2
 
-> Catch2, C++14 ve sonraki sürümleri destekleyen modern bir birim testi (unit testing) çatısıdır.
+> Catch2 is a modern unit testing framework that supports C++14 and later.
 
 **Source:** GitHub  
 **Stars:** 21404

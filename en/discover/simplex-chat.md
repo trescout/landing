@@ -1,6 +1,6 @@
 # Simplex Chat
 
-> SimpleX, kullanıcı tanımlayıcıları (user identifiers) kullanmadan çalışan ilk mesajlaşma ağı olarak gizlilik odaklı bir…
+> SimpleX is a privacy-focused platform that is the first messaging network that operates without using user identifiers.
 
 **Source:** GitHub  
 **Stars:** 19164

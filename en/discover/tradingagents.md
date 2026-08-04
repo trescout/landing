@@ -1,6 +1,6 @@
 # TradingAgents
 
-> TradingAgents, finansal piyasalarda işlem yapmak amacıyla geliştirilen çoklu ajanlı büyük dil modeli (multi-agent LLM) tabanlı…
+> TradingAgents is based on the multi-agent large language model (multi-agent LLM) developed for the purpose of trading in financial markets.
 
 **Source:** GitHub  
 **Stars:** 95338

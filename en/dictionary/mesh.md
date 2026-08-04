@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Birbirine bağlı çok sayıda cihazın veya hizmetin, merkezi bir noktaya ihtiyaç duymadan veri alışverişi yapması.
+Multiple interconnected devices or services exchange data without the need for a central point.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/mesh/

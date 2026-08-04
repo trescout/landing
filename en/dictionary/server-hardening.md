@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir sunucudaki gereksiz özellikleri kapatarak ve güvenlik ayarlarını sıkılaştırarak saldırı riskini azaltma işlemidir.
+It is the process of reducing the risk of attack by turning off unnecessary features on a server and tightening security settings.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/server-hardening/

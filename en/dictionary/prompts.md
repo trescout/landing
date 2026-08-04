@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâdan bir sonuç almak için ona verdiğiniz yazılı komutlar veya sorulardır.
+These are written commands or questions you give to artificial intelligence to get a result from it.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/prompts/

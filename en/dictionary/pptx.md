@@ -5,7 +5,7 @@
 **Category:** data
 
 ## Overview
-Sunum hazırlamak için kullanılan dosyaların standart dijital formatıdır.
+It is the standard digital format of files used to prepare presentations.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/pptx/

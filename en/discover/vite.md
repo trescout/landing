@@ -1,6 +1,6 @@
 # Vite
 
-> Vite, modern web projeleri için hızlı bir geliştirme ortamı ve derleme aracı (build tool) sunuyor.
+> Vite offers a fast development environment and build tool for modern web projects.
 
 **Source:** GitHub  
 **Stars:** 82169

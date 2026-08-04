@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-İnsan seviyesinde veya üzerinde zeka sergileyen yapay zeka hedefidir.
+It is the goal of AI that exhibits human-level or above intelligence.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agi/

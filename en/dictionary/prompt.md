@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâdan belirli bir görev yapmasını veya bir soruya cevap vermesini istemek için kullanılan yazılı talimattır.
+It is a written instruction used to ask the AI ​​to perform a specific task or answer a question.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/prompt/

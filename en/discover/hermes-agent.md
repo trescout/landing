@@ -1,6 +1,6 @@
 # Hermes Agent
 
-> NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom ajan…
+> Developed by NousResearch, Hermes Agent is an autonomous agent that evolves over time by learning through user interactions.
 
 **Source:** GitHub  
 **Stars:** 225045

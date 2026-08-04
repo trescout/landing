@@ -1,6 +1,6 @@
 # Skills
 
-> Google tarafından geliştirilen yetenekler (skills) kütüphanesi, yapay zekâ ajanlarının Google ürünleri ve teknolojileriyle…
+> The skills library developed by Google allows artificial intelligence agents to use Google products and technologies.
 
 **Source:** GitHub  
 **Stars:** 15389

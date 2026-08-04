@@ -1,6 +1,6 @@
 # Buzz
 
-> Block tarafından Rust diliyle geliştirilen Buzz, merkeziyetsiz bir kovan zihni iletişim platformu (hive mind communication…
+> Developed by Block in Rust, Buzz is a decentralized hive mind communication platform (hive mind communication…
 
 **Source:** GitHub  
 **Stars:** 22004

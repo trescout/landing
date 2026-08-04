@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Evinizdeki cihazların yapay zeka veya internet üzerinden otomatik olarak kontrol edilmesidir.
+It is the automatic control of the devices in your home via artificial intelligence or the internet.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/home-automation/

@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Kod yazarken editörünüze akıllı özellikler kazandıran standart bir iletişim protokolüdür.
+It is a standard communication protocol that provides smart features to your editor while writing code.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/lsp/

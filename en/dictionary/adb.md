@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Bilgisayarınız üzerinden Android cihazlara komut gönderip, yazılım yükleme veya sistem dosyalarını yönetme gibi işlemleri yapmanızı sağlayan bir köprüdür.
+It is a bridge that allows you to send commands to Android devices via your computer and perform operations such as installing software or managing system files.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/adb/

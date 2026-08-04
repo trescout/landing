@@ -1,6 +1,6 @@
 # Editor
 
-> TypeScript tabanlı pascalorg/editor, kullanıcıların tarayıcı üzerinden üç boyutlu mimari projeler oluşturmasına ve bu…
+> TypeScript-based pascalorg/editor allows users to create and use three-dimensional architectural projects via the browser.
 
 **Source:** GitHub  
 **Stars:** 20706

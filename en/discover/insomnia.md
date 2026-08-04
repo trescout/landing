@@ -1,6 +1,6 @@
 # Insomnia
 
-> Insomnia, GraphQL, REST, WebSockets, SSE ve gRPC protokollerini destekleyen açık kaynaklı bir uygulama programlama arayüzü…
+> Insomnia is an open source application programming interface that supports GraphQL, REST, WebSockets, SSE and gRPC protocols.
 
 **Source:** GitHub  
 **Stars:** 39916

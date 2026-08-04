@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Hafıza güvenliğini ön planda tutan, yüksek performanslı bir sistem programlama dilidir.
+It is a high-performance system programming language that prioritizes memory security.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/rust/

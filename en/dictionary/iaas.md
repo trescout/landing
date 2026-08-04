@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-İnternet üzerinden sanal sunucu ve depolama alanı gibi temel donanım kaynaklarının kiralanmasıdır.
+It is the rental of basic hardware resources such as virtual servers and storage space over the internet.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/iaas/

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir sistemin temel yapısı bozulmadan yeni özellikler eklenerek geliştirilmeye uygun olması.
+The suitability of a system to be developed by adding new features without disrupting its basic structure.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/extensibility/

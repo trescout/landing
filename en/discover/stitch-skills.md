@@ -1,6 +1,6 @@
 # Stitch Skills
 
-> Google Labs tarafından geliştirilen Stitch Skills, Stitch MCP sunucusuyla uyumlu çalışmak üzere tasarlanmış bir ajan…
+> Developed by Google Labs, Stitch Skills is an agent designed to work with the Stitch MCP server.
 
 **Source:** GitHub  
 **Stars:** 7892

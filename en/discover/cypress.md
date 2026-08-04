@@ -1,6 +1,6 @@
 # Cypress
 
-> Cypress, tarayıcı tabanlı uygulamalar için uçtan uca test (end-to-end testing) süreçlerini hızlandıran ve kolaylaştıran bir…
+> Cypress is a tool that accelerates and facilitates end-to-end testing processes for browser-based applications.
 
 **Source:** GitHub  
 **Stars:** 50646

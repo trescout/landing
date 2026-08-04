@@ -1,6 +1,6 @@
 # Meshery
 
-> Meshery, bulut yerlisi (cloud native) altyapıların yönetimi için tasarlanmış bir hizmet ağı (service mesh) yönetim platformudur.
+> Meshery is a service mesh management platform designed for the management of cloud native infrastructures.
 
 **Source:** GitHub  
 **Stars:** 11427

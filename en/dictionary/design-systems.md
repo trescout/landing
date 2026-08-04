@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir uygulamanın tasarımında tutarlılığı sağlamak için kullanılan standart renk, yazı tipi ve bileşen kütüphanesidir.
+It is a standard library of colors, fonts, and components used to ensure consistency in the design of an application.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/design-systems/

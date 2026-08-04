@@ -1,6 +1,6 @@
 # Clone-Wars
 
-> Clone-Wars, Airbnb, Instagram ve Netflix gibi popüler platformların 100'den fazla açık kaynaklı kopyasını (clone) tek bir çatı…
+> Clone-Wars brings more than 100 open source clones of popular platforms such as Airbnb, Instagram and Netflix under one roof.
 
 **Source:** GitHub  
 **Stars:** 35393

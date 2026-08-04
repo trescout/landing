@@ -1,6 +1,6 @@
 # Checkout
 
-> GitHub tarafından geliştirilen actions/checkout, yazılım geliştirme süreçlerinde depo kopyalama (repository checkout)…
+> Developed by GitHub, actions/checkout is a tool for repository copying (repository checkout) in software development processes.
 
 **Source:** GitHub  
 **Stars:** 8589

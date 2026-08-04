@@ -1,6 +1,6 @@
 # Plugins
 
-> OpenAI eklentileri (plugins), dil modellerinin güncel verilere erişmesini ve üçüncü taraf uygulamalarla etkileşime girmesini…
+> OpenAI plugins allow language models to access current data and interact with third-party applications.
 
 **Source:** GitHub  
 **Stars:** 4881

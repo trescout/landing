@@ -1,6 +1,6 @@
 # Free Claude Code
 
-> Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama…
+> Terminals, applications for artificial intelligence models such as free-claude-code, Claude Code and Codex developed by Alishahryar1…
 
 **Source:** GitHub  
 **Stars:** 44150

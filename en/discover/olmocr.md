@@ -1,6 +1,6 @@
 # Olmocr
 
-> AllenAI tarafından geliştirilen olmocr, PDF belgelerini büyük dil modelleri (large language models) için uygun metin…
+> Developed by AllenAI, olmocr converts PDF documents into text formats suitable for large language models.
 
 **Source:** GitHub  
 **Stars:** 19259

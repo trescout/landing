@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Bir ürünün veya hizmetin hedef kitleye ulaştırılmasını ve tercih edilmesini sağlayan tanıtım ve strateji yetenekleridir.
+They are promotion and strategy capabilities that ensure that a product or service is delivered to the target audience and preferred.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/marketing-skills/

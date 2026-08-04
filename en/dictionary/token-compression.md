@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâ modellerinin işlediği veri miktarını azaltarak daha hızlı ve verimli çalışmasını sağlayan teknik bir yöntemdir.
+It is a technical method that allows artificial intelligence models to work faster and more efficiently by reducing the amount of data they process.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/token-compression/

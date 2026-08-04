@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir bilgisayarın veya oyun konsolunun donanımını yazılımsal olarak taklit ederek, başka cihazlara ait programları çalıştırmanızı sağlayan bir araçtır.
+It is a tool that allows you to run programs on other devices by software emulating the hardware of a computer or game console.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/emulator/

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yazılı metinlerdeki dil bilgisi, imla ve noktalama hatalarını otomatik olarak tespit edip düzelten yazılımlardır.
+They are software that automatically detects and corrects grammar, spelling and punctuation errors in written texts.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/grammar-checker/

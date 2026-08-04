@@ -1,6 +1,6 @@
 # Caveman
 
-> Caveman, Claude Code için geliştirilen ve yapay zekâ modelinin dil kullanımını basitleştirerek belirteç (token) tüketimini…
+> Caveman, developed for Claude Code, simplifies the language use of the artificial intelligence model and reduces token consumption.
 
 **Source:** GitHub  
 **Stars:** 95589

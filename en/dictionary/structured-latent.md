@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Karmaşık verilerin, yapay zekânın daha kolay anlayabileceği düzenli ve anlamlı bir matematiksel forma dönüştürülmesidir.
+It is the transformation of complex data into a regular and meaningful mathematical form that artificial intelligence can understand more easily.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/structured-latent/

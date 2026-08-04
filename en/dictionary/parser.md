@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Karmaşık verileri veya kodları, bilgisayarın adım adım işleyebileceği anlamlı parçalara ayıran bir çözümleyicidir.
+It is a parser that breaks complex data or code into meaningful pieces that the computer can process step by step.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/parser/

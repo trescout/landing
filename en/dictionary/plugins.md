@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Ana programa yeni özellikler eklemek için sonradan dahil edilen küçük yazılım parçalarıdır.
+They are small pieces of software that are included later to add new features to the main program.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/plugins/

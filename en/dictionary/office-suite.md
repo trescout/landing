@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Günlük ofis işlerini dijital ortamda yapmak için bir araya getirilmiş yazılım paketidir.
+It is a software package put together to perform daily office work in a digital environment.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/office-suite/

@@ -1,6 +1,6 @@
 # biliTickerBuy
 
-> Bilibili üyelik satın alma işlemlerini otomatikleştiren bu Python tabanlı araç, bilet alım süreçlerini hızlandırmak için…
+> This Python-based tool, which automates Bilibili membership purchasing processes, is designed to speed up ticket purchasing processes.
 
 **Source:** GitHub  
 **Stars:** 4173

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir web sitesinin veya uygulamanın kullanıcı tarafından görünen kısmını oluşturmak için kullanılan yazılım araçları bütünüdür.
+It is a set of software tools used to create the user-visible part of a website or application.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/frontend-stack/

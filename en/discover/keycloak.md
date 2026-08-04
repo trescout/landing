@@ -1,6 +1,6 @@
 # Keycloak
 
-> Keycloak, modern uygulamalar ve hizmetler için açık kaynaklı kimlik ve erişim yönetimi (identity and access management)…
+> Keycloak is an open source identity and access management solution for modern applications and services.
 
 **Source:** GitHub  
 **Stars:** 35953

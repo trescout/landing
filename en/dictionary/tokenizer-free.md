@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Metinleri küçük parçalara ayırmadan, doğrudan ham veri üzerinden işlem yapan yapay zekâ mimarisi.
+Artificial intelligence architecture that processes directly on raw data without breaking the texts into small pieces.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/tokenizer-free/

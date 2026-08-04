@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Mağaza, internet sitesi ve mobil uygulama gibi tüm satış kanallarının birbiriyle uyumlu ve kesintisiz çalışmasıdır.
+It is the harmonious and uninterrupted operation of all sales channels such as stores, websites and mobile applications.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/omni-channel/

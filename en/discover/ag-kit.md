@@ -1,6 +1,6 @@
 # Ag Kit
 
-> Ag-kit, TypeScript tabanlı projelerde otonom yapay zekâ ajanları (AI agents) oluşturmak için gerekli araçları ve yapıları…
+> Ag-kit provides the necessary tools and structures to create autonomous artificial intelligence agents (AI agents) in TypeScript-based projects.
 
 **Source:** GitHub  
 **Stars:** 8084

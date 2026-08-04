@@ -1,6 +1,6 @@
 # AI-For-Beginners
 
-> Microsoft tarafından hazırlanan AI for Beginners, 12 haftalık bir müfredatla yapay zekâya giriş konularını Jupyter not…
+> AI for Beginners, prepared by Microsoft, covers introductory artificial intelligence topics with a 12-week curriculum, using Jupyter notes…
 
 **Source:** GitHub  
 **Stars:** 58739

@@ -1,6 +1,6 @@
 # Awesome Claude Skills
 
-> ComposioHQ tarafından derlenen awesome-claude-skills, Claude yapay zekâ iş akışlarını özelleştirmeye yönelik araçları ve…
+> Curated by ComposioHQ, awesome-claude-skills includes tools and tools for customizing Claude AI workflows.
 
 **Source:** GitHub  
 **Stars:** 68956

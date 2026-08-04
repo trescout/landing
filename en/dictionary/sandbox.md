@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yeni yazılımların veya kodların ana sisteme zarar vermeden güvenle test edilebildiği yalıtılmış çalışma alanıdır.
+It is an isolated work area where new software or codes can be tested safely without damaging the main system.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/sandbox/

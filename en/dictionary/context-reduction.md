@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekaya verilen devasa bilgiyi, modelin daha hızlı ve doğru çalışması için gereksiz detaylardan arındırıp özetleme işlemidir.
+It is the process of summarizing the huge information given to artificial intelligence by purifying it from unnecessary details so that the model works faster and more accurately.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/context-reduction/

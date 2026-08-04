@@ -1,6 +1,6 @@
 # Spec Kit
 
-> GitHub tarafından yayınlanan spec-kit, şartname odaklı geliştirme (spec-driven development) süreçlerini başlatmak için gerekli…
+> Published by GitHub, spec-kit is a tool required to start specification-driven development processes.
 
 **Source:** GitHub  
 **Stars:** 125212

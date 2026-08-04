@@ -1,6 +1,6 @@
 # Openinterpreter
 
-> Open Interpreter, yerel bilgisayar ortamında kod çalıştırarak yazılım geliştirme süreçlerini otomatize eden bir kodlama ajanı…
+> Open Interpreter is a coding agent that automates software development processes by running code in the local computer environment.
 
 **Source:** GitHub  
 **Stars:** 67509

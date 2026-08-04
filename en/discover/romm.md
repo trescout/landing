@@ -1,6 +1,6 @@
 # Romm
 
-> Romm, oyun dosyalarını (ROM) düzenlemek ve tarayıcı üzerinden doğrudan oynamak için tasarlanmış, kendi sunucunuzda…
+> Romm is designed to edit game files (ROM) and play directly through the browser, on your own server.
 
 **Source:** GitHub  
 **Stars:** 11859

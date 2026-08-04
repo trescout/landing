@@ -1,6 +1,6 @@
 # Supervision
 
-> Roboflow tarafından geliştirilen Supervision, bilgisayarlı görü (computer vision) projeleri için yeniden kullanılabilir…
+> Developed by Roboflow, Supervision can be reused for computer vision projects…
 
 **Source:** GitHub  
 **Stars:** 48545

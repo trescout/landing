@@ -1,6 +1,6 @@
 # Grpc
 
-> gRPC, farklı programlama dilleri arasında yüksek performanslı iletişim sağlayan açık kaynaklı bir uzaktan yordam çağrısı…
+> gRPC is an open source remote procedure call that provides high-performance communication between different programming languages.
 
 **Source:** GitHub  
 **Stars:** 45240

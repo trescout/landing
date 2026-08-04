@@ -1,6 +1,6 @@
 # AI Engineering from Scratch
 
-> Yapay zekâ mühendisliğini sıfırdan, uygulamalı kodlama ile öğreten 485 derslik ücretsiz kurs.
+> A free 485-lesson course that teaches artificial intelligence engineering from scratch with applied coding.
 
 **Source:** GitHub  
 **Stars:** 45404

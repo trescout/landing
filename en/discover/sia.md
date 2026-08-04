@@ -1,6 +1,6 @@
 # SIA
 
-> SIA, yapay zekâ modellerinin ve ajanların belirli kıyaslama görevlerindeki (benchmark tasks) performanslarını otonom şekilde…
+> SIA autonomously monitors the performance of artificial intelligence models and agents on specific benchmark tasks.
 
 **Source:** GitHub  
 **Stars:** 1478

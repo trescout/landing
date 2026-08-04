@@ -1,6 +1,6 @@
 # Openpilot
 
-> Comma AI tarafından geliştirilen openpilot, robotik sistemler için tasarlanmış açık kaynaklı bir işletim sistemidir.
+> Developed by Comma AI, openpilot is an open source operating system designed for robotic systems.
 
 **Source:** GitHub  
 **Stars:** 63294

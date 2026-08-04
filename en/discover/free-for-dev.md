@@ -1,6 +1,6 @@
 # Free for Dev
 
-> Free-for-dev, yazılım geliştirme süreçlerinde kullanılan hizmet olarak yazılım (SaaS), hizmet olarak platform (PaaS) ve hizmet…
+> Free-for-dev, software as a service (SaaS), platform as a service (PaaS) and service…
 
 **Source:** GitHub  
 **Stars:** 131012

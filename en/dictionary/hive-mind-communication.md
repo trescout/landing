@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Bir grubun üyelerinin bilgiyi anlık paylaşarak tek bir zihin gibi hareket etmesini sağlayan iletişim yöntemidir.
+It is a communication method that allows members of a group to act as a single mind by sharing information instantly.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/hive-mind-communication/

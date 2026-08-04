@@ -5,7 +5,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekanın güncel ve özel verilerinizden bilgi alarak cevap üretmesini sağlayan bir yöntemdir.
+It is a method that allows artificial intelligence to produce answers by obtaining information from your current and private data.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/rag/

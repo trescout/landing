@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Farklı yazılımların birbirleriyle konuşurken veriyi çok hızlı ve küçük boyutlarda paketleyip taşımasını sağlayan bir yöntemdir.
+It is a method that allows different software to package and transport data very quickly and in small sizes while talking to each other.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/protocol-buffers/

@@ -1,6 +1,6 @@
 # Deer Flow
 
-> ByteDance tarafından geliştirilen Deer-Flow, uzun süreli görevleri yerine getirmek için tasarlanmış açık kaynaklı bir süper…
+> Developed by ByteDance, Deer-Flow is an open-source supercomputer designed to perform long-duration tasks.
 
 **Source:** GitHub  
 **Stars:** 78818

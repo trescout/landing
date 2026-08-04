@@ -1,6 +1,6 @@
 # System Design 101
 
-> ByteByteGoHq tarafından hazırlanan system-design-101 deposu, karmaşık sistem mimarilerini görselleştirmeler ve sade bir dille…
+> The system-design-101 repository prepared by ByteByteGoHq explains complex system architectures with visualizations and simple language.
 
 **Source:** GitHub  
 **Stars:** 84839

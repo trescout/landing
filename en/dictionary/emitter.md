@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-İşlenmiş veriyi veya kodu, başka bir sistemin veya aracın kullanabileceği bir çıktı formatına dönüştüren mekanizmadır.
+It is the mechanism that converts processed data or code into an output format that another system or tool can use.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/emitter/

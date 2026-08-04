@@ -1,6 +1,6 @@
 # Awesome Systematic Trading
 
-> Sistematik alım satım (systematic trading) alanındaki kütüphaneleri, stratejileri ve eğitim kaynaklarını bir araya getiren bu…
+> Bringing together libraries, strategies and educational resources in the field of systematic trading, this…
 
 **Source:** GitHub  
 **Stars:** 12499

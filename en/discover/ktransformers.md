@@ -1,6 +1,6 @@
 # Ktransformers
 
-> Ktransformers, büyük dil modellerinin (large language models) çıkarım ve ince ayar (fine-tuning) süreçlerinde heterojen…
+> Ktransformers is a heterogeneous technology in the inference and fine-tuning processes of large language models.
 
 **Source:** GitHub  
 **Stars:** 19145

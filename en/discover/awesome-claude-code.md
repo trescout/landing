@@ -1,6 +1,6 @@
 # Awesome Claude Code
 
-> Anthropic tarafından geliştirilen kodlama asistanı Claude Code için hazırlanan bu seçki, yazılım geliştirme süreçlerini…
+> This selection prepared for Claude Code, the coding assistant developed by Anthropic, examines software development processes.
 
 **Source:** GitHub  
 **Stars:** 51520

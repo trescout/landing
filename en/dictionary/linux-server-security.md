@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Açık kaynaklı sunucu sistemlerini siber tehditlere karşı güçlendirme ve koruma disiplinidir.
+It is the discipline of strengthening and protecting open source server systems against cyber threats.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/linux-server-security/

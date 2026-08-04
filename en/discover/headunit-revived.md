@@ -1,6 +1,6 @@
 # Headunit Revived
 
-> Headunit-revived projesi, Android Auto arayüzünü farklı ekranlarda görüntülemeyi sağlayan bir uygulama sunuyor.
+> The headunit-revived project provides an application that allows viewing the Android Auto interface on different screens.
 
 **Source:** GitHub  
 **Stars:** 1484

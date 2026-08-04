@@ -1,6 +1,6 @@
 # SkillSpector
 
-> NVIDIA tarafından geliştirilen SkillSpector, yapay zekâ ajanlarına ait yetenek paketlerindeki (skills) güvenlik açıklarını ve…
+> Developed by NVIDIA, SkillSpector detects vulnerabilities and vulnerabilities in the skill packages of artificial intelligence agents.
 
 **Source:** GitHub  
 **Stars:** 14066

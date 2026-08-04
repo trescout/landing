@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-İnternet üzerindeki işlemlerinizi sizin yerinize yapan bir aracı sunucudur.
+It is an intermediary server that performs your transactions on the Internet on your behalf.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/proxy/

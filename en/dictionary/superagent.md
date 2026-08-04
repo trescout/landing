@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Birden fazla görevi aynı anda yönetebilen ve karmaşık işlemleri çözebilen gelişmiş yapay zekâ yardımcısı.
+Advanced artificial intelligence assistant that can manage multiple tasks simultaneously and solve complex operations.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/superagent/

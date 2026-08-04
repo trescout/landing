@@ -1,6 +1,6 @@
 # Opendataloader PDF
 
-> OpenDataLoader PDF, yapay zekâ modelleri için veriyi hazır hale getiren açık kaynaklı bir PDF ayrıştırıcıdır (PDF parser).
+> OpenDataLoader PDF is an open source PDF parser that makes data available for artificial intelligence models.
 
 **Source:** GitHub  
 **Stars:** 28095

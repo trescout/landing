@@ -1,6 +1,6 @@
 # Pm Skills
 
-> PM Skills Marketplace, ürün yönetimi süreçleri için geliştirilmiş 100'den fazla otonom yetenek (agentic skills), komut ve…
+> PM Skills Marketplace offers more than 100 agentic skills, commands and tools developed for product management processes.
 
 **Source:** GitHub  
 **Stars:** 24775

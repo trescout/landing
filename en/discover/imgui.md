@@ -1,6 +1,6 @@
 # Imgui
 
-> Dear ImGui, C++ projeleri için minimum bağımlılıkla çalışan, hafif bir grafik kullanıcı arayüzü (graphical user interface)…
+> Dear ImGui is a lightweight graphical user interface for C++ projects that works with minimal dependencies…
 
 **Source:** GitHub  
 **Stars:** 75457

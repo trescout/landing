@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Veri iletimi sırasında hata oluştuğunda bilginin otomatik olarak tekrar gönderilmesini sağlayan hata kontrol mekanizmasıdır.
+It is an error control mechanism that ensures that information is automatically re-sent when an error occurs during data transmission.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/arq/

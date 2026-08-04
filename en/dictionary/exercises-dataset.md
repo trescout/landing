@@ -3,7 +3,7 @@
 **Category:** data
 
 ## Overview
-Bir konuyu öğrenirken pratik yapmanızı sağlayan düzenlenmiş alıştırma verileri bütünüdür.
+It is a set of organized practice data that allows you to practice while learning a subject.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/exercises-dataset/

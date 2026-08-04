@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Verinin bir noktadan alınıp işlenerek nihai bir ürüne dönüştüğü, birbirine bağlı otomatik aşamalar dizisi.
+A series of interconnected automatic stages in which data is received from a point, processed and transformed into a final product.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/pipelines/

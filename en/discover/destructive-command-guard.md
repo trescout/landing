@@ -1,6 +1,6 @@
 # Destructive Command Guard
 
-> Yıkıcı Komut Koruması (destructive command guard), yapay zekâ ajanları tarafından çalıştırılan tehlikeli git ve kabuk (shell)…
+> Destructive Command Guard, dangerous git and shell attacks run by artificial intelligence agents…
 
 **Source:** GitHub  
 **Stars:** 5542

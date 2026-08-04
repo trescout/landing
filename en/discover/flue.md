@@ -1,6 +1,6 @@
 # Flue
 
-> Astro ekibi tarafından geliştirilen Flue, TypeScript tabanlı bir kum havuzu ajan çatısı (sandbox agent framework) olarak öne…
+> Developed by the Astro team, Flue is a TypeScript-based sandbox agent framework.
 
 **Source:** GitHub  
 **Stars:** 7625

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zeka modellerine giden trafiği yöneten ve denetleyen bir geçit yazılımıdır.
+It is a gateway software that manages and controls traffic to artificial intelligence models.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ai-gateway/

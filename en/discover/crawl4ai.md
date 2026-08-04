@@ -1,6 +1,6 @@
 # Crawl4AI
 
-> LLM dostu açık kaynak web tarayıcı: web verisini yapay zekâ için temiz bilgiye dönüştürün.
+> LLM-friendly open source web browser: transform web data into clean information for AI.
 
 **Source:** GitHub  
 **Stars:** 75853

@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekânın daha önce işlediği metin başlangıçlarını hafızada tutarak aynı işlemleri tekrar yapmasını engelleyen hızlandırma yöntemi.
+An acceleration method that prevents artificial intelligence from repeating the same operations by keeping the text beginnings it has previously processed in memory.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/prefix-cache/

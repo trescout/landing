@@ -1,6 +1,6 @@
 # Wigolo
 
-> Wigolo, yapay zekâ kodlama ajanları için yerel öncelikli (local-first) arama, veri çekme ve tarama yetenekleri sunan bir araçtır.
+> Wigolo is a tool that provides local-first search, data extraction and crawling capabilities for artificial intelligence coding agents.
 
 **Source:** GitHub  
 **Stars:** 4069

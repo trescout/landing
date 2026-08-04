@@ -1,6 +1,6 @@
 # Free Stockdb
 
-> Free-stockdb, A hisse senetleri ve borsa yatırım fonları (ETF) için günlük ve dakikalık verileri yöneten yerel bir nicel…
+> Free-stockdb is a native quantitative quant that manages daily and minute data for A stocks and exchange traded funds (ETFs).
 
 **Source:** GitHub  
 **Stars:** 1684

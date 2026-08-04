@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Farklı ağlar arasında veri trafiğini yöneten ve geçişi sağlayan bağlantı noktasıdır.
+It is the port that manages and transitions data traffic between different networks.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/gateway/

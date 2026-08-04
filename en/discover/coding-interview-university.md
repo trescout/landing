@@ -1,6 +1,6 @@
 # Coding Interview University
 
-> Coding-interview-university, yazılım mühendisi olmak isteyenler için bilgisayar bilimleri (computer science) temellerini…
+> Coding-interview-university provides the basics of computer science for those who want to become software engineers…
 
 **Source:** GitHub  
 **Stars:** 349290

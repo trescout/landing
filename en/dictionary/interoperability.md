@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Farklı sistemlerin veya yazılımların birbirleriyle sorunsuz bir şekilde veri alışverişi yapabilme yeteneğidir.
+It is the ability of different systems or software to exchange data with each other seamlessly.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/interoperability/

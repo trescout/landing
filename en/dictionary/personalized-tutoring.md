@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Öğrencinin anlama hızına ve eksiklerine göre uyarlanan yapay zeka destekli özel eğitim.
+Artificial intelligence-supported special education adapted to the student's understanding speed and deficiencies.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/personalized-tutoring/

@@ -1,6 +1,6 @@
 # Superfile
 
-> Go diliyle geliştirilen superfile, terminal tabanlı dosya yöneticilerine modern ve görsel açıdan zengin bir arayüz kazandırıyor.
+> Developed with the Go language, superfile provides a modern and visually rich interface to terminal-based file managers.
 
 **Source:** GitHub  
 **Stars:** 22119

@@ -1,6 +1,6 @@
 # PDF Inspector
 
-> Firecrawl tarafından geliştirilen PDF Inspector, PDF dosyalarını incelemek, sınıflandırmak ve metinlerini ayıklamak için…
+> Developed by Firecrawl, PDF Inspector is a tool for examining, classifying and extracting text from PDF files.
 
 **Source:** GitHub  
 **Stars:** 8766

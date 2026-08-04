@@ -1,6 +1,6 @@
 # Timesfm
 
-> Google Research tarafından geliştirilen Zaman Serisi Temel Modeli (Time Series Foundation Model), zaman serisi tahminleme…
+> Time Series Foundation Model, developed by Google Research, is a time series forecasting…
 
 **Source:** GitHub  
 **Stars:** 27185

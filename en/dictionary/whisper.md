@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Konuşulan dili yüksek doğrulukla metne dönüştüren, yapay zekâ tabanlı bir ses tanıma teknolojisidir.
+It is an artificial intelligence-based voice recognition technology that converts spoken language into text with high accuracy.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/whisper/

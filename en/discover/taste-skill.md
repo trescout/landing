@@ -1,6 +1,6 @@
 # Taste Skill
 
-> Yapay zekânın tasarladığı arayüzlere profesyonel bir estetik dokunuş kazandıran beceri.
+> The skill that gives a professional aesthetic touch to interfaces designed by artificial intelligence.
 
 **Source:** GitHub  
 **Stars:** 69955

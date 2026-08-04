@@ -1,6 +1,6 @@
 # Espectre
 
-> ESPectre, Wi-Fi kanal durum bilgisi (CSI) analizi üzerinden hareket algılama gerçekleştiren bir sistemdir.
+> ESPectre is a system that performs motion detection via Wi-Fi channel state information (CSI) analysis.
 
 **Source:** GitHub  
 **Stars:** 8905

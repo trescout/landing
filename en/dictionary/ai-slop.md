@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekâ tarafından hızlıca üretilmiş, düşük kaliteli ve genellikle bir değer katmayan içerik yığınıdır.
+It is a pile of content that is quickly produced by artificial intelligence, is of low quality and generally does not add any value.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/ai-slop/

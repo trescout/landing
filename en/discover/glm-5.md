@@ -1,6 +1,6 @@
 # GLM 5
 
-> GLM-5, yazılım geliştirme süreçlerini sezgisel kodlamadan (vibe coding) yapılandırılmış ajan tabanlı mühendisliğe (agentic…
+> GLM-5 transforms software development processes from intuitive coding (vibe coding) to structured agent-based engineering (agent…
 
 **Source:** GitHub  
 **Stars:** 6864

@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılımcıların sık kullandığı işlemleri kolayca yapabilmesi için önceden hazırlanmış hazır kod paketleri.
+Pre-prepared code packages so that software developers can easily perform frequently used operations.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/common-libraries/

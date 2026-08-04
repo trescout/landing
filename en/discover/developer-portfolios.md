@@ -1,6 +1,6 @@
 # Developer Portfolios
 
-> Kendi siteniz için ilham alabileceğiniz geliştirici portfolyo örnekleri koleksiyonu.
+> A collection of developer portfolio examples to get inspiration for your own site.
 
 **Source:** GitHub  
 **Stars:** 25746

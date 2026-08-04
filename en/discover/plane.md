@@ -1,6 +1,6 @@
 # Plane
 
-> Plane, görev yönetimi, sprint planlama ve dokümantasyon süreçlerini bir araya getiren açık kaynaklı bir proje yönetim…
+> Plane is an open source project management tool that combines task management, sprint planning and documentation processes.
 
 **Source:** GitHub  
 **Stars:** 55364

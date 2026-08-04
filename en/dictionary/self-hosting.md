@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılımları kendi sunucularınızda veya bilgisayarlarınızda barındırma yöntemidir.
+It is a method of hosting software on your own servers or computers.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/self-hosting/

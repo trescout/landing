@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Bir sistemin iç durumunu dışarıdan gelen verilerle izleme yeteneğidir.
+It is the ability to monitor the internal state of a system with external data.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/observability/

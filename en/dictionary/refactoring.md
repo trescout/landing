@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılımın dışarıdan görünen davranışını değiştirmeden, içindeki kod yapısını daha düzenli ve verimli hale getirme işlemidir.
+It is the process of making the code structure inside the software more organized and efficient without changing its external behavior.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/refactoring/

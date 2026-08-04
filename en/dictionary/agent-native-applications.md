@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zeka ajanlarının karar alıp işlemleri yürütmesi için özel olarak tasarlanmış uygulamalardır.
+They are applications specifically designed for artificial intelligence agents to make decisions and carry out transactions.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agent-native-applications/

@@ -1,6 +1,6 @@
 # Supermemory
 
-> Yapay zekâ çağı için tasarlanmış ölçeklenebilir bellek motoru ve API.
+> Scalable memory engine and API designed for the age of artificial intelligence.
 
 **Source:** GitHub  
 **Stars:** 28742

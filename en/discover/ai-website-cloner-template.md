@@ -1,6 +1,6 @@
 # AI Website Cloner Template
 
-> JCodesMore tarafından geliştirilen yapay zekâ web sitesi kopyalayıcı (AI website cloner), TypeScript tabanlı kodlama…
+> Artificial intelligence website cloner developed by JCodesMore is a TypeScript-based coding…
 
 **Source:** GitHub  
 **Stars:** 30826

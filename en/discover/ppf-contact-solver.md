@@ -1,6 +1,6 @@
 # PPF Contact Solver
 
-> Fizik simülasyonları için temas çözücü: Kumaş, katı ve ip etkileşimlerinde ZOZO'nun fizik motoru.
+> Contact solver for physics simulations: ZOZO's physics engine for fabric, solid and rope interactions.
 
 **Source:** GitHub  
 **Stars:** 4380

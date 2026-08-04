@@ -1,6 +1,6 @@
 # Agent Native
 
-> BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications)…
+> Agent-native, native applications for artificial intelligence agents developed by BuilderIO…
 
 **Source:** GitHub  
 **Stars:** 4397

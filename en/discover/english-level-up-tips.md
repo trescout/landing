@@ -1,6 +1,6 @@
 # English Level Up Tips
 
-> İleri seviye İngilizce için kapsamlı ve sıra dışı bir öğrenme rehberi.
+> A comprehensive and extraordinary learning guide for advanced English.
 
 **Source:** GitHub  
 **Stars:** 56687

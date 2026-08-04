@@ -1,6 +1,6 @@
 # Ds4
 
-> Redis'in yaratıcısı Salvatore Sanfilippo tarafından geliştirilen ds4, DeepSeek modellerini yerel donanımlar üzerinde…
+> Developed by Salvatore Sanfilippo, the creator of Redis, DS4 supports DeepSeek models on local hardware.
 
 **Source:** GitHub  
 **Stars:** 20117

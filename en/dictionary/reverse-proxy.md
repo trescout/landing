@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-İnternetten gelen istekleri karşılayıp uygun sunuculara dağıtan ve güvenliği sağlayan bir trafik yönlendiricisidir.
+It is a traffic router that receives requests from the Internet, distributes them to appropriate servers and ensures security.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/reverse-proxy/

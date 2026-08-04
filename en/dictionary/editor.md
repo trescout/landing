@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Yazılımcıların kod yazmak, düzenlemek ve hataları ayıklamak için kullandığı özel bir yazı programıdır.
+It is a special writing program used by software developers to write, edit and debug code.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/editor/

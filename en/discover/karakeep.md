@@ -1,6 +1,6 @@
 # Karakeep
 
-> Karakeep, bağlantıları, notları ve görselleri tek bir merkezde toplayan, kendi sunucunuzda barındırabileceğiniz…
+> Karakeep is a platform that collects links, notes and images in a single center and hosts them on your own server.
 
 **Source:** GitHub  
 **Stars:** 28017

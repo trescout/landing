@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zeka modellerini daha hafif ve hızlı hale getirmek için yapılan boyut küçültme işlemidir.
+It is a size reduction process to make artificial intelligence models lighter and faster.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/quantization/

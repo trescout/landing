@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Farklı sitelere giriş yaparken kimliğinizi güvenli bir şekilde doğrulayan standart bir protokoldür.
+It is a standard protocol that securely verifies your identity when logging into different sites.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/oidc/

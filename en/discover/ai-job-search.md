@@ -1,6 +1,6 @@
 # AI Job Search
 
-> Claude Code altyapısını kullanan ai-job-search, iş arama sürecini otomatikleştiren bir çerçeve (framework) sunuyor.
+> Using the Claude Code infrastructure, ai-job-search offers a framework that automates the job search process.
 
 **Source:** GitHub  
 **Stars:** 29509

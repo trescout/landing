@@ -1,6 +1,6 @@
 # System Prompts and Models of AI Tools
 
-> Popüler yapay zekâ araçlarının sistem yönergeleri (system prompts) ve kullanılan dil modelleri (AI models), geliştiricilerin…
+> System prompts and language models used in popular artificial intelligence tools are used by developers…
 
 **Source:** GitHub  
 **Stars:** 139309

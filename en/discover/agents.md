@@ -1,6 +1,6 @@
 # Agents
 
-> LiveKit Agents, gerçek zamanlı sesli ve görüntülü yapay zekâ ajanları geliştirmek için kullanılan bir Python çerçevesidir…
+> LiveKit Agents is a Python framework for developing real-time voice and video AI agents…
 
 **Source:** GitHub  
 **Stars:** 12125

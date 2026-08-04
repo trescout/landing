@@ -1,6 +1,6 @@
 # Fprime
 
-> NASA tarafından geliştirilen F´, uçuş yazılımları ve gömülü sistemler (embedded systems) için tasarlanmış açık kaynaklı bir…
+> Developed by NASA, F´ is an open source software designed for flight software and embedded systems.
 
 **Source:** GitHub  
 **Stars:** 11610

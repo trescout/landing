@@ -3,7 +3,7 @@
 **Category:** dev
 
 ## Overview
-Dış dünyadan gelen tüm istekleri karşılayan, bunları doğru yerlere yönlendiren ve güvenlik kontrollerini yapan merkezi bir giriş kapısıdır.
+It is a central entrance gate that meets all requests from the outside world, directs them to the right places and performs security checks.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/api-gateway/

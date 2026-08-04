@@ -3,7 +3,7 @@
 **Category:** ai
 
 ## Overview
-Yapay zekanın hiç eğitim almadığı bir konuyu tahmin etme yeteneğidir.
+It is the ability of artificial intelligence to predict something for which it has no training.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/zero-shot-learning/

@@ -5,7 +5,7 @@
 **Category:** dev
 
 ## Overview
-Sunucu ve ağ gibi sistem kurulumlarını elle yapmak yerine, kod dosyaları yazarak otomatikleştirme yöntemi.
+A method of automating system installations such as server and network by writing code files instead of doing them manually.
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/infrastructure-as-code/
