@@ -1,0 +1,18 @@
+# TreScout (English Index)
+
+> TreScout scans GitHub, Hacker News, and HuggingFace daily, filters the noise using multi-agent AI, and delivers structured tech digests.
+
+## Product Overview
+
+- [TreScout English Home](https://trescout.com/en/)
+- [RSS vs AI-Filtered Radar Comparison](https://trescout.com/compare/rss-vs-ai/)
+- [Tech Dictionary Index](https://trescout.com/dictionary/)
+- [Open Source Discover Index](https://trescout.com/discover/)
+
+## AI Crawlers & API Access
+
+Every dictionary term and open-source project page on TreScout is served as both HTML and plain Markdown:
+- Append `.md` to any dictionary or discover URL to fetch raw Markdown (e.g. https://trescout.com/dictionary/rag.md).
+- Use `Accept: text/markdown` HTTP request headers.
+
+Contact: hello@trescout.com
