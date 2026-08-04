@@ -20,6 +20,14 @@ try {
 
 console.log(`Loaded ${dictionary.length} dictionary terms and ${catalog.length} discover items.`);
 
+const tagTranslationMap = {
+  'AI ajan araçları': 'AI Agent Tools',
+  'Geliştirici aracı': 'Developer Tool',
+  'Kod bilmeyenler için': 'No-Code',
+  'Öğrenme': 'Learning',
+  'Üretkenlik': 'Productivity'
+};
+
 const richEnFooter = `<footer>
   <div class="container">
     <div class="footer-grid">
@@ -325,17 +333,31 @@ ${richEnFooter}
 fs.writeFileSync(path.join(dictIndexDir, 'index.html'), dictIndexHtml, 'utf8');
 console.log('Generated rich /en/dictionary/index.html');
 
-// 4. Generate /en/discover/index.html with rich UI, search input, filter chips & rich footer
+// 4. Generate /en/discover/index.html with 1-to-1 card layout (thumbnail, body, tags, meta)
 const discIndexDir = path.join(ROOT, 'en', 'discover');
 fs.mkdirSync(discIndexDir, { recursive: true });
 
 const discCards = catalog.map(c => {
   const tagline = c.tagline_en || c.tagline || '';
   const searchAttr = `${c.title} ${tagline} ${c.slug}`.replace(/"/g, '&quot;');
+  const imgHtml = c.image ? `<img class="disc-card-img" src="${c.image}" alt="" loading="lazy" decoding="async">` : '';
+  
+  const tagChips = (c.tags || []).map(t => {
+    const translatedTag = tagTranslationMap[t] || t;
+    return `<span class="disc-card-tagchip">${translatedTag}</span>`;
+  }).join('');
+  
+  const tagChipsHtml = tagChips ? `<div class="disc-card-tags">${tagChips}</div>` : '';
+  const metaStr = c.meta ? c.meta : `★ ${c.stars || 0}`;
+
   return `<a class="disc-card" data-cat="all" data-search="${searchAttr}" href="/en/discover/${c.slug}/">
-    <div class="disc-card-top"><span class="disc-card-source">${c.source || 'GitHub'}</span><span class="disc-card-stars">★ ${c.stars || 0}</span></div>
-    <h2 class="disc-card-title">${c.title}</h2>
-    <p class="disc-card-lead">${tagline}</p>
+    ${imgHtml}
+    <div class="disc-card-body">
+      <h2 class="disc-card-title">${c.title}</h2>
+      <p class="disc-card-tag">${tagline}</p>
+      ${tagChipsHtml}
+      <span class="disc-card-meta">${metaStr}</span>
+    </div>
   </a>`;
 }).join('\n');
 
@@ -388,7 +410,7 @@ ${richEnFooter}
 </body>
 </html>`;
 fs.writeFileSync(path.join(discIndexDir, 'index.html'), discIndexHtml, 'utf8');
-console.log('Generated rich /en/discover/index.html');
+console.log('Generated 1-to-1 card matching /en/discover/index.html');
 
 // 5. Update sitemap.xml with all new EN URLs
 let sm = fs.readFileSync(SITEMAP, 'utf8');
