@@ -174,7 +174,7 @@ ${JSON.stringify({
   "description": tagline,
   "url": canonEn,
   "applicationCategory": "DeveloperApplication",
-  ...(c.stars ? { "aggregateRating": { "@type": "AggregateRating", "ratingValue": "5", "ratingCount": String(c.stars) } } : {})
+  ...(c.stars ? { "interactionStatistic": { "@type": "InteractionCounter", "interactionType": "https://schema.org/LikeAction", "userInteractionCount": c.stars } } : {})
 })}
 </script>
 <script type="application/ld+json">

@@ -12,7 +12,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TODAY = os.environ.get("DICT_DATE") or datetime.date.today().isoformat()
 cat = json.load(open(os.path.join(ROOT, "assets", "discover", "catalog.json"), encoding="utf-8"))
 man = json.load(open(os.path.join(ROOT, "assets", "dictionary", "dictionary.json"), encoding="utf-8"))
-B = "https://trescout.com"
+B = os.environ.get("SITE_URL") or "https://trescout.com"
 def clip(s, n=90):
     s = (s or "").strip()
     return s if len(s) <= n else s[:n - 1].rstrip() + "…"

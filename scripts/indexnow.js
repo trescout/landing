@@ -6,7 +6,8 @@ const https = require('https');
 const ROOT = path.dirname(__dirname);
 const SITEMAP = path.join(ROOT, 'sitemap.xml');
 const KEY = process.env.INDEXNOW_KEY || '4a8f92b1c3d4e5f67890abcdef123456';
-const HOST = process.env.SITE_HOST || 'trescout.com';
+const SITE_URL = process.env.SITE_URL || 'https://trescout.com';
+const HOST = SITE_URL.replace(/^https?:\/\//, '').replace(/\/+$/, '');
 const CHUNK_SIZE = 10000; // IndexNow max URLs per request
 const MAX_RETRIES = 3;
 const RETRY_DELAY_MS = 2000;
@@ -19,7 +20,9 @@ try {
   process.exit(1);
 }
 
-const urlMatches = sitemapContent.match(/<loc>(https:\/\/trescout\.com\/[^<]+)<\/loc>/g) || [];
+const escapedHost = HOST.replace(/\./g, '\\.');
+const urlRegex = new RegExp(`<loc>(https://${escapedHost}/[^<]+)</loc>`, 'g');
+const urlMatches = sitemapContent.match(urlRegex) || [];
 const urlList = urlMatches.map(m => m.replace('<loc>', '').replace('</loc>', ''));
 
 console.log(`Extracted ${urlList.length} URLs from sitemap.xml for IndexNow ping.`);
