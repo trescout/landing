@@ -3225,5 +3225,19 @@
     "full": "Integrated Development Environment",
     "cat": "dev",
     "kisa": "Yazılımcıların kod yazarken ihtiyaç duyduğu tüm araçları tek bir çatı altında toplayan gelişmiş bir çalışma ortamıdır."
+  },
+  {
+    "slug": "llm-wiki",
+    "en": "LLM-Wiki",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ modellerinin daha doğru ve güncel yanıtlar verebilmesi için dış kaynaklardan beslendiği yapılandırılmış bilgi kütüphanesidir."
+  },
+  {
+    "slug": "code-graph",
+    "en": "Code-Graph",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım projelerindeki kod bloklarının, fonksiyonların ve dosyaların birbirleriyle olan ilişkilerini görselleştiren bir harita yapısıdır."
   }
 ]

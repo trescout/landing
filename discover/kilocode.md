@@ -55,7 +55,7 @@ Bir yazılım geliştirme ajanı olarak, mevcut proje dizinimde doğal dilden ko
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic Engineering Platform Agentic Engineering Coding Agent Agentic Agent CLI
+Agentic Engineering Platform Agentic Engineering Coding Agent Agentic CLI Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/kilocode/
