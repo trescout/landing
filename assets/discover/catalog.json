@@ -3396,8 +3396,6 @@
     ],
     "stars": 11427,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "headline": "Bulut yerlisi altyapıları yönetin",
     "last_review": "2026-08-04",
     "guncellemeler": [
@@ -3415,7 +3413,22 @@
         "surum": "v1.0.64",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Bash Script",
+          "komut": "curl -L https://meshery.io/install | bash -"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "CLI",
+          "komut": "mesheryctl system start"
+        }
+      ],
+      "kaynak": "Resmi Dokümantasyon"
+    }
   },
   {
     "slug": "cypress",
@@ -3455,8 +3468,6 @@
     ],
     "stars": 35393,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "headline": "Popüler Platformları yapay zekâyla Kopyalayın",
     "last_review": "2026-08-04"
   },
@@ -3473,8 +3484,6 @@
     ],
     "stars": 3301,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "headline": "Otonom Robotik Dünyasına Giriş Yapın",
     "last_review": "2026-08-04",
     "guncellemeler": [
@@ -3536,8 +3545,6 @@
     "stars": 8798,
     "lite": false,
     "headline": "Tesla verilerinizi kendi sunucunuzda izleyin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-04",
     "guncellemeler": [
       {
@@ -3563,8 +3570,6 @@
     "stars": 129072,
     "lite": false,
     "headline": "Animasyonlarla veri yapıları ve algoritmalar",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-04",
     "guncellemeler": [
       {
@@ -3688,8 +3693,6 @@
     "stars": 7672,
     "lite": false,
     "headline": "Windows performansını ve gizliliğini artırın",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-04",
     "guncellemeler": [
       {
@@ -3715,8 +3718,6 @@
     "stars": 8660,
     "lite": false,
     "headline": "Android cihazınızdaki gereksiz uygulamaları temizleyin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-04",
     "guncellemeler": [
       {
@@ -3894,8 +3895,6 @@
     "stars": 45919,
     "lite": false,
     "headline": "Güvenli ve özelleştirilebilir ekip iletişimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-04",
     "guncellemeler": [
       {
@@ -3967,8 +3966,6 @@
     "stars": 57989,
     "lite": false,
     "headline": "Tasarım ve yazılımı birleştiren platform",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-04",
     "guncellemeler": [
       {
@@ -4230,8 +4227,6 @@
     "stars": 39916,
     "lite": false,
     "headline": "Kapsamlı yapay zekâ destekli API istemcisi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-04",
     "guncellemeler": [
       {
@@ -4304,8 +4299,6 @@
     "stars": 15631,
     "lite": false,
     "headline": "yapay zekâ geliştirme için temel kaynaklar",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-04",
     "guncellemeler": [
       {
@@ -4576,8 +4569,6 @@
     "stars": 27342,
     "lite": false,
     "headline": "Android mesajlarınızı farklı platformlara yönlendirin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-04",
     "guncellemeler": [
       {
@@ -4940,8 +4931,6 @@
     "stars": 32968,
     "lite": false,
     "headline": "Claude kodlama asistanı için eklentiler",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-04",
     "guncellemeler": [
       {
@@ -4966,8 +4955,6 @@
     "stars": 63889,
     "lite": false,
     "headline": "Claude Code için yapay zekâ rehberi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-04",
     "guncellemeler": [
       {
