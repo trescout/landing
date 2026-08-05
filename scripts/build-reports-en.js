@@ -81,10 +81,11 @@ dirs.sort().reverse().forEach(dateStr => {
   const titleMatch = trHtml.match(/<h1 class="rep-title">(.*?)<\/h1>/);
   const editorialMatch = trHtml.match(/<p class="rep-editorial">(.*?)<\/p>/);
   const chipsMatch = trHtml.match(/<div class="rep-chips">(.*?)<\/div>/s);
-  const pdfMatch = trHtml.match(/href="(\/reports\/trescout-rapor-[^"]+\.pdf[^"]*)"/);
 
   const enDateFormatted = formatEnDate(dateStr);
-  const pdfUrl = pdfMatch ? pdfMatch[1] : `/reports/trescout-rapor-${dateStr}.pdf`;
+  
+  // Dedicated English PDF URL
+  const enPdfUrl = `/reports/trescout-report-${dateStr}-en.pdf`;
 
   // Translate chips
   let enChips = chipsMatch ? chipsMatch[1] : '<span class="chip">Daily Tech Radar</span>';
@@ -92,6 +93,11 @@ dirs.sort().reverse().forEach(dateStr => {
     .replace(/Günün Modelleri/g, 'Daily Models')
     .replace(/Günün Makaleleri/g, 'Daily Papers')
     .replace(/öne çıkan/g, 'highlights');
+
+  // Add historical translated archive badge for dates <= 2026-08-05
+  const isHistoricalArchive = dateStr <= '2026-08-05';
+  const badgeTag = isHistoricalArchive ? 
+    `<span class="chip" style="background: rgba(95, 168, 211, .15); border-color: rgba(95, 168, 211, .3); color: var(--accent);">Translated Archive</span>` : '';
 
   const enEditorial = editorialMatch ? 
     `Daily AI Tech Radar compilation for ${enDateFormatted}. Top developer tools, open-source repositories, and AI research papers captured from GitHub Trending, Hacker News, HuggingFace, and Lobsters.` :
@@ -127,15 +133,15 @@ dirs.sort().reverse().forEach(dateStr => {
   <main id="main">
     <article class="report-main">
       <a class="rep-back" href="/en/reports/">← All Reports</a>
-      <div class="rep-eyebrow">Daily Technology Report</div>
+      <div class="rep-eyebrow">Daily Technology Report ${isHistoricalArchive ? '· Translated Archive Edition' : ''}</div>
       <h1 class="rep-title">${enDateFormatted}</h1>
-      <div class="rep-chips">${enChips}</div>
+      <div class="rep-chips">${badgeTag}${enChips}</div>
       <p class="rep-editorial">${enEditorial}</p>
       <div class="rep-actions">
-        <a class="act act-read" href="${pdfUrl}" target="_blank" rel="noopener">Open PDF (TR Edition) →</a>
-        <a class="act act-dl" href="${pdfUrl}" download>Download PDF (TR)</a>
+        <a class="act act-read" href="${enPdfUrl}" target="_blank" rel="noopener">Open English PDF →</a>
+        <a class="act act-dl" href="${enPdfUrl}" download>Download PDF</a>
       </div>
-      <p class="rep-note">Web report summary is in English above. Downloadable PDF edition is published in Turkish.</p>
+      <p class="rep-note">Full English technology intelligence report featuring trend analysis, source links, and glossary terms.</p>
       <aside class="signup-cta">
         <p><strong>Get daily technology reports in your inbox.</strong> TreScout scans, summarizes, and delivers. You just read.</p>
         <a class="btn btn-primary" href="/en/#top">Join Early Access List →</a>
@@ -155,18 +161,18 @@ dirs.sort().reverse().forEach(dateStr => {
           <a class="card-main" href="/en/reports/${dateStr}/">
             <time class="card-date" datetime="${dateStr}">${enDateFormatted}</time>
             <p class="card-teaser">${enEditorial.substring(0, 160)}...</p>
-            <div class="card-chips">${enChips}</div>
+            <div class="card-chips">${badgeTag}${enChips}</div>
           </a>
           <div class="card-actions">
             <a class="act act-read" href="/en/reports/${dateStr}/">Read →</a>
-            <a class="act act-pdf" href="${pdfUrl}" download>Download PDF (TR)</a>
+            <a class="act act-pdf" href="${enPdfUrl}" download>Download PDF</a>
           </div>
         </article>`);
 });
 
 console.log(`Generated ${count} English daily report pages!`);
 
-// Update /en/reports/index.html with explicit TR badge on PDF download buttons
+// Update /en/reports/index.html with clear banner distinguishing historical translated archives vs future live reports
 const enReportsIndexHtml = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -196,7 +202,17 @@ const enReportsIndexHtml = `<!DOCTYPE html>
       <div class="arch-eyebrow">Archive</div>
       <h1 class="arch-title">Daily Technology Reports</h1>
       <div class="arch-tabs"><a class="btn btn-primary" href="/en/reports/" aria-current="page">All Reports</a></div>
-      <p class="arch-intro">Daily AI-curated summaries of GitHub Trending, Hacker News, and HuggingFace. Read online in English or download full PDF reports (Turkish edition).</p>
+      <p class="arch-intro">Daily AI-curated summaries of GitHub Trending, Hacker News, and HuggingFace. Read online in English or download English PDF reports.</p>
+
+      <div style="margin: 24px 0 32px; padding: 18px 20px; background: rgba(95, 168, 211, .08); border: 1px dashed rgba(95, 168, 211, .3); border-radius: 14px;">
+        <div style="display: flex; align-items: center; gap: 8px; font-weight: 700; color: var(--accent); font-size: 15px;">
+          <span>🌐</span> <span>Historical Translated Archive Notice</span>
+        </div>
+        <p style="margin: 6px 0 0; font-size: 14px; color: var(--ink-muted); line-height: 1.55;">
+          The 71 daily reports from <strong>August 5, 2026 and earlier</strong> were retroactively translated and rendered from the original daily Turkish intelligence archives. Reports published from <strong>August 6, 2026 onwards</strong> are generated natively in real-time in both English and Turkish.
+        </p>
+      </div>
+
       <div class="arch-list">
         ${reportCards.join('\n')}
       </div>
@@ -208,4 +224,4 @@ const enReportsIndexHtml = `<!DOCTYPE html>
 </html>`;
 
 fs.writeFileSync(path.join(EN_REPORTS_DIR, 'index.html'), enReportsIndexHtml, 'utf8');
-console.log('Updated /en/reports/index.html with explicit TR PDF labels!');
+console.log('Updated /en/reports/index.html with clear Historical Archive banner and English PDF download URLs!');
