@@ -1,0 +1,256 @@
+{
+  "date": "2026-08-05",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "uber/ADR",
+          "url": "https://github.com/uber/ADR",
+          "summary": "Uber tarafından geliştirilen ADR, kurumsal yapay zekâ ajanlarını gözlemlenebilirlik, güvenlik kıyaslaması ve tehdit algılama yöntemleriyle koruma altına alıyor. Yazılım, yapay zekâ sistemlerinin güvenliğini artırmak için geliştirilmiş bir güvenlik çerçevesi (framework) sunuyor.",
+          "meta": "Python · ★ 782 · +148 bugün"
+        },
+        {
+          "title": "webpack/webpack",
+          "url": "https://github.com/webpack/webpack",
+          "summary": "Webpack, JavaScript ve diğer web varlıklarını tarayıcıda çalışacak şekilde bir araya getiren bir paketleyici (bundler). Modülleri yönetilebilir parçalara ayıran kod bölme (code splitting) özelliği sayesinde uygulamaların ihtiyaç duyulduğunda yüklenmesini sağlar.",
+          "meta": "JavaScript · ★ 65.961 · +10 bugün"
+        },
+        {
+          "title": "gabime/spdlog",
+          "url": "https://github.com/gabime/spdlog",
+          "summary": "spdlog, C++ programlama dili için geliştirilmiş çok hızlı bir günlük kaydı (logging) kütüphanesidir. Yazılım projelerinde hata ayıklama ve izleme süreçlerini hızlandırmak amacıyla yüksek performanslı çıktı yönetimi sunar.",
+          "meta": "C++ · ★ 29.402 · +10 bugün"
+        },
+        {
+          "title": "denoland/deno",
+          "url": "https://github.com/denoland/deno",
+          "summary": "Deno, JavaScript ve TypeScript dilleri için tasarlanmış modern bir çalışma zamanı (runtime) ortamıdır. Rust diliyle geliştirilen bu araç, güvenlik ve performans odaklı yapısıyla geleneksel Node.js platformuna alternatif bir altyapı sunar.",
+          "meta": "Rust · ★ 108.091 · +31 bugün"
+        },
+        {
+          "title": "angular/angular",
+          "url": "https://github.com/angular/angular",
+          "summary": "Google tarafından geliştirilen Angular, ölçeklenebilir web uygulamaları oluşturmak için kullanılan kapsamlı bir çerçeve (framework). TypeScript tabanlı yapısıyla karmaşık projelerde geliştirme sürecini standartlaştıran ve yapılandıran araçlar sunuyor.",
+          "meta": "TypeScript · ★ 100.882 · +13 bugün"
+        },
+        {
+          "title": "tailwindlabs/tailwindcss",
+          "url": "https://github.com/tailwindlabs/tailwindcss",
+          "summary": "Tailwind CSS, hızlı kullanıcı arayüzü geliştirmeye odaklanan bir yardımcı program öncelikli (utility-first) stil sayfası çatısıdır (CSS framework). Hazır tasarım bileşenleri yerine düşük seviyeli sınıflar sunarak özgün arayüzlerin hızlıca oluşturulmasını sağlar.",
+          "meta": "TypeScript · ★ 96.571 · +52 bugün"
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "Python tabanlı video-use, kodlama ajanlarının (coding agents) video düzenleme işlemlerini otomatize etmesini sağlıyor. Yazılım geliştiricilerin metin tabanlı komutlarla video kurgu süreçlerini yönetmesine olanak tanıyor.",
+          "meta": "Python · ★ 19.482 · +320 bugün",
+          "returning": true
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "Compound Engineering eklentisi, Claude Code, Cursor ve Codex gibi kod yazma araçları (AI coding tools) için geliştirilmiş bir sistemdir. Yazılım geliştirme süreçlerinde karmaşık görevleri yönetmek adına standart bir yapı sunar.",
+          "meta": "TypeScript · ★ 23.934 · +40 bugün",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+          "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+          "summary": "Wolfram Research şirketinin kurucusu Stephen Wolfram, hayat arkadaşı Elise Cawley'nin vefatı üzerine kişisel bir anma yazısı yayımladı. Yazı, Cawley'nin matematikçi kimliğini ve çiftin otuz altı yıllık birlikteliğini merkeze alarak bir yaşam öyküsü sunuyor.",
+          "meta": "1.205 oy · 67 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49173165",
+              "popularity": 1205,
+              "engagementCount": 67
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+          "url": "https://toneyalexander.github.io/inclusive-color-space/",
+          "summary": "Dijital sanat ve oyun geliştirme projelerinde çeşitli cilt tonlarını gerçekçi bir şekilde oluşturmak için yeni bir renk uzayı (color space) ve algoritma geliştirildi. Bu yöntem, kullanıcıların farklı ten renklerini kolayca seçmesine ve prosedürel olarak üretmesine olanak sağlıyor.",
+          "meta": "495 oy · 91 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49170165",
+              "popularity": 495,
+              "engagementCount": 91
+            }
+          ]
+        },
+        {
+          "title": "There Will Come Soft Rains (1950) [pdf]",
+          "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+          "summary": "Ray Bradbury tarafından kaleme alınan There Will Come Soft Rains, teknolojik ilerlemenin insanlık yok olduktan sonra bile devam ettiği distopik bir geleceği konu alıyor. Otomatikleşmiş bir evin günlük rutinlerini sürdürdüğü bu kısa öykü, teknoloji ve doğa arasındaki tezatlığı işliyor.",
+          "meta": "373 oy · 392 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49162653",
+              "popularity": 373,
+              "engagementCount": 392
+            }
+          ]
+        },
+        {
+          "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+          "url": "https://mistral.ai/news/shieldstral/",
+          "summary": "Mistral AI tarafından yayınlanan Shieldstral, çok modlu içerik denetimi (multimodal moderation) için geliştirilen 3 milyar parametreli açık ağırlıklı bir modeldir. Görsel ve metinsel verileri analiz ederek zararlı içerikleri tespit etmeyi ve güvenli bir kullanıcı deneyimi sağlamayı amaçlar.",
+          "meta": "363 oy · 90 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49171268",
+              "popularity": 363,
+              "engagementCount": 90
+            }
+          ]
+        },
+        {
+          "title": "Waymo in Dallas",
+          "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+          "summary": "Otonom sürüş teknolojisi geliştiren Waymo, sürücüsüz araç hizmetini Dallas şehrindeki tüm kullanıcılara açtı. Şirket, bölgedeki operasyonlarını genişleterek tam otonom taksi (robotaxi) deneyimini daha geniş bir kitleye ulaştırıyor.",
+          "meta": "280 oy · 470 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49172836",
+              "popularity": 280,
+              "engagementCount": 470
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills",
+          "url": "https://huggingface.co/papers/2608.03700",
+          "summary": "Kişisel etkileşim geçmişlerini taşınabilir yeteneklere (persona skills) dönüştüren sistemler, kullanıcı verilerinin gizliliğini ve kimlik taklidi risklerini artırıyor. AntiSkillBench adlı değerlendirme aracı, bu kişiselleştirme süreçlerinde ortaya çıkan güvenlik açıklarını ölçmek ve savunma mekanizmalarını test etmek için geliştirildi.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+          "url": "https://huggingface.co/papers/2608.03979",
+          "summary": "Video-DeepResearch, çok modlu yapay zekâ ajanlarının yeteneklerini durağan görsellerden sürekli video akışlarına taşıyan yeni bir çerçeve sunuyor. Sistem, modellerin görsel araçları kullanmak yerine metin tabanlı aramalara yönelmesi ve dış kaynaklar yerine kendi içsel bilgilerine güvenmesi gibi temel kısıtları aşmayı hedefliyor.",
+          "meta": "10 beğeni · 1 yorum"
+        },
+        {
+          "title": "Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories",
+          "url": "https://huggingface.co/papers/2608.00730",
+          "summary": "Push-Wiper, robotların yapışkan lekeleri yüzeye yaymadan temizlemesi için geliştirilen bir yöntemdir. Sünger kullanarak lekeleri kademeli şekilde toplayan parçalı itme yörüngeleri (segmented pushing trajectories) ile yüzey temizliğini daha kontrollü hale getirir.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts",
+          "url": "https://huggingface.co/papers/2607.28993",
+          "summary": "ST-WAM, robotik eylemleri ve görsel dinamikleri birlikte modelleyen dünya eylem modellerindeki (world action models) görsel tutarsızlık sorununu çözmeyi amaçlıyor. Model, eğitim verisi dışındaki görsel değişimlerde ortaya çıkan halüsinasyonları engelleyerek robotik manipülasyon süreçlerinde daha kararlı bir performans sunuyor.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "Quo Vadis, World Modeling?",
+          "url": "https://huggingface.co/papers/2608.02713",
+          "summary": "Dünya modelleme (world modeling), yapay zekâ ajanlarının gerçek dünyada işlem yapmadan önce güvenli ve düşük maliyetli geri bildirim almasını sağlayan bir simülasyon katmanı sunuyor. Bu yaklaşım, ajanların fiziksel durumları tahmin ederek karmaşık görevlerde daha kontrollü ve verimli kararlar almasına olanak tanıyor.",
+          "meta": "12 beğeni · 1 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "The Lua community needs to learn to move on",
+          "url": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
+          "summary": "Lua topluluğu, dilin eski sürümlerine olan bağımlılığı azaltarak modern geliştirme pratiklerine uyum sağlama çağrısıyla karşı karşıya. Yazılım geliştiriciler, ekosistemin güncelliğini koruması için geriye dönük uyumluluk yerine yeni standartların benimsenmesi gerektiğini savunuyor.",
+          "meta": "67 oy · 26 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on",
+              "popularity": 67,
+              "engagementCount": 26
+            }
+          ]
+        },
+        {
+          "title": "Security is Hard, Y’all",
+          "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+          "summary": "Yazılım güvenliği, karmaşık sistemlerdeki hata payı ve insan faktörü nedeniyle zorlu bir süreç olmaya devam ediyor. Siber güvenlik uzmanı Eric Lawrence, yazılım geliştirme süreçlerinde güvenlik açıklarını tamamen ortadan kaldırmanın teknik ve operasyonel engellerini ele alıyor.",
+          "meta": "64 oy · 5 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/qoptbx/security_is_hard_y_all",
+              "popularity": 64,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Enabling the next iteration of the borrow checker on nightly",
+          "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
+          "summary": "Rust programlama dilinin geliştiricileri, bellek güvenliğini sağlayan ödünç alma denetleyicisinin (borrow checker) yeni nesil sürümü olan Polonius'u test aşamasına getirdi. Bu güncelleme, derleyicinin karmaşık kod yapılarını daha esnek şekilde analiz etmesini sağlayarak geliştiricilerin yaşadığı kısıtlamaları azaltmayı hedefliyor.",
+          "meta": "55 oy · 0 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker",
+              "popularity": 55,
+              "engagementCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işinizi kolaylaştıran, hazır kütüphaneler ve kurallar bütünü sunan bir temel yapıdır."
+    },
+    {
+      "term": "bundler",
+      "explanation": "Yazılım projesindeki çok sayıda dosyayı birleştirip tarayıcının kolayca çalıştırabileceği hale getiren araçtır."
+    },
+    {
+      "term": "code splitting",
+      "explanation": "Web sitesinin yüklenme hızını artırmak için büyük kod dosyalarını küçük parçalara bölüp ihtiyaç duyuldukça yükleme yöntemidir."
+    },
+    {
+      "term": "logging",
+      "explanation": "Bir programın çalışırken yaptığı işlemleri veya karşılaştığı hataları takip etmek için kayıt altına almasıdır."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Yazılan kodun bilgisayar üzerinde çalıştırıldığı anı ve bu süreçte ihtiyaç duyulan ortamı ifade eder."
+    },
+    {
+      "term": "utility-first",
+      "explanation": "Tasarım yaparken önceden tanımlanmış küçük ve işlevsel komutları kullanarak hızlıca stil oluşturma yaklaşımıdır."
+    },
+    {
+      "term": "CSS framework",
+      "explanation": "Web sayfalarının görünümünü hızlıca güzelleştirmek için hazır tasarım şablonları sunan bir araç setidir."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Yazılımcı gibi davranıp kod yazabilen, hataları düzelten ve projeleri geliştirebilen yapay zekâ yazılımlarıdır."
+    }
+  ]
+}
