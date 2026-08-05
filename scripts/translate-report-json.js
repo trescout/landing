@@ -71,8 +71,10 @@ const richEnFooter = `<footer>
   </div>
 </footer>`;
 
-// Target dates for full dual-language web report generation
-const targetDates = ['2026-08-04', '2026-08-03', '2026-08-02', '2026-08-01'];
+// Dynamically scan all available JSON report files
+const targetDates = fs.readdirSync(REPORTS_DIR)
+  .filter(f => /^trescout-rapor-\d{4}-\d{2}-\d{2}\.json$/.test(f))
+  .map(f => f.replace('trescout-rapor-', '').replace('.json', ''));
 
 targetDates.forEach(dateStr => {
   const jsonPath = path.join(REPORTS_DIR, `trescout-rapor-${dateStr}.json`);
