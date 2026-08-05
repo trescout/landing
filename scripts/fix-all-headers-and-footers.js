@@ -123,6 +123,10 @@ allHtmls.forEach(relPath => {
     } else if (normPath.startsWith('en/discover/')) {
       const slug = normPath.replace('en/discover/', '').replace('/index.html', '');
       oppLink = `/discover/${slug}/`;
+    } else if (normPath.startsWith('en/reports/')) {
+      const dateMatch = normPath.match(/\d{4}-\d{2}-\d{2}/);
+      if (dateMatch) oppLink = `/reports/${dateMatch[0]}/`;
+      else oppLink = '/reports/';
     } else oppLink = '/';
   } else {
     if (normPath === 'index.html') oppLink = '/en/';
@@ -136,6 +140,10 @@ allHtmls.forEach(relPath => {
     } else if (normPath.startsWith('discover/')) {
       const slug = normPath.replace('discover/', '').replace('/index.html', '');
       oppLink = `/en/discover/${slug}/`;
+    } else if (normPath.startsWith('reports/')) {
+      const dateMatch = normPath.match(/\d{4}-\d{2}-\d{2}/);
+      if (dateMatch) oppLink = `/en/reports/${dateMatch[0]}/`;
+      else oppLink = '/en/reports/';
     } else oppLink = '/en/';
   }
 
