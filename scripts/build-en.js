@@ -1,4 +1,20 @@
 #!/usr/bin/env node
+/**
+ * ⚠️ DETAY SAYFALARI ARTIK BURADAN ÜRETİLMİYOR (2026-08-06).
+ *
+ * Bu betik keşif ve sözlük detay sayfalarını "SEO kabuğu" olarak basıyordu:
+ * başlık + tek cümle + sabit kalıp metin. 480 sözlük sayfasında aynı cümle
+ * ("Modern software systems leverage <TERİM> to…") yayına çıkmıştı.
+ *
+ * Detay sayfaları + .md dosyaları artık Türkçesinden üretiliyor:
+ *   scripts/discover-en.py      · İngilizce keşif sayfaları
+ *   scripts/dictionary-en.py    · İngilizce sözlük sayfaları
+ * İkisi de dict-sync.yml hattında çalışıyor.
+ *
+ * Bu betikte YALNIZ dizin sayfaları (en/discover/index.html,
+ * en/dictionary/index.html) üretimi geçerli. Detay sayfası yazan bölümler
+ * devre dışı · çalıştırılırsa bugünkü içeriği ezmesin diye.
+ */
 const fs = require('fs');
 const path = require('path');
 
@@ -160,11 +176,13 @@ ${richEnFooter}
 </body>
 </html>`;
 
-  fs.writeFileSync(path.join(enDir, 'index.html'), htmlContent, 'utf8');
+  // DEVRE DIŞI · discover-en.py / dictionary-en.py üretiyor
+  // fs.writeFileSync(path.join(enDir, 'index.html'), htmlContent, 'utf8');
 
   // Create EN Markdown page
   const mdContent = `# What is ${enTitle}?\n\n${full ? `**Full Name:** ${full}\n\n` : ''}**Category:** ${t.cat || 'Tech'}\n\n## Overview\n${desc}\n\n---\nSource: TreScout Tech Dictionary · ${canonEn}\n`;
-  fs.writeFileSync(path.join(ROOT, 'en', 'dictionary', `${slug}.md`), mdContent, 'utf8');
+  // DEVRE DIŞI · yeni üreticiler .md'yi de yazıyor
+  // fs.writeFileSync(path.join(ROOT, 'en', 'dictionary', `${slug}.md`), mdContent, 'utf8');
   enDictCount++;
 });
 
@@ -249,11 +267,13 @@ ${richEnFooter}
 </body>
 </html>`;
 
-  fs.writeFileSync(path.join(enDir, 'index.html'), htmlContent, 'utf8');
+  // DEVRE DIŞI · discover-en.py / dictionary-en.py üretiyor
+  // fs.writeFileSync(path.join(enDir, 'index.html'), htmlContent, 'utf8');
 
   // Create EN Markdown page
   const mdContent = `# ${title}\n\n> ${tagline}\n\n**Source:** ${c.source || 'GitHub'}  \n**Stars:** ${c.stars || 0}\n\n---\nSource: TreScout Discover · ${canonEn}\n`;
-  fs.writeFileSync(path.join(ROOT, 'en', 'discover', `${slug}.md`), mdContent, 'utf8');
+  // DEVRE DIŞI · yeni üreticiler .md'yi de yazıyor
+  // fs.writeFileSync(path.join(ROOT, 'en', 'discover', `${slug}.md`), mdContent, 'utf8');
   enDiscCount++;
 });
 

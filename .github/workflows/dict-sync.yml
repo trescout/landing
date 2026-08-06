@@ -79,6 +79,16 @@ jobs:
       - name: Çapraz-linkleri yenile (keşif ↔ sözlük)
         run: python3 scripts/cross-link.py
 
+      # İngilizce sayfalar Türkçesinden üretilir · içerik bloklarını çevirip aynı
+      # şablona basar (kod olduğu gibi kalır). Çeviriler önbellekli: değişmeyen
+      # sayfa bedava, yalnız yeni girdiler çeviri harcar. Bu adım olmadan
+      # İngilizce taraf her gün biraz daha geride kalıyordu (2026-08-06: keşif
+      # 100 kelime / Türkçesi 314, sözlükte 480 sayfa aynı sabit kalıptı).
+      - name: İngilizce sayfaları üret (keşif + sözlük)
+        run: |
+          python3 scripts/discover-en.py
+          python3 scripts/dictionary-en.py
+
       - name: AI'a hizmet · keşif index server-render + .md + llms.txt
         run: |
           python3 scripts/discover-index.py
@@ -99,7 +109,7 @@ jobs:
       - name: Chrome normalize (nav + footer kanonik hâle)
         run: node scripts/fix-all-headers-and-footers.js
 
-      # bot commit'lerinde çalışmaz; aynı 4 guard'ı burada üretici çıktısına da uyguluyoruz.
+      # bot commit'lerinde çalışmaz; aynı 6 guard'ı burada üretici çıktısına da uyguluyoruz.
       - name: Inline CSS/JS kontrolü
         run: python3 scripts/check-no-inline-csp.py
       - name: Nav tutarlılık kontrolü
@@ -108,6 +118,10 @@ jobs:
         run: python3 scripts/check-footer-consistency.py
       - name: Logo geometri kontrolü
         run: python3 scripts/check-logo-consistency.py
+      - name: Başlık tutarlılık kontrolü (katalog ↔ sayfa H1)
+        run: python3 scripts/check-headline-consistency.py
+      - name: Marka tipografi kontrolü (🚀 · em dash)
+        run: python3 scripts/check-brand-typography.py
 
       # Tazeleme yardımcı bir adım · GitHub API aksarsa asıl işi (içerik büyümesi
       # + commit) düşürmesin. 2026-08-02'de REST hız sınırı 403 döndü ve dört

@@ -308,6 +308,31 @@ def build(slug, cat, chrome):
     return head + govde
 
 
+def markdown(slug, h):
+    """Sayfanın .md karşılığı · llms.txt ve <link rel=alternate> bunu gösteriyor.
+    İngilizce .md'ler 30 kelimelik kabuktu (Türkçesi 262) · aynı içerikten üretilir."""
+    g = h.split("<main", 1)[1].split("</main>")[0]
+    baslik = metin(blok(r'<h1 class="disc-title">(.*?)</h1>', g))
+    lead = metin(blok(r'<p class="disc-lead">(.*?)</p>', g))
+    sat = [f"# {baslik}", "", lead, ""]
+    for li in re.findall(r"<li>(.*?)</li>", blok(r'<ul class="disc-meta">(.*?)</ul>', g), re.S):
+        sat.append(f"- {metin(li)}")
+    sat.append("")
+    for m in re.finditer(r'<section class="disc-sec"><h2>(.*?)</h2>(.*?)</section>', g, re.S):
+        h2, govde = metin(m.group(1)), m.group(2)
+        sat.append(f"## {h2}")
+        for x in re.findall(r"<li>(.*?)</li>", govde, re.S):
+            sat.append(f"- {metin(x)}")
+        for c in re.finditer(r'<div class="disc-cmd-head"><span>(.*?)</span>.*?<pre><code>(.*?)</code></pre>', govde, re.S):
+            sat += [f"**{metin(c.group(1))}**", "", "```", html.unescape(c.group(2)), "```", ""]
+        pm = re.search(r"<p[^>]*>(.*?)</p>", govde, re.S)
+        if pm and "disc-cmd" not in govde:
+            sat.append(metin(pm.group(1)))
+        sat.append("")
+    sat += ["---", f"Source: TreScout Discover · {BASE}/en/discover/{slug}/"]
+    return "\n".join(sat) + "\n"
+
+
 def main():
     cat = {c["slug"]: c for c in json.load(open(CATALOG, encoding="utf-8"))}
     chrome = en_chrome()
@@ -326,6 +351,7 @@ def main():
         d = os.path.join(EN_DIR, slug)
         os.makedirs(d, exist_ok=True)
         open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(h)
+        open(os.path.join(EN_DIR, slug + ".md"), "w", encoding="utf-8").write(markdown(slug, h))
         yazilan += 1
         if i % 25 == 0:
             json.dump(_cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False, indent=1, sort_keys=True)

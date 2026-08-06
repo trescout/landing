@@ -218,6 +218,36 @@ def build(term, chrome):
     return head + govde
 
 
+def markdown(term, h):
+    """Sayfanın .md karşılığı · llms.txt bunu okuyor. İngilizce .md'ler de
+    sabit kalıptan üretiliyordu, artık gerçek içerikten."""
+    g = h.split("<main", 1)[1].split("</main>")[0]
+    baslik = metin(blok(r'<h1 class="disc-title">(.*?)</h1>', g))
+    full = metin(blok(r'<p class="dict-en">(.*?)</p>', g))
+    lead = metin(blok(r'<p class="disc-lead">(.*?)</p>', g))
+    sat = [f"# {baslik}", ""]
+    if full:
+        sat += [f"> {full}", ""]
+    sat += [lead, ""]
+    an = metin(blok(r'<div class="dict-analogy">(.*?)</div>', g))
+    for m in re.finditer(r'<section class="disc-sec"><h2>(.*?)</h2>(.*?)</section>', g, re.S):
+        h2, govde = metin(m.group(1)), m.group(2)
+        sat.append(f"## {h2}")
+        for q, a2 in re.findall(r'<p class="dict-faq-q">(.*?)</p><p class="dict-faq-a">(.*?)</p>', govde, re.S):
+            sat += [f"**{metin(q)}**", metin(a2), ""]
+        for lnk, ad in re.findall(r'<a href="([^"]+)">(.*?)</a>', govde, re.S):
+            sat.append(f"- [{metin(ad)}]({lnk})")
+        pm = re.search(r"<p>(.*?)</p>", govde, re.S)
+        if pm:
+            sat.append(metin(pm.group(1)))
+        sat.append("")
+        if an and h2 == "Overview":
+            sat += [f"*{an}*", ""]
+            an = ""
+    sat += ["---", f"Source: TreScout Dictionary · {BASE}/en/dictionary/{term['slug']}/"]
+    return "\n".join(sat) + "\n"
+
+
 def main():
     terms = json.load(open(DICT, encoding="utf-8"))
     chrome = en_chrome()
@@ -237,6 +267,7 @@ def main():
         d = os.path.join(EN_DIR, term["slug"])
         os.makedirs(d, exist_ok=True)
         open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(h)
+        open(os.path.join(EN_DIR, term["slug"] + ".md"), "w", encoding="utf-8").write(markdown(term, h))
         yazilan += 1
         if i % 25 == 0:
             json.dump(_cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False, indent=1, sort_keys=True)
