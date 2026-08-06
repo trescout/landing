@@ -282,6 +282,7 @@ const dictIndexHtml = `<!DOCTYPE html>
 <meta property="og:locale" content="en_US">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
+<link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 </head>
 <body>
