@@ -3852,7 +3852,22 @@
     ],
     "tagline_en": "Developed for Tesla vehicle owners, Teslamate is a data logger that allows you to host data on your own server.",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Resmî kılavuzdaki docker-compose.yml dosyasını oluşturun (veritabanı parolası ve şifreleme anahtarı sizin)",
+          "komut": "docker compose pull"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Başlat (http://localhost:4000)",
+          "komut": "docker compose up -d"
+        }
+      ],
+      "kaynak": "TeslaMate dokümanı · docs.teslamate.org/docs/installation/docker"
+    }
   },
   {
     "slug": "hello-algo",
@@ -4232,7 +4247,26 @@
     ],
     "tagline_en": "Rocket.Chat is a secure communications operating system designed for mission-critical operations.",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Linux · Snap paketi (Rocket.Chat yayımcısı)",
+          "komut": "sudo snap install rocketchat-server"
+        },
+        {
+          "baslik": "Docker · resmî compose deposu",
+          "komut": "git clone --depth 1 https://github.com/RocketChat/rocketchat-compose.git && cd rocketchat-compose && cp .env.example .env"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Docker ile başlat",
+          "komut": "docker compose -f compose.database.yml -f compose.yml -f compose.nats.yml -f docker.yml up -d"
+        }
+      ],
+      "kaynak": "Rocket.Chat dokümanı · docs.rocket.chat/docs/deploy-with-docker-docker-compose"
+    }
   },
   {
     "slug": "continue",
@@ -4307,7 +4341,22 @@
     ],
     "tagline_en": "Penpot is an open source design tool that strengthens collaboration between designers and developers.",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Resmî compose dosyasını indir",
+          "komut": "curl -o docker-compose.yaml https://raw.githubusercontent.com/penpot/penpot/main/docker/images/docker-compose.yaml"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Başlat (http://localhost:9001)",
+          "komut": "docker compose -p penpot -f docker-compose.yaml up -d"
+        }
+      ],
+      "kaynak": "Penpot teknik kılavuzu · help.penpot.app/technical-guide/getting-started/docker/"
+    }
   },
   {
     "slug": "unciv",
@@ -4586,7 +4635,20 @@
     ],
     "tagline_en": "Insomnia is an open source application programming interface that supports GraphQL, REST, WebSockets, SSE and gRPC protocols.",
     "needs_enrichment": true,
-    "enrich_reason": "komutsuz"
+    "enrich_reason": "komutsuz",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install --cask insomnia"
+        },
+        {
+          "baslik": "Linux · Snap paketi (Insomnia yayımcısı)",
+          "komut": "sudo snap install insomnia"
+        }
+      ],
+      "kaynak": "Homebrew cask · formulae.brew.sh/cask/insomnia · Snap Store"
+    }
   },
   {
     "slug": "aspnetcore",
