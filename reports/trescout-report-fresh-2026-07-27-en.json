@@ -1,0 +1,102 @@
+{
+  "date": "2026-07-27",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "summary": "Node.js offers a runtime environment that allows JavaScript code to be run outside the browser. Based on the V8 engine, this platform is used to develop scalable network applications on the server side.",
+          "meta": "JavaScript · ★ 118,523 · +36 today"
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable offers a design language developed to improve the design outputs of artificial intelligence models. This tool aims to improve the visual consistency and user experience quality of artificial intelligence-supported interfaces.",
+          "meta": "JavaScript · ★ 50,919 · +413 today",
+          "returning": true
+        },
+        {
+          "title": "permissionlesstech/bitchat-android",
+          "url": "https://github.com/permissionlesstech/bitchat-android",
+          "summary": "Bitchat-android offers a decentralized messaging experience that does not require an internet connection, using Bluetooth mesh technology. The application, developed in Kotlin language, allows users to establish IRC-like communication over the local network.",
+          "meta": "Kotlin · ★ 6,833 · +260 today"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Jenkins is an open source continuous integration and continuous delivery server that automates software development processes. This Java-based platform offers a wide ecosystem of plugins to manage the compilation, testing and deployment phases of software projects.",
+          "meta": "Java · ★ 25,763 · +18 today"
+        },
+        {
+          "title": "amnezia-vpn/amnezia-client",
+          "url": "https://github.com/amnezia-vpn/amnezia-client",
+          "summary": "Amnesia VPN client is an open source networking tool that allows users to provide uncensored internet access through its own servers. Developed in C++, this software offers customizable tunneling protocols that protect personal privacy on desktop and mobile platforms.",
+          "meta": "C++ · ★ 13,457 · +35 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kill The Cookie Banner",
+          "url": "https://killthecookiebanner.eu/",
+          "summary": "The initiative aims to remove cookie banners so that internet users can browse websites without encountering confirmation windows. Based on digital regulations in the European Union, this project proposes standards that aim to improve user privacy and internet experience.",
+          "meta": "933 points · 445 comments"
+        },
+        {
+          "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+          "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+          "summary": "A citizen in the USA was accused of obstruction of justice for remotely deleting the data of his GrapheneOS-installed phone during an airport call. The incident brings to the fore the legal conflicts privacy-focused operating systems face with law enforcement investigations.",
+          "meta": "553 points · 385 comments"
+        },
+        {
+          "title": "PGSimCity - How PostgreSQL Works",
+          "url": "https://nikolays.github.io/PGSimCity/",
+          "summary": "PGSimCity explains the inner workings of the PostgreSQL database management system through a visual simulation. Users can observe how database operations occur in the background with an interactive interface.",
+          "meta": "435 points · 45 comments"
+        },
+        {
+          "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+          "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+          "summary": "Htmx 4.0 was announced as the first JavaScript library designed to run exclusively on the Game Boy console. This release introduces an experimental approach aimed at porting web development tools to hardware outside of traditional browser environments.",
+          "meta": "415 points · 140 comments"
+        },
+        {
+          "title": "French firefighters face 'pyrocumulonimbus' for first time",
+          "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+          "summary": "Fire crews in France are encountering dense smoke and heat-induced fire clouds (pyrocumulonimbus) triggered by extreme temperatures for the first time. This meteorological phenomenon causes fires to create their own weather systems, making extinguishing efforts difficult.",
+          "meta": "299 points · 184 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Nanbeige/Nanbeige4.2-3B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+          "summary": "Nanbeige4.2-3B, developed by Nanbeige, is a small-scale language model optimized for text generation tasks. This model, which focuses on fast inference processes with a low number of parameters, offers the opportunity to work efficiently on limited hardware resources.",
+          "meta": "♥ 453 · 14,049 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IRC",
+      "explanation": "An old and simple messaging system that allows real-time correspondence over the Internet."
+    },
+    {
+      "term": "runtime environment",
+      "explanation": "The basic supporting environment that a software needs to run on a computer."
+    },
+    {
+      "term": "design language",
+      "explanation": "A set of color, font and shape rules that ensure the visual consistency of a brand or product."
+    }
+  ]
+}

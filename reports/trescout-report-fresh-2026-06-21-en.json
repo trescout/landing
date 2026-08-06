@@ -1,0 +1,84 @@
+{
+  "date": "2026-06-21",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "summary": "Turso offers an in-process SQL database that is compatible with SQLite. This system, developed in Rust language, simplifies data management processes by integrating into application processes.",
+          "meta": "Rust · ★ 20,466 · +801 today"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox is an open source artificial intelligence voice studio that allows users to perform voice cloning, dictation and content creation. Developed with the TypeScript language, this platform offers comprehensive tools to manage audio processing processes in the native environment.",
+          "meta": "TypeScript · ★ 31,156 · +145 today"
+        },
+        {
+          "title": "pppscn/SmsForwarder",
+          "url": "https://github.com/pppscn/SmsForwarder",
+          "summary": "SmsForwarder is a tool that forwards text messages, calls and application notifications on Android devices to different messaging platforms or webhooks within the framework of specified rules. This software, which allows users to remotely manage their devices and access data such as battery status and contacts, was developed with the Kotlin language.",
+          "meta": "Kotlin · ★ 26,560 · +104 today"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Developed with the Rust language, jcode offers a framework for testing and evaluating coding-oriented artificial intelligence agents. It provides a standard infrastructure to measure the performance of agents used in software development processes.",
+          "meta": "Rust · ★ 7,450 · +87 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "SMPTE Makes Its Standards Freely Accessible",
+          "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+          "summary": "The Society of Motion Picture and Television Engineers (SMPTE) has made its media technology standards freely available to the global community. This step aims to ensure wider adoption of the digital media standards library across the industry.",
+          "meta": "254 points · 76 comments"
+        },
+        {
+          "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+          "url": "https://github.com/mysk-research/loupe",
+          "summary": "Loupe is an iOS application that aims to increase user awareness by visualizing what data native apps can access on the device. The software transparently reports the data access processes carried out by applications in the background.",
+          "meta": "254 points · 76 comments"
+        },
+        {
+          "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+          "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+          "summary": "The reverse engineering project of the F-15 Strike Eagle II game is looking for test pilots to verify the software's operability in different DOS environments. The work aims to preserve the classic game's source code by adapting it to modern systems.",
+          "meta": "241 points · 64 comments"
+        },
+        {
+          "title": "Renting a sewing machine from the library",
+          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+          "summary": "Libraries in Finland are transforming the traditional book-focused service model by lending out a wide range of items, from sewing machines to drill sets. This application combines the sharing economy model, which aims to reduce consumption habits, with library infrastructure.",
+          "meta": "212 points · 107 comments"
+        },
+        {
+          "title": "Temporary Cloudflare accounts for AI agents",
+          "url": "https://blog.cloudflare.com/temporary-accounts/",
+          "summary": "Cloudflare offers an infrastructure that allows the creation of temporary cloud accounts so that artificial intelligence agents can work safely. This system simplifies the authorization processes of agents and enables them to work with limited access permissions for a limited time.",
+          "meta": "204 points · 109 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "in-process",
+      "explanation": "The execution of an operation directly within the current program's own workspace, without being transferred to another location."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Technology that analyzes a person's voice and makes them say new sentences as if they were that person."
+    }
+  ]
+}

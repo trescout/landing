@@ -1,0 +1,93 @@
+{
+  "date": "2026-07-07",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video is a Python tool that gives the Claude model the ability to analyze video content. By downloading videos, dividing them into frames and converting them into text (transcription), the software brings the visual data into a format that the artificial intelligence model can process.",
+          "meta": "Python · ★ 4,554 · +427 today"
+        },
+        {
+          "title": "karakeep-app/karakeep",
+          "url": "https://github.com/karakeep-app/karakeep",
+          "summary": "Karakeep is a self-hostable content management application that collects links, notes and images in a single center. It facilitates digital archiving processes with artificial intelligence-supported automatic tagging and full text search features.",
+          "meta": "TypeScript · ★ 27,033 · +199 today"
+        },
+        {
+          "title": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "summary": "Awesome lists offers curated collections of resources on a variety of topics in the world of software development and technology. This repository functions as a comprehensive directory that brings together the best tools, libraries and learning materials from different fields.",
+          "meta": "★ 482,524 · +345 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Resetting Xbox",
+          "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+          "summary": "Microsoft is embarking on a massive restructuring of the console software and user interface in a bid to modernize the Xbox ecosystem. This update aims to improve the platform's digital store experience and system-wide performance efficiency.",
+          "meta": "585 points · 594 comments"
+        },
+        {
+          "title": "OpenWrt One – Open Hardware Router",
+          "url": "https://openwrt.org/toh/openwrt/one",
+          "summary": "OpenWrt One is a router project designed with open hardware principles. The device, which receives software support directly from the OpenWrt community, aims to give users full control over their network hardware.",
+          "meta": "558 points · 220 comments"
+        },
+        {
+          "title": "CoMaps – FOSS Offline Maps",
+          "url": "https://www.comaps.app/",
+          "summary": "CoMaps is an open source (FOSS) map application that does not require an internet connection. It allows users to protect data privacy and navigate without location tracking by downloading offline maps to their devices.",
+          "meta": "479 points · 94 comments"
+        },
+        {
+          "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+          "url": "https://github.com/MaximeRivest/Riddle",
+          "summary": "The Fable project transforms the digital notebook reMarkable device into Tom Riddle's diary in the Harry Potter universe, offering users an interactive text-based gaming experience. The software creates an artificial intelligence-supported narrative interface using the device's screen and pen inputs.",
+          "meta": "385 points · 207 comments"
+        },
+        {
+          "title": "A global workspace in language models",
+          "url": "https://www.anthropic.com/research/global-workspace",
+          "summary": "Anthropic researchers apply global workspace theory to understand the internal processes of language models. This method aims to make transparent how models perform complex tasks by combining different pieces of information.",
+          "meta": "348 points · 127 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Developed by Tencent, Hy3 is a language model optimized for text generation processes. The model aims to perform on a variety of natural language processing tasks by being trained on large-scale data sets.",
+          "meta": "♥ 374 · 2 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "transcription",
+      "explanation": "Converting conversations in audio or video recordings into text."
+    },
+    {
+      "term": "self-hostable",
+      "explanation": "The ability to run a software on your own computer or server instead of outsourcing it."
+    },
+    {
+      "term": "automatic tagging",
+      "explanation": "Automatic labeling of files or data by the system by looking at their content."
+    },
+    {
+      "term": "full text search",
+      "explanation": "Finding the information sought by scanning all the words in a document."
+    }
+  ]
+}

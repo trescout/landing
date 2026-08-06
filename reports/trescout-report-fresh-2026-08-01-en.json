@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-01",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-skill offers an artificial intelligence-supported routing package for reverse engineering and penetration testing processes. With its toolchain bootstrapping and self-developing knowledge base features, Claude Code integrates with coding tools such as Cursor and Cline.",
+          "meta": "PowerShell · ★ 11,014 · +335 today"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot is an open source platform that offers live chat, email support and omni-channel customer service management. Developed as an alternative to software such as Intercom and Zendesk, this tool allows centralizing customer interactions through a single panel.",
+          "meta": "Ruby · ★ 35,205 · +35 today",
+          "returning": true
+        },
+        {
+          "title": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "summary": "Kaneo is an open source project management tool developed with a user-oriented interface. Written in TypeScript, the platform aims to create complexity-free workflows.",
+          "meta": "TypeScript · ★ 5,248 · +194 today"
+        },
+        {
+          "title": "geo-tp/ESP32-Bit-Pirate",
+          "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+          "summary": "ESP32-Bit-Pirate is a hardware hacking tool that supports multiple communication protocols via a web-based command line interface (CLI). This system, developed in C++ language, facilitates hardware analysis processes by managing different protocols on a single platform.",
+          "meta": "C++ · ★ 5,115 · +83 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Elevators",
+          "url": "https://john.fun/elevators",
+          "summary": "This study examines the operating logic and floor selection algorithms of elevators and focuses on efficiency optimization in vertical transportation systems. It analyzes distributed control strategies that reduce waiting times and save energy through software-based simulations.",
+          "meta": "1,130 points · 268 comments"
+        },
+        {
+          "title": "qm – Multiplayer agent harness for work",
+          "url": "https://github.com/yc-software/qm",
+          "summary": "qm offers an infrastructure that provides collaboration and task management for multiplayer AI agents. This tool allows different agents to execute tasks simultaneously in a shared workspace.",
+          "meta": "526 points · 110 comments"
+        },
+        {
+          "title": "Tailscale didn't stop the Hugging Face intrusion",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "summary": "The unauthorized access incident on Hugging Face shows that using a secure network (mesh VPN) alone is not enough to ensure system security. When secure network solutions are not supported by layered security measures such as authentication and access control, vulnerabilities may occur.",
+          "meta": "517 points · 195 comments"
+        },
+        {
+          "title": "Twenty-five years ago it was cryptography, today it's model weights",
+          "url": "https://weeraman.com/because-we-can/",
+          "summary": "The open source discussions that took place in the field of cryptography twenty-five years ago are being repeated today around the accessibility of artificial intelligence model weights. The world of technology is redefining the boundaries between open access and closed systems in order to balance security and innovation.",
+          "meta": "222 points · 108 comments"
+        },
+        {
+          "title": "Big Food vs. the People",
+          "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+          "summary": "The research, conducted by Lighthouse Reports, examines the lobbying efforts of major food companies to influence nutrition policies and their pressure on scientific data. The study provides concrete evidence of the strategies the food industry uses to circumvent public health regulations.",
+          "meta": "218 points · 142 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731 is a language model optimized for text generation tasks. It supports large-scale language processing with its low latency and high efficiency oriented architecture.",
+          "meta": "♥ 1,119 · 0 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "routing pack",
+      "explanation": "A set of routing rules used in computer networks to ensure that data reaches its destination as quickly as possible."
+    },
+    {
+      "term": "toolchain bootstrapping",
+      "explanation": "The process of building a software development tool from scratch so that it can build itself."
+    },
+    {
+      "term": "omni-channel",
+      "explanation": "Offering an uninterrupted experience to the customer by connecting all sales channels of a brand."
+    },
+    {
+      "term": "project management",
+      "explanation": "Planning and managing resources, time, and tasks to achieve a business' goals."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Text-based interface that runs programs with written commands rather than the mouse."
+    },
+    {
+      "term": "harness",
+      "explanation": "An auxiliary tool used to test whether a software or system is working correctly."
+    }
+  ]
+}

@@ -5,6 +5,46 @@ const ROOT = path.dirname(__dirname);
 const REPORTS_DIR = path.join(ROOT, 'reports');
 const EN_REPORTS_DIR = path.join(ROOT, 'en', 'reports');
 
+/**
+ * İki rapor varyantı · normal ve tekrarsız ("fresh only").
+ * Türkçe tarafta /reports/ ve /reports/tekrarsiz/ olarak yayınlanıyor;
+ * İngilizce tarafta karşılıkları /en/reports/ ve /en/reports/fresh/.
+ * Tekrarsız varyantı 2026-08-06'ya kadar İngilizce tarafta hiç yoktu.
+ */
+const VARIANTS = [
+  {
+    kind: 'normal',
+    srcDir: REPORTS_DIR,
+    outDir: EN_REPORTS_DIR,
+    urlBase: '/en/reports',
+    trUrlBase: '/reports',
+    enPdf: (d) => `trescout-report-${d}-en.pdf`,
+    trPdf: (d) => `trescout-rapor-${d}.pdf`,
+    backLabel: 'All Reports',
+    title: 'Daily Technology Reports',
+    intro: 'Daily AI-curated summaries of GitHub Trending, Hacker News, HuggingFace and Lobsters. Read online in English or download the English PDF.',
+  },
+  {
+    kind: 'fresh',
+    srcDir: path.join(REPORTS_DIR, 'tekrarsiz'),
+    outDir: path.join(EN_REPORTS_DIR, 'fresh'),
+    urlBase: '/en/reports/fresh',
+    trUrlBase: '/reports/tekrarsiz',
+    enPdf: (d) => `trescout-report-fresh-${d}-en.pdf`,
+    trPdf: (d) => `trescout-rapor-tekrarsiz-${d}.pdf`,
+    backLabel: 'Fresh Only',
+    title: 'Fresh Only Reports',
+    intro: 'Only what is new today. Repositories already covered in the last 30 days are filtered out, so nothing repeats.',
+  },
+];
+
+/** Arşiv sekmeleri · Türkçe taraftaki arch-tabs ile aynı desen */
+function archiveTabs(active) {
+  const tab = (href, label, on) =>
+    `<a class="btn ${on ? 'btn-primary' : 'btn-ghost'}" href="${href}"${on ? ' aria-current="page"' : ''}>${label}</a>`;
+  return `<div class="arch-tabs">${tab('/en/reports/', 'All Reports', active === 'normal')}${tab('/en/reports/fresh/', 'Fresh Only', active === 'fresh')}</div>`;
+}
+
 const monthNames = [
   'January', 'February', 'March', 'April', 'May', 'June',
   'July', 'August', 'September', 'October', 'November', 'December'
@@ -63,15 +103,18 @@ const richEnFooter = `<footer>
   </div>
 </footer>`;
 
-const dirs = fs.readdirSync(REPORTS_DIR).filter(d => /^\d{4}-\d{2}-\d{2}$/.test(d) && fs.statSync(path.join(REPORTS_DIR, d)).isDirectory());
+function buildVariant(V) {
+const dirs = fs.existsSync(V.srcDir)
+  ? fs.readdirSync(V.srcDir).filter(d => /^\d{4}-\d{2}-\d{2}$/.test(d) && fs.statSync(path.join(V.srcDir, d)).isDirectory())
+  : [];
 
-console.log(`Generating ${dirs.length} English daily report pages under /en/reports/[date]/...`);
+console.log(`Generating ${dirs.length} English ${V.kind} report pages under ${V.urlBase}/[date]/...`);
 
 let count = 0;
 const reportCards = [];
 
 dirs.sort().reverse().forEach(dateStr => {
-  const trDir = path.join(REPORTS_DIR, dateStr);
+  const trDir = path.join(V.srcDir, dateStr);
   const trHtmlPath = path.join(trDir, 'index.html');
   if (!fs.existsSync(trHtmlPath)) return;
 
@@ -87,10 +130,10 @@ dirs.sort().reverse().forEach(dateStr => {
   // Dedicated English PDF URL
   // İngilizce PDF varsa onu ver, yoksa orijinal Türkçe raporu · etiket buna göre
   // değişir (landing#68'de boş EN PDF'ler silinmişti, #69'da gerçeği üretildi).
-  const trPdfUrl = `/reports/trescout-rapor-${dateStr}.pdf`;
-  const enPdfPath = path.join(ROOT, 'reports', `trescout-report-${dateStr}-en.pdf`);
+  const trPdfUrl = `/reports/${V.trPdf(dateStr)}`;
+  const enPdfPath = path.join(ROOT, 'reports', V.enPdf(dateStr));
   const enPdfVar = fs.existsSync(enPdfPath);
-  const pdfUrl = enPdfVar ? `/reports/trescout-report-${dateStr}-en.pdf` : trPdfUrl;
+  const pdfUrl = enPdfVar ? `/reports/${V.enPdf(dateStr)}` : trPdfUrl;
 
   // Translate chips
   let enChips = chipsMatch ? chipsMatch[1] : '<span class="chip">Daily Tech Radar</span>';
@@ -108,7 +151,7 @@ dirs.sort().reverse().forEach(dateStr => {
     `Daily AI Tech Radar compilation for ${enDateFormatted}. Top developer tools, open-source repositories, and AI research papers captured from GitHub Trending, Hacker News, HuggingFace, and Lobsters.` :
     `Daily AI Tech Radar compilation for ${enDateFormatted}.`;
 
-  const enReportDir = path.join(EN_REPORTS_DIR, dateStr);
+  const enReportDir = path.join(V.outDir, dateStr);
   fs.mkdirSync(enReportDir, { recursive: true });
 
   const enReportHtml = `<!DOCTYPE html>
@@ -119,13 +162,13 @@ dirs.sort().reverse().forEach(dateStr => {
 <title>${enDateFormatted} · TreScout Daily Report</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="description" content="TreScout Daily Technology Intelligence Report for ${enDateFormatted}. Curated open-source tools, Hacker News discussions, and AI papers.">
-<link rel="canonical" href="https://trescout.com/en/reports/${dateStr}/">
-<link rel="alternate" hreflang="tr" href="https://trescout.com/reports/${dateStr}/">
-<link rel="alternate" hreflang="en" href="https://trescout.com/en/reports/${dateStr}/">
-<link rel="alternate" hreflang="x-default" href="https://trescout.com/en/reports/${dateStr}/">
+<link rel="canonical" href="https://trescout.com${V.urlBase}/${dateStr}/">
+<link rel="alternate" hreflang="tr" href="https://trescout.com${V.trUrlBase}/${dateStr}/">
+<link rel="alternate" hreflang="en" href="https://trescout.com${V.urlBase}/${dateStr}/">
+<link rel="alternate" hreflang="x-default" href="https://trescout.com${V.urlBase}/${dateStr}/">
 <meta property="og:title" content="${enDateFormatted} · TreScout Daily Report">
 <meta property="og:description" content="TreScout Daily Technology Intelligence Report for ${enDateFormatted}.">
-<meta property="og:url" content="https://trescout.com/en/reports/${dateStr}/">
+<meta property="og:url" content="https://trescout.com${V.urlBase}/${dateStr}/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <link rel="stylesheet" href="/assets/site.css">
@@ -137,7 +180,7 @@ dirs.sort().reverse().forEach(dateStr => {
 
   <main id="main">
     <article class="report-main">
-      <a class="rep-back" href="/en/reports/">← All Reports</a>
+      <a class="rep-back" href="${V.urlBase}/">← ${V.backLabel}</a>
       <div class="rep-eyebrow">Daily Technology Report ${isHistoricalArchive ? '· Translated Archive Edition' : ''}</div>
       <h1 class="rep-title">${enDateFormatted}</h1>
       <div class="rep-chips">${badgeTag}${enChips}</div>
@@ -165,13 +208,13 @@ dirs.sort().reverse().forEach(dateStr => {
 
   reportCards.push(`
         <article class="card">
-          <a class="card-main" href="/en/reports/${dateStr}/">
+          <a class="card-main" href="${V.urlBase}/${dateStr}/">
             <time class="card-date" datetime="${dateStr}">${enDateFormatted}</time>
             <p class="card-teaser">${enEditorial.substring(0, 160)}...</p>
             <div class="card-chips">${badgeTag}${enChips}</div>
           </a>
           <div class="card-actions">
-            <a class="act act-read" href="/en/reports/${dateStr}/">Read →</a>
+            <a class="act act-read" href="${V.urlBase}/${dateStr}/">Read →</a>
             <a class="act act-pdf" href="${pdfUrl}" download>${enPdfVar ? 'Download PDF' : 'PDF (Turkish)'}</a>
           </div>
         </article>`);
@@ -188,13 +231,13 @@ const enReportsIndexHtml = `<!DOCTYPE html>
 <title>Daily Technology Reports Archive · TreScout</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="description" content="TreScout daily technology reports archive · Curated AI summaries of GitHub, Hacker News, and HuggingFace trends every day.">
-<link rel="canonical" href="https://trescout.com/en/reports/">
-<link rel="alternate" hreflang="tr" href="https://trescout.com/reports/">
-<link rel="alternate" hreflang="en" href="https://trescout.com/en/reports/">
-<link rel="alternate" hreflang="x-default" href="https://trescout.com/en/reports/">
+<link rel="canonical" href="https://trescout.com${V.urlBase}/">
+<link rel="alternate" hreflang="tr" href="https://trescout.com${V.trUrlBase}/">
+<link rel="alternate" hreflang="en" href="https://trescout.com${V.urlBase}/">
+<link rel="alternate" hreflang="x-default" href="https://trescout.com${V.urlBase}/">
 <meta property="og:title" content="Daily Technology Reports Archive · TreScout">
 <meta property="og:description" content="TreScout daily technology reports archive · Curated AI summaries of GitHub, Hacker News, and HuggingFace trends every day.">
-<meta property="og:url" content="https://trescout.com/en/reports/">
+<meta property="og:url" content="https://trescout.com${V.urlBase}/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <link rel="stylesheet" href="/assets/site.css">
@@ -207,9 +250,9 @@ const enReportsIndexHtml = `<!DOCTYPE html>
   <main id="main">
     <div class="archive-main">
       <div class="arch-eyebrow">Archive</div>
-      <h1 class="arch-title">Daily Technology Reports</h1>
-      <div class="arch-tabs"><a class="btn btn-primary" href="/en/reports/" aria-current="page">All Reports</a></div>
-      <p class="arch-intro">Daily AI-curated summaries of GitHub Trending, Hacker News, and HuggingFace. Read online in English or download English PDF reports.</p>
+      <h1 class="arch-title">${V.title}</h1>
+      ${archiveTabs(V.kind)}
+      <p class="arch-intro">${V.intro}</p>
 
       <div class="arch-banner">
         <div class="arch-banner-title">
@@ -230,5 +273,10 @@ const enReportsIndexHtml = `<!DOCTYPE html>
 </body>
 </html>`;
 
-fs.writeFileSync(path.join(EN_REPORTS_DIR, 'index.html'), enReportsIndexHtml, 'utf8');
-console.log('Updated /en/reports/index.html with clear Historical Archive banner and English PDF download URLs!');
+fs.mkdirSync(V.outDir, { recursive: true });
+fs.writeFileSync(path.join(V.outDir, 'index.html'), enReportsIndexHtml, 'utf8');
+console.log(`Updated ${V.urlBase}/index.html · ${count} pages`);
+}
+
+for (const V of VARIANTS) buildVariant(V);
+console.log('English report pages: done.');

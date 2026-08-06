@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-25",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Developed with the Go language, superfile provides a modern and visually rich interface to terminal-based file managers. Users can manage file operations on the command line with a more aesthetic and functional experience.",
+          "meta": "Go · ★ 19,700 · +338 today"
+        },
+        {
+          "title": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "summary": "Dive into LLMs is a training series that teaches the working principles of large language models practically through Jupyter Notebook files. The project concretizes model development processes by offering a wide range of coding practices, from basic concepts to advanced techniques.",
+          "meta": "Jupyter Notebook · ★ 45,115 · +328 today"
+        },
+        {
+          "title": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "summary": "Chat2DB stands out as an artificial intelligence-supported database management tool and SQL client. This platform, developed with Java, provides the opportunity to manage multiple database systems such as MySQL, PostgreSQL and Oracle through a single graphical user interface (GUI).",
+          "meta": "Java · ★ 26,409 · +82 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "summary": "Anthropic announced Claude 3.5 Opus, a new large language model focused on advanced reasoning and complex problem-solving capacity. The model targets high-performance artificial intelligence standards with security improvements shared over the system board and updated technical architecture.",
+          "meta": "1,441 points · 790 comments"
+        },
+        {
+          "title": "If coding has been solved, why does software keep getting worse?",
+          "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+          "summary": "Although automation of software development processes and artificial intelligence-assisted coding (AI-assisted coding) have become widespread, discussions about technical glitches in the end user experience and the decline in software quality continue. Experts emphasize that the increase in code writing speed does not coincide with the ability to manage system complexity and the accumulation of technical debt negatively affects the software ecosystem.",
+          "meta": "683 points · 516 comments"
+        },
+        {
+          "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+          "summary": "Nvidia, Microsoft and Meta argue that over-regulation of open-weight models will restrict technological innovation. Technology companies recommend improving security standards instead of restricting these models.",
+          "meta": "573 points · 255 comments"
+        },
+        {
+          "title": "India's first privately-developed rocket reaches orbit on debut launch",
+          "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+          "summary": "A private space initiative based in India managed to reach orbit on its first test flight with the first rocket it developed. This development increases the country's competence in the commercial spaceflight sector and the role of the private sector in the space economy.",
+          "meta": "557 points · 163 comments"
+        },
+        {
+          "title": "My security camera shipped a GitHub admin token in its login page",
+          "url": "https://hhh.hn/hanwha-github-token/",
+          "summary": "On the login page of Hanwha Vision security cameras, the GitHub administrator access key (admin token) is available as open source. This situation reveals that sensitive data was accidentally exported during the software development process of the devices.",
+          "meta": "550 points · 186 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    }
+  ]
+}

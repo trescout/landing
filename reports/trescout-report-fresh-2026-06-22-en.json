@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-22",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "Supported by large language models, this system analyzes multi-source market data and real-time news and offers visualized panels for investment decisions. It standardizes analysis processes for different exchanges with automatic notifications and free scheduled study support.",
+          "meta": "Python · ★ 45,304 · +568 today"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "Developed by ByteDance, Deer-Flow is an open-source superagent framework designed to perform long-running tasks. System; It can autonomously research and code complex workflows using a sandbox, memory management and sub-agents.",
+          "meta": "Python · ★ 72,905 · +442 today"
+        },
+        {
+          "title": "mikumifa/biliTickerBuy",
+          "url": "https://github.com/mikumifa/biliTickerBuy",
+          "summary": "This Python-based tool that automates Bilibili membership purchasing processes is a ticket purchasing assistant designed to speed up ticket purchasing processes. It allows users to grab limited stock products on the platform faster.",
+          "meta": "Python · ★ 3,782 · +67 today"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot is a Python tool that automates open source intelligence (OSINT) collection for threat intelligence and attack surface mapping processes. It enables detecting security vulnerabilities on digital assets by integrating various data sources.",
+          "meta": "Python · ★ 18,921 · +294 today"
+        },
+        {
+          "title": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "summary": "Cognee is an open source platform that provides long-term memory between sessions to artificial intelligence agents. It allows agents to store and retrieve data in a structured way, using a self-hosted knowledge graph engine.",
+          "meta": "Python · ★ 18,871 · +347 today"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "The system_prompts_leaks repository shared on GitHub brings together system prompts of artificial intelligence models of major technology companies such as Anthropic, OpenAI, Google and xAI. This collection provides a central resource for developers who want to examine the background configuration instructions and constraints of popular language models.",
+          "meta": "JavaScript · ★ 44,809 · +282 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Identity verification on Claude",
+          "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+          "summary": "Anthropic is introducing an identity verification process to increase security measures on the Claude platform. This app requires users to secure their account and verify platform access by uploading their official documents.",
+          "meta": "749 points · 620 comments"
+        },
+        {
+          "title": "Did my old job only exist because of fraud?",
+          "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+          "summary": "It is argued that fake traffic and artificial interactions in software development processes are the main motivation for the survival of some job roles. This reveals that productivity metrics and job descriptions in the technology sector may be based on misleading indicators rather than real value production.",
+          "meta": "551 points · 236 comments"
+        },
+        {
+          "title": "Prefer duplication over the wrong abstraction (2016)",
+          "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+          "summary": "Preferring code repetition rather than wrong abstraction in the software development process helps preserve the flexibility of the system. Avoiding unnecessary generalizations makes it possible for the code base to more easily adapt to changes needed in the future.",
+          "meta": "485 points · 316 comments"
+        },
+        {
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
+          "url": "https://apertvs.ai/",
+          "summary": "Apertus is an open source foundation model platform that allows countries to create trainable models with their own data. In line with its vision of sovereign AI, it aims to develop transparent and auditable artificial intelligence systems that can run on local infrastructure.",
+          "meta": "375 points · 127 comments"
+        },
+        {
+          "title": "Deno Desktop",
+          "url": "https://docs.deno.com/runtime/desktop/",
+          "summary": "Deno Desktop allows developers to create native desktop applications using the Deno runtime. This tool offers an application framework that simplifies the desktop software development process with web technologies.",
+          "meta": "349 points · 144 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "This text-generation model based on Gemma-4-12B offers a special configuration optimized for agent-based tasks. The model, published in GGUF format, provides an efficient inference experience that can be run on local devices.",
+          "meta": "♥ 317 · 50,314 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "SuperAgent",
+      "explanation": "Advanced artificial intelligence assistant that can manage multiple tasks simultaneously and solve complex operations."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "A closed area that allows you to safely test programs by isolating them from the main system."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "A data structure that displays relationships between information as interconnected points."
+    },
+    {
+      "term": "ticket purchasing assistant",
+      "explanation": "A digital assistant that searches for tickets and makes purchases on behalf of the user."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "A method of collecting and analyzing information from publicly available sources on the Internet."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "Artificial intelligence stores past information and experiences for a long time and remembers them when needed."
+    },
+    {
+      "term": "knowledge graph engine",
+      "explanation": "Software infrastructure that establishes complex connections between information and enables it to be queried."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "date": "2026-06-23",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Stirling-Tools/Stirling-PDF",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "summary": "Stirling-PDF is an open source document processing tool that allows users to edit PDF files on any device. Developed with TypeScript, this application centralizes document management processes by running on local servers.",
+          "meta": "TypeScript · ★ 83,316 · +547 today"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Gstack is a system based on Garry Tan's Claude Code configuration and consists of 23 specialized tools that play different roles such as CEO, designer, engineering manager. This TypeScript-based structure offers defined workflows to automate software development processes.",
+          "meta": "TypeScript · ★ 113,462 · +573 today"
+        },
+        {
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "summary": "Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video. Designed to make it easier for artificial intelligence agents to produce visual content, this tool converts web-based interfaces into video format.",
+          "meta": "TypeScript · ★ 30,297 · +395 today"
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl offers an interface (API) to crawl data from websites at scale, extract it, and convert it into a clear text format that AI models can process. This tool simplifies data collection processes by automating interaction with web content.",
+          "meta": "TypeScript · ★ 137,683 · +615 today"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "The artificial intelligence website cloner (AI website cloner), developed by JCodesMore, enables copying of existing websites with a single command using TypeScript-based coding agents. This tool uses AI-powered code generation to automate web design and development processes.",
+          "meta": "TypeScript · ★ 18,039 · +100 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Steam Machine launches today",
+          "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+          "summary": "Valve has released Steam Machine, a new hardware platform that brings the game library into the living room. The device aims to offer the gaming experience with a console-like interface through a special operating system (SteamOS).",
+          "meta": "1,491 points · 1,307 comments"
+        },
+        {
+          "title": "Help I accidentally a wigglegram",
+          "url": "https://lmao.center/blog/wiggle-accidents/",
+          "summary": "Wigglegram is a depth perception illusion (stereoscopic effect) technique created by playing two or more photographs in rapid succession. This method aims to create a three-dimensional sense of depth by adding movement to static images.",
+          "meta": "526 points · 122 comments"
+        },
+        {
+          "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+          "url": "https://ipvm.com/reports/police-chiefs-track",
+          "summary": "Automatic license plate recognition provided by Flock Safety is triggering security and privacy debates as police chiefs use them to track women for personal purposes. This situation brings to the agenda the necessity of a legal search warrant for the control of surveillance technologies.",
+          "meta": "490 points · 200 comments"
+        },
+        {
+          "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+          "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+          "summary": "The Canadian government is planning a nuclear renaissance strategy that aims to increase energy production capacity by building up to ten new nuclear reactors by 2040. This initiative represents the country's efforts to expand its nuclear energy infrastructure to achieve its clean energy goals.",
+          "meta": "443 points · 293 comments"
+        },
+        {
+          "title": "GLM-5.2 – How to Run Locally",
+          "url": "https://unsloth.ai/docs/models/glm-5.2",
+          "summary": "The Unsloth platform offers the necessary optimization methods and installation steps to run the GLM-5.2 model on local computers. This guide details technical processes aimed at running high-performance language models with lower hardware requirements.",
+          "meta": "340 points · 147 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is an image-to-text model that converts image-based text into text data. This technology, developed to digitize data in complex documents, aims for high accuracy in optical character recognition processes.",
+          "meta": "♥ 261 · 47 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "workflows",
+      "explanation": "A set of regular and repeatable steps that must be followed to complete a task."
+    },
+    {
+      "term": "framework",
+      "explanation": "A basic framework that provides ready-made structures and rules that makes things easier when developing software."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    }
+  ]
+}

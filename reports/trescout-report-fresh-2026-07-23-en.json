@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-23",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "likec4/likec4",
+          "url": "https://github.com/likec4/likec4",
+          "summary": "Likec4 is a tool that visualizes software architecture directly from the source code and enables the creation of live diagrams. It aims for the continuity of technical documentation through architectural diagrams that are updated simultaneously with the code base.",
+          "meta": "TypeScript · ★ 4,419 · +80 today"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos is a foundation model developed to analyze the unique language of financial markets. It offers a specialized architecture to make sense of market dynamics by analyzing the complex structure of financial data.",
+          "meta": "Python · ★ 32,705 · +137 today",
+          "returning": true
+        },
+        {
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "Curated by ComposioHQ, awesome-claude-skills brings together tools and resources for customizing Claude AI workflows. This list makes it easier for developers to create skill packs for Claude and integrate them into existing projects.",
+          "meta": "Python · ★ 68,956 · +163 today"
+        },
+        {
+          "title": "dreamhunter2333/cloudflare_temp_email",
+          "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+          "summary": "This tool, which allows creating a free temporary email service using the Cloudflare infrastructure, supports sending and receiving emails. The project offers features such as attachment management, IMAP and SMTP protocols and Telegram bot integration.",
+          "meta": "TypeScript · ★ 10,884 · +68 today"
+        },
+        {
+          "title": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "summary": "Developed with the Rust programming language, Pumpkin offers an open source infrastructure that aims to host Minecraft servers faster and more efficiently. It aims to optimize server management processes with its memory security and high performance focused structure.",
+          "meta": "Rust · ★ 8,562 · +108 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+          "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "summary": "Mathematician Terence Tao evaluates the solution process by analyzing the counterexample to the Jacobian Conjecture with ChatGPT. This discussion examines the capacity of artificial intelligence to verify and solve complex mathematical problems from an academic perspective.",
+          "meta": "766 points · 455 comments"
+        },
+        {
+          "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+          "url": "https://bento.page/slides/",
+          "summary": "Bento is a tool that allows you to edit, view and collaborate on the entire presentation file within a single HTML document. This platform, which uses web front-end technologies, aims to accelerate the workflow by eliminating the need for manual editing in code-based presentation preparation processes.",
+          "meta": "751 points · 168 comments"
+        },
+        {
+          "title": "John C. Dvorak has died",
+          "url": "https://twitter.com/na_announce/status/2079952538040672302",
+          "summary": "Technology writer and critic John C. Dvorak has passed away. With his long-term IT journalism career, he has reached a wide readership in the sector.",
+          "meta": "687 points · 220 comments"
+        },
+        {
+          "title": "Are AI labs pelicanmaxxing?",
+          "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+          "summary": "Artificial intelligence laboratories follow a strategy called pelican maximization (pelicanmaxxing) by extensively using public internet data in their data collection processes. This approach aims to indiscriminately consume all content on the internet to expand the datasets used in training models.",
+          "meta": "468 points · 181 comments"
+        },
+        {
+          "title": "GigaToken: ~1000x faster Language model tokenization",
+          "url": "https://github.com/marcelroed/gigatoken/",
+          "summary": "GigaToken is a library that accelerates the tokenization process used in language models by approximately 1000 times compared to traditional methods. This technology uses an optimized indexing structure to reduce the computational cost of processing large data sets.",
+          "meta": "448 points · 95 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Developed by Poolside, Laguna-S-2.1 is a language model optimized for text-generation tasks. The model supports various content creation processes with its extensive language processing capabilities.",
+          "meta": "♥ 420 · 3,056 downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion model is an artificial intelligence model that produces text output (image-text-to-text) by processing visual and text data. The model offers a customized architecture in which different data sets are combined with its uncensored structure.",
+          "meta": "♥ 340 · 62,842 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skill",
+      "explanation": "Special abilities that smart devices or software can perform with a specific command."
+    },
+    {
+      "term": "diagrams",
+      "explanation": "Simple drawings that show how a system works or how parts are connected together."
+    },
+    {
+      "term": "token",
+      "explanation": "The smallest piece of data corresponding to words or syllables that artificial intelligence uses when processing texts."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "The basic artificial intelligence structure that is trained with very large data sets and on which many different applications can be developed."
+    }
+  ]
+}

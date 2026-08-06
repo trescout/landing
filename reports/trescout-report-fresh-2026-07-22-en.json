@@ -1,0 +1,149 @@
+{
+  "date": "2026-07-22",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "Developed to make the output of coding agents more focused and organized, i-have-adhd improves the user experience by breaking complex responses into parts. This Python-based skill standardizes AI's presentation of information in an attention-deficit hyperactivity disorder (ADHD)-friendly format.",
+          "meta": "Python · ★ 7,248 · +1,866 today"
+        },
+        {
+          "title": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "summary": "Text-to-CAD tools are a collection of agent skills developed to automate robotics and hardware design processes. This JavaScript-based library allows complex engineering models to be created with natural language commands.",
+          "meta": "JavaScript · ★ 9,319 · +291 today"
+        },
+        {
+          "title": "tradesdontlie/tradingview-mcp",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "summary": "TradingView-mcp connects Claude Code with the TradingView desktop application, allowing you to automate chart analysis processes. This integration allows users to personalize technical analysis workflows through AI-powered model context (Model Context Protocol).",
+          "meta": "JavaScript · ★ 4,930 · +114 today"
+        },
+        {
+          "title": "AlexsJones/llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "summary": "Developed with the Rust language, llmfit scans hundreds of large language models and providers and allows you to identify those compatible with your hardware with a single command. The tool automates the process of finding models that best suit local system resources.",
+          "meta": "Rust · ★ 30,309 · +129 today"
+        },
+        {
+          "title": "hyprwm/Hyprland",
+          "url": "https://github.com/hyprwm/Hyprland",
+          "summary": "Hyprland is a window manager that runs on the Wayland compositor and offers a customizable dynamic tiling structure. Developed in C++, this tool provides a high-performance desktop experience without compromising visual aesthetics.",
+          "meta": "C++ · ★ 37,107 · +58 today"
+        },
+        {
+          "title": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "summary": "The original source code of the command and lunar module guidance computer (Guidance Computer) used in the Apollo 11 mission has been made available on GitHub with assembly language. The software documents the technical details of the calculation algorithms used in the first manned mission to land on the Moon.",
+          "meta": "Assembly · ★ 70,068 · +1,235 today"
+        },
+        {
+          "title": "DioxusLabs/dioxus",
+          "url": "https://github.com/DioxusLabs/dioxus",
+          "summary": "Dioxus is a Rust framework that allows developing end-to-end (fullstack) applications with a single code base for web, desktop and mobile platforms. It standardizes the application development experience in the Rust ecosystem by accelerating the user interface creation process with its React-like component-based structure.",
+          "meta": "Rust · ★ 37,762 · +271 today"
+        },
+        {
+          "title": "langchain-ai/open_deep_research",
+          "url": "https://github.com/langchain-ai/open_deep_research",
+          "summary": "Developed by LangChain, open-deep-research is an autonomous system that performs multi-step searches on the internet to answer complex questions. It facilitates deep research processes by automating the research process through planning, data collection and synthesis stages.",
+          "meta": "Python · ★ 12,307 · +23 today"
+        },
+        {
+          "title": "agegr/pi-web",
+          "url": "https://github.com/agegr/pi-web",
+          "summary": "Pi-web offers an improved web-based user interface (web UI) for the Pi coding agent. This tool, written in TypeScript language, makes it possible to manage coding processes through a visual interface.",
+          "meta": "TypeScript · ★ 1,821 · +298 today"
+        },
+        {
+          "title": "schollz/croc",
+          "url": "https://github.com/schollz/croc",
+          "summary": "Croc is a tool that provides secure file and data transfer between two computers using end-to-end encryption. This software, developed with the Go programming language, uses a temporary relay mechanism to facilitate the transfer process.",
+          "meta": "Go · ★ 36,970 · +361 today"
+        },
+        {
+          "title": "dottxt-ai/outlines",
+          "url": "https://github.com/dottxt-ai/outlines",
+          "summary": "The Outlines library enables the responses from large language models to be presented as structured outputs according to predefined schemas. With this Python-based tool, developers protect data integrity by restricting model outputs with regular expressions or context-free grammar rules.",
+          "meta": "Python · ★ 14,917 · +65 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "OpenAI and Hugging Face address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "summary": "OpenAI and Hugging Face resolved the problem by collaborating on a security incident that occurred during the model evaluation processes. In order to increase system security, the parties made updates to close vulnerabilities in their evaluation infrastructures.",
+          "meta": "959 points · 655 comments"
+        },
+        {
+          "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+          "summary": "Google expanded its Gemini series and announced its new models focused on fast processing, Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber. These models provide customized artificial intelligence options that offer a balance of performance and efficiency for different computing needs.",
+          "meta": "656 points · 512 comments"
+        },
+        {
+          "title": "Advertise in ChatGPT",
+          "url": "https://ads.openai.com/",
+          "summary": "OpenAI is working on an advertising platform for ad placements for ChatGPT users. This system allows brands to reach their target audiences through artificial intelligence-supported chat interfaces.",
+          "meta": "600 points · 435 comments"
+        },
+        {
+          "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+          "url": "https://fireworks.ai/blog/kimik3-fable",
+          "summary": "Developed by Moonshot AI, the Kimi K3 model competes with the Fable model, reaching state-of-the-art performance levels. These models, offered with the Fireworks.ai infrastructure, provide high accuracy and speed efficiency in inference processes.",
+          "meta": "499 points · 280 comments"
+        },
+        {
+          "title": "FreeInk: Open ecosystem for e-readers",
+          "url": "https://freeink.org/",
+          "summary": "FreeInk facilitates device independence and content management by providing an open-source ecosystem for e-book readers. The platform aims to provide a standard reading experience and data portability between different hardware.",
+          "meta": "491 points · 113 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "reteetzad/Kimi-K3",
+          "url": "https://huggingface.co/reteetzad/Kimi-K3",
+          "summary": "The Kimi-K3 model shared on Hugging Face is a weight merging study developed for large language models. It aims to provide performance optimization by combining the capabilities of different models.",
+          "meta": "♥ 530 · 0 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "MCP",
+      "explanation": "A bridge protocol that allows AI models to connect to different data sources and tools in a standard way."
+    },
+    {
+      "term": "skill",
+      "explanation": "The specialized ability that a software or artificial intelligence has to perform a specific operation."
+    },
+    {
+      "term": "ADHD",
+      "explanation": "A neurological condition that manifests itself with distractibility, hyperactivity and impulsivity, and causes difficulty focusing."
+    },
+    {
+      "term": "text-to-cad",
+      "explanation": "Technology that automatically creates three-dimensional technical drawings and models using written commands."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "The skills that artificial intelligence assistants acquire to do tasks such as searching the internet or editing files."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    }
+  ]
+}

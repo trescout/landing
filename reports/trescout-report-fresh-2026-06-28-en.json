@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-28",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "summary": "PPT-Master is an AI-powered tool that converts documents directly into editable presentation files (PPTX). The system translates text into customizable presentations with native figures, animations, and audio speaker notes.",
+          "meta": "Python · ★ 33,348 · +589 today"
+        },
+        {
+          "title": "Anil-matcha/Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "summary": "Open-Generative-AI is an open source studio platform with no content filtering and more than 200 visual and video creation models. Users can freely manage their visual production processes by running this software, which is offered under the MIT license, on their own servers (self-hosted).",
+          "meta": "JavaScript · ★ 21,507 · +255 today"
+        },
+        {
+          "title": "dbt-labs/dbt-core",
+          "url": "https://github.com/dbt-labs/dbt-core",
+          "summary": "The data transformation tool (dbt-core) enables data analysts and engineers to perform data transformation using methods similar to software development processes. It standardizes analytical workflows by integrating version control and testing processes into data warehouses.",
+          "meta": "Rust · ★ 13,271 · +18 today"
+        },
+        {
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "summary": "OpenCode is an open source coding agent designed to automate software development processes. Developed with the TypeScript language, this tool offers autonomous task execution capabilities in software projects.",
+          "meta": "TypeScript · ★ 179,948 · +392 today"
+        },
+        {
+          "title": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "summary": "OpenSpec is a TypeScript library that supports spec-driven development processes for artificial intelligence code assistants. It ensures standardization of technical requirements during software development stages and a more controlled progress of code production processes.",
+          "meta": "TypeScript · ★ 57,272 · +177 today"
+        },
+        {
+          "title": "keycloak/keycloak",
+          "url": "https://github.com/keycloak/keycloak",
+          "summary": "Keycloak offers open source identity and access management solutions for modern applications and services. This Java-based platform is used to standardize centralized authentication and authorization processes.",
+          "meta": "Java · ★ 35,354 · +20 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+          "url": "https://github.com/bikini/exploitarium",
+          "summary": "An anonymous GitHub account named Bikini publicly shares exploit codes prepared for previously unreported security vulnerabilities (zero-day). The repository in question contains technical documents and attack tools targeting critical vulnerabilities in various software.",
+          "meta": "780 points · 303 comments"
+        },
+        {
+          "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "summary": "Developed by DeepSeek, DSpark increases the inference speed of large language models with the speculative decoding method. This approach increases computational efficiency by validating the predictions of a small model with a large model.",
+          "meta": "754 points · 315 comments"
+        },
+        {
+          "title": "OpenRA",
+          "url": "https://www.openra.net/",
+          "summary": "OpenRA is an open source game engine developed to run classic real-time strategy games on modern operating systems. The project preserves the original game mechanics and offers updates such as high-resolution screen support and multiplayer infrastructure.",
+          "meta": "665 points · 131 comments"
+        },
+        {
+          "title": "Fintech Engineering Handbook",
+          "url": "https://w.pitula.me/fintech-engineering-handbook/",
+          "summary": "Fintech Engineering Handbook addresses scalability, security and compliance requirements in financial technology systems within a technical framework. It summarizes the basic principles for processing financial data and structuring the system architecture in software development processes.",
+          "meta": "541 points · 170 comments"
+        },
+        {
+          "title": "The case for physical media ownership",
+          "url": "https://dervis.de/physical/",
+          "summary": "In contrast to subscription models on digital content platforms, physical media ownership offers an alternative to restricting access rights to digital assets. Users are turning to physical formats to protect their permanent access and ownership rights against the risk of content being removed from platforms.",
+          "meta": "423 points · 269 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M is an open source language model focused on text generation. It aims to increase performance in complex content creation processes with wide context window support.",
+          "meta": "♥ 500 · 30,298 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "PPTX",
+      "explanation": "Standard digital format of files used to prepare presentations."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-25",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "interviewstreet/hiring-agent",
+          "url": "https://github.com/interviewstreet/hiring-agent",
+          "summary": "Hiring-agent is an artificial intelligence agent (AI agent) designed to evaluate and score resumes. This tool, developed with Python language, aims to automate candidate screening processes in recruitment processes.",
+          "meta": "Python · ★ 2,482 · +203 today"
+        },
+        {
+          "title": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "summary": "Developed by Google, Flutter allows the rapid creation of user interfaces for mobile, web and desktop platforms using a single code base. This open source framework, based on the Dart programming language, is widely preferred for developing high-performance and visually rich applications.",
+          "meta": "Dart · ★ 177,494 · +73 today"
+        },
+        {
+          "title": "andreknieriem/headunit-revived",
+          "url": "https://github.com/andreknieriem/headunit-revived",
+          "summary": "The headunit-revived project provides an application that allows viewing the Android Auto interface on different screens. This software, developed in Kotlin language, provides an alternative display solution for in-vehicle infotainment systems.",
+          "meta": "Kotlin · ★ 1,484 · +41 today"
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "Developed by Stablyai, Orca offers an agent development environment that allows managing multiple artificial intelligence agents simultaneously. Using their subscription, users can run various coding agents on both desktop and mobile platforms.",
+          "meta": "TypeScript · ★ 7,044 · +331 today"
+        },
+        {
+          "title": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "summary": "Developed by Google Labs, DESIGN.md provides a structured format specification for passing visual credentials to coding agents. This standard ensures that design systems are understood consistently and permanently by artificial intelligence agents.",
+          "meta": "TypeScript · ★ 17,720 · +619 today"
+        },
+        {
+          "title": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "summary": "Zapret-discord-youtube is a tool that aims to provide access to restricted platforms by encrypting network traffic or using packet fragmentation methods. It was developed specifically to overcome access barriers to services such as Discord and YouTube.",
+          "meta": "Batchfile · ★ 30,060 · +61 today"
+        },
+        {
+          "title": "kunchenguid/no-mistakes",
+          "url": "https://github.com/kunchenguid/no-mistakes",
+          "summary": "Developed with the Go language, no-mistakes is a command line tool designed to prevent software developers from submitting faulty code (git push). By running in the local development environment, it provides a layer of security that prevents unwanted changes from being pushed into the code base.",
+          "meta": "Go · ★ 2,519 · +110 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "OpenAI unveils its first custom chip, built by Broadcom",
+          "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+          "summary": "OpenAI announced Jalapeno, the first custom-made chip developed in collaboration with Broadcom. This hardware is designed to speed up inference processes and reduce the operational costs of artificial intelligence models.",
+          "meta": "663 points · 372 comments"
+        },
+        {
+          "title": "RubyLLM: A Ruby framework for all major AI providers",
+          "url": "https://rubyllm.com/",
+          "summary": "RubyLLM offers a framework that allows applications developed with the Ruby programming language to access different artificial intelligence providers. This tool standardizes the process by which developers integrate large language models into their Ruby-based projects.",
+          "meta": "378 points · 61 comments"
+        },
+        {
+          "title": "Krea 2: SOTA open-weights 12B image model",
+          "url": "https://www.krea.ai/blog/krea-2-technical-report",
+          "summary": "Krea 2 is an open-weighted model with 12 billion parameters that offers high performance in image creation processes. Optimized to improve visual production quality, this model aims to set a new standard in the field of image synthesis.",
+          "meta": "372 points · 40 comments"
+        },
+        {
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "summary": "Anthropic alleges that Alibaba copied the capabilities of the Claude AI model without permission. The company argues that model weights and architectural features were extracted using unauthorized methods.",
+          "meta": "338 points · 575 comments"
+        },
+        {
+          "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
+          "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
+          "summary": "Secure Shell (SSH) tunnels are used to securely transmit network traffic using local and remote port forwarding methods. This guide explains with practical examples the technical processes that provide secure data access between different servers by encrypting network traffic.",
+          "meta": "316 points · 60 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M is a language model that performs text generation with extended context window support. It is presented in quantized GGUF format, which allows operation on low-resource devices.",
+          "meta": "♥ 388 · 63,637 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "LLM",
+      "explanation": "An advanced artificial intelligence model that understands, summarizes or produces new content by learning human language."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "A digital assistant that interacts with its environment and makes its own decisions to carry out the commands it receives from the user."
+    },
+    {
+      "term": "user interface",
+      "explanation": "The visual display and control area that allows the user to interact with a device or software."
+    },
+    {
+      "term": "framework",
+      "explanation": "A set of ready-made structures and rules used to speed up work when developing software."
+    },
+    {
+      "term": "infotainment systems",
+      "explanation": "Digital display panel in vehicles that offers both navigation and entertainment features such as music."
+    },
+    {
+      "term": "agent development environment",
+      "explanation": "Custom software development environment used to create, test and manage artificial intelligence assistants."
+    },
+    {
+      "term": "design systems",
+      "explanation": "A standard library of colors, fonts, and components used to ensure consistency in the design of an application."
+    },
+    {
+      "term": "packet fragmentation",
+      "explanation": "The process of dividing the data sent over the Internet into smaller pieces according to the carrying capacity of the network."
+    }
+  ]
+}

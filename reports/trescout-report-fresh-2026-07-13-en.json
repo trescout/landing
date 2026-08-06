@@ -1,0 +1,165 @@
+{
+  "date": "2026-07-13",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Dicklesworthstone/destructive_command_guard",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "summary": "Destructive Command Guard is a security layer developed to prevent dangerous git and shell commands run by artificial intelligence agents. Written in Rust, this tool reduces the risks of unwanted data loss or system damage by auditing command execution processes at the system level.",
+          "meta": "Rust · ★ 3,284 · +444 today"
+        },
+        {
+          "title": "PrefectHQ/prefect",
+          "url": "https://github.com/PrefectHQ/prefect",
+          "summary": "Prefect is a workflow orchestration framework used to create Python-based data pipelines. Designed to develop resilient data processes, this tool enables management and monitoring of complex data workflows.",
+          "meta": "Python · ★ 23,248 · +66 today"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "The awesome-llm-apps repository offers more than 100 directly executable AI agents and RAG application examples. These Python-based projects allow developers to quickly copy and customize applications and launch them.",
+          "meta": "Python · ★ 118,879 · +408 today"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "Project N.O.M.A.D is a portable survival computer that provides access to critical tools, information resources and artificial intelligence support in offline environments that do not require an internet connection. This system, developed with TypeScript, aims to make the data users need accessible under all circumstances by hosting it on local hardware.",
+          "meta": "TypeScript · ★ 33,924 · +125 today",
+          "returning": true
+        },
+        {
+          "title": "ColeMurray/background-agents",
+          "url": "https://github.com/ColeMurray/background-agents",
+          "summary": "Developed by ColeMurray, background-agents is an open source background-agents coding system based on TypeScript. It allows developers to create artificial intelligence agents (AI agents) that execute autonomous processes within applications.",
+          "meta": "TypeScript · ★ 2,329 · +16 today"
+        },
+        {
+          "title": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "summary": "Wand-Enhancer is a C#-based plugin that improves user experience and increases interoperability for the WeMod application. It optimizes users' control over tools by extending the functionality of the application.",
+          "meta": "C# · ★ 7,061 · +609 today"
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3Code is a toolset developed to improve and standardize code quality in TypeScript-based projects. It provides automation support to developers in type safety and code editing processes.",
+          "meta": "TypeScript · ★ 13,814 · +75 today"
+        },
+        {
+          "title": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "summary": "The AI ​​hedge fund uses autonomous agents to automate financial market analysis and asset management processes. This Python-based project offers an artificial intelligence team model that develops investment strategies by processing market data.",
+          "meta": "Python · ★ 61,500 · +115 today"
+        },
+        {
+          "title": "chen08209/FlClash",
+          "url": "https://github.com/chen08209/FlClash",
+          "summary": "FlClash serves as a multiplatform proxy client based on ClashMeta. This open source application, developed with Dart language, aims to offer an ad-free and user-friendly interface.",
+          "meta": "Dart · ★ 45,340 · +154 today",
+          "returning": true
+        },
+        {
+          "title": "par274/sharpemu",
+          "url": "https://github.com/par274/sharpemu",
+          "summary": "Sharpemu is an experimental PlayStation 5 emulator project developed in C# language. This study, which aims to imitate the console architecture on a software basis, is a technical experiment carried out on game console emulation technologies.",
+          "meta": "C# · ★ 1,379 · +314 today"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark is a style file developed to reduce the impact of standard content produced by artificial intelligence (AI slop) on the design. Claude Code ensures that the interfaces used in tools such as Cursor and Codex gain a unique and human aesthetic.",
+          "meta": "CSS · ★ 4,508 · +155 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "summary": "An analysis of the token usage efficiency of Claude Code and OpenCode tools reveals that Claude Code spends 33 thousand tokens before the prompt is read, while OpenCode spends 7 thousand tokens. This difference shows the impact of the system prompt and context management overhead in developer tools on cost.",
+          "meta": "541 points · 307 comments"
+        },
+        {
+          "title": "Ask HN: Add flag for AI-generated articles",
+          "url": "https://news.ycombinator.com/item?id=48886741",
+          "summary": "The Hacker News community is discussing whether AI-generated content should be marked with a special label on the platform. It is recommended that this marking system be used only as an indicator to inform readers, without changing the order of the content.",
+          "meta": "462 points · 240 comments"
+        },
+        {
+          "title": "I love LLMs, I hate hype",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "summary": "The approach, which appreciates the technical capacity of large language models, criticizes exaggerated marketing discourses in the artificial intelligence sector. It is argued that these models provide concrete efficiency increases in software development processes, but current expectations contain unrealistic optimism.",
+          "meta": "396 points · 248 comments"
+        },
+        {
+          "title": "Vint Cerf, “father of the Internet”, is retiring",
+          "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+          "summary": "Vint Cerf, one of the architects of the Internet, is retiring from his position at Google. Cerf, who pioneered the development of TCP/IP protocols, played a critical role in establishing the basic structure of digital networks.",
+          "meta": "301 points · 176 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "conradlocke/krea2-identity-edit",
+          "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "summary": "The Krea2-identity-edit model focuses on identity preservation and consistent character creation in visual production processes. This tool is a fine-tuning solution that allows users to reproduce a given subject in different contexts or styles.",
+          "meta": "♥ 218 · 0 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "destructive command guard",
+      "explanation": "Security mechanism that warns you before running commands that risk deleting data or corrupting the system."
+    },
+    {
+      "term": "shell",
+      "explanation": "The underlying software layer that allows you to communicate with the computer's operating system directly via text commands."
+    },
+    {
+      "term": "workflow orchestration framework",
+      "explanation": "Software infrastructure that organizes complex business processes, tasks and the order in which these tasks follow each other."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Autonomous artificial intelligence software that can make decisions and use tools on its own to achieve a specific goal."
+    },
+    {
+      "term": "RAG",
+      "explanation": "A method that enables artificial intelligence to produce more accurate answers by looking at current or special documents other than its own training data."
+    },
+    {
+      "term": "offline",
+      "explanation": "It works without the need for an internet connection, using only the device's own resources."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "AI units that can plan and execute missions on their own and use a variety of digital tools to achieve goals."
+    },
+    {
+      "term": "user experience",
+      "explanation": "The ease, speed, and overall level of satisfaction you feel when using an app or device."
+    },
+    {
+      "term": "interoperability",
+      "explanation": "The ability of different brands or types of software and hardware to exchange data with each other without any problems."
+    },
+    {
+      "term": "type safety",
+      "explanation": "A security rule that reduces the possibility of the program making errors by preventing the wrong type of data from being used when developing software."
+    },
+    {
+      "term": "AI hedge fund",
+      "explanation": "A type of investment fund that makes investment decisions with advanced artificial intelligence algorithms instead of human intervention."
+    }
+  ]
+}

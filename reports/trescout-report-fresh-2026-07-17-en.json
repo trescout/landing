@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-17",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "summary": "Apache Ossie is an industry initiative that aims to standardize the exchange of semantic metadata between analytics, artificial intelligence and business intelligence (BI) platforms. This project facilitates data integration by creating a vendor-independent, single source of truth between different platforms.",
+          "meta": "Python · ★ 997 · +60 today"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog is a comprehensive platform that brings together tools such as artificial intelligence observability, analysis and session replay for product development processes. It enables software developers to create autonomous products by tracking bugs, managing experiments, and analyzing user data.",
+          "meta": "Python · ★ 35,939 · +77 today"
+        },
+        {
+          "title": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "summary": "The Bonsai demo project provides a toolset designed to simplify the deployment processes of machine learning models. The software helps developers optimize their application processes by turning complex model architectures into manageable workflows.",
+          "meta": "Shell · ★ 1,587 · +196 today"
+        },
+        {
+          "title": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "summary": "LobeHub enables creating an AI team operations that works 24 hours a day, 7 days a week, by managing artificial intelligence agents through recruitment, scheduling and reporting processes. The platform offers an administrative interface that automates workflows by organizing different agents from a single center.",
+          "meta": "TypeScript · ★ 80,291 · +71 today"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub Copilot SDK offers a multiplatform software development kit (SDK) that allows developers to integrate GitHub Copilot agents into their own applications and services. This Java-based tool enables the standard use of artificial intelligence-supported coding assistants on different platforms.",
+          "meta": "Java · ★ 9,698 · +13 today",
+          "returning": true
+        },
+        {
+          "title": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "summary": "Developed for design engineers, ui-skills brings together the technical skills and competencies needed in user interface (UI) development processes. This TypeScript-based resource offers a competency map for professionals transitioning from interface design to coding.",
+          "meta": "TypeScript · ★ 4,436 · +178 today"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X is a collection of guides aimed at improving programming skills by coding popular software technologies from scratch. Developers have the opportunity to learn architectural structures in practice by building complex systems, such as a database or operating system, step by step.",
+          "meta": "Markdown · ★ 526,539 · +435 today",
+          "returning": true
+        },
+        {
+          "title": "ossu/computer-science",
+          "url": "https://github.com/ossu/computer-science",
+          "summary": "Offering a free and self-learning oriented curriculum in the field of computer science, this resource creates an educational path that complies with academic standards. It provides a structured learning process covering software development and basic informatics disciplines.",
+          "meta": "HTML · ★ 206,669 · +107 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kimi K3: Open Frontier Intelligence",
+          "url": "https://www.kimi.com/blog/kimi-k3",
+          "summary": "Kimi k3, announced by Moonshot AI, is a new open frontier intelligence model that stands out with its long context window and high processing speed. The model aims to provide cost efficiency, especially in complex reasoning and analyzing large data sets.",
+          "meta": "1,435 points · 864 comments"
+        },
+        {
+          "title": "Microsoft Comic Chat is now open source",
+          "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+          "summary": "Microsoft shared the source codes of Comic Chat, its character-based chat application launched in 1996, as open source. The software offers an interface that automatically turns users' text-based conversations into comic panels.",
+          "meta": "617 points · 138 comments"
+        },
+        {
+          "title": "Decoy Font",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "summary": "Decoy Font is a font experiment used to visually hide texts. This tool offers content masking by masking text with seemingly random shapes instead of readable characters.",
+          "meta": "486 points · 115 comments"
+        },
+        {
+          "title": "How Our Rust-to-Zig Rewrite Is Going",
+          "url": "https://rtfeldman.com/rust-to-zig",
+          "summary": "Software developers share their migration projects from Rust to Zig in order to optimize performance and memory management processes. This transformation process is evaluated by its effects on compilation speed and low-level systems programming control.",
+          "meta": "471 points · 247 comments"
+        },
+        {
+          "title": "NotebookLM is now Gemini Notebook",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+          "summary": "Google is rebranding NotebookLM, its personal artificial intelligence-supported notebook, as Gemini Notebook and incorporating it into the Gemini ecosystem. This transformation enables the platform to deliver advanced generative AI capabilities in a more integrated way with Google's core AI model.",
+          "meta": "282 points · 143 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "BI",
+      "explanation": "Business intelligence tools that enable companies to make more accurate decisions by analyzing raw data."
+    },
+    {
+      "term": "semantic metadata",
+      "explanation": "Descriptive information that explains what data means and how it relates to other data."
+    },
+    {
+      "term": "single source of truth",
+      "explanation": "The principle of managing all information in an institution from a single reliable and up-to-date source."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "The process of tracking errors and unexpected consequences by monitoring how artificial intelligence systems work."
+    },
+    {
+      "term": "session replay",
+      "explanation": "The movements of a user on the website can be recorded as a video and watched again later."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Computers learn on their own using data and produce better results over time."
+    },
+    {
+      "term": "AI team operations",
+      "explanation": "The way teams developing artificial intelligence projects manage their workflows and processes."
+    },
+    {
+      "term": "skills",
+      "explanation": "Abilities that an artificial intelligence model can perform by specializing in a particular field."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Artificial intelligence technology that can produce new content that did not exist before, based on the data it learns."
+    }
+  ]
+}

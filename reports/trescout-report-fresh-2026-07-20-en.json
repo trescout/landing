@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-20",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "summary": "This open source book on artificial intelligence agents (AI agents) comprehensively covers design principles and engineering applications. In addition to theoretical information, it includes application codes divided into sections and compiled PDF files.",
+          "meta": "Python · ★ 7,362 · +1,734 today"
+        },
+        {
+          "title": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "summary": "Ktransformers offers a flexible framework that supports heterogeneous hardware optimizations in the inference and fine-tuning processes of large language models. This structure aims to increase model performance by using different hardware resources efficiently.",
+          "meta": "Python · ★ 18,491 · +360 today"
+        },
+        {
+          "title": "andrewrabert/jellium-desktop",
+          "url": "https://github.com/andrewrabert/jellium-desktop",
+          "summary": "Jellium-desktop is an unofficial desktop client developed in Rust for the media server Jellyfin. The software offers a native interface that allows users to access their media libraries directly through the operating system.",
+          "meta": "Rust · ★ 1,342 · +43 today"
+        },
+        {
+          "title": "microsoft/terminal",
+          "url": "https://github.com/microsoft/terminal",
+          "summary": "Microsoft is combining Windows Terminal and the traditional Windows console host under one roof. This open source project, developed in C++ language, restructures the command line experience with a modern interface and customizable tabs.",
+          "meta": "C++ · ★ 104,241 · +59 today"
+        },
+        {
+          "title": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "summary": "AstrBot is an artificial intelligence agent development framework that integrates with various instant messaging platforms, large language models and plug-ins. This Python-based tool allows creating customizable AI assistants as an open-source alternative.",
+          "meta": "Python · ★ 36,787 · +83 today"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua aims to scale computer-use technologies with open source drivers and operating system independent fleet management. The platform offers standardized benchmarking tools for the training, evaluation and data generation processes of artificial intelligence models.",
+          "meta": "HTML · ★ 20,286 · +64 today",
+          "returning": true
+        },
+        {
+          "title": "Canner/WrenAI",
+          "url": "https://github.com/Canner/WrenAI",
+          "summary": "Developed by Canner, WrenAI is an open-source generative business intelligence (generative BI) tool that automatically exports data into panels and charts by converting natural language into database queries (text-to-SQL). The platform provides reliable data analytics processes for AI agents through a manageable context layer that supports more than twenty data sources.",
+          "meta": "Python · ★ 16,314 · +121 today"
+        },
+        {
+          "title": "PKUFlyingPig/cs-self-learning",
+          "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+          "summary": "This guide, prepared by Peking University students, offers a comprehensive road map for those who want to self-learn in the field of computer science. It combines a broad curriculum, from core courses to specializations, with resources and study methods.",
+          "meta": "HTML · ★ 74,290 · +134 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+          "url": "https://news.ycombinator.com/item?id=48968606",
+          "summary": "A software engineer redesigned a $120,000 commercial bowling center automation system using $1,600 ESP32 microcontrollers. This solution, developed with embedded systems, creates a cost-effective alternative to expensive industrial hardware.",
+          "meta": "2,036 points · 212 comments"
+        },
+        {
+          "title": "Qwen 3.8",
+          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+          "summary": "Developed by Alibaba, Qwen 3.8 introduces a new pricing and token scheme for large language models. This model provides accessible computing capacity to developers through its cloud-based infrastructure.",
+          "meta": "846 points · 579 comments"
+        },
+        {
+          "title": "Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "summary": "Claude Code started using Bun as the JavaScript runtime to speed up the working environment. This migration aims to improve the performance of developer tools through the integration of infrastructure components written in Rust.",
+          "meta": "472 points · 629 comments"
+        },
+        {
+          "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+          "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+          "summary": "Scalable production and supply chain management in the hardware development process present concrete challenges that software-focused entrepreneurs can overcome. Experience gained from the sale of 2,500 MIDI recorders shows that hardware entrepreneurship is more accessible than thought.",
+          "meta": "461 points · 209 comments"
+        },
+        {
+          "title": "Minecraft: Java Edition now uses SDL3",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+          "summary": "Minecraft: Java Edition upgraded the Simple DirectMedia Layer library used for graphics and input device management to the third version (SDL3). This update modernizes the game's hardware interaction and provides a more stable performance infrastructure.",
+          "meta": "293 points · 200 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous software that can make decisions on its own and carry out assigned tasks step by step."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Retraining a general-purpose AI with a small data set to specialize in a specific subject."
+    },
+    {
+      "term": "desktop client",
+      "explanation": "A software application that you download to your computer and use directly on the desktop."
+    },
+    {
+      "term": "console host",
+      "explanation": "A window environment in which text-based commands are run on the computer and the results are displayed."
+    },
+    {
+      "term": "development framework",
+      "explanation": "A working framework that speeds up work when developing software and provides ready-made basic structures."
+    }
+  ]
+}

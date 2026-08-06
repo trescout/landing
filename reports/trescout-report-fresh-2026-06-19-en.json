@@ -1,0 +1,118 @@
+{
+  "date": "2026-06-19",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "zai-org/GLM-5",
+          "url": "https://github.com/zai-org/GLM-5",
+          "summary": "GLM-5 offers a framework that aims to move software development processes from vibe coding to structured agent-based engineering. This system standardizes software development workflows through artificial intelligence agents (AI agents) that can manage complex tasks autonomously.",
+          "meta": "★ 4,301 · +202 today"
+        },
+        {
+          "title": "Kilo-Org/kilocode",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "summary": "Kilo is an all-in-one agent-based engineering platform designed to accelerate software development processes. It standardizes the application creation, distribution and iteration processes through an open source software development agent (coding agent).",
+          "meta": "TypeScript · ★ 22,481 · +1,345 today"
+        },
+        {
+          "title": "Kong/insomnia",
+          "url": "https://github.com/Kong/insomnia",
+          "summary": "Insomnia is an open source application programming interface (API) client that supports GraphQL, REST, WebSockets, SSE and gRPC protocols. The software offers cross-platform support with cloud-based, local and Git storage options.",
+          "meta": "TypeScript · ★ 38,771 · +18 today"
+        },
+        {
+          "title": "dotnet/aspnetcore",
+          "url": "https://github.com/dotnet/aspnetcore",
+          "summary": "ASP.NET Core is a cross-platform .NET framework used to develop modern cloud-based web applications on Windows, macOS, and Linux. This structure, developed in C# language, allows creating high-performance and scalable web services.",
+          "meta": "C# · ★ 38,124 · +14 today"
+        },
+        {
+          "title": "owainlewis/awesome-artificial-intelligence",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+          "summary": "Awesome-artificial-intelligence is a comprehensive resource list that brings together trainings, books, video lessons and academic articles in the field of artificial intelligence. This collection provides a discipline-based structured content repository for users in the learning process.",
+          "meta": "★ 14,532 · +40 today"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "summary": "Developed by Lightricks, LTX-2 offers a Python inference and low-rank adaptation (LoRA) training package for artificial intelligence models that produce audio and video. This toolset allows users to train LTX-2 models with their own data and run model outputs on local systems.",
+          "meta": "Python · ★ 7,550 · +51 today"
+        },
+        {
+          "title": "LibreTranslate/LibreTranslate",
+          "url": "https://github.com/LibreTranslate/LibreTranslate",
+          "summary": "LibreTranslate offers a free and open source machine translation interface (API). This Python-based tool, which you can host on your own server, allows you to work offline without an internet connection.",
+          "meta": "Python · ★ 15,075 · +51 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "I found 10k GitHub repositories distributing Trojan malware",
+          "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+          "summary": "More than ten thousand software repositories hosted on GitHub were found to be distributing Trojan-type malware. These repositories imitate legitimate projects and encourage users to download malicious files.",
+          "meta": "780 points · 203 comments"
+        },
+        {
+          "title": ".gitignore Isn't the only way to ignore files in Git",
+          "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+          "summary": "Not only the .gitignore file is used for file exclusion (ignoring files) operations in Git projects. Developers can choose the .git/info/exclude file for local configurations or the global config methods for global exclusions.",
+          "meta": "410 points · 129 comments"
+        },
+        {
+          "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+          "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+          "summary": "Norwegian retailer Elkjop was fined 1.8 million euros for its practices requiring users' data processing consent. This decision is based on a violation of the rule that user consent must be given freely under the General Data Protection Regulation (GDPR).",
+          "meta": "374 points · 214 comments"
+        },
+        {
+          "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+          "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+          "summary": "The advanced compilers course offered by Cornell University provides access to self-learning materials covering modern compiler design and optimization techniques. The program supports theoretical knowledge about compiler infrastructure and code generation processes with practical applications.",
+          "meta": "364 points · 51 comments"
+        },
+        {
+          "title": "Show HN: Are You in the Weights?",
+          "url": "https://www.intheweights.com/",
+          "summary": "As internet traffic shifts to large language models, a platform has been developed that questions to what extent personal data is included in the weights of artificial intelligence models. This tool analyzes traces of data in artificial intelligence memory by querying various models simultaneously.",
+          "meta": "336 points · 188 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "vibe coding",
+      "explanation": "The process of writing code quickly with the help of artificial intelligence by simply describing what you want, without getting bogged down in technical details."
+    },
+    {
+      "term": "agentic engineering",
+      "explanation": "The discipline of designing and developing autonomous software that can make its own decisions and achieve the goal."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Intelligent software that uses tools to perform assigned tasks and can make decisions on its own."
+    },
+    {
+      "term": "agentic engineering platform",
+      "explanation": "Comprehensive development environment for creating, managing and testing intelligent autonomous software."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "An artificial intelligence tool that writes code, fixes errors and completes projects by acting like a programmer."
+    },
+    {
+      "term": "API",
+      "explanation": "A digital bridge that allows two different software to talk to each other and exchange data."
+    }
+  ]
+}

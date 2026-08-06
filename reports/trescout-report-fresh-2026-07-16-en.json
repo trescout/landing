@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-16",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "summary": "Open Interpreter offers a coding agent that automates software development processes by running code in the local computer environment. Designed to work with low-cost language models, this tool allows executing complex tasks directly from the terminal.",
+          "meta": "Rust · ★ 65,626 · +299 today"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor is a lifelong learning-based private tutoring system that offers personalized education processes using student data. The project aims to optimize the learning experience with artificial intelligence-supported individualized tutoring methods.",
+          "meta": "Python · ★ 26,461 · +172 today"
+        },
+        {
+          "title": "YimMenu/YimMenuV2",
+          "url": "https://github.com/YimMenu/YimMenuV2",
+          "summary": "YimMenuV2 is an experimental menu modification developed for Grand Theft Auto 5: Enhanced edition. Written in C++, this tool offers various customizations and extended functions within the game.",
+          "meta": "C++ · ★ 1,458 · +38 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Inkling: Our Open-Weights Model",
+          "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+          "summary": "Published by Thinking Machines, Inkling is offered to developers as an open-weighted language model. The model aims for a flexible structure that allows fine-tuning on special data sets.",
+          "meta": "856 points · 214 comments"
+        },
+        {
+          "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+          "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+          "summary": "Stripe and investment firm Advent have made a joint bid worth more than $53 billion to acquire payment systems provider PayPal. This initiative reflects trends of large-scale consolidation in the financial technology (fintech) sector.",
+          "meta": "412 points · 223 comments"
+        },
+        {
+          "title": "Grok Build is open source",
+          "url": "https://github.com/xai-org/grok-build",
+          "summary": "xAI has published the Grok-1 open source library, which is based on the architecture and training processes of the Grok model. This development allows developers to fine-tune large language models and examine the working principles of the model.",
+          "meta": "369 points · 400 comments"
+        },
+        {
+          "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+          "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+          "summary": "The Gemma 4 26B model can be run at a speed of 5 tokens per second on a 13-year-old Xeon processor without using a graphics processing unit (GPU). This application demonstrates the importance of optimization techniques for efficient inference of large language models (LLM) on older hardware.",
+          "meta": "268 points · 174 comments"
+        },
+        {
+          "title": "SQLite should have (Rust-style) editions",
+          "url": "https://mort.coffee/home/sqlite-editions/",
+          "summary": "A structure similar to the editions model in Rust is recommended for the SQLite database engine. This approach aims to add new features and improve the long-term maintenance processes of the software without disrupting backward compatibility.",
+          "meta": "199 points · 77 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B is offered as a text-generation model optimized with the ternary quantization method. This technique aims to reduce memory usage while minimizing the performance loss of the model.",
+          "meta": "♥ 497 · 23 downloads"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Developed by Thinkingmachines, Inkling is a multimodal model that produces text output by processing visual and text inputs. The system is designed to analyze visual data and use it in text-based tasks.",
+          "meta": "♥ 486 · 0 downloads"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B is a language model optimized for text generation tasks. This structure, presented in GGUF format, allows the model to run more efficiently on different hardware resources.",
+          "meta": "♥ 283 · 513 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "coding agent",
+      "explanation": "An artificial intelligence tool that writes software codes, fixes bugs and develops applications for you."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "The process of continuous improvement of an artificial intelligence model as it encounters new data, without forgetting its old information."
+    },
+    {
+      "term": "personalized tutoring",
+      "explanation": "A digital system that changes content according to the student's speed and needs and provides personalized education."
+    },
+    {
+      "term": "features",
+      "explanation": "Special functions and capabilities that a product or software offers to users."
+    }
+  ]
+}

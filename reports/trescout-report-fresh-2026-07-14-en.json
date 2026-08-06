@@ -1,0 +1,114 @@
+{
+  "date": "2026-07-14",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut is a TypeScript-based application development project that offers an open source alternative for video editing processes. Aiming to provide a CapCut-like user experience, this platform aims to make video editing tools accessible.",
+          "meta": "TypeScript · ★ 67,464 · +1,229 today"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi is an artificial intelligence companion platform with real-time voice chat and gaming capabilities that users can host on their own servers. The project aims to bring interactive characters similar to Neuro-sama to desktop and web environments.",
+          "meta": "TypeScript · ★ 42,089 · +78 today",
+          "returning": true
+        },
+        {
+          "title": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "summary": "Graphify transforms different types of data such as code files, database schemas and documentation into a queryable knowledge graph structure. This Python-based tool aims to create a central data layer for various AI coding assistants.",
+          "meta": "Python · ★ 85,141 · +1,095 today"
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "Published by GitHub, spec-kit offers the necessary tools to start spec-driven development processes. This Python-based library makes it easy to create and manage standardized specifications in software projects.",
+          "meta": "Python · ★ 120,786 · +543 today",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+          "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+          "summary": "Apple is testing its new Speech Analyzer interface (API) in comparison with OpenAI's Whisper model and its previous version. This new interface, focusing on in-device processing, offers an alternative option in voice data processing, especially with its low latency and privacy advantages.",
+          "meta": "511 points · 200 comments"
+        },
+        {
+          "title": "Building and shipping Mac and iOS apps without opening Xcode",
+          "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+          "summary": "Developers can develop Mac and iOS applications with command line tools and automation processes without using Apple's integrated development environment (Xcode) interface. This method accelerates development processes by managing the build and deployment phases through the terminal.",
+          "meta": "396 points · 176 comments"
+        },
+        {
+          "title": "The art and engineering of Sega CD Silpheed",
+          "url": "https://fabiensanglard.net/silpheed/index.html",
+          "summary": "Fabien Sanglard examines in detail the technical architecture and visual effects of the Silpheed game developed for the Sega CD platform. The study explains with technical documentation how polygonal graphics and pre-rendered videos were integrated under hardware restrictions in 1993.",
+          "meta": "241 points · 50 comments"
+        },
+        {
+          "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+          "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+          "summary": "Japan has developed a new method that increases the lithium recovery rate from used electric vehicle batteries to 90 percent. This technology supports sustainability in the supply of critical raw materials by increasing efficiency in battery recycling processes.",
+          "meta": "226 points · 60 comments"
+        },
+        {
+          "title": "The Git history command deserves more attention",
+          "url": "https://lalitm.com/post/git-history/",
+          "summary": "The Git history command is an effective tool for tracking project progress and debugging software development processes. This command makes it easier to track code changes by analyzing version control history.",
+          "meta": "184 points · 109 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI companion",
+      "explanation": "An artificial intelligence application that chats with the user, keeps him company or supports him in his daily work."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "A structure that makes sense of the relationships between data by organizing information into interconnected points."
+    },
+    {
+      "term": "AI coding assistants",
+      "explanation": "Artificial intelligence tools that offer suggestions to software developers while they write code, fix errors and speed up their work."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "A working method in which all requirements and rules are determined in detail before starting to code a software."
+    },
+    {
+      "term": "specifications",
+      "explanation": "A list of technical rules and details that specify how a product or software should work."
+    },
+    {
+      "term": "SpeechAnalyzer",
+      "explanation": "Analysis tool that converts audio recordings into text and analyzes the emotion or meaning in them."
+    },
+    {
+      "term": "API",
+      "explanation": "A bridge that allows two different software to talk to each other and exchange data."
+    },
+    {
+      "term": "Whisper",
+      "explanation": "Artificial intelligence-based voice recognition technology that can convert spoken language into text with high accuracy."
+    },
+    {
+      "term": "Xcode",
+      "explanation": "Official software development environment used to develop applications for Apple devices."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-12",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "OpenAI plugins enable language models to access up-to-date data and interact with third-party applications. This structure offers an extensibility model that allows artificial intelligence systems to perform tasks using external tools.",
+          "meta": "JavaScript · ★ 4,462 · +29 today",
+          "returning": true
+        },
+        {
+          "title": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "summary": "Home Assistant is an open source home automation platform that prioritizes local control and privacy. This system, developed with Python language, allows users to manage their smart devices over a central network.",
+          "meta": "Python · ★ 88,765 · +80 today"
+        },
+        {
+          "title": "DayuanJiang/next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "summary": "This Next.js-based application combines diagramming tool draw.io with generative AI capabilities. Users can create visual diagrams through natural language commands and edit their existing diagrams with artificial intelligence support.",
+          "meta": "TypeScript · ★ 33,359 · +81 today"
+        },
+        {
+          "title": "nasa/fprime",
+          "url": "https://github.com/nasa/fprime",
+          "summary": "Developed by NASA, F´ is an open source framework designed for flight software and embedded systems. Written in C++, this structure provides a modular development environment for spacecraft and complex systems.",
+          "meta": "C++ · ★ 11,523 · +22 today"
+        },
+        {
+          "title": "nuxt/nuxt",
+          "url": "https://github.com/nuxt/nuxt",
+          "summary": "Nuxt is a full-stack framework used to develop Vue-based applications. Offered with TypeScript support, this tool optimizes server-side rendering and static site creation processes.",
+          "meta": "TypeScript · ★ 60,747 · +16 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Prefer strict tables in SQLite",
+          "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+          "summary": "The use of strict tables in SQLite prevents unexpected data entries by enforcing data type restrictions. This structure reduces errors by increasing type safety in the database schema.",
+          "meta": "254 points · 127 comments"
+        },
+        {
+          "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+          "url": "https://antjs.org",
+          "summary": "Ant offers a runtime and comprehensive ecosystem based on its own JavaScript engine. It provides an end-to-end development environment with its package manager, application registry, hosting platform and tools that enable developing native desktop applications.",
+          "meta": "231 points · 101 comments"
+        },
+        {
+          "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "summary": "Grok Build command line interface (CLI), developed by xAI, analyzes files in local directories and sends them to the server. In this process, the content of the code base is processed remotely to create the context window of the model.",
+          "meta": "226 points · 111 comments"
+        },
+        {
+          "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+          "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+          "summary": "Financial relationships between cloud computing providers such as Nvidia, CoreWeave, and Nebius create a cyclical flow of capital that supports growth in the graphics processing unit (GPU) market. This structure creates an ecosystem model in which technology companies invest in their customers to finance their own hardware sales.",
+          "meta": "219 points · 71 comments"
+        },
+        {
+          "title": "We scaled PgBouncer to 4x throughput",
+          "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+          "summary": "ClickHouse engineers developed optimizations that quadrupled the throughput of PgBouncer, a database connection pooler. The improvements aim to overcome performance bottlenecks in high-traffic PostgreSQL environments.",
+          "meta": "197 points · 39 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "summary": "ThinkingCap-Qwen3.6-27B, developed by Bottlecapai, is a multimodal artificial intelligence model that produces text-based outputs by processing visual and text data. This model, based on the Qwen architecture, is used in the processes of analyzing and interpreting complex visual content.",
+          "meta": "♥ 240 · 4,128 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CLI",
+      "explanation": "Text-based interface that allows you to manage programs by entering written commands rather than using a mouse."
+    },
+    {
+      "term": "rendering",
+      "explanation": "The process of a computer processing raw data and turning it into a visual or graphic that we see on the screen."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Small plug-ins that are installed later to add additional functionality to a software's existing features."
+    },
+    {
+      "term": "extensibility",
+      "explanation": "The suitability of a system to be developed by adding new features without disrupting its basic structure."
+    }
+  ]
+}

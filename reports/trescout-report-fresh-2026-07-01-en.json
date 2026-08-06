@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-01",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "The exercise dataset (exercises-dataset) shared by Hasaneyldrm offers 433 different fitness movements with names, target muscle groups, equipment and visual instructions. This comprehensive resource provides a structured data infrastructure for those developing sports technology applications.",
+          "meta": "HTML · ★ 7,552 · +1,343 today"
+        },
+        {
+          "title": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "summary": "OmniRoute is a gateway that offers free access by combining more than 231 artificial intelligence providers into a single endpoint. It reduces token usage with advanced compression techniques, while optimizing developer tools with smart backup and multi-modal interface support.",
+          "meta": "TypeScript · ★ 8,906 · +387 today"
+        },
+        {
+          "title": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "summary": "Common User Passwords Profiler is a Python tool for creating targeted password lists. It prepares customized dictionary files (wordlists) by analyzing specific user data.",
+          "meta": "Python · ★ 6,161 · +32 today"
+        },
+        {
+          "title": "google/agents-cli",
+          "url": "https://github.com/google/agents-cli",
+          "summary": "The command-line interface (CLI) developed by Google makes coding assistants specialized in creating, evaluating and deploying artificial intelligence agents on Google Cloud (Google Cloud). This Python-based tool standardizes agent development processes and accelerates operational workflows on cloud infrastructure.",
+          "meta": "Python · ★ 4,413 · +445 today"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Developed with the Rust language, herdr functions as an agent multiplexer running on the terminal. This tool allows users to manage multiple artificial intelligence agents simultaneously in the terminal environment.",
+          "meta": "Rust · ★ 9,203 · +486 today"
+        },
+        {
+          "title": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "summary": "Instatic is a modern self-hosted visual content management system (CMS) based on TypeScript. It allows users to run the content management interface on their own servers with a quick installation process.",
+          "meta": "TypeScript · ★ 1,681 · +351 today"
+        },
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "Prepared by Microsoft, AI for Beginners teaches introductory topics to artificial intelligence through Jupyter Notebooks, with a 12-week curriculum. This content of 24 lessons offers a structured educational resource for those who want to learn basic concepts with applied examples.",
+          "meta": "Jupyter Notebook · ★ 49,751 · +252 today"
+        },
+        {
+          "title": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "summary": "Developed by Meta, Astryx offers a design system that is fully customizable and compatible with artificial intelligence agents. This TypeScript-based open source library configures interface components for the use of autonomous systems.",
+          "meta": "TypeScript · ★ 2,000 · +364 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Code is steganographically marking requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "summary": "The Claude Code tool, developed by Anthropic, adds invisible data to the requests sent and marks them with the steganography method. This technique functions as a monitoring mechanism developed to track usage data of artificial intelligence models and manage security processes.",
+          "meta": "1,870 points · 529 comments"
+        },
+        {
+          "title": "Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "summary": "Anthropic has released an updated version of the Claude 3.5 Sonnet model, providing performance improvements in coding and reasoning capabilities. The new model expands the capacity to perform direct transactions via interfaces with computer use capability.",
+          "meta": "1,092 points · 627 comments"
+        },
+        {
+          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+          "summary": "The Ministry of Commerce lifted export controls on Claude Fable 5 and Mythos 5 models. This regulation frees the commercial access and use of these artificial intelligence models in international markets.",
+          "meta": "635 points · 344 comments"
+        },
+        {
+          "title": "Claude Science",
+          "url": "https://claude.com/product/claude-science",
+          "summary": "Anthropic has launched Claude Science, a tool designed to analyze complex data sets and validate hypotheses in scientific research. This tool aims to increase the capabilities of large language models in academic literature review and data processing processes.",
+          "meta": "471 points · 142 comments"
+        },
+        {
+          "title": "Nano Banana 2 Lite",
+          "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+          "summary": "Google announced the Gemini Flash Lite model, which is optimized for low-latency visual processing processes. This model was designed to perform fast image analysis on devices with limited resources.",
+          "meta": "363 points · 144 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "exercises-dataset",
+      "explanation": "A set of organized practice data that allows you to practice while learning a subject."
+    },
+    {
+      "term": "endpoint",
+      "explanation": "Endpoint devices such as a computer, phone, or tablet that are connected to the network."
+    },
+    {
+      "term": "gateway",
+      "explanation": "Port that manages and transfers data traffic between different networks."
+    },
+    {
+      "term": "token",
+      "explanation": "Temporary security key that verifies your identity for digital transactions or grants access to systems."
+    },
+    {
+      "term": "Common User Passwords Profiler",
+      "explanation": "A tool that identifies security vulnerabilities by analyzing weak passwords that people frequently use."
+    },
+    {
+      "term": "wordlists",
+      "explanation": "Lists of frequently used words and passwords used to attempt to log into systems."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Text-based interface that runs programs with written commands rather than the mouse."
+    },
+    {
+      "term": "Google Cloud",
+      "explanation": "Internet data storage and application execution services platform offered by Google."
+    }
+  ]
+}

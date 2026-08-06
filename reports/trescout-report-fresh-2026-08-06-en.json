@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-06",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "summary": "Developed by Cloudflare, Computer is a TypeScript library that gives artificial intelligence agents the ability to control a local or remote computer. This tool allows agents to run commands on the operating system and automate complex tasks by accessing the file system.",
+          "meta": "TypeScript · ★ 3,677 · +891 today"
+        },
+        {
+          "title": "huangruiteng/loopx",
+          "url": "https://github.com/huangruiteng/loopx",
+          "summary": "Loopx is a lightweight state kernel developed for long-term artificial intelligence agent teams. It works compatible with coding agents (Codex, Claude Code) and standardizes processes such as task tracking, quota management and verifiable work transfer.",
+          "meta": "Python · ★ 2,385 · +326 today"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Supervision is a Python library that provides reusable tools used in computer vision projects. It speeds up image processing processes by standardizing common tasks such as object tracking and visualization.",
+          "meta": "Python · ★ 49,024 · +146 today",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Discovery Loop",
+          "url": "https://www.discoveryloop.com/",
+          "summary": "Discovery Loop is a platform that improves software developers' development processes by analyzing product feedback and user data. By collecting user insights at a central point, it aims to accelerate the product development cycle with data-based decisions.",
+          "meta": "682 points · 420 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49184960",
+              "popularity": 682,
+              "engagementCount": 420
+            }
+          ]
+        },
+        {
+          "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "summary": "Senior management changes are taking place within Google DeepMind. Demis Hassabis is moving from chief executive officer (CEO) to chairman of the board (chairman), while senior executive Jeff Dean is leaving his position.",
+          "meta": "591 points · 652 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49184755",
+              "popularity": 591,
+              "engagementCount": 652
+            }
+          ]
+        },
+        {
+          "title": "Cloudflare OS: an open platform for agents, apps, and work",
+          "url": "https://blog.cloudflare.com/cloudflare-os/",
+          "summary": "Cloudflare OS is an open platform developed by internet infrastructure provider Cloudflare for artificial intelligence agents and applications. It allows developers to work directly on distributed systems without dealing with complex infrastructure management.",
+          "meta": "527 points · 257 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49182996",
+              "popularity": 527,
+              "engagementCount": 257
+            }
+          ]
+        },
+        {
+          "title": "Zed DeltaDB",
+          "url": "https://zed.dev/deltadb",
+          "summary": "Code editor Zed provides high-performance data management in text editing processes by collaborating with native database technology DeltaDB. This integration aims to optimize memory usage and increase application speed when processing complex code files.",
+          "meta": "366 points · 198 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49187256",
+              "popularity": 366,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+          "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+          "summary": "Developed by Neon, Castform surpasses frontier models in data retrieval operations at lower cost and higher efficiency. This method, which optimizes open source models, offers an alternative way, especially for cost-oriented artificial intelligence applications.",
+          "meta": "276 points · 68 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49186762",
+              "popularity": 276,
+              "engagementCount": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "AVE-Compass: Towards Holistic Evaluation for Audio-Video Editing Abilities",
+          "url": "https://huggingface.co/papers/2607.24821",
+          "summary": "AVE-Compass is a comprehensive benchmark (benchmark) developed to holistically measure audio and video editing capabilities. Unlike existing methods, it tests consistency in multimodal editing processes by focusing on the harmony between sound and image.",
+          "meta": "7 likes · 1 comments"
+        },
+        {
+          "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming",
+          "url": "https://huggingface.co/papers/2608.05108",
+          "summary": "PIMiner is a system that automatically tests command injection attacks against large language models. Unlike traditional reinforcement learning methods, it provides an agent-based security audit that offers a higher success rate on different models.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "Consistency-Driven Co-Evolution for Self-Supervised Cross-Representation Learning",
+          "url": "https://huggingface.co/papers/2608.04926",
+          "summary": "Aiming to understand the complex relationships between graphic images, table data and visualization codes, CoCoEvolve uses the self-supervised cross-representation learning method. This approach offers a consistency-oriented co-evolution mechanism to resolve ambiguous relationships between different data types.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data",
+          "url": "https://huggingface.co/papers/2608.02580",
+          "summary": "Ego2Robot is a scalable data synthesis pipeline that accelerates the learning processes of robots by converting videos shot from the human perspective into robotic data format. This method facilitates the production of diverse and large volumes of data necessary for training vision-language-action models on a large scale.",
+          "meta": "8 likes · 1 comments"
+        },
+        {
+          "title": "K-EXAONE 2.0 Technical Report",
+          "url": "https://huggingface.co/papers/2608.04505",
+          "summary": "Developed by LG AI Research, K-EXAONE 2.0 expands the multilingual foundation model architecture with a Mixture-of-Experts structure. Reaching a total of 750 billion parameters, the model triples the capacity of its previous version with support for a context window of 256 thousand tokens.",
+          "meta": "2 likes · 0 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "rust-lang/rust is adopting an LLM policy",
+          "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+          "summary": "The Rust programming language community has adopted a new policy to include content created with large language models (LLM) in the project. This regulation requires transparency and human control in order to maintain the quality standards of code and documentation produced by artificial intelligence.",
+          "meta": "135 points · 40 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy",
+              "popularity": 135,
+              "engagementCount": 40
+            }
+          ]
+        },
+        {
+          "title": "Offensive Internet Posture",
+          "url": "https://bruceediger.com/posts/offensive-machine/",
+          "summary": "Offensive internet posture refers to users adopting active privacy methods instead of passive defense to prevent data leaks and tracking online. This approach aims to manage the digital footprint by obfuscating network traffic or feeding systems with misleading data.",
+          "meta": "72 points · 16 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fgcrj0/offensive_internet_posture",
+              "popularity": 72,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "Faster Than Ninja",
+          "url": "https://build2.org/blog/faster-than-ninja.xhtml",
+          "summary": "Build2 is a new build system that aims to run faster than the software build tool Ninja. The project uses optimized algorithms to reduce compilation times on large code bases.",
+          "meta": "48 points · 4 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/31hk9y/faster_than_ninja",
+              "popularity": 48,
+              "engagementCount": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "state kernel",
+      "explanation": "The basic kernel structure that keeps all the current working information and data of a software in memory."
+    },
+    {
+      "term": "computer vision",
+      "explanation": "The field of technology that allows computers to see and interpret images through cameras."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "product development cycle",
+      "explanation": "All of the planning, production and testing stages that a product goes through from idea to reaching the end user."
+    },
+    {
+      "term": "CEO",
+      "explanation": "The most senior executive responsible for all operations and strategic decisions of a company."
+    },
+    {
+      "term": "Chair",
+      "explanation": "A person who conducts meetings of an organization or its board of directors and oversees overall strategies."
+    }
+  ]
+}

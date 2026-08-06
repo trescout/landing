@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-15",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "1c7/chinese-independent-developer",
+          "url": "https://github.com/1c7/chinese-independent-developer",
+          "summary": "This open source database, which lists projects carried out by Chinese independent developers, brings together the applications and workspaces developed by software developers. The platform allows you to follow current trends and product-oriented studies in the independent development (indie hacking) ecosystem.",
+          "meta": "Python · ★ 54,609 · +1,196 today"
+        },
+        {
+          "title": "AIEraDev/Clypra",
+          "url": "https://github.com/AIEraDev/Clypra",
+          "summary": "Clypra is an open source video editor application developed using Tauri, React and TypeScript. The software aims to offer advanced features found in paid video editing tools as a free alternative.",
+          "meta": "TypeScript · ★ 2,729 · +85 today"
+        },
+        {
+          "title": "chenyme/grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "summary": "Developed for Grok Build, Grok Web and Grok Console platforms, this gateway (API gateway) gathers multi-account management in a single center. Written in Go language, the tool offers a manageable interface by standardizing users' access to different Grok services.",
+          "meta": "Go · ★ 5,927 · +186 today"
+        },
+        {
+          "title": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "summary": "Maths-cs-ai-compendium offers a comprehensive collection of resources covering mathematics, computer science and artificial intelligence for engineers who want to specialize in artificial intelligence and machine learning. This repository serves as a structured study guide to strengthen theoretical foundations and develop research engineering skills.",
+          "meta": "TypeScript · ★ 5,424 · +112 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+          "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+          "summary": "Developers tend to prefer the lightweight and accessible structure offered by standard web pages instead of complex application architectures. This approach argues that browser-based solutions are often sufficient to simplify the user experience.",
+          "meta": "773 points · 467 comments"
+        },
+        {
+          "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+          "url": "https://prismml.com/news/bonsai-27b",
+          "summary": "Developed by PrismML, Bonsai 27B was designed as a large language model with 27 billion parameters that can run on smartphones. The model makes models that require high computational power accessible on mobile devices by using model compression techniques.",
+          "meta": "525 points · 187 comments"
+        },
+        {
+          "title": "How to stop Claude from saying load-bearing",
+          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "summary": "The expression \"load-bearing\", which large language models (LLM) like Claude often use in their answers, is a pattern that indicates that the model has excessive reliance on a particular context. Users can prevent such repetitive expressions that reduce content quality through system prompts and enable the model to produce more original responses.",
+          "meta": "489 points · 529 comments"
+        },
+        {
+          "title": "Are we offloading too much of our thinking to AI?",
+          "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+          "summary": "The effects of the cognitive load transferred to artificial intelligence tools on the problem-solving and critical thinking abilities of the human mind are discussed. The balance between automation facilitating intellectual processes and the risk of individuals losing their own analysis skills is being questioned in the technology world.",
+          "meta": "426 points · 409 comments"
+        },
+        {
+          "title": "The Tower Keeps Rising",
+          "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+          "summary": "As complexity increases in the software world, the accumulation of abstraction layers that complicate the manageability of systems poses a problem. In modern software development processes, the technical debt and maintenance costs created by these layers limit the sustainability of system architectures.",
+          "meta": "423 points · 191 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "indie hacking",
+      "explanation": "The process of developing and selling your own digital products alone or with small teams, without being affiliated with large companies."
+    },
+    {
+      "term": "prompt",
+      "explanation": "A written instruction or command you give to artificial intelligence to get a result from it."
+    },
+    {
+      "term": "video editor",
+      "explanation": "Software for cutting images, adding effects and editing sounds to turn it into a watchable movie."
+    },
+    {
+      "term": "API gateway",
+      "explanation": "A digital gateway that manages data traffic between different applications, ensures security and directs requests to the right place."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Technology that allows computers to learn on their own by examining data and making better predictions over time."
+    },
+    {
+      "term": "application",
+      "explanation": "Any software program you use to do a specific job on computers or phones."
+    },
+    {
+      "term": "web-based solutions",
+      "explanation": "Software services that work only through the internet browser, without the need to install anything on your computer."
+    }
+  ]
+}

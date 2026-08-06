@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-26",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "summary": "Bitchat offers a local chat environment that does not require an internet connection, using Bluetooth mesh technology. Developed in Swift language, the application promises an IRC-like experience that allows users to communicate directly at close range.",
+          "meta": "Swift · ★ 28,892 · +1,720 today"
+        },
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro is a video editing software that integrates AI-powered editing tools into the macOS environment. This platform, developed with Swift language, is designed to automate video editing processes.",
+          "meta": "Swift · ★ 12,304 · +412 today",
+          "returning": true
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Developed by Andrew Ng, aisuite offers access to different generative AI providers through a single interface. This Python-based library provides a unified interface that makes it easier for developers to switch between different model providers.",
+          "meta": "Python · ★ 15,272 · +77 today",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Android May Soon Restrict On-Device ADB",
+          "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+          "summary": "Google is preparing to restrict the use of on-device debug bridge (on-device ADB) in the Android operating system. This change limits access permissions to local debugging processes to strengthen security protocols.",
+          "meta": "902 points · 445 comments"
+        },
+        {
+          "title": "Open-weight AI is having its Kubernetes moment",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+          "summary": "Open-weight AI models are going through a turning point like Kubernetes, which standardizes container orchestration in the software world. This process enables the fragmented artificial intelligence ecosystem to unite around common infrastructures and tools and become widespread on an industrial scale.",
+          "meta": "360 points · 283 comments"
+        },
+        {
+          "title": "Did They Ghost You?",
+          "url": "https://didtheyghostyou.com/",
+          "summary": "Did They Ghost You is a platform that allows candidates to follow the companies they did not receive a response from during their job application processes. By listing the institutions they applied to, users can see feedback from other candidates and increase transparency in communication processes.",
+          "meta": "359 points · 162 comments"
+        },
+        {
+          "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+          "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
+          "summary": "Canopy bridges established in the Amazon forests ensured the safe passage of wildlife, resulting in zero traffic accident data in 15 thousand crossings. This infrastructure solution allows animals to move through fragmented forest habitats without being exposed to road traffic.",
+          "meta": "340 points · 98 comments"
+        },
+        {
+          "title": "The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "summary": "Context engineering developed for Claude 5 generation models offers new methods that increase the focusing capacity of the model in processing large data sets. These techniques optimize complex analysis processes by increasing the recall accuracy of information in long texts.",
+          "meta": "262 points · 167 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "mesh",
+      "explanation": "A large network structure formed by interconnected devices transferring data through each other instead of a single center."
+    }
+  ]
+}
