@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-06",
+  "editorial": "In the software world today, there is intense developer activity on autonomous agents and the integration of these agents into application interfaces. Current projects on GitHub show that AI-based automation tends to standardize, especially in complex task management and data processing processes.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Developed by NousResearch, Hermes Agent offers an autonomous AI agent structure that evolves over time by learning through user interactions. This Python-based system uses continuous learning mechanisms to create personalized workflows.",
+          "meta": "Python · ★ 183,675 · +1,845 today"
+        },
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom reduces token usage by up to 95% by compressing log files, code outputs, and contextual data chunks (RAG chunks) sent to large language models (LLM). This library aims to reduce processing costs while maintaining model response quality by increasing data density.",
+          "meta": "Python · ★ 14,791 · +2,473 today"
+        },
+        {
+          "title": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "summary": "CopilotKit offers a React and Angular-based frontend stack for developing artificial intelligence agents and generative UIs. It provides an infrastructure that enables smart capabilities to be integrated into applications via the AG-UI protocol.",
+          "meta": "TypeScript · ★ 32,818 · +366 today"
+        },
+        {
+          "title": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "summary": "Open-notebook is an open-source notebook application developed as an alternative to Google's NotebookLM tool. It provides users with greater flexibility and customization in analyzing documents and producing AI-powered content.",
+          "meta": "TypeScript · ★ 26,176 · +1,152 today"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC is a performance optimization system that combines skills, instincts, memory and security layers for artificial intelligence agents. Claude Code aims to increase the efficiency of agent-based workflows by integrating with development tools such as Codex and Cursor.",
+          "meta": "JavaScript · ★ 208,558 · +1,361 today"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach is a command line interface (CLI) tool that gives AI agents the ability to scan the entire internet and read content. It provides direct access to pull data from platforms like Twitter, Reddit, and GitHub without paying any application programming interface (API) fees.",
+          "meta": "Python · ★ 21,757 · +148 today"
+        },
+        {
+          "title": "NVIDIA/cosmos",
+          "url": "https://github.com/NVIDIA/cosmos",
+          "summary": "Developed by NVIDIA, Cosmos is an open platform that provides world models, datasets and tools for creating physical AI applications for systems such as robots and autonomous vehicles. It aims to make it easier for developers to design intelligent systems that understand the physical world.",
+          "meta": "Jupyter Notebook · ★ 9,481 · +479 today"
+        },
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "summary": "MiroFish offers a simple and universal swarm intelligence engine developed to predict various types of data. This Python-based tool uses collective computation methods to identify patterns in complex systems.",
+          "meta": "Python · ★ 64,830 · +320 today"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill offers an artificial intelligence skill (AI agent skill) that performs research by scanning current data on platforms such as Reddit, X, YouTube, Hacker News and Polymarket. This Python-based tool synthesizes the collected information and provides user-friendly summaries.",
+          "meta": "Python · ★ 28,321 · +731 today"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "summary": "PaddleOCR is a lightweight optical character recognition tool that integrates with large language models by converting text in PDFs and images into structured data. Supporting more than 100 languages, this library makes it easy to incorporate visual documents into AI workflows.",
+          "meta": "Python · ★ 80,646 · +747 today"
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "OpenAI plugins enable language models to access up-to-date data and interact with third-party applications. This structure allows artificial intelligence to perform complex tasks using external tools.",
+          "meta": "JavaScript · ★ 1,596 · +49 today"
+        },
+        {
+          "title": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "summary": "MemPalace offers an open source memory system for artificial intelligence models. The system includes optimized tools to measure and improve the contextual memory performance of large language models.",
+          "meta": "Python · ★ 53,981 · +227 today"
+        },
+        {
+          "title": "withastro/flue",
+          "url": "https://github.com/withastro/flue",
+          "summary": "Developed by the Astro team, Flue stands out as a TypeScript-based sandbox agent framework. This structure allows developers to create artificial intelligence agents in secure and isolated environments.",
+          "meta": "TypeScript · ★ 4,594 · +126 today"
+        },
+        {
+          "title": "openclaw/openclaw-windows-node",
+          "url": "https://github.com/openclaw/openclaw-windows-node",
+          "summary": "The OpenClaw Windows node integrates the OpenClaw ecosystem into the Windows operating system through a system tray application and shared libraries. Developed in C#, this tool provides system-wide workflow management via the PowerToys command palette extension.",
+          "meta": "C# · ★ 1,640 · +326 today"
+        },
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "summary": "Trivy is a comprehensive security tool that performs vulnerability scanning, misconfiguration detection, and software bill of materials (SBOM) creation on containers, Kubernetes clusters, and cloud infrastructures. Developed with the Go language, this open source solution allows automating security audits at different stages of the software development lifecycle.",
+          "meta": "Go · ★ 35,889 · +207 today"
+        },
+        {
+          "title": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "summary": "This resource, prepared for those who want to become software engineers, offers a comprehensive study plan in the field of computer science. The content, which structures the preparation process for technical interviews, details the road map required to learn basic engineering disciplines.",
+          "meta": "★ 350,488 · +745 today"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub has released a multiplatform software development kit (SDK) that allows developers to integrate GitHub Copilot agents into their own applications and services. This tool allows artificial intelligence-supported coding assistants to be used in a standard way on different platforms.",
+          "meta": "Java · ★ 9,301 · +309 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+          "url": "https://mouseless.click",
+          "summary": "Mouseless is a tool that provides keyboard-based control across the operating system and minimizes mouse use. It allows users to speed up application transitions and window management with a command-line interface-like experience.",
+          "meta": "509 points · 211 comments"
+        },
+        {
+          "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+          "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+          "summary": "The UK government moved the payment infrastructure in its digital services from the Stripe platform to the Netherlands-based payment service provider Adyen system. This transition was carried out in line with the goals of flexibility and scalability in public sector payment processes.",
+          "meta": "408 points · 141 comments"
+        },
+        {
+          "title": "Tracing a powerful GNSS interference source over Europe",
+          "url": "https://arxiv.org/abs/2606.03673",
+          "summary": "Global Positioning Satellite System (GNSS) signal outages across Europe are analyzed by researchers by monitoring radio frequency interference sources. The study reveals the technical approaches used to detect jammer devices and the effects of such interference on aviation.",
+          "meta": "384 points · 201 comments"
+        },
+        {
+          "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+          "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+          "summary": "The astronauts, who moved to shelters due to air leak repairs on the International Space Station (ISS), returned to the station modules after security was ensured. While the crew continues their routine operations, technical investigations into the source of the leak continue.",
+          "meta": "378 points · 243 comments"
+        },
+        {
+          "title": "pg_durable: Microsoft open sources in-database durable execution",
+          "url": "https://github.com/microsoft/pg_durable",
+          "summary": "Microsoft open sourced the pg_durable project, which provides durable execution within the database. This tool allows long-running workflows to be managed in a fault-tolerant and consistent manner on PostgreSQL.",
+          "meta": "378 points · 86 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Developed by NVIDIA, LocateAnything-3D works as an image-text-to-text model that performs object positioning tasks by processing visual and textual inputs. The model is designed to identify elements in complex visual scenes and relate the coordinates of these elements to text-based outputs.",
+          "meta": "♥ 1,394 · 101,823 downloads"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "The Gemma 2 9B-based Gemma-2-9B-it model developed by Google offers an (any-to-any) structure that can transform any type of input into any type of output with its multimodal data processing capabilities. The model aims to carry out complex tasks through a single architecture by providing flexible conversion between different data types.",
+          "meta": "♥ 564 · 142,851 downloads"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "The Gemma 4-12B-IT model, optimized by Unsloth, offers a multimodal structure that can process visual and text-based inputs. Thanks to the GGUF format, the model allows efficient inference on local devices with low memory usage.",
+          "meta": "♥ 388 · 296,410 downloads"
+        },
+        {
+          "title": "google/gemma-4-12B",
+          "url": "https://huggingface.co/google/gemma-4-12B",
+          "summary": "Gemma 4-12B, published by Google, offers a multimodal structure that can process different data types. This model works with a versatile (any-to-any) architecture that can transform any input to any output.",
+          "meta": "♥ 345 · 53,525 downloads"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "The Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive model shared on HuggingFace offers an image-text-to-text structure that processes visual and text inputs and produces text output. The model falls into the broad category of language models trained using uncensored data sets.",
+          "meta": "♥ 1,461 · 2,687,304 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

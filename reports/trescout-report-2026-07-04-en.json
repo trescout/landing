@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-04",
+  "editorial": "In the software world today, integration protocols between developer tools and artificial intelligence-supported coding assistants come to the fore. In particular, Model Context Protocol support on Chrome DevTools has the potential to set a new standard in browser-based debugging processes.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix is ​​an open source artificial intelligence-supported penetration testing tool developed to detect and fix security vulnerabilities in applications. This software, written in Python language, aims to analyze system vulnerabilities through automated processes.",
+          "meta": "Python · ★ 35,012 · +2,803 today"
+        },
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "Developed by OpenAI, the Codex plugin allows automating code review processes and task delegation on Claude Code. This integration increases the interoperability of different artificial intelligence models in software development workflows.",
+          "meta": "JavaScript · ★ 23,396 · +634 today"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman is a capability package used on Claude Code that simplifies the language structure and reduces token consumption by 65 percent. Developers aim to reduce AI costs by using concise, direct caveman-style language rather than complex expressions.",
+          "meta": "JavaScript · ★ 83,163 · +2,863 today"
+        },
+        {
+          "title": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "summary": "Developed with Java, Elasticsearch is a distributed and open source search engine that allows fast search and analysis on large data sets. Thanks to its RESTful architecture, it supports real-time indexing and querying of data.",
+          "meta": "Java · ★ 77,374 · +91 today"
+        },
+        {
+          "title": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "summary": "The checkout action, which runs on GitHub Actions, enables the source code in GitHub repositories to be transferred to workflows. This tool offers a standard method for automatically checking out code and preparing it for the compilation environment during software development processes.",
+          "meta": "TypeScript · ★ 8,282 · +129 today"
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "Developed for Chrome DevTools, this server offers a Model Context Protocol integration that gives coding agents direct access to browser tools. It provides a standard interface for automating debugging and web review tasks in software development processes.",
+          "meta": "TypeScript · ★ 45,555 · +405 today"
+        },
+        {
+          "title": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "summary": "Ansible is an information technologies automation platform that automates application deployment and system management processes. It performs configuration operations in a simple language via SSH protocol, without the need to install any middleware on remote systems.",
+          "meta": "Python · ★ 69,245 · +65 today"
+        },
+        {
+          "title": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "summary": "Developed by Meta, Astryx offers a design system that is fully customizable and compatible with artificial intelligence agents. This open source structure based on TypeScript makes it easier for interface components to be managed by autonomous systems.",
+          "meta": "TypeScript · ★ 4,873 · +885 today"
+        },
+        {
+          "title": "rommapp/romm",
+          "url": "https://github.com/rommapp/romm",
+          "summary": "Romm is a game library manager designed to organize game files (ROM) and play directly through the browser, which you can host on your own server. Developed with Python language, this tool offers the opportunity to manage and play game collections with a visual interface.",
+          "meta": "Python · ★ 9,887 · +239 today"
+        },
+        {
+          "title": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "summary": "This resource, published by Harvard University, discusses machine learning systems architecture and optimization processes on hardware. Combining software and hardware layers, this study offers a technical guide for those who want to develop scalable artificial intelligence infrastructures.",
+          "meta": "Python · ★ 26,287 · +793 today"
+        },
+        {
+          "title": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "summary": "PyTorch is a library that provides powerful graphics processing unit (GPU) acceleration for Python-based tensor calculations and dynamic neural networks. It is an open source framework that is widely preferred in the development and deployment of deep learning models.",
+          "meta": "Python · ★ 101,465 · +293 today"
+        },
+        {
+          "title": "apache/maven",
+          "url": "https://github.com/apache/maven",
+          "summary": "Apache Maven is a project management and understanding tool (build automation tool) that manages software creation processes in Java-based projects. It uses the project object model structure to standardize the software development lifecycle.",
+          "meta": "Java · ★ 5,250 · +58 today"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code is an agent-based coding tool that runs on the terminal and automates routine tasks by analyzing the code base with natural language commands. It aims to increase developer productivity by managing code annotation and version control (git workflow) processes in software development processes.",
+          "meta": "Python · ★ 135,933 · +221 today"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Herdr is an agent multiplexer that runs on the terminal and allows managing multiple artificial intelligence agents simultaneously. Developed in Rust, this tool allows users to switch between different agents and coordinate workflows directly from the command line.",
+          "meta": "Rust · ★ 10,939 · +478 today"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers offers an agent skills framework that integrates with software development methodologies. This tool provides a development method for standardizing agent-based workflows across software processes.",
+          "meta": "Shell · ★ 245,707 · +1,209 today"
+        },
+        {
+          "title": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "summary": "The Agent Skills project provides a technical specification and documentation for creating reusable skill packages for artificial intelligence agents. This standard aims to facilitate the sharing and integration of functional capabilities between different agent systems.",
+          "meta": "Python · ★ 22,075 · +406 today"
+        },
+        {
+          "title": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "summary": "Supabase is a development platform that offers Postgres database infrastructure to develop web, mobile and artificial intelligence applications. With its open source structure, it provides database management and backend services required to accelerate application development processes.",
+          "meta": "TypeScript · ★ 105,582 · +169 today"
+        },
+        {
+          "title": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "summary": "Developed by TencentCloud, CubeSandbox offers a fast, synchronous and secure workspace (sandbox) written in Rust for artificial intelligence agents (AI agents). The project aims to increase the security of agent-based systems by creating isolated environments with low resource consumption.",
+          "meta": "Rust · ★ 7,217 · +60 today"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "The agency-agents project automates software development and content production processes by gathering artificial intelligence agents with different areas of expertise under one roof. Each agent offers a specialized structure designed to perform specific tasks with its own personality and workflow definitions.",
+          "meta": "Shell · ★ 126,662 · +1,208 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Costco is the anti-Amazon",
+          "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+          "summary": "Costco is positioned against Amazon's sell-everything strategy with its limited product assortment and subscription-based revenue model. The retail giant differentiates itself from traditional e-commerce models with its low profit margins and operational efficiency-focused approach.",
+          "meta": "380 points · 359 comments"
+        },
+        {
+          "title": "Espionage Against the European Parliament",
+          "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+          "summary": "It was determined that a committee member examining spyware activities within the European Parliament was targeted with spyware called Pegasus. Research conducted by Citizen Lab reveals that cyber espionage risks to the digital security of parliamentarians continue.",
+          "meta": "326 points · 78 comments"
+        },
+        {
+          "title": "Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "summary": "The guide by Jamesob details the software and hardware requirements needed to run state-of-the-art large language models (SOTA LLMs) on native hardware. It brings together technical methods that enable users to install and optimize high-performance models in their own systems.",
+          "meta": "320 points · 145 comments"
+        },
+        {
+          "title": "Factories are just rooms",
+          "url": "https://interconnected.org/home/2026/07/03/factories",
+          "summary": "It is argued that production facilities have become software-based data centers rather than physical infrastructure. With the digitalization of physical production processes, factories are being redefined as programmable areas with high processing power.",
+          "meta": "225 points · 90 comments"
+        },
+        {
+          "title": "Performance per dollar is getting faster and cheaper",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "summary": "Performance per dollar efficiency in artificial intelligence hardware is increasing rapidly with developments in processor architectures. This trend reduces computing power costs, making the training and inference processes of large language models more accessible.",
+          "meta": "200 points · 61 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B is a multimodal artificial intelligence model that produces text output by processing visual and text-based inputs. The model offers the capacity to analyze complex data sets with wide context window support.",
+          "meta": "♥ 1,392 · 1,366,360 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, developed by Zai-org, is a language model optimized for text generation tasks. The highly interactive model on the Hugging Face platform expands the text generation capacities in the open source artificial intelligence ecosystem.",
+          "meta": "♥ 3,351 · 191,462 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is a model optimized for image-text-to-text tasks. It offers the ability to produce text-based output by processing data in complex document structures.",
+          "meta": "♥ 1,696 · 885,040 downloads"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "Ornith-1.0-35B, developed by DeepReinforce-AI, is a language model focused on text generation. The model is presented in GGUF format in order to use hardware resources efficiently.",
+          "meta": "♥ 691 · 322,780 downloads"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "summary": "DeepSeek-V4-Pro-DSpark is an artificial intelligence model optimized for text generation tasks. This model, available on the HuggingFace platform, is designed to be used in large-scale language processing processes.",
+          "meta": "♥ 350 · 9,388 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "penetration testing",
+      "explanation": "Controlled cyber attack attempts made by experts to test the security of a system."
+    },
+    {
+      "term": "interoperability",
+      "explanation": "The ability of different software or hardware to seamlessly exchange data with each other."
+    },
+    {
+      "term": "token",
+      "explanation": "The smallest unit of data corresponding to fragments of words or syllables that artificial intelligence uses when processing texts."
+    },
+    {
+      "term": "distributed",
+      "explanation": "Performing a transaction by sharing it across multiple devices connected to the network instead of a single computer."
+    },
+    {
+      "term": "action",
+      "explanation": "A concrete action performed by a software or artificial intelligence upon a specific command."
+    },
+    {
+      "term": "checkout",
+      "explanation": "The final stage where the payment process is completed for online purchases."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Autonomous artificial intelligence tools that can write code, fix errors and develop applications instead of software developers."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "The connection rule that enables AI models to talk to different data sources in a secure and standardized way."
+    },
+    {
+      "term": "agent",
+      "explanation": "An intelligent software unit that can make decisions on its own and use tools to perform the targeted task."
+    },
+    {
+      "term": "agent ready",
+      "explanation": "Status message indicating that an AI unit is ready to perform its assigned task."
+    },
+    {
+      "term": "design system",
+      "explanation": "A set of preset design rules and components used to ensure the visual consistency of an application."
+    },
+    {
+      "term": "ROM",
+      "explanation": "A type of read-only permanent memory that does not delete the information inside even when the computer is turned off."
+    },
+    {
+      "term": "machine learning systems",
+      "explanation": "Computer structures that learn on their own by analyzing data and can make more accurate predictions over time."
+    },
+    {
+      "term": "dynamic neural networks",
+      "explanation": "Advanced artificial intelligence models that can instantly change their structure and connections according to the data they process."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Special processor designed specifically to accelerate intensive operations such as graphics processing and artificial intelligence calculations."
+    },
+    {
+      "term": "framework",
+      "explanation": "A basic application framework that offers ready-made libraries and rules that make things easier when developing software."
+    }
+  ]
+}

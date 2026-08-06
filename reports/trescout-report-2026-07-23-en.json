@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-23",
+  "editorial": "While system monitoring and data transfer tools stand out in the software world today, architectural visualization projects attract attention. Data on GitHub shows that developers focus on both infrastructure security and schematic representation of complex systems.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "summary": "Worldmonitor offers a real-time global intelligence dashboard that combines AI-powered news compilation, geopolitical monitoring and infrastructure monitoring features in a single interface. Developed with TypeScript, this tool enables users to gain situational awareness by visualizing complex data flows.",
+          "meta": "TypeScript · ★ 69,740 · +4,139 today"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView uses standard wireless network (WiFi) signals to perform real-time spatial intelligence, vital sign tracking and presence detection without the need for image data. This technology, developed with the Rust language, turns the existing network infrastructure into a passive detection system.",
+          "meta": "Rust · ★ 84,177 · +741 today"
+        },
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "Making the outputs of coding agents more understandable and focused, i-have-adhd offers a skill that prevents answers from being obscured by unnecessary details. This tool provides an output structure that focuses directly on results, optimized for users with attention deficit hyperactivity disorder (ADHD).",
+          "meta": "Python · ★ 8,591 · +1,699 today"
+        },
+        {
+          "title": "schollz/croc",
+          "url": "https://github.com/schollz/croc",
+          "summary": "Croc is a command line tool that secures file and folder transfers between computers with end-to-end encryption. This software, developed with the Go language, eliminates the need for devices to be on the same network by using relay servers in the transfer process.",
+          "meta": "Go · ★ 37,844 · +739 today"
+        },
+        {
+          "title": "likec4/likec4",
+          "url": "https://github.com/likec4/likec4",
+          "summary": "Likec4 is a tool that visualizes software architecture directly from the source code and enables the creation of live diagrams. It aims for the continuity of technical documentation through architectural diagrams that are updated simultaneously with the code base.",
+          "meta": "TypeScript · ★ 4,419 · +80 today"
+        },
+        {
+          "title": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "summary": "The original source code of the command and lunar module guidance computer (Guidance Computer) used in the Apollo 11 mission has been made available on GitHub with assembly language. The software provides a historical reference for developers who want to examine the basic logic of spacecraft navigation and flight control systems.",
+          "meta": "Assembly · ★ 70,747 · +768 today"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox is an open source artificial intelligence voice studio where users can perform voice cloning, dictation and content production. Developed with the TypeScript language, this platform offers accessible tools by combining audio processing processes in a single interface.",
+          "meta": "TypeScript · ★ 45,964 · +557 today"
+        },
+        {
+          "title": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "summary": "OmniRoute offers a free AI gateway that combines 278+ providers and 500+ models into a single endpoint. It provides a working environment for developers integrated with coding tools, with quota-aware automatic backup and token-saving compression methods.",
+          "meta": "TypeScript · ★ 25,774 · +1,651 today"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos is a foundation model developed to analyze the unique language of financial markets. It offers a specialized architecture to make sense of market dynamics by analyzing the complex structure of financial data.",
+          "meta": "Python · ★ 32,705 · +137 today"
+        },
+        {
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "Curated by ComposioHQ, awesome-claude-skills brings together tools and resources for customizing Claude AI workflows. This list makes it easier for developers to create skill packs for Claude and integrate them into existing projects.",
+          "meta": "Python · ★ 68,956 · +163 today"
+        },
+        {
+          "title": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "summary": "OpenShip is a self-hosted application distribution platform that you can host on your own servers. Developed with the TypeScript language, this tool automates software processes and centralizes application publishing processes.",
+          "meta": "TypeScript · ★ 7,470 · +1,302 today"
+        },
+        {
+          "title": "agegr/pi-web",
+          "url": "https://github.com/agegr/pi-web",
+          "summary": "Pi-web offers an improved web-based user interface (web UI) for the Pi coding agent. Written in TypeScript, this tool allows visualizing agent-based interactions in software development processes.",
+          "meta": "TypeScript · ★ 2,141 · +314 today"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Prepared for those who want to enter the field of artificial intelligence engineering (AI engineering), this resource covers the end-to-end process from the development of models to their publication using Python. It offers a learning road map that aims to transform theoretical knowledge into practical skills through applied projects.",
+          "meta": "Python · ★ 42,481 · +652 today"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph creates a local-first code intelligence graph, allowing AI-supported coding tools to focus only on relevant files. This structure makes review processes efficient by providing context reduction in workflows in large code repositories.",
+          "meta": "Python · ★ 25,500 · +882 today"
+        },
+        {
+          "title": "dreamhunter2333/cloudflare_temp_email",
+          "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+          "summary": "This tool, which allows creating a free temporary email service using the Cloudflare infrastructure, supports sending and receiving emails. The project offers features such as attachment management, IMAP and SMTP protocols and Telegram bot integration.",
+          "meta": "TypeScript · ★ 10,884 · +68 today"
+        },
+        {
+          "title": "DioxusLabs/dioxus",
+          "url": "https://github.com/DioxusLabs/dioxus",
+          "summary": "Dioxus offers a framework that allows developing full-stack applications with the Rust language for web, desktop and mobile platforms. It standardizes the cross-platform interface development process with its React-like component-based structure.",
+          "meta": "Rust · ★ 38,106 · +420 today"
+        },
+        {
+          "title": "hyprwm/Hyprland",
+          "url": "https://github.com/hyprwm/Hyprland",
+          "summary": "Hyprland is a customizable and dynamic tiling window manager that runs on the Wayland compositor. Developed in C++ language, this tool aims to provide a high-performance desktop experience without compromising visual aesthetics.",
+          "meta": "C++ · ★ 37,347 · +356 today"
+        },
+        {
+          "title": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "summary": "Developed with the Rust programming language, Pumpkin offers an open source infrastructure that aims to host Minecraft servers faster and more efficiently. It aims to optimize server management processes with its memory security and high performance focused structure.",
+          "meta": "Rust · ★ 8,562 · +108 today"
+        },
+        {
+          "title": "dottxt-ai/outlines",
+          "url": "https://github.com/dottxt-ai/outlines",
+          "summary": "The Outlines library enables the responses from large language models to be produced in structured output format according to predefined schemas. This Python-based tool increases data consistency by restricting the outputs of models within certain rules.",
+          "meta": "Python · ★ 15,182 · +364 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+          "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "summary": "Mathematician Terence Tao evaluates the solution process by analyzing the counterexample to the Jacobian Conjecture with ChatGPT. This discussion examines the capacity of artificial intelligence to verify and solve complex mathematical problems from an academic perspective.",
+          "meta": "766 points · 455 comments"
+        },
+        {
+          "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+          "url": "https://bento.page/slides/",
+          "summary": "Bento is a tool that allows you to edit, view and collaborate on the entire presentation file within a single HTML document. This platform, which uses web front-end technologies, aims to accelerate the workflow by eliminating the need for manual editing in code-based presentation preparation processes.",
+          "meta": "751 points · 168 comments"
+        },
+        {
+          "title": "John C. Dvorak has died",
+          "url": "https://twitter.com/na_announce/status/2079952538040672302",
+          "summary": "Technology writer and critic John C. Dvorak has passed away. He reached a wide readership in the sector with his long-term IT journalism career.",
+          "meta": "687 points · 220 comments"
+        },
+        {
+          "title": "Are AI labs pelicanmaxxing?",
+          "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+          "summary": "Artificial intelligence laboratories follow a strategy called pelican maxxing by extensively using publicly available internet data in their data collection processes. This approach aims to indiscriminately consume all content on the internet to expand the datasets used in training models.",
+          "meta": "468 points · 181 comments"
+        },
+        {
+          "title": "GigaToken: ~1000x faster Language model tokenization",
+          "url": "https://github.com/marcelroed/gigatoken/",
+          "summary": "GigaToken is a library that accelerates the tokenization process used in language models by approximately 1000 times compared to traditional methods. This technology uses an optimized indexing structure to reduce the computational cost of processing large data sets.",
+          "meta": "448 points · 95 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Developed by Thinking Machines, Inkling is a multimodal model that takes visual and textual data as input and produces text output. The model offers the ability to generate meaningful responses in natural language by analyzing complex visual content.",
+          "meta": "♥ 1,468 · 16,441 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is an image-to-text model that processes visual texts and produces text-based outputs. The system aims to optimize the process of converting data from complex documents into digital format.",
+          "meta": "♥ 2,776 · 2,237,351 downloads"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B is offered as a text-generation model optimized with the ternary quantization method. This approach aims to minimize performance loss while reducing the memory usage of the model.",
+          "meta": "♥ 955 · 432,196 downloads"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Laguna-S-2.1, developed by Poolside, is a language model optimized for text-generation tasks. The model supports various content creation processes with its extensive language processing capabilities.",
+          "meta": "♥ 420 · 3,056 downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion model is an artificial intelligence model that produces text output (image-text-to-text) by processing visual and text data. The model offers a customized architecture in which different data sets are combined with its uncensored structure.",
+          "meta": "♥ 340 · 62,842 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "dashboard",
+      "explanation": "Summary panel that charts complex data and important information on a single screen."
+    },
+    {
+      "term": "situational awareness",
+      "explanation": "The ability to instantly recognize and make sense of what is happening around a system or person."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "Technology that delivers internet connection to devices via radio waves without the need for cables."
+    },
+    {
+      "term": "skill",
+      "explanation": "Special abilities that smart devices or software can perform with a specific command."
+    },
+    {
+      "term": "ADHD",
+      "explanation": "A neurological condition characterized by difficulty focusing, hyperactivity and impulsivity."
+    },
+    {
+      "term": "end-to-end encryption",
+      "explanation": "A security method that ensures that messages can only be read by the sender and receiver and prevents access by third parties."
+    },
+    {
+      "term": "relay",
+      "explanation": "A device that extends distance or strengthens a connection by transmitting signals or data from one point to another."
+    },
+    {
+      "term": "diagrams",
+      "explanation": "Simple drawings that show how a system works or how parts are connected together."
+    },
+    {
+      "term": "Guidance Computer",
+      "explanation": "Automatic guidance system that calculates a vehicle's route and ensures it moves towards the target."
+    },
+    {
+      "term": "Assembly",
+      "explanation": "The process of creating a working system by bringing together the hardware parts of a computer."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Technology that imitates a person's voice using artificial intelligence and creates new sentences from that person's voice."
+    },
+    {
+      "term": "endpoint",
+      "explanation": "End devices that exchange data, such as computers, phones or tablets, that are connected to a network."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "A central gateway that manages access to different AI services, ensures security and regulates traffic."
+    },
+    {
+      "term": "token",
+      "explanation": "The smallest piece of data corresponding to words or syllables that artificial intelligence uses when processing texts."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "The basic artificial intelligence structure that is trained with very large data sets and on which many different applications can be developed."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Running a software on one's own computer or private server rather than on an outside cloud server."
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-18",
+  "editorial": "With the tendency to build your own tools in software development processes, artificial intelligence-supported coding assistants are at the forefront today. Current data on GitHub shows that basic computer science math resources and application development kits (SDKs) are gaining ground on developers' desks.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build-your-own-x project is a learning guide that aims to improve programming skills by coding popular software technologies from scratch. Developers gain technical depth by building complex systems, such as a database or operating system, step by step.",
+          "meta": "Markdown · ★ 527,611 · +1,068 today"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog combines tools such as AI observability, session recording and bug tracking on a single platform to automate product development processes. Thanks to these tools, developers can analyze user data and manage product improvements directly via Slack or Model Context Protocol.",
+          "meta": "Python · ★ 36,267 · +438 today"
+        },
+        {
+          "title": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "summary": "Maths-cs-ai-compendium offers a comprehensive collection of resources covering mathematics, computer science and artificial intelligence for engineers who want to specialize in artificial intelligence and machine learning. This repository serves as a structured curriculum to strengthen theoretical foundations and gain competence in research engineering processes.",
+          "meta": "TypeScript · ★ 6,731 · +200 today"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "It is a design style developed to avoid standard content (AI-slop) produced by artificial intelligence-supported coding tools such as Hallmark, Claude Code, Cursor and Codex. This CSS-based approach aims to produce more original and human-oriented designs by reducing the distinguishability of interfaces created by artificial intelligence.",
+          "meta": "CSS · ★ 12,247 · +1,485 today"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub has released a multiplatform software development kit (SDK) that allows developers to integrate GitHub Copilot agents into their own applications and services. This tool allows developers to directly incorporate AI-powered assistants into their work environments.",
+          "meta": "Java · ★ 9,826 · +233 today"
+        },
+        {
+          "title": "anthropics/cwc-workshops",
+          "url": "https://github.com/anthropics/cwc-workshops",
+          "summary": "These workshops shared by Anthropic show developers in practice the processes of creating artificial intelligence agents capable of computer use. TypeScript-based examples include technical frameworks that allow models to manage complex tasks by interacting with on-screen interfaces.",
+          "meta": "TypeScript · ★ 1,632 · +45 today"
+        },
+        {
+          "title": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "summary": "Bonsai-demo provides application examples of the Bonsai platform developed for the optimization of machine learning models. This tool, which allows developers to test the operation of the system, aims to simplify the model training and distribution processes.",
+          "meta": "Shell · ★ 1,746 · +278 today"
+        },
+        {
+          "title": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "summary": "Developed by Google, protocol buffers are a language-independent data interchange format used to serialize structured data. This mechanism provides efficient and fast binary data transfer in inter-system communication.",
+          "meta": "C++ · ★ 71,559 · +11 today"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph analyzes the code base and creates a locally focused code intelligence map for artificial intelligence tools. This structure makes artificial intelligence-supported code review processes more efficient by using context reduction methods in large projects.",
+          "meta": "Python · ★ 19,852 · +74 today"
+        },
+        {
+          "title": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "summary": "DocuSeal offers an open source alternative for creating, filling and signing digital documents. This platform, developed with Ruby language, provides a solution for users who want to manage electronic signature (e-signature) processes in their own infrastructure.",
+          "meta": "Ruby · ★ 17,916 · +91 today"
+        },
+        {
+          "title": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "summary": "Open Interpreter is a coding agent that runs code on the computer using local models and automates software development processes. Developed with the Rust language, this tool offers the ability to execute commands directly at the operating system level through open source models.",
+          "meta": "Rust · ★ 66,480 · +431 today"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "Developed with the TurboQuant infrastructure, Turbovec offers a high-performance vector index written in Rust language. Thanks to Python bindings, it provides fast searching and indexing in data processing processes.",
+          "meta": "Python · ★ 13,393 · +280 today"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor is a private tutoring platform focused on lifelong learning that constantly personalizes users' learning processes. The system aims to optimize student development with artificial intelligence-supported tutoring models that adapt to individual needs.",
+          "meta": "Python · ★ 27,457 · +531 today"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut offers an open source CapCut alternative for video editing processes. This platform, developed with the TypeScript language, aims to liberate users' access to video editing tools.",
+          "meta": "TypeScript · ★ 75,036 · +1,074 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+          "url": "https://news.ycombinator.com/item?id=48945241",
+          "summary": "Amazon Web Services (AWS) users encounter inaccurate estimated billing data in their billing panels, reaching unrealistic and billion-dollar amounts. The cloud service provider continues its efforts to resolve the problem by issuing a technical glitch notification regarding this data error in its systems.",
+          "meta": "1,120 points · 663 comments"
+        },
+        {
+          "title": "Thanks HN for 15 years of support and helping me find my life's work",
+          "url": "https://news.ycombinator.com/item?id=48949551",
+          "summary": "Recurse Center, an educational community for software developers, is celebrating its fifteenth anniversary. Entrepreneurs turned their project, which started as a business-oriented platform, into a software-oriented learning center (programming retreat) over time.",
+          "meta": "482 points · 49 comments"
+        },
+        {
+          "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+          "summary": "Nurses at Kaiser Permanente state that artificial intelligence-supported tools and workplace surveillance systems increase workload and reduce the quality of patient care. Employees state that algorithmic management processes restrict their clinical decision-making abilities and increase professional stress.",
+          "meta": "432 points · 283 comments"
+        },
+        {
+          "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+          "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+          "summary": "For the first time, astronomers have found traces of atmosphere around an Earth-like exoplanet located in the habitable zone. This finding at planet 55 Cancri e offers a new method for studying the atmospheric structures of rocky worlds.",
+          "meta": "415 points · 251 comments"
+        },
+        {
+          "title": "The state of open source AI",
+          "url": "https://stateofopensource.ai/",
+          "summary": "The open source AI ecosystem continues to expand with the availability of model weights and diversification of developer tools. The report analyzes the adoption rates of transparent models in the technology sector and the impact of community-driven innovation on industry standards.",
+          "meta": "406 points · 296 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Developed by Thinking Machines, Inkling works as an image-text-to-text model that processes visual and textual data and produces text output. The model supports user interactions with text-based responses over multimodal data sets.",
+          "meta": "♥ 975 · 7,870 downloads"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B is offered as a text generation model optimized with the ternary quantization method. This technique aims to minimize performance loss while reducing the memory usage of the model.",
+          "meta": "♥ 687 · 200,774 downloads"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B, published by Prism-ML, is a language model optimized for text generation tasks. The model is presented in quantized GGUF format to support high-performance inference processes.",
+          "meta": "♥ 403 · 1,045,182 downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M model is a multimodal artificial intelligence model that produces text output by processing visual and textual data. The model is optimized for complex image and text analysis with wide context window support.",
+          "meta": "♥ 2,281 · 2,096,147 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, published by Zai-org, is a language model optimized for text-generation tasks. This model, which has reached a wide user base on HuggingFace, aims to improve text generation capabilities in natural language processing processes.",
+          "meta": "♥ 4,078 · 534,698 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI observability",
+      "explanation": "A tracking mechanism that allows you to monitor and understand how artificial intelligence systems work, where they make mistakes and why they give these results."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "A common connection language that enables AI models to talk to different data sources in a secure and standardized way."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Computers analyze data and derive rules on their own, producing better results as they gain experience."
+    },
+    {
+      "term": "AI-slop",
+      "explanation": "Low-quality, sloppy and worthless content produced by artificial intelligence that often pollutes the internet."
+    },
+    {
+      "term": "SDK",
+      "explanation": "A set of ready-made tools and libraries that make it easier for software developers to develop applications for a specific platform or device."
+    },
+    {
+      "term": "computer use",
+      "explanation": "Artificial intelligence can manage operations on the computer screen by moving the mouse and using the keyboard, just like a human."
+    },
+    {
+      "term": "protocol buffers",
+      "explanation": "A data transportation method used by different software to send data to each other, which packages the information very quickly and in small sizes."
+    },
+    {
+      "term": "binary",
+      "explanation": "The most basic machine language, consisting only of zeros and ones, that the computer's processor directly understands."
+    },
+    {
+      "term": "code intelligence graph",
+      "explanation": "A detailed map showing the relationships of all files and commands in a software project."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "The process of summarizing the huge information given to artificial intelligence by purifying it from unnecessary parts so that the model works faster and more accurately."
+    },
+    {
+      "term": "e-signature",
+      "explanation": "An electronic confirmation method with identity verification feature that allows digital documents to be legally signed."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Autonomous artificial intelligence software that writes software codes on your behalf, finds errors and develops projects from start to finish."
+    },
+    {
+      "term": "vector index",
+      "explanation": "A special search index that allows artificial intelligence to find the information you are looking for very quickly by converting complex data into numerical values."
+    },
+    {
+      "term": "bindings",
+      "explanation": "Bridges are established so that libraries written in one programming language can be used in another language."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "Artificial intelligence continues to improve itself as it learns new information, without forgetting its old information."
+    },
+    {
+      "term": "tutoring models",
+      "explanation": "Artificial intelligence systems that explain topics step by step to students, answer questions and provide personalized educational support."
+    }
+  ]
+}

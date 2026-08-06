@@ -1,0 +1,359 @@
+{
+  "date": "2026-08-03",
+  "editorial": "Today is a day when speed-oriented models take precedence over intelligence capacity in software development processes and reliability problems in data structures are discussed. In particular, the rise in coding performance of new generation models such as DeepSeek and Qwen is balanced by technical articles on the vulnerabilities of large language models (LLM).",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "AI-For-Beginners, prepared by Microsoft, is an open source training program that teaches the basics of artificial intelligence with a 12-week curriculum. It facilitates the learning process by supporting theoretical knowledge with practical applications through interactive code files (Jupyter Notebook).",
+          "meta": "Jupyter Notebook · ★ 59,742 · +2,629 today"
+        },
+        {
+          "title": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "summary": "Kaneo is a clutter-free, open-source project management tool. Focused on simplifying users' workflows, this software offers an alternative experience to traditional project tracking platforms such as Jira.",
+          "meta": "TypeScript · ★ 6,372 · +496 today"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM allows you to run large language models with 70 billion parameters on graphics processors (GPU) with only 4 GB of memory. This library offers a solution for those who want to use high-memory artificial intelligence models with limited hardware resources.",
+          "meta": "Jupyter Notebook · ★ 25,971 · +819 today"
+        },
+        {
+          "title": "iv-org/invidious",
+          "url": "https://github.com/iv-org/invidious",
+          "summary": "Invidious is an open source software that offers an alternative interface to the YouTube platform. It aims to offer users' video watching experience in a structure free of advertisements and data tracking.",
+          "meta": "Crystal · ★ 22,071 · +305 today"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X is a learning resource that helps improve programming skills by building popular software technologies from scratch. It teaches how complex systems such as a database, operating system or search engine work through applied projects.",
+          "meta": "Markdown · ★ 535,205 · +674 today"
+        },
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-skill offers an AI-powered talent driver for reverse engineering and penetration testing processes. Working integrated with coding assistants such as Claude Code and Cursor, this tool automatically installs the required security tools and constantly updates its knowledge base.",
+          "meta": "PowerShell · ★ 14,299 · +1,141 today"
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork is an open source alternative to Claude Cowork, an AI assistant that automates software development processes. Using the Opencode infrastructure, this tool allows developers to use a customizable coding assistant in their own projects.",
+          "meta": "TypeScript · ★ 20,503 · +280 today"
+        },
+        {
+          "title": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "summary": "This training series prepared by Microsoft offers a 21-lesson curriculum for those who want to get into generative artificial intelligence (generative AI) technologies. The content in Jupyter Notebook format teaches participants the basic concepts and technical skills necessary to develop their own applications.",
+          "meta": "Jupyter Notebook · ★ 115,026 · +588 today"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach is a command line interface (CLI) that gives artificial intelligence agents the ability to search and read content on popular platforms on the internet. It offers users the opportunity to extract data from platforms such as Twitter, Reddit and GitHub without paying any application programming interface (API) fees.",
+          "meta": "Python · ★ 65,059 · +659 today"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "Developed by TencentCloud, TencentDB Agent Memory is a team-level memory hub for AI agents that transforms conversations, documents, and code into reusable data assets. Written in TypeScript, this tool aims to standardize information sharing and governance across different agents and frameworks.",
+          "meta": "TypeScript · ★ 11,428 · +602 today"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill was designed as an artificial intelligence skill (AI skill) that conducts current topic research on platforms such as Reddit, X, YouTube and Hacker News. This Python-based tool analyzes data collected from different sources and provides the user with a verifiable summary.",
+          "meta": "Python · ★ 57,008 · +206 today"
+        },
+        {
+          "title": "NomaDamas/k-skill",
+          "url": "https://github.com/NomaDamas/k-skill",
+          "summary": "K-skill is a skill library that customizes AI agents according to Korean culture and language structure. It is a JavaScript-based toolset that enables developers to design interactions appropriate to local contexts.",
+          "meta": "JavaScript · ★ 6,937 · +177 today"
+        },
+        {
+          "title": "HarbourMasters/Lighthouse",
+          "url": "https://github.com/HarbourMasters/Lighthouse",
+          "summary": "Lighthouse is a code coverage tool developed in C language and designed for low-level systems. It provides data to developers for debugging and performance optimization by analyzing which code blocks are run during the software's testing processes.",
+          "meta": "C · ★ 259 · +65 today"
+        },
+        {
+          "title": "antirez/ds4",
+          "url": "https://github.com/antirez/ds4",
+          "summary": "Developed by Salvatore Sanfilippo, the creator of Redis, ds4 is an inference engine that allows running DeepSeek models on local hardware. This tool, written in C language, offers the opportunity to run high-performance models on different graphics processors thanks to Metal, CUDA and ROCm support.",
+          "meta": "C · ★ 20,117 · +139 today"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models. Focusing on prefix-cache stability, this tool ensures developers receive uninterrupted coding support over long sessions.",
+          "meta": "Go · ★ 29,369 · +333 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Karpathy’s Pelican",
+          "url": "https://twitter.com/karpathy/status/2083749667410727319",
+          "summary": "Developed by Andrej Karpathy, Pelican offers simple and fast content management as a static site generator. This Python-based tool focuses on converting text files directly into web pages rather than complex configurations.",
+          "meta": "538 points · 376 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49140998",
+              "popularity": 538,
+              "engagementCount": 376
+            }
+          ]
+        },
+        {
+          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "summary": "Qwen3.8-Max, the large language model developed by Alibaba, takes coding and collaboration capabilities in software development processes to an advanced level. The model sets a new standard for developer tools (IDEs) by offering high accuracy and efficient working performance in complex programming tasks.",
+          "meta": "415 points · 172 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49150470",
+              "popularity": 415,
+              "engagementCount": 172
+            }
+          ]
+        },
+        {
+          "title": "How the words we teach English language learners changed",
+          "url": "https://pudding.cool/2026/07/essential-words/",
+          "summary": "The visualization, prepared by The Pudding, examines the change in vocabulary used in textbooks for English language learners over time. The study reveals with a data-driven approach how the cultural and linguistic priorities of teaching materials have differed over the decades.",
+          "meta": "208 points · 156 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49145590",
+              "popularity": 208,
+              "engagementCount": 156
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+          "url": "https://github.com/wie-project/kakehashi",
+          "summary": "Kakehashi is an experimental userspace tool that allows running macOS binaries on Linux ARM architecture. It aims to create the necessary translation layer to run Apple operating system applications on a different core.",
+          "meta": "208 points · 50 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49145937",
+              "popularity": 208,
+              "engagementCount": 50
+            }
+          ]
+        },
+        {
+          "title": "Developers are attached to tools because tools encode trust",
+          "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+          "summary": "Developers' commitment to the tools they use stems from the fact that these tools provide reliability and predictability in their workflows. Developers see the standards and reliability offered by a technical solution (tool) as a key reference point to maintain their personal productivity.",
+          "meta": "193 points · 104 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49097961",
+              "popularity": 193,
+              "engagementCount": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Developed by Moonshot AI, Kimi-K3 is a multimodal artificial intelligence model that can process both visual and text data. It allows users to analyze complex images and interact with text-based commands.",
+          "meta": "♥ 9,708 · 837,202 downloads"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731 is an artificial intelligence model developed by DeepSeek and optimized for text generation tasks. Hosted on Hugging Face, this model aims to deliver high-performance language processing capabilities with faster response times.",
+          "meta": "♥ 1,850 · 156,173 downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, developed by MiniMax, is a multimodal AI model that creates video using visual and text inputs. It allows users to produce high-quality moving images from static content or written commands.",
+          "meta": "♥ 630 · 0 downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion is an artificial intelligence model that produces text output by processing visual and text inputs. This work, shared on HuggingFace, a platform hosting open source models, offers a structure focused on uncensored content production.",
+          "meta": "♥ 1,370 · 1,372,285 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is an image-to-text model that processes text in images and converts them into text-based output. It facilitates digitization processes by converting visual data in different formats into text data.",
+          "meta": "♥ 3,802 · 2,536,284 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift",
+          "url": "https://huggingface.co/papers/2607.28996",
+          "summary": "SULAND v2 is a comprehensive RGB image dataset and benchmarking tool developed for unmanned aerial and ground vehicles (UAV/UGV) detection of surface mines. By measuring the performance of object detection models under different operating conditions, it aims to test the general validity of the models in this security-focused field.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
+          "url": "https://huggingface.co/papers/2607.27951",
+          "summary": "Safeguards in large language models create vulnerabilities in dual-use tasks because the answer is decided without knowing how it will be used. The researchers prove that clonable context cannot provide a reliable basis for security when attackers can impersonate well-intentioned users.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "Enhancing Rubric-based RL via Self-Distillation",
+          "url": "https://huggingface.co/papers/2607.18082",
+          "summary": "Criterion-based reinforcement learning is a method used to improve language models in a wide range of tasks. To eliminate the training and inference mismatch caused by external guidance, researchers use the self-distillation technique to include undiscovered metrics in the optimization process.",
+          "meta": "13 likes · 1 comments"
+        },
+        {
+          "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
+          "url": "https://huggingface.co/papers/2607.29025",
+          "summary": "The evaluation and verification reward system, developed to ensure visual consistency and harmony in multi-reference visual editing models, brings reinforcement learning methods to this field. This approach aims to preserve visual integrity in editing processes by modeling relational constraints between multiple images.",
+          "meta": "11 likes · 0 comments"
+        },
+        {
+          "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+          "url": "https://huggingface.co/papers/2607.29677",
+          "summary": "ExtractBench is a new benchmark that evaluates schema-based data extraction from enterprise documents. The system measures the accuracy, completeness, provenance and cost performance of AI models across 370 different corporate documents.",
+          "meta": "13 likes · 0 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Your JSON Is Lying to You",
+          "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+          "summary": "The JSON format can lead to unexpected data loss in applications due to its limited capacity to express data types and numerical precision. These inconsistencies, especially when processing large integers or precise decimal values, bring about data integrity problems.",
+          "meta": "9 points · 3 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/tjgemj/your_json_is_lying_you",
+              "popularity": 9,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "I'm (mostly) picking models on speed now, not intelligence",
+          "url": "https://martinalderson.com/posts/speed-vs-intelligence/",
+          "summary": "When choosing artificial intelligence models, software developers now focus on speed (latency) rather than intelligence capacity. Short response time becomes a priority over the complexity of the models as it increases efficiency in daily workflows.",
+          "meta": "27 points · 15 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aso7dh/i_m_mostly_picking_models_on_speed_now_not",
+              "popularity": 27,
+              "engagementCount": 15
+            }
+          ]
+        },
+        {
+          "title": "Faster floating point math with Rust’s new API",
+          "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+          "summary": "The new application programming interface (API) added to the Rust programming language increases the processing speed of floating point math. This update provides performance optimization, especially in software that requires intensive mathematical operations.",
+          "meta": "18 points · 7 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new",
+              "popularity": 18,
+              "engagementCount": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Jupyter Notebook",
+      "explanation": "An interactive work environment where you can add notes and graphics while writing and running codes."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "GPU",
+      "explanation": "A powerful processor unit that can perform complex operations very quickly, especially image processing and artificial intelligence calculations."
+    },
+    {
+      "term": "coding assistant",
+      "explanation": "An artificial intelligence tool that helps you write code, finds errors and offers suggestions while developing software."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Artificial intelligence technology that can create new texts, images or sounds based on the information it learns."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Text-based interface that allows you to manage programs by typing written commands rather than using the mouse."
+    },
+    {
+      "term": "API",
+      "explanation": "A bridge that allows two different software to talk to each other and exchange data."
+    },
+    {
+      "term": "AI skill",
+      "explanation": "The special ability or area of ​​expertise that an artificial intelligence has to perform a specific task."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous artificial intelligence software that uses tools to make decisions on its own and achieve goals."
+    },
+    {
+      "term": "code coverage",
+      "explanation": "A measurement value that shows how much of a written program is controlled by tests."
+    },
+    {
+      "term": "inference engine",
+      "explanation": "A piece of software that produces predictions or conclusions about new data using a trained artificial intelligence model."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "An acceleration method that prevents artificial intelligence from repeating the same operations by keeping the text beginnings it has previously processed in memory."
+    },
+    {
+      "term": "static site generator",
+      "explanation": "A software tool that takes ready-made content and turns it into fast-loading fixed web pages."
+    },
+    {
+      "term": "IDE",
+      "explanation": "An advanced working environment that gathers all the tools that software developers need while writing code in one place."
+    },
+    {
+      "term": "binary",
+      "explanation": "A machine language format consisting only of zeros and ones that the computer can directly understand and execute."
+    },
+    {
+      "term": "userspace",
+      "explanation": "A safe area where user applications run without touching the operating system kernel of the computer."
+    }
+  ]
+}

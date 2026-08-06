@@ -1,0 +1,249 @@
+{
+  "date": "2026-06-11",
+  "editorial": "Today's technology agenda consists of skill sets and digital tracking tools developed for artificial intelligence agents. Current repositories on GitHub focus specifically on modular structures and open source information gathering (OSINT) tools that optimize the workflows of autonomous systems.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Developed for artificial intelligence coding agents, agent-skills offer production-ready engineering skills. This library provides standardized tools to increase the task completion capacity of agents in software development processes.",
+          "meta": "Shell · ★ 53,040 · +821 today"
+        },
+        {
+          "title": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "summary": "PM Skills Marketplace offers more than 100 agentic skills, commands, and plugins for product management processes, ranging from discovery to growth. This resource provides ready-made modules for AI agents looking to automate product management workflows.",
+          "meta": "★ 15,664 · +804 today"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria is a desktop application developed for managing Markdown-based knowledge bases. Written in TypeScript, this tool allows organizing personal documentation and notes management processes through a native interface.",
+          "meta": "TypeScript · ★ 15,148 · +612 today"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill offers an artificial intelligence skill (AI skill) that performs research by scanning current data from platforms such as Reddit, X, YouTube, Hacker News and Polymarket. This Python-based tool creates verifiable summaries by combining information from different sources.",
+          "meta": "Python · ★ 39,399 · +2,535 today"
+        },
+        {
+          "title": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "summary": "Maigret scans more than 3000 websites based on usernames and creates a dossier of people. Developed with Python, this tool automates digital footprint tracking in open source intelligence (OSINT) processes.",
+          "meta": "Python · ★ 32,267 · +318 today"
+        },
+        {
+          "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "summary": "This open source repository collects system prompts of popular artificial intelligence tools and the basic models used in a single center. Developers have the opportunity to examine the working logic of current coding assistants and generative AI platforms.",
+          "meta": "★ 139,671 · +393 today"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers offers an agentic skills framework and software development methodology for artificial intelligence agents. This tool is designed to standardize agent-based workflows and structure application development processes.",
+          "meta": "Shell · ★ 224,112 · +1,104 today"
+        },
+        {
+          "title": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "summary": "MasterDnsVPN is a low-load domain name system tunneling (DNS tunneling) virtual private network (VPN) solution developed to bypass censorship barriers. Written in Go language, the tool offers high packet loss stability and resolver load balancing features in data transmission.",
+          "meta": "Go · ★ 5,411 · +354 today"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo uses large language models to create high-resolution short videos from text-based content with a single click. This Python-based tool speeds up content creation workflows by automating the video production process.",
+          "meta": "Python · ★ 85,531 · +1,389 today"
+        },
+        {
+          "title": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "summary": "Developed by Maziyar Panahi, OpenMed brings together open-source healthcare AI models and tools used in the field of healthcare. The project aims to provide a standard infrastructure for the processing and analysis of medical data.",
+          "meta": "Python · ★ 2,454 · +527 today"
+        },
+        {
+          "title": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "summary": "This visual guide for Claude Code offers a wide range of practical examples, from basic concepts to advanced artificial intelligence agents. Featuring copyable templates, this resource allows users to quickly implement complex workflows.",
+          "meta": "Python · ★ 36,736 · +211 today"
+        },
+        {
+          "title": "activeloopai/hivemind",
+          "url": "https://github.com/activeloopai/hivemind",
+          "summary": "Developed by Activeloop, Hivemind offers a centralized memory layer for all artificial intelligence agents. This TypeScript-based structure enables different agents to share data and communicate through a common intelligence pool.",
+          "meta": "TypeScript · ★ 985 · +64 today"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView performs real-time spatial intelligence, vital sign tracking and presence detection without image data using standard wireless network (WiFi) signals. This technology, developed with the Rust language, minimizes hardware requirements and carries out environmental monitoring processes via standard signals.",
+          "meta": "Rust · ★ 73,055 · +420 today"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Developed by Roboflow, Supervision offers reusable tools and auxiliary functions for computer vision projects. This Python-based library accelerates development workflows by streamlining standard tasks in processes such as object detection and tracking.",
+          "meta": "Python · ★ 43,735 · +695 today"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Google has published its skills library, which is a developer toolkit for artificial intelligence agents that work integrated with its own products and technologies. This Python-based structure offers modular functions that enable agents to perform customized tasks on Google services.",
+          "meta": "Python · ★ 13,468 · +211 today"
+        },
+        {
+          "title": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "summary": "The FareedKhan-dev/train-llm-from-scratch project offers an end-to-end method for training large language models from data download to text generation. This Python-based work provides a simplified workflow for those who want to develop their own language model from scratch.",
+          "meta": "Python · ★ 5,451 · +247 today"
+        },
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Developed by Apple, container allows creating and running Linux containers using lightweight virtual machines on Mac. Written in Swift language, the tool offers performance optimized for Apple silicon architecture.",
+          "meta": "Swift · ★ 30,453 · +1,611 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Building an HTML-first site doubled our users overnight",
+          "url": "https://mohkohn.co.uk/writing/html-first/",
+          "summary": "Adopting an HTML-first approach instead of complex JavaScript frameworks directly increases user engagement by improving website loading times. This method optimizes accessibility and performance data by providing a leaner infrastructure with server-side rendering.",
+          "meta": "1,115 points · 503 comments"
+        },
+        {
+          "title": "πFS",
+          "url": "https://github.com/philipl/pifs",
+          "summary": "πFS is an experimental storage method that uses digits of pi as a file system. Rather than storing data directly, it provides data access by indexing the position of a particular data within the number pi.",
+          "meta": "725 points · 171 comments"
+        },
+        {
+          "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+          "url": "https://news.ycombinator.com/item?id=48477135",
+          "summary": "Eric Ries, author of the book The Lean Startup, shares his fifteen years of observations on large companies and public institutions in the question-answer event he held within the scope of his new book Incorruptible. It evaluates the application processes and corporate transformation experiences of entrepreneurship methodologies in different sectors.",
+          "meta": "646 points · 484 comments"
+        },
+        {
+          "title": "PgDog is funded and coming to a database near you",
+          "url": "https://pgdog.dev/blog/our-funding-announcement",
+          "summary": "PgDog received investment as a tool that simplifies real-time change data capture processes for PostgreSQL databases. This solution, which enables developers to transfer database events to external systems, aims to facilitate data flow management.",
+          "meta": "450 points · 220 comments"
+        },
+        {
+          "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+          "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+          "summary": "Cyber ​​security researchers state that the security measures (guardrails) in the Fable model developed by Anthropic are insufficient to prevent malicious use of the system. Experts argue that the security constraints of the model can be overcome and may pose a risk in cyber attack scenarios.",
+          "meta": "416 points · 363 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Developed by Nvidia, LocateAnything-3B is an image-text-to-text model that performs object localization tasks by processing visual and textual inputs. The model offers the ability to determine the coordinates of objects in images based on given text commands.",
+          "meta": "♥ 1,825 · 131,794 downloads"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Google launched the Gemma 2 12B model with 12 billion parameters, which is the new member of the Gemma 2 model family with multi-mode capabilities. This model offers a structure that can switch between different data types with its multimodal architecture that can process text and visual data simultaneously.",
+          "meta": "♥ 910 · 675,936 downloads"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "The Gemma 4-12b-it model, optimized by Unsloth, offers a multimodal structure that can process visual and text-based data. The model supports text and image processing on local devices with low memory usage thanks to the GGUF format.",
+          "meta": "♥ 554 · 711,706 downloads"
+        },
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, developed by Google, is a multimodal model that produces text-based outputs by processing text and image inputs. With its 26 billion parameter capacity, the model offers a new approach in associating visual data with text.",
+          "meta": "♥ 337 · 0 downloads"
+        },
+        {
+          "title": "bosonai/higgs-audio-v3-tts-4b",
+          "url": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
+          "summary": "higgs-audio-v3-tts-4b, developed by BosonAI, is a model with 4 billion parameters used in text-to-speech processes. This model offers an alternative solution to digital content production processes with its natural sound synthesis capabilities.",
+          "meta": "♥ 334 · 19,948 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "engineering skills",
+      "explanation": "Ability to design and build systems using mathematics and logic to solve complex problems."
+    },
+    {
+      "term": "agentic skills",
+      "explanation": "The ability of an artificial intelligence to make decisions on its own and plan the necessary steps to achieve the goal."
+    },
+    {
+      "term": "AI skill",
+      "explanation": "The ability to perform a specific task or solve a problem using artificial intelligence tools."
+    },
+    {
+      "term": "dossier",
+      "explanation": "An organized file in which all documents and information about a particular person, subject, or event are collected."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "A method of collecting and analyzing information from publicly available sources on the Internet."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Initial instructions that tell an AI model how it should behave and what rules it should follow."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Artificial intelligence technology that can create new texts, images or sounds using data it has previously learned."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "A set of methods and rules used to improve the ability of artificial intelligence to act independently."
+    },
+    {
+      "term": "DNS tunneling",
+      "explanation": "A method of secretly passing Internet traffic through a system normally used to find addresses."
+    },
+    {
+      "term": "VPN",
+      "explanation": "A tool that hides your identity and provides a secure connection by encrypting your data on the internet."
+    },
+    {
+      "term": "resolver load balancing",
+      "explanation": "The process of preventing system overload by distributing Internet address queries across multiple servers."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "open-source healthcare AI",
+      "explanation": "Artificial intelligence software that is shared in the field of healthcare so that everyone can examine and develop it."
+    },
+    {
+      "term": "agents",
+      "explanation": "Artificial intelligence programs that use tools and make decisions on their own in line with the goal they receive from the user."
+    },
+    {
+      "term": "centralized memory layer",
+      "explanation": "A shared memory area that allows artificial intelligence systems to remember past information and experiences from a single center."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "Technology that allows devices to connect to the internet via radio waves without the need for cables."
+    }
+  ]
+}

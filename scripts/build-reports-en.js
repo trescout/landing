@@ -85,9 +85,12 @@ dirs.sort().reverse().forEach(dateStr => {
   const enDateFormatted = formatEnDate(dateStr);
   
   // Dedicated English PDF URL
-  // İngilizce PDF üretimi henüz yok · içeriksiz dosya sunmak yerine ORİJİNAL
-  // Türkçe raporu veriyoruz ve etiketinde bunu açıkça söylüyoruz (landing#68).
+  // İngilizce PDF varsa onu ver, yoksa orijinal Türkçe raporu · etiket buna göre
+  // değişir (landing#68'de boş EN PDF'ler silinmişti, #69'da gerçeği üretildi).
   const trPdfUrl = `/reports/trescout-rapor-${dateStr}.pdf`;
+  const enPdfPath = path.join(ROOT, 'reports', `trescout-report-${dateStr}-en.pdf`);
+  const enPdfVar = fs.existsSync(enPdfPath);
+  const pdfUrl = enPdfVar ? `/reports/trescout-report-${dateStr}-en.pdf` : trPdfUrl;
 
   // Translate chips
   let enChips = chipsMatch ? chipsMatch[1] : '<span class="chip">Daily Tech Radar</span>';
@@ -140,10 +143,12 @@ dirs.sort().reverse().forEach(dateStr => {
       <div class="rep-chips">${badgeTag}${enChips}</div>
       <p class="rep-editorial">${enEditorial}</p>
       <div class="rep-actions">
-        <a class="act act-read" href="${trPdfUrl}" target="_blank" rel="noopener">Open original PDF (Turkish) →</a>
-        <a class="act act-dl" href="${trPdfUrl}" download>Download PDF</a>
+        <a class="act act-read" href="${pdfUrl}" target="_blank" rel="noopener">${enPdfVar ? 'Open English PDF →' : 'Open original PDF (Turkish) →'}</a>
+        <a class="act act-dl" href="${pdfUrl}" download>Download PDF</a>
       </div>
-      <p class="rep-note">The full report PDF is currently published in Turkish only. It carries every item, source link and glossary term; repository names, metrics and links are language independent. An English PDF edition is in preparation.</p>
+      <p class="rep-note">${enPdfVar
+        ? 'Full report PDF: every item with its summary, source links and the glossary of terms. Translated from the original Turkish edition.'
+        : 'The full report PDF is currently published in Turkish only. Repository names, metrics and links are language independent. An English PDF edition is in preparation.'}</p>
       <aside class="signup-cta">
         <p><strong>Get daily technology reports in your inbox.</strong> TreScout scans, summarizes, and delivers. You just read.</p>
         <a class="btn btn-primary" href="/en/#top">Join Early Access List →</a>
@@ -167,7 +172,7 @@ dirs.sort().reverse().forEach(dateStr => {
           </a>
           <div class="card-actions">
             <a class="act act-read" href="/en/reports/${dateStr}/">Read →</a>
-            <a class="act act-pdf" href="${trPdfUrl}" download>PDF (Turkish)</a>
+            <a class="act act-pdf" href="${pdfUrl}" download>${enPdfVar ? 'Download PDF' : 'PDF (Turkish)'}</a>
           </div>
         </article>`);
 });
@@ -211,7 +216,7 @@ const enReportsIndexHtml = `<!DOCTYPE html>
           <span>🌐</span> <span>Historical Translated Archive Notice</span>
         </div>
         <p class="arch-banner-text">
-          These English pages are translated from the original Turkish daily reports. The full report PDF is published in Turkish only for now; an English PDF edition is in preparation.
+          These English pages and report PDFs are translated from the original Turkish daily reports. Item selection, metrics and links are identical to the Turkish edition.
         </p>
       </div>
 

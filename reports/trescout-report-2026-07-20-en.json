@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-20",
+  "editorial": "Autonomous agent architectures and code review automations in software development processes are the main focus of the developer community today. Current projects on GitHub show increasing interest in practical engineering guides, especially memory management techniques that increase the inference efficiency of large language models.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "summary": "This open source book on artificial intelligence agents (AI agents) comprehensively covers design principles and engineering practices. In addition to theoretical information, it includes application codes divided into sections and compiled PDF files.",
+          "meta": "Python · ★ 7,362 · +1,734 today"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph creates a permanent map of the code base with a local-first code intelligence approach, ensuring that AI tools process only the relevant sections. This method speeds up code review processes in large-scale projects by using context reduction techniques.",
+          "meta": "Python · ★ 21,777 · +663 today"
+        },
+        {
+          "title": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "summary": "Ktransformers offers a flexible framework that supports heterogeneous hardware optimizations in the inference and fine-tuning processes of large language models. This structure aims to increase model performance by using different hardware resources efficiently.",
+          "meta": "Python · ★ 18,491 · +360 today"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Prepared for those who want to enter the field of artificial intelligence engineering (AI engineering), this resource covers the basic end-to-end application development processes using Python. By combining theoretical knowledge with practical projects, it enables developers to create and publish their own artificial intelligence solutions.",
+          "meta": "Python · ★ 39,934 · +501 today"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox is an open source AI voice studio that allows users to perform voice cloning, dictation and voice synthesis. Developed with the TypeScript language, this platform combines audio-based content creation processes in a single interface.",
+          "meta": "TypeScript · ★ 43,601 · +610 today"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo is a tool that provides local-first search, data extraction and crawling capabilities for artificial intelligence coding agents. This system, which works over the Model Context Protocol (MCP), provides free research without any API key or cloud dependency.",
+          "meta": "TypeScript · ★ 2,054 · +595 today"
+        },
+        {
+          "title": "andrewrabert/jellium-desktop",
+          "url": "https://github.com/andrewrabert/jellium-desktop",
+          "summary": "Jellium-desktop is an unofficial desktop client developed in Rust for the media server Jellyfin. The software offers a native interface that allows users to access their media libraries directly through the operating system.",
+          "meta": "Rust · ★ 1,342 · +43 today"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub Copilot SDK offers a multiplatform software development kit (SDK) that allows developers to integrate GitHub Copilot agents into their own applications and services. This tool makes it possible to run artificial intelligence-supported assistants in a standard way on different platforms using the Java language.",
+          "meta": "Java · ★ 9,998 · +39 today"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog is a platform that brings together tools such as AI observability, analysis and session replay to automate product development processes. With this toolkit, software developers can analyze user data, diagnose product errors, and manage their development processes through a central interface.",
+          "meta": "Python · ★ 37,016 · +411 today"
+        },
+        {
+          "title": "microsoft/terminal",
+          "url": "https://github.com/microsoft/terminal",
+          "summary": "Microsoft is combining Windows Terminal and the traditional Windows console host under one roof. This open source project, developed in C++ language, restructures the command line experience with a modern interface and customizable tabs.",
+          "meta": "C++ · ★ 104,241 · +59 today"
+        },
+        {
+          "title": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "summary": "AstrBot is an artificial intelligence agent development framework that integrates with various instant messaging platforms, large language models and plug-ins. This Python-based tool allows creating customizable AI assistants as an open-source alternative.",
+          "meta": "Python · ★ 36,787 · +83 today"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Developed with the Rust language, jcode offers a testing and evaluation platform for coding agents that automate software development processes. This tool is designed to measure the performance of software development agents and standardize their workflows.",
+          "meta": "Rust · ★ 9,066 · +235 today"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua aims to scale computer-use technologies with open source drivers and operating system independent fleet management. The platform offers standardized benchmarking tools for the training, evaluation and data generation processes of artificial intelligence models.",
+          "meta": "HTML · ★ 20,286 · +64 today"
+        },
+        {
+          "title": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "summary": "Developed by MoonshotAI, Kimi CLI is an artificial intelligence agent that works via a command line interface (CLI). This Python-based tool allows developers to automate complex tasks in the terminal environment.",
+          "meta": "Python · ★ 9,992 · +410 today"
+        },
+        {
+          "title": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "summary": "The Zapret-discord-youtube project is a network circumvention tool that provides access to restricted platforms by redirecting local network traffic. It offers customized script files to bypass access barriers, especially for services such as Discord and YouTube.",
+          "meta": "Batchfile · ★ 31,054 · +106 today"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build your own x project offers a set of guides that aim to improve programming skills by coding popular software technologies from scratch. Developers learn the working principles of complex systems such as databases or operating systems through applied projects.",
+          "meta": "Markdown · ★ 529,087 · +754 today"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM allows large language models with 70 billion parameters to be run on graphics processing units (GPU) with only 4 GB of memory. This library uses memory optimization techniques to enable the use of high-capacity models with low hardware requirements.",
+          "meta": "Jupyter Notebook · ★ 23,722 · +358 today"
+        },
+        {
+          "title": "Canner/WrenAI",
+          "url": "https://github.com/Canner/WrenAI",
+          "summary": "Developed by Canner, WrenAI is an open-source generative business intelligence (generative BI) tool that automatically exports data into panels and charts by converting natural language into database queries (text-to-SQL). The platform provides reliable data analytics processes for AI agents through a manageable context layer that supports more than twenty data sources.",
+          "meta": "Python · ★ 16,314 · +121 today"
+        },
+        {
+          "title": "PKUFlyingPig/cs-self-learning",
+          "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+          "summary": "This guide, prepared by Peking University students, offers a comprehensive road map for those who want to self-learn in the field of computer science. It combines a broad curriculum, from core courses to specializations, with resources and study methods.",
+          "meta": "HTML · ★ 74,290 · +134 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+          "url": "https://news.ycombinator.com/item?id=48968606",
+          "summary": "A software engineer redesigned a $120,000 commercial bowling center automation system using $1,600 ESP32 microcontrollers. This solution, developed with embedded systems, creates a cost-effective alternative to expensive industrial hardware.",
+          "meta": "2,036 points · 212 comments"
+        },
+        {
+          "title": "Qwen 3.8",
+          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+          "summary": "Developed by Alibaba, Qwen 3.8 introduces a new pricing and token scheme for large language models. This model provides accessible computing capacity to developers through its cloud-based infrastructure.",
+          "meta": "846 points · 579 comments"
+        },
+        {
+          "title": "Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "summary": "Claude Code started using Bun as the JavaScript runtime to speed up the working environment. This migration aims to improve the performance of developer tools through the integration of infrastructure components written in Rust.",
+          "meta": "472 points · 629 comments"
+        },
+        {
+          "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+          "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+          "summary": "Scalable production and supply chain management in the hardware development process present concrete challenges that software-focused entrepreneurs can overcome. Experience gained from the sale of 2,500 MIDI recorders shows that hardware entrepreneurship is more accessible than thought.",
+          "meta": "461 points · 209 comments"
+        },
+        {
+          "title": "Minecraft: Java Edition now uses SDL3",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+          "summary": "Minecraft: Java Edition upgraded the Simple DirectMedia Layer library used for graphics and input device management to the third version (SDL3). This update modernizes the game's hardware interaction and provides a more stable performance infrastructure.",
+          "meta": "293 points · 200 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Developed by Thinking Machines, Inkling is a multimodal model that produces text-based outputs by accepting visual and textual data as input. The model offers the ability to analyze complex images and create detailed texts about these contents.",
+          "meta": "♥ 1,168 · 13,462 downloads"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B, developed by Prism-ml, is offered as a text-generation model optimized with the triple weighting method. This approach aims to reduce hardware requirements by reducing the memory usage of the model.",
+          "meta": "♥ 806 · 338,945 downloads"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B, published by Prism-ml, is a language model optimized for text-generation tasks. The model is presented in GGUF format for efficient operation and can be used in different hardware configurations.",
+          "meta": "♥ 510 · 1,262,894 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR stands out as an image-text-to-text model that produces text output by processing image-based texts. The model automates the processes of converting data in complex documents into digital format.",
+          "meta": "♥ 2,230 · 2,122,848 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, developed by Zai-org, is a language model optimized for text generation tasks. The highly interactive model on the HuggingFace platform aims to expand open source language processing capabilities.",
+          "meta": "♥ 4,179 · 536,177 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous software that can make decisions on its own and carry out assigned tasks step by step."
+    },
+    {
+      "term": "local-first code intelligence",
+      "explanation": "Software development tools provide suggestions by processing data directly on your computer without the need for the Internet."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "In order for artificial intelligence to work faster and more accurately, unnecessary information given to it is cleaned and its essence is left."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Retraining a general-purpose AI with a small data set to specialize in a specific subject."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "The process of designing systems that solve real-world problems using artificial intelligence technologies."
+    },
+    {
+      "term": "voice synthesis",
+      "explanation": "Voiceover of written texts by a computer with a natural human voice."
+    },
+    {
+      "term": "local-first",
+      "explanation": "The application stores and manages all data on your device without needing the internet to work."
+    },
+    {
+      "term": "Model Context Protocol - MCP",
+      "explanation": "A standard connection language that allows AI models to easily communicate with different data sources."
+    },
+    {
+      "term": "desktop client",
+      "explanation": "A software application that you download to your computer and use directly on the desktop."
+    },
+    {
+      "term": "SDK",
+      "explanation": "A suite of ready-made tools that make it easier for developers to develop applications for a specific platform or device."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "A method of tracking errors and performance of artificial intelligence systems by monitoring how they work."
+    },
+    {
+      "term": "session replay",
+      "explanation": "The user's movements in the application can be recorded as a video and watched again later."
+    },
+    {
+      "term": "console host",
+      "explanation": "A window environment in which text-based commands are run on the computer and the results are displayed."
+    },
+    {
+      "term": "development framework",
+      "explanation": "A working framework that accelerates work when developing software and provides basic structures ready-made."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Intelligent software assistants who write code, find errors and manage projects on behalf of software developers."
+    }
+  ]
+}

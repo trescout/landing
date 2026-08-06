@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-07",
+  "editorial": "In artificial intelligence systems, skill packages and prompt leaks are at the center of the developer ecosystem today. Open source projects on GitHub focus specifically on customized skill sets that extend the functionality of Claude and similar models.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "This repository compiles and makes available system prompts of major language models such as Anthropic, OpenAI, Google and xAI. It offers an up-to-date data source for developers who want to understand the working principles and limitations of various artificial intelligence models.",
+          "meta": "JavaScript · ★ 52,076 · +1,378 today"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Developed by Addy Osmani, agent-skills offers production-level engineering skills for artificial intelligence coding agents. This library enables JavaScript-based agents to perform complex software development tasks with standardized methods.",
+          "meta": "JavaScript · ★ 71,250 · +1,112 today"
+        },
+        {
+          "title": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "summary": "Meetily is an open source meeting assistant that processes meeting recordings locally and does not require a cloud connection. Developed in Rust, the application uses native language models for live transcription, speaker diarization and summarization.",
+          "meta": "Rust · ★ 19,818 · +2,494 today"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView performs real-time spatial intelligence, vital sign tracking and presence detection operations without image data using standard wireless network (WiFi) signals. This technology, developed with the Rust language, analyzes movements and biometric data in the environment without the need for any camera hardware.",
+          "meta": "Rust · ★ 77,861 · +470 today"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill is a tool developed to prevent the content produced by artificial intelligence models from being ordinary and general. The software offers an aesthetics and originality-oriented filtering mechanism to improve the output quality of language models.",
+          "meta": "JavaScript · ★ 59,459 · +1,458 today"
+        },
+        {
+          "title": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "summary": "This library, developed for Claude Code and similar coding agents, offers more than 330 skills, more than 70 special commands and more than 30 ready-made agent structures. It standardizes AI-based productivity by providing customizable workflows and scripts in a wide range of areas, from engineering to financial operations.",
+          "meta": "Python · ★ 21,346 · +610 today"
+        },
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "Published by OpenAI, codex-plugin-cc enables the use of the Codex model for code review and task delegation within Claude Code. This plugin allows developers to run different artificial intelligence models together in automation processes on the code base.",
+          "meta": "JavaScript · ★ 26,431 · +906 today"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill offers an artificial intelligence skill (AI skill) that does research on a specific topic via Reddit, X, YouTube, Hacker News and web resources. This Python-based tool analyzes collected data and creates verifiable summaries.",
+          "meta": "Python · ★ 50,004 · +458 today"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Herdr is an agent multiplexer tool that runs on the terminal and allows managing multiple artificial intelligence agents simultaneously. This software, developed in Rust language, allows users to interact with different artificial intelligence models via the command line.",
+          "meta": "Rust · ★ 13,065 · +779 today"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video is a Python tool that gives the Claude model the ability to analyze video content. By downloading videos, dividing them into frames and converting them into text (transcription), the software brings the visual data into a format that the artificial intelligence model can process.",
+          "meta": "Python · ★ 4,554 · +427 today"
+        },
+        {
+          "title": "karakeep-app/karakeep",
+          "url": "https://github.com/karakeep-app/karakeep",
+          "summary": "Karakeep is a self-hostable content management application that collects links, notes and images in a single center. It facilitates digital archiving processes with artificial intelligence-supported automatic tagging and full text search features.",
+          "meta": "TypeScript · ★ 27,033 · +199 today"
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl offers an interface (API) developed to perform web scraping and searching operations on a large scale. This tool speeds up data processing by converting web content into formats suitable for large language models.",
+          "meta": "TypeScript · ★ 146,681 · +867 today"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar allows viewing OpenAI Codex and Claude Code usage statistics without requiring any login. Developed with Swift language, this tool makes it easier for developers to track coding assistant usage data.",
+          "meta": "Swift · ★ 16,847 · +598 today"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Developed by Alibaba, zvec is a lightweight vector database that offers high performance with its in-process working logic. Written in C++, this tool offers a structure optimized for fast data processing needs.",
+          "meta": "C++ · ★ 13,670 · +382 today"
+        },
+        {
+          "title": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "summary": "Awesome lists offers curated collections of resources on a variety of topics in the world of software development and technology. This repository functions as a comprehensive directory that brings together the best tools, libraries and learning materials from different fields.",
+          "meta": "★ 482,524 · +345 today"
+        },
+        {
+          "title": "gastownhall/gastown",
+          "url": "https://github.com/gastownhall/gastown",
+          "summary": "Gas Town is a system developed as a multi-agent workspace manager. Written in the Go language, this tool provides a structured infrastructure for managing work environments where autonomous agents collaborate.",
+          "meta": "Go · ★ 16,787 · +291 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Resetting Xbox",
+          "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+          "summary": "Microsoft is embarking on a massive restructuring of the console software and user interface in a bid to modernize the Xbox ecosystem. This update aims to improve the platform's digital store experience and system-wide performance efficiency.",
+          "meta": "585 points · 594 comments"
+        },
+        {
+          "title": "OpenWrt One – Open Hardware Router",
+          "url": "https://openwrt.org/toh/openwrt/one",
+          "summary": "OpenWrt One is a router project designed with open hardware principles. The device, which receives software support directly from the OpenWrt community, aims to give users full control over their network hardware.",
+          "meta": "558 points · 220 comments"
+        },
+        {
+          "title": "CoMaps – FOSS Offline Maps",
+          "url": "https://www.comaps.app/",
+          "summary": "CoMaps is an open source (FOSS) map application that does not require an internet connection. It allows users to protect data privacy and navigate without location tracking by downloading offline maps to their devices.",
+          "meta": "479 points · 94 comments"
+        },
+        {
+          "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+          "url": "https://github.com/MaximeRivest/Riddle",
+          "summary": "The Fable project transforms the digital notebook reMarkable device into Tom Riddle's diary in the Harry Potter universe, offering users an interactive text-based gaming experience. The software creates an artificial intelligence-supported narrative interface using the device's screen and pen inputs.",
+          "meta": "385 points · 207 comments"
+        },
+        {
+          "title": "A global workspace in language models",
+          "url": "https://www.anthropic.com/research/global-workspace",
+          "summary": "Anthropic researchers apply global workspace theory to understand the internal processes of language models. This method aims to make transparent how models perform complex tasks by combining different pieces of information.",
+          "meta": "348 points · 127 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B, published by Empero-ai, has a multimodal model structure that produces text output by processing visual and text-based data. The model is available in GGUF format, which provides high context window support with a capacity of 9 billion parameters.",
+          "meta": "♥ 1,676 · 1,617,508 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, developed by Zai-org, is a language model designed for text generation tasks. This model, which has reached a wide user base on the HuggingFace platform, offers an alternative solution in natural language processing processes.",
+          "meta": "♥ 3,548 · 231,218 downloads"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Developed by Tencent, Hy3 is a language model optimized for text generation processes. The model aims to perform on a variety of natural language processing tasks by being trained on large-scale data sets.",
+          "meta": "♥ 374 · 2 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is an image-text-to-text model that produces text output by processing visual texts. The system aims to automate the process of converting data in complex documents into digital format.",
+          "meta": "♥ 1,805 · 1,070,230 downloads"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, developed by InternScience, is an artificial intelligence model optimized for text generation tasks. This model is designed to support agent-based workflows in processes that require complex logical reasoning.",
+          "meta": "♥ 350 · 8,766 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "system prompts",
+      "explanation": "Initial instructions that determine how the AI ​​should behave and what rules it should follow."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Ability to develop technical methods and establish systems to solve complex problems."
+    },
+    {
+      "term": "live transcription",
+      "explanation": "The process of instantaneously transcribing spoken audio."
+    },
+    {
+      "term": "speaker diarization",
+      "explanation": "Technology that distinguishes and groups the conversations in the voice recording by who made them."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "Wireless network technology that allows devices to connect to the internet or each other without the need for cables."
+    },
+    {
+      "term": "presence detection",
+      "explanation": "A system that detects whether there are people in an environment through sensors or software."
+    },
+    {
+      "term": "skills",
+      "explanation": "The capabilities that a software or artificial intelligence has to perform a specific task."
+    },
+    {
+      "term": "scripts",
+      "explanation": "Short sequences of commands written for the computer to perform certain tasks automatically."
+    },
+    {
+      "term": "AI skill",
+      "explanation": "A skill area in which artificial intelligence is specifically trained or defined to do a job."
+    },
+    {
+      "term": "agent multiplexer",
+      "explanation": "The center manages multiple artificial intelligence officers and directs incoming requests to the right unit."
+    },
+    {
+      "term": "transcription",
+      "explanation": "Converting conversations in audio or video recordings into text."
+    },
+    {
+      "term": "self-hostable",
+      "explanation": "The ability to run a software on your own computer or server instead of outsourcing it."
+    },
+    {
+      "term": "automatic tagging",
+      "explanation": "Automatic labeling of files or data by the system by looking at their content."
+    },
+    {
+      "term": "full text search",
+      "explanation": "Finding the information sought by scanning all the words in a document."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Automatic copying and collection of data on websites through software."
+    },
+    {
+      "term": "API",
+      "explanation": "A bridge that allows two different software to talk to each other and exchange data."
+    }
+  ]
+}

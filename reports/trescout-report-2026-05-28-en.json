@@ -1,0 +1,184 @@
+{
+  "date": "2026-05-28",
+  "editorial": "Today's technology agenda consists of autonomous content generation and analysis tools that help make sense of complex documents. Open source projects shared on GitHub focus especially on plugins that speed up information processing and filtering mechanisms that control content quality.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo allows you to create high-resolution short videos with a single click, using large language models. This Python-based tool automates the content production process and creates automatic video editing from texts.",
+          "meta": "Python · ★ 62,104 · +1,742 today"
+        },
+        {
+          "title": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "summary": "Understand-Anything transforms codebases into interactive knowledge graphs, allowing developers to visualize and query their projects. Developed with TypeScript, this tool makes it easier to understand complex software structures by integrating with various artificial intelligence-supported coding assistants.",
+          "meta": "TypeScript · ★ 39,878 · +4,465 today"
+        },
+        {
+          "title": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "summary": "The stop-slop project is an editing tool that detects and cleans characteristic narrative patterns (AI tells) in texts created by artificial intelligence. It offers a customized language processing rule set (skill file) to remove traces of artificial intelligence in written language.",
+          "meta": "★ 5,711 · +664 today"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC is a system that optimizes skills, memory and security layers for artificial intelligence coding tools such as Claude Code and Cursor. It offers a research-oriented infrastructure to increase agent performance in software development processes.",
+          "meta": "JavaScript · ★ 196,051 · +2,062 today"
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Knowledge work plugins shared by Anthropic offer open source tools for professionals working on Claude Cowork. This Python-based library includes plug-in models developed to automate complex workflows.",
+          "meta": "Python · ★ 17,288 · +695 today"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill is a system designed to improve the quality of content produced by artificial intelligence models. It prevents the model from generating general and monotonous responses (generic slop) and enables it to produce more unique and qualified outputs.",
+          "meta": "Shell · ★ 24,293 · +2,715 today"
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "summary": "Heretic is a Python tool that allows completely automatic removal of censorship mechanisms on language models. The software aims to standardize the process of disabling constraints by processing model weights.",
+          "meta": "Python · ★ 22,018 · +211 today"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos was developed as a foundation model designed to analyze the unique language of financial markets. This model, which is customized to analyze the complex structure of financial data, is used in market-oriented natural language processing processes.",
+          "meta": "Python · ★ 26,888 · +401 today"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Developed for artificial intelligence agents, this library offers 754 structured capabilities paired with five different cybersecurity frameworks. Compatible with more than 20 platforms such as Claude Code and GitHub Copilot, this standard aims to facilitate security-focused automation processes.",
+          "meta": "Python · ★ 10,972 · +886 today"
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty is an open source customer relationship management platform designed for artificial intelligence integration. Developed with the TypeScript language, this software offers an alternative option to commercial solutions such as Salesforce.",
+          "meta": "TypeScript · ★ 47,340 · +519 today"
+        },
+        {
+          "title": "Chachamaru127/claude-code-harness",
+          "url": "https://github.com/Chachamaru127/claude-code-harness",
+          "summary": "Claude Code Dedicated Development Harness automates software development processes with an autonomous planning, implementation and review cycle. This tool offers artificial intelligence-based workflow management for high-quality code production.",
+          "meta": "Shell · ★ 1,838 · +87 today"
+        },
+        {
+          "title": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "summary": "DigitalPlat FreeDomain project offers an infrastructure that allows users to obtain a free domain name. This open source work aims to make the process of creating a web presence cost-free.",
+          "meta": "HTML · ★ 169,157 · +2,222 today"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers offers an agentic skills framework and software development methodology for artificial intelligence agents. This tool was developed to standardize agent-based workflows and structure software development processes.",
+          "meta": "Shell · ★ 209,561 · +1,511 today"
+        },
+        {
+          "title": "byoungd/English-level-up-tips",
+          "url": "https://github.com/byoungd/English-level-up-tips",
+          "summary": "English-level-up-tips is a guide that provides comprehensive resources and methods for learning advanced English. It includes strategic study plans and training materials for users who want to improve their language skills.",
+          "meta": "★ 46,723 · +1,163 today"
+        },
+        {
+          "title": "iii-hq/iii",
+          "url": "https://github.com/iii-hq/iii",
+          "summary": "Developed with the Rust language, iii offers an infrastructure that enables real-time creation, expansion and observability of all services. It makes service management processes in distributed systems manageable from a single center.",
+          "meta": "Rust · ★ 16,881 · +376 today"
+        },
+        {
+          "title": "Axorax/awesome-free-apps",
+          "url": "https://github.com/Axorax/awesome-free-apps",
+          "summary": "The awesome-free-apps list compiled by Axorax brings together selected free app recommendations for personal computers and mobile devices. This resource offers an accessible guide by categorizing the software users may need.",
+          "meta": "JavaScript · ★ 5,887 · +728 today"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi is an artificial intelligence-based virtual character (waifu) platform with real-time voice chat and game playing capabilities that users can host on their own servers. Developed with TypeScript, the project aims to bring interactive digital assets similar to Neuro-sama to desktop and web environments.",
+          "meta": "TypeScript · ★ 40,222 · +72 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+          "summary": "After Google announced that its artificial intelligence-supported search mode was adopted by users, DuckDuckGo search engine experienced a 28 percent increase in the number of visitors. This shows that users tend to prefer the traditional search experience to artificial intelligence-supported results.",
+          "meta": "657 points · 335 comments"
+        },
+        {
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "summary": "Anthropic and OpenAI have achieved permanent market harmony in software development processes with the large language models they offer. As developers integrate these tools into their daily workflows, generative AI is becoming a standard component in the application development cycle.",
+          "meta": "632 points · 773 comments"
+        },
+        {
+          "title": "Last.fm is now independent",
+          "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+          "summary": "Music streaming platform Last.fm has separated from its affiliated media group and become an independent company. With this process, the platform started to manage user data and service infrastructure within itself.",
+          "meta": "617 points · 175 comments"
+        },
+        {
+          "title": "Tech CEOs are apparently suffering from AI psychosis",
+          "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+          "summary": "Artificial intelligence psychosis is defined as the development of unrealistic expectations by senior executives in the technology world about the future effects of artificial intelligence technologies. This situation causes companies to make strategic decisions that do not correspond to market realities and to adopt an overly optimistic perspective on technological developments.",
+          "meta": "557 points · 283 comments"
+        },
+        {
+          "title": "YouTube to automatically label AI-generated videos",
+          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "summary": "YouTube is introducing a new tagging system to identify content created or modified by artificial intelligence. The platform aims to increase transparency in content prepared with generative AI so that viewers can distinguish realistic-looking videos.",
+          "meta": "516 points · 312 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "bytedance-research/Lance",
+          "url": "https://huggingface.co/bytedance-research/Lance",
+          "summary": "Developed by ByteDance, Lance offers a multi-modal (any-to-any) model structure that enables conversion between different data types. This approach provides flexibility in cross-modal tasks by processing various input formats such as text, images, and audio in a common space.",
+          "meta": "♥ 923 · 1,908 downloads"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "Developed by OpenBMB, MiniCPM5-1B is a low-parameter language model optimized for text generation tasks. Designed with the aim of working efficiently with limited computing resources, the model attracts attention with its compact architecture.",
+          "meta": "♥ 412 · 2,409 downloads"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Developed by Meituan, LongCat-Video-Avatar-1.5 is a model that enables creating high-quality and consistent video avatars from a single reference image. It uses an optimized image synthesis architecture to produce animated characters while maintaining visual fidelity.",
+          "meta": "♥ 343 · 0 downloads"
+        },
+        {
+          "title": "NemoStation/Marlin-2B",
+          "url": "https://huggingface.co/NemoStation/Marlin-2B",
+          "summary": "Marlin-2B, developed by NemoStation, is a model that performs video-based text generation (video-text-to-text). It is used in multimodal artificial intelligence applications with its ability to create text outputs by processing visual data.",
+          "meta": "♥ 415 · 9,144 downloads"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive model is a multimodal structure that produces text output by processing image and text inputs. The model, which removes user restrictions with its uncensored structure, combines large-scale language processing capabilities with visual data analysis.",
+          "meta": "♥ 947 · 1,598,473 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

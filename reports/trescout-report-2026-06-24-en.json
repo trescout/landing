@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-24",
+  "editorial": "Today, open-source visual editing tools and financial analysis automation are among the prominent topics in the software world. Guides that improve cyber security competencies and projects focusing on data flow management are on the developers' radar.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage is an open source agent-based system that turns AI-powered coding assistants into a comprehensive video production studio. This Python-based platform automates video production processes with 12 different workflows, 52 tools and more than 500 agent skills.",
+          "meta": "Python · ★ 16,844 · +3,592 today"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "This system, supported by large language models, provides automatic stock market notifications by analyzing multi-source market data and current news. Thanks to its Python-based infrastructure, users can schedule market monitoring cost-free via the decision support panel.",
+          "meta": "Python · ★ 47,630 · +1,119 today"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Anthropic-Cybersecurity-Skills offers 817 structured cybersecurity skills for artificial intelligence agents, compatible with six different security frameworks. This library aims to standardize agent-based workflows across more than 20 platforms, such as Claude Code and GitHub Copilot, by covering 29 security domains.",
+          "meta": "Python · ★ 20,090 · +1,041 today"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Gstack offers 23 different toolsets customized for the AI-supported coding tool Claude Code. This configuration aims to automate the workflows of different roles such as administrator, designer and quality assurance (QA) in software development processes.",
+          "meta": "TypeScript · ★ 114,445 · +1,011 today"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "Developed by ByteDance, Deer-Flow is an open-source superagent framework designed to perform long-term and complex tasks. System; It autonomously manages workflows lasting minutes or hours through sandbox, memory management, tooling and subagents.",
+          "meta": "Python · ★ 74,159 · +739 today"
+        },
+        {
+          "title": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "summary": "Worldmonitor offers a real-time global intelligence dashboard that combines AI-powered news compilation, geopolitical monitoring and infrastructure monitoring in a single interface. This tool creates an integrated situational awareness environment for users by processing complex data streams.",
+          "meta": "TypeScript · ★ 59,318 · +294 today"
+        },
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro is a macOS-based video editing software (video editor) equipped with artificial intelligence-supported features. Developed with Swift language, this tool brings artificial intelligence capabilities to the native application environment to automate video editing processes.",
+          "meta": "Swift · ★ 8,616 · +1,630 today"
+        },
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "summary": "Anthropic offers an official directory that collects high-quality plugins developed for Claude Code in a single center. This Python-based structure allows developers to share and discover tools prepared for coding assistants in a standard format.",
+          "meta": "Python · ★ 30,960 · +77 today"
+        },
+        {
+          "title": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "summary": "This guide developed for Claude Code discusses the transition processes from vibe coding approach to agent-based engineering. It offers practical application methods and best practices to increase the efficiency of artificial intelligence agents in software development processes.",
+          "meta": "HTML · ★ 59,766 · +344 today"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness is a meta-skill framework that designs domain-specific artificial intelligence agent teams and creates the skills that these agents will use. The system standardizes the process of automating complex workflows by defining specialized agents.",
+          "meta": "HTML · ★ 7,530 · +128 today"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox is an open source artificial intelligence voice studio that allows users to perform voice cloning, dictation and content production. This platform, developed with the TypeScript language, aims to make audio processing processes accessible.",
+          "meta": "TypeScript · ★ 33,464 · +1,045 today"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "Using AI coding agents, this template allows copying any website with a single command. The TypeScript-based project speeds up developers' workflow by automating website cloning processes.",
+          "meta": "TypeScript · ★ 18,766 · +826 today"
+        },
+        {
+          "title": "byoungd/English-level-up-tips",
+          "url": "https://github.com/byoungd/English-level-up-tips",
+          "summary": "English-level-up-tips is a comprehensive guide that offers advanced strategies and resources to speed up the English learning process. It brings together learning methods and practical tips for users who want to improve their language skills.",
+          "meta": "★ 54,627 · +125 today"
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp offers high-performance code analysis by transforming code bases into a permanent knowledge graph. Developed in C language, this tool supports 158 different programming languages, reduces query times to below milliseconds and reduces token usage.",
+          "meta": "C · ★ 13,480 · +1,300 today"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Developed by NousResearch, Hermes Agent offers an artificial intelligence agent infrastructure that improves over time by learning from user interactions. This Python-based system combines personalized task execution and continuous learning capabilities.",
+          "meta": "Python · ★ 201,322 · +936 today"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC offers a performance system that optimizes skills, instincts, memory and security layers for artificial intelligence agents. It aims to make agent-based workflows more efficient in development tools such as Claude Code and Cursor.",
+          "meta": "JavaScript · ★ 220,776 · +593 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "FUTO Swipe – A new swipe typing model",
+          "url": "https://swipe.futo.tech/",
+          "summary": "FUTO Swipe introduces a new swipe typing model developed as an open source alternative. This technology prioritizes user privacy and ensures the protection of personal data by processing the text entry process on the local device.",
+          "meta": "485 points · 147 comments"
+        },
+        {
+          "title": "Fired by Google for creating the Google workspace CLI",
+          "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+          "summary": "A developer who developed a command line interface (CLI) for Google Workspace was fired for violating policies regarding the use of internal tools. This situation has brought into question the use of internal developer tools and the limits of control over companies' open source policies.",
+          "meta": "465 points · 285 comments"
+        },
+        {
+          "title": "Jerry's Map",
+          "url": "http://www.jerrysmap.com/the-map",
+          "summary": "Jerry Gretzinger has made available digitally his huge map project (Jerry's Map), which represents an imaginary world that he has been drawing continuously since 1963. Bringing together thousands of hand-drawn panels, this work functions as a complex, ever-expanding geographic database.",
+          "meta": "441 points · 51 comments"
+        },
+        {
+          "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+          "url": "https://tikz.dev/editor/",
+          "summary": "TikZ Editor allows editing the TikZ package, which allows creating visuals in LaTeX documents, via the visual interface (WYSIWYG) instead of writing code. This tool speeds up the visual design phase by facilitating the coordinate determination and compilation processes of academic drawings.",
+          "meta": "377 points · 71 comments"
+        },
+        {
+          "title": "In memory of the man who put red and green squiggles under words",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+          "summary": "The software engineer who developed the feature of marking spelling errors with red and green wavy lines in text editors is commemorated. This simple visual feedback mechanism has now become a standard part of modern word processors.",
+          "meta": "329 points · 44 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, published by Zai-org, is a language model optimized for text-generation tasks. It can be used in different application areas by being included in the large language models category in the open source ecosystem.",
+          "meta": "♥ 2,243 · 40,127 downloads"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma-4-12B-coder-fable5-composer2.5-v1 is presented as a text-generation model focusing on software development processes. Thanks to the GGUF format, the model can be run efficiently on different hardware resources.",
+          "meta": "♥ 2,254 · 456,117 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR, developed by Baidu, is a model that performs image-text-to-text conversion. It aims to process the texts in complex documents with high accuracy and transfer them to the digital environment.",
+          "meta": "♥ 553 · 8,396 downloads"
+        },
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "summary": "Developed by WeiboAI, VibeThinker-3B is a compact language model optimized for text generation tasks. With its 3 billion parameter structure, it supports efficient text creation processes in limited computational resources.",
+          "meta": "♥ 671 · 41,170 downloads"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "This Gemma-4-12B based model, shared on HuggingFace, offers a structure optimized for text generation tasks. The model contains a GGUF format file configured with specific training parameters for use in agent-based workflows.",
+          "meta": "♥ 466 · 96,459 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agentic system",
+      "explanation": "Autonomous software system that can make decisions on its own and take steps to achieve goals."
+    },
+    {
+      "term": "pipeline",
+      "explanation": "A sequence of automatic successive stages through which data is passed to complete a job."
+    },
+    {
+      "term": "agent skill",
+      "explanation": "A special ability or skill that an artificial intelligence has to perform a specific task."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "cybersecurity skills",
+      "explanation": "Technical knowledge and skills required to protect digital systems and data against cyber attacks."
+    },
+    {
+      "term": "QA",
+      "explanation": "The process of ensuring that a software is free of bugs and of high quality before it is released."
+    },
+    {
+      "term": "superagent",
+      "explanation": "Advanced artificial intelligence system that coordinates other small software units to manage complex tasks."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "An isolated work area where a software can be tested safely without damaging the host system."
+    },
+    {
+      "term": "subagents",
+      "explanation": "Auxiliary units that perform smaller, specialized tasks under the management of a main artificial intelligence system."
+    },
+    {
+      "term": "situational awareness",
+      "explanation": "The ability of artificial intelligence to accurately perceive and make sense of its environment, data and conditions."
+    },
+    {
+      "term": "video editor",
+      "explanation": "Software that turns image and audio files into a watchable video by combining, cutting or adding effects."
+    },
+    {
+      "term": "AI capabilities",
+      "explanation": "All functions that artificial intelligence can perform, such as analyzing, learning or producing content."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Small software add-ons that are installed later to add new features to a main program."
+    },
+    {
+      "term": "tools",
+      "explanation": "Auxiliary functions or tools that software uses to perform certain operations."
+    },
+    {
+      "term": "vibe coding",
+      "explanation": "A method of writing code by chatting with artificial intelligence and using an intuitive approach, without getting bogged down in technical details."
+    },
+    {
+      "term": "agentic engineering",
+      "explanation": "The discipline of designing and developing autonomous software units that can make decisions on their own."
+    }
+  ]
+}

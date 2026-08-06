@@ -1,0 +1,249 @@
+{
+  "date": "2026-07-17",
+  "editorial": "Today, in the open source world, execution of local models and user interactive analysis tools are at the forefront. New modular structures developed especially on code interpreters and data analytics platforms constitute the focus of the developer ecosystem.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "summary": "Apache Ossie is an industry initiative that aims to standardize the exchange of semantic metadata between analytics, artificial intelligence and business intelligence (BI) platforms. This project facilitates data integration by creating a vendor-independent, single source of truth between different platforms.",
+          "meta": "Python · ★ 997 · +60 today"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark is a design tool designed to detect and distinguish AI-generated content. Claude Code provides visual standards to preserve the originality of AI outputs in development environments such as Cursor and Codex.",
+          "meta": "CSS · ★ 11,237 · +3,372 today"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut is developing a web-based application that offers an open source alternative for video editing processes. This project, prepared with TypeScript, aims to standardize users' access to video editing tools.",
+          "meta": "TypeScript · ★ 74,256 · +3,537 today"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog is a comprehensive platform that brings together tools such as artificial intelligence observability, analysis and session replay for product development processes. It enables software developers to create autonomous products by tracking bugs, managing experiments, and analyzing user data.",
+          "meta": "Python · ★ 35,939 · +77 today"
+        },
+        {
+          "title": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "summary": "Open Interpreter is a coding agent that runs code on the computer using open source models such as Kimi K3. Developed in Rust, this tool allows native models to act directly on system commands and software development processes.",
+          "meta": "Rust · ★ 66,083 · +661 today"
+        },
+        {
+          "title": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "summary": "The Bonsai demo project offers a toolset designed to simplify the deployment processes of machine learning models. The software helps developers optimize their application processes by turning complex model architectures into manageable workflows.",
+          "meta": "Shell · ★ 1,587 · +196 today"
+        },
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "The fitness dataset shared by Hasan Eylidrim includes animated visuals, muscle group information, and step-by-step instructions in six languages ​​for 1,324 exercises. This open source database provides a structured data layer for exercise tracking applications.",
+          "meta": "HTML · ★ 15,177 · +710 today"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "The awesome-llm-apps repository contains more than 100 AI agent and fetch-based manufacturing (RAG) applications that developers can run, customize, and publish directly. This Python-based resource aims to standardize workflows and accelerate application development processes through ready-made applications.",
+          "meta": "Python · ★ 123,132 · +923 today"
+        },
+        {
+          "title": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "summary": "LobeHub enables creating an AI team operations that works 24 hours a day, 7 days a week, by managing artificial intelligence agents through recruitment, scheduling and reporting processes. The platform offers an administrative interface that automates workflows by organizing different agents from a single center.",
+          "meta": "TypeScript · ★ 80,291 · +71 today"
+        },
+        {
+          "title": "YimMenu/YimMenuV2",
+          "url": "https://github.com/YimMenu/YimMenuV2",
+          "summary": "YimMenuV2 is an experimental menu modification developed for the Grand Theft Auto 5 game. This project, prepared with the C++ programming language, offers players various in-game features and customization options.",
+          "meta": "C++ · ★ 1,521 · +128 today"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor is an artificial intelligence system that offers personalized private tutoring experience focused on continuous learning (lifelong learning) by analyzing student data. The platform uses a tutoring model that constantly monitors student performance to optimize educational processes.",
+          "meta": "Python · ★ 27,023 · +656 today"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "This repository, shared by Matt Pocock, contains special command set files (skills) that software engineers use in artificial intelligence-supported coding processes. It offers structured workflows and instructions for developers to use generative AI tools more efficiently.",
+          "meta": "Shell · ★ 174,638 · +2,060 today"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub Copilot SDK offers a multiplatform software development kit (SDK) that allows developers to integrate GitHub Copilot agents into their own applications and services. This Java-based tool enables the standard use of artificial intelligence-supported coding assistants on different platforms.",
+          "meta": "Java · ★ 9,698 · +13 today"
+        },
+        {
+          "title": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "summary": "Developed for design engineers, ui-skills brings together the technical skills and competencies needed in user interface (UI) development processes. This TypeScript-based resource offers a competency map for professionals transitioning from interface design to coding.",
+          "meta": "TypeScript · ★ 4,436 · +178 today"
+        },
+        {
+          "title": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "summary": "Graphify transforms code files, database schemas and documents in software projects into a queryable knowledge graph structure. This tool allows AI coding assistants to analyze complex project structures through a holistic data model.",
+          "meta": "Python · ★ 89,390 · +1,107 today"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X is a collection of guides aimed at improving programming skills by coding popular software technologies from scratch. Developers have the opportunity to learn architectural structures in practice by building complex systems, such as a database or operating system, step by step.",
+          "meta": "Markdown · ★ 526,539 · +435 today"
+        },
+        {
+          "title": "ossu/computer-science",
+          "url": "https://github.com/ossu/computer-science",
+          "summary": "Offering a free and self-learning oriented curriculum in the field of computer science, this resource creates an educational path that complies with academic standards. It provides a structured learning process covering software development and basic informatics disciplines.",
+          "meta": "HTML · ★ 206,669 · +107 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kimi K3: Open Frontier Intelligence",
+          "url": "https://www.kimi.com/blog/kimi-k3",
+          "summary": "Kimi k3, announced by Moonshot AI, is a new open frontier intelligence model that stands out with its long context window and high processing speed. The model aims to provide cost efficiency, especially in complex reasoning and analyzing large data sets.",
+          "meta": "1,435 points · 864 comments"
+        },
+        {
+          "title": "Microsoft Comic Chat is now open source",
+          "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+          "summary": "Microsoft shared the source codes of Comic Chat, its character-based chat application launched in 1996, as open source. The software offers an interface that automatically turns users' text-based conversations into comic panels.",
+          "meta": "617 points · 138 comments"
+        },
+        {
+          "title": "Decoy Font",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "summary": "Decoy Font is a font experiment used to visually hide texts. This tool offers content masking by masking text with seemingly random shapes instead of readable characters.",
+          "meta": "486 points · 115 comments"
+        },
+        {
+          "title": "How Our Rust-to-Zig Rewrite Is Going",
+          "url": "https://rtfeldman.com/rust-to-zig",
+          "summary": "Software developers share their migration projects from Rust to Zig in order to optimize performance and memory management processes. This transformation process is evaluated by its effects on compilation speed and low-level systems programming control.",
+          "meta": "471 points · 247 comments"
+        },
+        {
+          "title": "NotebookLM is now Gemini Notebook",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+          "summary": "Google is rebranding NotebookLM, its personal artificial intelligence-supported notebook, as Gemini Notebook and incorporating it into the Gemini ecosystem. This transformation enables the platform to deliver advanced generative AI capabilities in a more integrated way with Google's core AI model.",
+          "meta": "282 points · 143 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Developed by Thinking Machines, Inkling is a multimodal model that takes visual and text data as input and produces text output. The model offers the ability to generate meaningful responses in natural language by analyzing complex visual content.",
+          "meta": "♥ 843 · 4 downloads"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B-gguf is a high-performance language model developed for text generation. The model optimizes hardware resources using the ternary quantization technique to increase efficiency.",
+          "meta": "♥ 623 · 74,007 downloads"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B, published by Prism-ml, is a language model optimized for text generation tasks. The model is presented with the GGUF structure, which is a quantization format, so that it can run on low-resource hardware.",
+          "meta": "♥ 351 · 559,267 downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B is a multimodal artificial intelligence model that produces text output by processing visual and text-based inputs. The model offers the opportunity to analyze large data sets with a capacity of 1 million context windows.",
+          "meta": "♥ 2,242 · 2,042,670 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, developed by Zai-org, is a language model optimized for text generation tasks. This model, which has reached a wide user base on the HuggingFace platform, aims to improve text generation capabilities in natural language processing processes.",
+          "meta": "♥ 4,039 · 513,061 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "BI",
+      "explanation": "Business intelligence tools that enable companies to make more accurate decisions by analyzing raw data."
+    },
+    {
+      "term": "semantic metadata",
+      "explanation": "Descriptive information that explains what data means and how it relates to other data."
+    },
+    {
+      "term": "single source of truth",
+      "explanation": "The principle of managing all information in an institution from a single reliable and up-to-date source."
+    },
+    {
+      "term": "AI-generated content",
+      "explanation": "Digital content such as text, images or audio created by artificial intelligence."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "The process of tracking errors and unexpected consequences by monitoring how artificial intelligence systems work."
+    },
+    {
+      "term": "session replay",
+      "explanation": "The movements of a user on the website can be recorded as a video and watched again later."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Autonomous software tools that can write code, fix errors and develop projects on behalf of software developers."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Computers learn on their own using data and produce better results over time."
+    },
+    {
+      "term": "data layer",
+      "explanation": "The software layer located between the applications and the database, allowing data to be processed and organized."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Autonomous artificial intelligence program that can make decisions and perform certain tasks on its own."
+    },
+    {
+      "term": "RAG",
+      "explanation": "It is a method of bringing information that allows artificial intelligence to provide more accurate answers by accessing current and private data."
+    },
+    {
+      "term": "AI team operations",
+      "explanation": "The way teams developing artificial intelligence projects manage their workflows and processes."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "Artificial intelligence models constantly improve as they learn new information, without forgetting their old information."
+    },
+    {
+      "term": "tutoring",
+      "explanation": "Artificial intelligence helps a student understand the subjects by giving him private lessons."
+    },
+    {
+      "term": "skills",
+      "explanation": "Abilities that an artificial intelligence model can perform by specializing in a certain field."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Artificial intelligence technology that can produce new content that did not exist before, based on the data it learns."
+    }
+  ]
+}

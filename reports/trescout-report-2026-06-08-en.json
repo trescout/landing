@@ -1,0 +1,172 @@
+{
+  "date": "2026-06-08",
+  "editorial": "Today's technology agenda is dominated by autonomous skill sets and open source agent architectures. In particular, the Hermes model published by NousResearch allows developers to build their own AI assistants in a customizable structure.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, which conducts research on platforms such as Reddit, This Python-based tool combines information from different digital sources to create comprehensive reports on current issues.",
+          "meta": "Python · ★ 32,482 · +1,111 today"
+        },
+        {
+          "title": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "summary": "OpenCV, an open source computer vision library, offers a wide range of tools for image processing and machine learning applications. This library, developed in C++ language, serves as a standard infrastructure in real-time visual data analysis processes.",
+          "meta": "C++ · ★ 88,274 · +65 today"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill is a system that enables more qualified results to be obtained by reducing monotonous and commonplace expressions in the content produced by artificial intelligence models. It allows users to personalize AI outputs and improve language quality.",
+          "meta": "Shell · ★ 37,663 · +1,103 today"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Developed by NousResearch, Hermes Agent is an autonomous AI agent that expands its capabilities by learning over time through user interactions. This Python-based system is designed to support personalized task management and continuous learning processes.",
+          "meta": "Python · ★ 186,572 · +1,112 today"
+        },
+        {
+          "title": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "summary": "Open-notebook offers an open-source alternative to Google NotebookLM, giving users more flexibility and customization of their documents. Developed with TypeScript, this project brings personal information management and artificial intelligence-supported content analysis processes to local or customizable environments.",
+          "meta": "TypeScript · ★ 27,633 · +554 today"
+        },
+        {
+          "title": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "summary": "AiToEarn is a TypeScript-based platform that enables users to manage their monetization processes through AI-powered automations. The project offers an open infrastructure to developers by combining autonomous task execution and artificial intelligence-based earning models.",
+          "meta": "TypeScript · ★ 19,145 · +183 today"
+        },
+        {
+          "title": "aaif-goose/goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "summary": "Goose is an open-source AI agent that goes beyond code suggestions and automates software installation, execution, editing and testing. Developed with the Rust language, this tool aims to manage software development workflows end-to-end by integrating with different major language models (LLM).",
+          "meta": "Rust · ★ 47,753 · +322 today"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "Project N.O.M.A.D is an offline survival computer that provides access to critical tools, information resources and local artificial intelligence models in environments that do not require an internet connection. The portable system aims to provide the user with independent data and processing capacity in emergency scenarios.",
+          "meta": "TypeScript · ★ 29,903 · +309 today"
+        },
+        {
+          "title": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "summary": "Llama.cpp is a C and C++ based inference library that enables large language models to be run efficiently on standard hardware. The software makes it easier to run artificial intelligence models on local devices with its low memory usage and high performance-oriented structure.",
+          "meta": "C++ · ★ 115,499 · +158 today"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "Built on the TurboQuant infrastructure, turbovec is a high-performance vector index tool developed with the Rust language. Thanks to Python bindings, it allows developers to perform vector-based search operations quickly and efficiently.",
+          "meta": "Python · ★ 7,703 · +1,554 today"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "The ChinaTextbook repository offers a digital archive of textbooks used in the Chinese education curriculum from primary school to university level in portable document format (PDF). This resource provides a central access point to a wide range of academic materials.",
+          "meta": "Roff · ★ 72,765 · +350 today"
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "OpenAI plugins provide a framework that enables language models to access current data and interact with external systems. This structure allows generative AI models to perform real-time operations and connect with third-party applications.",
+          "meta": "JavaScript · ★ 2,152 · +262 today"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria is a desktop application developed for managing Markdown-based knowledge bases. Written in TypeScript, this tool makes it easy to keep personal documentation and notes systems organized.",
+          "meta": "TypeScript · ★ 13,116 · +245 today"
+        },
+        {
+          "title": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "summary": "Python-based GhostTrack is a tool that allows location tracking via mobile numbers. This open source software was developed to detect the geographical data of the target number.",
+          "meta": "Python · ★ 13,874 · +28 today"
+        },
+        {
+          "title": "microsoft/pg_durable",
+          "url": "https://github.com/microsoft/pg_durable",
+          "summary": "Developed by Microsoft, pg_durable is a library designed to manage durable execution processes on PostgreSQL. Written in Rust, the tool enables complex workflows to run within the database in a fault-tolerant and persistent manner.",
+          "meta": "Rust · ★ 1,580 · +316 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do",
+          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "summary": "The integration of large language models into software development processes creates a transformation that questions the value of traditional coding practices. Software engineers need to redefine their technical competencies and focus on human-centered problem-solving skills in the face of the increasing influence of automation.",
+          "meta": "944 points · 910 comments"
+        },
+        {
+          "title": "Building from zero after addiction, prison, and a felony",
+          "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+          "summary": "Software developer Gavin Ray shares his career journey and technical proficiency experience, which he built from scratch after addiction and incarceration. Combining personal development with the discipline of professional software development, this narrative addresses the impact of difficult living conditions on career goals in the technology sector.",
+          "meta": "612 points · 271 comments"
+        },
+        {
+          "title": "How's Linear so fast? A technical breakdown",
+          "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+          "summary": "Linear uses a combination of optimistic UI updates and data caching strategies to optimize application performance. The software minimizes latency by making interactions with local state management instantaneous, without waiting for server responses.",
+          "meta": "402 points · 181 comments"
+        },
+        {
+          "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+          "url": "https://www.ioccc.org/2025/",
+          "summary": "The International Obfuscated C Code Contest announced the winners of 2025 and rewarded the most complex and difficult to understand C source codes. The competition continues to showcase creative and mysterious software development practices that push the boundaries of programming languages.",
+          "meta": "392 points · 89 comments"
+        },
+        {
+          "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+          "url": "https://github.com/devenjarvis/lathe",
+          "summary": "Lathe is an educational tool that uses large language models to teach technical topics rather than doing the work for the user. It creates resource-supported hands-on lessons through a native interface that encourages software developers to write code manually.",
+          "meta": "303 points · 55 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Developed by NVIDIA, LocateAnything-3D is an image-text-to-text model that performs object localization tasks by processing visual and textual inputs. The model is designed to identify objects in complex scenes and specify the coordinates of these objects with text-based outputs.",
+          "meta": "♥ 1,559 · 121,594 downloads"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "The Gemma 2 9B-based Gemma-4-12B-it model developed by Google offers a multimodal structure that can process different data types such as text and images. The model aims to interact between different data formats with the ability to process any type of input (any-to-any).",
+          "meta": "♥ 712 · 554,173 downloads"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "Optimized by Unsloth, the Gemma 4-12B model offers a multimodal structure that can process visual and text data. This model in GGUF format accelerates text-based visual analysis processes on local devices with low memory usage.",
+          "meta": "♥ 468 · 645,263 downloads"
+        },
+        {
+          "title": "google/gemma-4-12B",
+          "url": "https://huggingface.co/google/gemma-4-12B",
+          "summary": "Released by Google, Gemma-4-12B is designed as a versatile multi-modal model (any-to-any model) capable of converting between different data types. This model offers a flexible artificial intelligence experience by processing various types of input such as text and images.",
+          "meta": "♥ 423 · 117,509 downloads"
+        },
+        {
+          "title": "ideogram-ai/ideogram-4-fp8",
+          "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+          "summary": "Developed by Ideogram, ideogram-4-fp8 is a floating-point 8-bit (FP8) precision model that provides low memory usage in text-to-image conversion processes. This model offers faster processing capacity by increasing hardware efficiency in rendering operations.",
+          "meta": "♥ 363 · 5,495 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

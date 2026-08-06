@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-30",
+  "editorial": "Today, automation and file parsing technologies stand out in software development processes. In particular, Microsoft's document processing tool and Anthropic's coding assistant set new standards that increase productivity in developer tooling.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Developed by Microsoft, MarkItDown is a Python tool that converts various file formats and office documents into markdown language (Markdown) format. This tool makes it easy to bring unstructured data into processable text format for large language models.",
+          "meta": "Python · ★ 131,646 · +2,473 today"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo is an automation tool that creates high-resolution short videos with a single click using large language models. This Python-based software speeds up the content creation workflow by automating the process of generating video content from text input.",
+          "meta": "Python · ★ 71,592 · +2,775 today"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code is an agent-based coding tool that runs on the terminal and analyzes the code base with natural language commands. It is designed as an assistant that performs routine tasks in software development processes, provides code comments and manages version control (git workflows).",
+          "meta": "Python · ★ 128,283 · +595 today"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor has released the official plugin specification, allowing developers to create their own plugins within the code editor. This TypeScript-based structure allows developers to integrate customized workflows directly into the editor environment.",
+          "meta": "TypeScript · ★ 1,403 · +206 today"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness is a meta-talent framework that designs AI agent teams specific to specific domains and creates the specialized skills these teams need. The system automates specialized agent definitions and workflows to perform complex tasks.",
+          "meta": "HTML · ★ 4,165 · +80 today"
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "The Compound Engineering plugin integrates compound engineering processes for development tools such as Claude Code, Codex and Cursor. It enables management and automation of complex tasks in software development workflows.",
+          "meta": "TypeScript · ★ 18,351 · +348 today"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC offers a system that optimizes skills, memory and security layers for artificial intelligence coding tools such as Claude Code and Cursor. It provides a research-oriented infrastructure to increase agent performance in software development processes.",
+          "meta": "JavaScript · ★ 199,102 · +918 today"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM offers a tokenizer-free text-to-speech (TTS) model for multilingual speech production, creative sound design, and realistic voice cloning. This approach enables more natural and flexible sound synthesis processes by working directly on sound data, unlike traditional methods.",
+          "meta": "Python · ★ 22,648 · +658 today"
+        },
+        {
+          "title": "galilai-group/stable-worldmodel",
+          "url": "https://github.com/galilai-group/stable-worldmodel",
+          "summary": "Stable-worldmodel is a platform developed to ensure the reproducibility of research on world models. The software provides a standard framework for simulating and evaluating environmental interactions of AI models.",
+          "meta": "Python · ★ 1,403 · +319 today"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "Project N.O.M.A.D brings together tools, information resources and artificial intelligence components designed for an offline survival computer that does not require an internet connection. This system aims to ensure that critical data and digital capabilities are accessible under all circumstances.",
+          "meta": "TypeScript · ★ 27,228 · +473 today"
+        },
+        {
+          "title": "run-llama/liteparse",
+          "url": "https://github.com/run-llama/liteparse",
+          "summary": "Developed with the Rust language, Liteparse is an open source tool designed to parse documents quickly and efficiently. This solution functions as a high-performance document parser, making it easier to extract data from complex document structures.",
+          "meta": "Rust · ★ 7,781 · +929 today"
+        },
+        {
+          "title": "chen08209/FlClash",
+          "url": "https://github.com/chen08209/FlClash",
+          "summary": "FlClash stands out as a multiplatform proxy client based on ClashMeta. This open source application, developed with Dart language, offers an ad-free and user-friendly interface experience.",
+          "meta": "Dart · ★ 40,313 · +190 today"
+        },
+        {
+          "title": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "summary": "This work shared by FareedKhan-dev explains step by step the process of training large language models from scratch, from downloading datasets to text production. The content in Jupyter Notebook format embodies the model development processes accompanied by a technical guide.",
+          "meta": "Jupyter Notebook · ★ 2,086 · +316 today"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView uses standard wireless network (WiFi) signals to perform real-time spatial intelligence, vital sign tracking and presence detection without the need for image data. This software, developed in Rust language, offers a contactless monitoring solution using the existing network infrastructure.",
+          "meta": "Rust · ★ 68,643 · +656 today"
+        },
+        {
+          "title": "DataTalksClub/data-engineering-zoomcamp",
+          "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+          "summary": "Data Engineering Zoomcamp is a free nine-week training program that covers the processes of creating production-ready data pipelines. Offering participants the opportunity to learn end-to-end data engineering practices, this course follows a practice-oriented curriculum through Jupyter Notebooks.",
+          "meta": "Jupyter Notebook · ★ 41,734 · +277 today"
+        },
+        {
+          "title": "OpenMOSS/MOSS-TTS",
+          "url": "https://github.com/OpenMOSS/MOSS-TTS",
+          "summary": "MOSS-TTS is an open-source model family designed to perform high-fidelity and expressive speech synthesis. It supports complex scenarios such as long-term conversations, multi-speaker dialogues, character design, and real-time streaming text-to-speech.",
+          "meta": "Python · ★ 2,558 · +88 today"
+        },
+        {
+          "title": "dreammis/social-auto-upload",
+          "url": "https://github.com/dreammis/social-auto-upload",
+          "summary": "Developed with Python, social-auto-upload is a tool that allows automatic upload of videos to social media platforms such as Douyin, Xiaohongshu, TikTok, YouTube and Bilibili. Offering multi-platform support, this software automates content distribution processes and eliminates the need for manual uploading.",
+          "meta": "Python · ★ 11,705 · +106 today"
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Anthropics open source its library of reusable agent skills that enable artificial intelligence agents to perform complex tasks. This Python-based structure allows developers to standardize agent-based workflows.",
+          "meta": "Python · ★ 143,956 · +471 today"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "The Build-your-own-x project aims to improve programming skills by providing guides for building popular software technologies from scratch. Developers learn the working logic of complex systems such as databases or operating systems through applied projects.",
+          "meta": "Markdown · ★ 507,884 · +814 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "The dead economy theory",
+          "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+          "summary": "Dead economy theory argues that the majority of interactions and content on digital platforms are created by bots rather than humans. This approach points to a synthetic network environment where internet traffic and economic data do not reflect real user behavior.",
+          "meta": "1,162 points · 1,292 comments"
+        },
+        {
+          "title": "SQLite is all you need for durable workflows",
+          "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+          "summary": "Developers prefer to use SQLite database instead of complex infrastructures to create durable workflows. This method simplifies state management processes and increases the reliability of the system.",
+          "meta": "627 points · 336 comments"
+        },
+        {
+          "title": "Notes from the Mistral AI Now Summit",
+          "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+          "summary": "The new models introduced at the Mistral AI Now summit offer optimized performance, especially for small language models running on end devices. The company aims to increase efficiency and local processing capacity in corporate applications with open-weighted models.",
+          "meta": "426 points · 181 comments"
+        },
+        {
+          "title": "Danish pension fund excludes SpaceX citing governance and valuation",
+          "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+          "summary": "A Denmark-based pension fund has removed SpaceX shares from its investment portfolio, citing concerns about corporate governance standards and company valuation. This decision reflects the difficulties private space companies have in meeting investors' expectations for transparency and governance.",
+          "meta": "415 points · 312 comments"
+        },
+        {
+          "title": "It's hard to justify buying a Framework 12",
+          "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+          "summary": "The Framework 12 model is criticized by users for its high price and limited performance efficiency, despite the hardware upgradeability advantage it offers. The modular nature of the device makes it difficult to make a cost-based justification compared to other laptops on the market.",
+          "meta": "359 points · 565 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "MiniCPM5-1B, developed by OpenBMB, stands out as a text-generation model with a low number of parameters. Aiming to offer high performance in limited computing resources, the model adopts an architecture suitable for working on edge devices.",
+          "meta": "♥ 597 · 28,793 downloads"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Developed by Nvidia, LocateAnything-3B stands out as an image-text-to-text model that performs object positioning tasks by processing visual and textual inputs. This model optimizes the processes of locating objects in visual data and transforming this data into text-based outputs.",
+          "meta": "♥ 472 · 18,327 downloads"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive, published on HuggingFace, is a multimodal language model that can process visual and text input. The model, which draws attention with its uncensored structure, offers a customized performance in image-to-text conversion processes.",
+          "meta": "♥ 1,094 · 2,227,885 downloads"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Developed by Meituan, LongCat-Video-Avatar-1.5 is a generative AI model that enables the creation of high-quality video avatars from text input. The system is designed to produce consistent visual output in character-oriented video synthesis processes.",
+          "meta": "♥ 403 · 0 downloads"
+        },
+        {
+          "title": "bytedance-research/Lance",
+          "url": "https://huggingface.co/bytedance-research/Lance",
+          "summary": "Developed by ByteDance, Lance is a multi-modal (any-to-any) model that can simultaneously process different types of data such as text, images and audio. This architecture offers flexible interaction in cross-modal tasks by providing direct conversion between different modalities.",
+          "meta": "♥ 979 · 2,856 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

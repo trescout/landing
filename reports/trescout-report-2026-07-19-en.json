@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-19",
+  "editorial": "Today, there is a movement focusing on developer tools and artificial intelligence engineering (AI engineering) practices. Projects that automate open source data analytics and code review processes on GitHub are gaining popularity.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "Lingbot-map is a feed-forward foundation model developed for scene reconstruction from streaming data. It provides a solution for modeling three-dimensional environments with real-time streaming data.",
+          "meta": "Python · ★ 13,120 · +831 today"
+        },
+        {
+          "title": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "summary": "Apache Ossie is an initiative that aims to standardize the exchange of semantic metadata between analytics, artificial intelligence and business intelligence (BI) platforms. This project aims to create a vendor-independent, single source of truth for semantic data.",
+          "meta": "Python · ★ 1,318 · +47 today"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog combines tools such as AI observability, session recording and bug tracking on a single platform to optimize product development processes. Thanks to these tools, developers can manage autonomous product workflows by analyzing user data.",
+          "meta": "Python · ★ 36,675 · +338 today"
+        },
+        {
+          "title": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "summary": "Developed for design engineers, ui-skills brings together the technical skills and competencies needed in user interface (UI) development processes. This TypeScript-based resource presents interface-focused software development standards and methodologies with a structured curriculum.",
+          "meta": "TypeScript · ★ 5,166 · +123 today"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Prepared for those who want to enter the field of artificial intelligence engineering (AI engineering), this resource aims to teach end-to-end application development processes using Python. This study, which puts theoretical knowledge into practice, covers the design and deployment of artificial intelligence-based software.",
+          "meta": "Python · ★ 39,221 · +191 today"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph creates a local map of the code base, providing a code intelligence graph that ensures that AI-powered software tools process only relevant sections. This method increases efficiency by providing context reduction in workflows and code review processes in large projects.",
+          "meta": "Python · ★ 20,303 · +355 today"
+        },
+        {
+          "title": "elder-plinius/G0DM0D3",
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "summary": "G0DM0D3 is a liberated AI chat interface that aims to bypass the security layers of large language models. Developed with TypeScript, this open source project allows users to interact with models without restrictions.",
+          "meta": "TypeScript · ★ 9,570 · +69 today"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM allows large language models with 70 billion parameters to be run with only 4 gigabytes of video card memory (VRAM). This library enables high-capacity models to infer on low-end systems by using memory optimization techniques.",
+          "meta": "Jupyter Notebook · ★ 23,415 · +161 today"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo is a tool that provides local-first search, data extraction and crawling capabilities for artificial intelligence coding agents. This system, which works over the model context protocol (MCP), provides free research without cloud dependency and without requiring an API key.",
+          "meta": "TypeScript · ★ 1,365 · +203 today"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X is a resource list that aims to improve programming skills by coding popular software technologies from scratch. Developers learn the working logic of complex systems such as databases or operating systems through hands-on projects.",
+          "meta": "Markdown · ★ 528,427 · +1,126 today"
+        },
+        {
+          "title": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "summary": "Developed by Moonshot AI, Kimi CLI is an artificial intelligence agent that works via a command line interface (CLI). This Python-based tool is designed to automate command line interactions in software development processes.",
+          "meta": "Python · ★ 9,577 · +65 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LG monitors silently install software through Windows Update without consent",
+          "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+          "summary": "LG monitors install software in the background via Windows Update without user approval. This brings up security and user control discussions regarding the inclusion of additional applications in the system as well as hardware drivers.",
+          "meta": "1,083 points · 549 comments"
+        },
+        {
+          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "summary": "Artificial intelligence models have solved a mathematical problem that has not been solved for thirty years in the field of convex optimization with the help of a simple command. This development demonstrates the capacity of large language models to make logical inferences from complex mathematical proofs.",
+          "meta": "541 points · 345 comments"
+        },
+        {
+          "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+          "summary": "Mayor Mamdani introduced a regulation banning landlords from secretly using AI-generated images in rental property listings. This application aims to increase visual transparency in housing advertisements and prevent digital manipulation.",
+          "meta": "396 points · 176 comments"
+        },
+        {
+          "title": "Speech Recognition and TTS in less than 500kb",
+          "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+          "summary": "The Moonshine project offers speech recognition and text-to-speech models with a size of less than 500 kilobytes. These lightweight frameworks enable native language processing capabilities on systems with limited hardware resources.",
+          "meta": "387 points · 40 comments"
+        },
+        {
+          "title": "If You Build It, They Will Come",
+          "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+          "summary": "It is argued that creating a user base in software projects is directly related to marketing and community interaction rather than the technical quality of the product. It is emphasized that developers should focus on user acquisition strategies rather than a product-oriented approach.",
+          "meta": "351 points · 126 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Developed by Thinking Machines, Inkling is a multimodal model that produces text-based outputs by accepting visual and textual data as input. The system supports content production processes by analyzing the interaction between image and text.",
+          "meta": "♥ 1,078 · 12,456 downloads"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B-gguf is a language model optimized for text generation and minified with low-bit quantization techniques. This model supports high-performance inference processes by using hardware resources efficiently.",
+          "meta": "♥ 750 · 301,893 downloads"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B, developed by Prism-ml, is a language model optimized for text generation tasks. The model is presented in quantized GGUF format to provide high-performance inference.",
+          "meta": "♥ 452 · 1,218,815 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, published by Zai-org, is a language model optimized for text-generation tasks. This model, which receives high interaction on the HuggingFace platform, is used in extensive text creation processes.",
+          "meta": "♥ 4,134 · 541,662 downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M is an artificial intelligence model that produces text output (image-text-to-text) by processing visual and text data. This model, presented in GGUF format, provides the opportunity to analyze different data types with high context window support.",
+          "meta": "♥ 2,319 · 2,112,869 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "scene reconstruction",
+      "explanation": "The process of creating a three-dimensional digital copy of a physical environment based on photographic or video images."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Huge artificial intelligence models that can be trained with very large data sets and used as the basis for many different tasks."
+    },
+    {
+      "term": "BI",
+      "explanation": "It is a set of methods that enable companies to make more accurate and faster business decisions by analyzing the raw data they have."
+    },
+    {
+      "term": "semantic metadata",
+      "explanation": "Descriptive information that explains what data means and how it relates to other data."
+    },
+    {
+      "term": "single source of truth",
+      "explanation": "The principle of preventing confusion by managing all data in an institution from a single reliable point."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "The process of constantly monitoring how artificial intelligence systems work, why they make those decisions, and whether they make mistakes."
+    },
+    {
+      "term": "UI",
+      "explanation": "Buttons, menus, and screen designs through which a user interacts with a software or device."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "The engineering of taking AI models and running them efficiently and safely in real-world applications."
+    },
+    {
+      "term": "deployment",
+      "explanation": "Transferring a prepared software or model to a live environment where users can access it."
+    },
+    {
+      "term": "code intelligence graph",
+      "explanation": "A structure that guides developers by mapping complex relationships and connections between software codes."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "Ensuring that artificial intelligence is cleared of unnecessary information and focuses only on the most important data while performing operations."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "VRAM",
+      "explanation": "A special memory area that the graphics card uses temporarily during image processing and artificial intelligence calculations."
+    },
+    {
+      "term": "inference",
+      "explanation": "The phase of a trained artificial intelligence model making predictions or producing results with new data given to it."
+    },
+    {
+      "term": "local-first",
+      "explanation": "A software approach that prioritizes storing and processing data directly in the device's own memory without the need for the Internet."
+    },
+    {
+      "term": "MCP",
+      "explanation": "A bridge protocol that allows AI models to connect to different data sources and tools in a standard way."
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "date": "2026-07-30",
+  "editorial": "Geospatial processing libraries and voice-based interaction models have become central to developer-focused tools in the open source world. Particularly speech-to-speech translation technologies and end-to-end asset management software stand out with high interaction rates on GitHub.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "summary": "GeoLibre is a lightweight, cloud-based geographic information system (GIS) platform for visualizing, exploring and analyzing geographic data. Written in TypeScript, this tool can run on web browsers, desktop, mobile devices and Jupyter notebooks.",
+          "meta": "TypeScript · ★ 4,236 · +671 today"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi is an artificial intelligence-based virtual character (waifu) platform with real-time voice chat and game playing capabilities that users can host on their own servers. This project, developed with the TypeScript language, aims to run interactive digital assets similar to Neuro-sama on local systems.",
+          "meta": "TypeScript · ★ 45,549 · +682 today"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC is a performance framework that optimizes skills, instincts, memory and security layers for artificial intelligence agents. It is designed to improve agent-based workflows in development tools such as Claude Code and Cursor.",
+          "meta": "JavaScript · ★ 235,779 · +857 today"
+        },
+        {
+          "title": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "summary": "The speech-to-speech library developed by Hugging Face allows creating local voice agents using open source models. With this toolset, developers can run speech-to-speech interaction systems on their own hardware.",
+          "meta": "Python · ★ 8,047 · +827 today"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Developed with the Rust language, jcode offers a working environment that minimizes memory usage. The software optimizes high-performance code execution processes by using system resources efficiently.",
+          "meta": "Rust · ★ 13,624 · +640 today"
+        },
+        {
+          "title": "grokability/snipe-it",
+          "url": "https://github.com/grokability/snipe-it",
+          "summary": "Snipe-IT is an open source management system for tracking information technology assets and software licenses. This platform, developed with PHP language, allows institutions to organize inventory records and usage cycles in a digital environment.",
+          "meta": "PHP · ★ 14,536 · +164 today"
+        },
+        {
+          "title": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "summary": "Python-based Faceswap is an open source software that allows replacing faces in images using deepfake technology. It allows users to perform face swapping operations on videos and images.",
+          "meta": "Python · ★ 56,487 · +166 today"
+        },
+        {
+          "title": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "summary": "Developed by Microsoft, VibeVoice is offered as an open source frontier voice AI model. This Python-based project aims to provide high-performance and accessible solutions in audio processing processes.",
+          "meta": "Python · ★ 51,459 · +336 today"
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork is a software project developed as an open source alternative to the Claude Cowork platform and uses the opencode infrastructure. This tool, written in TypeScript language, offers an artificial intelligence-supported working environment that aims to automate software development processes.",
+          "meta": "TypeScript · ★ 18,143 · +97 today"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers offers an agent skills framework that integrates with software development methodologies. This tool develops a standardized method for automating software processes.",
+          "meta": "Shell · ★ 263,489 · +616 today"
+        },
+        {
+          "title": "MoonshotAI/FlashKDA",
+          "url": "https://github.com/MoonshotAI/FlashKDA",
+          "summary": "Developed by Moonshot AI, FlashKDA offers high-performance kernels for the Some Delta Attention mechanism. This CUDA-based technology aims to accelerate attention calculations in large language models.",
+          "meta": "Cuda · ★ 1,043 · +91 today"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler is a web scraping tool developed to collect video, post and comment data on popular Chinese social media platforms. This Python-based software automates data extraction processes from channels such as Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Baidu Tieba and Zhihu.",
+          "meta": "Python · ★ 59,242 · +154 today"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Developed by Alibaba, Open-code-review is a hybrid code review tool that combines deterministic pipelines and large language model (LLM) agents. The system, which can make line-level comments in software development processes, uses a pre-trained ruleset (fine-tuned ruleset) to detect security vulnerabilities.",
+          "meta": "Go · ★ 16,204 · +359 today"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "This list, which brings together libraries, strategies and educational resources in the field of systematic trading, supports Python-based financial modeling processes. It offers a comprehensive reference for users who want to enter the world of algorithmic trading or improve existing strategies.",
+          "meta": "Python · ★ 10,533 · +945 today"
+        },
+        {
+          "title": "maderix/ANE",
+          "url": "https://github.com/maderix/ANE",
+          "summary": "Developed by Maderix, ANE allows neural network training to be performed on the Apple Neural Engine through private application programming interfaces (private APIs) obtained by reverse engineering. This study makes it possible to directly use Apple hardware in artificial intelligence model training processes.",
+          "meta": "Objective-C · ★ 7,185 · +22 today"
+        },
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "The editor developed by Pascalorg allows users to create and share three-dimensional architectural projects. This platform, written in TypeScript language, brings architectural design processes to a browser-based working environment.",
+          "meta": "TypeScript · ★ 19,731 · +1,022 today"
+        },
+        {
+          "title": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "summary": "The book-to-skill project turns technical books into usable skill packs (skills) for the AI-powered coding assistant Claude Code. This tool turns the book content into a referenceable and applicable source of information throughout the study process.",
+          "meta": "Python · ★ 13,106 · +1,421 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+          "url": "https://github.com/drumih/turbo-fieldfare",
+          "summary": "TurboFieldfare is an inference engine that allows the Gemma 4 26B model to run on Apple M-series processors using 4-bit quantization, consuming only 2 GB of memory. Developed with Swift and Metal languages, this tool aims to optimize on-device AI performance.",
+          "meta": "727 points · 252 comments"
+        },
+        {
+          "title": "Superlogical",
+          "url": "https://www.superlogical.com/",
+          "summary": "Superlogical is a logic programming tool designed to manage complex logical systems and rules. It allows developers to define data structures and business rules with a declarative approach.",
+          "meta": "616 points · 385 comments"
+        },
+        {
+          "title": "The coolest use for the Vision Pro",
+          "url": "https://christianselig.com/2026/07/vision-pro-house/",
+          "summary": "Apple Vision Pro users visualize the smart devices in their homes in the physical environment by using the device's spatial computing capabilities. This method makes home automation directly interactive through virtual interfaces placed on objects.",
+          "meta": "541 points · 225 comments"
+        },
+        {
+          "title": "Kimi K3-256k",
+          "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+          "summary": "Developed by Moonshot AI, Kimi K3-256k focuses on coding and software development processes with a long context window of 256 thousand tokens. The model offers the capacity to analyze long code bases and produce solutions to complex programming tasks with high accuracy.",
+          "meta": "399 points · 116 comments"
+        },
+        {
+          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+          "summary": "The technical report shared by Hugging Face chronologically examines the agent intrusion incident against a frontier lab in 2026. The report analyzes the vulnerabilities of autonomous systems and the technical functioning of such attacks, providing data for defense strategies.",
+          "meta": "345 points · 199 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, developed by Moonshot AI, is a multimodal artificial intelligence model that produces text output by processing visual and textual inputs. The model offers the ability to perform complex tasks by analyzing image and text data in an integrated structure.",
+          "meta": "♥ 8,745 · 99,214 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is an image-to-text model that produces text output by processing image-based texts. Designed to digitize data in complex documents, this model manages optical character recognition processes end-to-end.",
+          "meta": "♥ 3,526 · 2,694,935 downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "This model, based on Qwen3.6-27B, offers an image-text-to-text structure that produces text output by processing visual and text inputs. The model, configured as uncensored, is a customized version created by combining different data sets (model merging).",
+          "meta": "♥ 964 · 736,692 downloads"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Laguna-S-2.1, developed by Poolside, is a language model focused on text-generation. The model is designed to be used in wide-ranging content creation processes.",
+          "meta": "♥ 831 · 67,286 downloads"
+        },
+        {
+          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "summary": "KAT-Coder-V2.5-Dev, developed by Kwaipilot, is a language model focused on text-generation. The model, designed to support software development processes, is used in code writing and technical text creation tasks.",
+          "meta": "♥ 323 · 6,275 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "GIS",
+      "explanation": "A digital system that allows you to collect geographical data around the world and analyze it on maps."
+    },
+    {
+      "term": "Jupyter notebooks",
+      "explanation": "An interactive working environment where you can add explanatory notes while writing code and see the results instantly."
+    },
+    {
+      "term": "waifu",
+      "explanation": "The name given to fictional characters, usually expressing admiration for anime or game characters."
+    },
+    {
+      "term": "framework",
+      "explanation": "The basic structure that provides a set of ready-made tools and rules that makes your job easier when developing software."
+    },
+    {
+      "term": "voice agents",
+      "explanation": "Digital assistants that communicate with you by voice and answer your questions or perform tasks."
+    },
+    {
+      "term": "speech-to-speech",
+      "explanation": "Technology that instantly converts spoken speech in one language into voice in another language."
+    },
+    {
+      "term": "harness",
+      "explanation": "Taking control of a complex power or data and making it ready for use for a specific purpose."
+    },
+    {
+      "term": "deepfake",
+      "explanation": "Using artificial intelligence to adapt one person's image or voice to another person in a way that is indistinguishable from the real thing."
+    },
+    {
+      "term": "face swapping",
+      "explanation": "Digitally replacing a face in a photo or video with another person's face."
+    },
+    {
+      "term": "frontier voice AI",
+      "explanation": "The most advanced voice artificial intelligence technologies that can speak naturally and emotionally like a human."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "A set of capabilities that enable artificial intelligence to make decisions on its own and complete complex tasks."
+    },
+    {
+      "term": "kernels",
+      "explanation": "The most basic core part of the operating system that manages the communication between the computer's hardware and software."
+    },
+    {
+      "term": "attention",
+      "explanation": "A mechanism that allows artificial intelligence to better grasp the meaning by focusing on important words in a text."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "The process of collecting and recording data on websites using automated tools."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "A series of successive steps in the process of taking data from one point, processing it and moving it to another point."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    }
+  ]
+}
