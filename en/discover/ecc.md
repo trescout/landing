@@ -1,9 +1,29 @@
-# ECC
+# Empower Your AI Agents
 
-> Add a layer of skill, memory and security to AI agents like Claude Code, Codex and Cursor.
+ECC; Claude Code is a comprehensive system that brings skills, instincts, memory optimization and security scanning to AI coding tools such as Codex, Cursor and OpenCode. Instead of individual configuration files, it offers a ready-made layer that enables the agent to work with a more consistent, secure and search-first logic.
 
-**Source:** GitHub  
-**Stars:** 236779
+- ★ 236,779
+- JavaScript
+- MIT
+- GitHub Trending · 26 May 2026
+
+## Update
+- August 1, 2026: Star 194,032 → 236,779, latest version v2.1.0 (July 27, 2026).
+
+## What you get
+- The agent works more consistently thanks to ready-made sets of skills and instincts.
+- It prevents loss of focus during long-term tasks with memory and context management.
+- It detects risky steps in advance with its security scanning (agentshield) feature.
+- It is not limited to a single tool, it works compatible with multiple environments (Claude Code, Codex, Cursor…).
+
+## Getting started
+You can install it as an npm package (ecc-universal) or as a GitHub application. All the steps are in the installation section of the repository. Once installed, your agent begins using TreScout's layer of capabilities and security.
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/ecc/

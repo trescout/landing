@@ -1,9 +1,35 @@
-# Last30days Skill
+# AI Supported Summary of the Last 30 Days
 
-> Last30days-skill obtains current data by researching on platforms such as Reddit, X, YouTube, Hacker News and Polymarket.
+Last30days-skill offers an artificial intelligence skill (AI agent skill) that synthesizes current data by researching on platforms such as Reddit, X, YouTube, Hacker News and Polymarket. This Python-based tool combines information from different sources to create verifiable summaries for users.
 
-**Source:** GitHub  
-**Stars:** 56777
+- ★ 56,777
+- Python
+- GitHub Trending · 2026-06-05
+
+## Update
+- August 2, 2026: Star 27,863 → 56,777, latest version v3.18.4 (July 28, 2026).
+
+## What you get
+- It synthesizes current data from platforms such as Reddit, X, YouTube and Polymarket.
+- It delivers verifiable summaries based on social interaction and real-time data.
+- It allows users to access current developments on multiple platforms with a single search.
+
+## Installation
+**General Setup**
+
+```
+npx skills add mvanhorn/last30days-skill -g
+```
+
+
+## If you don't write code
+You are an artificial intelligence agent. Use the last30days-skill tool to scan Reddit, X, YouTube, Hacker News and Polymarket data about [SEARCH TOPIC OR PERSON] for the last 30 days. Synthesize interactions, real-time data, and community insights from these sources to provide me with a concise, concrete, and verifiable summary.
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/last30days-skill/

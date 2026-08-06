@@ -1,9 +1,29 @@
-# FreeDomain
+# Get a Free Domain Name
 
-> Free domain names where you can set up your web identity at no cost.
+FreeDomain offers free domain name service so anyone can have a digital identity. You can register a unique address and manage it with the DNS provider of your choice, such as Cloudflare. Reduce the cost of your web presence to zero.
 
-**Source:** GitHub  
-**Stars:** 190061
+- ★ 190,061
+- HTML
+- AGPL-3.0
+- GitHub Trending · 26 May 2026
+
+## Update
+- August 2, 2026: Star 166,947 → 190,061.
+
+## What you get
+- A free and unique domain name.
+- Full compatibility with your own DNS provider (Cloudflare etc.).
+- Individual or corporate use option.
+- It eliminates the cost of being visible on the web.
+
+## How to get it?
+You apply with the directive in the repo: you select the domain, connect it to your DNS. Step-by-step guide is on the GitHub page.
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/free-domain/

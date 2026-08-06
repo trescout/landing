@@ -74,3 +74,38 @@
       p { font-size: 16px; }
     }
   
+
+/* İçerik merkezleri · 404'ten çıkış kapıları (anasayfa tek seçenek kalmasın) */
+.hubs {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 22px;
+}
+.hubs a {
+  font-size: 14px;
+  color: var(--ink-muted, #A8C0D0);
+  text-decoration: none;
+  padding: 7px 14px;
+  border: 1px solid rgba(95, 168, 211, 0.28);
+  border-radius: 999px;
+  transition: color .15s, border-color .15s, background .15s;
+}
+.hubs a:hover,
+.hubs a:focus-visible {
+  color: #F4D35E;
+  border-color: rgba(244, 211, 94, .55);
+  background: rgba(244, 211, 94, .08);
+  outline: none;
+}
+/* İngilizce ziyaretçi · Vercel tek 404 sayfası sunuyor, sayfa iki dilli olsun */
+.en-note {
+  margin-top: 26px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--ink-muted, #A8C0D0);
+  opacity: .85;
+}
+.en-note a { color: inherit; border-bottom: 1px solid rgba(244, 211, 94, .4); text-decoration: none; }
+.en-note a:hover, .en-note a:focus-visible { color: #F4D35E; border-bottom-color: #F4D35E; outline: none; }

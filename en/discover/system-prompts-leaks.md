@@ -1,9 +1,28 @@
-# System Prompts Leaks
+# Secret instructions of artificial intelligence models
 
-> The system_prompts_leaks repository shared on GitHub is from major technology companies such as Anthropic, OpenAI, Google and xAI.
+The system_prompts_leaks repository shared on GitHub brings together system prompts of artificial intelligence models of major technology companies such as Anthropic, OpenAI, Google and xAI. This collection provides a central resource for developers who want to examine the background configuration instructions and constraints of popular language models.
 
-**Source:** GitHub  
-**Stars:** 61968
+- ★ 61,968
+- JavaScript
+- GitHub Trending · 2026-06-22
+
+## Update
+- August 2, 2026: Star 44,809 → 61,968.
+
+## What you get
+- Opportunity to examine background configurations of popular artificial intelligence models
+- See the restrictions of models like Claude, ChatGPT and Gemini
+- Access to system prompts given by technology companies to their models
+
+## Getting started
+- Official source →
+This tool does not require a software installation. By going to the System Prompts Leaks repository on GitHub, you can click on the folder of the artificial intelligence model or company you want to examine and read the relevant system prompt files directly from your browser.
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/system-prompts-leaks/

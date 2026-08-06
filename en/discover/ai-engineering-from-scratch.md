@@ -1,9 +1,29 @@
-# AI Engineering from Scratch
+# Artificial Intelligence Engineering Training from Scratch
 
-> A free 485-lesson course that teaches artificial intelligence engineering from scratch with applied coding.
+Introduction to artificial intelligence engineering from scratch: 485 lessons, 20 phases and approximately 320 hours of content. He teaches every algorithm, from linear algebra to autonomous agents, first with mathematics and then by writing code by hand. This course, which covers Python, TypeScript, Rust and Julia languages, is completely free and open source.
 
-**Source:** GitHub  
-**Stars:** 45404
+- ★ 45,404
+- Python
+- MIT
+- GitHub Trending · 26 May 2026
+
+## Update
+- August 1, 2026: Star 20,435 → 45,404, last version v2026.07 (July 25, 2026).
+
+## What do you learn?
+- You set up the basics such as backprop, tokenizer and attention manually, starting with the math.
+- You develop end-to-end, from the agent loop to the MCP server.
+- Each lesson leaves a reusable output: a prompt, an ability, or an agent.
+- When you use PyTorch, you already know what's going on behind the scenes.
+
+## How does it work?
+Each lesson follows the same cycle: analyze the problem, do the math, write the code, run the test, and store the output. There are no five-minute videos or copy-paste deployment processes. Everything runs on your own computer.
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/ai-engineering-from-scratch/

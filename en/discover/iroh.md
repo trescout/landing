@@ -1,9 +1,48 @@
-# Iroh
+# Switch-based flexible network connections
 
-> Iroh is a modular system that makes network connections more flexible by using key-based addressing instead of IP addresses.
+Iroh is a modular networking stack that makes network connections more flexible by using key-based addressing instead of IP addresses. Developed with the Rust language, this tool provides an infrastructure that is resistant to network interruptions and provides direct data transfer.
 
-**Source:** GitHub  
-**Stars:** 11957
+- ★ 11,957
+- GitHub Trending · 2026-06-17
+
+## Update
+- August 2, 2026: Star 9,418 → 11,957, latest version v1.0.3 (July 20, 2026).
+
+## What you get
+- Connecting via public key instead of IP addresses
+- Automatic hole-punching for direct data transfer
+- QUIC-based secure and encrypted communication
+
+## Installation
+**With Cargo (add to Rust project)**
+
+```
+cargo add iroh
+```
+
+**Install iroh CLI tool**
+
+```
+cargo install iroh
+```
+
+
+## Running it
+**Show node ID (CLI)**
+
+```
+iroh node id
+```
+
+
+## If you don't write code
+I want to set up a switch-based network connection using the Iroh library. Can you create a basic example code structure that shows how I can create an endpoint in Rust, connect to another endpoint via public key, and initiate secure data flow with the QUIC protocol?
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/iroh/

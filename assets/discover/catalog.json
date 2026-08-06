@@ -3550,7 +3550,14 @@
         "surum_tarihi": "2026-06-26"
       }
     ],
-    "tagline_en": "Microsoft PowerToys is a utility developed to increase efficiency and personalization in the Windows operating system."
+    "tagline_en": "Microsoft PowerToys is a utility developed to increase efficiency and personalization in the Windows operating system.",
+    "shot": {
+      "src": "/assets/discover/shots/powertoys.webp",
+      "w": 1280,
+      "h": 440,
+      "alt": "PowerToys araç paketinin tanıtım görseli · pencere düzenleme ve arama araçları",
+      "credit": "Kaynak: github.com/microsoft/PowerToys · MIT"
+    }
   },
   {
     "slug": "aisuite",
@@ -3851,8 +3858,6 @@
       }
     ],
     "tagline_en": "Developed for Tesla vehicle owners, Teslamate is a data logger that allows you to host data on your own server.",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "cmds": {
       "kurulum": [
         {
@@ -3983,7 +3988,14 @@
         "surum_tarihi": "2026-07-11"
       }
     ],
-    "tagline_en": "Win11Debloat allows you to uninstall pre-installed apps and disable telemetry data on Windows 10 and 11 operating systems."
+    "tagline_en": "Win11Debloat allows you to uninstall pre-installed apps and disable telemetry data on Windows 10 and 11 operating systems.",
+    "shot": {
+      "src": "/assets/discover/shots/win11debloat.webp",
+      "w": 1280,
+      "h": 888,
+      "alt": "Win11Debloat betiğinin komut satırı menüsü · kaldırılacak uygulamaların seçildiği ekran",
+      "credit": "Kaynak: github.com/Raphire/Win11Debloat · MIT"
+    }
   },
   {
     "slug": "self-hosting-guide",
@@ -4246,8 +4258,6 @@
       }
     ],
     "tagline_en": "Rocket.Chat is a secure communications operating system designed for mission-critical operations.",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "cmds": {
       "kurulum": [
         {
@@ -4313,7 +4323,14 @@
         "surum_tarihi": "2026-06-19"
       }
     ],
-    "tagline_en": "Continue is an open source coding agent designed to automate software development processes."
+    "tagline_en": "Continue is an open source coding agent designed to automate software development processes.",
+    "shot": {
+      "src": "/assets/discover/shots/continue.webp",
+      "w": 1280,
+      "h": 320,
+      "alt": "Continue eklentisinin kod düzenleyici içindeki sohbet ve tamamlama arayüzü",
+      "credit": "Kaynak: github.com/continuedev/continue · Apache-2.0"
+    }
   },
   {
     "slug": "penpot",
@@ -4340,8 +4357,6 @@
       }
     ],
     "tagline_en": "Penpot is an open source design tool that strengthens collaboration between designers and developers.",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "cmds": {
       "kurulum": [
         {
@@ -4510,8 +4525,6 @@
     "stars": 55364,
     "lite": false,
     "headline": "Açık kaynaklı proje yönetim platformu",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -4522,7 +4535,26 @@
         "surum_tarihi": "2026-07-31"
       }
     ],
-    "tagline_en": "Plane is an open source project management tool that combines task management, sprint planning and documentation processes."
+    "tagline_en": "Plane is an open source project management tool that combines task management, sprint planning and documentation processes.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Kurulum betiğini indir",
+          "komut": "curl -fsSL -o setup.sh https://github.com/makeplane/plane/releases/latest/download/setup.sh"
+        },
+        {
+          "baslik": "Çalıştırılabilir yap",
+          "komut": "chmod +x setup.sh"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Kurulumu başlat (menüden 2)",
+          "komut": "./setup.sh"
+        }
+      ],
+      "kaynak": "Plane self-hosting kılavuzu · developers.plane.so"
+    }
   },
   {
     "slug": "glm-5",
@@ -4634,8 +4666,6 @@
       }
     ],
     "tagline_en": "Insomnia is an open source application programming interface that supports GraphQL, REST, WebSockets, SSE and gRPC protocols.",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "cmds": {
       "kurulum": [
         {
@@ -5476,8 +5506,6 @@
     "stars": 178068,
     "lite": false,
     "headline": "Tek kodla çoklu platform uygulaması",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -5523,8 +5551,6 @@
     "stars": 1484,
     "lite": false,
     "headline": "Tabletinizi Android Auto ekranına dönüştürün",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "tagline_en": "The headunit-revived project provides an application that allows viewing the Android Auto interface on different screens."
   },
   {
@@ -5623,8 +5649,6 @@
     "stars": 31660,
     "lite": false,
     "headline": "Kısıtlı platformlara erişim sağlayan araç",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -5909,8 +5933,6 @@
     "stars": 63294,
     "lite": false,
     "headline": "Araçlar için açık kaynaklı yapay zekâ",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -5937,8 +5959,6 @@
     "stars": 76114,
     "lite": false,
     "headline": "Verilerinizi tek arayüzde görselleştirin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -6076,8 +6096,6 @@
     "stars": 13561,
     "lite": false,
     "headline": "Veri ambarında standartlaştırılmış dönüşüm süreçleri",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -6088,7 +6106,22 @@
         "surum_tarihi": "2026-07-16"
       }
     ],
-    "tagline_en": "The data transformation tool (dbt-core) enables data analysts and engineers to use software development processes in similar ways."
+    "tagline_en": "The data transformation tool (dbt-core) enables data analysts and engineers to use software development processes in similar ways.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install dbt-core"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Proje çalıştır",
+          "komut": "dbt run"
+        }
+      ],
+      "kaynak": "PyPI · dbt-core"
+    }
   },
   {
     "slug": "opencode",
@@ -6179,8 +6212,6 @@
     "stars": 36028,
     "lite": false,
     "headline": "Uygulamalarınız için merkezi kimlik yönetimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -6198,7 +6229,22 @@
         "surum_tarihi": "2026-08-05"
       }
     ],
-    "tagline_en": "Keycloak is an open source identity and access management solution for modern applications and services."
+    "tagline_en": "Keycloak is an open source identity and access management solution for modern applications and services.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Resmî imajı çek",
+          "komut": "docker pull quay.io/keycloak/keycloak"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Geliştirme kipinde başlat",
+          "komut": "docker run -p 8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak start-dev"
+        }
+      ],
+      "kaynak": "Keycloak resmî imaj deposu · quay.io/keycloak/keycloak"
+    }
   },
   {
     "slug": "lingbot-map",
@@ -6467,8 +6513,6 @@
     "stars": 10906,
     "lite": false,
     "headline": "Güçlü disk şifreleme aracı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -6479,7 +6523,16 @@
         "surum_tarihi": "2026-06-12"
       }
     ],
-    "tagline_en": "VeraCrypt is a disk encryption system that is based on TrueCrypt and offers strong security standards."
+    "tagline_en": "VeraCrypt is a disk encryption system that is based on TrueCrypt and offers strong security standards.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install --cask veracrypt"
+        }
+      ],
+      "kaynak": "Homebrew cask · veracrypt.io"
+    }
   },
   {
     "slug": "exercises-dataset",
@@ -6495,8 +6548,6 @@
     "stars": 18515,
     "lite": false,
     "headline": "Çok dilli fitness egzersiz veri seti",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -6555,10 +6606,23 @@
     "stars": 6161,
     "lite": false,
     "headline": "Hedef odaklı parola listesi oluşturma",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
-    "tagline_en": "Common User Passwords Profiler is a tool used to create targeted password lists."
+    "tagline_en": "Common User Passwords Profiler is a tool used to create targeted password lists.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Depoyu klonla",
+          "komut": "git clone --depth 1 https://github.com/Mebus/cupp.git && cd cupp"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Etkileşimli kipte çalıştır",
+          "komut": "python3 cupp.py -i"
+        }
+      ],
+      "kaynak": "Depo README'si"
+    }
   },
   {
     "slug": "agents-cli",
@@ -6744,8 +6808,6 @@
     "stars": 692,
     "lite": false,
     "headline": "Yapay zekâ destekli japonca giriş sistemi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -6773,8 +6835,6 @@
     "stars": 10828,
     "lite": false,
     "headline": "Yapay zekâ ajanları için güvenli çalışma ortamı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -6785,7 +6845,16 @@
         "surum_tarihi": "2026-07-24"
       }
     ],
-    "tagline_en": "Developed by TencentCloud in Rust, CubeSandbox is an instant, simultaneous and…"
+    "tagline_en": "Developed by TencentCloud in Rust, CubeSandbox is an instant, simultaneous and…",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install cubesandbox"
+        }
+      ],
+      "kaynak": "PyPI · cubesandbox"
+    }
   },
   {
     "slug": "caveman",
@@ -6862,8 +6931,6 @@
     "stars": 8589,
     "lite": false,
     "headline": "GitHub iş akışlarında depo kopyalama",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -6891,8 +6958,6 @@
     "stars": 23755,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına standart yetenekler kazandırın",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7049,8 +7114,6 @@
     "stars": 77787,
     "lite": false,
     "headline": "Büyük verilerde hızlı arama yapın",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7103,8 +7166,6 @@
     "stars": 70171,
     "lite": false,
     "headline": "BT sistemlerini otomatikleştiren platform",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7150,8 +7211,6 @@
     "stars": 11859,
     "lite": false,
     "headline": "Kendi oyun kütüphanenizi yönetin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7162,7 +7221,22 @@
         "surum_tarihi": "2026-07-29"
       }
     ],
-    "tagline_en": "Romm is designed to edit game files (ROM) and play directly through the browser, on your own server."
+    "tagline_en": "Romm is designed to edit game files (ROM) and play directly through the browser, on your own server.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Örnek compose dosyasını al",
+          "komut": "curl -o docker-compose.yml https://raw.githubusercontent.com/rommapp/romm/master/examples/docker-compose.example.yml"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Başlat",
+          "komut": "docker compose up -d"
+        }
+      ],
+      "kaynak": "Depodaki examples/docker-compose.example.yml"
+    }
   },
   {
     "slug": "maven",
@@ -7179,8 +7253,6 @@
     "stars": 5292,
     "lite": false,
     "headline": "Java projeleri için proje yönetimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7191,7 +7263,26 @@
         "surum_tarihi": "2026-07-13"
       }
     ],
-    "tagline_en": "Apache Maven is a project management and understanding tool that manages software creation processes in Java-based projects (build…"
+    "tagline_en": "Apache Maven is a project management and understanding tool that manages software creation processes in Java-based projects (build…",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install maven"
+        },
+        {
+          "baslik": "Docker imajı",
+          "komut": "docker pull maven"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Projeyi derle",
+          "komut": "mvn package"
+        }
+      ],
+      "kaynak": "Homebrew formülü (maven.apache.org) · Docker Hub resmî imajı"
+    }
   },
   {
     "slug": "supabase",
@@ -7208,8 +7299,6 @@
     "stars": 107399,
     "lite": false,
     "headline": "Açık kaynaklı Postgres geliştirme platformu",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7282,8 +7371,6 @@
     "stars": 109538,
     "lite": false,
     "headline": "Kendi fotoğraf ve video arşivinizi yönetin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7325,8 +7412,6 @@
     "stars": 1640,
     "lite": false,
     "headline": "Müzik deneyimini görselleştiren şarkı oynatıcı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7368,8 +7453,6 @@
     "stars": 13091,
     "lite": false,
     "headline": "Yapay zekâ ile unity yönetimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7598,8 +7681,6 @@
     "stars": 28017,
     "lite": false,
     "headline": "Kendi sunucunuzda dijital arşiv yönetimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7610,7 +7691,16 @@
         "surum_tarihi": "2026-08-01"
       }
     ],
-    "tagline_en": "Karakeep is a platform that collects links, notes and images in a single center and hosts them on your own server."
+    "tagline_en": "Karakeep is a platform that collects links, notes and images in a single center and hosts them on your own server.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Komut satırı aracı (Homebrew)",
+          "komut": "brew install karakeep"
+        }
+      ],
+      "kaynak": "Homebrew formülü · karakeep.app"
+    }
   },
   {
     "slug": "awesome",
@@ -7677,8 +7767,6 @@
     "stars": 4223,
     "lite": false,
     "headline": "Web sitelerini yerel diske indirin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "Developed by AhmadIbrahiim, Website-downloader downloads all the source codes and data of a website using Node.js."
   },
@@ -7831,8 +7919,6 @@
     "stars": 23853,
     "lite": false,
     "headline": "Kubernetes Dağıtımlarını Otomatize Edin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7850,7 +7936,26 @@
         "surum_tarihi": "2026-08-04"
       }
     ],
-    "tagline_en": "Argo CD is a tool that manages declarative continuous deployment processes for Kubernetes environments."
+    "tagline_en": "Argo CD is a tool that manages declarative continuous deployment processes for Kubernetes environments.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Namespace oluştur",
+          "komut": "kubectl create namespace argocd"
+        },
+        {
+          "baslik": "Resmî manifesti uygula",
+          "komut": "kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Arayüze eriş",
+          "komut": "kubectl port-forward svc/argocd-server -n argocd 8080:443"
+        }
+      ],
+      "kaynak": "Argo CD resmî manifesti (argoproj/argo-cd · stable)"
+    }
   },
   {
     "slug": "photogimp",
@@ -7946,8 +8051,6 @@
     "stars": 3324,
     "lite": false,
     "headline": "Unturned oyununu özelleştirin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -8101,8 +8204,6 @@
     "stars": 18043,
     "lite": false,
     "headline": "C++ standart kütüphanesini güçlendiren araçlar",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -8113,7 +8214,16 @@
         "surum_tarihi": "2026-06-01"
       }
     ],
-    "tagline_en": "Developed by Google, Abseil offers open source code snippets that complement the C++ standard library."
+    "tagline_en": "Developed by Google, Abseil offers open source code snippets that complement the C++ standard library.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install abseil"
+        }
+      ],
+      "kaynak": "Homebrew formülü · abseil.io"
+    }
   },
   {
     "slug": "yaml-cpp",
@@ -8129,8 +8239,6 @@
     "stars": 6113,
     "lite": false,
     "headline": "C++ projeleri için YAML yönetimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -8141,7 +8249,16 @@
         "surum_tarihi": "2026-02-04"
       }
     ],
-    "tagline_en": "yaml-cpp is a library for the C++ programming language that parses and emitters data in YAML format."
+    "tagline_en": "yaml-cpp is a library for the C++ programming language that parses and emitters data in YAML format.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install yaml-cpp"
+        }
+      ],
+      "kaynak": "Homebrew formülü"
+    }
   },
   {
     "slug": "typescript",
@@ -8157,8 +8274,6 @@
     "stars": 110042,
     "lite": false,
     "headline": "JavaScript projeleri için hata denetimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -8204,8 +8319,6 @@
     "stars": 21404,
     "lite": false,
     "headline": "C++ projeleri için birim test çatısı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -8216,7 +8329,16 @@
         "surum_tarihi": "2026-07-26"
       }
     ],
-    "tagline_en": "Catch2 is a modern unit testing framework that supports C++14 and later."
+    "tagline_en": "Catch2 is a modern unit testing framework that supports C++14 and later.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install catch2"
+        }
+      ],
+      "kaynak": "Homebrew formülü"
+    }
   },
   {
     "slug": "asio",
@@ -8232,10 +8354,17 @@
     "stars": 6090,
     "lite": false,
     "headline": "Eşzamansız ağ programlama kütüphanesi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
-    "tagline_en": "Asio is a C++ library developed for asynchronous I/O operations."
+    "tagline_en": "Asio is a C++ library developed for asynchronous I/O operations.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install asio"
+        }
+      ],
+      "kaynak": "Homebrew formülü"
+    }
   },
   {
     "slug": "claude-code-templates",
@@ -8370,8 +8499,6 @@
     "stars": 49375,
     "lite": false,
     "headline": "Altyapınızı kod ile yönetin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -8382,7 +8509,30 @@
         "surum_tarihi": "2026-07-08"
       }
     ],
-    "tagline_en": "Developed by HashiCorp, Terraform defines the infrastructure as code, providing a secure and…"
+    "tagline_en": "Developed by HashiCorp, Terraform defines the infrastructure as code, providing a secure and…",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "HashiCorp tap'ini ekle",
+          "komut": "brew tap hashicorp/tap"
+        },
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install hashicorp/tap/terraform"
+        },
+        {
+          "baslik": "Docker imajı",
+          "komut": "docker pull hashicorp/terraform"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Sürümü doğrula",
+          "komut": "terraform -version"
+        }
+      ],
+      "kaynak": "HashiCorp resmî Homebrew tap'i · Docker Hub hashicorp/terraform"
+    }
   },
   {
     "slug": "grpc",
@@ -8398,8 +8548,6 @@
     "stars": 45240,
     "lite": false,
     "headline": "Farklı diller arası hızlı iletişim",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -8410,7 +8558,16 @@
         "surum_tarihi": "2026-07-22"
       }
     ],
-    "tagline_en": "gRPC is an open source remote procedure call that provides high-performance communication between different programming languages."
+    "tagline_en": "gRPC is an open source remote procedure call that provides high-performance communication between different programming languages.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install grpc"
+        }
+      ],
+      "kaynak": "Homebrew formülü"
+    }
   },
   {
     "slug": "next-js",
@@ -8426,8 +8583,6 @@
     "stars": 141328,
     "lite": false,
     "headline": "React ile hızlı web uygulamaları geliştirin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -8476,8 +8631,6 @@
     "stars": 89760,
     "lite": false,
     "headline": "Yerel kontrollü ev otomasyonu platformu",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -8752,8 +8905,6 @@
     "stars": 14159,
     "lite": false,
     "headline": "Wand uygulaması için arayüz özelleştirme",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -8840,8 +8991,6 @@
     "stars": 1379,
     "lite": false,
     "headline": "Deneysel PlayStation 5 öykünücü projesi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "tagline_en": "Sharpemu is an experimental PlayStation 5 emulator project developed in C# language."
   },
   {
@@ -9040,8 +9189,6 @@
     "stars": 7220,
     "lite": false,
     "headline": "Yapay zekâ ve mühendislik için kapsamlı rehber",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -9127,8 +9274,6 @@
     "stars": 1612,
     "lite": false,
     "headline": "Grand Theft Auto 5 için deneysel mod menüsü",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -9156,8 +9301,6 @@
     "stars": 997,
     "lite": false,
     "headline": "Veri platformları için ortak anlamsal standart",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "Apache Ossie enables semantic metadata exchange between analytics, artificial intelligence and business intelligence (BI) platforms."
   },
@@ -9228,8 +9371,6 @@
     "stars": 81117,
     "lite": false,
     "headline": "Yapay zekâ ajanları ile operasyon yönetimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -9240,7 +9381,26 @@
         "surum_tarihi": "2026-08-01"
       }
     ],
-    "tagline_en": "LobeHub is an artificial intelligence system that works 24/7 by managing AI agents through recruitment, scheduling and reporting processes."
+    "tagline_en": "LobeHub is an artificial intelligence system that works 24/7 by managing AI agents through recruitment, scheduling and reporting processes.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS masaüstü (Homebrew)",
+          "komut": "brew install --cask lobehub"
+        },
+        {
+          "baslik": "Docker imajı",
+          "komut": "docker pull lobehub/lobehub"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Docker ile başlat",
+          "komut": "docker compose up -d"
+        }
+      ],
+      "kaynak": "Homebrew cask · Docker Hub lobehub/lobehub"
+    }
   },
   {
     "slug": "ui-skills",
@@ -9300,8 +9460,6 @@
     "stars": 1632,
     "lite": false,
     "headline": "Yapay zekâ ajanları için uygulamalı atölye",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "These workshops shared by Anthropic provide developers with computer use skills."
   },
@@ -9319,8 +9477,6 @@
     "stars": 71674,
     "lite": false,
     "headline": "Veri değişiminde hızlı ve yapılandırılmış format",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -9331,7 +9487,22 @@
         "surum_tarihi": "2026-06-11"
       }
     ],
-    "tagline_en": "Protocol buffers developed by Google are used to serialize structured data."
+    "tagline_en": "Protocol buffers developed by Google are used to serialize structured data.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install protobuf"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Şema derle",
+          "komut": "protoc --cpp_out=. dosya.proto"
+        }
+      ],
+      "kaynak": "Homebrew formülü"
+    }
   },
   {
     "slug": "code-review-graph",
@@ -9536,8 +9707,6 @@
     "stars": 1342,
     "lite": false,
     "headline": "Jellyfin medya kütüphanenize masaüstü erişimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "Jellium-desktop is an unofficial desktop client developed in Rust for the media server Jellyfin."
   },
@@ -9555,8 +9724,6 @@
     "stars": 104442,
     "lite": false,
     "headline": "Modern Windows komut satırı deneyimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -9726,8 +9893,6 @@
     "stars": 4127,
     "lite": false,
     "headline": "Rust ile tam kapsamlı web uygulamaları",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -9738,7 +9903,16 @@
         "surum_tarihi": "2026-07-27"
       }
     ],
-    "tagline_en": "Developed by the Tokio team, Topcoat contains all the necessary tools to create web applications in Rust."
+    "tagline_en": "Developed by the Tokio team, Topcoat contains all the necessary tools to create web applications in Rust.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Rust · cargo ile",
+          "komut": "cargo install topcoat"
+        }
+      ],
+      "kaynak": "crates.io"
+    }
   },
   {
     "slug": "openship",
@@ -9853,8 +10027,6 @@
     "stars": 17370,
     "lite": false,
     "headline": "Yapay zekâ yanıtlarını odaklı hale getirin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -9970,8 +10142,6 @@
     "stars": 37732,
     "lite": false,
     "headline": "Wayland üzerinde özelleştirilebilir masaüstü deneyimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -10190,8 +10360,6 @@
     "stars": 11156,
     "lite": false,
     "headline": "Cloudflare üzerinde ücretsiz geçici e-posta",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -10218,8 +10386,6 @@
     "stars": 10510,
     "lite": false,
     "headline": "Rust ile hızlı Minecraft sunucuları",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -10360,8 +10526,6 @@
     "stars": 14110,
     "lite": false,
     "headline": "Gizlilik odaklı çevrim dışı dil bilgisi denetleyicisi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -10372,7 +10536,16 @@
         "surum_tarihi": "2026-07-28"
       }
     ],
-    "tagline_en": "Harper offers an offline and privacy-oriented grammar checker developed with the Rust language."
+    "tagline_en": "Harper offers an offline and privacy-oriented grammar checker developed with the Rust language.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install harper"
+        }
+      ],
+      "kaynak": "Homebrew formülü"
+    }
   },
   {
     "slug": "superfile",
@@ -10567,8 +10740,6 @@
     "stars": 26422,
     "lite": false,
     "headline": "Yazılım süreçlerini otomatize eden sunucu",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -10586,7 +10757,26 @@
         "surum_tarihi": "2026-08-05"
       }
     ],
-    "tagline_en": "Jenkins is an open source continuous integration and…"
+    "tagline_en": "Jenkins is an open source continuous integration and…",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install jenkins"
+        },
+        {
+          "baslik": "Docker imajı",
+          "komut": "docker pull jenkins/jenkins:lts"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Docker ile başlat (http://localhost:8080)",
+          "komut": "docker run -p 8080:8080 -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts"
+        }
+      ],
+      "kaynak": "Homebrew formülü · Docker Hub jenkins/jenkins"
+    }
   },
   {
     "slug": "amnezia-client",
@@ -10629,8 +10819,6 @@
     "stars": 5470,
     "lite": false,
     "headline": "Bulut tabanlı açık kaynaklı haritalama",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -10648,7 +10836,16 @@
         "surum_tarihi": "2026-08-06"
       }
     ],
-    "tagline_en": "GeoLibre is a lightweight, cloud-based geospatial information application designed to visualize, explore and analyze geographic data."
+    "tagline_en": "GeoLibre is a lightweight, cloud-based geospatial information application designed to visualize, explore and analyze geographic data.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install GeoLibre"
+        }
+      ],
+      "kaynak": "PyPI · GeoLibre"
+    }
   },
   {
     "slug": "ag-kit",
@@ -10691,10 +10888,27 @@
     "stars": 10004,
     "lite": false,
     "headline": "Dağıtık sistemler için ölçeklenebilir veritabanı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
-    "tagline_en": "Apache Cassandra offers linear scalability without loss of performance on standard hardware or cloud infrastructures."
+    "tagline_en": "Apache Cassandra offers linear scalability without loss of performance on standard hardware or cloud infrastructures.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install cassandra"
+        },
+        {
+          "baslik": "Docker imajı",
+          "komut": "docker pull cassandra"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Docker ile başlat",
+          "komut": "docker run -p 9042:9042 cassandra"
+        }
+      ],
+      "kaynak": "Homebrew formülü · Docker Hub resmî imajı"
+    }
   },
   {
     "slug": "imgui",
@@ -10710,8 +10924,6 @@
     "stars": 75457,
     "lite": false,
     "headline": "C++ projeleri için hafif arayüz",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -10764,8 +10976,6 @@
     "stars": 1684,
     "lite": false,
     "headline": "Yerel borsa verisi ve analiz motoru",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -10918,8 +11128,6 @@
     "stars": 14677,
     "lite": false,
     "headline": "Kurumsal varlık ve lisans yönetimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -10930,7 +11138,22 @@
         "surum_tarihi": "2026-06-15"
       }
     ],
-    "tagline_en": "Snipe-IT is an open source management system for tracking information technology assets and software licenses."
+    "tagline_en": "Snipe-IT is an open source management system for tracking information technology assets and software licenses.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Resmî imajı çek",
+          "komut": "docker pull grokability/snipe-it"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Başlat",
+          "komut": "docker compose up -d"
+        }
+      ],
+      "kaynak": "Docker Hub · grokability/snipe-it"
+    }
   },
   {
     "slug": "faceswap",
@@ -10946,8 +11169,6 @@
     "stars": 57204,
     "lite": false,
     "headline": "Görüntülerde Yüz Değiştirme Rehberi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -10958,7 +11179,22 @@
         "surum_tarihi": "2025-12-21"
       }
     ],
-    "tagline_en": "Python-based Faceswap allows changing faces in images using deepfake technology."
+    "tagline_en": "Python-based Faceswap allows changing faces in images using deepfake technology.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Depoyu klonla",
+          "komut": "git clone --depth 1 https://github.com/deepfakes/faceswap.git && cd faceswap"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Kurulum sihirbazı",
+          "komut": "python setup.py"
+        }
+      ],
+      "kaynak": "Depo README'si · faceswap.dev kurulum kılavuzu"
+    }
   },
   {
     "slug": "openwork",
@@ -11041,8 +11277,6 @@
     "stars": 7185,
     "lite": false,
     "headline": "Apple Sinir Motorunda yapay zekâ eğitimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "Developed by Maderix, ANE uses private application programming interfaces (private APIs) obtained through reverse engineering…"
   },
@@ -11060,8 +11294,6 @@
     "stars": 10556,
     "lite": false,
     "headline": "WhatsApp Web protokolü ile entegrasyon",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -11072,7 +11304,16 @@
         "surum_tarihi": "2026-07-29"
       }
     ],
-    "tagline_en": "Baileys is based on the WhatsApp Web protocol and allows developing TypeScript and JavaScript-based applications."
+    "tagline_en": "Baileys is based on the WhatsApp Web protocol and allows developing TypeScript and JavaScript-based applications.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile",
+          "komut": "npm install baileys"
+        }
+      ],
+      "kaynak": "npm kayıt defteri"
+    }
   },
   {
     "slug": "tuicr",
@@ -11209,8 +11450,6 @@
     "stars": 5281,
     "lite": false,
     "headline": "Donanım analizi için çok protokollü araç",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -11238,8 +11477,6 @@
     "stars": 114349,
     "lite": false,
     "headline": "Üretken yapay zekâ uygulamaları geliştirme eğitimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "This training content prepared by Microsoft is for those who want to get into generative artificial intelligence (generative AI) technologies."
   },
@@ -11309,8 +11546,6 @@
     "stars": 22400,
     "lite": false,
     "headline": "Reklamsız ve takipsiz video izleme",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -11328,7 +11563,22 @@
         "surum_tarihi": "2026-08-05"
       }
     ],
-    "tagline_en": "Invidious is an open source interface developed as an alternative to the YouTube platform."
+    "tagline_en": "Invidious is an open source interface developed as an alternative to the YouTube platform.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Depoyu ve compose dosyasını al",
+          "komut": "git clone --depth 1 https://github.com/iv-org/invidious.git && cd invidious"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Başlat",
+          "komut": "docker compose up -d"
+        }
+      ],
+      "kaynak": "Depodaki resmî docker-compose.yml"
+    }
   },
   {
     "slug": "trellis-2",
@@ -11380,8 +11630,6 @@
     "stars": 324,
     "lite": false,
     "headline": "Banjo Kazooie oyununu modern sistemlerde oynayın",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -11498,8 +11746,6 @@
     "stars": 360710,
     "lite": false,
     "headline": "Büyük ölçekli sistem tasarımı rehberi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "System Design Primer offers a comprehensive learning resource for those who want to design large-scale software systems."
   },
@@ -11615,8 +11861,6 @@
     "stars": 29437,
     "lite": false,
     "headline": "C++ projeleri için hızlı günlük kaydı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -11627,7 +11871,16 @@
         "surum_tarihi": "2026-01-04"
       }
     ],
-    "tagline_en": "spdlog is a very fast logging library developed for the C++ programming language."
+    "tagline_en": "spdlog is a very fast logging library developed for the C++ programming language.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install spdlog"
+        }
+      ],
+      "kaynak": "Homebrew formülü"
+    }
   },
   {
     "slug": "deno",
@@ -11695,8 +11948,6 @@
     "stars": 96949,
     "lite": false,
     "headline": "Hızlı arayüz tasarımı için stil çatısı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -11707,7 +11958,22 @@
         "surum_tarihi": "2026-07-16"
       }
     ],
-    "tagline_en": "Tailwind CSS is a utility-first style sheet that focuses on fast user interface development."
+    "tagline_en": "Tailwind CSS is a utility-first style sheet that focuses on fast user interface development.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile",
+          "komut": "npm install tailwindcss @tailwindcss/cli"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "CSS üret",
+          "komut": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+        }
+      ],
+      "kaynak": "npm kayıt defteri"
+    }
   },
   {
     "slug": "computer",
@@ -11724,8 +11990,6 @@
     "stars": 3677,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına bilgisayar kontrolü",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "Developed by Cloudflare, Computer gives artificial intelligence agents the ability to control a local or remote computer."
   },
