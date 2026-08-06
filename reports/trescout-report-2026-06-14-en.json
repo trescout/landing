@@ -1,0 +1,231 @@
+{
+  "date": "2026-06-14",
+  "editorial": "In the software world today, projects focusing on autonomous skill packages and open source infrastructure management are at the forefront. GitHub data shows that application containers and customer interaction systems, in particular, are seeing high interest among developers.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "This project, which gathers public internet television (IPTV) channels from around the world in a single center, presents live broadcast streams as an organized database. Thanks to its open source structure, it facilitates users' access to global television content.",
+          "meta": "TypeScript · ★ 119,525 · +530 today"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Developed by Addy Osmani, agent-skills offers production-level engineering skills for artificial intelligence coding agents. This library provides ready-made functions to standardize agent-based software development processes.",
+          "meta": "Shell · ★ 58,794 · +1,514 today"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot offers an open source alternative for managing live chat, email support and omni-channel customer service (omni-channel desk) processes. Developed in Ruby language, the platform provides functionality similar to corporate customer support software such as Intercom or Zendesk.",
+          "meta": "Ruby · ★ 30,977 · +83 today"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers is an agent skills framework and methodology designed to automate software development processes. Written in Shell language, this tool offers a structure that standardizes software development workflows.",
+          "meta": "Shell · ★ 227,249 · +924 today"
+        },
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Developed by Apple, Container allows creating and running Linux containers using lightweight virtual machines on Mac devices. Written in Swift language, the tool offers performance optimized for Apple silicon architecture.",
+          "meta": "Swift · ★ 36,562 · +1,487 today"
+        },
+        {
+          "title": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "summary": "Music Assistant is an open-source media library manager that centralizes different digital music services and connected speakers. This Python-based server software acts as a central control point over constantly running devices such as a Raspberry Pi or network-attached storage (NAS).",
+          "meta": "Python · ★ 2,062 · +270 today"
+        },
+        {
+          "title": "kenn-io/agentsview",
+          "url": "https://github.com/kenn-io/agentsview",
+          "summary": "Agentsview provides native-first session intelligence and analysis tools for coding agents. This structure, which supports more than twenty agents including Claude Code and Codex, creates a high-performance alternative in usage data tracking (ccusage).",
+          "meta": "Go · ★ 2,475 · +190 today"
+        },
+        {
+          "title": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "summary": "LMCache offers a layer that increases inference speed by managing the key value cache (KV cache) in large language models (LLM). This system optimizes memory usage and improves model performance by accelerating data access in repetitive queries.",
+          "meta": "Python · ★ 8,985 · +238 today"
+        },
+        {
+          "title": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "summary": "Microsoft PowerToys offers a variety of utilities that increase productivity and system customization for Windows users. This open source collection brings together functional utilities that improve the operating system experience.",
+          "meta": "C · ★ 134,770 · +370 today"
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Developed by Andrew Ng, aisuite is a Python library that allows managing different generative AI providers through a single interface. It allows developers to switch between various model services without making code changes.",
+          "meta": "Python · ★ 14,220 · +127 today"
+        },
+        {
+          "title": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "summary": "Developed by NVIDIA, SkillSpector is a scanner that detects vulnerabilities and malicious patterns in the skills of artificial intelligence agents. This Python-based tool aims to increase software security by identifying possible security risks in agent-based systems.",
+          "meta": "Python · ★ 4,680 · +804 today"
+        },
+        {
+          "title": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "summary": "Developed by Bannedbook, fanqiang is a Kotlin project that includes circumvention tools to bypass internet access restrictions. It offers technical resources on methods of redirecting network traffic and removing censorship barriers.",
+          "meta": "Kotlin · ★ 47,614 · +93 today"
+        },
+        {
+          "title": "swc-project/swc",
+          "url": "https://github.com/swc-project/swc",
+          "summary": "Developed with the Rust language, SWC offers a fast compilation and bundling platform for web projects. It accelerates modern web development processes by processing JavaScript and TypeScript files with high performance.",
+          "meta": "Rust · ★ 33,681 · +20 today"
+        },
+        {
+          "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "summary": "System prompts and preferred language models used by popular artificial intelligence tools are compiled by developers in a single center. This list offers the opportunity to examine the configuration strategies behind current coding assistants and productive artificial intelligence platforms.",
+          "meta": "★ 140,390 · +109 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Noise infusion banned from statistical products published by Census Bureau",
+          "url": "https://desfontain.es/blog/banning-noise.html",
+          "summary": "The US Census Bureau has banned noise infusion in its statistical products to protect privacy. This decision initiates a new regulatory process in differential privacy techniques in order to increase the accuracy of data.",
+          "meta": "812 points · 507 comments"
+        },
+        {
+          "title": "Every Frame Perfect",
+          "url": "https://tonsky.me/blog/every-frame-perfect/",
+          "summary": "This study examines the fluency of modern interfaces and addresses the impact of frame rate consistency on user experience during the software development process. It offers technical strategies on efficient use of hardware resources and latency optimization to maintain interface responsiveness.",
+          "meta": "676 points · 223 comments"
+        },
+        {
+          "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+          "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+          "summary": "Amazon executives' meetings with US government officials led to increased inspections of artificial intelligence models developed by Anthropic. This process triggered scrutiny of large language models within the framework of national security and regulatory compliance.",
+          "meta": "660 points · 490 comments"
+        },
+        {
+          "title": "GLM 5.2 Is Out",
+          "url": "https://twitter.com/jietang/status/2065784751345287314",
+          "summary": "GLM 5.2, developed by Zhipu AI, has been updated with multimodal capabilities and extended context window support. The new version provides higher accuracy and increased performance in complex reasoning processes.",
+          "meta": "539 points · 285 comments"
+        },
+        {
+          "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+          "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+          "summary": "Studies on pancreatic tumors may have revealed a central control mechanism (master switch) that ensures the survival of cancer cells. This discovery allows the development of new treatment methods to stop the growth of tumors.",
+          "meta": "351 points · 126 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, published by Google, is a multimodal model that produces text-based outputs by processing text and image inputs. The model is used in different content creation processes with its ability to understand visual data and associate it with text.",
+          "meta": "♥ 729 · 92,080 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Developed by Moonshot AI, Kimi-K2.7-Code is a multimodal coding model that can process visual and text data as input. It aims to produce text-based code from visual content in software development processes.",
+          "meta": "♥ 553 · 1,689 downloads"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Developed by NVIDIA, LocateAnything-3D is an image-text-to-text model that performs object localization tasks by processing visual and textual inputs. The model offers the ability to determine the coordinates of objects in images based on given text commands.",
+          "meta": "♥ 1,970 · 69,443 downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3, developed by MiniMaxAI, is a multimodal model that produces text-based outputs by processing visual and text inputs. The system supports complex content analysis and production processes by combining different data types on a single architecture.",
+          "meta": "♥ 436 · 1,031 downloads"
+        },
+        {
+          "title": "CohereLabs/North-Mini-Code-1.0",
+          "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+          "summary": "North-Mini-Code-1.0, developed by CohereLabs, is a language model focused on text generation. Optimized to support software development processes, this model performs well in code-based tasks.",
+          "meta": "♥ 360 · 6,533 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IPTV",
+      "explanation": "Technology that allows television broadcasts to be watched over the internet instead of a traditional antenna or satellite."
+    },
+    {
+      "term": "database",
+      "explanation": "A digital environment where information is stored regularly and can be easily accessed and managed when needed."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "The ability to combine logical methods, technical knowledge and creativity to solve complex problems."
+    },
+    {
+      "term": "omni-channel desk",
+      "explanation": "Support system that allows tracking and responding to customer requests from different channels from a single center."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "It is the structured version of the capabilities required for artificial intelligence systems to make decisions and complete tasks on their own."
+    },
+    {
+      "term": "lightweight virtual machines",
+      "explanation": "Small virtual computers that run quickly using only the necessary resources and take up very little space."
+    },
+    {
+      "term": "containers",
+      "explanation": "Packages that contain all the files required for a software to run and ensure that it works the same on every computer."
+    },
+    {
+      "term": "Apple silicon",
+      "explanation": "Apple's own processor architecture specifically designed for high performance and low energy consumption in its devices."
+    },
+    {
+      "term": "NAS",
+      "explanation": "A device that provides a central storage area that can be shared by all devices in the home or office network."
+    },
+    {
+      "term": "session intelligence",
+      "explanation": "A system that understands users' behavior by analyzing their interactions and aims to provide a better experience."
+    },
+    {
+      "term": "ccusage",
+      "explanation": "Consumption data that shows how intensively a system or service is used."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "KV cache",
+      "explanation": "The memory area that allows artificial intelligence to answer the same questions faster by keeping the information it has previously processed in its memory."
+    },
+    {
+      "term": "utilities",
+      "explanation": "Helpful small software that facilitates the maintenance, management or basic functions of the computer."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "A type of artificial intelligence that can create new content such as text, visuals or sound by using the data it has learned."
+    },
+    {
+      "term": "skills",
+      "explanation": "The totality of practical knowledge and application skills required to do a job."
+    }
+  ]
+}

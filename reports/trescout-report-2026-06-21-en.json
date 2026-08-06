@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-21",
+  "editorial": "Open source interface design (UI design) and data management tools stand out in today's technology agenda. New libraries, especially in the field of model context and time-series forecasting, focus on optimizing developers' data processing processes.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro was developed as a macOS-based video editor that integrates artificial intelligence-supported editing tools. This application, written in Swift language, aims to use generative AI features in video processing processes.",
+          "meta": "Swift · ★ 3,871 · +902 today"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot is an open source design tool developed to strengthen collaboration between designers and software developers. Written in Clojure language, the platform aims to integrate design processes with code-based work flows.",
+          "meta": "Clojure · ★ 51,765 · +420 today"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage is an open source agent-based system that turns AI-powered coding assistants into a comprehensive video production studio. This Python-based platform automates video production processes with 12 different pipelines and more than 500 agent skills.",
+          "meta": "Python · ★ 7,346 · +677 today"
+        },
+        {
+          "title": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "summary": "Turso offers an in-process SQL database that is compatible with SQLite. This system, developed in Rust language, simplifies data management processes by integrating into application processes.",
+          "meta": "Rust · ★ 20,466 · +801 today"
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp offers high-performance code intelligence by indexing code bases on a permanent knowledge graph. Developed in C language, this server supports 158 programming languages, reduces query times to below milliseconds and reduces token usage.",
+          "meta": "C · ★ 9,661 · +1,271 today"
+        },
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "The Time Series Foundation Model, developed by Google Research, offers a pre-trained architecture for forecasting tasks. This model is trained on large-scale datasets to analyze time series data and produce future predictions.",
+          "meta": "Python · ★ 24,672 · +433 today"
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty is an open source customer relationship management (CRM) platform developed with artificial intelligence-driven features. Written in TypeScript, the project aims to offer a modern and flexible alternative to traditional enterprise software.",
+          "meta": "TypeScript · ★ 50,959 · +140 today"
+        },
+        {
+          "title": "Kong/insomnia",
+          "url": "https://github.com/Kong/insomnia",
+          "summary": "Insomnia is an open source application programming interface (API) client that supports GraphQL, REST, WebSockets, SSE and gRPC protocols. Users can manage and test network requests with cloud, local storage, and Git integration options.",
+          "meta": "TypeScript · ★ 39,433 · +329 today"
+        },
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom reduces token usage by 60 to 95 percent by compressing log files, tool outputs, and information retrieval (RAG) fragments sent to large language models (LLMs). The tool, which can be used as a library, proxy and Model Context Protocol (MCP) server, provides cost efficiency while maintaining model performance.",
+          "meta": "Python · ★ 42,513 · +3,795 today"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox is an open source artificial intelligence voice studio that allows users to perform voice cloning, dictation and content creation. Developed with the TypeScript language, this platform offers comprehensive tools to manage audio processing processes in the native environment.",
+          "meta": "TypeScript · ★ 31,156 · +145 today"
+        },
+        {
+          "title": "Kilo-Org/kilocode",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "summary": "Kilo is an all-in-one agent-based engineering platform that automates software development processes. It aims to accelerate the creation, distribution and development processes of software projects thanks to its open source coding agent.",
+          "meta": "TypeScript · ★ 23,477 · +513 today"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "This repository, shared by Matt Pocock, offers skill packages that enable software developers to manage artificial intelligence assistants with structured commands. Users automate complex development processes with these ready-made instructions, accessible directly via the Claude directory.",
+          "meta": "Shell · ★ 138,647 · +1,395 today"
+        },
+        {
+          "title": "withastro/flue",
+          "url": "https://github.com/withastro/flue",
+          "summary": "Developed by the Astro team, Flue offers a TypeScript-based sandbox agent framework. It allows software developers to create artificial intelligence agents in secure and isolated environments.",
+          "meta": "TypeScript · ★ 6,188 · +316 today"
+        },
+        {
+          "title": "owainlewis/awesome-artificial-intelligence",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+          "summary": "Awesome-artificial-intelligence repository collects trainings, books, video lessons and academic articles in the field of artificial intelligence in a single center. This resource offers a comprehensive curriculum and literature archive for those who want to structure the learning process.",
+          "meta": "★ 14,888 · +48 today"
+        },
+        {
+          "title": "pppscn/SmsForwarder",
+          "url": "https://github.com/pppscn/SmsForwarder",
+          "summary": "SmsForwarder is a tool that forwards text messages, calls and application notifications on Android devices to different messaging platforms or webhooks within the framework of specified rules. This software, which allows users to remotely manage their devices and access data such as battery status and contacts, was developed with the Kotlin language.",
+          "meta": "Kotlin · ★ 26,560 · +104 today"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Developed with the Rust language, jcode offers a framework for testing and evaluating coding-oriented artificial intelligence agents. It provides a standard infrastructure to measure the performance of agents used in software development processes.",
+          "meta": "Rust · ★ 7,450 · +87 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "SMPTE Makes Its Standards Freely Accessible",
+          "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+          "summary": "The Society of Motion Picture and Television Engineers (SMPTE) has made its media technology standards freely available to the global community. This step aims to ensure wider adoption of the digital media standards library across the industry.",
+          "meta": "254 points · 76 comments"
+        },
+        {
+          "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+          "url": "https://github.com/mysk-research/loupe",
+          "summary": "Loupe is an iOS application that aims to increase user awareness by visualizing what data native apps can access on the device. The software transparently reports the data access processes carried out by applications in the background.",
+          "meta": "254 points · 76 comments"
+        },
+        {
+          "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+          "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+          "summary": "The reverse engineering project of the F-15 Strike Eagle II game is looking for test pilots to verify the software's operability in different DOS environments. The work aims to preserve the classic game's source code by adapting it to modern systems.",
+          "meta": "241 points · 64 comments"
+        },
+        {
+          "title": "Renting a sewing machine from the library",
+          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+          "summary": "Libraries in Finland are transforming the traditional book-focused service model by lending out a wide range of items, from sewing machines to drill sets. This application combines the sharing economy model, which aims to reduce consumption habits, with library infrastructure.",
+          "meta": "212 points · 107 comments"
+        },
+        {
+          "title": "Temporary Cloudflare accounts for AI agents",
+          "url": "https://blog.cloudflare.com/temporary-accounts/",
+          "summary": "Cloudflare offers an infrastructure that allows the creation of temporary cloud accounts so that artificial intelligence agents can work safely. This system simplifies the authorization processes of agents and enables them to work with limited access permissions for a limited time.",
+          "meta": "204 points · 109 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "The Gemma-4-12B-coder model is a text generation model optimized for coding tasks. This structure, presented in GGUF format, has been optimized with quantization techniques to run more efficiently on local hardware.",
+          "meta": "♥ 2,006 · 312,332 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, developed by Zai-org, is a language model focused on text-generation. This model, which has reached a wide user base on the HuggingFace platform, offers text generation capabilities in natural language processing tasks.",
+          "meta": "♥ 1,721 · 19,683 downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3, developed by MiniMaxAI, is a multimodal model that produces text output by processing visual and textual inputs. The system supports complex content creation processes by analyzing different types of data simultaneously.",
+          "meta": "♥ 1,166 · 85,771 downloads"
+        },
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "summary": "VibeThinker-3B, developed by WeiboAI, is a compact language model focused on text generation. Its 3 billion parameter structure offers an efficient alternative for text generation tasks with low computational cost.",
+          "meta": "♥ 526 · 16,270 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Kimi-K2.7-Code, developed by Moonshot AI, is a multimodal model that performs code generation by processing visual and text inputs. It aims to provide text-based solutions by analyzing visual data in software development processes.",
+          "meta": "♥ 934 · 317,963 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "video editor",
+      "explanation": "Software that allows you to edit image and audio files by cutting and combining them."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Artificial intelligence technology that can produce new content such as text, visuals or audio from scratch using the data it learns."
+    },
+    {
+      "term": "agentic system",
+      "explanation": "Autonomous system that can make decisions on its own and take steps to achieve goals without human intervention."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "A series of interconnected stages through which data is processed until it becomes a result."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Special abilities or tools that AI has to perform specific tasks."
+    },
+    {
+      "term": "in-process",
+      "explanation": "The execution of an operation directly within the current program's own workspace, without being transferred to another location."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "A data model that presents the relationships between information by connecting them like a network structure."
+    },
+    {
+      "term": "token",
+      "explanation": "Words or character snippets that artificial intelligence uses when processing texts."
+    },
+    {
+      "term": "Time Series Foundation Model",
+      "explanation": "A comprehensive artificial intelligence model that can predict future trends by analyzing changes in historical numerical data."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Digital management system where companies monitor their communication with customers and sales processes."
+    },
+    {
+      "term": "API",
+      "explanation": "A bridge that allows two different software to talk to each other and exchange data."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "RAG",
+      "explanation": "A method that allows artificial intelligence to obtain information from current and private documents instead of its own memory when producing answers."
+    },
+    {
+      "term": "proxy",
+      "explanation": "An intermediary server that forwards requests on the Internet on your behalf and hides your identity."
+    },
+    {
+      "term": "MCP",
+      "explanation": "A protocol that enables artificial intelligence models to connect to different data sources and tools in a standard way."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Technology that analyzes a person's voice and makes them say new sentences as if they were that person."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "date": "2026-05-29",
+  "editorial": "Today, in the software world, there is intense interest in automation tools and open source customer relationship management (CRM) systems. Current data on GitHub shows that systems and personalized skill sets, especially those that accelerate content production, are gaining priority among developers.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo automatically creates high-resolution short videos from text-based content using large language models. This Python-based tool speeds up content creation workflows by making the video production process complete with a single click.",
+          "meta": "Python · ★ 68,142 · +4,698 today"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC offers a performance optimization system for artificial intelligence agents, covering skill management, memory, security and research-driven development processes. This structure, which works compatible with platforms such as Claude Code, Codex and Cursor, aims to increase the efficiency of agent-based workflows.",
+          "meta": "JavaScript · ★ 197,955 · +1,385 today"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill is a system that prevents the content produced by artificial intelligence models from being ordinary and universal. It functions as a style filter that allows users to make model outputs more unique and qualified.",
+          "meta": "Shell · ★ 27,340 · +2,234 today"
+        },
+        {
+          "title": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "summary": "Stop-slop is a language processing tool that detects and cleans characteristic narrative patterns (AI tells) in texts produced by artificial intelligence. It removes traces of artificial intelligence in written content, allowing the texts to acquire a more natural and human style.",
+          "meta": "★ 6,671 · +761 today"
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty offers an open source alternative to the Salesforce platform with its artificial intelligence-focused design. This customer relationship management software, developed with the TypeScript language, combines corporate data processes in a modular structure.",
+          "meta": "TypeScript · ★ 48,098 · +493 today"
+        },
+        {
+          "title": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "summary": "DigitalPlat FreeDomain project is a platform that provides users with a free domain name service. It has a structure that aims to create digital assets cost-free in web development processes.",
+          "meta": "HTML · ★ 171,240 · +1,761 today"
+        },
+        {
+          "title": "byoungd/English-level-up-tips",
+          "url": "https://github.com/byoungd/English-level-up-tips",
+          "summary": "This guide for advanced English learning brings together methods and resources to improve language skills. The content, which includes learning strategies and practical tips, offers a structured roadmap for users who want to optimize the language acquisition process.",
+          "meta": "★ 49,193 · +2,019 today"
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Developed by Microsoft, MarkItDown is a Python tool that converts various file formats and office documents into markdown language (Markdown) format. The software makes it easy to make unstructured data processable for large language models.",
+          "meta": "Python · ★ 128,420 · +1,410 today"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers is an agentic skills framework and software development methodology developed for artificial intelligence agents. The system provides a practical implementation framework for standardizing agent-based workflows.",
+          "meta": "Shell · ★ 211,820 · +1,730 today"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness is a meta-skill framework that designs domain-specific AI agent teams and produces the specialized skills these teams need. The system automates workflows by defining agent structures to perform complex tasks.",
+          "meta": "HTML · ★ 4,063 · +65 today"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X is a collection of guides aimed at improving programming skills by building popular software technologies from scratch. Developers learn the working logic of complex systems such as databases or operating systems through applied projects.",
+          "meta": "Markdown · ★ 506,894 · +1,066 today"
+        },
+        {
+          "title": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "summary": "Understand-Anything transforms code bases into interactive knowledge graphs, allowing developers to query and perform discovery on their projects. This TypeScript-based tool integrates with existing code editors and command line interfaces to visualize complex code structures.",
+          "meta": "TypeScript · ★ 43,749 · +3,776 today"
+        },
+        {
+          "title": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "summary": "Crawl4AI is an open source web crawler and data scraper optimized for large language models. This Python-based tool simplifies the process of converting web content into clean formats that AI models can process.",
+          "meta": "Python · ★ 67,194 · +154 today"
+        },
+        {
+          "title": "OpenMOSS/MOSS-TTS",
+          "url": "https://github.com/OpenMOSS/MOSS-TTS",
+          "summary": "Developed by MOSI.AI and the OpenMOSS team, MOSS-TTS is an open-source model family that provides high-fidelity speech and audio reproduction. The system offers solutions for complex scenarios such as long-text speech synthesis, multi-speaker support and real-time streaming.",
+          "meta": "Python · ★ 2,440 · +71 today"
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "The Compound Engineering plugin offers a structure that automates compound engineering processes for development environments such as Claude Code, Codex and Cursor. This tool aims to increase developer productivity by turning complex software tasks into manageable workflows.",
+          "meta": "TypeScript · ★ 17,931 · +184 today"
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "This repository, published by Anthropics, contains reusable skill packages developed for artificial intelligence agents. This Python-based library aims to standardize the workflows of autonomous systems that perform complex tasks.",
+          "meta": "Python · ★ 143,307 · +718 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Opus 4.8",
+          "url": "https://www.anthropic.com/news/claude-opus-4-8",
+          "summary": "Announced by Anthropic, Claude 3.5 Opus offers more advanced reasoning and coding capabilities across high-performance language models. The model uses its optimized architecture to increase accuracy in complex tasks.",
+          "meta": "1,535 points · 1,200 comments"
+        },
+        {
+          "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+          "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+          "summary": "Second-hand Lego store chain Bricks and Minifigs is accused of offering for sale without permission a collection worth $200,000 left in trust by a customer. The incident brings to the fore vulnerabilities in escrow management and property rights in corporate dealership systems.",
+          "meta": "955 points · 443 comments"
+        },
+        {
+          "title": "I made a million dollar product from my dorm room (2025)",
+          "url": "https://nick.winans.io/blog/nice-nano/",
+          "summary": "Nick Winans turned the custom keyboard microcontroller project he developed in his university dormitory into a venture that generated a million dollars in revenue. It shows how a niche hardware-focused product can scale with community feedback and direct sales strategies.",
+          "meta": "407 points · 62 comments"
+        },
+        {
+          "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+          "summary": "GitHub closed the account of a security researcher who shared zero-day exploits for the Windows operating system. The transaction in question was carried out within the scope of the platform's policies for disclosing security vulnerabilities.",
+          "meta": "394 points · 175 comments"
+        },
+        {
+          "title": "Cars collect a startling amount of data about you",
+          "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+          "summary": "Modern cars collect a wide range of personal data, from driving habits to location data. Thanks to connected vehicle technologies, these data collection processes pose new risks for user privacy.",
+          "meta": "332 points · 152 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "Developed by OpenBMB, MiniCPM5-1B is a lightweight language model optimized for text generation. It aims to increase resource use efficiency with a low number of parameters.",
+          "meta": "♥ 521 · 23,629 downloads"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Developed by Meituan, LongCat-Video-Avatar-1.5 allows creating high-quality video avatars from a single reference image. The model produces animated and realistic representations of digital characters using image-to-video synthesis technology.",
+          "meta": "♥ 380 · 0 downloads"
+        },
+        {
+          "title": "bytedance-research/Lance",
+          "url": "https://huggingface.co/bytedance-research/Lance",
+          "summary": "Developed by ByteDance, Lance is a multi-modal (any-to-any) model that can transform between different data types such as text, image and audio. This structure supports cross-modal production capabilities by processing various media formats through a single architecture.",
+          "meta": "♥ 965 · 2,738 downloads"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "The Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive model published on HuggingFace offers a multimodal structure that produces text output by processing image and text inputs. The model aims to provide more direct responses to user interactions by being trained with an uncensored data set.",
+          "meta": "♥ 1,020 · 2,114,938 downloads"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Developed by Nvidia, LocateAnything-3B is an image-text-to-text model that performs object localization tasks by processing visual and textual inputs. This model uses a specialized architecture to identify objects in complex scenes and generate coordinate-based data.",
+          "meta": "♥ 280 · 7,861 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

@@ -1,0 +1,166 @@
+{
+  "date": "2026-06-05",
+  "editorial": "Today's prominent topics focus on autonomous agents and visual recognition systems. Especially the agent architectures published by NousResearch and NVIDIA's vision models are in the focus of developers.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom reduces token usage by up to 95 percent by compressing log files, data, and chunks of contextual information (RAG chunks) sent to large language models (LLM). This Python-based tool aims to reduce transaction costs while maintaining model response quality with library and proxy support.",
+          "meta": "Python · ★ 13,394 · +3,142 today"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Developed by NousResearch, Hermes Agent is an autonomous artificial intelligence agent that improves over time by learning through user interactions. This Python-based system aims to adapt to user needs with personalized task management and continuous learning capabilities.",
+          "meta": "Python · ★ 181,576 · +1,913 today"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC offers a system that optimizes the skills, instincts and memory layers for artificial intelligence coding tools such as Claude Code and Cursor. It provides an infrastructure that aims to increase agent performance and security standards in software development processes.",
+          "meta": "JavaScript · ★ 207,674 · +1,750 today"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "summary": "Developed by PaddlePaddle, PaddleOCR is a lightweight optical character recognition tool that converts PDF and visual documents into structured data for large language models. This library, which supports more than 100 languages, standardizes the data flow between visual content and artificial intelligence models.",
+          "meta": "Python · ★ 80,160 · +141 today"
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "Published by GitHub, spec-kit offers the necessary tools to start spec-driven development processes. This Python-based library facilitates the integration of technical specifications defined during the software development phase into code processes.",
+          "meta": "Python · ★ 108,801 · +321 today"
+        },
+        {
+          "title": "NVIDIA/cosmos",
+          "url": "https://github.com/NVIDIA/cosmos",
+          "summary": "Developed by NVIDIA, Cosmos is an open platform that provides world models, datasets and tools for physical systems such as robots and autonomous vehicles. It provides an infrastructure that makes it easier for developers to create physical AI applications.",
+          "meta": "Jupyter Notebook · ★ 9,173 · +133 today"
+        },
+        {
+          "title": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "summary": "Open-notebook offers an open-source alternative to Google NotebookLM, allowing users to perform customizable AI-powered note analysis on their own data. Developed with TypeScript, this project provides greater flexibility and expanded feature set compared to the original platform.",
+          "meta": "TypeScript · ★ 25,373 · +212 today"
+        },
+        {
+          "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "summary": "Open-LLM-VTuber combines voice interaction and Live2D character animations with natively running large language models. The system allows users to speak to virtual characters in a natural flow that allows for voice interruptions.",
+          "meta": "Python · ★ 9,800 · +581 today"
+        },
+        {
+          "title": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "summary": "This study plan prepared for software engineer candidates offers a comprehensive training curriculum that includes the basic subjects of computer science. It serves as a road map for developers who want to structure the preparation process for technical interviews.",
+          "meta": "★ 349,959 · +632 today"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub Copilot SDK offers a multiplatform software development kit (SDK) that enables developers to integrate GitHub Copilot AI agents into their applications and services. This tool, prepared in Java language, allows the creation of customized artificial intelligence workflows with a standard structure on different platforms.",
+          "meta": "Java · ★ 9,070 · +38 today"
+        },
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "summary": "Trivy is a comprehensive security tool that performs vulnerability scanning, configuration error checking, and software component list (SBOM) generation on containers, Kubernetes clusters, and cloud infrastructures. This open source solution, developed with the Go language, allows detecting security risks in a wide range of areas, from code repositories to cloud environments.",
+          "meta": "Go · ★ 35,731 · +255 today"
+        },
+        {
+          "title": "openclaw/openclaw-windows-node",
+          "url": "https://github.com/openclaw/openclaw-windows-node",
+          "summary": "OpenClaw offers an integrated management suite on the Windows operating system through the Windows node, system tray application, shared library and PowerToys command palette extension. Developed in C# language, this tool aims to standardize access to system resources and user workflows.",
+          "meta": "C# · ★ 1,432 · +411 today"
+        },
+        {
+          "title": "reconurge/flowsint",
+          "url": "https://github.com/reconurge/flowsint",
+          "summary": "Flowsint offers a visual, flexible and extensible graph-based analysis platform for cybersecurity analysts and researchers. Developed with TypeScript, this tool aims to standardize security processes by visualizing complex data sets.",
+          "meta": "TypeScript · ★ 5,422 · +308 today"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill offers an artificial intelligence skill (AI agent skill) that synthesizes current data by researching on platforms such as Reddit, X, YouTube, Hacker News and Polymarket. This Python-based tool combines information from different sources to create verifiable summaries for users.",
+          "meta": "Python · ★ 27,863 · +199 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "VoidZero Is Joining Cloudflare",
+          "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+          "summary": "JavaScript toolchain developer VoidZero has joined Cloudflare. With this merger, efforts to improve the performance of popular tools such as Vite, Vitest and Rolldup will continue in the Cloudflare infrastructure.",
+          "meta": "629 points · 272 comments"
+        },
+        {
+          "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+          "summary": "S&P Dow Jones Indices has decided not to change the rules that allow rapid entry of large-scale initial public offerings (IPOs) into the indices. This regulation maintains the requirement that companies with high market capitalization, such as SpaceX, be traded on the market for a certain period of time before being included in the indices.",
+          "meta": "500 points · 243 comments"
+        },
+        {
+          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+          "summary": "Recursive self-improvement, defined as artificial intelligence models writing and optimizing their own codes, aims to increase the performance of systems without human intervention. This process focuses on determining the technical and security standards required for artificial intelligence to improve its own architecture and create more capable models.",
+          "meta": "441 points · 585 comments"
+        },
+        {
+          "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+          "url": "https://github.com/anthropics/defending-code-reference-harness",
+          "summary": "Anthropic has published an open source framework to improve artificial intelligence-supported vulnerability detection processes. This tool provides developers with a standard testing environment to identify weak points in software code.",
+          "meta": "398 points · 114 comments"
+        },
+        {
+          "title": "Retro-Tech Parenting",
+          "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+          "summary": "Parents are turning to retro-tech devices to limit their children's exposure to digital screens. It is aimed to protect children's focusing skills by using simple function phones (feature phones) and digital tools without internet connection instead of smartphones.",
+          "meta": "287 points · 197 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Developed by NVIDIA, LocateAnything-3D is an image-text-to-text model that produces object positioning outputs by processing visual and textual inputs. This model is designed to identify objects in visual data and relate them to coordinate-based data.",
+          "meta": "♥ 1,317 · 101,823 downloads"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Developed by Google, Gemma 2 12B offers a multi-modal (any-to-any) model structure that can convert between different data types. This model exhibits flexible performance in various tasks by processing text and visual data.",
+          "meta": "♥ 468 · 142,851 downloads"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "summary": "LFM2.5-8B-A1B, developed by LiquidAI, is an artificial intelligence model focused on text-generation. Unlike traditional architectures, the model uses liquid neural networks structure and aims to provide efficient computational performance.",
+          "meta": "♥ 519 · 82,709 downloads"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive model is a multimodal structure that produces text output by processing image and text inputs. This model, which focuses on unrestricted content production with its uncensored structure, aims to provide flexibility in visual data analysis processes.",
+          "meta": "♥ 1,427 · 2,687,304 downloads"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "The Gemma 4-12b-it model, optimized by Unsloth, is a multimodal structure that produces text output by processing image and text inputs. Thanks to the GGUF format, the model allows efficient inference on local hardware with low memory usage.",
+          "meta": "♥ 324 · 296,410 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-02",
+  "editorial": "Today's technology agenda is dominated by data conversion tools and automation-oriented web interfaces. Popularity data on GitHub shows that developers are especially turning to modular libraries that accelerate file processing and content production processes.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Developed by Microsoft, MarkItDown is a Python tool that converts various file formats and office documents into markdown language (Markdown) format. This library makes it easy to make unstructured data processable for large language models.",
+          "meta": "Python · ★ 139,674 · +3,034 today"
+        },
+        {
+          "title": "nesquena/hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "summary": "Hermes WebUI offers an interface for Hermes Agent that allows access via web or mobile devices. This Python-based tool makes it easier to manage interaction with artificial intelligence agents via the browser.",
+          "meta": "Python · ★ 11,884 · +945 today"
+        },
+        {
+          "title": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "summary": "Supermemory offers a scalable memory engine and application interface for the age of artificial intelligence. This structure, developed with TypeScript, creates a central memory layer for artificial intelligence-supported systems by quickly processing user data.",
+          "meta": "TypeScript · ★ 24,233 · +647 today"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo automatically creates high-resolution short videos from text-based content using large language models. This Python-based tool speeds up content creation workflows by automating the video production process with a single click.",
+          "meta": "Python · ★ 77,381 · +3,375 today"
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling is an adaptive web scraping framework that manages the entire process from single requests to comprehensive crawling operations. This Python-based tool was developed to automate data collection processes.",
+          "meta": "Python · ★ 58,501 · +1,486 today"
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable is a design language library developed to improve the design outputs of artificial intelligence models. The software provides standardized rules to improve the visual consistency and aesthetic quality of generative AI tools.",
+          "meta": "JavaScript · ★ 33,104 · +485 today"
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "summary": "Heretic is a Python tool that automatically removes censorship mechanisms in language models. The software aims to bypass constraints by directly manipulating the model weights.",
+          "meta": "Python · ★ 23,165 · +249 today"
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "Working integrated with development tools such as Claude Code, Codex and Cursor, the Compound Engineering plug-in offers standardized compound engineering processes for the construction of complex software systems. This TypeScript-based tool aims to increase workflow efficiency in artificial intelligence-supported coding environments.",
+          "meta": "TypeScript · ★ 19,232 · +417 today"
+        },
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TradingAgents is a multi-agent LLM-based framework developed for trading in financial markets. This system, written in Python, enables autonomous trading agents to analyze financial data, create strategies and manage decision-making processes.",
+          "meta": "Python · ★ 82,054 · +299 today"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness is a meta-capability framework that designs domain-specific AI agent teams and creates the specialized skills these teams need. The system allows the development of customized agent structures and job descriptions to manage complex workflows.",
+          "meta": "HTML · ★ 5,330 · +524 today"
+        },
+        {
+          "title": "godotengine/godot",
+          "url": "https://github.com/godotengine/godot",
+          "summary": "Godot Engine (Godot Engine) is an open source game engine used for two- and three-dimensional game development processes. This platform, developed in C++ language, allows developers to produce games that can run on different operating systems.",
+          "meta": "C++ · ★ 111,819 · +77 today"
+        },
+        {
+          "title": "can1357/oh-my-pi",
+          "url": "https://github.com/can1357/oh-my-pi",
+          "summary": "Oh-my-pi is an artificial intelligence coding agent that runs in a terminal environment and automates code editing processes. The tool aims to optimize software development workflows with features such as language server protocol (LSP), browser integration, and subagent management.",
+          "meta": "TypeScript · ★ 9,701 · +335 today"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM is a tokenizer-free text-to-speech (TTS) model developed for multilingual speech production, creative sound design and voice cloning. Unlike traditional methods, the system works directly on sound waveforms, providing more natural and flexible sound synthesis processes.",
+          "meta": "Python · ★ 24,592 · +888 today"
+        },
+        {
+          "title": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "summary": "This guide, which aims to train large language models from scratch, from data downloading to text production, presents the necessary methods for the process in Jupyter Notebook format. Simplifying the technical implementation steps, the study explains the model development cycle end-to-end.",
+          "meta": "Jupyter Notebook · ★ 3,912 · +861 today"
+        },
+        {
+          "title": "stefan-jansen/machine-learning-for-trading",
+          "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+          "summary": "Prepared by Stefan Jansen, this resource provides comprehensive code examples and Jupyter notebooks for machine learning applications in algorithmic trading. It serves as a practical guide for those who want to develop data analysis and forecast models in financial markets.",
+          "meta": "Jupyter Notebook · ★ 18,065 · +93 today"
+        },
+        {
+          "title": "dmtrKovalenko/fff",
+          "url": "https://github.com/dmtrKovalenko/fff",
+          "summary": "Developed with Rust, fff is a toolkit for artificial intelligence agents and text editors that performs file searches with high speed and accuracy. With C and NodeJS support, it offers a structure that can be integrated into different development environments.",
+          "meta": "Rust · ★ 7,319 · +135 today"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build-your-own-x aims to improve programming skills by providing guides for building popular software technologies from scratch. Users strengthen their technical infrastructure by building complex systems, such as a database or operating system, step by step.",
+          "meta": "Markdown · ★ 510,728 · +1,212 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "The newest Instagram “exploit” is the goofiest I've seen",
+          "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+          "summary": "Attackers take over user accounts by misleading the artificial intelligence-supported identity verification system in Meta's account recovery process. This method bypasses security protocols used to verify account ownership by manipulating the system's facial recognition data.",
+          "meta": "1,721 points · 389 comments"
+        },
+        {
+          "title": "CS336: Language Modeling from Scratch",
+          "url": "https://cs336.stanford.edu/",
+          "summary": "CS336 course offered by Stanford University covers the basic processes of designing, training and scaling large language models in technical detail. The curriculum examines the architectural structure and optimization methods of modern artificial intelligence systems through deep learning infrastructure.",
+          "meta": "449 points · 47 comments"
+        },
+        {
+          "title": "AI Agent Guidelines for CS336 at Stanford",
+          "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+          "summary": "The artificial intelligence agent guide, published as part of the Stanford University CS336 course, defines the basic standards for the development and evaluation of autonomous systems. The document provides a technical framework for design principles, debugging methods and performance measurement processes for artificial intelligence agents (AI agents).",
+          "meta": "398 points · 129 comments"
+        },
+        {
+          "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+          "summary": "IPO processes of technology companies that require high capital, such as Anthropic, SpaceX and OpenAI, bring into question the capacity of traditional stock market mechanisms to meet valuations of this scale. Investors are evaluating the impact of these giant companies on market depth and the potential for capital markets to absorb offerings of this size.",
+          "meta": "312 points · 547 comments"
+        },
+        {
+          "title": "Should you normalize RGB values by 255 or 256?",
+          "url": "https://30fps.net/pages/255-vs-256-division/",
+          "summary": "The choice of dividing by 255 or 256 when normalizing color values ​​in digital image processing produces different results in terms of color space accuracy and calculation precision. This choice directly affects rounding errors and deviations in color distribution, especially those that occur during rescaling of image data.",
+          "meta": "253 points · 104 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Developed by Nvidia, LocateAnything-3D is a model that performs object localization tasks by processing image and text input. It is designed to identify elements in visual content with text-based commands and determine their coordinates.",
+          "meta": "♥ 850 · 61,604 downloads"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "Developed by OpenBMB, MiniCPM5-1B is a low-parameter language model optimized for text generation tasks. Despite its small size, it offers efficient inference performance, allowing operation on limited hardware resources.",
+          "meta": "♥ 699 · 57,683 downloads"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "summary": "LFM2.5-8B-A1B, published by LiquidAI, is an artificial intelligence model optimized for text generation tasks. Unlike traditional architectures, the model uses liquid neural networks structure and promises efficient computational processes.",
+          "meta": "♥ 409 · 47,742 downloads"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Shared on HuggingFace, Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive is a multimodal artificial intelligence model that produces text output by processing visual and text inputs. It offers a different approach in data processing processes with its uncensored structure and customized parameters.",
+          "meta": "♥ 1,243 · 2,573,320 downloads"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Developed by Meituan, LongCat-Video-Avatar-1.5 is a model that enables creating high-fidelity video avatars from a single reference image. The system facilitates digital human production processes by consistently synthesizing the character's movements and facial expressions over video data.",
+          "meta": "♥ 472 · 174 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

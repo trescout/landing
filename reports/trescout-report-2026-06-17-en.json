@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-17",
+  "editorial": "In today's technology agenda, software development tools and automation libraries stand out. GitHub data shows that interest in fast compilers and browser automation projects has increased significantly.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "summary": "freeCodeCamp is an open source platform that offers free educational curriculum in mathematics, programming and computer science. Developed with TypeScript language, the project provides an interactive learning environment for users to improve their software skills.",
+          "meta": "TypeScript · ★ 448,854 · +633 today"
+        },
+        {
+          "title": "swc-project/swc",
+          "url": "https://github.com/swc-project/swc",
+          "summary": "SWC, a fast web compiler developed with the Rust language, offers high performance in the conversion and packaging of JavaScript and TypeScript files. The project provides an alternative infrastructure to traditional tools to accelerate the web development tool chain.",
+          "meta": "Rust · ★ 34,020 · +20 today"
+        },
+        {
+          "title": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "summary": "Teslamate is an open source data logger application that stores Tesla vehicle data on local servers. This tool, developed with the Elixir language, allows users to monitor driving and charging statistics in detail through their own infrastructure.",
+          "meta": "Elixir · ★ 8,469 · +215 today"
+        },
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "The iptv-org project, which gathers public television channels around the world in a single center, offers a comprehensive list that provides access to television over internet protocol (IPTV) broadcasts. Using this data set, developers can develop television viewing applications for different platforms.",
+          "meta": "TypeScript · ★ 124,577 · +1,197 today"
+        },
+        {
+          "title": "puppeteer/puppeteer",
+          "url": "https://github.com/puppeteer/puppeteer",
+          "summary": "Puppeteer offers a browser automation interface (API) used to control Chrome and Firefox browsers. This library, developed with TypeScript, allows testing web pages and managing data scraping processes.",
+          "meta": "TypeScript · ★ 94,987 · +56 today"
+        },
+        {
+          "title": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "summary": "Meshery is a service mesh manager designed for the management of cloud native infrastructures. The platform standardizes the configuration, deployment and performance analysis of different service networks through a single interface.",
+          "meta": "TypeScript · ★ 10,920 · +228 today"
+        },
+        {
+          "title": "cypress-io/cypress",
+          "url": "https://github.com/cypress-io/cypress",
+          "summary": "Cypress is an automation tool that offers fast and reliable end-to-end testing processes for all applications running on the browser. This platform, developed with TypeScript, is widely preferred to verify the functionality of web interfaces.",
+          "meta": "TypeScript · ★ 50,288 · +13 today"
+        },
+        {
+          "title": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "summary": "Music Assistant is an open-source media library manager that combines different digital music services and audio devices in a single hub. This Python-based server application enables the creation of a central audio management system over continuously operating devices.",
+          "meta": "Python · ★ 2,635 · +157 today"
+        },
+        {
+          "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "summary": "Universal Android Debloater Next Generation is a cross-platform graphical interface developed in Rust to remove unnecessary applications on Android devices that do not require root access. The tool aims to improve the privacy, security and battery life performance of the device using Android Debug Bridge (ADB).",
+          "meta": "Rust · ★ 7,487 · +146 today"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM2 offers a tokenizer-free text-to-speech model for multilingual speech production, creative sound design and lifelike voice cloning. This approach provides more natural and flexible sound synthesis processes by directly processing sound data, unlike traditional methods.",
+          "meta": "Python · ★ 30,314 · +408 today"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Developed by Alibaba, zvec is a lightweight and high-speed in-process vector database solution written in C++. It aims to increase system performance by allowing applications to process vector data directly in memory.",
+          "meta": "C++ · ★ 10,691 · +156 today"
+        },
+        {
+          "title": "rmyndharis/OpenWA",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "summary": "OpenWA offers a free and open source API gateway solution for the WhatsApp messaging protocol. This tool, developed with TypeScript language, allows users to manage WhatsApp integrations on their own servers (self-hosted).",
+          "meta": "TypeScript · ★ 9,223 · +185 today"
+        },
+        {
+          "title": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "summary": "Iroh is a modular networking stack that makes network connections more flexible by using key-based addressing instead of IP addresses. Developed with the Rust language, this tool provides an infrastructure that is resistant to network interruptions and provides direct data transfer.",
+          "meta": "Rust · ★ 9,418 · +334 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Running local models is good now",
+          "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+          "summary": "Running native large language models on personal computers has become accessible as hardware efficiency increases and software tools become easier. Users can run artificial intelligence models (local models) on their own systems, preserving data privacy without being dependent on cloud-based services.",
+          "meta": "1,293 points · 499 comments"
+        },
+        {
+          "title": "SpaceX to buy Cursor for $60B",
+          "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+          "summary": "SpaceX is purchasing Anysphere, the developer of the AI ​​code editor Cursor, for $60 billion. With this move, the company aims to integrate generative artificial intelligence (generative AI) technologies that automate software development processes into its own operations.",
+          "meta": "1,013 points · 1,511 comments"
+        },
+        {
+          "title": "GrapheneOS has been ported to Android 17",
+          "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+          "summary": "GrapheneOS has been ported to Android 17 and official versions are planned to be released soon. The privacy-focused operating system is preparing to support new security features with the current Android version.",
+          "meta": "736 points · 337 comments"
+        },
+        {
+          "title": "Mechanical Watch (2022)",
+          "url": "https://ciechanow.ski/mechanical-watch/",
+          "summary": "The interactive article prepared by Bartosz Ciechanowski visualizes the working principles of mechanical watches through gear wheels, mainsprings and escapement mechanisms. The study explains the physical functioning of complex timekeeping systems step by step and supports engineering details with digital simulations.",
+          "meta": "692 points · 116 comments"
+        },
+        {
+          "title": "Calvin and Hobbes and the price of integrity",
+          "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+          "summary": "Bill Watterson chose to protect his creative integrity by denying merchandise rights to the Calvin and Hobbes comic strip. This approach brings into question the control of artists over their works and the balance between commercial success and artistic independence.",
+          "meta": "410 points · 177 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "The Gemma-4-12B-coder model offers text generation capabilities optimized for coding tasks. Thanks to the GGUF format, the model can be run on local devices with low hardware requirements.",
+          "meta": "♥ 1,285 · 60,921 downloads"
+        },
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, published by Google, is a multimodal model that produces text-based outputs by processing text and image inputs. The model provides the ability to respond to user queries by analyzing information obtained from images.",
+          "meta": "♥ 958 · 375,974 downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3 is a multimodal model that can process text and visual data simultaneously. The system offers the ability to produce text-based outputs by combining image and text inputs.",
+          "meta": "♥ 1,037 · 25,064 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Kimi-K2.7-Code, developed by Moonshot AI, is a multimodal model that produces text output by processing visual and text inputs. Focusing on software development processes, this model offers the ability to analyze visual data by combining it with text in code-based tasks.",
+          "meta": "♥ 818 · 102,206 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, published by Zai-org, is a language model optimized for text generation tasks. This model, available on the HuggingFace platform, is designed to be used in extensive text creation processes.",
+          "meta": "♥ 725 · 0 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "web compiler",
+      "explanation": "A tool that makes written codes executable directly via the internet browser without having to download them to the computer."
+    },
+    {
+      "term": "data logger",
+      "explanation": "An electronic device that records and stores information from sensors along with a time stamp."
+    },
+    {
+      "term": "IPTV",
+      "explanation": "A system that allows television broadcasts to be watched via an internet connection instead of a traditional antenna or satellite."
+    },
+    {
+      "term": "streaming applications",
+      "explanation": "Applications that allow you to watch or listen to video or audio files instantly over the internet, without waiting for downloading them."
+    },
+    {
+      "term": "API",
+      "explanation": "A bridge that allows two different software to talk to each other and exchange data."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "The process of automatically collecting and recording data on websites through software."
+    },
+    {
+      "term": "cloud native",
+      "explanation": "Modern software architecture designed from the ground up to run on servers on the Internet."
+    },
+    {
+      "term": "service mesh manager",
+      "explanation": "A control tool that organizes and manages how different parts of complex software systems communicate with each other."
+    },
+    {
+      "term": "end-to-end testing",
+      "explanation": "Checking whether all features of a software from start to finish work without errors by acting like a real user."
+    },
+    {
+      "term": "root",
+      "explanation": "The highest-level administrative account that has full authority over a device's operating system."
+    },
+    {
+      "term": "ADB",
+      "explanation": "A connection tool that enables software management by sending commands to Android devices via the computer."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Technology that imitates a person's voice using artificial intelligence and can create new sentences with that person's tone of voice."
+    },
+    {
+      "term": "tokenizer-free",
+      "explanation": "The method of artificial intelligence to process texts directly through raw characters or data, without dividing them into small pieces."
+    },
+    {
+      "term": "text-to-speech",
+      "explanation": "Technology that voices written texts with a human voice with the help of a computer or artificial intelligence."
+    },
+    {
+      "term": "in-process vector database",
+      "explanation": "A system that quickly stores complex data needed by artificial intelligence directly within the application itself, without the need for a separate server."
+    },
+    {
+      "term": "API gateway",
+      "explanation": "The central gateway that handles all external requests and directs them to the relevant software units."
+    }
+  ]
+}

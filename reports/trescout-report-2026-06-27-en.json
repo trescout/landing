@@ -1,0 +1,249 @@
+{
+  "date": "2026-06-27",
+  "editorial": "In today's technology agenda, the search for technical efficiency between decentralized communication protocols and autonomous driving systems stands out. Current data on GitHub confirms that developers' interest in both privacy-focused messaging infrastructures and free tools in the open source software ecosystem is increasing.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "summary": "SimpleX offers a privacy-oriented communication infrastructure as the first messaging network that operates without using user identifiers. Developed with Haskell language, the platform aims to keep user data completely anonymous thanks to its decentralized structure.",
+          "meta": "Haskell · ★ 12,874 · +432 today"
+        },
+        {
+          "title": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "summary": "Developed by Google Labs, DESIGN.md provides a structured format specification for passing visual credentials to coding agents. This standard ensures that design systems are understood permanently and consistently by artificial intelligence agents.",
+          "meta": "TypeScript · ★ 21,626 · +2,407 today"
+        },
+        {
+          "title": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "summary": "Developed by Comma AI, openpilot is an open source operating system designed for robotic systems. The software provides autonomous driving capabilities by upgrading the driver assistance system in more than 300 vehicle models.",
+          "meta": "Python · ★ 61,864 · +80 today"
+        },
+        {
+          "title": "kunchenguid/no-mistakes",
+          "url": "https://github.com/kunchenguid/no-mistakes",
+          "summary": "Developed with the Go language, no-mistakes is a command line tool designed to prevent software developers from submitting faulty code (git push). This tool aims to prevent accidental sharing by checking changes in local storage.",
+          "meta": "Go · ★ 3,570 · +398 today"
+        },
+        {
+          "title": "grafana/grafana",
+          "url": "https://github.com/grafana/grafana",
+          "summary": "Grafana is an open source observability and data visualization platform that combines metrics, logs, and traces from different data sources in a single interface. It allows analysis of complex data sets by integrating with many systems such as Prometheus, Elasticsearch and PostgreSQL.",
+          "meta": "TypeScript · ★ 74,994 · +32 today"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev is a resource list that brings together the free tiers of software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS) solutions used in software development processes. It aims to make it easier for developers and infrastructure engineers to access cost-free tools.",
+          "meta": "HTML · ★ 123,834 · +90 today"
+        },
+        {
+          "title": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "summary": "MinerU converts complex file formats such as PDF and office documents into markdown or JSON format suitable for large language models. This tool parses unstructured data and makes it available in the workflows of artificial intelligence agents (agent workflows).",
+          "meta": "Python · ★ 70,610 · +960 today"
+        },
+        {
+          "title": "alchaincyf/zhangxuefeng-skill",
+          "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+          "summary": "Zhangxuefeng-skill is defined as a cognitive operating system that offers strategic thinking frameworks for university exam preferences, postgraduate education and career planning processes. This structure includes practical decision-making models created through the Nuwa.skill platform.",
+          "meta": "★ 9,333 · +160 today"
+        },
+        {
+          "title": "mauriceboe/TREK",
+          "url": "https://github.com/mauriceboe/TREK",
+          "summary": "TREK is a self-hosted travel planning application that offers features like real-time collaboration, interactive maps, and budget management. The project, which includes modern web standards such as progressive web application (PWA) support and single sign-on (SSO), was developed with the TypeScript language.",
+          "meta": "TypeScript · ★ 7,819 · +1,060 today"
+        },
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI-berkshire is a value investing research framework that applies the methodologies of four major investors using the Claude Code infrastructure. It aims to support investment decisions by analyzing financial data in parallel with its multi-agent structure.",
+          "meta": "Python · ★ 3,295 · +1,274 today"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage is an open source agent-based system that turns AI-powered coding assistants into a comprehensive video production studio. This Python-based platform automates video production processes with 12 different workflows and more than 500 agent skills.",
+          "meta": "Python · ★ 24,004 · +1,754 today"
+        },
+        {
+          "title": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "summary": "Developed by AWS, agent-toolkit-for-aws provides the necessary Model Context Protocol servers and plug-ins for artificial intelligence agents to operate on AWS services. This toolset allows agents to standardize skill-based workflows across cloud infrastructure.",
+          "meta": "Python · ★ 1,405 · +243 today"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler is a web scraping tool developed to collect video, post and comment data on popular Chinese social media platforms. This Python-based software automates extensive content extraction processes using customized modules for different platforms.",
+          "meta": "Python · ★ 53,482 · +673 today"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Gstack offers 23 specialized toolkits based on Garry Tan's Claude Code configuration that take on different roles such as CEO, designer, engineering manager. This TypeScript-based structure uses defined workflows to automate software development processes.",
+          "meta": "TypeScript · ★ 116,772 · +950 today"
+        },
+        {
+          "title": "IceWhaleTech/CasaOS",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "summary": "CasaOS is an open source personal cloud system with a user-friendly interface designed for home servers. This platform, developed with the Go language, allows Docker-based applications to be easily managed and a central storage area created.",
+          "meta": "Go · ★ 35,493 · +619 today"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "Using artificial intelligence coding agents, this template allows copying any website with a single command. The TypeScript-based project offers a fast cloning infrastructure to automate web development processes.",
+          "meta": "TypeScript · ★ 21,520 · +1,088 today"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach is a command line interface (CLI) tool that gives AI agents the ability to scan and read platforms on the internet. It works without charging any application programming interface (API) fees to pull data from popular networks like Twitter, Reddit, and GitHub.",
+          "meta": "Python · ★ 42,672 · +1,194 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+          "summary": "The United States government will have the authority to monitor users who will access the next generation artificial intelligence models developed by OpenAI. This application highlights national security and risk management criteria in the use of high-capacity models.",
+          "meta": "955 points · 1,018 comments"
+        },
+        {
+          "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+          "summary": "OpenAI shared the system board and preview details for the next generation language model GPT-5.6 Sol. The published technical documents focus on the model's security protocols and improved reasoning capabilities.",
+          "meta": "940 points · 579 comments"
+        },
+        {
+          "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+          "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+          "summary": "The United States government has approved the Mythos artificial intelligence model developed by Anthropic for use by certain trusted organizations. This development represents the opening of high-capacity artificial intelligence models to controlled access within the framework of national security and control.",
+          "meta": "356 points · 355 comments"
+        },
+        {
+          "title": "We can still stop California's 3D printer surveillance scheme",
+          "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+          "summary": "The bill, which came to the fore in the state of California, aims to force 3D printer manufacturers to integrate surveillance technologies that can track users into the devices. The Electronic Frontier Foundation opposes the bill, arguing that this regulation would restrict personal freedom of production and violate privacy rights.",
+          "meta": "343 points · 117 comments"
+        },
+        {
+          "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+          "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+          "summary": "AWS Lambda introduces micro virtual machines (microVMs) technology to create isolated sandboxes. This approach improves security and resource management processes by giving developers full lifecycle control.",
+          "meta": "314 points · 175 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is an image-to-text model that processes visual texts and produces text output. The model optimizes optical character recognition processes to convert data in complex documents into digital format.",
+          "meta": "♥ 1,069 · 134,146 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, developed by Zai-org, is a language model designed for text generation tasks. This model, which has reached a wide user base on the HuggingFace platform, offers text generation capabilities in natural language processing processes.",
+          "meta": "♥ 2,619 · 83,589 downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "The Qwythos-9B-Claude-Mythos-5-1M model is a language model optimized for text generation tasks. It is presented in GGUF format with the quantization method in order to work on low-resource devices.",
+          "meta": "♥ 614 · 486,810 downloads"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "This Gemma-4-12B based model offers an optimized structure for use in text generation tasks. Thanks to the GGUF format, the model can be run on local devices with low hardware requirements.",
+          "meta": "♥ 694 · 186,663 downloads"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "This text-generation model based on Gemma-4-12B offers a special structure optimized for code writing and creative editing processes. The model is available in quantized GGUF format so that it can run on low-resource devices.",
+          "meta": "♥ 2,408 · 516,333 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "user identifiers",
+      "explanation": "Unique identification numbers or usernames used to distinguish a person from others in a digital system."
+    },
+    {
+      "term": "driver assistance system",
+      "explanation": "Intelligent assistive technologies that warn the driver or automatically control the vehicle to increase safety while driving."
+    },
+    {
+      "term": "git push",
+      "explanation": "The process of sending the software changes you make on your computer to a common storage area on the internet."
+    },
+    {
+      "term": "logs",
+      "explanation": "Logs in which the operations performed by a software in the background and the errors it encounters are recorded with timestamps."
+    },
+    {
+      "term": "traces",
+      "explanation": "The step-by-step recording of the path a process follows as it moves through different stages within the system."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "A model of using the software by renting it over the internet via a browser, rather than installing it on your computer."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Providing the necessary infrastructure over the internet for software developers to develop and publish their own applications."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Renting basic hardware resources such as virtual servers and storage space over the Internet."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "markdown",
+      "explanation": "A written language that allows you to quickly format texts using simple signs instead of complex codes."
+    },
+    {
+      "term": "agentic workflows",
+      "explanation": "Artificial intelligence tools make their own decisions and complete a job end-to-end without human intervention."
+    },
+    {
+      "term": "cognitive operating system",
+      "explanation": "Advanced software architecture that processes information and manages decision-making processes by imitating the working principles of the human mind."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Instead of renting a software from outside, you run it by hosting it on your own server or computer."
+    },
+    {
+      "term": "PWA",
+      "explanation": "It is the modern version of websites that can be installed on your phone like an application and work offline."
+    },
+    {
+      "term": "SSO",
+      "explanation": "Ease of logging into multiple different applications at the same time with a single username and password."
+    },
+    {
+      "term": "value investing",
+      "explanation": "A strategy of buying shares of companies that you believe are underpriced for long-term gain."
+    }
+  ]
+}

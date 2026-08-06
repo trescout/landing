@@ -1,0 +1,377 @@
+{
+  "date": "2026-08-05",
+  "editorial": "Memory management and personal data security of artificial intelligence agents (AI agents) are at the center of technical discussions today. New versions of models like DeepSeek and MiniMax take multimodal deep research capabilities to the next level.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory is a team-level memory hub for AI agents that transforms conversations, documents, and code into four different reusable memory entities. This structure, developed with TypeScript, enables the management of data shared between different agents and frameworks.",
+          "meta": "TypeScript · ★ 14,151 · +1,111 today"
+        },
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-skill offers an AI-supported guidance and toolset for reverse engineering and penetration testing processes. It integrates with coding assistants such as Claude Code or Cursor, providing security researchers with automatic tool installation and a constantly updated knowledge base.",
+          "meta": "PowerShell · ★ 18,323 · +2,297 today"
+        },
+        {
+          "title": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "summary": "The PDF inspector, developed with the Rust language, examines PDF files and distinguishes whether they are text-based or scanned. This tool enables smart routing decisions to be made by accelerating content classification and text extraction processes.",
+          "meta": "Rust · ★ 10,410 · +2,540 today"
+        },
+        {
+          "title": "uber/ADR",
+          "url": "https://github.com/uber/ADR",
+          "summary": "Developed by Uber, ADR protects corporate AI agents with observability, security benchmarking and threat detection methods. The software offers a security framework developed to increase the security of artificial intelligence systems.",
+          "meta": "Python · ★ 782 · +148 today"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers offers an agentic skills framework and software development methodology for artificial intelligence agents. This tool aims to standardize the workflows of autonomous systems performing complex tasks.",
+          "meta": "Shell · ★ 266,683 · +653 today"
+        },
+        {
+          "title": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "summary": "This training series prepared by Microsoft offers a 21-lesson curriculum for those who want to get into generative artificial intelligence (generative AI) technologies. The contents in Jupyter Notebook format provide an applied learning process through coding examples.",
+          "meta": "Jupyter Notebook · ★ 116,420 · +783 today"
+        },
+        {
+          "title": "cypress-io/cypress",
+          "url": "https://github.com/cypress-io/cypress",
+          "summary": "Cypress is a test automation tool that allows you to perform fast and reliable end-to-end testing for any application running on the browser. It allows software developers to speed up their debugging processes by simulating web interfaces in the browser environment.",
+          "meta": "TypeScript · ★ 50,846 · +11 today"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM allows you to run large language models with 70 billion parameters on graphics processors (GPU) with only 4 GB of memory. By reducing hardware requirements, this library makes high-capacity AI models usable on standard consumer hardware.",
+          "meta": "Jupyter Notebook · ★ 28,588 · +1,711 today"
+        },
+        {
+          "title": "webpack/webpack",
+          "url": "https://github.com/webpack/webpack",
+          "summary": "Webpack is a bundler that bundles JavaScript and other web assets together to run in the browser. It allows applications to be loaded when needed, thanks to the code splitting feature that divides modules into manageable parts.",
+          "meta": "JavaScript · ★ 65,961 · +10 today"
+        },
+        {
+          "title": "gabime/spdlog",
+          "url": "https://github.com/gabime/spdlog",
+          "summary": "spdlog is a very fast logging library developed for the C++ programming language. It offers high-performance output management to accelerate debugging and monitoring processes in software projects.",
+          "meta": "C++ · ★ 29,402 · +10 today"
+        },
+        {
+          "title": "denoland/deno",
+          "url": "https://github.com/denoland/deno",
+          "summary": "Deno is a modern runtime environment designed for JavaScript and TypeScript languages. Developed in Rust language, this tool offers an alternative infrastructure to the traditional Node.js platform with its security and performance-oriented structure.",
+          "meta": "Rust · ★ 108,091 · +31 today"
+        },
+        {
+          "title": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "summary": "Kaneo is an open source work tracking tool that aims to simplify project management processes. It avoids complex interfaces and offers the basic features that users need in a structure developed with the TypeScript language.",
+          "meta": "TypeScript · ★ 7,373 · +559 today"
+        },
+        {
+          "title": "livekit/agents",
+          "url": "https://github.com/livekit/agents",
+          "summary": "LiveKit Agents is a Python framework used to develop real-time voice artificial intelligence agents. It enables developers to build interactive systems with low-latency audio and video processing capabilities.",
+          "meta": "Python · ★ 12,531 · +432 today"
+        },
+        {
+          "title": "angular/angular",
+          "url": "https://github.com/angular/angular",
+          "summary": "Developed by Google, Angular is a comprehensive framework used to create scalable web applications. With its TypeScript-based structure, it offers tools that standardize and structure the development process in complex projects.",
+          "meta": "TypeScript · ★ 100,882 · +13 today"
+        },
+        {
+          "title": "tailwindlabs/tailwindcss",
+          "url": "https://github.com/tailwindlabs/tailwindcss",
+          "summary": "Tailwind CSS is a utility-first style sheet framework (CSS framework) focused on rapid user interface development. It enables the rapid creation of original interfaces by offering low-level classes instead of ready-made design components.",
+          "meta": "TypeScript · ★ 96,571 · +52 today"
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "Python-based video-use enables coding agents to automate video editing processes. It allows software developers to manage video editing processes with text-based commands.",
+          "meta": "Python · ★ 19,482 · +320 today"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix is ​​an artificial intelligence coding agent that runs on the terminal and focuses on prefix-cache stability. Developed with the Go language, this tool supports uninterrupted code development processes in long-term sessions.",
+          "meta": "Go · ★ 31,002 · +922 today"
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "Compound Engineering plugin is a system developed for AI coding tools such as Claude Code, Cursor and Codex. It offers a standard structure to manage complex tasks in software development processes.",
+          "meta": "TypeScript · ★ 23,934 · +40 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+          "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+          "summary": "Stephen Wolfram, founder of Wolfram Research, published a personal tribute upon the death of his life partner Elise Cawley. The article presents a life story focusing on Cawley's identity as a mathematician and the couple's thirty-six-year relationship.",
+          "meta": "1,205 points · 67 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49173165",
+              "popularity": 1205,
+              "engagementCount": 67
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+          "url": "https://toneyalexander.github.io/inclusive-color-space/",
+          "summary": "A new color space and algorithm has been developed to realistically render various skin tones in digital art and game development projects. This method allows users to easily select and procedurally generate different skin colors.",
+          "meta": "495 points · 91 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49170165",
+              "popularity": 495,
+              "engagementCount": 91
+            }
+          ]
+        },
+        {
+          "title": "There Will Come Soft Rains (1950) [pdf]",
+          "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+          "summary": "There Will Come Soft Rains, written by Ray Bradbury, is about a dystopian future where technological progress continues even after humanity disappears. This short story, in which an automated house continues its daily routines, deals with the contrast between technology and nature.",
+          "meta": "373 points · 392 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49162653",
+              "popularity": 373,
+              "engagementCount": 392
+            }
+          ]
+        },
+        {
+          "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+          "url": "https://mistral.ai/news/shieldstral/",
+          "summary": "Shieldstral, published by Mistral AI, is a vulnerability-weighted model with 3 billion parameters developed for multimodal content moderation. It aims to detect harmful content and provide a safe user experience by analyzing visual and textual data.",
+          "meta": "363 points · 90 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49171268",
+              "popularity": 363,
+              "engagementCount": 90
+            }
+          ]
+        },
+        {
+          "title": "Waymo in Dallas",
+          "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+          "summary": "Waymo, which develops autonomous driving technology, opened its driverless vehicle service to all users in the city of Dallas. By expanding its operations in the region, the company brings its fully autonomous taxi (robotaxi) experience to a wider audience.",
+          "meta": "280 points · 470 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49172836",
+              "popularity": 280,
+              "engagementCount": 470
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731 is an artificial intelligence model focused on text generation. Hosted on the HuggingFace platform, this language model is designed for high-performance content creation processes.",
+          "meta": "♥ 2,357 · 433,284 downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, developed by MiniMax, is a multi-modal artificial intelligence model that accepts visual and text data as input and produces video. It allows users to create high-quality motion images from complex commands.",
+          "meta": "♥ 2,116 · 0 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Developed by Moonshot AI, Kimi-K3 is a multimodal artificial intelligence model that can process visual and text data simultaneously. This system, which produces text-based responses by analyzing images uploaded by users, offers capabilities in understanding complex visual content.",
+          "meta": "♥ 10,028 · 1,125,935 downloads"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3, published by Comfy-Org, is a multimodal artificial intelligence model (multimodal model) with text and image processing capabilities. This model, shared on the open source artificial intelligence platform Hugging Face, is used to analyze complex visual data and create text-based responses.",
+          "meta": "♥ 649 · 2 downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Shared on Hugging Face, Qwen3.6-27B-Fable-Fusion is a multimodal AI model that produces text output by processing visual and text inputs. The model has been designed with an uncensored structure so that users can produce more flexible content.",
+          "meta": "♥ 1,527 · 1,633,405 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills",
+          "url": "https://huggingface.co/papers/2608.03700",
+          "summary": "Systems that transform personal interaction histories into portable skills (persona skills) increase the confidentiality of user data and the risks of identity impersonation. The evaluation tool called AntiSkillBench was developed to measure vulnerabilities and test defense mechanisms that arise in these personalization processes.",
+          "meta": "1 likes · 1 comments"
+        },
+        {
+          "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+          "url": "https://huggingface.co/papers/2608.03979",
+          "summary": "Video-DeepResearch introduces a new framework that extends the capabilities of multimodal AI agents from static images to continuous video streams. The system aims to overcome basic limitations such as models turning to text-based searches instead of using visual tools and relying on their own internal knowledge rather than external sources.",
+          "meta": "10 likes · 1 comments"
+        },
+        {
+          "title": "Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories",
+          "url": "https://huggingface.co/papers/2608.00730",
+          "summary": "Push-Wiper is a method developed for robots to clean sticky stains without spreading them on the surface. It makes surface cleaning more controlled with segmented pushing trajectories that gradually collect stains using a sponge.",
+          "meta": "1 likes · 1 comments"
+        },
+        {
+          "title": "ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts",
+          "url": "https://huggingface.co/papers/2607.28993",
+          "summary": "ST-WAM aims to solve the problem of visual inconsistency in world action models that model robotic actions and visual dynamics together. The model offers a more stable performance in robotic manipulation processes by preventing hallucinations that occur in visual changes other than the training data.",
+          "meta": "1 likes · 1 comments"
+        },
+        {
+          "title": "Quo Vadis, World Modeling?",
+          "url": "https://huggingface.co/papers/2608.02713",
+          "summary": "World modeling offers a simulation layer that allows AI agents to receive safe and low-cost feedback before taking action in the real world. This approach allows agents to make more controlled and efficient decisions in complex tasks by predicting physical states.",
+          "meta": "12 likes · 1 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "The Lua community needs to learn to move on",
+          "url": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
+          "summary": "The Lua community faces a call to adapt to modern development practices by reducing dependence on older versions of the language. Software developers argue that new standards should be adopted instead of backward compatibility to keep the ecosystem up-to-date.",
+          "meta": "67 points · 26 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on",
+              "popularity": 67,
+              "engagementCount": 26
+            }
+          ]
+        },
+        {
+          "title": "Security is Hard, Y’all",
+          "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+          "summary": "Software security continues to be a challenging process due to the margin of error and human factors in complex systems. Cybersecurity expert Eric Lawrence discusses the technical and operational hurdles to completely eliminating vulnerabilities in software development processes.",
+          "meta": "64 points · 5 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/qoptbx/security_is_hard_y_all",
+              "popularity": 64,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Enabling the next iteration of the borrow checker on nightly",
+          "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
+          "summary": "Developers of the Rust programming language have brought Polonius, the next generation version of the borrow checker that ensures memory safety, to the testing phase. This update aims to reduce the constraints experienced by developers by allowing the compiler to analyze complex code structures more flexibly.",
+          "meta": "55 points · 0 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker",
+              "popularity": 55,
+              "engagementCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "PDF inspector",
+      "explanation": "It is a tool that allows you to examine the text, visual and structural information in documents and debug them."
+    },
+    {
+      "term": "text extraction",
+      "explanation": "It is the process of converting the text in digital documents or images into text format that can be read by the computer."
+    },
+    {
+      "term": "framework",
+      "explanation": "It is a basic structure that provides ready-made libraries and a set of rules that makes your work easier when developing software."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "It is a set of capabilities that enable artificial intelligence models to make decisions on their own and perform complex tasks."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "It is an artificial intelligence technology that can produce new content such as text, visuals or sound from scratch using the data it learns."
+    },
+    {
+      "term": "end-to-end testing",
+      "explanation": "It is a testing method that checks whether all parts of a software from start to finish are working correctly from the user's perspective."
+    },
+    {
+      "term": "large language models",
+      "explanation": "They are artificial intelligence models trained with very large data that can understand human language and produce text."
+    },
+    {
+      "term": "GPU",
+      "explanation": "It is a special processor unit that can perform heavy mathematical calculations such as image processing and artificial intelligence very quickly."
+    },
+    {
+      "term": "bundler",
+      "explanation": "It is a tool that combines many files in a software project and makes them easy for the browser to run."
+    },
+    {
+      "term": "code splitting",
+      "explanation": "It is a method of dividing large code files into small pieces and loading them as needed to increase the loading speed of the website."
+    },
+    {
+      "term": "logging",
+      "explanation": "It is the recording of a program to keep track of the operations it performs or the errors it encounters while it is running."
+    },
+    {
+      "term": "runtime",
+      "explanation": "It refers to the moment when the written code is run on the computer and the environment needed in this process."
+    },
+    {
+      "term": "utility-first",
+      "explanation": "It is an approach to quickly create styles using predefined small and functional commands while designing."
+    },
+    {
+      "term": "CSS framework",
+      "explanation": "It is a set of tools that offers ready-made design templates to quickly beautify the appearance of web pages."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "They are artificial intelligence software that can act like a programmer and write code, fix errors and develop projects."
+    },
+    {
+      "term": "prefix-cache stability",
+      "explanation": "It is a technique that allows artificial intelligence to respond to the same questions much faster and more consistently by keeping the information it has previously processed in its memory."
+    }
+  ]
+}

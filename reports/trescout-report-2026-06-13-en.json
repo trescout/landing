@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-13",
+  "editorial": "In the software world today, autonomous skill packages and open source media management solutions come to the fore. GitHub data shows that developers are particularly focused on container isolation and centralized server management.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "This library, developed for artificial intelligence coding agents, offers production-level engineering skills. It aims to standardize the workflows of agents that automate software development processes.",
+          "meta": "Shell · ★ 57,241 · +2,656 today"
+        },
+        {
+          "title": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "summary": "Music Assistant is an open-source media library manager that combines different digital streaming services and connected speakers into a single interface. This Python-based server software enables the creation of a central music management system on constantly operating devices.",
+          "meta": "Python · ★ 1,857 · +20 today"
+        },
+        {
+          "title": "mattermost/mattermost",
+          "url": "https://github.com/mattermost/mattermost",
+          "summary": "Mattermost is an open source platform designed to enable secure collaboration throughout the software development lifecycle. This system, developed with the TypeScript language, gathers the communication and project management processes of the teams in a single center.",
+          "meta": "TypeScript · ★ 37,696 · +388 today"
+        },
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Developed by Apple, container enables the creation and running of Linux containers through lightweight virtual machines optimized for Apple silicon processors. Written in Swift, this tool offers a performance-oriented solution for native container management on macOS.",
+          "meta": "Swift · ★ 35,486 · +3,504 today"
+        },
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "The iptv-org project, which gathers public television channels around the world in a single center, presents television broadcast over internet protocol (IPTV) lists as an organized dataset. Developed with TypeScript, this open source collection standardizes users' access to publications in different countries.",
+          "meta": "TypeScript · ★ 118,170 · +179 today"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers is an agent skills framework and methodology designed to automate software development processes. This architecture provides modular capabilities for agent-based systems to standardize software development workflows.",
+          "meta": "Shell · ★ 226,284 · +1,275 today"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria is a desktop application developed for managing Markdown-based knowledge bases. Written in TypeScript, this tool offers a central interface for organizing personal documentation processes.",
+          "meta": "TypeScript · ★ 15,926 · +369 today"
+        },
+        {
+          "title": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "summary": "OpenMed is an open source artificial intelligence library developed for use in healthcare. This Python-based platform aims to standardize the processes of processing and analyzing medical data.",
+          "meta": "Python · ★ 3,270 · +515 today"
+        },
+        {
+          "title": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "summary": "LMCache offers a layer that increases inference speed by optimizing key-value cache (KV cache) management for large language models. This system, which makes memory usage efficient, aims to reduce the computational load in queries that use the same context.",
+          "meta": "Python · ★ 8,698 · +28 today"
+        },
+        {
+          "title": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "summary": "PM Skills Marketplace offers more than 100 agentic skills, commands, and plugins for product management processes, ranging from discovery to growth. This platform provides ready-made toolsets to automate product development workflows.",
+          "meta": "★ 17,229 · +827 today"
+        },
+        {
+          "title": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "summary": "MasterDnsVPN is a low-overhead domain name system tunneling (DNS tunneling) virtual private network (VPN) solution developed for censorship bypassing. Written in the Go language, the tool offers high speed and stability with automatic retransmission (ARQ) and resolver load balancing in case of data loss.",
+          "meta": "Go · ★ 6,104 · +400 today"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "The Agency-agents project offers a digital agency structure consisting of specialized artificial intelligence agents with different areas of expertise. The system gathers expert agents who have personalities and produce concrete outputs under a single roof so that users can manage certain business processes.",
+          "meta": "Shell · ★ 112,596 · +1,026 today"
+        },
+        {
+          "title": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "summary": "Microsoft PowerToys is a collection of utility software developed to increase productivity and customization in the Windows operating system. It offers users advanced customization tools and workflow optimizations on the system.",
+          "meta": "C · ★ 134,431 · +103 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "summary": "Anthropic announced that it has suspended access to Fable 5 and Mythos 5 models in accordance with the instructions of the United States government. The company stated that this decision was a regulatory restriction taken for national security reasons.",
+          "meta": "2,000 points · 1,472 comments"
+        },
+        {
+          "title": "If you are asking for human attention, demonstrate human effort",
+          "url": "https://tombedor.dev/human-attention-and-human-effort/",
+          "summary": "He argues that content that demands human attention in digital communication should show the human effort in a concrete way. He states that for quality interaction, content producers must prove their own preparation processes before asking for time from the other party.",
+          "meta": "1,571 points · 469 comments"
+        },
+        {
+          "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+          "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+          "summary": "A newly developed gene editing (CRISPR) method targets tumors that are considered untreatable by selectively lysing cancer cells. This technique triggers cell death by disrupting the genetic code of cancerous structures without harming healthy cells.",
+          "meta": "796 points · 189 comments"
+        },
+        {
+          "title": "Open source AI must win",
+          "url": "https://opensourceaimustwin.com/?share=v2",
+          "summary": "Open source artificial intelligence (open source AI) advocates emphasize that artificial intelligence technologies must remain decentralized and accessible. This approach is based on transparency and community-oriented development against the risk of monopolization posed by closed-source models.",
+          "meta": "764 points · 237 comments"
+        },
+        {
+          "title": "Electric motors with no rare earths",
+          "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+          "summary": "Renault is developing new generation technologies that do not use rare earth elements in electric vehicle engines. This approach aims to support sustainable electric motor architectures by reducing external dependency in production processes.",
+          "meta": "392 points · 98 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, developed by Google, is a multimodal model that produces text-based outputs by processing text and image inputs. The model expands analysis capability by combining information obtained from images with text-based tasks.",
+          "meta": "♥ 641 · 20,669 downloads"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Developed by Nvidia, LocateAnything-3B is an image-text-to-text model that performs object localization tasks by processing visual and textual inputs. The system allows object detection with text-based queries on complex visual data.",
+          "meta": "♥ 1,931 · 149,206 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Kimi-K2.7-Code, developed by Moonshot AI, is a model that performs code generation by processing visual and text-based inputs. Thanks to its multimodal structure, it provides support in complex software development processes by converting visual data into text outputs.",
+          "meta": "♥ 389 · 0 downloads"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Gemma 2 4B and 12B models developed by Google offer a multimodal structure with text and image processing capabilities. These models provide the capacity to produce any output from any input type (any-to-any) by processing different data types through a single architecture.",
+          "meta": "♥ 977 · 911,544 downloads"
+        },
+        {
+          "title": "CohereLabs/North-Mini-Code-1.0",
+          "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+          "summary": "North-Mini-Code-1.0, developed by CohereLabs, is a specialized language model focusing on text-generation capabilities. This model, designed to support software development processes, aims to increase efficiency in code-based tasks.",
+          "meta": "♥ 339 · 4,054 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "engineering skills",
+      "explanation": "Ability to develop logical and systematic methods for solving complex problems."
+    },
+    {
+      "term": "virtual machines",
+      "explanation": "Virtual operating systems that work as if there were a separate device inside a computer."
+    },
+    {
+      "term": "containers",
+      "explanation": "Packages that contain everything required for a software to run and work the same way in every environment."
+    },
+    {
+      "term": "IPTV",
+      "explanation": "Technology that allows television broadcasts to be watched over the internet instead of a traditional antenna."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "The set of capabilities that artificial intelligence needs to make decisions and perform tasks on its own."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Computers gaining the ability to learn, reason and solve problems like humans."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "KV cache",
+      "explanation": "An acceleration method that prevents artificial intelligence from repeating the same operations by remembering the information it has previously processed."
+    },
+    {
+      "term": "agentic skills",
+      "explanation": "Artificial intelligence's ability to plan and take action on its own towards a goal."
+    },
+    {
+      "term": "DNS tunneling",
+      "explanation": "A method of transferring data by hiding Internet traffic within the system normally used to find addresses."
+    },
+    {
+      "term": "VPN",
+      "explanation": "A tool that hides your identity and provides a secure connection by encrypting your data on the internet."
+    },
+    {
+      "term": "ARQ",
+      "explanation": "Error correction system that enables automatic re-sending of erroneous data during communication."
+    },
+    {
+      "term": "regulatory restriction",
+      "explanation": "Legal rules of states or institutions restricting technological activities."
+    },
+    {
+      "term": "human effort",
+      "explanation": "The physical or mental labor that people spend to complete a job."
+    },
+    {
+      "term": "CRISPR",
+      "explanation": "A sensitive biotechnology tool used to edit the genetic codes of living things."
+    },
+    {
+      "term": "open source AI",
+      "explanation": "Artificial intelligence models whose codes and working logic are open to anyone to examine, change and improve."
+    }
+  ]
+}

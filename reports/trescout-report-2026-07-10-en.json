@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-10",
+  "editorial": "In the world of software development, today's focus is on tools that extend the capabilities of artificial intelligence agents (AI agents) and protocols (MCP) that manage the desktop interactions of these systems. In particular, the guides and open source command line interfaces shared by Anthropic show that standards are rapidly rising in the integration of autonomous systems into workflows.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "SmartlyDressedGames/U3-SDK",
+          "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+          "summary": "SmartlyDressedGames shared the U3-SDK software development kit developed for the open world zombie survival game Unturned as open source. These source codes, prepared in C# language, allow community members to customize and develop the game.",
+          "meta": "C# · ★ 2,182 · +524 today"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Developed by Addy Osmani, agent-skills offers production-level engineering skills for artificial intelligence coding agents. This library aims to increase the task completion capacity of agents used in software development processes with standardized tools.",
+          "meta": "JavaScript · ★ 76,227 · +2,554 today"
+        },
+        {
+          "title": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "summary": "Awesome-design-md is a collection of design documents (DESIGN.md) from popular brand design systems. Using these documents, software agents can create user interfaces (UIs) suitable for projects.",
+          "meta": "★ 100,194 · +1,391 today"
+        },
+        {
+          "title": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "summary": "OfficeCLI is an open source office software package developed for AI agents to read, edit and automate Word, Excel and PowerPoint files. This tool, written in C#, allows operations via a single executable file without the need for Microsoft Office installation.",
+          "meta": "C# · ★ 13,839 · +1,929 today"
+        },
+        {
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "summary": "DesktopCommanderMCP is a Model Context Protocol server that provides terminal control, file system searching and diff file editing capabilities to the Claude artificial intelligence model. Developed with TypeScript, this tool allows AI to directly manage operations on the local file system.",
+          "meta": "TypeScript · ★ 6,671 · +185 today"
+        },
+        {
+          "title": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "summary": "Claude cookbooks shared by Anthropics provide practical code examples and Jupyter notebooks for using Claude models. This resource provides a variety of workflow templates to help developers speed up Claude integration into AI applications.",
+          "meta": "Jupyter Notebook · ★ 47,306 · +194 today"
+        },
+        {
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "summary": "Developed with the Go language, Pentagi offers a system of fully autonomous artificial intelligence agents (AI agents) that can perform complex penetration testing. The system aims to standardize autonomous workflows to detect and exploit vulnerabilities.",
+          "meta": "Go · ★ 19,634 · +535 today"
+        },
+        {
+          "title": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "summary": "Crawl4AI is an open source web crawler and data scraper optimized for large language models. The Python-based tool converts unstructured web data into formats directly usable in AI applications.",
+          "meta": "Python · ★ 72,019 · +215 today"
+        },
+        {
+          "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+          "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+          "summary": "This guide on Linux server security brings together the basic configuration steps that must be followed to protect systems against external threats. The constantly updated content offers a practical guide to the best methods that can be applied in server hardening processes.",
+          "meta": "★ 29,237 · +243 today"
+        },
+        {
+          "title": "huxingyi/autoremesher",
+          "url": "https://github.com/huxingyi/autoremesher",
+          "summary": "Autoremesher is an open source C++ tool that automatically converts three-dimensional models into quad remeshing. It provides optimized topology generation to make complex geometries suitable for animation and modeling processes.",
+          "meta": "C++ · ★ 2,440 · +403 today"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video is a Python tool that downloads videos, separates them into frames, and transcribes audio recordings. It transfers the data obtained in this process to the Claude model, allowing artificial intelligence to analyze video content.",
+          "meta": "Python · ★ 6,873 · +718 today"
+        },
+        {
+          "title": "prisma/prisma",
+          "url": "https://github.com/prisma/prisma",
+          "summary": "Prisma is an object relational mapper (ORM) tool that simplifies database interactions for Node.js and TypeScript projects. It optimizes database schema management and type-safe query creation processes with its structure that supports different database systems.",
+          "meta": "TypeScript · ★ 47,006 · +376 today"
+        },
+        {
+          "title": "kyutai-labs/pocket-tts",
+          "url": "https://github.com/kyutai-labs/pocket-tts",
+          "summary": "Developed by Kyutai Labs, Pocket-TTS is a lightweight text-to-speech model that can run only on the central processing unit (CPU). It allows fast audio synthesis on local devices with low hardware requirements.",
+          "meta": "Python · ★ 7,104 · +235 today"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "System prompts of popular large language models (LLM) were compiled by developers and made available in a central source. This list offers the opportunity to review configuration instructions and codes of conduct specific to models from companies such as Anthropic, OpenAI, Google and xAI.",
+          "meta": "JavaScript · ★ 55,415 · +1,125 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+          "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+          "summary": "John Deere grants agricultural equipment owners the right to repair within the scope of the agreement with the Federal Trade Commission (FTC). This arrangement enables farmers and independent garages to access vehicle software and technical diagnostic tools.",
+          "meta": "1,311 points · 276 comments"
+        },
+        {
+          "title": "EU Parliament greenlights Chat Control 1.0",
+          "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+          "summary": "The European Parliament approved the regulation that aims to scan end-to-end encryption systems in order to detect child abuse materials on digital communication platforms. The decision brought about discussions about the confidentiality of private correspondence and the implementation of control mechanisms over security protocols.",
+          "meta": "1,276 points · 605 comments"
+        },
+        {
+          "title": "GPT-5.6",
+          "url": "https://openai.com/index/gpt-5-6/",
+          "summary": "OpenAI announced GPT-5.6, which focuses on security and performance improvements in large language models. The new model is available via API with improved reasoning capabilities and updated security protocols.",
+          "meta": "1,213 points · 858 comments"
+        },
+        {
+          "title": "Show HN: 18 Words",
+          "url": "https://18words.com/",
+          "summary": "18 Words is a word memorization platform that teaches users just eighteen words every day to improve their daily vocabulary. The interface offers a minimalist design free of distractions to simplify the learning process.",
+          "meta": "954 points · 312 comments"
+        },
+        {
+          "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+          "url": "https://github.com/malisper/pgrust",
+          "summary": "The version of the PostgreSQL database management system, rewritten with the Rust programming language, successfully completes all regression tests. This project brings the database architecture to the Rust ecosystem to increase memory security and take advantage of modern language features.",
+          "meta": "599 points · 501 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Developed by Tencent, Hy3 is a language model designed to optimize text generation processes. The model, which offers the ability to create high-performance content with low resource consumption, has reached a wide user base on the HuggingFace platform.",
+          "meta": "♥ 630 · 5,572 downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B is a multimodal artificial intelligence model that produces text output by processing visual and text data. The model offers the opportunity to analyze large-scale data sets with a capacity of 1 million context windows.",
+          "meta": "♥ 1,944 · 1,875,602 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, developed by Zai-org, is a language model optimized for text generation tasks. The highly interactive model on the HuggingFace platform offers content creation capabilities in natural language processing processes.",
+          "meta": "♥ 3,743 · 362,300 downloads"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, developed by InternScience, is an artificial intelligence model optimized for text generation tasks. This model is designed to support complex logical reasoning and agent-based workflows.",
+          "meta": "♥ 446 · 23,112 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is an image-text-to-text model that processes visual texts and converts them into text output. The model offers optical character recognition capabilities designed to transfer data from complex documents into digital format.",
+          "meta": "♥ 1,909 · 1,246,042 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "software development kit",
+      "explanation": "A set of tools, libraries and documents used to develop software for a specific platform."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Ability to analyze complex problems in logical steps and produce solutions."
+    },
+    {
+      "term": "DESIGN.md",
+      "explanation": "An information file explaining how a project was designed and what architectural decisions were made."
+    },
+    {
+      "term": "UI",
+      "explanation": "All visual elements with which a user interacts with an application or website."
+    },
+    {
+      "term": "terminal control",
+      "explanation": "The process of giving instructions to a computer directly via the command line, without using a graphical interface."
+    },
+    {
+      "term": "diff file editing",
+      "explanation": "A method of detecting differences between two file versions and updating only the changed parts."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Infrastructure that enables artificial intelligence models to communicate with different data sources in a secure and standard way."
+    },
+    {
+      "term": "cookbooks",
+      "explanation": "Guides that offer practical and ready-made solutions to problems encountered when using a certain technology."
+    },
+    {
+      "term": "notebooks",
+      "explanation": "Interactive work environments where codes, explanations and results can be seen together on the same page."
+    },
+    {
+      "term": "penetration testing",
+      "explanation": "The process of trying attacks that can be made by malicious people in a controlled manner in order to test the security of a system."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous artificial intelligence software that can make decisions on its own and perform targeted tasks."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "Linux server security",
+      "explanation": "Work to protect open source server systems against cyber attacks and unauthorized access."
+    },
+    {
+      "term": "server hardening",
+      "explanation": "The process of reducing the risk of attack by turning off unnecessary features and tightening security settings on a server."
+    },
+    {
+      "term": "quad remeshing",
+      "explanation": "The process of transforming the surface of a complex 3D model consisting of triangles into more regular rectangular parts."
+    },
+    {
+      "term": "transcription",
+      "explanation": "The process of transcribing conversations in audio or video recordings."
+    }
+  ]
+}

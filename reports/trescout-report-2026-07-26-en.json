@@ -1,0 +1,255 @@
+{
+  "date": "2026-07-26",
+  "editorial": "Today's agenda is based on code review tools that accelerate software development processes and integration libraries that add capabilities to artificial intelligence models. New open source projects shared on GitHub focus on technical documentation that standardizes the ways language models, especially Claude, can be incorporated into workflows.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Developed by Block, Buzz is a hive mind communication platform written in Rust. It aims to establish a decentralized communication architecture (hive mind communication) on distributed systems.",
+          "meta": "Rust · ★ 12,248 · +2,491 today"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "The open source code review tool developed by Alibaba combines deterministic workflows and large language model (LLM) agents in a hybrid architecture. The system, which is pre-trained with software security rules, aims to improve code quality by making line-based comments.",
+          "meta": "Go · ★ 13,158 · +431 today"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite is a lightweight browser tool that shares the logged in browser state for AI agents to execute web automation processes. This structure, which does not require installation, aims to speed up the interactions of agents on the web without disturbing the user.",
+          "meta": "JavaScript · ★ 3,775 · +986 today"
+        },
+        {
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "Compiled by ComposioHQ, awesome-claude-skills brings together skill packages, tools, and resources used to customize Claude AI workflows. This list provides a central reference point for developers to configure their Claude-based automation processes.",
+          "meta": "Python · ★ 70,713 · +577 today"
+        },
+        {
+          "title": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "summary": "Claude cookbooks shared by Anthropic provide practical code examples and Jupyter notebooks for using Claude models. This resource aims to accelerate the model integration and prompt engineering processes of developers in artificial intelligence applications.",
+          "meta": "Jupyter Notebook · ★ 49,967 · +132 today"
+        },
+        {
+          "title": "Automattic/harper",
+          "url": "https://github.com/Automattic/harper",
+          "summary": "Developed by Automattic, Harper offers an offline and privacy-oriented grammar checker written in Rust. This open source tool provides local data processing in text editing processes with its high-performance structure.",
+          "meta": "Rust · ★ 13,498 · +503 today"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos was developed as a foundation model designed to analyze the unique language of financial markets. This model, which aims to make sense of the complex structure of financial data, is used to automate market analysis processes.",
+          "meta": "Python · ★ 33,870 · +319 today"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers offers a capability framework and methodology that combines software development processes with agentic workflows. This Shell-based structure aims to standardize the integration of autonomous systems into software development cycles.",
+          "meta": "Shell · ★ 261,220 · +479 today"
+        },
+        {
+          "title": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "summary": "Developed with the Rust programming language, Pumpkin offers an infrastructure that aims to create high-performance and efficient Minecraft servers. The project accelerates server hosting processes, allowing users to manage their own gaming environments with lower resource consumption.",
+          "meta": "Rust · ★ 9,775 · +358 today"
+        },
+        {
+          "title": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "summary": "Bitchat offers a local chat environment that does not require an internet connection, using Bluetooth mesh technology. Developed in Swift language, the application promises an IRC-like experience that allows users to communicate directly at close range.",
+          "meta": "Swift · ★ 28,892 · +1,720 today"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "This repository, shared by Matt Pocock, contains customized skill packages developed by software engineers for AI agents. These scripts, which automate command line tools, are used to standardize developer workflows.",
+          "meta": "Shell · ★ 188,590 · +1,740 today"
+        },
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro is a video editing software that integrates AI-powered editing tools into the macOS environment. This platform, developed with Swift language, is designed to automate video editing processes.",
+          "meta": "Swift · ★ 12,304 · +412 today"
+        },
+        {
+          "title": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "summary": "Instatic is an agent-based visual content management system (CMS) offered as an open-source alternative to platforms such as Webflow and WordPress. This tool, which you can host on your own server, enables the creation of clean static pages with user management and plug-in support.",
+          "meta": "TypeScript · ★ 5,206 · +426 today"
+        },
+        {
+          "title": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "summary": "Dive into LLMs project is a training series that teaches the working principles of large language models through applied Jupyter notebooks. It presents the basic architectures and operating processes of the models in a technical framework through programming practices.",
+          "meta": "Jupyter Notebook · ★ 45,438 · +408 today"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "Built on TurboQuant, TurboVec is a vector indexing tool developed in Rust and offering Python bindings. Designed for high-performance search operations, this structure aims to accelerate vector database operations.",
+          "meta": "Python · ★ 14,329 · +86 today"
+        },
+        {
+          "title": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "summary": "Chat2DB is an artificial intelligence-supported database management tool and SQL client that supports different database systems. This platform, developed with Java language, facilitates data query processes through a visual interface (GUI) with its natural language processing capabilities.",
+          "meta": "Java · ★ 26,778 · +360 today"
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Developed by Andrew Ng, aisuite offers access to different generative AI providers through a single interface. This Python-based library provides a unified interface that makes it easier for developers to switch between different model providers.",
+          "meta": "Python · ★ 15,272 · +77 today"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC offers a system that optimizes the skills, instincts and memory layers for artificial intelligence coding tools such as Claude Code and Cursor. It provides an infrastructure that aims to increase agent performance and security standards in software development processes.",
+          "meta": "JavaScript · ★ 233,406 · +377 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Android May Soon Restrict On-Device ADB",
+          "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+          "summary": "Google is preparing to restrict the use of on-device debug bridge (on-device ADB) in the Android operating system. This change limits access permissions to local debugging processes to strengthen security protocols.",
+          "meta": "902 points · 445 comments"
+        },
+        {
+          "title": "Open-weight AI is having its Kubernetes moment",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+          "summary": "Open-weight AI models are going through a turning point like Kubernetes, which standardizes container orchestration in the software world. This process enables the fragmented artificial intelligence ecosystem to unite around common infrastructures and tools and become widespread on an industrial scale.",
+          "meta": "360 points · 283 comments"
+        },
+        {
+          "title": "Did They Ghost You?",
+          "url": "https://didtheyghostyou.com/",
+          "summary": "Did They Ghost You is a platform that allows candidates to follow the companies they did not receive a response from during their job application processes. By listing the institutions they applied to, users can see feedback from other candidates and increase transparency in communication processes.",
+          "meta": "359 points · 162 comments"
+        },
+        {
+          "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+          "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
+          "summary": "Canopy bridges established in the Amazon forests ensured the safe passage of wildlife, resulting in zero traffic accident data in 15 thousand crossings. This infrastructure solution allows animals to move through fragmented forest habitats without being exposed to road traffic.",
+          "meta": "340 points · 98 comments"
+        },
+        {
+          "title": "The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "summary": "Context engineering developed for Claude 5 generation models offers new methods that increase the focusing capacity of the model in processing large data sets. These techniques optimize complex analysis processes by increasing the recall accuracy of information in long texts.",
+          "meta": "262 points · 167 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is an image-to-text model that processes visual texts and produces text output. The system aims to automate the process of converting data in complex documents into digital format.",
+          "meta": "♥ 3,126 · 2,564,264 downloads"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Laguna-S-2.1, developed by Poolside, is a language model focused on text-generation. The model is designed for use in a wide range of language processing tasks.",
+          "meta": "♥ 668 · 45,260 downloads"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Developed by Upstage, Solar-Open2-250B is a large language model focused on text generation. With its structure of 250 billion parameters, it offers a high-capacity solution for complex language processing tasks.",
+          "meta": "♥ 573 · 2,784 downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "This model, based on Qwen3.6-27B, offers an image-text-to-text structure that produces text output by processing visual and text inputs. The model, trained with uncensored data sets, provides an expanded language capability by combining different fusion techniques.",
+          "meta": "♥ 560 · 483,845 downloads"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Developed by Thinking Machines, Inkling is an image-text-to-text model that can process visual and textual data simultaneously. This model produces text-based outputs for complex tasks by analyzing multimodal input sets.",
+          "meta": "♥ 1,572 · 31,575 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "hive mind communication",
+      "explanation": "A form of communication that allows all members of a group to act as a single mind by sharing information at the same time."
+    },
+    {
+      "term": "LLM",
+      "explanation": "An advanced artificial intelligence system trained with extensive data that can write texts by imitating human language."
+    },
+    {
+      "term": "browser state",
+      "explanation": "The totality of information that the internet browser keeps in the current session, such as open tabs, cookies and user settings."
+    },
+    {
+      "term": "skills",
+      "explanation": "Special abilities that a software or artificial intelligence has to perform a specific task."
+    },
+    {
+      "term": "cookbooks",
+      "explanation": "Guidebooks that offer step-by-step solutions to problems encountered when using a particular technology."
+    },
+    {
+      "term": "prompt engineering",
+      "explanation": "The art of designing the commands given to artificial intelligence in the most efficient way in order to get the most accurate and quality response from it."
+    },
+    {
+      "term": "grammar checker",
+      "explanation": "A digital tool that automatically finds spelling errors and grammatical errors in written texts."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "The basic AI model on which other applications are built, trained on massive data to perform many different tasks."
+    },
+    {
+      "term": "framework",
+      "explanation": "A basic software framework that allows software developers to develop applications faster using ready-made structures instead of starting from scratch."
+    },
+    {
+      "term": "mesh",
+      "explanation": "A large network structure formed by interconnected devices transferring data through each other instead of a single center."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous artificial intelligence software that can make decisions on its own and perform targeted tasks."
+    },
+    {
+      "term": "agentic",
+      "explanation": "The ability of a software to make its own decisions and act towards a goal without receiving constant commands from the outside."
+    },
+    {
+      "term": "CMS",
+      "explanation": "A software system for creating websites and managing content without the need to know coding."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "bindings",
+      "explanation": "Bridges that allow different programming languages ​​or pieces of software to communicate with each other."
+    },
+    {
+      "term": "vector index",
+      "explanation": "A special search index that allows artificial intelligence to group data according to their meaning and find it very quickly when it needs it."
+    }
+  ]
+}

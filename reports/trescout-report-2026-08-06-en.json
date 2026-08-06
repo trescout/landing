@@ -1,0 +1,347 @@
+{
+  "date": "2026-08-06",
+  "editorial": "Security tests between autonomous agents and new generation language models in the artificial intelligence ecosystem are at the center of the technology agenda today. Structural changes in Google DeepMind management and the Rust language's artificial intelligence policy-making process show that the industry is focusing on corporate governance and security standards.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "summary": "Developed by Cloudflare, Computer is a TypeScript library that gives artificial intelligence agents the ability to control a local or remote computer. This tool allows agents to run commands on the operating system and automate complex tasks by accessing the file system.",
+          "meta": "TypeScript · ★ 3,677 · +891 today"
+        },
+        {
+          "title": "huangruiteng/loopx",
+          "url": "https://github.com/huangruiteng/loopx",
+          "summary": "Loopx is a lightweight state kernel developed for long-term artificial intelligence agent teams. It works compatible with coding agents (Codex, Claude Code) and standardizes processes such as task tracking, quota management and verifiable work transfer.",
+          "meta": "Python · ★ 2,385 · +326 today"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory is a hub for AI Agents that transforms data such as chat history, documents, and code into manageable memory assets. This system standardizes data shared between different agents and frameworks into four main structures (chat memory, capability, knowledge base, and code graph).",
+          "meta": "TypeScript · ★ 15,340 · +1,892 today"
+        },
+        {
+          "title": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "summary": "System Design Primer is a comprehensive resource repository for learning large-scale system design and preparing for technical interviews. The theoretical information and practical flashcards it contains make it easier to understand complex system architectures.",
+          "meta": "Python · ★ 361,728 · +303 today"
+        },
+        {
+          "title": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "summary": "PDF Inspector is a fast Rust library for inspecting, classifying and extracting text from PDF files. By distinguishing scanned documents from text-based files, it enables intelligent routing decisions to be made in data processing processes.",
+          "meta": "Rust · ★ 11,731 · +1,582 today"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and integrates with DeepSeek models. Focusing on prefix-cache stability, this tool provides uninterrupted development support over long sessions.",
+          "meta": "Go · ★ 31,848 · +747 today"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Developed for artificial intelligence coding agents, agent-skills offer engineering skills suitable for the production stage. This JavaScript-based library aims to standardize the technical skills of agents that automate software development processes.",
+          "meta": "JavaScript · ★ 82,125 · +226 today"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers is an agentic skills framework and software development methodology developed for artificial intelligence agents. It provides a standard operating method for building autonomous systems that perform complex tasks.",
+          "meta": "Shell · ★ 267,509 · +931 today"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Supervision is a Python library that provides reusable tools used in computer vision projects. It speeds up image processing processes by standardizing common tasks such as object tracking and visualization.",
+          "meta": "Python · ★ 49,024 · +146 today"
+        },
+        {
+          "title": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "summary": "Next.js is a React framework used to develop modern web applications. It increases the performance and search engine compatibility of web projects with features such as server-side rendering and static site creation.",
+          "meta": "JavaScript · ★ 141,599 · +68 today"
+        },
+        {
+          "title": "tailwindlabs/tailwindcss",
+          "url": "https://github.com/tailwindlabs/tailwindcss",
+          "summary": "Tailwind CSS is a utility-first CSS framework that uses predefined style classes when creating web interfaces. It allows developers to quickly design directly through HTML tags, without writing custom CSS files.",
+          "meta": "TypeScript · ★ 96,944 · +408 today"
+        },
+        {
+          "title": "uber/ADR",
+          "url": "https://github.com/uber/ADR",
+          "summary": "Developed by Uber, ADR is a security framework that aims to protect corporate artificial intelligence agents through observability, security benchmarking and threat detection methods. The software helps detect possible security vulnerabilities by auditing the working processes of complex artificial intelligence systems.",
+          "meta": "Python · ★ 1,116 · +354 today"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM makes it possible to run large language models with 70 billion parameters on graphics processors (GPU) with only 4 GB of memory. It allows developers to run powerful AI models on their local systems without high hardware costs.",
+          "meta": "Jupyter Notebook · ★ 29,251 · +833 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Discovery Loop",
+          "url": "https://www.discoveryloop.com/",
+          "summary": "Discovery Loop is a platform that improves software developers' development processes by analyzing product feedback and user data. By collecting user insights at a central point, it aims to accelerate the product development cycle with data-based decisions.",
+          "meta": "682 points · 420 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49184960",
+              "popularity": 682,
+              "engagementCount": 420
+            }
+          ]
+        },
+        {
+          "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "summary": "Senior management changes are taking place within Google DeepMind. Demis Hassabis is moving from chief executive officer (CEO) to chairman of the board (chairman), while senior executive Jeff Dean is leaving his position.",
+          "meta": "591 points · 652 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49184755",
+              "popularity": 591,
+              "engagementCount": 652
+            }
+          ]
+        },
+        {
+          "title": "Cloudflare OS: an open platform for agents, apps, and work",
+          "url": "https://blog.cloudflare.com/cloudflare-os/",
+          "summary": "Cloudflare OS is an open platform developed by internet infrastructure provider Cloudflare for artificial intelligence agents and applications. It allows developers to work directly on distributed systems without dealing with complex infrastructure management.",
+          "meta": "527 points · 257 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49182996",
+              "popularity": 527,
+              "engagementCount": 257
+            }
+          ]
+        },
+        {
+          "title": "Zed DeltaDB",
+          "url": "https://zed.dev/deltadb",
+          "summary": "Code editor Zed provides high-performance data management in text editing processes by collaborating with native database technology DeltaDB. This integration aims to optimize memory usage and increase application speed when processing complex code files.",
+          "meta": "366 points · 198 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49187256",
+              "popularity": 366,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+          "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+          "summary": "Developed by Neon, Castform surpasses frontier models in data retrieval operations at lower cost and higher efficiency. This method, which optimizes open source models, offers an alternative way, especially for cost-oriented artificial intelligence applications.",
+          "meta": "276 points · 68 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49186762",
+              "popularity": 276,
+              "engagementCount": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, developed by MiniMax, is an artificial intelligence model that produces videos using visual and text inputs. This model automates the process of creating dynamic videos from static content.",
+          "meta": "♥ 2,557 · 10,841 downloads"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, developed by DeepSeek, is a new language model focused on text generation. This model, optimized to offer fast response times, is being tested by a wide range of users on the Hugging Face platform.",
+          "meta": "♥ 2,528 · 433,284 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, developed by Moonshot AI, is a multimodal language model that can process visual and text data. This technology, which produces meaningful responses by analyzing images and texts uploaded by users, is offered as an open source model on Hugging Face.",
+          "meta": "♥ 10,144 · 1,125,935 downloads"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3, shared on Hugging Face, is an artificial intelligence model with multimodal capabilities. This model, which can process visual and text-based data, is available to developers through the open source artificial intelligence models platform Hugging Face.",
+          "meta": "♥ 774 · 2 downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion is a multimodal artificial intelligence model that can process text and visual data. This model, shared on Hugging Face, was developed for complex content production with its uncensored structure and high number of parameters.",
+          "meta": "♥ 1,605 · 1,633,405 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "AVE-Compass: Towards Holistic Evaluation for Audio-Video Editing Abilities",
+          "url": "https://huggingface.co/papers/2607.24821",
+          "summary": "AVE-Compass is a comprehensive benchmark (benchmark) developed to holistically measure audio and video editing capabilities. Unlike existing methods, it tests consistency in multimodal editing processes by focusing on the harmony between sound and image.",
+          "meta": "7 likes · 1 comments"
+        },
+        {
+          "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming",
+          "url": "https://huggingface.co/papers/2608.05108",
+          "summary": "PIMiner is a system that automatically tests command injection attacks against large language models. Unlike traditional reinforcement learning methods, it provides an agent-based security audit that offers a higher success rate on different models.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "Consistency-Driven Co-Evolution for Self-Supervised Cross-Representation Learning",
+          "url": "https://huggingface.co/papers/2608.04926",
+          "summary": "Aiming to understand the complex relationships between graphic images, table data and visualization codes, CoCoEvolve uses the self-supervised cross-representation learning method. This approach offers a consistency-oriented co-evolution mechanism to resolve ambiguous relationships between different data types.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data",
+          "url": "https://huggingface.co/papers/2608.02580",
+          "summary": "Ego2Robot is a scalable data synthesis pipeline that accelerates the learning processes of robots by converting videos shot from the human perspective into robotic data format. This method facilitates the production of diverse and large volumes of data necessary for training vision-language-action models on a large scale.",
+          "meta": "8 likes · 1 comments"
+        },
+        {
+          "title": "K-EXAONE 2.0 Technical Report",
+          "url": "https://huggingface.co/papers/2608.04505",
+          "summary": "Developed by LG AI Research, K-EXAONE 2.0 expands the multilingual foundation model architecture with a Mixture-of-Experts structure. Reaching a total of 750 billion parameters, the model triples the capacity of its previous version with support for a context window of 256 thousand tokens.",
+          "meta": "2 likes · 0 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "rust-lang/rust is adopting an LLM policy",
+          "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+          "summary": "The Rust programming language community has adopted a new policy to include content created with large language models (LLM) in the project. This regulation requires transparency and human control in order to maintain the quality standards of code and documentation produced by artificial intelligence.",
+          "meta": "135 points · 40 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy",
+              "popularity": 135,
+              "engagementCount": 40
+            }
+          ]
+        },
+        {
+          "title": "Offensive Internet Posture",
+          "url": "https://bruceediger.com/posts/offensive-machine/",
+          "summary": "Offensive internet posture refers to users adopting active privacy methods instead of passive defense to prevent data leaks and tracking online. This approach aims to manage the digital footprint by obfuscating network traffic or feeding systems with misleading data.",
+          "meta": "72 points · 16 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fgcrj0/offensive_internet_posture",
+              "popularity": 72,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "Faster Than Ninja",
+          "url": "https://build2.org/blog/faster-than-ninja.xhtml",
+          "summary": "Build2 is a new build system that aims to run faster than the software build tool Ninja. The project uses optimized algorithms to reduce compilation times on large code bases.",
+          "meta": "48 points · 4 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/31hk9y/faster_than_ninja",
+              "popularity": 48,
+              "engagementCount": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "state kernel",
+      "explanation": "The basic kernel structure that keeps all the current working information and data of a software in memory."
+    },
+    {
+      "term": "AI Agents",
+      "explanation": "Autonomous artificial intelligence software that can make decisions on its own and use tools to achieve goals."
+    },
+    {
+      "term": "system design",
+      "explanation": "The process of planning how the parts of large and complex software projects will work together."
+    },
+    {
+      "term": "flashcards",
+      "explanation": "Digital cards with questions on the front and answers on the back, allowing you to quickly memorize information."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "It is a method that allows artificial intelligence to answer the same questions much faster by keeping the texts it has previously processed in its memory."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Ability to analyze complex problems in logical steps and produce technical solutions."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "The working model that organizes the capabilities that artificial intelligence needs to perform tasks successfully."
+    },
+    {
+      "term": "computer vision",
+      "explanation": "The field of technology that allows computers to see and interpret images through cameras."
+    },
+    {
+      "term": "framework",
+      "explanation": "A basic framework that makes things easier when developing software and offers ready-made code structures and a set of rules."
+    },
+    {
+      "term": "server-side rendering",
+      "explanation": "A method that allows web pages to be prepared on the server and displayed quickly before being sent to the user."
+    },
+    {
+      "term": "utility-first",
+      "explanation": "An approach to quickly create an interface by combining small and ready-made code pieces while designing."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "GPU",
+      "explanation": "A special hardware unit that performs intensive operations very quickly, especially graphics processing and artificial intelligence calculations."
+    },
+    {
+      "term": "product development cycle",
+      "explanation": "All of the planning, production and testing stages that a product goes through from idea to reaching the end user."
+    },
+    {
+      "term": "CEO",
+      "explanation": "The most senior executive responsible for all operations and strategic decisions of a company."
+    },
+    {
+      "term": "Chair",
+      "explanation": "A person who conducts meetings of an organization or its board of directors and oversees overall strategies."
+    }
+  ]
+}

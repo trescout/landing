@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-28",
+  "editorial": "Today's technology agenda is shaped around decentralized communication protocols and censorship circumvention tools. Open source file managers and data scrapers are among the other main topics that attract developer attention on GitHub.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "summary": "BitChat offers a local chat environment that does not require an internet connection, using Bluetooth mesh technology. It was developed with the Swift language to provide an Internet Relay Chat (IRC)-like experience in areas without internet access.",
+          "meta": "Swift · ★ 32,586 · +2,346 today"
+        },
+        {
+          "title": "amnezia-vpn/amnezia-client",
+          "url": "https://github.com/amnezia-vpn/amnezia-client",
+          "summary": "Amnesia VPN client is an open source networking tool that allows users to gain uncensored internet access through its own servers. Developed in C++ language, the application offers privacy-oriented connection options with customizable protocol support on desktop and mobile platforms.",
+          "meta": "C++ · ★ 13,981 · +515 today"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi enables users to create artificial intelligence-based virtual characters (AI companions) with real-time voice chat and gaming capabilities that they can host on their own servers. Developed with the TypeScript language, this project brings interactive digital assets similar to Neuro-sama to desktop and web platforms.",
+          "meta": "TypeScript · ★ 44,255 · +572 today"
+        },
+        {
+          "title": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "summary": "GeoLibre is a lightweight, cloud-based geographic information system (GIS) platform designed to visualize, explore, and analyze geographic data. Developed with TypeScript, this tool can run on web browsers, desktop, mobile devices and Jupyter notebooks.",
+          "meta": "TypeScript · ★ 2,891 · +420 today"
+        },
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Developed with the Go language, superfile offers a modern and visually rich interface for terminal-based file management. Users can perform file operations on the command line with a faster and more aesthetic experience.",
+          "meta": "Go · ★ 21,053 · +600 today"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler is a web scraping tool that automatically collects content and user comments on popular social media platforms based in China. This Python-based software supports structured data extraction processes from many platforms such as Xiaohongshu, Douyin, Bilibili and Weibo.",
+          "meta": "Python · ★ 58,510 · +362 today"
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable is a design language library developed to improve the design outputs of artificial intelligence models. It enables developers to create their artificial intelligence-supported interfaces with a more consistent and aesthetic visual standard (design system).",
+          "meta": "JavaScript · ★ 51,792 · +847 today"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos is a foundation model developed to analyze the unique language of financial markets. It offers a language structure specialized in the processing and analysis of financial data.",
+          "meta": "Python · ★ 34,655 · +441 today"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Developed by Alibaba, Open-Code-Review is a hybrid code review tool that combines precision-based workflows with large language models (LLM). The tool, which provides line-level comments in software development processes, uses pre-trained rules (fine-tuned ruleset) to detect security vulnerabilities.",
+          "meta": "Go · ★ 15,118 · +979 today"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Jenkins is an open source server that automates continuous integration and continuous deployment processes in software development processes. This Java-based platform offers a wide ecosystem of plugins to manage the compilation, testing and release of software projects.",
+          "meta": "Java · ★ 25,927 · +180 today"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video is a Python tool that downloads and frames videos and converts audio recordings to text. It enables artificial intelligence to analyze video content by transferring the obtained data to the Claude model.",
+          "meta": "Python · ★ 11,353 · +434 today"
+        },
+        {
+          "title": "vudovn/ag-kit",
+          "url": "https://github.com/vudovn/ag-kit",
+          "summary": "Ag-kit is a development library that provides the necessary tools and structures to create autonomous artificial intelligence agents (AI agents) in TypeScript-based projects. It allows developers to quickly design agent systems that can manage complex workflows.",
+          "meta": "TypeScript · ★ 8,020 · +14 today"
+        },
+        {
+          "title": "apache/cassandra",
+          "url": "https://github.com/apache/cassandra",
+          "summary": "Apache Cassandra is an open-source, distributed transactional database that provides linear scalability and fault-tolerance without causing performance loss on standard hardware or cloud infrastructures. This system, developed in Java language, is designed for large-scale data management processes that require high availability.",
+          "meta": "Java · ★ 10,004 · +11 today"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill offers an artificial intelligence skill (AI skill) that performs research by scanning current data on platforms such as Reddit, X, YouTube, Hacker News and Polymarket. This Python-based tool analyzes the collected information and turns it into a verifiable summary.",
+          "meta": "Python · ★ 54,328 · +240 today"
+        },
+        {
+          "title": "ocornut/imgui",
+          "url": "https://github.com/ocornut/imgui",
+          "summary": "Dear ImGui is a lightweight graphical user interface library for C++ projects that works with minimal dependencies. It allows software developers to create a simple interface in rapid prototyping and tool development processes.",
+          "meta": "C++ · ★ 75,256 · +51 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Our position on open-weights models",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "summary": "Anthropic takes a cautious approach to open-weights models, citing the security risks and abuse potential of these models. The company argues that a balance should be struck between transparency and security in the development of artificial intelligence systems.",
+          "meta": "721 points · 1,019 comments"
+        },
+        {
+          "title": "Benchmarking Opus 5 on SlopCodeBench",
+          "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+          "summary": "SlopCodeBench is a benchmarking tool developed to measure the performance of coding-focused artificial intelligence agents against complex and low-quality data sets. This test evaluates the models' ability to extract noisy data and context management that they encounter during the code generation process.",
+          "meta": "223 points · 52 comments"
+        },
+        {
+          "title": "Using an open model feels surprisingly good",
+          "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+          "summary": "Running open source language models on local systems is preferred due to the advantages of data confidentiality and full control over the model. Users highlight the flexibility offered by these models in terms of performance and customizability, which reduces dependence on closed source systems.",
+          "meta": "201 points · 66 comments"
+        },
+        {
+          "title": "Watching Go's new garbage collector move through the heap",
+          "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+          "summary": "The Go programming language aims for lower latency in memory management processes with its new garbage collector mechanism. This update improves system performance by optimizing object scanning operations on the heap.",
+          "meta": "196 points · 20 comments"
+        },
+        {
+          "title": "The computer that helped win World War II",
+          "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+          "summary": "The Colossus computer, developed to crack German passwords during World War II, was registered as a historical milestone by IEEE. This system is the first programmable digital electronic computer and forms the basis of modern information technologies.",
+          "meta": "193 points · 76 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, developed by Moonshot AI, is a multimodal artificial intelligence model that produces text output by processing visual and textual data. The model is designed to perform complex image analyzes and text-based tasks in an integrated structure.",
+          "meta": "♥ 6,868 · 2,850 downloads"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Developed by Poolside, Laguna-S-2.1 is a language model optimized for text generation tasks. The model is designed to be used in various natural language processing processes by training on large-scale data sets.",
+          "meta": "♥ 768 · 63,605 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is an image-to-text model that processes visual texts and produces text output. The model is designed to be used in the processes of converting data in complex documents into digital format.",
+          "meta": "♥ 3,349 · 2,645,773 downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF is a multimodal model that produces text output by processing visual and text inputs. The model attracts attention with its uncensored structure and customized architecture created by combining various data sets.",
+          "meta": "♥ 770 · 634,146 downloads"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Developed by Upstage, Solar-Open2-250B is a large-scale language model focused on text generation. It aims to increase performance in complex language processing tasks with its high parameter capacity.",
+          "meta": "♥ 635 · 3,761 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Bluetooth mesh",
+      "explanation": "Wireless network technology that allows many interconnected devices to communicate over a wide area by transmitting data from hand to hand."
+    },
+    {
+      "term": "IRC",
+      "explanation": "One of the oldest chat protocols that allows real-time correspondence over the Internet."
+    },
+    {
+      "term": "AI companions",
+      "explanation": "Artificial intelligence software that can establish an emotional bond with the user, chat and provide support according to personal needs."
+    },
+    {
+      "term": "GIS",
+      "explanation": "A digital system that collects, analyzes and visualizes geographical data on the world on a map."
+    },
+    {
+      "term": "Jupyter notebooks",
+      "explanation": "An interactive working environment that allows you to see explanatory texts and results side by side while writing code."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "The process of copying and collecting data from websites using automatic software."
+    },
+    {
+      "term": "design language",
+      "explanation": "Rules for consistent use of elements such as colour, font and shape that make up a brand's visual identity."
+    },
+    {
+      "term": "design system",
+      "explanation": "A comprehensive library containing all parts, codes and rules used in the design of a product."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "A basic artificial intelligence structure that is trained with very large data sets and can perform many different tasks."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "fine-tuned ruleset",
+      "explanation": "A set of rules that are refined by being trained with special data to do a certain job better."
+    },
+    {
+      "term": "continuous integration",
+      "explanation": "It is a process where codes written by software developers are frequently added to the main project and errors are found early."
+    },
+    {
+      "term": "continuous deployment",
+      "explanation": "Codes that pass the test automatically go live without any human intervention."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous artificial intelligence software that can make decisions on its own and perform targeted tasks."
+    },
+    {
+      "term": "agentic systems",
+      "explanation": "Systems in which multiple artificial intelligence units cooperate with each other to solve complex problems."
+    },
+    {
+      "term": "linear scalability",
+      "explanation": "As the amount of resources added to the system increases, the performance increases at the same rate."
+    }
+  ]
+}

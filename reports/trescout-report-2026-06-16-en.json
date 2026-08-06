@@ -1,0 +1,255 @@
+{
+  "date": "2026-06-16",
+  "editorial": "Open source data management and autonomous interaction systems are at the forefront of today's technology agenda. GitHub data shows a steady increase in interest, especially in cloud-native infrastructure tools and algorithmic learning resources.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "This project, which collects public internet television (IPTV) broadcasts from around the world in a single center, makes it easier for users to access live content. The open source database provides channel lists from different regions in an organized structure, creating a standard resource for media players.",
+          "meta": "TypeScript · ★ 123,405 · +2,657 today"
+        },
+        {
+          "title": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "summary": "Developed for Tesla vehicle owners, Teslamate is a data logger application that allows you to host data on your own server. This open source tool, written in Elixir language, visualizes and presents detailed statistics such as driving history and charging data to the user.",
+          "meta": "Elixir · ★ 8,326 · +33 today"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach is a command line interface (CLI) tool that gives AI agents the ability to scan and read platforms on the internet. It makes it possible to pull data from popular networks like Twitter, Reddit, and GitHub without paying any application programming interface (API) fees.",
+          "meta": "Python · ★ 31,218 · +1,100 today"
+        },
+        {
+          "title": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "summary": "Meshery is a service mesh management tool designed for the management of cloud native infrastructures. The platform provides a central control plane for visualizing and configuring complex microservices architectures.",
+          "meta": "TypeScript · ★ 10,717 · +228 today"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot is an open source omni-channel support software that combines features such as live chat and email support on a single platform. Developed in Ruby language, this tool offers an alternative solution to proprietary services such as Intercom or Zendesk.",
+          "meta": "Ruby · ★ 31,888 · +431 today"
+        },
+        {
+          "title": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "summary": "Hello 算法 is an open source educational platform that teaches data structures and algorithms with animated visualizations. The project standardizes the learning process by offering support for numerous programming languages ​​and one-click executable code examples.",
+          "meta": "Java · ★ 127,220 · +71 today"
+        },
+        {
+          "title": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "summary": "freeCodeCamp is an open source learning platform that offers free educational materials on mathematics, programming and computer science. Developed with the TypeScript language, the project allows users to acquire software development skills through an applied curriculum.",
+          "meta": "TypeScript · ★ 448,140 · +736 today"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "CUA provides an open source infrastructure for computer-capable artificial intelligence agents. It brings together sandbox, software development kit (SDK) and benchmark tools under one roof for the purpose of training and evaluating agents that can control desktop operating systems.",
+          "meta": "HTML · ★ 18,298 · +70 today"
+        },
+        {
+          "title": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "summary": "This study plan, prepared for those who want to become a software engineer, covers the basics of computer science and technical interview preparation processes. Offering a wide resource pool on GitHub, this guide combines the theoretical and practical information required for career development with a structured curriculum.",
+          "meta": "★ 352,551 · +364 today"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "This resource, which teaches the basics of artificial intelligence engineering (AI engineering) through Python, offers an end-to-end process from the development of models to their publication. It discusses the processes of building and deploying artificial intelligence systems in a technical framework through applied projects.",
+          "meta": "Python · ★ 33,448 · +562 today"
+        },
+        {
+          "title": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "summary": "Music Assistant is an open-source media library manager that combines different digital music services and connected speakers into a single interface. This Python-based server application enables the creation of a centralized music management system on constantly running devices such as Raspberry Pi or network attached storage (NAS).",
+          "meta": "Python · ★ 2,458 · +225 today"
+        },
+        {
+          "title": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "summary": "The Free-TV/IPTV project collects M3U playlists of free television channels from around the world in a single source. Using these lists, users can access live broadcasts via various media players.",
+          "meta": "Python · ★ 17,399 · +361 today"
+        },
+        {
+          "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "summary": "Introduction to Autonomous Robots materials present the basic principles and algorithmic infrastructures of robotic systems in a technical framework. Prepared in TeX language, this resource provides an academic basis on autonomous movement and system design.",
+          "meta": "TeX · ★ 3,147 · +489 today"
+        },
+        {
+          "title": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "summary": "Win11Debloat is a PowerShell script that allows removing pre-installed apps and disabling telemetry data on Windows 10 and 11 operating systems. It allows users to customize their systems and perform system debloat by removing unnecessary components.",
+          "meta": "PowerShell · ★ 48,210 · +112 today"
+        },
+        {
+          "title": "mikeroyal/Self-Hosting-Guide",
+          "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+          "summary": "The Self-Hosting Guide offers a comprehensive guide to hosting and managing software applications on local networks or dedicated web servers. It provides technical resources on topics such as cloud computing, large language models, automation and network configuration.",
+          "meta": "Dockerfile · ★ 21,324 · +188 today"
+        },
+        {
+          "title": "itsfatduck/optimizerDuck",
+          "url": "https://github.com/itsfatduck/optimizerDuck",
+          "summary": "Developed in C# language, optimizerDuck is an open source tool that offers performance increase and privacy-oriented configurations on Windows operating systems. This software, which allows users to simplify system settings, collects Windows optimization processes in a single interface.",
+          "meta": "C# · ★ 3,900 · +340 today"
+        },
+        {
+          "title": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "summary": "Developed by NVIDIA, SkillSpector is a scanning tool that detects vulnerabilities and malicious patterns in the skill packages of artificial intelligence agents. This Python-based software aims to analyze security risks encountered during the development process of agent-based systems.",
+          "meta": "Python · ★ 6,697 · +1,079 today"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos was developed as a foundation model trained to analyze the language of financial markets. This model, designed to make sense of the complex structure of financial data, aims to automate market analysis processes.",
+          "meta": "Python · ★ 30,434 · +396 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Iroh 1.0",
+          "url": "https://www.iroh.computer/blog/v1",
+          "summary": "Iroh 1.0 introduces a peer-to-peer network protocol that enables secure and fast transfer of data between devices. It allows developers to develop applications that can share data on local networks or over the internet without dealing with complex network configurations.",
+          "meta": "1,163 points · 352 comments"
+        },
+        {
+          "title": "A backdoor in a LinkedIn job offer",
+          "url": "https://roman.pt/posts/linkedin-backdoor/",
+          "summary": "Fake job offers sent via LinkedIn are used as a backdoor method to infect candidates' computers with malware. Attackers gain unauthorized access to systems with files they send under the guise of the recruitment process.",
+          "meta": "1,135 points · 209 comments"
+        },
+        {
+          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+          "url": "https://news.ycombinator.com/item?id=48542100",
+          "summary": "Software developers are considering the trend of using local language models instead of cloud-based models as the main tool in their daily coding processes. Users share their hardware installations and token per second performance during this transition process.",
+          "meta": "962 points · 431 comments"
+        },
+        {
+          "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+          "url": "https://tinywind.io",
+          "summary": "TinyWind is a browser-based pixel art hacking game based on realistic wind physics simulation. Players experience navigation on the high seas by managing ships in dynamic weather conditions.",
+          "meta": "818 points · 154 comments"
+        },
+        {
+          "title": "Hetzner Price Adjustment",
+          "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+          "summary": "Hetzner is standardizing the pricing structure of cloud server services and updating some packages. The company rebalances its service costs with this price regulation in line with energy costs and infrastructure investments.",
+          "meta": "428 points · 585 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, developed by Google, is a multimodal model that produces text-based outputs by processing text and image inputs. The model is designed to integrate information obtained from images into text-based reasoning processes.",
+          "meta": "♥ 907 · 375,974 downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3, developed by MiniMax, is a multimodal model that produces text output by processing image and text inputs. The system attracts attention with its ability to analyze visual data and use it in text-based tasks.",
+          "meta": "♥ 915 · 25,064 downloads"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF, shared on HuggingFace, is a language model focused on text-generation. The model is presented in quantization format so that it can be run on low-resource devices.",
+          "meta": "♥ 846 · 60,921 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Kimi-K2.7-Code, developed by Moonshot AI, is a multimodal artificial intelligence model that produces code by processing visual and text-based data. The model offers the ability to generate solutions by analyzing text and image inputs in complex software development processes.",
+          "meta": "♥ 765 · 102,206 downloads"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Developed by Nvidia, LocateAnything-3B is an image-text-to-text model that performs object localization tasks by processing visual and textual inputs. This model allows object detection with text-based queries on complex visual data.",
+          "meta": "♥ 2,072 · 98,698 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IPTV",
+      "explanation": "A system that allows television broadcasts to be watched via an internet connection instead of a traditional antenna or satellite."
+    },
+    {
+      "term": "data logger",
+      "explanation": "An electronic device that records and stores information from sensors at regular intervals."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface that allows you to manage programs with text commands typed from the keyboard, rather than with the mouse."
+    },
+    {
+      "term": "API",
+      "explanation": "A bridge that allows two different software to talk to each other and exchange data."
+    },
+    {
+      "term": "cloud native",
+      "explanation": "Flexible and scalable software structure designed to run directly on servers on the internet."
+    },
+    {
+      "term": "service mesh",
+      "explanation": "The network layer that allows different parts of complex software systems to communicate with each other in a secure and orderly manner."
+    },
+    {
+      "term": "omni-channel support",
+      "explanation": "Customers can access a brand uninterruptedly both in stores and through all channels of the internet."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Isolated work area where new software can be tested safely without damaging the main system."
+    },
+    {
+      "term": "SDK",
+      "explanation": "A set of tools that makes it easier for software developers to develop applications for a specific platform or device."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "A method of measuring the performance of a device or software with standard tests and comparing it with others."
+    },
+    {
+      "term": "computer science",
+      "explanation": "The branch of science that examines the working principles of computers, software development and data processing processes."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "The process of designing artificial intelligence models and turning them into systems that work in real life."
+    },
+    {
+      "term": "deployment",
+      "explanation": "Uploading a prepared software to the server and making it operational so that it can be accessed by users."
+    },
+    {
+      "term": "NAS",
+      "explanation": "A central storage unit connected to the Internet that can be shared by devices in the home or office network."
+    },
+    {
+      "term": "playlist",
+      "explanation": "A list created to play digital music or videos in a certain order."
+    },
+    {
+      "term": "Introduction to Autonomous Robots",
+      "explanation": "Introduction to the working logic of robots that can make their own decisions without receiving external commands."
+    }
+  ]
+}

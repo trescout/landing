@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-08",
+  "editorial": "Today's technology agenda is determined by a structure based on autonomous skill sets and the security of system prompts. Especially open source job search automations and safe work environment (sandbox) solutions attract great attention in the developer ecosystem.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "Using the Claude Code infrastructure, ai-job-search offers a framework that automates the job search process. The tool analyzes the user profile and performs tasks such as resume editing, cover letter writing and interview preparation with the support of artificial intelligence.",
+          "meta": "TypeScript · ★ 12,031 · +2,514 today"
+        },
+        {
+          "title": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "summary": "Meetily is a privacy-focused meeting assistant developed in Rust that carries out all operations on the local device. It performs voice recording transcription, speaker diarization and summarization processes without a cloud connection.",
+          "meta": "Rust · ★ 21,061 · +1,777 today"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "This library, developed for artificial intelligence coding agents, offers production-level engineering skills. This JavaScript-based toolkit enables agents to undertake more functional tasks in software development processes.",
+          "meta": "JavaScript · ★ 72,455 · +1,317 today"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "Using standard wireless internet signals, RuView performs real-time spatial intelligence, vital sign tracking and presence detection without the need for image data. This technology, developed in Rust, transforms the existing WiFi infrastructure into a non-visual detection system.",
+          "meta": "Rust · ★ 78,671 · +1,129 today"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "The system prompt leaks repository brings together secret instruction sets from major language models such as Anthropic, OpenAI, Google and xAI. This study provides a central resource for developers who want to understand the operating principles and security configurations of popular artificial intelligence models.",
+          "meta": "JavaScript · ★ 53,327 · +1,691 today"
+        },
+        {
+          "title": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "summary": "Developed by Tencent Cloud, CubeSandbox offers a fast, simultaneous and secure working environment (sandbox) for artificial intelligence agents (AI agents). This lightweight structure, written in Rust, allows agents to work safely in an isolated area.",
+          "meta": "Rust · ★ 8,583 · +664 today"
+        },
+        {
+          "title": "AhmadIbrahiim/Website-downloader",
+          "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+          "summary": "Website-downloader, developed by AhmadIbrahiim, allows downloading all source codes and assets of a website to the local computer using Node.js. The tool is used to archive the entire site, including JavaScript files, style sheets, and images.",
+          "meta": "HTML · ★ 4,223 · +140 today"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar is a tool that allows viewing OpenAI Codex and Claude Code usage statistics without a login requirement. Developed with Swift language, this software makes it easier for developers to track consumption data in artificial intelligence-supported coding tools.",
+          "meta": "Swift · ★ 17,106 · +376 today"
+        },
+        {
+          "title": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "summary": "Developed by Microsoft, dotnet/skills offers reusable skill packages (skills) that enable artificial intelligence coding agents to work more effectively in .NET and C# projects. This library aims to standardize agent-based workflows to automate development processes.",
+          "meta": "C# · ★ 4,361 · +64 today"
+        },
+        {
+          "title": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "summary": "OfficeCLI offers an open source office suite that allows AI agents to directly read, edit and automate Word, Excel and PowerPoint files. Developed with C#, this tool allows operations to be performed via a single binary file without the need for any office software installation.",
+          "meta": "C# · ★ 10,491 · +893 today"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "The Claude-video tool provides video analysis capability to the Claude model, with a structure that downloads videos, separates them into frames, and converts audio recordings into text. This Python-based system processes visual and audio data and enables artificial intelligence to make inferences from video content.",
+          "meta": "Python · ★ 5,415 · +965 today"
+        },
+        {
+          "title": "kyutai-labs/pocket-tts",
+          "url": "https://github.com/kyutai-labs/pocket-tts",
+          "summary": "Developed by Kyutai Labs, Pocket-TTS is a lightweight text-to-speech model that runs only on the central processing unit (CPU) without the need for a graphics processing unit. Thanks to its low resource consumption, it offers fast and efficient sound synthesis on devices with hardware restrictions.",
+          "meta": "Python · ★ 6,350 · +531 today"
+        },
+        {
+          "title": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "summary": "Created for Claude Code by Anthropic, this curation brings together skill packs, developer tools and plug-ins for coding agents. The compilation centralizes the resources used to optimize workflows in the Claude Code ecosystem.",
+          "meta": "Python · ★ 49,316 · +144 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+          "url": "https://streetcomplete.app/",
+          "summary": "StreetComplete is a mobile application that allows users to update OpenStreetMap data by answering simple questions. It aims to complete the missing information on the map by encouraging volunteer contributions through gamification.",
+          "meta": "732 points · 173 comments"
+        },
+        {
+          "title": "Chat Control 1.0 and 2.0 Explained",
+          "url": "https://fightchatcontrol.eu/chat-control-overview",
+          "summary": "Chat control regulations discussed within the European Union aim to impose an obligation to scan content on end-to-end encrypted messaging platforms. These legislative initiatives are redefining digital privacy and data security standards to combat child exploitation.",
+          "meta": "550 points · 182 comments"
+        },
+        {
+          "title": "Every new car sold in the European Union must include a driver monitoring camera",
+          "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+          "summary": "All new vehicles sold throughout the European Union are required to have a driver monitoring camera that detects driver distraction. This system aims to reduce the risk of accidents through safety alerts by analyzing driver behavior.",
+          "meta": "535 points · 694 comments"
+        },
+        {
+          "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+          "url": "https://30papers.com/",
+          "summary": "The 30papers.com platform offers 30 basic machine learning articles recommended by artificial intelligence researcher Ilya Sutskever in an accessible format for beginners. The project aims to facilitate learning basic concepts in the field of machine learning by simplifying complex academic content.",
+          "meta": "452 points · 71 comments"
+        },
+        {
+          "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+          "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+          "summary": "Kokoro is a model that runs on low processor power and offers high-quality text-to-speech capability on local devices. Thanks to its lightweight architecture, it allows fast and natural voice synthesis operations to be performed without the need for an internet connection.",
+          "meta": "368 points · 74 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B model is a multimodal artificial intelligence model that produces text output by processing visual and text data. This model, presented in GGUF format, allows visual-based text production on local systems with low hardware requirements.",
+          "meta": "♥ 1,778 · 1,683,711 downloads"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Developed by Tencent, Hy3 is a language model optimized for text generation processes. The model aims to produce consistent output across a variety of natural language processing tasks by being trained on extensive data sets.",
+          "meta": "♥ 508 · 121 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, developed by Zai-org, is a language model optimized for text generation tasks. With its open source structure, it offers developers a new alternative that they can use in various natural language processing processes.",
+          "meta": "♥ 3,611 · 281,584 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is an image-text-to-text model that converts image-based texts into text data. This model performs optical character recognition operations with high accuracy on complex documents and images containing dense text.",
+          "meta": "♥ 1,840 · 1,084,945 downloads"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, developed by InternScience, is an artificial intelligence model optimized for text generation tasks. The model provides a specialized architecture for processing complex commands and maintaining contextual consistency.",
+          "meta": "♥ 379 · 14,723 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "A set of ready-made structures and rules used to speed up work when developing software."
+    },
+    {
+      "term": "transcription",
+      "explanation": "The process of transcribing speech sounds into text."
+    },
+    {
+      "term": "speaker diarization",
+      "explanation": "The process of identifying and labeling who is speaking in an audio recording."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Ability to solve complex problems in logical steps and use technical tools efficiently."
+    },
+    {
+      "term": "presence detection",
+      "explanation": "Understanding whether there are people or objects in an environment through sensors or software."
+    },
+    {
+      "term": "system prompt leaks",
+      "explanation": "Revealing the instructions of an artificial intelligence, which are kept secret in the background, by the user."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous software that can make decisions on its own and perform certain tasks."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "An isolated work area where software can be tested safely without damaging the main system."
+    },
+    {
+      "term": "assets",
+      "explanation": "All digital resources such as images, sounds, codes or files used in a project."
+    },
+    {
+      "term": "skills",
+      "explanation": "Special abilities that an artificial intelligence model can perform by specializing in a particular subject."
+    },
+    {
+      "term": "binary",
+      "explanation": "A machine language consisting only of zeros and ones that the computer can directly understand and execute."
+    },
+    {
+      "term": "CPU",
+      "explanation": "The main processing unit in the computer that performs all calculations and processes instructions."
+    },
+    {
+      "term": "text-to-speech",
+      "explanation": "Voiceover of written texts by a computer with a natural human voice."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Artificial intelligence tools that write software code, debug and develop projects on behalf of the user."
+    },
+    {
+      "term": "OpenStreetMap",
+      "explanation": "World map database created by volunteers and available to everyone for free."
+    },
+    {
+      "term": "gamification",
+      "explanation": "Using game mechanics such as points, badges or levels to motivate the user in non-game areas."
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-29",
+  "editorial": "In today's technology agenda, projects with high technical depth such as decentralized communication protocols and autonomous driving systems stand out. The interaction of tools focusing on developer resources and codebase memory management on GitHub shows that an infrastructure-oriented interest continues.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "summary": "SimpleX offers a privacy-oriented communication infrastructure as the first messaging network that operates without using user identifiers. This platform, developed in Haskell language, aims to keep user data completely anonymous thanks to its decentralized structure.",
+          "meta": "Haskell · ★ 15,704 · +1,180 today"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev offers a comprehensive list of service providers (SaaS, PaaS, IaaS) that offer free tiers for software developers and infrastructure experts. This resource helps developers manage costs and facilitates access to cloud-based tools.",
+          "meta": "HTML · ★ 126,084 · +495 today"
+        },
+        {
+          "title": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "summary": "Developed by Comma.ai, openpilot is an open source operating system designed for robotic systems. The software provides autonomous driving capabilities by upgrading driver assistance systems in more than 300 vehicle models.",
+          "meta": "Python · ★ 62,596 · +266 today"
+        },
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI-berkshire is a multi-agent framework that conducts value investing research using Claude Code and Codex infrastructure. It automates financial analysis processes based on the methodologies of investors such as Warren Buffett, Charlie Munger, Duan Yongping and Li Lu.",
+          "meta": "Python · ★ 6,056 · +1,445 today"
+        },
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "Lingbot-map is a feed-forward 3D foundation model designed to reconstruct scenes from streaming data. The project optimizes visualization processes by processing complex environmental data, thanks to its architecture developed in Python language.",
+          "meta": "Python · ★ 8,439 · +372 today"
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Developed by DeusData, codebase-memory-mcp offers high-performance code intelligence by indexing code bases on a permanent knowledge graph. This server, written in C language, supports 158 programming languages ​​and reduces token usage by performing queries in milliseconds.",
+          "meta": "C · ★ 20,524 · +2,190 today"
+        },
+        {
+          "title": "cupy/cupy",
+          "url": "https://github.com/cupy/cupy",
+          "summary": "CuPy combines the numerical computing library NumPy and SciPy interfaces with graphics processing unit (GPU) acceleration. This Python-based library accelerates complex mathematical operations using CUDA cores.",
+          "meta": "Python · ★ 11,639 · +174 today"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice is a fast voice to text application that works completely offline on the macOS operating system. Developed in Swift, this tool processes data locally and offers a privacy-focused audio conversion experience.",
+          "meta": "Swift · ★ 3,995 · +365 today"
+        },
+        {
+          "title": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "summary": "MinerU is a tool that converts complex PDF and office documents into markdown or JSON format suitable for large language models. This solution aims to make unstructured data available in agent-based workflows.",
+          "meta": "Python · ★ 72,027 · +380 today"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading offers an artificial intelligence agent (trading agent) that makes personal investment decisions by analyzing financial market data. This Python-based project develops automated trading strategies to evaluate market trends.",
+          "meta": "Python · ★ 14,692 · +492 today"
+        },
+        {
+          "title": "ByteByteGoHq/system-design-101",
+          "url": "https://github.com/ByteByteGoHq/system-design-101",
+          "summary": "The system-design-101 repository by ByteByteGoHq explains complex system architectures with visualizations and plain language. It offers a resource that takes system design concepts from basic to advanced for those preparing for software engineering interviews.",
+          "meta": "★ 84,839 · +250 today"
+        },
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix is ​​an open source artificial intelligence-based security tool (AI security tool) designed to detect and fix security vulnerabilities in applications. Developed with Python language, this system automates vulnerability scanning and correction processes in software development processes.",
+          "meta": "Python · ★ 27,035 · +122 today"
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "The video-use library allows coding agents to automate video editing processes. This Python-based tool speeds up workflows by performing visual editing tasks through software commands.",
+          "meta": "Python · ★ 11,471 · +196 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GLM 5.2 beats Claude in our benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+          "summary": "Test results shared by Semgrep show that the GLM 5.2 model outperforms Claude models in cybersecurity-focused benchmarks. The model exhibits high performance in code analysis and security vulnerability detection processes.",
+          "meta": "810 points · 378 comments"
+        },
+        {
+          "title": "The KIDS Act would require age checks to get online",
+          "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+          "summary": "The Protecting Children's Internet Safety (KIDS) Act plans to introduce mandatory age verification systems for access to online platforms. This regulation brings into question anonymity and data privacy on the internet by requiring users to prove their digital identities.",
+          "meta": "469 points · 368 comments"
+        },
+        {
+          "title": "I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "summary": "Users use the command-line interface (CLI)-based coding assistant Claude Code tool to analyze medical imaging (MRI) results. This method popularizes the practice of getting a second opinion supported by artificial intelligence during the processing and interpretation of image data.",
+          "meta": "425 points · 556 comments"
+        },
+        {
+          "title": "Age verification is just a precursor to automated attribution of speech",
+          "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+          "summary": "Age verification processes implemented on digital platforms constitute the first stage of the transition to automatic attribution systems that enable the association of content on the internet with identity. This technical infrastructure brings about discussions about how the concepts of online freedom of expression and anonymity will be shaped by future legal regulations.",
+          "meta": "409 points · 220 comments"
+        },
+        {
+          "title": "Professor denounces mass AI fraud on an exam at Brown",
+          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+          "summary": "A professor at Brown University draws attention to academic integrity violations caused by the mass use of generative AI in exams. This situation necessitates educational institutions to reconsider their evaluation methods against AI-assisted cheating.",
+          "meta": "396 points · 525 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is an optical character recognition model that converts visual-based texts into text output. It offers image-to-text conversion capability to process data in complex documents.",
+          "meta": "♥ 1,288 · 295,064 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, developed by Zai-org, is a language model focused on text-generation. This model, which has attracted high interest on the Hugging Face platform, offers text generation capacity in natural language processing tasks.",
+          "meta": "♥ 2,861 · 118,651 downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M model is a multimodal artificial intelligence model that produces text output by processing visual and text inputs. This model, presented in GGUF format, stands out with its low memory usage, optimized for running on local devices.",
+          "meta": "♥ 845 · 831,529 downloads"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "This Gemma-4-12B based model offers an optimized structure for use in text generation tasks. This work, presented in GGUF format, aims to support agent-based workflows that can be run on local devices.",
+          "meta": "♥ 814 · 225,822 downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "summary": "Qwythos-9B, developed by Empero-ai, is a language model focused on text generation. This model with 9 billion parameters is used in complex content creation processes with wide context window support.",
+          "meta": "♥ 534 · 52,492 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "user identifiers",
+      "explanation": "Unique user numbers or codes that help distinguish you from others on an application or website."
+    },
+    {
+      "term": "free tier",
+      "explanation": "The entry level of a service or application that users can use at no cost up to certain limits."
+    },
+    {
+      "term": "driver assistance system",
+      "explanation": "Technological equipment that assists the driver with features such as lane tracking or automatic braking to increase safety while driving."
+    },
+    {
+      "term": "value investing",
+      "explanation": "A method of purchasing stocks that you think are priced lower than their real value, with the goal of long-term gain."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "The collaboration of multiple artificial intelligence software that communicates and collaborates with each other to accomplish a complex task."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "A system in which data is organized in a meaningful way by connecting the relationships between different information and presenting it in a network structure."
+    },
+    {
+      "term": "token",
+      "explanation": "The smallest piece of data, the numerical equivalent of words or syllables, that artificial intelligence models use when processing texts."
+    },
+    {
+      "term": "GPU",
+      "explanation": "A special computer processor that can perform intensive mathematical operations such as image processing and artificial intelligence calculations very quickly."
+    },
+    {
+      "term": "voice to text",
+      "explanation": "Technology that detects the words you say and converts them into written text in a digital environment."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "markdown",
+      "explanation": "A lightweight writing language for formatting texts with simple symbols without using complex codes."
+    },
+    {
+      "term": "agentic workflows",
+      "explanation": "Working processes in which artificial intelligence software makes its own decisions and manages the steps sequentially to complete a job."
+    },
+    {
+      "term": "trading agent",
+      "explanation": "Software that analyzes market data on your behalf and automatically trades in the stock market or cryptocurrency markets."
+    },
+    {
+      "term": "trading strategies",
+      "explanation": "A set of predefined rules that determine under what conditions to buy or sell when investing."
+    },
+    {
+      "term": "system design",
+      "explanation": "The process of planning how large-scale software will work, how the parts will communicate with each other, and how the data will be stored."
+    },
+    {
+      "term": "AI security tool",
+      "explanation": "Software that protects artificial intelligence systems against external attacks, incorrect data entry or malicious use."
+    }
+  ]
+}

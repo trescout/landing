@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-29",
+  "editorial": "In today's technology agenda, artificial intelligence development tools (AI development tools) and continuous integration systems (CI/CD systems) are at the forefront. Aisuite, the multi-model library shared by Andrew Ng, attracts the attention of developers by combining different language models in a single interface.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "TypeScript-based pascalorg/editor allows users to create and share three-dimensional architectural projects via the browser. The software aims to make architectural design processes accessible through a web-based interface.",
+          "meta": "TypeScript · ★ 18,985 · +341 today"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Developed with Java language, Jenkins is a server solution that automates continuous integration and continuous deployment processes in software development processes. It offers a wide ecosystem of plugins to manage the compilation, testing and deployment processes in software projects.",
+          "meta": "Java · ★ 26,144 · +180 today"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi is an AI companion platform with real-time voice chat and gaming capabilities that users can host on their own servers. The project aims to run Neuro-sama-like interactive digital characters on local systems and integrate them into different gaming environments.",
+          "meta": "TypeScript · ★ 44,962 · +797 today"
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Developed by Andrew Ng, aisuite is a Python library that allows managing different generative AI providers through a single interface. It standardizes integration processes by making it easier for developers to switch between various model services.",
+          "meta": "Python · ★ 15,752 · +62 today"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC is a performance optimization system that combines skills, instincts, memory and security layers for artificial intelligence agents. Claude Code aims to increase the efficiency of agent-based workflows in development tools such as Codex and Cursor.",
+          "meta": "JavaScript · ★ 235,046 · +636 today"
+        },
+        {
+          "title": "hello245m/free-stockdb",
+          "url": "https://github.com/hello245m/free-stockdb",
+          "summary": "Free-stockdb is a native quantitative analysis engine that handles daily and minute data for A stocks and exchange traded funds (ETFs). The system combines functions such as incremental synchronization of data, local caching, price correction, backtesting and technical indicator calculations.",
+          "meta": "HTML · ★ 1,492 · +50 today"
+        },
+        {
+          "title": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "summary": "The speech-to-speech library developed by Hugging Face allows creating local voice agents using open source models. This Python-based tool allows developers to build real-time voice interaction systems that run on the device.",
+          "meta": "Python · ★ 7,443 · +227 today"
+        },
+        {
+          "title": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "summary": "The book-to-skill project converts portable document formats (PDF) of technical books into usable skill packs (skills) for Claude Code. This tool enables technical resources to be directly referenced and applied in work processes.",
+          "meta": "Python · ★ 11,802 · +423 today"
+        },
+        {
+          "title": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "summary": "GeoLibre is a lightweight, cloud-based geographic information system (GIS) platform developed for geographic data visualization, exploration and analysis. This tool written in TypeScript; It offers a flexible structure that can run on web browsers, desktop, mobile devices and Jupyter notebooks.",
+          "meta": "TypeScript · ★ 3,563 · +607 today"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "This list, which brings together libraries, strategies and educational resources in the field of systematic trading, supports Python-based financial modeling processes. It gathers the necessary tools and literature in a single center for those who want to enter the world of algorithmic trading.",
+          "meta": "Python · ★ 9,886 · +309 today"
+        },
+        {
+          "title": "microsoft/agent-governance-toolkit",
+          "url": "https://github.com/microsoft/agent-governance-toolkit",
+          "summary": "The agent governance toolkit developed by Microsoft offers security layers such as policy enforcement, zero-trust identity and sandboxing for autonomous artificial intelligence agents. The software aims to protect against vulnerabilities in the OWASP Agentic Top 10 list.",
+          "meta": "Python · ★ 5,342 · +46 today"
+        },
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Developed with the Go programming language, superfile offers a modern and visually rich interface for terminal-based file management. Users can perform file operations on the command line in a more functional and aesthetic structure.",
+          "meta": "Go · ★ 21,651 · +662 today"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video project is a Python tool that divides videos into frames and transcribes audio recordings to give the Claude model the ability to watch videos. This system enables artificial intelligence to analyze video content by processing visual data and text transcripts.",
+          "meta": "Python · ★ 12,328 · +988 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Substack writers, you need a website",
+          "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+          "summary": "Substack authors need personal websites to reduce platform dependency and protect content ownership. Managing their own domains is seen as essential to maintaining control over reader data and creating a digital presence free of platform restrictions.",
+          "meta": "487 points · 231 comments"
+        },
+        {
+          "title": "Codex Security",
+          "url": "https://github.com/openai/codex-security",
+          "summary": "OpenAI shared the Codex Security toolkit, which it developed to detect code-based vulnerabilities, as open source. This software uses large language models to identify security vulnerabilities in software development processes.",
+          "meta": "452 points · 140 comments"
+        },
+        {
+          "title": "Kimi K3 Architecture Overview and Notes",
+          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "summary": "Some K3 architecture offers a new generation structure developed to increase the efficiency of large language models. This architecture focuses on improving the inference speed and scalability of the model by optimizing computational resources.",
+          "meta": "372 points · 64 comments"
+        },
+        {
+          "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+          "url": "https://www.slow-journalism.com/",
+          "summary": "The slow journalism movement advocates a publishing approach that focuses on in-depth analysis and verified information rather than quickly sharing current news. This approach aims to reduce the information pollution created by the instant consumption-oriented news cycle.",
+          "meta": "272 points · 159 comments"
+        },
+        {
+          "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+          "url": "https://github.com/twalichiewicz/HNewhere",
+          "summary": "HNewhere offers a userscript that improves user experience by combining links and related discussions on Hacker News within the same tab. This tool consolidates a workflow that requires constant tab-switching between content and comments into a single interface.",
+          "meta": "235 points · 64 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Developed by Moonshot AI, Kimi-K3 is a multimodal model that processes visual and text data as input and produces text output. The model provides the ability to generate text-based responses to user queries by analyzing complex visual content.",
+          "meta": "♥ 8,229 · 99,214 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is an image-to-text model that processes visual texts and produces text output. It is designed to analyze the texts in complex documents with high accuracy.",
+          "meta": "♥ 3,440 · 2,694,935 downloads"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Developed by Upstage, Solar-Open2-250B is a comprehensive language model focused on text generation. This model, which aims to perform in complex tasks with high parameter capacity, offers a new option to the open source artificial intelligence ecosystem.",
+          "meta": "♥ 668 · 4,804 downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "This model, based on Qwen3.6-27B, offers an image-text-to-text structure that produces text output by processing visual and text inputs. The model, configured as uncensored, stands out as a specialized version created by combining different data sets (model merging).",
+          "meta": "♥ 869 · 736,692 downloads"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Developed by Poolside, Laguna-S-2.1 is a language model optimized for text generation tasks. The model provides an open source architecture designed for use in a wide range of language processing processes.",
+          "meta": "♥ 804 · 67,286 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "continuous integration",
+      "explanation": "Automatically adding code pieces written by developers to the main project to find errors early."
+    },
+    {
+      "term": "continuous deployment",
+      "explanation": "Automatically delivering prepared software updates directly to users without human intervention."
+    },
+    {
+      "term": "AI companion",
+      "explanation": "Artificial intelligence software that chats with the user, helps him with his daily tasks and learns his personal needs."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Artificial intelligence technology that can create new texts, images or sounds based on previously learned information."
+    },
+    {
+      "term": "skills",
+      "explanation": "Special abilities that artificial intelligence models acquire to perform a specific task."
+    },
+    {
+      "term": "instincts",
+      "explanation": "The ability of AI to make quick and intuitive decisions based on pre-trained data in complex situations."
+    },
+    {
+      "term": "memory",
+      "explanation": "AI personalizes future interactions by remembering past conversations or user preferences."
+    },
+    {
+      "term": "ETF",
+      "explanation": "An investment vehicle called an exchange-traded fund that allows you to purchase many different stocks in a single package."
+    },
+    {
+      "term": "backtesting",
+      "explanation": "A method of testing how successful an investment strategy will be using historical market data."
+    },
+    {
+      "term": "voice agents",
+      "explanation": "Digital assistants that communicate with the user by voice, answer questions and carry out commands."
+    },
+    {
+      "term": "PDF",
+      "explanation": "A hard-to-edit fixed file format that makes documents look the same on different devices."
+    },
+    {
+      "term": "GIS",
+      "explanation": "A system that collects, analyzes and visualizes geographical data on maps around the world."
+    },
+    {
+      "term": "Jupyter notebooks",
+      "explanation": "An interactive work environment where you can take notes while writing code and see the results instantly."
+    },
+    {
+      "term": "systematic trading",
+      "explanation": "Investment decisions are made free of emotions, within the framework of predetermined rules and a disciplined plan."
+    },
+    {
+      "term": "algorithmic trading",
+      "explanation": "Buying and selling transactions in financial markets are carried out quickly and automatically by computer programs."
+    },
+    {
+      "term": "agent governance toolkit",
+      "explanation": "A set of management tools that ensure that autonomous artificial intelligence systems act safely, ethically and in accordance with the rules."
+    }
+  ]
+}

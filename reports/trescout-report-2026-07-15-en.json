@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-15",
+  "editorial": "Today's technology agenda features open source artificial intelligence applications (AI apps) from independent developers and autonomous model architectures for financial markets. Popular repositories on GitHub specifically point to toolsets that expand practical uses of large language models (LLMs) and resources that focus on developing software skills.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "1c7/chinese-independent-developer",
+          "url": "https://github.com/1c7/chinese-independent-developer",
+          "summary": "This open source database, which lists projects carried out by Chinese independent developers, brings together the applications and workspaces developed by software developers. The platform allows you to follow current trends and product-oriented studies in the independent development (indie hacking) ecosystem.",
+          "meta": "Python · ★ 54,609 · +1,196 today"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "The awesome-llm-apps repository brings together more than 100 directly executable artificial intelligence agents and augmented generation applications. These Python-based open source projects allow developers to quickly copy and customize applications and release them.",
+          "meta": "Python · ★ 121,162 · +1,106 today"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "This repository, shared by Matt Pocock, brings together the customized prompt and configuration files that software engineers use on Claude. Developers standardize AI-supported coding processes by using these ready-made skill sets.",
+          "meta": "Shell · ★ 170,810 · +1,679 today"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut offers an open source alternative to CapCut video editing software. Developed with TypeScript language, the platform allows users to freely manage their video editing processes.",
+          "meta": "TypeScript · ★ 69,524 · +4,276 today"
+        },
+        {
+          "title": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "summary": "The AI ​​hedge fund uses autonomous AI agents to develop financial market analysis and trading strategies. This Python-based project aims to automate investment decision-making processes by processing market data.",
+          "meta": "Python · ★ 61,997 · +109 today"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark is a style file developed to reduce the impact of content created by artificial intelligence (AI-slop) on visual design. It ensures that interfaces produced in coding tools such as Claude Code, Cursor and Codex have an original and human-oriented design.",
+          "meta": "CSS · ★ 6,370 · +1,015 today"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading is a personal trading agent developed for trading in financial markets. This Python-based project aims to execute automatic trading strategies on behalf of users by analyzing market data.",
+          "meta": "Python · ★ 23,102 · +1,256 today"
+        },
+        {
+          "title": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "summary": "Win11Debloat is a PowerShell script that allows removing pre-installed applications, disabling telemetry data, and making system customizations on Windows 10 and 11 operating systems. It helps users get a simpler user experience by cleaning unnecessary elements on the operating system.",
+          "meta": "PowerShell · ★ 51,923 · +783 today"
+        },
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "The fitness dataset shared by Hasan Eylldrm includes animated visuals, muscle group information, and step-by-step instructions in six languages ​​for 1,324 different exercises. This comprehensive resource offers a structured layer of exercise data for fitness app developers.",
+          "meta": "HTML · ★ 13,778 · +851 today"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot is an open source design platform that enables product teams to collaborate at scale. This tool, developed with the Clojure language, aims to increase transparency and collaboration opportunities in design processes.",
+          "meta": "Clojure · ★ 56,290 · +395 today"
+        },
+        {
+          "title": "AIEraDev/Clypra",
+          "url": "https://github.com/AIEraDev/Clypra",
+          "summary": "Clypra is an open source video editor application developed using Tauri, React and TypeScript. The software aims to offer advanced features found in paid video editing tools as a free alternative.",
+          "meta": "TypeScript · ★ 2,729 · +85 today"
+        },
+        {
+          "title": "par274/sharpemu",
+          "url": "https://github.com/par274/sharpemu",
+          "summary": "Sharpemu is an experimental emulator project developed in C# for the PlayStation 5 game console. The project is a technical study that aims to run the console architecture in a software-based environment.",
+          "meta": "C# · ★ 2,242 · +332 today"
+        },
+        {
+          "title": "chenyme/grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "summary": "Developed for Grok Build, Grok Web and Grok Console platforms, this gateway (API gateway) gathers multi-account management in a single center. Written in Go language, the tool offers a manageable interface by standardizing users' access to different Grok services.",
+          "meta": "Go · ★ 5,927 · +186 today"
+        },
+        {
+          "title": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "summary": "Graphify transforms different types of data such as code files, database schemas and documents in software projects into a queryable knowledge graph structure. This tool enables AI coding assistants to understand the project context more holistically.",
+          "meta": "Python · ★ 86,756 · +1,851 today"
+        },
+        {
+          "title": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "summary": "Maths-cs-ai-compendium offers a comprehensive collection of resources covering mathematics, computer science and artificial intelligence for engineers who want to specialize in artificial intelligence and machine learning. This repository serves as a structured study guide to strengthen theoretical foundations and develop research engineering skills.",
+          "meta": "TypeScript · ★ 5,424 · +112 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+          "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+          "summary": "Developers tend to prefer the lightweight and accessible structure offered by standard web pages instead of complex application architectures. This approach argues that browser-based solutions are often sufficient to simplify the user experience.",
+          "meta": "773 points · 467 comments"
+        },
+        {
+          "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+          "url": "https://prismml.com/news/bonsai-27b",
+          "summary": "Developed by PrismML, Bonsai 27B was designed as a large language model with 27 billion parameters that can run on smartphones. The model makes models that require high computational power accessible on mobile devices by using model compression techniques.",
+          "meta": "525 points · 187 comments"
+        },
+        {
+          "title": "How to stop Claude from saying load-bearing",
+          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "summary": "The expression \"load-bearing\", which large language models (LLM) like Claude often use in their answers, is a pattern that indicates that the model has excessive reliance on a particular context. Users can prevent such repetitive expressions that reduce content quality through system prompts and enable the model to produce more original responses.",
+          "meta": "489 points · 529 comments"
+        },
+        {
+          "title": "Are we offloading too much of our thinking to AI?",
+          "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+          "summary": "The effects of the cognitive load transferred to artificial intelligence tools on the problem-solving and critical thinking abilities of the human mind are discussed. The balance between automation facilitating intellectual processes and the risk of individuals losing their own analysis skills is being questioned in the technology world.",
+          "meta": "426 points · 409 comments"
+        },
+        {
+          "title": "The Tower Keeps Rising",
+          "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+          "summary": "As complexity increases in the software world, the accumulation of abstraction layers that complicate the manageability of systems poses a problem. In modern software development processes, the technical debt and maintenance costs created by these layers limit the sustainability of system architectures.",
+          "meta": "423 points · 191 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M model is a multimodal artificial intelligence model that produces text output by processing visual and text inputs. This model, presented in GGUF format, is optimized to run on local devices.",
+          "meta": "♥ 2,168 · 2,006,265 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, developed by Zai-org, is a language model optimized for text-generation tasks. The model in question aims to provide high performance in natural language processing processes by training on extensive data sets.",
+          "meta": "♥ 3,952 · 489,611 downloads"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Developed by Tencent, Hy3 is a language model optimized for text generation processes. The model aims to perform on a variety of natural language processing tasks by being trained on large-scale data sets.",
+          "meta": "♥ 785 · 10,406 downloads"
+        },
+        {
+          "title": "conradlocke/krea2-identity-edit",
+          "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "summary": "The Krea2-identity-edit model offers an approach focused on identity preservation in visual editing processes. This model provides image editing capabilities that allow users to adapt a given visual identity to different contexts without changing it.",
+          "meta": "♥ 291 · 0 downloads"
+        },
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "summary": "ThinkingCap-Qwen3.6-27B, developed by Bottlecapai, is a multimodal artificial intelligence model that produces text output by processing visual and text data. Based on the Qwen architecture, it offers the ability to analyze complex visual content and generate text-based responses.",
+          "meta": "♥ 352 · 6,208 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "indie hacking",
+      "explanation": "The process of developing and selling your own digital products alone or with small teams, without being affiliated with large companies."
+    },
+    {
+      "term": "retrieval-augmented generation",
+      "explanation": "It is a method in which artificial intelligence scans current and private data from external sources and increases its accuracy while producing answers."
+    },
+    {
+      "term": "prompt",
+      "explanation": "A written instruction or command you give to artificial intelligence to get a result from it."
+    },
+    {
+      "term": "skills",
+      "explanation": "Additional capabilities that voice assistants or smart devices gain to perform certain tasks."
+    },
+    {
+      "term": "AI hedge fund",
+      "explanation": "Financial fund management where investment decisions are made entirely by artificial intelligence algorithms instead of humans."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Software that can make decisions on its own, use tools to achieve goals, and complete tasks automatically."
+    },
+    {
+      "term": "AI-slop",
+      "explanation": "Content produced by artificial intelligence is low quality, sloppy and often pollutes the internet."
+    },
+    {
+      "term": "trading agent",
+      "explanation": "A software program that tracks price changes in the stock market and automatically trades for you."
+    },
+    {
+      "term": "video editor",
+      "explanation": "Software for cutting images, adding effects and editing sounds to turn it into a watchable movie."
+    },
+    {
+      "term": "emulator",
+      "explanation": "Software that allows you to run games or programs on another system by imitating the hardware of a device."
+    },
+    {
+      "term": "API gateway",
+      "explanation": "A digital gateway that manages data traffic between different applications, ensures security and directs requests to the right place."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "An intelligent database that records information in a network structure along with their relationships with each other."
+    },
+    {
+      "term": "AI coding assistants",
+      "explanation": "Artificial intelligence tools that prevent software developers from making mistakes while writing code, complete missing parts or provide suggestions."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Technology that allows computers to learn on their own by examining data and making better predictions over time."
+    },
+    {
+      "term": "application",
+      "explanation": "Any software program you use to do a specific job on computers or phones."
+    },
+    {
+      "term": "web-based solutions",
+      "explanation": "Software services that work only through the internet browser, without the need to install anything on your computer."
+    }
+  ]
+}

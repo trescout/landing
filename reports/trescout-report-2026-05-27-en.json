@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-27",
+  "editorial": "Today's focus is on plugins that extend the capabilities of large language models and specialized architectures focused on cybersecurity. Current posts on GitHub show that tools that automate knowledge work processes and filtering systems that protect content quality are increasing.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "summary": "Understand-Anything offers a discoverable and queryable structure by turning code bases into interactive knowledge graphs. It provides visualization of software projects by integrating with various coding assistants and command line interfaces.",
+          "meta": "TypeScript · ★ 37,639 · +4,697 today"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC offers a performance framework that optimizes capability, memory, security and research-oriented development processes for artificial intelligence agents. Claude Code aims to standardize agent-based workflows by integrating with various coding tools such as Codex and Cursor.",
+          "meta": "JavaScript · ★ 195,187 · +1,915 today"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "This resource, prepared for those who want to enter the field of artificial intelligence engineering (AI engineering), covers the application development and publishing processes, starting from the basics. It teaches how to build end-to-end artificial intelligence systems through Python-based projects with practical examples.",
+          "meta": "Python · ★ 21,395 · +2,155 today"
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Knowledge worker plugins published by Anthropics offer open source tools developed to increase productivity in the Claude Cowork environment. This Python-based library provides modular workflows that allow users to automate complex business processes.",
+          "meta": "Python · ★ 16,909 · +1,718 today"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Developed by Mukul975, Anthropic-Cybersecurity-Skills offers 754 structured capabilities (skills) for AI agents that are compatible with five different cybersecurity frameworks. This library covers 26 security domains, standardizing agent-based workflows across more than 20 platforms such as Claude Code and GitHub Copilot.",
+          "meta": "Python · ★ 10,421 · +880 today"
+        },
+        {
+          "title": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "summary": "Stop-slop is a tool that helps clean up characteristic narrative patterns and traces of AI (AI tells) in AI-generated texts. It optimizes language processing processes to make written content appear more natural and human-like.",
+          "meta": "★ 5,257 · +539 today"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill is a tool developed to prevent the content produced by artificial intelligence models from becoming ordinary and generic slop. The system provides an originality-focused filtering layer to improve the output quality of language models.",
+          "meta": "Shell · ★ 22,941 · +1,430 today"
+        },
+        {
+          "title": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "summary": "DigitalPlat FreeDomain is an open source platform that allows users to obtain free domain names. The software aims to facilitate the process of creating digital identities for web projects in a cost-free manner.",
+          "meta": "HTML · ★ 168,097 · +1,219 today"
+        },
+        {
+          "title": "jellyfin/jellyfin",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "summary": "Jellyfin is an open source media server system that allows users to manage and publish their own media collections. Developed in C# language, this platform provides server-side management of media files and access via application programming interface (API).",
+          "meta": "C# · ★ 52,495 · +83 today"
+        },
+        {
+          "title": "Axorax/awesome-free-apps",
+          "url": "https://github.com/Axorax/awesome-free-apps",
+          "summary": "The awesome-free-apps list compiled by Axorax brings together free software options for PC and mobile devices. This resource offers an accessible guide by categorizing popular applications that users need.",
+          "meta": "JavaScript · ★ 5,531 · +731 today"
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty offers an open-source customer relationship management (CRM) platform focused on artificial intelligence (AI) integration. Developed with the TypeScript language, the project aims to create an alternative structure to traditional systems such as Salesforce.",
+          "meta": "TypeScript · ★ 47,047 · +216 today"
+        },
+        {
+          "title": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "summary": "OpenStock offers real-time price tracking and personalized alerts as an open-source alternative to paid marketplace platforms. Developed with TypeScript, this tool provides detailed analysis of company data in a free and accessible manner.",
+          "meta": "TypeScript · ★ 12,353 · +156 today"
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Claude-mem is a tool that allows artificial intelligence agents to establish persistent context between sessions. It compresses the operations performed by the agent with artificial intelligence and transfers the relevant data to subsequent sessions and works compatible with different coding assistants.",
+          "meta": "TypeScript · ★ 78,948 · +352 today"
+        },
+        {
+          "title": "st-tech/ppf-contact-solver",
+          "url": "https://github.com/st-tech/ppf-contact-solver",
+          "summary": "ppf-contact-solver provides a solver that calculates contact interactions between shells, solids and rods in physics-based simulations. Developed with Python, this tool allows you to manage the interaction processes of complex physical objects in a standard way.",
+          "meta": "Python · ★ 3,621 · +170 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+          "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+          "summary": "Spain blocked access to prediction markets such as Polymarket and Kalshi on the grounds that they did not have a gambling license. These platforms are subject to supervision by local regulatory authorities due to their betting models based on the outcomes of events rather than financial instruments.",
+          "meta": "905 points · 419 comments"
+        },
+        {
+          "title": "Dropbox CEO Drew Houston to step down",
+          "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+          "summary": "Dropbox co-founder and chief executive officer Drew Houston is leaving his position. Ashraf Alkarmi, the current president of operations, takes over the leadership of the company in the new period.",
+          "meta": "344 points · 367 comments"
+        },
+        {
+          "title": "A few interesting modern pixel fonts",
+          "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+          "summary": "Modern pixel fonts are regaining popularity in digital interfaces by combining low-resolution screen aesthetics with current design needs. This font collection optimizes the limitations of traditional pixel art with modern typography techniques, improving readability on different screen scales.",
+          "meta": "343 points · 69 comments"
+        },
+        {
+          "title": "That Methyl Methacrylate Tank",
+          "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+          "summary": "Polymerization reactions occurring in methyl methacrylate tanks pose serious explosion risks as the inhibitors needed to maintain chemical stability are exhausted. The fact that the process gets out of control due to the effect of thermal runaway necessitates the meticulous application of industrial safety protocols.",
+          "meta": "325 points · 127 comments"
+        },
+        {
+          "title": "The worst job interview I ever had",
+          "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+          "summary": "In the software world, the inefficiency of job interview processes and faulty approaches towards candidates cause technical interview practices to be questioned again. Non-standard evaluation methods that negatively affect the candidate experience highlight the need for transparency in corporate recruitment processes.",
+          "meta": "264 points · 221 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "bytedance-research/Lance",
+          "url": "https://huggingface.co/bytedance-research/Lance",
+          "summary": "Developed by ByteDance researchers, Lance offers an anything-to-any model architecture that transforms between different data types. This structure aims to create a flexible framework for processing multimodal data.",
+          "meta": "♥ 885 · 1,908 downloads"
+        },
+        {
+          "title": "NemoStation/Marlin-2B",
+          "url": "https://huggingface.co/NemoStation/Marlin-2B",
+          "summary": "Marlin-2B, developed by NemoStation, is a model that performs video-based text generation (video-text-to-text) operations. It is used in video processing processes with the ability to create text-based outputs by analyzing visual content.",
+          "meta": "♥ 393 · 9,144 downloads"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Developed by Meituan, LongCat-Video-Avatar-1.5 is a generative AI model that enables the creation of high-quality video avatars from text input. The system speeds up the process of modeling animated and realistic digital figures while maintaining the visual consistency of the characters.",
+          "meta": "♥ 320 · 0 downloads"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "Developed by OpenBMB, MiniCPM5-1B is a low-parameter language model optimized for text generation tasks. With its compact structure, it offers efficient working capacity on end devices.",
+          "meta": "♥ 347 · 2,409 downloads"
+        },
+        {
+          "title": "sapientinc/HRM-Text-1B",
+          "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
+          "summary": "Developed by Sapientinc, HRM-Text-1B is a language model optimized for text-generation tasks. Thanks to its low number of parameters, it offers a solution focused on resource efficiency.",
+          "meta": "♥ 382 · 103,033 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

@@ -1,0 +1,249 @@
+{
+  "date": "2026-07-27",
+  "editorial": "In today's technology agenda, decentralized communication protocols and terminal-based file management tools stand out. It is observed that developers are turning to projects that focus on system performance and user interface optimization in the open source ecosystem.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "summary": "BitChat offers a local chat environment that does not require an internet connection, using Bluetooth mesh technology. This application, developed in Swift language, allows users to communicate with an experience similar to old-generation internet relay chat (IRC), without the need for a central server.",
+          "meta": "Swift · ★ 30,947 · +1,166 today"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite is a lightweight browser tool that shares the logged in browser state for AI agents to execute web automation processes. Working in integration with coding assistants, this solution allows automating browser-based tasks without disturbing the user.",
+          "meta": "JavaScript · ★ 5,012 · +900 today"
+        },
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Developed by Block, Buzz is a hive mind communication platform written in Rust. It offers an open source infrastructure that aims to establish a decentralized communication network (hive mind communication) in distributed systems.",
+          "meta": "Rust · ★ 13,741 · +1,710 today"
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3code is a toolset designed to improve code quality and speed up development processes in TypeScript-based projects. It provides a structured framework that makes it easy for developers to create type-safe applications.",
+          "meta": "TypeScript · ★ 15,148 · +149 today"
+        },
+        {
+          "title": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "summary": "Instatic stands out as an agent-based visual content management system (CMS) that offers an open source alternative to platforms such as Webflow and WordPress. Developed with TypeScript, this tool allows you to host the process of creating static pages on your own server with user management and plugin support.",
+          "meta": "TypeScript · ★ 5,863 · +888 today"
+        },
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Developed with the Go programming language, superfile offers a modern and visually rich interface for terminal-based file management. Users can manage system directories with this terminal file manager, which makes file operations more functional on the command line.",
+          "meta": "Go · ★ 20,412 · +131 today"
+        },
+        {
+          "title": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "summary": "Node.js offers a runtime environment that allows JavaScript code to be run outside the browser. This platform, based on the V8 engine, is used to develop scalable network applications on the server side.",
+          "meta": "JavaScript · ★ 118,523 · +36 today"
+        },
+        {
+          "title": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "summary": "Chat2DB is an AI-powered database tool and SQL client that supports numerous database management systems. This graphical user interface (GUI), developed in Java language, aims to accelerate database query processes with its natural language processing capabilities.",
+          "meta": "Java · ★ 27,277 · +398 today"
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable offers a design language developed to improve the design outputs of artificial intelligence models. This tool aims to improve the visual consistency and user experience quality of artificial intelligence-supported interfaces.",
+          "meta": "JavaScript · ★ 50,919 · +413 today"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos stands out as a foundation model developed to analyze the language of financial markets. It offers a customized artificial intelligence architecture for processing financial data and market analysis.",
+          "meta": "Python · ★ 34,284 · +321 today"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Developed by Alibaba, Open-code-review is a hybrid code review tool that combines deterministic pipelines and large language model (LLM) agents. The system, which provides line-based comments in software development processes, detects vulnerabilities such as thread-safety and SQL injection with pre-trained rules.",
+          "meta": "Go · ★ 14,156 · +832 today"
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Developed by Andrew Ng, aisuite is a Python library that allows managing different generative AI providers through a single interface. It offers a unified layer that makes it easy for developers to switch between various model services.",
+          "meta": "Python · ★ 15,462 · +187 today"
+        },
+        {
+          "title": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "summary": "Claude cookbooks shared by Anthropic provide practical code examples and Jupyter notebooks for using Claude models. This resource includes concrete workflows designed to accelerate developers' integration of Claude into AI applications.",
+          "meta": "Jupyter Notebook · ★ 50,363 · +379 today"
+        },
+        {
+          "title": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "summary": "Developed in Rust, Pumpkin is an open source server software that aims to host fast and efficient Minecraft servers. With its high performance-oriented structure, it allows users to manage their own game servers with lower resource consumption.",
+          "meta": "Rust · ★ 10,111 · +338 today"
+        },
+        {
+          "title": "permissionlesstech/bitchat-android",
+          "url": "https://github.com/permissionlesstech/bitchat-android",
+          "summary": "Bitchat-android offers a decentralized messaging experience that does not require an internet connection, using Bluetooth mesh technology. The application, developed in Kotlin language, allows users to establish IRC-like communication over the local network.",
+          "meta": "Kotlin · ★ 6,833 · +260 today"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Jenkins is an open source continuous integration and continuous delivery server that automates software development processes. This Java-based platform offers a wide ecosystem of plugins to manage the compilation, testing and deployment phases of software projects.",
+          "meta": "Java · ★ 25,763 · +18 today"
+        },
+        {
+          "title": "amnezia-vpn/amnezia-client",
+          "url": "https://github.com/amnezia-vpn/amnezia-client",
+          "summary": "Amnesia VPN client is an open source networking tool that allows users to gain uncensored internet access through its own servers. Developed in C++, this software offers customizable tunneling protocols that protect personal privacy on desktop and mobile platforms.",
+          "meta": "C++ · ★ 13,457 · +35 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kill The Cookie Banner",
+          "url": "https://killthecookiebanner.eu/",
+          "summary": "The initiative aims to remove cookie banners so that internet users can browse websites without encountering confirmation windows. Based on digital regulations in the European Union, this project proposes standards that aim to improve user privacy and internet experience.",
+          "meta": "933 points · 445 comments"
+        },
+        {
+          "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+          "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+          "summary": "A citizen in the USA was accused of obstruction of justice for remotely deleting the data of his GrapheneOS-installed phone during an airport call. The incident brings to the fore the legal conflicts privacy-focused operating systems face with law enforcement investigations.",
+          "meta": "553 points · 385 comments"
+        },
+        {
+          "title": "PGSimCity - How PostgreSQL Works",
+          "url": "https://nikolays.github.io/PGSimCity/",
+          "summary": "PGSimCity explains the inner workings of the PostgreSQL database management system through a visual simulation. Users can observe how database operations occur in the background with an interactive interface.",
+          "meta": "435 points · 45 comments"
+        },
+        {
+          "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+          "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+          "summary": "Htmx 4.0 was announced as the first JavaScript library designed to run exclusively on the Game Boy console. This release introduces an experimental approach aimed at porting web development tools to hardware outside of traditional browser environments.",
+          "meta": "415 points · 140 comments"
+        },
+        {
+          "title": "French firefighters face 'pyrocumulonimbus' for first time",
+          "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+          "summary": "Fire crews in France are encountering dense smoke and heat-induced fire clouds (pyrocumulonimbus) triggered by extreme temperatures for the first time. This meteorological phenomenon causes fires to create their own weather systems, making extinguishing efforts difficult.",
+          "meta": "299 points · 184 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Developed by Baidu, Unlimited-OCR is an image-to-text model that processes visual texts and produces text output. The model is designed to transfer data from complex documents into digital format.",
+          "meta": "♥ 3,244 · 2,593,460 downloads"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Developed by Poolside, Laguna-S-2.1 is a language model optimized for text generation tasks. The model aims to increase natural language processing capabilities by training on large-scale data sets.",
+          "meta": "♥ 708 · 56,445 downloads"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Developed by Upstage, Solar-Open2-250B is a large-scale language model designed for text generation tasks. The model aims to provide high performance in complex language processing processes with its 250 billion parameter capacity.",
+          "meta": "♥ 609 · 3,305 downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "This model, based on Qwen3.6-27B, offers a multimodal structure that produces text output by processing visual and text inputs. The model trained with uncensored data sets is compressed in GGUF format and optimized to run on different hardware.",
+          "meta": "♥ 658 · 552,026 downloads"
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.2-3B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+          "summary": "Nanbeige4.2-3B, developed by Nanbeige, is a small-scale language model optimized for text generation tasks. This model, which focuses on fast inference processes with a low number of parameters, offers the opportunity to work efficiently on limited hardware resources.",
+          "meta": "♥ 453 · 14,049 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Bluetooth mesh",
+      "explanation": "Wireless communication technology that allows multiple devices to connect to each other and establish a network in a wide area."
+    },
+    {
+      "term": "IRC",
+      "explanation": "An old and simple messaging system that allows real-time correspondence over the Internet."
+    },
+    {
+      "term": "browser state",
+      "explanation": "The entirety of the data and settings that an internet browser keeps during the current session."
+    },
+    {
+      "term": "hive mind communication",
+      "explanation": "A group of systems or individuals acting as a single mind and sharing information."
+    },
+    {
+      "term": "type-safe",
+      "explanation": "A structure that reduces the risk of program crashes by preventing the use of incorrect data types in the software."
+    },
+    {
+      "term": "agentic",
+      "explanation": "An artificial intelligence can make its own decisions and take steps to achieve the goal given to it."
+    },
+    {
+      "term": "CMS",
+      "explanation": "A software tool that allows you to manage website content without knowing coding."
+    },
+    {
+      "term": "terminal file manager",
+      "explanation": "A tool that allows you to manage your files only via the command line instead of visual windows."
+    },
+    {
+      "term": "runtime environment",
+      "explanation": "The basic supporting environment that a software needs to run on a computer."
+    },
+    {
+      "term": "SQL client",
+      "explanation": "Application that helps you query and manage information in the database."
+    },
+    {
+      "term": "GUI",
+      "explanation": "Interface that allows you to visually manage computer programs with icons, menus and windows."
+    },
+    {
+      "term": "design language",
+      "explanation": "A set of color, font and shape rules that ensure the visual consistency of a brand or product."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Basic artificial intelligence structure trained with huge data to perform many different tasks."
+    },
+    {
+      "term": "deterministic pipelines",
+      "explanation": "Orderly processing processes that always produce the same result with the same input each time they are run."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "thread-safety",
+      "explanation": "A security feature of a program that prevents data from being corrupted when performing multiple operations at the same time."
+    }
+  ]
+}

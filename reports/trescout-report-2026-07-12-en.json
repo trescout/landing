@@ -1,0 +1,291 @@
+{
+  "date": "2026-07-12",
+  "editorial": "Today, in the software world, testing frameworks and low-level memory optimization tools in the C++ ecosystem stand out. Code skills and infrastructure as code projects sourced from Google reflect current trends focusing on increasing developer productivity.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "catchorg/Catch2",
+          "url": "https://github.com/catchorg/Catch2",
+          "summary": "Catch2 is a modern unit testing framework that supports C++14 and later. The structure, which supports test-driven development (TDD) and behavior-driven development (BDD) processes, aims to facilitate test writing in C++ projects.",
+          "meta": "C++ · ★ 21,149 · +113 today"
+        },
+        {
+          "title": "abseil/abseil-cpp",
+          "url": "https://github.com/abseil/abseil-cpp",
+          "summary": "Abseil is a collection of open source common libraries developed by Google to complement the C++ standard library. It offers essential tools that enable software developers to write more secure, portable and performance-oriented code.",
+          "meta": "C++ · ★ 17,866 · +118 today"
+        },
+        {
+          "title": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "summary": "Claude Code templates (claude-code-templates) is a command line interface (CLI) tool for configuring and monitoring the Claude Code tool. Written in Python, this project makes it easier for developers to manage AI-supported workflows in their coding processes.",
+          "meta": "Python · ★ 29,088 · +232 today"
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "Developed by Google, Stitch Skills is a skill library that works compatible with the Stitch Model Context Protocol server. This structure, based on the open capability standard, enables coding agents to work integrated with different development tools.",
+          "meta": "TypeScript · ★ 7,142 · +340 today"
+        },
+        {
+          "title": "hashicorp/terraform",
+          "url": "https://github.com/hashicorp/terraform",
+          "summary": "Terraform, developed by HashiCorp, provides infrastructure as code management by defining infrastructure components with declarative configuration files. Written in the Go language, this tool enables secure and predictable creation, modification, and version control of cloud resources.",
+          "meta": "Go · ★ 49,402 · +229 today"
+        },
+        {
+          "title": "zeux/meshoptimizer",
+          "url": "https://github.com/zeux/meshoptimizer",
+          "summary": "The Meshoptimizer library is a C++ tool that aims to increase rendering performance by reducing the size of three-dimensional mesh models. It enables more efficient use of hardware resources by optimizing graphics data.",
+          "meta": "C++ · ★ 8,160 · +110 today"
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "OpenAI plugins enable language models to access up-to-date data and interact with third-party applications. This structure offers an extensibility model that allows artificial intelligence systems to perform tasks using external tools.",
+          "meta": "JavaScript · ★ 4,462 · +29 today"
+        },
+        {
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "summary": "DesktopCommanderMCP is a machine control protocol (Model Context Protocol) server developed for Claude. This tool provides terminal control, file system searching and file editing capabilities to the artificial intelligence model.",
+          "meta": "TypeScript · ★ 7,828 · +909 today"
+        },
+        {
+          "title": "chriskohlhoff/asio",
+          "url": "https://github.com/chriskohlhoff/asio",
+          "summary": "Asio offers an asynchronous library for networking and low-level input-output (I/O) operations in the C++ programming language. With this library, developers can create scalable network applications that use system resources efficiently.",
+          "meta": "C++ · ★ 6,152 · +76 today"
+        },
+        {
+          "title": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "summary": "Bun is a high-performance tool that combines the JavaScript runtime, package manager, test runner and bundler under one roof. This platform, developed with the Rust language, offers all basic tools in an integrated structure to accelerate software development processes.",
+          "meta": "Rust · ★ 94,599 · +658 today"
+        },
+        {
+          "title": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "summary": "The checkout action used in GitHub Actions workflows allows the source code in a repository to be transferred to the working environment. This tool standardizes file access required for compiling or testing code in continuous integration processes.",
+          "meta": "TypeScript · ★ 8,479 · +8 today"
+        },
+        {
+          "title": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "summary": "Home Assistant is an open source home automation platform that prioritizes local control and privacy. This system, developed with Python language, allows users to manage their smart devices over a central network.",
+          "meta": "Python · ★ 88,765 · +80 today"
+        },
+        {
+          "title": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "summary": "Microsoft PowerToys is a collection of utility software developed to increase productivity and customization in the Windows operating system. It offers tools that allow users to fine-tune the system and optimize workflows.",
+          "meta": "C · ★ 136,470 · +39 today"
+        },
+        {
+          "title": "cypress-io/cypress",
+          "url": "https://github.com/cypress-io/cypress",
+          "summary": "Cypress offers fast and reliable end-to-end testing processes for all applications running on the browser. This TypeScript-based tool is used to facilitate debugging and test automation in modern web development processes.",
+          "meta": "TypeScript · ★ 50,646 · +19 today"
+        },
+        {
+          "title": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "summary": "Next.js is a framework that offers features such as server-side rendering and static site generation for developing React-based web applications. It provides developers with comprehensive tools to create scalable and performance-oriented interfaces.",
+          "meta": "JavaScript · ★ 140,988 · +334 today"
+        },
+        {
+          "title": "DayuanJiang/next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "summary": "This Next.js-based application combines diagramming tool draw.io with generative AI capabilities. Users can create visual diagrams through natural language commands and edit their existing diagrams with artificial intelligence support.",
+          "meta": "TypeScript · ★ 33,359 · +81 today"
+        },
+        {
+          "title": "malisper/pgrust",
+          "url": "https://github.com/malisper/pgrust",
+          "summary": "The pgrust project, in which the PostgreSQL database management system was rewritten with the Rust programming language, successfully completes all regression tests. This work aims to modernize the database architecture with a language focused on memory safety.",
+          "meta": "Rust · ★ 2,171 · +774 today"
+        },
+        {
+          "title": "dotnet/aspnetcore",
+          "url": "https://github.com/dotnet/aspnetcore",
+          "summary": "ASP.NET Core is a cross-platform .NET framework that allows developing modern cloud-based web applications on Windows, macOS and Linux. Written in C#, this structure provides the necessary tools to create scalable and high-performance web solutions.",
+          "meta": "C# · ★ 38,325 · +4 today"
+        },
+        {
+          "title": "prisma/prisma",
+          "url": "https://github.com/prisma/prisma",
+          "summary": "Prisma is an object relational mapper (ORM) tool that facilitates database interaction for Node.js and TypeScript projects. It works with multiple database systems by providing developers with type-safe queries and automatic schema management.",
+          "meta": "TypeScript · ★ 47,293 · +37 today"
+        },
+        {
+          "title": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "summary": "Claude cookbooks shared by Anthropics provide practical code examples and implementation guides for using Claude models. These resources, offered through Jupyter notebooks, make it easier for developers to integrate artificial intelligence models into their own projects.",
+          "meta": "Jupyter Notebook · ★ 48,031 · +219 today"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers offers an agentic skills framework and software development methodology for artificial intelligence agents. This tool creates a structure to standardize agent-based workflows and integrate them into software processes.",
+          "meta": "Shell · ★ 252,593 · +740 today"
+        },
+        {
+          "title": "nasa/fprime",
+          "url": "https://github.com/nasa/fprime",
+          "summary": "Developed by NASA, F´ is an open source framework designed for flight software and embedded systems. Written in C++, this structure provides a modular development environment for spacecraft and complex systems.",
+          "meta": "C++ · ★ 11,523 · +22 today"
+        },
+        {
+          "title": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "summary": "Ansible is an information technologies automation platform that automates application deployment and system management processes. It provides configuration management in a simple language over the SSH protocol, without installing any software agents on remote systems.",
+          "meta": "Python · ★ 69,619 · +24 today"
+        },
+        {
+          "title": "nuxt/nuxt",
+          "url": "https://github.com/nuxt/nuxt",
+          "summary": "Nuxt is a full-stack framework used to develop Vue-based applications. Offered with TypeScript support, this tool optimizes server-side rendering and static site creation processes.",
+          "meta": "TypeScript · ★ 60,747 · +16 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Prefer strict tables in SQLite",
+          "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+          "summary": "The use of strict tables in SQLite prevents unexpected data entries by enforcing data type restrictions. This structure reduces errors by increasing type safety in the database schema.",
+          "meta": "254 points · 127 comments"
+        },
+        {
+          "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+          "url": "https://antjs.org",
+          "summary": "Ant offers a runtime and comprehensive ecosystem based on its own JavaScript engine. It provides an end-to-end development environment with its package manager, application registry, hosting platform and tools that enable developing native desktop applications.",
+          "meta": "231 points · 101 comments"
+        },
+        {
+          "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "summary": "Grok Build command line interface (CLI), developed by xAI, analyzes files in local directories and sends them to the server. In this process, the content of the code base is processed remotely to create the context window of the model.",
+          "meta": "226 points · 111 comments"
+        },
+        {
+          "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+          "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+          "summary": "Financial relationships between cloud computing providers such as Nvidia, CoreWeave, and Nebius create a cyclical flow of capital that supports growth in the graphics processing unit (GPU) market. This structure creates an ecosystem model in which technology companies invest in their customers to finance their own hardware sales.",
+          "meta": "219 points · 71 comments"
+        },
+        {
+          "title": "We scaled PgBouncer to 4x throughput",
+          "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+          "summary": "ClickHouse engineers developed optimizations that quadrupled the throughput of PgBouncer, a database connection pooler. The improvements aim to overcome performance bottlenecks in high-traffic PostgreSQL environments.",
+          "meta": "197 points · 39 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Hy3, published by Tencent, is a language model focused on text-generation. With its open source structure, it is designed to be used in different natural language processing tasks.",
+          "meta": "♥ 702 · 8,210 downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B is a multimodal artificial intelligence model that produces text output by processing visual and text data. The model offers the ability to analyze complex visual inputs with wide context window support.",
+          "meta": "♥ 2,023 · 1,944,961 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, developed by Zai-org, is a language model optimized for text generation tasks. This model, which receives high interaction on the HuggingFace platform, offers the capacity to create text in natural language processing processes.",
+          "meta": "♥ 3,837 · 421,270 downloads"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, developed by InternScience, is an artificial intelligence model focused on text-generation. This model is specially trained for autonomous agents that can perform complex tasks.",
+          "meta": "♥ 497 · 28,141 downloads"
+        },
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "summary": "ThinkingCap-Qwen3.6-27B, developed by Bottlecapai, is a multimodal artificial intelligence model that produces text-based outputs by processing visual and text data. This model, based on the Qwen architecture, is used in the processes of analyzing and interpreting complex visual content.",
+          "meta": "♥ 240 · 4,128 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "unit testing",
+      "explanation": "Automated tests that check whether the smallest parts of a software are working correctly."
+    },
+    {
+      "term": "TDD",
+      "explanation": "The method of first writing the test of the code to be written and then developing enough code to pass this test."
+    },
+    {
+      "term": "BDD",
+      "explanation": "The development process of defining how software should behave in simple sentences that everyone can understand."
+    },
+    {
+      "term": "common libraries",
+      "explanation": "Pre-prepared code packages so that software developers can easily perform frequently used operations."
+    },
+    {
+      "term": "claude-code-templates",
+      "explanation": "Ready-made drafts that AI-powered coding tools provide to quickly launch certain projects."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Text-based interface that allows you to manage programs by entering written commands rather than using the mouse."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "A bridge that allows AI models to connect to different data sources and tools in a standard way."
+    },
+    {
+      "term": "skill",
+      "explanation": "The specific ability an AI assistant has to perform a specific task."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Autonomous artificial intelligence that can write code, debug and manage software projects on its own."
+    },
+    {
+      "term": "infrastructure as code",
+      "explanation": "A method of automating system installations such as server and network by writing code files instead of doing them manually."
+    },
+    {
+      "term": "mesh",
+      "explanation": "Multiple interconnected devices or services exchange data without the need for a central point."
+    },
+    {
+      "term": "rendering",
+      "explanation": "The process of a computer processing raw data and turning it into a visual or graphic that we see on the screen."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Small plug-ins that are installed later to add additional functionality to a software's existing features."
+    },
+    {
+      "term": "extensibility",
+      "explanation": "The suitability of a system to be developed by adding new features without disrupting its basic structure."
+    },
+    {
+      "term": "terminal",
+      "explanation": "Black screen interface where you interact with the operating system by sending commands directly to the computer."
+    },
+    {
+      "term": "I/O",
+      "explanation": "The process by which a computer system receives data from and sends data to the outside world."
+    }
+  ]
+}
