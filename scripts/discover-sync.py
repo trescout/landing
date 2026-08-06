@@ -344,7 +344,8 @@ def build_page(e, rich=None):
     if rel:
         chips="".join(f'<a href="/dictionary/{r}/">{esc(EN_MAP.get(r,r))}</a>' for r in rel if r in EN_MAP)
         if chips: relsec=f'<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related">{chips}</div></section>'
-    mom=f'<span class="disc-momentum">🚀 {esc(momentum)}</span>' if momentum else ''
+    # ↑ · marka kuralı 🚀'yi yasaklıyor (hype). Aynı bilgiyi tipografik işaretle veriyoruz.
+    mom=f'<span class="disc-momentum">↑ {esc(momentum)}</span>' if momentum else ''
     rich_html=rich_sections(rich, e.get("cmds")) if rich else ''
     notu=(e.get("trescout_notu") or "").strip()   # elle yazılan editöryel yargı · README özetinden farkımız
     not_html=f'<aside class="disc-note"><p><strong>TreScout notu:</strong> {esc(notu)}</p></aside>\n      ' if notu else ''

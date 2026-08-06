@@ -6,6 +6,7 @@ name: CSP Inline Guard
 # 3) Footer tutarlılığı: footer-grid'li tüm sayfalarda aynı "Ürün" linkleri (footer üreticiden üreticiye kaymasın).
 # 4) Logo geometrisi: marka işaretinin şekli (3 yay + T) her yerde aynı (boyut/aria/çerçeve bağlama göre serbest).
 # 5) Başlık tutarlılığı: keşif detay sayfasının H1'i katalogdaki headline ile aynı (alan bazlı taşımada sayfa geride kalmasın).
+# 6) Marka tipografisi: 🚀 ve em dash (—) yayına giden sayfalarda geçmesin (kod blokları hariç).
 
 on:
   pull_request:
@@ -33,3 +34,5 @@ jobs:
         run: python3 scripts/check-logo-consistency.py
       - name: Başlık tutarlılık kontrolü (katalog ↔ sayfa H1)
         run: python3 scripts/check-headline-consistency.py
+      - name: Marka tipografi kontrolü (🚀 · em dash)
+        run: python3 scripts/check-brand-typography.py
