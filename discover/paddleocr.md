@@ -38,7 +38,7 @@ Elimdeki PDF ve görsel belgeleri, yapay zekâ modellerinin işleyebileceği yap
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Optical Character Recognition Markdown PDF Artificial Intelligence
+Optical Character Recognition Markdown Large Language Models PDF Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/paddleocr/

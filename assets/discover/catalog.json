@@ -2577,7 +2577,7 @@
     "slug": "llama-cpp",
     "title": "Llama.cpp",
     "tagline": "Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını…",
-    "meta": "★ 122.866 · C++",
+    "meta": "★ 122.872 · C++",
     "image": "/assets/discover/og/llama-cpp.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -2585,7 +2585,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 122866,
+    "stars": 122872,
     "lite": false,
     "headline": "yapay zekâ modellerini bilgisayarınızda çalıştırın",
     "last_review": "2026-08-06",
@@ -2637,6 +2637,13 @@
         "yildiz": 122866,
         "onceki_yildiz": 122857,
         "surum": "b10291",
+        "surum_tarihi": "2026-08-06"
+      },
+      {
+        "tarih": "2026-08-06",
+        "yildiz": 122872,
+        "onceki_yildiz": 122866,
+        "surum": "b10293",
         "surum_tarihi": "2026-08-06"
       }
     ],
@@ -10891,7 +10898,7 @@
     "slug": "openwork",
     "title": "Openwork",
     "tagline": "Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir…",
-    "meta": "★ 21.152 · TypeScript",
+    "meta": "★ 21.196 · TypeScript",
     "image": "/assets/discover/og/openwork.webp",
     "source": "GitHub",
     "date": "2026-07-30",
@@ -10899,7 +10906,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 21152,
+    "stars": 21196,
     "lite": false,
     "headline": "yapay zekâ iş akışlarını paylaşın",
     "last_review": "2026-08-06",
@@ -10924,6 +10931,13 @@
         "onceki_yildiz": 20740,
         "surum": "v0.18.16",
         "surum_tarihi": "2026-08-05"
+      },
+      {
+        "tarih": "2026-08-06",
+        "yildiz": 21196,
+        "onceki_yildiz": 21152,
+        "surum": "v0.18.17",
+        "surum_tarihi": "2026-08-06"
       }
     ],
     "tagline_en": "Openwork is a platform developed as an open source alternative to the Claude Cowork platform and uses the opencode infrastructure."

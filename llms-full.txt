@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-06 · 397 araç · 480 terim
+Son güncelleme: 2026-08-06 · 397 araç · 481 terim
 
 ---
 
@@ -9974,6 +9974,51 @@ Sistem yeni verileri işleyemez hale gelebilir veya eski bilgileri unutmaya baş
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/kv-cache/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Large Language Models nedir?
+
+> Large Language Models
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-06
+
+Çok büyük miktarda veriyle eğitilmiş, insan dilini anlayan ve metin üretebilen gelişmiş yapay zekâ modelleridir.
+
+## Tanım
+Bu modeller, internetteki kitaplar, makaleler ve kodlar gibi devasa veri yığınlarını okuyarak dilin yapısını öğrenirler. Bir sonraki kelimeyi tahmin etme yetenekleri sayesinde karmaşık cümleler kurabilir, soruları yanıtlayabilir ve metinler yazabilirler. Yapay zekâ dünyasının temel yapı taşlarından biri olarak kabul edilirler.
+
+## Bir benzetmeyle
+Bu modelleri, dünyanın tüm kütüphanelerini okumuş ve her türlü konuda sohbet edebilecek kadar bilgili bir kütüphaneci gibi düşünebilirsiniz.
+
+## Nasıl çalışır?
+Önce çok büyük bir veri kümesi üzerinde eğitilirler, ardından insan geri bildirimleriyle daha güvenli ve yararlı hale getirilirler. Siz bir soru sorduğunuzda, öğrendikleri dil kalıplarını kullanarak en mantıklı cevabı oluştururlar.
+
+## Nerede kullanılır?
+Sohbet robotlarında, metin özetleme araçlarında, kod yazma yardımcılarında ve çeviri uygulamalarında kullanılırlar.
+
+## Sık karıştırılanlar
+LLM terimi ile aynı kavramdır, ancak bu terim kısaltılmamış halidir.
+
+## Sıkça sorulanlar
+
+**Her büyük model bir yapay zekâ mıdır?**  
+Evet, ancak her yapay zekâ bir büyük dil modeli değildir; yapay zekâ çok daha geniş bir alanı kapsar.
+
+**Bu modeller nasıl öğrenir?**  
+Milyarlarca cümle arasındaki istatistiksel ilişkileri analiz ederek kelimelerin birbirini takip etme olasılıklarını öğrenirler.
+
+## İlgili terimler
+- [LLM](/dictionary/llm/)
+- [Foundation Model](/dictionary/foundation-model/)
+- [Generative AI](/dictionary/generative-ai/)
+- [Transformer](/dictionary/transformer/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/large-language-models/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -21072,15 +21117,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını sağlayan C ve C++ tabanlı bir çıkarım (inference) kütüphanesidir. Yazılım, düşük bellek kullanımı ve yüksek performans odaklı yapısıyla yerel cihazlarda yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.
 
-- ★ 122.857
+- ★ 122.866
 - C++
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 122.857 → 122.866, son sürüm b10291 (6 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 122.639 → 122.857, son sürüm b10290 (6 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 122.629 → 122.639, son sürüm b10256 (4 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 122.512 → 122.629, son sürüm b10255 (4 Ağustos 2026).
-- 3 Ağustos 2026: Yıldız 122.500 → 122.512, son sürüm b10237 (3 Ağustos 2026).
 
 ## Ne kazandırır?
 - Büyük dil modellerini standart donanımlarda verimli çalıştırır.
@@ -21114,7 +21159,7 @@ Bilgisayarımda yerel olarak büyük dil modellerini çalıştırmak istiyorum. 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Inference Artificial Intelligence
+Inference Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/llama-cpp/
@@ -22503,7 +22548,7 @@ Elimdeki PDF ve görsel belgeleri, yapay zekâ modellerinin işleyebileceği yap
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Optical Character Recognition Markdown PDF Artificial Intelligence
+Optical Character Recognition Markdown Large Language Models PDF Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/paddleocr/
@@ -23051,7 +23096,7 @@ Elimdeki karmaşık PDF ve Office belgelerini yapay zekâ ajanımın anlayabilec
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic Workflows Workflows Agentic Markdown PDF Artificial Intelligence
+Agentic Workflows Workflows Agentic Markdown Large Language Models PDF
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mineru/
@@ -24203,7 +24248,7 @@ Sen profesyonel bir finansal analiz asistanısın. Paylaştığım borsa veriler
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/daily-stock-analysis/
@@ -24371,7 +24416,7 @@ MemPalace aracını kullanarak yerel yapay zekâ bellek sistemimi kurmak istiyor
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Memory System Memory Artificial Intelligence
+Memory System Memory Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mempalace/
@@ -25545,7 +25590,7 @@ Projenin resmî GitHub sayfasını ziyaret ederek '教程目录' başlığı alt
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Jupyter Notebook Jupyter Notebooks Artificial Intelligence
+Jupyter Notebook Jupyter Notebooks Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/dive-into-llms/
@@ -26345,7 +26390,7 @@ AstrBot kullanarak mesajlaşma platformlarımda özelleştirilebilir bir yapay z
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Development Framework Framework Artificial Intelligence
+Development Framework Large Language Models Framework Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/astrbot/
@@ -28106,7 +28151,7 @@ Claude Code içerisinde Codex eklentisini kullanarak mevcut kodum üzerinde bir 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Plugin Artificial Intelligence
+Plugin Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/codex-plugin-cc/
@@ -28549,7 +28594,7 @@ AirLLM kütüphanesini kullanarak 70B parametreli bir modeli düşük VRAM kapas
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-VRAM Jupyter Notebook Jupyter Notebooks Artificial Intelligence
+VRAM Jupyter Notebook Jupyter Notebooks Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/airllm/
@@ -30563,7 +30608,7 @@ Kendi sunucumu kurmak istiyorum. Self-Hosting-Guide rehberindeki bilgiler ışı
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Self-hosting Artificial Intelligence
+Self-hosting Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/self-hosting-guide/
@@ -31170,7 +31215,7 @@ Elimdeki PDF belgelerini yapay zekâ modellerinin kolayca okuyabileceği temiz b
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Markdown GPU PDF Artificial Intelligence
+Markdown GPU Large Language Models PDF Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/olmocr/
@@ -31381,7 +31426,7 @@ Ktransformers kullanarak büyük dil modellerini CPU ve GPU üzerinde heterojen 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Fine-tuning CPU GPU Artificial Intelligence
+Fine-tuning CPU GPU Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ktransformers/
@@ -33390,7 +33435,7 @@ Unity projenizi açın ve Package Manager penceresine gidin. 'Add package from g
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol MCP Artificial Intelligence
+Model Context Protocol Model Context Protocol Large Language Models MCP Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/unity-mcp/
@@ -33446,7 +33491,7 @@ Sen, Open-LLM-VTuber üzerinde çalışan, görsel algılama yeteneğine sahip v
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Live2D Artificial Intelligence
+Live2D Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-llm-vtuber/
@@ -34504,7 +34549,7 @@ LMCache kütüphanesini kullanarak büyük dil modelleri için KV önbelleği y�
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-KV Cache Token LLM Artificial Intelligence
+KV Cache Token Large Language Models LLM Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/lmcache/
@@ -35136,7 +35181,7 @@ G0DM0D3 arayüzünü kullanarak, belirlediğim model sağlayıcıları (OpenRout
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/g0dm0d3/
@@ -37138,7 +37183,7 @@ Whichllm aracını kullanarak donanım özelliklerime en uygun yerel büyük dil
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Benchmarks Benchmark CPU GPU Artificial Intelligence
+Benchmarks Benchmark CPU GPU Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/whichllm/
@@ -38252,7 +38297,7 @@ Sen bir yapay zekâ danışma kurulunun parçasısın. Karar vermem gereken konu
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-30 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Shell Artificial Intelligence
+Shell Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/council-of-high-intelligence/

@@ -44,7 +44,7 @@ Elimdeki karmaşık PDF ve Office belgelerini yapay zekâ ajanımın anlayabilec
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic Workflows Workflows Agentic Markdown PDF Artificial Intelligence
+Agentic Workflows Workflows Agentic Markdown Large Language Models PDF
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mineru/

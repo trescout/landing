@@ -3838,5 +3838,12 @@
     "cat": "dev",
     "kisa": "Bir kurumun veya yönetim kurulunun başında bulunan, stratejik denetimden sorumlu kişidir.",
     "kisa_en": "He is the person who heads an institution or the board of directors and is responsible for strategic control."
+  },
+  {
+    "slug": "large-language-models",
+    "en": "Large Language Models",
+    "full": "Large Language Models",
+    "cat": "ai",
+    "kisa": "Çok büyük miktarda veriyle eğitilmiş, insan dilini anlayan ve metin üretebilen gelişmiş yapay zekâ modelleridir."
   }
 ]

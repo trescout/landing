@@ -45,7 +45,7 @@ AstrBot kullanarak mesajlaşma platformlarımda özelleştirilebilir bir yapay z
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Development Framework Framework Artificial Intelligence
+Development Framework Large Language Models Framework Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/astrbot/

@@ -29,7 +29,7 @@ Unity projenizi açın ve Package Manager penceresine gidin. 'Add package from g
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol MCP Artificial Intelligence
+Model Context Protocol Model Context Protocol Large Language Models MCP Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/unity-mcp/

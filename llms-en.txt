@@ -2,7 +2,7 @@
 
 > TreScout scans GitHub, Hacker News, and HuggingFace daily, filters the noise using multi-agent AI, and delivers structured tech digests.
 
-Last updated: 2026-08-06 · 397 tools · 480 terms
+Last updated: 2026-08-06 · 397 tools · 481 terms
 
 ## Tech Dictionary
 
@@ -252,6 +252,7 @@ Plain-language definitions of AI and software terms. Append `.md` to any URL for
 - [What is Knowledge Graph?](https://trescout.com/en/dictionary/knowledge-graph/) (raw: https://trescout.com/en/dictionary/knowledge-graph.md): Veriler ve kavramlar arasındaki ilişkileri birbirine bağlayan yapılandırılmış bir bilgi a…
 - [What is Knowledge Graph Engine?](https://trescout.com/en/dictionary/knowledge-graph-engine/) (raw: https://trescout.com/en/dictionary/knowledge-graph-engine.md): Bilgiler arasındaki karmaşık bağları kuran ve sorgulanmasını sağlayan yazılım altyapısı.
 - [What is KV Cache?](https://trescout.com/en/dictionary/kv-cache/) (raw: https://trescout.com/en/dictionary/kv-cache.md): Yapay zekanın daha önce işlediği kelimeleri belleğinde tutarak aynı işlemleri tekrar yapm…
+- [What is Large Language Models?](https://trescout.com/en/dictionary/large-language-models/) (raw: https://trescout.com/en/dictionary/large-language-models.md): Çok büyük miktarda veriyle eğitilmiş, insan dilini anlayan ve metin üretebilen gelişmiş y…
 - [What is Lifelong Learning?](https://trescout.com/en/dictionary/lifelong-learning/) (raw: https://trescout.com/en/dictionary/lifelong-learning.md): Yapay zekanın eski bilgilerini kaybetmeden yeni verilerle sürekli öğrenme yeteneği.
 - [What is Lightweight Virtual Machines?](https://trescout.com/en/dictionary/lightweight-virtual-machines/) (raw: https://trescout.com/en/dictionary/lightweight-virtual-machines.md): Sadece gerekli kaynakları kullanarak hızlıca çalışan, çok az yer kaplayan küçük sanal bil…
 - [What is Linear Scalability?](https://trescout.com/en/dictionary/linear-scalability/) (raw: https://trescout.com/en/dictionary/linear-scalability.md): Sisteme eklenen kaynak miktarı arttıkça, performansın da aynı oranda düzenli bir şekilde…

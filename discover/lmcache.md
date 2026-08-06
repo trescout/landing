@@ -36,7 +36,7 @@ LMCache kütüphanesini kullanarak büyük dil modelleri için KV önbelleği y�
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-KV Cache Token LLM Artificial Intelligence
+KV Cache Token Large Language Models LLM Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/lmcache/
