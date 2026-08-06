@@ -97,7 +97,7 @@ dirs.sort().reverse().forEach(dateStr => {
   // Add historical translated archive badge for dates <= 2026-08-05
   const isHistoricalArchive = dateStr <= '2026-08-05';
   const badgeTag = isHistoricalArchive ? 
-    `<span class="chip" style="background: rgba(95, 168, 211, .15); border-color: rgba(95, 168, 211, .3); color: var(--accent);">Translated Archive</span>` : '';
+    `<span class="chip chip-en">Translated Archive</span>` : '';
 
   const enEditorial = editorialMatch ? 
     `Daily AI Tech Radar compilation for ${enDateFormatted}. Top developer tools, open-source repositories, and AI research papers captured from GitHub Trending, Hacker News, HuggingFace, and Lobsters.` :
@@ -204,11 +204,11 @@ const enReportsIndexHtml = `<!DOCTYPE html>
       <div class="arch-tabs"><a class="btn btn-primary" href="/en/reports/" aria-current="page">All Reports</a></div>
       <p class="arch-intro">Daily AI-curated summaries of GitHub Trending, Hacker News, and HuggingFace. Read online in English or download English PDF reports.</p>
 
-      <div style="margin: 24px 0 32px; padding: 18px 20px; background: rgba(95, 168, 211, .08); border: 1px dashed rgba(95, 168, 211, .3); border-radius: 14px;">
-        <div style="display: flex; align-items: center; gap: 8px; font-weight: 700; color: var(--accent); font-size: 15px;">
+      <div class="arch-banner">
+        <div class="arch-banner-title">
           <span>🌐</span> <span>Historical Translated Archive Notice</span>
         </div>
-        <p style="margin: 6px 0 0; font-size: 14px; color: var(--ink-muted); line-height: 1.55;">
+        <p class="arch-banner-text">
           The 71 daily reports from <strong>August 5, 2026 and earlier</strong> were retroactively translated and rendered from the original daily Turkish intelligence archives. Reports published from <strong>August 6, 2026 onwards</strong> are generated natively in real-time in both English and Turkish.
         </p>
       </div>

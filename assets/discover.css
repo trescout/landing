@@ -344,3 +344,5 @@
 .comp-bento-card h3 { font-size: 19px; color: #fff; font-weight: 700; margin-bottom: 10px; }
 .comp-bento-card p { font-size: 14.5px; color: var(--ink-muted); line-height: 1.6; margin: 0; }
 
+/* Karşılaştırma sayfalarında CTA üst boşluğu · inline stil yerine (CSP) */
+.disc-cta-spaced { margin-top: 44px; }

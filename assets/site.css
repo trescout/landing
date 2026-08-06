@@ -278,3 +278,6 @@ footer {
   .footer-brand-block { grid-column: 1 / -1; max-width: 100%; }
   .footer-bottom { flex-direction: column; align-items: flex-start; gap: 6px; }
 }
+
+/* Bölüm dolgusu · dizin sayfalarında inline stil yerine (CSP) */
+.container-pad { padding: 44px 24px 64px; }

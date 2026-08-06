@@ -9,7 +9,14 @@ Kullanım: python3 scripts/check-nav-consistency.py
 """
 import os, re, glob, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-EXPECTED = ('Keşif', 'Sözlük', 'Raporlar', 'Erken erişim')
+# İki dil, iki kanonik set · /en/ altındaki sayfalar İngilizce nav taşır.
+# Bir dilin seti değişince BURASI da güncellenmeli, yoksa guard %100 hata verir
+# ve gerçek sapmayı gizler (2026-08-05'te tam bunu yaşadık).
+EXPECTED_TR = ('Keşif', 'Sözlük', 'Raporlar', 'Karşılaştır', 'EN')
+EXPECTED_EN = ('Discover', 'Dictionary', 'Reports Archive', 'Compare', 'TR')
+
+def beklenen(rel_path):
+    return EXPECTED_EN if rel_path.startswith('en/') else EXPECTED_TR
 
 def nav_links(p):
     t = open(p, encoding='utf-8').read()
@@ -26,12 +33,13 @@ for p in sorted(glob.glob(os.path.join(ROOT, '**', '*.html'), recursive=True)):
     if links is None:
         continue
     n += 1
-    if links != EXPECTED:
-        bad.append((os.path.relpath(p, ROOT), links))
+    rel = os.path.relpath(p, ROOT)
+    if links != beklenen(rel):
+        bad.append((rel, links))
 
 if bad:
-    print(f"❌ Nav tutarsız ({len(bad)}/{n} sayfa · beklenen: {' · '.join(EXPECTED)}):")
+    print(f"❌ Nav tutarsız ({len(bad)}/{n} sayfa · TR: {' · '.join(EXPECTED_TR)} | EN: {' · '.join(EXPECTED_EN)}):")
     for f, l in bad[:40]:
         print(f"   {f}: {l}")
     sys.exit(1)
-print(f"✅ Nav tutarlı: {n} sayfanın hepsinde {' · '.join(EXPECTED)}")
+print(f"✅ Nav tutarlı: {n} sayfa (TR + EN kanonik setlerine uygun)")
