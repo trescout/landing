@@ -10,17 +10,6 @@ Coding-interview-university offers a comprehensive study plan covering the basic
 - In-depth theoretical knowledge of data structures and algorithms
 - Comprehensive preparation for software engineering interview processes
 
-## Installation
-**Cloning the Repository**
-
-```
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/coding-interview-university.git
-    cd coding-interview-university
-    git remote add upstream https://github.com/jwasham/coding-interview-university.git
-    git remote set-url --push upstream DISABLE  # so that you don't push your personal progress back to the original repo
-```
-
-
 ## If you don't write code
 I'm preparing for a software engineering interview using the Coding Interview University curriculum. Create a daily study plan for me to learn the data structures, algorithms and computer science topics covered in this resource. Can you prepare a road map from beginner to advanced level that includes the basic subjects I need to learn, the order in which I should study them, and the resources I can practice with?
 

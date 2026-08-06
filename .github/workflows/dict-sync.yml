@@ -84,6 +84,12 @@ jobs:
       # sayfa bedava, yalnız yeni girdiler çeviri harcar. Bu adım olmadan
       # İngilizce taraf her gün biraz daha geride kalıyordu (2026-08-06: keşif
       # 100 kelime / Türkçesi 314, sözlükte 480 sayfa aynı sabit kalıptı).
+      # Katalogdaki elle yazılmış alanlar (cmds · trescout_notu · shot) sayfaya
+      # Gemini'siz basılır. Önceden tek yol --reprocess'ti (Gemini + anahtar) ·
+      # bu yüzden katkıcıların eklediği komutlar sayfaya hiç düşmüyordu.
+      - name: Katalog alanlarını sayfaya bas (komut · not · görsel)
+        run: python3 scripts/catalog-render.py
+
       - name: İngilizce sayfaları üret (keşif + sözlük)
         run: |
           python3 scripts/discover-en.py

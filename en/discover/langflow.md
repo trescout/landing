@@ -15,22 +15,6 @@ Langflow is a Python-based development platform that offers a visual interface f
 - Publishing workflows as API or MCP server
 - Integration with large language models and vector databases
 
-## Installation
-**Package installation**
-
-```
-uv pip install langflow -U
-```
-
-
-## Running it
-**Starting the app**
-
-```
-uv run langflow run
-```
-
-
 ## If you don't write code
 I want to create an artificial intelligence agent using Langflow. Guide me in designing a basic language model flow using the visual interface. Explain step by step which components I need to drag, how to connect these components together, and how I can export the flow I created as an API.
 

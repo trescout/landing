@@ -14,27 +14,6 @@ Firecrawl offers an interface (API) to crawl data from websites at scale, extrac
 - Collects data for artificial intelligence agents
 - Interacts with complex web pages
 
-## Installation
-**Agent installation**
-
-```
-npx -y firecrawl-cli@latest init --all --browser
-```
-
-
-## Running it
-**Browsing the website**
-
-```
-curl -X POST 'https://api.firecrawl.dev/v2/scrape' \
--H 'Authorization: Bearer fc-YOUR_API_KEY' \
--H 'Content-Type: application/json' \
--d '{
-  "url": "firecrawl.dev"
-}'
-```
-
-
 ## If you don't write code
 Using Firecrawl, scan the data on the website I specified and convert it into a clean Markdown format that artificial intelligence models can easily process. When capturing page content, clean up complex structures and extract only meaningful text, structured data, or essential visual information.
 
