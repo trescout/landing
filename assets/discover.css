@@ -340,7 +340,8 @@
   transform: translateY(-3px); border-color: var(--accent);
   box-shadow: 0 12px 30px rgba(95, 168, 211, .15);
 }
-.comp-bento-icon { font-size: 28px; margin-bottom: 12px; }
+.comp-bento-icon { font-size: 28px; margin-bottom: 12px; line-height: 0; }
+.comp-bento-icon .comp-glyph { display: block; }   /* emoji yerine marka işareti */
 .comp-bento-card h3 { font-size: 19px; color: #fff; font-weight: 700; margin-bottom: 10px; }
 .comp-bento-card p { font-size: 14.5px; color: var(--ink-muted); line-height: 1.6; margin: 0; }
 
