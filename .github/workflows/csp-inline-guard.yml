@@ -5,13 +5,14 @@ name: CSP Inline Guard
 # 2) Nav tutarlılığı: shared-component (nav) sayfa tipine göre kaymasın — 'link kayboluyor' bug'ı tekrarlamasın.
 # 3) Footer tutarlılığı: footer-grid'li tüm sayfalarda aynı "Ürün" linkleri (footer üreticiden üreticiye kaymasın).
 # 4) Logo geometrisi: marka işaretinin şekli (3 yay + T) her yerde aynı (boyut/aria/çerçeve bağlama göre serbest).
+# 5) Başlık tutarlılığı: keşif detay sayfasının H1'i katalogdaki headline ile aynı (alan bazlı taşımada sayfa geride kalmasın).
 
 on:
   pull_request:
-    paths: ['**.html']
+    paths: ['**.html', 'assets/discover/catalog.json']
   push:
     branches: [main]
-    paths: ['**.html']
+    paths: ['**.html', 'assets/discover/catalog.json']
   workflow_dispatch: {}
 
 permissions:
@@ -30,3 +31,5 @@ jobs:
         run: python3 scripts/check-footer-consistency.py
       - name: Logo geometri kontrolü
         run: python3 scripts/check-logo-consistency.py
+      - name: Başlık tutarlılık kontrolü (katalog ↔ sayfa H1)
+        run: python3 scripts/check-headline-consistency.py

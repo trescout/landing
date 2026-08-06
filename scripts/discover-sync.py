@@ -427,12 +427,25 @@ HEADLINE_SYS=("Sen TreScout için Türkçe içerik editörüsün. Verilen GitHub
   "araç yapay zekâ ile ilgili değilse başlıkta 'yapay zekâ' GEÇMESİN (web sunucusu, derleyici, kütüphane, "
   "veri deposu gibi araçlara yapay zekâ iddiası eklemek yanlış bilgidir). Yapay zekâdan söz edeceksen "
   "MUTLAKA 'yapay zekâ' (şapkalı â, küçük harf) yaz, 'AI/yapay zeka' yazma. "
+  "YAZIM: Cümle düzeni kullan · yalnız ilk harf ve özel adlar büyük ('Kubernetes dağıtımlarını "
+  "otomatize edin'), İngilizcedeki gibi Her Kelimeyi Büyük yazma. "
   "ÇIKTI yalnızca JSON: {\"baslik\":\"...\"}. Başka metin yok.")
+
+def _bas_harf_buyut(s):
+    """Cümle başı büyük · Türkçe 'i' → 'İ' (str.upper() 'I' verir, yanlış)."""
+    if not s or not s[0].isalpha() or s[0].isupper(): return s
+    return ('İ' if s[0]=='i' else s[0].upper())+s[1:]
+
 def normalize_headline(s):
-    """Marka düzeltmeleri · 'AI' → 'yapay zekâ'; 'Yapay Zeka/Zekayla' → 'yapay zekâ...' (şapkalı, küçük); em dash → ·"""
+    """Marka düzeltmeleri · 'AI' → 'yapay zekâ'; 'Yapay Zeka/Zekayla' → 'yapay zekâ...' (şapkalı, küçük); em dash → ·
+
+    'yapay zekâ' kuralı küçük harf dayattığı için cümle başındaki başlıklar da küçük
+    başlıyordu (2026-08-06: 397 başlığın 117'si · 99'u 'yapay zekâ' ile). H1 olarak
+    basıldıkları için son adımda ilk harf tekrar büyütülür.
+    """
     s=re.sub(r'\bAI\b','yapay zekâ',s)
     s=re.sub(r'(?i)yapay\s+zek[aâ](\w*)', lambda m: 'yapay zekâ'+m.group(1), s)
-    return s.replace('—','·').strip()
+    return _bas_harf_buyut(s.replace('—','·').strip())
 
 def gemini_headline(title,tagline,key,extra=""):
     """Mevcut girdiler için yalnız başlık üreten küçük çağrı (full enrich'i tekrar etmez)."""
