@@ -12,7 +12,7 @@
     "en": "Fine-tuning",
     "full": "",
     "cat": "ai",
-    "kisa": "Hazır bir yapay zeka modelini belirli bir görev veya uzmanlık alanı için özel olarak eğitme sürecidir.",
+    "kisa": "Hazır bir yapay zekâ modelini belirli bir görev veya uzmanlık alanı için özel olarak eğitme sürecidir.",
     "kisa_en": "It is the process of specifically training a ready-made artificial intelligence model for a specific task or area of ​​expertise."
   },
   {
@@ -20,7 +20,7 @@
     "en": "LLM",
     "full": "Large Language Model",
     "cat": "ai",
-    "kisa": "İnsan dilini anlayan, analiz eden ve metin üretebilen devasa yapay zeka modelleridir.",
+    "kisa": "İnsan dilini anlayan, analiz eden ve metin üretebilen devasa yapay zekâ modelleridir.",
     "kisa_en": "They are huge artificial intelligence models that understand human language, analyze it and produce text."
   },
   {
@@ -28,7 +28,7 @@
     "en": "SLM",
     "full": "Small Language Model",
     "cat": "ai",
-    "kisa": "Daha az veriyle eğitilmiş, hızlı çalışan ve düşük donanımlarda bile verimli sonuç veren küçük yapay zeka modelleridir.",
+    "kisa": "Daha az veriyle eğitilmiş, hızlı çalışan ve düşük donanımlarda bile verimli sonuç veren küçük yapay zekâ modelleridir.",
     "kisa_en": "They are small artificial intelligence models that are trained with less data, work fast and provide efficient results even on low hardware."
   },
   {
@@ -36,7 +36,7 @@
     "en": "Foundation Model",
     "full": "",
     "cat": "ai",
-    "kisa": "Birçok farklı uygulama için temel oluşturan, geniş kapsamlı eğitilmiş ana yapay zeka modelleridir.",
+    "kisa": "Birçok farklı uygulama için temel oluşturan, geniş kapsamlı eğitilmiş ana yapay zekâ modelleridir.",
     "kisa_en": "They are extensively trained mainstream AI models that form the basis for many different applications."
   },
   {
@@ -44,7 +44,7 @@
     "en": "Generative AI",
     "full": "",
     "cat": "ai",
-    "kisa": "Yeni içerik, metin, görsel veya ses üretebilen yapay zeka teknolojilerinin genel adıdır.",
+    "kisa": "Yeni içerik, metin, görsel veya ses üretebilen yapay zekâ teknolojilerinin genel adıdır.",
     "kisa_en": "It is the general name of artificial intelligence technologies that can produce new content, text, visuals or audio."
   },
   {
@@ -52,7 +52,7 @@
     "en": "Multimodal",
     "full": "",
     "cat": "ai",
-    "kisa": "Metin, ses, görsel ve video gibi farklı veri türlerini aynı anda işleyebilen yapay zeka yeteneğidir.",
+    "kisa": "Metin, ses, görsel ve video gibi farklı veri türlerini aynı anda işleyebilen yapay zekâ yeteneğidir.",
     "kisa_en": "It is an artificial intelligence ability that can simultaneously process different types of data such as text, audio, visual and video."
   },
   {
@@ -60,7 +60,7 @@
     "en": "Embedding",
     "full": "",
     "cat": "ai",
-    "kisa": "Kelime veya verilerin yapay zeka tarafından anlaşılabilmesi için sayısal dizilere dönüştürülmesidir.",
+    "kisa": "Kelime veya verilerin yapay zekâ tarafından anlaşılabilmesi için sayısal dizilere dönüştürülmesidir.",
     "kisa_en": "It is the conversion of words or data into numerical strings so that they can be understood by artificial intelligence."
   },
   {
@@ -76,7 +76,7 @@
     "en": "Transformer",
     "full": "",
     "cat": "ai",
-    "kisa": "Modern yapay zeka modellerinin temelini oluşturan güçlü bir mimari yapıdır.",
+    "kisa": "Modern yapay zekâ modellerinin temelini oluşturan güçlü bir mimari yapıdır.",
     "kisa_en": "It is a powerful architectural structure that forms the basis of modern artificial intelligence models."
   },
   {
@@ -84,7 +84,7 @@
     "en": "Diffusion Model",
     "full": "",
     "cat": "ai",
-    "kisa": "Gürültülü veriden temiz ve anlamlı görseller üreten bir yapay zeka yöntemidir.",
+    "kisa": "Gürültülü veriden temiz ve anlamlı görseller üreten bir yapay zekâ yöntemidir.",
     "kisa_en": "It is an artificial intelligence method that produces clean and meaningful images from noisy data."
   },
   {
@@ -100,7 +100,7 @@
     "en": "Quantization",
     "full": "",
     "cat": "ai",
-    "kisa": "Yapay zeka modellerini daha hafif ve hızlı hale getirmek için yapılan boyut küçültme işlemidir.",
+    "kisa": "Yapay zekâ modellerini daha hafif ve hızlı hale getirmek için yapılan boyut küçültme işlemidir.",
     "kisa_en": "It is a size reduction process to make artificial intelligence models lighter and faster."
   },
   {
@@ -132,7 +132,7 @@
     "en": "Inference",
     "full": "",
     "cat": "ai",
-    "kisa": "Eğitilmiş bir yapay zeka modelinin yeni veriler üzerinde tahmin yürütme sürecidir.",
+    "kisa": "Eğitilmiş bir yapay zekâ modelinin yeni veriler üzerinde tahmin yürütme sürecidir.",
     "kisa_en": "It is the process of a trained artificial intelligence model making predictions on new data."
   },
   {
@@ -148,7 +148,7 @@
     "en": "AI Agent",
     "full": "",
     "cat": "ai",
-    "kisa": "Kendi başına karar verip görevleri yerine getiren otonom yapay zeka sistemidir.",
+    "kisa": "Kendi başına karar verip görevleri yerine getiren otonom yapay zekâ sistemidir.",
     "kisa_en": "It is an autonomous artificial intelligence system that makes decisions and performs tasks on its own."
   },
   {
@@ -164,7 +164,7 @@
     "en": "MCP",
     "full": "Model Context Protocol",
     "cat": "ai",
-    "kisa": "Yapay zeka modellerinin dış dünyadaki verilerle güvenli şekilde konuşmasını sağlayan standarttır.",
+    "kisa": "Yapay zekâ modellerinin dış dünyadaki verilerle güvenli şekilde konuşmasını sağlayan standarttır.",
     "kisa_en": "It is the standard that enables artificial intelligence models to talk securely with data from the outside world."
   },
   {
@@ -180,7 +180,7 @@
     "en": "Open Weights",
     "full": "",
     "cat": "ai",
-    "kisa": "Yapay zeka modelinin eğitilmiş iç parametrelerinin herkesle paylaşılmasıdır.",
+    "kisa": "Yapay zekâ modelinin eğitilmiş iç parametrelerinin herkesle paylaşılmasıdır.",
     "kisa_en": "It is the sharing of the trained internal parameters of the artificial intelligence model with everyone."
   },
   {
@@ -188,7 +188,7 @@
     "en": "Distillation",
     "full": "",
     "cat": "ai",
-    "kisa": "Büyük ve karmaşık bir yapay zeka modelinin bilgisini daha küçük bir modele aktarma sürecidir.",
+    "kisa": "Büyük ve karmaşık bir yapay zekâ modelinin bilgisini daha küçük bir modele aktarma sürecidir.",
     "kisa_en": "It is the process of transferring the information of a large and complex artificial intelligence model to a smaller model."
   },
   {
@@ -204,7 +204,7 @@
     "en": "Text-to-Speech",
     "full": "TTS",
     "cat": "ai",
-    "kisa": "Yazılı metinlerin yapay zeka tarafından insan sesiyle seslendirilmesidir.",
+    "kisa": "Yazılı metinlerin yapay zekâ tarafından insan sesiyle seslendirilmesidir.",
     "kisa_en": "It is the vocalization of written texts with a human voice by artificial intelligence."
   },
   {
@@ -212,7 +212,7 @@
     "en": "Voice Cloning",
     "full": "",
     "cat": "ai",
-    "kisa": "Belirli bir kişinin sesini taklit ederek yeni cümleler kuran yapay zeka teknolojisidir.",
+    "kisa": "Belirli bir kişinin sesini taklit ederek yeni cümleler kuran yapay zekâ teknolojisidir.",
     "kisa_en": "It is an artificial intelligence technology that creates new sentences by imitating the voice of a specific person."
   },
   {
@@ -244,7 +244,7 @@
     "en": "AGI",
     "full": "Artificial General Intelligence",
     "cat": "ai",
-    "kisa": "İnsan seviyesinde veya üzerinde zeka sergileyen yapay zeka hedefidir.",
+    "kisa": "İnsan seviyesinde veya üzerinde zeka sergileyen yapay zekâ hedefidir.",
     "kisa_en": "It is the goal of AI that exhibits human-level or above intelligence."
   },
   {
@@ -452,7 +452,7 @@
     "en": "Agentic Coding Tool",
     "full": "",
     "cat": "dev",
-    "kisa": "Yazılım geliştirme süreçlerinde sadece kod yazmakla kalmayıp, hataları ayıklayan ve proje akışını yöneten otonom yapay zeka yardımcılarıdır.",
+    "kisa": "Yazılım geliştirme süreçlerinde sadece kod yazmakla kalmayıp, hataları ayıklayan ve proje akışını yöneten otonom yapay zekâ yardımcılarıdır.",
     "kisa_en": "They are autonomous artificial intelligence assistants that not only write code in software development processes, but also debug errors and manage the project flow."
   },
   {
@@ -564,7 +564,7 @@
     "en": "Hermes Agent",
     "full": "",
     "cat": "ai",
-    "kisa": "Kullanıcı adına otonom kararlar alabilen ve belirli görevleri uçtan uca tamamlayan özel bir yapay zeka birimidir.",
+    "kisa": "Kullanıcı adına otonom kararlar alabilen ve belirli görevleri uçtan uca tamamlayan özel bir yapay zekâ birimidir.",
     "kisa_en": "It is a special artificial intelligence unit that can make autonomous decisions on behalf of the user and complete certain tasks end-to-end."
   },
   {
@@ -572,7 +572,7 @@
     "en": "AI Coding Agent",
     "full": "",
     "cat": "dev",
-    "kisa": "Yazılım geliştirme sürecinde kod yazan, hata ayıklayan ve proje mimarisine katkıda bulunan yapay zeka tabanlı asistandır.",
+    "kisa": "Yazılım geliştirme sürecinde kod yazan, hata ayıklayan ve proje mimarisine katkıda bulunan yapay zekâ tabanlı asistandır.",
     "kisa_en": "It is an artificial intelligence-based assistant that writes code, debugs and contributes to the project architecture during the software development process."
   },
   {
@@ -604,7 +604,7 @@
     "en": "Continuous Learning",
     "full": "",
     "cat": "ai",
-    "kisa": "Bir yapay zeka sisteminin yeni verilerle karşılaştıkça bilgilerini unutmadan sürekli güncelleyerek gelişmesi sürecidir.",
+    "kisa": "Bir yapay zekâ sisteminin yeni verilerle karşılaştıkça bilgilerini unutmadan sürekli güncelleyerek gelişmesi sürecidir.",
     "kisa_en": "It is the process of development of an artificial intelligence system by constantly updating its information as it encounters new data, without forgetting it."
   },
   {
@@ -884,7 +884,7 @@
     "en": "Benchmarks",
     "full": "",
     "cat": "ai",
-    "kisa": "Yapay zeka modellerinin veya yazılımların performansını, hızını ve doğruluğunu ölçmek için kullanılan standart testlerdir.",
+    "kisa": "Yapay zekâ modellerinin veya yazılımların performansını, hızını ve doğruluğunu ölçmek için kullanılan standart testlerdir.",
     "kisa_en": "These are standard tests used to measure the performance, speed and accuracy of artificial intelligence models or software."
   },
   {
@@ -1028,7 +1028,7 @@
     "en": "Agents",
     "full": "",
     "cat": "ai",
-    "kisa": "Kullanıcıdan aldığı hedefler doğrultusunda kendi başına araçları kullanan ve kararlar veren otonom yapay zeka programlarıdır.",
+    "kisa": "Kullanıcıdan aldığı hedefler doğrultusunda kendi başına araçları kullanan ve kararlar veren otonom yapay zekâ programlarıdır.",
     "kisa_en": "They are autonomous artificial intelligence programs that use vehicles and make decisions on their own in line with the goals they receive from the user."
   },
   {
@@ -1124,7 +1124,7 @@
     "en": "Open Source AI",
     "full": "",
     "cat": "ai",
-    "kisa": "Kodları, model ağırlıkları ve çalışma mantığı herkesin incelemesine, değiştirmesine ve geliştirmesine açık olan yapay zeka modelleridir.",
+    "kisa": "Kodları, model ağırlıkları ve çalışma mantığı herkesin incelemesine, değiştirmesine ve geliştirmesine açık olan yapay zekâ modelleridir.",
     "kisa_en": "They are artificial intelligence models whose codes, model weights and working logic are open to anyone to examine, change and improve."
   },
   {
@@ -1388,7 +1388,7 @@
     "en": "AI Engineering",
     "full": "",
     "cat": "ai",
-    "kisa": "Yapay zeka modellerini tasarlayıp bunları gerçek dünyada çalışan sistemlere dönüştürme sürecidir.",
+    "kisa": "Yapay zekâ modellerini tasarlayıp bunları gerçek dünyada çalışan sistemlere dönüştürme sürecidir.",
     "kisa_en": "It is the process of designing artificial intelligence models and transforming them into systems that work in the real world."
   },
   {
@@ -1468,7 +1468,7 @@
     "en": "Time Series Foundation Model",
     "full": "",
     "cat": "ai",
-    "kisa": "Zamana bağlı verilerdeki değişimleri analiz edip gelecekteki durumları tahmin edebilen gelişmiş yapay zeka modelidir.",
+    "kisa": "Zamana bağlı verilerdeki değişimleri analiz edip gelecekteki durumları tahmin edebilen gelişmiş yapay zekâ modelidir.",
     "kisa_en": "It is an advanced artificial intelligence model that can analyze changes in time-dependent data and predict future situations."
   },
   {
@@ -1500,7 +1500,7 @@
     "en": "Coding Agent",
     "full": "",
     "cat": "ai",
-    "kisa": "Yazılım geliştirme süreçlerini otomatize eden ve bağımsız olarak kod yazabilen yapay zeka sistemidir.",
+    "kisa": "Yazılım geliştirme süreçlerini otomatize eden ve bağımsız olarak kod yazabilen yapay zekâ sistemidir.",
     "kisa_en": "It is an artificial intelligence system that automates software development processes and can write code independently."
   },
   {
@@ -1516,7 +1516,7 @@
     "en": "Vibe Coding",
     "full": "",
     "cat": "ai",
-    "kisa": "Teknik ayrıntılara girmeden, sadece ne istediğinizi tarif ederek yapay zeka ile kod yazma yaklaşımıdır.",
+    "kisa": "Teknik ayrıntılara girmeden, sadece ne istediğinizi tarif ederek yapay zekâ ile kod yazma yaklaşımıdır.",
     "kisa_en": "It is an approach to writing code with artificial intelligence by simply describing what you want, without going into technical details."
   },
   {
@@ -1540,7 +1540,7 @@
     "en": "Sandbox Agent Framework",
     "full": "",
     "cat": "ai",
-    "kisa": "Yapay zeka ajanlarının ana sisteme zarar vermeden güvenli bir alanda çalışmasını sağlayan altyapıdır.",
+    "kisa": "Yapay zekâ ajanlarının ana sisteme zarar vermeden güvenli bir alanda çalışmasını sağlayan altyapıdır.",
     "kisa_en": "It is the infrastructure that allows artificial intelligence agents to work in a safe area without damaging the main system."
   },
   {
@@ -1548,7 +1548,7 @@
     "en": "Agentic Engineering Platform",
     "full": "",
     "cat": "ai",
-    "kisa": "Otonom yapay zeka ajanları oluşturmak, yönetmek ve test etmek için kullanılan kapsamlı geliştirme ortamıdır.",
+    "kisa": "Otonom yapay zekâ ajanları oluşturmak, yönetmek ve test etmek için kullanılan kapsamlı geliştirme ortamıdır.",
     "kisa_en": "It is a comprehensive development environment used to create, manage and test autonomous artificial intelligence agents."
   },
   {
@@ -1588,7 +1588,7 @@
     "en": "Agent-native Applications",
     "full": "",
     "cat": "ai",
-    "kisa": "Yapay zeka ajanlarının karar alıp işlemleri yürütmesi için özel olarak tasarlanmış uygulamalardır.",
+    "kisa": "Yapay zekâ ajanlarının karar alıp işlemleri yürütmesi için özel olarak tasarlanmış uygulamalardır.",
     "kisa_en": "They are applications specifically designed for artificial intelligence agents to make decisions and carry out transactions."
   },
   {
@@ -1940,7 +1940,7 @@
     "en": "Agentic Workflows",
     "full": "",
     "cat": "ai",
-    "kisa": "Yapay zeka araçlarının insan müdahalesi olmadan kendi kararlarını verip bir işi uçtan uca tamamlamasıdır.",
+    "kisa": "Yapay zekâ araçlarının insan müdahalesi olmadan kendi kararlarını verip bir işi uçtan uca tamamlamasıdır.",
     "kisa_en": "Artificial intelligence tools make their own decisions and complete a job end-to-end without human intervention."
   },
   {
@@ -2220,7 +2220,7 @@
     "en": "AI Gateway",
     "full": "",
     "cat": "ai",
-    "kisa": "Yapay zeka modellerine giden trafiği yöneten ve denetleyen bir geçit yazılımıdır.",
+    "kisa": "Yapay zekâ modellerine giden trafiği yöneten ve denetleyen bir geçit yazılımıdır.",
     "kisa_en": "It is a gateway software that manages and controls traffic to artificial intelligence models."
   },
   {
@@ -2324,7 +2324,7 @@
     "en": "Page Agent",
     "full": "",
     "cat": "ai",
-    "kisa": "İnternet sayfalarını tarayıp kullanıcı adına tıklama veya veri girişi gibi işlemler yapan özel bir yapay zeka yardımcısıdır.",
+    "kisa": "İnternet sayfalarını tarayıp kullanıcı adına tıklama veya veri girişi gibi işlemler yapan özel bir yapay zekâ yardımcısıdır.",
     "kisa_en": "It is a special artificial intelligence assistant that scans web pages and performs actions such as clicking or entering data on behalf of the user."
   },
   {
@@ -2340,7 +2340,7 @@
     "en": "Transcription",
     "full": "",
     "cat": "ai",
-    "kisa": "Sesli konuşmaların veya kayıtların yapay zeka tarafından analiz edilerek yazılı metne dönüştürülmesi işlemidir.",
+    "kisa": "Sesli konuşmaların veya kayıtların yapay zekâ tarafından analiz edilerek yazılı metne dönüştürülmesi işlemidir.",
     "kisa_en": "It is the process of converting voice conversations or recordings into written text by analyzing them by artificial intelligence."
   },
   {
@@ -2364,7 +2364,7 @@
     "en": "Agent Multiplexer",
     "full": "",
     "cat": "ai",
-    "kisa": "Farklı uzmanlıklara sahip yapay zeka yardımcılarını tek bir merkezden yönetip, gelen görevleri en uygun asistana yönlendiren sistemdir.",
+    "kisa": "Farklı uzmanlıklara sahip yapay zekâ yardımcılarını tek bir merkezden yönetip, gelen görevleri en uygun asistana yönlendiren sistemdir.",
     "kisa_en": "It is a system that manages artificial intelligence assistants with different specializations from a single center and directs incoming tasks to the most suitable assistant."
   },
   {
@@ -2396,7 +2396,7 @@
     "en": "Task Delegation",
     "full": "",
     "cat": "ai",
-    "kisa": "Bir işin tamamlanması için sorumluluğun başka bir kişiye veya yapay zeka sistemine devredilmesidir.",
+    "kisa": "Bir işin tamamlanması için sorumluluğun başka bir kişiye veya yapay zekâ sistemine devredilmesidir.",
     "kisa_en": "It is the transfer of responsibility for the completion of a job to another person or artificial intelligence system."
   },
   {
@@ -2404,7 +2404,7 @@
     "en": "Output",
     "full": "",
     "cat": "dev",
-    "kisa": "Bir bilgisayar programının veya yapay zeka sisteminin işlem sonucunda ürettiği veridir.",
+    "kisa": "Bir bilgisayar programının veya yapay zekâ sisteminin işlem sonucunda ürettiği veridir.",
     "kisa_en": "It is the data produced by a computer program or artificial intelligence system as a result of the process."
   },
   {
@@ -2788,7 +2788,7 @@
     "en": "Home Automation",
     "full": "",
     "cat": "ai",
-    "kisa": "Evinizdeki cihazların yapay zeka veya internet üzerinden otomatik olarak kontrol edilmesidir.",
+    "kisa": "Evinizdeki cihazların yapay zekâ veya internet üzerinden otomatik olarak kontrol edilmesidir.",
     "kisa_en": "It is the automatic control of the devices in your home via artificial intelligence or the internet."
   },
   {
@@ -2812,7 +2812,7 @@
     "en": "AI Hedge Fund",
     "full": "",
     "cat": "data",
-    "kisa": "Yatırım kararlarını tamamen veya büyük oranda yapay zeka algoritmalarına bırakan bir yatırım fonudur.",
+    "kisa": "Yatırım kararlarını tamamen veya büyük oranda yapay zekâ algoritmalarına bırakan bir yatırım fonudur.",
     "kisa_en": "It is an investment fund that leaves its investment decisions entirely or largely to artificial intelligence algorithms."
   },
   {
@@ -2924,7 +2924,7 @@
     "en": "Personalized Tutoring",
     "full": "",
     "cat": "ai",
-    "kisa": "Öğrencinin anlama hızına ve eksiklerine göre uyarlanan yapay zeka destekli özel eğitim.",
+    "kisa": "Öğrencinin anlama hızına ve eksiklerine göre uyarlanan yapay zekâ destekli özel eğitim.",
     "kisa_en": "Artificial intelligence-supported special education adapted to the student's understanding speed and deficiencies."
   },
   {
@@ -3068,7 +3068,7 @@
     "en": "Tutoring Models",
     "full": "",
     "cat": "ai",
-    "kisa": "Öğrencilere konuları adım adım anlatan, soruları yanıtlayan ve kişiselleştirilmiş eğitim desteği sunan yapay zeka sistemleridir.",
+    "kisa": "Öğrencilere konuları adım adım anlatan, soruları yanıtlayan ve kişiselleştirilmiş eğitim desteği sunan yapay zekâ sistemleridir.",
     "kisa_en": "They are artificial intelligence systems that explain topics to students step by step, answer questions and provide personalized educational support."
   },
   {
@@ -3084,7 +3084,7 @@
     "en": "VRAM",
     "full": "Video Random Access Memory",
     "cat": "dev",
-    "kisa": "Ekran kartının üzerindeki, yoğun grafik ve yapay zeka işlemlerini hızlandıran özel bellek birimidir.",
+    "kisa": "Ekran kartının üzerindeki, yoğun grafik ve yapay zekâ işlemlerini hızlandıran özel bellek birimidir.",
     "kisa_en": "It is a special memory unit on the graphics card that accelerates intensive graphics and artificial intelligence operations."
   },
   {
@@ -3140,7 +3140,7 @@
     "en": "Model Context Protocol",
     "full": "MCP",
     "cat": "ai",
-    "kisa": "Yapay zeka sistemlerinin verilerle ve araçlarla güvenli bir şekilde konuşmasını sağlayan ortak bir dil.",
+    "kisa": "Yapay zekâ sistemlerinin verilerle ve araçlarla güvenli bir şekilde konuşmasını sağlayan ortak bir dil.",
     "kisa_en": "A common language that enables AI systems to talk to data and tools securely."
   },
   {
@@ -3636,7 +3636,7 @@
     "en": "Model Context Protocol",
     "full": "Model Context Protocol",
     "cat": "ai",
-    "kisa": "Yapay zeka modellerinin farklı veri kaynaklarıyla ve araçlarla güvenli bir şekilde konuşmasını sağlayan standart bir bağlantı dilidir.",
+    "kisa": "Yapay zekâ modellerinin farklı veri kaynaklarıyla ve araçlarla güvenli bir şekilde konuşmasını sağlayan standart bir bağlantı dilidir.",
     "kisa_en": "It is a standard connection language that allows AI models to talk securely with different data sources and tools."
   },
   {
