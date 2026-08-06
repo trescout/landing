@@ -30,8 +30,27 @@ L += ["", "## Keşif", "",
       f"- [Keşif dizini]({B}/discover/)"]
 for c in sorted(cat, key=lambda x: -(x.get("stars") or 0)):
     L.append(f"- [{c['title']}]({B}/discover/{c['slug']}/) (ham: {B}/discover/{c['slug']}.md): {clip(c.get('tagline', ''))}")
-L += ["", "## Raporlar", "", "Günlük teknoloji raporlarının arşivi (PDF).", "", f"- [Raporlar]({B}/reports/)", "",
-      "## İletişim", "", "hello@trescout.com", ""]
+L += ["", "## Raporlar", "", "Günlük teknoloji raporlarının arşivi (PDF).", "", f"- [Raporlar]({B}/reports/)", ""]
+
+# İngilizce taraf · 2026-08-07'ye kadar llms.txt yalnız Türkçe sayfaları listeliyordu,
+# yani 397 keşif + 481 sözlük + rapor arşivinin İngilizcesi yapay zekâ tarayıcılarına
+# görünmüyordu. İngilizce sayfalar Türkçesinden üretiliyor (discover-en.py /
+# dictionary-en.py) · aynı slug, /en/ önekiyle.
+import os as _os
+def _var(yol): return _os.path.isdir(_os.path.join(ROOT, yol))
+en_terim = [t for t in man if _var(f"en/dictionary/{t['slug']}")]
+en_arac  = [c for c in cat if _var(f"en/discover/{c['slug']}")]
+L += ["## English", "",
+      "The same catalogue in English, translated from the Turkish source. Raw Markdown for any page: append `.md` to the URL.", "",
+      f"- [English home]({B}/en/)",
+      f"- [Dictionary index]({B}/en/dictionary/)",
+      f"- [Discover index]({B}/en/discover/)",
+      f"- [Reports archive]({B}/en/reports/)", ""]
+for t in sorted(en_terim, key=lambda x: x["en"].lower()):
+    L.append(f"- [What is {t['en']}?]({B}/en/dictionary/{t['slug']}/) (raw: {B}/en/dictionary/{t['slug']}.md): {clip(t.get('kisa_en', ''))}")
+for c in sorted(en_arac, key=lambda x: -(x.get("stars") or 0)):
+    L.append(f"- [{c['title']}]({B}/en/discover/{c['slug']}/) (raw: {B}/en/discover/{c['slug']}.md): {clip(c.get('tagline_en', ''))}")
+L += ["", "## İletişim", "", "hello@trescout.com", ""]
 open(os.path.join(ROOT, "llms.txt"), "w", encoding="utf-8").write("\n".join(L))
 print(f"llms.txt güncellendi · {len(man)} terim + {len(cat)} araç indekslendi (.md linkleriyle)")
 
@@ -58,7 +77,7 @@ print(f"llms-full.txt güncellendi · {len(F)} satır tam içerik haritalandı."
 
 # llms-en.txt üreteci (İngilizce dinamik indeks)
 E = ["# TreScout (English Index)", "",
-     "> TreScout scans GitHub, Hacker News, and HuggingFace daily, filters the noise using multi-agent AI, and delivers structured tech digests.", "",
+     "> TreScout scans GitHub, Hacker News, HuggingFace and Lobsters every day, summarizes the highlights and collects them in one daily report (web + PDF, Turkish and English).", "",
      f"Last updated: {TODAY} · {len(cat)} tools · {len(man)} terms", "",
      "## Tech Dictionary", "",
      "Plain-language definitions of AI and software terms. Append `.md` to any URL for raw Markdown (e.g. " + B + "/en/dictionary/rag.md).", "",

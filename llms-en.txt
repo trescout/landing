@@ -1,8 +1,8 @@
 # TreScout (English Index)
 
-> TreScout scans GitHub, Hacker News, and HuggingFace daily, filters the noise using multi-agent AI, and delivers structured tech digests.
+> TreScout scans GitHub, Hacker News, HuggingFace and Lobsters every day, summarizes the highlights and collects them in one daily report (web + PDF, Turkish and English).
 
-Last updated: 2026-08-06 · 397 tools · 481 terms
+Last updated: 2026-08-07 · 397 tools · 481 terms
 
 ## Tech Dictionary
 
