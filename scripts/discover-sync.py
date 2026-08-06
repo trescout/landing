@@ -374,7 +374,7 @@ def build_page(e, rich=None):
       '</article>\n</main>\n'+FOOTER+'\n'+('<script src="/assets/discover.js" defer></script>\n' if rich else '')+'<script src="/assets/subscribe.js" defer></script>\n'+VERCEL+'</body>\n</html>\n')
     return head+body
 
-AI_IZI=re.compile(r'(yapay zek|makine öğren|derin öğren|sinir ağ|büyük dil model|\bai\b|\bllm\b|\bgpt\b|\bml\b|model|ajan|agent|chatbot|sohbet bot|üretken|çıkarım|inference|transformer|embedding|vektör|neural|prompt)',re.I)
+AI_IZI=re.compile(r'(yapay zek|makine öğren|derin öğren|sinir ağ|büyük dil model|\bai\b|\bllm\b|\bgpt\b|\bml\b|model|ajan|agent|chatbot|sohbet bot|üretken|çıkarım|inference|transformer|embedding|vektör|neural|prompt|claude|copilot|kopilot|gemini|\bmcp\b)',re.I)
 def _ai_iddiasi(s): return bool(re.search(r'yapay zek',s or '',re.I))
 def _kaynakta_ai(n):
     blob=" ".join(str(n.get(k) or "") for k in ("title","tagline","summary"))+" "+" ".join(n.get("tags") or [])
@@ -464,8 +464,36 @@ def _set_page_headline(c, headline):
         html=re.sub(r'(<span class="disc-eyebrow">Keşif · GitHub)(</span>)', rf'\1 · {esc(c["title"])}\2', html, count=1)
     open(p,"w",encoding="utf-8").write(html)
 
+def audit_headlines(cat, key, limit):
+    """Eski başlıkları da vet_headline ölçütünden geçir · karşılıksız yapay zekâ iddiasını temizler.
+
+    vet_headline yalnız üretim anında çalışıyordu · guard'dan önce yazılmış başlıklar
+    hiç denetlenmedi (2026-08-06 denetimi: 397 kayıtta 7 karşılıksız iddia · Argo CD,
+    Insomnia gibi yapay zekâyla ilgisi olmayan araçlar). Kilitli başlık insan
+    doğrulamasıdır · dokunulmaz. Döner: değişen kayıt sayısı.
+    """
+    supheli=[c for c in cat if c.get("headline") and not c.get("headline_locked")
+             and _ai_iddiasi(c["headline"]) and not _kaynakta_ai(c)][:limit]
+    if not supheli: print("  · başlık denetimi: karşılıksız yapay zekâ iddiası yok"); return 0
+    print(f"  · başlık denetimi: {len(supheli)} karşılıksız iddia")
+    if DRY:
+        for c in supheli: print(f"    ~ {c['slug']}: {c['headline']}")
+        return 0
+    n=0
+    for c in supheli:
+        yeni=gemini_headline(c["title"], c.get("tagline",""), key,
+                             extra="UYARI: Bu araç yapay zekâ ile ilgili DEĞİL. Başlıkta yapay zekâdan söz etme.")
+        yeni=normalize_headline(yeni) if yeni else None
+        if not yeni or _ai_iddiasi(yeni):
+            print(f"    ! {c['slug']}: temiz başlık üretilemedi · elle bakın"); continue
+        print(f"    ✓ {c['slug']}: {c['headline']} → {yeni}")
+        c["headline"]=yeni; _set_page_headline(c, yeni); n+=1
+        time.sleep(1)  # rate limit
+    return n
+
+
 def headline_backfill(cat, key, limit):
-    """1) Mevcut başlıkları normalize et (Gemini'siz · marka). 2) Başlığı olmayanlara üret (limit)."""
+    """1) Normalize et (Gemini'siz · marka). 2) Eski başlıkları denetle. 3) Başlığı olmayanlara üret."""
     # 1. Mevcut başlıkları normalize et (ör. 'Yapay Zeka' → 'yapay zekâ')
     fixed=0
     for c in cat:
@@ -475,7 +503,11 @@ def headline_backfill(cat, key, limit):
                 c["headline"]=nb; fixed+=1
                 if not DRY: _set_page_headline(c, nb)
     if fixed: print(f"  · {fixed} mevcut başlık normalize edildi (marka)")
-    # 2. Başlığı olmayanlara üret
+    # 2. Guard'dan önce yazılmış başlıkları denetle
+    denetlenen=audit_headlines(cat, key, limit)
+    if denetlenen and not DRY:
+        json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
+    # 3. Başlığı olmayanlara üret
     todo=[c for c in cat if not c.get("headline")][:limit]
     print(f"--headlines · {len(todo)} girdiye başlık üretilecek")
     if DRY:
@@ -489,7 +521,7 @@ def headline_backfill(cat, key, limit):
         n+=1; print(f"  ✓ {c['slug']}: {b}")
         time.sleep(1)  # rate limit
     json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
-    print(f"✅ {n} yeni başlık · {fixed} normalize · catalog güncellendi")
+    print(f"✅ {n} yeni başlık · {denetlenen} denetimden geçirildi · {fixed} normalize · catalog güncellendi")
 
 def process_one(n, key):
     """Entry'i zenginleştir + sayfa & kart yaz. Döner: (rich|None, reason|None)."""

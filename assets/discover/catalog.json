@@ -1860,7 +1860,8 @@
         "surum_tarihi": "2026-08-05"
       }
     ],
-    "tagline_en": "Published by GitHub, spec-kit is a tool required to start specification-driven development processes."
+    "tagline_en": "Published by GitHub, spec-kit is a tool required to start specification-driven development processes.",
+    "headline_locked": true
   },
   {
     "slug": "cosmos",
@@ -1983,7 +1984,8 @@
         "surum_tarihi": "2026-06-30"
       }
     ],
-    "tagline_en": "OpenClaw Windows node, system tray application, shared library and PowerToys command palette extension…"
+    "tagline_en": "OpenClaw Windows node, system tray application, shared library and PowerToys command palette extension…",
+    "headline_locked": true
   },
   {
     "slug": "last30days-skill",
@@ -4174,7 +4176,8 @@
         "surum_tarihi": "2026-07-08"
       }
     ],
-    "tagline_en": "Codebase-memory-mcp provides high-performance coding by transforming code bases into a persistent knowledge graph."
+    "tagline_en": "Codebase-memory-mcp provides high-performance coding by transforming code bases into a persistent knowledge graph.",
+    "headline_locked": true
   },
   {
     "slug": "timesfm",
@@ -5225,7 +5228,8 @@
         "onceki_yildiz": 113462
       }
     ],
-    "tagline_en": "Gstack is based on Garry Tan's Claude Code configuration and provides different roles such as CEO, designer, engineering manager."
+    "tagline_en": "Gstack is based on Garry Tan's Claude Code configuration and provides different roles such as CEO, designer, engineering manager.",
+    "headline_locked": true
   },
   {
     "slug": "hyperframes",
@@ -9984,7 +9988,8 @@
     "lite": false,
     "headline": "Otonom yapay zekâ ile derinlemesine araştırma",
     "last_review": "2026-08-06",
-    "tagline_en": "Developed by LangChain, open-deep-research is a multi-step search on the internet to answer complex questions."
+    "tagline_en": "Developed by LangChain, open-deep-research is a multi-step search on the internet to answer complex questions.",
+    "headline_locked": true
   },
   {
     "slug": "pi-web",
