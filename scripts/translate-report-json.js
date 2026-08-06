@@ -1,3 +1,14 @@
+/**
+ * ⚠️ KULLANIM DIŞI · yayın hattında ÇAĞRILMIYOR.
+ *
+ * Yayın hattı (app/scripts/publish-report.ts) yalnız build-en.js ve
+ * build-reports-en.js çalıştırıyor. Bu betik eski bir yoldan kalma.
+ *
+ * Elle çalıştırmayın: İçinde 11 inline style= var, CSP guard'ını düşürür ve
+ * canlıda stiller uygulanmaz (site başlığı style-src 'self'). Yeniden
+ * kullanılacaksa önce stilleri sınıfa taşıyın (bkz. landing#57).
+ */
+
 const fs = require('fs');
 const path = require('path');
 
