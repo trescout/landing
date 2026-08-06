@@ -711,14 +711,14 @@
     "slug": "compound-engineering-plugin",
     "title": "Compound Engineering",
     "tagline": "Her işin bir sonrakini kolaylaştırdığı, AI destekli mühendislik eklentisi (Claude Code/Codex/Cursor).",
-    "meta": "★ 24.041 · MIT",
+    "meta": "★ 24.046 · MIT",
     "source": "GitHub",
     "date": "2026-05-29",
     "tags": [
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 24041,
+    "stars": 24046,
     "image": "/assets/discover/og/compound-engineering-plugin.webp",
     "headline": "yapay zekâ Destekli Mühendislik Süreçleri",
     "last_review": "2026-08-06",
@@ -743,6 +743,13 @@
         "onceki_yildiz": 23748,
         "surum": "compound-engineering-v3.21.3",
         "surum_tarihi": "2026-08-05"
+      },
+      {
+        "tarih": "2026-08-06",
+        "yildiz": 24046,
+        "onceki_yildiz": 24041,
+        "surum": "compound-engineering-v3.21.4",
+        "surum_tarihi": "2026-08-06"
       }
     ],
     "tagline_en": "AI-powered engineering plugin (Claude Code/Codex/Cursor) where each job makes the next one easier."
@@ -5413,7 +5420,7 @@
     "slug": "orca",
     "title": "Orca",
     "tagline": "Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme…",
-    "meta": "★ 38.391 · TypeScript",
+    "meta": "★ 38.450 · TypeScript",
     "image": "/assets/discover/og/orca.webp",
     "source": "GitHub",
     "date": "2026-06-25",
@@ -5421,7 +5428,7 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 38391,
+    "stars": 38450,
     "lite": false,
     "headline": "Birden fazla yapay zekâ ajanı yönetin",
     "last_review": "2026-08-06",
@@ -5452,6 +5459,13 @@
         "yildiz": 38391,
         "onceki_yildiz": 36861,
         "surum": "v1.4.174",
+        "surum_tarihi": "2026-08-06"
+      },
+      {
+        "tarih": "2026-08-06",
+        "yildiz": 38450,
+        "onceki_yildiz": 38391,
+        "surum": "v1.4.175",
         "surum_tarihi": "2026-08-06"
       }
     ],
