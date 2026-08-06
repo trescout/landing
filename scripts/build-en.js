@@ -21,7 +21,7 @@ try {
 console.log(`Loaded ${dictionary.length} dictionary terms and ${catalog.length} discover items.`);
 
 const tagTranslationMap = {
-  'AI ajan araçları': 'AI Agent Tools',
+  'Yapay zekâ araçları': 'AI Tools',
   'Geliştirici aracı': 'Developer Tool',
   'Kod bilmeyenler için': 'No-Code',
   'Öğrenme': 'Learning',
