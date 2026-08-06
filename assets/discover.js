@@ -26,7 +26,7 @@
   var grid = document.getElementById('discover-grid');
   if (!grid) return;
 
-  var TAG_ORDER = ["AI ajan araçları", "Geliştirici aracı", "Üretkenlik", "Öğrenme", "Kod bilmeyenler için"];
+  var TAG_ORDER = ["Yapay zekâ araçları", "Geliştirici aracı", "Üretkenlik", "Öğrenme", "Kod bilmeyenler için"];
   var state = { q: "", tag: null, sort: "stars" };
   var items = [];
 

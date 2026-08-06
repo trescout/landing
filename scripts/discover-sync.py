@@ -78,7 +78,7 @@ def make_tagline(summary, fallback):
 def infer_tags(summary):
     s=(summary or '').lower()
     tags=[]
-    if any(k in s for k in ["yapay zek","model","ajan","llm","yapay zeka"," ai "]): tags.append("AI ajan araçları")
+    if any(k in s for k in ["yapay zek","model","ajan","llm","yapay zeka"," ai "]): tags.append("Yapay zekâ araçları")
     tags.append("Geliştirici aracı")
     return tags[:2] or ["Geliştirici aracı"]
 
