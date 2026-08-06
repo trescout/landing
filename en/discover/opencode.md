@@ -16,24 +16,6 @@ OpenCode is an open source coding agent designed to automate software developmen
 - Offers special modes for code review and planning
 - Provides global search capability for multi-step tasks
 
-## Installation
-**Desktop app installation**
-
-```
-# macOS (Homebrew)
-brew install --cask opencode-desktop
-# Windows (Scoop)
-scoop bucket add extras; scoop install extras/opencode-desktop
-```
-
-**Installation with custom directory**
-
-```
-OPENCODE_INSTALL_DIR=/usr/local/bin curl -fsSL https://opencode.ai/install | bash
-XDG_BIN_DIR=$HOME/.local/bin curl -fsSL https://opencode.ai/install | bash
-```
-
-
 ## If you don't write code
 I would like you to analyze the codes in my current software project using the OpenCode tool and help automate the development processes. You can develop with full access during runtime using the build agent, or you can review the codes and plan changes using the plan agent. For complex searches or multi-step tasks, I expect you to use @general.
 

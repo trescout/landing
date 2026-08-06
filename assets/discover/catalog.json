@@ -201,7 +201,8 @@
         "onceki_yildiz": 166947
       }
     ],
-    "tagline_en": "Free domain names where you can set up your web identity at no cost."
+    "tagline_en": "Free domain names where you can set up your web identity at no cost.",
+    "trescout_notu": "Ücretsiz alan adı veren sağlayıcıları listeler. Deneme projesi ve öğrenci işleri için iyi; kalıcı bir şey kuracaksanız uzak durun, bu adlar aniden geri alınabiliyor ve e-posta itibarları zayıf."
   },
   {
     "slug": "jellyfin",
@@ -608,7 +609,8 @@
         "surum_tarihi": "2026-07-29"
       }
     ],
-    "tagline_en": "Converts Word, PDF, Excel and PowerPoint documents into AI-friendly Markdown format · Microsoft."
+    "tagline_en": "Converts Word, PDF, Excel and PowerPoint documents into AI-friendly Markdown format · Microsoft.",
+    "trescout_notu": "Word, PDF ve Excel dosyalarını yapay zekâya vermeden önce düz metne çevirir. Tablolar ve karmaşık düzenler her zaman temiz çıkmaz, çıktıyı gözden geçirmeniz gerekir · yine de elle kopyala yapıştırdan çok daha iyi."
   },
   {
     "slug": "harness",
@@ -656,7 +658,8 @@
         "onceki_yildiz": 506894
       }
     ],
-    "tagline_en": "Learn technologies such as database, operating system, Git and Docker by building them from scratch."
+    "tagline_en": "Learn technologies such as database, operating system, Git and Docker by building them from scratch.",
+    "trescout_notu": "Öğrenme deposu, kurulacak bir araç değil: Kendi veritabanınızı, kabuğunuzu ya da Git'inizi sıfırdan yazan rehberleri toplar. Bir teknolojiyi gerçekten anlamak istiyorsanız en verimli yol, ama akşam iki saatlik iş değil · her rehber günler sürer."
   },
   {
     "slug": "crawl4ai",
@@ -776,7 +779,8 @@
         "onceki_yildiz": 143307
       }
     ],
-    "tagline_en": "Anthropic's official Agent Skills repository: Claude's dynamically loaded skill packs."
+    "tagline_en": "Anthropic's official Agent Skills repository: Claude's dynamically loaded skill packs.",
+    "trescout_notu": "Claude'un ihtiyaç duydukça yüklediği hazır beceri paketleri. Kendi becerinizi yazmadan önce buraya bakmak zaman kazandırır; ajan kullanmıyorsanız tek başına bir işe yaramaz."
   },
   {
     "slug": "claude-code",
@@ -816,7 +820,8 @@
         "surum_tarihi": "2026-08-06"
       }
     ],
-    "tagline_en": "AI agent coding tool (product from Anthropic) that runs in the terminal and understands your codebase."
+    "tagline_en": "AI agent coding tool (product from Anthropic) that runs in the terminal and understands your codebase.",
+    "trescout_notu": "Terminalde çalışan kodlama ajanı: Depoyu okur, değişikliği yapar, komutu çalıştırır. Büyük kod tabanlarında kazancı belirgin; küçük düzeltmelerde araç kurmakla uğraşmak yerine elle yapmak daha hızlı olabilir."
   },
   {
     "slug": "cursor-plugins",
@@ -1378,7 +1383,8 @@
         "surum_tarihi": "2026-07-14"
       }
     ],
-    "tagline_en": "Godot Engine (Godot Engine) is an open source game engine used for two- and three-dimensional game development processes."
+    "tagline_en": "Godot Engine (Godot Engine) is an open source game engine used for two- and three-dimensional game development processes.",
+    "trescout_notu": "Oyun motoru, üstelik ücretsiz ve kapalı bir şirkete bağlı değil. İki boyutlu oyunlarda rakiplerini aratmaz; üç boyutlu büyük projelerde hazır varlık ve eğitim içeriği Unity ve Unreal kadar bol değil."
   },
   {
     "slug": "oh-my-pi",
@@ -1715,7 +1721,8 @@
     "lite": false,
     "headline": "Yazılım Mülakatlarına Hazırlık Rehberi",
     "last_review": "2026-08-06",
-    "tagline_en": "Coding-interview-university provides the basics of computer science for those who want to become software engineers…"
+    "tagline_en": "Coding-interview-university provides the basics of computer science for those who want to become software engineers…",
+    "trescout_notu": "Aylara yayılan bir mülakat hazırlık planı. Listeyi olduğu gibi bitirmeye çalışmak çoğu kişide tükenmeye yol açıyor; hedef şirketin sorduğu konuları seçip o dallara odaklanmak daha gerçekçi."
   },
   {
     "slug": "airllm",
@@ -2649,7 +2656,8 @@
         "surum_tarihi": "2026-08-06"
       }
     ],
-    "tagline_en": "Llama.cpp enables large language models to run efficiently on standard hardware."
+    "tagline_en": "Llama.cpp enables large language models to run efficiently on standard hardware.",
+    "trescout_notu": "Dil modellerini kendi bilgisayarınızda, sunucu kiralamadan çalıştırır. Kurulum artık kolay ama beklentiyi ayarlayın: Küçük modeller hızlı, büyükleri belleğinizi zorlar ve bulut hizmetlerinin cevap kalitesini beklemeyin."
   },
   {
     "slug": "turbovec",
@@ -2943,7 +2951,8 @@
     "lite": false,
     "headline": "Yapay zekâ araçlarının perde arkası",
     "last_review": "2026-08-06",
-    "tagline_en": "System prompts and language models used in popular artificial intelligence tools are used by developers…"
+    "tagline_en": "System prompts and language models used in popular artificial intelligence tools are used by developers…",
+    "trescout_notu": "Popüler yapay zekâ araçlarının sistem yönergelerini toplar. Kendi istem tasarımınız için fikir verir; içeriğin doğruluğu sızıntılara dayandığı için garanti değildir ve araçlar güncellendikçe bayatlar."
   },
   {
     "slug": "openmed",
@@ -3479,7 +3488,8 @@
         "onceki_yildiz": 118170
       }
     ],
-    "tagline_en": "The iptv-org project, which gathers public television channels around the world in a single center, is available via internet protocol…"
+    "tagline_en": "The iptv-org project, which gathers public television channels around the world in a single center, is available via internet protocol…",
+    "trescout_notu": "Dünyadaki açık televizyon yayınlarının bağlantılarını toplayan bir liste. Kurulacak bir program değil, oynatıcınıza vereceğiniz adresler · bağlantılar sık ölür ve hangi yayının hangi ülkede izlenebildiği sizin sorumluluğunuzdadır."
   },
   {
     "slug": "lmcache",
@@ -3638,7 +3648,8 @@
     "lite": false,
     "headline": "Yazılım dünyasına ücretsiz adım atın",
     "last_review": "2026-08-06",
-    "tagline_en": "freeCodeCamp is an open source website that offers free educational materials on mathematics, programming and computer science."
+    "tagline_en": "freeCodeCamp is an open source website that offers free educational materials on mathematics, programming and computer science.",
+    "trescout_notu": "Sıfırdan başlayanlar için tam bir müfredat, üstelik tarayıcıda çalışan alıştırmalarla. Sertifikaların iş başvurusunda ağırlığı sınırlı, asıl değeri yapılandırılmış sırada: Nereden başlayacağınızı bilmiyorsanız aradığınız şey bu."
   },
   {
     "slug": "pytest",
@@ -3898,7 +3909,8 @@
         "surum_tarihi": "2026-01-01"
       }
     ],
-    "tagline_en": "Hello 算法 is an open source educational tool that teaches data structures and algorithms with animated visualizations."
+    "tagline_en": "Hello 算法 is an open source educational tool that teaches data structures and algorithms with animated visualizations.",
+    "trescout_notu": "Algoritmaları animasyonla anlatan bir kitap. Konu anlatımı görsel ve akıcı; kurulacak bir şey yok, kod örnekleri birçok dilde. Mülakat hazırlığından çok kavramı oturtmak için uygun."
   },
   {
     "slug": "cua",
@@ -5389,7 +5401,8 @@
         "surum_tarihi": "2026-06-19"
       }
     ],
-    "tagline_en": "Firecrawl is a tool for crawling and extracting data from websites at scale and generating clean text that artificial intelligence models can process."
+    "tagline_en": "Firecrawl is a tool for crawling and extracting data from websites at scale and generating clean text that artificial intelligence models can process.",
+    "trescout_notu": "Web sitelerini yapay zekâya verilebilecek temiz metne çevirir. Kendi sunucunuzda çalıştırabilirsiniz ama ölçek büyüdükçe iş, tarama etiği ve hız sınırlarını yönetmeye dönüşür: Hedef sitenin kullanım şartlarını okumadan başlamayın."
   },
   {
     "slug": "ai-website-cloner-template",
@@ -6162,7 +6175,8 @@
         "surum_tarihi": "2026-08-05"
       }
     ],
-    "tagline_en": "OpenCode is an open source coding agent designed to automate software development processes."
+    "tagline_en": "OpenCode is an open source coding agent designed to automate software development processes.",
+    "trescout_notu": "Terminalde çalışan açık kaynaklı kodlama ajanı. Modeli siz seçersiniz, kodunuz istediğiniz yere gider · karşılığında kurulum ve model masrafı sizin işiniz olur, hazır ürünlerin cilası yoktur."
   },
   {
     "slug": "openspec",
@@ -7027,7 +7041,8 @@
         "surum_tarihi": "2026-08-04"
       }
     ],
-    "tagline_en": "Langflow is a Python-based development tool that offers a visual interface for creating AI-powered agents and workflows."
+    "tagline_en": "Langflow is a Python-based development tool that offers a visual interface for creating AI-powered agents and workflows.",
+    "trescout_notu": "Yapay zekâ iş akışını kod yazmadan, kutuları bağlayarak kurarsınız. Fikir denemek ve göstermek için hızlı; akış büyüdüğünde görsel şema okunaksızlaşır ve sürüm takibi zorlaşır, o noktada koda geçmek gerekir."
   },
   {
     "slug": "pytorch",
@@ -8871,7 +8886,8 @@
         "onceki_yildiz": 118879
       }
     ],
-    "tagline_en": "The awesome-llm-apps repository contains more than 100 directly executable AI agents and introduced generation incremental…"
+    "tagline_en": "The awesome-llm-apps repository contains more than 100 directly executable AI agents and introduced generation incremental…",
+    "trescout_notu": "Çalıştırılabilir örnek uygulamalar derlemesi. Bir fikrin nasıl kurulduğunu görmek için hızlı yol; örneklerin bakım durumu değişkendir, kopyalayıp üretime koymadan önce bağımlılıklarını güncelleyin."
   },
   {
     "slug": "background-agents",
@@ -9443,7 +9459,8 @@
     "lite": false,
     "headline": "Ücretsiz bilgisayar bilimleri eğitim yolu",
     "last_review": "2026-08-06",
-    "tagline_en": "This resource, which offers a free and self-learning focused curriculum in the field of computer science…"
+    "tagline_en": "This resource, which offers a free and self-learning focused curriculum in the field of computer science…",
+    "trescout_notu": "Üniversite müfredatını ücretsiz kaynaklarla yeniden kuran bir yol haritası. Disiplin gerektirir: Yanınızda ders veren kimse yok, ilerlemeyi kendiniz ölçersiniz. Diploma yerine geçmez ama boşluklarınızı kapatmak için iyi bir harita."
   },
   {
     "slug": "cwc-workshops",
@@ -10698,7 +10715,8 @@
         "surum_tarihi": "2026-08-05"
       }
     ],
-    "tagline_en": "Node.js offers a runtime environment that allows JavaScript code to be run outside the browser."
+    "tagline_en": "Node.js offers a runtime environment that allows JavaScript code to be run outside the browser.",
+    "trescout_notu": "Sunucu tarafında JavaScript çalıştırmanın standart yolu. Aynı dili iki tarafta kullanmak ekip için büyük kolaylık; bedeli bağımlılık ağacının hızla şişmesi ve sürüm yönetiminin sizin işiniz olması."
   },
   {
     "slug": "bitchat-android",
@@ -11747,7 +11765,8 @@
     "lite": false,
     "headline": "Büyük ölçekli sistem tasarımı rehberi",
     "last_review": "2026-08-06",
-    "tagline_en": "System Design Primer offers a comprehensive learning resource for those who want to design large-scale software systems."
+    "tagline_en": "System Design Primer offers a comprehensive learning resource for those who want to design large-scale software systems.",
+    "trescout_notu": "Teknik mülakatın sistem tasarımı bölümüne çalışanların ilk durağı. Kavramları güzel toparlar ama örnekler klasik ölçekli sistemler üzerinden: Kendi işinizdeki mimariyi buradan kopyalamayın, düşünme çerçevesi olarak kullanın."
   },
   {
     "slug": "free-claude-code",

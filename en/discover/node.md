@@ -16,22 +16,6 @@ Node.js offers a runtime environment that allows JavaScript code to be run outsi
 - Enables the development of scalable network applications
 - Offers high performance with its V8 engine
 
-## Installation
-**Downloading the secure key ring**
-
-```
-curl -fsLo "/path/to/nodejs-keyring.kbx" "https://github.com/nodejs/release-keys/raw/HEAD/gpg/pubring.kbx"
-```
-
-**Verifying downloaded files**
-
-```
-curl -fsO "https://nodejs.org/dist/${VERSION}/SHASUMS256.txt.asc" \
-&& gpgv --keyring="/path/to/nodejs-keyring.kbx" --output SHASUMS256.txt < SHASUMS256.txt.asc \
-&& shasum --check SHASUMS256.txt --ignore-missing
-```
-
-
 ## If you don't write code
 I want to develop a JavaScript-based server application using the Node.js environment. Can you explain the basic runtime features that this platform offers and the structural elements I should pay attention to when creating scalable network applications?
 

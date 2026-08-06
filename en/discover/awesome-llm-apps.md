@@ -14,24 +14,6 @@ The awesome-llm-apps repository offers more than 100 directly executable AI agen
 - Compatible with Claude, Gemini and OpenAI
 - Ready source codes for quick installation
 
-## Installation
-**Download the repository to your computer and prepare it**
-
-```
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/starter_ai_agents/ai_travel_agent
-pip install -r requirements.txt
-```
-
-
-## Running it
-**Launch the travel agent app**
-
-```
-streamlit run travel_agent.py
-```
-
-
 ## If you don't write code
 I want to develop my own projects using the artificial intelligence agent templates in this tool. From the 100+ examples available, can you please explain step by step the basic steps I need to follow to build a Python-based RAG application or multi-agent system and how to customize these templates?
 

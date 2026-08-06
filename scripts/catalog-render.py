@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 """
-Katalogdaki `cmds` alanını keşif sayfasına basar · Gemini gerektirmez.
+Katalogdaki alanları (`cmds`, `trescout_notu`, `shot`) keşif sayfasına basar ·
+Gemini gerektirmez.
 
 Neden gerekti: Komut ekleme akışı `--reprocess` ile sayfayı yeniden ürettiriyordu,
 o da Gemini çağrısı demek (kota + anahtar bağımlılığı, anahtar yoksa metni siler).
 Sonuç: katkıcıların eklediği komutlar katalogda kaldı, sayfaya hiç düşmedi ·
 2026-08-06 denetiminde 15 kayıtta komut yayında görünmüyordu.
 
-Bu betik yalnız komut bölümlerini yazar: mevcut "Kurulum"/"Çalıştırma" bölümlerini
-ve "Kaynak:" notunu değiştirir, yoksa "Ne kazandırır?" bölümünün hemen ardına
-ekler (discover-sync'teki rich_sections sırasıyla aynı). Diğer içeriğe dokunmaz.
+Cerrahi çalışır: yalnız ilgili blokları değiştirir, diğer içeriğe dokunmaz.
+Sıralama discover-sync'teki build_page ile aynı · not ve görsel meta listesinin
+ardında, komutlar "Ne kazandırır?" bölümünün ardında.
 
-Kullanım: python3 scripts/cmds-render.py [--dry] [--slug=x]
+Kullanım: python3 scripts/catalog-render.py [--dry] [--slug=x]
 """
 import os, re, sys, json, html
 
@@ -45,6 +46,31 @@ def bolumler(cmds):
     return s
 
 
+def not_html(c):
+    n = (c.get("trescout_notu") or "").strip()
+    return (f'<aside class="disc-note"><p><strong>TreScout notu:</strong> {esc(n)}</p></aside>\n      ') if n else ""
+
+
+def shot_html(c):
+    sh = c.get("shot")
+    if not sh:
+        return ""
+    return (f'<figure class="disc-shot"><img src="{esc(sh["src"])}" width="{sh.get("w","")}" '
+            f'height="{sh.get("h","")}" loading="lazy" decoding="async" alt="{esc(sh.get("alt",""))}">'
+            f'<figcaption>{esc(sh.get("credit",""))}</figcaption></figure>\n      ')
+
+
+def meta_sonrasi(sayfa, c):
+    """TreScout notu + ekran görüntüsü · meta listesinin hemen ardında (build_page sırası)."""
+    sayfa = re.sub(r'<aside class="disc-note">.*?</aside>\s*', "", sayfa, flags=re.S)
+    sayfa = re.sub(r'<figure class="disc-shot">.*?</figure>\s*', "", sayfa, flags=re.S)
+    yeni = not_html(c) + shot_html(c)
+    if not yeni:
+        return sayfa
+    m = re.search(r'<ul class="disc-meta">.*?</ul>\s*', sayfa, re.S)
+    return sayfa[:m.end()] + "      " + yeni + sayfa[m.end():] if m else sayfa
+
+
 def yaz(sayfa, cmds):
     """Mevcut komut bölümlerini kaldır, yenilerini doğru yere koy."""
     # 1. eski komut bölümleri + kaynak notu
@@ -69,7 +95,7 @@ def main():
     n = 0
     for c in cat:
         cmds = c.get("cmds") or {}
-        if not (cmds.get("kurulum") or cmds.get("calistirma")):
+        if not (cmds.get("kurulum") or cmds.get("calistirma") or c.get("trescout_notu") or c.get("shot")):
             continue
         if ONLY and c["slug"] != ONLY:
             continue
@@ -78,7 +104,7 @@ def main():
             print(f"  ! {c['slug']}: sayfa yok")
             continue
         eski = open(p, encoding="utf-8").read()
-        yeni = yaz(eski, cmds)
+        yeni = meta_sonrasi(yaz(eski, cmds), c)
         # komut kopyalama düğmesi discover.js'e bağlı · sayfada yoksa ekle
         if 'src="/assets/discover.js"' not in yeni:
             yeni = yeni.replace('<script src="/assets/subscribe.js" defer></script>',
@@ -90,7 +116,7 @@ def main():
             print(f"  ~ {c['slug']}")
             continue
         open(p, "w", encoding="utf-8").write(yeni)
-    print(f"{'[--dry] ' if DRY else '✅ '}{n} sayfaya komut bölümü yazıldı")
+    print(f"{'[--dry] ' if DRY else '✅ '}{n} sayfa güncellendi (komut · not · görsel)")
 
 
 main()

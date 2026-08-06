@@ -35,6 +35,12 @@ def main():
         cm = c.get("cmds") or {}
         if (cm.get("kurulum") or cm.get("calistirma")) and "disc-cmd" not in sayfa:
             komutsuz.append(c["slug"])
+        # Aynı sapma sınıfı: elle yazılmış TreScout notu ve ekran görüntüsü de
+        # katalogda kalıp sayfaya düşmeyebiliyor.
+        if (c.get("trescout_notu") or "").strip() and "TreScout notu:" not in sayfa:
+            komutsuz.append(c["slug"] + " (not)")
+        if c.get("shot") and "disc-shot" not in sayfa:
+            komutsuz.append(c["slug"] + " (görsel)")
         if not beklenen:
             continue
         m = H1.search(sayfa)
@@ -52,9 +58,9 @@ def main():
             print(f"   … +{len(sapan)-10} sayfa daha")
         print("   Düzeltme: katalog doğruysa sayfaları yeniden bas (discover-sync `_set_page_headline`).")
     if komutsuz:
-        print(f"✗ {len(komutsuz)} kayıtta katalogda komut var ama sayfada komut bloğu yok:")
+        print(f"✗ {len(komutsuz)} kayıtta katalog alanı sayfaya basılmamış (komut · not · görsel):")
         print(f"   {', '.join(komutsuz[:10])}")
-        print("   Düzeltme: discover-sync --reprocess=<slug,...> ile sayfaları yeniden basın.")
+        print("   Düzeltme: python3 scripts/catalog-render.py")
     if sapan or sayfasiz or komutsuz:
         sys.exit(1)
     print(f"✓ katalog ↔ sayfa tutarlı · {len(cat)} kayıt (başlık + komut)")
