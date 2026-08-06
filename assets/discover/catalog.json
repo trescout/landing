@@ -3550,7 +3550,14 @@
         "surum_tarihi": "2026-06-26"
       }
     ],
-    "tagline_en": "Microsoft PowerToys is a utility developed to increase efficiency and personalization in the Windows operating system."
+    "tagline_en": "Microsoft PowerToys is a utility developed to increase efficiency and personalization in the Windows operating system.",
+    "shot": {
+      "src": "/assets/discover/shots/powertoys.webp",
+      "w": 1280,
+      "h": 440,
+      "alt": "PowerToys araç paketinin tanıtım görseli · pencere düzenleme ve arama araçları",
+      "credit": "Kaynak: github.com/microsoft/PowerToys · MIT"
+    }
   },
   {
     "slug": "aisuite",
@@ -3981,7 +3988,14 @@
         "surum_tarihi": "2026-07-11"
       }
     ],
-    "tagline_en": "Win11Debloat allows you to uninstall pre-installed apps and disable telemetry data on Windows 10 and 11 operating systems."
+    "tagline_en": "Win11Debloat allows you to uninstall pre-installed apps and disable telemetry data on Windows 10 and 11 operating systems.",
+    "shot": {
+      "src": "/assets/discover/shots/win11debloat.webp",
+      "w": 1280,
+      "h": 888,
+      "alt": "Win11Debloat betiğinin komut satırı menüsü · kaldırılacak uygulamaların seçildiği ekran",
+      "credit": "Kaynak: github.com/Raphire/Win11Debloat · MIT"
+    }
   },
   {
     "slug": "self-hosting-guide",
@@ -4309,7 +4323,14 @@
         "surum_tarihi": "2026-06-19"
       }
     ],
-    "tagline_en": "Continue is an open source coding agent designed to automate software development processes."
+    "tagline_en": "Continue is an open source coding agent designed to automate software development processes.",
+    "shot": {
+      "src": "/assets/discover/shots/continue.webp",
+      "w": 1280,
+      "h": 320,
+      "alt": "Continue eklentisinin kod düzenleyici içindeki sohbet ve tamamlama arayüzü",
+      "credit": "Kaynak: github.com/continuedev/continue · Apache-2.0"
+    }
   },
   {
     "slug": "penpot",
