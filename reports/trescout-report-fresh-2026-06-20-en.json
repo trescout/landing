@@ -1,0 +1,111 @@
+{
+  "date": "2026-06-20",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro was developed as a video editor that runs on the macOS operating system and offers artificial intelligence-supported editing tools. This application, written in Swift language, aims to combine artificial intelligence-based workflows with local system performance.",
+          "meta": "Swift · ★ 2,134 · +756 today"
+        },
+        {
+          "title": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "summary": "Worldmonitor offers a real-time global intelligence dashboard that combines AI-powered news compilation and geopolitical monitoring features in a single interface. This tool, which provides infrastructure monitoring and situational awareness, facilitates analysis processes by visualizing complex data flows.",
+          "meta": "TypeScript · ★ 57,469 · +156 today"
+        },
+        {
+          "title": "aishwaryanr/awesome-generative-ai-guide",
+          "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+          "summary": "The awesome-generative-ai-guide repository collects current research, interview resources and notebooks in the field of generative artificial intelligence (generative AI) in one place. This resource serves as a comprehensive learning and reference center for developers and researchers.",
+          "meta": "HTML · ★ 27,722 · +107 today"
+        },
+        {
+          "title": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "summary": "Developed by BuilderIO, agent-native is a TypeScript framework focused on creating agent-native applications for artificial intelligence agents. It allows developers to integrate agent-based workflows directly into the application architecture.",
+          "meta": "TypeScript · ★ 1,138 · +147 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Hyundai buys Boston Dynamics",
+          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+          "summary": "Hyundai increased its control in the field of robotics by purchasing all of its shares in Boston Dynamics from SoftBank for $ 325 million. This move strengthens the automotive manufacturer's strategic investments in autonomous mobility and humanoid robot technologies.",
+          "meta": "781 points · 346 comments"
+        },
+        {
+          "title": "Norway imposes near ban on AI in elementary school",
+          "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+          "summary": "Norway has enacted a new regulation that includes restrictions on the use of artificial intelligence in primary schools. This decision aims to protect data privacy in the educational environment and control students' interaction with digital tools.",
+          "meta": "612 points · 426 comments"
+        },
+        {
+          "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+          "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+          "summary": "Project Valhalla aims to increase performance by providing value types and improved memory layout support on the Java Virtual Machine (JVM). This work makes memory usage more efficient by optimizing data locality in object-oriented programming.",
+          "meta": "586 points · 360 comments"
+        },
+        {
+          "title": "There are no instances in ATProto",
+          "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+          "summary": "Unlike traditional social networks, the ATProto protocol uses a user-oriented data structure instead of central servers. This architecture offers a portability feature that allows users to move their accounts between different platforms.",
+          "meta": "418 points · 216 comments"
+        },
+        {
+          "title": "Court Records Should Be Free",
+          "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+          "summary": "The Electronic Frontier Foundation argues that fees charged for access to court records hinder transparency. This approach emphasizes that public legal documents should be freely and unrestrictedly accessible digitally.",
+          "meta": "348 points · 73 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "summary": "VibeThinker-3B, developed by WeiboAI, is a compact language model focused on text generation. This structure, which has 3 billion parameters, aims to provide performance in text creation tasks with resource efficiency.",
+          "meta": "♥ 473 · 12,148 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "video editor",
+      "explanation": "Software that cuts and combines image and audio files into a watchable video."
+    },
+    {
+      "term": "global intelligence dashboard",
+      "explanation": "Management panel that allows monitoring the situation by collecting data from different parts of the world on a single screen."
+    },
+    {
+      "term": "situational awareness",
+      "explanation": "It is the ability of a system to instantly perceive what is happening around it and correctly comprehend the current situation."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Technology that can produce new content such as text, visuals or sound from scratch based on the information it has learned."
+    },
+    {
+      "term": "notebooks",
+      "explanation": "Interactive work environments where you can take notes while writing code and see the results instantly."
+    },
+    {
+      "term": "agent-native applications",
+      "explanation": "Applications specially designed for artificial intelligence assistants that can make decisions on behalf of the user and carry out transactions on their own."
+    },
+    {
+      "term": "framework",
+      "explanation": "The basic structure that provides a set of ready-made tools and rules that makes your job easier when developing software."
+    }
+  ]
+}

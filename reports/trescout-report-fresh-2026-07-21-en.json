@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-21",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "PrefectHQ/fastmcp",
+          "url": "https://github.com/PrefectHQ/fastmcp",
+          "summary": "FastMCP is a Python-based framework that makes it easy to develop Model Context Protocol (MCP) servers and clients. It enables developers to quickly integrate between AI models and native tools.",
+          "meta": "Python · ★ 26,621 · +96 today"
+        },
+        {
+          "title": "tokio-rs/topcoat",
+          "url": "https://github.com/tokio-rs/topcoat",
+          "summary": "Developed by the Tokio team, Topcoat offers a comprehensive framework that includes all the necessary tools to create web applications in Rust. It aims to standardize the application development process by gathering the basic components needed by developers in a single structure.",
+          "meta": "Rust · ★ 1,715 · +371 today"
+        },
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "This project, which collects public internet television (IPTV) broadcasts from around the world in a single center, makes it easier for users to access live broadcast channels. Developed with the TypeScript language, this collection offers global channel lists through open source data sets.",
+          "meta": "TypeScript · ★ 133,863 · +240 today",
+          "returning": true
+        },
+        {
+          "title": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "summary": "OpenShip offers an application distribution platform that users can host on their own servers. This tool, developed with the TypeScript language, facilitates self-hosting processes as an alternative to cloud-based infrastructure services.",
+          "meta": "TypeScript · ★ 5,130 · +1,641 today"
+        },
+        {
+          "title": "microsoft/Ontology-Playground",
+          "url": "https://github.com/microsoft/Ontology-Playground",
+          "summary": "Developed by Microsoft, Ontology-Playground is an open source web application used to learn ontologies and create visual designs on Microsoft Fabric IQ. This completely static tool allows users to design ontology models, export them in RDF/XML format and share interactive diagrams.",
+          "meta": "TypeScript · ★ 1,806 · +464 today"
+        },
+        {
+          "title": "handy-computer/transcribe.cpp",
+          "url": "https://github.com/handy-computer/transcribe.cpp",
+          "summary": "Transcribe.cpp is a speech-to-text inference library developed in C++ that supports more than 16 model families. Using the ggml infrastructure, this tool enables different audio processing models to run efficiently on local systems.",
+          "meta": "C++ · ★ 1,357 · +395 today"
+        },
+        {
+          "title": "moonshine-ai/moonshine",
+          "url": "https://github.com/moonshine-ai/moonshine",
+          "summary": "Moonshine offers low-latency speech to text, intent recognition and text to speech capabilities for voice interfaces and artificial intelligence agents. This library, developed in C++ language, aims to optimize real-time audio processing processes.",
+          "meta": "C++ · ★ 10,028 · +282 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "China’s open-weights AI strategy is winning",
+          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+          "summary": "China-based artificial intelligence developers are managing a rapid adoption process in the global ecosystem by popularizing open-weighted models. Unlike closed and proprietary models, this strategy provides a competitive advantage by facilitating access to technology for local and international developers.",
+          "meta": "1,049 points · 818 comments"
+        },
+        {
+          "title": "Hacker wipes Romania's land registry database",
+          "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+          "summary": "Romania's land registry database was completely deleted as a result of a cyber attack. The incident brought to the fore the vulnerabilities in data backup and cyber security processes of critical public infrastructures.",
+          "meta": "620 points · 344 comments"
+        },
+        {
+          "title": "Who's afraid of Chinese models?",
+          "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+          "summary": "Competitive pricing of China-based AI models in the global market and their integration into open source ecosystems puts pressure on the market dominance of western technology companies. The low-cost accessibility of these models brings regional dependencies and security policies into question again in artificial intelligence development processes.",
+          "meta": "497 points · 340 comments"
+        },
+        {
+          "title": "Kimi Work",
+          "url": "https://www.kimi.com/products/kimi-work",
+          "summary": "Developed by Moonshot AI, Kimi Work is a collaboration and productivity platform designed for enterprise teams. The system automates information management within the team by analyzing complex documents with long context window support.",
+          "meta": "488 points · 207 comments"
+        },
+        {
+          "title": "Jelly UI: Soft-body physics for native HTML form controls",
+          "url": "https://jelly-ui.com/",
+          "summary": "Jelly UI applies soft-body physics to native HTML form controls, giving flexible interaction to interface elements. This library makes the user experience more dynamic by adding physics-based animations to web components.",
+          "meta": "425 points · 144 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "inference",
+      "explanation": "The process of a trained artificial intelligence model making predictions or inferences on new data it has not seen before."
+    }
+  ]
+}

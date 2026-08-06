@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-30",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "grokability/snipe-it",
+          "url": "https://github.com/grokability/snipe-it",
+          "summary": "Snipe-IT is an open source management system for tracking information technology assets and software licenses. This platform, developed with PHP language, allows institutions to organize inventory records and usage cycles in a digital environment.",
+          "meta": "PHP · ★ 14,536 · +164 today"
+        },
+        {
+          "title": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "summary": "Python-based Faceswap is an open source software that allows replacing faces in images using deepfake technology. It allows users to perform face swapping operations on videos and images.",
+          "meta": "Python · ★ 56,487 · +166 today"
+        },
+        {
+          "title": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "summary": "Developed by Microsoft, VibeVoice is offered as an open source frontier voice AI model. This Python-based project aims to provide high-performance and accessible solutions in audio processing processes.",
+          "meta": "Python · ★ 51,459 · +336 today",
+          "returning": true
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork is a software project developed as an open source alternative to the Claude Cowork platform and uses the opencode infrastructure. This tool, written in TypeScript language, offers an artificial intelligence-supported working environment that aims to automate software development processes.",
+          "meta": "TypeScript · ★ 18,143 · +97 today"
+        },
+        {
+          "title": "MoonshotAI/FlashKDA",
+          "url": "https://github.com/MoonshotAI/FlashKDA",
+          "summary": "Developed by Moonshot AI, FlashKDA offers high-performance kernels for the Some Delta Attention mechanism. This CUDA-based technology aims to accelerate attention calculations in large language models.",
+          "meta": "Cuda · ★ 1,043 · +91 today"
+        },
+        {
+          "title": "maderix/ANE",
+          "url": "https://github.com/maderix/ANE",
+          "summary": "Developed by Maderix, ANE allows neural network training to be performed on the Apple Neural Engine through private application programming interfaces (private APIs) obtained by reverse engineering. This study makes it possible to directly use Apple hardware in artificial intelligence model training processes.",
+          "meta": "Objective-C · ★ 7,185 · +22 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+          "url": "https://github.com/drumih/turbo-fieldfare",
+          "summary": "TurboFieldfare is an inference engine that allows the Gemma 4 26B model to run on Apple M-series processors using 4-bit quantization, consuming only 2 GB of memory. Developed with Swift and Metal languages, this tool aims to optimize on-device AI performance.",
+          "meta": "727 points · 252 comments"
+        },
+        {
+          "title": "Superlogical",
+          "url": "https://www.superlogical.com/",
+          "summary": "Superlogical is a logic programming tool designed to manage complex logical systems and rules. It allows developers to define data structures and business rules with a declarative approach.",
+          "meta": "616 points · 385 comments"
+        },
+        {
+          "title": "The coolest use for the Vision Pro",
+          "url": "https://christianselig.com/2026/07/vision-pro-house/",
+          "summary": "Apple Vision Pro users visualize the smart devices in their homes in the physical environment by using the device's spatial computing capabilities. This method makes home automation directly interactive through virtual interfaces placed on objects.",
+          "meta": "541 points · 225 comments"
+        },
+        {
+          "title": "Kimi K3-256k",
+          "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+          "summary": "Developed by Moonshot AI, Kimi K3-256k focuses on coding and software development processes with a long context window of 256 thousand tokens. The model offers the capacity to analyze long code bases and produce solutions to complex programming tasks with high accuracy.",
+          "meta": "399 points · 116 comments"
+        },
+        {
+          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+          "summary": "The technical report shared by Hugging Face chronologically examines the agent intrusion incident against a frontier lab in 2026. The report analyzes the vulnerabilities of autonomous systems and the technical functioning of such attacks, providing data for defense strategies.",
+          "meta": "345 points · 199 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "summary": "KAT-Coder-V2.5-Dev, developed by Kwaipilot, is a language model focused on text-generation. The model, designed to support software development processes, is used in code writing and technical text creation tasks.",
+          "meta": "♥ 323 · 6,275 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "deepfake",
+      "explanation": "Using artificial intelligence to adapt one person's image or voice to another person in a way that is indistinguishable from the real thing."
+    },
+    {
+      "term": "face swapping",
+      "explanation": "Digitally replacing a face in a photo or video with another person's face."
+    },
+    {
+      "term": "frontier voice AI",
+      "explanation": "The most advanced voice artificial intelligence technologies that can speak naturally and emotionally like a human."
+    },
+    {
+      "term": "kernels",
+      "explanation": "The most basic core part of the operating system that manages the communication between the computer's hardware and software."
+    },
+    {
+      "term": "attention",
+      "explanation": "A mechanism that allows artificial intelligence to better grasp the meaning by focusing on important words in a text."
+    }
+  ]
+}

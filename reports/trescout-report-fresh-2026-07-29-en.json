@@ -1,0 +1,120 @@
+{
+  "date": "2026-07-29",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "TypeScript-based pascalorg/editor allows users to create and share three-dimensional architectural projects via the browser. The software aims to make architectural design processes accessible through a web-based interface.",
+          "meta": "TypeScript · ★ 18,985 · +341 today"
+        },
+        {
+          "title": "hello245m/free-stockdb",
+          "url": "https://github.com/hello245m/free-stockdb",
+          "summary": "Free-stockdb is a native quantitative analysis engine that handles daily and minute data for A stocks and exchange traded funds (ETFs). The system combines functions such as incremental synchronization of data, local caching, price correction, backtesting and technical indicator calculations.",
+          "meta": "HTML · ★ 1,492 · +50 today"
+        },
+        {
+          "title": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "summary": "The speech-to-speech library developed by Hugging Face allows creating local voice agents using open source models. This Python-based tool allows developers to build real-time voice interaction systems that run on the device.",
+          "meta": "Python · ★ 7,443 · +227 today"
+        },
+        {
+          "title": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "summary": "The book-to-skill project converts portable document formats (PDF) of technical books into usable skill packs (skills) for Claude Code. This tool enables technical resources to be directly referenced and applied in work processes.",
+          "meta": "Python · ★ 11,802 · +423 today"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "This list, which brings together libraries, strategies and educational resources in the field of systematic trading, supports Python-based financial modeling processes. It gathers the necessary tools and literature in a single center for those who want to enter the world of algorithmic trading.",
+          "meta": "Python · ★ 9,886 · +309 today"
+        },
+        {
+          "title": "microsoft/agent-governance-toolkit",
+          "url": "https://github.com/microsoft/agent-governance-toolkit",
+          "summary": "The agent governance toolkit developed by Microsoft offers security layers such as policy enforcement, zero-trust identity and sandboxing for autonomous artificial intelligence agents. The software aims to protect against vulnerabilities in the OWASP Agentic Top 10 list.",
+          "meta": "Python · ★ 5,342 · +46 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Substack writers, you need a website",
+          "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+          "summary": "Substack authors need personal websites to reduce platform dependency and protect content ownership. Managing their own domains is seen as essential to maintaining control over reader data and creating a digital presence free of platform restrictions.",
+          "meta": "487 points · 231 comments"
+        },
+        {
+          "title": "Codex Security",
+          "url": "https://github.com/openai/codex-security",
+          "summary": "OpenAI shared the Codex Security toolkit, which it developed to detect code-based vulnerabilities, as open source. This software uses large language models to identify security vulnerabilities in software development processes.",
+          "meta": "452 points · 140 comments"
+        },
+        {
+          "title": "Kimi K3 Architecture Overview and Notes",
+          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "summary": "Some K3 architecture offers a new generation structure developed to increase the efficiency of large language models. This architecture focuses on improving the inference speed and scalability of the model by optimizing computational resources.",
+          "meta": "372 points · 64 comments"
+        },
+        {
+          "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+          "url": "https://www.slow-journalism.com/",
+          "summary": "The slow journalism movement advocates a publishing approach that focuses on in-depth analysis and verified information rather than quickly sharing current news. This approach aims to reduce the information pollution created by the instant consumption-oriented news cycle.",
+          "meta": "272 points · 159 comments"
+        },
+        {
+          "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+          "url": "https://github.com/twalichiewicz/HNewhere",
+          "summary": "HNewhere offers a userscript that improves user experience by combining links and related discussions on Hacker News within the same tab. This tool consolidates a workflow that requires constant tab-switching between content and comments into a single interface.",
+          "meta": "235 points · 64 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Special abilities that artificial intelligence models acquire to perform a specific task."
+    },
+    {
+      "term": "ETF",
+      "explanation": "An investment vehicle called an exchange-traded fund that allows you to purchase many different stocks in a single package."
+    },
+    {
+      "term": "backtesting",
+      "explanation": "A method of testing how successful an investment strategy will be using historical market data."
+    },
+    {
+      "term": "voice agents",
+      "explanation": "Digital assistants that communicate with the user by voice, answer questions and carry out commands."
+    },
+    {
+      "term": "PDF",
+      "explanation": "A hard-to-edit fixed file format that makes documents look the same on different devices."
+    },
+    {
+      "term": "systematic trading",
+      "explanation": "Investment decisions are made free of emotions, within the framework of predetermined rules and a disciplined plan."
+    },
+    {
+      "term": "algorithmic trading",
+      "explanation": "Buying and selling transactions in financial markets are carried out quickly and automatically by computer programs."
+    },
+    {
+      "term": "agent governance toolkit",
+      "explanation": "A set of management tools that ensure that autonomous artificial intelligence systems act safely, ethically and in accordance with the rules."
+    }
+  ]
+}

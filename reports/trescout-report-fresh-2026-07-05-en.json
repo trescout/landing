@@ -1,0 +1,129 @@
+{
+  "date": "2026-07-05",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "summary": "Meetily is an open source meeting assistant that processes meeting recordings locally and does not require a cloud connection. Developed in Rust, the application offers fast voice transcription, speaker diarization and summarization capabilities with local language models.",
+          "meta": "Rust · ★ 15,565 · +718 today"
+        },
+        {
+          "title": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "summary": "Developed for .NET and C# based artificial intelligence coding agents, this library offers specialized skill packages that support software development processes. It allows developers to standardize automation tools and execute coding tasks efficiently.",
+          "meta": "C# · ★ 3,872 · +59 today"
+        },
+        {
+          "title": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "summary": "Immich is a high-performance self-hosted media management solution developed to manage photo and video files. Written in TypeScript, this platform allows users to create a central media archive on their own infrastructure.",
+          "meta": "TypeScript · ★ 105,748 · +201 today"
+        },
+        {
+          "title": "chthollyphile/folia-major",
+          "url": "https://github.com/chthollyphile/folia-major",
+          "summary": "Folia-major is a player interface that provides visualized lyric animations for local music files and online platforms. Developed with TypeScript, this tool aims to enrich the music listening experience with dynamic visual effects.",
+          "meta": "TypeScript · ★ 1,034 · +175 today"
+        },
+        {
+          "title": "CoplayDev/unity-mcp",
+          "url": "https://github.com/CoplayDev/unity-mcp",
+          "summary": "Unity MCP provides a bridge between large language models and the Unity editor, allowing asset management, scene control and code editing processes to be automated. This tool, which works through the Model Server Protocol (Model Context Protocol), allows artificial intelligence assistants to directly intervene in game development workflows.",
+          "meta": "C# · ★ 11,702 · +69 today"
+        },
+        {
+          "title": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "summary": "Developed for Claude Code and various coding agents, this library offers more than 330 skill packages and over 70 special commands in different fields from engineering to marketing. This Python-based toolset provides customizable scripts to standardize AI-based workflows and increase productivity.",
+          "meta": "Python · ★ 20,244 · +136 today"
+        },
+        {
+          "title": "crynta/terax-ai",
+          "url": "https://github.com/crynta/terax-ai",
+          "summary": "Terax-ai, as a terminal-oriented artificial intelligence local development environment (AI-native dev workspace), attracts attention with its low size structure of 7 megabytes. Developed with TypeScript, this tool offers developers the opportunity to code with artificial intelligence directly via the terminal.",
+          "meta": "TypeScript · ★ 8,121 · +62 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Leaking YouTube creators' private videos",
+          "url": "https://javoriuski.com/post/youtube",
+          "summary": "It has been determined that private videos on YouTube have become accessible to unauthorized persons due to a security vulnerability in the platform's interface. This situation leads to the leakage of video files, which are kept secret by content producers, through their metadata.",
+          "meta": "577 points · 318 comments"
+        },
+        {
+          "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+          "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+          "summary": "The open source project, developed using the Fable engine, makes the Command and Conquer Generals game natively executable on macOS, iPhone and iPad devices. This work enables old strategy games to be played on modern Apple hardware without the need for an additional emulation layer.",
+          "meta": "511 points · 211 comments"
+        },
+        {
+          "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+          "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+          "summary": "Anna's Archive platform has launched a $200,000 bounty program to create a comprehensive digital library containing all scanned book data from Google Books and similar sources. This initiative aims to collect copyrighted or accessible works in a central data set.",
+          "meta": "426 points · 232 comments"
+        },
+        {
+          "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+          "url": "https://github.com/anthropics/claude-code/issues/74066",
+          "summary": "Claude Code users are reporting session or cache leakage between different workspace instances or consumer accounts. This indicates a technical weakness that may pose a data security risk between independent sessions.",
+          "meta": "288 points · 130 comments"
+        },
+        {
+          "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+          "url": "https://github.com/openai/codex/issues/30364",
+          "summary": "It is argued that the reasoning-token clustering method in OpenAI models leads to a decrease in model performance in some cases. Users state that this clustering strategy increases the margin of error in code generation processes.",
+          "meta": "237 points · 82 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/Qwen3.6-27B-NVFP4",
+          "url": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
+          "summary": "Qwen3.6-27B-NVFP4 by Nvidia is a language model optimized for text-generation tasks. Trained with four-bit floating point (FP4) precision, this model supports high-performance inference processes.",
+          "meta": "♥ 259 · 184,521 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "token",
+      "explanation": "The smallest unit of words or syllables divided into parts that artificial intelligence uses when processing texts."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Standard method for securely connecting AI models to different data sources and applications."
+    },
+    {
+      "term": "transcription",
+      "explanation": "The process of transcribing voice recordings or conversations into text."
+    },
+    {
+      "term": "speaker diarization",
+      "explanation": "The process of determining who spoke when by distinguishing which person's voice in the audio recording came from."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "A method of running software on your own computer or private server rather than on another company's server."
+    },
+    {
+      "term": "terminal",
+      "explanation": "A command line interface with a black screen that allows you to perform operations by typing text commands directly on the computer."
+    },
+    {
+      "term": "skills",
+      "explanation": "Special abilities that a software or artificial intelligence has to do a certain job."
+    }
+  ]
+}

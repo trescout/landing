@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-26",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI-berkshire is a value investing research framework that implements the methodologies of investors such as Warren Buffett and Charlie Munger, using the Claude Code infrastructure. The system analyzes financial data with its multi-agent structure and conducts adversarial reviews.",
+          "meta": "Python · ★ 2,500 · +309 today"
+        },
+        {
+          "title": "mauriceboe/TREK",
+          "url": "https://github.com/mauriceboe/TREK",
+          "summary": "TREK is a self-hosted travel planning application that offers features like real-time collaboration, interactive maps, and budget management. With progressive web application (PWA) support and single sign-on (SSO) integration, it allows users to organize their travel processes digitally.",
+          "meta": "TypeScript · ★ 7,040 · +241 today"
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open SEO offers an open source alternative to paid tools like Semrush and Ahrefs. This software, developed to analyze search engine optimization (SEO) data, aims to make processes transparent with its TypeScript-based infrastructure.",
+          "meta": "TypeScript · ★ 2,736 · +57 today"
+        },
+        {
+          "title": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "summary": "AWS has released a toolset that includes Model Context Protocol servers, skills, and plug-ins to facilitate the interaction of AI agents with cloud infrastructure. This development provides a standardized structure that allows agents to operate directly on AWS services.",
+          "meta": "Python · ★ 1,209 · +47 today"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "summary": "Developed by Alibaba, page-agent is an in-page graphical user interface agent that allows controlling web interfaces with natural language commands. Written in TypeScript, this tool offers a browser-based control mechanism to automate web interactions.",
+          "meta": "TypeScript · ★ 20,032 · +163 today"
+        },
+        {
+          "title": "IceWhaleTech/CasaOS",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "summary": "CasaOS offers an open source personal cloud system that makes it easy to manage Docker-based applications. This interface, developed with the Go language, allows users to simply manage their servers via a visual panel.",
+          "meta": "Go · ★ 34,992 · +223 today"
+        },
+        {
+          "title": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "summary": "MinerU converts complex document formats such as PDF and Office into markdown or JSON format suitable for large language models. This tool aims to make unstructured data available in agent-based workflows.",
+          "meta": "Python · ★ 69,899 · +644 today"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler automatically collects posts and user comments on popular Chinese social media platforms through web scraping. This Python-based tool offers a comprehensive data crawling infrastructure for content analysis and data collection processes.",
+          "meta": "Python · ★ 53,062 · +398 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "An entire Herculaneum scroll has been read for the first time",
+          "url": "https://scrollprize.org/firstscroll",
+          "summary": "The Herculaneum scrolls, which were carbonized by the eruption of Mount Vesuvius, were read without being physically opened for the first time using computed tomography and artificial intelligence-supported image processing techniques. This study proves the success of virtual unwrapping methods developed for digital analysis of ancient texts.",
+          "meta": "1,238 points · 260 comments"
+        },
+        {
+          "title": "Om Malik has died",
+          "url": "https://om.co/2026/06/24/1966-2026/",
+          "summary": "Om Malik, one of the pioneers of technology journalism, passed away at the age of 59. Malik, the founder of the Gigaom platform, was known for his articles documenting the digital transformation process of the Silicon Valley ecosystem.",
+          "meta": "822 points · 91 comments"
+        },
+        {
+          "title": "Apple raises prices of MacBooks, iPads",
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+          "summary": "Apple has updated the sales prices of MacBook and iPad models due to increasing memory costs. Price increases in hardware components directly affected the cost structure of the company's product range.",
+          "meta": "698 points · 1,007 comments"
+        },
+        {
+          "title": "The 'papers, please' era of the internet will decimate your privacy",
+          "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+          "summary": "The fact that internet platforms require age verification and identity proof processes puts pressure on user privacy. The proliferation of digital identity applications expands the scope of collection of personal data and narrows the areas of anonymity.",
+          "meta": "643 points · 301 comments"
+        },
+        {
+          "title": "Oxide computer 3D rack guided tour",
+          "url": "https://explorer.oxide.computer/",
+          "summary": "Oxide Computer has released a 3D rack tour tool that makes data center hardware design transparent. Users can examine the internal structure and component layouts of server systems in detail through the browser.",
+          "meta": "356 points · 140 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "research framework",
+      "explanation": "A set of standard methods and tools used to conduct a research process."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "More than one artificial intelligence software works collaboratively for a common goal."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Hosting a software on your own computer or private server, rather than on another company's server."
+    },
+    {
+      "term": "PWA",
+      "explanation": "Web pages that work through an internet browser but can be installed on your phone like an application."
+    },
+    {
+      "term": "SSO",
+      "explanation": "A system that allows you to log in to many different applications at the same time with a single username and password."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Arrangements made to ensure that websites rank higher in search engines."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "A bridge that enables artificial intelligence models to talk to different data sources in a secure and standard way."
+    },
+    {
+      "term": "skills",
+      "explanation": "The technical skills that a software or system needs to perform a specific operation."
+    }
+  ]
+}

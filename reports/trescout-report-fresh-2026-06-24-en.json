@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-24",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "summary": "Anthropic offers an official directory that collects high-quality plugins developed for Claude Code in a single center. This Python-based structure allows developers to share and discover tools prepared for coding assistants in a standard format.",
+          "meta": "Python · ★ 30,960 · +77 today"
+        },
+        {
+          "title": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "summary": "This guide developed for Claude Code discusses the transition processes from vibe coding approach to agent-based engineering. It offers practical application methods and best practices to increase the efficiency of artificial intelligence agents in software development processes.",
+          "meta": "HTML · ★ 59,766 · +344 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "FUTO Swipe – A new swipe typing model",
+          "url": "https://swipe.futo.tech/",
+          "summary": "FUTO Swipe introduces a new swipe typing model developed as an open source alternative. This technology prioritizes user privacy and ensures the protection of personal data by processing the text entry process on the local device.",
+          "meta": "485 points · 147 comments"
+        },
+        {
+          "title": "Fired by Google for creating the Google workspace CLI",
+          "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+          "summary": "A developer who developed a command line interface (CLI) for Google Workspace was fired for violating policies regarding the use of internal tools. This situation has brought into question the use of internal developer tools and the limits of control over companies' open source policies.",
+          "meta": "465 points · 285 comments"
+        },
+        {
+          "title": "Jerry's Map",
+          "url": "http://www.jerrysmap.com/the-map",
+          "summary": "Jerry Gretzinger has made available digitally his huge map project (Jerry's Map), which represents an imaginary world that he has been drawing continuously since 1963. Bringing together thousands of hand-drawn panels, this work functions as a complex, ever-expanding geographic database.",
+          "meta": "441 points · 51 comments"
+        },
+        {
+          "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+          "url": "https://tikz.dev/editor/",
+          "summary": "TikZ Editor allows editing the TikZ package, which allows creating visuals in LaTeX documents, via the visual interface (WYSIWYG) instead of writing code. This tool accelerates the visual design phase by facilitating the coordinate determination and compilation processes of academic drawings.",
+          "meta": "377 points · 71 comments"
+        },
+        {
+          "title": "In memory of the man who put red and green squiggles under words",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+          "summary": "The software engineer who developed the feature of marking spelling errors with red and green wavy lines in text editors is commemorated. This simple visual feedback mechanism has now become a standard part of modern word processors.",
+          "meta": "329 points · 44 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "plugins",
+      "explanation": "Small software add-ons that are installed later to add new features to a main program."
+    },
+    {
+      "term": "tools",
+      "explanation": "Auxiliary functions or tools that software uses to perform certain operations."
+    },
+    {
+      "term": "vibe coding",
+      "explanation": "A method of writing code by chatting with artificial intelligence and using an intuitive approach, without getting bogged down in technical details."
+    },
+    {
+      "term": "agentic engineering",
+      "explanation": "The discipline of designing and developing autonomous software units that can make decisions on their own."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "date": "2026-06-17",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "summary": "Universal Android Debloater Next Generation is a cross-platform graphical interface developed in Rust to remove unnecessary applications on Android devices that do not require root access. The tool aims to improve the privacy, security and battery life performance of the device using Android Debug Bridge (ADB).",
+          "meta": "Rust · ★ 7,487 · +146 today"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Developed by Alibaba, zvec is a lightweight and high-speed in-process vector database solution written in C++. It aims to improve system performance by allowing applications to process vector data directly in memory.",
+          "meta": "C++ · ★ 10,691 · +156 today"
+        },
+        {
+          "title": "rmyndharis/OpenWA",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "summary": "OpenWA offers a free and open source API gateway solution for the WhatsApp messaging protocol. This tool, developed with TypeScript language, allows users to manage WhatsApp integrations on their own servers (self-hosted).",
+          "meta": "TypeScript · ★ 9,223 · +185 today"
+        },
+        {
+          "title": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "summary": "Iroh is a modular networking stack that makes network connections more flexible by using key-based addressing instead of IP addresses. Developed with the Rust language, this tool provides an infrastructure that is resistant to network interruptions and provides direct data transfer.",
+          "meta": "Rust · ★ 9,418 · +334 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Running local models is good now",
+          "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+          "summary": "Running native large language models on personal computers has become accessible as hardware efficiency increases and software tools become easier. Users can run artificial intelligence models (local models) on their own systems, preserving data privacy without being dependent on cloud-based services.",
+          "meta": "1,293 points · 499 comments"
+        },
+        {
+          "title": "SpaceX to buy Cursor for $60B",
+          "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+          "summary": "SpaceX is purchasing Anysphere, the developer of the AI ​​code editor Cursor, for $60 billion. With this move, the company aims to integrate generative artificial intelligence (generative AI) technologies that automate software development processes into its own operations.",
+          "meta": "1,013 points · 1,511 comments"
+        },
+        {
+          "title": "GrapheneOS has been ported to Android 17",
+          "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+          "summary": "GrapheneOS has been ported to Android 17 and official versions are planned to be released soon. The privacy-focused operating system is preparing to support new security features with the current Android version.",
+          "meta": "736 points · 337 comments"
+        },
+        {
+          "title": "Mechanical Watch (2022)",
+          "url": "https://ciechanow.ski/mechanical-watch/",
+          "summary": "The interactive article prepared by Bartosz Ciechanowski visualizes the working principles of mechanical watches through gear wheels, mainsprings and escapement mechanisms. The study explains the physical functioning of complex timekeeping systems step by step and supports engineering details with digital simulations.",
+          "meta": "692 points · 116 comments"
+        },
+        {
+          "title": "Calvin and Hobbes and the price of integrity",
+          "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+          "summary": "Bill Watterson chose to protect his creative integrity by denying merchandise rights to the Calvin and Hobbes comic strip. This approach brings into question the control of artists over their works and the balance between commercial success and artistic independence.",
+          "meta": "410 points · 177 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, published by Zai-org, is a language model optimized for text generation tasks. This model, available on the HuggingFace platform, is designed to be used in extensive text creation processes.",
+          "meta": "♥ 725 · 0 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "API",
+      "explanation": "A bridge that allows two different software to talk to each other and exchange data."
+    },
+    {
+      "term": "root",
+      "explanation": "The highest-level administrative account that has full authority over a device's operating system."
+    },
+    {
+      "term": "ADB",
+      "explanation": "A connection tool that enables software management by sending commands to Android devices via the computer."
+    },
+    {
+      "term": "in-process vector database",
+      "explanation": "A system that quickly stores complex data needed by artificial intelligence directly within the application itself, without the need for a separate server."
+    },
+    {
+      "term": "API gateway",
+      "explanation": "The central gateway that handles all external requests and directs them to the relevant software units."
+    }
+  ]
+}

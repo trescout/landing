@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-19",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Prepared for those who want to enter the field of artificial intelligence engineering (AI engineering), this resource aims to teach end-to-end application development processes using Python. This study, which puts theoretical knowledge into practice, covers the design and deployment of artificial intelligence-based software.",
+          "meta": "Python · ★ 39,221 · +191 today",
+          "returning": true
+        },
+        {
+          "title": "elder-plinius/G0DM0D3",
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "summary": "G0DM0D3 is a liberated AI chat interface that aims to bypass the security layers of large language models. Developed with TypeScript, this open source project allows users to interact with models without restrictions.",
+          "meta": "TypeScript · ★ 9,570 · +69 today"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo is a tool that provides local-first search, data extraction and crawling capabilities for artificial intelligence coding agents. This system, which works over the model context protocol (MCP), provides free research without cloud dependency and without requiring an API key.",
+          "meta": "TypeScript · ★ 1,365 · +203 today"
+        },
+        {
+          "title": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "summary": "Developed by Moonshot AI, Kimi CLI is an artificial intelligence agent that works via a command line interface (CLI). This Python-based tool is designed to automate command line interactions in software development processes.",
+          "meta": "Python · ★ 9,577 · +65 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LG monitors silently install software through Windows Update without consent",
+          "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+          "summary": "LG monitors install software in the background via Windows Update without user approval. This brings up security and user control discussions regarding the inclusion of additional applications in the system as well as hardware drivers.",
+          "meta": "1,083 points · 549 comments"
+        },
+        {
+          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "summary": "Artificial intelligence models have solved a mathematical problem that has not been solved for thirty years in the field of convex optimization with the help of a simple command. This development demonstrates the capacity of large language models to make logical inferences from complex mathematical proofs.",
+          "meta": "541 points · 345 comments"
+        },
+        {
+          "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+          "summary": "Mayor Mamdani introduced a regulation banning landlords from secretly using AI-generated images in rental property listings. This application aims to increase visual transparency in housing advertisements and prevent digital manipulation.",
+          "meta": "396 points · 176 comments"
+        },
+        {
+          "title": "Speech Recognition and TTS in less than 500kb",
+          "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+          "summary": "The Moonshine project offers speech recognition and text-to-speech models with a size of less than 500 kilobytes. These lightweight frameworks enable native language processing capabilities on systems with limited hardware resources.",
+          "meta": "387 points · 40 comments"
+        },
+        {
+          "title": "If You Build It, They Will Come",
+          "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+          "summary": "It is argued that creating a user base in software projects is directly related to marketing and community interaction rather than the technical quality of the product. It is emphasized that developers should focus on user acquisition strategies rather than a product-oriented approach.",
+          "meta": "351 points · 126 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "BI",
+      "explanation": "It is a set of methods that enable companies to make more accurate and faster business decisions by analyzing the raw data they have."
+    },
+    {
+      "term": "UI",
+      "explanation": "Buttons, menus, and screen designs through which a user interacts with a software or device."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "The engineering of taking AI models and running them efficiently and safely in real-world applications."
+    },
+    {
+      "term": "deployment",
+      "explanation": "Transferring a prepared software or model to a live environment where users can access it."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "local-first",
+      "explanation": "A software approach that prioritizes storing and processing data directly in the device's own memory without the need for the Internet."
+    },
+    {
+      "term": "MCP",
+      "explanation": "A bridge protocol that allows AI models to connect to different data sources and tools in a standard way."
+    }
+  ]
+}

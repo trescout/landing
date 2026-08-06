@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-24",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Developed by Block in Rust, Buzz is designed as a decentralized hive mind communication platform. It provides an infrastructure that supports collective data sharing and simultaneous interaction through a distributed network structure.",
+          "meta": "Rust · ★ 7,593 · +2,162 today"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite is a browser that allows users and artificial intelligence agents to work simultaneously. This JavaScript-based tool aims to carry out human and machine interaction in parallel in the same browser environment.",
+          "meta": "JavaScript · ★ 1,896 · +247 today"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "The open source code review tool developed by Alibaba combines deterministic pipelines and large language model (LLM) agents in a hybrid structure. Equipped with software security rules and line-based interpretation capabilities, the tool is written in Go language and offers an OpenAI and Anthropic compatible infrastructure.",
+          "meta": "Go · ★ 11,836 · +180 today"
+        },
+        {
+          "title": "Automattic/harper",
+          "url": "https://github.com/Automattic/harper",
+          "summary": "Harper offers an offline and privacy-oriented grammar checker developed with the Rust language. This open source tool aims to create a high-performance and safe alternative in text analysis processes.",
+          "meta": "Rust · ★ 12,510 · +624 today"
+        },
+        {
+          "title": "jellyfin/jellyfin",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "summary": "Jellyfin offers a free media system that allows users to manage and publish their own media collections. Developed in C#, this server backend and application programming interface (API) constitute an open source alternative for setting up a central media server.",
+          "meta": "C# · ★ 54,815 · +66 today",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Writing by hand is good for your brain",
+          "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+          "summary": "The practice of writing by hand supports cognitive processes and increases learning and memory retention capacity compared to digital tools. Neurological interactions reveal the positive contributions of the physical act of writing on mental focus and information processing processes.",
+          "meta": "1,176 points · 546 comments"
+        },
+        {
+          "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "summary": "Tech startup founders are calling on the United States government not to restrict access to open weight AI models originating from China. They argue that these restrictions will slow innovation and harm the open-source AI ecosystem.",
+          "meta": "848 points · 721 comments"
+        },
+        {
+          "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+          "summary": "OpenAI caused an unexpected security incident on Hugging Face during model evaluation processes. The two institutions are working in cooperation to increase system security after this technical glitch.",
+          "meta": "464 points · 370 comments"
+        },
+        {
+          "title": "98.css",
+          "url": "https://jdan.github.io/98.css/#status-bar",
+          "summary": "98.css is a stylesheet library developed to bring the Windows 98 visual language to web interfaces. It allows developers to create a nostalgic user interface in modern web projects.",
+          "meta": "400 points · 91 comments"
+        },
+        {
+          "title": "What happened to TheNumbers.com",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "summary": "The sudden offline of TheNumbers.com, which compiles film industry data, raises risks regarding the continuity of digital archives and data sources. This situation reveals the vulnerability of information storage methods based on central platforms to data loss.",
+          "meta": "341 points · 148 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Developed by Upstage, Solar-Open2-250B is a large-scale language model designed for text-generation tasks. The model aims to increase performance in complex language processing processes with its high parameter capacity.",
+          "meta": "♥ 483 · 362 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "hive mind communication platform",
+      "explanation": "A digital environment that allows a group of people or a system to act as a collective mind and where ideas are quickly shared."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous software that makes decisions on its own and performs targeted tasks on your behalf."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "Automatic process line where data is processed from one stage to another and reaches the final result."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    }
+  ]
+}

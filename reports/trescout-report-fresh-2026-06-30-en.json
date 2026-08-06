@@ -1,0 +1,113 @@
+{
+  "date": "2026-06-30",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "logto-io/logto",
+          "url": "https://github.com/logto-io/logto",
+          "summary": "Logto offers an authentication and authorization infrastructure based on Open Authentication (OIDC) and OAuth 2.1 protocols for SaaS and artificial intelligence applications. It combines features such as multi-tenancy, single sign-on (SSO) and role-based access control (RBAC) in a structure developed with TypeScript.",
+          "meta": "TypeScript · ★ 12,903 · +158 today"
+        },
+        {
+          "title": "Unclecheng-li/VulnClaw",
+          "url": "https://github.com/Unclecheng-li/VulnClaw",
+          "summary": "VulnClaw automates penetration testing processes using AI agents and the Model Context Protocol toolchain. The tool processes natural language commands and performs end-to-end information collection, vulnerability scanning, exploitation and reporting steps.",
+          "meta": "Python · ★ 1,313 · +129 today"
+        },
+        {
+          "title": "0xNyk/council-of-high-intelligence",
+          "url": "https://github.com/0xNyk/council-of-high-intelligence",
+          "summary": "The Council of High Intelligence carries out structured decision-making processes through various expert personalities using different large language models. The system combines the perspectives of different artificial intelligence models by analyzing complex problems through multi-round discussions.",
+          "meta": "Shell · ★ 2,176 · +331 today"
+        },
+        {
+          "title": "veracrypt/VeraCrypt",
+          "url": "https://github.com/veracrypt/VeraCrypt",
+          "summary": "VeraCrypt is a disk encryption tool developed based on TrueCrypt and offers strong security standards. Written in C, this open source software uses various encryption algorithms and authentication methods to secure data.",
+          "meta": "C · ★ 10,574 · +186 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Qwen 3.6 27B is the sweet spot for local development",
+          "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+          "summary": "It is stated that the Qwen 2.5 32B model offers an ideal balance in terms of performance and resource usage in local development processes. This model is preferred for local artificial intelligence applications thanks to the efficient relationship it establishes between hardware requirements and processing capacity.",
+          "meta": "886 points · 600 comments"
+        },
+        {
+          "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+          "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+          "summary": "The thirty-year prison sentence of Daniel Sanchez Estrada for distribution of a magazine (zine) triggers legal debates within the scope of free speech. This decision risks setting a precedent for digital and print content sharing, as broadcast distribution activities face criminal sanctions.",
+          "meta": "539 points · 331 comments"
+        },
+        {
+          "title": "US Supreme Court rules geofence warrants require constitutional protections",
+          "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+          "summary": "The US Supreme Court ruled that geofencing-based search warrants require constitutional protection. This decision restricts law enforcement from collecting all user data in a certain area under digital privacy rights.",
+          "meta": "516 points · 243 comments"
+        },
+        {
+          "title": ".self: A new top-level domain designed to support self-hosting",
+          "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+          "summary": ".self top-level domain was developed to support users' self-hosting processes on their own servers. This domain extension aims to keep digital assets under personal control in a decentralized structure.",
+          "meta": "486 points · 276 comments"
+        },
+        {
+          "title": "Free the Icons",
+          "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+          "summary": "Apple is introducing new security protocols that restrict customization of app icons in the macOS operating system. Software developers argue that these restrictions limit user experience and personalization opportunities.",
+          "meta": "420 points · 114 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "Ornith-1.0-35B-GGUF, published by DeepReinforce, is a language model optimized for text generation tasks. The model is presented by compressing it with the general graphics processing unit format (GGUF) in order to use hardware resources efficiently.",
+          "meta": "♥ 492 · 123,598 downloads"
+        },
+        {
+          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+          "summary": "Qwen-AgentWorld-35B-A3B, developed by Qwen, is an artificial intelligence model focused on text generation. This model provides a customized architecture to perform agent-based tasks.",
+          "meta": "♥ 444 · 26,223 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous artificial intelligence software that can make decisions on its own and perform certain tasks."
+    },
+    {
+      "term": "local",
+      "explanation": "Running data or programs directly on your own device without the need for the Internet."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "A model of using the software by renting it over the internet instead of installing it on your computer."
+    },
+    {
+      "term": "OIDC",
+      "explanation": "Standard protocol that securely verifies your identity when logging into different sites."
+    },
+    {
+      "term": "multi-tenancy",
+      "explanation": "A single software serving many different users or companies independently of each other at the same time."
+    },
+    {
+      "term": "SSO",
+      "explanation": "Ease of logging into multiple different applications with a single username and password."
+    }
+  ]
+}

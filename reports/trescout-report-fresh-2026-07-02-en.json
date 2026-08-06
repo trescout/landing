@@ -1,0 +1,89 @@
+{
+  "date": "2026-07-02",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "summary": "Developed by AllenAI, olmocr is a toolkit that converts PDF documents into text formats suitable for large language models. This software facilitates data set preparation processes by providing linear processing of complex document structures.",
+          "meta": "Python · ★ 18,418 · +334 today"
+        },
+        {
+          "title": "togatoga/karukan",
+          "url": "https://github.com/togatoga/karukan",
+          "summary": "Developed with the Rust language, Karukan is a Japanese input method system (Japanese Input Method System) that uses a neural kana-kanji conversion engine for Linux and macOS operating systems. The software goes beyond traditional methods and offers an artificial intelligence-based approach to text conversion processes.",
+          "meta": "Rust · ★ 615 · +42 today"
+        },
+        {
+          "title": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "summary": "Developed by TencentCloud in Rust, CubeSandbox offers an instant, simultaneous and secure working environment (sandbox) for artificial intelligence agents. This tool, which stands out with its lightweight structure, enables agent-based systems to operate in an isolated area.",
+          "meta": "Rust · ★ 6,927 · +79 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "For first time, a cell built from scratch grows and divides",
+          "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+          "summary": "Synthetic cells designed from scratch successfully completed the growth and division processes in a laboratory environment for the first time. This development represents a critical stage in the effort to reconstruct the basic functioning of biological systems and understand the origins of life.",
+          "meta": "836 points · 274 comments"
+        },
+        {
+          "title": "ZCode – Harness for GLM-5.2",
+          "url": "https://zcode.z.ai/en",
+          "summary": "ZCode provides an improved testing and evaluation framework for GLM-5.2 language models. This tool is used to measure the performance of large language models and standardize development processes.",
+          "meta": "354 points · 280 comments"
+        },
+        {
+          "title": "FFmpeg 9.1's new AAC encoder",
+          "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+          "summary": "FFmpeg version 9.1 includes a new advanced audio encoder (AAC encoder) that improves audio encoding quality. This update provides higher audio fidelity and efficient compression performance, especially at low bit rates.",
+          "meta": "352 points · 109 comments"
+        },
+        {
+          "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+          "url": "https://www.workerowned.info/",
+          "summary": "Listing more than 22 thousand products produced by worker-owned co-ops, the directory allows users to reach these businesses directly. The platform offers an alternative marketplace experience by increasing the discoverability of cooperative-focused products.",
+          "meta": "327 points · 65 comments"
+        },
+        {
+          "title": "What to learn to be a graphics programmer",
+          "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+          "summary": "For those who want to become a graphics programmer, core competencies such as mathematical foundations, hardware architecture and graphics application interfaces (graphics APIs) stand out. This roadmap offers a comprehensive learning curve for those who want to learn low-level systems programming and visualization techniques.",
+          "meta": "313 points · 162 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "summary": "Ornith-1.0-9B-GGUF, developed by DeepReinforce-AI, is a language model focused on text generation. The model is presented in compressed GGUF format in order to use hardware resources efficiently.",
+          "meta": "♥ 375 · 191,409 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "neural kana-kanji conversion engine",
+      "explanation": "An artificial intelligence-based software engine that converts phonetic characters in the Japanese writing system into meaningful symbols."
+    },
+    {
+      "term": "Japanese Input Method System",
+      "explanation": "Input tool that allows writing Japanese characters via the keyboard."
+    }
+  ]
+}

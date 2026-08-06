@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-09",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory offers a completely local long-term memory solution for artificial intelligence agents with a four-stage process. It performs data storage and recall operations without the need for external application programming interfaces (APIs).",
+          "meta": "TypeScript · ★ 7,846 · +318 today"
+        },
+        {
+          "title": "prisma/prisma",
+          "url": "https://github.com/prisma/prisma",
+          "summary": "Prisma is an object relational mapper (ORM) tool that simplifies database interactions for Node.js and TypeScript projects. Its structure, which supports different database systems, allows developers to create type-safe database queries.",
+          "meta": "TypeScript · ★ 46,668 · +46 today"
+        },
+        {
+          "title": "argoproj/argo-cd",
+          "url": "https://github.com/argoproj/argo-cd",
+          "summary": "Argo CD is a tool that manages declarative continuous deployment processes for Kubernetes environments. It provides automatic updates on the infrastructure by synchronizing application states with Git repositories.",
+          "meta": "Go · ★ 23,488 · +29 today"
+        },
+        {
+          "title": "Diolinux/PhotoGIMP",
+          "url": "https://github.com/Diolinux/PhotoGIMP",
+          "summary": "PhotoGIMP offers a patch that makes the GIMP interface look familiar to Photoshop users. This tool adapts shortcuts and menu layouts to Photoshop standards to ease the transition to image editing software.",
+          "meta": "CSS · ★ 15,195 · +1,125 today"
+        },
+        {
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "summary": "DesktopCommanderMCP is a Model Context Protocol server developed for Claude that provides terminal control, file system search and difference-based file editing capabilities to the artificial intelligence model. Written in TypeScript, this tool allows artificial intelligence to perform direct operations on local file systems.",
+          "meta": "TypeScript · ★ 6,436 · +28 today"
+        },
+        {
+          "title": "huxingyi/autoremesher",
+          "url": "https://github.com/huxingyi/autoremesher",
+          "summary": "Autoremesher is a tool that automatically converts irregular surface structures in three-dimensional models into quad remeshing. Developed in C++ language, this software is optimized to make complex geometries suitable for animation and modeling processes.",
+          "meta": "C++ · ★ 2,123 · +296 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+          "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+          "summary": "The obfuscated bash script on a T-shirt sold in Uniqlo stores was analyzed by technical enthusiasts and the functioning of the commands in it was revealed. The script in question, with its self-evaluating structure, provides an example of unexpected digital coding on retail products.",
+          "meta": "1,361 points · 213 comments"
+        },
+        {
+          "title": "Chatto is now open source",
+          "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+          "summary": "Chatto is an open source library that allows developers to integrate chat interfaces into their applications. With its component-based structure, it makes it easier to manage user interactions and customize messaging flows.",
+          "meta": "928 points · 241 comments"
+        },
+        {
+          "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+          "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+          "summary": "John Deere grants agricultural equipment owners the right to repair within the scope of the agreement with the Federal Trade Commission (FTC). This arrangement provides users with access to software tools and technical documentation that allow them to repair their equipment outside authorized services.",
+          "meta": "696 points · 131 comments"
+        },
+        {
+          "title": "GPT‑Live",
+          "url": "https://openai.com/index/introducing-gpt-live/",
+          "summary": "GPT-Live, introduced by OpenAI, allows users to establish real-time voice interaction with artificial intelligence models. This feature aims for a natural and uninterrupted dialogue experience thanks to low-latency speech capabilities.",
+          "meta": "685 points · 447 comments"
+        },
+        {
+          "title": "Grok 4.5",
+          "url": "https://x.ai/news/grok-4-5",
+          "summary": "Grok 4.5, developed by xAI, attracts attention with its multimodal capabilities and advanced reasoning skills. The model aims to provide high performance in code writing and analysis processes by integrating into software development tools such as Cursor.",
+          "meta": "590 points · 801 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "long-term memory",
+      "explanation": "Artificial intelligence can store past information for a long time without forgetting it and use it when needed."
+    },
+    {
+      "term": "API",
+      "explanation": "A bridge that allows two different software to talk to each other and exchange data."
+    },
+    {
+      "term": "ORM",
+      "explanation": "A tool that transforms complex tables in the database into objects that software developers can understand more easily."
+    },
+    {
+      "term": "type-safe",
+      "explanation": "A structure that catches errors before they occur by preventing the wrong type of data from being used in the software."
+    },
+    {
+      "term": "declarative continuous deployment",
+      "explanation": "Defining how the system will look and rolling out updates automatically and error-free."
+    },
+    {
+      "term": "patch",
+      "explanation": "A small update file added later to fix a bug or improve performance in a software."
+    }
+  ]
+}

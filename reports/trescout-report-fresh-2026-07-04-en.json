@@ -1,0 +1,108 @@
+{
+  "date": "2026-07-04",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "summary": "Developed with Java, Elasticsearch is a distributed and open source search engine that allows fast search and analysis on large data sets. Thanks to its RESTful architecture, it supports real-time indexing and querying of data.",
+          "meta": "Java · ★ 77,374 · +91 today"
+        },
+        {
+          "title": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "summary": "Ansible is an information technologies automation platform that automates application deployment and system management processes. It performs configuration operations in a simple language via SSH protocol, without the need to install any middleware on remote systems.",
+          "meta": "Python · ★ 69,245 · +65 today"
+        },
+        {
+          "title": "rommapp/romm",
+          "url": "https://github.com/rommapp/romm",
+          "summary": "Romm is a game library manager designed to organize game files (ROM) and play directly through the browser, which you can host on your own server. Developed with Python language, this tool offers the opportunity to manage and play game collections with a visual interface.",
+          "meta": "Python · ★ 9,887 · +239 today"
+        },
+        {
+          "title": "apache/maven",
+          "url": "https://github.com/apache/maven",
+          "summary": "Apache Maven is a project management and understanding tool (build automation tool) that manages software creation processes in Java-based projects. It uses the project object model structure to standardize the software development lifecycle.",
+          "meta": "Java · ★ 5,250 · +58 today"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code is an agent-based coding tool that runs on the terminal and automates routine tasks by analyzing the code base with natural language commands. It aims to increase developer productivity by managing code annotation and version control (git workflow) processes in software development processes.",
+          "meta": "Python · ★ 135,933 · +221 today",
+          "returning": true
+        },
+        {
+          "title": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "summary": "Supabase is a development platform that offers Postgres database infrastructure to develop web, mobile and artificial intelligence applications. With its open source structure, it provides database management and backend services required to accelerate application development processes.",
+          "meta": "TypeScript · ★ 105,582 · +169 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Costco is the anti-Amazon",
+          "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+          "summary": "Costco is positioned against Amazon's sell-everything strategy with its limited product assortment and subscription-based revenue model. The retail giant differentiates itself from traditional e-commerce models with its low profit margins and operational efficiency-focused approach.",
+          "meta": "380 points · 359 comments"
+        },
+        {
+          "title": "Espionage Against the European Parliament",
+          "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+          "summary": "It was determined that a committee member examining spyware activities within the European Parliament was targeted with spyware called Pegasus. Research conducted by Citizen Lab reveals that cyber espionage risks to the digital security of parliamentarians continue.",
+          "meta": "326 points · 78 comments"
+        },
+        {
+          "title": "Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "summary": "The guide by Jamesob details the software and hardware requirements needed to run state-of-the-art large language models (SOTA LLMs) on native hardware. It brings together technical methods that enable users to install and optimize high-performance models in their own systems.",
+          "meta": "320 points · 145 comments"
+        },
+        {
+          "title": "Factories are just rooms",
+          "url": "https://interconnected.org/home/2026/07/03/factories",
+          "summary": "It is argued that production facilities have become software-based data centers rather than physical infrastructure. With the digitalization of physical production processes, factories are being redefined as programmable areas with high processing power.",
+          "meta": "225 points · 90 comments"
+        },
+        {
+          "title": "Performance per dollar is getting faster and cheaper",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "summary": "Performance per dollar efficiency in artificial intelligence hardware is increasing rapidly with developments in processor architectures. This trend reduces computing power costs, making the training and inference processes of large language models more accessible.",
+          "meta": "200 points · 61 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "summary": "DeepSeek-V4-Pro-DSpark is an artificial intelligence model optimized for text generation tasks. This model, available on the HuggingFace platform, is designed to be used in large-scale language processing processes.",
+          "meta": "♥ 350 · 9,388 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "distributed",
+      "explanation": "Performing a transaction by sharing it across multiple devices connected to the network instead of a single computer."
+    },
+    {
+      "term": "agent",
+      "explanation": "An intelligent software unit that can make decisions on its own and use tools to perform the targeted task."
+    },
+    {
+      "term": "ROM",
+      "explanation": "A type of read-only permanent memory that does not delete the information inside even when the computer is turned off."
+    }
+  ]
+}

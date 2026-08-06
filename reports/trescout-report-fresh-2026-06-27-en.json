@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-27",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "summary": "SimpleX offers a privacy-oriented communication infrastructure as the first messaging network that operates without using user identifiers. The platform, developed in Haskell language, aims to keep user data completely anonymous thanks to its decentralized structure.",
+          "meta": "Haskell · ★ 12,874 · +432 today"
+        },
+        {
+          "title": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "summary": "Developed by Comma AI, openpilot is an open source operating system designed for robotic systems. The software provides autonomous driving capabilities by upgrading the driver assistance system in more than 300 vehicle models.",
+          "meta": "Python · ★ 61,864 · +80 today"
+        },
+        {
+          "title": "grafana/grafana",
+          "url": "https://github.com/grafana/grafana",
+          "summary": "Grafana is an open source observability and data visualization platform that combines metrics, logs, and traces from different data sources in a single interface. It allows analysis of complex data sets by integrating with many systems such as Prometheus, Elasticsearch and PostgreSQL.",
+          "meta": "TypeScript · ★ 74,994 · +32 today"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev is a resource list that brings together the free tiers of software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS) solutions used in software development processes. It aims to make it easier for developers and infrastructure engineers to access cost-free tools.",
+          "meta": "HTML · ★ 123,834 · +90 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+          "summary": "The United States government will have the authority to monitor users who will access the next generation artificial intelligence models developed by OpenAI. This application highlights national security and risk management criteria in the use of high-capacity models.",
+          "meta": "955 points · 1,018 comments"
+        },
+        {
+          "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+          "summary": "OpenAI shared the system board and preview details for the next generation language model GPT-5.6 Sol. The published technical documents focus on the model's security protocols and improved reasoning capabilities.",
+          "meta": "940 points · 579 comments"
+        },
+        {
+          "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+          "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+          "summary": "The United States government has approved the Mythos artificial intelligence model developed by Anthropic for use by certain trusted organizations. This development represents the opening of high-capacity artificial intelligence models to controlled access within the framework of national security and control.",
+          "meta": "356 points · 355 comments"
+        },
+        {
+          "title": "We can still stop California's 3D printer surveillance scheme",
+          "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+          "summary": "The bill, which came to the fore in the state of California, aims to force 3D printer manufacturers to integrate surveillance technologies that can track users into the devices. The Electronic Frontier Foundation opposes the bill, arguing that this regulation would restrict personal freedom of production and violate privacy rights.",
+          "meta": "343 points · 117 comments"
+        },
+        {
+          "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+          "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+          "summary": "AWS Lambda introduces micro virtual machines (microVMs) technology to create isolated sandboxes. This approach improves security and resource management processes by giving developers full lifecycle control.",
+          "meta": "314 points · 175 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "user identifiers",
+      "explanation": "Unique identification numbers or usernames used to distinguish a person from others in a digital system."
+    },
+    {
+      "term": "driver assistance system",
+      "explanation": "Intelligent assistive technologies that warn the driver or automatically control the vehicle to increase safety while driving."
+    },
+    {
+      "term": "logs",
+      "explanation": "Logs in which the operations performed by a software in the background and the errors it encounters are recorded with timestamps."
+    },
+    {
+      "term": "traces",
+      "explanation": "The step-by-step recording of the path a process follows as it moves through different stages within the system."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "A model of using the software by renting it over the internet via a browser, rather than installing it on your computer."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Providing the necessary infrastructure over the internet for software developers to develop and publish their own applications."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Renting basic hardware resources such as virtual servers and storage space over the internet."
+    }
+  ]
+}

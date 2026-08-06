@@ -1,0 +1,111 @@
+{
+  "date": "2026-06-16",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "summary": "Developed for Tesla vehicle owners, Teslamate is a data logger application that allows you to host data on your own server. This open source tool, written in Elixir language, visualizes and presents detailed statistics such as driving history and charging data to the user.",
+          "meta": "Elixir · ★ 8,326 · +33 today"
+        },
+        {
+          "title": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "summary": "Hello 算法 is an open source educational platform that teaches data structures and algorithms with animated visualizations. The project standardizes the learning process by offering support for numerous programming languages ​​and one-click executable code examples.",
+          "meta": "Java · ★ 127,220 · +71 today"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "CUA provides an open source infrastructure for computer-capable artificial intelligence agents. It brings together sandbox, software development kit (SDK) and benchmark tools under one roof for the purpose of training and evaluating agents that can control desktop operating systems.",
+          "meta": "HTML · ★ 18,298 · +70 today"
+        },
+        {
+          "title": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "summary": "Win11Debloat is a PowerShell script that allows removing pre-installed apps and disabling telemetry data on Windows 10 and 11 operating systems. It allows users to customize their systems and perform system debloat by removing unnecessary components.",
+          "meta": "PowerShell · ★ 48,210 · +112 today"
+        },
+        {
+          "title": "mikeroyal/Self-Hosting-Guide",
+          "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+          "summary": "The Self-Hosting Guide offers a comprehensive guide to hosting and managing software applications on local networks or dedicated web servers. It provides technical resources on topics such as cloud computing, large language models, automation and network configuration.",
+          "meta": "Dockerfile · ★ 21,324 · +188 today"
+        },
+        {
+          "title": "itsfatduck/optimizerDuck",
+          "url": "https://github.com/itsfatduck/optimizerDuck",
+          "summary": "Developed in C# language, optimizerDuck is an open source tool that offers performance increase and privacy-oriented configurations on Windows operating systems. This software, which allows users to simplify system settings, collects Windows optimization processes in a single interface.",
+          "meta": "C# · ★ 3,900 · +340 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Iroh 1.0",
+          "url": "https://www.iroh.computer/blog/v1",
+          "summary": "Iroh 1.0 introduces a peer-to-peer network protocol that enables secure and fast transfer of data between devices. It allows developers to develop applications that can share data on local networks or over the internet without dealing with complex network configurations.",
+          "meta": "1,163 points · 352 comments"
+        },
+        {
+          "title": "A backdoor in a LinkedIn job offer",
+          "url": "https://roman.pt/posts/linkedin-backdoor/",
+          "summary": "Fake job offers sent via LinkedIn are used as a backdoor method to infect candidates' computers with malware. Attackers gain unauthorized access to systems with files they send under the guise of the recruitment process.",
+          "meta": "1,135 points · 209 comments"
+        },
+        {
+          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+          "url": "https://news.ycombinator.com/item?id=48542100",
+          "summary": "Software developers are considering the trend of using local language models instead of cloud-based models as the main tool in their daily coding processes. Users share their hardware installations and token per second performance during this transition process.",
+          "meta": "962 points · 431 comments"
+        },
+        {
+          "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+          "url": "https://tinywind.io",
+          "summary": "TinyWind is a browser-based pixel art hacking game based on realistic wind physics simulation. Players experience navigation on the high seas by managing the ship in dynamic weather conditions.",
+          "meta": "818 points · 154 comments"
+        },
+        {
+          "title": "Hetzner Price Adjustment",
+          "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+          "summary": "Hetzner is standardizing the pricing structure of cloud server services and updating some packages. The company rebalances its service costs with this price regulation in line with energy costs and infrastructure investments.",
+          "meta": "428 points · 585 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF, shared on HuggingFace, is a language model focused on text-generation. The model is presented in quantization format so that it can be run on low-resource devices.",
+          "meta": "♥ 846 · 60,921 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "data logger",
+      "explanation": "An electronic device that records and stores information from sensors at regular intervals."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Isolated work area where new software can be tested safely without damaging the main system."
+    },
+    {
+      "term": "SDK",
+      "explanation": "A set of tools that makes it easier for software developers to develop applications for a specific platform or device."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "A method of measuring the performance of a device or software with standard tests and comparing it with others."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "date": "2026-07-28",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "summary": "GeoLibre is a lightweight, cloud-based geographic information system (GIS) platform designed to visualize, explore, and analyze geographic data. Developed with TypeScript, this tool can run on web browsers, desktop, mobile devices and Jupyter notebooks.",
+          "meta": "TypeScript · ★ 2,891 · +420 today"
+        },
+        {
+          "title": "vudovn/ag-kit",
+          "url": "https://github.com/vudovn/ag-kit",
+          "summary": "Ag-kit is a development library that provides the necessary tools and structures to create autonomous artificial intelligence agents (AI agents) in TypeScript-based projects. It allows developers to quickly design agent systems that can manage complex workflows.",
+          "meta": "TypeScript · ★ 8,020 · +14 today"
+        },
+        {
+          "title": "apache/cassandra",
+          "url": "https://github.com/apache/cassandra",
+          "summary": "Apache Cassandra is an open-source, distributed transactional database that provides linear scalability and fault-tolerance without causing performance loss on standard hardware or cloud infrastructures. This system, developed in Java language, is designed for large-scale data management processes that require high availability.",
+          "meta": "Java · ★ 10,004 · +11 today"
+        },
+        {
+          "title": "ocornut/imgui",
+          "url": "https://github.com/ocornut/imgui",
+          "summary": "Dear ImGui is a lightweight graphical user interface library for C++ projects that works with minimal dependencies. It allows software developers to create a simple interface in rapid prototyping and tool development processes.",
+          "meta": "C++ · ★ 75,256 · +51 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Our position on open-weights models",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "summary": "Anthropic takes a cautious approach to open-weights models, citing the security risks and abuse potential of these models. The company argues that a balance should be struck between transparency and security in the development of artificial intelligence systems.",
+          "meta": "721 points · 1,019 comments"
+        },
+        {
+          "title": "Benchmarking Opus 5 on SlopCodeBench",
+          "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+          "summary": "SlopCodeBench is a benchmarking tool developed to measure the performance of coding-focused artificial intelligence agents against complex and low-quality data sets. This test evaluates the models' ability to extract noisy data and context management that they encounter during the code generation process.",
+          "meta": "223 points · 52 comments"
+        },
+        {
+          "title": "Using an open model feels surprisingly good",
+          "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+          "summary": "Running open source language models on local systems is preferred due to the advantages of data confidentiality and full control over the model. Users highlight the flexibility offered by these models in terms of performance and customizability, which reduces dependence on closed source systems.",
+          "meta": "201 points · 66 comments"
+        },
+        {
+          "title": "Watching Go's new garbage collector move through the heap",
+          "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+          "summary": "The Go programming language aims for lower latency in memory management processes with its new garbage collector mechanism. This update improves system performance by optimizing object scanning operations on the heap.",
+          "meta": "196 points · 20 comments"
+        },
+        {
+          "title": "The computer that helped win World War II",
+          "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+          "summary": "The Colossus computer, developed to crack German passwords during World War II, was registered as a historical milestone by IEEE. This system is the first programmable digital electronic computer and forms the basis of modern information technologies.",
+          "meta": "193 points · 76 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, developed by Moonshot AI, is a multimodal artificial intelligence model that produces text output by processing visual and textual data. The model is designed to perform complex image analyzes and text-based tasks in an integrated structure.",
+          "meta": "♥ 6,868 · 2,850 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "GIS",
+      "explanation": "A digital system that collects, analyzes and visualizes geographical data on the world on a map."
+    },
+    {
+      "term": "Jupyter notebooks",
+      "explanation": "An interactive working environment that allows you to see explanatory texts and results side by side while writing code."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous artificial intelligence software that can make decisions on its own and perform targeted tasks."
+    },
+    {
+      "term": "agentic systems",
+      "explanation": "Systems in which multiple artificial intelligence units cooperate with each other to solve complex problems."
+    },
+    {
+      "term": "linear scalability",
+      "explanation": "As the amount of resources added to the system increases, the performance increases at the same rate."
+    }
+  ]
+}

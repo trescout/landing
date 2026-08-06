@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-10",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "SmartlyDressedGames/U3-SDK",
+          "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+          "summary": "SmartlyDressedGames shared the U3-SDK software development kit developed for the open world zombie survival game Unturned as open source. These source codes, prepared in C# language, allow community members to customize and develop the game.",
+          "meta": "C# · ★ 2,182 · +524 today"
+        },
+        {
+          "title": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "summary": "Awesome-design-md is a collection of design documents (DESIGN.md) from popular brand design systems. Using these documents, software agents can create user interfaces (UIs) suitable for projects.",
+          "meta": "★ 100,194 · +1,391 today"
+        },
+        {
+          "title": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "summary": "Claude cookbooks shared by Anthropics provide practical code examples and Jupyter notebooks for using Claude models. This resource provides a variety of workflow templates to help developers speed up Claude integration into AI applications.",
+          "meta": "Jupyter Notebook · ★ 47,306 · +194 today"
+        },
+        {
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "summary": "Developed with the Go language, Pentagi offers a system of fully autonomous artificial intelligence agents (AI agents) that can perform complex penetration testing. The system aims to standardize autonomous workflows to detect and exploit vulnerabilities.",
+          "meta": "Go · ★ 19,634 · +535 today"
+        },
+        {
+          "title": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "summary": "Crawl4AI is an open source web crawler and data scraper optimized for large language models. The Python-based tool converts unstructured web data into formats directly usable in AI applications.",
+          "meta": "Python · ★ 72,019 · +215 today",
+          "returning": true
+        },
+        {
+          "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+          "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+          "summary": "This guide on Linux server security brings together the basic configuration steps that must be followed to protect systems against external threats. The constantly updated content offers a practical guide to the best methods that can be applied in server hardening processes.",
+          "meta": "★ 29,237 · +243 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "EU Parliament greenlights Chat Control 1.0",
+          "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+          "summary": "The European Parliament has approved the regulation that aims to scan end-to-end encryption systems in order to detect child abuse materials on digital communication platforms. The decision in question brought about discussions about the confidentiality of private correspondence and the implementation of control mechanisms over security protocols.",
+          "meta": "1,276 points · 605 comments"
+        },
+        {
+          "title": "GPT-5.6",
+          "url": "https://openai.com/index/gpt-5-6/",
+          "summary": "OpenAI announced GPT-5.6, which focuses on security and performance improvements in large language models. The new model is available via API with improved reasoning capabilities and updated security protocols.",
+          "meta": "1,213 points · 858 comments"
+        },
+        {
+          "title": "Show HN: 18 Words",
+          "url": "https://18words.com/",
+          "summary": "18 Words is a word memorization platform that teaches users just eighteen words every day to improve their daily vocabulary. The interface offers a minimalist design free of distractions to simplify the learning process.",
+          "meta": "954 points · 312 comments"
+        },
+        {
+          "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+          "url": "https://github.com/malisper/pgrust",
+          "summary": "The version of the PostgreSQL database management system, rewritten with the Rust programming language, successfully completes all regression tests. This project brings the database architecture to the Rust ecosystem to increase memory security and take advantage of modern language features.",
+          "meta": "599 points · 501 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "software development kit",
+      "explanation": "A set of tools, libraries and documents used to develop software for a specific platform."
+    },
+    {
+      "term": "DESIGN.md",
+      "explanation": "An information file explaining how a project was designed and what architectural decisions were made."
+    },
+    {
+      "term": "UI",
+      "explanation": "All visual elements with which a user interacts with an application or website."
+    },
+    {
+      "term": "cookbooks",
+      "explanation": "Guides that offer practical and ready-made solutions to problems encountered when using a certain technology."
+    },
+    {
+      "term": "notebooks",
+      "explanation": "Interactive work environments where codes, explanations and results can be seen together on the same page."
+    },
+    {
+      "term": "penetration testing",
+      "explanation": "It is the process of testing the attacks that malicious people can make in a controlled manner in order to test the security of a system."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous artificial intelligence software that can make decisions on its own and perform targeted tasks."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "Linux server security",
+      "explanation": "Work to protect open source server systems against cyber attacks and unauthorized access."
+    },
+    {
+      "term": "server hardening",
+      "explanation": "The process of reducing the risk of attack by turning off unnecessary features and tightening security settings on a server."
+    }
+  ]
+}

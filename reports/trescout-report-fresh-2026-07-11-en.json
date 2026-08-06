@@ -1,0 +1,170 @@
+{
+  "date": "2026-07-11",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "summary": "Bun is a high-performance tool that combines the JavaScript runtime, package manager, test runner and packager under one roof. Developed with the Rust language, this platform offers an integrated infrastructure to accelerate software development processes.",
+          "meta": "Rust · ★ 94,374 · +209 today"
+        },
+        {
+          "title": "abseil/abseil-cpp",
+          "url": "https://github.com/abseil/abseil-cpp",
+          "summary": "Developed by Google, Abseil offers open source code snippets that complement the C++ standard library. This library provides basic data structures and algorithms to improve code maintainability and performance in complex software projects.",
+          "meta": "C++ · ★ 17,545 · +89 today"
+        },
+        {
+          "title": "jbeder/yaml-cpp",
+          "url": "https://github.com/jbeder/yaml-cpp",
+          "summary": "yaml-cpp is a library for the C++ programming language that parses and emitters data in YAML format. It allows software developers to manage configuration files and perform data serialization operations.",
+          "meta": "C++ · ★ 6,101 · +69 today"
+        },
+        {
+          "title": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "summary": "TypeScript, a superset of the JavaScript language, allows error checking during the compilation phase of the code. It supports more reliable and scalable software development processes with its static typing feature.",
+          "meta": "TypeScript · ★ 109,817 · +177 today"
+        },
+        {
+          "title": "catchorg/Catch2",
+          "url": "https://github.com/catchorg/Catch2",
+          "summary": "Catch2 is a modern unit testing framework that supports C++14 and later. It is designed to support test-driven development (TDD) and behavior-driven development (BDD) practices in software development processes.",
+          "meta": "C++ · ★ 20,636 · +76 today"
+        },
+        {
+          "title": "chriskohlhoff/asio",
+          "url": "https://github.com/chriskohlhoff/asio",
+          "summary": "Asio is a C++ library developed for asynchronous I/O operations. It provides a portable gateway (network abstraction) for network programming and low-level system tasks.",
+          "meta": "C++ · ★ 6,090 · +92 today"
+        },
+        {
+          "title": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "summary": "Claude Code templates provide a command line interface (CLI) for the Claude Code tool that simplifies configuration and monitoring. This Python-based tool standardizes developers' control over the coding assistant and workflow management.",
+          "meta": "Python · ★ 28,812 · +118 today"
+        },
+        {
+          "title": "zeux/meshoptimizer",
+          "url": "https://github.com/zeux/meshoptimizer",
+          "summary": "The Meshoptimizer library optimizes three-dimensional mesh data, reducing file sizes and increasing rendering performance. Developed in C++, this tool organizes geometric data to improve memory usage in graphics applications.",
+          "meta": "C++ · ★ 8,045 · +91 today"
+        },
+        {
+          "title": "tailscale/tailscale",
+          "url": "https://github.com/tailscale/tailscale",
+          "summary": "Tailscale makes it easier to establish secure network connections by combining the WireGuard protocol with two-factor authentication. Developed with the Go language, this tool provides encrypted communication between devices without the need for complex network configurations.",
+          "meta": "Go · ★ 33,734 · +143 today"
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "Developed by Google Labs, Stitch Skills is an agent skills library designed to work with the Stitch MCP server. Following open standards, this library aims to standardize workflows for coding agents such as Gemini CLI and Cursor.",
+          "meta": "TypeScript · ★ 6,814 · +117 today"
+        },
+        {
+          "title": "hashicorp/terraform",
+          "url": "https://github.com/hashicorp/terraform",
+          "summary": "Developed by HashiCorp, Terraform defines infrastructure as code, allowing it to be created in a safe and predictable manner. Written in the Go language, this tool converts application programming interfaces (APIs) into declarative configuration files, allowing teams to manage infrastructure processes under version control.",
+          "meta": "Go · ★ 49,219 · +172 today"
+        },
+        {
+          "title": "grpc/grpc",
+          "url": "https://github.com/grpc/grpc",
+          "summary": "gRPC is an open source remote procedure call framework that provides high-performance communication between different programming languages. Thanks to its C++-based infrastructure, it allows the development of scalable network services for languages ​​such as Python, Ruby, C# and PHP.",
+          "meta": "C++ · ★ 45,162 · +78 today"
+        },
+        {
+          "title": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "summary": "Next.js is a framework used to develop React-based web applications and provides features such as server-side rendering and static site generation. It is becoming a common choice among developers as it offers performance-oriented optimizations and scalable infrastructure solutions in modern web projects.",
+          "meta": "JavaScript · ★ 140,777 · +191 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+          "summary": "Apple filed a lawsuit alleging that its former employees stole trade secrets within the company and shared them with OpenAI. The legal process in question brought about discussions about the protection of intellectual property rights in artificial intelligence development processes.",
+          "meta": "852 points · 423 comments"
+        },
+        {
+          "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+          "url": "https://github.com/JustVugg/colibri",
+          "summary": "The Colibri project optimizes the GLM 5.2 model so that large language models can be run on low-end computers. This work enables the efficient use of high-performance artificial intelligence models in local systems.",
+          "meta": "843 points · 208 comments"
+        },
+        {
+          "title": "QuadRF can spot drones and see WiFi through my wall",
+          "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+          "summary": "QuadRF can detect wireless network signals and unmanned aerial vehicles (drones) behind walls using radio frequency sensing technology. The device offers a tracking system that visualizes mobility beyond physical barriers by analyzing electromagnetic waves in the environment.",
+          "meta": "523 points · 184 comments"
+        },
+        {
+          "title": "New York City to ban deceptive subscription practices",
+          "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+          "summary": "New York City is enacting new regulations banning subscription cancellation processes and auto-renewal practices that mislead consumers. This legal step requires cancellation procedures to be as easy and transparent as the membership initiation process.",
+          "meta": "487 points · 238 comments"
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "summary": "The GPT-5.6 Sol Ultra model announced that it proved the Cycle Double Cover Conjecture, which has not been solved for a long time in the mathematical world. This study demonstrates the competence of large language models in complex mathematical proof processes.",
+          "meta": "412 points · 322 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "runtime",
+      "explanation": "The moment when a written program is run on the computer and the infrastructure that manages this process."
+    },
+    {
+      "term": "code snippets",
+      "explanation": "Small, functional pieces of code that are pre-made to be used within a larger project."
+    },
+    {
+      "term": "parser",
+      "explanation": "A tool that divides complex data written in a way that the computer can understand into small pieces that the program can process."
+    },
+    {
+      "term": "emitter",
+      "explanation": "A mechanism that converts processed data or code into an output format that another program can use."
+    },
+    {
+      "term": "serialization",
+      "explanation": "The process of converting complex data structures into a plain text string suitable for saving to a file or sent over the internet."
+    },
+    {
+      "term": "skills",
+      "explanation": "Technical or practical abilities to do a job to a certain standard and efficiency."
+    },
+    {
+      "term": "superset",
+      "explanation": "A more comprehensive structure that covers all the features of an existing system and adds new capabilities."
+    },
+    {
+      "term": "static typing",
+      "explanation": "The rule that the types of data in the program are precisely determined at the writing stage before the code is run."
+    },
+    {
+      "term": "unit testing",
+      "explanation": "Automated testing process that checks whether the smallest parts of the software work as expected."
+    },
+    {
+      "term": "TDD",
+      "explanation": "A development method based on first preparing the test of the code to be written and then writing enough code to pass this test."
+    }
+  ]
+}

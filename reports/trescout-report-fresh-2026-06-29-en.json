@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-29",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "Lingbot-map is a feed-forward 3D foundation model designed to reconstruct scenes from streaming data. The project optimizes visualization processes by processing complex environmental data, thanks to its architecture developed in Python language.",
+          "meta": "Python · ★ 8,439 · +372 today"
+        },
+        {
+          "title": "cupy/cupy",
+          "url": "https://github.com/cupy/cupy",
+          "summary": "CuPy combines the numerical computing library NumPy and SciPy interfaces with graphics processing unit (GPU) acceleration. This Python-based library accelerates complex mathematical operations using CUDA cores.",
+          "meta": "Python · ★ 11,639 · +174 today"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice is a fast voice to text application that works completely offline on the macOS operating system. Developed in Swift, this tool processes data locally and offers a privacy-focused audio conversion experience.",
+          "meta": "Swift · ★ 3,995 · +365 today"
+        },
+        {
+          "title": "ByteByteGoHq/system-design-101",
+          "url": "https://github.com/ByteByteGoHq/system-design-101",
+          "summary": "The system-design-101 repository by ByteByteGoHq explains complex system architectures with visualizations and plain language. It offers a resource that takes system design concepts from basic to advanced for those preparing for software engineering interviews.",
+          "meta": "★ 84,839 · +250 today"
+        },
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix is ​​an open source artificial intelligence-based security tool (AI security tool) designed to detect and fix security vulnerabilities in applications. This system, developed with Python language, automates vulnerability scanning and correction processes in software development processes.",
+          "meta": "Python · ★ 27,035 · +122 today"
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "The video-use library allows coding agents to automate video editing processes. This Python-based tool speeds up workflows by performing visual editing tasks through software commands.",
+          "meta": "Python · ★ 11,471 · +196 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GLM 5.2 beats Claude in our benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+          "summary": "Test results shared by Semgrep show that the GLM 5.2 model outperforms Claude models in cybersecurity-focused benchmarks. The model exhibits high performance in code analysis and security vulnerability detection processes.",
+          "meta": "810 points · 378 comments"
+        },
+        {
+          "title": "The KIDS Act would require age checks to get online",
+          "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+          "summary": "The Protecting Children's Internet Safety (KIDS) Act plans to introduce mandatory age verification systems for access to online platforms. This regulation brings into question anonymity and data privacy on the internet by requiring users to prove their digital identities.",
+          "meta": "469 points · 368 comments"
+        },
+        {
+          "title": "I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "summary": "Users use the command-line interface (CLI)-based coding assistant Claude Code tool to analyze medical imaging (MRI) results. This method popularizes the practice of getting a second opinion supported by artificial intelligence during the processing and interpretation of image data.",
+          "meta": "425 points · 556 comments"
+        },
+        {
+          "title": "Age verification is just a precursor to automated attribution of speech",
+          "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+          "summary": "Age verification processes implemented on digital platforms constitute the first stage of the transition to automatic attribution systems that enable the association of content on the internet with identity. This technical infrastructure brings about discussions about how the concepts of online freedom of expression and anonymity will be shaped by future legal regulations.",
+          "meta": "409 points · 220 comments"
+        },
+        {
+          "title": "Professor denounces mass AI fraud on an exam at Brown",
+          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+          "summary": "A professor at Brown University draws attention to academic integrity violations caused by the mass use of generative AI in exams. This situation necessitates educational institutions to reconsider their evaluation methods against AI-assisted cheating.",
+          "meta": "396 points · 525 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "GPU",
+      "explanation": "A special computer processor that can perform intensive mathematical operations such as image processing and artificial intelligence calculations very quickly."
+    },
+    {
+      "term": "voice to text",
+      "explanation": "Technology that detects the words you say and converts them into written text in a digital environment."
+    },
+    {
+      "term": "system design",
+      "explanation": "The process of planning how large-scale software will work, how the parts will communicate with each other, and how the data will be stored."
+    },
+    {
+      "term": "AI security tool",
+      "explanation": "Software that protects artificial intelligence systems against external attacks, incorrect data entry or malicious use."
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "date": "2026-08-03",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach is a command line interface (CLI) that gives artificial intelligence agents the ability to search and read content on popular platforms on the internet. It offers users the opportunity to extract data from platforms such as Twitter, Reddit and GitHub without paying any application programming interface (API) fees.",
+          "meta": "Python · ★ 65,059 · +659 today",
+          "returning": true
+        },
+        {
+          "title": "HarbourMasters/Lighthouse",
+          "url": "https://github.com/HarbourMasters/Lighthouse",
+          "summary": "Lighthouse is a code coverage tool developed in C language and designed for low-level systems. It provides data to developers for debugging and performance optimization by analyzing which code blocks are run during the software's testing processes.",
+          "meta": "C · ★ 259 · +65 today"
+        },
+        {
+          "title": "antirez/ds4",
+          "url": "https://github.com/antirez/ds4",
+          "summary": "Developed by Salvatore Sanfilippo, the creator of Redis, ds4 is an inference engine that allows running DeepSeek models on local hardware. This tool, written in C language, offers the opportunity to run high-performance models on different graphics processors thanks to Metal, CUDA and ROCm support.",
+          "meta": "C · ★ 20,117 · +139 today"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models. Focusing on prefix-cache stability, this tool ensures developers receive uninterrupted coding support over long sessions.",
+          "meta": "Go · ★ 29,369 · +333 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Karpathy’s Pelican",
+          "url": "https://twitter.com/karpathy/status/2083749667410727319",
+          "summary": "Developed by Andrej Karpathy, Pelican offers simple and fast content management as a static site generator. This Python-based tool focuses on converting text files directly into web pages rather than complex configurations.",
+          "meta": "538 points · 376 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49140998",
+              "popularity": 538,
+              "engagementCount": 376
+            }
+          ]
+        },
+        {
+          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "summary": "Qwen3.8-Max, the large language model developed by Alibaba, takes coding and collaboration capabilities in software development processes to an advanced level. The model sets a new standard for developer tools (IDEs) by offering high accuracy and efficient working performance in complex programming tasks.",
+          "meta": "415 points · 172 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49150470",
+              "popularity": 415,
+              "engagementCount": 172
+            }
+          ]
+        },
+        {
+          "title": "How the words we teach English language learners changed",
+          "url": "https://pudding.cool/2026/07/essential-words/",
+          "summary": "The visualization, prepared by The Pudding, examines the change in vocabulary used in textbooks for English language learners over time. The study reveals with a data-driven approach how the cultural and linguistic priorities of teaching materials have differed over the decades.",
+          "meta": "208 points · 156 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49145590",
+              "popularity": 208,
+              "engagementCount": 156
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+          "url": "https://github.com/wie-project/kakehashi",
+          "summary": "Kakehashi is an experimental userspace tool that allows running macOS binaries on Linux ARM architecture. It aims to create the necessary translation layer to run Apple operating system applications on a different core.",
+          "meta": "208 points · 50 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49145937",
+              "popularity": 208,
+              "engagementCount": 50
+            }
+          ]
+        },
+        {
+          "title": "Developers are attached to tools because tools encode trust",
+          "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+          "summary": "Developers' commitment to the tools they use stems from the fact that these tools provide reliability and predictability in their workflows. Developers see the standards and reliability offered by a technical solution (tool) as a key reference point to maintain their personal productivity.",
+          "meta": "193 points · 104 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49097961",
+              "popularity": 193,
+              "engagementCount": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, developed by MiniMax, is a multimodal AI model that creates video using visual and text inputs. It allows users to produce high-quality moving images from static content or written commands.",
+          "meta": "♥ 630 · 0 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift",
+          "url": "https://huggingface.co/papers/2607.28996",
+          "summary": "SULAND v2 is a comprehensive RGB image dataset and benchmarking tool developed for unmanned aerial and ground vehicles (UAV/UGV) detection of surface mines. By measuring the performance of object detection models under different operating conditions, it aims to test the general validity of the models in this security-focused field.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
+          "url": "https://huggingface.co/papers/2607.27951",
+          "summary": "Safeguards in large language models create vulnerabilities in dual-use tasks because the answer is decided without knowing how it will be used. The researchers prove that clonable context cannot provide a reliable basis for security when attackers can impersonate well-intentioned users.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "Enhancing Rubric-based RL via Self-Distillation",
+          "url": "https://huggingface.co/papers/2607.18082",
+          "summary": "Criterion-based reinforcement learning is a method used to improve language models in a wide range of tasks. To eliminate the training and inference mismatch caused by external guidance, researchers use the self-distillation technique to include undiscovered metrics in the optimization process.",
+          "meta": "13 likes · 1 comments"
+        },
+        {
+          "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
+          "url": "https://huggingface.co/papers/2607.29025",
+          "summary": "The evaluation and verification reward system, developed to ensure visual consistency and harmony in multi-reference visual editing models, brings reinforcement learning methods to this field. This approach aims to preserve visual integrity in editing processes by modeling relational constraints between multiple images.",
+          "meta": "11 likes · 0 comments"
+        },
+        {
+          "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+          "url": "https://huggingface.co/papers/2607.29677",
+          "summary": "ExtractBench is a new benchmark that evaluates schema-based data extraction from enterprise documents. The system measures the accuracy, completeness, provenance and cost performance of AI models across 370 different corporate documents.",
+          "meta": "13 likes · 0 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Your JSON Is Lying to You",
+          "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+          "summary": "The JSON format can lead to unexpected data loss in applications due to its limited capacity to express data types and numerical precision. These inconsistencies, especially when processing large integers or precise decimal values, bring about data integrity problems.",
+          "meta": "9 points · 3 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/tjgemj/your_json_is_lying_you",
+              "popularity": 9,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "I'm (mostly) picking models on speed now, not intelligence",
+          "url": "https://martinalderson.com/posts/speed-vs-intelligence/",
+          "summary": "When choosing artificial intelligence models, software developers now focus on speed (latency) rather than intelligence capacity. Short response time becomes a priority over the complexity of the models as it increases efficiency in daily workflows.",
+          "meta": "27 points · 15 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aso7dh/i_m_mostly_picking_models_on_speed_now_not",
+              "popularity": 27,
+              "engagementCount": 15
+            }
+          ]
+        },
+        {
+          "title": "Faster floating point math with Rust’s new API",
+          "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+          "summary": "The new application programming interface (API) added to the Rust programming language increases the processing speed of floating point math. This update provides performance optimization, especially in software that requires intensive mathematical operations.",
+          "meta": "18 points · 7 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new",
+              "popularity": 18,
+              "engagementCount": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Text-based interface that allows you to manage programs by typing written commands rather than using the mouse."
+    },
+    {
+      "term": "API",
+      "explanation": "A bridge that allows two different software to talk to each other and exchange data."
+    },
+    {
+      "term": "code coverage",
+      "explanation": "A measurement value that shows how much of a written program is controlled by tests."
+    },
+    {
+      "term": "inference engine",
+      "explanation": "A piece of software that produces predictions or conclusions about new data using a trained artificial intelligence model."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "An acceleration method that prevents artificial intelligence from repeating the same operations by keeping the text beginnings it has previously processed in memory."
+    },
+    {
+      "term": "static site generator",
+      "explanation": "A software tool that takes ready-made content and turns it into fast-loading fixed web pages."
+    },
+    {
+      "term": "IDE",
+      "explanation": "An advanced working environment that gathers all the tools that software developers need while writing code in one place."
+    },
+    {
+      "term": "binary",
+      "explanation": "A machine language format consisting only of zeros and ones that the computer can directly understand and execute."
+    },
+    {
+      "term": "userspace",
+      "explanation": "A safe area where user applications run without touching the operating system kernel of the computer."
+    }
+  ]
+}

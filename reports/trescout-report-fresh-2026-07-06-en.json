@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-06",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "summary": "This selection, prepared for Claude Code, the coding assistant developed by Anthropic, brings together tools, plug-ins and skill packages that accelerate software development processes. Resources that make it easier for developers to integrate this artificial intelligence tool into their projects focus on increasing automation capacity.",
+          "meta": "Python · ★ 48,592 · +148 today"
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "The marketingskills library developed for Claude Code and artificial intelligence agents offers specialized capabilities in areas such as conversion rate optimization (CRO), copywriting, search engine optimization (SEO), analytics and growth engineering. This toolset enables AI models to carry out marketing-oriented tasks in a more professional and data-driven manner.",
+          "meta": "JavaScript · ★ 36,679 · +145 today"
+        },
+        {
+          "title": "gastownhall/gastown",
+          "url": "https://github.com/gastownhall/gastown",
+          "summary": "Gas Town offers an infrastructure that enables different artificial intelligence agents to work together as a multi-agent workspace manager. Developed with the Go language, this tool centralizes inter-agent coordination and resource management in complex workflows.",
+          "meta": "Go · ★ 16,488 · +51 today"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar is a tool that allows viewing OpenAI Codex and Claude Code usage data without requiring a login. Developed with Swift language, this application makes it easy for developers to track consumption statistics in AI-supported coding tools.",
+          "meta": "Swift · ★ 16,432 · +153 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Organic Maps",
+          "url": "https://organicmaps.app/",
+          "summary": "Organic Maps is an open source mapping application that is based on offline map data and prioritizes user privacy. The application uses OpenStreetMap data, providing navigation and local search features without requiring an internet connection.",
+          "meta": "940 points · 282 comments"
+        },
+        {
+          "title": "OpenPrinter",
+          "url": "https://www.opentools.studio/",
+          "summary": "OpenPrinter is an open source printing protocol that provides a driver-independent printing experience for different printer models. It provides a universal interface that communicates directly with printers on the network, without the need for traditional driver installations.",
+          "meta": "795 points · 192 comments"
+        },
+        {
+          "title": "It's not about physical vs. digital games, it's about ownership",
+          "url": "https://popcar.bearblog.dev/its-about-ownership/",
+          "summary": "Discussions in the digital game world focus on the concept of ownership of users rather than the distinction between physical and digital formats. The authority of platforms to restrict access to games opens a new legal debate on the permanence of digital content and consumer rights.",
+          "meta": "449 points · 339 comments"
+        },
+        {
+          "title": "The future of Flipper Zero development",
+          "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+          "summary": "Flipper Zero developers aim to facilitate community contributions by transforming the device's software ecosystem into a modular architecture. This new approach envisages a transition to an application-based distribution model to make firmware development more sustainable.",
+          "meta": "307 points · 125 comments"
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra will be in Codex",
+          "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+          "summary": "It was announced that the GPT-5.6 Sol Ultra model will be integrated into Codex, a coding tool. This development enables the updating of artificial intelligence-supported code completion capabilities used in software development processes.",
+          "meta": "249 points · 177 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, developed by InternScience, is an artificial intelligence model optimized for text generation tasks. This model is designed to support complex logic execution and agent-based workflows.",
+          "meta": "♥ 311 · 7,010 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "The capabilities that a software or artificial intelligence has to perform a specific task."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Studies carried out to increase the rate of people who visit a website becoming customers."
+    }
+  ]
+}
