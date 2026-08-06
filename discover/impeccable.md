@@ -9,7 +9,7 @@ Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek iç
 - 2 Ağustos 2026: Yıldız 33.104 → 53.997, son sürüm ext-v1.3.1 (30 Temmuz 2026).
 
 ## Ne kazandırır?
-- Yapay zeka modelleri için standartlaştırılmış tasarım dili ve görsel tutarlılık sağlar.
+- Yapay zekâ modelleri için standartlaştırılmış tasarım dili ve görsel tutarlılık sağlar.
 - 23 farklı komut ile tasarım denetimi, iyileştirme ve kullanıcı deneyimi süreçlerini hızlandırır.
 - 27 adet deterministik anti-pattern kuralı ile yaygın tasarım hatalarını otomatik olarak engeller.
 
@@ -33,7 +33,7 @@ npx impeccable skills install
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Projemin tasarım kalitesini ve görsel tutarlılığını artırmak istiyorum. Impeccable aracını kullanarak mevcut arayüzümü gözden geçirmeni ve tasarım dili standartlarına göre iyileştirmeni istiyorum. Lütfen /impeccable komutlarını kullanarak projemdeki görsel hataları denetle, eksiklikleri tespit et ve kullanıcı deneyimini geliştirecek düzenlemeleri yap.
 
-- **Kimin için:** Yapay zeka destekli kodlama araçlarını kullanan ve projelerinde profesyonel, estetik ve tutarlı bir tasarım dili oluşturmak isteyen geliştiriciler içindir. 
+- **Kimin için:** Yapay zekâ destekli kodlama araçlarını kullanan ve projelerinde profesyonel, estetik ve tutarlı bir tasarım dili oluşturmak isteyen geliştiriciler içindir. 
 - **Lisans:** Apache-2.0 
 
 ## Bağlantılar

@@ -2,11 +2,12 @@
 
 Invidious, YouTube platformuna alternatif olarak geliştirilen açık kaynaklı bir arayüzdür. Kullanıcılara reklam içermeyen ve veri takibi yapmayan bir video izleme deneyimi sunar.
 
-- ★ 21.884
+- ★ 22.400
 - Crystal
 - GitHub Trending · 2026-08-02
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 21.884 → 22.400, son sürüm v2.20260804.1 (5 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 21.676 → 21.884, son sürüm v2.20260723.0 (23 Temmuz 2026).
 
 ## Ne kazandırır?

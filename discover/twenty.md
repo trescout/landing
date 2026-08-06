@@ -2,12 +2,13 @@
 
 Twenty , teknik ekiplere iş süreçlerine göre özelleştirilebilir modern bir CRM kurma imkânı veren açık kaynaklı bir Salesforce alternatifidir . Yapay zekâ destekli iş akışlarına odaklanan bu sistemi kendi sunucunuzda barındırabilirsiniz.
 
-- ★ 54.054
+- ★ 54.367
 - TypeScript
 - Lisans: özel
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 54.054 → 54.367, son sürüm twenty/v2.27.0 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 46.735 → 54.054, son sürüm twenty/v2.26.0 (31 Temmuz 2026).
 
 - **Kimin için:** Kendi CRM'ini kurmak isteyen teknik ekipler 

@@ -2,11 +2,12 @@
 
 NVIDIA tarafından geliştirilen SkillSpector, yapay zekâ ajanlarına ait yetenek paketlerindeki (skills) güvenlik açıklarını ve kötü niyetli kalıpları tespit eden bir tarama aracıdır. Python tabanlı bu yazılım, ajan tabanlı sistemlerin geliştirilme sürecinde karşılaşılan güvenlik risklerini analiz etmeyi hedefler.
 
-- ★ 14.066
+- ★ 14.260
 - Python
 - GitHub Trending · 2026-06-12
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 14.066 → 14.260, son sürüm v2.5.3 (5 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 2.967 → 14.066, son sürüm v2.5.1 (31 Temmuz 2026).
 
 ## Ne kazandırır?

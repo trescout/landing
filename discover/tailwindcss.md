@@ -2,9 +2,12 @@
 
 Tailwind CSS, hızlı kullanıcı arayüzü geliştirmeye odaklanan bir yardımcı program öncelikli (utility-first) stil sayfası çatısıdır (CSS framework). Hazır tasarım bileşenleri yerine düşük seviyeli sınıflar sunarak özgün arayüzlerin hızlıca oluşturulmasını sağlar.
 
-- ★ 96.571
+- ★ 96.949
 - TypeScript
 - GitHub Trending · 2026-08-05
+
+## Güncelleme
+- 6 Ağustos 2026: Yıldız 96.571 → 96.949, son sürüm v4.3.3 (16 Temmuz 2026).
 
 ## Ne kazandırır?
 - Düşük seviyeli sınıflarla özgün tasarımlar oluşturun

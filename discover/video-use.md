@@ -2,11 +2,12 @@
 
 Video-use kütüphanesi, kodlama ajanlarının (coding agents) video düzenleme süreçlerini otomatize etmesine olanak tanıyor. Python tabanlı bu araç, görsel düzenleme görevlerini yazılım komutları aracılığıyla yerine getirerek iş akışlarını hızlandırıyor.
 
-- ★ 18.290
+- ★ 19.784
 - Python
 - GitHub Trending · 2026-06-29
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 18.290 → 19.784.
 - 2 Ağustos 2026: Yıldız 11.471 → 18.290.
 
 ## Ne kazandırır?
@@ -34,7 +35,7 @@ claude
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Set up https://github.com/browser-use/video-use for me. Read install.md first to install this repo, wire up ffmpeg, register the skill with whichever agent you're running under, and set up the ElevenLabs API key — ask me to paste it when you need it. Then read SKILL.md for daily usage, and always read helpers/ because that's where the editing scripts live. After install, don't transcribe anything on your own — just tell me it's ready and wait for me to drop footage into a folder.
+Set up https://github.com/browser-use/video-use for me. Read install.md first to install this repo, wire up ffmpeg, register the skill with whichever agent you're running under, and set up the ElevenLabs API key · ask me to paste it when you need it. Then read SKILL.md for daily usage, and always read helpers/ because that's where the editing scripts live. After install, don't transcribe anything on your own · just tell me it's ready and wait for me to drop footage into a folder.
 
 - **Kimin için:** Video düzenleme süreçlerini otomatize etmek isteyen ve Claude Code gibi yapay zekâ ajanları kullanan içerik üreticileri içindir. 
 - **Lisans:** MIT 

@@ -5863,7 +5863,7 @@
     "slug": "ppt-master",
     "title": "Ppt Master",
     "tagline": "PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönüştüren yapay zekâ destekli bir araçtır.",
-    "meta": "★ 42.557 · Python",
+    "meta": "★ 43.374 · Python",
     "image": "/assets/discover/og/ppt-master.webp",
     "source": "GitHub",
     "date": "2026-06-28",
@@ -5871,7 +5871,7 @@
       "AI ajan araçları",
       "Geliştirici aracı"
     ],
-    "stars": 42557,
+    "stars": 43374,
     "lite": false,
     "headline": "Belgeleri düzenlenebilir sunumlara dönüştüren yapay zekâ",
     "last_review": "2026-08-06",
@@ -5882,6 +5882,13 @@
         "onceki_yildiz": 33348,
         "surum": "v4.3.0",
         "surum_tarihi": "2026-07-31"
+      },
+      {
+        "tarih": "2026-08-06",
+        "yildiz": 43374,
+        "onceki_yildiz": 42557,
+        "surum": "v4.4.0",
+        "surum_tarihi": "2026-08-06"
       }
     ],
     "tagline_en": "PPT-Master is an AI-powered tool that converts documents directly into editable presentation files (PPTX)."

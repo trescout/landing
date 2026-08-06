@@ -2,16 +2,17 @@
 
 Agentsview, kodlama ajanları için yerel öncelikli (local-first) oturum zekası ve analitik verileri sunan bir izleme aracıdır. Claude Code ve Codex dahil yirmiden fazla ajanı destekleyen bu yazılım, ccusage aracına kıyasla daha hızlı bir performans vadediyor.
 
-- ★ 4.683
+- ★ 4.714
 - Go
 - GitHub Trending · 2026-06-12
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 4.683 → 4.714, son sürüm v0.40.1 (4 Ağustos 2026).
 - 3 Ağustos 2026: Yıldız 4.672 → 4.683, son sürüm v0.40.0 (3 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 1.867 → 4.672, son sürüm v0.39.0 (27 Temmuz 2026).
 
 ## Ne kazandırır?
-- Tüm yapay zeka kodlama ajanlarınızın oturumlarını tek merkezden izleyin.
+- Tüm yapay zekâ kodlama ajanlarınızın oturumlarını tek merkezden izleyin.
 - Kullanılan token miktarlarını ve maliyetleri hızlıca hesaplayın.
 - Verilerinizi yerel bilgisayarınızda tutarak gizliliği koruyun.
 
@@ -45,9 +46,9 @@ agentsview usage daily
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Agentsview aracını kullanarak yapay zeka kodlama ajanlarımın oturum geçmişini ve maliyet verilerini analiz etmek istiyorum. Bilgisayarımda yüklü olan ajanların oturumlarını keşfetmek, günlük maliyet özetimi görmek ve belirli bir ajan filtresiyle token kullanım detaylarını incelemek için hangi komutları kullanmalıyım? Lütfen bana agentsview usage daily ve agentsview session usage komutlarının nasıl kullanılacağını ve sonuçları nasıl yorumlayacağımı adım adım açıkla.
+Agentsview aracını kullanarak yapay zekâ kodlama ajanlarımın oturum geçmişini ve maliyet verilerini analiz etmek istiyorum. Bilgisayarımda yüklü olan ajanların oturumlarını keşfetmek, günlük maliyet özetimi görmek ve belirli bir ajan filtresiyle token kullanım detaylarını incelemek için hangi komutları kullanmalıyım? Lütfen bana agentsview usage daily ve agentsview session usage komutlarının nasıl kullanılacağını ve sonuçları nasıl yorumlayacağımı adım adım açıkla.
 
-- **Kimin için:** Birden fazla yapay zeka kodlama ajanı kullanan ve bu araçların harcadığı token ile maliyetleri yerel olarak takip etmek isteyen yazılımcılar içindir. 
+- **Kimin için:** Birden fazla yapay zekâ kodlama ajanı kullanan ve bu araçların harcadığı token ile maliyetleri yerel olarak takip etmek isteyen yazılımcılar içindir. 
 - **Lisans:** MIT 
 
 ## Bağlantılar

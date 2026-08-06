@@ -10,7 +10,7 @@ OpenClaw Windows düğümü (node), sistem tepsisi uygulaması, paylaşılan kü
 - 2 Ağustos 2026: Yıldız 1.432 → 2.018, son sürüm v0.6.12 (30 Haziran 2026).
 
 ## Ne kazandırır?
-- Sistem tepsisi üzerinden OpenClaw yapay zeka asistanına hızlı erişim sağlar.
+- Sistem tepsisi üzerinden OpenClaw yapay zekâ asistanına hızlı erişim sağlar.
 - Windows üzerinde yerel ağ geçidi ve bağlantı yönetimi sunar.
 - Komut merkezi ile canlı oturum, kullanım ve düğüm takibi yapılmasına olanak tanır.
 
@@ -30,9 +30,9 @@ dotnet run --project src/OpenClaw.Cli -- --help
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-OpenClaw Windows Node aracını kullanıyorum. Sistem tepsisi üzerinden erişim sağladığım bu yapay zeka asistanı için yerel ağ geçidi bağlantılarımı yönetmek ve WebSocket üzerinden mesaj gönderimi gibi işlemleri doğrulamak istiyorum. Mevcut CLI araçlarını kullanarak bağlantı durumumu nasıl kontrol edebilirim ve sistem üzerindeki düğüm izinlerini nasıl yapılandırabilirim?
+OpenClaw Windows Node aracını kullanıyorum. Sistem tepsisi üzerinden erişim sağladığım bu yapay zekâ asistanı için yerel ağ geçidi bağlantılarımı yönetmek ve WebSocket üzerinden mesaj gönderimi gibi işlemleri doğrulamak istiyorum. Mevcut CLI araçlarını kullanarak bağlantı durumumu nasıl kontrol edebilirim ve sistem üzerindeki düğüm izinlerini nasıl yapılandırabilirim?
 
-- **Kimin için:** OpenClaw yapay zeka asistanını Windows üzerinde yerel olarak çalıştırmak ve sistem kaynaklarını yönetmek isteyen kullanıcılar içindir. 
+- **Kimin için:** OpenClaw yapay zekâ asistanını Windows üzerinde yerel olarak çalıştırmak ve sistem kaynaklarını yönetmek isteyen kullanıcılar içindir. 
 - **Lisans:** MIT 
 
 ## Bağlantılar

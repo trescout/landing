@@ -2,11 +2,12 @@
 
 Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur (agentic engineering platform). Açık kaynak kodlu yazılım geliştirme ajanı (coding agent) üzerinden uygulama oluşturma, dağıtma ve yineleme süreçlerini standartlaştırır.
 
-- ★ 26.704
+- ★ 26.733
 - TypeScript
 - GitHub Trending · 2026-06-19
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 26.704 → 26.733, son sürüm jetbrains/v7.0.13 (6 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 26.672 → 26.704, son sürüm v7.4.19 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 22.481 → 26.672, son sürüm jetbrains/v7.0.12 (1 Ağustos 2026).
 

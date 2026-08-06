@@ -3809,5 +3809,19 @@
     "full": "",
     "cat": "dev",
     "kisa": "Bir ürünün fikirden son kullanıcıya ulaşana kadar geçtiği planlama, üretim ve test aşamalarının bütünüdür."
+  },
+  {
+    "slug": "ceo",
+    "en": "CEO",
+    "full": "Chief Executive Officer",
+    "cat": "dev",
+    "kisa": "Bir şirketin tüm operasyonlarını ve stratejik kararlarını yöneten en üst düzey yetkilidir."
+  },
+  {
+    "slug": "chair",
+    "en": "Chair",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir kurumun veya yönetim kurulunun başında bulunan, stratejik denetimden sorumlu kişidir."
   }
 ]

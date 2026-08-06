@@ -2,11 +2,12 @@
 
 Claude Code altyapısını kullanan career-ops, yapay zekâ destekli iş arama süreçlerini 14 farklı yetenek moduyla otomatikleştiriyor. Sistem, Go tabanlı bir kontrol paneli üzerinden toplu işlem yönetimi ve özgeçmiş oluşturma gibi işlevleri tek bir merkezde topluyor.
 
-- ★ 62.526
+- ★ 62.979
 - JavaScript
 - GitHub Trending · 2026-06-07
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 62.526 → 62.979, son sürüm career-ops-v1.25.0 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 49.580 → 62.526, son sürüm career-ops-v1.24.0 (30 Temmuz 2026).
 
 ## Ne kazandırır?

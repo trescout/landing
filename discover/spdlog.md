@@ -2,9 +2,12 @@
 
 spdlog, C++ programlama dili için geliştirilmiş çok hızlı bir günlük kaydı (logging) kütüphanesidir. Yazılım projelerinde hata ayıklama ve izleme süreçlerini hızlandırmak amacıyla yüksek performanslı çıktı yönetimi sunar.
 
-- ★ 29.402
+- ★ 29.437
 - C++
 - GitHub Trending · 2026-08-05
+
+## Güncelleme
+- 6 Ağustos 2026: Yıldız 29.402 → 29.437, son sürüm v1.17.0 (4 Ocak 2026).
 
 ## Ne kazandırır?
 - Yüksek performanslı günlük kaydı yönetimi

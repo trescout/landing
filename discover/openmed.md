@@ -12,7 +12,7 @@ OpenMed, sağlık hizmetleri alanında kullanılan açık kaynaklı yapay zekâ 
 ## Ne kazandırır?
 - Klinik metinlerden yapılandırılmış tıbbi içgörüler çıkarır.
 - Kişisel sağlık verilerini cihaz üzerinde anonimleştirir.
-- 1.000'den fazla tıbbi yapay zeka modelini çevrimdışı çalıştırır.
+- 1.000'den fazla tıbbi yapay zekâ modelini çevrimdışı çalıştırır.
 
 ## Kurulum
 

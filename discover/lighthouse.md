@@ -2,11 +2,12 @@
 
 Lighthouse, C diliyle geliştirilmiş, düşük seviyeli sistemler için tasarlanmış bir kod kapsama (code coverage) aracıdır. Yazılımın test süreçlerinde hangi kod bloklarının çalıştırıldığını analiz ederek geliştiricilere hata ayıklama ve performans optimizasyonu konusunda veri sağlar.
 
-- ★ 260
+- ★ 324
 - C
 - GitHub Trending · 2026-08-03
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 260 → 324, son sürüm 1.0.2 (5 Ağustos 2026).
 - 3 Ağustos 2026: Yıldız 259 → 260, son sürüm 1.0.1 (1 Ağustos 2026).
 
 ## Ne kazandırır?

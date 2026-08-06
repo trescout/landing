@@ -2,11 +2,12 @@
 
 Microsoft tarafından hazırlanan AI for Beginners, 12 haftalık bir müfredatla yapay zekâya giriş konularını Jupyter not defterleri (Jupyter Notebooks) üzerinden öğretiyor. 24 derslik bu içerik, temel kavramları uygulamalı örneklerle öğrenmek isteyenler için yapılandırılmış bir eğitim kaynağı sunuyor.
 
-- ★ 58.739
+- ★ 62.224
 - Jupyter Notebook
 - GitHub Trending · 2026-07-01
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 58.739 → 62.224.
 - 2 Ağustos 2026: Yıldız 49.751 → 58.739.
 
 ## Ne kazandırır?

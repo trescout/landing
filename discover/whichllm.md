@@ -48,7 +48,7 @@ whichllm run "qwen 2.5 1.5b gguf"
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Whichllm aracını kullanarak donanım özelliklerime en uygun yerel büyük dil modellerini listelemek ve bu modellerin performans tahminlerini görmek istiyorum. Sistemimdeki GPU veya CPU kapasitesine göre en yüksek benchmark puanına sahip modelleri nasıl filtreleyebilirim, ayrıca belirli bir model için gerekli olan donanım planlamasını nasıl yapabilirim?
 
-- **Kimin için:** Kendi donanımı üzerinde en verimli şekilde çalışacak yerel yapay zeka modellerini arayan ve teknik karmaşadan uzak durmak isteyen kullanıcılar içindir. 
+- **Kimin için:** Kendi donanımı üzerinde en verimli şekilde çalışacak yerel yapay zekâ modellerini arayan ve teknik karmaşadan uzak durmak isteyen kullanıcılar içindir. 
 - **Lisans:** MIT 
 
 ## Bağlantılar

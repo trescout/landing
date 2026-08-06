@@ -2,18 +2,19 @@
 
 CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz yığını (frontend stack) sunuyor. AG-UI protokolü üzerinden uygulamalara akıllı yetenekler entegre edilmesini sağlayan bir altyapı sağlıyor.
 
-- ★ 36.438
+- ★ 36.508
 - TypeScript
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 36.438 → 36.508, son sürüm v1.66.2 (4 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 36.415 → 36.438, son sürüm angular/v0.3.1 (3 Ağustos 2026).
 - 3 Ağustos 2026: Yıldız 36.405 → 36.415, son sürüm v1.65.0 (3 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 32.818 → 36.405, son sürüm v1.64.2 (31 Temmuz 2026).
 
 ## Ne kazandırır?
 - Uygulamalara dinamik ve akıllı arayüzler ekler.
-- Yapay zeka ajanları ile kullanıcı arayüzü arasında gerçek zamanlı veri paylaşımı sağlar.
+- Yapay zekâ ajanları ile kullanıcı arayüzü arasında gerçek zamanlı veri paylaşımı sağlar.
 - İnsan onaylı iş akışları ve kendi kendine öğrenen ajanlar oluşturulmasına olanak tanır.
 
 ## Kurulum
@@ -32,9 +33,9 @@ npx copilotkit@latest init
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-CopilotKit kullanarak uygulamama yapay zeka yetenekleri eklemek istiyorum. Projemin altyapısına uygun olarak npx copilotkit@latest create -f veya mevcut projem için npx copilotkit@latest init komutlarını kullanarak kurulumu nasıl yapılandırabilirim? Ajanların arayüzle etkileşimini sağlamak ve Generative UI özelliklerini kullanmaya başlamak için izlemem gereken temel adımları açıkla.
+CopilotKit kullanarak uygulamama yapay zekâ yetenekleri eklemek istiyorum. Projemin altyapısına uygun olarak npx copilotkit@latest create -f veya mevcut projem için npx copilotkit@latest init komutlarını kullanarak kurulumu nasıl yapılandırabilirim? Ajanların arayüzle etkileşimini sağlamak ve Generative UI özelliklerini kullanmaya başlamak için izlemem gereken temel adımları açıkla.
 
-- **Kimin için:** Uygulamalarına yapay zeka destekli akıllı arayüzler ve ajan tabanlı iş akışları entegre etmek isteyen yazılım geliştiriciler için uygundur. 
+- **Kimin için:** Uygulamalarına yapay zekâ destekli akıllı arayüzler ve ajan tabanlı iş akışları entegre etmek isteyen yazılım geliştiriciler için uygundur. 
 - **Lisans:** MIT 
 
 ## Bağlantılar

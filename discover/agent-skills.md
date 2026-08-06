@@ -11,7 +11,7 @@ Yapay zekâ kodlama ajanları için geliştirilen bu kütüphane, üretim seviye
 - 2 Ağustos 2026: Yıldız 50.041 → 81.328, son sürüm 0.6.5 (26 Temmuz 2026).
 
 ## Ne kazandırır?
-- Yapay zeka ajanlarına profesyonel mühendislik iş akışları kazandırır.
+- Yapay zekâ ajanlarına profesyonel mühendislik iş akışları kazandırır.
 - Yazılım geliştirme süreçlerini standartlaştırılmış adımlarla otomatize eder.
 - Kod kalitesini artırmak için test ve inceleme süreçlerini disipline eder.
 
@@ -28,7 +28,7 @@ claude --plugin-dir /path/to/agent-skills
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Senin bir yazılım mühendisi gibi çalışmanı istiyorum. Agent Skills kütüphanesini kullanarak /spec, /plan, /build, /test, /review, /code-simplify ve /ship komutlarını yazılım geliştirme sürecimin her aşamasında standartlara uygun şekilde uygula. İş akışlarını, kalite kontrol noktalarını ve en iyi mühendislik uygulamalarını takip ederek kod üret.
 
-- **Kimin için:** Yazılım geliştirme süreçlerini otomatize etmek ve yapay zeka ajanlarının teknik kapasitesini artırmak isteyen geliştiriciler için uygundur. 
+- **Kimin için:** Yazılım geliştirme süreçlerini otomatize etmek ve yapay zekâ ajanlarının teknik kapasitesini artırmak isteyen geliştiriciler için uygundur. 
 - **Lisans:** MIT 
 
 ## Bağlantılar

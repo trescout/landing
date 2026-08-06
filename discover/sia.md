@@ -7,7 +7,7 @@ SIA, yapay zekâ modellerinin ve ajanların belirli kıyaslama görevlerindeki (
 - GitHub Trending · 2026-06-12
 
 ## Ne kazandırır?
-- Yapay zeka modellerinin görev performansını otonom şekilde artırır.
+- Yapay zekâ modellerinin görev performansını otonom şekilde artırır.
 - Meta, hedef ve geri bildirim ajanları arasında döngüsel iyileştirme sağlar.
 - Benchmark görevlerinde yüksek doğruluk ve işlem hızı verimliliği sunar.
 
@@ -49,9 +49,9 @@ sia web
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-SIA çerçevesini kullanarak bir yapay zeka ajanının performansını artırmak istiyorum. Kurulumu tamamladıktan sonra, mevcut görevlerden birini seçerek (örneğin gpqa) öz-iyileştirme döngüsünü başlatmak için hangi komutu kullanmalıyım ve süreç sonunda oluşan çıktıları (target_agent.py, agent_execution.json, improvement.md) nasıl yorumlamalıyım? Ayrıca, kendi özel görev dizinimi sisteme nasıl dahil edebilirim?
+SIA çerçevesini kullanarak bir yapay zekâ ajanının performansını artırmak istiyorum. Kurulumu tamamladıktan sonra, mevcut görevlerden birini seçerek (örneğin gpqa) öz-iyileştirme döngüsünü başlatmak için hangi komutu kullanmalıyım ve süreç sonunda oluşan çıktıları (target_agent.py, agent_execution.json, improvement.md) nasıl yorumlamalıyım? Ayrıca, kendi özel görev dizinimi sisteme nasıl dahil edebilirim?
 
-- **Kimin için:** Yapay zeka modellerinin performansını otonom iyileştirme süreçleriyle optimize etmek isteyen geliştiriciler ve araştırmacılar için uygundur. 
+- **Kimin için:** Yapay zekâ modellerinin performansını otonom iyileştirme süreçleriyle optimize etmek isteyen geliştiriciler ve araştırmacılar için uygundur. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
