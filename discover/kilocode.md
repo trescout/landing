@@ -2,11 +2,12 @@
 
 Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur (agentic engineering platform). Açık kaynak kodlu yazılım geliştirme ajanı (coding agent) üzerinden uygulama oluşturma, dağıtma ve yineleme süreçlerini standartlaştırır.
 
-- ★ 26.672
+- ★ 26.704
 - TypeScript
 - GitHub Trending · 2026-06-19
 
 ## Güncelleme
+- 4 Ağustos 2026: Yıldız 26.672 → 26.704, son sürüm v7.4.19 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 22.481 → 26.672, son sürüm jetbrains/v7.0.12 (1 Ağustos 2026).
 
 ## Ne kazandırır?
@@ -55,7 +56,7 @@ Bir yazılım geliştirme ajanı olarak, mevcut proje dizinimde doğal dilden ko
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic Engineering Platform Agentic Engineering Coding Agent Agentic CLI Agent
+Agentic Engineering Platform Agentic Engineering Coding Agent Agentic Agent CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/kilocode/

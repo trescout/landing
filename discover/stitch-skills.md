@@ -51,7 +51,7 @@ Stitch Skills kütüphanesini kullanarak mevcut arayüz kodumu analiz et ve bunu
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Coding Agents Agent Skills Agents AI Skills MCP CLI
+Coding Agents Agent Skills Agents AI Skills MCP Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stitch-skills/

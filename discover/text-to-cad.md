@@ -35,7 +35,7 @@ Sen bir mühendislik asistanısın. text-to-cad kütüphanesini kullanarak belir
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Text-to-CAD Agent Skills AI Skills CLI Agent Artificial Intelligence
+Text-to-CAD Agent Skills AI Skills Agent CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/text-to-cad/

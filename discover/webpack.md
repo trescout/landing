@@ -1,0 +1,45 @@
+# Web projeleri için modül paketleyici
+
+Webpack, JavaScript ve diğer web varlıklarını tarayıcıda çalışacak şekilde bir araya getiren bir paketleyici (bundler). Modülleri yönetilebilir parçalara ayıran kod bölme (code splitting) özelliği sayesinde uygulamaların ihtiyaç duyulduğunda yüklenmesini sağlar.
+
+- ★ 65.961
+- JavaScript
+- GitHub Trending · 2026-08-05
+
+## Ne kazandırır?
+- JavaScript dosyalarını tarayıcıda çalışacak şekilde birleştirir.
+- Kod bölme özelliğiyle uygulama yükleme süresini kısaltır.
+- TypeScript gibi farklı dosya türlerini önceden işleyebilir.
+
+## Kurulum
+
+**npm ile kurulum**
+
+```
+npm install --save-dev webpack
+```
+
+**yarn ile kurulum**
+
+```
+yarn add webpack --dev
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bir web geliştiricisi olarak, projelerimdeki JavaScript dosyalarını ve diğer statik varlıkları verimli bir şekilde paketlemek istiyorum. Webpack kullanarak modüllerimi nasıl yönetebilirim, kod bölme işlemini nasıl yapılandırabilirim ve projeme uygun yükleyicileri (loaders) nasıl tanımlayabilirim? Başlangıç seviyesinde bir yapılandırma dosyası örneği oluşturmama yardımcı ol.
+
+- **Kimin için:** Web uygulamalarındaki JavaScript dosyalarını ve diğer varlıkları düzenli bir şekilde paketlemek isteyen yazılım geliştiricileri içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/webpack/webpack)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Bundler Code Splitting Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/webpack/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

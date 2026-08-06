@@ -52,7 +52,7 @@ Bir yazılım geliştirme asistanı olarak, yerel dil modellerini kullanarak kod
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Refactoring IDE Coding Agent LLM CLI Agent
+Refactoring IDE Coding Agent LLM Agent CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/continue/

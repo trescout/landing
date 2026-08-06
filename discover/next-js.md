@@ -29,7 +29,7 @@ Next.js ile çalışmaya başlamak için resmî web sitesi olan nextjs.org adres
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Rendering Framework Rust
+Server-side Rendering Rendering Framework Rust
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/next-js/

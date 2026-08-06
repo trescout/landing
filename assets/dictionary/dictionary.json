@@ -3718,5 +3718,96 @@
     "cat": "ai",
     "kisa": "Yazılım geliştirme sürecinde size öneriler sunan, kod yazmanızı hızlandıran ve hataları tespit eden yapay zekâ destekli yardımcıdır.",
     "kisa_en": "It is an artificial intelligence-supported assistant that offers you suggestions during the software development process, speeds up your code writing and detects errors."
+  },
+  {
+    "slug": "ai-coding-clients",
+    "en": "AI Coding Clients",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım geliştirme sürecinde kod yazma, hata ayıklama ve proje tamamlama görevlerinde geliştiriciye eşlik eden yapay zekâ destekli yazılımlardır."
+  },
+  {
+    "slug": "pdf-inspector",
+    "en": "PDF Inspector",
+    "full": "",
+    "cat": "data",
+    "kisa": "PDF belgelerinin içindeki metin, görsel ve yapısal verileri detaylıca inceleyip hataları tespit etmenizi sağlayan bir araçtır."
+  },
+  {
+    "slug": "text-extraction",
+    "en": "Text Extraction",
+    "full": "",
+    "cat": "data",
+    "kisa": "Dijital belgeler veya görseller içindeki yazılı verilerin, bilgisayarın işleyebileceği metin formatına dönüştürülmesi işlemidir."
+  },
+  {
+    "slug": "bundler",
+    "en": "Bundler",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım projesindeki çok sayıda dosyayı birleştirip optimize ederek tarayıcıların çalıştırabileceği tek bir yapıya dönüştüren araçtır."
+  },
+  {
+    "slug": "code-splitting",
+    "en": "Code Splitting",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Web sitesinin yüklenme hızını artırmak için büyük kod dosyalarını küçük parçalara bölüp sadece ihtiyaç anında yükleme yöntemidir."
+  },
+  {
+    "slug": "logging",
+    "en": "Logging",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir programın çalışırken yaptığı işlemleri veya karşılaştığı hataları takip etmek için kronolojik olarak kayıt altına almasıdır."
+  },
+  {
+    "slug": "utility-first",
+    "en": "Utility-first",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Tasarım yaparken önceden tanımlanmış küçük ve işlevsel komutları (sınıfları) kullanarak hızlıca stil oluşturma yaklaşımıdır."
+  },
+  {
+    "slug": "css-framework",
+    "en": "CSS Framework",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Web sayfalarının görünümünü hızlıca güzelleştirmek için hazır tasarım şablonları ve kuralları sunan bir araç setidir."
+  },
+  {
+    "slug": "prefix-cache-stability",
+    "en": "Prefix Cache Stability",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın daha önce işlediği bilgileri hafızasında tutarak aynı sorulara çok daha hızlı ve tutarlı yanıt vermesini sağlayan tekniktir."
+  },
+  {
+    "slug": "state-kernel",
+    "en": "State Kernel",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın o anki tüm çalışma bilgilerini ve verilerini bellekte tutan temel çekirdek yapısıdır."
+  },
+  {
+    "slug": "flashcards",
+    "en": "Flashcards",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Ön yüzünde soru, arka yüzünde cevap bulunan, bilgileri hızlıca ezberlemeye veya öğrenmeye yarayan dijital kartlardır."
+  },
+  {
+    "slug": "server-side-rendering",
+    "en": "Server-side Rendering",
+    "full": "SSR",
+    "cat": "dev",
+    "kisa": "Web sayfalarının kullanıcıya gönderilmeden önce sunucuda hazırlanıp hızlıca görüntülenmesini sağlayan yöntemdir."
+  },
+  {
+    "slug": "product-development-cycle",
+    "en": "Product Development Cycle",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir ürünün fikirden son kullanıcıya ulaşana kadar geçtiği planlama, üretim ve test aşamalarının bütünüdür."
   }
 ]

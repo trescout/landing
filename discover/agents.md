@@ -41,7 +41,7 @@ LiveKit Agents kullanarak gerçek zamanlı sesli etkileşim kurabilen bir yapay 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agents Framework LLM Agent Artificial Intelligence
+Agents LLM Framework Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agents/

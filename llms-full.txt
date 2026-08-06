@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-04 · 389 araç · 465 terim
+Son güncelleme: 2026-08-06 · 397 araç · 478 terim
 
 ---
 
@@ -1348,6 +1348,49 @@ Hayır, yazılımcının işini kolaylaştırarak daha verimli olmasını sağla
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-coding-assistants/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# AI Coding Clients nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-06
+
+Yazılım geliştirme sürecinde kod yazma, hata ayıklama ve proje tamamlama görevlerinde geliştiriciye eşlik eden yapay zekâ destekli yazılımlardır.
+
+## Tanım
+Bu araçlar, tıpkı yanınızda oturan deneyimli bir yazılımcı gibi çalışır. Yazdığınız kodları analiz eder, eksik kısımları tamamlar ve karmaşık hataları çözmenize yardımcı olur. Geleneksel editörlerin üzerine akıllı bir katman ekleyerek üretkenliğinizi ciddi oranda artırırlar.
+
+## Bir benzetmeyle
+Sanki bir otomobil kullanırken direksiyonu sizin tuttuğunuz ama yol tarifini, trafik analizini ve motor performansını sürekli takip eden çok yetenekli bir yardımcı pilotunuzun olması gibidir.
+
+## Nasıl çalışır?
+Genellikle kod editörünüze bir eklenti veya bağımsız bir uygulama olarak kurulurlar. Siz kod yazmaya başladığınızda arka planda çalışarak öneriler sunar, hata mesajlarını yorumlar ve bazen tüm bir fonksiyonu sizin yerinize yazar.
+
+## Nerede kullanılır?
+VS Code gibi popüler kod editörlerinde, terminal tabanlı geliştirme ortamlarında ve modern yazılım geliştirme platformlarında kullanılırlar.
+
+## Sık karıştırılanlar
+AI coding agents ile karıştırılabilir; ancak istemciler (clients) daha çok sizin kontrolünüzde olan bir arayüz sunarken, ajanlar (agents) kendi başlarına görev tamamlama eğilimindedir.
+
+## Sıkça sorulanlar
+
+**AI coding client kullanmak kod yazmayı öğrenmemi engeller mi?**  
+Hayır, aksine doğru kullanıldığında karmaşık mantıkları daha hızlı görmenizi sağlayarak öğrenme sürecinizi hızlandırabilir.
+
+**Güvenli mi?**  
+Kodunuzun buluta gönderilip gönderilmediğine dikkat etmelisiniz; hassas veriler içeren projelerde yerel (local) çalışan modelleri tercih etmek daha güvenlidir.
+
+## İlgili terimler
+- [AI Coding Agent](/dictionary/ai-coding-agent/)
+- [IDE](/dictionary/ide/)
+- [Coding Assistant](/dictionary/coding-assistant/)
+- [AI Engineering](/dictionary/ai-engineering/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-coding-clients/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -3210,6 +3253,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Bundler nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-06
+
+Yazılım projesindeki çok sayıda dosyayı birleştirip optimize ederek tarayıcıların çalıştırabileceği tek bir yapıya dönüştüren araçtır.
+
+## Tanım
+Modern web projeleri yüzlerce küçük dosyadan oluşur. Tarayıcılar bu kadar çok dosyayı tek tek indirmekte zorlanır. Bundler, bu dosyaları alır, birbirine bağlar ve gereksiz kısımları temizleyerek performansı artırır.
+
+## Bir benzetmeyle
+Bir binayı inşa ederken yüzlerce farklı parçayı (tuğla, boru, kablo) tek bir kamyona yükleyip şantiyeye tek seferde ulaştıran bir lojistik merkezi gibidir.
+
+## Nasıl çalışır?
+Geliştirme aşamasında siz dosyalarla ayrı ayrı çalışırsınız. Projeyi yayına alacağınız zaman bundler devreye girer ve tüm dosyaları tarayıcının anlayacağı şekilde paketler.
+
+## Nerede kullanılır?
+JavaScript tabanlı web geliştirme projelerinde vazgeçilmezdir.
+
+## Sık karıştırılanlar
+Compiler ile karıştırılabilir; compiler kodu başka bir dile çevirir, bundler ise dosyaları bir araya getirir.
+
+## Sıkça sorulanlar
+
+**Neden her şeyi tek dosyaya koymuyoruz?**  
+Çok büyük dosyalar tarayıcıyı yavaşlatabilir; bu yüzden bundler bazen dosyaları akıllı parçalara böler.
+
+## İlgili terimler
+- [Bundling](/dictionary/bundling/)
+- [Compilation](/dictionary/compilation/)
+- [Frontend Stack](/dictionary/frontend-stack/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/bundler/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Bundling nedir?
 
 **Kategori:** Geliştirme  
@@ -3961,6 +4043,44 @@ Güvenilir kaynaklardan alınmadığı sürece risk taşıyabilir. Başkasının
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/code-snippets/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Code Splitting nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-06
+
+Web sitesinin yüklenme hızını artırmak için büyük kod dosyalarını küçük parçalara bölüp sadece ihtiyaç anında yükleme yöntemidir.
+
+## Tanım
+Kullanıcı sitenize girdiğinde tüm kodları indirmek yerine, sadece o an gördüğü sayfa için gerekli olan kodları indirir. Diğer sayfaların kodları ise kullanıcı o sayfalara tıkladığında arka planda yüklenir.
+
+## Bir benzetmeyle
+Bir restoranda tüm menüdeki yemekleri aynı anda masaya getirmek yerine, sipariş verdikçe tabakların tek tek gelmesi gibidir.
+
+## Nasıl çalışır?
+Geliştirici, kod içinde 'buraya kadar olan kısmı şimdi yükle, geri kalanını sonra yükle' şeklinde işaretlemeler yapar.
+
+## Nerede kullanılır?
+Büyük ölçekli web uygulamalarında ve kullanıcı deneyimini önemseyen sitelerde kullanılır.
+
+## Sık karıştırılanlar
+Bundling ile karıştırılabilir; bundling dosyaları birleştirirken, code splitting bunları akıllıca parçalara ayırır.
+
+## Sıkça sorulanlar
+
+**Kullanıcı sayfaya tıkladığında gecikme olur mu?**  
+Çok küçük bir süre olabilir ancak ilk yükleme hızı çok daha yüksek olduğu için genel deneyim daha iyidir.
+
+## İlgili terimler
+- [Bundler](/dictionary/bundler/)
+- [Frontend Stack](/dictionary/frontend-stack/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/code-splitting/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -5231,6 +5351,45 @@ Test süreçleri ve veri toplama aşamaları olduğu için sabırlı olunması g
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/cro/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# CSS Framework nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-06
+
+Web sayfalarının görünümünü hızlıca güzelleştirmek için hazır tasarım şablonları ve kuralları sunan bir araç setidir.
+
+## Tanım
+Web sitesi yaparken butonların, menülerin veya yazı tiplerinin nasıl görüneceğini sıfırdan yazmak yerine, bu frameworklerin sunduğu hazır yapıları kullanırsınız. Bu, profesyonel görünümlü siteleri çok daha kısa sürede yapmanızı sağlar.
+
+## Bir benzetmeyle
+Bir ev inşa ederken hazır kapı, pencere ve mobilya setleri kullanmak gibidir; temel yapıyı siz kurarsınız ama detayları hazır setten seçersiniz.
+
+## Nasıl çalışır?
+Framework'ün dosyalarını projenize eklersiniz ve sunduğu hazır isimleri kodlarınızda kullanırsınız.
+
+## Nerede kullanılır?
+Web sitelerinin arayüz geliştirme süreçlerinde kullanılır.
+
+## Sık karıştırılanlar
+Utility-first ile karıştırılabilir; utility-first bir yaklaşım, framework ise bu yaklaşımı destekleyen veya desteklemeyen bir araçtır.
+
+## Sıkça sorulanlar
+
+**Her site birbirine benzemez mi?**  
+Frameworkler esnektir; kendi renklerinizi ve tarzınızı ekleyerek özgün tasarımlar yapabilirsiniz.
+
+## İlgili terimler
+- [Utility-first](/dictionary/utility-first/)
+- [Frontend Stack](/dictionary/frontend-stack/)
+- [User Interface](/dictionary/user-interface/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/css-framework/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -7434,6 +7593,45 @@ Hayır, fine-tuning kalıcı bir süreçtir; güncel bilgiler için RAG kullanma
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/fine-tuning/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Flashcards nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-06
+
+Ön yüzünde soru, arka yüzünde cevap bulunan, bilgileri hızlıca ezberlemeye veya öğrenmeye yarayan dijital kartlardır.
+
+## Tanım
+Yapay zekâ destekli öğrenme süreçlerinde, karmaşık bilgileri küçük parçalara bölüp bunları 'kart' haline getirerek bilginin kalıcı olmasını sağlar. Aralıklı tekrar yöntemiyle birleştiğinde öğrenme hızını katlar.
+
+## Bir benzetmeyle
+Sınava çalışırken elinize aldığınız küçük kağıtların dijital ve akıllı versiyonudur.
+
+## Nasıl çalışır?
+Yapay zekâ, notlarınızdan otomatik olarak soru-cevap kartları üretir ve bunları unutma eğiliminize göre size tekrar ettirir.
+
+## Nerede kullanılır?
+Eğitim uygulamalarında ve kişisel gelişim araçlarında kullanılır.
+
+## Sık karıştırılanlar
+Quiz ile karıştırılabilir; quiz bir sınavdır, flashcard ise bir öğrenme aracıdır.
+
+## Sıkça sorulanlar
+
+**Yapay zekâ bunları nasıl yapıyor?**  
+Metinlerinizi analiz edip en önemli noktaları tespit ederek soru kalıplarına dönüştürüyor.
+
+## İlgili terimler
+- [Tutoring](/dictionary/tutoring/)
+- [Lifelong Learning](/dictionary/lifelong-learning/)
+- [AI Skills](/dictionary/ai-skills/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/flashcards/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -10234,6 +10432,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Logging nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-06
+
+Bir programın çalışırken yaptığı işlemleri veya karşılaştığı hataları takip etmek için kronolojik olarak kayıt altına almasıdır.
+
+## Tanım
+Programlar bazen sessizce hata verir. Logging sayesinde, bir hata oluştuğunda programın o ana kadar ne yaptığını, hangi veriyi işlediğini adım adım görebilirsiniz. Bu, bir nevi programın 'kara kutusu'dur.
+
+## Bir benzetmeyle
+Bir uçağın uçuş sırasında tüm verilerini kaydeden kara kutusu gibi, programın da tüm hareketlerini günlüğüne işlemesidir.
+
+## Nasıl çalışır?
+Kodun içine 'buraya gelindi', 'şu veri işlendi' gibi komutlar eklersiniz. Program çalıştıkça bu bilgiler bir dosyaya veya izleme sistemine yazılır.
+
+## Nerede kullanılır?
+Sunucu uygulamalarında, büyük yazılım sistemlerinde ve hata ayıklama süreçlerinde kullanılır.
+
+## Sık karıştırılanlar
+Observability ile karıştırılabilir; logging bu gözlemlenebilirliğin temel yapı taşlarından biridir.
+
+## Sıkça sorulanlar
+
+**Her şeyi kaydetmek iyi midir?**  
+Hayır, çok fazla kayıt sistemi yavaşlatabilir ve önemli hataları bulmayı zorlaştırabilir; dengeli kayıt tutulmalıdır.
+
+## İlgili terimler
+- [Observability](/dictionary/observability/)
+- [Traces](/dictionary/traces/)
+- [Logs](/dictionary/logs/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/logging/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Logs nedir?
 
 **Kategori:** Geliştirme  
@@ -12426,6 +12663,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# PDF Inspector nedir?
+
+**Kategori:** Veri & Altyapı  
+**Son güncelleme:** 2026-08-06
+
+PDF belgelerinin içindeki metin, görsel ve yapısal verileri detaylıca inceleyip hataları tespit etmenizi sağlayan bir araçtır.
+
+## Tanım
+PDF dosyaları bazen karmaşık katmanlar ve gizli yapılar içerir. Bu araç, dosyanın içindeki verilerin nasıl dizildiğini, hangi yazı tiplerinin kullanıldığını ve metinlerin doğru okunup okunmadığını kontrol eder.
+
+## Bir benzetmeyle
+Bir kitabın sadece kapağına bakmak yerine, sayfaların nasıl ciltlendiğini, kağıt kalitesini ve mürekkebin dağılıp dağılmadığını inceleyen bir büyüteç gibidir.
+
+## Nasıl çalışır?
+Belgeyi araca yüklersiniz, araç dosyanın iç yapısını bir harita gibi önünüze serer. Siz de bu harita üzerinden eksik veya hatalı verileri kolayca ayıklayabilirsiniz.
+
+## Nerede kullanılır?
+Belge otomasyonu yapan sistemlerde, veri girişi süreçlerinde ve dijital arşivleme projelerinde kullanılır.
+
+## Sık karıştırılanlar
+PDF parser ile karıştırılabilir; parser veriyi çeker, inspector ise verinin kalitesini ve yapısını denetler.
+
+## Sıkça sorulanlar
+
+**Sadece metinleri mi inceler?**  
+Hayır, görsellerin çözünürlüğünü, form alanlarını ve dosyanın meta verilerini de inceleyebilir.
+
+## İlgili terimler
+- [PDF Parser](/dictionary/pdf-parser/)
+- [Document Parsing](/dictionary/document-parsing/)
+- [PDF](/dictionary/pdf/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/pdf-inspector/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # PDF Parser nedir?
 
 **Kategori:** Veri & Altyapı  
@@ -12998,6 +13274,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Prefix Cache Stability nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-06
+
+Yapay zekânın daha önce işlediği bilgileri hafızasında tutarak aynı sorulara çok daha hızlı ve tutarlı yanıt vermesini sağlayan tekniktir.
+
+## Tanım
+Yapay zekâ modelleri her seferinde sıfırdan düşünmek yerine, konuşmanın başındaki önemli bilgileri (prefix) önbelleğe alır. Bu sayede model, bağlamı tekrar tekrar okumak zorunda kalmaz ve yanıt süresi kısalır.
+
+## Bir benzetmeyle
+Bir öğretmenin her öğrenciye aynı konuyu sıfırdan anlatmak yerine, konunun özetini tahtaya yazılı bırakması ve herkesin oradan hızlıca okuması gibidir.
+
+## Nasıl çalışır?
+Sistem, modelin en sık kullandığı veya başlangıçta verdiği bilgileri bellekte kilitler ve diğer sorgularda bunları doğrudan kullanır.
+
+## Nerede kullanılır?
+Yüksek trafikli yapay zekâ uygulamalarında ve sohbet botlarında kullanılır.
+
+## Sık karıştırılanlar
+KV cache ile karıştırılabilir; KV cache modelin çalışma anındaki hafızasıdır, bu ise o hafızanın stabil kalmasını sağlayan bir stratejidir.
+
+## Sıkça sorulanlar
+
+**Bu yöntem doğruluğu artırır mı?**  
+Evet, çünkü model aynı bilgiyi her seferinde farklı yorumlamak yerine sabit bir temelden yola çıkar.
+
+## İlgili terimler
+- [KV Cache](/dictionary/kv-cache/)
+- [Inference Engine](/dictionary/inference-engine/)
+- [Context Window](/dictionary/context-window/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/prefix-cache-stability/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Presence Detection nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -13034,6 +13349,45 @@ Kızılötesi, kamera, Bluetooth veya Wi-Fi sinyalleri gibi çeşitli yöntemler
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/presence-detection/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Product Development Cycle nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-06
+
+Bir ürünün fikirden son kullanıcıya ulaşana kadar geçtiği planlama, üretim ve test aşamalarının bütünüdür.
+
+## Tanım
+Bu döngü, sadece kod yazmayı değil; pazar araştırmasını, tasarımın çizilmesini, ürünün geliştirilmesini ve hataların düzeltilmesini kapsar. Sürekli bir iyileştirme sürecidir.
+
+## Bir benzetmeyle
+Bir arabanın tasarım aşamasından, fabrikada üretilmesine ve test pistinde denenip bayiye gönderilmesine kadar geçen sürece benzer.
+
+## Nasıl çalışır?
+Genellikle 'Planla, Tasarla, Geliştir, Test Et, Yayınla' şeklinde adımlarla ilerler.
+
+## Nerede kullanılır?
+Yazılım şirketlerinde, startup dünyasında ve mühendislik projelerinde uygulanır.
+
+## Sık karıştırılanlar
+Project management ile karıştırılabilir; yönetim bu döngüyü kontrol eder, döngü ise işin kendisidir.
+
+## Sıkça sorulanlar
+
+**Yapay zekâ bu döngüyü nasıl etkiliyor?**  
+Geliştirme ve test aşamalarını hızlandırarak döngünün çok daha kısa sürede tamamlanmasını sağlıyor.
+
+## İlgili terimler
+- [Project Management](/dictionary/project-management/)
+- [AI Engineering](/dictionary/ai-engineering/)
+- [Engineering Skills](/dictionary/engineering-skills/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/product-development-cycle/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -15000,6 +15354,46 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Server-side Rendering nedir?
+
+> SSR
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-06
+
+Web sayfalarının kullanıcıya gönderilmeden önce sunucuda hazırlanıp hızlıca görüntülenmesini sağlayan yöntemdir.
+
+## Tanım
+Normalde tarayıcı sayfayı boş bir kutu gibi alır ve içini kendi doldurur. SSR ile sunucu, sayfayı tamamen hazır bir şekilde tarayıcıya yollar. Bu, sitenin çok daha hızlı açılmasını ve arama motorları tarafından daha kolay bulunmasını sağlar.
+
+## Bir benzetmeyle
+Bir restoranda yemeğin mutfakta hazırlanıp masaya hazır gelmesi gibidir; müşteri (tarayıcı) yemeği pişirmekle uğraşmaz, doğrudan yer.
+
+## Nasıl çalışır?
+Sunucu, kullanıcı isteği geldiğinde sayfayı oluşturur, içindeki verileri yerleştirir ve bitmiş halini gönderir.
+
+## Nerede kullanılır?
+E-ticaret sitelerinde ve SEO'nun önemli olduğu tüm web projelerinde kullanılır.
+
+## Sık karıştırılanlar
+Client-side rendering ile karıştırılabilir; client-side'da işin çoğu tarayıcıda, SSR'da ise sunucuda yapılır.
+
+## Sıkça sorulanlar
+
+**Neden her site SSR kullanmıyor?**  
+Sunucu yükünü artırır ve kurulumu daha karmaşıktır; her proje için gerekli olmayabilir.
+
+## İlgili terimler
+- [Frontend Stack](/dictionary/frontend-stack/)
+- [Deployment](/dictionary/deployment/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/server-side-rendering/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Service Mesh nedir?
 
 **Kategori:** Geliştirme  
@@ -15854,6 +16248,45 @@ Sıralı olduğu için zincirin kopmaması adına değişikliklerinizi dikkatli 
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/stacked-pull-requests/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# State Kernel nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-06
+
+Bir yazılımın o anki tüm çalışma bilgilerini ve verilerini bellekte tutan temel çekirdek yapısıdır.
+
+## Tanım
+Uygulamanızın ne durumda olduğunu (kullanıcı giriş yaptı mı, sepette ne var, hangi sayfa açık) bilen merkezdir. Eğer uygulama bir canlı organizma olsaydı, state kernel onun hafızası ve o anki bilinci olurdu.
+
+## Bir benzetmeyle
+Bir satranç oyununda tahtadaki tüm taşların yerini ve oyunun hamle sırasını tutan hafıza merkezi gibidir.
+
+## Nasıl çalışır?
+Yazılım geliştiriciler, kritik verileri bu çekirdek yapıda günceller ve uygulama her değiştiğinde bu merkezden bilgi alır.
+
+## Nerede kullanılır?
+Karmaşık web uygulamalarında ve durum yönetimi (state management) gerektiren sistemlerde kullanılır.
+
+## Sık karıştırılanlar
+State management ile karıştırılabilir; state management bu veriyi yönetme sürecidir, state kernel ise verinin durduğu merkezdir.
+
+## Sıkça sorulanlar
+
+**Bu çekirdek bozulursa ne olur?**  
+Uygulama tutarsız davranır veya çöker; bu yüzden çok dikkatli yönetilmelidir.
+
+## İlgili terimler
+- [State Management](/dictionary/state-management/)
+- [Runtime Environment](/dictionary/runtime-environment/)
+- [Context Window](/dictionary/context-window/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/state-kernel/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -16746,6 +17179,45 @@ Kullandığınız programlama diline ve projenin ihtiyaçlarına göre en popül
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/testing-framework/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Text Extraction nedir?
+
+**Kategori:** Veri & Altyapı  
+**Son güncelleme:** 2026-08-06
+
+Dijital belgeler veya görseller içindeki yazılı verilerin, bilgisayarın işleyebileceği metin formatına dönüştürülmesi işlemidir.
+
+## Tanım
+Bu işlem, bir kağıt üzerindeki yazıyı veya bir resim dosyasındaki metni dijital bir metin belgesine aktarır. Bilgisayarlar için bir resim sadece renkli piksellerden ibarettir; bu teknoloji sayesinde o piksellerin anlamlı kelimelere dönüşmesi sağlanır.
+
+## Bir benzetmeyle
+Bir fotoğrafın içindeki el yazısını okuyup onu bir bilgisayar notuna dönüştüren dijital bir sekreter gibidir.
+
+## Nasıl çalışır?
+Belge sisteme girer, yapay zekâ veya karakter tanıma algoritmaları pikselleri harflerle eşleştirir ve size düzenlenebilir bir metin verir.
+
+## Nerede kullanılır?
+Fatura işleme, kimlik doğrulama sistemleri ve eski arşivlerin dijitalleştirilmesinde kullanılır.
+
+## Sık karıştırılanlar
+OCR ile neredeyse aynıdır; metin çıkarma bu işlemin genel adıyken, OCR kullanılan teknolojinin adıdır.
+
+## Sıkça sorulanlar
+
+**El yazısını okuyabilir mi?**  
+Modern modellerle evet, ancak yazının okunabilirliği sonuç kalitesini doğrudan etkiler.
+
+## İlgili terimler
+- [Optical Character Recognition](/dictionary/optical-character-recognition/)
+- [Document Parsing](/dictionary/document-parsing/)
+- [PDF Parser](/dictionary/pdf-parser/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/text-extraction/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -17811,6 +18283,45 @@ Evet, ancak daha spesifik ve küçük ölçekli bir uygulamadır.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/utilities/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Utility-first nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-06
+
+Tasarım yaparken önceden tanımlanmış küçük ve işlevsel komutları (sınıfları) kullanarak hızlıca stil oluşturma yaklaşımıdır.
+
+## Tanım
+Her bir öğe için uzun uzun CSS kodları yazmak yerine, 'mavi-renk', 'kenar-boşluğu-10' gibi hazır küçük komutları birleştirerek tasarımı oluşturursunuz. Bu yöntem, tasarımın tutarlı ve hızlı gelişmesini sağlar.
+
+## Bir benzetmeyle
+Lego parçalarıyla bir ev yapmak gibidir; her bir parçayı sıfırdan üretmek yerine, hazır parçaları birleştirerek istediğiniz tasarımı hızlıca kurarsınız.
+
+## Nasıl çalışır?
+HTML kodlarınızın içine, tasarımın nasıl görüneceğini belirten kısa etiketler eklersiniz.
+
+## Nerede kullanılır?
+Modern web tasarımında ve özellikle Tailwind CSS gibi kütüphanelerde sıkça kullanılır.
+
+## Sık karıştırılanlar
+CSS framework ile karıştırılabilir; utility-first bir yöntemdir, CSS framework ise bu yöntemi uygulayan araçtır.
+
+## Sıkça sorulanlar
+
+**Kod çok kalabalık görünmüyor mu?**  
+Başta öyle gelebilir ama dosyalar arası geçiş yapmadan tüm tasarımı tek bir yerde görebilmek büyük avantajdır.
+
+## İlgili terimler
+- [CSS Framework](/dictionary/css-framework/)
+- [Frontend Stack](/dictionary/frontend-stack/)
+- [User Interface](/dictionary/user-interface/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/utility-first/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -19930,7 +20441,7 @@ Next.js ile çalışmaya başlamak için resmî web sitesi olan nextjs.org adres
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Rendering Framework Rust
+Server-side Rendering Rendering Framework Rust
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/next-js/
@@ -20477,15 +20988,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını sağlayan C ve C++ tabanlı bir çıkarım (inference) kütüphanesidir. Yazılım, düşük bellek kullanımı ve yüksek performans odaklı yapısıyla yerel cihazlarda yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.
 
-- ★ 122.629
+- ★ 122.639
 - C++
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
+- 4 Ağustos 2026: Yıldız 122.629 → 122.639, son sürüm b10256 (4 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 122.512 → 122.629, son sürüm b10255 (4 Ağustos 2026).
 - 3 Ağustos 2026: Yıldız 122.500 → 122.512, son sürüm b10237 (3 Ağustos 2026).
 - 3 Ağustos 2026: Yıldız 122.424 → 122.500, son sürüm b10236 (3 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 115.499 → 122.424, son sürüm b10229 (2 Ağustos 2026).
 
 ## Ne kazandırır?
 - Büyük dil modellerini standart donanımlarda verimli çalıştırır.
@@ -20744,6 +21255,63 @@ Self-hosted
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/immich/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Modern JavaScript ve TypeScript çalışma zamanı
+
+Deno, JavaScript ve TypeScript dilleri için tasarlanmış modern bir çalışma zamanı (runtime) ortamıdır. Rust diliyle geliştirilen bu araç, güvenlik ve performans odaklı yapısıyla geleneksel Node.js platformuna alternatif bir altyapı sunar.
+
+- ★ 108.091
+- Rust
+- GitHub Trending · 2026-08-05
+
+## Ne kazandırır?
+- JavaScript, TypeScript ve WebAssembly dillerini güvenli bir şekilde çalıştırır.
+- V8 motoru ve Rust dili ile yüksek performans sağlar.
+- Web sunucuları geliştirmek için modern ve pratik bir altyapı sunar.
+
+## Kurulum
+
+**Mac veya Linux sistemlerde kurulum**
+
+```
+curl -fsSL https://deno.land/install.sh | sh
+```
+
+**Mac üzerinde Homebrew ile kurulum**
+
+```
+brew install deno
+```
+
+## Çalıştırma
+
+**Hazırlanan sunucu dosyasını başlatma**
+
+```
+deno run --allow-net server.ts
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Deno çalışma zamanını kullanarak bir web sunucusu oluşturmak istiyorum. TypeScript dilinde server.ts adında bir dosya oluşturup içine Deno.serve fonksiyonunu kullanarak basit bir yanıt döndüren kod bloğunu nasıl yazarım ve ardından bu sunucuyu ağ izinlerini vererek nasıl çalıştırırım?
+
+- **Kimin için:** JavaScript ve TypeScript projelerini güvenli ve modern bir ortamda geliştirmek isteyen yazılımcılar için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/denoland/deno)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Runtime Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/deno/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -21054,6 +21622,64 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Kapsamlı web uygulamaları için Angular
+
+Google tarafından geliştirilen Angular, ölçeklenebilir web uygulamaları oluşturmak için kullanılan kapsamlı bir çerçeve (framework). TypeScript tabanlı yapısıyla karmaşık projelerde geliştirme sürecini standartlaştıran ve yapılandıran araçlar sunuyor.
+
+- ★ 100.882
+- TypeScript
+- GitHub Trending · 2026-08-05
+
+## Ne kazandırır?
+- Mobil ve masaüstü web uygulamaları geliştirme imkânı sunar
+- TypeScript tabanlı yapısıyla karmaşık projeleri standartlaştırır
+- Geniş araç desteğiyle ölçeklenebilir projeler oluşturmayı kolaylaştırır
+
+## Kurulum
+
+**Komut satırı arayüzünü kurma**
+
+```
+npm install -g @angular/cli
+```
+
+## Çalıştırma
+
+**Yeni bir çalışma alanı oluşturma**
+
+```
+ng new [PROJECT NAME]
+```
+
+**Uygulamayı yerelde başlatma**
+
+```
+cd [PROJECT NAME]
+ng serve
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Angular kullanarak modern bir web uygulaması geliştirmek istiyorum. Proje kurulumu, temel bileşen yapısı ve uygulama geliştirme süreçlerinde izlemem gereken adımları, Angular CLI araçlarını kullanarak bana adım adım açıkla.
+
+- **Kimin için:** Ölçeklenebilir ve profesyonel web uygulamaları geliştirmek isteyen yazılımcılar için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/angular/angular)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Framework CLI Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/angular/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Projelerinizi yapay zekâ için bilgi çizgesine dönüştürün
 
 Graphify, kod dosyaları, veritabanı şemaları ve dokümantasyon gibi farklı veri türlerini sorgulanabilir bir bilgi çizgesi (knowledge graph) yapısına dönüştürüyor. Python tabanlı bu araç, çeşitli yapay zekâ kod yardımcıları (AI coding assistants) için merkezi bir veri katmanı oluşturmayı hedefliyor.
@@ -21104,6 +21730,42 @@ AI Coding Assistants Knowledge Graph CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/graphify/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Hızlı arayüz tasarımı için stil çatısı
+
+Tailwind CSS, hızlı kullanıcı arayüzü geliştirmeye odaklanan bir yardımcı program öncelikli (utility-first) stil sayfası çatısıdır (CSS framework). Hazır tasarım bileşenleri yerine düşük seviyeli sınıflar sunarak özgün arayüzlerin hızlıca oluşturulmasını sağlar.
+
+- ★ 96.571
+- TypeScript
+- GitHub Trending · 2026-08-05
+
+## Ne kazandırır?
+- Düşük seviyeli sınıflarla özgün tasarımlar oluşturun
+- Hazır bileşenlerle uğraşmadan arayüz geliştirin
+- Modern web projelerinde hızlı stil yönetimi sağlayın
+
+## Nasıl başlanır?
+
+Bu aracı kullanmaya başlamak için resmî web sitesi olan tailwindcss.com adresini ziyaret ederek kurulum ve kullanım dokümanlarını inceleyebilirsiniz.
+- [Resmî kaynak →](https://tailwindcss.com/)
+
+- **Kimin için:** Web projelerinde hızlı ve özgün kullanıcı arayüzleri tasarlamak isteyen yazılım geliştiriciler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/tailwindlabs/tailwindcss)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Utility-first CSS Framework Framework
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/tailwindcss/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -22871,6 +23533,55 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Web projeleri için modül paketleyici
+
+Webpack, JavaScript ve diğer web varlıklarını tarayıcıda çalışacak şekilde bir araya getiren bir paketleyici (bundler). Modülleri yönetilebilir parçalara ayıran kod bölme (code splitting) özelliği sayesinde uygulamaların ihtiyaç duyulduğunda yüklenmesini sağlar.
+
+- ★ 65.961
+- JavaScript
+- GitHub Trending · 2026-08-05
+
+## Ne kazandırır?
+- JavaScript dosyalarını tarayıcıda çalışacak şekilde birleştirir.
+- Kod bölme özelliğiyle uygulama yükleme süresini kısaltır.
+- TypeScript gibi farklı dosya türlerini önceden işleyebilir.
+
+## Kurulum
+
+**npm ile kurulum**
+
+```
+npm install --save-dev webpack
+```
+
+**yarn ile kurulum**
+
+```
+yarn add webpack --dev
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bir web geliştiricisi olarak, projelerimdeki JavaScript dosyalarını ve diğer statik varlıkları verimli bir şekilde paketlemek istiyorum. Webpack kullanarak modüllerimi nasıl yönetebilirim, kod bölme işlemini nasıl yapılandırabilirim ve projeme uygun yükleyicileri (loaders) nasıl tanımlayabilirim? Başlangıç seviyesinde bir yapılandırma dosyası örneği oluşturmama yardımcı ol.
+
+- **Kimin için:** Web uygulamalarındaki JavaScript dosyalarını ve diğer varlıkları düzenli bir şekilde paketlemek isteyen yazılım geliştiricileri içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/webpack/webpack)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Bundler Code Splitting Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/webpack/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ ajanınıza internet yeteneği kazandırın
 
 Agent-Reach, yapay zekâ ajanlarına internetin tamamını tarama ve içerik okuma yeteneği kazandıran bir komut satırı arayüzü (CLI) aracıdır. Twitter, Reddit ve GitHub gibi platformlardan veri çekmek için herhangi bir uygulama programlama arayüzü (API) ücreti ödemeden doğrudan erişim sağlar.
@@ -22923,7 +23634,7 @@ Lütfen Agent Reach aracını kurmama yardımcı ol. GitHub üzerindeki resmi ku
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CLI Agent API Artificial Intelligence
+Agent API CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-reach/
@@ -23263,7 +23974,7 @@ Vue.js tabanlı projelerim için Nuxt çerçevesini kullanmak istiyorum. Projemi
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-SEO Rendering Framework Artificial Intelligence
+Server-side Rendering SEO Rendering Framework Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/nuxt/
@@ -26575,7 +27286,7 @@ Bir yazılım geliştirme asistanı olarak, yerel dil modellerini kullanarak kod
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Refactoring IDE Coding Agent LLM CLI Agent
+Refactoring IDE Coding Agent LLM Agent CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/continue/
@@ -27055,11 +27766,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Rust diliyle geliştirilen llmfit, yüzlerce büyük dil modelini (large language model) ve sağlayıcıyı tarayarak donanımınızla uyumlu olanları tek bir komutla tespit etmenizi sağlıyor. Araç, yerel sistem kaynaklarına en uygun modelleri bulma sürecini otomatikleştiriyor.
 
-- ★ 31.076
+- ★ 31.111
 - Rust
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
+- 4 Ağustos 2026: Yıldız 31.076 → 31.111, son sürüm v1.1.8 (4 Ağustos 2026).
 - 3 Ağustos 2026: Yıldız 31.060 → 31.076, son sürüm v1.1.7 (3 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 30.309 → 31.060, son sürüm v1.1.6 (21 Temmuz 2026).
 
@@ -27518,6 +28230,40 @@ Framework Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-job-search/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# C++ projeleri için hızlı günlük kaydı
+
+spdlog, C++ programlama dili için geliştirilmiş çok hızlı bir günlük kaydı (logging) kütüphanesidir. Yazılım projelerinde hata ayıklama ve izleme süreçlerini hızlandırmak amacıyla yüksek performanslı çıktı yönetimi sunar.
+
+- ★ 29.402
+- C++
+- GitHub Trending · 2026-08-05
+
+## Ne kazandırır?
+- Yüksek performanslı günlük kaydı yönetimi
+- Dosya, konsol ve hata ayıklayıcı gibi farklı hedeflere çıktı
+- Çalışma anında dinamik günlük seviyesi değiştirme
+
+## Nasıl başlanır?
+
+Projenize dahil etmek için GitHub sayfasındaki include klasörünü çalışma dizininize kopyalamanız yeterlidir. Alternatif olarak, Debian, Homebrew veya vcpkg gibi paket yöneticileri üzerinden sisteminize uygun olan komutu kullanarak kütüphaneyi kurabilirsiniz.
+
+- **Kimin için:** Yazılım projelerinde hata ayıklama ve izleme süreçlerini hızlandırmak isteyen C++ geliştiricileri içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/gabime/spdlog)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Logging
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/spdlog/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -28356,7 +29102,7 @@ FastMCP kullanarak bir Python fonksiyonunu Model Bağlam Protokolü (MCP) uyumlu
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol Framework MCP Artificial Intelligence
+Model Context Protocol Model Context Protocol MCP Framework Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fastmcp/
@@ -28478,11 +29224,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur (agentic engineering platform). Açık kaynak kodlu yazılım geliştirme ajanı (coding agent) üzerinden uygulama oluşturma, dağıtma ve yineleme süreçlerini standartlaştırır.
 
-- ★ 26.672
+- ★ 26.704
 - TypeScript
 - GitHub Trending · 2026-06-19
 
 ## Güncelleme
+- 4 Ağustos 2026: Yıldız 26.672 → 26.704, son sürüm v7.4.19 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 22.481 → 26.672, son sürüm jetbrains/v7.0.12 (1 Ağustos 2026).
 
 ## Ne kazandırır?
@@ -28531,7 +29278,7 @@ Bir yazılım geliştirme ajanı olarak, mevcut proje dizinimde doğal dilden ko
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic Engineering Platform Agentic Engineering Coding Agent Agentic CLI Agent
+Agentic Engineering Platform Agentic Engineering Coding Agent Agentic Agent CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/kilocode/
@@ -32554,7 +33301,7 @@ Sen bir mühendislik asistanısın. text-to-cad kütüphanesini kullanarak belir
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Text-to-CAD Agent Skills AI Skills CLI Agent Artificial Intelligence
+Text-to-CAD Agent Skills AI Skills Agent CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/text-to-cad/
@@ -32880,7 +33627,7 @@ LiveKit Agents kullanarak gerçek zamanlı sesli etkileşim kurabilen bir yapay 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agents Framework LLM Agent Artificial Intelligence
+Agents LLM Framework Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agents/
@@ -33302,7 +34049,7 @@ Astryx tasarım sistemini kullanarak bir arayüz bileşeni oluşturmak istiyorum
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent Ready Design System CLI Agent API Artificial Intelligence
+Agent Ready Design System Agent API CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/astryx/
@@ -34557,7 +35304,7 @@ Elimdeki PDF dosyasını analiz etmem gerekiyor. Bu dosyayı metin tabanlı mı 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Markdown PDF Rust Artificial Intelligence
+PDF Inspector Markdown PDF Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pdf-inspector/
@@ -35011,7 +35758,7 @@ Stitch Skills kütüphanesini kullanarak mevcut arayüz kodumu analiz et ve bunu
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Coding Agents Agent Skills Agents AI Skills MCP CLI
+Coding Agents Agent Skills Agents AI Skills MCP Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stitch-skills/
@@ -35668,11 +36415,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Kaneo, kullanıcı odaklı bir arayüzle geliştirilen açık kaynaklı bir proje yönetimi (project management) aracıdır. TypeScript ile yazılan platform, karmaşıklıktan arındırılmış iş akışları oluşturmayı hedefler.
 
-- ★ 5.995
+- ★ 7.032
 - TypeScript
 - GitHub Trending · 2026-08-01
 
 ## Güncelleme
+- 4 Ağustos 2026: Yıldız 5.995 → 7.032, son sürüm v2.12.1 (30 Temmuz 2026).
 - 2 Ağustos 2026: Yıldız 5.248 → 5.995, son sürüm v2.12.1 (30 Temmuz 2026).
 
 ## Ne kazandırır?
@@ -36900,7 +37648,7 @@ Agent-Native çerçevesini kullanarak uygulamam için bir aksiyon tanımlamak is
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent-native Applications AI Skills Framework CLI Agent API
+Agent-native Applications AI Skills Framework Agent API CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-native/
@@ -37336,6 +38084,42 @@ Shell Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/council-of-high-intelligence/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Yapay zekâ ajanlarına bilgisayar kontrolü
+
+Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel veya uzak bir bilgisayarı kontrol etme yeteneği kazandıran bir TypeScript kütüphanesi. Bu araç, ajanların işletim sistemi üzerinde komut çalıştırmasına ve dosya sistemine erişerek karmaşık görevleri otomatize etmesine olanak tanıyor.
+
+- ★ 3.677
+- TypeScript
+- GitHub Trending · 2026-08-06
+
+## Ne kazandırır?
+- Ajanların işletim sistemi üzerinde komut çalıştırmasını sağlar
+- Dosya sistemine erişerek karmaşık görevleri otomatize eder
+- Konteyner veya izole edilmiş çalışma ortamları sunar
+
+## Nasıl başlanır?
+
+Bu aracı kullanmaya başlamak için öncelikle Cloudflare Computer paketini projenize dahil etmeniz gerekir. Kurulum adımları, giriş noktası haritası ve dosya sistemi kullanımıyla ilgili örnekler için GitHub deposundaki packages/computer dizininde yer alan README dosyasını inceleyebilirsiniz.
+- [Resmî kaynak →](https://github.com/vercel-labs/just-bash)
+
+- **Kimin için:** Yapay zekâ ajanlarına yerel veya uzak bilgisayarlar üzerinde dosya yönetimi ve komut çalıştırma yeteneği kazandırmak isteyen geliştiriciler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/cloudflare/computer)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/computer/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -37934,6 +38718,61 @@ Model Context Protocol Model Context Protocol AI Agents Agents MCP Artificial In
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vulnclaw/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Yapay zekâ ajanları için kalıcı hafıza
+
+Loopx, uzun süreli çalışan yapay zekâ ajan ekipleri için geliştirilmiş hafif bir durum çekirdeği (state kernel). Kodlama ajanları (Codex, Claude Code) ile uyumlu çalışarak görev takibi, kota yönetimi ve doğrulanabilir iş devri gibi süreçleri standartlaştırıyor.
+
+- ★ 2.385
+- Python
+- GitHub Trending · 2026-08-06
+
+## Ne kazandırır?
+- Uzun süreli görevlerde hedef takibini ve kota yönetimini standartlaştırır.
+- Farklı yapay zekâ ajanları arasında doğrulanabilir iş devri sağlar.
+- Görev geçmişini ve kanıtları düzenli bir yapıda saklar.
+
+## Kurulum
+
+**Doğrudan kurulum**
+
+```
+curl -fsSL https://raw.githubusercontent.com/huangruiteng/loopx/main/scripts/install-from-github.sh | bash
+export PATH="$HOME/.local/bin:$PATH"
+loopx doctor
+```
+
+## Çalıştırma
+
+**Projeyi başlatma**
+
+```
+cd /path/to/your-project
+loopx connect
+loopx status
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Seninle uzun süreli bir proje üzerinde çalışacağız. Görevlerimizi, hedeflerimizi ve ilerleme kayıtlarımızı LoopX durum çekirdeği ile yönetmeni istiyorum. Çalışırken her adımda mevcut durumu kontrol et, tamamlanan işlerin kanıtlarını kaydet ve bir sonraki yapılacak işi (todo) belirleyerek kota sınırları içinde kal. Görev devri yaparken veya yeni bir aşamaya geçerken LoopX üzerinden doğrulanabilir bir iz bırak.
+
+- **Kimin için:** Günlerce süren yazılım geliştirme, araştırma veya veri analizi gibi karmaşık süreçleri yöneten yapay zekâ ajanları kullanan kişiler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/huangruiteng/loopx)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+State Kernel Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/loopx/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -38987,6 +39826,52 @@ Stacked Pull Requests Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/gh-stack/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Kurumsal yapay zekâ ajanları için güvenlik
+
+Uber tarafından geliştirilen ADR, kurumsal yapay zekâ ajanlarını gözlemlenebilirlik, güvenlik kıyaslaması ve tehdit algılama yöntemleriyle koruma altına alıyor. Yazılım, yapay zekâ sistemlerinin güvenliğini artırmak için geliştirilmiş bir güvenlik çerçevesi (framework) sunuyor.
+
+- ★ 782
+- Python
+- GitHub Trending · 2026-08-05
+
+## Ne kazandırır?
+- Yapay zekâ ajanlarının gerçekleştirdiği işlemleri izleyerek ne yaptıklarını ve neden yaptıklarını anlamanızı sağlar.
+- 17 farklı saldırı tekniğine karşı 300'den fazla görevle ajan güvenliğini test eder.
+- Şüpheli oturumları tespit etmek için iki aşamalı bir mimari kullanır.
+
+## Kurulum
+
+**Tespit sistemini hazırlama**
+
+```
+git clone https://github.com/uber/ADR
+cd ADR/Detection
+uv sync
+export ANTHROPIC_API_KEY="..." OPENAI_API_KEY="..."
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Kurumsal yapay zekâ ajanlarımı güvenlik açıklarına karşı nasıl koruyabilirim? ADR sistemini kullanarak ajan faaliyetlerini nasıl izleyebilir, tehditleri nasıl tespit edebilir ve güvenlik kıyaslaması yaparak sistemimin savunma gücünü nasıl değerlendirebilirim? Lütfen bu süreçte izlemem gereken adımları ve ADR'nin sunduğu gözlemlenebilirlik özelliklerini nasıl yapılandıracağımı açıkla.
+
+- **Kimin için:** Kurumsal düzeyde yapay zekâ ajanları çalıştıran ve bu sistemlerin güvenliğini sağlamak isteyen güvenlik uzmanları ile yazılım geliştiriciler için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/uber/ADR)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Framework Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/adr/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
