@@ -85,7 +85,9 @@ dirs.sort().reverse().forEach(dateStr => {
   const enDateFormatted = formatEnDate(dateStr);
   
   // Dedicated English PDF URL
-  const enPdfUrl = `/reports/trescout-report-${dateStr}-en.pdf`;
+  // İngilizce PDF üretimi henüz yok · içeriksiz dosya sunmak yerine ORİJİNAL
+  // Türkçe raporu veriyoruz ve etiketinde bunu açıkça söylüyoruz (landing#68).
+  const trPdfUrl = `/reports/trescout-rapor-${dateStr}.pdf`;
 
   // Translate chips
   let enChips = chipsMatch ? chipsMatch[1] : '<span class="chip">Daily Tech Radar</span>';
@@ -138,10 +140,10 @@ dirs.sort().reverse().forEach(dateStr => {
       <div class="rep-chips">${badgeTag}${enChips}</div>
       <p class="rep-editorial">${enEditorial}</p>
       <div class="rep-actions">
-        <a class="act act-read" href="${enPdfUrl}" target="_blank" rel="noopener">Open English PDF →</a>
-        <a class="act act-dl" href="${enPdfUrl}" download>Download PDF</a>
+        <a class="act act-read" href="${trPdfUrl}" target="_blank" rel="noopener">Open original PDF (Turkish) →</a>
+        <a class="act act-dl" href="${trPdfUrl}" download>Download PDF</a>
       </div>
-      <p class="rep-note">Full English technology intelligence report featuring trend analysis, source links, and glossary terms.</p>
+      <p class="rep-note">The full report PDF is currently published in Turkish only. It carries every item, source link and glossary term; repository names, metrics and links are language independent. An English PDF edition is in preparation.</p>
       <aside class="signup-cta">
         <p><strong>Get daily technology reports in your inbox.</strong> TreScout scans, summarizes, and delivers. You just read.</p>
         <a class="btn btn-primary" href="/en/#top">Join Early Access List →</a>
@@ -165,7 +167,7 @@ dirs.sort().reverse().forEach(dateStr => {
           </a>
           <div class="card-actions">
             <a class="act act-read" href="/en/reports/${dateStr}/">Read →</a>
-            <a class="act act-pdf" href="${enPdfUrl}" download>Download PDF</a>
+            <a class="act act-pdf" href="${trPdfUrl}" download>PDF (Turkish)</a>
           </div>
         </article>`);
 });
@@ -209,7 +211,7 @@ const enReportsIndexHtml = `<!DOCTYPE html>
           <span>🌐</span> <span>Historical Translated Archive Notice</span>
         </div>
         <p class="arch-banner-text">
-          The 71 daily reports from <strong>August 5, 2026 and earlier</strong> were retroactively translated and rendered from the original daily Turkish intelligence archives. Reports published from <strong>August 6, 2026 onwards</strong> are generated natively in real-time in both English and Turkish.
+          These English pages are translated from the original Turkish daily reports. The full report PDF is published in Turkish only for now; an English PDF edition is in preparation.
         </p>
       </div>
 
