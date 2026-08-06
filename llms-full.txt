@@ -26402,6 +26402,61 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Birden fazla yapay zekâ ajanı yönetin
+
+Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme ortamı (agent development environment) sunuyor. Kullanıcılar, kendi aboneliklerini kullanarak çeşitli kodlama ajanlarını hem masaüstü hem de mobil platformlarda çalıştırabiliyor.
+
+- ★ 38.450
+- TypeScript
+- GitHub Trending · 2026-06-25
+
+## Güncelleme
+- 6 Ağustos 2026: Yıldız 38.391 → 38.450, son sürüm v1.4.175 (6 Ağustos 2026).
+- 6 Ağustos 2026: Yıldız 36.861 → 38.391, son sürüm v1.4.174 (6 Ağustos 2026).
+- 4 Ağustos 2026: Yıldız 36.079 → 36.861, son sürüm v1.4.167 (3 Ağustos 2026).
+- 3 Ağustos 2026: Yıldız 35.584 → 36.079, son sürüm v1.4.165 (3 Ağustos 2026).
+
+## Ne kazandırır?
+- Aynı anda birden fazla yapay zekâ ajanını farklı çalışma alanlarında çalıştırın.
+- Mobil uygulama üzerinden ajanlarınızı uzaktan izleyin ve yönlendirin.
+- GitHub ve Linear entegrasyonu ile projeleri uygulama içinden yönetin.
+
+## Kurulum
+
+**macOS için kurulum**
+
+```
+brew install --cask stablyai/orca/orca
+```
+
+**Arch Linux için kurulum**
+
+```
+yay -S stably-orca-bin
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Orca üzerinde birden fazla yapay zekâ ajanını eş zamanlı olarak farklı çalışma alanlarında başlat. Bir komutu beş farklı ajana aynı anda göndererek sonuçları karşılaştır ve en iyi olanı birleştir. Ajanların çalışma durumunu mobil uygulama üzerinden takip etmemi sağla ve süreç tamamlandığında bana bildirim gönder.
+
+- **Kimin için:** Aynı anda birden fazla yapay zekâ ajanıyla çalışan ve projelerini tek bir merkezden yönetmek isteyen yazılım geliştiriciler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/stablyai/orca)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Agent Development Environment Agent Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/orca/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Rust ile çok platformlu uygulamalar
 
 Dioxus, web, masaüstü ve mobil platformlar için tek bir kod tabanıyla uçtan uca (fullstack) uygulamalar geliştirmeye olanak tanıyan bir Rust çerçevesidir (framework). React benzeri bileşen tabanlı yapısıyla kullanıcı arayüzü oluşturma sürecini hızlandırarak Rust ekosistemindeki uygulama geliştirme deneyimini standartlaştırır.
@@ -26523,61 +26578,6 @@ Multimodal AI Models AI Agents Agents Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ui-tars-desktop/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Birden fazla yapay zekâ ajanı yönetin
-
-Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme ortamı (agent development environment) sunuyor. Kullanıcılar, kendi aboneliklerini kullanarak çeşitli kodlama ajanlarını hem masaüstü hem de mobil platformlarda çalıştırabiliyor.
-
-- ★ 38.391
-- TypeScript
-- GitHub Trending · 2026-06-25
-
-## Güncelleme
-- 6 Ağustos 2026: Yıldız 36.861 → 38.391, son sürüm v1.4.174 (6 Ağustos 2026).
-- 4 Ağustos 2026: Yıldız 36.079 → 36.861, son sürüm v1.4.167 (3 Ağustos 2026).
-- 3 Ağustos 2026: Yıldız 35.584 → 36.079, son sürüm v1.4.165 (3 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 7.044 → 35.584, son sürüm v1.4.164 (2 Ağustos 2026).
-
-## Ne kazandırır?
-- Aynı anda birden fazla yapay zekâ ajanını farklı çalışma alanlarında çalıştırın.
-- Mobil uygulama üzerinden ajanlarınızı uzaktan izleyin ve yönlendirin.
-- GitHub ve Linear entegrasyonu ile projeleri uygulama içinden yönetin.
-
-## Kurulum
-
-**macOS için kurulum**
-
-```
-brew install --cask stablyai/orca/orca
-```
-
-**Arch Linux için kurulum**
-
-```
-yay -S stably-orca-bin
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Orca üzerinde birden fazla yapay zekâ ajanını eş zamanlı olarak farklı çalışma alanlarında başlat. Bir komutu beş farklı ajana aynı anda göndererek sonuçları karşılaştır ve en iyi olanı birleştir. Ajanların çalışma durumunu mobil uygulama üzerinden takip etmemi sağla ve süreç tamamlandığında bana bildirim gönder.
-
-- **Kimin için:** Aynı anda birden fazla yapay zekâ ajanıyla çalışan ve projelerini tek bir merkezden yönetmek isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/stablyai/orca)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Agent Development Environment Agent Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/orca/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -29773,12 +29773,13 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Compound Engineering ; Claude Code, Codex ve Cursor için geliştirilmiş resmi bir eklentidir. Temel felsefesi nettir: her mühendislik işi bir sonrakini zorlaştırmamalı, aksine kolaylaştırmalıdır. Bu amaçla, geliştirme sürecini iyileştiren yapay zekâ becerileri ve ajanları sunar.
 
-- ★ 24.041
+- ★ 24.046
 - TypeScript
 - MIT
 - GitHub Trending · 29 May 2026
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 24.041 → 24.046, son sürüm compound-engineering-v3.21.4 (6 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 23.748 → 24.041, son sürüm compound-engineering-v3.21.3 (5 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 23.700 → 23.748, son sürüm compound-engineering-v3.21.1 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 17.931 → 23.700, son sürüm compound-engineering-v3.21.0 (31 Temmuz 2026).
