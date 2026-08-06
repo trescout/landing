@@ -1713,7 +1713,7 @@
     ],
     "stars": 349290,
     "lite": false,
-    "headline": "Yazılım mülakatlarına yapay zekâ desteğiyle hazırlanın",
+    "headline": "Yazılım Mülakatlarına Hazırlık Rehberi",
     "last_review": "2026-08-06",
     "tagline_en": "Coding-interview-university provides the basics of computer science for those who want to become software engineers…"
   },
@@ -3753,7 +3753,7 @@
     ],
     "stars": 35393,
     "lite": false,
-    "headline": "Popüler Platformları yapay zekâyla Kopyalayın",
+    "headline": "Popüler Platformların Açık Kaynak Kopyaları",
     "last_review": "2026-08-06",
     "tagline_en": "Clone-Wars brings more than 100 open source clones of popular platforms such as Airbnb, Instagram and Netflix under one roof."
   },
@@ -4375,7 +4375,7 @@
     ],
     "stars": 25223,
     "lite": false,
-    "headline": "Yüksek performanslı yapay zekâ alım satım motoru",
+    "headline": "Yüksek Performanslı Algoritmik İşlem Platformu",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -4573,7 +4573,7 @@
     ],
     "stars": 39916,
     "lite": false,
-    "headline": "Kapsamlı yapay zekâ destekli API istemcisi",
+    "headline": "Modern API isteklerini kolayca yönetin",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -5588,7 +5588,7 @@
     ],
     "stars": 7424,
     "lite": false,
-    "headline": "Kod gönderimleriniz için yapay zekâ destekli güvenlik",
+    "headline": "Hatalı kod gönderimlerini engelleyin",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -5648,7 +5648,7 @@
     ],
     "stars": 7040,
     "lite": false,
-    "headline": "Kendi sunucunuzda kişisel yapay zekâ seyahat planlayıcısı",
+    "headline": "Ekip Çalışması ve Bütçe Yönetimi",
     "tagline_en": "TREK is a self-hosted…"
   },
   {
@@ -7769,7 +7769,7 @@
     ],
     "stars": 23853,
     "lite": false,
-    "headline": "Kubernetes için yapay zekâ destekli sürekli dağıtım",
+    "headline": "Kubernetes Dağıtımlarını Otomatize Edin",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",

@@ -1,4 +1,4 @@
-# Kendi sunucunuzda kişisel yapay zekâ seyahat planlayıcısı
+# Ekip Çalışması ve Bütçe Yönetimi
 
 TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılan (self-hosted) bir seyahat planlama uygulamasıdır. Aşamalı web uygulaması (PWA) desteği ve tek oturum açma (SSO) entegrasyonu ile kullanıcıların seyahat süreçlerini dijital ortamda organize etmelerine olanak tanır.
 

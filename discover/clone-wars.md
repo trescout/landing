@@ -1,4 +1,4 @@
-# Popüler Platformları yapay zekâyla Kopyalayın
+# Popüler Platformların Açık Kaynak Kopyaları
 
 Clone-Wars, Airbnb, Instagram ve Netflix gibi popüler platformların 100'den fazla açık kaynaklı kopyasını (clone) tek bir çatı altında topluyor. Geliştiriciler, projelerin kaynak kodlarına, teknoloji yığınlarına (tech stack) ve canlı demo bağlantılarına erişerek uygulama mimarilerini inceleyebiliyor.
 
@@ -24,7 +24,7 @@ Clone-Wars bir yazılım aracı değil, popüler platformların açık kaynaklı
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Tech Stack Clone
+Tech Stack Clone Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/clone-wars/

@@ -1,4 +1,4 @@
-# Kapsamlı yapay zekâ destekli API istemcisi
+# Modern API isteklerini kolayca yönetin
 
 Insomnia, GraphQL, REST, WebSockets, SSE ve gRPC protokollerini destekleyen açık kaynaklı bir uygulama programlama arayüzü (API) istemcisidir. Yazılım, bulut tabanlı, yerel ve Git üzerinden depolama seçenekleriyle çapraz platform desteği sunar.
 
@@ -28,7 +28,7 @@ Insomnia'yı kullanmaya başlamak için resmî web sitesi olan https://insomnia.
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-API Artificial Intelligence
+API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/insomnia/

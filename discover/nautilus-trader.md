@@ -1,4 +1,4 @@
-# Yüksek performanslı yapay zekâ alım satım motoru
+# Yüksek Performanslı Algoritmik İşlem Platformu
 
 Nautilus Trader, Rust diliyle geliştirilmiş, deterministik olay güdümlü mimariye (event-driven architecture) sahip bir alım satım motorudur (trading engine). Yüksek performanslı finansal sistemler için üretim seviyesinde (production-grade) altyapı çözümleri sunar.
 

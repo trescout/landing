@@ -19896,7 +19896,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Yazılım mülakatlarına yapay zekâ desteğiyle hazırlanın
+# Yazılım Mülakatlarına Hazırlık Rehberi
 
 Coding-interview-university, yazılım mühendisi olmak isteyenler için bilgisayar bilimleri (computer science) temellerini kapsayan kapsamlı bir çalışma planı sunuyor. Bu kaynak, teknik mülakatlara hazırlık sürecinde ihtiyaç duyulan teorik ve pratik bilgileri yapılandırılmış bir müfredatla birleştiriyor.
 
@@ -26172,7 +26172,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Kapsamlı yapay zekâ destekli API istemcisi
+# Modern API isteklerini kolayca yönetin
 
 Insomnia, GraphQL, REST, WebSockets, SSE ve gRPC protokollerini destekleyen açık kaynaklı bir uygulama programlama arayüzü (API) istemcisidir. Yazılım, bulut tabanlı, yerel ve Git üzerinden depolama seçenekleriyle çapraz platform desteği sunar.
 
@@ -26202,7 +26202,7 @@ Insomnia'yı kullanmaya başlamak için resmî web sitesi olan https://insomnia.
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-API Artificial Intelligence
+API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/insomnia/
@@ -27259,7 +27259,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Popüler Platformları yapay zekâyla Kopyalayın
+# Popüler Platformların Açık Kaynak Kopyaları
 
 Clone-Wars, Airbnb, Instagram ve Netflix gibi popüler platformların 100'den fazla açık kaynaklı kopyasını (clone) tek bir çatı altında topluyor. Geliştiriciler, projelerin kaynak kodlarına, teknoloji yığınlarına (tech stack) ve canlı demo bağlantılarına erişerek uygulama mimarilerini inceleyebiliyor.
 
@@ -27285,7 +27285,7 @@ Clone-Wars bir yazılım aracı değil, popüler platformların açık kaynaklı
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Tech Stack Clone
+Tech Stack Clone Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/clone-wars/
@@ -29661,7 +29661,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Yüksek performanslı yapay zekâ alım satım motoru
+# Yüksek Performanslı Algoritmik İşlem Platformu
 
 Nautilus Trader, Rust diliyle geliştirilmiş, deterministik olay güdümlü mimariye (event-driven architecture) sahip bir alım satım motorudur (trading engine). Yüksek performanslı finansal sistemler için üretim seviyesinde (production-grade) altyapı çözümleri sunar.
 
@@ -29878,7 +29878,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Kubernetes için yapay zekâ destekli sürekli dağıtım
+# Kubernetes Dağıtımlarını Otomatize Edin
 
 Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarative continuous deployment) süreçlerini yöneten bir araçtır. Uygulama durumlarını Git depolarıyla senkronize ederek altyapı üzerinde otomatik güncellemeler sağlar.
 
@@ -29909,7 +29909,7 @@ Argo CD kullanmaya başlamak için resmî dokümantasyon sayfasını ziyaret ede
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Declarative Continuous Deployment Continuous Deployment Deployment Artificial Intelligence
+Declarative Continuous Deployment Continuous Deployment Deployment
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/argo-cd/
@@ -36368,7 +36368,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Kod gönderimleriniz için yapay zekâ destekli güvenlik
+# Hatalı kod gönderimlerini engelleyin
 
 Go diliyle geliştirilen no-mistakes, yazılım geliştiricilerin hatalı kod gönderimlerini (git push) engellemek için tasarlanmış bir komut satırı aracıdır. Yerel geliştirme ortamında çalışarak, kod tabanına istenmeyen değişikliklerin aktarılmasını önleyen bir güvenlik katmanı sağlar.
 
@@ -36643,7 +36643,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Kendi sunucunuzda kişisel yapay zekâ seyahat planlayıcısı
+# Ekip Çalışması ve Bütçe Yönetimi
 
 TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılan (self-hosted) bir seyahat planlama uygulamasıdır. Aşamalı web uygulaması (PWA) desteği ve tek oturum açma (SSO) entegrasyonu ile kullanıcıların seyahat süreçlerini dijital ortamda organize etmelerine olanak tanır.
 

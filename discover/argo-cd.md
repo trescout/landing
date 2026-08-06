@@ -1,4 +1,4 @@
-# Kubernetes için yapay zekâ destekli sürekli dağıtım
+# Kubernetes Dağıtımlarını Otomatize Edin
 
 Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarative continuous deployment) süreçlerini yöneten bir araçtır. Uygulama durumlarını Git depolarıyla senkronize ederek altyapı üzerinde otomatik güncellemeler sağlar.
 
@@ -29,7 +29,7 @@ Argo CD kullanmaya başlamak için resmî dokümantasyon sayfasını ziyaret ede
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Declarative Continuous Deployment Continuous Deployment Deployment Artificial Intelligence
+Declarative Continuous Deployment Continuous Deployment Deployment
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/argo-cd/

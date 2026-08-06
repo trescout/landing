@@ -1,4 +1,4 @@
-# Kod gönderimleriniz için yapay zekâ destekli güvenlik
+# Hatalı kod gönderimlerini engelleyin
 
 Go diliyle geliştirilen no-mistakes, yazılım geliştiricilerin hatalı kod gönderimlerini (git push) engellemek için tasarlanmış bir komut satırı aracıdır. Yerel geliştirme ortamında çalışarak, kod tabanına istenmeyen değişikliklerin aktarılmasını önleyen bir güvenlik katmanı sağlar.
 
