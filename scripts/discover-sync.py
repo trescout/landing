@@ -536,9 +536,28 @@ def headline_backfill(cat, key, limit):
     json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
     print(f"✅ {n} yeni başlık · {denetlenen} denetimden geçirildi · {fixed} normalize · catalog güncellendi")
 
+def _basligi_denetle(n, rich, key):
+    """Zenginleştirmeden gelen başlığı sayfaya yazmadan önce denetle · tek kaynak.
+
+    build_page sayfaya `rich["baslik"]`ı, base_entry kataloğa vet_headline'dan geçmiş
+    hâlini yazıyordu · ikisi ayrışıyordu (2026-08-06: trek sayfasında karşılıksız
+    yapay zekâ iddiası geri geldi, katalog temizdi). Denetim burada bir kez yapılır,
+    iki yol da aynı değeri kullanır (base_entry'nin tekrar denetlemesi zararsız).
+    """
+    if not rich or not rich.get("baslik"): return
+    if n.get("headline_locked") and n.get("headline"):   # insan doğrulaması · model üzerine yazamaz
+        rich["baslik"]=n["headline"]; return
+    b=vet_headline(normalize_headline(rich["baslik"].strip()), n, key)
+    eski=n.get("headline")
+    b=b or (eski if eski and not _ai_iddiasi(eski) else None)
+    if b: rich["baslik"]=b
+    else: rich.pop("baslik",None)   # temiz başlık yok · sayfa repo adına düşsün
+
+
 def process_one(n, key):
     """Entry'i zenginleştir + sayfa & kart yaz. Döner: (rich|None, reason|None)."""
     rich,reason=enrich_entry(n["url"],n["title"],n.get("summary",""),key)
+    _basligi_denetle(n, rich, key)
     os.makedirs(os.path.join(DISC,n["slug"]),exist_ok=True)
     open(os.path.join(DISC,n["slug"],"index.html"),"w",encoding="utf-8").write(build_page(n,rich))
     card=os.path.join(OGDIR,n["slug"]+".webp")
