@@ -86,6 +86,13 @@ jobs:
           python3 scripts/llms-txt.py
 
       # Sayfa guard'ları · üretilen sayfalar [skip ci] ile push'landığı için csp-inline-guard.yml
+      # Ortak chrome (nav/footer) dört üreticide kopyalanmış durumda · yeni üretilen
+      # sayfalar eski menüyle çıkabiliyor. Kanonik hâli tek yer veriyor: bu normalize
+      # edici. Üretimden SONRA, guard'lardan ÖNCE çalışır (2026-08-06'da 24 sözlük
+      # sayfası eski nav'la üretilip guard'ı düşürdüğü için eklendi).
+      - name: Chrome normalize (nav + footer kanonik hâle)
+        run: node scripts/fix-all-headers-and-footers.js
+
       # bot commit'lerinde çalışmaz; aynı 4 guard'ı burada üretici çıktısına da uyguluyoruz.
       - name: Inline CSS/JS kontrolü
         run: python3 scripts/check-no-inline-csp.py
