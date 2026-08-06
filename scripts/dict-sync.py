@@ -224,7 +224,10 @@ def render_index(manifest):
       f'<script type="application/ld+json">\n{jl}\n</script>\n'
       '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>\n'
       '<link rel="stylesheet" href="/assets/site.css">\n<link rel="stylesheet" href="/assets/discover.css">\n<link rel="stylesheet" href="/assets/dictionary.css">\n</head>\n')
-    body=('<body>\n<a class="skip-link" href="#main">Ana içeriğe atla</a>\n'+NAV+'\n<main id="main">\n<div class="disc">\n'
+    # Sözlük DİZİNİ site genişliğini kullanır (.container) · detay sayfasının 720px'lik
+    # okuma sütunu (.disc) yanlışlıkla buraya da uygulanmıştı: Türkçe dizin 2 sütun,
+    # İngilizcesi 3 sütun görünüyordu (2026-08-06 genişlik denetimi).
+    body=('<body>\n<a class="skip-link" href="#main">Ana içeriğe atla</a>\n'+NAV+'\n<main id="main">\n<div class="container container-pad">\n'
       '<div class="dict-index-hero"><span class="disc-eyebrow">Sözlük</span><h1 class="dict-index-title">Teknoloji Sözlüğü</h1>'
       '<p class="dict-index-lead">Yapay zekâ ve yazılımın <strong>yeni terimleri</strong>, sade Türkçe açıklamalarıyla. TreScout her gün trendleri tararken karşılaştığı terimleri buraya ekler.</p></div>\n'
       '<div class="dict-controls"><input type="search" id="dict-search" class="dict-search" placeholder="Terim ara: RAG, embedding, fine-tuning…" aria-label="Terim ara"></div>\n'

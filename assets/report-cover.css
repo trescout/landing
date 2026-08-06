@@ -1,7 +1,7 @@
 /* TreScout · rapor KAPAK sayfası stilleri · site.css üzerine biner · generator (publish-report.ts) üretir */
 
   /* kapak · iskelet /assets/site.css'te · chip + act burada (arşivle aynı dil) */
-  .report-main { max-width: 760px; margin: 0 auto; padding: 56px 24px 48px; }
+  .report-main { max-width: 720px; margin: 0 auto; padding: 56px 24px 48px; }   /* okuma sütunu · keşif/sözlük detayıyla aynı */
   .rep-back { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; color: var(--ink-muted); margin-bottom: 28px; transition: color .15s; }
   .rep-back:hover { color: var(--accent); }
   .rep-eyebrow { font-size: 12px; letter-spacing: .22em; text-transform: uppercase; color: var(--accent); font-weight: 700; margin-bottom: 12px; }
