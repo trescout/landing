@@ -224,7 +224,9 @@ def build(slug, cat, chrome):
         return None
     t = open(tp, encoding="utf-8").read()
     c = cat.get(slug, {})
-    title = metin(blok(r"<title>(.*?)</title>", t)).split(" · ")[0]
+    # Başlık katalogdan · sayfa <title>'ı eski üretimlerde kalıp dışı olabiliyor
+    # (bir sayfada başlık yerine editöryel cümle vardı, İngilizce eyebrow'a Türkçe düşüyordu).
+    title = c.get("title") or metin(blok(r"<title>(.*?)</title>", t)).split(" · ")[0]
     headline = tr2en(metin(blok(r'<h1 class="disc-title">(.*?)</h1>', t)))
     lead = tr2en(metin(blok(r'<p class="disc-lead">(.*?)</p>', t)))
     url = blok(r'<ul class="disc-links"><li><a href="([^"]+)"', t)
