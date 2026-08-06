@@ -21117,15 +21117,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını sağlayan C ve C++ tabanlı bir çıkarım (inference) kütüphanesidir. Yazılım, düşük bellek kullanımı ve yüksek performans odaklı yapısıyla yerel cihazlarda yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.
 
-- ★ 122.866
+- ★ 122.872
 - C++
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 122.866 → 122.872, son sürüm b10293 (6 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 122.857 → 122.866, son sürüm b10291 (6 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 122.639 → 122.857, son sürüm b10290 (6 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 122.629 → 122.639, son sürüm b10256 (4 Ağustos 2026).
-- 4 Ağustos 2026: Yıldız 122.512 → 122.629, son sürüm b10255 (4 Ağustos 2026).
 
 ## Ne kazandırır?
 - Büyük dil modellerini standart donanımlarda verimli çalıştırır.
@@ -30621,11 +30621,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir yazılım projesidir. TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerini otomatize etmeyi hedefleyen yapay zekâ destekli bir çalışma ortamı sunar.
 
-- ★ 21.152
+- ★ 21.196
 - TypeScript
 - GitHub Trending · 2026-07-30
 
 ## Güncelleme
+- 6 Ağustos 2026: Yıldız 21.152 → 21.196, son sürüm v0.18.17 (6 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 20.740 → 21.152, son sürüm v0.18.16 (5 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 20.174 → 20.740, son sürüm v0.18.13 (3 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 18.143 → 20.174, son sürüm v0.18.12 (30 Temmuz 2026).
