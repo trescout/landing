@@ -90,6 +90,12 @@ jobs:
       # sayfalar eski menüyle çıkabiliyor. Kanonik hâli tek yer veriyor: bu normalize
       # edici. Üretimden SONRA, guard'lardan ÖNCE çalışır (2026-08-06'da 24 sözlük
       # sayfası eski nav'la üretilip guard'ı düşürdüğü için eklendi).
+      # Sitemap'i güncel tutan bir süreç yoktu · İngilizce sayfalar tek seferlik
+      # eklenmiş ve güncellenmemişti (2026-08-06'da 154 sayfa dışarıdaydı).
+      # Diskteki her sayfayı alır, silinmişleri çıkarır, mevcut lastmod'lara dokunmaz.
+      - name: Sitemap senkronu
+        run: python3 scripts/sitemap-sync.py
+
       - name: Chrome normalize (nav + footer kanonik hâle)
         run: node scripts/fix-all-headers-and-footers.js
 
