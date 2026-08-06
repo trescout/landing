@@ -1,0 +1,347 @@
+{
+  "date": "2026-08-06",
+  "editorial": "Yapay zekâ ekosisteminde otonom ajanlar (autonomous agents) arası güvenlik testleri ve yeni nesil dil modelleri (large language models) bugün teknoloji gündeminin merkezinde yer alıyor. Google DeepMind yönetimindeki yapısal değişimler ve Rust dilinin yapay zekâ politikası oluşturma süreci, sektörün kurumsal yönetişim ve güvenlik standartlarına odaklandığını gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "summary": "Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel veya uzak bir bilgisayarı kontrol etme yeteneği kazandıran bir TypeScript kütüphanesi. Bu araç, ajanların işletim sistemi üzerinde komut çalıştırmasına ve dosya sistemine erişerek karmaşık görevleri otomatize etmesine olanak tanıyor.",
+          "meta": "TypeScript · ★ 3.677 · +891 bugün"
+        },
+        {
+          "title": "huangruiteng/loopx",
+          "url": "https://github.com/huangruiteng/loopx",
+          "summary": "Loopx, uzun süreli çalışan yapay zekâ ajan ekipleri için geliştirilmiş hafif bir durum çekirdeği (state kernel). Kodlama ajanları (Codex, Claude Code) ile uyumlu çalışarak görev takibi, kota yönetimi ve doğrulanabilir iş devri gibi süreçleri standartlaştırıyor.",
+          "meta": "Python · ★ 2.385 · +326 bugün"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory, yapay zekâ ajanları (AI Agents) için sohbet geçmişi, dokümanlar ve kod gibi verileri yönetilebilir bellek varlıklarına dönüştüren bir merkezdir. Bu sistem, farklı ajanlar ve çerçeveler arasında paylaşılan verileri dört ana yapıda (sohbet belleği, yetenek, bilgi tabanı ve kod grafiği) standartlaştırır.",
+          "meta": "TypeScript · ★ 15.340 · +1.892 bugün"
+        },
+        {
+          "title": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "summary": "System Design Primer, büyük ölçekli sistem tasarımı (system design) öğrenmek ve teknik mülakatlara hazırlanmak için hazırlanan kapsamlı bir kaynak deposu. İçeriğinde yer alan teorik bilgiler ve pratik bilgi kartları (flashcards), karmaşık sistem mimarilerini anlamayı kolaylaştırıyor.",
+          "meta": "Python · ★ 361.728 · +303 bugün"
+        },
+        {
+          "title": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "summary": "PDF Inspector, PDF dosyalarını incelemek, sınıflandırmak ve metin çıkarmak için geliştirilmiş hızlı bir Rust kütüphanesidir. Taranmış belgeler ile metin tabanlı dosyaları ayırt ederek, veri işleme süreçlerinde akıllı yönlendirme kararları alınmasını sağlar.",
+          "meta": "Rust · ★ 11.731 · +1.582 bugün"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modelleriyle entegre olan bir yapay zekâ kodlama ajanıdır. Önek önbelleği (prefix-cache) kararlılığına odaklanan bu araç, uzun süreli oturumlarda kesintisiz geliştirme desteği sağlar.",
+          "meta": "Go · ★ 31.848 · +747 bugün"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Yapay zekâ kodlama ajanları için geliştirilen agent-skills, üretim aşamasına uygun mühendislik yetenekleri (engineering skills) sunuyor. JavaScript tabanlı bu kütüphane, yazılım geliştirme süreçlerini otomatize eden ajanların teknik becerilerini standartlaştırmayı hedefliyor.",
+          "meta": "JavaScript · ★ 82.125 · +226 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yapay zekâ ajanları için geliştirilen bir yetenek çatısı (agentic skills framework) ve yazılım geliştirme metodolojisidir. Karmaşık görevleri yerine getiren otonom sistemlerin inşa edilmesinde standart bir çalışma yöntemi sunar.",
+          "meta": "Shell · ★ 267.509 · +931 bugün"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Supervision, bilgisayarlı görü (computer vision) projelerinde kullanılan yeniden kullanılabilir araçlar sunan bir Python kütüphanesidir. Nesne takibi ve görselleştirme gibi yaygın görevleri standartlaştırarak görüntü işleme süreçlerini hızlandırır.",
+          "meta": "Python · ★ 49.024 · +146 bugün"
+        },
+        {
+          "title": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "summary": "Next.js, modern web uygulamaları geliştirmek için kullanılan bir React çerçevesi (framework). Sunucu taraflı işleme (server-side rendering) ve statik site oluşturma gibi özelliklerle web projelerinin performansını ve arama motoru uyumluluğunu artırıyor.",
+          "meta": "JavaScript · ★ 141.599 · +68 bugün"
+        },
+        {
+          "title": "tailwindlabs/tailwindcss",
+          "url": "https://github.com/tailwindlabs/tailwindcss",
+          "summary": "Tailwind CSS, web arayüzleri oluştururken önceden tanımlanmış stil sınıflarını kullanan bir yardımcı program öncelikli (utility-first) CSS çatısıdır. Geliştiricilerin özel CSS dosyaları yazmadan, doğrudan HTML etiketleri üzerinden hızlıca tasarım yapmasına olanak tanır.",
+          "meta": "TypeScript · ★ 96.944 · +408 bugün"
+        },
+        {
+          "title": "uber/ADR",
+          "url": "https://github.com/uber/ADR",
+          "summary": "Uber tarafından geliştirilen ADR, gözlemlenebilirlik, güvenlik kıyaslaması ve tehdit algılama yöntemleriyle kurumsal yapay zekâ ajanlarını korumayı amaçlayan bir güvenlik çerçevesi. Yazılım, karmaşık yapay zekâ sistemlerinin çalışma süreçlerini denetleyerek olası güvenlik açıklarını tespit etmeye yardımcı oluyor.",
+          "meta": "Python · ★ 1.116 · +354 bugün"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM, 70 milyar parametreli büyük dil modellerini (large language models) sadece 4 GB belleğe sahip grafik işlemcilerde (GPU) çalıştırmayı mümkün kılıyor. Geliştiricilerin yüksek donanım maliyetleri olmadan güçlü yapay zekâ modellerini yerel sistemlerinde çalıştırmalarına olanak tanıyor.",
+          "meta": "Jupyter Notebook · ★ 29.251 · +833 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Discovery Loop",
+          "url": "https://www.discoveryloop.com/",
+          "summary": "Discovery Loop, yazılım geliştiricilerin ürün geri bildirimlerini ve kullanıcı verilerini analiz ederek geliştirme süreçlerini iyileştiren bir platform. Kullanıcı içgörülerini merkezi bir noktada toplayarak, ürün geliştirme döngüsünü (product development cycle) veriye dayalı kararlarla hızlandırmayı amaçlıyor.",
+          "meta": "682 oy · 420 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49184960",
+              "popularity": 682,
+              "engagementCount": 420
+            }
+          ]
+        },
+        {
+          "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "summary": "Google DeepMind bünyesinde üst düzey yönetim değişiklikleri gerçekleşiyor. Demis Hassabis icra kurulu başkanlığı (CEO) görevinden yönetim kurulu başkanlığına (Chair) geçerken, kıdemli yönetici Jeff Dean görevinden ayrılıyor.",
+          "meta": "591 oy · 652 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49184755",
+              "popularity": 591,
+              "engagementCount": 652
+            }
+          ]
+        },
+        {
+          "title": "Cloudflare OS: an open platform for agents, apps, and work",
+          "url": "https://blog.cloudflare.com/cloudflare-os/",
+          "summary": "Cloudflare OS, internet altyapı sağlayıcısı Cloudflare'in yapay zekâ ajanları ve uygulamalar için geliştirdiği açık bir platformdur. Geliştiricilerin karmaşık altyapı yönetimiyle uğraşmadan doğrudan dağıtık sistemler (distributed systems) üzerinde çalışabilmesini sağlar.",
+          "meta": "527 oy · 257 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49182996",
+              "popularity": 527,
+              "engagementCount": 257
+            }
+          ]
+        },
+        {
+          "title": "Zed DeltaDB",
+          "url": "https://zed.dev/deltadb",
+          "summary": "Kod düzenleyici Zed, yerel veritabanı teknolojisi DeltaDB ile iş birliği yaparak metin düzenleme süreçlerinde yüksek performanslı veri yönetimi sağlıyor. Bu entegrasyon, karmaşık kod dosyalarını işlerken bellek kullanımını optimize etmeyi ve uygulama hızını artırmayı hedefliyor.",
+          "meta": "366 oy · 198 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49187256",
+              "popularity": 366,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+          "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+          "summary": "Neon tarafından geliştirilen Castform, veri getirme (retrieval) işlemlerinde büyük dil modellerini (frontier models) daha düşük maliyetle ve yüksek verimlilikle geride bırakıyor. Açık kaynaklı modelleri optimize eden bu yöntem, özellikle maliyet odaklı yapay zekâ uygulamaları için alternatif bir yol sunuyor.",
+          "meta": "276 oy · 68 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49186762",
+              "popularity": 276,
+              "engagementCount": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax tarafından geliştirilen MiniMax-H3, görsel ve metin girdilerini kullanarak video üreten bir yapay zekâ modeli. Bu model, statik içeriklerden dinamik videolar oluşturma sürecini otomatize ediyor.",
+          "meta": "♥ 2.557 · 10.841 indirme"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek tarafından geliştirilen DeepSeek-V4-Flash-0731, metin üretimi (text generation) odaklı yeni bir dil modeli. Hızlı yanıt süreleri sunmak üzere optimize edilen bu model, Hugging Face platformu üzerinde geniş bir kullanıcı kitlesi tarafından test ediliyor.",
+          "meta": "♥ 2.528 · 433.284 indirme"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K3, görsel ve metin verilerini işleyebilen çok modlu bir dil modeli (multimodal language model). Kullanıcıların yüklediği görselleri ve metinleri analiz ederek anlamlı yanıtlar üreten bu teknoloji, Hugging Face üzerinde açık kaynaklı bir model olarak sunuluyor.",
+          "meta": "♥ 10.144 · 1.125.935 indirme"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "Hugging Face üzerinde paylaşılan MiniMax-H3, çok modlu (multimodal) yeteneklere sahip bir yapay zekâ modeli. Görsel ve metin tabanlı verileri işleyebilen bu model, açık kaynaklı yapay zekâ modelleri platformu Hugging Face üzerinden geliştiricilerin kullanımına sunuluyor.",
+          "meta": "♥ 774 · 2 indirme"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion, metin ve görsel verileri işleyebilen çok modlu (multimodal) bir yapay zekâ modeli. Hugging Face üzerinde paylaşılan bu model, sansürsüz yapısı ve yüksek parametre sayısı ile karmaşık içerik üretimi için geliştirildi.",
+          "meta": "♥ 1.605 · 1.633.405 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "AVE-Compass: Towards Holistic Evaluation for Audio-Video Editing Abilities",
+          "url": "https://huggingface.co/papers/2607.24821",
+          "summary": "AVE-Compass, ses ve görüntü düzenleme yeteneklerini bütüncül bir şekilde ölçmek için geliştirilen kapsamlı bir değerlendirme ölçütü (benchmark). Mevcut yöntemlerin aksine, ses ve görüntü arasındaki uyumu merkeze alarak çok modlu düzenleme süreçlerindeki tutarlılığı test ediyor.",
+          "meta": "7 beğeni · 1 yorum"
+        },
+        {
+          "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming",
+          "url": "https://huggingface.co/papers/2608.05108",
+          "summary": "PIMiner, büyük dil modellerine (large language models) yönelik komut enjeksiyonu (prompt injection) saldırılarını otomatik olarak test eden bir sistemdir. Geleneksel pekiştirmeli öğrenme yöntemlerinin aksine, farklı modeller üzerinde daha yüksek başarı oranı sunan ajan tabanlı bir güvenlik denetimi sağlar.",
+          "meta": "0 beğeni · 1 yorum"
+        },
+        {
+          "title": "Consistency-Driven Co-Evolution for Self-Supervised Cross-Representation Learning",
+          "url": "https://huggingface.co/papers/2608.04926",
+          "summary": "Grafik görselleri, tablo verileri ve görselleştirme kodları arasındaki karmaşık ilişkileri anlamayı hedefleyen CoCoEvolve, öz denetimli çapraz temsil öğrenme (self-supervised cross-representation learning) yöntemini kullanıyor. Bu yaklaşım, farklı veri türleri arasındaki belirsiz ilişkileri çözümlemek için tutarlılık odaklı bir ortak evrim mekanizması sunuyor.",
+          "meta": "0 beğeni · 1 yorum"
+        },
+        {
+          "title": "Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data",
+          "url": "https://huggingface.co/papers/2608.02580",
+          "summary": "Ego2Robot, insan bakış açısıyla çekilmiş videoları robotik veri formatına dönüştürerek robotların öğrenme süreçlerini hızlandıran ölçeklenebilir bir veri sentezleme hattı. Bu yöntem, görsel-dil-eylem (vision-language-action) modellerinin geniş ölçekte eğitilmesi için gerekli olan çeşitli ve büyük hacimli verilerin üretimini kolaylaştırıyor.",
+          "meta": "8 beğeni · 1 yorum"
+        },
+        {
+          "title": "K-EXAONE 2.0 Technical Report",
+          "url": "https://huggingface.co/papers/2608.04505",
+          "summary": "LG AI Research tarafından geliştirilen K-EXAONE 2.0, çok dilli temel model (foundation model) mimarisini uzmanlar karışımı (Mixture-of-Experts) yapısıyla genişletiyor. Toplam 750 milyar parametreye ulaşan model, 256 bin belirteçlik (token) bağlam penceresi desteğiyle önceki sürümünün kapasitesini üç katına çıkarıyor.",
+          "meta": "2 beğeni · 0 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "rust-lang/rust is adopting an LLM policy",
+          "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+          "summary": "Rust programlama dili topluluğu, büyük dil modelleri (LLM) ile oluşturulan içeriklerin projeye dahil edilmesine yönelik yeni bir politika benimsedi. Bu düzenleme, yapay zekâ tarafından üretilen kod ve dokümantasyonun kalite standartlarını korumak amacıyla şeffaflık ve insan denetimi şartı getiriyor.",
+          "meta": "135 oy · 40 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy",
+              "popularity": 135,
+              "engagementCount": 40
+            }
+          ]
+        },
+        {
+          "title": "Offensive Internet Posture",
+          "url": "https://bruceediger.com/posts/offensive-machine/",
+          "summary": "Saldırgan internet duruşu (offensive internet posture), kullanıcıların çevrim içi ortamda veri sızıntılarını ve izlenmeyi önlemek için pasif savunma yerine aktif gizlilik yöntemlerini benimsemesini ifade ediyor. Bu yaklaşım, ağ trafiğini şaşırtarak veya yanıltıcı verilerle sistemleri besleyerek dijital ayak izini yönetmeyi amaçlıyor.",
+          "meta": "72 oy · 16 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fgcrj0/offensive_internet_posture",
+              "popularity": 72,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "Faster Than Ninja",
+          "url": "https://build2.org/blog/faster-than-ninja.xhtml",
+          "summary": "Build2, yazılım derleme aracı Ninja'dan daha hızlı çalışmayı hedefleyen yeni bir derleme sistemi (build system). Proje, büyük kod tabanlarında derleme sürelerini kısaltmak için optimize edilmiş algoritmalar kullanıyor.",
+          "meta": "48 oy · 4 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/31hk9y/faster_than_ninja",
+              "popularity": 48,
+              "engagementCount": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "state kernel",
+      "explanation": "Bir yazılımın o anki tüm çalışma bilgilerini ve verilerini bellekte tutan temel çekirdek yapısı."
+    },
+    {
+      "term": "AI Agents",
+      "explanation": "Kendi başına karar verip hedeflere ulaşmak için araçları kullanabilen otonom yapay zekâ yazılımları."
+    },
+    {
+      "term": "system design",
+      "explanation": "Büyük ve karmaşık yazılım projelerinin parçalarının birbiriyle nasıl uyumlu çalışacağını planlama süreci."
+    },
+    {
+      "term": "flashcards",
+      "explanation": "Ön yüzünde soru, arka yüzünde cevap bulunan, bilgileri hızlıca ezberlemeye yarayan dijital kartlar."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "Yapay zekânın daha önce işlediği metinleri hafızasında tutarak aynı sorulara çok daha hızlı cevap vermesini sağlayan yöntem."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık sorunları mantıksal adımlarla analiz edip teknik çözümler üretme yeteneği."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekâların görevleri başarıyla yerine getirmesi için ihtiyaç duyduğu yetenekleri düzenleyen çalışma modeli."
+    },
+    {
+      "term": "computer vision",
+      "explanation": "Bilgisayarların kameralar aracılığıyla görüntüleri görüp anlamlandırmasını sağlayan teknoloji alanı."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, hazır kod yapıları ve kurallar bütünü sunan temel çatı."
+    },
+    {
+      "term": "server-side rendering",
+      "explanation": "Web sayfalarının kullanıcıya gönderilmeden önce sunucuda hazırlanıp hızlıca görüntülenmesini sağlayan yöntem."
+    },
+    {
+      "term": "utility-first",
+      "explanation": "Tasarım yaparken küçük ve hazır kod parçalarını birleştirerek hızlıca arayüz oluşturma yaklaşımı."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Özellikle grafik işleme ve yapay zekâ hesaplamaları gibi yoğun işlemleri çok hızlı yapan özel donanım birimi."
+    },
+    {
+      "term": "product development cycle",
+      "explanation": "Bir ürünün fikirden son kullanıcıya ulaşana kadar geçtiği planlama, üretim ve test aşamalarının tamamı."
+    },
+    {
+      "term": "CEO",
+      "explanation": "Bir şirketin tüm operasyonlarından ve stratejik kararlarından sorumlu olan en üst düzey yönetici."
+    },
+    {
+      "term": "Chair",
+      "explanation": "Bir kurumun veya yönetim kurulunun toplantılarını yöneten ve genel stratejileri denetleyen kişi."
+    }
+  ]
+}

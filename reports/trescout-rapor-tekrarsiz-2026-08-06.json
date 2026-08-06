@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-06",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "summary": "Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel veya uzak bir bilgisayarı kontrol etme yeteneği kazandıran bir TypeScript kütüphanesi. Bu araç, ajanların işletim sistemi üzerinde komut çalıştırmasına ve dosya sistemine erişerek karmaşık görevleri otomatize etmesine olanak tanıyor.",
+          "meta": "TypeScript · ★ 3.677 · +891 bugün"
+        },
+        {
+          "title": "huangruiteng/loopx",
+          "url": "https://github.com/huangruiteng/loopx",
+          "summary": "Loopx, uzun süreli çalışan yapay zekâ ajan ekipleri için geliştirilmiş hafif bir durum çekirdeği (state kernel). Kodlama ajanları (Codex, Claude Code) ile uyumlu çalışarak görev takibi, kota yönetimi ve doğrulanabilir iş devri gibi süreçleri standartlaştırıyor.",
+          "meta": "Python · ★ 2.385 · +326 bugün"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Supervision, bilgisayarlı görü (computer vision) projelerinde kullanılan yeniden kullanılabilir araçlar sunan bir Python kütüphanesidir. Nesne takibi ve görselleştirme gibi yaygın görevleri standartlaştırarak görüntü işleme süreçlerini hızlandırır.",
+          "meta": "Python · ★ 49.024 · +146 bugün",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Discovery Loop",
+          "url": "https://www.discoveryloop.com/",
+          "summary": "Discovery Loop, yazılım geliştiricilerin ürün geri bildirimlerini ve kullanıcı verilerini analiz ederek geliştirme süreçlerini iyileştiren bir platform. Kullanıcı içgörülerini merkezi bir noktada toplayarak, ürün geliştirme döngüsünü (product development cycle) veriye dayalı kararlarla hızlandırmayı amaçlıyor.",
+          "meta": "682 oy · 420 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49184960",
+              "popularity": 682,
+              "engagementCount": 420
+            }
+          ]
+        },
+        {
+          "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "summary": "Google DeepMind bünyesinde üst düzey yönetim değişiklikleri gerçekleşiyor. Demis Hassabis icra kurulu başkanlığı (CEO) görevinden yönetim kurulu başkanlığına (Chair) geçerken, kıdemli yönetici Jeff Dean görevinden ayrılıyor.",
+          "meta": "591 oy · 652 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49184755",
+              "popularity": 591,
+              "engagementCount": 652
+            }
+          ]
+        },
+        {
+          "title": "Cloudflare OS: an open platform for agents, apps, and work",
+          "url": "https://blog.cloudflare.com/cloudflare-os/",
+          "summary": "Cloudflare OS, internet altyapı sağlayıcısı Cloudflare'in yapay zekâ ajanları ve uygulamalar için geliştirdiği açık bir platformdur. Geliştiricilerin karmaşık altyapı yönetimiyle uğraşmadan doğrudan dağıtık sistemler (distributed systems) üzerinde çalışabilmesini sağlar.",
+          "meta": "527 oy · 257 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49182996",
+              "popularity": 527,
+              "engagementCount": 257
+            }
+          ]
+        },
+        {
+          "title": "Zed DeltaDB",
+          "url": "https://zed.dev/deltadb",
+          "summary": "Kod düzenleyici Zed, yerel veritabanı teknolojisi DeltaDB ile iş birliği yaparak metin düzenleme süreçlerinde yüksek performanslı veri yönetimi sağlıyor. Bu entegrasyon, karmaşık kod dosyalarını işlerken bellek kullanımını optimize etmeyi ve uygulama hızını artırmayı hedefliyor.",
+          "meta": "366 oy · 198 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49187256",
+              "popularity": 366,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+          "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+          "summary": "Neon tarafından geliştirilen Castform, veri getirme (retrieval) işlemlerinde büyük dil modellerini (frontier models) daha düşük maliyetle ve yüksek verimlilikle geride bırakıyor. Açık kaynaklı modelleri optimize eden bu yöntem, özellikle maliyet odaklı yapay zekâ uygulamaları için alternatif bir yol sunuyor.",
+          "meta": "276 oy · 68 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49186762",
+              "popularity": 276,
+              "engagementCount": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "AVE-Compass: Towards Holistic Evaluation for Audio-Video Editing Abilities",
+          "url": "https://huggingface.co/papers/2607.24821",
+          "summary": "AVE-Compass, ses ve görüntü düzenleme yeteneklerini bütüncül bir şekilde ölçmek için geliştirilen kapsamlı bir değerlendirme ölçütü (benchmark). Mevcut yöntemlerin aksine, ses ve görüntü arasındaki uyumu merkeze alarak çok modlu düzenleme süreçlerindeki tutarlılığı test ediyor.",
+          "meta": "7 beğeni · 1 yorum"
+        },
+        {
+          "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming",
+          "url": "https://huggingface.co/papers/2608.05108",
+          "summary": "PIMiner, büyük dil modellerine (large language models) yönelik komut enjeksiyonu (prompt injection) saldırılarını otomatik olarak test eden bir sistemdir. Geleneksel pekiştirmeli öğrenme yöntemlerinin aksine, farklı modeller üzerinde daha yüksek başarı oranı sunan ajan tabanlı bir güvenlik denetimi sağlar.",
+          "meta": "0 beğeni · 1 yorum"
+        },
+        {
+          "title": "Consistency-Driven Co-Evolution for Self-Supervised Cross-Representation Learning",
+          "url": "https://huggingface.co/papers/2608.04926",
+          "summary": "Grafik görselleri, tablo verileri ve görselleştirme kodları arasındaki karmaşık ilişkileri anlamayı hedefleyen CoCoEvolve, öz denetimli çapraz temsil öğrenme (self-supervised cross-representation learning) yöntemini kullanıyor. Bu yaklaşım, farklı veri türleri arasındaki belirsiz ilişkileri çözümlemek için tutarlılık odaklı bir ortak evrim mekanizması sunuyor.",
+          "meta": "0 beğeni · 1 yorum"
+        },
+        {
+          "title": "Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data",
+          "url": "https://huggingface.co/papers/2608.02580",
+          "summary": "Ego2Robot, insan bakış açısıyla çekilmiş videoları robotik veri formatına dönüştürerek robotların öğrenme süreçlerini hızlandıran ölçeklenebilir bir veri sentezleme hattı. Bu yöntem, görsel-dil-eylem (vision-language-action) modellerinin geniş ölçekte eğitilmesi için gerekli olan çeşitli ve büyük hacimli verilerin üretimini kolaylaştırıyor.",
+          "meta": "8 beğeni · 1 yorum"
+        },
+        {
+          "title": "K-EXAONE 2.0 Technical Report",
+          "url": "https://huggingface.co/papers/2608.04505",
+          "summary": "LG AI Research tarafından geliştirilen K-EXAONE 2.0, çok dilli temel model (foundation model) mimarisini uzmanlar karışımı (Mixture-of-Experts) yapısıyla genişletiyor. Toplam 750 milyar parametreye ulaşan model, 256 bin belirteçlik (token) bağlam penceresi desteğiyle önceki sürümünün kapasitesini üç katına çıkarıyor.",
+          "meta": "2 beğeni · 0 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "rust-lang/rust is adopting an LLM policy",
+          "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+          "summary": "Rust programlama dili topluluğu, büyük dil modelleri (LLM) ile oluşturulan içeriklerin projeye dahil edilmesine yönelik yeni bir politika benimsedi. Bu düzenleme, yapay zekâ tarafından üretilen kod ve dokümantasyonun kalite standartlarını korumak amacıyla şeffaflık ve insan denetimi şartı getiriyor.",
+          "meta": "135 oy · 40 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy",
+              "popularity": 135,
+              "engagementCount": 40
+            }
+          ]
+        },
+        {
+          "title": "Offensive Internet Posture",
+          "url": "https://bruceediger.com/posts/offensive-machine/",
+          "summary": "Saldırgan internet duruşu (offensive internet posture), kullanıcıların çevrim içi ortamda veri sızıntılarını ve izlenmeyi önlemek için pasif savunma yerine aktif gizlilik yöntemlerini benimsemesini ifade ediyor. Bu yaklaşım, ağ trafiğini şaşırtarak veya yanıltıcı verilerle sistemleri besleyerek dijital ayak izini yönetmeyi amaçlıyor.",
+          "meta": "72 oy · 16 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fgcrj0/offensive_internet_posture",
+              "popularity": 72,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "Faster Than Ninja",
+          "url": "https://build2.org/blog/faster-than-ninja.xhtml",
+          "summary": "Build2, yazılım derleme aracı Ninja'dan daha hızlı çalışmayı hedefleyen yeni bir derleme sistemi (build system). Proje, büyük kod tabanlarında derleme sürelerini kısaltmak için optimize edilmiş algoritmalar kullanıyor.",
+          "meta": "48 oy · 4 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/31hk9y/faster_than_ninja",
+              "popularity": 48,
+              "engagementCount": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "state kernel",
+      "explanation": "Bir yazılımın o anki tüm çalışma bilgilerini ve verilerini bellekte tutan temel çekirdek yapısı."
+    },
+    {
+      "term": "computer vision",
+      "explanation": "Bilgisayarların kameralar aracılığıyla görüntüleri görüp anlamlandırmasını sağlayan teknoloji alanı."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "product development cycle",
+      "explanation": "Bir ürünün fikirden son kullanıcıya ulaşana kadar geçtiği planlama, üretim ve test aşamalarının tamamı."
+    },
+    {
+      "term": "CEO",
+      "explanation": "Bir şirketin tüm operasyonlarından ve stratejik kararlarından sorumlu olan en üst düzey yönetici."
+    },
+    {
+      "term": "Chair",
+      "explanation": "Bir kurumun veya yönetim kurulunun toplantılarını yöneten ve genel stratejileri denetleyen kişi."
+    }
+  ]
+}
