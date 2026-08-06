@@ -1,9 +1,41 @@
-# Zvec
+# Fast in-app vector database
 
-> Developed by Alibaba, zvec is a lightweight and high-speed in-process vector database written in C++.
+Developed by Alibaba, zvec is a lightweight and high-speed in-process vector database solution written in C++. It aims to increase system performance by allowing applications to process vector data directly in memory.
 
-**Source:** GitHub  
-**Stars:** 15356
+- ★ 15,356
+- C++
+- GitHub Trending · 2026-06-17
+
+## Update
+- August 2, 2026: Star 10,691 → 15,356, latest version v0.6.0 (July 20, 2026).
+
+## What you get
+- Local operating architecture that does not require a server
+- Millisecond search speed over billions of vectors
+- Vector, text and hybrid search support
+
+## Installation
+**Installation for Python**
+
+```
+pip install zvec
+```
+
+**Installation for Node.js**
+
+```
+npm install @zvec/zvec
+```
+
+
+## If you don't write code
+I need to create a collection using the Zvec library. Can you create sample code in Python that allows me to define a schema, add appropriate vector data to that schema, and then search with a specific vector query? Please use a structure that specifies the file path for the data to be persistent.
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/zvec/

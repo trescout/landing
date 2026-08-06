@@ -1,9 +1,66 @@
-# SkillSpector
+# Secure AI capabilities
 
-> Developed by NVIDIA, SkillSpector detects vulnerabilities and vulnerabilities in the skill packages of artificial intelligence agents.
+Developed by NVIDIA, SkillSpector is a scanning tool that detects vulnerabilities and malicious patterns in the skill packages of artificial intelligence agents. This Python-based software aims to analyze security risks encountered during the development process of agent-based systems.
 
-**Source:** GitHub  
-**Stars:** 14260
+- ★ 14,260
+- Python
+- GitHub Trending · 2026-06-12
+
+## Update
+- August 6, 2026: Star 14,066 → 14,260, latest version v2.5.3 (August 5, 2026).
+- August 2, 2026: Star 2,967 → 14,066, latest version v2.5.1 (July 31, 2026).
+
+## What you get
+- AI detects vulnerabilities and malicious patterns in agent capabilities.
+- It offers two-stage security scanning with static analysis and optional AI assessment.
+- It allows verifying the security of agents with risk scoring and detailed reporting.
+
+## Installation
+**Cloning the repository and creating a virtual environment**
+
+```
+# Clone the repository
+git clone https://github.com/NVIDIA/skillspector.git
+cd skillspector
+
+# Create and activate virtual environment
+uv venv .venv && source .venv/bin/activate
+# or: python3 -m venv .venv && source .venv/bin/activate
+```
+
+**Complete the setup**
+
+```
+# Install for production use
+make install
+
+# Or install with development dependencies
+make install-dev
+```
+
+
+## Running it
+**Scan local directory**
+
+```
+skillspector scan ./my-skill/
+```
+
+**Scan the Git repository**
+
+```
+skillspector scan https://github.com/user/my-skill
+```
+
+
+## If you don't write code
+I want to security screen an AI agent skill using the SkillSpector tool. How do I use the 'skillspector scan ./my-skill/' command to scan for talent in a local directory and what parameters should I add to the command to save the scan results in 'report.json' in JSON format?
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/skillspector/

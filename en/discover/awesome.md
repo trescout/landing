@@ -1,9 +1,22 @@
-# Awesome
+# Curated resource guide to the world of technology
 
-> Awesome lists offers curated collections of resources on a variety of topics in the world of software development and technology.
+Awesome lists offers curated collections of resources on a variety of topics in the world of software development and technology. This repository functions as a comprehensive directory that brings together the best tools, libraries and learning materials from different fields.
 
-**Source:** GitHub  
-**Stars:** 482524
+- ★ 482,524
+- GitHub Trending · 2026-07-07
+
+## What you get
+- Discover the best tools in software development
+- Quickly access the libraries and materials you need
+- Check out curated lists for different platforms and technologies
+
+## Getting started
+- Official source →
+This tool does not require a software installation. To find the technology or topic you are interested in, you can visit the official website, awesome.re, and access the resources you are looking for through categorized lists.
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/awesome/

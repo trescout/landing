@@ -20,16 +20,24 @@ H1 = re.compile(r'<h1 class="disc-title">(.*?)</h1>', re.S)
 
 def main():
     cat = json.load(open(CATALOG, encoding="utf-8"))
-    sapan, sayfasiz = [], []
+    sapan, sayfasiz, komutsuz = [], [], []
     for c in cat:
         beklenen = (c.get("headline") or "").strip()
-        if not beklenen:
-            continue
         p = os.path.join(DISC, c["slug"], "index.html")
         if not os.path.exists(p):
-            sayfasiz.append(c["slug"])
+            if beklenen:
+                sayfasiz.append(c["slug"])
             continue
-        m = H1.search(open(p, encoding="utf-8").read())
+        sayfa = open(p, encoding="utf-8").read()
+        # Katalogda doğrulanmış kurulum komutu var ama sayfada komut bloğu yok →
+        # kayıt güncellenmiş, sayfa yeniden basılmamış. 2026-08-06: Mustafa'nın
+        # 10 araca eklediği komutlar haftalardır yayında görünmüyordu.
+        cm = c.get("cmds") or {}
+        if (cm.get("kurulum") or cm.get("calistirma")) and "disc-cmd" not in sayfa:
+            komutsuz.append(c["slug"])
+        if not beklenen:
+            continue
+        m = H1.search(sayfa)
         # H1 kaçışlı yazılır (' → &#x27;) · karşılaştırmadan önce çöz
         if m and html.unescape(m.group(1)).strip() != beklenen:
             sapan.append((c["slug"], html.unescape(m.group(1)).strip(), beklenen))
@@ -43,9 +51,13 @@ def main():
         if len(sapan) > 10:
             print(f"   … +{len(sapan)-10} sayfa daha")
         print("   Düzeltme: katalog doğruysa sayfaları yeniden bas (discover-sync `_set_page_headline`).")
-    if sapan or sayfasiz:
+    if komutsuz:
+        print(f"✗ {len(komutsuz)} kayıtta katalogda komut var ama sayfada komut bloğu yok:")
+        print(f"   {', '.join(komutsuz[:10])}")
+        print("   Düzeltme: discover-sync --reprocess=<slug,...> ile sayfaları yeniden basın.")
+    if sapan or sayfasiz or komutsuz:
         sys.exit(1)
-    print(f"✓ başlık tutarlı · {len(cat)} kayıt")
+    print(f"✓ katalog ↔ sayfa tutarlı · {len(cat)} kayıt (başlık + komut)")
 
 
 main()

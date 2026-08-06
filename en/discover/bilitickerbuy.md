@@ -1,9 +1,48 @@
-# biliTickerBuy
+# Speed ​​up Bilibili ticket purchase processes
 
-> This Python-based tool, which automates Bilibili membership purchasing processes, is designed to speed up ticket purchasing processes.
+This Python-based tool that automates Bilibili membership purchasing processes is a ticket purchasing assistant designed to speed up ticket purchasing processes. It allows users to grab limited stock products on the platform faster.
 
-**Source:** GitHub  
-**Stars:** 4173
+- ★ 4,173
+- GitHub Trending · 2026-06-22
+
+## Update
+- August 2, 2026: Star 3,782 → 4,173, latest version v2.15.16 (July 4, 2026).
+
+## What you get
+- Automates ticket purchases via Bilibili
+- Increases the speed of capturing limited stock products
+- A practical utility tool for personal use
+
+## Installation
+**Automatic installation for Linux macOS**
+
+```
+curl -fsSL https://raw.githubusercontent.com/mikumifa/biliTickerBuy/main/install.sh | sh
+```
+
+**via pip (PyPI)**
+
+```
+pip install biliTickerBuy
+```
+
+
+## Running it
+**Run from command line**
+
+```
+btb
+```
+
+
+## If you don't write code
+I want to automate Bilibili ticket purchasing processes. Can you explain to me the basic steps for installing and using this tool, based on the information on the documentation pages?
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/bilitickerbuy/

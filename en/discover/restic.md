@@ -1,9 +1,40 @@
-# Restic
+# Back up your data safely by encrypting it
 
-> Developed with the Go language, Restic is an open source backup system that backs up data quickly and efficiently by encrypting it.
+Developed with the Go language, Restic offers an open source backup program that backs up data quickly and efficiently by encrypting it. This tool, which supports different storage systems, saves storage space with the incremental backup method.
 
-**Source:** GitHub  
-**Stars:** 35302
+- ★ 35,302
+- GitHub Trending · 2026-06-12
+
+## Update
+- August 2, 2026: Star 34,273 → 35,302, latest version v0.19.1 (July 5, 2026).
+
+## What you get
+- Provides high security by encrypting data
+- Saves storage space with incremental backup
+- Compatible with different cloud and local storage systems
+
+## Installation
+**macOS (Homebrew)**
+
+```
+brew install restic
+```
+
+**Debian/Ubuntu**
+
+```
+apt install restic
+```
+
+
+## If you don't write code
+I want to back up my data securely using Restic. How can I export a local folder or specific directory to an encrypted backup storage? Can you please explain step by step how to create the backup store and start the initial backup process so that my data is encrypted?
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/restic/

@@ -1,9 +1,50 @@
-# Maigret
+# Digital tracking with usernames
 
-> Maigret scans more than 3000 websites based on usernames and creates a file of people.
+Maigret scans more than 3000 websites based on usernames and creates a dossier of people. Developed with Python, this tool automates digital footprint tracking in open source intelligence (OSINT) processes.
 
-**Source:** GitHub  
-**Stars:** 36075
+- ★ 36,075
+- Python
+- GitHub Trending · 2026-06-11
+
+## Update
+- August 2, 2026: Star 32,267 → 36,075, last release main (April 26, 2026).
+
+## What you get
+- It scans more than 3000 sites based on username.
+- It creates a detailed digital footprint file for people.
+- It visualizes the obtained data and provides reports.
+
+## Installation
+**Installation with Python**
+
+```
+pip install maigret
+maigret YOUR_USERNAME
+```
+
+**Installation with Docker**
+
+```
+docker pull soxoj/maigret
+```
+
+
+## Running it
+**basic search**
+
+```
+maigret username
+```
+
+
+## If you don't write code
+I want to perform a comprehensive digital footprint scan on a target username using the Maigret tool. Please explain the basic command that will allow me to check the presence of this username on more than 3000 websites and the parameters I can use to report the data obtained.
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/maigret/

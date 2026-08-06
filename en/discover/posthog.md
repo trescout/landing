@@ -1,9 +1,36 @@
-# Posthog
+# AI observability for product development
 
-> PostHog provides artificial intelligence observability, analysis and session replay for product development processes.
+PostHog is a comprehensive platform that brings together tools such as artificial intelligence observability, analysis and session replay for product development processes. It enables software developers to create autonomous products by tracking bugs, managing experiments, and analyzing user data.
 
-**Source:** GitHub  
-**Stars:** 37487
+- ★ 37,487
+- Python
+- GitHub Trending · 2026-07-17
+
+## Update
+- 4 August 2026: Star 37,445 → 37,487, last version posthog-cli/v0.10.0 (3 August 2026).
+- 2 August 2026: Star 35,939 → 37,445, last version posthog-cli/v0.9.4 (30 July 2026).
+
+## What you get
+- Automatically detect errors by analyzing user behavior.
+- Monitor user experience with session replays and web analytics.
+- Track the performance and cost of your AI-powered applications.
+
+## Installation
+**Installation with Docker on Linux**
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/posthog/posthog/HEAD/bin/deploy-hobby)"
+```
+
+
+## If you don't write code
+I need to analyze user behavior in my product using the PostHog platform. What tools should I use to detect errors, review session replays, and monitor the performance of my AI-powered features? Explain the steps I need to follow to automate data collection and analysis processes.
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/posthog/

@@ -1,9 +1,55 @@
-# Kaneo
+# Simple and fast project management
 
-> Kaneo is an open source project management tool developed with a user-oriented interface.
+Kaneo is an open source project management tool developed with a user-oriented interface. Written in TypeScript, the platform aims to create complexity-free workflows.
 
-**Source:** GitHub  
-**Stars:** 7502
+- ★ 7,502
+- TypeScript
+- GitHub Trending · 2026-08-01
+
+## Update
+- August 6, 2026: Star 7.032 → 7.502, latest version v2.13.0 (August 5, 2026).
+- August 4, 2026: Star 5,995 → 7,032, latest version v2.12.1 (July 30, 2026).
+- August 2, 2026: Star 5,248 → 5,995, latest version v2.12.1 (July 30, 2026).
+
+## What you get
+- Clean interface, free of clutter
+- Hosting on your own server providing data control
+- Performance-oriented fast working experience
+
+## Installation
+**automatic installation**
+
+```
+curl -fsSL https://assets.kaneo.app/install.sh | sh
+drim setup
+```
+
+
+## Running it
+**Starting the development environment**
+
+```
+# Clone and install dependencies
+git clone https://github.com/usekaneo/kaneo.git
+cd kaneo
+pnpm install
+
+# Create a .env file in the root with required environment variables
+# See ENVIRONMENT_SETUP.md for detailed instructions
+
+# Start development servers
+pnpm dev
+```
+
+
+## If you don't write code
+I want to install and configure the Kaneo project. Explain step by step how to use the drim tool for quick installation of the project and the .env file settings required to run it on my own server with Docker Compose. Also, summarize the key features of the project and how it can be customized for an efficient workflow, based on the information in the documentation.
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/kaneo/

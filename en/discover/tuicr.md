@@ -1,9 +1,65 @@
-# Tuicr
+# Reviewing code with Vim in the terminal
 
-> Developed in Rust, tuicr is a terminal user interface that supports Vim keyboard shortcuts.
+Developed with the Rust language, tuicr is a terminal user interface-based code review tool that supports Vim keyboard shortcuts. It allows developers to manage their code review process directly from the terminal.
 
-**Source:** GitHub  
-**Stars:** 2439
+- ★ 2,439
+- Rust
+- GitHub Trending · 2026-07-31
+
+## Update
+- August 6, 2026: Star 2,291 → 2,439, latest version v0.21.0 (August 5, 2026).
+- August 2, 2026: Star 1,940 → 2,291, latest version v0.20.0 (August 2, 2026).
+
+## What you get
+- Quick code review in terminal with Vim shortcuts
+- Post comments directly to GitHub and GitLab
+- Structured output support for AI tools
+
+## Installation
+**Standard installation**
+
+```
+curl -fsSL tuicr.dev/install.sh | sh
+# or
+brew install agavra/tap/tuicr
+```
+
+**Alternative package managers**
+
+```
+# Cargo
+cargo install tuicr
+
+# Mise
+mise use github:agavra/tuicr
+
+# Nix
+nix run github:agavra/tuicr
+```
+
+
+## Running it
+**Review local changes**
+
+```
+tuicr -w
+```
+
+**Review a specific PR**
+
+```
+tuicr pr 125
+```
+
+
+## If you don't write code
+Review this code review and prepare a structured list of any bugs or improvement suggestions you find, with each comment identified by file path and line number. While doing the review, provide concrete suggestions that will increase the readability and performance of the code, based on the data in markdown format that I copied from tuicr.
+
+## Related dictionary terms
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/tuicr/
