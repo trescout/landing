@@ -1,4 +1,4 @@
-# yapay zekâ ile kariyerinizi yönetin
+# Yapay zekâ ile kariyerinizi yönetin
 
 Claude Code altyapısını kullanan career-ops, yapay zekâ destekli iş arama süreçlerini 14 farklı yetenek moduyla otomatikleştiriyor. Sistem, Go tabanlı bir kontrol paneli üzerinden toplu işlem yönetimi ve özgeçmiş oluşturma gibi işlevleri tek bir merkezde topluyor.
 

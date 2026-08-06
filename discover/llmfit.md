@@ -1,4 +1,4 @@
-# donanımınıza uygun yapay zekâ modellerini bulun
+# Donanımınıza uygun yapay zekâ modellerini bulun
 
 Rust diliyle geliştirilen llmfit, yüzlerce büyük dil modelini (large language model) ve sağlayıcıyı tarayarak donanımınızla uyumlu olanları tek bir komutla tespit etmenizi sağlıyor. Araç, yerel sistem kaynaklarına en uygun modelleri bulma sürecini otomatikleştiriyor.
 

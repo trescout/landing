@@ -1,4 +1,4 @@
-# Veri Tahmininde Evrensel yapay zekâ
+# Veri tahmininde sürü zekâsı motoru
 
 MiroFish, çeşitli veri türlerini tahmin etmek amacıyla geliştirilen basit ve evrensel bir sürü zekâsı motoru (swarm intelligence engine) sunuyor. Python tabanlı bu araç, karmaşık sistemlerdeki örüntüleri tanımlamak için kolektif hesaplama yöntemlerinden yararlanıyor.
 

@@ -1,4 +1,4 @@
-# Uygulama içi hızlı yapay zekâ veritabanı
+# Hızlı uygulama içi vektör veritabanı
 
 Alibaba tarafından geliştirilen zvec, C++ diliyle yazılmış hafif ve yüksek hızlı bir süreç içi vektör veritabanı (in-process vector database) çözümüdür. Uygulamaların vektör verilerini doğrudan bellek üzerinde işlemesine olanak tanıyarak sistem performansını artırmayı hedefler.
 

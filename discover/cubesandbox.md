@@ -1,4 +1,4 @@
-# yapay zekâ ajanları için güvenli çalışma ortamı
+# Yapay zekâ ajanları için güvenli çalışma ortamı
 
 TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ ajanları (AI agents) için anlık, eş zamanlı ve güvenli bir çalışma ortamı (sandbox) sunuyor. Hafif yapısıyla dikkat çeken bu araç, ajan tabanlı sistemlerin yalıtılmış bir alanda çalışmasını sağlıyor.
 

@@ -1,4 +1,4 @@
-# tek kodla çoklu platform uygulaması
+# Tek kodla çoklu platform uygulaması
 
 Google tarafından geliştirilen Flutter, tek bir kod tabanı kullanarak mobil, web ve masaüstü platformları için hızlı bir şekilde kullanıcı arayüzü (user interface) oluşturulmasına olanak tanıyor. Dart programlama dilini temel alan bu açık kaynaklı çerçeve (framework), yüksek performanslı ve görsel açıdan zengin uygulamalar geliştirmek için yaygın olarak tercih ediliyor.
 

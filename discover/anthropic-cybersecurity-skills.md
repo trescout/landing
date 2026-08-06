@@ -1,4 +1,4 @@
-# yapay zekâ için siber güvenlik becerileri
+# Yapay zekâ için siber güvenlik becerileri
 
 Yapay zekâ ajanları için geliştirilmiş 754 hazır siber güvenlik becerisi ; 26 farklı güvenlik alanını kapsar ve MITRE ATT&CK, NIST CSF, MITRE ATLAS gibi 5 temel çerçeveyle eşlenir. Claude Code, GitHub Copilot, Codex, Cursor ve Gemini CLI gibi 20'den fazla platformda çalışır. (İsmine rağmen Anthropic'in resmi projesi değildir, bağımsız bir topluluk çalışmasıdır.)
 

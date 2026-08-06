@@ -1,4 +1,4 @@
-# donanım analizi için çok protokollü araç
+# Donanım analizi için çok protokollü araç
 
 ESP32-Bit-Pirate, web tabanlı bir komut satırı arayüzü (CLI) üzerinden çok sayıda haberleşme protokolünü destekleyen bir donanım hackleme aracıdır. C++ diliyle geliştirilen bu sistem, farklı protokolleri tek bir platform üzerinden yöneterek donanım analizi süreçlerini kolaylaştırır.
 

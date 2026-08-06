@@ -1,4 +1,4 @@
-# yapay zekâ ajanları için katmanlı bellek
+# Yapay zekâ ajanları için katmanlı bellek
 
 TencentDB Agent Memory, yapay zekâ ajanları için dört aşamalı bir süreçle tamamen yerel uzun süreli bellek (long-term memory) çözümü sunuyor. Dış kaynaklı uygulama programlama arayüzlerine (API) ihtiyaç duymadan veri saklama ve geri çağırma işlemlerini gerçekleştiriyor.
 

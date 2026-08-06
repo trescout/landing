@@ -1,4 +1,4 @@
-# Web Sunucunuzu yapay zekâyla Hızlandırın
+# Yüksek performanslı web sunucusu ve ters vekil
 
 NGINX açık kaynak kod deposu, yüksek performanslı bir web sunucusu ve ters vekil sunucu (reverse proxy) olarak C diliyle geliştirilmeye devam ediyor. Yazılım, ağ trafiğini yönetmek ve içerik dağıtımını optimize etmek amacıyla geniş ölçekli altyapılarda standart bir çözüm sunuyor.
 

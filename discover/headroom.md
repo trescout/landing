@@ -1,4 +1,4 @@
-# yapay zekâ çıktılarınızı analiz edin
+# Yapay zekâ çıktılarınızı analiz edin
 
 Headroom, büyük dil modellerine (LLM) gönderilen günlük dosyalarını, araç çıktılarını ve bağlamsal veri parçalarını (RAG chunks) sıkıştırarak jeton (token) kullanımını %60 ile %95 oranında azaltıyor. Python tabanlı bu araç, kütüphane, vekil sunucu (proxy) ve Model Bağlam Protokolü (MCP) sunucusu olarak farklı entegrasyon seçenekleri sunuyor.
 

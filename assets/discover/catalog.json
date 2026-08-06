@@ -5639,7 +5639,7 @@
     "slug": "trek",
     "title": "TREK",
     "tagline": "TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılan…",
-    "meta": "★ 7.040 · TypeScript",
+    "meta": "★ 7.040",
     "image": "/assets/discover/og/trek.webp",
     "source": "GitHub",
     "date": "2026-06-26",
@@ -5648,8 +5648,7 @@
     ],
     "stars": 7040,
     "lite": false,
-    "headline": "Ekip Çalışması ve Bütçe Yönetimi",
-    "tagline_en": "TREK is a self-hosted…"
+    "headline": "Seyahat planlarınızı birlikte yönetin"
   },
   {
     "slug": "open-seo",

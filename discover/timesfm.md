@@ -1,4 +1,4 @@
-# zaman serileri için yapay zekâ tahminleme
+# Zaman serileri için yapay zekâ tahminleme
 
 Google Research tarafından geliştirilen Zaman Serisi Temel Modeli (Time Series Foundation Model), zaman serisi tahminleme işlemleri için önceden eğitilmiş bir yapı sunuyor. Model, farklı veri setleri üzerinde genel tahminleme yetenekleri sağlamak amacıyla tasarlanmıştır.
 

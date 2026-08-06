@@ -1,4 +1,4 @@
-# Dijital müzik kütüphanenizi tek merkezden yönetin
+# Açık kaynaklı dijital müzik sunucusu
 
 Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu yazılımı, sürekli çalışan cihazlar üzerinde merkezi bir müzik yönetim sistemi oluşturulmasını sağlar.
 

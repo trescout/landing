@@ -1,15 +1,14 @@
-# Ekip Çalışması ve Bütçe Yönetimi
+# Kendi sunucunuzda yapay zekâ destekli seyahat planlayıcı
 
 TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılan (self-hosted) bir seyahat planlama uygulamasıdır. Aşamalı web uygulaması (PWA) desteği ve tek oturum açma (SSO) entegrasyonu ile kullanıcıların seyahat süreçlerini dijital ortamda organize etmelerine olanak tanır.
 
 - ★ 7.040
-- TypeScript
 - GitHub Trending · 2026-06-26
 
 ## Ne kazandırır?
-- Sürükle bırak yöntemiyle etkileşimli seyahat planlama
-- Bütçe yönetimi ve masraf paylaşımı
-- Yapay zekâ destekli otomatik rota ve liste oluşturma
+- Sürükle bırak yöntemiyle günlük seyahat rotaları ve planları oluşturma
+- Grup harcamalarını takip etme ve kişi başı bölüştürme
+- Yapay zekâ entegrasyonu ile otomatik seyahat ve bütçe yönetimi
 
 ## Kurulum
 
@@ -23,9 +22,9 @@ ENCRYPTION_KEY=$(openssl rand -hex 32) docker run -d -p 3000:3000 \
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Sen benim kişisel seyahat asistanımsın. TREK uygulamam üzerinden bir sonraki seyahatim için 3 günlük bir plan oluşturmanı, bütçemi optimize etmeni ve ihtiyaç listemi hazırlamanı istiyorum. Lütfen gidilecek yerlerin konumlarını, tahmini harcamaları ve günlük aktiviteleri içeren kapsamlı bir program hazırla.
+Sen bir seyahat asistanısın. TREK üzerindeki MCP (Model Context Protocol) araçlarını kullanarak benim için 3 günlük bir Paris seyahat planı hazırla, bütçemi günlük harcama limitlerine göre ayarla ve yanıma almam gerekenler için bir paketleme listesi oluştur.
 
-- **Kimin için:** Seyahatlerini dijital ortamda organize etmek, masraflarını takip etmek ve kendi sunucusunda veri gizliliğine önem vererek yapay zekâ desteği almak isteyen gezginler içindir. 
+- **Kimin için:** Seyahatlerini dijital ortamda organize etmek, harcamalarını takip etmek ve kendi verisi üzerinde tam kontrol sahibi olmak isteyen gezginler içindir. 
 - **Lisans:** AGPL-3.0 
 
 ## Bağlantılar
@@ -34,7 +33,7 @@ Sen benim kişisel seyahat asistanımsın. TREK uygulamam üzerinden bir sonraki
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-PWA SSO Self-hosted Artificial Intelligence
+PWA SSO Self-hosted Model Context Protocol Model Context Protocol MCP
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/trek/

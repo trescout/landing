@@ -1,4 +1,4 @@
-# yapay zekâ ile uzun ses kayıtlarını çözümleme
+# Yapay zekâ ile uzun ses kayıtlarını çözümleme
 
 Microsoft tarafından yayınlanan VibeVoice, açık kaynaklı bir sesli yapay zekâ (voice AI) çerçevesi olarak geliştirildi. Sistem, Python tabanlı yapısıyla kullanıcıların kendi ses modellerini eğitmelerine ve uygulamalarına entegre etmelerine olanak tanıyor.
 

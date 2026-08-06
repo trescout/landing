@@ -1,4 +1,4 @@
-# yapay zekâ geliştirme için temel kaynaklar
+# Yapay zekâ geliştirme için temel kaynaklar
 
 Awesome-artificial-intelligence, yapay zekâ (artificial intelligence) alanındaki eğitimleri, kitapları, video dersleri ve akademik makaleleri bir araya getiren kapsamlı bir kaynak listesidir. Bu derleme, öğrenme sürecindeki kullanıcılar için disipline dayalı yapılandırılmış bir içerik havuzu sunar.
 

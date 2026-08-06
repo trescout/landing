@@ -1,4 +1,4 @@
-# yapay zekâ modellerinde KV önbelleği yönetimi
+# Yapay zekâ modellerinde KV önbelleği yönetimi
 
 LMCache, büyük dil modelleri (large language models) için anahtar-değer önbelleği (KV cache) yönetimini optimize ederek çıkarım hızını artıran bir katman sunuyor. Bellek kullanımını verimli hale getiren bu sistem, aynı bağlamı kullanan sorgularda hesaplama yükünü azaltmayı hedefliyor.
 

@@ -1,4 +1,4 @@
-# yerel ortamda çalışan yapay zekâ ses stüdyosu
+# Yerel ortamda çalışan yapay zekâ ses stüdyosu
 
 Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve içerik oluşturma işlemlerini gerçekleştirmesine olanak tanıyan açık kaynaklı bir yapay zekâ ses stüdyosudur. TypeScript diliyle geliştirilen bu platform, ses işleme süreçlerini yerel ortamda yönetmek için kapsamlı araçlar sunar.
 

@@ -1,4 +1,4 @@
-# yapay zekâ ajanları için tasarım yetenekleri
+# Yapay zekâ ajanları için tasarım yetenekleri
 
 Google Labs tarafından geliştirilen Stitch Skills, Stitch MCP sunucusuyla uyumlu çalışmak üzere tasarlanmış bir ajan yetenekleri (agent skills) kütüphanesidir. Açık standartları takip eden bu kütüphane, Gemini CLI ve Cursor gibi kodlama ajanları (coding agents) için iş akışlarını standartlaştırmayı amaçlar.
 

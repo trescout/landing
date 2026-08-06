@@ -1,4 +1,4 @@
-# yapay zekâ destekli japonca giriş sistemi
+# Yapay zekâ destekli japonca giriş sistemi
 
 Rust diliyle geliştirilen Karukan, Linux ve macOS işletim sistemleri için sinirsel kana-kanji dönüştürme motoru (neural kana-kanji conversion engine) kullanan bir Japonca giriş yöntemi sistemidir (Japanese Input Method System). Yazılım, geleneksel yöntemlerin ötesine geçerek metin dönüştürme süreçlerinde yapay zekâ tabanlı bir yaklaşım sunar.
 

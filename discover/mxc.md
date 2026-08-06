@@ -1,4 +1,4 @@
-# yapay zekâ ile güvenli sistem yalıtımı
+# Rust ile politika tabanlı katmanlı sistem yalıtımı
 
 Microsoft tarafından geliştirilen MXC, Rust diliyle yazılmış politika tabanlı, katmanlı bir yalıtım ve kapsayıcılık (isolation and containment) çözümüdür. Sistem kaynaklarını güvenli bir şekilde sınırlandırmak ve uygulama güvenliğini artırmak amacıyla tasarlanmıştır.
 

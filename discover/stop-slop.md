@@ -1,4 +1,4 @@
-# yapay zekâ metinlerini doğallaştırın
+# Yapay zekâ metinlerini doğallaştırın
 
 Yapay zekâ ile üretilen metinler genellikle tahmin edilebilir ifadeler, ritimler ve yapılar içerir. Stop Slop , Claude veya herhangi bir LLM'e bu kalıpları yakalayıp temizlemeyi öğreten bir beceri dosyasıdır. Bu sayede metinleriniz çok daha doğal ve insani bir tona kavuşur.
 

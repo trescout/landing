@@ -1,4 +1,4 @@
-# macOS için gizlilik odaklı sesli dikte
+# MacOS için gizlilik odaklı sesli dikte
 
 FluidVoice, macOS işletim sistemi üzerinde tamamen çevrim dışı çalışan hızlı bir sesli dikte (voice to text) uygulamasıdır. Swift diliyle geliştirilen bu araç, verileri yerel olarak işleyerek gizlilik odaklı bir ses dönüştürme deneyimi sunar.
 

@@ -1,4 +1,4 @@
-# Yüksek performanslı yapay zekâ vektör dizini
+# Rust ile yüksek performanslı vektör dizini
 
 TurboQuant altyapısı üzerine inşa edilen turbovec, Rust diliyle geliştirilmiş yüksek performanslı bir vektör dizini (vector index) aracıdır. Python bağlamaları (bindings) sayesinde geliştiricilerin vektör tabanlı arama işlemlerini hızlı ve verimli bir şekilde gerçekleştirmesine olanak tanır.
 

@@ -1,4 +1,4 @@
-# yapay zekâ ajanları için eş zamanlı tarayıcı
+# Yapay zekâ ajanları için eş zamanlı tarayıcı
 
 Ego-lite, kullanıcılar ve yapay zekâ ajanları (AI agents) için eş zamanlı çalışma imkânı sunan bir tarayıcıdır. JavaScript tabanlı bu araç, insan ve makine etkileşimini aynı tarayıcı ortamında paralel şekilde yürütmeyi hedefler.
 

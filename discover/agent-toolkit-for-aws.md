@@ -1,4 +1,4 @@
-# yapay zekâ ajanları için AWS araç seti
+# Yapay zekâ ajanları için AWS araç seti
 
 AWS, yapay zekâ ajanlarının bulut altyapısıyla etkileşimini kolaylaştırmak için Model Bağlantı Protokolü (Model Context Protocol) sunucuları, yetenekler (skills) ve eklentiler içeren bir araç seti yayımladı. Bu geliştirme, ajanların AWS servisleri üzerinde doğrudan işlem yapabilmesini sağlayan standartlaştırılmış bir yapı sunuyor.
 

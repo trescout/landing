@@ -1,4 +1,4 @@
-# yapay zekâ ajanlarını Google ile güçlendirin
+# Yapay zekâ ajanlarını Google ile güçlendirin
 
 Google tarafından geliştirilen yetenekler (skills) kütüphanesi, yapay zekâ ajanlarının Google ürünleri ve teknolojileriyle etkileşim kurmasını sağlayan Python tabanlı araçlar sunuyor. Bu kaynak, ajanların belirli görevleri yerine getirmesi için gerekli işlevselliği standartlaştırılmış bir yapıda sağlıyor.
 

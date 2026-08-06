@@ -1,4 +1,4 @@
-# yapay zekâ modellerinin gizli talimatları
+# Yapay zekâ modellerinin gizli talimatları
 
 GitHub üzerinde paylaşılan system_prompts_leaks deposu, Anthropic, OpenAI, Google ve xAI gibi büyük teknoloji şirketlerinin yapay zekâ modellerine ait sistem istemlerini (system prompts) bir araya getiriyor. Bu derleme, popüler dil modellerinin arka planda çalışan yapılandırma talimatlarını ve kısıtlamalarını incelemek isteyen geliştiriciler için merkezi bir kaynak sunuyor.
 

@@ -1,4 +1,4 @@
-# Web uygulamaları için derleyici yaklaşımı
+# Derleme zamanında çalışan arayüz çerçevesi
 
 Svelte, geleneksel çerçevelerin aksine tarayıcıda çalışma zamanı (runtime) yükünü azaltan bir derleme zamanı (compile-time) yaklaşımı kullanıyor. Bu JavaScript kütüphanesi, uygulama kodunu küçük ve hızlı çalışan saf JavaScript modüllerine dönüştürerek web geliştirme süreçlerini basitleştiriyor.
 

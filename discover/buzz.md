@@ -1,4 +1,4 @@
-# yapay zekâ ajanlarıyla ortak çalışma alanı
+# Merkeziyetsiz kovan zihni iletişim platformu
 
 Block tarafından Rust diliyle geliştirilen Buzz, merkeziyetsiz bir kovan zihni iletişim platformu (hive mind communication platform) olarak tasarlanmıştır. Dağıtık ağ yapısı üzerinden kolektif veri paylaşımını ve eş zamanlı etkileşimi destekleyen bir altyapı sunar.
 

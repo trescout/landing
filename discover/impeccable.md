@@ -1,4 +1,4 @@
-# yapay zekâ tasarımlarınızı mükemmelleştirin
+# Yapay zekâ tasarımlarınızı mükemmelleştirin
 
 Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilmiş bir tasarım dili (design language) kütüphanesidir. Yazılım, üretken yapay zekâ (generative AI) araçlarının görsel tutarlılığını ve estetik kalitesini artırmak amacıyla standartlaştırılmış kurallar sunar.
 

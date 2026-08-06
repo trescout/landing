@@ -1,4 +1,4 @@
-# yapay zekâ ile otomatik diyagram oluşturma
+# Yapay zekâ ile otomatik diyagram oluşturma
 
 Next.js tabanlı bu uygulama, diyagram oluşturma aracı draw.io ile üretken yapay zekâ (generative AI) yeteneklerini birleştiriyor. Kullanıcılar, doğal dil komutları aracılığıyla görsel şemalar oluşturabiliyor ve mevcut diyagramlarını yapay zekâ desteğiyle düzenleyebiliyor.
 

@@ -1,4 +1,4 @@
-# yapay zekâ ajanlarına mühendislik yeteneği kazandırın
+# Yapay zekâ ajanlarına mühendislik yeteneği kazandırın
 
 Yapay zekâ kodlama ajanları için geliştirilen bu kütüphane, üretim seviyesinde mühendislik yetenekleri (engineering skills) sunuyor. Yazılım geliştirme süreçlerini otomatize eden ajanların teknik kapasitesini artırmak için standartlaştırılmış araçlar sağlıyor.
 

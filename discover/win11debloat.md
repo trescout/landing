@@ -1,4 +1,4 @@
-# Windows sisteminizi yapay zekâdan arındırın
+# Windows Sistemini Gereksizlerden Arındırın
 
 Win11Debloat, Windows 10 ve 11 işletim sistemlerinde önceden yüklenmiş uygulamaları kaldırmayı ve telemetri verilerini devre dışı bırakmayı sağlayan bir PowerShell betiğidir. Kullanıcıların sistemlerini özelleştirmelerine ve gereksiz bileşenlerden arındırarak sistem hafifletme (debloat) işlemi yapmalarına olanak tanır.
 

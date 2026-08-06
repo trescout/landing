@@ -1,4 +1,4 @@
-# yapay zekâ ile web sitesi kopyalama
+# Yapay zekâ ile web sitesi kopyalama
 
 JCodesMore tarafından geliştirilen yapay zekâ web sitesi kopyalayıcı (AI website cloner), TypeScript tabanlı kodlama ajanlarını kullanarak tek komutla mevcut web sitelerinin kopyalanmasını sağlıyor. Bu araç, web tasarımı ve geliştirme süreçlerini otomatize etmek için yapay zekâ destekli kod oluşturma (AI-powered code generation) yönteminden yararlanıyor.
 

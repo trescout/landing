@@ -1,4 +1,4 @@
-# Modern web uygulamaları için yapay zekâ destekli çerçeve
+# Kurumsal web uygulamaları için platform
 
 ASP.NET Core, Windows, macOS ve Linux üzerinde modern bulut tabanlı web uygulamaları geliştirmek için kullanılan platformlar arası bir .NET çerçevesidir (framework). C# diliyle geliştirilen bu yapı, yüksek performanslı ve ölçeklenebilir web hizmetleri oluşturmaya olanak tanır.
 

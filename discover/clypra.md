@@ -1,4 +1,4 @@
-# açık kaynak profesyonel yapay zekâ video düzenleyici
+# Açık kaynaklı masaüstü video düzenleyici
 
 Clypra, Tauri, React ve TypeScript kullanılarak geliştirilen açık kaynak kodlu bir video düzenleyici (video editor) uygulamasıdır. Yazılım, ücretli video düzenleme araçlarında bulunan gelişmiş özellikleri ücretsiz bir alternatif olarak sunmayı hedefler.
 

@@ -1,4 +1,4 @@
-# yapay zekâ tasarımlarına özgünlük kazandırın
+# Yapay zekâ tasarımlarına özgünlük kazandırın
 
 Hallmark, yapay zekâ tarafından üretilen standart içeriklerin (AI slop) tasarım üzerindeki etkisini azaltmak amacıyla geliştirilen bir stil dosyasıdır. Claude Code, Cursor ve Codex gibi araçlarda kullanılan arayüzlerin özgün ve insani bir estetik kazanmasını sağlar.
 

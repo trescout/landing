@@ -1,4 +1,4 @@
-# yapay zekâ ile asenkron görev yönetimi
+# Yapay zekâ ile asenkron görev yönetimi
 
 pi-subagents , Pi platformu üzerinde asenkron alt-ajan delegasyonu süreçlerini yönetmek için geliştirilmiş bir TypeScript kütüphanesidir. Karmaşık iş yüklerini alt-ajanlara dağıtmayı kolaylaştırır.
 

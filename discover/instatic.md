@@ -1,4 +1,4 @@
-# Kendi sunucunuzda modern yapay zekâ destekli CMS
+# Kendi sunucunuzda modern görsel CMS
 
 Instatic, TypeScript tabanlı, kendi kendine barındırılan (self-hosted) modern bir görsel içerik yönetim sistemi (CMS) olarak sunuluyor. Kullanıcıların hızlı kurulum süreciyle içerik yönetimi arayüzünü kendi sunucularında çalıştırmasına olanak tanıyor.
 

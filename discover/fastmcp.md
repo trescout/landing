@@ -1,4 +1,4 @@
-# yapay zekâ için hızlı araç entegrasyonu
+# Yapay zekâ için hızlı araç entegrasyonu
 
 FastMCP, Model Bağlam Protokolü (Model Context Protocol - MCP) sunucuları ve istemcileri geliştirmeyi kolaylaştıran Python tabanlı bir çerçevedir (framework). Geliştiricilerin yapay zekâ modelleri ile yerel araçlar arasında hızlı entegrasyon kurmasını sağlar.
 

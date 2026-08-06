@@ -1,4 +1,4 @@
-# yapay zekâ ile otomatik video düzenleme
+# Yapay zekâ ile otomatik video düzenleme
 
 Video-use kütüphanesi, kodlama ajanlarının (coding agents) video düzenleme süreçlerini otomatize etmesine olanak tanıyor. Python tabanlı bu araç, görsel düzenleme görevlerini yazılım komutları aracılığıyla yerine getirerek iş akışlarını hızlandırıyor.
 

@@ -1,4 +1,4 @@
-# Windows deneyimini özelleştiren yardımcı araçlar
+# Windows'u kendinize göre ayarlayın
 
 Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştirmeyi artırmak amacıyla geliştirilen bir yardımcı yazılım koleksiyonudur. Kullanıcılara sistem üzerinde gelişmiş özelleştirme araçları ve iş akışı optimizasyonları sunar.
 

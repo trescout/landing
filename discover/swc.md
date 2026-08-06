@@ -1,4 +1,4 @@
-# Web projeleri için hızlı derleyici
+# Web projelerinizi Rust hızında derleyin
 
 Rust diliyle geliştirilen SWC, web projeleri için hızlı bir derleme (compilation) ve paketleme (bundling) platformu sunuyor. JavaScript ve TypeScript dosyalarını yüksek performansla işleyerek modern web geliştirme süreçlerini hızlandırıyor.
 

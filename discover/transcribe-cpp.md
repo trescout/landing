@@ -1,4 +1,4 @@
-# yerel sistemlerde hızlı konuşma dönüştürme
+# Yerel sistemlerde hızlı konuşma dönüştürme
 
 Transcribe.cpp, 16'dan fazla model ailesini destekleyen ve C++ diliyle geliştirilen bir konuşmayı metne dönüştürme (speech-to-text) çıkarım (inference) kütüphanesidir. Ggml altyapısını kullanan bu araç, farklı ses işleme modellerinin yerel sistemlerde verimli bir şekilde çalıştırılmasını sağlar.
 

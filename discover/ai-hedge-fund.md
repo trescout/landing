@@ -1,4 +1,4 @@
-# yatırım stratejileri için yapay zekâ ajanları
+# Yatırım stratejileri için yapay zekâ ajanları
 
 Yapay zekâ destekli yatırım fonu (AI hedge fund), finansal piyasa analizi ve varlık yönetimi süreçlerini otomatize etmek için otonom ajanlar kullanıyor. Python tabanlı bu proje, piyasa verilerini işleyerek yatırım stratejileri geliştiren bir yapay zekâ ekibi (AI team) modeli sunuyor.
 

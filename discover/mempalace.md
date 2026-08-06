@@ -1,4 +1,4 @@
-# yapay zekâ modellerine bellek kazandırın
+# Yapay zekâ modellerine bellek kazandırın
 
 MemPalace, yapay zekâ modelleri için açık kaynaklı bir bellek sistemi (memory system) sunuyor. Sistem, geniş dil modellerinin (large language models) bağlamsal hafıza performansını ölçümlemek ve geliştirmek amacıyla optimize edilmiş araçlar içeriyor.
 

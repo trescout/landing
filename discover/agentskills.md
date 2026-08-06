@@ -1,4 +1,4 @@
-# yapay zekâ ajanlarına standart yetenekler kazandırın
+# Yapay zekâ ajanlarına standart yetenekler kazandırın
 
 Agent Skills, yapay zekâ ajanlarının görevlerini yerine getirirken kullandığı yetenekleri (skills) standartlaştıran bir teknik şartname ve dokümantasyon projesidir. Python tabanlı bu yapı, farklı ajan sistemleri arasında yetenek paylaşımını ve birlikte çalışabilirliği (interoperability) kolaylaştırmayı amaçlar.
 

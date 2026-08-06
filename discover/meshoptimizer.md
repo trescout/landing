@@ -1,4 +1,4 @@
-# üç boyutlu ağları optimize edin
+# Üç boyutlu ağları optimize edin
 
 Meshoptimizer kütüphanesi, üç boyutlu ağ (mesh) verilerini optimize ederek dosya boyutlarını küçültüyor ve işleme (rendering) performansını artırıyor. C++ diliyle geliştirilen bu araç, grafik uygulamalarında bellek kullanımını iyileştirmek için geometrik verileri düzenliyor.
 

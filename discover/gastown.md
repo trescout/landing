@@ -1,4 +1,4 @@
-# yapay zekâ ajanları için çalışma alanı yönetimi
+# Yapay zekâ ajanları için çalışma alanı yönetimi
 
 Gas Town, çoklu ajan çalışma alanı yöneticisi (multi-agent workspace manager) olarak farklı yapay zekâ ajanlarının bir arada çalışmasını sağlayan bir altyapı sunuyor. Go diliyle geliştirilen bu araç, karmaşık iş akışlarında ajanlar arası koordinasyonu ve kaynak yönetimini merkezileştiriyor.
 

@@ -1,4 +1,4 @@
-# yapay zekâ ile otomatik sızma testi
+# Yapay zekâ ile otomatik sızma testi
 
 VulnClaw, yapay zekâ ajanları (AI agents) ve model bağlam protokolü (Model Context Protocol) araç zincirini kullanarak sızma testi süreçlerini otomatize ediyor. Araç, doğal dil komutlarını işleyerek bilgi toplama, zafiyet tarama, istismar ve raporlama adımlarını uçtan uca gerçekleştiriyor.
 

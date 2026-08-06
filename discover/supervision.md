@@ -1,4 +1,4 @@
-# Bilgisayarlı görü projelerinizi yapay zekâ ile hızlandırın
+# Bilgisayarlı görü projeleri için araçlar
 
 Roboflow tarafından geliştirilen Supervision, bilgisayarlı görü (computer vision) projeleri için yeniden kullanılabilir yardımcı araçlar ve fonksiyonlar sunuyor. Python tabanlı bu kütüphane, nesne tespiti ve takibi gibi süreçlerdeki standart işlemleri kolaylaştırarak geliştirme iş akışlarını hızlandırıyor.
 

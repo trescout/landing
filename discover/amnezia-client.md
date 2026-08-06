@@ -1,4 +1,4 @@
-# Kendi sunucunuzda kişisel yapay zekâ destekli VPN
+# Kendi sunucunuzda kişisel VPN istemcisi
 
 Amnezia VPN istemcisi, kullanıcıların kendi sunucuları üzerinden sansürsüz internet erişimi sağlamasına olanak tanıyan açık kaynaklı bir ağ aracıdır. C++ diliyle geliştirilen bu yazılım, masaüstü ve mobil platformlarda kişisel gizliliği koruyan özelleştirilebilir tünelleme protokolleri sunar.
 

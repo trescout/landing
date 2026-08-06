@@ -1,4 +1,4 @@
-# yapay zekâ kod incelemesinde token tasarrufu
+# Yapay zekâ kod incelemesinde token tasarrufu
 
 Code-review-graph, kod tabanını analiz ederek yapay zekâ araçları için yerel odaklı bir kod zekası haritası (code intelligence graph) oluşturuyor. Bu yapı, büyük projelerde bağlam azaltma (context reduction) yöntemlerini kullanarak yapay zekâ destekli kod inceleme süreçlerini daha verimli hale getiriyor.
 

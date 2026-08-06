@@ -1,4 +1,4 @@
-# yapay zekâ ile otomatik güvenlik taraması
+# Yapay zekâ ile otomatik güvenlik taraması
 
 Strix, uygulamalardaki güvenlik açıklarını tespit etmek ve gidermek için tasarlanmış açık kaynaklı bir yapay zekâ tabanlı güvenlik aracıdır (AI security tool). Python diliyle geliştirilen bu sistem, yazılım geliştirme süreçlerinde zafiyet tarama ve düzeltme işlemlerini otomatize eder.
 

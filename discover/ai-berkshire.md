@@ -1,4 +1,4 @@
-# yapay zekâ ile değer yatırımı araştırması
+# Yapay zekâ ile değer yatırımı araştırması
 
 AI-berkshire, Claude Code altyapısını kullanarak Warren Buffett ve Charlie Munger gibi yatırımcıların metodolojilerini uygulayan bir değer yatırımı araştırma çerçevesidir (research framework). Sistem, çoklu yapay zekâ ajanı (multi-agent) yapısıyla finansal verileri analiz ederek karşıt görüşlü incelemeler yürütmektedir.
 

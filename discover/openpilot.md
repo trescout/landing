@@ -1,4 +1,4 @@
-# araçlar için açık kaynaklı yapay zekâ
+# Araçlar için açık kaynaklı yapay zekâ
 
 Comma AI tarafından geliştirilen openpilot, robotik sistemler için tasarlanmış açık kaynaklı bir işletim sistemidir. Yazılım, 300'den fazla araç modelinde sürücü destek sistemini (driver assistance system) yükselterek otonom sürüş yetenekleri kazandırıyor.
 

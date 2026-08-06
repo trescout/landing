@@ -1,4 +1,4 @@
-# İnternet sansürünü yapay zekâ ile aşın
+# Kotlin ile internet sansürünü aşın
 
 Fanqiang projesi, internet sansürünü aşmak için geliştirilen ve Kotlin diliyle yazılmış bir ağ geçidi (gateway) aracıdır. Kullanıcılara kısıtlı ağ kaynaklarına erişim sağlamak amacıyla tasarlanmış açık kaynaklı bir yazılımdır.
 
@@ -27,7 +27,7 @@ Fanqiang projesi, doğrudan bir yazılım kurulumundan ziyade kapsamlı bir rehb
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Gateway Artificial Intelligence
+Gateway
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fanqiang/

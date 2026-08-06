@@ -1,4 +1,4 @@
-# yazılım mimarinizi canlı diyagramlarla görselleştirin
+# Yazılım mimarinizi canlı diyagramlarla görselleştirin
 
 Likec4, yazılım mimarisini doğrudan kaynak kod üzerinden görselleştiren ve canlı diyagramlar oluşturulmasını sağlayan bir araçtır. Kod tabanıyla eş zamanlı güncellenen mimari şemalar (diagrams) aracılığıyla teknik dokümantasyonun sürekliliğini hedefler.
 

@@ -1,4 +1,4 @@
-# bilgisayarınızı yöneten yapay zekâ arayüzü
+# Bilgisayarınızı yöneten yapay zekâ arayüzü
 
 ByteDance tarafından geliştirilen UI-TARS, çok modlu yapay zekâ modellerini (multimodal AI models) masaüstü arayüzleriyle entegre eden açık kaynaklı bir ajan altyapısıdır. Bu sistem, görsel verileri işleyerek bilgisayar üzerindeki görevleri otonom şekilde gerçekleştiren ajanların (AI agents) oluşturulmasını sağlar.
 

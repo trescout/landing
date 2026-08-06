@@ -1,4 +1,4 @@
-# SEO verilerini yapay zekâ ile yönetin
+# Açık kaynaklı SEO veri ve analiz platformu
 
 Open SEO, Semrush ve Ahrefs gibi ücretli araçlara açık kaynaklı bir alternatif sunuyor. Arama motoru optimizasyonu (SEO) verilerini analiz etmek için geliştirilen bu yazılım, TypeScript tabanlı altyapısıyla süreçleri şeffaflaştırmayı hedefliyor.
 

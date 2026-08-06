@@ -1,4 +1,4 @@
-# İş süreçlerinizi yapay zekâ ile yönetin
+# Açık kaynaklı kurumsal kaynak planlama
 
 Odoo, işletmelerin tüm operasyonel süreçlerini tek bir çatı altında yönetmelerini sağlayan açık kaynaklı bir kurumsal kaynak planlama (enterprise resource planning) platformudur. Python diliyle geliştirilen bu sistem, satıştan muhasebeye kadar geniş bir yelpazede modüler iş uygulamaları sunar.
 
@@ -23,7 +23,7 @@ Odoo kurulumuna başlamak için resmî Odoo dokümantasyon sayfasında yer alan 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Enterprise Resource Planning Artificial Intelligence
+Enterprise Resource Planning
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/odoo/

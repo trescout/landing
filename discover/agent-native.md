@@ -1,4 +1,4 @@
-# yapay zekâ ajanları için uygulama çerçevesi
+# Yapay zekâ ajanları için uygulama çerçevesi
 
 BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications) oluşturmaya odaklanan bir TypeScript çerçevesidir (framework). Geliştiricilerin ajan tabanlı iş akışlarını doğrudan uygulama mimarisine entegre etmelerini sağlar.
 

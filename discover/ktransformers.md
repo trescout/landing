@@ -1,4 +1,4 @@
-# yapay zekâ modelleri için heterojen hızlandırma
+# Yapay zekâ modelleri için heterojen hızlandırma
 
 Ktransformers, büyük dil modellerinin (large language models) çıkarım ve ince ayar (fine-tuning) süreçlerinde heterojen donanım optimizasyonlarını destekleyen esnek bir çerçeve sunuyor. Bu yapı, farklı donanım kaynaklarını verimli kullanarak model performansını artırmayı hedefliyor.
 

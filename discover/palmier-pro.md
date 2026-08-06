@@ -1,4 +1,4 @@
-# macOS için yapay zekâlı video düzenleyici
+# MacOS için yapay zekâlı video düzenleyici
 
 Palmier Pro, macOS işletim sistemi üzerinde çalışan ve yapay zekâ destekli düzenleme araçları sunan bir video düzenleyici (video editor) olarak geliştirildi. Swift diliyle yazılan bu uygulama, yapay zekâ tabanlı iş akışlarını yerel sistem performansı ile birleştirmeyi amaçlıyor.
 

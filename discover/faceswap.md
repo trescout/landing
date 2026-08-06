@@ -1,4 +1,4 @@
-# yapay zekâ ile yüz değiştirme
+# Görüntülerde Yüz Değiştirme Rehberi
 
 Python tabanlı Faceswap, derin sahte (deepfake) teknolojisini kullanarak görüntülerdeki yüzleri değiştirmeye olanak tanıyan açık kaynaklı bir yazılımdır. Kullanıcıların video ve görseller üzerinde yüz dönüştürme (face swapping) işlemleri gerçekleştirmesine imkân sağlar.
 

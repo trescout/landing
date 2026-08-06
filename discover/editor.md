@@ -1,4 +1,4 @@
-# web tabanlı 3 boyutlu mimari düzenleyici
+# Web tabanlı 3 boyutlu mimari düzenleyici
 
 TypeScript tabanlı pascalorg/editor, kullanıcıların tarayıcı üzerinden üç boyutlu mimari projeler oluşturmasına ve bu projeleri paylaşmasına olanak tanıyor. Yazılım, mimari tasarım süreçlerini web tabanlı bir arayüzle erişilebilir kılmayı hedefliyor.
 

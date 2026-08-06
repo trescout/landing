@@ -1,4 +1,4 @@
-# uzun vadeli görevler için yapay zekâ
+# Uzun vadeli görevler için yapay zekâ
 
 GLM-5, yazılım geliştirme süreçlerini sezgisel kodlamadan (vibe coding) yapılandırılmış ajan tabanlı mühendisliğe (agentic engineering) taşımayı amaçlayan bir çerçeve sunuyor. Bu sistem, karmaşık görevleri otonom bir şekilde yönetebilen yapay zekâ ajanları (AI agents) aracılığıyla yazılım geliştirme iş akışlarını standartlaştırıyor.
 

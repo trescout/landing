@@ -1,4 +1,4 @@
-# Hepsi bir arada yapay zekâ ses aracı
+# Metinden konuşmaya ve ses kopyalama
 
 Voice-pro, metinden konuşmaya dönüştürme (TTS) ve sıfır örnekli ses kopyalama (zero-shot voice cloning) araçlarını bir araya getiren açık kaynaklı bir arayüzdür. Kullanıcılar, web tabanlı arayüzü üzerinden ses ayrıştırma, çok dilli çeviri ve YouTube içeriklerini işleme gibi işlemleri tek bir platformda gerçekleştirebilir.
 

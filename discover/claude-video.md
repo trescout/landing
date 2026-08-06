@@ -1,4 +1,4 @@
-# yapay zekâ ile video analizi
+# Yapay zekâ ile video analizi
 
 Claude-video, Claude modeline video içeriğini analiz etme yeteneği kazandıran bir Python aracıdır. Yazılım, videoları indirip karelere ayırarak ve metne dönüştürerek (transcription) görsel veriyi yapay zekâ modelinin işleyebileceği formata getirir.
 

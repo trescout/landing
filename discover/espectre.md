@@ -1,4 +1,4 @@
-# Wi-Fi ile yapay zekâ destekli hareket algılama
+# Wi-Fi sinyalleri ile hareket algılama
 
 ESPectre, Wi-Fi kanal durum bilgisi (CSI) analizi üzerinden hareket algılama gerçekleştiren bir sistemdir. Ev otomasyon platformu Ev Asistanı (Home Assistant) ile entegre çalışarak kablosuz ağ sinyallerini izleme yeteneği sunar.
 
@@ -26,9 +26,6 @@ ESPectre'yi kullanmaya başlamak için projeye ait resmî SETUP.md dokümanını
 - [GitHub deposu →](https://github.com/francescopace/espectre)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/espectre/

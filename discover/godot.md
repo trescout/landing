@@ -1,4 +1,4 @@
-# açık kaynaklı oyun geliştirme motoru
+# Açık kaynaklı oyun geliştirme motoru
 
 Godot Motoru (Godot Engine), iki ve üç boyutlu oyun geliştirme süreçleri için kullanılan açık kaynaklı bir oyun motorudur. C++ diliyle geliştirilen bu platform, geliştiricilere farklı işletim sistemlerinde çalışabilen oyunlar üretme imkânı tanır.
 

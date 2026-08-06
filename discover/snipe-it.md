@@ -1,4 +1,4 @@
-# kurumsal varlık ve lisans yönetimi
+# Kurumsal varlık ve lisans yönetimi
 
 Snipe-IT, bilişim teknolojileri varlıklarını ve yazılım lisanslarını takip etmeye yarayan açık kaynaklı bir yönetim sistemidir. PHP diliyle geliştirilen bu platform, kurumların envanter kayıtlarını ve kullanım döngülerini dijital ortamda düzenlemesine olanak tanır.
 

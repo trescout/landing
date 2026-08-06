@@ -1,4 +1,4 @@
-# yapay zekâ ajanlarıyla dijital ajans kurun
+# Yapay zekâ ajanlarıyla dijital ajans kurun
 
 Agency-agents projesi, farklı uzmanlık alanlarına sahip yapay zekâ ajanlarını bir araya getirerek dijital bir ajans yapısı oluşturuyor. Yazılım geliştirme, içerik üretimi ve veri doğrulama gibi süreçleri özelleşmiş karakterler ve iş akışları üzerinden yönetmeyi sağlıyor.
 

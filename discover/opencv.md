@@ -1,4 +1,4 @@
-# Görüntü işleme için açık kaynak kütüphane
+# Görüntü işlemenin açık kaynak standardı
 
 Açık kaynak kodlu bilgisayarlı görü kütüphanesi (computer vision library) olan OpenCV, görüntü işleme ve makine öğrenmesi (machine learning) uygulamaları için geniş kapsamlı araçlar sunuyor. C++ diliyle geliştirilen bu kütüphane, gerçek zamanlı görsel veri analizi süreçlerinde standart bir altyapı görevi görüyor.
 

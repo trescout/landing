@@ -1,4 +1,4 @@
-# yapay zekâ Tasarımlarını Profesyonelleştirin
+# Yapay zekâ Tasarımlarını Profesyonelleştirin
 
 Yapay zekâ ajanları arayüz üretirken çoğu zaman şablon odaklı sonuçlar verir. Taste Skill , ajanlara daha etkili yerleşim, tipografi, hareket ve boşluk kullanımı öğreten taşınabilir bir beceri setidir. Bu sayede yapay zekâ ile oluşturulan arayüzler çok daha özgün ve profesyonel görünür.
 

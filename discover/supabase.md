@@ -1,4 +1,4 @@
-# açık kaynaklı Postgres geliştirme platformu
+# Açık kaynaklı Postgres geliştirme platformu
 
 Supabase, web, mobil ve yapay zekâ uygulamaları geliştirmek için Postgres veritabanı (Postgres database) altyapısı sunan bir geliştirme platformudur. Açık kaynaklı yapısıyla uygulama geliştirme süreçlerini hızlandırmak için gerekli olan veritabanı yönetimi ve arka uç (backend) hizmetlerini bir arada sağlar.
 

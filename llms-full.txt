@@ -19996,7 +19996,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ Ajanlarınıza Güç Katın
+# Yapay zekâ Ajanlarınıza Güç Katın
 
 ECC; Claude Code, Codex, Cursor ve OpenCode gibi yapay zekâ kodlama araçlarına beceriler, içgüdüler, hafıza optimizasyonu ve güvenlik taraması kazandıran kapsamlı bir sistemdir. Tekil konfigürasyon dosyaları yerine, ajanın daha tutarlı, güvenli ve önce-araştır mantığıyla çalışmasını sağlayan hazır bir katman sunar.
 
@@ -20153,7 +20153,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# açık kaynaklı yapay zekâ kodlama ajanı
+# Açık kaynaklı yapay zekâ kodlama ajanı
 
 OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent). TypeScript diliyle geliştirilen bu araç, yazılım projelerinde otonom görev yürütme yetenekleri sunar.
 
@@ -20260,7 +20260,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# tek kodla çoklu platform uygulaması
+# Tek kodla çoklu platform uygulaması
 
 Google tarafından geliştirilen Flutter, tek bir kod tabanı kullanarak mobil, web ve masaüstü platformları için hızlı bir şekilde kullanıcı arayüzü (user interface) oluşturulmasına olanak tanıyor. Dart programlama dilini temel alan bu açık kaynaklı çerçeve (framework), yüksek performanslı ve görsel açıdan zengin uygulamalar geliştirmek için yaygın olarak tercih ediliyor.
 
@@ -20642,7 +20642,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ araçlarının perde arkası
+# Yapay zekâ araçlarının perde arkası
 
 Popüler yapay zekâ araçlarının sistem yönergeleri (system prompts) ve kullanılan dil modelleri (AI models), geliştiricilerin incelemesi için tek bir kaynakta toplanıyor. Bu arşiv, güncel kodlama asistanlarının ve üretken yapay zekâ (generative AI) platformlarının arka planındaki yapılandırma stratejilerini şeffaf bir şekilde ortaya koyuyor.
 
@@ -20677,7 +20677,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanlarıyla dijital ajans kurun
+# Yapay zekâ ajanlarıyla dijital ajans kurun
 
 Agency-agents projesi, farklı uzmanlık alanlarına sahip yapay zekâ ajanlarını bir araya getirerek dijital bir ajans yapısı oluşturuyor. Yazılım geliştirme, içerik üretimi ve veri doğrulama gibi süreçleri özelleşmiş karakterler ve iş akışları üzerinden yönetmeyi sağlıyor.
 
@@ -20737,7 +20737,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Windows deneyimini özelleştiren yardımcı araçlar
+# Windows'u kendinize göre ayarlayın
 
 Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştirmeyi artırmak amacıyla geliştirilen bir yardımcı yazılım koleksiyonudur. Kullanıcılara sistem üzerinde gelişmiş özelleştirme araçları ve iş akışı optimizasyonları sunar.
 
@@ -21009,7 +21009,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile yazılım geliştirme fabrikası
+# Yapay zekâ ile yazılım geliştirme fabrikası
 
 Gstack, Garry Tan'ın Claude Code yapılandırmasını temel alan ve CEO, tasarımcı, mühendislik yöneticisi gibi farklı roller üstlenen 23 özelleşmiş araçtan oluşan bir sistemdir. Bu TypeScript tabanlı yapı, yazılım geliştirme süreçlerini otomatize etmek için tanımlanmış iş akışları (workflows) sunar.
 
@@ -21056,7 +21056,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile şartname odaklı geliştirme
+# Yapay zekâ ile şartname odaklı geliştirme
 
 GitHub tarafından yayınlanan spec-kit, şartname odaklı geliştirme (spec-driven development) süreçlerini başlatmak için gerekli araçları sunuyor. Python tabanlı bu kütüphane, yazılım geliştirme aşamasında tanımlanan teknik şartnamelerin kod süreçlerine entegrasyonunu kolaylaştırıyor.
 
@@ -21113,7 +21113,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ modellerini bilgisayarınızda çalıştırın
+# Yapay zekâ modellerini bilgisayarınızda çalıştırın
 
 Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını sağlayan C ve C++ tabanlı bir çıkarım (inference) kütüphanesidir. Yazılım, düşük bellek kullanımı ve yüksek performans odaklı yapısıyla yerel cihazlarda yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.
 
@@ -21221,7 +21221,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# açık kaynaklı oyun geliştirme motoru
+# Açık kaynaklı oyun geliştirme motoru
 
 Godot Motoru (Godot Engine), iki ve üç boyutlu oyun geliştirme süreçleri için kullanılan açık kaynaklı bir oyun motorudur. C++ diliyle geliştirilen bu platform, geliştiricilere farklı işletim sistemlerinde çalışabilen oyunlar üretme imkânı tanır.
 
@@ -21450,7 +21450,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# açık kaynaklı Postgres geliştirme platformu
+# Açık kaynaklı Postgres geliştirme platformu
 
 Supabase, web, mobil ve yapay zekâ uygulamaları geliştirmek için Postgres veritabanı (Postgres database) altyapısı sunan bir geliştirme platformudur. Açık kaynaklı yapısıyla uygulama geliştirme süreçlerini hızlandırmak için gerekli olan veritabanı yönetimi ve arka uç (backend) hizmetlerini bir arada sağlar.
 
@@ -22022,7 +22022,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile akıllı borsa işlemleri
+# Yapay zekâ ile akıllı borsa işlemleri
 
 TradingAgents, finansal piyasalarda işlem yapmak amacıyla geliştirilen çoklu ajanlı büyük dil modeli (multi-agent LLM) tabanlı bir çerçevedir. Python ile yazılan bu sistem, otonom ticaret ajanlarının finansal verileri analiz ederek strateji oluşturmasını ve karar verme süreçlerini yönetmesini sağlar.
 
@@ -22183,7 +22183,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Görüntü işleme için açık kaynak kütüphane
+# Görüntü işlemenin açık kaynak standardı
 
 Açık kaynak kodlu bilgisayarlı görü kütüphanesi (computer vision library) olan OpenCV, görüntü işleme ve makine öğrenmesi (machine learning) uygulamaları için geniş kapsamlı araçlar sunuyor. C++ diliyle geliştirilen bu kütüphane, gerçek zamanlı görsel veri analizi süreçlerinde standart bir altyapı görevi görüyor.
 
@@ -22272,7 +22272,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ Ajanınıza Kalıcı Hafıza Kazandırın
+# Yapay zekâ Ajanınıza Kalıcı Hafıza Kazandırın
 
 claude-mem , AI ajanlarınızın oturumlar arası hatırlama yapabilmesini sağlar. Bir oturumda gerçekleşen her şeyi yakalar, AI ile anlamlı özetlere dönüştürür ve sonraki oturumda ilgili bağlamı geri sunar. Claude Code, Codex, Gemini, Copilot ve OpenCode ile uyumludur.
 
@@ -22459,7 +22459,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Web uygulamaları için derleyici yaklaşımı
+# Derleme zamanında çalışan arayüz çerçevesi
 
 Svelte, geleneksel çerçevelerin aksine tarayıcıda çalışma zamanı (runtime) yükünü azaltan bir derleme zamanı (compile-time) yaklaşımı kullanıyor. Bu JavaScript kütüphanesi, uygulama kodunu küçük ve hızlı çalışan saf JavaScript modüllerine dönüştürerek web geliştirme süreçlerini basitleştiriyor.
 
@@ -22640,7 +22640,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanlarına mühendislik yeteneği kazandırın
+# Yapay zekâ ajanlarına mühendislik yeteneği kazandırın
 
 Yapay zekâ kodlama ajanları için geliştirilen bu kütüphane, üretim seviyesinde mühendislik yetenekleri (engineering skills) sunuyor. Yazılım geliştirme süreçlerini otomatize eden ajanların teknik kapasitesini artırmak için standartlaştırılmış araçlar sağlıyor.
 
@@ -22688,7 +22688,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanları ile operasyon yönetimi
+# Yapay zekâ ajanları ile operasyon yönetimi
 
 LobeHub, yapay zekâ ajanlarını işe alma, zamanlama ve raporlama süreçleriyle yöneterek 7 gün 24 saat çalışan bir yapay zekâ ekibi operasyonu (AI team operations) oluşturmayı sağlıyor. Platform, farklı ajanları tek bir merkezden organize ederek iş akışlarını otomatize eden bir yönetici arayüzü sunuyor.
 
@@ -23105,7 +23105,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Çin eğitim müfredatına yapay zekâ ile erişin
+# Çin eğitim müfredatı ve ders kitapları
 
 ChinaTextbook deposu, ilkokuldan üniversite seviyesine kadar Çin eğitim müfredatında kullanılan ders kitaplarının taşınabilir belge formatındaki (PDF) dijital arşivini sunuyor. Bu kaynak, geniş kapsamlı akademik materyallere merkezi bir erişim noktası sağlıyor.
 
@@ -23134,7 +23134,7 @@ ChinaTextbook deposunun GitHub sayfasını ziyaret ederek ilkokul, ortaokul, lis
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-PDF Artificial Intelligence
+PDF
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/chinatextbook/
@@ -23472,7 +23472,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ Tasarımlarını Profesyonelleştirin
+# Yapay zekâ Tasarımlarını Profesyonelleştirin
 
 Yapay zekâ ajanları arayüz üretirken çoğu zaman şablon odaklı sonuçlar verir. Taste Skill , ajanlara daha etkili yerleşim, tipografi, hareket ve boşluk kullanımı öğreten taşınabilir bir beceri setidir. Bu sayede yapay zekâ ile oluşturulan arayüzler çok daha özgün ve profesyonel görünür.
 
@@ -23535,7 +23535,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Veri Tahmininde Evrensel yapay zekâ
+# Veri tahmininde sürü zekâsı motoru
 
 MiroFish, çeşitli veri türlerini tahmin etmek amacıyla geliştirilen basit ve evrensel bir sürü zekâsı motoru (swarm intelligence engine) sunuyor. Python tabanlı bu araç, karmaşık sistemlerdeki örüntüleri tanımlamak için kolektif hesaplama yöntemlerinden yararlanıyor.
 
@@ -23623,7 +23623,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# bilgisayarınızda kod çalıştıran yapay zekâ
+# Bilgisayarınızda kod çalıştıran yapay zekâ
 
 Open Interpreter, yerel bilgisayar ortamında kod çalıştırarak yazılım geliştirme süreçlerini otomatize eden bir kodlama ajanı (coding agent) sunuyor. Düşük maliyetli dil modelleriyle uyumlu çalışacak şekilde tasarlanan bu araç, karmaşık görevleri doğrudan terminal üzerinden yürütmeyi sağlıyor.
 
@@ -23790,7 +23790,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ projelerinde standart geliştirme
+# Yapay zekâ projelerinde standart geliştirme
 
 OpenSpec, yapay zekâ kod asistanları için şartname odaklı geliştirme (spec-driven development) süreçlerini destekleyen bir TypeScript kütüphanesidir. Yazılım geliştirme aşamalarında teknik gereksinimlerin standartlaştırılmasını ve kod üretim süreçlerinin daha kontrollü ilerlemesini sağlar.
 
@@ -23884,7 +23884,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# araçlar için açık kaynaklı yapay zekâ
+# Araçlar için açık kaynaklı yapay zekâ
 
 Comma AI tarafından geliştirilen openpilot, robotik sistemler için tasarlanmış açık kaynaklı bir işletim sistemidir. Yazılım, 300'den fazla araç modelinde sürücü destek sistemini (driver assistance system) yükselterek otonom sürüş yetenekleri kazandırıyor.
 
@@ -23923,7 +23923,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile kariyerinizi yönetin
+# Yapay zekâ ile kariyerinizi yönetin
 
 Claude Code altyapısını kullanan career-ops, yapay zekâ destekli iş arama süreçlerini 14 farklı yetenek moduyla otomatikleştiriyor. Sistem, Go tabanlı bir kontrol paneli üzerinden toplu işlem yönetimi ve özgeçmiş oluşturma gibi işlevleri tek bir merkezde topluyor.
 
@@ -23986,7 +23986,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yatırım stratejileri için yapay zekâ ajanları
+# Yatırım stratejileri için yapay zekâ ajanları
 
 Yapay zekâ destekli yatırım fonu (AI hedge fund), finansal piyasa analizi ve varlık yönetimi süreçlerini otomatize etmek için otonom ajanlar kullanıyor. Python tabanlı bu proje, piyasa verilerini işleyerek yatırım stratejileri geliştiren bir yapay zekâ ekibi (AI team) modeli sunuyor.
 
@@ -24087,7 +24087,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ modellerinin gizli talimatları
+# Yapay zekâ modellerinin gizli talimatları
 
 GitHub üzerinde paylaşılan system_prompts_leaks deposu, Anthropic, OpenAI, Google ve xAI gibi büyük teknoloji şirketlerinin yapay zekâ modellerine ait sistem istemlerini (system prompts) bir araya getiriyor. Bu derleme, popüler dil modellerinin arka planda çalışan yapılandırma talimatlarını ve kısıtlamalarını incelemek isteyen geliştiriciler için merkezi bir kaynak sunuyor.
 
@@ -24211,7 +24211,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile otomatik borsa analizi
+# Yapay zekâ ile otomatik borsa analizi
 
 Büyük dil modelleri (large language models) ile desteklenen bu sistem, çok kaynaklı piyasa verilerini ve gerçek zamanlı haberleri analiz ederek yatırım kararları için görselleştirilmiş paneller sunuyor. Otomatik bildirimler ve ücretsiz zamanlanmış çalışma desteğiyle farklı borsalar için analiz süreçlerini standartlaştırıyor.
 
@@ -24371,7 +24371,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ modellerine bellek kazandırın
+# Yapay zekâ modellerine bellek kazandırın
 
 MemPalace, yapay zekâ modelleri için açık kaynaklı bir bellek sistemi (memory system) sunuyor. Sistem, geniş dil modellerinin (large language models) bağlamsal hafıza performansını ölçümlemek ve geliştirmek amacıyla optimize edilmiş araçlar içeriyor.
 
@@ -24425,7 +24425,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile yüz değiştirme
+# Görüntülerde Yüz Değiştirme Rehberi
 
 Python tabanlı Faceswap, derin sahte (deepfake) teknolojisini kullanarak görüntülerdeki yüzleri değiştirmeye olanak tanıyan açık kaynaklı bir yazılımdır. Kullanıcıların video ve görseller üzerinde yüz dönüştürme (face swapping) işlemleri gerçekleştirmesine imkân sağlar.
 
@@ -24558,7 +24558,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# açık kaynaklı proje yönetim platformu
+# Açık kaynaklı proje yönetim platformu
 
 Plane, görev yönetimi, sprint planlama ve dokümantasyon süreçlerini bir araya getiren açık kaynaklı bir proje yönetim platformudur. Jira ve Linear gibi kurumsal araçlara alternatif olarak geliştirilen bu platform, ekiplerin iş akışlarını merkezi bir arayüz üzerinden düzenlemesine olanak tanır.
 
@@ -24653,7 +24653,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Windows sisteminizi yapay zekâdan arındırın
+# Windows Sistemini Gereksizlerden Arındırın
 
 Win11Debloat, Windows 10 ve 11 işletim sistemlerinde önceden yüklenmiş uygulamaları kaldırmayı ve telemetri verilerini devre dışı bırakmayı sağlayan bir PowerShell betiğidir. Kullanıcıların sistemlerini özelleştirmelerine ve gereksiz bileşenlerden arındırarak sistem hafifletme (debloat) işlemi yapmalarına olanak tanır.
 
@@ -24773,7 +24773,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ tasarımlarınızı mükemmelleştirin
+# Yapay zekâ tasarımlarınızı mükemmelleştirin
 
 Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilmiş bir tasarım dili (design language) kütüphanesidir. Yazılım, üretken yapay zekâ (generative AI) araçlarının görsel tutarlılığını ve estetik kalitesini artırmak amacıyla standartlaştırılmış kurallar sunar.
 
@@ -24872,7 +24872,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# İş süreçlerinizi yapay zekâ ile yönetin
+# Açık kaynaklı kurumsal kaynak planlama
 
 Odoo, işletmelerin tüm operasyonel süreçlerini tek bir çatı altında yönetmelerini sağlayan açık kaynaklı bir kurumsal kaynak planlama (enterprise resource planning) platformudur. Python diliyle geliştirilen bu sistem, satıştan muhasebeye kadar geniş bir yelpazede modüler iş uygulamaları sunar.
 
@@ -24897,7 +24897,7 @@ Odoo kurulumuna başlamak için resmî Odoo dokümantasyon sayfasında yer alan 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Enterprise Resource Planning Artificial Intelligence
+Enterprise Resource Planning
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/odoo/
@@ -24906,7 +24906,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile uzun ses kayıtlarını çözümleme
+# Yapay zekâ ile uzun ses kayıtlarını çözümleme
 
 Microsoft tarafından yayınlanan VibeVoice, açık kaynaklı bir sesli yapay zekâ (voice AI) çerçevesi olarak geliştirildi. Sistem, Python tabanlı yapısıyla kullanıcıların kendi ses modellerini eğitmelerine ve uygulamalarına entegre etmelerine olanak tanıyor.
 
@@ -25101,7 +25101,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# İnternet sansürünü yapay zekâ ile aşın
+# Kotlin ile internet sansürünü aşın
 
 Fanqiang projesi, internet sansürünü aşmak için geliştirilen ve Kotlin diliyle yazılmış bir ağ geçidi (gateway) aracıdır. Kullanıcılara kısıtlı ağ kaynaklarına erişim sağlamak amacıyla tasarlanmış açık kaynaklı bir yazılımdır.
 
@@ -25130,7 +25130,7 @@ Fanqiang projesi, doğrudan bir yazılım kurulumundan ziyade kapsamlı bir rehb
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Gateway Artificial Intelligence
+Gateway
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fanqiang/
@@ -25177,7 +25177,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile otomatik güvenlik taraması
+# Yapay zekâ ile otomatik güvenlik taraması
 
 Strix, uygulamalardaki güvenlik açıklarını tespit etmek ve gidermek için tasarlanmış açık kaynaklı bir yapay zekâ tabanlı güvenlik aracıdır (AI security tool). Python diliyle geliştirilen bu sistem, yazılım geliştirme süreçlerinde zafiyet tarama ve düzeltme işlemlerini otomatize eder.
 
@@ -25232,7 +25232,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Bilgisayarlı görü projelerinizi yapay zekâ ile hızlandırın
+# Bilgisayarlı görü projeleri için araçlar
 
 Roboflow tarafından geliştirilen Supervision, bilgisayarlı görü (computer vision) projeleri için yeniden kullanılabilir yardımcı araçlar ve fonksiyonlar sunuyor. Python tabanlı bu kütüphane, nesne tespiti ve takibi gibi süreçlerdeki standart işlemleri kolaylaştırarak geliştirme iş akışlarını hızlandırıyor.
 
@@ -25348,7 +25348,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ için tarayıcı hata ayıklama
+# Yapay zekâ için tarayıcı hata ayıklama
 
 Chrome Geliştirici Araçları (Chrome DevTools) için geliştirilen bu sunucu, kodlama yapan yapay zekâ ajanlarının (coding agents) tarayıcı tabanlı hata ayıklama süreçlerini yönetmesini sağlıyor. Model Bağlam Protokolü (Model Context Protocol) üzerinden çalışan bu araç, ajanların web uygulamalarını doğrudan incelemesine ve hata giderme işlemlerini otomatize etmesine olanak tanıyor.
 
@@ -25400,7 +25400,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yerel ortamda çalışan yapay zekâ ses stüdyosu
+# Yerel ortamda çalışan yapay zekâ ses stüdyosu
 
 Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve içerik oluşturma işlemlerini gerçekleştirmesine olanak tanıyan açık kaynaklı bir yapay zekâ ses stüdyosudur. TypeScript diliyle geliştirilen bu platform, ses işleme süreçlerini yerel ortamda yönetmek için kapsamlı araçlar sunar.
 
@@ -25988,7 +25988,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanınıza pazarlama becerileri kazandırın
+# Yapay zekâ ajanınıza pazarlama becerileri kazandırın
 
 Claude Code ve yapay zekâ ajanları için geliştirilen marketingskills kütüphanesi, dönüşüm oranı optimizasyonu (CRO), metin yazarlığı, arama motoru optimizasyonu (SEO), analitik ve büyüme mühendisliği gibi alanlarda özelleşmiş yetenekler sunuyor. Bu araç seti, yapay zekâ modellerinin pazarlama odaklı görevleri daha profesyonel ve veriye dayalı şekilde yürütmesini sağlıyor.
 
@@ -26568,7 +26568,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# bilgisayarınızı yöneten yapay zekâ arayüzü
+# Bilgisayarınızı yöneten yapay zekâ arayüzü
 
 ByteDance tarafından geliştirilen UI-TARS, çok modlu yapay zekâ modellerini (multimodal AI models) masaüstü arayüzleriyle entegre eden açık kaynaklı bir ajan altyapısıdır. Bu sistem, görsel verileri işleyerek bilgisayar üzerindeki görevleri otonom şekilde gerçekleştiren ajanların (AI agents) oluşturulmasını sağlar.
 
@@ -26628,7 +26628,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Modern web uygulamaları için yapay zekâ destekli çerçeve
+# Kurumsal web uygulamaları için platform
 
 ASP.NET Core, Windows, macOS ve Linux üzerinde modern bulut tabanlı web uygulamaları geliştirmek için kullanılan platformlar arası bir .NET çerçevesidir (framework). C# diliyle geliştirilen bu yapı, yüksek performanslı ve ölçeklenebilir web hizmetleri oluşturmaya olanak tanır.
 
@@ -27097,7 +27097,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Konteyner ve Bulut Güvenliğinizi yapay zekâ ile Koruyun
+# Konteyner ve bulut güvenlik tarayıcısı
 
 Trivy, konteynerler, Kubernetes kümeleri ve bulut altyapılarındaki güvenlik açıklarını, hatalı yapılandırmaları ve gizli anahtarları (secrets) tespit eden kapsamlı bir güvenlik tarama aracıdır. Yazılım malzeme listesi (SBOM) oluşturma yeteneğiyle geliştirme süreçlerinde güvenlik denetimlerini otomatize eder.
 
@@ -27573,7 +27573,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Web projeleri için hızlı derleyici
+# Web projelerinizi Rust hızında derleyin
 
 Rust diliyle geliştirilen SWC, web projeleri için hızlı bir derleme (compilation) ve paketleme (bundling) platformu sunuyor. JavaScript ve TypeScript dosyalarını yüksek performansla işleyerek modern web geliştirme süreçlerini hızlandırıyor.
 
@@ -27668,7 +27668,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile otomatik diyagram oluşturma
+# Yapay zekâ ile otomatik diyagram oluşturma
 
 Next.js tabanlı bu uygulama, diyagram oluşturma aracı draw.io ile üretken yapay zekâ (generative AI) yeteneklerini birleştiriyor. Kullanıcılar, doğal dil komutları aracılığıyla görsel şemalar oluşturabiliyor ve mevcut diyagramlarını yapay zekâ desteğiyle düzenleyebiliyor.
 
@@ -27725,7 +27725,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanları için rehber
+# Yapay zekâ ajanları için rehber
 
 Yapay zekâ ajanları (AI agents) üzerine hazırlanan bu açık kaynaklı kitap, tasarım prensipleri ve mühendislik uygulamalarını kapsamlı bir şekilde ele alıyor. İçeriğinde teorik bilgilerin yanı sıra bölümlere ayrılmış uygulama kodları ve derlenmiş PDF dosyaları yer alıyor.
 
@@ -27984,7 +27984,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Web Sunucunuzu yapay zekâyla Hızlandırın
+# Yüksek performanslı web sunucusu ve ters vekil
 
 NGINX açık kaynak kod deposu, yüksek performanslı bir web sunucusu ve ters vekil sunucu (reverse proxy) olarak C diliyle geliştirilmeye devam ediyor. Yazılım, ağ trafiğini yönetmek ve içerik dağıtımını optimize etmek amacıyla geniş ölçekli altyapılarda standart bir çözüm sunuyor.
 
@@ -28044,7 +28044,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# donanımınıza uygun yapay zekâ modellerini bulun
+# Donanımınıza uygun yapay zekâ modellerini bulun
 
 Rust diliyle geliştirilen llmfit, yüzlerce büyük dil modelini (large language model) ve sağlayıcıyı tarayarak donanımınızla uyumlu olanları tek bir komutla tespit etmenizi sağlıyor. Araç, yerel sistem kaynaklarına en uygun modelleri bulma sürecini otomatikleştiriyor.
 
@@ -28160,7 +28160,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile web sitesi kopyalama
+# Yapay zekâ ile web sitesi kopyalama
 
 JCodesMore tarafından geliştirilen yapay zekâ web sitesi kopyalayıcı (AI website cloner), TypeScript tabanlı kodlama ajanlarını kullanarak tek komutla mevcut web sitelerinin kopyalanmasını sağlıyor. Bu araç, web tasarımı ve geliştirme süreçlerini otomatize etmek için yapay zekâ destekli kod oluşturma (AI-powered code generation) yönteminden yararlanıyor.
 
@@ -28442,7 +28442,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile kişisel alım satım
+# Yapay zekâ ile kişisel alım satım
 
 Vibe-Trading, finansal piyasalarda işlem yapmak amacıyla geliştirilmiş kişisel bir alım satım ajanı (trading agent) sunuyor. Proje, Python tabanlı yapısıyla kullanıcıların otomatik ticaret stratejilerini yönetmelerine olanak tanıyor.
 
@@ -28645,7 +28645,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ için akıllı bellek
+# Yapay zekâ için akıllı bellek
 
 Supermemory , yapay zekâ çağı için tasarlanmış, yüksek ölçeklenebilir bir bellek motoru ve API sunar. Uygulamalarınıza kalıcı ve sorgulanabilir bir hafıza katmanı eklemenizi sağlar.
 
@@ -28816,7 +28816,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ kod incelemesinde token tasarrufu
+# Yapay zekâ kod incelemesinde token tasarrufu
 
 Code-review-graph, kod tabanını analiz ederek yapay zekâ araçları için yerel odaklı bir kod zekası haritası (code intelligence graph) oluşturuyor. Bu yapı, büyük projelerde bağlam azaltma (context reduction) yöntemlerini kullanarak yapay zekâ destekli kod inceleme süreçlerini daha verimli hale getiriyor.
 
@@ -29000,7 +29000,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ sistemleri için kapsamlı rehber
+# Yapay zekâ sistemleri için kapsamlı rehber
 
 Harvard Üniversitesi tarafından paylaşılan bu kaynak, makine öğrenmesi sistemleri (machine learning systems) üzerine kapsamlı bir teknik rehber sunuyor. Donanım ve yazılım katmanlarını birleştiren bu çalışma, ölçeklenebilir yapay zekâ altyapılarının tasarım süreçlerini ele alıyor.
 
@@ -29038,7 +29038,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ destekli veritabanı yönetimi
+# Yapay zekâ destekli veritabanı yönetimi
 
 Chat2DB, yapay zekâ destekli bir veritabanı yönetim aracı ve SQL istemcisi (SQL client) olarak öne çıkıyor. Java ile geliştirilen bu platform, MySQL, PostgreSQL ve Oracle gibi çok sayıda veritabanı sistemini tek bir grafik kullanıcı arayüzü (GUI) üzerinden yönetme imkânı sağlıyor.
 
@@ -29127,7 +29127,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# zaman serileri için yapay zekâ tahminleme
+# Zaman serileri için yapay zekâ tahminleme
 
 Google Research tarafından geliştirilen Zaman Serisi Temel Modeli (Time Series Foundation Model), zaman serisi tahminleme işlemleri için önceden eğitilmiş bir yapı sunuyor. Model, farklı veri setleri üzerinde genel tahminleme yetenekleri sağlamak amacıyla tasarlanmıştır.
 
@@ -29184,7 +29184,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ için siber güvenlik becerileri
+# Yapay zekâ için siber güvenlik becerileri
 
 Yapay zekâ ajanları için geliştirilmiş 754 hazır siber güvenlik becerisi ; 26 farklı güvenlik alanını kapsar ve MITRE ATT&CK, NIST CSF, MITRE ATLAS gibi 5 temel çerçeveyle eşlenir. Claude Code, GitHub Copilot, Codex, Cursor ve Gemini CLI gibi 20'den fazla platformda çalışır. (İsmine rağmen Anthropic'in resmi projesi değildir, bağımsız bir topluluk çalışmasıdır.)
 
@@ -29240,7 +29240,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ için hızlı araç entegrasyonu
+# Yapay zekâ için hızlı araç entegrasyonu
 
 FastMCP, Model Bağlam Protokolü (Model Context Protocol - MCP) sunucuları ve istemcileri geliştirmeyi kolaylaştıran Python tabanlı bir çerçevedir (framework). Geliştiricilerin yapay zekâ modelleri ile yerel araçlar arasında hızlı entegrasyon kurmasını sağlar.
 
@@ -29504,7 +29504,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile ofis dosyalarını yönetin
+# Yapay zekâ ile ofis dosyalarını yönetin
 
 OfficeCLI, yapay zekâ ajanlarının Word, Excel ve PowerPoint dosyalarını doğrudan okumasına, düzenlemesine ve otomatize etmesine olanak tanıyan açık kaynaklı bir ofis paketi sunuyor. C# ile geliştirilen bu araç, herhangi bir ofis yazılımı kurulumuna ihtiyaç duymadan tek bir ikili dosya (binary) üzerinden işlem yapılmasına imkân veriyor.
 
@@ -29752,7 +29752,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile gelir yönetimi
+# Yapay zekâ ile gelir yönetimi
 
 AiToEarn, kullanıcıların yapay zekâ destekli otomasyonlar aracılığıyla gelir elde etme süreçlerini yönetmelerini sağlayan bir TypeScript tabanlı platformdur. Proje, otonom görev yürütme ve yapay zekâ tabanlı kazanç modellerini (AI-driven earning models) bir araya getirerek geliştiricilere açık bir altyapı sunuyor.
 
@@ -29814,7 +29814,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ Destekli Mühendislik Süreçleri
+# Yapay zekâ Destekli Mühendislik Süreçleri
 
 Compound Engineering ; Claude Code, Codex ve Cursor için geliştirilmiş resmi bir eklentidir. Temel felsefesi nettir: her mühendislik işi bir sonrakini zorlaştırmamalı, aksine kolaylaştırmalıdır. Bu amaçla, geliştirme sürecini iyileştiren yapay zekâ becerileri ve ajanları sunar.
 
@@ -29918,7 +29918,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanlarına standart yetenekler kazandırın
+# Yapay zekâ ajanlarına standart yetenekler kazandırın
 
 Agent Skills, yapay zekâ ajanlarının görevlerini yerine getirirken kullandığı yetenekleri (skills) standartlaştıran bir teknik şartname ve dokümantasyon projesidir. Python tabanlı bu yapı, farklı ajan sistemleri arasında yetenek paylaşımını ve birlikte çalışabilirliği (interoperability) kolaylaştırmayı amaçlar.
 
@@ -30155,7 +30155,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanlarıyla ortak çalışma alanı
+# Merkeziyetsiz kovan zihni iletişim platformu
 
 Block tarafından Rust diliyle geliştirilen Buzz, merkeziyetsiz bir kovan zihni iletişim platformu (hive mind communication platform) olarak tasarlanmıştır. Dağıtık ağ yapısı üzerinden kolektif veri paylaşımını ve eş zamanlı etkileşimi destekleyen bir altyapı sunar.
 
@@ -30428,7 +30428,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ tasarımlarına özgünlük kazandırın
+# Yapay zekâ tasarımlarına özgünlük kazandırın
 
 Hallmark, yapay zekâ tarafından üretilen standart içeriklerin (AI slop) tasarım üzerindeki etkisini azaltmak amacıyla geliştirilen bir stil dosyasıdır. Claude Code, Cursor ve Codex gibi araçlarda kullanılan arayüzlerin özgün ve insani bir estetik kazanmasını sağlar.
 
@@ -30617,7 +30617,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ iş akışlarını paylaşın
+# Yapay zekâ iş akışlarını paylaşın
 
 Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir yazılım projesidir. TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerini otomatize etmeyi hedefleyen yapay zekâ destekli bir çalışma ortamı sunar.
 
@@ -30732,7 +30732,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# web tabanlı 3 boyutlu mimari düzenleyici
+# Web tabanlı 3 boyutlu mimari düzenleyici
 
 TypeScript tabanlı pascalorg/editor, kullanıcıların tarayıcı üzerinden üç boyutlu mimari projeler oluşturmasına ve bu projeleri paylaşmasına olanak tanıyor. Yazılım, mimari tasarım süreçlerini web tabanlı bir arayüzle erişilebilir kılmayı hedefliyor.
 
@@ -31018,7 +31018,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile otomatik video düzenleme
+# Yapay zekâ ile otomatik video düzenleme
 
 Video-use kütüphanesi, kodlama ajanlarının (coding agents) video düzenleme süreçlerini otomatize etmesine olanak tanıyor. Python tabanlı bu araç, görsel düzenleme görevlerini yazılım komutları aracılığıyla yerine getirerek iş akışlarını hızlandırıyor.
 
@@ -31273,7 +31273,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Markdown notlarınızı yapay zekâ ile düzenleyin
+# Markdown bilgi tabanı masaüstü uygulaması
 
 Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilen bir masaüstü uygulamasıdır. TypeScript ile yazılan bu araç, kişisel dokümantasyon ve not sistemlerini düzenli bir yapıda tutmayı kolaylaştırır.
 
@@ -31389,7 +31389,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ modelleri için heterojen hızlandırma
+# Yapay zekâ modelleri için heterojen hızlandırma
 
 Ktransformers, büyük dil modellerinin (large language models) çıkarım ve ince ayar (fine-tuning) süreçlerinde heterojen donanım optimizasyonlarını destekleyen esnek bir çerçeve sunuyor. Bu yapı, farklı donanım kaynaklarını verimli kullanarak model performansını artırmayı hedefliyor.
 
@@ -31648,7 +31648,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanları için çalışma alanı yönetimi
+# Yapay zekâ ajanları için çalışma alanı yönetimi
 
 Gas Town, çoklu ajan çalışma alanı yöneticisi (multi-agent workspace manager) olarak farklı yapay zekâ ajanlarının bir arada çalışmasını sağlayan bir altyapı sunuyor. Go diliyle geliştirilen bu araç, karmaşık iş akışlarında ajanlar arası koordinasyonu ve kaynak yönetimini merkezileştiriyor.
 
@@ -31856,7 +31856,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile otomatik iş zekâsı
+# Yapay zekâ ile otomatik iş zekâsı
 
 Canner tarafından geliştirilen WrenAI, doğal dili veritabanı sorgularına (text-to-SQL) dönüştürerek verileri otomatik olarak panellere ve grafiklere aktaran açık kaynaklı bir üretken iş zekası (generative BI) aracıdır. Platform, yirmiden fazla veri kaynağını destekleyen yönetilebilir bir bağlam katmanı üzerinden yapay zekâ ajanları için güvenilir veri analitiği süreçleri sunar.
 
@@ -31909,7 +31909,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanlarınızı webden yönetin
+# Yapay zekâ ajanlarınızı webden yönetin
 
 Hermes WebUI , Hermes AI ajanlarını web tarayıcısı veya mobil cihazlar üzerinden yönetmenizi sağlayan bir arayüzdür. Ajan etkileşimlerini tek bir merkezden takip edip kontrol etmenize olanak tanır.
 
@@ -32150,7 +32150,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ modellerini tek arayüzde yönetin
+# Yapay zekâ modellerini tek arayüzde yönetin
 
 Andrew Ng tarafından geliştirilen aisuite, farklı üretken yapay zekâ (generative AI) sağlayıcılarını tek bir arayüz üzerinden yönetmeyi sağlayan bir Python kütüphanesidir. Geliştiricilerin çeşitli model servisleri arasında kod değişikliği yapmadan geçiş yapmasına olanak tanır.
 
@@ -32263,7 +32263,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ geliştirme için temel kaynaklar
+# Yapay zekâ geliştirme için temel kaynaklar
 
 Awesome-artificial-intelligence, yapay zekâ (artificial intelligence) alanındaki eğitimleri, kitapları, video dersleri ve akademik makaleleri bir araya getiren kapsamlı bir kaynak listesidir. Bu derleme, öğrenme sürecindeki kullanıcılar için disipline dayalı yapılandırılmış bir içerik havuzu sunar.
 
@@ -32301,7 +32301,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ çıktılarını yapılandırın
+# Yapay zekâ çıktılarını yapılandırın
 
 Outlines kütüphanesi, büyük dil modellerinden gelen yanıtları önceden tanımlanmış şemalara göre yapılandırılmış çıktılar (structured outputs) halinde sunulmasını sağlıyor. Geliştiriciler, Python tabanlı bu araçla model çıktılarını düzenli ifadeler (regular expressions) veya bağlamsız dil bilgisi (context-free grammars) kurallarıyla kısıtlayarak veri bütünlüğünü koruyor.
 
@@ -32362,7 +32362,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanlarını Google ile güçlendirin
+# Yapay zekâ ajanlarını Google ile güçlendirin
 
 Google tarafından geliştirilen yetenekler (skills) kütüphanesi, yapay zekâ ajanlarının Google ürünleri ve teknolojileriyle etkileşim kurmasını sağlayan Python tabanlı araçlar sunuyor. Bu kaynak, ajanların belirli görevleri yerine getirmesi için gerekli işlevselliği standartlaştırılmış bir yapıda sağlıyor.
 
@@ -32408,7 +32408,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanları için katmanlı bellek
+# Yapay zekâ ajanları için katmanlı bellek
 
 TencentDB Agent Memory, yapay zekâ ajanları için dört aşamalı bir süreçle tamamen yerel uzun süreli bellek (long-term memory) çözümü sunuyor. Dış kaynaklı uygulama programlama arayüzlerine (API) ihtiyaç duymadan veri saklama ve geri çağırma işlemlerini gerçekleştiriyor.
 
@@ -32485,7 +32485,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Uygulama içi hızlı yapay zekâ veritabanı
+# Hızlı uygulama içi vektör veritabanı
 
 Alibaba tarafından geliştirilen zvec, C++ diliyle yazılmış hafif ve yüksek hızlı bir süreç içi vektör veritabanı (in-process vector database) çözümüdür. Uygulamaların vektör verilerini doğrudan bellek üzerinde işlemesine olanak tanıyarak sistem performansını artırmayı hedefler.
 
@@ -32588,7 +32588,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile değer yatırımı araştırması
+# Yapay zekâ ile değer yatırımı araştırması
 
 AI-berkshire, Claude Code altyapısını kullanarak Warren Buffett ve Charlie Munger gibi yatırımcıların metodolojilerini uygulayan bir değer yatırımı araştırma çerçevesidir (research framework). Sistem, çoklu yapay zekâ ajanı (multi-agent) yapısıyla finansal verileri analiz ederek karşıt görüşlü incelemeler yürütmektedir.
 
@@ -32643,7 +32643,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ metinlerini doğallaştırın
+# Yapay zekâ metinlerini doğallaştırın
 
 Yapay zekâ ile üretilen metinler genellikle tahmin edilebilir ifadeler, ritimler ve yapılar içerir. Stop Slop , Claude veya herhangi bir LLM'e bu kalıpları yakalayıp temizlemeyi öğreten bir beceri dosyasıdır. Bu sayede metinleriniz çok daha doğal ve insani bir tona kavuşur.
 
@@ -32694,7 +32694,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# kurumsal varlık ve lisans yönetimi
+# Kurumsal varlık ve lisans yönetimi
 
 Snipe-IT, bilişim teknolojileri varlıklarını ve yazılım lisanslarını takip etmeye yarayan açık kaynaklı bir yönetim sistemidir. PHP diliyle geliştirilen bu platform, kurumların envanter kayıtlarını ve kullanım döngülerini dijital ortamda düzenlemesine olanak tanır.
 
@@ -32730,7 +32730,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Yüksek performanslı yapay zekâ vektör dizini
+# Rust ile yüksek performanslı vektör dizini
 
 TurboQuant altyapısı üzerine inşa edilen turbovec, Rust diliyle geliştirilmiş yüksek performanslı bir vektör dizini (vector index) aracıdır. Python bağlamaları (bindings) sayesinde geliştiricilerin vektör tabanlı arama işlemlerini hızlı ve verimli bir şekilde gerçekleştirmesine olanak tanır.
 
@@ -32881,7 +32881,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Kendi sunucunuzda kişisel yapay zekâ destekli VPN
+# Kendi sunucunuzda kişisel VPN istemcisi
 
 Amnezia VPN istemcisi, kullanıcıların kendi sunucuları üzerinden sansürsüz internet erişimi sağlamasına olanak tanıyan açık kaynaklı bir ağ aracıdır. C++ diliyle geliştirilen bu yazılım, masaüstü ve mobil platformlarda kişisel gizliliği koruyan özelleştirilebilir tünelleme protokolleri sunar.
 
@@ -32935,7 +32935,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ yeteneklerini güvenli kılın
+# Yapay zekâ yeteneklerini güvenli kılın
 
 NVIDIA tarafından geliştirilen SkillSpector, yapay zekâ ajanlarına ait yetenek paketlerindeki (skills) güvenlik açıklarını ve kötü niyetli kalıpları tespit eden bir tarama aracıdır. Python tabanlı bu yazılım, ajan tabanlı sistemlerin geliştirilme sürecinde karşılaşılan güvenlik risklerini analiz etmeyi hedefler.
 
@@ -33310,7 +33310,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile video analizi
+# Yapay zekâ ile video analizi
 
 Claude-video, Claude modeline video içeriğini analiz etme yeteneği kazandıran bir Python aracıdır. Yazılım, videoları indirip karelere ayırarak ve metne dönüştürerek (transcription) görsel veriyi yapay zekâ modelinin işleyebileceği formata getirir.
 
@@ -33364,7 +33364,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# macOS için yapay zekâlı video düzenleyici
+# MacOS için yapay zekâlı video düzenleyici
 
 Palmier Pro, macOS işletim sistemi üzerinde çalışan ve yapay zekâ destekli düzenleme araçları sunan bir video düzenleyici (video editor) olarak geliştirildi. Swift diliyle yazılan bu uygulama, yapay zekâ tabanlı iş akışlarını yerel sistem performansı ile birleştirmeyi amaçlıyor.
 
@@ -33405,7 +33405,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile unity yönetimi
+# Yapay zekâ ile unity yönetimi
 
 Unity MCP, büyük dil modelleri (large language models) ile Unity düzenleyicisi arasında bir köprü kurarak varlık yönetimi, sahne kontrolü ve kod düzenleme süreçlerinin otomatize edilmesini sağlıyor. Model Sunucu Protokolü (Model Context Protocol) aracılığıyla çalışan bu araç, yapay zekâ asistanlarının oyun geliştirme iş akışlarına doğrudan müdahale etmesine imkân tanıyor.
 
@@ -33836,7 +33836,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Hepsi bir arada yapay zekâ ses aracı
+# Metinden konuşmaya ve ses kopyalama
 
 Voice-pro, metinden konuşmaya dönüştürme (TTS) ve sıfır örnekli ses kopyalama (zero-shot voice cloning) araçlarını bir araya getiren açık kaynaklı bir arayüzdür. Kullanıcılar, web tabanlı arayüzü üzerinden ses ayrıştırma, çok dilli çeviri ve YouTube içeriklerini işleme gibi işlemleri tek bir platformda gerçekleştirebilir.
 
@@ -33882,7 +33882,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# anahtar tabanlı esnek ağ bağlantıları
+# Anahtar tabanlı esnek ağ bağlantıları
 
 Iroh, IP adresleri yerine anahtar tabanlı (key-based) adresleme kullanarak ağ bağlantılarını daha esnek hale getiren modüler bir ağ yığınıdır (networking stack). Rust diliyle geliştirilen bu araç, ağ kesintilerine karşı dayanıklı ve doğrudan veri aktarımı sağlayan bir altyapı sunar.
 
@@ -34512,7 +34512,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ modellerinde KV önbelleği yönetimi
+# Yapay zekâ modellerinde KV önbelleği yönetimi
 
 LMCache, büyük dil modelleri (large language models) için anahtar-değer önbelleği (KV cache) yönetimini optimize ederek çıkarım hızını artıran bir katman sunuyor. Bellek kullanımını verimli hale getiren bu sistem, aynı bağlamı kullanan sorgularda hesaplama yükünü azaltmayı hedefliyor.
 
@@ -34594,7 +34594,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanları için güvenli çalışma ortamı
+# Yapay zekâ ajanları için güvenli çalışma ortamı
 
 TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ ajanları (AI agents) için anlık, eş zamanlı ve güvenli bir çalışma ortamı (sandbox) sunuyor. Hafif yapısıyla dikkat çeken bu araç, ajan tabanlı sistemlerin yalıtılmış bir alanda çalışmasını sağlıyor.
 
@@ -34884,7 +34884,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# SEO verilerini yapay zekâ ile yönetin
+# Açık kaynaklı SEO veri ve analiz platformu
 
 Open SEO, Semrush ve Ahrefs gibi ücretli araçlara açık kaynaklı bir alternatif sunuyor. Arama motoru optimizasyonu (SEO) verilerini analiz etmek için geliştirilen bu yazılım, TypeScript tabanlı altyapısıyla süreçleri şeffaflaştırmayı hedefliyor.
 
@@ -34937,7 +34937,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Kariyer ve Tercih Rehberiniz yapay zekâ
+# Kariyer ve üniversite tercihi rehberi
 
 Zhangxuefeng-skill, üniversite sınavı tercihleri, lisansüstü eğitim ve kariyer planlama süreçleri için yapılandırılmış bir bilişsel işletim sistemi (cognitive operating system) sunuyor. Nuwa.skill altyapısıyla oluşturulan bu proje, karmaşık karar verme süreçlerini pratik bir düşünce çerçevesi (thought framework) ile standartlaştırıyor.
 
@@ -35191,7 +35191,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# macOS için gizlilik odaklı sesli dikte
+# MacOS için gizlilik odaklı sesli dikte
 
 FluidVoice, macOS işletim sistemi üzerinde tamamen çevrim dışı çalışan hızlı bir sesli dikte (voice to text) uygulamasıdır. Swift diliyle geliştirilen bu araç, verileri yerel olarak işleyerek gizlilik odaklı bir ses dönüştürme deneyimi sunar.
 
@@ -35288,7 +35288,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile bilgisayarınızı yönetin
+# Yapay zekâ ile bilgisayarınızı yönetin
 
 DesktopCommanderMCP, Claude için geliştirilen ve yapay zekâ modeline uçbirim denetimi (terminal control), dosya sistemi araması ve fark tabanlı dosya düzenleme (diff file editing) yetenekleri kazandıran bir Model Bağlantı Protokolü (Model Context Protocol) sunucusudur. TypeScript ile yazılan bu araç, yapay zekânın yerel dosya sistemleri üzerinde doğrudan işlem yapabilmesini sağlar.
 
@@ -35340,7 +35340,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Wi-Fi ile yapay zekâ destekli hareket algılama
+# Wi-Fi sinyalleri ile hareket algılama
 
 ESPectre, Wi-Fi kanal durum bilgisi (CSI) analizi üzerinden hareket algılama gerçekleştiren bir sistemdir. Ev otomasyon platformu Ev Asistanı (Home Assistant) ile entegre çalışarak kablosuz ağ sinyallerini izleme yeteneği sunar.
 
@@ -35369,9 +35369,6 @@ ESPectre'yi kullanmaya başlamak için projeye ait resmî SETUP.md dokümanını
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
-## İlgili sözlük terimleri
-Artificial Intelligence
-
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/espectre/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
@@ -35379,7 +35376,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanları için eş zamanlı tarayıcı
+# Yapay zekâ ajanları için eş zamanlı tarayıcı
 
 Ego-lite, kullanıcılar ve yapay zekâ ajanları (AI agents) için eş zamanlı çalışma imkânı sunan bir tarayıcıdır. JavaScript tabanlı bu araç, insan ve makine etkileşimini aynı tarayıcı ortamında paralel şekilde yürütmeyi hedefler.
 
@@ -35712,7 +35709,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile akıllı veri getirme
+# Yapay zekâ ile akıllı veri getirme
 
 Production-agentic-rag-course, karmaşık veri kaynaklarından bilgi getirme süreçlerini otomatize eden ajan tabanlı getirme destekli üretim (agentic RAG) sistemlerinin geliştirilmesine yönelik uygulamalı bir eğitim sunuyor. Python dilini temel alan bu kaynak, ölçeklenebilir ve üretim seviyesinde yapay zekâ uygulamaları oluşturmak için gerekli teknik mimariyi öğretiyor.
 
@@ -35787,7 +35784,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# üç boyutlu ağları optimize edin
+# Üç boyutlu ağları optimize edin
 
 Meshoptimizer kütüphanesi, üç boyutlu ağ (mesh) verilerini optimize ederek dosya boyutlarını küçültüyor ve işleme (rendering) performansını artırıyor. C++ diliyle geliştirilen bu araç, grafik uygulamalarında bellek kullanımını iyileştirmek için geometrik verileri düzenliyor.
 
@@ -35969,7 +35966,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanları için tasarım yetenekleri
+# Yapay zekâ ajanları için tasarım yetenekleri
 
 Google Labs tarafından geliştirilen Stitch Skills, Stitch MCP sunucusuyla uyumlu çalışmak üzere tasarlanmış bir ajan yetenekleri (agent skills) kütüphanesidir. Açık standartları takip eden bu kütüphane, Gemini CLI ve Cursor gibi kodlama ajanları (coding agents) için iş akışlarını standartlaştırmayı amaçlar.
 
@@ -36031,7 +36028,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ çıktılarınızı analiz edin
+# Yapay zekâ çıktılarınızı analiz edin
 
 Headroom, büyük dil modellerine (LLM) gönderilen günlük dosyalarını, araç çıktılarını ve bağlamsal veri parçalarını (RAG chunks) sıkıştırarak jeton (token) kullanımını %60 ile %95 oranında azaltıyor. Python tabanlı bu araç, kütüphane, vekil sunucu (proxy) ve Model Bağlam Protokolü (MCP) sunucusu olarak farklı entegrasyon seçenekleri sunuyor.
 
@@ -36127,7 +36124,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanları için TypeScript çatısı
+# Yapay zekâ ajanları için TypeScript çatısı
 
 Astro ekibi tarafından geliştirilen Flue, TypeScript tabanlı bir kum havuzu ajan çatısı (sandbox agent framework) olarak öne çıkıyor. Bu yapı, geliştiricilerin güvenli ve izole edilmiş ortamlarda yapay zekâ ajanları oluşturmasına olanak tanıyor.
 
@@ -36189,7 +36186,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yerel sistemde yapay zekâ ile video üretimi
+# Yerel sistemde yapay zekâ ile video üretimi
 
 Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python çıkarım (inference) ve düşük dereceli uyarlama (low-rank adaptation, LoRA) eğitim paketi sunuyor. Bu araç seti, kullanıcıların LTX-2 modellerini kendi verileriyle eğitmesine ve model çıktılarını yerel sistemlerde çalıştırmasına olanak tanıyor.
 
@@ -36247,7 +36244,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile siber tehditleri görselleştirin
+# Çizge tabanlı siber tehdit görselleştirme
 
 Flowsint, siber güvenlik analistleri ve araştırmacılar için görsel, esnek ve genişletilebilir çizge tabanlı inceleme (graph-based investigation) platformu sunuyor. TypeScript ile geliştirilen bu araç, karmaşık veri setlerinin görselleştirilerek analiz edilmesini kolaylaştırıyor.
 
@@ -36429,7 +36426,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Kendi sunucunuzda modern yapay zekâ destekli CMS
+# Kendi sunucunuzda modern görsel CMS
 
 Instatic, TypeScript tabanlı, kendi kendine barındırılan (self-hosted) modern bir görsel içerik yönetim sistemi (CMS) olarak sunuluyor. Kullanıcıların hızlı kurulum süreciyle içerik yönetimi arayüzünü kendi sunucularında çalıştırmasına olanak tanıyor.
 
@@ -36643,18 +36640,17 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Ekip Çalışması ve Bütçe Yönetimi
+# Kendi sunucunuzda yapay zekâ destekli seyahat planlayıcı
 
 TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılan (self-hosted) bir seyahat planlama uygulamasıdır. Aşamalı web uygulaması (PWA) desteği ve tek oturum açma (SSO) entegrasyonu ile kullanıcıların seyahat süreçlerini dijital ortamda organize etmelerine olanak tanır.
 
 - ★ 7.040
-- TypeScript
 - GitHub Trending · 2026-06-26
 
 ## Ne kazandırır?
-- Sürükle bırak yöntemiyle etkileşimli seyahat planlama
-- Bütçe yönetimi ve masraf paylaşımı
-- Yapay zekâ destekli otomatik rota ve liste oluşturma
+- Sürükle bırak yöntemiyle günlük seyahat rotaları ve planları oluşturma
+- Grup harcamalarını takip etme ve kişi başı bölüştürme
+- Yapay zekâ entegrasyonu ile otomatik seyahat ve bütçe yönetimi
 
 ## Kurulum
 
@@ -36668,9 +36664,9 @@ ENCRYPTION_KEY=$(openssl rand -hex 32) docker run -d -p 3000:3000 \
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Sen benim kişisel seyahat asistanımsın. TREK uygulamam üzerinden bir sonraki seyahatim için 3 günlük bir plan oluşturmanı, bütçemi optimize etmeni ve ihtiyaç listemi hazırlamanı istiyorum. Lütfen gidilecek yerlerin konumlarını, tahmini harcamaları ve günlük aktiviteleri içeren kapsamlı bir program hazırla.
+Sen bir seyahat asistanısın. TREK üzerindeki MCP (Model Context Protocol) araçlarını kullanarak benim için 3 günlük bir Paris seyahat planı hazırla, bütçemi günlük harcama limitlerine göre ayarla ve yanıma almam gerekenler için bir paketleme listesi oluştur.
 
-- **Kimin için:** Seyahatlerini dijital ortamda organize etmek, masraflarını takip etmek ve kendi sunucusunda veri gizliliğine önem vererek yapay zekâ desteği almak isteyen gezginler içindir. 
+- **Kimin için:** Seyahatlerini dijital ortamda organize etmek, harcamalarını takip etmek ve kendi verisi üzerinde tam kontrol sahibi olmak isteyen gezginler içindir. 
 - **Lisans:** AGPL-3.0 
 
 ## Bağlantılar
@@ -36679,7 +36675,7 @@ Sen benim kişisel seyahat asistanımsın. TREK uygulamam üzerinden bir sonraki
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-PWA SSO Self-hosted Artificial Intelligence
+PWA SSO Self-hosted Model Context Protocol Model Context Protocol MCP
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/trek/
@@ -36754,7 +36750,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile sansürleri aşın
+# DNS tünelleme ile sansür engellerini aşın
 
 MasterDnsVPN, sansür engellerini aşmak için geliştirilen ve düşük yükle çalışan bir alan adı sistemi tünelleme (DNS tunneling) sanal özel ağ (VPN) çözümüdür. Go diliyle yazılan araç, veri iletiminde yüksek paket kaybı kararlılığı ve çözümleyici yük dengeleme (resolver load balancing) özellikleri sunar.
 
@@ -36811,7 +36807,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# uzun vadeli görevler için yapay zekâ
+# Uzun vadeli görevler için yapay zekâ
 
 GLM-5, yazılım geliştirme süreçlerini sezgisel kodlamadan (vibe coding) yapılandırılmış ajan tabanlı mühendisliğe (agentic engineering) taşımayı amaçlayan bir çerçeve sunuyor. Bu sistem, karmaşık görevleri otonom bir şekilde yönetebilen yapay zekâ ajanları (AI agents) aracılığıyla yazılım geliştirme iş akışlarını standartlaştırıyor.
 
@@ -36938,7 +36934,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanınıza yerel yetenekler kazandırın
+# Yapay zekâ ajanınıza yerel yetenekler kazandırın
 
 NomaDamas/k-skill, yapay zekâ ajanlarına (AI agents) kültürel bağlamda yerel yetenekler kazandırmak için tasarlanmış bir kütüphane. Ajanların kullanıcılarla daha doğal ve kültürel kodlara uygun etkileşim kurmasını sağlayan özelleştirilmiş beceri setleri (skill sets) sunuyor.
 
@@ -37470,7 +37466,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yazılım mimarinizi canlı diyagramlarla görselleştirin
+# Yazılım mimarinizi canlı diyagramlarla görselleştirin
 
 Likec4, yazılım mimarisini doğrudan kaynak kod üzerinden görselleştiren ve canlı diyagramlar oluşturulmasını sağlayan bir araçtır. Kod tabanıyla eş zamanlı güncellenen mimari şemalar (diagrams) aracılığıyla teknik dokümantasyonun sürekliliğini hedefler.
 
@@ -37552,7 +37548,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# donanım analizi için çok protokollü araç
+# Donanım analizi için çok protokollü araç
 
 ESP32-Bit-Pirate, web tabanlı bir komut satırı arayüzü (CLI) üzerinden çok sayıda haberleşme protokolünü destekleyen bir donanım hackleme aracıdır. C++ diliyle geliştirilen bu sistem, farklı protokolleri tek bir platform üzerinden yöneterek donanım analizi süreçlerini kolaylaştırır.
 
@@ -37653,7 +37649,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile güncel verilere erişin
+# Yapay zekâ ile güncel verilere erişin
 
 OpenAI eklentileri (plugins), dil modellerinin güncel verilere erişmesini ve üçüncü taraf uygulamalarla etkileşime girmesini sağlıyor. Bu yapı, yapay zekânın dış araçları kullanarak karmaşık görevleri yerine getirmesine olanak tanıyor.
 
@@ -37818,7 +37814,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanları için uygulama çerçevesi
+# Yapay zekâ ajanları için uygulama çerçevesi
 
 BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications) oluşturmaya odaklanan bir TypeScript çerçevesidir (framework). Geliştiricilerin ajan tabanlı iş akışlarını doğrudan uygulama mimarisine entegre etmelerini sağlar.
 
@@ -38237,7 +38233,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile çok yönlü karar verme
+# Yapay zekâ ile çok yönlü karar verme
 
 Council of High Intelligence, farklı büyük dil modellerini (large language models) kullanarak çeşitli uzman kişilikler üzerinden yapılandırılmış karar verme süreçleri yürütüyor. Sistem, karmaşık problemleri çok turlu tartışmalarla analiz ederek farklı yapay zekâ modellerinin bakış açılarını birleştiriyor.
 
@@ -38618,7 +38614,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# açık kaynak profesyonel yapay zekâ video düzenleyici
+# Açık kaynaklı masaüstü video düzenleyici
 
 Clypra, Tauri, React ve TypeScript kullanılarak geliştirilen açık kaynak kodlu bir video düzenleyici (video editor) uygulamasıdır. Yazılım, ücretli video düzenleme araçlarında bulunan gelişmiş özellikleri ücretsiz bir alternatif olarak sunmayı hedefler.
 
@@ -38665,7 +38661,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Dijital müzik kütüphanenizi tek merkezden yönetin
+# Açık kaynaklı dijital müzik sunucusu
 
 Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu yazılımı, sürekli çalışan cihazlar üzerinde merkezi bir müzik yönetim sistemi oluşturulmasını sağlar.
 
@@ -38712,7 +38708,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile asenkron görev yönetimi
+# Yapay zekâ ile asenkron görev yönetimi
 
 pi-subagents , Pi platformu üzerinde asenkron alt-ajan delegasyonu süreçlerini yönetmek için geliştirilmiş bir TypeScript kütüphanesidir. Karmaşık iş yüklerini alt-ajanlara dağıtmayı kolaylaştırır.
 
@@ -38775,7 +38771,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# PostgreSQL ile yapay zekâ süreçlerini yönetin
+# PostgreSQL üzerinde dayanıklı süreç yönetimi
 
 Microsoft tarafından geliştirilen pg_durable, PostgreSQL üzerinde dayanıklı yürütme (durable execution) süreçlerini yönetmek için tasarlanmış bir kütüphanedir. Rust diliyle yazılan araç, karmaşık iş akışlarını veritabanı içerisinde hata toleranslı ve kalıcı bir şekilde çalıştırmayı sağlar.
 
@@ -38831,7 +38827,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile otomatik sızma testi
+# Yapay zekâ ile otomatik sızma testi
 
 VulnClaw, yapay zekâ ajanları (AI agents) ve model bağlam protokolü (Model Context Protocol) araç zincirini kullanarak sızma testi süreçlerini otomatize ediyor. Araç, doğal dil komutlarını işleyerek bilgi toplama, zafiyet tarama, istismar ve raporlama adımlarını uçtan uca gerçekleştiriyor.
 
@@ -39134,7 +39130,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanları için AWS araç seti
+# Yapay zekâ ajanları için AWS araç seti
 
 AWS, yapay zekâ ajanlarının bulut altyapısıyla etkileşimini kolaylaştırmak için Model Bağlantı Protokolü (Model Context Protocol) sunucuları, yetenekler (skills) ve eklentiler içeren bir araç seti yayımladı. Bu geliştirme, ajanların AWS servisleri üzerinde doğrudan işlem yapabilmesini sağlayan standartlaştırılmış bir yapı sunuyor.
 
@@ -39338,7 +39334,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yerel borsa verisi ve analiz motoru
+# Yerel borsa verisi ve analiz motoru
 
 Free-stockdb, A hisse senetleri ve borsa yatırım fonları (ETF) için günlük ve dakikalık verileri yöneten yerel bir nicel analiz motorudur. Sistem, verilerin artımlı senkronizasyonu, yerel önbellekleme, fiyat düzeltme, geriye dönük test (backtesting) ve teknik gösterge hesaplamaları gibi işlevleri bir arada sunar.
 
@@ -39377,7 +39373,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yerel sistemlerde hızlı konuşma dönüştürme
+# Yerel sistemlerde hızlı konuşma dönüştürme
 
 Transcribe.cpp, 16'dan fazla model ailesini destekleyen ve C++ diliyle geliştirilen bir konuşmayı metne dönüştürme (speech-to-text) çıkarım (inference) kütüphanesidir. Ggml altyapısını kullanan bu araç, farklı ses işleme modellerinin yerel sistemlerde verimli bir şekilde çalıştırılmasını sağlar.
 
@@ -39468,7 +39464,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanlarınızı hatasız yönetin
+# Yapay zekâ ajanlarınızı hatasız yönetin
 
 Babysitter , yapay zekâ ajanlarından oluşan iş gücünün karmaşık görevleri hatasız ve halüsinasyonsuz bir şekilde yürütebilmesi için deterministik bir denetim mekanizması sunar.
 
@@ -39663,7 +39659,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ajanları için merkezi bellek
+# Yapay zekâ ajanları için merkezi bellek
 
 Activeloop tarafından geliştirilen Hivemind, tüm yapay zekâ ajanları için merkezi bir bellek ve koordinasyon katmanı (centralized memory layer) sunuyor. TypeScript tabanlı bu yapı, farklı ajanların verileri paylaşmasını ve ortak bir zekâ havuzu üzerinden iletişim kurmasını sağlıyor.
 
@@ -39753,7 +39749,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ modellerini otonom test edin
+# Yapay zekâ modellerini otonom test edin
 
 SIA, yapay zekâ modellerinin ve ajanların belirli kıyaslama görevlerindeki (benchmark tasks) performanslarını otonom şekilde artırmak için geliştirilen bir öz-iyileştiren yapay zekâ (self-improving AI) çerçevesidir. Python tabanlı bu sistem, yapay zekâ sistemlerinin kendi çıktılarını analiz ederek süreçlerini optimize etmesini sağlar.
 
@@ -40106,7 +40102,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ destekli japonca giriş sistemi
+# Yapay zekâ destekli japonca giriş sistemi
 
 Rust diliyle geliştirilen Karukan, Linux ve macOS işletim sistemleri için sinirsel kana-kanji dönüştürme motoru (neural kana-kanji conversion engine) kullanan bir Japonca giriş yöntemi sistemidir (Japanese Input Method System). Yazılım, geleneksel yöntemlerin ötesine geçerek metin dönüştürme süreçlerinde yapay zekâ tabanlı bir yaklaşım sunar.
 
@@ -40144,7 +40140,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# yapay zekâ ile güvenli sistem yalıtımı
+# Rust ile politika tabanlı katmanlı sistem yalıtımı
 
 Microsoft tarafından geliştirilen MXC, Rust diliyle yazılmış politika tabanlı, katmanlı bir yalıtım ve kapsayıcılık (isolation and containment) çözümüdür. Sistem kaynaklarını güvenli bir şekilde sınırlandırmak ve uygulama güvenliğini artırmak amacıyla tasarlanmıştır.
 

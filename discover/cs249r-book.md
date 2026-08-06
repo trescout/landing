@@ -1,4 +1,4 @@
-# yapay zekâ sistemleri için kapsamlı rehber
+# Yapay zekâ sistemleri için kapsamlı rehber
 
 Harvard Üniversitesi tarafından paylaşılan bu kaynak, makine öğrenmesi sistemleri (machine learning systems) üzerine kapsamlı bir teknik rehber sunuyor. Donanım ve yazılım katmanlarını birleştiren bu çalışma, ölçeklenebilir yapay zekâ altyapılarının tasarım süreçlerini ele alıyor.
 

@@ -1,4 +1,4 @@
-# yapay zekâ ile çok yönlü karar verme
+# Yapay zekâ ile çok yönlü karar verme
 
 Council of High Intelligence, farklı büyük dil modellerini (large language models) kullanarak çeşitli uzman kişilikler üzerinden yapılandırılmış karar verme süreçleri yürütüyor. Sistem, karmaşık problemleri çok turlu tartışmalarla analiz ederek farklı yapay zekâ modellerinin bakış açılarını birleştiriyor.
 

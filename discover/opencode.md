@@ -1,4 +1,4 @@
-# açık kaynaklı yapay zekâ kodlama ajanı
+# Açık kaynaklı yapay zekâ kodlama ajanı
 
 OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent). TypeScript diliyle geliştirilen bu araç, yazılım projelerinde otonom görev yürütme yetenekleri sunar.
 
