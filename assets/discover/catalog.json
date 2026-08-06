@@ -1521,7 +1521,7 @@
     ],
     "stars": 7528,
     "lite": false,
-    "headline": "yapay zekâ ile siber tehditleri görselleştirin",
+    "headline": "Çizge tabanlı siber tehdit görselleştirme",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -1532,7 +1532,8 @@
         "surum_tarihi": "2026-07-01"
       }
     ],
-    "tagline_en": "Flowsint is a visual, flexible and extensible graph-based analysis tool for cybersecurity analysts and researchers."
+    "tagline_en": "Flowsint is a visual, flexible and extensible graph-based analysis tool for cybersecurity analysts and researchers.",
+    "headline_locked": true
   },
   {
     "slug": "production-agentic-rag-course",
@@ -1616,8 +1617,9 @@
     ],
     "stars": 35511,
     "lite": false,
-    "headline": "Konteyner ve Bulut Güvenliğinizi yapay zekâ ile Koruyun",
-    "tagline_en": "Trivy detects vulnerabilities, misconfigurations, and secrets in containers, Kubernetes clusters, and cloud infrastructures."
+    "headline": "Konteyner ve bulut güvenlik tarayıcısı",
+    "tagline_en": "Trivy detects vulnerabilities, misconfigurations, and secrets in containers, Kubernetes clusters, and cloud infrastructures.",
+    "headline_locked": true
   },
   {
     "slug": "hermes-agent",
@@ -1693,9 +1695,10 @@
     ],
     "stars": 52082,
     "lite": false,
-    "headline": "İş süreçlerinizi yapay zekâ ile yönetin",
+    "headline": "Açık kaynaklı kurumsal kaynak planlama",
     "last_review": "2026-08-06",
-    "tagline_en": "Odoo is an open source enterprise resource that allows businesses to manage all their operational processes under one roof."
+    "tagline_en": "Odoo is an open source enterprise resource that allows businesses to manage all their operational processes under one roof.",
+    "headline_locked": true
   },
   {
     "slug": "coding-interview-university",
@@ -2116,7 +2119,7 @@
     ],
     "stars": 69813,
     "lite": false,
-    "headline": "Veri Tahmininde Evrensel yapay zekâ",
+    "headline": "Veri tahmininde sürü zekâsı motoru",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -2127,7 +2130,8 @@
         "surum_tarihi": "2026-03-07"
       }
     ],
-    "tagline_en": "MiroFish is a simple and universal swarm intelligence engine developed to predict various types of data."
+    "tagline_en": "MiroFish is a simple and universal swarm intelligence engine developed to predict various types of data.",
+    "headline_locked": true
   },
   {
     "slug": "plugins",
@@ -2273,7 +2277,7 @@
     ],
     "stars": 31312,
     "lite": false,
-    "headline": "Web Sunucunuzu yapay zekâyla Hızlandırın",
+    "headline": "Yüksek performanslı web sunucusu ve ters vekil",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -2284,7 +2288,8 @@
         "surum_tarihi": "2026-07-15"
       }
     ],
-    "tagline_en": "NGINX is an open source code repository, a high-performance web server and reverse proxy, based on the C language."
+    "tagline_en": "NGINX is an open source code repository, a high-performance web server and reverse proxy, based on the C language.",
+    "headline_locked": true
   },
   {
     "slug": "go",
@@ -2427,9 +2432,10 @@
     ],
     "stars": 641,
     "lite": false,
-    "headline": "yapay zekâ ile güvenli sistem yalıtımı",
+    "headline": "Rust ile politika tabanlı katmanlı sistem yalıtımı",
     "last_review": "2026-08-06",
-    "tagline_en": "Developed by Microsoft, MXC is a policy-based, layered isolation and containerization system written in Rust."
+    "tagline_en": "Developed by Microsoft, MXC is a policy-based, layered isolation and containerization system written in Rust.",
+    "headline_locked": true
   },
   {
     "slug": "vibevoice",
@@ -2642,7 +2648,7 @@
     ],
     "stars": 14575,
     "lite": false,
-    "headline": "Yüksek performanslı yapay zekâ vektör dizini",
+    "headline": "Rust ile yüksek performanslı vektör dizini",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -2651,7 +2657,8 @@
         "onceki_yildiz": 7703
       }
     ],
-    "tagline_en": "Built on the TurboQuant infrastructure, turbovec is a high-performance vector directory (vector…"
+    "tagline_en": "Built on the TurboQuant infrastructure, turbovec is a high-performance vector directory (vector…",
+    "headline_locked": true
   },
   {
     "slug": "chinatextbook",
@@ -2666,7 +2673,7 @@
     ],
     "stars": 76412,
     "lite": false,
-    "headline": "Çin eğitim müfredatına yapay zekâ ile erişin",
+    "headline": "Çin eğitim müfredatı ve ders kitapları",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -2675,7 +2682,8 @@
         "onceki_yildiz": 72765
       }
     ],
-    "tagline_en": "ChinaTextbook repository is a portable collection of textbooks used in the Chinese education curriculum from primary school to university level…"
+    "tagline_en": "ChinaTextbook repository is a portable collection of textbooks used in the Chinese education curriculum from primary school to university level…",
+    "headline_locked": true
   },
   {
     "slug": "tolaria",
@@ -2690,7 +2698,7 @@
     ],
     "stars": 19219,
     "lite": false,
-    "headline": "Markdown notlarınızı yapay zekâ ile düzenleyin",
+    "headline": "Markdown bilgi tabanı masaüstü uygulaması",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -2701,7 +2709,8 @@
         "surum_tarihi": "2026-07-31"
       }
     ],
-    "tagline_en": "Tolaria is a desktop application developed for managing Markdown-based knowledge bases."
+    "tagline_en": "Tolaria is a desktop application developed for managing Markdown-based knowledge bases.",
+    "headline_locked": true
   },
   {
     "slug": "ghosttrack",
@@ -2748,7 +2757,7 @@
     ],
     "stars": 2716,
     "lite": false,
-    "headline": "PostgreSQL ile yapay zekâ süreçlerini yönetin",
+    "headline": "PostgreSQL üzerinde dayanıklı süreç yönetimi",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -2759,7 +2768,8 @@
         "surum_tarihi": "2026-07-30"
       }
     ],
-    "tagline_en": "Developed by Microsoft, pg_durable is a tool for managing durable execution processes on PostgreSQL."
+    "tagline_en": "Developed by Microsoft, pg_durable is a tool for managing durable execution processes on PostgreSQL.",
+    "headline_locked": true
   },
   {
     "slug": "skills",
@@ -2853,7 +2863,7 @@
     ],
     "stars": 49033,
     "lite": false,
-    "headline": "Bilgisayarlı görü projelerinizi yapay zekâ ile hızlandırın",
+    "headline": "Bilgisayarlı görü projeleri için araçlar",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -2871,7 +2881,8 @@
         "surum_tarihi": "2026-08-04"
       }
     ],
-    "tagline_en": "Developed by Roboflow, Supervision can be reused for computer vision projects…"
+    "tagline_en": "Developed by Roboflow, Supervision can be reused for computer vision projects…",
+    "headline_locked": true
   },
   {
     "slug": "claude-howto",
@@ -2958,7 +2969,7 @@
     ],
     "stars": 8905,
     "lite": false,
-    "headline": "Wi-Fi ile yapay zekâ destekli hareket algılama",
+    "headline": "Wi-Fi sinyalleri ile hareket algılama",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -2969,7 +2980,8 @@
         "surum_tarihi": "2026-05-21"
       }
     ],
-    "tagline_en": "ESPectre is a system that performs motion detection via Wi-Fi channel state information (CSI) analysis."
+    "tagline_en": "ESPectre is a system that performs motion detection via Wi-Fi channel state information (CSI) analysis.",
+    "headline_locked": true
   },
   {
     "slug": "agent-skills",
@@ -3044,7 +3056,7 @@
     ],
     "stars": 6870,
     "lite": false,
-    "headline": "yapay zekâ ile sansürleri aşın",
+    "headline": "DNS tünelleme ile sansür engellerini aşın",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -3055,7 +3067,8 @@
         "surum_tarihi": "2026-06-13"
       }
     ],
-    "tagline_en": "MasterDnsVPN is a low-load domain name system tunneling (DNS tunneling) system developed to overcome censorship barriers."
+    "tagline_en": "MasterDnsVPN is a low-load domain name system tunneling (DNS tunneling) system developed to overcome censorship barriers.",
+    "headline_locked": true
   },
   {
     "slug": "hivemind",
@@ -3299,7 +3312,7 @@
     ],
     "stars": 10048,
     "lite": false,
-    "headline": "Kariyer ve Tercih Rehberiniz yapay zekâ",
+    "headline": "Kariyer ve üniversite tercihi rehberi",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -3308,7 +3321,8 @@
         "onceki_yildiz": 8114
       }
     ],
-    "tagline_en": "Zhangxuefeng-skill is a structured program for university exam preferences, postgraduate education and career planning processes."
+    "tagline_en": "Zhangxuefeng-skill is a structured program for university exam preferences, postgraduate education and career planning processes.",
+    "headline_locked": true
   },
   {
     "slug": "sia",
@@ -3377,7 +3391,7 @@
     ],
     "stars": 49405,
     "lite": false,
-    "headline": "İnternet sansürünü yapay zekâ ile aşın",
+    "headline": "Kotlin ile internet sansürünü aşın",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -3388,7 +3402,8 @@
         "surum_tarihi": "2024-08-18"
       }
     ],
-    "tagline_en": "The Fanqiang project is a gateway tool written in Kotlin, developed to bypass internet censorship."
+    "tagline_en": "The Fanqiang project is a gateway tool written in Kotlin, developed to bypass internet censorship.",
+    "headline_locked": true
   },
   {
     "slug": "server",
@@ -3403,7 +3418,7 @@
     ],
     "stars": 2913,
     "lite": false,
-    "headline": "Dijital müzik kütüphanenizi tek merkezden yönetin",
+    "headline": "Açık kaynaklı dijital müzik sunucusu",
     "cmds": {
       "kurulum": [
         {
@@ -3423,7 +3438,8 @@
         "surum_tarihi": "2026-07-30"
       }
     ],
-    "tagline_en": "Music Assistant is an open-source media platform that combines different digital streaming services and connected speakers into a single interface."
+    "tagline_en": "Music Assistant is an open-source media platform that combines different digital streaming services and connected speakers into a single interface.",
+    "headline_locked": true
   },
   {
     "slug": "iptv",
@@ -3640,8 +3656,6 @@
     ],
     "stars": 11427,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "headline": "Bulut yerlisi altyapıları yönetin",
     "last_review": "2026-08-06",
     "guncellemeler": [
@@ -3660,7 +3674,22 @@
         "surum_tarihi": "2026-08-03"
       }
     ],
-    "tagline_en": "Meshery is a service mesh management platform designed for the management of cloud native infrastructures."
+    "tagline_en": "Meshery is a service mesh management platform designed for the management of cloud native infrastructures.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Bash Script",
+          "komut": "curl -L https://meshery.io/install | bash -"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "CLI",
+          "komut": "mesheryctl system start"
+        }
+      ],
+      "kaynak": "Resmi Dokümantasyon"
+    }
   },
   {
     "slug": "cypress",
@@ -3708,8 +3737,6 @@
     ],
     "stars": 35393,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "headline": "Popüler Platformları yapay zekâyla Kopyalayın",
     "last_review": "2026-08-06",
     "tagline_en": "Clone-Wars brings more than 100 open source clones of popular platforms such as Airbnb, Instagram and Netflix under one roof."
@@ -3727,8 +3754,6 @@
     ],
     "stars": 3301,
     "lite": false,
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "headline": "Otonom Robotik Dünyasına Giriş Yapın",
     "last_review": "2026-08-06",
     "guncellemeler": [
@@ -3799,8 +3824,6 @@
     "stars": 8798,
     "lite": false,
     "headline": "Tesla verilerinizi kendi sunucunuzda izleyin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -3811,7 +3834,9 @@
         "surum_tarihi": "2026-06-14"
       }
     ],
-    "tagline_en": "Developed for Tesla vehicle owners, Teslamate is a data logger that allows you to host data on your own server."
+    "tagline_en": "Developed for Tesla vehicle owners, Teslamate is a data logger that allows you to host data on your own server.",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   },
   {
     "slug": "hello-algo",
@@ -3827,8 +3852,6 @@
     "stars": 129072,
     "lite": false,
     "headline": "Animasyonlarla veri yapıları ve algoritmalar",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -3963,8 +3986,6 @@
     "stars": 7672,
     "lite": false,
     "headline": "Windows performansını ve gizliliğini artırın",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -3991,8 +4012,6 @@
     "stars": 8660,
     "lite": false,
     "headline": "Android cihazınızdaki gereksiz uygulamaları temizleyin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -4018,7 +4037,7 @@
     ],
     "stars": 15356,
     "lite": false,
-    "headline": "Uygulama içi hızlı yapay zekâ veritabanı",
+    "headline": "Hızlı uygulama içi vektör veritabanı",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -4029,7 +4048,8 @@
         "surum_tarihi": "2026-07-20"
       }
     ],
-    "tagline_en": "Developed by Alibaba, zvec is a lightweight and high-speed in-process vector database written in C++."
+    "tagline_en": "Developed by Alibaba, zvec is a lightweight and high-speed in-process vector database written in C++.",
+    "headline_locked": true
   },
   {
     "slug": "openwa",
@@ -4183,8 +4203,6 @@
     "stars": 45919,
     "lite": false,
     "headline": "Güvenli ve özelleştirilebilir ekip iletişimi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -4195,7 +4213,9 @@
         "surum_tarihi": "2026-07-10"
       }
     ],
-    "tagline_en": "Rocket.Chat is a secure communications operating system designed for mission-critical operations."
+    "tagline_en": "Rocket.Chat is a secure communications operating system designed for mission-critical operations.",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   },
   {
     "slug": "continue",
@@ -4258,8 +4278,6 @@
     "stars": 57989,
     "lite": false,
     "headline": "Tasarım ve yazılımı birleştiren platform",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -4270,7 +4288,9 @@
         "surum_tarihi": "2026-07-22"
       }
     ],
-    "tagline_en": "Penpot is an open source design tool that strengthens collaboration between designers and developers."
+    "tagline_en": "Penpot is an open source design tool that strengthens collaboration between designers and developers.",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   },
   {
     "slug": "unciv",
@@ -4537,8 +4557,6 @@
     "stars": 39916,
     "lite": false,
     "headline": "Kapsamlı yapay zekâ destekli API istemcisi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -4549,7 +4567,9 @@
         "surum_tarihi": "2026-07-24"
       }
     ],
-    "tagline_en": "Insomnia is an open source application programming interface that supports GraphQL, REST, WebSockets, SSE and gRPC protocols."
+    "tagline_en": "Insomnia is an open source application programming interface that supports GraphQL, REST, WebSockets, SSE and gRPC protocols.",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz"
   },
   {
     "slug": "aspnetcore",
@@ -4613,8 +4633,6 @@
     "stars": 15631,
     "lite": false,
     "headline": "yapay zekâ geliştirme için temel kaynaklar",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -4908,8 +4926,6 @@
     "stars": 27342,
     "lite": false,
     "headline": "Android mesajlarınızı farklı platformlara yönlendirin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -5306,8 +5322,6 @@
     "stars": 32968,
     "lite": false,
     "headline": "Claude kodlama asistanı için eklentiler",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -5333,8 +5347,6 @@
     "stars": 63889,
     "lite": false,
     "headline": "Claude Code için yapay zekâ rehberi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -5396,7 +5408,26 @@
         "surum_tarihi": "2024-01-11"
       }
     ],
-    "tagline_en": "Developed by Google, Flutter is a fast application for mobile, web and desktop platforms using a single code base."
+    "tagline_en": "Developed by Google, Flutter is a fast application for mobile, web and desktop platforms using a single code base.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install --cask flutter"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Ortam kontrollerini doğrula",
+          "komut": "flutter doctor"
+        },
+        {
+          "baslik": "Yeni proje oluştur ve çalıştır",
+          "komut": "flutter create my_app\ncd my_app\nflutter run"
+        }
+      ],
+      "kaynak": "Homebrew Cask (flutter) · resmî Flutter dokümantasyonu (docs.flutter.dev)"
+    }
   },
   {
     "slug": "headunit-revived",
@@ -5615,7 +5646,7 @@
     ],
     "stars": 10091,
     "lite": false,
-    "headline": "SEO verilerini yapay zekâ ile yönetin",
+    "headline": "Açık kaynaklı SEO veri ve analiz platformu",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -5626,7 +5657,8 @@
         "surum_tarihi": "2026-07-30"
       }
     ],
-    "tagline_en": "Open SEO offers an open source alternative to paid tools like Semrush and Ahrefs."
+    "tagline_en": "Open SEO offers an open source alternative to paid tools like Semrush and Ahrefs.",
+    "headline_locked": true
   },
   {
     "slug": "agent-toolkit-for-aws",
@@ -5845,7 +5877,26 @@
         "surum_tarihi": "2026-08-04"
       }
     ],
-    "tagline_en": "Grafana combines metrics, logs and traces from different data sources in a single interface."
+    "tagline_en": "Grafana combines metrics, logs and traces from different data sources in a single interface.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install grafana"
+        },
+        {
+          "baslik": "Docker ile",
+          "komut": "docker run -d -p 3000:3000 --name=grafana grafana/grafana"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Homebrew servisi olarak başlat",
+          "komut": "brew services start grafana"
+        }
+      ],
+      "kaynak": "Homebrew (grafana) · Docker Hub (grafana/grafana) · resmî Grafana dokümantasyonu (grafana.com/docs)"
+    }
   },
   {
     "slug": "free-for-dev",
@@ -5861,8 +5912,6 @@
     "stars": 131012,
     "lite": false,
     "headline": "Ücretsiz geliştirici araçları kaynak listesi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -6170,8 +6219,6 @@
     "stars": 84839,
     "lite": false,
     "headline": "Görsellerle sistem tasarımı rehberi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "The system-design-101 repository prepared by ByteByteGoHq explains complex system architectures with visualizations and simple language."
   },
@@ -6498,7 +6545,7 @@
     ],
     "stars": 7250,
     "lite": false,
-    "headline": "Kendi sunucunuzda modern yapay zekâ destekli CMS",
+    "headline": "Kendi sunucunuzda modern görsel CMS",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -6509,7 +6556,8 @@
         "surum_tarihi": "2026-07-28"
       }
     ],
-    "tagline_en": "Instatic is a modern self-hosted visual content management system (CMS) based on TypeScript."
+    "tagline_en": "Instatic is a modern self-hosted visual content management system (CMS) based on TypeScript.",
+    "headline_locked": true
   },
   {
     "slug": "ai-for-beginners",
@@ -6526,8 +6574,6 @@
     "stars": 62224,
     "lite": false,
     "headline": "12 haftalık yapay zekâ müfredatı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -6881,8 +6927,6 @@
     "stars": 27689,
     "lite": false,
     "headline": "yapay zekâ sistemleri için kapsamlı rehber",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -6909,8 +6953,6 @@
     "stars": 94633,
     "lite": false,
     "headline": "JavaScript ile temiz kod yazımı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "This guide, which adapts clean code principles to the JavaScript language, is readable and…"
   },
@@ -6947,7 +6989,26 @@
         "surum_tarihi": "2026-08-04"
       }
     ],
-    "tagline_en": "Developed with Java, Elasticsearch is a distributed…"
+    "tagline_en": "Developed with Java, Elasticsearch is a distributed…",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker imajını çek",
+          "komut": "docker pull docker.elastic.co/elasticsearch/elasticsearch:9.5.0"
+        },
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install elastic/tap/elasticsearch-full"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Tek düğüm modunda Docker ile başlat",
+          "komut": "docker run -p 9200:9200 -p 9300:9300 -e \"discovery.type=single-node\" docker.elastic.co/elasticsearch/elasticsearch:9.5.0"
+        }
+      ],
+      "kaynak": "Elastic Docker Registry · Homebrew (elastic/tap/elasticsearch-full) · resmî Elastic dokümantasyonu"
+    }
   },
   {
     "slug": "ansible",
@@ -6975,7 +7036,26 @@
         "surum_tarihi": "2026-07-13"
       }
     ],
-    "tagline_en": "Ansible is an information technologies automation platform that automates application deployment and system management processes."
+    "tagline_en": "Ansible is an information technologies automation platform that automates application deployment and system management processes.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install ansible"
+        },
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install ansible"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Ansible playbook betiğini çalıştır",
+          "komut": "ansible-playbook site.yml"
+        }
+      ],
+      "kaynak": "PyPI (ansible) · Homebrew (ansible) · resmî Ansible dokümantasyonu (docs.ansible.com)"
+    }
   },
   {
     "slug": "romm",
@@ -7061,7 +7141,26 @@
         "surum_tarihi": "2026-07-09"
       }
     ],
-    "tagline_en": "Supabase is a Postgres database infrastructure that provides Postgres database infrastructure for developing web, mobile and artificial intelligence applications."
+    "tagline_en": "Supabase is a Postgres database infrastructure that provides Postgres database infrastructure for developing web, mobile and artificial intelligence applications.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install supabase/tap/supabase"
+        },
+        {
+          "baslik": "npm ile geliştirme bağımlılığı olarak ekle",
+          "komut": "npm install -D supabase"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Yerel Supabase geliştirme ortamını başlat",
+          "komut": "supabase init\nsupabase start"
+        }
+      ],
+      "kaynak": "Homebrew (supabase/tap/supabase) · npm (supabase) · resmî dokümantasyon (supabase.com/docs)"
+    }
   },
   {
     "slug": "meetily",
@@ -7116,7 +7215,22 @@
         "surum_tarihi": "2026-07-29"
       }
     ],
-    "tagline_en": "Immich is a high-performance self-hosted media platform developed for managing photo and video files."
+    "tagline_en": "Immich is a high-performance self-hosted media platform developed for managing photo and video files.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker Compose yapılandırmasını indir",
+          "komut": "mkdir immich-app && cd immich-app\nwget -O docker-compose.yml https://github.com/immich-app/immich/releases/latest/download/docker-compose.yml\nwget -O .env https://github.com/immich-app/immich/releases/latest/download/example.env"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Docker servislerini başlat",
+          "komut": "docker compose up -d"
+        }
+      ],
+      "kaynak": "Resmî Immich dokümantasyonu (immich.app/docs/install/docker-compose)"
+    }
   },
   {
     "slug": "folia-major",
@@ -7265,8 +7379,6 @@
     "stars": 51520,
     "lite": false,
     "headline": "Claude Code için kapsamlı kaynak rehberi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7435,8 +7547,6 @@
     "stars": 482524,
     "lite": false,
     "headline": "Teknoloji dünyasında küratörlü kaynak rehberi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "Awesome lists offers curated collections of resources on a variety of topics in the world of software development and technology."
   },
@@ -7793,8 +7903,6 @@
     "stars": 105953,
     "lite": false,
     "headline": "yapay zekâ için hazır tasarım dokümanları",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7820,8 +7928,6 @@
     "stars": 50838,
     "lite": false,
     "headline": "Claude modelleri için pratik uygulama rehberi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -7984,7 +8090,26 @@
         "surum_tarihi": "2026-04-16"
       }
     ],
-    "tagline_en": "TypeScript, a superset of the JavaScript language, allows error checking during the compilation phase of the code."
+    "tagline_en": "TypeScript, a superset of the JavaScript language, allows error checking during the compilation phase of the code.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile global kurulum",
+          "komut": "npm install -g typescript"
+        },
+        {
+          "baslik": "Proje bağımlılığı olarak ekle",
+          "komut": "npm install --save-dev typescript"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "TypeScript dosyasını derle",
+          "komut": "tsc index.ts"
+        }
+      ],
+      "kaynak": "npm (typescript) · resmî TypeScript dokümantasyonu (typescriptlang.org)"
+    }
   },
   {
     "slug": "catch2",
@@ -8241,7 +8366,22 @@
         "surum_tarihi": "2026-08-03"
       }
     ],
-    "tagline_en": "Next.js is a server-side rendering framework used to develop React-based web applications."
+    "tagline_en": "Next.js is a server-side rendering framework used to develop React-based web applications.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npx ile yeni Next.js projesi oluştur",
+          "komut": "npx create-next-app@latest my-app"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Geliştirme sunucusunu başlat",
+          "komut": "cd my-app\nnpm run dev"
+        }
+      ],
+      "kaynak": "npm (create-next-app) · resmî Next.js dokümantasyonu (nextjs.org/docs)"
+    }
   },
   {
     "slug": "core",
@@ -8276,7 +8416,26 @@
         "surum_tarihi": "2026-08-05"
       }
     ],
-    "tagline_en": "Home Assistant is an open source home automation platform that prioritizes local control and privacy."
+    "tagline_en": "Home Assistant is an open source home automation platform that prioritizes local control and privacy.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (Python sanal ortamı)",
+          "komut": "pip install homeassistant"
+        },
+        {
+          "baslik": "Docker ile",
+          "komut": "docker run -d --name homeassistant --privileged --restart=unless-stopped --network=host ghcr.io/home-assistant/home-assistant:stable"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Home Assistant Core sunucusunu başlat",
+          "komut": "hass"
+        }
+      ],
+      "kaynak": "PyPI (homeassistant) · GitHub Container Registry (ghcr.io) · resmî Home Assistant dokümantasyonu (home-assistant.io)"
+    }
   },
   {
     "slug": "next-ai-draw-io",
@@ -8710,8 +8869,6 @@
     "stars": 60379,
     "lite": false,
     "headline": "Çinli bağımsız geliştiricilerin projelerini keşfedin",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -8735,7 +8892,7 @@
     ],
     "stars": 2965,
     "lite": false,
-    "headline": "açık kaynak profesyonel yapay zekâ video düzenleyici",
+    "headline": "Açık kaynaklı masaüstü video düzenleyici",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -8753,7 +8910,8 @@
         "surum_tarihi": "2026-08-06"
       }
     ],
-    "tagline_en": "Clypra is an open source video editor application developed using Tauri, React and TypeScript."
+    "tagline_en": "Clypra is an open source video editor application developed using Tauri, React and TypeScript.",
+    "headline_locked": true
   },
   {
     "slug": "grok2api",
@@ -9045,8 +9203,6 @@
     "stars": 206669,
     "lite": false,
     "headline": "Ücretsiz bilgisayar bilimleri eğitim yolu",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "This resource, which offers a free and self-learning focused curriculum in the field of computer science…"
   },
@@ -9332,7 +9488,22 @@
         "surum_tarihi": "2026-07-16"
       }
     ],
-    "tagline_en": "Microsoft is combining Windows Terminal and the traditional Windows console host under one roof."
+    "tagline_en": "Microsoft is combining Windows Terminal and the traditional Windows console host under one roof.",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install Microsoft.WindowsTerminal"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Komut satırından çalıştır",
+          "komut": "wt"
+        }
+      ],
+      "kaynak": "winget (Microsoft.WindowsTerminal) · resmî Microsoft dokümantasyonu (learn.microsoft.com)"
+    }
   },
   {
     "slug": "astrbot",
@@ -9416,8 +9587,6 @@
     "stars": 74728,
     "lite": false,
     "headline": "Bilgisayar bilimleri için kapsamlı yol haritası",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -9757,8 +9926,6 @@
     "stars": 70068,
     "lite": false,
     "headline": "Apollo 11 rehberlik bilgisayarı kaynak kodları",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "Original source code of the command and lunar module guidance computer (Guidance Computer) used in the Apollo 11 mission, assembly…"
   },
@@ -9926,8 +10093,6 @@
     "stars": 68956,
     "lite": false,
     "headline": "Claude için hazır yapay zekâ yetenekleri",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "tagline_en": "Curated by ComposioHQ, awesome-claude-skills includes tools and tools for customizing Claude AI workflows."
   },
@@ -9998,7 +10163,7 @@
     ],
     "stars": 23428,
     "lite": false,
-    "headline": "yapay zekâ ajanlarıyla ortak çalışma alanı",
+    "headline": "Merkeziyetsiz kovan zihni iletişim platformu",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -10023,7 +10188,8 @@
         "surum_tarihi": "2026-08-05"
       }
     ],
-    "tagline_en": "Developed by Block in Rust, Buzz is a decentralized hive mind communication platform (hive mind communication…"
+    "tagline_en": "Developed by Block in Rust, Buzz is a decentralized hive mind communication platform (hive mind communication…",
+    "headline_locked": true
   },
   {
     "slug": "ego-lite",
@@ -10169,8 +10335,6 @@
     "stars": 47047,
     "lite": false,
     "headline": "Uygulamalı yapay zekâ eğitim serisi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -10357,7 +10521,7 @@
     ],
     "stars": 14262,
     "lite": false,
-    "headline": "Kendi sunucunuzda kişisel yapay zekâ destekli VPN",
+    "headline": "Kendi sunucunuzda kişisel VPN istemcisi",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
@@ -10368,7 +10532,8 @@
         "surum_tarihi": "2026-07-26"
       }
     ],
-    "tagline_en": "Amnesia VPN client is an open-source application that allows users to gain uncensored internet access through its own servers."
+    "tagline_en": "Amnesia VPN client is an open-source application that allows users to gain uncensored internet access through its own servers.",
+    "headline_locked": true
   },
   {
     "slug": "geolibre",
@@ -10622,8 +10787,6 @@
     "stars": 12499,
     "lite": false,
     "headline": "Sistematik alım satım kaynak kütüphanesi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
     "last_review": "2026-08-06",
     "guncellemeler": [
       {
