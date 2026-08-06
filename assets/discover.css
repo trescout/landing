@@ -21,7 +21,7 @@
 
 .disc-title {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: clamp(40px, 9vw, 76px); line-height: 1.02;
+  font-size: clamp(36px, 7vw, 60px); line-height: 1.04;   /* hero 64px · alt sayfa ondan büyük olmaz */
   font-weight: 700; letter-spacing: -.02em; color: #fff;
   overflow-wrap: break-word; hyphens: auto;
 }
@@ -346,3 +346,11 @@
 
 /* Karşılaştırma sayfalarında CTA üst boşluğu · inline stil yerine (CSP) */
 .disc-cta-spaced { margin-top: 44px; }
+
+/* ---------- DOKUNMA HEDEFLERİ (mobil) ----------
+   2026-08-06 ölçümü: kopyala düğmesi 29px, filtre çipi 35px · parmak için küçük
+   (yönerge 44px). Masaüstünde kompakt kalsın, dar ekranda büyüsün. */
+@media (max-width: 768px) {
+  .disc-copy { min-height: 40px; padding: 8px 16px; }
+  .disc-chip { min-height: 40px; padding: 9px 16px; }
+}

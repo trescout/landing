@@ -474,7 +474,9 @@
       min-width: 200px;
       padding: 16px 20px;
       background: rgba(27, 42, 64, 0.6);
-      border: 1px solid rgba(168, 192, 208, 0.35);
+      /* Alt sayfalardaki aynı form mavi kenarlık kullanıyor · iki farklı kenarlık
+         rengi yerine marka mavisinde birleştirildi (boyut farkı hero'ya özgü kalır). */
+      border: 1px solid rgba(95, 168, 211, 0.3);
       border-radius: 12px;
       color: var(--ink);
       font-size: 15px;
@@ -595,8 +597,9 @@
       background: transparent;
       border: 1px solid var(--border);
       color: var(--ink-muted);
-      width: 32px;
-      height: 32px;
+      /* 40px · parmakla kapatılabilsin (32px ölçülmüştü, yönerge 44px) */
+      width: 40px;
+      height: 40px;
       border-radius: 8px;
       font-size: 20px;
       line-height: 1;
@@ -823,7 +826,7 @@
         border-radius: 12px;
       }
       .tabs::-webkit-scrollbar { display: none; }
-      .tab { padding: 9px 14px; font-size: 13px; }
+      .tab { padding: 9px 14px; font-size: 13px; min-height: 44px; }   /* dokunma hedefi */
     }
 
     /* ---------- PIPELINE ---------- */
