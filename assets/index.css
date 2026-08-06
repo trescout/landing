@@ -512,6 +512,27 @@
       border-bottom-color: var(--accent);
       outline: none;
     }
+    /* DURUM satırı · bugün çalışan ile erken erişimde gelecek olanı ayırır */
+    .hero-status {
+      margin-top: 10px;
+      padding-left: 12px;
+      border-left: 2px solid rgba(244, 211, 94, 0.45);
+      font-size: 13px;
+      line-height: 1.6;
+      color: var(--ink-muted);
+    }
+    .hero-status a {
+      color: var(--ink);
+      border-bottom: 1px solid rgba(244, 211, 94, 0.4);
+      text-decoration: none;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .hero-status a:hover,
+    .hero-status a:focus-visible {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+      outline: none;
+    }
 
     /* ---------- AYDINLATMA METNİ MODAL ---------- */
     .privacy-modal {
@@ -1448,6 +1469,33 @@
       color: var(--ink-muted);
       line-height: 1.55;
     }
+    /* Durum rozeti · yayında olanı yol haritasındakinden ayırır (pac-live ile aynı dil) */
+    .roadmap-live {
+      display: inline-block;
+      vertical-align: 3px;
+      margin-left: 8px;
+      font-family: Inter, system-ui, sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .1em;
+      color: #15202B;
+      background: var(--accent);
+      padding: 3px 8px;
+      border-radius: 999px;
+      white-space: nowrap;
+    }
+    .roadmap-soon {
+      color: var(--ink-muted);
+      background: transparent;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+    }
+    .roadmap-item p a {
+      color: var(--accent);
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .roadmap-item p a:hover,
+    .roadmap-item p a:focus-visible { text-decoration: underline; outline: none; }
     @media (max-width: 768px) {
       .roadmap {
         grid-template-columns: 1fr;
