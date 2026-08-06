@@ -3,7 +3,7 @@
 > CUA provides an open source infrastructure for computer-capable artificial intelligence agents.
 
 **Source:** GitHub  
-**Stars:** 20909
+**Stars:** 20962
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/cua/

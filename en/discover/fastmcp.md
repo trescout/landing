@@ -3,7 +3,7 @@
 > FastMCP is a Python…
 
 **Source:** GitHub  
-**Stars:** 27020
+**Stars:** 27084
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/fastmcp/

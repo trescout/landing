@@ -11485,7 +11485,8 @@
         "surum": "sensor-v1.0.0",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Uber, ADR provides enterprise AI agents with observability, security benchmarking and threat detection."
   },
   {
     "slug": "webpack",
@@ -11510,7 +11511,8 @@
         "surum": "v5.109.2",
         "surum_tarihi": "2026-07-28"
       }
-    ]
+    ],
+    "tagline_en": "Webpack is a bundler that bundles JavaScript and other web assets together to run in the browser."
   },
   {
     "slug": "spdlog",
@@ -11537,7 +11539,8 @@
         "surum": "v1.17.0",
         "surum_tarihi": "2026-01-04"
       }
-    ]
+    ],
+    "tagline_en": "spdlog is a very fast logging library developed for the C++ programming language."
   },
   {
     "slug": "deno",
@@ -11562,7 +11565,8 @@
         "surum": "v2.9.4",
         "surum_tarihi": "2026-07-23"
       }
-    ]
+    ],
+    "tagline_en": "Deno is a modern runtime environment designed for JavaScript and TypeScript languages."
   },
   {
     "slug": "angular",
@@ -11587,7 +11591,8 @@
         "surum": "v22.1.0",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Google, Angular is a comprehensive framework used to create scalable web applications."
   },
   {
     "slug": "tailwindcss",
@@ -11614,7 +11619,8 @@
         "surum": "v4.3.3",
         "surum_tarihi": "2026-07-16"
       }
-    ]
+    ],
+    "tagline_en": "Tailwind CSS is a utility-first style sheet that focuses on fast user interface development."
   },
   {
     "slug": "computer",
@@ -11633,7 +11639,8 @@
     "headline": "yapay zekâ ajanlarına bilgisayar kontrolü",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "last_review": "2026-08-06"
+    "last_review": "2026-08-06",
+    "tagline_en": "Developed by Cloudflare, Computer gives artificial intelligence agents the ability to control a local or remote computer."
   },
   {
     "slug": "loopx",
@@ -11659,6 +11666,7 @@
         "surum": "v0.4.1",
         "surum_tarihi": "2026-08-04"
       }
-    ]
+    ],
+    "tagline_en": "Loopx is a lightweight state kernel developed for long-term artificial intelligence agent teams."
   }
 ]

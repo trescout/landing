@@ -1005,7 +1005,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "Sağlık alanında herkesin inceleyip geliştirebileceği şekilde paylaşıma açılmış yapay zekâ yazılımlarıdır.",
-    "kisa_en": "They are artificial intelligence software that has been made available for sharing so that anyone can examine and improve it in the field of healthcare."
+    "kisa_en": "They are artificial intelligence software that is shared so that everyone can examine and improve it in the field of healthcare."
   },
   {
     "slug": "centralized-memory-layer",
@@ -1029,7 +1029,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "Kullanıcıdan aldığı hedefler doğrultusunda kendi başına araçları kullanan ve kararlar veren otonom yapay zekâ programlarıdır.",
-    "kisa_en": "They are autonomous artificial intelligence programs that use vehicles and make decisions on their own in line with the goals they receive from the user."
+    "kisa_en": "They are autonomous artificial intelligence programs that use tools and make decisions on their own in line with the goals they receive from the user."
   },
   {
     "slug": "virtual-machines",
@@ -1325,7 +1325,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "İnsan müdahalesi olmadan, çevresini algılayıp kendi kararlarını vererek hareket edebilen makinelerdir.",
-    "kisa_en": "They are machines that can act by sensing their environment and making their own decisions, without human intervention."
+    "kisa_en": "They are machines that can perceive their environment and act by making their own decisions, without human intervention."
   },
   {
     "slug": "security-scanner",
@@ -2341,7 +2341,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "Sesli konuşmaların veya kayıtların yapay zekâ tarafından analiz edilerek yazılı metne dönüştürülmesi işlemidir.",
-    "kisa_en": "It is the process of converting voice conversations or recordings into written text by analyzing them by artificial intelligence."
+    "kisa_en": "It is the process of analyzing voice conversations or recordings by artificial intelligence and converting them into written text."
   },
   {
     "slug": "speaker-diarization",
@@ -2613,7 +2613,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "Üçgenlerden oluşan karmaşık bir 3D modelin yüzeyini, daha düzenli ve dörtgen parçalara (quads) dönüştürme işlemidir.",
-    "kisa_en": "It is the process of transforming the surface of a complex 3D model consisting of triangles into more regular and rectangular parts (quads)."
+    "kisa_en": "It is the process of converting the surface of a complex 3D model consisting of triangles into more regular and rectangular parts (quads)."
   },
   {
     "slug": "linux-server-security",
@@ -2709,7 +2709,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay zekâ destekli kodlama araçlarının belirli projeleri hızlıca başlatması için sunduğu hazır taslaklar.",
-    "kisa_en": "Ready-made drafts that AI-powered coding tools provide to quickly launch certain projects."
+    "kisa_en": "Ready-made drafts that AI-supported coding tools provide to quickly launch certain projects."
   },
   {
     "slug": "infrastructure-as-code",
@@ -2757,7 +2757,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay zekâ asistanlarının belirli bir işi veya görevi yerine getirebilmek için kullandığı özelleşmiş yetenekler bütünüdür.",
-    "kisa_en": "It is a set of specialized abilities that artificial intelligence assistants use to perform a specific job or task."
+    "kisa_en": "It is a set of specialized skills that artificial intelligence assistants use to perform a specific job or task."
   },
   {
     "slug": "destructive-command-guard",
@@ -3069,7 +3069,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "Öğrencilere konuları adım adım anlatan, soruları yanıtlayan ve kişiselleştirilmiş eğitim desteği sunan yapay zekâ sistemleridir.",
-    "kisa_en": "They are artificial intelligence systems that explain topics to students step by step, answer questions and provide personalized educational support."
+    "kisa_en": "They are artificial intelligence systems that explain subjects step by step to students, answer questions and provide personalized educational support."
   },
   {
     "slug": "scene-reconstruction",
@@ -3141,7 +3141,7 @@
     "full": "MCP",
     "cat": "ai",
     "kisa": "Yapay zekâ sistemlerinin verilerle ve araçlarla güvenli bir şekilde konuşmasını sağlayan ortak bir dil.",
-    "kisa_en": "A common language that enables AI systems to talk to data and tools securely."
+    "kisa_en": "A common language that allows AI systems to talk to data and tools securely."
   },
   {
     "slug": "local-first-code-intelligence-graph",
@@ -3724,104 +3724,119 @@
     "en": "AI Coding Clients",
     "full": "",
     "cat": "dev",
-    "kisa": "Yazılım geliştirme sürecinde kod yazma, hata ayıklama ve proje tamamlama görevlerinde geliştiriciye eşlik eden yapay zekâ destekli yazılımlardır."
+    "kisa": "Yazılım geliştirme sürecinde kod yazma, hata ayıklama ve proje tamamlama görevlerinde geliştiriciye eşlik eden yapay zekâ destekli yazılımlardır.",
+    "kisa_en": "They are artificial intelligence-supported software that accompanies the developer in coding, debugging and project completion tasks during the software development process."
   },
   {
     "slug": "pdf-inspector",
     "en": "PDF Inspector",
     "full": "",
     "cat": "data",
-    "kisa": "PDF belgelerinin içindeki metin, görsel ve yapısal verileri detaylıca inceleyip hataları tespit etmenizi sağlayan bir araçtır."
+    "kisa": "PDF belgelerinin içindeki metin, görsel ve yapısal verileri detaylıca inceleyip hataları tespit etmenizi sağlayan bir araçtır.",
+    "kisa_en": "It is a tool that allows you to examine the text, visual and structural data in PDF documents in detail and detect errors."
   },
   {
     "slug": "text-extraction",
     "en": "Text Extraction",
     "full": "",
     "cat": "data",
-    "kisa": "Dijital belgeler veya görseller içindeki yazılı verilerin, bilgisayarın işleyebileceği metin formatına dönüştürülmesi işlemidir."
+    "kisa": "Dijital belgeler veya görseller içindeki yazılı verilerin, bilgisayarın işleyebileceği metin formatına dönüştürülmesi işlemidir.",
+    "kisa_en": "It is the process of converting written data in digital documents or images into text format that the computer can process."
   },
   {
     "slug": "bundler",
     "en": "Bundler",
     "full": "",
     "cat": "dev",
-    "kisa": "Yazılım projesindeki çok sayıda dosyayı birleştirip optimize ederek tarayıcıların çalıştırabileceği tek bir yapıya dönüştüren araçtır."
+    "kisa": "Yazılım projesindeki çok sayıda dosyayı birleştirip optimize ederek tarayıcıların çalıştırabileceği tek bir yapıya dönüştüren araçtır.",
+    "kisa_en": "It is a tool that combines and optimizes multiple files in a software project and turns them into a single structure that browsers can run."
   },
   {
     "slug": "code-splitting",
     "en": "Code Splitting",
     "full": "",
     "cat": "dev",
-    "kisa": "Web sitesinin yüklenme hızını artırmak için büyük kod dosyalarını küçük parçalara bölüp sadece ihtiyaç anında yükleme yöntemidir."
+    "kisa": "Web sitesinin yüklenme hızını artırmak için büyük kod dosyalarını küçük parçalara bölüp sadece ihtiyaç anında yükleme yöntemidir.",
+    "kisa_en": "In order to increase the loading speed of the website, it is a method of dividing large code files into small pieces and loading them only when needed."
   },
   {
     "slug": "logging",
     "en": "Logging",
     "full": "",
     "cat": "dev",
-    "kisa": "Bir programın çalışırken yaptığı işlemleri veya karşılaştığı hataları takip etmek için kronolojik olarak kayıt altına almasıdır."
+    "kisa": "Bir programın çalışırken yaptığı işlemleri veya karşılaştığı hataları takip etmek için kronolojik olarak kayıt altına almasıdır.",
+    "kisa_en": "It is the chronological recording of a program to keep track of the operations it performs or the errors it encounters while it is running."
   },
   {
     "slug": "utility-first",
     "en": "Utility-first",
     "full": "",
     "cat": "dev",
-    "kisa": "Tasarım yaparken önceden tanımlanmış küçük ve işlevsel komutları (sınıfları) kullanarak hızlıca stil oluşturma yaklaşımıdır."
+    "kisa": "Tasarım yaparken önceden tanımlanmış küçük ve işlevsel komutları (sınıfları) kullanarak hızlıca stil oluşturma yaklaşımıdır.",
+    "kisa_en": "It is an approach to quickly create styles using predefined small and functional commands (classes) when designing."
   },
   {
     "slug": "css-framework",
     "en": "CSS Framework",
     "full": "",
     "cat": "dev",
-    "kisa": "Web sayfalarının görünümünü hızlıca güzelleştirmek için hazır tasarım şablonları ve kuralları sunan bir araç setidir."
+    "kisa": "Web sayfalarının görünümünü hızlıca güzelleştirmek için hazır tasarım şablonları ve kuralları sunan bir araç setidir.",
+    "kisa_en": "It is a toolkit that offers ready-made design templates and rules to quickly beautify the appearance of web pages."
   },
   {
     "slug": "prefix-cache-stability",
     "en": "Prefix Cache Stability",
     "full": "",
     "cat": "ai",
-    "kisa": "Yapay zekânın daha önce işlediği bilgileri hafızasında tutarak aynı sorulara çok daha hızlı ve tutarlı yanıt vermesini sağlayan tekniktir."
+    "kisa": "Yapay zekânın daha önce işlediği bilgileri hafızasında tutarak aynı sorulara çok daha hızlı ve tutarlı yanıt vermesini sağlayan tekniktir.",
+    "kisa_en": "It is a technique that allows artificial intelligence to respond to the same questions much faster and more consistently by keeping the information it has previously processed in its memory."
   },
   {
     "slug": "state-kernel",
     "en": "State Kernel",
     "full": "",
     "cat": "dev",
-    "kisa": "Bir yazılımın o anki tüm çalışma bilgilerini ve verilerini bellekte tutan temel çekirdek yapısıdır."
+    "kisa": "Bir yazılımın o anki tüm çalışma bilgilerini ve verilerini bellekte tutan temel çekirdek yapısıdır.",
+    "kisa_en": "It is the basic core structure that keeps all the current working information and data of a software in memory."
   },
   {
     "slug": "flashcards",
     "en": "Flashcards",
     "full": "",
     "cat": "ai",
-    "kisa": "Ön yüzünde soru, arka yüzünde cevap bulunan, bilgileri hızlıca ezberlemeye veya öğrenmeye yarayan dijital kartlardır."
+    "kisa": "Ön yüzünde soru, arka yüzünde cevap bulunan, bilgileri hızlıca ezberlemeye veya öğrenmeye yarayan dijital kartlardır.",
+    "kisa_en": "They are digital cards with questions on the front and answers on the back, which are used to quickly memorize or learn information."
   },
   {
     "slug": "server-side-rendering",
     "en": "Server-side Rendering",
     "full": "SSR",
     "cat": "dev",
-    "kisa": "Web sayfalarının kullanıcıya gönderilmeden önce sunucuda hazırlanıp hızlıca görüntülenmesini sağlayan yöntemdir."
+    "kisa": "Web sayfalarının kullanıcıya gönderilmeden önce sunucuda hazırlanıp hızlıca görüntülenmesini sağlayan yöntemdir.",
+    "kisa_en": "It is a method that allows web pages to be prepared on the server and displayed quickly before being sent to the user."
   },
   {
     "slug": "product-development-cycle",
     "en": "Product Development Cycle",
     "full": "",
     "cat": "dev",
-    "kisa": "Bir ürünün fikirden son kullanıcıya ulaşana kadar geçtiği planlama, üretim ve test aşamalarının bütünüdür."
+    "kisa": "Bir ürünün fikirden son kullanıcıya ulaşana kadar geçtiği planlama, üretim ve test aşamalarının bütünüdür.",
+    "kisa_en": "It is the whole of the planning, production and testing stages that a product goes through from idea to reaching the end user."
   },
   {
     "slug": "ceo",
     "en": "CEO",
     "full": "Chief Executive Officer",
     "cat": "dev",
-    "kisa": "Bir şirketin tüm operasyonlarını ve stratejik kararlarını yöneten en üst düzey yetkilidir."
+    "kisa": "Bir şirketin tüm operasyonlarını ve stratejik kararlarını yöneten en üst düzey yetkilidir.",
+    "kisa_en": "He is the highest-level official who manages all operations and strategic decisions of a company."
   },
   {
     "slug": "chair",
     "en": "Chair",
     "full": "",
     "cat": "dev",
-    "kisa": "Bir kurumun veya yönetim kurulunun başında bulunan, stratejik denetimden sorumlu kişidir."
+    "kisa": "Bir kurumun veya yönetim kurulunun başında bulunan, stratejik denetimden sorumlu kişidir.",
+    "kisa_en": "He is the person who heads an institution or the board of directors and is responsible for strategic control."
   }
 ]
