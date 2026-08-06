@@ -147,9 +147,19 @@ dirs.sort().reverse().forEach(dateStr => {
   const badgeTag = isHistoricalArchive ? 
     `<span class="chip chip-en">Translated Archive</span>` : '';
 
-  const enEditorial = editorialMatch ? 
-    `Daily AI Tech Radar compilation for ${enDateFormatted}. Top developer tools, open-source repositories, and AI research papers captured from GitHub Trending, Hacker News, HuggingFace, and Lobsters.` :
-    `Daily AI Tech Radar compilation for ${enDateFormatted}.`;
+  // Gün sayfasının açılışı · İngilizce arşiv JSON'undaki GERÇEK editöryel.
+  // Önceden her gün için aynı tanıtım cümlesi basılıyordu ("Daily AI Tech Radar
+  // compilation for …") · 127 sayfa birbirinin kopyasıydı ve o günün raporu
+  // hakkında hiçbir şey söylemiyordu. Artık build-en-report.ts'in çevirdiği
+  // açılış metni kullanılıyor; yoksa eski tanıtım cümlesine düşer.
+  const enJsonPath = path.join(ROOT, 'reports', `${V.enPdf(dateStr).replace(/\.pdf$/, '')}.json`);
+  let enEditorial = `Daily AI Tech Radar compilation for ${enDateFormatted}.`;
+  if (fs.existsSync(enJsonPath)) {
+    try {
+      const enArchive = JSON.parse(fs.readFileSync(enJsonPath, 'utf8'));
+      if (enArchive.editorial) enEditorial = enArchive.editorial;
+    } catch { /* bozuk JSON · tanıtım cümlesi kalsın */ }
+  }
 
   const enReportDir = path.join(V.outDir, dateStr);
   fs.mkdirSync(enReportDir, { recursive: true });
