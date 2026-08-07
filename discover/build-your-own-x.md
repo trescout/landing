@@ -7,6 +7,8 @@ Build Your Own X ; veritabanı, işletim sistemi, Git, Docker ve programlama dil
 - Lisans: yok
 - GitHub Trending · 29 May 2026
 
+TreScout notu: Öğrenme deposu, kurulacak bir araç değil: Kendi veritabanınızı, kabuğunuzu ya da Git'inizi sıfırdan yazan rehberleri toplar. Bir teknolojiyi gerçekten anlamak istiyorsanız en verimli yol, ama akşam iki saatlik iş değil · her rehber günler sürer.
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 506.894 → 534.641.
 

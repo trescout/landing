@@ -14,6 +14,16 @@ spdlog, C++ programlama dili için geliştirilmiş çok hızlı bir günlük kay
 - Dosya, konsol ve hata ayıklayıcı gibi farklı hedeflere çıktı
 - Çalışma anında dinamik günlük seviyesi değiştirme
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install spdlog
+```
+
+Kaynak: Homebrew formülü
+
 ## Nasıl başlanır?
 
 Projenize dahil etmek için GitHub sayfasındaki include klasörünü çalışma dizininize kopyalamanız yeterlidir. Alternatif olarak, Debian, Homebrew veya vcpkg gibi paket yöneticileri üzerinden sisteminize uygun olan komutu kullanarak kütüphaneyi kurabilirsiniz.

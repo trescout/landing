@@ -6,6 +6,8 @@ OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanm
 - TypeScript
 - GitHub Trending · 2026-06-28
 
+TreScout notu: Terminalde çalışan açık kaynaklı kodlama ajanı. Modeli siz seçersiniz, kodunuz istediğiniz yere gider · karşılığında kurulum ve model masrafı sizin işiniz olur, hazır ürünlerin cilası yoktur.
+
 ## Güncelleme
 - 6 Ağustos 2026: Yıldız 193.021 → 193.974, son sürüm v1.18.14 (5 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 192.342 → 193.021, son sürüm v1.18.12 (4 Ağustos 2026).
@@ -15,24 +17,6 @@ OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanm
 - Yazılım geliştirme süreçlerini otonom olarak yönetir
 - Kod inceleme ve planlama için özel modlar sunar
 - Çok adımlı görevler için genel arama yeteneği sağlar
-
-## Kurulum
-
-**Masaüstü uygulaması kurulumu**
-
-```
-# macOS (Homebrew)
-brew install --cask opencode-desktop
-# Windows (Scoop)
-scoop bucket add extras; scoop install extras/opencode-desktop
-```
-
-**Özel dizin ile kurulum**
-
-```
-OPENCODE_INSTALL_DIR=/usr/local/bin curl -fsSL https://opencode.ai/install | bash
-XDG_BIN_DIR=$HOME/.local/bin curl -fsSL https://opencode.ai/install | bash
-```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

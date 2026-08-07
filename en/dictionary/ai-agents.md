@@ -31,6 +31,7 @@ Yes, agents can make mistakes, but advanced agents are designed to recognize the
 - [Agentic AI](/en/dictionary/agentic-ai/)
 
 ## Related tools
+- [AutoGPT](/en/discover/autogpt/)
 - [UI-TARS-desktop](/en/discover/ui-tars-desktop/)
 - [AI Agent Book](/en/discover/ai-agent-book/)
 - [Pentagi](/en/discover/pentagi/)
@@ -38,7 +39,6 @@ Yes, agents can make mistakes, but advanced agents are designed to recognize the
 - [Ego Lite](/en/discover/ego-lite/)
 - [Ag Kit](/en/discover/ag-kit/)
 - [GLM 5](/en/discover/glm-5/)
-- [K Skill](/en/discover/k-skill/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-agents/

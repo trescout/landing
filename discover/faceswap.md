@@ -14,6 +14,24 @@ Python tabanlı Faceswap, derin sahte (deepfake) teknolojisini kullanarak görü
 - Derin öğrenme modelleriyle eğitim
 - Görsel içeriklerde yüz ayıklama
 
+## Kurulum
+
+**Depoyu klonla**
+
+```
+git clone --depth 1 https://github.com/deepfakes/faceswap.git && cd faceswap
+```
+
+## Çalıştırma
+
+**Kurulum sihirbazı**
+
+```
+python setup.py
+```
+
+Kaynak: Depo README'si · faceswap.dev kurulum kılavuzu
+
 ## Nasıl başlanır?
 
 Aracı kullanmaya başlamak için öncelikle GitHub sayfasındaki INSTALL.md dosyasını inceleyerek sisteminize uygun kurulum adımlarını tamamlamanız gerekir. Kurulum sonrası yüzleri ayıklamak, model eğitmek veya dönüştürme yapmak için projenin bulunduğu klasör üzerinden komut satırını kullanabilirsiniz.

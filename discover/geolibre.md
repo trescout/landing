@@ -15,6 +15,16 @@ GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için 
 - Masaüstü, mobil ve Jupyter desteği
 - Yerel ve gizli veri işleme
 
+## Kurulum
+
+**pip ile (PyPI)**
+
+```
+pip install GeoLibre
+```
+
+Kaynak: PyPI · GeoLibre
+
 ## Nasıl başlanır?
 
 GeoLibre'yi kullanmaya başlamak için herhangi bir kurulum yapmanıza gerek yoktur. Tarayıcınız üzerinden web sürümüne erişebilir veya masaüstü işletim sisteminize uygun yükleyiciyi indirmek için resmî web sitesindeki indirme sayfasını ziyaret edebilirsiniz.

@@ -14,6 +14,16 @@ Baileys, WhatsApp Web protokolünü temel alan ve TypeScript ile JavaScript taba
 - TypeScript ve JavaScript tabanlı projeler geliştirin
 - Mesajlaşma işlevlerini kendi uygulamalarınıza ekleyin
 
+## Kurulum
+
+**npm ile**
+
+```
+npm install baileys
+```
+
+Kaynak: npm kayıt defteri
+
 ## Nasıl başlanır?
 
 Bu kütüphaneyi kullanmaya başlamak için öncelikle https://baileys.wiki adresindeki güncel rehberi inceleyebilirsiniz. Ayrıca projenin eski dokümantasyonuna GitHub üzerindeki README dosyasından veya NPM ana sayfasından ulaşarak temel bilgilere erişebilirsiniz.

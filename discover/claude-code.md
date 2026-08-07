@@ -7,6 +7,8 @@ Claude Code ; terminalinizde yaşayan ve kod tabanınızı derinlemesine anlayan
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
 
+TreScout notu: Terminalde çalışan kodlama ajanı: Depoyu okur, değişikliği yapar, komutu çalıştırır. Büyük kod tabanlarında kazancı belirgin; küçük düzeltmelerde araç kurmakla uğraşmak yerine elle yapmak daha hızlı olabilir.
+
 ## Güncelleme
 - 6 Ağustos 2026: Yıldız 140.160 → 140.418, son sürüm v2.1.223 (6 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 139.997 → 140.160, son sürüm v2.1.221 (4 Ağustos 2026).

@@ -14,6 +14,30 @@ Ansible, uygulama dağıtımı ve sistem yönetimi süreçlerini otomatikleştir
 - Aracı yazılım kurmadan yapılandırma yapın
 - Karmaşık güncellemeleri kolayca gerçekleştirin
 
+## Kurulum
+
+**pip ile (PyPI)**
+
+```
+pip install ansible
+```
+
+**macOS (Homebrew)**
+
+```
+brew install ansible
+```
+
+## Çalıştırma
+
+**Ansible playbook betiğini çalıştır**
+
+```
+ansible-playbook site.yml
+```
+
+Kaynak: PyPI (ansible) · Homebrew (ansible) · resmî Ansible dokümantasyonu (docs.ansible.com)
+
 ## Nasıl başlanır?
 
 Ansible kurulumu için resmî web sitesindeki kurulum rehberini ziyaret etmeniz gerekir. Farklı işletim sistemleri için hazırlanan detaylı adımlara Ansible'ın resmî dokümantasyon sayfasındaki kurulum kılavuzundan ulaşabilirsiniz.

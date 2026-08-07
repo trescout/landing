@@ -14,6 +14,30 @@ Plane, görev yönetimi, sprint planlama ve dokümantasyon süreçlerini bir ara
 - Karmaşık projeleri yönetilebilir modüllere ve döngülere bölme
 - Yapay zekâ destekli dokümantasyon ve analiz araçları
 
+## Kurulum
+
+**Kurulum betiğini indir**
+
+```
+curl -fsSL -o setup.sh https://github.com/makeplane/plane/releases/latest/download/setup.sh
+```
+
+**Çalıştırılabilir yap**
+
+```
+chmod +x setup.sh
+```
+
+## Çalıştırma
+
+**Kurulumu başlat (menüden 2)**
+
+```
+./setup.sh
+```
+
+Kaynak: Plane self-hosting kılavuzu · developers.plane.so
+
 ## Nasıl başlanır?
 
 Hızlıca başlamak için Plane Cloud üzerinden ücretsiz bir hesap oluşturabilirsiniz. Eğer kendi altyapınızda barındırmak isterseniz, resmî dokümantasyon sayfasındaki Docker veya Kubernetes kurulum rehberlerini takip ederek kendi sunucunuza kurulum yapabilirsiniz.
@@ -28,7 +52,7 @@ Hızlıca başlamak için Plane Cloud üzerinden ücretsiz bir hesap oluşturabi
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+Self-hosting Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/plane/

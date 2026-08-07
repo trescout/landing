@@ -15,6 +15,25 @@ Next.js, React tabanlı web uygulamaları geliştirmek için kullanılan bir çe
 - Statik site üretimi imkanı
 - Hızlı derleme için Rust tabanlı araçlar
 
+## Kurulum
+
+**npx ile yeni Next.js projesi oluştur**
+
+```
+npx create-next-app@latest my-app
+```
+
+## Çalıştırma
+
+**Geliştirme sunucusunu başlat**
+
+```
+cd my-app
+npm run dev
+```
+
+Kaynak: npm (create-next-app) · resmî Next.js dokümantasyonu (nextjs.org/docs)
+
 ## Nasıl başlanır?
 
 Next.js ile çalışmaya başlamak için resmî web sitesi olan nextjs.org adresini ziyaret edebilir ve burada yer alan öğrenme kursuna katılarak temel bilgileri edinebilirsiniz. Ayrıca tüm teknik detaylar ve kullanım kılavuzları için nextjs.org/docs bağlantısındaki dokümantasyon sayfasını inceleyebilirsiniz.

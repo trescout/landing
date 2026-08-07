@@ -6,6 +6,8 @@ Hello 算法, veri yapıları ve algoritmaları animasyonlu görselleştirmelerl
 - Java
 - GitHub Trending · 2026-06-16
 
+TreScout notu: Algoritmaları animasyonla anlatan bir kitap. Konu anlatımı görsel ve akıcı; kurulacak bir şey yok, kod örnekleri birçok dilde. Mülakat hazırlığından çok kavramı oturtmak için uygun.
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 127.220 → 129.072, son sürüm 1.3.0 (1 Ocak 2026).
 

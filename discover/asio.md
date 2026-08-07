@@ -11,6 +11,16 @@ Asio, eşzamansız giriş çıkış (asynchronous I/O) işlemleri için gelişti
 - Taşınabilir ağ programlama altyapısı kurma
 - Düşük seviyeli sistem görevlerini yönetme
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install asio
+```
+
+Kaynak: Homebrew formülü
+
 ## Nasıl başlanır?
 
 Asio bir C++ kütüphanesidir. Kullanmaya başlamak için https://think-async.com/ adresini ziyaret edebilir veya indirdiğiniz dosya içerisindeki doc/index.html yolunu takip ederek API dokümantasyonuna ve öğretici rehberlere ulaşabilirsiniz.

@@ -6,6 +6,8 @@ Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar
 - C++
 - GitHub Trending · 2026-06-08
 
+TreScout notu: Dil modellerini kendi bilgisayarınızda, sunucu kiralamadan çalıştırır. Kurulum artık kolay ama beklentiyi ayarlayın: Küçük modeller hızlı, büyükleri belleğinizi zorlar ve bulut hizmetlerinin cevap kalitesini beklemeyin.
+
 ## Güncelleme
 - 6 Ağustos 2026: Yıldız 122.866 → 122.872, son sürüm b10293 (6 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 122.857 → 122.866, son sürüm b10291 (6 Ağustos 2026).
@@ -16,20 +18,6 @@ Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar
 - Büyük dil modellerini standart donanımlarda verimli çalıştırır.
 - Düşük bellek kullanımı ile yüksek performans sağlar.
 - Yerel cihazlarda yapay zekâ modellerini çalıştırmayı kolaylaştırır.
-
-## Çalıştırma
-
-**Yerel model dosyası ile çalıştırma**
-
-```
-llama-cli -m my_model.gguf
-```
-
-**Hugging Face üzerinden model indirip çal**
-
-```
-llama-cli -hf ggml-org/gemma-3-1b-it-GGUF
-```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

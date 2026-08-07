@@ -15,6 +15,24 @@ Meshery, bulut yerlisi (cloud native) altyapıların yönetimi için tasarlanmı
 - Karmaşık YAML dosyalarıyla uğraşmadan görsel tasarım imkanı
 - Birden fazla bulut sağlayıcısı ve küme üzerinde tutarlı operasyon
 
+## Kurulum
+
+**Bash Script**
+
+```
+curl -L https://meshery.io/install | bash -
+```
+
+## Çalıştırma
+
+**CLI**
+
+```
+mesheryctl system start
+```
+
+Kaynak: Resmi Dokümantasyon
+
 ## Nasıl başlanır?
 
 Meshery'yi kullanmaya başlamak için tarayıcınız üzerinden meshery.io adresini ziyaret edebilir veya doğrudan play.meshery.io bağlantısı üzerinden sunulan Cloud Native Playground ortamını deneyebilirsiniz.
@@ -29,7 +47,7 @@ Meshery'yi kullanmaya başlamak için tarayıcınız üzerinden meshery.io adres
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Cloud Native Service Mesh Mesh
+Cloud Native Service Mesh Script Mesh CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/meshery/

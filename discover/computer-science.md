@@ -6,6 +6,8 @@ Bilgisayar bilimleri (computer science) alanında ücretsiz ve kendi kendine ö�
 - HTML
 - GitHub Trending · 2026-07-17
 
+TreScout notu: Üniversite müfredatını ücretsiz kaynaklarla yeniden kuran bir yol haritası. Disiplin gerektirir: Yanınızda ders veren kimse yok, ilerlemeyi kendiniz ölçersiniz. Diploma yerine geçmez ama boşluklarınızı kapatmak için iyi bir harita.
+
 ## Ne kazandırır?
 - Akademik standartlarda yapılandırılmış müfredat
 - Dünya çapında üniversitelerden ders içerikleri

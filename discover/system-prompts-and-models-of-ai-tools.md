@@ -5,6 +5,8 @@ Popüler yapay zekâ araçlarının sistem yönergeleri (system prompts) ve kull
 - ★ 139.309
 - GitHub Trending · 2026-06-10
 
+TreScout notu: Popüler yapay zekâ araçlarının sistem yönergelerini toplar. Kendi istem tasarımınız için fikir verir; içeriğin doğruluğu sızıntılara dayandığı için garanti değildir ve araçlar güncellendikçe bayatlar.
+
 ## Ne kazandırır?
 - Popüler yapay zekâ araçlarının sistem yönergelerine erişim sağlar.
 - Kullanılan dil modellerinin yapılandırma stratejilerini şeffaflaştırır.

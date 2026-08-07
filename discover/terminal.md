@@ -14,6 +14,24 @@ Microsoft, Windows Terminal ve geleneksel Windows konsol ana bilgisayarını (co
 - Çoklu sekme desteği
 - Gelişmiş komut satırı performansı
 
+## Kurulum
+
+**Windows (winget)**
+
+```
+winget install Microsoft.WindowsTerminal
+```
+
+## Çalıştırma
+
+**Komut satırından çalıştır**
+
+```
+wt
+```
+
+Kaynak: winget (Microsoft.WindowsTerminal) · resmî Microsoft dokümantasyonu (learn.microsoft.com)
+
 ## Nasıl başlanır?
 
 Windows Terminal uygulamasını Microsoft Store üzerinden kolayca indirebilirsiniz. Alternatif olarak GitHub üzerindeki Releases sayfasından güncel sürümü manuel olarak indirebilir veya winget, Chocolatey ya da Scoop gibi paket yöneticilerini kullanarak bilgisayarınıza kurabilirsiniz.

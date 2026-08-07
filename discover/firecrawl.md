@@ -6,6 +6,8 @@ Firecrawl, web sitelerindeki verileri büyük ölçekte taramak, ayıklamak ve y
 - TypeScript
 - GitHub Trending · 2026-06-23
 
+TreScout notu: Web sitelerini yapay zekâya verilebilecek temiz metne çevirir. Kendi sunucunuzda çalıştırabilirsiniz ama ölçek büyüdükçe iş, tarama etiği ve hız sınırlarını yönetmeye dönüşür: Hedef sitenin kullanım şartlarını okumadan başlamayın.
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 137.683 → 159.421, son sürüm v2.11.0 (19 Haziran 2026).
 
@@ -13,27 +15,6 @@ Firecrawl, web sitelerindeki verileri büyük ölçekte taramak, ayıklamak ve y
 - Web sitelerini temiz metin formatına dönüştürür
 - Yapay zekâ ajanları için veri toplar
 - Karmaşık web sayfalarıyla etkileşime girer
-
-## Kurulum
-
-**Ajan kurulumu**
-
-```
-npx -y firecrawl-cli@latest init --all --browser
-```
-
-## Çalıştırma
-
-**Web sitesini tarama**
-
-```
-curl -X POST 'https://api.firecrawl.dev/v2/scrape' \
--H 'Authorization: Bearer fc-YOUR_API_KEY' \
--H 'Content-Type: application/json' \
--d '{
-"url": "firecrawl.dev"
-}'
-```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

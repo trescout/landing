@@ -14,6 +14,24 @@ Tailwind CSS, hızlı kullanıcı arayüzü geliştirmeye odaklanan bir yardımc
 - Hazır bileşenlerle uğraşmadan arayüz geliştirin
 - Modern web projelerinde hızlı stil yönetimi sağlayın
 
+## Kurulum
+
+**npm ile**
+
+```
+npm install tailwindcss @tailwindcss/cli
+```
+
+## Çalıştırma
+
+**CSS üret**
+
+```
+npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
+```
+
+Kaynak: npm kayıt defteri
+
 ## Nasıl başlanır?
 
 Bu aracı kullanmaya başlamak için resmî web sitesi olan tailwindcss.com adresini ziyaret ederek kurulum ve kullanım dokümanlarını inceleyebilirsiniz.

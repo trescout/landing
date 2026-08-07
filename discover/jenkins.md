@@ -15,6 +15,30 @@ Jenkins, yazılım geliştirme süreçlerini otomatize eden açık kaynaklı bir
 - Geniş eklenti desteğiyle süreçleri özelleştirme imkânı sunar
 - Hata tespiti ve dağıtım aşamalarını hızlandırır
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install jenkins
+```
+
+**Docker imajı**
+
+```
+docker pull jenkins/jenkins:lts
+```
+
+## Çalıştırma
+
+**Docker ile başlat (http://localhost:8080)**
+
+```
+docker run -p 8080:8080 -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts
+```
+
+Kaynak: Homebrew formülü · Docker Hub jenkins/jenkins
+
 ## Nasıl başlanır?
 
 Resmî web sitesi olan jenkins.io adresindeki indirme sayfasına giderek platformunuza uygun WAR dosyası, Docker imajı veya yerel paketlerden birini seçip kurulum adımlarını takip edebilirsiniz.

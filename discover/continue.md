@@ -7,6 +7,8 @@ Continue, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanm
 
 TreScout notu: Kod yazarken yardımcı olan yapay zekâ asistanı. Hazır asistanlardan farkı, hangi modeli kullanacağınıza sizin karar vermeniz: Kendi anahtarınızı ya da bilgisayarınızda çalışan bir modeli bağlarsınız, kodunuz dışarı çıkmaz. Karşılığında kurulum ve model seçimi sizin işiniz olur, deneyim hazır ürünler kadar cilalı değildir.
 
+_Kaynak: github.com/continuedev/continue · Apache-2.0_
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 34.017 → 35.282, son sürüm v2.0.0-vscode (19 Haziran 2026).
 

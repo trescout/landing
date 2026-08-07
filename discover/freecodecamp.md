@@ -6,6 +6,8 @@ freeCodeCamp, matematik, programlama ve bilgisayar bilimi konularında ücretsiz
 - TypeScript
 - GitHub Trending · 2026-06-15
 
+TreScout notu: Sıfırdan başlayanlar için tam bir müfredat, üstelik tarayıcıda çalışan alıştırmalarla. Sertifikaların iş başvurusunda ağırlığı sınırlı, asıl değeri yapılandırılmış sırada: Nereden başlayacağınızı bilmiyorsanız aradığınız şey bu.
+
 ## Ne kazandırır?
 - Uygulamalı müfredat ile yazılım geliştirme becerisi kazanımı.
 - Sektörde geçerliliği olan ücretsiz sertifikalar.

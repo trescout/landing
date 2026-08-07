@@ -14,6 +14,24 @@ Tesla araç sahipleri için geliştirilen Teslamate, verileri kendi sunucunuzda 
 - Batarya sağlığını ve verimliliğini takip edin
 - Kişisel sunucunuzda tam veri kontrolü sağlayın
 
+## Kurulum
+
+**Resmî kılavuzdaki docker-compose.yml dosyasını oluşturun (veritabanı parolası ve şifreleme anahtarı sizin)**
+
+```
+docker compose pull
+```
+
+## Çalıştırma
+
+**Başlat (http://localhost:4000)**
+
+```
+docker compose up -d
+```
+
+Kaynak: TeslaMate dokümanı · docs.teslamate.org/docs/installation/docker
+
 ## Nasıl başlanır?
 
 Kurulum ve kullanım için resmî dokümantasyon sayfasını ziyaret etmeniz gerekmektedir. Tüm kurulum adımları, yapılandırma rehberleri ve güncel talimatlar için https://docs.teslamate.org adresindeki resmî dokümanları inceleyerek başlayabilirsiniz.

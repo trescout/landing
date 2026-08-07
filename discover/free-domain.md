@@ -7,6 +7,8 @@ FreeDomain , herkesin dijital bir kimliğe sahip olabilmesi için ücretsiz alan
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
 
+TreScout notu: Ücretsiz alan adı veren sağlayıcıları listeler. Deneme projesi ve öğrenci işleri için iyi; kalıcı bir şey kuracaksanız uzak durun, bu adlar aniden geri alınabiliyor ve e-posta itibarları zayıf.
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 166.947 → 190.061.
 

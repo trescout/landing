@@ -1,4 +1,4 @@
-# Kendi sunucunuzda yapay zekâ destekli seyahat planlayıcı
+# Seyahat planlarınızı birlikte yönetin
 
 TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılan (self-hosted) bir seyahat planlama uygulamasıdır. Aşamalı web uygulaması (PWA) desteği ve tek oturum açma (SSO) entegrasyonu ile kullanıcıların seyahat süreçlerini dijital ortamda organize etmelerine olanak tanır.
 
@@ -33,7 +33,7 @@ Sen bir seyahat asistanısın. TREK üzerindeki MCP (Model Context Protocol) ara
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-PWA SSO Self-hosted Model Context Protocol Model Context Protocol MCP
+PWA SSO Self-hosted Model Context Protocol Model Context Protocol Context
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/trek/

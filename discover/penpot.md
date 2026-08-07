@@ -14,6 +14,24 @@ Penpot, tasarımcılar ve yazılımcılar arasında iş birliğini güçlendiren
 - Açık standartlar ve tasarım belirteçleri sunar
 - Gerçek zamanlı ekip iş birliği sağlar
 
+## Kurulum
+
+**Resmî compose dosyasını indir**
+
+```
+curl -o docker-compose.yaml https://raw.githubusercontent.com/penpot/penpot/main/docker/images/docker-compose.yaml
+```
+
+## Çalıştırma
+
+**Başlat (http://localhost:9001)**
+
+```
+docker compose -p penpot -f docker-compose.yaml up -d
+```
+
+Kaynak: Penpot teknik kılavuzu · help.penpot.app/technical-guide/getting-started/docker/
+
 ## Nasıl başlanır?
 
 Penpot kullanmaya başlamak için resmî web sitesi olan penpot.app adresini ziyaret edebilirsiniz. Tasarımı tarayıcı üzerinden kullanabilir veya kendi sunucularınıza kurmak isterseniz teknik dokümanlar bölümündeki self-hosting rehberlerini inceleyebilirsiniz.

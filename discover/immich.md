@@ -14,6 +14,26 @@ Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yükse
 - Yüz tanıma ve nesne tabanlı arama
 - Mobil ve web üzerinden yedekleme
 
+## Kurulum
+
+**Docker Compose yapılandırmasını indir**
+
+```
+mkdir immich-app && cd immich-app
+wget -O docker-compose.yml https://github.com/immich-app/immich/releases/latest/download/docker-compose.yml
+wget -O .env https://github.com/immich-app/immich/releases/latest/download/example.env
+```
+
+## Çalıştırma
+
+**Docker servislerini başlat**
+
+```
+docker compose up -d
+```
+
+Kaynak: Resmî Immich dokümantasyonu (immich.app/docs/install/docker-compose)
+
 ## Nasıl başlanır?
 
 Kurulum ve kullanım detayları için resmî dokümantasyon sayfasını ziyaret edin. https://immich.app/ adresindeki kurulum rehberlerini takip ederek kendi sunucunuz üzerinde medya yönetiminizi başlatabilirsiniz.

@@ -14,6 +14,24 @@ Google tarafından geliştirilen protokol tamponları (protocol buffers), yapıl
 - Dilden bağımsız veri serileştirme
 - Esnek ve genişletilebilir veri yapısı
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install protobuf
+```
+
+## Çalıştırma
+
+**Şema derle**
+
+```
+protoc --cpp_out=. dosya.proto
+```
+
+Kaynak: Homebrew formülü
+
 ## Nasıl başlanır?
 
 Protobuf kullanmaya başlamak için resmî dokümantasyon sitesini ziyaret edebilir veya GitHub sürümleri sayfasından işletim sisteminize uygun önceden derlenmiş ikili dosyaları indirebilirsiniz. Kullandığınız programlama diline özel çalışma zamanı kütüphanelerini yüklemek için ilgili kaynak dizinlerindeki talimatları takip etmeniz gerekmektedir.

@@ -14,6 +14,16 @@ gRPC, farklı programlama dilleri arasında yüksek performanslı iletişim sağ
 - Yüksek performanslı ağ hizmetleri geliştirilmesine yardımcı olur
 - Dağıtık sistemlerin kurulumunu ve yönetimini basitleştirir
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install grpc
+```
+
+Kaynak: Homebrew formülü
+
 ## Nasıl başlanır?
 
 gRPC kullanmaya başlamak için öncelikle grpc.io adresindeki resmî web sitesini ziyaret etmelisiniz. Burada yer alan dokümantasyon bölümünden kullandığınız programlama diline özel hızlı başlangıç kılavuzlarını ve öğreticileri inceleyerek projenize uygun kurulum adımlarını takip edebilirsiniz.

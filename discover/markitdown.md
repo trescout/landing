@@ -7,6 +7,8 @@ MarkItDown (Microsoft); Word, PDF, PowerPoint, Excel ve daha fazlasını büyük
 - MIT
 - GitHub Trending · 29 May 2026
 
+TreScout notu: Word, PDF ve Excel dosyalarını yapay zekâya vermeden önce düz metne çevirir. Tablolar ve karmaşık düzenler her zaman temiz çıkmaz, çıktıyı gözden geçirmeniz gerekir · yine de elle kopyala yapıştırdan çok daha iyi.
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 128.420 → 170.726, son sürüm v0.1.7 (29 Temmuz 2026).
 

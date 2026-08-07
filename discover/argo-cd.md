@@ -15,6 +15,30 @@ Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarativ
 - Bildirimsel ve izlenebilir dağıtım süreçleri
 - Kubernetes ortamlarında kolaylaştırılmış yaşam döngüsü yönetimi
 
+## Kurulum
+
+**Namespace oluştur**
+
+```
+kubectl create namespace argocd
+```
+
+**Resmî manifesti uygula**
+
+```
+kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
+```
+
+## Çalıştırma
+
+**Arayüze eriş**
+
+```
+kubectl port-forward svc/argocd-server -n argocd 8080:443
+```
+
+Kaynak: Argo CD resmî manifesti (argoproj/argo-cd · stable)
+
 ## Nasıl başlanır?
 
 Argo CD kullanmaya başlamak için resmî dokümantasyon sayfasını ziyaret ederek kurulum adımlarını takip edebilirsiniz. Projenin nasıl çalıştığını anlamak için hazırlanan canlı demoyu inceleyebilir ve kapsamlı rehberlere ulaşmak için Argo CD dokümantasyon sitesine göz atabilirsiniz.

@@ -5,21 +5,12 @@ Coding-interview-university, yazılım mühendisi olmak isteyenler için bilgisa
 - ★ 349.290
 - GitHub Trending · 2026-06-04
 
+TreScout notu: Aylara yayılan bir mülakat hazırlık planı. Listeyi olduğu gibi bitirmeye çalışmak çoğu kişide tükenmeye yol açıyor; hedef şirketin sorduğu konuları seçip o dallara odaklanmak daha gerçekçi.
+
 ## Ne kazandırır?
 - Teknik mülakatlar için yapılandırılmış bilgisayar bilimleri müfredatı
 - Veri yapıları ve algoritmalar konusunda derinlemesine teorik bilgi
 - Yazılım mühendisliği mülakat süreçlerine yönelik kapsamlı hazırlık
-
-## Kurulum
-
-**Depoyu Klonlama**
-
-```
-git clone https://github.com/ /coding-interview-university.git
-cd coding-interview-university
-git remote add upstream https://github.com/jwasham/coding-interview-university.git
-git remote set-url --push upstream DISABLE # so that you don't push your personal progress back to the original repo
-```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

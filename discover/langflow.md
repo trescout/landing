@@ -6,6 +6,8 @@ Langflow, yapay zekâ destekli ajanlar ve iş akışları oluşturmak için gör
 - Python
 - GitHub Trending · 2026-07-03
 
+TreScout notu: Yapay zekâ iş akışını kod yazmadan, kutuları bağlayarak kurarsınız. Fikir denemek ve göstermek için hızlı; akış büyüdüğünde görsel şema okunaksızlaşır ve sürüm takibi zorlaşır, o noktada koda geçmek gerekir.
+
 ## Güncelleme
 - 6 Ağustos 2026: Yıldız 152.754 → 152.874, son sürüm v1.11.2 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 150.932 → 152.754, son sürüm v1.11.1 (28 Temmuz 2026).
@@ -14,22 +16,6 @@ Langflow, yapay zekâ destekli ajanlar ve iş akışları oluşturmak için gör
 - Sürükle bırak yöntemiyle yapay zekâ ajanları tasarlama
 - İş akışlarını API veya MCP sunucusu olarak yayına alma
 - Büyük dil modelleri ve vektör veritabanlarıyla entegrasyon
-
-## Kurulum
-
-**Paket kurulumu**
-
-```
-uv pip install langflow -U
-```
-
-## Çalıştırma
-
-**Uygulamayı başlatma**
-
-```
-uv run langflow run
-```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

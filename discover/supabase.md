@@ -14,6 +14,31 @@ Supabase, web, mobil ve yapay zekâ uygulamaları geliştirmek için Postgres ve
 - Otomatik API ve kimlik doğrulama sağlar
 - Yapay zekâ ve vektör desteği içerir
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install supabase/tap/supabase
+```
+
+**npm ile geliştirme bağımlılığı olarak ekle**
+
+```
+npm install -D supabase
+```
+
+## Çalıştırma
+
+**Yerel Supabase geliştirme ortamını başlat**
+
+```
+supabase init
+supabase start
+```
+
+Kaynak: Homebrew (supabase/tap/supabase) · npm (supabase) · resmî dokümantasyon (supabase.com/docs)
+
 ## Nasıl başlanır?
 
 Supabase bulut tabanlı bir platformdur, herhangi bir kurulum yapmanız gerekmez. Başlamak için supabase.com adresine giderek bir hesap oluşturabilir ve tarayıcı üzerinden kontrol panelini kullanmaya başlayabilirsiniz.

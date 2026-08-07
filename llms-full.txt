@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-07 · 397 araç · 481 terim
+Son güncelleme: 2026-08-07 · 400 araç · 486 terim
 
 ---
 
@@ -3330,6 +3330,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Caching nedir?
+
+**Kategori:** Veri & Altyapı  
+**Son güncelleme:** 2026-08-07
+
+Sık kullanılan verilerin, hızlı erişim sağlamak amacıyla geçici olarak bellekte saklanmasıdır.
+
+## Tanım
+Caching, bir sistemin aynı veriyi tekrar tekrar hesaplamasını veya uzak bir kaynaktan çekmesini engellemek için kullanılan bir hızlandırma yöntemidir. Veri, hızlı erişilebilen bir alana (önbelleğe) kopyalanır ve ihtiyaç duyulduğunda buradan sunulur. Bu, sistemin genel yanıt süresini ciddi oranda düşürür.
+
+## Bir benzetmeyle
+Sürekli kullandığınız bir kitabı çantanızda taşımak gibidir; her seferinde kütüphaneye gidip kitabı raftan almanız gerekmez, elinizin altındadır.
+
+## Nasıl çalışır?
+Sistem, bir veriyi talep ettiğinde önce önbelleğe bakar; veri oradaysa hemen alır, yoksa ana kaynaktan çeker ve bir kopyasını önbelleğe bırakır.
+
+## Nerede kullanılır?
+Web tarayıcılarında, uygulamalarda ve büyük ölçekli veri merkezlerinde performansı artırmak için yaygın olarak kullanılır.
+
+## Sık karıştırılanlar
+Veritabanı ile karıştırılabilir ancak cache geçici ve hızlıdır, veritabanı ise kalıcı ve daha geniştir.
+
+## Sıkça sorulanlar
+
+**Önbellek dolarsa ne olur?**  
+Eski veya az kullanılan veriler silinir ve yerlerine yeni veriler yazılır.
+
+## İlgili terimler
+- [KV Cache](/dictionary/kv-cache/)
+- [Prefix Cache](/dictionary/prefix-cache/)
+- [Database](/dictionary/database/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/caching/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # CCUsage nedir?
 
 > Compute Consumption Usage
@@ -4988,6 +5027,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Context nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-07
+
+Yapay zekânın bir konuyu doğru anlaması için ihtiyaç duyduğu geçmiş bilgiler ve mevcut durumun bütünüdür.
+
+## Tanım
+Context, yapay zekâya bir soruyu cevaplarken veya bir görevi yerine getirirken yardımcı olan arka plan bilgisidir. Bu bilgi, önceki konuşmaları, yüklenen belgeleri veya sistemin o anki durumunu içerebilir. Yeterli context sağlanmadığında yapay zekâ, konunun detaylarını kaçırabilir veya genel geçer cevaplar verebilir.
+
+## Bir benzetmeyle
+Bir arkadaşınızla sohbet ederken, sadece 'Evet, o da öyle dedi' derseniz sizi anlamaz; ancak 'Dün konuştuğumuz o filmden bahsediyorum' derseniz context sağlamış olursunuz.
+
+## Nasıl çalışır?
+Geliştiriciler, yapay zekâya talimat verirken geçmiş diyalogları veya ilgili dokümanları sisteme girdi olarak verirler.
+
+## Nerede kullanılır?
+Sohbet botlarında, kod yazma araçlarında ve karmaşık görevleri yöneten yapay zekâ sistemlerinde kullanılır.
+
+## Sık karıştırılanlar
+Prompt ile karıştırılabilir; prompt komutun kendisidir, context ise bu komutu anlamlı kılan arka plandır.
+
+## Sıkça sorulanlar
+
+**Context window neyi ifade eder?**  
+Yapay zekânın tek seferde işleyebileceği toplam bilgi kapasitesini ifade eder.
+
+## İlgili terimler
+- [Context Window](/dictionary/context-window/)
+- [Prompt](/dictionary/prompt/)
+- [RAG](/dictionary/rag/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/context/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Context Reduction nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -5264,6 +5342,45 @@ Hayır, tekerleği yeniden icat etmemek ve en iyi pratikleri (best practices) ku
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/cookbooks/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Core Libraries nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-07
+
+Bir yazılımın temel işlevlerini yerine getirmesi için ihtiyaç duyduğu standart kod paketleridir.
+
+## Tanım
+Core libraries, bir programlama dilinin veya platformun en temel yapı taşlarını içinde barındıran hazır kod kütüphaneleridir. Bu kütüphaneler, geliştiricilerin her defasında en baştan kod yazmak yerine, standart işlemleri hızlıca yapmalarına olanak tanır. Bir binanın temel kolonları gibi, yazılımın ayakta kalmasını ve düzgün çalışmasını sağlayan vazgeçilmez parçalardır.
+
+## Bir benzetmeyle
+Bir mutfaktaki temel baharatlar ve temel pişirme gereçleri gibidir; yemek yaparken her seferinde tuzu icat etmenize gerek kalmaz, elinizin altındaki bu temel araçlarla tarifi tamamlarsınız.
+
+## Nasıl çalışır?
+Geliştiriciler, projelerine bu kütüphaneleri dahil ederek karmaşık matematiksel işlemleri, veri yönetimini veya dosya işlemlerini tek satırlık komutlarla hallederler.
+
+## Nerede kullanılır?
+Neredeyse tüm programlama dillerinde ve işletim sistemi geliştirmelerinde kullanılır.
+
+## Sık karıştırılanlar
+Framework veya SDK ile karıştırılabilir ancak core libraries daha çok temel işlevselliği, frameworkler ise daha geniş bir uygulama iskeletini ifade eder.
+
+## Sıkça sorulanlar
+
+**Core libraries neden önemlidir?**  
+Yazılım geliştirme sürecini hızlandırır, hataları azaltır ve kodun daha kararlı çalışmasını sağlar.
+
+## İlgili terimler
+- [Framework](/dictionary/framework/)
+- [SDK](/dictionary/sdk/)
+- [Common Libraries](/dictionary/common-libraries/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/core-libraries/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -17033,6 +17150,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Taste nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-07
+
+Bir teknolojik ürünün veya tasarımın estetik ve işlevsel kalitesini ayırt edebilme yetisidir.
+
+## Tanım
+Teknolojide taste, sadece bir şeyin çalışması değil, aynı zamanda kullanıcıya sunduğu deneyimin ne kadar zarif, tutarlı ve etkili olduğuyla ilgilidir. İyi bir taste sahibi olmak, karmaşık bir yapay zekâ sistemini basit ve anlaşılır bir arayüzle sunabilmek veya bir kodun sadece doğru değil, aynı zamanda temiz ve sürdürülebilir olmasını sağlamaktır.
+
+## Bir benzetmeyle
+İyi bir şefin, yemeğin sadece doymak için değil, bir lezzet dengesiyle sunulması gerektiğini bilmesi gibidir.
+
+## Nasıl çalışır?
+Kullanıcı geri bildirimlerini analiz ederek, tasarım prensiplerine uyarak ve sürekli olarak 'daha iyi nasıl olur' sorusunu sorarak geliştirilir.
+
+## Nerede kullanılır?
+Ürün tasarımı, yazılım geliştirme ve yapay zekâ arayüzlerinin oluşturulmasında kritik bir rol oynar.
+
+## Sık karıştırılanlar
+Sadece tasarım ile karıştırılabilir ancak taste, işlevsellik ve estetiğin birleştiği daha derin bir vizyondur.
+
+## Sıkça sorulanlar
+
+**Taste geliştirilebilir mi?**  
+Evet, farklı teknolojileri inceleyerek, iyi örnekleri analiz ederek ve sürekli pratik yaparak zamanla gelişir.
+
+## İlgili terimler
+- [Design Language](/dictionary/design-language/)
+- [User Experience](/dictionary/user-experience/)
+- [Clean Code](/dictionary/clean-code/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/taste/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # TDD nedir?
 
 > Test-Driven Development
@@ -17343,6 +17499,45 @@ Modern modellerle evet, ancak yazının okunabilirliği sonuç kalitesini doğru
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/text-extraction/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Text Generation nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-07
+
+Bilgisayarın verilen komutlara dayanarak anlamlı ve doğal cümleler kurarak metin üretmesidir.
+
+## Tanım
+Text generation, yapay zekânın dil modellerini kullanarak bir sonraki kelimeyi tahmin etme yeteneğine dayanır. Bu süreç, basit bir e-posta taslağından karmaşık bir hikâye yazımına kadar geniş bir yelpazeyi kapsar. Makine, öğrendiği devasa veri setleri sayesinde insan diline çok yakın, akıcı ve bağlama uygun metinler oluşturabilir.
+
+## Bir benzetmeyle
+Birinin size bir cümle başlattığında, cümlenin devamını tahmin edip tamamlaması gibidir; ancak bilgisayar bunu milyarlarca olasılığı hesaplayarak yapar.
+
+## Nasıl çalışır?
+Kullanıcı bir prompt (komut) girer, model bu komutu analiz eder ve istatistiksel olarak en uygun kelimeleri sırayla dizerek metni oluşturur.
+
+## Nerede kullanılır?
+Sohbet robotlarında, içerik üretim araçlarında ve çeviri sistemlerinde kullanılır.
+
+## Sık karıştırılanlar
+Otomatik tamamlama ile karıştırılabilir ancak text generation çok daha geniş kapsamlı ve yaratıcıdır.
+
+## Sıkça sorulanlar
+
+**Yapay zekâ metin üretirken hata yapar mı?**  
+Evet, bazen gerçek dışı bilgiler üretebilir, buna 'halüsinasyon' denir.
+
+## İlgili terimler
+- [LLM](/dictionary/llm/)
+- [Prompt](/dictionary/prompt/)
+- [Hallucination](/dictionary/hallucination/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/text-generation/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -19757,6 +19952,8 @@ Build Your Own X ; veritabanı, işletim sistemi, Git, Docker ve programlama dil
 - Lisans: yok
 - GitHub Trending · 29 May 2026
 
+TreScout notu: Öğrenme deposu, kurulacak bir araç değil: Kendi veritabanınızı, kabuğunuzu ya da Git'inizi sıfırdan yazan rehberleri toplar. Bir teknolojiyi gerçekten anlamak istiyorsanız en verimli yol, ama akşam iki saatlik iş değil · her rehber günler sürer.
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 506.894 → 534.641.
 
@@ -19836,6 +20033,8 @@ freeCodeCamp, matematik, programlama ve bilgisayar bilimi konularında ücretsiz
 - TypeScript
 - GitHub Trending · 2026-06-15
 
+TreScout notu: Sıfırdan başlayanlar için tam bir müfredat, üstelik tarayıcıda çalışan alıştırmalarla. Sertifikaların iş başvurusunda ağırlığı sınırlı, asıl değeri yapılandırılmış sırada: Nereden başlayacağınızı bilmiyorsanız aradığınız şey bu.
+
 ## Ne kazandırır?
 - Uygulamalı müfredat ile yazılım geliştirme becerisi kazanımı.
 - Sektörde geçerliliği olan ücretsiz sertifikalar.
@@ -19868,6 +20067,8 @@ System Design Primer, büyük ölçekli yazılım sistemleri tasarlamak isteyenl
 - ★ 360.710
 - Python
 - GitHub Trending · 2026-08-04
+
+TreScout notu: Teknik mülakatın sistem tasarımı bölümüne çalışanların ilk durağı. Kavramları güzel toparlar ama örnekler klasik ölçekli sistemler üzerinden: Kendi işinizdeki mimariyi buradan kopyalamayın, düşünme çerçevesi olarak kullanın.
 
 ## Ne kazandırır?
 - Büyük ölçekli sistem mimarisi prensiplerini öğrenin
@@ -19903,21 +20104,12 @@ Coding-interview-university, yazılım mühendisi olmak isteyenler için bilgisa
 - ★ 349.290
 - GitHub Trending · 2026-06-04
 
+TreScout notu: Aylara yayılan bir mülakat hazırlık planı. Listeyi olduğu gibi bitirmeye çalışmak çoğu kişide tükenmeye yol açıyor; hedef şirketin sorduğu konuları seçip o dallara odaklanmak daha gerçekçi.
+
 ## Ne kazandırır?
 - Teknik mülakatlar için yapılandırılmış bilgisayar bilimleri müfredatı
 - Veri yapıları ve algoritmalar konusunda derinlemesine teorik bilgi
 - Yazılım mühendisliği mülakat süreçlerine yönelik kapsamlı hazırlık
-
-## Kurulum
-
-**Depoyu Klonlama**
-
-```
-git clone https://github.com/ /coding-interview-university.git
-cd coding-interview-university
-git remote add upstream https://github.com/jwasham/coding-interview-university.git
-git remote set-url --push upstream DISABLE # so that you don't push your personal progress back to the original repo
-```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -20125,6 +20317,8 @@ Bilgisayar bilimleri (computer science) alanında ücretsiz ve kendi kendine ö�
 - HTML
 - GitHub Trending · 2026-07-17
 
+TreScout notu: Üniversite müfredatını ücretsiz kaynaklarla yeniden kuran bir yol haritası. Disiplin gerektirir: Yanınızda ders veren kimse yok, ilerlemeyi kendiniz ölçersiniz. Diploma yerine geçmez ama boşluklarınızı kapatmak için iyi bir harita.
+
 ## Ne kazandırır?
 - Akademik standartlarda yapılandırılmış müfredat
 - Dünya çapında üniversitelerden ders içerikleri
@@ -20161,6 +20355,8 @@ OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanm
 - TypeScript
 - GitHub Trending · 2026-06-28
 
+TreScout notu: Terminalde çalışan açık kaynaklı kodlama ajanı. Modeli siz seçersiniz, kodunuz istediğiniz yere gider · karşılığında kurulum ve model masrafı sizin işiniz olur, hazır ürünlerin cilası yoktur.
+
 ## Güncelleme
 - 6 Ağustos 2026: Yıldız 193.021 → 193.974, son sürüm v1.18.14 (5 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 192.342 → 193.021, son sürüm v1.18.12 (4 Ağustos 2026).
@@ -20170,24 +20366,6 @@ OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanm
 - Yazılım geliştirme süreçlerini otonom olarak yönetir
 - Kod inceleme ve planlama için özel modlar sunar
 - Çok adımlı görevler için genel arama yeteneği sağlar
-
-## Kurulum
-
-**Masaüstü uygulaması kurulumu**
-
-```
-# macOS (Homebrew)
-brew install --cask opencode-desktop
-# Windows (Scoop)
-scoop bucket add extras; scoop install extras/opencode-desktop
-```
-
-**Özel dizin ile kurulum**
-
-```
-OPENCODE_INSTALL_DIR=/usr/local/bin curl -fsSL https://opencode.ai/install | bash
-XDG_BIN_DIR=$HOME/.local/bin curl -fsSL https://opencode.ai/install | bash
-```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -20219,6 +20397,8 @@ FreeDomain , herkesin dijital bir kimliğe sahip olabilmesi için ücretsiz alan
 - HTML
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
+
+TreScout notu: Ücretsiz alan adı veren sağlayıcıları listeler. Deneme projesi ve öğrenci işleri için iyi; kalıcı bir şey kuracaksanız uzak durun, bu adlar aniden geri alınabiliyor ve e-posta itibarları zayıf.
 
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 166.947 → 190.061.
@@ -20260,6 +20440,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Otonom yapay zekâ ajanları oluşturun
+
+AutoGPT, karmaşık görevleri kendi başına planlayıp yürütebilen otonom yapay zekâ ajanları (autonomous AI agents) oluşturmayı sağlayan açık kaynaklı bir Python projesidir. Kullanıcıların belirlediği hedeflere ulaşmak için internette arama yapma ve dosya yönetimi gibi işlemleri otomatikleştirerek yapay zekâ erişimini kolaylaştırır.
+
+- ★ 186.094
+- Python
+- GitHub Trending · 2026-08-07
+
+## Ne kazandırır?
+- Karmaşık iş akışlarını otomatikleştirerek haftalık zaman tasarrufu sağlar.
+- Doğal dilde verilen komutları çalışan bir yapay zekâ ajanına dönüştürür.
+- Görsel arayüz üzerinden ajan adımlarını özelleştirme ve yönetme imkânı sunar.
+
+## Kurulum
+
+**macOS ve Linux için kurulum**
+
+```
+curl -fsSL https://setup.agpt.co/install.sh -o install.sh && bash install.sh
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Belirlediğim hedefe ulaşmak için internette arama yapma, dosya yönetimi ve iş akışı planlama yeteneklerini kullanarak otonom bir ajan oluştur. İşin sonucunu net bir şekilde tanımlamamı bekle ve bu süreçte gerekli tüm adımları otomatik olarak yürüt.
+
+- **Kimin için:** Tekrarlayan iş süreçlerini otomatikleştirmek isteyen ve karmaşık görevleri yapay zekâ ile yönetmek isteyen herkes için uygundur. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/Significant-Gravitas/AutoGPT)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+AI Agents Agents Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/autogpt/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Tek kodla çoklu platform uygulaması
 
 Google tarafından geliştirilen Flutter, tek bir kod tabanı kullanarak mobil, web ve masaüstü platformları için hızlı bir şekilde kullanıcı arayüzü (user interface) oluşturulmasına olanak tanıyor. Dart programlama dilini temel alan bu açık kaynaklı çerçeve (framework), yüksek performanslı ve görsel açıdan zengin uygulamalar geliştirmek için yaygın olarak tercih ediliyor.
@@ -20275,6 +20497,32 @@ Google tarafından geliştirilen Flutter, tek bir kod tabanı kullanarak mobil, 
 - Tek kod tabanıyla mobil, web ve masaüstü desteği
 - Anlık değişiklikleri görmeyi sağlayan hot reload özelliği
 - Donanım hızlandırmalı yüksek performanslı grafikler
+
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install --cask flutter
+```
+
+## Çalıştırma
+
+**Ortam kontrollerini doğrula**
+
+```
+flutter doctor
+```
+
+**Yeni proje oluştur ve çalıştır**
+
+```
+flutter create my_app
+cd my_app
+flutter run
+```
+
+Kaynak: Homebrew Cask (flutter) · resmî Flutter dokümantasyonu (docs.flutter.dev)
 
 ## Nasıl başlanır?
 
@@ -20307,6 +20555,8 @@ MarkItDown (Microsoft); Word, PDF, PowerPoint, Excel ve daha fazlasını büyük
 - Python
 - MIT
 - GitHub Trending · 29 May 2026
+
+TreScout notu: Word, PDF ve Excel dosyalarını yapay zekâya vermeden önce düz metne çevirir. Tablolar ve karmaşık düzenler her zaman temiz çıkmaz, çıktıyı gözden geçirmeniz gerekir · yine de elle kopyala yapıştırdan çok daha iyi.
 
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 128.420 → 170.726, son sürüm v0.1.7 (29 Temmuz 2026).
@@ -20372,6 +20622,8 @@ Anthropic Skills ; Claude'un özel görevlerde daha yüksek performans gösterme
 - Lisans: kontrol et
 - GitHub Trending · 29 May 2026
 
+TreScout notu: Claude'un ihtiyaç duydukça yüklediği hazır beceri paketleri. Kendi becerinizi yazmadan önce buraya bakmak zaman kazandırır; ajan kullanmıyorsanız tek başına bir işe yaramaz.
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 143.307 → 165.785.
 
@@ -20431,6 +20683,8 @@ Firecrawl, web sitelerindeki verileri büyük ölçekte taramak, ayıklamak ve y
 - TypeScript
 - GitHub Trending · 2026-06-23
 
+TreScout notu: Web sitelerini yapay zekâya verilebilecek temiz metne çevirir. Kendi sunucunuzda çalıştırabilirsiniz ama ölçek büyüdükçe iş, tarama etiği ve hız sınırlarını yönetmeye dönüşür: Hedef sitenin kullanım şartlarını okumadan başlamayın.
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 137.683 → 159.421, son sürüm v2.11.0 (19 Haziran 2026).
 
@@ -20438,27 +20692,6 @@ Firecrawl, web sitelerindeki verileri büyük ölçekte taramak, ayıklamak ve y
 - Web sitelerini temiz metin formatına dönüştürür
 - Yapay zekâ ajanları için veri toplar
 - Karmaşık web sayfalarıyla etkileşime girer
-
-## Kurulum
-
-**Ajan kurulumu**
-
-```
-npx -y firecrawl-cli@latest init --all --browser
-```
-
-## Çalıştırma
-
-**Web sitesini tarama**
-
-```
-curl -X POST 'https://api.firecrawl.dev/v2/scrape' \
--H 'Authorization: Bearer fc-YOUR_API_KEY' \
--H 'Content-Type: application/json' \
--d '{
-"url": "firecrawl.dev"
-}'
-```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -20490,6 +20723,8 @@ Langflow, yapay zekâ destekli ajanlar ve iş akışları oluşturmak için gör
 - Python
 - GitHub Trending · 2026-07-03
 
+TreScout notu: Yapay zekâ iş akışını kod yazmadan, kutuları bağlayarak kurarsınız. Fikir denemek ve göstermek için hızlı; akış büyüdüğünde görsel şema okunaksızlaşır ve sürüm takibi zorlaşır, o noktada koda geçmek gerekir.
+
 ## Güncelleme
 - 6 Ağustos 2026: Yıldız 152.754 → 152.874, son sürüm v1.11.2 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 150.932 → 152.754, son sürüm v1.11.1 (28 Temmuz 2026).
@@ -20498,22 +20733,6 @@ Langflow, yapay zekâ destekli ajanlar ve iş akışları oluşturmak için gör
 - Sürükle bırak yöntemiyle yapay zekâ ajanları tasarlama
 - İş akışlarını API veya MCP sunucusu olarak yayına alma
 - Büyük dil modelleri ve vektör veritabanlarıyla entegrasyon
-
-## Kurulum
-
-**Paket kurulumu**
-
-```
-uv pip install langflow -U
-```
-
-## Çalıştırma
-
-**Uygulamayı başlatma**
-
-```
-uv run langflow run
-```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -20554,6 +20773,25 @@ Next.js, React tabanlı web uygulamaları geliştirmek için kullanılan bir çe
 - Statik site üretimi imkanı
 - Hızlı derleme için Rust tabanlı araçlar
 
+## Kurulum
+
+**npx ile yeni Next.js projesi oluştur**
+
+```
+npx create-next-app@latest my-app
+```
+
+## Çalıştırma
+
+**Geliştirme sunucusunu başlat**
+
+```
+cd my-app
+npm run dev
+```
+
+Kaynak: npm (create-next-app) · resmî Next.js dokümantasyonu (nextjs.org/docs)
+
 ## Nasıl başlanır?
 
 Next.js ile çalışmaya başlamak için resmî web sitesi olan nextjs.org adresini ziyaret edebilir ve burada yer alan öğrenme kursuna katılarak temel bilgileri edinebilirsiniz. Ayrıca tüm teknik detaylar ve kullanım kılavuzları için nextjs.org/docs bağlantısındaki dokümantasyon sayfasını inceleyebilirsiniz.
@@ -20585,6 +20823,8 @@ Claude Code ; terminalinizde yaşayan ve kod tabanınızı derinlemesine anlayan
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
+
+TreScout notu: Terminalde çalışan kodlama ajanı: Depoyu okur, değişikliği yapar, komutu çalıştırır. Büyük kod tabanlarında kazancı belirgin; küçük düzeltmelerde araç kurmakla uğraşmak yerine elle yapmak daha hızlı olabilir.
 
 ## Güncelleme
 - 6 Ağustos 2026: Yıldız 140.160 → 140.418, son sürüm v2.1.223 (6 Ağustos 2026).
@@ -20648,6 +20888,8 @@ Popüler yapay zekâ araçlarının sistem yönergeleri (system prompts) ve kull
 
 - ★ 139.309
 - GitHub Trending · 2026-06-10
+
+TreScout notu: Popüler yapay zekâ araçlarının sistem yönergelerini toplar. Kendi istem tasarımınız için fikir verir; içeriğin doğruluğu sızıntılara dayandığı için garanti değildir ve araçlar güncellendikçe bayatlar.
 
 ## Ne kazandırır?
 - Popüler yapay zekâ araçlarının sistem yönergelerine erişim sağlar.
@@ -20746,6 +20988,8 @@ Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştir
 
 TreScout notu: Tek bir program değil, Windows'a eklenen küçük araçlar paketi. Çoğu kişi ikisi için kuruyor: Pencereleri ekrana ızgara düzeninde yerleştiren araç ve klavyeden hızlı arama. Şirket bilgisayarında kurulum yönetici izni isteyebilir.
 
+_Kaynak: github.com/microsoft/PowerToys · MIT_
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 134.431 → 137.392, son sürüm v0.100.2 (26 Haziran 2026).
 
@@ -20793,6 +21037,8 @@ Dünya genelindeki halka açık televizyon kanallarını tek bir merkezde toplay
 - ★ 134.991
 - TypeScript
 - GitHub Trending · 2026-06-13
+
+TreScout notu: Dünyadaki açık televizyon yayınlarının bağlantılarını toplayan bir liste. Kurulacak bir program değil, oynatıcınıza vereceğiniz adresler · bağlantılar sık ölür ve hangi yayının hangi ülkede izlenebildiği sizin sorumluluğunuzdadır.
 
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 118.170 → 134.991.
@@ -20923,6 +21169,8 @@ Awesome-llm-apps deposu, doğrudan çalıştırılabilir 100'den fazla yapay zek
 - Python
 - GitHub Trending · 2026-07-13
 
+TreScout notu: Çalıştırılabilir örnek uygulamalar derlemesi. Bir fikrin nasıl kurulduğunu görmek için hızlı yol; örneklerin bakım durumu değişkendir, kopyalayıp üretime koymadan önce bağımlılıklarını güncelleyin.
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 118.879 → 129.783.
 
@@ -20930,24 +21178,6 @@ Awesome-llm-apps deposu, doğrudan çalıştırılabilir 100'den fazla yapay zek
 - 100'den fazla özelleştirilebilir yapay zekâ ajanı
 - Claude, Gemini ve OpenAI ile uyumlu çalışma
 - Hızlı kurulum için hazır kaynak kodlar
-
-## Kurulum
-
-**Depoyu bilgisayarınıza indirin ve hazırl**
-
-```
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/starter_ai_agents/ai_travel_agent
-pip install -r requirements.txt
-```
-
-## Çalıştırma
-
-**Seyahat ajanı uygulamasını başlatın**
-
-```
-streamlit run travel_agent.py
-```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -20978,6 +21208,8 @@ Hello 算法, veri yapıları ve algoritmaları animasyonlu görselleştirmelerl
 - ★ 129.072
 - Java
 - GitHub Trending · 2026-06-16
+
+TreScout notu: Algoritmaları animasyonla anlatan bir kitap. Konu anlatımı görsel ve akıcı; kurulacak bir şey yok, kod örnekleri birçok dilde. Mülakat hazırlığından çok kavramı oturtmak için uygun.
 
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 127.220 → 129.072, son sürüm 1.3.0 (1 Ocak 2026).
@@ -21121,6 +21353,8 @@ Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar
 - C++
 - GitHub Trending · 2026-06-08
 
+TreScout notu: Dil modellerini kendi bilgisayarınızda, sunucu kiralamadan çalıştırır. Kurulum artık kolay ama beklentiyi ayarlayın: Küçük modeller hızlı, büyükleri belleğinizi zorlar ve bulut hizmetlerinin cevap kalitesini beklemeyin.
+
 ## Güncelleme
 - 6 Ağustos 2026: Yıldız 122.866 → 122.872, son sürüm b10293 (6 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 122.857 → 122.866, son sürüm b10291 (6 Ağustos 2026).
@@ -21131,20 +21365,6 @@ Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar
 - Büyük dil modellerini standart donanımlarda verimli çalıştırır.
 - Düşük bellek kullanımı ile yüksek performans sağlar.
 - Yerel cihazlarda yapay zekâ modellerini çalıştırmayı kolaylaştırır.
-
-## Çalıştırma
-
-**Yerel model dosyası ile çalıştırma**
-
-```
-llama-cli -m my_model.gguf
-```
-
-**Hugging Face üzerinden model indirip çal**
-
-```
-llama-cli -hf ggml-org/gemma-3-1b-it-GGUF
-```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -21176,6 +21396,8 @@ Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağla
 - JavaScript
 - GitHub Trending · 2026-07-27
 
+TreScout notu: Sunucu tarafında JavaScript çalıştırmanın standart yolu. Aynı dili iki tarafta kullanmak ekip için büyük kolaylık; bedeli bağımlılık ağacının hızla şişmesi ve sürüm yönetiminin sizin işiniz olması.
+
 ## Güncelleme
 - 6 Ağustos 2026: Yıldız 118.705 → 118.797, son sürüm v26.7.0 (5 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 118.617 → 118.705, son sürüm v26.6.0 (3 Ağustos 2026).
@@ -21185,20 +21407,6 @@ Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağla
 - JavaScript kodunu tarayıcı dışında çalıştırır
 - Ölçeklenebilir ağ uygulamaları geliştirilmesini sağlar
 - V8 motoru ile yüksek performans sunar
-
-## Kurulum
-
-**Güvenli anahtar halkasını indirme**
-
-```
-curl -fsLo "/path/to/nodejs-keyring.kbx" "https://github.com/nodejs/release-keys/raw/HEAD/gpg/pubring.kbx"
-```
-
-**İndirilen dosyaları doğrulama**
-
-```
-curl -fsO "https://nodejs.org/dist/${VERSION}/SHASUMS256.txt.asc" \
-&& gpgv --keyring="/path/to/nodejs-keyring.kbx" --output SHASUMS256.txt 
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -21228,10 +21436,12 @@ Godot Motoru (Godot Engine), iki ve üç boyutlu oyun geliştirme süreçleri i�
 - ★ 114.944
 - GitHub Trending · 2026-06-02
 
-## Güncelleme
-- 2 Ağustos 2026: Yıldız 111.819 → 114.944, son sürüm 4.7.1-stable (14 Temmuz 2026).
+TreScout notu: Oyun motoru, üstelik ücretsiz ve kapalı bir şirkete bağlı değil. İki boyutlu oyunlarda rakiplerini aratmaz; üç boyutlu büyük projelerde hazır varlık ve eğitim içeriği Unity ve Unreal kadar bol değil.
 
 _Görsel: Godot Engine (godot-design) · CC-BY-4.0_
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 111.819 → 114.944, son sürüm 4.7.1-stable (14 Temmuz 2026).
 
 ## Ne kazandırır?
 - İki ve üç boyutlu oyunlar için kapsamlı araçlar sunar
@@ -21328,6 +21538,30 @@ JavaScript dilinin bir üst kümesi (superset) olan TypeScript, kodun derleme a�
 - Statik tip tanımlama ile güvenilirlik
 - Ölçeklenebilir yazılım geliştirme süreçleri
 
+## Kurulum
+
+**npm ile global kurulum**
+
+```
+npm install -g typescript
+```
+
+**Proje bağımlılığı olarak ekle**
+
+```
+npm install --save-dev typescript
+```
+
+## Çalıştırma
+
+**TypeScript dosyasını derle**
+
+```
+tsc index.ts
+```
+
+Kaynak: npm (typescript) · resmî TypeScript dokümantasyonu (typescriptlang.org)
+
 ## Nasıl başlanır?
 
 TypeScript kullanmaya başlamak için resmî web sitesindeki TypeScript in 5 minutes rehberini inceleyebilir veya tarayıcı üzerinden çalışan TypeScript Playground ortamını deneyebilirsiniz. Kurulum yapmak isterseniz npm paket yöneticisi üzerinden projenize dahil edebilirsiniz.
@@ -21366,6 +21600,26 @@ Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yükse
 - Fotoğraf ve videolar için merkezi depolama
 - Yüz tanıma ve nesne tabanlı arama
 - Mobil ve web üzerinden yedekleme
+
+## Kurulum
+
+**Docker Compose yapılandırmasını indir**
+
+```
+mkdir immich-app && cd immich-app
+wget -O docker-compose.yml https://github.com/immich-app/immich/releases/latest/download/docker-compose.yml
+wget -O .env https://github.com/immich-app/immich/releases/latest/download/example.env
+```
+
+## Çalıştırma
+
+**Docker servislerini başlat**
+
+```
+docker compose up -d
+```
+
+Kaynak: Resmî Immich dokümantasyonu (immich.app/docs/install/docker-compose)
 
 ## Nasıl başlanır?
 
@@ -21465,6 +21719,31 @@ Supabase, web, mobil ve yapay zekâ uygulamaları geliştirmek için Postgres ve
 - Hazır Postgres veritabanı altyapısı sunar
 - Otomatik API ve kimlik doğrulama sağlar
 - Yapay zekâ ve vektör desteği içerir
+
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install supabase/tap/supabase
+```
+
+**npm ile geliştirme bağımlılığı olarak ekle**
+
+```
+npm install -D supabase
+```
+
+## Çalıştırma
+
+**Yerel Supabase geliştirme ortamını başlat**
+
+```
+supabase init
+supabase start
+```
+
+Kaynak: Homebrew (supabase/tap/supabase) · npm (supabase) · resmî dokümantasyon (supabase.com/docs)
 
 ## Nasıl başlanır?
 
@@ -21608,6 +21887,24 @@ Microsoft, Windows Terminal ve geleneksel Windows konsol ana bilgisayarını (co
 - Modern ve özelleştirilebilir arayüz
 - Çoklu sekme desteği
 - Gelişmiş komut satırı performansı
+
+## Kurulum
+
+**Windows (winget)**
+
+```
+winget install Microsoft.WindowsTerminal
+```
+
+## Çalıştırma
+
+**Komut satırından çalıştır**
+
+```
+wt
+```
+
+Kaynak: winget (Microsoft.WindowsTerminal) · resmî Microsoft dokümantasyonu (learn.microsoft.com)
 
 ## Nasıl başlanır?
 
@@ -21887,6 +22184,24 @@ Tailwind CSS, hızlı kullanıcı arayüzü geliştirmeye odaklanan bir yardımc
 - Düşük seviyeli sınıflarla özgün tasarımlar oluşturun
 - Hazır bileşenlerle uğraşmadan arayüz geliştirin
 - Modern web projelerinde hızlı stil yönetimi sağlayın
+
+## Kurulum
+
+**npm ile**
+
+```
+npm install tailwindcss @tailwindcss/cli
+```
+
+## Çalıştırma
+
+**CSS üret**
+
+```
+npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
+```
+
+Kaynak: npm kayıt defteri
 
 ## Nasıl başlanır?
 
@@ -22248,6 +22563,30 @@ Home Assistant, yerel kontrol ve gizliliği önceliklendiren açık kaynaklı bi
 - Akıllı cihazlarınızı tek merkezden yönetin
 - Veri gizliliğinizi yerel kontrolle koruyun
 - Modüler yapıyla yeni cihazlar ekleyin
+
+## Kurulum
+
+**pip ile (Python sanal ortamı)**
+
+```
+pip install homeassistant
+```
+
+**Docker ile**
+
+```
+docker run -d --name homeassistant --privileged --restart=unless-stopped --network=host ghcr.io/home-assistant/home-assistant:stable
+```
+
+## Çalıştırma
+
+**Home Assistant Core sunucusunu başlat**
+
+```
+hass
+```
+
+Kaynak: PyPI (homeassistant) · GitHub Container Registry (ghcr.io) · resmî Home Assistant dokümantasyonu (home-assistant.io)
 
 ## Nasıl başlanır?
 
@@ -22704,6 +23043,30 @@ LobeHub, yapay zekâ ajanlarını işe alma, zamanlama ve raporlama süreçleriy
 - Ajanlar arası iş birliği ve görev dağılımı
 - 10.000'den fazla araç ve eklenti desteği
 
+## Kurulum
+
+**macOS masaüstü (Homebrew)**
+
+```
+brew install --cask lobehub
+```
+
+**Docker imajı**
+
+```
+docker pull lobehub/lobehub
+```
+
+## Çalıştırma
+
+**Docker ile başlat**
+
+```
+docker compose up -d
+```
+
+Kaynak: Homebrew cask · Docker Hub lobehub/lobehub
+
 ## Nasıl başlanır?
 
 LobeHub'ı kullanmaya başlamak için resmî web sitesini ziyaret edebilir veya GitHub deposundaki 'Self Hosting' bölümünde yer alan Vercel, Zeabur, Sealos, Alibaba Cloud veya Docker ile kurulum seçeneklerini inceleyebilirsiniz. Detaylı bilgi ve güncel dokümantasyon için projenin resmî doküman sayfasına göz atmanız yeterlidir.
@@ -22909,6 +23272,30 @@ Java ile geliştirilen Elasticsearch, büyük veri kümeleri üzerinde hızlı a
 - Büyük veri kümelerinde hızlı arama ve analiz
 - Vektör arama ve yapay zekâ uygulamalarıyla entegrasyon
 - Gerçek zamanlı veri indeksleme ve sorgulama
+
+## Kurulum
+
+**Docker imajını çek**
+
+```
+docker pull docker.elastic.co/elasticsearch/elasticsearch:9.5.0
+```
+
+**macOS (Homebrew)**
+
+```
+brew install elastic/tap/elasticsearch-full
+```
+
+## Çalıştırma
+
+**Tek düğüm modunda Docker ile başlat**
+
+```
+docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:9.5.0
+```
+
+Kaynak: Elastic Docker Registry · Homebrew (elastic/tap/elasticsearch-full) · resmî Elastic dokümantasyonu
 
 ## Nasıl başlanır?
 
@@ -23160,6 +23547,30 @@ Grafana, farklı veri kaynaklarından gelen metrikleri, günlükleri (logs) ve i
 - Esnek ve dinamik kontrol panelleri oluşturma
 - Metrikler üzerinden otomatik uyarı sistemleri kurma
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install grafana
+```
+
+**Docker ile**
+
+```
+docker run -d -p 3000:3000 --name=grafana grafana/grafana
+```
+
+## Çalıştırma
+
+**Homebrew servisi olarak başlat**
+
+```
+brew services start grafana
+```
+
+Kaynak: Homebrew (grafana) · Docker Hub (grafana/grafana) · resmî Grafana dokümantasyonu (grafana.com/docs)
+
 ## Nasıl başlanır?
 
 Grafana kullanmaya başlamak için resmî web sitesi olan grafana.com/get adresini ziyaret edin. İhtiyacınıza uygun kurulum rehberlerine ulaşmak için grafana.com/docs/grafana/latest/setup-grafana/installation/ sayfasındaki dokümanları inceleyebilirsiniz.
@@ -23377,6 +23788,24 @@ Google tarafından geliştirilen protokol tamponları (protocol buffers), yapıl
 - Dilden bağımsız veri serileştirme
 - Esnek ve genişletilebilir veri yapısı
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install protobuf
+```
+
+## Çalıştırma
+
+**Şema derle**
+
+```
+protoc --cpp_out=. dosya.proto
+```
+
+Kaynak: Homebrew formülü
+
 ## Nasıl başlanır?
 
 Protobuf kullanmaya başlamak için resmî dokümantasyon sitesini ziyaret edebilir veya GitHub sürümleri sayfasından işletim sisteminize uygun önceden derlenmiş ikili dosyaları indirebilirsiniz. Kullandığınız programlama diline özel çalışma zamanı kütüphanelerini yüklemek için ilgili kaynak dizinlerindeki talimatları takip etmeniz gerekmektedir.
@@ -23414,6 +23843,30 @@ Ansible, uygulama dağıtımı ve sistem yönetimi süreçlerini otomatikleştir
 - Uzak sistemleri SSH üzerinden yönetin
 - Aracı yazılım kurmadan yapılandırma yapın
 - Karmaşık güncellemeleri kolayca gerçekleştirin
+
+## Kurulum
+
+**pip ile (PyPI)**
+
+```
+pip install ansible
+```
+
+**macOS (Homebrew)**
+
+```
+brew install ansible
+```
+
+## Çalıştırma
+
+**Ansible playbook betiğini çalıştır**
+
+```
+ansible-playbook site.yml
+```
+
+Kaynak: PyPI (ansible) · Homebrew (ansible) · resmî Ansible dokümantasyonu (docs.ansible.com)
 
 ## Nasıl başlanır?
 
@@ -23526,7 +23979,7 @@ Lisans: MIT · özgürce kullanabilir, uyarlayabilir, ticari işte kullanabilirs
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agent Agent Skills Shell Skill AI Skills Agent
+Taste AI Agent Agent Skills Shell Skill AI Skills
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/taste-skill/
@@ -24348,6 +24801,24 @@ Penpot, tasarımcılar ve yazılımcılar arasında iş birliğini güçlendiren
 - Açık standartlar ve tasarım belirteçleri sunar
 - Gerçek zamanlı ekip iş birliği sağlar
 
+## Kurulum
+
+**Resmî compose dosyasını indir**
+
+```
+curl -o docker-compose.yaml https://raw.githubusercontent.com/penpot/penpot/main/docker/images/docker-compose.yaml
+```
+
+## Çalıştırma
+
+**Başlat (http://localhost:9001)**
+
+```
+docker compose -p penpot -f docker-compose.yaml up -d
+```
+
+Kaynak: Penpot teknik kılavuzu · help.penpot.app/technical-guide/getting-started/docker/
+
 ## Nasıl başlanır?
 
 Penpot kullanmaya başlamak için resmî web sitesi olan penpot.app adresini ziyaret edebilirsiniz. Tasarımı tarayıcı üzerinden kullanabilir veya kendi sunucularınıza kurmak isterseniz teknik dokümanlar bölümündeki self-hosting rehberlerini inceleyebilirsiniz.
@@ -24440,6 +24911,24 @@ Python tabanlı Faceswap, derin sahte (deepfake) teknolojisini kullanarak görü
 - Görüntü ve videolarda yüz değişimi
 - Derin öğrenme modelleriyle eğitim
 - Görsel içeriklerde yüz ayıklama
+
+## Kurulum
+
+**Depoyu klonla**
+
+```
+git clone --depth 1 https://github.com/deepfakes/faceswap.git && cd faceswap
+```
+
+## Çalıştırma
+
+**Kurulum sihirbazı**
+
+```
+python setup.py
+```
+
+Kaynak: Depo README'si · faceswap.dev kurulum kılavuzu
 
 ## Nasıl başlanır?
 
@@ -24574,6 +25063,30 @@ Plane, görev yönetimi, sprint planlama ve dokümantasyon süreçlerini bir ara
 - Karmaşık projeleri yönetilebilir modüllere ve döngülere bölme
 - Yapay zekâ destekli dokümantasyon ve analiz araçları
 
+## Kurulum
+
+**Kurulum betiğini indir**
+
+```
+curl -fsSL -o setup.sh https://github.com/makeplane/plane/releases/latest/download/setup.sh
+```
+
+**Çalıştırılabilir yap**
+
+```
+chmod +x setup.sh
+```
+
+## Çalıştırma
+
+**Kurulumu başlat (menüden 2)**
+
+```
+./setup.sh
+```
+
+Kaynak: Plane self-hosting kılavuzu · developers.plane.so
+
 ## Nasıl başlanır?
 
 Hızlıca başlamak için Plane Cloud üzerinden ücretsiz bir hesap oluşturabilirsiniz. Eğer kendi altyapınızda barındırmak isterseniz, resmî dokümantasyon sayfasındaki Docker veya Kubernetes kurulum rehberlerini takip ederek kendi sunucunuza kurulum yapabilirsiniz.
@@ -24588,7 +25101,7 @@ Hızlıca başlamak için Plane Cloud üzerinden ücretsiz bir hesap oluşturabi
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+Self-hosting Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/plane/
@@ -24661,6 +25174,8 @@ Win11Debloat, Windows 10 ve 11 işletim sistemlerinde önceden yüklenmiş uygul
 - GitHub Trending · 2026-06-16
 
 TreScout notu: Windows'la birlikte gelen istemediğiniz uygulamaları kaldırır, arka planda veri toplayan ayarları kapatır. Çalıştırmadan önce ne yaptığını okuyun: Kaldırılan bazı parçaları geri getirmek kolay değildir. Kişisel bilgisayarda pratik, şirket cihazında ya da başkasıyla paylaştığınız bilgisayarda kullanmayın.
+
+_Kaynak: github.com/Raphire/Win11Debloat · MIT_
 
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 48.210 → 54.506, son sürüm 2026.07.11 (11 Temmuz 2026).
@@ -24863,7 +25378,7 @@ Goose aracını kullanarak yazılım geliştirme süreçlerimi nasıl otomatize 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol LLM MCP CLI Rust
+Model Context Protocol Model Context Protocol Context LLM MCP CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/goose/
@@ -24966,6 +25481,42 @@ Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vibevoice/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Java projeleri için temel kütüphane seti
+
+Google tarafından geliştirilen Guava, Java projelerinde sıkça ihtiyaç duyulan temel kütüphaneleri (core libraries) içeren bir araç setidir. Koleksiyonlar, önbelleğe alma (caching) ve dizgi işleme gibi yaygın görevleri basitleştirerek yazılım geliştirme sürecini hızlandırır.
+
+- ★ 51.666
+- Java
+- GitHub Trending · 2026-08-07
+
+## Ne kazandırır?
+- Koleksiyon türlerini ve grafik kütüphanesini kullanma imkânı
+- Eşzamanlılık, girdi-çıktı ve dizgi işleme kolaylığı
+- Google tarafından geliştirilmiş güvenilir temel araçlar
+
+## Nasıl başlanır?
+
+Guava kütüphanesini projenize eklemek için kullandığınız yapılandırma aracına göre Maven veya Gradle dosyalarınızda gerekli bağımlılık tanımlamalarını yapmanız gerekir. Projenizin ihtiyaçlarına göre JRE veya Android sürümlerinden birini seçerek ilgili bağımlılık kodlarını projenizin yapılandırma dosyasına ekleyerek başlayabilirsiniz.
+- [Resmî kaynak →](https://guava.dev/)
+
+- **Kimin için:** Java diliyle uygulama geliştiren ve koleksiyon yönetimi, dizgi işleme gibi temel görevlerde daha verimli araçlara ihtiyaç duyan yazılımcılar içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/google/guava)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Core Libraries Caching
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/guava/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -25154,6 +25705,36 @@ HashiCorp tarafından geliştirilen Terraform, altyapıyı kod olarak (infrastru
 - Altyapı süreçlerini sürüm kontrolü ile yönetme
 - Değişiklikleri uygulamadan önce planlama
 - Kaynak bağımlılıklarını görselleştirme ve yönetme
+
+## Kurulum
+
+**HashiCorp tap'ini ekle**
+
+```
+brew tap hashicorp/tap
+```
+
+**macOS (Homebrew)**
+
+```
+brew install hashicorp/tap/terraform
+```
+
+**Docker imajı**
+
+```
+docker pull hashicorp/terraform
+```
+
+## Çalıştırma
+
+**Sürümü doğrula**
+
+```
+terraform -version
+```
+
+Kaynak: HashiCorp resmî Homebrew tap'i · Docker Hub hashicorp/terraform
 
 ## Nasıl başlanır?
 
@@ -25391,7 +25972,7 @@ Chrome DevTools MCP sunucusunu kullanarak aktif tarayıcı oturumuma bağlan ve 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Chrome DevTools Coding Agents Model Context Protocol Model Context Protocol Agents MCP
+Chrome DevTools Coding Agents Model Context Protocol Model Context Protocol Context Agents
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/chrome-devtools-mcp/
@@ -25677,6 +26258,30 @@ Rocket.Chat, görev kritik operasyonlar için tasarlanmış güvenli bir iletiş
 - Kendi sunucunuzda barındırma imkânı
 - Geniş entegrasyon ve uygulama desteği
 
+## Kurulum
+
+**Linux · Snap paketi (Rocket.Chat yayımcısı)**
+
+```
+sudo snap install rocketchat-server
+```
+
+**Docker · resmî compose deposu**
+
+```
+git clone --depth 1 https://github.com/RocketChat/rocketchat-compose.git && cd rocketchat-compose && cp .env.example .env
+```
+
+## Çalıştırma
+
+**Docker ile başlat**
+
+```
+docker compose -f compose.database.yml -f compose.yml -f compose.nats.yml -f docker.yml up -d
+```
+
+Kaynak: Rocket.Chat dokümanı · docs.rocket.chat/docs/deploy-with-docker-docker-compose
+
 ## Nasıl başlanır?
 
 Rocket.Chat kurulumuna başlamak için resmî dokümantasyon sayfasındaki Dağıtım Kılavuzunu (Deployment Guide) inceleyebilirsiniz. Kendi sunucunuzda barındırmak için Docker, Podman veya Kubernetes yöntemlerinden birini seçebilir ya da daha hızlı bir başlangıç için Launchpad seçeneğini değerlendirebilirsiniz. Tüm teknik gereksinimler ve detaylı kurulum adımları için Rocket.Chat'in resmî dokümantasyon sitesini ziyaret edin.
@@ -25764,6 +26369,16 @@ gRPC, farklı programlama dilleri arasında yüksek performanslı iletişim sağ
 - Farklı programlama dilleri arasında veri alışverişi sağlar
 - Yüksek performanslı ağ hizmetleri geliştirilmesine yardımcı olur
 - Dağıtık sistemlerin kurulumunu ve yönetimini basitleştirir
+
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install grpc
+```
+
+Kaynak: Homebrew formülü
 
 ## Nasıl başlanır?
 
@@ -26187,6 +26802,22 @@ Insomnia, GraphQL, REST, WebSockets, SSE ve gRPC protokollerini destekleyen aç�
 - GraphQL, REST ve gRPC gibi popüler protokolleri hata ayıklama desteği
 - Yerel, Git veya bulut tabanlı esnek depolama seçenekleri
 - Yerleşik OpenAPI düzenleyicisi ile görsel API tasarımı
+
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install --cask insomnia
+```
+
+**Linux · Snap paketi (Insomnia yayımcısı)**
+
+```
+sudo snap install insomnia
+```
+
+Kaynak: Homebrew cask · formulae.brew.sh/cask/insomnia · Snap Store
 
 ## Nasıl başlanır?
 
@@ -27077,6 +27708,24 @@ Keycloak, modern uygulamalar ve hizmetler için açık kaynaklı kimlik ve eriş
 - Güçlü kimlik yönetimi ve yetkilendirme sağlar.
 - Uygulama güvenliğini zahmetsizce artırır.
 
+## Kurulum
+
+**Resmî imajı çek**
+
+```
+docker pull quay.io/keycloak/keycloak
+```
+
+## Çalıştırma
+
+**Geliştirme kipinde başlat**
+
+```
+docker run -p 8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak start-dev
+```
+
+Kaynak: Keycloak resmî imaj deposu · quay.io/keycloak/keycloak
+
 ## Nasıl başlanır?
 
 Keycloak'ı kullanmaya başlamak için resmî web sitesi üzerinden dağıtım paketini indirip bilgisayarınıza çıkartmanız gerekmektedir. Alternatif olarak, Docker kullanarak hızlıca çalıştırabilirsiniz. Detaylı kurulum ve yapılandırma adımları için resmî dokümantasyon sayfasını ziyaret edebilirsiniz.
@@ -27405,6 +28054,8 @@ Continue, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanm
 - GitHub Trending · 2026-06-18
 
 TreScout notu: Kod yazarken yardımcı olan yapay zekâ asistanı. Hazır asistanlardan farkı, hangi modeli kullanacağınıza sizin karar vermeniz: Kendi anahtarınızı ya da bilgisayarınızda çalışan bir modeli bağlarsınız, kodunuz dışarı çıkmaz. Karşılığında kurulum ve model seçimi sizin işiniz olur, deneyim hazır ürünler kadar cilalı değildir.
+
+_Kaynak: github.com/continuedev/continue · Apache-2.0_
 
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 34.017 → 35.282, son sürüm v2.0.0-vscode (19 Haziran 2026).
@@ -28421,6 +29072,16 @@ spdlog, C++ programlama dili için geliştirilmiş çok hızlı bir günlük kay
 - Dosya, konsol ve hata ayıklayıcı gibi farklı hedeflere çıktı
 - Çalışma anında dinamik günlük seviyesi değiştirme
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install spdlog
+```
+
+Kaynak: Homebrew formülü
+
 ## Nasıl başlanır?
 
 Projenize dahil etmek için GitHub sayfasındaki include klasörünü çalışma dizininize kopyalamanız yeterlidir. Alternatif olarak, Debian, Homebrew veya vcpkg gibi paket yöneticileri üzerinden sisteminize uygun olan komutu kullanarak kütüphaneyi kurabilirsiniz.
@@ -28867,7 +29528,7 @@ Bu projede code-review-graph yüklü. Lütfen projenin kod inceleme grafiğini o
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Code Intelligence Graph Context Reduction Code Review Token Artificial Intelligence
+Code Intelligence Graph Context Reduction Code Review Context Token Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/code-review-graph/
@@ -28891,6 +29552,16 @@ Karakeep, bağlantıları, notları ve görselleri tek bir merkezde toplayan, ke
 - Bağlantıları, notları ve dosyaları tek merkezde toplayın.
 - Yapay zekâ ile otomatik etiketleme ve özetleme yapın.
 - Tam metin arama ile içeriklerinize hızla ulaşın.
+
+## Kurulum
+
+**Komut satırı aracı (Homebrew)**
+
+```
+brew install karakeep
+```
+
+Kaynak: Homebrew formülü · karakeep.app
 
 ## Nasıl başlanır?
 
@@ -29278,7 +29949,7 @@ FastMCP kullanarak bir Python fonksiyonunu Model Bağlam Protokolü (MCP) uyumlu
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol MCP Framework Artificial Intelligence
+Model Context Protocol Model Context Protocol Context MCP Framework Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fastmcp/
@@ -29480,6 +30151,30 @@ Jenkins, yazılım geliştirme süreçlerini otomatize eden açık kaynaklı bir
 - Yazılım projelerinin derleme ve test süreçlerini otomatikleştirir
 - Geniş eklenti desteğiyle süreçleri özelleştirme imkânı sunar
 - Hata tespiti ve dağıtım aşamalarını hızlandırır
+
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install jenkins
+```
+
+**Docker imajı**
+
+```
+docker pull jenkins/jenkins:lts
+```
+
+## Çalıştırma
+
+**Docker ile başlat (http://localhost:8080)**
+
+```
+docker run -p 8080:8080 -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts
+```
+
+Kaynak: Homebrew formülü · Docker Hub jenkins/jenkins
 
 ## Nasıl başlanır?
 
@@ -29895,6 +30590,30 @@ Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarativ
 - Bildirimsel ve izlenebilir dağıtım süreçleri
 - Kubernetes ortamlarında kolaylaştırılmış yaşam döngüsü yönetimi
 
+## Kurulum
+
+**Namespace oluştur**
+
+```
+kubectl create namespace argocd
+```
+
+**Resmî manifesti uygula**
+
+```
+kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
+```
+
+## Çalıştırma
+
+**Arayüze eriş**
+
+```
+kubectl port-forward svc/argocd-server -n argocd 8080:443
+```
+
+Kaynak: Argo CD resmî manifesti (argoproj/argo-cd · stable)
+
 ## Nasıl başlanır?
 
 Argo CD kullanmaya başlamak için resmî dokümantasyon sayfasını ziyaret ederek kurulum adımlarını takip edebilirsiniz. Projenin nasıl çalıştığını anlamak için hazırlanan canlı demoyu inceleyebilir ve kapsamlı rehberlere ulaşmak için Argo CD dokümantasyon sitesine göz atabilirsiniz.
@@ -30268,6 +30987,38 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Uygulamalarınız için merkezi kimlik yönetimi
+
+Authentik, uygulamalar için merkezi kimlik doğrulama ve erişim yönetimi sağlayan açık kaynaklı bir güvenlik platformu. Karmaşık kimlik doğrulama süreçlerini tek bir noktada birleştirerek, farklı servisler arasında güvenli geçiş imkânı sunuyor.
+
+- ★ 23.221
+- Python
+- GitHub Trending · 2026-08-07
+
+## Ne kazandırır?
+- Farklı servisler arasında tek noktadan güvenli geçiş sağlar
+- SAML ve OAuth2 gibi standart protokolleri destekler
+- Küçük projelerden büyük ölçekli sistemlere kadar ölçeklenebilir
+
+## Nasıl başlanır?
+
+Kurulum için resmî web sitesindeki dokümantasyon sayfasına gidin. Küçük veya test amaçlı kurulumlar için Docker Compose, büyük ölçekli yapılar için ise Kubernetes yöntemlerini tercih edebilirsiniz. AWS üzerinden kurulum yapmak veya DigitalOcean uygulama mağazasını kullanmak da mümkündür.
+- [Resmî kaynak →](https://goauthentik.io)
+
+- **Kimin için:** Uygulamalarına güvenli ve merkezi bir kimlik doğrulama sistemi eklemek isteyen yazılım geliştiriciler ve sistem yöneticileri için uygundur. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/goauthentik/authentik)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/authentik/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Reklamsız ve takipsiz video izleme
 
 Invidious, YouTube platformuna alternatif olarak geliştirilen açık kaynaklı bir arayüzdür. Kullanıcılara reklam içermeyen ve veri takibi yapmayan bir video izleme deneyimi sunar.
@@ -30284,6 +31035,24 @@ Invidious, YouTube platformuna alternatif olarak geliştirilen açık kaynaklı 
 - YouTube videolarını reklam ve veri takibi olmadan izleyin
 - Google hesabına ihtiyaç duymadan kanallara abone olun
 - Düşük veri kullanımıyla arka planda sesli oynatma yapın
+
+## Kurulum
+
+**Depoyu ve compose dosyasını al**
+
+```
+git clone --depth 1 https://github.com/iv-org/invidious.git && cd invidious
+```
+
+## Çalıştırma
+
+**Başlat**
+
+```
+docker compose up -d
+```
+
+Kaynak: Depodaki resmî docker-compose.yml
 
 ## Nasıl başlanır?
 
@@ -30537,6 +31306,16 @@ Catch2, C++14 ve sonraki sürümleri destekleyen modern bir birim testi (unit te
 - Test güdümlü geliştirme süreçlerini destekler
 - Basit ve doğal test yazım imkanı sunar
 - Temel mikro kıyaslama özellikleri içerir
+
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install catch2
+```
+
+Kaynak: Homebrew formülü
 
 ## Nasıl başlanır?
 
@@ -31625,6 +32404,16 @@ Google tarafından geliştirilen Abseil, C++ standart kütüphanesini tamamlayan
 - Google projelerinde test edilmiş güvenilir kod parçaları sunar
 - Standart kütüphanede eksik olan işlevsellikleri tamamlar
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install abseil
+```
+
+Kaynak: Homebrew formülü · abseil.io
+
 ## Nasıl başlanır?
 
 Abseil kullanmaya başlamak için resmî web sitesindeki Abseil Quickstart dokümanını ziyaret etmelisiniz. Bu kılavuz, geliştirme ortamınızı nasıl hazırlayacağınız, kodları nasıl indireceğiniz ve basit bir ikili dosyanın nasıl çalıştırılacağı konusunda size yol gösterecektir.
@@ -32710,6 +33499,24 @@ Snipe-IT, bilişim teknolojileri varlıklarını ve yazılım lisanslarını tak
 - yazılım lisanslarını merkezi olarak takip etme
 - donanım zimmet kayıtlarını dijitalleştirme
 
+## Kurulum
+
+**Resmî imajı çek**
+
+```
+docker pull grokability/snipe-it
+```
+
+## Çalıştırma
+
+**Başlat**
+
+```
+docker compose up -d
+```
+
+Kaynak: Docker Hub · grokability/snipe-it
+
 ## Nasıl başlanır?
 
 Bu araç web tabanlı bir yazılımdır ve bir web sunucusu üzerinde çalıştırılması gerekir. Kurulum ve yapılandırma adımları için resmî Snipe-IT kurulum dokümanlarını ziyaret etmeniz ve sistem gereksinimlerini incelemeniz gerekmektedir.
@@ -33067,6 +33874,16 @@ Harper, Rust diliyle geliştirilen çevrim dışı ve gizlilik odaklı bir dil b
 - Verilerinizi yerel olarak işleyerek gizliliği korur
 - Düşük bellek kullanımıyla yüksek performans sunar
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install harper
+```
+
+Kaynak: Homebrew formülü
+
 ## Nasıl başlanır?
 
 Harper aracını kullanmaya başlamak için resmî web sitesi olan writewithharper.com adresini ziyaret edebilirsiniz. Sitede yer alan dokümantasyon bölümünden Visual Studio Code, Neovim, Helix, Emacs veya Zed gibi kullandığınız metin editörüne uygun entegrasyon kılavuzlarını inceleyerek kurulumu tamamlayabilirsiniz.
@@ -33287,6 +34104,24 @@ Veri dönüştürme aracı (dbt-core), veri analistlerinin ve mühendislerinin y
 - Veri modelleri arasında ilişki yönetimi
 - Otomatik testlerle veri kalitesi denetimi
 
+## Kurulum
+
+**pip ile (PyPI)**
+
+```
+pip install dbt-core
+```
+
+## Çalıştırma
+
+**Proje çalıştır**
+
+```
+dbt run
+```
+
+Kaynak: PyPI · dbt-core
+
 ## Nasıl başlanır?
 
 Resmî dbt dokümantasyon sayfasını ziyaret ederek kurulum rehberine ulaşabilirsiniz. İhtiyacınıza göre dbt Core veya Fusion seçeneklerinden birini seçerek yerel bilgisayarınızda kurulum adımlarını takip edebilirsiniz.
@@ -33436,7 +34271,7 @@ Unity projenizi açın ve Package Manager penceresine gidin. 'Add package from g
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol Large Language Models MCP Artificial Intelligence
+Model Context Protocol Model Context Protocol Context Large Language Models MCP Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/unity-mcp/
@@ -34029,6 +34864,24 @@ Romm, oyun dosyalarını (ROM) düzenlemek ve tarayıcı üzerinden doğrudan oy
 - Tarayıcıda doğrudan oyun oynama desteği
 - Otomatik meta veri ve görsel zenginleştirme
 
+## Kurulum
+
+**Örnek compose dosyasını al**
+
+```
+curl -o docker-compose.yml https://raw.githubusercontent.com/rommapp/romm/master/examples/docker-compose.example.yml
+```
+
+## Çalıştırma
+
+**Başlat**
+
+```
+docker compose up -d
+```
+
+Kaynak: Depodaki examples/docker-compose.example.yml
+
 ## Nasıl başlanır?
 
 Kuruluma başlamak için resmî dokümantasyon sayfasında yer alan Hızlı Başlangıç Kılavuzu'nu (Quick Start Guide) ziyaret etmeniz gerekmektedir. İlgili rehbere RomM dokümantasyon sitesi üzerinden ulaşarak kurulum adımlarını takip edebilirsiniz.
@@ -34233,6 +35086,24 @@ Meshery, bulut yerlisi (cloud native) altyapıların yönetimi için tasarlanmı
 - Karmaşık YAML dosyalarıyla uğraşmadan görsel tasarım imkanı
 - Birden fazla bulut sağlayıcısı ve küme üzerinde tutarlı operasyon
 
+## Kurulum
+
+**Bash Script**
+
+```
+curl -L https://meshery.io/install | bash -
+```
+
+## Çalıştırma
+
+**CLI**
+
+```
+mesheryctl system start
+```
+
+Kaynak: Resmi Dokümantasyon
+
 ## Nasıl başlanır?
 
 Meshery'yi kullanmaya başlamak için tarayıcınız üzerinden meshery.io adresini ziyaret edebilir veya doğrudan play.meshery.io bağlantısı üzerinden sunulan Cloud Native Playground ortamını deneyebilirsiniz.
@@ -34247,7 +35118,7 @@ Meshery'yi kullanmaya başlamak için tarayıcınız üzerinden meshery.io adres
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Cloud Native Service Mesh Mesh
+Cloud Native Service Mesh Script Mesh CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/meshery/
@@ -34575,6 +35446,16 @@ VeraCrypt, TrueCrypt temel alınarak geliştirilen ve güçlü güvenlik standar
 - Gelişmiş güvenlik standartları
 - Çoklu işletim sistemi desteği
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install --cask veracrypt
+```
+
+Kaynak: Homebrew cask · veracrypt.io
+
 ## Nasıl başlanır?
 
 VeraCrypt'i kullanmaya başlamak için resmî web sitesi olan veracrypt.jp adresini ziyaret ederek işletim sisteminize uygun kurulum dosyasını indirebilirsiniz. Kaynak kod üzerinden derleme yapmak isterseniz, depo içerisindeki dokümantasyon klasöründe yer alan CompilingGuideline dosyalarını inceleyerek sisteminize özel adımları takip edebilirsiniz.
@@ -34609,6 +35490,16 @@ TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ aja
 - 60 milisaniyenin altında hızlı başlatma
 - donanım seviyesinde yalıtılmış güvenli alan
 - E2B SDK ile tam uyumluluk
+
+## Kurulum
+
+**pip ile (PyPI)**
+
+```
+pip install cubesandbox
+```
+
+Kaynak: PyPI · cubesandbox
 
 ## Nasıl başlanır?
 
@@ -34708,6 +35599,16 @@ Baileys, WhatsApp Web protokolünü temel alan ve TypeScript ile JavaScript taba
 - WhatsApp Web API ile doğrudan etkileşim kurun
 - TypeScript ve JavaScript tabanlı projeler geliştirin
 - Mesajlaşma işlevlerini kendi uygulamalarınıza ekleyin
+
+## Kurulum
+
+**npm ile**
+
+```
+npm install baileys
+```
+
+Kaynak: npm kayıt defteri
 
 ## Nasıl başlanır?
 
@@ -35008,6 +35909,30 @@ Apache Cassandra, standart donanımlar veya bulut altyapıları üzerinde perfor
 - Verileri birden fazla makineye otomatik dağıtır.
 - SQL benzeri CQL sorgu diliyle kolay veri yönetimi.
 - Yüksek erişilebilirlik ve hata toleransı sağlar.
+
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install cassandra
+```
+
+**Docker imajı**
+
+```
+docker pull cassandra
+```
+
+## Çalıştırma
+
+**Docker ile başlat**
+
+```
+docker run -p 9042:9042 cassandra
+```
+
+Kaynak: Homebrew formülü · Docker Hub resmî imajı
 
 ## Nasıl başlanır?
 
@@ -35331,7 +36256,7 @@ Bilgisayarımda dosya yönetimi, terminal komutları ve belge düzenleme işleml
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Terminal Control Diff File Editing Model Context Protocol Model Context Protocol Terminal PDF
+Terminal Control Diff File Editing Model Context Protocol Model Context Protocol Context Terminal
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/desktopcommandermcp/
@@ -35422,7 +36347,7 @@ Set up ego lite for me: https://github.com/citrolabs/ego-lite. Read `skills/ego-
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agents Skill Agents AI Skills Artificial Intelligence
+AI Agents Skill AI Skills Agents Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ego-lite/
@@ -35503,6 +36428,24 @@ Tesla araç sahipleri için geliştirilen Teslamate, verileri kendi sunucunuzda 
 - Sürüş ve şarj verilerini detaylı analiz edin
 - Batarya sağlığını ve verimliliğini takip edin
 - Kişisel sunucunuzda tam veri kontrolü sağlayın
+
+## Kurulum
+
+**Resmî kılavuzdaki docker-compose.yml dosyasını oluşturun (veritabanı parolası ve şifreleme anahtarı sizin)**
+
+```
+docker compose pull
+```
+
+## Çalıştırma
+
+**Başlat (http://localhost:4000)**
+
+```
+docker compose up -d
+```
+
+Kaynak: TeslaMate dokümanı · docs.teslamate.org/docs/installation/docker
 
 ## Nasıl başlanır?
 
@@ -35891,7 +36834,7 @@ Bu projede Antigravity çalışma alanı kurdum ve AG Kit araçlarını aktif et
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic Systems AI Agents Agentic Agents Artificial Intelligence
+Agentic Systems Agentic AI Agents Agents Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ag-kit/
@@ -36019,7 +36962,7 @@ Stitch Skills kütüphanesini kullanarak mevcut arayüz kodumu analiz et ve bunu
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Coding Agents Agent Skills Agents AI Skills MCP Agent
+Coding Agents Agent Skills AI Skills Agents MCP Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stitch-skills/
@@ -36640,7 +37583,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Kendi sunucunuzda yapay zekâ destekli seyahat planlayıcı
+# Seyahat planlarınızı birlikte yönetin
 
 TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılan (self-hosted) bir seyahat planlama uygulamasıdır. Aşamalı web uygulaması (PWA) desteği ve tek oturum açma (SSO) entegrasyonu ile kullanıcıların seyahat süreçlerini dijital ortamda organize etmelerine olanak tanır.
 
@@ -36675,7 +37618,7 @@ Sen bir seyahat asistanısın. TREK üzerindeki MCP (Model Context Protocol) ara
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-PWA SSO Self-hosted Model Context Protocol Model Context Protocol MCP
+PWA SSO Self-hosted Model Context Protocol Model Context Protocol Context
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/trek/
@@ -36859,7 +37802,7 @@ Sen bir yapay zekâ mühendislik asistanısın. Karmaşık yazılım geliştirme
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Vibe Coding Agentic Engineering AI Agents Agentic Token Agents
+Vibe Coding Agentic Engineering Agentic AI Agents Token Agents
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/glm-5/
@@ -37059,6 +38002,24 @@ Ortak Kullanıcı Parola Profilleyici (Common User Passwords Profiler), hedef od
 - İnteraktif sorularla hedef odaklı profil oluşturma imkânı sunar.
 - Alecto veritabanı ile varsayılan kullanıcı adı ve parola eşleşmelerini ayrıştırır.
 
+## Kurulum
+
+**Depoyu klonla**
+
+```
+git clone --depth 1 https://github.com/Mebus/cupp.git && cd cupp
+```
+
+## Çalıştırma
+
+**Etkileşimli kipte çalıştır**
+
+```
+python3 cupp.py -i
+```
+
+Kaynak: Depo README'si
+
 ## Nasıl başlanır?
 
 Aracı kullanmaya başlamak için öncelikle bilgisayarınızda Python 3 kurulu olduğundan emin olun. Projenin GitHub sayfasını ziyaret ederek dosyaları bilgisayarınıza indirin ve terminal üzerinden aracın bulunduğu dizine giderek komutları çalıştırmaya başlayın.
@@ -37097,6 +38058,16 @@ yaml-cpp, C++ programlama dili için YAML formatındaki verileri ayrıştıran (
 - YAML 1.2 standartlarına tam uyum
 - Veri ayrıştırma ve oluşturma desteği
 - CMake ile platformlar arası derleme
+
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install yaml-cpp
+```
+
+Kaynak: Homebrew formülü
 
 ## Nasıl başlanır?
 
@@ -37201,6 +38172,16 @@ Asio, eşzamansız giriş çıkış (asynchronous I/O) işlemleri için gelişti
 - Eşzamansız giriş çıkış işlemleri gerçekleştirme
 - Taşınabilir ağ programlama altyapısı kurma
 - Düşük seviyeli sistem görevlerini yönetme
+
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install asio
+```
+
+Kaynak: Homebrew formülü
 
 ## Nasıl başlanır?
 
@@ -37381,6 +38362,16 @@ GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için 
 - Masaüstü, mobil ve Jupyter desteği
 - Yerel ve gizli veri işleme
 
+## Kurulum
+
+**pip ile (PyPI)**
+
+```
+pip install GeoLibre
+```
+
+Kaynak: PyPI · GeoLibre
+
 ## Nasıl başlanır?
 
 GeoLibre'yi kullanmaya başlamak için herhangi bir kurulum yapmanıza gerek yoktur. Tarayıcınız üzerinden web sürümüne erişebilir veya masaüstü işletim sisteminize uygun yükleyiciyi indirmek için resmî web sitesindeki indirme sayfasını ziyaret edebilirsiniz.
@@ -37528,6 +38519,30 @@ Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yönet
 - Proje nesne modeli ile merkezi yönetim sağlar
 - Raporlama ve dokümantasyon süreçlerini yönetir
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install maven
+```
+
+**Docker imajı**
+
+```
+docker pull maven
+```
+
+## Çalıştırma
+
+**Projeyi derle**
+
+```
+mvn package
+```
+
+Kaynak: Homebrew formülü (maven.apache.org) · Docker Hub resmî imajı
+
 ## Nasıl başlanır?
 
 Apache Maven kullanmaya başlamak için resmî Apache Maven ana sayfasını ziyaret edebilir ve indirme sayfasından güncel sürümü temin edebilirsiniz. Kurulum ve kullanım detayları için yine aynı sayfadaki dokümantasyon bölümünü incelemeniz önerilir.
@@ -37640,7 +38655,7 @@ TradingView masaüstü uygulamam ile bağlantı kurdun. Şimdi grafik üzerinde 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Script Model Context Protocol Model Context Protocol MCP CLI Artificial Intelligence
+Script Model Context Protocol Model Context Protocol Context MCP CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tradingview-mcp/
@@ -38043,6 +39058,16 @@ Tokio ekibi tarafından geliştirilen Topcoat, Rust dilinde web uygulamaları ol
 - Sunucu taraflı hızlı HTML oluşturma
 - Modüler yapı ile otomatik yönlendirme
 - Tailwind entegreli hazır bileşen kütüphanesi
+
+## Kurulum
+
+**Rust · cargo ile**
+
+```
+cargo install topcoat
+```
+
+Kaynak: crates.io
 
 ## Nasıl başlanır?
 
@@ -38887,7 +39912,7 @@ Sen bir sızma testi uzmanısın. VulnClaw aracını kullanarak hedef sistem üz
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-30 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol AI Agents Agents MCP Artificial Intelligence
+Model Context Protocol Model Context Protocol Context AI Agents Agents MCP
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vulnclaw/
@@ -39167,7 +40192,7 @@ AWS üzerinde uygulama geliştirme, dağıtma ve yönetme süreçlerimde bana ya
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol AI Skills MCP Agent Artificial Intelligence
+Model Context Protocol Model Context Protocol Context AI Skills MCP Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-toolkit-for-aws/

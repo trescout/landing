@@ -14,6 +14,16 @@ VeraCrypt, TrueCrypt temel alınarak geliştirilen ve güçlü güvenlik standar
 - Gelişmiş güvenlik standartları
 - Çoklu işletim sistemi desteği
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install --cask veracrypt
+```
+
+Kaynak: Homebrew cask · veracrypt.io
+
 ## Nasıl başlanır?
 
 VeraCrypt'i kullanmaya başlamak için resmî web sitesi olan veracrypt.jp adresini ziyaret ederek işletim sisteminize uygun kurulum dosyasını indirebilirsiniz. Kaynak kod üzerinden derleme yapmak isterseniz, depo içerisindeki dokümantasyon klasöründe yer alan CompilingGuideline dosyalarını inceleyerek sisteminize özel adımları takip edebilirsiniz.

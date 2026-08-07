@@ -14,6 +14,16 @@ Catch2, C++14 ve sonraki sürümleri destekleyen modern bir birim testi (unit te
 - Basit ve doğal test yazım imkanı sunar
 - Temel mikro kıyaslama özellikleri içerir
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install catch2
+```
+
+Kaynak: Homebrew formülü
+
 ## Nasıl başlanır?
 
 Catch2 bir kütüphane olarak yapılandırılmıştır. Başlamak için GitHub sayfasındaki dokümantasyon bölümünde yer alan 'Tutorial' rehberini inceleyerek projenize nasıl dahil edeceğinizi öğrenebilirsiniz.

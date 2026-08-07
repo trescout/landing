@@ -6,6 +6,8 @@ System Design Primer, büyük ölçekli yazılım sistemleri tasarlamak isteyenl
 - Python
 - GitHub Trending · 2026-08-04
 
+TreScout notu: Teknik mülakatın sistem tasarımı bölümüne çalışanların ilk durağı. Kavramları güzel toparlar ama örnekler klasik ölçekli sistemler üzerinden: Kendi işinizdeki mimariyi buradan kopyalamayın, düşünme çerçevesi olarak kullanın.
+
 ## Ne kazandırır?
 - Büyük ölçekli sistem mimarisi prensiplerini öğrenin
 - Teknik mülakatlara yönelik pratik soruları çözün

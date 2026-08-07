@@ -14,6 +14,16 @@ Tokio ekibi tarafından geliştirilen Topcoat, Rust dilinde web uygulamaları ol
 - Modüler yapı ile otomatik yönlendirme
 - Tailwind entegreli hazır bileşen kütüphanesi
 
+## Kurulum
+
+**Rust · cargo ile**
+
+```
+cargo install topcoat
+```
+
+Kaynak: crates.io
+
 ## Nasıl başlanır?
 
 Topcoat ile çalışmaya başlamak için GitHub üzerindeki resmî dokümantasyonda yer alan 'Getting started' rehberini takip etmelisiniz. Bu rehber üzerinden yeni bir proje oluşturabilir, gerekli CLI aracını kurabilir ve geliştirme sunucusunu başlatabilirsiniz.

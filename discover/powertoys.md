@@ -7,6 +7,8 @@ Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştir
 
 TreScout notu: Tek bir program değil, Windows'a eklenen küçük araçlar paketi. Çoğu kişi ikisi için kuruyor: Pencereleri ekrana ızgara düzeninde yerleştiren araç ve klavyeden hızlı arama. Şirket bilgisayarında kurulum yönetici izni isteyebilir.
 
+_Kaynak: github.com/microsoft/PowerToys · MIT_
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 134.431 → 137.392, son sürüm v0.100.2 (26 Haziran 2026).
 

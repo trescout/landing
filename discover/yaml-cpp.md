@@ -14,6 +14,16 @@ yaml-cpp, C++ programlama dili için YAML formatındaki verileri ayrıştıran (
 - Veri ayrıştırma ve oluşturma desteği
 - CMake ile platformlar arası derleme
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install yaml-cpp
+```
+
+Kaynak: Homebrew formülü
+
 ## Nasıl başlanır?
 
 Aracı kullanmaya başlamak için öncelikle CMake yazılımını resmî sitesinden indirip kurmalısınız. Ardından projenizin kaynak kod dizininde bir 'build' klasörü oluşturarak CMake yapılandırma komutlarını çalıştırabilir veya projenize CMake'in FetchContent özelliğini kullanarak entegre edebilirsiniz. Detaylı kullanım örnekleri ve API dokümantasyonu için GitHub sayfasındaki Wiki bölümüne göz atabilirsiniz.

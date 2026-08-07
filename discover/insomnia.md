@@ -14,6 +14,22 @@ Insomnia, GraphQL, REST, WebSockets, SSE ve gRPC protokollerini destekleyen aç�
 - Yerel, Git veya bulut tabanlı esnek depolama seçenekleri
 - Yerleşik OpenAPI düzenleyicisi ile görsel API tasarımı
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install --cask insomnia
+```
+
+**Linux · Snap paketi (Insomnia yayımcısı)**
+
+```
+sudo snap install insomnia
+```
+
+Kaynak: Homebrew cask · formulae.brew.sh/cask/insomnia · Snap Store
+
 ## Nasıl başlanır?
 
 Insomnia'yı kullanmaya başlamak için resmî web sitesi olan https://insomnia.rest adresine giderek işletim sisteminize uygun kurulum dosyasını indirip çalıştırabilirsiniz. Uygulamayı hesap oluşturmadan yerel Scratch Pad özelliğiyle kullanmaya başlayabilir veya daha fazla özellik için ücretsiz bir hesap oluşturabilirsiniz.

@@ -35,7 +35,7 @@ Goose aracını kullanarak yazılım geliştirme süreçlerimi nasıl otomatize 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol LLM MCP CLI Rust
+Model Context Protocol Model Context Protocol Context LLM MCP CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/goose/

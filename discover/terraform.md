@@ -14,6 +14,36 @@ HashiCorp tarafından geliştirilen Terraform, altyapıyı kod olarak (infrastru
 - Değişiklikleri uygulamadan önce planlama
 - Kaynak bağımlılıklarını görselleştirme ve yönetme
 
+## Kurulum
+
+**HashiCorp tap'ini ekle**
+
+```
+brew tap hashicorp/tap
+```
+
+**macOS (Homebrew)**
+
+```
+brew install hashicorp/tap/terraform
+```
+
+**Docker imajı**
+
+```
+docker pull hashicorp/terraform
+```
+
+## Çalıştırma
+
+**Sürümü doğrula**
+
+```
+terraform -version
+```
+
+Kaynak: HashiCorp resmî Homebrew tap'i · Docker Hub hashicorp/terraform
+
 ## Nasıl başlanır?
 
 Terraform kullanmaya başlamak için resmî web sitesi üzerindeki dokümantasyon sayfalarını ziyaret edebilirsiniz. Kurulum ve temel adımlar için HashiCorp'un öğrenme platformunda yer alan başlangıç rehberlerini takip etmeniz önerilir.

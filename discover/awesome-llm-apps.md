@@ -6,6 +6,8 @@ Awesome-llm-apps deposu, doğrudan çalıştırılabilir 100'den fazla yapay zek
 - Python
 - GitHub Trending · 2026-07-13
 
+TreScout notu: Çalıştırılabilir örnek uygulamalar derlemesi. Bir fikrin nasıl kurulduğunu görmek için hızlı yol; örneklerin bakım durumu değişkendir, kopyalayıp üretime koymadan önce bağımlılıklarını güncelleyin.
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 118.879 → 129.783.
 
@@ -13,24 +15,6 @@ Awesome-llm-apps deposu, doğrudan çalıştırılabilir 100'den fazla yapay zek
 - 100'den fazla özelleştirilebilir yapay zekâ ajanı
 - Claude, Gemini ve OpenAI ile uyumlu çalışma
 - Hızlı kurulum için hazır kaynak kodlar
-
-## Kurulum
-
-**Depoyu bilgisayarınıza indirin ve hazırl**
-
-```
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/starter_ai_agents/ai_travel_agent
-pip install -r requirements.txt
-```
-
-## Çalıştırma
-
-**Seyahat ajanı uygulamasını başlatın**
-
-```
-streamlit run travel_agent.py
-```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

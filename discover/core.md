@@ -15,6 +15,30 @@ Home Assistant, yerel kontrol ve gizliliği önceliklendiren açık kaynaklı bi
 - Veri gizliliğinizi yerel kontrolle koruyun
 - Modüler yapıyla yeni cihazlar ekleyin
 
+## Kurulum
+
+**pip ile (Python sanal ortamı)**
+
+```
+pip install homeassistant
+```
+
+**Docker ile**
+
+```
+docker run -d --name homeassistant --privileged --restart=unless-stopped --network=host ghcr.io/home-assistant/home-assistant:stable
+```
+
+## Çalıştırma
+
+**Home Assistant Core sunucusunu başlat**
+
+```
+hass
+```
+
+Kaynak: PyPI (homeassistant) · GitHub Container Registry (ghcr.io) · resmî Home Assistant dokümantasyonu (home-assistant.io)
+
 ## Nasıl başlanır?
 
 Kuruluma başlamak için home-assistant.io adresini ziyaret edin. Sitedeki kurulum talimatları bölümü üzerinden Raspberry Pi veya yerel sunucunuza uygun adımları takip ederek sistemi cihazınıza yükleyebilirsiniz.

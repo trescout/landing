@@ -11,6 +11,30 @@ Apache Cassandra, standart donanımlar veya bulut altyapıları üzerinde perfor
 - SQL benzeri CQL sorgu diliyle kolay veri yönetimi.
 - Yüksek erişilebilirlik ve hata toleransı sağlar.
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install cassandra
+```
+
+**Docker imajı**
+
+```
+docker pull cassandra
+```
+
+## Çalıştırma
+
+**Docker ile başlat**
+
+```
+docker run -p 9042:9042 cassandra
+```
+
+Kaynak: Homebrew formülü · Docker Hub resmî imajı
+
 ## Nasıl başlanır?
 
 Apache Cassandra'yı kullanmaya başlamak için resmî web sitesindeki indirme sayfasını ziyaret ederek kurulum dosyalarını edinin. Ardından, dokümantasyonda yer alan 'Getting Started' rehberini takip ederek arşiv dosyasını açıp sunucuyu başlatabilir ve CQL komut satırı arayüzü üzerinden veritabanı işlemlerinize başlayabilirsiniz.

@@ -14,6 +14,24 @@ Veri dönüştürme aracı (dbt-core), veri analistlerinin ve mühendislerinin y
 - Veri modelleri arasında ilişki yönetimi
 - Otomatik testlerle veri kalitesi denetimi
 
+## Kurulum
+
+**pip ile (PyPI)**
+
+```
+pip install dbt-core
+```
+
+## Çalıştırma
+
+**Proje çalıştır**
+
+```
+dbt run
+```
+
+Kaynak: PyPI · dbt-core
+
 ## Nasıl başlanır?
 
 Resmî dbt dokümantasyon sayfasını ziyaret ederek kurulum rehberine ulaşabilirsiniz. İhtiyacınıza göre dbt Core veya Fusion seçeneklerinden birini seçerek yerel bilgisayarınızda kurulum adımlarını takip edebilirsiniz.

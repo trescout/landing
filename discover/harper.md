@@ -14,6 +14,16 @@ Harper, Rust diliyle geliştirilen çevrim dışı ve gizlilik odaklı bir dil b
 - Verilerinizi yerel olarak işleyerek gizliliği korur
 - Düşük bellek kullanımıyla yüksek performans sunar
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install harper
+```
+
+Kaynak: Homebrew formülü
+
 ## Nasıl başlanır?
 
 Harper aracını kullanmaya başlamak için resmî web sitesi olan writewithharper.com adresini ziyaret edebilirsiniz. Sitede yer alan dokümantasyon bölümünden Visual Studio Code, Neovim, Helix, Emacs veya Zed gibi kullandığınız metin editörüne uygun entegrasyon kılavuzlarını inceleyerek kurulumu tamamlayabilirsiniz.

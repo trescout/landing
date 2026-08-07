@@ -11,6 +11,24 @@ Ortak Kullanıcı Parola Profilleyici (Common User Passwords Profiler), hedef od
 - İnteraktif sorularla hedef odaklı profil oluşturma imkânı sunar.
 - Alecto veritabanı ile varsayılan kullanıcı adı ve parola eşleşmelerini ayrıştırır.
 
+## Kurulum
+
+**Depoyu klonla**
+
+```
+git clone --depth 1 https://github.com/Mebus/cupp.git && cd cupp
+```
+
+## Çalıştırma
+
+**Etkileşimli kipte çalıştır**
+
+```
+python3 cupp.py -i
+```
+
+Kaynak: Depo README'si
+
 ## Nasıl başlanır?
 
 Aracı kullanmaya başlamak için öncelikle bilgisayarınızda Python 3 kurulu olduğundan emin olun. Projenin GitHub sayfasını ziyaret ederek dosyaları bilgisayarınıza indirin ve terminal üzerinden aracın bulunduğu dizine giderek komutları çalıştırmaya başlayın.

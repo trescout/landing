@@ -31,6 +31,7 @@ Yes, it requires basic server administration and networking knowledge.
 
 ## Related tools
 - [Penpot](/en/discover/penpot/)
+- [Plane](/en/discover/plane/)
 - [Twenty](/en/discover/twenty/)
 - [AIRI](/en/discover/airi/)
 - [Self-Hosting-Guide](/en/discover/self-hosting-guide/)

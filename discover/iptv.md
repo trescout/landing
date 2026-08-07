@@ -6,6 +6,8 @@ Dünya genelindeki halka açık televizyon kanallarını tek bir merkezde toplay
 - TypeScript
 - GitHub Trending · 2026-06-13
 
+TreScout notu: Dünyadaki açık televizyon yayınlarının bağlantılarını toplayan bir liste. Kurulacak bir program değil, oynatıcınıza vereceğiniz adresler · bağlantılar sık ölür ve hangi yayının hangi ülkede izlenebildiği sizin sorumluluğunuzdadır.
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 118.170 → 134.991.
 

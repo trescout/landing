@@ -14,6 +14,16 @@ Google tarafından geliştirilen Abseil, C++ standart kütüphanesini tamamlayan
 - Google projelerinde test edilmiş güvenilir kod parçaları sunar
 - Standart kütüphanede eksik olan işlevsellikleri tamamlar
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install abseil
+```
+
+Kaynak: Homebrew formülü · abseil.io
+
 ## Nasıl başlanır?
 
 Abseil kullanmaya başlamak için resmî web sitesindeki Abseil Quickstart dokümanını ziyaret etmelisiniz. Bu kılavuz, geliştirme ortamınızı nasıl hazırlayacağınız, kodları nasıl indireceğiniz ve basit bir ikili dosyanın nasıl çalıştırılacağı konusunda size yol gösterecektir.

@@ -7,6 +7,8 @@ Win11Debloat, Windows 10 ve 11 işletim sistemlerinde önceden yüklenmiş uygul
 
 TreScout notu: Windows'la birlikte gelen istemediğiniz uygulamaları kaldırır, arka planda veri toplayan ayarları kapatır. Çalıştırmadan önce ne yaptığını okuyun: Kaldırılan bazı parçaları geri getirmek kolay değildir. Kişisel bilgisayarda pratik, şirket cihazında ya da başkasıyla paylaştığınız bilgisayarda kullanmayın.
 
+_Kaynak: github.com/Raphire/Win11Debloat · MIT_
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 48.210 → 54.506, son sürüm 2026.07.11 (11 Temmuz 2026).
 

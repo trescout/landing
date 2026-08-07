@@ -15,6 +15,30 @@ Grafana, farklı veri kaynaklarından gelen metrikleri, günlükleri (logs) ve i
 - Esnek ve dinamik kontrol panelleri oluşturma
 - Metrikler üzerinden otomatik uyarı sistemleri kurma
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install grafana
+```
+
+**Docker ile**
+
+```
+docker run -d -p 3000:3000 --name=grafana grafana/grafana
+```
+
+## Çalıştırma
+
+**Homebrew servisi olarak başlat**
+
+```
+brew services start grafana
+```
+
+Kaynak: Homebrew (grafana) · Docker Hub (grafana/grafana) · resmî Grafana dokümantasyonu (grafana.com/docs)
+
 ## Nasıl başlanır?
 
 Grafana kullanmaya başlamak için resmî web sitesi olan grafana.com/get adresini ziyaret edin. İhtiyacınıza uygun kurulum rehberlerine ulaşmak için grafana.com/docs/grafana/latest/setup-grafana/installation/ sayfasındaki dokümanları inceleyebilirsiniz.

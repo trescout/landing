@@ -14,6 +14,16 @@ TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ aja
 - donanım seviyesinde yalıtılmış güvenli alan
 - E2B SDK ile tam uyumluluk
 
+## Kurulum
+
+**pip ile (PyPI)**
+
+```
+pip install cubesandbox
+```
+
+Kaynak: PyPI · cubesandbox
+
 ## Nasıl başlanır?
 
 Kurulum ve kullanım detayları için GitHub deposundaki dokümantasyon bölümünde yer alan Quick Start kılavuzunu inceleyebilirsiniz. Web arayüzüne erişmek için kurulum sonrası tarayıcınızdan http:// :12088 adresini ziyaret etmeniz yeterlidir.

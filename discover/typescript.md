@@ -14,6 +14,30 @@ JavaScript dilinin bir üst kümesi (superset) olan TypeScript, kodun derleme a�
 - Statik tip tanımlama ile güvenilirlik
 - Ölçeklenebilir yazılım geliştirme süreçleri
 
+## Kurulum
+
+**npm ile global kurulum**
+
+```
+npm install -g typescript
+```
+
+**Proje bağımlılığı olarak ekle**
+
+```
+npm install --save-dev typescript
+```
+
+## Çalıştırma
+
+**TypeScript dosyasını derle**
+
+```
+tsc index.ts
+```
+
+Kaynak: npm (typescript) · resmî TypeScript dokümantasyonu (typescriptlang.org)
+
 ## Nasıl başlanır?
 
 TypeScript kullanmaya başlamak için resmî web sitesindeki TypeScript in 5 minutes rehberini inceleyebilir veya tarayıcı üzerinden çalışan TypeScript Playground ortamını deneyebilirsiniz. Kurulum yapmak isterseniz npm paket yöneticisi üzerinden projenize dahil edebilirsiniz.

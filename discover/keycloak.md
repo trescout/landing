@@ -15,6 +15,24 @@ Keycloak, modern uygulamalar ve hizmetler için açık kaynaklı kimlik ve eriş
 - Güçlü kimlik yönetimi ve yetkilendirme sağlar.
 - Uygulama güvenliğini zahmetsizce artırır.
 
+## Kurulum
+
+**Resmî imajı çek**
+
+```
+docker pull quay.io/keycloak/keycloak
+```
+
+## Çalıştırma
+
+**Geliştirme kipinde başlat**
+
+```
+docker run -p 8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak start-dev
+```
+
+Kaynak: Keycloak resmî imaj deposu · quay.io/keycloak/keycloak
+
 ## Nasıl başlanır?
 
 Keycloak'ı kullanmaya başlamak için resmî web sitesi üzerinden dağıtım paketini indirip bilgisayarınıza çıkartmanız gerekmektedir. Alternatif olarak, Docker kullanarak hızlıca çalıştırabilirsiniz. Detaylı kurulum ve yapılandırma adımları için resmî dokümantasyon sayfasını ziyaret edebilirsiniz.

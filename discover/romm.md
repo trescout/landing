@@ -14,6 +14,24 @@ Romm, oyun dosyalarını (ROM) düzenlemek ve tarayıcı üzerinden doğrudan oy
 - Tarayıcıda doğrudan oyun oynama desteği
 - Otomatik meta veri ve görsel zenginleştirme
 
+## Kurulum
+
+**Örnek compose dosyasını al**
+
+```
+curl -o docker-compose.yml https://raw.githubusercontent.com/rommapp/romm/master/examples/docker-compose.example.yml
+```
+
+## Çalıştırma
+
+**Başlat**
+
+```
+docker compose up -d
+```
+
+Kaynak: Depodaki examples/docker-compose.example.yml
+
 ## Nasıl başlanır?
 
 Kuruluma başlamak için resmî dokümantasyon sayfasında yer alan Hızlı Başlangıç Kılavuzu'nu (Quick Start Guide) ziyaret etmeniz gerekmektedir. İlgili rehbere RomM dokümantasyon sitesi üzerinden ulaşarak kurulum adımlarını takip edebilirsiniz.

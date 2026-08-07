@@ -15,6 +15,24 @@ Invidious, YouTube platformuna alternatif olarak geliştirilen açık kaynaklı 
 - Google hesabına ihtiyaç duymadan kanallara abone olun
 - Düşük veri kullanımıyla arka planda sesli oynatma yapın
 
+## Kurulum
+
+**Depoyu ve compose dosyasını al**
+
+```
+git clone --depth 1 https://github.com/iv-org/invidious.git && cd invidious
+```
+
+## Çalıştırma
+
+**Başlat**
+
+```
+docker compose up -d
+```
+
+Kaynak: Depodaki resmî docker-compose.yml
+
 ## Nasıl başlanır?
 
 Invidious kullanmaya başlamak için herhangi bir kurulum yapmanıza gerek yoktur. İnternet tarayıcınız üzerinden herkese açık örnek listesine giderek bir sunucu seçebilir ve hemen video izlemeye başlayabilirsiniz. Kendi sunucunuzu kurmak isterseniz resmî dokümantasyon sayfasındaki kurulum adımlarını takip edebilirsiniz.

@@ -31,6 +31,7 @@ Yes, they can make transactions over the internet using web browsers or APIs if 
 - [Multi-agent LLM](/en/dictionary/multi-agent-llm/)
 
 ## Related tools
+- [AutoGPT](/en/discover/autogpt/)
 - [Agency Agents](/en/discover/agency-agents/)
 - [Chrome Devtools MCP](/en/discover/chrome-devtools-mcp/)
 - [UI-TARS-desktop](/en/discover/ui-tars-desktop/)
@@ -38,7 +39,6 @@ Yes, they can make transactions over the internet using web browsers or APIs if 
 - [Pentagi](/en/discover/pentagi/)
 - [Video Use](/en/discover/video-use/)
 - [Aisuite](/en/discover/aisuite/)
-- [Agents](/en/discover/agents/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agents/

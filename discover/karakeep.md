@@ -14,6 +14,16 @@ Karakeep, bağlantıları, notları ve görselleri tek bir merkezde toplayan, ke
 - Yapay zekâ ile otomatik etiketleme ve özetleme yapın.
 - Tam metin arama ile içeriklerinize hızla ulaşın.
 
+## Kurulum
+
+**Komut satırı aracı (Homebrew)**
+
+```
+brew install karakeep
+```
+
+Kaynak: Homebrew formülü · karakeep.app
+
 ## Nasıl başlanır?
 
 Kurulum yapmak için resmî dokümantasyon sayfasındaki Docker kurulum rehberini takip edebilirsiniz. Detaylı adımlar ve yapılandırma seçenekleri için docs.karakeep.app adresindeki kurulum kılavuzunu incelemeniz yeterlidir.

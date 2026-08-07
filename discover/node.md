@@ -6,6 +6,8 @@ Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağla
 - JavaScript
 - GitHub Trending · 2026-07-27
 
+TreScout notu: Sunucu tarafında JavaScript çalıştırmanın standart yolu. Aynı dili iki tarafta kullanmak ekip için büyük kolaylık; bedeli bağımlılık ağacının hızla şişmesi ve sürüm yönetiminin sizin işiniz olması.
+
 ## Güncelleme
 - 6 Ağustos 2026: Yıldız 118.705 → 118.797, son sürüm v26.7.0 (5 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 118.617 → 118.705, son sürüm v26.6.0 (3 Ağustos 2026).
@@ -15,20 +17,6 @@ Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağla
 - JavaScript kodunu tarayıcı dışında çalıştırır
 - Ölçeklenebilir ağ uygulamaları geliştirilmesini sağlar
 - V8 motoru ile yüksek performans sunar
-
-## Kurulum
-
-**Güvenli anahtar halkasını indirme**
-
-```
-curl -fsLo "/path/to/nodejs-keyring.kbx" "https://github.com/nodejs/release-keys/raw/HEAD/gpg/pubring.kbx"
-```
-
-**İndirilen dosyaları doğrulama**
-
-```
-curl -fsO "https://nodejs.org/dist/${VERSION}/SHASUMS256.txt.asc" \
-&& gpgv --keyring="/path/to/nodejs-keyring.kbx" --output SHASUMS256.txt 
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

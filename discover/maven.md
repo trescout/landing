@@ -14,6 +14,30 @@ Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yönet
 - Proje nesne modeli ile merkezi yönetim sağlar
 - Raporlama ve dokümantasyon süreçlerini yönetir
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install maven
+```
+
+**Docker imajı**
+
+```
+docker pull maven
+```
+
+## Çalıştırma
+
+**Projeyi derle**
+
+```
+mvn package
+```
+
+Kaynak: Homebrew formülü (maven.apache.org) · Docker Hub resmî imajı
+
 ## Nasıl başlanır?
 
 Apache Maven kullanmaya başlamak için resmî Apache Maven ana sayfasını ziyaret edebilir ve indirme sayfasından güncel sürümü temin edebilirsiniz. Kurulum ve kullanım detayları için yine aynı sayfadaki dokümantasyon bölümünü incelemeniz önerilir.

@@ -14,6 +14,32 @@ Google tarafından geliştirilen Flutter, tek bir kod tabanı kullanarak mobil, 
 - Anlık değişiklikleri görmeyi sağlayan hot reload özelliği
 - Donanım hızlandırmalı yüksek performanslı grafikler
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install --cask flutter
+```
+
+## Çalıştırma
+
+**Ortam kontrollerini doğrula**
+
+```
+flutter doctor
+```
+
+**Yeni proje oluştur ve çalıştır**
+
+```
+flutter create my_app
+cd my_app
+flutter run
+```
+
+Kaynak: Homebrew Cask (flutter) · resmî Flutter dokümantasyonu (docs.flutter.dev)
+
 ## Nasıl başlanır?
 
 Flutter ile geliştirmeye başlamak için resmî web sitesi olan flutter.dev adresini ziyaret etmeniz gerekmektedir. Kurulum adımları ve işletim sisteminize uygun indirme seçenekleri için sitedeki 'Get Started' bölümünü takip ederek rehberli kurulumu tamamlayabilirsiniz.

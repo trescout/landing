@@ -7,6 +7,8 @@ Anthropic Skills ; Claude'un özel görevlerde daha yüksek performans gösterme
 - Lisans: kontrol et
 - GitHub Trending · 29 May 2026
 
+TreScout notu: Claude'un ihtiyaç duydukça yüklediği hazır beceri paketleri. Kendi becerinizi yazmadan önce buraya bakmak zaman kazandırır; ajan kullanmıyorsanız tek başına bir işe yaramaz.
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 143.307 → 165.785.
 

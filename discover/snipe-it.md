@@ -14,6 +14,24 @@ Snipe-IT, bilişim teknolojileri varlıklarını ve yazılım lisanslarını tak
 - yazılım lisanslarını merkezi olarak takip etme
 - donanım zimmet kayıtlarını dijitalleştirme
 
+## Kurulum
+
+**Resmî imajı çek**
+
+```
+docker pull grokability/snipe-it
+```
+
+## Çalıştırma
+
+**Başlat**
+
+```
+docker compose up -d
+```
+
+Kaynak: Docker Hub · grokability/snipe-it
+
 ## Nasıl başlanır?
 
 Bu araç web tabanlı bir yazılımdır ve bir web sunucusu üzerinde çalıştırılması gerekir. Kurulum ve yapılandırma adımları için resmî Snipe-IT kurulum dokümanlarını ziyaret etmeniz ve sistem gereksinimlerini incelemeniz gerekmektedir.
