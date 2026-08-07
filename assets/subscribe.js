@@ -59,6 +59,9 @@
           body: JSON.stringify({
             email: email,
             source: form.dataset.source || 'unknown',
+            // Sayfa yolu · data-source tüm sözlük sayfalarında aynı ("dictionary-en"),
+            // hangi girdinin kişiyi getirdiğini ancak bu satır gösteriyor.
+            path: location.pathname,
             consent: true,
             website: honeypot ? honeypot.value : ''
           })
