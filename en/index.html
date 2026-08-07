@@ -84,8 +84,9 @@
             <button class="btn btn-primary btn-large" type="submit">Join Early Access</button>
           </div>
           <label class="form-consent">
-            <input type="checkbox" name="consent" required data-needs-consent>
-            <span>I agree to receive daily tech updates from TreScout. No spam ever.</span>
+            <input type="checkbox" name="consent" required aria-describedby="consent-hint" data-needs-consent>
+            <span>I have read the <a href="/en/privacy.html" data-privacy-modal>Privacy Notice</a> and consent to my email being processed for this purpose.</span>
+            <span id="consent-hint" class="form-consent-hint">Please read the Privacy Notice to give consent.</span>
           </label>
           <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
         </form>
@@ -478,7 +479,7 @@
         <div class="footer-col-title">Contact</div>
         <ul>
           <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
-          <li><a href="/privacy.html" target="_blank" rel="noopener">Privacy Notice</a></li>
+          <li><a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a></li>
         </ul>
       </div>
       <div class="footer-col">
@@ -499,5 +500,23 @@
   <!-- VERCEL ANALYTICS -->
   <script defer src="/_vercel/insights/script.js"></script>
   <script defer src="/_vercel/speed-insights/script.js"></script>
+  <div class="privacy-modal" id="privacy-modal" role="dialog" aria-modal="true" aria-labelledby="privacy-modal-title" aria-hidden="true">
+    <div class="privacy-modal-card">
+      <div class="privacy-modal-head">
+        <h2 id="privacy-modal-title">Privacy Notice</h2>
+        <button type="button" class="privacy-modal-x" aria-label="Close">×</button>
+      </div>
+      <div class="privacy-modal-body">
+        <iframe class="privacy-modal-iframe" src="about:blank" title="Privacy Notice"></iframe>
+      </div>
+      <div class="privacy-modal-foot">
+        <span class="privacy-modal-status" aria-live="polite">
+          <span class="pulse-arrow" aria-hidden="true">↓</span>
+          <span class="privacy-modal-status-text">Scroll to the end of the text to give consent</span>
+        </span>
+        <button type="button" class="privacy-modal-confirm" disabled>I have read it, I consent</button>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
