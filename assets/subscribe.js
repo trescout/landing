@@ -5,10 +5,31 @@
 (function () {
   var ENDPOINT = '/api/subscribe';
 
+  /* Sayfanın dili · /en/ altındaki sayfalarda İngilizce metin.
+     NOT: aynı sözlük assets/index.js içinde de var (anasayfa formu ayrı akış
+     kullanıyor · scroll-gate modal). Birini değiştirirken diğerine bakın. */
+  var EN = document.documentElement.lang === 'en';
+  var T = EN ? {
+    zaten: '<strong>You are already on the list.</strong> We will let you know when we go live.',
+    aldik: '<strong>Got it.</strong> We will let you know when we go live. Have a good week.',
+    onay: 'Please accept the privacy notice to continue.',
+    gonderiliyor: 'Sending...',
+    genel: 'Something went wrong. Please try again.',
+    baglanti: 'Connection error. Please try again.'
+  } : {
+    zaten: '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.',
+    aldik: '<strong>Aldık.</strong> Yayında olduğumuzda size haber vereceğiz. İyi haftalar.',
+    onay: 'Devam etmek için Aydınlatma Metni onayı gerekli.',
+    gonderiliyor: 'Gönderiliyor...',
+    genel: 'Bir şeyler ters gitti. Lütfen tekrar deneyin.',
+    baglanti: 'Bağlantı hatası. Lütfen tekrar deneyin.'
+  };
+
+
   function showSuccess(form, isDuplicate) {
     var msg = isDuplicate
-      ? '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.'
-      : '<strong>Aldık.</strong> Yayında olduğumuzda size haber vereceğiz. İyi haftalar.';
+      ? T.zaten
+      : T.aldik;
     var div = document.createElement('div');
     div.className = 'form-success';
     div.setAttribute('role', 'status');
@@ -42,14 +63,14 @@
       }
       var consent = form.querySelector('input[name="consent"]');
       if (consent && !consent.checked) {
-        showError(form, 'Devam etmek için Aydınlatma Metni onayı gerekli.');
+        showError(form, T.onay);
         consent.focus();
         return;
       }
 
       var originalText = button.textContent;
       button.disabled = true;
-      button.textContent = 'Gönderiliyor...';
+      button.textContent = T.gonderiliyor;
 
       try {
         var honeypot = form.querySelector('input[name="website"]');
@@ -73,12 +94,12 @@
         } else {
           button.disabled = false;
           button.textContent = originalText;
-          showError(form, data.error || 'Bir şeyler ters gitti. Lütfen tekrar deneyin.');
+          showError(form, data.error || T.genel);
         }
       } catch (err) {
         button.disabled = false;
         button.textContent = originalText;
-        showError(form, 'Bağlantı hatası. Lütfen tekrar deneyin.');
+        showError(form, T.baglanti);
       }
     });
   }
