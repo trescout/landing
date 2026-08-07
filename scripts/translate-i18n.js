@@ -27,13 +27,26 @@ function translateText(text) {
   });
 }
 
+/* Çeviri önbelleği · scripts/discover-en.py ve dictionary-en.py ile AYNI dosya.
+   Anahtar kaynak metnin kendisi olduğu için: metin değişmemişse çeviri
+   tekrarlanmaz, DEĞİŞMİŞSE yeni anahtar oluşur ve otomatik yenilenir.
+   Önceden bu betik her çalıştığında 880 çağrı yapıyordu ve hiçbir iş akışında
+   değildi · yeni girdiler İngilizce kartlarda TÜRKÇE görünüyordu (2026-08-07). */
+const CACHE_PATH = path.join(ROOT, 'assets', 'discover', 'en-cache.json');
+let cache = {};
+try { cache = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8')); } catch { cache = {}; }
+let yeniCeviri = 0;
+
 async function batchProcess(items, textGetter, textSetter, batchSize = 25) {
   let completed = 0;
   for (let i = 0; i < items.length; i += batchSize) {
     const chunk = items.slice(i, i + batchSize);
     await Promise.all(chunk.map(async (item) => {
-      const srcText = textGetter(item);
+      const srcText = (textGetter(item) || '').trim();
+      if (!srcText) return;
+      if (cache[srcText]) { textSetter(item, cache[srcText]); return; }
       const translated = await translateText(srcText);
+      if (translated && translated !== srcText) { cache[srcText] = translated; yeniCeviri++; }
       textSetter(item, translated);
     }));
     completed += chunk.length;
@@ -64,7 +77,8 @@ async function main() {
   fs.writeFileSync(CAT_JSON, JSON.stringify(catalog, null, 2), 'utf8');
   console.log('Catalog translation saved.');
 
-  console.log('All translations completed successfully!');
+  fs.writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 1), 'utf8');
+  console.log(`All translations completed · ${yeniCeviri} new, cache ${Object.keys(cache).length} entries.`);
 }
 
 main().catch(err => {

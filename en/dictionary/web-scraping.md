@@ -1,7 +1,5 @@
 # What is Web Scraping?
 
-> Web Kazıma
-
 Software process that collects and records data from websites using automatic methods.
 
 ## Overview

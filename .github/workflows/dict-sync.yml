@@ -90,6 +90,13 @@ jobs:
       - name: Katalog alanlarını sayfaya bas (komut · not · görsel)
         run: python3 scripts/catalog-render.py
 
+      # İngilizce tanıtım/özet metinleri (tagline_en, kisa_en) · yeni girdiler
+      # bunlar olmadan İngilizce kartlarda TÜRKÇE görünüyordu. Betik hiçbir iş
+      # akışında değildi, elle çalıştırılıyordu (2026-08-07 bulgusu).
+      # Önbellekli: değişmeyen metin çeviri harcamaz.
+      - name: İngilizce tanıtım metinleri (tagline_en · kisa_en)
+        run: node scripts/translate-i18n.js
+
       - name: İngilizce sayfaları üret (keşif + sözlük)
         run: |
           python3 scripts/discover-en.py

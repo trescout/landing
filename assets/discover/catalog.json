@@ -381,7 +381,7 @@
         "surum_tarihi": "2026-08-02"
       }
     ],
-    "tagline_en": "Contact solver for physics simulations: ZOZO's physics engine for fabric, solid and rope interactions."
+    "tagline_en": "Contact solver for physics simulations: ZOZO's physics engine for fabric, solid and string interactions."
   },
   {
     "slug": "moneyprinterturbo",
@@ -876,7 +876,7 @@
         "surum_tarihi": "2026-05-11"
       }
     ],
-    "tagline_en": "Tokenizer-free multilingual TTS: audio design and audio transcription solution."
+    "tagline_en": "Tokenizer-free multilingual TTS: sound design and audio transcription solution."
   },
   {
     "slug": "stable-worldmodel",
@@ -1714,7 +1714,7 @@
         "surum_tarihi": "2026-07-14"
       }
     ],
-    "tagline_en": "OpenDataLoader PDF is an open source PDF parser that makes data available for artificial intelligence models."
+    "tagline_en": "OpenDataLoader PDF is an open source PDF parser (PDF parser) that makes data available for artificial intelligence models."
   },
   {
     "slug": "odoo",
@@ -3351,7 +3351,7 @@
         "surum_tarihi": "2026-07-27"
       }
     ],
-    "tagline_en": "Chatwoot is an open source application that offers live chat, email support and omni-channel customer service (omni-channel desk) management."
+    "tagline_en": "Chatwoot is an open source application that offers live chat, email support and omni-channel desk management."
   },
   {
     "slug": "agentsview",
@@ -3752,7 +3752,7 @@
         "surum_tarihi": "2026-06-19"
       }
     ],
-    "tagline_en": "Pytest offers a wide range of tests in Python projects, from small-scale unit testing to complex functional tests."
+    "tagline_en": "Pytest provides a wide range of tests in Python projects, from small-scale unit testing to complex functional tests."
   },
   {
     "slug": "meshery",
@@ -5880,7 +5880,8 @@
     ],
     "stars": 7040,
     "lite": false,
-    "headline": "Seyahat planlarınızı birlikte yönetin"
+    "headline": "Seyahat planlarınızı birlikte yönetin",
+    "tagline_en": "TREK is a self-hosted…"
   },
   {
     "slug": "open-seo",
@@ -6891,7 +6892,7 @@
         "onceki_yildiz": 58739
       }
     ],
-    "tagline_en": "AI for Beginners, prepared by Microsoft, covers introductory artificial intelligence topics with a 12-week curriculum, using Jupyter notes…"
+    "tagline_en": "AI for Beginners, prepared by Microsoft, covers introductory artificial intelligence topics with a 12-week curriculum using Jupyter notes."
   },
   {
     "slug": "astryx",
@@ -7860,7 +7861,7 @@
         "surum_tarihi": "2026-08-01"
       }
     ],
-    "tagline_en": "Karakeep is a platform that collects links, notes and images in a single center and hosts them on your own server.",
+    "tagline_en": "Karakeep is a platform that collects links, notes and images in a single center and can be hosted on your own server.",
     "cmds": {
       "kurulum": [
         {
@@ -9572,7 +9573,7 @@
         "surum_tarihi": "2026-08-01"
       }
     ],
-    "tagline_en": "LobeHub is an artificial intelligence system that works 24/7 by managing AI agents through recruitment, scheduling and reporting processes.",
+    "tagline_en": "LobeHub is an artificial intelligence system that works 24/7 by managing artificial intelligence agents through recruitment, scheduling and reporting processes.",
     "cmds": {
       "kurulum": [
         {
@@ -10069,7 +10070,7 @@
         "surum_tarihi": "2026-08-05"
       }
     ],
-    "tagline_en": "FastMCP is a Python…"
+    "tagline_en": "FastMCP is a Python software that makes it easier to develop Model Context Protocol (MCP) servers and clients."
   },
   {
     "slug": "topcoat",
@@ -12309,7 +12310,8 @@
         "surum": "version/2026.5.6",
         "surum_tarihi": "2026-07-22"
       }
-    ]
+    ],
+    "tagline_en": "Authentik is an open source security platform that provides centralized authentication and access management for applications."
   },
   {
     "slug": "guava",
@@ -12336,7 +12338,8 @@
         "surum": "v33.6.0",
         "surum_tarihi": "2026-04-14"
       }
-    ]
+    ],
+    "tagline_en": "Developed by Google, Guava is a library that contains core libraries frequently needed in Java projects."
   },
   {
     "slug": "autogpt",
@@ -12362,6 +12365,7 @@
         "surum": "autogpt-platform-beta-v0.7.0",
         "surum_tarihi": "2026-08-05"
       }
-    ]
+    ],
+    "tagline_en": "AutoGPT aims to create autonomous AI agents that can plan and execute complex tasks on their own."
   }
 ]
