@@ -156,6 +156,9 @@ export default async function handler(req) {
 
   const email = (body.email || '').toString().trim().toLowerCase();
   const source = (body.source || 'unknown').toString().slice(0, 32);
+  // Kayıt hangi sayfadan geldi · data-source sayfa TİPİNİ veriyor (ör. tüm
+  // 488 İngilizce sözlük sayfası 'dictionary-en'), path tek girdiyi veriyor.
+  const path = (body.path || '').toString().slice(0, 120).replace(/[^\w\-/.]/g, '');
   const consent = body.consent === true || body.consent === 'true';
 
   if (!consent) {
@@ -223,6 +226,7 @@ export default async function handler(req) {
         text: [
           `E-posta: ${email}`,
           `Kaynak: ${source}`,
+          path ? `Sayfa: https://trescout.com${path}` : '',
           `Tarih: ${new Date().toISOString()}`,
           isDuplicate ? 'Not: Bu e-posta listede zaten kayıtlıydı.' : ''
         ].filter(Boolean).join('\n')
