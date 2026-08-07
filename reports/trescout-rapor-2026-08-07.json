@@ -1,0 +1,347 @@
+{
+  "date": "2026-08-07",
+  "editorial": "Yapay zekâ ekosisteminde bugün odak noktası, donanım seviyesinde çıkarım (inference) performansını artırmak ve ajan yeteneklerini (agent skills) standart bir çerçeveye oturtmak üzerine kurulu. AMD'nin Taalas hamlesi silikon tabanlı optimizasyonların hız kazandığını gösterirken, açık kaynaklı değerlendirme metrikleri (evaluation metrics) bilgisayar kullanımı konusunda daha güvenilir sonuçlar arıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentCloud tarafından geliştirilen TencentDB Agent Memory, yapay zekâ ajanları için konuşmaları, belgeleri ve kodları yeniden kullanılabilir bellek varlıklarına dönüştüren bir merkezdir. Bu araç, farklı ajanlar ve çerçeveler arasında paylaşılan verileri düzenleyerek iş akışlarında tutarlı bir bilgi yönetimi sağlar.",
+          "meta": "TypeScript · ★ 16.685 · +1.057 bugün"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Addy Osmani tarafından geliştirilen agent-skills, yapay zekâ kodlama ajanları için üretim seviyesinde mühendislik yetenekleri (engineering skills) sunuyor. JavaScript tabanlı bu kütüphane, otonom yazılım geliştirme süreçlerini daha güvenilir ve standart hale getirmeyi amaçlıyor.",
+          "meta": "JavaScript · ★ 83.131 · +593 bugün"
+        },
+        {
+          "title": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "summary": "Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel veya uzak bir bilgisayarı kontrol etme yeteneği kazandıran bir TypeScript kütüphanesi. Bu araç, ajanların ekran görüntüsü alma ve klavye veya fare girdileri gönderme gibi işlemlerle dijital arayüzleri insan gibi kullanmasını sağlıyor.",
+          "meta": "TypeScript · ★ 4.979 · +2.802 bugün"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan Skills, yazılım mühendislerinin yapay zekâ ajanları için kullandığı özelleştirilmiş yetenek paketlerini (skills) içeriyor. Bu depo, geliştiricilerin kendi ajanlarını daha işlevsel hale getirmeleri için hazır komut dosyaları ve yapılandırma örnekleri sunuyor.",
+          "meta": "Shell · ★ 207.489 · +1.873 bugün"
+        },
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik, uygulamalar için merkezi kimlik doğrulama ve erişim yönetimi sağlayan açık kaynaklı bir güvenlik platformu. Karmaşık kimlik doğrulama süreçlerini tek bir noktada birleştirerek, farklı servisler arasında güvenli geçiş imkânı sunuyor.",
+          "meta": "Python · ★ 23.221 · +138 bugün"
+        },
+        {
+          "title": "huangruiteng/loopx",
+          "url": "https://github.com/huangruiteng/loopx",
+          "summary": "Loopx, uzun süreli çalışan yapay zekâ ajan ekipleri için geliştirilmiş hafif bir durum çekirdeği (state kernel). Kod yazma ajanları (Codex, Claude Code) ile uyumlu çalışan bu yapı, görev takibi, kota yönetimi ve kanıt tabanlı iş akışı devri gibi özelliklerle ajanların sürekliliğini sağlıyor.",
+          "meta": "Python · ★ 3.033 · +847 bugün"
+        },
+        {
+          "title": "google/guava",
+          "url": "https://github.com/google/guava",
+          "summary": "Google tarafından geliştirilen Guava, Java projelerinde sıkça ihtiyaç duyulan temel kütüphaneleri (core libraries) içeren bir araç setidir. Koleksiyonlar, önbelleğe alma (caching) ve dizgi işleme gibi yaygın görevleri basitleştirerek yazılım geliştirme sürecini hızlandırır.",
+          "meta": "Java · ★ 51.666 · +13 bugün"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "ChinaTextbook, Çin'deki ilköğretimden üniversite seviyesine kadar kullanılan ders kitaplarının PDF formatındaki arşivini sunuyor. Bu açık kaynaklı depo, eğitim materyallerine erişimi dijital bir kütüphane mantığıyla kolaylaştırıyor.",
+          "meta": "Roff · ★ 77.289 · +134 bugün"
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "summary": "AutoGPT, karmaşık görevleri kendi başına planlayıp yürütebilen otonom yapay zekâ ajanları (autonomous AI agents) oluşturmayı sağlayan açık kaynaklı bir Python projesidir. Kullanıcıların belirlediği hedeflere ulaşmak için internette arama yapma ve dosya yönetimi gibi işlemleri otomatikleştirerek yapay zekâ erişimini kolaylaştırır.",
+          "meta": "Python · ★ 186.094 · +37 bugün"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph, kod tabanınızın kalıcı bir haritasını çıkararak yapay zekâ destekli kodlama araçlarının yalnızca ilgili bölümleri okumasını sağlayan yerel öncelikli (local-first) bir kod zekâ aracıdır. Büyük projelerdeki iş akışlarında ve kod incelemelerinde gereksiz veri yükünü azaltarak bağlam (context) yönetimini optimize eder.",
+          "meta": "Python · ★ 29.138 · +237 bugün"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix, terminal üzerinde çalışan ve kod yazma süreçlerini otomatize eden bir yapay zekâ ajanıdır. Önek önbelleği (prefix-cache) kararlılığı üzerine kurulu yapısı sayesinde, geliştiricilerin uzun süreli oturumlar boyunca kesintisiz çalışmasına olanak tanır.",
+          "meta": "Go · ★ 32.603 · +888 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yapay zekâ ajanları için yetenek geliştirme çerçevesi (agentic skills framework) ve yazılım geliştirme metodolojisi sunuyor. Bu araç, ajan tabanlı sistemlerin iş akışlarını standartlaştırmak ve yazılım süreçlerini daha yönetilebilir kılmak için kullanılıyor.",
+          "meta": "Shell · ★ 268.240 · +858 bugün"
+        },
+        {
+          "title": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "summary": "Firecrawl tarafından geliştirilen PDF Inspector, PDF dosyalarını incelemek, sınıflandırmak ve metinlerini ayıklamak için kullanılan hızlı bir Rust kütüphanesidir. Taranmış belgeler ile metin tabanlı dosyaları ayırt ederek, verilerin işlenmesi sürecinde akıllı yönlendirme kararları alınmasını sağlar.",
+          "meta": "Rust · ★ 12.624 · +1.190 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Mario Meets Pareto",
+          "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+          "summary": "Mario Meets Pareto, yazılım geliştirme süreçlerinde Pareto ilkesini kullanarak en yüksek etkiyi yaratan görevlere odaklanmayı öneriyor. Karmaşık projelerde zamanın büyük kısmını harcayan ikincil işleri ayıklayarak, ürünün temel değerini oluşturan kritik özelliklere öncelik verilmesini savunuyor.",
+          "meta": "957 oy · 151 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49195231",
+              "popularity": 957,
+              "engagementCount": 151
+            }
+          ]
+        },
+        {
+          "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+          "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+          "summary": "AMD, yapay zekâ modellerini doğrudan silikon üzerine işleyerek çıkarım (inference) performansını artırmak amacıyla çip girişimi Taalas'ı satın aldı. Bu hamle, donanım seviyesinde özelleştirilmiş yapay zekâ hızlandırma yöntemlerini işlemci mimarisine entegre etmeyi hedefliyor.",
+          "meta": "509 oy · 391 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49201970",
+              "popularity": 509,
+              "engagementCount": 391
+            }
+          ]
+        },
+        {
+          "title": "GitHub Actions and Pages are experiencing degraded availability",
+          "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+          "summary": "Yazılım geliştirme platformu GitHub, otomasyon aracı GitHub Actions ve web sitesi barındırma hizmeti GitHub Pages üzerinde kesintiler yaşıyor. Servislerdeki erişim sorunları nedeniyle kullanıcılar projelerini derleme ve yayınlama süreçlerinde aksaklıklarla karşılaşıyor.",
+          "meta": "367 oy · 297 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49198302",
+              "popularity": 367,
+              "engagementCount": 297
+            }
+          ]
+        },
+        {
+          "title": "Almost no skill required to cook a steak",
+          "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+          "summary": "Sydorets tarafından kaleme alınan yazı, karmaşık tekniklere ihtiyaç duymadan ev ortamında kaliteli biftek pişirmenin yöntemlerini açıklıyor. Süreci basit adımlara indirgeyerek, doğru ekipman ve zamanlama ile profesyonel sonuçlar almanın mümkün olduğunu gösteriyor.",
+          "meta": "312 oy · 352 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49198069",
+              "popularity": 312,
+              "engagementCount": 352
+            }
+          ]
+        },
+        {
+          "title": "Taste Is All That's Left",
+          "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+          "summary": "Yapay zekânın içerik üretimini kolaylaştırmasıyla birlikte, teknik beceriden ziyade kürasyon ve zevk sahibi olma (taste) yeteneği dijital dünyada öne çıkan temel değer haline geliyor. Kaliteli içeriği ayırt etme ve doğru seçimi yapma becerisi, üretken yapay zekâ (generative AI) çağında insan odaklı yaratıcılığın yeni ölçütü olarak tanımlanıyor.",
+          "meta": "306 oy · 234 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49199346",
+              "popularity": 306,
+              "engagementCount": 234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax tarafından geliştirilen MiniMax-H3, görsel ve metin girdilerini kullanarak video üreten bir yapay zekâ modeli. Bu model, kullanıcıların sağladığı içeriklerden yüksek kaliteli videolar oluşturma yeteneği sunuyor.",
+          "meta": "♥ 2.792 · 12.102 indirme"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, metin oluşturma (text generation) odaklı yeni bir dil modelidir. HuggingFace platformunda paylaşılan bu model, hızlı ve verimli çıktı üretme yetenekleriyle öne çıkmaktadır.",
+          "meta": "♥ 2.669 · 617.900 indirme"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K3, görsel ve metinsel verileri işleyerek anlamlı çıktılar üreten bir çok modlu (multimodal) yapay zekâ modelidir. Görüntü ve metin tabanlı sorguları analiz etme yeteneğiyle, farklı veri türlerini tek bir sistemde birleştirir.",
+          "meta": "♥ 10.218 · 1.258.043 indirme"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3, metin ve görsel işleme yeteneklerine sahip çok modlu bir büyük dil modeli (multimodal large language model). Hugging Face üzerinde paylaşılan bu model, karmaşık görsel verileri analiz ederek kullanıcıların metin tabanlı komutlarla görsel içerik üretmesini veya yorumlamasını sağlıyor.",
+          "meta": "♥ 861 · 2.295.377 indirme"
+        },
+        {
+          "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "summary": "Unsloth, büyük dil modellerini verimli eğitmeye yarayan bir kütüphane, DeepSeek-V4 modelini daha hızlı ve düşük bellek kullanımıyla çalıştırmak için optimize edilmiş bir sürüm sunuyor. Bu sürüm, modelin yerel donanımlarda çalıştırılmasını kolaylaştıran GGUF formatındaki ağırlıkları içeriyor.",
+          "meta": "♥ 559 · 145.105 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Invisible Shortcuts: Why Vision Encoders Know Your Camera",
+          "url": "https://huggingface.co/papers/2608.05424",
+          "summary": "Görüntü işleme modelleri, eğitim verilerindeki nesneler yerine piksel seviyesinde gizlenmiş kamera ve çekim meta verilerine dayanarak tahmin yürütüyor. Bu durum, modellerin görsel içerik yerine cihaz kaynaklı izleri öğrenerek kestirme yollar (shortcuts) oluşturmasına neden oluyor.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+          "url": "https://huggingface.co/papers/2607.28609",
+          "summary": "OSReward, bilgisayar kullanan ajanların (computer-using agents) gerçekleştirdiği işlemleri değerlendirmek için standartlaştırılmış bir ödül modeli sunuyor. Görsel-dil modellerini (vision-language models) yargıç olarak kullanarak, ajanların görevleri yerine getirme başarısını ölçeklenebilir ve tutarlı bir biçimde ölçmeyi hedefliyor.",
+          "meta": "5 beğeni · 1 yorum"
+        },
+        {
+          "title": "PaDoc: Layout-Grounded Parallel Decoding for Document Parsing",
+          "url": "https://huggingface.co/papers/2608.06146",
+          "summary": "PaDoc, belge ayrıştırma (document parsing) işlemlerinde sayfa düzenini temel alan paralel bir kod çözme (decoding) yöntemi sunuyor. Bu yaklaşım, tüm sayfa bağlamını korurken içerik bölgelerini bağımsız şekilde işleyerek geleneksel yöntemlerdeki işlem süresi kısıtlamalarını ortadan kaldırıyor.",
+          "meta": "0 beğeni · 1 yorum"
+        },
+        {
+          "title": "World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation",
+          "url": "https://huggingface.co/papers/2608.05369",
+          "summary": "World-to-Wrist (W2-VLA), robotik manipülasyon süreçlerinde genel görüş ve bilek kamerası verilerini birleştirerek gelecekteki hareketleri tahmin eden bir görme-dil-eylem (vision-language-action) modelidir. Bu yaklaşım, robotun karmaşık görevleri yerine getirirken yerel etkileşimleri küresel görev bağlamıyla daha uyumlu hale getirmesini sağlar.",
+          "meta": "13 beğeni · 1 yorum"
+        },
+        {
+          "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2608.06197",
+          "summary": "EnvACE, yapay zekâ ajanlarını eğitirken dış ortamlara ihtiyaç duymak yerine dünya provası (world rehearsal) yöntemini kullanıyor. Bu yaklaşım, karmaşık araç kullanımı gerektiren görevlerde dış simülatörlere olan bağımlılığı azaltarak eğitim sürecini verimli hale getiriyor.",
+          "meta": "22 beğeni · 1 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "summary": "Toplantı kayıt aracı tl;dv, güvenlik açığı nedeniyle yaklaşık 182 bin toplantı kaydını yetkisiz erişime açık bıraktı. Bu durum, özel görüşmelerin ve hassas verilerin korunması konusunda bulut tabanlı kayıt servislerinin risklerini ortaya koyuyor.",
+          "meta": "136 oy · 26 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874",
+              "popularity": 136,
+              "engagementCount": 26
+            }
+          ]
+        },
+        {
+          "title": "Zig's Io.Threaded is Neat",
+          "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+          "summary": "Zig programlama dilindeki Io.Threaded yapısı, giriş çıkış işlemlerini (I/O) iş parçacıkları üzerinden yöneterek eş zamanlılığı daha verimli hale getiriyor. Bu yöntem, karmaşık asenkron kod bloklarına ihtiyaç duymadan sistem kaynaklarını doğrudan kullanmayı sağlıyor.",
+          "meta": "38 oy · 5 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat",
+              "popularity": 38,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "jujutsu 0.44.0",
+          "url": "https://github.com/jj-vcs/jj/releases/tag/v0.44.0",
+          "summary": "Jujutsu 0.44.0, sürüm kontrol sistemi (version control system) olan Jujutsu için yeni özellikler ve hata düzeltmeleri içeren bir güncelleme sunuyor. Git ile uyumlu çalışabilen bu araç, veri yapısını ve komut satırı deneyimini geliştirmeye odaklanıyor.",
+          "meta": "55 oy · 25 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/xx83dr/jujutsu_0_44_0",
+              "popularity": 55,
+              "engagementCount": 25
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık problemleri mantıklı adımlarla çözebilme ve teknik sistemler kurabilme yeteneği."
+    },
+    {
+      "term": "skills",
+      "explanation": "Belirli bir işi yapmak için sahip olduğunuz bilgi ve pratik yapma becerisi."
+    },
+    {
+      "term": "state kernel",
+      "explanation": "Bir yazılımın o anki çalışma durumunu ve verilerini yöneten temel çekirdek yapı."
+    },
+    {
+      "term": "core libraries",
+      "explanation": "Bir programlama dilinin veya yazılımın çalışması için gereken temel hazır kod paketleri."
+    },
+    {
+      "term": "caching",
+      "explanation": "Sık kullanılan verileri hızlı erişim için geçici olarak bellekte saklama işlemi."
+    },
+    {
+      "term": "autonomous AI agents",
+      "explanation": "İnsan müdahalesi olmadan kendi başına karar verip görevleri yerine getirebilen yapay zekâ yazılımları."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Verilerin internete bağlı olmaksızın doğrudan cihazınızda saklanıp işlenmesini önceliklendiren yazılım yaklaşımı."
+    },
+    {
+      "term": "context",
+      "explanation": "Yapay zekânın bir konuyu doğru anlaması için ona sağlanan arka plan bilgisi veya önceki konuşmaların bütünü."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "Yapay zekâya verilen uzun komutların başlangıç kısımlarını bellekte tutarak tekrar tekrar işlenmesini engelleyen hızlandırma yöntemi."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekâların karmaşık görevleri yerine getirmesi için ihtiyaç duyduğu yetenekleri düzenleyen yazılım çatısı."
+    },
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin yeni veriler kullanarak bir tahminde bulunması veya cevap üretmesi süreci."
+    },
+    {
+      "term": "taste",
+      "explanation": "Teknolojik bir ürünün veya tasarımın estetik ve işlevsel kalitesini ayırt edebilme yetisi."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Öğrendiği verilerden yola çıkarak yeni metin, görsel veya ses gibi içerikler oluşturabilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "text generation",
+      "explanation": "Bilgisayarın verilen bir komuta göre anlamlı ve doğal cümleler kurarak yazı yazması."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Sadece metinle değil, aynı zamanda görsel, ses ve video gibi farklı veri türlerini de aynı anda işleyebilen sistem."
+    },
+    {
+      "term": "multimodal large language model",
+      "explanation": "Metnin yanı sıra resim ve ses gibi farklı türdeki verileri de anlayıp bunlar üzerinde işlem yapabilen gelişmiş yapay zekâ modeli."
+    }
+  ]
+}

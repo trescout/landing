@@ -1,0 +1,347 @@
+{
+  "date": "2026-08-07",
+  "editorial": "The focus today in the artificial intelligence ecosystem is on improving inference performance at the hardware level and placing agent skills within a standard framework. While AMD's Taalas move shows that silicon-based optimizations are gaining momentum, open source evaluation metrics are looking for more reliable results in computing.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "Developed by TencentCloud, TencentDB Agent Memory is a hub for AI agents that transforms conversations, documents, and code into reusable memory assets. This tool provides consistent information management across workflows by organizing data shared between different agents and frameworks.",
+          "meta": "TypeScript · ★ 16,685 · +1,057 today"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Developed by Addy Osmani, agent-skills offers production-level engineering skills for artificial intelligence coding agents. This JavaScript-based library aims to make autonomous software development processes more reliable and standardized.",
+          "meta": "JavaScript · ★ 83,131 · +593 today"
+        },
+        {
+          "title": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "summary": "Developed by Cloudflare, Computer is a TypeScript library that gives artificial intelligence agents the ability to control a local or remote computer. The tool allows agents to use digital interfaces like humans, such as taking screenshots and sending keyboard or mouse inputs.",
+          "meta": "TypeScript · ★ 4,979 · +2,802 today"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Shared by Matt Pocock, Skills includes customized skill packages (skills) that software engineers use for artificial intelligence agents. This repository offers ready-made scripts and configuration examples for developers to make their agents more functional.",
+          "meta": "Shell · ★ 207,489 · +1,873 today"
+        },
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik is an open source security platform that provides centralized authentication and access management for applications. By combining complex authentication processes at a single point, it offers secure transition between different services.",
+          "meta": "Python · ★ 23,221 · +138 today"
+        },
+        {
+          "title": "huangruiteng/loopx",
+          "url": "https://github.com/huangruiteng/loopx",
+          "summary": "Loopx is a lightweight state kernel developed for long-term artificial intelligence agent teams. This structure, which works compatible with coding agents (Codex, Claude Code), ensures the continuity of agents with features such as task tracking, quota management and evidence-based workflow transfer.",
+          "meta": "Python · ★ 3,033 · +847 today"
+        },
+        {
+          "title": "google/guava",
+          "url": "https://github.com/google/guava",
+          "summary": "Developed by Google, Guava is a toolkit containing core libraries frequently needed in Java projects. Collections speed up software development by simplifying common tasks such as caching and string manipulation.",
+          "meta": "Java · ★ 51,666 · +13 today"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "ChinaTextbook offers an archive of textbooks used in China from primary school to university level in PDF format. This open source repository facilitates access to educational materials with the logic of a digital library.",
+          "meta": "Roff · ★ 77,289 · +134 today"
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "summary": "AutoGPT is an open source Python project that enables creating autonomous AI agents that can plan and execute complex tasks on their own. It facilitates access to artificial intelligence by automating processes such as searching the internet and file management to achieve the goals set by users.",
+          "meta": "Python · ★ 186,094 · +37 today"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph is a local-first code intelligence tool that creates a permanent map of your code base so that AI-powered coding tools read only relevant sections. It optimizes context management by reducing unnecessary data load in workflows and code reviews in large projects.",
+          "meta": "Python · ★ 29,138 · +237 today"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix is ​​an artificial intelligence agent that runs on the terminal and automates coding processes. Thanks to its structure based on prefix-cache stability, it allows developers to work uninterruptedly for long sessions.",
+          "meta": "Go · ★ 32,603 · +888 today"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers offers an agentic skills framework and software development methodology for artificial intelligence agents. This tool is used to standardize the workflows of agent-based systems and make software processes more manageable.",
+          "meta": "Shell · ★ 268,240 · +858 today"
+        },
+        {
+          "title": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "summary": "PDF Inspector, developed by Firecrawl, is a fast Rust library used to inspect, classify and extract text from PDF files. By distinguishing scanned documents from text-based files, it enables intelligent routing decisions to be made during the data processing process.",
+          "meta": "Rust · ★ 12,624 · +1,190 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Mario Meets Pareto",
+          "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+          "summary": "Mario Meets Pareto recommends focusing on tasks that create the highest impact by using the Pareto principle in software development processes. He advocates prioritizing critical features that constitute the product's core value by eliminating secondary work that consumes the majority of time in complex projects.",
+          "meta": "957 points · 151 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49195231",
+              "popularity": 957,
+              "engagementCount": 151
+            }
+          ]
+        },
+        {
+          "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+          "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+          "summary": "AMD acquired chip startup Taalas to improve inference performance by rendering artificial intelligence models directly on silicon. This move aims to integrate artificial intelligence acceleration methods customized at the hardware level into the processor architecture.",
+          "meta": "509 points · 391 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49201970",
+              "popularity": 509,
+              "engagementCount": 391
+            }
+          ]
+        },
+        {
+          "title": "GitHub Actions and Pages are experiencing degraded availability",
+          "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+          "summary": "Software development platform GitHub, automation tool GitHub Actions, and website hosting service GitHub Pages are experiencing outages. Due to access problems in the services, users encounter disruptions in the compilation and publishing processes of their projects.",
+          "meta": "367 points · 297 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49198302",
+              "popularity": 367,
+              "engagementCount": 297
+            }
+          ]
+        },
+        {
+          "title": "Almost no skill required to cook a steak",
+          "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+          "summary": "The article written by Sydorets explains the methods of cooking quality steak at home without the need for complex techniques. By reducing the process to simple steps, it shows that it is possible to get professional results with the right equipment and timing.",
+          "meta": "312 points · 352 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49198069",
+              "popularity": 312,
+              "engagementCount": 352
+            }
+          ]
+        },
+        {
+          "title": "Taste Is All That's Left",
+          "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+          "summary": "As artificial intelligence facilitates content production, the ability to curate and taste, rather than technical skills, becomes the main value that stands out in the digital world. The ability to distinguish quality content and make the right choice is defined as the new benchmark of human-centered creativity in the era of generative artificial intelligence (generative AI).",
+          "meta": "306 points · 234 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49199346",
+              "popularity": 306,
+              "engagementCount": 234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, developed by MiniMax, is an artificial intelligence model that produces videos using visual and text inputs. This model offers the ability to create high-quality videos from user-provided content.",
+          "meta": "♥ 2,792 · 12,102 downloads"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731 is a new language model focused on text generation. This model, shared on the HuggingFace platform, stands out with its ability to produce fast and efficient output.",
+          "meta": "♥ 2,669 · 617,900 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, developed by Moonshot AI, is a multimodal artificial intelligence model that produces meaningful outputs by processing visual and textual data. It combines different data types into a single system, with the ability to analyze image and text-based queries.",
+          "meta": "♥ 10,218 · 1,258,043 downloads"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3 is a multimodal large language model with text and visual processing capabilities. This model, shared on Hugging Face, analyzes complex visual data and enables users to produce or interpret visual content with text-based commands.",
+          "meta": "♥ 861 · 2,295,377 downloads"
+        },
+        {
+          "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "summary": "Unsloth, a library for efficiently training large language models, offers an optimized version to run the DeepSeek-V4 model faster and with lower memory usage. This version includes weights in GGUF format, which makes it easier to run the model on native hardware.",
+          "meta": "♥ 559 · 145,105 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Invisible Shortcuts: Why Vision Encoders Know Your Camera",
+          "url": "https://huggingface.co/papers/2608.05424",
+          "summary": "Image processing models make predictions based on camera and shot metadata hidden at the pixel level, rather than objects in the training data. This causes the models to create shortcuts by learning device-derived traces instead of visual content.",
+          "meta": "1 likes · 1 comments"
+        },
+        {
+          "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+          "url": "https://huggingface.co/papers/2607.28609",
+          "summary": "OSReward offers a standardized reward model for evaluating actions taken by computer-using agents. It aims to measure agents' success in performing tasks in a scalable and consistent manner, using vision-language models as judges.",
+          "meta": "5 likes · 1 comments"
+        },
+        {
+          "title": "PaDoc: Layout-Grounded Parallel Decoding for Document Parsing",
+          "url": "https://huggingface.co/papers/2608.06146",
+          "summary": "PaDoc offers a parallel decoding method based on page layout in document parsing operations. This approach eliminates the processing time constraints of traditional methods by processing content regions independently while preserving the entire page context.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation",
+          "url": "https://huggingface.co/papers/2608.05369",
+          "summary": "World-to-Wrist (W2-VLA) is a vision-language-action model that predicts future movements by combining global vision and wrist camera data in robotic manipulation processes. This approach allows the robot to better align local interactions with the global task context when performing complex tasks.",
+          "meta": "13 likes · 1 comments"
+        },
+        {
+          "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2608.06197",
+          "summary": "EnvACE uses the world rehearsal method instead of needing external environments when training artificial intelligence agents. This approach makes the training process efficient by reducing dependence on external simulators in tasks that require complex vehicle use.",
+          "meta": "22 likes · 1 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "summary": "Meeting recording tool tl;dv left approximately 182 thousand meeting recordings open to unauthorized access due to a security vulnerability. This situation reveals the risks of cloud-based recording services in protecting private conversations and sensitive data.",
+          "meta": "136 points · 26 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874",
+              "popularity": 136,
+              "engagementCount": 26
+            }
+          ]
+        },
+        {
+          "title": "Zig's Io.Threaded is Neat",
+          "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+          "summary": "The Io.Threaded structure in the Zig programming language makes concurrency more efficient by managing input-output operations (I/O) through threads. This method allows direct use of system resources without the need for complex asynchronous code blocks.",
+          "meta": "38 points · 5 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat",
+              "popularity": 38,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "jujutsu 0.44.0",
+          "url": "https://github.com/jj-vcs/jj/releases/tag/v0.44.0",
+          "summary": "Jujutsu 0.44.0 offers an update for Jujutsu, the version control system, with new features and bug fixes. This tool, which is compatible with Git, focuses on improving the data structure and command line experience.",
+          "meta": "55 points · 25 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/xx83dr/jujutsu_0_44_0",
+              "popularity": 55,
+              "engagementCount": 25
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "engineering skills",
+      "explanation": "Ability to solve complex problems in logical steps and establish technical systems."
+    },
+    {
+      "term": "skills",
+      "explanation": "The knowledge and practical skills you have to do a particular job."
+    },
+    {
+      "term": "state kernel",
+      "explanation": "The basic core structure that manages the current operating state and data of a software."
+    },
+    {
+      "term": "core libraries",
+      "explanation": "Basic ready-made code packages required for a programming language or software to run."
+    },
+    {
+      "term": "caching",
+      "explanation": "The process of temporarily storing frequently used data in memory for quick access."
+    },
+    {
+      "term": "autonomous AI agents",
+      "explanation": "Artificial intelligence software that can make decisions and perform tasks on its own without human intervention."
+    },
+    {
+      "term": "local-first",
+      "explanation": "A software approach that prioritizes storing and processing data directly on your device without being connected to the internet."
+    },
+    {
+      "term": "context",
+      "explanation": "Background information or the whole of previous conversations provided to artificial intelligence in order for it to understand a topic correctly."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "An acceleration method that prevents the repeated processing of long commands given to artificial intelligence by keeping the initial parts in memory."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "A software framework that organizes the capabilities that artificial intelligence needs to perform complex tasks."
+    },
+    {
+      "term": "inference",
+      "explanation": "The process of a trained artificial intelligence model making a prediction or answer using new data."
+    },
+    {
+      "term": "taste",
+      "explanation": "The ability to distinguish the aesthetic and functional quality of a technological product or design."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Artificial intelligence technology that can create new content such as text, visuals or audio based on the data it learns."
+    },
+    {
+      "term": "text generation",
+      "explanation": "The computer writes meaningful and natural sentences according to a given command."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "A system that can simultaneously process not only text but also different types of data such as images, audio and video."
+    },
+    {
+      "term": "multimodal large language model",
+      "explanation": "An advanced artificial intelligence model that can understand and process different types of data, such as images and audio, as well as text."
+    }
+  ]
+}

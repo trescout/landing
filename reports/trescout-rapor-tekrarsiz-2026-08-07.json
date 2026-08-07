@@ -1,0 +1,223 @@
+{
+  "date": "2026-08-07",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik, uygulamalar için merkezi kimlik doğrulama ve erişim yönetimi sağlayan açık kaynaklı bir güvenlik platformu. Karmaşık kimlik doğrulama süreçlerini tek bir noktada birleştirerek, farklı servisler arasında güvenli geçiş imkânı sunuyor.",
+          "meta": "Python · ★ 23.221 · +138 bugün"
+        },
+        {
+          "title": "google/guava",
+          "url": "https://github.com/google/guava",
+          "summary": "Google tarafından geliştirilen Guava, Java projelerinde sıkça ihtiyaç duyulan temel kütüphaneleri (core libraries) içeren bir araç setidir. Koleksiyonlar, önbelleğe alma (caching) ve dizgi işleme gibi yaygın görevleri basitleştirerek yazılım geliştirme sürecini hızlandırır.",
+          "meta": "Java · ★ 51.666 · +13 bugün"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "ChinaTextbook, Çin'deki ilköğretimden üniversite seviyesine kadar kullanılan ders kitaplarının PDF formatındaki arşivini sunuyor. Bu açık kaynaklı depo, eğitim materyallerine erişimi dijital bir kütüphane mantığıyla kolaylaştırıyor.",
+          "meta": "Roff · ★ 77.289 · +134 bugün",
+          "returning": true
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "summary": "AutoGPT, karmaşık görevleri kendi başına planlayıp yürütebilen otonom yapay zekâ ajanları (autonomous AI agents) oluşturmayı sağlayan açık kaynaklı bir Python projesidir. Kullanıcıların belirlediği hedeflere ulaşmak için internette arama yapma ve dosya yönetimi gibi işlemleri otomatikleştirerek yapay zekâ erişimini kolaylaştırır.",
+          "meta": "Python · ★ 186.094 · +37 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Mario Meets Pareto",
+          "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+          "summary": "Mario Meets Pareto, yazılım geliştirme süreçlerinde Pareto ilkesini kullanarak en yüksek etkiyi yaratan görevlere odaklanmayı öneriyor. Karmaşık projelerde zamanın büyük kısmını harcayan ikincil işleri ayıklayarak, ürünün temel değerini oluşturan kritik özelliklere öncelik verilmesini savunuyor.",
+          "meta": "957 oy · 151 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49195231",
+              "popularity": 957,
+              "engagementCount": 151
+            }
+          ]
+        },
+        {
+          "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+          "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+          "summary": "AMD, yapay zekâ modellerini doğrudan silikon üzerine işleyerek çıkarım (inference) performansını artırmak amacıyla çip girişimi Taalas'ı satın aldı. Bu hamle, donanım seviyesinde özelleştirilmiş yapay zekâ hızlandırma yöntemlerini işlemci mimarisine entegre etmeyi hedefliyor.",
+          "meta": "509 oy · 391 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49201970",
+              "popularity": 509,
+              "engagementCount": 391
+            }
+          ]
+        },
+        {
+          "title": "GitHub Actions and Pages are experiencing degraded availability",
+          "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+          "summary": "Yazılım geliştirme platformu GitHub, otomasyon aracı GitHub Actions ve web sitesi barındırma hizmeti GitHub Pages üzerinde kesintiler yaşıyor. Servislerdeki erişim sorunları nedeniyle kullanıcılar projelerini derleme ve yayınlama süreçlerinde aksaklıklarla karşılaşıyor.",
+          "meta": "367 oy · 297 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49198302",
+              "popularity": 367,
+              "engagementCount": 297
+            }
+          ]
+        },
+        {
+          "title": "Almost no skill required to cook a steak",
+          "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+          "summary": "Sydorets tarafından kaleme alınan yazı, karmaşık tekniklere ihtiyaç duymadan ev ortamında kaliteli biftek pişirmenin yöntemlerini açıklıyor. Süreci basit adımlara indirgeyerek, doğru ekipman ve zamanlama ile profesyonel sonuçlar almanın mümkün olduğunu gösteriyor.",
+          "meta": "312 oy · 352 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49198069",
+              "popularity": 312,
+              "engagementCount": 352
+            }
+          ]
+        },
+        {
+          "title": "Taste Is All That's Left",
+          "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+          "summary": "Yapay zekânın içerik üretimini kolaylaştırmasıyla birlikte, teknik beceriden ziyade kürasyon ve zevk sahibi olma (taste) yeteneği dijital dünyada öne çıkan temel değer haline geliyor. Kaliteli içeriği ayırt etme ve doğru seçimi yapma becerisi, üretken yapay zekâ (generative AI) çağında insan odaklı yaratıcılığın yeni ölçütü olarak tanımlanıyor.",
+          "meta": "306 oy · 234 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49199346",
+              "popularity": 306,
+              "engagementCount": 234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Invisible Shortcuts: Why Vision Encoders Know Your Camera",
+          "url": "https://huggingface.co/papers/2608.05424",
+          "summary": "Görüntü işleme modelleri, eğitim verilerindeki nesneler yerine piksel seviyesinde gizlenmiş kamera ve çekim meta verilerine dayanarak tahmin yürütüyor. Bu durum, modellerin görsel içerik yerine cihaz kaynaklı izleri öğrenerek kestirme yollar (shortcuts) oluşturmasına neden oluyor.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+          "url": "https://huggingface.co/papers/2607.28609",
+          "summary": "OSReward, bilgisayar kullanan ajanların (computer-using agents) gerçekleştirdiği işlemleri değerlendirmek için standartlaştırılmış bir ödül modeli sunuyor. Görsel-dil modellerini (vision-language models) yargıç olarak kullanarak, ajanların görevleri yerine getirme başarısını ölçeklenebilir ve tutarlı bir biçimde ölçmeyi hedefliyor.",
+          "meta": "5 beğeni · 1 yorum"
+        },
+        {
+          "title": "PaDoc: Layout-Grounded Parallel Decoding for Document Parsing",
+          "url": "https://huggingface.co/papers/2608.06146",
+          "summary": "PaDoc, belge ayrıştırma (document parsing) işlemlerinde sayfa düzenini temel alan paralel bir kod çözme (decoding) yöntemi sunuyor. Bu yaklaşım, tüm sayfa bağlamını korurken içerik bölgelerini bağımsız şekilde işleyerek geleneksel yöntemlerdeki işlem süresi kısıtlamalarını ortadan kaldırıyor.",
+          "meta": "0 beğeni · 1 yorum"
+        },
+        {
+          "title": "World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation",
+          "url": "https://huggingface.co/papers/2608.05369",
+          "summary": "World-to-Wrist (W2-VLA), robotik manipülasyon süreçlerinde genel görüş ve bilek kamerası verilerini birleştirerek gelecekteki hareketleri tahmin eden bir görme-dil-eylem (vision-language-action) modelidir. Bu yaklaşım, robotun karmaşık görevleri yerine getirirken yerel etkileşimleri küresel görev bağlamıyla daha uyumlu hale getirmesini sağlar.",
+          "meta": "13 beğeni · 1 yorum"
+        },
+        {
+          "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2608.06197",
+          "summary": "EnvACE, yapay zekâ ajanlarını eğitirken dış ortamlara ihtiyaç duymak yerine dünya provası (world rehearsal) yöntemini kullanıyor. Bu yaklaşım, karmaşık araç kullanımı gerektiren görevlerde dış simülatörlere olan bağımlılığı azaltarak eğitim sürecini verimli hale getiriyor.",
+          "meta": "22 beğeni · 1 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "summary": "Toplantı kayıt aracı tl;dv, güvenlik açığı nedeniyle yaklaşık 182 bin toplantı kaydını yetkisiz erişime açık bıraktı. Bu durum, özel görüşmelerin ve hassas verilerin korunması konusunda bulut tabanlı kayıt servislerinin risklerini ortaya koyuyor.",
+          "meta": "136 oy · 26 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874",
+              "popularity": 136,
+              "engagementCount": 26
+            }
+          ]
+        },
+        {
+          "title": "Zig's Io.Threaded is Neat",
+          "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+          "summary": "Zig programlama dilindeki Io.Threaded yapısı, giriş çıkış işlemlerini (I/O) iş parçacıkları üzerinden yöneterek eş zamanlılığı daha verimli hale getiriyor. Bu yöntem, karmaşık asenkron kod bloklarına ihtiyaç duymadan sistem kaynaklarını doğrudan kullanmayı sağlıyor.",
+          "meta": "38 oy · 5 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat",
+              "popularity": 38,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "jujutsu 0.44.0",
+          "url": "https://github.com/jj-vcs/jj/releases/tag/v0.44.0",
+          "summary": "Jujutsu 0.44.0, sürüm kontrol sistemi (version control system) olan Jujutsu için yeni özellikler ve hata düzeltmeleri içeren bir güncelleme sunuyor. Git ile uyumlu çalışabilen bu araç, veri yapısını ve komut satırı deneyimini geliştirmeye odaklanıyor.",
+          "meta": "55 oy · 25 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/xx83dr/jujutsu_0_44_0",
+              "popularity": 55,
+              "engagementCount": 25
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "core libraries",
+      "explanation": "Bir programlama dilinin veya yazılımın çalışması için gereken temel hazır kod paketleri."
+    },
+    {
+      "term": "caching",
+      "explanation": "Sık kullanılan verileri hızlı erişim için geçici olarak bellekte saklama işlemi."
+    },
+    {
+      "term": "autonomous AI agents",
+      "explanation": "İnsan müdahalesi olmadan kendi başına karar verip görevleri yerine getirebilen yapay zekâ yazılımları."
+    },
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin yeni veriler kullanarak bir tahminde bulunması veya cevap üretmesi süreci."
+    },
+    {
+      "term": "taste",
+      "explanation": "Teknolojik bir ürünün veya tasarımın estetik ve işlevsel kalitesini ayırt edebilme yetisi."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Öğrendiği verilerden yola çıkarak yeni metin, görsel veya ses gibi içerikler oluşturabilen yapay zekâ teknolojisi."
+    }
+  ]
+}
