@@ -2,6 +2,25 @@
  *  - entry sayfaları: komut "Kopyala" butonları
  *  - /discover index: catalog.json'dan arama + kategori filtresi + sıralama ile kart ızgarası */
 (function () {
+  /* Dizin İngilizce de servis ediliyor · aynı catalog.json'dan besleniyor.
+     Kart metni tagline_en'e, etiketler EN karşılıklarına, arayüz metinleri
+     sayfanın diline göre seçiliyor (2026-08-07 · İngilizce dizinde arama,
+     sıralama ve kategori filtresi hiç çalışmıyordu). */
+  var EN = document.documentElement.lang === 'en';
+  var TAG_EN = {
+    "Yapay zekâ araçları": "AI Tools",
+    "Geliştirici aracı": "Developer Tool",
+    "Kod bilmeyenler için": "No-Code",
+    "Öğrenme": "Learning",
+    "Üretkenlik": "Productivity"
+  };
+  var M = EN
+    ? { tumu: 'All', birim: ' tools', bos: 'No matches. Try a different filter.', kopyalandi: 'Copied ✓' }
+    : { tumu: 'Tümü', birim: ' araç', bos: 'Eşleşme yok. Filtreyi değiştirin.', kopyalandi: 'Kopyalandı ✓' };
+  function etiket(t) { return EN ? (TAG_EN[t] || t) : t; }
+  function tanitim(it) { return (EN && it.tagline_en) ? it.tagline_en : it.tagline; }
+  function yol(slug) { return (EN ? '/en/discover/' : '/discover/') + slug + '/'; }
+
   function esc(s) {
     var d = document.createElement('div');
     d.textContent = s == null ? '' : String(s);
@@ -16,7 +35,7 @@
       if (!code || !navigator.clipboard) return;
       navigator.clipboard.writeText(code.textContent.trim()).then(function () {
         var prev = btn.textContent;
-        btn.textContent = 'Kopyalandı ✓';
+        btn.textContent = M.kopyalandi;
         setTimeout(function () { btn.textContent = prev; }, 1500);
       }).catch(function () {});
     });
@@ -33,11 +52,11 @@
   function card(it) {
     var img = it.image ? '<img class="disc-card-img" src="' + esc(it.image) + '" alt="" loading="lazy" decoding="async">' : '';
     var meta = it.meta ? '<span class="disc-card-meta">' + esc(it.meta) + '</span>' : '';
-    var tags = (it.tags || []).map(function (t) { return '<span class="disc-card-tagchip">' + esc(t) + '</span>'; }).join('');
-    return '<a class="disc-card" href="/discover/' + esc(it.slug) + '/">' + img +
+    var tags = (it.tags || []).map(function (t) { return '<span class="disc-card-tagchip">' + esc(etiket(t)) + '</span>'; }).join('');
+    return '<a class="disc-card" href="' + yol(esc(it.slug)) + '">' + img +
       '<div class="disc-card-body">' +
         '<h2 class="disc-card-title">' + esc(it.title) + '</h2>' +
-        '<p class="disc-card-tag">' + esc(it.tagline) + '</p>' +
+        '<p class="disc-card-tag">' + esc(tanitim(it)) + '</p>' +
         (tags ? '<div class="disc-card-tags">' + tags + '</div>' : '') + meta +
       '</div></a>';
   }
@@ -47,18 +66,18 @@
     var list = items.filter(function (it) {
       if (state.tag && (it.tags || []).indexOf(state.tag) < 0) return false;
       if (q) {
-        var hay = ((it.title || '') + ' ' + (it.tagline || '')).toLowerCase();
+        var hay = ((it.title || '') + ' ' + (tanitim(it) || '')).toLowerCase();
         if (hay.indexOf(q) < 0) return false;
       }
       return true;
     });
     if (state.sort === 'stars') list.sort(function (a, b) { return (b.stars || 0) - (a.stars || 0); });
     else if (state.sort === 'date') list.sort(function (a, b) { return (b.date || '').localeCompare(a.date || ''); });
-    else list.sort(function (a, b) { return (a.title || '').localeCompare(b.title || '', 'tr'); });
+    else list.sort(function (a, b) { return (a.title || '').localeCompare(b.title || '', EN ? 'en' : 'tr'); });
 
     var cnt = document.getElementById('disc-count');
-    if (cnt) cnt.textContent = list.length === items.length ? (items.length + ' araç') : (list.length + ' / ' + items.length + ' araç');
-    grid.innerHTML = list.length ? list.map(card).join('') : '<p class="disc-loading">Eşleşme yok. Filtreyi değiştirin.</p>';
+    if (cnt) cnt.textContent = list.length === items.length ? (items.length + M.birim) : (list.length + ' / ' + items.length + M.birim);
+    grid.innerHTML = list.length ? list.map(card).join('') : '<p class="disc-loading">' + M.bos + '</p>';
   }
 
   function chips() {
@@ -68,7 +87,7 @@
     var all = [null].concat(present);
     box.innerHTML = all.map(function (t) {
       var active = (state.tag === t) ? ' disc-chip-active' : '';
-      return '<button type="button" class="disc-chip' + active + '" data-tag="' + (t === null ? '' : esc(t)) + '">' + esc(t === null ? 'Tümü' : t) + '</button>';
+      return '<button type="button" class="disc-chip' + active + '" data-tag="' + (t === null ? '' : esc(t)) + '">' + esc(t === null ? M.tumu : etiket(t)) + '</button>';
     }).join('');
     box.querySelectorAll('.disc-chip').forEach(function (b) {
       b.addEventListener('click', function () {

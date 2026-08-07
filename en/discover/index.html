@@ -32,10 +32,23 @@
 
   <div class="disc-controls">
     <input id="disc-search" class="disc-search" type="search" placeholder="Search tool name or description…" aria-label="Search tools">
+    <div class="disc-sortwrap">
+      <label for="disc-sort">Sort</label>
+      <select id="disc-sort" class="disc-sort">
+        <option value="stars">Most stars</option>
+        <option value="date">Newest</option>
+        <option value="title">A–Z</option>
+      </select>
+    </div>
   </div>
+  <!-- Kategori çipleri discover.js tarafından kart etiketlerinden kuruluyor ·
+       Türkçe dizinde olan bu iki kontrol İngilizcede eksikti (2026-08-07). -->
+  <div id="disc-tags" class="disc-tags" role="group" aria-label="Categories"></div>
 
-  <p class="disc-count" id="disc-count">397 projects</p>
-  <div class="disc-grid" id="disc-grid">
+  <p class="disc-count" id="disc-count">400 projects</p>
+  <!-- id discover-grid · discover.js bu id'yi arıyor. Önce disc-grid yazıyordu,
+       betik erken çıkıyor ve İngilizce dizinde arama hiç çalışmıyordu. -->
+  <div class="disc-grid" id="discover-grid">
     <a class="disc-card" data-cat="all" data-search="Understand Anything Make your codes or documents interactive with artificial intelligence. understand-anything" href="/en/discover/understand-anything/">
     <img class="disc-card-img" src="/assets/discover/og/understand-anything.webp" alt="" loading="lazy" decoding="async">
     <div class="disc-card-body">
@@ -303,7 +316,7 @@
       <h2 class="disc-card-title">Claude Code</h2>
       <p class="disc-card-tag">AI agent coding tool (product from Anthropic) that runs in the terminal and understands your codebase.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 140.418 · Açık kaynak değil</span>
+      <span class="disc-card-meta">★ 140.527 · Açık kaynak değil</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Cursor Plugins Official plugin specification and ready-made plugins for the Cursor code editor. cursor-plugins" href="/en/discover/cursor-plugins/">
@@ -447,7 +460,7 @@
       <h2 class="disc-card-title">Pi Subagents</h2>
       <p class="disc-card-tag">TypeScript library for asynchronous sub-agent delegation on the Pi platform.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 2.911 · Lisans: yok</span>
+      <span class="disc-card-meta">★ 2.973 · Lisans: yok</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Developer Portfolios A collection of developer portfolio examples to get inspiration for your own site. developer-portfolios" href="/en/discover/developer-portfolios/">
@@ -492,7 +505,7 @@
       <h2 class="disc-card-title">Oh My Pi</h2>
       <p class="disc-card-tag">Oh-my-pi is an artificial intelligence coding agent (AI coding…) that runs in a terminal environment and automates code editing processes.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 22.261</span>
+      <span class="disc-card-meta">★ 22.560</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Machine Learning for Trading This resource, prepared by Stefan Jansen, is for machine learning applications in algorithmic trading. machine-learning-for-trading" href="/en/discover/machine-learning-for-trading/">
@@ -510,7 +523,7 @@
       <h2 class="disc-card-title">FFF</h2>
       <p class="disc-card-tag">Developed with Rust, fff provides file searches with high speed and accuracy for artificial intelligence agents and text editors.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 9.882</span>
+      <span class="disc-card-meta">★ 9.894</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Headroom Headroom contains log files, tool outputs, and contextual data pieces (RAG…) sent to large language models (LLM). headroom" href="/en/discover/headroom/">
@@ -681,7 +694,7 @@
       <h2 class="disc-card-title">CopilotKit</h2>
       <p class="disc-card-tag">CopilotKit is a React and Angular-based frontend for developing artificial intelligence agents and generative UIs.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 36.508 · TypeScript</span>
+      <span class="disc-card-meta">★ 36.582 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Agent-Reach Agent-Reach is a command line interface that gives artificial intelligence agents the ability to scan the entire internet and read content. agent-reach" href="/en/discover/agent-reach/">
@@ -690,7 +703,7 @@
       <h2 class="disc-card-title">Agent-Reach</h2>
       <p class="disc-card-tag">Agent-Reach is a command line interface that gives artificial intelligence agents the ability to scan the entire internet and read content.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 64.497</span>
+      <span class="disc-card-meta">★ 67.818</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="MiroFish MiroFish is a simple and universal swarm intelligence engine developed to predict various types of data. mirofish" href="/en/discover/mirofish/">
@@ -789,7 +802,7 @@
       <h2 class="disc-card-title">Vite</h2>
       <p class="disc-card-tag">Vite offers a fast development environment and build tool for modern web projects.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 82.169</span>
+      <span class="disc-card-meta">★ 82.245</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="MXC Developed by Microsoft, MXC is a policy-based, layered isolation and containerization system written in Rust. mxc" href="/en/discover/mxc/">
@@ -843,7 +856,7 @@
       <h2 class="disc-card-title">Llama.cpp</h2>
       <p class="disc-card-tag">Llama.cpp enables large language models to run efficiently on standard hardware.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 122.857 · C++</span>
+      <span class="disc-card-meta">★ 122.941 · C++</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Turbovec Built on the TurboQuant infrastructure, turbovec is a high-performance vector directory (vector… turbovec" href="/en/discover/turbovec/">
@@ -1005,7 +1018,7 @@
       <h2 class="disc-card-title">Container</h2>
       <p class="disc-card-tag">Developed by Apple, containers are Linux containers on Mac using lightweight virtual machines.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 48.543 · Swift</span>
+      <span class="disc-card-meta">★ 48.710 · Swift</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="SkillSpector Developed by NVIDIA, SkillSpector detects vulnerabilities and vulnerabilities in the skill packages of artificial intelligence agents. skillspector" href="/en/discover/skillspector/">
@@ -1014,7 +1027,7 @@
       <h2 class="disc-card-title">SkillSpector</h2>
       <p class="disc-card-tag">Developed by NVIDIA, SkillSpector detects vulnerabilities and vulnerabilities in the skill packages of artificial intelligence agents.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 14.260 · Python</span>
+      <span class="disc-card-meta">★ 14.313 · Python</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Restic Developed with the Go language, Restic is an open source backup system that backs up data quickly and efficiently by encrypting it. restic" href="/en/discover/restic/">
@@ -1095,7 +1108,7 @@
       <h2 class="disc-card-title">Server</h2>
       <p class="disc-card-tag">Music Assistant is an open-source media platform that combines different digital streaming services and connected speakers into a single interface.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 2.913</span>
+      <span class="disc-card-meta">★ 2.923</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Iptv The iptv-org project, which gathers public television channels around the world in a single center, is available via internet protocol… iptv" href="/en/discover/iptv/">
@@ -1167,7 +1180,7 @@
       <h2 class="disc-card-title">Meshery</h2>
       <p class="disc-card-tag">Meshery is a service mesh management platform designed for the management of cloud native infrastructures.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 11.427 · TypeScript</span>
+      <span class="disc-card-meta">★ 11.439 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Cypress Cypress is a tool that accelerates and facilitates end-to-end testing processes for browser-based applications. cypress" href="/en/discover/cypress/">
@@ -1230,7 +1243,7 @@
       <h2 class="disc-card-title">CUA</h2>
       <p class="disc-card-tag">CUA provides an open source infrastructure for computer-capable artificial intelligence agents.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 20.962 · HTML</span>
+      <span class="disc-card-meta">★ 20.990 · HTML</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Win11Debloat Win11Debloat allows you to uninstall pre-installed apps and disable telemetry data on Windows 10 and 11 operating systems. win11debloat" href="/en/discover/win11debloat/">
@@ -1284,7 +1297,7 @@
       <h2 class="disc-card-title">OpenWA</h2>
       <p class="disc-card-tag">OpenWA offers a free and open source API gateway solution for the WhatsApp messaging protocol.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 12.466 · TypeScript</span>
+      <span class="disc-card-meta">★ 12.503 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Iroh Iroh is a modular system that makes network connections more flexible by using key-based addressing instead of IP addresses. iroh" href="/en/discover/iroh/">
@@ -1320,7 +1333,7 @@
       <h2 class="disc-card-title">Rocket.Chat</h2>
       <p class="disc-card-tag">Rocket.Chat is a secure communications operating system designed for mission-critical operations.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 45.919 · TypeScript</span>
+      <span class="disc-card-meta">★ 45.941 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Continue Continue is an open source coding agent designed to automate software development processes. continue" href="/en/discover/continue/">
@@ -1410,7 +1423,7 @@
       <h2 class="disc-card-title">Kilocode</h2>
       <p class="disc-card-tag">Kilo is an all-in-one agent-based engineering platform designed to accelerate software development processes…</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 26.733 · TypeScript</span>
+      <span class="disc-card-meta">★ 26.752 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Insomnia Insomnia is an open source application programming interface that supports GraphQL, REST, WebSockets, SSE and gRPC protocols. insomnia" href="/en/discover/insomnia/">
@@ -1491,7 +1504,7 @@
       <h2 class="disc-card-title">Agent Native</h2>
       <p class="disc-card-tag">Agent-native, native applications for artificial intelligence agents developed by BuilderIO…</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 4.419 · TypeScript</span>
+      <span class="disc-card-meta">★ 4.437 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Turso Turso offers an in-process SQL database that is compatible with SQLite. turso" href="/en/discover/turso/">
@@ -1590,7 +1603,7 @@
       <h2 class="disc-card-title">Stirling-PDF</h2>
       <p class="disc-card-tag">Stirling-PDF is an open source document that allows users to edit PDF files on any device.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 88.578 · TypeScript</span>
+      <span class="disc-card-meta">★ 89.027 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Gstack Gstack is based on Garry Tan's Claude Code configuration and provides different roles such as CEO, designer, engineering manager. gstack" href="/en/discover/gstack/">
@@ -1608,7 +1621,7 @@
       <h2 class="disc-card-title">Hyperframes</h2>
       <p class="disc-card-tag">Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 39.666 · TypeScript</span>
+      <span class="disc-card-meta">★ 39.827 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Firecrawl Firecrawl is a tool for crawling and extracting data from websites at scale and generating clean text that artificial intelligence models can process. firecrawl" href="/en/discover/firecrawl/">
@@ -1719,13 +1732,13 @@
       <span class="disc-card-meta">★ 14.888 · Python</span>
     </div>
   </a>
-<a class="disc-card" data-cat="all" data-search="TREK TREK is a self-hosted… trek" href="/en/discover/trek/">
+<a class="disc-card" data-cat="all" data-search="TREK TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılan… trek" href="/en/discover/trek/">
     <img class="disc-card-img" src="/assets/discover/og/trek.webp" alt="" loading="lazy" decoding="async">
     <div class="disc-card-body">
       <h2 class="disc-card-title">TREK</h2>
-      <p class="disc-card-tag">TREK is a self-hosted…</p>
+      <p class="disc-card-tag">TREK, gerçek zamanlı iş birliği, etkileşimli haritalar ve bütçe yönetimi gibi özellikler sunan, kendi kendine barındırılan…</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 7.040 · TypeScript</span>
+      <span class="disc-card-meta">★ 7.040</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Open Seo Open SEO offers an open source alternative to paid tools like Semrush and Ahrefs. open-seo" href="/en/discover/open-seo/">
@@ -1806,7 +1819,7 @@
       <h2 class="disc-card-title">Grafana</h2>
       <p class="disc-card-tag">Grafana combines metrics, logs and traces from different data sources in a single interface.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 76.114 · TypeScript</span>
+      <span class="disc-card-meta">★ 76.138 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Free for Dev Free-for-dev, software as a service (SaaS), platform as a service (PaaS) and service… free-for-dev" href="/en/discover/free-for-dev/">
@@ -1914,7 +1927,7 @@
       <h2 class="disc-card-title">Strix</h2>
       <p class="disc-card-tag">Strix is ​​an open-source artificial intelligence-based application designed to detect and fix security vulnerabilities in applications.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 49.097 · Python</span>
+      <span class="disc-card-meta">★ 49.423 · Python</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Video Use The video-use library allows coding agents to automate video editing processes. video-use" href="/en/discover/video-use/">
@@ -2211,7 +2224,7 @@
       <h2 class="disc-card-title">Folia Major</h2>
       <p class="disc-card-tag">Folia-major is a player that provides visualized lyric animations for local music files and online platforms.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 1.640 · TypeScript</span>
+      <span class="disc-card-meta">★ 1.651 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Unity MCP Unity MCP provides asset management by building a bridge between large language models and the Unity editor. unity-mcp" href="/en/discover/unity-mcp/">
@@ -2346,7 +2359,7 @@
       <h2 class="disc-card-title">TencentDB-Agent-Memory</h2>
       <p class="disc-card-tag">TencentDB Agent Memory provides completely local long-term memory for artificial intelligence agents with a four-step process.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 15.363 · TypeScript</span>
+      <span class="disc-card-meta">★ 16.699 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Prisma Prisma is an object relational mapper (ORM) tool that simplifies database interactions for Node.js and TypeScript projects. prisma" href="/en/discover/prisma/">
@@ -2643,7 +2656,7 @@
       <h2 class="disc-card-title">Wand-Enhancer</h2>
       <p class="disc-card-tag">Wand-Enhancer improves user experience and interoperability for the WeMod application.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 14.159 · C#</span>
+      <span class="disc-card-meta">★ 15.270 · C#</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="T3code T3Code is a toolset developed to improve and standardize code quality in TypeScript-based projects. t3code" href="/en/discover/t3code/">
@@ -2697,7 +2710,7 @@
       <h2 class="disc-card-title">Graphify</h2>
       <p class="disc-card-tag">Graphify combines different types of data, such as code files, database schemas, and documentation, into a queryable information graph.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 103.155 · Python</span>
+      <span class="disc-card-meta">★ 103.621 · Python</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Chinese Independent Developer This open source database, which lists projects carried out by Chinese independent developers, is a database developed by software developers. chinese-independent-developer" href="/en/discover/chinese-independent-developer/">
@@ -3075,7 +3088,7 @@
       <h2 class="disc-card-title">Pi Web</h2>
       <p class="disc-card-tag">Pi-web offers an improved web-based user interface (web UI) for the Pi coding agent.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 3.485 · TypeScript</span>
+      <span class="disc-card-meta">★ 3.714 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Croc Croc provides secure file and data transfer between two computers using end-to-end encryption. croc" href="/en/discover/croc/">
@@ -3084,7 +3097,7 @@
       <h2 class="disc-card-title">Croc</h2>
       <p class="disc-card-tag">Croc provides secure file and data transfer between two computers using end-to-end encryption.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 39.265 · Go</span>
+      <span class="disc-card-meta">★ 39.444 · Go</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Outlines The Outlines library outputs responses from large language models structured according to predefined schemas. outlines" href="/en/discover/outlines/">
@@ -3093,7 +3106,7 @@
       <h2 class="disc-card-title">Outlines</h2>
       <p class="disc-card-tag">The Outlines library outputs responses from large language models structured according to predefined schemas.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 15.477 · Python</span>
+      <span class="disc-card-meta">★ 15.525 · Python</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Likec4 Likec4 is a tool that visualizes software architecture directly from the source code and enables the creation of live diagrams. likec4" href="/en/discover/likec4/">
@@ -3156,7 +3169,7 @@
       <h2 class="disc-card-title">Open Code Review</h2>
       <p class="disc-card-tag">Open source code review tool developed by Alibaba, large language model with deterministic pipelines…</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 19.239 · Go</span>
+      <span class="disc-card-meta">★ 19.417 · Go</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Harper Harper offers an offline and privacy-oriented grammar checker developed with the Rust language. harper" href="/en/discover/harper/">
@@ -3354,7 +3367,7 @@
       <h2 class="disc-card-title">Openwork</h2>
       <p class="disc-card-tag">Openwork is a platform developed as an open source alternative to the Claude Cowork platform and uses the opencode infrastructure.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 21.152 · TypeScript</span>
+      <span class="disc-card-meta">★ 21.196 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="FlashKDA Developed by Moonshot AI, FlashKDA provides high-performance kernels for the Some Delta Attention mechanism… flashkda" href="/en/discover/flashkda/">
@@ -3417,7 +3430,7 @@
       <h2 class="disc-card-title">ESP32-Bit-Pirate</h2>
       <p class="disc-card-tag">ESP32-Bit-Pirate is a software that supports multiple communication protocols via a web-based command line interface (CLI).</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 5.281 · C++</span>
+      <span class="disc-card-meta">★ 5.357 · C++</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Generative AI for Beginners This training content prepared by Microsoft is for those who want to get into generative artificial intelligence (generative AI) technologies. generative-ai-for-beginners" href="/en/discover/generative-ai-for-beginners/">
@@ -3498,7 +3511,7 @@
       <h2 class="disc-card-title">DeepSeek-Reasonix</h2>
       <p class="disc-card-tag">DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 31.870 · Go</span>
+      <span class="disc-card-meta">★ 32.650 · Go</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="PDF Inspector Developed by Firecrawl, PDF Inspector is a tool for examining, classifying and extracting text from PDF files. pdf-inspector" href="/en/discover/pdf-inspector/">
@@ -3570,7 +3583,7 @@
       <h2 class="disc-card-title">Deno</h2>
       <p class="disc-card-tag">Deno is a modern runtime environment designed for JavaScript and TypeScript languages.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 108.166 · Rust</span>
+      <span class="disc-card-meta">★ 108.181 · Rust</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Angular Developed by Google, Angular is a comprehensive framework used to create scalable web applications. angular" href="/en/discover/angular/">
@@ -3597,7 +3610,7 @@
       <h2 class="disc-card-title">Computer</h2>
       <p class="disc-card-tag">Developed by Cloudflare, Computer gives artificial intelligence agents the ability to control a local or remote computer.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 3.677 · TypeScript</span>
+      <span class="disc-card-meta">★ 4.985 · TypeScript</span>
     </div>
   </a>
 <a class="disc-card" data-cat="all" data-search="Loopx Loopx is a lightweight state kernel developed for long-term artificial intelligence agent teams. loopx" href="/en/discover/loopx/">
@@ -3606,7 +3619,34 @@
       <h2 class="disc-card-title">Loopx</h2>
       <p class="disc-card-tag">Loopx is a lightweight state kernel developed for long-term artificial intelligence agent teams.</p>
       <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
-      <span class="disc-card-meta">★ 2.399 · Python</span>
+      <span class="disc-card-meta">★ 3.035 · Python</span>
+    </div>
+  </a>
+<a class="disc-card" data-cat="all" data-search="Authentik Authentik, uygulamalar için merkezi kimlik doğrulama ve erişim yönetimi sağlayan açık kaynaklı bir güvenlik platformu. authentik" href="/en/discover/authentik/">
+    <img class="disc-card-img" src="/assets/discover/og/authentik.webp" alt="" loading="lazy" decoding="async">
+    <div class="disc-card-body">
+      <h2 class="disc-card-title">Authentik</h2>
+      <p class="disc-card-tag">Authentik, uygulamalar için merkezi kimlik doğrulama ve erişim yönetimi sağlayan açık kaynaklı bir güvenlik platformu.</p>
+      <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
+      <span class="disc-card-meta">★ 23.224 · Python</span>
+    </div>
+  </a>
+<a class="disc-card" data-cat="all" data-search="Guava Google tarafından geliştirilen Guava, Java projelerinde sıkça ihtiyaç duyulan temel kütüphaneleri (core libraries) içeren bir… guava" href="/en/discover/guava/">
+    <img class="disc-card-img" src="/assets/discover/og/guava.webp" alt="" loading="lazy" decoding="async">
+    <div class="disc-card-body">
+      <h2 class="disc-card-title">Guava</h2>
+      <p class="disc-card-tag">Google tarafından geliştirilen Guava, Java projelerinde sıkça ihtiyaç duyulan temel kütüphaneleri (core libraries) içeren bir…</p>
+      <div class="disc-card-tags"><span class="disc-card-tagchip">Developer Tool</span></div>
+      <span class="disc-card-meta">★ 51.668 · Java</span>
+    </div>
+  </a>
+<a class="disc-card" data-cat="all" data-search="AutoGPT AutoGPT, karmaşık görevleri kendi başına planlayıp yürütebilen otonom yapay zekâ ajanları (autonomous AI agents) oluşturmayı… autogpt" href="/en/discover/autogpt/">
+    <img class="disc-card-img" src="/assets/discover/og/autogpt.webp" alt="" loading="lazy" decoding="async">
+    <div class="disc-card-body">
+      <h2 class="disc-card-title">AutoGPT</h2>
+      <p class="disc-card-tag">AutoGPT, karmaşık görevleri kendi başına planlayıp yürütebilen otonom yapay zekâ ajanları (autonomous AI agents) oluşturmayı…</p>
+      <div class="disc-card-tags"><span class="disc-card-tagchip">AI Tools</span><span class="disc-card-tagchip">Developer Tool</span></div>
+      <span class="disc-card-meta">★ 186.094 · Python</span>
     </div>
   </a>
   </div>
