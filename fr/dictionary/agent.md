@@ -33,8 +33,8 @@ Oui, ils peuvent gérer vos fichiers ou exécuter vos applications si vous leur 
 - [Opencode](/fr/discover/opencode/)
 - [Awesome LLM Apps](/fr/discover/awesome-llm-apps/)
 - [Agent Skills](/fr/discover/agent-skills/)
-- [Ansible](/fr/discover/ansible/)
 - [Taste Skill](/fr/discover/taste-skill/)
+- [Ansible](/fr/discover/ansible/)
 - [Agent-Reach](/fr/discover/agent-reach/)
 - [Openinterpreter](/fr/discover/openinterpreter/)
 

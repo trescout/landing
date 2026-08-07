@@ -2,11 +2,12 @@
 
 Prefect, Python tabanlı veri hatları oluşturmak için kullanılan bir iş akışı düzenleme çerçevesidir (workflow orchestration framework). Dayanıklı veri süreçleri geliştirmek amacıyla tasarlanan bu araç, karmaşık veri iş akışlarının yönetilmesini ve izlenmesini sağlar.
 
-- ★ 23.532
+- ★ 23.572
 - Python
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
+- 7 Ağustos 2026: Yıldız 23.532 → 23.572, son sürüm 3.8.2 (7 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 23.248 → 23.532, son sürüm 3.8.1 (30 Temmuz 2026).
 
 ## Ne kazandırır?

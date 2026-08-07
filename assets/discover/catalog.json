@@ -5324,6 +5324,13 @@
         "onceki_yildiz": 4437,
         "surum": "@agent-native/core@0.146.1",
         "surum_tarihi": "2026-08-07"
+      },
+      {
+        "tarih": "2026-08-07",
+        "yildiz": 4440,
+        "onceki_yildiz": 4440,
+        "surum": "@agent-native/skills@0.2.508",
+        "surum_tarihi": "2026-08-07"
       }
     ],
     "tagline_en": "Agent-native, native applications for artificial intelligence agents developed by BuilderIO…",
@@ -5707,7 +5714,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 39.949 · TypeScript",
+    "meta": "★ 39.951 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -5715,7 +5722,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 39949,
+    "stars": 39951,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-08-07",
@@ -5753,6 +5760,13 @@
         "yildiz": 39949,
         "onceki_yildiz": 39827,
         "surum": "v0.7.99",
+        "surum_tarihi": "2026-08-07"
+      },
+      {
+        "tarih": "2026-08-07",
+        "yildiz": 39951,
+        "onceki_yildiz": 39949,
+        "surum": "v0.7.100",
         "surum_tarihi": "2026-08-07"
       }
     ],
@@ -11145,14 +11159,14 @@
     "slug": "buzz",
     "title": "Buzz",
     "tagline": "Block tarafından Rust diliyle geliştirilen Buzz, merkeziyetsiz bir kovan zihni iletişim platformu (hive mind communication…",
-    "meta": "★ 24.916 · Rust",
+    "meta": "★ 24.932 · Rust",
     "image": "/assets/discover/og/buzz.webp",
     "source": "GitHub",
     "date": "2026-07-24",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 24916,
+    "stars": 24932,
     "lite": false,
     "headline": "Merkeziyetsiz kovan zihni iletişim platformu",
     "last_review": "2026-08-07",
@@ -11183,6 +11197,13 @@
         "yildiz": 24916,
         "onceki_yildiz": 23428,
         "surum": "desktop-v0.5.6",
+        "surum_tarihi": "2026-08-07"
+      },
+      {
+        "tarih": "2026-08-07",
+        "yildiz": 24932,
+        "onceki_yildiz": 24916,
+        "surum": "desktop-v0.5.7",
         "surum_tarihi": "2026-08-07"
       }
     ],
@@ -12637,7 +12658,7 @@
     "slug": "agents",
     "title": "Agents",
     "tagline": "LiveKit Agents, gerçek zamanlı sesli ve görüntülü yapay zekâ ajanları geliştirmek için kullanılan bir Python çerçevesidir…",
-    "meta": "★ 12.125 · Python",
+    "meta": "★ 12.727 · Python",
     "image": "/assets/discover/og/agents.webp",
     "source": "GitHub",
     "date": "2026-08-04",
@@ -12645,7 +12666,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 12125,
+    "stars": 12727,
     "lite": false,
     "headline": "Gerçek zamanlı sesli yapay zekâ ajanları",
     "last_review": "2026-08-07",
@@ -12656,6 +12677,13 @@
         "onceki_yildiz": 12122,
         "surum": "livekit-agents@1.6.8",
         "surum_tarihi": "2026-08-03"
+      },
+      {
+        "tarih": "2026-08-07",
+        "yildiz": 12727,
+        "onceki_yildiz": 12125,
+        "surum": "livekit-agents@1.6.9",
+        "surum_tarihi": "2026-08-07"
       }
     ],
     "tagline_en": "LiveKit Agents is a Python framework for developing real-time voice and video AI agents…",
