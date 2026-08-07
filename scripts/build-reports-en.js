@@ -1,44 +1,57 @@
-/* Aydınlatma bağlantısı /en/privacy.html olmalı · burada /privacy.html (Türkçe)
-   yazıyordu ve betik her koştuğunda 128 İngilizce rapor sayfasında düzeltmeyi
-   geri alıyordu (2026-08-07). check-consent-consistency.py artık bunu da
-   denetliyor. */
+/**
+ * Rapor arşivi sayfaları · Türkçe rapordan hedef dilde sayfa üretir.
+ *
+ *   node scripts/build-reports-en.js            → /en/reports/ + /en/reports/fresh/
+ *   node scripts/build-reports-en.js --lang=fr  → /fr/reports/ + /fr/reports/fresh/
+ *
+ * Dosya adı tarihsel ("en") · tek çağıranı trescout-app/scripts/publish-report.ts
+ * olduğu için yeniden adlandırılmadı, iki depoda aynı anda değişirse günlük yayın
+ * bir gün düşer. Metinler scripts/diller.py'den geliyor.
+ *
+ * KURAL · bir tarih için o dilin çevrilmiş arşiv JSON'u yoksa sayfa ÜRETİLMEZ.
+ * Yoksa sayfa Türkçe içerikle çıkar. Fransızca arşiv bu yüzden 2026-07-25'te
+ * başlıyor · öncesi çevrilmedi, günlük hat ileriye doğru dolduruyor.
+ *
+ * Aydınlatma bağlantısı sayfanın dilindeki metne gitmeli · burada /privacy.html
+ * (Türkçe) yazıyordu ve betik her koştuğunda 128 İngilizce sayfada düzeltmeyi
+ * geri alıyordu (2026-08-07). check-consent-consistency.py artık bunu denetliyor.
+ */
 const fs = require('fs');
 const path = require('path');
+const { execFileSync } = require('child_process');
 
 const ROOT = path.dirname(__dirname);
 const REPORTS_DIR = path.join(ROOT, 'reports');
-const EN_REPORTS_DIR = path.join(ROOT, 'en', 'reports');
+const LANG = (process.argv.find((a) => a.startsWith('--lang=')) || '--lang=en').split('=')[1];
+
+const D = JSON.parse(
+  execFileSync('python3', [path.join(__dirname, 'diller.py'), '--json', LANG], { encoding: 'utf8' })
+);
+const PRE = D.onek;                       // '/en' · '/fr'
+const OUT_ROOT = path.join(ROOT, LANG, 'reports');
 
 /**
  * İki rapor varyantı · normal ve tekrarsız ("fresh only").
- * Türkçe tarafta /reports/ ve /reports/tekrarsiz/ olarak yayınlanıyor;
- * İngilizce tarafta karşılıkları /en/reports/ ve /en/reports/fresh/.
- * Tekrarsız varyantı 2026-08-06'ya kadar İngilizce tarafta hiç yoktu.
+ * Türkçe tarafta /reports/ ve /reports/tekrarsiz/ olarak yayınlanıyor.
  */
 const VARIANTS = [
   {
     kind: 'normal',
     srcDir: REPORTS_DIR,
-    outDir: EN_REPORTS_DIR,
-    urlBase: '/en/reports',
+    outDir: OUT_ROOT,
+    urlBase: `${PRE}/reports`,
     trUrlBase: '/reports',
-    enPdf: (d) => `trescout-report-${d}-en.pdf`,
+    ciktiPdf: (d) => `trescout-report-${d}-${LANG}.pdf`,
     trPdf: (d) => `trescout-rapor-${d}.pdf`,
-    backLabel: 'All Reports',
-    title: 'Daily Technology Reports',
-    intro: 'Daily AI-curated summaries of GitHub Trending, Hacker News, HuggingFace and Lobsters. Read online in English or download the English PDF.',
   },
   {
     kind: 'fresh',
     srcDir: path.join(REPORTS_DIR, 'tekrarsiz'),
-    outDir: path.join(EN_REPORTS_DIR, 'fresh'),
-    urlBase: '/en/reports/fresh',
+    outDir: path.join(OUT_ROOT, 'fresh'),
+    urlBase: `${PRE}/reports/fresh`,
     trUrlBase: '/reports/tekrarsiz',
-    enPdf: (d) => `trescout-report-fresh-${d}-en.pdf`,
+    ciktiPdf: (d) => `trescout-report-fresh-${d}-${LANG}.pdf`,
     trPdf: (d) => `trescout-rapor-tekrarsiz-${d}.pdf`,
-    backLabel: 'Fresh Only',
-    title: 'Fresh Only Reports',
-    intro: 'Only what is new today. Repositories already covered in the last 30 days are filtered out, so nothing repeats.',
   },
 ];
 
@@ -46,234 +59,201 @@ const VARIANTS = [
 function archiveTabs(active) {
   const tab = (href, label, on) =>
     `<a class="btn ${on ? 'btn-primary' : 'btn-ghost'}" href="${href}"${on ? ' aria-current="page"' : ''}>${label}</a>`;
-  return `<div class="arch-tabs">${tab('/en/reports/', 'All Reports', active === 'normal')}${tab('/en/reports/fresh/', 'Fresh Only', active === 'fresh')}</div>`;
+  return `<div class="arch-tabs">${tab(`${PRE}/reports/`, D.rapor_varyant.normal.geri, active === 'normal')}${tab(`${PRE}/reports/fresh/`, D.rapor_varyant.fresh.geri, active === 'fresh')}</div>`;
 }
 
-const monthNames = [
-  'January', 'February', 'March', 'April', 'May', 'June',
-  'July', 'August', 'September', 'October', 'November', 'December'
-];
-
-const dayNames = [
-  'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'
-];
-
-function formatEnDate(dateStr) {
+function tarihYaz(dateStr) {
   const [y, m, d] = dateStr.split('-').map(Number);
   const dt = new Date(Date.UTC(y, m - 1, d));
-  const dayName = dayNames[dt.getUTCDay()];
-  const monthName = monthNames[m - 1];
-  return `${monthName} ${d}, ${y} (${dayName})`;
+  return D.rapor_tarih
+    .replace('{ay}', D.aylar[m - 1])
+    .replace('{gun}', String(d))
+    .replace('{yil}', String(y))
+    .replace('{gunad}', D.rapor_gunler[dt.getUTCDay()]);
 }
 
-const richEnFooter = `<footer>
-  <div class="container">
-    <div class="footer-grid">
-      <div class="footer-brand-block">
-        <div class="footer-logo">
-          <svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg>
-          <span>TreScout</span>
-        </div>
-        <p class="footer-tagline">TreScout scans, summarizes, and delivers. You just read.</p>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-title">Product</div>
-        <ul>
-          <li><a href="/en/#how-it-works">How It Works</a></li>
-          <li><a href="/en/discover/">Discover</a></li>
-          <li><a href="/en/dictionary/">Dictionary</a></li>
-          <li><a href="/en/reports/">Reports Archive</a></li>
-          <li><a href="/en/compare/rss-vs-ai/">Compare</a></li>
-          <li><a href="/en/#top">Early Access</a></li>
-        </ul>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-title">Contact</div>
-        <ul>
-          <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
-          <li><a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a></li>
-        </ul>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-title">Social</div>
-        <ul>
-          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      <span>© 2026 TreScout · All rights reserved.</span>
-    </div>
-  </div>
-</footer>`;
+/**
+ * Nav + footer · o dilin ÜRETİLMİŞ bir sayfasından. Kanonik kaynak İngilizcede
+ * fix-all-headers-and-footers.js, diğer dillerde diller.py · her iki hâlde de
+ * bu betiğin kendi kabuğunu yazması guard'ları kırardı.
+ */
+function kabuk(trHedef) {
+  const aday = [path.join(ROOT, LANG, 'discover'), path.join(ROOT, LANG, 'dictionary')];
+  for (const dizin of aday) {
+    if (!fs.existsSync(dizin)) continue;
+    const ornek = fs.readdirSync(dizin)
+      .map((s) => path.join(dizin, s, 'index.html'))
+      .find((f) => fs.existsSync(f));
+    if (!ornek) continue;
+    const html = fs.readFileSync(ornek, 'utf8');
+    const al = (etiket) => {
+      const m = html.match(new RegExp(`<${etiket}[\\s>][\\s\\S]*?</${etiket}>`));
+      if (!m) { console.error(`✗ ${ornek} içinde <${etiket}> yok.`); process.exit(1); }
+      return m[0];
+    };
+    const nav = al('nav').replace(
+      /(<a href=")[^"]*(" class="btn btn-ghost" aria-label="[^"]*">TR<\/a>)/,
+      `$1${trHedef}$2`
+    );
+    return { nav, footer: al('footer') };
+  }
+  console.error(`✗ ${LANG}/ altında üretilmiş sayfa yok · önce keşif/sözlük sayfalarını basın.`);
+  process.exit(1);
+}
 
 function buildVariant(V) {
-const dirs = fs.existsSync(V.srcDir)
-  ? fs.readdirSync(V.srcDir).filter(d => /^\d{4}-\d{2}-\d{2}$/.test(d) && fs.statSync(path.join(V.srcDir, d)).isDirectory())
-  : [];
+  const dirs = fs.existsSync(V.srcDir)
+    ? fs.readdirSync(V.srcDir).filter(
+        (d) => /^\d{4}-\d{2}-\d{2}$/.test(d) && fs.statSync(path.join(V.srcDir, d)).isDirectory())
+    : [];
 
-console.log(`Generating ${dirs.length} English ${V.kind} report pages under ${V.urlBase}/[date]/...`);
+  let count = 0;
+  let atlanan = 0;
+  const reportCards = [];
 
-let count = 0;
-const reportCards = [];
+  dirs.sort().reverse().forEach((dateStr) => {
+    const trHtmlPath = path.join(V.srcDir, dateStr, 'index.html');
+    if (!fs.existsSync(trHtmlPath)) return;
 
-dirs.sort().reverse().forEach(dateStr => {
-  const trDir = path.join(V.srcDir, dateStr);
-  const trHtmlPath = path.join(trDir, 'index.html');
-  if (!fs.existsSync(trHtmlPath)) return;
+    // Çevrilmiş arşiv yoksa sayfa üretme · Türkçe içerikli sayfa çıkmasın
+    const jsonPath = path.join(ROOT, 'reports', `${V.ciktiPdf(dateStr).replace(/\.pdf$/, '')}.json`);
+    if (!fs.existsSync(jsonPath)) { atlanan++; return; }
 
-  const trHtml = fs.readFileSync(trHtmlPath, 'utf8');
-
-  // Extract meta/editorial details
-  const titleMatch = trHtml.match(/<h1 class="rep-title">(.*?)<\/h1>/);
-  const editorialMatch = trHtml.match(/<p class="rep-editorial">(.*?)<\/p>/);
-  const chipsMatch = trHtml.match(/<div class="rep-chips">(.*?)<\/div>/s);
-
-  const enDateFormatted = formatEnDate(dateStr);
-  
-  // Dedicated English PDF URL
-  // İngilizce PDF varsa onu ver, yoksa orijinal Türkçe raporu · etiket buna göre
-  // değişir (landing#68'de boş EN PDF'ler silinmişti, #69'da gerçeği üretildi).
-  const trPdfUrl = `/reports/${V.trPdf(dateStr)}`;
-  const enPdfPath = path.join(ROOT, 'reports', V.enPdf(dateStr));
-  const enPdfVar = fs.existsSync(enPdfPath);
-  const pdfUrl = enPdfVar ? `/reports/${V.enPdf(dateStr)}` : trPdfUrl;
-
-  // Translate chips
-  let enChips = chipsMatch ? chipsMatch[1] : '<span class="chip">Daily Tech Radar</span>';
-  enChips = enChips
-    .replace(/Günün Modelleri/g, 'Daily Models')
-    .replace(/Günün Makaleleri/g, 'Daily Papers')
-    .replace(/öne çıkan/g, 'highlights');
-
-  // Add historical translated archive badge for dates <= 2026-08-05
-  const isHistoricalArchive = dateStr <= '2026-08-05';
-  const badgeTag = isHistoricalArchive ? 
-    `<span class="chip chip-en">Translated Archive</span>` : '';
-
-  // Gün sayfasının açılışı · İngilizce arşiv JSON'undaki GERÇEK editöryel.
-  // Önceden her gün için aynı tanıtım cümlesi basılıyordu ("Daily AI Tech Radar
-  // compilation for …") · 127 sayfa birbirinin kopyasıydı ve o günün raporu
-  // hakkında hiçbir şey söylemiyordu. Artık build-en-report.ts'in çevirdiği
-  // açılış metni kullanılıyor; yoksa eski tanıtım cümlesine düşer.
-  const enJsonPath = path.join(ROOT, 'reports', `${V.enPdf(dateStr).replace(/\.pdf$/, '')}.json`);
-  let enEditorial = `Daily AI Tech Radar compilation for ${enDateFormatted}.`;
-  if (fs.existsSync(enJsonPath)) {
+    let editorial = '';
     try {
-      const enArchive = JSON.parse(fs.readFileSync(enJsonPath, 'utf8'));
-      if (enArchive.editorial) enEditorial = enArchive.editorial;
-    } catch { /* bozuk JSON · tanıtım cümlesi kalsın */ }
-  }
+      editorial = JSON.parse(fs.readFileSync(jsonPath, 'utf8')).editorial || '';
+    } catch { /* bozuk JSON · aşağıda eleniyor */ }
+    if (!editorial) { atlanan++; return; }
 
-  const enReportDir = path.join(V.outDir, dateStr);
-  fs.mkdirSync(enReportDir, { recursive: true });
+    const trHtml = fs.readFileSync(trHtmlPath, 'utf8');
+    const chipsMatch = trHtml.match(/<div class="rep-chips">(.*?)<\/div>/s);
+    const tarih = tarihYaz(dateStr);
 
-  const enReportHtml = `<!DOCTYPE html>
-<html lang="en">
+    const pdfPath = path.join(ROOT, 'reports', V.ciktiPdf(dateStr));
+    const pdfVar = fs.existsSync(pdfPath);
+    const pdfUrl = pdfVar ? `/reports/${V.ciktiPdf(dateStr)}` : `/reports/${V.trPdf(dateStr)}`;
+
+    let chips = chipsMatch ? chipsMatch[1] : '';
+    for (const [tr, hedef] of Object.entries(D.rapor_cipler)) {
+      chips = chips.split(tr).join(hedef);
+    }
+
+    const arsiv = dateStr <= D.rapor_arsiv_esigi;
+    const badgeTag = arsiv ? `<span class="chip chip-en">${D.rapor_rozet}</span>` : '';
+    const { nav, footer } = kabuk(`${V.trUrlBase}/${dateStr}/`);
+
+    const html = `<!DOCTYPE html>
+<html lang="${D.html_lang}">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>${enDateFormatted} · TreScout Daily Report</title>
+<title>${D.rapor_sayfa_baslik.replace('{tarih}', tarih)}</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<meta name="description" content="TreScout Daily Technology Intelligence Report for ${enDateFormatted}. Curated open-source tools, Hacker News discussions, and AI papers.">
+<meta name="description" content="${D.rapor_sayfa_aciklama.replace('{tarih}', tarih)}">
 <link rel="canonical" href="https://trescout.com${V.urlBase}/${dateStr}/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com${V.trUrlBase}/${dateStr}/">
-<link rel="alternate" hreflang="en" href="https://trescout.com${V.urlBase}/${dateStr}/">
-<link rel="alternate" hreflang="x-default" href="https://trescout.com${V.urlBase}/${dateStr}/">
-<meta property="og:title" content="${enDateFormatted} · TreScout Daily Report">
-<meta property="og:description" content="TreScout Daily Technology Intelligence Report for ${enDateFormatted}.">
+<link rel="alternate" hreflang="en" href="https://trescout.com/en${V.urlBase.slice(PRE.length)}/${dateStr}/">
+<link rel="alternate" hreflang="x-default" href="https://trescout.com/en${V.urlBase.slice(PRE.length)}/${dateStr}/">
+<meta property="og:title" content="${D.rapor_sayfa_baslik.replace('{tarih}', tarih)}">
+<meta property="og:description" content="${D.rapor_sayfa_og.replace('{tarih}', tarih)}">
 <meta property="og:url" content="https://trescout.com${V.urlBase}/${dateStr}/">
 <meta property="og:type" content="article">
-<meta property="og:locale" content="en_US">
+<meta property="og:locale" content="${D.og_locale}">
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/report-cover.css">
 </head>
 <body>
-  <a class="skip-link" href="#main">Skip to main content</a>
-  <nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports Archive</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/reports/${dateStr}/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
+  <a class="skip-link" href="#main">${D.atla}</a>
+  ${nav}
 
   <main id="main">
     <article class="report-main">
-      <a class="rep-back" href="${V.urlBase}/">← ${V.backLabel}</a>
-      <div class="rep-eyebrow">Daily Technology Report ${isHistoricalArchive ? '· Translated Archive Edition' : ''}</div>
-      <h1 class="rep-title">${enDateFormatted}</h1>
-      <div class="rep-chips">${badgeTag}${enChips}</div>
-      <p class="rep-editorial">${enEditorial}</p>
+      <a class="rep-back" href="${V.urlBase}/">← ${D.rapor_varyant[V.kind].geri}</a>
+      <div class="rep-eyebrow">${D.rapor_eyebrow}${arsiv ? ' ' + D.rapor_eyebrow_arsiv : ''}</div>
+      <h1 class="rep-title">${tarih}</h1>
+      <div class="rep-chips">${badgeTag}${chips}</div>
+      <p class="rep-editorial">${editorial}</p>
       <div class="rep-actions">
-        <a class="act act-read" href="${pdfUrl}" target="_blank" rel="noopener">${enPdfVar ? 'Open English PDF →' : 'Open original PDF (Turkish) →'}</a>
-        <a class="act act-dl" href="${pdfUrl}" download>Download PDF</a>
+        <a class="act act-read" href="${pdfUrl}" target="_blank" rel="noopener">${D.rapor_ac.replace('{dil}', D.rapor_dil_adi)}</a>
+        <a class="act act-dl" href="${pdfUrl}" download>${D.rapor_indir}</a>
       </div>
-      <p class="rep-note">${enPdfVar
-        ? 'Full report PDF: every item with its summary, source links and the glossary of terms. Translated from the original Turkish edition.'
-        : 'The full report PDF is currently published in Turkish only. Repository names, metrics and links are language independent. An English PDF edition is in preparation.'}</p>
+      <p class="rep-note">${D.rapor_not}</p>
       <aside class="signup-cta">
-        <p><strong>Get daily technology reports in your inbox.</strong> TreScout scans, summarizes, and delivers. You just read.</p>
-        <a class="btn btn-primary" href="/en/#top">Join Early Access List →</a>
+        <p>${D.rapor_cta}</p>
+        <a class="btn btn-primary" href="${PRE}/#top">${D.rapor_cta_dugme}</a>
       </aside>
     </article>
   </main>
 
-  ${richEnFooter}
+  ${footer}
 </body>
 </html>`;
 
-  fs.writeFileSync(path.join(enReportDir, 'index.html'), enReportHtml, 'utf8');
-  count++;
+    const dir = path.join(V.outDir, dateStr);
+    fs.mkdirSync(dir, { recursive: true });
+    fs.writeFileSync(path.join(dir, 'index.html'), html, 'utf8');
+    count++;
 
-  reportCards.push(`
+    reportCards.push(`
         <article class="card">
           <a class="card-main" href="${V.urlBase}/${dateStr}/">
-            <time class="card-date" datetime="${dateStr}">${enDateFormatted}</time>
-            <p class="card-teaser">${enEditorial.substring(0, 160)}...</p>
-            <div class="card-chips">${badgeTag}${enChips}</div>
+            <time class="card-date" datetime="${dateStr}">${tarih}</time>
+            <p class="card-teaser">${editorial.substring(0, 160)}...</p>
+            <div class="card-chips">${badgeTag}${chips}</div>
           </a>
           <div class="card-actions">
-            <a class="act act-read" href="${V.urlBase}/${dateStr}/">Read →</a>
-            <a class="act act-pdf" href="${pdfUrl}" download>${enPdfVar ? 'Download PDF' : 'PDF (Turkish)'}</a>
+            <a class="act act-read" href="${V.urlBase}/${dateStr}/">${D.rapor_oku}</a>
+            <a class="act act-pdf" href="${pdfUrl}" download>${D.rapor_indir}</a>
           </div>
         </article>`);
-});
+  });
 
-console.log(`Generated ${count} English daily report pages!`);
-
-// Update /en/reports/index.html with clear banner distinguishing historical translated archives vs future live reports
-const enReportsIndexHtml = `<!DOCTYPE html>
-<html lang="en">
+  const T = D.rapor_varyant[V.kind];
+  const dizinKabuk = kabuk(`${V.trUrlBase}/`);
+  const footer = dizinKabuk.footer;
+  // Dizin sayfasında menüdeki rapor bağlantısı "bulunduğunuz sayfa" olmalı ·
+  // kabuk keşif sayfasından kopyalandığı için bu işaret düşüyordu.
+  const nav = dizinKabuk.nav.replace(
+    new RegExp(`(<a href="${PRE}/reports/" class="btn btn-ghost")>`),
+    '$1 aria-current="page">'
+  );
+  const indexHtml = `<!DOCTYPE html>
+<html lang="${D.html_lang}">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Daily Technology Reports Archive · TreScout</title>
+<title>${T.dizin_baslik}</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<meta name="description" content="TreScout daily technology reports archive · Curated AI summaries of GitHub, Hacker News, and HuggingFace trends every day.">
+<meta name="description" content="${T.dizin_aciklama}">
 <link rel="canonical" href="https://trescout.com${V.urlBase}/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com${V.trUrlBase}/">
-<link rel="alternate" hreflang="en" href="https://trescout.com${V.urlBase}/">
-<link rel="alternate" hreflang="x-default" href="https://trescout.com${V.urlBase}/">
-<meta property="og:title" content="Daily Technology Reports Archive · TreScout">
-<meta property="og:description" content="TreScout daily technology reports archive · Curated AI summaries of GitHub, Hacker News, and HuggingFace trends every day.">
+<link rel="alternate" hreflang="en" href="https://trescout.com/en${V.urlBase.slice(PRE.length)}/">
+<link rel="alternate" hreflang="x-default" href="https://trescout.com/en${V.urlBase.slice(PRE.length)}/">
+<meta property="og:title" content="${T.dizin_baslik}">
+<meta property="og:description" content="${T.dizin_aciklama}">
 <meta property="og:url" content="https://trescout.com${V.urlBase}/">
 <meta property="og:type" content="website">
-<meta property="og:locale" content="en_US">
+<meta property="og:locale" content="${D.og_locale}">
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/report-archive.css">
 </head>
 <body>
-  <a class="skip-link" href="#main">Skip to main content</a>
-  <nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost" aria-current="page">Reports Archive</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/reports/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
+  <a class="skip-link" href="#main">${D.atla}</a>
+  ${nav}
 
   <main id="main">
     <div class="archive-main">
-      <div class="arch-eyebrow">Archive</div>
-      <h1 class="arch-title">${V.title}</h1>
+      <div class="arch-eyebrow">${D.rapor_arsiv}</div>
+      <h1 class="arch-title">${T.baslik}</h1>
       ${archiveTabs(V.kind)}
-      <p class="arch-intro">${V.intro}</p>
+      <p class="arch-intro">${T.intro}</p>
 
       <div class="arch-banner">
         <div class="arch-banner-title">
-          <span>🌐</span> <span>Historical Translated Archive Notice</span>
+          <span>🌐</span> <span>${D.rapor_banner_baslik}</span>
         </div>
         <p class="arch-banner-text">
-          These English pages and report PDFs are translated from the original Turkish daily reports. Item selection, metrics and links are identical to the Turkish edition.
+          ${D.rapor_banner}
         </p>
       </div>
 
@@ -283,14 +263,14 @@ const enReportsIndexHtml = `<!DOCTYPE html>
     </div>
   </main>
 
-  ${richEnFooter}
+  ${footer}
 </body>
 </html>`;
 
-fs.mkdirSync(V.outDir, { recursive: true });
-fs.writeFileSync(path.join(V.outDir, 'index.html'), enReportsIndexHtml, 'utf8');
-console.log(`Updated ${V.urlBase}/index.html · ${count} pages`);
+  fs.mkdirSync(V.outDir, { recursive: true });
+  fs.writeFileSync(path.join(V.outDir, 'index.html'), indexHtml, 'utf8');
+  console.log(`  ${V.urlBase}/ · ${count} sayfa${atlanan ? ` · ${atlanan} tarih atlandı (çeviri yok)` : ''}`);
 }
 
 for (const V of VARIANTS) buildVariant(V);
-console.log('English report pages: done.');
+console.log(`Rapor sayfaları tamam · dil: ${LANG}`);

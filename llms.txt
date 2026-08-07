@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir. Açık kaynak ve teknoloji trendlerini Türkçe takip etmek isteyenler için.
 
-Son güncelleme: 2026-08-07 · 400 araç · 487 terim
+Son güncelleme: 2026-08-08 · 400 araç · 487 terim
 
 ## Teknoloji Sözlüğü
 
@@ -1813,6 +1813,7 @@ Le même catalogue en français, traduit depuis la source turque. Markdown brut 
 - [Accueil](https://trescout.com/fr/)
 - [Glossaire](https://trescout.com/fr/dictionary/)
 - [Découvrir](https://trescout.com/fr/discover/)
+- [Archive des rapports](https://trescout.com/fr/reports/)
 
 - [Qu'est-ce que Action ?](https://trescout.com/fr/dictionary/action/) (brut: https://trescout.com/fr/dictionary/action.md): C'est l'action concrète qu'une intelligence artificielle ou un logiciel effectue dans le…
 - [Qu'est-ce que ADB ?](https://trescout.com/fr/dictionary/adb/) (brut: https://trescout.com/fr/dictionary/adb.md): C'est un pont qui vous permet d'envoyer des commandes aux appareils Android via votre ord…

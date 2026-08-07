@@ -122,6 +122,14 @@ jobs:
           node scripts/build-en.js --lang=fr
           python3 scripts/dil-anasayfa.py --lang=fr
 
+      # Rapor arşivi sayfaları · rapor yayını (app · publish-report.ts) PDF ve
+      # çevrilmiş JSON'u üretiyor, sayfaları burada basıyoruz. O dilin çevrilmiş
+      # JSON'u olmayan tarih atlanır · Türkçe içerikli sayfa çıkmasın diye.
+      - name: Rapor arşivi sayfaları (EN + FR)
+        run: |
+          node scripts/build-reports-en.js
+          node scripts/build-reports-en.js --lang=fr
+
       - name: AI'a hizmet · keşif index server-render + .md + llms.txt
         run: |
           python3 scripts/discover-index.py

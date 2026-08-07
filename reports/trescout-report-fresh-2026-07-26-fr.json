@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-26",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "summary": "Bitchat offre un environnement de discussion local qui ne nécessite pas de connexion Internet, utilisant la technologie maillée Bluetooth. Développée en langage Swift, l'application promet une expérience de type IRC qui permet aux utilisateurs de communiquer directement à courte distance.",
+          "meta": "Swift · ★ 28 892 · +1 720 aujourd'hui"
+        },
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro est un logiciel de montage vidéo qui intègre des outils de montage basés sur l'IA dans l'environnement macOS. Cette plateforme, développée avec le langage Swift, est conçue pour automatiser les processus de montage vidéo.",
+          "meta": "Swift · ★ 12 304 · +412 aujourd'hui",
+          "returning": true
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Développé par Andrew Ng, aisuite offre un accès à différents fournisseurs d'IA générative via une interface unique. Cette bibliothèque basée sur Python fournit une interface unifiée qui permet aux développeurs de basculer plus facilement entre différents fournisseurs de modèles.",
+          "meta": "Python · ★ 15 272 · +77 aujourd'hui",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Android May Soon Restrict On-Device ADB",
+          "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+          "summary": "Google se prépare à restreindre l'utilisation du pont de débogage sur l'appareil (ADB sur l'appareil) dans le système d'exploitation Android. Ce changement limite les autorisations d'accès aux processus de débogage locaux pour renforcer les protocoles de sécurité.",
+          "meta": "902 votes · 445 commentaires"
+        },
+        {
+          "title": "Open-weight AI is having its Kubernetes moment",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+          "summary": "Les modèles d’IA ouverts traversent un tournant comme Kubernetes, qui standardise l’orchestration des conteneurs dans le monde du logiciel. Ce processus permet à l’écosystème fragmenté de l’intelligence artificielle de se fédérer autour d’infrastructures et d’outils communs et de se généraliser à l’échelle industrielle.",
+          "meta": "360 votes · 283 commentaires"
+        },
+        {
+          "title": "Did They Ghost You?",
+          "url": "https://didtheyghostyou.com/",
+          "summary": "Did They Ghost You est une plateforme qui permet aux candidats de suivre les entreprises dont ils n'ont pas reçu de réponse lors de leurs processus de candidature. En répertoriant les institutions auxquelles ils ont postulé, les utilisateurs peuvent consulter les commentaires des autres candidats et accroître la transparence des processus de communication.",
+          "meta": "359 votes · 162 commentaires"
+        },
+        {
+          "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+          "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
+          "summary": "Les ponts à baldaquin établis dans les forêts amazoniennes ont assuré le passage en toute sécurité de la faune sauvage, ce qui a permis de générer zéro accident de la route sur 15 000 passages. Cette solution d'infrastructure permet aux animaux de se déplacer dans des habitats forestiers fragmentés sans être exposés au trafic routier.",
+          "meta": "340 votes · 98 commentaires"
+        },
+        {
+          "title": "The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "summary": "L'ingénierie de contexte développée pour les modèles de génération Claude 5 offre de nouvelles méthodes qui augmentent la capacité de focalisation du modèle dans le traitement de grands ensembles de données. Ces techniques optimisent les processus d'analyse complexes en augmentant la précision du rappel des informations contenues dans des textes longs.",
+          "meta": "262 votes · 167 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "mesh",
+      "explanation": "Une grande structure de réseau formée d'appareils interconnectés transférant des données entre eux au lieu d'un centre unique."
+    }
+  ]
+}

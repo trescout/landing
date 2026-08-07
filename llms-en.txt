@@ -2,7 +2,7 @@
 
 > TreScout scans GitHub, Hacker News, HuggingFace and Lobsters every day, summarizes the highlights and collects them in one daily report (web + PDF, Turkish and English).
 
-Last updated: 2026-08-07 · 400 tools · 487 terms
+Last updated: 2026-08-08 · 400 tools · 487 terms
 
 ## Tech Dictionary
 
