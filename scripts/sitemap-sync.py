@@ -37,7 +37,7 @@ def oncelik(url):
         return "weekly", "0.8"
     if url.startswith("/reports/") or url.startswith("/en/reports/"):
         return "monthly", "0.7"
-    if url == "/privacy.html":
+    if url.endswith("privacy.html"):
         return "monthly", "0.3"
     return "monthly", "0.6"
 
@@ -50,8 +50,9 @@ def disk_urls():
         if url in ATLA:
             continue
         out.add(url)
-    if os.path.exists(os.path.join(ROOT, "privacy.html")):
-        out.add("/privacy.html")
+    for ek in ("privacy.html", "en/privacy.html"):
+        if os.path.exists(os.path.join(ROOT, ek)):
+            out.add("/" + ek)
     return out
 
 

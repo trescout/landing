@@ -10,13 +10,10 @@
 (function(){fetch('/sitemap.xml').then(function(r){return r.text();}).then(function(t){var n=(t.match(/\/reports\/\d{4}-\d{2}-\d{2}\//g)||[]).length;var el=document.getElementById('js-arch-badge');if(n>0&&el)el.textContent='CANLI · '+n+' rapor';}).catch(function(){});})();
 
 
-/* ---------- abone formu · /api/subscribe ---------- */
-    (function () {
-      var ENDPOINT = '/api/subscribe';
-
-      /* Sayfanın dili · /en/ altındaki sayfalarda İngilizce metin.
-     NOT: aynı sözlük assets/index.js içinde de var (anasayfa formu ayrı akış
-     kullanıyor · scroll-gate modal). Birini değiştirirken diğerine bakın. */
+/* ---------- dil · tüm bölümler paylaşıyor ----------
+   Form metinleri, modal durum yazısı ve aydınlatma metni yolu sayfanın
+   diline göre seçilir. Dosya kapsamında duruyor: önce form IIFE'sinin
+   içindeydi ve modal bölümü `T is not defined` ile kırıldı (2026-08-07). */
   var EN = document.documentElement.lang === 'en';
   var T = EN ? {
     zaten: '<strong>You are already on the list.</strong> We will let you know when we go live.',
@@ -24,15 +21,24 @@
     onay: 'Please accept the privacy notice to continue.',
     gonderiliyor: 'Sending...',
     genel: 'Something went wrong. Please try again.',
-    baglanti: 'Connection error. Please try again.'
+    baglanti: 'Connection error. Please try again.',
+    metinYolu: '/en/privacy.html',
+    onayaDokun: 'Tap the button below to give consent'
   } : {
     zaten: '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.',
     aldik: '<strong>Aldık.</strong> Yayında olduğumuzda size haber vereceğiz. İyi haftalar.',
     onay: 'Devam etmek için Aydınlatma Metni onayı gerekli.',
     gonderiliyor: 'Gönderiliyor...',
     genel: 'Bir şeyler ters gitti. Lütfen tekrar deneyin.',
-    baglanti: 'Bağlantı hatası. Lütfen tekrar deneyin.'
+    baglanti: 'Bağlantı hatası. Lütfen tekrar deneyin.',
+    metinYolu: '/privacy.html',
+    onayaDokun: 'Aşağıdaki butona dokunarak onaylayın'
   };
+
+
+/* ---------- abone formu · /api/subscribe ---------- */
+    (function () {
+      var ENDPOINT = '/api/subscribe';
 
   function showSuccess(form, isDuplicate) {
         var msg = isDuplicate
@@ -155,7 +161,7 @@
         // "Okundu" iddiası YOK · sadece butonu enable et · kullanıcı eksplisit onay verecek
         confirmBtn.disabled = false;
         statusEl.classList.add('read');
-        statusText.textContent = 'Aşağıdaki butona dokunarak onaylayın';
+        statusText.textContent = T.onayaDokun;
       }
 
       function openModal() {
@@ -163,7 +169,9 @@
         if (modal.getAttribute('aria-hidden') === 'false') return;
         lastFocus = document.activeElement;
         // Iframe'i her açılışta yeniden yükle → scroll tepesinden başlasın
-        iframe.src = '/privacy.html?embed=1&t=' + Date.now();
+        // Sayfanın dilindeki metin · İngilizce ziyaretçi Türkçe KVKK metnini okumak
+        // zorunda kalmasın (2026-08-07).
+        iframe.src = T.metinYolu + '?embed=1&t=' + Date.now();
         modal.setAttribute('aria-hidden', 'false');
         // BODY SCROLL LOCK KASTEN YOK · modal zaten position:fixed inset:0
         // ile viewport'u tam kaplıyor; pointer-events:auto ile body
