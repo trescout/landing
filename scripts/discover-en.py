@@ -204,6 +204,25 @@ def guncelleme_en(gs):
 
 
 # ── sayfa kurulumu ────────────────────────────────────────────────────────────
+# Kayıt formu · BETİKTE tanımlı, sayfadan kopyalanmıyor.
+# Önce en_chrome() formu mevcut bir İngilizce keşif sayfasından çekiyordu · o
+# sayfalarda hiç form olmadığı için boş dönüyordu ve 397 İngilizce keşif
+# sayfasında kaydolma yolu yoktu (2026-08-07). Kısır döngüyü kırmak için
+# kanonik hâli burada duruyor.
+CTA_FORM = (
+    '<form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" novalidate>'
+    '<div class="form-row">'
+    '<input class="input" type="email" name="email" placeholder="Enter your email" '
+    'autocomplete="email" required>'
+    '<button class="btn btn-primary" type="submit">Join early access</button></div>'
+    '<label class="form-consent"><input type="checkbox" name="consent" required>'
+    '<span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> '
+    'and consent to my email being processed for this purpose.</span></label>'
+    '<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">'
+    '</form>'
+)
+
+
 def en_chrome():
     """Mevcut İngilizce sayfadan nav + footer al · guard'lar kanonik seti bekliyor."""
     ornek = next((os.path.join(EN_DIR, d, "index.html") for d in sorted(os.listdir(EN_DIR))
@@ -212,9 +231,8 @@ def en_chrome():
     t = open(ornek, encoding="utf-8").read()
     nav = re.search(r"<nav>.*?</nav>", t, re.S).group(0)
     footer = re.search(r"<footer>.*?</footer>", t, re.S).group(0)
-    form = re.search(r'<form class="cta-form.*?</form>', t, re.S)
     vercel = "".join(re.findall(r'<script[^>]*src="/_vercel[^>]*></script>', t))
-    return nav, footer, (form.group(0) if form else ""), vercel
+    return nav, footer, CTA_FORM, vercel
 
 
 def build(slug, cat, chrome):
