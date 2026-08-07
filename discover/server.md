@@ -2,10 +2,11 @@
 
 Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu yazılımı, sürekli çalışan cihazlar üzerinde merkezi bir müzik yönetim sistemi oluşturulmasını sağlar.
 
-- ★ 2.913
+- ★ 2.923
 - GitHub Trending · 2026-06-13
 
 ## Güncelleme
+- 7 Ağustos 2026: Yıldız 2.913 → 2.923, son sürüm 2.9.11 (7 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 1.857 → 2.913, son sürüm 2.9.10 (30 Temmuz 2026).
 
 ## Ne kazandırır?

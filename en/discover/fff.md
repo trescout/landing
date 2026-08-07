@@ -2,10 +2,11 @@
 
 Developed with Rust, fff is a toolkit for artificial intelligence agents and text editors that performs file searches with high speed and accuracy. With C and NodeJS support, it offers a structure that can be integrated into different development environments.
 
-- ★ 9,882
+- ★ 9,894
 - GitHub Trending · 2026-06-02
 
 ## Update
+- August 7, 2026: Star 9,882 → 9,894, latest version v0.10.3 (August 7, 2026).
 - August 2, 2026: Star 7,319 → 9,882, latest version v0.10.1 (July 20, 2026).
 
 ## What you get

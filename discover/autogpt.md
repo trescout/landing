@@ -6,6 +6,9 @@ AutoGPT, karmaşık görevleri kendi başına planlayıp yürütebilen otonom ya
 - Python
 - GitHub Trending · 2026-08-07
 
+## Güncelleme
+- 7 Ağustos 2026: Yıldız 186.094 → 186.094, son sürüm autogpt-platform-beta-v0.7.0 (5 Ağustos 2026).
+
 ## Ne kazandırır?
 - Karmaşık iş akışlarını otomatikleştirerek haftalık zaman tasarrufu sağlar.
 - Doğal dilde verilen komutları çalışan bir yapay zekâ ajanına dönüştürür.

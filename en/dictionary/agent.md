@@ -37,8 +37,8 @@ Yes, they can manage your files or run your applications if you give them the ne
 - [Agent Skills](/en/discover/agent-skills/)
 - [Ansible](/en/discover/ansible/)
 - [Taste Skill](/en/discover/taste-skill/)
-- [Openinterpreter](/en/discover/openinterpreter/)
 - [Agent-Reach](/en/discover/agent-reach/)
+- [Openinterpreter](/en/discover/openinterpreter/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agent/

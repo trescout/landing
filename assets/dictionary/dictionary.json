@@ -3880,5 +3880,12 @@
     "full": "",
     "cat": "ai",
     "kisa": "Bilgisayarın verilen komutlara dayanarak anlamlı ve doğal cümleler kurarak metin üretmesidir."
+  },
+  {
+    "slug": "multimodal-large-language-model",
+    "en": "Multimodal Large Language Model",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Sadece metinle değil; görüntü, ses ve video gibi farklı veri türlerini de aynı anda işleyebilen gelişmiş yapay zekâ modelleridir."
   }
 ]

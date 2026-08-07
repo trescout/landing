@@ -2,11 +2,12 @@
 
 Outlines kütüphanesi, büyük dil modellerinden gelen yanıtları önceden tanımlanmış şemalara göre yapılandırılmış çıktılar (structured outputs) halinde sunulmasını sağlıyor. Geliştiriciler, Python tabanlı bu araçla model çıktılarını düzenli ifadeler (regular expressions) veya bağlamsız dil bilgisi (context-free grammars) kurallarıyla kısıtlayarak veri bütünlüğünü koruyor.
 
-- ★ 15.477
+- ★ 15.525
 - Python
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
+- 7 Ağustos 2026: Yıldız 15.477 → 15.525, son sürüm 1.3.3 (6 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 14.917 → 15.477, son sürüm 1.3.2 (20 Temmuz 2026).
 
 ## Ne kazandırır?

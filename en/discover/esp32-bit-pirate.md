@@ -2,11 +2,12 @@
 
 ESP32-Bit-Pirate is a hardware hacking tool that supports multiple communication protocols via a web-based command line interface (CLI). This system, developed in C++ language, facilitates hardware analysis processes by managing different protocols on a single platform.
 
-- ★ 5,281
+- ★ 5,357
 - C++
 - GitHub Trending · 2026-08-01
 
 ## Update
+- August 7, 2026: Star 5,281 → 5,357, latest version v1.7 (August 6, 2026).
 - August 2, 2026: Star 5,115 → 5,281, latest version v1.6 (June 5, 2026).
 
 ## What you get

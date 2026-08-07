@@ -3182,14 +3182,14 @@
     "slug": "container",
     "title": "Container",
     "tagline": "Apple tarafından geliştirilen container, Mac üzerinde hafif sanal makineler (virtual machines) kullanarak Linux kapsayıcıları…",
-    "meta": "★ 48.543 · Swift",
+    "meta": "★ 48.710 · Swift",
     "image": "/assets/discover/og/container.webp",
     "source": "GitHub",
     "date": "2026-06-11",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 48543,
+    "stars": 48710,
     "lite": false,
     "headline": "Mac üzerinde hızlı Linux sanallaştırma",
     "last_review": "2026-08-07",
@@ -3200,6 +3200,13 @@
         "onceki_yildiz": 30453,
         "surum": "1.2.0",
         "surum_tarihi": "2026-07-29"
+      },
+      {
+        "tarih": "2026-08-07",
+        "yildiz": 48710,
+        "onceki_yildiz": 48543,
+        "surum": "1.2.1",
+        "surum_tarihi": "2026-08-07"
       }
     ],
     "tagline_en": "Developed by Apple, containers are Linux containers on Mac using lightweight virtual machines."
@@ -11892,7 +11899,7 @@
     "slug": "deepseek-reasonix",
     "title": "DeepSeek-Reasonix",
     "tagline": "DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel alan bir yapay zekâ kodlama ajanıdır.",
-    "meta": "★ 32.605 · Go",
+    "meta": "★ 32.650 · Go",
     "image": "/assets/discover/og/deepseek-reasonix.webp",
     "source": "GitHub",
     "date": "2026-08-03",
@@ -11900,7 +11907,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 32605,
+    "stars": 32650,
     "lite": false,
     "headline": "Terminal için yapay zekâ kodlama ajanı",
     "last_review": "2026-08-07",
@@ -11931,6 +11938,13 @@
         "yildiz": 32605,
         "onceki_yildiz": 31870,
         "surum": "desktop-v1.21.0",
+        "surum_tarihi": "2026-08-07"
+      },
+      {
+        "tarih": "2026-08-07",
+        "yildiz": 32650,
+        "onceki_yildiz": 32605,
+        "surum": "desktop-v1.21.1",
         "surum_tarihi": "2026-08-07"
       }
     ],

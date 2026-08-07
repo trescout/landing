@@ -2,15 +2,15 @@
 
 CopilotKit offers a React and Angular-based frontend stack for developing artificial intelligence agents and generative UIs. It provides an infrastructure that enables smart capabilities to be integrated into applications via the AG-UI protocol.
 
-- ★ 36,508
+- ★ 36,582
 - TypeScript
 - GitHub Trending · 2026-06-06
 
 ## Update
+- August 7, 2026: Star 36,508 → 36,582, latest version v1.66.4 (August 7, 2026).
 - August 6, 2026: Star 36,438 → 36,508, latest version v1.66.2 (August 4, 2026).
 - 4 August 2026: Star 36.415 → 36.438, last version angular/v0.3.1 (3 August 2026).
 - August 3, 2026: Star 36,405 → 36,415, latest version v1.65.0 (August 3, 2026).
-- August 2, 2026: Star 32,818 → 36,405, latest version v1.64.2 (July 31, 2026).
 
 ## What you get
 - It adds dynamic and intelligent interfaces to applications.

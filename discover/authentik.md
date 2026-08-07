@@ -2,9 +2,12 @@
 
 Authentik, uygulamalar için merkezi kimlik doğrulama ve erişim yönetimi sağlayan açık kaynaklı bir güvenlik platformu. Karmaşık kimlik doğrulama süreçlerini tek bir noktada birleştirerek, farklı servisler arasında güvenli geçiş imkânı sunuyor.
 
-- ★ 23.221
+- ★ 23.224
 - Python
 - GitHub Trending · 2026-08-07
+
+## Güncelleme
+- 7 Ağustos 2026: Yıldız 23.221 → 23.224, son sürüm version/2026.5.6 (22 Temmuz 2026).
 
 ## Ne kazandırır?
 - Farklı servisler arasında tek noktadan güvenli geçiş sağlar

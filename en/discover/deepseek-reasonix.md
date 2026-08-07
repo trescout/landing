@@ -2,11 +2,12 @@
 
 DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models. Focusing on prefix-cache stability, this tool ensures developers receive uninterrupted coding support over long sessions.
 
-- ★ 31,870
+- ★ 32,605
 - Go
 - GitHub Trending · 2026-08-03
 
 ## Update
+- August 7, 2026: Star 31,870 → 32,605, latest version desktop-v1.21.0 (August 7, 2026).
 - August 6, 2026: Star 30,216 → 31,870, latest version desktop-v1.20.0 (August 5, 2026).
 - 4 August 2026: Star 29,368 → 30,216, latest version desktop-v1.19.5 (3 August 2026).
 - August 3, 2026: Star 29,369 → 29,368, latest version desktop-v1.19.3 (August 3, 2026).

@@ -1729,6 +1729,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/dictionary/multimodal-large-language-model/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/dictionary/multimodal-model/</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -7515,6 +7521,12 @@
   <url>
     <loc>https://trescout.com/en/dictionary/multi-tenancy/</loc>
     <lastmod>2026-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/en/dictionary/multimodal-large-language-model/</loc>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
