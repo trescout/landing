@@ -157,7 +157,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "Yapay zekanın sadece metin üretmek yerine hedeflere ulaşmak için inisiyatif almasıdır.",
-    "kisa_en": "It means that artificial intelligence takes the initiative to achieve goals instead of just producing text."
+    "kisa_en": "Artificial intelligence takes initiative to achieve goals instead of just producing text."
   },
   {
     "slug": "mcp",
@@ -765,7 +765,7 @@
     "full": "",
     "cat": "dev",
     "kisa": "Yazılan kodun bilgisayarın anlayacağı dile çevrildiği ve hataların kontrol edildiği hazırlık aşamasıdır.",
-    "kisa_en": "It is the preparation phase where the written code is translated into a language that the computer can understand and errors are checked."
+    "kisa_en": "It is the preparation phase in which the written code is translated into a language that the computer can understand and errors are checked."
   },
   {
     "slug": "reverse-proxy",
@@ -1325,7 +1325,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "İnsan müdahalesi olmadan, çevresini algılayıp kendi kararlarını vererek hareket edebilen makinelerdir.",
-    "kisa_en": "They are machines that can perceive their environment and act by making their own decisions, without human intervention."
+    "kisa_en": "They are machines that can act by sensing their environment and making their own decisions, without human intervention."
   },
   {
     "slug": "security-scanner",
@@ -1741,7 +1741,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "Ana bir yapay zekâ sisteminin yönetimi altında, daha küçük ve özel görevleri yerine getiren yardımcı birimlerdir.",
-    "kisa_en": "They are auxiliary units that perform smaller and specialized tasks under the management of a main artificial intelligence system."
+    "kisa_en": "They are auxiliary units that perform smaller and specific tasks under the management of a main artificial intelligence system."
   },
   {
     "slug": "ai-capabilities",
@@ -2949,7 +2949,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "Kullanıcıyla sohbet eden, ona yardımcı olan veya günlük işlerinde eşlik eden dijital asistandır.",
-    "kisa_en": "It is a digital assistant that chats with the user, helps him or her in daily tasks."
+    "kisa_en": "It is a digital assistant that chats with the user, assists him or her in daily tasks."
   },
   {
     "slug": "bi",
@@ -3405,7 +3405,7 @@
     "full": "",
     "cat": "ai",
     "kisa": "Birden fazla yapay zekâ biriminin iş birliği yaparak karmaşık sorunları çözdüğü sistemler bütünüdür.",
-    "kisa_en": "It is a set of systems in which more than one artificial intelligence unit collaborates to solve complex problems."
+    "kisa_en": "It is a set of systems in which more than one artificial intelligence unit cooperates to solve complex problems."
   },
   {
     "slug": "etf",
@@ -3413,7 +3413,7 @@
     "full": "Exchange Traded Fund",
     "cat": "data",
     "kisa": "Birçok farklı hisse senedini veya varlığı tek bir paket halinde borsada alıp satmanızı sağlayan yatırım aracıdır.",
-    "kisa_en": "It is an investment tool that allows you to buy and sell many different stocks or assets in a single package on the stock exchange."
+    "kisa_en": "It is an investment tool that allows you to buy and sell many different stocks or assets on the stock exchange in a single package."
   },
   {
     "slug": "backtesting",
@@ -3844,48 +3844,55 @@
     "en": "Large Language Models",
     "full": "Large Language Models",
     "cat": "ai",
-    "kisa": "Çok büyük miktarda veriyle eğitilmiş, insan dilini anlayan ve metin üretebilen gelişmiş yapay zekâ modelleridir."
+    "kisa": "Çok büyük miktarda veriyle eğitilmiş, insan dilini anlayan ve metin üretebilen gelişmiş yapay zekâ modelleridir.",
+    "kisa_en": "They are advanced artificial intelligence models that are trained with huge amounts of data, understand human language and can produce text."
   },
   {
     "slug": "core-libraries",
     "en": "Core Libraries",
     "full": "",
     "cat": "dev",
-    "kisa": "Bir yazılımın temel işlevlerini yerine getirmesi için ihtiyaç duyduğu standart kod paketleridir."
+    "kisa": "Bir yazılımın temel işlevlerini yerine getirmesi için ihtiyaç duyduğu standart kod paketleridir.",
+    "kisa_en": "They are standard code packages that a software needs to perform its basic functions."
   },
   {
     "slug": "caching",
     "en": "Caching",
     "full": "",
     "cat": "data",
-    "kisa": "Sık kullanılan verilerin, hızlı erişim sağlamak amacıyla geçici olarak bellekte saklanmasıdır."
+    "kisa": "Sık kullanılan verilerin, hızlı erişim sağlamak amacıyla geçici olarak bellekte saklanmasıdır.",
+    "kisa_en": "Frequently used data is temporarily stored in memory for quick access."
   },
   {
     "slug": "context",
     "en": "Context",
     "full": "",
     "cat": "ai",
-    "kisa": "Yapay zekânın bir konuyu doğru anlaması için ihtiyaç duyduğu geçmiş bilgiler ve mevcut durumun bütünüdür."
+    "kisa": "Yapay zekânın bir konuyu doğru anlaması için ihtiyaç duyduğu geçmiş bilgiler ve mevcut durumun bütünüdür.",
+    "kisa_en": "It is the whole of the past information and current situation that artificial intelligence needs to understand a subject correctly."
   },
   {
     "slug": "taste",
     "en": "Taste",
     "full": "",
     "cat": "ai",
-    "kisa": "Bir teknolojik ürünün veya tasarımın estetik ve işlevsel kalitesini ayırt edebilme yetisidir."
+    "kisa": "Bir teknolojik ürünün veya tasarımın estetik ve işlevsel kalitesini ayırt edebilme yetisidir.",
+    "kisa_en": "It is the ability to distinguish the aesthetic and functional quality of a technological product or design."
   },
   {
     "slug": "text-generation",
     "en": "Text Generation",
     "full": "",
     "cat": "ai",
-    "kisa": "Bilgisayarın verilen komutlara dayanarak anlamlı ve doğal cümleler kurarak metin üretmesidir."
+    "kisa": "Bilgisayarın verilen komutlara dayanarak anlamlı ve doğal cümleler kurarak metin üretmesidir.",
+    "kisa_en": "It is the computer's ability to produce text by constructing meaningful and natural sentences based on the commands given."
   },
   {
     "slug": "multimodal-large-language-model",
     "en": "Multimodal Large Language Model",
     "full": "",
     "cat": "ai",
-    "kisa": "Sadece metinle değil; görüntü, ses ve video gibi farklı veri türlerini de aynı anda işleyebilen gelişmiş yapay zekâ modelleridir."
+    "kisa": "Sadece metinle değil; görüntü, ses ve video gibi farklı veri türlerini de aynı anda işleyebilen gelişmiş yapay zekâ modelleridir.",
+    "kisa_en": "Not just with text; They are advanced artificial intelligence models that can simultaneously process different types of data such as image, audio and video."
   }
 ]

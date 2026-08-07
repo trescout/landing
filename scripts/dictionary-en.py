@@ -146,6 +146,28 @@ def tarih_en(iso):
         return iso
 
 
+TR_HARF = re.compile(r"[çğıöşüâîÇĞİÖŞÜÂÎ]")
+
+
+def ingilizce_acilim(full):
+    """`full` alanı iki farklı şey tutuyor · İngilizce okurda yalnız biri işe yarar.
+
+    Çoğu terimde kısaltmanın açılımı (RAG → "Retrieval-Augmented Generation"),
+    bazılarında ise Türkçe karşılık (Offline → "Çevrimdışı", Web Scraping →
+    "Web Kazıma"). İkincisi İngilizce sayfada anlamsız: okur başlığın altında
+    tanımadığı bir Türkçe kelime görüyor (2026-08-07 · kullanıcı fark etti).
+
+    Türkçe'ye özgü harf taşıyan parçaları atıyoruz. "AI · Yapay Zekâ" gibi karma
+    değerlerde İngilizce parça korunur, Türkçe parça düşer.
+
+    Sınır: özel harf içermeyen bir Türkçe ifade (ör. "Sanal Makine") elenemez.
+    Veride böyle bir örnek yok · çıkarsa elle `full` alanını düzeltmek gerekir.
+    """
+    parcalar = [p.strip() for p in (full or "").split("·")]
+    kalan = [p for p in parcalar if p and not TR_HARF.search(p)]
+    return " · ".join(kalan)
+
+
 def build(term, chrome):
     nav, footer, form, vercel = chrome
     slug = term["slug"]
@@ -156,7 +178,7 @@ def build(term, chrome):
     b = t.split("<main", 1)[1].split("</main>")[0]
 
     baslik = term.get("en") or slug
-    full = term.get("full") or ""
+    full = ingilizce_acilim(term.get("full") or "")
     lead = tr2en(metin(blok(r'<p class="disc-lead">(.*?)</p>', b))) or (term.get("kisa_en") or "")
     analoji = metin(blok(r'<div class="dict-analogy">(.*?)</div>', b))
     analoji = analoji.replace("Şöyle düşünün:", "").strip()
@@ -223,7 +245,7 @@ def markdown(term, h):
     sabit kalıptan üretiliyordu, artık gerçek içerikten."""
     g = h.split("<main", 1)[1].split("</main>")[0]
     baslik = metin(blok(r'<h1 class="disc-title">(.*?)</h1>', g))
-    full = metin(blok(r'<p class="dict-en">(.*?)</p>', g))
+    full = ingilizce_acilim(metin(blok(r'<p class="dict-en">(.*?)</p>', g)))
     lead = metin(blok(r'<p class="disc-lead">(.*?)</p>', g))
     sat = [f"# {baslik}", ""]
     if full:

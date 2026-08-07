@@ -1,6 +1,6 @@
 # What is Artificial Intelligence?
 
-> AI · Yapay Zekâ
+> AI
 
 Computer systems that have the ability to learn, reason and solve problems by imitating human intelligence.
 

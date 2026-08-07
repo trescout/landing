@@ -1,7 +1,5 @@
 # What is Offline?
 
-> Çevrimdışı
-
 The system works with the device's own resources, without the need for an internet connection.
 
 ## Overview
