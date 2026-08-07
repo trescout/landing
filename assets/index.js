@@ -14,8 +14,9 @@
    Form metinleri, modal durum yazısı ve aydınlatma metni yolu sayfanın
    diline göre seçilir. Dosya kapsamında duruyor: önce form IIFE'sinin
    içindeydi ve modal bölümü `T is not defined` ile kırıldı (2026-08-07). */
-  var EN = document.documentElement.lang === 'en';
-  var T = EN ? {
+  var SAYFA_DILI = document.documentElement.lang || 'tr';
+  var METIN = {
+    en: {
     zaten: '<strong>You are already on the list.</strong> We will let you know when we go live.',
     aldik: '<strong>Got it.</strong> We will let you know when we go live. Have a good week.',
     onay: 'Please accept the privacy notice to continue.',
@@ -24,16 +25,31 @@
     baglanti: 'Connection error. Please try again.',
     metinYolu: '/en/privacy.html',
     onayaDokun: 'Tap the button below to give consent'
-  } : {
-    zaten: '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.',
+    },
+    fr: {
+      zaten: '<strong>Vous êtes déjà sur la liste.</strong> Nous vous préviendrons au lancement.',
+      aldik: '<strong>C\'est noté.</strong> Nous vous préviendrons au lancement. Bonne semaine.',
+      onay: 'Veuillez accepter la notice de confidentialité pour continuer.',
+      gonderiliyor: 'Envoi...',
+      genel: 'Une erreur est survenue. Veuillez réessayer.',
+      baglanti: 'Erreur de connexion. Veuillez réessayer.',
+      metinYolu: '/fr/privacy.html',
+      onayaDokun: 'Touchez le bouton ci-dessous pour donner votre consentement'
+    },
+    tr: {
+      zaten: '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.',
     aldik: '<strong>Aldık.</strong> Yayında olduğumuzda size haber vereceğiz. İyi haftalar.',
     onay: 'Devam etmek için Aydınlatma Metni onayı gerekli.',
     gonderiliyor: 'Gönderiliyor...',
     genel: 'Bir şeyler ters gitti. Lütfen tekrar deneyin.',
-    baglanti: 'Bağlantı hatası. Lütfen tekrar deneyin.',
-    metinYolu: '/privacy.html',
-    onayaDokun: 'Aşağıdaki butona dokunarak onaylayın'
+      baglanti: 'Bağlantı hatası. Lütfen tekrar deneyin.',
+      metinYolu: '/privacy.html',
+      onayaDokun: 'Aşağıdaki butona dokunarak onaylayın'
+    }
   };
+  /* Sayfanın dili · bilinmeyen dilde Türkçeye düşer (kaynak dil). */
+  var T = METIN[SAYFA_DILI] || METIN.tr;
+  var EN = SAYFA_DILI === 'en';
 
 
 /* ---------- abone formu · /api/subscribe ---------- */

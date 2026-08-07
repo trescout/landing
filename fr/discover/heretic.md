@@ -1,0 +1,25 @@
+# Dépasser les limites de sécurité dans les modèles de langage
+
+Heretic est un outil technique qui supprime les contraintes d'alignement de sécurité des modèles de langage basés sur des transformateurs sans nécessiter de processus de recyclage coûteux. Utilisant la technique « Ablitération », cette solution est avancée et orientée vers la recherche.
+
+- ★ 27 018
+- Python
+- AGPL-3.0
+- GitHub Trending · 28 May 2026
+
+## Mise à jour
+- 2 août 2026 : Star 22.018 → 27.018, dernière version v1.4.0 (14 juin 2026).
+
+## Qu'est-ce que ça fait ?
+- Il supprime les contraintes du modèle avec la technique « Ablitération ».
+- Ne nécessite pas de recyclage coûteux.
+- La méthode est open source et automatique.
+
+## Termes liés du glossaire
+
+## Liens
+- Dépôt GitHub →
+- Lire en turc →
+
+---
+Source : TreScout Découvrir · https://trescout.com/fr/discover/heretic/

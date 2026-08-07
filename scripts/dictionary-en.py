@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-TreScout · İngilizce sözlük sayfalarını Türkçesinden üretir.
+TreScout · {LANG} sözlük sayfasını Türkçesinden üretir.
 ============================================================
 
-Neden gerekti: İngilizce sözlük sayfaları `build-en.js` içindeki SABİT kalıpla
+Neden gerekti: {LANG} sözlük sayfası `build-en.js` içindeki SABİT kalıpla
 üretiliyordu · "Modern software systems leverage <TERİM> to streamline data
 flow…" cümlesi 480 sayfanın hepsinde aynıydı. Analoji, SSS ve "ilgili terimler"
 de sabitti (her sayfada aynı beş link). Yani sayfa terimi açıklıyormuş gibi
@@ -19,11 +19,16 @@ Kullanım:
 """
 import os, re, sys, json, html, time, urllib.parse, urllib.request
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from diller import dil, tarih_yaz, chrome as chrome_kur
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "dictionary")
-EN_DIR = os.path.join(ROOT, "en", "dictionary")
+LANG = next((a.split("=")[1] for a in sys.argv if a.startswith("--lang=")), "en")
+D = dil(LANG)
+EN_DIR = os.path.join(ROOT, LANG, "dictionary")
 DICT = os.path.join(ROOT, "assets", "dictionary", "dictionary.json")
-CACHE = os.path.join(ROOT, "assets", "dictionary", "en-cache.json")
+CACHE = os.path.join(ROOT, "assets", "dictionary", f"{LANG}-cache.json")
 BASE = "https://trescout.com"
 
 DRY = "--dry" in sys.argv
@@ -33,15 +38,7 @@ ONLY = next((a.split("=")[1] for a in sys.argv if a.startswith("--slug=")), None
 _cache = json.load(open(CACHE, encoding="utf-8")) if os.path.exists(CACHE) else {}
 _yeni = 0
 
-BASLIK = {
-    "Tanım": "Overview",
-    "Nasıl çalışır?": "How it works",
-    "Nerede kullanılır?": "Where it is used",
-    "Sık karıştırılanlar": "Commonly confused with",
-    "Sıkça sorulanlar": "Frequently asked questions",
-    "İlgili terimler": "Related terms",
-    "İlgili araçlar": "Related tools",
-}
+BASLIK = D["bolumler"]
 KATEGORI = {"ai": "AI", "web": "Web", "devops": "DevOps", "mobil": "Mobile",
             "veri": "Data", "guvenlik": "Security", "genel": "Tech"}
 
@@ -53,7 +50,7 @@ def tr2en(s):
         return ""
     if s in _cache:
         return _cache[s]
-    url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=tr&tl=en&dt=t&q="
+    url = (f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=tr&tl={LANG}&dt=t&q="
            + urllib.parse.quote(s))
     out, oldu = s, False
     for deneme in range(3):
@@ -90,10 +87,35 @@ def esc(s):
 
 
 def en_chrome():
-    """Mevcut İngilizce sözlük sayfasından nav/footer/form al · guard'lar kanonik seti bekliyor."""
-    ornek = next(os.path.join(EN_DIR, d, "index.html") for d in sorted(os.listdir(EN_DIR))
-                 if os.path.isdir(os.path.join(EN_DIR, d))
-                 and os.path.exists(os.path.join(EN_DIR, d, "index.html")))
+    """nav/footer/form · guard'lar kanonik seti bekliyor.
+
+    İngilizce: mevcut sayfadan kopyalanır (kanonik kaynak normalize edici).
+    Diğer diller: DAİMA diller.py tablosundan · normalize edici onları atladığı
+    için sayfadan kopyalasaydık bir kere bozulan kabuk her gün çoğalırdı.
+    """
+    ornek = None
+    if LANG == "en" and os.path.isdir(EN_DIR):
+        ornek = next((os.path.join(EN_DIR, d, "index.html") for d in sorted(os.listdir(EN_DIR))
+                      if os.path.isdir(os.path.join(EN_DIR, d))
+                      and os.path.exists(os.path.join(EN_DIR, d, "index.html"))), None)
+    if not ornek:
+        # Yeni dilin ilk üretimi · kopyalanacak sayfa yok, tablodan kuruluyor.
+        tr_ornek = next(os.path.join(TR_DIR, d, "index.html") for d in sorted(os.listdir(TR_DIR))
+                        if os.path.exists(os.path.join(TR_DIR, d, "index.html")))
+        tt = open(tr_ornek, encoding="utf-8").read()
+        logo = re.search(r"<svg[^>]*>.*?</svg>", tt, re.S).group(0)
+        nav, footer = chrome_kur(D, logo)
+        form = (f'<form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-{LANG}" novalidate>'
+                '<div class="form-row">'
+                f'<input class="input" type="email" name="email" placeholder="{D["form_yer_tutucu"]}" autocomplete="email" required>'
+                f'<button class="btn btn-primary" type="submit">{D["form_dugme"]}</button></div>'
+                '<label class="form-consent"><input type="checkbox" name="consent" required>'
+                f'<span>{D["form_onay"].format(gizlilik=D["gizlilik_yolu"])}</span></label>'
+                '<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">'
+                '</form>')
+        vercel = "".join(re.findall(r'<script[^>]*src="/_vercel[^>]*></script>', tt))
+        print(f"  · {LANG}: ilk üretim · chrome ve form diller.py tablosundan kuruldu")
+        return nav, footer, form, vercel
     t = open(ornek, encoding="utf-8").read()
     nav = re.search(r"<nav>.*?</nav>", t, re.S).group(0)
     footer = re.search(r"<footer>.*?</footer>", t, re.S).group(0)
@@ -122,8 +144,8 @@ def bolumler(b):
                     [(m2.group(1) + "/" + m2.group(2), m2.group(3))
                      for m2 in re.finditer(r'<a href="/(dictionary|discover)/([^/]+)/">(.*?)</a>', govde, re.S)]:
                 tur, slug = yol.split("/")
-                if os.path.isdir(os.path.join(ROOT, "en", tur, slug)):
-                    cips += f'<a href="/en/{tur}/{slug}/">{esc(metin(ad))}</a>'
+                if os.path.isdir(os.path.join(ROOT, LANG, tur, slug)):
+                    cips += f'<a href="{D["onek"]}/{tur}/{slug}/">{esc(metin(ad))}</a>'
             if cips:
                 out.append(f'<section class="disc-sec"><h2>{esc(yeni)}</h2><div class="dict-related">{cips}</div></section>\n')
         else:
@@ -133,17 +155,12 @@ def bolumler(b):
     return out
 
 
-AYLAR_EN = ["January", "February", "March", "April", "May", "June",
-            "July", "August", "September", "October", "November", "December"]
+
 
 
 def tarih_en(iso):
-    """2026-06-03 → June 3, 2026 (Türkçe sayfadaki 'Son güncelleme' rozetinin karşılığı)."""
-    try:
-        y, a, g = iso.split("-")
-        return f"{AYLAR_EN[int(a)-1]} {int(g)}, {y}"
-    except Exception:
-        return iso
+    """ISO tarihi hedef dilin biçiminde."""
+    return tarih_yaz(iso, D)
 
 
 TR_HARF = re.compile(r"[çğıöşüâîÇĞİÖŞÜÂÎ]")
@@ -168,8 +185,22 @@ def ingilizce_acilim(full):
     return " · ".join(kalan)
 
 
+def dil_degistir(nav, slug):
+    """Nav'daki dil değiştirme bağlantısını SAYFAYA ÖZEL yap.
+
+    Chrome örnek bir sayfadan kopyalanıyor · o sayfanın TR bağlantısı da
+    kopyalanıyordu, yani bütün sayfalar aynı Türkçe sayfaya gidiyordu
+    (2026-08-07: 885 İngilizce sayfa /dictionary/action/'a işaret ediyordu).
+    Normalize edici bunu her gün düzeltiyordu, o yüzden fark edilmemişti ·
+    üretilen dillerde normalize edici çalışmadığı için kaynağında çözülmeli.
+    """
+    return re.sub(r'(<a href=")[^"]*(" class="btn btn-ghost" aria-label="[^"]*">TR</a>)',
+                  rf'\1/dictionary/{slug}/\2'.replace("{slug}", slug), nav)
+
+
 def build(term, chrome):
     nav, footer, form, vercel = chrome
+    nav = dil_degistir(nav, term["slug"])
     slug = term["slug"]
     tp = os.path.join(TR_DIR, slug, "index.html")
     if not os.path.exists(tp):
@@ -179,39 +210,39 @@ def build(term, chrome):
 
     baslik = term.get("en") or slug
     full = ingilizce_acilim(term.get("full") or "")
-    lead = tr2en(metin(blok(r'<p class="disc-lead">(.*?)</p>', b))) or (term.get("kisa_en") or "")
+    lead = tr2en(metin(blok(r'<p class="disc-lead">(.*?)</p>', b))) or (term.get(D["kisa_alan"]) or "")
     analoji = metin(blok(r'<div class="dict-analogy">(.*?)</div>', b))
     analoji = analoji.replace("Şöyle düşünün:", "").strip()
-    analoji_html = (f'<div class="dict-analogy"><strong>Analogy:</strong> {esc(tr2en(analoji))}</div>\n'
+    analoji_html = (f'<div class="dict-analogy"><strong>{D["analoji"]}</strong> {esc(tr2en(analoji))}</div>\n'
                     if analoji else "")
     kat = KATEGORI.get(term.get("cat", ""), (term.get("cat") or "Tech").title())
     # "Son güncelleme" rozeti · Türkçe sayfada var, İngilizcede yoktu (parite)
     gt = re.search(r'<time class="dict-time" datetime="([^"]+)"', b)
-    zaman = (f'<time class="dict-time" datetime="{gt.group(1)}">Last updated: {tarih_en(gt.group(1))}</time>'
+    zaman = (f'<time class="dict-time" datetime="{gt.group(1)}">{D["son_guncelleme"].format(tarih=tarih_en(gt.group(1)))}</time>'
              if gt else "")
-    canon_en = f"{BASE}/en/dictionary/{slug}/"
+    canon_en = f"{BASE}{D['onek']}/dictionary/{slug}/"
     canon_tr = f"{BASE}/dictionary/{slug}/"
     ld = json.dumps({
         "@context": "https://schema.org", "@type": "DefinedTerm", "name": baslik,
-        "description": lead, "inLanguage": "en", "url": canon_en,
+        "description": lead, "inLanguage": LANG, "url": canon_en,
         "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "TreScout Tech Dictionary",
-                             "url": f"{BASE}/en/dictionary/"},
+                             "url": f"{BASE}{D['onek']}/dictionary/"},
     }, ensure_ascii=False, indent=2)
 
-    head = ('<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="UTF-8">\n'
+    head = (f'<!DOCTYPE html>\n<html lang="{D["html_lang"]}">\n<head>\n<meta charset="UTF-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
-            f'<title>What is {esc(baslik)}? · Dictionary · TreScout</title>\n'
+            f'<title>{D["nedir"].format(terim=esc(baslik))} · {D["sozluk"]} · TreScout</title>\n'
             f'<meta name="description" content="{esc(lead[:155])}">\n'
             '<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
             f'<link rel="canonical" href="{canon_en}">\n'
             f'<link rel="alternate" hreflang="tr" href="{canon_tr}">\n'
-            f'<link rel="alternate" hreflang="en" href="{canon_en}">\n'
+            f'<link rel="alternate" hreflang="{LANG}" href="{canon_en}">\n'
             f'<link rel="alternate" hreflang="x-default" href="{canon_en}">\n'
-            f'<link rel="alternate" type="text/markdown" href="/en/dictionary/{slug}.md">\n'
-            f'<meta property="og:title" content="What is {esc(baslik)}?">\n'
+            f'<link rel="alternate" type="text/markdown" href="{D["onek"]}/dictionary/{slug}.md">\n'
+            f'<meta property="og:title" content="{D["nedir"].format(terim=esc(baslik))}">\n'
             f'<meta property="og:description" content="{esc(lead[:155])}">\n'
             f'<meta property="og:url" content="{canon_en}">\n<meta property="og:type" content="article">\n'
-            '<meta property="og:locale" content="en_US">\n'
+            f'<meta property="og:locale" content="{D["og_locale"]}">\n'
             f'<meta property="og:image" content="{BASE}/og-image.png">\n'
             '<meta name="twitter:card" content="summary_large_image">\n'
             f'<script type="application/ld+json">\n{ld}\n</script>\n'
@@ -220,17 +251,16 @@ def build(term, chrome):
             '<link rel="stylesheet" href="/assets/discover.css">\n'
             '<link rel="stylesheet" href="/assets/dictionary.css">\n</head>\n')
 
-    govde = ('<body>\n<a class="skip-link" href="#main">Skip to main content</a>\n' + nav +
+    govde = (f'<body>\n<a class="skip-link" href="#main">{D["atla"]}</a>\n' + nav +
              '\n<main id="main">\n<article class="disc">\n'
-             '<a class="disc-back" href="/en/dictionary/">← Dictionary</a>\n'
-             f'<div class="disc-top"><span class="disc-eyebrow">Dictionary · {esc(kat)}</span>{zaman}</div>\n'
-             f'<h1 class="disc-title">What is <span class="disc-accent">{esc(baslik)}</span>?</h1>\n'
+             f'<a class="disc-back" href="{D["onek"]}/dictionary/">{D["sozluk_geri"]}</a>\n'
+             f'<div class="disc-top"><span class="disc-eyebrow">{D["sozluk"]} · {esc(kat)}</span>{zaman}</div>\n'
+             f'<h1 class="disc-title">{D["nedir"].format(terim=f'<span class="disc-accent">{esc(baslik)}</span>')}</h1>\n'
              + (f'<p class="dict-en">{esc(full)}</p>\n' if full else "")
              + f'<p class="disc-lead">{esc(lead)}</p>\n'
              + (lambda s: (s[0] + analoji_html + "".join(s[1:])) if s else analoji_html)(bolumler(b))
-             + '<aside class="disc-cta"><p><strong>New tech terms in your inbox every morning.</strong> '
-               'Join TreScout early access for the daily digest.</p>' + form +
-             '<a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>\n'
+             + f'<aside class="disc-cta"><p><strong>{D["sozluk_cta_baslik"]}</strong> {D["sozluk_cta_metin"]}</p>' + form +
+             f'<a class="btn btn-ghost disc-cta-all" href="{D["onek"]}/dictionary/">{D["sozluk_tumu"]}</a></aside>\n'
              '<p class="disc-disclaimer">This explanation was written in plain language for TreScout · '
              'translated from the Turkish original. If something looks wrong or missing, write to '
              '<a href="mailto:hello@trescout.com">hello@trescout.com</a>. '
@@ -266,7 +296,7 @@ def markdown(term, h):
         if an and h2 == "Overview":
             sat += [f"*{an}*", ""]
             an = ""
-    sat += ["---", f"Source: TreScout Dictionary · {BASE}/en/dictionary/{term['slug']}/"]
+    sat += ["---", D["md_kaynak_sozluk"].format(url=f"{BASE}{D['onek']}/dictionary/{term['slug']}/")]
     return "\n".join(sat) + "\n"
 
 
@@ -296,7 +326,7 @@ def main():
             print(f"  · {i}/{len(terms)} sayfa · önbellek {len(_cache)} kayıt")
     if not DRY:
         json.dump(_cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False, indent=1, sort_keys=True)
-    print(f"✅ {yazilan} İngilizce sözlük sayfası · {_yeni} yeni çeviri · önbellek {len(_cache)} kayıt")
+    print(f"✅ {yazilan} {LANG} sözlük sayfası · {_yeni} yeni çeviri · önbellek {len(_cache)} kayıt")
 
 
 main()

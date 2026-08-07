@@ -6,20 +6,25 @@
      Kart metni tagline_en'e, etiketler EN karşılıklarına, arayüz metinleri
      sayfanın diline göre seçiliyor (2026-08-07 · İngilizce dizinde arama,
      sıralama ve kategori filtresi hiç çalışmıyordu). */
-  var EN = document.documentElement.lang === 'en';
-  var TAG_EN = {
-    "Yapay zekâ araçları": "AI Tools",
-    "Geliştirici aracı": "Developer Tool",
-    "Kod bilmeyenler için": "No-Code",
-    "Öğrenme": "Learning",
-    "Üretkenlik": "Productivity"
+  /* 2026-08-07 · üçüncü dil (fr) eklenince ikili EN bayrağı yetmedi ·
+     Fransızca sayfa Türkçe metinlere düşüyordu. Artık dil tablosu. */
+  var DIL = document.documentElement.lang || 'tr';
+  var TABLO = {
+    tr: { onek: '/discover/', dizi: 'tr', etiket: null, alan: 'tagline',
+          tumu: 'Tümü', birim: ' araç', bos: 'Eşleşme yok. Filtreyi değiştirin.', kopyalandi: 'Kopyalandı ✓' },
+    en: { onek: '/en/discover/', dizi: 'en', alan: 'tagline_en',
+          etiket: { "Yapay zekâ araçları": "AI Tools", "Geliştirici aracı": "Developer Tool",
+                    "Kod bilmeyenler için": "No-Code", "Öğrenme": "Learning", "Üretkenlik": "Productivity" },
+          tumu: 'All', birim: ' tools', bos: 'No matches. Try a different filter.', kopyalandi: 'Copied ✓' },
+    fr: { onek: '/fr/discover/', dizi: 'fr', alan: 'tagline_fr',
+          etiket: { "Yapay zekâ araçları": "Outils IA", "Geliştirici aracı": "Outil développeur",
+                    "Kod bilmeyenler için": "Sans code", "Öğrenme": "Apprentissage", "Üretkenlik": "Productivité" },
+          tumu: 'Tous', birim: ' outils', bos: 'Aucun résultat. Changez de filtre.', kopyalandi: 'Copié ✓' }
   };
-  var M = EN
-    ? { tumu: 'All', birim: ' tools', bos: 'No matches. Try a different filter.', kopyalandi: 'Copied ✓' }
-    : { tumu: 'Tümü', birim: ' araç', bos: 'Eşleşme yok. Filtreyi değiştirin.', kopyalandi: 'Kopyalandı ✓' };
-  function etiket(t) { return EN ? (TAG_EN[t] || t) : t; }
-  function tanitim(it) { return (EN && it.tagline_en) ? it.tagline_en : it.tagline; }
-  function yol(slug) { return (EN ? '/en/discover/' : '/discover/') + slug + '/'; }
+  var M = TABLO[DIL] || TABLO.tr;
+  function etiket(t) { return M.etiket ? (M.etiket[t] || t) : t; }
+  function tanitim(it) { return it[M.alan] || it.tagline; }
+  function yol(slug) { return M.onek + slug + '/'; }
 
   function esc(s) {
     var d = document.createElement('div');
@@ -73,7 +78,7 @@
     });
     if (state.sort === 'stars') list.sort(function (a, b) { return (b.stars || 0) - (a.stars || 0); });
     else if (state.sort === 'date') list.sort(function (a, b) { return (b.date || '').localeCompare(a.date || ''); });
-    else list.sort(function (a, b) { return (a.title || '').localeCompare(b.title || '', EN ? 'en' : 'tr'); });
+    else list.sort(function (a, b) { return (a.title || '').localeCompare(b.title || '', M.dizi); });
 
     var cnt = document.getElementById('disc-count');
     if (cnt) cnt.textContent = list.length === items.length ? (items.length + M.birim) : (list.length + ' / ' + items.length + M.birim);

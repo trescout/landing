@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-TreScout · İngilizce keşif sayfalarını Türkçesinden üretir.
+TreScout · {LANG} keşif sayfasını Türkçesinden üretir.
 ============================================================
 
-Neden gerekti: İngilizce keşif sayfaları `build-en.js` ile üretiliyordu ve o
+Neden gerekti: {LANG} keşif sayfası `build-en.js` ile üretiliyordu ve o
 betik Türkçe sayfalar zenginleşmeden önce yazılmış bir **SEO kabuğu**: yalnız
 başlık + tek cümle + "Project Stats". 2026-08-06 denetimi: Türkçe sayfa medyanı
 314 kelime, İngilizce 100 kelime. Kurulum komutları (kod · çeviri bile
@@ -25,16 +25,21 @@ Kullanım:
 """
 import os, re, sys, json, html, time, urllib.parse, urllib.request
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from diller import dil, tarih_yaz, chrome as chrome_kur
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "discover")
-EN_DIR = os.path.join(ROOT, "en", "discover")
+LANG = next((a.split("=")[1] for a in sys.argv if a.startswith("--lang=")), "en")
+D = dil(LANG)
+EN_DIR = os.path.join(ROOT, LANG, "discover")
 CATALOG = os.path.join(ROOT, "assets", "discover", "catalog.json")
-CACHE = os.path.join(ROOT, "assets", "discover", "en-cache.json")
 BASE = "https://trescout.com"
 
 DRY = "--dry" in sys.argv
 LIMIT = next((int(a.split("=")[1]) for a in sys.argv if a.startswith("--limit=")), None)
 ONLY = next((a.split("=")[1] for a in sys.argv if a.startswith("--slug=")), None)
+CACHE = os.path.join(ROOT, "assets", "discover", f"{LANG}-cache.json")
 
 # ── çeviri ────────────────────────────────────────────────────────────────────
 _cache = json.load(open(CACHE, encoding="utf-8")) if os.path.exists(CACHE) else {}
@@ -42,14 +47,14 @@ _yeni = 0
 
 
 def tr2en(s):
-    """Ücretsiz uç nokta (translate-i18n.js ile aynı) · önbellekli, hata olursa Türkçesini bırakır."""
+    """Türkçeden hedef dile · ücretsiz uç nokta, önbellekli, hata olursa Türkçesini bırakır."""
     global _yeni
     s = (s or "").strip()
     if not s:
         return ""
     if s in _cache:
         return _cache[s]
-    url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=tr&tl=en&dt=t&q="
+    url = (f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=tr&tl={LANG}&dt=t&q="
            + urllib.parse.quote(s))
     out, oldu = s, False
     for deneme in range(3):
@@ -88,19 +93,17 @@ def esc(s):
 
 
 def sayi_en(s):
-    """Türkçe binlik ayırıcı → İngilizce · 6.780 → 6,780 (rapor tarafındaki metaEn ile aynı kural)."""
-    return re.sub(r"\d{1,3}(?:\.\d{3})+", lambda m: m.group(0).replace(".", ","), s)
+    """Türkçe binlik ayırıcıyı hedef dilin biçimine çevir.
+
+    6.780 → İngilizce 6,780 · Fransızca 6 780 (bölünmez boşluk). Çevrilmezse
+    okur yanlış anlıyor: İngiliz okur 6.780'i ondalık sanar. Rapor tarafındaki
+    build-lang-report.ts ile aynı kural.
+    """
+    return re.sub(r"\d{1,3}(?:\.\d{3})+",
+                  lambda m: m.group(0).replace(".", D["binlik"]), s)
 
 
-BASLIK_MAP = {
-    "Ne kazandırır?": "What you get",
-    "Kurulum": "Installation",
-    "Çalıştırma": "Running it",
-    "Nasıl başlanır?": "Getting started",
-    "Kod bilmiyorsanız": "If you don't write code",
-    "İlgili sözlük terimleri": "Related dictionary terms",
-    "Bağlantılar": "Links",
-}
+BASLIK_MAP = D["bolumler"]
 
 
 def cmd_bloklari(sec_html):
@@ -111,7 +114,7 @@ def cmd_bloklari(sec_html):
         baslik = tr2en(metin(m.group(1)))
         kod = m.group(2)  # zaten kaçışlı · dokunma
         out += ('<div class="disc-cmd"><div class="disc-cmd-head"><span>' + esc(baslik) + '</span>'
-                '<button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div>'
+                f'<button type="button" class="disc-copy" aria-label="{D["kopyala_komut"]}">{D["kopyala"]}</button></div>'
                 '<pre><code>' + kod + '</code></pre></div>')
     return out
 
@@ -133,19 +136,19 @@ def bolumler(t):
         elif 'class="disc-ai"' in govde:
             istem = tr2en(metin(blok(r'<p class="disc-ai-text">(.*?)</p>', govde)))
             out += ('<section class="disc-sec"><h2>' + esc(yeni_h2) + '</h2><div class="disc-ai"><div class="disc-ai-head">'
-                    '<span>🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)</span>'
-                    '<button type="button" class="disc-copy" aria-label="Copy prompt">Copy</button></div>'
+                    f'<span>{D["ajan_istem"]}</span>'
+                    f'<button type="button" class="disc-copy" aria-label="{D["kopyala_istem"]}">{D["kopyala"]}</button></div>'
                     '<p class="disc-ai-text">' + esc(istem) + '</p></div></section>\n      ')
         elif 'class="disc-related"' in govde:
-            cips = "".join(f'<a href="/en/dictionary/{s}/">{esc(metin(a))}</a>'
+            cips = "".join(f'<a href="{D["onek"]}/dictionary/{s}/">{esc(metin(a))}</a>'
                            for s, a in re.findall(r'<a href="/dictionary/([^/]+)/">(.*?)</a>', govde, re.S)
-                           if os.path.isdir(os.path.join(ROOT, "en", "dictionary", s)))
+                           if os.path.isdir(os.path.join(ROOT, LANG, "dictionary", s)))
             if cips:
                 out += f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2><div class="disc-related">{cips}</div></section>\n      '
         else:
             p = metin(blok(r"<p>(.*?)</p>", govde))
             link = blok(r'(<ul class="disc-links">.*?</ul>)', govde)
-            link = link.replace("Resmî kaynak →", "Official source →")
+            link = link.replace("Resmî kaynak →", D["resmi_kaynak"])
             if p:
                 out += f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2><p>{esc(tr2en(p))}</p>{link}</section>\n      '
     return out
@@ -160,9 +163,10 @@ def olgular(t):
     for k, v in re.findall(r'<span class="disc-fact-k">(.*?)</span><span class="disc-fact-v">(.*?)</span>', govde, re.S):
         k, v = metin(k), metin(v)
         if k == "Lisans":
-            out += f'<div class="disc-fact"><span class="disc-fact-k">License</span><span class="disc-fact-v">{esc(v)}</span></div>'
+            out += f'<div class="disc-fact"><span class="disc-fact-k">{D["lisans"]}</span><span class="disc-fact-v">{esc(v)}</span></div>'
         else:
-            out += (f'<div class="disc-fact"><span class="disc-fact-k">{esc(tr2en(k))}</span>'
+            etiket = D["kimin_icin"] if k == "Kimin için" else tr2en(k)
+            out += (f'<div class="disc-fact"><span class="disc-fact-k">{esc(etiket)}</span>'
                     f'<span class="disc-fact-v">{esc(tr2en(v))}</span></div>')
     return f'<div class="disc-facts">{out}</div>\n      ' if out else ""
 
@@ -171,63 +175,75 @@ def guncelleme_en(gs):
     """Katalogdaki yapısal güncelleme katmanları · sayılar ve tarihler veriden, metin sabit."""
     if not gs:
         return ""
-    aylar = ["January", "February", "March", "April", "May", "June",
-             "July", "August", "September", "October", "November", "December"]
-
     def tarih(iso):
-        try:
-            y, a, g = iso.split("-")
-            return f"{aylar[int(a)-1]} {int(g)}, {y}"
-        except Exception:
-            return iso
+        return tarih_yaz(iso, D)
 
     li = []
     for g in reversed(gs[-4:]):
         p = []
         if g.get("onceki_yildiz") and g.get("yildiz"):
-            p.append(f"Stars {g['onceki_yildiz']:,} → {g['yildiz']:,}")
+            p.append(f"{D['yildiz']} {g['onceki_yildiz']:,} → {g['yildiz']:,}")
         elif g.get("yildiz"):
-            p.append(f"Stars {g['yildiz']:,}")
+            p.append(f"{D['yildiz']} {g['yildiz']:,}")
         if g.get("surum"):
             t = f" ({tarih(g['surum_tarihi'])})" if g.get("surum_tarihi") else ""
-            p.append(f"latest release {esc(g['surum'])}{t}")
+            p.append(f"{D['son_surum']} {esc(g['surum'])}{t}")
         if g.get("tasindi"):
-            p.append(f"repository moved, new address {esc(g['tasindi'])}")
+            p.append(f"{D['tasindi']} {esc(g['tasindi'])}")
         if g.get("arsiv"):
-            p.append("repository archived, development stopped")
+            p.append(D["arsiv"])
         if p:
             li.append(f"<li><strong>{tarih(g['tarih'])}:</strong> " + ", ".join(p) + ".</li>")
     if not li:
         return ""
-    return ('<section class="disc-sec disc-updates"><h2>Updates</h2><ul class="disc-update-list">'
+    return (f'<section class="disc-sec disc-updates"><h2>{D["guncellemeler"]}</h2><ul class="disc-update-list">'
             + "".join(li) + "</ul></section>\n      ")
 
 
 # ── sayfa kurulumu ────────────────────────────────────────────────────────────
 # Kayıt formu · BETİKTE tanımlı, sayfadan kopyalanmıyor.
-# Önce en_chrome() formu mevcut bir İngilizce keşif sayfasından çekiyordu · o
+# Önce en_chrome() formu mevcut bir {LANG} keşif sayfasından çekiyordu · o
 # sayfalarda hiç form olmadığı için boş dönüyordu ve 397 İngilizce keşif
 # sayfasında kaydolma yolu yoktu (2026-08-07). Kısır döngüyü kırmak için
 # kanonik hâli burada duruyor.
 CTA_FORM = (
-    '<form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" novalidate>'
+    f'<form class="cta-form disc-cta-form js-subscribe" data-source="discover-{LANG}" novalidate>'
     '<div class="form-row">'
-    '<input class="input" type="email" name="email" placeholder="Enter your email" '
+    f'<input class="input" type="email" name="email" placeholder="{D["form_yer_tutucu"]}" '
     'autocomplete="email" required>'
-    '<button class="btn btn-primary" type="submit">Join early access</button></div>'
+    f'<button class="btn btn-primary" type="submit">{D["form_dugme"]}</button></div>'
     '<label class="form-consent"><input type="checkbox" name="consent" required>'
-    '<span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> '
-    'and consent to my email being processed for this purpose.</span></label>'
+    f'<span>{D["form_onay"].format(gizlilik=D["gizlilik_yolu"])}</span></label>'
     '<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">'
     '</form>'
 )
 
 
 def en_chrome():
-    """Mevcut İngilizce sayfadan nav + footer al · guard'lar kanonik seti bekliyor."""
-    ornek = next((os.path.join(EN_DIR, d, "index.html") for d in sorted(os.listdir(EN_DIR))
-                  if os.path.isdir(os.path.join(EN_DIR, d))
-                  and os.path.exists(os.path.join(EN_DIR, d, "index.html"))), None)
+    """nav + footer · guard'lar kanonik seti bekliyor.
+
+    İngilizce: mevcut bir sayfadan kopyalanır · o dilin kanonik kaynağı
+    fix-all-headers-and-footers.js ve hattaki normalize adımı onu düzeltiyor.
+
+    Diğer diller: DAİMA diller.py tablosundan kurulur. Normalize edici o dilleri
+    atlıyor (üretici kanonik), dolayısıyla sayfadan kopyalasaydık bir kere bozulan
+    kabuk her gün kendini çoğaltırdı · kırık menü kalıcı olurdu. Tablodan kurunca
+    her günlük üretim aynı zamanda onarım oluyor.
+    """
+    ornek = None
+    if LANG == "en" and os.path.isdir(EN_DIR):
+        ornek = next((os.path.join(EN_DIR, d, "index.html") for d in sorted(os.listdir(EN_DIR))
+                      if os.path.isdir(os.path.join(EN_DIR, d))
+                      and os.path.exists(os.path.join(EN_DIR, d, "index.html"))), None)
+    if not ornek:
+        tr_ornek = next(os.path.join(TR_DIR, d, "index.html") for d in sorted(os.listdir(TR_DIR))
+                        if os.path.exists(os.path.join(TR_DIR, d, "index.html")))
+        tt = open(tr_ornek, encoding="utf-8").read()
+        logo = re.search(r"<svg[^>]*>.*?</svg>", tt, re.S).group(0)
+        nav, footer = chrome_kur(D, logo)
+        vercel = "".join(re.findall(r'<script[^>]*src="/_vercel[^>]*></script>', tt))
+        print(f"  · {LANG}: chrome diller.py tablosundan kuruldu")
+        return nav, footer, CTA_FORM, vercel
     t = open(ornek, encoding="utf-8").read()
     nav = re.search(r"<nav>.*?</nav>", t, re.S).group(0)
     footer = re.search(r"<footer>.*?</footer>", t, re.S).group(0)
@@ -235,8 +251,22 @@ def en_chrome():
     return nav, footer, CTA_FORM, vercel
 
 
+def dil_degistir(nav, slug):
+    """Nav'daki dil değiştirme bağlantısını SAYFAYA ÖZEL yap.
+
+    Chrome örnek bir sayfadan kopyalanıyor · o sayfanın TR bağlantısı da
+    kopyalanıyordu, yani bütün sayfalar aynı Türkçe sayfaya gidiyordu
+    (2026-08-07: 885 İngilizce sayfa /dictionary/action/'a işaret ediyordu).
+    Normalize edici bunu her gün düzeltiyordu, o yüzden fark edilmemişti ·
+    üretilen dillerde normalize edici çalışmadığı için kaynağında çözülmeli.
+    """
+    return re.sub(r'(<a href=")[^"]*(" class="btn btn-ghost" aria-label="[^"]*">TR</a>)',
+                  rf'\1/discover/{slug}/\2'.replace("{slug}", slug), nav)
+
+
 def build(slug, cat, chrome):
     nav, footer, form, vercel = chrome
+    nav = dil_degistir(nav, slug)
     tp = os.path.join(TR_DIR, slug, "index.html")
     if not os.path.exists(tp):
         return None
@@ -250,13 +280,13 @@ def build(slug, cat, chrome):
     url = blok(r'<ul class="disc-links"><li><a href="([^"]+)"', t)
     date = c.get("date", "")
     mom = metin(blok(r'<span class="disc-momentum">(.*?)</span>', t))
-    mom_en = sayi_en(mom).replace("bugün", "today")
+    mom_en = sayi_en(mom).replace("bugün", D["bugun"])
     metas = ""
     for li in re.findall(r"<li>(.*?)</li>", blok(r'<ul class="disc-meta">(.*?)</ul>', t), re.S):
         v = sayi_en(metin(li))
         metas += f"<li>{esc(v)}</li>"
     notu = metin(blok(r'<aside class="disc-note"><p><strong>TreScout notu:</strong>(.*?)</p></aside>', t))
-    not_html = (f'<aside class="disc-note"><p><strong>TreScout note:</strong> {esc(tr2en(notu))}</p></aside>\n      '
+    not_html = (f'<aside class="disc-note"><p><strong>{D["trescout_notu"]}</strong> {esc(tr2en(notu))}</p></aside>\n      '
                 if notu else "")
     shot = blok(r'(<figure class="disc-shot">.*?</figure>)', t)
     if shot:
@@ -265,7 +295,7 @@ def build(slug, cat, chrome):
             shot = shot.replace(f'alt="{alt.group(1)}"', f'alt="{esc(tr2en(html.unescape(alt.group(1))))}"')
         shot += "\n      "
 
-    canon_en = f"{BASE}/en/discover/{slug}/"
+    canon_en = f"{BASE}{D['onek']}/discover/{slug}/"
     canon_tr = f"{BASE}/discover/{slug}/"
     ogimg = f"{BASE}/assets/discover/og/{slug}.webp"
     tagline_en = c.get("tagline_en") or lead
@@ -278,20 +308,20 @@ def build(slug, cat, chrome):
         "about": {"@type": "SoftwareSourceCode", "name": title, "codeRepository": url},
     }, ensure_ascii=False, indent=2)
 
-    head = ('<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="UTF-8">\n'
+    head = (f'<!DOCTYPE html>\n<html lang="{D["html_lang"]}">\n<head>\n<meta charset="UTF-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
-            f'<title>{esc(title)} · Discover · TreScout</title>\n'
+            f'<title>{esc(title)} · {D["kesif"]} · TreScout</title>\n'
             f'<meta name="description" content="{esc(tagline_en)}">\n'
             '<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
-            f'<link rel="alternate" type="text/markdown" href="/en/discover/{slug}.md">\n'
+            f'<link rel="alternate" type="text/markdown" href="{D["onek"]}/discover/{slug}.md">\n'
             f'<link rel="canonical" href="{canon_en}">\n'
             f'<link rel="alternate" hreflang="tr" href="{canon_tr}">\n'
-            f'<link rel="alternate" hreflang="en" href="{canon_en}">\n'
+            f'<link rel="alternate" hreflang="{LANG}" href="{canon_en}">\n'
             f'<link rel="alternate" hreflang="x-default" href="{canon_en}">\n'
             f'<meta property="og:title" content="{esc(title)}">\n'
             f'<meta property="og:description" content="{esc(tagline_en)}">\n'
             f'<meta property="og:url" content="{canon_en}">\n<meta property="og:type" content="article">\n'
-            '<meta property="og:locale" content="en_US">\n'
+            f'<meta property="og:locale" content="{D["og_locale"]}">\n'
             f'<meta property="og:image" content="{ogimg}">\n'
             '<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n'
             '<meta name="twitter:card" content="summary_large_image">\n'
@@ -303,24 +333,22 @@ def build(slug, cat, chrome):
             '<link rel="stylesheet" href="/assets/site.css">\n'
             '<link rel="stylesheet" href="/assets/discover.css">\n</head>\n')
 
-    eyebrow = f"Discover · GitHub · {esc(title)}" if headline.strip().lower() != title.strip().lower() else "Discover · GitHub"
+    eyebrow = (f'{D["kesif"]} · GitHub · {esc(title)}' if headline.strip().lower() != title.strip().lower()
+               else f'{D["kesif"]} · GitHub')
     govde = ('<body>\n<a class="skip-link" href="#main">Skip to main content</a>\n' + nav +
              '\n<main id="main">\n<article class="disc">\n'
-             '<a class="disc-back" href="/en/discover/">← Discover</a>\n'
+             f'<a class="disc-back" href="{D["onek"]}/discover/">{D["kesif_geri"]}</a>\n'
              f'<div class="disc-top"><span class="disc-eyebrow">{eyebrow}</span>'
              + (f'<span class="disc-momentum">{esc(mom_en)}</span>' if mom_en else "") + '</div>\n'
              f'<h1 class="disc-title">{esc(headline)}</h1>\n<p class="disc-lead">{esc(lead)}</p>\n'
              f'<ul class="disc-meta">{metas}</ul>\n      '
              + not_html + guncelleme_en(c.get("guncellemeler")) + shot + bolumler(t) + olgular(t) +
-             '<section class="disc-sec"><h2>Links</h2><ul class="disc-links">'
-             f'<li><a href="{esc(url)}" target="_blank" rel="noopener">GitHub repository →</a></li>'
-             f'<li><a href="{canon_tr}">Read in Turkish →</a></li></ul></section>\n'
-             f'<p class="disc-disclaimer">TreScout did not build this tool · we found it in GitHub trends and wrote it up. '
-             f'This page describes the repository as of {date}: The star count and our text belong to that day, the repository '
-             f'may have changed since. Check the repository link for the current state.</p>\n'
-             '<aside class="disc-cta"><p><strong>TreScout catches tools like this every day.</strong> '
-             'GitHub, Hacker News and HuggingFace are scanned, the highlights are summarized for you.</p>'
-             + form + '<a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>\n'
+             f'<section class="disc-sec"><h2>{D["baglantilar"]}</h2><ul class="disc-links">'
+             f'<li><a href="{esc(url)}" target="_blank" rel="noopener">{D["depo"]}</a></li>'
+             f'<li><a href="{canon_tr}">{D["turkce_oku"]}</a></li></ul></section>\n'
+             f'<p class="disc-disclaimer">{D["sorumluluk"].format(date=date)}</p>\n'
+             f'<aside class="disc-cta"><p><strong>{D["cta_baslik"]}</strong> {D["cta_metin"]}</p>'
+             + form + f'<a class="btn btn-ghost disc-cta-all" href="{D["onek"]}/discover/">{D["kesif_tumu"]}</a></aside>\n'
              '</article>\n</main>\n' + footer + '\n<script src="/assets/discover.js" defer></script>\n'
              '<script src="/assets/subscribe.js" defer></script>\n' + vercel + '</body>\n</html>\n')
     return head + govde
@@ -347,7 +375,7 @@ def markdown(slug, h):
         if pm and "disc-cmd" not in govde:
             sat.append(metin(pm.group(1)))
         sat.append("")
-    sat += ["---", f"Source: TreScout Discover · {BASE}/en/discover/{slug}/"]
+    sat += ["---", D["md_kaynak_kesif"].format(url=f"{BASE}{D['onek']}/discover/{slug}/")]
     return "\n".join(sat) + "\n"
 
 
@@ -376,7 +404,7 @@ def main():
             print(f"  · {i}/{len(sluglar)} sayfa · önbellek {len(_cache)} kayıt")
     if not DRY:
         json.dump(_cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False, indent=1, sort_keys=True)
-    print(f"✅ {yazilan} İngilizce keşif sayfası · {_yeni} yeni çeviri · önbellek {len(_cache)} kayıt")
+    print(f"✅ {yazilan} {LANG} keşif sayfası · {_yeni} yeni çeviri · önbellek {len(_cache)} kayıt")
 
 
 main()

@@ -104,8 +104,16 @@ const richEnFooter = `<footer>
 let fixedHeaderCount = 0;
 let fixedFooterCount = 0;
 
+/* Üreticiden çıkan diller bu normalize edicinin KAPSAMI DIŞINDA.
+   Sebep: bu betik TR/EN ikilisine göre yazılmış · tanımadığı bir dil klasörünü
+   "Türkçe" sayıp menüyü Türkçeyle ezerdi. Fransızca sayfaların nav/footer'ı
+   scripts/diller.py'den geliyor ve her üretimde yeniden yazılıyor, dolayısıyla
+   sapma birikemiyor. Yeni dil eklerken bu listeye de ekleyin. */
+const URETILEN_DILLER = ['fr/'];
+
 allHtmls.forEach(relPath => {
   const normPath = relPath.replace(/\\/g, '/');
+  if (URETILEN_DILLER.some(o => normPath.startsWith(o))) return;
   const isEn = normPath.startsWith('en/');
   let content = fs.readFileSync(relPath, 'utf8');
 

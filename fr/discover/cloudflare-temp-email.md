@@ -1,0 +1,28 @@
+# E-mail temporaire gratuit sur Cloudflare
+
+Cet outil, qui permet de créer un service de messagerie temporaire gratuit à l'aide de l'infrastructure Cloudflare, prend en charge l'envoi et la réception d'e-mails. Le projet offre des fonctionnalités telles que la gestion des pièces jointes, les protocoles IMAP et SMTP et l'intégration du robot Telegram.
+
+- ★ 11 156
+- TypeScript
+- GitHub Trending · 2026-07-23
+
+## Mise à jour
+- 2 août 2026 : Star 10 884 → 11 156, dernière version v1.10.0 (31 juillet 2026).
+
+## Ce que ça vous apporte
+- Configuration sans frais avec l'infrastructure Cloudflare
+- Analyse rapide des e-mails basée sur Rust
+- Intégration du bot Telegram et de l’intelligence artificielle
+
+## Pour commencer
+- Source officielle →
+Pour installer, vous devez visiter la page de documentation officielle du projet. Vous pouvez suivre les étapes du [guide d'installation officiel](https://temp-mail-docs.awsl.uk) pour déployer rapidement à l'aide de l'infrastructure Cloudflare Workers et Pages.
+
+## Termes liés du glossaire
+
+## Liens
+- Dépôt GitHub →
+- Lire en turc →
+
+---
+Source : TreScout Découvrir · https://trescout.com/fr/discover/cloudflare-temp-email/

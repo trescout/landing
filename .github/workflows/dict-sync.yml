@@ -97,10 +97,30 @@ jobs:
       - name: İngilizce tanıtım metinleri (tagline_en · kisa_en)
         run: node scripts/translate-i18n.js
 
+      # Fransızca · 2026-08-07'de eklendi. Aynı betikler --lang ile çalışıyor,
+      # metinler scripts/diller.py'den geliyor. Yeni dil eklemenin tüm adımları
+      # diller.py'nin başlığında yazılı.
+      - name: Fransızca tanıtım metinleri (tagline_fr · kisa_fr)
+        run: node scripts/translate-i18n.js fr
+
       - name: İngilizce sayfaları üret (keşif + sözlük)
         run: |
           python3 scripts/discover-en.py
           python3 scripts/dictionary-en.py
+
+      - name: Fransızca sayfaları üret (keşif + sözlük)
+        run: |
+          python3 scripts/discover-en.py --lang=fr
+          python3 scripts/dictionary-en.py --lang=fr
+
+      # Dizin sayfaları · kart ızgarası + arama/sıralama. Detay sayfalarından
+      # SONRA çalışmalı: kabuğu (nav/footer) o dilin üretilmiş bir sayfasından
+      # kopyalıyor.
+      - name: Dil dizin sayfaları (EN + FR)
+        run: |
+          node scripts/build-en.js
+          node scripts/build-en.js --lang=fr
+          python3 scripts/dil-anasayfa.py --lang=fr
 
       - name: AI'a hizmet · keşif index server-render + .md + llms.txt
         run: |
@@ -135,6 +155,11 @@ jobs:
         run: python3 scripts/check-headline-consistency.py
       - name: Marka tipografi kontrolü (🚀 · em dash)
         run: python3 scripts/check-brand-typography.py
+
+      # Aydınlatma/rıza · her kayıt formu SAYFANIN DİLİNDEKİ metne bağlanmalı.
+      # 2026-08-06'da İngilizce sayfadan aydınlatma yapılmadan kayıt alındı.
+      - name: Aydınlatma ve rıza kontrolü
+        run: python3 scripts/check-consent-consistency.py
 
       # Tazeleme yardımcı bir adım · GitHub API aksarsa asıl işi (içerik büyümesi
       # + commit) düşürmesin. 2026-08-02'de REST hız sınırı 403 döndü ve dört

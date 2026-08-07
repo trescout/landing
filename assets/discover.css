@@ -371,3 +371,14 @@
   .disc-copy { min-height: 40px; padding: 8px 16px; }
   .disc-chip { min-height: 40px; padding: 9px 16px; }
 }
+
+/* ── Dil ana sayfası (/fr/ gibi) · Türkçe ana sayfası çevrilmemiş diller için
+   küçük giriş sayfası. Yalnız iki kart olduğu için auto-fill ızgarası kartları
+   ekran boyunca gereksiz genişletiyordu · burada 2 sütunda tutuluyor. */
+.lang-home-h2 { margin: 48px 0 0; font-size: 22px; letter-spacing: -.01em; }
+.lang-home-grid { grid-template-columns: repeat(auto-fit, minmax(260px, 380px)); justify-content: start; }
+.lang-home-card .disc-card-body { padding: 22px; }
+.lang-home-note {
+  margin: 28px 0 8px; font-size: 13px; line-height: 1.6;
+  color: var(--ink-muted); max-width: 60ch;
+}

@@ -16,7 +16,7 @@ Introduction to artificial intelligence engineering from scratch: 485 lessons, 2
 - Each lesson leaves a reusable output: a prompt, an ability, or an agent.
 - When you use PyTorch, you already know what's going on behind the scenes.
 
-## How does it work?
+## How it works
 Each lesson follows the same cycle: analyze the problem, do the math, write the code, run the test, and store the output. There are no five-minute videos or copy-paste deployment processes. Everything runs on your own computer.
 
 ## Related dictionary terms
