@@ -50,6 +50,38 @@ const DISPOSABLE_DOMAINS = new Set([
   'mailcatch.com', 'spamgourmet.com', 'dispostable.com',
 ]);
 
+/**
+ * Kullanıcıya dönen hata metinleri · sayfanın dili neyse o.
+ * İstemci `lang` gönderiyor (document.documentElement.lang). Gönderilmezse
+ * Türkçe · site Türkçe doğdu, varsayılan o.
+ */
+const MESAJ = {
+  tr: {
+    method: 'Method not allowed',
+    istek: 'İstek geçersiz',
+    limit: 'Çok fazla deneme · birkaç dakika sonra tekrar deneyin',
+    format: 'Geçersiz istek formatı',
+    onay: 'Aydınlatma Metni onayı gerekli',
+    eposta: 'Geçerli bir e-posta adresi girin',
+    gecici: 'Lütfen kalıcı bir e-posta adresi kullanın',
+    sunucu: 'Sunucu konfigürasyonu eksik',
+    kayit: 'Kayıt yapılamadı, lütfen tekrar deneyin',
+    baglanti: 'Bağlantı hatası, lütfen tekrar deneyin',
+  },
+  en: {
+    method: 'Method not allowed',
+    istek: 'Invalid request',
+    limit: 'Too many attempts · try again in a few minutes',
+    format: 'Invalid request format',
+    onay: 'Please accept the privacy notice to continue',
+    eposta: 'Enter a valid email address',
+    gecici: 'Please use a permanent email address',
+    sunucu: 'Server configuration is missing',
+    kayit: 'Could not sign you up, please try again',
+    baglanti: 'Connection error, please try again',
+  },
+};
+
 function jsonResponse(body, status = 200) {
   return new Response(JSON.stringify(body), {
     status,
@@ -120,30 +152,46 @@ function clientIp(req) {
   return req.headers.get('x-real-ip') || '';
 }
 
+/**
+ * Sayfanın dili · Referer yolundan okunur (/en/... → İngilizce).
+ * Gövde daha ayrıştırılmadan da hata dönebiliyoruz (yöntem, origin, hız sınırı) ·
+ * bu yüzden dili başlıktan alıyoruz, gövdedeki `lang` alanına bağlamıyoruz.
+ */
+function dilSec(req) {
+  const ref = req.headers.get('referer') || '';
+  try {
+    return new URL(ref).pathname.startsWith('/en/') ? 'en' : 'tr';
+  } catch {
+    return 'tr';
+  }
+}
+
 export default async function handler(req) {
+  const M = MESAJ[dilSec(req)];
+
   if (req.method !== 'POST') {
-    return jsonResponse({ error: 'Method not allowed' }, 405);
+    return jsonResponse({ error: M.method }, 405);
   }
 
   // CSRF · origin check
   const origin = req.headers.get('origin');
   if (!isOriginAllowed(origin)) {
     console.warn('Blocked origin:', origin);
-    return jsonResponse({ error: 'İstek geçersiz' }, 403);
+    return jsonResponse({ error: M.istek }, 403);
   }
 
   // Rate limit · pahalı Resend çağrılarından önce
   const ip = clientIp(req);
   if (isRateLimited(ip, Date.now())) {
     console.warn('Rate limited:', ip);
-    return jsonResponse({ error: 'Çok fazla deneme · birkaç dakika sonra tekrar deneyin' }, 429);
+    return jsonResponse({ error: M.limit }, 429);
   }
 
   let body;
   try {
     body = await req.json();
   } catch {
-    return jsonResponse({ error: 'Geçersiz istek formatı' }, 400);
+    return jsonResponse({ error: M.format }, 400);
   }
 
   // Honeypot · bot filtresi · görünmez input, dolu gelirse bot
@@ -162,11 +210,11 @@ export default async function handler(req) {
   const consent = body.consent === true || body.consent === 'true';
 
   if (!consent) {
-    return jsonResponse({ error: 'Aydınlatma Metni onayı gerekli' }, 400);
+    return jsonResponse({ error: M.onay }, 400);
   }
 
   if (!email || email.length > MAX_EMAIL_LENGTH || !EMAIL_REGEX.test(email)) {
-    return jsonResponse({ error: 'Geçerli bir e-posta adresi girin' }, 400);
+    return jsonResponse({ error: M.eposta }, 400);
   }
 
   // Disposable email check
@@ -183,7 +231,7 @@ export default async function handler(req) {
 
   if (!apiKey || !audienceId) {
     console.error('Missing env vars: RESEND_API_KEY or RESEND_AUDIENCE_ID');
-    return jsonResponse({ error: 'Sunucu konfigürasyonu eksik' }, 500);
+    return jsonResponse({ error: M.sunucu }, 500);
   }
 
   try {
@@ -204,7 +252,7 @@ export default async function handler(req) {
       // 409 = contact zaten var · sorun değil, devam et
       const errText = await audienceRes.text();
       console.error('Resend audience add failed:', audienceRes.status, errText);
-      return jsonResponse({ error: 'Kayıt yapılamadı, lütfen tekrar deneyin' }, 502);
+      return jsonResponse({ error: M.kayit }, 502);
     }
 
     // 2. hello@'a bildirim e-postası
@@ -248,6 +296,6 @@ export default async function handler(req) {
     return jsonResponse({ ok: true, duplicate: isDuplicate });
   } catch (err) {
     console.error('Subscribe error:', err);
-    return jsonResponse({ error: 'Bağlantı hatası, lütfen tekrar deneyin' }, 502);
+    return jsonResponse({ error: M.baglanti }, 502);
   }
 }
