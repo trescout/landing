@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-17",
+  "editorial": "Dans l'agenda technologique actuel, les outils de développement logiciel et les bibliothèques d'automatisation se démarquent. Les données GitHub montrent que l'intérêt pour les compilateurs rapides et les projets d'automatisation des navigateurs a considérablement augmenté.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "summary": "freeCodeCamp est une plateforme open source qui propose un programme éducatif gratuit en mathématiques, programmation et informatique. Développé avec le langage TypeScript, le projet fournit un environnement d'apprentissage interactif permettant aux utilisateurs d'améliorer leurs compétences logicielles.",
+          "meta": "TypeScript · ★ 448 854 · +633 aujourd'hui"
+        },
+        {
+          "title": "swc-project/swc",
+          "url": "https://github.com/swc-project/swc",
+          "summary": "SWC, un compilateur Web rapide développé avec le langage Rust, offre des performances élevées dans la conversion et le packaging de fichiers JavaScript et TypeScript. Le projet fournit une infrastructure alternative aux outils traditionnels pour accélérer la chaîne d'outils de développement Web.",
+          "meta": "Rust · ★ 34 020 · +20 aujourd'hui"
+        },
+        {
+          "title": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "summary": "Teslamate est une application d'enregistrement de données open source qui stocke les données des véhicules Tesla sur des serveurs locaux. Cet outil, développé avec le langage Elixir, permet aux utilisateurs de suivre en détail les statistiques de conduite et de recharge via leur propre infrastructure.",
+          "meta": "Elixir · ★ 8 469 · +215 aujourd'hui"
+        },
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "Le projet iptv-org, qui rassemble les chaînes de télévision publiques du monde entier dans un seul centre, propose une liste complète permettant d'accéder aux émissions de télévision sur protocole Internet (IPTV). Grâce à cet ensemble de données, les développeurs peuvent développer des applications de visionnage de télévision pour différentes plates-formes.",
+          "meta": "TypeScript · ★ 124 577 · +1 197 aujourd'hui"
+        },
+        {
+          "title": "puppeteer/puppeteer",
+          "url": "https://github.com/puppeteer/puppeteer",
+          "summary": "Puppeteer propose une interface d'automatisation de navigateur (API) utilisée pour contrôler les navigateurs Chrome et Firefox. Cette bibliothèque, développée avec TypeScript, permet de tester des pages Web et de gérer les processus de scraping de données.",
+          "meta": "TypeScript · ★ 94 987 · +56 aujourd'hui"
+        },
+        {
+          "title": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "summary": "Meshery est un gestionnaire de maillage de services conçu pour la gestion des infrastructures cloud natives. La plateforme standardise la configuration, le déploiement et l'analyse des performances des différents réseaux de services via une interface unique.",
+          "meta": "TypeScript · ★ 10 920 · +228 aujourd'hui"
+        },
+        {
+          "title": "cypress-io/cypress",
+          "url": "https://github.com/cypress-io/cypress",
+          "summary": "Cypress est un outil d'automatisation qui offre des processus de test de bout en bout rapides et fiables pour toutes les applications exécutées sur le navigateur. Cette plateforme, développée avec TypeScript, est largement privilégiée pour vérifier la fonctionnalité des interfaces web.",
+          "meta": "TypeScript · ★ 50 288 · +13 aujourd'hui"
+        },
+        {
+          "title": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "summary": "Music Assistant est un gestionnaire de bibliothèque multimédia open source qui combine différents services de musique numérique et appareils audio dans un seul hub. Cette application serveur basée sur Python permet la création d'un système central de gestion audio sur des appareils fonctionnant en continu.",
+          "meta": "Python · ★ 2 635 · +157 aujourd'hui"
+        },
+        {
+          "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "summary": "Universal Android Debloater Next Generation est une interface graphique multiplateforme développée dans Rust pour supprimer les applications inutiles sur les appareils Android qui ne nécessitent pas d'accès root. L'outil vise à améliorer les performances de confidentialité, de sécurité et de durée de vie de la batterie de l'appareil à l'aide d'Android Debug Bridge (ADB).",
+          "meta": "Rust · ★ 7 487 · +146 aujourd'hui"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM2 propose un modèle de synthèse vocale sans tokenizer pour la production vocale multilingue, une conception sonore créative et un clonage vocal réaliste. Cette approche fournit des processus de synthèse sonore plus naturels et flexibles en traitant directement les données sonores, contrairement aux méthodes traditionnelles.",
+          "meta": "Python · ★ 30 314 · +408 aujourd'hui"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Développée par Alibaba, zvec est une solution de base de données vectorielles en cours de processus légère et rapide écrite en C++. Il vise à améliorer les performances du système en permettant aux applications de traiter les données vectorielles directement en mémoire.",
+          "meta": "C++ · ★ 10 691 · +156 aujourd'hui"
+        },
+        {
+          "title": "rmyndharis/OpenWA",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "summary": "OpenWA propose une solution de passerelle API gratuite et open source pour le protocole de messagerie WhatsApp. Cet outil, développé avec le langage TypeScript, permet aux utilisateurs de gérer les intégrations WhatsApp sur leurs propres serveurs (auto-hébergés).",
+          "meta": "TypeScript · ★ 9 223 · +185 aujourd'hui"
+        },
+        {
+          "title": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "summary": "Iroh est une pile réseau modulaire qui rend les connexions réseau plus flexibles en utilisant un adressage basé sur des clés au lieu d'adresses IP. Développé avec le langage Rust, cet outil fournit une infrastructure résistante aux interruptions du réseau et permet un transfert direct de données.",
+          "meta": "Rust · ★ 9 418 · +334 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Running local models is good now",
+          "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+          "summary": "L'exécution de modèles de langage volumineux natifs sur des ordinateurs personnels est devenue accessible à mesure que l'efficacité du matériel augmente et que les outils logiciels deviennent plus faciles. Les utilisateurs peuvent exécuter des modèles d'intelligence artificielle (modèles locaux) sur leurs propres systèmes, préservant ainsi la confidentialité des données sans dépendre des services basés sur le cloud.",
+          "meta": "1 293 votes · 499 commentaires"
+        },
+        {
+          "title": "SpaceX to buy Cursor for $60B",
+          "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+          "summary": "SpaceX rachète Anysphere, le développeur de l'éditeur de code d'IA Cursor, pour 60 milliards de dollars. Avec cette décision, l'entreprise vise à intégrer des technologies d'intelligence artificielle générative (IA générative) qui automatisent les processus de développement de logiciels dans ses propres opérations.",
+          "meta": "1 013 votes · 1 511 commentaires"
+        },
+        {
+          "title": "GrapheneOS has been ported to Android 17",
+          "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+          "summary": "GrapheneOS a été porté sur Android 17 et des versions officielles devraient être publiées prochainement. Le système d'exploitation axé sur la confidentialité se prépare à prendre en charge de nouvelles fonctionnalités de sécurité avec la version actuelle d'Android.",
+          "meta": "736 votes · 337 commentaires"
+        },
+        {
+          "title": "Mechanical Watch (2022)",
+          "url": "https://ciechanow.ski/mechanical-watch/",
+          "summary": "L'article interactif préparé par Bartosz Ciechanowski visualise les principes de fonctionnement des montres mécaniques à travers les rouages, les ressorts moteurs et les mécanismes d'échappement. L'étude explique étape par étape le fonctionnement physique de systèmes de chronométrage complexes et soutient les détails techniques avec des simulations numériques.",
+          "meta": "692 votes · 116 commentaires"
+        },
+        {
+          "title": "Calvin and Hobbes and the price of integrity",
+          "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+          "summary": "Bill Watterson a choisi de protéger son intégrité créative en refusant les droits commerciaux sur la bande dessinée Calvin et Hobbes. Cette approche remet en question le contrôle des artistes sur leurs œuvres et l’équilibre entre réussite commerciale et indépendance artistique.",
+          "meta": "410 votes · 177 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Le modèle Gemma-4-12B-coder offre des capacités de génération de texte optimisées pour les tâches de codage. Grâce au format GGUF, le modèle peut être exécuté sur des appareils locaux nécessitant peu de matériel.",
+          "meta": "♥ 1 285 · 60 921 téléchargements"
+        },
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, publié par Google, est un modèle multimodal qui produit des sorties textuelles en traitant les entrées de texte et d'image. Le modèle offre la possibilité de répondre aux requêtes des utilisateurs en analysant les informations obtenues à partir des images.",
+          "meta": "♥ 958 · 375 974 téléchargements"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3 est un modèle multimodal capable de traiter simultanément des données textuelles et visuelles. Le système offre la possibilité de produire des sorties basées sur du texte en combinant des entrées d'image et de texte.",
+          "meta": "♥ 1 037 · 25 064 téléchargements"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Kimi-K2.7-Code, développé par Moonshot AI, est un modèle multimodal qui produit une sortie de texte en traitant les entrées visuelles et textuelles. Axé sur les processus de développement logiciel, ce modèle offre la possibilité d'analyser des données visuelles en les combinant avec du texte dans des tâches basées sur du code.",
+          "meta": "♥ 818 · 102 206 téléchargements"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, publié par Zai-org, est un modèle de langage optimisé pour les tâches de génération de texte. Ce modèle, disponible sur la plateforme HuggingFace, est conçu pour être utilisé dans des processus approfondis de création de texte.",
+          "meta": "♥ 725 · 0 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "web compiler",
+      "explanation": "Un outil qui rend les codes écrits exécutables directement via le navigateur Internet sans avoir à les télécharger sur l'ordinateur."
+    },
+    {
+      "term": "data logger",
+      "explanation": "Un appareil électronique qui enregistre et stocke les informations des capteurs avec un horodatage."
+    },
+    {
+      "term": "IPTV",
+      "explanation": "Un système qui permet de regarder des émissions de télévision via une connexion Internet au lieu d'une antenne ou d'un satellite traditionnel."
+    },
+    {
+      "term": "streaming applications",
+      "explanation": "Applications qui permettent de regarder ou d'écouter des fichiers vidéo ou audio instantanément sur Internet, sans attendre leur téléchargement."
+    },
+    {
+      "term": "API",
+      "explanation": "Un pont qui permet à deux logiciels différents de se parler et d'échanger des données."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Le processus de collecte et d’enregistrement automatique de données sur des sites Web via un logiciel."
+    },
+    {
+      "term": "cloud native",
+      "explanation": "Architecture logicielle moderne conçue dès le départ pour fonctionner sur des serveurs sur Internet."
+    },
+    {
+      "term": "service mesh manager",
+      "explanation": "Un outil de contrôle qui organise et gère la manière dont les différentes parties de systèmes logiciels complexes communiquent entre elles."
+    },
+    {
+      "term": "end-to-end testing",
+      "explanation": "Vérifier si toutes les fonctionnalités d'un logiciel du début à la fin fonctionnent sans erreurs en agissant comme un véritable utilisateur."
+    },
+    {
+      "term": "root",
+      "explanation": "Compte administratif de plus haut niveau disposant de l'autorité totale sur le système d'exploitation d'un appareil."
+    },
+    {
+      "term": "ADB",
+      "explanation": "Un outil de connexion qui permet la gestion des logiciels en envoyant des commandes aux appareils Android via l'ordinateur."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Technologie qui imite la voix d'une personne grâce à l'intelligence artificielle et peut créer de nouvelles phrases avec le ton de voix de cette personne."
+    },
+    {
+      "term": "tokenizer-free",
+      "explanation": "La méthode de l'intelligence artificielle pour traiter des textes directement à travers des caractères ou des données brutes, sans les diviser en petits morceaux."
+    },
+    {
+      "term": "text-to-speech",
+      "explanation": "Technologie qui permet d'exprimer des textes écrits avec une voix humaine à l'aide d'un ordinateur ou d'une intelligence artificielle."
+    },
+    {
+      "term": "in-process vector database",
+      "explanation": "Un système qui stocke rapidement les données complexes nécessaires à l'intelligence artificielle directement au sein de l'application elle-même, sans avoir besoin d'un serveur séparé."
+    },
+    {
+      "term": "API gateway",
+      "explanation": "La passerelle centrale qui gère toutes les demandes externes et les dirige vers les unités logicielles concernées."
+    }
+  ]
+}

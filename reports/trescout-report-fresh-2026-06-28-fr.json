@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-28",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "summary": "PPT-Master est un outil basé sur l'IA qui convertit les documents directement en fichiers de présentation modifiables (PPTX). Le système traduit le texte en présentations personnalisables avec des figures natives, des animations et des notes audio du présentateur.",
+          "meta": "Python · ★ 33 348 · +589 aujourd'hui"
+        },
+        {
+          "title": "Anil-matcha/Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "summary": "Open-Generative-AI est une plateforme de studio open source sans filtrage de contenu et avec plus de 200 modèles de création visuelle et vidéo. Les utilisateurs peuvent gérer librement leurs processus de production visuelle en exécutant ce logiciel, proposé sous licence MIT, sur leurs propres serveurs (auto-hébergés).",
+          "meta": "JavaScript · ★ 21 507 · +255 aujourd'hui"
+        },
+        {
+          "title": "dbt-labs/dbt-core",
+          "url": "https://github.com/dbt-labs/dbt-core",
+          "summary": "L'outil de transformation des données (dbt-core) permet aux analystes de données et aux ingénieurs d'effectuer la transformation des données en utilisant des méthodes similaires aux processus de développement logiciel. Il standardise les flux de travail analytiques en intégrant les processus de contrôle de version et de test dans les entrepôts de données.",
+          "meta": "Rust · ★ 13 271 · +18 aujourd'hui"
+        },
+        {
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "summary": "OpenCode est un agent de codage open source conçu pour automatiser les processus de développement de logiciels. Développé avec le langage TypeScript, cet outil offre des capacités d'exécution de tâches autonomes dans les projets logiciels.",
+          "meta": "TypeScript · ★ 179 948 · +392 aujourd'hui"
+        },
+        {
+          "title": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "summary": "OpenSpec est une bibliothèque TypeScript qui prend en charge les processus de développement basés sur les spécifications pour les assistants de code d'intelligence artificielle. Il garantit la standardisation des exigences techniques lors des étapes de développement logiciel et une progression plus contrôlée des processus de production de code.",
+          "meta": "TypeScript · ★ 57 272 · +177 aujourd'hui"
+        },
+        {
+          "title": "keycloak/keycloak",
+          "url": "https://github.com/keycloak/keycloak",
+          "summary": "Keycloak propose des solutions open source de gestion des identités et des accès pour les applications et services modernes. Cette plate-forme basée sur Java est utilisée pour normaliser les processus centralisés d'authentification et d'autorisation.",
+          "meta": "Java · ★ 35 354 · +20 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+          "url": "https://github.com/bikini/exploitarium",
+          "summary": "Un compte GitHub anonyme nommé Bikini partage publiquement des codes d'exploitation préparés pour des vulnérabilités de sécurité non signalées auparavant (zéro jour). Le référentiel en question contient des documents techniques et des outils d'attaque ciblant les vulnérabilités critiques de divers logiciels.",
+          "meta": "780 votes · 303 commentaires"
+        },
+        {
+          "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "summary": "Développé par DeepSeek, DSpark augmente la vitesse d'inférence des grands modèles de langage grâce à la méthode de décodage spéculatif. Cette approche augmente l'efficacité des calculs en validant les prédictions d'un petit modèle avec un grand modèle.",
+          "meta": "754 votes · 315 commentaires"
+        },
+        {
+          "title": "OpenRA",
+          "url": "https://www.openra.net/",
+          "summary": "OpenRA est un moteur de jeu open source développé pour exécuter des jeux de stratégie en temps réel classiques sur des systèmes d'exploitation modernes. Le projet préserve les mécanismes de jeu originaux et propose des mises à jour telles que la prise en charge d'écran haute résolution et une infrastructure multijoueur.",
+          "meta": "665 votes · 131 commentaires"
+        },
+        {
+          "title": "Fintech Engineering Handbook",
+          "url": "https://w.pitula.me/fintech-engineering-handbook/",
+          "summary": "Fintech Engineering Handbook répond aux exigences d’évolutivité, de sécurité et de conformité des systèmes de technologie financière dans un cadre technique. Il résume les principes de base du traitement des données financières et de la structuration de l'architecture du système dans les processus de développement logiciel.",
+          "meta": "541 votes · 170 commentaires"
+        },
+        {
+          "title": "The case for physical media ownership",
+          "url": "https://dervis.de/physical/",
+          "summary": "Contrairement aux modèles d’abonnement sur les plateformes de contenu numérique, la propriété des médias physiques offre une alternative à la restriction des droits d’accès aux actifs numériques. Les utilisateurs se tournent vers les formats physiques pour protéger leurs droits d’accès permanents et de propriété contre le risque de suppression de contenus des plateformes.",
+          "meta": "423 votes · 269 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M est un modèle de langage open source axé sur la génération de texte. Il vise à augmenter les performances dans les processus de création de contenu complexes avec une large prise en charge de fenêtres contextuelles.",
+          "meta": "♥ 500 · 30 298 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "PPTX",
+      "explanation": "Format numérique standard des fichiers utilisés pour préparer les présentations."
+    }
+  ]
+}

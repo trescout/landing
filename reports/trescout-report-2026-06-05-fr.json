@@ -1,0 +1,166 @@
+{
+  "date": "2026-06-05",
+  "editorial": "Les sujets majeurs d'aujourd'hui se concentrent sur les agents autonomes et les systèmes de reconnaissance visuelle. Les architectures d'agents publiées par NousResearch et les modèles de vision de NVIDIA sont particulièrement au centre des préoccupations des développeurs.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom réduit l'utilisation des jetons jusqu'à 95 % en compressant les fichiers journaux, les données et les morceaux d'informations contextuelles (morceaux RAG) envoyés aux grands modèles de langage (LLM). Cet outil basé sur Python vise à réduire les coûts de transaction tout en maintenant la qualité de réponse du modèle grâce à la prise en charge des bibliothèques et des proxys.",
+          "meta": "Python · ★ 13 394 · +3 142 aujourd'hui"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Développé par NousResearch, Hermes Agent est un agent d'intelligence artificielle autonome qui s'améliore au fil du temps en apprenant grâce aux interactions des utilisateurs. Ce système basé sur Python vise à s'adapter aux besoins des utilisateurs avec une gestion personnalisée des tâches et des capacités d'apprentissage continu.",
+          "meta": "Python · ★ 181 576 · +1 913 aujourd'hui"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC propose un système qui optimise les compétences, les instincts et les couches de mémoire pour les outils de codage d'intelligence artificielle tels que Claude Code et Cursor. Il fournit une infrastructure qui vise à augmenter les performances des agents et les normes de sécurité dans les processus de développement de logiciels.",
+          "meta": "JavaScript · ★ 207 674 · +1 750 aujourd'hui"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "summary": "Développé par PaddlePaddle, PaddleOCR est un outil léger de reconnaissance optique de caractères qui convertit les documents PDF et visuels en données structurées pour de grands modèles de langage. Cette bibliothèque, qui prend en charge plus de 100 langues, standardise le flux de données entre le contenu visuel et les modèles d'intelligence artificielle.",
+          "meta": "Python · ★ 80 160 · +141 aujourd'hui"
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "Publié par GitHub, spec-kit offre les outils nécessaires pour démarrer des processus de développement basés sur les spécifications. Cette bibliothèque basée sur Python facilite l'intégration des spécifications techniques définies lors de la phase de développement logiciel dans les processus de code.",
+          "meta": "Python · ★ 108 801 · +321 aujourd'hui"
+        },
+        {
+          "title": "NVIDIA/cosmos",
+          "url": "https://github.com/NVIDIA/cosmos",
+          "summary": "Développée par NVIDIA, Cosmos est une plateforme ouverte qui fournit des modèles mondiaux, des ensembles de données et des outils pour les systèmes physiques tels que les robots et les véhicules autonomes. Il fournit une infrastructure qui permet aux développeurs de créer plus facilement des applications physiques d'IA.",
+          "meta": "Jupyter Notebook · ★ 9 173 · +133 aujourd'hui"
+        },
+        {
+          "title": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "summary": "Open-notebook offre une alternative open source à Google NotebookLM, permettant aux utilisateurs d'effectuer une analyse de notes personnalisable basée sur l'IA sur leurs propres données. Développé avec TypeScript, ce projet offre une plus grande flexibilité et un ensemble de fonctionnalités étendu par rapport à la plate-forme d'origine.",
+          "meta": "TypeScript · ★ 25 373 · +212 aujourd'hui"
+        },
+        {
+          "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "summary": "Open-LLM-VTuber combine l'interaction vocale et les animations de personnages Live2D avec de grands modèles de langage exécutés de manière native. Le système permet aux utilisateurs de parler à des personnages virtuels selon un flux naturel qui permet des interruptions vocales.",
+          "meta": "Python · ★ 9 800 · +581 aujourd'hui"
+        },
+        {
+          "title": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "summary": "Ce plan d'études préparé pour les candidats ingénieurs logiciels propose un programme de formation complet qui comprend les matières de base de l'informatique. Il sert de feuille de route aux développeurs qui souhaitent structurer le processus de préparation aux entretiens techniques.",
+          "meta": "★ 349 959 · +632 aujourd'hui"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub Copilot SDK propose un kit de développement logiciel (SDK) multiplateforme qui permet aux développeurs d'intégrer les agents GitHub Copilot AI dans leurs applications et services. Cet outil, préparé en langage Java, permet la création de workflows d'intelligence artificielle personnalisés avec une structure standard sur différentes plateformes.",
+          "meta": "Java · ★ 9 070 · +38 aujourd'hui"
+        },
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "summary": "Trivy est un outil de sécurité complet qui effectue une analyse des vulnérabilités, une vérification des erreurs de configuration et une génération de listes de composants logiciels (SBOM) sur les conteneurs, les clusters Kubernetes et les infrastructures cloud. Cette solution open source, développée avec le langage Go, permet de détecter les risques de sécurité dans un large éventail de domaines, des référentiels de code aux environnements cloud.",
+          "meta": "Go · ★ 35 731 · +255 aujourd'hui"
+        },
+        {
+          "title": "openclaw/openclaw-windows-node",
+          "url": "https://github.com/openclaw/openclaw-windows-node",
+          "summary": "OpenClaw propose une suite de gestion intégrée sur le système d'exploitation Windows via le nœud Windows, l'application de la barre d'état système, la bibliothèque partagée et l'extension de palette de commandes PowerToys. Développé en langage C#, cet outil vise à standardiser l’accès aux ressources système et aux workflows des utilisateurs.",
+          "meta": "C# · ★ 1 432 · +411 aujourd'hui"
+        },
+        {
+          "title": "reconurge/flowsint",
+          "url": "https://github.com/reconurge/flowsint",
+          "summary": "Flowsint propose une plateforme d'analyse graphique visuelle, flexible et extensible pour les analystes et les chercheurs en cybersécurité. Développé avec TypeScript, cet outil vise à standardiser les processus de sécurité en visualisant des ensembles de données complexes.",
+          "meta": "TypeScript · ★ 5 422 · +308 aujourd'hui"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill propose une compétence d'intelligence artificielle (compétence d'agent IA) qui synthétise les données actuelles en recherchant sur des plateformes telles que Reddit, X, YouTube, Hacker News et Polymarket. Cet outil basé sur Python combine des informations provenant de différentes sources pour créer des résumés vérifiables pour les utilisateurs.",
+          "meta": "Python · ★ 27 863 · +199 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "VoidZero Is Joining Cloudflare",
+          "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+          "summary": "Le développeur de chaîne d'outils JavaScript VoidZero a rejoint Cloudflare. Avec cette fusion, les efforts visant à améliorer les performances d'outils populaires tels que Vite, Vitest et Rolldup se poursuivront dans l'infrastructure Cloudflare.",
+          "meta": "629 votes · 272 commentaires"
+        },
+        {
+          "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+          "summary": "S&P Dow Jones Indices a décidé de ne pas modifier les règles qui permettent l'entrée rapide d'introductions en bourse (IPO) à grande échelle dans les indices. Ce règlement maintient l'exigence selon laquelle les sociétés à forte capitalisation boursière, comme SpaceX, doivent être négociées sur le marché pendant une certaine période avant d'être incluses dans les indices.",
+          "meta": "500 votes · 243 commentaires"
+        },
+        {
+          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+          "summary": "L'auto-amélioration récursive, définie comme des modèles d'intelligence artificielle écrivant et optimisant leurs propres codes, vise à augmenter les performances des systèmes sans intervention humaine. Ce processus se concentre sur la détermination des normes techniques et de sécurité requises pour que l’intelligence artificielle améliore sa propre architecture et crée des modèles plus performants.",
+          "meta": "441 votes · 585 commentaires"
+        },
+        {
+          "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+          "url": "https://github.com/anthropics/defending-code-reference-harness",
+          "summary": "Anthropic a publié un framework open source pour améliorer les processus de détection de vulnérabilités basés sur l'intelligence artificielle. Cet outil fournit aux développeurs un environnement de test standard pour identifier les points faibles du code logiciel.",
+          "meta": "398 votes · 114 commentaires"
+        },
+        {
+          "title": "Retro-Tech Parenting",
+          "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+          "summary": "Les parents se tournent vers les appareils rétro-technologiques pour limiter l'exposition de leurs enfants aux écrans numériques. Il vise à protéger les capacités de concentration des enfants en utilisant des téléphones à fonctions simples (téléphones multifonctions) et des outils numériques sans connexion Internet au lieu de smartphones.",
+          "meta": "287 votes · 197 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Développé par NVIDIA, LocateAnything-3D est un modèle image-texte-texte qui produit des sorties de positionnement d'objets en traitant les entrées visuelles et textuelles. Ce modèle est conçu pour identifier des objets dans des données visuelles et les relier à des données basées sur des coordonnées.",
+          "meta": "♥ 1 317 · 101 823 téléchargements"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Développé par Google, Gemma 2 12B offre une structure de modèle multimodale (any-to-any) qui peut convertir entre différents types de données. Ce modèle présente des performances flexibles dans diverses tâches en traitant du texte et des données visuelles.",
+          "meta": "♥ 468 · 142 851 téléchargements"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "summary": "Développé par LiquidAI, LFM2.5-8B-A1B est un modèle d'intelligence artificielle axé sur la génération de texte. Contrairement aux architectures traditionnelles, le modèle utilise une structure de réseaux neuronaux liquides et vise à fournir des performances informatiques efficaces.",
+          "meta": "♥ 519 · 82 709 téléchargements"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Le modèle Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive est une structure multimodale qui produit une sortie de texte en traitant les entrées d'image et de texte. Ce modèle, qui se concentre sur la production de contenu sans restriction avec sa structure non censurée, vise à offrir de la flexibilité dans les processus d'analyse des données visuelles.",
+          "meta": "♥ 1 427 · 2 687 304 téléchargements"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "Le modèle Gemma 4-12b-it, optimisé par Unsloth, est une structure multimodale qui produit une sortie de texte en traitant les entrées d'image et de texte. Grâce au format GGUF, le modèle permet une inférence efficace sur du matériel local avec une faible utilisation de la mémoire.",
+          "meta": "♥ 324 · 296 410 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

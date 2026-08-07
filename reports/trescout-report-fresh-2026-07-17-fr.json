@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-17",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "summary": "Apache Ossie est une initiative industrielle qui vise à standardiser l'échange de métadonnées sémantiques entre les plateformes d'analyse, d'intelligence artificielle et de business intelligence (BI). Ce projet facilite l'intégration des données en créant une source de vérité unique et indépendante du fournisseur entre différentes plates-formes.",
+          "meta": "Python · ★ 997 · +60 aujourd'hui"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog est une plateforme complète qui rassemble des outils tels que l'observabilité, l'analyse et la relecture de sessions de l'intelligence artificielle pour les processus de développement de produits. Il permet aux développeurs de logiciels de créer des produits autonomes en suivant les bogues, en gérant les expériences et en analysant les données des utilisateurs.",
+          "meta": "Python · ★ 35 939 · +77 aujourd'hui"
+        },
+        {
+          "title": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "summary": "Le projet de démonstration Bonsai fournit un ensemble d'outils conçu pour simplifier les processus de déploiement de modèles d'apprentissage automatique. Le logiciel aide les développeurs à optimiser leurs processus d'application en transformant des architectures de modèles complexes en flux de travail gérables.",
+          "meta": "Shell · ★ 1 587 · +196 aujourd'hui"
+        },
+        {
+          "title": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "summary": "LobeHub permet de créer une équipe d'IA qui travaille 24 heures sur 24, 7 jours sur 7, en gérant les agents d'intelligence artificielle via des processus de recrutement, de planification et de reporting. La plateforme propose une interface d'administration qui automatise les flux de travail en organisant différents agents à partir d'un seul centre.",
+          "meta": "TypeScript · ★ 80 291 · +71 aujourd'hui"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub Copilot SDK propose un kit de développement logiciel (SDK) multiplateforme qui permet aux développeurs d'intégrer les agents GitHub Copilot dans leurs propres applications et services. Cet outil basé sur Java permet l'utilisation standard d'assistants de codage basés sur l'intelligence artificielle sur différentes plates-formes.",
+          "meta": "Java · ★ 9 698 · +13 aujourd'hui",
+          "returning": true
+        },
+        {
+          "title": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "summary": "Développé pour les ingénieurs de conception, ui-skills rassemble les aptitudes et compétences techniques nécessaires aux processus de développement d’interfaces utilisateur (UI). Cette ressource basée sur TypeScript propose une carte de compétences pour les professionnels passant de la conception d'interfaces au codage.",
+          "meta": "TypeScript · ★ 4 436 · +178 aujourd'hui"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X est une collection de guides visant à améliorer les compétences en programmation en codant des technologies logicielles populaires à partir de zéro. Les développeurs ont la possibilité d'apprendre les structures architecturales dans la pratique en construisant étape par étape des systèmes complexes, tels qu'une base de données ou un système d'exploitation.",
+          "meta": "Markdown · ★ 526 539 · +435 aujourd'hui",
+          "returning": true
+        },
+        {
+          "title": "ossu/computer-science",
+          "url": "https://github.com/ossu/computer-science",
+          "summary": "Proposant un programme d'études gratuit et orienté vers l'auto-apprentissage dans le domaine de l'informatique, cette ressource crée un parcours pédagogique conforme aux normes académiques. Il propose un processus d'apprentissage structuré couvrant le développement de logiciels et les disciplines informatiques de base.",
+          "meta": "HTML · ★ 206 669 · +107 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kimi K3: Open Frontier Intelligence",
+          "url": "https://www.kimi.com/blog/kimi-k3",
+          "summary": "Kimi k3, annoncé par Moonshot AI, est un nouveau modèle de renseignement à frontières ouvertes qui se distingue par sa longue fenêtre contextuelle et sa vitesse de traitement élevée. Le modèle vise à assurer la rentabilité, en particulier dans le raisonnement complexe et l'analyse de grands ensembles de données.",
+          "meta": "1 435 votes · 864 commentaires"
+        },
+        {
+          "title": "Microsoft Comic Chat is now open source",
+          "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+          "summary": "Microsoft a partagé les codes sources de Comic Chat, son application de chat basée sur des personnages lancée en 1996, en open source. Le logiciel offre une interface qui transforme automatiquement les conversations textuelles des utilisateurs en panneaux de bandes dessinées.",
+          "meta": "617 votes · 138 commentaires"
+        },
+        {
+          "title": "Decoy Font",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "summary": "Decoy Font est une expérience de police utilisée pour masquer visuellement les textes. Cet outil propose un masquage de contenu en masquant le texte avec des formes apparemment aléatoires au lieu de caractères lisibles.",
+          "meta": "486 votes · 115 commentaires"
+        },
+        {
+          "title": "How Our Rust-to-Zig Rewrite Is Going",
+          "url": "https://rtfeldman.com/rust-to-zig",
+          "summary": "Les développeurs de logiciels partagent leurs projets de migration de Rust vers Zig afin d'optimiser les processus de gestion des performances et de la mémoire. Ce processus de transformation est évalué par ses effets sur la vitesse de compilation et le contrôle de la programmation des systèmes de bas niveau.",
+          "meta": "471 votes · 247 commentaires"
+        },
+        {
+          "title": "NotebookLM is now Gemini Notebook",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+          "summary": "Google rebaptise NotebookLM, son ordinateur portable personnel basé sur l'intelligence artificielle, en Gemini Notebook et l'intègre dans l'écosystème Gemini. Cette transformation permet à la plate-forme de fournir des capacités avancées d'IA générative de manière plus intégrée au modèle d'IA de base de Google.",
+          "meta": "282 votes · 143 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "BI",
+      "explanation": "Des outils de business intelligence qui permettent aux entreprises de prendre des décisions plus précises en analysant les données brutes."
+    },
+    {
+      "term": "semantic metadata",
+      "explanation": "Informations descriptives qui expliquent ce que signifient les données et comment elles se rapportent à d'autres données."
+    },
+    {
+      "term": "single source of truth",
+      "explanation": "Le principe de gérer toutes les informations d’une institution à partir d’une source unique fiable et à jour."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "Le processus de suivi des erreurs et des conséquences inattendues en surveillant le fonctionnement des systèmes d’intelligence artificielle."
+    },
+    {
+      "term": "session replay",
+      "explanation": "Les mouvements d'un utilisateur sur le site Web peuvent être enregistrés sous forme de vidéo et visionnés à nouveau ultérieurement."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Les ordinateurs apprennent par eux-mêmes en utilisant les données et produisent de meilleurs résultats au fil du temps."
+    },
+    {
+      "term": "AI team operations",
+      "explanation": "La manière dont les équipes développant des projets d’intelligence artificielle gèrent leurs flux de travail et leurs processus."
+    },
+    {
+      "term": "skills",
+      "explanation": "Capacités qu'un modèle d'intelligence artificielle peut réaliser en se spécialisant dans un domaine particulier."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Technologie d’intelligence artificielle capable de produire de nouveaux contenus qui n’existaient pas auparavant, sur la base des données qu’elle apprend."
+    }
+  ]
+}

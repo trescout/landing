@@ -301,9 +301,7 @@ DILLER = {
         "rapor_cta_dugme": "Rejoindre l'accès anticipé →",
         "rapor_banner_baslik": "À propos de cette archive traduite",
         "rapor_banner": ("Ces pages et les PDF sont traduits des rapports quotidiens turcs originaux. La "
-                         "sélection des éléments, les mesures et les liens sont identiques à l'édition turque. "
-                         "L'archive française commence le 25 juillet 2026 · les rapports antérieurs "
-                         "n'existent qu'en turc et en anglais."),
+                         "sélection des éléments, les mesures et les liens sont identiques à l'édition turque."),
         "rapor_cipler": {
             "Günün Modelleri": "modèles du jour",
             "Günün Makaleleri": "articles du jour",

@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-26",
+  "editorial": "Aujourd’hui, l’intégration des fondamentaux de l’ingénierie de l’intelligence artificielle et des plug-ins orientés cybersécurité se démarque dans l’écosystème des développeurs. Les projets actuels sur GitHub se concentrent sur la compréhension des systèmes complexes et des mécanismes de filtrage qui préservent la qualité du contenu.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "summary": "Understand-Anything permet d'interroger et de découvrir des projets logiciels en transformant les bases de code en graphiques de connaissances interactifs. Fonctionnant de manière intégrée avec diverses aides au codage et interfaces de ligne de commande, cet outil facilite le processus d'analyse en visualisant des structures de code complexes.",
+          "meta": "TypeScript · ★ 35 132 · +4 721 aujourd'hui"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC est un système qui optimise les compétences, les instincts, la mémoire et les couches de sécurité des agents d'intelligence artificielle. Claude Code est conçu pour améliorer les performances des agents dans les outils de développement tels que Codex et Cursor.",
+          "meta": "JavaScript · ★ 194 032 · +1 912 aujourd'hui"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Préparée pour ceux qui souhaitent entrer dans le domaine de l'ingénierie de l'intelligence artificielle (IA Engineering), cette ressource enseigne les processus de développement et de publication d'applications à partir des bases du langage Python. Il vise à fournir des compétences de bout en bout en matière de développement logiciel en combinant connaissances théoriques et projets pratiques.",
+          "meta": "Python · ★ 20 435 · +2 169 aujourd'hui"
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Anthropic a publié un référentiel de plugins open source développé pour les travailleurs du savoir à utiliser sur Claude Cowork. Cet ensemble d'outils basés sur Python propose des flux de travail personnalisables pour automatiser les processus de productivité.",
+          "meta": "Python · ★ 16 517 · +1 698 aujourd'hui"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Développée pour les agents d'intelligence artificielle, cette bibliothèque propose 754 compétences structurées compatibles avec cinq frameworks de cybersécurité différents. Couvrant 26 domaines de sécurité, cet ensemble de données permet de standardiser les flux de travail basés sur des agents sur plus de 20 plateformes telles que Claude Code et GitHub Copilot.",
+          "meta": "Python · ★ 9 924 · +871 aujourd'hui"
+        },
+        {
+          "title": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "summary": "Stop-slop est un outil d'édition qui permet de supprimer les modèles narratifs caractéristiques et les expressions répétitives (IA raconte) dans les textes produits par l'intelligence artificielle. Il automatise les processus de raffinement du texte pour donner au contenu écrit un style plus naturel et plus humain.",
+          "meta": "★ 4 876 · +547 aujourd'hui"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill est un outil conçu pour éliminer la banalité du contenu produit par les modèles d'intelligence artificielle. Cela permet au modèle de créer des réponses (sorties) plus uniques et qualifiées en augmentant la qualité des sorties.",
+          "meta": "Shell · ★ 21 137 · +1 440 aujourd'hui"
+        },
+        {
+          "title": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "summary": "Le projet FreeDomain proposé par DigitalPlat propose une infrastructure qui permet aux utilisateurs d'obtenir un nom de domaine gratuit. Cette ressource basée sur HTML développe une solution accessible pour ceux qui souhaitent créer une présence sur le Web.",
+          "meta": "HTML · ★ 166 947 · +1 127 aujourd'hui"
+        },
+        {
+          "title": "jellyfin/jellyfin",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "summary": "Jellyfin est un système de serveur multimédia open source qui permet aux utilisateurs de gérer et de publier leurs propres collections multimédias. Développée en langage C#, la plateforme propose une infrastructure de serveur centrale pour organiser les fichiers multimédias et les transférer vers différents appareils.",
+          "meta": "C# · ★ 52 316 · +91 aujourd'hui"
+        },
+        {
+          "title": "Axorax/awesome-free-apps",
+          "url": "https://github.com/Axorax/awesome-free-apps",
+          "summary": "La liste impressionnante d'applications gratuites compilée par Axorax rassemble une sélection de recommandations d'applications gratuites pour les ordinateurs personnels et les appareils mobiles. Cette ressource fournit un guide accessible en catégorisant les différents logiciels dont les utilisateurs peuvent avoir besoin.",
+          "meta": "JavaScript · ★ 5 121 · +738 aujourd'hui"
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty est un système de gestion de la relation client (CRM) développé comme une alternative open source à la plateforme Salesforce et se concentre sur l'intégration de l'intelligence artificielle (IA). Cette plateforme, écrite en langage TypeScript, vise à combiner la gestion des données d'entreprise avec des flux de travail basés sur l'intelligence artificielle.",
+          "meta": "TypeScript · ★ 46 735 · +237 aujourd'hui"
+        },
+        {
+          "title": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "summary": "OpenStock offre un suivi des prix en temps réel et des alertes personnalisées comme alternative open source aux plateformes d'échange coûteuses. Développé avec TypeScript, cet outil fournit une analyse détaillée des données de l'entreprise de manière gratuite et accessible.",
+          "meta": "TypeScript · ★ 11 968 · +128 aujourd'hui"
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Claude-mem est un outil qui permet aux agents d'intelligence artificielle d'établir un contexte persistant entre les sessions. Il compresse les opérations effectuées par l'agent avec l'intelligence artificielle et les transfère vers les futures sessions et travaux compatibles avec différents assistants de codage.",
+          "meta": "TypeScript · ★ 78 506 · +319 aujourd'hui"
+        },
+        {
+          "title": "st-tech/ppf-contact-solver",
+          "url": "https://github.com/st-tech/ppf-contact-solver",
+          "summary": "PPF Contact Solver est une bibliothèque Python qui effectue une analyse de contact entre coques, solides et bâtonnets dans des simulations basées sur la physique. Il vise à augmenter la cohérence physique des simulations en calculant l’interaction de différentes structures géométriques.",
+          "meta": "Python · ★ 3 389 · +207 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Using AI to write better code more slowly",
+          "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+          "summary": "L'approche, qui se concentre sur la qualité plutôt que sur la rapidité de l'écriture de code basée sur l'intelligence artificielle, recommande aux développeurs d'utiliser les outils de génération automatique (IA générative) plus lentement et de manière contrôlée. Cette méthode positionne l’IA comme un outil de révision, plutôt que comme un copilote, pour améliorer la lisibilité et la maintenabilité du code.",
+          "meta": "1 056 votes · 394 commentaires"
+        },
+        {
+          "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+          "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+          "summary": "Des recherches menées par l'Université de Stanford révèlent l'effet de la marche sur la pensée créative. L’étude montre que les individus qui marchent génèrent des niveaux d’idées créatives plus élevés que ceux qui restent assis.",
+          "meta": "528 votes · 208 commentaires"
+        },
+        {
+          "title": "Ferrari Luce",
+          "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+          "summary": "Ferrari a annoncé sa nouvelle usine de production de véhicules entièrement électriques et son infrastructure technologique dans ce domaine avec le projet Luce. La marque vise à optimiser les processus d’assemblage de moteurs électriques et de batteries grâce à la technologie du jumeau numérique.",
+          "meta": "442 votes · 816 commentaires"
+        },
+        {
+          "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+          "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+          "summary": "L'Espagne a bloqué l'accès aux plateformes de marché de prédiction telles que Polymarket et Kalshi au motif qu'elles ne disposent pas de licence de jeu. Ces plateformes fonctionnent comme des instruments financiers décentralisés qui permettent aux utilisateurs de parier sur des événements du monde réel.",
+          "meta": "415 votes · 202 commentaires"
+        },
+        {
+          "title": "Netherlands blocks US takeover of vital digital supplier",
+          "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+          "summary": "Le gouvernement néerlandais a bloqué l’acquisition d’un fournisseur d’infrastructures numériques critiques par une entreprise basée aux États-Unis pour des raisons de sécurité nationale. Cette décision montre que les contrôles sur la transition des actifs technologiques stratégiques vers un contrôle étranger sont en train d’être renforcés.",
+          "meta": "386 votes · 140 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "bytedance-research/Lance",
+          "url": "https://huggingface.co/bytedance-research/Lance",
+          "summary": "Développée par ByteDance, Lance est une architecture de modèle multimodale (any-to-any) qui permet la conversion entre différents types de données. Cette technologie prend en charge les processus de production multimodaux en traitant divers formats d'entrée tels que le texte, les images et l'audio dans un espace commun.",
+          "meta": "♥ 851 · 1 908 téléchargements"
+        },
+        {
+          "title": "NemoStation/Marlin-2B",
+          "url": "https://huggingface.co/NemoStation/Marlin-2B",
+          "summary": "Marlin-2B est un modèle vidéo-texte-texte qui produit des sorties textuelles en traitant des données vidéo et textuelles. Avec sa petite structure de paramètres, il offre une solution axée sur l'efficacité dans l'analyse et l'interprétation du contenu vidéo.",
+          "meta": "♥ 367 · 9 144 téléchargements"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Développé par Meituan, LongCat-Video-Avatar-1.5 permet de créer des avatars vidéo réalistes avec des commandes textuelles. Le modèle restitue les mouvements dynamiques et les expressions faciales des personnages avec une grande précision, tout en conservant une cohérence visuelle.",
+          "meta": "♥ 283 · 0 téléchargements"
+        },
+        {
+          "title": "sapientinc/HRM-Text-1B",
+          "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
+          "summary": "Développé par Sapientinc, HRM-Text-1B est un modèle de langage d'un milliard de paramètres optimisé pour les tâches de génération de texte. Il vise à assurer l’efficacité des processus de création de texte avec une faible consommation de ressources.",
+          "meta": "♥ 371 · 103 033 téléchargements"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "MiniCPM5-1B, développé par OpenBMB, se distingue comme un modèle de génération de texte avec un faible nombre de paramètres. Le modèle est conçu pour effectuer des tâches de traitement de langage efficaces sur des ressources matérielles limitées.",
+          "meta": "♥ 294 · 2 409 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

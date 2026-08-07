@@ -1,0 +1,148 @@
+{
+  "date": "2026-06-03",
+  "editorial": "Dans l'agenda technologique actuel, les outils de traitement des données et de web scraping semblent accélérer les processus d'automatisation. En particulier, des bibliothèques telles que MarkItDown publiée par Microsoft établissent la norme en matière de conversion de formats de fichiers complexes en texte lisible pour les modèles d'apprentissage automatique.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom réduit l'utilisation des jetons de 60 % à 95 % en compressant les fichiers journaux, les sorties des outils et les morceaux de données contextuelles (morceaux RAG) envoyés à de grands modèles de langage (LLM). Cet outil basé sur Python offre différentes options d'intégration en tant que serveur de bibliothèque, de proxy et de Model Context Protocol (MCP).",
+          "meta": "Python · ★ 7 746 · +1 265 aujourd'hui"
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Développé par Microsoft, MarkItDown est un outil Python qui convertit divers formats de fichiers et documents bureautiques au format de langage markdown (Markdown). Cet outil simplifie les processus de traitement des données en convertissant les données non structurées en formats texte.",
+          "meta": "Python · ★ 141 948 · +3 618 aujourd'hui"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC est un système qui optimise les compétences, les instincts, la mémoire et les couches de sécurité des agents d'intelligence artificielle. Claude Code est conçu pour améliorer les performances des agents dans les outils de développement tels que Codex et Cursor.",
+          "meta": "JavaScript · ★ 204 662 · +1 533 aujourd'hui"
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling est un framework de web scraping adaptable qui peut gérer tous les processus, des requêtes uniques aux opérations d'exploration complètes. Cet outil basé sur Python offre une structure flexible pour automatiser les processus de collecte de données.",
+          "meta": "Python · ★ 59 573 · +1 182 aujourd'hui"
+        },
+        {
+          "title": "nesquena/hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "summary": "Hermes WebUI offre une interface améliorée pour gérer les agents Hermes via des navigateurs Web ou des appareils mobiles. Ce projet basé sur Python fournit une interface Web qui facilite l'accès aux flux de travail basés sur des agents.",
+          "meta": "Python · ★ 12 800 · +1 722 aujourd'hui"
+        },
+        {
+          "title": "reconurge/flowsint",
+          "url": "https://github.com/reconurge/flowsint",
+          "summary": "Flowsint propose une plateforme d'investigation visuelle, flexible et extensible basée sur des graphiques pour les analystes et les chercheurs en cybersécurité. Développé avec TypeScript, cet outil facilite la visualisation et l'analyse d'ensembles de données complexes.",
+          "meta": "TypeScript · ★ 4 693 · +124 aujourd'hui"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM propose une architecture sans tokenizer pour la production vocale multilingue et la transcription vocale. Le système fonctionne directement sur les données audio sans utiliser d'identifiant textuel, prenant en charge une conception sonore créative et des processus de transcription audio réalistes.",
+          "meta": "Python · ★ 25 363 · +783 aujourd'hui"
+        },
+        {
+          "title": "stefan-jansen/machine-learning-for-trading",
+          "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+          "summary": "Cette ressource, préparée par Stefan Jansen, détaille les applications d'apprentissage automatique dans les processus de trading algorithmique via Jupyter Notebooks. Il propose des exemples de code pratiques et des méthodes de développement de stratégies pour ceux qui souhaitent analyser des données financières et créer des modèles de prévision.",
+          "meta": "Jupyter Notebook · ★ 18 746 · +574 aujourd'hui"
+        },
+        {
+          "title": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "summary": "Production-agentic-rag-course propose une formation pratique sur le développement de systèmes de production assistés par récupération basés sur des agents (agentic RAG) qui automatisent les processus de récupération d'informations à partir de sources de données complexes. Basée sur le langage Python, cette ressource enseigne l'architecture technique requise pour créer des applications d'intelligence artificielle évolutives et de niveau production.",
+          "meta": "Python · ★ 6 536 · +30 aujourd'hui"
+        },
+        {
+          "title": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "summary": "Supermemory offre un moteur de mémoire évolutif et une infrastructure d'applications pour l'ère de l'intelligence artificielle. Ce système, développé avec TypeScript, fournit une interface mémoire spécialisée (API mémoire) pour un traitement et une gestion rapides des données.",
+          "meta": "TypeScript · ★ 24 859 · +680 aujourd'hui"
+        },
+        {
+          "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "summary": "Open-LLM-VTuber permet une interaction vocale mains libres avec de grands modèles de langage et l'exécution de caractères bidimensionnels (Live2D) en direct sur les systèmes locaux. Le système offre une expérience de communication en temps réel entre l'utilisateur et l'intelligence artificielle avec prise en charge des interruptions vocales.",
+          "meta": "Python · ★ 8 629 · +66 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gmail thinks I'm stupid, so I left",
+          "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+          "summary": "Les utilisateurs se tournent vers des services de messagerie alternatifs, affirmant que les fonctionnalités de Gmail telles que le filtrage automatique et la réponse intelligente restreignent les préférences des utilisateurs. Cette tendance représente une réponse croissante à la perte de contrôle sur les données personnelles et les logiciels.",
+          "meta": "908 votes · 584 commentaires"
+        },
+        {
+          "title": "MAI-Code-1-Flash",
+          "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+          "summary": "Microsoft a annoncé le modèle MAI-Code-1-Flash, un modèle de langage orienté codage optimisé pour accélérer les processus de développement logiciel. Ce modèle est conçu pour fournir une génération de code hautes performances avec une faible latence.",
+          "meta": "462 votes · 207 commentaires"
+        },
+        {
+          "title": "CT scans of BYD car parts",
+          "url": "https://www.lumafield.com/scan-of-the-month/byd",
+          "summary": "Lumafield analyse la qualité de la production et les détails techniques en imagerie des pièces de véhicules électriques de marque BYD avec la méthode de tomodensitométrie industrielle (CT scan). Cette étude révèle de manière transparente la structure interne et les normes de production des composants automobiles.",
+          "meta": "371 votes · 192 commentaires"
+        },
+        {
+          "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+          "url": "https://blog.ammaraskar.com/github-token-stealing/",
+          "summary": "Une vulnérabilité dans Visual Studio Code permet à des acteurs malveillants de voler des jetons d'accès GitHub en un seul clic. Cette vulnérabilité rend les informations d'authentification des développeurs vulnérables aux accès non autorisés.",
+          "meta": "363 votes · 55 commentaires"
+        },
+        {
+          "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+          "url": "https://github.com/c0dejedi/nbd-vram",
+          "summary": "Le projet nbd-vram permet d'utiliser la mémoire de la carte vidéo (VRAM) comme espace d'échange dans les systèmes Linux. Cette méthode étend la gestion de la mémoire en traitant la mémoire du processeur graphique comme une unité de stockage dans les cas où la mémoire système est insuffisante.",
+          "meta": "288 votes · 77 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Développé par Nvidia, LocateAnything-3B est un modèle image-texte-texte qui effectue des tâches de localisation d'objets en traitant les entrées visuelles et textuelles. Le modèle utilise une architecture multimodale pour identifier les objets dans des scènes complexes et déterminer leurs coordonnées.",
+          "meta": "♥ 1 046 · 78 925 téléchargements"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "summary": "Développé par LiquidAI, LFM2.5-8B-A1B est un modèle d'intelligence artificielle axé sur la génération de texte. Contrairement aux architectures traditionnelles, le modèle utilise une structure de réseaux neuronaux liquides et vise à fournir des processus informatiques efficaces.",
+          "meta": "♥ 455 · 60 171 téléchargements"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "Développé par OpenBMB, MiniCPM5-1B est un modèle de langage à faibles paramètres optimisé pour les tâches de génération de texte. Ce modèle, qui vise à fournir des performances élevées avec des ressources informatiques limitées, prend en charge des approches efficaces d'intelligence artificielle (IA).",
+          "meta": "♥ 738 · 68 494 téléchargements"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Le modèle Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive est un modèle d'intelligence artificielle multimodale qui produit une sortie de texte en traitant les entrées visuelles et textuelles. Avec sa structure non censurée et sa tendance à répondre agressivement, il se distingue comme un modèle de langage personnalisé pour des scénarios d'utilisation spécifiques.",
+          "meta": "♥ 1 309 · 2 602 333 téléchargements"
+        },
+        {
+          "title": "stepfun-ai/Step-3.7-Flash",
+          "url": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+          "summary": "Step-3.7-Flash, développé par Stepfun-ai, est un modèle multimodal qui produit une sortie de texte en traitant les entrées visuelles et textuelles. Ce modèle, qui fonctionne avec une faible latence, offre une architecture axée sur une réponse rapide dans l'analyse textuelle des données visuelles.",
+          "meta": "♥ 218 · 17 965 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

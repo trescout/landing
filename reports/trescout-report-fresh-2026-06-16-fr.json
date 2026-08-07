@@ -1,0 +1,111 @@
+{
+  "date": "2026-06-16",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "summary": "Développée pour les propriétaires de véhicules Tesla, Teslamate est une application d'enregistrement de données qui vous permet d'héberger des données sur votre propre serveur. Cet outil open source, écrit en langage Elixir, visualise et présente à l'utilisateur des statistiques détaillées telles que l'historique de conduite et les données de recharge.",
+          "meta": "Elixir · ★ 8 326 · +33 aujourd'hui"
+        },
+        {
+          "title": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "summary": "Hello 算法 est une plateforme éducative open source qui enseigne les structures de données et les algorithmes avec des visualisations animées. Le projet standardise le processus d'apprentissage en offrant la prise en charge de nombreux langages de programmation et des exemples de code exécutable en un clic.",
+          "meta": "Java · ★ 127 220 · +71 aujourd'hui"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "CUA fournit une infrastructure open source pour les agents d'intelligence artificielle informatiques. Il rassemble un bac à sable, un kit de développement logiciel (SDK) et des outils de référence sous un même toit dans le but de former et d'évaluer les agents capables de contrôler les systèmes d'exploitation de bureau.",
+          "meta": "HTML · ★ 18 298 · +70 aujourd'hui"
+        },
+        {
+          "title": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "summary": "Win11Debloat est un script PowerShell qui permet de supprimer les applications préinstallées et de désactiver les données de télémétrie sur les systèmes d'exploitation Windows 10 et 11. Il permet aux utilisateurs de personnaliser leurs systèmes et d'effectuer un débloquage du système en supprimant les composants inutiles.",
+          "meta": "PowerShell · ★ 48 210 · +112 aujourd'hui"
+        },
+        {
+          "title": "mikeroyal/Self-Hosting-Guide",
+          "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+          "summary": "Le Guide d'auto-hébergement propose un guide complet sur l'hébergement et la gestion d'applications logicielles sur des réseaux locaux ou des serveurs Web dédiés. Il fournit des ressources techniques sur des sujets tels que le cloud computing, les grands modèles de langage, l'automatisation et la configuration réseau.",
+          "meta": "Dockerfile · ★ 21 324 · +188 aujourd'hui"
+        },
+        {
+          "title": "itsfatduck/optimizerDuck",
+          "url": "https://github.com/itsfatduck/optimizerDuck",
+          "summary": "Développé en langage C#, optimiseurDuck est un outil open source qui offre une augmentation des performances et des configurations axées sur la confidentialité sur les systèmes d'exploitation Windows. Ce logiciel, qui permet aux utilisateurs de simplifier les paramètres du système, rassemble les processus d'optimisation de Windows dans une seule interface.",
+          "meta": "C# · ★ 3 900 · +340 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Iroh 1.0",
+          "url": "https://www.iroh.computer/blog/v1",
+          "summary": "Iroh 1.0 introduit un protocole réseau peer-to-peer qui permet un transfert sécurisé et rapide de données entre appareils. Il permet aux développeurs de développer des applications capables de partager des données sur des réseaux locaux ou sur Internet sans avoir à gérer des configurations réseau complexes.",
+          "meta": "1 163 votes · 352 commentaires"
+        },
+        {
+          "title": "A backdoor in a LinkedIn job offer",
+          "url": "https://roman.pt/posts/linkedin-backdoor/",
+          "summary": "Les fausses offres d'emploi envoyées via LinkedIn sont utilisées comme méthode dérobée pour infecter les ordinateurs des candidats avec des logiciels malveillants. Les attaquants obtiennent un accès non autorisé aux systèmes avec les fichiers qu'ils envoient sous couvert du processus de recrutement.",
+          "meta": "1 135 votes · 209 commentaires"
+        },
+        {
+          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+          "url": "https://news.ycombinator.com/item?id=48542100",
+          "summary": "Les développeurs de logiciels envisagent la tendance à utiliser des modèles linguistiques locaux plutôt que des modèles basés sur le cloud comme outil principal dans leurs processus de codage quotidiens. Les utilisateurs partagent leurs installations matérielles et les performances des jetons par seconde pendant ce processus de transition.",
+          "meta": "962 votes · 431 commentaires"
+        },
+        {
+          "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+          "url": "https://tinywind.io",
+          "summary": "TinyWind est un jeu de piratage de pixel art sur navigateur basé sur une simulation réaliste de la physique du vent. Les joueurs font l'expérience de la navigation en haute mer en gérant le navire dans des conditions météorologiques dynamiques.",
+          "meta": "818 votes · 154 commentaires"
+        },
+        {
+          "title": "Hetzner Price Adjustment",
+          "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+          "summary": "Hetzner standardise la structure tarifaire des services de serveur cloud et met à jour certains packages. L'entreprise rééquilibre ses coûts de service grâce à cette régulation des prix en fonction des coûts énergétiques et des investissements en infrastructures.",
+          "meta": "428 votes · 585 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF, partagé sur HuggingFace, est un modèle de langage axé sur la génération de texte. Le modèle est présenté sous forme de quantification afin de pouvoir être exécuté sur des appareils à faibles ressources.",
+          "meta": "♥ 846 · 60 921 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "data logger",
+      "explanation": "Un appareil électronique qui enregistre et stocke les informations des capteurs à intervalles réguliers."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Zone de travail isolée où les nouveaux logiciels peuvent être testés en toute sécurité sans endommager le système principal."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Un ensemble d'outils qui permettent aux développeurs de logiciels de développer plus facilement des applications pour une plate-forme ou un appareil spécifique."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Méthode permettant de mesurer les performances d'un appareil ou d'un logiciel avec des tests standard et de les comparer avec d'autres."
+    }
+  ]
+}

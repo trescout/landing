@@ -1,0 +1,149 @@
+{
+  "date": "2026-07-22",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "Développé pour rendre la sortie des agents de codage plus ciblée et organisée, i-have-adhd améliore l'expérience utilisateur en divisant les réponses complexes en plusieurs parties. Cette compétence basée sur Python standardise la présentation des informations par l'IA dans un format compatible avec le trouble déficitaire de l'attention avec hyperactivité (TDAH).",
+          "meta": "Python · ★ 7 248 · +1 866 aujourd'hui"
+        },
+        {
+          "title": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "summary": "Les outils Text-to-CAD sont un ensemble de compétences d'agent développées pour automatiser les processus de conception robotique et matérielle. Cette bibliothèque basée sur JavaScript permet de créer des modèles d'ingénierie complexes avec des commandes en langage naturel.",
+          "meta": "JavaScript · ★ 9 319 · +291 aujourd'hui"
+        },
+        {
+          "title": "tradesdontlie/tradingview-mcp",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "summary": "TradingView-mcp connecte Claude Code à l'application de bureau TradingView, vous permettant d'automatiser les processus d'analyse graphique. Cette intégration permet aux utilisateurs de personnaliser les flux de travail d'analyse technique via un contexte de modèle alimenté par l'IA (Model Context Protocol).",
+          "meta": "JavaScript · ★ 4 930 · +114 aujourd'hui"
+        },
+        {
+          "title": "AlexsJones/llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "summary": "Développé avec le langage Rust, llmfit analyse des centaines de grands modèles et fournisseurs de langages et vous permet d'identifier ceux compatibles avec votre matériel avec une seule commande. L'outil automatise le processus de recherche de modèles les mieux adaptés aux ressources du système local.",
+          "meta": "Rust · ★ 30 309 · +129 aujourd'hui"
+        },
+        {
+          "title": "hyprwm/Hyprland",
+          "url": "https://github.com/hyprwm/Hyprland",
+          "summary": "Hyprland est un gestionnaire de fenêtres qui fonctionne sur le compositeur Wayland et propose une structure de mosaïque dynamique personnalisable. Développé en C++, cet outil offre une expérience de bureau hautes performances sans compromettre l'esthétique visuelle.",
+          "meta": "C++ · ★ 37 107 · +58 aujourd'hui"
+        },
+        {
+          "title": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "summary": "Le code source original de l'ordinateur de commande et de guidage du module lunaire (Guidance Computer) utilisé dans la mission Apollo 11 a été mis à disposition sur GitHub avec le langage assembleur. Le logiciel documente les détails techniques des algorithmes de calcul utilisés lors de la première mission habitée à atterrir sur la Lune.",
+          "meta": "Assembly · ★ 70 068 · +1 235 aujourd'hui"
+        },
+        {
+          "title": "DioxusLabs/dioxus",
+          "url": "https://github.com/DioxusLabs/dioxus",
+          "summary": "Dioxus est un framework Rust qui permet de développer des applications de bout en bout (fullstack) avec une base de code unique pour les plateformes Web, de bureau et mobiles. Il standardise l'expérience de développement d'applications dans l'écosystème Rust en accélérant le processus de création d'interface utilisateur grâce à sa structure basée sur des composants de type React.",
+          "meta": "Rust · ★ 37 762 · +271 aujourd'hui"
+        },
+        {
+          "title": "langchain-ai/open_deep_research",
+          "url": "https://github.com/langchain-ai/open_deep_research",
+          "summary": "Développé par LangChain, open-deep-research est un système autonome qui effectue des recherches en plusieurs étapes sur Internet pour répondre à des questions complexes. Il facilite les processus de recherche approfondis en automatisant le processus de recherche à travers les étapes de planification, de collecte de données et de synthèse.",
+          "meta": "Python · ★ 12 307 · +23 aujourd'hui"
+        },
+        {
+          "title": "agegr/pi-web",
+          "url": "https://github.com/agegr/pi-web",
+          "summary": "Pi-web offre une interface utilisateur Web améliorée (interface utilisateur Web) pour l'agent de codage Pi. Cet outil, écrit en langage TypeScript, permet de gérer les processus de codage via une interface visuelle.",
+          "meta": "TypeScript · ★ 1 821 · +298 aujourd'hui"
+        },
+        {
+          "title": "schollz/croc",
+          "url": "https://github.com/schollz/croc",
+          "summary": "Croc est un outil qui permet un transfert sécurisé de fichiers et de données entre deux ordinateurs grâce au cryptage de bout en bout. Ce logiciel, développé avec le langage de programmation Go, utilise un mécanisme de relais temporaire pour faciliter le processus de transfert.",
+          "meta": "Go · ★ 36 970 · +361 aujourd'hui"
+        },
+        {
+          "title": "dottxt-ai/outlines",
+          "url": "https://github.com/dottxt-ai/outlines",
+          "summary": "La bibliothèque Outlines permet de présenter les réponses de grands modèles de langage sous forme de sorties structurées selon des schémas prédéfinis. Avec cet outil basé sur Python, les développeurs protègent l'intégrité des données en limitant les sorties du modèle avec des expressions régulières ou des règles de grammaire sans contexte.",
+          "meta": "Python · ★ 14 917 · +65 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "OpenAI and Hugging Face address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "summary": "OpenAI et Hugging Face ont résolu le problème en collaborant sur un incident de sécurité survenu lors des processus d'évaluation du modèle. Afin d'augmenter la sécurité du système, les parties ont effectué des mises à jour pour combler les vulnérabilités de leurs infrastructures d'évaluation.",
+          "meta": "959 votes · 655 commentaires"
+        },
+        {
+          "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+          "summary": "Google a élargi sa série Gemini et a annoncé ses nouveaux modèles axés sur le traitement rapide, Gemini 3.6 Flash, 3.5 Flash-Lite et 3.5 Flash Cyber. Ces modèles offrent des options d'intelligence artificielle personnalisées qui offrent un équilibre entre performances et efficacité pour différents besoins informatiques.",
+          "meta": "656 votes · 512 commentaires"
+        },
+        {
+          "title": "Advertise in ChatGPT",
+          "url": "https://ads.openai.com/",
+          "summary": "OpenAI travaille sur une plateforme publicitaire pour le placement d'annonces pour les utilisateurs de ChatGPT. Ce système permet aux marques d'atteindre leurs publics cibles via des interfaces de chat basées sur l'intelligence artificielle.",
+          "meta": "600 votes · 435 commentaires"
+        },
+        {
+          "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+          "url": "https://fireworks.ai/blog/kimik3-fable",
+          "summary": "Développé par Moonshot AI, le modèle Kimi K3 rivalise avec le modèle Fable, atteignant des niveaux de performances de pointe. Ces modèles, proposés avec l'infrastructure Fireworks.ai, offrent une grande précision et une grande efficacité dans les processus d'inférence.",
+          "meta": "499 votes · 280 commentaires"
+        },
+        {
+          "title": "FreeInk: Open ecosystem for e-readers",
+          "url": "https://freeink.org/",
+          "summary": "FreeInk facilite l'indépendance des appareils et la gestion de contenu en fournissant un écosystème open source pour les lecteurs de livres électroniques. La plateforme vise à offrir une expérience de lecture standard et une portabilité des données entre différents matériels.",
+          "meta": "491 votes · 113 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "reteetzad/Kimi-K3",
+          "url": "https://huggingface.co/reteetzad/Kimi-K3",
+          "summary": "Le modèle Kimi-K3 partagé sur Hugging Face est une étude de fusion de poids développée pour les grands modèles de langage. Il vise à optimiser les performances en combinant les capacités de différents modèles.",
+          "meta": "♥ 530 · 0 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "MCP",
+      "explanation": "Un protocole de pont qui permet aux modèles d'IA de se connecter à différentes sources de données et outils de manière standard."
+    },
+    {
+      "term": "skill",
+      "explanation": "Capacité spécialisée dont dispose un logiciel ou une intelligence artificielle pour effectuer une opération spécifique."
+    },
+    {
+      "term": "ADHD",
+      "explanation": "Une condition neurologique qui se manifeste par une distraction, une hyperactivité et une impulsivité, et entraîne des difficultés de concentration."
+    },
+    {
+      "term": "text-to-cad",
+      "explanation": "Technologie qui crée automatiquement des dessins techniques et des modèles tridimensionnels à l'aide de commandes écrites."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Les compétences que les assistants d’intelligence artificielle acquièrent pour effectuer des tâches telles que rechercher sur Internet ou éditer des fichiers."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    }
+  ]
+}

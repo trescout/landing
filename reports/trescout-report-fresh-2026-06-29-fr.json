@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-29",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "Lingbot-map est un modèle de base 3D à rétroaction conçu pour reconstruire des scènes à partir de données en streaming. Le projet optimise les processus de visualisation en traitant des données environnementales complexes, grâce à son architecture développée en langage Python.",
+          "meta": "Python · ★ 8 439 · +372 aujourd'hui"
+        },
+        {
+          "title": "cupy/cupy",
+          "url": "https://github.com/cupy/cupy",
+          "summary": "CuPy combine les interfaces de la bibliothèque de calcul numérique NumPy et SciPy avec l'accélération de l'unité de traitement graphique (GPU). Cette bibliothèque basée sur Python accélère les opérations mathématiques complexes à l'aide des cœurs CUDA.",
+          "meta": "Python · ★ 11 639 · +174 aujourd'hui"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice est une application voix-texte rapide qui fonctionne entièrement hors ligne sur le système d'exploitation macOS. Développé dans Swift, cet outil traite les données localement et offre une expérience de conversion audio axée sur la confidentialité.",
+          "meta": "Swift · ★ 3 995 · +365 aujourd'hui"
+        },
+        {
+          "title": "ByteByteGoHq/system-design-101",
+          "url": "https://github.com/ByteByteGoHq/system-design-101",
+          "summary": "Le référentiel system-design-101 de ByteByteGoHq explique les architectures système complexes avec des visualisations et un langage simple. Il offre une ressource qui fait passer les concepts de conception de systèmes de base à avancés pour ceux qui se préparent à des entretiens en génie logiciel.",
+          "meta": "★ 84 839 · +250 aujourd'hui"
+        },
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix est un outil de sécurité open source basé sur l'intelligence artificielle (outil de sécurité AI) conçu pour détecter et corriger les vulnérabilités de sécurité dans les applications. Ce système, développé avec le langage Python, automatise les processus d'analyse et de correction des vulnérabilités dans les processus de développement logiciel.",
+          "meta": "Python · ★ 27 035 · +122 aujourd'hui"
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "La bibliothèque d'utilisation vidéo permet aux agents de codage d'automatiser les processus de montage vidéo. Cet outil basé sur Python accélère les flux de travail en effectuant des tâches d'édition visuelle via des commandes logicielles.",
+          "meta": "Python · ★ 11 471 · +196 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GLM 5.2 beats Claude in our benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+          "summary": "Les résultats des tests partagés par Semgrep montrent que le modèle GLM 5.2 surpasse les modèles Claude dans les benchmarks axés sur la cybersécurité. Le modèle présente des performances élevées dans les processus d'analyse de code et de détection des vulnérabilités de sécurité.",
+          "meta": "810 votes · 378 commentaires"
+        },
+        {
+          "title": "The KIDS Act would require age checks to get online",
+          "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+          "summary": "La loi sur la protection de la sécurité des enfants sur Internet (KIDS) prévoit d'introduire des systèmes obligatoires de vérification de l'âge pour l'accès aux plateformes en ligne. Cette réglementation remet en cause l'anonymat et la confidentialité des données sur Internet en obligeant les utilisateurs à prouver leur identité numérique.",
+          "meta": "469 votes · 368 commentaires"
+        },
+        {
+          "title": "I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "summary": "Les utilisateurs utilisent l'outil Claude Code, assistant de codage basé sur l'interface de ligne de commande (CLI), pour analyser les résultats d'imagerie médicale (IRM). Cette méthode popularise la pratique consistant à obtenir un deuxième avis soutenu par l’intelligence artificielle lors du traitement et de l’interprétation des données d’images.",
+          "meta": "425 votes · 556 commentaires"
+        },
+        {
+          "title": "Age verification is just a precursor to automated attribution of speech",
+          "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+          "summary": "Les processus de vérification de l'âge mis en œuvre sur les plateformes numériques constituent la première étape de la transition vers des systèmes d'attribution automatique permettant d'associer le contenu sur Internet à l'identité. Cette infrastructure technique suscite des discussions sur la manière dont les concepts de liberté d'expression et d'anonymat en ligne seront façonnés par les futures réglementations juridiques.",
+          "meta": "409 votes · 220 commentaires"
+        },
+        {
+          "title": "Professor denounces mass AI fraud on an exam at Brown",
+          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+          "summary": "Un professeur de l’Université Brown attire l’attention sur les violations de l’intégrité académique causées par l’utilisation massive de l’IA générative lors des examens. Cette situation oblige les établissements d’enseignement à reconsidérer leurs méthodes d’évaluation contre la tricherie assistée par l’IA.",
+          "meta": "396 votes · 525 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "GPU",
+      "explanation": "Un processeur informatique spécial capable d’effectuer très rapidement des opérations mathématiques intensives telles que le traitement d’images et les calculs d’intelligence artificielle."
+    },
+    {
+      "term": "voice to text",
+      "explanation": "Technologie qui détecte les mots que vous prononcez et les convertit en texte écrit dans un environnement numérique."
+    },
+    {
+      "term": "system design",
+      "explanation": "Processus de planification du fonctionnement d'un logiciel à grande échelle, de la manière dont les pièces communiqueront entre elles et de la manière dont les données seront stockées."
+    },
+    {
+      "term": "AI security tool",
+      "explanation": "Logiciel qui protège les systèmes d'intelligence artificielle contre les attaques externes, la saisie incorrecte de données ou l'utilisation malveillante."
+    }
+  ]
+}

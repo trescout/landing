@@ -1,0 +1,93 @@
+{
+  "date": "2026-07-07",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video est un outil Python qui donne au modèle Claude la possibilité d'analyser le contenu vidéo. En téléchargeant des vidéos, en les divisant en images et en les convertissant en texte (transcription), le logiciel amène les données visuelles dans un format que le modèle d'intelligence artificielle peut traiter.",
+          "meta": "Python · ★ 4 554 · +427 aujourd'hui"
+        },
+        {
+          "title": "karakeep-app/karakeep",
+          "url": "https://github.com/karakeep-app/karakeep",
+          "summary": "Karakeep est une application de gestion de contenu auto-hébergée qui collecte des liens, des notes et des images dans un seul centre. Il facilite les processus d'archivage numérique grâce à des fonctionnalités de marquage automatique et de recherche en texte intégral basées sur l'intelligence artificielle.",
+          "meta": "TypeScript · ★ 27 033 · +199 aujourd'hui"
+        },
+        {
+          "title": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "summary": "Awesome lists propose des collections organisées de ressources sur une variété de sujets dans le monde du développement logiciel et de la technologie. Ce référentiel fonctionne comme un répertoire complet qui rassemble les meilleurs outils, bibliothèques et matériels d'apprentissage de différents domaines.",
+          "meta": "★ 482 524 · +345 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Resetting Xbox",
+          "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+          "summary": "Microsoft se lance dans une restructuration massive du logiciel de la console et de l'interface utilisateur dans le but de moderniser l'écosystème Xbox. Cette mise à jour vise à améliorer l'expérience de magasin numérique de la plateforme et l'efficacité des performances à l'échelle du système.",
+          "meta": "585 votes · 594 commentaires"
+        },
+        {
+          "title": "OpenWrt One – Open Hardware Router",
+          "url": "https://openwrt.org/toh/openwrt/one",
+          "summary": "OpenWrt One est un projet de routeur conçu avec des principes de matériel ouvert. L'appareil, qui reçoit un support logiciel directement de la communauté OpenWrt, vise à donner aux utilisateurs un contrôle total sur leur matériel réseau.",
+          "meta": "558 votes · 220 commentaires"
+        },
+        {
+          "title": "CoMaps – FOSS Offline Maps",
+          "url": "https://www.comaps.app/",
+          "summary": "CoMaps est une application cartographique open source (FOSS) qui ne nécessite pas de connexion Internet. Il permet aux utilisateurs de protéger la confidentialité des données et de naviguer sans suivi de localisation en téléchargeant des cartes hors ligne sur leurs appareils.",
+          "meta": "479 votes · 94 commentaires"
+        },
+        {
+          "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+          "url": "https://github.com/MaximeRivest/Riddle",
+          "summary": "Le projet Fable transforme le bloc-notes numérique reMarkable en journal intime de Tom Riddle dans l'univers Harry Potter, offrant aux utilisateurs une expérience de jeu interactive basée sur du texte. Le logiciel crée une interface narrative basée sur l'intelligence artificielle à l'aide des entrées à l'écran et au stylet de l'appareil.",
+          "meta": "385 votes · 207 commentaires"
+        },
+        {
+          "title": "A global workspace in language models",
+          "url": "https://www.anthropic.com/research/global-workspace",
+          "summary": "Les chercheurs anthropiques appliquent la théorie de l’espace de travail global pour comprendre les processus internes des modèles de langage. Cette méthode vise à rendre transparente la manière dont les modèles effectuent des tâches complexes en combinant différentes informations.",
+          "meta": "348 votes · 127 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Développé par Tencent, Hy3 est un modèle de langage optimisé pour les processus de génération de texte. Le modèle vise à effectuer une variété de tâches de traitement du langage naturel en étant formé sur des ensembles de données à grande échelle.",
+          "meta": "♥ 374 · 2 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "transcription",
+      "explanation": "Conversion de conversations dans des enregistrements audio ou vidéo en texte."
+    },
+    {
+      "term": "self-hostable",
+      "explanation": "La possibilité d'exécuter un logiciel sur votre propre ordinateur ou serveur au lieu de l'externaliser."
+    },
+    {
+      "term": "automatic tagging",
+      "explanation": "Étiquetage automatique des fichiers ou des données par le système en regardant leur contenu."
+    },
+    {
+      "term": "full text search",
+      "explanation": "Trouver l'information recherchée en scannant tous les mots d'un document."
+    }
+  ]
+}

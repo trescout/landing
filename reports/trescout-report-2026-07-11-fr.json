@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-11",
+  "editorial": "Dans l'agenda technologique actuel, les ensembles de compétences développés pour les agents logiciels autonomes (agents IA) et les outils axés sur les performances au niveau du système se démarquent. Les données actuelles sur GitHub montrent que les développeurs se concentrent à la fois sur l'optimisation de l'exécution des applications et sur l'automatisation des flux de travail basés sur des modèles.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "summary": "DesktopCommanderMCP est un serveur Model Context Protocol développé pour Claude qui fournit des capacités de contrôle de terminal, de recherche de système de fichiers et d'édition de fichiers différentiels au modèle d'intelligence artificielle. Cet outil permet aux agents IA d'opérer directement sur les systèmes de fichiers locaux.",
+          "meta": "TypeScript · ★ 7 453 · +328 aujourd'hui"
+        },
+        {
+          "title": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "summary": "Bun est un outil hautes performances qui combine le runtime JavaScript, le gestionnaire de packages, l'exécuteur de tests et le packager sous un même toit. Développée avec le langage Rust, cette plateforme offre une infrastructure intégrée pour accélérer les processus de développement logiciel.",
+          "meta": "Rust · ★ 94 374 · +209 aujourd'hui"
+        },
+        {
+          "title": "abseil/abseil-cpp",
+          "url": "https://github.com/abseil/abseil-cpp",
+          "summary": "Développé par Google, Abseil propose des extraits de code open source qui complètent la bibliothèque standard C++. Cette bibliothèque fournit des structures de données et des algorithmes de base pour améliorer la maintenabilité et les performances du code dans les projets logiciels complexes.",
+          "meta": "C++ · ★ 17 545 · +89 aujourd'hui"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Développé par Addy Osmani, agent-skills offre des compétences d'ingénierie au niveau de la production pour les agents de codage d'intelligence artificielle. Cette bibliothèque permet aux agents basés sur JavaScript d'effectuer des tâches logicielles complexes de manière plus fiable.",
+          "meta": "JavaScript · ★ 76 967 · +1 116 aujourd'hui"
+        },
+        {
+          "title": "jbeder/yaml-cpp",
+          "url": "https://github.com/jbeder/yaml-cpp",
+          "summary": "yaml-cpp est une bibliothèque pour le langage de programmation C++ qui analyse et émet des données au format YAML. Il permet aux développeurs de logiciels de gérer les fichiers de configuration et d'effectuer des opérations de sérialisation des données.",
+          "meta": "C++ · ★ 6 101 · +69 aujourd'hui"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Ce référentiel, partagé par Matt Pocock, contient des invites et des fichiers de configuration préparés pour permettre aux ingénieurs logiciels d'utiliser plus efficacement les outils d'intelligence artificielle tels que Claude. Grâce à ces packages de compétences prêts à l'emploi, les développeurs standardisent leurs flux de travail en automatisant les tâches de codage complexes.",
+          "meta": "Shell · ★ 164 906 · +1 712 aujourd'hui"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers propose un cadre de compétences agentiques et une méthodologie de développement logiciel pour les agents d'intelligence artificielle. Cet outil est conçu pour configurer des flux de travail basés sur des agents et standardiser les processus opérationnels.",
+          "meta": "Shell · ★ 251 949 · +1 013 aujourd'hui"
+        },
+        {
+          "title": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "summary": "TypeScript, un sur-ensemble du langage JavaScript, permet de vérifier les erreurs lors de la phase de compilation du code. Il prend en charge des processus de développement logiciel plus fiables et évolutifs grâce à sa fonction de typage statique.",
+          "meta": "TypeScript · ★ 109 817 · +177 aujourd'hui"
+        },
+        {
+          "title": "catchorg/Catch2",
+          "url": "https://github.com/catchorg/Catch2",
+          "summary": "Catch2 est un framework de tests unitaires moderne qui prend en charge C++14 et versions ultérieures. Il est conçu pour prendre en charge les pratiques de développement piloté par les tests (TDD) et de développement piloté par le comportement (BDD) dans les processus de développement logiciel.",
+          "meta": "C++ · ★ 20 636 · +76 aujourd'hui"
+        },
+        {
+          "title": "chriskohlhoff/asio",
+          "url": "https://github.com/chriskohlhoff/asio",
+          "summary": "Asio est une bibliothèque C++ développée pour les opérations d'E/S asynchrones. Il fournit une passerelle portable (abstraction réseau) pour la programmation réseau et les tâches système de bas niveau.",
+          "meta": "C++ · ★ 6 090 · +92 aujourd'hui"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory offre une prise en charge native de la mémoire à long terme pour les agents d'intelligence artificielle (agents IA) sans dépendance à l'interface de programmation d'applications (API) externe. Utilisant une structure de pipeline progressif en quatre étapes, cet outil permet de traiter et de stocker les données localement.",
+          "meta": "TypeScript · ★ 8 308 · +123 aujourd'hui"
+        },
+        {
+          "title": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "summary": "Les modèles Claude Code fournissent une interface de ligne de commande (CLI) pour l'outil Claude Code qui simplifie la configuration et la surveillance. Cet outil basé sur Python standardise le contrôle des développeurs sur l'assistant de codage et la gestion des flux de travail.",
+          "meta": "Python · ★ 28 812 · +118 aujourd'hui"
+        },
+        {
+          "title": "zeux/meshoptimizer",
+          "url": "https://github.com/zeux/meshoptimizer",
+          "summary": "La bibliothèque Meshoptimizer optimise les données de maillage tridimensionnel, réduisant ainsi la taille des fichiers et augmentant les performances de rendu. Développé en C++, cet outil organise les données géométriques pour améliorer l'utilisation de la mémoire dans les applications graphiques.",
+          "meta": "C++ · ★ 8 045 · +91 aujourd'hui"
+        },
+        {
+          "title": "tailscale/tailscale",
+          "url": "https://github.com/tailscale/tailscale",
+          "summary": "Tailscale facilite l'établissement de connexions réseau sécurisées en combinant le protocole WireGuard avec une authentification à deux facteurs. Développé avec le langage Go, cet outil permet une communication cryptée entre appareils sans avoir besoin de configurations réseau complexes.",
+          "meta": "Go · ★ 33 734 · +143 aujourd'hui"
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "Développée par Google Labs, Stitch Skills est une bibliothèque de compétences d'agent conçue pour fonctionner avec le serveur Stitch MCP. Suivant des normes ouvertes, cette bibliothèque vise à standardiser les flux de travail pour les agents de codage tels que Gemini CLI et Cursor.",
+          "meta": "TypeScript · ★ 6 814 · +117 aujourd'hui"
+        },
+        {
+          "title": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "summary": "OfficeCLI est un logiciel bureautique open source développé pour les agents d'intelligence artificielle permettant de lire, éditer et automatiser des fichiers Word, Excel et PowerPoint. Ce fichier exécutable unique (unique binaire), qui ne nécessite pas l'installation de Microsoft Office, a été créé en langage C#.",
+          "meta": "C# · ★ 14 593 · +1 224 aujourd'hui"
+        },
+        {
+          "title": "hashicorp/terraform",
+          "url": "https://github.com/hashicorp/terraform",
+          "summary": "Développé par HashiCorp, Terraform définit l'infrastructure comme du code, permettant de la créer de manière sûre et prévisible. Écrit en langage Go, cet outil convertit les interfaces de programmation d'application (API) en fichiers de configuration déclaratifs, permettant aux équipes de gérer les processus d'infrastructure sous contrôle de version.",
+          "meta": "Go · ★ 49 219 · +172 aujourd'hui"
+        },
+        {
+          "title": "grpc/grpc",
+          "url": "https://github.com/grpc/grpc",
+          "summary": "gRPC est un framework d'appel de procédure à distance open source qui fournit une communication haute performance entre différents langages de programmation. Grâce à son infrastructure basée sur C++, il permet le développement de services réseau évolutifs pour des langages tels que Python, Ruby, C# et PHP.",
+          "meta": "C++ · ★ 45 162 · +78 aujourd'hui"
+        },
+        {
+          "title": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "summary": "Next.js est un framework utilisé pour développer des applications Web basées sur React et fournit des fonctionnalités telles que le rendu côté serveur et la génération de sites statiques. Il devient un choix courant parmi les développeurs car il offre des optimisations axées sur les performances et des solutions d'infrastructure évolutives dans les projets Web modernes.",
+          "meta": "JavaScript · ★ 140 777 · +191 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+          "summary": "Apple a intenté une action en justice, alléguant que ses anciens employés avaient volé des secrets commerciaux au sein de l'entreprise et les avaient partagés avec OpenAI. La procédure judiciaire en question a donné lieu à des discussions sur la protection des droits de propriété intellectuelle dans les processus de développement de l'intelligence artificielle.",
+          "meta": "852 votes · 423 commentaires"
+        },
+        {
+          "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+          "url": "https://github.com/JustVugg/colibri",
+          "summary": "Le projet Colibri optimise le modèle GLM 5.2 afin que de grands modèles de langage puissent être exécutés sur des ordinateurs bas de gamme. Ces travaux permettent d’utiliser efficacement des modèles d’intelligence artificielle performants dans les systèmes locaux.",
+          "meta": "843 votes · 208 commentaires"
+        },
+        {
+          "title": "QuadRF can spot drones and see WiFi through my wall",
+          "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+          "summary": "QuadRF peut détecter les signaux de réseau sans fil et les véhicules aériens sans pilote (drones) derrière les murs à l'aide de la technologie de détection par radiofréquence. L'appareil propose un système de suivi qui visualise la mobilité au-delà des barrières physiques en analysant les ondes électromagnétiques de l'environnement.",
+          "meta": "523 votes · 184 commentaires"
+        },
+        {
+          "title": "New York City to ban deceptive subscription practices",
+          "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+          "summary": "La ville de New York promulgue de nouvelles réglementations interdisant les processus d'annulation d'abonnement et les pratiques de renouvellement automatique qui induisent les consommateurs en erreur. Cette étape juridique nécessite que les procédures d'annulation soient aussi simples et transparentes que le processus d'adhésion.",
+          "meta": "487 votes · 238 commentaires"
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "summary": "Le modèle GPT-5.6 Sol Ultra a annoncé qu'il prouvait la conjecture du cycle double couverture, qui n'a pas été résolue depuis longtemps dans le monde mathématique. Cette étude démontre la compétence des grands modèles de langage dans des processus de preuve mathématiques complexes.",
+          "meta": "412 votes · 322 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Développé par Tencent, Hy3 est un modèle de langage optimisé pour les tâches de génération de texte. Le modèle vise à augmenter les performances de divers processus de traitement du langage naturel en s'entraînant sur des ensembles de données à grande échelle.",
+          "meta": "♥ 677 · 6 923 téléchargements"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Le modèle Qwythos-9B-Claude-Mythos-5-1M est un modèle image-texte-texte qui produit une sortie texte en traitant des données visuelles et textuelles. Le modèle offre la possibilité de combiner différents types de données dans un seul flux de travail avec une large prise en charge de fenêtres contextuelles.",
+          "meta": "♥ 1 985 · 1 909 705 téléchargements"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, publié par Zai-org, est un modèle de langage optimisé pour les tâches de génération de texte. Ce modèle, qui a suscité un grand intérêt sur la plateforme Hugging Face, vise à améliorer les capacités de création de contenu dans les processus de traitement du langage naturel.",
+          "meta": "♥ 3 795 · 392 655 téléchargements"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, développé par InternScience, est un modèle d'intelligence artificielle optimisé pour les tâches de génération de texte. Ce modèle fournit une infrastructure de traitement linguistique de base dans le processus de développement de systèmes basés sur des agents capables d'effectuer des tâches complexes.",
+          "meta": "♥ 476 · 25 772 téléchargements"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Développé par Baidu, Unlimited-OCR est un modèle image-texte qui produit une sortie de texte en traitant des textes basés sur des images. Le modèle est conçu pour optimiser le processus de conversion des données de documents complexes au format numérique.",
+          "meta": "♥ 1 922 · 1 319 683 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "terminal control",
+      "explanation": "Méthodes utilisées pour gérer l'écran de ligne de commande de l'ordinateur et y organiser le flux de texte."
+    },
+    {
+      "term": "diff file editing",
+      "explanation": "Une méthode d'édition qui détecte les différences entre l'ancienne et la nouvelle version d'un fichier et met à jour uniquement les parties modifiées."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "La règle de connexion qui permet aux modèles d'IA de communiquer avec différentes sources de données de manière sécurisée et standard."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Moment où un programme écrit est exécuté sur l'ordinateur et l'infrastructure qui gère ce processus."
+    },
+    {
+      "term": "code snippets",
+      "explanation": "Petits morceaux de code fonctionnels prédéfinis pour être utilisés dans un projet plus vaste."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Capacité à résoudre des problèmes complexes par étapes logiques, à concevoir des systèmes et à utiliser efficacement les outils techniques."
+    },
+    {
+      "term": "parser",
+      "explanation": "Un outil qui divise les données complexes écrites de manière à ce que l'ordinateur puisse les comprendre en petits morceaux que le programme peut traiter."
+    },
+    {
+      "term": "emitter",
+      "explanation": "Mécanisme qui convertit les données ou le code traités dans un format de sortie qu'un autre programme peut utiliser."
+    },
+    {
+      "term": "serialization",
+      "explanation": "Processus de conversion de structures de données complexes en une chaîne de texte brut pouvant être enregistrée dans un fichier ou envoyée sur Internet."
+    },
+    {
+      "term": "prompt",
+      "explanation": "Instruction écrite ou question posée à une intelligence artificielle pour obtenir un résultat spécifique."
+    },
+    {
+      "term": "skills",
+      "explanation": "Capacités techniques ou pratiques pour effectuer un travail selon un certain niveau et efficacité."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "L'ensemble des capacités et de l'état de fonctionnement qui permettent aux systèmes d'intelligence artificielle de prendre des décisions et d'accomplir des tâches par eux-mêmes."
+    },
+    {
+      "term": "superset",
+      "explanation": "Une structure plus complète qui couvre toutes les fonctionnalités d'un système existant et ajoute de nouvelles fonctionnalités."
+    },
+    {
+      "term": "static typing",
+      "explanation": "Règle selon laquelle les types de données dans le programme sont déterminés avec précision au stade de l'écriture avant l'exécution du code."
+    },
+    {
+      "term": "unit testing",
+      "explanation": "Processus de test automatisé qui vérifie si les plus petites parties du logiciel fonctionnent comme prévu."
+    },
+    {
+      "term": "TDD",
+      "explanation": "Une méthode de développement basée sur la préparation d'abord du test du code à écrire puis sur l'écriture de suffisamment de code pour réussir ce test."
+    }
+  ]
+}

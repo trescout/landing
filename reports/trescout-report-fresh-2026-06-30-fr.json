@@ -1,0 +1,113 @@
+{
+  "date": "2026-06-30",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "logto-io/logto",
+          "url": "https://github.com/logto-io/logto",
+          "summary": "Logto propose une infrastructure d'authentification et d'autorisation basée sur les protocoles Open Authentication (OIDC) et OAuth 2.1 pour les applications SaaS et d'intelligence artificielle. Il combine des fonctionnalités telles que la multilocation, l'authentification unique (SSO) et le contrôle d'accès basé sur les rôles (RBAC) dans une structure développée avec TypeScript.",
+          "meta": "TypeScript · ★ 12 903 · +158 aujourd'hui"
+        },
+        {
+          "title": "Unclecheng-li/VulnClaw",
+          "url": "https://github.com/Unclecheng-li/VulnClaw",
+          "summary": "VulnClaw automatise les processus de tests d'intrusion à l'aide d'agents IA et de la chaîne d'outils Model Context Protocol. L'outil traite les commandes en langage naturel et effectue des étapes de collecte d'informations de bout en bout, d'analyse des vulnérabilités, d'exploitation et de reporting.",
+          "meta": "Python · ★ 1 313 · +129 aujourd'hui"
+        },
+        {
+          "title": "0xNyk/council-of-high-intelligence",
+          "url": "https://github.com/0xNyk/council-of-high-intelligence",
+          "summary": "Le Conseil de la Haute Intelligence mène des processus décisionnels structurés par l'intermédiaire de diverses personnalités expertes utilisant différents grands modèles linguistiques. Le système combine les perspectives de différents modèles d'intelligence artificielle en analysant des problèmes complexes au travers de discussions en plusieurs tours.",
+          "meta": "Shell · ★ 2 176 · +331 aujourd'hui"
+        },
+        {
+          "title": "veracrypt/VeraCrypt",
+          "url": "https://github.com/veracrypt/VeraCrypt",
+          "summary": "VeraCrypt est un outil de chiffrement de disque développé sur la base de TrueCrypt et offre des normes de sécurité strictes. Écrit en C, ce logiciel open source utilise divers algorithmes de cryptage et méthodes d'authentification pour sécuriser les données.",
+          "meta": "C · ★ 10 574 · +186 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Qwen 3.6 27B is the sweet spot for local development",
+          "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+          "summary": "Il est indiqué que le modèle Qwen 2.5 32B offre un équilibre idéal en termes de performances et d'utilisation des ressources dans les processus de développement local. Ce modèle est préféré pour les applications locales d’intelligence artificielle grâce à la relation efficace qu’il établit entre les exigences matérielles et la capacité de traitement.",
+          "meta": "886 votes · 600 commentaires"
+        },
+        {
+          "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+          "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+          "summary": "La condamnation à trente ans de prison de Daniel Sánchez Estrada pour distribution d'un magazine (zine) déclenche des débats juridiques sur la liberté d'expression. Cette décision risque de créer un précédent pour le partage de contenus numériques et imprimés, car les activités de distribution de radiodiffusion sont passibles de sanctions pénales.",
+          "meta": "539 votes · 331 commentaires"
+        },
+        {
+          "title": "US Supreme Court rules geofence warrants require constitutional protections",
+          "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+          "summary": "La Cour suprême des États-Unis a statué que les mandats de perquisition basés sur le géorepérage nécessitent une protection constitutionnelle. Cette décision empêche les forces de l'ordre de collecter toutes les données des utilisateurs dans une certaine zone dans le cadre des droits à la vie privée numérique.",
+          "meta": "516 votes · 243 commentaires"
+        },
+        {
+          "title": ".self: A new top-level domain designed to support self-hosting",
+          "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+          "summary": "Le domaine de premier niveau .self a été développé pour prendre en charge les processus d'auto-hébergement des utilisateurs sur leurs propres serveurs. Cette extension de domaine vise à garder les actifs numériques sous contrôle personnel dans une structure décentralisée.",
+          "meta": "486 votes · 276 commentaires"
+        },
+        {
+          "title": "Free the Icons",
+          "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+          "summary": "Apple introduit de nouveaux protocoles de sécurité qui restreignent la personnalisation des icônes d'application dans le système d'exploitation macOS. Les développeurs de logiciels affirment que ces restrictions limitent l’expérience utilisateur et les opportunités de personnalisation.",
+          "meta": "420 votes · 114 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "Ornith-1.0-35B-GGUF, publié par DeepReinforce, est un modèle de langage optimisé pour les tâches de génération de texte. Le modèle est présenté en le compressant au format général d'unité de traitement graphique (GGUF) afin d'utiliser efficacement les ressources matérielles.",
+          "meta": "♥ 492 · 123 598 téléchargements"
+        },
+        {
+          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+          "summary": "Qwen-AgentWorld-35B-A3B, développé par Qwen, est un modèle d'intelligence artificielle axé sur la génération de texte. Ce modèle fournit une architecture personnalisée pour effectuer des tâches basées sur des agents.",
+          "meta": "♥ 444 · 26 223 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Logiciel d'intelligence artificielle autonome capable de prendre des décisions de manière autonome et d'effectuer certaines tâches."
+    },
+    {
+      "term": "local",
+      "explanation": "Exécutez des données ou des programmes directement sur votre propre appareil sans avoir besoin d'Internet."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Un modèle d'utilisation du logiciel en le louant sur Internet au lieu de l'installer sur votre ordinateur."
+    },
+    {
+      "term": "OIDC",
+      "explanation": "Protocole standard qui vérifie en toute sécurité votre identité lors de la connexion à différents sites."
+    },
+    {
+      "term": "multi-tenancy",
+      "explanation": "Un logiciel unique au service de nombreux utilisateurs ou entreprises différents, indépendamment les uns des autres, en même temps."
+    },
+    {
+      "term": "SSO",
+      "explanation": "Facilité de connexion à plusieurs applications différentes avec un seul nom d'utilisateur et un seul mot de passe."
+    }
+  ]
+}

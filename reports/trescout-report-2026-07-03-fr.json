@@ -1,0 +1,249 @@
+{
+  "date": "2026-07-03",
+  "editorial": "Dans l'agenda technologique actuel, les agents logiciels autonomes et les outils d'infrastructure pour le développement de ces systèmes se démarquent. Les données GitHub montrent que les projets qui automatisent les processus complexes de gestion des tâches et de création d'ensembles de données gagnent du poids dans le cycle de vie du développement logiciel.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix est un outil de test d'intrusion open source basé sur l'intelligence artificielle, développé pour détecter et corriger les vulnérabilités de sécurité dans les applications. Cet outil, écrit en langage Python, vise à accélérer les processus d'analyse des vulnérabilités en automatisant la sécurité des logiciels.",
+          "meta": "Python · ★ 32 922 · +2 137 aujourd'hui"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman est un package de fonctionnalités développé pour Claude Code qui réduit la consommation de jetons de 65 % en simplifiant l'utilisation du langage du modèle d'intelligence artificielle. Cet outil vise à réduire les coûts de traitement en réduisant les commandes complexes à une structure de langage primitive.",
+          "meta": "JavaScript · ★ 81 688 · +926 aujourd'hui"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Le projet Agency-agents propose un workflow d'agence digitale de bout en bout en réunissant des agents d'intelligence artificielle avec différents domaines d'expertise. Il automatise des processus tels que le développement de logiciels, la production de contenu et la vérification via des agents spécialisés.",
+          "meta": "Shell · ★ 125 865 · +3 032 aujourd'hui"
+        },
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "Cet ensemble de données partagé par Hasan Eyldrm présente 433 exercices de fitness différents avec leurs noms, groupes musculaires cibles, équipement et instructions d'application. Cet ensemble de données complet, soutenu par du contenu visuel et vidéo, fournit une ressource structurée pour la formation de modèles d'intelligence artificielle axés sur la santé et le sport.",
+          "meta": "HTML · ★ 9 507 · +938 aujourd'hui"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "À l'aide de l'infrastructure Claude Code, Career-Ops automatise les processus de recherche d'emploi basés sur l'intelligence artificielle avec 14 modes de compétences différents. Le système combine des fonctions telles que le traitement par lots et la création de CV dans un seul centre via un panneau de contrôle basé sur Go.",
+          "meta": "JavaScript · ★ 58 110 · +372 aujourd'hui"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers propose un cadre et une méthodologie qui combinent des processus de développement logiciel avec des compétences basées sur des agents. Cette structure crée un modèle de flux de travail standardisé pour automatiser des tâches logicielles complexes.",
+          "meta": "Shell · ★ 244 789 · +897 aujourd'hui"
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "Développé pour Chrome DevTools, ce serveur permet aux agents de codage d'intelligence artificielle de gérer les processus de débogage basés sur le navigateur. Fonctionnant via le Model Context Protocol, cet outil permet aux agents d'inspecter directement les applications Web et d'automatiser les processus de débogage.",
+          "meta": "TypeScript · ★ 45 204 · +104 aujourd'hui"
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "La bibliothèque d'utilisation vidéo est un outil Python qui permet aux agents de codage d'automatiser les processus de montage vidéo. Grâce à cette structure, les développeurs peuvent effectuer des opérations de montage vidéo complexes à l'aide de commandes programmatiques.",
+          "meta": "Python · ★ 13 993 · +554 aujourd'hui"
+        },
+        {
+          "title": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "summary": "Développé par GitHub, actions/checkout est un outil qui automatise les processus d'extraction de référentiel dans les processus de développement logiciel. L'intégration continue permet de transférer le code source vers l'environnement de travail dans des workflows.",
+          "meta": "TypeScript · ★ 8 197 · +26 aujourd'hui"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC propose un système qui optimise les compétences, la mémoire et les couches de sécurité pour les outils de codage d'intelligence artificielle tels que Claude Code et Cursor. Conçue pour augmenter les performances des agents dans les processus de développement logiciel, cette structure adopte une approche de développement orientée recherche.",
+          "meta": "JavaScript · ★ 225 355 · +486 aujourd'hui"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading est un agent commercial personnel qui utilise de grands modèles de langage pour prendre des décisions commerciales sur les marchés financiers. Le projet vise à exécuter des stratégies de trading automatique pour le compte de l'utilisateur en analysant les données de marché.",
+          "meta": "Python · ★ 17 496 · +939 aujourd'hui"
+        },
+        {
+          "title": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "summary": "Agent Skills est un projet de spécification technique et de documentation qui standardise les compétences utilisées par les agents d'intelligence artificielle dans l'exécution de leurs tâches. Cette structure basée sur Python vise à faciliter le partage de capacités et l'interopérabilité entre différents systèmes d'agents.",
+          "meta": "Python · ★ 21 721 · +86 aujourd'hui"
+        },
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "Développé par OpenAI, le plugin Codex est utilisé sur Claude Code pour automatiser les processus de révision de code et assurer la délégation de tâches. Cet outil permet l'intégration de différents modèles d'intelligence artificielle (grands modèles de langage) dans les workflows de développement logiciel.",
+          "meta": "JavaScript · ★ 22 800 · +352 aujourd'hui"
+        },
+        {
+          "title": "langflow-ai/langflow",
+          "url": "https://github.com/langflow-ai/langflow",
+          "summary": "Langflow est une plate-forme de développement basée sur Python qui offre une interface visuelle pour créer des agents et des flux de travail basés sur l'IA. Les utilisateurs peuvent concevoir et déployer des applications de modèle de langage complexes par glisser-déposer sans écrire de code.",
+          "meta": "Python · ★ 150 932 · +117 aujourd'hui"
+        },
+        {
+          "title": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "summary": "PyTorch est une bibliothèque d'apprentissage automatique qui offre une puissante accélération d'unité de traitement graphique (GPU) pour les calculs tensoriels basés sur Python et les réseaux de neurones dynamiques. Il fournit un large soutien écosystémique dans le développement et le déploiement de modèles d’apprentissage profond.",
+          "meta": "Python · ★ 101 297 · +65 aujourd'hui"
+        },
+        {
+          "title": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "summary": "Cette ressource, partagée par l'Université Harvard, propose un guide technique complet sur les systèmes d'apprentissage automatique. Combinant des couches matérielles et logicielles, cette étude aborde les processus de conception d'infrastructures d'intelligence artificielle évolutives.",
+          "meta": "Python · ★ 25 784 · +68 aujourd'hui"
+        },
+        {
+          "title": "ryanmcdermott/clean-code-javascript",
+          "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+          "summary": "Ce guide, qui adapte les principes du code propre au langage JavaScript, propose des normes pour écrire du code lisible et maintenable dans les processus de développement logiciel. Il combine les principes de programmation orientée objet et de programmation fonctionnelle avec des exemples pratiques.",
+          "meta": "JavaScript · ★ 94 633 · +27 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Virginia bans sale of geolocation data",
+          "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+          "summary": "L'État de Virginie a adopté une nouvelle réglementation interdisant la commercialisation et la vente de données de localisation personnelles. Cette mesure juridique limite les activités des courtiers en données tiers afin de protéger la vie privée numérique des consommateurs.",
+          "meta": "692 votes · 117 commentaires"
+        },
+        {
+          "title": "PeerTube is a free, decentralized and federated video platform",
+          "url": "https://github.com/Chocobozzz/PeerTube",
+          "summary": "PeerTube est une plateforme open source qui offre une alternative aux services d'hébergement vidéo avec sa structure décentralisée et fédérée. Il vise à répartir la charge de bande passante et à accroître le contrôle des utilisateurs sur le contenu en utilisant des protocoles P2P (peer-to-peer).",
+          "meta": "592 votes · 274 commentaires"
+        },
+        {
+          "title": "Podman v6.0.0",
+          "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+          "summary": "Podman v6.0.0 offre des performances accrues et une prise en charge étendue des API dans les processus de gestion des conteneurs. La nouvelle version fournit une infrastructure plus stable et des outils de débogage avancés pour les flux de travail cloud natifs.",
+          "meta": "478 votes · 188 commentaires"
+        },
+        {
+          "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+          "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+          "summary": "Avec Linux 6.9, la fonction LUKS, qui permet de supprimer les clés de chiffrement du disque de la mémoire lors d'une suspension, a été désactivée. Cela rend les appareils vulnérables aux attaques de mémoire physique lorsqu'ils sont en mode veille.",
+          "meta": "440 votes · 197 commentaires"
+        },
+        {
+          "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+          "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+          "summary": "Le succès de la Suisse en matière d'accès à l'infrastructure Internet à haut débit repose sur les investissements dans les infrastructures fournis par les gouvernements locaux et sur des réglementations orientées vers le public, plutôt que sur la libre concurrence du marché. Cette situation remet en question l’efficacité des arguments du libre marché dans le secteur des télécommunications concernant l’accès au haut débit.",
+          "meta": "348 votes · 219 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B est un modèle d'intelligence artificielle multimodal qui produit du texte en traitant des données visuelles et textuelles. Le modèle offre la possibilité d'analyser de grands ensembles de données avec une capacité de 1 million de fenêtres contextuelles.",
+          "meta": "♥ 1 285 · 1 250 562 téléchargements"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR, développé par Baidu, est un modèle qui effectue des opérations de reconnaissance de texte basées sur des images (image-text-to-text). Il offre une capacité de traitement en convertissant les données de documents complexes au format texte.",
+          "meta": "♥ 1 661 · 758 489 téléchargements"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, développé par Zai-org, est un modèle de langage conçu pour les tâches de génération de texte. Ce modèle, disponible sur la plateforme HuggingFace, est optimisé pour être utilisé dans les processus de création de contenu.",
+          "meta": "♥ 3 277 · 176 154 téléchargements"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "Ornith-1.0-35B, publié par DeepReinforce-AI, est un modèle de langage axé sur la génération de texte. Le modèle est présenté au format GGUF pour effectuer des tâches complexes avec un nombre élevé de paramètres.",
+          "meta": "♥ 663 · 284 585 téléchargements"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "summary": "Ornith-1.0-9B, développé par DeepReinforce-AI, est un modèle de langage optimisé pour les tâches de génération de texte. Le modèle est présenté au format GGUF, qui permet une utilisation portable et efficace.",
+          "meta": "♥ 400 · 255 123 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "penetration testing",
+      "explanation": "Une étude d'infiltration contrôlée qui permet de trouver des vulnérabilités dans la sécurité d'un système en utilisant les méthodes des cyber-attaquants."
+    },
+    {
+      "term": "token",
+      "explanation": "Plus petite unité de données correspondant à des parties de mots ou de syllabes que l'intelligence artificielle utilise lors du traitement de textes."
+    },
+    {
+      "term": "agentic skills",
+      "explanation": "La capacité de l’intelligence artificielle à planifier, utiliser des outils et prendre des décisions pour atteindre un objectif donné."
+    },
+    {
+      "term": "Chrome DevTools",
+      "explanation": "Un outil de développement intégré au navigateur Web qui permet d'examiner le code des sites Web et de corriger les erreurs."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Programmes d'intelligence artificielle autonomes capables d'écrire du code, de déboguer et de gérer des projets en agissant comme un programmeur."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Une méthode de connexion qui permet aux modèles d'intelligence artificielle de communiquer avec différentes sources de données de manière sécurisée et standard."
+    },
+    {
+      "term": "repository checkout",
+      "explanation": "Processus de copie de tous les fichiers d'un projet logiciel d'un serveur central vers votre ordinateur."
+    },
+    {
+      "term": "continuous integration",
+      "explanation": "Il s'agit d'un processus qui permet de détecter rapidement les erreurs en combinant et en testant automatiquement les codes écrits par les développeurs de logiciels."
+    },
+    {
+      "term": "skills",
+      "explanation": "Capacités spéciales ou ensembles d'outils que les modèles d'IA utilisent pour effectuer une tâche spécifique."
+    },
+    {
+      "term": "memory",
+      "explanation": "Espace de stockage de données qui permet à l'intelligence artificielle de se souvenir des conversations ou transactions passées et de les utiliser dans les étapes suivantes."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "interoperability",
+      "explanation": "Capacité de différents systèmes ou logiciels à échanger des données de manière transparente entre eux."
+    },
+    {
+      "term": "dynamic neural networks",
+      "explanation": "Des architectures d’intelligence artificielle flexibles qui peuvent changer instantanément de structure en fonction du type de données traitées."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Un processeur spécial qui effectue très rapidement et en même temps des opérations mathématiques complexes telles que le traitement d’images et les calculs d’intelligence artificielle."
+    },
+    {
+      "term": "machine learning systems",
+      "explanation": "Des systèmes informatiques qui apprennent par eux-mêmes en analysant les données et peuvent faire des prédictions plus précises au fil du temps."
+    },
+    {
+      "term": "clean code",
+      "explanation": "Une structure de code claire, simple et sans erreur qui peut être facilement lue par d'autres développeurs de logiciels."
+    }
+  ]
+}

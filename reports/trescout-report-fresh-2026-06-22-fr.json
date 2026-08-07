@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-22",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "Soutenu par de grands modèles linguistiques, ce système analyse les données de marché multi-sources et les actualités en temps réel et propose des panneaux visualisés pour les décisions d'investissement. Il standardise les processus d'analyse pour différents échanges avec des notifications automatiques et une assistance gratuite aux études programmées.",
+          "meta": "Python · ★ 45 304 · +568 aujourd'hui"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "Développé par ByteDance, Deer-Flow est un framework de superagent open source conçu pour effectuer des tâches de longue durée. Système; Il peut rechercher et coder de manière autonome des flux de travail complexes à l'aide d'un bac à sable, d'une gestion de la mémoire et de sous-agents.",
+          "meta": "Python · ★ 72 905 · +442 aujourd'hui"
+        },
+        {
+          "title": "mikumifa/biliTickerBuy",
+          "url": "https://github.com/mikumifa/biliTickerBuy",
+          "summary": "Cet outil basé sur Python qui automatise les processus d'achat d'adhésion à Bilibili est un assistant d'achat de billets conçu pour accélérer les processus d'achat de billets. Il permet aux utilisateurs de récupérer plus rapidement des produits en stock limité sur la plate-forme.",
+          "meta": "Python · ★ 3 782 · +67 aujourd'hui"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot est un outil Python qui automatise la collecte de renseignements open source (OSINT) pour les processus de renseignement sur les menaces et de cartographie des surfaces d'attaque. Il permet de détecter les failles de sécurité sur les actifs numériques en intégrant diverses sources de données.",
+          "meta": "Python · ★ 18 921 · +294 aujourd'hui"
+        },
+        {
+          "title": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "summary": "Cognee est une plateforme open source qui fournit une mémoire à long terme entre les sessions aux agents d'intelligence artificielle. Il permet aux agents de stocker et de récupérer des données de manière structurée, à l'aide d'un moteur de graphe de connaissances auto-hébergé.",
+          "meta": "Python · ★ 18 871 · +347 aujourd'hui"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Le référentiel system_prompts_leaks partagé sur GitHub rassemble les invites système des modèles d'intelligence artificielle de grandes entreprises technologiques telles qu'Anthropic, OpenAI, Google et xAI. Cette collection constitue une ressource centrale pour les développeurs qui souhaitent examiner les instructions de configuration en arrière-plan et les contraintes des modèles de langage courants.",
+          "meta": "JavaScript · ★ 44 809 · +282 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Identity verification on Claude",
+          "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+          "summary": "Anthropic introduit un processus de vérification d'identité pour augmenter les mesures de sécurité sur la plateforme Claude. Cette application oblige les utilisateurs à sécuriser leur compte et à vérifier l'accès à la plateforme en téléchargeant leurs documents officiels.",
+          "meta": "749 votes · 620 commentaires"
+        },
+        {
+          "title": "Did my old job only exist because of fraud?",
+          "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+          "summary": "Il est avancé que le faux trafic et les interactions artificielles dans les processus de développement de logiciels constituent la principale motivation pour la survie de certains postes. Cela révèle que les mesures de productivité et les descriptions de poste dans le secteur technologique peuvent être basées sur des indicateurs trompeurs plutôt que sur une production de valeur réelle.",
+          "meta": "551 votes · 236 commentaires"
+        },
+        {
+          "title": "Prefer duplication over the wrong abstraction (2016)",
+          "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+          "summary": "Préférer la répétition du code plutôt qu’une mauvaise abstraction dans le processus de développement logiciel permet de préserver la flexibilité du système. Éviter les généralisations inutiles permet à la base de code de s'adapter plus facilement aux changements nécessaires à l'avenir.",
+          "meta": "485 votes · 316 commentaires"
+        },
+        {
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
+          "url": "https://apertvs.ai/",
+          "summary": "Apertus est une plateforme de modèles de base open source qui permet aux pays de créer des modèles entraînables avec leurs propres données. Conformément à sa vision d’une IA souveraine, elle vise à développer des systèmes d’intelligence artificielle transparents et auditables pouvant fonctionner sur des infrastructures locales.",
+          "meta": "375 votes · 127 commentaires"
+        },
+        {
+          "title": "Deno Desktop",
+          "url": "https://docs.deno.com/runtime/desktop/",
+          "summary": "Deno Desktop permet aux développeurs de créer des applications de bureau natives à l'aide du runtime Deno. Cet outil offre un cadre d'application qui simplifie le processus de développement de logiciels de bureau avec les technologies Web.",
+          "meta": "349 votes · 144 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Ce modèle de génération de texte basé sur Gemma-4-12B offre une configuration spéciale optimisée pour les tâches basées sur des agents. Le modèle, publié au format GGUF, offre une expérience d'inférence efficace qui peut être exécutée sur des appareils locaux.",
+          "meta": "♥ 317 · 50 314 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "SuperAgent",
+      "explanation": "Assistant d'intelligence artificielle avancé capable de gérer plusieurs tâches simultanément et de résoudre des opérations complexes."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Une zone fermée qui vous permet de tester les programmes en toute sécurité en les isolant du système principal."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Une structure de données qui affiche les relations entre les informations sous forme de points interconnectés."
+    },
+    {
+      "term": "ticket purchasing assistant",
+      "explanation": "Un assistant numérique qui recherche des billets et effectue des achats au nom de l'utilisateur."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Une méthode de collecte et d'analyse d'informations provenant de sources accessibles au public sur Internet."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "L’intelligence artificielle stocke pendant longtemps les informations et les expériences passées et s’en souvient en cas de besoin."
+    },
+    {
+      "term": "knowledge graph engine",
+      "explanation": "Infrastructure logicielle qui établit des connexions complexes entre les informations et permet de les interroger."
+    }
+  ]
+}

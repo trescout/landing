@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-23",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "likec4/likec4",
+          "url": "https://github.com/likec4/likec4",
+          "summary": "Likec4 est un outil qui visualise l'architecture logicielle directement à partir du code source et permet la création de diagrammes en direct. Il vise la continuité de la documentation technique à travers des schémas architecturaux mis à jour simultanément avec la base de code.",
+          "meta": "TypeScript · ★ 4 419 · +80 aujourd'hui"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos est un modèle de base développé pour analyser le langage unique des marchés financiers. Il propose une architecture spécialisée pour donner un sens à la dynamique du marché en analysant la structure complexe des données financières.",
+          "meta": "Python · ★ 32 705 · +137 aujourd'hui",
+          "returning": true
+        },
+        {
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "Organisé par ComposioHQ, Awesome-claude-skills rassemble des outils et des ressources pour personnaliser les flux de travail Claude AI. Cette liste permet aux développeurs de créer plus facilement des packs de compétences pour Claude et de les intégrer dans des projets existants.",
+          "meta": "Python · ★ 68 956 · +163 aujourd'hui"
+        },
+        {
+          "title": "dreamhunter2333/cloudflare_temp_email",
+          "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+          "summary": "Cet outil, qui permet de créer un service de messagerie temporaire gratuit à l'aide de l'infrastructure Cloudflare, prend en charge l'envoi et la réception d'e-mails. Le projet offre des fonctionnalités telles que la gestion des pièces jointes, les protocoles IMAP et SMTP et l'intégration du robot Telegram.",
+          "meta": "TypeScript · ★ 10 884 · +68 aujourd'hui"
+        },
+        {
+          "title": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "summary": "Développé avec le langage de programmation Rust, Pumpkin propose une infrastructure open source qui vise à héberger les serveurs Minecraft plus rapidement et plus efficacement. Il vise à optimiser les processus de gestion des serveurs grâce à sa sécurité de la mémoire et à sa structure axée sur les hautes performances.",
+          "meta": "Rust · ★ 8 562 · +108 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+          "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "summary": "Le mathématicien Terence Tao évalue le processus de résolution en analysant le contre-exemple de la conjecture jacobienne avec ChatGPT. Cette discussion examine la capacité de l'intelligence artificielle à vérifier et à résoudre des problèmes mathématiques complexes d'un point de vue académique.",
+          "meta": "766 votes · 455 commentaires"
+        },
+        {
+          "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+          "url": "https://bento.page/slides/",
+          "summary": "Bento est un outil qui vous permet de modifier, d'afficher et de collaborer sur l'intégralité du fichier de présentation au sein d'un seul document HTML. Cette plateforme, qui utilise des technologies Web frontales, vise à accélérer le flux de travail en éliminant le besoin d'édition manuelle dans les processus de préparation de présentation basés sur du code.",
+          "meta": "751 votes · 168 commentaires"
+        },
+        {
+          "title": "John C. Dvorak has died",
+          "url": "https://twitter.com/na_announce/status/2079952538040672302",
+          "summary": "L'écrivain et critique technologique John C. Dvorak est décédé. Grâce à sa longue carrière de journaliste informatique, il a touché un large lectorat du secteur.",
+          "meta": "687 votes · 220 commentaires"
+        },
+        {
+          "title": "Are AI labs pelicanmaxxing?",
+          "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+          "summary": "Les laboratoires d'intelligence artificielle suivent une stratégie appelée maximisation du pélican (pelicanmaxxing) en utilisant largement les données publiques d'Internet dans leurs processus de collecte de données. Cette approche vise à consommer sans discernement tout le contenu sur Internet pour élargir les ensembles de données utilisés dans les modèles de formation.",
+          "meta": "468 votes · 181 commentaires"
+        },
+        {
+          "title": "GigaToken: ~1000x faster Language model tokenization",
+          "url": "https://github.com/marcelroed/gigatoken/",
+          "summary": "GigaToken est une bibliothèque qui accélère d'environ 1 000 fois le processus de tokenisation utilisé dans les modèles de langage par rapport aux méthodes traditionnelles. Cette technologie utilise une structure d'indexation optimisée pour réduire le coût de calcul lié au traitement de grands ensembles de données.",
+          "meta": "448 votes · 95 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Développé par Poolside, Laguna-S-2.1 est un modèle de langage optimisé pour les tâches de génération de texte. Le modèle prend en charge divers processus de création de contenu grâce à ses capacités étendues de traitement du langage.",
+          "meta": "♥ 420 · 3 056 téléchargements"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Le modèle Qwen3.6-27B-Fable-Fusion est un modèle d'intelligence artificielle qui produit une sortie texte (image-texte-texte) en traitant des données visuelles et textuelles. Le modèle propose une architecture personnalisée dans laquelle différents ensembles de données sont combinés avec sa structure non censurée.",
+          "meta": "♥ 340 · 62 842 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skill",
+      "explanation": "Capacités spéciales que les appareils intelligents ou les logiciels peuvent exécuter avec une commande spécifique."
+    },
+    {
+      "term": "diagrams",
+      "explanation": "Des dessins simples qui montrent comment fonctionne un système ou comment les pièces sont connectées entre elles."
+    },
+    {
+      "term": "token",
+      "explanation": "La plus petite donnée correspondant à des mots ou des syllabes que l’intelligence artificielle utilise lors du traitement des textes."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "La structure de base de l’intelligence artificielle qui s’entraîne avec de très grands ensembles de données et sur laquelle de nombreuses applications différentes peuvent être développées."
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-23",
+  "editorial": "Le traitement d’images open source et les modèles audio génératifs suscitent aujourd’hui une attention intense dans l’écosystème des développeurs. Les compétences en intelligence artificielle axées sur la cybersécurité et les outils de gestion de PDF font également partie des tendances croissantes sur GitHub.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage est un système open source basé sur un agent qui transforme les assistants de codage basés sur l'IA en un studio de production vidéo complet. Cette plateforme basée sur Python automatise les processus de production vidéo avec 12 flux de travail différents, 52 outils et plus de 500 compétences d'agents.",
+          "meta": "Python · ★ 13 255 · +2 938 aujourd'hui"
+        },
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro est une application d'édition vidéo développée pour le système d'exploitation macOS qui intègre des outils d'édition pris en charge par l'intelligence artificielle. Écrit en Swift, cet outil vise à combiner des flux de travail basés sur l'intelligence artificielle avec l'expérience de bureau native.",
+          "meta": "Swift · ★ 7 875 · +2 463 aujourd'hui"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox est un studio vocal d'intelligence artificielle open source qui permet aux utilisateurs d'effectuer du clonage vocal, de la dictée et de la production vocale. Développée avec le langage TypeScript, cette plateforme offre des outils accessibles aux producteurs de contenus en combinant les processus de traitement audio dans un seul centre.",
+          "meta": "TypeScript · ★ 32 634 · +529 aujourd'hui"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Anthropic-Cybersecurity-Skills offre 817 capacités (compétences) structurées pour les agents d'IA qui sont compatibles avec six cadres de cybersécurité différents. Cette bibliothèque permet de standardiser les workflows axés sur la sécurité sur plus de 20 plateformes telles que Claude Code et GitHub Copilot.",
+          "meta": "Python · ★ 19 034 · +956 aujourd'hui"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot est un outil de conception open source développé pour renforcer la collaboration entre les concepteurs et les développeurs de logiciels. Grâce à son interface vectorielle, il permet de gérer les processus de conception de manière intégrée avec la phase de développement du code.",
+          "meta": "Clojure · ★ 53 054 · +728 aujourd'hui"
+        },
+        {
+          "title": "Stirling-Tools/Stirling-PDF",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "summary": "Stirling-PDF, kullanıcıların PDF dosyaları üzerinde her cihazda düzenleme yapmasına olanak tanıyan açık kaynaklı bir belge işleme aracıdır. TypeScript ile geliştirilen bu uygulama, yerel sunucularda çalışarak doküman yönetimi süreçlerini merkezileştirir.",
+          "meta": "TypeScript · ★ 83 316 · +547 aujourd'hui"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Gstack est un système basé sur la configuration Claude Code de Garry Tan et se compose de 23 outils spécialisés qui jouent différents rôles tels que PDG, concepteur, responsable de l'ingénierie. Cette structure basée sur TypeScript propose des flux de travail définis pour automatiser les processus de développement logiciel.",
+          "meta": "TypeScript · ★ 113 462 · +573 aujourd'hui"
+        },
+        {
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "summary": "Développé par Heygen, Hyperframes propose un framework qui convertit les codes HTML directement en vidéo. Conçu pour permettre aux agents d'intelligence artificielle de produire plus facilement du contenu visuel, cet outil convertit les interfaces Web au format vidéo.",
+          "meta": "TypeScript · ★ 30 297 · +395 aujourd'hui"
+        },
+        {
+          "title": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "summary": "Turso est une solution de base de données en cours compatible avec SQLite. Cette technologie, développée avec le langage Rust, vise à assurer une gestion des données à faible latence dans les environnements informatiques de pointe.",
+          "meta": "Rust · ★ 21 657 · +540 aujourd'hui"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "Développé par ByteDance, Deer-Flow est un framework de superagent open source conçu pour effectuer des tâches de longue durée. Système; Le bac à sable gère de manière autonome des flux de travail complexes d'une durée de quelques minutes ou heures à l'aide de la mémoire, des outils et des sous-agents.",
+          "meta": "Python · ★ 73 535 · +738 aujourd'hui"
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp offre une intelligence de code haute performance en indexant les bases de code sur un graphe de connaissances permanent. Développé en langage C, l'outil prend en charge 158 langages de programmation, réduit les temps de requête à moins de millisecondes et réduit l'utilisation des jetons.",
+          "meta": "C · ★ 12 032 · +1 185 aujourd'hui"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "Ce système, développé par ZhuLinsen, est un outil automatique de suivi boursier qui analyse plusieurs données de marché et l'actualité à l'aide de grands modèles linguistiques. Ce logiciel basé sur Python propose des rapports de marché réguliers à coût nul, grâce à son panneau d'aide à la décision et ses fonctionnalités de notification automatique.",
+          "meta": "Python · ★ 46 256 · +1 557 aujourd'hui"
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl propose une interface (API) pour explorer les données des sites Web à grande échelle, les extraire et les convertir dans un format de texte clair que les modèles d'IA peuvent traiter. Cet outil simplifie les processus de collecte de données en automatisant l'interaction avec le contenu Web.",
+          "meta": "TypeScript · ★ 137 683 · +615 aujourd'hui"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "Le cloneur de sites Web à intelligence artificielle (AI website cloner), développé par JCodesMore, permet de copier des sites Web existants avec une seule commande à l'aide d'agents de codage basés sur TypeScript. Cet outil utilise la génération de code basée sur l'IA pour automatiser les processus de conception et de développement Web.",
+          "meta": "TypeScript · ★ 18 039 · +100 aujourd'hui"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM permet d'exécuter de grands modèles de langage avec 70 milliards de paramètres sur des unités de traitement graphique (GPU) avec seulement 4 Go de mémoire. Cette bibliothèque permet d'inférer des modèles haute capacité avec de faibles ressources matérielles en utilisant des techniques d'optimisation de la mémoire.",
+          "meta": "Jupyter Notebook · ★ 21 167 · +193 aujourd'hui"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Ce référentiel, partagé par Matt Pocock, rassemble des packages de compétences personnalisés que les développeurs de logiciels utilisent dans l'environnement Claude. Il propose une bibliothèque de scripts prêts à l'emploi permettant aux développeurs d'automatiser et de standardiser les flux de travail pris en charge par l'IA.",
+          "meta": "Shell · ★ 142 361 · +2 051 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Steam Machine launches today",
+          "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+          "summary": "Valve a lancé Steam Machine, une nouvelle plate-forme matérielle qui amène la bibliothèque de jeux dans le salon. L'appareil vise à offrir une expérience de jeu avec une interface de type console via un système d'exploitation spécial (SteamOS).",
+          "meta": "1 491 votes · 1 307 commentaires"
+        },
+        {
+          "title": "Help I accidentally a wigglegram",
+          "url": "https://lmao.center/blog/wiggle-accidents/",
+          "summary": "Wigglegram est une technique d'illusion de perception de la profondeur (effet stéréoscopique) créée en jouant deux ou plusieurs photographies en succession rapide. Cette méthode vise à créer une impression de profondeur tridimensionnelle en ajoutant du mouvement aux images statiques.",
+          "meta": "526 votes · 122 commentaires"
+        },
+        {
+          "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+          "url": "https://ipvm.com/reports/police-chiefs-track",
+          "summary": "La reconnaissance automatique des plaques d'immatriculation fournie par Flock Safety déclenche des débats sur la sécurité et la confidentialité, car les chefs de police l'utilisent pour suivre les femmes à des fins personnelles. Cette situation met à l'ordre du jour la nécessité d'un mandat de perquisition légal pour le contrôle des technologies de surveillance.",
+          "meta": "490 votes · 200 commentaires"
+        },
+        {
+          "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+          "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+          "summary": "Le gouvernement canadien prévoit une stratégie de renaissance nucléaire qui vise à augmenter la capacité de production d'énergie en construisant jusqu'à dix nouveaux réacteurs nucléaires d'ici 2040. Cette initiative représente les efforts du pays pour étendre son infrastructure d'énergie nucléaire afin d'atteindre ses objectifs en matière d'énergie propre.",
+          "meta": "443 votes · 293 commentaires"
+        },
+        {
+          "title": "GLM-5.2 – How to Run Locally",
+          "url": "https://unsloth.ai/docs/models/glm-5.2",
+          "summary": "La plate-forme Unsloth propose les méthodes d'optimisation et les étapes d'installation nécessaires pour exécuter le modèle GLM-5.2 sur des ordinateurs locaux. Ce guide détaille les processus techniques visant à exécuter des modèles de langage hautes performances avec des exigences matérielles inférieures.",
+          "meta": "340 votes · 147 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, développé par Zai-org, est un modèle de langage optimisé pour les tâches de génération de texte. Avec sa structure open source, il est conçu pour être utilisé dans différentes applications de traitement du langage naturel.",
+          "meta": "♥ 2 077 · 33 589 téléchargements"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma-4-12B-coder-fable5-composer2.5-v1 est proposé sous forme de modèle de génération de texte optimisé pour les processus de développement logiciel. Grâce au format GGUF, le modèle fournit une inférence locale sur différentes configurations matérielles.",
+          "meta": "♥ 2 188 · 414 734 téléchargements"
+        },
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "summary": "VibeThinker-3B, développé par WeiboAI, est un modèle de langage compact axé sur la génération de texte. Grâce à sa structure de 3 milliards de paramètres, il offre une efficacité dans les tâches de création de texte avec de faibles coûts de calcul.",
+          "meta": "♥ 623 · 32 385 téléchargements"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF, partagé sur HuggingFace, est un modèle optimisé pour les processus de génération de texte. Le modèle propose une structure compressée au format GGUF pour fonctionner sur des appareils à faibles ressources.",
+          "meta": "♥ 399 · 50 314 téléchargements"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Développé par Baidu, Unlimited-OCR est un modèle d'image en texte qui convertit le texte basé sur une image en données texte. Cette technologie, développée pour numériser les données de documents complexes, vise une grande précision dans les processus de reconnaissance optique de caractères.",
+          "meta": "♥ 261 · 47 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agentic system",
+      "explanation": "Des systèmes logiciels autonomes capables de prendre des décisions par eux-mêmes et de planifier les étapes nécessaires pour atteindre les objectifs."
+    },
+    {
+      "term": "pipeline",
+      "explanation": "Une série d'étapes interconnectées à travers lesquelles les données sont traitées jusqu'à ce qu'elles deviennent un résultat."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Capacités ou outils spéciaux que les logiciels d'IA utilisent pour effectuer des tâches spécifiques."
+    },
+    {
+      "term": "video editor",
+      "explanation": "Logiciel numérique qui vous permet d'éditer des fichiers image et audio en les coupant et en les combinant."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Une technologie qui prend la voix d'une personne comme exemple et vous fait dire de nouvelles phrases avec le ton de voix de cette personne."
+    },
+    {
+      "term": "skills",
+      "explanation": "Les spécialisations dont dispose un logiciel ou une intelligence artificielle pour effectuer un certain travail."
+    },
+    {
+      "term": "design tool",
+      "explanation": "Logiciel de dessin numérique qui vous aide à créer du contenu visuel, des graphiques ou des interfaces."
+    },
+    {
+      "term": "workflows",
+      "explanation": "Un ensemble d'étapes régulières et répétables qui doivent être suivies pour accomplir une tâche."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un cadre de base qui fournit des structures et des règles prêtes à l'emploi qui facilitent les choses lors du développement de logiciels."
+    },
+    {
+      "term": "in-process database",
+      "explanation": "Système de stockage de données léger qui s'exécute directement dans l'application sans avoir besoin d'un serveur séparé."
+    },
+    {
+      "term": "edge computing",
+      "explanation": "Traitement des données sur l'appareil lui-même ou en un point proche de la source, sans envoi au centre."
+    },
+    {
+      "term": "SuperAgent",
+      "explanation": "Assistant d'intelligence artificielle avancé capable de gérer plusieurs tâches simultanément et d'exécuter seul des processus complexes."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Zone de travail isolée où les nouveaux logiciels peuvent être testés en toute sécurité sans endommager le système principal."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Une structure de données qui présente les relations entre les informations en les connectant entre elles comme un réseau."
+    },
+    {
+      "term": "token",
+      "explanation": "La plus petite unité de données correspondant à des fragments de mots ou de syllabes que l'intelligence artificielle utilise lors du traitement des textes."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    }
+  ]
+}

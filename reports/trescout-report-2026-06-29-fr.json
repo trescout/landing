@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-29",
+  "editorial": "Dans l'agenda technologique actuel, les projets à haute profondeur technique tels que les protocoles de communication décentralisés et les systèmes de conduite autonome se démarquent. L'interaction d'outils axés sur les ressources des développeurs et la gestion de la mémoire de la base de code sur GitHub montre qu'un intérêt orienté vers l'infrastructure persiste.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "summary": "SimpleX propose une infrastructure de communication axée sur la confidentialité en tant que premier réseau de messagerie fonctionnant sans utiliser d'identifiants d'utilisateur. Cette plateforme, développée en langage Haskell, vise à garder les données des utilisateurs totalement anonymes grâce à sa structure décentralisée.",
+          "meta": "Haskell · ★ 15 704 · +1 180 aujourd'hui"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev propose une liste complète de fournisseurs de services (SaaS, PaaS, IaaS) qui proposent des niveaux gratuits pour les développeurs de logiciels et les experts en infrastructure. Cette ressource aide les développeurs à gérer les coûts et facilite l'accès aux outils basés sur le cloud.",
+          "meta": "HTML · ★ 126 084 · +495 aujourd'hui"
+        },
+        {
+          "title": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "summary": "Développé par Comma.ai, openpilot est un système d'exploitation open source conçu pour les systèmes robotiques. Le logiciel offre des capacités de conduite autonome en mettant à niveau les systèmes d'aide à la conduite dans plus de 300 modèles de véhicules.",
+          "meta": "Python · ★ 62 596 · +266 aujourd'hui"
+        },
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI-berkshire est un cadre multi-agents qui mène des recherches sur l'investissement de valeur à l'aide de l'infrastructure Claude Code et Codex. Il automatise les processus d'analyse financière basés sur les méthodologies d'investisseurs tels que Warren Buffett, Charlie Munger, Duan Yongping et Li Lu.",
+          "meta": "Python · ★ 6 056 · +1 445 aujourd'hui"
+        },
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "Lingbot-map est un modèle de base 3D à rétroaction conçu pour reconstruire des scènes à partir de données en streaming. Le projet optimise les processus de visualisation en traitant des données environnementales complexes, grâce à son architecture développée en langage Python.",
+          "meta": "Python · ★ 8 439 · +372 aujourd'hui"
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Développé par DeusData, codebase-memory-mcp offre une intelligence de code haute performance en indexant les bases de code sur un graphe de connaissances permanent. Écrit en langage C, ce serveur prend en charge 158 langages de programmation et réduit l'utilisation des jetons en effectuant des requêtes en millisecondes.",
+          "meta": "C · ★ 20 524 · +2 190 aujourd'hui"
+        },
+        {
+          "title": "cupy/cupy",
+          "url": "https://github.com/cupy/cupy",
+          "summary": "CuPy combine les interfaces de la bibliothèque de calcul numérique NumPy et SciPy avec l'accélération de l'unité de traitement graphique (GPU). Cette bibliothèque basée sur Python accélère les opérations mathématiques complexes à l'aide des cœurs CUDA.",
+          "meta": "Python · ★ 11 639 · +174 aujourd'hui"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice est une application voix-texte rapide qui fonctionne entièrement hors ligne sur le système d'exploitation macOS. Développé dans Swift, cet outil traite les données localement et offre une expérience de conversion audio axée sur la confidentialité.",
+          "meta": "Swift · ★ 3 995 · +365 aujourd'hui"
+        },
+        {
+          "title": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "summary": "MinerU est un outil qui convertit les documents PDF et bureautiques complexes au format markdown ou JSON adapté aux grands modèles de langage. Cette solution vise à rendre les données non structurées disponibles dans des workflows basés sur des agents.",
+          "meta": "Python · ★ 72 027 · +380 aujourd'hui"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading propose un agent d'intelligence artificielle (agent commercial) qui prend des décisions d'investissement personnelles en analysant les données des marchés financiers. Ce projet basé sur Python développe des stratégies de trading automatisées pour évaluer les tendances du marché.",
+          "meta": "Python · ★ 14 692 · +492 aujourd'hui"
+        },
+        {
+          "title": "ByteByteGoHq/system-design-101",
+          "url": "https://github.com/ByteByteGoHq/system-design-101",
+          "summary": "Le référentiel system-design-101 de ByteByteGoHq explique les architectures système complexes avec des visualisations et un langage simple. Il offre une ressource qui fait passer les concepts de conception de systèmes de base à avancés pour ceux qui se préparent à des entretiens en génie logiciel.",
+          "meta": "★ 84 839 · +250 aujourd'hui"
+        },
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix est un outil de sécurité open source basé sur l'intelligence artificielle (outil de sécurité AI) conçu pour détecter et corriger les vulnérabilités de sécurité dans les applications. Ce système, développé avec le langage Python, automatise les processus d'analyse et de correction des vulnérabilités dans les processus de développement logiciel.",
+          "meta": "Python · ★ 27 035 · +122 aujourd'hui"
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "La bibliothèque d'utilisation vidéo permet aux agents de codage d'automatiser les processus de montage vidéo. Cet outil basé sur Python accélère les flux de travail en effectuant des tâches d'édition visuelle via des commandes logicielles.",
+          "meta": "Python · ★ 11 471 · +196 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GLM 5.2 beats Claude in our benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+          "summary": "Les résultats des tests partagés par Semgrep montrent que le modèle GLM 5.2 surpasse les modèles Claude dans les benchmarks axés sur la cybersécurité. Le modèle présente des performances élevées dans les processus d'analyse de code et de détection des vulnérabilités de sécurité.",
+          "meta": "810 votes · 378 commentaires"
+        },
+        {
+          "title": "The KIDS Act would require age checks to get online",
+          "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+          "summary": "La loi sur la protection de la sécurité des enfants sur Internet (KIDS) prévoit d'introduire des systèmes obligatoires de vérification de l'âge pour l'accès aux plateformes en ligne. Cette réglementation remet en cause l'anonymat et la confidentialité des données sur Internet en obligeant les utilisateurs à prouver leur identité numérique.",
+          "meta": "469 votes · 368 commentaires"
+        },
+        {
+          "title": "I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "summary": "Les utilisateurs utilisent l'outil Claude Code, assistant de codage basé sur l'interface de ligne de commande (CLI), pour analyser les résultats d'imagerie médicale (IRM). Cette méthode popularise la pratique consistant à obtenir un deuxième avis soutenu par l’intelligence artificielle lors du traitement et de l’interprétation des données d’images.",
+          "meta": "425 votes · 556 commentaires"
+        },
+        {
+          "title": "Age verification is just a precursor to automated attribution of speech",
+          "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+          "summary": "Les processus de vérification de l'âge mis en œuvre sur les plateformes numériques constituent la première étape de la transition vers des systèmes d'attribution automatique permettant d'associer le contenu sur Internet à l'identité. Cette infrastructure technique suscite des discussions sur la manière dont les concepts de liberté d'expression et d'anonymat en ligne seront façonnés par les futures réglementations juridiques.",
+          "meta": "409 votes · 220 commentaires"
+        },
+        {
+          "title": "Professor denounces mass AI fraud on an exam at Brown",
+          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+          "summary": "Un professeur de l’Université Brown attire l’attention sur les violations de l’intégrité académique causées par l’utilisation massive de l’IA générative lors des examens. Cette situation oblige les établissements d’enseignement à reconsidérer leurs méthodes d’évaluation contre la tricherie assistée par l’IA.",
+          "meta": "396 votes · 525 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Développé par Baidu, Unlimited-OCR est un modèle de reconnaissance optique de caractères qui convertit les textes visuels en sortie texte. Il offre une capacité de conversion image en texte pour traiter les données dans des documents complexes.",
+          "meta": "♥ 1 288 · 295 064 téléchargements"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, développé par Zai-org, est un modèle de langage axé sur la génération de texte. Ce modèle, qui a suscité un grand intérêt sur la plateforme Hugging Face, offre une capacité de génération de texte dans des tâches de traitement du langage naturel.",
+          "meta": "♥ 2 861 · 118 651 téléchargements"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Le modèle Qwythos-9B-Claude-Mythos-5-1M est un modèle d'intelligence artificielle multimodale qui produit une sortie de texte en traitant les entrées visuelles et textuelles. Ce modèle, présenté au format GGUF, se démarque par sa faible consommation mémoire, optimisée pour fonctionner sur des appareils locaux.",
+          "meta": "♥ 845 · 831 529 téléchargements"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Ce modèle basé sur Gemma-4-12B offre une structure optimisée pour une utilisation dans les tâches de génération de texte. Ce travail, présenté au format GGUF, vise à prendre en charge des workflows basés sur des agents pouvant être exécutés sur des appareils locaux.",
+          "meta": "♥ 814 · 225 822 téléchargements"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "summary": "Qwythos-9B, développé par Empero-ai, est un modèle de langage axé sur la génération de texte. Ce modèle avec 9 milliards de paramètres est utilisé dans des processus de création de contenu complexes avec une large prise en charge de fenêtres contextuelles.",
+          "meta": "♥ 534 · 52 492 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "user identifiers",
+      "explanation": "Numéros d'utilisateur ou codes uniques qui permettent de vous distinguer des autres sur une application ou un site Web."
+    },
+    {
+      "term": "free tier",
+      "explanation": "Niveau d'entrée d'un service ou d'une application que les utilisateurs peuvent utiliser gratuitement jusqu'à certaines limites."
+    },
+    {
+      "term": "driver assistance system",
+      "explanation": "Un équipement technologique qui assiste le conducteur avec des fonctionnalités telles que le suivi de voie ou le freinage automatique pour augmenter la sécurité pendant la conduite."
+    },
+    {
+      "term": "value investing",
+      "explanation": "Une méthode d’achat d’actions dont vous pensez que le prix est inférieur à leur valeur réelle, dans le but d’obtenir un gain à long terme."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "La collaboration de plusieurs logiciels d'intelligence artificielle qui communiquent et collaborent entre eux pour accomplir une tâche complexe."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Système dans lequel les données sont organisées de manière significative en reliant les relations entre différentes informations et en les présentant dans une structure de réseau."
+    },
+    {
+      "term": "token",
+      "explanation": "La plus petite donnée, l'équivalent numérique de mots ou de syllabes, que les modèles d'intelligence artificielle utilisent lors du traitement de textes."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Un processeur informatique spécial capable d’effectuer très rapidement des opérations mathématiques intensives telles que le traitement d’images et les calculs d’intelligence artificielle."
+    },
+    {
+      "term": "voice to text",
+      "explanation": "Technologie qui détecte les mots que vous prononcez et les convertit en texte écrit dans un environnement numérique."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "markdown",
+      "explanation": "Un langage d'écriture léger pour formater des textes avec des symboles simples sans utiliser de codes complexes."
+    },
+    {
+      "term": "agentic workflows",
+      "explanation": "Processus de travail dans lesquels un logiciel d'intelligence artificielle prend ses propres décisions et gère les étapes de manière séquentielle pour terminer un travail."
+    },
+    {
+      "term": "trading agent",
+      "explanation": "Logiciel qui analyse les données de marché en votre nom et négocie automatiquement sur les marchés boursiers ou de crypto-monnaie."
+    },
+    {
+      "term": "trading strategies",
+      "explanation": "Un ensemble de règles prédéfinies qui déterminent dans quelles conditions acheter ou vendre lors d'un investissement."
+    },
+    {
+      "term": "system design",
+      "explanation": "Processus de planification du fonctionnement d'un logiciel à grande échelle, de la manière dont les pièces communiqueront entre elles et de la manière dont les données seront stockées."
+    },
+    {
+      "term": "AI security tool",
+      "explanation": "Logiciel qui protège les systèmes d'intelligence artificielle contre les attaques externes, la saisie incorrecte de données ou l'utilisation malveillante."
+    }
+  ]
+}

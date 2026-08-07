@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-06",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "summary": "Cette sélection, préparée pour Claude Code, l'assistant de codage développé par Anthropic, rassemble des outils, plug-ins et packages de compétences qui accélèrent les processus de développement logiciel. Les ressources qui permettent aux développeurs d'intégrer plus facilement cet outil d'intelligence artificielle dans leurs projets se concentrent sur l'augmentation de la capacité d'automatisation.",
+          "meta": "Python · ★ 48 592 · +148 aujourd'hui"
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "La bibliothèque de compétences marketing développée pour Claude Code et les agents d'intelligence artificielle offre des capacités spécialisées dans des domaines tels que l'optimisation du taux de conversion (CRO), la rédaction, l'optimisation des moteurs de recherche (SEO), l'analyse et l'ingénierie de croissance. Cet ensemble d'outils permet aux modèles d'IA d'effectuer des tâches orientées marketing de manière plus professionnelle et basée sur les données.",
+          "meta": "JavaScript · ★ 36 679 · +145 aujourd'hui"
+        },
+        {
+          "title": "gastownhall/gastown",
+          "url": "https://github.com/gastownhall/gastown",
+          "summary": "Gas Town propose une infrastructure qui permet à différents agents d'intelligence artificielle de travailler ensemble en tant que gestionnaire d'espace de travail multi-agents. Développé avec le langage Go, cet outil centralise la coordination inter-agents et la gestion des ressources dans des workflows complexes.",
+          "meta": "Go · ★ 16 488 · +51 aujourd'hui"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar est un outil qui permet de visualiser les données d'utilisation d'OpenAI Codex et Claude Code sans nécessiter de connexion. Développée avec le langage Swift, cette application permet aux développeurs de suivre facilement les statistiques de consommation dans les outils de codage pris en charge par l'IA.",
+          "meta": "Swift · ★ 16 432 · +153 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Organic Maps",
+          "url": "https://organicmaps.app/",
+          "summary": "Organic Maps est une application de cartographie open source basée sur des données cartographiques hors ligne et donnant la priorité à la confidentialité des utilisateurs. L'application utilise les données OpenStreetMap, offrant des fonctionnalités de navigation et de recherche locale sans nécessiter de connexion Internet.",
+          "meta": "940 votes · 282 commentaires"
+        },
+        {
+          "title": "OpenPrinter",
+          "url": "https://www.opentools.studio/",
+          "summary": "OpenPrinter est un protocole d'impression open source qui offre une expérience d'impression indépendante du pilote pour différents modèles d'imprimantes. Il fournit une interface universelle qui communique directement avec les imprimantes du réseau, sans nécessiter l'installation de pilotes traditionnels.",
+          "meta": "795 votes · 192 commentaires"
+        },
+        {
+          "title": "It's not about physical vs. digital games, it's about ownership",
+          "url": "https://popcar.bearblog.dev/its-about-ownership/",
+          "summary": "Les discussions dans le monde du jeu numérique se concentrent sur la notion de propriété des utilisateurs plutôt que sur la distinction entre formats physiques et numériques. Le pouvoir des plateformes de restreindre l’accès aux jeux ouvre un nouveau débat juridique sur la permanence des contenus numériques et les droits des consommateurs.",
+          "meta": "449 votes · 339 commentaires"
+        },
+        {
+          "title": "The future of Flipper Zero development",
+          "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+          "summary": "Les développeurs de Flipper Zero visent à faciliter les contributions de la communauté en transformant l'écosystème logiciel de l'appareil en une architecture modulaire. Cette nouvelle approche envisage une transition vers un modèle de distribution basé sur les applications pour rendre le développement de micrologiciels plus durable.",
+          "meta": "307 votes · 125 commentaires"
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra will be in Codex",
+          "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+          "summary": "Il a été annoncé que le modèle GPT-5.6 Sol Ultra serait intégré au Codex, un outil de codage. Ce développement permet la mise à jour des capacités de complétion de code basées sur l'intelligence artificielle utilisées dans les processus de développement de logiciels.",
+          "meta": "249 votes · 177 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, développé par InternScience, est un modèle d'intelligence artificielle optimisé pour les tâches de génération de texte. Ce modèle est conçu pour prendre en charge l'exécution de logiques complexes et les flux de travail basés sur des agents.",
+          "meta": "♥ 311 · 7 010 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Capacités dont dispose un logiciel ou une intelligence artificielle pour effectuer une tâche spécifique."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Études réalisées pour augmenter le taux de personnes qui visitent un site Web et qui deviennent clients."
+    }
+  ]
+}

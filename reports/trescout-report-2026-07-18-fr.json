@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-18",
+  "editorial": "Avec la tendance à créer vos propres outils dans les processus de développement logiciel, les assistants de codage basés sur l’intelligence artificielle sont aujourd’hui à l’avant-garde. Les données actuelles sur GitHub montrent que les ressources mathématiques de base en informatique et les kits de développement d'applications (SDK) gagnent du terrain sur les bureaux des développeurs.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Le projet Build-your-own-x est un guide d'apprentissage qui vise à améliorer les compétences en programmation en codant des technologies logicielles populaires à partir de zéro. Les développeurs acquièrent une profondeur technique en créant étape par étape des systèmes complexes, tels qu'une base de données ou un système d'exploitation.",
+          "meta": "Markdown · ★ 527 611 · +1 068 aujourd'hui"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog combine des outils tels que l'observabilité de l'IA, l'enregistrement de sessions et le suivi des bugs sur une seule plateforme pour automatiser les processus de développement de produits. Grâce à ces outils, les développeurs peuvent analyser les données des utilisateurs et gérer les améliorations des produits directement via Slack ou Model Context Protocol.",
+          "meta": "Python · ★ 36 267 · +438 aujourd'hui"
+        },
+        {
+          "title": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "summary": "Maths-cs-ai-compendium propose une collection complète de ressources couvrant les mathématiques, l'informatique et l'intelligence artificielle pour les ingénieurs qui souhaitent se spécialiser dans l'intelligence artificielle et l'apprentissage automatique. Ce référentiel sert de programme d'études structuré pour renforcer les fondements théoriques et acquérir des compétences dans les processus d'ingénierie de recherche.",
+          "meta": "TypeScript · ★ 6 731 · +200 aujourd'hui"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Il s'agit d'un style de conception développé pour éviter le contenu standard (AI-slop) produit par des outils de codage basés sur l'intelligence artificielle tels que Hallmark, Claude Code, Cursor et Codex. Cette approche basée sur CSS vise à produire des conceptions plus uniques et plus orientées vers l'humain en réduisant la distinction des interfaces créées par l'intelligence artificielle.",
+          "meta": "CSS · ★ 12 247 · +1 485 aujourd'hui"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub a publié un kit de développement logiciel (SDK) multiplateforme qui permet aux développeurs d'intégrer les agents GitHub Copilot dans leurs propres applications et services. Cet outil permet aux développeurs d'intégrer directement des assistants basés sur l'IA dans leurs environnements de travail.",
+          "meta": "Java · ★ 9 826 · +233 aujourd'hui"
+        },
+        {
+          "title": "anthropics/cwc-workshops",
+          "url": "https://github.com/anthropics/cwc-workshops",
+          "summary": "Ces ateliers partagés par Anthropic montrent en pratique aux développeurs les processus de création d'agents d'intelligence artificielle capables d'être utilisés sur ordinateur. Les exemples basés sur TypeScript incluent des cadres techniques qui permettent aux modèles de gérer des tâches complexes en interagissant avec des interfaces à l'écran.",
+          "meta": "TypeScript · ★ 1 632 · +45 aujourd'hui"
+        },
+        {
+          "title": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "summary": "Bonsai-demo fournit des exemples d'application de la plateforme Bonsai développée pour l'optimisation des modèles d'apprentissage automatique. Cet outil, qui permet aux développeurs de tester le fonctionnement du système, vise à simplifier les processus de formation et de déploiement des modèles.",
+          "meta": "Shell · ★ 1 746 · +278 aujourd'hui"
+        },
+        {
+          "title": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "summary": "Développés par Google, les tampons de protocole sont un format d'échange de données indépendant du langage utilisé pour sérialiser des données structurées. Ce mécanisme permet un transfert de données binaires efficace et rapide dans la communication inter-systèmes.",
+          "meta": "C++ · ★ 71 559 · +11 aujourd'hui"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph analyse la base de code et crée une carte d'intelligence de code ciblée localement pour les outils d'intelligence artificielle. Cette structure rend les processus de révision de code basés sur l'intelligence artificielle plus efficaces en utilisant des méthodes de réduction de contexte dans les grands projets.",
+          "meta": "Python · ★ 19 852 · +74 aujourd'hui"
+        },
+        {
+          "title": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "summary": "DocuSeal propose une alternative open source pour créer, remplir et signer des documents numériques. Cette plateforme, développée avec le langage Ruby, offre une solution aux utilisateurs qui souhaitent gérer les processus de signature électronique (e-signature) dans leur propre infrastructure.",
+          "meta": "Ruby · ★ 17 916 · +91 aujourd'hui"
+        },
+        {
+          "title": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "summary": "Open Interpreter est un agent de codage qui exécute du code sur l'ordinateur à l'aide de modèles locaux et automatise les processus de développement de logiciels. Développé avec le langage Rust, cet outil offre la possibilité d'exécuter des commandes directement au niveau du système d'exploitation via des modèles open source.",
+          "meta": "Rust · ★ 66 480 · +431 aujourd'hui"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "Développé avec l'infrastructure TurboQuant, Turbovec propose un index vectoriel hautes performances écrit en langage Rust. Grâce aux liaisons Python, il permet une recherche et une indexation rapides dans les processus de traitement des données.",
+          "meta": "Python · ★ 13 393 · +280 aujourd'hui"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor est une plateforme de tutorat privé axée sur l'apprentissage tout au long de la vie qui personnalise constamment les processus d'apprentissage des utilisateurs. Le système vise à optimiser le développement des étudiants grâce à des modèles de tutorat basés sur l’intelligence artificielle qui s’adaptent aux besoins individuels.",
+          "meta": "Python · ★ 27 457 · +531 aujourd'hui"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut propose une alternative open source à CapCut pour les processus de montage vidéo. Cette plateforme, développée avec le langage TypeScript, vise à libérer l'accès des utilisateurs aux outils de montage vidéo.",
+          "meta": "TypeScript · ★ 75 036 · +1 074 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+          "url": "https://news.ycombinator.com/item?id=48945241",
+          "summary": "Les utilisateurs d'Amazon Web Services (AWS) rencontrent des données de facturation estimées inexactes dans leurs panneaux de facturation, atteignant des montants irréalistes pouvant atteindre des milliards de dollars. Le fournisseur de services cloud poursuit ses efforts pour résoudre le problème en émettant une notification de problème technique concernant cette erreur de données dans ses systèmes.",
+          "meta": "1 120 votes · 663 commentaires"
+        },
+        {
+          "title": "Thanks HN for 15 years of support and helping me find my life's work",
+          "url": "https://news.ycombinator.com/item?id=48949551",
+          "summary": "Recurse Center, une communauté éducative pour les développeurs de logiciels, fête son quinzième anniversaire. Au fil du temps, les entrepreneurs ont transformé leur projet, qui était au départ une plateforme orientée business, en un centre d'apprentissage orienté logiciel (retraite de programmation).",
+          "meta": "482 votes · 49 commentaires"
+        },
+        {
+          "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+          "summary": "Les infirmières de Kaiser Permanente affirment que les outils basés sur l'intelligence artificielle et les systèmes de surveillance du lieu de travail augmentent la charge de travail et réduisent la qualité des soins aux patients. Les salariés affirment que les processus de gestion algorithmiques limitent leurs capacités de prise de décision clinique et augmentent le stress professionnel.",
+          "meta": "432 votes · 283 commentaires"
+        },
+        {
+          "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+          "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+          "summary": "Pour la première fois, des astronomes ont découvert des traces d'atmosphère autour d'une exoplanète semblable à la Terre, située dans la zone habitable. Cette découverte sur la planète 55 Cancri e offre une nouvelle méthode pour étudier les structures atmosphériques des mondes rocheux.",
+          "meta": "415 votes · 251 commentaires"
+        },
+        {
+          "title": "The state of open source AI",
+          "url": "https://stateofopensource.ai/",
+          "summary": "L'écosystème de l'IA open source continue de se développer avec la disponibilité de pondérations de modèles et la diversification des outils de développement. Le rapport analyse les taux d'adoption de modèles transparents dans le secteur technologique et l'impact de l'innovation communautaire sur les normes de l'industrie.",
+          "meta": "406 votes · 296 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Développé par Thinking Machines, Inkling fonctionne comme un modèle image-texte-texte qui traite les données visuelles et textuelles et produit une sortie texte. Le modèle prend en charge les interactions des utilisateurs avec des réponses textuelles sur des ensembles de données multimodales.",
+          "meta": "♥ 975 · 7 870 téléchargements"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B est proposé sous forme de modèle de génération de texte optimisé avec la méthode de quantification ternaire. Cette technique vise à minimiser la perte de performances tout en réduisant l'utilisation de la mémoire du modèle.",
+          "meta": "♥ 687 · 200 774 téléchargements"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B, publié par Prism-ML, est un modèle de langage optimisé pour les tâches de génération de texte. Le modèle est présenté au format GGUF quantifié pour prendre en charge des processus d'inférence hautes performances.",
+          "meta": "♥ 403 · 1 045 182 téléchargements"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Le modèle Qwythos-9B-Claude-Mythos-5-1M est un modèle d'intelligence artificielle multimodale qui produit une sortie de texte en traitant des données visuelles et textuelles. Le modèle est optimisé pour l'analyse complexe d'images et de textes avec une large prise en charge de fenêtres contextuelles.",
+          "meta": "♥ 2 281 · 2 096 147 téléchargements"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, publié par Zai-org, est un modèle de langage optimisé pour les tâches de génération de texte. Ce modèle, qui a touché une large base d'utilisateurs sur HuggingFace, vise à améliorer les capacités de génération de texte dans les processus de traitement du langage naturel.",
+          "meta": "♥ 4 078 · 534 698 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI observability",
+      "explanation": "Un mécanisme de suivi qui vous permet de surveiller et de comprendre comment fonctionnent les systèmes d’intelligence artificielle, où ils commettent des erreurs et pourquoi ils donnent ces résultats."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Un langage de connexion commun qui permet aux modèles d'IA de communiquer avec différentes sources de données de manière sécurisée et standardisée."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Les ordinateurs analysent les données et établissent eux-mêmes des règles, produisant de meilleurs résultats à mesure qu’ils acquièrent de l’expérience."
+    },
+    {
+      "term": "AI-slop",
+      "explanation": "Des contenus de mauvaise qualité, bâclés et sans valeur produits par l’intelligence artificielle qui polluent souvent Internet."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Un ensemble d'outils et de bibliothèques prêts à l'emploi qui permettent aux développeurs de logiciels de développer plus facilement des applications pour une plate-forme ou un appareil spécifique."
+    },
+    {
+      "term": "computer use",
+      "explanation": "L'intelligence artificielle peut gérer les opérations sur l'écran de l'ordinateur en déplaçant la souris et en utilisant le clavier, tout comme un humain."
+    },
+    {
+      "term": "protocol buffers",
+      "explanation": "Méthode de transport de données utilisée par différents logiciels pour s'envoyer des données, qui regroupe les informations très rapidement et dans de petites tailles."
+    },
+    {
+      "term": "binary",
+      "explanation": "Langage machine le plus basique, composé uniquement de zéros et de uns, que le processeur de l'ordinateur comprend directement."
+    },
+    {
+      "term": "code intelligence graph",
+      "explanation": "Une carte détaillée montrant les relations de tous les fichiers et commandes dans un projet logiciel."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "Processus de synthèse des énormes informations fournies à l'intelligence artificielle en les purifiant des parties inutiles afin que le modèle fonctionne plus rapidement et avec plus de précision."
+    },
+    {
+      "term": "e-signature",
+      "explanation": "Une méthode de confirmation électronique avec fonction de vérification d’identité qui permet de signer légalement des documents numériques."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Logiciel d'intelligence artificielle autonome qui écrit les codes logiciels en votre nom, trouve les erreurs et développe les projets du début à la fin."
+    },
+    {
+      "term": "vector index",
+      "explanation": "Un index de recherche spécial qui permet à l'intelligence artificielle de trouver très rapidement les informations que vous recherchez en convertissant des données complexes en valeurs numériques."
+    },
+    {
+      "term": "bindings",
+      "explanation": "Des ponts sont établis pour que les bibliothèques écrites dans un langage de programmation puissent être utilisées dans un autre langage."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "L’intelligence artificielle continue de s’améliorer à mesure qu’elle apprend de nouvelles informations, sans oublier ses anciennes informations."
+    },
+    {
+      "term": "tutoring models",
+      "explanation": "Des systèmes d'intelligence artificielle qui expliquent les sujets étape par étape aux étudiants, répondent aux questions et fournissent un soutien pédagogique personnalisé."
+    }
+  ]
+}

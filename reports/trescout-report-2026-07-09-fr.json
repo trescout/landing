@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-09",
+  "editorial": "La recherche d'emploi basée sur l'intelligence artificielle et les compétences des agents autonomes sont aujourd'hui au centre de l'écosystème des développeurs. L'augmentation des projets open source, notamment axés sur les architectures de mémoire de bases de données et l'automatisation des flux de travail, est remarquable.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "Ce framework, qui utilise l'infrastructure Claude Code, est conçu pour automatiser le processus de recherche d'emploi. Intégré au profil utilisateur, le système évalue les offres d'emploi et gère les processus d'édition du CV, de préparation des lettres de motivation et de préparation aux entretiens.",
+          "meta": "TypeScript · ★ 16 216 · +5 079 aujourd'hui"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Développées pour les agents de codage d’intelligence artificielle, les compétences d’agent offrent des compétences d’ingénierie au niveau de la production. Cette bibliothèque fournit des fonctions standardisées permettant aux agents d'effectuer des tâches plus efficacement dans les processus de développement logiciel.",
+          "meta": "JavaScript · ★ 74 933 · +1 297 aujourd'hui"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView effectue des opérations d'intelligence spatiale en temps réel, de suivi des signes vitaux et de détection de présence sans données d'image à l'aide de signaux de réseau sans fil standard (WiFi). Cette technologie, développée avec le langage Rust, analyse les mouvements et les données biométriques de l'environnement sans avoir recours à aucun matériel de caméra.",
+          "meta": "Rust · ★ 79 373 · +799 aujourd'hui"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory offre une solution de mémoire à long terme entièrement locale pour les agents d'intelligence artificielle avec un processus en quatre étapes. Il effectue des opérations de stockage et de rappel de données sans avoir besoin d'interfaces de programmation d'applications (API) externes.",
+          "meta": "TypeScript · ★ 7 846 · +318 aujourd'hui"
+        },
+        {
+          "title": "prisma/prisma",
+          "url": "https://github.com/prisma/prisma",
+          "summary": "Prisma est un outil de mappage relationnel objet (ORM) qui simplifie les interactions de bases de données pour les projets Node.js et TypeScript. Sa structure, qui prend en charge différents systèmes de bases de données, permet aux développeurs de créer des requêtes de base de données de type sécurisé.",
+          "meta": "TypeScript · ★ 46 668 · +46 aujourd'hui"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill propose une compétence d'intelligence artificielle (compétence d'agent IA) qui analyse et synthétise les données actuelles sur des plateformes telles que Reddit, X, YouTube, Hacker News et Polymarket. Cet outil basé sur Python combine des informations provenant de différentes sources pour créer des résumés fondés sur des preuves pour les utilisateurs.",
+          "meta": "Python · ★ 50 980 · +352 aujourd'hui"
+        },
+        {
+          "title": "argoproj/argo-cd",
+          "url": "https://github.com/argoproj/argo-cd",
+          "summary": "Argo CD est un outil qui gère les processus de déploiement continu déclaratif pour les environnements Kubernetes. Il fournit des mises à jour automatiques sur l'infrastructure en synchronisant les états des applications avec les référentiels Git.",
+          "meta": "Go · ★ 23 488 · +29 aujourd'hui"
+        },
+        {
+          "title": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "summary": "OfficeCLI est une solution bureautique open source développée pour les agents d'intelligence artificielle afin de lire, modifier et automatiser directement les fichiers Word, Excel et PowerPoint. Il prend en charge les flux de travail basés sur des agents en travaillant sur un seul fichier binaire sans avoir besoin d'installer de logiciel bureautique.",
+          "meta": "C# · ★ 12 507 · +1 717 aujourd'hui"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Les invites système des principaux modèles de langage populaires sont compilées par les développeurs et collectées dans une base de données open source. Cette étude constitue un point de référence central pour comprendre les principes de fonctionnement et les limites des différents modèles d’intelligence artificielle.",
+          "meta": "JavaScript · ★ 54 528 · +1 218 aujourd'hui"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers propose une méthodologie de développement d'applications et un cadre de capacités pour les agents d'intelligence artificielle. Il vise à créer une structure de développement standard en combinant des processus logiciels avec des flux de travail basés sur des agents.",
+          "meta": "Shell · ★ 250 211 · +1 116 aujourd'hui"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Développé par Alibaba, zvec propose un service de base de données vectorielles hautes performances grâce à son principe de fonctionnement en cours. Cette structure légère, écrite en C++, fournit une solution optimisée pour les processus de traitement de données rapides.",
+          "meta": "C++ · ★ 14 545 · +395 aujourd'hui"
+        },
+        {
+          "title": "Diolinux/PhotoGIMP",
+          "url": "https://github.com/Diolinux/PhotoGIMP",
+          "summary": "PhotoGIMP propose un correctif qui rend l'interface GIMP familière aux utilisateurs de Photoshop. Cet outil adapte les raccourcis et la disposition des menus aux normes Photoshop pour faciliter la transition vers un logiciel de retouche d'images.",
+          "meta": "CSS · ★ 15 195 · +1 125 aujourd'hui"
+        },
+        {
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "summary": "DesktopCommanderMCP est un serveur Model Context Protocol développé pour Claude qui fournit des capacités de contrôle de terminal, de recherche de système de fichiers et d'édition de fichiers basées sur les différences au modèle d'intelligence artificielle. Écrit en TypeScript, cet outil permet à l'intelligence artificielle d'effectuer des opérations directes sur les systèmes de fichiers locaux.",
+          "meta": "TypeScript · ★ 6 436 · +28 aujourd'hui"
+        },
+        {
+          "title": "huxingyi/autoremesher",
+          "url": "https://github.com/huxingyi/autoremesher",
+          "summary": "Autoremesher est un outil qui convertit automatiquement les structures de surface irrégulières dans les modèles tridimensionnels en remaillage quadruple. Développé en langage C++, ce logiciel est optimisé pour réaliser des géométries complexes adaptées aux processus d'animation et de modélisation.",
+          "meta": "C++ · ★ 2 123 · +296 aujourd'hui"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Le projet Claude-video permet au modèle d'intelligence artificielle d'analyser le contenu vidéo grâce à un processus qui sépare les vidéos en images et convertit les enregistrements audio en texte. Cet outil basé sur Python traite les données visuelles et audio, permettant à Claude d'interroger des fichiers vidéo.",
+          "meta": "Python · ★ 6 270 · +951 aujourd'hui"
+        },
+        {
+          "title": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "summary": "Développé par TencentCloud dans Rust, CubeSandbox offre un environnement de travail (sandbox) instantané, simultané et sécurisé pour les agents d'intelligence artificielle. Grâce à son architecture légère, il permet d'opérer des agents en toute sécurité dans une zone isolée.",
+          "meta": "Rust · ★ 9 092 · +564 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+          "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+          "summary": "Le script bash obscurci sur un T-shirt vendu dans les magasins Uniqlo a été analysé par des passionnés de technologie et le fonctionnement des commandes qu'il contient a été révélé. Le script en question, avec sa structure d'auto-évaluation, fournit un exemple de codage numérique inattendu sur des produits de vente au détail.",
+          "meta": "1 361 votes · 213 commentaires"
+        },
+        {
+          "title": "Chatto is now open source",
+          "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+          "summary": "Chatto est une bibliothèque open source qui permet aux développeurs d'intégrer des interfaces de chat dans leurs applications. Grâce à sa structure basée sur des composants, il facilite la gestion des interactions des utilisateurs et la personnalisation des flux de messagerie.",
+          "meta": "928 votes · 241 commentaires"
+        },
+        {
+          "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+          "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+          "summary": "John Deere accorde aux propriétaires de matériel agricole le droit de réparer dans le cadre de l'accord avec la Federal Trade Commission (FTC). Cette disposition permet aux utilisateurs d'accéder à des outils logiciels et à une documentation technique qui leur permettent de réparer leurs équipements en dehors des services agréés.",
+          "meta": "696 votes · 131 commentaires"
+        },
+        {
+          "title": "GPT‑Live",
+          "url": "https://openai.com/index/introducing-gpt-live/",
+          "summary": "GPT-Live, introduit par OpenAI, permet aux utilisateurs d'établir une interaction vocale en temps réel avec des modèles d'intelligence artificielle. Cette fonctionnalité vise une expérience de dialogue naturelle et ininterrompue grâce à des capacités vocales à faible latence.",
+          "meta": "685 votes · 447 commentaires"
+        },
+        {
+          "title": "Grok 4.5",
+          "url": "https://x.ai/news/grok-4-5",
+          "summary": "Grok 4.5, développé par xAI, attire l'attention par ses capacités multimodales et ses capacités de raisonnement avancées. Le modèle vise à fournir des performances élevées dans les processus d'écriture et d'analyse de code en s'intégrant dans des outils de développement logiciel tels que Cursor.",
+          "meta": "590 votes · 801 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Le modèle Qwythos-9B-Claude-Mythos-5-1M est un modèle d'intelligence artificielle multimodale qui produit une sortie de texte en traitant les entrées visuelles et textuelles. Ce modèle, présenté au format GGUF, possède une architecture optimisée pour pouvoir être exécuté sur des appareils locaux.",
+          "meta": "♥ 1 879 · 1 683 711 téléchargements"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Développé par Tencent, Hy3 est un modèle de langage optimisé pour les tâches de génération de texte. Le modèle vise à fonctionner dans divers processus de traitement du langage naturel en s'entraînant sur des ensembles de données à grande échelle.",
+          "meta": "♥ 575 · 121 téléchargements"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, développé par Zai-org, est un modèle de langage optimisé pour les processus de génération de texte. Avec sa structure open source, il offre aux développeurs une infrastructure de génération de texte performante.",
+          "meta": "♥ 3 680 · 281 584 téléchargements"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Développé par Baidu, Unlimited-OCR est un modèle image-texte qui traite des textes visuels et produit une sortie texte. Le modèle est conçu pour analyser des textes dans des documents complexes avec une grande précision.",
+          "meta": "♥ 1 879 · 1 084 945 téléchargements"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, développé par InternScience, est un modèle de langage axé sur la génération de texte. Ce modèle fournit une infrastructure spécialement formée pour les agents d'intelligence artificielle (agents IA) capables d'effectuer des tâches complexes.",
+          "meta": "♥ 409 · 14 723 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Un ensemble de structures et de règles prêtes à l'emploi utilisées pour accélérer le travail lors du développement de logiciels."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Capacité à résoudre des problèmes complexes par étapes logiques et à utiliser efficacement les outils techniques."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "Technologie qui permet de se connecter à Internet via des ondes radio, sans utiliser de câbles."
+    },
+    {
+      "term": "presence detection",
+      "explanation": "Un système qui détecte s'il y a des personnes dans une pièce ou une zone à l'aide de capteurs."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "L’intelligence artificielle peut stocker longtemps des informations passées sans les oublier et les utiliser en cas de besoin."
+    },
+    {
+      "term": "API",
+      "explanation": "Un pont qui permet à deux logiciels différents de se parler et d'échanger des données."
+    },
+    {
+      "term": "ORM",
+      "explanation": "Un outil qui transforme les tables complexes de la base de données en objets que les développeurs de logiciels peuvent comprendre plus facilement."
+    },
+    {
+      "term": "type-safe",
+      "explanation": "Une structure qui détecte les erreurs avant qu'elles ne se produisent en empêchant l'utilisation du mauvais type de données dans le logiciel."
+    },
+    {
+      "term": "AI agent skill",
+      "explanation": "Capacité ou outil spécifique dont dispose l’intelligence artificielle pour effectuer une tâche spécifique."
+    },
+    {
+      "term": "declarative continuous deployment",
+      "explanation": "Définir l'apparence du système et déployer les mises à jour automatiquement et sans erreur."
+    },
+    {
+      "term": "office suite",
+      "explanation": "Un ensemble de programmes qui effectuent des tâches telles que la rédaction de documents, la création de feuilles de calcul et la préparation de présentations."
+    },
+    {
+      "term": "binary",
+      "explanation": "Le format de données le plus basique composé uniquement de zéros et de uns qu’un ordinateur peut comprendre directement."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Instructions initiales indiquant à l'IA comment elle doit se comporter et quelles règles elle doit suivre."
+    },
+    {
+      "term": "in-process",
+      "explanation": "Exécution d'un processus dans le propre espace de travail du programme principal sans avoir besoin d'un emplacement séparé."
+    },
+    {
+      "term": "vector database",
+      "explanation": "Une base de données spéciale qui recherche et trouve rapidement des données en fonction de leurs similitudes en les convertissant en nombres mathématiques."
+    },
+    {
+      "term": "patch",
+      "explanation": "Un petit fichier de mise à jour ajouté ultérieurement pour corriger un bug ou améliorer les performances d'un logiciel."
+    }
+  ]
+}

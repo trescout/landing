@@ -1,0 +1,273 @@
+{
+  "date": "2026-07-06",
+  "editorial": "L'ordre du jour d'aujourd'hui se concentre sur les vulnérabilités des invites système et des intégrations qui ajoutent des compétences aux grands modèles de langage. Les référentiels actuels sur GitHub montrent que les développeurs ont tendance à personnaliser les agents d'IA et à tester les systèmes existants contre les interférences extérieures.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "summary": "Meetily est un assistant de réunion axé sur la confidentialité qui traite les enregistrements des réunions localement et ne nécessite pas de connexion cloud. Développé avec le langage Rust, l'outil combine des fonctionnalités de diarisation des locuteurs et de synthèse basées sur l'intelligence artificielle avec des capacités de transcription en direct à grande vitesse.",
+          "meta": "Rust · ★ 17 898 · +1 409 aujourd'hui"
+        },
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "Codex-plugin-cc, développé par OpenAI, automatise les processus de révision de code et de délégation de tâches via l'interface Claude Code. Ce plugin permet aux développeurs d'exploiter directement les capacités des modèles Codex dans leur processus de développement logiciel.",
+          "meta": "JavaScript · ★ 25 842 · +1 532 aujourd'hui"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Les invites système des modèles d'intelligence artificielle populaires sont compilées par les développeurs et les chercheurs et collectées dans un ensemble de données central. Ce travail permet d'analyser les instructions cachées qui déterminent le comportement de grands modèles de langage tels que Claude, GPT, Gemini et Grok.",
+          "meta": "JavaScript · ★ 50 488 · +981 aujourd'hui"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill est un outil développé pour améliorer la qualité du contenu produit par les modèles d'intelligence artificielle et éviter les réponses standards et ordinaires. Cette bibliothèque basée sur JavaScript est conçue pour permettre aux modèles de produire une sortie plus originale et qualifiée.",
+          "meta": "JavaScript · ★ 58 065 · +863 aujourd'hui"
+        },
+        {
+          "title": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "summary": "Cette bibliothèque, développée pour Claude Code et agents de codage similaires, propose plus de 330 compétences, plus de 70 commandes spéciales et plus de 30 configurations d'agents. Il fournit une large gamme de plug-ins et de scripts pour automatiser les flux de travail dans les processus de développement logiciel, de marketing et opérationnels.",
+          "meta": "Python · ★ 20 814 · +392 aujourd'hui"
+        },
+        {
+          "title": "rommapp/romm",
+          "url": "https://github.com/rommapp/romm",
+          "summary": "Romm est un gestionnaire d'archives de jeux auto-hébergé qui permet aux utilisateurs d'organiser leurs bibliothèques de jeux et de jouer directement depuis le navigateur. Développé en Python, cet outil offre une interface visuellement orientée pour gérer les collections de jeux numériques.",
+          "meta": "Python · ★ 10 679 · +410 aujourd'hui"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Développé avec le langage Rust, herdr fonctionne comme un multiplexeur d'agents s'exécutant sur le terminal. Il permet aux utilisateurs d'interagir simultanément avec plusieurs agents d'intelligence artificielle via la ligne de commande.",
+          "meta": "Rust · ★ 12 354 · +651 aujourd'hui"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "summary": "Développé par Alibaba, page-agent est un agent d'interface utilisateur graphique sur la page qui permet de gérer les interfaces Web avec des commandes en langage naturel. Écrit en TypeScript, cet outil offre un mécanisme de contrôle basé sur un navigateur pour automatiser les tâches interactives sur le Web.",
+          "meta": "TypeScript · ★ 24 266 · +805 aujourd'hui"
+        },
+        {
+          "title": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "summary": "Cette ressource, publiée par l'Université Harvard, traite de l'architecture des systèmes d'apprentissage automatique et des processus d'optimisation sur le matériel. Axé sur l'interaction logicielle et matérielle, le contenu propose un guide technique pour créer des infrastructures d'intelligence artificielle évolutives.",
+          "meta": "Python · ★ 26 981 · +329 aujourd'hui"
+        },
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix est un outil de test d'intrusion open source basé sur l'intelligence artificielle, conçu pour détecter et corriger les vulnérabilités de sécurité dans les applications. Cette plateforme, développée avec le langage Python, simplifie les processus de gestion des vulnérabilités en automatisant la sécurité des logiciels.",
+          "meta": "Python · ★ 37 503 · +1 114 aujourd'hui"
+        },
+        {
+          "title": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "summary": "Cette sélection, préparée pour Claude Code, l'assistant de codage développé par Anthropic, rassemble des outils, plug-ins et packages de compétences qui accélèrent les processus de développement logiciel. Les ressources qui permettent aux développeurs d'intégrer plus facilement cet outil d'intelligence artificielle dans leurs projets se concentrent sur l'augmentation de la capacité d'automatisation.",
+          "meta": "Python · ★ 48 592 · +148 aujourd'hui"
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "La bibliothèque de compétences marketing développée pour Claude Code et les agents d'intelligence artificielle offre des capacités spécialisées dans des domaines tels que l'optimisation du taux de conversion (CRO), la rédaction, l'optimisation des moteurs de recherche (SEO), l'analyse et l'ingénierie de croissance. Cet ensemble d'outils permet aux modèles d'IA d'effectuer des tâches orientées marketing de manière plus professionnelle et basée sur les données.",
+          "meta": "JavaScript · ★ 36 679 · +145 aujourd'hui"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman est un package de fonctionnalités utilisé sur Claude Code qui simplifie la structure du langage et réduit l'utilisation des jetons de 65 %. Cet outil vise à augmenter la rentabilité en permettant aux modèles d’intelligence artificielle de traiter avec moins de données.",
+          "meta": "JavaScript · ★ 85 237 · +1 052 aujourd'hui"
+        },
+        {
+          "title": "CoplayDev/unity-mcp",
+          "url": "https://github.com/CoplayDev/unity-mcp",
+          "summary": "Unity MCP permet d'automatiser des tâches telles que la gestion des actifs, le contrôle de scène et l'édition de code en créant un pont entre les assistants d'intelligence artificielle et l'éditeur Unity. Cet outil permet aux grands modèles de langage (LLM) d'intervenir directement dans les processus de développement de jeux.",
+          "meta": "C# · ★ 12 081 · +414 aujourd'hui"
+        },
+        {
+          "title": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "summary": "Développé par Meta, Astryx propose un système de conception entièrement personnalisable et conçu pour fonctionner avec des agents IA. Ce projet open source basé sur TypeScript vise à rendre les composants d'interface adaptés à l'utilisation de systèmes autonomes.",
+          "meta": "TypeScript · ★ 6 144 · +522 aujourd'hui"
+        },
+        {
+          "title": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "summary": "Immich propose une solution de gestion de photos et vidéos performante et pouvant être hébergée sur des serveurs personnels. Cette plateforme, développée avec le langage TypeScript, fournit une structure centrale pour organiser et sauvegarder les fichiers multimédias.",
+          "meta": "TypeScript · ★ 106 308 · +470 aujourd'hui"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView effectue une détection spatiale en temps réel, un suivi des signes vitaux et une détection de présence sans données d'image à l'aide de signaux de réseau sans fil standard (WiFi). Ce logiciel, développé à Rust, fournit une infrastructure de surveillance qui protège la confidentialité visuelle en analysant les ondes radio de l'environnement.",
+          "meta": "Rust · ★ 76 868 · +161 aujourd'hui"
+        },
+        {
+          "title": "gastownhall/gastown",
+          "url": "https://github.com/gastownhall/gastown",
+          "summary": "Gas Town propose une infrastructure qui permet à différents agents d'intelligence artificielle de travailler ensemble en tant que gestionnaire d'espace de travail multi-agents. Développé avec le langage Go, cet outil centralise la coordination inter-agents et la gestion des ressources dans des workflows complexes.",
+          "meta": "Go · ★ 16 488 · +51 aujourd'hui"
+        },
+        {
+          "title": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "summary": "Développé par Microsoft, dotnet/skills propose des packages de compétences (compétences) prêts à l'emploi qui permettent aux agents de codage d'intelligence artificielle de travailler plus efficacement dans les projets .NET et C#. Cette bibliothèque vise à fournir des fonctions standardisées pour les agents qui automatisent les processus de développement logiciel.",
+          "meta": "C# · ★ 4 128 · +246 aujourd'hui"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar est un outil qui permet de visualiser les données d'utilisation d'OpenAI Codex et Claude Code sans nécessiter de connexion. Développée avec le langage Swift, cette application permet aux développeurs de suivre facilement les statistiques de consommation dans les outils de codage pris en charge par l'IA.",
+          "meta": "Swift · ★ 16 432 · +153 aujourd'hui"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code est un outil de codage basé sur un agent qui s'exécute sur le terminal et gère les tâches de routine, les commentaires de code complexes et les flux de travail de contrôle de version (git) en analysant la base de code avec des commandes en langage naturel. Visant à accélérer les processus de développement logiciel, cet outil permet aux développeurs d'automatiser les tâches de codage sans quitter l'environnement du terminal.",
+          "meta": "Python · ★ 136 429 · +156 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Organic Maps",
+          "url": "https://organicmaps.app/",
+          "summary": "Organic Maps est une application de cartographie open source basée sur des données cartographiques hors ligne et donnant la priorité à la confidentialité des utilisateurs. L'application utilise les données OpenStreetMap, offrant des fonctionnalités de navigation et de recherche locale sans nécessiter de connexion Internet.",
+          "meta": "940 votes · 282 commentaires"
+        },
+        {
+          "title": "OpenPrinter",
+          "url": "https://www.opentools.studio/",
+          "summary": "OpenPrinter est un protocole d'impression open source qui offre une expérience d'impression indépendante du pilote pour différents modèles d'imprimantes. Il fournit une interface universelle qui communique directement avec les imprimantes du réseau, sans nécessiter l'installation de pilotes traditionnels.",
+          "meta": "795 votes · 192 commentaires"
+        },
+        {
+          "title": "It's not about physical vs. digital games, it's about ownership",
+          "url": "https://popcar.bearblog.dev/its-about-ownership/",
+          "summary": "Les discussions dans le monde du jeu numérique se concentrent sur la notion de propriété des utilisateurs plutôt que sur la distinction entre formats physiques et numériques. Le pouvoir des plateformes de restreindre l’accès aux jeux ouvre un nouveau débat juridique sur la permanence des contenus numériques et les droits des consommateurs.",
+          "meta": "449 votes · 339 commentaires"
+        },
+        {
+          "title": "The future of Flipper Zero development",
+          "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+          "summary": "Les développeurs de Flipper Zero visent à faciliter les contributions de la communauté en transformant l'écosystème logiciel de l'appareil en une architecture modulaire. Cette nouvelle approche envisage une transition vers un modèle de distribution basé sur les applications pour rendre le développement de micrologiciels plus durable.",
+          "meta": "307 votes · 125 commentaires"
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra will be in Codex",
+          "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+          "summary": "Il a été annoncé que le modèle GPT-5.6 Sol Ultra serait intégré au Codex, un outil de codage. Ce développement permet la mise à jour des capacités de complétion de code basées sur l'intelligence artificielle utilisées dans les processus de développement de logiciels.",
+          "meta": "249 votes · 177 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B est un modèle d'intelligence artificielle multimodal qui produit du texte en traitant des données visuelles et textuelles. Livré au format GGUF, ce modèle offre une capacité de conversion image-texte optimisée pour une exécution sur des appareils locaux.",
+          "meta": "♥ 1 583 · 1 533 844 téléchargements"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, développé par Zai-org, est un modèle de langage optimisé pour les tâches de génération de texte. Ce modèle, qui suscite une forte interaction sur la plateforme HuggingFace, est utilisé dans de nombreux processus de création de texte.",
+          "meta": "♥ 3 479 · 220 379 téléchargements"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Développé par Baidu, Unlimited-OCR est un modèle image-texte qui produit une sortie de texte en traitant des textes basés sur des images. Le modèle est conçu pour convertir les données de documents complexes au format numérique.",
+          "meta": "♥ 1 763 · 1 044 217 téléchargements"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "Ornith-1.0-35B, développé par DeepReinforce-AI, est un modèle de langage axé sur la génération de texte. Le modèle est présenté avec le format de quantification GGUF, qui offre une efficacité de mémoire élevée.",
+          "meta": "♥ 742 · 394 164 téléchargements"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, développé par InternScience, est un modèle d'intelligence artificielle optimisé pour les tâches de génération de texte. Ce modèle est conçu pour prendre en charge l'exécution de logiques complexes et les flux de travail basés sur des agents.",
+          "meta": "♥ 311 · 7 010 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "speaker diarization",
+      "explanation": "Technologie qui sépare les conversations de l'enregistrement audio en sections en distinguant qui parle."
+    },
+    {
+      "term": "live transcription",
+      "explanation": "La voix parlée est instantanément convertie en texte et affichée à l'écran."
+    },
+    {
+      "term": "code review",
+      "explanation": "Les développeurs de logiciels examinent et vérifient les codes des autres pour détecter les erreurs."
+    },
+    {
+      "term": "task delegation",
+      "explanation": "Déléguer la responsabilité de l’accomplissement d’une tâche à une autre personne ou à un autre système."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Instructions initiales qui déterminent comment l'IA doit se comporter et quelles règles elle doit suivre."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "output",
+      "explanation": "Résultat donné par un programme informatique ou un périphérique à la suite de l'opération."
+    },
+    {
+      "term": "skills",
+      "explanation": "Capacités dont dispose un logiciel ou une intelligence artificielle pour effectuer une tâche spécifique."
+    },
+    {
+      "term": "plugin",
+      "explanation": "Petits logiciels installés ultérieurement pour fournir des fonctionnalités supplémentaires au programme principal."
+    },
+    {
+      "term": "script",
+      "explanation": "Une courte séquence de commandes écrites sur un ordinateur pour effectuer automatiquement une tâche spécifique."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Au lieu de louer un service à l’extérieur, vous l’hébergez et le gérez sur votre propre serveur."
+    },
+    {
+      "term": "agent multiplexer",
+      "explanation": "Un système qui gère plusieurs outils d’intelligence artificielle en même temps et partage le travail entre eux."
+    },
+    {
+      "term": "graphical user interface",
+      "explanation": "Interface qui vous permet de gérer visuellement l'ordinateur à travers des menus, des icônes et des fenêtres."
+    },
+    {
+      "term": "machine learning systems",
+      "explanation": "Des structures informatiques qui apprennent d’elles-mêmes en examinant les données et prennent de meilleures décisions au fil du temps."
+    },
+    {
+      "term": "penetration testing",
+      "explanation": "Les experts en cybersécurité tentent d'infiltrer un système et de trouver des vulnérabilités."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Études réalisées pour augmenter le taux de personnes qui visitent un site Web et qui deviennent clients."
+    }
+  ]
+}

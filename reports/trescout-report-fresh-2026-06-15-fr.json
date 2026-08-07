@@ -1,0 +1,140 @@
+{
+  "date": "2026-06-15",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "summary": "freeCodeCamp est une plateforme open source qui propose du contenu éducatif gratuit sur les mathématiques, la programmation et l'informatique. Développé avec le langage TypeScript, ce projet fournit un programme complet et un environnement d'application permettant aux utilisateurs d'améliorer leurs compétences logicielles.",
+          "meta": "TypeScript · ★ 447 547 · +146 aujourd'hui"
+        },
+        {
+          "title": "pytest-dev/pytest",
+          "url": "https://github.com/pytest-dev/pytest",
+          "summary": "Pytest propose un cadre de test qui prend en charge un large éventail de tests dans les projets Python, des tests à petite échelle aux tests fonctionnels complexes. Grâce à sa syntaxe simple, il crée une structure évolutive en facilitant l'écriture de tests dans les processus de développement logiciel.",
+          "meta": "Python · ★ 14 120 · +14 aujourd'hui"
+        },
+        {
+          "title": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "summary": "Meshery est un plan de gestion de maillage de services conçu pour la gestion des infrastructures cloud natives. Il standardise la configuration, le déploiement et l’analyse des performances des différents composants d’infrastructure via une interface unique.",
+          "meta": "TypeScript · ★ 10 496 · +20 aujourd'hui"
+        },
+        {
+          "title": "cypress-io/cypress",
+          "url": "https://github.com/cypress-io/cypress",
+          "summary": "Cypress est un framework qui offre des processus de test de bout en bout rapides et fiables pour les applications basées sur un navigateur. Développé avec TypeScript, cet outil est utilisé pour vérifier la fonctionnalité des applications Web dans l'environnement du navigateur.",
+          "meta": "TypeScript · ★ 50 089 · +39 aujourd'hui"
+        },
+        {
+          "title": "GorvGoyl/Clone-Wars",
+          "url": "https://github.com/GorvGoyl/Clone-Wars",
+          "summary": "Clone-Wars rassemble plus de 100 clones open source de plateformes populaires telles que Airbnb, Amazon et Instagram dans un seul répertoire. Les développeurs peuvent examiner les architectures d'applications en accédant aux codes sources des projets, aux piles technologiques et aux liens de démonstration en direct.",
+          "meta": "★ 35 776 · +269 aujourd'hui"
+        },
+        {
+          "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "summary": "Cette ressource, qui comprend des concepts de base pour les robots autonomes, fournit des informations techniques sur la conception et le contrôle des systèmes robotiques. Le contenu préparé au format TeX fournit une base théorique à ceux qui souhaitent se lancer dans le domaine de la robotique.",
+          "meta": "TeX · ★ 2 915 · +293 aujourd'hui"
+        },
+        {
+          "title": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "summary": "Le projet Free-TV/IPTV regroupe des playlists au format M3U répertoriant les chaînes de télévision gratuites du monde entier. Ce travail open source basé sur Python facilite l'accès des utilisateurs aux émissions de télévision sur Internet avec une structure de fichiers standard.",
+          "meta": "Python · ★ 17 099 · +70 aujourd'hui"
+        },
+        {
+          "title": "puppeteer/puppeteer",
+          "url": "https://github.com/puppeteer/puppeteer",
+          "summary": "Puppeteer propose une interface d'automatisation de navigateur (API) utilisée pour contrôler les navigateurs Chrome et Firefox. Cette bibliothèque, développée avec TypeScript, fournit une structure standard pour les opérations d'automatisation des tests et de web scraping sur les pages Web.",
+          "meta": "TypeScript · ★ 94 738 · +29 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Firewood Splitting Simulator",
+          "url": "https://screen.toys/firewood/",
+          "summary": "Le simulateur de fendage de bois de chauffage basé sur un navigateur combine des interactions basées sur la physique avec une interface utilisateur simple. Cette expérience numérique, développée à l'aide des technologies du web, permet aux utilisateurs d'effectuer l'acte de fendre du bois dans un environnement virtuel.",
+          "meta": "825 votes · 242 commentaires"
+        },
+        {
+          "title": "How to earn a billion dollars",
+          "url": "https://paulgraham.com/earn.html",
+          "summary": "Paul Graham affirme que la base de la construction d'une entreprise milliardaire réside dans la production de solutions évolutives et la résolution d'un problème très demandé. Il souligne que le succès est possible en se concentrant sur un processus de développement de produits qui crée de la valeur pour les utilisateurs plutôt que de la richesse personnelle.",
+          "meta": "634 votes · 1 643 commentaires"
+        },
+        {
+          "title": "Your ePub Is fine",
+          "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+          "summary": "Les erreurs d'ouverture de fichier ePub rencontrées dans les liseuses de livres électroniques Kobo sont causées par des incompatibilités dans le logiciel Adobe Digital Rights Management utilisé par l'appareil. Les utilisateurs attribuent le rejet par l'appareil des fichiers ePub standard aux limitations techniques des processus de rendu basés sur Adobe.",
+          "meta": "593 votes · 199 commentaires"
+        },
+        {
+          "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+          "url": "https://github.com/tamnd/kage",
+          "summary": "Kage est un outil qui convertit les sites Web en un seul fichier exécutable (binaire) pour une visualisation hors ligne. Il permet un accès sans connexion Internet en créant des copies locales de pages Web.",
+          "meta": "563 votes · 110 commentaires"
+        },
+        {
+          "title": "Curl will not accept vulnerability reports during July 2026",
+          "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+          "summary": "Le projet Curl a annoncé qu'il n'accepterait pas les notifications de vulnérabilités avant juillet 2026 afin de donner du repos à l'équipe de développeurs. Pendant cette période, les soumissions de rapports de bogues sont suspendues, offrant aux développeurs une pause ininterrompue.",
+          "meta": "397 votes · 143 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IPTV",
+      "explanation": "Technologie qui permet de regarder des émissions de télévision sur Internet au lieu du satellite ou du câble traditionnel."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un ensemble de morceaux de code et de règles prêts à l'emploi utilisés pour accélérer le travail lors du développement de logiciels."
+    },
+    {
+      "term": "cloud native",
+      "explanation": "Applications spécialement conçues pour tirer le meilleur parti des opportunités offertes par les environnements cloud computing."
+    },
+    {
+      "term": "service mesh",
+      "explanation": "Couche d'infrastructure qui rend la communication entre de nombreux éléments logiciels interconnectés sécurisée et organisée."
+    },
+    {
+      "term": "end-to-end testing",
+      "explanation": "Une méthode de test qui vérifie si tous les processus d'un logiciel du début à la fin fonctionnent sans erreurs selon des scénarios d'utilisation réels."
+    },
+    {
+      "term": "open-source clones",
+      "explanation": "Des codes similaires où les codes sources d’un logiciel populaire sont copiés et proposés gratuitement afin que chacun puisse les modifier."
+    },
+    {
+      "term": "tech stack",
+      "explanation": "Tous les langages de programmation, bases de données et outils utilisés lors du développement d’un site Web ou d’une application mobile."
+    },
+    {
+      "term": "playlist",
+      "explanation": "Une liste de musiques ou de vidéos triées par les utilisateurs selon leurs goûts sur les plateformes numériques."
+    },
+    {
+      "term": "API",
+      "explanation": "Un pont numérique qui permet à deux logiciels différents de se parler et d'échanger des données."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Le processus de copie et de transfert de données depuis des sites Web vers un autre endroit à l’aide d’un logiciel automatique."
+    }
+  ]
+}

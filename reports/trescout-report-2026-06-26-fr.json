@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-26",
+  "editorial": "Dans le monde du logiciel, l'accent est aujourd'hui mis sur les architectures de conteneurs partagées par Apple et sur l'intégration d'outils d'intelligence artificielle open source dans les processus de développement. Les données actuelles sur GitHub montrent qu'il existe une activité remarquable, notamment dans les projets de conception de code et de génération automatique de contenu.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "summary": "Développé par Google Labs, DESIGN.md fournit une spécification de format structuré pour transmettre les informations d'identification visuelles aux agents de codage. Cette norme garantit que les systèmes de conception sont compris de manière permanente et cohérente par les agents logiciels.",
+          "meta": "TypeScript · ★ 20 008 · +1 475 aujourd'hui"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage propose un système de production vidéo open source basé sur un agent qui transforme les assistants de codage basés sur l'IA en un studio de production vidéo complet. La plateforme automatise les processus de création vidéo avec 12 flux de travail différents, 52 outils et plus de 500 compétences d'agent.",
+          "meta": "Python · ★ 22 696 · +3 434 aujourd'hui"
+        },
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI-berkshire est un cadre de recherche sur l'investissement de valeur qui met en œuvre les méthodologies d'investisseurs tels que Warren Buffett et Charlie Munger, en utilisant l'infrastructure Claude Code. Le système analyse les données financières grâce à sa structure multi-agents et effectue des examens contradictoires.",
+          "meta": "Python · ★ 2 500 · +309 aujourd'hui"
+        },
+        {
+          "title": "mauriceboe/TREK",
+          "url": "https://github.com/mauriceboe/TREK",
+          "summary": "TREK est une application de planification de voyage auto-hébergée qui offre des fonctionnalités telles que la collaboration en temps réel, des cartes interactives et la gestion du budget. Grâce à la prise en charge des applications Web progressives (PWA) et à l'intégration de l'authentification unique (SSO), il permet aux utilisateurs d'organiser leurs processus de voyage de manière numérique.",
+          "meta": "TypeScript · ★ 7 040 · +241 aujourd'hui"
+        },
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Développé par Apple, Container permet la création et l'exécution de conteneurs Linux via des machines virtuelles légères optimisées pour les processeurs Apple Silicon. Écrit en Swift, cet outil vise à offrir une expérience de conteneur native sur macOS.",
+          "meta": "Swift · ★ 43 405 · +1 351 aujourd'hui"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "Utilisant des agents de codage d’intelligence artificielle, ce modèle permet de cloner n’importe quel site Web avec une seule commande. Le projet basé sur TypeScript exploite des flux de travail basés sur des agents pour automatiser les processus de développement Web.",
+          "meta": "TypeScript · ★ 20 822 · +1 024 aujourd'hui"
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open SEO offre une alternative open source aux outils payants comme Semrush et Ahrefs. Ce logiciel, développé pour analyser les données d'optimisation des moteurs de recherche (SEO), vise à rendre les processus transparents grâce à son infrastructure basée sur TypeScript.",
+          "meta": "TypeScript · ★ 2 736 · +57 aujourd'hui"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Partagé par Garry Tan, gstack propose 23 ensembles différents d'outils personnalisés fonctionnant sur Claude Code. Cette structure ; Il standardise les processus de développement de logiciels en automatisant divers rôles professionnels tels que l'administrateur, le concepteur, le responsable de l'ingénierie et l'assurance qualité (AQ).",
+          "meta": "TypeScript · ★ 116 077 · +767 aujourd'hui"
+        },
+        {
+          "title": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "summary": "AWS a publié un ensemble d'outils comprenant des serveurs, des compétences et des plug-ins Model Context Protocol pour faciliter l'interaction des agents d'IA avec l'infrastructure cloud. Ce développement fournit une structure standardisée qui permet aux agents d'opérer directement sur les services AWS.",
+          "meta": "Python · ★ 1 209 · +47 aujourd'hui"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "817 capacités de cybersécurité à compétences structurées développées pour les agents d’intelligence artificielle fonctionnent conformément à six cadres de sécurité différents tels que MITRE et NIST. Cette bibliothèque permet de standardiser les workflows axés sur la sécurité sur plus de vingt plateformes, dont Claude Code et GitHub Copilot.",
+          "meta": "Python · ★ 21 475 · +571 aujourd'hui"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "summary": "Développé par Alibaba, page-agent est un agent d'interface utilisateur graphique sur la page qui permet de contrôler les interfaces Web avec des commandes en langage naturel. Écrit en TypeScript, cet outil offre un mécanisme de contrôle basé sur un navigateur pour automatiser les interactions Web.",
+          "meta": "TypeScript · ★ 20 032 · +163 aujourd'hui"
+        },
+        {
+          "title": "IceWhaleTech/CasaOS",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "summary": "CasaOS propose un système cloud personnel open source qui facilite la gestion des applications basées sur Docker. Cette interface, développée avec le langage Go, permet aux utilisateurs de gérer simplement leurs serveurs via un panneau visuel.",
+          "meta": "Go · ★ 34 992 · +223 aujourd'hui"
+        },
+        {
+          "title": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "summary": "MinerU convertit les formats de documents complexes tels que PDF et Office en format markdown ou JSON adapté aux grands modèles de langage. Cet outil vise à rendre les données non structurées disponibles dans des workflows basés sur des agents.",
+          "meta": "Python · ★ 69 899 · +644 aujourd'hui"
+        },
+        {
+          "title": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "summary": "Le projet Free-TV/IPTV rassemble dans un seul centre des playlists M3U contenant des chaînes de télévision gratuites du monde entier. Cette structure open source basée sur Python standardise l'accès des utilisateurs aux émissions de télévision numérique.",
+          "meta": "Python · ★ 18 329 · +139 aujourd'hui"
+        },
+        {
+          "title": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "summary": "Ce guide développé pour Claude Code comprend des méthodes qui prennent en charge la transition du processus de codage vibratoire vers l'ingénierie basée sur les agents. Il propose des techniques d'application pratiques nécessaires pour accroître l'efficacité des agents d'intelligence artificielle dans les processus de développement de logiciels.",
+          "meta": "HTML · ★ 60 895 · +287 aujourd'hui"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler collecte automatiquement les publications et les commentaires des utilisateurs sur les plateformes de médias sociaux chinoises populaires grâce au web scraping. Cet outil basé sur Python offre une infrastructure complète d'exploration de données pour les processus d'analyse de contenu et de collecte de données.",
+          "meta": "Python · ★ 53 062 · +398 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "An entire Herculaneum scroll has been read for the first time",
+          "url": "https://scrollprize.org/firstscroll",
+          "summary": "Les manuscrits d'Herculanum, carbonisés par l'éruption du Vésuve, ont été lus sans être physiquement ouverts pour la première fois, grâce à la tomodensitométrie et à des techniques de traitement d'images basées sur l'intelligence artificielle. Cette étude prouve le succès des méthodes de déballage virtuel développées pour l’analyse numérique de textes anciens.",
+          "meta": "1 238 votes · 260 commentaires"
+        },
+        {
+          "title": "Om Malik has died",
+          "url": "https://om.co/2026/06/24/1966-2026/",
+          "summary": "Om Malik, l'un des pionniers du journalisme technologique, est décédé à l'âge de 59 ans. Malik, le fondateur de la plateforme Gigaom, était connu pour ses articles documentant le processus de transformation numérique de l'écosystème de la Silicon Valley.",
+          "meta": "822 votes · 91 commentaires"
+        },
+        {
+          "title": "Apple raises prices of MacBooks, iPads",
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+          "summary": "Apple a mis à jour les prix de vente des modèles MacBook et iPad en raison de l'augmentation des coûts de mémoire. Les augmentations de prix des composants matériels ont directement affecté la structure des coûts de la gamme de produits de l'entreprise.",
+          "meta": "698 votes · 1 007 commentaires"
+        },
+        {
+          "title": "The 'papers, please' era of the internet will decimate your privacy",
+          "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+          "summary": "Le fait que les plateformes Internet exigent des processus de vérification de l’âge et de preuve d’identité exerce une pression sur la vie privée des utilisateurs. La prolifération des applications d’identité numérique élargit le champ de la collecte de données personnelles et réduit les zones d’anonymat.",
+          "meta": "643 votes · 301 commentaires"
+        },
+        {
+          "title": "Oxide computer 3D rack guided tour",
+          "url": "https://explorer.oxide.computer/",
+          "summary": "Oxide Computer a publié un outil de visite des racks 3D qui rend la conception matérielle du centre de données transparente. Les utilisateurs peuvent examiner en détail la structure interne et la disposition des composants des systèmes de serveur via le navigateur.",
+          "meta": "356 votes · 140 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, publié par Zai-org, est un modèle de langage optimisé pour les tâches de génération de texte. Ce modèle, rendu accessible à un large éventail d'utilisateurs sur la plateforme HuggingFace, est utilisé dans divers processus de traitement du langage naturel.",
+          "meta": "♥ 2 519 · 67 107 téléchargements"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Développé par Baidu, Unlimited-OCR est un modèle image-texte qui traite des textes visuels et produit une sortie texte. Le modèle vise à standardiser le processus de conversion des données de documents complexes au format numérique.",
+          "meta": "♥ 930 · 70 743 téléchargements"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Ce modèle basé sur Gemma-4-12B, partagé sur HuggingFace, offre une structure optimisée pour les tâches de génération de texte. Le modèle attire l'attention avec ses fichiers de pondération configurés spécialement pour être utilisés dans les flux de travail basés sur des agents.",
+          "meta": "♥ 633 · 165 187 téléchargements"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Ce modèle de génération de texte basé sur Gemma 4-12B offre une structure personnalisée qui se concentre sur les processus d'écriture de code et d'édition créative. Le modèle, présenté au format GGUF, permet une inférence efficace sur le matériel local.",
+          "meta": "♥ 2 372 · 495 813 téléchargements"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M est un modèle de langage avec 9 milliards de paramètres optimisés pour la génération de texte. Il offre une structure compressée au format de texte général (GGUF) pour fonctionner sur des appareils à faibles ressources.",
+          "meta": "♥ 507 · 134 294 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agentic video production system",
+      "explanation": "Logiciel autonome capable de prendre des décisions par lui-même et de gérer les processus de montage et de montage vidéo."
+    },
+    {
+      "term": "pipeline",
+      "explanation": "Séquence d'étapes successives automatiques par lesquelles passe un travail du début à la fin."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Capacités dont dispose un logiciel d’intelligence artificielle pour effectuer une tâche spécifique."
+    },
+    {
+      "term": "research framework",
+      "explanation": "Un ensemble de méthodes et d'outils standards utilisés pour mener un processus de recherche."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Plusieurs logiciels d’intelligence artificielle travaillent en collaboration pour atteindre un objectif commun."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Héberger un logiciel sur votre propre ordinateur ou serveur privé, plutôt que sur le serveur d'une autre entreprise."
+    },
+    {
+      "term": "PWA",
+      "explanation": "Pages Web qui fonctionnent via un navigateur Internet mais peuvent être installées sur votre téléphone comme une application."
+    },
+    {
+      "term": "SSO",
+      "explanation": "Un système qui vous permet de vous connecter à de nombreuses applications différentes en même temps avec un seul nom d'utilisateur et un seul mot de passe."
+    },
+    {
+      "term": "virtual machines",
+      "explanation": "Ordinateurs virtuels qui exécutent un autre système d’exploitation à l’intérieur, en utilisant les ressources d’un ordinateur puissant."
+    },
+    {
+      "term": "containers",
+      "explanation": "Petits packages contenant tout ce dont un logiciel a besoin pour s'exécuter et fonctionner de la même manière dans tous les environnements."
+    },
+    {
+      "term": "cloning",
+      "explanation": "Dupliquer l'intégralité d'un projet logiciel ou de données en le copiant vers un autre emplacement."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Dispositions prises pour garantir que les sites Web soient mieux classés dans les moteurs de recherche."
+    },
+    {
+      "term": "QA",
+      "explanation": "Processus de contrôle qualité pour garantir qu’un logiciel est exempt d’erreurs avant sa sortie."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Un pont qui permet aux modèles d'intelligence artificielle de communiquer avec différentes sources de données de manière sécurisée et standard."
+    },
+    {
+      "term": "skills",
+      "explanation": "Compétences techniques dont un logiciel ou un système a besoin pour effectuer une opération spécifique."
+    },
+    {
+      "term": "cybersecurity skills",
+      "explanation": "Les connaissances et l’expertise techniques nécessaires pour protéger les systèmes et données numériques contre les cyberattaques."
+    }
+  ]
+}

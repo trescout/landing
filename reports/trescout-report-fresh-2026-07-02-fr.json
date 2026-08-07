@@ -1,0 +1,89 @@
+{
+  "date": "2026-07-02",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "summary": "Développé par AllenAI, olmocr est une boîte à outils qui convertit les documents PDF en formats texte adaptés aux grands modèles de langage. Ce logiciel facilite les processus de préparation des ensembles de données en fournissant un traitement linéaire de structures de documents complexes.",
+          "meta": "Python · ★ 18 418 · +334 aujourd'hui"
+        },
+        {
+          "title": "togatoga/karukan",
+          "url": "https://github.com/togatoga/karukan",
+          "summary": "Développé avec le langage Rust, Karukan est un système de méthode de saisie japonais (Japanese Input Method System) qui utilise un moteur de conversion neuronal kana-kanji pour les systèmes d'exploitation Linux et macOS. Le logiciel va au-delà des méthodes traditionnelles et propose une approche basée sur l'intelligence artificielle pour les processus de conversion de texte.",
+          "meta": "Rust · ★ 615 · +42 aujourd'hui"
+        },
+        {
+          "title": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "summary": "Développé par TencentCloud dans Rust, CubeSandbox offre un environnement de travail (sandbox) instantané, simultané et sécurisé pour les agents d'intelligence artificielle. Cet outil, qui se distingue par sa structure légère, permet aux systèmes basés sur des agents de fonctionner dans une zone isolée.",
+          "meta": "Rust · ★ 6 927 · +79 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "For first time, a cell built from scratch grows and divides",
+          "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+          "summary": "Des cellules synthétiques conçues à partir de zéro ont réussi pour la première fois les processus de croissance et de division dans un environnement de laboratoire. Ce développement représente une étape critique dans les efforts visant à reconstruire le fonctionnement de base des systèmes biologiques et à comprendre les origines de la vie.",
+          "meta": "836 votes · 274 commentaires"
+        },
+        {
+          "title": "ZCode – Harness for GLM-5.2",
+          "url": "https://zcode.z.ai/en",
+          "summary": "ZCode fournit un cadre de test et d'évaluation amélioré pour les modèles de langage GLM-5.2. Cet outil est utilisé pour mesurer les performances de grands modèles de langage et standardiser les processus de développement.",
+          "meta": "354 votes · 280 commentaires"
+        },
+        {
+          "title": "FFmpeg 9.1's new AAC encoder",
+          "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+          "summary": "FFmpeg version 9.1 inclut un nouvel encodeur audio avancé (encodeur AAC) qui améliore la qualité de l'encodage audio. Cette mise à jour offre une fidélité audio supérieure et des performances de compression efficaces, en particulier à faible débit.",
+          "meta": "352 votes · 109 commentaires"
+        },
+        {
+          "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+          "url": "https://www.workerowned.info/",
+          "summary": "Répertoriant plus de 22 000 produits fabriqués par des coopératives appartenant à des travailleurs, l'annuaire permet aux utilisateurs de joindre directement ces entreprises. La plateforme offre une expérience de marché alternative en augmentant la visibilité des produits axés sur la coopération.",
+          "meta": "327 votes · 65 commentaires"
+        },
+        {
+          "title": "What to learn to be a graphics programmer",
+          "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+          "summary": "Pour ceux qui souhaitent devenir programmeur graphique, des compétences de base telles que les fondements mathématiques, l'architecture matérielle et les interfaces d'applications graphiques (API graphiques) se démarquent. Cette feuille de route offre une courbe d'apprentissage complète pour ceux qui souhaitent apprendre les techniques de programmation et de visualisation de systèmes de bas niveau.",
+          "meta": "313 votes · 162 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "summary": "Ornith-1.0-9B-GGUF, développé par DeepReinforce-AI, est un modèle de langage axé sur la génération de texte. Le modèle est présenté au format GGUF compressé afin d'utiliser efficacement les ressources matérielles.",
+          "meta": "♥ 375 · 191 409 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "neural kana-kanji conversion engine",
+      "explanation": "Un moteur logiciel basé sur l'intelligence artificielle qui convertit les caractères phonétiques du système d'écriture japonais en symboles significatifs."
+    },
+    {
+      "term": "Japanese Input Method System",
+      "explanation": "Outil de saisie qui permet d'écrire des caractères japonais via le clavier."
+    }
+  ]
+}

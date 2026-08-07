@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-06",
+  "editorial": "Dans le monde du logiciel, il existe aujourd'hui une intense activité de développement sur les agents autonomes et l'intégration de ces agents dans les interfaces d'application. Les projets actuels sur GitHub montrent que l'automatisation basée sur l'IA a tendance à se normaliser, en particulier dans les processus complexes de gestion des tâches et de traitement des données.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Développé par NousResearch, Hermes Agent propose une structure d'agent IA autonome qui évolue au fil du temps par l'apprentissage grâce aux interactions des utilisateurs. Ce système basé sur Python utilise des mécanismes d'apprentissage continu pour créer des flux de travail personnalisés.",
+          "meta": "Python · ★ 183 675 · +1 845 aujourd'hui"
+        },
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom réduit l'utilisation des jetons jusqu'à 95 % en compressant les fichiers journaux, les sorties de code et les morceaux de données contextuelles (morceaux RAG) envoyés aux grands modèles de langage (LLM). Cette bibliothèque vise à réduire les coûts de traitement tout en maintenant la qualité de réponse du modèle en augmentant la densité des données.",
+          "meta": "Python · ★ 14 791 · +2 473 aujourd'hui"
+        },
+        {
+          "title": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "summary": "CopilotKit propose une pile frontale basée sur React et Angular pour développer des agents d'intelligence artificielle et des interfaces utilisateur génératives. Il fournit une infrastructure qui permet d'intégrer des capacités intelligentes dans les applications via le protocole AG-UI.",
+          "meta": "TypeScript · ★ 32 818 · +366 aujourd'hui"
+        },
+        {
+          "title": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "summary": "Open-notebook est une application de bloc-notes open source développée comme alternative à l'outil NotebookLM de Google. Il offre aux utilisateurs une plus grande flexibilité et personnalisation dans l’analyse des documents et la production de contenu basé sur l’IA.",
+          "meta": "TypeScript · ★ 26 176 · +1 152 aujourd'hui"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC est un système d'optimisation des performances qui combine les compétences, les instincts, la mémoire et les couches de sécurité des agents d'intelligence artificielle. Claude Code vise à augmenter l'efficacité des flux de travail basés sur des agents en s'intégrant à des outils de développement tels que Codex et Cursor.",
+          "meta": "JavaScript · ★ 208 558 · +1 361 aujourd'hui"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach est un outil d'interface de ligne de commande (CLI) qui donne aux agents IA la possibilité d'analyser l'intégralité d'Internet et de lire du contenu. Il fournit un accès direct pour extraire des données de plateformes telles que Twitter, Reddit et GitHub sans payer de frais d'interface de programmation d'application (API).",
+          "meta": "Python · ★ 21 757 · +148 aujourd'hui"
+        },
+        {
+          "title": "NVIDIA/cosmos",
+          "url": "https://github.com/NVIDIA/cosmos",
+          "summary": "Développée par NVIDIA, Cosmos est une plate-forme ouverte qui fournit des modèles mondiaux, des ensembles de données et des outils permettant de créer des applications physiques d'IA pour des systèmes tels que des robots et des véhicules autonomes. Il vise à permettre aux développeurs de concevoir plus facilement des systèmes intelligents qui comprennent le monde physique.",
+          "meta": "Jupyter Notebook · ★ 9 481 · +479 aujourd'hui"
+        },
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "summary": "MiroFish propose un moteur d'intelligence par essaim simple et universel développé pour prédire différents types de données. Cet outil basé sur Python utilise des méthodes informatiques collectives pour identifier des modèles dans des systèmes complexes.",
+          "meta": "Python · ★ 64 830 · +320 aujourd'hui"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill propose une compétence d'intelligence artificielle (compétence d'agent IA) qui effectue des recherches en analysant les données actuelles sur des plateformes telles que Reddit, X, YouTube, Hacker News et Polymarket. Cet outil basé sur Python synthétise les informations collectées et fournit des résumés conviviaux.",
+          "meta": "Python · ★ 28 321 · +731 aujourd'hui"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "summary": "PaddleOCR est un outil léger de reconnaissance optique de caractères qui s'intègre à de grands modèles de langage en convertissant le texte des PDF et les images en données structurées. Prenant en charge plus de 100 langues, cette bibliothèque facilite l'intégration de documents visuels dans les flux de travail d'IA.",
+          "meta": "Python · ★ 80 646 · +747 aujourd'hui"
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "Les plugins OpenAI permettent aux modèles de langage d'accéder à des données à jour et d'interagir avec des applications tierces. Cette structure permet à l'intelligence artificielle d'effectuer des tâches complexes à l'aide d'outils externes.",
+          "meta": "JavaScript · ★ 1 596 · +49 aujourd'hui"
+        },
+        {
+          "title": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "summary": "MemPalace propose un système de mémoire open source pour les modèles d'intelligence artificielle. Le système comprend des outils optimisés pour mesurer et améliorer les performances de la mémoire contextuelle des grands modèles de langage.",
+          "meta": "Python · ★ 53 981 · +227 aujourd'hui"
+        },
+        {
+          "title": "withastro/flue",
+          "url": "https://github.com/withastro/flue",
+          "summary": "Développé par l'équipe Astro, Flue se distingue comme un framework d'agent sandbox basé sur TypeScript. Cette structure permet aux développeurs de créer des agents d'intelligence artificielle dans des environnements sécurisés et isolés.",
+          "meta": "TypeScript · ★ 4 594 · +126 aujourd'hui"
+        },
+        {
+          "title": "openclaw/openclaw-windows-node",
+          "url": "https://github.com/openclaw/openclaw-windows-node",
+          "summary": "Le nœud OpenClaw Windows intègre l'écosystème OpenClaw dans le système d'exploitation Windows via une application de barre d'état système et des bibliothèques partagées. Développé en C#, cet outil permet une gestion des flux de travail à l'échelle du système via l'extension de palette de commandes PowerToys.",
+          "meta": "C# · ★ 1 640 · +326 aujourd'hui"
+        },
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "summary": "Trivy est un outil de sécurité complet qui effectue une analyse des vulnérabilités, une détection des erreurs de configuration et une création de nomenclatures logicielles (SBOM) sur les conteneurs, les clusters Kubernetes et les infrastructures cloud. Développée avec le langage Go, cette solution open source permet d'automatiser les audits de sécurité à différentes étapes du cycle de vie de développement logiciel.",
+          "meta": "Go · ★ 35 889 · +207 aujourd'hui"
+        },
+        {
+          "title": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "summary": "Cette ressource, préparée pour ceux qui souhaitent devenir ingénieurs logiciels, propose un plan d'études complet dans le domaine de l'informatique. Le contenu, qui structure le processus de préparation aux entretiens techniques, détaille la feuille de route nécessaire à l'apprentissage des disciplines de base de l'ingénierie.",
+          "meta": "★ 350 488 · +745 aujourd'hui"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub a publié un kit de développement logiciel (SDK) multiplateforme qui permet aux développeurs d'intégrer les agents GitHub Copilot dans leurs propres applications et services. Cet outil permet d’utiliser de manière standard des assistants de codage basés sur l’intelligence artificielle sur différentes plateformes.",
+          "meta": "Java · ★ 9 301 · +309 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+          "url": "https://mouseless.click",
+          "summary": "Mouseless est un outil qui permet un contrôle par clavier sur l'ensemble du système d'exploitation et minimise l'utilisation de la souris. Il permet aux utilisateurs d'accélérer les transitions d'applications et la gestion des fenêtres avec une expérience de type interface de ligne de commande.",
+          "meta": "509 votes · 211 commentaires"
+        },
+        {
+          "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+          "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+          "summary": "Le gouvernement britannique a déplacé l'infrastructure de paiement de ses services numériques de la plateforme Stripe vers le système Adyen, fournisseur de services de paiement basé aux Pays-Bas. Cette transition a été réalisée conformément aux objectifs de flexibilité et d’évolutivité des processus de paiement du secteur public.",
+          "meta": "408 votes · 141 commentaires"
+        },
+        {
+          "title": "Tracing a powerful GNSS interference source over Europe",
+          "url": "https://arxiv.org/abs/2606.03673",
+          "summary": "Les pannes de signal du système de positionnement global par satellite (GNSS) à travers l’Europe sont analysées par des chercheurs en surveillant les sources d’interférences radio. L'étude révèle les approches techniques utilisées pour détecter les dispositifs brouilleurs et les effets de ces interférences sur l'aviation.",
+          "meta": "384 votes · 201 commentaires"
+        },
+        {
+          "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+          "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+          "summary": "Les astronautes, qui ont déménagé dans des abris en raison de réparations de fuites d'air sur la Station spatiale internationale (ISS), sont retournés dans les modules de la station une fois la sécurité assurée. Pendant que l'équipage poursuit ses opérations de routine, les investigations techniques sur l'origine de la fuite se poursuivent.",
+          "meta": "378 votes · 243 commentaires"
+        },
+        {
+          "title": "pg_durable: Microsoft open sources in-database durable execution",
+          "url": "https://github.com/microsoft/pg_durable",
+          "summary": "Microsoft a open source le projet pg_durable, qui permet une exécution durable au sein de la base de données. Cet outil permet de gérer les workflows de longue durée de manière cohérente et tolérante aux pannes sur PostgreSQL.",
+          "meta": "378 votes · 86 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Développé par NVIDIA, LocateAnything-3D fonctionne comme un modèle image-texte-texte qui effectue des tâches de positionnement d'objets en traitant les entrées visuelles et textuelles. Le modèle est conçu pour identifier les éléments dans des scènes visuelles complexes et relier les coordonnées de ces éléments aux sorties textuelles.",
+          "meta": "♥ 1 394 · 101 823 téléchargements"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Le modèle Gemma-2-9B-it basé sur Gemma 2 9B développé par Google offre une structure (any-to-any) qui peut transformer n'importe quel type d'entrée en n'importe quel type de sortie grâce à ses capacités de traitement de données multimodales. Le modèle vise à effectuer des tâches complexes via une architecture unique en offrant une conversion flexible entre différents types de données.",
+          "meta": "♥ 564 · 142 851 téléchargements"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "Le modèle Gemma 4-12B-IT, optimisé par Unsloth, offre une structure multimodale capable de traiter des entrées visuelles et textuelles. Grâce au format GGUF, le modèle permet une inférence efficace sur des appareils locaux avec une faible utilisation de la mémoire.",
+          "meta": "♥ 388 · 296 410 téléchargements"
+        },
+        {
+          "title": "google/gemma-4-12B",
+          "url": "https://huggingface.co/google/gemma-4-12B",
+          "summary": "Gemma 4-12B, édité par Google, propose une structure multimodale capable de traiter différents types de données. Ce modèle fonctionne avec une architecture polyvalente (any-to-any) qui peut transformer n'importe quelle entrée en n'importe quelle sortie.",
+          "meta": "♥ 345 · 53 525 téléchargements"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Le modèle Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive partagé sur HuggingFace offre une structure image-texte-texte qui traite les entrées visuelles et textuelles et produit une sortie texte. Le modèle appartient à la vaste catégorie des modèles de langage formés à l’aide d’ensembles de données non censurés.",
+          "meta": "♥ 1 461 · 2 687 304 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}
