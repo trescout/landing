@@ -17,7 +17,7 @@ claude-mem enables your AI agents to perform cross-session recall. It captures e
 - The session history is summarized with artificial intelligence and relevant parts are recalled.
 - It is not limited to a single tool, it works compatible with many agents.
 
-## How does it work?
+## How it works
 It automatically records the actions taken by the agent during the session.
 
 ## Related dictionary terms

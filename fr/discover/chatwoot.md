@@ -1,0 +1,34 @@
+# Plateforme de support client open source
+
+Chatwoot est une plateforme open source qui offre un chat en direct, une assistance par e-mail et une gestion de bureau omnicanal. Développé comme alternative aux logiciels commerciaux tels qu'Intercom et Zendesk, cet outil vous permet de gérer les interactions clients à partir d'un centre unique.
+
+- ★ 35 290
+- GitHub Trending · 2026-06-12
+
+## Mise à jour
+- 1er août 2026 : Star 30 493 → 35 290, dernière version v4.16.2 (27 juillet 2026).
+
+## Ce que ça vous apporte
+- Il regroupe tous les canaux clients dans une seule boîte de réception.
+- Répond automatiquement aux questions de routine avec un assistant basé sur l'intelligence artificielle.
+- Il vous donne un contrôle total sur vos données clients en les hébergeant sur votre propre serveur.
+
+## Installation
+**Docker Compose (auto-hébergé)**
+
+```
+git clone https://github.com/chatwoot/chatwoot.git && cd chatwoot && docker compose up -d
+```
+
+
+## Si vous ne codez pas
+Répondez aux questions en vous faisant passer pour un représentant du support client. En tant qu'assistant Captain AI sur Chatwoot, résolvez automatiquement les questions fréquemment posées et dirigez les problèmes complexes vers les coéquipiers concernés. Améliorez l’expérience du support client en fournissant toujours des informations courtoises, rapides et précises.
+
+## Termes liés du glossaire
+
+## Liens
+- Dépôt GitHub →
+- Lire en turc →
+
+---
+Source : TreScout Découvrir · https://trescout.com/fr/discover/chatwoot/

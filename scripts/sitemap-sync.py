@@ -23,17 +23,18 @@ TODAY = os.environ.get("DICT_DATE") or datetime.date.today().isoformat()
 DRY = "--dry" in sys.argv
 
 # Yayına girmeyen sayfalar · 404 ve gizlilik metni sitemap'te olmasın diye ayrı tutulur
-ATLA = {"/404/", "/en/404/"}
+ATLA = {"/404/", "/en/404/", "/fr/404/"}
 
 
 def oncelik(url):
     """changefreq + priority · mevcut sitemap konvansiyonuyla aynı."""
     if url == "/":
         return "weekly", "1.0"
-    if url == "/en/":
+    if url in ("/en/", "/fr/"):
         return "weekly", "0.9"
     if url in ("/discover/", "/dictionary/", "/reports/", "/reports/tekrarsiz/",
-               "/en/discover/", "/en/dictionary/", "/en/reports/", "/en/reports/fresh/"):
+               "/en/discover/", "/en/dictionary/", "/en/reports/", "/en/reports/fresh/",
+               "/fr/discover/", "/fr/dictionary/"):
         return "weekly", "0.8"
     if url.startswith("/reports/") or url.startswith("/en/reports/"):
         return "monthly", "0.7"
@@ -50,7 +51,7 @@ def disk_urls():
         if url in ATLA:
             continue
         out.add(url)
-    for ek in ("privacy.html", "en/privacy.html"):
+    for ek in ("privacy.html", "en/privacy.html", "fr/privacy.html"):
         if os.path.exists(os.path.join(ROOT, ek)):
             out.add("/" + ek)
     return out

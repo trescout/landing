@@ -1,3 +1,7 @@
+/* Aydınlatma bağlantısı /en/privacy.html olmalı · burada /privacy.html (Türkçe)
+   yazıyordu ve betik her koştuğunda 128 İngilizce rapor sayfasında düzeltmeyi
+   geri alıyordu (2026-08-07). check-consent-consistency.py artık bunu da
+   denetliyor. */
 const fs = require('fs');
 const path = require('path');
 
@@ -87,7 +91,7 @@ const richEnFooter = `<footer>
         <div class="footer-col-title">Contact</div>
         <ul>
           <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
-          <li><a href="/privacy.html" target="_blank" rel="noopener">Privacy Notice</a></li>
+          <li><a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a></li>
         </ul>
       </div>
       <div class="footer-col">

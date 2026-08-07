@@ -8,22 +8,36 @@
   /* Sayfanın dili · /en/ altındaki sayfalarda İngilizce metin.
      NOT: aynı sözlük assets/index.js içinde de var (anasayfa formu ayrı akış
      kullanıyor · scroll-gate modal). Birini değiştirirken diğerine bakın. */
-  var EN = document.documentElement.lang === 'en';
-  var T = EN ? {
+  var SAYFA_DILI = document.documentElement.lang || 'tr';
+  var METIN = {
+    en: {
     zaten: '<strong>You are already on the list.</strong> We will let you know when we go live.',
     aldik: '<strong>Got it.</strong> We will let you know when we go live. Have a good week.',
     onay: 'Please accept the privacy notice to continue.',
     gonderiliyor: 'Sending...',
     genel: 'Something went wrong. Please try again.',
     baglanti: 'Connection error. Please try again.'
-  } : {
-    zaten: '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.',
+    },
+    fr: {
+      zaten: '<strong>Vous êtes déjà sur la liste.</strong> Nous vous préviendrons au lancement.',
+      aldik: '<strong>C\'est noté.</strong> Nous vous préviendrons au lancement. Bonne semaine.',
+      onay: 'Veuillez accepter la notice de confidentialité pour continuer.',
+      gonderiliyor: 'Envoi...',
+      genel: 'Une erreur est survenue. Veuillez réessayer.',
+      baglanti: 'Erreur de connexion. Veuillez réessayer.'
+    },
+    tr: {
+      zaten: '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.',
     aldik: '<strong>Aldık.</strong> Yayında olduğumuzda size haber vereceğiz. İyi haftalar.',
     onay: 'Devam etmek için Aydınlatma Metni onayı gerekli.',
     gonderiliyor: 'Gönderiliyor...',
     genel: 'Bir şeyler ters gitti. Lütfen tekrar deneyin.',
-    baglanti: 'Bağlantı hatası. Lütfen tekrar deneyin.'
+      baglanti: 'Bağlantı hatası. Lütfen tekrar deneyin.'
+    }
   };
+  /* Sayfanın dili · bilinmeyen dilde Türkçeye düşer (kaynak dil). */
+  var T = METIN[SAYFA_DILI] || METIN.tr;
+  var EN = SAYFA_DILI === 'en';
 
 
   function showSuccess(form, isDuplicate) {

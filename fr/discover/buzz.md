@@ -1,0 +1,39 @@
+# Plateforme de communication décentralisée de l'esprit de ruche
+
+Développé par Block in Rust, Buzz est conçu comme une plateforme de communication décentralisée de l'esprit de ruche. Il fournit une infrastructure qui prend en charge le partage collectif de données et l'interaction simultanée via une structure de réseau distribuée.
+
+- ★ 23 428
+- Rust
+- GitHub Trending · 2026-07-24
+
+## Mise à jour
+- 6 août 2026 : Star 22.004 → 23.428, dernière version desktop-v0.5.5 (5 août 2026).
+- 4 août 2026 : Star 20.906 → 22.004, dernière version desktop-v0.5.4 (3 août 2026).
+- 2 août 2026 : Star 7 593 → 20 906, dernière version desktop-v0.5.3 (31 juillet 2026).
+
+## Ce que ça vous apporte
+- Salles de collaboration pour humains et agents IA
+- Une piste d'audit unique pour toutes les interactions
+- Gérez le code, les flux de travail et les conversations en un seul endroit
+
+## Installation
+**Installation à partir du code source**
+
+```
+git clone https://github.com/block/buzz.git && cd buzz
+. ./bin/activate-hermit   # pinned toolchain (tools auto-download on first use)
+just setup && just build
+```
+
+
+## Si vous ne codez pas
+Vous agissez en tant qu'agent d'intelligence artificielle sur la plateforme Buzz. Vous travaillerez sur les mêmes canaux que mes coéquipiers humains, en examinant les conversations passées et l'historique technique pour répondre aux questions, créer des correctifs de code et gérer les flux de travail. Créez une piste d'audit fiable pour l'équipe en réalisant toutes vos transactions en toute transparence, au travers d'événements signés.
+
+## Termes liés du glossaire
+
+## Liens
+- Dépôt GitHub →
+- Lire en turc →
+
+---
+Source : TreScout Découvrir · https://trescout.com/fr/discover/buzz/

@@ -1,6 +1,11 @@
 /* TreScout · Sözlük index · statik kartları arama + kategori ile filtreler (CSP-temiz).
  * Kartlar HTML'de statik (SEO + no-JS çalışır); JS yalnız göster/gizle + sayım. */
 (function () {
+  /* Sayaç metni sayfanın dilinden · önceden sabit Türkçe "terim" idi ve
+     İngilizce dizinde de öyle görünüyordu (2026-08-07). */
+  var METIN = { tr: ' terim', en: ' terms', fr: ' termes' };
+  var BIRIM = METIN[document.documentElement.lang] || METIN.tr;
+
   var grid = document.getElementById('dict-grid');
   if (!grid) return;
   var cards = Array.prototype.slice.call(grid.querySelectorAll('.dict-card'));
@@ -22,7 +27,7 @@
       c.style.display = show ? '' : 'none';
       if (show) shown++;
     });
-    if (countEl) countEl.textContent = (shown === total) ? (total + ' terim') : (shown + ' / ' + total + ' terim');
+    if (countEl) countEl.textContent = (shown === total) ? (total + BIRIM) : (shown + ' / ' + total + BIRIM);
     if (emptyEl) emptyEl.style.display = shown ? 'none' : 'block';
   }
 

@@ -11,12 +11,18 @@
  *   scripts/dictionary-en.py    · İngilizce sözlük sayfaları
  * İkisi de dict-sync.yml hattında çalışıyor.
  *
- * Bu betikte YALNIZ dizin sayfaları (en/discover/index.html,
- * en/dictionary/index.html) üretimi geçerli. Detay sayfası yazan bölümler
+ * Bu betikte YALNIZ dizin sayfaları (<dil>/discover/index.html,
+ * <dil>/dictionary/index.html) üretimi geçerli. Detay sayfası yazan bölümler
  * devre dışı · çalıştırılırsa bugünkü içeriği ezmesin diye.
+ *
+ * 2026-08-07 · dile göre çalışır:  node scripts/build-en.js --lang=fr
+ * Metinler scripts/diller.py'den okunuyor · tablo JS'e ikinci kez yazılmasın diye.
  */
 const fs = require('fs');
 const path = require('path');
+const { execFileSync } = require('child_process');
+
+const LANG = (process.argv.find(a => a.startsWith('--lang=')) || '--lang=en').split('=')[1];
 
 const ROOT = path.dirname(__dirname);
 const DICT_JSON = path.join(ROOT, 'assets', 'dictionary', 'dictionary.json');
@@ -36,13 +42,6 @@ try {
 
 console.log(`Loaded ${dictionary.length} dictionary terms and ${catalog.length} discover items.`);
 
-const tagTranslationMap = {
-  'Yapay zekâ araçları': 'AI Tools',
-  'Geliştirici aracı': 'Developer Tool',
-  'Kod bilmeyenler için': 'No-Code',
-  'Öğrenme': 'Learning',
-  'Üretkenlik': 'Productivity'
-};
 
 const richEnFooter = `<footer>
   <div class="container">
@@ -279,82 +278,133 @@ ${richEnFooter}
 
 console.log(`Generated ${enDiscCount} EN discover pages & markdown files.`);
 
-// 3. Generate /en/dictionary/index.html with rich UI, search input, filter chips & rich footer
-const dictIndexDir = path.join(ROOT, 'en', 'dictionary');
+const D = JSON.parse(
+  execFileSync('python3', [path.join(__dirname, 'diller.py'), '--json', LANG], { encoding: 'utf8' })
+);
+const PRE = D.onek;              // '/en' · '/fr'
+const tagTranslationMap = D.etiketler;
+
+/**
+ * Türkçe binlik ayırıcıyı sayfanın diline çevir · 77.021 → 77,021 (en) ·
+ * 77 021 (fr, bölünmez boşluk). Kartlardaki yıldız sayısı katalogdan Türkçe
+ * biçimde geliyordu ve İngilizce dizinde de öyle basılıyordu (2026-08-07) ·
+ * İngiliz okur 77.021'i ondalık sanar. Detay sayfalarındaki kural (discover-en.py
+ * sayi_en) ile aynı.
+ */
+const sayi = (s) => String(s ?? '').replace(/\d{1,3}(?:\.\d{3})+/g, (n) => n.replace(/\./g, D.binlik));
+
+/**
+ * Nav + footer'ı o dilin ÜRETİLMİŞ bir detay sayfasından alır.
+ * Kanonik kaynak fix-all-headers-and-footers.js · dizin sayfası kendi kabuğunu
+ * yazarsa guard'lar kırılır, bu yüzden kopyalıyoruz. TR bağlantısı sayfaya özel
+ * olduğu için (o sayfanın Türkçe karşılığı) burada hedefe göre düzeltiliyor.
+ */
+function kabuk(bolum, trHedef) {
+  const dizin = path.join(ROOT, LANG, bolum);
+  const ornek = fs.readdirSync(dizin)
+    .map(s => path.join(dizin, s, 'index.html'))
+    .find(f => fs.existsSync(f));
+  if (!ornek) {
+    console.error(`✗ ${LANG}/${bolum} altında üretilmiş sayfa yok · önce detay sayfalarını basın.`);
+    process.exit(1);
+  }
+  const html = fs.readFileSync(ornek, 'utf8');
+  const al = (etiket) => {
+    const m = html.match(new RegExp(`<${etiket}[\\s>][\\s\\S]*?</${etiket}>`));
+    if (!m) { console.error(`✗ ${ornek} içinde <${etiket}> bulunamadı.`); process.exit(1); }
+    return m[0];
+  };
+  const nav = al('nav').replace(
+    /(<a href=")[^"]*(" class="btn btn-ghost" aria-label="[^"]*">TR<\/a>)/,
+    `$1${trHedef}$2`
+  );
+  return { nav, footer: al('footer') };
+}
+
+const kafa = (kanonik) => `<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css">
+<link rel="stylesheet" href="/assets/discover.css">`;
+
+// Kayıt formu · detay sayfalarındakiyle aynı kalıp (discover-en.py · CTA_FORM)
+const form = (kaynak) => `<form class="cta-form disc-cta-form js-subscribe" data-source="${kaynak}" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="${D.form_yer_tutucu}" autocomplete="email" required><button class="btn btn-primary" type="submit">${D.form_dugme}</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>${D.form_onay.replace('{gizlilik}', D.gizlilik_yolu)}</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form>`;
+
+const hreflang = (trYol, hedefYol) => `<link rel="alternate" hreflang="tr" href="${BASE_URL}${trYol}">
+<link rel="alternate" hreflang="en" href="${BASE_URL}/en${hedefYol}">
+<link rel="alternate" hreflang="fr" href="${BASE_URL}/fr${hedefYol}">
+<link rel="alternate" hreflang="x-default" href="${BASE_URL}/en${hedefYol}">`;
+
+// ── 3. Sözlük dizini ────────────────────────────────────────────────────────
+const dictIndexDir = path.join(ROOT, LANG, 'dictionary');
 fs.mkdirSync(dictIndexDir, { recursive: true });
+const dictKabuk = kabuk('dictionary', '/dictionary/');
 
 const dictCards = dictionary.map(t => {
-  const desc = t.kisa_en || t.kisa || '';
+  const desc = t[D.kisa_alan] || t.kisa || '';
   const full = t.full ? `<p class="dict-card-en">${t.full}</p>` : '';
   const cat = t.cat || 'ai';
   const searchAttr = `${t.en} ${t.full || ''} ${desc} ${t.slug}`.replace(/"/g, '&quot;');
-  return `<a class="dict-card" data-cat="${cat}" data-search="${searchAttr}" href="/en/dictionary/${t.slug}/"><h2 class="dict-card-term">${t.en}</h2>${full}<p class="dict-card-kisa">${desc}</p></a>`;
+  return `<a class="dict-card" data-cat="${cat}" data-search="${searchAttr}" href="${PRE}/dictionary/${t.slug}/"><h2 class="dict-card-term">${t.en}</h2>${full}<p class="dict-card-kisa">${desc}</p></a>`;
 }).join('\n');
 
+const dictChips = D.sozluk_dizin_cipler.map(([cat, ad], i) =>
+  `<button type="button" class="dict-chip${i === 0 ? ' dict-chip-active' : ''}" data-cat="${cat}">${ad}</button>`
+).join('');
+
 const dictIndexHtml = `<!DOCTYPE html>
-<html lang="en">
+<html lang="${D.html_lang}">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Tech Dictionary · AI & Software Terms · TreScout</title>
-<meta name="description" content="Plain-language definitions of AI and software terms including RAG, Fine-tuning, LLM, MCP, and more.">
+<title>${D.sozluk_dizin_baslik}</title>
+<meta name="description" content="${D.sozluk_dizin_aciklama}">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="canonical" href="${BASE_URL}/en/dictionary/">
-<link rel="alternate" hreflang="tr" href="${BASE_URL}/dictionary/">
-<link rel="alternate" hreflang="en" href="${BASE_URL}/en/dictionary/">
-<link rel="alternate" hreflang="x-default" href="${BASE_URL}/en/dictionary/">
-<meta property="og:title" content="Tech Dictionary · TreScout">
-<meta property="og:description" content="Plain-language definitions of AI and software terms.">
-<meta property="og:url" content="${BASE_URL}/en/dictionary/">
+<link rel="canonical" href="${BASE_URL}${PRE}/dictionary/">
+${hreflang('/dictionary/', '/dictionary/')}
+<meta property="og:title" content="${D.sozluk_dizin_baslik}">
+<meta property="og:description" content="${D.sozluk_dizin_aciklama}">
+<meta property="og:url" content="${BASE_URL}${PRE}/dictionary/">
 <meta property="og:type" content="website">
-<meta property="og:locale" content="en_US">
-<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/site.css">
-<link rel="stylesheet" href="/assets/discover.css">
+<meta property="og:locale" content="${D.og_locale}">
+${kafa()}
 <link rel="stylesheet" href="/assets/dictionary.css">
 </head>
 <body>
-<a class="skip-link" href="#main">Skip to main content</a>
-<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports Archive</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/dictionary/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
+<a class="skip-link" href="#main">${D.atla}</a>
+${dictKabuk.nav}
 <main id="main">
 <div class="container container-pad">
-<div class="dict-index-hero"><span class="disc-eyebrow">Tech Dictionary</span><h1 class="dict-index-title">Modern AI & Software Glossary</h1><p class="dict-index-lead">Plain-language definitions for modern technical terms. TreScout scans daily trends and expands this glossary continuously.</p></div>
-<div class="dict-controls"><input type="search" id="dict-search" class="dict-search" placeholder="Search term: RAG, embedding, fine-tuning…" aria-label="Search term"></div>
-<div class="dict-tags" id="dict-tags"><button type="button" class="dict-chip dict-chip-active" data-cat="">All</button><button type="button" class="dict-chip" data-cat="ai">Artificial Intelligence</button><button type="button" class="dict-chip" data-cat="dev">Development</button><button type="button" class="dict-chip" data-cat="data">Data & Infra</button></div>
-<p class="dict-count" id="dict-count">${dictionary.length} terms</p>
+<div class="dict-index-hero"><span class="disc-eyebrow">${D.sozluk}</span><h1 class="dict-index-title">${D.sozluk_dizin_h1}</h1><p class="dict-index-lead">${D.sozluk_dizin_lead}</p></div>
+<div class="dict-controls"><input type="search" id="dict-search" class="dict-search" placeholder="${D.sozluk_dizin_ara}" aria-label="${D.sozluk_dizin_ara_etiket}"></div>
+<div class="dict-tags" id="dict-tags">${dictChips}</div>
+<p class="dict-count" id="dict-count">${dictionary.length} ${D.sozluk_dizin_birim}</p>
 <div class="dict-grid" id="dict-grid">
 ${dictCards}
 </div>
-<p class="dict-empty" id="dict-empty">No matching terms. Try adjusting your search.</p>
-<aside class="disc-cta"><p><strong>New tech terms in your inbox every morning.</strong> Join TreScout early access for daily digests.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join Early Access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form></aside>
+<p class="dict-empty" id="dict-empty">${D.sozluk_dizin_bos}</p>
+<aside class="disc-cta"><p><strong>${D.sozluk_cta_baslik}</strong> ${D.sozluk_cta_metin}</p>${form(`dictionary-${LANG}`)}</aside>
 </div>
 </main>
-${richEnFooter}
+${dictKabuk.footer}
 <script src="/assets/dictionary.js" defer></script>
 <script src="/assets/subscribe.js" defer></script>
 </body>
 </html>`;
 fs.writeFileSync(path.join(dictIndexDir, 'index.html'), dictIndexHtml, 'utf8');
-console.log('Generated rich /en/dictionary/index.html');
+console.log(`Üretildi · ${PRE}/dictionary/index.html (${dictionary.length} terim)`);
 
-// 4. Generate /en/discover/index.html with 1-to-1 card layout
-const discIndexDir = path.join(ROOT, 'en', 'discover');
+// ── 4. Keşif dizini ─────────────────────────────────────────────────────────
+const discIndexDir = path.join(ROOT, LANG, 'discover');
 fs.mkdirSync(discIndexDir, { recursive: true });
+const discKabuk = kabuk('discover', '/discover/');
 
 const discCards = catalog.map(c => {
-  const tagline = c.tagline_en || c.tagline || '';
+  const tagline = c[D.tagline_alan] || c.tagline || '';
   const searchAttr = `${c.title} ${tagline} ${c.slug}`.replace(/"/g, '&quot;');
   const imgHtml = c.image ? `<img class="disc-card-img" src="${c.image}" alt="" loading="lazy" decoding="async">` : '';
-  
-  const tagChips = (c.tags || []).map(t => {
-    const translatedTag = tagTranslationMap[t] || t;
-    return `<span class="disc-card-tagchip">${translatedTag}</span>`;
-  }).join('');
-  
+  const tagChips = (c.tags || []).map(t => `<span class="disc-card-tagchip">${tagTranslationMap[t] || t}</span>`).join('');
   const tagChipsHtml = tagChips ? `<div class="disc-card-tags">${tagChips}</div>` : '';
-  const metaStr = c.meta ? c.meta : `★ ${c.stars || 0}`;
-
-  return `<a class="disc-card" data-cat="all" data-search="${searchAttr}" href="/en/discover/${c.slug}/">
+  const metaStr = c.meta ? sayi(c.meta) : `★ ${sayi((c.stars || 0).toLocaleString('tr-TR'))}`;
+  return `<a class="disc-card" data-cat="all" data-search="${searchAttr}" href="${PRE}/discover/${c.slug}/">
     ${imgHtml}
     <div class="disc-card-body">
       <h2 class="disc-card-title">${c.title}</h2>
@@ -365,68 +415,62 @@ const discCards = catalog.map(c => {
   </a>`;
 }).join('\n');
 
+const discSort = D.kesif_dizin_siralar.map(([v, ad]) => `<option value="${v}">${ad}</option>`).join('');
+
 const discIndexHtml = `<!DOCTYPE html>
-<html lang="en">
+<html lang="${D.html_lang}">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Discover Open Source Projects · TreScout</title>
-<meta name="description" content="Daily curated highlights of open-source developer tools, AI projects, and trending GitHub repositories.">
+<title>${D.kesif_dizin_baslik}</title>
+<meta name="description" content="${D.kesif_dizin_aciklama}">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="canonical" href="${BASE_URL}/en/discover/">
-<link rel="alternate" hreflang="tr" href="${BASE_URL}/discover/">
-<link rel="alternate" hreflang="en" href="${BASE_URL}/en/discover/">
-<link rel="alternate" hreflang="x-default" href="${BASE_URL}/en/discover/">
-<meta property="og:title" content="Discover Open Source Projects · TreScout">
-<meta property="og:description" content="Daily curated highlights of open-source developer tools and AI projects.">
-<meta property="og:url" content="${BASE_URL}/en/discover/">
+<link rel="canonical" href="${BASE_URL}${PRE}/discover/">
+${hreflang('/discover/', '/discover/')}
+<meta property="og:title" content="${D.kesif_dizin_baslik}">
+<meta property="og:description" content="${D.kesif_dizin_aciklama}">
+<meta property="og:url" content="${BASE_URL}${PRE}/discover/">
 <meta property="og:type" content="website">
-<meta property="og:locale" content="en_US">
-<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/site.css">
-<link rel="stylesheet" href="/assets/discover.css">
+<meta property="og:locale" content="${D.og_locale}">
+${kafa()}
 </head>
 <body>
-<a class="skip-link" href="#main">Skip to main content</a>
-<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports Archive</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/discover/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
+<a class="skip-link" href="#main">${D.atla}</a>
+${discKabuk.nav}
 <main id="main">
 <div class="container">
   <div class="disc-index-hero">
-    <div class="disc-eyebrow">Discover</div>
-    <h1 class="disc-index-title">Discover Trending Developer Tools</h1>
-    <p class="disc-index-lead">Handpicked open-source projects, AI tools, and frameworks captured daily by TreScout: overview, star growth, and <strong>how to use with AI agents.</strong></p>
+    <div class="disc-eyebrow">${D.kesif}</div>
+    <h1 class="disc-index-title">${D.kesif_dizin_h1}</h1>
+    <p class="disc-index-lead">${D.kesif_dizin_lead}</p>
   </div>
 
   <div class="disc-controls">
-    <input id="disc-search" class="disc-search" type="search" placeholder="Search tool name or description…" aria-label="Search tools">
+    <input id="disc-search" class="disc-search" type="search" placeholder="${D.kesif_dizin_ara}" aria-label="${D.kesif_dizin_ara_etiket}">
     <div class="disc-sortwrap">
-      <label for="disc-sort">Sort</label>
-      <select id="disc-sort" class="disc-sort">
-        <option value="stars">Most stars</option>
-        <option value="date">Newest</option>
-        <option value="title">A–Z</option>
-      </select>
+      <label for="disc-sort">${D.kesif_dizin_sirala}</label>
+      <select id="disc-sort" class="disc-sort">${discSort}</select>
     </div>
   </div>
   <!-- Kategori çipleri discover.js tarafından kart etiketlerinden kuruluyor ·
        Türkçe dizinde olan bu iki kontrol İngilizcede eksikti (2026-08-07). -->
-  <div id="disc-tags" class="disc-tags" role="group" aria-label="Categories"></div>
+  <div id="disc-tags" class="disc-tags" role="group" aria-label="${D.kesif_dizin_kategori}"></div>
 
-  <p class="disc-count" id="disc-count">${catalog.length} projects</p>
+  <p class="disc-count" id="disc-count">${catalog.length} ${D.kesif_dizin_birim}</p>
   <!-- id discover-grid · discover.js bu id'yi arıyor. Önce disc-grid yazıyordu,
        betik erken çıkıyor ve İngilizce dizinde arama hiç çalışmıyordu. -->
   <div class="disc-grid" id="discover-grid">
     ${discCards}
   </div>
-  <p class="disc-empty" id="disc-empty">No matching tools. Try adjusting your search.</p>
+  <p class="disc-empty" id="disc-empty">${D.kesif_dizin_bos}</p>
 </div>
 </main>
-${richEnFooter}
+${discKabuk.footer}
 <script src="/assets/discover.js" defer></script>
 <script src="/assets/subscribe.js" defer></script>
 </body>
 </html>`;
 fs.writeFileSync(path.join(discIndexDir, 'index.html'), discIndexHtml, 'utf8');
-console.log('Generated 1-to-1 card matching /en/discover/index.html');
+console.log(`Üretildi · ${PRE}/discover/index.html (${catalog.length} kayıt)`);
 
-console.log('Build EN script completed successfully!');
+console.log(`build-en.js tamamlandı · dil: ${LANG}`);

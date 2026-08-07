@@ -36,3 +36,8 @@ jobs:
         run: python3 scripts/check-headline-consistency.py
       - name: Marka tipografi kontrolü (🚀 · em dash)
         run: python3 scripts/check-brand-typography.py
+
+      # Aydınlatma/rıza · her kayıt formu SAYFANIN DİLİNDEKİ metne bağlanmalı.
+      # 2026-08-06'da İngilizce sayfadan aydınlatma yapılmadan kayıt alındı.
+      - name: Aydınlatma ve rıza kontrolü
+        run: python3 scripts/check-consent-consistency.py

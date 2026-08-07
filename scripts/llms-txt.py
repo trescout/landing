@@ -50,6 +50,21 @@ for t in sorted(en_terim, key=lambda x: x["en"].lower()):
     L.append(f"- [What is {t['en']}?]({B}/en/dictionary/{t['slug']}/) (raw: {B}/en/dictionary/{t['slug']}.md): {clip(t.get('kisa_en', ''))}")
 for c in sorted(en_arac, key=lambda x: -(x.get("stars") or 0)):
     L.append(f"- [{c['title']}]({B}/en/discover/{c['slug']}/) (raw: {B}/en/discover/{c['slug']}.md): {clip(c.get('tagline_en', ''))}")
+# Fransızca taraf · sayfalar aşamalı üretiliyor, bu yüzden yalnız DİSKTE OLAN
+# sayfalar listeleniyor · yarım üretimde llms.txt 404'e link vermesin diye.
+fr_terim = [t for t in man if _var(f"fr/dictionary/{t['slug']}")]
+fr_arac  = [c for c in cat if _var(f"fr/discover/{c['slug']}")]
+if fr_terim or fr_arac:
+    L += ["", "## Français", "",
+          "Le même catalogue en français, traduit depuis la source turque. Markdown brut : ajoutez `.md` à l'URL.", "",
+          f"- [Accueil]({B}/fr/)",
+          f"- [Glossaire]({B}/fr/dictionary/)",
+          f"- [Découvrir]({B}/fr/discover/)", ""]
+    for t_ in sorted(fr_terim, key=lambda x: x["en"].lower()):
+        L.append(f"- [Qu'est-ce que {t_['en']} ?]({B}/fr/dictionary/{t_['slug']}/) (brut: {B}/fr/dictionary/{t_['slug']}.md): {clip(t_.get('kisa_fr', ''))}")
+    for c in sorted(fr_arac, key=lambda x: -(x.get("stars") or 0)):
+        L.append(f"- [{c['title']}]({B}/fr/discover/{c['slug']}/) (brut: {B}/fr/discover/{c['slug']}.md): {clip(c.get('tagline_fr', ''))}")
+
 L += ["", "## İletişim", "", "hello@trescout.com", ""]
 open(os.path.join(ROOT, "llms.txt"), "w", encoding="utf-8").write("\n".join(L))
 print(f"llms.txt güncellendi · {len(man)} terim + {len(cat)} araç indekslendi (.md linkleriyle)")
@@ -83,12 +98,13 @@ E = ["# TreScout (English Index)", "",
      "Plain-language definitions of AI and software terms. Append `.md` to any URL for raw Markdown (e.g. " + B + "/en/dictionary/rag.md).", "",
      f"- [Tech Dictionary index]({B}/en/dictionary/)"]
 for t in sorted(man, key=lambda x: x["en"].lower()):
-    E.append(f"- [What is {t['en']}?]({B}/en/dictionary/{t['slug']}/) (raw: {B}/en/dictionary/{t['slug']}.md): {clip(t.get('kisa', ''))}")
+    # 2026-08-07 · burada kisa (Türkçe) yazılıyordu · İngilizce indekste Türkçe açıklama
+    E.append(f"- [What is {t['en']}?]({B}/en/dictionary/{t['slug']}/) (raw: {B}/en/dictionary/{t['slug']}.md): {clip(t.get('kisa_en') or t.get('kisa', ''))}")
 E += ["", "## Discover", "",
       "Daily highlights of trending open-source projects with setup commands and AI-powered usage guides.", "",
       f"- [Discover index]({B}/en/discover/)"]
 for c in sorted(cat, key=lambda x: -(x.get("stars") or 0)):
-    E.append(f"- [{c['title']}]({B}/en/discover/{c['slug']}/) (raw: {B}/en/discover/{c['slug']}.md): {clip(c.get('tagline', ''))}")
+    E.append(f"- [{c['title']}]({B}/en/discover/{c['slug']}/) (raw: {B}/en/discover/{c['slug']}.md): {clip(c.get('tagline_en') or c.get('tagline', ''))}")
 E += ["", "## Reports", "", "Archive of daily tech reports (PDF).", "", f"- [Reports]({B}/reports/)", "",
       "## AI Crawlers & API Access", "",
       "Every dictionary term and open-source project page is served as both HTML and plain Markdown:",
