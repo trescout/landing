@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-01",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "L'ensemble de données d'exercices (ensemble de données d'exercices) partagé par Hasaneyldrm propose 433 mouvements de fitness différents avec des noms, des groupes musculaires cibles, des équipements et des instructions visuelles. Cette ressource complète fournit une infrastructure de données structurée pour ceux qui développent des applications technologiques sportives.",
+          "meta": "HTML · ★ 7 552 · +1 343 aujourd'hui"
+        },
+        {
+          "title": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "summary": "OmniRoute est une passerelle qui offre un accès gratuit en combinant plus de 231 fournisseurs d'intelligence artificielle en un seul point de terminaison. Il réduit l'utilisation des jetons grâce à des techniques de compression avancées, tout en optimisant les outils de développement avec une sauvegarde intelligente et une prise en charge de l'interface multimodale.",
+          "meta": "TypeScript · ★ 8 906 · +387 aujourd'hui"
+        },
+        {
+          "title": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "summary": "Common User Passwords Profiler est un outil Python permettant de créer des listes de mots de passe ciblées. Il prépare des fichiers de dictionnaire personnalisés (listes de mots) en analysant les données utilisateur spécifiques.",
+          "meta": "Python · ★ 6 161 · +32 aujourd'hui"
+        },
+        {
+          "title": "google/agents-cli",
+          "url": "https://github.com/google/agents-cli",
+          "summary": "L'interface de ligne de commande (CLI) développée par Google réalise des assistants de codage spécialisés dans la création, l'évaluation et le déploiement d'agents d'intelligence artificielle sur Google Cloud (Google Cloud). Cet outil basé sur Python standardise les processus de développement d'agents et accélère les flux de travail opérationnels sur l'infrastructure cloud.",
+          "meta": "Python · ★ 4 413 · +445 aujourd'hui"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Développé avec le langage Rust, herdr fonctionne comme un multiplexeur d'agents s'exécutant sur le terminal. Cet outil permet aux utilisateurs de gérer plusieurs agents d'intelligence artificielle simultanément dans l'environnement du terminal.",
+          "meta": "Rust · ★ 9 203 · +486 aujourd'hui"
+        },
+        {
+          "title": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "summary": "Instatic est un système de gestion de contenu visuel (CMS) moderne auto-hébergé basé sur TypeScript. Il permet aux utilisateurs d'exécuter l'interface de gestion de contenu sur leurs propres serveurs avec un processus d'installation rapide.",
+          "meta": "TypeScript · ★ 1 681 · +351 aujourd'hui"
+        },
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "Préparé par Microsoft, AI for Beginners enseigne des sujets d'introduction à l'intelligence artificielle via Jupyter Notebooks, avec un programme de 12 semaines. Ce contenu de 24 leçons offre une ressource pédagogique structurée pour ceux qui souhaitent apprendre des concepts de base avec des exemples appliqués.",
+          "meta": "Jupyter Notebook · ★ 49 751 · +252 aujourd'hui"
+        },
+        {
+          "title": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "summary": "Développé par Meta, Astryx propose un système de conception entièrement personnalisable et compatible avec les agents d'intelligence artificielle. Cette bibliothèque open source basée sur TypeScript configure les composants d'interface pour l'utilisation de systèmes autonomes.",
+          "meta": "TypeScript · ★ 2 000 · +364 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Code is steganographically marking requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "summary": "L'outil Claude Code, développé par Anthropic, ajoute des données invisibles aux requêtes envoyées et les marque avec la méthode de stéganographie. Cette technique fonctionne comme un mécanisme de surveillance développé pour suivre les données d'utilisation des modèles d'intelligence artificielle et gérer les processus de sécurité.",
+          "meta": "1 870 votes · 529 commentaires"
+        },
+        {
+          "title": "Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "summary": "Anthropic a publié une version mise à jour du modèle Claude 3.5 Sonnet, offrant des améliorations de performances dans les capacités de codage et de raisonnement. Le nouveau modèle étend la capacité d'effectuer des transactions directes via des interfaces dotées d'une capacité d'utilisation informatique.",
+          "meta": "1 092 votes · 627 commentaires"
+        },
+        {
+          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+          "summary": "Le ministère du Commerce a levé les contrôles à l'exportation sur les modèles Claude Fable 5 et Mythos 5. Cette réglementation libère l’accès commercial et l’utilisation de ces modèles d’intelligence artificielle sur les marchés internationaux.",
+          "meta": "635 votes · 344 commentaires"
+        },
+        {
+          "title": "Claude Science",
+          "url": "https://claude.com/product/claude-science",
+          "summary": "Anthropic a lancé Claude Science, un outil conçu pour analyser des ensembles de données complexes et valider des hypothèses dans la recherche scientifique. Cet outil vise à augmenter les capacités des grands modèles de langage dans les processus de revue de la littérature académique et de traitement des données.",
+          "meta": "471 votes · 142 commentaires"
+        },
+        {
+          "title": "Nano Banana 2 Lite",
+          "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+          "summary": "Google a annoncé le modèle Gemini Flash Lite, optimisé pour les processus de traitement visuel à faible latence. Ce modèle a été conçu pour effectuer une analyse rapide d’images sur des appareils dotés de ressources limitées.",
+          "meta": "363 votes · 144 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "exercises-dataset",
+      "explanation": "Un ensemble de données de pratique organisées qui vous permettent de pratiquer tout en apprenant une matière."
+    },
+    {
+      "term": "endpoint",
+      "explanation": "Périphériques de point de terminaison tels qu’un ordinateur, un téléphone ou une tablette connectés au réseau."
+    },
+    {
+      "term": "gateway",
+      "explanation": "Port qui gère et transfère le trafic de données entre différents réseaux."
+    },
+    {
+      "term": "token",
+      "explanation": "Clé de sécurité temporaire qui vérifie votre identité pour les transactions numériques ou accorde l'accès aux systèmes."
+    },
+    {
+      "term": "Common User Passwords Profiler",
+      "explanation": "Un outil qui identifie les vulnérabilités de sécurité en analysant les mots de passe faibles que les gens utilisent fréquemment."
+    },
+    {
+      "term": "wordlists",
+      "explanation": "Listes de mots et de mots de passe fréquemment utilisés pour tenter de se connecter aux systèmes."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface textuelle qui exécute des programmes avec des commandes écrites plutôt qu'avec la souris."
+    },
+    {
+      "term": "Google Cloud",
+      "explanation": "Plateforme de services de stockage de données Internet et d'exécution d'applications proposée par Google."
+    }
+  ]
+}

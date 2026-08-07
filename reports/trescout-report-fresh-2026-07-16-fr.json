@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-16",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "summary": "Open Interpreter propose un agent de codage qui automatise les processus de développement logiciel en exécutant du code dans l'environnement informatique local. Conçu pour fonctionner avec des modèles de langage à faible coût, cet outil permet d'exécuter des tâches complexes directement depuis le terminal.",
+          "meta": "Rust · ★ 65 626 · +299 aujourd'hui"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor est un système de tutorat privé basé sur l'apprentissage tout au long de la vie qui propose des processus éducatifs personnalisés utilisant les données des étudiants. Le projet vise à optimiser l’expérience d’apprentissage grâce à des méthodes de tutorat individualisé basées sur l’intelligence artificielle.",
+          "meta": "Python · ★ 26 461 · +172 aujourd'hui"
+        },
+        {
+          "title": "YimMenu/YimMenuV2",
+          "url": "https://github.com/YimMenu/YimMenuV2",
+          "summary": "YimMenuV2 est une modification de menu expérimentale développée pour Grand Theft Auto 5 : édition améliorée. Écrit en C++, cet outil propose diverses personnalisations et fonctions étendues au sein du jeu.",
+          "meta": "C++ · ★ 1 458 · +38 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Inkling: Our Open-Weights Model",
+          "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+          "summary": "Publié par Thinking Machines, Inkling est proposé aux développeurs sous la forme d'un modèle de langage à pondération ouverte. Le modèle vise une structure flexible qui permet un ajustement précis sur des ensembles de données spéciaux.",
+          "meta": "856 votes · 214 commentaires"
+        },
+        {
+          "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+          "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+          "summary": "Stripe et la société d'investissement Advent ont fait une offre commune d'une valeur de plus de 53 milliards de dollars pour acquérir le fournisseur de systèmes de paiement PayPal. Cette initiative reflète les tendances de consolidation à grande échelle dans le secteur des technologies financières (fintech).",
+          "meta": "412 votes · 223 commentaires"
+        },
+        {
+          "title": "Grok Build is open source",
+          "url": "https://github.com/xai-org/grok-build",
+          "summary": "xAI a publié la bibliothèque open source Grok-1, basée sur l'architecture et les processus de formation du modèle Grok. Ce développement permet aux développeurs d'affiner de grands modèles de langage et d'examiner les principes de fonctionnement du modèle.",
+          "meta": "369 votes · 400 commentaires"
+        },
+        {
+          "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+          "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+          "summary": "Le modèle Gemma 4 26B peut fonctionner à une vitesse de 5 jetons par seconde sur un processeur Xeon de 13 ans sans utiliser d'unité de traitement graphique (GPU). Cette application démontre l'importance des techniques d'optimisation pour une inférence efficace de grands modèles de langage (LLM) sur du matériel plus ancien.",
+          "meta": "268 votes · 174 commentaires"
+        },
+        {
+          "title": "SQLite should have (Rust-style) editions",
+          "url": "https://mort.coffee/home/sqlite-editions/",
+          "summary": "Une structure similaire au modèle d'éditions dans Rust est recommandée pour le moteur de base de données SQLite. Cette approche vise à ajouter de nouvelles fonctionnalités et à améliorer les processus de maintenance à long terme du logiciel sans perturber la rétrocompatibilité.",
+          "meta": "199 votes · 77 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B est proposé sous forme de modèle de génération de texte optimisé avec la méthode de quantification ternaire. Cette technique vise à réduire l'utilisation de la mémoire tout en minimisant la perte de performances du modèle.",
+          "meta": "♥ 497 · 23 téléchargements"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Développé par Thinkingmachines, Inkling est un modèle multimodal qui produit une sortie de texte en traitant les entrées visuelles et textuelles. Le système est conçu pour analyser les données visuelles et les utiliser dans des tâches textuelles.",
+          "meta": "♥ 486 · 0 téléchargements"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B est un modèle de langage optimisé pour les tâches de génération de texte. Cette structure, présentée au format GGUF, permet au modèle de fonctionner plus efficacement sur différentes ressources matérielles.",
+          "meta": "♥ 283 · 513 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "coding agent",
+      "explanation": "Un outil d'intelligence artificielle qui écrit des codes logiciels, corrige des bugs et développe des applications pour vous."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "Le processus d'amélioration continue d'un modèle d'intelligence artificielle au fur et à mesure qu'il rencontre de nouvelles données, sans oublier ses anciennes informations."
+    },
+    {
+      "term": "personalized tutoring",
+      "explanation": "Un système numérique qui modifie le contenu en fonction de la vitesse et des besoins de l'élève et propose un enseignement personnalisé."
+    },
+    {
+      "term": "features",
+      "explanation": "Fonctions et capacités spéciales qu'un produit ou un logiciel offre aux utilisateurs."
+    }
+  ]
+}

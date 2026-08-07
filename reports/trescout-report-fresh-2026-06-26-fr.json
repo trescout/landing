@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-26",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI-berkshire est un cadre de recherche sur l'investissement de valeur qui met en œuvre les méthodologies d'investisseurs tels que Warren Buffett et Charlie Munger, en utilisant l'infrastructure Claude Code. Le système analyse les données financières grâce à sa structure multi-agents et effectue des examens contradictoires.",
+          "meta": "Python · ★ 2 500 · +309 aujourd'hui"
+        },
+        {
+          "title": "mauriceboe/TREK",
+          "url": "https://github.com/mauriceboe/TREK",
+          "summary": "TREK est une application de planification de voyage auto-hébergée qui offre des fonctionnalités telles que la collaboration en temps réel, des cartes interactives et la gestion du budget. Grâce à la prise en charge des applications Web progressives (PWA) et à l'intégration de l'authentification unique (SSO), il permet aux utilisateurs d'organiser leurs processus de voyage de manière numérique.",
+          "meta": "TypeScript · ★ 7 040 · +241 aujourd'hui"
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open SEO offre une alternative open source aux outils payants comme Semrush et Ahrefs. Ce logiciel, développé pour analyser les données d'optimisation des moteurs de recherche (SEO), vise à rendre les processus transparents grâce à son infrastructure basée sur TypeScript.",
+          "meta": "TypeScript · ★ 2 736 · +57 aujourd'hui"
+        },
+        {
+          "title": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "summary": "AWS a publié un ensemble d'outils comprenant des serveurs, des compétences et des plug-ins Model Context Protocol pour faciliter l'interaction des agents d'IA avec l'infrastructure cloud. Ce développement fournit une structure standardisée qui permet aux agents d'opérer directement sur les services AWS.",
+          "meta": "Python · ★ 1 209 · +47 aujourd'hui"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "summary": "Développé par Alibaba, page-agent est un agent d'interface utilisateur graphique sur la page qui permet de contrôler les interfaces Web avec des commandes en langage naturel. Écrit en TypeScript, cet outil offre un mécanisme de contrôle basé sur un navigateur pour automatiser les interactions Web.",
+          "meta": "TypeScript · ★ 20 032 · +163 aujourd'hui"
+        },
+        {
+          "title": "IceWhaleTech/CasaOS",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "summary": "CasaOS propose un système cloud personnel open source qui facilite la gestion des applications basées sur Docker. Cette interface, développée avec le langage Go, permet aux utilisateurs de gérer simplement leurs serveurs via un panneau visuel.",
+          "meta": "Go · ★ 34 992 · +223 aujourd'hui"
+        },
+        {
+          "title": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "summary": "MinerU convertit les formats de documents complexes tels que PDF et Office en format markdown ou JSON adapté aux grands modèles de langage. Cet outil vise à rendre les données non structurées disponibles dans des workflows basés sur des agents.",
+          "meta": "Python · ★ 69 899 · +644 aujourd'hui"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler collecte automatiquement les publications et les commentaires des utilisateurs sur les plateformes de médias sociaux chinoises populaires grâce au web scraping. Cet outil basé sur Python offre une infrastructure complète d'exploration de données pour les processus d'analyse de contenu et de collecte de données.",
+          "meta": "Python · ★ 53 062 · +398 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "An entire Herculaneum scroll has been read for the first time",
+          "url": "https://scrollprize.org/firstscroll",
+          "summary": "Les manuscrits d'Herculanum, carbonisés par l'éruption du Vésuve, ont été lus sans être physiquement ouverts pour la première fois, grâce à la tomodensitométrie et à des techniques de traitement d'images basées sur l'intelligence artificielle. Cette étude prouve le succès des méthodes de déballage virtuel développées pour l’analyse numérique de textes anciens.",
+          "meta": "1 238 votes · 260 commentaires"
+        },
+        {
+          "title": "Om Malik has died",
+          "url": "https://om.co/2026/06/24/1966-2026/",
+          "summary": "Om Malik, l'un des pionniers du journalisme technologique, est décédé à l'âge de 59 ans. Malik, le fondateur de la plateforme Gigaom, était connu pour ses articles documentant le processus de transformation numérique de l'écosystème de la Silicon Valley.",
+          "meta": "822 votes · 91 commentaires"
+        },
+        {
+          "title": "Apple raises prices of MacBooks, iPads",
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+          "summary": "Apple a mis à jour les prix de vente des modèles MacBook et iPad en raison de l'augmentation des coûts de mémoire. Les augmentations de prix des composants matériels ont directement affecté la structure des coûts de la gamme de produits de l'entreprise.",
+          "meta": "698 votes · 1 007 commentaires"
+        },
+        {
+          "title": "The 'papers, please' era of the internet will decimate your privacy",
+          "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+          "summary": "Le fait que les plateformes Internet exigent des processus de vérification de l’âge et de preuve d’identité exerce une pression sur la vie privée des utilisateurs. La prolifération des applications d’identité numérique élargit le champ de la collecte de données personnelles et réduit les zones d’anonymat.",
+          "meta": "643 votes · 301 commentaires"
+        },
+        {
+          "title": "Oxide computer 3D rack guided tour",
+          "url": "https://explorer.oxide.computer/",
+          "summary": "Oxide Computer a publié un outil de visite des racks 3D qui rend la conception matérielle du centre de données transparente. Les utilisateurs peuvent examiner en détail la structure interne et la disposition des composants des systèmes de serveur via le navigateur.",
+          "meta": "356 votes · 140 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "research framework",
+      "explanation": "Un ensemble de méthodes et d'outils standards utilisés pour mener un processus de recherche."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Plusieurs logiciels d’intelligence artificielle travaillent en collaboration pour atteindre un objectif commun."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Héberger un logiciel sur votre propre ordinateur ou serveur privé, plutôt que sur le serveur d'une autre entreprise."
+    },
+    {
+      "term": "PWA",
+      "explanation": "Pages Web qui fonctionnent via un navigateur Internet mais peuvent être installées sur votre téléphone comme une application."
+    },
+    {
+      "term": "SSO",
+      "explanation": "Un système qui vous permet de vous connecter à de nombreuses applications différentes en même temps avec un seul nom d'utilisateur et un seul mot de passe."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Dispositions prises pour garantir que les sites Web soient mieux classés dans les moteurs de recherche."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Un pont qui permet aux modèles d'intelligence artificielle de communiquer avec différentes sources de données de manière sécurisée et standard."
+    },
+    {
+      "term": "skills",
+      "explanation": "Compétences techniques dont un logiciel ou un système a besoin pour effectuer une opération spécifique."
+    }
+  ]
+}

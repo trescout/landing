@@ -1,0 +1,101 @@
+{
+  "date": "2026-06-23",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Stirling-Tools/Stirling-PDF",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "summary": "Stirling-PDF est un outil de traitement de documents open source qui permet aux utilisateurs de modifier des fichiers PDF sur n'importe quel appareil. Développée avec TypeScript, cette application centralise les processus de gestion documentaire en s'exécutant sur des serveurs locaux.",
+          "meta": "TypeScript · ★ 83 316 · +547 aujourd'hui"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Gstack est un système basé sur la configuration Claude Code de Garry Tan et se compose de 23 outils spécialisés qui jouent différents rôles tels que PDG, concepteur, responsable de l'ingénierie. Cette structure basée sur TypeScript propose des flux de travail définis pour automatiser les processus de développement logiciel.",
+          "meta": "TypeScript · ★ 113 462 · +573 aujourd'hui"
+        },
+        {
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "summary": "Développé par Heygen, Hyperframes propose un framework qui convertit les codes HTML directement en vidéo. Conçu pour permettre aux agents d'intelligence artificielle de produire plus facilement du contenu visuel, cet outil convertit les interfaces Web au format vidéo.",
+          "meta": "TypeScript · ★ 30 297 · +395 aujourd'hui"
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl propose une interface (API) pour explorer les données des sites Web à grande échelle, les extraire et les convertir dans un format de texte clair que les modèles d'IA peuvent traiter. Cet outil simplifie les processus de collecte de données en automatisant l'interaction avec le contenu Web.",
+          "meta": "TypeScript · ★ 137 683 · +615 aujourd'hui"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "Le cloneur de sites Web à intelligence artificielle (AI website cloner), développé par JCodesMore, permet de copier des sites Web existants avec une seule commande à l'aide d'agents de codage basés sur TypeScript. Cet outil utilise la génération de code basée sur l'IA pour automatiser les processus de conception et de développement Web.",
+          "meta": "TypeScript · ★ 18 039 · +100 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Steam Machine launches today",
+          "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+          "summary": "Valve a lancé Steam Machine, une nouvelle plate-forme matérielle qui amène la bibliothèque de jeux dans le salon. L'appareil vise à offrir une expérience de jeu avec une interface de type console via un système d'exploitation spécial (SteamOS).",
+          "meta": "1 491 votes · 1 307 commentaires"
+        },
+        {
+          "title": "Help I accidentally a wigglegram",
+          "url": "https://lmao.center/blog/wiggle-accidents/",
+          "summary": "Wigglegram est une technique d'illusion de perception de la profondeur (effet stéréoscopique) créée en jouant deux ou plusieurs photographies en succession rapide. Cette méthode vise à créer une impression de profondeur tridimensionnelle en ajoutant du mouvement aux images statiques.",
+          "meta": "526 votes · 122 commentaires"
+        },
+        {
+          "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+          "url": "https://ipvm.com/reports/police-chiefs-track",
+          "summary": "La reconnaissance automatique des plaques d'immatriculation fournie par Flock Safety déclenche des débats sur la sécurité et la confidentialité, car les chefs de police l'utilisent pour suivre les femmes à des fins personnelles. Cette situation met à l'ordre du jour la nécessité d'un mandat de perquisition légal pour le contrôle des technologies de surveillance.",
+          "meta": "490 votes · 200 commentaires"
+        },
+        {
+          "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+          "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+          "summary": "Le gouvernement canadien prévoit une stratégie de renaissance nucléaire qui vise à augmenter la capacité de production d'énergie en construisant jusqu'à dix nouveaux réacteurs nucléaires d'ici 2040. Cette initiative représente les efforts du pays pour étendre son infrastructure d'énergie nucléaire afin d'atteindre ses objectifs en matière d'énergie propre.",
+          "meta": "443 votes · 293 commentaires"
+        },
+        {
+          "title": "GLM-5.2 – How to Run Locally",
+          "url": "https://unsloth.ai/docs/models/glm-5.2",
+          "summary": "La plate-forme Unsloth propose les méthodes d'optimisation et les étapes d'installation nécessaires pour exécuter le modèle GLM-5.2 sur des ordinateurs locaux. Ce guide détaille les processus techniques visant à exécuter des modèles de langage hautes performances avec des exigences matérielles inférieures.",
+          "meta": "340 votes · 147 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Développé par Baidu, Unlimited-OCR est un modèle d'image en texte qui convertit le texte basé sur une image en données texte. Cette technologie, développée pour numériser les données de documents complexes, vise une grande précision dans les processus de reconnaissance optique de caractères.",
+          "meta": "♥ 261 · 47 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "workflows",
+      "explanation": "Un ensemble d'étapes régulières et répétables qui doivent être suivies pour accomplir une tâche."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un cadre de base qui fournit des structures et des règles prêtes à l'emploi qui facilitent les choses lors du développement de logiciels."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-18",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp offre une intelligence de code haute performance en transformant les bases de code en un graphe de connaissances permanent. Développé en langage C, l'outil prend en charge 158 langages de programmation, réduit les temps de requête à moins de millisecondes et réduit l'utilisation des jetons.",
+          "meta": "C · ★ 6 142 · +371 aujourd'hui"
+        },
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "Le modèle Time Series Foundation, développé par Google Research, offre une structure pré-entraînée pour la prévision de séries chronologiques. Le modèle est conçu pour fournir des capacités prédictives générales sur différents ensembles de données.",
+          "meta": "Python · ★ 22 167 · +606 aujourd'hui"
+        },
+        {
+          "title": "RocketChat/Rocket.Chat",
+          "url": "https://github.com/RocketChat/Rocket.Chat",
+          "summary": "Rocket.Chat propose un système d'exploitation de communications sécurisé conçu pour les opérations critiques. La plateforme, développée avec le langage TypeScript, vise à centraliser les processus de messagerie et de collaboration internes.",
+          "meta": "TypeScript · ★ 45 649 · +22 aujourd'hui"
+        },
+        {
+          "title": "continuedev/continue",
+          "url": "https://github.com/continuedev/continue",
+          "summary": "Continue est un agent de codage open source conçu pour automatiser les processus de développement de logiciels. Il permet aux développeurs d'écrire, de déboguer et de refactoriser du code dans l'EDI à l'aide de leurs modèles de langage natif (LLM).",
+          "meta": "TypeScript · ★ 34 017 · +49 aujourd'hui"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot est un outil de conception open source qui renforce la collaboration entre concepteurs et développeurs. Grâce à son interface vectorielle, il vous permet de gérer les processus de conception de manière intégrée avec la phase de codage.",
+          "meta": "Clojure · ★ 50 242 · +70 aujourd'hui"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Ce référentiel, partagé par Matt Pocock, contient des scripts et des instructions structurées permettant aux ingénieurs logiciels d'utiliser plus efficacement les assistants d'intelligence artificielle. Les développeurs utilisent ces compétences prêtes à l'emploi pour améliorer les performances des modèles d'intelligence artificielle tels que Claude dans les processus de codage et de débogage.",
+          "meta": "Shell · ★ 134 391 · +1 523 aujourd'hui"
+        },
+        {
+          "title": "yairm210/Unciv",
+          "url": "https://github.com/yairm210/Unciv",
+          "summary": "Unciv est une adaptation open source pour ordinateur et Android du jeu Civilization V. Développé en langage Kotlin, le projet apporte des mécaniques de jeu originales aux utilisateurs sur une infrastructure plus légère.",
+          "meta": "Kotlin · ★ 10 739 · +24 aujourd'hui"
+        },
+        {
+          "title": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "summary": "Développé par ByteDance, UI-TARS est une infrastructure d'agent open source qui intègre des modèles d'IA multimodaux avec des interfaces de bureau. Ce système permet la création d'agents (agents IA) qui effectuent de manière autonome des tâches sur l'ordinateur en traitant des données visuelles.",
+          "meta": "TypeScript · ★ 36 779 · +150 aujourd'hui"
+        },
+        {
+          "title": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "summary": "Nautilus Trader est un moteur de trading doté d'une architecture déterministe basée sur les événements, développé en langage Rust. Elle propose des solutions d'infrastructure de niveau production pour des systèmes financiers hautes performances.",
+          "meta": "Rust · ★ 23 912 · +98 aujourd'hui"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage est un système open source basé sur des agents qui transforme les assistants de codage IA en un studio de production vidéo à part entière. Cette plateforme basée sur Python automatise les processus de production vidéo avec 12 pipelines différents et plus de 500 compétences d'agents.",
+          "meta": "Python · ★ 5 648 · +98 aujourd'hui"
+        },
+        {
+          "title": "alexzhang13/rlm",
+          "url": "https://github.com/alexzhang13/rlm",
+          "summary": "Développé pour les modèles de langage récursifs, rlm est une bibliothèque d'inférence plug-and-play qui prend en charge différents bacs à sable. Cet outil basé sur Python standardise les processus de modèles de langage complexes, les rendant plus faciles à intégrer dans différents systèmes.",
+          "meta": "Python · ★ 4 987 · +43 aujourd'hui"
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane est une plateforme de gestion de projet open source qui regroupe les processus de gestion des tâches, de planification de sprint et de documentation. Développée comme alternative aux outils d'entreprise tels que Jira et Linear, cette plateforme permet aux équipes d'organiser les flux de travail via une interface centrale.",
+          "meta": "TypeScript · ★ 51 506 · +89 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Lore – Open source version control system designed for scalability",
+          "url": "https://lore.org/",
+          "summary": "Lore a été développé comme un système de contrôle de version open source conçu en mettant l'accent sur l'évolutivité. Il offre une infrastructure alternative pour gérer de grands ensembles de données et des flux de travail complexes dans les projets logiciels.",
+          "meta": "1 117 votes · 595 commentaires"
+        },
+        {
+          "title": "Volkswagen started blocking GrapheneOS users",
+          "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+          "summary": "Volkswagen empêche son application mobile de fonctionner sur des appareils dotés du système d'exploitation GrapheneOS pour des raisons de sécurité. La société restreint l'accès à l'application conformément aux protocoles de sécurité lorsqu'un accès root ou un logiciel personnalisé est détecté.",
+          "meta": "658 votes · 394 commentaires"
+        },
+        {
+          "title": "Midjourney Medical",
+          "url": "https://www.midjourney.com/medical/blogpost",
+          "summary": "Midjourney développe un modèle d'intelligence artificielle spécialisé (modèle d'IA médicale) pour analyser les données d'imagerie médicale et donner un sens aux examens radiologiques. Avec ce système, l'entreprise vise à accélérer les processus de diagnostic et à créer une infrastructure standard pour le traitement des données visuelles médicales.",
+          "meta": "650 votes · 447 commentaires"
+        },
+        {
+          "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+          "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+          "summary": "Les États-Unis ont pour l’instant reporté les restrictions sur la plateforme DeepSeek, malgré la mise sur liste noire de plus d’une centaine d’entreprises chinoises en raison de risques de sécurité. La décision en question montre que les enquêtes sur les effets des entreprises technologiques sur la sécurité nationale se poursuivent.",
+          "meta": "449 votes · 498 commentaires"
+        },
+        {
+          "title": "RFC 10008: The new HTTP Query Method",
+          "url": "https://www.rfc-editor.org/info/rfc10008/",
+          "summary": "La méthode de requête HTTP introduit une nouvelle norme qui peut contenir du contenu corporel, mais qui est conçue pour des opérations sécurisées et sans effets secondaires. Cette méthode permet de transmettre des requêtes de données plus complexes en contournant les restrictions de longueur d'URL de la requête GET actuelle.",
+          "meta": "365 votes · 154 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "knowledge graph",
+      "explanation": "Une base de données qui relie les informations dans une structure de réseau avec leurs relations les unes avec les autres."
+    },
+    {
+      "term": "token",
+      "explanation": "La plus petite unité segmentée de mots ou de syllabes utilisée par l’intelligence artificielle lors du traitement de textes."
+    },
+    {
+      "term": "Time Series Foundation Model",
+      "explanation": "Modèle d'intelligence artificielle avancé capable d'analyser les changements dans les données en fonction du temps et de prédire les situations futures."
+    },
+    {
+      "term": "communications operating system",
+      "explanation": "Plateforme logicielle qui permet de gérer différents outils et canaux de communication à partir d'un seul centre."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Intelligence artificielle autonome capable d’écrire du code logiciel, de corriger des bugs et d’améliorer les projets par elle-même."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Un modèle d'intelligence artificielle entraîné avec des données très volumineuses, capable de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "refactoring",
+      "explanation": "Processus consistant à rendre la structure du code interne du logiciel plus organisée et efficace sans modifier son comportement externe."
+    }
+  ]
+}

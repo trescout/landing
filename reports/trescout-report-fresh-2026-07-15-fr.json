@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-15",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "1c7/chinese-independent-developer",
+          "url": "https://github.com/1c7/chinese-independent-developer",
+          "summary": "Cette base de données open source, qui recense les projets réalisés par des développeurs indépendants chinois, rassemble les applications et espaces de travail développés par les développeurs de logiciels. La plateforme vous permet de suivre les tendances actuelles et les études orientées produits dans l'écosystème du développement indépendant (indie hacking).",
+          "meta": "Python · ★ 54 609 · +1 196 aujourd'hui"
+        },
+        {
+          "title": "AIEraDev/Clypra",
+          "url": "https://github.com/AIEraDev/Clypra",
+          "summary": "Clypra est une application d'édition vidéo open source développée à l'aide de Tauri, React et TypeScript. Le logiciel vise à offrir des fonctionnalités avancées trouvées dans les outils de montage vidéo payants comme alternative gratuite.",
+          "meta": "TypeScript · ★ 2 729 · +85 aujourd'hui"
+        },
+        {
+          "title": "chenyme/grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "summary": "Développée pour les plateformes Grok Build, Grok Web et Grok Console, cette passerelle (passerelle API) regroupe la gestion multi-comptes dans un centre unique. Écrit en langage Go, l'outil offre une interface gérable en standardisant l'accès des utilisateurs aux différents services Grok.",
+          "meta": "Go · ★ 5 927 · +186 aujourd'hui"
+        },
+        {
+          "title": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "summary": "Maths-cs-ai-compendium propose une collection complète de ressources couvrant les mathématiques, l'informatique et l'intelligence artificielle pour les ingénieurs qui souhaitent se spécialiser dans l'intelligence artificielle et l'apprentissage automatique. Ce référentiel sert de guide d'étude structuré pour renforcer les fondements théoriques et développer les compétences en ingénierie de recherche.",
+          "meta": "TypeScript · ★ 5 424 · +112 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+          "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+          "summary": "Les développeurs ont tendance à préférer la structure légère et accessible offerte par les pages Web standard aux architectures d'applications complexes. Cette approche soutient que les solutions basées sur un navigateur suffisent souvent à simplifier l’expérience utilisateur.",
+          "meta": "773 votes · 467 commentaires"
+        },
+        {
+          "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+          "url": "https://prismml.com/news/bonsai-27b",
+          "summary": "Développé par PrismML, Bonsai 27B a été conçu comme un grand modèle de langage avec 27 milliards de paramètres pouvant fonctionner sur les smartphones. Le modèle rend accessibles sur les appareils mobiles les modèles nécessitant une puissance de calcul élevée en utilisant des techniques de compression de modèles.",
+          "meta": "525 votes · 187 commentaires"
+        },
+        {
+          "title": "How to stop Claude from saying load-bearing",
+          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "summary": "L'expression « porteur », que les grands modèles de langage (LLM) comme Claude utilisent souvent dans leurs réponses, est un modèle qui indique que le modèle s'appuie de manière excessive sur un contexte particulier. Les utilisateurs peuvent empêcher ces expressions répétitives qui réduisent la qualité du contenu grâce aux invites du système et permettre au modèle de produire des réponses plus originales.",
+          "meta": "489 votes · 529 commentaires"
+        },
+        {
+          "title": "Are we offloading too much of our thinking to AI?",
+          "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+          "summary": "Les effets de la charge cognitive transférée aux outils d’intelligence artificielle sur les capacités de résolution de problèmes et de pensée critique de l’esprit humain sont discutés. L’équilibre entre l’automatisation facilitant les processus intellectuels et le risque que les individus perdent leurs propres compétences d’analyse est remis en question dans le monde technologique.",
+          "meta": "426 votes · 409 commentaires"
+        },
+        {
+          "title": "The Tower Keeps Rising",
+          "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+          "summary": "À mesure que la complexité augmente dans le monde du logiciel, l’accumulation de couches d’abstraction qui compliquent la gestion des systèmes pose problème. Dans les processus de développement logiciel modernes, la dette technique et les coûts de maintenance créés par ces couches limitent la durabilité des architectures système.",
+          "meta": "423 votes · 191 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "indie hacking",
+      "explanation": "Le processus de développement et de vente de vos propres produits numériques seul ou avec de petites équipes, sans être affilié à de grandes entreprises."
+    },
+    {
+      "term": "prompt",
+      "explanation": "Une instruction ou une commande écrite que vous donnez à l’intelligence artificielle pour en tirer un résultat."
+    },
+    {
+      "term": "video editor",
+      "explanation": "Logiciel permettant de découper des images, d'ajouter des effets et d'éditer des sons pour en faire un film regardable."
+    },
+    {
+      "term": "API gateway",
+      "explanation": "Une passerelle numérique qui gère le trafic de données entre différentes applications, assure la sécurité et oriente les demandes au bon endroit."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Technologie qui permet aux ordinateurs d’apprendre par eux-mêmes en examinant les données et en effectuant de meilleures prédictions au fil du temps."
+    },
+    {
+      "term": "application",
+      "explanation": "Tout programme logiciel que vous utilisez pour effectuer une tâche spécifique sur des ordinateurs ou des téléphones."
+    },
+    {
+      "term": "web-based solutions",
+      "explanation": "Services logiciels qui fonctionnent uniquement via le navigateur Internet, sans qu'il soit nécessaire d'installer quoi que ce soit sur votre ordinateur."
+    }
+  ]
+}

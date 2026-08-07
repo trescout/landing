@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-19",
+  "editorial": "Aujourd’hui, il existe un mouvement axé sur les outils de développement et les pratiques d’ingénierie de l’intelligence artificielle (IA Engineering). Les projets qui automatisent les processus d'analyse de données open source et de révision de code sur GitHub gagnent en popularité.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "Lingbot-map est un modèle de base à rétroaction développé pour la reconstruction de scènes à partir de données en streaming. Il fournit une solution pour modéliser des environnements tridimensionnels avec des données en streaming en temps réel.",
+          "meta": "Python · ★ 13 120 · +831 aujourd'hui"
+        },
+        {
+          "title": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "summary": "Apache Ossie est une initiative qui vise à standardiser l'échange de métadonnées sémantiques entre les plateformes d'analyse, d'intelligence artificielle et de business intelligence (BI). Ce projet vise à créer une source de vérité unique et indépendante du fournisseur pour les données sémantiques.",
+          "meta": "Python · ★ 1 318 · +47 aujourd'hui"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog combine des outils tels que l'observabilité de l'IA, l'enregistrement de sessions et le suivi des bogues sur une seule plateforme pour optimiser les processus de développement de produits. Grâce à ces outils, les développeurs peuvent gérer des workflows de produits autonomes en analysant les données des utilisateurs.",
+          "meta": "Python · ★ 36 675 · +338 aujourd'hui"
+        },
+        {
+          "title": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "summary": "Développé pour les ingénieurs de conception, ui-skills rassemble les aptitudes et compétences techniques nécessaires aux processus de développement d’interfaces utilisateur (UI). Cette ressource basée sur TypeScript présente les normes et méthodologies de développement de logiciels axées sur les interfaces avec un programme structuré.",
+          "meta": "TypeScript · ★ 5 166 · +123 aujourd'hui"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Préparée pour ceux qui souhaitent entrer dans le domaine de l'ingénierie de l'intelligence artificielle (ingénierie IA), cette ressource vise à enseigner les processus de développement d'applications de bout en bout à l'aide de Python. Cette étude, qui met en pratique les connaissances théoriques, couvre la conception et le déploiement de logiciels basés sur l'intelligence artificielle.",
+          "meta": "Python · ★ 39 221 · +191 aujourd'hui"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph crée une carte locale de la base de code, fournissant un graphique d'intelligence du code qui garantit que les outils logiciels basés sur l'IA ne traitent que les sections pertinentes. Cette méthode augmente l'efficacité en fournissant une réduction du contexte dans les flux de travail et les processus de révision de code dans les grands projets.",
+          "meta": "Python · ★ 20 303 · +355 aujourd'hui"
+        },
+        {
+          "title": "elder-plinius/G0DM0D3",
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "summary": "G0DM0D3 est une interface de chat IA libérée qui vise à contourner les couches de sécurité des grands modèles de langage. Développé avec TypeScript, ce projet open source permet aux utilisateurs d'interagir avec des modèles sans restrictions.",
+          "meta": "TypeScript · ★ 9 570 · +69 aujourd'hui"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM permet d'exécuter de grands modèles de langage avec 70 milliards de paramètres avec seulement 4 Go de mémoire de carte vidéo (VRAM). Cette bibliothèque permet aux modèles haute capacité de déduire des systèmes bas de gamme en utilisant des techniques d'optimisation de la mémoire.",
+          "meta": "Jupyter Notebook · ★ 23 415 · +161 aujourd'hui"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo est un outil qui fournit des capacités de recherche, d'extraction de données et d'exploration locales pour les agents de codage d'intelligence artificielle. Ce système, qui fonctionne sur le protocole de contexte de modèle (MCP), permet une recherche gratuite sans dépendance au cloud et sans nécessiter de clé API.",
+          "meta": "TypeScript · ★ 1 365 · +203 aujourd'hui"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X est une liste de ressources qui vise à améliorer les compétences en programmation en codant des technologies logicielles populaires à partir de zéro. Les développeurs apprennent la logique de fonctionnement de systèmes complexes tels que les bases de données ou les systèmes d'exploitation grâce à des projets pratiques.",
+          "meta": "Markdown · ★ 528 427 · +1 126 aujourd'hui"
+        },
+        {
+          "title": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "summary": "Développé par Moonshot AI, Kimi CLI est un agent d'intelligence artificielle qui fonctionne via une interface de ligne de commande (CLI). Cet outil basé sur Python est conçu pour automatiser les interactions en ligne de commande dans les processus de développement logiciel.",
+          "meta": "Python · ★ 9 577 · +65 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LG monitors silently install software through Windows Update without consent",
+          "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+          "summary": "Les moniteurs LG installent le logiciel en arrière-plan via Windows Update sans l'approbation de l'utilisateur. Cela soulève des discussions sur la sécurité et le contrôle des utilisateurs concernant l'inclusion d'applications supplémentaires dans le système ainsi que des pilotes matériels.",
+          "meta": "1 083 votes · 549 commentaires"
+        },
+        {
+          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "summary": "Les modèles d’intelligence artificielle ont résolu un problème mathématique qui n’avait pas été résolu depuis trente ans dans le domaine de l’optimisation convexe à l’aide d’une simple commande. Ce développement démontre la capacité des grands modèles de langage à faire des inférences logiques à partir de preuves mathématiques complexes.",
+          "meta": "541 votes · 345 commentaires"
+        },
+        {
+          "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+          "summary": "Le maire Mamdani a présenté un règlement interdisant aux propriétaires d'utiliser secrètement des images générées par l'IA dans les annonces de biens locatifs. Cette application vise à accroître la transparence visuelle des annonces immobilières et à prévenir les manipulations numériques.",
+          "meta": "396 votes · 176 commentaires"
+        },
+        {
+          "title": "Speech Recognition and TTS in less than 500kb",
+          "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+          "summary": "Le projet Moonshine propose des modèles de reconnaissance vocale et de synthèse vocale d'une taille inférieure à 500 kilo-octets. Ces frameworks légers permettent des capacités de traitement du langage natif sur des systèmes dotés de ressources matérielles limitées.",
+          "meta": "387 votes · 40 commentaires"
+        },
+        {
+          "title": "If You Build It, They Will Come",
+          "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+          "summary": "Certains soutiennent que la création d'une base d'utilisateurs dans les projets logiciels est directement liée au marketing et à l'interaction communautaire plutôt qu'à la qualité technique du produit. Il est souligné que les développeurs devraient se concentrer sur des stratégies d'acquisition d'utilisateurs plutôt que sur une approche orientée produit.",
+          "meta": "351 votes · 126 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Développé par Thinking Machines, Inkling est un modèle multimodal qui produit des sorties textuelles en acceptant des données visuelles et textuelles en entrée. Le système prend en charge les processus de production de contenu en analysant l'interaction entre l'image et le texte.",
+          "meta": "♥ 1 078 · 12 456 téléchargements"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B-gguf est un modèle de langage optimisé pour la génération de texte et minifié avec des techniques de quantification low-bit. Ce modèle prend en charge les processus d'inférence hautes performances en utilisant efficacement les ressources matérielles.",
+          "meta": "♥ 750 · 301 893 téléchargements"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B, développé par Prism-ml, est un modèle de langage optimisé pour les tâches de génération de texte. Le modèle est présenté au format GGUF quantifié pour fournir une inférence haute performance.",
+          "meta": "♥ 452 · 1 218 815 téléchargements"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, publié par Zai-org, est un modèle de langage optimisé pour les tâches de génération de texte. Ce modèle, qui suscite une forte interaction sur la plateforme HuggingFace, est utilisé dans de nombreux processus de création de texte.",
+          "meta": "♥ 4 134 · 541 662 téléchargements"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M est un modèle d'intelligence artificielle qui produit une sortie texte (image-texte-texte) en traitant des données visuelles et textuelles. Ce modèle, présenté au format GGUF, offre la possibilité d'analyser différents types de données avec une prise en charge de fenêtres contextuelles élevées.",
+          "meta": "♥ 2 319 · 2 112 869 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "scene reconstruction",
+      "explanation": "Processus de création d'une copie numérique tridimensionnelle d'un environnement physique basée sur des images photographiques ou vidéo."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "D’énormes modèles d’intelligence artificielle qui peuvent être entraînés avec de très grands ensembles de données et utilisés comme base pour de nombreuses tâches différentes."
+    },
+    {
+      "term": "BI",
+      "explanation": "Il s'agit d'un ensemble de méthodes qui permettent aux entreprises de prendre des décisions commerciales plus précises et plus rapides en analysant les données brutes dont elles disposent."
+    },
+    {
+      "term": "semantic metadata",
+      "explanation": "Informations descriptives qui expliquent ce que signifient les données et comment elles se rapportent à d'autres données."
+    },
+    {
+      "term": "single source of truth",
+      "explanation": "Le principe d’éviter toute confusion en gérant toutes les données d’une institution à partir d’un seul point fiable."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "Processus de surveillance constante du fonctionnement des systèmes d’intelligence artificielle, des raisons pour lesquelles ils prennent ces décisions et s’ils commettent des erreurs."
+    },
+    {
+      "term": "UI",
+      "explanation": "Boutons, menus et conceptions d'écran par lesquels un utilisateur interagit avec un logiciel ou un appareil."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "L'ingénierie consistant à prendre des modèles d'IA et à les exécuter de manière efficace et sûre dans des applications du monde réel."
+    },
+    {
+      "term": "deployment",
+      "explanation": "Transférer un logiciel ou un modèle préparé vers un environnement réel où les utilisateurs peuvent y accéder."
+    },
+    {
+      "term": "code intelligence graph",
+      "explanation": "Une structure qui guide les développeurs en cartographiant les relations et les connexions complexes entre les codes logiciels."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "Veiller à ce que l’intelligence artificielle soit débarrassée des informations inutiles et se concentre uniquement sur les données les plus importantes lors de l’exécution des opérations."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "VRAM",
+      "explanation": "Une zone mémoire spéciale que la carte graphique utilise temporairement lors du traitement des images et des calculs d'intelligence artificielle."
+    },
+    {
+      "term": "inference",
+      "explanation": "La phase d'un modèle d'intelligence artificielle entraîné faisant des prédictions ou produisant des résultats avec de nouvelles données qui lui sont fournies."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Une approche logicielle qui donne la priorité au stockage et au traitement des données directement dans la propre mémoire de l'appareil sans avoir besoin d'Internet."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Un protocole de pont qui permet aux modèles d'IA de se connecter à différentes sources de données et outils de manière standard."
+    }
+  ]
+}

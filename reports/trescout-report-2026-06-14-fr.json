@@ -1,0 +1,231 @@
+{
+  "date": "2026-06-14",
+  "editorial": "Dans le monde du logiciel d'aujourd'hui, les projets axés sur des packages de compétences autonomes et la gestion d'infrastructures open source sont au premier plan. Les données GitHub montrent que les conteneurs d'applications et les systèmes d'interaction client, en particulier, suscitent un grand intérêt parmi les développeurs.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "Ce projet, qui rassemble les chaînes de télévision publique sur Internet (IPTV) du monde entier dans un seul centre, présente les flux de diffusion en direct sous la forme d'une base de données organisée. Grâce à sa structure open source, il facilite l'accès des utilisateurs aux contenus télévisuels mondiaux.",
+          "meta": "TypeScript · ★ 119 525 · +530 aujourd'hui"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Développé par Addy Osmani, agent-skills offre des compétences d'ingénierie au niveau de la production pour les agents de codage d'intelligence artificielle. Cette bibliothèque fournit des fonctions prêtes à l'emploi pour normaliser les processus de développement de logiciels basés sur des agents.",
+          "meta": "Shell · ★ 58 794 · +1 514 aujourd'hui"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot offre une alternative open source pour gérer les processus de chat en direct, d'assistance par e-mail et de service client omnicanal (bureau omnicanal). Développée en langage Ruby, la plateforme offre des fonctionnalités similaires aux logiciels de support client en entreprise tels qu'Intercom ou Zendesk.",
+          "meta": "Ruby · ★ 30 977 · +83 aujourd'hui"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers est un cadre et une méthodologie de compétences d'agent conçus pour automatiser les processus de développement de logiciels. Écrit en langage Shell, cet outil propose une structure qui standardise les workflows de développement logiciel.",
+          "meta": "Shell · ★ 227 249 · +924 aujourd'hui"
+        },
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Développé par Apple, Container permet de créer et d'exécuter des conteneurs Linux à l'aide de machines virtuelles légères sur des appareils Mac. Écrit en langage Swift, l'outil offre des performances optimisées pour l'architecture silicium Apple.",
+          "meta": "Swift · ★ 36 562 · +1 487 aujourd'hui"
+        },
+        {
+          "title": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "summary": "Music Assistant est un gestionnaire de médiathèque open source qui centralise différents services de musique numérique et enceintes connectées. Ce logiciel serveur basé sur Python agit comme un point de contrôle central sur des appareils fonctionnant en permanence tels qu'un Raspberry Pi ou un stockage en réseau (NAS).",
+          "meta": "Python · ★ 2 062 · +270 aujourd'hui"
+        },
+        {
+          "title": "kenn-io/agentsview",
+          "url": "https://github.com/kenn-io/agentsview",
+          "summary": "Agentsview fournit des outils natifs d'intelligence et d'analyse de session pour les agents de codage. Cette structure, qui supporte plus d'une vingtaine d'agents dont Claude Code et Codex, constitue une alternative performante en matière de suivi des données d'usage (ccusage).",
+          "meta": "Go · ★ 2 475 · +190 aujourd'hui"
+        },
+        {
+          "title": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "summary": "LMCache propose une couche qui augmente la vitesse d'inférence en gérant le cache de valeurs clés (cache KV) dans les grands modèles de langage (LLM). Ce système optimise l'utilisation de la mémoire et améliore les performances du modèle en accélérant l'accès aux données dans les requêtes répétitives.",
+          "meta": "Python · ★ 8 985 · +238 aujourd'hui"
+        },
+        {
+          "title": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "summary": "Microsoft PowerToys propose une variété d'utilitaires qui augmentent la productivité et la personnalisation du système pour les utilisateurs Windows. Cette collection open source rassemble des utilitaires fonctionnels qui améliorent l'expérience du système d'exploitation.",
+          "meta": "C · ★ 134 770 · +370 aujourd'hui"
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Développée par Andrew Ng, aisuite est une bibliothèque Python qui permet de gérer différents fournisseurs d'IA générative via une seule interface. Il permet aux développeurs de basculer entre différents services de modèles sans apporter de modifications au code.",
+          "meta": "Python · ★ 14 220 · +127 aujourd'hui"
+        },
+        {
+          "title": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "summary": "Développé par NVIDIA, SkillSpector est un scanner qui détecte les vulnérabilités et les modèles malveillants dans les compétences des agents d'intelligence artificielle. Cet outil basé sur Python vise à accroître la sécurité des logiciels en identifiant les risques de sécurité possibles dans les systèmes basés sur des agents.",
+          "meta": "Python · ★ 4 680 · +804 aujourd'hui"
+        },
+        {
+          "title": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "summary": "Développé par Bannedbook, fanqiang est un projet Kotlin qui comprend des outils de contournement pour contourner les restrictions d'accès à Internet. Il propose des ressources techniques sur les méthodes de redirection du trafic réseau et de suppression des barrières de censure.",
+          "meta": "Kotlin · ★ 47 614 · +93 aujourd'hui"
+        },
+        {
+          "title": "swc-project/swc",
+          "url": "https://github.com/swc-project/swc",
+          "summary": "Développé avec le langage Rust, SWC offre une plateforme de compilation et de regroupement rapide pour les projets Web. Il accélère les processus de développement Web modernes en traitant les fichiers JavaScript et TypeScript avec des performances élevées.",
+          "meta": "Rust · ★ 33 681 · +20 aujourd'hui"
+        },
+        {
+          "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "summary": "Les invites système et les modèles de langage préférés utilisés par les outils d'intelligence artificielle populaires sont compilés par les développeurs dans un centre unique. Cette liste offre l'opportunité d'examiner les stratégies de configuration derrière les assistants de codage et les plateformes d'intelligence artificielle productives actuelles.",
+          "meta": "★ 140 390 · +109 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Noise infusion banned from statistical products published by Census Bureau",
+          "url": "https://desfontain.es/blog/banning-noise.html",
+          "summary": "Le US Census Bureau a interdit l'infusion de bruit dans ses produits statistiques pour protéger la vie privée. Cette décision initie un nouveau processus de réglementation des techniques de confidentialité différentielles afin d'augmenter l'exactitude des données.",
+          "meta": "812 votes · 507 commentaires"
+        },
+        {
+          "title": "Every Frame Perfect",
+          "url": "https://tonsky.me/blog/every-frame-perfect/",
+          "summary": "Cette étude examine la maîtrise des interfaces modernes et aborde l'impact de la cohérence de la fréquence d'images sur l'expérience utilisateur au cours du processus de développement logiciel. Il propose des stratégies techniques sur l'utilisation efficace des ressources matérielles et l'optimisation de la latence pour maintenir la réactivité de l'interface.",
+          "meta": "676 votes · 223 commentaires"
+        },
+        {
+          "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+          "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+          "summary": "Les réunions des dirigeants d'Amazon avec des représentants du gouvernement américain ont conduit à une augmentation des inspections des modèles d'intelligence artificielle développés par Anthropic. Ce processus a déclenché un examen minutieux de grands modèles linguistiques dans le cadre de la sécurité nationale et de la conformité réglementaire.",
+          "meta": "660 votes · 490 commentaires"
+        },
+        {
+          "title": "GLM 5.2 Is Out",
+          "url": "https://twitter.com/jietang/status/2065784751345287314",
+          "summary": "GLM 5.2, développé par Zhipu AI, a été mis à jour avec des capacités multimodales et une prise en charge étendue des fenêtres contextuelles. La nouvelle version offre une plus grande précision et des performances accrues dans les processus de raisonnement complexes.",
+          "meta": "539 votes · 285 commentaires"
+        },
+        {
+          "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+          "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+          "summary": "Des études sur les tumeurs pancréatiques pourraient avoir révélé un mécanisme de contrôle central (interrupteur principal) qui assure la survie des cellules cancéreuses. Cette découverte permet le développement de nouvelles méthodes de traitement pour stopper la croissance des tumeurs.",
+          "meta": "351 votes · 126 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, publié par Google, est un modèle multimodal qui produit des sorties textuelles en traitant les entrées de texte et d'image. Le modèle est utilisé dans différents processus de création de contenu grâce à sa capacité à comprendre les données visuelles et à les associer au texte.",
+          "meta": "♥ 729 · 92 080 téléchargements"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Développé par Moonshot AI, Kimi-K2.7-Code est un modèle de codage multimodal qui peut traiter des données visuelles et textuelles en entrée. Il vise à produire du code textuel à partir de contenu visuel dans les processus de développement de logiciels.",
+          "meta": "♥ 553 · 1 689 téléchargements"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Développé par NVIDIA, LocateAnything-3D est un modèle image-texte-texte qui effectue des tâches de localisation d'objets en traitant les entrées visuelles et textuelles. Le modèle offre la possibilité de déterminer les coordonnées d'objets dans des images en fonction de commandes textuelles données.",
+          "meta": "♥ 1 970 · 69 443 téléchargements"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3, développé par MiniMaxAI, est un modèle multimodal qui produit des sorties textuelles en traitant les entrées visuelles et textuelles. Le système prend en charge des processus complexes d'analyse de contenu et de production en combinant différents types de données sur une seule architecture.",
+          "meta": "♥ 436 · 1 031 téléchargements"
+        },
+        {
+          "title": "CohereLabs/North-Mini-Code-1.0",
+          "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+          "summary": "North-Mini-Code-1.0, développé par CohereLabs, est un modèle de langage axé sur la génération de texte. Optimisé pour prendre en charge les processus de développement logiciel, ce modèle fonctionne bien dans les tâches basées sur le code.",
+          "meta": "♥ 360 · 6 533 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IPTV",
+      "explanation": "Televizyon yayınlarının geleneksel anten veya uydu yerine internet üzerinden izlenmesini sağlayan teknoloji."
+    },
+    {
+      "term": "database",
+      "explanation": "Un environnement numérique dans lequel les informations sont stockées régulièrement et peuvent être facilement accessibles et gérées en cas de besoin."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "La capacité de combiner méthodes logiques, connaissances techniques et créativité pour résoudre des problèmes complexes."
+    },
+    {
+      "term": "omni-channel desk",
+      "explanation": "Système de support qui permet de suivre et de répondre aux demandes des clients provenant de différents canaux à partir d'un seul centre."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Il s’agit de la version structurée des capacités requises par les systèmes d’intelligence artificielle pour prendre des décisions et accomplir des tâches par eux-mêmes."
+    },
+    {
+      "term": "lightweight virtual machines",
+      "explanation": "De petits ordinateurs virtuels qui fonctionnent rapidement en utilisant uniquement les ressources nécessaires et occupent très peu de place."
+    },
+    {
+      "term": "containers",
+      "explanation": "Packages qui contiennent tous les fichiers nécessaires à l'exécution d'un logiciel et garantissent qu'il fonctionne de la même manière sur chaque ordinateur."
+    },
+    {
+      "term": "Apple silicon",
+      "explanation": "Architecture de processeur propre à Apple spécialement conçue pour des performances élevées et une faible consommation d'énergie dans ses appareils."
+    },
+    {
+      "term": "NAS",
+      "explanation": "Un appareil qui fournit une zone de stockage centrale qui peut être partagée par tous les appareils du réseau domestique ou professionnel."
+    },
+    {
+      "term": "session intelligence",
+      "explanation": "Un système qui comprend le comportement des utilisateurs en analysant leurs interactions et vise à offrir une meilleure expérience."
+    },
+    {
+      "term": "ccusage",
+      "explanation": "Données de consommation qui montrent l’intensité d’utilisation d’un système ou d’un service."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "KV cache",
+      "explanation": "La zone mémoire qui permet à l’intelligence artificielle de répondre plus rapidement aux mêmes questions en conservant dans sa mémoire les informations qu’elle a préalablement traitées."
+    },
+    {
+      "term": "utilities",
+      "explanation": "Petit logiciel utile qui facilite la maintenance, la gestion ou les fonctions de base de l'ordinateur."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Un type d'intelligence artificielle qui peut créer de nouveaux contenus tels que du texte, des visuels ou du son en utilisant les données qu'elle a apprises."
+    },
+    {
+      "term": "skills",
+      "explanation": "L’ensemble des connaissances pratiques et des compétences d’application requises pour effectuer un travail."
+    }
+  ]
+}

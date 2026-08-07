@@ -1,0 +1,261 @@
+{
+  "date": "2026-06-12",
+  "editorial": "L'agenda technologique actuel se compose de bibliothèques de compétences autonomes et d'outils de traitement de données. Les développeurs se sont particulièrement tournés vers des architectures modulaires qui concentrent les modèles d’intelligence artificielle open source sur des tâches spécifiques.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Développé par Apple, Container permet la création et l'exécution de conteneurs Linux à l'aide de machines virtuelles légères sur des appareils Mac. Écrit en langage Swift, l'outil offre des performances optimisées pour l'architecture silicium Apple.",
+          "meta": "Swift · ★ 33 754 · +2 430 aujourd'hui"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Développé par Addy Osmani, agent-skills offre des compétences d'ingénierie au niveau de la production pour les agents de codage d'intelligence artificielle. Cette bibliothèque vise à normaliser les compétences techniques des agents utilisés dans les processus d'automatisation.",
+          "meta": "Shell · ★ 55 681 · +3 278 aujourd'hui"
+        },
+        {
+          "title": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "summary": "OpenMed est une bibliothèque Python qui fournit des modèles d'IA et des ensembles de données open source dans le domaine de la santé. Cette boîte à outils développée pour les applications médicales vise à standardiser les processus de traitement et d’analyse des données de santé.",
+          "meta": "Python · ★ 2 964 · +426 aujourd'hui"
+        },
+        {
+          "title": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "summary": "PM Skills Marketplace propose plus de 100 compétences d'agent, commandes et plugins pour les processus de gestion de produits, allant de la découverte à la croissance. Cet ensemble d'outils rassemble des composants modulaires conçus pour automatiser les flux de développement de produits.",
+          "meta": "★ 16 548 · +1 978 aujourd'hui"
+        },
+        {
+          "title": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "summary": "Développé par NVIDIA, SkillSpector est un outil d'analyse qui détecte les vulnérabilités et les modèles malveillants dans les packages de compétences des agents d'intelligence artificielle. Ce logiciel basé sur Python vise à analyser les risques de sécurité rencontrés lors du processus de développement de systèmes basés sur des agents.",
+          "meta": "Python · ★ 2 967 · +319 aujourd'hui"
+        },
+        {
+          "title": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "summary": "Maigret analyse plus de 3000 sites Web en fonction des noms d'utilisateurs et crée un dossier numérique complet des personnes. Cet outil basé sur Python permet d'interroger les profils utilisateur à partir d'un point central des processus d'intelligence open source (OSINT).",
+          "meta": "Python · ★ 32 818 · +661 aujourd'hui"
+        },
+        {
+          "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "summary": "Les invites système des outils d'intelligence artificielle populaires, leurs outils internes et les modèles qu'ils utilisent sont rassemblés dans cette compilation. Les développeurs ont la possibilité d'examiner les principes de fonctionnement et les détails de configuration de différents assistants de codage basés sur l'intelligence artificielle.",
+          "meta": "★ 140 003 · +368 aujourd'hui"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria est une application de bureau développée pour gérer les bases de connaissances basées sur Markdown. Écrit en TypeScript, cet outil propose un espace de gestion central pour organiser les processus de documentation personnelle.",
+          "meta": "TypeScript · ★ 15 525 · +604 aujourd'hui"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers propose un cadre de compétences agentiques et une méthodologie de développement logiciel pour les agents d'intelligence artificielle. Cet outil est conçu pour normaliser les flux de travail basés sur des agents et automatiser les processus logiciels.",
+          "meta": "Shell · ★ 225 354 · +1 322 aujourd'hui"
+        },
+        {
+          "title": "restic/restic",
+          "url": "https://github.com/restic/restic",
+          "summary": "Développé avec le langage Go, Restic propose un programme de sauvegarde open source qui sauvegarde les données rapidement et efficacement en les chiffrant. Cet outil, qui prend en charge différents systèmes de stockage, économise de l'espace de stockage grâce à la méthode de sauvegarde incrémentielle.",
+          "meta": "Go · ★ 34 273 · +61 aujourd'hui"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Le projet Agency-agents crée une structure d’agence digitale en réunissant des agents d’intelligence artificielle avec différents domaines d’expertise. Il permet de gérer des processus tels que le développement de logiciels, la production de contenu et la vérification des données via des personnages et des flux de travail spécialisés.",
+          "meta": "Shell · ★ 111 887 · +1 599 aujourd'hui"
+        },
+        {
+          "title": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "summary": "MasterDnsVPN est une solution de réseau privé virtuel (VPN) de tunneling de système de noms de domaine (tunneling DNS) à faible surcharge développée pour contourner les barrières de censure. Écrit en langage Go, l'outil utilise des techniques de demande de répétition automatique (ARQ) et d'équilibrage de charge du résolveur pour améliorer la stabilité des pertes de paquets lors de la transmission de données.",
+          "meta": "Go · ★ 5 826 · +507 aujourd'hui"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot est une plateforme open source qui offre un chat en direct, une assistance par e-mail et une gestion de bureau omnicanal. Développé comme alternative aux logiciels commerciaux tels qu'Intercom et Zendesk, cet outil vous permet de gérer les interactions clients à partir d'un centre unique.",
+          "meta": "Ruby · ★ 30 493 · +67 aujourd'hui"
+        },
+        {
+          "title": "kenn-io/agentsview",
+          "url": "https://github.com/kenn-io/agentsview",
+          "summary": "Agentsview est un outil de surveillance qui fournit des données d'analyse et d'intelligence de session locales pour les agents de codage. Ce logiciel, qui supporte plus d'une vingtaine d'agents, dont Claude Code et Codex, promet des performances plus rapides par rapport à l'outil ccusage.",
+          "meta": "Go · ★ 1 867 · +114 aujourd'hui"
+        },
+        {
+          "title": "alchaincyf/zhangxuefeng-skill",
+          "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+          "summary": "Zhangxuefeng-skill offre un système d'exploitation cognitif structuré pour les préférences en matière d'examens universitaires, les études postuniversitaires et les processus de planification de carrière. Ce projet, créé avec l'infrastructure Nuwa.skill, standardise les processus décisionnels complexes avec un cadre de pensée pratique.",
+          "meta": "★ 8 114 · +89 aujourd'hui"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "Le référentiel ChinaTextbook fournit des archives au format PDF de tous les manuels utilisés en Chine, de l'école primaire au niveau universitaire. Ce projet open source centralise l'accès au matériel pédagogique, créant ainsi une vaste bibliothèque de ressources académiques.",
+          "meta": "Roff · ★ 74 049 · +88 aujourd'hui"
+        },
+        {
+          "title": "hexo-ai/sia",
+          "url": "https://github.com/hexo-ai/sia",
+          "summary": "SIA est un cadre d'IA auto-améliorable développé pour améliorer de manière autonome les performances des modèles et des agents d'IA sur des tâches de référence spécifiques. Ce système basé sur Python permet aux systèmes d'intelligence artificielle d'optimiser leurs processus en analysant leurs propres résultats.",
+          "meta": "Python · ★ 1 478 · +199 aujourd'hui"
+        },
+        {
+          "title": "mattermost/mattermost",
+          "url": "https://github.com/mattermost/mattermost",
+          "summary": "Mattermost est une plateforme open source conçue pour permettre une collaboration sécurisée tout au long du cycle de vie du développement logiciel. Il permet aux équipes logicielles de gérer leurs processus de communication via une structure centrale.",
+          "meta": "TypeScript · ★ 37 444 · +53 aujourd'hui"
+        },
+        {
+          "title": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "summary": "Le projet Fanqiang est un outil de passerelle écrit en Kotlin, développé pour contourner la censure sur Internet. Il s'agit d'un logiciel open source conçu pour fournir aux utilisateurs un accès à des ressources réseau limitées.",
+          "meta": "Kotlin · ★ 47 142 · +161 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Homebrew 6.0.0",
+          "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+          "summary": "Homebrew 6.0.0, le gestionnaire de packages pour macOS et Linux, a été mis à jour avec un nouveau mécanisme de confiance du référentiel (sécurité par clic) et une interface JSON interne (API) plus rapide. La version inclut également la prise en charge du sandboxing sous Linux et des améliorations des paramètres par défaut basées sur les commentaires des utilisateurs.",
+          "meta": "1 188 votes · 274 commentaires"
+        },
+        {
+          "title": "If you are asking for human attention, demonstrate human effort",
+          "url": "https://tombedor.dev/human-attention-and-human-effort/",
+          "summary": "Les personnes qui exigent une interaction centrée sur l'humain dans les processus de développement logiciel sont censées déployer leurs propres efforts concrètement afin d'obtenir une réponse de l'autre partie. Cette approche soutient que fournir un contexte et une préparation préalable, notamment dans les demandes de soutien technique ou de coopération, est une condition fondamentale pour attirer l'attention de l'interlocuteur.",
+          "meta": "640 votes · 200 commentaires"
+        },
+        {
+          "title": "MiMo Code is now released and open-source",
+          "url": "https://mimo.xiaomi.com/mimocode",
+          "summary": "Développé par Xiaomi, MiMo Code est un framework open source qui vise à améliorer les performances des grands modèles de langage multimodaux dans les processus de génération de code et de développement de logiciels. Cet outil propose une architecture spéciale développée pour gérer plus efficacement les tâches de programmation complexes.",
+          "meta": "481 votes · 268 commentaires"
+        },
+        {
+          "title": "Petition to Withdraw Canada's Bill C-22",
+          "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+          "summary": "Le projet de loi C-22, présenté au Canada, suscite une controverse publique en raison de ses réglementations sur la sécurité en ligne et le contrôle du contenu numérique. La pétition lancée pour retirer le projet de loi en question reflète les inquiétudes concernant d'éventuelles restrictions à la liberté d'expression et aux droits numériques.",
+          "meta": "429 votes · 144 commentaires"
+        },
+        {
+          "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+          "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+          "summary": "Cette étude sur la dynamique des systèmes révèle que les gestionnaires qui résolvent les problèmes avant qu'ils ne surviennent ne sont pas appréciés en raison de l'invisibilité des interventions préventives. Il analyse comment les cultures organisationnelles qui associent le succès à la gestion de crise plutôt qu'à des résultats mesurables entravent les processus d'amélioration à long terme.",
+          "meta": "419 votes · 142 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, développé par Google, est un modèle multimodal qui produit des sorties textuelles en traitant les entrées de texte et d'image. Le système attire l'attention par sa capacité à analyser des données visuelles et à créer des textes significatifs basés sur ces données.",
+          "meta": "♥ 530 · 0 téléchargements"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Développé par Nvidia, LocateAnything-3B se distingue comme un modèle image-texte-texte qui effectue des tâches de localisation d'objets en traitant les entrées visuelles et textuelles. Le modèle offre la possibilité d'identifier des objets dans des données visuelles et de présenter les coordonnées de ces objets sous forme de sortie textuelle.",
+          "meta": "♥ 1 897 · 131 794 téléchargements"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Gemma-2-12B-it, une version mise à jour du modèle Gemma 2-9B développé par Google, est un modèle tout-à-tout capable de gérer du texte et des données multimodales. Ce modèle à pondération ouverte fournit une architecture optimisée pour les processus d'inférence hautes performances.",
+          "meta": "♥ 944 · 675 936 téléchargements"
+        },
+        {
+          "title": "CohereLabs/North-Mini-Code-1.0",
+          "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+          "summary": "North-Mini-Code-1.0, développé par CohereLabs, est un modèle de langage axé sur la génération de texte. Conçu pour prendre en charge les processus de développement logiciel, ce modèle vise à offrir des performances dans les tâches basées sur le code.",
+          "meta": "♥ 316 · 1 859 téléchargements"
+        },
+        {
+          "title": "bosonai/higgs-audio-v3-tts-4b",
+          "url": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
+          "summary": "Higgs-audio-v3-tts-4b, développé par Bosonai, est un modèle de 4 milliards de paramètres conçu pour les opérations de synthèse vocale. Ce modèle offre la possibilité de transformer des données textuelles en contenu audio avec une haute fidélité.",
+          "meta": "♥ 370 · 19 948 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "virtual machines",
+      "explanation": "Systèmes d'exploitation virtuels qui s'exécutent à l'intérieur d'un ordinateur comme s'il s'agissait d'un périphérique distinct."
+    },
+    {
+      "term": "containers",
+      "explanation": "Des packages légers qui contiennent tout ce qui est nécessaire au fonctionnement d'un logiciel et peuvent être déplacés vers différents environnements sans aucun problème."
+    },
+    {
+      "term": "Apple silicon",
+      "explanation": "Architecture de processeur haute performance et faible consommation d'énergie conçue spécifiquement pour les ordinateurs Apple."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Capacité à analyser des problèmes complexes par étapes logiques et à produire des solutions."
+    },
+    {
+      "term": "agentic skills",
+      "explanation": "Capacité d’une intelligence artificielle à prendre des décisions et à agir seule pour atteindre le but qui lui est assigné."
+    },
+    {
+      "term": "skills",
+      "explanation": "Les connaissances et les compétences pratiques requises pour effectuer un travail spécifique."
+    },
+    {
+      "term": "dossier",
+      "explanation": "Fichier dans lequel toutes les informations recueillies sur une personne ou un sujet sont rassemblées de manière ordonnée."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Une méthode de collecte et d'analyse d'informations provenant de sources accessibles au public sur Internet."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Instructions initiales qui indiquent à une IA comment elle doit se comporter et quelles règles elle doit suivre."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Un ensemble de méthodes structurées utilisées pour améliorer la capacité de l’intelligence artificielle à agir de manière indépendante."
+    },
+    {
+      "term": "backup program",
+      "explanation": "Logiciel qui évite la perte en faisant une copie de vos données numériques."
+    },
+    {
+      "term": "incremental backup",
+      "explanation": "Méthode de sauvegarde qui permet d'économiser du temps et de l'espace en enregistrant uniquement les fichiers modifiés depuis la dernière sauvegarde."
+    },
+    {
+      "term": "DNS tunneling",
+      "explanation": "Technique de transfert de données en masquant le trafic Internet dans les protocoles normalement utilisés pour accéder aux sites Web."
+    },
+    {
+      "term": "VPN",
+      "explanation": "Un outil qui protège vos données en cryptant votre connexion Internet et vous donne l'impression d'être dans un endroit différent."
+    },
+    {
+      "term": "ARQ",
+      "explanation": "Mécanisme de contrôle des erreurs qui garantit que les informations sont automatiquement renvoyées lorsqu'une erreur se produit lors de la transmission des données."
+    },
+    {
+      "term": "omni-channel desk",
+      "explanation": "Le système d'assistance qui collecte tous les différents canaux de communication tels que les e-mails, les messages et les appels des clients sur un seul écran."
+    }
+  ]
+}

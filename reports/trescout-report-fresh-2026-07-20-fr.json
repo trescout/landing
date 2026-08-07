@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-20",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "summary": "Ce livre open source sur les agents d'intelligence artificielle (agents IA) couvre de manière exhaustive les principes de conception et les applications d'ingénierie. En plus des informations théoriques, il comprend des codes d'application divisés en sections et des fichiers PDF compilés.",
+          "meta": "Python · ★ 7 362 · +1 734 aujourd'hui"
+        },
+        {
+          "title": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "summary": "Ktransformers offre un cadre flexible qui prend en charge les optimisations matérielles hétérogènes dans les processus d'inférence et de réglage fin de grands modèles de langage. Cette structure vise à augmenter les performances du modèle en utilisant efficacement différentes ressources matérielles.",
+          "meta": "Python · ★ 18 491 · +360 aujourd'hui"
+        },
+        {
+          "title": "andrewrabert/jellium-desktop",
+          "url": "https://github.com/andrewrabert/jellium-desktop",
+          "summary": "Jellium-desktop est un client de bureau non officiel développé en Rust pour le serveur multimédia Jellyfin. Le logiciel propose une interface native qui permet aux utilisateurs d'accéder à leurs médiathèques directement via le système d'exploitation.",
+          "meta": "Rust · ★ 1 342 · +43 aujourd'hui"
+        },
+        {
+          "title": "microsoft/terminal",
+          "url": "https://github.com/microsoft/terminal",
+          "summary": "Microsoft combine Windows Terminal et l'hôte de console Windows traditionnel sous un même toit. Ce projet open source, développé en langage C++, restructure l'expérience en ligne de commande avec une interface moderne et des onglets personnalisables.",
+          "meta": "C++ · ★ 104 241 · +59 aujourd'hui"
+        },
+        {
+          "title": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "summary": "AstrBot est un framework de développement d'agents d'intelligence artificielle qui s'intègre à diverses plateformes de messagerie instantanée, de grands modèles de langage et des plug-ins. Cet outil basé sur Python permet de créer des assistants IA personnalisables comme alternative open source.",
+          "meta": "Python · ★ 36 787 · +83 aujourd'hui"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua vise à faire évoluer les technologies informatiques avec des pilotes open source et une gestion de flotte indépendante du système d'exploitation. La plateforme propose des outils d'analyse comparative standardisés pour les processus de formation, d'évaluation et de génération de données des modèles d'intelligence artificielle.",
+          "meta": "HTML · ★ 20 286 · +64 aujourd'hui",
+          "returning": true
+        },
+        {
+          "title": "Canner/WrenAI",
+          "url": "https://github.com/Canner/WrenAI",
+          "summary": "Développé par Canner, WrenAI est un outil open source de business intelligence générative (BI générative) qui exporte automatiquement les données dans des panneaux et des graphiques en convertissant le langage naturel en requêtes de base de données (texte vers SQL). La plateforme fournit des processus d'analyse de données fiables pour les agents d'IA via une couche contextuelle gérable qui prend en charge plus de vingt sources de données.",
+          "meta": "Python · ★ 16 314 · +121 aujourd'hui"
+        },
+        {
+          "title": "PKUFlyingPig/cs-self-learning",
+          "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+          "summary": "Ce guide, préparé par des étudiants de l'Université de Pékin, propose une feuille de route complète pour ceux qui souhaitent s'auto-apprendre dans le domaine de l'informatique. Il combine un vaste programme, des cours de base aux spécialisations, avec des ressources et des méthodes d'étude.",
+          "meta": "HTML · ★ 74 290 · +134 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+          "url": "https://news.ycombinator.com/item?id=48968606",
+          "summary": "Un ingénieur logiciel a repensé un système d'automatisation de centre de bowling commercial d'une valeur de 120 000 $ à l'aide de microcontrôleurs ESP32 d'une valeur de 1 600 $. Cette solution, développée avec des systèmes embarqués, crée une alternative rentable au matériel industriel coûteux.",
+          "meta": "2 036 votes · 212 commentaires"
+        },
+        {
+          "title": "Qwen 3.8",
+          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+          "summary": "Développé par Alibaba, Qwen 3.8 introduit un nouveau système de tarification et de jetons pour les grands modèles de langage. Ce modèle fournit une capacité informatique accessible aux développeurs via son infrastructure basée sur le cloud.",
+          "meta": "846 votes · 579 commentaires"
+        },
+        {
+          "title": "Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "summary": "Claude Code a commencé à utiliser Bun comme runtime JavaScript pour accélérer l'environnement de travail. Cette migration vise à améliorer les performances des outils de développement grâce à l'intégration de composants d'infrastructure écrits en Rust.",
+          "meta": "472 votes · 629 commentaires"
+        },
+        {
+          "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+          "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+          "summary": "La gestion évolutive de la production et de la chaîne d'approvisionnement dans le processus de développement du matériel présente des défis concrets que les entrepreneurs axés sur les logiciels peuvent surmonter. L'expérience acquise grâce à la vente de 2 500 enregistreurs MIDI montre que l'entrepreneuriat matériel est plus accessible qu'on ne le pense.",
+          "meta": "461 votes · 209 commentaires"
+        },
+        {
+          "title": "Minecraft: Java Edition now uses SDL3",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+          "summary": "Minecraft : Java Edition a mis à niveau la bibliothèque Simple DirectMedia Layer utilisée pour la gestion des graphiques et des périphériques d'entrée vers la troisième version (SDL3). Cette mise à jour modernise l'interaction matérielle du jeu et fournit une infrastructure de performances plus stable.",
+          "meta": "293 votes · 200 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Logiciel autonome capable de prendre des décisions par lui-même et d'effectuer les tâches assignées étape par étape."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Recycler une IA polyvalente avec un petit ensemble de données pour se spécialiser dans un sujet spécifique."
+    },
+    {
+      "term": "desktop client",
+      "explanation": "Une application logicielle que vous téléchargez sur votre ordinateur et utilisez directement sur le bureau."
+    },
+    {
+      "term": "console host",
+      "explanation": "Un environnement de fenêtre dans lequel des commandes textuelles sont exécutées sur l'ordinateur et les résultats sont affichés."
+    },
+    {
+      "term": "development framework",
+      "explanation": "Un cadre de travail qui accélère le travail lors du développement de logiciels et fournit des structures de base prêtes à l'emploi."
+    }
+  ]
+}

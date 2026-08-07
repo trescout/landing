@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-12",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "Les plugins OpenAI permettent aux modèles de langage d'accéder à des données à jour et d'interagir avec des applications tierces. Cette structure offre un modèle d'extensibilité qui permet aux systèmes d'intelligence artificielle d'effectuer des tâches à l'aide d'outils externes.",
+          "meta": "JavaScript · ★ 4 462 · +29 aujourd'hui",
+          "returning": true
+        },
+        {
+          "title": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "summary": "Home Assistant est une plateforme domotique open source qui donne la priorité au contrôle local et à la confidentialité. Ce système, développé avec le langage Python, permet aux utilisateurs de gérer leurs appareils intelligents via un réseau central.",
+          "meta": "Python · ★ 88 765 · +80 aujourd'hui"
+        },
+        {
+          "title": "DayuanJiang/next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "summary": "Cette application basée sur Next.js combine l'outil de création de diagrammes draw.io avec des capacités d'IA générative. Les utilisateurs peuvent créer des diagrammes visuels via des commandes en langage naturel et modifier leurs diagrammes existants avec la prise en charge de l'intelligence artificielle.",
+          "meta": "TypeScript · ★ 33 359 · +81 aujourd'hui"
+        },
+        {
+          "title": "nasa/fprime",
+          "url": "https://github.com/nasa/fprime",
+          "summary": "Développé par la NASA, F´ est un framework open source conçu pour les logiciels de vol et les systèmes embarqués. Écrite en C++, cette structure fournit un environnement de développement modulaire pour les engins spatiaux et les systèmes complexes.",
+          "meta": "C++ · ★ 11 523 · +22 aujourd'hui"
+        },
+        {
+          "title": "nuxt/nuxt",
+          "url": "https://github.com/nuxt/nuxt",
+          "summary": "Nuxt est un framework full-stack utilisé pour développer des applications basées sur Vue. Proposé avec la prise en charge de TypeScript, cet outil optimise les processus de rendu côté serveur et de création de sites statiques.",
+          "meta": "TypeScript · ★ 60 747 · +16 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Prefer strict tables in SQLite",
+          "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+          "summary": "L'utilisation de tables strictes dans SQLite empêche les entrées de données inattendues en appliquant des restrictions de type de données. Cette structure réduit les erreurs en augmentant la sécurité des types dans le schéma de base de données.",
+          "meta": "254 votes · 127 commentaires"
+        },
+        {
+          "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+          "url": "https://antjs.org",
+          "summary": "Ant propose un environnement d'exécution et un écosystème complet basé sur son propre moteur JavaScript. Il fournit un environnement de développement de bout en bout avec son gestionnaire de packages, son registre d'applications, sa plateforme d'hébergement et ses outils permettant de développer des applications de bureau natives.",
+          "meta": "231 votes · 101 commentaires"
+        },
+        {
+          "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "summary": "L'interface de ligne de commande (CLI) Grok Build, développée par xAI, analyse les fichiers dans les répertoires locaux et les envoie au serveur. Dans ce processus, le contenu de la base de code est traité à distance pour créer la fenêtre contextuelle du modèle.",
+          "meta": "226 votes · 111 commentaires"
+        },
+        {
+          "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+          "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+          "summary": "Les relations financières entre les fournisseurs de cloud computing tels que Nvidia, CoreWeave et Nebius créent un flux de capitaux cyclique qui soutient la croissance du marché des unités de traitement graphique (GPU). Cette structure crée un modèle d'écosystème dans lequel les entreprises technologiques investissent dans leurs clients pour financer leurs propres ventes de matériel.",
+          "meta": "219 votes · 71 commentaires"
+        },
+        {
+          "title": "We scaled PgBouncer to 4x throughput",
+          "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+          "summary": "Les ingénieurs de ClickHouse ont développé des optimisations qui ont quadruplé le débit de PgBouncer, un pooler de connexions de base de données. Les améliorations visent à surmonter les goulots d'étranglement des performances dans les environnements PostgreSQL à fort trafic.",
+          "meta": "197 votes · 39 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "summary": "ThinkingCap-Qwen3.6-27B, développé par Bottlecapai, est un modèle d'intelligence artificielle multimodale qui produit des sorties textuelles en traitant des données visuelles et textuelles. Ce modèle, basé sur l'architecture Qwen, est utilisé dans les processus d'analyse et d'interprétation de contenus visuels complexes.",
+          "meta": "♥ 240 · 4 128 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CLI",
+      "explanation": "Interface textuelle qui vous permet de gérer des programmes en saisissant des commandes écrites plutôt qu'en utilisant une souris."
+    },
+    {
+      "term": "rendering",
+      "explanation": "Le processus par lequel un ordinateur traite des données brutes et les transforme en un visuel ou un graphique que nous voyons à l'écran."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Petits plug-ins installés ultérieurement pour ajouter des fonctionnalités supplémentaires aux fonctionnalités existantes d'un logiciel."
+    },
+    {
+      "term": "extensibility",
+      "explanation": "L'aptitude d'un système à être développé en ajoutant de nouvelles fonctionnalités sans perturber sa structure de base."
+    }
+  ]
+}

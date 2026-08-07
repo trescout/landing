@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-10",
+  "editorial": "Dans le monde du développement logiciel, l'accent est aujourd'hui mis sur les outils qui étendent les capacités des agents d'intelligence artificielle (agents IA) et des protocoles (MCP) qui gèrent les interactions de bureau de ces systèmes. En particulier, les guides et interfaces de ligne de commande open source partagés par Anthropic montrent que les normes augmentent rapidement en matière d'intégration de systèmes autonomes dans les flux de travail.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "SmartlyDressedGames/U3-SDK",
+          "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+          "summary": "SmartlyDressedGames a partagé le kit de développement logiciel U3-SDK développé pour le jeu de survie zombie en monde ouvert Unturned en open source. Ces codes sources, préparés en langage C#, permettent aux membres de la communauté de personnaliser et de développer le jeu.",
+          "meta": "C# · ★ 2 182 · +524 aujourd'hui"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Développé par Addy Osmani, agent-skills offre des compétences d'ingénierie au niveau de la production pour les agents de codage d'intelligence artificielle. Cette bibliothèque vise à augmenter la capacité d'exécution des tâches des agents utilisés dans les processus de développement logiciel avec des outils standardisés.",
+          "meta": "JavaScript · ★ 76 227 · +2 554 aujourd'hui"
+        },
+        {
+          "title": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "summary": "Awesome-design-md est une collection de documents de conception (DESIGN.md) issus de systèmes de conception de marques populaires. À l'aide de ces documents, les agents logiciels peuvent créer des interfaces utilisateur (UI) adaptées aux projets.",
+          "meta": "★ 100 194 · +1 391 aujourd'hui"
+        },
+        {
+          "title": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "summary": "OfficeCLI est un progiciel bureautique open source développé pour permettre aux agents d'IA de lire, modifier et automatiser des fichiers Word, Excel et PowerPoint. Cet outil, écrit en C#, permet des opérations via un seul fichier exécutable sans avoir besoin d'installer Microsoft Office.",
+          "meta": "C# · ★ 13 839 · +1 929 aujourd'hui"
+        },
+        {
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "summary": "DesktopCommanderMCP est un serveur Model Context Protocol qui fournit des capacités de contrôle de terminal, de recherche de système de fichiers et d'édition de fichiers différentiels au modèle d'intelligence artificielle Claude. Développé avec TypeScript, cet outil permet à l'IA de gérer directement les opérations sur le système de fichiers local.",
+          "meta": "TypeScript · ★ 6 671 · +185 aujourd'hui"
+        },
+        {
+          "title": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "summary": "Les livres de recettes Claude partagés par Anthropics fournissent des exemples de code pratiques et des cahiers Jupyter pour utiliser les modèles Claude. Cette ressource fournit une variété de modèles de flux de travail pour aider les développeurs à accélérer l'intégration de Claude dans les applications d'IA.",
+          "meta": "Jupyter Notebook · ★ 47 306 · +194 aujourd'hui"
+        },
+        {
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "summary": "Développé avec le langage Go, Pentagi propose un système d'agents d'intelligence artificielle (agents IA) entièrement autonomes capables d'effectuer des tests d'intrusion complexes. Le système vise à normaliser les flux de travail autonomes pour détecter et exploiter les vulnérabilités.",
+          "meta": "Go · ★ 19 634 · +535 aujourd'hui"
+        },
+        {
+          "title": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "summary": "Crawl4AI est un robot d'exploration Web open source et un grattoir de données optimisé pour les grands modèles de langage. L'outil basé sur Python convertit les données Web non structurées en formats directement utilisables dans les applications d'IA.",
+          "meta": "Python · ★ 72 019 · +215 aujourd'hui"
+        },
+        {
+          "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+          "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+          "summary": "Ce guide sur la sécurité des serveurs Linux rassemble les étapes de configuration de base qui doivent être suivies pour protéger les systèmes contre les menaces externes. Le contenu constamment mis à jour offre un guide pratique des meilleures méthodes pouvant être appliquées dans les processus de renforcement des serveurs.",
+          "meta": "★ 29 237 · +243 aujourd'hui"
+        },
+        {
+          "title": "huxingyi/autoremesher",
+          "url": "https://github.com/huxingyi/autoremesher",
+          "summary": "Autoremesher est un outil C++ open source qui convertit automatiquement les modèles tridimensionnels en remaillage quadruple. Il fournit une génération de topologie optimisée pour créer des géométries complexes adaptées aux processus d'animation et de modélisation.",
+          "meta": "C++ · ★ 2 440 · +403 aujourd'hui"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video est un outil Python qui télécharge des vidéos, les sépare en images et transcrit des enregistrements audio. Il permet à l'intelligence artificielle d'analyser le contenu vidéo en transférant les données obtenues lors de ce processus au modèle Claude.",
+          "meta": "Python · ★ 6 873 · +718 aujourd'hui"
+        },
+        {
+          "title": "prisma/prisma",
+          "url": "https://github.com/prisma/prisma",
+          "summary": "Prisma est un outil de mappage relationnel objet (ORM) qui simplifie les interactions de bases de données pour les projets Node.js et TypeScript. Il optimise la gestion des schémas de base de données et les processus de création de requêtes de type sécurisé grâce à sa structure qui prend en charge différents systèmes de bases de données.",
+          "meta": "TypeScript · ★ 47 006 · +376 aujourd'hui"
+        },
+        {
+          "title": "kyutai-labs/pocket-tts",
+          "url": "https://github.com/kyutai-labs/pocket-tts",
+          "summary": "Développé par Kyutai Labs, Pocket-TTS est un modèle léger de synthèse vocale qui ne peut fonctionner que sur l'unité centrale (CPU). Il permet une synthèse audio rapide sur des appareils locaux nécessitant peu de matériel.",
+          "meta": "Python · ★ 7 104 · +235 aujourd'hui"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Les invites système des grands modèles de langage (LLM) populaires ont été compilées par les développeurs et mises à disposition dans une source centrale. Cette liste offre la possibilité de revoir les instructions de configuration et les codes de conduite spécifiques aux modèles d'entreprises telles qu'Anthropic, OpenAI, Google et xAI.",
+          "meta": "JavaScript · ★ 55 415 · +1 125 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+          "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+          "summary": "John Deere accorde aux propriétaires de matériel agricole le droit de réparer dans le cadre de l'accord avec la Federal Trade Commission (FTC). Cette disposition permet aux agriculteurs et aux garages indépendants d'accéder aux logiciels des véhicules et aux outils de diagnostic technique.",
+          "meta": "1 311 votes · 276 commentaires"
+        },
+        {
+          "title": "EU Parliament greenlights Chat Control 1.0",
+          "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+          "summary": "Le Parlement européen a approuvé le règlement qui vise à analyser les systèmes de cryptage de bout en bout afin de détecter les contenus pédopornographiques sur les plateformes de communication numérique. La décision en question a suscité des discussions sur la confidentialité de la correspondance privée et la mise en œuvre de mécanismes de contrôle des protocoles de sécurité.",
+          "meta": "1 276 votes · 605 commentaires"
+        },
+        {
+          "title": "GPT-5.6",
+          "url": "https://openai.com/index/gpt-5-6/",
+          "summary": "OpenAI a annoncé GPT-5.6, qui se concentre sur l'amélioration de la sécurité et des performances dans les grands modèles de langage. Le nouveau modèle est disponible via API avec des capacités de raisonnement améliorées et des protocoles de sécurité mis à jour.",
+          "meta": "1 213 votes · 858 commentaires"
+        },
+        {
+          "title": "Show HN: 18 Words",
+          "url": "https://18words.com/",
+          "summary": "18 Words est une plateforme de mémorisation de mots qui enseigne aux utilisateurs seulement dix-huit mots chaque jour pour améliorer leur vocabulaire quotidien. L'interface offre un design minimaliste sans distractions pour simplifier le processus d'apprentissage.",
+          "meta": "954 votes · 312 commentaires"
+        },
+        {
+          "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+          "url": "https://github.com/malisper/pgrust",
+          "summary": "La version du système de gestion de base de données PostgreSQL, réécrite avec le langage de programmation Rust, réussit tous les tests de régression. Ce projet apporte l'architecture de base de données à l'écosystème Rust pour augmenter la sécurité de la mémoire et tirer parti des fonctionnalités du langage moderne.",
+          "meta": "599 votes · 501 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Développé par Tencent, Hy3 est un modèle de langage conçu pour optimiser les processus de génération de texte. Le modèle, qui offre la possibilité de créer du contenu hautes performances avec une faible consommation de ressources, a atteint une large base d'utilisateurs sur la plateforme HuggingFace.",
+          "meta": "♥ 630 · 5 572 téléchargements"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B est un modèle d'intelligence artificielle multimodal qui produit du texte en traitant des données visuelles et textuelles. Le modèle offre la possibilité d'analyser des ensembles de données à grande échelle avec une capacité de 1 million de fenêtres contextuelles.",
+          "meta": "♥ 1 944 · 1 875 602 téléchargements"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, développé par Zai-org, est un modèle de langage optimisé pour les tâches de génération de texte. Le modèle hautement interactif de la plateforme HuggingFace offre des capacités de création de contenu dans les processus de traitement du langage naturel.",
+          "meta": "♥ 3 743 · 362 300 téléchargements"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, développé par InternScience, est un modèle d'intelligence artificielle optimisé pour les tâches de génération de texte. Ce modèle est conçu pour prendre en charge le raisonnement logique complexe et les flux de travail basés sur des agents.",
+          "meta": "♥ 446 · 23 112 téléchargements"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Développé par Baidu, Unlimited-OCR est un modèle image-texte-texte qui traite les textes visuels et les convertit en sortie texte. Le modèle offre des capacités de reconnaissance optique de caractères conçues pour transférer des données de documents complexes vers un format numérique.",
+          "meta": "♥ 1 909 · 1 246 042 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "software development kit",
+      "explanation": "Un ensemble d'outils, de bibliothèques et de documents utilisés pour développer des logiciels pour une plateforme spécifique."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Capacité à analyser des problèmes complexes par étapes logiques et à produire des solutions."
+    },
+    {
+      "term": "DESIGN.md",
+      "explanation": "Un dossier d'information expliquant comment un projet a été conçu et quelles décisions architecturales ont été prises."
+    },
+    {
+      "term": "UI",
+      "explanation": "Tous les éléments visuels avec lesquels un utilisateur interagit avec une application ou un site Web."
+    },
+    {
+      "term": "terminal control",
+      "explanation": "Processus consistant à donner des instructions à un ordinateur directement via la ligne de commande, sans utiliser d'interface graphique."
+    },
+    {
+      "term": "diff file editing",
+      "explanation": "Une méthode permettant de détecter les différences entre deux versions de fichiers et de mettre à jour uniquement les parties modifiées."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Infrastructure qui permet aux modèles d'intelligence artificielle de communiquer avec différentes sources de données de manière sécurisée et standard."
+    },
+    {
+      "term": "cookbooks",
+      "explanation": "Des guides qui proposent des solutions pratiques et toutes faites aux problèmes rencontrés lors de l’utilisation d’une certaine technologie."
+    },
+    {
+      "term": "notebooks",
+      "explanation": "Des environnements de travail interactifs où les codes, les explications et les résultats peuvent être vus ensemble sur la même page."
+    },
+    {
+      "term": "penetration testing",
+      "explanation": "C'est le processus de test des attaques que des personnes malveillantes peuvent effectuer de manière contrôlée afin de tester la sécurité d'un système."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Logiciel d'intelligence artificielle autonome capable de prendre des décisions par lui-même et d'effectuer des tâches ciblées."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "Linux server security",
+      "explanation": "Travailler à protéger les systèmes de serveurs open source contre les cyberattaques et les accès non autorisés."
+    },
+    {
+      "term": "server hardening",
+      "explanation": "Processus de réduction du risque d'attaque en désactivant les fonctionnalités inutiles et en renforçant les paramètres de sécurité sur un serveur."
+    },
+    {
+      "term": "quad remeshing",
+      "explanation": "Processus de transformation de la surface d'un modèle 3D complexe composé de triangles en pièces rectangulaires plus régulières."
+    },
+    {
+      "term": "transcription",
+      "explanation": "Le processus de transcription de conversations dans des enregistrements audio ou vidéo."
+    }
+  ]
+}

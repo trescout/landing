@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-08",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "Utilisant l'infrastructure Claude Code, ai-job-search offre un cadre qui automatise le processus de recherche d'emploi. L'outil analyse le profil de l'utilisateur et effectue des tâches telles que la rédaction de CV, la rédaction de lettres de motivation et la préparation d'entretiens avec le soutien de l'intelligence artificielle.",
+          "meta": "TypeScript · ★ 12 031 · +2 514 aujourd'hui"
+        },
+        {
+          "title": "AhmadIbrahiim/Website-downloader",
+          "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+          "summary": "Le téléchargeur de site Web, développé par AhmadIbrahiim, permet de télécharger tous les codes sources et actifs d'un site Web sur l'ordinateur local à l'aide de Node.js. L'outil est utilisé pour archiver l'intégralité du site, y compris les fichiers JavaScript, les feuilles de style et les images.",
+          "meta": "HTML · ★ 4 223 · +140 aujourd'hui"
+        },
+        {
+          "title": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "summary": "OfficeCLI propose une suite bureautique open source qui permet aux agents IA de lire, modifier et automatiser directement les fichiers Word, Excel et PowerPoint. Développé en C#, cet outil permet d'effectuer des opérations via un seul fichier binaire sans nécessiter aucune installation de logiciel bureautique.",
+          "meta": "C# · ★ 10 491 · +893 aujourd'hui"
+        },
+        {
+          "title": "kyutai-labs/pocket-tts",
+          "url": "https://github.com/kyutai-labs/pocket-tts",
+          "summary": "Développé par Kyutai Labs, Pocket-TTS est un modèle léger de synthèse vocale qui s'exécute uniquement sur l'unité centrale (CPU) sans avoir besoin d'une unité de traitement graphique. Grâce à sa faible consommation de ressources, il offre une synthèse sonore rapide et efficace sur les appareils soumis à des restrictions matérielles.",
+          "meta": "Python · ★ 6 350 · +531 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+          "url": "https://streetcomplete.app/",
+          "summary": "StreetComplete est une application mobile qui permet aux utilisateurs de mettre à jour les données OpenStreetMap en répondant à des questions simples. Il vise à compléter les informations manquantes sur la carte en encourageant les contributions des bénévoles via la gamification.",
+          "meta": "732 votes · 173 commentaires"
+        },
+        {
+          "title": "Chat Control 1.0 and 2.0 Explained",
+          "url": "https://fightchatcontrol.eu/chat-control-overview",
+          "summary": "Les réglementations sur le contrôle des discussions discutées au sein de l’Union européenne visent à imposer une obligation d’analyser le contenu sur les plateformes de messagerie cryptées de bout en bout. Ces initiatives législatives redéfinissent les normes de confidentialité numérique et de sécurité des données pour lutter contre l'exploitation des enfants.",
+          "meta": "550 votes · 182 commentaires"
+        },
+        {
+          "title": "Every new car sold in the European Union must include a driver monitoring camera",
+          "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+          "summary": "Tous les véhicules neufs vendus dans l'Union européenne doivent être équipés d'une caméra de surveillance du conducteur qui détecte la distraction du conducteur. Ce système vise à réduire les risques d'accidents grâce à des alertes de sécurité en analysant le comportement du conducteur.",
+          "meta": "535 votes · 694 commentaires"
+        },
+        {
+          "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+          "url": "https://30papers.com/",
+          "summary": "La plateforme 30papers.com propose 30 articles de base sur l'apprentissage automatique recommandés par le chercheur en intelligence artificielle Ilya Sutskever dans un format accessible aux débutants. Le projet vise à faciliter l’apprentissage des concepts de base dans le domaine de l’apprentissage automatique en simplifiant les contenus académiques complexes.",
+          "meta": "452 votes · 71 commentaires"
+        },
+        {
+          "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+          "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+          "summary": "Kokoro est un modèle qui fonctionne avec une faible puissance de processeur et offre une capacité de synthèse vocale de haute qualité sur les appareils locaux. Grâce à son architecture légère, il permet d'effectuer des opérations de synthèse vocale rapides et naturelles sans avoir besoin d'une connexion Internet.",
+          "meta": "368 votes · 74 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Un ensemble de structures et de règles prêtes à l'emploi utilisées pour accélérer le travail lors du développement de logiciels."
+    },
+    {
+      "term": "assets",
+      "explanation": "Toutes les ressources numériques telles que les images, les sons, les codes ou les fichiers utilisés dans un projet."
+    },
+    {
+      "term": "binary",
+      "explanation": "Langage machine composé uniquement de zéros et de uns que l’ordinateur peut directement comprendre et exécuter."
+    },
+    {
+      "term": "CPU",
+      "explanation": "L'unité de traitement principale de l'ordinateur qui effectue tous les calculs et traite les instructions."
+    },
+    {
+      "term": "text-to-speech",
+      "explanation": "Voix off de textes écrits par un ordinateur avec une voix humaine naturelle."
+    },
+    {
+      "term": "OpenStreetMap",
+      "explanation": "Base de données de cartes du monde créée par des bénévoles et accessible à tous gratuitement."
+    },
+    {
+      "term": "gamification",
+      "explanation": "Utiliser des mécanismes de jeu tels que des points, des badges ou des niveaux pour motiver l'utilisateur dans des zones hors jeu."
+    }
+  ]
+}

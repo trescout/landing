@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-02",
+  "editorial": "L'agenda technologique actuel est dominé par les outils de conversion de données et les interfaces Web orientées automatisation. Les données de popularité sur GitHub montrent que les développeurs se tournent particulièrement vers les bibliothèques modulaires qui accélèrent les processus de traitement des fichiers et de production de contenu.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Développé par Microsoft, MarkItDown est un outil Python qui convertit divers formats de fichiers et documents bureautiques au format de langage markdown (Markdown). Cette bibliothèque facilite le traitement des données non structurées pour les grands modèles de langage.",
+          "meta": "Python · ★ 139 674 · +3 034 aujourd'hui"
+        },
+        {
+          "title": "nesquena/hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "summary": "Hermes WebUI propose une interface pour Hermes Agent qui permet l'accès via le Web ou des appareils mobiles. Cet outil basé sur Python facilite la gestion des interactions avec les agents d'intelligence artificielle via le navigateur.",
+          "meta": "Python · ★ 11 884 · +945 aujourd'hui"
+        },
+        {
+          "title": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "summary": "Supermemory offre un moteur de mémoire évolutif et une interface d'application pour l'ère de l'intelligence artificielle. Cette structure, développée avec TypeScript, crée une couche de mémoire centrale pour les systèmes basés sur l'intelligence artificielle en traitant rapidement les données utilisateur.",
+          "meta": "TypeScript · ★ 24 233 · +647 aujourd'hui"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo crée automatiquement de courtes vidéos haute résolution à partir de contenu textuel en utilisant de grands modèles linguistiques. Cet outil basé sur Python accélère les flux de création de contenu en automatisant le processus de production vidéo en un seul clic.",
+          "meta": "Python · ★ 77 381 · +3 375 aujourd'hui"
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling est un framework de scraping Web adaptatif qui gère l'ensemble du processus, depuis les requêtes uniques jusqu'aux opérations d'exploration complètes. Cet outil basé sur Python a été développé pour automatiser les processus de collecte de données.",
+          "meta": "Python · ★ 58 501 · +1 486 aujourd'hui"
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable est une bibliothèque de langage de conception développée pour améliorer les résultats de conception des modèles d'intelligence artificielle. Le logiciel fournit des règles standardisées pour améliorer la cohérence visuelle et la qualité esthétique des outils d'IA générative.",
+          "meta": "JavaScript · ★ 33 104 · +485 aujourd'hui"
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "summary": "Heretic est un outil Python qui supprime automatiquement les mécanismes de censure dans les modèles de langage. Le logiciel vise à contourner les contraintes en manipulant directement les poids du modèle.",
+          "meta": "Python · ★ 23 165 · +249 aujourd'hui"
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "Fonctionnant de manière intégrée avec des outils de développement tels que Claude Code, Codex et Cursor, le plug-in Compound Engineering propose des processus d'ingénierie composés standardisés pour la construction de systèmes logiciels complexes. Cet outil basé sur TypeScript vise à augmenter l'efficacité des flux de travail dans les environnements de codage pris en charge par l'intelligence artificielle.",
+          "meta": "TypeScript · ★ 19 232 · +417 aujourd'hui"
+        },
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TradingAgents est un framework multi-agent basé sur LLM développé pour le trading sur les marchés financiers. Ce système, écrit en Python, permet aux agents commerciaux autonomes d'analyser les données financières, de créer des stratégies et de gérer les processus décisionnels.",
+          "meta": "Python · ★ 82 054 · +299 aujourd'hui"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness est un cadre de méta-capacités qui conçoit des équipes d'agents d'IA spécifiques à un domaine et crée les compétences spécialisées dont ces équipes ont besoin. Le système permet le développement de structures d'agents et de descriptions de poste personnalisées pour gérer des flux de travail complexes.",
+          "meta": "HTML · ★ 5 330 · +524 aujourd'hui"
+        },
+        {
+          "title": "godotengine/godot",
+          "url": "https://github.com/godotengine/godot",
+          "summary": "Godot Engine (Godot Engine) est un moteur de jeu open source utilisé pour les processus de développement de jeux en deux et trois dimensions. Cette plateforme, développée en langage C++, permet aux développeurs de produire des jeux pouvant fonctionner sur différents systèmes d'exploitation.",
+          "meta": "C++ · ★ 111 819 · +77 aujourd'hui"
+        },
+        {
+          "title": "can1357/oh-my-pi",
+          "url": "https://github.com/can1357/oh-my-pi",
+          "summary": "Oh-my-pi est un agent de codage d'intelligence artificielle qui s'exécute dans un environnement de terminal et automatise les processus d'édition de code. L'outil vise à optimiser les flux de travail de développement logiciel avec des fonctionnalités telles que le protocole de serveur de langage (LSP), l'intégration du navigateur et la gestion des sous-agents.",
+          "meta": "TypeScript · ★ 9 701 · +335 aujourd'hui"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM est un modèle de synthèse vocale (TTS) sans tokenizer développé pour la production vocale multilingue, la conception sonore créative et le clonage vocal. Contrairement aux méthodes traditionnelles, le système fonctionne directement sur les formes d'onde sonores, offrant ainsi des processus de synthèse sonore plus naturels et plus flexibles.",
+          "meta": "Python · ★ 24 592 · +888 aujourd'hui"
+        },
+        {
+          "title": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "summary": "Ce guide, qui vise à entraîner de zéro de grands modèles de langage, du téléchargement de données à la production de texte, présente les méthodes nécessaires au processus au format Jupyter Notebook. En simplifiant les étapes techniques de mise en œuvre, l’étude explique le cycle de développement du modèle de bout en bout.",
+          "meta": "Jupyter Notebook · ★ 3 912 · +861 aujourd'hui"
+        },
+        {
+          "title": "stefan-jansen/machine-learning-for-trading",
+          "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+          "summary": "Préparée par Stefan Jansen, cette ressource fournit des exemples de code complets et des notebooks Jupyter pour les applications d'apprentissage automatique dans le trading algorithmique. Il sert de guide pratique pour ceux qui souhaitent développer des analyses de données et des modèles de prévision sur les marchés financiers.",
+          "meta": "Jupyter Notebook · ★ 18 065 · +93 aujourd'hui"
+        },
+        {
+          "title": "dmtrKovalenko/fff",
+          "url": "https://github.com/dmtrKovalenko/fff",
+          "summary": "Développé avec Rust, fff est une boîte à outils pour les agents d'intelligence artificielle et les éditeurs de texte qui effectue des recherches de fichiers avec une vitesse et une précision élevées. Avec le support C et NodeJS, il offre une structure qui peut être intégrée dans différents environnements de développement.",
+          "meta": "Rust · ★ 7 319 · +135 aujourd'hui"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build-your-own-x vise à améliorer les compétences en programmation en fournissant des guides pour créer des technologies logicielles populaires à partir de zéro. Les utilisateurs renforcent leur infrastructure technique en construisant étape par étape des systèmes complexes, tels qu'une base de données ou un système d'exploitation.",
+          "meta": "Markdown · ★ 510 728 · +1 212 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "The newest Instagram “exploit” is the goofiest I've seen",
+          "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+          "summary": "Les attaquants s'emparent des comptes d'utilisateurs en trompant le système de vérification d'identité basé sur l'intelligence artificielle dans le processus de récupération de compte de Meta. Cette méthode contourne les protocoles de sécurité utilisés pour vérifier la propriété du compte en manipulant les données de reconnaissance faciale du système.",
+          "meta": "1 721 votes · 389 commentaires"
+        },
+        {
+          "title": "CS336: Language Modeling from Scratch",
+          "url": "https://cs336.stanford.edu/",
+          "summary": "Le cours CS336 proposé par l'Université de Stanford couvre les processus de base de conception, de formation et de mise à l'échelle de grands modèles de langage dans les détails techniques. Le programme examine la structure architecturale et les méthodes d'optimisation des systèmes d'intelligence artificielle modernes grâce à une infrastructure d'apprentissage en profondeur.",
+          "meta": "449 votes · 47 commentaires"
+        },
+        {
+          "title": "AI Agent Guidelines for CS336 at Stanford",
+          "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+          "summary": "Le guide des agents d'intelligence artificielle, publié dans le cadre du cours CS336 de l'Université de Stanford, définit les normes de base pour le développement et l'évaluation de systèmes autonomes. Le document fournit un cadre technique pour les principes de conception, les méthodes de débogage et les processus de mesure des performances pour les agents d'intelligence artificielle (agents IA).",
+          "meta": "398 votes · 129 commentaires"
+        },
+        {
+          "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+          "summary": "Les processus d’introduction en bourse d’entreprises technologiques nécessitant des capitaux élevés, comme Anthropic, SpaceX et OpenAI, remettent en question la capacité des mécanismes boursiers traditionnels à répondre à des valorisations de cette ampleur. Les investisseurs évaluent l’impact de ces sociétés géantes sur la profondeur du marché et la capacité des marchés de capitaux à absorber des offres de cette taille.",
+          "meta": "312 votes · 547 commentaires"
+        },
+        {
+          "title": "Should you normalize RGB values by 255 or 256?",
+          "url": "https://30fps.net/pages/255-vs-256-division/",
+          "summary": "Le choix de diviser par 255 ou 256 lors de la normalisation des valeurs de couleur dans le traitement d'images numériques produit des résultats différents en termes de précision de l'espace colorimétrique et de précision de calcul. Ce choix affecte directement les erreurs d'arrondi et les écarts dans la distribution des couleurs, en particulier ceux qui se produisent lors du redimensionnement des données d'image.",
+          "meta": "253 votes · 104 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Développé par Nvidia, LocateAnything-3D est un modèle qui effectue des tâches de localisation d'objets en traitant la saisie d'images et de texte. Il est conçu pour identifier les éléments du contenu visuel avec des commandes textuelles et déterminer leurs coordonnées.",
+          "meta": "♥ 850 · 61 604 téléchargements"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "Développé par OpenBMB, MiniCPM5-1B est un modèle de langage à faibles paramètres optimisé pour les tâches de génération de texte. Malgré sa petite taille, il offre des performances d'inférence efficaces, permettant un fonctionnement sur des ressources matérielles limitées.",
+          "meta": "♥ 699 · 57 683 téléchargements"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "summary": "LFM2.5-8B-A1B, publié par LiquidAI, est un modèle d'intelligence artificielle optimisé pour les tâches de génération de texte. Contrairement aux architectures traditionnelles, le modèle utilise une structure de réseaux neuronaux liquides et promet des processus informatiques efficaces.",
+          "meta": "♥ 409 · 47 742 téléchargements"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Partagé sur HuggingFace, Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive est un modèle d'intelligence artificielle multimodale qui produit une sortie de texte en traitant les entrées visuelles et textuelles. Il offre une approche différente des processus de traitement des données avec sa structure non censurée et ses paramètres personnalisés.",
+          "meta": "♥ 1 243 · 2 573 320 téléchargements"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Développé par Meituan, LongCat-Video-Avatar-1.5 est un modèle qui permet de créer des avatars vidéo haute fidélité à partir d'une seule image de référence. Le système facilite les processus de production humaine numérique en synthétisant de manière cohérente les mouvements et les expressions faciales du personnage sur des données vidéo.",
+          "meta": "♥ 472 · 174 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

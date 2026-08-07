@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-24",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Développé par Block in Rust, Buzz est conçu comme une plateforme de communication décentralisée de l'esprit de ruche. Il fournit une infrastructure qui prend en charge le partage collectif de données et l'interaction simultanée via une structure de réseau distribuée.",
+          "meta": "Rust · ★ 7 593 · +2 162 aujourd'hui"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite est un navigateur qui permet aux utilisateurs et aux agents d'intelligence artificielle de travailler simultanément. Cet outil basé sur JavaScript vise à réaliser une interaction humaine et machine en parallèle dans le même environnement de navigateur.",
+          "meta": "JavaScript · ★ 1 896 · +247 aujourd'hui"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "L'outil de révision de code open source développé par Alibaba combine des pipelines déterministes et des agents LLM (Large Language Model) dans une structure hybride. Doté de règles de sécurité logicielles et de capacités d'interprétation basées sur les lignes, l'outil est écrit en langage Go et propose une infrastructure compatible OpenAI et Anthropic.",
+          "meta": "Go · ★ 11 836 · +180 aujourd'hui"
+        },
+        {
+          "title": "Automattic/harper",
+          "url": "https://github.com/Automattic/harper",
+          "summary": "Harper propose un vérificateur de grammaire hors ligne et axé sur la confidentialité développé avec le langage Rust. Cet outil open source vise à créer une alternative performante et sûre dans les processus d'analyse de texte.",
+          "meta": "Rust · ★ 12 510 · +624 aujourd'hui"
+        },
+        {
+          "title": "jellyfin/jellyfin",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "summary": "Jellyfin propose un système multimédia gratuit qui permet aux utilisateurs de gérer et de publier leurs propres collections multimédias. Développés en C#, ce backend serveur et cette interface de programmation d'application (API) constituent une alternative open source pour la mise en place d'un serveur multimédia central.",
+          "meta": "C# · ★ 54 815 · +66 aujourd'hui",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Writing by hand is good for your brain",
+          "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+          "summary": "La pratique de l’écriture manuscrite soutient les processus cognitifs et augmente la capacité d’apprentissage et de rétention de la mémoire par rapport aux outils numériques. Les interactions neurologiques révèlent les contributions positives de l’acte physique d’écrire sur la concentration mentale et les processus de traitement de l’information.",
+          "meta": "1 176 votes · 546 commentaires"
+        },
+        {
+          "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "summary": "Les fondateurs de startups technologiques appellent le gouvernement américain à ne pas restreindre l’accès aux modèles d’IA à poids ouvert provenant de Chine. Ils soutiennent que ces restrictions ralentiront l’innovation et nuiront à l’écosystème de l’IA open source.",
+          "meta": "848 votes · 721 commentaires"
+        },
+        {
+          "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+          "summary": "OpenAI a provoqué un incident de sécurité inattendu sur Hugging Face lors des processus d'évaluation du modèle. Les deux institutions travaillent en coopération pour accroître la sécurité du système après ce problème technique.",
+          "meta": "464 votes · 370 commentaires"
+        },
+        {
+          "title": "98.css",
+          "url": "https://jdan.github.io/98.css/#status-bar",
+          "summary": "98.css est une bibliothèque de feuilles de style développée pour intégrer le langage visuel de Windows 98 aux interfaces Web. Il permet aux développeurs de créer une interface utilisateur nostalgique dans les projets Web modernes.",
+          "meta": "400 votes · 91 commentaires"
+        },
+        {
+          "title": "What happened to TheNumbers.com",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "summary": "La mise hors ligne soudaine de TheNumbers.com, qui compile des données sur l'industrie cinématographique, soulève des risques quant à la continuité des archives numériques et des sources de données. Cette situation révèle la vulnérabilité des méthodes de stockage d’informations basées sur des plateformes centrales à la perte de données.",
+          "meta": "341 votes · 148 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Développé par Upstage, Solar-Open2-250B est un modèle de langage à grande échelle conçu pour les tâches de génération de texte. Le modèle vise à augmenter les performances dans les processus de traitement du langage complexes grâce à sa capacité de paramètres élevée.",
+          "meta": "♥ 483 · 362 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "hive mind communication platform",
+      "explanation": "Un environnement numérique qui permet à un groupe de personnes ou à un système d'agir comme un esprit collectif et où les idées sont rapidement partagées."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Logiciel autonome qui prend des décisions de manière autonome et effectue des tâches ciblées en votre nom."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "Ligne de processus automatique où les données sont traitées d'une étape à l'autre et atteignent le résultat final."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    }
+  ]
+}

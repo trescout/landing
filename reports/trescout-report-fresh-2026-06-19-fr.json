@@ -1,0 +1,118 @@
+{
+  "date": "2026-06-19",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "zai-org/GLM-5",
+          "url": "https://github.com/zai-org/GLM-5",
+          "summary": "GLM-5 offre un cadre qui vise à faire passer les processus de développement logiciel du codage vibratoire à l'ingénierie structurée basée sur des agents. Ce système standardise les flux de travail de développement logiciel grâce à des agents d'intelligence artificielle (agents IA) capables de gérer des tâches complexes de manière autonome.",
+          "meta": "★ 4 301 · +202 aujourd'hui"
+        },
+        {
+          "title": "Kilo-Org/kilocode",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "summary": "Kilo est une plateforme d'ingénierie tout-en-un basée sur des agents conçue pour accélérer les processus de développement logiciel. Il standardise les processus de création, de distribution et d'itération des applications via un agent de développement logiciel open source (agent de codage).",
+          "meta": "TypeScript · ★ 22 481 · +1 345 aujourd'hui"
+        },
+        {
+          "title": "Kong/insomnia",
+          "url": "https://github.com/Kong/insomnia",
+          "summary": "Insomnia est un client d'interface de programmation d'application (API) open source qui prend en charge les protocoles GraphQL, REST, WebSockets, SSE et gRPC. Le logiciel offre une prise en charge multiplateforme avec des options de stockage basées sur le cloud, local et Git.",
+          "meta": "TypeScript · ★ 38 771 · +18 aujourd'hui"
+        },
+        {
+          "title": "dotnet/aspnetcore",
+          "url": "https://github.com/dotnet/aspnetcore",
+          "summary": "ASP.NET Core est un framework .NET multiplateforme utilisé pour développer des applications Web modernes basées sur le cloud sur Windows, macOS et Linux. Cette structure, développée en langage C#, permet de créer des services web performants et évolutifs.",
+          "meta": "C# · ★ 38 124 · +14 aujourd'hui"
+        },
+        {
+          "title": "owainlewis/awesome-artificial-intelligence",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+          "summary": "Awesome-artificial-intelligence est une liste de ressources complète qui rassemble des formations, des livres, des cours vidéo et des articles académiques dans le domaine de l'intelligence artificielle. Cette collection fournit un référentiel de contenu structuré par discipline pour les utilisateurs en cours d'apprentissage.",
+          "meta": "★ 14 532 · +40 aujourd'hui"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "summary": "Développé par Lightricks, LTX-2 propose un package de formation Python d'inférence et d'adaptation de bas rang (LoRA) pour les modèles d'intelligence artificielle qui produisent de l'audio et de la vidéo. Cet ensemble d'outils permet aux utilisateurs de former des modèles LTX-2 avec leurs propres données et d'exécuter les sorties du modèle sur les systèmes locaux.",
+          "meta": "Python · ★ 7 550 · +51 aujourd'hui"
+        },
+        {
+          "title": "LibreTranslate/LibreTranslate",
+          "url": "https://github.com/LibreTranslate/LibreTranslate",
+          "summary": "LibreTranslate propose une interface de traduction automatique (API) gratuite et open source. Cet outil basé sur Python, que vous pouvez héberger sur votre propre serveur, vous permet de travailler hors ligne sans connexion Internet.",
+          "meta": "Python · ★ 15 075 · +51 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "I found 10k GitHub repositories distributing Trojan malware",
+          "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+          "summary": "Plus de dix mille référentiels de logiciels hébergés sur GitHub distribuaient des logiciels malveillants de type cheval de Troie. Ces référentiels imitent des projets légitimes et encouragent les utilisateurs à télécharger des fichiers malveillants.",
+          "meta": "780 votes · 203 commentaires"
+        },
+        {
+          "title": ".gitignore Isn't the only way to ignore files in Git",
+          "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+          "summary": "Le fichier .gitignore n'est pas le seul à être utilisé pour les opérations d'exclusion de fichiers (fichiers ignorés) dans les projets Git. Les développeurs peuvent choisir le fichier .git/info/exclude pour les configurations locales ou les méthodes de configuration globale pour les exclusions globales.",
+          "meta": "410 votes · 129 commentaires"
+        },
+        {
+          "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+          "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+          "summary": "Le détaillant norvégien Elkjop a été condamné à une amende de 1,8 million d'euros pour ses pratiques exigeant le consentement des utilisateurs au traitement des données. Cette décision repose sur une violation de la règle selon laquelle le consentement de l'utilisateur doit être donné librement en vertu du Règlement général sur la protection des données (RGPD).",
+          "meta": "374 votes · 214 commentaires"
+        },
+        {
+          "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+          "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+          "summary": "Le cours de compilateurs avancés proposé par l'Université Cornell donne accès à du matériel d'auto-apprentissage couvrant les techniques modernes de conception et d'optimisation de compilateurs. Le programme prend en charge les connaissances théoriques sur l'infrastructure du compilateur et les processus de génération de code avec des applications pratiques.",
+          "meta": "364 votes · 51 commentaires"
+        },
+        {
+          "title": "Show HN: Are You in the Weights?",
+          "url": "https://www.intheweights.com/",
+          "summary": "Alors que le trafic Internet se déplace vers de grands modèles linguistiques, une plateforme a été développée pour se demander dans quelle mesure les données personnelles sont incluses dans les pondérations des modèles d’intelligence artificielle. Cet outil analyse les traces de données dans la mémoire de l'intelligence artificielle en interrogeant simultanément différents modèles.",
+          "meta": "336 votes · 188 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "vibe coding",
+      "explanation": "Le processus d'écriture rapide de code à l'aide de l'intelligence artificielle en décrivant simplement ce que vous voulez, sans vous enliser dans les détails techniques."
+    },
+    {
+      "term": "agentic engineering",
+      "explanation": "Discipline de conception et de développement de logiciels autonomes capables de prendre leurs propres décisions et d'atteindre l'objectif."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Logiciel intelligent qui utilise des outils pour effectuer les tâches assignées et peut prendre des décisions par lui-même."
+    },
+    {
+      "term": "agentic engineering platform",
+      "explanation": "Environnement de développement complet pour créer, gérer et tester des logiciels autonomes intelligents."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Un outil d'intelligence artificielle qui écrit du code, corrige les erreurs et réalise des projets en agissant comme un programmeur."
+    },
+    {
+      "term": "API",
+      "explanation": "Un pont numérique qui permet à deux logiciels différents de se parler et d'échanger des données."
+    }
+  ]
+}

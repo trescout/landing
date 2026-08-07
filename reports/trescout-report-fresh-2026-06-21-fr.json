@@ -1,0 +1,84 @@
+{
+  "date": "2026-06-21",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "summary": "Turso propose une base de données SQL en cours compatible avec SQLite. Ce système, développé en langage Rust, simplifie les processus de gestion des données en s'intégrant aux processus applicatifs.",
+          "meta": "Rust · ★ 20 466 · +801 aujourd'hui"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox est un studio vocal d'intelligence artificielle open source qui permet aux utilisateurs d'effectuer du clonage vocal, de la dictée et de la création de contenu. Développée avec le langage TypeScript, cette plateforme propose des outils complets pour gérer les processus de traitement audio dans l'environnement natif.",
+          "meta": "TypeScript · ★ 31 156 · +145 aujourd'hui"
+        },
+        {
+          "title": "pppscn/SmsForwarder",
+          "url": "https://github.com/pppscn/SmsForwarder",
+          "summary": "SmsForwarder est un outil qui transfère les messages texte, les appels et les notifications d'applications sur les appareils Android vers différentes plateformes de messagerie ou webhooks dans le cadre de règles spécifiées. Ce logiciel, qui permet aux utilisateurs de gérer à distance leurs appareils et d'accéder à des données telles que l'état de la batterie et les contacts, a été développé avec le langage Kotlin.",
+          "meta": "Kotlin · ★ 26 560 · +104 aujourd'hui"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Développé avec le langage Rust, jcode offre un cadre pour tester et évaluer les agents d'intelligence artificielle orientés codage. Il fournit une infrastructure standard pour mesurer les performances des agents utilisés dans les processus de développement logiciel.",
+          "meta": "Rust · ★ 7 450 · +87 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "SMPTE Makes Its Standards Freely Accessible",
+          "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+          "summary": "La Society of Motion Picture and Television Engineers (SMPTE) a mis ses normes en matière de technologie médiatique gratuitement à la disposition de la communauté mondiale. Cette étape vise à garantir une adoption plus large de la bibliothèque de normes des médias numériques dans l’ensemble du secteur.",
+          "meta": "254 votes · 76 commentaires"
+        },
+        {
+          "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+          "url": "https://github.com/mysk-research/loupe",
+          "summary": "Loupe est une application iOS qui vise à sensibiliser les utilisateurs en visualisant les données auxquelles les applications natives peuvent accéder sur l'appareil. Le logiciel rapporte de manière transparente les processus d'accès aux données effectués par les applications en arrière-plan.",
+          "meta": "254 votes · 76 commentaires"
+        },
+        {
+          "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+          "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+          "summary": "Le projet d'ingénierie inverse du jeu F-15 Strike Eagle II recherche des pilotes d'essai pour vérifier l'opérabilité du logiciel dans différents environnements DOS. Le travail vise à préserver le code source du jeu classique en l'adaptant aux systèmes modernes.",
+          "meta": "241 votes · 64 commentaires"
+        },
+        {
+          "title": "Renting a sewing machine from the library",
+          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+          "summary": "Les bibliothèques finlandaises transforment le modèle de service traditionnel axé sur le livre en prêtant une large gamme d'articles, des machines à coudre aux ensembles de perceuses. Cette application combine le modèle de l’économie du partage, qui vise à réduire les habitudes de consommation, avec l’infrastructure des bibliothèques.",
+          "meta": "212 votes · 107 commentaires"
+        },
+        {
+          "title": "Temporary Cloudflare accounts for AI agents",
+          "url": "https://blog.cloudflare.com/temporary-accounts/",
+          "summary": "Cloudflare propose une infrastructure qui permet la création de comptes cloud temporaires afin que les agents d'intelligence artificielle puissent travailler en toute sécurité. Ce système simplifie les processus d'autorisation des agents et leur permet de travailler avec des autorisations d'accès limitées pendant une durée limitée.",
+          "meta": "204 votes · 109 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "in-process",
+      "explanation": "L'exécution d'une opération directement dans le propre espace de travail du programme actuel, sans être transférée vers un autre emplacement."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Technologie qui analyse la voix d'une personne et lui fait dire de nouvelles phrases comme si c'était cette personne."
+    }
+  ]
+}

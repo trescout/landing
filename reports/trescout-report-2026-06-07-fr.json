@@ -1,0 +1,190 @@
+{
+  "date": "2026-06-07",
+  "editorial": "Le monde du logiciel se concentre aujourd’hui sur l’infrastructure d’IA personnelle et la gestion de la mémoire des agents autonomes. Les outils open source sur GitHub montrent que les systèmes modulaires permettant aux utilisateurs de créer leurs propres compétences se développent rapidement.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill propose une compétence d'intelligence artificielle (compétence IA) qui synthétise les données actuelles en effectuant des recherches sur des plateformes telles que Reddit, X, YouTube, Hacker News et Polymarket. Cet outil basé sur Python combine des informations provenant de différentes sources pour créer des résumés fondés pour les utilisateurs.",
+          "meta": "Python · ★ 29 225 · +439 aujourd'hui"
+        },
+        {
+          "title": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "summary": "CopilotKit propose un cadre de bout en bout pour développer des agents d'intelligence artificielle et des interfaces utilisateur génératives. Cet outil, qui s'intègre aux plateformes React, Angular et mobiles, permet aux développeurs de créer des expériences d'intelligence artificielle intégrées aux applications via un protocole standard.",
+          "meta": "TypeScript · ★ 33 408 · +631 aujourd'hui"
+        },
+        {
+          "title": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "summary": "MemPalace propose une infrastructure de gestion de mémoire open source et orientée performances pour les systèmes d'intelligence artificielle. Le système fournit aux développeurs un ensemble d'outils gratuits pour optimiser les processus de stockage et de récupération d'informations à long terme des modèles d'IA.",
+          "meta": "Python · ★ 54 440 · +446 aujourd'hui"
+        },
+        {
+          "title": "danielmiessler/Personal_AI_Infrastructure",
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "summary": "L'infrastructure d'IA personnelle offre un cadre pour créer des systèmes d'intelligence artificielle basés sur des agents (IA agent) conçus pour augmenter les capacités humaines. Développée avec TypeScript, cette structure prend en charge une architecture modulaire qui permet aux utilisateurs de gérer leurs propres flux de travail autonomes.",
+          "meta": "TypeScript · ★ 15 080 · +70 aujourd'hui"
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "Les plug-ins OpenAI permettent aux modèles de langage d'accéder à des données à jour et d'interagir directement avec des applications tierces. Cette structure permet aux modèles d'intelligence artificielle d'effectuer des tâches complexes à l'aide d'outils externes.",
+          "meta": "JavaScript · ★ 1 856 · +213 aujourd'hui"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach est un outil open source qui permet aux agents IA de rechercher et de lire du contenu sur diverses plateformes sur Internet. Fonctionnant via une interface de ligne de commande (CLI), ce système offre un accès aux données sans payer de frais d'interface de programmation d'application (API).",
+          "meta": "Python · ★ 22 675 · +683 aujourd'hui"
+        },
+        {
+          "title": "sveltejs/svelte",
+          "url": "https://github.com/sveltejs/svelte",
+          "summary": "Contrairement aux frameworks traditionnels, Svelte utilise une approche de compilation qui réduit la surcharge d'exécution sur le navigateur. Cette bibliothèque JavaScript simplifie les processus de développement Web en convertissant le code d'application en modules JavaScript purs petits et rapides.",
+          "meta": "JavaScript · ★ 87 060 · +25 aujourd'hui"
+        },
+        {
+          "title": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "summary": "Le référentiel open source NGINX continue d'être développé en C en tant que serveur Web hautes performances et proxy inverse. Le logiciel offre une solution standard dans les infrastructures à grande échelle pour gérer le trafic réseau et optimiser la distribution de contenu.",
+          "meta": "C · ★ 30 727 · +20 aujourd'hui"
+        },
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "summary": "Trivy est un outil de sécurité complet qui effectue une analyse des vulnérabilités, une vérification des erreurs de configuration et une génération de nomenclatures logicielles (SBOM) dans les conteneurs, les clusters Kubernetes et les infrastructures cloud. Développée avec le langage Go, cette solution open source fournit une plateforme centrale pour détecter les risques de sécurité tout au long du cycle de vie du développement logiciel.",
+          "meta": "Go · ★ 36 034 · +159 aujourd'hui"
+        },
+        {
+          "title": "golang/go",
+          "url": "https://github.com/golang/go",
+          "summary": "Développé par Google, le langage de programmation Go est un langage de programmation système open source conçu pour créer des logiciels performants et évolutifs. Il est largement préféré dans les infrastructures de cloud computing modernes avec sa gestion de la concurrence et ses temps de compilation rapides.",
+          "meta": "Go · ★ 134 555 · +30 aujourd'hui"
+        },
+        {
+          "title": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "summary": "Open-notebook offre une alternative open source à l'outil Google NotebookLM, offrant aux utilisateurs une plus grande flexibilité et personnalisation. Cette plateforme, développée avec TypeScript, prend en charge les processus interactifs d'analyse et de production de contenu sur des documents avec des infrastructures locales ou personnalisables.",
+          "meta": "TypeScript · ★ 26 783 · +794 aujourd'hui"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers est un cadre et une méthodologie utilisés pour développer des compétences basées sur des agents dans les processus de développement de logiciels. Cette structure, développée en langage Shell, vise à standardiser les workflows des systèmes autonomes.",
+          "meta": "Shell · ★ 219 905 · +700 aujourd'hui"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "À l'aide de l'infrastructure Claude Code, Career-Ops automatise les processus de recherche d'emploi basés sur l'intelligence artificielle avec 14 modes de compétences différents. Le système centralise des fonctions telles que la gestion des lots et la création de CV via un panneau de contrôle basé sur Go.",
+          "meta": "JavaScript · ★ 49 580 · +193 aujourd'hui"
+        },
+        {
+          "title": "openai/whisper",
+          "url": "https://github.com/openai/whisper",
+          "summary": "Développé par OpenAI, Whisper est un modèle de reconnaissance vocale formé par une méthode d'apprentissage par supervision faible à grande échelle. Il offre des taux de précision élevés dans la conversion et la traduction de données audio multilingues en texte.",
+          "meta": "Python · ★ 101 952 · +150 aujourd'hui"
+        },
+        {
+          "title": "vitejs/vite",
+          "url": "https://github.com/vitejs/vite",
+          "summary": "Vite offre un environnement de développement rapide et un outil de création pour les projets Web modernes. Il fonctionne comme un outil frontal qui réduit les temps d'attente dans le processus de développement en utilisant des modules ES natifs.",
+          "meta": "TypeScript · ★ 81 238 · +25 aujourd'hui"
+        },
+        {
+          "title": "microsoft/mxc",
+          "url": "https://github.com/microsoft/mxc",
+          "summary": "Développé par Microsoft, MXC est une solution d'isolation et de confinement en couches basée sur des politiques et écrite en langage Rust. Il est conçu pour limiter en toute sécurité les ressources système et augmenter la sécurité des applications.",
+          "meta": "Rust · ★ 641 · +64 aujourd'hui"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "summary": "Développé par PaddlePaddle, PaddleOCR est un outil léger de reconnaissance optique de caractères qui convertit le texte des fichiers image et PDF en données structurées. Prenant en charge plus de 100 langues, cette bibliothèque facilite le traitement de documents avec de grands modèles linguistiques.",
+          "meta": "Python · ★ 81 093 · +433 aujourd'hui"
+        },
+        {
+          "title": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "summary": "Publié par Microsoft, VibeVoice a été développé comme un framework d'IA vocale open source. Grâce à sa structure basée sur Python, le système permet aux utilisateurs de former leurs propres modèles sonores et de les intégrer dans leurs applications.",
+          "meta": "Python · ★ 48 569 · +216 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+          "url": "https://news.ycombinator.com/item?id=48406174",
+          "summary": "Alors que les développeurs pensaient au départ que les outils d'IA générative étaient un simple divertissement ou une prise en charge limitée du codage, leur point de vue a changé lorsqu'ils ont constaté la capacité des modèles à résoudre des problèmes complexes. Ce processus est basé sur l'expérience montrant que les capacités techniques des grands modèles de langage s'améliorent plus rapidement que prévu.",
+          "meta": "603 votes · 1 002 commentaires"
+        },
+        {
+          "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+          "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+          "summary": "Meta a confirmé que des milliers de comptes Instagram ont été compromis à la suite de l'utilisation abusive d'un chatbot à intelligence artificielle (AI chatbot). Les attaquants ont obtenu un accès non autorisé aux comptes d'utilisateurs en utilisant les vulnérabilités du système.",
+          "meta": "558 votes · 199 commentaires"
+        },
+        {
+          "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+          "url": "https://ntsc.rs/",
+          "summary": "ntsc-rs est un outil d'émulation vidéo open source qui transfère les distorsions d'image spécifiques aux signaux de télévision analogique et de cassette vidéo (VHS) vers l'environnement numérique. Le logiciel utilise diverses techniques de filtrage pour appliquer la texture visuelle des normes de diffusion existantes au contenu numérique moderne.",
+          "meta": "328 votes · 87 commentaires"
+        },
+        {
+          "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+          "url": "https://pokeemerald.com/",
+          "summary": "Le jeu Pokemon Emerald a été exécuté avec des performances élevées sur l'environnement d'exploitation basé sur le Web (WebAssembly). Grâce aux efforts d'optimisation, le jeu a atteint une vitesse élevée de 100 000 images par seconde (100 000 FPS).",
+          "meta": "309 votes · 87 commentaires"
+        },
+        {
+          "title": "Moving beyond fork() + exec()",
+          "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+          "summary": "Le mécanisme fork et exec, qui est la méthode de création de processus dans les systèmes d'exploitation, est remplacé par des techniques de génération de processus plus modernes et plus efficaces. Cette approche vise à réduire les pertes de performances et à gérer plus efficacement les ressources système, notamment dans les applications disposant de grandes zones de mémoire.",
+          "meta": "287 votes · 286 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Développé par Nvidia, LocateAnything-3B fonctionne comme un modèle image-texte-texte qui effectue des tâches de localisation d'objets en traitant les entrées visuelles et textuelles. Le modèle prend en charge les processus de détection et d'analyse d'objets avec des requêtes textuelles sur des données visuelles complexes.",
+          "meta": "♥ 1 471 · 115 556 téléchargements"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Développé par Google, gemma-4-12B-it est un modèle d'intelligence artificielle multimodal (any-to-any) capable de traiter différents types de données. Le modèle offre une flexibilité dans divers domaines d'application avec la possibilité de traiter simultanément des données textuelles et visuelles.",
+          "meta": "♥ 638 · 434 969 téléchargements"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "Le modèle Gemma-4-12b-it, optimisé par Unsloth, offre une structure multimodale capable de traiter des données visuelles et textuelles. Grâce au format GGUF, ce modèle peut fonctionner plus efficacement sur du matériel local avec une faible utilisation de la mémoire.",
+          "meta": "♥ 429 · 568 158 téléchargements"
+        },
+        {
+          "title": "google/gemma-4-12B",
+          "url": "https://huggingface.co/google/gemma-4-12B",
+          "summary": "Développé par Google, Gemma-4-12B propose une structure de modèle multimodale (any-to-any) capable de traiter différents types de données. Ce modèle offre une zone d'utilisation flexible en traitant le texte et d'autres formats de données via une architecture unique.",
+          "meta": "♥ 385 · 99 655 téléchargements"
+        },
+        {
+          "title": "ideogram-ai/ideogram-4-fp8",
+          "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+          "summary": "ideogram-4-fp8, développé par Ideogram, est un modèle utilisé dans les processus de conversion texte-image. La précision de la virgule flottante est optimisée au format 8 bits (virgule flottante 8), offrant des performances de fonctionnement plus efficaces.",
+          "meta": "♥ 315 · 4 377 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}
