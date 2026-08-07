@@ -4381,5 +4381,13 @@
     "kisa": "Sadece metinle değil; görüntü, ses ve video gibi farklı veri türlerini de aynı anda işleyebilen gelişmiş yapay zekâ modelleridir.",
     "kisa_en": "Not just with text; They are advanced artificial intelligence models that can simultaneously process different types of data such as image, audio and video.",
     "kisa_fr": "Pas seulement avec du texte ; Il s’agit de modèles d’intelligence artificielle avancés capables de traiter simultanément différents types de données telles que l’image, l’audio et la vidéo."
+  },
+  {
+    "slug": "autonomous-ai-agents",
+    "en": "Autonomous AI Agents",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnsan müdahalesi olmadan karar alıp görevleri kendi başına yerine getirebilen yapay zekâ yazılımlarıdır.",
+    "kisa_en": "They are artificial intelligence software that can make decisions and perform tasks on its own without human intervention."
   }
 ]

@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-08 · 400 araç · 487 terim
+Son güncelleme: 2026-08-07 · 400 araç · 488 terim
 
 ---
 
@@ -2715,6 +2715,48 @@ Evet, tanımlanan sınırlar ve yetkiler dahilinde dışarıdan bir müdahaleye 
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/autonomous-ai-agent/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Autonomous AI Agents nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-07
+
+İnsan müdahalesi olmadan karar alıp görevleri kendi başına yerine getirebilen yapay zekâ yazılımlarıdır.
+
+## Tanım
+Bu sistemler, kendilerine verilen bir hedef doğrultusunda plan yapabilir, gerekli araçları kullanabilir ve süreci yönetebilirler. Sadece komut beklemek yerine, karşılaştıkları engelleri aşmak için stratejiler geliştirirler. Bir işi tamamlamak için gereken adımları kendi akıl yürütme süreçleriyle belirlerler.
+
+## Bir benzetmeyle
+Sadece ne yapacağını söyleyen bir patron değil, işi nasıl yapacağını planlayıp bitiren ve sorun çıkarsa çözüm üreten yetenekli bir asistan gibidirler.
+
+## Nasıl çalışır?
+Önce bir hedef tanımlarsınız. Sistem, bu hedefe ulaşmak için gereken adımları analiz eder, gerekirse internette araştırma yapar veya kod yazar. Süreç boyunca kendi performansını izler ve hata yaparsa stratejisini günceller.
+
+## Nerede kullanılır?
+Karmaşık veri analizlerinde, yazılım geliştirme süreçlerinde ve tekrarlayan iş akışlarının otomatikleştirilmesinde kullanılırlar.
+
+## Sık karıştırılanlar
+Sadece verilen komutu uygulayan basit otomasyonlardan farklı olarak, kendi kararlarını verebilme yetisine sahiptirler.
+
+## Sıkça sorulanlar
+
+**İnsan müdahalesi tamamen kalkıyor mu?**  
+Genellikle hayır; sistemin sınırlarını ve hedefini belirlemek için yine de bir insan gözetimi gereklidir.
+
+**Her şeyi yapabilirler mi?**  
+Sadece kendilerine tanımlanan yetkiler ve erişim sağlanan araçlar dahilinde hareket edebilirler.
+
+## İlgili terimler
+- [AI Agent](/dictionary/ai-agent/)
+- [Agentic AI](/dictionary/agentic-ai/)
+- [Autonomous AI Agent](/dictionary/autonomous-ai-agent/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/autonomous-ai-agents/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -20519,7 +20561,7 @@ Belirlediğim hedefe ulaşmak için internette arama yapma, dosya yönetimi ve i
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agents Agents Artificial Intelligence
+Autonomous AI Agents AI Agents Agents Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/autogpt/
@@ -25936,11 +25978,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Apple tarafından geliştirilen container, Mac üzerinde hafif sanal makineler (virtual machines) kullanarak Linux kapsayıcıları (containers) oluşturmaya ve çalıştırmaya olanak tanıyor. Swift diliyle yazılan araç, Apple silikon (Apple silicon) mimarisi için optimize edilmiş bir performans sunuyor.
 
-- ★ 48.543
+- ★ 48.710
 - Swift
 - GitHub Trending · 2026-06-11
 
 ## Güncelleme
+- 7 Ağustos 2026: Yıldız 48.543 → 48.710, son sürüm 1.2.1 (7 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 30.453 → 48.543, son sürüm 1.2.0 (29 Temmuz 2026).
 
 ## Ne kazandırır?
@@ -28526,15 +28569,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel alan bir yapay zekâ kodlama ajanıdır. Önek önbelleği (prefix-cache) kararlılığına odaklanan bu araç, geliştiricilerin uzun süreli oturumlarda kesintisiz kodlama desteği almasını sağlar.
 
-- ★ 32.605
+- ★ 32.650
 - Go
 - GitHub Trending · 2026-08-03
 
 ## Güncelleme
+- 7 Ağustos 2026: Yıldız 32.605 → 32.650, son sürüm desktop-v1.21.1 (7 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 31.870 → 32.605, son sürüm desktop-v1.21.0 (7 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 30.216 → 31.870, son sürüm desktop-v1.20.0 (5 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 29.368 → 30.216, son sürüm desktop-v1.19.5 (3 Ağustos 2026).
-- 3 Ağustos 2026: Yıldız 29.369 → 29.368, son sürüm desktop-v1.19.3 (3 Ağustos 2026).
 
 ## Ne kazandırır?
 - DeepSeek modelleriyle uzun süreli kesintisiz kodlama desteği sağlar.

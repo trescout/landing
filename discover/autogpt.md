@@ -34,7 +34,7 @@ Belirlediğim hedefe ulaşmak için internette arama yapma, dosya yönetimi ve i
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agents Agents Artificial Intelligence
+Autonomous AI Agents AI Agents Agents Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/autogpt/
