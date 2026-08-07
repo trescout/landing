@@ -399,10 +399,23 @@ const discIndexHtml = `<!DOCTYPE html>
 
   <div class="disc-controls">
     <input id="disc-search" class="disc-search" type="search" placeholder="Search tool name or description…" aria-label="Search tools">
+    <div class="disc-sortwrap">
+      <label for="disc-sort">Sort</label>
+      <select id="disc-sort" class="disc-sort">
+        <option value="stars">Most stars</option>
+        <option value="date">Newest</option>
+        <option value="title">A–Z</option>
+      </select>
+    </div>
   </div>
+  <!-- Kategori çipleri discover.js tarafından kart etiketlerinden kuruluyor ·
+       Türkçe dizinde olan bu iki kontrol İngilizcede eksikti (2026-08-07). -->
+  <div id="disc-tags" class="disc-tags" role="group" aria-label="Categories"></div>
 
   <p class="disc-count" id="disc-count">${catalog.length} projects</p>
-  <div class="disc-grid" id="disc-grid">
+  <!-- id discover-grid · discover.js bu id'yi arıyor. Önce disc-grid yazıyordu,
+       betik erken çıkıyor ve İngilizce dizinde arama hiç çalışmıyordu. -->
+  <div class="disc-grid" id="discover-grid">
     ${discCards}
   </div>
   <p class="disc-empty" id="disc-empty">No matching tools. Try adjusting your search.</p>
