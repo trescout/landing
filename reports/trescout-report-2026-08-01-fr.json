@@ -1,0 +1,219 @@
+{
+  "date": "2026-08-01",
+  "editorial": "Les compétences en automatisation et les stratégies de trading systématiques dans les processus de développement de logiciels constituent aujourd'hui le principal objectif de la communauté des développeurs. Le kit de développement copilote (copilot sdk) partagé par Microsoft révèle clairement la tendance à la standardisation des outils intégrés d'intelligence artificielle.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-skill propose un package de routage basé sur l'intelligence artificielle pour les processus de rétro-ingénierie et de tests d'intrusion. Grâce à ses fonctionnalités d'amorçage de chaîne d'outils et de base de connaissances auto-développées, Claude Code s'intègre aux outils de codage tels que Cursor et Cline.",
+          "meta": "PowerShell · ★ 11 014 · +335 aujourd'hui"
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork est un outil de développement logiciel qui a été développé comme une alternative open source à la plateforme Claude Cowork et utilise l'infrastructure opencode. Préparé avec TypeScript, le projet vise à apporter des processus de codage autonomes à l'écosystème open source.",
+          "meta": "TypeScript · ★ 19 654 · +806 aujourd'hui"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill propose une compétence d'intelligence artificielle (compétence d'agent IA) qui crée des résumés sur des sujets complexes en analysant les données actuelles de plateformes telles que Reddit, X, YouTube et Hacker News. Cet outil basé sur Python combine des informations provenant de différentes sources pour produire des synthèses fondées sur des preuves pour les utilisateurs.",
+          "meta": "Python · ★ 56 349 · +658 aujourd'hui"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "Rassemblant des bibliothèques, des stratégies, des livres et des ressources pédagogiques pour les processus de trading systématiques, cette liste rassemble en un point central les outils de modélisation financière basés sur Python. Il sert de bibliothèque de référence complète pour les développeurs entrant dans le monde du trading algorithmique.",
+          "meta": "Python · ★ 11 878 · +763 aujourd'hui"
+        },
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "Préparé par Microsoft, AI-For-Beginners propose un programme complet de formation en intelligence artificielle composé d'un programme de 12 semaines et de 24 leçons. Ce projet open source, réalisé via Jupyter Notebooks, offre aux participants des opportunités d'apprentissage pratique, dès le niveau de base.",
+          "meta": "Jupyter Notebook · ★ 55 508 · +1 592 aujourd'hui"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub a publié un kit de développement logiciel (SDK) multiplateforme qui permet aux développeurs d'intégrer les agents Copilot dans leurs propres applications et services. Cet outil permet d'inclure des flux de travail basés sur l'intelligence artificielle dans le système avec une structure standard dans les projets basés sur Java.",
+          "meta": "Java · ★ 10 164 · +7 aujourd'hui"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot est une plateforme open source qui propose un chat en direct, une assistance par e-mail et une gestion du service client omnicanal. Développé comme alternative aux logiciels tels qu'Intercom et Zendesk, cet outil permet de centraliser les interactions clients via un panneau unique.",
+          "meta": "Ruby · ★ 35 205 · +35 aujourd'hui"
+        },
+        {
+          "title": "agavra/tuicr",
+          "url": "https://github.com/agavra/tuicr",
+          "summary": "Développé avec le langage Rust, tuicr propose une interface de révision de code basée sur un terminal avec prise en charge des raccourcis clavier Vim. Il permet aux développeurs de logiciels de gérer les processus de révision de code sans quitter l'environnement du terminal.",
+          "meta": "Rust · ★ 2 193 · +335 aujourd'hui"
+        },
+        {
+          "title": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "summary": "Kaneo est un outil de gestion de projet open source développé avec une interface orientée utilisateur. Écrite en TypeScript, la plateforme vise à créer des flux de travail sans complexité.",
+          "meta": "TypeScript · ★ 5 248 · +194 aujourd'hui"
+        },
+        {
+          "title": "geo-tp/ESP32-Bit-Pirate",
+          "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+          "summary": "ESP32-Bit-Pirate est un outil de piratage matériel qui prend en charge plusieurs protocoles de communication via une interface de ligne de commande (CLI) basée sur le Web. Ce système, développé en langage C++, facilite les processus d'analyse matérielle en gérant différents protocoles sur une seule plateforme.",
+          "meta": "C++ · ★ 5 115 · +83 aujourd'hui"
+        },
+        {
+          "title": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "summary": "Faceswap est un logiciel open source qui effectue des opérations d'échange de visage sur des vidéos et des photos grâce à sa structure basée sur Python. Il permet aux utilisateurs de transformer des visages sur du contenu visuel à l'aide de techniques d'apprentissage en profondeur.",
+          "meta": "Python · ★ 57 075 · +93 aujourd'hui"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Développé avec le langage Rust, jcode propose un outil de traitement de code (harnais) qui minimise l'utilisation de la mémoire. Cette structure, conçue pour gérer efficacement les ressources système dans les processus logiciels, fournit des environnements d'exécution de code hautes performances.",
+          "meta": "Rust · ★ 14 709 · +527 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Elevators",
+          "url": "https://john.fun/elevators",
+          "summary": "Cette étude examine la logique de fonctionnement et les algorithmes de sélection d'étage des ascenseurs et se concentre sur l'optimisation de l'efficacité des systèmes de transport verticaux. Il analyse les stratégies de contrôle distribué qui réduisent les temps d'attente et économisent de l'énergie grâce à des simulations logicielles.",
+          "meta": "1 130 votes · 268 commentaires"
+        },
+        {
+          "title": "qm – Multiplayer agent harness for work",
+          "url": "https://github.com/yc-software/qm",
+          "summary": "qm offre une infrastructure qui assure la collaboration et la gestion des tâches pour les agents IA multijoueurs. Cet outil permet à différents agents d'exécuter des tâches simultanément dans un espace de travail partagé.",
+          "meta": "526 votes · 110 commentaires"
+        },
+        {
+          "title": "Tailscale didn't stop the Hugging Face intrusion",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "summary": "L’incident d’accès non autorisé sur Hugging Face montre que l’utilisation d’un réseau sécurisé (VPN maillé) ne suffit pas à elle seule à garantir la sécurité du système. Lorsque les solutions réseau sécurisées ne sont pas prises en charge par des mesures de sécurité à plusieurs niveaux telles que l'authentification et le contrôle d'accès, des vulnérabilités peuvent survenir.",
+          "meta": "517 votes · 195 commentaires"
+        },
+        {
+          "title": "Twenty-five years ago it was cryptography, today it's model weights",
+          "url": "https://weeraman.com/because-we-can/",
+          "summary": "Les discussions open source qui ont eu lieu dans le domaine de la cryptographie il y a vingt-cinq ans se répètent aujourd’hui autour de l’accessibilité des pondérations des modèles d’intelligence artificielle. Le monde de la technologie redéfinit les frontières entre accès ouvert et systèmes fermés afin d’équilibrer sécurité et innovation.",
+          "meta": "222 votes · 108 commentaires"
+        },
+        {
+          "title": "Big Food vs. the People",
+          "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+          "summary": "La recherche, menée par Lighthouse Reports, examine les efforts de lobbying des grandes entreprises alimentaires pour influencer les politiques nutritionnelles et leur pression sur les données scientifiques. L’étude fournit des preuves concrètes des stratégies utilisées par l’industrie alimentaire pour contourner les réglementations de santé publique.",
+          "meta": "218 votes · 142 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Développé par Moonshot AI, Kimi-K3 est un modèle multimodal qui produit des sorties textuelles en traitant les entrées visuelles et textuelles. Le système offre la possibilité d'analyser des données visuelles complexes et de créer un texte significatif basé sur ces données.",
+          "meta": "♥ 9 322 · 493 481 téléchargements"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731 est un modèle de langage optimisé pour les tâches de génération de texte. Il prend en charge le traitement du langage à grande échelle grâce à sa faible latence et son architecture orientée haute efficacité.",
+          "meta": "♥ 1 119 · 0 téléchargements"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Le modèle Qwen3.6-27B-Fable-Fusion est un modèle d'intelligence artificielle multimodale qui étend les capacités d'image en texte. Grâce à sa structure non censurée et à son format GGUF optimisé, il offre une génération de texte hautes performances sur du matériel local.",
+          "meta": "♥ 1 161 · 1 119 057 téléchargements"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR, développé par Baidu, est un modèle qui effectue des opérations de reconnaissance de texte basées sur des images (image-text-to-text). Il offre la possibilité de traiter les textes de l'image et de les convertir en sorties textuelles.",
+          "meta": "♥ 3 672 · 2 513 603 téléchargements"
+        },
+        {
+          "title": "owensong/Inflect-Micro-v2",
+          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "summary": "Inflect-Micro-v2 est un modèle développé pour les opérations de synthèse vocale. Il est conçu pour prendre en charge des processus de synthèse sonore de haute qualité avec une faible consommation de ressources.",
+          "meta": "♥ 349 · 1 449 téléchargements"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "routing pack",
+      "explanation": "Ensemble de règles de routage utilisées dans les réseaux informatiques pour garantir que les données atteignent leur destination le plus rapidement possible."
+    },
+    {
+      "term": "toolchain bootstrapping",
+      "explanation": "Processus de création d'un outil de développement logiciel à partir de zéro afin qu'il puisse se construire lui-même."
+    },
+    {
+      "term": "AI agent skill",
+      "explanation": "Capacité ou compétence particulière dont dispose un logiciel d’intelligence artificielle pour effectuer une tâche spécifique."
+    },
+    {
+      "term": "systematic trading",
+      "explanation": "Prendre des décisions d'investissement basées sur des règles prédéterminées et des cadres logiques."
+    },
+    {
+      "term": "algorithmic trading",
+      "explanation": "Les transactions boursières sont effectuées automatiquement par des codes informatiques pré-écrits à la place des humains."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Les ordinateurs ont la capacité d’apprendre, de prendre des décisions et de résoudre des problèmes comme les humains."
+    },
+    {
+      "term": "Jupyter Notebooks",
+      "explanation": "Un environnement de travail interactif qui vous permet de voir les codes, les explications et les résultats sur la même page."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Une suite d'outils qui permettent aux développeurs de développer plus facilement des applications pour une plate-forme ou un appareil spécifique."
+    },
+    {
+      "term": "omni-channel",
+      "explanation": "Offrir une expérience ininterrompue au client en connectant tous les canaux de vente d'une marque."
+    },
+    {
+      "term": "keybindings",
+      "explanation": "Processus d'attribution de commandes ou de raccourcis spécifiques aux touches du clavier."
+    },
+    {
+      "term": "code review",
+      "explanation": "Examen des codes écrits par un autre développeur de logiciels afin de trouver des erreurs ou de les améliorer."
+    },
+    {
+      "term": "project management",
+      "explanation": "Planifier et gérer les ressources, le temps et les tâches pour atteindre les objectifs d'une entreprise."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface textuelle qui exécute des programmes avec des commandes écrites plutôt qu'avec la souris."
+    },
+    {
+      "term": "face swapping",
+      "explanation": "Processus de remplacement d’un visage dans une image par une autre personne grâce à l’intelligence artificielle."
+    },
+    {
+      "term": "deep learning",
+      "explanation": "Une méthode qui permet aux ordinateurs d’apprendre des données complexes en imitant les réseaux neuronaux du cerveau humain."
+    },
+    {
+      "term": "harness",
+      "explanation": "Un outil auxiliaire utilisé pour tester si un logiciel ou un système fonctionne correctement."
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "date": "2026-08-05",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "uber/ADR",
+          "url": "https://github.com/uber/ADR",
+          "summary": "Développé par Uber, ADR protège les agents d’IA d’entreprise grâce à des méthodes d’observabilité, d’analyse comparative de la sécurité et de détection des menaces. Le logiciel offre un cadre de sécurité développé pour augmenter la sécurité des systèmes d'intelligence artificielle.",
+          "meta": "Python · ★ 782 · +148 aujourd'hui"
+        },
+        {
+          "title": "webpack/webpack",
+          "url": "https://github.com/webpack/webpack",
+          "summary": "Webpack est un bundler qui regroupe JavaScript et d'autres ressources Web pour les exécuter dans le navigateur. Il permet de charger les applications en cas de besoin, grâce à la fonction de fractionnement du code qui divise les modules en parties gérables.",
+          "meta": "JavaScript · ★ 65 961 · +10 aujourd'hui"
+        },
+        {
+          "title": "gabime/spdlog",
+          "url": "https://github.com/gabime/spdlog",
+          "summary": "spdlog est une bibliothèque de journalisation très rapide développée pour le langage de programmation C++. Il offre une gestion de sortie haute performance pour accélérer les processus de débogage et de surveillance dans les projets logiciels.",
+          "meta": "C++ · ★ 29 402 · +10 aujourd'hui"
+        },
+        {
+          "title": "denoland/deno",
+          "url": "https://github.com/denoland/deno",
+          "summary": "Deno est un environnement d'exécution moderne conçu pour les langages JavaScript et TypeScript. Développé en langage Rust, cet outil propose une infrastructure alternative à la plateforme traditionnelle Node.js avec sa structure orientée sécurité et performance.",
+          "meta": "Rust · ★ 108 091 · +31 aujourd'hui"
+        },
+        {
+          "title": "angular/angular",
+          "url": "https://github.com/angular/angular",
+          "summary": "Développé par Google, Angular est un framework complet utilisé pour créer des applications Web évolutives. Avec sa structure basée sur TypeScript, il propose des outils qui standardisent et structurent le processus de développement dans des projets complexes.",
+          "meta": "TypeScript · ★ 100 882 · +13 aujourd'hui"
+        },
+        {
+          "title": "tailwindlabs/tailwindcss",
+          "url": "https://github.com/tailwindlabs/tailwindcss",
+          "summary": "Tailwind CSS est un framework de feuilles de style (framework CSS) axé sur le développement rapide d'interfaces utilisateur. Il permet la création rapide d'interfaces originales en proposant des classes de bas niveau au lieu de composants de conception prêts à l'emploi.",
+          "meta": "TypeScript · ★ 96 571 · +52 aujourd'hui"
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "L'utilisation vidéo basée sur Python permet aux agents de codage d'automatiser les processus de montage vidéo. Il permet aux développeurs de logiciels de gérer les processus de montage vidéo avec des commandes textuelles.",
+          "meta": "Python · ★ 19 482 · +320 aujourd'hui",
+          "returning": true
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "Le plugin Compound Engineering est un système développé pour les outils de codage d'IA tels que Claude Code, Cursor et Codex. Il offre une structure standard pour gérer des tâches complexes dans les processus de développement logiciel.",
+          "meta": "TypeScript · ★ 23 934 · +40 aujourd'hui",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+          "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+          "summary": "Stephen Wolfram, fondateur de Wolfram Research, a publié un hommage personnel à l'occasion du décès de sa compagne Elise Cawley. L'article présente une histoire de vie axée sur l'identité de Cawley en tant que mathématicien et sur la relation de trente-six ans du couple.",
+          "meta": "1 205 votes · 67 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49173165",
+              "popularity": 1205,
+              "engagementCount": 67
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+          "url": "https://toneyalexander.github.io/inclusive-color-space/",
+          "summary": "Un nouvel espace colorimétrique et un nouvel algorithme ont été développés pour restituer de manière réaliste différents tons de peau dans les projets d'art numérique et de développement de jeux. Cette méthode permet aux utilisateurs de sélectionner et de générer facilement différentes couleurs de peau de manière procédurale.",
+          "meta": "495 votes · 91 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49170165",
+              "popularity": 495,
+              "engagementCount": 91
+            }
+          ]
+        },
+        {
+          "title": "There Will Come Soft Rains (1950) [pdf]",
+          "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+          "summary": "There Will Come Soft Rains, écrit par Ray Bradbury, parle d'un avenir dystopique où le progrès technologique se poursuit même après la disparition de l'humanité. Cette nouvelle, dans laquelle une maison automatisée poursuit ses routines quotidiennes, traite du contraste entre la technologie et la nature.",
+          "meta": "373 votes · 392 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49162653",
+              "popularity": 373,
+              "engagementCount": 392
+            }
+          ]
+        },
+        {
+          "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+          "url": "https://mistral.ai/news/shieldstral/",
+          "summary": "Shieldstral, publié par Mistral AI, est un modèle pondéré en fonction des vulnérabilités avec 3 milliards de paramètres développé pour la modération de contenu multimodal. Il vise à détecter les contenus nuisibles et à offrir une expérience utilisateur sécurisée en analysant les données visuelles et textuelles.",
+          "meta": "363 votes · 90 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49171268",
+              "popularity": 363,
+              "engagementCount": 90
+            }
+          ]
+        },
+        {
+          "title": "Waymo in Dallas",
+          "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+          "summary": "Waymo, qui développe des technologies de conduite autonome, a ouvert son service de véhicules sans conducteur à tous les utilisateurs de la ville de Dallas. En élargissant ses opérations dans la région, l’entreprise apporte son expérience de taxi (robotaxi) entièrement autonome à un public plus large.",
+          "meta": "280 votes · 470 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49172836",
+              "popularity": 280,
+              "engagementCount": 470
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills",
+          "url": "https://huggingface.co/papers/2608.03700",
+          "summary": "Les systèmes qui transforment les historiques d’interactions personnelles en compétences portables (persona skills) augmentent la confidentialité des données des utilisateurs et les risques d’usurpation d’identité. L'outil d'évaluation appelé AntiSkillBench a été développé pour mesurer les vulnérabilités et tester les mécanismes de défense qui surviennent dans ces processus de personnalisation.",
+          "meta": "1 j'aime · 1 commentaires"
+        },
+        {
+          "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+          "url": "https://huggingface.co/papers/2608.03979",
+          "summary": "Video-DeepResearch introduit un nouveau cadre qui étend les capacités des agents d'IA multimodaux des images statiques aux flux vidéo continus. Le système vise à surmonter les limitations fondamentales telles que les modèles se tournant vers des recherches textuelles au lieu d'utiliser des outils visuels et s'appuyant sur leurs propres connaissances internes plutôt que sur des sources externes.",
+          "meta": "10 j'aime · 1 commentaires"
+        },
+        {
+          "title": "Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories",
+          "url": "https://huggingface.co/papers/2608.00730",
+          "summary": "Push-Wiper est une méthode développée pour que les robots nettoient les taches collantes sans les étaler sur la surface. Il rend le nettoyage des surfaces plus contrôlé grâce à des trajectoires de poussée segmentées qui collectent progressivement les taches à l'aide d'une éponge.",
+          "meta": "1 j'aime · 1 commentaires"
+        },
+        {
+          "title": "ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts",
+          "url": "https://huggingface.co/papers/2607.28993",
+          "summary": "ST-WAM vise à résoudre le problème de l'incohérence visuelle dans les modèles d'action mondiaux qui modélisent ensemble les actions robotiques et la dynamique visuelle. Le modèle offre des performances plus stables dans les processus de manipulation robotique en empêchant les hallucinations qui se produisent lors de changements visuels autres que les données d'entraînement.",
+          "meta": "1 j'aime · 1 commentaires"
+        },
+        {
+          "title": "Quo Vadis, World Modeling?",
+          "url": "https://huggingface.co/papers/2608.02713",
+          "summary": "La modélisation du monde offre une couche de simulation qui permet aux agents IA de recevoir des commentaires sûrs et peu coûteux avant d'agir dans le monde réel. Cette approche permet aux agents de prendre des décisions plus contrôlées et plus efficaces dans le cadre de tâches complexes en prédisant les états physiques.",
+          "meta": "12 j'aime · 1 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "The Lua community needs to learn to move on",
+          "url": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
+          "summary": "La communauté Lua est confrontée à un appel à s'adapter aux pratiques de développement modernes en réduisant sa dépendance à l'égard des anciennes versions du langage. Les développeurs de logiciels soutiennent que de nouvelles normes devraient être adoptées au lieu d'une compatibilité ascendante pour maintenir l'écosystème à jour.",
+          "meta": "67 votes · 26 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on",
+              "popularity": 67,
+              "engagementCount": 26
+            }
+          ]
+        },
+        {
+          "title": "Security is Hard, Y’all",
+          "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+          "summary": "La sécurité des logiciels continue d'être un processus difficile en raison de la marge d'erreur et des facteurs humains dans les systèmes complexes. L'expert en cybersécurité Eric Lawrence discute des obstacles techniques et opérationnels à l'élimination complète des vulnérabilités dans les processus de développement logiciel.",
+          "meta": "64 votes · 5 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/qoptbx/security_is_hard_y_all",
+              "popularity": 64,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Enabling the next iteration of the borrow checker on nightly",
+          "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
+          "summary": "Les développeurs du langage de programmation Rust ont amené Polonius, la version de nouvelle génération du vérificateur d'emprunt qui garantit la sécurité de la mémoire, à la phase de test. Cette mise à jour vise à réduire les contraintes rencontrées par les développeurs en permettant au compilateur d'analyser avec plus de flexibilité des structures de code complexes.",
+          "meta": "55 votes · 0 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker",
+              "popularity": 55,
+              "engagementCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Il s'agit d'une structure de base qui fournit des bibliothèques prêtes à l'emploi et un ensemble de règles qui facilitent votre travail lors du développement de logiciels."
+    },
+    {
+      "term": "bundler",
+      "explanation": "Il s'agit d'un outil qui combine de nombreux fichiers dans un projet logiciel et les rend faciles à exécuter par le navigateur."
+    },
+    {
+      "term": "code splitting",
+      "explanation": "Il s'agit d'une méthode permettant de diviser les gros fichiers de code en petits morceaux et de les charger selon les besoins pour augmenter la vitesse de chargement du site Web."
+    },
+    {
+      "term": "logging",
+      "explanation": "Il s'agit de l'enregistrement d'un programme pour garder une trace des opérations qu'il effectue ou des erreurs qu'il rencontre lors de son exécution."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Il fait référence au moment où le code écrit est exécuté sur l'ordinateur et à l'environnement nécessaire à ce processus."
+    },
+    {
+      "term": "utility-first",
+      "explanation": "Il s'agit d'une approche permettant de créer rapidement des styles à l'aide de petites commandes fonctionnelles prédéfinies lors de la conception."
+    },
+    {
+      "term": "CSS framework",
+      "explanation": "Il s'agit d'un ensemble d'outils qui propose des modèles de conception prêts à l'emploi pour embellir rapidement l'apparence des pages Web."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Ce sont des logiciels d’intelligence artificielle qui peuvent agir comme un programmeur et écrire du code, corriger des erreurs et développer des projets."
+    }
+  ]
+}

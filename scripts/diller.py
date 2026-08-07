@@ -110,6 +110,55 @@ DILLER = {
         "tarih_bicimi": "{ay} {gun}, {yil}",
         "binlik": ",",                      # 186.094 → 186,094
         # ── dizin sayfaları (build-en.js) ──────────────────────────────
+        # ── rapor arşivi (build-reports-en.js) ────────────────────────────
+        "rapor_gunler": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+        "rapor_tarih": "{ay} {gun}, {yil} ({gunad})",
+        "rapor_arsiv_esigi": "2026-08-05",   # bu tarihe kadar "çevrilmiş arşiv" rozeti
+        "rapor_rozet": "Translated Archive",
+        "rapor_sayfa_baslik": "{tarih} · TreScout Daily Report",
+        "rapor_sayfa_aciklama": ("TreScout Daily Technology Intelligence Report for {tarih}. Curated "
+                                 "open-source tools, Hacker News discussions, and AI papers."),
+        "rapor_sayfa_og": "TreScout Daily Technology Intelligence Report for {tarih}.",
+        "rapor_eyebrow": "Daily Technology Report",
+        "rapor_eyebrow_arsiv": "· Translated Archive Edition",
+        "rapor_arsiv": "Archive",
+        "rapor_ac": "Open {dil} PDF →",
+        "rapor_indir": "Download PDF",
+        "rapor_oku": "Read →",
+        "rapor_dil_adi": "English",
+        "rapor_not": ("Full report PDF: every item with its summary, source links and the glossary of "
+                      "terms. Translated from the original Turkish edition."),
+        "rapor_cta": ("<strong>Get daily technology reports in your inbox.</strong> TreScout scans, "
+                      "summarizes, and delivers. You just read."),
+        "rapor_cta_dugme": "Join Early Access List →",
+        "rapor_banner_baslik": "Historical Translated Archive Notice",
+        "rapor_banner": ("These English pages and report PDFs are translated from the original Turkish "
+                         "daily reports. Item selection, metrics and links are identical to the Turkish "
+                         "edition."),
+        "rapor_cipler": {
+            "Günün Modelleri": "Daily Models",
+            "Günün Makaleleri": "Daily Papers",
+            "öne çıkan": "highlights",
+        },
+        "rapor_varyant": {
+            "normal": {
+                "geri": "All Reports",
+                "baslik": "Daily Technology Reports",
+                "intro": ("Daily AI-curated summaries of GitHub Trending, Hacker News, HuggingFace and "
+                          "Lobsters. Read online in English or download the English PDF."),
+                "dizin_baslik": "Daily Technology Reports Archive · TreScout",
+                "dizin_aciklama": ("TreScout daily technology reports archive · Curated AI summaries of "
+                                   "GitHub, Hacker News, and HuggingFace trends every day."),
+            },
+            "fresh": {
+                "geri": "Fresh Only",
+                "baslik": "Fresh Only Reports",
+                "intro": ("Only what is new today. Repositories already covered in the last 30 days are "
+                          "filtered out, so nothing repeats."),
+                "dizin_baslik": "Fresh Only Reports Archive · TreScout",
+                "dizin_aciklama": "TreScout fresh-only daily reports · nothing that was already covered.",
+            },
+        },
         "etiketler": {                       # katalog etiketi TR → hedef dil
             "Yapay zekâ araçları": "AI Tools",
             "Geliştirici aracı": "Developer Tool",
@@ -155,11 +204,10 @@ DILLER = {
         "og_locale": "fr_FR",
         "tagline_alan": "tagline_fr",
         "kisa_alan": "kisa_fr",
-        # Fransızca tarafta yalnız keşif ve glossaire var · rapor arşivi ve
-        # karşılaştırma sayfaları henüz çevrilmedi. Menüde olmayan bölüme
-        # bağlantı vermek kırık sayfa demek · geldiklerinde buraya eklenecek.
-        "nav": ["Découvrir", "Glossaire"],
-        "nav_yollar": ["discover", "dictionary"],
+        # Karşılaştırma sayfası henüz çevrilmedi · menüde olmayan bölüme
+        # bağlantı vermek kırık sayfa demek, geldiğinde buraya eklenecek.
+        "nav": ["Découvrir", "Glossaire", "Archive des rapports"],
+        "nav_yollar": ["discover", "dictionary", "reports"],
         "nav_cta": "Accès anticipé",
         "footer_nasil": None,      # Türkçe ana sayfanın "nasıl çalışır" bölümü çevrilmedi
         "footer_urun": "Produit",
@@ -231,6 +279,55 @@ DILLER = {
         "tarih_bicimi": "{gun} {ay} {yil}",
         # Fransızca binlik ayırıcı boşluk: 186 094 · bölünmez boşlukla yazılır
         "binlik": "\u00a0",
+        "rapor_gunler": ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"],
+        "rapor_tarih": "{gun} {ay} {yil} ({gunad})",
+        "rapor_arsiv_esigi": "2026-08-07",
+        "rapor_rozet": "Archive traduite",
+        "rapor_sayfa_baslik": "{tarih} · rapport quotidien TreScout",
+        "rapor_sayfa_aciklama": ("Le rapport technologique quotidien de TreScout du {tarih} : outils open "
+                                 "source, discussions Hacker News et articles sur l'IA, sélectionnés et résumés."),
+        "rapor_sayfa_og": "Le rapport technologique quotidien de TreScout du {tarih}.",
+        "rapor_eyebrow": "Rapport technologique quotidien",
+        "rapor_eyebrow_arsiv": "· édition traduite",
+        "rapor_arsiv": "Archive",
+        "rapor_ac": "Ouvrir le PDF en {dil} →",
+        "rapor_indir": "Télécharger le PDF",
+        "rapor_oku": "Lire →",
+        "rapor_dil_adi": "français",
+        "rapor_not": ("Le PDF complet : chaque élément avec son résumé, ses liens sources et le glossaire "
+                      "des termes. Traduit de l'édition turque originale."),
+        "rapor_cta": ("<strong>Recevez le rapport quotidien dans votre boîte mail.</strong> TreScout "
+                      "analyse, résume et livre. Vous n'avez qu'à lire."),
+        "rapor_cta_dugme": "Rejoindre l'accès anticipé →",
+        "rapor_banner_baslik": "À propos de cette archive traduite",
+        "rapor_banner": ("Ces pages et les PDF sont traduits des rapports quotidiens turcs originaux. La "
+                         "sélection des éléments, les mesures et les liens sont identiques à l'édition turque. "
+                         "L'archive française commence le 25 juillet 2026 · les rapports antérieurs "
+                         "n'existent qu'en turc et en anglais."),
+        "rapor_cipler": {
+            "Günün Modelleri": "modèles du jour",
+            "Günün Makaleleri": "articles du jour",
+            "öne çıkan": "à retenir",
+        },
+        "rapor_varyant": {
+            "normal": {
+                "geri": "Tous les rapports",
+                "baslik": "Rapports technologiques quotidiens",
+                "intro": ("Chaque jour, un résumé des tendances de GitHub Trending, Hacker News, "
+                          "HuggingFace et Lobsters. À lire en ligne ou en PDF."),
+                "dizin_baslik": "Archive des rapports quotidiens · TreScout",
+                "dizin_aciklama": ("L'archive des rapports technologiques quotidiens de TreScout · les "
+                                   "tendances de GitHub, Hacker News et HuggingFace, résumées chaque jour."),
+            },
+            "fresh": {
+                "geri": "Nouveautés",
+                "baslik": "Rapports · nouveautés seulement",
+                "intro": ("Uniquement ce qui est nouveau aujourd'hui. Les dépôts déjà traités ces 30 "
+                          "derniers jours sont écartés, rien ne se répète."),
+                "dizin_baslik": "Archive des rapports · nouveautés seulement · TreScout",
+                "dizin_aciklama": "Les rapports quotidiens de TreScout, sans rien de déjà traité.",
+            },
+        },
         "etiketler": {
             "Yapay zekâ araçları": "Outils IA",
             "Geliştirici aracı": "Outil développeur",

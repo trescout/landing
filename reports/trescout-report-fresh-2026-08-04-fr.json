@@ -1,0 +1,207 @@
+{
+  "date": "2026-08-04",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "summary": "PDF Inspector, développé par Firecrawl, est une bibliothèque Rust rapide conçue pour examiner, classer et extraire le texte des fichiers PDF. Il permet de prendre des décisions de routage intelligentes dans les processus de traitement des données en distinguant les documents numérisés des fichiers texte.",
+          "meta": "Rust · ★ 8 766 · +1 699 aujourd'hui"
+        },
+        {
+          "title": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "summary": "System Design Primer offre une ressource d’apprentissage complète pour ceux qui souhaitent concevoir des systèmes logiciels à grande échelle. Il rassemble les principes de conception de systèmes et des fiches d'études pratiques pour les développeurs de logiciels se préparant aux entretiens techniques.",
+          "meta": "Python · ★ 360 710 · +237 aujourd'hui"
+        },
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "summary": "Développé par Alishahryar1, free-claude-code offre un accès gratuit aux modèles d'intelligence artificielle tels que Claude Code et Codex via un terminal, une application ou un environnement de développement (IDE). Cet outil open source s'intègre aux plates-formes offrant une prise en charge des commandes vocales, telles qu'OpenClaw, permettant aux utilisateurs d'utiliser les capacités d'intelligence artificielle sur différents appareils.",
+          "meta": "Python · ★ 44 150 · +278 aujourd'hui"
+        },
+        {
+          "title": "livekit/agents",
+          "url": "https://github.com/livekit/agents",
+          "summary": "LiveKit Agents est un framework Python utilisé pour développer des agents d'intelligence artificielle audio et vidéo en temps réel. Il permet aux développeurs de créer des interactions vocales à faible latence, ce qui facilite la création de systèmes d'IA qui réagissent de manière humaine.",
+          "meta": "Python · ★ 12 122 · +148 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LLMs reward expertise",
+          "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+          "summary": "Les grands modèles de langage (LLM) affichent des performances supérieures sur des tâches complexes lorsqu'ils sont fournis avec des contextes spécialisés. L'augmentation des connaissances techniques des utilisateurs affecte directement la qualité des résultats reçus des modèles d'intelligence artificielle.",
+          "meta": "717 votes · 300 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49161518",
+              "popularity": 717,
+              "engagementCount": 300
+            }
+          ]
+        },
+        {
+          "title": "Devtools must be open source",
+          "url": "https://blog.exe.dev/devtools-must-be-open-source",
+          "summary": "Les outils de développement de logiciels open source (devtools) garantissent la pérennité des outils à long terme en réduisant la dépendance des utilisateurs. Cette approche permet aux développeurs d'avoir un contrôle total sur les technologies qu'ils utilisent et d'apporter des améliorations soutenues par la communauté.",
+          "meta": "562 votes · 195 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49156111",
+              "popularity": 562,
+              "engagementCount": 195
+            }
+          ]
+        },
+        {
+          "title": "Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics/",
+          "summary": "OpenAI a compilé dix avancées importantes en mathématiques et en informatique théorique. Cette étude résume les nouvelles méthodes utilisées pour résoudre des problèmes complexes et les développements actuels dans le domaine des mathématiques computationnelles.",
+          "meta": "510 votes · 781 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49157930",
+              "popularity": 510,
+              "engagementCount": 781
+            }
+          ]
+        },
+        {
+          "title": "More German than many Germans",
+          "url": "https://mertbulan.com/more-german-than-many-germans/",
+          "summary": "Mert Bulan transmet la relation complexe entre les processus bureaucratiques et les habitudes culturelles en Allemagne et la numérisation à travers ses propres expériences. L'article discute des efforts visant à adapter le fonctionnement traditionnel du pays à la technologie moderne et des difficultés rencontrées dans ce processus.",
+          "meta": "468 votes · 325 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49151734",
+              "popularity": 468,
+              "engagementCount": 325
+            }
+          ]
+        },
+        {
+          "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+          "summary": "Réécrire manuellement les codes produits par l’intelligence artificielle au lieu de les copier-coller permet aux développeurs de comprendre plus profondément la logique et d’éviter la formation de dette cognitive. Cette méthode prend en charge les erreurs de débogage et une meilleure appropriation du système en augmentant la sensibilisation au fonctionnement du code.",
+          "meta": "447 votes · 364 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49153374",
+              "popularity": 447,
+              "engagementCount": 364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3 est un grand modèle de langage multimodal doté de capacités de traitement de texte et visuel. ComfyUI fonctionne de manière intégrée à l'interface d'édition visuelle, permettant aux utilisateurs de gérer plus rapidement des processus de création d'images complexes.",
+          "meta": "♥ 477 · 2 téléchargements"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering",
+          "url": "https://huggingface.co/papers/2608.01185",
+          "summary": "3DZip propose une méthode de compression de jetons orientée vers la conscience spatiale pour réduire la charge du traitement intensif des données dans les modèles de langage de vision tridimensionnel (3D VLM). Cette technique préserve la géométrie de la scène, élimine les données inutiles et augmente l'efficacité des calculs dans les processus questions-réponses tridimensionnels.",
+          "meta": "5 j'aime · 2 commentaires"
+        },
+        {
+          "title": "DAPD: Dual-Anchored Policy Distillation",
+          "url": "https://huggingface.co/papers/2608.01735",
+          "summary": "La distillation politique à double ancrage vise à éliminer l’asymétrie d’information entre les modèles d’enseignant et d’étudiant dans le processus de formation des modèles de langage. Cette méthode augmente les performances du modèle en empêchant l'étudiant de développer des comportements erronés basés sur des données privilégiées auxquelles il ne peut pas accéder lors de la phase d'inférence.",
+          "meta": "1 j'aime · 1 commentaires"
+        },
+        {
+          "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+          "url": "https://huggingface.co/papers/2608.01964",
+          "summary": "LongHorizon-Harness vise à résoudre les problèmes de suivi d’état et d’accumulation d’erreurs rencontrés par les grands agents basés sur des modèles de langage dans les missions à long terme. En redéfinissant les processus complexes comme un problème de gestion de l'état des tâches, il permet aux agents de prendre des décisions plus cohérentes dans des flux de travail en plusieurs étapes.",
+          "meta": "44 j'aime · 1 commentaires"
+        },
+        {
+          "title": "DiffusionGemma Technical Report",
+          "url": "https://huggingface.co/papers/2608.00146",
+          "summary": "Développé par Google, DiffusionGemma effectue un traitement parallèle par blocs de 256 en utilisant une diffusion discrète, contrairement aux méthodes traditionnelles de production de texte. Cette approche vise à générer du texte à grande vitesse en surmontant le goulot d'étranglement de la génération séquentielle de mots dans les grands modèles de langage.",
+          "meta": "2 j'aime · 0 commentaires"
+        },
+        {
+          "title": "CADENA: Stepwise CAD Reverse Engineering",
+          "url": "https://huggingface.co/papers/2608.00799",
+          "summary": "CADENA est un système qui convertit des modèles de maillage tridimensionnels (maillage 3D) en programmes paramétriques de conception assistée par ordinateur (CAO). En imitant la façon dont travaillent les ingénieurs humains, il construit le modèle étape par étape, en ajoutant des fonctionnalités et en effectuant des vérifications géométriques à chaque étape, plutôt que de tout construire d'un coup.",
+          "meta": "1 j'aime · 1 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Don't be a meat proxy",
+          "url": "https://gruhn.me/blog/2026-08-03/",
+          "summary": "Il est critiqué que les développeurs de logiciels désactivent leur propre logique et deviennent de simples intermédiaires (proxy) lorsqu’ils utilisent des outils d’intelligence artificielle. Cette approche est définie comme un risque qui réduit la qualité du code et la domination sur le système.",
+          "meta": "95 votes · 42 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy",
+              "popularity": 95,
+              "engagementCount": 42
+            }
+          ]
+        },
+        {
+          "title": "help wanted",
+          "url": "https://lake.computer/blog/help-wanted/",
+          "summary": "Lake est un projet de système d'exploitation open source qui vise à redéfinir l'expérience informatique personnelle. L'équipe de développement recherche de nouveaux développeurs pour contribuer à des domaines clés tels que l'architecture du système d'exploitation et la conception de l'interface utilisateur.",
+          "meta": "143 votes · 19 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a355zh/help_wanted",
+              "popularity": 143,
+              "engagementCount": 19
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "system design",
+      "explanation": "Processus de planification de la manière dont les parties d'un logiciel complexe fonctionneront les unes avec les autres et de la manière dont les données circuleront."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Un environnement de travail avancé où les développeurs de logiciels peuvent trouver tous les outils dont ils ont besoin pour écrire du code."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un système squelette qui facilite les choses lors du développement de logiciels et propose des structures prêtes à l'emploi et un ensemble de règles."
+    }
+  ]
+}

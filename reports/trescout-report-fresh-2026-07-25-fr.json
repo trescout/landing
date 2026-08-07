@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-25",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Développé avec le langage Go, superfile fournit une interface moderne et visuellement riche aux gestionnaires de fichiers basés sur un terminal. Les utilisateurs peuvent gérer les opérations sur les fichiers sur la ligne de commande avec une expérience plus esthétique et fonctionnelle.",
+          "meta": "Go · ★ 19 700 · +338 aujourd'hui"
+        },
+        {
+          "title": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "summary": "Dive into LLM est une série de formations qui enseigne les principes de fonctionnement des grands modèles de langage pratiquement via des fichiers Jupyter Notebook. Le projet concrétise les processus de développement de modèles en proposant un large éventail de pratiques de codage, des concepts de base aux techniques avancées.",
+          "meta": "Jupyter Notebook · ★ 45 115 · +328 aujourd'hui"
+        },
+        {
+          "title": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "summary": "Chat2DB se distingue comme un outil de gestion de base de données et un client SQL basés sur l'intelligence artificielle. Cette plateforme, développée avec Java, offre la possibilité de gérer plusieurs systèmes de bases de données tels que MySQL, PostgreSQL et Oracle via une seule interface utilisateur graphique (GUI).",
+          "meta": "Java · ★ 26 409 · +82 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "summary": "Anthropic a annoncé Claude 3.5 Opus, un nouveau grand modèle de langage axé sur le raisonnement avancé et la capacité de résolution de problèmes complexes. Le modèle cible des normes d'intelligence artificielle hautes performances avec des améliorations de sécurité partagées sur la carte système et une architecture technique mise à jour.",
+          "meta": "1 441 votes · 790 commentaires"
+        },
+        {
+          "title": "If coding has been solved, why does software keep getting worse?",
+          "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+          "summary": "Bien que l'automatisation des processus de développement de logiciels et le codage assisté par intelligence artificielle (codage assisté par IA) se soient généralisés, les discussions sur les problèmes techniques dans l'expérience de l'utilisateur final et la baisse de la qualité des logiciels se poursuivent. Les experts soulignent que l’augmentation de la vitesse d’écriture du code ne coïncide pas avec la capacité à gérer la complexité des systèmes et que l’accumulation de dette technique affecte négativement l’écosystème logiciel.",
+          "meta": "683 votes · 516 commentaires"
+        },
+        {
+          "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+          "summary": "Nvidia, Microsoft et Meta affirment qu'une réglementation excessive des modèles à poids ouvert limitera l'innovation technologique. Les entreprises technologiques recommandent d’améliorer les normes de sécurité au lieu de restreindre ces modèles.",
+          "meta": "573 votes · 255 commentaires"
+        },
+        {
+          "title": "India's first privately-developed rocket reaches orbit on debut launch",
+          "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+          "summary": "Une initiative spatiale privée basée en Inde a réussi à atteindre l’orbite lors de son premier vol d’essai avec la première fusée qu’elle a développée. Cette évolution accroît les compétences du pays dans le secteur des vols spatiaux commerciaux et le rôle du secteur privé dans l'économie spatiale.",
+          "meta": "557 votes · 163 commentaires"
+        },
+        {
+          "title": "My security camera shipped a GitHub admin token in its login page",
+          "url": "https://hhh.hn/hanwha-github-token/",
+          "summary": "Sur la page de connexion des caméras de sécurité Hanwha Vision, la clé d'accès administrateur GitHub (jeton d'administrateur) est disponible en open source. Cette situation révèle que des données sensibles ont été accidentellement exportées lors du processus de développement logiciel des appareils.",
+          "meta": "550 votes · 186 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    }
+  ]
+}

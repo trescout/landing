@@ -59,7 +59,10 @@ if fr_terim or fr_arac:
           "Le même catalogue en français, traduit depuis la source turque. Markdown brut : ajoutez `.md` à l'URL.", "",
           f"- [Accueil]({B}/fr/)",
           f"- [Glossaire]({B}/fr/dictionary/)",
-          f"- [Découvrir]({B}/fr/discover/)", ""]
+          f"- [Découvrir]({B}/fr/discover/)"]
+    if _var("fr/reports"):
+        L.append(f"- [Archive des rapports]({B}/fr/reports/)")
+    L.append("")
     for t_ in sorted(fr_terim, key=lambda x: x["en"].lower()):
         L.append(f"- [Qu'est-ce que {t_['en']} ?]({B}/fr/dictionary/{t_['slug']}/) (brut: {B}/fr/dictionary/{t_['slug']}.md): {clip(t_.get('kisa_fr', ''))}")
     for c in sorted(fr_arac, key=lambda x: -(x.get("stars") or 0)):
