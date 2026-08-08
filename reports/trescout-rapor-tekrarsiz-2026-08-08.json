@@ -1,0 +1,270 @@
+{
+  "date": "2026-08-08",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "summary": "PrimeIntellect tarafından geliştirilen Prime-Agent, yazılım geliştirme süreçleri ve uzun süreli otonom görevler için kendi kendini iyileştiren bir pekiştirmeli öğrenme ajanıdır (reinforcement learning agent). TypeScript diliyle yazılan bu araç, karmaşık iş akışlarını otomatikleştirerek yazılım geliştirme verimliliğini artırmayı hedefler.",
+          "meta": "TypeScript · ★ 6.896 · +2.293 bugün"
+        },
+        {
+          "title": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "summary": "Semantica, yapay zekâ sistemleri için bağlamsal veri yönetimi sağlayan çizge tabanlı bir altyapı (graph-native infrastructure). Büyük dil modellerinin (LLM) daha güvenilir ve hesap verebilir sonuçlar üretmesi için verileri ilişkisel bir yapıda düzenliyor.",
+          "meta": "Python · ★ 2.396 · +122 bugün"
+        },
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "summary": "MiroFish, verileri tahmin etmek için kullanılan basit ve evrensel bir sürü zekâsı (swarm intelligence) motorudur. Python tabanlı bu araç, karmaşık sistemlerdeki örüntüleri analiz ederek çeşitli tahminleme süreçlerini otomatikleştirmeyi amaçlar.",
+          "meta": "Python · ★ 70.578 · +141 bugün",
+          "returning": true
+        },
+        {
+          "title": "jdx/mise",
+          "url": "https://github.com/jdx/mise",
+          "summary": "Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek bir çatı altında yönetmeyi sağlayan bir araçtır. Rust diliyle geliştirilen bu yazılım, farklı projeler için gerekli olan çalışma ortamlarını standartlaştırmayı ve hızlandırmayı hedefler.",
+          "meta": "Rust · ★ 32.098 · +135 bugün"
+        },
+        {
+          "title": "unclebob/swarm-forge",
+          "url": "https://github.com/unclebob/swarm-forge",
+          "summary": "Clojure diliyle yazılan Swarm Forge, birden fazla yapay zekâ ajanını (AI agents) tek bir merkezden koordine etmeye yarayan bir araçtır. Yazılım, farklı ajanların iş birliği içinde çalışması gereken karmaşık süreçleri yönetmek için basit bir yapı sunar.",
+          "meta": "Clojure · ★ 1.870 · +81 bugün"
+        },
+        {
+          "title": "denoland/celld",
+          "url": "https://github.com/denoland/celld",
+          "summary": "Deno tarafından geliştirilen Celld, dağıtık sistemler için kendi sunucunuzda barındırabileceğiniz (self-hosted) kalıcı nesneler (durable objects) altyapısı sunuyor. Rust diliyle yazılan bu teknoloji, durum yönetimini (state management) farklı düğümler arasında ölçeklenebilir şekilde dağıtmayı sağlıyor.",
+          "meta": "Rust · ★ 2.264 · +516 bugün"
+        },
+        {
+          "title": "K2SOsint/Legendary_OSINT",
+          "url": "https://github.com/K2SOsint/Legendary_OSINT",
+          "summary": "Legendary_OSINT, dolandırıcılık araştırmacıları ve siber tehdit istihbaratı (CTI) analistleri için hazırlanan kapsamlı bir açık kaynaklı istihbarat (OSINT) araçları ve kaynakları listesidir. Müşterini tanı (KYC) ve kara para aklamayı önleme (AML) süreçlerinde ihtiyaç duyulan dijital inceleme araçlarını tek bir merkezde toplar.",
+          "meta": "★ 1.512 · +109 bugün"
+        },
+        {
+          "title": "pranshuparmar/witr",
+          "url": "https://github.com/pranshuparmar/witr",
+          "summary": "Witr, sistemdeki süreçleri, portları, konteynerleri veya dosyaları izleyerek bunların hangi kaynak tarafından başlatıldığını tespit eden bir komut satırı aracıdır. Kullanıcıların sistem üzerindeki etkinlikleri takip etmesini sağlayan bu yazılım, hem komut satırı (CLI) hem de metin tabanlı kullanıcı arayüzü (TUI) desteği sunar.",
+          "meta": "Go · ★ 19.848 · +234 bugün"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Google tarafından geliştirilen Skills, yapay zekâ ajanlarının Google servisleri ve teknolojileriyle etkileşime girmesini sağlayan bir kütüphane. Python tabanlı bu araç, ajanların belirli görevleri yerine getirmesi için gerekli olan yetenekleri (skills) standart bir yapıda sunuyor.",
+          "meta": "Python · ★ 16.324 · +327 bugün",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+          "summary": "New Mexico mahkemesi, sosyal medya platformu sahibi Meta'yı çocukların ruh sağlığına zarar verdiği gerekçesiyle 567 milyon dolar tazminat ödemeye mahkûm etti. Karar, teknoloji şirketlerinin platform tasarımlarının kullanıcı güvenliği üzerindeki yasal sorumluluğunu vurguluyor.",
+          "meta": "744 oy · 398 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49204352",
+              "popularity": 744,
+              "engagementCount": 398
+            }
+          ]
+        },
+        {
+          "title": "DeepSeek V4 Flash 0731",
+          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+          "summary": "DeepSeek V4 Flash 0731, yapay zekâ modellerinin mantık yürütme becerilerini ölçen ARC (Abstraction and Reasoning Corpus) yarışmasında yüksek performans gösteren bir dil modeli. Bu model, karmaşık problem çözme görevlerinde verimliliği artırmak amacıyla geliştirilen yeni bir mimari (architecture) sunuyor.",
+          "meta": "528 oy · 315 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49214008",
+              "popularity": 528,
+              "engagementCount": 315
+            }
+          ]
+        },
+        {
+          "title": "What happens if an entire class of workers loses faith in their careers",
+          "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+          "summary": "Teknoloji sektöründeki çalışanların kariyerlerine olan güvenlerini kaybetmesi, sektör genelindeki iş güvencesi endişelerini ve motivasyon kaybını tetikliyor. Bu durum, sürekli değişen iş tanımları ve yapay zekâ odaklı dönüşümün çalışan bağlılığı üzerindeki etkilerini sorgulatıyor.",
+          "meta": "508 oy · 592 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49209539",
+              "popularity": 508,
+              "engagementCount": 592
+            }
+          ]
+        },
+        {
+          "title": "Oracle bans AI-generated code from OpenJDK",
+          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+          "summary": "Oracle, Java geliştirme kiti OpenJDK bünyesinde yapay zekâ tarafından oluşturulmuş kodların kullanımını yasakladı. Bu karar, şirketin kendi yazılım süreçlerinde yapay zekâ araçlarını kullanmadığına dair iddiaları destekler nitelikte bir adım olarak öne çıkıyor.",
+          "meta": "420 oy · 289 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49213754",
+              "popularity": 420,
+              "engagementCount": 289
+            }
+          ]
+        },
+        {
+          "title": "A year of fighting scrapers on my 1.5 million-page website",
+          "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+          "summary": "Web sitesi sahipleri, içeriklerini izinsiz kopyalayan veri kazıyıcı (web scraper) botların yarattığı yoğun trafikle mücadele ediyor. Bu durum, sunucu kaynaklarını tüketen otomatik bot trafiğini engellemek için özelleştirilmiş filtreleme ve hız sınırlama (rate limiting) yöntemlerinin kullanımını zorunlu kılıyor.",
+          "meta": "401 oy · 366 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49211386",
+              "popularity": 401,
+              "engagementCount": 366
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization",
+          "url": "https://huggingface.co/papers/2608.01492",
+          "summary": "GaussianSelector, üç boyutlu Gaussian sıçratma (3D Gaussian Splatting) sahnelerinde nesneleri seçmek için geliştirilen, eğitim gerektirmeyen bir çerçevedir. Grafik optimizasyonu kullanarak, kısıtlı görüş açılarından nesne seçimini düşük hesaplama maliyetiyle gerçekleştirir.",
+          "meta": "4 beğeni · 2 yorum"
+        },
+        {
+          "title": "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
+          "url": "https://huggingface.co/papers/2608.01851",
+          "summary": "Robot öğrenme alanı, yetenekleri sabit ağırlıklara (weights) gömen görsel-dil-eylem (VLA) modelleri ile kendi yürütülebilir kodlarını yazıp geliştiren ajanlar arasında ikiye ayrılıyor. Bu çalışma, robotik yöntemleri kod tabanlı politika oluşturma ve kendi kendini iyileştirme kapasitelerine göre sınıflandırarak güncel yaklaşımları analiz ediyor.",
+          "meta": "4 beğeni · 2 yorum"
+        },
+        {
+          "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
+          "url": "https://huggingface.co/papers/2608.01049",
+          "summary": "FactorJEPA, yoğun ve düzensiz şehir ortamlarındaki karmaşık etkileşimleri tahmin etmek için geliştirilen bir dünya modeli (world model) mimarisidir. Sistem, karmaşık sahneleri yerleşim, ajan ve etkileşim kanallarına ayırarak geleneksel yöntemlerin yetersiz kaldığı kalabalık kentsel alanlarda daha tutarlı tahminler sunmayı amaçlar.",
+          "meta": "5 beğeni · 2 yorum"
+        },
+        {
+          "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
+          "url": "https://huggingface.co/papers/2608.05798",
+          "summary": "KVAE, ses, görüntü ve video verilerini metin tabanlı üretken modeller (generative models) için sıkıştırılmış gösterimlere dönüştüren yeni bir belirteçleştirici (tokenizer) ailesidir. Bu yöntem, gizil yayılım modellemesi (latent diffusion modeling) süreçlerinde öğrenme hızını ve üretilen örneklerin kalitesini artırmayı hedefler.",
+          "meta": "14 beğeni · 3 yorum"
+        },
+        {
+          "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
+          "url": "https://huggingface.co/papers/2608.05784",
+          "summary": "Activity Frames, bilgisayar kullanım ajanlarının ekran aktivitelerini model kullanmadan belirli çerçevelere (frames) dönüştüren bir yöntemdir. Bu sistem, kullanıcı eylemlerini yapılandırılmış veriler halinde kaydederek ajanların geçmiş rutinleri yeniden öğrenmek yerine hatırlamasını sağlar.",
+          "meta": "13 beğeni · 4 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Am I the problem? Interviewing another team to find out",
+          "url": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
+          "summary": "Yazılım geliştirme süreçlerinde yaşanan tıkanıklıkları gidermek amacıyla başka bir ekiple mülakat yapma yöntemi, kişisel veya sistemsel hataları objektif bir bakış açısıyla tespit etmeyi sağlıyor. Bu yaklaşım, geliştiricilerin kendi çalışma pratiklerini dış bir gözle değerlendirerek iş akışındaki verimsizlikleri anlamasına yardımcı oluyor.",
+          "meta": "39 oy · 8 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team",
+              "popularity": 39,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "The Nixpkgs core team has disbanded",
+          "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+          "summary": "Nix paket yöneticisinin temel deposu olan Nixpkgs çekirdek ekibi, yönetim yapısındaki değişiklikler nedeniyle dağıtıldı. Bu karar, paket deposunun sürdürülebilirliğini artırmak amacıyla topluluk odaklı yeni bir yönetim modeline geçişi temsil ediyor.",
+          "meta": "11 oy · 1 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded",
+              "popularity": 11,
+              "engagementCount": 1
+            }
+          ]
+        },
+        {
+          "title": "PS3 emulation is fast on ARM now",
+          "url": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
+          "summary": "PlayStation 3 emülasyonu, ARM mimarili işlemciler üzerinde artık yüksek performansla çalışabiliyor. Bu gelişme, oyun konsolu öykünücüsü (emulator) RPCS3'ün Apple Silicon gibi ARM tabanlı donanımlarda daha verimli sonuçlar vermesini sağlıyor.",
+          "meta": "17 oy · 5 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ykzv1a/ps3_emulation_is_fast_on_arm_now",
+              "popularity": 17,
+              "engagementCount": 5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "reinforcement learning agent",
+      "explanation": "Deneme yanılma yoluyla ödül kazanarak en doğru kararı vermeyi öğrenen yazılım birimi."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir işi yapabilmek için sahip olunan pratik bilgi ve yetenekler."
+    },
+    {
+      "term": "graph-native infrastructure",
+      "explanation": "Veriler arasındaki bağlantıları doğrudan temelinde tutan özel veri depolama yapısı."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnternetteki devasa metinleri inceleyerek insan gibi konuşabilen ve yazabilen gelişmiş yapay zekâ."
+    },
+    {
+      "term": "swarm intelligence",
+      "explanation": "Birçok basit birimin bir araya gelerek tek bir akıllı sistem gibi hareket etmesi."
+    },
+    {
+      "term": "environment variables",
+      "explanation": "Programların çalışırken ihtiyaç duyduğu ayarları ve gizli bilgileri tutan küçük tanımlayıcılar."
+    },
+    {
+      "term": "task runner",
+      "explanation": "Tekrarlanan yazılım işlerini otomatik olarak sırasıyla çalıştıran yardımcı araç."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Belirli görevleri yerine getirmek için tasarlanmış, akıllı karar verme yetisine sahip yazılımlar."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Bir hizmeti başkasının sunucusunda değil, kendi bilgisayarınızda veya sunucunuzda barındırma."
+    },
+    {
+      "term": "durable objects",
+      "explanation": "İnternet üzerinde sürekli çalışan ve durumunu kaybetmeden veri saklayabilen küçük yazılım parçaları."
+    }
+  ]
+}
