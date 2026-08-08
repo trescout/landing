@@ -2,11 +2,12 @@
 
 Supabase, web, mobil ve yapay zekâ uygulamaları geliştirmek için Postgres veritabanı (Postgres database) altyapısı sunan bir geliştirme platformudur. Açık kaynaklı yapısıyla uygulama geliştirme süreçlerini hızlandırmak için gerekli olan veritabanı yönetimi ve arka uç (backend) hizmetlerini bir arada sağlar.
 
-- ★ 107.399
+- ★ 107.669
 - TypeScript
 - GitHub Trending · 2026-07-04
 
 ## Güncelleme
+- 7 Ağustos 2026: Yıldız 107.399 → 107.669, son sürüm v1.26.08 (7 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 105.582 → 107.399, son sürüm v1.26.07 (9 Temmuz 2026).
 
 ## Ne kazandırır?

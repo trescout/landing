@@ -2,11 +2,12 @@
 
 Plane is an open source project management platform that brings together task management, sprint planning and documentation processes. Developed as an alternative to enterprise tools such as Jira and Linear, this platform allows teams to organize workflows through a central interface.
 
-- ★ 55,364
+- ★ 55,693
 - TypeScript
 - GitHub Trending · 2026-06-18
 
 ## Update
+- August 7, 2026: Star 55,364 → 55,693, latest version v1.4.1 (August 7, 2026).
 - August 2, 2026: Star 51,506 → 55,364, latest version v1.4.0 (July 31, 2026).
 
 ## What you get

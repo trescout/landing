@@ -101,7 +101,7 @@ jobs:
       # metinler scripts/diller.py'den geliyor. Yeni dil eklemenin tüm adımları
       # diller.py'nin başlığında yazılı.
       - name: Fransızca tanıtım metinleri (tagline_fr · kisa_fr)
-        run: node scripts/translate-i18n.js fr
+        run: node scripts/translate-i18n.js --lang=fr
 
       - name: İngilizce sayfaları üret (keşif + sözlük)
         run: |

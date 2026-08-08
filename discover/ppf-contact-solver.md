@@ -4,12 +4,13 @@ PPF Contact Solver , ZOZO'nun fizik motoru olarak fizik tabanlı simülasyonlard
 
 _Görsel: ppf-contact-solver · ZOZO (proje deposundan)_
 
-- ★ 4.380
+- ★ 4.404
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
+- 7 Ağustos 2026: Yıldız 4.380 → 4.404, son sürüm addon-2026-08-08-0540 (7 Ağustos 2026).
 - 3 Ağustos 2026: Yıldız 4.378 → 4.380, son sürüm addon-2026-08-03-0714 (2 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 3.389 → 4.378, son sürüm addon-2026-07-27-0038 (26 Temmuz 2026).
 

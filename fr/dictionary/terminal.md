@@ -31,8 +31,8 @@ Si vous souhaitez vous lancer dans le monde du logiciel, oui, car de nombreux ou
 - [Career Ops](/fr/discover/career-ops/)
 - [Free Claude Code](/fr/discover/free-claude-code/)
 - [DeepSeek-Reasonix](/fr/discover/deepseek-reasonix/)
+- [Mise](/fr/discover/mise/)
 - [Oh My Pi](/fr/discover/oh-my-pi/)
-- [Superfile](/fr/discover/superfile/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/terminal/

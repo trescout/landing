@@ -35,8 +35,8 @@ Yes, they can manage your files or run your applications if you give them the ne
 - [Opencode](/en/discover/opencode/)
 - [Awesome LLM Apps](/en/discover/awesome-llm-apps/)
 - [Agent Skills](/en/discover/agent-skills/)
-- [Ansible](/en/discover/ansible/)
 - [Taste Skill](/en/discover/taste-skill/)
+- [Ansible](/en/discover/ansible/)
 - [Agent-Reach](/en/discover/agent-reach/)
 - [Openinterpreter](/en/discover/openinterpreter/)
 

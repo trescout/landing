@@ -2,11 +2,12 @@
 
 Book-to-skill projesi, teknik kitapların taşınabilir belge biçimlerini (PDF) Claude Code için kullanılabilir yetenek paketlerine (skills) dönüştürüyor. Bu araç, teknik kaynakların çalışma süreçlerinde doğrudan referans alınmasını ve uygulanmasını sağlıyor.
 
-- ★ 17.132
+- ★ 18.272
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Güncelleme
+- 7 Ağustos 2026: Yıldız 17.132 → 18.272, son sürüm v1.3.0 (30 Temmuz 2026).
 - 6 Ağustos 2026: Yıldız 15.238 → 17.132, son sürüm v1.3.0 (30 Temmuz 2026).
 - 2 Ağustos 2026: Yıldız 11.802 → 15.238, son sürüm v1.3.0 (30 Temmuz 2026).
 

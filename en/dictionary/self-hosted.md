@@ -37,6 +37,7 @@ It is safer in terms of data privacy, but it is entirely your responsibility to 
 - [Openship](/en/discover/openship/)
 - [Instatic](/en/discover/instatic/)
 - [TREK](/en/discover/trek/)
+- [Celld](/en/discover/celld/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/self-hosted/

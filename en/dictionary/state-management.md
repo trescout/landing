@@ -30,5 +30,8 @@ It is preferred to ensure that data remains up to date everywhere at the same ti
 - [Memory API](/en/dictionary/memory-api/)
 - [Observability](/en/dictionary/observability/)
 
+## Related tools
+- [Celld](/en/discover/celld/)
+
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/state-management/

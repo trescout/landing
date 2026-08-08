@@ -36,7 +36,7 @@ Sen bir yapay zekâ ajanı geliştirme uzmanısın. Bana 'Agent = LLM + Bağlam 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agent RAG AI Agents Agents PDF LLM
+AI Agent RAG AI Agents PDF Agents LLM
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-agent-book/

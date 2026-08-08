@@ -34,6 +34,7 @@ Des outils de base comme les recherches Google, les navigateurs de réseaux soci
 - [Spiderfoot](/fr/discover/spiderfoot/)
 - [GhostTrack](/fr/discover/ghosttrack/)
 - [Flowsint](/fr/discover/flowsint/)
+- [Legendary_OSINT](/fr/discover/legendary-osint/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/osint/

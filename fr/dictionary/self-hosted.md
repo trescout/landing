@@ -35,6 +35,7 @@ C'est plus sûr en termes de confidentialité des données, mais il est de votre
 - [Openship](/fr/discover/openship/)
 - [Instatic](/fr/discover/instatic/)
 - [TREK](/fr/discover/trek/)
+- [Celld](/fr/discover/celld/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/self-hosted/

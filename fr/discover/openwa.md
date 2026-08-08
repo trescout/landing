@@ -2,15 +2,15 @@
 
 OpenWA propose une solution de passerelle API gratuite et open source pour le protocole de messagerie WhatsApp. Cet outil, développé avec le langage TypeScript, permet aux utilisateurs de gérer les intégrations WhatsApp sur leurs propres serveurs (auto-hébergés).
 
-- ★ 12 503
+- ★ 12 544
 - TypeScript
 - GitHub Trending · 2026-06-17
 
 ## Mise à jour
+- 8 août 2026 : Star 12 503 → 12 544, dernière version v0.14.5 (8 août 2026).
 - 7 août 2026 : Star 12 466 → 12 503, dernière version v0.14.4 (7 août 2026).
 - 6 août 2026 : Star 12 355 → 12 466, dernière version v0.14.2 (6 août 2026).
 - 3 août 2026 : Star 12 335 → 12 355, dernière version v0.13.0 (3 août 2026).
-- 2 août 2026 : Étoile 9 223 → 12 335, dernière version v0.12.4 (2 août 2026).
 
 ## Ce que ça vous apporte
 - Contrôle total sur l'infrastructure de messagerie WhatsApp

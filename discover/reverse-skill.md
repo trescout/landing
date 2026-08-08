@@ -2,15 +2,15 @@
 
 Reverse-skill, tersine mühendislik ve sızma testi süreçleri için yapay zekâ destekli bir yönlendirme paketi (routing pack) sunuyor. Araç zinciri önyükleme (toolchain bootstrapping) ve kendi kendine gelişen bilgi tabanı özellikleriyle Claude Code, Cursor ve Cline gibi kodlama araçlarıyla entegre çalışıyor.
 
-- ★ 19.315
+- ★ 20.511
 - PowerShell
 - GitHub Trending · 2026-08-01
 
 ## Güncelleme
+- 7 Ağustos 2026: Yıldız 19.315 → 20.511, son sürüm v1.0.0 (17 Temmuz 2026).
 - 6 Ağustos 2026: Yıldız 16.399 → 19.315, son sürüm v1.0.0 (17 Temmuz 2026).
 - 4 Ağustos 2026: Yıldız 14.310 → 16.399, son sürüm v1.0.0 (17 Temmuz 2026).
 - 3 Ağustos 2026: Yıldız 12.931 → 14.310, son sürüm v1.0.0 (17 Temmuz 2026).
-- 2 Ağustos 2026: Yıldız 11.014 → 12.931, son sürüm v1.0.0 (17 Temmuz 2026).
 
 ## Ne kazandırır?
 - Yapay zekâ ajanları için standartlaştırılmış iş akışları

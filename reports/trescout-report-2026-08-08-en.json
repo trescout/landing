@@ -1,0 +1,371 @@
+{
+  "date": "2026-08-08",
+  "editorial": "Skills developed for artificial intelligence agents and new generation language models such as DeepSeek V4 Flash dominate the technology agenda today. The record fine of $567 million that Meta received due to its effects on children's mental health brings the ethical and legal responsibilities of the industry into question again.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "summary": "Prime-Agent, developed by PrimeIntellect, is a self-healing reinforcement learning agent for software development processes and long-term autonomous tasks. Written in TypeScript, this tool aims to increase software development efficiency by automating complex workflows.",
+          "meta": "TypeScript · ★ 6,896 · +2,293 today"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Developed by Addy Osmani, agent-skills offers production-level engineering skills for artificial intelligence coding agents. This JavaScript-based library aims to standardize the technical skills of agents used in autonomous software development processes.",
+          "meta": "JavaScript · ★ 84,006 · +1,131 today"
+        },
+        {
+          "title": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "summary": "Developed by Cloudflare, Computer is a TypeScript library that provides operating system-level command execution and screen interaction capabilities to artificial intelligence agents. This tool provides a working environment that allows agents to perform complex tasks on local or remote computers.",
+          "meta": "TypeScript · ★ 5,924 · +872 today"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "This repository, shared by Matt Pocock, contains customized skill packages that software developers can define to artificial intelligence agents. By standardizing the scripts that developers use in their work environments, it enables agents to perform technical tasks more efficiently.",
+          "meta": "Shell · ★ 209,040 · +2,152 today"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers is an agentic skills framework and software development methodology developed for artificial intelligence agents. This structure is designed to standardize the workflows of autonomous systems that perform complex tasks.",
+          "meta": "Shell · ★ 268,833 · +782 today"
+        },
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik is an open source security platform that provides authentication and access management for applications. It works as a central identity provider, standardizing user login processes across different services.",
+          "meta": "Python · ★ 23,673 · +530 today"
+        },
+        {
+          "title": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "summary": "Semantica is a graph-native infrastructure that provides contextual data management for artificial intelligence systems. Large language models (LLM) organize data in a relational structure to produce more reliable and accountable results.",
+          "meta": "Python · ★ 2,396 · +122 today"
+        },
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "summary": "MiroFish is a simple and universal swarm intelligence engine used to predict data. This Python-based tool aims to automate various prediction processes by analyzing patterns in complex systems.",
+          "meta": "Python · ★ 70,578 · +141 today"
+        },
+        {
+          "title": "chenyme/grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "summary": "Grok2api is a multi-account supported application programming interface (API) gateway that manages access to Grok AI models. This tool, developed with the Go language, allows operations on Grok Build, Grok Web and Grok Console platforms to be carried out from a single center.",
+          "meta": "Go · ★ 7,160 · +55 today"
+        },
+        {
+          "title": "jdx/mise",
+          "url": "https://github.com/jdx/mise",
+          "summary": "Mise is a tool that allows you to manage software development tools, environment variables and task runners under one roof. This software, developed in Rust language, aims to standardize and accelerate the working environments required for different projects.",
+          "meta": "Rust · ★ 32,098 · +135 today"
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "summary": "AutoGPT is an open-source Python framework used to develop autonomous AI agents that can plan and execute complex tasks on their own. It automates the process using tools such as internet access and file management to achieve the goals set by users.",
+          "meta": "Python · ★ 186,360 · +355 today"
+        },
+        {
+          "title": "google/guava",
+          "url": "https://github.com/google/guava",
+          "summary": "Developed by Google, Guava is a toolkit that provides core libraries for Java projects. Collections provide standard components that facilitate common programming tasks such as caching and string manipulation.",
+          "meta": "Java · ★ 51,777 · +152 today"
+        },
+        {
+          "title": "unclebob/swarm-forge",
+          "url": "https://github.com/unclebob/swarm-forge",
+          "summary": "Written in Clojure language, Swarm Forge is a tool for coordinating multiple AI agents from a single center. The software offers a simple structure to manage complex processes where different agents must work collaboratively.",
+          "meta": "Clojure · ★ 1,870 · +81 today"
+        },
+        {
+          "title": "denoland/celld",
+          "url": "https://github.com/denoland/celld",
+          "summary": "Developed by Deno, Celld offers a self-hosted durable objects infrastructure for distributed systems. This technology, written in Rust language, enables distributing state management among different nodes in a scalable manner.",
+          "meta": "Rust · ★ 2,264 · +516 today"
+        },
+        {
+          "title": "K2SOsint/Legendary_OSINT",
+          "url": "https://github.com/K2SOsint/Legendary_OSINT",
+          "summary": "Legendary_OSINT is a comprehensive list of open source intelligence (OSINT) tools and resources for fraud investigators and cyber threat intelligence (CTI) analysts. It gathers the digital review tools needed in know your customer (KYC) and anti-money laundering (AML) processes in a single center.",
+          "meta": "★ 1,512 · +109 today"
+        },
+        {
+          "title": "pranshuparmar/witr",
+          "url": "https://github.com/pranshuparmar/witr",
+          "summary": "Witr is a command line tool that monitors processes, ports, containers or files in the system and determines from which source they were started. This software, which allows users to track activities on the system, offers both command line (CLI) and text-based user interface (TUI) support.",
+          "meta": "Go · ★ 19,848 · +234 today"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Skills, developed by Google, is a library that enables artificial intelligence agents to interact with Google services and technologies. This Python-based tool offers the skills required for agents to perform certain tasks in a standard structure.",
+          "meta": "Python · ★ 16,324 · +327 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+          "summary": "A New Mexico court sentenced social media platform owner Meta to pay $567 million in damages on the grounds that it harmed the mental health of children. The decision highlights the legal responsibility of technology companies over the user safety of their platform designs.",
+          "meta": "744 points · 398 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49204352",
+              "popularity": 744,
+              "engagementCount": 398
+            }
+          ]
+        },
+        {
+          "title": "DeepSeek V4 Flash 0731",
+          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+          "summary": "DeepSeek V4 Flash 0731 is a high-performing language model in the ARC (Abstraction and Reasoning Corpus) competition, which measures the reasoning skills of artificial intelligence models. This model offers a new architecture developed to increase efficiency in complex problem-solving tasks.",
+          "meta": "528 points · 315 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49214008",
+              "popularity": 528,
+              "engagementCount": 315
+            }
+          ]
+        },
+        {
+          "title": "What happens if an entire class of workers loses faith in their careers",
+          "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+          "summary": "Employees in the technology sector lose confidence in their careers, triggering job security concerns and loss of motivation throughout the sector. This situation calls into question the effects of constantly changing job descriptions and artificial intelligence-driven transformation on employee engagement.",
+          "meta": "508 points · 592 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49209539",
+              "popularity": 508,
+              "engagementCount": 592
+            }
+          ]
+        },
+        {
+          "title": "Oracle bans AI-generated code from OpenJDK",
+          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+          "summary": "Oracle banned the use of artificial intelligence-generated codes within its Java development kit OpenJDK. This decision stands out as a step that supports claims that the company does not use artificial intelligence tools in its own software processes.",
+          "meta": "420 points · 289 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49213754",
+              "popularity": 420,
+              "engagementCount": 289
+            }
+          ]
+        },
+        {
+          "title": "A year of fighting scrapers on my 1.5 million-page website",
+          "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+          "summary": "Website owners are struggling with heavy traffic generated by web scraper bots that copy their content without permission. This situation necessitates the use of customized filtering and rate limiting methods to prevent automated bot traffic that consumes server resources.",
+          "meta": "401 points · 366 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49211386",
+              "popularity": 401,
+              "engagementCount": 366
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, developed by MiniMaxAI, is an artificial intelligence model that produces videos using visual and text inputs. This model aims to speed up video creation processes by converting complex commands into visual content.",
+          "meta": "♥ 2,980 · 18,112 downloads"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, the text-generation model developed by DeepSeek, offers a structure optimized for high-performance language processing tasks. The model aims to provide fast response times in complex content creation and data analysis processes.",
+          "meta": "♥ 2,762 · 702,709 downloads"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3 is a multi-modal large language model with text and visual processing capabilities. This model, offered by Comfy-Org, is available on Hugging Face for developers looking for a high-performance solution, especially for image-based tasks.",
+          "meta": "♥ 951 · 3,139,920 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, developed by Moonshot AI, is a multimodal artificial intelligence model (multimodal model) that produces meaningful outputs by processing images and texts. This technology, which enables users to interact with visual data on a text-based basis, draws attention with its comprehensive data processing capabilities.",
+          "meta": "♥ 10,292 · 1,308,186 downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Shared on HuggingFace, Qwen3.6-27B-Fable-Fusion is a multimodal artificial intelligence model that can process visual and text data. Its uncensored structure and architecture created by combining different data sets allow users to produce customized text on their local hardware.",
+          "meta": "♥ 1,718 · 2,217,339 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization",
+          "url": "https://huggingface.co/papers/2608.01492",
+          "summary": "GaussianSelector is a training-free framework developed to select objects in three-dimensional Gaussian splatting scenes. Using graphics optimization, it performs object selection from limited viewing angles with low computational cost.",
+          "meta": "4 likes · 2 comments"
+        },
+        {
+          "title": "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
+          "url": "https://huggingface.co/papers/2608.01851",
+          "summary": "The field of robot learning is divided between visual-language-action (VLA) models that embed capabilities into fixed weights, and agents that write and develop their own executable code. This study analyzes current approaches by classifying robotic methods according to their code-based policy generation and self-healing capacities.",
+          "meta": "4 likes · 2 comments"
+        },
+        {
+          "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
+          "url": "https://huggingface.co/papers/2608.01049",
+          "summary": "FactorJEPA is a world model architecture developed to predict complex interactions in dense and irregular urban environments. By separating complex scenes into settlements, agents, and interaction channels, the system aims to provide more consistent predictions in crowded urban areas where traditional methods are inadequate.",
+          "meta": "5 likes · 2 comments"
+        },
+        {
+          "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
+          "url": "https://huggingface.co/papers/2608.05798",
+          "summary": "KVAE is a new family of tokenizers that convert audio, image and video data into compressed representations for text-based generative models. This method aims to increase the learning speed and the quality of the samples produced in latent diffusion modeling processes.",
+          "meta": "14 likes · 3 comments"
+        },
+        {
+          "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
+          "url": "https://huggingface.co/papers/2608.05784",
+          "summary": "Activity Frames is a method that transforms the screen activities of computer usage agents into specific frames without using models. This system records user actions as structured data, allowing agents to remember past routines rather than relearn them.",
+          "meta": "13 likes · 4 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Am I the problem? Interviewing another team to find out",
+          "url": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
+          "summary": "The method of interviewing another team in order to eliminate blockages in software development processes allows detecting personal or systemic errors from an objective perspective. This approach helps developers understand workflow inefficiencies by evaluating their own work practices from an outside perspective.",
+          "meta": "39 points · 8 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team",
+              "popularity": 39,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "The Nixpkgs core team has disbanded",
+          "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+          "summary": "The Nixpkgs core team, the underlying repository for the Nix package manager, has been disbanded due to changes in management structure. This decision represents a transition to a new community-focused management model with the aim of increasing the sustainability of the package repository.",
+          "meta": "11 points · 1 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded",
+              "popularity": 11,
+              "engagementCount": 1
+            }
+          ]
+        },
+        {
+          "title": "PS3 emulation is fast on ARM now",
+          "url": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
+          "summary": "PlayStation 3 emulation can now run with high performance on ARM architecture processors. This development enables the game console emulator RPCS3 to provide more efficient results on ARM-based hardware such as Apple Silicon.",
+          "meta": "17 points · 5 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ykzv1a/ps3_emulation_is_fast_on_arm_now",
+              "popularity": 17,
+              "engagementCount": 5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "reinforcement learning agent",
+      "explanation": "A software unit that learns to make the right decision by winning awards through trial and error."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Ability to solve complex problems in logical steps and establish functional systems."
+    },
+    {
+      "term": "skills",
+      "explanation": "Practical knowledge and abilities to do a job."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "The set of capabilities that artificial intelligence needs to make decisions and take action on its own."
+    },
+    {
+      "term": "graph-native infrastructure",
+      "explanation": "A special data storage structure that maintains direct connections between data."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Advanced artificial intelligence that can speak and write like a human by examining huge texts on the Internet."
+    },
+    {
+      "term": "swarm intelligence",
+      "explanation": "Many simple units come together and act as a single intelligent system."
+    },
+    {
+      "term": "API",
+      "explanation": "A bridge that allows two different software to talk to each other and share data."
+    },
+    {
+      "term": "environment variables",
+      "explanation": "Small identifiers that hold settings and confidential information that programs need while running."
+    },
+    {
+      "term": "task runner",
+      "explanation": "Utility tool that automatically runs repetitive software jobs sequentially."
+    },
+    {
+      "term": "autonomous AI agents",
+      "explanation": "Artificial intelligences that make and implement their own decisions in line with their goals without human intervention."
+    },
+    {
+      "term": "core libraries",
+      "explanation": "Ready-made code packages required for a software to perform its basic functions."
+    },
+    {
+      "term": "caching",
+      "explanation": "The process of temporarily storing frequently used data in memory for quick access."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Software designed to perform specific tasks and capable of making intelligent decisions."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Hosting a service on your own computer or server rather than on someone else's server."
+    },
+    {
+      "term": "durable objects",
+      "explanation": "Small pieces of software that run continuously on the Internet and can store data without losing its state."
+    }
+  ]
+}

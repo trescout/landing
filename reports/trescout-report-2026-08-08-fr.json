@@ -1,0 +1,371 @@
+{
+  "date": "2026-08-08",
+  "editorial": "Les compétences développées pour les agents d’intelligence artificielle et les modèles linguistiques de nouvelle génération tels que DeepSeek V4 Flash dominent aujourd’hui l’agenda technologique. L'amende record de 567 millions de dollars infligée à Meta en raison de ses effets sur la santé mentale des enfants remet en question les responsabilités éthiques et juridiques de l'industrie.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "summary": "Prime-Agent, développé par PrimeIntellect, est un agent d'apprentissage par renforcement d'auto-réparation pour les processus de développement de logiciels et les tâches autonomes à long terme. Écrit en TypeScript, cet outil vise à augmenter l'efficacité du développement logiciel en automatisant des flux de travail complexes.",
+          "meta": "TypeScript · ★ 6 896 · +2 293 aujourd'hui"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Développé par Addy Osmani, agent-skills offre des compétences d'ingénierie au niveau de la production pour les agents de codage d'intelligence artificielle. Cette bibliothèque basée sur JavaScript vise à standardiser les compétences techniques des agents utilisés dans les processus de développement de logiciels autonomes.",
+          "meta": "JavaScript · ★ 84 006 · +1 131 aujourd'hui"
+        },
+        {
+          "title": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "summary": "Développé par Cloudflare, Computer est une bibliothèque TypeScript qui fournit des capacités d'exécution de commandes au niveau du système d'exploitation et d'interaction avec l'écran aux agents d'intelligence artificielle. Cet outil fournit un environnement de travail qui permet aux agents d'effectuer des tâches complexes sur des ordinateurs locaux ou distants.",
+          "meta": "TypeScript · ★ 5 924 · +872 aujourd'hui"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Ce référentiel, partagé par Matt Pocock, contient des packages de compétences personnalisés que les développeurs de logiciels peuvent définir pour les agents d'intelligence artificielle. En standardisant les scripts que les développeurs utilisent dans leurs environnements de travail, cela permet aux agents d'effectuer des tâches techniques plus efficacement.",
+          "meta": "Shell · ★ 209 040 · +2 152 aujourd'hui"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers est un cadre de compétences agentiques et une méthodologie de développement de logiciels développés pour les agents d'intelligence artificielle. Cette structure est conçue pour standardiser les flux de travail des systèmes autonomes qui effectuent des tâches complexes.",
+          "meta": "Shell · ★ 268 833 · +782 aujourd'hui"
+        },
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik est une plateforme de sécurité open source qui assure l'authentification et la gestion des accès aux applications. Il fonctionne comme un fournisseur d'identité central, standardisant les processus de connexion des utilisateurs sur différents services.",
+          "meta": "Python · ★ 23 673 · +530 aujourd'hui"
+        },
+        {
+          "title": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "summary": "Semantica est une infrastructure graphique native qui fournit une gestion de données contextuelles pour les systèmes d'intelligence artificielle. Les grands modèles de langage (LLM) organisent les données dans une structure relationnelle pour produire des résultats plus fiables et plus responsables.",
+          "meta": "Python · ★ 2 396 · +122 aujourd'hui"
+        },
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "summary": "MiroFish est un moteur d'intelligence par essaim simple et universel utilisé pour prédire les données. Cet outil basé sur Python vise à automatiser divers processus de prédiction en analysant des modèles dans des systèmes complexes.",
+          "meta": "Python · ★ 70 578 · +141 aujourd'hui"
+        },
+        {
+          "title": "chenyme/grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "summary": "Grok2api est une passerelle d'interface de programmation d'application (API) prise en charge par plusieurs comptes qui gère l'accès aux modèles Grok AI. Cet outil, développé avec le langage Go, permet d'effectuer des opérations sur les plateformes Grok Build, Grok Web et Grok Console à partir d'un seul centre.",
+          "meta": "Go · ★ 7 160 · +55 aujourd'hui"
+        },
+        {
+          "title": "jdx/mise",
+          "url": "https://github.com/jdx/mise",
+          "summary": "Mise est un outil qui vous permet de gérer les outils de développement logiciel, les variables d'environnement et les exécuteurs de tâches sous un même toit. Ce logiciel, développé en langage Rust, vise à standardiser et accélérer les environnements de travail nécessaires aux différents projets.",
+          "meta": "Rust · ★ 32 098 · +135 aujourd'hui"
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "summary": "AutoGPT est un framework Python open source utilisé pour développer des agents d'IA autonomes capables de planifier et d'exécuter eux-mêmes des tâches complexes. Il automatise le processus à l'aide d'outils tels que l'accès Internet et la gestion de fichiers pour atteindre les objectifs fixés par les utilisateurs.",
+          "meta": "Python · ★ 186 360 · +355 aujourd'hui"
+        },
+        {
+          "title": "google/guava",
+          "url": "https://github.com/google/guava",
+          "summary": "Développé par Google, Guava est une boîte à outils qui fournit des bibliothèques de base pour les projets Java. Les collections fournissent des composants standard qui facilitent les tâches de programmation courantes telles que la mise en cache et la manipulation de chaînes.",
+          "meta": "Java · ★ 51 777 · +152 aujourd'hui"
+        },
+        {
+          "title": "unclebob/swarm-forge",
+          "url": "https://github.com/unclebob/swarm-forge",
+          "summary": "Écrit en langage Clojure, Swarm Forge est un outil permettant de coordonner plusieurs agents d'IA à partir d'un seul centre. Le logiciel offre une structure simple pour gérer des processus complexes où différents agents doivent travailler en collaboration.",
+          "meta": "Clojure · ★ 1 870 · +81 aujourd'hui"
+        },
+        {
+          "title": "denoland/celld",
+          "url": "https://github.com/denoland/celld",
+          "summary": "Développé par Deno, Celld propose une infrastructure d'objets durables auto-hébergée pour les systèmes distribués. Cette technologie, écrite en langage Rust, permet de répartir la gestion des états entre différents nœuds de manière évolutive.",
+          "meta": "Rust · ★ 2 264 · +516 aujourd'hui"
+        },
+        {
+          "title": "K2SOsint/Legendary_OSINT",
+          "url": "https://github.com/K2SOsint/Legendary_OSINT",
+          "summary": "Legendary_OSINT est une liste complète d'outils et de ressources de renseignement open source (OSINT) destinés aux enquêteurs sur les fraudes et aux analystes de renseignements sur les cybermenaces (CTI). Il rassemble les outils d'examen numérique nécessaires aux processus de connaissance de votre client (KYC) et de lutte contre le blanchiment d'argent (AML) dans un seul centre.",
+          "meta": "★ 1 512 · +109 aujourd'hui"
+        },
+        {
+          "title": "pranshuparmar/witr",
+          "url": "https://github.com/pranshuparmar/witr",
+          "summary": "Witr est un outil de ligne de commande qui surveille les processus, les ports, les conteneurs ou les fichiers du système et détermine à partir de quelle source ils ont été démarrés. Ce logiciel, qui permet aux utilisateurs de suivre les activités sur le système, offre à la fois une prise en charge de ligne de commande (CLI) et d'interface utilisateur textuelle (TUI).",
+          "meta": "Go · ★ 19 848 · +234 aujourd'hui"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Skills, développée par Google, est une bibliothèque qui permet aux agents d'intelligence artificielle d'interagir avec les services et technologies de Google. Cet outil basé sur Python offre les compétences nécessaires aux agents pour effectuer certaines tâches dans une structure standard.",
+          "meta": "Python · ★ 16 324 · +327 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+          "summary": "Un tribunal du Nouveau-Mexique a condamné Meta, propriétaire de la plateforme de médias sociaux, à payer 567 millions de dollars de dommages et intérêts au motif qu'elle nuisait à la santé mentale des enfants. La décision met en évidence la responsabilité juridique des entreprises technologiques quant à la sécurité des utilisateurs de la conception de leurs plateformes.",
+          "meta": "744 votes · 398 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49204352",
+              "popularity": 744,
+              "engagementCount": 398
+            }
+          ]
+        },
+        {
+          "title": "DeepSeek V4 Flash 0731",
+          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+          "summary": "DeepSeek V4 Flash 0731 est un modèle de langage très performant du concours ARC (Abstraction and Reasoning Corpus), qui mesure les capacités de raisonnement des modèles d'intelligence artificielle. Ce modèle propose une nouvelle architecture développée pour augmenter l'efficacité des tâches complexes de résolution de problèmes.",
+          "meta": "528 votes · 315 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49214008",
+              "popularity": 528,
+              "engagementCount": 315
+            }
+          ]
+        },
+        {
+          "title": "What happens if an entire class of workers loses faith in their careers",
+          "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+          "summary": "Les employés du secteur technologique perdent confiance dans leur carrière, ce qui suscite des problèmes de sécurité d'emploi et une perte de motivation dans l'ensemble du secteur. Cette situation remet en question les effets des descriptions de poste en constante évolution et de la transformation basée sur l’intelligence artificielle sur l’engagement des collaborateurs.",
+          "meta": "508 votes · 592 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49209539",
+              "popularity": 508,
+              "engagementCount": 592
+            }
+          ]
+        },
+        {
+          "title": "Oracle bans AI-generated code from OpenJDK",
+          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+          "summary": "Oracle a interdit l'utilisation de codes générés par l'intelligence artificielle dans son kit de développement Java OpenJDK. Cette décision constitue une étape qui conforte les affirmations selon lesquelles l'entreprise n'utilise pas d'outils d'intelligence artificielle dans ses propres processus logiciels.",
+          "meta": "420 votes · 289 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49213754",
+              "popularity": 420,
+              "engagementCount": 289
+            }
+          ]
+        },
+        {
+          "title": "A year of fighting scrapers on my 1.5 million-page website",
+          "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+          "summary": "Les propriétaires de sites Web sont aux prises avec un trafic important généré par des robots Web Scraper qui copient leur contenu sans autorisation. Cette situation nécessite l’utilisation de méthodes de filtrage et de limitation de débit personnalisées pour empêcher le trafic automatisé de robots qui consomme les ressources du serveur.",
+          "meta": "401 votes · 366 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49211386",
+              "popularity": 401,
+              "engagementCount": 366
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, développé par MiniMaxAI, est un modèle d'intelligence artificielle qui produit des vidéos à l'aide d'entrées visuelles et textuelles. Ce modèle vise à accélérer les processus de création vidéo en convertissant des commandes complexes en contenu visuel.",
+          "meta": "♥ 2 980 · 18 112 téléchargements"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, le modèle de génération de texte développé par DeepSeek, offre une structure optimisée pour les tâches de traitement linguistique hautes performances. Le modèle vise à fournir des temps de réponse rapides dans les processus complexes de création de contenu et d’analyse de données.",
+          "meta": "♥ 2 762 · 702 709 téléchargements"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3 est un grand modèle de langage multimodal doté de capacités de traitement de texte et visuel. Ce modèle, proposé par Comfy-Org, est disponible sur Hugging Face pour les développeurs recherchant une solution performante, notamment pour les tâches basées sur l'image.",
+          "meta": "♥ 951 · 3 139 920 téléchargements"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, développé par Moonshot AI, est un modèle d'intelligence artificielle multimodale (modèle multimodal) qui produit des sorties significatives en traitant des images et des textes. Cette technologie, qui permet aux utilisateurs d'interagir avec des données visuelles sur une base textuelle, attire l'attention par ses capacités complètes de traitement des données.",
+          "meta": "♥ 10 292 · 1 308 186 téléchargements"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Partagé sur HuggingFace, Qwen3.6-27B-Fable-Fusion est un modèle d'intelligence artificielle multimodale capable de traiter des données visuelles et textuelles. Sa structure non censurée et son architecture créée en combinant différents ensembles de données permettent aux utilisateurs de produire du texte personnalisé sur leur matériel local.",
+          "meta": "♥ 1 718 · 2 217 339 téléchargements"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization",
+          "url": "https://huggingface.co/papers/2608.01492",
+          "summary": "GaussianSelector est un framework sans formation développé pour sélectionner des objets dans des scènes d'éclaboussures gaussiennes tridimensionnelles. Grâce à l'optimisation graphique, il effectue une sélection d'objets sous des angles de vision limités avec un faible coût de calcul.",
+          "meta": "4 j'aime · 2 commentaires"
+        },
+        {
+          "title": "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
+          "url": "https://huggingface.co/papers/2608.01851",
+          "summary": "Le domaine de l’apprentissage des robots est divisé entre les modèles visuels-langage-action (VLA) qui intègrent des capacités dans des poids fixes, et les agents qui écrivent et développent leur propre code exécutable. Cette étude analyse les approches actuelles en classant les méthodes robotiques en fonction de leur génération de politiques basées sur du code et de leurs capacités d'auto-guérison.",
+          "meta": "4 j'aime · 2 commentaires"
+        },
+        {
+          "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
+          "url": "https://huggingface.co/papers/2608.01049",
+          "summary": "FactorJEPA est une architecture de modèle mondial développée pour prédire des interactions complexes dans des environnements urbains denses et irréguliers. En séparant les scènes complexes en établissements, agents et canaux d'interaction, le système vise à fournir des prévisions plus cohérentes dans les zones urbaines surpeuplées où les méthodes traditionnelles sont inadéquates.",
+          "meta": "5 j'aime · 2 commentaires"
+        },
+        {
+          "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
+          "url": "https://huggingface.co/papers/2608.05798",
+          "summary": "KVAE est une nouvelle famille de tokeniseurs qui convertissent les données audio, image et vidéo en représentations compressées pour des modèles génératifs basés sur du texte. Cette méthode vise à augmenter la vitesse d’apprentissage et la qualité des échantillons produits dans les processus de modélisation par diffusion latente.",
+          "meta": "14 j'aime · 3 commentaires"
+        },
+        {
+          "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
+          "url": "https://huggingface.co/papers/2608.05784",
+          "summary": "Activity Frames est une méthode qui transforme les activités d’écran des agents utilisant l’ordinateur en cadres spécifiques sans utiliser de modèles. Ce système enregistre les actions des utilisateurs sous forme de données structurées, permettant aux agents de se souvenir des routines passées plutôt que de les réapprendre.",
+          "meta": "13 j'aime · 4 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Am I the problem? Interviewing another team to find out",
+          "url": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
+          "summary": "La méthode d'entretien avec une autre équipe afin d'éliminer les blocages dans les processus de développement logiciel permet de détecter les erreurs personnelles ou systémiques d'un point de vue objectif. Cette approche aide les développeurs à comprendre les inefficacités des flux de travail en évaluant leurs propres pratiques de travail d'un point de vue extérieur.",
+          "meta": "39 votes · 8 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team",
+              "popularity": 39,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "The Nixpkgs core team has disbanded",
+          "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+          "summary": "L'équipe principale Nixpkgs, le référentiel sous-jacent du gestionnaire de packages Nix, a été dissoute en raison de changements dans la structure de gestion. Cette décision représente une transition vers un nouveau modèle de gestion axé sur la communauté dans le but d'augmenter la durabilité du référentiel de packages.",
+          "meta": "11 votes · 1 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded",
+              "popularity": 11,
+              "engagementCount": 1
+            }
+          ]
+        },
+        {
+          "title": "PS3 emulation is fast on ARM now",
+          "url": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
+          "summary": "L'émulation PlayStation 3 peut désormais fonctionner avec des performances élevées sur les processeurs à architecture ARM. Ce développement permet à l'émulateur de console de jeu RPCS3 de fournir des résultats plus efficaces sur du matériel basé sur ARM tel qu'Apple Silicon.",
+          "meta": "17 votes · 5 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ykzv1a/ps3_emulation_is_fast_on_arm_now",
+              "popularity": 17,
+              "engagementCount": 5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "reinforcement learning agent",
+      "explanation": "Une unité logicielle qui apprend à prendre la bonne décision en remportant des récompenses par essais et erreurs."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Capacité à résoudre des problèmes complexes par étapes logiques et à établir des systèmes fonctionnels."
+    },
+    {
+      "term": "skills",
+      "explanation": "Connaissances pratiques et capacités à effectuer un travail."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "L’ensemble des capacités dont l’intelligence artificielle a besoin pour prendre des décisions et agir de manière autonome."
+    },
+    {
+      "term": "graph-native infrastructure",
+      "explanation": "Une structure de stockage de données spéciale qui maintient des connexions directes entre les données."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Intelligence artificielle avancée capable de parler et d'écrire comme un humain en examinant d'énormes textes sur Internet."
+    },
+    {
+      "term": "swarm intelligence",
+      "explanation": "De nombreuses unités simples se rassemblent et agissent comme un seul système intelligent."
+    },
+    {
+      "term": "API",
+      "explanation": "Un pont qui permet à deux logiciels différents de communiquer entre eux et de partager des données."
+    },
+    {
+      "term": "environment variables",
+      "explanation": "Petits identifiants contenant les paramètres et les informations confidentielles dont les programmes ont besoin lors de leur exécution."
+    },
+    {
+      "term": "task runner",
+      "explanation": "Outil utilitaire qui exécute automatiquement les tâches logicielles répétitives de manière séquentielle."
+    },
+    {
+      "term": "autonomous AI agents",
+      "explanation": "Des intelligences artificielles qui prennent et mettent en œuvre leurs propres décisions conformément à leurs objectifs sans intervention humaine."
+    },
+    {
+      "term": "core libraries",
+      "explanation": "Packages de code prêts à l'emploi nécessaires à un logiciel pour exécuter ses fonctions de base."
+    },
+    {
+      "term": "caching",
+      "explanation": "Processus de stockage temporaire des données fréquemment utilisées en mémoire pour un accès rapide."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Logiciel conçu pour effectuer des tâches spécifiques et capable de prendre des décisions intelligentes."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Héberger un service sur votre propre ordinateur ou serveur plutôt que sur le serveur de quelqu'un d'autre."
+    },
+    {
+      "term": "durable objects",
+      "explanation": "Petits logiciels qui s'exécutent en permanence sur Internet et peuvent stocker des données sans perdre leur état."
+    }
+  ]
+}
