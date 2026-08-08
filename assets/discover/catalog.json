@@ -3025,7 +3025,7 @@
     "slug": "skills",
     "title": "Skills",
     "tagline": "Google tarafından geliştirilen yetenekler (skills) kütüphanesi, yapay zekâ ajanlarının Google ürünleri ve teknolojileriyle…",
-    "meta": "★ 15.389 · Python",
+    "meta": "★ 16.451 · Python",
     "image": "/assets/discover/og/skills.webp",
     "source": "GitHub",
     "date": "2026-06-09",
@@ -3033,7 +3033,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 15389,
+    "stars": 16451,
     "lite": false,
     "headline": "Yapay zekâ ajanlarını Google ile güçlendirin",
     "last_review": "2026-08-08",
@@ -3042,6 +3042,11 @@
         "tarih": "2026-08-02",
         "yildiz": 15389,
         "onceki_yildiz": 12675
+      },
+      {
+        "tarih": "2026-08-08",
+        "yildiz": 16451,
+        "onceki_yildiz": 15389
       }
     ],
     "tagline_en": "The skills library developed by Google allows artificial intelligence agents to use Google products and technologies.",
@@ -3405,7 +3410,7 @@
     "slug": "skillspector",
     "title": "SkillSpector",
     "tagline": "NVIDIA tarafından geliştirilen SkillSpector, yapay zekâ ajanlarına ait yetenek paketlerindeki (skills) güvenlik açıklarını ve…",
-    "meta": "★ 14.313 · Python",
+    "meta": "★ 14.370 · Python",
     "image": "/assets/discover/og/skillspector.webp",
     "source": "GitHub",
     "date": "2026-06-12",
@@ -3413,7 +3418,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 14313,
+    "stars": 14370,
     "lite": false,
     "headline": "Yapay zekâ yeteneklerini güvenli kılın",
     "last_review": "2026-08-08",
@@ -3438,6 +3443,13 @@
         "onceki_yildiz": 14260,
         "surum": "v2.8.1",
         "surum_tarihi": "2026-08-07"
+      },
+      {
+        "tarih": "2026-08-08",
+        "yildiz": 14370,
+        "onceki_yildiz": 14313,
+        "surum": "v2.8.2",
+        "surum_tarihi": "2026-08-08"
       }
     ],
     "tagline_en": "Developed by NVIDIA, SkillSpector detects vulnerabilities and vulnerabilities in the skill packages of artificial intelligence agents.",
@@ -4421,14 +4433,14 @@
     "slug": "openwa",
     "title": "OpenWA",
     "tagline": "OpenWA, WhatsApp mesajlaşma protokolü için ücretsiz ve açık kaynaklı bir ağ geçidi (API gateway) çözümü sunuyor.",
-    "meta": "★ 12.544 · TypeScript",
+    "meta": "★ 12.552 · TypeScript",
     "image": "/assets/discover/og/openwa.webp",
     "source": "GitHub",
     "date": "2026-06-17",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 12544,
+    "stars": 12552,
     "lite": false,
     "headline": "WhatsApp için açık kaynaklı ağ geçidi",
     "last_review": "2026-08-08",
@@ -4466,6 +4478,13 @@
         "yildiz": 12544,
         "onceki_yildiz": 12503,
         "surum": "v0.14.5",
+        "surum_tarihi": "2026-08-08"
+      },
+      {
+        "tarih": "2026-08-08",
+        "yildiz": 12552,
+        "onceki_yildiz": 12544,
+        "surum": "v0.14.6",
         "surum_tarihi": "2026-08-08"
       }
     ],
@@ -8462,7 +8481,7 @@
     "slug": "tencentdb-agent-memory",
     "title": "TencentDB-Agent-Memory",
     "tagline": "TencentDB Agent Memory, yapay zekâ ajanları için dört aşamalı bir süreçle tamamen yerel uzun süreli bellek (long-term memory)…",
-    "meta": "★ 16.699 · TypeScript",
+    "meta": "★ 17.887 · TypeScript",
     "image": "/assets/discover/og/tencentdb-agent-memory.webp",
     "source": "GitHub",
     "date": "2026-07-09",
@@ -8470,7 +8489,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 16699,
+    "stars": 17887,
     "lite": false,
     "headline": "Yapay zekâ ajanları için katmanlı bellek",
     "last_review": "2026-08-08",
@@ -8500,6 +8519,13 @@
         "tarih": "2026-08-07",
         "yildiz": 16699,
         "onceki_yildiz": 15363,
+        "surum": "v2.0.0",
+        "surum_tarihi": "2026-08-03"
+      },
+      {
+        "tarih": "2026-08-08",
+        "yildiz": 17887,
+        "onceki_yildiz": 16699,
         "surum": "v2.0.0",
         "surum_tarihi": "2026-08-03"
       }
@@ -12253,7 +12279,7 @@
     "slug": "reverse-skill",
     "title": "Reverse Skill",
     "tagline": "Reverse-skill, tersine mühendislik ve sızma testi süreçleri için yapay zekâ destekli bir yönlendirme paketi (routing pack)…",
-    "meta": "★ 20.511 · PowerShell",
+    "meta": "★ 20.865 · PowerShell",
     "image": "/assets/discover/og/reverse-skill.webp",
     "source": "GitHub",
     "date": "2026-08-01",
@@ -12261,7 +12287,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 20511,
+    "stars": 20865,
     "lite": false,
     "headline": "Sızma testleri için yapay zekâ yönlendirme",
     "last_review": "2026-08-08",
@@ -12300,6 +12326,13 @@
         "onceki_yildiz": 19315,
         "surum": "v1.0.0",
         "surum_tarihi": "2026-07-17"
+      },
+      {
+        "tarih": "2026-08-08",
+        "yildiz": 20865,
+        "onceki_yildiz": 20511,
+        "surum": "v1.0.1",
+        "surum_tarihi": "2026-08-08"
       }
     ],
     "tagline_en": "An artificial intelligence-supported routing package for reverse-skill, reverse engineering and penetration testing processes…",
@@ -12604,7 +12637,7 @@
     "slug": "deepseek-reasonix",
     "title": "DeepSeek-Reasonix",
     "tagline": "DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel alan bir yapay zekâ kodlama ajanıdır.",
-    "meta": "★ 32.884 · Go",
+    "meta": "★ 33.009 · Go",
     "image": "/assets/discover/og/deepseek-reasonix.webp",
     "source": "GitHub",
     "date": "2026-08-03",
@@ -12612,7 +12645,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 32884,
+    "stars": 33009,
     "lite": false,
     "headline": "Terminal için yapay zekâ kodlama ajanı",
     "last_review": "2026-08-08",
@@ -12658,6 +12691,13 @@
         "onceki_yildiz": 32650,
         "surum": "desktop-v1.21.2",
         "surum_tarihi": "2026-08-07"
+      },
+      {
+        "tarih": "2026-08-08",
+        "yildiz": 33009,
+        "onceki_yildiz": 32884,
+        "surum": "desktop-v1.21.3",
+        "surum_tarihi": "2026-08-08"
       }
     ],
     "tagline_en": "DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models.",
@@ -12971,7 +13011,7 @@
     "slug": "computer",
     "title": "Computer",
     "tagline": "Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel veya uzak bir bilgisayarı kontrol etme yeteneği…",
-    "meta": "★ 4.985 · TypeScript",
+    "meta": "★ 6.192 · TypeScript",
     "image": "/assets/discover/og/computer.webp",
     "source": "GitHub",
     "date": "2026-08-06",
@@ -12979,7 +13019,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4985,
+    "stars": 6192,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına bilgisayar kontrolü",
     "last_review": "2026-08-08",
@@ -12989,6 +13029,11 @@
         "tarih": "2026-08-07",
         "yildiz": 4985,
         "onceki_yildiz": 3677
+      },
+      {
+        "tarih": "2026-08-08",
+        "yildiz": 6192,
+        "onceki_yildiz": 4985
       }
     ],
     "tagline_fr": "Développé par Cloudflare, Computer donne aux agents d'intelligence artificielle la possibilité de contrôler un ordinateur local ou distant."
