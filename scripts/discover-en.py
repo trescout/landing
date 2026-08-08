@@ -299,7 +299,11 @@ def build(slug, cat, chrome):
 
     canon_en = f"{BASE}{D['onek']}/discover/{slug}/"
     canon_tr = f"{BASE}/discover/{slug}/"
-    ogimg = f"{BASE}/assets/discover/og/{slug}.webp"
+    # Kapak metni GÖRSELE gömülü · o dilin kapağı varsa onu ver, yoksa Türkçe
+    # kaynağa düş (çeviri henüz geçmemiş yeni kayıt). Bkz. kapak-gorselleri.py
+    _kapak = os.path.join(ROOT, "assets", "discover", "og", f"{slug}-{LANG}.webp")
+    ogimg = (f"{BASE}/assets/discover/og/{slug}-{LANG}.webp"
+             if os.path.exists(_kapak) else f"{BASE}/assets/discover/og/{slug}.webp")
     tagline_en = c.get("tagline_en") or lead
     ld = json.dumps({
         "@context": "https://schema.org", "@type": "Article", "headline": title, "inLanguage": "en",

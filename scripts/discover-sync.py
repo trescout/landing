@@ -104,7 +104,11 @@ def related_terms(summary):
     return hits[:5]
 
 # ---- marka kart (font fallback: SF Pro → DejaVu → atla) ----
-def make_card(slug,title,tagline,stars,lang,out):
+def make_card(slug,title,tagline,stars,lang,out,dil="tr"):
+    """Marka kapak kartı (1200×630) · metin GÖRSELE gömülü olduğu için dile bağlı.
+    2026-08-08'e kadar tek dosya üretiliyordu ve İngilizce/Fransızca sayfalarda
+    da Türkçe etiket + Türkçe tanıtım cümlesi + Türkçe sayı biçimi görünüyordu.
+    Paylaşımda çıkan OG görseli de buydu."""
     try:
         from PIL import Image,ImageDraw,ImageFont
     except Exception:
@@ -139,12 +143,15 @@ def make_card(slug,title,tagline,stars,lang,out):
     d.rounded_rectangle([x+20*k,y+56*k,x+80*k,y+67*k],radius=2,fill=YELLOW)
     d.rounded_rectangle([x+44.5*k,y+56*k,x+55.5*k,y+84*k],radius=2,fill=YELLOW)
     d.text((PAD+68,PAD+8),"TreScout",font=f(30,700),fill=WHITE)
-    d.text((PAD,PAD+78),"KEŞİF · GİTHUB",font=f(20,700),fill=YELLOW)
+    ETIKET={"tr":"KEŞİF · GİTHUB","en":"DISCOVER · GITHUB","fr":"DÉCOUVRIR · GITHUB"}
+    BINLIK={"tr":".","en":",","fr":"\u00a0"}
+    YEDEK={"tr":"TreScout Keşif","en":"TreScout Discover","fr":"TreScout Découvrir"}
+    d.text((PAD,PAD+78),ETIKET.get(dil,ETIKET["tr"]),font=f(20,700),fill=YELLOW)
     tf=f(64,800);tl=wrap(d,title,tf,W-2*PAD,2)
     for i,ln in enumerate(tl):d.text((PAD,PAD+128+i*74),ln,font=tf,fill=WHITE)
     gy=PAD+128+len(tl)*74+8
     for ln in wrap(d,tagline,f(28,400),W-2*PAD,3):d.text((PAD,gy),ln,font=f(28,400),fill=LIGHT);gy+=40
-    foot=(f"★ {stars:,}".replace(',','.')+(f" · {lang}" if lang else "")) if stars else (lang or "TreScout Keşif")
+    foot=(f"★ {stars:,}".replace(',',BINLIK.get(dil,'.'))+(f" · {lang}" if lang else "")) if stars else (lang or YEDEK.get(dil,YEDEK["tr"]))
     d.text((PAD,H-PAD-30),foot,font=f(24,500),fill=BLUE)
     img.save(out,"WEBP",quality=86,method=6)
     return True

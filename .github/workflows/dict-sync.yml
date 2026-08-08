@@ -103,6 +103,14 @@ jobs:
       - name: Fransızca tanıtım metinleri (tagline_fr · kisa_fr)
         run: node scripts/translate-i18n.js --lang=fr
 
+      # Kapak görselleri · metin GÖRSELE gömülü olduğu için dile bağlı. Yeni
+      # kayıtların kapağı burada basılıyor; çevirisi geçmemiş kayıt atlanır ve
+      # sayfa Türkçe kapağa düşer (yarım çeviriyle görsel basmaktansa).
+      - name: Kapak görselleri (EN + FR)
+        run: |
+          python3 scripts/kapak-gorselleri.py --lang=en
+          python3 scripts/kapak-gorselleri.py --lang=fr
+
       - name: İngilizce sayfaları üret (keşif + sözlük)
         run: |
           python3 scripts/discover-en.py
@@ -120,7 +128,12 @@ jobs:
         run: |
           node scripts/build-en.js
           node scripts/build-en.js --lang=fr
-          python3 scripts/dil-anasayfa.py --lang=fr
+          # dil-anasayfa.py ARTIK ÇAĞRILMIYOR · Fransızca ana sayfa Türkçesinin
+          # tam çevirisi oldu ve elle bakılıyor (check-sayfa-paritesi.py
+          # denetliyor). Betik yeni diller için duruyor, tam sayfayı ezmiyor.
+          # Elle yazılan Fransızca sayfalar hiçbir üreticiden geçmiyor · menü
+          # değişince kabukları geride kalmasın diye tazeleyici koşuyor.
+          python3 scripts/dil-kabuk-tazele.py --lang=fr
 
       # Rapor arşivi sayfaları · rapor yayını (app · publish-report.ts) PDF ve
       # çevrilmiş JSON'u üretiyor, sayfaları burada basıyoruz. O dilin çevrilmiş
@@ -168,6 +181,9 @@ jobs:
       # 2026-08-06'da İngilizce sayfadan aydınlatma yapılmadan kayıt alındı.
       - name: Aydınlatma ve rıza kontrolü
         run: python3 scripts/check-consent-consistency.py
+
+      - name: Sayfa paritesi (diller arası yapı)
+        run: python3 scripts/check-sayfa-paritesi.py
 
       # Tazeleme yardımcı bir adım · GitHub API aksarsa asıl işi (içerik büyümesi
       # + commit) düşürmesin. 2026-08-02'de REST hız sınırı 403 döndü ve dört

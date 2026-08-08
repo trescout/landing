@@ -147,7 +147,20 @@ html = f"""<!DOCTYPE html>
 </html>
 """
 
+hedef = os.path.join(ROOT, LANG, "index.html")
+# TAM sayfa varsa ezme · 2026-08-08'de Fransızca ana sayfa Türkçesinin tam
+# çevirisi oldu (elle bakılıyor, check-sayfa-paritesi.py denetliyor). Bu betik
+# yalnız giriş sayfası basıyor; üstüne yazsaydı her günlük koşuda tam sayfa
+# silinirdi.
+# NOT · desen regex olmalı: id özniteliği class'tan SONRA geliyor
+# (<section class="section reveal" id="preview">). Düz metin araması
+# "<section id=" bunu kaçırıyordu ve koruma çalışmıyordu.
+if os.path.exists(hedef) and re.search(r'<section[^>]*\bid="', open(hedef, encoding="utf-8").read()):
+    raise SystemExit(
+        f"✗ {o}/index.html TAM sayfa görünüyor (bölümleri var) · üzerine yazılmadı.\n"
+        "  Bu betik yalnız giriş sayfası basar. Tam sayfa elle bakılıyor."
+    )
 os.makedirs(os.path.join(ROOT, LANG), exist_ok=True)
-with open(os.path.join(ROOT, LANG, "index.html"), "w", encoding="utf-8") as f:
+with open(hedef, "w", encoding="utf-8") as f:
     f.write(html)
 print(f"Üretildi · {o}/index.html")

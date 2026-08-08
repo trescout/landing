@@ -1,54 +1,469 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>TreScout · TreScout analyse, résume et livre. Vous n'avez qu'à lire.</title>
-<meta name="description" content="Chaque jour, TreScout parcourt GitHub, Hacker News, HuggingFace et Lobsters, retient ce qui compte et le rassemble dans un seul rapport.">
-<link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="canonical" href="https://trescout.com/fr/">
-<link rel="alternate" hreflang="tr" href="https://trescout.com/">
-<link rel="alternate" hreflang="en" href="https://trescout.com/en/">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TreScout · la veille technologique n'est plus une corvée.</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="apple-touch-icon" href="/brand-mark.png">
+  <meta name="theme-color" content="#0F1929">
+  <meta name="description" content="La veille technologique n'est plus une corvée. TreScout parcourt GitHub, Hacker News et HuggingFace chaque jour, résume l'essentiel et vous l'envoie dans un seul rapport.">
+  <link rel="canonical" href="https://trescout.com/fr/">
+  <link rel="alternate" hreflang="tr" href="https://trescout.com/">
+  <link rel="alternate" hreflang="en" href="https://trescout.com/en/">
 <link rel="alternate" hreflang="fr" href="https://trescout.com/fr/">
-<link rel="alternate" hreflang="x-default" href="https://trescout.com/en/">
-<meta property="og:title" content="TreScout">
-<meta property="og:description" content="Chaque jour, TreScout parcourt GitHub, Hacker News, HuggingFace et Lobsters, retient ce qui compte et le rassemble dans un seul rapport.">
-<meta property="og:url" content="https://trescout.com/fr/">
-<meta property="og:type" content="website">
-<meta property="og:locale" content="fr_FR">
-<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/site.css">
-<link rel="stylesheet" href="/assets/discover.css">
-<!-- index.css · aydınlatma modal'ının ve onay ipucunun biçimleri burada -->
-<link rel="stylesheet" href="/assets/index.css">
+  <link rel="alternate" hreflang="x-default" href="https://trescout.com/">
+  <meta property="og:title" content="TreScout · la veille technologique n'est plus une corvée.">
+  <meta property="og:description" content="Un radar technologique quotidien : GitHub, Hacker News et HuggingFace, analysés et résumés chaque jour.">
+  <meta property="og:url" content="https://trescout.com/fr/">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:image" content="https://trescout.com/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="TreScout · Tech monitoring is no longer a burden.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@GetTreScout">
+  <meta name="twitter:title" content="TreScout · la veille technologique n'est plus une corvée.">
+  <meta name="twitter:description" content="Un radar technologique quotidien : GitHub, Hacker News et HuggingFace, analysés et résumés chaque jour.">
+  <meta name="twitter:image" content="https://trescout.com/og-image.png">
+
+  <!-- Structured data · Organization + WebSite (Google Knowledge Graph) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://trescout.com/#organization",
+        "name": "TreScout",
+        "url": "https://trescout.com/en/",
+        "logo": "https://trescout.com/favicon.svg",
+        "image": "https://trescout.com/og-image.png",
+        "description": "TreScout scans GitHub, Hacker News, and HuggingFace daily, filters the noise with multi-agent AI, and delivers concise digests.",
+        "email": "hello@trescout.com",
+        "sameAs": [
+          "https://x.com/GetTreScout"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://trescout.com/#website",
+        "url": "https://trescout.com/en/",
+        "name": "TreScout",
+        "description": "Tech monitoring is no longer a burden.",
+        "publisher": { "@id": "https://trescout.com/#organization" },
+        "inLanguage": "en-US"
+      }
+    ]
+  }
+  </script>
+  <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="/assets/index.css">
 </head>
 <body>
-<a class="skip-link" href="#main">Aller au contenu principal</a>
-<nav><div class="container nav-inner"><a class="logo-link" href="/fr/" aria-label="TreScout"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/fr/discover/" class="btn btn-ghost">Découvrir</a><a href="/fr/dictionary/" class="btn btn-ghost">Glossaire</a><a href="/fr/reports/" class="btn btn-ghost">Archive des rapports</a><a href="/" class="btn btn-ghost" aria-label="TR">TR</a><a href="/en/" class="btn btn-ghost" aria-label="EN">EN</a></div></div></nav>
-<main id="main">
-<div class="container container-pad" id="top">
-  <div class="disc-index-hero">
-    <div class="disc-eyebrow">TreScout</div>
-    <h1 class="disc-index-title">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</h1>
-    <p class="disc-index-lead">Chaque jour, TreScout parcourt GitHub, Hacker News, HuggingFace et Lobsters, retient ce qui compte et le rassemble dans un seul rapport.</p>
-  </div>
+  <span id="top" aria-hidden="true"></span>
+  <a class="skip-link" href="#main">Aller au contenu principal</a>
 
-  <h2 class="lang-home-h2">Ce que vous trouverez ici</h2>
-  <div class="disc-grid lang-home-grid"><a class="disc-card lang-home-card" href="/fr/discover/"><div class="disc-card-body"><h2 class="disc-card-title">Découvrir</h2><p class="disc-card-tag">Les outils open source repérés chaque jour, expliqués simplement.</p></div></a><a class="disc-card lang-home-card" href="/fr/dictionary/"><div class="disc-card-body"><h2 class="disc-card-title">Glossaire</h2><p class="disc-card-tag">Les termes techniques d'aujourd'hui, définis en langage clair.</p></div></a></div>
+  <!-- ============== NAV ============== -->
+  <nav><div class="container nav-inner"><a class="logo-link" href="/fr/" aria-label="TreScout"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/fr/discover/" class="btn btn-ghost">Découvrir</a><a href="/fr/dictionary/" class="btn btn-ghost">Glossaire</a><a href="/fr/reports/" class="btn btn-ghost">Archive des rapports</a><a href="/fr/compare/rss-vs-ai/" class="btn btn-ghost">Comparer</a><a href="/" class="btn btn-ghost" aria-label="TR">TR</a><a href="/en/" class="btn btn-ghost" aria-label="EN">EN</a></div></div></nav>
 
-  <aside class="disc-cta"><p><strong>Recevez le rapport quotidien dès l'ouverture.</strong></p><form class="cta-form disc-cta-form js-subscribe" data-source="home-fr" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required aria-describedby="consent-hint" data-needs-consent><span>J'ai lu <a href="/fr/privacy.html" data-privacy-modal>la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span><span id="consent-hint" class="form-consent-hint">Veuillez lire la notice de confidentialité pour donner votre consentement.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form></aside>
-  <p class="lang-home-note">Les pages françaises sont traduites automatiquement à partir de l'original turc · en cas de doute, la version turque fait foi.</p>
-</div>
-</main>
-<footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer>
-<div class="privacy-modal" id="privacy-modal" role="dialog" aria-modal="true" aria-labelledby="privacy-modal-title" aria-hidden="true">
+  <main id="main">
+
+  <!-- ============== HERO ============== -->
+  <section class="hero">
+    <div class="container hero-content">
+      <div class="hero-text">
+        <h1>La veille technique <span class="accent">n'est plus une corvée.</span></h1>
+        <p class="mid-line">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p>
+        <p class="sub-line">GitHub, Hacker News, HuggingFace et plus encore. À votre rythme, quand vous le souhaitez.</p>
+
+        <form class="cta-form js-subscribe" data-source="hero-fr" novalidate>
+          <div class="form-row">
+            <input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required>
+            <button class="btn btn-primary btn-large" type="submit">Accès anticipé</button>
+          </div>
+          <label class="form-consent">
+            <input type="checkbox" name="consent" required aria-describedby="consent-hint" data-needs-consent>
+            <span>J'ai lu <a href="/fr/privacy.html" data-privacy-modal>la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span>
+            <span id="consent-hint" class="form-consent-hint">Veuillez lire la notice de confidentialité pour donner votre consentement.</span>
+          </label>
+          <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
+        </form>
+        <p class="hero-note">Rejoignez la liste d'accès anticipé. Vous serez averti lors du lancement de TreScout. Zéro encombrement.</p>
+        <!-- STATUS · ties the future-tense copy below to what actually runs today -->
+        <p class="hero-status">Aujourd'hui : nous construisons et publions un rapport chaque jour dans l'<a href="/fr/reports/">archive</a>. L'envoi d'e-mails, la sélection d'heures et les filtres de sujets arrivent avec un accès anticipé.</p>
+      </div>
+
+      <aside class="hero-visual" aria-hidden="true">
+        <p class="hero-visual-label">À quoi ressemble un résumé d'e-mail TreScout ?</p>
+        <div class="email-client">
+          <div class="email-client-chrome">
+            <div class="email-client-dots">
+              <span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
+            </div>
+            <div class="email-client-tab">Boîte de réception</div>
+            <div class="email-client-actions">
+              <span class="action-icon">↻</span>
+              <span class="action-icon">⋯</span>
+            </div>
+          </div>
+          <div class="email-client-body">
+            <div class="email-meta-bar">
+              <div class="email-sender">
+                <div class="email-avatar">
+                  <svg width="36" height="36" viewBox="0 0 100 100" aria-hidden="true">
+                    <rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/>
+                    <path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.4" stroke-linecap="round"/>
+                    <path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.6" stroke-linecap="round"/>
+                    <path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.9" stroke-linecap="round"/>
+                    <rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/>
+                    <rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/>
+                  </svg>
+                </div>
+                <div class="email-sender-info">
+                  <div class="email-sender-name">TreScout</div>
+                  <div class="email-sender-address">hello@trescout.com</div>
+                </div>
+              </div>
+              <div class="email-time-block">
+                <span class="email-time">07:00</span>
+                <span class="email-star">★</span>
+              </div>
+            </div>
+
+            <div class="email-subject-line">
+              <span class="email-label">📬 Quotidiennement</span>
+              <span class="email-subject">Rapport TreScout · 4 août 2026</span>
+            </div>
+
+            <div class="email-body-content">
+              <div class="mini-yudum">
+                <div class="mini-yudum-label">Note de synthèse</div>
+                <p class="mini-yudum-body">Les outils automatisant l'analyse du code et les capacités de recherche universitaire sont au cœur de l'écosystème des développeurs d'aujourd'hui. Les programmes d'études d'ingénierie de l'IA open source et les modèles d'interaction CLI-first montrent une nette volonté de l'industrie d'atteindre un débit maximal pour les développeurs.</p>
+              </div>
+
+              <p class="mini-cta">Les éléments de tendances complets, les liens vers les sources directes et le dictionnaire des termes techniques sont joints au PDF.</p>
+
+              <div class="mini-more">
+                <span class="mini-more-icon">📎</span>
+                <span class="mini-more-text">rapport-trescout-<span class="pdf-date-token">2026-08-04</span>.pdf <span class="pdf-inline-badge">échantillon</span> <em>· 373 Ko</em></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ============== HOW IT WORKS ============== -->
+  <section class="section section-center reveal" id="how-it-works">
+    <div class="container">
+      <span class="eyebrow">Comment ça marche</span>
+      <h2 class="section-title">Votre rapport technique quotidien, étape par étape.</h2>
+      <p class="section-lead">Le rapport est préparé automatiquement tous les soirs et arrive dans votre boîte de réception à l'heure indiquée.</p>
+
+      <div class="pipeline">
+        <div class="step">
+          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><path d="M3 16a9 9 0 0 1 18 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".3"/><path d="M6.5 16a5.5 5.5 0 0 1 11 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".55"/><path d="M10 16a2 2 0 0 1 4 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".85"/><circle cx="12" cy="19.5" r="1.7" fill="#F4D35E"/></svg></div>
+          <span class="step-number">01</span>
+          <h3>Balayage</h3>
+          <p>Récupère quotidiennement les meilleurs moments de GitHub Trending, Hacker News, HuggingFace et des documents de recherche.</p>
+          <div class="step-chips" aria-hidden="true"><span>GitHub</span><span>Hacker News</span><span>HuggingFace</span><span>Homard.rs</span></div>
+        </div>
+        <div class="step">
+          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><path d="M4 6h16M4 10.5h13.5M4 15h15" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".45"/><path d="M4 19.5h7" stroke="#F4D35E" stroke-width="2.2" stroke-linecap="round"/></svg></div>
+          <span class="step-number">02</span>
+          <h3>Résumer</h3>
+          <p>Rédige un résumé court et lisible. Les termes techniques sont conservés entre parenthèses et expliqués dans le glossaire à la fin du rapport.</p>
+          <p class="step-sample" aria-hidden="true">«…interface de ligne de commande <span class="step-sample-term">(CLI)</span> interaction motivée… »</p>
+        </div>
+        <div class="step">
+          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><rect x="3" y="5.5" width="18" height="13" rx="2.5" stroke="#5FA8D3" stroke-width="1.6" opacity=".55"/><path d="M4.6 8 12 13.2 19.4 8" stroke="#F4D35E" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+          <span class="step-number">03</span>
+          <h3>Livrer</h3>
+          <p>Arrive sous forme d'e-mail clair et de PDF joint à l'heure que vous avez choisie. Ouvrez et lisez dès que vous êtes prêt.</p>
+          <div class="step-chips" aria-hidden="true"><span class="step-chip-accent">07:00</span><span>PDF</span><span>Boîte de réception</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============== REPORT PREVIEW ============== -->
+  <section class="section reveal" id="preview">
+    <div class="container">
+      <div class="preview-split">
+        <div class="preview-text">
+          <span class="eyebrow">Rapport PDF</span>
+          <h2 class="section-title">Rapport complet, lecture sans effort.</h2>
+          <p class="section-lead">L'e-mail fournit un résumé rapide ; toutes les tendances approfondies, les liens sources et le dictionnaire technique arrivent dans une pièce jointe PDF propre.</p>
+          <ul class="bullet-list">
+            <li><span class="bullet-icon">📄</span><span><strong>Faits saillants du jour</strong> regroupés par source (GitHub, Hacker News, HuggingFace…)</span></li>
+            <li><span class="bullet-icon">📚</span><span><strong>Dictionnaire technique</strong>· Définitions en langage simple pour les termes modernes de l'IA et des logiciels</span></li>
+            <li><span class="bullet-icon">🗂️</span><span><strong>Archivable</strong>· Rapports PDF téléchargeables propres pour vos archives permanentes</span></li>
+            <li><span class="bullet-icon">🔗</span><span><strong>Liens sources cliquables</strong>· Liens directs vers les dépôts, les documents et les cartes modèles</span></li>
+          </ul>
+          <a class="preview-archive-cta" href="/reports/">
+            <span class="pac-live" id="js-arch-badge">EN DIRECT</span>
+            <span class="pac-msg"><strong>Ceci est un échantillon.</strong> Nous générons des rapports quotidiennement ·<span class="pac-go">voir les archives →</span></span>
+          </a>
+        </div>
+
+        <div class="pdf-card">
+          <div class="pdf-carousel" role="region" aria-label="Exemples de pages de rapport · 6 pages">
+            <div class="pdf-carousel-badge">Échantillon · 4 août 2026</div>
+            <div class="pdf-carousel-track">
+              <a href="/sample-report.pdf#page=1" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 1 / 6 · Couverture · ouvrir dans un nouvel onglet">
+                <img src="/assets/sample-pages/page-1.webp" alt="Couverture · Tendances technologiques d'aujourd'hui" width="1192" height="1686" loading="lazy" decoding="async">
+                <span class="pdf-carousel-pageno">1 / 6</span>
+              </a>
+              <a href="/sample-report.pdf#page=2" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 2 / 6 · Note de synthèse + Tendances GitHub">
+                <img src="/assets/sample-pages/page-2.webp" alt="Résumé du résumé et tendances GitHub" width="1192" height="1686" loading="lazy" decoding="async">
+                <span class="pdf-carousel-pageno">2 / 6</span>
+              </a>
+              <a href="/sample-report.pdf#page=3" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 3 / 6 · Tendances GitHub · projets 7 à 12">
+                <img src="/assets/sample-pages/page-3.webp" alt="Tendances GitHub · projets 7 à 12" width="1192" height="1686" loading="lazy" decoding="async">
+                <span class="pdf-carousel-pageno">3 / 6</span>
+              </a>
+              <a href="/sample-report.pdf#page=4" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 4 / 6 · Tendances GitHub · projets 13-17">
+                <img src="/assets/sample-pages/page-4.webp" alt="Tendances GitHub · projets 13-17" width="1192" height="1686" loading="lazy" decoding="async">
+                <span class="pdf-carousel-pageno">4 / 6</span>
+              </a>
+              <a href="/sample-report.pdf#page=5" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 5 / 6 · Faits saillants de Hacker News">
+                <img src="/assets/sample-pages/page-5.webp" alt="Hacker News · principales discussions de la communauté" width="1192" height="1686" loading="lazy" decoding="async">
+                <span class="pdf-carousel-pageno">5 / 6</span>
+              </a>
+              <a href="/sample-report.pdf#page=6" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 6 / 6 · Modèles tendances HuggingFace">
+                <img src="/assets/sample-pages/page-6.webp" alt="HuggingFace · modèles open source tendances" width="1192" height="1686" loading="lazy" decoding="async">
+                <span class="pdf-carousel-pageno">6 / 6</span>
+              </a>
+            </div>
+            <div class="pdf-carousel-hint">← faire défiler · les 6 pages →</div>
+          </div>
+          <div class="pdf-action">
+            <div class="pdf-action-info">
+              <div class="pdf-action-title">📎 rapport-trescout-<span class="pdf-date-token">2026-08-04</span>.pdf <span class="pdf-inline-badge">échantillon</span></div>
+              <div class="pdf-action-meta">Rapport du 4 août 2026 · échantillon · 373 Ko</div>
+            </div>
+            <a class="pdf-action-btn" href="/sample-report.pdf" download="trescout-report-sample.pdf" aria-label="Télécharger un exemple de rapport">Télécharger</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============== DETAILED VIEW · 4 tabs ============== -->
+  <section class="section section-center reveal" id="details">
+    <div class="container">
+      <span class="eyebrow">Vue détaillée</span>
+      <h2 class="section-title">Tout ce dont vous avez besoin, d'un seul coup d'œil.</h2>
+
+      <div class="tabs" role="tablist" aria-label="Onglets de détail">
+        <button class="tab" role="tab" aria-selected="true" aria-controls="tabpanel-neden" id="tab-neden" tabindex="0">Pourquoi TreScout</button>
+        <button class="tab" role="tab" aria-selected="false" aria-controls="tabpanel-ozellikler" id="tab-ozellikler" tabindex="-1">Caractéristiques</button>
+        <button class="tab" role="tab" aria-selected="false" aria-controls="tabpanel-ilk-surum" id="tab-ilk-surum" tabindex="-1">Version 1.0</button>
+        <button class="tab" role="tab" aria-selected="false" aria-controls="tabpanel-sonraki-alan" id="tab-sonraki-alan" tabindex="-1">Futurs secteurs verticaux</button>
+      </div>
+
+      <!-- TAB · Why TreScout -->
+      <div class="tab-panel" role="tabpanel" id="tabpanel-neden" aria-labelledby="tab-neden">
+        <h3 class="panel-title">« Je pourrais demander à l’IA manuellement », pourriez-vous dire, mais…</h3>
+        <div class="diff-table">
+          <div class="row head">
+            <div></div>
+            <div>Analyse manuelle / Outils d'IA bruts</div>
+            <div>TreScout</div>
+          </div>
+          <div class="row">
+            <div>Déclenchement</div>
+            <div class="cross">Requête manuelle à chaque fois</div>
+            <div class="check">✓ Automatique, livré à l'heure prévue</div>
+          </div>
+          <div class="row">
+            <div>Multi-source</div>
+            <div class="cross">Ouvrir et rechercher des sites individuellement</div>
+            <div class="check">✓ GitHub unifié + Hacker News + HuggingFace…</div>
+          </div>
+          <div class="row">
+            <div>Glossaire technique</div>
+            <div class="cross">Le jargon se perd ou est à moitié traduit</div>
+            <div class="check">✓ Résumés structurés avec définitions des termes techniques joints</div>
+          </div>
+          <div class="row">
+            <div>Cohérence</div>
+            <div class="cross">Facile à oublier ou à manquer de temps pendant les journées de travail chargées</div>
+            <div class="check">✓ Livraison garantie directement dans votre boîte de réception</div>
+          </div>
+          <div class="row">
+            <div>Archive</div>
+            <div class="cross">Onglets de navigateur perdus</div>
+            <div class="check">✓ Des enregistrements historiques permanents dans votre boîte de réception</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TAB · Features -->
+      <div class="tab-panel" role="tabpanel" id="tabpanel-ozellikler" aria-labelledby="tab-ozellikler" hidden>
+        <h3 class="panel-title">Simple. Rapide. A votre rythme.</h3>
+        <div class="features-bento">
+          <div class="feature feature-hero">
+            <div class="feature-icon">⏰</div>
+            <h3>Planification flexible <span class="roadmap-live roadmap-soon">AVEC ACCÈS ANTICIPÉ</span></h3>
+            <p>Choisissez l'heure de livraison qui correspond à votre routine matinale. Lisez dès que vous êtes prêt.</p>
+            <div class="time-strip" aria-hidden="true">
+              <div class="time-strip-rail">
+                <span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span>
+                <span class="time-strip-thumb time-strip-thumb--0900">09:00</span>
+              </div>
+              <div class="time-strip-labels">
+                <span>00:00</span>
+                <span>06:00</span>
+                <span>12:00</span>
+                <span>18:00</span>
+                <span>24:00</span>
+              </div>
+              <div class="time-strip-note">Sélectionnez n'importe quelle minute de la journée · ce qui fonctionne pour vous, fonctionne pour TreScout.</div>
+            </div>
+          </div>
+
+          <div class="features-bento-side">
+            <div class="feature">
+              <div class="feature-icon">📄</div>
+              <h3>Rapport PDF</h3>
+              <p>Formaté, archivable, propre. Téléchargez-le dans votre coffre-fort ou lisez-le directement depuis un e-mail.</p>
+            </div>
+            <div class="feature">
+              <div class="feature-icon">📚</div>
+              <h3>Glossaire des termes techniques</h3>
+              <p>Les termes techniques mentionnés dans les résumés sont clairement définis à la fin de chaque rapport. Gardez une longueur d’avance sur la technologie en évolution rapide.</p>
+              <div class="term-list" aria-hidden="true">
+                <div class="term-row"><code>réglage fin</code><span class="term-arrow">→</span><span class="term-def">Personnalisation d'un modèle d'IA de base en s'entraînant sur vos données propriétaires</span></div>
+                <div class="term-row"><code>CHIFFON</code><span class="term-arrow">→</span><span class="term-def">Récupérer le contexte de votre pool de documents avant de générer des réponses</span></div>
+                <div class="term-row"><code>PCM</code><span class="term-arrow">→</span><span class="term-def">Protocole ouvert permettant aux agents IA de se connecter à des outils externes</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TAB · Version 1.0 -->
+      <div class="tab-panel" role="tabpanel" id="tabpanel-ilk-surum" aria-labelledby="tab-ilk-surum" hidden>
+        <div class="roadmap">
+          <div class="roadmap-track" aria-hidden="true"></div>
+
+          <div class="roadmap-item">
+            <div class="roadmap-dot">🎯</div>
+            <h3 class="roadmap-title">Filtres de sujets</h3>
+            <p>IA, Web, Mobile, DevOps, Green Software · recevez des résumés strictement adaptés à vos intérêts.</p>
+          </div>
+
+          <div class="roadmap-item">
+            <div class="roadmap-dot">🔁</div>
+            <h3 class="roadmap-title">Rapports dédupliqués <span class="roadmap-live">EN DIRECT</span></h3>
+            <p>Un dépôt déjà apparu dans un rapport n'apparaîtra plus, même s'il reste tendance. Seules les nouvelles découvertes et les mises à jour majeures arrivent.<a href="/fr/reports/fresh/">Voir le nouveau rapport d'aujourd'hui →</a></p>
+          </div>
+
+          <div class="roadmap-item">
+            <div class="roadmap-dot">📦</div>
+            <h3 class="roadmap-title">Voûte historique</h3>
+            <p>Vous venez d'être abonné ? Retrouvez les archives des tendances historiques dès le premier jour.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- TAB · Future Verticals -->
+      <div class="tab-panel" role="tabpanel" id="tabpanel-sonraki-alan" aria-labelledby="tab-sonraki-alan" hidden>
+        <h3 class="panel-title">Pas seulement la technologie.</h3>
+        <p class="panel-lead">TreScout commence par l'ingénierie logicielle, mais le moteur multi-agent sous-jacent s'adapte à tous les domaines en évolution rapide : revues médicales, mises à jour juridiques, réglementations du marché et actualités de l'industrie.</p>
+
+        <div class="vertical-cards">
+          <div class="vertical-card">
+            <div class="vertical-icon">🩺</div>
+            <h3>Médecine</h3>
+            <p>Nouveaux essais cliniques, mises à jour des lignes directrices, approbations de la FDA et percées médicales.</p>
+          </div>
+          <div class="vertical-card">
+            <div class="vertical-icon">📖</div>
+            <h3>Universitaire</h3>
+            <p>Augmentations d'articles ArXiv, explosions de citations, actes de conférences, glossaires de recherche.</p>
+          </div>
+          <div class="vertical-card">
+            <div class="vertical-icon">⚖️</div>
+            <h3>Loi</h3>
+            <p>Modifications législatives, décisions de justice, conformité et mises à jour réglementaires.</p>
+          </div>
+          <div class="vertical-card">
+            <div class="vertical-icon">🏪</div>
+            <h3>PME/Entreprise</h3>
+            <p>Tendances du secteur, actualités des concurrents, mises à jour des réglementations fiscales et commerciales.</p>
+          </div>
+        </div>
+
+        <div class="vertical-cta">
+          <p>Vous avez une suggestion de domaine ? Envoyez-nous un <a href="mailto:hello@trescout.com?subject=TreScout%20%C2%B7%20domain%20suggestion">e-mail</a>. Dites-nous quelles sources vous suivez quotidiennement ; votre expertise dans le domaine nous aide à créer plus rapidement des radars sur mesure.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============== COMMUNITY ============== -->
+  <section class="section section-center reveal" id="community">
+    <div class="container">
+      <h2 class="section-title"><span class="accent">Construisons ensemble</span></h2>
+      <div class="community-grid">
+        <a href="mailto:hello@trescout.com?subject=TreScout%20join%20team" class="community-card">
+          <div class="community-icon">🤝</div>
+          <div class="community-content">
+            <h3>Rejoignez l'équipe</h3>
+            <p>Vous croyez aux radars de connaissances automatisés ? Développeur, concepteur, chercheur ou créateur · contactez-nous et façonnez le produit avec nous.</p>
+            <span class="community-cta">bonjour@trescout.com →</span>
+          </div>
+        </a>
+
+        <a href="mailto:hello@trescout.com?subject=TreScout%20feedback" class="community-card">
+          <div class="community-icon">💬</div>
+          <div class="community-content">
+            <h3>Donner votre avis</h3>
+            <p>Vous avez trouvé un bug, vous avez une idée ou souhaitez une nouvelle fonctionnalité ? Nous lisons chaque message.</p>
+            <span class="community-cta">bonjour@trescout.com →</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============== FINAL CTA ============== -->
+  <section class="container" id="cta">
+    <div class="final-cta">
+      <h2>Livré à votre heure. Parfait pour le café du matin.</h2>
+      <p>La liste d’accès anticipé est ouverte. Soyez le premier à être averti au lancement.</p>
+      <form class="cta-form final-cta-form js-subscribe" data-source="final-cta-fr" novalidate>
+        <div class="form-row">
+          <input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required>
+          <button class="btn btn-primary btn-large" type="submit">Accès anticipé</button>
+        </div>
+        <label class="form-consent">
+          <input type="checkbox" name="consent" required>
+          <span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span>
+        </label>
+        <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
+      </form>
+    </div>
+  </section>
+
+  </main>
+
+  <!-- ============== FOOTER ============== -->
+  <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/compare/rss-vs-ai/">Comparer</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer><script src="/assets/index.js" defer></script><!-- VERCEL ANALYTICS --><script defer src="/_vercel/insights/script.js"></script>
+  <script defer src="/_vercel/speed-insights/script.js"></script><div class="privacy-modal" id="privacy-modal" role="dialog" aria-modal="true" aria-labelledby="privacy-modal-title" aria-hidden="true">
     <div class="privacy-modal-card">
       <div class="privacy-modal-head">
         <h2 id="privacy-modal-title">Notice de confidentialité</h2>
         <button type="button" class="privacy-modal-x" aria-label="Fermer">×</button>
       </div>
       <div class="privacy-modal-body">
-        <iframe class="privacy-modal-iframe" src="about:blank" title="Notice de confidentialité"></iframe>
+        <iframe class="privacy-modal-iframe" src="about:blank" title="Avis de confidentialité"></iframe>
       </div>
       <div class="privacy-modal-foot">
         <span class="privacy-modal-status" aria-live="polite">
@@ -59,8 +474,5 @@
       </div>
     </div>
   </div>
-<!-- index.js · form + scroll-gate modal. Her bölümü kendi elemanını bulamazsa
-     erken çıkıyor, bu yüzden ana sayfanın tamamı olmadan da güvenli. -->
-<script src="/assets/index.js" defer></script>
 </body>
 </html>
