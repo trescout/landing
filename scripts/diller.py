@@ -18,6 +18,8 @@ Yeni dil eklerken:
   5. trescout-app/lib/report/template.ts I18N paketine ekleyin (rapor PDF'i)
 """
 
+import re
+
 DILLER = {
     "en": {
         "kod": "en",
@@ -32,6 +34,9 @@ DILLER = {
         "nav": ["Discover", "Dictionary", "Reports Archive", "Compare"],
         "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
         "nav_cta": "Early Access",
+        # Dil değiştirme düğmeleri · (etiket, o dilin URL öneki). Sıra menüde
+        # göründüğü sıra. Hedef sayfa yoksa o dilin ana sayfasına düşer.
+        "dil_dugmeleri": [("TR", ""), ("FR", "/fr")],
         # Footer "Ürün" sütunu nav'dan bir fazla: ana sayfadaki "nasıl çalışır"
         # bölümü. O bölüm çevrilmemiş dillerde None olur.
         "footer_nasil": "How It Works",
@@ -209,6 +214,7 @@ DILLER = {
         "nav": ["Découvrir", "Glossaire", "Archive des rapports"],
         "nav_yollar": ["discover", "dictionary", "reports"],
         "nav_cta": "Accès anticipé",
+        "dil_dugmeleri": [("TR", ""), ("EN", "/en")],
         "footer_nasil": None,      # Türkçe ana sayfanın "nasıl çalışır" bölümü çevrilmedi
         "footer_urun": "Produit",
         "footer_iletisim": "Contact",
@@ -382,7 +388,7 @@ DILLER = {
 
 def nav_etiketleri(d):
     """Sayfada görünen nav etiketleri · guard'lar bunu bekler."""
-    return tuple(d["nav"]) + ("TR",)
+    return tuple(d["nav"]) + tuple(e for e, _ in d["dil_dugmeleri"])
 
 
 def footer_etiketleri(d):
@@ -412,10 +418,13 @@ def chrome(d, logo_svg):
     )
     # Nav'da erken erişim düğmesi YOK · İngilizce kabuk da böyle (kanonik kaynak
     # fix-all-headers-and-footers.js). Diller arasında desen aynı kalsın diye.
+    diller = "".join(
+        f'<a href="{onek}/" class="btn btn-ghost" aria-label="{etiket}">{etiket}</a>'
+        for etiket, onek in d["dil_dugmeleri"]
+    )
     nav = (f'<nav><div class="container nav-inner"><a class="logo-link" href="{o}/" aria-label="TreScout">'
            f'{logo_svg}<span>TreScout</span></a><div class="nav-actions">{nav_link}'
-           f'<a href="/discover/" class="btn btn-ghost" aria-label="Türkçe">TR</a>'
-           f'</div></div></nav>')
+           f'{diller}</div></div></nav>')
 
     nasil = (f'<li><a href="{o}/#how-it-works">{d["footer_nasil"]}</a></li>' if d.get("footer_nasil") else "")
     urun = nasil + "".join(f'<li><a href="{o}/{yol}/">{ad}</a></li>'
@@ -434,6 +443,47 @@ def chrome(d, logo_svg):
               f'</ul></div></div>'
               f'<div class="footer-bottom"><span>{d["footer_alt"]}</span></div></div></footer>')
     return nav, footer
+
+
+DIL_ONEK = {"TR": "", "EN": "/en", "FR": "/fr"}
+_DUGME = re.compile(r'<a href="[^"]*" class="btn btn-ghost" aria-label="[^"]*">(TR|EN|FR)</a>')
+
+
+def dil_dugmeleri_yaz(nav, hedefler):
+    """Nav'daki dil düğmelerini SAYFAYA ÖZEL yap.
+
+    hedefler: {"TR": "/dictionary/rag/", "EN": "/en/dictionary/rag/"} · sözlükte
+    olmayan etiket olduğu gibi bırakılır. 2026-08-07'ye kadar 885 İngilizce sayfa
+    kabuğun kopyalandığı örnek sayfanın bağlantısını taşıyordu
+    (/dictionary/action/) · düğme sayfaya özel olmalı.
+    """
+    def degis(m):
+        etiket = m.group(1)
+        hedef = hedefler.get(etiket)
+        if not hedef:
+            return m.group(0)
+        return f'<a href="{hedef}" class="btn btn-ghost" aria-label="{etiket}">{etiket}</a>'
+    return _DUGME.sub(degis, nav)
+
+
+def dil_hedefleri(bolum, slug, kok, atla=None):
+    """Bir sayfanın diğer dillerdeki karşılıkları · yoksa o dilin ana sayfası.
+
+    bolum: "dictionary" · "discover" · "reports" · "reports/fresh"
+    slug : terim/araç slug'ı ya da rapor tarihi · dizin sayfasında None
+    """
+    import os
+    TR_YOL = {"dictionary": "/dictionary", "discover": "/discover",
+              "reports": "/reports", "reports/fresh": "/reports/tekrarsiz"}
+    out = {}
+    for etiket, onek in DIL_ONEK.items():
+        if atla and etiket in atla:
+            continue
+        taban = TR_YOL[bolum] if onek == "" else f"{onek}/{bolum}"
+        yol = f"{taban}/{slug}/" if slug else f"{taban}/"
+        out[etiket] = yol if os.path.exists(os.path.join(kok, yol.strip("/"), "index.html")) \
+            else (f"{onek}/" if onek else "/")
+    return out
 
 
 def tarih_yaz(iso, d):

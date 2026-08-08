@@ -33,6 +33,13 @@ function translateText(text) {
    Önceden bu betik her çalıştığında 880 çağrı yapıyordu ve hiçbir iş akışında
    değildi · yeni girdiler İngilizce kartlarda TÜRKÇE görünüyordu (2026-08-07). */
 const LANG = (process.argv.find(a => a.startsWith('--lang=')) || '--lang=en').split('=')[1];
+// Çıplak argüman sessizce yutulmasın · dict-sync.yml'de bir süre
+// `translate-i18n.js fr` yazıyordu ve adım İngilizce koşuyordu (2026-08-08).
+const bilinmeyen = process.argv.slice(2).filter(a => !a.startsWith('--'));
+if (bilinmeyen.length) {
+  console.error(`✗ Tanınmayan argüman: ${bilinmeyen.join(' ')} · dil için --lang=fr kullanın.`);
+  process.exit(1);
+}
 const CACHE_PATH = path.join(ROOT, 'assets', 'discover', `${LANG}-cache.json`);
 let cache = {};
 try { cache = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8')); } catch { cache = {}; }

@@ -13139,7 +13139,8 @@
         "surum": "v0.7.1",
         "surum_tarihi": "2026-08-07"
       }
-    ]
+    ],
+    "tagline_fr": "Développé par PrimeIntellect, Prime-Agent est un outil autonome pour les processus de développement logiciel et les missions autonomes à long terme."
   },
   {
     "slug": "semantica",
@@ -13166,7 +13167,8 @@
         "surum": "v0.6.0",
         "surum_tarihi": "2026-07-21"
       }
-    ]
+    ],
+    "tagline_fr": "Semantica est une infrastructure graphique native qui fournit une gestion de données contextuelles pour les systèmes d'intelligence artificielle."
   },
   {
     "slug": "mise",
@@ -13194,7 +13196,8 @@
         "surum": "v2026.8.3",
         "surum_tarihi": "2026-08-07"
       }
-    ]
+    ],
+    "tagline_fr": "Mise combine des outils de développement logiciel, des variables d'environnement et des exécuteurs de tâches en un seul…"
   },
   {
     "slug": "swarm-forge",
@@ -13212,7 +13215,8 @@
     "lite": false,
     "headline": "Yapay zekâ ajanlarını koordine eden sistem",
     "tagline_en": "Written in Clojure language, Swarm Forge is a tool for coordinating multiple AI agents from a single center.",
-    "last_review": "2026-08-08"
+    "last_review": "2026-08-08",
+    "tagline_fr": "Écrit en langage Clojure, Swarm Forge est un outil permettant de coordonner plusieurs agents d'IA à partir d'un seul centre."
   },
   {
     "slug": "celld",
@@ -13238,7 +13242,8 @@
         "surum": "v0.1.0",
         "surum_tarihi": "2026-08-05"
       }
-    ]
+    ],
+    "tagline_fr": "Développé par Deno, Celld est un logiciel persistant et auto-hébergé…"
   },
   {
     "slug": "legendary-osint",
@@ -13257,7 +13262,8 @@
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
     "tagline_en": "Legendary_OSINT is a comprehensive tool for fraud investigators and cyber threat intelligence (CTI) analysts.",
-    "last_review": "2026-08-08"
+    "last_review": "2026-08-08",
+    "tagline_fr": "Legendary_OSINT est un outil complet destiné aux enquêteurs sur les fraudes et aux analystes de renseignements sur les cybermenaces (CTI)."
   },
   {
     "slug": "witr",
@@ -13283,6 +13289,7 @@
         "surum": "v0.3.3",
         "surum_tarihi": "2026-06-24"
       }
-    ]
+    ],
+    "tagline_fr": "Witr surveille les processus, les ports, les conteneurs ou les fichiers du système et détermine quelle source les a démarrés."
   }
 ]

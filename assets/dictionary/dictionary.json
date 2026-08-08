@@ -4388,7 +4388,8 @@
     "full": "",
     "cat": "ai",
     "kisa": "İnsan müdahalesi olmadan karar alıp görevleri kendi başına yerine getirebilen yapay zekâ yazılımlarıdır.",
-    "kisa_en": "They are artificial intelligence software that can make decisions and perform tasks on its own without human intervention."
+    "kisa_en": "They are artificial intelligence software that can make decisions and perform tasks on its own without human intervention.",
+    "kisa_fr": "Ce sont des logiciels d’intelligence artificielle capables de prendre des décisions et d’effectuer des tâches de manière autonome sans intervention humaine."
   },
   {
     "slug": "reinforcement-learning-agent",
@@ -4396,7 +4397,8 @@
     "full": "",
     "cat": "ai",
     "kisa": "Deneme yanılma yoluyla ödül kazanarak doğru kararları almayı öğrenen yazılım birimidir.",
-    "kisa_en": "It is a software unit that learns to make the right decisions by gaining rewards through trial and error."
+    "kisa_en": "It is a software unit that learns to make the right decisions by gaining rewards through trial and error.",
+    "kisa_fr": "Il s'agit d'une unité logicielle qui apprend à prendre les bonnes décisions en obtenant des récompenses par essais et erreurs."
   },
   {
     "slug": "graph-native-infrastructure",
@@ -4404,7 +4406,8 @@
     "full": "",
     "cat": "data",
     "kisa": "Veriler arasındaki doğrudan bağlantıları temel alarak tasarlanmış özel bir veri depolama yapısıdır.",
-    "kisa_en": "It is a special data storage structure designed based on direct connections between data."
+    "kisa_en": "It is a special data storage structure designed based on direct connections between data.",
+    "kisa_fr": "Il s'agit d'une structure spéciale de stockage de données conçue sur la base de connexions directes entre les données."
   },
   {
     "slug": "swarm-intelligence",
@@ -4412,7 +4415,8 @@
     "full": "",
     "cat": "ai",
     "kisa": "Basit yeteneklere sahip çok sayıda birimin bir araya gelerek tek bir akıllı sistem gibi davranmasıdır.",
-    "kisa_en": "It is the coming together of many units with simple capabilities and acting as a single intelligent system."
+    "kisa_en": "It is the coming together of many units with simple capabilities and acting as a single intelligent system.",
+    "kisa_fr": "Il s’agit du regroupement de nombreuses unités dotées de capacités simples et agissant comme un système intelligent unique."
   },
   {
     "slug": "environment-variables",
@@ -4420,7 +4424,8 @@
     "full": "",
     "cat": "dev",
     "kisa": "Programların çalışma anında ihtiyaç duyduğu ayarları ve gizli anahtarları tutan küçük tanımlayıcılardır.",
-    "kisa_en": "They are small identifiers that hold the settings and secret keys that programs need at run time."
+    "kisa_en": "They are small identifiers that hold the settings and secret keys that programs need at run time.",
+    "kisa_fr": "Ce sont de petits identifiants qui contiennent les paramètres et les clés secrètes dont les programmes ont besoin lors de l'exécution."
   },
   {
     "slug": "task-runner",
@@ -4428,7 +4433,8 @@
     "full": "",
     "cat": "dev",
     "kisa": "Tekrarlayan yazılım görevlerini otomatik olarak sırayla çalıştıran yardımcı araçtır.",
-    "kisa_en": "It is a utility tool that automatically runs repetitive software tasks sequentially."
+    "kisa_en": "It is a utility tool that automatically runs repetitive software tasks sequentially.",
+    "kisa_fr": "Il s'agit d'un outil utilitaire qui exécute automatiquement et séquentiellement des tâches logicielles répétitives."
   },
   {
     "slug": "durable-objects",
@@ -4436,6 +4442,7 @@
     "full": "",
     "cat": "dev",
     "kisa": "İnternet üzerinde sürekli çalışan ve durumunu kaybetmeden veri saklayabilen küçük yazılım birimleridir.",
-    "kisa_en": "They are small software units that run continuously on the Internet and can store data without losing their state."
+    "kisa_en": "They are small software units that run continuously on the Internet and can store data without losing their state.",
+    "kisa_fr": "Ce sont de petites unités logicielles qui fonctionnent en permanence sur Internet et peuvent stocker des données sans perdre leur état."
   }
 ]

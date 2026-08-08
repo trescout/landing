@@ -77,7 +77,16 @@ function tarihYaz(dateStr) {
  * fix-all-headers-and-footers.js, diğer dillerde diller.py · her iki hâlde de
  * bu betiğin kendi kabuğunu yazması guard'ları kırardı.
  */
-function kabuk(trHedef) {
+
+/** Nav'daki dil düğmelerini sayfaya özel yap · hedefi olmayan etiket korunur. */
+const dilYaz = (nav, hedefler) => nav.replace(
+  /<a href="[^"]*" class="btn btn-ghost" aria-label="[^"]*">(TR|EN|FR)<\/a>/g,
+  (m, et) => hedefler[et]
+    ? `<a href="${hedefler[et]}" class="btn btn-ghost" aria-label="${et}">${et}</a>`
+    : m
+);
+
+function kabuk(hedefler) {
   const aday = [path.join(ROOT, LANG, 'discover'), path.join(ROOT, LANG, 'dictionary')];
   for (const dizin of aday) {
     if (!fs.existsSync(dizin)) continue;
@@ -91,11 +100,7 @@ function kabuk(trHedef) {
       if (!m) { console.error(`✗ ${ornek} içinde <${etiket}> yok.`); process.exit(1); }
       return m[0];
     };
-    const nav = al('nav').replace(
-      /(<a href=")[^"]*(" class="btn btn-ghost" aria-label="[^"]*">TR<\/a>)/,
-      `$1${trHedef}$2`
-    );
-    return { nav, footer: al('footer') };
+    return { nav: dilYaz(al('nav'), hedefler), footer: al('footer') };
   }
   console.error(`✗ ${LANG}/ altında üretilmiş sayfa yok · önce keşif/sözlük sayfalarını basın.`);
   process.exit(1);
@@ -140,7 +145,12 @@ function buildVariant(V) {
 
     const arsiv = dateStr <= D.rapor_arsiv_esigi;
     const badgeTag = arsiv ? `<span class="chip chip-en">${D.rapor_rozet}</span>` : '';
-    const { nav, footer } = kabuk(`${V.trUrlBase}/${dateStr}/`);
+    const enYol = V.kind === 'fresh' ? 'reports/fresh' : 'reports';
+    const { nav, footer } = kabuk({
+      TR: `${V.trUrlBase}/${dateStr}/`,
+      EN: `/en/${enYol}/${dateStr}/`,
+      FR: `/fr/${enYol}/${dateStr}/`,
+    });
 
     const html = `<!DOCTYPE html>
 <html lang="${D.html_lang}">
@@ -209,7 +219,10 @@ function buildVariant(V) {
   });
 
   const T = D.rapor_varyant[V.kind];
-  const dizinKabuk = kabuk(`${V.trUrlBase}/`);
+  const dizinYol = V.kind === 'fresh' ? 'reports/fresh' : 'reports';
+  const dizinKabuk = kabuk({
+    TR: `${V.trUrlBase}/`, EN: `/en/${dizinYol}/`, FR: `/fr/${dizinYol}/`,
+  });
   const footer = dizinKabuk.footer;
   // Dizin sayfasında menüdeki rapor bağlantısı "bulunduğunuz sayfa" olmalı ·
   // kabuk keşif sayfasından kopyalandığı için bu işaret düşüyordu.
