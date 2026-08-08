@@ -7,10 +7,10 @@ BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için ye
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
+- 7 Ağustos 2026: Yıldız 4.440 → 4.440, son sürüm @agent-native/skills@0.2.508 (7 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 4.437 → 4.440, son sürüm @agent-native/core@0.146.1 (7 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 4.419 → 4.437, son sürüm @agent-native/dispatch@0.19.0 (7 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 4.397 → 4.419, son sürüm @agent-native/skills@0.2.490 (6 Ağustos 2026).
-- 4 Ağustos 2026: Yıldız 4.381 → 4.397, son sürüm @agent-native/core@0.136.4 (4 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ajan ve kullanıcı arayüzünü tek veritabanında senkronize eder
@@ -46,7 +46,7 @@ Agent-Native çerçevesini kullanarak uygulamam için bir aksiyon tanımlamak is
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent-native Applications AI Skills Framework Agent API CLI
+Agent-native Applications AI Skills Framework API Agent CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-native/

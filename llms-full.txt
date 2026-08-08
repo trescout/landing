@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-07 · 400 araç · 488 terim
+Son güncelleme: 2026-08-08 · 407 araç · 494 terim
 
 ---
 
@@ -6982,6 +6982,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Durable Objects nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-08
+
+İnternet üzerinde sürekli çalışan ve durumunu kaybetmeden veri saklayabilen küçük yazılım birimleridir.
+
+## Tanım
+Normalde internetteki programlar geçicidir, ancak bu yapılar veriyi kendi içinde tutarak kesintisiz çalışır. Bir kullanıcı etkileşimi bittiğinde bile veriyi unutmazlar. Dağıtık sistemlerde tutarlılığı korumak için idealdir.
+
+## Bir benzetmeyle
+Sadece gerektiğinde uyanan bir uygulama yerine, her zaman tetikte bekleyen ve not defterini hiç bırakmayan bir sekreter gibidir.
+
+## Nasıl çalışır?
+Sunucu üzerinde belirli bir kimlik ile yaşarlar ve gelen her isteği kendi hafızalarındaki güncel durumla işlerler.
+
+## Nerede kullanılır?
+Gerçek zamanlı oyunlarda, sohbet uygulamalarında ve durumu korunması gereken web servislerinde kullanılır.
+
+## Sık karıştırılanlar
+Geçici sunucu fonksiyonları (serverless) ile karıştırılmamalıdır; çünkü onlar her seferinde sıfırdan başlar.
+
+## Sıkça sorulanlar
+
+**Veri nerede saklanır?**  
+Bu birimin kendi içinde, yani doğrudan çalışma ortamının bir parçası olarak saklanır.
+
+## İlgili terimler
+- [Runtime](/dictionary/runtime/)
+- [State Management](/dictionary/state-management/)
+- [Distributed](/dictionary/distributed/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/durable-objects/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Dynamic Neural Networks nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -7507,6 +7546,45 @@ Tahminleme yaparak stok yönetimi veya satış analizi gibi süreçleri otomatiz
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/enterprise-resource-planning/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Environment Variables nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-08
+
+Programların çalışma anında ihtiyaç duyduğu ayarları ve gizli anahtarları tutan küçük tanımlayıcılardır.
+
+## Tanım
+Kodunuzun içine yazmamanız gereken şifreler, API anahtarları veya farklı sunucu adresleri gibi bilgileri sistem düzeyinde tutmanızı sağlar. Program çalışırken bu değişkenleri okur ve ona göre davranır. Böylece aynı kod farklı ortamlarda farklı ayarlarla çalışabilir.
+
+## Bir benzetmeyle
+Bir cihazın içine sabit kodlanmış ayarlar yerine, cihazın içine yerleştirilen ve her seferinde değiştirilebilen bir ayar kartı gibidir.
+
+## Nasıl çalışır?
+İşletim sistemi veya özel bir dosya üzerinden tanımlanır, program başladığında bu değerleri hafızasına alır.
+
+## Nerede kullanılır?
+Sunucu kurulumlarında, uygulama yapılandırmalarında ve güvenlik gerektiren tüm yazılım projelerinde kullanılır.
+
+## Sık karıştırılanlar
+Kodun içine yazılan sabit değerler (hardcoded) ile karıştırılmamalıdır, çünkü bu yöntem güvenlik riski yaratır.
+
+## Sıkça sorulanlar
+
+**Neden bu değişkenleri gizli tutmalıyız?**  
+Kodunuzu paylaştığınızda şifrelerinizin başkalarının eline geçmesini önlemek için.
+
+## İlgili terimler
+- [Secrets](/dictionary/secrets/)
+- [Runtime](/dictionary/runtime/)
+- [API](/dictionary/api/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/environment-variables/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -8616,6 +8694,45 @@ Görselleştirme araçları sayesinde, mantığı anlayan herkes ilişkileri tak
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/graph-based-investigation/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Graph-native Infrastructure nedir?
+
+**Kategori:** Veri & Altyapı  
+**Son güncelleme:** 2026-08-08
+
+Veriler arasındaki doğrudan bağlantıları temel alarak tasarlanmış özel bir veri depolama yapısıdır.
+
+## Tanım
+Geleneksel tablolardan farklı olarak, bu sistem verileri birbirine bağlı düğümler ve çizgiler şeklinde tutar. Bilgiler arasındaki ilişkiler, verinin kendisi kadar önemlidir. Bu sayede karmaşık ağ analizleri çok hızlı yapılır.
+
+## Bir benzetmeyle
+Bir kütüphanedeki dosyaları alfabetik sırayla dizmek yerine, bir konudan diğerine giden doğrudan köprüler kurarak bir harita oluşturmak gibidir.
+
+## Nasıl çalışır?
+Veriler birbirine işaretçilerle (pointer) bağlanır, böylece bir veriden diğerine geçmek için tüm listeyi taramanıza gerek kalmaz.
+
+## Nerede kullanılır?
+Sosyal ağ analizlerinde, dolandırıcılık tespit sistemlerinde ve karmaşık bilgi grafiklerinde kullanılır.
+
+## Sık karıştırılanlar
+Klasik ilişkisel veritabanları (SQL) ile karıştırılmamalıdır; çünkü burada ilişki tablonun bir parçası değil, yapının temelidir.
+
+## Sıkça sorulanlar
+
+**Neden bu yapıyı tercih etmeliyim?**  
+Veriler arasındaki derin ve karmaşık ilişkileri saniyeler içinde sorgulamanız gerekiyorsa bu yapı çok daha hızlıdır.
+
+## İlgili terimler
+- [Knowledge Graph](/dictionary/knowledge-graph/)
+- [Database](/dictionary/database/)
+- [Data Pipeline](/dictionary/data-pipeline/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/graph-native-infrastructure/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -14421,6 +14538,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Reinforcement Learning Agent nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-08
+
+Deneme yanılma yoluyla ödül kazanarak doğru kararları almayı öğrenen yazılım birimidir.
+
+## Tanım
+Bu yapay zekâ birimi, bir ortamda hareket ederken yaptığı her doğru hamle için ödül, yanlış hamle için ceza alır. Zamanla en çok ödülü toplayacağı en iyi stratejiyi keşfeder. Kendi kendini geliştiren bir öğrenme sürecine sahiptir.
+
+## Bir benzetmeyle
+Yeni bir oyunu kurallarını okumadan, sadece puan kazanıp kaybettiğinizi görerek öğrenmeye çalışan bir oyuncu gibidir.
+
+## Nasıl çalışır?
+Sistem önce rastgele hamleler yapar, sonuçlarını analiz eder ve başarılı sonuçları hafızasına kaydederek bir sonraki seferde daha isabetli kararlar verir.
+
+## Nerede kullanılır?
+Robotik sistemlerde, oyun yapay zekâlarında ve otomatik borsa alım satım stratejilerinde yaygın olarak kullanılır.
+
+## Sık karıştırılanlar
+Standart programlanmış kurallarla çalışan botlardan farklı olarak, kendi stratejisini deneyimle oluşturur.
+
+## Sıkça sorulanlar
+
+**Bu birimler her zaman doğruyu mu bulur?**  
+Hayır, sadece verilen ödül mekanizmasına göre en verimli yolu bulmaya çalışırlar.
+
+## İlgili terimler
+- [AI Agent](/dictionary/ai-agent/)
+- [Autonomous Agent](/dictionary/autonomous-agent/)
+- [Machine Learning](/dictionary/machine-learning/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/reinforcement-learning-agent/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Relay nedir?
 
 **Kategori:** Geliştirme  
@@ -16944,6 +17100,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Swarm Intelligence nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-08
+
+Basit yeteneklere sahip çok sayıda birimin bir araya gelerek tek bir akıllı sistem gibi davranmasıdır.
+
+## Tanım
+Bireysel olarak zayıf olan birimler, kolektif bir iletişim ve koordinasyonla karmaşık problemleri çözebilir. Merkezi bir yönetici yoktur, zeka birimlerin birbirleriyle etkileşiminden doğar. Doğadaki karınca kolonileri veya kuş sürülerinden ilham alır.
+
+## Bir benzetmeyle
+Tek bir karıncanın karmaşık bir yol haritası çizememesine rağmen, binlerce karıncanın en kısa yolu bulması gibidir.
+
+## Nasıl çalışır?
+Her birim çevresindeki diğer birimlerden gelen sinyalleri izler ve basit kurallara göre hareket ederek büyük resmi oluşturur.
+
+## Nerede kullanılır?
+Otonom drone sürüleri, lojistik optimizasyonu ve büyük ölçekli çoklu yapay zekâ sistemlerinde kullanılır.
+
+## Sık karıştırılanlar
+Tek bir süper zeka ile karıştırılmamalıdır; burada zeka tek bir noktada değil, tüm sürünün etkileşimindedir.
+
+## Sıkça sorulanlar
+
+**Bir birim bozulursa sistem çöker mi?**  
+Hayır, bu sistemlerin en büyük avantajı birimlerin birbirini yedeklemesi ve esnek olmasıdır.
+
+## İlgili terimler
+- [Swarm Intelligence Engine](/dictionary/swarm-intelligence-engine/)
+- [Multi-agent](/dictionary/multi-agent/)
+- [Introduction to Autonomous Robots](/dictionary/autonomous-robots-intro/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/swarm-intelligence/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Swarm Intelligence Engine nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -17230,6 +17425,45 @@ Görev tanımı ne kadar netse, devir süreci o kadar başarılı olur.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/task-delegation/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Task Runner nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-08
+
+Tekrarlayan yazılım görevlerini otomatik olarak sırayla çalıştıran yardımcı araçtır.
+
+## Tanım
+Kodun test edilmesi, dosyaların sıkıştırılması veya sunucuya gönderilmesi gibi angarya işleri manuel yapmak yerine bu araçlara devredersiniz. Bir komutla tüm süreci başlatır. Yazılım geliştirme sürecini hızlandırır ve hata payını düşürür.
+
+## Bir benzetmeyle
+Bir restoranda mutfaktaki tüm hazırlık işlerini (doğrama, pişirme, servis) belirlediğiniz sırayla yapan bir mutfak robotu gibidir.
+
+## Nasıl çalışır?
+Bir yapılandırma dosyası ile hangi işin hangi sırayla yapılacağını tanımlarsınız, araç bu listeyi takip eder.
+
+## Nerede kullanılır?
+Web geliştirme projelerinde, kod derleme süreçlerinde ve CI/CD hatlarında kullanılır.
+
+## Sık karıştırılanlar
+Sadece bir komutu çalıştıran terminalden farklıdır; burada bir süreç yönetimi ve sıralama söz konusudur.
+
+## Sıkça sorulanlar
+
+**Hangi tür işler için kullanılır?**  
+Kod kalitesini kontrol etmek, dosyaları optimize etmek ve otomatik dağıtım yapmak için.
+
+## İlgili terimler
+- [CLI](/dictionary/cli/)
+- [Continuous Integration](/dictionary/continuous-integration/)
+- [Script](/dictionary/script/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/task-runner/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -24134,7 +24368,7 @@ MiroFish aracını kullanarak bir simülasyon başlatmak istiyorum. Öncelikle .
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Swarm Intelligence Engine Sandbox LLM API Artificial Intelligence
+Swarm Intelligence Engine Swarm Intelligence Sandbox LLM API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mirofish/
@@ -24230,7 +24464,7 @@ Lütfen Agent Reach aracını kurmama yardımcı ol. GitHub üzerindeki resmi ku
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent API CLI Artificial Intelligence
+API Agent CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-reach/
@@ -26903,15 +27137,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor. Yapay zekâ ajanlarının görsel içerik üretmesini kolaylaştırmak amacıyla tasarlanan bu araç, web tabanlı arayüzleri video formatına çeviriyor.
 
-- ★ 39.949
+- ★ 39.951
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Güncelleme
+- 7 Ağustos 2026: Yıldız 39.949 → 39.951, son sürüm v0.7.100 (7 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 39.827 → 39.949, son sürüm v0.7.99 (7 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 39.666 → 39.827, son sürüm v0.7.97 (7 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 39.239 → 39.666, son sürüm v0.7.94 (5 Ağustos 2026).
-- 3 Ağustos 2026: Yıldız 39.170 → 39.239, son sürüm v0.7.90 (3 Ağustos 2026).
 
 ## Ne kazandırır?
 - HTML ve CSS ile video üretimi
@@ -28529,7 +28763,7 @@ Sen bir yapay zekâ ajanı geliştirme uzmanısın. Bana 'Agent = LLM + Bağlam 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agent RAG AI Agents Agents PDF LLM
+AI Agent RAG AI Agents PDF Agents LLM
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-agent-book/
@@ -28709,6 +28943,42 @@ Terminal Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/deepseek-reasonix/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Geliştirme ortamınızı tek merkezden yönetin
+
+Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek bir çatı altında yönetmeyi sağlayan bir araçtır. Rust diliyle geliştirilen bu yazılım, farklı projeler için gerekli olan çalışma ortamlarını standartlaştırmayı ve hızlandırmayı hedefler.
+
+- ★ 32.098
+- Rust
+- GitHub Trending · 2026-08-08
+
+## Ne kazandırır?
+- Proje araçlarını ve sürümlerini otomatik yönetir
+- Ortam değişkenlerini proje bazlı tanımlar
+- Derleme ve test görevlerini standartlaştırır
+
+## Nasıl başlanır?
+
+Kurulum yapmak için resmî dokümantasyon sayfasındaki 'Getting started' bölümünü ziyaret ederek işletim sisteminize uygun adımları takip edebilirsiniz. Kurulum sonrası aracın kabuğunuzla entegre çalışması için gerekli olan 'activate' komutlarını yine aynı dokümantasyon üzerinden kendi terminal türünüze göre yapılandırmanız gerekmektedir.
+- [Resmî kaynak →](https://mise.jdx.dev)
+
+- **Kimin için:** Farklı projeler arasında geçiş yaparken yazılım araçlarını, ortam değişkenlerini ve görevleri yönetmekte zorlanan yazılım geliştiriciler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/jdx/mise)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Environment Variables Task Runner Terminal Rust
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/mise/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -30532,15 +30802,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Block tarafından Rust diliyle geliştirilen Buzz, merkeziyetsiz bir kovan zihni iletişim platformu (hive mind communication platform) olarak tasarlanmıştır. Dağıtık ağ yapısı üzerinden kolektif veri paylaşımını ve eş zamanlı etkileşimi destekleyen bir altyapı sunar.
 
-- ★ 24.916
+- ★ 24.932
 - Rust
 - GitHub Trending · 2026-07-24
 
 ## Güncelleme
+- 7 Ağustos 2026: Yıldız 24.916 → 24.932, son sürüm desktop-v0.5.7 (7 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 23.428 → 24.916, son sürüm desktop-v0.5.6 (7 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 22.004 → 23.428, son sürüm desktop-v0.5.5 (5 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 20.906 → 22.004, son sürüm desktop-v0.5.4 (3 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 7.593 → 20.906, son sürüm desktop-v0.5.3 (31 Temmuz 2026).
 
 ## Ne kazandırır?
 - İnsanlar ve yapay zekâ ajanları için ortak çalışma odaları
@@ -31970,6 +32240,55 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Sistem süreçlerinin kökenini keşfedin
+
+Witr, sistemdeki süreçleri, portları, konteynerleri veya dosyaları izleyerek bunların hangi kaynak tarafından başlatıldığını tespit eden bir komut satırı aracıdır. Kullanıcıların sistem üzerindeki etkinlikleri takip etmesini sağlayan bu yazılım, hem komut satırı (CLI) hem de metin tabanlı kullanıcı arayüzü (TUI) desteği sunar.
+
+- ★ 19.848
+- Go
+- GitHub Trending · 2026-08-08
+
+## Ne kazandırır?
+- Süreçlerin neden çalıştığını adım adım gösterir
+- Konteyner ve port etkinliklerini detaylı izler
+- Etkileşimli arayüz ile sistem takibini kolaylaştırır
+
+## Kurulum
+
+**Unix sistemler için hızlı kurulum**
+
+```
+curl -fsSL https://raw.githubusercontent.com/pranshuparmar/witr/main/install.sh | bash
+```
+
+**Homebrew paket yöneticisi ile kurulum**
+
+```
+brew install witr
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Sistemimde çalışan bir sürecin, portun veya konteynerin hangi kaynak tarafından başlatıldığını ve sistem üzerindeki çalışma zincirini anlamak istiyorum. Bu süreci izlemek ve neden çalıştığını tespit etmek için witr aracını nasıl kullanabilirim?
+
+- **Kimin için:** Sistem üzerindeki süreçlerin kökenini ve çalışma nedenlerini anlamak isteyen yazılım geliştiricileri ve sistem yöneticileri içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/pranshuparmar/witr)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+CLI Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/witr/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ ile otomatik video düzenleme
 
 Video-use kütüphanesi, kodlama ajanlarının (coding agents) video düzenleme süreçlerini otomatize etmesine olanak tanıyor. Python tabanlı bu araç, görsel düzenleme görevlerini yazılım komutları aracılığıyla yerine getirerek iş akışlarını hızlandırıyor.
@@ -32018,7 +32337,7 @@ Set up https://github.com/browser-use/video-use for me. Read install.md first to
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Scripts Coding Agents Skill Agents Agent API
+Scripts Coding Agents Skill Agents API Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/video-use/
@@ -33010,7 +33329,7 @@ TencentDB Agent Memory kullanarak yapay zekâ ajanımın uzun süreli hafızası
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Long-term Memory Memory Token Agent API Artificial Intelligence
+Long-term Memory Memory Token API Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tencentdb-agent-memory/
@@ -34524,6 +34843,59 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Gerçek zamanlı sesli yapay zekâ ajanları
+
+LiveKit Agents, gerçek zamanlı sesli ve görüntülü yapay zekâ ajanları geliştirmek için kullanılan bir Python çerçevesidir (framework). Geliştiricilerin düşük gecikmeli sesli etkileşimler kurmasını sağlayarak, insan benzeri tepkiler veren yapay zekâ sistemlerinin oluşturulmasını kolaylaştırır.
+
+- ★ 12.727
+- Python
+- GitHub Trending · 2026-08-04
+
+## Güncelleme
+- 7 Ağustos 2026: Yıldız 12.125 → 12.727, son sürüm livekit-agents@1.6.9 (7 Ağustos 2026).
+- 4 Ağustos 2026: Yıldız 12.122 → 12.125, son sürüm livekit-agents@1.6.8 (3 Ağustos 2026).
+
+## Ne kazandırır?
+- İnsan benzeri tepkiler veren sesli etkileşimler kurar.
+- WebRTC medya sunucusu LiveKit ile tam uyumlu çalışır.
+- Telefon görüşmeleri ve çok modlu veri alışverişini destekler.
+
+## Kurulum
+
+**Temel kütüphaneyi yükleme**
+
+```
+pip install "livekit-agents[openai,deepgram,cartesia]"
+```
+
+**Yapay zekâ asistanı için beceri ekleme**
+
+```
+npx skills add livekit/agent-skills --skill livekit-agents
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+LiveKit Agents kullanarak gerçek zamanlı sesli etkileşim kurabilen bir yapay zekâ ajanı geliştirmek istiyorum. Ajanın kullanıcıyı dinlemesi, konuşma sonlarını anlaması ve belirlenen araçları kullanarak yanıt vermesi için gerekli olan Agent, AgentSession ve JobContext yapısını kullanarak bir başlangıç şablonu oluştur. Sesli yanıtlar için gerekli olan STT, LLM ve TTS yapılandırmalarını nasıl yapacağımı ve bu ajan üzerinde nasıl fonksiyonel araçlar tanımlayabileceğimi açıkla.
+
+- **Kimin için:** Gerçek zamanlı sesli ve görüntülü etkileşimli uygulamalar geliştirmek isteyen Python yazılımcıları içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/livekit/agents)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Agents LLM Framework Agent Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/agents/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # WhatsApp için açık kaynaklı ağ geçidi
 
 OpenWA, WhatsApp mesajlaşma protokolü için ücretsiz ve açık kaynaklı bir ağ geçidi (API gateway) çözümü sunuyor. TypeScript diliyle geliştirilen bu araç, kullanıcıların kendi sunucularında (self-hosted) WhatsApp entegrasyonlarını yönetmelerine olanak tanıyor.
@@ -34803,58 +35175,6 @@ GPU Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cupy/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Gerçek zamanlı sesli yapay zekâ ajanları
-
-LiveKit Agents, gerçek zamanlı sesli ve görüntülü yapay zekâ ajanları geliştirmek için kullanılan bir Python çerçevesidir (framework). Geliştiricilerin düşük gecikmeli sesli etkileşimler kurmasını sağlayarak, insan benzeri tepkiler veren yapay zekâ sistemlerinin oluşturulmasını kolaylaştırır.
-
-- ★ 12.125
-- Python
-- GitHub Trending · 2026-08-04
-
-## Güncelleme
-- 4 Ağustos 2026: Yıldız 12.122 → 12.125, son sürüm livekit-agents@1.6.8 (3 Ağustos 2026).
-
-## Ne kazandırır?
-- İnsan benzeri tepkiler veren sesli etkileşimler kurar.
-- WebRTC medya sunucusu LiveKit ile tam uyumlu çalışır.
-- Telefon görüşmeleri ve çok modlu veri alışverişini destekler.
-
-## Kurulum
-
-**Temel kütüphaneyi yükleme**
-
-```
-pip install "livekit-agents[openai,deepgram,cartesia]"
-```
-
-**Yapay zekâ asistanı için beceri ekleme**
-
-```
-npx skills add livekit/agent-skills --skill livekit-agents
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-LiveKit Agents kullanarak gerçek zamanlı sesli etkileşim kurabilen bir yapay zekâ ajanı geliştirmek istiyorum. Ajanın kullanıcıyı dinlemesi, konuşma sonlarını anlaması ve belirlenen araçları kullanarak yanıt vermesi için gerekli olan Agent, AgentSession ve JobContext yapısını kullanarak bir başlangıç şablonu oluştur. Sesli yanıtlar için gerekli olan STT, LLM ve TTS yapılandırmalarını nasıl yapacağımı ve bu ajan üzerinde nasıl fonksiyonel araçlar tanımlayabileceğimi açıkla.
-
-- **Kimin için:** Gerçek zamanlı sesli ve görüntülü etkileşimli uygulamalar geliştirmek isteyen Python yazılımcıları içindir. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/livekit/agents)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Agents LLM Framework Agent Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/agents/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -35142,7 +35462,7 @@ Astryx tasarım sistemini kullanarak bir arayüz bileşeni oluşturmak istiyorum
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent Ready Design System Agent API CLI Artificial Intelligence
+Agent Ready Design System API Agent CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/astryx/
@@ -36396,7 +36716,7 @@ Bilgisayarımda dosya yönetimi, terminal komutları ve belge düzenleme işleml
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Terminal Control Diff File Editing Model Context Protocol Model Context Protocol Context Terminal
+Terminal Control Diff File Editing Model Context Protocol Model Context Protocol Context PDF
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/desktopcommandermcp/
@@ -37834,6 +38154,57 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yazılım geliştirme için otonom yapay zekâ ajanı
+
+PrimeIntellect tarafından geliştirilen Prime-Agent, yazılım geliştirme süreçleri ve uzun süreli otonom görevler için kendi kendini iyileştiren bir pekiştirmeli öğrenme ajanıdır (reinforcement learning agent). TypeScript diliyle yazılan bu araç, karmaşık iş akışlarını otomatikleştirerek yazılım geliştirme verimliliğini artırmayı hedefler.
+
+- ★ 6.896
+- TypeScript
+- GitHub Trending · 2026-08-08
+
+## Ne kazandırır?
+- Uzun süreli görevleri arka planda kesintisiz yürütür
+- Kod yazma ve dosya yönetimi süreçlerini otomatikleştirir
+- Kendi kendini iyileştiren pekiştirmeli öğrenme yeteneği sunar
+
+## Kurulum
+
+**Aracı bilgisayarınıza indirme ve kurma**
+
+```
+curl -fsSL https://app.primeintellect.ai/prime-agent/install.sh | sh
+```
+
+## Çalıştırma
+
+**Çalışma dizininde ajanı başlatma**
+
+```
+prime-agent
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Sen Prime Agent olarak görev yapıyorsun. Proje dizinimde karmaşık yazılım geliştirme iş akışlarını yönetmek, dosya işlemlerini gerçekleştirmek ve uzun süreli otonom görevleri takip etmek için IPython ortamını kullan. Gerektiğinde alt ajanlar oluşturarak paralel çalış, /refine komutuyla öğrenilenleri kalıcı hale getir ve /autonomous moduyla belirlenen bütçeler dahilinde hedefleri tamamla. İşlemleri yaparken her zaman kullanıcı izinlerini ve güvenlik sınırlarını gözeterek hareket et.
+
+- **Kimin için:** Karmaşık yazılım projelerinde uzun süreli ve otonom görevleri otomatikleştirmek isteyen geliştiriciler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/PrimeIntellect-ai/prime-agent)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Reinforcement Learning Agent Agent Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/prime-agent/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # DNS tünelleme ile sansür engellerini aşın
 
 MasterDnsVPN, sansür engellerini aşmak için geliştirilen ve düşük yükle çalışan bir alan adı sistemi tünelleme (DNS tunneling) sanal özel ağ (VPN) çözümüdür. Go diliyle yazılan araç, veri iletiminde yüksek paket kaybı kararlılığı ve çözümleyici yük dengeleme (resolver load balancing) özellikleri sunar.
@@ -39019,10 +39390,10 @@ BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için ye
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
+- 7 Ağustos 2026: Yıldız 4.440 → 4.440, son sürüm @agent-native/skills@0.2.508 (7 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 4.437 → 4.440, son sürüm @agent-native/core@0.146.1 (7 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 4.419 → 4.437, son sürüm @agent-native/dispatch@0.19.0 (7 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 4.397 → 4.419, son sürüm @agent-native/skills@0.2.490 (6 Ağustos 2026).
-- 4 Ağustos 2026: Yıldız 4.381 → 4.397, son sürüm @agent-native/core@0.136.4 (4 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ajan ve kullanıcı arayüzünü tek veritabanında senkronize eder
@@ -39058,7 +39429,7 @@ Agent-Native çerçevesini kullanarak uygulamam için bir aksiyon tanımlamak is
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent-native Applications AI Skills Framework Agent API CLI
+Agent-native Applications AI Skills Framework API Agent CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-native/
@@ -40250,6 +40621,57 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanınıza kalıcı hafıza
+
+Semantica, yapay zekâ sistemleri için bağlamsal veri yönetimi sağlayan çizge tabanlı bir altyapı (graph-native infrastructure). Büyük dil modellerinin (LLM) daha güvenilir ve hesap verebilir sonuçlar üretmesi için verileri ilişkisel bir yapıda düzenliyor.
+
+- ★ 2.396
+- Python
+- GitHub Trending · 2026-08-08
+
+## Ne kazandırır?
+- Karar süreçlerini izlenebilir ve denetlenebilir kılar
+- Verileri ilişkisel bir bilgi çizgesine dönüştürür
+- Düzenlemelere uygun şeffaf raporlama sağlar
+
+## Kurulum
+
+**Kütüphaneyi yükleme**
+
+```
+pip install semantica
+```
+
+## Çalıştırma
+
+**Kontrol panelini başlatma**
+
+```
+semantica
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Semantica kullanarak verilerimi yapılandırılmış bir bilgi çizgesine dönüştür. Karar süreçlerimi izlenebilir hale getirmek için verileri ilişkisel bir yapıda tut, böylece yapay zekâ sistemimin aldığı kararların nedenlerini şeffaf bir şekilde denetleyebilir ve raporlayabilirim.
+
+- **Kimin için:** Yapay zekâ ajanlarının aldığı kararların gerekçelendirilmesi gereken finans, sağlık ve hukuk gibi denetime tabi sektörlerde çalışan ekipler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/semantica-agi/semantica)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Graph-native Infrastructure LLM Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/semantica/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Otonom yazılım geliştiren yapay zekâ ajanları
 
 ColeMurray tarafından geliştirilen background-agents, TypeScript tabanlı açık kaynaklı bir arka plan ajanları kodlama sistemidir. Geliştiricilerin uygulamalar içerisinde otonom süreçler yürüten yapay zekâ ajanları (AI agents) oluşturmasına olanak tanır.
@@ -40301,6 +40723,60 @@ AI Agents Agents Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/background-agents/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Dağıtık sistemlerde kalıcı veri yönetimi
+
+Deno tarafından geliştirilen Celld, dağıtık sistemler için kendi sunucunuzda barındırabileceğiniz (self-hosted) kalıcı nesneler (durable objects) altyapısı sunuyor. Rust diliyle yazılan bu teknoloji, durum yönetimini (state management) farklı düğümler arasında ölçeklenebilir şekilde dağıtmayı sağlıyor.
+
+- ★ 2.264
+- Rust
+- GitHub Trending · 2026-08-08
+
+## Ne kazandırır?
+- Kendi altyapınızda ölçeklenebilir durum yönetimi sağlar.
+- Her nesneyi bağımsız bir SQLite veritabanı olarak saklar.
+- S3 uyumlu depolama ile düğümler arası koordinasyon kurar.
+
+## Kurulum
+
+**Aracı bilgisayarınıza indirme**
+
+```
+curl -fsSL https://celld.dev/install.sh | sh
+```
+
+## Çalıştırma
+
+**Kaynak kullanımı sınırlandırılmış düğüm**
+
+```
+CELLD_MAX_RESIDENT_CELLS=1000 \
+CELLD_RESIDENT_LOW_WATER=800 \
+celld --bucket s3://my-cells-bucket --listen 0.0.0.0:8080 \
+--advertise node-a.internal:8080
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Celld kullanarak dağıtık bir sistem kurmak istiyorum. S3 uyumlu bir depolama alanı oluşturduktan sonra, düğümlerin bu alanı nasıl kullanacağını ve Wrangler paketlerini nasıl dağıtacağımı adım adım açıkla. Özellikle düğümlerin birbirini nasıl keşfettiği ve veri tutarlılığını S3 üzerinden nasıl sağladığı konusunda teknik detayları basit bir dille özetle.
+
+- **Kimin için:** Dağıtık sistemler üzerinde çalışan ve kendi sunucularında ölçeklenebilir durum yönetimi kurmak isteyen geliştiriciler için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/denoland/celld)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+State Management Durable Objects Self-hosted Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/celld/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -40455,6 +40931,57 @@ CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openclaw-windows-node/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Yapay zekâ ajanlarını koordine eden sistem
+
+Clojure diliyle yazılan Swarm Forge, birden fazla yapay zekâ ajanını (AI agents) tek bir merkezden koordine etmeye yarayan bir araçtır. Yazılım, farklı ajanların iş birliği içinde çalışması gereken karmaşık süreçleri yönetmek için basit bir yapı sunar.
+
+- ★ 1.870
+- Clojure
+- GitHub Trending · 2026-08-08
+
+## Ne kazandırır?
+- Birden fazla yapay zekâ ajanını tek merkezden yönetir
+- Tmux terminal çoklayıcı ile ajanları eş zamanlı izletir
+- Proje özelinde özelleştirilebilir iş akışları sunar
+
+## Kurulum
+
+**Çalışma dalını indirme ve hazırlama**
+
+```
+BRANCH=four-pack
+curl -L "https://github.com/unclebob/swarm-forge/archive/refs/heads/${BRANCH}.tar.gz" | tar -xz --strip-components=1
+```
+
+## Çalıştırma
+
+**Sistemi başlatma**
+
+```
+./swarm
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Sen bir yazılım geliştirme ekibinin parçasısın. Swarm Forge sisteminin kurallarına ve proje dizinindeki yapılandırma dosyalarına uyarak sana verilen görevi yerine getir. Görevini yaparken diğer ajanlarla iş birliği içinde çalış, Git çalışma ağaçlarını kullan ve belirlenen rol tanımlarına sadık kalarak kodun kalitesini, test edilebilirliğini ve mimari standartlarını koru.
+
+- **Kimin için:** Karmaşık yazılım projelerinde birden fazla yapay zekâ ajanının görev dağılımını ve iletişimini disiplinli bir şekilde yönetmek isteyen geliştiriciler içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/unclebob/swarm-forge)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+AI Agents Agents Terminal Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/swarm-forge/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -40885,6 +41412,40 @@ Centralized Memory Layer Memory Token Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hivemind/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Açık kaynaklı istihbarat araçları rehberi
+
+Legendary_OSINT, dolandırıcılık araştırmacıları ve siber tehdit istihbaratı (CTI) analistleri için hazırlanan kapsamlı bir açık kaynaklı istihbarat (OSINT) araçları ve kaynakları listesidir. Müşterini tanı (KYC) ve kara para aklamayı önleme (AML) süreçlerinde ihtiyaç duyulan dijital inceleme araçlarını tek bir merkezde toplar.
+
+- ★ 1.512
+- GitHub Trending · 2026-08-08
+
+## Ne kazandırır?
+- Kişi ve sosyal medya araştırması için yöntemler sunar
+- Havacılık, denizcilik ve demiryolu hareketlerini izlemeyi sağlar
+- Siber tehdit istihbaratı ve dolandırıcılık analizi için kaynaklar içerir
+
+## Nasıl başlanır?
+
+Bu bir yazılım aracı değil, açık kaynaklı istihbarat araçlarını ve kaynaklarını kategorize eden bir dizindir. GitHub üzerindeki sayfasını ziyaret ederek, ilgi duyduğunuz alanın başlığına tıklayıp listelenen araçları ve web sitelerini doğrudan incelemeye başlayabilirsiniz.
+
+- **Kimin için:** Dolandırıcılık araştırmacıları, siber tehdit istihbaratı analistleri ve dijital inceleme yapan profesyoneller için uygundur. 
+- **Lisans:** CC0-1.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/K2SOsint/Legendary_OSINT)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+OSINT
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/legendary-osint/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

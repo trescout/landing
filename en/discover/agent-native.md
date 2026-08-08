@@ -7,10 +7,10 @@ Developed by BuilderIO, agent-native is a TypeScript framework focused on creati
 - GitHub Trending · 2026-06-20
 
 ## Update
+- 7 August 2026: Star 4,440 → 4,440, last version @agent-native/skills@0.2.508 (7 August 2026).
 - 7 August 2026: Star 4,437 → 4,440, last version @agent-native/core@0.146.1 (7 August 2026).
 - 7 August 2026: Star 4,419 → 4,437, last version @agent-native/dispatch@0.19.0 (7 August 2026).
 - 6 August 2026: Star 4,397 → 4,419, last version @agent-native/skills@0.2.490 (6 August 2026).
-- 4 August 2026: Star 4.381 → 4.397, last version @agent-native/core@0.136.4 (4 August 2026).
 
 ## What you get
 - Synchronizes agent and user interface in single database

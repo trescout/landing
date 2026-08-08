@@ -33,8 +33,8 @@ If you want to get into the world of software, yes, because many tools only work
 - [Career Ops](/en/discover/career-ops/)
 - [Free Claude Code](/en/discover/free-claude-code/)
 - [DeepSeek-Reasonix](/en/discover/deepseek-reasonix/)
+- [Mise](/en/discover/mise/)
 - [Oh My Pi](/en/discover/oh-my-pi/)
-- [Superfile](/en/discover/superfile/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/terminal/

@@ -28,5 +28,8 @@ Il est préférable de garantir que les données restent à jour partout en mêm
 - [Memory API](/fr/dictionary/memory-api/)
 - [Observability](/fr/dictionary/observability/)
 
+## Outils liés
+- [Celld](/fr/discover/celld/)
+
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/state-management/

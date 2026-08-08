@@ -43,7 +43,7 @@ MiroFish aracını kullanarak bir simülasyon başlatmak istiyorum. Öncelikle .
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Swarm Intelligence Engine Sandbox LLM API Artificial Intelligence
+Swarm Intelligence Engine Swarm Intelligence Sandbox LLM API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mirofish/
