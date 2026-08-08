@@ -8,12 +8,15 @@ name: CSP Inline Guard
 # 5) Başlık tutarlılığı: keşif detay sayfasının H1'i katalogdaki headline ile aynı (alan bazlı taşımada sayfa geride kalmasın).
 # 6) Marka tipografisi: 🚀 ve em dash (—) yayına giden sayfalarda geçmesin (kod blokları hariç).
 
+# paths filtresi KALDIRILDI (2026-08-08). GitHub, bir PR'da 300'den fazla dosya
+# değiştiğinde paths filtresini güvenilir uygulamıyor · üretilen sayfalara dokunan
+# PR'lar (dil ekleme, arşiv basımı) tam da bu boyutta oluyor ve guard sessizce
+# ATLANIYORDU. Sessizce atlanan guard, olmayan guard'dan daha kötü: yeşil görünür.
+# Bedeli birkaç saniyelik koşu · guard 15 saniyede bitiyor.
 on:
   pull_request:
-    paths: ['**.html', 'assets/discover/catalog.json']
   push:
     branches: [main]
-    paths: ['**.html', 'assets/discover/catalog.json']
   workflow_dispatch: {}
 
 permissions:
