@@ -2,15 +2,15 @@
 
 Reverse-skill propose un package de routage basé sur l'intelligence artificielle pour les processus de rétro-ingénierie et de tests d'intrusion. Grâce à ses fonctionnalités d'amorçage de chaîne d'outils et de base de connaissances auto-développées, Claude Code s'intègre aux outils de codage tels que Cursor et Cline.
 
-- ★ 19 315
+- ★ 20 511
 - PowerShell
 - GitHub Trending · 2026-08-01
 
 ## Mise à jour
+- 7 août 2026 : Star 19 315 → 20 511, dernière version v1.0.0 (17 juillet 2026).
 - 6 août 2026 : Star 16 399 → 19 315, dernière version v1.0.0 (17 juillet 2026).
 - 4 août 2026 : Star 14 310 → 16 399, dernière version v1.0.0 (17 juillet 2026).
 - 3 août 2026 : Étoile 12 931 → 14 310, dernière version v1.0.0 (17 juillet 2026).
-- 2 août 2026 : Étoile 11 014 → 12 931, dernière version v1.0.0 (17 juillet 2026).
 
 ## Ce que ça vous apporte
 - Flux de travail standardisés pour les agents IA

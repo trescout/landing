@@ -299,7 +299,16 @@ const sayi = (s) => String(s ?? '').replace(/\d{1,3}(?:\.\d{3})+/g, (n) => n.rep
  * yazarsa guard'lar kırılır, bu yüzden kopyalıyoruz. TR bağlantısı sayfaya özel
  * olduğu için (o sayfanın Türkçe karşılığı) burada hedefe göre düzeltiliyor.
  */
-function kabuk(bolum, trHedef) {
+
+/** Nav'daki dil düğmelerini sayfaya özel yap · hedefi olmayan etiket korunur. */
+const dilYaz = (nav, hedefler) => nav.replace(
+  /<a href="[^"]*" class="btn btn-ghost" aria-label="[^"]*">(TR|EN|FR)<\/a>/g,
+  (m, et) => hedefler[et]
+    ? `<a href="${hedefler[et]}" class="btn btn-ghost" aria-label="${et}">${et}</a>`
+    : m
+);
+
+function kabuk(bolum, hedefler) {
   const dizin = path.join(ROOT, LANG, bolum);
   const ornek = fs.readdirSync(dizin)
     .map(s => path.join(dizin, s, 'index.html'))
@@ -314,11 +323,7 @@ function kabuk(bolum, trHedef) {
     if (!m) { console.error(`✗ ${ornek} içinde <${etiket}> bulunamadı.`); process.exit(1); }
     return m[0];
   };
-  const nav = al('nav').replace(
-    /(<a href=")[^"]*(" class="btn btn-ghost" aria-label="[^"]*">TR<\/a>)/,
-    `$1${trHedef}$2`
-  );
-  return { nav, footer: al('footer') };
+  return { nav: dilYaz(al('nav'), hedefler), footer: al('footer') };
 }
 
 const kafa = (kanonik) => `<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -336,7 +341,7 @@ const hreflang = (trYol, hedefYol) => `<link rel="alternate" hreflang="tr" href=
 // ── 3. Sözlük dizini ────────────────────────────────────────────────────────
 const dictIndexDir = path.join(ROOT, LANG, 'dictionary');
 fs.mkdirSync(dictIndexDir, { recursive: true });
-const dictKabuk = kabuk('dictionary', '/dictionary/');
+const dictKabuk = kabuk('dictionary', { TR: '/dictionary/', EN: '/en/dictionary/', FR: '/fr/dictionary/' });
 
 const dictCards = dictionary.map(t => {
   const desc = t[D.kisa_alan] || t.kisa || '';
@@ -395,7 +400,7 @@ console.log(`Üretildi · ${PRE}/dictionary/index.html (${dictionary.length} ter
 // ── 4. Keşif dizini ─────────────────────────────────────────────────────────
 const discIndexDir = path.join(ROOT, LANG, 'discover');
 fs.mkdirSync(discIndexDir, { recursive: true });
-const discKabuk = kabuk('discover', '/discover/');
+const discKabuk = kabuk('discover', { TR: '/discover/', EN: '/en/discover/', FR: '/fr/discover/' });
 
 const discCards = catalog.map(c => {
   const tagline = c[D.tagline_alan] || c.tagline || '';

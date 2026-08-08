@@ -19,7 +19,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from diller import dil  # noqa: E402
+from diller import dil, dil_dugmeleri_yaz  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = os.environ.get("SITE_URL", "https://trescout.com")
@@ -43,10 +43,9 @@ def kabuk():
             footer = re.search(r"<footer[\s>][\s\S]*?</footer>", html)
             if not (nav and footer):
                 raise SystemExit(f"✗ {yol} içinde nav/footer bulunamadı.")
-            # Ana sayfada TR bağlantısı Türkçe ana sayfaya gitmeli.
-            return re.sub(
-                r'(<a href=")[^"]*(" class="btn btn-ghost" aria-label="[^"]*">TR</a>)',
-                r"\g<1>/\g<2>", nav.group(0)
+            # Ana sayfada dil düğmeleri o dilin ANA sayfasına gitmeli.
+            return dil_dugmeleri_yaz(
+                nav.group(0), {"TR": "/", "EN": "/en/", "FR": "/fr/"}
             ), footer.group(0)
     raise SystemExit(f"✗ {LANG}/discover altında üretilmiş sayfa yok · önce detay sayfalarını basın.")
 

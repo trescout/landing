@@ -20,7 +20,7 @@ Kullanım:
 import os, re, sys, json, html, time, urllib.parse, urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from diller import dil, tarih_yaz, chrome as chrome_kur
+from diller import dil, tarih_yaz, chrome as chrome_kur, dil_dugmeleri_yaz, dil_hedefleri
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "dictionary")
@@ -186,16 +186,18 @@ def ingilizce_acilim(full):
 
 
 def dil_degistir(nav, slug):
-    """Nav'daki dil değiştirme bağlantısını SAYFAYA ÖZEL yap.
+    """Nav'daki dil düğmelerini SAYFAYA ÖZEL yap.
 
-    Chrome örnek bir sayfadan kopyalanıyor · o sayfanın TR bağlantısı da
-    kopyalanıyordu, yani bütün sayfalar aynı Türkçe sayfaya gidiyordu
-    (2026-08-07: 885 İngilizce sayfa /dictionary/action/'a işaret ediyordu).
-    Normalize edici bunu her gün düzeltiyordu, o yüzden fark edilmemişti ·
-    üretilen dillerde normalize edici çalışmadığı için kaynağında çözülmeli.
+    Chrome örnek bir sayfadan kopyalanıyor · o sayfanın dil bağlantıları da
+    kopyalanıyordu, yani bütün sayfalar aynı hedefe gidiyordu (2026-08-07: 885
+    İngilizce sayfa /dictionary/action/'a işaret ediyordu). Normalize edici bunu
+    her gün düzeltiyordu, o yüzden fark edilmemişti · üretilen dillerde
+    normalize edici çalışmadığı için kaynağında çözülmeli.
+
+    Karşılığı olmayan dilde o dilin ana sayfasına düşer (404 vermesin).
     """
-    return re.sub(r'(<a href=")[^"]*(" class="btn btn-ghost" aria-label="[^"]*">TR</a>)',
-                  rf'\1/dictionary/{slug}/\2'.replace("{slug}", slug), nav)
+    return dil_dugmeleri_yaz(nav, dil_hedefleri("dictionary", slug, ROOT, atla={LANG.upper()}))
+
 
 
 def build(term, chrome):
