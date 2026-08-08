@@ -209,10 +209,8 @@ DILLER = {
         "og_locale": "fr_FR",
         "tagline_alan": "tagline_fr",
         "kisa_alan": "kisa_fr",
-        # Karşılaştırma sayfası henüz çevrilmedi · menüde olmayan bölüme
-        # bağlantı vermek kırık sayfa demek, geldiğinde buraya eklenecek.
-        "nav": ["Découvrir", "Glossaire", "Archive des rapports"],
-        "nav_yollar": ["discover", "dictionary", "reports"],
+        "nav": ["Découvrir", "Glossaire", "Archive des rapports", "Comparer"],
+        "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
         "nav_cta": "Accès anticipé",
         "dil_dugmeleri": [("TR", ""), ("EN", "/en")],
         "footer_nasil": None,      # Türkçe ana sayfanın "nasıl çalışır" bölümü çevrilmedi

@@ -405,7 +405,10 @@ const discKabuk = kabuk('discover', { TR: '/discover/', EN: '/en/discover/', FR:
 const discCards = catalog.map(c => {
   const tagline = c[D.tagline_alan] || c.tagline || '';
   const searchAttr = `${c.title} ${tagline} ${c.slug}`.replace(/"/g, '&quot;');
-  const imgHtml = c.image ? `<img class="disc-card-img" src="${c.image}" alt="" loading="lazy" decoding="async">` : '';
+  // Kapak metni görsele gömülü · o dilin kapağı varsa onu kullan (kapak-gorselleri.py)
+  const dilKapak = `/assets/discover/og/${c.slug}-${LANG}.webp`;
+  const kapakYolu = fs.existsSync(path.join(ROOT, dilKapak.slice(1))) ? dilKapak : c.image;
+  const imgHtml = c.image ? `<img class="disc-card-img" src="${kapakYolu}" alt="" loading="lazy" decoding="async">` : '';
   const tagChips = (c.tags || []).map(t => `<span class="disc-card-tagchip">${tagTranslationMap[t] || t}</span>`).join('');
   const tagChipsHtml = tagChips ? `<div class="disc-card-tags">${tagChips}</div>` : '';
   const metaStr = c.meta ? sayi(c.meta) : `★ ${sayi((c.stars || 0).toLocaleString('tr-TR'))}`;
