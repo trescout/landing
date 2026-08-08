@@ -2,11 +2,12 @@
 
 PostHog est une plateforme complète qui rassemble des outils tels que l'observabilité, l'analyse et la relecture de sessions de l'intelligence artificielle pour les processus de développement de produits. Il permet aux développeurs de logiciels de créer des produits autonomes en suivant les bogues, en gérant les expériences et en analysant les données des utilisateurs.
 
-- ★ 37 548
+- ★ 37 549
 - Python
 - GitHub Trending · 2026-07-17
 
 ## Mise à jour
+- 8 août 2026 : Star 37 548 → 37 549, dernière version desktop-v0.60.92 (8 août 2026).
 - 7 août 2026 : Star 37 487 → 37 548, dernière version desktop-v0.60.88 (7 août 2026).
 - 4 août 2026 : Star 37 445 → 37 487, dernière version posthog-cli/v0.10.0 (3 août 2026).
 - 2 août 2026 : Star 35 939 → 37 445, dernière version posthog-cli/v0.9.4 (30 juillet 2026).

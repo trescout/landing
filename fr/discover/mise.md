@@ -6,6 +6,9 @@ Mise est un outil qui vous permet de gérer les outils de développement logicie
 - Rust
 - GitHub Trending · 2026-08-08
 
+## Mise à jour
+- 8 août 2026 : Star 32 098 → 32 098, dernière version v2026.8.3 (7 août 2026).
+
 ## Ce que ça vous apporte
 - Gère automatiquement les outils et les versions du projet
 - Définit les variables d'environnement sur la base d'un projet

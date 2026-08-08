@@ -2,7 +2,7 @@
 
 Claude Code ; terminalinizde yaşayan ve kod tabanınızı derinlemesine anlayan ajan tabanlı bir kodlama aracıdır. Doğal dil komutlarıyla dosyaları okur, değişiklik yapar ve testleri çalıştırarak geliştirme sürecinizi hızlandırır. (Bu sayfadaki birçok aracı onunla birlikte kullanabilirsiniz.)
 
-- ★ 140.527
+- ★ 140.624
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
@@ -10,10 +10,10 @@ Claude Code ; terminalinizde yaşayan ve kod tabanınızı derinlemesine anlayan
 TreScout notu: Terminalde çalışan kodlama ajanı: Depoyu okur, değişikliği yapar, komutu çalıştırır. Büyük kod tabanlarında kazancı belirgin; küçük düzeltmelerde araç kurmakla uğraşmak yerine elle yapmak daha hızlı olabilir.
 
 ## Güncelleme
+- 8 Ağustos 2026: Yıldız 140.527 → 140.624, son sürüm v2.1.226 (8 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 140.418 → 140.527, son sürüm v2.1.224 (7 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 140.160 → 140.418, son sürüm v2.1.223 (6 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 139.997 → 140.160, son sürüm v2.1.221 (4 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 128.283 → 139.997, son sürüm v2.1.220 (25 Temmuz 2026).
 
 - **Kimin için:** Terminalde çalışan geliştiriciler 
 - **Zorluk:** Orta · terminal + Anthropic hesabı 

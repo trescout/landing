@@ -2,15 +2,15 @@
 
 OpenWA offers a free and open source API gateway solution for the WhatsApp messaging protocol. This tool, developed with TypeScript language, allows users to manage WhatsApp integrations on their own servers (self-hosted).
 
-- ★ 12,503
+- ★ 12,544
 - TypeScript
 - GitHub Trending · 2026-06-17
 
 ## Update
+- August 8, 2026: Star 12,503 → 12,544, latest version v0.14.5 (August 8, 2026).
 - August 7, 2026: Star 12,466 → 12,503, latest version v0.14.4 (August 7, 2026).
 - August 6, 2026: Star 12,355 → 12,466, latest version v0.14.2 (August 6, 2026).
 - August 3, 2026: Star 12,335 → 12,355, latest version v0.13.0 (August 3, 2026).
-- August 2, 2026: Star 9,223 → 12,335, latest version v0.12.4 (August 2, 2026).
 
 ## What you get
 - Full control over WhatsApp messaging infrastructure

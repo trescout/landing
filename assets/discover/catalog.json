@@ -2785,7 +2785,7 @@
     "slug": "llama-cpp",
     "title": "Llama.cpp",
     "tagline": "Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını…",
-    "meta": "★ 123.019 · C++",
+    "meta": "★ 123.043 · C++",
     "image": "/assets/discover/og/llama-cpp.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -2793,7 +2793,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 123019,
+    "stars": 123043,
     "lite": false,
     "headline": "Yapay zekâ modellerini bilgisayarınızda çalıştırın",
     "last_review": "2026-08-08",
@@ -2867,6 +2867,13 @@
         "onceki_yildiz": 122941,
         "surum": "b10326",
         "surum_tarihi": "2026-08-07"
+      },
+      {
+        "tarih": "2026-08-08",
+        "yildiz": 123043,
+        "onceki_yildiz": 123019,
+        "surum": "b10327",
+        "surum_tarihi": "2026-08-08"
       }
     ],
     "tagline_en": "Llama.cpp enables large language models to run efficiently on standard hardware.",

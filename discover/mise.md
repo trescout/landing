@@ -6,6 +6,9 @@ Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment v
 - Rust
 - GitHub Trending · 2026-08-08
 
+## Güncelleme
+- 8 Ağustos 2026: Yıldız 32.098 → 32.098, son sürüm v2026.8.3 (7 Ağustos 2026).
+
 ## Ne kazandırır?
 - Proje araçlarını ve sürümlerini otomatik yönetir
 - Ortam değişkenlerini proje bazlı tanımlar

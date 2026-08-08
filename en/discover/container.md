@@ -2,11 +2,12 @@
 
 Developed by Apple, container allows creating and running Linux containers using lightweight virtual machines on Mac. Written in Swift language, the tool offers performance optimized for Apple silicon architecture.
 
-- ★ 48,710
+- ★ 48,745
 - Swift
 - GitHub Trending · 2026-06-11
 
 ## Update
+- August 8, 2026: Star 48,710 → 48,745, last version 1.2.2 (August 8, 2026).
 - August 7, 2026: Star 48,543 → 48,710, last version 1.2.1 (August 7, 2026).
 - August 2, 2026: Star 30,453 → 48,543, last version 1.2.0 (July 29, 2026).
 
