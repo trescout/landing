@@ -46,7 +46,7 @@ Strix aracını kullanarak belirlediğim hedef üzerinde kapsamlı bir güvenlik
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Security Tool API Artificial Intelligence
+AI Security Tool CI/CD API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/strix/

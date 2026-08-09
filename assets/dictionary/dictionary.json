@@ -4444,5 +4444,50 @@
     "kisa": "İnternet üzerinde sürekli çalışan ve durumunu kaybetmeden veri saklayabilen küçük yazılım birimleridir.",
     "kisa_en": "They are small software units that run continuously on the Internet and can store data without losing their state.",
     "kisa_fr": "Ce sont de petites unités logicielles qui fonctionnent en permanence sur Internet et peuvent stocker des données sans perdre leur état."
+  },
+  {
+    "slug": "cloud-computing",
+    "en": "Cloud Computing",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgi işlem hizmetlerinin internet üzerinden uzaktaki sunucular aracılığıyla sunulmasıdır.",
+    "kisa_en": "It is the provision of computing services via remote servers over the internet.",
+    "kisa_fr": "Il s'agit de la fourniture de services informatiques via des serveurs distants sur Internet."
+  },
+  {
+    "slug": "ci-cd",
+    "en": "CI/CD",
+    "full": "Continuous Integration / Continuous Deployment",
+    "cat": "dev",
+    "kisa": "Yazılım güncellemelerinin otomatik olarak test edilip yayına alınmasını sağlayan süreçtir.",
+    "kisa_en": "It is the process that ensures that software updates are automatically tested and released.",
+    "kisa_fr": "C'est le processus qui garantit que les mises à jour logicielles sont automatiquement testées et publiées."
+  },
+  {
+    "slug": "gdpr",
+    "en": "GDPR",
+    "full": "General Data Protection Regulation",
+    "cat": "data",
+    "kisa": "Kişisel verilerin nasıl korunacağını belirleyen kapsamlı yasal kurallar bütünüdür.",
+    "kisa_en": "It is a comprehensive set of legal rules that determine how personal data will be protected.",
+    "kisa_fr": "Il s'agit d'un ensemble complet de règles juridiques qui déterminent la manière dont les données personnelles seront protégées."
+  },
+  {
+    "slug": "data-residency",
+    "en": "Data Residency",
+    "full": "",
+    "cat": "data",
+    "kisa": "Verilerin yasal nedenlerle belirli bir coğrafi bölge veya ülke sınırları içinde tutulması zorunluluğudur.",
+    "kisa_en": "It is the obligation to keep data within the borders of a certain geographical region or country for legal reasons.",
+    "kisa_fr": "Il s'agit de l'obligation de conserver les données à l'intérieur des frontières d'une certaine région géographique ou d'un certain pays pour des raisons juridiques."
+  },
+  {
+    "slug": "home-server",
+    "en": "Home Server",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Evdeki cihazların dosya paylaşımı ve medya yönetimi gibi işlerini üstlenen sürekli açık kişisel sunucudur.",
+    "kisa_en": "It is an always-on personal server that handles tasks such as file sharing and media management of home devices.",
+    "kisa_fr": "Il s'agit d'un serveur personnel toujours actif qui gère des tâches telles que le partage de fichiers et la gestion multimédia des appareils domestiques."
   }
 ]
