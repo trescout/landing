@@ -2,11 +2,12 @@
 
 VulnClaw, yapay zekâ ajanları (AI agents) ve model bağlam protokolü (Model Context Protocol) araç zincirini kullanarak sızma testi süreçlerini otomatize ediyor. Araç, doğal dil komutlarını işleyerek bilgi toplama, zafiyet tarama, istismar ve raporlama adımlarını uçtan uca gerçekleştiriyor.
 
-- ★ 2.575
+- ★ 2.646
 - Python
 - GitHub Trending · 2026-06-30
 
 ## Güncelleme
+- 9 Ağustos 2026: Yıldız 2.575 → 2.646, son sürüm v0.3.8 (9 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 2.425 → 2.575, son sürüm v0.3.7 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 1.313 → 2.425, son sürüm v0.3.6 (25 Temmuz 2026).
 

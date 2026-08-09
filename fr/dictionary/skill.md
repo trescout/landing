@@ -37,7 +37,7 @@ Habituellement, des connexions API ou des blocs de code spéciaux sont écrits p
 - [OfficeCLI](/fr/discover/officecli/)
 - [Reverse Skill](/fr/discover/reverse-skill/)
 - [Video Use](/fr/discover/video-use/)
-- [Book to Skill](/fr/discover/book-to-skill/)
+- [I Have Adhd](/fr/discover/i-have-adhd/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/skill/

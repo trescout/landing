@@ -13,6 +13,8 @@ The DevOps interview guide brings together technical questions and interview pre
 ## Getting started
 This guide is a source of information, not a software tool. You can browse the folders containing company names by visiting the GitHub page, or use the search bar to review previously shared interview experiences of the companies you are interested in.
 
+## Related dictionary terms
+
 ## Links
 - GitHub repository →
 - Read in Turkish →

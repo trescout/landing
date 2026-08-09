@@ -2,11 +2,12 @@
 
 Ce livre open source sur les agents d'intelligence artificielle (agents IA) couvre de manière exhaustive les principes de conception et les applications d'ingénierie. En plus des informations théoriques, il comprend des codes d'application divisés en sections et des fichiers PDF compilés.
 
-- ★ 33 116
+- ★ 34 874
 - Python
 - GitHub Trending · 2026-07-20
 
 ## Mise à jour
+- 9 août 2026 : Étoile 33 116 → 34 874.
 - 6 août 2026 : Étoile 29 814 → 33 116.
 - 2 août 2026 : Étoile 7 362 → 29 814.
 

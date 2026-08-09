@@ -27,6 +27,7 @@ It binds all companies worldwide that do business with EU citizens.
 
 
 ## Related terms
+- [Data Residency](/en/dictionary/data-residency/)
 - [End-to-End Privacy](/en/dictionary/end-to-end-privacy/)
 - [Security Scanner](/en/dictionary/security-scanner/)
 

@@ -2,11 +2,12 @@
 
 Développé avec le langage Go, no-mistakes est un outil en ligne de commande conçu pour empêcher les développeurs de logiciels de soumettre du code erroné (git push). En s'exécutant dans l'environnement de développement local, il fournit une couche de sécurité qui empêche les modifications indésirables d'être introduites dans la base de code.
 
-- ★ 7 424
+- ★ 7 475
 - Go
 - GitHub Trending · 2026-06-25
 
 ## Mise à jour
+- 9 août 2026 : Star 7.424 → 7.475, dernière version v1.46.0 (6 août 2026).
 - 6 août 2026 : Star 7.334 → 7.424, dernière version v1.45.4 (4 août 2026).
 - 2 août 2026 : Étoile 2 519 → 7 334, dernière version v1.41.2 (24 juillet 2026).
 

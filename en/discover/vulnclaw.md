@@ -2,11 +2,12 @@
 
 VulnClaw automates penetration testing processes using AI agents and the Model Context Protocol toolchain. The tool processes natural language commands and performs end-to-end information collection, vulnerability scanning, exploitation and reporting steps.
 
-- ★ 2,575
+- ★ 2,646
 - Python
 - GitHub Trending · 2026-06-30
 
 ## Update
+- August 9, 2026: Star 2,575 → 2,646, latest version v0.3.8 (August 9, 2026).
 - August 6, 2026: Star 2,425 → 2,575, latest version v0.3.7 (August 4, 2026).
 - August 2, 2026: Star 1,313 → 2,425, latest version v0.3.6 (July 25, 2026).
 

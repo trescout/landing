@@ -25,6 +25,7 @@ Il lie toutes les entreprises du monde entier qui font des affaires avec des cit
 
 
 ## Termes liés
+- [Data Residency](/fr/dictionary/data-residency/)
 - [End-to-End Privacy](/fr/dictionary/end-to-end-privacy/)
 - [Security Scanner](/fr/dictionary/security-scanner/)
 

@@ -13,6 +13,8 @@ Le guide d'entretien DevOps rassemble des questions techniques et des conseils d
 ## Pour commencer
 Ce guide est une source d'informations et non un outil logiciel. Vous pouvez parcourir les dossiers contenant les noms d'entreprises en visitant la page GitHub ou utiliser la barre de recherche pour consulter les expériences d'entretien précédemment partagées avec les entreprises qui vous intéressent.
 
+## Termes liés du glossaire
+
 ## Liens
 - Dépôt GitHub →
 - Lire en turc →
