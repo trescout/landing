@@ -1,0 +1,333 @@
+{
+  "date": "2026-08-09",
+  "editorial": "Yapay zeka ajanlarının yetenek setleri (agent skills) ve robotik öğrenme süreçleri üzerine yoğunlaşan teknik mimariler bugün geliştirici topluluğunun ana gündemini oluşturuyor. Nixpkgs çekirdek ekibinin dağılması ve yazılım geliştirme pratiklerine dair eleştirel tartışmalar ise altyapı yönetimi ile mesleki değer algısı arasındaki kopuşu belirginleştiriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "summary": "PrimeIntellect tarafından geliştirilen Prime-Agent, yazılım geliştirme süreçleri ve uzun süreli otonom görevler için tasarlanmış, kendi kendini geliştiren bir takviyeli öğrenme ajanıdır (reinforcement learning agent). TypeScript diliyle yazılan bu araç, karmaşık iş akışlarını otomatikleştirerek yapay zekâ destekli yazılım geliştirme süreçlerine odaklanır.",
+          "meta": "TypeScript · ★ 9.257 · +2.483 bugün"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Yapay zekâ kodlama ajanları için geliştirilen agent-skills, üretim aşamasına uygun mühendislik yetenekleri (engineering skills) sunuyor. JavaScript tabanlı bu kütüphane, yazılım geliştirme süreçlerinde ajanların daha yetkin görevler üstlenmesini sağlıyor.",
+          "meta": "JavaScript · ★ 84.674 · +779 bugün"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "ChinaTextbook, ilköğretimden üniversite seviyesine kadar Çin eğitim müfredatında kullanılan ders kitaplarının PDF formatındaki arşivini sunuyor. Bu açık kaynaklı depo, akademik kaynaklara dijital erişim sağlamayı amaçlıyor.",
+          "meta": "Roff · ★ 78.023 · +118 bugün"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Google tarafından geliştirilen Skills, Google ürünleri ve teknolojileriyle etkileşime giren yapay zekâ ajanları için standartlaştırılmış yetenek paketleri (skills) sunuyor. Python tabanlı bu kütüphane, geliştiricilerin otonom sistemlere karmaşık görevleri yerine getirme becerisi kazandırmasını sağlıyor.",
+          "meta": "Python · ★ 16.830 · +481 bugün"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Mattpocock tarafından paylaşılan Skills, yazılım geliştiricilerin yapay zekâ ajanları için kullandığı özelleştirilmiş yetenek paketlerini (skills) içeren bir kütüphane. Gerçek mühendislik süreçlerinde kullanılan bu hazır komut dosyaları, ajan tabanlı iş akışlarının otomasyonunu kolaylaştırıyor.",
+          "meta": "Shell · ★ 210.223 · +1.359 bugün"
+        },
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik, uygulamalar için merkezi kimlik doğrulama ve erişim yönetimi sağlayan açık kaynaklı bir güvenlik platformu. Karmaşık kimlik sistemlerini tek bir noktada birleştirerek, kullanıcıların farklı servisler arasında güvenli geçiş yapmasına olanak tanıyor.",
+          "meta": "Python · ★ 24.017 · +467 bugün"
+        },
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TradingAgents, finansal piyasalarda işlem yapmak üzere tasarlanmış çoklu yapay zekâ ajanı (multi-agent) tabanlı bir çerçeve yazılımıdır. Büyük dil modellerini (large language models) kullanarak piyasa verilerini analiz eden ve otonom ticaret stratejileri geliştiren bir altyapı sunar.",
+          "meta": "Python · ★ 96.591 · +153 bugün"
+        },
+        {
+          "title": "google/guava",
+          "url": "https://github.com/google/guava",
+          "summary": "Google tarafından geliştirilen Guava, Java projelerinde kullanılan temel kütüphaneler (core libraries) koleksiyonudur. Koleksiyonlar, önbelleğe alma (caching) ve dizgi işleme gibi yaygın programlama görevlerini kolaylaştıran araçlar sunar.",
+          "meta": "Java · ★ 51.867 · +93 bugün"
+        },
+        {
+          "title": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "summary": "Ladybird, mevcut büyük tarayıcı motorlarından bağımsız olarak geliştirilen yeni bir web tarayıcısı. C++ diliyle yazılan bu proje, internet standartlarını temel alan açık kaynaklı bir alternatif sunmayı amaçlıyor.",
+          "meta": "C++ · ★ 65.040 · +48 bugün"
+        },
+        {
+          "title": "denoland/celld",
+          "url": "https://github.com/denoland/celld",
+          "summary": "Deno tarafından geliştirilen Celld, dağıtık sistemler için kendi sunucunuzda barındırabileceğiniz (self-hosted) kalıcı nesneler (durable objects) altyapısı sunuyor. Rust diliyle yazılan bu araç, durum bilgisi tutan dağıtık uygulamaların ölçeklenebilir bir şekilde yönetilmesini sağlıyor.",
+          "meta": "Rust · ★ 2.645 · +432 bugün"
+        },
+        {
+          "title": "litu54/DevOps-Interview-Guide",
+          "url": "https://github.com/litu54/DevOps-Interview-Guide",
+          "summary": "DevOps mülakat rehberi, yazılım geliştirme ve operasyon süreçlerini birleştiren DevOps alanındaki teknik soruları ve mülakat hazırlık ipuçlarını bir araya getiriyor. Bu kaynak, adayların bulut bilişim (cloud computing), sürekli entegrasyon (CI/CD) ve altyapı yönetimi gibi konulardaki bilgilerini pekiştirmelerine yardımcı oluyor.",
+          "meta": "★ 738 · +68 bugün"
+        },
+        {
+          "title": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "summary": "Kotlin diliyle geliştirilen fanqiang, kullanıcıların internet üzerindeki kısıtlamaları aşarak ağ trafiğini yönlendirmesini sağlayan bir araçtır. Açık kaynaklı bu proje, sansürlenmiş içeriklere erişim için çeşitli yöntemler sunar.",
+          "meta": "Kotlin · ★ 49.993 · +101 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "“Code was never the hard part” is an insult to all programmers",
+          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+          "summary": "Yazılım geliştirme sürecinde kod yazmanın işin kolay kısmı olduğu iddiası, geliştiricilerin teknik uzmanlığını ve problem çözme becerilerini küçümsediği gerekçesiyle eleştiriliyor. Bu tartışma, yazılım dünyasında teknik uygulama ile ürün tasarımı arasındaki değer dengesini yeniden gündeme getiriyor.",
+          "meta": "636 oy · 399 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49222189",
+              "popularity": 636,
+              "engagementCount": 399
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all",
+              "popularity": 15,
+              "engagementCount": 17
+            }
+          ]
+        },
+        {
+          "title": "_for-sale DNS records",
+          "url": "https://specification.website/spec/foundations/for-sale-dns/",
+          "summary": "Alan adı sahiplerinin, sahip oldukları adresleri satışa çıkarmak için kullandığı yöntemleri standartlaştıran for-sale DNS kayıtları, alan adı alım satım sürecini otomatize etmeyi amaçlıyor. Bu teknik standart, tarayıcıların veya diğer araçların bir alan adının satılık olduğunu doğrudan DNS sorguları üzerinden tespit etmesini sağlıyor.",
+          "meta": "371 oy · 136 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49221668",
+              "popularity": 371,
+              "engagementCount": 136
+            }
+          ]
+        },
+        {
+          "title": "Fastmail offers EU data region",
+          "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+          "summary": "E-posta hizmeti Fastmail, kullanıcılarına verilerini Avrupa Birliği sınırları içerisinde saklama seçeneği sunmaya başladı. Bu adım, Avrupa'daki veri gizliliği düzenlemelerine (GDPR) uyum sağlamak isteyen kullanıcılar için bölgesel veri depolama (data residency) imkânı tanıyor.",
+          "meta": "353 oy · 178 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49223082",
+              "popularity": 353,
+              "engagementCount": 178
+            }
+          ]
+        },
+        {
+          "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+          "summary": "Kullanıcılar, kaybolan cihazları bulmak için üretken yapay zekâ (generative AI) modellerinden Bluetooth sinyal gücü takibi gibi teknik yöntemler konusunda öneri alıyor. Bu yaklaşım, karmaşık sorunları çözmek için yapay zekâyı bir problem çözme ortağı olarak kullanma eğilimini gösteriyor.",
+          "meta": "247 oy · 181 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49215786",
+              "popularity": 247,
+              "engagementCount": 181
+            }
+          ]
+        },
+        {
+          "title": "My server is a phone now",
+          "url": "https://seg6.space/posts/phone-server/",
+          "summary": "Geliştiriciler, eski akıllı telefonları düşük güç tüketen ve her an erişilebilir kişisel sunuculara (home server) dönüştürme yöntemlerini paylaşıyor. Bu yaklaşım, mevcut donanımları yeniden işlevlendirerek düşük maliyetli bir barındırma çözümü sunuyor.",
+          "meta": "194 oy · 79 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49226636",
+              "popularity": 194,
+              "engagementCount": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMaxAI tarafından geliştirilen MiniMax-H3, görsel ve metin girdilerini kullanarak video oluşturan bir üretken yapay zekâ (generative AI) modelidir. Model, karmaşık komutları görsel içeriklere dönüştürerek video üretim süreçlerini hızlandırmayı amaçlar.",
+          "meta": "♥ 3.126 · 26.693 indirme"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek tarafından geliştirilen DeepSeek-V4-Flash-0731, metin üretme (text generation) odaklı yeni bir yapay zekâ modelidir. Hugging Face üzerinde paylaşılan bu model, yüksek performanslı dil işleme görevleri için optimize edilmiş bir yapı sunar.",
+          "meta": "♥ 2.866 · 785.771 indirme"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3, metin ve görsel işleme yeteneklerine sahip çok modlu bir büyük dil modeli (large language model). Görsel ve metinsel verileri eş zamanlı analiz ederek karmaşık görevlerde yüksek performans göstermeyi amaçlıyor.",
+          "meta": "♥ 1.012 · 3.943.176 indirme"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K3, görsellerden ve metinlerden gelen verileri işleyerek metin tabanlı çıktılar üreten çok modlu bir yapay zekâ modeli (multimodal model). Model, farklı veri türlerini anlamlandırarak kullanıcı etkileşimlerinde içerik oluşturma süreçlerini destekliyor.",
+          "meta": "♥ 10.347 · 1.388.105 indirme"
+        },
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "HuggingFace üzerinde paylaşılan MiniMax-H3-Turbo-Lora, metinden videoya dönüştürme (text-to-video) yeteneklerini geliştiren bir uyarlama katmanı (LoRA) çalışmasıdır. Bu model, temel video oluşturma modellerinin performansını belirli görevler için özelleştirmeye olanak tanır.",
+          "meta": "♥ 494 · 0 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization",
+          "url": "https://huggingface.co/papers/2608.01492",
+          "summary": "GaussianSelector, üç boyutlu Gaussian sıçratma (3D Gaussian Splatting) sahnelerinde nesneleri seçmek için eğitimsiz bir çerçeve sunuyor. Çizge optimizasyonu (graph optimization) kullanarak, yoğun hesaplama gerektiren yöntemlerin aksine az sayıda bakış açısından nesne seçimini mümkün kılıyor.",
+          "meta": "4 beğeni · 2 yorum"
+        },
+        {
+          "title": "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
+          "url": "https://huggingface.co/papers/2608.01851",
+          "summary": "Robot öğrenme dünyası, yetenekleri sabit ağırlıklara (weights) gömen görme-dil-eylem (vision-language-action) modelleri ile kendi kod tabanlı becerilerini yazıp geliştiren ajanlar olmak üzere iki ana yaklaşıma ayrılıyor. Bu inceleme, robotik yöntemleri kod tabanlı politika (code-as-policy) stratejileri üzerinden sınıflandırarak sistemlerin kendi kendini iyileştirme kapasitelerini analiz ediyor.",
+          "meta": "6 beğeni · 2 yorum"
+        },
+        {
+          "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
+          "url": "https://huggingface.co/papers/2608.01049",
+          "summary": "FactorJEPA, karmaşık ve kalabalık kentsel alanlardaki fiziksel dünyayı tahmin etmek için geliştirilen bir dünya modeli (world model) mimarisidir. Karmaşık ortamları düzen, ajan ve etkileşim kanallarına ayırarak geleneksel modellerin zorlandığı yoğun şehir dokularında daha tutarlı tahminler üretmeyi hedefler.",
+          "meta": "6 beğeni · 2 yorum"
+        },
+        {
+          "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
+          "url": "https://huggingface.co/papers/2608.05798",
+          "summary": "KVAE, ses, görüntü ve video verilerini metin tabanlı üretken modeller (generative models) için sıkıştırılmış gösterimlere dönüştüren yeni bir belirteçleştirici (tokenizer) ailesidir. Bu yöntem, veriyi daha verimli işleyerek üretilen içeriklerin kalitesini ve modelin öğrenme hızını artırmayı hedefler.",
+          "meta": "15 beğeni · 3 yorum"
+        },
+        {
+          "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
+          "url": "https://huggingface.co/papers/2608.05784",
+          "summary": "Activity Frames, bilgisayar kullanım ajanlarının geçmiş eylemleri hatırlaması için ekran kayıtlarını belirleyici bir yöntemle yapılandırılmış verilere dönüştürüyor. Bu yaklaşım, yapay zekâ modellerini devre dışı bırakarak ekran akışlarını uygulama, zamanlama ve girdi verisi gibi kategorilere ayırıp ajan hafızasını daha verimli hale getiriyor.",
+          "meta": "18 beğeni · 6 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "some software talks i like",
+          "url": "https://char.lt/blog/2026/08/talks-i-like/",
+          "summary": "Yazılım dünyasındaki teknik sunumları derleyen bu liste, sistem mimarisi ve programlama dilleri üzerine odaklanan içerikleri bir araya getiriyor. Yazılım geliştirme süreçlerini derinlemesine inceleyen bu konuşmalar, sektördeki güncel yaklaşımları öğrenmek isteyenler için bir kaynak oluşturuyor.",
+          "meta": "61 oy · 13 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/cmrfrj/some_software_talks_i_like",
+              "popularity": 61,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "The Nixpkgs core team has disbanded",
+          "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+          "summary": "Nix paket yöneticisinin temel deposu olan Nixpkgs çekirdek ekibi, yönetim yapısını değiştirmek amacıyla dağıtıldı. Bu karar, projenin yönetişim modelini daha geniş bir katılımcı kitlesine yaymayı hedefliyor.",
+          "meta": "97 oy · 12 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded",
+              "popularity": 97,
+              "engagementCount": 12
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "reinforcement learning agent",
+      "explanation": "Deneme yanılma yoluyla ödül kazanarak en doğru kararları vermeyi öğrenen yapay zekâ yazılımı."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık problemleri mantıklı adımlarla çözebilme ve teknik sistemler kurabilme becerisi."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir işi yapmak için gereken bilgi ve pratik yapma yeteneği."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Birbirleriyle iletişim kurarak ortak bir hedefe ulaşmaya çalışan birden fazla yapay zekâ birimi."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "core libraries",
+      "explanation": "Bir yazılımın temel işlevlerini yerine getirmesini sağlayan hazır kod paketleri."
+    },
+    {
+      "term": "caching",
+      "explanation": "Sık kullanılan verileri hızlı erişim için geçici olarak bellekte saklama işlemi."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Bir hizmeti başkasının sunucusunda değil, kendi kontrolünüzdeki kişisel bilgisayarda çalıştırma durumu."
+    },
+    {
+      "term": "durable objects",
+      "explanation": "İnternet üzerinde veriyi kaybetmeden sürekli çalışabilen ve durumunu koruyan küçük yazılım parçaları."
+    },
+    {
+      "term": "cloud computing",
+      "explanation": "Bilgisayar gücü ve depolama gibi hizmetlerin internet üzerinden uzaktaki sunucularla sağlanması."
+    },
+    {
+      "term": "CI/CD",
+      "explanation": "Yazılım güncellemelerinin otomatik olarak test edilip yayına alınmasını sağlayan sistem."
+    },
+    {
+      "term": "GDPR",
+      "explanation": "İnternet kullanıcılarının kişisel verilerinin nasıl korunacağını belirleyen yasal kurallar bütünü."
+    },
+    {
+      "term": "data residency",
+      "explanation": "Dijital verilerin yasal nedenlerle belirli bir coğrafi bölge veya ülke sınırları içinde tutulması zorunluluğu."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Mevcut verileri kullanarak yeni görseller, metinler veya sesler oluşturabilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "home server",
+      "explanation": "Evdeki cihazların dosya paylaşımı veya medya yönetimi gibi işlerini yürütmek için sürekli açık tutulan kişisel bilgisayar."
+    },
+    {
+      "term": "text generation",
+      "explanation": "Yapay zekânın verilen komutlara göre anlamlı cümleler ve yazılar oluşturması."
+    }
+  ]
+}

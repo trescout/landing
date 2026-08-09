@@ -1,0 +1,333 @@
+{
+  "date": "2026-08-09",
+  "editorial": "Technical architectures focusing on the skill sets of artificial intelligence agents and robotic learning processes constitute the main agenda of the developer community today. The dissolution of the Nixpkgs core team and critical discussions about software development practices clarify the break between infrastructure management and professional value perception.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "summary": "Prime-Agent, developed by PrimeIntellect, is a self-developing reinforcement learning agent designed for software development processes and long-term autonomous tasks. Written in TypeScript, this tool focuses on artificial intelligence-supported software development processes by automating complex workflows.",
+          "meta": "TypeScript · ★ 9,257 · +2,483 today"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Developed for artificial intelligence coding agents, agent-skills offer engineering skills suitable for the production stage. This JavaScript-based library enables agents to undertake more competent tasks in software development processes.",
+          "meta": "JavaScript · ★ 84,674 · +779 today"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "ChinaTextbook offers an archive of textbooks used in the Chinese education curriculum from primary to university level in PDF format. This open source repository aims to provide digital access to academic resources.",
+          "meta": "Roff · ★ 78,023 · +118 today"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Developed by Google, Skills offers standardized skill packages for artificial intelligence agents that interact with Google products and technologies. This Python-based library enables developers to give autonomous systems the ability to perform complex tasks.",
+          "meta": "Python · ★ 16,830 · +481 today"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Shared by Mattpocock, Skills is a library containing customized skill packages that software developers use for artificial intelligence agents. These ready-made scripts, used in real engineering processes, facilitate the automation of agent-based workflows.",
+          "meta": "Shell · ★ 210,223 · +1,359 today"
+        },
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik is an open source security platform that provides centralized authentication and access management for applications. By combining complex identity systems in a single point, it allows users to switch securely between different services.",
+          "meta": "Python · ★ 24,017 · +467 today"
+        },
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TradingAgents is a multi-agent based framework software designed to trade in financial markets. It offers an infrastructure that analyzes market data and develops autonomous trading strategies using large language models.",
+          "meta": "Python · ★ 96,591 · +153 today"
+        },
+        {
+          "title": "google/guava",
+          "url": "https://github.com/google/guava",
+          "summary": "Developed by Google, Guava is a collection of core libraries used in Java projects. Collections provide tools that simplify common programming tasks such as caching and string manipulation.",
+          "meta": "Java · ★ 51,867 · +93 today"
+        },
+        {
+          "title": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "summary": "Ladybird is a new web browser developed independently of the existing major browser engines. Written in C++, this project aims to provide an open source alternative based on internet standards.",
+          "meta": "C++ · ★ 65,040 · +48 today"
+        },
+        {
+          "title": "denoland/celld",
+          "url": "https://github.com/denoland/celld",
+          "summary": "Developed by Deno, Celld offers a self-hosted durable objects infrastructure for distributed systems. Written in Rust, this tool enables scalable management of stateful distributed applications.",
+          "meta": "Rust · ★ 2,645 · +432 today"
+        },
+        {
+          "title": "litu54/DevOps-Interview-Guide",
+          "url": "https://github.com/litu54/DevOps-Interview-Guide",
+          "summary": "The DevOps interview guide brings together technical questions and interview preparation tips in the field of DevOps, which combines software development and operations processes. This resource helps candidates strengthen their knowledge on topics such as cloud computing, continuous integration (CI/CD) and infrastructure management.",
+          "meta": "★ 738 · +68 today"
+        },
+        {
+          "title": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "summary": "Developed with the Kotlin language, fanqiang is a tool that allows users to route network traffic by bypassing restrictions on the internet. This open source project offers various methods to access censored content.",
+          "meta": "Kotlin · ★ 49,993 · +101 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "“Code was never the hard part” is an insult to all programmers",
+          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+          "summary": "The claim that writing code is the easy part of the software development process has been criticized on the grounds that it underestimates the technical expertise and problem-solving skills of developers. This discussion brings back to the fore the value balance between technical implementation and product design in the software world.",
+          "meta": "636 points · 399 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49222189",
+              "popularity": 636,
+              "engagementCount": 399
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all",
+              "popularity": 15,
+              "engagementCount": 17
+            }
+          ]
+        },
+        {
+          "title": "_for-sale DNS records",
+          "url": "https://specification.website/spec/foundations/for-sale-dns/",
+          "summary": "For-sale DNS records, which standardize the methods used by domain name owners to put their addresses up for sale, aim to automate the domain name buying and selling process. This technical standard allows browsers or other tools to detect when a domain name is for sale through direct DNS queries.",
+          "meta": "371 points · 136 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49221668",
+              "popularity": 371,
+              "engagementCount": 136
+            }
+          ]
+        },
+        {
+          "title": "Fastmail offers EU data region",
+          "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+          "summary": "E-mail service Fastmail has started to offer its users the option of storing their data within the borders of the European Union. This step enables regional data residency (data residency) for users who want to comply with data privacy regulations (GDPR) in Europe.",
+          "meta": "353 points · 178 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49223082",
+              "popularity": 353,
+              "engagementCount": 178
+            }
+          ]
+        },
+        {
+          "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+          "summary": "Users are getting advice on technical methods such as Bluetooth signal strength tracking from generative AI models to find lost devices. This approach shows a trend towards using AI as a problem-solving partner to solve complex problems.",
+          "meta": "247 points · 181 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49215786",
+              "popularity": 247,
+              "engagementCount": 181
+            }
+          ]
+        },
+        {
+          "title": "My server is a phone now",
+          "url": "https://seg6.space/posts/phone-server/",
+          "summary": "Developers share their methods for turning old smartphones into low-power and always-accessible personal servers. This approach offers a low-cost hosting solution by repurposing existing hardware.",
+          "meta": "194 points · 79 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49226636",
+              "popularity": 194,
+              "engagementCount": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, developed by MiniMaxAI, is a generative AI model that creates video using visual and text inputs. The model aims to speed up video production processes by converting complex commands into visual content.",
+          "meta": "♥ 3,126 · 26,693 downloads"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, developed by DeepSeek, is a new artificial intelligence model focused on text generation. This model, shared on Hugging Face, offers a structure optimized for high-performance language processing tasks.",
+          "meta": "♥ 2,866 · 785,771 downloads"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3 is a multi-modal large language model with text and visual processing capabilities. It aims to show high performance in complex tasks by analyzing visual and textual data simultaneously.",
+          "meta": "♥ 1,012 · 3,943,176 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, developed by Moonshot AI, is a multimodal artificial intelligence model (multimodal model) that produces text-based outputs by processing data from images and texts. The model supports content creation processes in user interactions by making sense of different types of data.",
+          "meta": "♥ 10,347 · 1,388,105 downloads"
+        },
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "MiniMax-H3-Turbo-Lora, shared on HuggingFace, is a layer of adaptation (LoRA) work that improves text-to-video capabilities. This model allows customizing the performance of basic video rendering models for specific tasks.",
+          "meta": "♥ 494 · 0 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization",
+          "url": "https://huggingface.co/papers/2608.01492",
+          "summary": "GaussianSelector provides a training-free framework for selecting objects in three-dimensional Gaussian splatting scenes. By using graph optimization, it enables object selection from a small number of viewpoints, unlike computationally intensive methods.",
+          "meta": "4 likes · 2 comments"
+        },
+        {
+          "title": "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
+          "url": "https://huggingface.co/papers/2608.01851",
+          "summary": "The world of robot learning is divided into two main approaches: vision-language-action models that embed skills into fixed weights, and agents that write and develop their own code-based skills. This review analyzes the self-healing capacities of systems by classifying robotic methods through code-as-policy strategies.",
+          "meta": "6 likes · 2 comments"
+        },
+        {
+          "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
+          "url": "https://huggingface.co/papers/2608.01049",
+          "summary": "FactorJEPA is a world model architecture developed to estimate the physical world in complex and crowded urban areas. By separating complex environments into order, agent and interaction channels, it aims to produce more consistent predictions in dense urban textures where traditional models are challenged.",
+          "meta": "6 likes · 2 comments"
+        },
+        {
+          "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
+          "url": "https://huggingface.co/papers/2608.05798",
+          "summary": "KVAE is a new family of tokenizers that convert audio, image and video data into compressed representations for text-based generative models. This method aims to increase the quality of the content produced and the learning speed of the model by processing data more efficiently.",
+          "meta": "15 likes · 3 comments"
+        },
+        {
+          "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
+          "url": "https://huggingface.co/papers/2608.05784",
+          "summary": "Activity Frames deterministically transforms screen recordings into structured data so that computing agents can remember past actions. This approach makes agent memory more efficient by disabling artificial intelligence models and dividing screen flows into categories such as application, timing and input data.",
+          "meta": "18 likes · 6 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "some software talks i like",
+          "url": "https://char.lt/blog/2026/08/talks-i-like/",
+          "summary": "This list, which compiles technical presentations in the software world, brings together content focusing on system architecture and programming languages. These talks, which examine software development processes in depth, serve as a resource for those who want to learn about current approaches in the industry.",
+          "meta": "61 points · 13 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/cmrfrj/some_software_talks_i_like",
+              "popularity": 61,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "The Nixpkgs core team has disbanded",
+          "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+          "summary": "The Nixpkgs core team, the underlying repository for the Nix package manager, was disbanded in order to change the management structure. This decision aims to expand the project's governance model to a wider range of participants.",
+          "meta": "97 points · 12 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded",
+              "popularity": 97,
+              "engagementCount": 12
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "reinforcement learning agent",
+      "explanation": "Artificial intelligence software that learns to make the right decisions by earning rewards through trial and error."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Ability to solve complex problems in logical steps and establish technical systems."
+    },
+    {
+      "term": "skills",
+      "explanation": "The knowledge and practical ability required to do a job."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Multiple AI units communicating with each other trying to achieve a common goal."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "core libraries",
+      "explanation": "Ready-made code packages that enable a software to perform its basic functions."
+    },
+    {
+      "term": "caching",
+      "explanation": "The process of temporarily storing frequently used data in memory for quick access."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "The situation of running a service on a personal computer that you control, rather than on someone else's server."
+    },
+    {
+      "term": "durable objects",
+      "explanation": "Small pieces of software that can run continuously and maintain their state on the Internet without losing data."
+    },
+    {
+      "term": "cloud computing",
+      "explanation": "Provision of services such as computer power and storage via remote servers over the Internet."
+    },
+    {
+      "term": "CI/CD",
+      "explanation": "System that allows software updates to be tested and released automatically."
+    },
+    {
+      "term": "GDPR",
+      "explanation": "A set of legal rules that determine how the personal data of Internet users will be protected."
+    },
+    {
+      "term": "data residency",
+      "explanation": "The obligation to keep digital data within the borders of a certain geographical region or country for legal reasons."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Artificial intelligence technology that can create new images, text or sounds using existing data."
+    },
+    {
+      "term": "home server",
+      "explanation": "A personal computer that is kept on at all times to perform tasks such as file sharing or media management of home devices."
+    },
+    {
+      "term": "text generation",
+      "explanation": "Artificial intelligence creates meaningful sentences and texts according to the commands given."
+    }
+  ]
+}

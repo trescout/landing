@@ -1,0 +1,186 @@
+{
+  "date": "2026-08-09",
+  "editorial": "This report includes the trends that emerged today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TradingAgents is a multi-agent based framework software designed to trade in financial markets. It offers an infrastructure that analyzes market data and develops autonomous trading strategies using large language models.",
+          "meta": "Python · ★ 96,591 · +153 today",
+          "returning": true
+        },
+        {
+          "title": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "summary": "Ladybird is a new web browser developed independently of the existing major browser engines. Written in C++, this project aims to provide an open source alternative based on internet standards.",
+          "meta": "C++ · ★ 65,040 · +48 today"
+        },
+        {
+          "title": "litu54/DevOps-Interview-Guide",
+          "url": "https://github.com/litu54/DevOps-Interview-Guide",
+          "summary": "The DevOps interview guide brings together technical questions and interview preparation tips in the field of DevOps, which combines software development and operations processes. This resource helps candidates strengthen their knowledge on topics such as cloud computing, continuous integration (CI/CD) and infrastructure management.",
+          "meta": "★ 738 · +68 today"
+        },
+        {
+          "title": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "summary": "Developed with the Kotlin language, fanqiang is a tool that allows users to route network traffic by bypassing restrictions on the internet. This open source project offers various methods to access censored content.",
+          "meta": "Kotlin · ★ 49,993 · +101 today",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "“Code was never the hard part” is an insult to all programmers",
+          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+          "summary": "The claim that writing code is the easy part of the software development process has been criticized on the grounds that it underestimates the technical expertise and problem-solving skills of developers. This discussion brings back to the fore the value balance between technical implementation and product design in the software world.",
+          "meta": "636 points · 399 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49222189",
+              "popularity": 636,
+              "engagementCount": 399
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all",
+              "popularity": 15,
+              "engagementCount": 17
+            }
+          ]
+        },
+        {
+          "title": "_for-sale DNS records",
+          "url": "https://specification.website/spec/foundations/for-sale-dns/",
+          "summary": "For-sale DNS records, which standardize the methods used by domain name owners to put their addresses up for sale, aim to automate the domain name buying and selling process. This technical standard allows browsers or other tools to detect when a domain name is for sale through direct DNS queries.",
+          "meta": "371 points · 136 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49221668",
+              "popularity": 371,
+              "engagementCount": 136
+            }
+          ]
+        },
+        {
+          "title": "Fastmail offers EU data region",
+          "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+          "summary": "E-mail service Fastmail has started to offer its users the option of storing their data within the borders of the European Union. This step enables regional data residency (data residency) for users who want to comply with data privacy regulations (GDPR) in Europe.",
+          "meta": "353 points · 178 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49223082",
+              "popularity": 353,
+              "engagementCount": 178
+            }
+          ]
+        },
+        {
+          "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+          "summary": "Users are getting advice on technical methods such as Bluetooth signal strength tracking from generative AI models to find lost devices. This approach shows a trend towards using AI as a problem-solving partner to solve complex problems.",
+          "meta": "247 points · 181 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49215786",
+              "popularity": 247,
+              "engagementCount": 181
+            }
+          ]
+        },
+        {
+          "title": "My server is a phone now",
+          "url": "https://seg6.space/posts/phone-server/",
+          "summary": "Developers share their methods for turning old smartphones into low-power and always-accessible personal servers. This approach offers a low-cost hosting solution by repurposing existing hardware.",
+          "meta": "194 points · 79 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49226636",
+              "popularity": 194,
+              "engagementCount": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "MiniMax-H3-Turbo-Lora, shared on HuggingFace, is a layer of adaptation (LoRA) work that improves text-to-video capabilities. This model allows customizing the performance of basic video rendering models for specific tasks.",
+          "meta": "♥ 494 · 0 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "some software talks i like",
+          "url": "https://char.lt/blog/2026/08/talks-i-like/",
+          "summary": "This list, which compiles technical presentations in the software world, brings together content focusing on system architecture and programming languages. These talks, which examine software development processes in depth, serve as a resource for those who want to learn about current approaches in the industry.",
+          "meta": "61 points · 13 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/cmrfrj/some_software_talks_i_like",
+              "popularity": 61,
+              "engagementCount": 13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "multi-agent",
+      "explanation": "Multiple AI units communicating with each other trying to achieve a common goal."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "cloud computing",
+      "explanation": "Provision of services such as computer power and storage via remote servers over the Internet."
+    },
+    {
+      "term": "CI/CD",
+      "explanation": "System that allows software updates to be tested and released automatically."
+    },
+    {
+      "term": "GDPR",
+      "explanation": "A set of legal rules that determine how the personal data of Internet users will be protected."
+    },
+    {
+      "term": "data residency",
+      "explanation": "The obligation to keep digital data within the borders of a certain geographical region or country for legal reasons."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Artificial intelligence technology that can create new images, text or sounds using existing data."
+    },
+    {
+      "term": "home server",
+      "explanation": "A personal computer that is kept on at all times to perform tasks such as file sharing or media management of home devices."
+    }
+  ]
+}

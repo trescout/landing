@@ -1,0 +1,186 @@
+{
+  "date": "2026-08-09",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TradingAgents, finansal piyasalarda işlem yapmak üzere tasarlanmış çoklu yapay zekâ ajanı (multi-agent) tabanlı bir çerçeve yazılımıdır. Büyük dil modellerini (large language models) kullanarak piyasa verilerini analiz eden ve otonom ticaret stratejileri geliştiren bir altyapı sunar.",
+          "meta": "Python · ★ 96.591 · +153 bugün",
+          "returning": true
+        },
+        {
+          "title": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "summary": "Ladybird, mevcut büyük tarayıcı motorlarından bağımsız olarak geliştirilen yeni bir web tarayıcısı. C++ diliyle yazılan bu proje, internet standartlarını temel alan açık kaynaklı bir alternatif sunmayı amaçlıyor.",
+          "meta": "C++ · ★ 65.040 · +48 bugün"
+        },
+        {
+          "title": "litu54/DevOps-Interview-Guide",
+          "url": "https://github.com/litu54/DevOps-Interview-Guide",
+          "summary": "DevOps mülakat rehberi, yazılım geliştirme ve operasyon süreçlerini birleştiren DevOps alanındaki teknik soruları ve mülakat hazırlık ipuçlarını bir araya getiriyor. Bu kaynak, adayların bulut bilişim (cloud computing), sürekli entegrasyon (CI/CD) ve altyapı yönetimi gibi konulardaki bilgilerini pekiştirmelerine yardımcı oluyor.",
+          "meta": "★ 738 · +68 bugün"
+        },
+        {
+          "title": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "summary": "Kotlin diliyle geliştirilen fanqiang, kullanıcıların internet üzerindeki kısıtlamaları aşarak ağ trafiğini yönlendirmesini sağlayan bir araçtır. Açık kaynaklı bu proje, sansürlenmiş içeriklere erişim için çeşitli yöntemler sunar.",
+          "meta": "Kotlin · ★ 49.993 · +101 bugün",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "“Code was never the hard part” is an insult to all programmers",
+          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+          "summary": "Yazılım geliştirme sürecinde kod yazmanın işin kolay kısmı olduğu iddiası, geliştiricilerin teknik uzmanlığını ve problem çözme becerilerini küçümsediği gerekçesiyle eleştiriliyor. Bu tartışma, yazılım dünyasında teknik uygulama ile ürün tasarımı arasındaki değer dengesini yeniden gündeme getiriyor.",
+          "meta": "636 oy · 399 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49222189",
+              "popularity": 636,
+              "engagementCount": 399
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all",
+              "popularity": 15,
+              "engagementCount": 17
+            }
+          ]
+        },
+        {
+          "title": "_for-sale DNS records",
+          "url": "https://specification.website/spec/foundations/for-sale-dns/",
+          "summary": "Alan adı sahiplerinin, sahip oldukları adresleri satışa çıkarmak için kullandığı yöntemleri standartlaştıran for-sale DNS kayıtları, alan adı alım satım sürecini otomatize etmeyi amaçlıyor. Bu teknik standart, tarayıcıların veya diğer araçların bir alan adının satılık olduğunu doğrudan DNS sorguları üzerinden tespit etmesini sağlıyor.",
+          "meta": "371 oy · 136 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49221668",
+              "popularity": 371,
+              "engagementCount": 136
+            }
+          ]
+        },
+        {
+          "title": "Fastmail offers EU data region",
+          "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+          "summary": "E-posta hizmeti Fastmail, kullanıcılarına verilerini Avrupa Birliği sınırları içerisinde saklama seçeneği sunmaya başladı. Bu adım, Avrupa'daki veri gizliliği düzenlemelerine (GDPR) uyum sağlamak isteyen kullanıcılar için bölgesel veri depolama (data residency) imkânı tanıyor.",
+          "meta": "353 oy · 178 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49223082",
+              "popularity": 353,
+              "engagementCount": 178
+            }
+          ]
+        },
+        {
+          "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+          "summary": "Kullanıcılar, kaybolan cihazları bulmak için üretken yapay zekâ (generative AI) modellerinden Bluetooth sinyal gücü takibi gibi teknik yöntemler konusunda öneri alıyor. Bu yaklaşım, karmaşık sorunları çözmek için yapay zekâyı bir problem çözme ortağı olarak kullanma eğilimini gösteriyor.",
+          "meta": "247 oy · 181 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49215786",
+              "popularity": 247,
+              "engagementCount": 181
+            }
+          ]
+        },
+        {
+          "title": "My server is a phone now",
+          "url": "https://seg6.space/posts/phone-server/",
+          "summary": "Geliştiriciler, eski akıllı telefonları düşük güç tüketen ve her an erişilebilir kişisel sunuculara (home server) dönüştürme yöntemlerini paylaşıyor. Bu yaklaşım, mevcut donanımları yeniden işlevlendirerek düşük maliyetli bir barındırma çözümü sunuyor.",
+          "meta": "194 oy · 79 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49226636",
+              "popularity": 194,
+              "engagementCount": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "HuggingFace üzerinde paylaşılan MiniMax-H3-Turbo-Lora, metinden videoya dönüştürme (text-to-video) yeteneklerini geliştiren bir uyarlama katmanı (LoRA) çalışmasıdır. Bu model, temel video oluşturma modellerinin performansını belirli görevler için özelleştirmeye olanak tanır.",
+          "meta": "♥ 494 · 0 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "some software talks i like",
+          "url": "https://char.lt/blog/2026/08/talks-i-like/",
+          "summary": "Yazılım dünyasındaki teknik sunumları derleyen bu liste, sistem mimarisi ve programlama dilleri üzerine odaklanan içerikleri bir araya getiriyor. Yazılım geliştirme süreçlerini derinlemesine inceleyen bu konuşmalar, sektördeki güncel yaklaşımları öğrenmek isteyenler için bir kaynak oluşturuyor.",
+          "meta": "61 oy · 13 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/cmrfrj/some_software_talks_i_like",
+              "popularity": 61,
+              "engagementCount": 13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "multi-agent",
+      "explanation": "Birbirleriyle iletişim kurarak ortak bir hedefe ulaşmaya çalışan birden fazla yapay zekâ birimi."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "cloud computing",
+      "explanation": "Bilgisayar gücü ve depolama gibi hizmetlerin internet üzerinden uzaktaki sunucularla sağlanması."
+    },
+    {
+      "term": "CI/CD",
+      "explanation": "Yazılım güncellemelerinin otomatik olarak test edilip yayına alınmasını sağlayan sistem."
+    },
+    {
+      "term": "GDPR",
+      "explanation": "İnternet kullanıcılarının kişisel verilerinin nasıl korunacağını belirleyen yasal kurallar bütünü."
+    },
+    {
+      "term": "data residency",
+      "explanation": "Dijital verilerin yasal nedenlerle belirli bir coğrafi bölge veya ülke sınırları içinde tutulması zorunluluğu."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Mevcut verileri kullanarak yeni görseller, metinler veya sesler oluşturabilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "home server",
+      "explanation": "Evdeki cihazların dosya paylaşımı veya medya yönetimi gibi işlerini yürütmek için sürekli açık tutulan kişisel bilgisayar."
+    }
+  ]
+}

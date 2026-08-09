@@ -1,0 +1,186 @@
+{
+  "date": "2026-08-09",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui ont émergé aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TradingAgents est un logiciel-cadre multi-agents conçu pour négocier sur les marchés financiers. Il offre une infrastructure qui analyse les données de marché et développe des stratégies de trading autonomes à l'aide de grands modèles de langage.",
+          "meta": "Python · ★ 96 591 · +153 aujourd'hui",
+          "returning": true
+        },
+        {
+          "title": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "summary": "Ladybird est un nouveau navigateur Web développé indépendamment des principaux moteurs de navigation existants. Écrit en C++, ce projet vise à fournir une alternative open source basée sur les standards Internet.",
+          "meta": "C++ · ★ 65 040 · +48 aujourd'hui"
+        },
+        {
+          "title": "litu54/DevOps-Interview-Guide",
+          "url": "https://github.com/litu54/DevOps-Interview-Guide",
+          "summary": "Le guide d'entretien DevOps rassemble des questions techniques et des conseils de préparation aux entretiens dans le domaine du DevOps, qui combine les processus de développement logiciel et d'exploitation. Cette ressource aide les candidats à renforcer leurs connaissances sur des sujets tels que le cloud computing, l'intégration continue (CI/CD) et la gestion de l'infrastructure.",
+          "meta": "★ 738 · +68 aujourd'hui"
+        },
+        {
+          "title": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "summary": "Développé avec le langage Kotlin, fanqiang est un outil qui permet aux utilisateurs d'acheminer le trafic réseau en contournant les restrictions sur Internet. Ce projet open source propose diverses méthodes pour accéder au contenu censuré.",
+          "meta": "Kotlin · ★ 49 993 · +101 aujourd'hui",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "“Code was never the hard part” is an insult to all programmers",
+          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+          "summary": "L’affirmation selon laquelle l’écriture de code constitue la partie la plus facile du processus de développement logiciel a été critiquée au motif qu’elle sous-estime l’expertise technique et les capacités de résolution de problèmes des développeurs. Cette discussion remet au premier plan l’équilibre des valeurs entre la mise en œuvre technique et la conception de produits dans le monde du logiciel.",
+          "meta": "636 votes · 399 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49222189",
+              "popularity": 636,
+              "engagementCount": 399
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all",
+              "popularity": 15,
+              "engagementCount": 17
+            }
+          ]
+        },
+        {
+          "title": "_for-sale DNS records",
+          "url": "https://specification.website/spec/foundations/for-sale-dns/",
+          "summary": "Les enregistrements DNS à vendre, qui standardisent les méthodes utilisées par les propriétaires de noms de domaine pour mettre leurs adresses en vente, visent à automatiser le processus d'achat et de vente de noms de domaine. Cette norme technique permet aux navigateurs ou à d'autres outils de détecter lorsqu'un nom de domaine est à vendre via des requêtes DNS directes.",
+          "meta": "371 votes · 136 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49221668",
+              "popularity": 371,
+              "engagementCount": 136
+            }
+          ]
+        },
+        {
+          "title": "Fastmail offers EU data region",
+          "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+          "summary": "Le service de messagerie Fastmail a commencé à offrir à ses utilisateurs la possibilité de stocker leurs données à l'intérieur des frontières de l'Union européenne. Cette étape permet la résidence régionale des données (résidence des données) pour les utilisateurs qui souhaitent se conformer aux réglementations sur la confidentialité des données (RGPD) en Europe.",
+          "meta": "353 votes · 178 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49223082",
+              "popularity": 353,
+              "engagementCount": 178
+            }
+          ]
+        },
+        {
+          "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+          "summary": "Les utilisateurs reçoivent des conseils sur les méthodes techniques telles que le suivi de la force du signal Bluetooth à partir de modèles d’IA génératifs pour retrouver les appareils perdus. Cette approche montre une tendance à utiliser l’IA comme partenaire de résolution de problèmes complexes.",
+          "meta": "247 votes · 181 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49215786",
+              "popularity": 247,
+              "engagementCount": 181
+            }
+          ]
+        },
+        {
+          "title": "My server is a phone now",
+          "url": "https://seg6.space/posts/phone-server/",
+          "summary": "Les développeurs partagent leurs méthodes pour transformer les vieux smartphones en serveurs personnels à faible consommation et toujours accessibles. Cette approche offre une solution d'hébergement à faible coût en réutilisant le matériel existant.",
+          "meta": "194 votes · 79 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49226636",
+              "popularity": 194,
+              "engagementCount": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "MiniMax-H3-Turbo-Lora, partagé sur HuggingFace, est une couche de travail d'adaptation (LoRA) qui améliore les capacités de conversion texte-vidéo. Ce modèle permet de personnaliser les performances des modèles de rendu vidéo de base pour des tâches spécifiques.",
+          "meta": "♥ 494 · 0 téléchargements"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "some software talks i like",
+          "url": "https://char.lt/blog/2026/08/talks-i-like/",
+          "summary": "Cette liste, qui compile des présentations techniques dans le monde du logiciel, regroupe des contenus axés sur l'architecture système et les langages de programmation. Ces conférences, qui examinent en profondeur les processus de développement de logiciels, constituent une ressource pour ceux qui souhaitent en savoir plus sur les approches actuelles de l'industrie.",
+          "meta": "61 votes · 13 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/cmrfrj/some_software_talks_i_like",
+              "popularity": 61,
+              "engagementCount": 13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "multi-agent",
+      "explanation": "Plusieurs unités d'IA communiquant entre elles pour tenter d'atteindre un objectif commun."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "cloud computing",
+      "explanation": "Fourniture de services tels que la puissance informatique et le stockage via des serveurs distants sur Internet."
+    },
+    {
+      "term": "CI/CD",
+      "explanation": "Système qui permet de tester et de publier automatiquement les mises à jour logicielles."
+    },
+    {
+      "term": "GDPR",
+      "explanation": "Un ensemble de règles juridiques qui déterminent la manière dont les données personnelles des internautes seront protégées."
+    },
+    {
+      "term": "data residency",
+      "explanation": "L'obligation de conserver les données numériques à l'intérieur des frontières d'une certaine région géographique ou d'un certain pays pour des raisons juridiques."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Technologie d’intelligence artificielle capable de créer de nouvelles images, textes ou sons à partir de données existantes."
+    },
+    {
+      "term": "home server",
+      "explanation": "Un ordinateur personnel qui reste allumé à tout moment pour effectuer des tâches telles que le partage de fichiers ou la gestion multimédia des appareils domestiques."
+    }
+  ]
+}
