@@ -2,11 +2,12 @@
 
 Witr, sistemdeki süreçleri, portları, konteynerleri veya dosyaları izleyerek bunların hangi kaynak tarafından başlatıldığını tespit eden bir komut satırı aracıdır. Kullanıcıların sistem üzerindeki etkinlikleri takip etmesini sağlayan bu yazılım, hem komut satırı (CLI) hem de metin tabanlı kullanıcı arayüzü (TUI) desteği sunar.
 
-- ★ 19.853
+- ★ 20.875
 - Go
 - GitHub Trending · 2026-08-08
 
 ## Güncelleme
+- 10 Ağustos 2026: Yıldız 19.853 → 20.875, son sürüm v0.3.3 (24 Haziran 2026).
 - 8 Ağustos 2026: Yıldız 19.848 → 19.853, son sürüm v0.3.3 (24 Haziran 2026).
 
 ## Ne kazandırır?

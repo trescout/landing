@@ -2,9 +2,12 @@
 
 ComfyUI, yayılma modelleri (diffusion models) için düğüm tabanlı bir arayüz sunan modüler bir görsel oluşturma aracıdır. Kullanıcıların karmaşık görüntü işleme süreçlerini görsel bir akış şemasıyla tasarlamasına ve bu süreçleri API üzerinden yönetmesine olanak tanır.
 
-- ★ 125.719
+- ★ 125.723
 - Python
 - GitHub Trending · 2026-08-10
+
+## Güncelleme
+- 10 Ağustos 2026: Yıldız 125.719 → 125.723, son sürüm v0.31.0 (8 Ağustos 2026).
 
 ## Ne kazandırır?
 - Düğüm tabanlı arayüzle karmaşık iş akışlarını kod yazmadan tasarlayın.
@@ -33,7 +36,7 @@ Görsel üretim sürecim için düğüm tabanlı bir iş akışı oluşturmak is
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-API Artificial Intelligence
+Diffusion Models API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/comfyui/

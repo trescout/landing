@@ -2,9 +2,12 @@
 
 WeatherNext, developed by Google DeepMind, is a model that uses generative artificial intelligence (generative AI) for weather forecasts. It aims to make faster and higher resolution atmospheric predictions compared to traditional physical simulations.
 
-- ★ 7,148
+- ★ 7,149
 - Python
 - GitHub Trending · 2026-08-10
+
+## Update
+- 10 August 2026: Star 7.148 → 7.149, latest version v0.3.0 (6 August 2026).
 
 ## What you get
 - Makes medium-term atmospheric weather forecasts.

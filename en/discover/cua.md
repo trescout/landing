@@ -2,15 +2,15 @@
 
 CUA provides an open source infrastructure for computer-capable artificial intelligence agents. It brings together sandbox, software development kit (SDK) and benchmark tools under one roof for the purpose of training and evaluating agents that can control desktop operating systems.
 
-- ★ 20,990
+- ★ 21,066
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Update
+- 10 August 2026: Star 20,990 → 21,066, latest release cli-v0.1.14 (10 August 2026).
 - 7 August 2026: Star 20,962 → 20,990, latest version fleet-v0.1.7 (7 August 2026).
 - August 6, 2026: Star 20,909 → 20,962, latest release sandbox-v0.1.27 (August 5, 2026).
 - 4 August 2026: Star 20,874 → 20,909, latest release sandbox-v0.1.24 (3 August 2026).
-- August 3, 2026: Star 20,856 → 20,874, latest release sandbox-v0.1.23 (August 3, 2026).
 
 ## What you get
 - Control desktop apps in the background

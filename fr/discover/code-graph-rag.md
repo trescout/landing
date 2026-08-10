@@ -2,9 +2,12 @@
 
 Code-graph-rag combine des graphiques de connaissances et une génération assistée par récupération (RAG) pour comprendre et interroger des structures complexes dans de grands référentiels de code. Il permet aux développeurs d'analyser et d'éditer des bases de code dans différents langages à l'aide de l'intelligence artificielle.
 
-- ★ 3 153
+- ★ 3 158
 - Python
 - GitHub Trending · 2026-08-10
+
+## Mise à jour
+- 10 août 2026 : Star 3.153 → 3.158, dernière version v0.0.589 (10 août 2026).
 
 ## Ce que ça vous apporte
 - Découvrez les relations complexes en transformant la base de code en un graphe de connaissances

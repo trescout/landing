@@ -2,9 +2,12 @@
 
 Google DeepMind tarafından geliştirilen WeatherNext, hava durumu tahminleri için üretken yapay zekâ (generative AI) kullanan bir modeldir. Geleneksel fiziksel simülasyonlara kıyasla daha hızlı ve yüksek çözünürlüklü atmosferik tahminler yapmayı hedefler.
 
-- ★ 7.148
+- ★ 7.149
 - Python
 - GitHub Trending · 2026-08-10
+
+## Güncelleme
+- 10 Ağustos 2026: Yıldız 7.148 → 7.149, son sürüm v0.3.0 (6 Ağustos 2026).
 
 ## Ne kazandırır?
 - Orta vadeli atmosferik hava tahminleri yapar.

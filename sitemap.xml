@@ -1057,6 +1057,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/dictionary/diffusion-models/</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/dictionary/digital-twin/</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -7075,6 +7081,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/en/dictionary/diffusion-models/</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/en/dictionary/digital-twin/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -13053,6 +13065,12 @@
   <url>
     <loc>https://trescout.com/fr/dictionary/diffusion-model/</loc>
     <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/fr/dictionary/diffusion-models/</loc>
+    <lastmod>2026-08-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

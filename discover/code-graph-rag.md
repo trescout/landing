@@ -2,9 +2,12 @@
 
 Code-graph-rag, büyük kod depolarındaki (monorepo) karmaşık yapıları anlamak ve sorgulamak için bilgi grafikleri (knowledge graphs) ile getirme destekli üretim (RAG) yöntemini birleştiriyor. Geliştiricilerin farklı dillerdeki kod tabanlarını yapay zekâ yardımıyla analiz etmelerine ve düzenlemelerine olanak tanıyor.
 
-- ★ 3.153
+- ★ 3.158
 - Python
 - GitHub Trending · 2026-08-10
+
+## Güncelleme
+- 10 Ağustos 2026: Yıldız 3.153 → 3.158, son sürüm v0.0.589 (10 Ağustos 2026).
 
 ## Ne kazandırır?
 - Kod tabanını bilgi grafiğine dönüştürerek karmaşık ilişkileri görün

@@ -4543,5 +4543,14 @@
     "kisa": "Nesnelerin uzaydaki konumunu, boyutunu ve hareketini zihinsel olarak kavrama yeteneği.",
     "kisa_en": "The ability to mentally grasp the position, size, and movement of objects in space.",
     "kisa_fr": "La capacité de saisir mentalement la position, la taille et le mouvement des objets dans l’espace."
+  },
+  {
+    "slug": "diffusion-models",
+    "en": "Diffusion Models",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Gürültülü verileri adım adım temizleyerek sıfırdan yüksek kaliteli görseller üreten bir yapay zekâ teknolojisidir.",
+    "kisa_en": "It is an artificial intelligence technology that produces high-quality images from scratch by cleaning noisy data step by step.",
+    "kisa_fr": "Il s’agit d’une technologie d’intelligence artificielle qui produit des images de haute qualité à partir de zéro en nettoyant étape par étape les données bruitées."
   }
 ]

@@ -2,11 +2,12 @@
 
 PrimeIntellect tarafından geliştirilen Prime-Agent, yazılım geliştirme süreçleri ve uzun süreli otonom görevler için kendi kendini iyileştiren bir pekiştirmeli öğrenme ajanıdır (reinforcement learning agent). TypeScript diliyle yazılan bu araç, karmaşık iş akışlarını otomatikleştirerek yazılım geliştirme verimliliğini artırmayı hedefler.
 
-- ★ 9.265
+- ★ 11.727
 - TypeScript
 - GitHub Trending · 2026-08-08
 
 ## Güncelleme
+- 10 Ağustos 2026: Yıldız 9.265 → 11.727, son sürüm v0.7.1 (7 Ağustos 2026).
 - 9 Ağustos 2026: Yıldız 6.915 → 9.265, son sürüm v0.7.1 (7 Ağustos 2026).
 - 8 Ağustos 2026: Yıldız 6.896 → 6.915, son sürüm v0.7.1 (7 Ağustos 2026).
 

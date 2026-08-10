@@ -2,11 +2,12 @@
 
 Zapret-discord-youtube, ağ trafiğini şifreleyerek veya paket parçalama (packet fragmentation) yöntemlerini kullanarak kısıtlı platformlara erişim sağlamayı hedefleyen bir araçtır. Özellikle Discord ve YouTube gibi hizmetlere yönelik erişim engellerini aşmak amacıyla geliştirilmiştir.
 
-- ★ 31.660
+- ★ 31.940
 - Batchfile
 - GitHub Trending · 2026-06-25
 
 ## Güncelleme
+- 10 Ağustos 2026: Yıldız 31.660 → 31.940, son sürüm 1.10.1 (9 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 30.060 → 31.660, son sürüm 1.10.0 (22 Temmuz 2026).
 
 ## Ne kazandırır?

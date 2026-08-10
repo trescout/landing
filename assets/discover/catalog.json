@@ -5567,7 +5567,7 @@
     "slug": "jcode",
     "title": "Jcode",
     "tagline": "Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness)…",
-    "meta": "★ 16.653 · Rust",
+    "meta": "★ 16.663 · Rust",
     "image": "/assets/discover/og/jcode.webp",
     "source": "GitHub",
     "date": "2026-06-21",
@@ -5575,7 +5575,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 16653,
+    "stars": 16663,
     "lite": false,
     "headline": "Kodlama ajanları için yüksek performanslı çerçeve",
     "last_review": "2026-08-10",
@@ -5620,6 +5620,13 @@
         "yildiz": 16653,
         "onceki_yildiz": 16505,
         "surum": "v0.74.0",
+        "surum_tarihi": "2026-08-10"
+      },
+      {
+        "tarih": "2026-08-10",
+        "yildiz": 16663,
+        "onceki_yildiz": 16653,
+        "surum": "v0.75.0",
         "surum_tarihi": "2026-08-10"
       }
     ],
@@ -6828,7 +6835,7 @@
     "slug": "opencode",
     "title": "Opencode",
     "tagline": "OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent).",
-    "meta": "★ 194.749 · TypeScript",
+    "meta": "★ 195.548 · TypeScript",
     "image": "/assets/discover/og/opencode.webp",
     "source": "GitHub",
     "date": "2026-06-28",
@@ -6836,7 +6843,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 194749,
+    "stars": 195548,
     "lite": false,
     "headline": "Açık kaynaklı yapay zekâ kodlama ajanı",
     "last_review": "2026-08-10",
@@ -6868,6 +6875,13 @@
         "onceki_yildiz": 193974,
         "surum": "v1.18.15",
         "surum_tarihi": "2026-08-07"
+      },
+      {
+        "tarih": "2026-08-10",
+        "yildiz": 195548,
+        "onceki_yildiz": 194749,
+        "surum": "v1.18.16",
+        "surum_tarihi": "2026-08-10"
       }
     ],
     "tagline_en": "OpenCode is an open source coding agent designed to automate software development processes.",
@@ -8429,7 +8443,7 @@
     "slug": "codexbar",
     "title": "CodexBar",
     "tagline": "CodexBar, OpenAI Codex ve Claude Code kullanım verilerini oturum açma zorunluluğu olmadan görüntülemeyi sağlayan bir araçtır.",
-    "meta": "★ 19.864 · Swift",
+    "meta": "★ 19.867 · Swift",
     "image": "/assets/discover/og/codexbar.webp",
     "source": "GitHub",
     "date": "2026-07-06",
@@ -8437,7 +8451,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 19864,
+    "stars": 19867,
     "lite": false,
     "headline": "Yapay zekâ kullanım limitlerini izleyin",
     "last_review": "2026-08-10",
@@ -8476,6 +8490,13 @@
         "onceki_yildiz": 19775,
         "surum": "v0.49.0",
         "surum_tarihi": "2026-08-09"
+      },
+      {
+        "tarih": "2026-08-10",
+        "yildiz": 19867,
+        "onceki_yildiz": 19864,
+        "surum": "v0.49.1",
+        "surum_tarihi": "2026-08-10"
       }
     ],
     "tagline_en": "CodexBar is a tool that allows viewing OpenAI Codex and Claude Code usage data without requiring a login.",
@@ -9961,7 +9982,7 @@
     "slug": "hallmark",
     "title": "Hallmark",
     "tagline": "Hallmark, yapay zekâ tarafından üretilen standart içeriklerin (AI slop) tasarım üzerindeki etkisini azaltmak amacıyla…",
-    "meta": "★ 22.106 · CSS",
+    "meta": "★ 23.216 · CSS",
     "image": "/assets/discover/og/hallmark.webp",
     "source": "GitHub",
     "date": "2026-07-13",
@@ -9969,7 +9990,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 22106,
+    "stars": 23216,
     "lite": false,
     "headline": "Yapay zekâ tasarımlarına özgünlük kazandırın",
     "last_review": "2026-08-10",
@@ -9983,6 +10004,11 @@
         "tarih": "2026-08-06",
         "yildiz": 22106,
         "onceki_yildiz": 20791
+      },
+      {
+        "tarih": "2026-08-10",
+        "yildiz": 23216,
+        "onceki_yildiz": 22106
       }
     ],
     "tagline_en": "Hallmark aims to reduce the impact of standard content produced by artificial intelligence (AI slop) on design…",
@@ -13060,14 +13086,14 @@
     "slug": "pdf-inspector",
     "title": "PDF Inspector",
     "tagline": "Firecrawl tarafından geliştirilen PDF Inspector, PDF dosyalarını incelemek, sınıflandırmak ve metinlerini ayıklamak için…",
-    "meta": "★ 13.019 · Rust",
+    "meta": "★ 14.048 · Rust",
     "image": "/assets/discover/og/pdf-inspector.webp",
     "source": "GitHub",
     "date": "2026-08-04",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 13019,
+    "stars": 14048,
     "lite": false,
     "headline": "Hızlı ve Yerel PDF Metin İşleme",
     "last_review": "2026-08-10",
@@ -13082,6 +13108,11 @@
         "tarih": "2026-08-07",
         "yildiz": 13019,
         "onceki_yildiz": 11746
+      },
+      {
+        "tarih": "2026-08-10",
+        "yildiz": 14048,
+        "onceki_yildiz": 13019
       }
     ],
     "tagline_fr": "Développé par Firecrawl, PDF Inspector est un outil permettant d'examiner, de classer et d'extraire du texte à partir de fichiers PDF."

@@ -2,11 +2,12 @@
 
 Le cloneur de sites Web à intelligence artificielle (AI website cloner), développé par JCodesMore, permet de copier des sites Web existants avec une seule commande à l'aide d'agents de codage basés sur TypeScript. Cet outil utilise la génération de code basée sur l'IA pour automatiser les processus de conception et de développement Web.
 
-- ★ 30 826
+- ★ 31 512
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Mise à jour
+- 10 août 2026 : Star 30 826 → 31 512, dernière version v0.4.0 (10 août 2026).
 - 2 août 2026 : Étoile 18 039 → 30 826, dernière version v0.3.1 (30 mars 2026).
 
 ## Ce que ça vous apporte
