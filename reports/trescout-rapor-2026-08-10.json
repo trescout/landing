@@ -1,0 +1,341 @@
+{
+  "date": "2026-08-10",
+  "editorial": "Yapay zeka ajanlarının (AI agents) yetenekleri ve kişilik evrimi üzerine yapılan akademik çalışmalar, modellerin karmaşık kavramları anlama kapasitesini (cross-concept understanding) merkeze alıyor. Yazılım dünyasında ise kaynak kodu erişilebilirliği tartışmaları sürerken, işletim sistemi uygulamalarının bellek kullanımı (RAM usage) verimlilik odaklı eleştirilerin odağında kalıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "summary": "Prime-agent, kodlama iş akışları ve uzun süreli otonom görevler için tasarlanmış, kendi kendini geliştiren bir takviyeli öğrenme ajanıdır (RLM agent). TypeScript diliyle geliştirilen bu araç, karmaşık yazılım süreçlerini otomatize etmek için otonom karar mekanizmaları sunar.",
+          "meta": "TypeScript · ★ 11.708 · +2.356 bugün"
+        },
+        {
+          "title": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "summary": "Code-graph-rag, büyük kod depolarındaki (monorepo) karmaşık yapıları anlamak ve sorgulamak için bilgi grafikleri (knowledge graphs) ile getirme destekli üretim (RAG) yöntemini birleştiriyor. Geliştiricilerin farklı dillerdeki kod tabanlarını yapay zekâ yardımıyla analiz etmelerine ve düzenlemelerine olanak tanıyor.",
+          "meta": "Python · ★ 3.153 · +96 bugün"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-agents, farklı uzmanlık alanlarına sahip yapay zekâ ajanlarını tek bir çatı altında toplayan bir otomasyon kütüphanesi. Yazılım geliştirme, içerik üretimi ve veri doğrulama gibi çeşitli görevleri üstlenen bu uzman ajanlar, iş akışlarını standardize etmeyi amaçlıyor.",
+          "meta": "Shell · ★ 141.050 · +858 bugün"
+        },
+        {
+          "title": "pranshuparmar/witr",
+          "url": "https://github.com/pranshuparmar/witr",
+          "summary": "Witr, bilgisayarınızda çalışan herhangi bir sürecin, portun, kapsayıcının (container) veya dosyanın kökenini izlemenizi sağlayan bir komut satırı aracıdır. Sistem kaynaklarını kullanan işlemlerin hangi kaynaktan başladığını görsel bir arayüz (TUI) üzerinden takip etmenize olanak tanır.",
+          "meta": "Go · ★ 20.869 · +210 bugün"
+        },
+        {
+          "title": "google-deepmind/weathernext",
+          "url": "https://github.com/google-deepmind/weathernext",
+          "summary": "Google DeepMind tarafından geliştirilen WeatherNext, hava durumu tahminleri için üretken yapay zekâ (generative AI) kullanan bir modeldir. Geleneksel fiziksel simülasyonlara kıyasla daha hızlı ve yüksek çözünürlüklü atmosferik tahminler yapmayı hedefler.",
+          "meta": "Python · ★ 7.148 · +86 bugün"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Yapay zekâ kodlama ajanları için geliştirilen agent-skills, üretim seviyesinde mühendislik yetenekleri (engineering skills) sunan bir kütüphane. JavaScript tabanlı bu araç, geliştiricilerin otonom yazılım süreçlerinde kullanabileceği standartlaştırılmış işlevler sağlıyor.",
+          "meta": "JavaScript · ★ 85.292 · +680 bugün"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen/daily_stock_analysis, büyük dil modelleri (large language models) kullanarak çoklu piyasa verilerini ve güncel haberleri analiz eden bir borsa takip sistemi. Python tabanlı bu araç, yatırım kararlarını destekleyen bir gösterge paneli sunarken, otomatik bildirimlerle piyasa takibini ücretsiz şekilde zamanlamanıza olanak tanıyor.",
+          "meta": "Python · ★ 61.386 · +306 bugün"
+        },
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik, uygulamalar için merkezi kimlik doğrulama ve erişim yönetimi sağlayan açık kaynaklı bir güvenlik platformu. Farklı servisler arasında kullanıcı giriş süreçlerini birleştiren bu araç, kimlik sağlayıcı (identity provider) olarak görev yapıyor.",
+          "meta": "Python · ★ 24.356 · +310 bugün"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Google tarafından geliştirilen Skills, yapay zekâ ajanlarının Google ürünleri ve teknolojileriyle etkileşime girmesini sağlayan bir kütüphane. Python tabanlı bu araç, ajanların belirli görevleri yerine getirebilmesi için gerekli olan yetenekleri (skills) standartlaştırıyor.",
+          "meta": "Python · ★ 17.346 · +528 bugün"
+        },
+        {
+          "title": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "summary": "ComfyUI, yayılma modelleri (diffusion models) için düğüm tabanlı bir arayüz sunan modüler bir görsel oluşturma aracıdır. Kullanıcıların karmaşık görüntü işleme süreçlerini görsel bir akış şemasıyla tasarlamasına ve bu süreçleri API üzerinden yönetmesine olanak tanır.",
+          "meta": "Python · ★ 125.719 · +365 bugün"
+        },
+        {
+          "title": "harveyai/harvey-labs",
+          "url": "https://github.com/harveyai/harvey-labs",
+          "summary": "Harvey Labs, hukuk alanındaki görevleri destekleyen yapay zekâ ajanlarının yeteneklerini ölçmek ve geliştirmek için tasarlanmış bir kıyaslama (benchmark) aracıdır. Python diliyle hazırlanan bu çalışma, hukuk teknolojileri geliştiren yazılımların performansını standart testlerle değerlendirmeyi hedefler.",
+          "meta": "Python · ★ 881 · +47 bugün"
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3code, TypeScript projelerinde tip güvenliğini (type safety) uçtan uca sağlayan bir geliştirme çatısı. Uygulama mimarisini standartlaştırarak veri modelleri ve API uç noktaları arasında tutarlı bir yapı kurmayı kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 17.744 · +163 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "How I use LLMs to learn complex topics",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+          "summary": "Büyük dil modelleri (large language models), karmaşık konuları öğrenme sürecinde kişiselleştirilmiş öğretmenler olarak kullanılıyor. Kullanıcılar, kavramları basitleştirmek ve öğrenme boşluklarını belirlemek için yapay zekâ destekli sorgulama yöntemlerinden yararlanıyor.",
+          "meta": "531 oy · 302 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49234675",
+              "popularity": 531,
+              "engagementCount": 302
+            }
+          ]
+        },
+        {
+          "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+          "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+          "summary": "Windows 11 işletim sisteminin yerleşik hava durumu uygulaması, arka planda 1 GB'tan fazla bellek (RAM) tüketerek sistem kaynaklarını verimsiz kullanıyor. Bu durum, basit bir arayüz sunan uygulamanın sistem performansı üzerinde beklenenden daha yüksek bir yük oluşturduğunu gösteriyor.",
+          "meta": "443 oy · 367 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49232138",
+              "popularity": 443,
+              "engagementCount": 367
+            }
+          ]
+        },
+        {
+          "title": "Everything you do is being recorded",
+          "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+          "summary": "Yapay zekâ destekli giyilebilir cihazların yaygınlaşması, günlük etkileşimlerin sürekli kaydedildiği bir gözetim ortamı oluşturuyor. Bu teknolojik değişim, bireylerin mahremiyetini korumak adına yeni savunma mekanizmaları ve kişisel veri güvenliği stratejileri geliştirilmesini zorunlu kılıyor.",
+          "meta": "248 oy · 198 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49230477",
+              "popularity": 248,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Taxi drivers rarely die of Alzheimer's",
+          "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+          "summary": "Taksi şoförlerinin karmaşık zihinsel haritalar oluşturma ve mekânsal muhakeme (spatial reasoning) gerektiren işleri, Alzheimer hastalığına yakalanma riskini azaltıyor. Beynin sürekli aktif tutulmasının bilişsel rezervi artırarak nörodejeneratif süreçlere karşı koruma sağladığı belirtiliyor.",
+          "meta": "231 oy · 173 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49232253",
+              "popularity": 231,
+              "engagementCount": 173
+            }
+          ]
+        },
+        {
+          "title": "Cool URIs Don't Change (1998)",
+          "url": "https://www.w3.org/Provider/Style/URI",
+          "summary": "W3C tarafından yayımlanan bu makale, web adreslerinin (URI) zaman içinde değişmemesi gerektiğini savunuyor. İçerik erişilebilirliğini korumak için kalıcı bağlantı yapılarının oluşturulmasını temel bir tasarım ilkesi olarak öneriyor.",
+          "meta": "214 oy · 52 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49231809",
+              "popularity": 214,
+              "engagementCount": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax tarafından geliştirilen MiniMax-H3, hem görsel hem de metin girdilerini kullanarak video üreten bir yapay zekâ modeli. Bu model, kullanıcıların sağladığı verileri yüksek kaliteli video içeriklerine dönüştürme yeteneğiyle dikkat çekiyor.",
+          "meta": "♥ 3.284 · 35.295 indirme"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek tarafından geliştirilen metin üretme modeli (text-generation model) DeepSeek-V4-Flash-0731, yüksek performanslı dil işleme görevleri için optimize edilmiş bir yapı sunuyor. HuggingFace platformunda paylaşılan bu model, hızlı yanıt süreleri gerektiren uygulamalarda verimliliği artırmayı hedefliyor.",
+          "meta": "♥ 2.963 · 868.576 indirme"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3, metin ve görsel işleme yeteneklerine sahip çok modlu bir büyük dil modeli (large language model). Açık kaynaklı yapay zekâ modellerini barındıran platform Hugging Face üzerinde paylaşılan bu model, karmaşık görsel verileri analiz etme ve anlamlandırma süreçlerinde kullanılıyor.",
+          "meta": "♥ 1.091 · 4.947.943 indirme"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Moonshot AI tarafından geliştirilen Kimi-K3, görsel ve metin verilerini işleyebilen çok modlu bir yapay zekâ modeli (multimodal model). Kullanıcıların hem görüntü hem de metin girdileri üzerinden karmaşık sorgular oluşturmasına olanak tanıyor.",
+          "meta": "♥ 10.410 · 1.456.459 indirme"
+        },
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "MiniMax-H3-Turbo-Lora, metinden videoya (text-to-video) içerik üreten modelin yeteneklerini geliştiren bir uyarlama (LoRA) dosyasıdır. Bu çalışma, düşük kaynak kullanımıyla video oluşturma sürecine ince ayar (fine-tuning) yapılmasına olanak tanır.",
+          "meta": "♥ 553 · 0 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+          "url": "https://huggingface.co/papers/2608.06501",
+          "summary": "Çok modlu büyük dil modellerinin (multimodal large language models) yaratıcı yeteneklerini ölçmek için geliştirilen C4 çerçevesi, kavramlar arası anlama (cross-concept understanding) kapasitesini test ediyor. Bu yöntem, modellerin belirgin olmayan ancak anlamlı ilişkileri kurma becerisini değerlendirerek yapay zekânın yaratıcı problem çözme yetkinliğini somutlaştırıyor.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "Do AI Personas Grow? Analyzing and Benchmarking Personality Evolution in LLM Agents After Life Events",
+          "url": "https://huggingface.co/papers/2608.06485",
+          "summary": "Kişilik odaklı büyük dil modeli ajanları (PC-Agents), duygusal destek ve sosyal simülasyon gibi alanlarda uzun süreli etkileşimlerde tutarlılık sağlamak amacıyla geliştiriliyor. Bu çalışma, yapay zekâ ajanlarının yaşam olayları karşısında psikolojik temellere dayalı olarak nasıl kişilik değişimi gösterdiğini analiz eden bir değerlendirme çerçevesi sunuyor.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning",
+          "url": "https://huggingface.co/papers/2608.02831",
+          "summary": "Sesli akıl yürütme (audio reasoning) süreçlerinde, gelişen değerlendirme kriterlerini ödül mekanizması olarak kullanan bir pekiştirmeli öğrenme (reinforcement learning) yöntemi geliştirildi. Bu yaklaşım, sabit kurallar yerine soruya göre uyarlanan dinamik puanlama sistemiyle modelin ses verisine daha iyi odaklanmasını sağlıyor.",
+          "meta": "7 beğeni · 1 yorum"
+        },
+        {
+          "title": "PrivacyPeek: Auditing What LLM-Based Agents Acquire, Not Just What They Say",
+          "url": "https://huggingface.co/papers/2606.00152",
+          "summary": "PrivacyPeek, büyük dil modeli (large language model) tabanlı ajanların görevlerini yerine getirirken ihtiyaç duyduklarından daha fazla hassas veriyi sistemlerine dahil etme eğilimini denetleyen bir yöntemdir. Bu yaklaşım, verilerin dışarı sızdığı aşamadan ziyade, verinin ajan bağlamına ilk giriş yaptığı veri edinme sürecindeki güvenlik açıklarına odaklanır.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors",
+          "url": "https://huggingface.co/papers/2608.00675",
+          "summary": "Çift yönlü difüzyon modelleri (bidirectional diffusion models), zaman içinde ileri ve geri hareket ederek kendi hata paylarını ölçebiliyor. Bu yöntem, öz denetimli (self-supervised) bir yaklaşımla uzun süreli tahminlerde oluşan sapmaları, gerçek bir veri kaynağına ihtiyaç duymadan tespit etmeyi sağlıyor.",
+          "meta": "2 beğeni · 2 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Who Should Pay For Source Code Availability?",
+          "url": "https://kristoff.it/blog/source-code-availability/",
+          "summary": "Yazılım dünyasında kaynak kodun erişilebilirliği, geliştiricilerin özgürlüğü ile ticari sürdürülebilirlik arasındaki dengeyi tartışmaya açıyor. Bu tartışma, açık kaynak (open source) projelerin finansman modelleri ile yazılımın mülkiyet hakları arasındaki çatışmaya odaklanıyor.",
+          "meta": "61 oy · 35 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rsztog/who_should_pay_for_source_code",
+              "popularity": 61,
+              "engagementCount": 35
+            }
+          ]
+        },
+        {
+          "title": "IRC technology news from the first half of 2026",
+          "url": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
+          "summary": "İnternet Aktarım Sohbeti (IRC) protokolü, 2026 yılının ilk yarısında modern ağ standartlarına uyum sağlayan güncellemeler ve yeni istemci yazılımlarıyla yeniden gündeme geliyor. Özellikle şifreleme ve bağlantı kararlılığına odaklanan bu geliştirmeler, merkeziyetsiz iletişim ağlarının güncel teknoloji ekosistemindeki yerini korumasını sağlıyor.",
+          "meta": "46 oy · 7 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026",
+              "popularity": 46,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "Mea Culpa - Dark Hours",
+          "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+          "summary": "Vibecoded adlı web sitesi, mevcut bir özgür yazılım programının kaynak kodunu izinsiz şekilde kopyalayarak kendi ürünü gibi sundu. Bu durum, yazılım dünyasında etik dışı kod kullanımı ve intihal tartışmalarını yeniden gündeme getirdi.",
+          "meta": "39 oy · 11 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jnbujx/mea_culpa_dark_hours",
+              "popularity": 39,
+              "engagementCount": 11
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "RLM agent",
+      "explanation": "Ödül ve ceza yöntemlerini kullanarak deneme yanılma yoluyla belirli görevleri yerine getirmeyi öğrenen yazılım birimi."
+    },
+    {
+      "term": "monorepo",
+      "explanation": "Birden fazla yazılım projesinin kodlarının tek bir ortak klasörde toplandığı geliştirme yöntemi."
+    },
+    {
+      "term": "knowledge graphs",
+      "explanation": "Bilgilerin birbirleriyle olan ilişkilerini ağ yapısı şeklinde görselleştiren ve düzenleyen veri tabanı sistemi."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın cevap üretirken güncel ve özel belgelerden bilgi çekmesini sağlayan teknoloji."
+    },
+    {
+      "term": "container",
+      "explanation": "Bir yazılımın çalışması için gereken tüm dosyaları içinde barındıran ve her bilgisayarda aynı şekilde çalışmasını sağlayan paket."
+    },
+    {
+      "term": "TUI",
+      "explanation": "Grafiksel öğeler yerine sadece metin ve karakterler kullanılarak yönetilen ekran arayüzü."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Daha önce öğrendiği verileri kullanarak yeni metin, görsel veya ses gibi içerikler üretebilen sistemler."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık problemleri mantıksal adımlarla çözmek ve sistemler tasarlamak için gereken teknik beceriler."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "identity provider",
+      "explanation": "Kullanıcıların kimlik bilgilerini doğrulayarak uygulamalara güvenli giriş yapmalarını sağlayan merkezi hizmet."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir işi yapmak için gereken özel bilgi, pratik ve yeteneklerin bütünü."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Gürültülü veriyi adım adım temizleyerek sıfırdan yüksek kaliteli görseller oluşturan yapay zekâ teknolojisi."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Farklı sistemlerin veya yazılımların performansını ölçmek için kullanılan standart testler."
+    },
+    {
+      "term": "type safety",
+      "explanation": "Yazılımda verilerin yanlış türde kullanılmasını engelleyerek hataları önleyen güvenlik denetimi."
+    },
+    {
+      "term": "RAM",
+      "explanation": "Bilgisayarın o an aktif olarak kullandığı verileri hızlıca okuyup yazabildiği geçici hafıza birimi."
+    },
+    {
+      "term": "spatial reasoning",
+      "explanation": "Nesnelerin uzaydaki konumlarını, boyutlarını ve birbirlerine göre hareketlerini zihinsel olarak kavrama yeteneği."
+    }
+  ]
+}

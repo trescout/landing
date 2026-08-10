@@ -1,0 +1,341 @@
+{
+  "date": "2026-08-10",
+  "editorial": "Academic studies on the abilities and personality evolution of artificial intelligence agents center on the models' capacity to understand complex concepts (cross-concept understanding). While discussions on source code accessibility continue in the software world, memory usage (RAM usage) of operating system applications remains the focus of efficiency-oriented criticism.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "summary": "Prime-agent is a self-developing reinforcement learning agent (RLM agent) designed for coding workflows and long-term autonomous tasks. Developed with the TypeScript language, this tool offers autonomous decision mechanisms to automate complex software processes.",
+          "meta": "TypeScript · ★ 11,708 · +2,356 today"
+        },
+        {
+          "title": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "summary": "Code-graph-rag combines knowledge graphs and fetch-assisted generation (RAG) to understand and query complex structures in large code repositories. It allows developers to analyze and edit code bases in different languages ​​with the help of artificial intelligence.",
+          "meta": "Python · ★ 3,153 · +96 today"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-agents is an automation library that gathers artificial intelligence agents with different areas of expertise under one roof. Taking on a variety of tasks such as software development, content production and data validation, these expert agents aim to standardize workflows.",
+          "meta": "Shell · ★ 141,050 · +858 today"
+        },
+        {
+          "title": "pranshuparmar/witr",
+          "url": "https://github.com/pranshuparmar/witr",
+          "summary": "Witr is a command line tool that allows you to trace the origin of any process, port, container or file running on your computer. It allows you to track from which source the processes using system resources start, via a visual interface (TUI).",
+          "meta": "Go · ★ 20,869 · +210 today"
+        },
+        {
+          "title": "google-deepmind/weathernext",
+          "url": "https://github.com/google-deepmind/weathernext",
+          "summary": "WeatherNext, developed by Google DeepMind, is a model that uses generative AI for weather forecasts. It aims to make faster and higher resolution atmospheric predictions compared to traditional physical simulations.",
+          "meta": "Python · ★ 7,148 · +86 today"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Developed for artificial intelligence coding agents, agent-skills is a library that offers production-level engineering skills. This JavaScript-based tool provides standardized functions that developers can use in autonomous software processes.",
+          "meta": "JavaScript · ★ 85,292 · +680 today"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen/daily_stock_analysis is a stock market tracking system that analyzes multiple market data and current news using large language models. This Python-based tool offers a dashboard that supports investment decisions and allows you to schedule market monitoring for free with automatic notifications.",
+          "meta": "Python · ★ 61,386 · +306 today"
+        },
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik is an open source security platform that provides centralized authentication and access management for applications. This tool, which combines user login processes between different services, acts as an identity provider.",
+          "meta": "Python · ★ 24,356 · +310 today"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Developed by Google, Skills is a library that enables artificial intelligence agents to interact with Google products and technologies. This Python-based tool standardizes the skills required for agents to perform certain tasks.",
+          "meta": "Python · ★ 17,346 · +528 today"
+        },
+        {
+          "title": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "summary": "ComfyUI is a modular visualization tool that provides a node-based interface for diffusion models. It allows users to design complex image processing processes with a visual flowchart and manage these processes via API.",
+          "meta": "Python · ★ 125,719 · +365 today"
+        },
+        {
+          "title": "harveyai/harvey-labs",
+          "url": "https://github.com/harveyai/harvey-labs",
+          "summary": "Harvey Labs is a benchmarking tool designed to measure and improve the capabilities of artificial intelligence agents that support tasks in the legal field. This study, prepared in Python language, aims to evaluate the performance of software that develops legal technologies with standard tests.",
+          "meta": "Python · ★ 881 · +47 today"
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3code is a development framework that ensures end-to-end type safety in TypeScript projects. It standardizes the application architecture, making it easier to establish a consistent structure between data models and API endpoints.",
+          "meta": "TypeScript · ★ 17,744 · +163 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "How I use LLMs to learn complex topics",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+          "summary": "Large language models are used as personalized teachers in the process of learning complex subjects. Users are using AI-powered questioning methods to simplify concepts and identify learning gaps.",
+          "meta": "531 points · 302 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49234675",
+              "popularity": 531,
+              "engagementCount": 302
+            }
+          ]
+        },
+        {
+          "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+          "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+          "summary": "The built-in weather application of the Windows 11 operating system uses system resources inefficiently by consuming more than 1 GB of memory (RAM) in the background. This shows that the application, which offers a simple interface, creates a higher than expected load on system performance.",
+          "meta": "443 points · 367 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49232138",
+              "popularity": 443,
+              "engagementCount": 367
+            }
+          ]
+        },
+        {
+          "title": "Everything you do is being recorded",
+          "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+          "summary": "The proliferation of artificial intelligence-supported wearable devices creates a surveillance environment where daily interactions are constantly recorded. This technological change necessitates the development of new defense mechanisms and personal data security strategies to protect the privacy of individuals.",
+          "meta": "248 points · 198 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49230477",
+              "popularity": 248,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Taxi drivers rarely die of Alzheimer's",
+          "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+          "summary": "Taxi drivers' jobs, which require creating complex mental maps and spatial reasoning, reduce the risk of Alzheimer's disease. It is stated that keeping the brain constantly active provides protection against neurodegenerative processes by increasing cognitive reserve.",
+          "meta": "231 points · 173 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49232253",
+              "popularity": 231,
+              "engagementCount": 173
+            }
+          ]
+        },
+        {
+          "title": "Cool URIs Don't Change (1998)",
+          "url": "https://www.w3.org/Provider/Style/URI",
+          "summary": "This article published by W3C argues that web addresses (URI) should not change over time. He recommends creating permalink structures as a basic design principle to maintain content accessibility.",
+          "meta": "214 points · 52 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49231809",
+              "popularity": 214,
+              "engagementCount": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, developed by MiniMax, is an artificial intelligence model that produces videos using both visual and text inputs. This model stands out with its ability to transform user-provided data into high-quality video content.",
+          "meta": "♥ 3,284 · 35,295 downloads"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, the text-generation model developed by DeepSeek, offers a structure optimized for high-performance language processing tasks. This model, shared on the HuggingFace platform, aims to increase efficiency in applications that require fast response times.",
+          "meta": "♥ 2,963 · 868,576 downloads"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3 is a multi-modal large language model with text and visual processing capabilities. This model, shared on Hugging Face, a platform that hosts open source artificial intelligence models, is used in the processes of analyzing and interpreting complex visual data.",
+          "meta": "♥ 1,091 · 4,947,943 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Developed by Moonshot AI, Kimi-K3 is a multimodal artificial intelligence model (multimodal model) that can process visual and text data. It allows users to create complex queries based on both image and text inputs.",
+          "meta": "♥ 10,410 · 1,456,459 downloads"
+        },
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "MiniMax-H3-Turbo-Lora is an adaptation (LoRA) file that enhances the capabilities of the model to generate text-to-video content. This work allows fine-tuning the video creation process with low resource usage.",
+          "meta": "♥ 553 · 0 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+          "url": "https://huggingface.co/papers/2608.06501",
+          "summary": "The C4 framework, developed to measure the creative abilities of multimodal large language models, tests their cross-concept understanding capacity. This method embodies the creative problem-solving competence of artificial intelligence by evaluating the ability of models to establish non-obvious but meaningful relationships.",
+          "meta": "1 likes · 1 comments"
+        },
+        {
+          "title": "Do AI Personas Grow? Analyzing and Benchmarking Personality Evolution in LLM Agents After Life Events",
+          "url": "https://huggingface.co/papers/2608.06485",
+          "summary": "Personality-focused large language model agents (PC-Agents) are being developed to provide consistency in long-term interactions in areas such as emotional support and social simulation. This study offers an evaluation framework that analyzes how artificial intelligence agents change personality based on psychological foundations in response to life events.",
+          "meta": "1 likes · 1 comments"
+        },
+        {
+          "title": "Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning",
+          "url": "https://huggingface.co/papers/2608.02831",
+          "summary": "A reinforcement learning method was developed that uses evolving evaluation criteria as a reward mechanism in audio reasoning processes. This approach allows the model to better focus on the audio data with a dynamic scoring system that adapts to the question rather than fixed rules.",
+          "meta": "7 likes · 1 comments"
+        },
+        {
+          "title": "PrivacyPeek: Auditing What LLM-Based Agents Acquire, Not Just What They Say",
+          "url": "https://huggingface.co/papers/2606.00152",
+          "summary": "PrivacyPeek is a method to monitor the tendency of large language model-based agents to include more sensitive data in their systems than they need to perform their tasks. This approach focuses on vulnerabilities in the data acquisition process, where data first enters the agent context, rather than the stage where data is exfiltrated.",
+          "meta": "1 likes · 1 comments"
+        },
+        {
+          "title": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors",
+          "url": "https://huggingface.co/papers/2608.00675",
+          "summary": "Bidirectional diffusion models can measure their margin of error by moving forward and backward in time. This method allows detecting deviations in long-term forecasts with a self-supervised approach, without the need for a real data source.",
+          "meta": "2 likes · 2 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Who Should Pay For Source Code Availability?",
+          "url": "https://kristoff.it/blog/source-code-availability/",
+          "summary": "In the software world, the accessibility of source code brings into question the balance between developer freedom and commercial sustainability. This debate focuses on the conflict between the financing models of open source projects and the property rights of software.",
+          "meta": "61 points · 35 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rsztog/who_should_pay_for_source_code",
+              "popularity": 61,
+              "engagementCount": 35
+            }
+          ]
+        },
+        {
+          "title": "IRC technology news from the first half of 2026",
+          "url": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
+          "summary": "The Internet Relay Chat (IRC) protocol is coming to the fore again in the first half of 2026 with updates and new client software that comply with modern network standards. These improvements, especially focusing on encryption and connection stability, ensure that decentralized communication networks maintain their place in the current technology ecosystem.",
+          "meta": "46 points · 7 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026",
+              "popularity": 46,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "Mea Culpa - Dark Hours",
+          "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+          "summary": "The website Vibecoded copied the source code of an existing free software program without permission and presented it as its own product. This situation has brought the discussions of unethical code use and plagiarism to the agenda again in the software world.",
+          "meta": "39 points · 11 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jnbujx/mea_culpa_dark_hours",
+              "popularity": 39,
+              "engagementCount": 11
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "RLM agent",
+      "explanation": "A software unit that learns to perform certain tasks through trial and error using reward and punishment methods."
+    },
+    {
+      "term": "monorepo",
+      "explanation": "A development method in which the codes of multiple software projects are collected in a single common folder."
+    },
+    {
+      "term": "knowledge graphs",
+      "explanation": "A database system that visualizes and organizes the relationships between information in the form of a network structure."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Technology that allows artificial intelligence to extract information from current and private documents while producing answers."
+    },
+    {
+      "term": "container",
+      "explanation": "A package that contains all the files required for a software to run and ensures that it works the same on every computer."
+    },
+    {
+      "term": "TUI",
+      "explanation": "On-screen interface managed using only text and characters instead of graphical elements."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Systems that can produce new content such as text, visuals or sound by using previously learned data."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Technical skills required to solve complex problems in logical steps and design systems."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "identity provider",
+      "explanation": "A central service that allows users to log in to applications securely by verifying their credentials."
+    },
+    {
+      "term": "skills",
+      "explanation": "The totality of special knowledge, practice and skills required to do a job."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Artificial intelligence technology that creates high-quality visuals from scratch by cleansing noisy data step by step."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Standard tests used to measure the performance of different systems or software."
+    },
+    {
+      "term": "type safety",
+      "explanation": "Security control that prevents errors by preventing the wrong type of data from being used in the software."
+    },
+    {
+      "term": "RAM",
+      "explanation": "It is a temporary memory unit where the computer can quickly read and write the data it is currently actively using."
+    },
+    {
+      "term": "spatial reasoning",
+      "explanation": "The ability to mentally grasp the position of objects in space, their size, and their motion relative to each other."
+    }
+  ]
+}
