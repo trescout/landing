@@ -33,6 +33,7 @@ Yes, but it is better to look at the overall results that include different scen
 - [CUA](/en/discover/cua/)
 - [Whichllm](/en/discover/whichllm/)
 - [SIA](/en/discover/sia/)
+- [Harvey Labs](/en/discover/harvey-labs/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/benchmark/

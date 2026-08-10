@@ -4489,5 +4489,59 @@
     "kisa": "Evdeki cihazların dosya paylaşımı ve medya yönetimi gibi işlerini üstlenen sürekli açık kişisel sunucudur.",
     "kisa_en": "It is an always-on personal server that handles tasks such as file sharing and media management of home devices.",
     "kisa_fr": "Il s'agit d'un serveur personnel toujours actif qui gère des tâches telles que le partage de fichiers et la gestion multimédia des appareils domestiques."
+  },
+  {
+    "slug": "rlm-agent",
+    "en": "RLM Agent",
+    "full": "Reinforcement Learning Model Agent",
+    "cat": "ai",
+    "kisa": "Ödül ve ceza mekanizmalarıyla deneme yanılma yoluyla öğrenen yazılım birimi.",
+    "kisa_en": "A software unit that learns through trial and error with reward and punishment mechanisms.",
+    "kisa_fr": "Une unité logicielle qui apprend par essais et erreurs avec des mécanismes de récompense et de punition."
+  },
+  {
+    "slug": "monorepo",
+    "en": "Monorepo",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Birden fazla yazılım projesinin tek bir ortak klasörde tutulduğu geliştirme yöntemi.",
+    "kisa_en": "A development method where multiple software projects are kept in a single shared folder.",
+    "kisa_fr": "Une méthode de développement où plusieurs projets logiciels sont conservés dans un seul dossier partagé."
+  },
+  {
+    "slug": "tui",
+    "en": "TUI",
+    "full": "Text User Interface",
+    "cat": "dev",
+    "kisa": "Grafiksel öğeler yerine sadece metin ve karakterlerle yönetilen ekran arayüzü.",
+    "kisa_en": "On-screen interface driven only by text and characters instead of graphical elements.",
+    "kisa_fr": "Interface à l'écran pilotée uniquement par du texte et des caractères au lieu d'éléments graphiques."
+  },
+  {
+    "slug": "identity-provider",
+    "en": "Identity Provider",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kullanıcı giriş bilgilerini doğrulayan ve uygulamalara güvenli erişim sağlayan merkezi servis.",
+    "kisa_en": "Central service that verifies user login information and provides secure access to applications.",
+    "kisa_fr": "Service central qui vérifie les informations de connexion des utilisateurs et fournit un accès sécurisé aux applications."
+  },
+  {
+    "slug": "ram",
+    "en": "RAM",
+    "full": "Random Access Memory",
+    "cat": "data",
+    "kisa": "Bilgisayarın aktif olarak kullandığı verileri hızlıca okuyup yazdığı geçici hafıza birimi.",
+    "kisa_en": "A temporary memory unit where the computer quickly reads and writes the data it actively uses.",
+    "kisa_fr": "Unité de mémoire temporaire dans laquelle l'ordinateur lit et écrit rapidement les données qu'il utilise activement."
+  },
+  {
+    "slug": "spatial-reasoning",
+    "en": "Spatial Reasoning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Nesnelerin uzaydaki konumunu, boyutunu ve hareketini zihinsel olarak kavrama yeteneği.",
+    "kisa_en": "The ability to mentally grasp the position, size, and movement of objects in space.",
+    "kisa_fr": "La capacité de saisir mentalement la position, la taille et le mouvement des objets dans l’espace."
   }
 ]

@@ -31,6 +31,7 @@ Oui, mais il est préférable d’examiner les résultats globaux qui incluent d
 - [CUA](/fr/discover/cua/)
 - [Whichllm](/fr/discover/whichllm/)
 - [SIA](/fr/discover/sia/)
+- [Harvey Labs](/fr/discover/harvey-labs/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/benchmark/

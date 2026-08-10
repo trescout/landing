@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-09 · 409 araç · 499 terim
+Son güncelleme: 2026-08-10 · 413 araç · 505 terim
 
 ---
 
@@ -9492,6 +9492,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Identity Provider nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-10
+
+Kullanıcı giriş bilgilerini doğrulayan ve uygulamalara güvenli erişim sağlayan merkezi servis.
+
+## Tanım
+Bir uygulamaya her seferinde yeni şifre oluşturmak yerine, merkezi bir sistem üzerinden kimliğinizi kanıtlamanızı sağlar. Uygulama, kim olduğunuzu bu servise sorar ve onay alır.
+
+## Bir benzetmeyle
+Bir otelin resepsiyonunda pasaportunuzu gösterip kart anahtar almanız gibidir; otel odasına girmek için resepsiyonun onayına güvenir.
+
+## Nasıl çalışır?
+Kullanıcı giriş yapar, servis kimliği doğrular ve uygulamaya bir 'giriş yapıldı' anahtarı gönderir.
+
+## Nerede kullanılır?
+Şirket içi sistemlerde, SSO (Tek Oturum Açma) yapılarında ve modern web uygulamalarında kullanılır.
+
+## Sık karıştırılanlar
+Sadece bir şifre yöneticisi değil, kimlik doğrulama otoritesidir.
+
+## Sıkça sorulanlar
+
+**Güvenli midir?**  
+Evet, şifrenizi her uygulamaya vermediğiniz için daha güvenlidir.
+
+**Sistem çökerse ne olur?**  
+Merkezi servis olduğu için tüm bağlı uygulamalara erişim kesilebilir.
+
+## İlgili terimler
+- [SSO](/dictionary/sso/)
+- [OIDC](/dictionary/oidc/)
+- [RBAC](/dictionary/rbac/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/identity-provider/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # In-process nedir?
 
 **Kategori:** Geliştirme  
@@ -11789,6 +11831,48 @@ Kurulum aşamasında biraz teknik bilgi gerekebilir ancak sistem kurulduktan son
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/model-context-protocol-mcp/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Monorepo nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-10
+
+Birden fazla yazılım projesinin tek bir ortak klasörde tutulduğu geliştirme yöntemi.
+
+## Tanım
+Yazılım dünyasında projelerin birbirinden kopuk olması yerine, birbirine bağlı tüm kodların tek bir merkezde toplanmasıdır. Bu yöntem, projeler arası kod paylaşımını ve güncellemeleri çok daha hızlı hale getirir.
+
+## Bir benzetmeyle
+Bir kütüphanedeki tüm kitapları farklı farklı binalara dağıtmak yerine, hepsini tek bir devasa binada, kategorize edilmiş şekilde tutmaya benzer.
+
+## Nasıl çalışır?
+Geliştiriciler tek bir ana depo üzerinden tüm projelere erişir, böylece bir kütüphanede yapılan değişiklik anında diğer projelerde de görünür olur.
+
+## Nerede kullanılır?
+Büyük yazılım şirketlerinde ve birbirine bağlı mikro hizmetlerin geliştirildiği projelerde kullanılır.
+
+## Sık karıştırılanlar
+Kodların karıştırılmasıyla değil, düzenli bir şekilde tek merkezden yönetilmesiyle ilgilidir.
+
+## Sıkça sorulanlar
+
+**Herkes için uygun mudur?**  
+Hayır, çok büyük projelerde yönetim zorlaşabilir.
+
+**Güvenliği etkiler mi?**  
+Doğru yetkilendirme ile daha güvenli bir kod yönetimi sağlar.
+
+## İlgili terimler
+- [Repository Checkout](/dictionary/repository-checkout/)
+- [Git Push](/dictionary/git-push/)
+- [Code Review](/dictionary/code-review/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/monorepo/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -14589,6 +14673,50 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# RAM nedir?
+
+> Random Access Memory
+
+**Kategori:** Veri & Altyapı  
+**Son güncelleme:** 2026-08-10
+
+Bilgisayarın aktif olarak kullandığı verileri hızlıca okuyup yazdığı geçici hafıza birimi.
+
+## Tanım
+Bilgisayar kapandığında içindeki verilerin silindiği, ancak işlemciye çok yakın olduğu için ışık hızında çalışan bir çalışma alanıdır. İşlemci, bir işi yaparken ihtiyaç duyduğu tüm dosyaları buraya çeker.
+
+## Bir benzetmeyle
+Bilgisayarın masası gibidir; masanın üstü ne kadar genişse, aynı anda o kadar çok dosyayı açıp üzerinde çalışabilirsiniz.
+
+## Nasıl çalışır?
+Programlar açıldığında sabit diskten RAM'e kopyalanır, işlemci buradan verileri alır ve işler.
+
+## Nerede kullanılır?
+Tüm bilgisayarlarda, telefonlarda ve sunucularda temel donanım parçasıdır.
+
+## Sık karıştırılanlar
+Depolama (HDD/SSD) ile karıştırılır; RAM geçici çalışma alanıdır, depolama ise kalıcı kütüphanedir.
+
+## Sıkça sorulanlar
+
+**RAM dolarsa ne olur?**  
+Bilgisayar yavaşlar veya uygulamalar kapanır.
+
+**Daha fazla RAM her zaman hızı artırır mı?**  
+İhtiyaç duyulan seviyeye kadar artırır, fazlası boşta bekler.
+
+## İlgili terimler
+- [VRAM](/dictionary/vram/)
+- [Runtime](/dictionary/runtime/)
+- [CPU](/dictionary/cpu/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ram/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # RBAC nedir?
 
 > Role-Based Access Control
@@ -15071,6 +15199,50 @@ Evet, genellikle eğitilmiş uzmanlar veya geniş kitleler tarafından puanlama 
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/rlhf/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# RLM Agent nedir?
+
+> Reinforcement Learning Model Agent
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-10
+
+Ödül ve ceza mekanizmalarıyla deneme yanılma yoluyla öğrenen yazılım birimi.
+
+## Tanım
+Bu birim, bir görevi yerine getirirken yaptığı her hamle için bir puan kazanır veya kaybeder. Zamanla en yüksek puanı alacak stratejileri geliştirerek kendi kendine uzmanlaşır. Yapay zekânın bir şeyi yapmayı kendi başına keşfetmesi için kullanılır.
+
+## Bir benzetmeyle
+Bir köpeğe yeni bir numara öğretirken, doğru yaptığında ödül mamulü verip yanlış yaptığında görmezden gelmeye benzer.
+
+## Nasıl çalışır?
+Agent bir hedef belirler, bir hamle yapar, çevresinden geri bildirim alır ve bu geri bildirime göre bir sonraki hamlesini günceller.
+
+## Nerede kullanılır?
+Oyun oynayan sistemlerde, robotik hareket kontrolünde ve karmaşık stratejik kararların alınması gereken alanlarda kullanılır.
+
+## Sık karıştırılanlar
+Klasik yazılım kuralları ile karıştırılabilir; bu sistemler önceden yazılmış kuralları değil, tecrübeyi takip eder.
+
+## Sıkça sorulanlar
+
+**RLM agent her zaman doğruyu mu bulur?**  
+Hayır, bazen yanlış ödüllendirme mekanizmaları nedeniyle tuhaf davranışlar geliştirebilir.
+
+**İnsan müdahalesi gerekir mi?**  
+Genellikle ödül kriterlerini belirlemek için başlangıçta insan müdahalesi gerekir.
+
+## İlgili terimler
+- [RLHF](/dictionary/rlhf/)
+- [Autonomous Agent](/dictionary/autonomous-agent/)
+- [AI Agent](/dictionary/ai-agent/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/rlm-agent/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -16504,6 +16676,48 @@ Daha hızlıdır, daha az enerji harcar ve verileriniz cihazınızdan çıkmadı
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/slm/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Spatial Reasoning nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-10
+
+Nesnelerin uzaydaki konumunu, boyutunu ve hareketini zihinsel olarak kavrama yeteneği.
+
+## Tanım
+Bir yapay zekânın veya insanın, üç boyutlu dünyada nesnelerin birbirine göre nerede durduğunu anlama becerisidir. Örneğin bir kutunun içine neyin sığıp neyin sığmayacağını hesaplamak bu yeteneğe girer.
+
+## Bir benzetmeyle
+Gözleri kapalıyken odadaki eşyaların yerini hayal edip onlara çarpmadan yürümeye benzer.
+
+## Nasıl çalışır?
+Sistem, nesnelerin koordinatlarını, hacimlerini ve birbirlerine olan mesafelerini analiz ederek bir 'zihinsel harita' oluşturur.
+
+## Nerede kullanılır?
+Otonom robotlarda, fiziksel dünyayı anlayan yapay zekâ modellerinde ve mimari tasarım araçlarında kullanılır.
+
+## Sık karıştırılanlar
+Sadece görsel tanıma değil, derinlik ve mantık içeren bir kavrayıştır.
+
+## Sıkça sorulanlar
+
+**Yapay zekâ bunu nasıl öğrenir?**  
+3D simülasyonlar ve derinlik algılayan kameralar üzerinden eğitilir.
+
+**Neden önemlidir?**  
+Robotların fiziksel dünyada hata yapmadan hareket etmesi için şarttır.
+
+## İlgili terimler
+- [Physical AI](/dictionary/physical-ai/)
+- [Autonomous Robotics](/dictionary/autonomous-robotics/)
+- [Computer Vision](/dictionary/computer-vision/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/spatial-reasoning/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -18734,6 +18948,50 @@ Hayır, günümüzde görüntü ve ses işleme alanlarında da başarıyla kulla
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/transformer/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# TUI nedir?
+
+> Text User Interface
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-10
+
+Grafiksel öğeler yerine sadece metin ve karakterlerle yönetilen ekran arayüzü.
+
+## Tanım
+Görsel düğmeler veya pencereler yerine, klavye komutları ve metin tabanlı menülerle çalışan bir arayüzdür. Bilgisayar kaynaklarını çok az tüketir ve genellikle terminal ekranlarında çalışır.
+
+## Bir benzetmeyle
+Modern bir akıllı telefonun renkli ekranı yerine, eski daktiloların dijitalleşmiş hali gibi sadece yazılarla etkileşim kurmaya benzer.
+
+## Nasıl çalışır?
+Kullanıcı, terminal üzerinde belirli tuş kombinasyonlarını kullanarak menüler arasında gezinir ve komutları metin olarak girer.
+
+## Nerede kullanılır?
+Sunucu yönetiminde, yazılım geliştirme araçlarında ve düşük donanımlı cihazlarda yaygındır.
+
+## Sık karıştırılanlar
+CLI ile karıştırılabilir; CLI sadece komut satırıdır, TUI ise bu satırda görsel bir düzen oluşturur.
+
+## Sıkça sorulanlar
+
+**Neden grafik arayüz yerine TUI kullanılır?**  
+Çok daha hızlıdır ve grafik kartı gibi ağır kaynaklara ihtiyaç duymaz.
+
+**Öğrenmesi zor mu?**  
+Başlangıçta klavye kısayollarını ezberlemek gerekir, ancak alıştıkça çok daha verimlidir.
+
+## İlgili terimler
+- [CLI](/dictionary/cli/)
+- [Terminal](/dictionary/terminal/)
+- [Terminal Control](/dictionary/terminal-control/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/tui/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -21887,6 +22145,50 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Görsel üretimde modüler yapay zekâ
+
+ComfyUI, yayılma modelleri (diffusion models) için düğüm tabanlı bir arayüz sunan modüler bir görsel oluşturma aracıdır. Kullanıcıların karmaşık görüntü işleme süreçlerini görsel bir akış şemasıyla tasarlamasına ve bu süreçleri API üzerinden yönetmesine olanak tanır.
+
+- ★ 125.719
+- Python
+- GitHub Trending · 2026-08-10
+
+## Ne kazandırır?
+- Düğüm tabanlı arayüzle karmaşık iş akışlarını kod yazmadan tasarlayın.
+- Görüntü, video, ses ve 3D modelleri tek bir platformda oluşturun.
+- API desteği ile üretim süreçlerinize yapay zekâ yeteneklerini entegre edin.
+
+## Kurulum
+
+**Komut satırı üzerinden kurulum**
+
+```
+pip install comfy-cli
+comfy install
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Görsel üretim sürecim için düğüm tabanlı bir iş akışı oluşturmak istiyorum. Lütfen Stable Diffusion veya Flux gibi modelleri kullanarak profesyonel kalitede bir görüntü elde etmemi sağlayacak, giriş düğümünden çıktıya kadar olan mantıksal bağlantıları içeren modüler bir yapı tasarla. İhtiyacım olan temel düğümleri, model yükleme aşamalarını ve parametre optimizasyonlarını adım adım açıkla.
+
+- **Kimin için:** Görsel üretim süreçlerinde tam kontrol ve modüler bir çalışma ortamı arayan profesyonel içerik üreticileri için uygundur. 
+- **Lisans:** GPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/Comfy-Org/ComfyUI)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+API Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/comfyui/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ modellerini bilgisayarınızda çalıştırın
 
 Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını sağlayan C ve C++ tabanlı bir çıkarım (inference) kütüphanesidir. Yazılım, düşük bellek kullanımı ve yüksek performans odaklı yapısıyla yerel cihazlarda yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.
@@ -22055,7 +22357,7 @@ Eğitim içeriğine başlamak için GitHub üzerindeki resmî sayfayı ziyaret e
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Generative AI Jupyter Notebook Jupyter Notebooks Artificial Intelligence
+Jupyter Notebook Generative AI Jupyter Notebooks Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/generative-ai-for-beginners/
@@ -24682,7 +24984,7 @@ Lütfen Agent Reach aracını kurmama yardımcı ol. GitHub üzerindeki resmi ku
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-API Agent CLI Artificial Intelligence
+Agent API CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-reach/
@@ -29393,7 +29695,7 @@ Sistemimin donanım özelliklerini analiz et ve mevcut RAM, CPU ve GPU kapasitem
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CPU GPU LLM Rust Artificial Intelligence
+RAM CPU GPU LLM Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/llmfit/
@@ -30176,7 +30478,7 @@ OpenDataLoader PDF aracını kullanarak elimdeki PDF dosyalarını analiz etmek 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-PDF Parser Parser RAG SDK Markdown PDF
+PDF Parser Parser SDK RAG Markdown PDF
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/opendataloader-pdf/
@@ -32543,7 +32845,7 @@ Sistemimde çalışan bir sürecin, portun veya konteynerin hangi kaynak tarafı
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CLI Artificial Intelligence
+TUI CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/witr/
@@ -32600,7 +32902,7 @@ Set up https://github.com/browser-use/video-use for me. Read install.md first to
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Scripts Coding Agents Skill Agents API Agent
+Scripts Coding Agents Skill Agents Agent API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/video-use/
@@ -33314,7 +33616,7 @@ TencentDB Agent Memory kullanarak yapay zekâ ajanımın uzun süreli hafızası
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Long-term Memory Memory Token API Agent Artificial Intelligence
+Long-term Memory Memory Token Agent API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tencentdb-agent-memory/
@@ -35730,7 +36032,7 @@ Astryx tasarım sistemini kullanarak bir arayüz bileşeni oluşturmak istiyorum
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent Ready Design System API Agent CLI Artificial Intelligence
+Agent Ready Design System Agent API CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/astryx/
@@ -38321,6 +38623,49 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ile hızlı hava tahmini
+
+Google DeepMind tarafından geliştirilen WeatherNext, hava durumu tahminleri için üretken yapay zekâ (generative AI) kullanan bir modeldir. Geleneksel fiziksel simülasyonlara kıyasla daha hızlı ve yüksek çözünürlüklü atmosferik tahminler yapmayı hedefler.
+
+- ★ 7.148
+- Python
+- GitHub Trending · 2026-08-10
+
+## Ne kazandırır?
+- Orta vadeli atmosferik hava tahminleri yapar.
+- Kasırga takibi ve analizi gerçekleştirir.
+- Yüksek çözünürlüklü veri işleme kapasitesi sunar.
+
+## Kurulum
+
+**Kütüphane kurulumu**
+
+```
+pip install git+https://github.com/google-deepmind/weathernext.git@v0.3.0
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+WeatherNext modelini kullanarak belirli bir bölge için orta vadeli hava durumu tahmini yapmam gerekiyor. Model ağırlıklarını Google Cloud Bucket üzerinden nasıl yükleyebilirim ve hava durumu verilerini (sıcaklık, rüzgar hızı gibi) işleyerek tahmin döngüsünü nasıl başlatabilirim? Özellikle kasırga takibi için gerekli olan adımları açıklar mısın?
+
+- **Kimin için:** Meteorolojik verilerle çalışan araştırmacılar ve yüksek çözünürlüklü atmosferik tahmin modelleri geliştirmek isteyen veri bilimciler için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/google-deepmind/weathernext)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Google Cloud Generative AI Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/weathernext/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # En İyi Ücretsiz Uygulama Seçkisi
 
 Awesome Free Apps , bilgisayar ve telefonunuz için seçilmiş ücretsiz uygulamaların kategorize edilmiş bir rehberidir. Windows, macOS, Linux, Android ve iOS filtreleri ile 'açık kaynak' ve 'önerilen' işaretlerini kullanarak aradığınız araca hızla ulaşabilirsiniz.
@@ -39705,7 +40050,7 @@ Agent-Native çerçevesini kullanarak uygulamam için bir aksiyon tanımlamak is
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent-native Applications AI Skills Framework API Agent CLI
+Agent-native Applications AI Skills Framework Agent API CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-native/
@@ -40343,6 +40688,69 @@ Introduction to Autonomous Robots PDF
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/introduction-to-autonomous-robots/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Kod deponuzu yapay zekâ ile sorgulayın
+
+Code-graph-rag, büyük kod depolarındaki (monorepo) karmaşık yapıları anlamak ve sorgulamak için bilgi grafikleri (knowledge graphs) ile getirme destekli üretim (RAG) yöntemini birleştiriyor. Geliştiricilerin farklı dillerdeki kod tabanlarını yapay zekâ yardımıyla analiz etmelerine ve düzenlemelerine olanak tanıyor.
+
+- ★ 3.153
+- Python
+- GitHub Trending · 2026-08-10
+
+## Ne kazandırır?
+- Kod tabanını bilgi grafiğine dönüştürerek karmaşık ilişkileri görün
+- Doğal dilde sorular sorarak kod yapısı hakkında yanıtlar alın
+- Yapısal arama ve düzenleme araçlarıyla kod üzerinde hassas değişiklikler yapın
+
+## Kurulum
+
+**Paket yöneticisi ile kurulum**
+
+```
+uv tool install "code-graph-rag[treesitter-full,semantic]"
+```
+
+**Alternatif kurulum yöntemi**
+
+```
+pipx install "code-graph-rag[treesitter-full,semantic]"
+```
+
+## Çalıştırma
+
+**Veritabanını başlatma**
+
+```
+cgr daemon up
+```
+
+**Depoyu analiz etme ve sorgulama**
+
+```
+cgr start --repo-path /path/to/repo --update-graph
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Code-Graph-RAG aracını kullanarak kod depomu analiz et. Kod tabanındaki fonksiyonlar, sınıflar ve modüller arasındaki ilişkileri kullanarak sorduğum sorulara yanıt ver. Kod üzerinde yapmam gereken değişiklikleri veya optimizasyonları, aracın sağladığı yapısal analiz yeteneklerini kullanarak öner.
+
+- **Kimin için:** Büyük ve karmaşık kod depolarındaki yapısal ilişkileri anlamak, sorgulamak ve yapay zekâ yardımıyla güvenli değişiklikler yapmak isteyen yazılımcılar içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/vitali87/code-graph-rag)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Monorepo RAG Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/code-graph-rag/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -42119,6 +42527,42 @@ Stacked Pull Requests Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/gh-stack/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Hukuki yapay zekâ ajanlarını test edin
+
+Harvey Labs, hukuk alanındaki görevleri destekleyen yapay zekâ ajanlarının yeteneklerini ölçmek ve geliştirmek için tasarlanmış bir kıyaslama (benchmark) aracıdır. Python diliyle hazırlanan bu çalışma, hukuk teknolojileri geliştiren yazılımların performansını standart testlerle değerlendirmeyi hedefler.
+
+- ★ 881
+- Python
+- GitHub Trending · 2026-08-10
+
+## Ne kazandırır?
+- Hukuki görevlerde yapay zekâ performansını ölçer
+- Gerçekçi iş senaryoları ve belgeler sunar
+- Ajanların hukuk alanındaki yetkinliğini standartlaştırır
+
+## Nasıl başlanır?
+
+Başlamak için GitHub sayfasındaki dokümanlar arasında yer alan docs/tutorial.md dosyasını inceleyin. Bu rehber, bir birleşme ve satın alma veri odası görevini uçtan uca nasıl yöneteceğinizi, kurulumdan rapor incelemeye kadar tüm adımlarıyla anlatmaktadır.
+- [Resmî kaynak →](https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark)
+
+- **Kimin için:** Hukuk teknolojileri geliştiren ve yapay zekâ ajanlarının hukuki görevlerdeki başarısını ölçmek isteyen yazılımcılar içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/harveyai/harvey-labs)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Benchmark Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/harvey-labs/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
