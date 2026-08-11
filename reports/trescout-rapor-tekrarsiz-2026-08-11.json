@@ -1,0 +1,234 @@
+{
+  "date": "2026-08-11",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip, iş yerindeki yapay zekâ ajanlarını (AI agents) tek bir arayüz üzerinden yönetmenizi sağlayan açık kaynaklı bir platformdur. TypeScript ile geliştirilen bu araç, farklı görevler için kullanılan ajanların iş akışlarını merkezi bir noktadan kontrol etmenize olanak tanır.",
+          "meta": "TypeScript · ★ 76.656 · +198 bugün"
+        },
+        {
+          "title": "danielmiessler/LifeOS",
+          "url": "https://github.com/danielmiessler/LifeOS",
+          "summary": "TypeScript ile geliştirilen LifeOS, mevcut durumunuz ile ideal durumunuz arasındaki farkı kapatmanıza yardımcı olan bir kişisel gelişim ve verimlilik aracıdır. Yapay zekâ destekli bu sistem, hem iş hem de özel hayatınızdaki hedeflere ulaşmak için kademeli iyileştirme (hill-climbing) yöntemini kullanır.",
+          "meta": "TypeScript · ★ 18.046 · +315 bugün"
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl, web sitelerindeki verileri yapay zekâ modellerinin işleyebileceği temiz metin formatına dönüştüren bir veri kazıma (web scraping) aracıdır. İnternet üzerindeki içerikleri ölçeklenebilir şekilde tarayarak büyük dil modelleri (large language models) için hazır bağlam verisi sağlar.",
+          "meta": "TypeScript · ★ 165.257 · +835 bugün",
+          "returning": true
+        },
+        {
+          "title": "opa334/Dopamine",
+          "url": "https://github.com/opa334/Dopamine",
+          "summary": "Dopamine, iOS 15 ile 16.6.1 sürümleri arasındaki cihazlar için geliştirilen yarı bağımsız bir jailbreak aracıdır. Kullanıcılara, sistem kısıtlamalarını aşarak cihaz üzerinde yönetici yetkileriyle özelleştirme yapma imkânı tanır.",
+          "meta": "C · ★ 6.086 · +111 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+          "summary": "Meta tarafından geliştirilen Muse Glimmer, sürekli çalışan yerel yapay zekâ ajanları (local agent workflows) için optimize edilmiş 30 milyar parametreli bir modeldir. Donanım kaynaklarını verimli kullanarak cihaz üzerinde kesintisiz görev yürütme yeteneği sunar.",
+          "meta": "1.072 oy · 590 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49241679",
+              "popularity": 1072,
+              "engagementCount": 590
+            }
+          ]
+        },
+        {
+          "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+          "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+          "summary": "Meta, geliştirdiği büyük dil modellerini açık kaynaklı (open source) olarak paylaşarak kapalı sistemler geliştiren rakiplerine karşı stratejik bir duruş sergiliyor. Şirket, yapay zekâ teknolojilerinin erişilebilirliğini artırmayı ve geliştirici ekosisteminde standartları belirlemeyi hedefliyor.",
+          "meta": "433 oy · 416 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49243880",
+              "popularity": 433,
+              "engagementCount": 416
+            }
+          ]
+        },
+        {
+          "title": "Sonic Pi v5",
+          "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+          "summary": "Kod tabanlı müzik üretim aracı Sonic Pi, beşinci sürümüyle birlikte çok kanallı ses desteği ve performans iyileştirmeleri sunuyor. Yazılım, metin tabanlı programlama komutlarını kullanarak canlı müzik performansı (live coding) gerçekleştirmeye olanak tanıyor.",
+          "meta": "335 oy · 83 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49208296",
+              "popularity": 335,
+              "engagementCount": 83
+            }
+          ]
+        },
+        {
+          "title": "Squeak 6.1",
+          "url": "https://squeak.org/release_notes/6.1/",
+          "summary": "Squeak 6.1, nesne yönelimli programlama dili Smalltalk tabanlı açık kaynaklı bir geliştirme ortamı. Yeni sürüm, platformlar arası uyumluluğu artıran güncellemeler ve çekirdek sistemde performans iyileştirmeleri sunuyor.",
+          "meta": "242 oy · 122 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49242653",
+              "popularity": 242,
+              "engagementCount": 122
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+          "url": "https://cactuscompute.com/needle",
+          "summary": "Cactus tarafından geliştirilen Needle2, telefonlar ve giyilebilir cihazlar gibi düşük donanımlı sistemlerde çalışabilen 14 megabayt boyutunda bir ajan tabanlı büyük dil modeli (agentic LLM). Bu model, cihazların araç çağırma, yapılandırılmış veri çıkarma ve akıllı ev kontrolü gibi işlemleri yerel olarak gerçekleştirmesini sağlıyor.",
+          "meta": "239 oy · 97 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49246804",
+              "popularity": 239,
+              "engagementCount": 97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "HuggingFace üzerinde paylaşılan Muse-Glimmer-30B, görsel ve metin verilerini aynı anda işleyebilen bir çok modlu (multimodal) yapay zekâ modeli. Bu model, karmaşık görüntüleri analiz ederek metin tabanlı çıktılar üretme yeteneğiyle dikkat çekiyor.",
+          "meta": "♥ 803 · 0 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching",
+          "url": "https://huggingface.co/papers/2608.08097",
+          "summary": "OasisKV, büyük dil modellerinde (large language model) çıkarım sürecini yavaşlatan ana bellek (high bandwidth memory) kısıtlamalarını aşmak için geliştirilen bir sistemdir. Anahtar-değer önbelleğini (key-value cache) ileriye dönük seyrek ön getirme (lookahead sparse prefetching) yöntemiyle yöneterek bellek trafiğini optimize eder ve sistem verimliliğini artırır.",
+          "meta": "3 beğeni · 1 yorum"
+        },
+        {
+          "title": "Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory",
+          "url": "https://huggingface.co/papers/2608.07169",
+          "summary": "Agent Memory Distillation, büyük dil modellerinden (large language models) küçük modellere hiyerarşik bellek yapısı üzerinden bilgi aktarımı sağlayan bir çerçeve. Bu yöntem, küçük modellerin kendi başlarına başarılı iş akışları oluşturmakta zorlandığı durumlarda, daha yetenekli modellerin deneyimlerinden yararlanarak performanslarını artırmayı hedefliyor.",
+          "meta": "0 beğeni · 1 yorum"
+        },
+        {
+          "title": "RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance",
+          "url": "https://huggingface.co/papers/2608.09853",
+          "summary": "RynnValue, robotik manipülasyon süreçlerinde ödül modellerini ölçeklendirmek için geliştirilen açık kaynaklı bir değer temel modeli (value foundation model). Farklı robotik gövdeler ve veri kaynakları arasında tutarlı sonuçlar alabilmek adına, görev odaklı geleneksel yöntemlerin yerine zamansal mesafe tabanlı bir yaklaşım kullanıyor.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "Factorized Hypothesis Search for Evidence-to-Taxonomy Retrieval",
+          "url": "https://huggingface.co/papers/2608.06614",
+          "summary": "Faktörize Hipotez Araması (Factorized Hypothesis Search), verinin doğrudan ifade edilmediği durumlarda büyük taksonomilerden bilgi çekmeyi kolaylaştıran bir yöntemdir. Bu yaklaşım, bağlamsal ipuçlarını kullanarak arama sonuçlarındaki anlamsal boşluğu (retrieval readiness gap) kapatmayı hedefler.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution",
+          "url": "https://huggingface.co/papers/2608.08311",
+          "summary": "Ouroboros, kendi araçlarını, istemlerini ve temel kod yapısını yinelemeli süreçlerle geliştirebilen bir yazılım geliştirme ajanı (coding agent). Sistem, hataları ve verimsizlikleri deneyim yoluyla tespit ederek kendi çalışma ortamını sürekli iyileştiren bir evrim mekanizmasıyla çalışıyor.",
+          "meta": "5 beğeni · 1 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "a util for compiling HTML/PDF documents using Hiccup style templates",
+          "url": "https://github.com/yogthos/doc-builder",
+          "summary": "Doc-builder, Hiccup tarzı şablonlar kullanarak HTML ve PDF belgeleri oluşturmaya yarayan bir araçtır. Clojure tabanlı bu kütüphane, veri yapılarını doğrudan belge formatlarına dönüştürerek dokümantasyon hazırlama sürecini kolaylaştırır.",
+          "meta": "3 oy · 2 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mao72o/util_for_compiling_html_pdf_documents",
+              "popularity": 3,
+              "engagementCount": 2
+            }
+          ]
+        },
+        {
+          "title": "Everything I Know About SSDs",
+          "url": "http://kcall.co.uk/ssd/index.html",
+          "summary": "Katı hal sürücüleri (SSD) üzerindeki veri depolama teknolojileri, NAND bellek hücrelerinin çalışma prensiplerini ve veri yönetim süreçlerini teknik detaylarıyla açıklıyor. Bu rehber, donanım seviyesinde veri yazma, silme ve aşınma yönetimi (wear leveling) gibi süreçlerin performans üzerindeki etkilerini inceliyor.",
+          "meta": "19 oy · 5 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/koj86v/everything_i_know_about_ssds",
+              "popularity": 19,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "This week in KDE: more speed, more features, and a bug massacre",
+          "url": "https://pointieststick.com/2020/01/11/this-week-in-kde-more-speed-more-features-and-a-bug-massacre/",
+          "summary": "Açık kaynaklı masaüstü ortamı KDE, yeni güncellemesiyle sistem performansını artırırken yazılım hatalarını (bug) gidermeye odaklanıyor. Geliştiriciler, kullanıcı deneyimini iyileştirmek adına arayüz özelliklerini genişleten yeni işlevler ekliyor.",
+          "meta": "7 oy · 1 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/apxh0s/this_week_kde_more_speed_more_features_bug",
+              "popularity": 7,
+              "engagementCount": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "web scraping",
+      "explanation": "İnternet sitelerindeki verileri otomatik yazılımlar kullanarak kopyalayıp toplama işlemi."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip hedeflere ulaşmak için araçları kullanan otonom yazılımlar."
+    },
+    {
+      "term": "hill-climbing",
+      "explanation": "En iyi sonucu bulana kadar sürekli küçük adımlarla mevcut durumu iyileştirmeye çalışan basit bir arama yöntemi."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan köprü."
+    },
+    {
+      "term": "local agent workflows",
+      "explanation": "İnternete ihtiyaç duymadan, doğrudan kullanıcının kendi bilgisayarında çalışan otonom görev süreçleri."
+    },
+    {
+      "term": "open source",
+      "explanation": "Kaynak kodları herkesin incelemesine, değiştirmesine ve geliştirmesine açık olan yazılım türü."
+    }
+  ]
+}
