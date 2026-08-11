@@ -28,7 +28,7 @@ Küçük ve basit işler için gereksiz olabilir, ancak büyük ve karmaşık pr
 ## İlgili terimler
 - [Framework](/dictionary/framework/)
 - [Tech Stack](/dictionary/tech-stack/)
-- [Coding Agents](/dictionary/coding-agents/)
+- [Coding Agents](/dictionary/coding-agent/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/development-framework/

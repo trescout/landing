@@ -26,7 +26,7 @@ Kişiselleştirme (personalization) ile benzerdir ancak customization genellikle
 Hayır, bazı yazılımlar kapalı kutu gibidir ve kullanıcıya hiçbir ayar seçeneği sunmaz.
 
 ## İlgili terimler
-- [Plugins](/dictionary/plugins/)
+- [Plugins](/dictionary/plugin/)
 - [Framework](/dictionary/framework/)
 - [User Experience](/dictionary/user-experience/)
 

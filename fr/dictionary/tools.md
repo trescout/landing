@@ -25,7 +25,7 @@ Vous pouvez le faire en écrivant une fonction et en la définissant pour l'agen
 ## Termes liés
 - [MCP](/fr/dictionary/mcp/)
 - [AI Agent](/fr/dictionary/ai-agent/)
-- [Plugins](/fr/dictionary/plugins/)
+- [Plugins](/fr/dictionary/plugin/)
 - [SDK](/fr/dictionary/sdk/)
 
 ## Outils liés

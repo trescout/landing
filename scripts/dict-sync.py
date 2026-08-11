@@ -253,6 +253,13 @@ def main():
     if not terms: print("glossary bulunamadı (rapor JSON'unda 'glossary' yok, PDF de yok)."); return
     manifest=json.load(open(MANIFEST,encoding="utf-8"))
     existing_slugs={m["slug"] for m in manifest}
+    # BİRLEŞTİRİLMİŞ terimler · 2026-08-08'de 19 tekil/çoğul ikizi kanonik
+    # sluglarında birleştirildi ve eski URL'ler 301'lendi. O sluglar burada
+    # "zaten var" sayılmazsa hat onları ertesi gün yeniden yaratır ve
+    # yönlendirme kırılır. Bkz. assets/dictionary/birlesmis.json
+    _birlesmis=os.path.join(os.path.dirname(MANIFEST),"birlesmis.json")
+    if os.path.exists(_birlesmis):
+        existing_slugs |= set(json.load(open(_birlesmis,encoding="utf-8"))["eslesme"])
     # tam-kopya filtresi: slug + isim + akronim/full eşleşmesi (ör. "tts" = text-to-speech full "TTS")
     keys=set(existing_slugs)
     for m in manifest:

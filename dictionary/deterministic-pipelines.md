@@ -27,7 +27,7 @@ Hata ayıklamayı kolaylaştırır ve sistemin öngörülebilir olmasını sağl
 
 ## İlgili terimler
 - [Pipeline](/dictionary/pipeline/)
-- [Pipelines](/dictionary/pipelines/)
+- [Pipelines](/dictionary/pipeline/)
 - [Data Pipeline](/dictionary/data-pipeline/)
 
 ---

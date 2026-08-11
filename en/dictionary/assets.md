@@ -21,7 +21,7 @@ Generally no, while code is considered the main structure; Visuals, sounds and 3
 ## Related terms
 - [Tech Stack](/en/dictionary/tech-stack/)
 - [Godot Engine](/en/dictionary/godot-engine/)
-- [Design Systems](/en/dictionary/design-systems/)
+- [Design Systems](/en/dictionary/design-system/)
 
 ## Related tools
 - [Website-downloader](/en/discover/website-downloader/)

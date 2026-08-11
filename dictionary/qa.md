@@ -31,7 +31,7 @@ Modelin çıktılarını kontrol etmek, halüsinasyonları test etmek ve sistemi
 - [Unit Testing](/dictionary/unit-testing/)
 - [End-to-End Testing](/dictionary/end-to-end-testing/)
 - [Testing Framework](/dictionary/testing-framework/)
-- [Benchmarks](/dictionary/benchmarks/)
+- [Benchmarks](/dictionary/benchmark/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/qa/

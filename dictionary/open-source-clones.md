@@ -31,7 +31,7 @@ Genellikle daha uygun maliyetli oldukları, kendi ihtiyaçlarınıza göre deği
 ## İlgili terimler
 - [Open Source](/dictionary/open-source/)
 - [Clone](/dictionary/clone/)
-- [Clones](/dictionary/clones/)
+- [Clones](/dictionary/clone/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/open-source-clones/

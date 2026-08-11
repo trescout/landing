@@ -30,7 +30,7 @@ Evet, günümüzde birçok yapay zekâ platformu, tanımladığınız kişilik �
 
 ## İlgili terimler
 - [AI Companion](/dictionary/ai-companion/)
-- [AI Companions](/dictionary/ai-companions/)
+- [AI Companions](/dictionary/ai-companion/)
 - [Companion](/dictionary/companion/)
 
 ---

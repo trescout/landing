@@ -26,7 +26,7 @@ Sadece 'daha çok çalışmak' ile karıştırılabilir; oysa productivity 'daha
 Sıkıcı ve tekrarlayan işleri saniyeler içinde yaparak, insanın daha yaratıcı ve stratejik işlere odaklanmasını sağlar.
 
 ## İlgili terimler
-- [AI Agents](/dictionary/ai-agents/)
+- [AI Agents](/dictionary/ai-agent/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/productivity/

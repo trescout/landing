@@ -25,7 +25,7 @@ No, only software that allows plug-in system (open architecture) supports this f
 
 
 ## Related terms
-- [Plugins](/en/dictionary/plugins/)
+- [Plugins](/en/dictionary/plugin/)
 - [SDK](/en/dictionary/sdk/)
 - [API](/en/dictionary/api/)
 

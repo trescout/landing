@@ -20,7 +20,7 @@ Il effectue des tâches ennuyeuses et répétitives en quelques secondes, permet
 
 
 ## Termes liés
-- [AI Agents](/fr/dictionary/ai-agents/)
+- [AI Agents](/fr/dictionary/ai-agent/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/productivity/

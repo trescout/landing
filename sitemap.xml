@@ -115,12 +115,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/dictionary/agent-skill/</loc>
-    <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/dictionary/agent-skills/</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -175,12 +169,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/dictionary/agentic-systems/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/dictionary/agentic-video-production-system/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -195,12 +183,6 @@
   <url>
     <loc>https://trescout.com/dictionary/agentic/</loc>
     <lastmod>2026-07-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/dictionary/agents/</loc>
-    <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -223,12 +205,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/dictionary/ai-agents/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/dictionary/ai-capabilities/</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -237,12 +213,6 @@
   <url>
     <loc>https://trescout.com/dictionary/ai-coding-agent/</loc>
     <lastmod>2026-06-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/dictionary/ai-coding-agents/</loc>
-    <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -261,12 +231,6 @@
   <url>
     <loc>https://trescout.com/dictionary/ai-companion/</loc>
     <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/dictionary/ai-companions/</loc>
-    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -321,12 +285,6 @@
   <url>
     <loc>https://trescout.com/dictionary/ai-security-tool/</loc>
     <lastmod>2026-06-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/dictionary/ai-skill/</loc>
-    <lastmod>2026-06-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -451,12 +409,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/dictionary/autonomous-ai-agents/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/dictionary/autonomous-robotics/</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -495,12 +447,6 @@
   <url>
     <loc>https://trescout.com/dictionary/benchmark/</loc>
     <lastmod>2026-06-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/dictionary/benchmarks/</loc>
-    <lastmod>2026-06-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -625,12 +571,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/dictionary/clones/</loc>
-    <lastmod>2026-06-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/dictionary/cloning/</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -693,12 +633,6 @@
   <url>
     <loc>https://trescout.com/dictionary/coding-agent/</loc>
     <lastmod>2026-06-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/dictionary/coding-agents/</loc>
-    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -969,12 +903,6 @@
   <url>
     <loc>https://trescout.com/dictionary/design-system/</loc>
     <lastmod>2026-07-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/dictionary/design-systems/</loc>
-    <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1513,12 +1441,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/dictionary/jupyter-notebook/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/dictionary/jupyter-notebooks/</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -2023,12 +1945,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/dictionary/pipelines/</loc>
-    <lastmod>2026-06-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/dictionary/playlist/</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -2037,12 +1953,6 @@
   <url>
     <loc>https://trescout.com/dictionary/plugin/</loc>
     <lastmod>2026-07-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/dictionary/plugins/</loc>
-    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2103,12 +2013,6 @@
   <url>
     <loc>https://trescout.com/dictionary/prompt/</loc>
     <lastmod>2026-07-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/dictionary/prompts/</loc>
-    <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2305,12 +2209,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/dictionary/scripts/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/dictionary/sdk/</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -2457,12 +2355,6 @@
   <url>
     <loc>https://trescout.com/dictionary/specification/</loc>
     <lastmod>2026-07-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/dictionary/specifications/</loc>
-    <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2991,12 +2883,6 @@
   <url>
     <loc>https://trescout.com/dictionary/world-model/</loc>
     <lastmod>2026-06-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/dictionary/world-models/</loc>
-    <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6019,12 +5905,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/en/dictionary/agent-skill/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/en/dictionary/agent-skills/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -6079,12 +5959,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/en/dictionary/agentic-systems/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/en/dictionary/agentic-video-production-system/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -6098,12 +5972,6 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/agentic/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/dictionary/agents/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6127,12 +5995,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/en/dictionary/ai-agents/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/en/dictionary/ai-capabilities/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -6140,12 +6002,6 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/ai-coding-agent/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/dictionary/ai-coding-agents/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6164,12 +6020,6 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/ai-companion/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/dictionary/ai-companions/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6224,12 +6074,6 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/ai-security-tool/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/dictionary/ai-skill/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6355,12 +6199,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/en/dictionary/autonomous-ai-agents/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/en/dictionary/autonomous-robotics/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -6398,12 +6236,6 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/benchmark/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/dictionary/benchmarks/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6529,12 +6361,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/en/dictionary/clones/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/en/dictionary/cloning/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -6596,12 +6422,6 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/coding-agent/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/dictionary/coding-agents/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6872,12 +6692,6 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/design-system/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/dictionary/design-systems/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -7417,12 +7231,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/en/dictionary/jupyter-notebook/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/en/dictionary/jupyter-notebooks/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -7927,12 +7735,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/en/dictionary/pipelines/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/en/dictionary/playlist/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -7940,12 +7742,6 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/plugin/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/dictionary/plugins/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -8006,12 +7802,6 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/prompt/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/dictionary/prompts/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -8209,12 +7999,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/en/dictionary/scripts/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/en/dictionary/sdk/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -8360,12 +8144,6 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/specification/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/dictionary/specifications/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -8894,12 +8672,6 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/world-model/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/dictionary/world-models/</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -11887,12 +11659,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/fr/dictionary/agent-skill/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/fr/dictionary/agent-skills/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -11947,12 +11713,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/fr/dictionary/agentic-systems/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/fr/dictionary/agentic-video-production-system/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -11966,12 +11726,6 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/agentic/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/dictionary/agents/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -11995,12 +11749,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/fr/dictionary/ai-agents/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/fr/dictionary/ai-capabilities/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -12008,12 +11756,6 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/ai-coding-agent/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/dictionary/ai-coding-agents/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12032,12 +11774,6 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/ai-companion/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/dictionary/ai-companions/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12092,12 +11828,6 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/ai-security-tool/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/dictionary/ai-skill/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12223,12 +11953,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/fr/dictionary/autonomous-ai-agents/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/fr/dictionary/autonomous-robotics/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -12266,12 +11990,6 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/benchmark/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/dictionary/benchmarks/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12397,12 +12115,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/fr/dictionary/clones/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/fr/dictionary/cloning/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -12464,12 +12176,6 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/coding-agent/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/dictionary/coding-agents/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12740,12 +12446,6 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/design-system/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/dictionary/design-systems/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13285,12 +12985,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/fr/dictionary/jupyter-notebook/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/fr/dictionary/jupyter-notebooks/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -13795,12 +13489,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/fr/dictionary/pipelines/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/fr/dictionary/playlist/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -13808,12 +13496,6 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/plugin/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/dictionary/plugins/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13874,12 +13556,6 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/prompt/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/dictionary/prompts/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -14077,12 +13753,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/fr/dictionary/scripts/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/fr/dictionary/sdk/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -14228,12 +13898,6 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/specification/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/dictionary/specifications/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -14762,12 +14426,6 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/world-model/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/dictionary/world-models/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

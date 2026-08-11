@@ -30,7 +30,7 @@ Genellikle API bağlantıları veya özel kod blokları yazılarak asistanın be
 
 ## İlgili terimler
 - [AI Agent](/dictionary/ai-agent/)
-- [AI Skill](/dictionary/ai-skill/)
+- [AI Skill](/dictionary/ai-skills/)
 - [Agent Skills](/dictionary/agent-skills/)
 - [Tools](/dictionary/tools/)
 - [AI Capabilities](/dictionary/ai-capabilities/)

@@ -23,7 +23,7 @@ Oui, mais il est préférable d’examiner les résultats globaux qui incluent d
 
 
 ## Termes liés
-- [Benchmarks](/fr/dictionary/benchmarks/)
+- [Benchmarks](/fr/dictionary/benchmark/)
 - [AI Models](/fr/dictionary/ai-models/)
 - [Inference](/fr/dictionary/inference/)
 

@@ -27,7 +27,7 @@ You can do this by writing a function and defining it to the agent through an AP
 ## Related terms
 - [MCP](/en/dictionary/mcp/)
 - [AI Agent](/en/dictionary/ai-agent/)
-- [Plugins](/en/dictionary/plugins/)
+- [Plugins](/en/dictionary/plugin/)
 - [SDK](/en/dictionary/sdk/)
 
 ## Related tools

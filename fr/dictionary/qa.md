@@ -25,7 +25,7 @@ Cela se fait en vérifiant les sorties du modèle, en testant les hallucinations
 - [Unit Testing](/fr/dictionary/unit-testing/)
 - [End-to-End Testing](/fr/dictionary/end-to-end-testing/)
 - [Testing Framework](/fr/dictionary/testing-framework/)
-- [Benchmarks](/fr/dictionary/benchmarks/)
+- [Benchmarks](/fr/dictionary/benchmark/)
 
 ## Outils liés
 - [Gstack](/fr/discover/gstack/)

@@ -24,7 +24,7 @@ They can make mistakes, so they are backed by layers of security and continuous 
 ## Related terms
 - [Introduction to Autonomous Robots](/en/dictionary/autonomous-robots-intro/)
 - [Physical AI](/en/dictionary/physical-ai/)
-- [World Models](/en/dictionary/world-models/)
+- [World Models](/en/dictionary/world-model/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/autonomous-robotics/

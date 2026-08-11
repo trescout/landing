@@ -157,6 +157,11 @@ jobs:
       # Sitemap'i güncel tutan bir süreç yoktu · İngilizce sayfalar tek seferlik
       # eklenmiş ve güncellenmemişti (2026-08-06'da 154 sayfa dışarıdaydı).
       # Diskteki her sayfayı alır, silinmişleri çıkarır, mevcut lastmod'lara dokunmaz.
+      # Birleşmiş terimlerin 301'leri vercel.json'da · birlesmis.json
+      # değişirse yönlendirmeler de yenilensin.
+      - name: Yönlendirmeleri üret
+        run: python3 scripts/redirect-uret.py
+
       - name: Sitemap senkronu
         run: python3 scripts/sitemap-sync.py
 
@@ -184,6 +189,11 @@ jobs:
 
       - name: Sayfa paritesi (diller arası yapı)
         run: python3 scripts/check-sayfa-paritesi.py
+
+      # Birleştirilmiş sözlük ikizleri geri açılmasın · günlük hat terimi
+      # yeniden yaratırsa 301 zinciri kırılır.
+      - name: Birleştirilmiş terimler kontrolü
+        run: python3 scripts/check-birlesmis-terimler.py
 
       # Tazeleme yardımcı bir adım · GitHub API aksarsa asıl işi (içerik büyümesi
       # + commit) düşürmesin. 2026-08-02'de REST hız sınırı 403 döndü ve dört

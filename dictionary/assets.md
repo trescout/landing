@@ -25,7 +25,7 @@ Genellikle hayır, kod ana yapı olarak kabul edilirken; görseller, sesler ve 3
 ## İlgili terimler
 - [Tech Stack](/dictionary/tech-stack/)
 - [Godot Engine](/dictionary/godot-engine/)
-- [Design Systems](/dictionary/design-systems/)
+- [Design Systems](/dictionary/design-system/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/assets/

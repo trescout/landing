@@ -26,7 +26,7 @@ Yes, many AI platforms today allow you to create characters with personality tra
 
 ## Related terms
 - [AI Companion](/en/dictionary/ai-companion/)
-- [AI Companions](/en/dictionary/ai-companions/)
+- [AI Companions](/en/dictionary/ai-companion/)
 - [Companion](/en/dictionary/companion/)
 
 ---

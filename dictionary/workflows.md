@@ -30,7 +30,7 @@ Evet, ihtiyaçlar değiştikçe iş akışlarını güncelleyip daha verimli hal
 
 ## İlgili terimler
 - [Pipeline](/dictionary/pipeline/)
-- [Pipelines](/dictionary/pipelines/)
+- [Pipelines](/dictionary/pipeline/)
 - [Data Pipeline](/dictionary/data-pipeline/)
 
 ---

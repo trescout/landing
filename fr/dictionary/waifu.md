@@ -24,7 +24,7 @@ Oui, de nombreuses plateformes d’IA vous permettent aujourd’hui de créer de
 
 ## Termes liés
 - [AI Companion](/fr/dictionary/ai-companion/)
-- [AI Companions](/fr/dictionary/ai-companions/)
+- [AI Companions](/fr/dictionary/ai-companion/)
 - [Companion](/fr/dictionary/companion/)
 
 ---

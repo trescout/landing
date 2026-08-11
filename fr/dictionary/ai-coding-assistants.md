@@ -21,7 +21,7 @@ Non, il s'agit d'un outil auxiliaire qui rend le travail du développeur de logi
 
 ## Termes liés
 - [AI Coding Agent](/fr/dictionary/ai-coding-agent/)
-- [Coding Agents](/fr/dictionary/coding-agents/)
+- [Coding Agents](/fr/dictionary/coding-agent/)
 - [LLM](/fr/dictionary/llm/)
 
 ## Outils liés

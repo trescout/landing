@@ -29,7 +29,7 @@ Hayır, asistan sadece yardımcıdır; kontrol her zaman sizdedir.
 Kodunuzu paylaştığınız aracın gizlilik politikasına bağlıdır, hassas verileri paylaşırken dikkatli olmalısınız.
 
 ## İlgili terimler
-- [AI Coding Agents](/dictionary/ai-coding-agents/)
+- [AI Coding Agents](/dictionary/ai-coding-agent/)
 - [Coding Agent](/dictionary/coding-agent/)
 - [AI Coding Assistants](/dictionary/ai-coding-assistants/)
 - [IDE](/dictionary/ide/)

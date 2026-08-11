@@ -23,7 +23,7 @@ Non, seuls les logiciels autorisant le système de plug-in (architecture ouverte
 
 
 ## Termes liés
-- [Plugins](/fr/dictionary/plugins/)
+- [Plugins](/fr/dictionary/plugin/)
 - [SDK](/fr/dictionary/sdk/)
 - [API](/fr/dictionary/api/)
 

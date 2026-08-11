@@ -28,7 +28,7 @@ Bulut tabanlı kod asistanları ile karıştırılabilir, ancak burada tüm işl
 ## İlgili terimler
 - [Local-first](/dictionary/local-first/)
 - [AI Coding Agent](/dictionary/ai-coding-agent/)
-- [Coding Agents](/dictionary/coding-agents/)
+- [Coding Agents](/dictionary/coding-agent/)
 - [Local](/dictionary/local/)
 
 ---

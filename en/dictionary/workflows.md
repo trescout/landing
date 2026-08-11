@@ -26,7 +26,7 @@ Yes, it is a best practice to update workflows and make them more efficient as n
 
 ## Related terms
 - [Pipeline](/en/dictionary/pipeline/)
-- [Pipelines](/en/dictionary/pipelines/)
+- [Pipelines](/en/dictionary/pipeline/)
 - [Data Pipeline](/en/dictionary/data-pipeline/)
 
 ## Related tools

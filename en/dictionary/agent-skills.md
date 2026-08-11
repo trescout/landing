@@ -26,7 +26,7 @@ No, its capabilities are customized depending on the agent's intended use (for e
 
 ## Related terms
 - [AI Agent Skill](/en/dictionary/ai-agent-skill/)
-- [AI Skill](/en/dictionary/ai-skill/)
+- [AI Skill](/en/dictionary/ai-skills/)
 - [Agentic Skills](/en/dictionary/agentic-skills/)
 - [Agentic Skills Framework](/en/dictionary/agentic-skills-framework/)
 

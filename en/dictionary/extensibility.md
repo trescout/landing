@@ -19,7 +19,7 @@ No, if the software is not designed with this flexibility from the beginning, ad
 
 
 ## Related terms
-- [Plugins](/en/dictionary/plugins/)
+- [Plugins](/en/dictionary/plugin/)
 - [Framework](/en/dictionary/framework/)
 - [API](/en/dictionary/api/)
 

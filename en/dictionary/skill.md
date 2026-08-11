@@ -26,7 +26,7 @@ Usually, API connections or special code blocks are written to enable the assist
 
 ## Related terms
 - [AI Agent](/en/dictionary/ai-agent/)
-- [AI Skill](/en/dictionary/ai-skill/)
+- [AI Skill](/en/dictionary/ai-skills/)
 - [Agent Skills](/en/dictionary/agent-skills/)
 - [Tools](/en/dictionary/tools/)
 - [AI Capabilities](/en/dictionary/ai-capabilities/)
