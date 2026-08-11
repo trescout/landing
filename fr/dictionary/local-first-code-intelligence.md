@@ -22,7 +22,7 @@ Conserver vos données sur votre appareil constitue un énorme avantage en mati�
 ## Termes liés
 - [Local-first](/fr/dictionary/local-first/)
 - [AI Coding Agent](/fr/dictionary/ai-coding-agent/)
-- [Coding Agents](/fr/dictionary/coding-agents/)
+- [Coding Agents](/fr/dictionary/coding-agent/)
 - [Local](/fr/dictionary/local/)
 
 ---

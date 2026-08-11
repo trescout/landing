@@ -27,7 +27,7 @@ This is done by checking the model's outputs, testing hallucinations, and verify
 - [Unit Testing](/en/dictionary/unit-testing/)
 - [End-to-End Testing](/en/dictionary/end-to-end-testing/)
 - [Testing Framework](/en/dictionary/testing-framework/)
-- [Benchmarks](/en/dictionary/benchmarks/)
+- [Benchmarks](/en/dictionary/benchmark/)
 
 ## Related tools
 - [Gstack](/en/discover/gstack/)

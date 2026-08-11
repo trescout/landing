@@ -31,7 +31,7 @@ Bir fonksiyon yazıp bunu ajana bir API veya kütüphane üzerinden tanımlayara
 ## İlgili terimler
 - [MCP](/dictionary/mcp/)
 - [AI Agent](/dictionary/ai-agent/)
-- [Plugins](/dictionary/plugins/)
+- [Plugins](/dictionary/plugin/)
 - [SDK](/dictionary/sdk/)
 
 ---

@@ -26,7 +26,7 @@ It is necessary to determine which tasks the agent can and cannot do.
 
 ## Related terms
 - [AI Agent](/en/dictionary/ai-agent/)
-- [Agent Skill](/en/dictionary/agent-skill/)
+- [Agent Skill](/en/dictionary/agent-skills/)
 - [AI Skills](/en/dictionary/ai-skills/)
 
 ## Related tools

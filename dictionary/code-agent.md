@@ -31,7 +31,7 @@ Ajanlar hata yapabilir, bu yüzden her zaman bir insan denetimi ve test süreçl
 ## İlgili terimler
 - [AI Coding Agent](/dictionary/ai-coding-agent/)
 - [Autonomous Agent](/dictionary/autonomous-agent/)
-- [Coding Agents](/dictionary/coding-agents/)
+- [Coding Agents](/dictionary/coding-agent/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/code-agent/

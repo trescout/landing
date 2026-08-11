@@ -24,7 +24,7 @@ Güvenilir kaynaklardan alınmadığı sürece risk taşıyabilir. Başkasının
 
 ## İlgili terimler
 - [Tech Stack](/dictionary/tech-stack/)
-- [Coding Agents](/dictionary/coding-agents/)
+- [Coding Agents](/dictionary/coding-agent/)
 - [Clean Code](/dictionary/clean-code/)
 
 ---

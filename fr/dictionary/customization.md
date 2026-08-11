@@ -20,7 +20,7 @@ Non, certains logiciels s'apparentent à une boîte fermée et n'offrent aucune 
 
 
 ## Termes liés
-- [Plugins](/fr/dictionary/plugins/)
+- [Plugins](/fr/dictionary/plugin/)
 - [Framework](/fr/dictionary/framework/)
 - [User Experience](/fr/dictionary/user-experience/)
 

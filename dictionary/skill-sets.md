@@ -30,7 +30,7 @@ Ajanın hangi işleri yapıp hangilerini yapamayacağını belirlemek için gere
 
 ## İlgili terimler
 - [AI Agent](/dictionary/ai-agent/)
-- [Agent Skill](/dictionary/agent-skill/)
+- [Agent Skill](/dictionary/agent-skills/)
 - [AI Skills](/dictionary/ai-skills/)
 
 ---

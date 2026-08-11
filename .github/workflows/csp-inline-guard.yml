@@ -49,3 +49,8 @@ jobs:
       # taşımalı · biri değişip diğerleri geride kalmasın.
       - name: Sayfa paritesi (diller arası yapı)
         run: python3 scripts/check-sayfa-paritesi.py
+
+      # Birleştirilmiş sözlük ikizleri geri açılmasın · günlük hat terimi
+      # yeniden yaratırsa 301 zinciri kırılır.
+      - name: Birleştirilmiş terimler kontrolü
+        run: python3 scripts/check-birlesmis-terimler.py

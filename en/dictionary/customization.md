@@ -22,7 +22,7 @@ No, some software is like a closed box and does not offer any setting options to
 
 
 ## Related terms
-- [Plugins](/en/dictionary/plugins/)
+- [Plugins](/en/dictionary/plugin/)
 - [Framework](/en/dictionary/framework/)
 - [User Experience](/en/dictionary/user-experience/)
 

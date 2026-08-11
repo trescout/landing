@@ -25,7 +25,7 @@ Ils sont généralement préférés car ils sont plus économiques, vous pouvez 
 ## Termes liés
 - [Open Source](/fr/dictionary/open-source/)
 - [Clone](/fr/dictionary/clone/)
-- [Clones](/fr/dictionary/clones/)
+- [Clones](/fr/dictionary/clone/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/open-source-clones/

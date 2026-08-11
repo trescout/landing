@@ -21,7 +21,7 @@ Cela facilite le débogage et rend le système prévisible.
 
 ## Termes liés
 - [Pipeline](/fr/dictionary/pipeline/)
-- [Pipelines](/fr/dictionary/pipelines/)
+- [Pipelines](/fr/dictionary/pipeline/)
 - [Data Pipeline](/fr/dictionary/data-pipeline/)
 
 ---

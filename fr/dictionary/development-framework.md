@@ -22,7 +22,7 @@ Cela n’est peut-être pas nécessaire pour les petits travaux simples, mais c�
 ## Termes liés
 - [Framework](/fr/dictionary/framework/)
 - [Tech Stack](/fr/dictionary/tech-stack/)
-- [Coding Agents](/fr/dictionary/coding-agents/)
+- [Coding Agents](/fr/dictionary/coding-agent/)
 
 ## Outils liés
 - [AstrBot](/fr/discover/astrbot/)

@@ -25,7 +25,7 @@ Plus la description de poste est claire, plus le processus de délégation sera 
 ## Termes liés
 - [Multi-agent](/fr/dictionary/multi-agent/)
 - [Subagents](/fr/dictionary/subagents/)
-- [AI Agents](/fr/dictionary/ai-agents/)
+- [AI Agents](/fr/dictionary/ai-agent/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/task-delegation/

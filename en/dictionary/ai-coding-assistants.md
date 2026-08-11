@@ -23,7 +23,7 @@ No, it is an auxiliary tool that makes the software developer's job easier and m
 
 ## Related terms
 - [AI Coding Agent](/en/dictionary/ai-coding-agent/)
-- [Coding Agents](/en/dictionary/coding-agents/)
+- [Coding Agents](/en/dictionary/coding-agent/)
 - [LLM](/en/dictionary/llm/)
 
 ## Related tools

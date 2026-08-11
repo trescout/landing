@@ -29,7 +29,7 @@ Genellikle evet, ancak benchmark testleri bazen gerçek dünya kullanımını ta
 Evet, ama sadece tek bir teste değil, farklı senaryoları içeren genel sonuçlara bakmak daha sağlıklıdır.
 
 ## İlgili terimler
-- [Benchmarks](/dictionary/benchmarks/)
+- [Benchmarks](/dictionary/benchmark/)
 - [AI Models](/dictionary/ai-models/)
 - [Inference](/dictionary/inference/)
 

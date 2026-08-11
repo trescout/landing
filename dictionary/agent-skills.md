@@ -30,7 +30,7 @@ Hayır, ajanın kullanım amacına göre (örneğin sadece veri analizi yapan bi
 
 ## İlgili terimler
 - [AI Agent Skill](/dictionary/ai-agent-skill/)
-- [AI Skill](/dictionary/ai-skill/)
+- [AI Skill](/dictionary/ai-skills/)
 - [Agentic Skills](/dictionary/agentic-skills/)
 - [Agentic Skills Framework](/dictionary/agentic-skills-framework/)
 

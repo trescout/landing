@@ -28,7 +28,7 @@ Hata yapabilirler, bu yüzden güvenlik katmanları ve sürekli öğrenme algori
 ## İlgili terimler
 - [Introduction to Autonomous Robots](/dictionary/autonomous-robots-intro/)
 - [Physical AI](/dictionary/physical-ai/)
-- [World Models](/dictionary/world-models/)
+- [World Models](/dictionary/world-model/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/autonomous-robotics/

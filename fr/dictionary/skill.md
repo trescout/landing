@@ -24,7 +24,7 @@ Habituellement, des connexions API ou des blocs de code spéciaux sont écrits p
 
 ## Termes liés
 - [AI Agent](/fr/dictionary/ai-agent/)
-- [AI Skill](/fr/dictionary/ai-skill/)
+- [AI Skill](/fr/dictionary/ai-skills/)
 - [Agent Skills](/fr/dictionary/agent-skills/)
 - [Tools](/fr/dictionary/tools/)
 - [AI Capabilities](/fr/dictionary/ai-capabilities/)

@@ -31,7 +31,7 @@ Görev tanımı ne kadar netse, devir süreci o kadar başarılı olur.
 ## İlgili terimler
 - [Multi-agent](/dictionary/multi-agent/)
 - [Subagents](/dictionary/subagents/)
-- [AI Agents](/dictionary/ai-agents/)
+- [AI Agents](/dictionary/ai-agent/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/task-delegation/

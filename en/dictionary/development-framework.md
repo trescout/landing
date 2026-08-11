@@ -24,7 +24,7 @@ It may be unnecessary for small and simple jobs, but it is essential for standar
 ## Related terms
 - [Framework](/en/dictionary/framework/)
 - [Tech Stack](/en/dictionary/tech-stack/)
-- [Coding Agents](/en/dictionary/coding-agents/)
+- [Coding Agents](/en/dictionary/coding-agent/)
 
 ## Related tools
 - [AstrBot](/en/discover/astrbot/)

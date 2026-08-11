@@ -22,7 +22,7 @@ It does boring and repetitive tasks in seconds, allowing people to focus on more
 
 
 ## Related terms
-- [AI Agents](/en/dictionary/ai-agents/)
+- [AI Agents](/en/dictionary/ai-agent/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/productivity/

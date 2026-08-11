@@ -17,7 +17,7 @@ Non, si le logiciel n’est pas conçu avec cette flexibilité dès le départ, 
 
 
 ## Termes liés
-- [Plugins](/fr/dictionary/plugins/)
+- [Plugins](/fr/dictionary/plugin/)
 - [Framework](/fr/dictionary/framework/)
 - [API](/fr/dictionary/api/)
 

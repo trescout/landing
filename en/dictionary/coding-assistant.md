@@ -25,7 +25,7 @@ It depends on the privacy policy of the tool you are sharing your code with, you
 
 
 ## Related terms
-- [AI Coding Agents](/en/dictionary/ai-coding-agents/)
+- [AI Coding Agents](/en/dictionary/ai-coding-agent/)
 - [Coding Agent](/en/dictionary/coding-agent/)
 - [AI Coding Assistants](/en/dictionary/ai-coding-assistants/)
 - [IDE](/en/dictionary/ide/)

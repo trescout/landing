@@ -24,7 +24,7 @@ Il s'agit d'un document évolutif qui est généralement géré conjointement pa
 
 ## Termes liés
 - [Design Language](/fr/dictionary/design-language/)
-- [Design Systems](/fr/dictionary/design-systems/)
+- [Design Systems](/fr/dictionary/design-system/)
 - [Frontend Stack](/fr/dictionary/frontend-stack/)
 - [User Interface](/fr/dictionary/user-interface/)
 

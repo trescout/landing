@@ -24,7 +24,7 @@ Oui, il est recommandé de mettre à jour les flux de travail et de les rendre p
 
 ## Termes liés
 - [Pipeline](/fr/dictionary/pipeline/)
-- [Pipelines](/fr/dictionary/pipelines/)
+- [Pipelines](/fr/dictionary/pipeline/)
 - [Data Pipeline](/fr/dictionary/data-pipeline/)
 
 ## Outils liés

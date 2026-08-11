@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-11 · 416 araç · 510 terim
+Son güncelleme: 2026-08-11 · 416 araç · 489 terim
 
 ---
 
@@ -381,49 +381,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Agent Skill nedir?
-
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-24
-
-Yapay zekâ ajanlarının belirli bir görevi yerine getirmek için kullandığı özel yetenekler veya araçlardır.
-
-## Tanım
-Bir yapay zekâ ajanı, sadece konuşmakla kalmayıp dünyayla etkileşime geçmek için çeşitli becerilere ihtiyaç duyar. Bu beceriler; bir dosyayı okumak, internette arama yapmak veya bir hesaplama gerçekleştirmek gibi somut görevleri kapsar. Ajanlar, bu yetenekleri kullanarak karmaşık süreçleri sizin adınıza otomatikleştirir.
-
-## Bir benzetmeyle
-Bir mutfak şefinin elindeki farklı bıçak setleri gibidir; her bıçağın (yeteneğin) kullanım amacı farklıdır ve şef (ajan) ihtiyaca göre doğru olanı seçer.
-
-## Nasıl çalışır?
-Ajan, kendisine verilen talimatı analiz eder ve elindeki yetenek listesinden bu işe en uygun olanı seçer. Ardından bu yeteneği kullanarak veriyi işler veya işlemi gerçekleştirir. Sonuçları değerlendirip görevin tamamlanıp tamamlanmadığına karar verir.
-
-## Nerede kullanılır?
-AI ajan platformlarında, otomasyon araçlarında ve kişisel asistan yazılımlarında kullanılır.
-
-## Sık karıştırılanlar
-AI Skill terimi genel yetenekleri ifade ederken, Agent Skill doğrudan bir ajanın aksiyon almasını sağlayan işlevsel bir araçtır.
-
-## Sıkça sorulanlar
-
-**Bir ajan kendi yeteneğini geliştirebilir mi?**  
-Evet, gelişmiş sistemlerde ajanlar yeni araçlar keşfedebilir veya mevcut yeteneklerini birleştirerek daha karmaşık işler yapabilir.
-
-**Her yetenek bir kod parçası mı?**  
-Genellikle evet, ancak bir API bağlantısı veya bir veritabanı sorgusu gibi farklı teknik yöntemlerle de tanımlanabilir.
-
-## İlgili terimler
-- [AI Agent](/dictionary/ai-agent/)
-- [Autonomous Agent](/dictionary/autonomous-agent/)
-- [AI Agent Skill](/dictionary/ai-agent-skill/)
-- [Agentic Skills](/dictionary/agentic-skills/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agent-skill/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Agent Skills nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -456,7 +413,7 @@ Hayır, ajanın kullanım amacına göre (örneğin sadece veri analizi yapan bi
 
 ## İlgili terimler
 - [AI Agent Skill](/dictionary/ai-agent-skill/)
-- [AI Skill](/dictionary/ai-skill/)
+- [AI Skill](/dictionary/ai-skills/)
 - [Agentic Skills](/dictionary/agentic-skills/)
 - [Agentic Skills Framework](/dictionary/agentic-skills-framework/)
 
@@ -847,49 +804,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Agentic Systems nedir?
-
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-07-28
-
-Birden fazla yapay zekâ biriminin iş birliği yaparak karmaşık sorunları çözdüğü sistemler bütünüdür.
-
-## Tanım
-Agentic Systems, tek bir yapay zekânın sınırlarını aşarak, farklı görevlerde uzmanlaşmış birden fazla yapay zekâ biriminin (ajanın) bir araya gelmesiyle oluşur. Bu sistemler, bir hedefi gerçekleştirmek için kendi aralarında görev dağılımı yapar ve birbirlerinin çıktılarını denetleyerek ilerler. İnsan müdahalesi olmadan karmaşık süreçleri yönetebilirler.
-
-## Bir benzetmeyle
-Tek bir çalışanın her işe koşturması yerine, her biri kendi alanında uzman kişilerden oluşan bir ekibin bir projeyi tamamlamak için birbirine destek olması gibidir.
-
-## Nasıl çalışır?
-Sistem, ana hedefi küçük parçalara böler ve her bir parçayı ilgili yeteneğe sahip ajana atar. Ajanlar, veri alışverişi yaparak ve birbirlerinin eksiklerini tamamlayarak hedefe ulaşır. Bu süreçte sürekli bir geri bildirim döngüsü ile hatalar minimize edilir.
-
-## Nerede kullanılır?
-Yazılım geliştirme süreçlerinde, veri analizi projelerinde ve karmaşık iş akışlarının otomasyonunda kullanılır.
-
-## Sık karıştırılanlar
-Tek bir yapay zekâ modelinden, çoklu birimlerin koordineli çalışması ve kendi kendine karar alma mekanizmalarıyla ayrılır.
-
-## Sıkça sorulanlar
-
-**Agentic Systems neden önemlidir?**  
-Çünkü tek bir yapay zekânın hata yapma ihtimali varken, uzmanlaşmış ajanların bir arada çalışması daha güvenilir ve kapsamlı çözümler üretir.
-
-**Bu sistemleri kurmak zor mu?**  
-Evet, ajanların birbirleriyle uyumlu çalışmasını sağlamak ciddi bir mühendislik ve planlama gerektirir.
-
-## İlgili terimler
-- [Agentic AI](/dictionary/agentic-ai/)
-- [Multi-agent](/dictionary/multi-agent/)
-- [Agentic System](/dictionary/agentic-system/)
-- [Swarm Intelligence Engine](/dictionary/swarm-intelligence-engine/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agentic-systems/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Agentic Video Production System nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -966,49 +880,6 @@ Genellikle kritik kararlarda onay beklenir ama süreçlerin çoğu kendi kendine
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agentic-workflows/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Agents nedir?
-
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-11
-
-Kullanıcıdan aldığı hedefler doğrultusunda kendi başına araçları kullanan ve kararlar veren otonom yapay zeka programlarıdır.
-
-## Tanım
-Ajanlar, sadece bir soruya cevap veren pasif bir sohbet robotundan farklıdır. Kendilerine verilen bir görevi yerine getirmek için hangi araçları kullanmaları gerektiğine karar verirler ve süreci kendi başlarına yönetirler. Örneğin, bir uçak bileti bulmanızı istediğinizde sadece siteyi aramakla kalmaz, uygun olanı seçip rezervasyon aşamasına kadar ilerleyebilirler.
-
-## Bir benzetmeyle
-Sıradan bir yapay zeka, sadece sorduğunuz sorulara cevap veren bir kütüphaneci gibidir. Ajanlar ise sizin yerinize araştırma yapan, telefon görüşmeleri gerçekleştiren ve işleri sonuçlandıran kişisel bir asistan gibidir.
-
-## Nasıl çalışır?
-Ajanlar, kendilerine verilen hedefleri küçük adımlara bölerler. Her adımda ne yapmaları gerektiğini düşünür, gerekli araçları seçer ve sonucu kontrol ederler. Eğer bir hata yaparlarsa, durumu fark edip stratejilerini değiştirerek görevi tamamlamaya çalışırlar.
-
-## Nerede kullanılır?
-Yazılım geliştirme süreçlerinde kod yazmak, karmaşık veri analizleri yapmak veya kişisel takvim yönetimi gibi çok adımlı görevlerde kullanılırlar.
-
-## Sık karıştırılanlar
-Genellikle AI Agent veya Autonomous Agent terimleriyle aynı anlamda kullanılır, bu yüzden bu kavramlar birbirinin yerine geçebilir.
-
-## Sıkça sorulanlar
-
-**Ajanlar her zaman doğru kararı verir mi?**  
-Hayır, bazen yanlış araç seçebilir veya döngüye girebilirler, bu yüzden kritik işlerde insan denetimi hala önemlidir.
-
-**Ajanlar kendi başlarına internete çıkabilir mi?**  
-Evet, yetkilendirildikleri takdirde web tarayıcılarını veya API'leri kullanarak internet üzerinden işlem yapabilirler.
-
-## İlgili terimler
-- [AI Agent](/dictionary/ai-agent/)
-- [Autonomous Agent](/dictionary/autonomous-agent/)
-- [Agentic AI](/dictionary/agentic-ai/)
-- [Multi-agent LLM](/dictionary/multi-agent-llm/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agents/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -1143,49 +1014,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# AI Agents nedir?
-
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-22
-
-Verilen görevleri yerine getirmek için araçları kullanan ve kendi başına karar verebilen akıllı yazılımlar.
-
-## Tanım
-Yapay zekâ ajanları, sadece soruya cevap vermekle kalmayıp, bir hedef doğrultusunda aksiyon alabilen dijital yardımcılarınızdır. Bir işi yapmak için gerekli araçları seçebilir, hatalarını düzeltebilir ve süreç boyunca kendi kararlarını verebilirler. Yani pasif bir sohbet robotundan ziyade, sizin yerinize iş bitiren aktif bir çalışan gibidirler.
-
-## Bir benzetmeyle
-Sıradan bir yapay zekâ, size yemek tarifini okuyan bir aşçılık kitabı gibidir. AI ajanı ise o tarifi okuyup mutfağa giren, malzemeleri doğrayan ve yemeği pişiren bir aşçı yardımcısıdır.
-
-## Nasıl çalışır?
-Ajanlar, önce hedefi analiz ederler. Ardından ellerindeki araçları kullanarak adım adım ilerlerler. Eğer bir engelle karşılaşırlarsa, durumu değerlendirip stratejilerini değiştirirler ve görev tamamlanana kadar döngüyü sürdürürler.
-
-## Nerede kullanılır?
-Kod yazma süreçlerinde, müşteri destek sistemlerinde veya karmaşık veri analizlerinde kullanılırlar.
-
-## Sık karıştırılanlar
-Sadece metin üreten standart sohbet botlarından, bağımsız karar alma ve araç kullanma yetenekleriyle ayrılırlar.
-
-## Sıkça sorulanlar
-
-**AI ajanı ile standart sohbet botu arasındaki temel fark nedir?**  
-Sohbet botu sadece bilgi verir, ajan ise sizin adınıza bir görevi tamamlamak için dış dünyadaki araçları kullanır.
-
-**Bir ajan kendi başına hata yapabilir mi?**  
-Evet, ajanlar da hata yapabilir ancak gelişmiş ajanlar bu hataları fark edip kendi yöntemlerini düzeltecek şekilde tasarlanırlar.
-
-## İlgili terimler
-- [AI Agent](/dictionary/ai-agent/)
-- [Autonomous Agent](/dictionary/autonomous-agent/)
-- [Coding Agent](/dictionary/coding-agent/)
-- [Agentic AI](/dictionary/agentic-ai/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-agents/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # AI Capabilities nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -1271,49 +1099,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# AI Coding Agents nedir?
-
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-25
-
-Yazılım geliştirme süreçlerinde kod yazma, hata ayıklama ve proje yönetimi gibi görevleri otonom şekilde yürüten yapay zekâ yardımcılarıdır.
-
-## Tanım
-Bu araçlar sadece kod parçacıkları önermekle kalmaz, karmaşık yazılım projelerini uçtan uca yönetebilirler. Bir geliştiricinin yapması gereken rutin işleri üstlenerek, kodun mantıksal hatalarını tespit edip düzeltme yeteneğine sahiptirler. Geliştiriciyle iş birliği içinde çalışarak yazılım üretim hızını ciddi oranda artırırlar.
-
-## Bir benzetmeyle
-Sanki yanınızda, yorulmadan çalışan ve yazdığınız her satırı anında kontrol edip eksikleri tamamlayan çok hızlı bir yazılım stajyeri varmış gibi düşünebilirsiniz.
-
-## Nasıl çalışır?
-Bu ajanlara projenizin hedeflerini ve kurallarını bir komutla verirsiniz. Onlar da dosya yapınızı analiz eder, gerekli kod bloklarını yazar ve gerekirse testleri çalıştırarak sonucu size sunarlar. Siz sadece süreci gözlemler ve kritik kararları onaylarsınız.
-
-## Nerede kullanılır?
-VS Code gibi kod editörleri içinde, GitHub Copilot Workspace veya Cursor gibi modern geliştirme platformlarında sıklıkla kullanılırlar.
-
-## Sık karıştırılanlar
-Sadece kod tamamlayan basit eklentilerle karıştırılmamalıdır; bu ajanlar bir projenin bütününe hakim olup kararlar alabilirler.
-
-## Sıkça sorulanlar
-
-**AI coding agent'lar yazılımcıların yerini mi alacak?**  
-Hayır, daha çok yazılımcıların verimliliğini artıran ve onları sıkıcı işlerden kurtaran bir yardımcı rolü üstlenirler.
-
-**Bu araçlar güvenli kod yazar mı?**  
-Genel olarak iyi kod üretirler ancak üretilen kodun güvenlik denetimini ve son kontrolünü her zaman bir insan yapmalıdır.
-
-## İlgili terimler
-- [AI Coding Agent](/dictionary/ai-coding-agent/)
-- [Coding Agent](/dictionary/coding-agent/)
-- [Vibe Coding](/dictionary/vibe-coding/)
-- [Agentic Engineering](/dictionary/agentic-engineering/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-coding-agents/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # AI Coding Assistants nedir?
 
 **Kategori:** Geliştirme  
@@ -1343,7 +1128,7 @@ Hayır, yazılımcının işini kolaylaştırarak daha verimli olmasını sağla
 
 ## İlgili terimler
 - [AI Coding Agent](/dictionary/ai-coding-agent/)
-- [Coding Agents](/dictionary/coding-agents/)
+- [Coding Agents](/dictionary/coding-agent/)
 - [LLM](/dictionary/llm/)
 
 ---
@@ -1430,48 +1215,6 @@ Sizi gerçekten hissetmez ancak eğitildiği veriler sayesinde duygularınızı 
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-companion/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# AI Companions nedir?
-
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-07-28
-
-Kullanıcıyla duygusal bağ kuran ve kişisel ihtiyaçlara göre destek sunan yapay zekâ yazılımlarıdır.
-
-## Tanım
-AI Companions, sadece bilgi vermek için değil, bir arkadaş veya yardımcı gibi sürekli etkileşimde kalmak için tasarlanmış yapay zekâ programlarıdır. Bu sistemler, sizin geçmişteki tercihlerinizi ve konuşma tarzınızı öğrenerek zamanla daha kişiselleşmiş bir deneyim sunar. Günlük planlamadan duygusal desteğe kadar geniş bir yelpazede görev alabilirler.
-
-## Bir benzetmeyle
-Sanki cebinizde sizi her zaman dinleyen, ilgi alanlarınızı bilen ve ihtiyaç duyduğunuzda size özel tavsiyeler veren çok bilgili bir arkadaşınızın olması gibidir.
-
-## Nasıl çalışır?
-Bu yazılımlar, büyük dil modellerini kullanıcının kişisel verileri ve tercihleriyle birleştirerek çalışır. Sizinle sürekli bir diyalog halinde kalarak karakterlerini geliştirirler. İhtiyaç duyduğunuzda size hatırlatıcılar kurabilir veya sadece sohbet ederek gününüzü güzelleştirebilirler.
-
-## Nerede kullanılır?
-Kişisel asistan uygulamalarında, eğitim platformlarında ve sosyal etkileşim odaklı yapay zekâ platformlarında kullanılırlar.
-
-## Sık karıştırılanlar
-Sadece görev odaklı çalışan standart yapay zekâ asistanlarından, duygusal bağ kurma ve kişiselleşme yetenekleriyle ayrılırlar.
-
-## Sıkça sorulanlar
-
-**AI Companion bir insan gibi düşünebilir mi?**  
-Hayır, onlar sadece gelişmiş algoritmalar ve veri işleme yetenekleri sayesinde insan gibi davranmayı simüle ederler.
-
-**Verilerim güvende mi?**  
-Kaliteli AI Companion uygulamaları verilerinizi şifreler, ancak kişisel bilgilerinizi paylaşırken her zaman uygulamanın gizlilik politikasını kontrol etmelisiniz.
-
-## İlgili terimler
-- [AI Agent](/dictionary/ai-agent/)
-- [Companion](/dictionary/companion/)
-- [AI Companion](/dictionary/ai-companion/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-companions/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -1722,49 +1465,6 @@ Evet, her veri denetimden geçtiği için çok küçük bir gecikme yaşanabilir
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-security-tool/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# AI Skill nedir?
-
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-10
-
-Yapay zekânın belirli bir görevi veya süreci başarıyla tamamlayabilmesi için sahip olduğu özelleşmiş yetenekler bütünüdür.
-
-## Tanım
-AI skill, bir yapay zekâ sisteminin belirli bir komutu yerine getirmek için kullandığı araçlar ve yöntemler setidir. Bu yetenekler, yapay zekânın sadece konuşmakla kalmayıp, bir dosyayı düzenlemek veya internette arama yapmak gibi somut işleri yapmasını sağlar. Bir yapay zekâ ajanı, sahip olduğu bu becerileri kullanarak karmaşık problemleri çözebilir.
-
-## Bir benzetmeyle
-Bir aşçının sadece yemek tarifi bilmesi değil, aynı zamanda bıçak kullanma, fırın yönetme veya sos hazırlama gibi farklı uzmanlık alanlarına sahip olması gibidir.
-
-## Nasıl çalışır?
-Yapay zekâ modellerine bu yetenekler genellikle özel komutlar veya dış araçlara erişim yetkisi verilerek kazandırılır. Siz ona bir görev verdiğinizde, model hangi yeteneğini kullanması gerektiğini seçer ve o beceriyi devreye sokar. Bu sayede model, genel bir sohbet robotundan, iş bitiren bir yardımcıya dönüşür.
-
-## Nerede kullanılır?
-AI ajanlarını yöneten platformlarda, otomasyon araçlarında ve özelleştirilmiş yapay zekâ uygulamalarında kullanılır.
-
-## Sık karıştırılanlar
-AI-agent ile karıştırılabilir; agent işi yapan bütündür, AI skill ise bu bütünü oluşturan araçlardan her biridir.
-
-## Sıkça sorulanlar
-
-**Her yapay zekânın yeteneği aynı mıdır?**  
-Hayır, yetenekler modelin eğitildiği veya sonradan entegre edildiği araçlara göre kişiselleştirilebilir.
-
-**AI skill kendi kendine gelişir mi?**  
-Genellikle insanlar tarafından tanımlanır, ancak gelişmiş sistemlerde model hangi yeteneği ne zaman kullanacağını zamanla daha iyi öğrenebilir.
-
-## İlgili terimler
-- [AI Agent](/dictionary/ai-agent/)
-- [Agentic AI](/dictionary/agentic-ai/)
-- [AI Agent Skill](/dictionary/ai-agent-skill/)
-- [Agentic Skills](/dictionary/agentic-skills/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-skill/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -2501,7 +2201,7 @@ Genellikle hayır, kod ana yapı olarak kabul edilirken; görseller, sesler ve 3
 ## İlgili terimler
 - [Tech Stack](/dictionary/tech-stack/)
 - [Godot Engine](/dictionary/godot-engine/)
-- [Design Systems](/dictionary/design-systems/)
+- [Design Systems](/dictionary/design-system/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/assets/
@@ -2720,48 +2420,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Autonomous AI Agents nedir?
-
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-08-07
-
-İnsan müdahalesi olmadan karar alıp görevleri kendi başına yerine getirebilen yapay zekâ yazılımlarıdır.
-
-## Tanım
-Bu sistemler, kendilerine verilen bir hedef doğrultusunda plan yapabilir, gerekli araçları kullanabilir ve süreci yönetebilirler. Sadece komut beklemek yerine, karşılaştıkları engelleri aşmak için stratejiler geliştirirler. Bir işi tamamlamak için gereken adımları kendi akıl yürütme süreçleriyle belirlerler.
-
-## Bir benzetmeyle
-Sadece ne yapacağını söyleyen bir patron değil, işi nasıl yapacağını planlayıp bitiren ve sorun çıkarsa çözüm üreten yetenekli bir asistan gibidirler.
-
-## Nasıl çalışır?
-Önce bir hedef tanımlarsınız. Sistem, bu hedefe ulaşmak için gereken adımları analiz eder, gerekirse internette araştırma yapar veya kod yazar. Süreç boyunca kendi performansını izler ve hata yaparsa stratejisini günceller.
-
-## Nerede kullanılır?
-Karmaşık veri analizlerinde, yazılım geliştirme süreçlerinde ve tekrarlayan iş akışlarının otomatikleştirilmesinde kullanılırlar.
-
-## Sık karıştırılanlar
-Sadece verilen komutu uygulayan basit otomasyonlardan farklı olarak, kendi kararlarını verebilme yetisine sahiptirler.
-
-## Sıkça sorulanlar
-
-**İnsan müdahalesi tamamen kalkıyor mu?**  
-Genellikle hayır; sistemin sınırlarını ve hedefini belirlemek için yine de bir insan gözetimi gereklidir.
-
-**Her şeyi yapabilirler mi?**  
-Sadece kendilerine tanımlanan yetkiler ve erişim sağlanan araçlar dahilinde hareket edebilirler.
-
-## İlgili terimler
-- [AI Agent](/dictionary/ai-agent/)
-- [Agentic AI](/dictionary/agentic-ai/)
-- [Autonomous AI Agent](/dictionary/autonomous-ai-agent/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/autonomous-ai-agents/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Autonomous Robotics nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -2792,7 +2450,7 @@ Hata yapabilirler, bu yüzden güvenlik katmanları ve sürekli öğrenme algori
 ## İlgili terimler
 - [Introduction to Autonomous Robots](/dictionary/autonomous-robots-intro/)
 - [Physical AI](/dictionary/physical-ai/)
-- [World Models](/dictionary/world-models/)
+- [World Models](/dictionary/world-model/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/autonomous-robotics/
@@ -2999,54 +2657,12 @@ Genellikle evet, ancak benchmark testleri bazen gerçek dünya kullanımını ta
 Evet, ama sadece tek bir teste değil, farklı senaryoları içeren genel sonuçlara bakmak daha sağlıklıdır.
 
 ## İlgili terimler
-- [Benchmarks](/dictionary/benchmarks/)
+- [Benchmarks](/dictionary/benchmark/)
 - [AI Models](/dictionary/ai-models/)
 - [Inference](/dictionary/inference/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/benchmark/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Benchmarks nedir?
-
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-09
-
-Yapay zeka modellerinin veya yazılımların performansını, hızını ve doğruluğunu ölçmek için kullanılan standart testlerdir.
-
-## Tanım
-Benchmarks, farklı modellerin aynı görevlerde nasıl performans gösterdiğini karşılaştırmamızı sağlayan bir karne gibidir. Bir modelin matematik yeteneğini, dil bilgisini veya kod yazma becerisini ölçmek için önceden belirlenmiş sorular kullanılır. Bu testler, hangi modelin hangi iş için daha uygun olduğunu anlamamıza yardımcı olur.
-
-## Bir benzetmeyle
-Öğrencilerin seviyesini ölçmek için yapılan standart sınavlar gibidir; herkes aynı soruları çözer ve kimin daha iyi olduğu puanla belirlenir.
-
-## Nasıl çalışır?
-Model, test setindeki binlerce soruya yanıt verir. Bu yanıtlar doğru veya yanlış olarak puanlanır ve ortaya bir başarı yüzdesi çıkar.
-
-## Nerede kullanılır?
-Yeni yapay zeka modelleri yayınlandığında, akademik araştırmalarda ve şirketlerin model seçim süreçlerinde kullanılır.
-
-## Sık karıştırılanlar
-Inference ile karıştırılabilir; inference modelin çalışmasıdır, benchmark ise bu çalışmanın başarısının ölçülmesidir.
-
-## Sıkça sorulanlar
-
-**Benchmark puanı yüksek olan model en iyisi midir?**  
-Her zaman değil, bazen modeller test sorularını ezberlemiş olabilir.
-
-**Kendi benchmark testimizi yapabilir miyiz?**  
-Evet, kendi işinize özel verilerle modelleri test edebilirsiniz.
-
-## İlgili terimler
-- [LLM](/dictionary/llm/)
-- [Inference](/dictionary/inference/)
-- [AI Skills](/dictionary/ai-skills/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/benchmarks/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -3726,7 +3342,7 @@ Evet, çoğu şablon projenin ihtiyaçlarına göre daha sonra değiştirilebili
 
 ## İlgili terimler
 - [AI Coding Agent](/dictionary/ai-coding-agent/)
-- [Coding Agents](/dictionary/coding-agents/)
+- [Coding Agents](/dictionary/coding-agent/)
 - [Tech Stack](/dictionary/tech-stack/)
 
 ---
@@ -3892,44 +3508,6 @@ Evet, kendi bilgisayarınızdaki kopyada istediğiniz değişikliği yapabilirsi
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/clone/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Clones nedir?
-
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-14
-
-Bir yazılım projesinin veya verinin, üzerinde çalışma yapmak için başka bir bilgisayara kopyalanmasıdır.
-
-## Tanım
-Yazılım dünyasında bir projenin tüm geçmişi ve dosyalarıyla birlikte yerel bilgisayarınıza indirilmesine klonlama denir. Bu sayede projenin orijinaline zarar vermeden kendi kopyanız üzerinde değişiklik yapabilirsiniz.
-
-## Bir benzetmeyle
-Bir kitabın fotokopisini çekip üzerine notlar almanız gibidir; orijinal kitap olduğu gibi kalır.
-
-## Nasıl çalışır?
-Genellikle Git gibi sürüm kontrol sistemleri kullanılarak tek bir komutla tüm proje dizini bilgisayarınıza indirilir.
-
-## Nerede kullanılır?
-Yazılım geliştirme, açık kaynak projelerine katkı sağlama ve yedekleme süreçlerinde kullanılır.
-
-## Sık karıştırılanlar
-Sadece dosyaları kopyalamak değil, projenin tüm geliştirme geçmişini de beraberinde getirmektir.
-
-## Sıkça sorulanlar
-
-**Klonladığım projeyi değiştirirsem orijinali etkilenir mi?**  
-Hayır, klon sadece sizin bilgisayarınızdaki bir kopyadır.
-
-## İlgili terimler
-- [Clone](/dictionary/clone/)
-- [Open Source](/dictionary/open-source/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/clones/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -4132,7 +3710,7 @@ Ajanlar hata yapabilir, bu yüzden her zaman bir insan denetimi ve test süreçl
 ## İlgili terimler
 - [AI Coding Agent](/dictionary/ai-coding-agent/)
 - [Autonomous Agent](/dictionary/autonomous-agent/)
-- [Coding Agents](/dictionary/coding-agents/)
+- [Coding Agents](/dictionary/coding-agent/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/code-agent/
@@ -4287,7 +3865,7 @@ Güvenilir kaynaklardan alınmadığı sürece risk taşıyabilir. Başkasının
 
 ## İlgili terimler
 - [Tech Stack](/dictionary/tech-stack/)
-- [Coding Agents](/dictionary/coding-agents/)
+- [Coding Agents](/dictionary/coding-agent/)
 - [Clean Code](/dictionary/clean-code/)
 
 ---
@@ -4421,49 +3999,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Coding Agents nedir?
-
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-07-03
-
-Yazılımcı gibi davranarak kod yazabilen, hata ayıklayabilen ve projeleri yönetebilen otonom yapay zekâ programlarıdır.
-
-## Tanım
-Coding agents, sadece kod parçacıkları üretmekle kalmayıp, bir yazılım projesinin başından sonuna kadar sorumluluk alabilen gelişmiş yapay zekâ sistemleridir. Bu araçlar, karmaşık görevleri parçalara ayırır, dosyalar arasında geçiş yapar, terminal komutlarını çalıştırır ve yazdıkları kodun çalışıp çalışmadığını test ederler. İnsan müdahalesi olmadan bir hata ile karşılaştıklarında bunu düzeltmeye çalışarak geliştirme sürecini hızlandırırlar.
-
-## Bir benzetmeyle
-Bu ajanları, sadece bir tarif okumak yerine mutfağa girip yemeği yapan, tadına bakan ve tuzu eksikse ekleyen deneyimli bir şefe benzetebilirsiniz.
-
-## Nasıl çalışır?
-Bu ajanlar genellikle bir geliştirme ortamına bağlanarak çalışırlar. Siz onlara ne yapmaları gerektiğini doğal dilde söylersiniz, onlar da gerekli dosya değişikliklerini yapar ve süreci takip ederler. Hata aldıklarında hata mesajlarını okuyup çözüm yolları üretirler.
-
-## Nerede kullanılır?
-VS Code gibi kod editörleri içinde eklenti olarak veya bağımsız yazılım geliştirme platformlarında kullanılırlar.
-
-## Sık karıştırılanlar
-Sadece kod tamamlayan yapay zekâ asistanlarından farklı olarak, bu ajanlar projenin bütünü üzerinde işlem yapma ve kendi kendine karar verme yeteneğine sahiptir.
-
-## Sıkça sorulanlar
-
-**Coding agent kullanırken kodun güvenliğinden nasıl emin olurum?**  
-Bu ajanların yaptığı değişiklikleri her zaman bir 'pull request' veya kod inceleme aşamasından geçirerek onaylamanız en güvenli yoldur.
-
-**Bir coding agent tüm projeyi tek başına yazabilir mi?**  
-Küçük ve orta ölçekli projelerde oldukça başarılıdırlar, ancak çok büyük ve karmaşık sistem mimarilerinde hala bir insan mimarın rehberliğine ihtiyaç duyarlar.
-
-## İlgili terimler
-- [AI Coding Agent](/dictionary/ai-coding-agent/)
-- [AI Coding Agents](/dictionary/ai-coding-agents/)
-- [Coding Agent](/dictionary/coding-agent/)
-- [Agentic Coding Tool](/dictionary/agentic-coding-tool/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/coding-agents/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Coding Assistant nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -4495,7 +4030,7 @@ Hayır, asistan sadece yardımcıdır; kontrol her zaman sizdedir.
 Kodunuzu paylaştığınız aracın gizlilik politikasına bağlıdır, hassas verileri paylaşırken dikkatli olmalısınız.
 
 ## İlgili terimler
-- [AI Coding Agents](/dictionary/ai-coding-agents/)
+- [AI Coding Agents](/dictionary/ai-coding-agent/)
 - [Coding Agent](/dictionary/coding-agent/)
 - [AI Coding Assistants](/dictionary/ai-coding-assistants/)
 - [IDE](/dictionary/ide/)
@@ -5750,7 +5285,7 @@ Kişiselleştirme (personalization) ile benzerdir ancak customization genellikle
 Hayır, bazı yazılımlar kapalı kutu gibidir ve kullanıcıya hiçbir ayar seçeneği sunmaz.
 
 ## İlgili terimler
-- [Plugins](/dictionary/plugins/)
+- [Plugins](/dictionary/plugin/)
 - [Framework](/dictionary/framework/)
 - [User Experience](/dictionary/user-experience/)
 
@@ -6291,51 +5826,12 @@ Genellikle tasarımcılar ve ön yüz geliştiricilerin ortaklaşa yönettiği y
 
 ## İlgili terimler
 - [Design Language](/dictionary/design-language/)
-- [Design Systems](/dictionary/design-systems/)
+- [Design Systems](/dictionary/design-system/)
 - [Frontend Stack](/dictionary/frontend-stack/)
 - [User Interface](/dictionary/user-interface/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/design-system/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Design Systems nedir?
-
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-25
-
-Bir uygulamanın tasarımında tutarlılığı sağlamak için kullanılan standart renk, yazı tipi ve bileşen kütüphanesidir.
-
-## Tanım
-Büyük projelerde onlarca farklı sayfa olur. Eğer her sayfayı ayrı ayrı tasarlarsanız karmaşa çıkar. Tasarım sistemleri, tüm uygulamanın tek bir dilden konuşmasını sağlayan bir kurallar bütünüdür.
-
-## Bir benzetmeyle
-Bir Lego seti gibidir; elinizde önceden belirlenmiş parçalar (renkler, düğmeler, yazı tipleri) vardır ve uygulamayı bu parçaları birleştirerek inşa edersiniz.
-
-## Nasıl çalışır?
-Tasarımcılar ve yazılımcılar bir araya gelerek 'bizim düğmemiz her zaman mavi ve yuvarlak olacak' gibi kurallar koyarlar. Bu kurallar bir kütüphaneye dönüştürülür. Yazılımcılar yeni bir sayfa yaparken sıfırdan başlamak yerine, bu kütüphanedeki hazır parçaları kullanırlar.
-
-## Nerede kullanılır?
-Büyük ölçekli yazılım şirketlerinde ve tutarlı bir kullanıcı deneyimi hedefleyen tüm dijital ürünlerde kullanılır.
-
-## Sık karıştırılanlar
-Sadece bir 'stil rehberi' ile karıştırılabilir, ancak tasarım sistemleri sadece bir kitapçık değil, doğrudan koda dökülmüş parçalardır.
-
-## Sıkça sorulanlar
-
-**Neden tasarım sistemi kullanmalıyız?**  
-Uygulamanın her yerinde aynı görünümü korumak ve yeni özellik eklerken zaman kazanmak için.
-
-## İlgili terimler
-- [Design Language](/dictionary/design-language/)
-- [Frontend Stack](/dictionary/frontend-stack/)
-- [User Interface](/dictionary/user-interface/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/design-systems/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -6570,7 +6066,7 @@ Hata ayıklamayı kolaylaştırır ve sistemin öngörülebilir olmasını sağl
 
 ## İlgili terimler
 - [Pipeline](/dictionary/pipeline/)
-- [Pipelines](/dictionary/pipelines/)
+- [Pipelines](/dictionary/pipeline/)
 - [Data Pipeline](/dictionary/data-pipeline/)
 
 ---
@@ -6610,7 +6106,7 @@ Küçük ve basit işler için gereksiz olabilir, ancak büyük ve karmaşık pr
 ## İlgili terimler
 - [Framework](/dictionary/framework/)
 - [Tech Stack](/dictionary/tech-stack/)
-- [Coding Agents](/dictionary/coding-agents/)
+- [Coding Agents](/dictionary/coding-agent/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/development-framework/
@@ -6771,45 +6267,6 @@ Görseli adım adım inşa etmek, milyonlarca pikselin matematiksel olarak hesap
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/diffusion-model/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Diffusion Models nedir?
-
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-08-10
-
-Gürültülü verileri adım adım temizleyerek sıfırdan yüksek kaliteli görseller üreten bir yapay zekâ teknolojisidir.
-
-## Tanım
-Bu modeller, başlangıçta tamamen rastgele ve anlamsız bir gürültü yığınıyla işe başlar. Yapay zekâ, bu gürültünün içindeki desenleri öğrenerek onu yavaş yavaş netleştirir ve sonunda anlamlı bir görüntüye dönüştürür. Süreç, bulanık bir resmi yavaşça odaklayarak netleştirmeye benzer.
-
-## Bir benzetmeyle
-Sanki elinizde kumdan bir yığın var ve siz bu kumu yavaş yavaş şekillendirerek mükemmel bir heykele dönüştürüyorsunuz.
-
-## Nasıl çalışır?
-Model önce veriyi gürültüyle bozar, sonra bu gürültüyü geri almayı öğrenir. Eğitim tamamlandığında, sadece bir komut vererek modelin sıfırdan temiz bir görsel oluşturmasını sağlayabilirsiniz.
-
-## Nerede kullanılır?
-Görsel üretim araçlarında, sanat çalışmalarında ve fotoğraf iyileştirme süreçlerinde sıkça kullanılır.
-
-## Sık karıştırılanlar
-Geleneksel görsel işleme yöntemlerinden farklı olarak, bu modeller veriyi kopyalamaz, doğrudan sıfırdan yaratır.
-
-## Sıkça sorulanlar
-
-**Bu modeller sadece görsel mi üretir?**  
-Genellikle görsel odaklıdır ancak ses ve video üretimi için de benzer mantıkla çalışan versiyonları mevcuttur.
-
-## İlgili terimler
-- [Diffusion Model](/dictionary/diffusion-model/)
-- [Generative AI](/dictionary/generative-ai/)
-- [Multimodal](/dictionary/multimodal/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/diffusion-models/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -7867,7 +7324,7 @@ Tarayıcı eklentilerinde, içerik yönetim sistemlerinde (WordPress gibi) ve b�
 Hayır, eğer yazılım en baştan bu esneklikle tasarlanmadıysa, sonradan ekleme yapmak çok zor olabilir.
 
 ## İlgili terimler
-- [Plugins](/dictionary/plugins/)
+- [Plugins](/dictionary/plugin/)
 - [Framework](/dictionary/framework/)
 - [API](/dictionary/api/)
 
@@ -10295,48 +9752,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Jupyter Notebook nedir?
-
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-08-04
-
-Kod yazarken aynı zamanda notlar, grafikler ve görselleştirmeler ekleyebildiğiniz etkileşimli bir çalışma ortamıdır.
-
-## Tanım
-Jupyter Notebook, özellikle veri bilimi ve yapay zekâ projelerinde kullanılan tarayıcı tabanlı bir araçtır. Kodunuzu küçük parçalar halinde yazıp anında çalıştırmanıza ve sonuçları hemen görmenize olanak tanır. Sadece kod değil, bu kodun ne yaptığını anlatan metinler de ekleyebildiğiniz için bir günlük veya ders notu gibi düzenlenebilir.
-
-## Bir benzetmeyle
-Bir yemek tarifi kitabı düşünün; hem yemeğin nasıl yapıldığını anlatan notlar var hem de o tarifi hemen orada mutfakta denemenizi sağlayan bir ocak var.
-
-## Nasıl çalışır?
-Genellikle Python diliyle kullanılır. Bir hücreye kodunuzu yazar, 'çalıştır' tuşuna basarsınız ve çıktı hemen altında belirir. İşiniz bittiğinde bu dosyayı başkalarıyla paylaşabilir, onların da aynı adımları takip etmesini sağlayabilirsiniz.
-
-## Nerede kullanılır?
-Veri analizi yaparken, yapay zekâ modellerini eğitirken veya bir algoritmayı adım adım test ederken kullanılır.
-
-## Sık karıştırılanlar
-Sıradan bir metin editörü veya kod yazma programı (IDE) ile karıştırılabilir; ancak Jupyter'in en büyük farkı, kod ve sonucun iç içe olmasıdır.
-
-## Sıkça sorulanlar
-
-**Sadece Python mı çalıştırabilir?**  
-Hayır, temelinde Python olsa da farklı diller için de eklentileri mevcuttur.
-
-**Dosya uzantısı nedir?**  
-Genellikle .ipynb uzantısıyla kaydedilir.
-
-## İlgili terimler
-- [Jupyter Notebooks](/dictionary/jupyter-notebooks/)
-- [Machine Learning](/dictionary/machine-learning/)
-- [Data Pipeline](/dictionary/data-pipeline/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/jupyter-notebook/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Jupyter Notebooks nedir?
 
 **Kategori:** Veri & Altyapı  
@@ -10581,48 +9996,6 @@ Kurulumu ve yönetimi uzmanlık gerektirir, ancak sunduğu içgörü çok değer
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/knowledge-graph-engine/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Knowledge Graphs nedir?
-
-**Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-08-11
-
-Bilgileri ve bu bilgiler arasındaki ilişkileri bir ağ yapısında birbirine bağlayarak sunan bir veritabanı türüdür.
-
-## Tanım
-Bilgi grafikleri, verileri sadece listeler halinde değil, kavramlar arasındaki bağlantıları da gösterecek şekilde düzenler. Bu yapı, yapay zekânın karmaşık konuları daha iyi anlamasını ve veriler arasında mantıksal çıkarımlar yapmasını sağlar. Bir nevi dijital beyin haritası gibi çalışır.
-
-## Bir benzetmeyle
-Bir kütüphanedeki kitapları rastgele dizmek yerine, her kitabın konusuna, yazarına ve diğer kitaplarla olan bağlantısına göre birbirine iple bağlandığı dev bir örümcek ağı düşünün.
-
-## Nasıl çalışır?
-Veriler düğümler (nesneler) ve kenarlar (ilişkiler) olarak tanımlanır. Örneğin, 'İstanbul' bir düğüm, 'Türkiye' bir düğüm, aralarındaki 'başkentidir' ifadesi ise bir ilişkidir.
-
-## Nerede kullanılır?
-Arama motorlarında, öneri sistemlerinde ve yapay zekânın gerçek dünya bilgisini doğrulaması gereken durumlarda kullanılır.
-
-## Sık karıştırılanlar
-Klasik tablo tabanlı veritabanları ile karıştırılabilir; onlar satır ve sütun kullanırken bu sistem ilişkileri merkezine alır.
-
-## Sıkça sorulanlar
-
-**Neden bilgi grafiği kullanmalıyım?**  
-Veriler arasındaki gizli bağlantıları keşfetmek ve daha akıllı sorgular yapmak için idealdir.
-
-**Yapay zekâ ile ilişkisi nedir?**  
-Yapay zekânın halüsinasyon görmesini engellemek için ona gerçek dünya verisiyle destek sağlar.
-
-## İlgili terimler
-- [Knowledge Graph](/dictionary/knowledge-graph/)
-- [Data Layer](/dictionary/data-layer/)
-- [Semantic Metadata](/dictionary/semantic-metadata/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/knowledge-graphs/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -11238,7 +10611,7 @@ Bulut tabanlı kod asistanları ile karıştırılabilir, ancak burada tüm işl
 ## İlgili terimler
 - [Local-first](/dictionary/local-first/)
 - [AI Coding Agent](/dictionary/ai-coding-agent/)
-- [Coding Agents](/dictionary/coding-agents/)
+- [Coding Agents](/dictionary/coding-agent/)
 - [Local](/dictionary/local/)
 
 ---
@@ -13066,7 +12439,7 @@ Genellikle daha uygun maliyetli oldukları, kendi ihtiyaçlarınıza göre deği
 ## İlgili terimler
 - [Open Source](/dictionary/open-source/)
 - [Clone](/dictionary/clone/)
-- [Clones](/dictionary/clones/)
+- [Clones](/dictionary/clone/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/open-source-clones/
@@ -13930,48 +13303,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Pipelines nedir?
-
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-21
-
-Verinin bir noktadan alınıp işlenerek nihai bir ürüne dönüştüğü, birbirine bağlı otomatik aşamalar dizisi.
-
-## Tanım
-Pipeline, bir fabrikadaki üretim bandı gibidir. Ham veri girer, çeşitli filtrelerden, dönüştürme işlemlerinden ve analizlerden geçer, sonunda ise işlenmiş bir bilgi veya sonuç olarak çıkar.
-
-## Bir benzetmeyle
-Bir su boru hattı düşünün; su bir kaynaktan alınır, arıtılır, mineralleri eklenir ve sonunda musluğunuzdan içilebilir şekilde akar. Her aşama suyun kalitesini bir adım öteye taşır.
-
-## Nasıl çalışır?
-Veri kaynağını belirlersiniz, ardından bu verinin geçeceği her bir işlem adımını (temizleme, dönüştürme, analiz) sırayla bağlarsınız. Sistem, her adımın çıktısını bir sonrakine otomatik olarak aktarır.
-
-## Nerede kullanılır?
-Veri biliminde, yazılım dağıtım süreçlerinde ve yapay zekâ modellerinin eğitilmesinde yaygın olarak kullanılır.
-
-## Sık karıştırılanlar
-Sadece basit bir liste ile karıştırılmamalıdır; pipeline'da her adım bir öncekine bağımlıdır ve süreç süreklidir.
-
-## Sıkça sorulanlar
-
-**Pipeline bozulursa ne olur?**  
-Genellikle zincirin bir halkası koptuğu için tüm süreç durur veya hatalı sonuç üretir.
-
-**Her iş için pipeline gerekir mi?**  
-Tek seferlik işler için gereksizdir, ancak sürekli tekrarlanan işlerde zaman tasarrufu sağlar.
-
-## İlgili terimler
-- [Data Pipeline](/dictionary/data-pipeline/)
-- [Pipeline](/dictionary/pipeline/)
-- [Batch Processing](/dictionary/batch-processing/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/pipelines/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Playlist nedir?
 
 **Kategori:** Veri & Altyapı  
@@ -14039,54 +13370,12 @@ Programın kendisiyle değil, sadece ona destek veren yardımcı parçalarla kar
 Hayır, sadece eklenti sistemine izin veren (açık mimarili) yazılımlar bu özelliği destekler.
 
 ## İlgili terimler
-- [Plugins](/dictionary/plugins/)
+- [Plugins](/dictionary/plugin/)
 - [SDK](/dictionary/sdk/)
 - [API](/dictionary/api/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/plugin/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Plugins nedir?
-
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-07
-
-Ana programa yeni özellikler eklemek için sonradan dahil edilen küçük yazılım parçalarıdır.
-
-## Tanım
-Bir yazılımın temel özelliklerini değiştirmeden, ona ekstra yetenekler kazandıran eklentilerdir. Ana programı güncellemenize gerek kalmadan, sadece istediğiniz özelliği tak-çalıştır mantığıyla sisteme dahil edersiniz.
-
-## Bir benzetmeyle
-Bir akıllı telefona yeni bir uygulama yükleyerek ona fotoğraf düzenleme veya oyun oynama yeteneği kazandırmak gibidir.
-
-## Nasıl çalışır?
-Ana programın izin verdiği bir arayüz üzerinden eklenti dosyası sisteme tanıtılır ve program bu yeni yeteneği otomatik olarak tanır.
-
-## Nerede kullanılır?
-Web tarayıcılarında, içerik yönetim sistemlerinde (WordPress gibi) ve yapay zekâ ajanlarında kullanılır.
-
-## Sık karıştırılanlar
-Yazılımın kendisi ile karıştırılmamalıdır; eklenti, ana program olmadan çalışamaz.
-
-## Sıkça sorulanlar
-
-**Çok fazla eklenti sorun yaratır mı?**  
-Evet, çok fazla eklenti programın yavaşlamasına veya güvenlik açıklarına neden olabilir.
-
-**Her program eklenti destekler mi?**  
-Hayır, geliştiricinin bunu önceden planlamış ve izin vermiş olması gerekir.
-
-## İlgili terimler
-- [MCP](/dictionary/mcp/)
-- [AI Agent Skill](/dictionary/ai-agent-skill/)
-- [Proxy](/dictionary/proxy/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/plugins/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -14364,7 +13653,7 @@ Sadece 'daha çok çalışmak' ile karıştırılabilir; oysa productivity 'daha
 Sıkıcı ve tekrarlayan işleri saniyeler içinde yaparak, insanın daha yaratıcı ve stratejik işlere odaklanmasını sağlar.
 
 ## İlgili terimler
-- [AI Agents](/dictionary/ai-agents/)
+- [AI Agents](/dictionary/ai-agent/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/productivity/
@@ -14486,48 +13775,6 @@ Hayır, aksine daha karmaşık sistemleri yönetmek için daha kritik bir yetene
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/prompt-engineering/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Prompts nedir?
-
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-07-16
-
-Yapay zekâdan bir sonuç almak için ona verdiğiniz yazılı komutlar veya sorulardır.
-
-## Tanım
-Yapay zekâ modelleriyle etkileşime girerken kullandığınız talimatlardır. Bu komutlar basit bir soru olabileceği gibi, modelin nasıl davranması gerektiğini belirten detaylı yönergeler de olabilir. İyi bir komut, yapay zekânın size daha doğru ve istediğiniz formatta yanıt vermesini sağlar.
-
-## Bir benzetmeyle
-Yapay zekâyı çok bilgili bir kütüphaneciye benzetirsek, ona sorduğunuz soru veya verdiğiniz görev sizin komutunuzdur; ne kadar net sorarsanız o kadar iyi yanıt alırsınız.
-
-## Nasıl çalışır?
-Yapay zekâ sohbet kutusuna bir görev yazarak başlarsınız. İhtiyacınıza göre 'bunu özetle', 'şu dilde çevir' veya 'şu rolde davran' gibi net ifadeler ekleyerek komutunuzu güçlendirebilirsiniz.
-
-## Nerede kullanılır?
-ChatGPT, Claude veya Gemini gibi tüm yapay zekâ sohbet arayüzlerinde kullanılır.
-
-## Sık karıştırılanlar
-Prompt Engineering ile karıştırılabilir; prompt komutun kendisiyken, engineering bu komutu en verimli hale getirme sürecidir.
-
-## Sıkça sorulanlar
-
-**İyi bir komut nasıl yazılır?**  
-Ne istediğinizi, hangi formatta olmasını ve varsa kısıtlamalarınızı net bir şekilde belirterek yazmalısınız.
-
-**Komutlarım yapay zekâyı eğitir mi?**  
-Genellikle hayır, ancak kullandığınız platformun ayarlarından bu verilerin eğitim için kullanılıp kullanılmayacağını kontrol edebilirsiniz.
-
-## İlgili terimler
-- [Prompt Engineering](/dictionary/prompt-engineering/)
-- [System Prompts](/dictionary/system-prompts/)
-- [AI Models](/dictionary/ai-models/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/prompts/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -14692,7 +13939,7 @@ Modelin çıktılarını kontrol etmek, halüsinasyonları test etmek ve sistemi
 - [Unit Testing](/dictionary/unit-testing/)
 - [End-to-End Testing](/dictionary/end-to-end-testing/)
 - [Testing Framework](/dictionary/testing-framework/)
-- [Benchmarks](/dictionary/benchmarks/)
+- [Benchmarks](/dictionary/benchmark/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/qa/
@@ -15925,47 +15172,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Scripts nedir?
-
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-08
-
-Bilgisayarın belirli görevleri otomatik olarak yerine getirmesi için hazırlanan kısa komut dizileridir.
-
-## Tanım
-Scriptler, karmaşık bir yazılımın tamamını baştan yazmak yerine, belirli işleri hızlandırmak veya otomatikleştirmek için kullanılan metin tabanlı komut dosyalarıdır. Bir aşçıya verilen kısa yemek tarifi gibidirler; bilgisayar bu tarifteki adımları sırasıyla takip eder. Genellikle tekrar eden manuel işleri tek tuşla halletmek için tercih edilirler.
-
-## Bir benzetmeyle
-Bir mutfak robotuna 'şunu 5 dakika karıştır, sonra dur' diye yazılı bir not bırakmak gibidir; robot notu okur ve söyleneni yapar.
-
-## Nasıl çalışır?
-Genellikle basit bir metin düzenleyicide yazılırlar ve bir yorumlayıcı program tarafından çalıştırılırlar. Karmaşık bir yazılım geliştirme süreci gerektirmezler, sadece yapılacak işin adımlarını sırasıyla yazmanız yeterlidir.
-
-## Nerede kullanılır?
-Dosya yedekleme, veri dönüştürme veya sistem ayarlarını değiştirme gibi rutin işlerde kullanılırlar.
-
-## Sık karıştırılanlar
-Tam teşekküllü yazılımlar veya karmaşık uygulamalar ile karıştırılmamalıdır; scriptler daha çok yardımcı ve görev odaklıdır.
-
-## Sıkça sorulanlar
-
-**Script yazmak için programcı olmam gerekir mi?**  
-Hayır, temel seviyede mantık kurabilen herkes basit scriptler yazarak günlük işlerini otomatikleştirebilir.
-
-**Script ile uygulama arasındaki fark nedir?**  
-Uygulamalar genellikle daha geniş kapsamlı ve karmaşık bir yapıya sahipken, scriptler genellikle tek bir işi yapmaya odaklanır.
-
-## İlgili terimler
-- [Script](/dictionary/script/)
-- [CLI](/dictionary/cli/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/scripts/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # SDK nedir?
 
 > Software Development Kit
@@ -16779,7 +15985,7 @@ Genellikle API bağlantıları veya özel kod blokları yazılarak asistanın be
 
 ## İlgili terimler
 - [AI Agent](/dictionary/ai-agent/)
-- [AI Skill](/dictionary/ai-skill/)
+- [AI Skill](/dictionary/ai-skills/)
 - [Agent Skills](/dictionary/agent-skills/)
 - [Tools](/dictionary/tools/)
 - [AI Capabilities](/dictionary/ai-capabilities/)
@@ -16823,7 +16029,7 @@ Ajanın hangi işleri yapıp hangilerini yapamayacağını belirlemek için gere
 
 ## İlgili terimler
 - [AI Agent](/dictionary/ai-agent/)
-- [Agent Skill](/dictionary/agent-skill/)
+- [Agent Skill](/dictionary/agent-skills/)
 - [AI Skills](/dictionary/ai-skills/)
 
 ---
@@ -17036,44 +16242,6 @@ Evet, proje ilerledikçe ihtiyaçlara göre güncellenebilir ancak bu durum gene
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/specification/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Specifications nedir?
-
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-14
-
-Bir ürünün veya yazılımın ne yapması gerektiğini ve nasıl çalışacağını belirten detaylı kurallar bütünüdür.
-
-## Tanım
-Specifications veya kısaca 'specs', bir projenin yol haritasıdır. Tasarımcılar, geliştiriciler ve yöneticiler arasında ortak bir dil oluşturur. Bir yazılımın hangi özellikleri taşıyacağı, hangi hızda çalışacağı ve hangi hataları kabul edilebilir bulacağı burada yazılıdır.
-
-## Bir benzetmeyle
-Bir ev inşa etmeden önce mimarın çizdiği detaylı plan ve malzeme listesi gibidir; neyin nereye konulacağını ve nasıl görüneceğini belirler.
-
-## Nasıl çalışır?
-Genellikle teknik dokümanlar, şemalar veya kullanıcı hikayeleri şeklinde hazırlanır. Geliştirme süreci başlamadan önce onaylanır.
-
-## Nerede kullanılır?
-Yazılım geliştirme projelerinde, ürün tasarım süreçlerinde ve mühendislik çalışmalarında kullanılır.
-
-## Sık karıştırılanlar
-Sadece bir fikir veya istek listesi değildir; uygulanabilir teknik detaylar içerir.
-
-## Sıkça sorulanlar
-
-**Neden spesifikasyon yazmalıyız?**  
-Herkesin aynı hedef üzerinde çalıştığından emin olmak ve projenin kapsamının dışına çıkılmasını engellemek için gereklidir.
-
-## İlgili terimler
-- [Spec-driven Development](/dictionary/spec-driven-development/)
-- [Specification](/dictionary/specification/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/specifications/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -18050,7 +17218,7 @@ Görev tanımı ne kadar netse, devir süreci o kadar başarılı olur.
 ## İlgili terimler
 - [Multi-agent](/dictionary/multi-agent/)
 - [Subagents](/dictionary/subagents/)
-- [AI Agents](/dictionary/ai-agents/)
+- [AI Agents](/dictionary/ai-agent/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/task-delegation/
@@ -18936,7 +18104,7 @@ Bir fonksiyon yazıp bunu ajana bir API veya kütüphane üzerinden tanımlayara
 ## İlgili terimler
 - [MCP](/dictionary/mcp/)
 - [AI Agent](/dictionary/ai-agent/)
-- [Plugins](/dictionary/plugins/)
+- [Plugins](/dictionary/plugin/)
 - [SDK](/dictionary/sdk/)
 
 ---
@@ -20255,7 +19423,7 @@ Evet, günümüzde birçok yapay zekâ platformu, tanımladığınız kişilik �
 
 ## İlgili terimler
 - [AI Companion](/dictionary/ai-companion/)
-- [AI Companions](/dictionary/ai-companions/)
+- [AI Companions](/dictionary/ai-companion/)
 - [Companion](/dictionary/companion/)
 
 ---
@@ -20672,7 +19840,7 @@ Evet, ihtiyaçlar değiştikçe iş akışlarını güncelleyip daha verimli hal
 
 ## İlgili terimler
 - [Pipeline](/dictionary/pipeline/)
-- [Pipelines](/dictionary/pipelines/)
+- [Pipelines](/dictionary/pipeline/)
 - [Data Pipeline](/dictionary/data-pipeline/)
 
 ---
@@ -20720,49 +19888,6 @@ Hayır, çoğu güncel dil modeli sadece metin istatistiklerine odaklanır, dün
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/world-model/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# World Models nedir?
-
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-05
-
-Yapay zekânın fiziksel dünyanın kurallarını ve işleyişini öğrenerek gelecekteki sonuçları simüle etmesini sağlayan sistemlerdir.
-
-## Tanım
-World models, bir yapay zekânın sadece verileri işlemesi değil, dünyanın nasıl çalıştığına dair bir iç model oluşturmasıdır. Bu sayede sistem, bir eylemin sonucunda ne olacağını gerçek dünyada denemeden önce kendi zihninde tahmin edebilir. Bu yetenek, yapay zekânın daha mantıklı ve gerçekçi kararlar almasına yardımcı olur.
-
-## Bir benzetmeyle
-Bir satranç ustasının hamle yapmadan önce tahtadaki tüm olasılıkları kafasında canlandırması gibidir. Yapay zekâ da bu model sayesinde bir kapıyı açmadan önce kapının arkasında ne olabileceğini veya eyleminin sonuçlarını önceden kestirebilir.
-
-## Nasıl çalışır?
-Sistem, geçmiş deneyimlerden elde ettiği gözlemleri kullanarak bir simülasyon ortamı oluşturur. Bu ortamda farklı senaryoları test ederek hata payını düşürür. Sürekli yeni verilerle bu içsel dünyasını günceller ve daha isabetli tahminler üretir.
-
-## Nerede kullanılır?
-Robotik sistemlerde, otonom araçların sürüş kararlarında ve karmaşık oyun stratejileri geliştiren yapay zekâlarda kullanılır.
-
-## Sık karıştırılanlar
-Sadece geçmiş veriye dayalı tahmin yapan modellerle karıştırılabilir; ancak world model, sadece veriyi değil, neden-sonuç ilişkisini de kavrar.
-
-## Sıkça sorulanlar
-
-**World model neden önemlidir?**  
-Yapay zekânın deneme yanılma yapmadan önce sonuçları öngörmesini sağlayarak güvenliği ve verimliliği artırır.
-
-**Her yapay zekâ bir world modeline sahip midir?**  
-Hayır, çoğu model sadece metin veya veri kalıplarını takip eder; world model ise fiziksel dünyanın işleyiş mantığını kavramaya odaklanır.
-
-## İlgili terimler
-- [World Model](/dictionary/world-model/)
-- [Autonomous Agent](/dictionary/autonomous-agent/)
-- [Physical AI](/dictionary/physical-ai/)
-- [AI Agent](/dictionary/ai-agent/)
-
----
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/world-models/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

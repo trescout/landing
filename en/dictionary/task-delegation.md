@@ -27,7 +27,7 @@ The clearer the job description, the more successful the delegation process will
 ## Related terms
 - [Multi-agent](/en/dictionary/multi-agent/)
 - [Subagents](/en/dictionary/subagents/)
-- [AI Agents](/en/dictionary/ai-agents/)
+- [AI Agents](/en/dictionary/ai-agent/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/task-delegation/

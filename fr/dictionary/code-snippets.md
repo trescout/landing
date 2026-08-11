@@ -18,7 +18,7 @@ Il peut comporter des risques à moins d'être acheté auprès de sources fiable
 
 ## Termes liés
 - [Tech Stack](/fr/dictionary/tech-stack/)
-- [Coding Agents](/fr/dictionary/coding-agents/)
+- [Coding Agents](/fr/dictionary/coding-agent/)
 - [Clean Code](/fr/dictionary/clean-code/)
 
 ## Outils liés

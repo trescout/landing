@@ -24,7 +24,7 @@ Non, ses fonctionnalités sont personnalisées en fonction de l'utilisation pré
 
 ## Termes liés
 - [AI Agent Skill](/fr/dictionary/ai-agent-skill/)
-- [AI Skill](/fr/dictionary/ai-skill/)
+- [AI Skill](/fr/dictionary/ai-skills/)
 - [Agentic Skills](/fr/dictionary/agentic-skills/)
 - [Agentic Skills Framework](/fr/dictionary/agentic-skills-framework/)
 

@@ -24,7 +24,7 @@ Evet, çoğu şablon projenin ihtiyaçlarına göre daha sonra değiştirilebili
 
 ## İlgili terimler
 - [AI Coding Agent](/dictionary/ai-coding-agent/)
-- [Coding Agents](/dictionary/coding-agents/)
+- [Coding Agents](/dictionary/coding-agent/)
 - [Tech Stack](/dictionary/tech-stack/)
 
 ---

@@ -20,7 +20,7 @@ It may carry risks unless purchased from reliable sources. It's important to und
 
 ## Related terms
 - [Tech Stack](/en/dictionary/tech-stack/)
-- [Coding Agents](/en/dictionary/coding-agents/)
+- [Coding Agents](/en/dictionary/coding-agent/)
 - [Clean Code](/en/dictionary/clean-code/)
 
 ## Related tools

@@ -19,7 +19,7 @@ Généralement non, alors que le code est considéré comme la structure princip
 ## Termes liés
 - [Tech Stack](/fr/dictionary/tech-stack/)
 - [Godot Engine](/fr/dictionary/godot-engine/)
-- [Design Systems](/fr/dictionary/design-systems/)
+- [Design Systems](/fr/dictionary/design-system/)
 
 ## Outils liés
 - [Website-downloader](/fr/discover/website-downloader/)

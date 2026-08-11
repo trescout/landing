@@ -23,7 +23,7 @@ Tarayıcı eklentilerinde, içerik yönetim sistemlerinde (WordPress gibi) ve b�
 Hayır, eğer yazılım en baştan bu esneklikle tasarlanmadıysa, sonradan ekleme yapmak çok zor olabilir.
 
 ## İlgili terimler
-- [Plugins](/dictionary/plugins/)
+- [Plugins](/dictionary/plugin/)
 - [Framework](/dictionary/framework/)
 - [API](/dictionary/api/)
 

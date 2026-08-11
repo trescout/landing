@@ -27,7 +27,7 @@ Agents can make mistakes, so a human audit and testing processes are always requ
 ## Related terms
 - [AI Coding Agent](/en/dictionary/ai-coding-agent/)
 - [Autonomous Agent](/en/dictionary/autonomous-agent/)
-- [Coding Agents](/en/dictionary/coding-agents/)
+- [Coding Agents](/en/dictionary/coding-agent/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/code-agent/

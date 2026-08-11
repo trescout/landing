@@ -26,7 +26,7 @@ It is a living document that is typically managed jointly by designers and front
 
 ## Related terms
 - [Design Language](/en/dictionary/design-language/)
-- [Design Systems](/en/dictionary/design-systems/)
+- [Design Systems](/en/dictionary/design-system/)
 - [Frontend Stack](/en/dictionary/frontend-stack/)
 - [User Interface](/en/dictionary/user-interface/)
 

@@ -27,7 +27,7 @@ Hayır, yazılımcının işini kolaylaştırarak daha verimli olmasını sağla
 
 ## İlgili terimler
 - [AI Coding Agent](/dictionary/ai-coding-agent/)
-- [Coding Agents](/dictionary/coding-agents/)
+- [Coding Agents](/dictionary/coding-agent/)
 - [LLM](/dictionary/llm/)
 
 ---

@@ -18,7 +18,7 @@ Oui, la plupart des modèles peuvent être modifiés ultérieurement pour répon
 
 ## Termes liés
 - [AI Coding Agent](/fr/dictionary/ai-coding-agent/)
-- [Coding Agents](/fr/dictionary/coding-agents/)
+- [Coding Agents](/fr/dictionary/coding-agent/)
 - [Tech Stack](/fr/dictionary/tech-stack/)
 
 ## Outils liés

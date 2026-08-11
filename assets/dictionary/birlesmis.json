@@ -1,0 +1,26 @@
+{
+ "_aciklama": "Birleştirilmiş sözlük terimleri · anahtar = artık YAYINLANMAYAN slug, değer = onun yerine geçen kanonik slug. Tekil/çoğul ikizleri aynı metni taşıyordu; Google 'standart sayfa olmadan kopya' diyordu (2026-08-08 Search Console). Kazanan, iç bağlantı sayısı > gövde uzunluğu > kısa slug sırasıyla seçildi.\nBu dosya iki yerde okunuyor: dict-sync.py (terimi yeniden yaratmasın) ve scripts/redirect-uret.py (vercel.json yönlendirmeleri).",
+ "eslesme": {
+  "agent-skill": "agent-skills",
+  "agentic-systems": "agentic-system",
+  "agents": "agent",
+  "ai-agents": "ai-agent",
+  "ai-coding-agents": "ai-coding-agent",
+  "ai-companions": "ai-companion",
+  "ai-skill": "ai-skills",
+  "autonomous-ai-agents": "autonomous-ai-agent",
+  "benchmarks": "benchmark",
+  "clones": "clone",
+  "coding-agents": "coding-agent",
+  "design-systems": "design-system",
+  "diffusion-models": "diffusion-model",
+  "jupyter-notebook": "jupyter-notebooks",
+  "knowledge-graphs": "knowledge-graph",
+  "pipelines": "pipeline",
+  "plugins": "plugin",
+  "prompts": "prompt",
+  "scripts": "script",
+  "specifications": "specification",
+  "world-models": "world-model"
+ }
+}

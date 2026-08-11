@@ -22,7 +22,7 @@ Ils peuvent commettre des erreurs et sont donc soutenus par des couches de sécu
 ## Termes liés
 - [Introduction to Autonomous Robots](/fr/dictionary/autonomous-robots-intro/)
 - [Physical AI](/fr/dictionary/physical-ai/)
-- [World Models](/fr/dictionary/world-models/)
+- [World Models](/fr/dictionary/world-model/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/autonomous-robotics/

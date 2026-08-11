@@ -30,7 +30,7 @@ Genellikle tasarımcılar ve ön yüz geliştiricilerin ortaklaşa yönettiği y
 
 ## İlgili terimler
 - [Design Language](/dictionary/design-language/)
-- [Design Systems](/dictionary/design-systems/)
+- [Design Systems](/dictionary/design-system/)
 - [Frontend Stack](/dictionary/frontend-stack/)
 - [User Interface](/dictionary/user-interface/)
 

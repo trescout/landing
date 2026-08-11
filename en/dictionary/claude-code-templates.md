@@ -20,7 +20,7 @@ Yes, most templates can be modified later to suit the needs of the project.
 
 ## Related terms
 - [AI Coding Agent](/en/dictionary/ai-coding-agent/)
-- [Coding Agents](/en/dictionary/coding-agents/)
+- [Coding Agents](/en/dictionary/coding-agent/)
 - [Tech Stack](/en/dictionary/tech-stack/)
 
 ## Related tools

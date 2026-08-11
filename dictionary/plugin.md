@@ -29,7 +29,7 @@ Programın kendisiyle değil, sadece ona destek veren yardımcı parçalarla kar
 Hayır, sadece eklenti sistemine izin veren (açık mimarili) yazılımlar bu özelliği destekler.
 
 ## İlgili terimler
-- [Plugins](/dictionary/plugins/)
+- [Plugins](/dictionary/plugin/)
 - [SDK](/dictionary/sdk/)
 - [API](/dictionary/api/)
 

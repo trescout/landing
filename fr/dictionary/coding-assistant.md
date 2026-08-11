@@ -23,7 +23,7 @@ Cela dépend de la politique de confidentialité de l'outil avec lequel vous par
 
 
 ## Termes liés
-- [AI Coding Agents](/fr/dictionary/ai-coding-agents/)
+- [AI Coding Agents](/fr/dictionary/ai-coding-agent/)
 - [Coding Agent](/fr/dictionary/coding-agent/)
 - [AI Coding Assistants](/fr/dictionary/ai-coding-assistants/)
 - [IDE](/fr/dictionary/ide/)

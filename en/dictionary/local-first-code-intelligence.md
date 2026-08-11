@@ -24,7 +24,7 @@ Keeping your data on your device is a huge security advantage, especially if you
 ## Related terms
 - [Local-first](/en/dictionary/local-first/)
 - [AI Coding Agent](/en/dictionary/ai-coding-agent/)
-- [Coding Agents](/en/dictionary/coding-agents/)
+- [Coding Agents](/en/dictionary/coding-agent/)
 - [Local](/en/dictionary/local/)
 
 ---

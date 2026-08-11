@@ -23,7 +23,7 @@ It makes debugging easier and makes the system predictable.
 
 ## Related terms
 - [Pipeline](/en/dictionary/pipeline/)
-- [Pipelines](/en/dictionary/pipelines/)
+- [Pipelines](/en/dictionary/pipeline/)
 - [Data Pipeline](/en/dictionary/data-pipeline/)
 
 ---

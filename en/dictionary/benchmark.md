@@ -25,7 +25,7 @@ Yes, but it is better to look at the overall results that include different scen
 
 
 ## Related terms
-- [Benchmarks](/en/dictionary/benchmarks/)
+- [Benchmarks](/en/dictionary/benchmark/)
 - [AI Models](/en/dictionary/ai-models/)
 - [Inference](/en/dictionary/inference/)
 

@@ -25,7 +25,7 @@ Les agents peuvent commettre des erreurs, c’est pourquoi un processus d’audi
 ## Termes liés
 - [AI Coding Agent](/fr/dictionary/ai-coding-agent/)
 - [Autonomous Agent](/fr/dictionary/autonomous-agent/)
-- [Coding Agents](/fr/dictionary/coding-agents/)
+- [Coding Agents](/fr/dictionary/coding-agent/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/code-agent/
