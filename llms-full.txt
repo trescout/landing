@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-10 · 413 araç · 506 terim
+Son güncelleme: 2026-08-11 · 416 araç · 509 terim
 
 ---
 
@@ -8912,6 +8912,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Graph-native nedir?
+
+**Kategori:** Veri & Altyapı  
+**Son güncelleme:** 2026-08-11
+
+Verilerin birbirine düğümlerle bağlı olduğu bir yapıyı temel alan sistem tasarımıdır.
+
+## Tanım
+Geleneksel veritabanları bilgileri tablolar halinde saklarken, bu yaklaşım verileri bir ağ haritası gibi birbirine bağlar. Bilgiler arasındaki ilişkileri en baştan itibaren sistemin merkezine yerleştirir. Bu sayede karmaşık bağlantıları sorgulamak çok daha hızlı ve doğal hale gelir.
+
+## Bir benzetmeyle
+Bir kütüphanedeki kitapları alfabetik sıraya dizmek yerine, her kitabın içine o konuyla ilgili diğer kitapların haritasını koymak gibidir.
+
+## Nasıl çalışır?
+Veri modelinizi oluştururken nesneleri ve aralarındaki etkileşimleri birer nokta ve çizgi olarak tanımlarsınız. Sistem, bu çizgileri takip ederek veriler arasındaki gizli bağları saniyeler içinde bulur.
+
+## Nerede kullanılır?
+Karmaşık sosyal ağ analizlerinde, öneri sistemlerinde ve birbirine bağlı büyük bilgi yığınlarını yöneten uygulamalarda kullanılır.
+
+## Sık karıştırılanlar
+Geleneksel ilişkisel veritabanları ile sıkça karıştırılır; ancak bu sistem ilişkileri sonradan değil, tasarım aşamasında kurar.
+
+## Sıkça sorulanlar
+
+**Neden bu yöntemi seçmeliyim?**  
+Verileriniz arasındaki ilişkiler, verinin kendisi kadar önemliyse bu yöntem en verimli yoldur.
+
+## İlgili terimler
+- [Knowledge Graph](/dictionary/knowledge-graph/)
+- [Graph-based Investigation](/dictionary/graph-based-investigation/)
+- [Code Intelligence Graph](/dictionary/code-intelligence-graph/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/graph-native/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Graph-native Infrastructure nedir?
 
 **Kategori:** Veri & Altyapı  
@@ -9199,6 +9238,45 @@ Otonom olduğu için yetkilerinin sınırlandırılması ve sürekli izlenmesi �
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/hermes-agent/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Hill Climbing nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-11
+
+En iyi çözüme ulaşmak için sürekli küçük iyileştirmeler yaparak ilerleyen bir arama yöntemidir.
+
+## Tanım
+Bu yöntem, eldeki mevcut durumu bir adım daha iyi hale getirebilecek seçenekleri sürekli dener. Sadece iyileşme sağlayan adımları kabul ederek zirveye, yani en iyi sonuca ulaşmaya çalışır. Ancak bazen en yüksek tepe yerine küçük bir tepeciğe takılıp kalma riski taşır.
+
+## Bir benzetmeyle
+Yoğun sisli bir dağda tırmanış yaparken, sadece ayağınızı bastığınız yerin bir adım yukarısına bakarak zirveye ulaşmaya çalışmak gibidir.
+
+## Nasıl çalışır?
+Sistem mevcut çözüm üzerinde küçük bir değişiklik yapar. Eğer bu değişiklik sonucu iyileştirirse kabul eder, iyileştirmezse başka bir yön dener.
+
+## Nerede kullanılır?
+Yapay zekâ algoritmalarının optimizasyon süreçlerinde, basit karar verme mekanizmalarında ve çözüm uzayının çok geniş olduğu durumlarda kullanılır.
+
+## Sık karıştırılanlar
+Daha karmaşık olan ve tüm olasılıkları değerlendiren arama yöntemleriyle karıştırılabilir; bu yöntem çok daha hızlıdır ancak her zaman en mükemmel sonucu garanti etmez.
+
+## Sıkça sorulanlar
+
+**Neden her zaman en iyi sonucu bulamaz?**  
+Sadece ileriye dönük küçük adımlara odaklandığı için, bazen en iyi sonuca ulaşmak için gereken geçici bir kötüleşmeyi kabul edemez.
+
+## İlgili terimler
+- [Machine Learning](/dictionary/machine-learning/)
+- [Algorithmic Trading](/dictionary/algorithmic-trading/)
+- [Agentic Workflows](/dictionary/agentic-workflows/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/hill-climbing/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -11005,6 +11083,45 @@ En büyük avantajı gizliliktir; verileriniz cihazınızdan asla ayrılmaz.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/local/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Local Agent Workflows nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-11
+
+İnternete ihtiyaç duymadan, doğrudan kendi bilgisayarınızda çalışan otonom görev süreçleridir.
+
+## Tanım
+Bu yöntem, yapay zekâ destekli görevlerin bulut sunucularına gönderilmek yerine yerel donanımınızda işlenmesini sağlar. Verileriniz bilgisayarınızdan dışarı çıkmadığı için gizlilik en üst düzeydedir. Ayrıca internet bağlantısı kopsa bile işleriniz kesintisiz devam eder.
+
+## Bir benzetmeyle
+İşlerinizi bir dış kaynaklı asistana telefonla yaptırmak yerine, kendi çalışma masanızda oturan özel bir sekretere yaptırmak gibidir.
+
+## Nasıl çalışır?
+Bilgisayarınıza kurduğunuz bir altyapı üzerinden görev tanımları yaparsınız. Yerel işlem gücünüz, bu görevleri adım adım yerine getirerek sonuçları size sunar.
+
+## Nerede kullanılır?
+Gizli verilerle çalışırken, kişisel yapay zekâ altyapılarında ve çevrimdışı çalışma gerektiren durumlarda tercih edilir.
+
+## Sık karıştırılanlar
+Bulut tabanlı yapay zekâ servisleriyle karıştırılır; bu yöntem tamamen yerel kaynakları kullanır.
+
+## Sıkça sorulanlar
+
+**Bilgisayarımın gücü yeterli mi?**  
+İşin karmaşıklığına göre değişir, ancak modern yerel modeller artık orta seviye donanımlarda bile oldukça başarılı çalışmaktadır.
+
+## İlgili terimler
+- [Local-first](/dictionary/local-first/)
+- [AI Agent](/dictionary/ai-agent/)
+- [Self-hosting](/dictionary/self-hosting/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/local-agent-workflows/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -21184,17 +21301,17 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent). TypeScript diliyle geliştirilen bu araç, yazılım projelerinde otonom görev yürütme yetenekleri sunar.
 
-- ★ 194.749
+- ★ 195.548
 - TypeScript
 - GitHub Trending · 2026-06-28
 
 TreScout notu: Terminalde çalışan açık kaynaklı kodlama ajanı. Modeli siz seçersiniz, kodunuz istediğiniz yere gider · karşılığında kurulum ve model masrafı sizin işiniz olur, hazır ürünlerin cilası yoktur.
 
 ## Güncelleme
+- 10 Ağustos 2026: Yıldız 194.749 → 195.548, son sürüm v1.18.16 (10 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 193.974 → 194.749, son sürüm v1.18.15 (7 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 193.021 → 193.974, son sürüm v1.18.14 (5 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 192.342 → 193.021, son sürüm v1.18.12 (4 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 179.948 → 192.342, son sürüm v1.18.11 (1 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yazılım geliştirme süreçlerini otonom olarak yönetir
@@ -24327,6 +24444,59 @@ Knowledge Graph Plugin CLI Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/understand-anything/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Yapay zekâ ajanları için yönetim merkezi
+
+Paperclip, iş yerindeki yapay zekâ ajanlarını (AI agents) tek bir arayüz üzerinden yönetmenizi sağlayan açık kaynaklı bir platformdur. TypeScript ile geliştirilen bu araç, farklı görevler için kullanılan ajanların iş akışlarını merkezi bir noktadan kontrol etmenize olanak tanır.
+
+- ★ 76.656
+- TypeScript
+- GitHub Trending · 2026-08-11
+
+## Ne kazandırır?
+- Birden fazla yapay zekâ ajanını tek bir arayüzden yönetin.
+- Ajanların bütçesini ve görevlerini merkezi olarak denetleyin.
+- İş akışlarını görev yöneticisi gibi takip edilebilir kılın.
+
+## Kurulum
+
+**Hızlı kurulum**
+
+```
+curl -fsSL https://paperclip.ing/install.sh | bash -s -- --no-prompt --no-onboard
+paperclipai onboard --yes
+```
+
+**Geliştirici kurulumu**
+
+```
+git clone https://github.com/paperclipai/paperclip.git
+cd paperclip
+pnpm install
+pnpm dev
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bir yapay zekâ yöneticisi gibi davranarak, belirlediğim ana iş hedefine ulaşmak için gerekli olan alt görevleri tanımla, bu görevleri uygun ajanlara ata, bütçe sınırlarını belirle ve yapılan çalışmaları düzenli olarak raporlayarak süreçteki ilerlemeyi kontrol et.
+
+- **Kimin için:** Birden fazla otonom yapay zekâ ajanıyla iş süreçlerini yöneten ve bu ajanların performansını, maliyetini ve görev dağılımını tek bir noktadan denetlemek isteyen profesyoneller içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/paperclipai/paperclip)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+AI Agents Agents Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/paperclip/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -32025,6 +32195,54 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ tasarımlarına özgünlük kazandırın
+
+Hallmark, yapay zekâ tarafından üretilen standart içeriklerin (AI slop) tasarım üzerindeki etkisini azaltmak amacıyla geliştirilen bir stil dosyasıdır. Claude Code, Cursor ve Codex gibi araçlarda kullanılan arayüzlerin özgün ve insani bir estetik kazanmasını sağlar.
+
+- ★ 23.216
+- CSS
+- GitHub Trending · 2026-07-13
+
+## Güncelleme
+- 10 Ağustos 2026: Yıldız 22.106 → 23.216.
+- 6 Ağustos 2026: Yıldız 20.791 → 22.106.
+- 2 Ağustos 2026: Yıldız 4.508 → 20.791.
+
+## Ne kazandırır?
+- Standart yapay zekâ estetiğinden kaçınır
+- Yirmi farklı tema ile özgün arayüzler oluşturur
+- Mevcut kodları denetleyip yeniden tasarlar
+
+## Kurulum
+
+**Aracı ekleyin**
+
+```
+npx skills add nutlope/hallmark
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Hallmark stil dosyasını kullanarak yapay zekâ tarafından üretilmiş gibi görünmeyen, özgün bir arayüz tasarımı oluştur. Tasarımda standart şablonlardan kaçın, yirmi farklı tema arasından uygun olanı seç ve elli yedi maddelik kalite testlerinden geçecek şekilde özgün bir yapı kur.
+
+- **Kimin için:** Yapay zekâ araçlarıyla web arayüzü tasarlarken standart ve birbirinin kopyası olan sonuçlardan kaçınmak isteyen tasarımcılar ve geliştiriciler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/Nutlope/hallmark)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/hallmark/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Terminalde yapay zekâ destekli kodlama
 
 Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding agent). Araç, dil sunucusu protokolü (LSP), tarayıcı entegrasyonu ve alt ajan yönetimi gibi özelliklerle yazılım geliştirme iş akışlarını optimize etmeyi hedefler.
@@ -32247,53 +32465,6 @@ Terminal Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/superfile/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ tasarımlarına özgünlük kazandırın
-
-Hallmark, yapay zekâ tarafından üretilen standart içeriklerin (AI slop) tasarım üzerindeki etkisini azaltmak amacıyla geliştirilen bir stil dosyasıdır. Claude Code, Cursor ve Codex gibi araçlarda kullanılan arayüzlerin özgün ve insani bir estetik kazanmasını sağlar.
-
-- ★ 22.106
-- CSS
-- GitHub Trending · 2026-07-13
-
-## Güncelleme
-- 6 Ağustos 2026: Yıldız 20.791 → 22.106.
-- 2 Ağustos 2026: Yıldız 4.508 → 20.791.
-
-## Ne kazandırır?
-- Standart yapay zekâ estetiğinden kaçınır
-- Yirmi farklı tema ile özgün arayüzler oluşturur
-- Mevcut kodları denetleyip yeniden tasarlar
-
-## Kurulum
-
-**Aracı ekleyin**
-
-```
-npx skills add nutlope/hallmark
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Hallmark stil dosyasını kullanarak yapay zekâ tarafından üretilmiş gibi görünmeyen, özgün bir arayüz tasarımı oluştur. Tasarımda standart şablonlardan kaçın, yirmi farklı tema arasından uygun olanı seç ve elli yedi maddelik kalite testlerinden geçecek şekilde özgün bir yapı kur.
-
-- **Kimin için:** Yapay zekâ araçlarıyla web arayüzü tasarlarken standart ve birbirinin kopyası olan sonuçlardan kaçınmak isteyen tasarımcılar ve geliştiriciler içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/Nutlope/hallmark)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/hallmark/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -32909,15 +33080,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 CodexBar, OpenAI Codex ve Claude Code kullanım verilerini oturum açma zorunluluğu olmadan görüntülemeyi sağlayan bir araçtır. Swift diliyle geliştirilen bu uygulama, geliştiricilerin yapay zekâ destekli kodlama araçlarındaki tüketim istatistiklerini izlemelerini kolaylaştırır.
 
-- ★ 19.864
+- ★ 19.867
 - Swift
 - GitHub Trending · 2026-07-06
 
 ## Güncelleme
+- 10 Ağustos 2026: Yıldız 19.864 → 19.867, son sürüm v0.49.1 (10 Ağustos 2026).
 - 10 Ağustos 2026: Yıldız 19.775 → 19.864, son sürüm v0.49.0 (9 Ağustos 2026).
 - 8 Ağustos 2026: Yıldız 19.770 → 19.775, son sürüm v0.48.1 (8 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 19.597 → 19.770, son sürüm v0.48.0 (7 Ağustos 2026).
-- 4 Ağustos 2026: Yıldız 19.504 → 19.597, son sürüm v0.47.0 (3 Ağustos 2026).
 
 ## Ne kazandırır?
 - Tüm yapay zekâ servislerinin kullanım limitlerini menü çubuğunda anlık görün
@@ -33628,6 +33799,49 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ destekli kişisel işletim sistemi
+
+TypeScript ile geliştirilen LifeOS, mevcut durumunuz ile ideal durumunuz arasındaki farkı kapatmanıza yardımcı olan bir kişisel gelişim ve verimlilik aracıdır. Yapay zekâ destekli bu sistem, hem iş hem de özel hayatınızdaki hedeflere ulaşmak için kademeli iyileştirme (hill-climbing) yöntemini kullanır.
+
+- ★ 18.046
+- TypeScript
+- GitHub Trending · 2026-08-11
+
+## Ne kazandırır?
+- İş ve özel hayat hedefleri arasında köprü kurar
+- Kullanıcıya özel bağlamla verimliliği artırır
+- Kendi kendini geliştiren sistem mimarisi sunar
+
+## Kurulum
+
+**Terminal üzerinden hızlı kurulum**
+
+```
+curl -fsSL https://ourlifeos.ai/install.sh | bash
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Read https://ourlifeos.ai/install and install LifeOS for me.
+
+- **Kimin için:** Kişisel hedeflerini, projelerini ve günlük iş akışını yapay zekâ yardımıyla daha sistemli ve verimli yönetmek isteyen herkes için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/danielmiessler/LifeOS)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Terminal Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/lifeos/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # C++ standart kütüphanesini güçlendiren araçlar
 
 Google tarafından geliştirilen Abseil, C++ standart kütüphanesini tamamlayan açık kaynaklı kod parçaları (code snippets) sunuyor. Bu kütüphane, karmaşık yazılım projelerinde kodun sürdürülebilirliğini ve performansını artırmak amacıyla temel veri yapıları ile algoritmalar sağlıyor.
@@ -33961,15 +34175,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness) sunuyor. Yazılım geliştirme süreçlerinde kullanılan ajanların performansını ölçmek amacıyla standart bir altyapı sağlıyor.
 
-- ★ 16.653
+- ★ 16.663
 - Rust
 - GitHub Trending · 2026-06-21
 
 ## Güncelleme
+- 10 Ağustos 2026: Yıldız 16.653 → 16.663, son sürüm v0.75.0 (10 Ağustos 2026).
 - 10 Ağustos 2026: Yıldız 16.505 → 16.653, son sürüm v0.74.0 (10 Ağustos 2026).
 - 9 Ağustos 2026: Yıldız 16.378 → 16.505, son sürüm v0.72.0 (8 Ağustos 2026).
 - 8 Ağustos 2026: Yıldız 16.118 → 16.378, son sürüm v0.71.1 (8 Ağustos 2026).
-- 6 Ağustos 2026: Yıldız 15.647 → 16.118, son sürüm v0.68.0 (5 Ağustos 2026).
 
 ## Ne kazandırır?
 - Çoklu oturum iş akışlarında yüksek kaynak verimliliği
@@ -35036,6 +35250,61 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Hızlı ve Yerel PDF Metin İşleme
+
+Firecrawl tarafından geliştirilen PDF Inspector, PDF dosyalarını incelemek, sınıflandırmak ve metinlerini ayıklamak için tasarlanmış hızlı bir Rust kütüphanesidir. Taranmış belgeler ile metin tabanlı dosyaları ayırt ederek veri işleme süreçlerinde akıllı yönlendirme kararları alınmasını sağlar.
+
+- ★ 14.048
+- Rust
+- GitHub Trending · 2026-08-04
+
+## Güncelleme
+- 10 Ağustos 2026: Yıldız 13.019 → 14.048.
+- 7 Ağustos 2026: Yıldız 11.746 → 13.019.
+- 6 Ağustos 2026: Yıldız 8.766 → 11.746.
+
+## Ne kazandırır?
+- PDF dosyalarını saniyeler içinde sınıflandırır
+- Metinleri Markdown formatına hatasız dönüştürür
+- Optik Karakter Tanıma (OCR) hizmetlerine gerek duymaz
+
+## Kurulum
+
+**Python ile kurulum**
+
+```
+pip install maturin
+maturin develop --release
+```
+
+**Node.js ile kurulum**
+
+```
+npm install @firecrawl/pdf-inspector
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Elimdeki PDF dosyasını analiz etmem gerekiyor. Bu dosyayı metin tabanlı mı yoksa taranmış bir belge mi olduğunu anlamak için sınıflandır. Eğer metin tabanlıysa, içerisindeki metinleri, tabloları ve başlıkları koruyarak temiz bir Markdown formatına dönüştür. İşlemi yaparken OCR kullanmadan, dosyanın kendi yapısını ve yazı tipi bilgilerini kullanarak okuma sırasını doğru bir şekilde belirle.
+
+- **Kimin için:** Raporlar, finansal belgeler veya araştırma makaleleri gibi yapılandırılmış metin verilerine hızlıca ihtiyaç duyan geliştiriciler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/firecrawl/pdf-inspector)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+PDF Inspector Markdown PDF Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/pdf-inspector/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Borsa Verilerini Ücretsiz Takip Edin
 
 OpenStock , pahalı borsa platformlarına karşı geliştirilmiş açık kaynaklı bir alternatiftir. Gerçek zamanlı fiyat takibi, kişiselleştirilmiş uyarılar ve şirket analizleri sunar. Herkes için erişilebilir ve sonsuza dek ücretsizdir.
@@ -35406,60 +35675,6 @@ Live2D Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-llm-vtuber/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Hızlı ve Yerel PDF Metin İşleme
-
-Firecrawl tarafından geliştirilen PDF Inspector, PDF dosyalarını incelemek, sınıflandırmak ve metinlerini ayıklamak için tasarlanmış hızlı bir Rust kütüphanesidir. Taranmış belgeler ile metin tabanlı dosyaları ayırt ederek veri işleme süreçlerinde akıllı yönlendirme kararları alınmasını sağlar.
-
-- ★ 13.019
-- Rust
-- GitHub Trending · 2026-08-04
-
-## Güncelleme
-- 7 Ağustos 2026: Yıldız 11.746 → 13.019.
-- 6 Ağustos 2026: Yıldız 8.766 → 11.746.
-
-## Ne kazandırır?
-- PDF dosyalarını saniyeler içinde sınıflandırır
-- Metinleri Markdown formatına hatasız dönüştürür
-- Optik Karakter Tanıma (OCR) hizmetlerine gerek duymaz
-
-## Kurulum
-
-**Python ile kurulum**
-
-```
-pip install maturin
-maturin develop --release
-```
-
-**Node.js ile kurulum**
-
-```
-npm install @firecrawl/pdf-inspector
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Elimdeki PDF dosyasını analiz etmem gerekiyor. Bu dosyayı metin tabanlı mı yoksa taranmış bir belge mi olduğunu anlamak için sınıflandır. Eğer metin tabanlıysa, içerisindeki metinleri, tabloları ve başlıkları koruyarak temiz bir Markdown formatına dönüştür. İşlemi yaparken OCR kullanmadan, dosyanın kendi yapısını ve yazı tipi bilgilerini kullanarak okuma sırasını doğru bir şekilde belirle.
-
-- **Kimin için:** Raporlar, finansal belgeler veya araştırma makaleleri gibi yapılandırılmış metin verilerine hızlıca ihtiyaç duyan geliştiriciler için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/firecrawl/pdf-inspector)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-PDF Inspector Markdown PDF Rust Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/pdf-inspector/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -38994,7 +39209,7 @@ Sen bir yapay zekâ mühendislik asistanısın. Karmaşık yazılım geliştirme
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Vibe Coding Agentic Engineering Agentic AI Agents Token Agents
+Vibe Coding Agentic Engineering Agentic Token AI Agents Agents
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/glm-5/
@@ -39432,6 +39647,39 @@ I/O API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/asio/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# İOS cihazlarda sistem kısıtlamalarını kaldırma
+
+Dopamine, iOS 15 ile 16.6.1 sürümleri arasındaki cihazlar için geliştirilen yarı bağımsız bir jailbreak aracıdır. Kullanıcılara, sistem kısıtlamalarını aşarak cihaz üzerinde yönetici yetkileriyle özelleştirme yapma imkânı tanır.
+
+- ★ 6.086
+- C
+- GitHub Trending · 2026-08-11
+
+## Ne kazandırır?
+- iOS 15 ve 18.7.1 arası sürümlerde çalışır
+- Cihaz üzerinde yönetici yetkilerine erişim sağlar
+- Sistem dosyaları üzerinde özelleştirme imkânı sunar
+
+## Nasıl başlanır?
+
+Dopamine aracını kullanmaya başlamak için resmî web sitesi olan https://ellekit.space/dopamine/ adresini ziyaret edebilir ve cihazınız için uygun olan indirme bağlantısını takip edebilirsiniz.
+- [Resmî kaynak →](https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e)
+
+- **Kimin için:** iOS işletim sistemli cihazlarında sistem kısıtlamalarını aşarak yönetici yetkilerine sahip olmak isteyen kullanıcılar içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/opa334/Dopamine)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/dopamine/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -40723,7 +40971,7 @@ Semantica kullanarak verilerimi yapılandırılmış bir bilgi çizgesine dönü
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Graph-native Infrastructure LLM Artificial Intelligence
+Graph-native Infrastructure Graph-native LLM Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/semantica/

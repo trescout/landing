@@ -32,13 +32,13 @@ Yes, agents can make mistakes, but advanced agents are designed to recognize the
 
 ## Related tools
 - [AutoGPT](/en/discover/autogpt/)
+- [Paperclip](/en/discover/paperclip/)
 - [UI-TARS-desktop](/en/discover/ui-tars-desktop/)
 - [AI Agent Book](/en/discover/ai-agent-book/)
 - [Pentagi](/en/discover/pentagi/)
 - [CubeSandbox](/en/discover/cubesandbox/)
 - [Ego Lite](/en/discover/ego-lite/)
 - [Ag Kit](/en/discover/ag-kit/)
-- [GLM 5](/en/discover/glm-5/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-agents/

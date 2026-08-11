@@ -4552,5 +4552,32 @@
     "kisa": "Gürültülü verileri adım adım temizleyerek sıfırdan yüksek kaliteli görseller üreten bir yapay zekâ teknolojisidir.",
     "kisa_en": "It is an artificial intelligence technology that produces high-quality images from scratch by cleaning noisy data step by step.",
     "kisa_fr": "Il s’agit d’une technologie d’intelligence artificielle qui produit des images de haute qualité à partir de zéro en nettoyant étape par étape les données bruitées."
+  },
+  {
+    "slug": "graph-native",
+    "en": "Graph-native",
+    "full": "",
+    "cat": "data",
+    "kisa": "Verilerin birbirine düğümlerle bağlı olduğu bir yapıyı temel alan sistem tasarımıdır.",
+    "kisa_en": "It is a system design based on a structure in which data is connected to each other through nodes.",
+    "kisa_fr": "Il s'agit d'une conception de système basée sur une structure dans laquelle les données sont connectées les unes aux autres via des nœuds."
+  },
+  {
+    "slug": "hill-climbing",
+    "en": "Hill Climbing",
+    "full": "",
+    "cat": "ai",
+    "kisa": "En iyi çözüme ulaşmak için sürekli küçük iyileştirmeler yaparak ilerleyen bir arama yöntemidir.",
+    "kisa_en": "It is a search method that progresses by constantly making small improvements to reach the best solution.",
+    "kisa_fr": "C'est une méthode de recherche qui progresse en apportant constamment de petites améliorations pour arriver à la meilleure solution."
+  },
+  {
+    "slug": "local-agent-workflows",
+    "en": "Local Agent Workflows",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnternete ihtiyaç duymadan, doğrudan kendi bilgisayarınızda çalışan otonom görev süreçleridir.",
+    "kisa_en": "They are autonomous task processes that run directly on your own computer, without the need for the Internet.",
+    "kisa_fr": "Il s'agit de processus de tâches autonomes qui s'exécutent directement sur votre propre ordinateur, sans avoir besoin d'Internet."
   }
 ]

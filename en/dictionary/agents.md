@@ -33,12 +33,12 @@ Yes, they can make transactions over the internet using web browsers or APIs if 
 ## Related tools
 - [AutoGPT](/en/discover/autogpt/)
 - [Agency Agents](/en/discover/agency-agents/)
+- [Paperclip](/en/discover/paperclip/)
 - [Chrome Devtools MCP](/en/discover/chrome-devtools-mcp/)
 - [UI-TARS-desktop](/en/discover/ui-tars-desktop/)
 - [AI Agent Book](/en/discover/ai-agent-book/)
 - [Pentagi](/en/discover/pentagi/)
 - [Video Use](/en/discover/video-use/)
-- [Aisuite](/en/discover/aisuite/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agents/

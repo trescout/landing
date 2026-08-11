@@ -31,12 +31,12 @@ Oui, ils peuvent effectuer des transactions sur Internet à l’aide de navigate
 ## Outils liés
 - [AutoGPT](/fr/discover/autogpt/)
 - [Agency Agents](/fr/discover/agency-agents/)
+- [Paperclip](/fr/discover/paperclip/)
 - [Chrome Devtools MCP](/fr/discover/chrome-devtools-mcp/)
 - [UI-TARS-desktop](/fr/discover/ui-tars-desktop/)
 - [AI Agent Book](/fr/discover/ai-agent-book/)
 - [Pentagi](/fr/discover/pentagi/)
 - [Video Use](/fr/discover/video-use/)
-- [Aisuite](/fr/discover/aisuite/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/agents/

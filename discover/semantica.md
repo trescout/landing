@@ -44,7 +44,7 @@ Semantica kullanarak verilerimi yapılandırılmış bir bilgi çizgesine dönü
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Graph-native Infrastructure LLM Artificial Intelligence
+Graph-native Infrastructure Graph-native LLM Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/semantica/

@@ -30,13 +30,13 @@ Oui, les agents peuvent commettre des erreurs, mais les agents avancés sont con
 
 ## Outils liés
 - [AutoGPT](/fr/discover/autogpt/)
+- [Paperclip](/fr/discover/paperclip/)
 - [UI-TARS-desktop](/fr/discover/ui-tars-desktop/)
 - [AI Agent Book](/fr/discover/ai-agent-book/)
 - [Pentagi](/fr/discover/pentagi/)
 - [CubeSandbox](/fr/discover/cubesandbox/)
 - [Ego Lite](/fr/discover/ego-lite/)
 - [Ag Kit](/fr/discover/ag-kit/)
-- [GLM 5](/fr/discover/glm-5/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/ai-agents/
