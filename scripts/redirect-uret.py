@@ -45,11 +45,15 @@ eslesme = json.load(open(BIRLESMIS, encoding="utf-8"))["eslesme"]
 uretilen = []
 for eski, yeni in sorted(eslesme.items()):
     for o in DILLER:
-        uretilen.append({
-            "source": f"{o}/dictionary/{eski}",
-            "destination": f"{o}/dictionary/{yeni}/",
-            "permanent": True,
-        })
+        # HER İKİ biçim de yazılmalı · Vercel `source`'u birebir eşleştiriyor.
+        # 2026-08-11'de yalnız eğik çizgisiz hâli yazılmıştı ve gerçek istekler
+        # (/dictionary/agents/) 404 veriyordu · yönlendirmenin tamamı ölüydü.
+        for kaynak in (f"{o}/dictionary/{eski}", f"{o}/dictionary/{eski}/"):
+            uretilen.append({
+                "source": kaynak,
+                "destination": f"{o}/dictionary/{yeni}/",
+                "permanent": True,
+            })
         uretilen.append({
             "source": f"{o}/dictionary/{eski}.md",
             "destination": f"{o}/dictionary/{yeni}.md",
