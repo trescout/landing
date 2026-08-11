@@ -33,12 +33,12 @@ Puisqu'il permet uniquement le partage des données autorisées, il n'ouvre que 
 ## Outils liés
 - [Firecrawl](/fr/discover/firecrawl/)
 - [Langflow](/fr/discover/langflow/)
+- [ComfyUI](/fr/discover/comfyui/)
 - [Supabase](/fr/discover/supabase/)
 - [MoneyPrinterTurbo](/fr/discover/moneyprinterturbo/)
 - [TradingAgents](/fr/discover/tradingagents/)
 - [MiroFish](/fr/discover/mirofish/)
 - [Agent-Reach](/fr/discover/agent-reach/)
-- [Claude Cookbooks](/fr/discover/claude-cookbooks/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/api/

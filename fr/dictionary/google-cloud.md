@@ -28,6 +28,7 @@ Parce qu’il est beaucoup plus puissant, qu’il ne s’arrête jamais et qu’
 
 ## Outils liés
 - [Skills](/fr/discover/skills/)
+- [Weathernext](/fr/discover/weathernext/)
 - [Agents CLI](/fr/discover/agents-cli/)
 
 ---

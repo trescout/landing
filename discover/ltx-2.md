@@ -2,8 +2,11 @@
 
 Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python çıkarım (inference) ve düşük dereceli uyarlama (low-rank adaptation, LoRA) eğitim paketi sunuyor. Bu araç seti, kullanıcıların LTX-2 modellerini kendi verileriyle eğitmesine ve model çıktılarını yerel sistemlerde çalıştırmasına olanak tanıyor.
 
-- ★ 7.550
+- ★ 8.554
 - GitHub Trending · 2026-06-19
+
+## Güncelleme
+- 10 Ağustos 2026: Yıldız 7.550 → 8.554.
 
 ## Ne kazandırır?
 - Ses ve video senkronizasyonu sağlar

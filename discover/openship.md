@@ -55,7 +55,7 @@ Openship kullanarak bir projeyi yayına almak istiyorum. Proje dizinindeyken ope
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Deployment Self-hosted CLI Artificial Intelligence
+Deployment CI/CD Self-hosted CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openship/

@@ -2,11 +2,12 @@
 
 Code-review-graph analyzes the code base and creates a locally focused code intelligence map for artificial intelligence tools. This structure makes artificial intelligence-supported code review processes more efficient by using context reduction methods in large projects.
 
-- ★ 28,041
+- ★ 29,487
 - Python
 - GitHub Trending · 2026-07-18
 
 ## Update
+- August 9, 2026: Star 28,041 → 29,487, latest version v2.3.7 (July 18, 2026).
 - August 2, 2026: Star 19,852 → 28,041, latest version v2.3.7 (July 18, 2026).
 
 ## What you get

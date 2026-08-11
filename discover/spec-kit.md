@@ -2,15 +2,15 @@
 
 GitHub tarafından yayınlanan spec-kit, şartname odaklı geliştirme (spec-driven development) süreçlerini başlatmak için gerekli araçları sunuyor. Python tabanlı bu kütüphane, yazılım geliştirme aşamasında tanımlanan teknik şartnamelerin kod süreçlerine entegrasyonunu kolaylaştırıyor.
 
-- ★ 125.781
+- ★ 126.131
 - Python
 - GitHub Trending · 2026-06-05
 
 ## Güncelleme
+- 11 Ağustos 2026: Yıldız 125.781 → 126.131, son sürüm v0.16.2 (10 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 125.507 → 125.781, son sürüm v0.16.1 (7 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 125.212 → 125.507, son sürüm v0.16.0 (5 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 125.003 → 125.212, son sürüm v0.15.2 (3 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 108.801 → 125.003, son sürüm v0.15.1 (31 Temmuz 2026).
 
 ## Ne kazandırır?
 - Teknik şartnameleri çalıştırılabilir kod süreçlerine dönüştürür.

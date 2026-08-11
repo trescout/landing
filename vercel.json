@@ -500,6 +500,36 @@
       "permanent": true
     },
     {
+      "source": "/dictionary/diffusion-models",
+      "destination": "/dictionary/diffusion-model/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/diffusion-models.md",
+      "destination": "/dictionary/diffusion-model.md",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/diffusion-models",
+      "destination": "/en/dictionary/diffusion-model/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/diffusion-models.md",
+      "destination": "/en/dictionary/diffusion-model.md",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/diffusion-models",
+      "destination": "/fr/dictionary/diffusion-model/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/diffusion-models.md",
+      "destination": "/fr/dictionary/diffusion-model.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/jupyter-notebook",
       "destination": "/dictionary/jupyter-notebooks/",
       "permanent": true
@@ -527,6 +557,36 @@
     {
       "source": "/fr/dictionary/jupyter-notebook.md",
       "destination": "/fr/dictionary/jupyter-notebooks.md",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/knowledge-graphs",
+      "destination": "/dictionary/knowledge-graph/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/knowledge-graphs.md",
+      "destination": "/dictionary/knowledge-graph.md",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/knowledge-graphs",
+      "destination": "/en/dictionary/knowledge-graph/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/knowledge-graphs.md",
+      "destination": "/en/dictionary/knowledge-graph.md",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/knowledge-graphs",
+      "destination": "/fr/dictionary/knowledge-graph/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/knowledge-graphs.md",
+      "destination": "/fr/dictionary/knowledge-graph.md",
       "permanent": true
     },
     {

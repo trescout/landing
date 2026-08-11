@@ -1,0 +1,241 @@
+{
+  "date": "2026-08-10",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "summary": "Code-graph-rag combine des graphiques de connaissances et une génération assistée par récupération (RAG) pour comprendre et interroger des structures complexes dans de grands référentiels de code. Il permet aux développeurs d'analyser et d'éditer des bases de code dans différents langages à l'aide de l'intelligence artificielle.",
+          "meta": "Python · ★ 3 153 · +96 aujourd'hui"
+        },
+        {
+          "title": "google-deepmind/weathernext",
+          "url": "https://github.com/google-deepmind/weathernext",
+          "summary": "WeatherNext, développé par Google DeepMind, est un modèle qui utilise l'IA générative pour les prévisions météorologiques. Son objectif est de réaliser des prévisions atmosphériques plus rapides et à plus haute résolution par rapport aux simulations physiques traditionnelles.",
+          "meta": "Python · ★ 7 148 · +86 aujourd'hui"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen/daily_stock_analysis est un système de suivi boursier qui analyse plusieurs données de marché et l'actualité actuelle à l'aide de grands modèles linguistiques. Cet outil basé sur Python propose un tableau de bord qui prend en charge les décisions d'investissement et vous permet de planifier gratuitement une surveillance du marché avec des notifications automatiques.",
+          "meta": "Python · ★ 61 386 · +306 aujourd'hui",
+          "returning": true
+        },
+        {
+          "title": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "summary": "ComfyUI est un outil de visualisation modulaire qui fournit une interface basée sur des nœuds pour les modèles de diffusion. Il permet aux utilisateurs de concevoir des processus de traitement d'image complexes avec un organigramme visuel et de gérer ces processus via une API.",
+          "meta": "Python · ★ 125 719 · +365 aujourd'hui"
+        },
+        {
+          "title": "harveyai/harvey-labs",
+          "url": "https://github.com/harveyai/harvey-labs",
+          "summary": "Harvey Labs est un outil d'analyse comparative conçu pour mesurer et améliorer les capacités des agents d'intelligence artificielle qui prennent en charge les tâches dans le domaine juridique. Cette étude, préparée en langage Python, vise à évaluer les performances des logiciels développant des technologies juridiques avec des tests standards.",
+          "meta": "Python · ★ 881 · +47 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "How I use LLMs to learn complex topics",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+          "summary": "Les grands modèles linguistiques sont utilisés comme enseignants personnalisés dans le processus d’apprentissage de matières complexes. Les utilisateurs utilisent des méthodes de questionnement basées sur l'IA pour simplifier les concepts et identifier les lacunes d'apprentissage.",
+          "meta": "531 votes · 302 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49234675",
+              "popularity": 531,
+              "engagementCount": 302
+            }
+          ]
+        },
+        {
+          "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+          "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+          "summary": "L'application météo intégrée au système d'exploitation Windows 11 utilise les ressources du système de manière inefficace en consommant plus de 1 Go de mémoire (RAM) en arrière-plan. Cela montre que l'application, qui offre une interface simple, crée une charge plus élevée que prévu sur les performances du système.",
+          "meta": "443 votes · 367 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49232138",
+              "popularity": 443,
+              "engagementCount": 367
+            }
+          ]
+        },
+        {
+          "title": "Everything you do is being recorded",
+          "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+          "summary": "La prolifération des appareils portables basés sur l’intelligence artificielle crée un environnement de surveillance où les interactions quotidiennes sont constamment enregistrées. Cette évolution technologique nécessite le développement de nouveaux mécanismes de défense et de stratégies de sécurité des données personnelles pour protéger la vie privée des individus.",
+          "meta": "248 votes · 198 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49230477",
+              "popularity": 248,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Taxi drivers rarely die of Alzheimer's",
+          "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+          "summary": "Le travail des chauffeurs de taxi, qui nécessite la création de cartes mentales et d'un raisonnement spatial complexes, réduit le risque de maladie d'Alzheimer. On affirme que maintenir le cerveau constamment actif offre une protection contre les processus neurodégénératifs en augmentant la réserve cognitive.",
+          "meta": "231 votes · 173 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49232253",
+              "popularity": 231,
+              "engagementCount": 173
+            }
+          ]
+        },
+        {
+          "title": "Cool URIs Don't Change (1998)",
+          "url": "https://www.w3.org/Provider/Style/URI",
+          "summary": "Cet article publié par le W3C soutient que les adresses Web (URI) ne devraient pas changer au fil du temps. Il recommande de créer des structures de liens permanents comme principe de conception de base pour maintenir l'accessibilité du contenu.",
+          "meta": "214 votes · 52 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49231809",
+              "popularity": 214,
+              "engagementCount": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+          "url": "https://huggingface.co/papers/2608.06501",
+          "summary": "Le framework C4, développé pour mesurer les capacités créatives des grands modèles de langage multimodaux, teste leur capacité de compréhension inter-concepts. Cette méthode incarne la compétence créative de résolution de problèmes de l’intelligence artificielle en évaluant la capacité des modèles à établir des relations non évidentes mais significatives.",
+          "meta": "1 j'aime · 1 commentaires"
+        },
+        {
+          "title": "Do AI Personas Grow? Analyzing and Benchmarking Personality Evolution in LLM Agents After Life Events",
+          "url": "https://huggingface.co/papers/2608.06485",
+          "summary": "Des agents de grands modèles de langage (PC-Agents) axés sur la personnalité sont en cours de développement pour assurer la cohérence des interactions à long terme dans des domaines tels que le soutien émotionnel et la simulation sociale. Cette étude propose un cadre d'évaluation qui analyse comment les agents d'intelligence artificielle changent de personnalité sur la base de fondements psychologiques en réponse aux événements de la vie.",
+          "meta": "1 j'aime · 1 commentaires"
+        },
+        {
+          "title": "Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning",
+          "url": "https://huggingface.co/papers/2608.02831",
+          "summary": "Une méthode d'apprentissage par renforcement a été développée qui utilise des critères d'évaluation évolutifs comme mécanisme de récompense dans les processus de raisonnement audio. Cette approche permet au modèle de mieux se concentrer sur les données audio avec un système de notation dynamique qui s'adapte à la question plutôt que des règles fixes.",
+          "meta": "7 j'aime · 1 commentaires"
+        },
+        {
+          "title": "PrivacyPeek: Auditing What LLM-Based Agents Acquire, Not Just What They Say",
+          "url": "https://huggingface.co/papers/2606.00152",
+          "summary": "PrivacyPeek est une méthode permettant de surveiller la tendance des grands agents basés sur des modèles de langage à inclure plus de données sensibles dans leurs systèmes que ce dont ils ont besoin pour effectuer leurs tâches. Cette approche se concentre sur les vulnérabilités du processus d'acquisition de données, où les données entrent d'abord dans le contexte de l'agent, plutôt que sur l'étape où les données sont exfiltrées.",
+          "meta": "1 j'aime · 1 commentaires"
+        },
+        {
+          "title": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors",
+          "url": "https://huggingface.co/papers/2608.00675",
+          "summary": "Les modèles de diffusion bidirectionnelle peuvent mesurer leur marge d’erreur en avançant et en reculant dans le temps. Cette méthode permet de détecter les écarts dans les prévisions à long terme avec une approche auto-supervisée, sans avoir besoin d'une véritable source de données.",
+          "meta": "2 j'aime · 2 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Who Should Pay For Source Code Availability?",
+          "url": "https://kristoff.it/blog/source-code-availability/",
+          "summary": "Dans le monde du logiciel, l’accessibilité du code source remet en question l’équilibre entre liberté du développeur et durabilité commerciale. Ce débat porte sur le conflit entre les modèles de financement des projets open source et les droits de propriété des logiciels.",
+          "meta": "61 votes · 35 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rsztog/who_should_pay_for_source_code",
+              "popularity": 61,
+              "engagementCount": 35
+            }
+          ]
+        },
+        {
+          "title": "IRC technology news from the first half of 2026",
+          "url": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
+          "summary": "Le protocole Internet Relay Chat (IRC) revient sur le devant de la scène au premier semestre 2026 avec des mises à jour et de nouveaux logiciels clients conformes aux normes de réseau modernes. Ces améliorations, notamment axées sur le cryptage et la stabilité des connexions, garantissent que les réseaux de communication décentralisés conservent leur place dans l'écosystème technologique actuel.",
+          "meta": "46 votes · 7 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026",
+              "popularity": 46,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "Mea Culpa - Dark Hours",
+          "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+          "summary": "Le site Vibecoded a copié le code source d'un logiciel libre existant sans autorisation et l'a présenté comme son propre produit. Cette situation a remis les discussions sur l’utilisation contraire à l’éthique du code et le plagiat à l’ordre du jour dans le monde du logiciel.",
+          "meta": "39 votes · 11 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jnbujx/mea_culpa_dark_hours",
+              "popularity": 39,
+              "engagementCount": 11
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "monorepo",
+      "explanation": "Une méthode de développement dans laquelle les codes de plusieurs projets logiciels sont collectés dans un seul dossier commun."
+    },
+    {
+      "term": "knowledge graphs",
+      "explanation": "Un système de base de données qui visualise et organise les relations entre les informations sous la forme d'une structure de réseau."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Technologie qui permet à l’intelligence artificielle d’extraire des informations de documents actuels et privés tout en produisant des réponses."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Systèmes capables de produire de nouveaux contenus tels que du texte, des visuels ou du son en utilisant des données précédemment apprises."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Technologie d'intelligence artificielle qui crée des visuels de haute qualité à partir de zéro en nettoyant étape par étape les données bruyantes."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Tests standards utilisés pour mesurer les performances de différents systèmes ou logiciels."
+    },
+    {
+      "term": "RAM",
+      "explanation": "Il s'agit d'une unité de mémoire temporaire dans laquelle l'ordinateur peut lire et écrire rapidement les données qu'il utilise actuellement activement."
+    },
+    {
+      "term": "spatial reasoning",
+      "explanation": "La capacité de saisir mentalement la position des objets dans l’espace, leur taille et leur mouvement les uns par rapport aux autres."
+    }
+  ]
+}

@@ -35,12 +35,12 @@ Since it only allows sharing of permitted data, it only opens the relevant part 
 ## Related tools
 - [Firecrawl](/en/discover/firecrawl/)
 - [Langflow](/en/discover/langflow/)
+- [ComfyUI](/en/discover/comfyui/)
 - [Supabase](/en/discover/supabase/)
 - [MoneyPrinterTurbo](/en/discover/moneyprinterturbo/)
 - [TradingAgents](/en/discover/tradingagents/)
 - [MiroFish](/en/discover/mirofish/)
 - [Agent-Reach](/en/discover/agent-reach/)
-- [Claude Cookbooks](/en/discover/claude-cookbooks/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/api/

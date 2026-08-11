@@ -2,11 +2,12 @@
 
 Rust diliyle geliştirilen llmfit, yüzlerce büyük dil modelini (large language model) ve sağlayıcıyı tarayarak donanımınızla uyumlu olanları tek bir komutla tespit etmenizi sağlıyor. Araç, yerel sistem kaynaklarına en uygun modelleri bulma sürecini otomatikleştiriyor.
 
-- ★ 31.111
+- ★ 31.288
 - Rust
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
+- 10 Ağustos 2026: Yıldız 31.111 → 31.288, son sürüm v1.1.9 (9 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 31.076 → 31.111, son sürüm v1.1.8 (4 Ağustos 2026).
 - 3 Ağustos 2026: Yıldız 31.060 → 31.076, son sürüm v1.1.7 (3 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 30.309 → 31.060, son sürüm v1.1.6 (21 Temmuz 2026).
@@ -51,7 +52,7 @@ Sistemimin donanım özelliklerini analiz et ve mevcut RAM, CPU ve GPU kapasitem
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CPU GPU LLM Rust Artificial Intelligence
+RAM CPU GPU LLM Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/llmfit/

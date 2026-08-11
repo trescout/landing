@@ -2,11 +2,12 @@
 
 Soutenu par de grands modèles linguistiques, ce système analyse les données de marché multi-sources et les actualités en temps réel et propose des panneaux visualisés pour les décisions d'investissement. Il standardise les processus d'analyse pour différents échanges avec des notifications automatiques et une assistance gratuite aux études programmées.
 
-- ★ 59 863
+- ★ 61 388
 - Python
 - GitHub Trending · 2026-06-22
 
 ## Mise à jour
+- 10 août 2026 : Étoile 59 863 → 61 388, dernière version v3.30.0 (9 août 2026).
 - 2 août 2026 : Étoile 45 304 → 59 863, dernière version v3.29.0 (2 août 2026).
 
 ## Ce que ça vous apporte

@@ -30,6 +30,7 @@ Because it is much more powerful, never shuts down and can be accessed from anyw
 
 ## Related tools
 - [Skills](/en/discover/skills/)
+- [Weathernext](/en/discover/weathernext/)
 - [Agents CLI](/en/discover/agents-cli/)
 
 ---

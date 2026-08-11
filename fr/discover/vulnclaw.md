@@ -2,11 +2,12 @@
 
 VulnClaw automatise les processus de tests d'intrusion à l'aide d'agents IA et de la chaîne d'outils Model Context Protocol. L'outil traite les commandes en langage naturel et effectue des étapes de collecte d'informations de bout en bout, d'analyse des vulnérabilités, d'exploitation et de reporting.
 
-- ★ 2 575
+- ★ 2 646
 - Python
 - GitHub Trending · 2026-06-30
 
 ## Mise à jour
+- 9 août 2026 : Étoile 2 575 → 2 646, dernière version v0.3.8 (9 août 2026).
 - 6 août 2026 : Étoile 2 425 → 2 575, dernière version v0.3.7 (4 août 2026).
 - 2 août 2026 : Étoile 1 313 → 2 425, dernière version v0.3.6 (25 juillet 2026).
 

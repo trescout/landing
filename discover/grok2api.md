@@ -2,11 +2,12 @@
 
 Grok Build, Grok Web ve Grok Console platformları için geliştirilen bu ağ geçidi (API gateway), çoklu hesap yönetimini tek bir merkezde topluyor. Go diliyle yazılan araç, kullanıcıların farklı Grok servislerine erişimini standartlaştırarak yönetilebilir bir arayüz sunuyor.
 
-- ★ 7.022
+- ★ 7.239
 - Go
 - GitHub Trending · 2026-07-15
 
 ## Güncelleme
+- 10 Ağustos 2026: Yıldız 7.022 → 7.239, son sürüm v3.1.2 (10 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 6.945 → 7.022, son sürüm v3.1.1 (5 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 5.927 → 6.945, son sürüm v3.0.11 (29 Temmuz 2026).
 

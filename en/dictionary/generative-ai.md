@@ -39,6 +39,7 @@ Yes, today anyone who can type a simple command can benefit from this technology
 - [Awesome Generative AI Guide](/en/discover/awesome-generative-ai-guide/)
 - [Aisuite](/en/discover/aisuite/)
 - [TRELLIS.2](/en/discover/trellis-2/)
+- [Weathernext](/en/discover/weathernext/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/generative-ai/

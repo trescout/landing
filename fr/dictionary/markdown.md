@@ -35,7 +35,7 @@ Vous pouvez l'ouvrir avec n'importe quel éditeur de texte, mais vous pouvez le 
 - [Crawl4AI](/fr/discover/crawl4ai/)
 - [Scrapling](/fr/discover/scrapling/)
 - [Opendataloader PDF](/fr/discover/opendataloader-pdf/)
-- [Olmocr](/fr/discover/olmocr/)
+- [Book to Skill](/fr/discover/book-to-skill/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/markdown/

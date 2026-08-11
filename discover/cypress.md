@@ -2,11 +2,12 @@
 
 Cypress, tarayıcı tabanlı uygulamalar için uçtan uca test (end-to-end testing) süreçlerini hızlandıran ve kolaylaştıran bir otomasyon çerçevesidir (framework). TypeScript ile geliştirilen bu araç, web uygulamalarının güvenilirliğini artırmak adına geliştiricilere hızlı hata ayıklama ve test yönetimi imkânı sunar.
 
-- ★ 50.916
+- ★ 50.941
 - TypeScript
 - GitHub Trending · 2026-06-15
 
 ## Güncelleme
+- 11 Ağustos 2026: Yıldız 50.916 → 50.941, son sürüm v15.20.1 (10 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 50.646 → 50.916, son sürüm v15.20.0 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 49.912 → 50.646, son sürüm v15.19.0 (21 Temmuz 2026).
 

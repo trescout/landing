@@ -37,6 +37,7 @@ Oui, aujourd’hui, toute personne capable de taper une commande simple peut bé
 - [Awesome Generative AI Guide](/fr/discover/awesome-generative-ai-guide/)
 - [Aisuite](/fr/discover/aisuite/)
 - [TRELLIS.2](/fr/discover/trellis-2/)
+- [Weathernext](/fr/discover/weathernext/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/generative-ai/
