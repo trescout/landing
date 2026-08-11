@@ -1352,14 +1352,14 @@
     "slug": "pi-subagents",
     "title": "Pi Subagents",
     "tagline": "Pi platformunda asenkron alt-ajan delegasyonu için TypeScript kütüphanesi.",
-    "meta": "★ 3.060 · Lisans: yok",
+    "meta": "★ 3.078 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-06-01",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 3060,
+    "stars": 3078,
     "image": "/assets/discover/og/pi-subagents.webp",
     "headline": "Yapay zekâ ile asenkron görev yönetimi",
     "last_review": "2026-08-11",
@@ -1405,6 +1405,13 @@
         "onceki_yildiz": 3044,
         "surum": "v0.45.2",
         "surum_tarihi": "2026-08-10"
+      },
+      {
+        "tarih": "2026-08-11",
+        "yildiz": 3078,
+        "onceki_yildiz": 3060,
+        "surum": "v0.46.0",
+        "surum_tarihi": "2026-08-11"
       }
     ],
     "tagline_en": "TypeScript library for asynchronous sub-agent delegation on the Pi platform.",
@@ -2876,7 +2883,7 @@
     "slug": "llama-cpp",
     "title": "Llama.cpp",
     "tagline": "Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını…",
-    "meta": "★ 123.386 · C++",
+    "meta": "★ 123.392 · C++",
     "image": "/assets/discover/og/llama-cpp.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -2884,7 +2891,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 123386,
+    "stars": 123392,
     "lite": false,
     "headline": "Yapay zekâ modellerini bilgisayarınızda çalıştırın",
     "last_review": "2026-08-11",
@@ -2985,6 +2992,13 @@
         "yildiz": 123386,
         "onceki_yildiz": 123241,
         "surum": "b10356",
+        "surum_tarihi": "2026-08-11"
+      },
+      {
+        "tarih": "2026-08-11",
+        "yildiz": 123392,
+        "onceki_yildiz": 123386,
+        "surum": "b10357",
         "surum_tarihi": "2026-08-11"
       }
     ],
@@ -4945,6 +4959,13 @@
         "onceki_yildiz": 11075,
         "surum": "4.21.7",
         "surum_tarihi": "2026-08-10"
+      },
+      {
+        "tarih": "2026-08-11",
+        "yildiz": 11085,
+        "onceki_yildiz": 11085,
+        "surum": "4.21.7-patch1",
+        "surum_tarihi": "2026-08-11"
       }
     ],
     "tagline_en": "Unciv is an open source desktop and Android adaptation of the Civilization V game.",
@@ -11940,7 +11961,7 @@
     "slug": "open-code-review",
     "title": "Open Code Review",
     "tagline": "Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli…",
-    "meta": "★ 19.972 · Go",
+    "meta": "★ 19.983 · Go",
     "image": "/assets/discover/og/open-code-review.webp",
     "source": "GitHub",
     "date": "2026-07-24",
@@ -11948,7 +11969,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 19972,
+    "stars": 19983,
     "lite": false,
     "headline": "Yapay zekâ destekli hassas kod inceleme",
     "last_review": "2026-08-11",
@@ -11987,6 +12008,13 @@
         "onceki_yildiz": 19417,
         "surum": "v1.9.0",
         "surum_tarihi": "2026-08-10"
+      },
+      {
+        "tarih": "2026-08-11",
+        "yildiz": 19983,
+        "onceki_yildiz": 19972,
+        "surum": "v1.9.1",
+        "surum_tarihi": "2026-08-11"
       }
     ],
     "tagline_en": "Open source code review tool developed by Alibaba, large language model with deterministic pipelines…",

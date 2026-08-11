@@ -2,11 +2,12 @@
 
 Codebase-memory-mcp offers high-performance code intelligence by transforming code bases into a permanent knowledge graph. Developed in C language, the tool supports 158 programming languages, reduces query times to below milliseconds and reduces token usage.
 
-- ★ 37,095
+- ★ 38,456
 - C
 - GitHub Trending · 2026-06-18
 
 ## Update
+- 11 August 2026: Star 37,095 → 38,456, latest version v0.10.0 (10 August 2026).
 - August 2, 2026: Star 6,142 → 37,095, latest version v0.9.0 (July 8, 2026).
 
 ## What you get

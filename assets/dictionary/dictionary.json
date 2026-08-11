@@ -4579,5 +4579,14 @@
     "kisa": "İnternete ihtiyaç duymadan, doğrudan kendi bilgisayarınızda çalışan otonom görev süreçleridir.",
     "kisa_en": "They are autonomous task processes that run directly on your own computer, without the need for the Internet.",
     "kisa_fr": "Il s'agit de processus de tâches autonomes qui s'exécutent directement sur votre propre ordinateur, sans avoir besoin d'Internet."
+  },
+  {
+    "slug": "knowledge-graphs",
+    "en": "Knowledge Graphs",
+    "full": "",
+    "cat": "data",
+    "kisa": "Bilgileri ve bu bilgiler arasındaki ilişkileri bir ağ yapısında birbirine bağlayarak sunan bir veritabanı türüdür.",
+    "kisa_en": "It is a type of database that presents information and the relationships between this information by connecting them in a network structure.",
+    "kisa_fr": "Il s'agit d'un type de base de données qui présente des informations et les relations entre ces informations en les connectant dans une structure de réseau."
   }
 ]

@@ -2,11 +2,12 @@
 
 Using the Claude Code infrastructure, career-ops automates artificial intelligence-supported job search processes with 14 different skill modes. The system centralizes functions such as batch management and resume creation through a Go-based control panel.
 
-- ★ 62,979
+- ★ 63,452
 - JavaScript
 - GitHub Trending · 2026-06-07
 
 ## Update
+- 11 August 2026: Star 62,979 → 63,452, last version career-ops-v1.26.0 (10 August 2026).
 - 6 August 2026: Star 62,526 → 62,979, last version career-ops-v1.25.0 (4 August 2026).
 - August 2, 2026: Star 49,580 → 62,526, last version career-ops-v1.24.0 (July 30, 2026).
 

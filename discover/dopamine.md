@@ -6,6 +6,9 @@ Dopamine, iOS 15 ile 16.6.1 sürümleri arasındaki cihazlar için geliştirilen
 - C
 - GitHub Trending · 2026-08-11
 
+## Güncelleme
+- 11 Ağustos 2026: Yıldız 6.086 → 6.086, son sürüm 3.0.4 (9 Ağustos 2026).
+
 ## Ne kazandırır?
 - iOS 15 ve 18.7.1 arası sürümlerde çalışır
 - Cihaz üzerinde yönetici yetkilerine erişim sağlar

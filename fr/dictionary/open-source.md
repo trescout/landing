@@ -33,8 +33,8 @@ Oui, mais l'inclusion de modifications dans le projet principal dépend généra
 - [MarkItDown](/fr/discover/markitdown/)
 - [Claude Code](/fr/discover/claude-code/)
 - [MoneyPrinterTurbo](/fr/discover/moneyprinterturbo/)
-- [Opencv](/fr/discover/opencv/)
 - [claude-mem](/fr/discover/claude-mem/)
+- [Opencv](/fr/discover/opencv/)
 - [RuView](/fr/discover/ruview/)
 
 ---

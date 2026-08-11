@@ -2,9 +2,12 @@
 
 Developed by Salvatore Sanfilippo, the creator of Redis, ds4 is an inference engine that allows running DeepSeek models on local hardware. This tool, written in C language, offers the opportunity to run high-performance models on different graphics processors thanks to Metal, CUDA and ROCm support.
 
-- ★ 20,117
+- ★ 21,134
 - C
 - GitHub Trending · 2026-08-03
+
+## Update
+- August 11, 2026: Star 20,117 → 21,134.
 
 ## What you get
 - Runs high-performance AI models on consumer-grade hardware

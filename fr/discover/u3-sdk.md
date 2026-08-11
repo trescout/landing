@@ -2,11 +2,12 @@
 
 SmartlyDressedGames a partagé le kit de développement logiciel U3-SDK développé pour le jeu de survie zombie en monde ouvert Unturned en open source. Ces codes sources, préparés en langage C#, permettent aux membres de la communauté de personnaliser et de développer le jeu.
 
-- ★ 3 324
+- ★ 3 504
 - C#
 - GitHub Trending · 2026-07-10
 
 ## Mise à jour
+- 11 août 2026 : Star 3.324 → 3.504, dernière version v3.26.3.8 (10 août 2026).
 - 4 août 2026 : Star 3.308 → 3.324, dernière version v3.26.3.7 (3 août 2026).
 - 2 août 2026 : Star 2 182 → 3 308, dernière version v3.26.3.6 (30 juillet 2026).
 

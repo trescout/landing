@@ -2,11 +2,12 @@
 
 Ego-lite, kullanıcılar ve yapay zekâ ajanları (AI agents) için eş zamanlı çalışma imkânı sunan bir tarayıcıdır. JavaScript tabanlı bu araç, insan ve makine etkileşimini aynı tarayıcı ortamında paralel şekilde yürütmeyi hedefler.
 
-- ★ 8.875
+- ★ 9.541
 - JavaScript
 - GitHub Trending · 2026-07-24
 
 ## Güncelleme
+- 11 Ağustos 2026: Yıldız 8.875 → 9.541, son sürüm v1.2.3 (11 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 7.602 → 8.875, son sürüm v1.2.5 (17 Temmuz 2026).
 - 2 Ağustos 2026: Yıldız 1.896 → 7.602, son sürüm v1.2.5 (17 Temmuz 2026).
 

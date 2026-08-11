@@ -2,12 +2,13 @@
 
 Introduction to artificial intelligence engineering from scratch: 485 lessons, 20 phases and approximately 320 hours of content. He teaches every algorithm, from linear algebra to autonomous agents, first with mathematics and then by writing code by hand. This course, which covers Python, TypeScript, Rust and Julia languages, is completely free and open source.
 
-- ★ 45,404
+- ★ 46,486
 - Python
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Update
+- August 11, 2026: Star 45,404 → 46,486, latest version v2026.08 (August 10, 2026).
 - August 1, 2026: Star 20,435 → 45,404, last version v2026.07 (July 25, 2026).
 
 ## What do you learn?
