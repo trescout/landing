@@ -13,7 +13,8 @@ Bu guard birleşmenin geri açılmadığını denetler:
      (günlük hat terimi yeniden yaratırsa yönlendirme kırılır · dict-sync.py
      birlesmis.json'u okuyup engelliyor, burası o korumanın testi)
   2. Manifest'te o slug bulunmamalı
-  3. Her kaldırılan slug için vercel.json'da 301 yönlendirme olmalı
+  3. Her kaldırılan slug için vercel.json'da 301 yönlendirme olmalı ·
+     hem eğik çizgili hem çizgisiz biçim (Vercel source'u birebir eşleştirir)
   4. Hiçbir sayfa kaldırılan slug'a İÇ BAĞLANTI vermemeli · yönlendirme
      çalışır ama iç bağlantı doğrudan kanonik adrese gitmeli (yönlendirme
      zinciri tarama bütçesi yer, ki bu birleştirmenin sebebiydi)
@@ -48,9 +49,13 @@ for eski, yeni in sorted(eslesme.items()):
         if os.path.isdir(os.path.join(ROOT, f"{onek}dictionary/{eski}")):
             sorunlar.append(f"{onek}dictionary/{eski}/ · sayfa geri gelmiş")
     for onek in ("", "/en", "/fr"):
-        if f"{onek}/dictionary/{eski}" not in yonlendirmeler:
-            sorunlar.append(f"{onek}/dictionary/{eski} · 301 yönlendirmesi yok "
-                            "(scripts/redirect-uret.py çalıştırın)")
+        # İKİ biçim de aranıyor · Vercel source'u birebir eşleştirdiği için
+        # yalnız eğik çizgisiz hâli yazılınca gerçek istekler 404 veriyordu
+        # (2026-08-11'de yayına böyle çıktı).
+        for kaynak in (f"{onek}/dictionary/{eski}", f"{onek}/dictionary/{eski}/"):
+            if kaynak not in yonlendirmeler:
+                sorunlar.append(f"{kaynak} · 301 yönlendirmesi yok "
+                                "(scripts/redirect-uret.py çalıştırın)")
 
 # İç bağlantı taraması
 bagli = []
