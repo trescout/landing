@@ -1,0 +1,371 @@
+{
+  "date": "2026-08-12",
+  "editorial": "Bugün odak noktası otonom ajanlar (autonomous agents) ve bu modellerin muhakeme süreçlerini (reasoning traces) hedef alan güvenlik açıklarının teknik analizi üzerine kurulu. Akademik literatürde verimlilik odaklı derin araştırma ajanları ve görsel üretim modellerinde kalite artışı sağlayan yeni kayıp fonksiyonları (loss functions) öne çıkıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-agents, farklı uzmanlık alanlarına sahip yapay zekâ ajanlarını tek bir çatı altında toplayan bir otomasyon kütüphanesi. Yazılım geliştirme, içerik üretimi ve veri doğrulama gibi süreçleri yöneten bu uzman ajanlar, kullanıcıların karmaşık iş akışlarını dijital bir ekip gibi yürütmesini sağlıyor.",
+          "meta": "Shell · ★ 143.644 · +958 bugün"
+        },
+        {
+          "title": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "summary": "Semantica, yapay zekâ sistemlerinde bağlamsal veriyi yönetmek için geliştirilen çizge tabanlı (graph-native) bir altyapı. Veri ilişkilerini yapılandırarak üretken yapay zekâ (generative AI) modellerinin daha güvenilir ve denetlenebilir sonuçlar üretmesini sağlıyor.",
+          "meta": "Python · ★ 5.083 · +893 bugün"
+        },
+        {
+          "title": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "summary": "Node Version Manager, geliştiricilerin sistemlerinde birden fazla Node.js sürümünü yönetmelerine olanak tanıyan bir komut satırı aracı. POSIX uyumlu kabuk betiği (bash script) yapısıyla farklı projeler arasında hızlı sürüm geçişleri yapmayı kolaylaştırıyor.",
+          "meta": "Shell · ★ 94.520 · +22 bugün"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Yapay zekâ kodlama ajanları için geliştirilen agent-skills, üretim seviyesinde mühendislik yetenekleri (engineering skills) sunan bir kütüphane. JavaScript tabanlı bu kaynak, yazılım geliştirme süreçlerinde ajanların görevleri daha verimli yerine getirmesini sağlayan standartlaştırılmış araçlar sağlıyor.",
+          "meta": "JavaScript · ★ 86.325 · +578 bugün"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen/daily_stock_analysis, büyük dil modelleri (LLM) kullanarak çoklu piyasa verilerini ve güncel haberleri analiz eden otomatik bir borsa takip sistemi. Python tabanlı bu araç, yatırım kararlarını destekleyen bir gösterge paneli sunarak analizleri düzenli aralıklarla otomatik olarak iletiyor.",
+          "meta": "Python · ★ 62.290 · +243 bugün"
+        },
+        {
+          "title": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "summary": "Code-graph-rag, büyük kod depolarındaki (monorepo) karmaşık yapıları anlamak için bilgi grafikleri (knowledge graphs) ile getirme destekli üretim (RAG) teknolojisini birleştiriyor. Geliştiricilerin çok dilli kod tabanları üzerinde sorgulama yapmasına ve yapay zekâ yardımıyla düzenleme gerçekleştirmesine olanak tanıyor.",
+          "meta": "Python · ★ 3.903 · +341 bugün"
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Anthropics tarafından paylaşılan skills, yapay zekâ ajanları için yeniden kullanılabilir yetenek paketleri (skills) sunuyor. Bu açık kaynaklı kütüphane, geliştiricilerin farklı agentik iş akışlarını standartlaştırmasına yardımcı oluyor.",
+          "meta": "Python · ★ 168.269 · +485 bugün"
+        },
+        {
+          "title": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "summary": "Manim, matematiksel kavramları görselleştirmek için kullanılan Python tabanlı bir animasyon motoru. Karmaşık teorileri açıklayıcı videolara dönüştürmek isteyen içerik üreticileri için programatik bir çözüm sunuyor.",
+          "meta": "Python · ★ 90.306 · +197 bugün"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor, öğrencilerin öğrenme süreçlerini sürekli takip ederek kişiselleştirilmiş eğitim desteği sunan bir yapay zekâ tabanlı özel ders (tutoring) sistemidir. Öğrenci performansını analiz eden model, uzun vadeli öğrenme ihtiyaçlarına göre özelleştirilmiş içerikler oluşturur.",
+          "meta": "Python · ★ 34.890 · +812 bugün"
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmenizi sağlayan bir ajan geliştirme ortamı (ADE). Masaüstü, mobil ve sanal özel sunucu (VPS) üzerinde çalışan bu araç, kendi aboneliklerinizle farklı kodlama ajanlarını çalıştırmanıza imkân tanıyor.",
+          "meta": "TypeScript · ★ 43.010 · +875 bugün"
+        },
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip, iş yerindeki yapay zekâ ajanlarını yönetmek için geliştirilen açık kaynaklı bir uygulama. TypeScript ile yazılan bu platform, farklı görevler üstlenen dijital ajanların merkezi bir noktadan kontrol edilmesini sağlıyor.",
+          "meta": "TypeScript · ★ 77.289 · +748 bugün"
+        },
+        {
+          "title": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "summary": "Hugging Face tarafından geliştirilen Transformers, metin, görüntü ve ses gibi farklı veri türlerinde güncel makine öğrenimi modellerini eğitmek ve çalıştırmak için kullanılan bir kütüphanedir. Geliştiricilere popüler yapay zekâ modellerine erişim ve bu modeller üzerinde ince ayar (fine-tuning) yapma imkânı sağlar.",
+          "meta": "Python · ★ 163.880 · +80 bugün"
+        },
+        {
+          "title": "harveyai/harvey-labs",
+          "url": "https://github.com/harveyai/harvey-labs",
+          "summary": "Harvey Labs, hukuk alanındaki görevleri destekleyen yapay zekâ ajanlarının yeteneklerini ölçmek ve geliştirmek için tasarlanmış bir kıyaslama (benchmark) aracıdır. Hukuki iş akışlarında kullanılan modellerin performansını değerlendirmek amacıyla Python diliyle geliştirilmiştir.",
+          "meta": "Python · ★ 1.117 · +28 bugün"
+        },
+        {
+          "title": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac",
+          "summary": "Awesome-mac, macOS işletim sistemi için geliştirilmiş yüksek kaliteli yazılımları kategorize ederek listeleyen kapsamlı bir kaynak deposu. Kullanıcıların ihtiyaçlarına uygun uygulamaları kolayca bulmasını sağlayan bu arşiv, sistemli bir düzenleme aracı işlevi görüyor.",
+          "meta": "Swift · ★ 110.586 · +298 bugün"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage, yapay zekâ destekli kodlama asistanlarını kapsamlı bir video üretim stüdyosuna dönüştüren açık kaynaklı bir sistemdir. On iki farklı üretim hattı (production pipeline), yüzün üzerinde araç ve yedi yüzü aşkın ajan yeteneğiyle video içerik oluşturma süreçlerini otomatize eder.",
+          "meta": "Python · ★ 47.495 · +458 bugün"
+        },
+        {
+          "title": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "summary": "Project-based learning, yazılım geliştirme süreçlerini uygulamalı projeler üzerinden öğreten kaynakları bir araya getiren bir liste. Farklı programlama dilleriyle gerçek dünya uygulamaları geliştirmek isteyenler için kapsamlı bir rehber sunuyor.",
+          "meta": "Python · ★ 278.578 · +401 bugün"
+        },
+        {
+          "title": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "summary": "PrimeIntellect tarafından geliştirilen Prime-Agent, yazılım geliştirme süreçleri ve uzun süreli otonom görevler için tasarlanmış, kendi kendini geliştiren bir takviyeli öğrenme ajanıdır (reinforcement learning agent). TypeScript diliyle yazılan bu araç, karmaşık iş akışlarını otomatikleştirerek yapay zekâ destekli yazılım geliştirme süreçlerini optimize etmeyi amaçlıyor.",
+          "meta": "TypeScript · ★ 14.360 · +1.138 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+          "url": "https://stolen-thoughts.com/",
+          "summary": "Araştırmacılar, özel büyük dil modellerinin (proprietary LLM) ürettiği düşünce zinciri (reasoning trace) verilerini kullanarak daha küçük modelleri eğitmenin mümkün olduğunu gösteriyor. Bu yöntem, kapalı kaynaklı modellerin mantık yürütme yeteneklerini açık kaynaklı alternatiflere aktarmayı hedefliyor.",
+          "meta": "566 oy · 248 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49257876",
+              "popularity": 566,
+              "engagementCount": 248
+            }
+          ]
+        },
+        {
+          "title": "England set to be one of the first countries to eliminate hepatitis C",
+          "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+          "summary": "İngiltere, uyguladığı kapsamlı tarama ve tedavi programları sayesinde Hepatit C virüsünü tamamen ortadan kaldıran ilk ülkelerden biri olmaya hazırlanıyor. Sağlık sistemi NHS (Ulusal Sağlık Servisi), virüsün yayılımını durdurmak için ülke genelinde geniş çaplı bir test süreci yürütüyor.",
+          "meta": "507 oy · 370 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49257377",
+              "popularity": 507,
+              "engagementCount": 370
+            }
+          ]
+        },
+        {
+          "title": "Compression is prediction",
+          "url": "https://ngrok.com/blog/compression-is-prediction",
+          "summary": "Veri sıkıştırma (data compression) ve tahmin (prediction) arasındaki matematiksel ilişki, bir veriyi en iyi sıkıştıran algoritmanın aslında o verinin yapısını en iyi tahmin eden model olduğunu gösteriyor. Bu yaklaşım, büyük dil modellerinin (large language models) çalışma mantığını anlamak için temel bir çerçeve sunuyor.",
+          "meta": "397 oy · 157 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49263497",
+              "popularity": 397,
+              "engagementCount": 157
+            }
+          ]
+        },
+        {
+          "title": "OpenAI’s head of ethics leaves less than a year after joining",
+          "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+          "summary": "OpenAI bünyesinde etik biriminin başında bulunan yönetici, göreve başlamasından bir yıldan kısa süre sonra şirketten ayrıldı. Bu ayrılık, yapay zekâ geliştiricisi OpenAI içerisinde etik denetim ve güvenlik süreçlerinin geleceğine dair tartışmaları beraberinde getirdi.",
+          "meta": "356 oy · 369 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49257160",
+              "popularity": 356,
+              "engagementCount": 369
+            }
+          ]
+        },
+        {
+          "title": "Mojo 1.0",
+          "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+          "summary": "Modular tarafından geliştirilen Mojo 1.0, Python'ın kullanım kolaylığını sistem programlama dillerinin yüksek performansı (performance) ile birleştiren bir programlama dili. Yapay zekâ donanımları üzerinde çalışmak üzere optimize edilen bu dil, geliştiricilere Python ekosistemiyle tam uyumlu bir çalışma ortamı sunuyor.",
+          "meta": "341 oy · 161 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49261128",
+              "popularity": 341,
+              "engagementCount": 161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax tarafından geliştirilen MiniMax-H3, görsel ve metin girdilerini kullanarak video üreten bir yapay zekâ modeli. Bu teknoloji, kullanıcıların sağladığı verileri hareketli görüntülere dönüştürerek video içerik oluşturma süreçlerini kolaylaştırıyor.",
+          "meta": "♥ 3.611 · 59.368 indirme"
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "Meta-models tarafından yayınlanan Muse-Glimmer-30B, görsel ve metin verilerini işleyerek metin tabanlı çıktılar üreten bir çok modlu model (multimodal model). Model, görüntüleri analiz edip metinle birleştirerek karmaşık içerik oluşturma süreçlerinde kullanılıyor.",
+          "meta": "♥ 1.129 · 0 indirme"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek tarafından geliştirilen DeepSeek-V4-Flash-0731, metin oluşturma (text generation) odaklı bir yapay zekâ modelidir. HuggingFace üzerinde paylaşılan bu dil modeli, yüksek performanslı içerik üretimi süreçlerinde alternatif bir çözüm sunar.",
+          "meta": "♥ 3.171 · 1.048.685 indirme"
+        },
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "HuggingFace üzerinde paylaşılan MiniMax-H3-Turbo-Lora, metinden videoya dönüştürme (text-to-video) yeteneğine sahip modeller için geliştirilmiş bir düşük dereceli uyarlama (low-rank adaptation) dosyasıdır. Bu dosya, mevcut video üretim modellerinin belirli veri kümeleri üzerinde daha verimli eğitilmesini (fine-tuning) sağlar.",
+          "meta": "♥ 660 · 0 indirme"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3, metin ve görsel işleme yeteneklerine sahip çok modlu bir büyük dil modeli (large language model). Comfy-Org tarafından sunulan bu model, özellikle karmaşık görsel içerikleri analiz etme ve anlamlandırma süreçlerinde kullanılıyor.",
+          "meta": "♥ 1.222 · 6.798.796 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
+          "url": "https://huggingface.co/papers/2608.11205",
+          "summary": "AdvFD, görsel üretim modellerinde kullanılan Fréchet mesafesi (Fréchet distance) optimizasyonundaki kalite kaybı sorununu çözmeyi amaçlıyor. Yöntem, statik özellik uzayları yerine dinamik bir yapı kullanarak görsel üretim süreçlerinde iyileştirme sağlıyor.",
+          "meta": "5 beğeni · 1 yorum"
+        },
+        {
+          "title": "Not Worth Another Token: Marginal Value Estimation for Efficient Deep Research Agents",
+          "url": "https://huggingface.co/papers/2608.08389",
+          "summary": "Derin araştırma yapan yapay zekâ ajanları, uzun süreli görevlerde gereksiz veri birikimi nedeniyle yüksek maliyet ve yavaş çalışma sorunlarıyla karşılaşıyor. Bu çalışma, bağlam yönetimi için marjinal değer tahmini yöntemlerini inceleyerek, araştırma sürecinde hangi verilerin tutulması gerektiğini belirleyen sistematik budama stratejileri sunuyor.",
+          "meta": "2 beğeni · 1 yorum"
+        },
+        {
+          "title": "Reference-Free Post-Training of Open Large Language Models for Multilingual Machine Translation",
+          "url": "https://huggingface.co/papers/2608.10812",
+          "summary": "Açık kaynaklı büyük dil modelleri (large language models) için geliştirilen bu yöntem, referans metne ihtiyaç duymadan çok dilli makine çevirisi (multilingual machine translation) kalitesini artırıyor. Grup Göreli Politika Optimizasyonu (Group Relative Policy Optimization) kullanarak, çeviri kalitesini tahmin eden modellerle denetimli ince ayar (supervised fine-tuning) süreçlerini birleştiriyor.",
+          "meta": "3 beğeni · 1 yorum"
+        },
+        {
+          "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+          "url": "https://huggingface.co/papers/2608.10915",
+          "summary": "ComBodied Agents yaklaşımı, dijital ve fiziksel dünyadaki yapay zekâ ajanlarını insan odaklı bir çerçevede birleştiriyor. Bu model, ajanların sadece yazılım veya fiziksel durumları değiştirmesine değil, kullanıcının o anki psikolojik ve fiziksel durumunu anlayarak kişiselleştirilmiş destek sunmasına odaklanıyor.",
+          "meta": "40 beğeni · 1 yorum"
+        },
+        {
+          "title": "iFAN: Inference-Aware Learning for Plain Mask Transformers",
+          "url": "https://huggingface.co/papers/2608.03216",
+          "summary": "iFAN, görüntü bölütleme (segmentation) modellerindeki çıkarım süreci ile eğitim aşaması arasındaki uyumsuzlukları gideren yeni bir öğrenme yöntemi. Bu yaklaşım, modelin eğitim sırasında nihai tahmin aşamasını hesaba katmasını sağlayarak maske doğruluğunu artırmayı hedefliyor.",
+          "meta": "2 beğeni · 1 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "GNOME Shell Design Dreams",
+          "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+          "summary": "GNOME geliştiricileri, masaüstü ortamı GNOME Shell için kullanıcı deneyimini iyileştirmeye yönelik yeni tasarım hedeflerini paylaştı. Bu vizyon, arayüzde daha tutarlı bir görsel dil ve etkileşim modeli oluşturmayı amaçlıyor.",
+          "meta": "52 oy · 13 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/b3uky6/gnome_shell_design_dreams",
+              "popularity": 52,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Text Watermarking for Non-Academics",
+          "url": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
+          "summary": "Metin filigranı (text watermarking), üretken yapay zekâ (generative AI) tarafından oluşturulan içeriklerin tespit edilmesi için metin dizilerine gizli istatistiksel işaretler ekliyor. Bu yöntem, içeriğin kaynağını doğrulamak için bir kanıt sunsa da manipülasyonlara karşı teknik sınırlamalar barındırıyor.",
+          "meta": "6 oy · 6 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/glicgx/text_watermarking_for_non_academics",
+              "popularity": 6,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "Reviewing code is a skill",
+          "url": "https://typesanitizer.com/blog/code-review.html",
+          "summary": "Kod inceleme (code review), yazılım geliştirme sürecinde teknik bilginin ötesinde iletişim ve eleştirel düşünme yetenekleri gerektiren bir süreçtir. Bu beceri, sadece hataları bulmayı değil, aynı zamanda ekip içi iş birliğini ve kod kalitesini sürdürülebilir kılmayı hedefler.",
+          "meta": "41 oy · 13 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/gyxkma/reviewing_code_is_skill",
+              "popularity": 41,
+              "engagementCount": 13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "graph-native",
+      "explanation": "Verileri birbirine bağlı ağ yapısında tutmak için özel olarak tasarlanmış sistemler."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Daha önce öğrendiği bilgilerden yola çıkarak yeni metin, görsel veya ses üretebilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "bash script",
+      "explanation": "Bilgisayarda yapılması gereken çok adımlı işlemleri tek bir dosyaya yazarak otomatik hale getiren komut dizisi."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık problemleri mantıklı adımlarla çözebilme ve teknik sistemler kurabilme yeteneği."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnternetteki devasa miktarda metni okuyarak insan gibi konuşmayı ve yazmayı öğrenen yapay zekâ modeli."
+    },
+    {
+      "term": "monorepo",
+      "explanation": "Bir yazılım projesine ait tüm kodların ve dosyaların tek bir ana klasörde toplandığı düzen."
+    },
+    {
+      "term": "knowledge graphs",
+      "explanation": "Bilgileri birbirleriyle olan ilişkileriyle birlikte kaydeden, kavramlar arası bağlantıları gösteren veri haritası."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın cevap üretirken kendi hafızası yerine güncel ve güvenilir dış kaynaklı belgeleri kullanmasını sağlayan yöntem."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir işi yapmak için gereken pratik bilgi ve uygulama yeteneği."
+    },
+    {
+      "term": "tutoring",
+      "explanation": "Bir konuyu öğrenen kişiye birebir rehberlik ederek hatalarını düzeltme ve yol gösterme süreci."
+    },
+    {
+      "term": "ADE",
+      "explanation": "Yazılım geliştirme süreçlerini hızlandırmak ve yönetmek için kullanılan dijital ortamlar."
+    },
+    {
+      "term": "VPS",
+      "explanation": "İnternet üzerindeki bir sunucunun, sanki size ait özel bir bilgisayarmış gibi kiralanarak kullanılması."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Genel amaçlı eğitilmiş bir yapay zekâyı, belirli bir konuda daha uzman olması için küçük bir veri setiyle tekrar eğitme işlemi."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Bir sistemin veya yazılımın performansını standart testlerle ölçüp diğerleriyle kıyaslama yöntemi."
+    },
+    {
+      "term": "production pipeline",
+      "explanation": "Yazılımın geliştirilip test edildikten sonra gerçek kullanıcılara sunulana kadar geçtiği otomatik aşamalar dizisi."
+    },
+    {
+      "term": "reinforcement learning agent",
+      "explanation": "Deneme yanılma yoluyla ödül alarak en doğru kararı vermeyi öğrenen yapay zekâ yazılımı."
+    }
+  ]
+}
