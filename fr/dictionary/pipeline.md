@@ -28,6 +28,7 @@ Oui, l’automatisation est au cœur du concept de pipeline.
 - [Deployment](/fr/dictionary/deployment/)
 
 ## Outils liés
+- [Transformers](/fr/discover/transformers/)
 - [OpenMontage](/fr/discover/openmontage/)
 - [Liteparse](/fr/discover/liteparse/)
 

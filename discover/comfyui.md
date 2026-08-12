@@ -36,7 +36,7 @@ Görsel üretim sürecim için düğüm tabanlı bir iş akışı oluşturmak is
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Diffusion Models API Artificial Intelligence
+API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/comfyui/

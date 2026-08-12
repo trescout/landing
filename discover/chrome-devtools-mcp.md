@@ -42,7 +42,7 @@ Chrome DevTools MCP sunucusunu kullanarak aktif tarayıcı oturumuma bağlan ve 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Chrome DevTools Coding Agents Model Context Protocol Model Context Protocol Context Agents
+Chrome DevTools Model Context Protocol Model Context Protocol Context MCP Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/chrome-devtools-mcp/

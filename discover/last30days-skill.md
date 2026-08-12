@@ -35,7 +35,7 @@ Sen bir yapay zekâ ajanısın. Last30days-skill aracını kullanarak [ARANACAK 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agent Skill Agent Skill AI Agent Skill Agent Artificial Intelligence
+AI Agent Skill AI Agent Skill Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/last30days-skill/

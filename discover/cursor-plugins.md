@@ -33,7 +33,7 @@ Lisans: GitHub standart bir lisans tespit etmedi. Yeniden kullanım/dağıtım �
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Plugins Artificial Intelligence
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cursor-plugins/

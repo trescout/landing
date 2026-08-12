@@ -27,7 +27,7 @@ Claude Cowork kullanıyorsanız, arayüzdeki 'Customize' menüsüne giderek 'Bro
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic Skills Plugins Agentic AI Skills Artificial Intelligence
+Agentic Skills Agentic AI Skills Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pm-skills/

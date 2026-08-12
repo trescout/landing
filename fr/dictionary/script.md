@@ -24,6 +24,7 @@ Oui, il est assez facile d’écrire des scripts simples une fois que vous avez 
 - [Tools](/fr/dictionary/tools/)
 
 ## Outils liés
+- [NVM](/fr/discover/nvm/)
 - [Meshery](/fr/discover/meshery/)
 - [Tradingview MCP](/fr/discover/tradingview-mcp/)
 

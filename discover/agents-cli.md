@@ -36,7 +36,7 @@ Google Cloud üzerinde bir yapay zekâ ajanı geliştirmek istiyorum. agents-cli
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Google Cloud Agents CLI Artificial Intelligence
+Google Cloud CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agents-cli/

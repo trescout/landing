@@ -33,6 +33,7 @@ Since it only allows sharing of permitted data, it only opens the relevant part 
 - [Data Pipeline](/en/dictionary/data-pipeline/)
 
 ## Related tools
+- [Transformers](/en/discover/transformers/)
 - [Firecrawl](/en/discover/firecrawl/)
 - [Langflow](/en/discover/langflow/)
 - [ComfyUI](/en/discover/comfyui/)
@@ -40,7 +41,6 @@ Since it only allows sharing of permitted data, it only opens the relevant part 
 - [MoneyPrinterTurbo](/en/discover/moneyprinterturbo/)
 - [TradingAgents](/en/discover/tradingagents/)
 - [MiroFish](/en/discover/mirofish/)
-- [Agent-Reach](/en/discover/agent-reach/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/api/

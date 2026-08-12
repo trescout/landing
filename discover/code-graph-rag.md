@@ -55,7 +55,7 @@ Code-Graph-RAG aracını kullanarak kod depomu analiz et. Kod tabanındaki fonks
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Monorepo Knowledge Graphs RAG Artificial Intelligence
+Monorepo RAG Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/code-graph-rag/

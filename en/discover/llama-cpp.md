@@ -2,15 +2,15 @@
 
 Llama.cpp is a C and C++ based inference library that enables large language models to be run efficiently on standard hardware. The software makes it easier to run artificial intelligence models on local devices with its low memory usage and high performance-oriented structure.
 
-- ★ 123,386
+- ★ 123,392
 - C++
 - GitHub Trending · 2026-06-08
 
 ## Update
+- 11 August 2026: Star 123.386 → 123.392, last version b10357 (11 August 2026).
 - 11 August 2026: Star 123.241 → 123.386, last version b10356 (11 August 2026).
 - 10 August 2026: Star 123.145 → 123.241, last version b10333 (9 August 2026).
 - 9 August 2026: Star 123.043 → 123.145, last version b10331 (8 August 2026).
-- 8 August 2026: Star 123.019 → 123.043, last version b10327 (8 August 2026).
 
 ## What you get
 - It runs large language models efficiently on standard hardware.

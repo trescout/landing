@@ -31,6 +31,7 @@ Puisqu'il permet uniquement le partage des données autorisées, il n'ouvre que 
 - [Data Pipeline](/fr/dictionary/data-pipeline/)
 
 ## Outils liés
+- [Transformers](/fr/discover/transformers/)
 - [Firecrawl](/fr/discover/firecrawl/)
 - [Langflow](/fr/discover/langflow/)
 - [ComfyUI](/fr/discover/comfyui/)
@@ -38,7 +39,6 @@ Puisqu'il permet uniquement le partage des données autorisées, il n'ouvre que 
 - [MoneyPrinterTurbo](/fr/discover/moneyprinterturbo/)
 - [TradingAgents](/fr/discover/tradingagents/)
 - [MiroFish](/fr/discover/mirofish/)
-- [Agent-Reach](/fr/discover/agent-reach/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/api/

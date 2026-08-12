@@ -45,7 +45,7 @@ Sen bir arka plan yazılım ajanısın. Belirlediğim görevleri Node.js, Python
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agents Agents Artificial Intelligence
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/background-agents/

@@ -53,7 +53,7 @@ Bonsai-demo projesini kullanarak yerel cihazımda yapay zekâ modellerini çalı
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Scripts Machine Learning Shell Token Artificial Intelligence
+Machine Learning Shell Token Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/bonsai-demo/

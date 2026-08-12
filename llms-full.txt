@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-11 · 416 araç · 489 terim
+Son güncelleme: 2026-08-12 · 421 araç · 493 terim
 
 ---
 
@@ -85,6 +85,47 @@ Teknik bilgi gerektirir, yanlış komutlar cihazın çalışmasını etkileyebil
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/adb/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# ADE nedir?
+
+> Application Development Environment
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-12
+
+Yazılım geliştirme süreçlerini hızlandırmak ve yönetmek için kullanılan dijital çalışma ortamlarıdır.
+
+## Tanım
+ADE, bir yazılımın tasarımından yayına alınmasına kadar geçen tüm aşamaları tek bir çatı altında toplamayı hedefler. Geliştiricilerin kod yazarken ihtiyaç duydukları araçları, kütüphaneleri ve test ortamlarını hazır olarak sunar. Bu sayede geliştiriciler altyapı detaylarıyla uğraşmak yerine sadece ürünlerine odaklanabilirler.
+
+## Bir benzetmeyle
+Tam donanımlı bir marangoz atölyesi gibidir; ihtiyacınız olan tüm testereler, matkaplar ve tezgahlar elinizin altındadır.
+
+## Nasıl çalışır?
+Genellikle bulut tabanlı veya yerel kurulumla erişilen bu platformlarda, proje dosyalarınızı yönetir ve gerekli araçları entegre edersiniz.
+
+## Nerede kullanılır?
+Büyük yazılım projelerinde, ekip çalışmalarında ve hızlı prototip geliştirmede tercih edilir.
+
+## Sık karıştırılanlar
+IDE ile karıştırılabilir; IDE daha çok kod yazma odaklıyken, ADE tüm geliştirme sürecini kapsar.
+
+## Sıkça sorulanlar
+
+**ADE kullanmak zorunlu mu?**  
+Zorunlu değildir ancak karmaşık projelerde zaman tasarrufu sağlar.
+
+## İlgili terimler
+- [IDE](/dictionary/ide/)
+- [Development Framework](/dictionary/development-framework/)
+- [Agent Development Environment](/dictionary/agent-development-environment/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ade/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -2535,6 +2576,42 @@ Dijital dünyada veri kaybı genellikle geri döndürülemez bir felakettir.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/backup-program/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Bash Script nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-12
+
+Bilgisayarda yapılması gereken çok adımlı işlemleri tek bir dosyada toplayarak otomatikleştiren bir komut dizisidir.
+
+## Tanım
+Bash script, bilgisayarın komut satırına tek tek yazacağınız komutları bir araya getirip tek bir dosyada saklamanızı sağlar. Bu dosyayı çalıştırdığınızda, içindeki tüm komutlar sırayla ve hatasız bir şekilde yürütülür. Özellikle tekrarlayan görevleri hızlandırmak için yazılımcıların en büyük yardımcılarından biridir.
+
+## Bir benzetmeyle
+Bir yemek tarifini adım adım kağıda yazmak gibidir; her seferinde malzemeleri düşünmek yerine kağıdı okuyup yemeği hızlıca hazırlarsınız.
+
+## Nasıl çalışır?
+Bir metin dosyası açıp içine çalıştırmak istediğiniz komutları alt alta yazarsınız. Dosyayı kaydedip çalıştırılabilir hale getirdiğinizde, tek bir tıklama veya komutla tüm süreci başlatırsınız.
+
+## Nerede kullanılır?
+Sunucu yönetiminde, yedekleme işlemlerinde veya yazılım kurulum süreçlerinde sıkça kullanılır.
+
+## Sıkça sorulanlar
+
+**Neden elle yazmak yerine script kullanmalıyım?**  
+Hata payını düşürür ve aynı işlemi her seferinde aynı hızda yapmanızı sağlar.
+
+## İlgili terimler
+- [Script](/dictionary/script/)
+- [CLI](/dictionary/cli/)
+- [Terminal](/dictionary/terminal/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/bash-script/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -13625,6 +13702,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Production Pipeline nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-12
+
+Yazılımın geliştirilip test edildikten sonra kullanıcılara ulaşana kadar geçtiği otomatikleştirilmiş süreçler zinciridir.
+
+## Tanım
+Production pipeline, kodun bilgisayarınızdan çıkıp canlı sunucuya güvenle ulaşmasını sağlayan bir üretim hattıdır. Bu süreçte kod otomatik olarak test edilir, hatalar kontrol edilir ve sunucuya gönderilir. İnsan müdahalesini en aza indirerek yazılımın her zaman güncel ve kararlı kalmasını sağlar.
+
+## Bir benzetmeyle
+Bir fabrikadaki montaj hattı gibidir; ham madde (kod) girer, çeşitli istasyonlarda kontrol edilir ve paketlenip rafa (canlı sistem) konur.
+
+## Nasıl çalışır?
+Geliştiriciler kodu sisteme yüklediğinde, pipeline devreye girer; önce testleri çalıştırır, başarılı olursa yazılımı günceller.
+
+## Nerede kullanılır?
+Modern yazılım şirketlerinde ve sürekli güncellenen uygulamalarda standart bir uygulamadır.
+
+## Sık karıştırılanlar
+Data pipeline ile karıştırılabilir; data pipeline veriyi taşır, production pipeline ise yazılımın kendisini yayına hazırlar.
+
+## Sıkça sorulanlar
+
+**Neden bu süreci otomatize ediyoruz?**  
+Hız kazanmak ve manuel hataları ortadan kaldırarak güvenliği artırmak için.
+
+## İlgili terimler
+- [CI/CD](/dictionary/ci-cd/)
+- [Data Pipeline](/dictionary/data-pipeline/)
+- [Deployment](/dictionary/deployment/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/production-pipeline/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Productivity nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -19308,6 +19424,47 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# VPS nedir?
+
+> Virtual Private Server
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-12
+
+İnternet üzerindeki güçlü bir fiziksel sunucunun, size özel bir bilgisayar gibi kiralanarak kullanılmasıdır.
+
+## Tanım
+VPS, devasa bir sunucunun yazılımsal olarak küçük parçalara bölünmesiyle oluşur. Her parça, kendi işletim sistemine ve kaynaklarına sahip olduğu için diğer kullanıcılardan bağımsız çalışır. Bu sayede kendi sunucunuz varmış gibi dilediğiniz yazılımı kurabilir ve yönetebilirsiniz.
+
+## Bir benzetmeyle
+Büyük bir apartmandaki bağımsız bir daire gibidir; binanın genel altyapısını paylaşırsınız ama kendi kapınız ve özel alanınız vardır.
+
+## Nasıl çalışır?
+Bir bulut sağlayıcısından VPS kiralarsınız, ardından uzaktan erişim yöntemleriyle sunucunuza bağlanıp istediğiniz ayarları yaparsınız.
+
+## Nerede kullanılır?
+Web sitelerini barındırmak, kişisel bulut sistemleri kurmak veya test ortamları oluşturmak için kullanılır.
+
+## Sık karıştırılanlar
+Paylaşımlı hosting ile karıştırılabilir; paylaşımlı hostingde kaynakları başkalarıyla ortak kullanırsınız, VPS'de ise size ayrılan kaynaklar garantidir.
+
+## Sıkça sorulanlar
+
+**VPS yönetmek için teknik bilgi gerekir mi?**  
+Evet, sunucu yönetimi ve güvenlik ayarları için temel düzeyde teknik bilgi gereklidir.
+
+## İlgili terimler
+- [Virtual Machines](/dictionary/virtual-machines/)
+- [Cloud Computing](/dictionary/cloud-computing/)
+- [Self-hosting](/dictionary/self-hosting/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/vps/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # VRAM nedir?
 
 > Video Random Access Memory
@@ -20250,6 +20407,39 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Uygulamalı projelerle yazılım geliştirme rehberi
+
+Project-based learning, yazılım geliştirme süreçlerini uygulamalı projeler üzerinden öğreten kaynakları bir araya getiren bir liste. Farklı programlama dilleriyle gerçek dünya uygulamaları geliştirmek isteyenler için kapsamlı bir rehber sunuyor.
+
+- ★ 278.578
+- Python
+- GitHub Trending · 2026-08-12
+
+## Ne kazandırır?
+- Farklı programlama dilleri için proje odaklı öğrenme kaynakları sunar.
+- Sıfırdan uygulama geliştirme süreçlerini adım adım öğretir.
+- İşletim sistemi ve veritabanı gibi karmaşık sistemlerin nasıl kurulacağını gösterir.
+
+## Nasıl başlanır?
+
+Bu bir yazılım listesi olduğu için kurulum gerektirmez. İlgilendiğiniz programlama dilini listeden seçerek altındaki bağlantılara tıklayabilir ve projeleri incelemeye başlayabilirsiniz.
+- [Resmî kaynak →](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+- **Kimin için:** Yazılım geliştirme süreçlerini teorik bilgiler yerine gerçek dünya uygulamaları inşa ederek öğrenmek isteyen geliştiriciler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/practical-tutorials/project-based-learning)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/project-based-learning/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Kodlama Ajanları İçin Gelişmiş Metodoloji
 
 Superpowers , kodlama ajanlarınız için bileşik becerilerden oluşan kapsamlı bir yazılım geliştirme metodolojisidir. Ajan tabanlı iş akışlarını standartlaştırır. Claude Code, Codex CLI, Gemini CLI ve daha fazlasıyla birlikte çalışır.
@@ -20594,7 +20784,7 @@ Belirlediğim hedefe ulaşmak için internette arama yapma, dosya yönetimi ve i
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Autonomous AI Agents AI Agents Agents Artificial Intelligence
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/autogpt/
@@ -20787,10 +20977,60 @@ Lisans: GitHub bu repo için standart bir lisans tespit etmedi. Anthropic'in res
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Skill Plugin Skill AI Skills PDF Artificial Intelligence
+Plugin Skill AI Skills PDF Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/anthropic-skills/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Yapay zekâ modellerini eğitmek ve çalıştırmak
+
+Hugging Face tarafından geliştirilen Transformers, metin, görüntü ve ses gibi farklı veri türlerinde güncel makine öğrenimi modellerini eğitmek ve çalıştırmak için kullanılan bir kütüphanedir. Geliştiricilere popüler yapay zekâ modellerine erişim ve bu modeller üzerinde ince ayar (fine-tuning) yapma imkânı sağlar.
+
+- ★ 163.880
+- Python
+- GitHub Trending · 2026-08-12
+
+## Ne kazandırır?
+- Metin, görüntü ve ses modellerine erişim sağlar.
+- Modeller üzerinde ince ayar yapmayı kolaylaştırır.
+- Geniş model kütüphanesiyle hızlı geliştirme imkânı sunar.
+
+## Kurulum
+
+**Kaynak koddan kurulum**
+
+```
+git clone https://github.com/huggingface/transformers.git
+cd transformers
+
+# pip
+pip install '.[torch]'
+
+# uv
+uv pip install '.[torch]'
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Transformers kütüphanesini kullanarak bir metin oluşturma modeli çalıştırmak istiyorum. Pipeline API'sini kullanarak nasıl hızlı bir başlangıç yapabilirim? Adım adım kod örneği ve açıklama ile yardımcı olur musun?
+
+- **Kimin için:** Makine öğrenimi modelleriyle çalışmak isteyen yazılımcılar ve yapay zekâ araştırmacıları için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/huggingface/transformers)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Fine-tuning Pipeline API Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/transformers/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -21032,7 +21272,7 @@ Bu araç herhangi bir kurulum gerektirmeyen bir bilgi arşividir. İncelemek ist
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-System Prompts AI Models Prompts Tools Generative AI Artificial Intelligence
+System Prompts AI Models Tools Generative AI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/system-prompts-and-models-of-ai-tools/
@@ -21092,7 +21332,7 @@ Agency Agents projesindeki uzman yapay zekâ ajanlarını kullanarak çalışma 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Shell Agents Artificial Intelligence
+Shell Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agency-agents/
@@ -21506,7 +21746,7 @@ Görsel üretim sürecim için düğüm tabanlı bir iş akışı oluşturmak is
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Diffusion Models API Artificial Intelligence
+API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/comfyui/
@@ -21519,17 +21759,17 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını sağlayan C ve C++ tabanlı bir çıkarım (inference) kütüphanesidir. Yazılım, düşük bellek kullanımı ve yüksek performans odaklı yapısıyla yerel cihazlarda yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.
 
-- ★ 123.386
+- ★ 123.392
 - C++
 - GitHub Trending · 2026-06-08
 
 TreScout notu: Dil modellerini kendi bilgisayarınızda, sunucu kiralamadan çalıştırır. Kurulum artık kolay ama beklentiyi ayarlayın: Küçük modeller hızlı, büyükleri belleğinizi zorlar ve bulut hizmetlerinin cevap kalitesini beklemeyin.
 
 ## Güncelleme
+- 11 Ağustos 2026: Yıldız 123.386 → 123.392, son sürüm b10357 (11 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 123.241 → 123.386, son sürüm b10356 (11 Ağustos 2026).
 - 10 Ağustos 2026: Yıldız 123.145 → 123.241, son sürüm b10333 (9 Ağustos 2026).
 - 9 Ağustos 2026: Yıldız 123.043 → 123.145, son sürüm b10331 (8 Ağustos 2026).
-- 8 Ağustos 2026: Yıldız 123.019 → 123.043, son sürüm b10327 (8 Ağustos 2026).
 
 ## Ne kazandırır?
 - Büyük dil modellerini standart donanımlarda verimli çalıştırır.
@@ -21683,10 +21923,43 @@ Eğitim içeriğine başlamak için GitHub üzerindeki resmî sayfayı ziyaret e
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Jupyter Notebook Generative AI Jupyter Notebooks Artificial Intelligence
+Generative AI Jupyter Notebooks Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/generative-ai-for-beginners/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# MacOS için kapsamlı yazılım arşivi
+
+Awesome-mac, macOS işletim sistemi için geliştirilmiş yüksek kaliteli yazılımları kategorize ederek listeleyen kapsamlı bir kaynak deposu. Kullanıcıların ihtiyaçlarına uygun uygulamaları kolayca bulmasını sağlayan bu arşiv, sistemli bir düzenleme aracı işlevi görüyor.
+
+- ★ 110.586
+- Swift
+- GitHub Trending · 2026-08-12
+
+## Ne kazandırır?
+- İhtiyaca uygun uygulamaları hızlıca bulma
+- Sistemli ve kategorize edilmiş yazılım listesi
+- Yüksek kaliteli macOS araçlarına erişim
+
+## Nasıl başlanır?
+
+Bu araç bir yazılım kurulumu gerektirmez. İlgili GitHub sayfasını ziyaret ederek kategorize edilmiş macOS uygulamaları listesine göz atabilir ve ihtiyaç duyduğunuz yazılımları doğrudan inceleyebilirsiniz.
+- [Resmî kaynak →](https://git.io/macx)
+
+- **Kimin için:** Yeni bir Mac kullanıcısı olan veya sistemini en iyi araçlarla donatmak isteyen herkes için uygundur. 
+- **Lisans:** CC0-1.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/jaywcjlove/awesome-mac)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-mac/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -22673,6 +22946,63 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Node.js sürümlerini kolayca yönetin
+
+Node Version Manager, geliştiricilerin sistemlerinde birden fazla Node.js sürümünü yönetmelerine olanak tanıyan bir komut satırı aracı. POSIX uyumlu kabuk betiği (bash script) yapısıyla farklı projeler arasında hızlı sürüm geçişleri yapmayı kolaylaştırıyor.
+
+- ★ 94.520
+- Shell
+- GitHub Trending · 2026-08-12
+
+## Ne kazandırır?
+- Farklı Node.js sürümleri arasında hızlı geçiş yapın
+- POSIX uyumlu kabuklarda sorunsuz çalışın
+- Projeye özel Node.js sürümlerini kolayca kurun
+
+## Kurulum
+
+**cURL kullanarak kurulum**
+
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.6/install.sh | bash
+```
+
+**Wget kullanarak kurulum**
+
+```
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.6/install.sh | bash
+```
+
+## Çalıştırma
+
+**Node.js sürümü kurma ve kullanma**
+
+```
+nvm install 24
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bilgisayarımda birden fazla Node.js sürümünü yönetmek istiyorum. NVM aracını kullanarak 24 numaralı Node.js sürümünü nasıl kurarım ve farklı sürümler arasında nasıl geçiş yapabilirim? Komut satırında sürüm değiştirme işlemini adım adım açıklar mısın?
+
+- **Kimin için:** Farklı projelerde farklı Node.js sürümlerine ihtiyaç duyan yazılım geliştiricileri için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/nvm-sh/nvm)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Bash Script Script Shell Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/nvm/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ Ajanınıza Kalıcı Hafıza Kazandırın
 
 claude-mem , AI ajanlarınızın oturumlar arası hatırlama yapabilmesini sağlar. Bir oturumda gerçekleşen her şeyi yakalar, AI ile anlamlı özetlere dönüştürür ve sonraki oturumda ilgili bağlamı geri sunar. Claude Code, Codex, Gemini, Copilot ve OpenCode ile uyumludur.
@@ -22735,6 +23065,63 @@ Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-mem/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Matematiksel kavramları animasyonla görselleştirin
+
+Manim, matematiksel kavramları görselleştirmek için kullanılan Python tabanlı bir animasyon motoru. Karmaşık teorileri açıklayıcı videolara dönüştürmek isteyen içerik üreticileri için programatik bir çözüm sunuyor.
+
+- ★ 90.306
+- Python
+- GitHub Trending · 2026-08-12
+
+## Ne kazandırır?
+- Matematiksel teorileri görselleştiren hassas animasyonlar oluşturur
+- Kod yazarak açıklayıcı videolar üretilmesini sağlar
+- Özelleştirilebilir sahne ve görüntü ayarları sunar
+
+## Kurulum
+
+**Doğrudan kurulum**
+
+```
+pip install manimgl
+```
+
+**Geliştirici modu kurulumu**
+
+```
+pip install -e .
+```
+
+## Çalıştırma
+
+**Örnek sahneyi başlatma**
+
+```
+manimgl example_scenes.py OpeningManimExample
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Matematiksel bir kavramı açıklayan, Python diliyle yazılmış hassas bir animasyon hazırlamam gerekiyor. Manim kütüphanesini kullanarak, karmaşık teorileri görselleştiren ve adım adım açıklayan bir sahne kodu oluştur. Kodun, FFmpeg video işleme aracı ve LaTeX dizgi sistemi ile uyumlu çalışmasını sağla.
+
+- **Kimin için:** Matematiksel konuları görselleştirerek açıklayıcı videolar hazırlamak isteyen içerik üreticileri içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/3b1b/manim)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/manim/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -23664,7 +24051,7 @@ Bir yapay zekâ yöneticisi gibi davranarak, belirlediğim ana iş hedefine ula�
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agents Agents Artificial Intelligence
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/paperclip/
@@ -24808,7 +25195,7 @@ Kurulum komutlarını kullanmak istemiyorsanız, projenin GitHub sayfasındaki B
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Notebooks Jupyter Notebook Jupyter Notebooks Artificial Intelligence
+Notebooks Jupyter Notebooks Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-for-beginners/
@@ -24847,7 +25234,7 @@ Bu araç bir yazılım kurulumu gerektirmez. GitHub üzerindeki System Prompts L
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-System Prompts Prompts Artificial Intelligence
+System Prompts Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/system-prompts-leaks/
@@ -25268,7 +25655,7 @@ Sen bir yapay zekâ ajanısın. Last30days-skill aracını kullanarak [ARANACAK 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agent Skill Agent Skill AI Agent Skill Agent Artificial Intelligence
+AI Agent Skill AI Agent Skill Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/last30days-skill/
@@ -25984,7 +26371,7 @@ Claude Cookbooks deposuna GitHub üzerinden erişerek kullanmak istediğiniz Jup
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Cookbooks Notebooks Jupyter Notebook Jupyter Notebooks API Artificial Intelligence
+Cookbooks Notebooks Jupyter Notebooks API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-cookbooks/
@@ -26205,7 +26592,7 @@ Chrome DevTools MCP sunucusunu kullanarak aktif tarayıcı oturumuma bağlan ve 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Chrome DevTools Coding Agents Model Context Protocol Model Context Protocol Context Agents
+Chrome DevTools Model Context Protocol Model Context Protocol Context MCP Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/chrome-devtools-mcp/
@@ -26460,7 +26847,7 @@ Projenin resmî GitHub sayfasını ziyaret ederek '教程目录' başlığı alt
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Jupyter Notebook Jupyter Notebooks Large Language Models Artificial Intelligence
+Jupyter Notebooks Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/dive-into-llms/
@@ -26774,7 +27161,7 @@ Lisans: GitHub standart bir lisans tespit etmedi. İçeriği takip etmek/öğren
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Pipelines Artificial Intelligence
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/data-engineering-zoomcamp/
@@ -27607,7 +27994,7 @@ Bilgisayarımda veya tarayıcımda gerçekleştirmemi istediğin karmaşık bir 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Multimodal AI Models AI Agents Agents Artificial Intelligence
+Multimodal AI Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ui-tars-desktop/
@@ -28449,7 +28836,7 @@ Sen bir yapay zekâ ajanı geliştirme uzmanısın. Bana 'Agent = LLM + Bağlam 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agent RAG AI Agents PDF Agents LLM
+AI Agent RAG PDF LLM Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-agent-book/
@@ -28891,7 +29278,7 @@ Claude Code arayüzü içerisinde '/plugin > Discover' menüsünü kullanarak me
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Tools Plugins Plugin
+Tools Plugin
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-plugins-official/
@@ -29665,7 +30052,7 @@ AirLLM kütüphanesini kullanarak 70B parametreli bir modeli düşük VRAM kapas
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-VRAM Jupyter Notebook Jupyter Notebooks Large Language Models Artificial Intelligence
+VRAM Jupyter Notebooks Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/airllm/
@@ -30477,7 +30864,7 @@ Projemin görsel kimliğini ve tasarım sistemini tanımlayan DESIGN.md dosyası
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Design Systems DESIGN.md Artificial Intelligence
+DESIGN.md Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/design-md/
@@ -30842,7 +31229,7 @@ Claude Cowork kullanıyorsanız, arayüzdeki 'Customize' menüsüne giderek 'Bro
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic Skills Plugins Agentic AI Skills Artificial Intelligence
+Agentic Skills Agentic AI Skills Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pm-skills/
@@ -31369,7 +31756,7 @@ Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabi
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Plugins Plugin Open Source Artificial Intelligence
+Plugin Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/knowledge-work-plugins/
@@ -31691,7 +32078,7 @@ PentAGI sistemini kullanarak hedef sistem üzerinde otonom bir sızma testi baş
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Penetration Testing AI Agents Agents Artificial Intelligence
+Penetration Testing Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pentagi/
@@ -32325,15 +32712,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli (LLM) ajanlarını hibrit bir yapıda birleştiriyor. Yazılım güvenliği kuralları ve satır bazlı yorumlama yetenekleriyle donatılan araç, Go diliyle yazılmış olup OpenAI ve Anthropic uyumlu bir altyapı sunuyor.
 
-- ★ 19.972
+- ★ 19.983
 - Go
 - GitHub Trending · 2026-07-24
 
 ## Güncelleme
+- 11 Ağustos 2026: Yıldız 19.972 → 19.983, son sürüm v1.9.1 (11 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 19.417 → 19.972, son sürüm v1.9.0 (10 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 19.239 → 19.417, son sürüm v1.8.10 (7 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 18.105 → 19.239, son sürüm v1.8.9 (6 Ağustos 2026).
-- 3 Ağustos 2026: Yıldız 17.804 → 18.105, son sürüm v1.8.6 (3 Ağustos 2026).
 
 ## Ne kazandırır?
 - Satır bazlı hassas hata tespiti
@@ -32361,7 +32748,7 @@ Open Code Review aracını kullanarak mevcut Git değişikliklerimi incele. Kod 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Pipelines Code Review Token LLM CLI Artificial Intelligence
+Code Review Token LLM CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-code-review/
@@ -32467,7 +32854,7 @@ Set up https://github.com/browser-use/video-use for me. Read install.md first to
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Scripts Coding Agents Skill Agents Agent API
+Skill Agent API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/video-use/
@@ -33622,7 +34009,7 @@ Aisuite kütüphanesini kullanarak farklı yapay zekâ modellerini tek bir aray�
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Generative AI Agents API Artificial Intelligence
+Generative AI API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/aisuite/
@@ -34976,7 +35363,7 @@ LiveKit Agents kullanarak gerçek zamanlı sesli etkileşim kurabilen bir yapay 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agents LLM Framework Agent Artificial Intelligence
+LLM Framework Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agents/
@@ -35664,7 +36051,7 @@ Meshery'yi kullanmaya başlamak için tarayıcınız üzerinden meshery.io adres
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Cloud Native Service Mesh Script Mesh CLI
+Cloud Native Service Mesh Bash Script Script Mesh CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/meshery/
@@ -35721,7 +36108,7 @@ NVIDIA Cosmos platformunu kullanarak fiziksel yapay zekâ uygulamaları gelişti
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Physical AI World Models Jupyter Notebook Jupyter Notebooks Artificial Intelligence
+Physical AI Jupyter Notebooks Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cosmos/
@@ -35793,7 +36180,7 @@ Bu aracı kullanarak kendi yerel sesli ajanımı kurmak istiyorum. VAD, STT, LLM
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Voice Agents Speech-to-Speech Agents LLM Artificial Intelligence
+Voice Agents Speech-to-Speech LLM Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/speech-to-speech/
@@ -35904,6 +36291,7 @@ Unciv, Civilization V oyununun açık kaynak kodlu bir masaüstü ve Android uya
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
+- 11 Ağustos 2026: Yıldız 11.085 → 11.085, son sürüm 4.21.7-patch1 (11 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 11.075 → 11.085, son sürüm 4.21.7 (10 Ağustos 2026).
 - 9 Ağustos 2026: Yıldız 11.043 → 11.075, son sürüm 4.21.6 (8 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 10.739 → 11.043, son sürüm 4.21.5 (2 Ağustos 2026).
@@ -36116,7 +36504,7 @@ Kurulum ve kullanım detayları için GitHub deposundaki dokümantasyon bölüm�
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Sandbox SDK AI Agents Agents Rust Artificial Intelligence
+Sandbox SDK Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cubesandbox/
@@ -36715,7 +37103,7 @@ Set up ego lite for me: https://github.com/citrolabs/ego-lite. Read `skills/ego-
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agents Skill AI Skills Agents Artificial Intelligence
+Skill AI Skills Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ego-lite/
@@ -36958,7 +37346,7 @@ Lisans: MIT · içeriği ve kodu özgürce kullanabilir, uyarlayabilir, paylaşa
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Transformer Jupyter Notebook Jupyter Notebooks GPU LLM Open Source
+Transformer Jupyter Notebooks GPU LLM Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/train-llm-from-scratch/
@@ -37449,7 +37837,7 @@ Bu projede Antigravity çalışma alanı kurdum ve AG Kit araçlarını aktif et
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic Systems Agentic AI Agents Agents Artificial Intelligence
+Agentic Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ag-kit/
@@ -37644,7 +38032,7 @@ Stitch Skills kütüphanesini kullanarak mevcut arayüz kodumu analiz et ve bunu
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Coding Agents Agent Skills AI Skills Agents MCP Agent
+Agent Skills AI Skills MCP Agent CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stitch-skills/
@@ -38449,7 +38837,7 @@ Sen bir yapay zekâ mühendislik asistanısın. Karmaşık yazılım geliştirme
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Vibe Coding Agentic Engineering Agentic Token AI Agents Agents
+Vibe Coding Agentic Engineering Agentic Token CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/glm-5/
@@ -38564,7 +38952,7 @@ Bundan sonra sana vereceğim görevlerde, yerel hizmetlere erişim sağlamak iç
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Skill Sets AI Agents Skill Agents Artificial Intelligence
+Skill Sets Skill Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/k-skill/
@@ -38798,7 +39186,7 @@ Whichllm aracını kullanarak donanım özelliklerime en uygun yerel büyük dil
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Benchmarks Benchmark CPU GPU Large Language Models Artificial Intelligence
+Benchmark CPU GPU Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/whichllm/
@@ -39020,7 +39408,7 @@ Google Cloud üzerinde bir yapay zekâ ajanı geliştirmek istiyorum. agents-cli
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Google Cloud Agents CLI Artificial Intelligence
+Google Cloud CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agents-cli/
@@ -39377,7 +39765,7 @@ Bu araç, OpenAI eklentileri için örnek bir koleksiyon sunan bir depodur. Kull
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Plugins Artificial Intelligence
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/plugins/
@@ -40318,7 +40706,7 @@ Code-Graph-RAG aracını kullanarak kod depomu analiz et. Kod tabanındaki fonks
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Monorepo Knowledge Graphs RAG Artificial Intelligence
+Monorepo RAG Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/code-graph-rag/
@@ -40404,16 +40792,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 pi-subagents , Pi platformu üzerinde asenkron alt-ajan delegasyonu süreçlerini yönetmek için geliştirilmiş bir TypeScript kütüphanesidir. Karmaşık iş yüklerini alt-ajanlara dağıtmayı kolaylaştırır.
 
-- ★ 3.060
+- ★ 3.078
 - TypeScript
 - Lisans: yok
 - GitHub Trending · 1 Haziran 2026
 
 ## Güncelleme
+- 11 Ağustos 2026: Yıldız 3.060 → 3.078, son sürüm v0.46.0 (11 Ağustos 2026).
 - 10 Ağustos 2026: Yıldız 3.044 → 3.060, son sürüm v0.45.2 (10 Ağustos 2026).
 - 9 Ağustos 2026: Yıldız 3.013 → 3.044, son sürüm v0.44.0 (8 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 2.973 → 3.013, son sürüm v0.43.0 (7 Ağustos 2026).
-- 7 Ağustos 2026: Yıldız 2.911 → 2.973, son sürüm v0.42.1 (6 Ağustos 2026).
 
 - **Kimin için:** Pi platformunda ajan geliştirenler 
 - **Zorluk:** İleri · geliştirici kütüphanesi 
@@ -40750,7 +41138,7 @@ Sen bir sızma testi uzmanısın. VulnClaw aracını kullanarak hedef sistem üz
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-30 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol Context AI Agents Agents MCP
+Model Context Protocol Model Context Protocol Context MCP Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vulnclaw/
@@ -40794,7 +41182,7 @@ Lisans: GitHub standart bir lisans tespit etmedi. Yeniden kullanım/dağıtım �
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Plugins Artificial Intelligence
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cursor-plugins/
@@ -40926,7 +41314,7 @@ Sen bir arka plan yazılım ajanısın. Belirlediğim görevleri Node.js, Python
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agents Agents Artificial Intelligence
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/background-agents/
@@ -41085,7 +41473,7 @@ Lisans: GitHub standart bir lisans tespit etmedi. Yeniden kullanım öncesi repo
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-World Models Open Source Artificial Intelligence
+Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stable-worldmodel/
@@ -41189,7 +41577,7 @@ Sen bir yazılım geliştirme ekibinin parçasısın. Swarm Forge sisteminin kur
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agents Agents Terminal Artificial Intelligence
+Terminal Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/swarm-forge/
@@ -41566,7 +41954,7 @@ Bonsai-demo projesini kullanarak yerel cihazımda yapay zekâ modellerini çalı
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Scripts Machine Learning Shell Token Artificial Intelligence
+Machine Learning Shell Token Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/bonsai-demo/

@@ -27,7 +27,7 @@ Projenin resmî GitHub sayfasını ziyaret ederek '教程目录' başlığı alt
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Jupyter Notebook Jupyter Notebooks Large Language Models Artificial Intelligence
+Jupyter Notebooks Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/dive-into-llms/

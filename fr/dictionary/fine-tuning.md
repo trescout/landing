@@ -29,6 +29,7 @@ Non, la mise au point est un processus permanent ; Il est beaucoup plus logique 
 - [Distillation](/fr/dictionary/distillation/)
 
 ## Outils liés
+- [Transformers](/fr/discover/transformers/)
 - [Ktransformers](/fr/discover/ktransformers/)
 
 ---

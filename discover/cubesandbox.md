@@ -37,7 +37,7 @@ Kurulum ve kullanım detayları için GitHub deposundaki dokümantasyon bölüm�
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Sandbox SDK AI Agents Agents Rust Artificial Intelligence
+Sandbox SDK Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cubesandbox/

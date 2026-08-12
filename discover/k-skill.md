@@ -38,7 +38,7 @@ Bundan sonra sana vereceğim görevlerde, yerel hizmetlere erişim sağlamak iç
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Skill Sets AI Agents Skill Agents Artificial Intelligence
+Skill Sets Skill Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/k-skill/

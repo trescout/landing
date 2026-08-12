@@ -45,7 +45,7 @@ Bir yapay zekâ yöneticisi gibi davranarak, belirlediğim ana iş hedefine ula�
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Agents Agents Artificial Intelligence
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/paperclip/
