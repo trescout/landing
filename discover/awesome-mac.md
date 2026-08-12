@@ -2,9 +2,12 @@
 
 Awesome-mac, macOS işletim sistemi için geliştirilmiş yüksek kaliteli yazılımları kategorize ederek listeleyen kapsamlı bir kaynak deposu. Kullanıcıların ihtiyaçlarına uygun uygulamaları kolayca bulmasını sağlayan bu arşiv, sistemli bir düzenleme aracı işlevi görüyor.
 
-- ★ 110.586
+- ★ 110.588
 - Swift
 - GitHub Trending · 2026-08-12
+
+## Güncelleme
+- 12 Ağustos 2026: Yıldız 110.586 → 110.588, son sürüm v2.1.0 (30 Mart 2026).
 
 ## Ne kazandırır?
 - İhtiyaca uygun uygulamaları hızlıca bulma

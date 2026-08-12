@@ -2,12 +2,13 @@
 
 ASP.NET Core, Windows, macOS ve Linux üzerinde modern bulut tabanlı web uygulamaları geliştirmek için kullanılan platformlar arası bir .NET çerçevesidir (framework). C# diliyle geliştirilen bu yapı, yüksek performanslı ve ölçeklenebilir web hizmetleri oluşturmaya olanak tanır.
 
-- ★ 38.339
+- ★ 38.367
 - GitHub Trending · 2026-06-19
 
 TreScout notu: Microsoft'un web uygulaması geliştirme altyapısı. Windows'a bağlı olduğu algısı eskidir, Linux'ta da sorunsuz çalışır. Kurumsal işlerde güçlüdür: Kullanıcı girişi, veri tabanı erişimi ve izleme için hazır parçalar kutudan çıkar. C# dilini bilmiyorsanız öğrenme maliyeti yüksektir, küçük bir iş için ağır kalır.
 
 ## Güncelleme
+- 12 Ağustos 2026: Yıldız 38.339 → 38.367, son sürüm v10.0.11 (11 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 38.124 → 38.339, son sürüm v8.0.29 (14 Temmuz 2026).
 
 ## Ne kazandırır?

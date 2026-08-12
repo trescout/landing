@@ -2,10 +2,11 @@
 
 ASP.NET Core est un framework .NET multiplateforme utilisé pour développer des applications Web modernes basées sur le cloud sur Windows, macOS et Linux. Cette structure, développée en langage C#, permet de créer des services web performants et évolutifs.
 
-- ★ 38 339
+- ★ 38 367
 - GitHub Trending · 2026-06-19
 
 ## Mise à jour
+- 12 août 2026 : Star 38 339 → 38 367, dernière version v10.0.11 (11 août 2026).
 - 2 août 2026 : Étoile 38 124 → 38 339, dernière version v8.0.29 (14 juillet 2026).
 
 ## Ce que ça vous apporte

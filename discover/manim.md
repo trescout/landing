@@ -2,9 +2,12 @@
 
 Manim, matematiksel kavramları görselleştirmek için kullanılan Python tabanlı bir animasyon motoru. Karmaşık teorileri açıklayıcı videolara dönüştürmek isteyen içerik üreticileri için programatik bir çözüm sunuyor.
 
-- ★ 90.306
+- ★ 90.309
 - Python
 - GitHub Trending · 2026-08-12
+
+## Güncelleme
+- 12 Ağustos 2026: Yıldız 90.306 → 90.309, son sürüm v1.7.2 (13 Aralık 2024).
 
 ## Ne kazandırır?
 - Matematiksel teorileri görselleştiren hassas animasyonlar oluşturur

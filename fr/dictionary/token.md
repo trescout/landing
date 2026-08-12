@@ -33,8 +33,8 @@ Puisque les ordinateurs comprennent les nombres et non les mots, nous devons con
 - [Codebase Memory MCP](/fr/discover/codebase-memory-mcp/)
 - [Code Review Graph](/fr/discover/code-review-graph/)
 - [Book to Skill](/fr/discover/book-to-skill/)
-- [Open Code Review](/fr/discover/open-code-review/)
 - [TencentDB-Agent-Memory](/fr/discover/tencentdb-agent-memory/)
+- [Open Code Review](/fr/discover/open-code-review/)
 - [LMCache](/fr/discover/lmcache/)
 
 ---

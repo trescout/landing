@@ -2,9 +2,12 @@
 
 Manim is a Python-based animation engine used to visualize mathematical concepts. It offers a programmatic solution for content creators who want to turn complex theories into explainer videos.
 
-- ★ 90,306
+- ★ 90,309
 - Python
 - GitHub Trending · 2026-08-12
+
+## Update
+- August 12, 2026: Star 90.306 → 90.309, latest version v1.7.2 (December 13, 2024).
 
 ## What you get
 - Creates precise animations that visualize mathematical theories

@@ -2,11 +2,12 @@
 
 Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel veya uzak bir bilgisayarı kontrol etme yeteneği kazandıran bir TypeScript kütüphanesi. Bu araç, ajanların işletim sistemi üzerinde komut çalıştırmasına ve dosya sistemine erişerek karmaşık görevleri otomatize etmesine olanak tanıyor.
 
-- ★ 7.441
+- ★ 7.642
 - TypeScript
 - GitHub Trending · 2026-08-06
 
 ## Güncelleme
+- 12 Ağustos 2026: Yıldız 7.441 → 7.642, son sürüm @cloudflare/computer@0.2.0 (11 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 6.192 → 7.441.
 - 8 Ağustos 2026: Yıldız 4.985 → 6.192.
 - 7 Ağustos 2026: Yıldız 3.677 → 4.985.

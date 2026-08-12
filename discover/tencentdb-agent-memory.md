@@ -2,15 +2,15 @@
 
 TencentDB Agent Memory, yapay zekâ ajanları için dört aşamalı bir süreçle tamamen yerel uzun süreli bellek (long-term memory) çözümü sunuyor. Dış kaynaklı uygulama programlama arayüzlerine (API) ihtiyaç duymadan veri saklama ve geri çağırma işlemlerini gerçekleştiriyor.
 
-- ★ 18.953
+- ★ 20.021
 - TypeScript
 - GitHub Trending · 2026-07-09
 
 ## Güncelleme
+- 12 Ağustos 2026: Yıldız 18.953 → 20.021, son sürüm v2.0.0 (3 Ağustos 2026).
 - 10 Ağustos 2026: Yıldız 17.887 → 18.953, son sürüm v2.0.0 (3 Ağustos 2026).
 - 8 Ağustos 2026: Yıldız 16.699 → 17.887, son sürüm v2.0.0 (3 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 15.363 → 16.699, son sürüm v2.0.0 (3 Ağustos 2026).
-- 6 Ağustos 2026: Yıldız 12.420 → 15.363, son sürüm v2.0.0 (3 Ağustos 2026).
 
 ## Ne kazandırır?
 - Token kullanımını %61'e varan oranda düşürür

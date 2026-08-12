@@ -2,11 +2,12 @@
 
 Croc is a tool that provides secure file and data transfer between two computers using end-to-end encryption. This software, developed with the Go programming language, uses a temporary relay mechanism to facilitate the transfer process.
 
-- ★ 39,574
+- ★ 39,672
 - Go
 - GitHub Trending · 2026-07-22
 
 ## Update
+- 12 August 2026: Star 39,574 → 39,672, latest version v11.1.0 (11 August 2026).
 - 10 August 2026: Star 39,444 → 39,574, latest version v11.0.3 (10 August 2026).
 - August 7, 2026: Star 39,265 → 39,444, latest version v11.0.2 (August 6, 2026).
 - August 2, 2026: Star 36,970 → 39,265, latest version v11.0.1 (July 31, 2026).

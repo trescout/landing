@@ -2,10 +2,11 @@
 
 Developed by Lightricks, LTX-2 offers a Python inference and low-rank adaptation (LoRA) training package for artificial intelligence models that produce audio and video. This toolset allows users to train LTX-2 models with their own data and run model outputs on local systems.
 
-- ★ 8,554
+- ★ 8,587
 - GitHub Trending · 2026-06-19
 
 ## Update
+- August 12, 2026: Star 8,554 → 8,587, latest version v1.2.0 (August 11, 2026).
 - August 10, 2026: Star 7,550 → 8,554.
 
 ## What you get

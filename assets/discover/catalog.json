@@ -5581,7 +5581,7 @@
     "slug": "palmier-pro",
     "title": "Palmier Pro",
     "tagline": "Palmier Pro, macOS işletim sistemi üzerinde çalışan ve yapay zekâ destekli düzenleme araçları sunan bir video düzenleyici…",
-    "meta": "★ 13.373 · Swift",
+    "meta": "★ 13.401 · Swift",
     "image": "/assets/discover/og/palmier-pro.webp",
     "source": "GitHub",
     "date": "2026-06-20",
@@ -5589,7 +5589,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 13373,
+    "stars": 13401,
     "lite": false,
     "headline": "MacOS için yapay zekâlı video düzenleyici",
     "last_review": "2026-08-12",
@@ -5621,6 +5621,13 @@
         "onceki_yildiz": 13118,
         "surum": "v0.7.3",
         "surum_tarihi": "2026-08-10"
+      },
+      {
+        "tarih": "2026-08-12",
+        "yildiz": 13401,
+        "onceki_yildiz": 13373,
+        "surum": "v0.7.4",
+        "surum_tarihi": "2026-08-12"
       }
     ],
     "tagline_en": "Palmier Pro is a video editor that runs on the macOS operating system and offers artificial intelligence-supported editing tools…",
@@ -12237,7 +12244,7 @@
     "slug": "open-code-review",
     "title": "Open Code Review",
     "tagline": "Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli…",
-    "meta": "★ 19.983 · Go",
+    "meta": "★ 20.197 · Go",
     "image": "/assets/discover/og/open-code-review.webp",
     "source": "GitHub",
     "date": "2026-07-24",
@@ -12245,7 +12252,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 19983,
+    "stars": 20197,
     "lite": false,
     "headline": "Yapay zekâ destekli hassas kod inceleme",
     "last_review": "2026-08-12",
@@ -12291,6 +12298,13 @@
         "onceki_yildiz": 19972,
         "surum": "v1.9.1",
         "surum_tarihi": "2026-08-11"
+      },
+      {
+        "tarih": "2026-08-12",
+        "yildiz": 20197,
+        "onceki_yildiz": 19983,
+        "surum": "v1.9.2",
+        "surum_tarihi": "2026-08-12"
       }
     ],
     "tagline_en": "Open source code review tool developed by Alibaba, large language model with deterministic pipelines…",
@@ -13062,7 +13076,7 @@
     "slug": "openwork",
     "title": "Openwork",
     "tagline": "Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir…",
-    "meta": "★ 21.877 · TypeScript",
+    "meta": "★ 21.881 · TypeScript",
     "image": "/assets/discover/og/openwork.webp",
     "source": "GitHub",
     "date": "2026-07-30",
@@ -13070,7 +13084,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 21877,
+    "stars": 21881,
     "lite": false,
     "headline": "Yapay zekâ iş akışlarını paylaşın",
     "last_review": "2026-08-12",
@@ -13116,6 +13130,13 @@
         "onceki_yildiz": 21447,
         "surum": "v0.18.19",
         "surum_tarihi": "2026-08-11"
+      },
+      {
+        "tarih": "2026-08-12",
+        "yildiz": 21881,
+        "onceki_yildiz": 21877,
+        "surum": "v0.18.20",
+        "surum_tarihi": "2026-08-12"
       }
     ],
     "tagline_en": "Openwork is a platform developed as an open source alternative to the Claude Cowork platform and uses the opencode infrastructure.",

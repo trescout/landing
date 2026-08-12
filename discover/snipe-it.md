@@ -2,11 +2,12 @@
 
 Snipe-IT, bilişim teknolojileri varlıklarını ve yazılım lisanslarını takip etmeye yarayan açık kaynaklı bir yönetim sistemidir. PHP diliyle geliştirilen bu platform, kurumların envanter kayıtlarını ve kullanım döngülerini dijital ortamda düzenlemesine olanak tanır.
 
-- ★ 14.677
+- ★ 14.798
 - PHP
 - GitHub Trending · 2026-07-30
 
 ## Güncelleme
+- 12 Ağustos 2026: Yıldız 14.677 → 14.798, son sürüm v8.7.0 (11 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 14.536 → 14.677, son sürüm v8.6.3 (15 Haziran 2026).
 
 ## Ne kazandırır?

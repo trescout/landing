@@ -2,11 +2,12 @@
 
 Karakeep is a self-hostable content management application that collects links, notes and images in a single center. It facilitates digital archiving processes with artificial intelligence-supported automatic tagging and full text search features.
 
-- ★ 28,017
+- ★ 28,260
 - TypeScript
 - GitHub Trending · 2026-07-07
 
 ## Update
+- August 12, 2026: Star 28,017 → 28,260, latest version v0.33.2 (August 11, 2026).
 - August 2, 2026: Star 27,033 → 28,017, latest version v0.33.1 (August 1, 2026).
 
 ## What you get

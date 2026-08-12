@@ -2,11 +2,12 @@
 
 Karakeep, bağlantıları, notları ve görselleri tek bir merkezde toplayan, kendi sunucunuzda barındırabileceğiniz (self-hostable) bir içerik yönetim uygulamasıdır. Yapay zekâ destekli otomatik etiketleme (automatic tagging) ve tam metin arama (full text search) özellikleri ile dijital arşivleme süreçlerini kolaylaştırır.
 
-- ★ 28.017
+- ★ 28.260
 - TypeScript
 - GitHub Trending · 2026-07-07
 
 ## Güncelleme
+- 12 Ağustos 2026: Yıldız 28.017 → 28.260, son sürüm v0.33.2 (11 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 27.033 → 28.017, son sürüm v0.33.1 (1 Ağustos 2026).
 
 ## Ne kazandırır?

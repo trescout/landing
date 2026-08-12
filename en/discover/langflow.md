@@ -2,11 +2,12 @@
 
 Langflow is a Python-based development platform that offers a visual interface for building AI-powered agents and workflows. Users can design and deploy complex language model applications using drag-and-drop without writing code.
 
-- ★ 152,874
+- ★ 153,074
 - Python
 - GitHub Trending · 2026-07-03
 
 ## Update
+- August 12, 2026: Star 152,874 → 153,074, latest version v1.11.3 (August 11, 2026).
 - August 6, 2026: Star 152,754 → 152,874, latest version v1.11.2 (August 4, 2026).
 - August 2, 2026: Star 150,932 → 152,754, latest version v1.11.1 (July 28, 2026).
 

@@ -2,15 +2,15 @@
 
 CUA fournit une infrastructure open source pour les agents d'intelligence artificielle informatiques. Il rassemble un bac à sable, un kit de développement logiciel (SDK) et des outils de référence sous un même toit dans le but de former et d'évaluer les agents capables de contrôler les systèmes d'exploitation de bureau.
 
-- ★ 21 066
+- ★ 21 225
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Mise à jour
+- 12 août 2026 : Star 21 066 → 21 225, dernière version lume-v0.5.3 (11 août 2026).
 - 10 août 2026 : Star 20 990 → 21 066, dernière version cli-v0.1.14 (10 août 2026).
 - 7 août 2026 : Star 20 962 → 20 990, dernière version Fleet-v0.1.7 (7 août 2026).
 - 6 août 2026 : Star 20 909 → 20 962, dernière version sandbox-v0.1.27 (5 août 2026).
-- 4 août 2026 : Star 20 874 → 20 909, dernière version sandbox-v0.1.24 (3 août 2026).
 
 ## Ce que ça vous apporte
 - Contrôler les applications de bureau en arrière-plan

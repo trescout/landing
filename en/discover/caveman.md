@@ -2,11 +2,12 @@
 
 Caveman is a capability package developed for Claude Code that reduces token consumption by 65 percent by simplifying the language use of the artificial intelligence model. This tool aims to reduce processing costs by reducing complex commands to a primitive language structure.
 
-- ★ 95,589
+- ★ 97,574
 - JavaScript
 - GitHub Trending · 2026-07-03
 
 ## Update
+- August 12, 2026: Star 95,589 → 97,574, latest version v2.0.0 (August 11, 2026).
 - 4 August 2026: Star 95.226 → 95.589, latest version v1.10.0 (3 August 2026).
 - August 2, 2026: Star 81,688 → 95,226, latest version v1.9.1 (July 3, 2026).
 
