@@ -22,6 +22,7 @@ on:
 
 permissions:
   contents: write
+  issues: write        # ikiz-tara.py bulgu olunca issue açıyor
 
 concurrency:
   group: dict-sync
@@ -194,6 +195,15 @@ jobs:
       # yeniden yaratırsa 301 zinciri kırılır.
       - name: Birleştirilmiş terimler kontrolü
         run: python3 scripts/check-birlesmis-terimler.py
+
+      # YENİ ikiz arar · guard yalnız yapılmış birleşmeleri koruyor. Bulursa
+      # issue açar/günceller, hattı DÜŞÜRMEZ: birleştirme bir içerik kararı
+      # (hangi slug kalacak) · günlük yayını bunun için durdurmak yanlış olur.
+      - name: Yeni sözlük ikizi taraması
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/ikiz-tara.py
 
       # Çok dilli her sayfa diğer dillerdeki sürümünü bildirmeli ·
       # düzeltmesi: python3 scripts/hreflang-normalize.py
