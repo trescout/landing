@@ -1,0 +1,6 @@
+{
+  "name": "trescout-landing",
+  "private": true,
+  "type": "commonjs",
+  "description": "Landing statik site · Node betikleri CommonJS (require). Bu dosyanın TEK işi type'ı sabitlemek: rapor yayını landing'i app deposunun içine .landing/ olarak çekiyor ve app'in package.json'ı \"type\": \"module\" diyor. Kendi package.json'ımız olmayınca Node yukarı çıkıp onu buluyordu ve scripts/*.js dosyaları ES modül sayılıp 'require is not defined' ile düşüyordu (2026-08-12'de fark edildi · build-en.js, build-reports-en.js ve fix-all-headers-and-footers.js günlük yayında sessizce çalışmıyordu)."
+}
