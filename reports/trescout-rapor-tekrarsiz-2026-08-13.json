@@ -1,0 +1,284 @@
+{
+  "date": "2026-08-13",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Cathryn Lavery tarafından geliştirilen diagram-design, yapay zekâ destekli kodlama aracı Claude Code için hazırlanan 29 farklı editoryal diyagram türünü içeriyor. Bu kütüphane, karmaşık diyagramları standart şema araçları yerine doğrudan HTML ve ölçeklenebilir vektör grafikleri (SVG) kullanarak temiz bir şekilde sunuyor.",
+          "meta": "HTML · ★ 11.456 · +2.855 bugün"
+        },
+        {
+          "title": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "summary": "Macro, e-posta, sohbet, dokümanlar ve görev yönetimi gibi iş araçlarını ortak bir yapay zekâ hafızasıyla birleştiren bir çalışma alanı. Rust diliyle geliştirilen bu platform, farklı iş akışlarını tek bir arayüzde birbirine bağlı hale getiriyor.",
+          "meta": "Rust · ★ 2.066 · +227 bugün"
+        },
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "summary": "Python tabanlı ppt-master, belgeleri veya konu başlıklarını düzenlenebilir sunum dosyalarına (PowerPoint) dönüştüren bir yapay zekâ aracı. Yazılım, metinleri yerel şekiller, geçiş efektleri, animasyonlar ve veriye dayalı grafiklerle profesyonel sunumlara çevirerek kullanıcıların kendi şablonlarını kullanmasına olanak tanıyor.",
+          "meta": "Python · ★ 45.916 · +476 bugün",
+          "returning": true
+        },
+        {
+          "title": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "summary": "RAGFlow, büyük dil modelleri (LLM) için bağlam katmanı oluşturan açık kaynaklı bir getirme temelli üretim (RAG) motoru. Gelişmiş RAG tekniklerini ajan yetenekleriyle birleştirerek verilerin işlenmesini ve yanıtların doğruluğunu artırmayı hedefliyor.",
+          "meta": "Go · ★ 87.648 · +139 bugün"
+        },
+        {
+          "title": "NVIDIA-NeMo/Switchyard",
+          "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+          "summary": "NVIDIA tarafından geliştirilen Switchyard, Rust diliyle yazılmış yüksek performanslı bir yapay zekâ çıkarım (inference) motoru. Büyük dil modellerini (LLM) farklı donanım altyapılarında verimli şekilde çalıştırmak için optimize edilmiş bir çalışma zamanı (runtime) ortamı sunuyor.",
+          "meta": "Rust · ★ 923 · +421 bugün"
+        },
+        {
+          "title": "ZuodaoTech/everyone-can-use-english",
+          "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+          "summary": "Everyone-can-use-english, İngilizce öğrenme sürecini yapılandırılmış bir müfredatla destekleyen açık kaynaklı bir eğitim projesi. Dil becerilerini geliştirmek isteyen kullanıcılar için pratik yöntemler ve çalışma kaynakları sunuyor.",
+          "meta": "TypeScript · ★ 36.233 · +86 bugün"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot, tehdit istihbaratı ve saldırı yüzeyi haritalama süreçleri için açık kaynaklı istihbarat (OSINT) toplama işlemlerini otomatize eden bir araçtır. Python tabanlı bu yazılım, hedef sistemler hakkında veri toplayarak güvenlik analizlerini hızlandırır.",
+          "meta": "Python · ★ 20.413 · +74 bugün",
+          "returning": true
+        },
+        {
+          "title": "localsend/localsend",
+          "url": "https://github.com/localsend/localsend",
+          "summary": "LocalSend, farklı işletim sistemleri arasında dosya paylaşımına olanak tanıyan açık kaynaklı bir uygulama. Apple cihazların sunduğu AirDrop özelliğine platform bağımsız bir alternatif oluşturuyor.",
+          "meta": "Dart · ★ 87.961 · +213 bugün"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "summary": "Lightricks tarafından geliştirilen LTX-2, ses ve video üreten bir yapay zekâ modeli (generative model). Bu paket, modelin çıkarım (inference) süreçlerini çalıştırmak ve düşük dereceli uyarlama (LoRA) yöntemiyle ince ayar (fine-tuning) yapmak için gerekli Python araçlarını sunuyor.",
+          "meta": "Python · ★ 8.759 · +65 bugün",
+          "returning": true
+        },
+        {
+          "title": "embabel/embabel-agent",
+          "url": "https://github.com/embabel/embabel-agent",
+          "summary": "Embabel, Java Sanal Makinesi (JVM) üzerinde çalışan yapay zekâ ajanları geliştirmek için tasarlanmış bir çerçeve (framework). Kotlin diliyle yazılan bu yapı, kurumsal yazılım ekosistemlerinde üretken yapay zekâ (generative AI) yeteneklerinin entegrasyonunu kolaylaştırıyor.",
+          "meta": "Kotlin · ★ 4.255 · +40 bugün"
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Cactus Compute tarafından geliştirilen Needle, telefonlar, giyilebilir cihazlar ve robotlar gibi küçük donanımlarda çalışabilen 14 MB boyutunda bir temel model (foundation model) sunuyor. Bu hafif yapı, kısıtlı işlem gücüne sahip uç cihazlarda (edge devices) yapay zekâ uygulamalarının yerel olarak çalıştırılmasını hedefliyor.",
+          "meta": "Python · ★ 4.412 · +315 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+          "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+          "summary": "Ağ güvenliği aracı Tailscale, veri tabanı bozulmalarının temelinde 16 yıllık bir SQLite yazma ön günlüğü (write-ahead log) sıfırlama hatası olduğunu tespit etti. Şirket, bu teknik sorunu gideren güncellemeyi yayınlayarak veri bütünlüğü riskini ortadan kaldırdı.",
+          "meta": "914 oy · 177 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49272832",
+              "popularity": 914,
+              "engagementCount": 177
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal",
+              "popularity": 91,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "DeepSeek V4 Pro 0813",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+          "summary": "DeepSeek V4 Pro 0813, çok modlu yapay zekâ modellerine erişim sağlayan OpenRouter platformu üzerinden kullanıma sunulan yeni bir dil modelidir. Bu model, karmaşık mantıksal çıkarım ve kod yazma görevlerinde yüksek performans sergilemeyi amaçlıyor.",
+          "meta": "831 oy · 330 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49274600",
+              "popularity": 831,
+              "engagementCount": 330
+            }
+          ]
+        },
+        {
+          "title": "AI is removing the middle class of software engineering?",
+          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+          "summary": "Yapay zekâ araçları, yazılım geliştirme süreçlerinde giriş seviyesindeki görevleri otomatize ederek orta düzey yazılımcıların çalışma alanını daraltıyor. Bu değişim, şirketlerin daha az sayıda kıdemli mühendis ile yüksek verim almasını sağlayan yeni bir iş gücü yapısını beraberinde getiriyor.",
+          "meta": "812 oy · 740 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49271994",
+              "popularity": 812,
+              "engagementCount": 740
+            }
+          ]
+        },
+        {
+          "title": "License plate reader searches should require a warrant",
+          "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+          "summary": "Otomatik plaka tanıma sistemleri (automatic license plate readers) üzerinden yapılan araç takip aramalarının, kişisel gizlilik gerekçesiyle yasal bir arama emrine (warrant) bağlanması tartışılıyor. Bu sistemlerin topladığı verilerin denetimsiz kullanımının, bireylerin hareket özgürlüğü üzerinde oluşturduğu riskler üzerinde duruluyor.",
+          "meta": "568 oy · 336 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49273165",
+              "popularity": 568,
+              "engagementCount": 336
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Alibaba tarafından geliştirilen Qwen3.8-2.4T-A95B, metin üretme (text generation) odaklı büyük bir dil modelidir. Hugging Face platformunda paylaşılan bu model, geniş veri setleri üzerinde eğitilen yapısı ile çeşitli doğal dil işleme görevlerinde kullanılıyor.",
+          "meta": "♥ 587 · 978 indirme",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49273478",
+              "popularity": 558,
+              "engagementCount": 128
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Persistent Recursive Worlds Enable Autonomous Software Evolution",
+          "url": "https://huggingface.co/papers/2608.10450",
+          "summary": "EvoX Genesis, yazılım projelerini kalıcı ve özyinelemeli dünyalar olarak tanımlayarak yapay zekâ ajanlarının sınırlı ömürlerine rağmen sürekli bir gelişim süreci sağlıyor. Bu yaklaşım, yazılımın kendisini merkezi bir yapı olarak koruyup yerel kodlama ajanlarının geçici görevlerle projeyi ilerletmesine imkân tanıyor.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution",
+          "url": "https://huggingface.co/papers/2608.00677",
+          "summary": "OpenART, yapay zekâ ajanlarının uzun süreli iş akışlarındaki kümülatif risklerini değerlendirmek için geliştirilen açık uçlu bir test ortamı. Geleneksel statik kıyaslama testlerinin aksine, ajanların paylaşılan bir durum üzerindeki etkileşimlerini simüle ederek güvenlik açıklarını (red teaming) ölçeklenebilir şekilde tespit etmeyi amaçlıyor.",
+          "meta": "62 beğeni · 1 yorum"
+        },
+        {
+          "title": "AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models",
+          "url": "https://huggingface.co/papers/2608.06729",
+          "summary": "AtlasVLA, robotların görüş alanından çıkan nesneleri ve görev ilerleyişini hatırlamasını sağlayan bir görsel-dil-eylem (Vision-Language-Action) modeli çerçevesidir. Bu yöntem, robotik sistemlerin anlık tepki verme kısıtlamasını aşarak uzun süreli ve karmaşık görevleri daha tutarlı bir şekilde yönetmesine olanak tanır.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models",
+          "url": "https://huggingface.co/papers/2608.10708",
+          "summary": "Self-Geometry, görsel temel modellerin (vision foundation models) ürettiği derinlik ve kamera konumu gibi verilerdeki geometrik tutarsızlıkları, test aşamasında ek bir eğitim gerektirmeden gideren bir yöntemdir. Bu yaklaşım, karmaşık hesaplama maliyetleri oluşturan geleneksel yöntemlere ihtiyaç duymadan, modellerin üç boyutlu çıktılarını daha tutarlı hale getirir.",
+          "meta": "8 beğeni · 1 yorum"
+        },
+        {
+          "title": "Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives",
+          "url": "https://huggingface.co/papers/2608.08160",
+          "summary": "Büyük dil modelleri (large language models), etkileşimli hikâye anlatımında kullanıcı müdahalelerine rağmen mantıksal tutarlılığı korumakta zorlanıyor. Araştırmacılar tarafından geliştirilen NCP-Bench, bu modellerin uzun süreli anlatı bütünlüğünü (narrative integrity) ölçmek için standart bir değerlendirme çerçevesi sunuyor.",
+          "meta": "20 beğeni · 2 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I hate packaging my software for Linux",
+          "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+          "summary": "Yazılım geliştiriciler, Linux dağıtımlarının çeşitliliği nedeniyle uygulamaları paketleme sürecinde ciddi uyumluluk sorunları yaşıyor. Farklı sistem gereksinimleri ve paket formatları, geliştiricilerin dağıtım süreçlerini karmaşıklaştırarak zaman kaybına yol açıyor.",
+          "meta": "71 oy · 57 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux",
+              "popularity": 71,
+              "engagementCount": 57
+            }
+          ]
+        },
+        {
+          "title": "Guide to (not) fucking up QR codes",
+          "url": "https://infosec.exchange/@rebane2001/117078420917152774",
+          "summary": "Karekod (QR code) kullanımı, güvenlik ve erişilebilirlik açısından dikkat gerektiren teknik detaylar içeriyor. Hatalı tasarım ve yanlış yönlendirme risklerini azaltmak için kodların görsel netliği ile bağlantı güvenliğinin doğrulanması gerekiyor.",
+          "meta": "83 oy · 8 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/omcyaz/guide_not_fucking_up_qr_codes",
+              "popularity": 83,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "SVG",
+      "explanation": "Kalitesi bozulmadan istenildiği kadar büyütülüp küçültülebilen, matematiksel formüllerle çizilen dijital görsel dosyası."
+    },
+    {
+      "term": "ADE",
+      "explanation": "Yazılım geliştirme süreçlerini hızlandırmak için kullanılan, tüm araçların bir arada bulunduğu dijital çalışma ortamı."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken temel yapıyı hazır sunan, işleri kolaylaştıran bir kütüphane ve araçlar bütünü."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Çok geniş verilerle eğitilerek birçok farklı görevi yerine getirebilecek şekilde tasarlanmış temel yapay zekâ modeli."
+    },
+    {
+      "term": "PowerPoint",
+      "explanation": "Bilgileri görsel slaytlar halinde sunmanıza olanak tanıyan bir sunum hazırlama programı."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın cevap üretirken güncel ve özel belgelerinizden bilgi çekmesini sağlayan bir yöntem."
+    },
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekânın, öğrendiği bilgileri kullanarak yeni bir soruya cevap üretme süreci."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Bir yazılımın bilgisayar üzerinde çalıştırıldığı ve aktif olarak görevini yerine getirdiği süre."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "İnternette herkese açık olan kaynaklardan bilgi toplayıp analiz etme yöntemi."
+    },
+    {
+      "term": "generative model",
+      "explanation": "Daha önce görmediği yeni içerikleri, öğrendiği kalıpları kullanarak sıfırdan oluşturabilen yapay zekâ."
+    },
+    {
+      "term": "LoRA",
+      "explanation": "Büyük bir yapay zekâ modelini tümünü değiştirmeden, sadece küçük bir kısmını güncelleyerek belirli bir konuda uzmanlaştırma tekniği."
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "date": "2026-08-13",
+  "editorial": "Dans le monde du développement de logiciels, de nouvelles études universitaires se concentrent à la fois sur des problèmes d'infrastructure profondément enracinés tels que les erreurs de base de données SQLite et sur l'évolution autonome des logiciels. Sur le front des grands modèles de langage, les données de performances des architectures de nouvelle génération telles que DeepSeek et Qwen sont largement disponibles dans la communauté des développeurs.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design, développé par Cathryn Lavery, comprend 29 types de diagrammes éditoriaux différents préparés pour l'outil de codage basé sur l'intelligence artificielle Claude Code. Cette bibliothèque présente clairement des diagrammes complexes directement en utilisant HTML et des graphiques vectoriels évolutifs (SVG) au lieu des outils de création de diagrammes standard.",
+          "meta": "HTML · ★ 11 456 · +2 855 aujourd'hui"
+        },
+        {
+          "title": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "summary": "Macro est un espace de travail qui combine des outils professionnels tels que la messagerie électronique, le chat, la gestion de documents et de tâches avec une mémoire d'intelligence artificielle commune. Développée avec le langage Rust, cette plateforme connecte différents workflows dans une seule interface.",
+          "meta": "Rust · ★ 2 066 · +227 aujourd'hui"
+        },
+        {
+          "title": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "summary": "Semantica est une infrastructure graphique native qui assure la gestion des données contextuelles et la responsabilité dans les systèmes d'intelligence artificielle. Développé avec le langage Python, cet outil aide les modèles d'intelligence artificielle à produire des résultats plus cohérents et vérifiables en gérant des réseaux d'informations complexes.",
+          "meta": "Python · ★ 5 886 · +845 aujourd'hui"
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "Développé par Stably AI, Orca est un environnement de développement d'agents (ADE) qui permet de gérer simultanément plusieurs agents d'intelligence artificielle. Cet outil, qui fonctionne sur ordinateur, mobile et serveur privé virtuel (VPS), vous permet d'utiliser différents agents de codage en parallèle de vos propres abonnements.",
+          "meta": "TypeScript · ★ 44 177 · +1 235 aujourd'hui"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-agents est un framework d'automatisation qui rassemble des agents d'intelligence artificielle avec différents domaines d'expertise. Ces agents experts, qui assument diverses tâches telles que la conception, les logiciels et la gestion de communauté, ont pour objectif de gérer les processus métiers de bout en bout.",
+          "meta": "Shell · ★ 144 741 · +1 873 aujourd'hui"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos est un modèle de base conçu pour comprendre et analyser le langage complexe des marchés financiers. Elle propose une infrastructure d'intelligence artificielle spécialisée dans le traitement des données financières et l'interprétation des mouvements de marché.",
+          "meta": "Python · ★ 36 993 · +266 aujourd'hui"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler est un grattoir Web basé sur Python permettant d'extraire des données de contenu et de commentaires de plateformes de médias sociaux populaires (telles que Xiaohongshu, TikTok, Bilibili, Weibo). Il offre aux utilisateurs la possibilité de collecter des informations sur les publications et les interactions sur différentes plateformes via une structure centrale.",
+          "meta": "Python · ★ 62 109 · +215 aujourd'hui"
+        },
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "summary": "ppt-master basé sur Python est un outil d'intelligence artificielle qui convertit des documents ou des sujets en fichiers de présentation modifiables (PowerPoint). Le logiciel permet aux utilisateurs d'utiliser leurs propres modèles, transformant le texte en présentations professionnelles avec des formes natives, des effets de transition, des animations et des graphiques basés sur les données.",
+          "meta": "Python · ★ 45 916 · +476 aujourd'hui"
+        },
+        {
+          "title": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "summary": "RAGFlow est un moteur de génération basé sur la récupération (RAG) open source qui crée une couche de contexte pour les grands modèles de langage (LLM). Il vise à améliorer le traitement des données et la précision des réponses en combinant des techniques RAG avancées avec les capacités des agents.",
+          "meta": "Go · ★ 87 648 · +139 aujourd'hui"
+        },
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip est une application open source qui vous permet de gérer les agents IA sur le lieu de travail via une interface unique. Développé avec TypeScript, cet outil permet de contrôler les workflows des différents agents depuis un point central.",
+          "meta": "TypeScript · ★ 77 843 · +571 aujourd'hui"
+        },
+        {
+          "title": "NVIDIA-NeMo/Switchyard",
+          "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+          "summary": "Développé par NVIDIA, Switchyard est un moteur d'inférence d'intelligence artificielle hautes performances écrit en langage Rust. Il offre un environnement d'exécution optimisé pour exécuter efficacement des modèles de langage étendus (LLM) sur différentes infrastructures matérielles.",
+          "meta": "Rust · ★ 923 · +421 aujourd'hui"
+        },
+        {
+          "title": "ZuodaoTech/everyone-can-use-english",
+          "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+          "summary": "Everyone-can-use-english est un projet éducatif open source qui soutient le processus d'apprentissage de l'anglais avec un programme structuré. Il propose des méthodes pratiques et des ressources d'étude aux utilisateurs qui souhaitent améliorer leurs compétences linguistiques.",
+          "meta": "TypeScript · ★ 36 233 · +86 aujourd'hui"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot est un outil qui automatise la collecte de renseignements open source (OSINT) pour les processus de renseignement sur les menaces et de cartographie des surfaces d'attaque. Ce logiciel basé sur Python accélère l'analyse de sécurité en collectant des données sur les systèmes cibles.",
+          "meta": "Python · ★ 20 413 · +74 aujourd'hui"
+        },
+        {
+          "title": "localsend/localsend",
+          "url": "https://github.com/localsend/localsend",
+          "summary": "LocalSend est une application open source qui permet le partage de fichiers entre différents systèmes d'exploitation. Il crée une alternative indépendante de la plate-forme à la fonctionnalité AirDrop proposée par les appareils Apple.",
+          "meta": "Dart · ★ 87 961 · +213 aujourd'hui"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "summary": "LTX-2, développé par Lightricks, est un modèle d'intelligence artificielle (modèle génératif) qui produit de l'audio et de la vidéo. Ce package fournit les outils Python nécessaires pour exécuter les processus d'inférence du modèle et l'affiner à l'aide de la méthode d'adaptation d'ordre inférieur (LoRA).",
+          "meta": "Python · ★ 8 759 · +65 aujourd'hui"
+        },
+        {
+          "title": "embabel/embabel-agent",
+          "url": "https://github.com/embabel/embabel-agent",
+          "summary": "Embabel est un framework conçu pour développer des agents d'intelligence artificielle fonctionnant sur la machine virtuelle Java (JVM). Cette structure, écrite en Kotlin, facilite l'intégration des capacités d'IA générative dans les écosystèmes logiciels d'entreprise.",
+          "meta": "Kotlin · ★ 4 255 · +40 aujourd'hui"
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Développé par Cactus Compute, Needle propose un modèle de base de 14 Mo pouvant fonctionner sur du petit matériel tel que des téléphones, des appareils portables et des robots. Cette structure légère vise à exécuter localement des applications d’intelligence artificielle sur des appareils de périphérie dotés d’une puissance de traitement limitée.",
+          "meta": "Python · ★ 4 412 · +315 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+          "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+          "summary": "L'outil de sécurité réseau Tailscale a découvert qu'une erreur de réinitialisation du journal d'écriture anticipée SQLite datant de 16 ans était à l'origine de la corruption de la base de données. L'entreprise a éliminé le risque d'intégrité des données en publiant la mise à jour qui a résolu ce problème technique.",
+          "meta": "914 votes · 177 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49272832",
+              "popularity": 914,
+              "engagementCount": 177
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal",
+              "popularity": 91,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "DeepSeek V4 Pro 0813",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+          "summary": "DeepSeek V4 Pro 0813 est un nouveau modèle de langage disponible via la plateforme OpenRouter qui donne accès à des modèles d'IA multimodaux. Ce modèle vise à démontrer des performances élevées dans des tâches complexes d’inférence logique et de codage.",
+          "meta": "831 votes · 330 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49274600",
+              "popularity": 831,
+              "engagementCount": 330
+            }
+          ]
+        },
+        {
+          "title": "AI is removing the middle class of software engineering?",
+          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+          "summary": "Les outils d'intelligence artificielle réduisent l'espace de travail des développeurs de logiciels de niveau intermédiaire en automatisant les tâches d'entrée de gamme dans les processus de développement de logiciels. Ce changement entraîne une nouvelle structure de main-d'œuvre qui permet aux entreprises d'atteindre une plus grande efficacité avec moins d'ingénieurs expérimentés.",
+          "meta": "812 votes · 740 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49271994",
+              "popularity": 812,
+              "engagementCount": 740
+            }
+          ]
+        },
+        {
+          "title": "License plate reader searches should require a warrant",
+          "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+          "summary": "Il est en cours de discussion que les recherches de localisation de véhicules effectuées au moyen de lecteurs automatiques de plaques d'immatriculation devraient être soumises à un mandat de perquisition légal pour des raisons de respect de la vie privée. L'accent est mis sur les risques posés par l'utilisation incontrôlée des données collectées par ces systèmes sur la liberté de mouvement des individus.",
+          "meta": "568 votes · 336 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49273165",
+              "popularity": 568,
+              "engagementCount": 336
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Développé par Alibaba, Qwen3.8-2.4T-A95B est un grand modèle de langage axé sur la génération de texte. Ce modèle, partagé sur la plateforme Hugging Face, est utilisé dans diverses tâches de traitement du langage naturel avec sa structure formée sur de grands ensembles de données.",
+          "meta": "♥ 587 · 978 téléchargements",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49273478",
+              "popularity": 558,
+              "engagementCount": 128
+            }
+          ]
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "Muse-Glimmer-30B, publié sur HuggingFace, est un modèle d'IA multimodal qui traite les données visuelles et textuelles et produit des sorties textuelles. Le modèle analyse et donne un sens au contenu visuel complexe et génère des réponses textuelles dans les interactions des utilisateurs.",
+          "meta": "♥ 1 324 · 0 téléchargements"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, développé par MiniMax, est un modèle d'intelligence artificielle qui produit des vidéos à l'aide d'entrées visuelles et textuelles. Cette technologie offre la possibilité de convertir du contenu statique ou des commandes écrites fournies par les utilisateurs en images animées.",
+          "meta": "♥ 3 747 · 1 575 808 téléchargements"
+        },
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "MiniMax-H3-Turbo-Lora est un modèle d'adaptation de bas rang utilisé pour améliorer les capacités de conversion texte-vidéo. Ce fichier partagé sur HuggingFace est un poids de réglage pour optimiser les performances de production vidéo des modèles d'intelligence artificielle existants.",
+          "meta": "♥ 705 · 0 téléchargements"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731 est un modèle de génération de texte développé par DeepSeek. Ce modèle, hébergé sur Hugging Face, propose une structure optimisée pour les tâches de traitement du langage hautes performances.",
+          "meta": "♥ 3 255 · 1 048 685 téléchargements"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Persistent Recursive Worlds Enable Autonomous Software Evolution",
+          "url": "https://huggingface.co/papers/2608.10450",
+          "summary": "EvoX Genesis définit les projets logiciels comme des mondes persistants et récursifs, assurant un processus de développement continu malgré la durée de vie limitée des agents d'intelligence artificielle. Cette approche maintient le logiciel lui-même comme une structure centralisée, permettant aux agents de codage locaux de faire progresser le projet avec des tâches ad hoc.",
+          "meta": "1 j'aime · 1 commentaires"
+        },
+        {
+          "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution",
+          "url": "https://huggingface.co/papers/2608.00677",
+          "summary": "OpenART est un environnement de test ouvert développé pour évaluer les risques cumulatifs des agents d'intelligence artificielle dans les flux de travail à long terme. Contrairement aux benchmarks statiques traditionnels, il vise à détecter les vulnérabilités (red teaming) de manière évolutive en simulant les interactions des agents sur une situation partagée.",
+          "meta": "62 j'aime · 1 commentaires"
+        },
+        {
+          "title": "AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models",
+          "url": "https://huggingface.co/papers/2608.06729",
+          "summary": "AtlasVLA est un cadre de modèle Vision-Langage-Action qui permet aux robots de se souvenir des objets hors de vue et de la progression des tâches. Cette méthode permet aux systèmes robotiques de surmonter la limitation de la réponse instantanée et de gérer de manière plus cohérente des tâches complexes et à long terme.",
+          "meta": "1 j'aime · 1 commentaires"
+        },
+        {
+          "title": "Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models",
+          "url": "https://huggingface.co/papers/2608.10708",
+          "summary": "L'auto-géométrie est une méthode qui élimine les incohérences géométriques dans les données telles que la profondeur et la position de la caméra produites par les modèles de base de vision sans nécessiter de formation supplémentaire pendant la phase de test. Cette approche rend les sorties tridimensionnelles des modèles plus cohérentes, sans avoir besoin de méthodes traditionnelles qui génèrent des coûts de calcul complexes.",
+          "meta": "8 j'aime · 1 commentaires"
+        },
+        {
+          "title": "Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives",
+          "url": "https://huggingface.co/papers/2608.08160",
+          "summary": "Les grands modèles de langage ont du mal à maintenir une cohérence logique malgré les interventions des utilisateurs dans la narration interactive. Développé par des chercheurs, NCP-Bench propose un cadre d'évaluation standard pour mesurer l'intégrité narrative à long terme de ces modèles.",
+          "meta": "20 j'aime · 2 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I hate packaging my software for Linux",
+          "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+          "summary": "Les développeurs de logiciels sont confrontés à de sérieux problèmes de compatibilité lors du processus de création d'applications en raison de la diversité des distributions Linux. Les différentes exigences système et formats de packages compliquent les processus de déploiement des développeurs, entraînant une perte de temps.",
+          "meta": "71 votes · 57 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux",
+              "popularity": 71,
+              "engagementCount": 57
+            }
+          ]
+        },
+        {
+          "title": "Guide to (not) fucking up QR codes",
+          "url": "https://infosec.exchange/@rebane2001/117078420917152774",
+          "summary": "L'utilisation de codes QR implique des détails techniques qui nécessitent une attention particulière en termes de sécurité et d'accessibilité. Pour réduire les risques de conception défectueuse et de mauvaise orientation, la clarté visuelle des codes et la sécurité des connexions doivent être vérifiées.",
+          "meta": "83 votes · 8 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/omcyaz/guide_not_fucking_up_qr_codes",
+              "popularity": 83,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "SVG",
+      "explanation": "Un fichier image numérique dessiné avec des formules mathématiques qui peut être agrandi ou réduit à volonté sans perte de qualité."
+    },
+    {
+      "term": "graph-native",
+      "explanation": "Une structure de système qui fonctionne sur la base de relations complexes entre les données et place les connexions directement en son centre."
+    },
+    {
+      "term": "ADE",
+      "explanation": "Un environnement de travail numérique où tous les outils sont utilisés pour accélérer les processus de développement logiciel."
+    },
+    {
+      "term": "VPS",
+      "explanation": "Un serveur virtuel accessible via Internet, où les ressources d'un ordinateur hôte puissant sont divisées et réservées spécifiquement pour vous."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un ensemble de bibliothèques et d'outils qui fournissent la structure de base et facilitent les choses lors du développement de logiciels."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Un modèle d'intelligence artificielle de base conçu pour effectuer de nombreuses tâches différentes en étant formé avec un large éventail de données."
+    },
+    {
+      "term": "web scraper",
+      "explanation": "Un outil logiciel qui copie automatiquement les données des sites Web et les organise dans une liste organisée."
+    },
+    {
+      "term": "PowerPoint",
+      "explanation": "Un programme de préparation de présentation qui vous permet de présenter des informations dans des diapositives visuelles."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Une méthode qui permet à l’intelligence artificielle d’extraire des informations de vos documents actuels et privés tout en produisant des réponses."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Logiciel d'intelligence artificielle autonome capable de prendre des décisions par lui-même et d'effectuer des tâches ciblées."
+    },
+    {
+      "term": "inference",
+      "explanation": "Processus par lequel une intelligence artificielle entraînée produit une réponse à une nouvelle question en utilisant les informations qu’elle a apprises."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Temps pendant lequel un logiciel est exécuté sur l'ordinateur et exécute activement sa tâche."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Une méthode de collecte et d'analyse d'informations provenant de sources accessibles au public sur Internet."
+    },
+    {
+      "term": "generative model",
+      "explanation": "Une intelligence artificielle capable de créer de nouveaux contenus qu’elle n’a jamais vus auparavant, à partir de zéro en utilisant les modèles qu’elle a appris."
+    },
+    {
+      "term": "LoRA",
+      "explanation": "Il s’agit d’une technique permettant de spécialiser un grand modèle d’intelligence artificielle sur un sujet précis en n’en mettant à jour qu’une petite partie, sans changer l’ensemble du modèle."
+    }
+  ]
+}
