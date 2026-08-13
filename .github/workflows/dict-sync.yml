@@ -195,6 +195,11 @@ jobs:
       - name: Birleştirilmiş terimler kontrolü
         run: python3 scripts/check-birlesmis-terimler.py
 
+      # Çok dilli her sayfa diğer dillerdeki sürümünü bildirmeli ·
+      # düzeltmesi: python3 scripts/hreflang-normalize.py
+      - name: hreflang kontrolü
+        run: python3 scripts/check-hreflang.py
+
       # Tazeleme yardımcı bir adım · GitHub API aksarsa asıl işi (içerik büyümesi
       # + commit) düşürmesin. 2026-08-02'de REST hız sınırı 403 döndü ve dört
       # çalışmayı üst üste düşürdü, o yüzden hem GraphQL'e geçildi hem bu bayrak.
