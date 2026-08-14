@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-14",
+  "editorial": "No mundo do software hoje, destaca-se a tendência de desenvolvimento de aplicações baseadas em ferramentas de edição de vídeo de código aberto e grandes modelos de linguagem. Scripts de limpeza de sistema e algoritmos de negociação compartilhados no GitHub mostram que os desenvolvedores estão se concentrando em soluções de automação.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut é um projeto de desenvolvimento de aplicativos baseado em TypeScript que oferece uma alternativa de código aberto para processos de edição de vídeo. Com o objetivo de proporcionar uma experiência de usuário semelhante ao CapCut, esta plataforma visa tornar acessíveis as ferramentas de edição de vídeo.",
+          "meta": "TypeScript · ★ 67.464 · +1.229 hoje"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading é um agente comercial pessoal desenvolvido para tomar decisões comerciais nos mercados financeiros. Este projeto baseado em Python visa executar transações automáticas em nome dos usuários por meio da análise de dados de mercado.",
+          "meta": "Python · ★ 22.092 · +1.153 hoje"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi é uma plataforma complementar de inteligência artificial com chat de voz em tempo real e recursos de jogos que os usuários podem hospedar em seus próprios servidores. O projeto visa trazer personagens interativos semelhantes ao Neuro-sama para ambientes desktop e web.",
+          "meta": "TypeScript · ★ 42.089 · +78 hoje"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "O repositório awesome-llm-apps contém mais de 100 agentes de IA e aplicativos de fabricação baseada em busca (RAG) que os desenvolvedores podem executar, personalizar e publicar diretamente. Este recurso baseado em Python oferece suporte a processos de prototipagem rápida por meio de exemplos de aplicativos prontos.",
+          "meta": "Python · ★ 119.938 · +996 hoje"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark é uma ferramenta de estilo desenvolvida para reduzir os efeitos do conteúdo gerado por inteligência artificial (AI-slop) no design visual. Claude Code visa purificar as interfaces usadas em auxílios de codificação, como Cursor e Codex, a partir de padrões de design derivados de inteligência artificial.",
+          "meta": "CSS · ★ 5.426 · +794 hoje"
+        },
+        {
+          "title": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "summary": "Win11Debloat é um script do PowerShell usado para remover aplicativos pré-instalados e desabilitar dados de telemetria nos sistemas operacionais Windows 10 e 11. Ele permite que os usuários simplifiquem seus sistemas e gerenciem configurações de personalização.",
+          "meta": "PowerShell · ★ 51.061 · +118 hoje"
+        },
+        {
+          "title": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "summary": "Graphify transforma diferentes tipos de dados, como arquivos de código, esquemas de banco de dados e documentação, em uma estrutura de gráfico de conhecimento consultável. Esta ferramenta baseada em Python visa criar uma camada central de dados para vários assistentes de codificação de IA.",
+          "meta": "Python · ★ 85.141 · +1.095 hoje"
+        },
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "Desenvolvido por Hasan Eylırım, o conjunto de dados de fitness oferece recursos visuais animados, informações sobre grupos musculares e instruções passo a passo em seis idiomas para 1.324 exercícios. Essa fonte de dados, que forma a infraestrutura do aplicativo LogPress, fornece uma biblioteca estruturada de exercícios para software voltado para esportes e saúde.",
+          "meta": "HTML · ★ 12.855 · +451 hoje"
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "Publicado pelo GitHub, o spec-kit oferece as ferramentas necessárias para iniciar processos de desenvolvimento orientados por especificações. Esta biblioteca baseada em Python facilita a criação e o gerenciamento de especificações padronizadas em projetos de software.",
+          "meta": "Python · ★ 120.786 · +543 hoje"
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "Desenvolvida para Claude Code e agentes de inteligência artificial, esta biblioteca automatiza habilidades de marketing, como otimização de taxa de conversão (CRO), redação, otimização de mecanismo de pesquisa (SEO) e engenharia de crescimento. Esta ferramenta baseada em JavaScript permite que modelos de inteligência artificial gerenciem fluxos de trabalho focados em marketing com mais competência.",
+          "meta": "JavaScript · ★ 38.825 · +299 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+          "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+          "summary": "A Apple está testando sua nova interface (API) Speech Analyzer em comparação com o modelo Whisper da OpenAI e sua versão anterior. Esta nova interface, focada no processamento no dispositivo, oferece uma opção alternativa no processamento de dados de voz, especialmente com sua baixa latência e vantagens de privacidade.",
+          "meta": "511 pontos · 200 comentários"
+        },
+        {
+          "title": "Building and shipping Mac and iOS apps without opening Xcode",
+          "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+          "summary": "Os desenvolvedores podem desenvolver aplicativos Mac e iOS com ferramentas de linha de comando e processos de automação sem usar a interface do ambiente de desenvolvimento integrado (Xcode) da Apple. Este método acelera os processos de desenvolvimento gerenciando as fases de construção e implantação por meio do terminal.",
+          "meta": "396 pontos · 176 comentários"
+        },
+        {
+          "title": "The art and engineering of Sega CD Silpheed",
+          "url": "https://fabiensanglard.net/silpheed/index.html",
+          "summary": "Fabien Sanglard examina detalhadamente a arquitetura técnica e os efeitos visuais do jogo Silpheed desenvolvido para a plataforma Sega CD. O estudo explica com documentação técnica como gráficos poligonais e vídeos pré-renderizados foram integrados sob restrições de hardware em 1993.",
+          "meta": "241 pontos · 50 comentários"
+        },
+        {
+          "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+          "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+          "summary": "O Japão desenvolveu um novo método que aumenta a taxa de recuperação de lítio de baterias usadas de veículos elétricos para 90%. Esta tecnologia apoia a sustentabilidade no fornecimento de matérias-primas críticas, aumentando a eficiência nos processos de reciclagem de baterias.",
+          "meta": "226 pontos · 60 comentários"
+        },
+        {
+          "title": "The Git history command deserves more attention",
+          "url": "https://lalitm.com/post/git-history/",
+          "summary": "O comando histórico do Git é uma ferramenta eficaz para rastrear o progresso do projeto e depurar processos de desenvolvimento de software. Este comando facilita o rastreamento de alterações de código analisando o histórico de controle de versão.",
+          "meta": "184 pontos · 109 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "O modelo Qwythos-9B-Claude-Mythos-5-1M é um modelo de inteligência artificial multimodal que produz saída de texto processando entradas visuais e de texto. O modelo oferece a oportunidade de integrar dados visuais em tarefas baseadas em texto com amplo suporte a janelas de contexto.",
+          "meta": "♥ 2.096 · 1.985.221 downloads"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Desenvolvido pela Tencent, Hy3 é um modelo de linguagem otimizado para processos de geração de texto. O modelo foi projetado para funcionar em uma variedade de tarefas de processamento de linguagem natural, sendo treinado em conjuntos de dados em grande escala.",
+          "meta": "♥ 758 · 9.157 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, desenvolvido pela Zai-org, é um modelo de linguagem otimizado para tarefas de geração de texto. O modelo, que recebeu ampla atenção da comunidade no HuggingFace, visa melhorar as capacidades de geração de texto em processos de processamento de linguagem natural.",
+          "meta": "♥ 3.909 · 464.914 downloads"
+        },
+        {
+          "title": "conradlocke/krea2-identity-edit",
+          "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "summary": "O modelo Krea2-identity-edit oferece uma abordagem focada na preservação da identidade em processos de edição visual. Este modelo permite que seja recriado em diferentes contextos sem distorcer as características de um determinado assunto.",
+          "meta": "♥ 266 · 0 downloads"
+        },
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "summary": "ThinkingCap-Qwen3.6-27B, desenvolvido pela Bottlecapai, é um modelo multimodal que produz saída de texto por meio do processamento de dados visuais e textuais. Baseado na arquitetura Qwen, oferece a capacidade de analisar conteúdo visual complexo e gerar respostas baseadas em texto.",
+          "meta": "♥ 316 · 4.909 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "trading agent",
+      "explanation": "Software que negocia automaticamente para você no mercado de ações ou nos mercados de criptomoedas."
+    },
+    {
+      "term": "AI companion",
+      "explanation": "Uma aplicação de inteligência artificial que conversa com o utilizador, faz-lhe companhia ou apoia-o no seu trabalho diário."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Software autônomo que pode tomar decisões por conta própria e utilizar diversas ferramentas para atingir um determinado objetivo."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Um método que permite que a inteligência artificial forneça respostas mais precisas, observando as informações em seus documentos atuais ou privados."
+    },
+    {
+      "term": "AI-slop",
+      "explanation": "Uma pilha de conteúdo de baixa qualidade, inútil ou desnecessário produzido por inteligência artificial."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Uma estrutura que dá sentido às relações entre os dados, organizando as informações em pontos interconectados."
+    },
+    {
+      "term": "AI coding assistants",
+      "explanation": "Ferramentas de inteligência artificial que oferecem sugestões aos desenvolvedores de software enquanto eles escrevem códigos, corrigem erros e agilizam seu trabalho."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "Um método de trabalho no qual todos os requisitos e regras são determinados detalhadamente antes de começar a codificar um software."
+    },
+    {
+      "term": "specifications",
+      "explanation": "Uma lista de regras técnicas e detalhes que especificam como um produto ou software deve funcionar."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Esforços para aumentar a taxa na qual os visitantes de um site realizam ações direcionadas no site."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Esforços de melhoria para que os sites tenham uma classificação mais elevada nos motores de busca."
+    },
+    {
+      "term": "marketing skills",
+      "explanation": "Capacidades promocionais que permitem que um produto ou serviço alcance o público-alvo e seja preferido."
+    },
+    {
+      "term": "SpeechAnalyzer",
+      "explanation": "Ferramenta de análise que converte gravações de áudio em texto e analisa a emoção ou o significado delas."
+    },
+    {
+      "term": "API",
+      "explanation": "Uma ponte que permite que dois softwares diferentes se comuniquem e troquem dados."
+    },
+    {
+      "term": "Whisper",
+      "explanation": "Tecnologia de reconhecimento de voz baseada em inteligência artificial que pode converter a linguagem falada em texto com alta precisão."
+    },
+    {
+      "term": "Xcode",
+      "explanation": "Ambiente oficial de desenvolvimento de software usado para desenvolver aplicativos para dispositivos Apple."
+    }
+  ]
+}

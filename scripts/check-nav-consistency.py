@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import DILLER, nav_etiketleri
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-EXPECTED_TR = ('Keşif', 'Sözlük', 'Raporlar', 'Karşılaştır', 'EN', 'FR')
+EXPECTED_TR = ('Keşif', 'Sözlük', 'Raporlar', 'Karşılaştır', 'EN', 'FR', 'PT')
 
 # Üretilen diller · nav = bölüm adları + "TR" düğmesi + erken erişim CTA'sı.
 # chrome() bu sırayla basıyor (diller.py), guard aynı sırayı bekliyor.

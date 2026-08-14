@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-28",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "summary": "PPT-Master é uma ferramenta alimentada por IA que converte documentos diretamente em arquivos de apresentação editáveis ​​(PPTX). O sistema traduz texto em apresentações personalizáveis ​​com figuras nativas, animações e notas de áudio do orador.",
+          "meta": "Python · ★ 33.348 · +589 hoje"
+        },
+        {
+          "title": "Anil-matcha/Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "summary": "Open-Generative-AI é uma plataforma de estúdio de código aberto, sem filtragem de conteúdo e com mais de 200 modelos de criação visual e de vídeo. Os usuários podem gerenciar livremente seus processos de produção visual executando este software, oferecido sob licença do MIT, em seus próprios servidores (auto-hospedados).",
+          "meta": "JavaScript · ★ 21.507 · +255 hoje"
+        },
+        {
+          "title": "dbt-labs/dbt-core",
+          "url": "https://github.com/dbt-labs/dbt-core",
+          "summary": "A ferramenta de transformação de dados (dbt-core) permite que analistas e engenheiros de dados realizem a transformação de dados usando métodos semelhantes aos processos de desenvolvimento de software. Ele padroniza fluxos de trabalho analíticos integrando controle de versão e processos de teste em data warehouses.",
+          "meta": "Rust · ★ 13.271 · +18 hoje"
+        },
+        {
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "summary": "OpenCode é um agente de codificação de código aberto projetado para automatizar processos de desenvolvimento de software. Desenvolvida em linguagem TypeScript, esta ferramenta oferece capacidade de execução autônoma de tarefas em projetos de software.",
+          "meta": "TypeScript · ★ 179.948 · +392 hoje"
+        },
+        {
+          "title": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "summary": "OpenSpec é uma biblioteca TypeScript que oferece suporte a processos de desenvolvimento orientados por especificações para assistentes de código de inteligência artificial. Garante a padronização dos requisitos técnicos durante as etapas de desenvolvimento de software e um andamento mais controlado dos processos de produção de código.",
+          "meta": "TypeScript · ★ 57.272 · +177 hoje"
+        },
+        {
+          "title": "keycloak/keycloak",
+          "url": "https://github.com/keycloak/keycloak",
+          "summary": "Keycloak oferece soluções de gerenciamento de identidade e acesso de código aberto para aplicativos e serviços modernos. Esta plataforma baseada em Java é usada para padronizar processos centralizados de autenticação e autorização.",
+          "meta": "Java · ★ 35.354 · +20 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+          "url": "https://github.com/bikini/exploitarium",
+          "summary": "Uma conta anônima do GitHub chamada Bikini compartilha publicamente códigos de exploração preparados para vulnerabilidades de segurança não relatadas anteriormente (dia zero). O repositório em questão contém documentos técnicos e ferramentas de ataque visando vulnerabilidades críticas em diversos softwares.",
+          "meta": "780 pontos · 303 comentários"
+        },
+        {
+          "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "summary": "Desenvolvido pela DeepSeek, o DSpark aumenta a velocidade de inferência de grandes modelos de linguagem com o método de decodificação especulativa. Esta abordagem aumenta a eficiência computacional ao validar as previsões de um modelo pequeno com um modelo grande.",
+          "meta": "754 pontos · 315 comentários"
+        },
+        {
+          "title": "OpenRA",
+          "url": "https://www.openra.net/",
+          "summary": "OpenRA é um mecanismo de jogo de código aberto desenvolvido para rodar jogos clássicos de estratégia em tempo real em sistemas operacionais modernos. O projeto preserva a mecânica original do jogo e oferece atualizações como suporte a telas de alta resolução e infraestrutura multiplayer.",
+          "meta": "665 pontos · 131 comentários"
+        },
+        {
+          "title": "Fintech Engineering Handbook",
+          "url": "https://w.pitula.me/fintech-engineering-handbook/",
+          "summary": "O Manual de Engenharia Fintech aborda requisitos de escalabilidade, segurança e conformidade em sistemas de tecnologia financeira dentro de uma estrutura técnica. Resume os princípios básicos para o processamento de dados financeiros e a estruturação da arquitetura do sistema nos processos de desenvolvimento de software.",
+          "meta": "541 pontos · 170 comentários"
+        },
+        {
+          "title": "The case for physical media ownership",
+          "url": "https://dervis.de/physical/",
+          "summary": "Em contraste com os modelos de subscrição em plataformas de conteúdos digitais, a propriedade de meios físicos oferece uma alternativa à restrição dos direitos de acesso aos ativos digitais. Os utilizadores estão a recorrer a formatos físicos para proteger o seu acesso permanente e direitos de propriedade contra o risco de o conteúdo ser removido das plataformas.",
+          "meta": "423 pontos · 269 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M é um modelo de linguagem de código aberto focado na geração de texto. Tem como objetivo aumentar o desempenho em processos complexos de criação de conteúdo com amplo suporte a janelas de contexto.",
+          "meta": "♥ 500 · 30.298 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "PPTX",
+      "explanation": "Formato digital padrão de arquivos usados ​​para preparar apresentações."
+    }
+  ]
+}

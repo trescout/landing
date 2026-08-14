@@ -27,6 +27,11 @@ import os
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from diller import DILLER as _DILLER  # noqa: E402
+# Dil önekleri tablodan · dördüncü dil eklenince guard onu da denetlesin
+DIZIN_ONEKLERI = [""] + [f"{k}/" for k in _DILLER]
+URL_ONEKLERI = [""] + [d["onek"] for d in _DILLER.values()]
 BIRLESMIS = os.path.join(ROOT, "assets", "dictionary", "birlesmis.json")
 MANIFEST = os.path.join(ROOT, "assets", "dictionary", "dictionary.json")
 VERCEL = os.path.join(ROOT, "vercel.json")
@@ -45,10 +50,10 @@ for eski, yeni in sorted(eslesme.items()):
         sorunlar.append(f"{eski} → {yeni}: KANONİK terim manifest'te yok")
     if eski in manifest:
         sorunlar.append(f"{eski}: manifest'e geri eklenmiş · birleşme bozuldu")
-    for onek in ("", "en/", "fr/"):
+    for onek in DIZIN_ONEKLERI:
         if os.path.isdir(os.path.join(ROOT, f"{onek}dictionary/{eski}")):
             sorunlar.append(f"{onek}dictionary/{eski}/ · sayfa geri gelmiş")
-    for onek in ("", "/en", "/fr"):
+    for onek in URL_ONEKLERI:
         # İKİ biçim de aranıyor · Vercel source'u birebir eşleştirdiği için
         # yalnız eğik çizgisiz hâli yazılınca gerçek istekler 404 veriyordu
         # (2026-08-11'de yayına böyle çıktı).
@@ -81,4 +86,4 @@ if sorunlar:
     sys.exit(1)
 
 print(f"✓ Birleşmiş terimler tutarlı · {len(eslesme)} ikiz kanonikte birleşik, "
-      f"{len(eslesme) * 3} yönlendirme yerinde, iç bağlantı temiz")
+      f"{len(eslesme) * len(URL_ONEKLERI)} yönlendirme yerinde, iç bağlantı temiz")

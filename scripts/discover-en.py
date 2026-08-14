@@ -78,6 +78,67 @@ def tr2en(s):
 
 
 # ── Türkçe sayfadan blok çıkarma ──────────────────────────────────────────────
+
+def toplu_isit(metinler):
+    """Sayfayı basmadan ÖNCE çevirileri toplu iste · önbelleğe doldur.
+
+    Neden: tr2en her metin için ayrı istek atıyordu. Bir keşif sayfası 20-40
+    metin taşıyor, yani 40 istek. Ücretsiz uç nokta bu hacimde kısıtlamaya
+    başlıyor ve istekler 25 sn timeout'a düşüyor · Portekizce üretiminde saatte
+    13 sayfaya kadar indi (Fransızca'da sayfa başına 13 sn idi).
+
+    Uç nokta çoklu `q` parametresini yok sayıyor ama SATIR BLOĞUNU segment
+    segment çeviriyor: metinleri "\n" ile birleştirip tek istekte alıyoruz,
+    dönen metni satırlara bölüyoruz. Satır sayısı tutmazsa blok atılır ve
+    tr2en tek tek devam eder · yanlış hizalanmış çeviri yazmaktansa yavaş olmak
+    yeğdir.
+    """
+    global _yeni
+    eksik = []
+    for s in metinler:
+        s = (s or "").strip()
+        if s and s not in _cache and "\n" not in s and s not in eksik:
+            eksik.append(s)
+    if not eksik:
+        return
+    BLOK = 25          # satır · daha büyüğünde uç nokta segmentleri birleştiriyor
+    for i in range(0, len(eksik), BLOK):
+        grup = eksik[i:i + BLOK]
+        blok = "\n".join(grup)
+        if len(blok) > 4000:            # URL sınırı · grubu ikiye böl
+            toplu_isit(grup[:len(grup) // 2]); toplu_isit(grup[len(grup) // 2:])
+            continue
+        url = (f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=tr&tl={LANG}&dt=t&q="
+               + urllib.parse.quote(blok))
+        try:
+            with urllib.request.urlopen(url, timeout=25) as r:
+                d = json.loads(r.read().decode())
+            satirlar = "".join(p[0] for p in d[0]).split("\n")
+        except Exception:
+            continue                     # tr2en tek tek halleder
+        if len(satirlar) != len(grup):
+            continue                     # hizalama bozuk · bloğu at
+        for kaynak, cevrilen in zip(grup, satirlar):
+            cevrilen = cevrilen.strip()
+            if cevrilen:
+                _cache[kaynak] = cevrilen
+                _yeni += 1
+        time.sleep(0.3)
+
+
+def sayfa_metinleri(tr_html):
+    """Türkçe sayfadaki çevrilecek metinleri kabaca topla · ısıtma için.
+
+    Kesin liste olmak zorunda değil: fazlası zararsız (önbellekte durur),
+    eksiği tr2en'e düşer. Kod blokları dışarıda · onlar çevrilmiyor.
+    """
+    govde = re.search(r"<main[\s\S]*?</main>", tr_html)
+    if not govde:
+        return []
+    icerik = re.sub(r"<pre[\s\S]*?</pre>|<code[\s\S]*?</code>|<script[\s\S]*?</script>", "", govde.group(0))
+    return [html.unescape(m.group(1)).strip()
+            for m in re.finditer(r">([^<>]{3,})<", icerik)]
+
 def blok(pat, t, flags=re.S):
     m = re.search(pat, t, flags)
     return m.group(1) if m else ""
@@ -273,6 +334,7 @@ def build(slug, cat, chrome):
     if not os.path.exists(tp):
         return None
     t = open(tp, encoding="utf-8").read()
+    toplu_isit(sayfa_metinleri(t))   # sayfanın çevirilerini tek istekte ısıt
     c = cat.get(slug, {})
     # Başlık katalogdan · sayfa <title>'ı eski üretimlerde kalıp dışı olabiliyor
     # (bir sayfada başlık yerine editöryel cümle vardı, İngilizce eyebrow'a Türkçe düşüyordu).

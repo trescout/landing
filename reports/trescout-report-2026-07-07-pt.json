@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-07",
+  "editorial": "Nos sistemas de inteligência artificial, os pacotes de habilidades e os vazamentos imediatos estão hoje no centro do ecossistema de desenvolvedores. Os projetos de código aberto no GitHub concentram-se especificamente em conjuntos de habilidades personalizadas que ampliam a funcionalidade do Claude e de modelos semelhantes.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Este repositório compila e disponibiliza prompts de sistema dos principais modelos de linguagem, como Anthropic, OpenAI, Google e xAI. Ele oferece uma fonte de dados atualizada para desenvolvedores que desejam compreender os princípios de funcionamento e as limitações de vários modelos de inteligência artificial.",
+          "meta": "JavaScript · ★ 52.076 · +1.378 hoje"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Desenvolvido por Addy Osmani, o agente-habilidades oferece habilidades de engenharia em nível de produção para agentes de codificação de inteligência artificial. Esta biblioteca permite que agentes baseados em JavaScript executem tarefas complexas de desenvolvimento de software com métodos padronizados.",
+          "meta": "JavaScript · ★ 71.250 · +1.112 hoje"
+        },
+        {
+          "title": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "summary": "Meetily é um assistente de reunião de código aberto que processa gravações de reuniões localmente e não requer conexão em nuvem. Desenvolvido em Rust, o aplicativo usa modelos de idioma nativo para transcrição ao vivo, diarização e resumo do locutor.",
+          "meta": "Rust · ★ 19.818 · +2.494 hoje"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "O RuView realiza operações de inteligência espacial em tempo real, rastreamento de sinais vitais e detecção de presença sem dados de imagem usando sinais de rede sem fio padrão (WiFi). Essa tecnologia, desenvolvida com a linguagem Rust, analisa movimentos e dados biométricos do ambiente sem a necessidade de nenhum hardware de câmera.",
+          "meta": "Rust · ★ 77.861 · +470 hoje"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill é uma ferramenta desenvolvida para evitar que o conteúdo produzido por modelos de inteligência artificial seja comum e geral. O software oferece um mecanismo de filtragem orientado à estética e à originalidade para melhorar a qualidade de saída dos modelos de linguagem.",
+          "meta": "JavaScript · ★ 59.459 · +1.458 hoje"
+        },
+        {
+          "title": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "summary": "Esta biblioteca, desenvolvida para Claude Code e agentes de codificação semelhantes, oferece mais de 330 habilidades, mais de 70 comandos especiais e mais de 30 estruturas de agentes prontas. Ele padroniza a produtividade baseada em IA, fornecendo fluxos de trabalho e scripts personalizáveis ​​em uma ampla variedade de áreas, desde engenharia até operações financeiras.",
+          "meta": "Python · ★ 21.346 · +610 hoje"
+        },
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "Publicado pela OpenAI, codex-plugin-cc permite o uso do modelo Codex para revisão de código e delegação de tarefas dentro do Claude Code. Este plugin permite que os desenvolvedores executem diferentes modelos de inteligência artificial juntos em processos de automação na base de código.",
+          "meta": "JavaScript · ★ 26.431 · +906 hoje"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill oferece uma habilidade de inteligência artificial (habilidade de IA) que faz pesquisas sobre um tópico específico via Reddit, X, YouTube, Hacker News e recursos da web. Esta ferramenta baseada em Python analisa os dados coletados e cria resumos verificáveis.",
+          "meta": "Python · ★ 50.004 · +458 hoje"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Herdr é uma ferramenta multiplexadora de agentes que roda no terminal e permite gerenciar vários agentes de inteligência artificial simultaneamente. Este software, desenvolvido em linguagem Rust, permite aos usuários interagir com diversos modelos de inteligência artificial através da linha de comando.",
+          "meta": "Rust · ★ 13.065 · +779 hoje"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video é uma ferramenta Python que dá ao modelo Claude a capacidade de analisar conteúdo de vídeo. Ao baixar vídeos, dividi-los em frames e convertê-los em texto (transcrição), o software traz os dados visuais para um formato que o modelo de inteligência artificial pode processar.",
+          "meta": "Python · ★ 4.554 · +427 hoje"
+        },
+        {
+          "title": "karakeep-app/karakeep",
+          "url": "https://github.com/karakeep-app/karakeep",
+          "summary": "Karakeep é um aplicativo de gerenciamento de conteúdo auto-hospedado que coleta links, notas e imagens em um único centro. Ele facilita os processos de arquivamento digital com marcação automática suportada por inteligência artificial e recursos de pesquisa de texto completo.",
+          "meta": "TypeScript · ★ 27.033 · +199 hoje"
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl oferece uma interface (API) desenvolvida para realizar operações de web scraping e pesquisa em larga escala. Esta ferramenta acelera o processamento de dados convertendo o conteúdo da web em formatos adequados para grandes modelos de linguagem.",
+          "meta": "TypeScript · ★ 146.681 · +867 hoje"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar permite visualizar estatísticas de uso do OpenAI Codex e Claude Code sem exigir qualquer login. Desenvolvido com a linguagem Swift, esta ferramenta torna mais fácil para os desenvolvedores rastrearem os dados de uso do assistente de codificação.",
+          "meta": "Swift · ★ 16.847 · +598 hoje"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Desenvolvido pela Alibaba, zvec é um banco de dados vetorial leve que oferece alto desempenho com sua lógica de trabalho em processo. Escrita em C++, esta ferramenta oferece uma estrutura otimizada para necessidades rápidas de processamento de dados.",
+          "meta": "C++ · ★ 13.670 · +382 hoje"
+        },
+        {
+          "title": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "summary": "Listas incríveis oferecem coleções selecionadas de recursos sobre uma variedade de tópicos no mundo do desenvolvimento de software e tecnologia. Este repositório funciona como um diretório abrangente que reúne as melhores ferramentas, bibliotecas e materiais de aprendizagem de diferentes áreas.",
+          "meta": "★ 482.524 · +345 hoje"
+        },
+        {
+          "title": "gastownhall/gastown",
+          "url": "https://github.com/gastownhall/gastown",
+          "summary": "Gas Town é um sistema desenvolvido como um gerenciador de espaço de trabalho multiagente. Esta ferramenta, escrita na linguagem Go, fornece uma infraestrutura estruturada para gerenciar ambientes de trabalho onde colaboram agentes autônomos.",
+          "meta": "Go · ★ 16.787 · +291 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Resetting Xbox",
+          "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+          "summary": "A Microsoft está embarcando em uma reestruturação massiva do software do console e da interface do usuário em uma tentativa de modernizar o ecossistema Xbox. Esta atualização visa melhorar a experiência da loja digital da plataforma e a eficiência do desempenho de todo o sistema.",
+          "meta": "585 pontos · 594 comentários"
+        },
+        {
+          "title": "OpenWrt One – Open Hardware Router",
+          "url": "https://openwrt.org/toh/openwrt/one",
+          "summary": "OpenWrt One é um projeto de roteador projetado com princípios de hardware aberto. O dispositivo, que recebe suporte de software diretamente da comunidade OpenWrt, tem como objetivo dar aos usuários controle total sobre o hardware de sua rede.",
+          "meta": "558 pontos · 220 comentários"
+        },
+        {
+          "title": "CoMaps – FOSS Offline Maps",
+          "url": "https://www.comaps.app/",
+          "summary": "CoMaps é um aplicativo de mapas de código aberto (FOSS) que não requer conexão com a Internet. Ele permite que os usuários protejam a privacidade dos dados e naveguem sem rastreamento de localização, baixando mapas off-line para seus dispositivos.",
+          "meta": "479 pontos · 94 comentários"
+        },
+        {
+          "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+          "url": "https://github.com/MaximeRivest/Riddle",
+          "summary": "O projeto Fable transforma o notebook digital reMarkable no diário de Tom Riddle no universo Harry Potter, oferecendo aos usuários uma experiência de jogo interativa baseada em texto. O software cria uma interface narrativa apoiada por inteligência artificial usando a tela do dispositivo e as entradas da caneta.",
+          "meta": "385 pontos · 207 comentários"
+        },
+        {
+          "title": "A global workspace in language models",
+          "url": "https://www.anthropic.com/research/global-workspace",
+          "summary": "Pesquisadores antrópicos aplicam a teoria do espaço de trabalho global para compreender os processos internos dos modelos de linguagem. Este método visa tornar transparente como os modelos executam tarefas complexas, combinando diferentes informações.",
+          "meta": "348 pontos · 127 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B, publicado pela Empero-ai, possui uma estrutura de modelo multimodal que produz saída de texto por meio do processamento de dados visuais e baseados em texto. O modelo está disponível no formato GGUF, que oferece suporte a janelas de alto contexto com capacidade de 9 bilhões de parâmetros.",
+          "meta": "♥ 1.676 · 1.617.508 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, desenvolvido pela Zai-org, é um modelo de linguagem projetado para tarefas de geração de texto. Este modelo, que alcançou uma ampla base de usuários na plataforma HuggingFace, oferece uma solução alternativa em processos de processamento de linguagem natural.",
+          "meta": "♥ 3.548 · 231.218 downloads"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Desenvolvido pela Tencent, Hy3 é um modelo de linguagem otimizado para processos de geração de texto. O modelo visa executar uma variedade de tarefas de processamento de linguagem natural, sendo treinado em conjuntos de dados em grande escala.",
+          "meta": "♥ 374 · 2 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desenvolvido pela Baidu, Unlimited-OCR é um modelo de imagem texto para texto que produz saída de texto processando textos visuais. O sistema tem como objetivo automatizar o processo de conversão de dados de documentos complexos para formato digital.",
+          "meta": "♥ 1.805 · 1.070.230 downloads"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, desenvolvido pela InternScience, é um modelo de inteligência artificial otimizado para tarefas de geração de texto. Este modelo foi projetado para oferecer suporte a fluxos de trabalho baseados em agentes em processos que exigem raciocínio lógico complexo.",
+          "meta": "♥ 350 · 8.766 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "system prompts",
+      "explanation": "Instruções iniciais que determinam como a IA deve se comportar e quais regras ela deve seguir."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Capacidade de desenvolver métodos técnicos e estabelecer sistemas para resolver problemas complexos."
+    },
+    {
+      "term": "live transcription",
+      "explanation": "O processo de transcrever instantaneamente áudio falado."
+    },
+    {
+      "term": "speaker diarization",
+      "explanation": "Tecnologia que distingue e agrupa as conversas na gravação de voz por quem as realizou."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "Tecnologia de rede sem fio que permite que dispositivos se conectem à Internet ou entre si sem a necessidade de cabos."
+    },
+    {
+      "term": "presence detection",
+      "explanation": "Um sistema que detecta se há pessoas em um ambiente por meio de sensores ou software."
+    },
+    {
+      "term": "skills",
+      "explanation": "As capacidades que um software ou inteligência artificial possui para executar uma tarefa específica."
+    },
+    {
+      "term": "scripts",
+      "explanation": "Curtas sequências de comandos escritos para o computador executar determinadas tarefas automaticamente."
+    },
+    {
+      "term": "AI skill",
+      "explanation": "Uma área de habilidade na qual a inteligência artificial é especificamente treinada ou definida para realizar um trabalho."
+    },
+    {
+      "term": "agent multiplexer",
+      "explanation": "O centro gerencia vários agentes de inteligência artificial e direciona as solicitações recebidas para a unidade certa."
+    },
+    {
+      "term": "transcription",
+      "explanation": "Convertendo conversas em gravações de áudio ou vídeo em texto."
+    },
+    {
+      "term": "self-hostable",
+      "explanation": "A capacidade de executar um software em seu próprio computador ou servidor, em vez de terceirizá-lo."
+    },
+    {
+      "term": "automatic tagging",
+      "explanation": "Rotulagem automática de arquivos ou dados pelo sistema, observando seu conteúdo."
+    },
+    {
+      "term": "full text search",
+      "explanation": "Encontrar as informações procuradas digitalizando todas as palavras de um documento."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Cópia e coleta automática de dados em sites por meio de software."
+    },
+    {
+      "term": "API",
+      "explanation": "Uma ponte que permite que dois softwares diferentes se comuniquem e troquem dados."
+    }
+  ]
+}

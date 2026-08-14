@@ -1,0 +1,255 @@
+{
+  "date": "2026-06-16",
+  "editorial": "O gerenciamento de dados de código aberto e os sistemas de interação autônoma estão na vanguarda da agenda tecnológica atual. Os dados do GitHub mostram um aumento constante no interesse, especialmente em ferramentas de infraestrutura nativas da nuvem e recursos de aprendizagem algorítmica.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "Este projeto, que reúne transmissões de televisão pública pela Internet (IPTV) de todo o mundo em um único centro, facilita o acesso dos usuários ao conteúdo ao vivo. O banco de dados de código aberto fornece listas de canais de diferentes regiões em uma estrutura organizada, criando um recurso padrão para reprodutores de mídia.",
+          "meta": "TypeScript · ★ 123.405 · +2.657 hoje"
+        },
+        {
+          "title": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "summary": "Desenvolvido para proprietários de veículos Tesla, Teslamate é um aplicativo de registro de dados que permite hospedar dados em seu próprio servidor. Esta ferramenta de código aberto, escrita na linguagem Elixir, visualiza e apresenta estatísticas detalhadas, como histórico de condução e dados de cobrança, ao usuário.",
+          "meta": "Elixir · ★ 8.326 · +33 hoje"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach é uma ferramenta de interface de linha de comando (CLI) que oferece aos agentes de IA a capacidade de verificar e ler plataformas na Internet. Torna possível extrair dados de redes populares como Twitter, Reddit e GitHub sem pagar nenhuma taxa de interface de programação de aplicativos (API).",
+          "meta": "Python · ★ 31.218 · +1.100 hoje"
+        },
+        {
+          "title": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "summary": "Meshery é uma ferramenta de gerenciamento de malha de serviço projetada para o gerenciamento de infraestruturas nativas da nuvem. A plataforma fornece um plano de controle central para visualizar e configurar arquiteturas complexas de microsserviços.",
+          "meta": "TypeScript · ★ 10.717 · +228 hoje"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot é um software de suporte omnicanal de código aberto que combina recursos como chat ao vivo e suporte por e-mail em uma única plataforma. Desenvolvida em linguagem Ruby, esta ferramenta oferece uma solução alternativa a serviços proprietários como Intercom ou Zendesk.",
+          "meta": "Ruby · ★ 31.888 · +431 hoje"
+        },
+        {
+          "title": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "summary": "Hello 算法 é uma plataforma educacional de código aberto que ensina estruturas de dados e algoritmos com visualizações animadas. O projeto padroniza o processo de aprendizagem, oferecendo suporte para diversas linguagens de programação e exemplos de códigos executáveis ​​com um clique.",
+          "meta": "Java · ★ 127.220 · +71 hoje"
+        },
+        {
+          "title": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "summary": "freeCodeCamp é uma plataforma de aprendizagem de código aberto que oferece materiais educacionais gratuitos sobre matemática, programação e ciência da computação. Desenvolvido com a linguagem TypeScript, o projeto permite aos usuários adquirir habilidades de desenvolvimento de software por meio de um currículo aplicado.",
+          "meta": "TypeScript · ★ 448.140 · +736 hoje"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "CUA fornece uma infraestrutura de código aberto para agentes de inteligência artificial com capacidade de computador. Ele reúne sandbox, kit de desenvolvimento de software (SDK) e ferramentas de benchmark sob o mesmo teto com o objetivo de treinar e avaliar agentes que podem controlar sistemas operacionais de desktop.",
+          "meta": "HTML · ★ 18.298 · +70 hoje"
+        },
+        {
+          "title": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "summary": "Este plano de estudos, elaborado para quem deseja se tornar engenheiro de software, abrange noções básicas de ciência da computação e processos técnicos de preparação para entrevistas. Oferecendo um amplo conjunto de recursos no GitHub, este guia combina as informações teóricas e práticas necessárias para o desenvolvimento de carreira com um currículo estruturado.",
+          "meta": "★ 352.551 · +364 hoje"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Este recurso, que ensina os fundamentos da engenharia de inteligência artificial (engenharia de IA) através do Python, oferece um processo ponta a ponta desde o desenvolvimento dos modelos até sua publicação. Discute os processos de construção e implantação de sistemas de inteligência artificial em uma estrutura técnica por meio de projetos aplicados.",
+          "meta": "Python · ★ 33.448 · +562 hoje"
+        },
+        {
+          "title": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "summary": "Music Assistant é um gerenciador de biblioteca de mídia de código aberto que combina diferentes serviços de música digital e alto-falantes conectados em uma única interface. Este aplicativo de servidor baseado em Python permite a criação de um sistema centralizado de gerenciamento de música em dispositivos em execução constante, como Raspberry Pi ou armazenamento conectado à rede (NAS).",
+          "meta": "Python · ★ 2.458 · +225 hoje"
+        },
+        {
+          "title": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "summary": "O projeto Free-TV/IPTV reúne playlists M3U de canais de televisão gratuitos de todo o mundo em uma única fonte. Usando essas listas, os usuários podem acessar transmissões ao vivo por meio de vários reprodutores de mídia.",
+          "meta": "Python · ★ 17.399 · +361 hoje"
+        },
+        {
+          "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "summary": "Os materiais de Introdução aos Robôs Autônomos apresentam os princípios básicos e infraestruturas algorítmicas de sistemas robóticos em uma estrutura técnica. Preparado em linguagem TeX, este recurso fornece uma base acadêmica sobre movimento autônomo e design de sistemas.",
+          "meta": "TeX · ★ 3.147 · +489 hoje"
+        },
+        {
+          "title": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "summary": "Win11Debloat é um script do PowerShell que permite remover aplicativos pré-instalados e desabilitar dados de telemetria nos sistemas operacionais Windows 10 e 11. Ele permite que os usuários personalizem seus sistemas e executem a depuração do sistema, removendo componentes desnecessários.",
+          "meta": "PowerShell · ★ 48.210 · +112 hoje"
+        },
+        {
+          "title": "mikeroyal/Self-Hosting-Guide",
+          "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+          "summary": "O Guia de auto-hospedagem oferece um guia completo para hospedar e gerenciar aplicativos de software em redes locais ou servidores web dedicados. Fornece recursos técnicos sobre temas como computação em nuvem, grandes modelos de linguagem, automação e configuração de rede.",
+          "meta": "Dockerfile · ★ 21.324 · +188 hoje"
+        },
+        {
+          "title": "itsfatduck/optimizerDuck",
+          "url": "https://github.com/itsfatduck/optimizerDuck",
+          "summary": "Desenvolvido em linguagem C#, o OptimizerDuck é uma ferramenta de código aberto que oferece aumento de desempenho e configurações voltadas para a privacidade em sistemas operacionais Windows. Este software, que permite aos usuários simplificar as configurações do sistema, reúne os processos de otimização do Windows em uma única interface.",
+          "meta": "C# · ★ 3.900 · +340 hoje"
+        },
+        {
+          "title": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "summary": "Desenvolvido pela NVIDIA, o SkillSpector é uma ferramenta de varredura que detecta vulnerabilidades e padrões maliciosos nos pacotes de habilidades de agentes de inteligência artificial. Este software baseado em Python visa analisar os riscos de segurança encontrados durante o processo de desenvolvimento de sistemas baseados em agentes.",
+          "meta": "Python · ★ 6.697 · +1.079 hoje"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "O Kronos foi desenvolvido como um modelo básico treinado para analisar a linguagem dos mercados financeiros. Este modelo, concebido para dar sentido à complexa estrutura dos dados financeiros, visa automatizar os processos de análise de mercado.",
+          "meta": "Python · ★ 30.434 · +396 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Iroh 1.0",
+          "url": "https://www.iroh.computer/blog/v1",
+          "summary": "Iroh 1.0 introduz um protocolo de rede ponto a ponto que permite a transferência segura e rápida de dados entre dispositivos. Ele permite que os desenvolvedores desenvolvam aplicativos que podem compartilhar dados em redes locais ou pela Internet sem lidar com configurações de rede complexas.",
+          "meta": "1.163 pontos · 352 comentários"
+        },
+        {
+          "title": "A backdoor in a LinkedIn job offer",
+          "url": "https://roman.pt/posts/linkedin-backdoor/",
+          "summary": "Ofertas de emprego falsas enviadas via LinkedIn são usadas como um método backdoor para infectar os computadores dos candidatos com malware. Os invasores obtêm acesso não autorizado aos sistemas com arquivos que enviam sob o pretexto do processo de recrutamento.",
+          "meta": "1.135 pontos · 209 comentários"
+        },
+        {
+          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+          "url": "https://news.ycombinator.com/item?id=48542100",
+          "summary": "Os desenvolvedores de software estão considerando a tendência de usar modelos de linguagem local em vez de modelos baseados em nuvem como a principal ferramenta em seus processos diários de codificação. Os usuários compartilham suas instalações de hardware e desempenho de token por segundo durante esse processo de transição.",
+          "meta": "962 pontos · 431 comentários"
+        },
+        {
+          "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+          "url": "https://tinywind.io",
+          "summary": "TinyWind é um jogo de hacking de pixel art baseado em navegador baseado em simulação realista da física do vento. Os jogadores experimentam a navegação em alto mar gerenciando navios em condições climáticas dinâmicas.",
+          "meta": "818 pontos · 154 comentários"
+        },
+        {
+          "title": "Hetzner Price Adjustment",
+          "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+          "summary": "A Hetzner está padronizando a estrutura de preços dos serviços de servidor em nuvem e atualizando alguns pacotes. A empresa reequilibra os seus custos de serviços com esta regulação de preços em linha com os custos de energia e investimentos em infra-estruturas.",
+          "meta": "428 pontos · 585 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, desenvolvido pelo Google, é um modelo multimodal que produz saídas baseadas em texto processando entradas de texto e imagem. O modelo foi projetado para integrar informações obtidas de imagens em processos de raciocínio baseados em texto.",
+          "meta": "♥ 907 · 375.974 downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3, desenvolvido pela MiniMax, é um modelo multimodal que produz saída de texto processando entradas de imagem e texto. O sistema chama a atenção pela capacidade de analisar dados visuais e utilizá-los em tarefas baseadas em texto.",
+          "meta": "♥ 915 · 25.064 downloads"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF, compartilhado no HuggingFace, é um modelo de linguagem focado na geração de texto. O modelo é apresentado em formato de quantização para que possa ser executado em dispositivos com poucos recursos.",
+          "meta": "♥ 846 · 60.921 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Kimi-K2.7-Code, desenvolvido pela Moonshot AI, é um modelo multimodal de inteligência artificial que gera código por meio do processamento de dados visuais e baseados em texto. O modelo oferece a capacidade de gerar soluções analisando entradas de texto e imagens em processos complexos de desenvolvimento de software.",
+          "meta": "♥ 765 · 102.206 downloads"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Desenvolvido pela Nvidia, LocateAnything-3B é um modelo de imagem texto para texto que executa tarefas de localização de objetos processando entradas visuais e textuais. Este modelo permite a detecção de objetos com consultas baseadas em texto em dados visuais complexos.",
+          "meta": "♥ 2.072 · 98.698 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IPTV",
+      "explanation": "Um sistema que permite assistir a transmissões de televisão através de uma conexão à Internet em vez de uma antena ou satélite tradicional."
+    },
+    {
+      "term": "data logger",
+      "explanation": "Um dispositivo eletrônico que registra e armazena informações de sensores em intervalos regulares."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface que permite gerenciar programas com comandos de texto digitados no teclado, em vez de com o mouse."
+    },
+    {
+      "term": "API",
+      "explanation": "Uma ponte que permite que dois softwares diferentes se comuniquem e troquem dados."
+    },
+    {
+      "term": "cloud native",
+      "explanation": "Estrutura de software flexível e escalável projetada para rodar diretamente em servidores na internet."
+    },
+    {
+      "term": "service mesh",
+      "explanation": "A camada de rede que permite que diferentes partes de sistemas de software complexos se comuniquem entre si de maneira segura e ordenada."
+    },
+    {
+      "term": "omni-channel support",
+      "explanation": "Os clientes podem acessar uma marca de forma ininterrupta tanto nas lojas quanto em todos os canais da internet."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Área de trabalho isolada onde novos softwares podem ser testados com segurança sem danificar o sistema principal."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Um conjunto de ferramentas que facilita aos desenvolvedores de software o desenvolvimento de aplicativos para uma plataforma ou dispositivo específico."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Um método para medir o desempenho de um dispositivo ou software com testes padrão e compará-lo com outros."
+    },
+    {
+      "term": "computer science",
+      "explanation": "O ramo da ciência que examina os princípios de funcionamento dos computadores, desenvolvimento de software e processos de processamento de dados."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "O processo de projetar modelos de inteligência artificial e transformá-los em sistemas que funcionem na vida real."
+    },
+    {
+      "term": "deployment",
+      "explanation": "Carregar um software preparado para o servidor e torná-lo operacional para que possa ser acessado pelos usuários."
+    },
+    {
+      "term": "NAS",
+      "explanation": "Uma unidade central de armazenamento conectada à Internet que pode ser compartilhada por dispositivos na rede doméstica ou do escritório."
+    },
+    {
+      "term": "playlist",
+      "explanation": "Uma lista criada para reproduzir músicas ou vídeos digitais em uma determinada ordem."
+    },
+    {
+      "term": "Introduction to Autonomous Robots",
+      "explanation": "Introdução à lógica de funcionamento de robôs que podem tomar suas próprias decisões sem receber comandos externos."
+    }
+  ]
+}

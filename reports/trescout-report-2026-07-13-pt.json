@@ -1,0 +1,249 @@
+{
+  "date": "2026-07-13",
+  "editorial": "Hoje, o gerenciamento de sistemas autônomos por meio de segurança de linha de comando e integrações MCP (Model Context Protocol) ganha destaque no ecossistema de desenvolvedores. A atividade atual do repositório no GitHub mostra que os fluxos de trabalho baseados em LLM (modelo de linguagem grande), em particular, estão começando a se padronizar nos processos de automação.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Dicklesworthstone/destructive_command_guard",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "summary": "Destructive Command Guard é uma camada de segurança desenvolvida para evitar comandos git e shell perigosos executados por agentes de inteligência artificial. Escrita em Rust, esta ferramenta reduz os riscos de perda indesejada de dados ou danos ao sistema, auditando os processos de execução de comandos no nível do sistema.",
+          "meta": "Rust · ★ 3.284 · +444 hoje"
+        },
+        {
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "summary": "DesktopCommanderMCP é um servidor de protocolo de controle de máquina (Model Context Protocol) desenvolvido para Claude. Esta ferramenta fornece gerenciamento de terminal, pesquisa de sistema de arquivos e recursos de edição de arquivos diferentes para o modelo de inteligência artificial.",
+          "meta": "TypeScript · ★ 8.061 · +210 hoje"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "A Vibe-Trading oferece um agente comercial pessoal que toma decisões de investimento analisando dados do mercado financeiro. Este projeto de código aberto baseado em Python permite aos usuários acompanhar as tendências do mercado e criar estratégias de negociação automáticas.",
+          "meta": "Python · ★ 20.892 · +768 hoje"
+        },
+        {
+          "title": "PrefectHQ/prefect",
+          "url": "https://github.com/PrefectHQ/prefect",
+          "summary": "Prefect é uma estrutura de orquestração de fluxo de trabalho usada para criar pipelines de dados baseados em Python. Projetada para desenvolver processos de dados resilientes, esta ferramenta permite o gerenciamento e o monitoramento de fluxos de trabalho de dados complexos.",
+          "meta": "Python · ★ 23.248 · +66 hoje"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "O repositório awesome-llm-apps oferece mais de 100 agentes de IA diretamente executáveis ​​e exemplos de aplicativos RAG. Esses projetos baseados em Python permitem que os desenvolvedores copiem e personalizem aplicativos rapidamente e os iniciem.",
+          "meta": "Python · ★ 118.879 · +408 hoje"
+        },
+        {
+          "title": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "summary": "Os livros de receitas de Claude compartilhados pela Anthropics fornecem exemplos práticos de código e cadernos Jupyter para usar modelos de Claude. Este recurso reúne métodos técnicos e receitas de implementação para ajudar os desenvolvedores a otimizar suas aplicações de IA.",
+          "meta": "Jupyter Notebook · ★ 48.598 · +459 hoje"
+        },
+        {
+          "title": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "summary": "Home Assistant é uma plataforma de automação residencial de código aberto que prioriza o controle local e a privacidade. Este sistema, desenvolvido em linguagem Python, permite aos usuários gerenciar seus dispositivos inteligentes através de uma rede central.",
+          "meta": "Python · ★ 89.214 · +400 hoje"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "O Projeto N.O.M.A.D é um computador portátil de sobrevivência que fornece acesso a ferramentas críticas, recursos de informação e suporte de inteligência artificial em ambientes offline que não requerem conexão com a Internet. Este sistema, desenvolvido em TypeScript, tem como objetivo tornar acessíveis os dados de que os usuários precisam em todas as circunstâncias, hospedando-os em hardware local.",
+          "meta": "TypeScript · ★ 33.924 · +125 hoje"
+        },
+        {
+          "title": "ColeMurray/background-agents",
+          "url": "https://github.com/ColeMurray/background-agents",
+          "summary": "Desenvolvido por ColeMurray, background-agents é um sistema de codificação de agentes em segundo plano de código aberto baseado em TypeScript. Ele permite que os desenvolvedores criem agentes de inteligência artificial (agentes de IA) que executam processos autônomos dentro dos aplicativos.",
+          "meta": "TypeScript · ★ 2.329 · +16 hoje"
+        },
+        {
+          "title": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "summary": "Wand-Enhancer é um plugin baseado em C# que melhora a experiência do usuário e aumenta a interoperabilidade do aplicativo WeMod. Ele otimiza o controle dos usuários sobre as ferramentas, ampliando a funcionalidade do aplicativo.",
+          "meta": "C# · ★ 7.061 · +609 hoje"
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3Code é um conjunto de ferramentas desenvolvido para melhorar e padronizar a qualidade do código em projetos baseados em TypeScript. Ele fornece suporte de automação para desenvolvedores em processos de segurança de tipo e edição de código.",
+          "meta": "TypeScript · ★ 13.814 · +75 hoje"
+        },
+        {
+          "title": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "summary": "O fundo de hedge de IA utiliza agentes autônomos para automatizar a análise do mercado financeiro e os processos de gestão de ativos. Este projeto baseado em Python oferece um modelo de equipe de inteligência artificial que desenvolve estratégias de investimento por meio do processamento de dados de mercado.",
+          "meta": "Python · ★ 61.500 · +115 hoje"
+        },
+        {
+          "title": "chen08209/FlClash",
+          "url": "https://github.com/chen08209/FlClash",
+          "summary": "FlClash serve como um cliente proxy multiplataforma baseado em ClashMeta. Este aplicativo de código aberto, desenvolvido em linguagem Dart, tem como objetivo oferecer uma interface livre de anúncios e fácil de usar.",
+          "meta": "Dart · ★ 45.340 · +154 hoje"
+        },
+        {
+          "title": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "summary": "Os modelos Claude Code são uma ferramenta de interface de linha de comando (CLI) que simplifica o processo de configuração e monitoramento da ferramenta Claude Code. Essa estrutura, desenvolvida em linguagem Python, visa aumentar o controle dos desenvolvedores sobre o assistente de codificação.",
+          "meta": "Python · ★ 29.300 · +274 hoje"
+        },
+        {
+          "title": "par274/sharpemu",
+          "url": "https://github.com/par274/sharpemu",
+          "summary": "Sharpemu é um projeto experimental de emulador de PlayStation 5 desenvolvido em linguagem C#. Este estudo, que visa imitar a arquitetura do console com base em software, é um experimento técnico realizado em tecnologias de emulação de consoles de jogos.",
+          "meta": "C# · ★ 1.379 · +314 hoje"
+        },
+        {
+          "title": "malisper/pgrust",
+          "url": "https://github.com/malisper/pgrust",
+          "summary": "pgrust, que é uma versão reescrita do sistema de gerenciamento de banco de dados PostgreSQL na linguagem de programação Rust, passou com êxito em todos os testes de regressão do Postgres. Este trabalho populariza o uso da linguagem Rust para aumentar a segurança da memória na infraestrutura de banco de dados.",
+          "meta": "Rust · ★ 2.609 · +518 hoje"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark é um arquivo de estilo desenvolvido para reduzir o impacto do conteúdo padrão produzido pela inteligência artificial (resíduos de IA) no design. Claude Code garante que as interfaces utilizadas em ferramentas como Cursor e Codex ganhem uma estética única e humana.",
+          "meta": "CSS · ★ 4.508 · +155 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "summary": "Uma análise da eficiência do uso de tokens das ferramentas Claude Code e OpenCode revela que Claude Code gasta 33 mil tokens antes da leitura do prompt, enquanto o OpenCode gasta 7 mil tokens. Essa diferença mostra o impacto do prompt do sistema e da sobrecarga de gerenciamento de contexto nas ferramentas do desenvolvedor sobre o custo.",
+          "meta": "541 pontos · 307 comentários"
+        },
+        {
+          "title": "Ask HN: Add flag for AI-generated articles",
+          "url": "https://news.ycombinator.com/item?id=48886741",
+          "summary": "A comunidade Hacker News está discutindo se o conteúdo gerado por IA deve ser marcado com um rótulo especial na plataforma. Recomenda-se que este sistema de marcação seja utilizado apenas como um indicador que informa os leitores, sem alterar a ordem do conteúdo.",
+          "meta": "462 pontos · 240 comentários"
+        },
+        {
+          "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "summary": "A análise do tráfego de rede realizada na interface de linha de comando (CLI) Grok desenvolvida pela xAI revela os pacotes de dados e protocolos de comunicação que o aplicativo envia aos servidores. A revisão torna o princípio de funcionamento do veículo e os processos de transmissão de dados transparentes a nível técnico.",
+          "meta": "451 pontos · 168 comentários"
+        },
+        {
+          "title": "I love LLMs, I hate hype",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "summary": "A abordagem, que valoriza a capacidade técnica dos grandes modelos de linguagem, critica os discursos exagerados de marketing no setor de inteligência artificial. Argumenta-se que estes modelos proporcionam aumentos concretos de eficiência nos processos de desenvolvimento de software, mas as expectativas atuais contêm um otimismo irrealista.",
+          "meta": "396 pontos · 248 comentários"
+        },
+        {
+          "title": "Vint Cerf, “father of the Internet”, is retiring",
+          "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+          "summary": "Vint Cerf, um dos arquitetos da Internet, está se aposentando de seu cargo no Google. Cerf, pioneiro no desenvolvimento de protocolos TCP/IP, desempenhou um papel fundamental no estabelecimento da estrutura básica das redes digitais.",
+          "meta": "301 pontos · 176 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Desenvolvido pela Tencent, Hy3 é um modelo de linguagem otimizado para processos de geração de texto. O modelo foi projetado para funcionar em uma variedade de tarefas de processamento de linguagem natural, sendo treinado em conjuntos de dados em grande escala.",
+          "meta": "♥ 735 · 8.655 downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "O modelo Qwythos-9B-Claude-Mythos-5-1M é um modelo imagem-texto-texto que produz saída de texto processando entradas visuais e de texto. O modelo oferece a capacidade de processar grandes conjuntos de dados com capacidade de 1 milhão de janelas de contexto.",
+          "meta": "♥ 2.054 · 1.967.677 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, desenvolvido pela Zai-org, é um modelo de linguagem projetado para tarefas de geração de texto. Este modelo, disponível no HuggingFace, suporta processos de criação de texto com seus extensos recursos de processamento de linguagem.",
+          "meta": "♥ 3.865 · 441.413 downloads"
+        },
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "summary": "ThinkingCap-Qwen3.6-27B, desenvolvido pela Bottlecapai, é um modelo multimodal que produz saída de texto por meio do processamento de dados visuais e textuais. Baseado na arquitetura Qwen, este modelo foi projetado para uso em tarefas que requerem raciocínio lógico complexo.",
+          "meta": "♥ 270 · 4.463 downloads"
+        },
+        {
+          "title": "conradlocke/krea2-identity-edit",
+          "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "summary": "O modelo Krea2-identity-edit concentra-se na preservação da identidade e na criação consistente de personagens em processos de produção visual. Esta ferramenta é uma solução de ajuste fino que permite aos usuários reproduzir um determinado assunto em diferentes contextos ou estilos.",
+          "meta": "♥ 218 · 0 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "destructive command guard",
+      "explanation": "Mecanismo de segurança que avisa antes de executar comandos que correm o risco de excluir dados ou corromper o sistema."
+    },
+    {
+      "term": "shell",
+      "explanation": "A camada de software subjacente que permite a comunicação direta com o sistema operacional do computador por meio de comandos de texto."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Uma linguagem de comunicação comum que permite que modelos de IA se conectem a diferentes fontes de dados e ferramentas de maneira padrão."
+    },
+    {
+      "term": "diff file editing",
+      "explanation": "Um método de edição que atualiza um arquivo identificando apenas as alterações feitas, em vez de alterar o arquivo inteiro."
+    },
+    {
+      "term": "trading agent",
+      "explanation": "Software que analisa o mercado de ações ou de criptomoedas e realiza transações automáticas de compra e venda em seu nome."
+    },
+    {
+      "term": "workflow orchestration framework",
+      "explanation": "Infraestrutura de software que organiza processos de negócios complexos, tarefas e a ordem em que essas tarefas se sucedem."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Software autônomo de inteligência artificial que pode tomar decisões e usar ferramentas por conta própria para atingir um objetivo específico."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Um método que permite que a inteligência artificial produza respostas mais precisas, observando documentos atuais ou especiais que não sejam seus próprios dados de treinamento."
+    },
+    {
+      "term": "cookbooks",
+      "explanation": "Guias contendo exemplos práticos e receitas de soluções que permitem utilizar um determinado software ou ferramenta da maneira mais eficiente."
+    },
+    {
+      "term": "home automation",
+      "explanation": "Controlar dispositivos da casa como luz, aquecimento e segurança pela internet ou automaticamente."
+    },
+    {
+      "term": "offline",
+      "explanation": "Funciona sem a necessidade de conexão com a internet, utilizando apenas recursos próprios do aparelho."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Unidades de IA que podem planejar e executar missões por conta própria e usar uma variedade de ferramentas digitais para atingir objetivos."
+    },
+    {
+      "term": "user experience",
+      "explanation": "A facilidade, velocidade e nível geral de satisfação que você sente ao usar um aplicativo ou dispositivo."
+    },
+    {
+      "term": "interoperability",
+      "explanation": "A capacidade de diferentes marcas ou tipos de software e hardware trocarem dados entre si sem problemas."
+    },
+    {
+      "term": "type safety",
+      "explanation": "Uma regra de segurança que reduz as chances de o programa cometer erros, evitando que o tipo errado de dados seja usado durante o desenvolvimento de software."
+    },
+    {
+      "term": "AI hedge fund",
+      "explanation": "Um tipo de fundo de investimento que toma decisões de investimento com algoritmos avançados de inteligência artificial em vez de intervenção humana."
+    }
+  ]
+}

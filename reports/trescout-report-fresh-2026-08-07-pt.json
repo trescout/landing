@@ -1,0 +1,223 @@
+{
+  "date": "2026-08-07",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik é uma plataforma de segurança de código aberto que fornece autenticação centralizada e gerenciamento de acesso para aplicativos. Ao combinar processos complexos de autenticação em um único ponto, oferece transição segura entre diferentes serviços.",
+          "meta": "Python · ★ 23.221 · +138 hoje"
+        },
+        {
+          "title": "google/guava",
+          "url": "https://github.com/google/guava",
+          "summary": "Desenvolvido pelo Google, Guava é um kit de ferramentas que contém bibliotecas básicas frequentemente necessárias em projetos Java. As coleções aceleram o desenvolvimento de software simplificando tarefas comuns, como armazenamento em cache e manipulação de strings.",
+          "meta": "Java · ★ 51.666 · +13 hoje"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "ChinaTextbook oferece um arquivo de livros didáticos usados ​​na China desde a escola primária até o nível universitário em formato PDF. Este repositório de código aberto facilita o acesso a materiais educativos com a lógica de uma biblioteca digital.",
+          "meta": "Roff · ★ 77.289 · +134 hoje",
+          "returning": true
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "summary": "AutoGPT é um projeto Python de código aberto que permite a criação de agentes autônomos de IA que podem planejar e executar tarefas complexas por conta própria. Facilita o acesso à inteligência artificial ao automatizar processos como busca na internet e gerenciamento de arquivos para atingir os objetivos traçados pelos usuários.",
+          "meta": "Python · ★ 186.094 · +37 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Mario Meets Pareto",
+          "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+          "summary": "Mario Meets Pareto recomenda focar nas tarefas que criam o maior impacto usando o princípio de Pareto nos processos de desenvolvimento de software. Ele defende a priorização de recursos críticos que constituem o valor central do produto, eliminando o trabalho secundário que consome a maior parte do tempo em projetos complexos.",
+          "meta": "957 pontos · 151 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49195231",
+              "popularity": 957,
+              "engagementCount": 151
+            }
+          ]
+        },
+        {
+          "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+          "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+          "summary": "A AMD adquiriu a startup de chips Taalas para melhorar o desempenho de inferência ao renderizar modelos de inteligência artificial diretamente no silício. Esta mudança visa integrar métodos de aceleração de inteligência artificial personalizados em nível de hardware na arquitetura do processador.",
+          "meta": "509 pontos · 391 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49201970",
+              "popularity": 509,
+              "engagementCount": 391
+            }
+          ]
+        },
+        {
+          "title": "GitHub Actions and Pages are experiencing degraded availability",
+          "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+          "summary": "A plataforma de desenvolvimento de software GitHub, a ferramenta de automação GitHub Actions e o serviço de hospedagem de sites GitHub Pages estão enfrentando interrupções. Devido a problemas de acesso nos serviços, os usuários encontram interrupções nos processos de compilação e publicação de seus projetos.",
+          "meta": "367 pontos · 297 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49198302",
+              "popularity": 367,
+              "engagementCount": 297
+            }
+          ]
+        },
+        {
+          "title": "Almost no skill required to cook a steak",
+          "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+          "summary": "O artigo escrito por Sydorets explica os métodos para cozinhar bife de qualidade em casa, sem a necessidade de técnicas complexas. Ao reduzir o processo a etapas simples, mostra que é possível obter resultados profissionais com o equipamento e o tempo certos.",
+          "meta": "312 pontos · 352 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49198069",
+              "popularity": 312,
+              "engagementCount": 352
+            }
+          ]
+        },
+        {
+          "title": "Taste Is All That's Left",
+          "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+          "summary": "À medida que a inteligência artificial facilita a produção de conteúdo, a capacidade de curadoria e degustação, ao invés das habilidades técnicas, torna-se o principal valor que se destaca no mundo digital. A capacidade de distinguir conteúdo de qualidade e fazer a escolha certa é definida como a nova referência de criatividade centrada no ser humano na era da inteligência artificial generativa (IA generativa).",
+          "meta": "306 pontos · 234 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49199346",
+              "popularity": 306,
+              "engagementCount": 234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Invisible Shortcuts: Why Vision Encoders Know Your Camera",
+          "url": "https://huggingface.co/papers/2608.05424",
+          "summary": "Os modelos de processamento de imagem fazem previsões com base nos metadados da câmera e da tomada ocultos no nível do pixel, em vez de objetos nos dados de treinamento. Isso faz com que os modelos criem atalhos aprendendo traços derivados do dispositivo em vez de conteúdo visual.",
+          "meta": "1 curtidas · 1 comentários"
+        },
+        {
+          "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+          "url": "https://huggingface.co/papers/2607.28609",
+          "summary": "OSReward oferece um modelo de recompensa padronizado para avaliar ações realizadas por agentes usuários de computadores. Tem como objetivo medir o sucesso dos agentes na execução de tarefas de forma escalável e consistente, utilizando modelos de linguagem de visão como juízes.",
+          "meta": "5 curtidas · 1 comentários"
+        },
+        {
+          "title": "PaDoc: Layout-Grounded Parallel Decoding for Document Parsing",
+          "url": "https://huggingface.co/papers/2608.06146",
+          "summary": "PaDoc oferece um método de decodificação paralelo baseado no layout da página em operações de análise de documentos. Essa abordagem elimina as restrições de tempo de processamento dos métodos tradicionais, processando regiões de conteúdo de forma independente e preservando todo o contexto da página.",
+          "meta": "0 curtidas · 1 comentários"
+        },
+        {
+          "title": "World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation",
+          "url": "https://huggingface.co/papers/2608.05369",
+          "summary": "World-to-Wrist (W2-VLA) é um modelo de visão-linguagem-ação que prevê movimentos futuros combinando visão global e dados de câmeras de pulso em processos de manipulação robótica. Esta abordagem permite que o robô alinhe melhor as interações locais com o contexto global da tarefa ao executar tarefas complexas.",
+          "meta": "13 curtidas · 1 comentários"
+        },
+        {
+          "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2608.06197",
+          "summary": "EnvACE usa o método de ensaio mundial em vez de precisar de ambientes externos ao treinar agentes de inteligência artificial. Essa abordagem torna o processo de treinamento eficiente ao reduzir a dependência de simuladores externos em tarefas que exigem uso complexo de veículos.",
+          "meta": "22 curtidas · 1 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "summary": "A ferramenta de gravação de reuniões tl;dv deixou aproximadamente 182 mil gravações de reuniões abertas ao acesso não autorizado devido a uma vulnerabilidade de segurança. Esta situação revela os riscos dos serviços de gravação baseados em nuvem na proteção de conversas privadas e dados confidenciais.",
+          "meta": "136 pontos · 26 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874",
+              "popularity": 136,
+              "engagementCount": 26
+            }
+          ]
+        },
+        {
+          "title": "Zig's Io.Threaded is Neat",
+          "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+          "summary": "A estrutura Io.Threaded na linguagem de programação Zig torna a simultaneidade mais eficiente gerenciando operações de entrada-saída (E/S) por meio de threads. Este método permite o uso direto dos recursos do sistema sem a necessidade de blocos de código assíncronos complexos.",
+          "meta": "38 pontos · 5 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat",
+              "popularity": 38,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "jujutsu 0.44.0",
+          "url": "https://github.com/jj-vcs/jj/releases/tag/v0.44.0",
+          "summary": "Jujutsu 0.44.0 oferece uma atualização contendo novos recursos e correções de bugs para Jujutsu, o sistema de controle de versão. Esta ferramenta, compatível com Git, tem como foco melhorar a estrutura de dados e a experiência da linha de comando.",
+          "meta": "55 pontos · 25 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/xx83dr/jujutsu_0_44_0",
+              "popularity": 55,
+              "engagementCount": 25
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "core libraries",
+      "explanation": "Pacotes básicos de códigos prontos necessários para a execução de uma linguagem de programação ou software."
+    },
+    {
+      "term": "caching",
+      "explanation": "O processo de armazenamento temporário de dados usados ​​com frequência na memória para acesso rápido."
+    },
+    {
+      "term": "autonomous AI agents",
+      "explanation": "Software de inteligência artificial que pode tomar decisões e realizar tarefas por conta própria, sem intervenção humana."
+    },
+    {
+      "term": "inference",
+      "explanation": "O processo de um modelo de inteligência artificial treinado fazendo uma previsão ou resposta usando novos dados."
+    },
+    {
+      "term": "taste",
+      "explanation": "A capacidade de distinguir a qualidade estética e funcional de um produto tecnológico ou design."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Tecnologia de inteligência artificial que pode criar novos conteúdos, como texto, imagens ou áudio, com base nos dados que aprende."
+    }
+  ]
+}

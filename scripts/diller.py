@@ -36,7 +36,7 @@ DILLER = {
         "nav_cta": "Early Access",
         # Dil değiştirme düğmeleri · (etiket, o dilin URL öneki). Sıra menüde
         # göründüğü sıra. Hedef sayfa yoksa o dilin ana sayfasına düşer.
-        "dil_dugmeleri": [("TR", ""), ("FR", "/fr")],
+        "dil_dugmeleri": [("TR", ""), ("FR", "/fr"), ("PT", "/pt")],
         # Footer "Ürün" sütunu nav'dan bir fazla: ana sayfadaki "nasıl çalışır"
         # bölümü. O bölüm çevrilmemiş dillerde None olur.
         "footer_nasil": "How It Works",
@@ -212,7 +212,7 @@ DILLER = {
         "nav": ["Découvrir", "Glossaire", "Archive des rapports", "Comparer"],
         "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
         "nav_cta": "Accès anticipé",
-        "dil_dugmeleri": [("TR", ""), ("EN", "/en")],
+        "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("PT", "/pt")],
         "footer_nasil": None,      # Türkçe ana sayfanın "nasıl çalışır" bölümü çevrilmedi
         "footer_urun": "Produit",
         "footer_iletisim": "Contact",
@@ -381,6 +381,186 @@ DILLER = {
         "ana_not": ("Les pages françaises sont traduites automatiquement à partir de l'original turc · "
                     "en cas de doute, la version turque fait foi."),
     },
+    "pt": {
+        "kod": "pt",
+        # Brezilya Portekizcesi · geliştirici kitlesinin ağırlığı orada.
+        # Dizin adı "pt", hreflang "pt-BR" · ikisi ayrı alanlar.
+        "html_lang": "pt-BR",
+        "hreflang": "pt-BR",
+        "onek": "/pt",
+        "og_locale": "pt_BR",
+        "tagline_alan": "tagline_pt",
+        "kisa_alan": "kisa_pt",
+        "nav": ["Descobrir", "Glossário", "Arquivo de relatórios", "Comparar"],
+        "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
+        "nav_cta": "Acesso antecipado",
+        "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("FR", "/fr")],
+        "footer_nasil": None,
+        "footer_urun": "Produto",
+        "footer_iletisim": "Contato",
+        "footer_sosyal": "Redes",
+        "footer_gizlilik": "Aviso de privacidade",
+        "footer_tagline": "A TreScout busca, resume e entrega. Você só precisa ler.",
+        "footer_alt": "© 2026 TreScout · Todos os direitos reservados.",
+        "atla": "Ir para o conteúdo principal",
+        "kesif": "Descobrir",
+        "kesif_geri": "← Descobrir",
+        "kesif_tumu": "Todas as descobertas →",
+        "baglantilar": "Links",
+        "depo": "Repositório no GitHub →",
+        "turkce_oku": "Ler em turco →",
+        "resmi_kaynak": "Fonte oficial →",
+        "kopyala_komut": "Copiar comando",
+        "kopyala_istem": "Copiar prompt",
+        "kopyala": "Copiar",
+        "ajan_istem": "🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)",
+        "guncellemeler": "Atualizações",
+        "yildiz": "Estrelas",
+        "son_surum": "versão mais recente",
+        "tasindi": "repositório movido, novo endereço",
+        "arsiv": "repositório arquivado, desenvolvimento encerrado",
+        "kimin_icin": "Para quem é",
+        "lisans": "Licença",
+        "bugun": "hoje",
+        "cta_baslik": "A TreScout encontra ferramentas assim todos os dias.",
+        "cta_metin": "GitHub, Hacker News e HuggingFace são vasculhados e o essencial é resumido para você.",
+        "sorumluluk": ("A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do "
+                       "GitHub e a apresentamos. Esta página descreve o repositório em {date}: A contagem "
+                       "de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde "
+                       "então. Consulte o link do repositório para ver o estado atual."),
+        "trescout_notu": "Nota da TreScout:",
+        "sozluk": "Glossário",
+        "sozluk_geri": "← Glossário",
+        "sozluk_tumu": "Todos os termos →",
+        "nedir": "O que é {terim}?",
+        "son_guncelleme": "Última atualização: {tarih}",
+        "analoji": "Analogia:",
+        "sozluk_cta_baslik": "Novos termos técnicos na sua caixa de entrada toda manhã.",
+        "sozluk_cta_metin": "Entre no acesso antecipado da TreScout para receber o resumo diário.",
+        "bolumler": {
+            "Ne kazandırır?": "O que você ganha",
+            "Kurulum": "Instalação",
+            "Çalıştırma": "Execução",
+            "Nasıl başlanır?": "Como começar",
+            "Kod bilmiyorsanız": "Se você não programa",
+            "İlgili sözlük terimleri": "Termos relacionados do glossário",
+            "Bağlantılar": "Links",
+            "Tanım": "Definição",
+            "Nasıl çalışır?": "Como funciona",
+            "Nerede kullanılır?": "Onde é usado",
+            "Sık karıştırılanlar": "Costuma ser confundido com",
+            "Sıkça sorulanlar": "Perguntas frequentes",
+            "İlgili terimler": "Termos relacionados",
+            "İlgili araçlar": "Ferramentas relacionadas",
+        },
+        "form_yer_tutucu": "Seu e-mail",
+        "form_dugme": "Acesso antecipado",
+        "form_onay": ('Li o <a href="{gizlilik}" target="_blank" rel="noopener">aviso de privacidade</a> '
+                      "e concordo com o tratamento do meu e-mail para esta finalidade."),
+        "ana_onay": ('Li o <a href="{gizlilik}" data-privacy-modal>aviso de privacidade</a> '
+                     "e concordo com o tratamento do meu e-mail para esta finalidade."),
+        "gizlilik_yolu": "/pt/privacy.html",
+        "md_kaynak_kesif": "Fonte: TreScout Descobrir · {url}",
+        "md_kaynak_sozluk": "Fonte: TreScout Glossário · {url}",
+        "aylar": ["janeiro", "fevereiro", "março", "abril", "maio", "junho",
+                  "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"],
+        "tarih_bicimi": "{gun} de {ay} de {yil}",
+        "binlik": ".",                      # pt-BR binlik ayırıcı nokta · Türkçeyle aynı
+        "etiketler": {
+            "Yapay zekâ araçları": "Ferramentas de IA",
+            "Geliştirici aracı": "Ferramenta de desenvolvimento",
+            "Kod bilmeyenler için": "Sem código",
+            "Öğrenme": "Aprendizado",
+            "Üretkenlik": "Produtividade",
+        },
+        "sozluk_dizin_baslik": "Glossário de tecnologia · termos de IA e software · TreScout",
+        "sozluk_dizin_aciklama": "Definições em linguagem simples de termos de IA e software: RAG, fine-tuning, LLM, MCP e muito mais.",
+        "sozluk_dizin_h1": "Glossário de IA e software",
+        "sozluk_dizin_lead": "Definições em linguagem simples para os termos técnicos de hoje. A TreScout acompanha as tendências todos os dias e amplia este glossário continuamente.",
+        "sozluk_dizin_ara": "Buscar termo: RAG, embedding, fine-tuning…",
+        "sozluk_dizin_ara_etiket": "Buscar termo",
+        "sozluk_dizin_cipler": [("", "Todos"), ("ai", "Inteligência artificial"),
+                                ("dev", "Desenvolvimento"), ("data", "Dados e infraestrutura")],
+        "sozluk_dizin_birim": "termos",
+        "sozluk_dizin_bos": "Nenhum termo corresponde. Tente outra busca.",
+        "kesif_dizin_baslik": "Descobrir projetos open source · TreScout",
+        "kesif_dizin_aciklama": "Uma seleção diária de ferramentas open source, projetos de IA e repositórios em alta no GitHub.",
+        "kesif_dizin_h1": "Descubra as ferramentas em alta",
+        "kesif_dizin_lead": ("Projetos open source, ferramentas de IA e frameworks encontrados todos os dias "
+                             "pela TreScout: visão geral, crescimento em estrelas e <strong>como usar com um "
+                             "agente.</strong>"),
+        "kesif_dizin_ara": "Buscar ferramenta ou descrição…",
+        "kesif_dizin_ara_etiket": "Buscar ferramenta",
+        "kesif_dizin_sirala": "Ordenar",
+        "kesif_dizin_siralar": [("stars", "Mais estrelas"), ("date", "Mais recentes"), ("title", "A–Z")],
+        "kesif_dizin_birim": "projetos",
+        "kesif_dizin_bos": "Nenhuma ferramenta corresponde. Tente outra busca.",
+        "kesif_dizin_kategori": "Categorias",
+        "rapor_gunler": ["domingo", "segunda-feira", "terça-feira", "quarta-feira",
+                         "quinta-feira", "sexta-feira", "sábado"],
+        "rapor_tarih": "{gun} de {ay} de {yil} ({gunad})",
+        "rapor_arsiv_esigi": "2026-08-13",
+        "rapor_rozet": "Arquivo traduzido",
+        "rapor_sayfa_baslik": "{tarih} · relatório diário TreScout",
+        "rapor_sayfa_aciklama": ("O relatório diário de tecnologia da TreScout de {tarih}: ferramentas open "
+                                 "source, discussões do Hacker News e artigos sobre IA, selecionados e resumidos."),
+        "rapor_sayfa_og": "O relatório diário de tecnologia da TreScout de {tarih}.",
+        "rapor_eyebrow": "Relatório diário de tecnologia",
+        "rapor_eyebrow_arsiv": "· edição traduzida",
+        "rapor_arsiv": "Arquivo",
+        "rapor_ac": "Abrir o PDF em {dil} →",
+        "rapor_indir": "Baixar o PDF",
+        "rapor_oku": "Ler →",
+        "rapor_dil_adi": "português",
+        "rapor_not": ("PDF completo: cada item com seu resumo, os links das fontes e o glossário de termos. "
+                      "Traduzido da edição original em turco."),
+        "rapor_cta": ("<strong>Receba o relatório diário na sua caixa de entrada.</strong> A TreScout busca, "
+                      "resume e entrega. Você só precisa ler."),
+        "rapor_cta_dugme": "Entrar no acesso antecipado →",
+        "rapor_banner_baslik": "Sobre este arquivo traduzido",
+        "rapor_banner": ("Estas páginas e os PDFs são traduzidos dos relatórios diários originais em turco. "
+                         "A seleção dos itens, as métricas e os links são idênticos à edição turca."),
+        "rapor_cipler": {
+            "Günün Modelleri": "modelos do dia",
+            "Günün Makaleleri": "artigos do dia",
+            "öne çıkan": "em destaque",
+        },
+        "rapor_varyant": {
+            "normal": {
+                "geri": "Todos os relatórios",
+                "baslik": "Relatórios diários de tecnologia",
+                "intro": ("Todos os dias, um resumo das tendências do GitHub Trending, Hacker News, "
+                          "HuggingFace e Lobsters. Leia online ou baixe o PDF."),
+                "dizin_baslik": "Arquivo de relatórios diários · TreScout",
+                "dizin_aciklama": ("O arquivo de relatórios diários de tecnologia da TreScout · as tendências "
+                                   "do GitHub, Hacker News e HuggingFace, resumidas todos os dias."),
+            },
+            "fresh": {
+                "geri": "Somente novidades",
+                "baslik": "Relatórios · somente novidades",
+                "intro": ("Apenas o que é novo hoje. Repositórios já cobertos nos últimos 30 dias ficam de "
+                          "fora, nada se repete."),
+                "dizin_baslik": "Arquivo de relatórios · somente novidades · TreScout",
+                "dizin_aciklama": "Os relatórios diários da TreScout, sem nada que já tenha sido coberto.",
+            },
+        },
+        "onay_ipucu": "Leia o aviso de privacidade para dar o seu consentimento.",
+        "modal_baslik": "Aviso de privacidade",
+        "modal_kapat": "Fechar",
+        "modal_kaydir": "Role até o fim do texto para dar o seu consentimento",
+        "modal_onayla": "Li e concordo",
+        "ana_h1": "Acompanhar tecnologia não é mais um fardo.",
+        "ana_lead": ("Todos os dias, a TreScout percorre GitHub, Hacker News, HuggingFace e Lobsters, "
+                     "retém o que importa e reúne tudo em um único relatório."),
+        "ana_bolum": "O que você encontra aqui",
+        "ana_kartlar": [
+            ("Descobrir", "/pt/discover/", "As ferramentas open source encontradas todos os dias, explicadas de forma simples."),
+            ("Glossário", "/pt/dictionary/", "Os termos técnicos de hoje, definidos em linguagem simples."),
+        ],
+        "ana_kayit": "Receba o relatório diário assim que abrirmos.",
+        "ana_not": ("As páginas em português são traduzidas automaticamente a partir do original em turco · "
+                    "em caso de dúvida, a versão turca prevalece."),
+    },
 }
 
 
@@ -443,8 +623,8 @@ def chrome(d, logo_svg):
     return nav, footer
 
 
-DIL_ONEK = {"TR": "", "EN": "/en", "FR": "/fr"}
-_DUGME = re.compile(r'<a href="[^"]*" class="btn btn-ghost" aria-label="[^"]*">(TR|EN|FR)</a>')
+DIL_ONEK = {"TR": "", "EN": "/en", "FR": "/fr", "PT": "/pt"}
+_DUGME = re.compile(r'<a href="[^"]*" class="btn btn-ghost" aria-label="[^"]*">(TR|EN|FR|PT)</a>')
 
 
 def dil_dugmeleri_yaz(nav, hedefler):

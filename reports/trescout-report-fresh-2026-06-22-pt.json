@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-22",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "Apoiado em grandes modelos de linguagem, este sistema analisa dados de mercado de múltiplas fontes e notícias em tempo real e oferece painéis visualizados para decisões de investimento. Padroniza processos de análise para diferentes exchanges com notificações automáticas e suporte gratuito para estudos agendados.",
+          "meta": "Python · ★ 45.304 · +568 hoje"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "Desenvolvido pela ByteDance, Deer-Flow é uma estrutura de superagente de código aberto projetada para executar tarefas de longa duração. Sistema; Ele pode pesquisar e codificar de forma autônoma fluxos de trabalho complexos usando sandbox, gerenciamento de memória e subagentes.",
+          "meta": "Python · ★ 72.905 · +442 hoje"
+        },
+        {
+          "title": "mikumifa/biliTickerBuy",
+          "url": "https://github.com/mikumifa/biliTickerBuy",
+          "summary": "Esta ferramenta baseada em Python que automatiza os processos de compra de membros do Bilibili é um assistente de compra de ingressos projetado para agilizar os processos de compra de ingressos. Ele permite que os usuários obtenham produtos de estoque limitado na plataforma com mais rapidez.",
+          "meta": "Python · ★ 3.782 · +67 hoje"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot é uma ferramenta Python que automatiza a coleta de inteligência de código aberto (OSINT) para inteligência de ameaças e processos de mapeamento de superfície de ataque. Permite detectar vulnerabilidades de segurança em ativos digitais, integrando várias fontes de dados.",
+          "meta": "Python · ★ 18.921 · +294 hoje"
+        },
+        {
+          "title": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "summary": "Cognee é uma plataforma de código aberto que fornece memória de longo prazo entre sessões para agentes de inteligência artificial. Ele permite que os agentes armazenem e recuperem dados de forma estruturada, usando um mecanismo de gráfico de conhecimento auto-hospedado.",
+          "meta": "Python · ★ 18.871 · +347 hoje"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "O repositório system_prompts_leaks compartilhado no GitHub reúne prompts de sistema de modelos de inteligência artificial de grandes empresas de tecnologia como Anthropic, OpenAI, Google e xAI. Esta coleção fornece um recurso central para desenvolvedores que desejam examinar as instruções de configuração em segundo plano e as restrições de modelos de linguagem populares.",
+          "meta": "JavaScript · ★ 44.809 · +282 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Identity verification on Claude",
+          "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+          "summary": "A Anthropic está introduzindo um processo de verificação de identidade para aumentar as medidas de segurança na plataforma Claude. Este aplicativo exige que os usuários protejam suas contas e verifiquem o acesso à plataforma enviando seus documentos oficiais.",
+          "meta": "749 pontos · 620 comentários"
+        },
+        {
+          "title": "Did my old job only exist because of fraud?",
+          "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+          "summary": "Argumenta-se que o tráfego falso e as interações artificiais nos processos de desenvolvimento de software são a principal motivação para a sobrevivência de alguns cargos. Isto revela que as métricas de produtividade e as descrições de funções no sector tecnológico podem basear-se em indicadores enganosos e não na produção de valor real.",
+          "meta": "551 pontos · 236 comentários"
+        },
+        {
+          "title": "Prefer duplication over the wrong abstraction (2016)",
+          "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+          "summary": "Preferir a repetição de código em vez da abstração errada no processo de desenvolvimento de software ajuda a preservar a flexibilidade do sistema. Evitar generalizações desnecessárias permite que a base de código se adapte mais facilmente às mudanças necessárias no futuro.",
+          "meta": "485 pontos · 316 comentários"
+        },
+        {
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
+          "url": "https://apertvs.ai/",
+          "summary": "Apertus é uma plataforma de modelo de código aberto que permite aos países criar modelos treináveis ​​com seus próprios dados. Em linha com a sua visão de IA soberana, pretende desenvolver sistemas de inteligência artificial transparentes e auditáveis ​​que possam funcionar em infraestruturas locais.",
+          "meta": "375 pontos · 127 comentários"
+        },
+        {
+          "title": "Deno Desktop",
+          "url": "https://docs.deno.com/runtime/desktop/",
+          "summary": "O Deno Desktop permite que os desenvolvedores criem aplicativos de desktop nativos usando o tempo de execução do Deno. Esta ferramenta oferece uma estrutura de aplicativo que simplifica o processo de desenvolvimento de software desktop com tecnologias web.",
+          "meta": "349 pontos · 144 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Este modelo de geração de texto baseado em Gemma-4-12B oferece uma configuração especial otimizada para tarefas baseadas em agentes. O modelo, publicado no formato GGUF, oferece uma experiência de inferência eficiente que pode ser executada em dispositivos locais.",
+          "meta": "♥ 317 · 50.314 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "SuperAgent",
+      "explanation": "Assistente avançado de inteligência artificial que pode gerenciar múltiplas tarefas simultaneamente e resolver operações complexas."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Uma área fechada que permite testar programas com segurança, isolando-os do sistema principal."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Uma estrutura de dados que mostra relacionamentos entre informações como pontos interconectados."
+    },
+    {
+      "term": "ticket purchasing assistant",
+      "explanation": "Um assistente digital que busca ingressos e faz compras em nome do usuário."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Um método de coleta e análise de informações de fontes disponíveis publicamente na Internet."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "A inteligência artificial armazena informações e experiências passadas por um longo tempo e lembra-se delas quando necessário."
+    },
+    {
+      "term": "knowledge graph engine",
+      "explanation": "Infraestrutura de software que estabelece conexões complexas entre informações e permite que elas sejam consultadas."
+    }
+  ]
+}

@@ -3,8 +3,9 @@
 (function () {
   /* Sayaç metni sayfanın dilinden · önceden sabit Türkçe "terim" idi ve
      İngilizce dizinde de öyle görünüyordu (2026-08-07). */
-  var METIN = { tr: ' terim', en: ' terms', fr: ' termes' };
-  var BIRIM = METIN[document.documentElement.lang] || METIN.tr;
+  var METIN = { tr: ' terim', en: ' terms', fr: ' termes', 'pt-BR': ' termos' };
+  var _l = document.documentElement.lang || 'tr';
+  var BIRIM = METIN[_l] || METIN[_l.split('-')[0]] || METIN.tr;
 
   var grid = document.getElementById('dict-grid');
   if (!grid) return;

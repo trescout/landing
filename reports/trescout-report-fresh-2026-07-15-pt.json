@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-15",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "1c7/chinese-independent-developer",
+          "url": "https://github.com/1c7/chinese-independent-developer",
+          "summary": "Esta base de dados de código aberto, que lista projetos realizados por desenvolvedores independentes chineses, reúne as aplicações e espaços de trabalho desenvolvidos por desenvolvedores de software. A plataforma permite acompanhar as tendências atuais e estudos orientados a produtos no ecossistema de desenvolvimento independente (indie hacking).",
+          "meta": "Python · ★ 54.609 · +1.196 hoje"
+        },
+        {
+          "title": "AIEraDev/Clypra",
+          "url": "https://github.com/AIEraDev/Clypra",
+          "summary": "Clypra é um aplicativo editor de vídeo de código aberto desenvolvido usando Tauri, React e TypeScript. O software tem como objetivo oferecer recursos avançados encontrados em ferramentas pagas de edição de vídeo como alternativa gratuita.",
+          "meta": "TypeScript · ★ 2.729 · +85 hoje"
+        },
+        {
+          "title": "chenyme/grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "summary": "Desenvolvido para as plataformas Grok Build, Grok Web e Grok Console, este gateway (API gateway) reúne o gerenciamento de múltiplas contas em um único centro. Escrita na linguagem Go, a ferramenta oferece uma interface gerenciável padronizando o acesso dos usuários aos diversos serviços Grok.",
+          "meta": "Go · ★ 5.927 · +186 hoje"
+        },
+        {
+          "title": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "summary": "O compêndio Maths-cs-ai oferece uma coleção abrangente de recursos que cobrem matemática, ciência da computação e inteligência artificial para engenheiros que desejam se especializar em inteligência artificial e aprendizado de máquina. Este repositório serve como um guia de estudo estruturado para fortalecer os fundamentos teóricos e desenvolver habilidades de engenharia de pesquisa.",
+          "meta": "TypeScript · ★ 5.424 · +112 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+          "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+          "summary": "Os desenvolvedores tendem a preferir a estrutura leve e acessível oferecida pelas páginas da web padrão, em vez de arquiteturas de aplicativos complexas. Esta abordagem argumenta que as soluções baseadas em navegador são muitas vezes suficientes para simplificar a experiência do usuário.",
+          "meta": "773 pontos · 467 comentários"
+        },
+        {
+          "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+          "url": "https://prismml.com/news/bonsai-27b",
+          "summary": "Desenvolvido pela PrismML, o Bonsai 27B foi projetado como um grande modelo de linguagem com 27 bilhões de parâmetros que pode ser executado em smartphones. O modelo torna modelos que exigem alto poder computacional acessíveis em dispositivos móveis usando técnicas de compressão de modelos.",
+          "meta": "525 pontos · 187 comentários"
+        },
+        {
+          "title": "How to stop Claude from saying load-bearing",
+          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "summary": "A expressão \"suporte de carga\", que os grandes modelos de linguagem (LLM) como Claude costumam usar em suas respostas, é um padrão que indica que o modelo depende excessivamente de um contexto específico. Os usuários podem evitar expressões repetitivas que reduzem a qualidade do conteúdo por meio de prompts do sistema e permitem que o modelo produza respostas mais originais.",
+          "meta": "489 pontos · 529 comentários"
+        },
+        {
+          "title": "Are we offloading too much of our thinking to AI?",
+          "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+          "summary": "São discutidos os efeitos da carga cognitiva transferida para ferramentas de inteligência artificial nas habilidades de resolução de problemas e pensamento crítico da mente humana. O equilíbrio entre a automação que facilita os processos intelectuais e o risco de os indivíduos perderem as suas próprias capacidades de análise está a ser questionado no mundo da tecnologia.",
+          "meta": "426 pontos · 409 comentários"
+        },
+        {
+          "title": "The Tower Keeps Rising",
+          "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+          "summary": "À medida que a complexidade aumenta no mundo do software, o acúmulo de camadas de abstração que complicam a capacidade de gerenciamento dos sistemas representa um problema. Nos processos modernos de desenvolvimento de software, o débito técnico e os custos de manutenção criados por essas camadas limitam a sustentabilidade das arquiteturas de sistema.",
+          "meta": "423 pontos · 191 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "indie hacking",
+      "explanation": "Processo de desenvolver e vender seus próprios produtos digitais sozinho ou com pequenas equipes, sem ser afiliado a grandes empresas."
+    },
+    {
+      "term": "prompt",
+      "explanation": "Uma instrução ou comando escrito que você dá à inteligência artificial para obter um resultado."
+    },
+    {
+      "term": "video editor",
+      "explanation": "Software para cortar imagens, adicionar efeitos e editar sons para transformá-lo em um filme assistível."
+    },
+    {
+      "term": "API gateway",
+      "explanation": "Um gateway digital que gerencia o tráfego de dados entre diferentes aplicações, garante segurança e direciona as solicitações para o lugar certo."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Tecnologia que permite que os computadores aprendam por conta própria, examinando dados e fazendo melhores previsões ao longo do tempo."
+    },
+    {
+      "term": "application",
+      "explanation": "Qualquer programa de software que você usa para realizar um trabalho específico em computadores ou telefones."
+    },
+    {
+      "term": "web-based solutions",
+      "explanation": "Serviços de software que funcionam apenas através do navegador de internet, sem a necessidade de instalação de nada no computador."
+    }
+  ]
+}

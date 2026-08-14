@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-19",
+  "editorial": "Modelos de previsão de séries temporais e protocolos de rede descentralizados são os principais pontos focais no ecossistema de desenvolvedores hoje. Em particular, a biblioteca TimesFM publicada pelo Google constitui uma fonte de referência crítica para engenheiros que desejam melhorar o desempenho da previsão em conjuntos de dados em grande escala.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "O modelo Time Series Foundation, desenvolvido pelo Google Research, oferece uma estrutura pré-treinada para previsão de séries temporais. Este modelo baseado em Python padroniza os processos de análise de séries temporais, fornecendo recursos gerais de previsão em diferentes conjuntos de dados.",
+          "meta": "Python · ★ 23.650 · +844 hoje"
+        },
+        {
+          "title": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "summary": "A Iroh oferece uma pilha de rede modular que estabelece conexões de rede em uma estrutura baseada em chave, eliminando a dependência de endereços IP. Desenvolvido em Rust, esta ferramenta fornece um protocolo de comunicação alternativo para transferência direta e segura de dados entre nós da rede.",
+          "meta": "Rust · ★ 10.101 · +369 hoje"
+        },
+        {
+          "title": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "summary": "freeCodeCamp é uma plataforma de código aberto que oferece currículo educacional gratuito em matemática, programação e ciência da computação. Este projeto baseado em TypeScript permite que os usuários adquiram habilidades de desenvolvimento de software por meio de exercícios interativos.",
+          "meta": "TypeScript · ★ 449.684 · +417 hoje"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers oferece uma estrutura de habilidades de agente que se integra às metodologias de desenvolvimento de software. Tem como objetivo padronizar e funcionalizar fluxos de trabalho baseados em agentes em processos de software.",
+          "meta": "Shell · ★ 232.765 · +1.429 hoje"
+        },
+        {
+          "title": "zai-org/GLM-5",
+          "url": "https://github.com/zai-org/GLM-5",
+          "summary": "O GLM-5 oferece uma estrutura que visa mover os processos de desenvolvimento de software da codificação vibratória para a engenharia estruturada baseada em agentes. Este sistema padroniza fluxos de trabalho de desenvolvimento de software por meio de agentes de inteligência artificial (agentes de IA) que podem gerenciar tarefas complexas de forma autônoma.",
+          "meta": "★ 4.301 · +202 hoje"
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp oferece inteligência de código de alto desempenho indexando bases de código em um gráfico de conhecimento permanente. Desenvolvido em linguagem C, este servidor suporta 158 linguagens de programação, reduz o tempo de consulta para menos de milissegundos e reduz bastante o consumo de janelas de contexto.",
+          "meta": "C · ★ 7.381 · +2.322 hoje"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Desenvolvido pela Alibaba, o zvec é uma solução de banco de dados vetorial leve e de alta velocidade que funciona em processo. Escrita em C++, esta ferramenta otimiza operações de busca vetorial, especialmente para aplicações que requerem baixa latência.",
+          "meta": "C++ · ★ 11.388 · +259 hoje"
+        },
+        {
+          "title": "withastro/flue",
+          "url": "https://github.com/withastro/flue",
+          "summary": "Desenvolvido pela equipe Astro, o Flue oferece uma estrutura de agente sandbox baseada em TypeScript. Permite que desenvolvedores de software criem agentes de inteligência artificial em ambientes seguros e isolados.",
+          "meta": "TypeScript · ★ 5.603 · +162 hoje"
+        },
+        {
+          "title": "Kilo-Org/kilocode",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "summary": "Kilo é uma plataforma completa de engenharia baseada em agentes, projetada para acelerar os processos de desenvolvimento de software. Ele padroniza os processos de criação, distribuição e iteração de aplicativos por meio de um agente de desenvolvimento de software de código aberto (agente de codificação).",
+          "meta": "TypeScript · ★ 22.481 · +1.345 hoje"
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane é uma plataforma de gerenciamento de projetos de código aberto que combina gerenciamento de tarefas, planejamento de sprint e processos de documentação. Desenvolvida como alternativa a ferramentas como Jira e Linear, a plataforma permite que as equipes centralizem seus fluxos de trabalho com sua estrutura baseada em TypeScript.",
+          "meta": "TypeScript · ★ 51.960 · +613 hoje"
+        },
+        {
+          "title": "Kong/insomnia",
+          "url": "https://github.com/Kong/insomnia",
+          "summary": "Insomnia é um cliente de interface de programação de aplicativos (API) de código aberto que oferece suporte aos protocolos GraphQL, REST, WebSockets, SSE e gRPC. O software oferece suporte multiplataforma com opções de armazenamento local e Git baseado em nuvem.",
+          "meta": "TypeScript · ★ 38.771 · +18 hoje"
+        },
+        {
+          "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "summary": "Universal Android Debloater Next Generation é uma interface gráfica multiplataforma desenvolvida na linguagem Rust e usada para remover aplicativos desnecessários em dispositivos Android que não requerem acesso root. A ferramenta visa melhorar a privacidade, a segurança e a vida útil da bateria do dispositivo, trabalhando por meio do Android Debug Bridge (ADB).",
+          "meta": "Rust · ★ 7.999 · +244 hoje"
+        },
+        {
+          "title": "dotnet/aspnetcore",
+          "url": "https://github.com/dotnet/aspnetcore",
+          "summary": "ASP.NET Core é uma estrutura .NET multiplataforma usada para desenvolver aplicativos web modernos baseados em nuvem no Windows, macOS e Linux. Esta estrutura, desenvolvida em linguagem C#, permite criar serviços web de alto desempenho e escaláveis.",
+          "meta": "C# · ★ 38.124 · +14 hoje"
+        },
+        {
+          "title": "owainlewis/awesome-artificial-intelligence",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+          "summary": "Awesome-artificial-inteligência é uma lista abrangente de recursos que reúne treinamentos, livros, videoaulas e artigos acadêmicos na área de inteligência artificial. Esta coleção fornece um repositório de conteúdo estruturado baseado em disciplina para usuários no processo de aprendizagem.",
+          "meta": "★ 14.532 · +40 hoje"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "summary": "Desenvolvido pela Lightricks, o LTX-2 oferece um pacote de treinamento de inferência Python e adaptação de baixa classificação (LoRA) para modelos de inteligência artificial que produzem áudio e vídeo. Este conjunto de ferramentas permite aos usuários treinar modelos LTX-2 com seus próprios dados e executar saídas de modelo em sistemas locais.",
+          "meta": "Python · ★ 7.550 · +51 hoje"
+        },
+        {
+          "title": "LibreTranslate/LibreTranslate",
+          "url": "https://github.com/LibreTranslate/LibreTranslate",
+          "summary": "LibreTranslate oferece uma interface de tradução automática (API) gratuita e de código aberto. Kendi sunucunuzda barındırabileceğiniz bu Python tabanlı araç, internet bağlantısı olmadan çevrim dışı çalışma imkânı sağlıyor.",
+          "meta": "Python · ★ 15.075 · +51 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "I found 10k GitHub repositories distributing Trojan malware",
+          "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+          "summary": "Descobriu-se que mais de dez mil repositórios de software hospedados no GitHub distribuíam malware do tipo Trojan. Esses repositórios imitam projetos legítimos e incentivam os usuários a baixar arquivos maliciosos.",
+          "meta": "780 pontos · 203 comentários"
+        },
+        {
+          "title": ".gitignore Isn't the only way to ignore files in Git",
+          "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+          "summary": "Não apenas o arquivo .gitignore é usado para operações de exclusão de arquivos (ignorando arquivos) em projetos Git. Os desenvolvedores podem escolher o arquivo .git/info/exclude para configurações locais ou os métodos de configuração global para exclusões globais.",
+          "meta": "410 pontos · 129 comentários"
+        },
+        {
+          "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+          "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+          "summary": "O retalhista norueguês Elkjop foi multado em 1,8 milhões de euros pelas suas práticas que exigem o consentimento do processamento de dados dos utilizadores. Esta decisão baseia-se numa violação da regra de que o consentimento do utilizador deve ser dado livremente ao abrigo do Regulamento Geral de Proteção de Dados (RGPD).",
+          "meta": "374 pontos · 214 comentários"
+        },
+        {
+          "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+          "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+          "summary": "O curso de compiladores avançados oferecido pela Cornell University fornece acesso a materiais de autoaprendizagem que abrangem design moderno de compiladores e técnicas de otimização. O programa suporta conhecimentos teóricos sobre infraestrutura de compiladores e processos de geração de código com aplicações práticas.",
+          "meta": "364 pontos · 51 comentários"
+        },
+        {
+          "title": "Show HN: Are You in the Weights?",
+          "url": "https://www.intheweights.com/",
+          "summary": "À medida que o tráfego da Internet muda para grandes modelos de linguagem, foi desenvolvida uma plataforma que questiona até que ponto os dados pessoais estão incluídos nos pesos dos modelos de inteligência artificial. Esta ferramenta analisa vestígios de dados na memória de inteligência artificial, consultando vários modelos simultaneamente.",
+          "meta": "336 pontos · 188 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Este modelo de geração de texto, baseado em Gemma-4-12B, inclui pesos customizados para processos de codificação e criação de conteúdo. O modelo é apresentado em formato GGUF quantizado para que possa ser executado em dispositivos com poucos recursos.",
+          "meta": "♥ 1.748 · 211.424 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, publicado pela Zai-org, é um modelo de linguagem otimizado para tarefas de geração de texto. Esse modelo, que recebe alta interação na plataforma HuggingFace, é utilizado em extensos processos de criação de textos.",
+          "meta": "♥ 1.410 · 4.307 downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3, desenvolvido pela MiniMaxAI, é um modelo multimodal que produz resultados baseados em texto através do processamento de dados visuais e textuais. O sistema oferece funcionalidade em tarefas complexas, analisando diferentes tipos de dados simultaneamente.",
+          "meta": "♥ 1.109 · 56.162 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Desenvolvido pela Moonshot AI, Kimi-K2.7-Code é um modelo de codificação multimodal que pode processar dados visuais e de texto como entrada. Ele foi projetado para produzir saídas de código baseadas em texto, analisando o conteúdo visual durante os processos de desenvolvimento de software.",
+          "meta": "♥ 890 · 229.156 downloads"
+        },
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, publicado pelo Google, é um modelo multimodal que produz saídas baseadas em texto processando entradas de imagem e texto. O modelo suporta processos complexos de análise de conteúdo com a capacidade de compreender dados visuais e relacioná-los com texto.",
+          "meta": "♥ 1.007 · 527.080 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Time Series Foundation Model",
+      "explanation": "Modelos avançados de inteligência artificial que podem prever mudanças futuras aprendendo o padrão de dados numéricos anteriores."
+    },
+    {
+      "term": "key-based",
+      "explanation": "Um método no qual um código especial é usado para acessar um sistema ou criptografar dados."
+    },
+    {
+      "term": "networking stack",
+      "explanation": "Camadas empilhadas de software e protocolos que permitem que os computadores se comuniquem entre si."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "O conjunto de recursos que o software de inteligência artificial precisa para executar tarefas complexas por conta própria."
+    },
+    {
+      "term": "vibe coding",
+      "explanation": "O processo de escrever código rapidamente com a ajuda da inteligência artificial, simplesmente descrevendo o que você deseja, sem se prender a detalhes técnicos."
+    },
+    {
+      "term": "agentic engineering",
+      "explanation": "A disciplina de projetar e desenvolver software autônomo que pode tomar suas próprias decisões e atingir o objetivo."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Software inteligente que utiliza ferramentas para executar tarefas atribuídas e pode tomar decisões por conta própria."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Uma estrutura de dados que apresenta as relações entre as informações, conectando-as como um mapa de rede."
+    },
+    {
+      "term": "in-process",
+      "explanation": "Um processo que ocorre no próprio espaço de trabalho de um programa, sem a necessidade de ajuda externa."
+    },
+    {
+      "term": "vector database",
+      "explanation": "Uma área especial de armazenamento de dados onde a inteligência artificial pode pesquisar e encontrar dados rapidamente, convertendo-os em números significativos."
+    },
+    {
+      "term": "sandbox agent framework",
+      "explanation": "Infraestrutura que permite testar softwares de inteligência artificial em ambiente seguro sem danificar o sistema principal."
+    },
+    {
+      "term": "agentic engineering platform",
+      "explanation": "Ambiente de desenvolvimento abrangente para criação, gerenciamento e teste de software autônomo inteligente."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Uma ferramenta de inteligência artificial que escreve códigos, corrige erros e conclui projetos agindo como um programador."
+    },
+    {
+      "term": "API",
+      "explanation": "Uma ponte digital que permite que dois softwares diferentes se comuniquem e troquem dados."
+    },
+    {
+      "term": "root",
+      "explanation": "A conta administrativa de mais alto nível com acesso total a todos os arquivos e configurações de um sistema de computador."
+    },
+    {
+      "term": "ADB",
+      "explanation": "Uma ferramenta de conexão que permite enviar comandos e gerenciar dados entre computadores e dispositivos Android."
+    }
+  ]
+}

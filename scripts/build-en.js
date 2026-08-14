@@ -302,7 +302,7 @@ const sayi = (s) => String(s ?? '').replace(/\d{1,3}(?:\.\d{3})+/g, (n) => n.rep
 
 /** Nav'daki dil düğmelerini sayfaya özel yap · hedefi olmayan etiket korunur. */
 const dilYaz = (nav, hedefler) => nav.replace(
-  /<a href="[^"]*" class="btn btn-ghost" aria-label="[^"]*">(TR|EN|FR)<\/a>/g,
+  /<a href="[^"]*" class="btn btn-ghost" aria-label="[^"]*">(TR|EN|FR|PT)<\/a>/g,
   (m, et) => hedefler[et]
     ? `<a href="${hedefler[et]}" class="btn btn-ghost" aria-label="${et}">${et}</a>`
     : m

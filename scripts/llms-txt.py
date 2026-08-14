@@ -68,6 +68,22 @@ if fr_terim or fr_arac:
     for c in sorted(fr_arac, key=lambda x: -(x.get("stars") or 0)):
         L.append(f"- [{c['title']}]({B}/fr/discover/{c['slug']}/) (brut: {B}/fr/discover/{c['slug']}.md): {clip(c.get('tagline_fr', ''))}")
 
+pt_terim = [t for t in man if _var(f"pt/dictionary/{t['slug']}")]
+pt_arac  = [c for c in cat if _var(f"pt/discover/{c['slug']}")]
+if pt_terim or pt_arac:
+    L += ["", "## Português", "",
+          "O mesmo catálogo em português, traduzido da fonte em turco. Markdown bruto: acrescente `.md` à URL.", "",
+          f"- [Início]({B}/pt/)",
+          f"- [Glossário]({B}/pt/dictionary/)",
+          f"- [Descobrir]({B}/pt/discover/)"]
+    if _var("pt/reports"):
+        L.append(f"- [Arquivo de relatórios]({B}/pt/reports/)")
+    L.append("")
+    for t_ in sorted(pt_terim, key=lambda x: x["en"].lower()):
+        L.append(f"- [O que é {t_['en']}?]({B}/pt/dictionary/{t_['slug']}/) (bruto: {B}/pt/dictionary/{t_['slug']}.md): {clip(t_.get('kisa_pt', ''))}")
+    for c in sorted(pt_arac, key=lambda x: -(x.get("stars") or 0)):
+        L.append(f"- [{c['title']}]({B}/pt/discover/{c['slug']}/) (bruto: {B}/pt/discover/{c['slug']}.md): {clip(c.get('tagline_pt', ''))}")
+
 L += ["", "## İletişim", "", "hello@trescout.com", ""]
 open(os.path.join(ROOT, "llms.txt"), "w", encoding="utf-8").write("\n".join(L))
 print(f"llms.txt güncellendi · {len(man)} terim + {len(cat)} araç indekslendi (.md linkleriyle)")

@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-01",
+  "editorial": "Hoje, ferramentas de conversão de dados e sistemas de produção de conteúdo orientados para automação se destacam no ecossistema de desenvolvedores. Bibliotecas como MarkItDown publicadas pela Microsoft tornam mais acessível o processo de conversão de diferentes formatos de arquivo em dados de texto estruturado.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo permite criar vídeos curtos de alta resolução com um único clique, usando modelos de linguagem grandes. Esta ferramenta baseada em Python acelera o processo de preparação de vídeo, gerando conteúdo automaticamente a partir da entrada de texto.",
+          "meta": "Python · ★ 75.978 · +1.937 hoje"
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Desenvolvido pela Microsoft, MarkItDown é uma ferramenta Python que converte vários formatos de arquivo e documentos de escritório em formato de linguagem markdown (Markdown). Esta ferramenta foi projetada para facilitar o processamento de dados não estruturados por grandes modelos de linguagem.",
+          "meta": "Python · ★ 136.324 · +2.798 hoje"
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling oferece uma estrutura de web scraping adaptável que pode lidar com todos os processos, desde solicitações únicas até operações abrangentes de rastreamento. Esta ferramenta baseada em Python fornece uma estrutura flexível para automatizar processos de coleta de dados da web.",
+          "meta": "Python · ★ 57.333 · +606 hoje"
+        },
+        {
+          "title": "nesquena/hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "summary": "Hermes WebUI oferece uma interface que permite gerenciar agentes Hermes através de navegadores web ou dispositivos móveis. Esta ferramenta baseada em Python facilita o acesso do usuário ao consolidar as interações dos agentes em uma plataforma central.",
+          "meta": "Python · ★ 10.353 · +357 hoje"
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "O plugin Compound Engineering automatiza processos de engenharia composta para ferramentas de desenvolvimento como Claude Code, Codex e Cursor. Ele oferece uma estrutura baseada em TypeScript para padronizar fluxos de trabalho de desenvolvimento de software.",
+          "meta": "TypeScript · ★ 18.887 · +251 hoje"
+        },
+        {
+          "title": "github/docs",
+          "url": "https://github.com/github/docs",
+          "summary": "GitHub compartilha os códigos-fonte da plataforma docs.github.com como código aberto. Desenvolvido em TypeScript, este repositório permite aos usuários contribuir com a documentação da plataforma e tornar os processos de documentação transparentes.",
+          "meta": "TypeScript · ★ 19.817 · +27 hoje"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM oferece um modelo de conversão de texto em fala (TTS) sem tokenizer para produção de fala multilíngue, design de som criativo e clonagem de voz realista. Esta abordagem fornece processos de síntese sonora mais naturais e flexíveis, processando diretamente dados sonoros, ao contrário dos métodos tradicionais.",
+          "meta": "Python · ★ 23.878 · +635 hoje"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness é uma estrutura de meta-habilidades que projeta equipes de agentes de inteligência artificial focadas em domínios e produz as habilidades especializadas que essas equipes precisam. Permite a automação de fluxos de trabalho definindo estruturas de agentes especializados para tarefas específicas.",
+          "meta": "HTML · ★ 4.862 · +323 hoje"
+        },
+        {
+          "title": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "summary": "Este guia compartilhado por FareedKhan-dev explica o processo passo a passo de treinamento de grandes modelos de linguagem do zero, desde o download de conjuntos de dados até a geração de texto. Este método, oferecido por meio de notebooks Jupyter, padroniza os processos de desenvolvimento de modelos dentro de uma estrutura técnica.",
+          "meta": "Jupyter Notebook · ★ 3.327 · +626 hoje"
+        },
+        {
+          "title": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "summary": "Supermemória é um mecanismo de memória altamente escalável e uma interface de aplicativo projetada para a era da inteligência artificial. Desenvolvido em TypeScript, este sistema fornece uma interface de programação de aplicações de memória (Memory API) para rápido processamento de dados e integração com modelos de inteligência artificial.",
+          "meta": "TypeScript · ★ 23.582 · +264 hoje"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "O Projeto N.O.M.A.D é um computador portátil de sobrevivência que fornece acesso a ferramentas críticas, recursos de informação e modelos locais de inteligência artificial em ambientes que não requerem conexão com a Internet. Combinando hardware e software, este sistema oferece suporte à segurança de dados e acessibilidade contínua em condições off-line.",
+          "meta": "TypeScript · ★ 27.885 · +374 hoje"
+        },
+        {
+          "title": "a5c-ai/babysitter",
+          "url": "https://github.com/a5c-ai/babysitter",
+          "summary": "Babysitter oferece um mecanismo de controle determinístico para que uma força de trabalho de agentes de inteligência artificial gerencie tarefas complexas sem erros. O projeto visa permitir que os agentes se adaptem totalmente ao seu fluxo de trabalho através de um processo de autoorquestração livre de alucinações.",
+          "meta": "JavaScript · ★ 1.101 · +58 hoje"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code é uma ferramenta de codificação baseada em agente que roda no terminal e automatiza processos de desenvolvimento de software com comandos de linguagem natural. Esta ferramenta executa tarefas rotineiras analisando a base de código, descreve compilações complexas e gerencia fluxos de trabalho de controle de versão (git).",
+          "meta": "Python · ★ 129.182 · +489 hoje"
+        },
+        {
+          "title": "nicobailon/pi-subagents",
+          "url": "https://github.com/nicobailon/pi-subagents",
+          "summary": "Pi-subagents é uma biblioteca TypeScript desenvolvida para gerenciar processos assíncronos de delegação de subagentes na plataforma Pi. A ferramenta facilita a divisão de tarefas complexas em subunidades com recursos como compartilhamento de sessão e truncamento.",
+          "meta": "TypeScript · ★ 1.951 · +69 hoje"
+        },
+        {
+          "title": "emmabostian/developer-portfolios",
+          "url": "https://github.com/emmabostian/developer-portfolios",
+          "summary": "Os portfólios de desenvolvedores reúnem exemplos que os profissionais de software usam para mostrar seus projetos e competências pessoais. Esta lista fornece uma fonte de referência para desenvolvedores que buscam inspiração no processo de design e criação de conteúdo.",
+          "meta": "Python · ★ 23.623 · +73 hoje"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X é uma coleção de guias que visam melhorar as habilidades de programação, codificando tecnologias de software populares do zero. Ensina a lógica de funcionamento de sistemas complexos como bancos de dados, sistemas operacionais e motores de busca por meio de projetos aplicados.",
+          "meta": "Markdown · ★ 509.788 · +1.158 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+          "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+          "summary": "Cloudflare Turnstile requer impressão digital baseada em WebGL para detecção de bots. Este aplicativo levanta questões de privacidade ao coletar dados de hardware do navegador dos usuários.",
+          "meta": "666 pontos · 360 comentários"
+        },
+        {
+          "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+          "url": "https://twitter.com/i/status/2060746160558543217",
+          "summary": "Os modelos de inteligência artificial produzem soluções alternativas que permitem aos usuários realizar operações de linha de comando em ambientes sem acesso root. Isso demonstra a capacidade de grandes modelos de linguagem superarem as restrições do sistema operacional.",
+          "meta": "544 pontos · 259 comentários"
+        },
+        {
+          "title": "The Website Specification",
+          "url": "https://specification.website/",
+          "summary": "A Especificação do Site fornece documentação técnica que reúne os componentes e padrões básicos das plataformas web modernas. Este estudo define o comportamento do navegador e padrões de interface (padrões web) a fim de aumentar a consistência nos processos de desenvolvimento web.",
+          "meta": "498 pontos · 199 comentários"
+        },
+        {
+          "title": "Dav2d",
+          "url": "https://jbkempf.com/blog/2026/dav2d/",
+          "summary": "Dav2d é um projeto de otimização de decodificador projetado para converter arquivos de vídeo para o formato AV1. Ele se concentra em otimizações de código de baixo nível para aumentar a eficiência do processador em processos de processamento de vídeo existentes.",
+          "meta": "483 pontos · 172 comentários"
+        },
+        {
+          "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+          "url": "https://prismml.com/news/bonsai-image-4b",
+          "summary": "Desenvolvido pela PrismML, o Bonsai Image 4B usa quantização de 1 bit para executar modelos de geração de imagens em dispositivos locais. Esta abordagem permite que modelos de inteligência artificial sejam executados de forma mais eficiente em dispositivos móveis, reduzindo os requisitos de hardware de alto desempenho.",
+          "meta": "384 pontos · 147 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Desenvolvido pela NVIDIA, LocateAnything-3D é um modelo de imagem texto para texto que executa tarefas de localização de objetos processando entradas visuais e textuais. O sistema permite a detecção e análise de objetos com consultas baseadas em texto em dados visuais complexos.",
+          "meta": "♥ 674 · 35.783 downloads"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "MiniCPM5-1B, desenvolvido pela OpenBMB, é um modelo de linguagem leve que realiza geração de texto com baixo número de parâmetros. Esta estrutura, otimizada para funcionar de forma eficiente em recursos computacionais limitados, visa suportar aplicações de inteligência artificial em dispositivos edge.",
+          "meta": "♥ 670 · 45.698 downloads"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "summary": "Desenvolvido pela LiquidAI, LFM2.5-8B-A1B é um modelo de inteligência artificial focado na geração de texto. Diferentemente das arquiteturas tradicionais, o modelo utiliza estrutura de redes neurais líquidas e visa fornecer processos computacionais eficientes.",
+          "meta": "♥ 340 · 37.893 downloads"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive, compartilhado no HuggingFace, é um modelo de imagem texto para texto que produz saída de texto processando entradas visuais e de texto. Este modelo, que chama a atenção pela sua estrutura sem censura, oferece uma área de utilização flexível em processos complexos de processamento de dados.",
+          "meta": "♥ 1.190 · 2.533.393 downloads"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "LongCat-Video-Avatar-1.5, desenvolvido pela Meituan, é um modelo que permite a criação de avatares de vídeo de alta qualidade a partir de uma única imagem de referência. O sistema usa tecnologia de geração de avatar baseada em vídeo para sintetizar consistentemente os movimentos e expressões faciais do personagem em dados de vídeo.",
+          "meta": "♥ 448 · 0 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

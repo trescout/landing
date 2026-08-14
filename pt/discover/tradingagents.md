@@ -1,0 +1,50 @@
+# Transações inteligentes no mercado de ações com inteligência artificial
+
+TradingAgents é uma estrutura multiagente baseada em LLM desenvolvida para negociação em mercados financeiros. Este sistema, escrito em Python, permite que agentes comerciais autônomos analisem dados financeiros, criem estratégias e gerenciem processos de tomada de decisão.
+
+- ★ 95.338
+- GitHub Trending · 2026-06-02
+
+## Atualizar
+- 2 de agosto de 2026: Star 82.054 → 95.338, versão mais recente v0.3.1 (5 de julho de 2026).
+
+## O que você ganha
+- Gerencia processos de análise financeira e desenvolvimento de estratégia com agentes autônomos.
+- Ele emprega funções especializadas, como analista, pesquisador e gerenciamento de risco em colaboração.
+- Avalia dados de mercado com o apoio de múltiplos modelos de inteligência artificial.
+
+## Instalação
+**Clonando o Repositório e Configurando o Ambiente**
+
+```
+git clone https://github.com/TauricResearch/TradingAgents.git
+cd TradingAgents
+```
+
+**Instalação do pacote**
+
+```
+pip install .
+```
+
+
+## Execução
+**Uso de linha de comando**
+
+```
+tradingagents          # installed command
+python -m cli.main     # alternative: run directly from source
+```
+
+
+## Se você não programa
+Quero analisar dados do mercado financeiro utilizando a ferramenta TradingAgents. Concluí a instalação e configurei minhas chaves de API necessárias. Como posso inicializar o sistema para que os agentes avaliem as condições do mercado e realizem análises técnicas e fundamentais? Com qual comando posso ativar agentes de negociação autônomos e iniciar o processo de criação de estratégia?
+
+## Termos relacionados do glossário
+
+## Links
+- Repositório no GitHub →
+- Ler em turco →
+
+---
+Fonte: TreScout Descobrir · https://trescout.com/pt/discover/tradingagents/

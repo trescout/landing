@@ -36,6 +36,16 @@
       metinYolu: '/fr/privacy.html',
       onayaDokun: 'Touchez le bouton ci-dessous pour donner votre consentement'
     },
+    pt: {
+      zaten: '<strong>Você já está na lista.</strong> Avisaremos quando entrarmos no ar.',
+      aldik: '<strong>Anotado.</strong> Avisaremos quando entrarmos no ar. Boa semana.',
+      onay: 'Aceite o aviso de privacidade para continuar.',
+      gonderiliyor: 'Enviando...',
+      genel: 'Algo deu errado. Tente novamente.',
+      baglanti: 'Erro de conexão. Tente novamente.',
+      metinYolu: '/pt/privacy.html',
+      onayaDokun: 'Toque no botão abaixo para dar o seu consentimento'
+    },
     tr: {
       zaten: '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.',
     aldik: '<strong>Aldık.</strong> Yayında olduğumuzda size haber vereceğiz. İyi haftalar.',
@@ -47,9 +57,15 @@
       onayaDokun: 'Aşağıdaki butona dokunarak onaylayın'
     }
   };
-  /* Sayfanın dili · bilinmeyen dilde Türkçeye düşer (kaynak dil). */
-  var T = METIN[SAYFA_DILI] || METIN.tr;
-  var EN = SAYFA_DILI === 'en';
+  /* Sayfanın dili · <html lang> bölge kodu taşıyabiliyor ("pt-BR"). Sözlük
+     anahtarı hem tam kodu hem ana dili kabul etsin · yoksa Portekizce sayfa
+     sessizce TÜRKÇE metinlere düşüyordu ve aydınlatma modal'ı Türkçe metni
+     açıyordu (2026-08-14). */
+  function _dilSec(tablo) {
+    var l = (document.documentElement.lang || 'tr');
+    return tablo[l] || tablo[l.split('-')[0]] || tablo.tr;
+  }
+  var T = _dilSec(METIN);
 
 
 /* ---------- abone formu · /api/subscribe ---------- */

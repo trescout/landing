@@ -42,7 +42,10 @@ BOLUM_YOLU = {
     "privacy": {"tr": "privacy.html", "cev": "privacy.html"},
 }
 
-HREFLANG_SATIR = re.compile(r'[ \t]*<link rel="alternate" hreflang="[a-z-]+" href="[^"]*">\n?')
+HREFLANG_SATIR = re.compile(r'[ \t]*<link rel="alternate" hreflang="[A-Za-z-]+" href="[^"]*">\n?')
+# NOT · desen BÜYÜK harfi de almalı: pt-BR gibi bölge kodları var. Küçük
+# harfe kilitliyken normalize edici kendi yazdığı pt-BR satırını bulamıyor,
+# temizleyemiyor ve her koşuda bir kopya daha ekliyordu (2026-08-14).
 
 
 def coz(rel):
@@ -97,7 +100,9 @@ def blok(bolum, slug):
         url, dosya = url_ve_dosya(dil, bolum, slug)
         if not os.path.exists(os.path.join(ROOT, dosya)):
             continue
-        satirlar.append(f'<link rel="alternate" hreflang="{dil}" href="{url}">')
+        # hreflang kodu dizin adından farklı olabilir · pt dizini pt-BR bildirir
+        kod = DILLER.get(dil, {}).get("hreflang", dil)
+        satirlar.append(f'<link rel="alternate" hreflang="{kod}" href="{url}">')
         if dil == "en":
             en_url = url
         if dil == "tr":

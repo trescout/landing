@@ -31,9 +31,14 @@ dil(LANG)  # bilinmeyen dilde anlaşılır hata
 # Elle yazılan sayfalar · (yol, o sayfanın diğer dillerdeki karşılıkları)
 SAYFALAR = {
     "fr": [
-        ("fr/index.html", {"TR": "/", "EN": "/en/"}),
+        ("fr/index.html", {"TR": "/", "EN": "/en/", "PT": "/pt/"}),
         ("fr/compare/rss-vs-ai/index.html",
-         {"TR": "/compare/rss-vs-ai/", "EN": "/en/compare/rss-vs-ai/"}),
+         {"TR": "/compare/rss-vs-ai/", "EN": "/en/compare/rss-vs-ai/", "PT": "/pt/compare/rss-vs-ai/"}),
+    ],
+    "pt": [
+        ("pt/index.html", {"TR": "/", "EN": "/en/", "FR": "/fr/"}),
+        ("pt/compare/rss-vs-ai/index.html",
+         {"TR": "/compare/rss-vs-ai/", "EN": "/en/compare/rss-vs-ai/", "FR": "/fr/compare/rss-vs-ai/"}),
     ],
 }
 

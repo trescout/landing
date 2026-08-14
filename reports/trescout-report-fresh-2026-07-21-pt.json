@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-21",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "PrefectHQ/fastmcp",
+          "url": "https://github.com/PrefectHQ/fastmcp",
+          "summary": "FastMCP é uma estrutura baseada em Python que facilita o desenvolvimento de servidores e clientes Model Context Protocol (MCP). Ele permite que os desenvolvedores integrem rapidamente modelos de IA com ferramentas nativas.",
+          "meta": "Python · ★ 26.621 · +96 hoje"
+        },
+        {
+          "title": "tokio-rs/topcoat",
+          "url": "https://github.com/tokio-rs/topcoat",
+          "summary": "Desenvolvido pela equipe Tokio, Topcoat oferece uma estrutura abrangente que inclui todas as ferramentas necessárias para criar aplicações web em Rust. Tem como objetivo padronizar o processo de desenvolvimento de aplicações, reunindo os componentes básicos necessários aos desenvolvedores em uma única estrutura.",
+          "meta": "Rust · ★ 1.715 · +371 hoje"
+        },
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "Este projeto, que reúne transmissões de televisão pública pela Internet (IPTV) de todo o mundo em um único centro, facilita o acesso dos usuários aos canais de transmissão ao vivo. Desenvolvido com a linguagem TypeScript, esta coleção oferece listas globais de canais por meio de conjuntos de dados de código aberto.",
+          "meta": "TypeScript · ★ 133.863 · +240 hoje",
+          "returning": true
+        },
+        {
+          "title": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "summary": "OpenShip oferece uma plataforma de distribuição de aplicativos que os usuários podem hospedar em seus próprios servidores. Essa ferramenta, desenvolvida em linguagem TypeScript, facilita processos de auto-hospedagem como alternativa aos serviços de infraestrutura baseados em nuvem.",
+          "meta": "TypeScript · ★ 5.130 · +1.641 hoje"
+        },
+        {
+          "title": "microsoft/Ontology-Playground",
+          "url": "https://github.com/microsoft/Ontology-Playground",
+          "summary": "Desenvolvido pela Microsoft, Ontology-Playground é um aplicativo web de código aberto usado para aprender ontologias e criar designs visuais no Microsoft Fabric IQ. Esta ferramenta completamente estática permite aos usuários projetar modelos de ontologias, exportá-los em formato RDF/XML e compartilhar diagramas interativos.",
+          "meta": "TypeScript · ★ 1.806 · +464 hoje"
+        },
+        {
+          "title": "handy-computer/transcribe.cpp",
+          "url": "https://github.com/handy-computer/transcribe.cpp",
+          "summary": "Transcribe.cpp é uma biblioteca de inferência de fala para texto desenvolvida em C++ que oferece suporte a mais de 16 famílias de modelos. Usando a infraestrutura ggml, esta ferramenta permite que diferentes modelos de processamento de áudio sejam executados com eficiência em sistemas locais.",
+          "meta": "C++ · ★ 1.357 · +395 hoje"
+        },
+        {
+          "title": "moonshine-ai/moonshine",
+          "url": "https://github.com/moonshine-ai/moonshine",
+          "summary": "Moonshine oferece recursos de fala para texto de baixa latência, reconhecimento de intenção e texto para fala para interfaces de voz e agentes de inteligência artificial. Esta biblioteca, desenvolvida em linguagem C++, tem como objetivo otimizar processos de processamento de áudio em tempo real.",
+          "meta": "C++ · ★ 10.028 · +282 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "China’s open-weights AI strategy is winning",
+          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+          "summary": "Os desenvolvedores de inteligência artificial baseados na China estão gerenciando um rápido processo de adoção no ecossistema global, popularizando modelos de ponderação aberta. Ao contrário dos modelos fechados e proprietários, esta estratégia proporciona uma vantagem competitiva ao facilitar o acesso à tecnologia para desenvolvedores locais e internacionais.",
+          "meta": "1.049 pontos · 818 comentários"
+        },
+        {
+          "title": "Hacker wipes Romania's land registry database",
+          "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+          "summary": "A base de dados do registo predial da Roménia foi completamente eliminada na sequência de um ataque cibernético. O incidente trouxe à tona as vulnerabilidades nos processos de backup de dados e de segurança cibernética de infraestruturas públicas críticas.",
+          "meta": "620 pontos · 344 comentários"
+        },
+        {
+          "title": "Who's afraid of Chinese models?",
+          "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+          "summary": "A fixação de preços competitivos dos modelos de IA baseados na China no mercado global e a sua integração em ecossistemas de código aberto pressionam o domínio de mercado das empresas tecnológicas ocidentais. A acessibilidade de baixo custo destes modelos coloca novamente em questão as dependências regionais e as políticas de segurança nos processos de desenvolvimento da inteligência artificial.",
+          "meta": "497 pontos · 340 comentários"
+        },
+        {
+          "title": "Kimi Work",
+          "url": "https://www.kimi.com/products/kimi-work",
+          "summary": "Desenvolvido pela Moonshot AI, Kimi Work é uma plataforma de colaboração e produtividade projetada para equipes empresariais. O sistema automatiza o gerenciamento de informações dentro da equipe, analisando documentos complexos com suporte a longas janelas de contexto.",
+          "meta": "488 pontos · 207 comentários"
+        },
+        {
+          "title": "Jelly UI: Soft-body physics for native HTML form controls",
+          "url": "https://jelly-ui.com/",
+          "summary": "Jelly UI aplica física de corpo mole a controles de formulário HTML nativos, proporcionando interação flexível aos elementos da interface. Esta biblioteca torna a experiência do usuário mais dinâmica adicionando animações baseadas em física aos componentes da web.",
+          "meta": "425 pontos · 144 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "inference",
+      "explanation": "O processo de um modelo de inteligência artificial treinado fazendo previsões ou inferências sobre novos dados que nunca viu antes."
+    }
+  ]
+}

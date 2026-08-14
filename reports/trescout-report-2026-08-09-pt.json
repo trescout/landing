@@ -1,0 +1,333 @@
+{
+  "date": "2026-08-09",
+  "editorial": "Arquiteturas técnicas focadas nos conjuntos de habilidades de agentes de inteligência artificial e processos de aprendizagem robótica constituem hoje a principal agenda da comunidade de desenvolvedores. A dissolução da equipe principal do Nixpkgs e as discussões críticas sobre as práticas de desenvolvimento de software esclarecem a ruptura entre o gerenciamento de infraestrutura e a percepção de valor profissional.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "summary": "Prime-Agent, desenvolvido pela PrimeIntellect, é um agente de aprendizagem por reforço de autodesenvolvimento projetado para processos de desenvolvimento de software e tarefas autônomas de longo prazo. Escrita em TypeScript, esta ferramenta concentra-se em processos de desenvolvimento de software apoiados por inteligência artificial, automatizando fluxos de trabalho complexos.",
+          "meta": "TypeScript · ★ 9.257 · +2.483 hoje"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Desenvolvidas para agentes de codificação de inteligência artificial, as habilidades do agente oferecem habilidades de engenharia adequadas para a fase de produção. Esta biblioteca baseada em JavaScript permite que os agentes realizem tarefas mais competentes nos processos de desenvolvimento de software.",
+          "meta": "JavaScript · ★ 84.674 · +779 hoje"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "ChinaTextbook oferece um arquivo de livros didáticos usados ​​no currículo da educação chinesa, do nível primário ao universitário, em formato PDF. Este repositório de código aberto visa fornecer acesso digital a recursos acadêmicos.",
+          "meta": "Roff · ★ 78.023 · +118 hoje"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Desenvolvido pelo Google, o Skills oferece pacotes de habilidades padronizados para agentes de inteligência artificial que interagem com produtos e tecnologias do Google. Esta biblioteca baseada em Python permite que os desenvolvedores forneçam aos sistemas autônomos a capacidade de executar tarefas complexas.",
+          "meta": "Python · ★ 16.830 · +481 hoje"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Compartilhada por Mattpocock, Skills é uma biblioteca que contém pacotes de habilidades personalizados que os desenvolvedores de software usam para agentes de inteligência artificial. Esses scripts prontos, usados ​​em processos reais de engenharia, facilitam a automação de fluxos de trabalho baseados em agentes.",
+          "meta": "Shell · ★ 210.223 · +1.359 hoje"
+        },
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik é uma plataforma de segurança de código aberto que fornece autenticação centralizada e gerenciamento de acesso para aplicativos. Ao combinar sistemas de identidade complexos em um único ponto, permite que os usuários alternem com segurança entre diferentes serviços.",
+          "meta": "Python · ★ 24.017 · +467 hoje"
+        },
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TradingAgents é um software de estrutura baseado em multiagentes projetado para negociar nos mercados financeiros. Oferece uma infraestrutura que analisa dados de mercado e desenvolve estratégias de negociação autônomas utilizando grandes modelos de linguagem.",
+          "meta": "Python · ★ 96.591 · +153 hoje"
+        },
+        {
+          "title": "google/guava",
+          "url": "https://github.com/google/guava",
+          "summary": "Desenvolvido pelo Google, Guava é uma coleção de bibliotecas básicas usadas em projetos Java. As coleções fornecem ferramentas que simplificam tarefas comuns de programação, como armazenamento em cache e manipulação de strings.",
+          "meta": "Java · ★ 51.867 · +93 hoje"
+        },
+        {
+          "title": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "summary": "Ladybird é um novo navegador desenvolvido independentemente dos principais mecanismos de navegador existentes. Escrito em C++, este projeto visa fornecer uma alternativa de código aberto baseada em padrões da Internet.",
+          "meta": "C++ · ★ 65.040 · +48 hoje"
+        },
+        {
+          "title": "denoland/celld",
+          "url": "https://github.com/denoland/celld",
+          "summary": "Desenvolvido pela Deno, o Celld oferece uma infraestrutura de objetos duráveis ​​auto-hospedada para sistemas distribuídos. Escrita em Rust, esta ferramenta permite o gerenciamento escalonável de aplicativos distribuídos com estado.",
+          "meta": "Rust · ★ 2.645 · +432 hoje"
+        },
+        {
+          "title": "litu54/DevOps-Interview-Guide",
+          "url": "https://github.com/litu54/DevOps-Interview-Guide",
+          "summary": "O guia de entrevistas DevOps reúne questões técnicas e dicas de preparação para entrevistas na área de DevOps, que combina processos de desenvolvimento de software e operações. Este recurso ajuda os candidatos a fortalecer seus conhecimentos em temas como computação em nuvem, integração contínua (CI/CD) e gerenciamento de infraestrutura.",
+          "meta": "★ 738 · +68 hoje"
+        },
+        {
+          "title": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "summary": "Desenvolvido com a linguagem Kotlin, o fanqiang é uma ferramenta que permite aos usuários rotear o tráfego da rede contornando as restrições da internet. Este projeto de código aberto oferece vários métodos para acessar conteúdo censurado.",
+          "meta": "Kotlin · ★ 49.993 · +101 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "“Code was never the hard part” is an insult to all programmers",
+          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+          "summary": "A afirmação de que escrever código é a parte fácil do processo de desenvolvimento de software tem sido criticada por subestimar o conhecimento técnico e as habilidades de resolução de problemas dos desenvolvedores. Esta discussão traz de volta à tona o equilíbrio de valor entre implementação técnica e design de produto no mundo do software.",
+          "meta": "636 pontos · 399 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49222189",
+              "popularity": 636,
+              "engagementCount": 399
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all",
+              "popularity": 15,
+              "engagementCount": 17
+            }
+          ]
+        },
+        {
+          "title": "_for-sale DNS records",
+          "url": "https://specification.website/spec/foundations/for-sale-dns/",
+          "summary": "Os registros DNS para venda, que padronizam os métodos usados ​​pelos proprietários de nomes de domínio para colocar seus endereços à venda, visam automatizar o processo de compra e venda de nomes de domínio. Este padrão técnico permite que navegadores ou outras ferramentas detectem quando um nome de domínio está à venda por meio de consultas DNS diretas.",
+          "meta": "371 pontos · 136 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49221668",
+              "popularity": 371,
+              "engagementCount": 136
+            }
+          ]
+        },
+        {
+          "title": "Fastmail offers EU data region",
+          "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+          "summary": "O serviço de e-mail Fastmail passou a oferecer aos seus usuários a opção de armazenar seus dados dentro das fronteiras da União Europeia. Esta etapa permite a residência de dados regional (residência de dados) para usuários que desejam cumprir os regulamentos de privacidade de dados (GDPR) na Europa.",
+          "meta": "353 pontos · 178 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49223082",
+              "popularity": 353,
+              "engagementCount": 178
+            }
+          ]
+        },
+        {
+          "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+          "summary": "Os usuários estão recebendo conselhos sobre métodos técnicos, como rastreamento da intensidade do sinal Bluetooth a partir de modelos generativos de IA para encontrar dispositivos perdidos. Esta abordagem mostra uma tendência de utilização da IA ​​como parceira de resolução de problemas complexos.",
+          "meta": "247 pontos · 181 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49215786",
+              "popularity": 247,
+              "engagementCount": 181
+            }
+          ]
+        },
+        {
+          "title": "My server is a phone now",
+          "url": "https://seg6.space/posts/phone-server/",
+          "summary": "Os desenvolvedores compartilham seus métodos para transformar smartphones antigos em servidores pessoais de baixo consumo de energia e sempre acessíveis. Essa abordagem oferece uma solução de hospedagem de baixo custo, reaproveitando o hardware existente.",
+          "meta": "194 pontos · 79 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49226636",
+              "popularity": 194,
+              "engagementCount": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, desenvolvido pela MiniMaxAI, é um modelo generativo de IA que cria vídeos usando entradas visuais e de texto. O modelo visa agilizar os processos de produção de vídeo, convertendo comandos complexos em conteúdo visual.",
+          "meta": "♥ 3.126 · 26.693 downloads"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, desenvolvido pela DeepSeek, é um novo modelo de inteligência artificial focado na geração de texto. Este modelo, compartilhado no Hugging Face, oferece uma estrutura otimizada para tarefas de processamento de linguagem de alto desempenho.",
+          "meta": "♥ 2.866 · 785.771 downloads"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3 é um modelo multimodal de linguagem grande com recursos de processamento de texto e visual. Tem como objetivo mostrar alto desempenho em tarefas complexas, analisando dados visuais e textuais simultaneamente.",
+          "meta": "♥ 1.012 · 3.943.176 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, desenvolvido pela Moonshot AI, é um modelo multimodal de inteligência artificial (modelo multimodal) que produz resultados baseados em texto através do processamento de dados de imagens e textos. O modelo suporta processos de criação de conteúdo nas interações do usuário, dando sentido a diferentes tipos de dados.",
+          "meta": "♥ 10.347 · 1.388.105 downloads"
+        },
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "MiniMax-H3-Turbo-Lora, compartilhado no HuggingFace, é um trabalho de camada de adaptação (LoRA) que melhora os recursos de texto para vídeo. Este modelo permite personalizar o desempenho de modelos básicos de renderização de vídeo para tarefas específicas.",
+          "meta": "♥ 494 · 0 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization",
+          "url": "https://huggingface.co/papers/2608.01492",
+          "summary": "GaussianSelector fornece uma estrutura sem treinamento para selecionar objetos em cenas tridimensionais de respingos gaussianos. Ao usar a otimização de gráficos, permite a seleção de objetos a partir de um pequeno número de pontos de vista, ao contrário dos métodos computacionalmente intensivos.",
+          "meta": "4 curtidas · 2 comentários"
+        },
+        {
+          "title": "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
+          "url": "https://huggingface.co/papers/2608.01851",
+          "summary": "O mundo da aprendizagem robótica é dividido em duas abordagens principais: modelos de visão-linguagem-ação que incorporam habilidades em pesos fixos e agentes que escrevem e desenvolvem suas próprias habilidades baseadas em código. Esta revisão analisa as capacidades de autocura dos sistemas, classificando métodos robóticos por meio de estratégias de código como política.",
+          "meta": "6 curtidas · 2 comentários"
+        },
+        {
+          "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
+          "url": "https://huggingface.co/papers/2608.01049",
+          "summary": "FactorJEPA é uma arquitetura de modelo mundial desenvolvida para estimar o mundo físico em áreas urbanas complexas e lotadas. Ao separar ambientes complexos em ordem, agente e canais de interação, visa produzir previsões mais consistentes em texturas urbanas densas onde os modelos tradicionais são desafiados.",
+          "meta": "6 curtidas · 2 comentários"
+        },
+        {
+          "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
+          "url": "https://huggingface.co/papers/2608.05798",
+          "summary": "KVAE é uma nova família de tokenizadores que converte dados de áudio, imagem e vídeo em representações compactadas para modelos generativos baseados em texto. Este método visa aumentar a qualidade do conteúdo produzido e a velocidade de aprendizado do modelo, processando os dados de forma mais eficiente.",
+          "meta": "15 curtidas · 3 comentários"
+        },
+        {
+          "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
+          "url": "https://huggingface.co/papers/2608.05784",
+          "summary": "O Activity Frames transforma deterministicamente as gravações de tela em dados estruturados para que os agentes de computação possam se lembrar de ações passadas. Essa abordagem torna a memória do agente mais eficiente, desativando modelos de inteligência artificial e dividindo os fluxos de tela em categorias como aplicação, temporização e dados de entrada.",
+          "meta": "18 curtidas · 6 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "some software talks i like",
+          "url": "https://char.lt/blog/2026/08/talks-i-like/",
+          "summary": "Esta lista, que compila apresentações técnicas do mundo de software, reúne conteúdos com foco em arquitetura de sistemas e linguagens de programação. Essas palestras, que examinam em profundidade os processos de desenvolvimento de software, servem como um recurso para quem deseja aprender sobre as abordagens atuais do setor.",
+          "meta": "61 pontos · 13 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/cmrfrj/some_software_talks_i_like",
+              "popularity": 61,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "The Nixpkgs core team has disbanded",
+          "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+          "summary": "A equipe principal do Nixpkgs, o repositório subjacente ao gerenciador de pacotes Nix, foi dissolvida para alterar a estrutura de gerenciamento. Esta decisão visa expandir o modelo de governança do projeto para uma gama mais ampla de participantes.",
+          "meta": "97 pontos · 12 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded",
+              "popularity": 97,
+              "engagementCount": 12
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "reinforcement learning agent",
+      "explanation": "Software de inteligência artificial que aprende a tomar as decisões certas ganhando recompensas por tentativa e erro."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Capacidade de resolver problemas complexos em etapas lógicas e estabelecer sistemas técnicos."
+    },
+    {
+      "term": "skills",
+      "explanation": "O conhecimento e a habilidade prática necessários para realizar um trabalho."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Múltiplas unidades de IA comunicando-se entre si tentando alcançar um objetivo comum."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "core libraries",
+      "explanation": "Pacotes de código prontos que permitem que um software execute suas funções básicas."
+    },
+    {
+      "term": "caching",
+      "explanation": "O processo de armazenamento temporário de dados usados ​​com frequência na memória para acesso rápido."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "A situação de executar um serviço em um computador pessoal controlado por você, e não no servidor de outra pessoa."
+    },
+    {
+      "term": "durable objects",
+      "explanation": "Pequenos softwares que podem ser executados continuamente e manter seu estado na Internet sem perder dados."
+    },
+    {
+      "term": "cloud computing",
+      "explanation": "Fornecimento de serviços como energia e armazenamento de computadores por meio de servidores remotos pela Internet."
+    },
+    {
+      "term": "CI/CD",
+      "explanation": "Sistema que permite que atualizações de software sejam testadas e lançadas automaticamente."
+    },
+    {
+      "term": "GDPR",
+      "explanation": "Conjunto de normas legais que determinam como serão protegidos os dados pessoais dos internautas."
+    },
+    {
+      "term": "data residency",
+      "explanation": "A obrigação de manter dados digitais dentro de uma determinada região geográfica ou país por motivos legais."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Tecnologia de inteligência artificial que pode criar novas imagens, textos ou sons usando dados existentes."
+    },
+    {
+      "term": "home server",
+      "explanation": "Um computador pessoal que fica ligado o tempo todo para realizar tarefas como compartilhamento de arquivos ou gerenciamento de mídia de dispositivos domésticos."
+    },
+    {
+      "term": "text generation",
+      "explanation": "A inteligência artificial cria frases e textos significativos de acordo com os comandos dados."
+    }
+  ]
+}

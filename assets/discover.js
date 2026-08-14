@@ -16,12 +16,24 @@
           etiket: { "Yapay zekâ araçları": "AI Tools", "Geliştirici aracı": "Developer Tool",
                     "Kod bilmeyenler için": "No-Code", "Öğrenme": "Learning", "Üretkenlik": "Productivity" },
           tumu: 'All', birim: ' tools', bos: 'No matches. Try a different filter.', kopyalandi: 'Copied ✓' },
+    'pt-BR': { onek: '/pt/discover/', dizi: 'pt-BR', alan: 'tagline_pt',
+          etiket: { "Yapay zekâ araçları": "Ferramentas de IA", "Geliştirici aracı": "Ferramenta de desenvolvimento",
+                    "Kod bilmeyenler için": "Sem código", "Öğrenme": "Aprendizado", "Üretkenlik": "Produtividade" },
+          tumu: 'Todos', birim: ' ferramentas', bos: 'Nenhum resultado. Mude o filtro.', kopyalandi: 'Copiado ✓' },
     fr: { onek: '/fr/discover/', dizi: 'fr', alan: 'tagline_fr',
           etiket: { "Yapay zekâ araçları": "Outils IA", "Geliştirici aracı": "Outil développeur",
                     "Kod bilmeyenler için": "Sans code", "Öğrenme": "Apprentissage", "Üretkenlik": "Productivité" },
           tumu: 'Tous', birim: ' outils', bos: 'Aucun résultat. Changez de filtre.', kopyalandi: 'Copié ✓' }
   };
-  var M = TABLO[DIL] || TABLO.tr;
+  /* Sayfanın dili · <html lang> bölge kodu taşıyabiliyor ("pt-BR"). Sözlük
+     anahtarı hem tam kodu hem ana dili kabul etsin · yoksa Portekizce sayfa
+     sessizce TÜRKÇE metinlere düşüyordu ve aydınlatma modal'ı Türkçe metni
+     açıyordu (2026-08-14). */
+  function _dilSec(tablo) {
+    var l = (document.documentElement.lang || 'tr');
+    return tablo[l] || tablo[l.split('-')[0]] || tablo.tr;
+  }
+  var M = _dilSec(TABLO);
   function etiket(t) { return M.etiket ? (M.etiket[t] || t) : t; }
   function tanitim(it) { return it[M.alan] || it.tagline; }
   function yol(slug) { return M.onek + slug + '/'; }

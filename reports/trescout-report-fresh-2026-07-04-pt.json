@@ -1,0 +1,108 @@
+{
+  "date": "2026-07-04",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "summary": "Desenvolvido em Java, o Elasticsearch é um mecanismo de busca distribuído e de código aberto que permite busca e análise rápidas em grandes conjuntos de dados. Graças à sua arquitetura RESTful, suporta indexação e consulta de dados em tempo real.",
+          "meta": "Java · ★ 77.374 · +91 hoje"
+        },
+        {
+          "title": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "summary": "Ansible é uma plataforma de automação de tecnologias de informação que automatiza processos de implantação de aplicativos e gerenciamento de sistemas. Realiza operações de configuração em linguagem simples via protocolo SSH, sem a necessidade de instalação de nenhum middleware em sistemas remotos.",
+          "meta": "Python · ★ 69.245 · +65 hoje"
+        },
+        {
+          "title": "rommapp/romm",
+          "url": "https://github.com/rommapp/romm",
+          "summary": "Romm é um gerenciador de biblioteca de jogos projetado para organizar arquivos de jogos (ROM) e jogar diretamente pelo navegador, que você pode hospedar em seu próprio servidor. Desenvolvido em linguagem Python, esta ferramenta oferece a oportunidade de gerenciar e jogar coleções de jogos com uma interface visual.",
+          "meta": "Python · ★ 9.887 · +239 hoje"
+        },
+        {
+          "title": "apache/maven",
+          "url": "https://github.com/apache/maven",
+          "summary": "Apache Maven é uma ferramenta de gerenciamento e compreensão de projetos (ferramenta de automação de construção) que gerencia processos de criação de software em projetos baseados em Java. Ele usa a estrutura do modelo de objeto do projeto para padronizar o ciclo de vida de desenvolvimento de software.",
+          "meta": "Java · ★ 5.250 · +58 hoje"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code é uma ferramenta de codificação baseada em agente que roda no terminal e automatiza tarefas rotineiras analisando a base de código com comandos de linguagem natural. Seu objetivo é aumentar a produtividade do desenvolvedor gerenciando processos de anotação de código e controle de versão (fluxo de trabalho git) em processos de desenvolvimento de software.",
+          "meta": "Python · ★ 135.933 · +221 hoje",
+          "returning": true
+        },
+        {
+          "title": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "summary": "Supabase é uma plataforma de desenvolvimento que oferece infraestrutura de banco de dados Postgres para desenvolvimento de aplicações web, mobile e de inteligência artificial. Com sua estrutura de código aberto, fornece gerenciamento de banco de dados e serviços de back-end necessários para acelerar os processos de desenvolvimento de aplicativos.",
+          "meta": "TypeScript · ★ 105.582 · +169 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Costco is the anti-Amazon",
+          "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+          "summary": "Costco está posicionado contra a estratégia de vender tudo da Amazon com sua variedade limitada de produtos e modelo de receita baseado em assinatura. A gigante do varejo se diferencia dos modelos tradicionais de comércio eletrônico com suas baixas margens de lucro e abordagem focada na eficiência operacional.",
+          "meta": "380 pontos · 359 comentários"
+        },
+        {
+          "title": "Espionage Against the European Parliament",
+          "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+          "summary": "Foi determinado que um membro da comissão que examinava as atividades de spyware no Parlamento Europeu foi alvo de um spyware chamado Pegasus. Uma pesquisa realizada pelo Citizen Lab revela que os riscos de espionagem cibernética para a segurança digital dos parlamentares continuam.",
+          "meta": "326 pontos · 78 comentários"
+        },
+        {
+          "title": "Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "summary": "O guia de Jamesob detalha os requisitos de software e hardware necessários para executar modelos de linguagem grande de última geração (SOTA LLMs) em hardware nativo. Reúne métodos técnicos que permitem aos usuários instalar e otimizar modelos de alto desempenho em seus próprios sistemas.",
+          "meta": "320 pontos · 145 comentários"
+        },
+        {
+          "title": "Factories are just rooms",
+          "url": "https://interconnected.org/home/2026/07/03/factories",
+          "summary": "Argumenta-se que as instalações de produção se tornaram centros de dados baseados em software, em vez de infra-estruturas físicas. Com a digitalização dos processos físicos de produção, as fábricas estão sendo redefinidas como áreas programáveis ​​e com alto poder de processamento.",
+          "meta": "225 pontos · 90 comentários"
+        },
+        {
+          "title": "Performance per dollar is getting faster and cheaper",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "summary": "A eficiência do desempenho por dólar em hardware de inteligência artificial está aumentando rapidamente com o desenvolvimento nas arquiteturas de processadores. Essa tendência reduz os custos de poder computacional, tornando mais acessíveis os processos de treinamento e inferência de grandes modelos de linguagem.",
+          "meta": "200 pontos · 61 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "summary": "DeepSeek-V4-Pro-DSpark é um modelo de inteligência artificial otimizado para tarefas de geração de texto. Este modelo, disponível na plataforma HuggingFace, foi projetado para ser utilizado em processos de processamento de linguagem em larga escala.",
+          "meta": "♥ 350 · 9.388 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "distributed",
+      "explanation": "Realizar uma transação compartilhando-a entre vários dispositivos conectados à rede em vez de um único computador."
+    },
+    {
+      "term": "agent",
+      "explanation": "Uma unidade de software inteligente que pode tomar decisões por conta própria e usar ferramentas para executar a tarefa pretendida."
+    },
+    {
+      "term": "ROM",
+      "explanation": "Um tipo de memória permanente somente leitura que não exclui as informações contidas mesmo quando o computador está desligado."
+    }
+  ]
+}

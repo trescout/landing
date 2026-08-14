@@ -1,0 +1,149 @@
+{
+  "date": "2026-07-22",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "Desenvolvido para tornar a saída dos agentes de codificação mais focada e organizada, o i-have-adhd melhora a experiência do usuário ao dividir respostas complexas em partes. Essa habilidade baseada em Python padroniza a apresentação de informações pela IA em um formato amigável ao transtorno de déficit de atenção e hiperatividade (TDAH).",
+          "meta": "Python · ★ 7.248 · +1.866 hoje"
+        },
+        {
+          "title": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "summary": "As ferramentas de texto para CAD são um conjunto de habilidades de agente desenvolvidas para automatizar processos de robótica e design de hardware. Esta biblioteca baseada em JavaScript permite a criação de modelos de engenharia complexos com comandos de linguagem natural.",
+          "meta": "JavaScript · ★ 9.319 · +291 hoje"
+        },
+        {
+          "title": "tradesdontlie/tradingview-mcp",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "summary": "TradingView-mcp conecta Claude Code com o aplicativo de desktop TradingView, permitindo automatizar processos de análise de gráficos. Essa integração permite que os usuários personalizem fluxos de trabalho de análise técnica por meio de contexto de modelo baseado em IA (Model Context Protocol).",
+          "meta": "JavaScript · ★ 4.930 · +114 hoje"
+        },
+        {
+          "title": "AlexsJones/llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "summary": "Desenvolvido com a linguagem Rust, o llmfit verifica centenas de grandes modelos e provedores de linguagem e permite identificar aqueles compatíveis com o seu hardware com um único comando. A ferramenta automatiza o processo de localização de modelos que melhor se adequam aos recursos do sistema local.",
+          "meta": "Rust · ★ 30.309 · +129 hoje"
+        },
+        {
+          "title": "hyprwm/Hyprland",
+          "url": "https://github.com/hyprwm/Hyprland",
+          "summary": "Hyprland é um gerenciador de janelas que roda no compositor Wayland e oferece uma estrutura dinâmica personalizável. Desenvolvido em C++, esta ferramenta oferece uma experiência de desktop de alto desempenho sem comprometer a estética visual.",
+          "meta": "C++ · ★ 37.107 · +58 hoje"
+        },
+        {
+          "title": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "summary": "O código-fonte original do computador de comando e orientação do módulo lunar (Guidance Computer) utilizado na missão Apollo 11 foi disponibilizado no GitHub em linguagem assembly. O software documenta os detalhes técnicos dos algoritmos de cálculo utilizados na primeira missão tripulada a pousar na Lua.",
+          "meta": "Assembly · ★ 70.068 · +1.235 hoje"
+        },
+        {
+          "title": "DioxusLabs/dioxus",
+          "url": "https://github.com/DioxusLabs/dioxus",
+          "summary": "Dioxus é um framework Rust que permite desenvolver aplicações ponta a ponta (fullstack) com uma única base de código para plataformas web, desktop e mobile. Ele padroniza a experiência de desenvolvimento de aplicativos no ecossistema Rust, acelerando o processo de criação da interface do usuário com sua estrutura baseada em componentes semelhante ao React.",
+          "meta": "Rust · ★ 37.762 · +271 hoje"
+        },
+        {
+          "title": "langchain-ai/open_deep_research",
+          "url": "https://github.com/langchain-ai/open_deep_research",
+          "summary": "Desenvolvido pela LangChain, o open-deep-research é um sistema autônomo que realiza pesquisas em várias etapas na internet para responder questões complexas. Facilita processos de pesquisa profunda, automatizando o processo de pesquisa por meio das etapas de planejamento, coleta de dados e síntese.",
+          "meta": "Python · ★ 12.307 · +23 hoje"
+        },
+        {
+          "title": "agegr/pi-web",
+          "url": "https://github.com/agegr/pi-web",
+          "summary": "Pi-web oferece uma interface de usuário baseada na web aprimorada (UI da web) para o agente de codificação Pi. Esta ferramenta, escrita em linguagem TypeScript, permite gerenciar processos de codificação por meio de uma interface visual.",
+          "meta": "TypeScript · ★ 1.821 · +298 hoje"
+        },
+        {
+          "title": "schollz/croc",
+          "url": "https://github.com/schollz/croc",
+          "summary": "Croc é uma ferramenta que fornece transferência segura de arquivos e dados entre dois computadores usando criptografia ponta a ponta. Este software, desenvolvido com a linguagem de programação Go, utiliza um mecanismo de retransmissão temporária para facilitar o processo de transferência.",
+          "meta": "Go · ★ 36.970 · +361 hoje"
+        },
+        {
+          "title": "dottxt-ai/outlines",
+          "url": "https://github.com/dottxt-ai/outlines",
+          "summary": "A biblioteca Outlines permite que as respostas de grandes modelos de linguagem sejam apresentadas como saídas estruturadas de acordo com esquemas predefinidos. Com esta ferramenta baseada em Python, os desenvolvedores protegem a integridade dos dados restringindo as saídas do modelo com expressões regulares ou regras gramaticais livres de contexto.",
+          "meta": "Python · ★ 14.917 · +65 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "OpenAI and Hugging Face address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "summary": "OpenAI e Hugging Face resolveram o problema colaborando em um incidente de segurança que ocorreu durante os processos de avaliação do modelo. A fim de aumentar a segurança do sistema, as partes fizeram atualizações para eliminar vulnerabilidades nas suas infraestruturas de avaliação.",
+          "meta": "959 pontos · 655 comentários"
+        },
+        {
+          "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+          "summary": "O Google expandiu sua série Gemini e anunciou seus novos modelos focados em processamento rápido, Gemini 3.6 Flash, 3.5 Flash-Lite e 3.5 Flash Cyber. Esses modelos fornecem opções personalizadas de inteligência artificial que oferecem um equilíbrio entre desempenho e eficiência para diferentes necessidades de computação.",
+          "meta": "656 pontos · 512 comentários"
+        },
+        {
+          "title": "Advertise in ChatGPT",
+          "url": "https://ads.openai.com/",
+          "summary": "A OpenAI está trabalhando em uma plataforma de publicidade para veiculação de anúncios para usuários do ChatGPT. Este sistema permite que as marcas alcancem seus públicos-alvo por meio de interfaces de chat apoiadas por inteligência artificial.",
+          "meta": "600 pontos · 435 comentários"
+        },
+        {
+          "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+          "url": "https://fireworks.ai/blog/kimik3-fable",
+          "summary": "Desenvolvido pela Moonshot AI, o modelo Kimi K3 compete com o modelo Fable, atingindo níveis de desempenho de última geração. Esses modelos, oferecidos com a infraestrutura Fireworks.ai, proporcionam alta precisão e eficiência de velocidade nos processos de inferência.",
+          "meta": "499 pontos · 280 comentários"
+        },
+        {
+          "title": "FreeInk: Open ecosystem for e-readers",
+          "url": "https://freeink.org/",
+          "summary": "O FreeInk facilita a independência de dispositivos e o gerenciamento de conteúdo, fornecendo um ecossistema de código aberto para leitores de e-books. A plataforma visa fornecer uma experiência de leitura padrão e portabilidade de dados entre diferentes hardwares.",
+          "meta": "491 pontos · 113 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "reteetzad/Kimi-K3",
+          "url": "https://huggingface.co/reteetzad/Kimi-K3",
+          "summary": "O modelo Kimi-K3 compartilhado no Hugging Face é um estudo de fusão de peso desenvolvido para grandes modelos de linguagem. Seu objetivo é fornecer otimização de desempenho combinando os recursos de diferentes modelos.",
+          "meta": "♥ 530 · 0 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "MCP",
+      "explanation": "Um protocolo de ponte que permite que modelos de IA se conectem a diferentes fontes de dados e ferramentas de maneira padrão."
+    },
+    {
+      "term": "skill",
+      "explanation": "A habilidade especializada que um software ou inteligência artificial possui para realizar uma operação específica."
+    },
+    {
+      "term": "ADHD",
+      "explanation": "É uma condição neurológica que se manifesta como distração, hiperatividade e impulsividade, causando dificuldade de concentração."
+    },
+    {
+      "term": "text-to-cad",
+      "explanation": "Tecnologia que cria automaticamente desenhos e modelos técnicos tridimensionais através de comandos escritos."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "As habilidades que os assistentes de inteligência artificial adquirem para realizar tarefas como pesquisar na internet ou editar arquivos."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    }
+  ]
+}

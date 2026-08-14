@@ -26,6 +26,14 @@
       genel: 'Une erreur est survenue. Veuillez réessayer.',
       baglanti: 'Erreur de connexion. Veuillez réessayer.'
     },
+    pt: {
+      zaten: '<strong>Você já está na lista.</strong> Avisaremos quando entrarmos no ar.',
+      aldik: '<strong>Anotado.</strong> Avisaremos quando entrarmos no ar. Boa semana.',
+      onay: 'Aceite o aviso de privacidade para continuar.',
+      gonderiliyor: 'Enviando...',
+      genel: 'Algo deu errado. Tente novamente.',
+      baglanti: 'Erro de conexão. Tente novamente.'
+    },
     tr: {
       zaten: '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.',
     aldik: '<strong>Aldık.</strong> Yayında olduğumuzda size haber vereceğiz. İyi haftalar.',
@@ -35,9 +43,15 @@
       baglanti: 'Bağlantı hatası. Lütfen tekrar deneyin.'
     }
   };
-  /* Sayfanın dili · bilinmeyen dilde Türkçeye düşer (kaynak dil). */
-  var T = METIN[SAYFA_DILI] || METIN.tr;
-  var EN = SAYFA_DILI === 'en';
+  /* Sayfanın dili · <html lang> bölge kodu taşıyabiliyor ("pt-BR"). Sözlük
+     anahtarı hem tam kodu hem ana dili kabul etsin · yoksa Portekizce sayfa
+     sessizce TÜRKÇE metinlere düşüyordu ve aydınlatma modal'ı Türkçe metni
+     açıyordu (2026-08-14). */
+  function _dilSec(tablo) {
+    var l = (document.documentElement.lang || 'tr');
+    return tablo[l] || tablo[l.split('-')[0]] || tablo.tr;
+  }
+  var T = _dilSec(METIN);
 
 
   function showSuccess(form, isDuplicate) {

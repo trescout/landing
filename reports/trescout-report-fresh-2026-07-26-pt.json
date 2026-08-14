@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-26",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "summary": "O Bitchat oferece um ambiente de chat local que não requer conexão com a internet, usando tecnologia mesh Bluetooth. Desenvolvido em linguagem Swift, o aplicativo promete uma experiência semelhante ao IRC que permite aos usuários se comunicarem diretamente de perto.",
+          "meta": "Swift · ★ 28.892 · +1.720 hoje"
+        },
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro é um software de edição de vídeo que integra ferramentas de edição com tecnologia de IA ao ambiente macOS. Esta plataforma, desenvolvida em linguagem Swift, foi projetada para automatizar processos de edição de vídeo.",
+          "meta": "Swift · ★ 12.304 · +412 hoje",
+          "returning": true
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Desenvolvido por Andrew Ng, o aisuite oferece acesso a diferentes provedores de IA generativa por meio de uma única interface. Esta biblioteca baseada em Python fornece uma interface unificada que torna mais fácil para os desenvolvedores alternarem entre diferentes provedores de modelos.",
+          "meta": "Python · ★ 15.272 · +77 hoje",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Android May Soon Restrict On-Device ADB",
+          "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+          "summary": "O Google está se preparando para restringir o uso da ponte de depuração no dispositivo (ADB no dispositivo) no sistema operacional Android. Esta alteração limita as permissões de acesso aos processos de depuração locais para fortalecer os protocolos de segurança.",
+          "meta": "902 pontos · 445 comentários"
+        },
+        {
+          "title": "Open-weight AI is having its Kubernetes moment",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+          "summary": "Os modelos de IA de peso aberto estão passando por um ponto de inflexão como o Kubernetes, que padroniza a orquestração de contêineres no mundo do software. Este processo permite que o ecossistema fragmentado de inteligência artificial se una em torno de infraestruturas e ferramentas comuns e se espalhe à escala industrial.",
+          "meta": "360 pontos · 283 comentários"
+        },
+        {
+          "title": "Did They Ghost You?",
+          "url": "https://didtheyghostyou.com/",
+          "summary": "Did They Ghost You é uma plataforma que permite aos candidatos acompanhar as empresas das quais não receberam resposta durante os processos de candidatura. Ao listar as instituições às quais se candidataram, os usuários podem ver o feedback de outros candidatos e aumentar a transparência nos processos de comunicação.",
+          "meta": "359 pontos · 162 comentários"
+        },
+        {
+          "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+          "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
+          "summary": "Pontes de dossel estabelecidas nas florestas amazônicas garantiram a passagem segura da vida selvagem, resultando em zero dados de acidentes de trânsito em 15 mil travessias. Esta solução de infraestrutura permite que os animais se movam através de habitats florestais fragmentados sem serem expostos ao tráfego rodoviário.",
+          "meta": "340 pontos · 98 comentários"
+        },
+        {
+          "title": "The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "summary": "A engenharia de contexto desenvolvida para modelos da geração Claude 5 oferece novos métodos que aumentam a capacidade de foco do modelo no processamento de grandes conjuntos de dados. Essas técnicas otimizam processos complexos de análise, aumentando a precisão da recuperação de informações em textos longos.",
+          "meta": "262 pontos · 167 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "mesh",
+      "explanation": "Uma grande estrutura de rede formada por dispositivos interconectados que transferem dados entre si, em vez de um único centro."
+    }
+  ]
+}

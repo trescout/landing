@@ -33,7 +33,12 @@ from diller import DILLER
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Türkçe kaynak dil · tablosu diller.py'de yok, yolu burada.
 GIZLILIK = {"tr": "/privacy.html"}
-GIZLILIK.update({kod: d["gizlilik_yolu"] for kod, d in DILLER.items()})
+for _kod, _d in DILLER.items():
+    GIZLILIK[_kod] = _d["gizlilik_yolu"]
+    # Sayfadaki <html lang> dizin adından farklı olabilir · pt dizini "pt-BR"
+    # yazıyor. İkisini de anahtarlıyoruz, yoksa guard sayfanın dilini
+    # tanımayıp 1000'den fazla sayfayı "tanımsız dil" sayıyordu (2026-08-14).
+    GIZLILIK[_d["html_lang"].lower()] = _d["gizlilik_yolu"]
 
 FORM_DESEN = re.compile(r'<form[^>]*class="[^"]*js-subscribe[^"]*"[\s\S]*?</form>')
 
