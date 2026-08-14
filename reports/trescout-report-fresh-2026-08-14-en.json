@@ -1,0 +1,262 @@
+{
+  "date": "2026-08-14",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice is a dictation application that runs on macOS and performs speech-to-text conversion (STT) entirely on the device. This tool protects privacy by processing user data locally and offers an alternative solution to services such as Wispr Flow with similar functions.",
+          "meta": "Swift · ★ 9,936 · +76 today",
+          "returning": true
+        },
+        {
+          "title": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "summary": "Unsloth is a library that accelerates the training and execution of large language models (LLM) and diffusion models in a native environment. It makes fine-tuning processes of popular models more accessible by optimizing memory usage.",
+          "meta": "Python · ★ 71,157 · +328 today"
+        },
+        {
+          "title": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "summary": "Holehe is a Python tool that queries whether an entered email address is used on popular platforms such as Twitter and Instagram. It detects the account information associated with the relevant email using password reset functions.",
+          "meta": "Python · ★ 12,498 · +195 today"
+        },
+        {
+          "title": "holaboss-ai/holaOS",
+          "url": "https://github.com/holaboss-ai/holaOS",
+          "summary": "holaOS is an open source workspace that combines different artificial intelligence agents (Claude Code, Codex) with your tools, applications and files over a common memory. With support for more than 100 integrations and Model Link Protocol (MCP), it enables users to manage their own models (BYOK) or built-in models in a single interface.",
+          "meta": "TypeScript · ★ 6,748 · +241 today"
+        },
+        {
+          "title": "kepano/obsidian-skills",
+          "url": "https://github.com/kepano/obsidian-skills",
+          "summary": "Obsidian-skills enables artificial intelligence agents to perform operations on the note-taking application Obsidian using the command line interface (CLI) and open file formats. This tool automates personal information management by allowing agents to read and edit formats such as Markdown and JSON Canvas.",
+          "meta": "★ 45,950 · +292 today"
+        },
+        {
+          "title": "lightningpixel/modly",
+          "url": "https://github.com/lightningpixel/modly",
+          "summary": "Modly is a desktop application that creates 3D models from images and performs all operations on the local graphics card (GPU). This tool, which works without the need for an internet connection, brings the artificial intelligence-supported modeling process to personal computers.",
+          "meta": "TypeScript · ★ 5,550 · +118 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gemini 3.7 Flash",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+          "summary": "Gemini 3.7 Flash, announced by Google, is a new generation generative artificial intelligence (generative AI) model focused on high speed and low cost. The model provides increased performance on complex reasoning tasks and offers faster response times for developers.",
+          "meta": "716 points · 393 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49289112",
+              "popularity": 716,
+              "engagementCount": 393
+            }
+          ]
+        },
+        {
+          "title": "DeepSeek Harness developer preview",
+          "url": "https://deepseek.com/harness/en/",
+          "summary": "DeepSeek Harness is an evaluation framework used to measure the performance of large language models. It allows developers to benchmark their models against standard test sets and systematically analyze model capabilities.",
+          "meta": "604 points · 255 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49285244",
+              "popularity": 604,
+              "engagementCount": 255
+            }
+          ]
+        },
+        {
+          "title": "Spaghettifying DRAM",
+          "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+          "summary": "Spaghettifying DRAM, which provides random number generation by taking advantage of the physical properties of the data in DRAM memory modules, works through a hardware-based vulnerability. This method increases the predictability of cryptographic keys by exploiting leaks in memory cells.",
+          "meta": "546 points · 150 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49286341",
+              "popularity": 546,
+              "engagementCount": 150
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram",
+              "popularity": 34,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "Accelerating GPT-5.6 Sol Ultrafast",
+          "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+          "summary": "Cerebras, a company that produces artificial intelligence hardware, has developed a new technology that increases the inference speed for OpenAI models. This method aims to increase processing efficiency by reducing the response time of large language models.",
+          "meta": "507 points · 208 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49289844",
+              "popularity": 507,
+              "engagementCount": 208
+            }
+          ]
+        },
+        {
+          "title": "Choose Boring Technology (2015)",
+          "url": "https://mcfunley.com/choose-boring-technology",
+          "summary": "An approach that advocates choosing proven and stable technologies in software development processes. He states that choosing highly reliable infrastructures instead of innovative tools reduces the operational burden of teams and reduces the risk of technical debt.",
+          "meta": "298 points · 147 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49289512",
+              "popularity": 298,
+              "engagementCount": 147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Developed by Lightricks, LTX-2.5 is an image-to-video production model that converts still images into short video clips. This technology, used to animate visual content, allows users to create high-quality videos from static frames.",
+          "meta": "♥ 745 · 57,287 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos",
+          "url": "https://huggingface.co/papers/2608.11752",
+          "summary": "UniSwap offers a framework that simultaneously changes the visual and audio identity in speaking videos. It integrates reference visual and audio data into the video, preserving the motion, scene and timing in the source video.",
+          "meta": "1 likes · 1 comments"
+        },
+        {
+          "title": "LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time",
+          "url": "https://huggingface.co/papers/2608.11745",
+          "summary": "LiveAnimate is a system that produces real-time human animations from a single reference image and motion stream. It optimizes the long processing times of diffusion-based models, allowing seamless video creation in interactive areas such as live broadcasts and virtual avatars.",
+          "meta": "1 likes · 1 comments"
+        },
+        {
+          "title": "CW-BASS v2: Saturation-Aware Pseudo-Label Selection for Semi-Supervised Segmentation under Foundation-Model Teachers",
+          "url": "https://huggingface.co/papers/2608.12773",
+          "summary": "CW-BASS v2 improves semi-supervised semantic segmentation processes, which traditional methods are insufficient due to the high confidence values ​​of foundation model teachers. This new saturation-aware approach improves model performance by optimizing the selection of labels produced by powerful models.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models",
+          "url": "https://huggingface.co/papers/2608.13049",
+          "summary": "H2R-Bench is a benchmarking framework developed to evaluate video production models that transfer human hand movements to robotic end-effectors. It measures the performance of world models that synthesize robot-centered manipulation videos from human videos in order to reduce the cost of data collection in robotic learning processes.",
+          "meta": "2 likes · 1 comments"
+        },
+        {
+          "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers",
+          "url": "https://huggingface.co/papers/2608.06867",
+          "summary": "LLMRouter offers a unified infrastructure to develop, evaluate and deploy routers that select the optimal large language model for different queries and budget constraints. This system breaks down the routing process into five key components, making it easy to compare the performance of different models and create scalable workflows.",
+          "meta": "48 likes · 1 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I want extern \"fil-c\"",
+          "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+          "summary": "Software developers are looking for an external standard library to make file system operations (file I/O) in C more secure and manageable. This approach aims to reduce the margin of error in software development processes by making low-level system calls more modular.",
+          "meta": "46 points · 16 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/tssf5y/i_want_extern_fil_c",
+              "popularity": 46,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "python's pre-declared constants are kinda weird",
+          "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+          "summary": "Pre-declared constants in the Python language contain some inconsistencies that contradict the dynamic structure of the language. This brings into question technical limitations that make it difficult for developers to maintain full control over the code.",
+          "meta": "91 points · 15 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda",
+              "popularity": 91,
+              "engagementCount": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "generative AI",
+      "explanation": "Artificial intelligence technology that can create new texts, images or sounds based on previously learned information."
+    },
+    {
+      "term": "skills",
+      "explanation": "Special abilities that a software or artificial intelligence has to perform a specific task."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "The basic artificial intelligence structure that is trained with very large data sets and on which different tasks can be built."
+    },
+    {
+      "term": "STT",
+      "explanation": "Technology that listens to spoken words and converts them into written text."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "An artificial intelligence method that creates high-quality visuals from scratch by gradually editing noisy data."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "The process of customizing a general-purpose trained artificial intelligence with a small data set to perform better on a specific subject."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "MCP",
+      "explanation": "A protocol that enables artificial intelligence models to connect to different data sources and tools in a standard way."
+    },
+    {
+      "term": "BYOK",
+      "explanation": "A security approach that allows the user to encrypt their data using their own security keys."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Text-based interface that runs programs with written commands rather than the mouse."
+    },
+    {
+      "term": "inference",
+      "explanation": "The process of a trained artificial intelligence model producing a result by processing a new input given to it."
+    }
+  ]
+}

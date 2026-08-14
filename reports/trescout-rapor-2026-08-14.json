@@ -1,0 +1,367 @@
+{
+  "date": "2026-08-14",
+  "editorial": "Bugünün teknoloji gündeminde büyük dil modelleri (large language models) için geliştirilen yeni nesil mimariler ve gerçek zamanlı video işleme teknolojileri öne çıkıyor. Gemini 3.7 Flash ve DeepSeek Harness gibi duyurular model verimliliğini merkeze alırken, akademik tarafta ise canlı video akışlarında karakter animasyonu üzerine yoğun bir çalışma trafiği gözlemleniyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design, yapay zekâ kodlama asistanı Claude Code üzerinde kullanılmak üzere hazırlanan 29 farklı editoryal diyagram şablonu sunuyor. HTML ve SVG formatındaki bu bağımsız tasarımlar, karmaşık grafik araçları yerine temiz ve sade bir görselleştirme yöntemi sağlıyor.",
+          "meta": "HTML · ★ 15.284 · +4.475 bugün"
+        },
+        {
+          "title": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "summary": "Semantica, yapay zekâ sistemleri için bağlamsal veri yönetimi sağlayan grafik tabanlı bir altyapı (graph-native infrastructure). Verilerin ilişkisel yapısını koruyarak üretken yapay zekâ (generative AI) süreçlerinde daha güvenilir ve denetlenebilir sonuçlar elde edilmesini sağlıyor.",
+          "meta": "Python · ★ 6.916 · +713 bugün"
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Anthropic tarafından paylaşılan bu kütüphane, yapay zekâ ajanları için yeniden kullanılabilir yetenek paketleri (skills) sunuyor. Geliştiricilerin karmaşık iş akışlarını standartlaştırmasını ve ajan tabanlı sistemleri daha hızlı oluşturmasını sağlıyor.",
+          "meta": "Python · ★ 169.166 · +312 bugün"
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Cactus Compute tarafından geliştirilen Needle, telefonlar, giyilebilir cihazlar ve akıllı ev ürünleri gibi küçük donanımlarda çalışabilen 14 megabayt boyutunda bir temel model (foundation model). Bu hafif yapı, sınırlı işlem gücüne sahip cihazlarda yerel yapay zekâ uygulamalarını çalıştırmayı mümkün kılıyor.",
+          "meta": "Python · ★ 5.082 · +769 bugün"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice, macOS üzerinde çalışan ve konuşmayı metne dönüştürme (STT) işlemini tamamen cihaz üzerinde gerçekleştiren bir dikte uygulamasıdır. Kullanıcı verilerini yerel olarak işleyerek gizliliği koruyan bu araç, benzer işlevlere sahip Wispr Flow gibi servislere alternatif bir çözüm sunar.",
+          "meta": "Swift · ★ 9.936 · +76 bugün"
+        },
+        {
+          "title": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "summary": "Unsloth, büyük dil modelleri (LLM) ve görsel oluşturma modelleri (diffusion models) için yerel ortamda eğitim ve çalıştırma süreçlerini hızlandıran bir kütüphanedir. Bellek kullanımını optimize ederek popüler modellerin ince ayar (fine-tuning) süreçlerini daha erişilebilir hale getirir.",
+          "meta": "Python · ★ 71.157 · +328 bugün"
+        },
+        {
+          "title": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "summary": "Macro, e-posta, sohbet, dokümanlar ve görev yönetimi gibi iş araçlarını tek bir arayüzde birleştiren bir çalışma alanı. Rust diliyle geliştirilen bu platform, tüm iş akışlarını paylaşımlı bir yapay zekâ hafızası üzerinden birbirine bağlıyor.",
+          "meta": "Rust · ★ 2.696 · +1.239 bugün"
+        },
+        {
+          "title": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "summary": "Holehe, girilen bir e-posta adresinin Twitter ve Instagram gibi popüler platformlarda kullanılıp kullanılmadığını sorgulayan bir Python aracıdır. Parola sıfırlama işlevlerini kullanarak ilgili e-posta ile ilişkilendirilmiş hesap bilgilerini tespit eder.",
+          "meta": "Python · ★ 12.498 · +195 bugün"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot, açık kaynaklı istihbarat (OSINT) süreçlerini otomatize ederek siber tehditleri belirleyen ve saldırı yüzeyini haritalandıran bir güvenlik aracıdır. Python diliyle geliştirilen bu platform, geniş veri kaynaklarını tarayarak dijital varlıkların güvenlik açıklarını analiz eder.",
+          "meta": "Python · ★ 20.712 · +283 bugün"
+        },
+        {
+          "title": "NVIDIA-NeMo/Switchyard",
+          "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+          "summary": "NVIDIA tarafından geliştirilen Switchyard, büyük dil modelleri (large language models) için trafiği farklı sağlayıcılar arasında yönlendiren bir uygulama arayüzü katmanı. OpenAI ve Anthropic standartlarıyla uyumlu yapısı sayesinde geliştiriciler, maliyet ve performans hedeflerine göre modeller arasında esnek geçiş yapabiliyor.",
+          "meta": "Rust · ★ 1.291 · +408 bugün"
+        },
+        {
+          "title": "holaboss-ai/holaOS",
+          "url": "https://github.com/holaboss-ai/holaOS",
+          "summary": "holaOS, farklı yapay zekâ ajanlarını (Claude Code, Codex) araçlarınız, uygulamalarınız ve dosyalarınızla ortak bir bellek üzerinden birleştiren açık kaynaklı bir çalışma alanı. 100'den fazla entegrasyon ve Model Bağlantı Protokolü (MCP) desteğiyle, kullanıcıların kendi modellerini (BYOK) veya yerleşik modelleri tek bir arayüzde yönetmesini sağlıyor.",
+          "meta": "TypeScript · ★ 6.748 · +241 bugün"
+        },
+        {
+          "title": "kepano/obsidian-skills",
+          "url": "https://github.com/kepano/obsidian-skills",
+          "summary": "Obsidian-skills, not alma uygulaması Obsidian üzerinde yapay zekâ ajanlarının komut satırı arayüzü (CLI) ve açık dosya biçimlerini kullanarak işlem yapmasını sağlıyor. Bu araç, ajanların Markdown ve JSON Canvas gibi formatları okuyup düzenlemesine olanak tanıyarak kişisel bilgi yönetimini otomatize ediyor.",
+          "meta": "★ 45.950 · +292 bugün"
+        },
+        {
+          "title": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "summary": "Matematiksel kavramları görselleştirmek için geliştirilen Manim, Python tabanlı bir animasyon motorudur. Karmaşık denklemleri ve geometrik yapıları açıklayıcı videolara dönüştürmek amacıyla eğitim içerikleri üretenler tarafından tercih edilir.",
+          "meta": "Python · ★ 90.959 · +176 bugün"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-agents, farklı uzmanlık alanlarına sahip yapay zekâ ajanlarını tek bir çatı altında toplayan bir yazılım koleksiyonu. Arayüz geliştirmeden topluluk yönetimine kadar çeşitli görevleri yerine getiren bu uzman ajanlar, belirli iş süreçlerini otomatize etmek için tasarlanıyor.",
+          "meta": "Shell · ★ 145.283 · +778 bugün"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "summary": "Lightricks tarafından yayınlanan LTX-2, ses ve video üreten bir yapay zekâ modeli (generative model) için resmi Python çıkarım (inference) ve düşük dereceli uyarlama (LoRA) eğitim paketidir. Bu araç, geliştiricilerin kendi veri setleriyle model üzerinde ince ayar (fine-tuning) yapmalarına olanak tanır.",
+          "meta": "Python · ★ 8.960 · +205 bugün"
+        },
+        {
+          "title": "lightningpixel/modly",
+          "url": "https://github.com/lightningpixel/modly",
+          "summary": "Modly, görsellerden üç boyutlu modeller (3D models) oluşturan ve tüm işlemleri yerel ekran kartı (GPU) üzerinde gerçekleştiren bir masaüstü uygulamasıdır. İnternet bağlantısına ihtiyaç duymadan çalışan bu araç, yapay zekâ destekli modelleme sürecini kişisel bilgisayarlara taşır.",
+          "meta": "TypeScript · ★ 5.550 · +118 bugün"
+        },
+        {
+          "title": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "summary": "RAGFlow, büyük dil modelleri (LLM) için bağlam katmanı oluşturan açık kaynaklı bir getirme temelli üretim (RAG) motoru. Gelişmiş RAG tekniklerini ajan yetenekleriyle birleştirerek verilerin işlenmesini ve yanıt kalitesini optimize ediyor.",
+          "meta": "Go · ★ 88.121 · +465 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gemini 3.7 Flash",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+          "summary": "Google tarafından duyurulan Gemini 3.7 Flash, yüksek hız ve düşük maliyet odaklı yeni nesil bir üretken yapay zekâ (generative AI) modeli. Model, karmaşık akıl yürütme görevlerinde performans artışı sağlarken geliştiriciler için daha hızlı yanıt süreleri sunuyor.",
+          "meta": "716 oy · 393 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49289112",
+              "popularity": 716,
+              "engagementCount": 393
+            }
+          ]
+        },
+        {
+          "title": "DeepSeek Harness developer preview",
+          "url": "https://deepseek.com/harness/en/",
+          "summary": "DeepSeek Harness, büyük dil modellerinin performansını ölçmek için kullanılan bir değerlendirme çerçevesi (evaluation framework). Geliştiricilerin modellerini standart test setleri üzerinden kıyaslamasına ve model yeteneklerini sistematik olarak analiz etmesine olanak tanıyor.",
+          "meta": "604 oy · 255 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49285244",
+              "popularity": 604,
+              "engagementCount": 255
+            }
+          ]
+        },
+        {
+          "title": "Spaghettifying DRAM",
+          "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+          "summary": "DRAM bellek modüllerindeki verilerin fiziksel özelliklerinden yararlanarak rastgele sayı üretimi sağlayan Spaghettifying DRAM, donanım tabanlı bir güvenlik açığı (vulnerability) üzerinden çalışıyor. Bu yöntem, bellek hücrelerindeki sızıntıları kullanarak kriptografik anahtarların tahmin edilebilirliğini artırıyor.",
+          "meta": "546 oy · 150 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49286341",
+              "popularity": 546,
+              "engagementCount": 150
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram",
+              "popularity": 34,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "Accelerating GPT-5.6 Sol Ultrafast",
+          "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+          "summary": "Cerebras, yapay zekâ donanımı üreten bir şirket, OpenAI modelleri için çıkarım (inference) hızını artıran yeni bir teknoloji geliştirdi. Bu yöntem, büyük dil modellerinin (large language models) yanıt verme süresini düşürerek işlem verimliliğini yükseltmeyi hedefliyor.",
+          "meta": "507 oy · 208 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49289844",
+              "popularity": 507,
+              "engagementCount": 208
+            }
+          ]
+        },
+        {
+          "title": "Choose Boring Technology (2015)",
+          "url": "https://mcfunley.com/choose-boring-technology",
+          "summary": "Yazılım geliştirme süreçlerinde kanıtlanmış ve istikrarlı teknolojilerin tercih edilmesini savunan bir yaklaşım. Yenilikçi araçlar yerine güvenilirliği yüksek altyapıları seçmenin, ekiplerin operasyonel yükünü azalttığını ve teknik borç (technical debt) riskini düşürdüğünü belirtiyor.",
+          "meta": "298 oy · 147 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49289512",
+              "popularity": 298,
+              "engagementCount": 147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "HuggingFace üzerinde yayınlanan Muse-Glimmer-30B, görsel ve metinsel verileri aynı anda işleyebilen çok modlu bir dil modeli (multimodal language model). Bu model, karmaşık görüntüleri analiz ederek metin tabanlı çıktılar üretme yeteneği sunuyor.",
+          "meta": "♥ 1.437 · 121.042 indirme"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMaxAI tarafından geliştirilen MiniMax-H3, görsel ve metin girdilerini kullanarak video oluşturan bir üretken yapay zekâ (generative AI) modelidir. Kullanıcılara statik içeriklerden veya yazılı komutlardan hareketli görüntüler üretme imkânı tanır.",
+          "meta": "♥ 3.844 · 1.605.940 indirme"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Alibaba tarafından geliştirilen metin üretme modeli (text-generation model) Qwen3.8, geniş veri setleri üzerinde eğitilen yüksek kapasiteli bir yapay zekâ mimarisi sunuyor. Açık kaynaklı model kütüphanesi HuggingFace üzerinde paylaşılan bu sistem, karmaşık dil işleme görevlerini yerine getirmek için optimize ediliyor.",
+          "meta": "♥ 809 · 1.012 indirme"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Lightricks tarafından geliştirilen LTX-2.5, durağan görselleri kısa video kliplerine dönüştüren bir görüntüden videoya (image-to-video) üretim modelidir. Görsel içerikleri hareketlendirmek için kullanılan bu teknoloji, kullanıcıların statik karelerden yüksek kaliteli videolar oluşturmasını sağlar.",
+          "meta": "♥ 745 · 57.287 indirme"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek tarafından geliştirilen metin üretme modeli (text-generation model) DeepSeek-V4-Flash-0731, yüksek performanslı dil işleme görevleri için optimize edilmiş bir yapı sunuyor. Model, Hugging Face gibi platformlarda paylaşılan açık ağırlıklı modeller arasında hızlı yanıt süreleriyle dikkat çekiyor.",
+          "meta": "♥ 3.333 · 1.431.587 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos",
+          "url": "https://huggingface.co/papers/2608.11752",
+          "summary": "UniSwap, konuşan videolarda görsel ve işitsel kimliği eş zamanlı olarak değiştiren bir çerçeve (framework) sunuyor. Kaynak videodaki hareket, sahne ve zamanlamayı koruyarak referans görsel ve ses verisini videoya entegre ediyor.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time",
+          "url": "https://huggingface.co/papers/2608.11745",
+          "summary": "LiveAnimate, tek bir referans görselden ve hareket akışından gerçek zamanlı insan animasyonları üreten bir sistemdir. Difüzyon tabanlı modellerin uzun süren işlem sürelerini optimize ederek canlı yayın ve sanal avatarlar gibi etkileşimli alanlarda kesintisiz video oluşturulmasına imkân tanır.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "CW-BASS v2: Saturation-Aware Pseudo-Label Selection for Semi-Supervised Segmentation under Foundation-Model Teachers",
+          "url": "https://huggingface.co/papers/2608.12773",
+          "summary": "CW-BASS v2, temel model (foundation model) öğretmenlerin yüksek güven değerleri nedeniyle geleneksel yöntemlerin yetersiz kaldığı yarı denetimli anlamsal bölümleme (semi-supervised semantic segmentation) süreçlerini iyileştiriyor. Doygunluk farkındalıklı (saturation-aware) bu yeni yaklaşım, güçlü modellerin ürettiği etiketlerin seçimini optimize ederek model performansını artırıyor.",
+          "meta": "0 beğeni · 1 yorum"
+        },
+        {
+          "title": "H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models",
+          "url": "https://huggingface.co/papers/2608.13049",
+          "summary": "H2R-Bench, insan el hareketlerini robotik tutuculara (end-effectors) aktaran video üretim modellerini değerlendirmek için geliştirilmiş bir kıyaslama çerçevesidir. Robotik öğrenme süreçlerinde veri toplama maliyetini düşürmek amacıyla, insan videolarından robot merkezli manipülasyon videoları sentezleyen dünya modellerinin (world models) performansını ölçer.",
+          "meta": "2 beğeni · 1 yorum"
+        },
+        {
+          "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers",
+          "url": "https://huggingface.co/papers/2608.06867",
+          "summary": "LLMRouter, farklı sorgular ve bütçe kısıtlamaları için en uygun büyük dil modelini (large language model) seçen yönlendiricileri geliştirmek, değerlendirmek ve dağıtmak için birleşik bir altyapı sunuyor. Bu sistem, yönlendirme sürecini beş temel bileşene ayırarak farklı modellerin performansını karşılaştırmayı ve ölçeklenebilir iş akışları oluşturmayı kolaylaştırıyor.",
+          "meta": "48 beğeni · 1 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I want extern \"fil-c\"",
+          "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+          "summary": "Yazılımcılar, C dilindeki dosya sistemi işlemlerini (file I/O) daha güvenli ve yönetilebilir kılmak adına harici bir standart kütüphane (extern library) arayışında. Bu yaklaşım, düşük seviyeli sistem çağrılarını (system calls) daha modüler hale getirerek yazılım geliştirme süreçlerinde hata payını azaltmayı hedefliyor.",
+          "meta": "46 oy · 16 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/tssf5y/i_want_extern_fil_c",
+              "popularity": 46,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "python's pre-declared constants are kinda weird",
+          "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+          "summary": "Python dilinde önceden tanımlanmış sabitler (pre-declared constants), dilin dinamik yapısıyla çelişen bazı tutarsızlıklar barındırıyor. Bu durum, geliştiricilerin kod üzerinde tam kontrol sağlamasını zorlaştıran teknik sınırlamaları tartışmaya açıyor.",
+          "meta": "91 oy · 15 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda",
+              "popularity": 91,
+              "engagementCount": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "graph-native infrastructure",
+      "explanation": "Veriler arasındaki karmaşık ilişkileri doğrudan bağlantılar üzerinden hızlıca işlemek için tasarlanmış özel altyapı."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Daha önce öğrendiği bilgilerden yola çıkarak yeni metinler, görseller veya sesler oluşturabilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya yapay zekânın belirli bir görevi yerine getirmek için sahip olduğu özel yetenekler."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Çok geniş veri kümeleriyle eğitilmiş ve üzerine farklı görevler inşa edilebilen temel yapay zekâ yapısı."
+    },
+    {
+      "term": "STT",
+      "explanation": "Söylenen sözleri dinleyip bunları yazılı metne dönüştüren teknoloji."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Gürültülü verileri adım adım düzenleyerek sıfırdan yüksek kaliteli görseller oluşturan yapay zekâ yöntemi."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Genel amaçlı eğitilmiş bir yapay zekâyı, belirli bir konuda daha iyi sonuç vermesi için küçük bir veri setiyle özelleştirme süreci."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "İnternette herkese açık olan kaynakları kullanarak bilgi toplama ve analiz etme yöntemi."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarına ve araçlara standart bir yolla bağlanmasını sağlayan protokol."
+    },
+    {
+      "term": "BYOK",
+      "explanation": "Kullanıcının kendi güvenlik anahtarlarını kullanarak verilerini şifrelemesine izin veren bir güvenlik yaklaşımı."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "generative model",
+      "explanation": "Eğitim verilerindeki desenleri kullanarak yeni ve özgün içerikler üretebilen sistem."
+    },
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin, kendisine verilen yeni bir girdiyi işleyerek bir sonuç üretmesi süreci."
+    },
+    {
+      "term": "LoRA",
+      "explanation": "Büyük bir yapay zekâ modelini tümünü değiştirmeden, sadece küçük bir kısmını güncelleyerek daha hızlı ve verimli şekilde eğitme yöntemi."
+    }
+  ]
+}
