@@ -10,12 +10,53 @@ Kaynak dil DAİMA Türkçe · sayfalar Türkçesinden üretilir, buradaki tablol
 yalnız arayüz metinlerini (başlık, düğme, uyarı) taşır. İçerik metinleri
 çeviri uç noktasından geçer.
 
-Yeni dil eklerken:
-  1. DILLER'e kodu ve tabloyu ekleyin
-  2. scripts/fix-all-headers-and-footers.js'e o dilin nav/footer'ını ekleyin
-  3. check-nav-consistency.py ve check-footer-consistency.py'ye kanonik seti ekleyin
-  4. assets/subscribe.js · index.js · discover.js sözlüklerine dalı ekleyin
-  5. trescout-app/lib/report/template.ts I18N paketine ekleyin (rapor PDF'i)
+YENİ DİL EKLEME · 2026-08-14'te Portekizce eklenirken gerçekten yapılanlar.
+Eski liste beş maddeydi ve ikisi artık gereksiz (guard'lar ve normalize edicinin
+atlama listesi bu tablodan türüyor). Sırayı bozmayın · 3'ten önce 4 yaparsanız
+keşif sayfaları çapraz bağlantısız çıkar.
+
+  1. Buraya tabloyu ekleyin. Dizin adı ile hreflang FARKLI olabilir:
+     Portekizce dizini "pt", hreflang'i "pt-BR" ("hreflang" alanı).
+     Diğer dillerin "dil_dugmeleri" listesine de yeni dili ekleyin.
+
+  2. İstemci sözlükleri · assets/index.js · subscribe.js · discover.js ·
+     dictionary.js. DİKKAT: anahtarı sayfanın <html lang>'i ile eşleşmeli ya da
+     _dilSec bölge kodunu kırpabilmeli. "pt-BR" anahtarı "pt" iken sözlük
+     sessizce TÜRKÇEYE düşüyordu ve aydınlatma modal'ı Türkçe metni açıyordu.
+
+  3. Çeviri alanları: node scripts/translate-i18n.js --lang=XX
+     (katalog tagline_XX + sözlük kisa_XX)
+
+  4. Sayfalar · SIRA ÖNEMLİ, önce sözlük:
+        python3 scripts/dictionary-en.py --lang=XX
+        python3 scripts/discover-en.py   --lang=XX
+     Keşif sayfasındaki "İlgili sözlük terimleri" bölümü o dilde sözlük sayfası
+     DİSKTE varsa basılıyor · ters sırada 400+ sayfa çapraz bağlantısız çıkar.
+
+  5. Dizinler, kapaklar, elle yazılan sayfalar:
+        node scripts/build-en.js --lang=XX
+        python3 scripts/kapak-gorselleri.py --lang=XX
+        python3 scripts/dil-anasayfa.py --lang=XX     (küçük giriş sayfası)
+     Ana sayfayı tam çevirecekseniz dil-kabuk-tazele.py'ye ve
+     check-sayfa-paritesi.py'ye o dili ekleyin · karşılaştırma ve aydınlatma
+     metni de elle yazılır.
+
+  6. Rapor · trescout-app: template.ts I18N + SOURCE_LABEL_XX + formatDate,
+     build-lang-report.ts DILLER, publish-report.ts RAPOR_DILLERI.
+     Arşivi geriye dönük basacaksanız: build-lang-report.ts <tarihler> --lang=XX
+     Sonra landing'de: node scripts/build-reports-en.js --lang=XX
+
+  7. Hat · .github/workflows/dict-sync.yml'ye adımları ekleyin (çeviri, sayfalar,
+     dizinler, kapaklar, rapor sayfaları, kabuk tazeleme).
+
+  8. Kapanış: fix-all-headers-and-footers.js → hreflang-normalize.py →
+     sitemap-sync.py → llms-txt.py, sonra on guard.
+
+KENDİLİĞİNDEN OLANLAR (elle dokunmayın):
+  · nav/footer guard'ları beklenen setleri buradan türetiyor
+  · normalize edicinin atlayacağı diller listesi buradan
+  · hreflang normalize edici ve guard'ı buradan
+  · yönlendirme üreticisi ve birleşme guard'ı dil öneklerini buradan
 """
 
 import re
