@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-01",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-skill ofrece un paquete de enrutamiento respaldado por inteligencia artificial para procesos de ingeniería inversa y pruebas de penetración. Con sus funciones de arranque de cadena de herramientas y base de conocimientos de desarrollo propio, Claude Code se integra con herramientas de codificación como Cursor y Cline.",
+          "meta": "PowerShell · ★ 11.014 · +335 hoy"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot es una plataforma de código abierto que ofrece chat en vivo, soporte por correo electrónico y gestión de servicio al cliente omnicanal. Desarrollada como una alternativa a software como Intercom y Zendesk, esta herramienta permite centralizar las interacciones con los clientes a través de un único panel.",
+          "meta": "Ruby · ★ 35.205 · +35 hoy",
+          "returning": true
+        },
+        {
+          "title": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "summary": "Kaneo es una herramienta de gestión de proyectos de código abierto desarrollada con una interfaz orientada al usuario. Escrita en TypeScript, la plataforma tiene como objetivo crear flujos de trabajo sin complejidad.",
+          "meta": "TypeScript · ★ 5.248 · +194 hoy"
+        },
+        {
+          "title": "geo-tp/ESP32-Bit-Pirate",
+          "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+          "summary": "ESP32-Bit-Pirate es una herramienta de piratería de hardware que admite múltiples protocolos de comunicación a través de una interfaz de línea de comandos (CLI) basada en web. Este sistema, desarrollado en lenguaje C++, facilita los procesos de análisis de hardware al gestionar diferentes protocolos en una única plataforma.",
+          "meta": "C++ · ★ 5.115 · +83 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Elevators",
+          "url": "https://john.fun/elevators",
+          "summary": "Este estudio examina la lógica operativa y los algoritmos de selección de piso de los ascensores y se centra en la optimización de la eficiencia en los sistemas de transporte vertical. Analiza estrategias de control distribuido que reducen los tiempos de espera y ahorran energía a través de simulaciones basadas en software.",
+          "meta": "1.130 puntos · 268 comentarios"
+        },
+        {
+          "title": "qm – Multiplayer agent harness for work",
+          "url": "https://github.com/yc-software/qm",
+          "summary": "qm ofrece una infraestructura que proporciona colaboración y gestión de tareas para agentes de IA multijugador. Esta herramienta permite que diferentes agentes ejecuten tareas simultáneamente en un espacio de trabajo compartido.",
+          "meta": "526 puntos · 110 comentarios"
+        },
+        {
+          "title": "Tailscale didn't stop the Hugging Face intrusion",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "summary": "El incidente de acceso no autorizado en Hugging Face muestra que el uso de una red segura (VPN en malla) por sí solo no es suficiente para garantizar la seguridad del sistema. Cuando las soluciones de red seguras no están respaldadas por medidas de seguridad en capas, como la autenticación y el control de acceso, pueden ocurrir vulnerabilidades.",
+          "meta": "517 puntos · 195 comentarios"
+        },
+        {
+          "title": "Twenty-five years ago it was cryptography, today it's model weights",
+          "url": "https://weeraman.com/because-we-can/",
+          "summary": "Los debates sobre código abierto que tuvieron lugar en el campo de la criptografía hace veinticinco años se repiten hoy en torno a la accesibilidad de los pesos de los modelos de inteligencia artificial. El mundo de la tecnología está redefiniendo los límites entre el acceso abierto y los sistemas cerrados para equilibrar la seguridad y la innovación.",
+          "meta": "222 puntos · 108 comentarios"
+        },
+        {
+          "title": "Big Food vs. the People",
+          "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+          "summary": "La investigación, realizada por Lighthouse Reports, examina los esfuerzos de lobby de las principales empresas alimentarias para influir en las políticas nutricionales y su presión sobre los datos científicos. El estudio proporciona evidencia concreta de las estrategias que utiliza la industria alimentaria para eludir las normas de salud pública.",
+          "meta": "218 puntos · 142 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731 es un modelo de lenguaje optimizado para tareas de generación de texto. Admite el procesamiento de lenguaje a gran escala con su arquitectura orientada a baja latencia y alta eficiencia.",
+          "meta": "♥ 1.119 · 0 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "routing pack",
+      "explanation": "Conjunto de reglas de enrutamiento utilizadas en redes informáticas para garantizar que los datos lleguen a su destino lo más rápido posible."
+    },
+    {
+      "term": "toolchain bootstrapping",
+      "explanation": "El proceso de crear una herramienta de desarrollo de software desde cero para que pueda construirse por sí misma."
+    },
+    {
+      "term": "omni-channel",
+      "explanation": "Ofreciendo una experiencia ininterrumpida al cliente conectando todos los canales de venta de una marca."
+    },
+    {
+      "term": "project management",
+      "explanation": "Planificar y gestionar recursos, tiempo y tareas para lograr los objetivos de una empresa."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que ejecuta programas con comandos escritos en lugar del mouse."
+    },
+    {
+      "term": "harness",
+      "explanation": "Una herramienta de utilidad que se utiliza para probar si un software o sistema está funcionando correctamente."
+    }
+  ]
+}

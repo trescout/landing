@@ -1,0 +1,347 @@
+{
+  "date": "2026-08-06",
+  "editorial": "Las pruebas de seguridad entre agentes autónomos y modelos de lenguaje de nueva generación en el ecosistema de inteligencia artificial están hoy en el centro de la agenda tecnológica. Los cambios estructurales en la gestión de Google DeepMind y el proceso de formulación de políticas de inteligencia artificial del lenguaje Rust muestran que la industria se está centrando en el gobierno corporativo y los estándares de seguridad.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "summary": "Desarrollada por Cloudflare, Computer es una biblioteca TypeScript que brinda a los agentes de inteligencia artificial la capacidad de controlar una computadora local o remota. Esta herramienta permite a los agentes ejecutar comandos en el sistema operativo y automatizar tareas complejas accediendo al sistema de archivos.",
+          "meta": "TypeScript · ★ 3.677 · +891 hoy"
+        },
+        {
+          "title": "huangruiteng/loopx",
+          "url": "https://github.com/huangruiteng/loopx",
+          "summary": "Loopx es un núcleo de estado liviano desarrollado para equipos de agentes de inteligencia artificial a largo plazo. Funciona de forma compatible con agentes de codificación (Codex, Claude Code) y estandariza procesos como el seguimiento de tareas, la gestión de cuotas y la transferencia de trabajo verificable.",
+          "meta": "Python · ★ 2.385 · +326 hoy"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory es un centro para agentes de IA que transforma datos como el historial de chat, documentos y códigos en activos de memoria administrables. Este sistema estandariza los datos compartidos entre diferentes agentes y marcos en cuatro estructuras principales (memoria de chat, capacidad, base de conocimientos y gráfico de código).",
+          "meta": "TypeScript · ★ 15.340 · +1.892 hoy"
+        },
+        {
+          "title": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "summary": "System Design Primer es un repositorio integral de recursos para aprender a diseñar sistemas a gran escala y prepararse para entrevistas técnicas. La información teórica y las tarjetas prácticas que contiene facilitan la comprensión de arquitecturas de sistemas complejos.",
+          "meta": "Python · ★ 361.728 · +303 hoy"
+        },
+        {
+          "title": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "summary": "PDF Inspector es una biblioteca Rust rápida para inspeccionar, clasificar y extraer texto de archivos PDF. Al distinguir los documentos escaneados de los archivos de texto, permite tomar decisiones de enrutamiento inteligentes en los procesos de procesamiento de datos.",
+          "meta": "Rust · ★ 11.731 · +1.582 hoy"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix es un agente de codificación de IA que se ejecuta en el terminal y se integra con los modelos de DeepSeek. Centrándose en la estabilidad de la caché de prefijos, esta herramienta proporciona soporte de desarrollo ininterrumpido durante largas sesiones.",
+          "meta": "Go · ★ 31.848 · +747 hoy"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Desarrolladas para agentes de codificación de inteligencia artificial, las habilidades de los agentes ofrecen habilidades de ingeniería adecuadas para la etapa de producción. Esta biblioteca basada en JavaScript tiene como objetivo estandarizar las habilidades técnicas de los agentes que automatizan los procesos de desarrollo de software.",
+          "meta": "JavaScript · ★ 82.125 · +226 hoy"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers es un marco de habilidades de agente y una metodología de desarrollo de software desarrollado para agentes de inteligencia artificial. Proporciona un método operativo estándar para construir sistemas autónomos que realizan tareas complejas.",
+          "meta": "Shell · ★ 267.509 · +931 hoy"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "La supervisión es una biblioteca de Python que proporciona herramientas reutilizables utilizadas en proyectos de visión por computadora. Acelera los procesos de procesamiento de imágenes al estandarizar tareas comunes como el seguimiento y la visualización de objetos.",
+          "meta": "Python · ★ 49.024 · +146 hoy"
+        },
+        {
+          "title": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "summary": "Next.js es un marco React utilizado para desarrollar aplicaciones web modernas. Aumenta el rendimiento y la compatibilidad con los motores de búsqueda de proyectos web con funciones como la representación del lado del servidor y la creación de sitios estáticos.",
+          "meta": "JavaScript · ★ 141.599 · +68 hoy"
+        },
+        {
+          "title": "tailwindlabs/tailwindcss",
+          "url": "https://github.com/tailwindlabs/tailwindcss",
+          "summary": "Tailwind CSS es un marco CSS de utilidad que utiliza clases de estilo predefinidas al crear interfaces web. Permite a los desarrolladores diseñar rápidamente directamente a través de etiquetas HTML, sin escribir archivos CSS personalizados.",
+          "meta": "TypeScript · ★ 96.944 · +408 hoy"
+        },
+        {
+          "title": "uber/ADR",
+          "url": "https://github.com/uber/ADR",
+          "summary": "Desarrollado por Uber, ADR es un marco de seguridad que tiene como objetivo proteger a los agentes corporativos de inteligencia artificial mediante observabilidad, evaluaciones comparativas de seguridad y métodos de detección de amenazas. El software ayuda a detectar posibles vulnerabilidades de seguridad auditando los procesos de trabajo de sistemas complejos de inteligencia artificial.",
+          "meta": "Python · ★ 1.116 · +354 hoy"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM permite ejecutar modelos de lenguajes grandes con 70 mil millones de parámetros en procesadores gráficos (GPU) con solo 4 GB de memoria. Permite a los desarrolladores ejecutar potentes modelos de IA en sus sistemas locales sin altos costos de hardware.",
+          "meta": "Jupyter Notebook · ★ 29.251 · +833 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Discovery Loop",
+          "url": "https://www.discoveryloop.com/",
+          "summary": "Discovery Loop es una plataforma que mejora los procesos de desarrollo de los desarrolladores de software mediante el análisis de comentarios sobre productos y datos de usuarios. Al recopilar información sobre los usuarios en un punto central, su objetivo es acelerar el ciclo de desarrollo del producto con decisiones basadas en datos.",
+          "meta": "682 puntos · 420 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49184960",
+              "popularity": 682,
+              "engagementCount": 420
+            }
+          ]
+        },
+        {
+          "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "summary": "Se están produciendo cambios en la alta dirección dentro de Google DeepMind. Demis Hassabis pasará de director ejecutivo (CEO) a presidente de la junta directiva (presidente), mientras que el alto ejecutivo Jeff Dean dejará su puesto.",
+          "meta": "591 puntos · 652 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49184755",
+              "popularity": 591,
+              "engagementCount": 652
+            }
+          ]
+        },
+        {
+          "title": "Cloudflare OS: an open platform for agents, apps, and work",
+          "url": "https://blog.cloudflare.com/cloudflare-os/",
+          "summary": "Cloudflare OS es una plataforma abierta desarrollada por el proveedor de infraestructura de Internet Cloudflare para agentes y aplicaciones de inteligencia artificial. Permite a los desarrolladores trabajar directamente en sistemas distribuidos sin tener que lidiar con una gestión de infraestructura compleja.",
+          "meta": "527 puntos · 257 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49182996",
+              "popularity": 527,
+              "engagementCount": 257
+            }
+          ]
+        },
+        {
+          "title": "Zed DeltaDB",
+          "url": "https://zed.dev/deltadb",
+          "summary": "El editor de código Zed proporciona gestión de datos de alto rendimiento en procesos de edición de texto al colaborar con la tecnología de base de datos nativa DeltaDB. Esta integración tiene como objetivo optimizar el uso de la memoria y aumentar la velocidad de la aplicación al procesar archivos de código complejos.",
+          "meta": "366 puntos · 198 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49187256",
+              "popularity": 366,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+          "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+          "summary": "Desarrollado por Neon, Castform supera los modelos de vanguardia en operaciones de recuperación de datos a menor costo y mayor eficiencia. Este método, que optimiza los modelos de código abierto, ofrece una alternativa, especialmente para aplicaciones de inteligencia artificial orientadas a los costes.",
+          "meta": "276 puntos · 68 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49186762",
+              "popularity": 276,
+              "engagementCount": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, desarrollado por MiniMax, es un modelo de inteligencia artificial que produce videos utilizando entradas visuales y de texto. Este modelo automatiza el proceso de creación de vídeos dinámicos a partir de contenido estático.",
+          "meta": "♥ 2.557 · 10.841 descargas"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, desarrollado por DeepSeek, es un nuevo modelo de lenguaje centrado en la generación de texto. Este modelo, optimizado para ofrecer tiempos de respuesta rápidos, está siendo probado por una amplia gama de usuarios en la plataforma Hugging Face.",
+          "meta": "♥ 2.528 · 433.284 descargas"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, desarrollado por Moonshot AI, es un modelo de lenguaje multimodal que puede procesar datos visuales y de texto. Esta tecnología, que produce respuestas significativas mediante el análisis de imágenes y textos subidos por los usuarios, se ofrece como modelo de código abierto en Hugging Face.",
+          "meta": "♥ 10.144 · 1.125.935 descargas"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3, compartido en Hugging Face, es un modelo de inteligencia artificial con capacidades multimodales. Este modelo, que puede procesar datos visuales y basados ​​en texto, está disponible para los desarrolladores a través de la plataforma de modelos de inteligencia artificial de código abierto Hugging Face.",
+          "meta": "♥ 774 · 2 descargas"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion es un modelo de inteligencia artificial multimodal que puede procesar texto y datos visuales. Este modelo, compartido en Hugging Face, fue desarrollado para la producción de contenido complejo con su estructura sin censura y una gran cantidad de parámetros.",
+          "meta": "♥ 1.605 · 1.633.405 descargas"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "AVE-Compass: Towards Holistic Evaluation for Audio-Video Editing Abilities",
+          "url": "https://huggingface.co/papers/2607.24821",
+          "summary": "AVE-Compass es un punto de referencia integral (benchmark) desarrollado para medir de manera integral las capacidades de edición de audio y video. A diferencia de los métodos existentes, prueba la coherencia en los procesos de edición multimodal centrándose en la armonía entre sonido e imagen.",
+          "meta": "7 me gusta · 1 comentarios"
+        },
+        {
+          "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming",
+          "url": "https://huggingface.co/papers/2608.05108",
+          "summary": "PIMiner es un sistema que prueba automáticamente ataques de inyección de comandos contra modelos de lenguaje grandes. A diferencia de los métodos tradicionales de aprendizaje por refuerzo, proporciona una auditoría de seguridad basada en agentes que ofrece una mayor tasa de éxito en diferentes modelos.",
+          "meta": "0 me gusta · 1 comentarios"
+        },
+        {
+          "title": "Consistency-Driven Co-Evolution for Self-Supervised Cross-Representation Learning",
+          "url": "https://huggingface.co/papers/2608.04926",
+          "summary": "Con el objetivo de comprender las complejas relaciones entre imágenes gráficas, datos de tablas y códigos de visualización, CoCoEvolve utiliza el método de aprendizaje de representación cruzada autosupervisado. Este enfoque ofrece un mecanismo de coevolución orientado a la coherencia para resolver relaciones ambiguas entre diferentes tipos de datos.",
+          "meta": "0 me gusta · 1 comentarios"
+        },
+        {
+          "title": "Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data",
+          "url": "https://huggingface.co/papers/2608.02580",
+          "summary": "Ego2Robot es un canal de síntesis de datos escalable que acelera los procesos de aprendizaje de los robots al convertir videos tomados desde la perspectiva humana en formato de datos robóticos. Este método facilita la producción de diversos y grandes volúmenes de datos necesarios para entrenar modelos de visión-lenguaje-acción a gran escala.",
+          "meta": "8 me gusta · 1 comentarios"
+        },
+        {
+          "title": "K-EXAONE 2.0 Technical Report",
+          "url": "https://huggingface.co/papers/2608.04505",
+          "summary": "Desarrollado por LG AI Research, K-EXAONE 2.0 amplía la arquitectura del modelo básico multilingüe con una estructura de mezcla de expertos. Al alcanzar un total de 750 mil millones de parámetros, el modelo triplica la capacidad de su versión anterior con soporte para una ventana de contexto de 256 mil tokens.",
+          "meta": "2 me gusta · 0 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "rust-lang/rust is adopting an LLM policy",
+          "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+          "summary": "La comunidad del lenguaje de programación Rust ha adoptado una nueva política para incluir contenido creado con modelos de lenguaje grandes (LLM) en el proyecto. Esta regulación requiere transparencia y control humano para mantener los estándares de calidad del código y la documentación producida por la inteligencia artificial.",
+          "meta": "135 puntos · 40 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy",
+              "popularity": 135,
+              "engagementCount": 40
+            }
+          ]
+        },
+        {
+          "title": "Offensive Internet Posture",
+          "url": "https://bruceediger.com/posts/offensive-machine/",
+          "summary": "La postura ofensiva en Internet se refiere a que los usuarios adoptan métodos de privacidad activos en lugar de defensa pasiva para evitar la fuga de datos y el seguimiento en línea. Este enfoque tiene como objetivo gestionar la huella digital ofuscando el tráfico de la red o alimentando los sistemas con datos engañosos.",
+          "meta": "72 puntos · 16 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fgcrj0/offensive_internet_posture",
+              "popularity": 72,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "Faster Than Ninja",
+          "url": "https://build2.org/blog/faster-than-ninja.xhtml",
+          "summary": "Build2 es un nuevo sistema de compilación que pretende ejecutarse más rápido que la herramienta de compilación de software Ninja. El proyecto utiliza algoritmos optimizados para reducir los tiempos de compilación en bases de código grandes.",
+          "meta": "48 puntos · 4 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/31hk9y/faster_than_ninja",
+              "popularity": 48,
+              "engagementCount": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "state kernel",
+      "explanation": "La estructura central básica que mantiene toda la información y los datos de trabajo actuales de un software en la memoria."
+    },
+    {
+      "term": "AI Agents",
+      "explanation": "Software de inteligencia artificial autónomo que puede tomar decisiones por sí solo y utilizar herramientas para lograr objetivos."
+    },
+    {
+      "term": "system design",
+      "explanation": "El proceso de planificar cómo funcionarán juntas las partes de proyectos de software grandes y complejos."
+    },
+    {
+      "term": "flashcards",
+      "explanation": "Tarjetas digitales con preguntas en el anverso y respuestas en el reverso, que permiten memorizar información rápidamente."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "Se trata de un método que permite a la inteligencia artificial responder mucho más rápido a las mismas preguntas manteniendo en su memoria los textos que ha procesado previamente."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Capacidad para analizar problemas complejos en pasos lógicos y producir soluciones técnicas."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "El modelo de trabajo que organiza las capacidades que la inteligencia artificial necesita para realizar tareas con éxito."
+    },
+    {
+      "term": "computer vision",
+      "explanation": "El campo de la tecnología que permite a las computadoras ver e interpretar imágenes a través de cámaras."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un marco básico que facilita las cosas a la hora de desarrollar software y ofrece estructuras de código listas para usar y un conjunto de reglas."
+    },
+    {
+      "term": "server-side rendering",
+      "explanation": "Un método que permite preparar páginas web en el servidor y mostrarlas rápidamente antes de enviarlas al usuario."
+    },
+    {
+      "term": "utility-first",
+      "explanation": "Un enfoque para crear rápidamente una interfaz combinando piezas de código pequeñas y listas para usar durante el diseño."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Una unidad de hardware especial que realiza operaciones intensivas muy rápidamente, especialmente procesamiento de gráficos y cálculos de inteligencia artificial."
+    },
+    {
+      "term": "product development cycle",
+      "explanation": "Todas las etapas de planificación, producción y prueba por las que pasa un producto desde la idea hasta llegar al usuario final."
+    },
+    {
+      "term": "CEO",
+      "explanation": "El máximo ejecutivo responsable de todas las operaciones y decisiones estratégicas de una empresa."
+    },
+    {
+      "term": "Chair",
+      "explanation": "Persona que dirige reuniones de una organización o su junta directiva y supervisa las estrategias generales."
+    }
+  ]
+}

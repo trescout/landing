@@ -68,7 +68,7 @@
         {
           "title": "alibaba/zvec",
           "url": "https://github.com/alibaba/zvec",
-          "summary": "Développée par Alibaba, zvec est une solution de base de données vectorielles en cours de processus légère et rapide écrite en C++. Il vise à améliorer les performances du système en permettant aux applications de traiter les données vectorielles directement en mémoire.",
+          "summary": "Développée par Alibaba, zvec est une solution de base de données vectorielles en cours de processus légère et rapide écrite en C++. Il vise à augmenter les performances du système en permettant aux applications de traiter les données vectorielles directement en mémoire.",
           "meta": "C++ · ★ 10 691 · +156 aujourd'hui"
         },
         {
@@ -109,7 +109,7 @@
         {
           "title": "Mechanical Watch (2022)",
           "url": "https://ciechanow.ski/mechanical-watch/",
-          "summary": "L'article interactif préparé par Bartosz Ciechanowski visualise les principes de fonctionnement des montres mécaniques à travers les rouages, les ressorts moteurs et les mécanismes d'échappement. L'étude explique étape par étape le fonctionnement physique de systèmes de chronométrage complexes et soutient les détails techniques avec des simulations numériques.",
+          "summary": "L'article interactif préparé par Bartosz Ciechanowski visualise les principes de fonctionnement des montres mécaniques à travers des engrenages, des ressorts moteurs et des mécanismes d'échappement. L'étude explique étape par étape le fonctionnement physique de systèmes de chronométrage complexes et soutient les détails techniques avec des simulations numériques.",
           "meta": "692 votes · 116 commentaires"
         },
         {

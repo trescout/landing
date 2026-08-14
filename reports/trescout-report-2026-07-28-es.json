@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-28",
+  "editorial": "La agenda tecnológica actual se estructura en torno a protocolos de comunicación descentralizados y herramientas para eludir la censura. Los administradores de archivos de código abierto y los raspadores de datos se encuentran entre otros temas principales que atraen la atención de los desarrolladores en GitHub.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "summary": "BitChat ofrece un entorno de chat local que no requiere conexión a Internet, utilizando tecnología de malla Bluetooth. Fue desarrollado con el lenguaje Swift para brindar una experiencia similar a Internet Relay Chat (IRC) en áreas sin acceso a Internet.",
+          "meta": "Swift · ★ 32.586 · +2.346 hoy"
+        },
+        {
+          "title": "amnezia-vpn/amnezia-client",
+          "url": "https://github.com/amnezia-vpn/amnezia-client",
+          "summary": "El cliente Amnesia VPN es una herramienta de red de código abierto que permite a los usuarios proporcionar acceso a Internet sin censura a través de sus propios servidores. Desarrollada en lenguaje C++, la aplicación ofrece opciones de conexión orientadas a la privacidad con soporte de protocolo personalizable en plataformas móviles y de escritorio.",
+          "meta": "C++ · ★ 13.981 · +515 hoy"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi permite a los usuarios crear personajes virtuales basados ​​en inteligencia artificial (compañeros de IA) con capacidades de juego y chat de voz en tiempo real que pueden alojar en sus propios servidores. Desarrollado con el lenguaje TypeScript, este proyecto lleva activos digitales interactivos similares a Neuro-sama a plataformas web y de escritorio.",
+          "meta": "TypeScript · ★ 44.255 · +572 hoy"
+        },
+        {
+          "title": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "summary": "GeoLibre es una plataforma liviana de sistema de información geográfica (SIG) basada en la nube diseñada para visualizar, explorar y analizar datos geográficos. Desarrollada con TypeScript, esta herramienta puede ejecutarse en navegadores web, computadoras de escritorio, dispositivos móviles y portátiles Jupyter.",
+          "meta": "TypeScript · ★ 2.891 · +420 hoy"
+        },
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Desarrollado con el lenguaje Go, superfile ofrece una interfaz moderna y visualmente rica para la gestión de archivos basada en terminal. Los usuarios pueden realizar operaciones de archivos en la línea de comandos con una experiencia más rápida y estética.",
+          "meta": "Go · ★ 21.053 · +600 hoy"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler es una herramienta de web scraping que recopila automáticamente contenido y comentarios de usuarios en plataformas de redes sociales populares con sede en China. Este software basado en Python admite procesos de extracción de datos estructurados de muchas plataformas como Xiaohongshu, Douyin, Bilibili y Weibo.",
+          "meta": "Python · ★ 58.510 · +362 hoy"
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable es una biblioteca de lenguajes de diseño desarrollada para mejorar los resultados de diseño de modelos de inteligencia artificial. Permite a los desarrolladores crear sus interfaces compatibles con inteligencia artificial con un estándar visual (sistema de diseño) más consistente y estético.",
+          "meta": "JavaScript · ★ 51.792 · +847 hoy"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos es un modelo básico desarrollado para analizar el lenguaje único de los mercados financieros. Ofrece una estructura de lenguaje especializado en el procesamiento y análisis de datos financieros.",
+          "meta": "Python · ★ 34.655 · +441 hoy"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Desarrollado por Alibaba, Open-Code-Review es una herramienta de revisión de código híbrida que combina flujos de trabajo basados ​​en precisión con modelos de lenguaje grandes (LLM). La herramienta, que proporciona comentarios a nivel de línea en los procesos de desarrollo de software, utiliza reglas previamente entrenadas (conjunto de reglas ajustado) para detectar vulnerabilidades de seguridad.",
+          "meta": "Go · ★ 15.118 · +979 hoy"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Jenkins es un servidor de código abierto que automatiza los procesos de integración continua y de implementación continua en los procesos de desarrollo de software. Esta plataforma basada en Java ofrece un amplio ecosistema de complementos para gestionar la compilación, prueba y lanzamiento de proyectos de software.",
+          "meta": "Java · ★ 25.927 · +180 hoy"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video es una herramienta de Python que descarga y enmarca videos y convierte grabaciones de audio en texto. Permite que la inteligencia artificial analice el contenido de video transfiriendo los datos obtenidos al modelo Claude.",
+          "meta": "Python · ★ 11.353 · +434 hoy"
+        },
+        {
+          "title": "vudovn/ag-kit",
+          "url": "https://github.com/vudovn/ag-kit",
+          "summary": "Ag-kit es una biblioteca de desarrollo que proporciona las herramientas y estructuras necesarias para crear agentes autónomos de inteligencia artificial (agentes de IA) en proyectos basados ​​en TypeScript. Permite a los desarrolladores diseñar rápidamente sistemas de agentes que puedan gestionar flujos de trabajo complejos.",
+          "meta": "TypeScript · ★ 8.020 · +14 hoy"
+        },
+        {
+          "title": "apache/cassandra",
+          "url": "https://github.com/apache/cassandra",
+          "summary": "Apache Cassandra es una base de datos transaccional distribuida de código abierto que proporciona escalabilidad lineal y tolerancia a fallas sin causar pérdida de rendimiento en hardware estándar o infraestructuras de nube. Este sistema, desarrollado en lenguaje Java, está diseñado para procesos de gestión de datos a gran escala que requieren alta disponibilidad.",
+          "meta": "Java · ★ 10.004 · +11 hoy"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill ofrece una habilidad de inteligencia artificial (habilidad de IA) que realiza investigaciones escaneando datos actuales en plataformas como Reddit, X, YouTube, Hacker News y Polymarket. Esta herramienta basada en Python analiza la información recopilada y la convierte en un resumen verificable.",
+          "meta": "Python · ★ 54.328 · +240 hoy"
+        },
+        {
+          "title": "ocornut/imgui",
+          "url": "https://github.com/ocornut/imgui",
+          "summary": "Dear ImGui es una biblioteca de interfaz gráfica de usuario liviana para proyectos de C++ que funciona con dependencias mínimas. Permite a los desarrolladores de software crear una interfaz sencilla en procesos rápidos de creación de prototipos y desarrollo de herramientas.",
+          "meta": "C++ · ★ 75.256 · +51 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Our position on open-weights models",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "summary": "Anthropic adopta un enfoque cauteloso con respecto a los modelos de pesos abiertos, citando los riesgos de seguridad y el potencial de abuso de estos modelos. La empresa sostiene que se debe lograr un equilibrio entre transparencia y seguridad en el desarrollo de sistemas de inteligencia artificial.",
+          "meta": "721 puntos · 1.019 comentarios"
+        },
+        {
+          "title": "Benchmarking Opus 5 on SlopCodeBench",
+          "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+          "summary": "SlopCodeBench es una herramienta de evaluación comparativa desarrollada para medir el rendimiento de agentes de inteligencia artificial centrados en la codificación frente a conjuntos de datos complejos y de baja calidad. Esta prueba evalúa la capacidad de los modelos para extraer datos ruidosos y la gestión del contexto que encuentran durante el proceso de generación de código.",
+          "meta": "223 puntos · 52 comentarios"
+        },
+        {
+          "title": "Using an open model feels surprisingly good",
+          "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+          "summary": "Se prefiere ejecutar modelos de lenguaje de código abierto en sistemas locales debido a las ventajas de la confidencialidad de los datos y el control total sobre el modelo. Los usuarios destacan la flexibilidad que ofrecen estos modelos en términos de rendimiento y personalización, lo que reduce la dependencia de sistemas de código cerrado.",
+          "meta": "201 puntos · 66 comentarios"
+        },
+        {
+          "title": "Watching Go's new garbage collector move through the heap",
+          "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+          "summary": "El lenguaje de programación Go apunta a menores latencias en los procesos de gestión de memoria con su nuevo mecanismo recolector de basura. Esta actualización mejora el rendimiento del sistema al optimizar las operaciones de escaneo de objetos en el montón.",
+          "meta": "196 puntos · 20 comentarios"
+        },
+        {
+          "title": "The computer that helped win World War II",
+          "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+          "summary": "La computadora Colossus, desarrollada para descifrar contraseñas alemanas durante la Segunda Guerra Mundial, fue registrada como un hito histórico por el IEEE. Este sistema es la primera computadora electrónica digital programable y constituye la base de las tecnologías de la información modernas.",
+          "meta": "193 puntos · 76 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, desarrollado por Moonshot AI, es un modelo de inteligencia artificial multimodal que produce resultados de texto procesando datos visuales y textuales. El modelo está diseñado para realizar análisis de imágenes complejos y tareas basadas en texto en una estructura integrada.",
+          "meta": "♥ 6.868 · 2.850 descargas"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Desarrollado por Poolside, Laguna-S-2.1 es un modelo de lenguaje optimizado para tareas de generación de texto. El modelo está diseñado para usarse en varios procesos de procesamiento del lenguaje natural mediante entrenamiento en conjuntos de datos a gran escala.",
+          "meta": "♥ 768 · 63.605 descargas"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desarrollado por Baidu, Unlimited-OCR es un modelo de imagen a texto que procesa textos visuales y produce resultados de texto. El modelo está diseñado para ser utilizado en los procesos de conversión de datos de documentos complejos a formato digital.",
+          "meta": "♥ 3.349 · 2.645.773 descargas"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF es un modelo multimodal que produce salida de texto procesando entradas visuales y de texto. El modelo llama la atención por su estructura sin censura y arquitectura personalizada creada mediante la combinación de varios conjuntos de datos.",
+          "meta": "♥ 770 · 634.146 descargas"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Desarrollado por Upstage, Solar-Open2-250B es un modelo de lenguaje a gran escala centrado en la generación de texto. Su objetivo es aumentar el rendimiento en tareas complejas de procesamiento del lenguaje con su alta capacidad de parámetros.",
+          "meta": "♥ 635 · 3.761 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Bluetooth mesh",
+      "explanation": "Tecnología de red inalámbrica que permite que muchos dispositivos interconectados se comuniquen en un área amplia transmitiendo datos de mano en mano."
+    },
+    {
+      "term": "IRC",
+      "explanation": "Uno de los protocolos de chat más antiguos que permite mantener correspondencia en tiempo real a través de Internet."
+    },
+    {
+      "term": "AI companions",
+      "explanation": "Software de inteligencia artificial que puede establecer un vínculo emocional con el usuario, chatear y brindar apoyo según las necesidades personales."
+    },
+    {
+      "term": "GIS",
+      "explanation": "Un sistema digital que recopila, analiza y visualiza datos geográficos del mundo en un mapa."
+    },
+    {
+      "term": "Jupyter notebooks",
+      "explanation": "Un entorno de trabajo interactivo que le permite ver textos explicativos y resultados uno al lado del otro mientras escribe código."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "El proceso de copiar y recopilar datos de sitios web utilizando software automático."
+    },
+    {
+      "term": "design language",
+      "explanation": "Reglas para el uso coherente de elementos como el color, la fuente y la forma que conforman la identidad visual de una marca."
+    },
+    {
+      "term": "design system",
+      "explanation": "Una biblioteca completa que contiene todas las piezas, códigos y reglas utilizadas en el diseño de un producto."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Una estructura básica de inteligencia artificial que se entrena con conjuntos de datos muy grandes y puede realizar muchas tareas diferentes."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "fine-tuned ruleset",
+      "explanation": "Un conjunto de reglas que se perfeccionan al recibir capacitación con datos especiales para hacer mejor un determinado trabajo."
+    },
+    {
+      "term": "continuous integration",
+      "explanation": "Es un proceso en el que los códigos escritos por los desarrolladores de software se agregan con frecuencia al proyecto principal y los errores se detectan tempranamente."
+    },
+    {
+      "term": "continuous deployment",
+      "explanation": "Los códigos que pasan la prueba se activan automáticamente sin ninguna intervención humana."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Software de inteligencia artificial autónomo que puede tomar decisiones por sí solo y realizar tareas específicas."
+    },
+    {
+      "term": "agentic systems",
+      "explanation": "Sistemas en los que múltiples unidades de inteligencia artificial cooperan entre sí para resolver problemas complejos."
+    },
+    {
+      "term": "linear scalability",
+      "explanation": "A medida que aumenta la cantidad de recursos agregados al sistema, el rendimiento aumenta al mismo ritmo."
+    }
+  ]
+}

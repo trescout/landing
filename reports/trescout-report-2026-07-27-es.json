@@ -1,0 +1,249 @@
+{
+  "date": "2026-07-27",
+  "editorial": "En la agenda tecnológica actual destacan los protocolos de comunicación descentralizados y las herramientas de gestión de archivos basadas en terminales. Se observa que los desarrolladores están recurriendo a proyectos que se centran en el rendimiento del sistema y la optimización de la interfaz de usuario en el ecosistema de código abierto.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "summary": "BitChat ofrece un entorno de chat local que no requiere conexión a Internet, utilizando tecnología de malla Bluetooth. Esta aplicación, desarrollada en lenguaje Swift, permite a los usuarios comunicarse con una experiencia similar al chat de retransmisión por Internet (IRC) de antigua generación, sin necesidad de un servidor central.",
+          "meta": "Swift · ★ 30.947 · +1.166 hoy"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite es una herramienta de navegador liviana que comparte el estado de inicio de sesión del navegador para que los agentes de IA ejecuten procesos de automatización web. Al trabajar en integración con asistentes de codificación, esta solución permite automatizar tareas basadas en el navegador sin molestar al usuario.",
+          "meta": "JavaScript · ★ 5.012 · +900 hoy"
+        },
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Desarrollada por Block, Buzz es una plataforma de comunicación mental colmena escrita en Rust. Ofrece una infraestructura de código abierto que tiene como objetivo establecer una red de comunicación descentralizada (comunicación Hive Mind) en sistemas distribuidos.",
+          "meta": "Rust · ★ 13.741 · +1.710 hoy"
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3code es un conjunto de herramientas diseñado para mejorar la calidad del código y acelerar los procesos de desarrollo en proyectos basados ​​en TypeScript. Proporciona un marco estructurado que facilita a los desarrolladores la creación de aplicaciones con seguridad de tipos.",
+          "meta": "TypeScript · ★ 15.148 · +149 hoy"
+        },
+        {
+          "title": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "summary": "Instatic se destaca como un sistema de gestión de contenido visual (CMS) basado en agentes que ofrece una alternativa de código abierto a plataformas como Webflow y WordPress. Desarrollada con TypeScript, esta herramienta le permite alojar el proceso de creación de páginas estáticas en su propio servidor con administración de usuarios y soporte de complementos.",
+          "meta": "TypeScript · ★ 5.863 · +888 hoy"
+        },
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Desarrollado con el lenguaje de programación Go, superfile ofrece una interfaz moderna y visualmente rica para la gestión de archivos basada en terminal. Los usuarios pueden administrar directorios del sistema con este administrador de archivos de terminal, lo que hace que las operaciones de archivos sean más funcionales en la línea de comandos.",
+          "meta": "Go · ★ 20.412 · +131 hoy"
+        },
+        {
+          "title": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "summary": "Node.js ofrece un entorno de ejecución que permite ejecutar código JavaScript fuera del navegador. Esta plataforma, basada en el motor V8, se utiliza para desarrollar aplicaciones de red escalables en el lado del servidor.",
+          "meta": "JavaScript · ★ 118.523 · +36 hoy"
+        },
+        {
+          "title": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "summary": "Chat2DB es una herramienta de base de datos basada en IA y un cliente SQL que admite numerosos sistemas de gestión de bases de datos. Esta interfaz gráfica de usuario (GUI), desarrollada en lenguaje Java, tiene como objetivo acelerar los procesos de consulta de bases de datos con sus capacidades de procesamiento de lenguaje natural.",
+          "meta": "Java · ★ 27.277 · +398 hoy"
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable ofrece un lenguaje de diseño desarrollado para mejorar los resultados del diseño de modelos de inteligencia artificial. Esta herramienta tiene como objetivo mejorar la coherencia visual y la calidad de la experiencia del usuario de las interfaces compatibles con inteligencia artificial.",
+          "meta": "JavaScript · ★ 50.919 · +413 hoy"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos se destaca como un modelo básico desarrollado para analizar el lenguaje de los mercados financieros. Ofrece una arquitectura de inteligencia artificial personalizada para procesar datos financieros y análisis de mercado.",
+          "meta": "Python · ★ 34.284 · +321 hoy"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Desarrollado por Alibaba, Open-code-review es una herramienta de revisión de código híbrida que combina canalizaciones deterministas y agentes de modelos de lenguaje grande (LLM). El sistema, que proporciona comentarios basados ​​en líneas en los procesos de desarrollo de software, detecta vulnerabilidades como la seguridad de subprocesos y la inyección SQL con reglas previamente entrenadas.",
+          "meta": "Go · ★ 14.156 · +832 hoy"
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Desarrollada por Andrew Ng, aisuite es una biblioteca de Python que permite gestionar diferentes proveedores de IA generativa a través de una única interfaz. Ofrece una capa unificada que facilita a los desarrolladores cambiar entre varios servicios modelo.",
+          "meta": "Python · ★ 15.462 · +187 hoy"
+        },
+        {
+          "title": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "summary": "Los libros de cocina de Claude compartidos por Anthropic proporcionan ejemplos de código prácticos y cuadernos Jupyter para usar los modelos de Claude. Este recurso incluye flujos de trabajo concretos diseñados para acelerar la integración de Claude por parte de los desarrolladores en aplicaciones de IA.",
+          "meta": "Jupyter Notebook · ★ 50.363 · +379 hoy"
+        },
+        {
+          "title": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "summary": "Desarrollado en Rust, Pumpkin es un software de servidor de código abierto que tiene como objetivo alojar servidores de Minecraft rápidos y eficientes. Con su estructura orientada al alto rendimiento, permite a los usuarios administrar sus propios servidores de juegos con un menor consumo de recursos.",
+          "meta": "Rust · ★ 10.111 · +338 hoy"
+        },
+        {
+          "title": "permissionlesstech/bitchat-android",
+          "url": "https://github.com/permissionlesstech/bitchat-android",
+          "summary": "Bitchat-android ofrece una experiencia de mensajería descentralizada que no requiere conexión a Internet, utilizando tecnología de malla Bluetooth. La aplicación, desarrollada en lenguaje Kotlin, permite a los usuarios establecer una comunicación tipo IRC a través de la red local.",
+          "meta": "Kotlin · ★ 6.833 · +260 hoy"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Jenkins es un servidor de entrega continua e integración continua de código abierto que automatiza los procesos de desarrollo de software. Esta plataforma basada en Java ofrece un amplio ecosistema de complementos para gestionar las fases de compilación, prueba e implementación de proyectos de software.",
+          "meta": "Java · ★ 25.763 · +18 hoy"
+        },
+        {
+          "title": "amnezia-vpn/amnezia-client",
+          "url": "https://github.com/amnezia-vpn/amnezia-client",
+          "summary": "El cliente Amnesia VPN es una herramienta de red de código abierto que permite a los usuarios proporcionar acceso a Internet sin censura a través de sus propios servidores. Desarrollado en C++, este software ofrece protocolos de túnel personalizables que protegen la privacidad personal en plataformas móviles y de escritorio.",
+          "meta": "C++ · ★ 13.457 · +35 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kill The Cookie Banner",
+          "url": "https://killthecookiebanner.eu/",
+          "summary": "La iniciativa tiene como objetivo eliminar los anuncios de cookies para que los usuarios de Internet puedan navegar por sitios web sin encontrar ventanas de confirmación. Basado en las regulaciones digitales de la Unión Europea, este proyecto propone estándares que tienen como objetivo mejorar la privacidad del usuario y la experiencia en Internet.",
+          "meta": "933 puntos · 445 comentarios"
+        },
+        {
+          "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+          "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+          "summary": "Un ciudadano estadounidense fue acusado de obstrucción a la justicia por borrar de forma remota los datos de su teléfono con GrapheneOS instalado durante una llamada en el aeropuerto. El incidente pone de relieve los conflictos legales que enfrentan los sistemas operativos centrados en la privacidad con las investigaciones policiales.",
+          "meta": "553 puntos · 385 comentarios"
+        },
+        {
+          "title": "PGSimCity - How PostgreSQL Works",
+          "url": "https://nikolays.github.io/PGSimCity/",
+          "summary": "PGSimCity explica el funcionamiento interno del sistema de gestión de bases de datos PostgreSQL a través de una simulación visual. Los usuarios pueden observar cómo ocurren las operaciones de la base de datos en segundo plano con una interfaz interactiva.",
+          "meta": "435 puntos · 45 comentarios"
+        },
+        {
+          "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+          "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+          "summary": "Htmx 4.0 fue anunciado como la primera biblioteca de JavaScript diseñada para ejecutarse exclusivamente en la consola Game Boy. Esta versión presenta un enfoque experimental destinado a migrar herramientas de desarrollo web a hardware fuera de los entornos de navegador tradicionales.",
+          "meta": "415 puntos · 140 comentarios"
+        },
+        {
+          "title": "French firefighters face 'pyrocumulonimbus' for first time",
+          "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+          "summary": "Los bomberos de Francia se encuentran por primera vez con humo denso y nubes de fuego inducidas por el calor (pirocumulonimbus) provocadas por temperaturas extremas. Este fenómeno meteorológico hace que los incendios creen sus propios sistemas climáticos, dificultando las labores de extinción.",
+          "meta": "299 puntos · 184 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desarrollado por Baidu, Unlimited-OCR es un modelo de imagen a texto que procesa textos visuales y produce resultados de texto. El modelo está diseñado para transferir datos de documentos complejos a formato digital.",
+          "meta": "♥ 3.244 · 2.593.460 descargas"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Desarrollado por Poolside, Laguna-S-2.1 es un modelo de lenguaje optimizado para tareas de generación de texto. El modelo tiene como objetivo aumentar las capacidades de procesamiento del lenguaje natural mediante el entrenamiento en conjuntos de datos a gran escala.",
+          "meta": "♥ 708 · 56.445 descargas"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Desarrollado por Upstage, Solar-Open2-250B es un modelo de lenguaje a gran escala diseñado para tareas de generación de texto. El modelo tiene como objetivo proporcionar un alto rendimiento en procesos complejos de procesamiento de lenguaje con su capacidad de 250 mil millones de parámetros.",
+          "meta": "♥ 609 · 3.305 descargas"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Este modelo, basado en Qwen3.6-27B, ofrece una estructura multimodal que produce salida de texto procesando entradas visuales y de texto. El modelo entrenado con conjuntos de datos sin censura se comprime en formato GGUF y se optimiza para ejecutarse en hardware diferente.",
+          "meta": "♥ 658 · 552.026 descargas"
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.2-3B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+          "summary": "Nanbeige4.2-3B, desarrollado por Nanbeige, es un modelo de lenguaje a pequeña escala optimizado para tareas de generación de texto. Este modelo, que se centra en procesos de inferencia rápidos con un número bajo de parámetros, ofrece la oportunidad de trabajar de manera eficiente con recursos de hardware limitados.",
+          "meta": "♥ 453 · 14.049 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Bluetooth mesh",
+      "explanation": "Tecnología de comunicación inalámbrica que permite que múltiples dispositivos se conecten entre sí y establezcan una red en un área amplia."
+    },
+    {
+      "term": "IRC",
+      "explanation": "Un antiguo y sencillo sistema de mensajería que permite mantener correspondencia en tiempo real a través de Internet."
+    },
+    {
+      "term": "browser state",
+      "explanation": "La totalidad de datos y configuraciones que un navegador de Internet guarda durante la sesión actual."
+    },
+    {
+      "term": "hive mind communication",
+      "explanation": "Un grupo de sistemas o individuos que actúan como una sola mente y comparten información."
+    },
+    {
+      "term": "type-safe",
+      "explanation": "Una estructura que reduce el riesgo de fallas del programa al evitar el uso de tipos de datos incorrectos en el software."
+    },
+    {
+      "term": "agentic",
+      "explanation": "Una inteligencia artificial puede tomar sus propias decisiones y tomar medidas para lograr el objetivo que se le ha asignado."
+    },
+    {
+      "term": "CMS",
+      "explanation": "Una herramienta de software que le permite administrar el contenido del sitio web sin saber codificación."
+    },
+    {
+      "term": "terminal file manager",
+      "explanation": "Una herramienta que le permite administrar sus archivos solo a través de la línea de comando en lugar de ventanas visuales."
+    },
+    {
+      "term": "runtime environment",
+      "explanation": "El entorno de soporte básico que un software necesita para ejecutarse en una computadora."
+    },
+    {
+      "term": "SQL client",
+      "explanation": "Aplicación que te ayuda a consultar y gestionar información en la base de datos."
+    },
+    {
+      "term": "GUI",
+      "explanation": "Interfaz que permite gestionar visualmente programas informáticos con iconos, menús y ventanas."
+    },
+    {
+      "term": "design language",
+      "explanation": "Un conjunto de reglas de color, fuente y forma que garantizan la coherencia visual de una marca o producto."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Estructura básica de inteligencia artificial entrenada con enormes datos para realizar muchas tareas diferentes."
+    },
+    {
+      "term": "deterministic pipelines",
+      "explanation": "Procesos de procesamiento ordenado que siempre producen el mismo resultado con la misma entrada cada vez que se ejecutan."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "thread-safety",
+      "explanation": "Una característica de seguridad de un programa que evita que los datos se dañen al realizar múltiples operaciones al mismo tiempo."
+    }
+  ]
+}

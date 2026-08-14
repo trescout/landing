@@ -1,0 +1,102 @@
+{
+  "date": "2026-07-27",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "summary": "Node.js ofrece un entorno de ejecución que permite ejecutar código JavaScript fuera del navegador. Esta plataforma, basada en el motor V8, se utiliza para desarrollar aplicaciones de red escalables en el lado del servidor.",
+          "meta": "JavaScript · ★ 118.523 · +36 hoy"
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable ofrece un lenguaje de diseño desarrollado para mejorar los resultados del diseño de modelos de inteligencia artificial. Esta herramienta tiene como objetivo mejorar la coherencia visual y la calidad de la experiencia del usuario de las interfaces compatibles con inteligencia artificial.",
+          "meta": "JavaScript · ★ 50.919 · +413 hoy",
+          "returning": true
+        },
+        {
+          "title": "permissionlesstech/bitchat-android",
+          "url": "https://github.com/permissionlesstech/bitchat-android",
+          "summary": "Bitchat-android ofrece una experiencia de mensajería descentralizada que no requiere conexión a Internet, utilizando tecnología de malla Bluetooth. La aplicación, desarrollada en lenguaje Kotlin, permite a los usuarios establecer una comunicación tipo IRC a través de la red local.",
+          "meta": "Kotlin · ★ 6.833 · +260 hoy"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Jenkins es un servidor de entrega continua e integración continua de código abierto que automatiza los procesos de desarrollo de software. Esta plataforma basada en Java ofrece un amplio ecosistema de complementos para gestionar las fases de compilación, prueba e implementación de proyectos de software.",
+          "meta": "Java · ★ 25.763 · +18 hoy"
+        },
+        {
+          "title": "amnezia-vpn/amnezia-client",
+          "url": "https://github.com/amnezia-vpn/amnezia-client",
+          "summary": "El cliente Amnesia VPN es una herramienta de red de código abierto que permite a los usuarios proporcionar acceso a Internet sin censura a través de sus propios servidores. Desarrollado en C++, este software ofrece protocolos de túnel personalizables que protegen la privacidad personal en plataformas móviles y de escritorio.",
+          "meta": "C++ · ★ 13.457 · +35 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kill The Cookie Banner",
+          "url": "https://killthecookiebanner.eu/",
+          "summary": "La iniciativa tiene como objetivo eliminar los anuncios de cookies para que los usuarios de Internet puedan navegar por sitios web sin encontrar ventanas de confirmación. Basado en las regulaciones digitales de la Unión Europea, este proyecto propone estándares que tienen como objetivo mejorar la privacidad del usuario y la experiencia en Internet.",
+          "meta": "933 puntos · 445 comentarios"
+        },
+        {
+          "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+          "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+          "summary": "Un ciudadano estadounidense fue acusado de obstrucción a la justicia por borrar de forma remota los datos de su teléfono con GrapheneOS instalado durante una llamada en el aeropuerto. El incidente pone de relieve los conflictos legales que enfrentan los sistemas operativos centrados en la privacidad con las investigaciones policiales.",
+          "meta": "553 puntos · 385 comentarios"
+        },
+        {
+          "title": "PGSimCity - How PostgreSQL Works",
+          "url": "https://nikolays.github.io/PGSimCity/",
+          "summary": "PGSimCity explica el funcionamiento interno del sistema de gestión de bases de datos PostgreSQL a través de una simulación visual. Los usuarios pueden observar cómo ocurren las operaciones de la base de datos en segundo plano con una interfaz interactiva.",
+          "meta": "435 puntos · 45 comentarios"
+        },
+        {
+          "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+          "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+          "summary": "Htmx 4.0 fue anunciado como la primera biblioteca de JavaScript diseñada para ejecutarse exclusivamente en la consola Game Boy. Esta versión presenta un enfoque experimental destinado a migrar herramientas de desarrollo web a hardware fuera de los entornos de navegador tradicionales.",
+          "meta": "415 puntos · 140 comentarios"
+        },
+        {
+          "title": "French firefighters face 'pyrocumulonimbus' for first time",
+          "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+          "summary": "Los bomberos de Francia se encuentran por primera vez con humo denso y nubes de fuego inducidas por el calor (pirocumulonimbus) provocadas por temperaturas extremas. Este fenómeno meteorológico hace que los incendios creen sus propios sistemas climáticos, dificultando las labores de extinción.",
+          "meta": "299 puntos · 184 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Nanbeige/Nanbeige4.2-3B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+          "summary": "Nanbeige4.2-3B, desarrollado por Nanbeige, es un modelo de lenguaje a pequeña escala optimizado para tareas de generación de texto. Este modelo, que se centra en procesos de inferencia rápidos con un número bajo de parámetros, ofrece la oportunidad de trabajar de manera eficiente con recursos de hardware limitados.",
+          "meta": "♥ 453 · 14.049 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IRC",
+      "explanation": "Un antiguo y sencillo sistema de mensajería que permite mantener correspondencia en tiempo real a través de Internet."
+    },
+    {
+      "term": "runtime environment",
+      "explanation": "El entorno de soporte básico que un software necesita para ejecutarse en una computadora."
+    },
+    {
+      "term": "design language",
+      "explanation": "Un conjunto de reglas de color, fuente y forma que garantizan la coherencia visual de una marca o producto."
+    }
+  ]
+}

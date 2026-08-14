@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-20",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "summary": "Este libro de código abierto sobre agentes de inteligencia artificial (agentes de IA) cubre de manera integral los principios de diseño y las aplicaciones de ingeniería. Además de la información teórica, incluye códigos de aplicación divididos en secciones y archivos PDF compilados.",
+          "meta": "Python · ★ 7.362 · +1.734 hoy"
+        },
+        {
+          "title": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "summary": "Ktransformers ofrece un marco flexible que admite optimizaciones de hardware heterogéneas en los procesos de inferencia y ajuste de grandes modelos de lenguaje. Esta estructura tiene como objetivo aumentar el rendimiento del modelo mediante el uso eficiente de diferentes recursos de hardware.",
+          "meta": "Python · ★ 18.491 · +360 hoy"
+        },
+        {
+          "title": "andrewrabert/jellium-desktop",
+          "url": "https://github.com/andrewrabert/jellium-desktop",
+          "summary": "Jellium-desktop es un cliente de escritorio no oficial desarrollado en Rust para el servidor de medios Jellyfin. El software ofrece una interfaz nativa que permite a los usuarios acceder a bibliotecas multimedia directamente a través del sistema operativo.",
+          "meta": "Rust · ★ 1.342 · +43 hoy"
+        },
+        {
+          "title": "microsoft/terminal",
+          "url": "https://github.com/microsoft/terminal",
+          "summary": "Microsoft está combinando Windows Terminal y la consola tradicional de Windows bajo un mismo techo. Este proyecto de código abierto, desarrollado en lenguaje C++, reestructura la experiencia de la línea de comandos con una interfaz moderna y pestañas personalizables.",
+          "meta": "C++ · ★ 104.241 · +59 hoy"
+        },
+        {
+          "title": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "summary": "AstrBot es un marco de desarrollo de agentes de inteligencia artificial que se integra con varias plataformas de mensajería instantánea, modelos de lenguaje grandes y complementos. Esta herramienta basada en Python permite crear asistentes de IA personalizables como una alternativa de código abierto.",
+          "meta": "Python · ★ 36.787 · +83 hoy"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua apunta a escalar las tecnologías de uso de computadoras con controladores de código abierto y gestión de flotas independiente del sistema operativo. La plataforma ofrece herramientas de benchmarking estandarizadas para los procesos de capacitación, evaluación y generación de datos de modelos de inteligencia artificial.",
+          "meta": "HTML · ★ 20.286 · +64 hoy",
+          "returning": true
+        },
+        {
+          "title": "Canner/WrenAI",
+          "url": "https://github.com/Canner/WrenAI",
+          "summary": "Desarrollada por Canner, WrenAI es una herramienta de inteligencia empresarial generativa (BI generativa) de código abierto que exporta datos automáticamente en paneles y gráficos al convertir el lenguaje natural en consultas de bases de datos (texto a SQL). La plataforma proporciona procesos de análisis de datos confiables para agentes de IA a través de una capa de contexto manejable que admite más de veinte fuentes de datos.",
+          "meta": "Python · ★ 16.314 · +121 hoy"
+        },
+        {
+          "title": "PKUFlyingPig/cs-self-learning",
+          "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+          "summary": "Esta guía, preparada por estudiantes de la Universidad de Pekín, ofrece una hoja de ruta completa para aquellos que quieran aprender por su cuenta en el campo de la informática. Combina un plan de estudios amplio, desde cursos básicos hasta especializaciones, con recursos y métodos de estudio.",
+          "meta": "HTML · ★ 74.290 · +134 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+          "url": "https://news.ycombinator.com/item?id=48968606",
+          "summary": "Un ingeniero de software rediseñó un sistema de automatización de una bolera comercial de 120 000 dólares utilizando microcontroladores ESP32 de 1600 dólares. Esta solución, desarrollada con sistemas integrados, crea una alternativa rentable al costoso hardware industrial.",
+          "meta": "2.036 puntos · 212 comentarios"
+        },
+        {
+          "title": "Qwen 3.8",
+          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+          "summary": "Desarrollado por Alibaba, Qwen 3.8 introduce un nuevo esquema de precios y tokens para modelos de lenguajes grandes. Este modelo proporciona capacidad informática accesible a los desarrolladores a través de su infraestructura basada en la nube.",
+          "meta": "846 puntos · 579 comentarios"
+        },
+        {
+          "title": "Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "summary": "Claude Code comenzó a utilizar Bun como tiempo de ejecución de JavaScript para acelerar el entorno de trabajo. Esta migración tiene como objetivo mejorar el rendimiento de las herramientas de desarrollo mediante la integración de componentes de infraestructura escritos en Rust.",
+          "meta": "472 puntos · 629 comentarios"
+        },
+        {
+          "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+          "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+          "summary": "La producción escalable y la gestión de la cadena de suministro en el proceso de desarrollo de hardware presentan desafíos concretos que los emprendedores centrados en el software pueden superar. La experiencia adquirida con la venta de 2.500 grabadoras MIDI demuestra que el emprendimiento en hardware es más accesible de lo que se pensaba.",
+          "meta": "461 puntos · 209 comentarios"
+        },
+        {
+          "title": "Minecraft: Java Edition now uses SDL3",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+          "summary": "Minecraft: Java Edition actualizó la biblioteca Simple DirectMedia Layer utilizada para gráficos y administración de dispositivos de entrada a la tercera versión (SDL3). Esta actualización moderniza la interacción del hardware del juego y proporciona una infraestructura de rendimiento más estable.",
+          "meta": "293 puntos · 200 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Software autónomo que puede tomar decisiones por sí solo y realizar paso a paso las tareas asignadas."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Reentrenar una IA de propósito general con un pequeño conjunto de datos para especializarla en un tema específico."
+    },
+    {
+      "term": "desktop client",
+      "explanation": "Una aplicación de software que descarga a su computadora y usa directamente en el escritorio."
+    },
+    {
+      "term": "console host",
+      "explanation": "Un entorno de ventana en el que se ejecutan comandos basados ​​en texto en la computadora y se muestran los resultados."
+    },
+    {
+      "term": "development framework",
+      "explanation": "Un marco de trabajo que acelera el trabajo en el desarrollo de software y proporciona estructuras básicas listas para usar."
+    }
+  ]
+}

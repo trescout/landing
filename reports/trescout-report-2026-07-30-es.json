@@ -1,0 +1,249 @@
+{
+  "date": "2026-07-30",
+  "editorial": "Las bibliotecas de procesamiento geoespacial y los modelos de interacción basados ​​en voz se han vuelto fundamentales para las herramientas centradas en los desarrolladores en el mundo del código abierto. En particular, las tecnologías de traducción de voz a voz y el software de gestión de activos de un extremo a otro destacan por sus altas tasas de interacción en GitHub.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "summary": "GeoLibre es una plataforma liviana de sistema de información geográfica (SIG) basada en la nube para visualizar, explorar y analizar datos geográficos. Escrita en TypeScript, esta herramienta puede ejecutarse en navegadores web, computadoras de escritorio, dispositivos móviles y portátiles Jupyter.",
+          "meta": "TypeScript · ★ 4.236 · +671 hoy"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi es una plataforma de personajes virtuales (waifu) basada en inteligencia artificial con chat de voz en tiempo real y capacidades de juego que los usuarios pueden alojar en sus propios servidores. Este proyecto, desarrollado con el lenguaje TypeScript, tiene como objetivo ejecutar activos digitales interactivos similares a Neuro-sama en sistemas locales.",
+          "meta": "TypeScript · ★ 45.549 · +682 hoy"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC es un marco de rendimiento que optimiza las habilidades, los instintos, la memoria y las capas de seguridad para los agentes de inteligencia artificial. Está diseñado para mejorar los flujos de trabajo basados ​​en agentes en herramientas de desarrollo como Claude Code y Cursor.",
+          "meta": "JavaScript · ★ 235.779 · +857 hoy"
+        },
+        {
+          "title": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "summary": "La biblioteca de voz a voz desarrollada por Hugging Face permite crear agentes de voz locales utilizando modelos de código abierto. Con este conjunto de herramientas, los desarrolladores pueden ejecutar sistemas de interacción de voz a voz en su propio hardware.",
+          "meta": "Python · ★ 8.047 · +827 hoy"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Desarrollado con el lenguaje Rust, jcode ofrece un entorno de trabajo que minimiza el uso de memoria. El software optimiza los procesos de ejecución de código de alto rendimiento mediante el uso eficiente de los recursos del sistema.",
+          "meta": "Rust · ★ 13.624 · +640 hoy"
+        },
+        {
+          "title": "grokability/snipe-it",
+          "url": "https://github.com/grokability/snipe-it",
+          "summary": "Snipe-IT es un sistema de gestión de código abierto para rastrear activos de tecnología de la información y licencias de software. Esta plataforma, desarrollada con lenguaje PHP, permite a las instituciones organizar registros de inventario y ciclos de uso en un entorno digital.",
+          "meta": "PHP · ★ 14.536 · +164 hoy"
+        },
+        {
+          "title": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "summary": "Faceswap basado en Python es un software de código abierto que permite reemplazar rostros en imágenes utilizando tecnología deepfake. Permite a los usuarios realizar operaciones de intercambio de caras en videos e imágenes.",
+          "meta": "Python · ★ 56.487 · +166 hoy"
+        },
+        {
+          "title": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "summary": "Desarrollado por Microsoft, VibeVoice se ofrece como un modelo de inteligencia artificial de voz de frontera de código abierto. Este proyecto basado en Python tiene como objetivo proporcionar soluciones accesibles y de alto rendimiento en procesos de procesamiento de audio.",
+          "meta": "Python · ★ 51.459 · +336 hoy"
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork es un proyecto de software desarrollado como una alternativa de código abierto a la plataforma Claude Cowork y utiliza la infraestructura de código abierto. Esta herramienta, escrita en lenguaje TypeScript, ofrece un entorno de trabajo respaldado por inteligencia artificial que tiene como objetivo automatizar los procesos de desarrollo de software.",
+          "meta": "TypeScript · ★ 18.143 · +97 hoy"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers ofrece un marco de habilidades de agentes que se integra con metodologías de desarrollo de software. Esta herramienta desarrolla un método estandarizado para automatizar procesos de software.",
+          "meta": "Shell · ★ 263.489 · +616 hoy"
+        },
+        {
+          "title": "MoonshotAI/FlashKDA",
+          "url": "https://github.com/MoonshotAI/FlashKDA",
+          "summary": "Desarrollado por Moonshot AI, FlashKDA ofrece núcleos de alto rendimiento para el mecanismo Some Delta Attention. Esta tecnología basada en CUDA tiene como objetivo acelerar los cálculos de atención en modelos de lenguaje grandes.",
+          "meta": "Cuda · ★ 1.043 · +91 hoy"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler es una herramienta de raspado web desarrollada para recopilar datos de videos, publicaciones y comentarios en plataformas de redes sociales populares chinas. Este software basado en Python automatiza los procesos de extracción de datos de canales como Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Baidu Tieba y Zhihu.",
+          "meta": "Python · ★ 59.242 · +154 hoy"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "La revisión de código abierto, desarrollada por Alibaba, es una herramienta de revisión de código híbrida que combina canales deterministas y agentes de modelo de lenguaje grande (LLM). El sistema, que puede realizar comentarios a nivel de línea en los procesos de desarrollo de software, utiliza un conjunto de reglas previamente entrenado (conjunto de reglas ajustado) para detectar vulnerabilidades de seguridad.",
+          "meta": "Go · ★ 16.204 · +359 hoy"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "Esta lista, que reúne bibliotecas, estrategias y recursos educativos en el campo del comercio sistemático, respalda los procesos de modelado financiero basados ​​en Python. Ofrece una referencia completa para los usuarios que desean ingresar al mundo del comercio algorítmico o mejorar las estrategias existentes.",
+          "meta": "Python · ★ 10.533 · +945 hoy"
+        },
+        {
+          "title": "maderix/ANE",
+          "url": "https://github.com/maderix/ANE",
+          "summary": "Desarrollado por Maderix, ANE permite realizar el entrenamiento de redes neuronales en Apple Neural Engine a través de interfaces de programación de aplicaciones privadas (API privadas) obtenidas mediante ingeniería inversa. Este estudio permite utilizar directamente el hardware de Apple en procesos de entrenamiento de modelos de inteligencia artificial.",
+          "meta": "Objective-C · ★ 7.185 · +22 hoy"
+        },
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "El editor desarrollado por Pascalorg permite a los usuarios crear y compartir proyectos arquitectónicos tridimensionales. Esta plataforma, escrita en lenguaje TypeScript, lleva los procesos de diseño arquitectónico a un entorno de trabajo basado en navegador.",
+          "meta": "TypeScript · ★ 19.731 · +1.022 hoy"
+        },
+        {
+          "title": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "summary": "El proyecto book-to-skill convierte libros técnicos en paquetes de habilidades (habilidades) utilizables para el asistente de codificación impulsado por IA, Claude Code. Esta herramienta convierte el contenido del libro en una fuente de información referenciable y aplicable durante todo el proceso de estudio.",
+          "meta": "Python · ★ 13.106 · +1.421 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+          "url": "https://github.com/drumih/turbo-fieldfare",
+          "summary": "TurboFieldfare es un motor de inferencia que permite que el modelo Gemma 4 26B se ejecute en procesadores Apple de la serie M utilizando cuantificación de 4 bits, consumiendo solo 2 GB de memoria. Desarrollada con los lenguajes Swift y Metal, esta herramienta tiene como objetivo optimizar el rendimiento de la IA en el dispositivo.",
+          "meta": "727 puntos · 252 comentarios"
+        },
+        {
+          "title": "Superlogical",
+          "url": "https://www.superlogical.com/",
+          "summary": "Superlogic es una herramienta de programación lógica diseñada para gestionar reglas y sistemas lógicos complejos. Permite a los desarrolladores definir estructuras de datos y reglas comerciales con un enfoque declarativo.",
+          "meta": "616 puntos · 385 comentarios"
+        },
+        {
+          "title": "The coolest use for the Vision Pro",
+          "url": "https://christianselig.com/2026/07/vision-pro-house/",
+          "summary": "Los usuarios de Apple Vision Pro visualizan los dispositivos inteligentes en sus hogares en el entorno físico utilizando las capacidades de computación espacial del dispositivo. Este método hace que la domótica sea directamente interactiva a través de interfaces virtuales colocadas en objetos.",
+          "meta": "541 puntos · 225 comentarios"
+        },
+        {
+          "title": "Kimi K3-256k",
+          "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+          "summary": "Desarrollado por Moonshot AI, Kimi K3-256k se centra en procesos de codificación y desarrollo de software con una larga ventana de contexto de 256 mil tokens. El modelo ofrece la capacidad de analizar bases de código largas y producir soluciones para tareas de programación complejas con alta precisión.",
+          "meta": "399 puntos · 116 comentarios"
+        },
+        {
+          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+          "summary": "El informe técnico compartido por Hugging Face examina cronológicamente el incidente de intrusión de agentes contra un laboratorio fronterizo en 2026. El informe analiza las vulnerabilidades de los sistemas autónomos y el funcionamiento técnico de dichos ataques, proporcionando datos para las estrategias de defensa.",
+          "meta": "345 puntos · 199 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, desarrollado por Moonshot AI, es un modelo de inteligencia artificial multimodal que produce resultados de texto procesando entradas visuales y textuales. El modelo ofrece la capacidad de realizar tareas complejas analizando datos de imágenes y texto en una estructura integrada.",
+          "meta": "♥ 8.745 · 99.214 descargas"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desarrollado por Baidu, Unlimited-OCR es un modelo de imagen a texto que produce resultados de texto procesando textos basados ​​en imágenes. Diseñado para digitalizar datos en documentos complejos, este modelo gestiona los procesos de reconocimiento óptico de caracteres de un extremo a otro.",
+          "meta": "♥ 3.526 · 2.694.935 descargas"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Este modelo, basado en Qwen3.6-27B, ofrece una estructura de imagen-texto a texto que produce salida de texto procesando entradas visuales y de texto. El modelo, configurado como sin censura, es una versión personalizada creada combinando diferentes conjuntos de datos (fusión de modelos).",
+          "meta": "♥ 964 · 736.692 descargas"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Laguna-S-2.1, desarrollado por Poolside, es un modelo de lenguaje centrado en la generación de texto. El modelo está diseñado para ser utilizado en una amplia gama de procesos de creación de contenidos.",
+          "meta": "♥ 831 · 67.286 descargas"
+        },
+        {
+          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "summary": "KAT-Coder-V2.5-Dev, desarrollado por Kwaipilot, es un modelo de lenguaje centrado en la generación de texto. El modelo, diseñado para soportar procesos de desarrollo de software, se utiliza en tareas de escritura de código y creación de textos técnicos.",
+          "meta": "♥ 323 · 6.275 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "GIS",
+      "explanation": "Un sistema digital que permite recopilar datos geográficos de todo el mundo y analizarlos en mapas."
+    },
+    {
+      "term": "Jupyter notebooks",
+      "explanation": "Un entorno de trabajo interactivo donde puedes agregar notas explicativas mientras escribes código y ver los resultados al instante."
+    },
+    {
+      "term": "waifu",
+      "explanation": "El nombre que se le da a los personajes de ficción, que generalmente expresa admiración por los personajes del anime o del juego."
+    },
+    {
+      "term": "framework",
+      "explanation": "La estructura básica que proporciona un conjunto de herramientas y reglas listas para usar que facilitan su trabajo al desarrollar software."
+    },
+    {
+      "term": "voice agents",
+      "explanation": "Asistentes digitales que se comunican contigo por voz y responden a tus preguntas o realizan tareas."
+    },
+    {
+      "term": "speech-to-speech",
+      "explanation": "Tecnología que convierte instantáneamente el habla en un idioma en voz en otro idioma."
+    },
+    {
+      "term": "harness",
+      "explanation": "Tomar el control de una energía o datos complejos y prepararlos para su uso con un propósito específico."
+    },
+    {
+      "term": "deepfake",
+      "explanation": "Usar inteligencia artificial para adaptar la imagen o la voz de una persona a otra de una manera que es indistinguible de la realidad."
+    },
+    {
+      "term": "face swapping",
+      "explanation": "Reemplazar digitalmente una cara en una foto o video con la cara de otra persona."
+    },
+    {
+      "term": "frontier voice AI",
+      "explanation": "Las tecnologías de inteligencia artificial de voz más avanzadas que pueden hablar de forma natural y emocional como un humano."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Un conjunto de capacidades que permiten a la inteligencia artificial tomar decisiones por sí sola y completar tareas complejas."
+    },
+    {
+      "term": "kernels",
+      "explanation": "La parte central más básica del sistema operativo que gestiona la comunicación entre el hardware y el software de la computadora."
+    },
+    {
+      "term": "attention",
+      "explanation": "Un mecanismo que permite a la inteligencia artificial captar mejor el significado centrándose en palabras importantes de un texto."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "El proceso de recopilación y registro de datos en sitios web utilizando herramientas automatizadas."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "Serie de pasos sucesivos en el proceso de tomar datos de un punto, procesarlos y trasladarlos a otro punto."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    }
+  ]
+}

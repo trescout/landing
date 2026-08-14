@@ -1,0 +1,273 @@
+{
+  "date": "2026-07-22",
+  "editorial": "En el mundo del software actual, pasan a primer plano las arquitecturas de agentes autónomos y las herramientas que automatizan los procesos de análisis de código. Los proyectos de código abierto compartidos en GitHub indican una concentración técnica, particularmente enfocada en monitorear sistemas complejos y soluciones de texto a CAD.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "summary": "Worldmonitor ofrece un panel de inteligencia global en tiempo real que combina recopilación de noticias impulsada por IA, monitoreo geopolítico y monitoreo de infraestructura en una única interfaz. Desarrollada con TypeScript, esta herramienta permite a los usuarios visualizar datos complejos centrándose en el conocimiento de la situación.",
+          "meta": "TypeScript · ★ 66.379 · +1.295 hoy"
+        },
+        {
+          "title": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "summary": "El libro AI Agent, preparado por Li Bojie, analiza exhaustivamente los principios de diseño y las prácticas de ingeniería de los agentes de inteligencia artificial. Además de explicaciones teóricas, el recurso ofrece una guía práctica para desarrolladores con ejemplos de código basados ​​en secciones y archivos PDF compilados.",
+          "meta": "Python · ★ 15.766 · +4.624 hoy"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph crea un mapa local de la base del código, proporcionando un gráfico de inteligencia de código que permite que las herramientas impulsadas por IA lean solo las secciones relevantes. Este método optimiza los procesos de reducción de contexto en proyectos grandes a través del Protocolo de contexto modelo (MCP) y las interfaces de línea de comando (CLI).",
+          "meta": "Python · ★ 24.814 · +1.925 hoy"
+        },
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "Desarrollado para hacer que la producción de los agentes de codificación esté más enfocada y organizada, i-have-adhd mejora la experiencia del usuario al dividir respuestas complejas en partes. Esta habilidad basada en Python estandariza la presentación de información por parte de la IA en un formato compatible con el trastorno por déficit de atención con hiperactividad (TDAH).",
+          "meta": "Python · ★ 7.248 · +1.866 hoy"
+        },
+        {
+          "title": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "summary": "Las herramientas de texto a CAD son un conjunto de habilidades de agentes desarrolladas para automatizar procesos de diseño de hardware y robótica. Esta biblioteca basada en JavaScript permite crear modelos de ingeniería complejos con comandos de lenguaje natural.",
+          "meta": "JavaScript · ★ 9.319 · +291 hoy"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Desarrollado con el lenguaje Rust, jcode es una infraestructura de agente de código inteligente diseñada para automatizar los procesos de desarrollo de software. Proporciona un entorno de trabajo optimizado para realizar tareas complejas en proyectos de software.",
+          "meta": "Rust · ★ 10.469 · +843 hoy"
+        },
+        {
+          "title": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "summary": "OpenShip es una plataforma de distribución autohospedada que permite a los desarrolladores alojar sus aplicaciones en su propia infraestructura. Desarrollada con TypeScript, esta herramienta permite gestionar los procesos de publicación de aplicaciones en una estructura central como alternativa a los servicios basados ​​en la nube.",
+          "meta": "TypeScript · ★ 6.482 · +1.562 hoy"
+        },
+        {
+          "title": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "summary": "AstrBot es un marco de desarrollo de agentes de inteligencia artificial que combina varias plataformas de mensajería instantánea, modelos de lenguaje grandes y complementos. Este proyecto de código abierto basado en Python permite a los usuarios crear sus propios asistentes de IA personalizados.",
+          "meta": "Python · ★ 37.584 · +416 hoy"
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open SEO ofrece una alternativa de código abierto a herramientas pagas como Semrush y Ahrefs. Desarrollado con TypeScript, el proyecto proporciona una infraestructura transparente y accesible para analizar datos de optimización de motores de búsqueda (SEO).",
+          "meta": "TypeScript · ★ 6.705 · +849 hoy"
+        },
+        {
+          "title": "tradesdontlie/tradingview-mcp",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "summary": "TradingView-mcp conecta Claude Code con la aplicación de escritorio TradingView, lo que le permite automatizar los procesos de análisis de gráficos. Esta integración permite a los usuarios personalizar los flujos de trabajo de análisis técnico a través del contexto del modelo impulsado por IA (Protocolo de contexto del modelo).",
+          "meta": "JavaScript · ★ 4.930 · +114 hoy"
+        },
+        {
+          "title": "AlexsJones/llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "summary": "Desarrollado con el lenguaje Rust, llmfit escanea cientos de grandes modelos y proveedores de lenguajes y te permite identificar aquellos compatibles con tu hardware con un solo comando. La herramienta automatiza el proceso de búsqueda de modelos que mejor se adapten a los recursos del sistema local.",
+          "meta": "Rust · ★ 30.309 · +129 hoy"
+        },
+        {
+          "title": "hyprwm/Hyprland",
+          "url": "https://github.com/hyprwm/Hyprland",
+          "summary": "Hyprland es un administrador de ventanas que se ejecuta en el compositor Wayland y ofrece una estructura de mosaico dinámico personalizable. Desarrollada en C++, esta herramienta proporciona una experiencia de escritorio de alto rendimiento sin comprometer la estética visual.",
+          "meta": "C++ · ★ 37.107 · +58 hoy"
+        },
+        {
+          "title": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "summary": "El código fuente original de la computadora de comando y guía del módulo lunar (Guidance Computer) utilizada en la misión Apolo 11 está disponible en GitHub con lenguaje ensamblador. El software documenta los detalles técnicos de los algoritmos de cálculo utilizados en la primera misión tripulada al alunizaje.",
+          "meta": "Assembly · ★ 70.068 · +1.235 hoy"
+        },
+        {
+          "title": "DioxusLabs/dioxus",
+          "url": "https://github.com/DioxusLabs/dioxus",
+          "summary": "Dioxus es un framework de Rust que permite desarrollar aplicaciones de extremo a extremo (fullstack) con una única base de código para plataformas web, de escritorio y móviles. Estandariza la experiencia de desarrollo de aplicaciones en el ecosistema Rust al acelerar el proceso de creación de la interfaz de usuario con su estructura basada en componentes similar a React.",
+          "meta": "Rust · ★ 37.762 · +271 hoy"
+        },
+        {
+          "title": "langchain-ai/open_deep_research",
+          "url": "https://github.com/langchain-ai/open_deep_research",
+          "summary": "Desarrollado por LangChain, la investigación abierta y profunda es un sistema autónomo que realiza búsquedas de varios pasos en Internet para responder preguntas complejas. Facilita procesos de investigación profundos al automatizar el proceso de investigación a través de etapas de planificación, recopilación de datos y síntesis.",
+          "meta": "Python · ★ 12.307 · +23 hoy"
+        },
+        {
+          "title": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "summary": "OmniRoute es una puerta de enlace de IA gratuita que combina más de 268 proveedores y más de 500 modelos en un único punto final. Ofrece ahorros de costos y una experiencia de codificación ininterrumpida a los desarrolladores gracias a sus funciones de compresión de tokens y copia de seguridad automática con reconocimiento de cuotas.",
+          "meta": "TypeScript · ★ 23.958 · +2.034 hoy"
+        },
+        {
+          "title": "agegr/pi-web",
+          "url": "https://github.com/agegr/pi-web",
+          "summary": "Pi-web ofrece una interfaz de usuario mejorada basada en web (UI web) para el agente de codificación Pi. Esta herramienta, escrita en lenguaje TypeScript, permite gestionar los procesos de codificación a través de una interfaz visual.",
+          "meta": "TypeScript · ★ 1.821 · +298 hoy"
+        },
+        {
+          "title": "schollz/croc",
+          "url": "https://github.com/schollz/croc",
+          "summary": "Croc es una herramienta que proporciona transferencia segura de archivos y datos entre dos computadoras mediante cifrado de extremo a extremo. Este software, desarrollado con el lenguaje de programación Go, utiliza un mecanismo de retransmisión temporal para facilitar el proceso de transferencia.",
+          "meta": "Go · ★ 36.970 · +361 hoy"
+        },
+        {
+          "title": "microsoft/Ontology-Playground",
+          "url": "https://github.com/microsoft/Ontology-Playground",
+          "summary": "Desarrollada por Microsoft, Ontology-Playground es una aplicación web de código abierto que permite a los usuarios diseñar ontologías visualmente y explorar el sistema Microsoft Fabric IQ. Esta herramienta, que opera en una estructura completamente estática, permite exportar los modelos creados en formato RDF/XML y compartirlos mediante diagramas interactivos.",
+          "meta": "TypeScript · ★ 2.073 · +355 hoy"
+        },
+        {
+          "title": "dottxt-ai/outlines",
+          "url": "https://github.com/dottxt-ai/outlines",
+          "summary": "La biblioteca Outlines permite que las respuestas de modelos de lenguaje grandes se presenten como resultados estructurados de acuerdo con esquemas predefinidos. Con esta herramienta basada en Python, los desarrolladores protegen la integridad de los datos restringiendo los resultados del modelo con expresiones regulares o reglas gramaticales libres de contexto.",
+          "meta": "Python · ★ 14.917 · +65 hoy"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo es una herramienta que proporciona capacidades de búsqueda, extracción de datos y rastreo local para agentes de codificación de inteligencia artificial. It performs model context creation processes via Model Connection Protocol (MCP) without requiring an API key or cloud-based pricing.",
+          "meta": "TypeScript · ★ 3.269 · +642 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "OpenAI and Hugging Face address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "summary": "OpenAI y Hugging Face resolvieron el problema colaborando en un incidente de seguridad ocurrido durante los procesos de evaluación del modelo. Para aumentar la seguridad del sistema, las partes realizaron actualizaciones para cerrar vulnerabilidades en sus infraestructuras de evaluación.",
+          "meta": "959 puntos · 655 comentarios"
+        },
+        {
+          "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+          "summary": "Google amplió su serie Gemini y anunció sus nuevos modelos enfocados al procesamiento rápido, Gemini 3.6 Flash, 3.5 Flash-Lite y 3.5 Flash Cyber. Estos modelos brindan opciones de inteligencia artificial personalizadas que ofrecen un equilibrio de rendimiento y eficiencia para diferentes necesidades informáticas.",
+          "meta": "656 puntos · 512 comentarios"
+        },
+        {
+          "title": "Advertise in ChatGPT",
+          "url": "https://ads.openai.com/",
+          "summary": "OpenAI está trabajando en una plataforma publicitaria para la colocación de anuncios para usuarios de ChatGPT. Este sistema permite a las marcas llegar a su público objetivo a través de interfaces de chat respaldadas por inteligencia artificial.",
+          "meta": "600 puntos · 435 comentarios"
+        },
+        {
+          "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+          "url": "https://fireworks.ai/blog/kimik3-fable",
+          "summary": "Desarrollado por Moonshot AI, el modelo Kimi K3 compite con el modelo Fable, alcanzando niveles de rendimiento de última generación. Estos modelos, ofrecidos con la infraestructura Fireworks.ai, brindan alta precisión y velocidad en los procesos de inferencia.",
+          "meta": "499 puntos · 280 comentarios"
+        },
+        {
+          "title": "FreeInk: Open ecosystem for e-readers",
+          "url": "https://freeink.org/",
+          "summary": "FreeInk facilita la independencia del dispositivo y la gestión de contenido al proporcionar un ecosistema de código abierto para lectores de libros electrónicos. La plataforma tiene como objetivo proporcionar una experiencia de lectura estándar y portabilidad de datos entre diferentes hardware.",
+          "meta": "491 puntos · 113 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Desarrollado por Thinkingmachines, Inkling es una estructura de modelo de lenguaje grande multimodal que produce resultados basados ​​en texto al aceptar datos visuales y textuales como entrada. El modelo realiza tareas de procesamiento de visión y lenguaje con la capacidad de analizar el contenido de la imagen y correlacionarlo con el texto.",
+          "meta": "♥ 1.381 · 16.441 descargas"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B-gguf es un modelo de lenguaje optimizado para la generación de texto y comprimido con el método de cuantificación ternario. Este modelo, que pretende ofrecer un alto rendimiento con un bajo uso de memoria, puede ejecutarse en diferentes configuraciones de hardware gracias al formato GGUF.",
+          "meta": "♥ 905 · 432.196 descargas"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desarrollado por Baidu, Unlimited-OCR es un modelo de imagen a texto que convierte texto visual en datos basados ​​en texto. Esta tecnología tiene como objetivo proporcionar alta precisión en los procesos de digitalización y extracción de texto de documentos complejos.",
+          "meta": "♥ 2.629 · 2.237.351 descargas"
+        },
+        {
+          "title": "reteetzad/Kimi-K3",
+          "url": "https://huggingface.co/reteetzad/Kimi-K3",
+          "summary": "El modelo Kimi-K3 compartido en Hugging Face es un estudio de fusión de pesos desarrollado para modelos de lenguaje grandes. Su objetivo es proporcionar optimización del rendimiento combinando las capacidades de diferentes modelos.",
+          "meta": "♥ 530 · 0 descargas"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B-gguf es un modelo de lenguaje cuantificado que está optimizado para tareas de generación de texto y proporciona un bajo uso de memoria. Gracias al formato GGUF, está destinado a funcionar de manera eficiente en dispositivos con limitaciones de hardware.",
+          "meta": "♥ 573 · 1.404.962 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "situational awareness",
+      "explanation": "La capacidad de la inteligencia artificial para percibir y dar sentido con precisión a su entorno, al usuario y a las tareas actuales."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Programas de software que pueden tomar decisiones por sí solos, utilizar herramientas para lograr objetivos y completar tareas automáticamente."
+    },
+    {
+      "term": "code intelligence graph",
+      "explanation": "Una estructura de datos que mapea relaciones complejas entre archivos, funciones y variables en proyectos de software."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Un protocolo puente que permite que los modelos de IA se conecten a diferentes fuentes de datos y herramientas de forma estándar."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que le permite controlar programas ingresando comandos escritos en lugar de usar un mouse."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "Para que la inteligencia artificial funcione más rápido y con mayor precisión, se elimina la información innecesaria y solo se presentan al sistema los datos importantes."
+    },
+    {
+      "term": "skill",
+      "explanation": "La capacidad especializada que tiene un software o inteligencia artificial para realizar una operación específica."
+    },
+    {
+      "term": "ADHD",
+      "explanation": "Es una condición neurológica que se manifiesta como distracción, hiperactividad e impulsividad, provocando dificultad para concentrarse."
+    },
+    {
+      "term": "text-to-cad",
+      "explanation": "Tecnología que crea automáticamente dibujos y modelos técnicos tridimensionales mediante comandos escritos."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Las habilidades que adquieren los asistentes de inteligencia artificial para realizar tareas como buscar en Internet o editar archivos."
+    },
+    {
+      "term": "code agent",
+      "explanation": "Asistente autónomo de inteligencia artificial que puede analizar proyectos de software, encontrar errores y escribir código por usted."
+    },
+    {
+      "term": "harness",
+      "explanation": "Un mecanismo de auditoría y control utilizado para probar si un software o sistema está funcionando correctamente."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Un método para ejecutar software en su propia computadora o en un servidor bajo su control, en lugar de en el servidor de otra persona."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "development framework",
+      "explanation": "La estructura básica que proporciona un conjunto de herramientas y reglas listas para usar que facilitan las cosas al desarrollar software."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Esfuerzos de mejora para que los sitios web tengan una clasificación más alta en los motores de búsqueda."
+    }
+  ]
+}

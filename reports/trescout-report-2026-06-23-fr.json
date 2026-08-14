@@ -38,7 +38,7 @@
         {
           "title": "Stirling-Tools/Stirling-PDF",
           "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-          "summary": "Stirling-PDF, kullanıcıların PDF dosyaları üzerinde her cihazda düzenleme yapmasına olanak tanıyan açık kaynaklı bir belge işleme aracıdır. TypeScript ile geliştirilen bu uygulama, yerel sunucularda çalışarak doküman yönetimi süreçlerini merkezileştirir.",
+          "summary": "Stirling-PDF est un outil de traitement de documents open source qui permet aux utilisateurs de modifier des fichiers PDF sur n'importe quel appareil. Développée avec TypeScript, cette application centralise les processus de gestion documentaire en s'exécutant sur des serveurs locaux.",
           "meta": "TypeScript · ★ 83 316 · +547 aujourd'hui"
         },
         {
@@ -121,7 +121,7 @@
         {
           "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
           "url": "https://ipvm.com/reports/police-chiefs-track",
-          "summary": "La reconnaissance automatique des plaques d'immatriculation fournie par Flock Safety déclenche des débats sur la sécurité et la confidentialité, car les chefs de police l'utilisent pour suivre les femmes à des fins personnelles. Cette situation met à l'ordre du jour la nécessité d'un mandat de perquisition légal pour le contrôle des technologies de surveillance.",
+          "summary": "La reconnaissance automatique des plaques d'immatriculation fournie par Flock Safety déclenche des débats sur la sécurité et la confidentialité, car les chefs de police l'utilisent pour suivre les femmes à des fins personnelles. Cette situation met à l’ordre du jour la nécessité d’un mandat de perquisition légal pour le contrôle des technologies de surveillance.",
           "meta": "490 votes · 200 commentaires"
         },
         {
@@ -197,7 +197,7 @@
     },
     {
       "term": "skills",
-      "explanation": "Les spécialisations dont dispose un logiciel ou une intelligence artificielle pour effectuer un certain travail."
+      "explanation": "Les spécialisations dont dispose un logiciel ou une intelligence artificielle pour effectuer un travail spécifique."
     },
     {
       "term": "design tool",

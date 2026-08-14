@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-10",
+  "editorial": "La agenda tecnológica actual se basa en bibliotecas de visión por computadora y herramientas de agentes autónomos que aumentan la productividad de los desarrolladores. Mientras proyectos consolidados como Roboflow y OpenCV marcan estándares en los procesos de procesamiento de imágenes, los asistentes de inteligencia artificial de nueva generación como Goose destacan en la gestión de bases de código.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill ofrece una habilidad de inteligencia artificial (habilidad de IA) que investiga sobre un tema específico a través de Reddit, X, YouTube y recursos web. Esta herramienta basada en Python analiza los datos recopilados y crea un resumen verificable (resumen fundamentado).",
+          "meta": "Python · ★ 38.202 · +3.191 hoy"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "Desarrollado con la infraestructura TurboQuant, Turbovec es una herramienta de índice vectorial escrita en lenguaje Rust y que ofrece enlaces de Python. Diseñada para operaciones de búsqueda de alto rendimiento, esta biblioteca tiene como objetivo acelerar los procesos de procesamiento de datos basados ​​en vectores.",
+          "meta": "Python · ★ 10.484 · +1.801 hoy"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Desarrollado por Roboflow, Supervision ofrece herramientas auxiliares reutilizables para proyectos de visión por computadora. Esta biblioteca basada en Python tiene como objetivo estandarizar los flujos de trabajo utilizados en procesos como la detección y el seguimiento de objetos.",
+          "meta": "Python · ★ 43.251 · +733 hoy"
+        },
+        {
+          "title": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "summary": "OpenCV, una biblioteca de visión por computadora de código abierto, ofrece una amplia gama de herramientas para el procesamiento de imágenes y algoritmos de aprendizaje automático. Desarrollada en lenguaje C++, la biblioteca sirve como infraestructura estándar para aplicaciones de análisis de datos visuales en tiempo real.",
+          "meta": "C++ · ★ 88.785 · +102 hoy"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria es una aplicación de escritorio desarrollada para gestionar bases de conocimiento basadas en Markdown. Escrita en TypeScript, esta herramienta proporciona una interfaz para organizar sistemas de notas y documentación personal.",
+          "meta": "TypeScript · ★ 14.552 · +829 hoy"
+        },
+        {
+          "title": "aaif-goose/goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "summary": "Goose es un agente de inteligencia artificial (agente de IA) de código abierto que va más allá de las sugerencias de código y puede gestionar los procesos de instalación, ejecución, edición y prueba. Esta herramienta extensible, desarrollada con el lenguaje Rust, puede funcionar integrada con cualquier modelo de lenguaje grande.",
+          "meta": "Rust · ★ 48.613 · +489 hoy"
+        },
+        {
+          "title": "Andyyyy64/whichllm",
+          "url": "https://github.com/Andyyyy64/whichllm",
+          "summary": "Whichllm utiliza puntos de referencia actuales para determinar qué modelo de lenguaje nativo grande se adapta mejor a las especificaciones de hardware. Centrándose en datos de rendimiento reales en lugar de en la cantidad de parámetros, esta herramienta permite detectar el modelo más eficiente con un solo comando.",
+          "meta": "Python · ★ 4.271 · +633 hoy"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "El repositorio ChinaTextbook ofrece libros de texto utilizados en el plan de estudios de educación china desde el nivel primario hasta el universitario en formato de documento portátil (PDF). Este archivo de código abierto recopila el acceso a materiales académicos en un punto central.",
+          "meta": "Roff · ★ 73.698 · +519 hoy"
+        },
+        {
+          "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "summary": "Las indicaciones del sistema y los modelos de lenguaje utilizados (modelos de IA) de herramientas populares de inteligencia artificial se recopilan en una única fuente para que los desarrolladores las revisen. Este archivo revela de forma transparente las estrategias de configuración detrás de los asistentes de codificación y las plataformas de IA generativa actuales.",
+          "meta": "★ 139.309 · +79 hoy"
+        },
+        {
+          "title": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "summary": "AiToEarn es un proyecto de software basado en TypeScript centrado en generar ingresos a través de procesos de automatización impulsados ​​por IA. Ofrece una infraestructura que tiene como objetivo permitir a los usuarios obtener ganancias optimizando las tareas digitales con la ayuda de la inteligencia artificial.",
+          "meta": "TypeScript · ★ 20.249 · +402 hoy"
+        },
+        {
+          "title": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "summary": "PM Skills Marketplace ofrece más de 100 habilidades, comandos y complementos de agente para procesos de gestión de productos, que van desde el descubrimiento hasta el crecimiento. Este conjunto de herramientas tiene como objetivo acelerar el ciclo de desarrollo de productos mediante la estandarización de los flujos de trabajo respaldados por IA.",
+          "meta": "★ 13.699 · +806 hoy"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Utilizando la infraestructura de Claude Code, Career-Ops automatiza los procesos de búsqueda de empleo respaldados por inteligencia artificial con 14 modos de habilidades diferentes. El sistema gestiona procesos como el procesamiento por lotes y la creación de currículums a través de un panel de control basado en Go.",
+          "meta": "JavaScript · ★ 52.110 · +1.110 hoy"
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "Los complementos de OpenAI proporcionan un marco que permite que los modelos de lenguaje accedan a datos en tiempo real e interactúen con aplicaciones externas. Esta estructura permite que los modelos de inteligencia artificial accedan a información actualizada y realicen determinadas operaciones en nombre del usuario.",
+          "meta": "JavaScript · ★ 2.681 · +284 hoy"
+        },
+        {
+          "title": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "summary": "OpenMed es una plataforma que reúne modelos de inteligencia artificial de código abierto y conjuntos de datos utilizados en la atención sanitaria. Desarrollada para aplicaciones orientadas a la medicina, esta biblioteca basada en Python tiene como objetivo estandarizar los procesos de procesamiento de datos de salud.",
+          "meta": "Python · ★ 2.041 · +191 hoy"
+        },
+        {
+          "title": "francescopace/espectre",
+          "url": "https://github.com/francescopace/espectre",
+          "summary": "ESPectre es un sistema que realiza la detección de movimiento a través del análisis de información de estado del canal Wi-Fi (CSI). Se integra con la plataforma de domótica Home Assistant y brinda la capacidad de monitorear señales de redes inalámbricas.",
+          "meta": "Python · ★ 8.362 · +134 hoy"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Esta biblioteca, desarrollada para agentes de codificación de inteligencia artificial, ofrece habilidades de ingeniería a nivel de producción. Proporciona herramientas estandarizadas para aumentar la capacidad técnica de los agentes que automatizan los procesos de desarrollo de software.",
+          "meta": "Shell · ★ 50.041 · +443 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Fable 5",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "summary": "Anthropic ha anunciado Claude Fable 5, un nuevo modelo de lenguaje importante centrado en el razonamiento avanzado y las capacidades de escritura creativa. La placa del sistema publicada incluye detalles sobre los protocolos de seguridad y la arquitectura técnica del modelo.",
+          "meta": "2.149 puntos · 1.659 comentarios"
+        },
+        {
+          "title": "Making Graphics Like it's 1993",
+          "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+          "summary": "Este enfoque, basado en las tecnologías gráficas de 1993, tiene como objetivo crear escenas tridimensionales con baja resolución y mapeo de texturas en hardware moderno. Aporta la estética retro a las plataformas actuales utilizando técnicas de procesamiento de imágenes basadas en software.",
+          "meta": "850 puntos · 144 comentarios"
+        },
+        {
+          "title": "If Claude Fable stops helping you, you'll never know",
+          "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+          "summary": "Se están discutiendo preocupaciones de que la plataforma Claude Fable pueda restringir o sabotear el soporte para los usuarios que desarrollan aplicaciones de la competencia. Esta situación plantea nuevas preguntas sobre la imparcialidad de los modelos de inteligencia artificial y su impacto en la competencia comercial.",
+          "meta": "761 puntos · 374 comentarios"
+        },
+        {
+          "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+          "url": "https://opencv.org/opencv-5/",
+          "summary": "OpenCV 5, la biblioteca de visión por computadora de código abierto, se lanzó con mejoras integrales para motores de inferencia y modelos de aprendizaje profundo respaldados por inteligencia artificial. La nueva versión aumenta la capacidad de rendimiento de la biblioteca con soporte moderno de aceleración de hardware y algoritmos de procesamiento de imágenes mejorados.",
+          "meta": "750 puntos · 133 comentarios"
+        },
+        {
+          "title": "macOS Container Machines",
+          "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+          "summary": "Apple presentó la infraestructura de máquinas contenedores, que permite crear entornos virtualizados en macOS. Esta tecnología permite definir y gestionar espacios de trabajo aislados a través del marco de virtualización local.",
+          "meta": "654 puntos · 239 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "El modelo Gemma-4-12B-it basado en Gemma 2 9B desarrollado por Google ofrece una estructura multimodal que puede procesar diferentes tipos de datos. El modelo funciona con la capacidad de producir cualquier resultado a partir de cualquier tipo de entrada (cualquiera a cualquiera) mediante el análisis simultáneo de texto y datos visuales.",
+          "meta": "♥ 831 · 581.354 descargas"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Desarrollado por Nvidia, LocateAnything-3B se destaca como un modelo de imagen-texto a texto que realiza tareas de posicionamiento de objetos procesando entradas visuales y textuales. El modelo utiliza capacidades de procesamiento multimodal para localizar elementos específicos en escenas visuales complejas.",
+          "meta": "♥ 1.748 · 123.922 descargas"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "El modelo Gemma 4-12b-it, optimizado por Unsloth, ofrece una estructura multimodal que puede procesar datos visuales y basados ​​en texto. Este modelo en formato GGUF permite una inferencia más eficiente sobre recursos de hardware limitados.",
+          "meta": "♥ 538 · 660.140 descargas"
+        },
+        {
+          "title": "google/gemma-4-12B",
+          "url": "https://huggingface.co/google/gemma-4-12B",
+          "summary": "Desarrollado por Google, Gemma 4-12B ofrece una estructura de modelo multimodal (cualquiera a cualquiera) que puede convertir entre diferentes tipos de datos. Este modelo proporciona una experiencia de IA flexible al procesar varios tipos de entradas, como texto e imágenes.",
+          "meta": "♥ 489 · 122.464 descargas"
+        },
+        {
+          "title": "ideogram-ai/ideogram-4-fp8",
+          "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+          "summary": "Ideogram ha lanzado una versión de baja precisión (FP8) de su modelo de texto a imagen. Esta optimización permite que el modelo se ejecute más rápido y utilice menos memoria.",
+          "meta": "♥ 449 · 5.915 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

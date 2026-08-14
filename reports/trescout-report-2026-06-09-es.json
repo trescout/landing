@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-09",
+  "editorial": "Hoy en día, el ecosistema de inteligencia artificial se está expandiendo con herramientas centradas en la infraestructura de inteligencia artificial personal y la gestión de habilidades. Los diagramas arquitectónicos compartidos por Daniel Miessler y las bibliotecas de habilidades publicadas por Google revelan el esfuerzo por estandarizar los principios de funcionamiento de los agentes autónomos.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill ofrece una habilidad de inteligencia artificial (habilidad de agente de IA) que crea resúmenes sintetizados sobre ciertos temas escaneando datos actuales de plataformas como Reddit, X, YouTube, Hacker News y Polymarket. Esta herramienta basada en Python combina información obtenida de diferentes fuentes y proporciona al usuario un resumen basado en evidencia.",
+          "meta": "Python · ★ 35.537 · +3.558 hoy"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "Construido sobre TurboQuant y desarrollado con el lenguaje Rust, Turbovec ofrece indexación de vectores rápida gracias a los enlaces de Python. Esta biblioteca tiene como objetivo optimizar estructuras de datos basadas en vectores para operaciones de búsqueda de alto rendimiento.",
+          "meta": "Python · ★ 9.415 · +1.729 hoy"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "La biblioteca de habilidades desarrollada por Google ofrece herramientas basadas en Python que permiten a los agentes de inteligencia artificial interactuar con los productos y tecnologías de Google. Este recurso proporciona la funcionalidad necesaria para que los agentes realicen tareas específicas en una estructura estandarizada.",
+          "meta": "Python · ★ 12.675 · +461 hoy"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria es una aplicación de escritorio desarrollada para gestionar bases de conocimiento basadas en Markdown. Escrita en TypeScript, esta herramienta ofrece soporte de interfaz para organizar procesos de documentación personal.",
+          "meta": "TypeScript · ★ 13.858 · +651 hoy"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach es una herramienta de interfaz de línea de comandos (CLI) que brinda a los agentes de IA la capacidad de escanear y leer varias plataformas en Internet. Permite extraer datos de redes populares como Twitter, Reddit y GitHub sin pagar ninguna tarifa de interfaz de programación de aplicaciones (API).",
+          "meta": "Python · ★ 24.771 · +679 hoy"
+        },
+        {
+          "title": "danielmiessler/Personal_AI_Infrastructure",
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "summary": "La infraestructura de inteligencia artificial personal (Infraestructura de IA personal) incluye sistemas de inteligencia artificial basados ​​en agentes (IA de agentes) diseñados para ampliar las capacidades individuales. Esta estructura, desarrollada con el lenguaje TypeScript, permite a los usuarios gestionar sus propios procesos de automatización y flujos de trabajo inteligentes.",
+          "meta": "TypeScript · ★ 15.576 · +62 hoy"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Utilizando la infraestructura de Claude Code, Career-Ops automatiza los procesos de búsqueda de empleo respaldados por inteligencia artificial con 14 modos de habilidades diferentes. El sistema brinda la oportunidad de realizar procesamiento por lotes y crear un CV en formato PDF a través de un panel de control escrito en lenguaje Go.",
+          "meta": "JavaScript · ★ 50.866 · +308 hoy"
+        },
+        {
+          "title": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "summary": "PM Skills Marketplace ofrece más de 100 habilidades, comandos y complementos de agente desarrollados para procesos de gestión de productos. Este recurso tiene como objetivo estandarizar los flujos de trabajo impulsados ​​por IA en todo el ciclo de vida del producto, desde el descubrimiento hasta el crecimiento.",
+          "meta": "★ 12.983 · +164 hoy"
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "Los complementos de OpenAI proporcionan una arquitectura de extensibilidad que permite que los modelos de lenguaje accedan a datos externos y realicen operaciones en tiempo real. Esta estructura permite que los modelos de inteligencia artificial aumenten su funcionalidad al interactuar con aplicaciones de terceros.",
+          "meta": "JavaScript · ★ 2.415 · +296 hoy"
+        },
+        {
+          "title": "Andyyyy64/whichllm",
+          "url": "https://github.com/Andyyyy64/whichllm",
+          "summary": "Whichllm es una herramienta que le permite identificar los modelos nativos de lenguaje grande que funcionan mejor en su hardware. Centrándose en los puntos de referencia actuales en lugar de en la cantidad de parámetros, este software basado en Python le permite elegir el modelo más adecuado con un solo comando.",
+          "meta": "Python · ★ 3.679 · +143 hoy"
+        },
+        {
+          "title": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "summary": "MemPalace ofrece un sistema de memoria de código abierto y de alto rendimiento para modelos de inteligencia artificial. Con esta biblioteca basada en Python, los desarrolladores pueden proporcionar capacidades eficientes de almacenamiento y recuperación de datos para aplicaciones de inteligencia artificial.",
+          "meta": "Python · ★ 55.090 · +170 hoy"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Desarrollado por Roboflow, Supervision ofrece herramientas y funciones auxiliares reutilizables para proyectos de visión por computadora. Esta biblioteca basada en Python acelera los flujos de trabajo de desarrollo al facilitar operaciones estándar en procesos como la detección y el seguimiento de objetos.",
+          "meta": "Python · ★ 42.546 · +1.288 hoy"
+        },
+        {
+          "title": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "summary": "CopilotKit proporciona la pila de interfaz necesaria para crear agentes de inteligencia artificial e interfaces de usuario generativas (UI generativa). Utiliza el protocolo AG-UI, que permite a los desarrolladores desarrollar interfaces interactivas basadas en agentes en plataformas React, Angular y móviles.",
+          "meta": "TypeScript · ★ 34.314 · +378 hoy"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "El proyecto ChinaTextbook proporciona un archivo de libros de texto utilizados en el sistema educativo chino desde la escuela primaria hasta el nivel universitario en formato PDF. Este repositorio de código abierto reúne el acceso a recursos académicos en una estructura de biblioteca digital.",
+          "meta": "Roff · ★ 73.209 · +592 hoy"
+        },
+        {
+          "title": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "summary": "Esta guía visual de Claude Code ofrece una amplia gama de ejemplos, desde conceptos básicos hasta configuraciones avanzadas de agentes. Su objetivo es acelerar los procesos de codificación de los usuarios y estandarizar las prácticas de desarrollo de aplicaciones a través de plantillas copiables.",
+          "meta": "Python · ★ 36.008 · +312 hoy"
+        },
+        {
+          "title": "aaif-goose/goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "summary": "Desarrollado con el lenguaje Rust, Goose es un agente de inteligencia artificial (agente AI) de código abierto que va más allá de las sugerencias de código y automatiza los procesos de instalación, ejecución, edición y prueba de software. Esta estructura extensible, que se puede integrar con cualquier modelo de lenguaje principal (LLM), tiene como objetivo gestionar los flujos de trabajo de desarrollo de un extremo a otro.",
+          "meta": "Rust · ★ 48.233 · +699 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Performative-UI – A react component library of design tropes",
+          "url": "https://vorpus.github.io/performativeUI/",
+          "summary": "Performative-UI ofrece tropos de diseño que se utilizan con frecuencia en el diseño de interfaces de usuario como componentes de React listos para usar. Gracias a esta biblioteca, los desarrolladores pueden integrar rápidamente patrones visuales comunes en sus proyectos.",
+          "meta": "929 puntos · 168 comentarios"
+        },
+        {
+          "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+          "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+          "summary": "Las plataformas de redes sociales han dejado de ser áreas donde los usuarios interactúan con sus amigos y se han convertido en canales dominados por modas pasajeras y contenido algorítmico. Este cambio llevó la función básica de las redes sociales a una dimensión diferente, ya que las conexiones personales fueron reemplazadas por el consumo de contenidos.",
+          "meta": "623 puntos · 430 comentarios"
+        },
+        {
+          "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+          "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+          "summary": "Desarrollado por Xiaomi, MiMo-v2.5-Pro-UltraSpeed ​​​​se presentó como un modelo de lenguaje grande con 1 billón de parámetros que ofrece una velocidad de generación de 1000 tokens por segundo. Esta tecnología tiene como objetivo ampliar la capacidad de interacción en tiempo real aumentando la velocidad de inferencia en modelos de alta escala.",
+          "meta": "548 puntos · 397 comentarios"
+        },
+        {
+          "title": "Siri AI",
+          "url": "https://www.apple.com/apple-intelligence/",
+          "summary": "Con Apple Intelligence, Apple está actualizando Siri con modelos generativos de IA que comprenden el contexto personal y pueden realizar operaciones entre aplicaciones. Este sistema tiene como objetivo proporcionar una experiencia de asistente digital más avanzada al proteger la privacidad de los datos del usuario a través del procesamiento en el dispositivo y servidores privados basados ​​en la nube.",
+          "meta": "540 puntos · 487 comentarios"
+        },
+        {
+          "title": "Apple reveals new AI architecture built around Google Gemini models",
+          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+          "summary": "Al integrar su arquitectura de inteligencia artificial con los modelos Google Gemini, Apple la está trasladando a una nueva estructura que combina operaciones en el dispositivo y basadas en la nube. Esta arquitectura tiene como objetivo proporcionar una experiencia de inteligencia artificial más avanzada en todo el sistema combinando las capacidades de hardware propias de Apple con los grandes modelos de lenguaje de Google.",
+          "meta": "537 puntos · 415 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Desarrollado por NVIDIA, LocateAnything-3D es un modelo de conversión de texto a texto que realiza tareas de localización de objetos procesando entradas visuales y textuales. El modelo está diseñado para identificar objetos en contenido visual y presentar las coordenadas de estos objetos con resultados basados ​​en texto.",
+          "meta": "♥ 1.646 · 121.594 descargas"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Gemma-2-11B-it, una versión actualizada del modelo Gemma 2-9B desarrollado por Google, es un modelo de conversión de cualquier cosa con capacidades multimodales. Este modelo procesa texto y datos visuales simultáneamente, proporcionando la capacidad de producir resultados interactivos entre diferentes tipos de datos.",
+          "meta": "♥ 762 · 554.173 descargas"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "El modelo Gemma-4-12b-it, optimizado por Unsloth, ofrece una estructura multimodal que puede procesar datos visuales y de texto. Gracias al formato GGUF, el modelo acelera los procesos de análisis visual basado en texto en dispositivos locales mediante el uso eficiente de recursos de hardware.",
+          "meta": "♥ 509 · 645.263 descargas"
+        },
+        {
+          "title": "google/gemma-4-12B",
+          "url": "https://huggingface.co/google/gemma-4-12B",
+          "summary": "Desarrollado por Google, Gemma-4-12B ofrece una estructura de modelo multimodal (cualquiera a cualquiera) que puede procesar diferentes tipos de datos. Este modelo se puede utilizar en una amplia gama de tareas al admitir procesos de conversión flexibles entre texto y otros formatos de datos.",
+          "meta": "♥ 459 · 117.509 descargas"
+        },
+        {
+          "title": "ideogram-ai/ideogram-4-fp8",
+          "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+          "summary": "ideogram-4-fp8, desarrollado por Ideogram, es un modelo utilizado en procesos de conversión de texto a imagen. Optimizado con formato de 8 bits (FP8) de precisión de punto flotante, este modelo tiene como objetivo aumentar el rendimiento de la producción visual.",
+          "meta": "♥ 407 · 5.495 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

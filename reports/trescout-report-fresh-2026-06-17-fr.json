@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
   "sections": [
     {
       "sourceName": "github",
@@ -8,7 +8,7 @@
         {
           "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
           "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-          "summary": "Universal Android Debloater Next Generation est une interface graphique multiplateforme développée dans Rust pour supprimer les applications inutiles sur les appareils Android qui ne nécessitent pas d'accès root. L'outil vise à améliorer les performances de confidentialité, de sécurité et de durée de vie de la batterie de l'appareil à l'aide d'Android Debug Bridge (ADB).",
+          "summary": "Universal Android Debloater Next Generation est une interface graphique multiplateforme développée dans Rust pour supprimer les applications inutiles sur les appareils Android qui ne nécessitent pas d'accès root (root). L'outil vise à améliorer les performances de confidentialité, de sécurité et de durée de vie de la batterie de l'appareil à l'aide d'Android Debug Bridge (ADB).",
           "meta": "Rust · ★ 7 487 · +146 aujourd'hui"
         },
         {
@@ -20,7 +20,7 @@
         {
           "title": "rmyndharis/OpenWA",
           "url": "https://github.com/rmyndharis/OpenWA",
-          "summary": "OpenWA propose une solution de passerelle API gratuite et open source pour le protocole de messagerie WhatsApp. Cet outil, développé avec le langage TypeScript, permet aux utilisateurs de gérer les intégrations WhatsApp sur leurs propres serveurs (auto-hébergés).",
+          "summary": "OpenWA propose une solution de passerelle API gratuite et open source pour le protocole de messagerie WhatsApp. Développé avec le langage TypeScript, cet outil permet aux utilisateurs de gérer les intégrations WhatsApp sur leurs propres serveurs (auto-hébergés).",
           "meta": "TypeScript · ★ 9 223 · +185 aujourd'hui"
         },
         {

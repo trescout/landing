@@ -1,0 +1,257 @@
+{
+  "date": "2026-08-12",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "summary": "Node Version Manager es una herramienta de línea de comandos que permite a los desarrolladores administrar múltiples versiones de Node.js en sus sistemas. Con su estructura de script de shell (script bash) compatible con POSIX, facilita la realización de transiciones rápidas de versiones entre diferentes proyectos.",
+          "meta": "Shell · ★ 94.520 · +22 hoy"
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Compartido por Anthropics, skills ofrece paquetes de habilidades reutilizables para agentes de inteligencia artificial. Esta biblioteca de código abierto ayuda a los desarrolladores a estandarizar diferentes flujos de trabajo agentes.",
+          "meta": "Python · ★ 168.269 · +485 hoy",
+          "returning": true
+        },
+        {
+          "title": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "summary": "Manim es un motor de animación basado en Python que se utiliza para visualizar conceptos matemáticos. Ofrece una solución programática para creadores de contenido que desean convertir teorías complejas en videos explicativos.",
+          "meta": "Python · ★ 90.306 · +197 hoy"
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "Desarrollado por Stablyai, Orca es un entorno de desarrollo de agentes (ADE) que permite gestionar múltiples agentes de inteligencia artificial simultáneamente. Esta herramienta, que funciona en computadoras de escritorio, dispositivos móviles y servidores privados virtuales (VPS), le permite ejecutar diferentes agentes de codificación con sus propias suscripciones.",
+          "meta": "TypeScript · ★ 43.010 · +875 hoy",
+          "returning": true
+        },
+        {
+          "title": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "summary": "Desarrollada por Hugging Face, Transformers es una biblioteca que se utiliza para entrenar y ejecutar modelos de aprendizaje automático de última generación en diferentes tipos de datos, como texto, imágenes y audio. Proporciona a los desarrolladores acceso a modelos populares de inteligencia artificial y la oportunidad de perfeccionarlos.",
+          "meta": "Python · ★ 163.880 · +80 hoy"
+        },
+        {
+          "title": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac",
+          "summary": "Awesome-mac es un repositorio de recursos integral que clasifica y enumera software de alta calidad desarrollado para el sistema operativo macOS. Este archivo, que permite a los usuarios encontrar fácilmente aplicaciones que se adapten a sus necesidades, funciona como una herramienta de organización sistemática.",
+          "meta": "Swift · ★ 110.586 · +298 hoy"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage es un sistema de código abierto que convierte a los asistentes de codificación con tecnología de inteligencia artificial en un completo estudio de producción de video. Automatiza los procesos de creación de contenido de vídeo con doce canales de producción diferentes, más de cien herramientas y más de setecientas capacidades de agentes.",
+          "meta": "Python · ★ 47.495 · +458 hoy",
+          "returning": true
+        },
+        {
+          "title": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "summary": "El aprendizaje basado en proyectos es una lista que reúne recursos que enseñan procesos de desarrollo de software a través de proyectos aplicados. Ofrece una guía completa para quienes desean desarrollar aplicaciones del mundo real con diferentes lenguajes de programación.",
+          "meta": "Python · ★ 278.578 · +401 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+          "url": "https://stolen-thoughts.com/",
+          "summary": "Los investigadores demuestran que es posible entrenar modelos más pequeños utilizando datos de rastreo de razonamiento producidos por modelos de lenguaje grande (LLM) propietarios. Este método tiene como objetivo transferir las capacidades de razonamiento de los modelos de código cerrado a alternativas de código abierto.",
+          "meta": "566 puntos · 248 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49257876",
+              "popularity": 566,
+              "engagementCount": 248
+            }
+          ]
+        },
+        {
+          "title": "England set to be one of the first countries to eliminate hepatitis C",
+          "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+          "summary": "Inglaterra se está preparando para ser uno de los primeros países en eliminar por completo el virus de la hepatitis C, gracias a sus completos programas de detección y tratamiento. El sistema sanitario NHS (Servicio Nacional de Salud) está llevando a cabo un proceso de pruebas a gran escala en todo el país para detener la propagación del virus.",
+          "meta": "507 puntos · 370 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49257377",
+              "popularity": 507,
+              "engagementCount": 370
+            }
+          ]
+        },
+        {
+          "title": "Compression is prediction",
+          "url": "https://ngrok.com/blog/compression-is-prediction",
+          "summary": "La relación matemática entre la compresión de datos y la predicción muestra que el algoritmo que comprime mejor los datos es en realidad el modelo que mejor predice la estructura de esos datos. Este enfoque ofrece un marco básico para comprender la lógica de trabajo de modelos de lenguaje grandes.",
+          "meta": "397 puntos · 157 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49263497",
+              "popularity": 397,
+              "engagementCount": 157
+            }
+          ]
+        },
+        {
+          "title": "OpenAI’s head of ethics leaves less than a year after joining",
+          "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+          "summary": "El ejecutivo que encabezaba la unidad de ética de OpenAI dejó la empresa menos de un año después de asumir el cargo. Esta separación provocó debates sobre el futuro de la auditoría ética y los procesos de seguridad dentro del desarrollador de inteligencia artificial OpenAI.",
+          "meta": "356 puntos · 369 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49257160",
+              "popularity": 356,
+              "engagementCount": 369
+            }
+          ]
+        },
+        {
+          "title": "Mojo 1.0",
+          "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+          "summary": "Desarrollado por Modular, Mojo 1.0 es un lenguaje de programación que combina la facilidad de uso de Python con el alto rendimiento de los lenguajes de programación de sistemas. Optimizado para ejecutarse en hardware de inteligencia artificial, este lenguaje ofrece a los desarrolladores un entorno de trabajo totalmente compatible con el ecosistema Python.",
+          "meta": "341 puntos · 161 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49261128",
+              "popularity": 341,
+              "engagementCount": 161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
+          "url": "https://huggingface.co/papers/2608.11205",
+          "summary": "AdvFD tiene como objetivo resolver el problema de la pérdida de calidad en la optimización de la distancia de Fréchet utilizada en los modelos de producción visual. El método proporciona una mejora en los procesos de producción visual mediante el uso de una estructura dinámica en lugar de espacios de características estáticas.",
+          "meta": "5 me gusta · 1 comentarios"
+        },
+        {
+          "title": "Not Worth Another Token: Marginal Value Estimation for Efficient Deep Research Agents",
+          "url": "https://huggingface.co/papers/2608.08389",
+          "summary": "Los agentes de inteligencia artificial que realizan investigaciones profundas enfrentan altos costos y problemas de operación lenta debido a la acumulación innecesaria de datos en tareas a largo plazo. Al examinar los métodos de estimación del valor marginal para la gestión del contexto, este estudio ofrece estrategias de poda sistemática que determinan qué datos deben conservarse durante el proceso de investigación.",
+          "meta": "2 me gusta · 1 comentarios"
+        },
+        {
+          "title": "Reference-Free Post-Training of Open Large Language Models for Multilingual Machine Translation",
+          "url": "https://huggingface.co/papers/2608.10812",
+          "summary": "Este método, desarrollado para modelos de lenguajes grandes de código abierto, aumenta la calidad de la traducción automática multilingüe sin necesidad de texto de referencia. Al utilizar la optimización de políticas relativas al grupo, combina procesos de ajuste supervisados ​​con modelos que predicen la calidad de la traducción.",
+          "meta": "3 me gusta · 1 comentarios"
+        },
+        {
+          "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+          "url": "https://huggingface.co/papers/2608.10915",
+          "summary": "El enfoque de ComBodied Agents combina agentes de inteligencia artificial de los mundos digital y físico en un marco centrado en el ser humano. Este modelo se centra en que los agentes no solo cambien el software o los estados físicos, sino que también brinden soporte personalizado al comprender el estado físico y psicológico actual del usuario.",
+          "meta": "40 me gusta · 1 comentarios"
+        },
+        {
+          "title": "iFAN: Inference-Aware Learning for Plain Mask Transformers",
+          "url": "https://huggingface.co/papers/2608.03216",
+          "summary": "iFAN es un nuevo método de aprendizaje que elimina las incompatibilidades entre el proceso de inferencia y la fase de entrenamiento en modelos de segmentación de imágenes. Este enfoque tiene como objetivo mejorar la precisión de la máscara garantizando que el modelo tenga en cuenta la fase de predicción final durante el entrenamiento.",
+          "meta": "2 me gusta · 1 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "GNOME Shell Design Dreams",
+          "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+          "summary": "Los desarrolladores de GNOME han compartido nuevos objetivos de diseño para mejorar la experiencia del usuario en el entorno de escritorio GNOME Shell. Esta visión tiene como objetivo crear un lenguaje visual y un modelo de interacción más consistente en la interfaz.",
+          "meta": "52 puntos · 13 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/b3uky6/gnome_shell_design_dreams",
+              "popularity": 52,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Text Watermarking for Non-Academics",
+          "url": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
+          "summary": "La marca de agua de texto agrega señales estadísticas ocultas a las cadenas de texto para detectar contenido creado por IA generativa. Aunque este método proporciona evidencia para verificar la fuente del contenido, tiene limitaciones técnicas contra la manipulación.",
+          "meta": "6 puntos · 6 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/glicgx/text_watermarking_for_non_academics",
+              "popularity": 6,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "Reviewing code is a skill",
+          "url": "https://typesanitizer.com/blog/code-review.html",
+          "summary": "La revisión de código es un proceso que requiere habilidades de comunicación y pensamiento crítico más allá del conocimiento técnico en el proceso de desarrollo de software. Esta habilidad tiene como objetivo no solo encontrar errores, sino también garantizar una colaboración sostenible en equipo y la calidad del código.",
+          "meta": "41 puntos · 13 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/gyxkma/reviewing_code_is_skill",
+              "popularity": 41,
+              "engagementCount": 13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "generative AI",
+      "explanation": "Tecnología de inteligencia artificial que puede producir nuevos textos, imágenes o sonidos basados ​​en información aprendida previamente."
+    },
+    {
+      "term": "bash script",
+      "explanation": "Un script que automatiza operaciones de varios pasos que deben realizarse en la computadora escribiéndolas en un solo archivo."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Un modelo de inteligencia artificial que aprende a hablar y escribir como un humano leyendo grandes cantidades de texto en Internet."
+    },
+    {
+      "term": "skills",
+      "explanation": "Conocimientos prácticos y capacidad de aplicación necesarios para realizar un trabajo."
+    },
+    {
+      "term": "ADE",
+      "explanation": "Entornos digitales utilizados para acelerar y gestionar los procesos de desarrollo de software."
+    },
+    {
+      "term": "VPS",
+      "explanation": "Alquilar y utilizar un servidor en Internet como si fuera tu propio ordenador privado."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "El proceso de reentrenar una inteligencia artificial entrenada de propósito general con un pequeño conjunto de datos para volverse más experta en un tema específico."
+    },
+    {
+      "term": "production pipeline",
+      "explanation": "La serie automatizada de etapas por las que pasa el software después de su desarrollo y prueba hasta su lanzamiento a usuarios reales."
+    }
+  ]
+}

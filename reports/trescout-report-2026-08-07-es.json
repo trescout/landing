@@ -1,0 +1,347 @@
+{
+  "date": "2026-08-07",
+  "editorial": "Hoy en día, el enfoque en el ecosistema de inteligencia artificial está en mejorar el rendimiento de la inferencia a nivel de hardware y colocar las habilidades de los agentes dentro de un marco estándar. Si bien el movimiento Taalas de AMD muestra que las optimizaciones basadas en silicio están ganando impulso, las métricas de evaluación de código abierto buscan resultados más confiables en la informática.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "Desarrollado por TencentCloud, TencentDB Agent Memory es un centro para agentes de inteligencia artificial que transforma conversaciones, documentos y códigos en activos de memoria reutilizables. Esta herramienta proporciona una gestión coherente de la información en todos los flujos de trabajo mediante la organización de datos compartidos entre diferentes agentes y marcos.",
+          "meta": "TypeScript · ★ 16.685 · +1.057 hoy"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Desarrollado por Addy Osmani, Agent-Skills ofrece habilidades de ingeniería a nivel de producción para agentes de codificación de inteligencia artificial. Esta biblioteca basada en JavaScript tiene como objetivo hacer que los procesos de desarrollo de software autónomos sean más confiables y estandarizados.",
+          "meta": "JavaScript · ★ 83.131 · +593 hoy"
+        },
+        {
+          "title": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "summary": "Desarrollada por Cloudflare, Computer es una biblioteca TypeScript que brinda a los agentes de inteligencia artificial la capacidad de controlar una computadora local o remota. La herramienta permite a los agentes utilizar interfaces digitales como humanos, como tomar capturas de pantalla y enviar entradas de teclado o mouse.",
+          "meta": "TypeScript · ★ 4.979 · +2.802 hoy"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Compartido por Matt Pocock, Skills incluye paquetes de habilidades (skills) personalizados que los ingenieros de software utilizan para los agentes de inteligencia artificial. Este repositorio ofrece scripts listos para usar y ejemplos de configuración para que los desarrolladores hagan que sus agentes sean más funcionales.",
+          "meta": "Shell · ★ 207.489 · +1.873 hoy"
+        },
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik es una plataforma de seguridad de código abierto que proporciona autenticación centralizada y gestión de acceso para aplicaciones. Al combinar procesos de autenticación complejos en un único punto, ofrece una transición segura entre diferentes servicios.",
+          "meta": "Python · ★ 23.221 · +138 hoy"
+        },
+        {
+          "title": "huangruiteng/loopx",
+          "url": "https://github.com/huangruiteng/loopx",
+          "summary": "Loopx es un núcleo de estado liviano desarrollado para equipos de agentes de inteligencia artificial a largo plazo. Esta estructura, que funciona de forma compatible con los agentes de codificación (Codex, Claude Code), garantiza la continuidad de los agentes con funciones como el seguimiento de tareas, la gestión de cuotas y la transferencia de flujo de trabajo basada en evidencia.",
+          "meta": "Python · ★ 3.033 · +847 hoy"
+        },
+        {
+          "title": "google/guava",
+          "url": "https://github.com/google/guava",
+          "summary": "Desarrollado por Google, Guava es un conjunto de herramientas que contiene bibliotecas centrales que se necesitan con frecuencia en proyectos Java. Las colecciones aceleran el desarrollo de software al simplificar tareas comunes como el almacenamiento en caché y la manipulación de cadenas.",
+          "meta": "Java · ★ 51.666 · +13 hoy"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "ChinaTextbook ofrece un archivo de libros de texto utilizados en China desde la escuela primaria hasta el nivel universitario en formato PDF. Este repositorio de código abierto facilita el acceso a materiales educativos con la lógica de una biblioteca digital.",
+          "meta": "Roff · ★ 77.289 · +134 hoy"
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "summary": "AutoGPT es un proyecto Python de código abierto que permite crear agentes de IA autónomos que pueden planificar y ejecutar tareas complejas por sí solos. Facilita el acceso a la inteligencia artificial automatizando procesos como la búsqueda en Internet y la gestión de archivos para alcanzar los objetivos marcados por los usuarios.",
+          "meta": "Python · ★ 186.094 · +37 hoy"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph es una herramienta de inteligencia de código local que crea un mapa permanente de su base de código para que las herramientas de codificación impulsadas por IA lean solo las secciones relevantes. Optimiza la gestión del contexto al reducir la carga de datos innecesaria en los flujos de trabajo y las revisiones de código en proyectos grandes.",
+          "meta": "Python · ★ 29.138 · +237 hoy"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix es un agente de inteligencia artificial que se ejecuta en el terminal y automatiza los procesos de codificación. Gracias a su estructura basada en la estabilidad de la caché de prefijos, permite a los desarrolladores trabajar de forma ininterrumpida durante largas sesiones.",
+          "meta": "Go · ★ 32.603 · +888 hoy"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers ofrece un marco de habilidades de agente y una metodología de desarrollo de software para agentes de inteligencia artificial. Esta herramienta se utiliza para estandarizar los flujos de trabajo de los sistemas basados ​​en agentes y hacer que los procesos de software sean más manejables.",
+          "meta": "Shell · ★ 268.240 · +858 hoy"
+        },
+        {
+          "title": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "summary": "PDF Inspector, desarrollado por Firecrawl, es una biblioteca Rust rápida que se utiliza para inspeccionar, clasificar y extraer texto de archivos PDF. Al distinguir los documentos escaneados de los archivos de texto, permite tomar decisiones de enrutamiento inteligentes durante el proceso de procesamiento de datos.",
+          "meta": "Rust · ★ 12.624 · +1.190 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Mario Meets Pareto",
+          "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+          "summary": "Mario Meets Pareto recomienda centrarse en las tareas que crean el mayor impacto mediante el uso del principio de Pareto en los procesos de desarrollo de software. Aboga por priorizar las características críticas que constituyen el valor central del producto, eliminando el trabajo secundario que consume la mayor parte del tiempo en proyectos complejos.",
+          "meta": "957 puntos · 151 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49195231",
+              "popularity": 957,
+              "engagementCount": 151
+            }
+          ]
+        },
+        {
+          "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+          "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+          "summary": "AMD adquirió la startup de chips Taalas para mejorar el rendimiento de inferencia renderizando modelos de inteligencia artificial directamente en silicio. Este movimiento tiene como objetivo integrar métodos de aceleración de inteligencia artificial personalizados a nivel de hardware en la arquitectura del procesador.",
+          "meta": "509 puntos · 391 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49201970",
+              "popularity": 509,
+              "engagementCount": 391
+            }
+          ]
+        },
+        {
+          "title": "GitHub Actions and Pages are experiencing degraded availability",
+          "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+          "summary": "La plataforma de desarrollo de software GitHub, la herramienta de automatización GitHub Actions y el servicio de alojamiento de sitios web GitHub Pages están experimentando interrupciones. Debido a problemas de acceso a los servicios, los usuarios encuentran interrupciones en los procesos de compilación y publicación de sus proyectos.",
+          "meta": "367 puntos · 297 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49198302",
+              "popularity": 367,
+              "engagementCount": 297
+            }
+          ]
+        },
+        {
+          "title": "Almost no skill required to cook a steak",
+          "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+          "summary": "El artículo escrito por Sydorets explica los métodos para cocinar un bistec de calidad en casa sin necesidad de técnicas complejas. Al reducir el proceso a pasos simples, se demuestra que es posible obtener resultados profesionales con el equipo y el momento adecuados.",
+          "meta": "312 puntos · 352 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49198069",
+              "popularity": 312,
+              "engagementCount": 352
+            }
+          ]
+        },
+        {
+          "title": "Taste Is All That's Left",
+          "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+          "summary": "A medida que la inteligencia artificial facilita la producción de contenidos, la capacidad de seleccionar y probar, más que las habilidades técnicas, se convierte en el principal valor que se destaca en el mundo digital. La capacidad de distinguir contenidos de calidad y tomar la decisión correcta se define como el nuevo referente de la creatividad centrada en el ser humano en la era de la inteligencia artificial generativa (IA generativa).",
+          "meta": "306 puntos · 234 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49199346",
+              "popularity": 306,
+              "engagementCount": 234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, desarrollado por MiniMax, es un modelo de inteligencia artificial que produce videos utilizando entradas visuales y de texto. Este modelo ofrece la posibilidad de crear vídeos de alta calidad a partir de contenido proporcionado por el usuario.",
+          "meta": "♥ 2.792 · 12.102 descargas"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731 es un nuevo modelo de lenguaje centrado en la generación de texto. Este modelo, compartido en la plataforma HuggingFace, se destaca por su capacidad para producir resultados rápidos y eficientes.",
+          "meta": "♥ 2.669 · 617.900 descargas"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, desarrollado por Moonshot AI, es un modelo de inteligencia artificial multimodal que produce resultados significativos mediante el procesamiento de datos visuales y textuales. Combina diferentes tipos de datos en un solo sistema, con la capacidad de analizar consultas basadas en imágenes y texto.",
+          "meta": "♥ 10.218 · 1.258.043 descargas"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3 es un modelo de lenguaje grande multimodal con capacidades de procesamiento visual y de texto. Este modelo, compartido en Hugging Face, analiza datos visuales complejos y permite a los usuarios producir o interpretar contenido visual con comandos basados ​​en texto.",
+          "meta": "♥ 861 · 2.295.377 descargas"
+        },
+        {
+          "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "summary": "Unsloth, una biblioteca para entrenar de manera eficiente modelos de lenguaje grandes, ofrece una versión optimizada para ejecutar el modelo DeepSeek-V4 más rápido y con menor uso de memoria. Esta versión incluye pesos en formato GGUF, lo que facilita la ejecución del modelo en hardware nativo.",
+          "meta": "♥ 559 · 145.105 descargas"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Invisible Shortcuts: Why Vision Encoders Know Your Camera",
+          "url": "https://huggingface.co/papers/2608.05424",
+          "summary": "Los modelos de procesamiento de imágenes hacen predicciones basadas en metadatos de la cámara y la toma ocultos a nivel de píxel, en lugar de objetos en los datos de entrenamiento. Esto hace que los modelos creen atajos aprendiendo rastros derivados del dispositivo en lugar de contenido visual.",
+          "meta": "1 me gusta · 1 comentarios"
+        },
+        {
+          "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+          "url": "https://huggingface.co/papers/2607.28609",
+          "summary": "OSReward ofrece un modelo de recompensa estandarizado para evaluar las acciones realizadas por agentes que utilizan computadoras. Su objetivo es medir el éxito de los agentes en la realización de tareas de manera escalable y consistente, utilizando modelos de visión y lenguaje como jueces.",
+          "meta": "5 me gusta · 1 comentarios"
+        },
+        {
+          "title": "PaDoc: Layout-Grounded Parallel Decoding for Document Parsing",
+          "url": "https://huggingface.co/papers/2608.06146",
+          "summary": "PaDoc ofrece un método de decodificación paralelo basado en el diseño de página en operaciones de análisis de documentos. Este enfoque elimina las limitaciones de tiempo de procesamiento de los métodos tradicionales al procesar regiones de contenido de forma independiente y al mismo tiempo preservar todo el contexto de la página.",
+          "meta": "0 me gusta · 1 comentarios"
+        },
+        {
+          "title": "World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation",
+          "url": "https://huggingface.co/papers/2608.05369",
+          "summary": "World-to-Wrist (W2-VLA) es un modelo de visión, lenguaje y acción que predice movimientos futuros combinando datos de visión global y cámaras de muñeca en procesos de manipulación robótica. Este enfoque permite que el robot alinee mejor las interacciones locales con el contexto global de la tarea cuando realiza tareas complejas.",
+          "meta": "13 me gusta · 1 comentarios"
+        },
+        {
+          "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2608.06197",
+          "summary": "EnvACE utiliza el método de ensayo mundial en lugar de necesitar entornos externos al entrenar agentes de inteligencia artificial. Este enfoque hace que el proceso de formación sea eficiente al reducir la dependencia de simuladores externos en tareas que requieren un uso complejo de vehículos.",
+          "meta": "22 me gusta · 1 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "summary": "La herramienta de grabación de reuniones tl;dv dejó aproximadamente 182 mil grabaciones de reuniones abiertas al acceso no autorizado debido a una vulnerabilidad de seguridad. Esta situación revela los riesgos de los servicios de grabación basados ​​en la nube a la hora de proteger conversaciones privadas y datos sensibles.",
+          "meta": "136 puntos · 26 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874",
+              "popularity": 136,
+              "engagementCount": 26
+            }
+          ]
+        },
+        {
+          "title": "Zig's Io.Threaded is Neat",
+          "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+          "summary": "La estructura Io.Threaded en el lenguaje de programación Zig hace que la concurrencia sea más eficiente al administrar las operaciones de entrada-salida (E/S) a través de subprocesos. Este método permite el uso directo de los recursos del sistema sin la necesidad de complejos bloques de código asincrónico.",
+          "meta": "38 puntos · 5 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat",
+              "popularity": 38,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "jujutsu 0.44.0",
+          "url": "https://github.com/jj-vcs/jj/releases/tag/v0.44.0",
+          "summary": "Jujutsu 0.44.0 ofrece una actualización que contiene nuevas funciones y correcciones de errores para Jujutsu, el sistema de control de versiones. Esta herramienta, que es compatible con Git, se centra en mejorar la estructura de datos y la experiencia de la línea de comandos.",
+          "meta": "55 puntos · 25 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/xx83dr/jujutsu_0_44_0",
+              "popularity": 55,
+              "engagementCount": 25
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "engineering skills",
+      "explanation": "Capacidad para resolver problemas complejos en pasos lógicos y establecer sistemas técnicos."
+    },
+    {
+      "term": "skills",
+      "explanation": "Los conocimientos y habilidades prácticas que tienes para realizar un trabajo en particular."
+    },
+    {
+      "term": "state kernel",
+      "explanation": "La estructura central básica que gestiona el estado operativo actual y los datos de un software."
+    },
+    {
+      "term": "core libraries",
+      "explanation": "Paquetes de códigos básicos listos para usar necesarios para que se ejecute un lenguaje o software de programación."
+    },
+    {
+      "term": "caching",
+      "explanation": "El proceso de almacenar temporalmente datos de uso frecuente en la memoria para un acceso rápido."
+    },
+    {
+      "term": "autonomous AI agents",
+      "explanation": "Software de inteligencia artificial que puede tomar decisiones y realizar tareas por sí solo sin intervención humana."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Un enfoque de software que prioriza el almacenamiento y procesamiento de datos directamente en su dispositivo sin estar conectado a Internet."
+    },
+    {
+      "term": "context",
+      "explanation": "Información previa o el conjunto de conversaciones previas proporcionadas a la inteligencia artificial para que comprenda correctamente un tema."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "Un método de aceleración que evita el procesamiento repetido de comandos largos dados a la inteligencia artificial manteniendo las partes iniciales en la memoria."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Un marco de software que organiza las capacidades que la inteligencia artificial necesita para realizar tareas complejas."
+    },
+    {
+      "term": "inference",
+      "explanation": "El proceso mediante el cual un modelo de inteligencia artificial entrenado realiza una predicción o respuesta utilizando nuevos datos."
+    },
+    {
+      "term": "taste",
+      "explanation": "Capacidad de distinguir la calidad estética y funcional de un producto o diseño tecnológico."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Tecnología de inteligencia artificial que puede crear contenido nuevo, como texto, imágenes o audio, en función de los datos que aprende."
+    },
+    {
+      "term": "text generation",
+      "explanation": "La computadora escribe oraciones significativas y naturales de acuerdo con un comando dado."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Un sistema que puede procesar simultáneamente no sólo texto sino también diferentes tipos de datos como imágenes, audio y vídeo."
+    },
+    {
+      "term": "multimodal large language model",
+      "explanation": "Un modelo de inteligencia artificial avanzado que puede comprender y procesar diferentes tipos de datos, como imágenes y audio, además de texto."
+    }
+  ]
+}

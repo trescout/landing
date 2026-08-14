@@ -1,0 +1,261 @@
+{
+  "date": "2026-06-12",
+  "editorial": "La agenda tecnológica actual consiste en bibliotecas de habilidades autónomas y herramientas de procesamiento de datos. Los desarrolladores han recurrido especialmente a arquitecturas modulares que centran modelos de inteligencia artificial de código abierto en tareas específicas.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Desarrollado por Apple, Container permite la creación y ejecución de contenedores Linux utilizando máquinas virtuales livianas en dispositivos Mac. Escrita en lenguaje Swift, la herramienta ofrece un rendimiento optimizado para la arquitectura de silicio de Apple.",
+          "meta": "Swift · ★ 33.754 · +2.430 hoy"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Desarrollado por Addy Osmani, Agent-Skills ofrece habilidades de ingeniería a nivel de producción para agentes de codificación de inteligencia artificial. Esta biblioteca tiene como objetivo estandarizar las competencias técnicas de los agentes utilizados en los procesos de automatización.",
+          "meta": "Shell · ★ 55.681 · +3.278 hoy"
+        },
+        {
+          "title": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "summary": "OpenMed es una biblioteca de Python que proporciona conjuntos de datos y modelos de IA de código abierto en el sector sanitario. Este conjunto de herramientas desarrollado para aplicaciones médicas tiene como objetivo estandarizar los procesos de procesamiento y análisis de datos de salud.",
+          "meta": "Python · ★ 2.964 · +426 hoy"
+        },
+        {
+          "title": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "summary": "PM Skills Marketplace ofrece más de 100 habilidades, comandos y complementos de agente para procesos de gestión de productos, que van desde el descubrimiento hasta el crecimiento. Este conjunto de herramientas reúne componentes modulares diseñados para automatizar los flujos de trabajo de desarrollo de productos.",
+          "meta": "★ 16.548 · +1.978 hoy"
+        },
+        {
+          "title": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "summary": "Desarrollado por NVIDIA, SkillSpector es una herramienta de escaneo que detecta vulnerabilidades y patrones maliciosos en los paquetes de habilidades de los agentes de inteligencia artificial. Este software basado en Python tiene como objetivo analizar los riesgos de seguridad encontrados durante el proceso de desarrollo de sistemas basados ​​en agentes.",
+          "meta": "Python · ★ 2.967 · +319 hoy"
+        },
+        {
+          "title": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "summary": "Maigret escanea más de 3.000 sitios web basándose en nombres de usuario y crea un expediente digital completo de personas. Esta herramienta basada en Python permite consultar perfiles de usuario desde un punto central en procesos de inteligencia de código abierto (OSINT).",
+          "meta": "Python · ★ 32.818 · +661 hoy"
+        },
+        {
+          "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "summary": "En esta compilación se reúnen las indicaciones del sistema de herramientas populares de inteligencia artificial, sus herramientas internas y los modelos que utilizan. Los desarrolladores tienen la oportunidad de examinar los principios de funcionamiento y los detalles de configuración de diferentes asistentes de codificación basados ​​en inteligencia artificial.",
+          "meta": "★ 140.003 · +368 hoy"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria es una aplicación de escritorio desarrollada para gestionar bases de conocimiento basadas en Markdown. Escrita en TypeScript, esta herramienta ofrece un área de gestión central para organizar los procesos de documentación personal.",
+          "meta": "TypeScript · ★ 15.525 · +604 hoy"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers ofrece un marco de habilidades de agente y una metodología de desarrollo de software para agentes de inteligencia artificial. Esta herramienta está diseñada para estandarizar los flujos de trabajo basados ​​en agentes y automatizar los procesos de software.",
+          "meta": "Shell · ★ 225.354 · +1.322 hoy"
+        },
+        {
+          "title": "restic/restic",
+          "url": "https://github.com/restic/restic",
+          "summary": "Desarrollado con el lenguaje Go, Restic ofrece un programa de copia de seguridad de código abierto que realiza copias de seguridad de los datos de forma rápida y eficiente cifrándolos. Esta herramienta, que admite diferentes sistemas de almacenamiento, ahorra espacio de almacenamiento con el método de copia de seguridad incremental.",
+          "meta": "Go · ★ 34.273 · +61 hoy"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "El proyecto Agencia-agentes crea una estructura de agencia digital reuniendo agentes de inteligencia artificial con diferentes áreas de especialización. Permite gestionar procesos como desarrollo de software, producción de contenidos y verificación de datos a través de personajes y flujos de trabajo especializados.",
+          "meta": "Shell · ★ 111.887 · +1.599 hoy"
+        },
+        {
+          "title": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "summary": "MasterDnsVPN es una solución de red privada virtual (VPN) de túnel de sistema de nombres de dominio (túnel DNS) de bajo costo desarrollada para superar las barreras de la censura. Escrita en lenguaje Go, la herramienta utiliza solicitudes de repetición automática (ARQ) y técnicas de equilibrio de carga de resolución para mejorar la estabilidad de la pérdida de paquetes en la transmisión de datos.",
+          "meta": "Go · ★ 5.826 · +507 hoy"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot es una plataforma de código abierto que ofrece chat en vivo, soporte por correo electrónico y gestión de escritorio omnicanal. Desarrollada como una alternativa a software comerciales como Intercom y Zendesk, esta herramienta permite gestionar las interacciones con los clientes desde un único centro.",
+          "meta": "Ruby · ★ 30.493 · +67 hoy"
+        },
+        {
+          "title": "kenn-io/agentsview",
+          "url": "https://github.com/kenn-io/agentsview",
+          "summary": "Agentsview es una herramienta de monitoreo que proporciona inteligencia de sesión local y datos analíticos para agentes de codificación. Este software, que admite más de veinte agentes, incluidos Claude Code y Codex, promete un rendimiento más rápido en comparación con la herramienta ccusage.",
+          "meta": "Go · ★ 1.867 · +114 hoy"
+        },
+        {
+          "title": "alchaincyf/zhangxuefeng-skill",
+          "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+          "summary": "Zhangxuefeng-skill ofrece un sistema operativo cognitivo estructurado para preferencias de exámenes universitarios, educación de posgrado y procesos de planificación profesional. Este proyecto, creado con la infraestructura Nuwa.skill, estandariza procesos complejos de toma de decisiones con un marco de pensamiento práctico.",
+          "meta": "★ 8.114 · +89 hoy"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "El repositorio ChinaTextbook proporciona un archivo en formato PDF de todos los libros de texto utilizados en China, desde la escuela primaria hasta el nivel universitario. Este proyecto de código abierto centraliza el acceso a materiales educativos, creando una gran biblioteca de recursos académicos.",
+          "meta": "Roff · ★ 74.049 · +88 hoy"
+        },
+        {
+          "title": "hexo-ai/sia",
+          "url": "https://github.com/hexo-ai/sia",
+          "summary": "SIA es un marco de IA de mejora automática desarrollado para mejorar de forma autónoma el rendimiento de los modelos y agentes de IA en tareas de referencia específicas. Este sistema basado en Python permite a los sistemas de inteligencia artificial optimizar sus procesos analizando sus propios resultados.",
+          "meta": "Python · ★ 1.478 · +199 hoy"
+        },
+        {
+          "title": "mattermost/mattermost",
+          "url": "https://github.com/mattermost/mattermost",
+          "summary": "Mattermost es una plataforma de código abierto diseñada para permitir una colaboración segura durante todo el ciclo de vida del desarrollo de software. Permite a los equipos de software gestionar sus procesos de comunicación a través de una estructura central.",
+          "meta": "TypeScript · ★ 37.444 · +53 hoy"
+        },
+        {
+          "title": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "summary": "El proyecto Fanqiang es una herramienta de entrada escrita en Kotlin, desarrollada para evitar la censura de Internet. Es un software de código abierto diseñado para proporcionar a los usuarios acceso a recursos de red limitados.",
+          "meta": "Kotlin · ★ 47.142 · +161 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Homebrew 6.0.0",
+          "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+          "summary": "Homebrew 6.0.0, el administrador de paquetes para macOS y Linux, se ha actualizado con un nuevo mecanismo de confianza del repositorio (toque de seguridad de confianza) y una interfaz JSON interna (API) más rápida. La versión también incluye compatibilidad con sandboxing en Linux y mejoras en la configuración predeterminada basadas en los comentarios de los usuarios.",
+          "meta": "1.188 puntos · 274 comentarios"
+        },
+        {
+          "title": "If you are asking for human attention, demonstrate human effort",
+          "url": "https://tombedor.dev/human-attention-and-human-effort/",
+          "summary": "Se espera que las personas que exigen una interacción centrada en el ser humano en los procesos de desarrollo de software presenten sus propios esfuerzos de manera concreta para obtener una respuesta de la otra parte. Este enfoque sostiene que brindar contexto y preparación preliminar, especialmente en solicitudes de apoyo técnico o cooperación, es un requisito fundamental para atraer la atención del interlocutor.",
+          "meta": "640 puntos · 200 comentarios"
+        },
+        {
+          "title": "MiMo Code is now released and open-source",
+          "url": "https://mimo.xiaomi.com/mimocode",
+          "summary": "Desarrollado por Xiaomi, MiMo Code es un marco de código abierto que tiene como objetivo mejorar el rendimiento de modelos de lenguajes grandes multimodales en procesos de generación de código y desarrollo de software. Esta herramienta ofrece una arquitectura especial desarrollada para gestionar tareas de programación complejas de manera más eficiente.",
+          "meta": "481 puntos · 268 comentarios"
+        },
+        {
+          "title": "Petition to Withdraw Canada's Bill C-22",
+          "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+          "summary": "El proyecto de ley C-22, presentado en Canadá, está causando controversia pública debido a sus regulaciones sobre seguridad en línea y control de contenidos digitales. La petición lanzada para retirar el proyecto de ley en cuestión refleja preocupaciones sobre posibles restricciones a la libertad de expresión y los derechos digitales.",
+          "meta": "429 puntos · 144 comentarios"
+        },
+        {
+          "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+          "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+          "summary": "Este estudio sobre la dinámica de sistemas revela que los gerentes que resuelven problemas antes de que ocurran no son apreciados debido a la invisibilidad de las intervenciones preventivas. Analiza cómo las culturas organizacionales que asocian el éxito con la gestión de crisis en lugar de resultados medibles obstaculizan los procesos de mejora a largo plazo.",
+          "meta": "419 puntos · 142 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, desarrollado por Google, es un modelo multimodal que produce resultados basados ​​en texto procesando entradas de texto e imágenes. El sistema llama la atención por su capacidad para analizar datos visuales y crear textos significativos basados ​​en estos datos.",
+          "meta": "♥ 530 · 0 descargas"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Desarrollado por Nvidia, LocateAnything-3B se destaca como un modelo de conversión de texto a texto de imagen que realiza tareas de localización de objetos mediante el procesamiento de entradas visuales y textuales. El modelo brinda la capacidad de identificar objetos en datos visuales y presentar las coordenadas de estos objetos como salida basada en texto.",
+          "meta": "♥ 1.897 · 131.794 descargas"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Gemma-2-12B-it, una versión actualizada del modelo Gemma 2-9B desarrollado por Google, es un modelo de cualquier cosa que puede manejar texto y datos multimodales. Este modelo ponderado abierto proporciona una arquitectura optimizada para procesos de inferencia de alto rendimiento.",
+          "meta": "♥ 944 · 675.936 descargas"
+        },
+        {
+          "title": "CohereLabs/North-Mini-Code-1.0",
+          "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+          "summary": "North-Mini-Code-1.0, desarrollado por CohereLabs, es un modelo de lenguaje centrado en la generación de texto. Diseñado para respaldar los procesos de desarrollo de software, este modelo tiene como objetivo ofrecer rendimiento en tareas basadas en código.",
+          "meta": "♥ 316 · 1.859 descargas"
+        },
+        {
+          "title": "bosonai/higgs-audio-v3-tts-4b",
+          "url": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
+          "summary": "Higgs-audio-v3-tts-4b, desarrollado por Bosonai, es un modelo de 4 mil millones de parámetros diseñado para operaciones de conversión de texto a voz. Este modelo ofrece la capacidad de transformar datos basados ​​en texto en contenido de audio con alta fidelidad.",
+          "meta": "♥ 370 · 19.948 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "virtual machines",
+      "explanation": "Sistemas operativos virtuales que se ejecutan dentro de una computadora como si fuera un dispositivo independiente."
+    },
+    {
+      "term": "containers",
+      "explanation": "Paquetes livianos que contienen todo lo necesario para que un software se ejecute y se pueden mover a diferentes entornos sin problemas."
+    },
+    {
+      "term": "Apple silicon",
+      "explanation": "Arquitectura de procesador de alto rendimiento y bajo consumo de energía diseñada específicamente para computadoras por Apple."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Capacidad para analizar problemas complejos en pasos lógicos y producir soluciones."
+    },
+    {
+      "term": "agentic skills",
+      "explanation": "La capacidad de una inteligencia artificial para tomar decisiones y actuar por sí sola para lograr el objetivo que se le ha asignado."
+    },
+    {
+      "term": "skills",
+      "explanation": "El conocimiento y las habilidades prácticas necesarias para realizar un trabajo específico."
+    },
+    {
+      "term": "dossier",
+      "explanation": "Fichero en el que se reúne de forma ordenada toda la información recopilada sobre una persona o tema."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Un método para recopilar y analizar información de fuentes disponibles públicamente en Internet."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Instrucciones iniciales que le dicen a una IA cómo debe comportarse y qué reglas debe seguir."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Conjunto de métodos estructurados utilizados para mejorar la capacidad de la inteligencia artificial para actuar de forma independiente."
+    },
+    {
+      "term": "backup program",
+      "explanation": "Software que evita pérdidas al realizar una copia de sus datos digitales."
+    },
+    {
+      "term": "incremental backup",
+      "explanation": "Método de copia de seguridad que ahorra tiempo y espacio al guardar solo los archivos que han cambiado desde la última copia de seguridad."
+    },
+    {
+      "term": "DNS tunneling",
+      "explanation": "Técnica de transferencia de datos ocultando el tráfico de Internet dentro de los protocolos normalmente utilizados para acceder a sitios web."
+    },
+    {
+      "term": "VPN",
+      "explanation": "Una herramienta que protege tus datos cifrando tu conexión a Internet y hace que parezca que estás en una ubicación diferente."
+    },
+    {
+      "term": "ARQ",
+      "explanation": "Mecanismo de control de errores que garantiza que la información se reenvíe automáticamente cuando ocurre un error durante la transmisión de datos."
+    },
+    {
+      "term": "omni-channel desk",
+      "explanation": "El sistema de soporte que recopila todos los diferentes canales de comunicación como correos electrónicos, mensajes y llamadas de los clientes en una sola pantalla."
+    }
+  ]
+}

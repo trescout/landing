@@ -14,7 +14,7 @@
         {
           "title": "bytedance/deer-flow",
           "url": "https://github.com/bytedance/deer-flow",
-          "summary": "Développé par ByteDance, Deer-Flow est un framework de superagent open source conçu pour effectuer des tâches de longue durée. Système; Il peut rechercher et coder de manière autonome des flux de travail complexes à l'aide d'un bac à sable, d'une gestion de la mémoire et de sous-agents.",
+          "summary": "Développé par ByteDance, Deer-Flow est un framework de superagent open source conçu pour effectuer des tâches de longue durée. Système; Il peut rechercher et coder de manière autonome des flux de travail complexes à l'aide d'un bac à sable, de la gestion de la mémoire et de sous-agents.",
           "meta": "Python · ★ 72 905 · +442 aujourd'hui"
         },
         {
@@ -105,7 +105,7 @@
     },
     {
       "term": "knowledge graph",
-      "explanation": "Une structure de données qui affiche les relations entre les informations sous forme de points interconnectés."
+      "explanation": "Une structure de données qui montre les relations entre les informations sous forme de points interconnectés."
     },
     {
       "term": "ticket purchasing assistant",

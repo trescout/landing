@@ -1,0 +1,341 @@
+{
+  "date": "2026-08-10",
+  "editorial": "Los estudios académicos sobre las habilidades y la evolución de la personalidad de los agentes de inteligencia artificial se centran en la capacidad de los modelos para comprender conceptos complejos (comprensión cruzada de conceptos). Mientras continúan los debates sobre la accesibilidad del código fuente en el mundo del software, el uso de la memoria (uso de RAM) de las aplicaciones del sistema operativo sigue siendo el foco de las críticas orientadas a la eficiencia.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "summary": "Prime-agent es un agente de aprendizaje por refuerzo (agente RLM) de desarrollo propio diseñado para codificar flujos de trabajo y tareas autónomas a largo plazo. Desarrollada con el lenguaje TypeScript, esta herramienta ofrece mecanismos de decisión autónomos para automatizar procesos de software complejos.",
+          "meta": "TypeScript · ★ 11.708 · +2.356 hoy"
+        },
+        {
+          "title": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "summary": "Code-graph-rag combina gráficos de conocimiento y generación asistida por recuperación (RAG) para comprender y consultar estructuras complejas en grandes repositorios de código. Permite a los desarrolladores analizar y editar bases de código en diferentes idiomas con la ayuda de inteligencia artificial.",
+          "meta": "Python · ★ 3.153 · +96 hoy"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agentes de agencia es una biblioteca de automatización que reúne agentes de inteligencia artificial con diferentes áreas de especialización bajo un mismo techo. Estos agentes expertos, asumiendo una variedad de tareas como desarrollo de software, producción de contenido y validación de datos, tienen como objetivo estandarizar los flujos de trabajo.",
+          "meta": "Shell · ★ 141.050 · +858 hoy"
+        },
+        {
+          "title": "pranshuparmar/witr",
+          "url": "https://github.com/pranshuparmar/witr",
+          "summary": "Witr es una herramienta de línea de comandos que le permite rastrear el origen de cualquier proceso, puerto, contenedor o archivo que se ejecuta en su computadora. Le permite rastrear desde qué fuente comienzan los procesos que utilizan los recursos del sistema, a través de una interfaz visual (TUI).",
+          "meta": "Go · ★ 20.869 · +210 hoy"
+        },
+        {
+          "title": "google-deepmind/weathernext",
+          "url": "https://github.com/google-deepmind/weathernext",
+          "summary": "WeatherNext, desarrollado por Google DeepMind, es un modelo que utiliza inteligencia artificial generativa (IA generativa) para pronósticos meteorológicos. Su objetivo es realizar predicciones atmosféricas más rápidas y de mayor resolución en comparación con las simulaciones físicas tradicionales.",
+          "meta": "Python · ★ 7.148 · +86 hoy"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Desarrollada para agentes de codificación de inteligencia artificial, agent-skills es una biblioteca que ofrece habilidades de ingeniería a nivel de producción. Esta herramienta basada en JavaScript proporciona funciones estandarizadas que los desarrolladores pueden utilizar en procesos de software autónomos.",
+          "meta": "JavaScript · ★ 85.292 · +680 hoy"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen/daily_stock_analysis es un sistema de seguimiento del mercado de valores que analiza múltiples datos de mercado y noticias actuales utilizando grandes modelos de lenguaje. Esta herramienta basada en Python ofrece un panel que respalda las decisiones de inversión y le permite programar el seguimiento del mercado de forma gratuita con notificaciones automáticas.",
+          "meta": "Python · ★ 61.386 · +306 hoy"
+        },
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik es una plataforma de seguridad de código abierto que proporciona autenticación centralizada y gestión de acceso para aplicaciones. Esta herramienta, que combina procesos de inicio de sesión de usuarios entre diferentes servicios, actúa como proveedor de identidad.",
+          "meta": "Python · ★ 24.356 · +310 hoy"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Desarrollada por Google, Skills es una biblioteca que permite a los agentes de inteligencia artificial interactuar con los productos y tecnologías de Google. Esta herramienta basada en Python estandariza las habilidades necesarias para que los agentes realicen determinadas tareas.",
+          "meta": "Python · ★ 17.346 · +528 hoy"
+        },
+        {
+          "title": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "summary": "ComfyUI es una herramienta de visualización modular que proporciona una interfaz basada en nodos para modelos de difusión. Permite a los usuarios diseñar procesos complejos de procesamiento de imágenes con un diagrama de flujo visual y administrar estos procesos a través de API.",
+          "meta": "Python · ★ 125.719 · +365 hoy"
+        },
+        {
+          "title": "harveyai/harvey-labs",
+          "url": "https://github.com/harveyai/harvey-labs",
+          "summary": "Harvey Labs es una herramienta de benchmarking diseñada para medir y mejorar las capacidades de los agentes de inteligencia artificial que apoyan tareas en el ámbito legal. Este estudio, elaborado en lenguaje Python, tiene como objetivo evaluar el desempeño del software que desarrolla tecnologías jurídicas con pruebas estándar.",
+          "meta": "Python · ★ 881 · +47 hoy"
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3code es un marco de desarrollo que garantiza la seguridad de tipos de un extremo a otro en proyectos TypeScript. Estandariza la arquitectura de la aplicación, lo que facilita el establecimiento de una estructura coherente entre los modelos de datos y los puntos finales de API.",
+          "meta": "TypeScript · ★ 17.744 · +163 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "How I use LLMs to learn complex topics",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+          "summary": "Los modelos de lenguaje grandes se utilizan como profesores personalizados en el proceso de aprendizaje de materias complejas. Los usuarios están utilizando métodos de preguntas basados ​​en inteligencia artificial para simplificar conceptos e identificar brechas de aprendizaje.",
+          "meta": "531 puntos · 302 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49234675",
+              "popularity": 531,
+              "engagementCount": 302
+            }
+          ]
+        },
+        {
+          "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+          "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+          "summary": "La aplicación meteorológica incorporada en el sistema operativo Windows 11 utiliza los recursos del sistema de manera ineficiente al consumir más de 1 GB de memoria (RAM) en segundo plano. Esto muestra que la aplicación, que ofrece una interfaz sencilla, crea una carga mayor de la esperada en el rendimiento del sistema.",
+          "meta": "443 puntos · 367 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49232138",
+              "popularity": 443,
+              "engagementCount": 367
+            }
+          ]
+        },
+        {
+          "title": "Everything you do is being recorded",
+          "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+          "summary": "La proliferación de dispositivos portátiles compatibles con inteligencia artificial crea un entorno de vigilancia donde las interacciones diarias se registran constantemente. Este cambio tecnológico requiere el desarrollo de nuevos mecanismos de defensa y estrategias de seguridad de datos personales para proteger la privacidad de las personas.",
+          "meta": "248 puntos · 198 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49230477",
+              "popularity": 248,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Taxi drivers rarely die of Alzheimer's",
+          "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+          "summary": "Los trabajos de los taxistas, que requieren la creación de complejos mapas mentales y razonamiento espacial, reducen el riesgo de padecer la enfermedad de Alzheimer. Se afirma que mantener el cerebro constantemente activo proporciona protección contra procesos neurodegenerativos al aumentar la reserva cognitiva.",
+          "meta": "231 puntos · 173 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49232253",
+              "popularity": 231,
+              "engagementCount": 173
+            }
+          ]
+        },
+        {
+          "title": "Cool URIs Don't Change (1998)",
+          "url": "https://www.w3.org/Provider/Style/URI",
+          "summary": "Este artículo publicado por el W3C sostiene que las direcciones web (URI) no deberían cambiar con el tiempo. Recomienda crear estructuras de enlaces permanentes como principio de diseño básico para mantener la accesibilidad del contenido.",
+          "meta": "214 puntos · 52 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49231809",
+              "popularity": 214,
+              "engagementCount": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, desarrollado por MiniMax, es un modelo de inteligencia artificial que produce videos utilizando entradas visuales y de texto. Este modelo se destaca por su capacidad de transformar datos proporcionados por el usuario en contenido de video de alta calidad.",
+          "meta": "♥ 3.284 · 35.295 descargas"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, el modelo de generación de texto desarrollado por DeepSeek, ofrece una estructura optimizada para tareas de procesamiento de lenguaje de alto rendimiento. Este modelo, compartido en la plataforma HuggingFace, tiene como objetivo aumentar la eficiencia en aplicaciones que requieren tiempos de respuesta rápidos.",
+          "meta": "♥ 2.963 · 868.576 descargas"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3 es un modelo de lenguaje grande multimodal con capacidades de procesamiento visual y de texto. Este modelo, compartido en Hugging Face, una plataforma que aloja modelos de inteligencia artificial de código abierto, se utiliza en los procesos de análisis e interpretación de datos visuales complejos.",
+          "meta": "♥ 1.091 · 4.947.943 descargas"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Desarrollado por Moonshot AI, Kimi-K3 es un modelo de inteligencia artificial multimodal (modelo multimodal) que puede procesar datos visuales y de texto. Permite a los usuarios crear consultas complejas basadas en entradas de imágenes y texto.",
+          "meta": "♥ 10.410 · 1.456.459 descargas"
+        },
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "MiniMax-H3-Turbo-Lora es un archivo de adaptación (LoRA) que mejora las capacidades del modelo para generar contenido de texto a video. Este trabajo permite afinar el proceso de creación de videos con un bajo uso de recursos.",
+          "meta": "♥ 553 · 0 descargas"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+          "url": "https://huggingface.co/papers/2608.06501",
+          "summary": "El marco C4, desarrollado para medir las habilidades creativas de modelos de lenguajes grandes multimodales, pone a prueba su capacidad de comprensión cruzada de conceptos. Este método encarna la competencia creativa de resolución de problemas de la inteligencia artificial mediante la evaluación de la capacidad de los modelos para establecer relaciones no obvias pero significativas.",
+          "meta": "1 me gusta · 1 comentarios"
+        },
+        {
+          "title": "Do AI Personas Grow? Analyzing and Benchmarking Personality Evolution in LLM Agents After Life Events",
+          "url": "https://huggingface.co/papers/2608.06485",
+          "summary": "Se están desarrollando agentes modelo de lenguaje grande (PC-Agents) centrados en la personalidad para proporcionar coherencia en las interacciones a largo plazo en áreas como el apoyo emocional y la simulación social. Este estudio ofrece un marco de evaluación que analiza cómo los agentes de inteligencia artificial cambian la personalidad basándose en fundamentos psicológicos en respuesta a eventos de la vida.",
+          "meta": "1 me gusta · 1 comentarios"
+        },
+        {
+          "title": "Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning",
+          "url": "https://huggingface.co/papers/2608.02831",
+          "summary": "Se desarrolló un método de aprendizaje por refuerzo que utiliza criterios de evaluación en evolución como mecanismo de recompensa en los procesos de razonamiento auditivo. Este enfoque permite que el modelo se centre mejor en los datos de audio con un sistema de puntuación dinámico adaptado a la pregunta en lugar de reglas fijas.",
+          "meta": "7 me gusta · 1 comentarios"
+        },
+        {
+          "title": "PrivacyPeek: Auditing What LLM-Based Agents Acquire, Not Just What They Say",
+          "url": "https://huggingface.co/papers/2606.00152",
+          "summary": "PrivacyPeek es un método para monitorear la tendencia de grandes agentes basados ​​en modelos de lenguaje a incluir más datos confidenciales en sus sistemas de los que necesitan para realizar sus tareas. Este enfoque se centra en las vulnerabilidades en el proceso de adquisición de datos, donde los datos ingresan primero al contexto del agente, en lugar de la etapa en la que se extraen los datos.",
+          "meta": "1 me gusta · 1 comentarios"
+        },
+        {
+          "title": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors",
+          "url": "https://huggingface.co/papers/2608.00675",
+          "summary": "Los modelos de difusión bidireccional pueden medir su margen de error avanzando y retrocediendo en el tiempo. Este método permite detectar desviaciones en las previsiones a largo plazo con un enfoque autosupervisado, sin necesidad de una fuente de datos real.",
+          "meta": "2 me gusta · 2 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Who Should Pay For Source Code Availability?",
+          "url": "https://kristoff.it/blog/source-code-availability/",
+          "summary": "En el mundo del software, la accesibilidad del código fuente pone en duda el equilibrio entre la libertad del desarrollador y la sostenibilidad comercial. Este debate se centra en el conflicto entre los modelos de financiación de proyectos de código abierto y los derechos de propiedad del software.",
+          "meta": "61 puntos · 35 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rsztog/who_should_pay_for_source_code",
+              "popularity": 61,
+              "engagementCount": 35
+            }
+          ]
+        },
+        {
+          "title": "IRC technology news from the first half of 2026",
+          "url": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
+          "summary": "El protocolo Internet Relay Chat (IRC) volverá a estar en primer plano en la primera mitad de 2026 con actualizaciones y nuevo software de cliente que cumple con los estándares de red modernos. Estas mejoras, especialmente centradas en el cifrado y la estabilidad de la conexión, garantizan que las redes de comunicación descentralizadas mantengan su lugar en el ecosistema tecnológico actual.",
+          "meta": "46 puntos · 7 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026",
+              "popularity": 46,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "Mea Culpa - Dark Hours",
+          "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+          "summary": "El sitio web Vibecoded copió sin permiso el código fuente de un programa de software gratuito existente y lo presentó como su propio producto. Esta situación ha vuelto a poner en la agenda del mundo del software los debates sobre el uso de código poco ético y el plagio.",
+          "meta": "39 puntos · 11 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jnbujx/mea_culpa_dark_hours",
+              "popularity": 39,
+              "engagementCount": 11
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "RLM agent",
+      "explanation": "Una unidad de software que aprende a realizar determinadas tareas mediante prueba y error utilizando métodos de recompensa y castigo."
+    },
+    {
+      "term": "monorepo",
+      "explanation": "Un método de desarrollo en el que los códigos de múltiples proyectos de software se recopilan en una única carpeta común."
+    },
+    {
+      "term": "knowledge graphs",
+      "explanation": "Un sistema de base de datos que visualiza y organiza las relaciones entre la información en forma de una estructura de red."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Tecnología que permite a la inteligencia artificial extraer información de documentos actuales y privados mientras produce respuestas."
+    },
+    {
+      "term": "container",
+      "explanation": "Un paquete que contiene todos los archivos necesarios para que se ejecute un software y garantiza que funcione igual en todas las computadoras."
+    },
+    {
+      "term": "TUI",
+      "explanation": "Interfaz en pantalla gestionada utilizando únicamente texto y caracteres en lugar de elementos gráficos."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Sistemas que pueden producir contenido nuevo, como texto, imágenes o sonido, utilizando datos aprendidos previamente."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Habilidades técnicas necesarias para resolver problemas complejos en pasos lógicos y sistemas de diseño."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "identity provider",
+      "explanation": "Servicio central que permite a los usuarios iniciar sesión en aplicaciones de forma segura verificando sus credenciales."
+    },
+    {
+      "term": "skills",
+      "explanation": "La totalidad de conocimientos, prácticas y habilidades especiales necesarios para realizar un trabajo."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Tecnología de inteligencia artificial que crea imágenes de alta calidad desde cero limpiando datos ruidosos paso a paso."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Pruebas estándar utilizadas para medir el rendimiento de diferentes sistemas o software."
+    },
+    {
+      "term": "type safety",
+      "explanation": "Control de seguridad que previene errores al evitar que se utilice el tipo de datos incorrecto en el software."
+    },
+    {
+      "term": "RAM",
+      "explanation": "Es una unidad de memoria temporal donde la computadora puede leer y escribir rápidamente los datos que está utilizando activamente actualmente."
+    },
+    {
+      "term": "spatial reasoning",
+      "explanation": "La capacidad de captar mentalmente la posición de los objetos en el espacio, su tamaño y su movimiento entre sí."
+    }
+  ]
+}

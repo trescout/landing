@@ -34,6 +34,14 @@
       genel: 'Algo deu errado. Tente novamente.',
       baglanti: 'Erro de conexão. Tente novamente.'
     },
+    es: {
+      zaten: '<strong>Ya está en la lista.</strong> Le avisaremos cuando estemos en marcha.',
+      aldik: '<strong>Anotado.</strong> Le avisaremos cuando estemos en marcha. Buena semana.',
+      onay: 'Acepte el aviso de privacidad para continuar.',
+      gonderiliyor: 'Enviando...',
+      genel: 'Algo ha fallado. Inténtelo de nuevo.',
+      baglanti: 'Error de conexión. Inténtelo de nuevo.'
+    },
     tr: {
       zaten: '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.',
     aldik: '<strong>Aldık.</strong> Yayında olduğumuzda size haber vereceğiz. İyi haftalar.',

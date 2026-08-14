@@ -1,0 +1,262 @@
+{
+  "date": "2026-08-14",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice é um aplicativo de ditado executado em macOS e realiza conversão de fala em texto (STT) inteiramente no dispositivo. Esta ferramenta protege a privacidade processando os dados do usuário localmente e oferece uma solução alternativa a serviços como o Wispr Flow com funções semelhantes.",
+          "meta": "Swift · ★ 9.936 · +76 hoje",
+          "returning": true
+        },
+        {
+          "title": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "summary": "Unsloth é uma biblioteca que acelera o treinamento e a execução de grandes modelos de linguagem (LLM) e modelos de difusão em um ambiente nativo. Torna os processos de ajuste fino de modelos populares mais acessíveis, otimizando o uso da memória.",
+          "meta": "Python · ★ 71.157 · +328 hoje"
+        },
+        {
+          "title": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "summary": "Holehe é uma ferramenta Python que consulta se um endereço de e-mail inserido é usado em plataformas populares como Twitter e Instagram. Ele detecta as informações da conta associadas ao e-mail relevante usando funções de redefinição de senha.",
+          "meta": "Python · ★ 12.498 · +195 hoje"
+        },
+        {
+          "title": "holaboss-ai/holaOS",
+          "url": "https://github.com/holaboss-ai/holaOS",
+          "summary": "holaOS é um espaço de trabalho de código aberto que combina diferentes agentes de inteligência artificial (Claude Code, Codex) com suas ferramentas, aplicativos e arquivos em uma memória comum. Com mais de 100 integrações e suporte ao Model Link Protocol (MCP), ele permite que os usuários gerenciem seus próprios modelos (BYOK) ou modelos integrados em uma única interface.",
+          "meta": "TypeScript · ★ 6.748 · +241 hoje"
+        },
+        {
+          "title": "kepano/obsidian-skills",
+          "url": "https://github.com/kepano/obsidian-skills",
+          "summary": "Obsidian-skills permite que agentes de inteligência artificial executem operações no aplicativo de anotações Obsidian usando a interface de linha de comando (CLI) e formatos de arquivo abertos. Esta ferramenta automatiza o gerenciamento de informações pessoais, permitindo que os agentes leiam e editem formatos como Markdown e JSON Canvas.",
+          "meta": "★ 45.950 · +292 hoje"
+        },
+        {
+          "title": "lightningpixel/modly",
+          "url": "https://github.com/lightningpixel/modly",
+          "summary": "Modly é um aplicativo de desktop que cria modelos 3D a partir de imagens e executa todas as operações na placa gráfica local (GPU). Essa ferramenta, que funciona sem a necessidade de conexão com a internet, leva o processo de modelagem apoiado em inteligência artificial para os computadores pessoais.",
+          "meta": "TypeScript · ★ 5.550 · +118 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gemini 3.7 Flash",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+          "summary": "Gemini 3.7 Flash, anunciado pelo Google, é um modelo de inteligência artificial generativa (IA generativa) de nova geração focado em alta velocidade e baixo custo. O modelo fornece maior desempenho em tarefas de raciocínio complexas e oferece tempos de resposta mais rápidos para desenvolvedores.",
+          "meta": "716 pontos · 393 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49289112",
+              "popularity": 716,
+              "engagementCount": 393
+            }
+          ]
+        },
+        {
+          "title": "DeepSeek Harness developer preview",
+          "url": "https://deepseek.com/harness/en/",
+          "summary": "DeepSeek Harness é uma estrutura de avaliação usada para medir o desempenho de grandes modelos de linguagem. Ele permite que os desenvolvedores comparem seus modelos com conjuntos de testes padrão e analisem sistematicamente os recursos do modelo.",
+          "meta": "604 pontos · 255 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49285244",
+              "popularity": 604,
+              "engagementCount": 255
+            }
+          ]
+        },
+        {
+          "title": "Spaghettifying DRAM",
+          "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+          "summary": "A espaguetificação da DRAM, que fornece geração de números aleatórios aproveitando as propriedades físicas dos dados nos módulos de memória DRAM, funciona por meio de uma vulnerabilidade baseada em hardware. Este método aumenta a previsibilidade das chaves criptográficas explorando vazamentos nas células de memória.",
+          "meta": "546 pontos · 150 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49286341",
+              "popularity": 546,
+              "engagementCount": 150
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram",
+              "popularity": 34,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "Accelerating GPT-5.6 Sol Ultrafast",
+          "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+          "summary": "A Cerebras, empresa produtora de hardware de inteligência artificial, desenvolveu uma nova tecnologia que aumenta a velocidade de inferência para modelos OpenAI. Este método visa aumentar a eficiência do processamento, reduzindo o tempo de resposta de grandes modelos de linguagem.",
+          "meta": "507 pontos · 208 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49289844",
+              "popularity": 507,
+              "engagementCount": 208
+            }
+          ]
+        },
+        {
+          "title": "Choose Boring Technology (2015)",
+          "url": "https://mcfunley.com/choose-boring-technology",
+          "summary": "Uma abordagem que defende a escolha de tecnologias comprovadas e estáveis ​​nos processos de desenvolvimento de software. Ele afirma que a escolha de infraestruturas altamente confiáveis ​​em vez de ferramentas inovadoras reduz a carga operacional das equipes e reduz o risco de dívida técnica.",
+          "meta": "298 pontos · 147 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49289512",
+              "popularity": 298,
+              "engagementCount": 147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Desenvolvido pela Lightricks, o LTX-2.5 é um modelo de produção de imagem para vídeo que converte imagens estáticas em videoclipes curtos. Essa tecnologia, usada para animar conteúdo visual, permite aos usuários criar vídeos de alta qualidade a partir de frames estáticos.",
+          "meta": "♥ 745 · 57.287 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos",
+          "url": "https://huggingface.co/papers/2608.11752",
+          "summary": "UniSwap oferece uma estrutura que altera simultaneamente a identidade visual e sonora em vídeos falados. Ele integra dados visuais e de áudio de referência ao vídeo, preservando o movimento, a cena e o tempo do vídeo de origem.",
+          "meta": "1 curtidas · 1 comentários"
+        },
+        {
+          "title": "LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time",
+          "url": "https://huggingface.co/papers/2608.11745",
+          "summary": "LiveAnimate é um sistema que produz animações humanas em tempo real a partir de uma única imagem de referência e fluxo de movimento. Ele otimiza os longos tempos de processamento de modelos baseados em difusão, permitindo a criação contínua de vídeos em áreas interativas, como transmissões ao vivo e avatares virtuais.",
+          "meta": "1 curtidas · 1 comentários"
+        },
+        {
+          "title": "CW-BASS v2: Saturation-Aware Pseudo-Label Selection for Semi-Supervised Segmentation under Foundation-Model Teachers",
+          "url": "https://huggingface.co/papers/2608.12773",
+          "summary": "CW-BASS v2 melhora os processos de segmentação semântica semissupervisionados, cujos métodos tradicionais são insuficientes devido aos altos valores de confiança dos professores do modelo básico. Esta nova abordagem com reconhecimento de saturação melhora o desempenho do modelo, otimizando a seleção de rótulos produzidos por modelos poderosos.",
+          "meta": "0 curtidas · 1 comentários"
+        },
+        {
+          "title": "H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models",
+          "url": "https://huggingface.co/papers/2608.13049",
+          "summary": "H2R-Bench é uma estrutura de benchmarking desenvolvida para avaliar modelos de produção de vídeo que transferem movimentos da mão humana para efetores finais robóticos. Mede o desempenho de modelos mundiais que sintetizam vídeos de manipulação centrados em robôs a partir de vídeos humanos, a fim de reduzir o custo de coleta de dados em processos de aprendizagem robótica.",
+          "meta": "2 curtidas · 1 comentários"
+        },
+        {
+          "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers",
+          "url": "https://huggingface.co/papers/2608.06867",
+          "summary": "LLMRouter oferece uma infraestrutura unificada para desenvolver, avaliar e implantar roteadores que selecionam o modelo de linguagem grande ideal para diferentes consultas e restrições orçamentárias. Este sistema divide o processo de roteamento em cinco componentes principais, facilitando a comparação do desempenho de diferentes modelos e a criação de fluxos de trabalho escalonáveis.",
+          "meta": "48 curtidas · 1 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I want extern \"fil-c\"",
+          "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+          "summary": "Os desenvolvedores de software estão procurando uma biblioteca padrão externa para tornar as operações do sistema de arquivos (E/S de arquivos) em C mais seguras e gerenciáveis. Esta abordagem visa reduzir a margem de erro nos processos de desenvolvimento de software, tornando as chamadas de sistema de baixo nível mais modulares.",
+          "meta": "46 pontos · 16 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/tssf5y/i_want_extern_fil_c",
+              "popularity": 46,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "python's pre-declared constants are kinda weird",
+          "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+          "summary": "Constantes pré-declaradas na linguagem Python contêm algumas inconsistências que contradizem a estrutura dinâmica da linguagem. Isso questiona limitações técnicas que dificultam aos desenvolvedores manter controle total sobre o código.",
+          "meta": "91 pontos · 15 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda",
+              "popularity": 91,
+              "engagementCount": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "generative AI",
+      "explanation": "Tecnologia de inteligência artificial que pode criar novos textos, imagens ou sons com base em informações previamente aprendidas."
+    },
+    {
+      "term": "skills",
+      "explanation": "Habilidades especiais que um software ou inteligência artificial possui para realizar uma tarefa específica."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "A estrutura básica de inteligência artificial que é treinada com conjuntos de dados muito grandes e sobre a qual diferentes tarefas podem ser construídas."
+    },
+    {
+      "term": "STT",
+      "explanation": "Tecnologia que ouve palavras faladas e as converte em texto escrito."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Um método de inteligência artificial que cria visuais de alta qualidade do zero, editando gradualmente dados ruidosos."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "O processo de customização de uma inteligência artificial treinada de uso geral com um pequeno conjunto de dados para ter melhor desempenho em um assunto específico."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Um protocolo que permite que modelos de inteligência artificial se conectem a diferentes fontes de dados e ferramentas de maneira padrão."
+    },
+    {
+      "term": "BYOK",
+      "explanation": "Uma abordagem de segurança que permite ao usuário criptografar seus dados usando suas próprias chaves de segurança."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que executa programas com comandos escritos em vez do mouse."
+    },
+    {
+      "term": "inference",
+      "explanation": "O processo de um modelo de inteligência artificial treinado que produz um resultado ao processar uma nova entrada fornecida a ele."
+    }
+  ]
+}
