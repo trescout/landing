@@ -1,0 +1,178 @@
+{
+  "date": "2026-05-29",
+  "editorial": "Hoje, no mundo do software, há um intenso interesse em ferramentas de automação e sistemas de código aberto de gerenciamento de relacionamento com o cliente (CRM). Os dados atuais no GitHub mostram que sistemas e conjuntos de habilidades personalizadas, especialmente aqueles que aceleram a produção de conteúdo, estão ganhando prioridade entre os desenvolvedores.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo cria automaticamente vídeos curtos de alta resolução a partir de conteúdo baseado em texto usando grandes modelos de linguagem. Esta ferramenta baseada em Python acelera os fluxos de trabalho de criação de conteúdo, completando o processo de produção de vídeo com um único clique.",
+          "meta": "Python · ★ 68.142 · +4.698 hoje"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "O ECC oferece um sistema de otimização de desempenho para agentes de inteligência artificial, abrangendo processos de gerenciamento de habilidades, memória, segurança e desenvolvimento orientados à pesquisa. Essa estrutura, que funciona compatível com plataformas como Claude Code, Codex e Cursor, visa aumentar a eficiência dos fluxos de trabalho baseados em agentes.",
+          "meta": "JavaScript · ★ 197.955 · +1.385 hoje"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill é um sistema que evita que o conteúdo produzido por modelos de inteligência artificial seja comum e universal. Ele funciona como um filtro de estilo que permite aos usuários tornar as saídas do modelo mais exclusivas e qualificadas.",
+          "meta": "Shell · ★ 27.340 · +2.234 hoje"
+        },
+        {
+          "title": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "summary": "Stop-slop é uma ferramenta de processamento de linguagem que detecta e limpa padrões narrativos característicos (AI informa) em textos produzidos por inteligência artificial. Remove vestígios de inteligência artificial no conteúdo escrito, permitindo que os textos tenham um estilo mais natural e humano.",
+          "meta": "★ 6.671 · +761 hoje"
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty oferece uma alternativa de código aberto à plataforma Salesforce com seu design focado em inteligência artificial. Este software de gestão de relacionamento com o cliente, desenvolvido na linguagem TypeScript, combina processos de dados corporativos em uma estrutura modular.",
+          "meta": "TypeScript · ★ 48.098 · +493 hoje"
+        },
+        {
+          "title": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "summary": "O projeto DigitalPlat FreeDomain é uma plataforma que fornece aos usuários um serviço gratuito de nomes de domínio. Possui uma estrutura que visa criar ativos digitais gratuitamente nos processos de desenvolvimento web.",
+          "meta": "HTML · ★ 171.240 · +1.761 hoje"
+        },
+        {
+          "title": "byoungd/English-level-up-tips",
+          "url": "https://github.com/byoungd/English-level-up-tips",
+          "summary": "Este guia para aprendizagem avançada de inglês reúne métodos e recursos para melhorar as habilidades linguísticas. O conteúdo, que inclui estratégias de aprendizagem e dicas práticas, oferece um roteiro estruturado para usuários que desejam otimizar o processo de aquisição do idioma.",
+          "meta": "★ 49.193 · +2.019 hoje"
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Desenvolvido pela Microsoft, MarkItDown é uma ferramenta Python que converte vários formatos de arquivo e documentos de escritório em formato de linguagem markdown (Markdown). O software facilita o processamento de dados não estruturados para modelos de linguagem grandes.",
+          "meta": "Python · ★ 128.420 · +1.410 hoje"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers é uma estrutura de habilidades de agente e metodologia de desenvolvimento de software desenvolvida para agentes de inteligência artificial. O sistema fornece uma estrutura de implementação prática para padronizar fluxos de trabalho baseados em agentes.",
+          "meta": "Shell · ★ 211.820 · +1.730 hoje"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness é uma estrutura de meta-habilidades que projeta equipes de agentes de IA de domínios específicos e produz as habilidades especializadas que essas equipes precisam. O sistema automatiza fluxos de trabalho definindo estruturas de agentes para executar tarefas complexas.",
+          "meta": "HTML · ★ 4.063 · +65 hoje"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X é uma coleção de guias que visam melhorar as habilidades de programação através da construção de tecnologias de software populares do zero. Os desenvolvedores aprendem a lógica de funcionamento de sistemas complexos, como bancos de dados ou sistemas operacionais, por meio de projetos aplicados.",
+          "meta": "Markdown · ★ 506.894 · +1.066 hoje"
+        },
+        {
+          "title": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "summary": "O Understanding-Anything transforma bases de código em gráficos de conhecimento interativos, permitindo que os desenvolvedores consultem e realizem descobertas em seus projetos. Esta ferramenta baseada em TypeScript integra-se com editores de código e interfaces de linha de comando existentes para visualizar estruturas de código complexas.",
+          "meta": "TypeScript · ★ 43.749 · +3.776 hoje"
+        },
+        {
+          "title": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "summary": "Crawl4AI é um rastreador da web de código aberto e raspador de dados otimizado para modelos de linguagem grandes. Esta ferramenta baseada em Python simplifica o processo de conversão de conteúdo da web em formatos limpos que os modelos de IA podem processar.",
+          "meta": "Python · ★ 67.194 · +154 hoje"
+        },
+        {
+          "title": "OpenMOSS/MOSS-TTS",
+          "url": "https://github.com/OpenMOSS/MOSS-TTS",
+          "summary": "Desenvolvido por MOSI.AI e pela equipe OpenMOSS, MOSS-TTS é uma família de modelos de código aberto que fornece fala de alta fidelidade e reprodução de áudio. O sistema oferece soluções para cenários complexos, como síntese de fala de texto longo, suporte para vários alto-falantes e streaming em tempo real.",
+          "meta": "Python · ★ 2.440 · +71 hoje"
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "O plugin Compound Engineering oferece uma estrutura que automatiza processos de engenharia composta para ambientes de desenvolvimento como Claude Code, Codex e Cursor. Esta ferramenta visa aumentar a produtividade do desenvolvedor, transformando tarefas complexas de software em fluxos de trabalho gerenciáveis.",
+          "meta": "TypeScript · ★ 17.931 · +184 hoje"
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Este repositório, publicado pela Anthropics, contém pacotes de habilidades reutilizáveis ​​desenvolvidos para agentes de inteligência artificial. Esta biblioteca baseada em Python visa padronizar os fluxos de trabalho de sistemas autônomos que executam tarefas complexas.",
+          "meta": "Python · ★ 143.307 · +718 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Opus 4.8",
+          "url": "https://www.anthropic.com/news/claude-opus-4-8",
+          "summary": "Anunciado pela Anthropic, Claude 3.5 Opus oferece recursos mais avançados de raciocínio e codificação em modelos de linguagem de alto desempenho. O modelo utiliza sua arquitetura otimizada para aumentar a precisão em tarefas complexas.",
+          "meta": "1.535 pontos · 1.200 comentários"
+        },
+        {
+          "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+          "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+          "summary": "A rede de lojas Lego de segunda mão, Bricks and Minifigs, é acusada de colocar à venda sem permissão uma coleção no valor de US$ 200 mil deixada em depósito por um cliente. O incidente traz à tona vulnerabilidades na gestão de depósitos e direitos de propriedade em sistemas de concessionárias corporativas.",
+          "meta": "955 pontos · 443 comentários"
+        },
+        {
+          "title": "I made a million dollar product from my dorm room (2025)",
+          "url": "https://nick.winans.io/blog/nice-nano/",
+          "summary": "Nick Winans transformou o projeto de microcontrolador de teclado personalizado que desenvolveu em seu dormitório universitário em um empreendimento que gerou receitas de um milhão de dólares. Ele mostra como um produto de nicho focado em hardware pode ser dimensionado com feedback da comunidade e estratégias de vendas diretas.",
+          "meta": "407 pontos · 62 comentários"
+        },
+        {
+          "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+          "summary": "O GitHub encerrou a conta de um pesquisador de segurança que compartilhou explorações de dia zero para o sistema operacional Windows. A transação em causa foi realizada no âmbito das políticas seguidas pela plataforma relativamente à divulgação de vulnerabilidades de segurança.",
+          "meta": "394 pontos · 175 comentários"
+        },
+        {
+          "title": "Cars collect a startling amount of data about you",
+          "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+          "summary": "Os carros modernos coletam uma ampla gama de dados pessoais, desde hábitos de direção até dados de localização. Graças às tecnologias de veículos conectados, estes processos de recolha de dados representam novos riscos para a privacidade dos utilizadores.",
+          "meta": "332 pontos · 152 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "Desenvolvido pela OpenBMB, MiniCPM5-1B é um modelo de linguagem leve otimizado para geração de texto. Visa aumentar a eficiência do uso de recursos com um baixo número de parâmetros.",
+          "meta": "♥ 521 · 23.629 downloads"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Desenvolvido pela Meituan, LongCat-Video-Avatar-1.5 permite criar avatares de vídeo de alta qualidade a partir de uma única imagem de referência. O modelo produz representações animadas e realistas de personagens digitais usando tecnologia de síntese de imagem para vídeo.",
+          "meta": "♥ 380 · 0 downloads"
+        },
+        {
+          "title": "bytedance-research/Lance",
+          "url": "https://huggingface.co/bytedance-research/Lance",
+          "summary": "Desenvolvido pela ByteDance, Lance é um modelo multimodal (qualquer para qualquer) que pode se transformar entre diferentes tipos de dados, como texto, imagem e áudio. Esta estrutura suporta capacidades de produção multimodal, processando vários formatos de mídia através de uma única arquitetura.",
+          "meta": "♥ 965 · 2.738 downloads"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "O modelo Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive publicado no HuggingFace oferece uma estrutura multimodal que produz saída de texto processando entradas de imagem e texto. O modelo visa fornecer respostas mais diretas às interações do usuário, sendo treinado com um conjunto de dados sem censura.",
+          "meta": "♥ 1.020 · 2.114.938 downloads"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Desenvolvido pela Nvidia, LocateAnything-3B é um modelo de imagem texto para texto que executa tarefas de localização de objetos processando entradas visuais e textuais. Este modelo utiliza uma arquitetura especializada para identificar objetos em cenas complexas e gerar dados baseados em coordenadas.",
+          "meta": "♥ 280 · 7.861 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

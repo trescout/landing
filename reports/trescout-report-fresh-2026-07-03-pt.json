@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-03",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman é um pacote de recursos desenvolvido para Claude Code que reduz o consumo de tokens em 65%, simplificando o uso da linguagem do modelo de inteligência artificial. Esta ferramenta visa reduzir custos de processamento, reduzindo comandos complexos a uma estrutura de linguagem primitiva.",
+          "meta": "JavaScript · ★ 81.688 · +926 hoje"
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "Desenvolvido para Chrome DevTools, este servidor permite a codificação de agentes de inteligência artificial para gerenciar processos de depuração baseados em navegador. Trabalhando por meio do Model Context Protocol, esta ferramenta permite que os agentes inspecionem diretamente os aplicativos da web e automatizem os processos de depuração.",
+          "meta": "TypeScript · ★ 45.204 · +104 hoje"
+        },
+        {
+          "title": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "summary": "Desenvolvido pelo GitHub, actions/checkout é uma ferramenta que automatiza processos de checkout de repositórios em processos de desenvolvimento de software. A integração contínua permite que o código-fonte seja transferido para o ambiente de trabalho em fluxos de trabalho.",
+          "meta": "TypeScript · ★ 8.197 · +26 hoje"
+        },
+        {
+          "title": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "summary": "Agent Skills é um projeto de especificação técnica e documentação que padroniza as habilidades utilizadas pelos agentes de inteligência artificial no desempenho de suas tarefas. Esta estrutura baseada em Python visa facilitar o compartilhamento de capacidades e a interoperabilidade entre diferentes sistemas de agentes.",
+          "meta": "Python · ★ 21.721 · +86 hoje"
+        },
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "Desenvolvido pela OpenAI, o plugin Codex é usado no Claude Code para automatizar processos de revisão de código e fornecer delegação de tarefas. Esta ferramenta permite a integração de diferentes modelos de inteligência artificial (modelos de grandes linguagens) em fluxos de trabalho de desenvolvimento de software.",
+          "meta": "JavaScript · ★ 22.800 · +352 hoje"
+        },
+        {
+          "title": "langflow-ai/langflow",
+          "url": "https://github.com/langflow-ai/langflow",
+          "summary": "Langflow é uma plataforma de desenvolvimento baseada em Python que oferece uma interface visual para a criação de agentes e fluxos de trabalho baseados em IA. Os usuários podem projetar e implantar aplicativos de modelos de linguagem complexos usando arrastar e soltar sem escrever código.",
+          "meta": "Python · ★ 150.932 · +117 hoje"
+        },
+        {
+          "title": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "summary": "PyTorch é uma biblioteca de aprendizado de máquina que oferece aceleração poderosa de unidade de processamento gráfico (GPU) para cálculos de tensores baseados em Python e redes neurais dinâmicas. Ele fornece amplo suporte ao ecossistema no desenvolvimento e implantação de modelos de aprendizagem profunda.",
+          "meta": "Python · ★ 101.297 · +65 hoje"
+        },
+        {
+          "title": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "summary": "Este recurso, compartilhado pela Universidade de Harvard, oferece um guia técnico abrangente sobre sistemas de aprendizado de máquina. Combinando camadas de hardware e software, este estudo aborda os processos de design de infraestruturas escaláveis ​​de inteligência artificial.",
+          "meta": "Python · ★ 25.784 · +68 hoje"
+        },
+        {
+          "title": "ryanmcdermott/clean-code-javascript",
+          "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+          "summary": "Este guia, que adapta princípios de código limpo à linguagem JavaScript, oferece padrões para escrever código legível e de fácil manutenção em processos de desenvolvimento de software. Combina programação orientada a objetos e princípios de programação funcional com exemplos práticos.",
+          "meta": "JavaScript · ★ 94.633 · +27 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Virginia bans sale of geolocation data",
+          "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+          "summary": "O estado da Virgínia promulgou um novo regulamento que proíbe a comercialização e venda de dados de localização pessoal. Esta medida legal limita as atividades de corretores de dados terceirizados, a fim de proteger a privacidade digital dos consumidores.",
+          "meta": "692 pontos · 117 comentários"
+        },
+        {
+          "title": "PeerTube is a free, decentralized and federated video platform",
+          "url": "https://github.com/Chocobozzz/PeerTube",
+          "summary": "PeerTube é uma plataforma de código aberto que oferece uma alternativa aos serviços de hospedagem de vídeo com sua estrutura descentralizada e federada. Tem como objetivo distribuir a carga de largura de banda e aumentar o controle do usuário sobre o conteúdo usando protocolos P2P (peer-to-peer).",
+          "meta": "592 pontos · 274 comentários"
+        },
+        {
+          "title": "Podman v6.0.0",
+          "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+          "summary": "Podman v6.0.0 oferece maior desempenho e suporte expandido de API em processos de gerenciamento de contêineres. A nova versão oferece uma infraestrutura mais estável e ferramentas avançadas de depuração para fluxos de trabalho nativos da nuvem.",
+          "meta": "478 pontos · 188 comentários"
+        },
+        {
+          "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+          "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+          "summary": "Com o Linux 6.9, a função LUKS, que permite que chaves de criptografia de disco sejam excluídas da memória durante a suspensão, foi desativada. Isso deixa os dispositivos vulneráveis ​​a ataques de memória física durante o modo de suspensão.",
+          "meta": "440 pontos · 197 comentários"
+        },
+        {
+          "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+          "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+          "summary": "O sucesso da Suíça no acesso à infra-estrutura de Internet de alta velocidade baseia-se em investimentos em infra-estruturas fornecidos pelos governos locais e em regulamentações orientadas para o público, e não na concorrência do mercado livre. Esta situação põe em causa a eficácia dos argumentos do mercado livre no sector das telecomunicações no que diz respeito ao acesso à banda larga.",
+          "meta": "348 pontos · 219 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "token",
+      "explanation": "A menor unidade de dados correspondente a fragmentos de palavras ou sílabas que a inteligência artificial utiliza no processamento de textos."
+    },
+    {
+      "term": "Chrome DevTools",
+      "explanation": "Uma ferramenta de desenvolvedor incorporada ao navegador da web que ajuda a examinar o código dos sites e corrigir erros."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Programas autônomos de inteligência artificial que podem escrever código, depurar e gerenciar projetos agindo como um programador."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Um método de conexão que permite que modelos de inteligência artificial se comuniquem com diferentes fontes de dados de forma segura e padrão."
+    },
+    {
+      "term": "repository checkout",
+      "explanation": "O processo de copiar todos os arquivos de um projeto de software de um servidor central para o seu computador."
+    },
+    {
+      "term": "continuous integration",
+      "explanation": "É um processo que permite detectar erros antecipadamente, combinando e testando automaticamente os códigos escritos pelos desenvolvedores de software."
+    },
+    {
+      "term": "skills",
+      "explanation": "Capacidades especiais ou conjuntos de ferramentas que os modelos de IA usam para executar uma tarefa específica."
+    },
+    {
+      "term": "memory",
+      "explanation": "Espaço de armazenamento de dados que permite à inteligência artificial lembrar conversas ou transações passadas e utilizá-las nas próximas etapas."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "interoperability",
+      "explanation": "A capacidade de diferentes sistemas ou software de trocar dados entre si."
+    },
+    {
+      "term": "dynamic neural networks",
+      "explanation": "Arquiteturas flexíveis de inteligência artificial que podem alterar instantaneamente sua estrutura dependendo do tipo de dados processados."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Um processador especial que executa operações matemáticas complexas, como processamento de imagens e cálculos de inteligência artificial, muito rapidamente e ao mesmo tempo."
+    },
+    {
+      "term": "machine learning systems",
+      "explanation": "Sistemas de computador que aprendem por conta própria analisando dados e podem fazer previsões mais precisas ao longo do tempo."
+    },
+    {
+      "term": "clean code",
+      "explanation": "Uma estrutura de código clara, simples e sem erros que pode ser facilmente lida por outros desenvolvedores de software."
+    }
+  ]
+}

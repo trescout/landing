@@ -1,0 +1,267 @@
+{
+  "date": "2026-07-21",
+  "editorial": "A automação da revisão de código e as arquiteturas de agentes autônomos apoiadas por inteligência artificial nos processos de desenvolvimento de software estão hoje no centro do ecossistema de desenvolvedores. Os dados do GitHub mostram interesse crescente em práticas de gerenciamento e engenharia de cache que permitem que grandes modelos de linguagem sejam executados com eficiência em sistemas locais.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "O gráfico de revisão de código cria um gráfico de inteligência de código local, permitindo que as ferramentas de inteligência artificial se concentrem apenas em partes relevantes do código. Este método otimiza processos de revisão de código com técnicas de redução de contexto em projetos de grande escala.",
+          "meta": "Python · ★ 23.736 · +1.833 hoje"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Desenvolvido com a linguagem Rust, o jcode oferece uma infraestrutura de agente de código inteligente projetada para automatizar processos de desenvolvimento de software. Otimizada para executar tarefas complexas em projetos de software, esta ferramenta fornece aos desenvolvedores suporte de automação de alto desempenho na base de código.",
+          "meta": "Rust · ★ 9.837 · +568 hoje"
+        },
+        {
+          "title": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "summary": "OmniRoute oferece um gateway de IA gratuito que combina mais de 268 provedores e mais de 500 modelos em um único endpoint. Graças aos seus recursos de backup automático sensível a cotas e compactação de token, torna mais fácil para os desenvolvedores a integração com diferentes ferramentas de inteligência artificial.",
+          "meta": "TypeScript · ★ 22.302 · +1.107 hoje"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Preparado para quem deseja ingressar na área de engenharia de inteligência artificial (engenharia de IA), este recurso oferece um roteiro que abrange os processos de desenvolvimento e publicação de aplicativos, começando pelo básico. O conteúdo elaborado em linguagem Python promete um processo de aprendizagem em que conhecimentos teóricos são aliados a projetos práticos.",
+          "meta": "Python · ★ 40.838 · +823 hoje"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agência-agentes oferece um sistema que reúne agentes de inteligência artificial com diferentes áreas de atuação sob o mesmo teto. Agentes especializados para tarefas como desenvolvimento de software, gerenciamento de comunidades e moderação de conteúdo automatizam fluxos de trabalho com processos e personas definidos.",
+          "meta": "Shell · ★ 134.946 · +862 hoje"
+        },
+        {
+          "title": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "summary": "Ktransformers oferece uma estrutura flexível que otimiza inferência heterogênea e processos de ajuste fino para grandes modelos de linguagem. Essa estrutura, que visa utilizar os recursos de hardware de forma eficiente, tem como foco aumentar o desempenho do modelo em diferentes unidades de cálculo.",
+          "meta": "Python · ★ 18.785 · +458 hoje"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox é um estúdio de voz de IA de código aberto que permite aos usuários realizar clonagem de voz, ditado e criação de conteúdo. Esta plataforma, desenvolvida em linguagem TypeScript, permite gerenciar processos de processamento de áudio através de uma interface central.",
+          "meta": "TypeScript · ★ 44.461 · +821 hoje"
+        },
+        {
+          "title": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "summary": "Cognee é uma plataforma de código aberto que fornece memória de longo prazo entre sessões para agentes de inteligência artificial. Ele permite que os agentes estruturem e recuperem dados usando um mecanismo de gráfico de conhecimento auto-hospedado.",
+          "meta": "Python · ★ 28.875 · +234 hoje"
+        },
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "Lingbot-map é um modelo de base tridimensional feed-forward desenvolvido para reconstrução de cena a partir de dados de streaming. Este projeto, escrito em linguagem Python, tem como objetivo digitalizar ambientes complexos utilizando fluxos de dados em tempo real.",
+          "meta": "Python · ★ 14.396 · +565 hoje"
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open-seo oferece uma alternativa de código aberto para ferramentas pagas como Semrush e Ahrefs. Esta ferramenta, desenvolvida em TypeScript para analisar dados de otimização de mecanismos de busca, permite aos usuários gerenciar processos de SEO em sua própria infraestrutura.",
+          "meta": "TypeScript · ★ 6.072 · +939 hoje"
+        },
+        {
+          "title": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "summary": "Desenvolvido pela Moonshot AI, Kimi CLI é um agente de linha de comando (agente CLI) que executa operações suportadas por inteligência artificial por meio da interface de linha de comando (CLI). Escrita em linguagem Python, a ferramenta visa automatizar fluxos de trabalho de desenvolvedores no ambiente terminal.",
+          "meta": "Python · ★ 10.332 · +410 hoje"
+        },
+        {
+          "title": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "summary": "AstrBot é uma estrutura de desenvolvimento de agentes de inteligência artificial que combina várias plataformas de mensagens instantâneas, grandes modelos de linguagem e plug-ins. Este projeto de código aberto baseado em Python permite que os usuários criem seus próprios assistentes de IA personalizáveis.",
+          "meta": "Python · ★ 37.219 · +317 hoje"
+        },
+        {
+          "title": "PrefectHQ/fastmcp",
+          "url": "https://github.com/PrefectHQ/fastmcp",
+          "summary": "FastMCP é uma estrutura baseada em Python que facilita o desenvolvimento de servidores e clientes Model Context Protocol (MCP). Ele permite que os desenvolvedores integrem rapidamente modelos de IA com ferramentas nativas.",
+          "meta": "Python · ★ 26.621 · +96 hoje"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo é uma ferramenta que fornece recursos de pesquisa local, extração de dados e rastreamento para agentes de codificação de inteligência artificial. Este sistema, que opera via Model Connection Protocol (MCP), oferece pesquisas gratuitas sem a necessidade de chaves de API ou serviços em nuvem.",
+          "meta": "TypeScript · ★ 2.709 · +689 hoje"
+        },
+        {
+          "title": "tokio-rs/topcoat",
+          "url": "https://github.com/tokio-rs/topcoat",
+          "summary": "Desenvolvido pela equipe Tokio, Topcoat oferece uma estrutura abrangente que inclui todas as ferramentas necessárias para criar aplicações web em Rust. Tem como objetivo padronizar o processo de desenvolvimento de aplicações, reunindo os componentes básicos necessários aos desenvolvedores em uma única estrutura.",
+          "meta": "Rust · ★ 1.715 · +371 hoje"
+        },
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "Este projeto, que reúne transmissões de televisão pública pela Internet (IPTV) de todo o mundo em um único centro, facilita o acesso dos usuários aos canais de transmissão ao vivo. Desenvolvido com a linguagem TypeScript, esta coleção oferece listas globais de canais por meio de conjuntos de dados de código aberto.",
+          "meta": "TypeScript · ★ 133.863 · +240 hoje"
+        },
+        {
+          "title": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "summary": "OpenShip oferece uma plataforma de distribuição de aplicativos que os usuários podem hospedar em seus próprios servidores. Essa ferramenta, desenvolvida em linguagem TypeScript, facilita processos de auto-hospedagem como alternativa aos serviços de infraestrutura baseados em nuvem.",
+          "meta": "TypeScript · ★ 5.130 · +1.641 hoje"
+        },
+        {
+          "title": "microsoft/Ontology-Playground",
+          "url": "https://github.com/microsoft/Ontology-Playground",
+          "summary": "Desenvolvido pela Microsoft, Ontology-Playground é um aplicativo web de código aberto usado para aprender ontologias e criar designs visuais no Microsoft Fabric IQ. Esta ferramenta completamente estática permite aos usuários projetar modelos de ontologias, exportá-los em formato RDF/XML e compartilhar diagramas interativos.",
+          "meta": "TypeScript · ★ 1.806 · +464 hoje"
+        },
+        {
+          "title": "handy-computer/transcribe.cpp",
+          "url": "https://github.com/handy-computer/transcribe.cpp",
+          "summary": "Transcribe.cpp é uma biblioteca de inferência de fala para texto desenvolvida em C++ que oferece suporte a mais de 16 famílias de modelos. Usando a infraestrutura ggml, esta ferramenta permite que diferentes modelos de processamento de áudio sejam executados com eficiência em sistemas locais.",
+          "meta": "C++ · ★ 1.357 · +395 hoje"
+        },
+        {
+          "title": "moonshine-ai/moonshine",
+          "url": "https://github.com/moonshine-ai/moonshine",
+          "summary": "Moonshine oferece recursos de fala para texto de baixa latência, reconhecimento de intenção e texto para fala para interfaces de voz e agentes de inteligência artificial. Esta biblioteca, desenvolvida em linguagem C++, tem como objetivo otimizar processos de processamento de áudio em tempo real.",
+          "meta": "C++ · ★ 10.028 · +282 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "China’s open-weights AI strategy is winning",
+          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+          "summary": "Os desenvolvedores de inteligência artificial baseados na China estão gerenciando um rápido processo de adoção no ecossistema global, popularizando modelos de ponderação aberta. Ao contrário dos modelos fechados e proprietários, esta estratégia proporciona uma vantagem competitiva ao facilitar o acesso à tecnologia para desenvolvedores locais e internacionais.",
+          "meta": "1.049 pontos · 818 comentários"
+        },
+        {
+          "title": "Hacker wipes Romania's land registry database",
+          "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+          "summary": "A base de dados do registo predial da Roménia foi completamente eliminada na sequência de um ataque cibernético. O incidente trouxe à tona as vulnerabilidades nos processos de backup de dados e de segurança cibernética de infraestruturas públicas críticas.",
+          "meta": "620 pontos · 344 comentários"
+        },
+        {
+          "title": "Who's afraid of Chinese models?",
+          "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+          "summary": "A fixação de preços competitivos dos modelos de IA baseados na China no mercado global e a sua integração em ecossistemas de código aberto pressionam o domínio de mercado das empresas tecnológicas ocidentais. A acessibilidade de baixo custo destes modelos coloca novamente em questão as dependências regionais e as políticas de segurança nos processos de desenvolvimento da inteligência artificial.",
+          "meta": "497 pontos · 340 comentários"
+        },
+        {
+          "title": "Kimi Work",
+          "url": "https://www.kimi.com/products/kimi-work",
+          "summary": "Desenvolvido pela Moonshot AI, Kimi Work é uma plataforma de colaboração e produtividade projetada para equipes empresariais. O sistema automatiza o gerenciamento de informações dentro da equipe, analisando documentos complexos com suporte a longas janelas de contexto.",
+          "meta": "488 pontos · 207 comentários"
+        },
+        {
+          "title": "Jelly UI: Soft-body physics for native HTML form controls",
+          "url": "https://jelly-ui.com/",
+          "summary": "Jelly UI aplica física de corpo mole a controles de formulário HTML nativos, proporcionando interação flexível aos elementos da interface. Esta biblioteca torna a experiência do usuário mais dinâmica adicionando animações baseadas em física aos componentes da web.",
+          "meta": "425 pontos · 144 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Desenvolvido pela Thinking Machines, o Inkling é um modelo multimodal que produz saída de texto processando entradas visuais e de texto. O sistema foi projetado para dar sentido a dados visuais complexos e fornecer análises baseadas em texto.",
+          "meta": "♥ 1.285 · 13.462 downloads"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B, desenvolvido pela Prism-ml, é um modelo de linguagem otimizado para geração de texto. O modelo é apresentado no formato GGUF para suportar processos de inferência de alto desempenho.",
+          "meta": "♥ 867 · 338.945 downloads"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B, desenvolvido pela Prism-ml, é um modelo de linguagem otimizado para tarefas de geração de texto. O modelo é apresentado no formato GGUF para suportar processos de inferência de alto desempenho.",
+          "meta": "♥ 547 · 1.262.894 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desenvolvido pela Baidu, Unlimited-OCR é um modelo de imagem para texto que processa textos visuais e produz saída de texto. O modelo foi projetado para transferir dados de documentos complexos para formato digital.",
+          "meta": "♥ 2.479 · 2.122.848 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, publicado pela Zai-org, é um modelo de linguagem otimizado para tarefas de geração de texto. Este modelo, que atingiu uma ampla base de usuários na plataforma HuggingFace, visa melhorar as capacidades de geração de texto em processos de processamento de linguagem natural.",
+          "meta": "♥ 4.235 · 531.947 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "local-first code intelligence graph",
+      "explanation": "Um sistema de mapeamento que analisa as relações entre peças de código em projetos de software no seu computador sem a necessidade de internet."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "Para que a inteligência artificial funcione com mais rapidez e precisão, as informações desnecessárias que lhe são fornecidas são eliminadas e restam apenas partes importantes."
+    },
+    {
+      "term": "code agent",
+      "explanation": "Software autônomo que pode executar tarefas como escrever código, depurar e testar por conta própria em processos de desenvolvimento de software."
+    },
+    {
+      "term": "endpoint",
+      "explanation": "Um ponto de comunicação digital onde dois softwares diferentes se conectam e trocam dados."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "O sistema funciona como uma ponte que gerencia o acesso a diferentes modelos de inteligência artificial, garante a segurança e regula as solicitações recebidas."
+    },
+    {
+      "term": "token",
+      "explanation": "A menor unidade de significado correspondente a palavras ou sílabas que a inteligência artificial utiliza no processamento de textos."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "A disciplina de desenvolvimento de aplicações que fornecem soluções para problemas do mundo real usando modelos de inteligência artificial."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "inference",
+      "explanation": "O processo de um modelo de inteligência artificial treinado fazendo previsões ou inferências sobre novos dados que nunca viu antes."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Retreinar um modelo de inteligência artificial treinado de uso geral em um conjunto de dados pequeno e específico para se tornar mais especialista em um assunto específico."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "Espaço de armazenamento que permite à inteligência artificial lembrar conversas passadas ou informações em interações de longo prazo sem esquecer."
+    },
+    {
+      "term": "knowledge graph engine",
+      "explanation": "Tecnologia que permite respostas significativas a questões complexas, organizando informações em uma estrutura de rede interconectada."
+    },
+    {
+      "term": "scene reconstruction",
+      "explanation": "O processo de criação de uma cópia digital tridimensional de um ambiente físico com base em imagens como fotografias ou vídeos."
+    },
+    {
+      "term": "search engine optimization",
+      "explanation": "Esforços de edição e melhoria para que sites tenham uma classificação mais elevada nos motores de busca."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que executa programas com comandos escritos em vez do mouse."
+    },
+    {
+      "term": "CLI agent",
+      "explanation": "Software que gerencia operações e executa tarefas automaticamente em nome do usuário por meio da linha de comando do computador."
+    }
+  ]
+}

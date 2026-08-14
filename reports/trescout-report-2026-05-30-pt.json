@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-30",
+  "editorial": "Hoje, as tecnologias de automação e análise de arquivos se destacam nos processos de desenvolvimento de software. Em particular, a ferramenta de processamento de documentos da Microsoft e o assistente de codificação da Anthropic estabelecem novos padrões que aumentam a produtividade nas ferramentas de desenvolvimento.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Desenvolvido pela Microsoft, MarkItDown é uma ferramenta Python que converte vários formatos de arquivo e documentos de escritório em formato de linguagem markdown (Markdown). Essa ferramenta facilita a conversão de dados não estruturados em formato de texto processável para modelos de linguagem grandes.",
+          "meta": "Python · ★ 131.646 · +2.473 hoje"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo é uma ferramenta de automação que cria vídeos curtos de alta resolução com um único clique, usando grandes modelos de linguagem. Este software baseado em Python acelera o fluxo de trabalho de criação de conteúdo, automatizando o processo de geração de conteúdo de vídeo a partir da entrada de texto.",
+          "meta": "Python · ★ 71.592 · +2.775 hoje"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code é uma ferramenta de codificação baseada em agente que roda no terminal e analisa a base do código com comandos de linguagem natural. Ele foi projetado como um assistente que executa tarefas rotineiras em processos de desenvolvimento de software, fornece comentários de código e gerencia o controle de versão (fluxos de trabalho git).",
+          "meta": "Python · ★ 128.283 · +595 hoje"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor lançou a especificação oficial do plugin, permitindo aos desenvolvedores criar seus próprios plugins dentro do editor de código. Essa estrutura baseada em TypeScript permite que os desenvolvedores integrem fluxos de trabalho personalizados diretamente no ambiente do editor.",
+          "meta": "TypeScript · ★ 1.403 · +206 hoje"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness é uma estrutura de meta-talentos que projeta equipes de agentes de IA específicas para domínios específicos e cria as habilidades especializadas que essas equipes precisam. O sistema automatiza definições e fluxos de trabalho de agentes especializados para executar tarefas complexas.",
+          "meta": "HTML · ★ 4.165 · +80 hoje"
+        },
+        {
+          "title": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "summary": "O plugin Compound Engineering integra processos de engenharia compostos para ferramentas de desenvolvimento como Claude Code, Codex e Cursor. Ele permite o gerenciamento e a automação de tarefas complexas em fluxos de trabalho de desenvolvimento de software.",
+          "meta": "TypeScript · ★ 18.351 · +348 hoje"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "O ECC oferece um sistema que otimiza habilidades, memória e camadas de segurança para ferramentas de codificação de inteligência artificial, como Claude Code e Cursor. Ele fornece uma infraestrutura orientada para pesquisa para aumentar o desempenho dos agentes nos processos de desenvolvimento de software.",
+          "meta": "JavaScript · ★ 199.102 · +918 hoje"
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM oferece um modelo de conversão de texto em fala (TTS) sem tokenizador para produção de fala multilíngue, design de som criativo e clonagem de voz realista. Esta abordagem permite processos de síntese sonora mais naturais e flexíveis, trabalhando diretamente nos dados sonoros, ao contrário dos métodos tradicionais.",
+          "meta": "Python · ★ 22.648 · +658 hoje"
+        },
+        {
+          "title": "galilai-group/stable-worldmodel",
+          "url": "https://github.com/galilai-group/stable-worldmodel",
+          "summary": "Stable-worldmodel é uma plataforma desenvolvida para garantir a reprodutibilidade da pesquisa em modelos mundiais. O software fornece uma estrutura padrão para simular e avaliar interações ambientais de modelos de IA.",
+          "meta": "Python · ★ 1.403 · +319 hoje"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "O Projeto N.O.M.A.D reúne ferramentas, recursos de informação e componentes de inteligência artificial projetados para um computador de sobrevivência offline que não requer conexão com a internet. Este sistema visa garantir que os dados críticos e as capacidades digitais estejam acessíveis em todas as circunstâncias.",
+          "meta": "TypeScript · ★ 27.228 · +473 hoje"
+        },
+        {
+          "title": "run-llama/liteparse",
+          "url": "https://github.com/run-llama/liteparse",
+          "summary": "Desenvolvido com a linguagem Rust, Liteparse é uma ferramenta de código aberto projetada para analisar documentos de forma rápida e eficiente. Esta solução funciona como um analisador de documentos de alto desempenho, facilitando a extração de dados de estruturas documentais complexas.",
+          "meta": "Rust · ★ 7.781 · +929 hoje"
+        },
+        {
+          "title": "chen08209/FlClash",
+          "url": "https://github.com/chen08209/FlClash",
+          "summary": "FlClash se destaca como um cliente proxy multiplataforma baseado em ClashMeta. Este aplicativo de código aberto, desenvolvido em linguagem Dart, oferece uma experiência de interface fácil de usar e sem anúncios.",
+          "meta": "Dart · ★ 40.313 · +190 hoje"
+        },
+        {
+          "title": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "summary": "Este trabalho compartilhado por FareedKhan-dev explica passo a passo o processo de treinamento de grandes modelos de linguagem do zero, desde o download de conjuntos de dados até a produção de texto. O conteúdo em formato Jupyter Notebook incorpora os processos de desenvolvimento do modelo acompanhados de um guia técnico.",
+          "meta": "Jupyter Notebook · ★ 2.086 · +316 hoje"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView usa sinais de rede sem fio padrão (WiFi) para realizar inteligência espacial em tempo real, rastreamento de sinais vitais e detecção de presença sem a necessidade de dados de imagem. Este software, desenvolvido em linguagem Rust, oferece uma solução de monitoramento sem contato utilizando a infraestrutura de rede existente.",
+          "meta": "Rust · ★ 68.643 · +656 hoje"
+        },
+        {
+          "title": "DataTalksClub/data-engineering-zoomcamp",
+          "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+          "summary": "Data Engineering Zoomcamp é um programa de treinamento gratuito de nove semanas que cobre os processos de criação de pipelines de dados prontos para produção. Oferecendo aos participantes a oportunidade de aprender práticas completas de engenharia de dados, este curso segue um currículo orientado para a prática por meio de Jupyter Notebooks.",
+          "meta": "Jupyter Notebook · ★ 41.734 · +277 hoje"
+        },
+        {
+          "title": "OpenMOSS/MOSS-TTS",
+          "url": "https://github.com/OpenMOSS/MOSS-TTS",
+          "summary": "MOSS-TTS é uma família de modelos de código aberto projetada para realizar síntese de fala expressiva e de alta fidelidade. Ele oferece suporte a cenários complexos, como conversas de longo prazo, diálogos com vários alto-falantes, design de personagens e streaming de texto para fala em tempo real.",
+          "meta": "Python · ★ 2.558 · +88 hoje"
+        },
+        {
+          "title": "dreammis/social-auto-upload",
+          "url": "https://github.com/dreammis/social-auto-upload",
+          "summary": "Desenvolvido em Python, o social-auto-upload é uma ferramenta que permite o upload automático de vídeos para plataformas de mídia social como Douyin, Xiaohongshu, TikTok, YouTube e Bilibili. Oferecendo suporte multiplataforma, este software automatiza os processos de distribuição de conteúdo e elimina a necessidade de upload manual.",
+          "meta": "Python · ★ 11.705 · +106 hoje"
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "A Anthropics abre o código de sua biblioteca de habilidades de agentes reutilizáveis ​​que permitem que agentes de inteligência artificial executem tarefas complexas. Essa estrutura baseada em Python permite que os desenvolvedores padronizem fluxos de trabalho baseados em agentes.",
+          "meta": "Python · ★ 143.956 · +471 hoje"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "O projeto Build-your-own-x visa melhorar as habilidades de programação, fornecendo guias para a construção de tecnologias de software populares a partir do zero. Os desenvolvedores aprendem a lógica de funcionamento de sistemas complexos, como bancos de dados ou sistemas operacionais, por meio de projetos aplicados.",
+          "meta": "Markdown · ★ 507.884 · +814 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "The dead economy theory",
+          "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+          "summary": "A teoria da economia morta argumenta que a maioria das interações e conteúdos em plataformas digitais são criados por bots e não por humanos. Esta abordagem aponta para um ambiente de rede sintética onde o tráfego da Internet e os dados económicos não refletem o comportamento real do utilizador.",
+          "meta": "1.162 pontos · 1.292 comentários"
+        },
+        {
+          "title": "SQLite is all you need for durable workflows",
+          "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+          "summary": "Os desenvolvedores preferem usar o banco de dados SQLite em vez de infraestruturas complexas para criar fluxos de trabalho duráveis. Este método simplifica os processos de gerenciamento de estado e aumenta a confiabilidade do sistema.",
+          "meta": "627 pontos · 336 comentários"
+        },
+        {
+          "title": "Notes from the Mistral AI Now Summit",
+          "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+          "summary": "Os novos modelos apresentados no Mistral AI Now Summit oferecem desempenho otimizado, especialmente para modelos de linguagem pequena executados em dispositivos finais. A empresa visa aumentar a eficiência e a capacidade de processamento local em aplicações corporativas com modelos abertos.",
+          "meta": "426 pontos · 181 comentários"
+        },
+        {
+          "title": "Danish pension fund excludes SpaceX citing governance and valuation",
+          "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+          "summary": "Um fundo de pensões com sede na Dinamarca retirou as ações da SpaceX da sua carteira de investimentos, alegando preocupações sobre os padrões de governação corporativa e a avaliação das empresas. Esta decisão reflecte as dificuldades que as empresas espaciais privadas têm em satisfazer as expectativas dos investidores em termos de transparência e governação.",
+          "meta": "415 pontos · 312 comentários"
+        },
+        {
+          "title": "It's hard to justify buying a Framework 12",
+          "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+          "summary": "O modelo Framework 12 é criticado pelos usuários por seu alto preço e eficiência de desempenho limitada, apesar da vantagem de capacidade de atualização de hardware que oferece. A natureza modular do dispositivo torna difícil fazer uma justificativa baseada no custo em comparação com outros laptops no mercado.",
+          "meta": "359 pontos · 565 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "MiniCPM5-1B, desenvolvido pela OpenBMB, destaca-se como um modelo de geração de texto com baixo número de parâmetros. Visando oferecer alto desempenho em recursos computacionais limitados, o modelo adota uma arquitetura adequada para trabalhar em dispositivos de ponta.",
+          "meta": "♥ 597 · 28.793 downloads"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Desenvolvido pela Nvidia, LocateAnything-3B se destaca como um modelo imagem-texto-texto que executa tarefas de posicionamento de objetos processando entradas visuais e textuais. Este modelo otimiza os processos de localização de objetos em dados visuais e de transformação desses dados em saídas baseadas em texto.",
+          "meta": "♥ 472 · 18.327 downloads"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive, publicado no HuggingFace, é um modelo de linguagem multimodal que pode processar entrada visual e de texto. O modelo, que chama a atenção pela estrutura sem censura, oferece desempenho customizado em processos de conversão de imagem em texto.",
+          "meta": "♥ 1.094 · 2.227.885 downloads"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Desenvolvido pela Meituan, LongCat-Video-Avatar-1.5 é um modelo generativo de IA que permite a criação de avatares de vídeo de alta qualidade a partir da entrada de texto. O sistema foi projetado para produzir resultados visuais consistentes em processos de síntese de vídeo orientados a caracteres.",
+          "meta": "♥ 403 · 0 downloads"
+        },
+        {
+          "title": "bytedance-research/Lance",
+          "url": "https://huggingface.co/bytedance-research/Lance",
+          "summary": "Desenvolvido pela ByteDance, Lance é um modelo multimodal (qualquer para qualquer) que pode processar simultaneamente diferentes tipos de dados, como texto, imagens e áudio. Esta arquitetura oferece interação flexível em tarefas intermodais, fornecendo conversão direta entre diferentes modalidades.",
+          "meta": "♥ 979 · 2.856 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

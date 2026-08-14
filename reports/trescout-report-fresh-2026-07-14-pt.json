@@ -1,0 +1,114 @@
+{
+  "date": "2026-07-14",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut é um projeto de desenvolvimento de aplicativos baseado em TypeScript que oferece uma alternativa de código aberto para processos de edição de vídeo. Com o objetivo de proporcionar uma experiência de usuário semelhante ao CapCut, esta plataforma visa tornar acessíveis as ferramentas de edição de vídeo.",
+          "meta": "TypeScript · ★ 67.464 · +1.229 hoje"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi é uma plataforma complementar de inteligência artificial com chat de voz em tempo real e recursos de jogos que os usuários podem hospedar em seus próprios servidores. O projeto visa trazer personagens interativos semelhantes ao Neuro-sama para ambientes desktop e web.",
+          "meta": "TypeScript · ★ 42.089 · +78 hoje",
+          "returning": true
+        },
+        {
+          "title": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "summary": "Graphify transforma diferentes tipos de dados, como arquivos de código, esquemas de banco de dados e documentação, em uma estrutura de gráfico de conhecimento consultável. Esta ferramenta baseada em Python visa criar uma camada central de dados para vários assistentes de codificação de IA.",
+          "meta": "Python · ★ 85.141 · +1.095 hoje"
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "Publicado pelo GitHub, o spec-kit oferece as ferramentas necessárias para iniciar processos de desenvolvimento orientados por especificações. Esta biblioteca baseada em Python facilita a criação e o gerenciamento de especificações padronizadas em projetos de software.",
+          "meta": "Python · ★ 120.786 · +543 hoje",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+          "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+          "summary": "A Apple está testando sua nova interface (API) Speech Analyzer em comparação com o modelo Whisper da OpenAI e sua versão anterior. Esta nova interface, focada no processamento no dispositivo, oferece uma opção alternativa no processamento de dados de voz, especialmente com sua baixa latência e vantagens de privacidade.",
+          "meta": "511 pontos · 200 comentários"
+        },
+        {
+          "title": "Building and shipping Mac and iOS apps without opening Xcode",
+          "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+          "summary": "Os desenvolvedores podem desenvolver aplicativos Mac e iOS com ferramentas de linha de comando e processos de automação sem usar a interface do ambiente de desenvolvimento integrado (Xcode) da Apple. Este método acelera os processos de desenvolvimento gerenciando as fases de construção e implantação por meio do terminal.",
+          "meta": "396 pontos · 176 comentários"
+        },
+        {
+          "title": "The art and engineering of Sega CD Silpheed",
+          "url": "https://fabiensanglard.net/silpheed/index.html",
+          "summary": "Fabien Sanglard examina detalhadamente a arquitetura técnica e os efeitos visuais do jogo Silpheed desenvolvido para a plataforma Sega CD. O estudo explica com documentação técnica como gráficos poligonais e vídeos pré-renderizados foram integrados sob restrições de hardware em 1993.",
+          "meta": "241 pontos · 50 comentários"
+        },
+        {
+          "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+          "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+          "summary": "O Japão desenvolveu um novo método que aumenta a taxa de recuperação de lítio de baterias usadas de veículos elétricos para 90%. Esta tecnologia apoia a sustentabilidade no fornecimento de matérias-primas críticas, aumentando a eficiência nos processos de reciclagem de baterias.",
+          "meta": "226 pontos · 60 comentários"
+        },
+        {
+          "title": "The Git history command deserves more attention",
+          "url": "https://lalitm.com/post/git-history/",
+          "summary": "O comando histórico do Git é uma ferramenta eficaz para rastrear o progresso do projeto e depurar processos de desenvolvimento de software. Este comando facilita o rastreamento de alterações de código analisando o histórico de controle de versão.",
+          "meta": "184 pontos · 109 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI companion",
+      "explanation": "Uma aplicação de inteligência artificial que conversa com o utilizador, faz-lhe companhia ou apoia-o no seu trabalho diário."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Uma estrutura que dá sentido às relações entre os dados, organizando as informações em pontos interconectados."
+    },
+    {
+      "term": "AI coding assistants",
+      "explanation": "Ferramentas de inteligência artificial que oferecem sugestões aos desenvolvedores de software enquanto eles escrevem códigos, corrigem erros e agilizam seu trabalho."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "Um método de trabalho no qual todos os requisitos e regras são determinados detalhadamente antes de começar a codificar um software."
+    },
+    {
+      "term": "specifications",
+      "explanation": "Uma lista de regras técnicas e detalhes que especificam como um produto ou software deve funcionar."
+    },
+    {
+      "term": "SpeechAnalyzer",
+      "explanation": "Ferramenta de análise que converte gravações de áudio em texto e analisa a emoção ou o significado delas."
+    },
+    {
+      "term": "API",
+      "explanation": "Uma ponte que permite que dois softwares diferentes se comuniquem e troquem dados."
+    },
+    {
+      "term": "Whisper",
+      "explanation": "Tecnologia de reconhecimento de voz baseada em inteligência artificial que pode converter a linguagem falada em texto com alta precisão."
+    },
+    {
+      "term": "Xcode",
+      "explanation": "Ambiente oficial de desenvolvimento de software usado para desenvolver aplicativos para dispositivos Apple."
+    }
+  ]
+}

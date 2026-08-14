@@ -1,0 +1,111 @@
+{
+  "date": "2026-06-20",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro foi desenvolvido como um editor de vídeo que roda no sistema operacional macOS e oferece ferramentas de edição com suporte de inteligência artificial. Esta aplicação, escrita em linguagem Swift, tem como objetivo combinar fluxos de trabalho baseados em inteligência artificial com desempenho de sistema local.",
+          "meta": "Swift · ★ 2.134 · +756 hoje"
+        },
+        {
+          "title": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "summary": "Worldmonitor oferece um painel de inteligência global em tempo real que combina compilação de notícias com tecnologia de IA e recursos de monitoramento geopolítico em uma única interface. Essa ferramenta, que fornece monitoramento da infraestrutura e consciência situacional, facilita os processos de análise ao visualizar fluxos de dados complexos.",
+          "meta": "TypeScript · ★ 57.469 · +156 hoje"
+        },
+        {
+          "title": "aishwaryanr/awesome-generative-ai-guide",
+          "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+          "summary": "O repositório awesome-generative-ai-guide coleta pesquisas atuais, recursos de entrevistas e cadernos no campo da inteligência artificial generativa (IA generativa) em um só lugar. Este recurso serve como um centro abrangente de aprendizagem e referência para desenvolvedores e pesquisadores.",
+          "meta": "HTML · ★ 27.722 · +107 hoje"
+        },
+        {
+          "title": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "summary": "Desenvolvido pela BuilderIO, agent-native é uma estrutura TypeScript focada na criação de aplicativos nativos para agentes de inteligência artificial. Ele permite que os desenvolvedores integrem fluxos de trabalho baseados em agentes diretamente na arquitetura do aplicativo.",
+          "meta": "TypeScript · ★ 1.138 · +147 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Hyundai buys Boston Dynamics",
+          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+          "summary": "A Hyundai aumentou seu controle na área de robótica ao comprar todas as suas ações na Boston Dynamics da SoftBank por US$ 325 milhões. Esta mudança fortalece os investimentos estratégicos da fabricante automotiva em mobilidade autônoma e tecnologias de robôs humanóides.",
+          "meta": "781 pontos · 346 comentários"
+        },
+        {
+          "title": "Norway imposes near ban on AI in elementary school",
+          "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+          "summary": "A Noruega promulgou um novo regulamento que inclui restrições ao uso de inteligência artificial nas escolas primárias. Esta decisão visa proteger a privacidade dos dados no ambiente educacional e controlar a interação dos alunos com as ferramentas digitais.",
+          "meta": "612 pontos · 426 comentários"
+        },
+        {
+          "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+          "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+          "summary": "O Projeto Valhalla visa aumentar o desempenho fornecendo tipos de valor e suporte aprimorado ao layout de memória na Java Virtual Machine (JVM). Este trabalho torna o uso da memória mais eficiente, otimizando a localidade dos dados na programação orientada a objetos.",
+          "meta": "586 pontos · 360 comentários"
+        },
+        {
+          "title": "There are no instances in ATProto",
+          "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+          "summary": "Ao contrário das redes sociais tradicionais, o protocolo ATProto utiliza uma estrutura de dados orientada ao usuário em vez de servidores centrais. Essa arquitetura oferece um recurso de portabilidade que permite aos usuários mover suas contas entre diferentes plataformas.",
+          "meta": "418 pontos · 216 comentários"
+        },
+        {
+          "title": "Court Records Should Be Free",
+          "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+          "summary": "A Electronic Frontier Foundation argumenta que as taxas cobradas pelo acesso aos registos judiciais prejudicam a transparência. Esta abordagem enfatiza que os documentos jurídicos públicos devem ser acessíveis digitalmente de forma livre e irrestrita.",
+          "meta": "348 pontos · 73 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "summary": "VibeThinker-3B, desenvolvido pela WeiboAI, é um modelo de linguagem compacto focado na geração de texto. Essa estrutura, que conta com 3 bilhões de parâmetros, tem como objetivo proporcionar desempenho em tarefas de criação de texto com eficiência de recursos.",
+          "meta": "♥ 473 · 12.148 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "video editor",
+      "explanation": "Software que corta e combina arquivos de imagem e áudio em um vídeo assistível."
+    },
+    {
+      "term": "global intelligence dashboard",
+      "explanation": "Painel de gestão que permite monitorar a situação coletando dados de diversas partes do mundo em uma única tela."
+    },
+    {
+      "term": "situational awareness",
+      "explanation": "É a capacidade de um sistema perceber instantaneamente o que está acontecendo ao seu redor e compreender corretamente a situação atual."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Tecnologia que pode produzir novos conteúdos, como texto, imagens ou som a partir do zero, com base nas informações que aprendeu."
+    },
+    {
+      "term": "notebooks",
+      "explanation": "Ambientes de trabalho interativos onde você pode fazer anotações enquanto escreve o código e ver os resultados instantaneamente."
+    },
+    {
+      "term": "agent-native applications",
+      "explanation": "Aplicativos especialmente desenvolvidos para assistentes de inteligência artificial que podem tomar decisões em nome do usuário e realizar transações por conta própria."
+    },
+    {
+      "term": "framework",
+      "explanation": "A estrutura básica que fornece um conjunto de ferramentas e regras prontas que facilitam seu trabalho no desenvolvimento de software."
+    }
+  ]
+}

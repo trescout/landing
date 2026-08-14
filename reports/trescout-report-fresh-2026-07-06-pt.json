@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-06",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "summary": "Esta seleção, elaborada para Claude Code, assistente de codificação desenvolvido pela Anthropic, reúne ferramentas, plug-ins e pacotes de habilidades que aceleram os processos de desenvolvimento de software. Recursos que facilitam aos desenvolvedores a integração dessa ferramenta de inteligência artificial em seus projetos têm como foco o aumento da capacidade de automação.",
+          "meta": "Python · ★ 48.592 · +148 hoje"
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "A biblioteca de habilidades de marketing desenvolvida para Claude Code e agentes de inteligência artificial oferece recursos especializados em áreas como otimização de taxa de conversão (CRO), redação, otimização de mecanismo de pesquisa (SEO), análise e engenharia de crescimento. Este conjunto de ferramentas permite que os modelos de IA executem tarefas orientadas para o marketing de uma forma mais profissional e orientada por dados.",
+          "meta": "JavaScript · ★ 36.679 · +145 hoje"
+        },
+        {
+          "title": "gastownhall/gastown",
+          "url": "https://github.com/gastownhall/gastown",
+          "summary": "Gas Town oferece uma infraestrutura que permite que diferentes agentes de inteligência artificial trabalhem juntos como gerentes de espaço de trabalho multiagentes. Desenvolvida com a linguagem Go, esta ferramenta centraliza a coordenação entre agentes e o gerenciamento de recursos em fluxos de trabalho complexos.",
+          "meta": "Go · ★ 16.488 · +51 hoje"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar é uma ferramenta que permite visualizar dados de uso do OpenAI Codex e Claude Code sem a necessidade de login. Desenvolvido em linguagem Swift, este aplicativo facilita aos desenvolvedores o rastreamento de estatísticas de consumo em ferramentas de codificação suportadas por IA.",
+          "meta": "Swift · ★ 16.432 · +153 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Organic Maps",
+          "url": "https://organicmaps.app/",
+          "summary": "Organic Maps é um aplicativo de mapeamento de código aberto baseado em dados de mapas offline e prioriza a privacidade do usuário. O aplicativo usa dados do OpenStreetMap, fornecendo recursos de navegação e pesquisa local sem a necessidade de conexão com a internet.",
+          "meta": "940 pontos · 282 comentários"
+        },
+        {
+          "title": "OpenPrinter",
+          "url": "https://www.opentools.studio/",
+          "summary": "OpenPrinter é um protocolo de impressão de código aberto que fornece uma experiência de impressão independente de driver para diferentes modelos de impressora. Ele fornece uma interface universal que se comunica diretamente com impressoras na rede, sem a necessidade de instalações tradicionais de drivers.",
+          "meta": "795 pontos · 192 comentários"
+        },
+        {
+          "title": "It's not about physical vs. digital games, it's about ownership",
+          "url": "https://popcar.bearblog.dev/its-about-ownership/",
+          "summary": "As discussões no mundo dos jogos digitais centram-se no conceito de propriedade dos utilizadores e não na distinção entre formatos físicos e digitais. A autoridade das plataformas para restringir o acesso aos jogos abre um novo debate jurídico sobre a permanência dos conteúdos digitais e os direitos do consumidor.",
+          "meta": "449 pontos · 339 comentários"
+        },
+        {
+          "title": "The future of Flipper Zero development",
+          "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+          "summary": "Os desenvolvedores do Flipper Zero pretendem facilitar as contribuições da comunidade, transformando o ecossistema de software do dispositivo em uma arquitetura modular. Esta nova abordagem prevê uma transição para um modelo de distribuição baseado em aplicações para tornar o desenvolvimento de firmware mais sustentável.",
+          "meta": "307 pontos · 125 comentários"
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra will be in Codex",
+          "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+          "summary": "Foi anunciado que o modelo GPT-5.6 Sol Ultra será integrado ao Codex, uma ferramenta de codificação. Este desenvolvimento permite a atualização de capacidades de conclusão de código suportadas por inteligência artificial usadas em processos de desenvolvimento de software.",
+          "meta": "249 pontos · 177 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, desenvolvido pela InternScience, é um modelo de inteligência artificial otimizado para tarefas de geração de texto. Este modelo foi projetado para suportar execução lógica complexa e fluxos de trabalho baseados em agentes.",
+          "meta": "♥ 311 · 7.010 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "As capacidades que um software ou inteligência artificial possui para executar uma tarefa específica."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Estudos realizados para aumentar a taxa de pessoas que visitam um site se tornarem clientes."
+    }
+  ]
+}

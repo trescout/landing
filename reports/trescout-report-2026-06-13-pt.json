@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-13",
+  "editorial": "No mundo do software de hoje, pacotes de habilidades autônomas e soluções de gerenciamento de mídia de código aberto vêm à tona. Os dados do GitHub mostram que os desenvolvedores estão particularmente focados no isolamento de contêineres e no gerenciamento centralizado de servidores.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Esta biblioteca, desenvolvida para agentes de codificação de inteligência artificial, oferece habilidades de engenharia em nível de produção. Tem como objetivo padronizar os fluxos de trabalho dos agentes que automatizam os processos de desenvolvimento de software.",
+          "meta": "Shell · ★ 57.241 · +2.656 hoje"
+        },
+        {
+          "title": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "summary": "Music Assistant é um gerenciador de biblioteca de mídia de código aberto que combina diferentes serviços de streaming digital e alto-falantes conectados em uma única interface. Este software de servidor baseado em Python permite a criação de um sistema central de gerenciamento de música em dispositivos em operação constante.",
+          "meta": "Python · ★ 1.857 · +20 hoje"
+        },
+        {
+          "title": "mattermost/mattermost",
+          "url": "https://github.com/mattermost/mattermost",
+          "summary": "Mattermost é uma plataforma de código aberto projetada para permitir colaboração segura durante todo o ciclo de vida de desenvolvimento de software. Este sistema, desenvolvido em linguagem TypeScript, reúne em um único centro os processos de comunicação e gestão de projetos das equipes.",
+          "meta": "TypeScript · ★ 37.696 · +388 hoje"
+        },
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Desenvolvido pela Apple, o contêiner permite a criação e execução de contêineres Linux por meio de máquinas virtuais leves otimizadas para processadores de silício da Apple. Escrita em Swift, esta ferramenta oferece uma solução orientada para desempenho para gerenciamento de contêineres nativos no macOS.",
+          "meta": "Swift · ★ 35.486 · +3.504 hoje"
+        },
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "O projeto iptv-org, que reúne canais de televisão públicos de todo o mundo em um único centro, apresenta listas de transmissão de televisão através de protocolo de internet (IPTV) como um conjunto de dados organizado. Desenvolvido com TypeScript, esta coleção de código aberto padroniza o acesso dos usuários a publicações em diversos países.",
+          "meta": "TypeScript · ★ 118.170 · +179 hoje"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers é uma estrutura e metodologia de habilidades de agente projetada para automatizar processos de desenvolvimento de software. Essa arquitetura fornece recursos modulares para sistemas baseados em agentes para padronizar fluxos de trabalho de desenvolvimento de software.",
+          "meta": "Shell · ★ 226.284 · +1.275 hoje"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria é um aplicativo desktop desenvolvido para gerenciar bases de conhecimento baseadas em Markdown. Escrita em TypeScript, esta ferramenta oferece uma interface central para organizar processos de documentação pessoal.",
+          "meta": "TypeScript · ★ 15.926 · +369 hoje"
+        },
+        {
+          "title": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "summary": "OpenMed é uma biblioteca de inteligência artificial de código aberto desenvolvida para uso na área da saúde. Esta plataforma baseada em Python visa padronizar os processos de processamento e análise de dados médicos.",
+          "meta": "Python · ★ 3.270 · +515 hoje"
+        },
+        {
+          "title": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "summary": "O LMCache oferece uma camada que aumenta a velocidade de inferência otimizando o gerenciamento do cache de valor-chave (cache KV) para modelos de linguagem grandes. Este sistema, que torna eficiente o uso de memória, visa reduzir a carga computacional em consultas que utilizam o mesmo contexto.",
+          "meta": "Python · ★ 8.698 · +28 hoje"
+        },
+        {
+          "title": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "summary": "PM Skills Marketplace oferece mais de 100 habilidades de agente, comandos e plug-ins para processos de gerenciamento de produtos, desde a descoberta até o crescimento. Esta plataforma fornece conjuntos de ferramentas prontos para automatizar fluxos de trabalho de desenvolvimento de produtos.",
+          "meta": "★ 17.229 · +827 hoje"
+        },
+        {
+          "title": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "summary": "MasterDnsVPN é uma solução de rede privada virtual (VPN) de túnel de sistema de nomes de domínio de baixa sobrecarga (túnel DNS) desenvolvida para contornar a censura. Escrita na linguagem Go, a ferramenta oferece alta velocidade e estabilidade com retransmissão automática (ARQ) e balanceamento de carga do resolvedor em caso de perda de dados.",
+          "meta": "Go · ★ 6.104 · +400 hoje"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "O projeto Agência-agentes oferece uma estrutura de agência digital composta por agentes especializados em inteligência artificial com diferentes áreas de atuação. O sistema reúne agentes especialistas com personalidade e produzem resultados concretos sob o mesmo teto para que os usuários possam gerenciar determinados processos de negócios.",
+          "meta": "Shell · ★ 112.596 · +1.026 hoje"
+        },
+        {
+          "title": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "summary": "Microsoft PowerToys é uma coleção de softwares utilitários desenvolvidos para aumentar a produtividade e customização do sistema operacional Windows. Ele oferece aos usuários ferramentas avançadas de personalização e otimizações de fluxo de trabalho no sistema.",
+          "meta": "C · ★ 134.431 · +103 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "summary": "A Anthropic anunciou que suspendeu o acesso aos modelos Fable 5 e Mythos 5 de acordo com as instruções do governo dos Estados Unidos. A empresa afirmou que esta decisão foi uma restrição regulatória tomada por razões de segurança nacional.",
+          "meta": "2.000 pontos · 1.472 comentários"
+        },
+        {
+          "title": "If you are asking for human attention, demonstrate human effort",
+          "url": "https://tombedor.dev/human-attention-and-human-effort/",
+          "summary": "Ele defende que conteúdos que exigem atenção humana na comunicação digital devem mostrar o esforço humano de forma concreta. Ele afirma que para uma interação de qualidade, os produtores de conteúdo devem comprovar seus próprios processos de preparação antes de pedir tempo à outra parte.",
+          "meta": "1.571 pontos · 469 comentários"
+        },
+        {
+          "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+          "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+          "summary": "Um novo método de edição genética (CRISPR) tem como alvo tumores que são considerados intratáveis, através da lise seletiva de células cancerígenas. Esta técnica desencadeia a morte celular ao interromper o código genético das estruturas cancerosas sem danificar as células saudáveis.",
+          "meta": "796 pontos · 189 comentários"
+        },
+        {
+          "title": "Open source AI must win",
+          "url": "https://opensourceaimustwin.com/?share=v2",
+          "summary": "Os defensores da inteligência artificial de código aberto (IA de código aberto) enfatizam que as tecnologias de inteligência artificial devem permanecer descentralizadas e acessíveis. Esta abordagem baseia-se na transparência e no desenvolvimento orientado para a comunidade contra o risco de monopolização colocado pelos modelos de fonte fechada.",
+          "meta": "764 pontos · 237 comentários"
+        },
+        {
+          "title": "Electric motors with no rare earths",
+          "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+          "summary": "A Renault está desenvolvendo tecnologias de nova geração que não utilizam elementos de terras raras nos motores dos veículos elétricos. Esta abordagem visa apoiar arquiteturas sustentáveis ​​de motores elétricos, reduzindo a dependência externa nos processos de produção.",
+          "meta": "392 pontos · 98 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, desenvolvido pelo Google, é um modelo multimodal que produz saídas baseadas em texto processando entradas de texto e imagem. O modelo amplia a capacidade de análise combinando informações obtidas de imagens com tarefas baseadas em texto.",
+          "meta": "♥ 641 · 20.669 downloads"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Desenvolvido pela Nvidia, LocateAnything-3B é um modelo de imagem texto para texto que executa tarefas de localização de objetos processando entradas visuais e textuais. O sistema permite a detecção de objetos com consultas baseadas em texto em dados visuais complexos.",
+          "meta": "♥ 1.931 · 149.206 downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Kimi-K2.7-Code, desenvolvido pela Moonshot AI, é um modelo que executa a geração de código processando entradas visuais e baseadas em texto. Graças à sua estrutura multimodal, fornece suporte em processos complexos de desenvolvimento de software, convertendo dados visuais em saídas de texto.",
+          "meta": "♥ 389 · 0 downloads"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Os modelos Gemma 2 4B e 12B desenvolvidos pelo Google oferecem uma estrutura multimodal com capacidade de processamento de texto e imagem. Esses modelos fornecem a capacidade de produzir qualquer saída a partir de qualquer tipo de entrada (qualquer para qualquer), processando diferentes tipos de dados por meio de uma única arquitetura.",
+          "meta": "♥ 977 · 911.544 downloads"
+        },
+        {
+          "title": "CohereLabs/North-Mini-Code-1.0",
+          "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+          "summary": "North-Mini-Code-1.0, desenvolvido pela CohereLabs, é um modelo de linguagem especializado com foco em recursos de geração de texto. Este modelo, concebido para apoiar processos de desenvolvimento de software, visa aumentar a eficiência em tarefas baseadas em código.",
+          "meta": "♥ 339 · 4.054 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "engineering skills",
+      "explanation": "Capacidade de desenvolver métodos lógicos e sistemáticos para resolver problemas complexos."
+    },
+    {
+      "term": "virtual machines",
+      "explanation": "Sistemas operacionais virtuais que funcionam como se houvesse um dispositivo separado dentro de um computador."
+    },
+    {
+      "term": "containers",
+      "explanation": "Pacotes que contêm tudo o que é necessário para que um software seja executado e funcione da mesma maneira em todos os ambientes."
+    },
+    {
+      "term": "IPTV",
+      "explanation": "Tecnologia que permite assistir transmissões de televisão pela internet em vez de uma antena tradicional."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "O conjunto de capacidades que a inteligência artificial precisa para tomar decisões e executar tarefas por conta própria."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Computadores ganhando a capacidade de aprender, raciocinar e resolver problemas como os humanos."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "KV cache",
+      "explanation": "Um método de aceleração que evita que a inteligência artificial repita as mesmas operações, lembrando-se das informações que processou anteriormente."
+    },
+    {
+      "term": "agentic skills",
+      "explanation": "A capacidade da inteligência artificial de planejar e agir por conta própria em direção a um objetivo."
+    },
+    {
+      "term": "DNS tunneling",
+      "explanation": "Um método de transferência de dados ocultando o tráfego da Internet dentro do sistema normalmente usado para localizar endereços."
+    },
+    {
+      "term": "VPN",
+      "explanation": "Uma ferramenta que esconde sua identidade e fornece uma conexão segura criptografando seus dados na internet."
+    },
+    {
+      "term": "ARQ",
+      "explanation": "Sistema de correção de erros que permite o reenvio automático de dados errados durante a comunicação."
+    },
+    {
+      "term": "regulatory restriction",
+      "explanation": "Normas legais de estados ou instituições que restringem atividades tecnológicas."
+    },
+    {
+      "term": "human effort",
+      "explanation": "O trabalho físico ou mental que as pessoas gastam para concluir um trabalho."
+    },
+    {
+      "term": "CRISPR",
+      "explanation": "Uma ferramenta biotecnológica sensível usada para editar os códigos genéticos dos seres vivos."
+    },
+    {
+      "term": "open source AI",
+      "explanation": "Modelos de inteligência artificial cujos códigos e lógica de funcionamento estão abertos a qualquer pessoa examinar, alterar e melhorar."
+    }
+  ]
+}

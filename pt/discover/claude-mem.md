@@ -1,0 +1,31 @@
+# Dê memória permanente ao seu agente de IA
+
+claude-mem permite que seus agentes de IA realizem recall de sessões cruzadas. Ele captura tudo o que acontece em uma sessão, transforma em resumos significativos com IA e fornece contexto relevante na próxima sessão. Compatível com Claude Code, Codex, Gemini, Copilot e OpenCode.
+
+- ★ 90.349
+- TypeScript
+- Apache-2.0
+- GitHub Trending · 26 May 2026
+
+## Atualizar
+- 11 de agosto de 2026: Star 90.015 → 90.349, versão mais recente v13.15.0 (10 de agosto de 2026).
+- 8 de agosto de 2026: Star 89.464 → 90.015, versão mais recente v13.14.0 (8 de agosto de 2026).
+- 4 de agosto de 2026: Star 89.371 → 89.464, versão mais recente v13.13.1 (3 de agosto de 2026).
+- 3 de agosto de 2026: Star 89.278 → 89.371, versão mais recente v13.13.0 (2 de agosto de 2026).
+
+## O que você ganha
+- O agente não começa do zero todas as vezes, mas se lembra do passado.
+- O histórico da sessão é resumido com inteligência artificial e as partes relevantes são recuperadas.
+- Não se limita a uma única ferramenta, funciona de forma compatível com vários agentes.
+
+## Como funciona
+Registra automaticamente as ações realizadas pelo agente durante a sessão.
+
+## Termos relacionados do glossário
+
+## Links
+- Repositório no GitHub →
+- Ler em turco →
+
+---
+Fonte: TreScout Descobrir · https://trescout.com/pt/discover/claude-mem/

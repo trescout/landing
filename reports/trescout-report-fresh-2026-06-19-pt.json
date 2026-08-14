@@ -1,0 +1,118 @@
+{
+  "date": "2026-06-19",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "zai-org/GLM-5",
+          "url": "https://github.com/zai-org/GLM-5",
+          "summary": "O GLM-5 oferece uma estrutura que visa mover os processos de desenvolvimento de software da codificação vibratória para a engenharia estruturada baseada em agentes. Este sistema padroniza fluxos de trabalho de desenvolvimento de software por meio de agentes de inteligência artificial (agentes de IA) que podem gerenciar tarefas complexas de forma autônoma.",
+          "meta": "★ 4.301 · +202 hoje"
+        },
+        {
+          "title": "Kilo-Org/kilocode",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "summary": "Kilo é uma plataforma completa de engenharia baseada em agentes, projetada para acelerar os processos de desenvolvimento de software. Ele padroniza os processos de criação, distribuição e iteração de aplicativos por meio de um agente de desenvolvimento de software de código aberto (agente de codificação).",
+          "meta": "TypeScript · ★ 22.481 · +1.345 hoje"
+        },
+        {
+          "title": "Kong/insomnia",
+          "url": "https://github.com/Kong/insomnia",
+          "summary": "Insomnia é um cliente de interface de programação de aplicativos (API) de código aberto que oferece suporte aos protocolos GraphQL, REST, WebSockets, SSE e gRPC. O software oferece suporte multiplataforma com opções de armazenamento local e Git baseado em nuvem.",
+          "meta": "TypeScript · ★ 38.771 · +18 hoje"
+        },
+        {
+          "title": "dotnet/aspnetcore",
+          "url": "https://github.com/dotnet/aspnetcore",
+          "summary": "ASP.NET Core é uma estrutura .NET multiplataforma usada para desenvolver aplicativos web modernos baseados em nuvem no Windows, macOS e Linux. Esta estrutura, desenvolvida em linguagem C#, permite criar serviços web de alto desempenho e escaláveis.",
+          "meta": "C# · ★ 38.124 · +14 hoje"
+        },
+        {
+          "title": "owainlewis/awesome-artificial-intelligence",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+          "summary": "Awesome-artificial-inteligência é uma lista abrangente de recursos que reúne treinamentos, livros, videoaulas e artigos acadêmicos na área de inteligência artificial. Esta coleção fornece um repositório de conteúdo estruturado baseado em disciplina para usuários no processo de aprendizagem.",
+          "meta": "★ 14.532 · +40 hoje"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "summary": "Desenvolvido pela Lightricks, o LTX-2 oferece um pacote de treinamento de inferência Python e adaptação de baixa classificação (LoRA) para modelos de inteligência artificial que produzem áudio e vídeo. Este conjunto de ferramentas permite aos usuários treinar modelos LTX-2 com seus próprios dados e executar saídas de modelo em sistemas locais.",
+          "meta": "Python · ★ 7.550 · +51 hoje"
+        },
+        {
+          "title": "LibreTranslate/LibreTranslate",
+          "url": "https://github.com/LibreTranslate/LibreTranslate",
+          "summary": "LibreTranslate oferece uma interface de tradução automática (API) gratuita e de código aberto. Esta ferramenta baseada em Python, que você pode hospedar em seu próprio servidor, permite trabalhar offline sem conexão com a Internet.",
+          "meta": "Python · ★ 15.075 · +51 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "I found 10k GitHub repositories distributing Trojan malware",
+          "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+          "summary": "Descobriu-se que mais de dez mil repositórios de software hospedados no GitHub distribuíam malware do tipo Trojan. Esses repositórios imitam projetos legítimos e incentivam os usuários a baixar arquivos maliciosos.",
+          "meta": "780 pontos · 203 comentários"
+        },
+        {
+          "title": ".gitignore Isn't the only way to ignore files in Git",
+          "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+          "summary": "Não apenas o arquivo .gitignore é usado para operações de exclusão de arquivos (ignorando arquivos) em projetos Git. Os desenvolvedores podem escolher o arquivo .git/info/exclude para configurações locais ou os métodos de configuração global para exclusões globais.",
+          "meta": "410 pontos · 129 comentários"
+        },
+        {
+          "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+          "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+          "summary": "O retalhista norueguês Elkjop foi multado em 1,8 milhões de euros pelas suas práticas que exigem o consentimento do processamento de dados dos utilizadores. Esta decisão baseia-se numa violação da regra de que o consentimento do utilizador deve ser dado livremente ao abrigo do Regulamento Geral de Proteção de Dados (RGPD).",
+          "meta": "374 pontos · 214 comentários"
+        },
+        {
+          "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+          "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+          "summary": "O curso de compiladores avançados oferecido pela Cornell University fornece acesso a materiais de autoaprendizagem que abrangem design moderno de compiladores e técnicas de otimização. O programa suporta conhecimentos teóricos sobre infraestrutura de compiladores e processos de geração de código com aplicações práticas.",
+          "meta": "364 pontos · 51 comentários"
+        },
+        {
+          "title": "Show HN: Are You in the Weights?",
+          "url": "https://www.intheweights.com/",
+          "summary": "À medida que o tráfego da Internet muda para grandes modelos de linguagem, foi desenvolvida uma plataforma que questiona até que ponto os dados pessoais estão incluídos nos pesos dos modelos de inteligência artificial. Esta ferramenta analisa vestígios de dados na memória de inteligência artificial, consultando vários modelos simultaneamente.",
+          "meta": "336 pontos · 188 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "vibe coding",
+      "explanation": "O processo de escrever código rapidamente com a ajuda da inteligência artificial, simplesmente descrevendo o que você deseja, sem se prender a detalhes técnicos."
+    },
+    {
+      "term": "agentic engineering",
+      "explanation": "A disciplina de projetar e desenvolver software autônomo que pode tomar suas próprias decisões e atingir o objetivo."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Software inteligente que utiliza ferramentas para executar tarefas atribuídas e pode tomar decisões por conta própria."
+    },
+    {
+      "term": "agentic engineering platform",
+      "explanation": "Ambiente de desenvolvimento abrangente para criação, gerenciamento e teste de software autônomo inteligente."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Uma ferramenta de inteligência artificial que escreve códigos, corrige erros e conclui projetos agindo como um programador."
+    },
+    {
+      "term": "API",
+      "explanation": "Uma ponte digital que permite que dois softwares diferentes se comuniquem e troquem dados."
+    }
+  ]
+}

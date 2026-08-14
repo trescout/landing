@@ -1,0 +1,284 @@
+{
+  "date": "2026-08-13",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "O design de diagramas, desenvolvido por Cathryn Lavery, inclui 29 tipos diferentes de diagramas editoriais preparados para a ferramenta de codificação apoiada por inteligência artificial Claude Code. Esta biblioteca apresenta diagramas complexos diretamente usando HTML e gráficos vetoriais escaláveis ​​(SVG) em vez de ferramentas de diagramação padrão.",
+          "meta": "HTML · ★ 11.456 · +2.855 hoje"
+        },
+        {
+          "title": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "summary": "Macro é um espaço de trabalho que combina ferramentas de negócios como e-mail, chat, documentos e gerenciamento de tarefas com uma memória comum de inteligência artificial. Desenvolvido com a linguagem Rust, esta plataforma conecta diferentes fluxos de trabalho em uma única interface.",
+          "meta": "Rust · ★ 2.066 · +227 hoje"
+        },
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "summary": "O ppt-master baseado em Python é uma ferramenta de inteligência artificial que converte documentos ou tópicos em arquivos de apresentação editáveis ​​(PowerPoint). O software permite que os usuários usem seus próprios modelos, transformando texto em apresentações profissionais com formas nativas, efeitos de transição, animações e gráficos baseados em dados.",
+          "meta": "Python · ★ 45.916 · +476 hoje",
+          "returning": true
+        },
+        {
+          "title": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "summary": "RAGFlow é um mecanismo de geração baseada em busca (RAG) de código aberto que cria uma camada de contexto para grandes modelos de linguagem (LLM). O objetivo é melhorar o processamento de dados e a precisão das respostas, combinando técnicas avançadas de RAG com capacidades de agente.",
+          "meta": "Go · ★ 87.648 · +139 hoje"
+        },
+        {
+          "title": "NVIDIA-NeMo/Switchyard",
+          "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+          "summary": "Desenvolvido pela NVIDIA, Switchyard é um mecanismo de inferência de inteligência artificial de alto desempenho escrito em linguagem Rust. Ele oferece um ambiente de tempo de execução otimizado para executar modelos de linguagem grandes (LLM) com eficiência em diferentes infraestruturas de hardware.",
+          "meta": "Rust · ★ 923 · +421 hoje"
+        },
+        {
+          "title": "ZuodaoTech/everyone-can-use-english",
+          "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+          "summary": "Everyone-can-use-english é um projeto educacional de código aberto que apoia o processo de aprendizagem de inglês com um currículo estruturado. Oferece métodos práticos e recursos de estudo para usuários que desejam melhorar suas habilidades no idioma.",
+          "meta": "TypeScript · ★ 36.233 · +86 hoje"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot é uma ferramenta que automatiza a coleta de inteligência de código aberto (OSINT) para inteligência de ameaças e processos de mapeamento de superfície de ataque. Este software baseado em Python acelera a análise de segurança coletando dados sobre os sistemas alvo.",
+          "meta": "Python · ★ 20.413 · +74 hoje",
+          "returning": true
+        },
+        {
+          "title": "localsend/localsend",
+          "url": "https://github.com/localsend/localsend",
+          "summary": "LocalSend é um aplicativo de código aberto que permite o compartilhamento de arquivos entre diferentes sistemas operacionais. Ele cria uma alternativa independente de plataforma ao recurso AirDrop oferecido pelos dispositivos Apple.",
+          "meta": "Dart · ★ 87.961 · +213 hoje"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "summary": "LTX-2, desenvolvido pela Lightricks, é um modelo de inteligência artificial (modelo generativo) que produz áudio e vídeo. Este pacote fornece as ferramentas Python necessárias para executar os processos de inferência do modelo e ajustá-lo usando o método de adaptação de baixa ordem (LoRA).",
+          "meta": "Python · ★ 8.759 · +65 hoje",
+          "returning": true
+        },
+        {
+          "title": "embabel/embabel-agent",
+          "url": "https://github.com/embabel/embabel-agent",
+          "summary": "Embabel é um framework projetado para desenvolver agentes de inteligência artificial rodando na Java Virtual Machine (JVM). Esta estrutura, escrita em Kotlin, facilita a integração de capacidades generativas de IA em ecossistemas de software empresarial.",
+          "meta": "Kotlin · ★ 4.255 · +40 hoje"
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Desenvolvido pela Cactus Compute, o Needle oferece um modelo básico de 14 MB que pode ser executado em pequenos hardwares, como telefones, dispositivos vestíveis e robôs. Essa estrutura leve visa executar aplicativos de inteligência artificial localmente em dispositivos de ponta com poder de processamento limitado.",
+          "meta": "Python · ★ 4.412 · +315 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+          "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+          "summary": "A ferramenta de segurança de rede Tailscale descobriu que um erro de redefinição de log de gravação antecipada do SQLite de 16 anos estava na raiz da corrupção do banco de dados. A empresa eliminou o risco de integridade dos dados ao lançar a atualização que corrigiu esse problema técnico.",
+          "meta": "914 pontos · 177 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49272832",
+              "popularity": 914,
+              "engagementCount": 177
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal",
+              "popularity": 91,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "DeepSeek V4 Pro 0813",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+          "summary": "DeepSeek V4 Pro 0813 é um novo modelo de linguagem disponível através da plataforma OpenRouter que fornece acesso a modelos de IA multimodais. Este modelo visa demonstrar alto desempenho em tarefas complexas de inferência lógica e codificação.",
+          "meta": "831 pontos · 330 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49274600",
+              "popularity": 831,
+              "engagementCount": 330
+            }
+          ]
+        },
+        {
+          "title": "AI is removing the middle class of software engineering?",
+          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+          "summary": "As ferramentas de inteligência artificial reduzem o espaço de trabalho dos desenvolvedores de software de nível médio, automatizando tarefas básicas nos processos de desenvolvimento de software. Esta mudança traz consigo uma nova estrutura de força de trabalho que permite às empresas alcançar elevada eficiência com menos engenheiros seniores.",
+          "meta": "812 pontos · 740 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49271994",
+              "popularity": 812,
+              "engagementCount": 740
+            }
+          ]
+        },
+        {
+          "title": "License plate reader searches should require a warrant",
+          "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+          "summary": "Está sendo discutido que buscas de rastreamento de veículos feitas através de leitores automáticos de placas deveriam estar sujeitas a um mandado de busca legal com base na privacidade pessoal. A tónica está nos riscos colocados pela utilização descontrolada dos dados recolhidos por estes sistemas sobre a liberdade de circulação dos indivíduos.",
+          "meta": "568 pontos · 336 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49273165",
+              "popularity": 568,
+              "engagementCount": 336
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Desenvolvido pela Alibaba, Qwen3.8-2.4T-A95B é um grande modelo de linguagem focado na geração de texto. Este modelo, compartilhado na plataforma Hugging Face, é utilizado em diversas tarefas de processamento de linguagem natural com sua estrutura treinada em grandes conjuntos de dados.",
+          "meta": "♥ 587 · 978 downloads",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49273478",
+              "popularity": 558,
+              "engagementCount": 128
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Persistent Recursive Worlds Enable Autonomous Software Evolution",
+          "url": "https://huggingface.co/papers/2608.10450",
+          "summary": "EvoX Genesis define projetos de software como mundos persistentes e recursivos, garantindo um processo de desenvolvimento contínuo apesar da vida útil limitada dos agentes de inteligência artificial. Esta abordagem mantém o próprio software como uma estrutura centralizada, permitindo que agentes de codificação locais avancem no projeto com tarefas ad-hoc.",
+          "meta": "1 curtidas · 1 comentários"
+        },
+        {
+          "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution",
+          "url": "https://huggingface.co/papers/2608.00677",
+          "summary": "OpenART é um ambiente de teste aberto desenvolvido para avaliar os riscos cumulativos de agentes de inteligência artificial em fluxos de trabalho de longo prazo. Ao contrário dos tradicionais testes estáticos de benchmark, visa detectar vulnerabilidades (red teaming) de forma escalável, simulando as interações dos agentes em uma situação compartilhada.",
+          "meta": "62 curtidas · 1 comentários"
+        },
+        {
+          "title": "AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models",
+          "url": "https://huggingface.co/papers/2608.06729",
+          "summary": "AtlasVLA é uma estrutura de modelo Visão-Linguagem-Ação que permite aos robôs lembrar objetos fora de vista e o progresso da tarefa. Este método permite que sistemas robóticos superem a limitação da resposta instantânea e gerenciem tarefas complexas e de longo prazo de forma mais consistente.",
+          "meta": "1 curtidas · 1 comentários"
+        },
+        {
+          "title": "Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models",
+          "url": "https://huggingface.co/papers/2608.10708",
+          "summary": "A autogeometria é um método que elimina inconsistências geométricas em dados como profundidade e posição da câmera produzidos por modelos de base de visão sem exigir treinamento adicional durante a fase de teste. Esta abordagem torna os resultados tridimensionais dos modelos mais consistentes, sem a necessidade de métodos tradicionais que criam custos computacionais complexos.",
+          "meta": "8 curtidas · 1 comentários"
+        },
+        {
+          "title": "Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives",
+          "url": "https://huggingface.co/papers/2608.08160",
+          "summary": "Grandes modelos de linguagem têm dificuldade em manter a consistência lógica, apesar das intervenções do usuário na narrativa interativa. Desenvolvido por pesquisadores, o NCP-Bench oferece uma estrutura de avaliação padrão para medir a integridade narrativa de longo prazo desses modelos.",
+          "meta": "20 curtidas · 2 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I hate packaging my software for Linux",
+          "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+          "summary": "Os desenvolvedores de software enfrentam sérios problemas de compatibilidade no processo de empacotamento de aplicativos devido à diversidade das distribuições Linux. Diferentes requisitos de sistema e formatos de pacotes complicam os processos de implantação dos desenvolvedores, levando à perda de tempo.",
+          "meta": "71 pontos · 57 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux",
+              "popularity": 71,
+              "engagementCount": 57
+            }
+          ]
+        },
+        {
+          "title": "Guide to (not) fucking up QR codes",
+          "url": "https://infosec.exchange/@rebane2001/117078420917152774",
+          "summary": "A utilização de códigos QR envolve detalhes técnicos que requerem atenção em termos de segurança e acessibilidade. Para reduzir os riscos de projeto defeituoso e de direcionamento incorreto, a clareza visual dos códigos e a segurança da conexão precisam ser verificadas.",
+          "meta": "83 pontos · 8 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/omcyaz/guide_not_fucking_up_qr_codes",
+              "popularity": 83,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "SVG",
+      "explanation": "Arquivo de imagem digital desenhado com fórmulas matemáticas que pode ser ampliado ou reduzido conforme desejado sem perda de qualidade."
+    },
+    {
+      "term": "ADE",
+      "explanation": "Um ambiente de trabalho digital onde todas as ferramentas são utilizadas para acelerar os processos de desenvolvimento de software."
+    },
+    {
+      "term": "framework",
+      "explanation": "Um conjunto de bibliotecas e ferramentas que fornecem a estrutura básica e facilitam o desenvolvimento de software."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Um modelo básico de inteligência artificial projetado para executar muitas tarefas diferentes, sendo treinado com uma ampla gama de dados."
+    },
+    {
+      "term": "PowerPoint",
+      "explanation": "Um programa de preparação de apresentações que permite apresentar informações em slides visuais."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Um método que permite que a inteligência artificial extraia informações de seus documentos atuais e privados enquanto gera respostas."
+    },
+    {
+      "term": "inference",
+      "explanation": "O processo de uma inteligência artificial treinada produzindo uma resposta a uma nova pergunta usando as informações que aprendeu."
+    },
+    {
+      "term": "runtime",
+      "explanation": "O período durante o qual um software é executado no computador e executa ativamente sua tarefa."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Um método de coleta e análise de informações de fontes disponíveis publicamente na Internet."
+    },
+    {
+      "term": "generative model",
+      "explanation": "Inteligência artificial que pode criar novos conteúdos nunca vistos antes, do zero, usando os padrões que aprendeu."
+    },
+    {
+      "term": "LoRA",
+      "explanation": "É uma técnica para especializar um grande modelo de inteligência artificial em um assunto específico, atualizando apenas uma pequena parte dele, sem alterar todo o modelo."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-20",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "summary": "Este livro de código aberto sobre agentes de inteligência artificial (agentes de IA) cobre de forma abrangente princípios de design e aplicações de engenharia. Além de informações teóricas, inclui códigos de aplicação divididos em seções e arquivos PDF compilados.",
+          "meta": "Python · ★ 7.362 · +1.734 hoje"
+        },
+        {
+          "title": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "summary": "Ktransformers oferece uma estrutura flexível que suporta otimizações de hardware heterogêneas nos processos de inferência e ajuste fino de grandes modelos de linguagem. Essa estrutura visa aumentar o desempenho do modelo utilizando diferentes recursos de hardware de forma eficiente.",
+          "meta": "Python · ★ 18.491 · +360 hoje"
+        },
+        {
+          "title": "andrewrabert/jellium-desktop",
+          "url": "https://github.com/andrewrabert/jellium-desktop",
+          "summary": "Jellium-desktop é um cliente de desktop não oficial desenvolvido em Rust para o servidor de mídia Jellyfin. O software oferece uma interface nativa que permite aos usuários acessar bibliotecas de mídia diretamente através do sistema operacional.",
+          "meta": "Rust · ★ 1.342 · +43 hoje"
+        },
+        {
+          "title": "microsoft/terminal",
+          "url": "https://github.com/microsoft/terminal",
+          "summary": "A Microsoft está combinando o Windows Terminal e o host de console tradicional do Windows sob o mesmo teto. Este projeto de código aberto, desenvolvido em linguagem C++, reestrutura a experiência de linha de comando com uma interface moderna e abas personalizáveis.",
+          "meta": "C++ · ★ 104.241 · +59 hoje"
+        },
+        {
+          "title": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "summary": "AstrBot é uma estrutura de desenvolvimento de agentes de inteligência artificial que se integra a diversas plataformas de mensagens instantâneas, grandes modelos de linguagem e plug-ins. Esta ferramenta baseada em Python permite a criação de assistentes de IA personalizáveis ​​como uma alternativa de código aberto.",
+          "meta": "Python · ★ 36.787 · +83 hoje"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua visa dimensionar tecnologias de uso de computadores com drivers de código aberto e gerenciamento de frota independente de sistema operacional. A plataforma oferece ferramentas padronizadas de benchmarking para processos de treinamento, avaliação e geração de dados de modelos de inteligência artificial.",
+          "meta": "HTML · ★ 20.286 · +64 hoje",
+          "returning": true
+        },
+        {
+          "title": "Canner/WrenAI",
+          "url": "https://github.com/Canner/WrenAI",
+          "summary": "Desenvolvido por Canner, WrenAI é uma ferramenta de business intelligence generativa (BI generativo) de código aberto que exporta automaticamente dados para painéis e gráficos, convertendo linguagem natural em consultas de banco de dados (texto para SQL). A plataforma fornece processos confiáveis ​​de análise de dados para agentes de IA por meio de uma camada de contexto gerenciável que suporta mais de vinte fontes de dados.",
+          "meta": "Python · ★ 16.314 · +121 hoje"
+        },
+        {
+          "title": "PKUFlyingPig/cs-self-learning",
+          "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+          "summary": "Este guia, preparado por estudantes da Universidade de Pequim, oferece um roteiro abrangente para aqueles que desejam aprender por conta própria na área de ciência da computação. Combina um currículo amplo, desde cursos básicos até especializações, com recursos e métodos de estudo.",
+          "meta": "HTML · ★ 74.290 · +134 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+          "url": "https://news.ycombinator.com/item?id=48968606",
+          "summary": "Um engenheiro de software redesenhou um sistema de automação de centro de boliche comercial de US$ 120 mil usando microcontroladores ESP32 de US$ 1.600. Esta solução, desenvolvida com sistemas embarcados, cria uma alternativa econômica ao caro hardware industrial.",
+          "meta": "2.036 pontos · 212 comentários"
+        },
+        {
+          "title": "Qwen 3.8",
+          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+          "summary": "Desenvolvido pela Alibaba, o Qwen 3.8 introduz um novo esquema de preços e tokens para grandes modelos de linguagem. Este modelo fornece capacidade de computação acessível aos desenvolvedores por meio de sua infraestrutura baseada em nuvem.",
+          "meta": "846 pontos · 579 comentários"
+        },
+        {
+          "title": "Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "summary": "Claude Code começou a usar Bun como tempo de execução de JavaScript para acelerar o ambiente de trabalho. Esta migração visa melhorar o desempenho das ferramentas de desenvolvimento através da integração de componentes de infraestrutura escritos em Rust.",
+          "meta": "472 pontos · 629 comentários"
+        },
+        {
+          "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+          "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+          "summary": "A produção escalonável e o gerenciamento da cadeia de suprimentos no processo de desenvolvimento de hardware apresentam desafios concretos que os empreendedores focados em software podem superar. A experiência adquirida com a venda de 2.500 gravadores MIDI mostra que o empreendedorismo em hardware é mais acessível do que se pensava.",
+          "meta": "461 pontos · 209 comentários"
+        },
+        {
+          "title": "Minecraft: Java Edition now uses SDL3",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+          "summary": "Minecraft: Java Edition atualizou a biblioteca Simple DirectMedia Layer usada para gráficos e gerenciamento de dispositivos de entrada para a terceira versão (SDL3). Esta atualização moderniza a interação do hardware do jogo e fornece uma infraestrutura de desempenho mais estável.",
+          "meta": "293 pontos · 200 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Software autônomo que pode tomar decisões por conta própria e executar as tarefas atribuídas passo a passo."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Retreinar uma IA de uso geral com um pequeno conjunto de dados para se especializar em um assunto específico."
+    },
+    {
+      "term": "desktop client",
+      "explanation": "Um aplicativo de software que você baixa para o seu computador e usa diretamente na área de trabalho."
+    },
+    {
+      "term": "console host",
+      "explanation": "Um ambiente de janela no qual comandos baseados em texto são executados no computador e os resultados são exibidos."
+    },
+    {
+      "term": "development framework",
+      "explanation": "Uma estrutura de trabalho que agiliza o trabalho de desenvolvimento de software e fornece estruturas básicas prontas."
+    }
+  ]
+}

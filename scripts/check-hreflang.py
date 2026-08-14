@@ -51,8 +51,8 @@ for p in sorted(glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True)):
         continue
     denetlenen += 1
     html = open(p, encoding="utf-8").read()
-    mevcut = set(re.findall(r'<link rel="alternate" hreflang="([a-z-]+)" href="([^"]+)"', html))
-    beklenen_set = set(re.findall(r'hreflang="([a-z-]+)" href="([^"]+)"', beklenen))
+    mevcut = set(re.findall(r'<link rel="alternate" hreflang="([A-Za-z-]+)" href="([^"]+)"', html))
+    beklenen_set = set(re.findall(r'hreflang="([A-Za-z-]+)" href="([^"]+)"', beklenen))
 
     for kod, url in sorted(beklenen_set - mevcut):
         sorunlar.append(f"{rel}: hreflang={kod} eksik → {url}")

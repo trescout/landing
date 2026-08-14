@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-12",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "Os plug-ins OpenAI permitem que modelos de linguagem acessem dados atuais e interajam com aplicativos de terceiros. Essa estrutura oferece um modelo de extensibilidade que permite que sistemas de inteligência artificial executem tarefas utilizando ferramentas externas.",
+          "meta": "JavaScript · ★ 4.462 · +29 hoje",
+          "returning": true
+        },
+        {
+          "title": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "summary": "Home Assistant é uma plataforma de automação residencial de código aberto que prioriza o controle local e a privacidade. Este sistema, desenvolvido em linguagem Python, permite aos usuários gerenciar seus dispositivos inteligentes através de uma rede central.",
+          "meta": "Python · ★ 88.765 · +80 hoje"
+        },
+        {
+          "title": "DayuanJiang/next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "summary": "Este aplicativo baseado em Next.js combina a ferramenta de diagramação draw.io com recursos generativos de IA. Os usuários podem criar diagramas visuais por meio de comandos de linguagem natural e editar seus diagramas existentes com suporte de inteligência artificial.",
+          "meta": "TypeScript · ★ 33.359 · +81 hoje"
+        },
+        {
+          "title": "nasa/fprime",
+          "url": "https://github.com/nasa/fprime",
+          "summary": "Desenvolvido pela NASA, F´ é uma estrutura de código aberto projetada para software de voo e sistemas embarcados. Escrita em C++, esta estrutura oferece um ambiente de desenvolvimento modular para naves espaciais e sistemas complexos.",
+          "meta": "C++ · ★ 11.523 · +22 hoje"
+        },
+        {
+          "title": "nuxt/nuxt",
+          "url": "https://github.com/nuxt/nuxt",
+          "summary": "Nuxt é uma estrutura full-stack usada para desenvolver aplicativos baseados em Vue. Oferecida com suporte TypeScript, esta ferramenta otimiza a renderização do lado do servidor e os processos de criação de sites estáticos.",
+          "meta": "TypeScript · ★ 60.747 · +16 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Prefer strict tables in SQLite",
+          "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+          "summary": "O uso de tabelas estritas no SQLite evita entradas inesperadas de dados, impondo restrições de tipo de dados. Essa estrutura reduz erros aumentando a segurança de tipo no esquema do banco de dados.",
+          "meta": "254 pontos · 127 comentários"
+        },
+        {
+          "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+          "url": "https://antjs.org",
+          "summary": "Ant oferece um ecossistema abrangente e de tempo de execução baseado em seu próprio mecanismo JavaScript. Ele fornece um ambiente de desenvolvimento ponta a ponta com gerenciador de pacotes, registro de aplicativos, plataforma de hospedagem e ferramentas que permitem o desenvolvimento de aplicativos de desktop nativos.",
+          "meta": "231 pontos · 101 comentários"
+        },
+        {
+          "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "summary": "A interface de linha de comando (CLI) do Grok Build, desenvolvida pela xAI, analisa arquivos em diretórios locais e os envia para o servidor. Neste processo, o conteúdo da base de código é processado remotamente para criar a janela de contexto do modelo.",
+          "meta": "226 pontos · 111 comentários"
+        },
+        {
+          "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+          "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+          "summary": "As relações financeiras entre fornecedores de computação em nuvem, como Nvidia, CoreWeave e Nebius, criam um fluxo cíclico de capital que apoia o crescimento no mercado de unidades de processamento gráfico (GPU). Esta estrutura cria um modelo de ecossistema no qual as empresas de tecnologia investem nos seus clientes para financiar as suas próprias vendas de hardware.",
+          "meta": "219 pontos · 71 comentários"
+        },
+        {
+          "title": "We scaled PgBouncer to 4x throughput",
+          "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+          "summary": "Os engenheiros da ClickHouse desenvolveram otimizações que quadruplicaram o rendimento do PgBouncer, um pooler de conexões de banco de dados. As melhorias visam superar gargalos de desempenho em ambientes PostgreSQL de alto tráfego.",
+          "meta": "197 pontos · 39 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "summary": "ThinkingCap-Qwen3.6-27B, desenvolvido pela Bottlecapai, é um modelo de inteligência artificial multimodal que produz resultados baseados em texto por meio do processamento de dados visuais e de texto. Este modelo, baseado na arquitetura Qwen, é utilizado nos processos de análise e interpretação de conteúdos visuais complexos.",
+          "meta": "♥ 240 · 4.128 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que permite gerenciar programas inserindo comandos escritos em vez de usar um mouse."
+    },
+    {
+      "term": "rendering",
+      "explanation": "O processo de um computador processar dados brutos e transformá-los em um elemento visual ou gráfico que vemos na tela."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Pequenos plug-ins que são instalados posteriormente para adicionar funcionalidades adicionais aos recursos existentes de um software."
+    },
+    {
+      "term": "extensibility",
+      "explanation": "A adequação de um sistema a ser desenvolvido adicionando novas funcionalidades sem perturbar sua estrutura básica."
+    }
+  ]
+}

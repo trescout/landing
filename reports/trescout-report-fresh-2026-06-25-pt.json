@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-25",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "interviewstreet/hiring-agent",
+          "url": "https://github.com/interviewstreet/hiring-agent",
+          "summary": "Agente de contratação é um agente de inteligência artificial (agente de IA) projetado para avaliar e pontuar currículos. Esta ferramenta, desenvolvida em linguagem Python, tem como objetivo automatizar processos de seleção de candidatos em processos de recrutamento.",
+          "meta": "Python · ★ 2.482 · +203 hoje"
+        },
+        {
+          "title": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "summary": "Desenvolvido pelo Google, o Flutter permite criar rapidamente interfaces de usuário para plataformas móveis, web e desktop usando uma única base de código. Esta estrutura de código aberto, baseada na linguagem de programação Dart, é amplamente preferida para o desenvolvimento de aplicativos visualmente ricos e de alto desempenho.",
+          "meta": "Dart · ★ 177.494 · +73 hoje"
+        },
+        {
+          "title": "andreknieriem/headunit-revived",
+          "url": "https://github.com/andreknieriem/headunit-revived",
+          "summary": "O projeto revivido da unidade principal fornece um aplicativo que permite visualizar a interface do Android Auto em diferentes telas. Este software, desenvolvido em linguagem Kotlin, fornece uma solução alternativa de exibição para sistemas de infoentretenimento automotivos.",
+          "meta": "Kotlin · ★ 1.484 · +41 hoje"
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "Desenvolvido pela Stablyai, o Orca oferece um ambiente de desenvolvimento de agentes que permite gerenciar vários agentes de inteligência artificial simultaneamente. Usando sua assinatura, os usuários podem executar vários agentes de codificação em plataformas desktop e móveis.",
+          "meta": "TypeScript · ★ 7.044 · +331 hoje"
+        },
+        {
+          "title": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "summary": "Desenvolvido pelo Google Labs, DESIGN.md fornece uma especificação de formato estruturado para passar credenciais visuais para agentes de codificação. Este padrão garante que os sistemas de design sejam compreendidos de forma consistente e permanente pelos agentes de inteligência artificial.",
+          "meta": "TypeScript · ★ 17.720 · +619 hoje"
+        },
+        {
+          "title": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "summary": "Zapret-discord-youtube é uma ferramenta que visa fornecer acesso a plataformas restritas, criptografando o tráfego de rede ou usando métodos de fragmentação de pacotes. Foi desenvolvido especificamente para superar barreiras de acesso a serviços como Discord e YouTube.",
+          "meta": "Batchfile · ★ 30.060 · +61 hoje"
+        },
+        {
+          "title": "kunchenguid/no-mistakes",
+          "url": "https://github.com/kunchenguid/no-mistakes",
+          "summary": "Desenvolvido com a linguagem Go, no-mistakes é uma ferramenta de linha de comando projetada para evitar que desenvolvedores de software enviem códigos defeituosos (git push). Ao ser executado no ambiente de desenvolvimento local, ele fornece uma camada de segurança que evita que alterações indesejadas sejam inseridas na base de código.",
+          "meta": "Go · ★ 2.519 · +110 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "OpenAI unveils its first custom chip, built by Broadcom",
+          "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+          "summary": "A OpenAI anunciou o Jalapeno, o primeiro chip customizado desenvolvido em colaboração com a Broadcom. Este hardware foi projetado para acelerar processos de inferência e reduzir custos operacionais de modelos de inteligência artificial.",
+          "meta": "663 pontos · 372 comentários"
+        },
+        {
+          "title": "RubyLLM: A Ruby framework for all major AI providers",
+          "url": "https://rubyllm.com/",
+          "summary": "RubyLLM oferece um framework que permite que aplicações desenvolvidas com a linguagem de programação Ruby acessem diversos provedores de inteligência artificial. Esta ferramenta padroniza o processo pelo qual os desenvolvedores integram grandes modelos de linguagem em seus projetos baseados em Ruby.",
+          "meta": "378 pontos · 61 comentários"
+        },
+        {
+          "title": "Krea 2: SOTA open-weights 12B image model",
+          "url": "https://www.krea.ai/blog/krea-2-technical-report",
+          "summary": "Krea 2 é um modelo aberto com 12 bilhões de parâmetros que oferece alto desempenho nos processos de criação de imagens. Otimizado para melhorar a qualidade da produção visual, este modelo pretende estabelecer um novo padrão na área de síntese de imagens.",
+          "meta": "372 pontos · 40 comentários"
+        },
+        {
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "summary": "A Anthropic alega que o Alibaba copiou as capacidades do modelo Claude AI sem permissão. A empresa argumenta que os pesos dos modelos e as características arquitetônicas foram extraídos usando métodos não autorizados.",
+          "meta": "338 pontos · 575 comentários"
+        },
+        {
+          "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
+          "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
+          "summary": "Os túneis Secure Shell (SSH) são usados ​​para transmitir com segurança o tráfego de rede usando métodos de encaminhamento de porta locais e remotos. Este guia explica com exemplos práticos os processos técnicos que proporcionam acesso seguro aos dados entre diferentes servidores, criptografando o tráfego de rede.",
+          "meta": "316 pontos · 60 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M é um modelo de linguagem que executa geração de texto com suporte estendido a janelas de contexto. É apresentado no formato GGUF quantizado, que permite operação em dispositivos de poucos recursos.",
+          "meta": "♥ 388 · 63.637 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "LLM",
+      "explanation": "Um modelo avançado de inteligência artificial que compreende, resume ou produz novos conteúdos através da aprendizagem da linguagem humana."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Um assistente digital que interage com seu ambiente e toma suas próprias decisões para executar os comandos que recebe do usuário."
+    },
+    {
+      "term": "user interface",
+      "explanation": "A área de exibição visual e controle que permite ao usuário interagir com um dispositivo ou software."
+    },
+    {
+      "term": "framework",
+      "explanation": "Um conjunto de estruturas e regras prontas usadas para agilizar o trabalho de desenvolvimento de software."
+    },
+    {
+      "term": "infotainment systems",
+      "explanation": "Painel digital em veículos que oferece recursos de navegação e entretenimento, como música."
+    },
+    {
+      "term": "agent development environment",
+      "explanation": "Ambiente de desenvolvimento de software personalizado usado para criar, testar e gerenciar assistentes de inteligência artificial."
+    },
+    {
+      "term": "design systems",
+      "explanation": "Uma biblioteca padrão de cores, fontes e componentes usados ​​para garantir consistência no design de um aplicativo."
+    },
+    {
+      "term": "packet fragmentation",
+      "explanation": "Processo de divisão dos dados enviados pela Internet em pedaços menores de acordo com a capacidade de carga da rede."
+    }
+  ]
+}

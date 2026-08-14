@@ -1,0 +1,75 @@
+{
+  "date": "2026-07-31",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "WhiskeySockets/Baileys",
+          "url": "https://github.com/WhiskeySockets/Baileys",
+          "summary": "Baileys oferece uma interface baseada em soquete (API) baseada no protocolo WhatsApp Web e permite o desenvolvimento de aplicativos baseados em TypeScript e JavaScript. Graças a esta biblioteca, os desenvolvedores podem integrar diretamente as funções de mensagens do WhatsApp em seus próprios projetos.",
+          "meta": "JavaScript · ★ 10.485 · +19 hoje"
+        },
+        {
+          "title": "agavra/tuicr",
+          "url": "https://github.com/agavra/tuicr",
+          "summary": "Desenvolvido com a linguagem Rust, tuicr é uma ferramenta de revisão de código baseada na interface do usuário do terminal que oferece suporte a atalhos de teclado do Vim. Ele permite que os desenvolvedores gerenciem seu processo de revisão de código diretamente do terminal.",
+          "meta": "Rust · ★ 1.940 · +190 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "UEFA and its national associations will not participate in FIFA competitions",
+          "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+          "summary": "A UEFA e as suas federações nacionais anunciaram que não participarão nos novos formatos de torneio planeados pela FIFA. Esta decisão reflecte diferenças de opinião relativamente à gestão e estrutura organizacional do calendário internacional do futebol.",
+          "meta": "925 pontos · 501 comentários"
+        },
+        {
+          "title": "Read this before you buy that TV streaming stick",
+          "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+          "summary": "Os dispositivos de streaming de televisão apresentam riscos de malware e rastreamento de dados não autorizados que comprometem a segurança dos dispositivos. Os usuários devem revisar as políticas de privacidade e atualizações de software dos dispositivos, principalmente ao escolher hardware oferecido por marcas desconhecidas.",
+          "meta": "671 pontos · 384 comentários"
+        },
+        {
+          "title": "Stacked PRs are now live on GitHub",
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+          "summary": "O GitHub abriu o recurso de solicitações pull empilhadas para visualização pública para acelerar os processos de desenvolvimento de software. Esse recurso permite que os desenvolvedores enviem grandes mudanças em partes menores e gerenciáveis, interligadas.",
+          "meta": "582 pontos · 195 comentários"
+        },
+        {
+          "title": "Advancing the price-performance frontier with GPT‑5.6",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+          "summary": "A OpenAI visa reduzir os custos de transação expandindo o limite preço-desempenho com seu modelo de linguagem de nova geração GPT-5.6. O modelo otimiza custos de computação em tarefas complexas com melhorias arquitetônicas que oferecem maior eficiência.",
+          "meta": "547 pontos · 355 comentários"
+        },
+        {
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "summary": "Gemini Robotics 2, desenvolvido pelo Google DeepMind, permite que robôs gerenciem seus movimentos físicos e percepções ambientais com inteligência integrada (inteligência de corpo inteiro). Este modelo permite que os robôs executem tarefas complexas com maior precisão e adaptabilidade.",
+          "meta": "531 pontos · 423 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "owensong/Inflect-Micro-v2",
+          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "summary": "Inflect-Micro-v2 é um modelo compacto de inteligência artificial desenvolvido para operações de conversão de texto em fala. Centra-se em processos rápidos de síntese de fala com baixo consumo de recursos.",
+          "meta": "♥ 328 · 1.100 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "API",
+      "explanation": "Uma ponte digital que permite que dois softwares diferentes troquem dados entre si."
+    }
+  ]
+}

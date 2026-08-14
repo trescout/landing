@@ -1,0 +1,267 @@
+{
+  "date": "2026-06-28",
+  "editorial": "A agenda tecnológica atual consiste em protocolos de mensagens criptografadas de ponta a ponta e soluções de nuvem pessoal de código aberto. Os recursos para desenvolvedores e software de direção autônoma no GitHub se destacam como indicadores concretos do crescente interesse na transparência dos sistemas.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "summary": "SimpleX é a primeira rede de mensagens que opera sem usar identificadores de usuário. Desenvolvido em linguagem Haskell, a plataforma oferece uma experiência de comunicação ponta a ponta orientada para a privacidade graças à sua estrutura descentralizada.",
+          "meta": "Haskell · ★ 14.116 · +1.469 hoje"
+        },
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "A Berkshire da era da IA ​​é uma estrutura de pesquisa baseada em metodologias de investidores e que realiza análises de investimento de valor com uma estrutura multiagente. Tem como objetivo realizar análises contraditórias sobre dados financeiros usando o Código Claude ou a infraestrutura do Codex.",
+          "meta": "Python · ★ 4.628 · +685 hoje"
+        },
+        {
+          "title": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "summary": "Como sistema operacional desenvolvido para sistemas robóticos, o Openpilot atualiza os sistemas de assistência ao motorista em mais de 300 modelos de veículos. Esta plataforma de código aberto, escrita em Python, visa padronizar software automotivo.",
+          "meta": "Python · ★ 62.144 · +322 hoje"
+        },
+        {
+          "title": "IceWhaleTech/CasaOS",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "summary": "CasaOS é um sistema de nuvem pessoal de código aberto que facilita o gerenciamento de aplicativos baseados em Docker. Esta plataforma, desenvolvida na linguagem Go, permite aos usuários armazenar dados e gerenciar aplicações em seus próprios servidores através de uma interface central.",
+          "meta": "Go · ★ 35.892 · +502 hoje"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev é uma lista de recursos que compila soluções de software como serviço (SaaS), plataforma como serviço (PaaS) e infraestrutura como serviço (IaaS) que oferecem um nível gratuito para desenvolvedores de software e profissionais de operações. Ele categoriza os serviços tecnológicos atuais para facilitar o acesso dos desenvolvedores a ferramentas gratuitas.",
+          "meta": "HTML · ★ 124.282 · +459 hoje"
+        },
+        {
+          "title": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "summary": "Desenvolvido pelo Google Labs, DESIGN.md fornece uma especificação de formato estruturado para passar credenciais visuais para agentes de codificação. Este padrão permite a criação de uma linguagem visual consistente em processos de desenvolvimento de software apoiados por inteligência artificial, integrando sistemas de design na base de código.",
+          "meta": "TypeScript · ★ 22.537 · +1.541 hoje"
+        },
+        {
+          "title": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "summary": "Microsoft PowerToys são uma coleção de utilitários de sistema que aumentam a produtividade e a personalização do sistema operacional Windows. É um pacote de software de código aberto que permite aos usuários personalizar a experiência do desktop.",
+          "meta": "C · ★ 135.772 · +57 hoje"
+        },
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "summary": "PPT-Master é uma ferramenta alimentada por IA que converte documentos diretamente em arquivos de apresentação editáveis ​​(PPTX). O sistema traduz texto em apresentações personalizáveis ​​com figuras nativas, animações e notas de áudio do orador.",
+          "meta": "Python · ★ 33.348 · +589 hoje"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "Usando agentes de codificação de inteligência artificial (agentes de codificação de IA), este modelo permite copiar qualquer site com um único comando. A ferramenta baseada em TypeScript oferece uma estrutura projetada para automatizar processos de desenvolvimento web.",
+          "meta": "TypeScript · ★ 22.347 · +750 hoje"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Gstack oferece um conjunto de 23 ferramentas especializadas, baseadas na configuração Claude Code de Garry Tan, que atendem a diferentes funções, como CEO, designer, gerente de engenharia. Esta estrutura baseada em TypeScript visa automatizar fluxos de trabalho de agentes em processos de desenvolvimento de software.",
+          "meta": "TypeScript · ★ 117.433 · +674 hoje"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler é uma ferramenta de web scraping desenvolvida para coletar dados de postagens e comentários em plataformas de mídia social baseadas na China. Este software baseado em Python automatiza processos estruturados de extração de dados de redes populares como Xiaohongshu, Douyin, Bilibili e Weibo.",
+          "meta": "Python · ★ 53.886 · +394 hoje"
+        },
+        {
+          "title": "Anil-matcha/Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "summary": "Open-Generative-AI é uma plataforma de estúdio de código aberto, sem filtragem de conteúdo e com mais de 200 modelos de criação visual e de vídeo. Os usuários podem gerenciar livremente seus processos de produção visual executando este software, oferecido sob licença do MIT, em seus próprios servidores (auto-hospedados).",
+          "meta": "JavaScript · ★ 21.507 · +255 hoje"
+        },
+        {
+          "title": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "summary": "Cognee é uma plataforma de código aberto que fornece memória de longo prazo para agentes de inteligência artificial. Ele permite que os agentes armazenem e recuperem dados de forma estruturada, usando um mecanismo de gráfico de conhecimento auto-hospedado.",
+          "meta": "Python · ★ 24.230 · +780 hoje"
+        },
+        {
+          "title": "dbt-labs/dbt-core",
+          "url": "https://github.com/dbt-labs/dbt-core",
+          "summary": "A ferramenta de transformação de dados (dbt-core) permite que analistas e engenheiros de dados realizem a transformação de dados usando métodos semelhantes aos processos de desenvolvimento de software. Ele padroniza fluxos de trabalho analíticos integrando controle de versão e processos de teste em data warehouses.",
+          "meta": "Rust · ★ 13.271 · +18 hoje"
+        },
+        {
+          "title": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "summary": "Este guia visual do Claude Code oferece exemplos que vão desde conceitos básicos até agentes avançados de inteligência artificial. Graças aos modelos diretamente copiáveis, os usuários têm acesso a métodos práticos que aceleram os processos de desenvolvimento.",
+          "meta": "Python · ★ 38.728 · +141 hoje"
+        },
+        {
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "summary": "OpenCode é um agente de codificação de código aberto projetado para automatizar processos de desenvolvimento de software. Desenvolvida em linguagem TypeScript, esta ferramenta oferece capacidade de execução autônoma de tarefas em projetos de software.",
+          "meta": "TypeScript · ★ 179.948 · +392 hoje"
+        },
+        {
+          "title": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "summary": "OpenSpec é uma biblioteca TypeScript que oferece suporte a processos de desenvolvimento orientados por especificações para assistentes de código de inteligência artificial. Garante a padronização dos requisitos técnicos durante as etapas de desenvolvimento de software e um andamento mais controlado dos processos de produção de código.",
+          "meta": "TypeScript · ★ 57.272 · +177 hoje"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "A Vibe-Trading oferece um agente comercial pessoal projetado para executar negociações nos mercados financeiros. Este projeto baseado em Python visa executar estratégias de investimento automatizadas por meio da análise de dados de mercado.",
+          "meta": "Python · ★ 13.860 · +92 hoje"
+        },
+        {
+          "title": "keycloak/keycloak",
+          "url": "https://github.com/keycloak/keycloak",
+          "summary": "Keycloak oferece soluções de gerenciamento de identidade e acesso de código aberto para aplicativos e serviços modernos. Esta plataforma baseada em Java é usada para padronizar processos centralizados de autenticação e autorização.",
+          "meta": "Java · ★ 35.354 · +20 hoje"
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open SEO oferece uma alternativa de código aberto para ferramentas pagas como Semrush e Ahrefs. O projeto, desenvolvido em TypeScript, fornece uma infraestrutura transparente e acessível para análise de dados de otimização de mecanismos de busca.",
+          "meta": "TypeScript · ★ 3.549 · +239 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+          "url": "https://github.com/bikini/exploitarium",
+          "summary": "Uma conta anônima do GitHub chamada Bikini compartilha publicamente códigos de exploração preparados para vulnerabilidades de segurança não relatadas anteriormente (dia zero). O repositório em questão contém documentos técnicos e ferramentas de ataque visando vulnerabilidades críticas em diversos softwares.",
+          "meta": "780 pontos · 303 comentários"
+        },
+        {
+          "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "summary": "Desenvolvido pela DeepSeek, o DSpark aumenta a velocidade de inferência de grandes modelos de linguagem com o método de decodificação especulativa. Esta abordagem aumenta a eficiência computacional ao validar as previsões de um modelo pequeno com um modelo grande.",
+          "meta": "754 pontos · 315 comentários"
+        },
+        {
+          "title": "OpenRA",
+          "url": "https://www.openra.net/",
+          "summary": "OpenRA é um mecanismo de jogo de código aberto desenvolvido para rodar jogos clássicos de estratégia em tempo real em sistemas operacionais modernos. O projeto preserva a mecânica original do jogo e oferece atualizações como suporte a telas de alta resolução e infraestrutura multiplayer.",
+          "meta": "665 pontos · 131 comentários"
+        },
+        {
+          "title": "Fintech Engineering Handbook",
+          "url": "https://w.pitula.me/fintech-engineering-handbook/",
+          "summary": "O Manual de Engenharia Fintech aborda requisitos de escalabilidade, segurança e conformidade em sistemas de tecnologia financeira dentro de uma estrutura técnica. Resume os princípios básicos para o processamento de dados financeiros e a estruturação da arquitetura do sistema nos processos de desenvolvimento de software.",
+          "meta": "541 pontos · 170 comentários"
+        },
+        {
+          "title": "The case for physical media ownership",
+          "url": "https://dervis.de/physical/",
+          "summary": "Em contraste com os modelos de subscrição em plataformas de conteúdos digitais, a propriedade de meios físicos oferece uma alternativa à restrição dos direitos de acesso aos ativos digitais. Os utilizadores estão a recorrer a formatos físicos para proteger o seu acesso permanente e direitos de propriedade contra o risco de o conteúdo ser removido das plataformas.",
+          "meta": "423 pontos · 269 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desenvolvido pela Baidu, o Unlimited-OCR é um modelo de imagem texto em texto que converte texto visual em saída baseada em texto. Este modelo fornece recursos de reconhecimento óptico de caracteres projetados para processar dados em documentos complexos.",
+          "meta": "♥ 1.157 · 212.760 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, desenvolvido pela Zai-org, é um modelo de linguagem otimizado para tarefas de geração de texto. Este modelo, que tem atraído grande interesse na plataforma Hugging Face, oferece capacidades de criação de conteúdo em processos de processamento de linguagem natural.",
+          "meta": "♥ 2.702 · 98.994 downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "O modelo Qwythos-9B-Claude-Mythos-5-1M é um modelo de inteligência artificial multimodal que produz saída de texto processando entradas visuais e de texto. O modelo é otimizado para analisar conjuntos de dados complexos com amplo suporte a janelas de contexto.",
+          "meta": "♥ 688 · 712.627 downloads"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Este modelo baseado em Gemma-4-12B, compartilhado no HuggingFace, oferece uma estrutura otimizada para tarefas de geração de texto. O modelo está estruturado no formato GGUF para uso em fluxos de trabalho baseados em agentes e processos de composição complexos.",
+          "meta": "♥ 740 · 206.828 downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M é um modelo de linguagem de código aberto focado na geração de texto. Tem como objetivo aumentar o desempenho em processos complexos de criação de conteúdo com amplo suporte a janelas de contexto.",
+          "meta": "♥ 500 · 30.298 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "user identifiers",
+      "explanation": "Números de identificação exclusivos ou nomes de usuário usados ​​para distinguir uma pessoa de outras em ambientes digitais."
+    },
+    {
+      "term": "end-to-end privacy",
+      "explanation": "Um método de segurança no qual os dados enviados só podem ser lidos pelo remetente e pelo destinatário, e ninguém entre eles pode acessá-los."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "A colaboração de vários softwares de inteligência artificial que colaboram entre si para executar tarefas complexas."
+    },
+    {
+      "term": "adversarial analysis",
+      "explanation": "Testes de segurança realizados simulando ataques maliciosos para encontrar vulnerabilidades em um sistema."
+    },
+    {
+      "term": "driver assistance system",
+      "explanation": "Tecnologias de apoio automático que alertam o condutor ou aumentam a segurança durante a condução."
+    },
+    {
+      "term": "personal cloud",
+      "explanation": "Armazenar arquivos pessoais em uma área privada para que possam ser acessados ​​de qualquer lugar pela internet."
+    },
+    {
+      "term": "free tier",
+      "explanation": "O nível de entrada de um serviço oferecido gratuitamente com recursos limitados."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Uma forma de usar o software alugando-o diretamente pelo navegador da internet, em vez de instalá-lo no computador."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Fornecer infraestrutura pronta pela Internet para desenvolvedores de software desenvolverem seus próprios aplicativos."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Aluguel virtual de necessidades básicas de hardware, como servidores e armazenamento pela internet."
+    },
+    {
+      "term": "design systems",
+      "explanation": "Um conjunto de peças de design prontas e regras usadas para garantir a consistência visual de um aplicativo."
+    },
+    {
+      "term": "utilities",
+      "explanation": "Pequenos utilitários usados ​​para manter, gerenciar e melhorar o desempenho de um computador ou software."
+    },
+    {
+      "term": "PPTX",
+      "explanation": "Formato digital padrão de arquivos usados ​​para preparar apresentações."
+    },
+    {
+      "term": "AI coding agents",
+      "explanation": "Assistentes autônomos de inteligência artificial que podem escrever códigos, corrigir erros e concluir projetos no lugar dos programadores."
+    },
+    {
+      "term": "opinionated tools",
+      "explanation": "Ferramentas de software que predeterminam e impõem a melhor forma de trabalhar, em vez de fornecer muitas opções ao usuário."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "O processo de copiar e salvar dados em sites usando software automático."
+    }
+  ]
+}

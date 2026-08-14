@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-26",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI-berkshire é uma estrutura de pesquisa de investimento em valor que implementa metodologias de investidores como Warren Buffett e Charlie Munger, usando a infraestrutura do Código Claude. O sistema analisa dados financeiros com sua estrutura multiagente e realiza análises adversas.",
+          "meta": "Python · ★ 2.500 · +309 hoje"
+        },
+        {
+          "title": "mauriceboe/TREK",
+          "url": "https://github.com/mauriceboe/TREK",
+          "summary": "TREK é um aplicativo de planejamento de viagens auto-hospedado que oferece recursos como colaboração em tempo real, mapas interativos e gerenciamento de orçamento. Com suporte progressivo a aplicativos da web (PWA) e integração de logon único (SSO), permite que os usuários organizem seus processos de viagem digitalmente.",
+          "meta": "TypeScript · ★ 7.040 · +241 hoje"
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open SEO oferece uma alternativa de código aberto para ferramentas pagas como Semrush e Ahrefs. Este software, desenvolvido para analisar dados de otimização de mecanismos de busca (SEO), tem como objetivo tornar os processos transparentes com sua infraestrutura baseada em TypeScript.",
+          "meta": "TypeScript · ★ 2.736 · +57 hoje"
+        },
+        {
+          "title": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "summary": "A AWS lançou um conjunto de ferramentas que inclui servidores, habilidades e plug-ins do Model Context Protocol para facilitar a interação de agentes de IA com a infraestrutura em nuvem. Este desenvolvimento fornece uma estrutura padronizada que permite que os agentes operem diretamente nos serviços da AWS.",
+          "meta": "Python · ★ 1.209 · +47 hoje"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "summary": "Desenvolvido pela Alibaba, o page-agent é um agente de interface gráfica de usuário in-page que permite controlar interfaces da web com comandos de linguagem natural. Escrita em TypeScript, esta ferramenta oferece um mecanismo de controle baseado em navegador para automatizar as interações na web.",
+          "meta": "TypeScript · ★ 20.032 · +163 hoje"
+        },
+        {
+          "title": "IceWhaleTech/CasaOS",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "summary": "CasaOS oferece um sistema de nuvem pessoal de código aberto que facilita o gerenciamento de aplicativos baseados em Docker. Essa interface, desenvolvida na linguagem Go, permite ao usuário gerenciar de forma simples seus servidores por meio de um painel visual.",
+          "meta": "Go · ★ 34.992 · +223 hoje"
+        },
+        {
+          "title": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "summary": "MinerU converte formatos de documentos complexos, como PDF e Office, em formato markdown ou JSON adequado para modelos de linguagem grandes. Esta ferramenta tem como objetivo disponibilizar dados não estruturados em fluxos de trabalho baseados em agentes.",
+          "meta": "Python · ★ 69.899 · +644 hoje"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "O MediaCrawler coleta automaticamente postagens e comentários de usuários em plataformas populares de mídia social chinesa por meio de web scraping. Esta ferramenta baseada em Python oferece uma infraestrutura abrangente de rastreamento de dados para análise de conteúdo e processos de coleta de dados.",
+          "meta": "Python · ★ 53.062 · +398 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "An entire Herculaneum scroll has been read for the first time",
+          "url": "https://scrollprize.org/firstscroll",
+          "summary": "Os pergaminhos de Herculano, que foram carbonizados pela erupção do Monte Vesúvio, foram lidos sem serem fisicamente abertos pela primeira vez, usando tomografia computadorizada e técnicas de processamento de imagem apoiadas por inteligência artificial. Este estudo comprova o sucesso dos métodos de desembrulhamento virtual desenvolvidos para análise digital de textos antigos.",
+          "meta": "1.238 pontos · 260 comentários"
+        },
+        {
+          "title": "Om Malik has died",
+          "url": "https://om.co/2026/06/24/1966-2026/",
+          "summary": "Om Malik, um dos pioneiros do jornalismo tecnológico, faleceu aos 59 anos. Malik, o fundador da plataforma Gigaom, era conhecido pelos seus artigos que documentavam o processo de transformação digital do ecossistema do Vale do Silício.",
+          "meta": "822 pontos · 91 comentários"
+        },
+        {
+          "title": "Apple raises prices of MacBooks, iPads",
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+          "summary": "A Apple atualizou os preços de venda dos modelos MacBook e iPad devido ao aumento dos custos de memória. Os aumentos de preços dos componentes de hardware afetaram diretamente a estrutura de custos da linha de produtos da empresa.",
+          "meta": "698 pontos · 1.007 comentários"
+        },
+        {
+          "title": "The 'papers, please' era of the internet will decimate your privacy",
+          "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+          "summary": "O facto de as plataformas da Internet exigirem processos de verificação da idade e de prova de identidade coloca pressão sobre a privacidade dos utilizadores. A proliferação de aplicações de identidade digital expande o âmbito da recolha de dados pessoais e estreita as áreas de anonimato.",
+          "meta": "643 pontos · 301 comentários"
+        },
+        {
+          "title": "Oxide computer 3D rack guided tour",
+          "url": "https://explorer.oxide.computer/",
+          "summary": "A Oxide Computer lançou uma ferramenta de tour de rack 3D que torna transparente o design de hardware do data center. Os usuários podem examinar detalhadamente a estrutura interna e os layouts dos componentes dos sistemas de servidor por meio do navegador.",
+          "meta": "356 pontos · 140 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "research framework",
+      "explanation": "Um conjunto de métodos e ferramentas padrão usados ​​para conduzir um processo de pesquisa."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Mais de um software de inteligência artificial trabalha de forma colaborativa para um objetivo comum."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Hospedar um software em seu próprio computador ou servidor privado, e não em um servidor de outra empresa."
+    },
+    {
+      "term": "PWA",
+      "explanation": "Páginas da Web que funcionam por meio de um navegador de Internet, mas que podem ser instaladas no telefone como um aplicativo."
+    },
+    {
+      "term": "SSO",
+      "explanation": "Um sistema que permite fazer login em vários aplicativos diferentes ao mesmo tempo com um único nome de usuário e senha."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Acordos feitos para garantir que os sites tenham uma classificação mais elevada nos motores de busca."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Uma ponte que permite que modelos de inteligência artificial se comuniquem com diferentes fontes de dados de maneira segura e padrão."
+    },
+    {
+      "term": "skills",
+      "explanation": "As habilidades técnicas que um software ou sistema precisa para executar uma operação específica."
+    }
+  ]
+}

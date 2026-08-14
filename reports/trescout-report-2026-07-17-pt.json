@@ -1,0 +1,249 @@
+{
+  "date": "2026-07-17",
+  "editorial": "Hoje, no mundo do código aberto, a execução de modelos locais e ferramentas de análise interativas com o usuário estão na vanguarda. Novas estruturas modulares desenvolvidas especialmente em interpretadores de código e plataformas de análise de dados constituem o foco do ecossistema de desenvolvedores.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "summary": "Apache Ossie é uma iniciativa da indústria que visa padronizar a troca de metadados semânticos entre plataformas de análise, inteligência artificial e inteligência de negócios (BI). Este projeto facilita a integração de dados criando uma fonte de verdade única e independente do fornecedor entre diferentes plataformas.",
+          "meta": "Python · ★ 997 · +60 hoje"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark é uma ferramenta de design projetada para detectar e distinguir conteúdo gerado por IA. Claude Code fornece padrões visuais para preservar a originalidade dos resultados de IA em ambientes de desenvolvimento como Cursor e Codex.",
+          "meta": "CSS · ★ 11.237 · +3.372 hoje"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut está desenvolvendo um aplicativo baseado na web que oferece uma alternativa de código aberto para processos de edição de vídeo. Este projeto, elaborado em TypeScript, visa padronizar o acesso dos usuários às ferramentas de edição de vídeo.",
+          "meta": "TypeScript · ★ 74.256 · +3.537 hoje"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog é uma plataforma abrangente que reúne ferramentas como observabilidade de inteligência artificial, análise e repetição de sessão para processos de desenvolvimento de produtos. Ele permite que desenvolvedores de software criem produtos autônomos rastreando bugs, gerenciando experimentos e analisando dados do usuário.",
+          "meta": "Python · ★ 35.939 · +77 hoje"
+        },
+        {
+          "title": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "summary": "Open Interpreter é um agente de codificação que executa código no computador usando modelos de código aberto, como Kimi K3. Desenvolvida em Rust, esta ferramenta permite que modelos nativos atuem diretamente nos comandos do sistema e nos processos de desenvolvimento de software.",
+          "meta": "Rust · ★ 66.083 · +661 hoje"
+        },
+        {
+          "title": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "summary": "O projeto de demonstração Bonsai fornece um conjunto de ferramentas projetado para simplificar os processos de implantação de modelos de aprendizado de máquina. O software ajuda os desenvolvedores a otimizar seus processos de aplicativos, transformando arquiteturas de modelos complexos em fluxos de trabalho gerenciáveis.",
+          "meta": "Shell · ★ 1.587 · +196 hoje"
+        },
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "O conjunto de dados de condicionamento físico compartilhado por Hasan Eylidrim inclui recursos visuais animados, informações sobre grupos musculares e instruções passo a passo em seis idiomas para 1.324 exercícios. Este banco de dados de código aberto fornece uma camada de dados estruturada para aplicativos de monitoramento de exercícios.",
+          "meta": "HTML · ★ 15.177 · +710 hoje"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "O repositório awesome-llm-apps contém mais de 100 agentes de IA e aplicativos de fabricação baseada em busca (RAG) que os desenvolvedores podem executar, personalizar e publicar diretamente. Este recurso baseado em Python tem como objetivo padronizar fluxos de trabalho e acelerar processos de desenvolvimento de aplicações através de aplicações prontas.",
+          "meta": "Python · ★ 123.132 · +923 hoje"
+        },
+        {
+          "title": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "summary": "LobeHub permite a criação de uma equipe de operações de IA que trabalha 24 horas por dia, 7 dias por semana, gerenciando agentes de inteligência artificial por meio de processos de recrutamento, agendamento e relatórios. A plataforma oferece uma interface administrativa que automatiza os fluxos de trabalho organizando diferentes agentes em um único centro.",
+          "meta": "TypeScript · ★ 80.291 · +71 hoje"
+        },
+        {
+          "title": "YimMenu/YimMenuV2",
+          "url": "https://github.com/YimMenu/YimMenuV2",
+          "summary": "YimMenuV2 é uma modificação experimental de menu desenvolvida para o jogo Grand Theft Auto 5. Este projeto, elaborado com a linguagem de programação C++, oferece aos jogadores diversos recursos e opções de personalização do jogo.",
+          "meta": "C++ · ★ 1.521 · +128 hoje"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor é um sistema de inteligência artificial que oferece experiência de aula particular personalizada com foco no aprendizado contínuo (lifelong learning) por meio da análise de dados dos alunos. A plataforma utiliza um modelo de tutoria que monitora constantemente o desempenho dos alunos para otimizar os processos educacionais.",
+          "meta": "Python · ★ 27.023 · +656 hoje"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Este repositório, compartilhado por Matt Pocock, contém arquivos de conjunto de comandos especiais (habilidades) que os engenheiros de software usam em processos de codificação suportados por inteligência artificial. Ele oferece fluxos de trabalho estruturados e instruções para os desenvolvedores usarem ferramentas generativas de IA com mais eficiência.",
+          "meta": "Shell · ★ 174.638 · +2.060 hoje"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub Copilot SDK oferece um kit de desenvolvimento de software (SDK) multiplataforma que permite aos desenvolvedores integrar agentes GitHub Copilot em seus próprios aplicativos e serviços. Esta ferramenta baseada em Java permite o uso padrão de assistentes de codificação suportados por inteligência artificial em diferentes plataformas.",
+          "meta": "Java · ★ 9.698 · +13 hoje"
+        },
+        {
+          "title": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "summary": "Desenvolvido para engenheiros de design, ui-skills reúne as habilidades e competências técnicas necessárias nos processos de desenvolvimento de interface de usuário (UI). Este recurso baseado em TypeScript oferece um mapa de competências para profissionais em transição do design de interface para a codificação.",
+          "meta": "TypeScript · ★ 4.436 · +178 hoje"
+        },
+        {
+          "title": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "summary": "Graphify transforma arquivos de código, esquemas de banco de dados e documentos em projetos de software em uma estrutura de gráfico de conhecimento consultável. Esta ferramenta permite que assistentes de codificação de IA analisem estruturas complexas de projetos por meio de um modelo de dados holístico.",
+          "meta": "Python · ★ 89.390 · +1.107 hoje"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own X é uma coleção de guias que visam melhorar as habilidades de programação, codificando tecnologias de software populares do zero. Os desenvolvedores têm a oportunidade de aprender estruturas arquitetônicas na prática, construindo sistemas complexos, como um banco de dados ou sistema operacional, passo a passo.",
+          "meta": "Markdown · ★ 526.539 · +435 hoje"
+        },
+        {
+          "title": "ossu/computer-science",
+          "url": "https://github.com/ossu/computer-science",
+          "summary": "Oferecendo um currículo gratuito e de autoaprendizagem na área de ciência da computação, este recurso cria um caminho educacional que atende aos padrões acadêmicos. Ele fornece um processo de aprendizagem estruturado que abrange desenvolvimento de software e disciplinas básicas de informática.",
+          "meta": "HTML · ★ 206.669 · +107 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kimi K3: Open Frontier Intelligence",
+          "url": "https://www.kimi.com/blog/kimi-k3",
+          "summary": "Kimi k3, anunciado pela Moonshot AI, é um novo modelo de inteligência de fronteira aberta que se destaca por sua longa janela de contexto e alta velocidade de processamento. O modelo visa proporcionar eficiência de custos, especialmente em raciocínio complexo e análise de grandes conjuntos de dados.",
+          "meta": "1.435 pontos · 864 comentários"
+        },
+        {
+          "title": "Microsoft Comic Chat is now open source",
+          "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+          "summary": "A Microsoft compartilhou os códigos-fonte do Comic Chat, seu aplicativo de bate-papo baseado em personagens lançado em 1996, como código aberto. O software oferece uma interface que transforma automaticamente as conversas baseadas em texto dos usuários em painéis de quadrinhos.",
+          "meta": "617 pontos · 138 comentários"
+        },
+        {
+          "title": "Decoy Font",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "summary": "Decoy Font é um experimento de fonte usado para ocultar textos visualmente. Esta ferramenta oferece mascaramento de conteúdo mascarando texto com formas aparentemente aleatórias em vez de caracteres legíveis.",
+          "meta": "486 pontos · 115 comentários"
+        },
+        {
+          "title": "How Our Rust-to-Zig Rewrite Is Going",
+          "url": "https://rtfeldman.com/rust-to-zig",
+          "summary": "Os desenvolvedores de software compartilham seus projetos de migração de Rust para Zig para otimizar o desempenho e os processos de gerenciamento de memória. Este processo de transformação é avaliado pelos seus efeitos na velocidade de compilação e no controle de programação de sistemas de baixo nível.",
+          "meta": "471 pontos · 247 comentários"
+        },
+        {
+          "title": "NotebookLM is now Gemini Notebook",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+          "summary": "O Google está renomeando NotebookLM, seu notebook pessoal com suporte de inteligência artificial, como Gemini Notebook e incorporando-o ao ecossistema Gemini. Essa transformação permite que a plataforma forneça recursos avançados de IA generativa de uma forma mais integrada com o modelo central de IA do Google.",
+          "meta": "282 pontos · 143 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Desenvolvido pela Thinking Machines, o Inkling é um modelo multimodal que recebe dados visuais e de texto como entrada e produz saída de texto. O modelo oferece a capacidade de gerar respostas significativas em linguagem natural, analisando conteúdo visual complexo.",
+          "meta": "♥ 843 · 4 downloads"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B-gguf é um modelo de linguagem de alto desempenho desenvolvido para geração de texto. O modelo otimiza recursos de hardware usando a técnica de quantização ternária para aumentar a eficiência.",
+          "meta": "♥ 623 · 74.007 downloads"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B, publicado pela Prism-ml, é um modelo de linguagem otimizado para tarefas de geração de texto. O modelo é apresentado com a estrutura GGUF, que é um formato de quantização, para que possa rodar em hardware de poucos recursos.",
+          "meta": "♥ 351 · 559.267 downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B é um modelo de inteligência artificial multimodal que produz saída de texto processando entradas visuais e baseadas em texto. O modelo oferece a oportunidade de analisar grandes conjuntos de dados com capacidade de 1 milhão de janelas de contexto.",
+          "meta": "♥ 2.242 · 2.042.670 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, desenvolvido pela Zai-org, é um modelo de linguagem otimizado para tarefas de geração de texto. Este modelo, que atingiu uma ampla base de usuários na plataforma HuggingFace, visa melhorar as capacidades de geração de texto em processos de processamento de linguagem natural.",
+          "meta": "♥ 4.039 · 513.061 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "BI",
+      "explanation": "Ferramentas de business intelligence que permitem às empresas tomar decisões mais precisas através da análise de dados brutos."
+    },
+    {
+      "term": "semantic metadata",
+      "explanation": "Informações descritivas que explicam o que os dados significam e como eles se relacionam com outros dados."
+    },
+    {
+      "term": "single source of truth",
+      "explanation": "O princípio de gerenciar todas as informações de uma instituição a partir de uma única fonte confiável e atualizada."
+    },
+    {
+      "term": "AI-generated content",
+      "explanation": "Conteúdo digital como texto, imagens ou áudio criado por inteligência artificial."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "O processo de rastrear erros e consequências inesperadas, monitorando o funcionamento dos sistemas de inteligência artificial."
+    },
+    {
+      "term": "session replay",
+      "explanation": "Os movimentos de um usuário no site podem ser gravados em vídeo e assistidos novamente posteriormente."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Ferramentas de software autônomas que podem escrever códigos, corrigir erros e desenvolver projetos em nome de desenvolvedores de software."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Os computadores aprendem por conta própria usando dados e produzem melhores resultados ao longo do tempo."
+    },
+    {
+      "term": "data layer",
+      "explanation": "A camada de software localizada entre as aplicações e o banco de dados, permitindo o processamento e organização dos dados."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Programa autônomo de inteligência artificial que pode tomar decisões e realizar determinadas tarefas por conta própria."
+    },
+    {
+      "term": "RAG",
+      "explanation": "É um método de trazer informações que permite que a inteligência artificial forneça respostas mais precisas, acessando dados atuais e privados."
+    },
+    {
+      "term": "AI team operations",
+      "explanation": "A forma como as equipes que desenvolvem projetos de inteligência artificial gerenciam seus fluxos de trabalho e processos."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "Os modelos de inteligência artificial melhoram constantemente à medida que aprendem novas informações, sem esquecer as informações antigas."
+    },
+    {
+      "term": "tutoring",
+      "explanation": "A inteligência artificial ajuda o aluno a entender os assuntos, dando-lhe aulas particulares."
+    },
+    {
+      "term": "skills",
+      "explanation": "Habilidades que um modelo de inteligência artificial pode realizar ao se especializar em uma determinada área."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Tecnologia de inteligência artificial que pode produzir novos conteúdos que não existiam antes, com base nos dados que aprende."
+    }
+  ]
+}

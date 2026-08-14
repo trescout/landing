@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-16",
+  "editorial": "Hoje, no mundo do software, ferramentas de edição de vídeo de código aberto e modelos algorítmicos que otimizam estratégias de negociação vêm à tona. Os dados do GitHub mostram que os conjuntos de habilidades e as camadas de segurança de comando que medem as competências dos desenvolvedores estão ganhando mais peso nos processos de software.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut oferece uma alternativa de código aberto ao software de edição de vídeo CapCut. Desenvolvida com a linguagem TypeScript, a plataforma permite aos usuários gerenciar seus processos de edição de vídeos em um ecossistema de software livre.",
+          "meta": "TypeScript · ★ 72.541 · +1.664 hoje"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark é uma biblioteca de estilos que visa reduzir os efeitos do conteúdo gerado por inteligência artificial (AI-slop) no design visual. Claude Code oferece soluções baseadas em CSS para melhorar a qualidade do design de interfaces utilizadas em ferramentas de desenvolvimento como Cursor e Codex.",
+          "meta": "CSS · ★ 9.248 · +1.277 hoje"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Este repositório, compartilhado por Matt Pocock, reúne as definições de habilidades personalizadas que os desenvolvedores de software usam em Claude. Os desenvolvedores compartilham esses conjuntos de comandos estruturados (prompts) que os assistentes de inteligência artificial criam para otimizar os processos de codificação.",
+          "meta": "Shell · ★ 172.771 · +2.130 hoje"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi é um projeto complementar virtual baseado em inteligência artificial que os usuários podem hospedar em seus próprios servidores, com chat de voz em tempo real e recursos de jogo. Desenvolvido em TypeScript, esse sistema tem como objetivo rodar personagens digitais em ambientes locais, interagindo com jogos como Minecraft e Factorio.",
+          "meta": "TypeScript · ★ 42.635 · +110 hoje"
+        },
+        {
+          "title": "Dicklesworthstone/destructive_command_guard",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "summary": "O Destructive Command Guard é uma ferramenta de segurança que bloqueia comandos perigosos do git e do shell executados por agentes de inteligência artificial. Esta solução, desenvolvida em Rust, visa restringir intervenções indesejadas do sistema em fluxos de trabalho baseados em agentes.",
+          "meta": "Rust · ★ 4.858 · +471 hoje"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "A Vibe-Trading oferece um agente comercial pessoal desenvolvido para negociação nos mercados financeiros. Este projeto baseado em Python visa executar estratégias de negociação automáticas em nome dos usuários, analisando dados de mercado.",
+          "meta": "Python · ★ 23.888 · +915 hoje"
+        },
+        {
+          "title": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "summary": "Open Interpreter oferece um agente de codificação que automatiza processos de desenvolvimento de software executando código no ambiente de computador local. Projetada para trabalhar com modelos de linguagem de baixo custo, esta ferramenta permite executar tarefas complexas diretamente do terminal.",
+          "meta": "Rust · ★ 65.626 · +299 hoje"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor é um sistema de aulas particulares baseado em aprendizagem ao longo da vida que oferece processos educacionais personalizados usando dados de alunos. O projeto visa otimizar a experiência de aprendizagem com métodos de tutoria individualizados apoiados por inteligência artificial.",
+          "meta": "Python · ★ 26.461 · +172 hoje"
+        },
+        {
+          "title": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "summary": "O Compêndio Maths-cs-ai reúne os fundamentos matemáticos e os princípios da ciência da computação necessários para a inteligência artificial e a engenharia de aprendizado de máquina em uma única fonte. Combina conhecimento teórico com um currículo prático para quem deseja se tornar engenheiro pesquisador.",
+          "meta": "TypeScript · ★ 6.049 · +725 hoje"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "O repositório compilado por Shubhamsaboo contém mais de 100 agentes de IA diretamente executáveis ​​e aplicativos de geração de recuperação aumentada. Esses projetos baseados em Python permitem que os desenvolvedores copiem e personalizem aplicativos rapidamente e os iniciem.",
+          "meta": "Python · ★ 122.131 · +1.236 hoje"
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "Desenvolvida para Claude Code e agentes de inteligência artificial, esta biblioteca oferece recursos especializados em áreas como otimização de taxa de conversão (CRO), copywriting, otimização de mecanismo de pesquisa (SEO), análise e engenharia de crescimento. Este conjunto de ferramentas baseado em JavaScript permite que modelos de IA gerenciem fluxos de trabalho focados em marketing de forma mais eficaz.",
+          "meta": "JavaScript · ★ 39.929 · +340 hoje"
+        },
+        {
+          "title": "YimMenu/YimMenuV2",
+          "url": "https://github.com/YimMenu/YimMenuV2",
+          "summary": "YimMenuV2 é uma modificação experimental de menu desenvolvida para Grand Theft Auto 5: Enhanced edition. Escrita em C++, esta ferramenta oferece várias personalizações e funções estendidas dentro do jogo.",
+          "meta": "C++ · ★ 1.458 · +38 hoje"
+        },
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "Preparado por Hasan Eyl-drm, o conjunto de dados de exercícios apresenta 1.324 movimentos diferentes com imagens animadas, informações sobre grupos musculares e instruções passo a passo em seis idiomas. Fornecendo uma camada de dados estruturada para aplicativos de fitness, este recurso visa padronizar os dados do exercício.",
+          "meta": "HTML · ★ 14.540 · +949 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Inkling: Our Open-Weights Model",
+          "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+          "summary": "Publicado pela Thinking Machines, o Inkling é oferecido aos desenvolvedores como um modelo de linguagem de peso aberto. O modelo visa uma estrutura flexível que permita o ajuste fino em conjuntos de dados especiais.",
+          "meta": "856 pontos · 214 comentários"
+        },
+        {
+          "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+          "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+          "summary": "Stripe e a empresa de investimentos Advent fizeram uma oferta conjunta de mais de US$ 53 bilhões para adquirir o provedor de sistemas de pagamento PayPal. Esta iniciativa reflete tendências de consolidação em grande escala no setor de tecnologia financeira (fintech).",
+          "meta": "412 pontos · 223 comentários"
+        },
+        {
+          "title": "Grok Build is open source",
+          "url": "https://github.com/xai-org/grok-build",
+          "summary": "xAI publicou a biblioteca de código aberto Grok-1, que é baseada na arquitetura e nos processos de treinamento do modelo Grok. Este desenvolvimento permite que os desenvolvedores ajustem grandes modelos de linguagem e examinem os princípios de funcionamento do modelo.",
+          "meta": "369 pontos · 400 comentários"
+        },
+        {
+          "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+          "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+          "summary": "O modelo Gemma 4 26B pode ser executado a uma velocidade de 5 tokens por segundo em um processador Xeon de 13 anos sem usar uma unidade de processamento gráfico (GPU). Esta aplicação demonstra a importância das técnicas de otimização para inferência eficiente de modelos de linguagem grande (LLM) em hardware mais antigo.",
+          "meta": "268 pontos · 174 comentários"
+        },
+        {
+          "title": "SQLite should have (Rust-style) editions",
+          "url": "https://mort.coffee/home/sqlite-editions/",
+          "summary": "Uma estrutura semelhante ao modelo de edições em Rust é recomendada para o mecanismo de banco de dados SQLite. Esta abordagem visa adicionar novos recursos e melhorar os processos de manutenção de longo prazo do software sem interromper a compatibilidade com versões anteriores.",
+          "meta": "199 pontos · 77 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B é oferecido como um modelo de geração de texto otimizado com o método de quantização ternária. Esta técnica visa reduzir o uso de memória e ao mesmo tempo minimizar a perda de desempenho do modelo.",
+          "meta": "♥ 497 · 23 downloads"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Desenvolvido pela Thinkingmachines, o Inkling é um modelo multimodal que produz saída de texto processando entradas visuais e de texto. O sistema foi projetado para analisar dados visuais e utilizá-los em tarefas baseadas em texto.",
+          "meta": "♥ 486 · 0 downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "O modelo Qwythos-9B-Claude-Mythos-5-1M é um modelo imagem-texto-texto que produz saída de texto processando entradas visuais e de texto. O modelo oferece a capacidade de analisar conjuntos de dados complexos com amplo suporte a janelas de contexto.",
+          "meta": "♥ 2.220 · 2.006.265 downloads"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B é um modelo de linguagem otimizado para tarefas de geração de texto. Esta estrutura, apresentada no formato GGUF, permite que o modelo rode de forma mais eficiente em diferentes recursos de hardware.",
+          "meta": "♥ 283 · 513 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, desenvolvido pela Zai-org, é um modelo de linguagem otimizado para tarefas de geração de texto. O modelo é usado em vários processos de criação de conteúdo com seus amplos recursos de processamento de linguagem.",
+          "meta": "♥ 4.006 · 489.611 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI-slop",
+      "explanation": "Conteúdo de baixa qualidade, desleixado e sem valor, produzido por inteligência artificial que muitas vezes polui a internet."
+    },
+    {
+      "term": "skills",
+      "explanation": "Os recursos que um software ou dispositivo possui para executar determinadas tarefas."
+    },
+    {
+      "term": "prompts",
+      "explanation": "Comandos escritos ou perguntas que você dá à inteligência artificial para obter um resultado."
+    },
+    {
+      "term": "companion",
+      "explanation": "Assistente digital que conversa com o usuário, auxilia-o nas tarefas diárias."
+    },
+    {
+      "term": "destructive command guard",
+      "explanation": "Um mecanismo de segurança que impede a execução de comandos incorretos ou perigosos que podem prejudicar o sistema."
+    },
+    {
+      "term": "shell",
+      "explanation": "Mídia que permite ao usuário se comunicar diretamente com o sistema operacional do computador por meio de comandos escritos."
+    },
+    {
+      "term": "trading agent",
+      "explanation": "Software autônomo que realiza transações de compra e venda em seu nome no mercado de ações ou nos mercados de criptomoedas."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Uma ferramenta de inteligência artificial que escreve códigos de software, corrige bugs e desenvolve aplicativos para você."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "O processo de melhoria contínua de um modelo de inteligência artificial à medida que ele encontra novos dados, sem esquecer suas informações antigas."
+    },
+    {
+      "term": "personalized tutoring",
+      "explanation": "Um sistema digital que altera o conteúdo de acordo com a velocidade e necessidade do aluno e proporciona um ensino personalizado."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Um método que permite que os computadores aprendam por conta própria, examinando dados e tomando melhores decisões ao longo do tempo."
+    },
+    {
+      "term": "computer science",
+      "explanation": "O ramo da ciência que estuda os princípios de funcionamento dos computadores, desenvolvimento de software e métodos de processamento de dados."
+    },
+    {
+      "term": "retrieval-augmented generation",
+      "explanation": "A inteligência artificial fornece resultados mais precisos ao extrair informações de fontes externas atuais e confiáveis ​​enquanto produz respostas."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Um esforço para aumentar a taxa com que as pessoas que visitam um site realizam as ações desejadas, como fazer compras ou tornar-se membro, nesse site."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Esforços de edição e melhoria para que sites tenham uma classificação mais elevada nos motores de busca."
+    },
+    {
+      "term": "features",
+      "explanation": "Funções e capacidades especiais que um produto ou software oferece aos usuários."
+    }
+  ]
+}

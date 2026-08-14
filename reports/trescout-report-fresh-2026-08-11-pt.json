@@ -1,0 +1,234 @@
+{
+  "date": "2026-08-11",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip é uma plataforma de código aberto que permite gerenciar agentes de IA no local de trabalho por meio de uma única interface. Desenvolvido em TypeScript, esta ferramenta permite controlar os fluxos de trabalho dos agentes utilizados para diferentes tarefas a partir de um ponto central.",
+          "meta": "TypeScript · ★ 76.656 · +198 hoje"
+        },
+        {
+          "title": "danielmiessler/LifeOS",
+          "url": "https://github.com/danielmiessler/LifeOS",
+          "summary": "Desenvolvido com TypeScript, LifeOS é uma ferramenta de desenvolvimento pessoal e produtividade que ajuda você a preencher a lacuna entre seu estado atual e seu estado ideal. Este sistema apoiado por inteligência artificial utiliza o método de melhoria gradual (escalada) para atingir objetivos tanto na sua vida profissional como na sua vida privada.",
+          "meta": "TypeScript · ★ 18.046 · +315 hoje"
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl é uma ferramenta de web scraping que converte dados de sites em formato de texto não criptografado que os modelos de inteligência artificial podem processar. Ele fornece dados de contexto prontos para grandes modelos de linguagem, digitalizando conteúdo na Internet de maneira escalonável.",
+          "meta": "TypeScript · ★ 165.257 · +835 hoje",
+          "returning": true
+        },
+        {
+          "title": "opa334/Dopamine",
+          "url": "https://github.com/opa334/Dopamine",
+          "summary": "Dopamine é uma ferramenta de jailbreak semi-independente desenvolvida para dispositivos que executam iOS 15 a 16.6.1. Ele permite que os usuários personalizem o dispositivo com privilégios administrativos, contornando as restrições do sistema.",
+          "meta": "C · ★ 6.086 · +111 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+          "summary": "Muse Glimmer, desenvolvido pela Meta, é um modelo de 30 bilhões de parâmetros otimizado para execução contínua de agentes locais de inteligência artificial (fluxos de trabalho de agentes locais). Ele oferece a capacidade de executar tarefas ininterruptas no dispositivo usando recursos de hardware de forma eficiente.",
+          "meta": "1.072 pontos · 590 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49241679",
+              "popularity": 1072,
+              "engagementCount": 590
+            }
+          ]
+        },
+        {
+          "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+          "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+          "summary": "A Meta assume uma postura estratégica contra seus concorrentes que desenvolvem sistemas fechados, compartilhando os grandes modelos de linguagem que desenvolveu como código aberto. A empresa pretende aumentar a acessibilidade das tecnologias de inteligência artificial e estabelecer padrões no ecossistema de desenvolvedores.",
+          "meta": "433 pontos · 416 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49243880",
+              "popularity": 433,
+              "engagementCount": 416
+            }
+          ]
+        },
+        {
+          "title": "Sonic Pi v5",
+          "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+          "summary": "A ferramenta de produção musical baseada em código Sonic Pi oferece suporte de áudio multicanal e melhorias de desempenho com sua quinta versão. O software permite que a codificação ao vivo seja realizada usando comandos de programação baseados em texto.",
+          "meta": "335 pontos · 83 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49208296",
+              "popularity": 335,
+              "engagementCount": 83
+            }
+          ]
+        },
+        {
+          "title": "Squeak 6.1",
+          "url": "https://squeak.org/release_notes/6.1/",
+          "summary": "Squeak 6.1 é um ambiente de desenvolvimento de código aberto baseado na linguagem de programação orientada a objetos Smalltalk. A nova versão oferece atualizações que aumentam a compatibilidade entre plataformas e melhorias de desempenho no sistema principal.",
+          "meta": "242 pontos · 122 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49242653",
+              "popularity": 242,
+              "engagementCount": 122
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+          "url": "https://cactuscompute.com/needle",
+          "summary": "Desenvolvido pela Cactus, o Needle2 é um modelo de linguagem grande baseado em agente de 14 megabytes (agentic LLM) que pode ser executado em sistemas de baixo custo, como telefones e dispositivos vestíveis. Este modelo permite que os dispositivos executem operações como carona, extração estruturada de dados e controle residencial inteligente localmente.",
+          "meta": "239 pontos · 97 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49246804",
+              "popularity": 239,
+              "engagementCount": 97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "Muse-Glimmer-30B, compartilhado no HuggingFace, é um modelo multimodal de inteligência artificial que pode processar dados visuais e de texto simultaneamente. Este modelo se destaca pela capacidade de produzir resultados baseados em texto por meio da análise de imagens complexas.",
+          "meta": "♥ 803 · 0 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching",
+          "url": "https://huggingface.co/papers/2608.08097",
+          "summary": "OasisKV é um sistema desenvolvido para superar limitações de memória de alta largura de banda que retardam o processo de inferência em modelos de linguagem grandes. Ele otimiza o tráfego de memória e aumenta a eficiência do sistema gerenciando o cache de valores-chave com pré-busca antecipada esparsa.",
+          "meta": "3 curtidas · 1 comentários"
+        },
+        {
+          "title": "Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory",
+          "url": "https://huggingface.co/papers/2608.07169",
+          "summary": "Agent Memory Distillation é uma estrutura que permite a transferência de informações de modelos de linguagem grandes para modelos pequenos por meio de uma estrutura de memória hierárquica. Este método visa melhorar o desempenho de modelos mais capazes, aproveitando a sua experiência em situações em que os modelos mais jovens têm dificuldade em criar fluxos de trabalho bem-sucedidos por si próprios.",
+          "meta": "0 curtidas · 1 comentários"
+        },
+        {
+          "title": "RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance",
+          "url": "https://huggingface.co/papers/2608.09853",
+          "summary": "RynnValue é um modelo de base de valor de código aberto desenvolvido para dimensionar modelos de recompensa em processos de manipulação robótica. Ele usa uma abordagem baseada na distância temporal em vez de métodos tradicionais orientados a tarefas, a fim de obter resultados consistentes em diferentes corpos robóticos e fontes de dados.",
+          "meta": "1 curtidas · 1 comentários"
+        },
+        {
+          "title": "Factorized Hypothesis Search for Evidence-to-Taxonomy Retrieval",
+          "url": "https://huggingface.co/papers/2608.06614",
+          "summary": "A Pesquisa Fatorada de Hipóteses é um método que facilita a extração de informações de grandes taxonomias quando os dados não são expressos diretamente. Esta abordagem visa preencher a lacuna semântica (lacuna de prontidão de recuperação) nos resultados da pesquisa usando pistas contextuais.",
+          "meta": "1 curtidas · 1 comentários"
+        },
+        {
+          "title": "Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution",
+          "url": "https://huggingface.co/papers/2608.08311",
+          "summary": "Ouroboros é um agente de desenvolvimento de software (agente de codificação) que pode desenvolver suas próprias ferramentas, prompts e estrutura básica de código por meio de processos iterativos. O sistema funciona com um mecanismo de evolução que melhora constantemente o seu ambiente de trabalho, detectando erros e ineficiências através da experiência.",
+          "meta": "5 curtidas · 1 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "a util for compiling HTML/PDF documents using Hiccup style templates",
+          "url": "https://github.com/yogthos/doc-builder",
+          "summary": "Doc-builder é uma ferramenta para criar documentos HTML e PDF usando modelos no estilo Hiccup. Esta biblioteca baseada em Clojure simplifica o processo de preparação de documentação, convertendo estruturas de dados diretamente em formatos de documentos.",
+          "meta": "3 pontos · 2 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mao72o/util_for_compiling_html_pdf_documents",
+              "popularity": 3,
+              "engagementCount": 2
+            }
+          ]
+        },
+        {
+          "title": "Everything I Know About SSDs",
+          "url": "http://kcall.co.uk/ssd/index.html",
+          "summary": "Ele explica as tecnologias de armazenamento de dados em unidades de estado sólido (SSD), os princípios de funcionamento das células de memória NAND e os processos de gerenciamento de dados em detalhes técnicos. Este guia examina os efeitos de desempenho de processos como gravação, exclusão e nivelamento de desgaste de dados no nível do hardware.",
+          "meta": "19 pontos · 5 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/koj86v/everything_i_know_about_ssds",
+              "popularity": 19,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "This week in KDE: more speed, more features, and a bug massacre",
+          "url": "https://pointieststick.com/2020/01/11/this-week-in-kde-more-speed-more-features-and-a-bug-massacre/",
+          "summary": "Ambiente de desktop de código aberto KDE se concentra em eliminar erros de software (bugs) e, ao mesmo tempo, melhorar o desempenho do sistema com sua nova atualização. Os desenvolvedores estão adicionando novas funções que expandem os recursos da interface para melhorar a experiência do usuário.",
+          "meta": "7 pontos · 1 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/apxh0s/this_week_kde_more_speed_more_features_bug",
+              "popularity": 7,
+              "engagementCount": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "web scraping",
+      "explanation": "O processo de cópia e coleta de dados de sites usando software automático."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Software autônomo que toma decisões por conta própria e utiliza veículos para atingir objetivos."
+    },
+    {
+      "term": "hill-climbing",
+      "explanation": "Um método de pesquisa simples que tenta constantemente melhorar a situação atual em pequenos passos até encontrar o melhor resultado."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "API",
+      "explanation": "Uma ponte que permite que dois softwares diferentes se comuniquem e troquem dados."
+    },
+    {
+      "term": "local agent workflows",
+      "explanation": "Processos de tarefas autônomos que são executados diretamente no próprio computador do usuário, sem a necessidade de Internet."
+    },
+    {
+      "term": "open source",
+      "explanation": "Um tipo de software cujos códigos-fonte estão abertos a qualquer pessoa para examinar, alterar e melhorar."
+    }
+  ]
+}

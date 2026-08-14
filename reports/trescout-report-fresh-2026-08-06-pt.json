@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-06",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "summary": "Desenvolvido pela Cloudflare, Computer é uma biblioteca TypeScript que dá aos agentes de inteligência artificial a capacidade de controlar um computador local ou remoto. Esta ferramenta permite que os agentes executem comandos no sistema operacional e automatizem tarefas complexas acessando o sistema de arquivos.",
+          "meta": "TypeScript · ★ 3.677 · +891 hoje"
+        },
+        {
+          "title": "huangruiteng/loopx",
+          "url": "https://github.com/huangruiteng/loopx",
+          "summary": "Loopx é um kernel de estado leve desenvolvido para equipes de agentes de inteligência artificial de longo prazo. Funciona de forma compatível com agentes de codificação (Codex, Claude Code) e padroniza processos como rastreamento de tarefas, gerenciamento de cotas e transferência de trabalho verificável.",
+          "meta": "Python · ★ 2.385 · +326 hoje"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Supervisão é uma biblioteca Python que fornece ferramentas reutilizáveis ​​usadas em projetos de visão computacional. Ele acelera os processos de processamento de imagens padronizando tarefas comuns, como rastreamento e visualização de objetos.",
+          "meta": "Python · ★ 49.024 · +146 hoje",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Discovery Loop",
+          "url": "https://www.discoveryloop.com/",
+          "summary": "Discovery Loop é uma plataforma que melhora os processos de desenvolvimento de desenvolvedores de software, analisando feedback de produtos e dados de usuários. Ao coletar insights do usuário em um ponto central, visa acelerar o ciclo de desenvolvimento do produto com decisões baseadas em dados.",
+          "meta": "682 pontos · 420 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49184960",
+              "popularity": 682,
+              "engagementCount": 420
+            }
+          ]
+        },
+        {
+          "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "summary": "Mudanças na gestão sênior estão ocorrendo no Google DeepMind. Demis Hassabis está passando de diretor executivo (CEO) para presidente do conselho (presidente), enquanto o executivo sênior Jeff Dean está deixando seu cargo.",
+          "meta": "591 pontos · 652 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49184755",
+              "popularity": 591,
+              "engagementCount": 652
+            }
+          ]
+        },
+        {
+          "title": "Cloudflare OS: an open platform for agents, apps, and work",
+          "url": "https://blog.cloudflare.com/cloudflare-os/",
+          "summary": "Cloudflare OS é uma plataforma aberta desenvolvida pelo provedor de infraestrutura de internet Cloudflare para agentes e aplicativos de inteligência artificial. Ele permite que os desenvolvedores trabalhem diretamente em sistemas distribuídos sem lidar com o gerenciamento complexo de infraestrutura.",
+          "meta": "527 pontos · 257 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49182996",
+              "popularity": 527,
+              "engagementCount": 257
+            }
+          ]
+        },
+        {
+          "title": "Zed DeltaDB",
+          "url": "https://zed.dev/deltadb",
+          "summary": "O editor de código Zed fornece gerenciamento de dados de alto desempenho em processos de edição de texto, colaborando com a tecnologia de banco de dados nativa DeltaDB. Essa integração visa otimizar o uso de memória e aumentar a velocidade da aplicação no processamento de arquivos de código complexos.",
+          "meta": "366 pontos · 198 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49187256",
+              "popularity": 366,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+          "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+          "summary": "Desenvolvido pela Neon, o Castform supera modelos de fronteira em operações de recuperação de dados com menor custo e maior eficiência. Este método, que otimiza modelos de código aberto, oferece um caminho alternativo, especialmente para aplicações de inteligência artificial orientadas para custos.",
+          "meta": "276 pontos · 68 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49186762",
+              "popularity": 276,
+              "engagementCount": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "AVE-Compass: Towards Holistic Evaluation for Audio-Video Editing Abilities",
+          "url": "https://huggingface.co/papers/2607.24821",
+          "summary": "AVE-Compass é um benchmark abrangente (benchmark) desenvolvido para medir holisticamente as capacidades de edição de áudio e vídeo. Ao contrário dos métodos existentes, testa a consistência nos processos de edição multimodal, concentrando-se na harmonia entre som e imagem.",
+          "meta": "7 curtidas · 1 comentários"
+        },
+        {
+          "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming",
+          "url": "https://huggingface.co/papers/2608.05108",
+          "summary": "PIMiner é um sistema que testa automaticamente ataques de injeção de comando em grandes modelos de linguagem. Ao contrário dos métodos tradicionais de aprendizagem por reforço, ele fornece uma auditoria de segurança baseada em agente que oferece uma maior taxa de sucesso em diferentes modelos.",
+          "meta": "0 curtidas · 1 comentários"
+        },
+        {
+          "title": "Consistency-Driven Co-Evolution for Self-Supervised Cross-Representation Learning",
+          "url": "https://huggingface.co/papers/2608.04926",
+          "summary": "Com o objetivo de compreender as complexas relações entre imagens gráficas, dados de tabelas e códigos de visualização, o CoCoEvolve utiliza o método de aprendizagem de representação cruzada auto-supervisionada. Esta abordagem oferece um mecanismo de coevolução orientado à consistência para resolver relacionamentos ambíguos entre diferentes tipos de dados.",
+          "meta": "0 curtidas · 1 comentários"
+        },
+        {
+          "title": "Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data",
+          "url": "https://huggingface.co/papers/2608.02580",
+          "summary": "Ego2Robot é um pipeline de síntese de dados escalável que acelera os processos de aprendizagem de robôs, convertendo vídeos filmados da perspectiva humana em formato de dados robóticos. Este método facilita a produção de diversos e grandes volumes de dados necessários para o treinamento de modelos de visão-linguagem-ação em larga escala.",
+          "meta": "8 curtidas · 1 comentários"
+        },
+        {
+          "title": "K-EXAONE 2.0 Technical Report",
+          "url": "https://huggingface.co/papers/2608.04505",
+          "summary": "Desenvolvido pela LG AI Research, o K-EXAONE 2.0 expande a arquitetura do modelo básico multilíngue com uma estrutura de mistura de especialistas. Atingindo um total de 750 bilhões de parâmetros, o modelo triplica a capacidade de sua versão anterior com suporte a uma janela de contexto de 256 mil tokens.",
+          "meta": "2 curtidas · 0 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "rust-lang/rust is adopting an LLM policy",
+          "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+          "summary": "A comunidade de linguagens de programação Rust adotou uma nova política para incluir conteúdo criado com grandes modelos de linguagem (LLM) no projeto. Esta regulamentação exige transparência e controle humano para manter os padrões de qualidade do código e da documentação produzidos pela inteligência artificial.",
+          "meta": "135 pontos · 40 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy",
+              "popularity": 135,
+              "engagementCount": 40
+            }
+          ]
+        },
+        {
+          "title": "Offensive Internet Posture",
+          "url": "https://bruceediger.com/posts/offensive-machine/",
+          "summary": "Postura ofensiva na Internet refere-se à adoção de métodos ativos de privacidade pelos usuários em vez de defesa passiva para evitar vazamentos de dados e rastreamento online. Esta abordagem visa gerir a pegada digital ofuscando o tráfego de rede ou alimentando os sistemas com dados enganosos.",
+          "meta": "72 pontos · 16 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fgcrj0/offensive_internet_posture",
+              "popularity": 72,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "Faster Than Ninja",
+          "url": "https://build2.org/blog/faster-than-ninja.xhtml",
+          "summary": "Build2 é um novo sistema de compilação que visa rodar mais rápido que a ferramenta de compilação de software Ninja. O projeto usa algoritmos otimizados para reduzir o tempo de compilação em grandes bases de código.",
+          "meta": "48 pontos · 4 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/31hk9y/faster_than_ninja",
+              "popularity": 48,
+              "engagementCount": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "state kernel",
+      "explanation": "A estrutura central básica que mantém todas as informações e dados de trabalho atuais de um software na memória."
+    },
+    {
+      "term": "computer vision",
+      "explanation": "O campo da tecnologia que permite aos computadores ver e interpretar imagens através de câmeras."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "product development cycle",
+      "explanation": "Todas as etapas de planejamento, produção e testes pelas quais um produto passa desde a ideia até chegar ao usuário final."
+    },
+    {
+      "term": "CEO",
+      "explanation": "O executivo mais sênior responsável por todas as operações e decisões estratégicas de uma empresa."
+    },
+    {
+      "term": "Chair",
+      "explanation": "Pessoa que conduz reuniões de uma organização ou de seu conselho de administração e supervisiona estratégias gerais."
+    }
+  ]
+}

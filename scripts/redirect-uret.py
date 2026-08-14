@@ -38,7 +38,10 @@ KORUNAN = [
     {"source": "/security.txt", "destination": "/.well-known/security.txt", "permanent": True},
 ]
 
-DILLER = ["", "/en", "/fr"]
+# Dil önekleri diller.py'den · yeni dil eklenince burası kendiliğinden büyür
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from diller import DILLER as _DILLER  # noqa: E402
+DILLER = [""] + [d["onek"] for d in _DILLER.values()]
 
 eslesme = json.load(open(BIRLESMIS, encoding="utf-8"))["eslesme"]
 

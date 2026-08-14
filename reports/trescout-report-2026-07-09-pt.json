@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-09",
+  "editorial": "A procura de emprego baseada na inteligência artificial e os conjuntos de competências dos agentes autónomos estão hoje no centro do ecossistema de desenvolvimento. O aumento de projetos de código aberto, especialmente com foco em arquiteturas de memória de banco de dados e automação de fluxo de trabalho, é notável.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "Esta estrutura, que utiliza a infraestrutura do Claude Code, foi projetada para automatizar o processo de procura de emprego. Integrado ao perfil do usuário, o sistema avalia ofertas de emprego e gerencia os processos de edição de currículos, elaboração de cartas de apresentação e preparação para entrevistas.",
+          "meta": "TypeScript · ★ 16.216 · +5.079 hoje"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Desenvolvidas para agentes de codificação de inteligência artificial, as habilidades do agente oferecem habilidades de engenharia em nível de produção. Esta biblioteca fornece funções padronizadas para que os agentes executem tarefas com mais eficiência nos processos de desenvolvimento de software.",
+          "meta": "JavaScript · ★ 74.933 · +1.297 hoje"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "O RuView realiza operações de inteligência espacial em tempo real, rastreamento de sinais vitais e detecção de presença sem dados de imagem usando sinais de rede sem fio padrão (WiFi). Essa tecnologia, desenvolvida com a linguagem Rust, analisa movimentos e dados biométricos do ambiente sem a necessidade de nenhum hardware de câmera.",
+          "meta": "Rust · ★ 79.373 · +799 hoje"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory oferece uma solução de memória de longo prazo totalmente local para agentes de inteligência artificial com um processo de quatro estágios. Ele executa operações de armazenamento e recuperação de dados sem a necessidade de interfaces de programação de aplicativos (APIs) externas.",
+          "meta": "TypeScript · ★ 7.846 · +318 hoje"
+        },
+        {
+          "title": "prisma/prisma",
+          "url": "https://github.com/prisma/prisma",
+          "summary": "Prisma é uma ferramenta de mapeador relacional de objetos (ORM) que simplifica as interações de banco de dados para projetos Node.js e TypeScript. Sua estrutura, que suporta diferentes sistemas de banco de dados, permite aos desenvolvedores criar consultas de banco de dados com segurança de tipo.",
+          "meta": "TypeScript · ★ 46.668 · +46 hoje"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill oferece uma habilidade de inteligência artificial (habilidade de agente de IA) que verifica e sintetiza dados atuais em plataformas como Reddit, X, YouTube, Hacker News e Polymarket. Esta ferramenta baseada em Python combina informações de diferentes fontes para criar resumos baseados em evidências para os usuários.",
+          "meta": "Python · ★ 50.980 · +352 hoje"
+        },
+        {
+          "title": "argoproj/argo-cd",
+          "url": "https://github.com/argoproj/argo-cd",
+          "summary": "Argo CD é uma ferramenta que gerencia processos declarativos de implantação contínua para ambientes Kubernetes. Ele fornece atualizações automáticas na infraestrutura, sincronizando os estados do aplicativo com os repositórios Git.",
+          "meta": "Go · ★ 23.488 · +29 hoje"
+        },
+        {
+          "title": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "summary": "OfficeCLI é uma solução de pacote de escritório de código aberto desenvolvida para agentes de inteligência artificial lerem, editarem e automatizarem diretamente arquivos Word, Excel e PowerPoint. Ele oferece suporte a fluxos de trabalho baseados em agentes, trabalhando por meio de um único arquivo binário sem a necessidade de instalação de software de escritório.",
+          "meta": "C# · ★ 12.507 · +1.717 hoje"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Os prompts do sistema dos principais modelos de linguagem populares são compilados pelos desenvolvedores e coletados em um banco de dados de código aberto. Este estudo fornece um ponto de referência central para a compreensão dos princípios operacionais e limitações de diferentes modelos de inteligência artificial.",
+          "meta": "JavaScript · ★ 54.528 · +1.218 hoje"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers oferece uma metodologia de desenvolvimento de aplicativos e estrutura de capacidade para agentes de inteligência artificial. O objetivo é criar uma estrutura de desenvolvimento padrão combinando processos de software com fluxos de trabalho baseados em agentes.",
+          "meta": "Shell · ★ 250.211 · +1.116 hoje"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Desenvolvido pela Alibaba, o zvec oferece serviço de banco de dados vetorial de alto desempenho com seu princípio de funcionamento em processo. Essa estrutura leve, escrita em C++, fornece uma solução otimizada para processos rápidos de processamento de dados.",
+          "meta": "C++ · ★ 14.545 · +395 hoje"
+        },
+        {
+          "title": "Diolinux/PhotoGIMP",
+          "url": "https://github.com/Diolinux/PhotoGIMP",
+          "summary": "PhotoGIMP oferece um patch que faz com que a interface do GIMP pareça familiar para os usuários do Photoshop. Esta ferramenta adapta atalhos e layouts de menu aos padrões do Photoshop para facilitar a transição para um software de edição de imagens.",
+          "meta": "CSS · ★ 15.195 · +1.125 hoje"
+        },
+        {
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "summary": "DesktopCommanderMCP é um servidor Model Context Protocol desenvolvido para Claude que fornece controle de terminal, pesquisa de sistema de arquivos e recursos de edição de arquivos baseados em diferenças para o modelo de inteligência artificial. Escrita em TypeScript, esta ferramenta permite que a inteligência artificial execute operações diretas em sistemas de arquivos locais.",
+          "meta": "TypeScript · ★ 6.436 · +28 hoje"
+        },
+        {
+          "title": "huxingyi/autoremesher",
+          "url": "https://github.com/huxingyi/autoremesher",
+          "summary": "Autoremesher é uma ferramenta que converte automaticamente estruturas de superfície irregulares em modelos tridimensionais em remalhamento quádruplo. Desenvolvido em linguagem C++, este software é otimizado para tornar geometrias complexas adequadas para processos de animação e modelagem.",
+          "meta": "C++ · ★ 2.123 · +296 hoje"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "O projeto Claude-video permite que o modelo de inteligência artificial analise o conteúdo do vídeo por meio de um processo que separa os vídeos em quadros e converte as gravações de áudio em texto. Esta ferramenta baseada em Python processa dados visuais e de áudio, permitindo que Claude consulte arquivos de vídeo.",
+          "meta": "Python · ★ 6.270 · +951 hoje"
+        },
+        {
+          "title": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "summary": "Desenvolvido pela TencentCloud em Rust, CubeSandbox oferece um ambiente de trabalho (sandbox) instantâneo, simultâneo e seguro para agentes de inteligência artificial (agentes de IA). Graças à sua arquitetura leve, permite que os agentes operem com segurança em uma área isolada.",
+          "meta": "Rust · ★ 9.092 · +564 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+          "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+          "summary": "O bash script ofuscado em uma camiseta vendida nas lojas Uniqlo foi analisado por entusiastas técnicos e o funcionamento dos comandos nela contidos foi revelado. O roteiro em questão, com sua estrutura de autoavaliação, fornece um exemplo de codificação digital inesperada em produtos de varejo.",
+          "meta": "1.361 pontos · 213 comentários"
+        },
+        {
+          "title": "Chatto is now open source",
+          "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+          "summary": "Chatto é uma biblioteca de código aberto que permite aos desenvolvedores integrar interfaces de chat em seus aplicativos. Com sua estrutura baseada em componentes, facilita o gerenciamento das interações do usuário e a personalização dos fluxos de mensagens.",
+          "meta": "928 pontos · 241 comentários"
+        },
+        {
+          "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+          "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+          "summary": "A John Deere concede aos proprietários de equipamentos agrícolas o direito de reparação no âmbito do acordo com a Federal Trade Commission (FTC). Este acordo fornece aos usuários acesso a ferramentas de software e documentação técnica que lhes permitem reparar seus equipamentos fora dos serviços autorizados.",
+          "meta": "696 pontos · 131 comentários"
+        },
+        {
+          "title": "GPT‑Live",
+          "url": "https://openai.com/index/introducing-gpt-live/",
+          "summary": "O GPT-Live, introduzido pela OpenAI, permite aos usuários estabelecer interação de voz em tempo real com modelos de inteligência artificial. Este recurso visa uma experiência de diálogo natural e ininterrupta graças aos recursos de fala de baixa latência.",
+          "meta": "685 pontos · 447 comentários"
+        },
+        {
+          "title": "Grok 4.5",
+          "url": "https://x.ai/news/grok-4-5",
+          "summary": "Grok 4.5, desenvolvido pela xAI, chama a atenção por seus recursos multimodais e habilidades avançadas de raciocínio. O modelo visa proporcionar alto desempenho nos processos de escrita e análise de código, integrando-se a ferramentas de desenvolvimento de software como o Cursor.",
+          "meta": "590 pontos · 801 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "O modelo Qwythos-9B-Claude-Mythos-5-1M é um modelo de inteligência artificial multimodal que produz saída de texto processando entradas visuais e de texto. Este modelo, apresentado no formato GGUF, possui uma arquitetura otimizada para poder ser executado em dispositivos locais.",
+          "meta": "♥ 1.879 · 1.683.711 downloads"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Desenvolvido pela Tencent, Hy3 é um modelo de linguagem otimizado para tarefas de geração de texto. O modelo visa atuar em diversos processos de processamento de linguagem natural por meio do treinamento em conjuntos de dados em grande escala.",
+          "meta": "♥ 575 · 121 downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, desenvolvido pela Zai-org, é um modelo de linguagem otimizado para processos de geração de texto. Com sua estrutura de código aberto, oferece aos desenvolvedores uma infraestrutura de geração de texto de alto desempenho.",
+          "meta": "♥ 3.680 · 281.584 downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desenvolvido pela Baidu, Unlimited-OCR é um modelo de imagem para texto que processa textos visuais e produz saída de texto. O modelo foi projetado para analisar textos em documentos complexos com alta precisão.",
+          "meta": "♥ 1.879 · 1.084.945 downloads"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, desenvolvido pela InternScience, é um modelo de linguagem focado na geração de texto. Este modelo fornece uma infraestrutura especialmente treinada para agentes de inteligência artificial (agentes de IA) que podem executar tarefas complexas.",
+          "meta": "♥ 409 · 14.723 downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Um conjunto de estruturas e regras prontas usadas para agilizar o trabalho de desenvolvimento de software."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Capacidade de resolver problemas complexos em etapas lógicas e usar ferramentas técnicas de forma eficiente."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "Tecnologia que permite conectar-se à Internet através de ondas de rádio, sem utilização de cabos."
+    },
+    {
+      "term": "presence detection",
+      "explanation": "Um sistema que detecta se há pessoas em uma sala ou área com a ajuda de sensores."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "A inteligência artificial pode armazenar informações passadas por muito tempo sem esquecê-las e utilizá-las quando necessário."
+    },
+    {
+      "term": "API",
+      "explanation": "Uma ponte que permite que dois softwares diferentes se comuniquem e troquem dados."
+    },
+    {
+      "term": "ORM",
+      "explanation": "Uma ferramenta que transforma tabelas complexas do banco de dados em objetos que os desenvolvedores de software podem entender com mais facilidade."
+    },
+    {
+      "term": "type-safe",
+      "explanation": "Uma estrutura que detecta erros antes que eles ocorram, evitando que tipos errados de dados sejam usados ​​no software."
+    },
+    {
+      "term": "AI agent skill",
+      "explanation": "A habilidade ou ferramenta específica que a inteligência artificial possui para realizar uma tarefa específica."
+    },
+    {
+      "term": "declarative continuous deployment",
+      "explanation": "Definir a aparência do sistema e lançar atualizações de forma automática e sem erros."
+    },
+    {
+      "term": "office suite",
+      "explanation": "Conjunto de programas que realizam tarefas como escrever documentos, criar planilhas e preparar apresentações."
+    },
+    {
+      "term": "binary",
+      "explanation": "O formato de dados mais básico que consiste apenas em zeros e uns que um computador pode compreender diretamente."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Instruções iniciais informando à IA como ela deve se comportar e quais regras deve seguir."
+    },
+    {
+      "term": "in-process",
+      "explanation": "Execução de um processo dentro da própria área de trabalho do programa principal sem necessidade de local separado."
+    },
+    {
+      "term": "vector database",
+      "explanation": "Um banco de dados especial que pesquisa e encontra dados rapidamente com base em suas semelhanças, convertendo-os em números matemáticos."
+    },
+    {
+      "term": "patch",
+      "explanation": "Um pequeno arquivo de atualização adicionado posteriormente para corrigir um bug ou melhorar o desempenho de um software."
+    }
+  ]
+}

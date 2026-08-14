@@ -113,7 +113,15 @@ let fixedFooterCount = 0;
    "Türkçe" sayıp menüyü Türkçeyle ezerdi. Fransızca sayfaların nav/footer'ı
    scripts/diller.py'den geliyor ve her üretimde yeniden yazılıyor, dolayısıyla
    sapma birikemiyor. Yeni dil eklerken bu listeye de ekleyin. */
-const URETILEN_DILLER = ['fr/'];
+// Kabuğu diller.py'den basılan diller · burası ELLE yazılıyordu ve Portekizce
+// eklenince unutuldu: normalize edici 1000+ Portekizce sayfaya TÜRKÇE menü
+// bastı (2026-08-14). Artık tablodan türüyor · İngilizce hariç, çünkü onun
+// kanonik kaynağı bu betik.
+const URETILEN_DILLER = JSON.parse(
+  require('child_process').execFileSync('python3', ['-c',
+    "import sys;sys.path.insert(0,'scripts');from diller import DILLER;import json;" +
+    "print(json.dumps([k+'/' for k in DILLER if k!='en']))"], { encoding: 'utf8' })
+);
 
 allHtmls.forEach(relPath => {
   const normPath = relPath.replace(/\\/g, '/');
@@ -162,32 +170,40 @@ allHtmls.forEach(relPath => {
   // Fransızca hedefi · aynı bölüm + aynı slug. Karşılığı yoksa Fransızca ana
   // sayfaya düşer (404 vermesin). 2026-08-08: Fransızca yayındaydı ama Türkçe ve
   // İngilizce menüde bağlantısı yoktu · siteden ulaşmak mümkün değildi.
-  const frBolum = normPath.replace(/^en\//, '');
-  let frLink = '/fr/';
-  const frAday = (() => {
-    if (frBolum === 'index.html') return '/fr/';
-    if (frBolum === 'dictionary/index.html') return '/fr/dictionary/';
-    if (frBolum === 'discover/index.html') return '/fr/discover/';
-    if (frBolum === 'reports/index.html') return '/fr/reports/';
-    if (frBolum === 'reports/tekrarsiz/index.html' || frBolum === 'reports/fresh/index.html')
-      return '/fr/reports/fresh/';
-    if (frBolum.startsWith('dictionary/'))
-      return `/fr/dictionary/${frBolum.replace('dictionary/', '').replace('/index.html', '')}/`;
-    if (frBolum.startsWith('discover/'))
-      return `/fr/discover/${frBolum.replace('discover/', '').replace('/index.html', '')}/`;
-    if (frBolum.startsWith('reports/')) {
-      const d = frBolum.match(/\d{4}-\d{2}-\d{2}/);
-      const taze = frBolum.includes('tekrarsiz/') || frBolum.includes('fresh/');
-      if (d) return `/fr/reports/${taze ? 'fresh/' : ''}${d[0]}/`;
-      return taze ? '/fr/reports/fresh/' : '/fr/reports/';
-    }
-    return '/fr/';
-  })();
-  if (fs.existsSync(path.join(ROOT, frAday.replace(/^\/|\/$/g, ''), 'index.html'))) frLink = frAday;
+  // Diğer dillerdeki karşılık · aynı bölüm + aynı slug, karşılığı yoksa o dilin
+  // ana sayfası (404 vermesin). 2026-08-08'de Fransızca, 2026-08-13'te Portekizce
+  // eklendi · dil listesi büyüyünce burası tek yerden dönüyor.
+  const bolumYolu = normPath.replace(/^(en|fr|pt)\//, '');
+  const dilBaglantisi = (onek) => {
+    const aday = (() => {
+      if (bolumYolu === 'index.html') return `/${onek}/`;
+      if (bolumYolu === 'dictionary/index.html') return `/${onek}/dictionary/`;
+      if (bolumYolu === 'discover/index.html') return `/${onek}/discover/`;
+      if (bolumYolu === 'reports/index.html') return `/${onek}/reports/`;
+      if (bolumYolu === 'reports/tekrarsiz/index.html' || bolumYolu === 'reports/fresh/index.html')
+        return `/${onek}/reports/fresh/`;
+      if (bolumYolu === 'compare/rss-vs-ai/index.html') return `/${onek}/compare/rss-vs-ai/`;
+      if (bolumYolu.startsWith('dictionary/'))
+        return `/${onek}/dictionary/${bolumYolu.replace('dictionary/', '').replace('/index.html', '')}/`;
+      if (bolumYolu.startsWith('discover/'))
+        return `/${onek}/discover/${bolumYolu.replace('discover/', '').replace('/index.html', '')}/`;
+      if (bolumYolu.startsWith('reports/')) {
+        const d = bolumYolu.match(/\d{4}-\d{2}-\d{2}/);
+        const taze = bolumYolu.includes('tekrarsiz/') || bolumYolu.includes('fresh/');
+        if (d) return `/${onek}/reports/${taze ? 'fresh/' : ''}${d[0]}/`;
+        return taze ? `/${onek}/reports/fresh/` : `/${onek}/reports/`;
+      }
+      return `/${onek}/`;
+    })();
+    return fs.existsSync(path.join(ROOT, aday.replace(/^\/|\/$/g, ''), 'index.html'))
+      ? aday : `/${onek}/`;
+  };
+  const frLink = dilBaglantisi('fr');
+  const ptLink = dilBaglantisi('pt');
 
   const expectedNav = isEn ?
-`<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports Archive</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="${oppLink}" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a><a href="${frLink}" class="btn btn-ghost" aria-label="Passer au français">FR</a></div></div></nav>` :
-`<nav><div class="container nav-inner"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/discover/" class="btn btn-ghost">Keşif</a><a href="/dictionary/" class="btn btn-ghost">Sözlük</a><a href="/reports/" class="btn btn-ghost">Raporlar</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Karşılaştır</a><a href="${oppLink}" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a><a href="${frLink}" class="btn btn-ghost" aria-label="Fransızcaya geç">FR</a></div></div></nav>`;
+`<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports Archive</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="${oppLink}" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a><a href="${frLink}" class="btn btn-ghost" aria-label="Passer au français">FR</a><a href="${ptLink}" class="btn btn-ghost" aria-label="Mudar para português">PT</a></div></div></nav>` :
+`<nav><div class="container nav-inner"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/discover/" class="btn btn-ghost">Keşif</a><a href="/dictionary/" class="btn btn-ghost">Sözlük</a><a href="/reports/" class="btn btn-ghost">Raporlar</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Karşılaştır</a><a href="${oppLink}" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a><a href="${frLink}" class="btn btn-ghost" aria-label="Fransızcaya geç">FR</a><a href="${ptLink}" class="btn btn-ghost" aria-label="Portekizceye geç">PT</a></div></div></nav>`;
 
   const expectedFooter = isEn ? richEnFooter : richTrFooter;
 

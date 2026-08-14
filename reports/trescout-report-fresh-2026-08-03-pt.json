@@ -1,0 +1,246 @@
+{
+  "date": "2026-08-03",
+  "editorial": "Este relatório inclui as tendências que se destacaram hoje pela primeira vez, sem repetir o que partilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach é uma interface de linha de comando (CLI) que oferece aos agentes de inteligência artificial a capacidade de pesquisar e ler conteúdo em plataformas populares na Internet. Ele oferece aos usuários a oportunidade de extrair dados de plataformas como Twitter, Reddit e GitHub sem pagar nenhuma taxa de interface de programação de aplicativos (API).",
+          "meta": "Python · ★ 65.059 · +659 hoje",
+          "returning": true
+        },
+        {
+          "title": "HarbourMasters/Lighthouse",
+          "url": "https://github.com/HarbourMasters/Lighthouse",
+          "summary": "Lighthouse é uma ferramenta de cobertura de código desenvolvida em linguagem C e projetada para sistemas de baixo nível. Ele fornece dados aos desenvolvedores para depuração e otimização de desempenho, analisando quais blocos de código são executados durante os processos de teste do software.",
+          "meta": "C · ★ 259 · +65 hoje"
+        },
+        {
+          "title": "antirez/ds4",
+          "url": "https://github.com/antirez/ds4",
+          "summary": "Desenvolvido por Salvatore Sanfilippo, criador do Redis, o ds4 é um mecanismo de inferência que permite executar modelos DeepSeek em hardware local. Esta ferramenta, escrita em linguagem C, oferece a oportunidade de executar modelos de alto desempenho em diferentes processadores gráficos graças ao suporte Metal, CUDA e ROCm.",
+          "meta": "C · ★ 20.117 · +139 hoje"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix é um agente de codificação de IA executado no terminal e baseado em modelos DeepSeek. Com foco na estabilidade do cache de prefixo, esta ferramenta garante que os desenvolvedores recebam suporte de codificação ininterrupto durante sessões longas.",
+          "meta": "Go · ★ 29.369 · +333 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Karpathy’s Pelican",
+          "url": "https://twitter.com/karpathy/status/2083749667410727319",
+          "summary": "Desenvolvido por Andrej Karpathy, o Pelican oferece gerenciamento de conteúdo simples e rápido como gerador de sites estáticos. Esta ferramenta baseada em Python concentra-se na conversão de arquivos de texto diretamente em páginas da web, em vez de configurações complexas.",
+          "meta": "538 pontos · 376 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49140998",
+              "popularity": 538,
+              "engagementCount": 376
+            }
+          ]
+        },
+        {
+          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "summary": "Qwen3.8-Max, o grande modelo de linguagem desenvolvido pela Alibaba, leva os recursos de codificação e colaboração nos processos de desenvolvimento de software a um nível avançado. O modelo estabelece um novo padrão para ferramentas de desenvolvedor (IDEs), oferecendo alta precisão e desempenho de trabalho eficiente em tarefas de programação complexas.",
+          "meta": "415 pontos · 172 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49150470",
+              "popularity": 415,
+              "engagementCount": 172
+            }
+          ]
+        },
+        {
+          "title": "How the words we teach English language learners changed",
+          "url": "https://pudding.cool/2026/07/essential-words/",
+          "summary": "A visualização, preparada por The Pudding, examina a mudança no vocabulário usado em livros didáticos para alunos de língua inglesa ao longo do tempo. O estudo revela, com uma abordagem baseada em dados, como as prioridades culturais e linguísticas dos materiais didáticos têm diferido ao longo das décadas.",
+          "meta": "208 pontos · 156 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49145590",
+              "popularity": 208,
+              "engagementCount": 156
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+          "url": "https://github.com/wie-project/kakehashi",
+          "summary": "Kakehashi é uma ferramenta experimental de espaço de usuário que permite executar binários macOS na arquitetura Linux ARM. O objetivo é criar a camada de tradução necessária para executar aplicativos do sistema operacional Apple em um núcleo diferente.",
+          "meta": "208 pontos · 50 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49145937",
+              "popularity": 208,
+              "engagementCount": 50
+            }
+          ]
+        },
+        {
+          "title": "Developers are attached to tools because tools encode trust",
+          "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+          "summary": "O compromisso dos desenvolvedores com as ferramentas que utilizam decorre do fato de que essas ferramentas proporcionam confiabilidade e previsibilidade em seus fluxos de trabalho. Os desenvolvedores veem os padrões e a confiabilidade oferecidos por uma solução técnica (ferramenta) como um ponto de referência fundamental para manter sua produtividade pessoal.",
+          "meta": "193 pontos · 104 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49097961",
+              "popularity": 193,
+              "engagementCount": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, desenvolvido pela MiniMax, é um modelo de IA multimodal que cria vídeo usando entradas visuais e de texto. Ele permite aos usuários produzir imagens em movimento de alta qualidade a partir de conteúdo estático ou comandos escritos.",
+          "meta": "♥ 630 · 0 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift",
+          "url": "https://huggingface.co/papers/2607.28996",
+          "summary": "SULAND v2 é um conjunto de dados de imagens RGB abrangente e uma ferramenta de benchmarking desenvolvida para detecção de minas de superfície por veículos aéreos e terrestres não tripulados (UAV/UGV). Ao medir o desempenho de modelos de detecção de objetos sob diferentes condições operacionais, visa testar a validade geral dos modelos neste campo focado na segurança.",
+          "meta": "0 curtidas · 1 comentários"
+        },
+        {
+          "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
+          "url": "https://huggingface.co/papers/2607.27951",
+          "summary": "As salvaguardas em grandes modelos de linguagem criam vulnerabilidades em tarefas de dupla utilização porque a resposta é decidida sem saber como será usada. Os pesquisadores provam que o contexto clonável não pode fornecer uma base confiável para a segurança quando os invasores podem se passar por usuários bem-intencionados.",
+          "meta": "0 curtidas · 1 comentários"
+        },
+        {
+          "title": "Enhancing Rubric-based RL via Self-Distillation",
+          "url": "https://huggingface.co/papers/2607.18082",
+          "summary": "A aprendizagem por reforço baseada em critérios é um método usado para melhorar modelos de linguagem em uma ampla gama de tarefas. Para eliminar a incompatibilidade de treinamento e inferência causada por orientação externa, os pesquisadores usam a técnica de autodestilação para incluir métricas não descobertas no processo de otimização.",
+          "meta": "13 curtidas · 1 comentários"
+        },
+        {
+          "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
+          "url": "https://huggingface.co/papers/2607.29025",
+          "summary": "O sistema de recompensa de avaliação e verificação, desenvolvido para garantir consistência e harmonia visual em modelos de edição visual multirreferência, traz métodos de aprendizagem por reforço para esta área. Esta abordagem visa preservar a integridade visual nos processos de edição, modelando restrições relacionais entre múltiplas imagens.",
+          "meta": "11 curtidas · 0 comentários"
+        },
+        {
+          "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+          "url": "https://huggingface.co/papers/2607.29677",
+          "summary": "ExtractBench é um novo benchmark que avalia a extração de dados baseada em esquema de documentos empresariais. O sistema mede a precisão, integridade, procedência e desempenho de custos de modelos de IA em 370 documentos corporativos diferentes.",
+          "meta": "13 curtidas · 0 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Your JSON Is Lying to You",
+          "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+          "summary": "O formato JSON pode levar à perda inesperada de dados em aplicativos devido à sua capacidade limitada de expressar tipos de dados e precisão numérica. Essas inconsistências, especialmente ao processar números inteiros grandes ou valores decimais precisos, causam problemas de integridade dos dados.",
+          "meta": "9 pontos · 3 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/tjgemj/your_json_is_lying_you",
+              "popularity": 9,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "I'm (mostly) picking models on speed now, not intelligence",
+          "url": "https://martinalderson.com/posts/speed-vs-intelligence/",
+          "summary": "Ao escolher modelos de inteligência artificial, os desenvolvedores de software agora se concentram na velocidade (latência) e não na capacidade de inteligência. O curto tempo de resposta torna-se uma prioridade em relação à complexidade dos modelos, pois aumenta a eficiência nos fluxos de trabalho diários.",
+          "meta": "27 pontos · 15 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aso7dh/i_m_mostly_picking_models_on_speed_now_not",
+              "popularity": 27,
+              "engagementCount": 15
+            }
+          ]
+        },
+        {
+          "title": "Faster floating point math with Rust’s new API",
+          "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+          "summary": "A nova interface de programação de aplicativos (API) adicionada à linguagem de programação Rust aumenta a velocidade de processamento da matemática de ponto flutuante. Esta atualização proporciona otimização de desempenho, especialmente em software que requer operações matemáticas intensivas.",
+          "meta": "18 pontos · 7 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new",
+              "popularity": 18,
+              "engagementCount": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que permite gerenciar programas digitando comandos escritos em vez de usar o mouse."
+    },
+    {
+      "term": "API",
+      "explanation": "Uma ponte que permite que dois softwares diferentes se comuniquem e troquem dados."
+    },
+    {
+      "term": "code coverage",
+      "explanation": "Um valor de medição que mostra quanto de um programa escrito é controlado por testes."
+    },
+    {
+      "term": "inference engine",
+      "explanation": "Um software que produz previsões ou conclusões sobre novos dados usando um modelo de inteligência artificial treinado."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "Método de aceleração que evita que a inteligência artificial repita as mesmas operações, mantendo na memória o início do texto que processou anteriormente."
+    },
+    {
+      "term": "static site generator",
+      "explanation": "Uma ferramenta de software que pega conteúdo pronto e o transforma em páginas fixas de carregamento rápido."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Um ambiente de trabalho avançado que reúne todas as ferramentas que os desenvolvedores de software precisam ao escrever código em um só lugar."
+    },
+    {
+      "term": "binary",
+      "explanation": "Um formato de linguagem de máquina que consiste apenas em zeros e uns que o computador pode compreender e executar diretamente."
+    },
+    {
+      "term": "userspace",
+      "explanation": "Uma área segura onde os aplicativos do usuário são executados sem tocar no kernel do sistema operacional do computador."
+    }
+  ]
+}
