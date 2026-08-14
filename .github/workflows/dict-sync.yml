@@ -112,6 +112,7 @@ jobs:
           python3 scripts/kapak-gorselleri.py --lang=en
           python3 scripts/kapak-gorselleri.py --lang=fr
           python3 scripts/kapak-gorselleri.py --lang=pt
+          python3 scripts/kapak-gorselleri.py --lang=es
 
       # SIRA ÖNEMLİ · sözlük ÖNCE. Keşif sayfasındaki "İlgili sözlük terimleri"
       # bölümü, o dilde sözlük sayfası diskte VARSA basılıyor. Ters sırada yeni
@@ -133,6 +134,11 @@ jobs:
           python3 scripts/dictionary-en.py --lang=pt
           python3 scripts/discover-en.py --lang=pt
 
+      - name: İspanyolca sayfaları üret (sözlük + keşif)
+        run: |
+          python3 scripts/dictionary-en.py --lang=es
+          python3 scripts/discover-en.py --lang=es
+
       # Dizin sayfaları · kart ızgarası + arama/sıralama. Detay sayfalarından
       # SONRA çalışmalı: kabuğu (nav/footer) o dilin üretilmiş bir sayfasından
       # kopyalıyor.
@@ -141,6 +147,7 @@ jobs:
           node scripts/build-en.js
           node scripts/build-en.js --lang=fr
           node scripts/build-en.js --lang=pt
+          node scripts/build-en.js --lang=es
           # dil-anasayfa.py ARTIK ÇAĞRILMIYOR · Fransızca ana sayfa Türkçesinin
           # tam çevirisi oldu ve elle bakılıyor (check-sayfa-paritesi.py
           # denetliyor). Betik yeni diller için duruyor, tam sayfayı ezmiyor.
@@ -148,6 +155,7 @@ jobs:
           # değişince kabukları geride kalmasın diye tazeleyici koşuyor.
           python3 scripts/dil-kabuk-tazele.py --lang=fr
           python3 scripts/dil-kabuk-tazele.py --lang=pt
+          python3 scripts/dil-kabuk-tazele.py --lang=es
 
       # Rapor arşivi sayfaları · rapor yayını (app · publish-report.ts) PDF ve
       # çevrilmiş JSON'u üretiyor, sayfaları burada basıyoruz. O dilin çevrilmiş
@@ -157,6 +165,7 @@ jobs:
           node scripts/build-reports-en.js
           node scripts/build-reports-en.js --lang=fr
           node scripts/build-reports-en.js --lang=pt
+          node scripts/build-reports-en.js --lang=es
 
       - name: AI'a hizmet · keşif index server-render + .md + llms.txt
         run: |

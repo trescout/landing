@@ -80,7 +80,7 @@ function tarihYaz(dateStr) {
 
 /** Nav'daki dil düğmelerini sayfaya özel yap · hedefi olmayan etiket korunur. */
 const dilYaz = (nav, hedefler) => nav.replace(
-  /<a href="[^"]*" class="btn btn-ghost" aria-label="[^"]*">(TR|EN|FR|PT)<\/a>/g,
+  /<a href="[^"]*" class="btn btn-ghost" aria-label="[^"]*">(TR|EN|FR|PT|ES)<\/a>/g,
   (m, et) => hedefler[et]
     ? `<a href="${hedefler[et]}" class="btn btn-ghost" aria-label="${et}">${et}</a>`
     : m
@@ -151,6 +151,7 @@ function buildVariant(V) {
       EN: `/en/${enYol}/${dateStr}/`,
       FR: `/fr/${enYol}/${dateStr}/`,
       PT: `/pt/${enYol}/${dateStr}/`,
+      ES: `/es/${enYol}/${dateStr}/`,
     });
 
     const html = `<!DOCTYPE html>
@@ -223,7 +224,7 @@ function buildVariant(V) {
   const dizinYol = V.kind === 'fresh' ? 'reports/fresh' : 'reports';
   const dizinKabuk = kabuk({
     TR: `${V.trUrlBase}/`, EN: `/en/${dizinYol}/`,
-    FR: `/fr/${dizinYol}/`, PT: `/pt/${dizinYol}/`,
+    FR: `/fr/${dizinYol}/`, PT: `/pt/${dizinYol}/`, ES: `/es/${dizinYol}/`,
   });
   const footer = dizinKabuk.footer;
   // Dizin sayfasında menüdeki rapor bağlantısı "bulunduğunuz sayfa" olmalı ·

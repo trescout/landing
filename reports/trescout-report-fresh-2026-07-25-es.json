@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-25",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Desarrollado con el lenguaje Go, superfile proporciona una interfaz moderna y visualmente rica para administradores de archivos basados ​​en terminales. Los usuarios pueden gestionar las operaciones de archivos en la línea de comandos con una experiencia más estética y funcional.",
+          "meta": "Go · ★ 19.700 · +338 hoy"
+        },
+        {
+          "title": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "summary": "Dive into LLMs es una serie de capacitación que enseña los principios de funcionamiento de grandes modelos de lenguaje de manera práctica a través de archivos Jupyter Notebook. El proyecto concreta los procesos de desarrollo de modelos al ofrecer una amplia gama de prácticas de codificación, desde conceptos básicos hasta técnicas avanzadas.",
+          "meta": "Jupyter Notebook · ★ 45.115 · +328 hoy"
+        },
+        {
+          "title": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "summary": "Chat2DB se destaca como una herramienta de gestión de bases de datos y un cliente SQL compatible con inteligencia artificial. Esta plataforma, desarrollada con Java, brinda la oportunidad de administrar múltiples sistemas de bases de datos como MySQL, PostgreSQL y Oracle a través de una única interfaz gráfica de usuario (GUI).",
+          "meta": "Java · ★ 26.409 · +82 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "summary": "Anthropic anunció Claude 3.5 Opus, un nuevo modelo de lenguaje de gran tamaño centrado en el razonamiento avanzado y la capacidad de resolución de problemas complejos. El modelo apunta a estándares de inteligencia artificial de alto rendimiento con mejoras de seguridad compartidas en la placa del sistema y una arquitectura técnica actualizada.",
+          "meta": "1.441 puntos · 790 comentarios"
+        },
+        {
+          "title": "If coding has been solved, why does software keep getting worse?",
+          "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+          "summary": "Aunque la automatización de los procesos de desarrollo de software y la codificación asistida por IA se han generalizado, continúan las discusiones sobre fallas técnicas en la experiencia del usuario final y la disminución de la calidad del software. Los expertos destacan que el aumento de la velocidad de escritura de código no coincide con la capacidad de gestionar la complejidad del sistema y la acumulación de deuda técnica afecta negativamente al ecosistema del software.",
+          "meta": "683 puntos · 516 comentarios"
+        },
+        {
+          "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+          "summary": "Nvidia, Microsoft y Meta sostienen que la sobrerregulación de los modelos abiertos restringirá la innovación tecnológica. Las empresas de tecnología recomiendan mejorar los estándares de seguridad en lugar de restringir estos modelos.",
+          "meta": "573 puntos · 255 comentarios"
+        },
+        {
+          "title": "India's first privately-developed rocket reaches orbit on debut launch",
+          "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+          "summary": "Una iniciativa espacial privada con sede en India logró alcanzar la órbita en su primer vuelo de prueba con el primer cohete que desarrolló. Este desarrollo aumenta la competencia del país en el sector de los vuelos espaciales comerciales y el papel del sector privado en la economía espacial.",
+          "meta": "557 puntos · 163 comentarios"
+        },
+        {
+          "title": "My security camera shipped a GitHub admin token in its login page",
+          "url": "https://hhh.hn/hanwha-github-token/",
+          "summary": "En la página de inicio de sesión de las cámaras de seguridad Hanwha Vision, la clave de acceso del administrador de GitHub (token de administrador) está disponible como código abierto. Esta situación revela que se exportaron accidentalmente datos confidenciales durante el proceso de desarrollo de software de los dispositivos.",
+          "meta": "550 puntos · 186 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    }
+  ]
+}

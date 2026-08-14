@@ -44,7 +44,7 @@
         {
           "title": "bytedance/deer-flow",
           "url": "https://github.com/bytedance/deer-flow",
-          "summary": "Développé par ByteDance, Deer-Flow est un framework de superagent open source conçu pour effectuer des tâches de longue durée. Système; Il peut rechercher et coder de manière autonome des flux de travail complexes à l'aide d'un bac à sable, d'une gestion de la mémoire et de sous-agents.",
+          "summary": "Développé par ByteDance, Deer-Flow est un framework de superagent open source conçu pour effectuer des tâches de longue durée. Système; Il peut rechercher et coder de manière autonome des flux de travail complexes à l'aide d'un bac à sable, de la gestion de la mémoire et de sous-agents.",
           "meta": "Python · ★ 72 905 · +442 aujourd'hui"
         },
         {
@@ -56,7 +56,7 @@
         {
           "title": "mukul975/Anthropic-Cybersecurity-Skills",
           "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-          "summary": "Anthropic-Cybersecurity-Skills projesi, yapay zekâ ajanları için beş farklı siber güvenlik çerçevesiyle eşleştirilmiş 754 yapılandırılmış yetenek (skills) seti sunuyor. Bu kaynak, 26 güvenlik alanını kapsayarak Claude Code ve GitHub Copilot gibi 20'den fazla platformda standartlaştırılmış güvenlik iş akışları oluşturulmasına olanak tanıyor.",
+          "summary": "Le projet Anthropic-Cybersecurity-Skills propose un ensemble de 754 compétences structurées pour les agents d'IA, associées à cinq cadres de cybersécurité différents. Cette ressource couvre 26 domaines de sécurité, permettant la création de workflows de sécurité standardisés sur plus de 20 plateformes telles que Claude Code et GitHub Copilot.",
           "meta": "Python · ★ 18 081 · +361 aujourd'hui"
         },
         {
@@ -211,7 +211,7 @@
     },
     {
       "term": "knowledge graph",
-      "explanation": "Une structure de données qui affiche les relations entre les informations sous forme de points interconnectés."
+      "explanation": "Une structure de données qui montre les relations entre les informations sous forme de points interconnectés."
     },
     {
       "term": "skills",

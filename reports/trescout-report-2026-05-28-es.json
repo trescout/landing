@@ -1,0 +1,184 @@
+{
+  "date": "2026-05-28",
+  "editorial": "La agenda tecnológica actual consiste en herramientas autónomas de generación y análisis de contenido que ayudan a dar sentido a documentos complejos. Los proyectos de código abierto compartidos en GitHub se centran especialmente en complementos que aceleran el procesamiento de información y mecanismos de filtrado que controlan la calidad del contenido.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo te permite crear vídeos cortos de alta resolución con un solo clic, utilizando modelos de lenguaje de gran tamaño. Esta herramienta basada en Python automatiza el proceso de producción de contenidos y crea edición automática de vídeo a partir de textos.",
+          "meta": "Python · ★ 62.104 · +1.742 hoy"
+        },
+        {
+          "title": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "summary": "Understand-Anything transforma las bases de código en gráficos de conocimiento interactivos, lo que permite a los desarrolladores visualizar y consultar sus proyectos. Desarrollada con TypeScript, esta herramienta facilita la comprensión de estructuras de software complejas al integrarse con varios asistentes de codificación compatibles con inteligencia artificial.",
+          "meta": "TypeScript · ★ 39.878 · +4.465 hoy"
+        },
+        {
+          "title": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "summary": "El proyecto stop-slop es una herramienta de edición que detecta y limpia patrones narrativos característicos (informes de IA) en textos creados por inteligencia artificial. Ofrece un conjunto de reglas de procesamiento de lenguaje personalizado (archivo de habilidades) para eliminar rastros de inteligencia artificial en el lenguaje escrito.",
+          "meta": "★ 5.711 · +664 hoy"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC es un sistema que optimiza las habilidades, la memoria y las capas de seguridad para herramientas de codificación de inteligencia artificial como Claude Code y Cursor. Ofrece una infraestructura orientada a la investigación para aumentar el rendimiento de los agentes en los procesos de desarrollo de software.",
+          "meta": "JavaScript · ★ 196.051 · +2.062 hoy"
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Los complementos de trabajo de conocimiento compartidos por Anthropic ofrecen herramientas de código abierto para los profesionales que trabajan en Claude Cowork. Esta biblioteca basada en Python incluye modelos de complementos desarrollados para automatizar flujos de trabajo complejos.",
+          "meta": "Python · ★ 17.288 · +695 hoy"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill es un sistema diseñado para mejorar la calidad del contenido producido por modelos de inteligencia artificial. Evita que el modelo genere respuestas generales y monótonas (desagües genéricos), lo que le permite producir resultados más exclusivos y calificados.",
+          "meta": "Shell · ★ 24.293 · +2.715 hoy"
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "summary": "Heretic es una herramienta de Python que permite la eliminación completamente automática de mecanismos de censura en modelos de lenguaje. El software tiene como objetivo estandarizar el proceso de desactivación de restricciones mediante el procesamiento de pesos del modelo.",
+          "meta": "Python · ★ 22.018 · +211 hoy"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos se desarrolló como un modelo básico diseñado para analizar el lenguaje único de los mercados financieros. Este modelo, que está personalizado para analizar la compleja estructura de los datos financieros, se utiliza en procesos de procesamiento de lenguaje natural orientados al mercado.",
+          "meta": "Python · ★ 26.888 · +401 hoy"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Desarrollada para agentes de inteligencia artificial, esta biblioteca ofrece 754 capacidades estructuradas combinadas con cinco marcos de ciberseguridad diferentes. Compatible con más de 20 plataformas como Claude Code y GitHub Copilot, este estándar tiene como objetivo facilitar los procesos de automatización centrados en la seguridad.",
+          "meta": "Python · ★ 10.972 · +886 hoy"
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty es una plataforma de gestión de relaciones con el cliente de código abierto diseñada para la integración de inteligencia artificial. Este software, desarrollado con el lenguaje TypeScript, ofrece una opción alternativa a soluciones comerciales como Salesforce.",
+          "meta": "TypeScript · ★ 47.340 · +519 hoy"
+        },
+        {
+          "title": "Chachamaru127/claude-code-harness",
+          "url": "https://github.com/Chachamaru127/claude-code-harness",
+          "summary": "Claude Code Dedicated Development Harness automatiza los procesos de desarrollo de software con un ciclo autónomo de planificación, implementación y revisión. Esta herramienta ofrece gestión del flujo de trabajo basada en inteligencia artificial para la producción de código de alta calidad.",
+          "meta": "Shell · ★ 1.838 · +87 hoy"
+        },
+        {
+          "title": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "summary": "El proyecto DigitalPlat FreeDomain ofrece una infraestructura que permite a los usuarios obtener un nombre de dominio gratuito. Este trabajo de código abierto tiene como objetivo hacer que el proceso de creación de una presencia web sea gratuito.",
+          "meta": "HTML · ★ 169.157 · +2.222 hoy"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers ofrece un marco de habilidades de agente y una metodología de desarrollo de software para agentes de inteligencia artificial. Esta herramienta fue desarrollada para estandarizar los flujos de trabajo basados ​​en agentes y estructurar los procesos de desarrollo de software.",
+          "meta": "Shell · ★ 209.561 · +1.511 hoy"
+        },
+        {
+          "title": "byoungd/English-level-up-tips",
+          "url": "https://github.com/byoungd/English-level-up-tips",
+          "summary": "English-level-up-tips es una guía que proporciona recursos y métodos completos para aprender inglés avanzado. Incluye planes de estudio estratégicos y materiales de formación para usuarios que quieran mejorar sus habilidades lingüísticas.",
+          "meta": "★ 46.723 · +1.163 hoy"
+        },
+        {
+          "title": "iii-hq/iii",
+          "url": "https://github.com/iii-hq/iii",
+          "summary": "Desarrollado con el lenguaje Rust, iii ofrece una infraestructura que permite la creación, ampliación y observabilidad de todos los servicios en tiempo real. Hace que los procesos de gestión de servicios en sistemas distribuidos sean gestionables desde un único centro.",
+          "meta": "Rust · ★ 16.881 · +376 hoy"
+        },
+        {
+          "title": "Axorax/awesome-free-apps",
+          "url": "https://github.com/Axorax/awesome-free-apps",
+          "summary": "La increíble lista de aplicaciones gratuitas compilada por Axorax reúne recomendaciones de aplicaciones gratuitas seleccionadas para computadoras personales y dispositivos móviles. Este recurso ofrece una guía accesible categorizando el software que los usuarios pueden necesitar.",
+          "meta": "JavaScript · ★ 5.887 · +728 hoy"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi es una plataforma de personajes virtuales (waifu) basada en inteligencia artificial con chat de voz en tiempo real y capacidades de juego que los usuarios pueden alojar en sus propios servidores. Desarrollado con TypeScript, el proyecto tiene como objetivo llevar activos digitales interactivos similares a Neuro-sama a entornos web y de escritorio.",
+          "meta": "TypeScript · ★ 40.222 · +72 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+          "summary": "Después de que Google anunciara que los usuarios habían adoptado su modo de búsqueda basado en inteligencia artificial, el motor de búsqueda DuckDuckGo experimentó un aumento del 28 por ciento en el número de visitantes. Esto muestra que los usuarios tienden a preferir la experiencia de búsqueda tradicional a los resultados respaldados por inteligencia artificial.",
+          "meta": "657 puntos · 335 comentarios"
+        },
+        {
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "summary": "Anthropic y OpenAI han logrado una armonía permanente en el mercado en los procesos de desarrollo de software con los grandes modelos de lenguaje que ofrecen. A medida que los desarrolladores integran estas herramientas en sus flujos de trabajo diarios, la IA generativa se está convirtiendo en un componente estándar en el ciclo de desarrollo de aplicaciones.",
+          "meta": "632 puntos · 773 comentarios"
+        },
+        {
+          "title": "Last.fm is now independent",
+          "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+          "summary": "La plataforma de transmisión de música Last.fm se separó de su grupo de medios afiliado y se convirtió en una empresa independiente. Con este proceso, la plataforma comenzó a gestionar los datos de los usuarios y la infraestructura de servicios dentro de sí misma.",
+          "meta": "617 puntos · 175 comentarios"
+        },
+        {
+          "title": "Tech CEOs are apparently suffering from AI psychosis",
+          "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+          "summary": "La psicosis de la inteligencia artificial se define como el desarrollo de expectativas poco realistas por parte de los altos ejecutivos del mundo de la tecnología sobre los efectos futuros de las tecnologías de inteligencia artificial. Esta situación provoca que las empresas tomen decisiones estratégicas que no se corresponden con las realidades del mercado y adopten una perspectiva demasiado optimista sobre la evolución tecnológica.",
+          "meta": "557 puntos · 283 comentarios"
+        },
+        {
+          "title": "YouTube to automatically label AI-generated videos",
+          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "summary": "YouTube está introduciendo un nuevo sistema de etiquetado para identificar contenido creado o modificado por inteligencia artificial. La plataforma tiene como objetivo aumentar la transparencia en el contenido preparado con IA generativa para que los espectadores puedan distinguir vídeos de aspecto realista.",
+          "meta": "516 puntos · 312 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "bytedance-research/Lance",
+          "url": "https://huggingface.co/bytedance-research/Lance",
+          "summary": "Desarrollado por ByteDance, Lance ofrece una estructura de modelo multimodal (cualquiera a cualquiera) que permite la conversión entre diferentes tipos de datos. Este enfoque proporciona flexibilidad en tareas intermodales al procesar varios formatos de entrada, como texto, imágenes y audio en un espacio común.",
+          "meta": "♥ 923 · 1.908 descargas"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "Desarrollado por OpenBMB, MiniCPM5-1B es un modelo de lenguaje de bajos parámetros optimizado para tareas de generación de texto. Diseñado con el objetivo de trabajar de manera eficiente con recursos informáticos limitados, el modelo llama la atención por su arquitectura compacta.",
+          "meta": "♥ 412 · 2.409 descargas"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Desarrollado por Meituan, LongCat-Video-Avatar-1.5 es un modelo que permite crear avatares de vídeo consistentes y de alta calidad a partir de una única imagen de referencia. Utiliza una arquitectura de síntesis de imágenes optimizada para producir personajes animados manteniendo la fidelidad visual.",
+          "meta": "♥ 343 · 0 descargas"
+        },
+        {
+          "title": "NemoStation/Marlin-2B",
+          "url": "https://huggingface.co/NemoStation/Marlin-2B",
+          "summary": "Marlin-2B, desarrollado por NemoStation, es un modelo que realiza generación de texto basada en vídeo (video-text-to-text). Se utiliza en aplicaciones de inteligencia artificial multimodal con la capacidad de crear resultados de texto mediante el procesamiento de datos visuales.",
+          "meta": "♥ 415 · 9.144 descargas"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "El modelo Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive es una estructura multimodal que produce salida de texto procesando imágenes y entradas de texto. El modelo, que elimina las restricciones del usuario con su estructura sin censura, combina capacidades de procesamiento del lenguaje a gran escala con análisis de datos visuales.",
+          "meta": "♥ 947 · 1.598.473 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-18",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "anthropics/cwc-workshops",
+          "url": "https://github.com/anthropics/cwc-workshops",
+          "summary": "Estos talleres compartidos por Anthropic muestran a los desarrolladores en la práctica los procesos de creación de agentes de inteligencia artificial capaces de utilizar computadoras. Los ejemplos basados ​​en TypeScript incluyen marcos técnicos que permiten a los modelos gestionar tareas complejas interactuando con interfaces en pantalla.",
+          "meta": "TypeScript · ★ 1.632 · +45 hoy"
+        },
+        {
+          "title": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "summary": "Desarrollados por Google, los buffers de protocolo son un formato de intercambio de datos independiente del idioma que se utiliza para serializar datos estructurados. Este mecanismo proporciona una transferencia de datos binarios rápida y eficiente en la comunicación entre sistemas.",
+          "meta": "C++ · ★ 71.559 · +11 hoy"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph analiza la base del código y crea un mapa de inteligencia de código enfocado localmente para herramientas de inteligencia artificial. Esta estructura hace que los procesos de revisión de código respaldados por inteligencia artificial sean más eficientes mediante el uso de métodos de reducción de contexto en proyectos grandes.",
+          "meta": "Python · ★ 19.852 · +74 hoy"
+        },
+        {
+          "title": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "summary": "DocuSeal ofrece una alternativa de código abierto para crear, completar y firmar documentos digitales. Esta plataforma, desarrollada con lenguaje Ruby, proporciona una solución para usuarios que quieran gestionar procesos de firma electrónica (e-signature) en su propia infraestructura.",
+          "meta": "Ruby · ★ 17.916 · +91 hoy"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "Desarrollado con la infraestructura TurboQuant, Turbovec ofrece un índice vectorial de alto rendimiento escrito en lenguaje Rust. Gracias a los enlaces de Python, proporciona búsqueda e indexación rápidas en procesos de procesamiento de datos.",
+          "meta": "Python · ★ 13.393 · +280 hoy",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+          "url": "https://news.ycombinator.com/item?id=48945241",
+          "summary": "Los usuarios de Amazon Web Services (AWS) encuentran datos de facturación estimados inexactos en sus paneles de facturación, alcanzando montos poco realistas y de miles de millones de dólares. El proveedor de servicios en la nube continúa sus esfuerzos para resolver el problema emitiendo una notificación de falla técnica relacionada con este error de datos en sus sistemas.",
+          "meta": "1.120 puntos · 663 comentarios"
+        },
+        {
+          "title": "Thanks HN for 15 years of support and helping me find my life's work",
+          "url": "https://news.ycombinator.com/item?id=48949551",
+          "summary": "Recurse Center, una comunidad educativa para desarrolladores de software, celebra su decimoquinto aniversario. Los emprendedores convirtieron su proyecto, que comenzó como una plataforma orientada a los negocios, en un centro de aprendizaje orientado al software (retiro de programación) con el tiempo.",
+          "meta": "482 puntos · 49 comentarios"
+        },
+        {
+          "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+          "summary": "Las enfermeras de Kaiser Permanente afirman que las herramientas respaldadas por inteligencia artificial y los sistemas de vigilancia en el lugar de trabajo aumentan la carga de trabajo y reducen la calidad de la atención al paciente. Los empleados afirman que los procesos de gestión algorítmica restringen su capacidad de toma de decisiones clínicas y aumentan el estrés profesional.",
+          "meta": "432 puntos · 283 comentarios"
+        },
+        {
+          "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+          "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+          "summary": "Por primera vez, los astrónomos han encontrado rastros de atmósfera alrededor de un exoplaneta similar a la Tierra situado en la zona habitable. Este hallazgo en el planeta 55 Cancri e ofrece un nuevo método para estudiar las estructuras atmosféricas de los mundos rocosos.",
+          "meta": "415 puntos · 251 comentarios"
+        },
+        {
+          "title": "The state of open source AI",
+          "url": "https://stateofopensource.ai/",
+          "summary": "El ecosistema de IA de código abierto continúa expandiéndose con la disponibilidad de pesos de modelo y la diversificación de herramientas de desarrollo. El informe analiza las tasas de adopción de modelos transparentes en el sector tecnológico y el impacto de la innovación impulsada por la comunidad en los estándares de la industria.",
+          "meta": "406 puntos · 296 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "computer use",
+      "explanation": "La inteligencia artificial puede gestionar operaciones en la pantalla de la computadora moviendo el mouse y usando el teclado, como un humano."
+    },
+    {
+      "term": "protocol buffers",
+      "explanation": "Un método de transporte de datos utilizado por diferentes software para enviarse datos entre sí, que empaqueta la información muy rápidamente y en tamaños pequeños."
+    },
+    {
+      "term": "binary",
+      "explanation": "El lenguaje de máquina más básico, que consta únicamente de ceros y unos, que el procesador de la computadora entiende directamente."
+    },
+    {
+      "term": "code intelligence graph",
+      "explanation": "Un mapa detallado que muestra las relaciones de todos los archivos y comandos en un proyecto de software."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "El proceso de resumir la enorme información proporcionada a la inteligencia artificial purificándola de partes innecesarias para que el modelo funcione más rápido y con mayor precisión."
+    },
+    {
+      "term": "e-signature",
+      "explanation": "Un método de confirmación electrónica con función de verificación de identidad que permite firmar legalmente documentos digitales."
+    },
+    {
+      "term": "vector index",
+      "explanation": "Un índice de búsqueda especial que permite a la inteligencia artificial encontrar la información que busca muy rápidamente al convertir datos complejos en valores numéricos."
+    },
+    {
+      "term": "bindings",
+      "explanation": "Se establecen puentes para que las bibliotecas escritas en un lenguaje de programación puedan usarse en otro lenguaje."
+    }
+  ]
+}

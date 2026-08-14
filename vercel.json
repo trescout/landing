@@ -200,6 +200,21 @@
       "permanent": true
     },
     {
+      "source": "/es/dictionary/agent-skill",
+      "destination": "/es/dictionary/agent-skills/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/agent-skill/",
+      "destination": "/es/dictionary/agent-skills/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/agent-skill.md",
+      "destination": "/es/dictionary/agent-skills.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/agentic-systems",
       "destination": "/dictionary/agentic-system/",
       "permanent": true
@@ -257,6 +272,21 @@
     {
       "source": "/pt/dictionary/agentic-systems.md",
       "destination": "/pt/dictionary/agentic-system.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/agentic-systems",
+      "destination": "/es/dictionary/agentic-system/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/agentic-systems/",
+      "destination": "/es/dictionary/agentic-system/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/agentic-systems.md",
+      "destination": "/es/dictionary/agentic-system.md",
       "permanent": true
     },
     {
@@ -320,6 +350,21 @@
       "permanent": true
     },
     {
+      "source": "/es/dictionary/agents",
+      "destination": "/es/dictionary/agent/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/agents/",
+      "destination": "/es/dictionary/agent/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/agents.md",
+      "destination": "/es/dictionary/agent.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/ai-agents",
       "destination": "/dictionary/ai-agent/",
       "permanent": true
@@ -377,6 +422,21 @@
     {
       "source": "/pt/dictionary/ai-agents.md",
       "destination": "/pt/dictionary/ai-agent.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/ai-agents",
+      "destination": "/es/dictionary/ai-agent/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/ai-agents/",
+      "destination": "/es/dictionary/ai-agent/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/ai-agents.md",
+      "destination": "/es/dictionary/ai-agent.md",
       "permanent": true
     },
     {
@@ -440,6 +500,21 @@
       "permanent": true
     },
     {
+      "source": "/es/dictionary/ai-coding-agents",
+      "destination": "/es/dictionary/ai-coding-agent/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/ai-coding-agents/",
+      "destination": "/es/dictionary/ai-coding-agent/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/ai-coding-agents.md",
+      "destination": "/es/dictionary/ai-coding-agent.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/ai-companions",
       "destination": "/dictionary/ai-companion/",
       "permanent": true
@@ -497,6 +572,21 @@
     {
       "source": "/pt/dictionary/ai-companions.md",
       "destination": "/pt/dictionary/ai-companion.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/ai-companions",
+      "destination": "/es/dictionary/ai-companion/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/ai-companions/",
+      "destination": "/es/dictionary/ai-companion/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/ai-companions.md",
+      "destination": "/es/dictionary/ai-companion.md",
       "permanent": true
     },
     {
@@ -560,6 +650,21 @@
       "permanent": true
     },
     {
+      "source": "/es/dictionary/ai-skill",
+      "destination": "/es/dictionary/ai-skills/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/ai-skill/",
+      "destination": "/es/dictionary/ai-skills/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/ai-skill.md",
+      "destination": "/es/dictionary/ai-skills.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/autonomous-ai-agents",
       "destination": "/dictionary/autonomous-ai-agent/",
       "permanent": true
@@ -617,6 +722,21 @@
     {
       "source": "/pt/dictionary/autonomous-ai-agents.md",
       "destination": "/pt/dictionary/autonomous-ai-agent.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/autonomous-ai-agents",
+      "destination": "/es/dictionary/autonomous-ai-agent/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/autonomous-ai-agents/",
+      "destination": "/es/dictionary/autonomous-ai-agent/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/autonomous-ai-agents.md",
+      "destination": "/es/dictionary/autonomous-ai-agent.md",
       "permanent": true
     },
     {
@@ -680,6 +800,21 @@
       "permanent": true
     },
     {
+      "source": "/es/dictionary/benchmarks",
+      "destination": "/es/dictionary/benchmark/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/benchmarks/",
+      "destination": "/es/dictionary/benchmark/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/benchmarks.md",
+      "destination": "/es/dictionary/benchmark.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/clones",
       "destination": "/dictionary/clone/",
       "permanent": true
@@ -737,6 +872,21 @@
     {
       "source": "/pt/dictionary/clones.md",
       "destination": "/pt/dictionary/clone.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/clones",
+      "destination": "/es/dictionary/clone/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/clones/",
+      "destination": "/es/dictionary/clone/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/clones.md",
+      "destination": "/es/dictionary/clone.md",
       "permanent": true
     },
     {
@@ -800,6 +950,21 @@
       "permanent": true
     },
     {
+      "source": "/es/dictionary/coding-agents",
+      "destination": "/es/dictionary/coding-agent/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/coding-agents/",
+      "destination": "/es/dictionary/coding-agent/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/coding-agents.md",
+      "destination": "/es/dictionary/coding-agent.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/design-systems",
       "destination": "/dictionary/design-system/",
       "permanent": true
@@ -857,6 +1022,21 @@
     {
       "source": "/pt/dictionary/design-systems.md",
       "destination": "/pt/dictionary/design-system.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/design-systems",
+      "destination": "/es/dictionary/design-system/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/design-systems/",
+      "destination": "/es/dictionary/design-system/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/design-systems.md",
+      "destination": "/es/dictionary/design-system.md",
       "permanent": true
     },
     {
@@ -920,6 +1100,21 @@
       "permanent": true
     },
     {
+      "source": "/es/dictionary/diffusion-models",
+      "destination": "/es/dictionary/diffusion-model/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/diffusion-models/",
+      "destination": "/es/dictionary/diffusion-model/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/diffusion-models.md",
+      "destination": "/es/dictionary/diffusion-model.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/jupyter-notebook",
       "destination": "/dictionary/jupyter-notebooks/",
       "permanent": true
@@ -977,6 +1172,21 @@
     {
       "source": "/pt/dictionary/jupyter-notebook.md",
       "destination": "/pt/dictionary/jupyter-notebooks.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/jupyter-notebook",
+      "destination": "/es/dictionary/jupyter-notebooks/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/jupyter-notebook/",
+      "destination": "/es/dictionary/jupyter-notebooks/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/jupyter-notebook.md",
+      "destination": "/es/dictionary/jupyter-notebooks.md",
       "permanent": true
     },
     {
@@ -1040,6 +1250,21 @@
       "permanent": true
     },
     {
+      "source": "/es/dictionary/knowledge-graphs",
+      "destination": "/es/dictionary/knowledge-graph/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/knowledge-graphs/",
+      "destination": "/es/dictionary/knowledge-graph/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/knowledge-graphs.md",
+      "destination": "/es/dictionary/knowledge-graph.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/pipelines",
       "destination": "/dictionary/pipeline/",
       "permanent": true
@@ -1097,6 +1322,21 @@
     {
       "source": "/pt/dictionary/pipelines.md",
       "destination": "/pt/dictionary/pipeline.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/pipelines",
+      "destination": "/es/dictionary/pipeline/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/pipelines/",
+      "destination": "/es/dictionary/pipeline/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/pipelines.md",
+      "destination": "/es/dictionary/pipeline.md",
       "permanent": true
     },
     {
@@ -1160,6 +1400,21 @@
       "permanent": true
     },
     {
+      "source": "/es/dictionary/plugins",
+      "destination": "/es/dictionary/plugin/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/plugins/",
+      "destination": "/es/dictionary/plugin/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/plugins.md",
+      "destination": "/es/dictionary/plugin.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/prompts",
       "destination": "/dictionary/prompt/",
       "permanent": true
@@ -1217,6 +1472,21 @@
     {
       "source": "/pt/dictionary/prompts.md",
       "destination": "/pt/dictionary/prompt.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/prompts",
+      "destination": "/es/dictionary/prompt/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/prompts/",
+      "destination": "/es/dictionary/prompt/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/prompts.md",
+      "destination": "/es/dictionary/prompt.md",
       "permanent": true
     },
     {
@@ -1280,6 +1550,21 @@
       "permanent": true
     },
     {
+      "source": "/es/dictionary/scripts",
+      "destination": "/es/dictionary/script/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/scripts/",
+      "destination": "/es/dictionary/script/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/scripts.md",
+      "destination": "/es/dictionary/script.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/specifications",
       "destination": "/dictionary/specification/",
       "permanent": true
@@ -1340,6 +1625,21 @@
       "permanent": true
     },
     {
+      "source": "/es/dictionary/specifications",
+      "destination": "/es/dictionary/specification/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/specifications/",
+      "destination": "/es/dictionary/specification/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/specifications.md",
+      "destination": "/es/dictionary/specification.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/world-models",
       "destination": "/dictionary/world-model/",
       "permanent": true
@@ -1397,6 +1697,21 @@
     {
       "source": "/pt/dictionary/world-models.md",
       "destination": "/pt/dictionary/world-model.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/world-models",
+      "destination": "/es/dictionary/world-model/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/world-models/",
+      "destination": "/es/dictionary/world-model/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/world-models.md",
+      "destination": "/es/dictionary/world-model.md",
       "permanent": true
     }
   ]

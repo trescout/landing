@@ -31,14 +31,22 @@ dil(LANG)  # bilinmeyen dilde anlaşılır hata
 # Elle yazılan sayfalar · (yol, o sayfanın diğer dillerdeki karşılıkları)
 SAYFALAR = {
     "fr": [
-        ("fr/index.html", {"TR": "/", "EN": "/en/", "PT": "/pt/"}),
+        ("fr/index.html", {"TR": "/", "EN": "/en/", "PT": "/pt/", "ES": "/es/"}),
         ("fr/compare/rss-vs-ai/index.html",
-         {"TR": "/compare/rss-vs-ai/", "EN": "/en/compare/rss-vs-ai/", "PT": "/pt/compare/rss-vs-ai/"}),
+         {"TR": "/compare/rss-vs-ai/", "EN": "/en/compare/rss-vs-ai/",
+          "PT": "/pt/compare/rss-vs-ai/", "ES": "/es/compare/rss-vs-ai/"}),
     ],
     "pt": [
-        ("pt/index.html", {"TR": "/", "EN": "/en/", "FR": "/fr/"}),
+        ("pt/index.html", {"TR": "/", "EN": "/en/", "FR": "/fr/", "ES": "/es/"}),
         ("pt/compare/rss-vs-ai/index.html",
-         {"TR": "/compare/rss-vs-ai/", "EN": "/en/compare/rss-vs-ai/", "FR": "/fr/compare/rss-vs-ai/"}),
+         {"TR": "/compare/rss-vs-ai/", "EN": "/en/compare/rss-vs-ai/",
+          "FR": "/fr/compare/rss-vs-ai/", "ES": "/es/compare/rss-vs-ai/"}),
+    ],
+    "es": [
+        ("es/index.html", {"TR": "/", "EN": "/en/", "FR": "/fr/", "PT": "/pt/"}),
+        ("es/compare/rss-vs-ai/index.html",
+         {"TR": "/compare/rss-vs-ai/", "EN": "/en/compare/rss-vs-ai/",
+          "FR": "/fr/compare/rss-vs-ai/", "PT": "/pt/compare/rss-vs-ai/"}),
     ],
 }
 

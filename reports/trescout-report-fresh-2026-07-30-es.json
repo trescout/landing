@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-30",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "grokability/snipe-it",
+          "url": "https://github.com/grokability/snipe-it",
+          "summary": "Snipe-IT es un sistema de gestión de código abierto para rastrear activos de tecnología de la información y licencias de software. Esta plataforma, desarrollada con lenguaje PHP, permite a las instituciones organizar registros de inventario y ciclos de uso en un entorno digital.",
+          "meta": "PHP · ★ 14.536 · +164 hoy"
+        },
+        {
+          "title": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "summary": "Faceswap basado en Python es un software de código abierto que permite reemplazar rostros en imágenes utilizando tecnología deepfake. Permite a los usuarios realizar operaciones de intercambio de caras en videos e imágenes.",
+          "meta": "Python · ★ 56.487 · +166 hoy"
+        },
+        {
+          "title": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "summary": "Desarrollado por Microsoft, VibeVoice se ofrece como un modelo de inteligencia artificial de voz de frontera de código abierto. Este proyecto basado en Python tiene como objetivo proporcionar soluciones accesibles y de alto rendimiento en procesos de procesamiento de audio.",
+          "meta": "Python · ★ 51.459 · +336 hoy",
+          "returning": true
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork es un proyecto de software desarrollado como una alternativa de código abierto a la plataforma Claude Cowork y utiliza la infraestructura de código abierto. Esta herramienta, escrita en lenguaje TypeScript, ofrece un entorno de trabajo respaldado por inteligencia artificial que tiene como objetivo automatizar los procesos de desarrollo de software.",
+          "meta": "TypeScript · ★ 18.143 · +97 hoy"
+        },
+        {
+          "title": "MoonshotAI/FlashKDA",
+          "url": "https://github.com/MoonshotAI/FlashKDA",
+          "summary": "Desarrollado por Moonshot AI, FlashKDA ofrece núcleos de alto rendimiento para el mecanismo Some Delta Attention. Esta tecnología basada en CUDA tiene como objetivo acelerar los cálculos de atención en modelos de lenguaje grandes.",
+          "meta": "Cuda · ★ 1.043 · +91 hoy"
+        },
+        {
+          "title": "maderix/ANE",
+          "url": "https://github.com/maderix/ANE",
+          "summary": "Desarrollado por Maderix, ANE permite realizar el entrenamiento de redes neuronales en Apple Neural Engine a través de interfaces de programación de aplicaciones privadas (API privadas) obtenidas mediante ingeniería inversa. Este estudio permite utilizar directamente el hardware de Apple en procesos de entrenamiento de modelos de inteligencia artificial.",
+          "meta": "Objective-C · ★ 7.185 · +22 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+          "url": "https://github.com/drumih/turbo-fieldfare",
+          "summary": "TurboFieldfare es un motor de inferencia que permite que el modelo Gemma 4 26B se ejecute en procesadores Apple de la serie M utilizando cuantificación de 4 bits, consumiendo solo 2 GB de memoria. Desarrollada con los lenguajes Swift y Metal, esta herramienta tiene como objetivo optimizar el rendimiento de la IA en el dispositivo.",
+          "meta": "727 puntos · 252 comentarios"
+        },
+        {
+          "title": "Superlogical",
+          "url": "https://www.superlogical.com/",
+          "summary": "Superlogic es una herramienta de programación lógica diseñada para gestionar reglas y sistemas lógicos complejos. Permite a los desarrolladores definir estructuras de datos y reglas comerciales con un enfoque declarativo.",
+          "meta": "616 puntos · 385 comentarios"
+        },
+        {
+          "title": "The coolest use for the Vision Pro",
+          "url": "https://christianselig.com/2026/07/vision-pro-house/",
+          "summary": "Los usuarios de Apple Vision Pro visualizan los dispositivos inteligentes en sus hogares en el entorno físico utilizando las capacidades de computación espacial del dispositivo. Este método hace que la domótica sea directamente interactiva a través de interfaces virtuales colocadas en objetos.",
+          "meta": "541 puntos · 225 comentarios"
+        },
+        {
+          "title": "Kimi K3-256k",
+          "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+          "summary": "Desarrollado por Moonshot AI, Kimi K3-256k se centra en procesos de codificación y desarrollo de software con una larga ventana de contexto de 256 mil tokens. El modelo ofrece la capacidad de analizar bases de código largas y producir soluciones para tareas de programación complejas con alta precisión.",
+          "meta": "399 puntos · 116 comentarios"
+        },
+        {
+          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+          "summary": "El informe técnico compartido por Hugging Face examina cronológicamente el incidente de intrusión de agentes contra un laboratorio fronterizo en 2026. El informe analiza las vulnerabilidades de los sistemas autónomos y el funcionamiento técnico de dichos ataques, proporcionando datos para las estrategias de defensa.",
+          "meta": "345 puntos · 199 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "summary": "KAT-Coder-V2.5-Dev, desarrollado por Kwaipilot, es un modelo de lenguaje centrado en la generación de texto. El modelo, diseñado para soportar procesos de desarrollo de software, se utiliza en tareas de escritura de código y creación de textos técnicos.",
+          "meta": "♥ 323 · 6.275 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "deepfake",
+      "explanation": "Usar inteligencia artificial para adaptar la imagen o la voz de una persona a otra de una manera que es indistinguible de la realidad."
+    },
+    {
+      "term": "face swapping",
+      "explanation": "Reemplazar digitalmente una cara en una foto o video con la cara de otra persona."
+    },
+    {
+      "term": "frontier voice AI",
+      "explanation": "Las tecnologías de inteligencia artificial de voz más avanzadas que pueden hablar de forma natural y emocional como un humano."
+    },
+    {
+      "term": "kernels",
+      "explanation": "La parte central más básica del sistema operativo que gestiona la comunicación entre el hardware y el software de la computadora."
+    },
+    {
+      "term": "attention",
+      "explanation": "Un mecanismo que permite a la inteligencia artificial captar mejor el significado centrándose en palabras importantes de un texto."
+    }
+  ]
+}

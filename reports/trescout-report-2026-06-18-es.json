@@ -1,0 +1,267 @@
+{
+  "date": "2026-06-18",
+  "editorial": "En la agenda tecnológica actual destacan las herramientas de infraestructura basadas en la gestión de memoria de base de código y protocolos de red descentralizados. Los modelos de previsión de series temporales publicados por Google Research prometen un aumento significativo de la eficiencia en el análisis de datos.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp ofrece inteligencia de código de alto rendimiento al transformar las bases de código en un gráfico de conocimiento permanente. Desarrollada en lenguaje C, la herramienta admite 158 lenguajes de programación, reduce los tiempos de consulta a menos de milisegundos y reduce el uso de tokens.",
+          "meta": "C · ★ 6.142 · +371 hoy"
+        },
+        {
+          "title": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "summary": "Iroh es una pila de redes modular que utiliza una estructura basada en claves en las conexiones de red, eliminando la dependencia de las direcciones IP. Desarrollada en lenguaje Rust, esta herramienta tiene como objetivo hacer que la comunicación en red en sistemas distribuidos sea más flexible y duradera.",
+          "meta": "Rust · ★ 9.773 · +421 hoy"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach es una herramienta de interfaz de línea de comandos (CLI) que brinda a los agentes de IA la capacidad de rastrear redes sociales y plataformas de contenido en Internet. Permite a los usuarios leer y buscar datos de plataformas como Twitter, Reddit y GitHub sin pagar ninguna tarifa de interfaz de programación de aplicaciones (API).",
+          "meta": "Python · ★ 33.781 · +1.161 hoy"
+        },
+        {
+          "title": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "summary": "Meshery es una plataforma de gestión de malla de servicios desarrollada para gestionar el ciclo de vida de las infraestructuras nativas de la nube. Proporciona un plano de control central sobre la configuración, el rendimiento y la seguridad de los sistemas distribuidos.",
+          "meta": "TypeScript · ★ 11.085 · +196 hoy"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers ofrece un marco y una metodología utilizados para crear habilidades basadas en agentes en los procesos de desarrollo de software. Esta herramienta tiene como objetivo estandarizar los flujos de trabajo de desarrollo de software con un enfoque orientado a agentes.",
+          "meta": "Shell · ★ 231.635 · +1.129 hoy"
+        },
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "El Time Series Foundation Model, desarrollado por Google Research, ofrece una estructura previamente entrenada para el pronóstico de series de tiempo. El modelo está diseñado para proporcionar capacidades predictivas generales en diferentes conjuntos de datos.",
+          "meta": "Python · ★ 22.167 · +606 hoy"
+        },
+        {
+          "title": "RocketChat/Rocket.Chat",
+          "url": "https://github.com/RocketChat/Rocket.Chat",
+          "summary": "Rocket.Chat ofrece un sistema operativo de comunicaciones seguras diseñado para operaciones de misión crítica. La plataforma, desarrollada con el lenguaje TypeScript, tiene como objetivo centralizar los procesos internos de mensajería y colaboración.",
+          "meta": "TypeScript · ★ 45.649 · +22 hoy"
+        },
+        {
+          "title": "continuedev/continue",
+          "url": "https://github.com/continuedev/continue",
+          "summary": "Continuar es un agente de codificación de código abierto diseñado para automatizar los procesos de desarrollo de software. Permite a los desarrolladores escribir, depurar y refactorizar código dentro del IDE utilizando sus modelos de lenguaje nativo (LLM).",
+          "meta": "TypeScript · ★ 34.017 · +49 hoy"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot es una herramienta de diseño de código abierto que fortalece la colaboración entre diseñadores y desarrolladores. Gracias a su interfaz basada en vectores, permite gestionar los procesos de diseño de forma integrada con la fase de codificación.",
+          "meta": "Clojure · ★ 50.242 · +70 hoy"
+        },
+        {
+          "title": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "summary": "Hello 算法 es una plataforma educativa de código abierto que admite estructuras de datos y algoritmos con visualizaciones animadas. Al ofrecer soporte para muchos lenguajes de programación, el proyecto tiene como objetivo hacer comprensibles conceptos complejos con ejemplos de código y contenido interactivo.",
+          "meta": "Java · ★ 127.608 · +96 hoy"
+        },
+        {
+          "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "summary": "Universal Android Debloater Next Generation es una interfaz multiplataforma desarrollada en lenguaje Rust y utiliza el protocolo ADB (Android Debug Bridge) para eliminar software innecesario (bloatware) en dispositivos Android. Esta aplicación, que no requiere acceso root (root), tiene como objetivo mejorar la privacidad, la seguridad y la duración de la batería del dispositivo.",
+          "meta": "Rust · ★ 7.733 · +457 hoy"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Este repositorio, compartido por Matt Pocock, contiene scripts e instrucciones estructuradas para que los ingenieros de software utilicen asistentes de inteligencia artificial de manera más eficiente. Los desarrolladores utilizan estos conjuntos de habilidades ya preparados para mejorar el rendimiento de modelos de inteligencia artificial como Claude en los procesos de codificación y depuración.",
+          "meta": "Shell · ★ 134.391 · +1.523 hoy"
+        },
+        {
+          "title": "yairm210/Unciv",
+          "url": "https://github.com/yairm210/Unciv",
+          "summary": "Unciv es una adaptación de código abierto para escritorio y Android del juego Civilization V. Desarrollado en lenguaje Kotlin, el proyecto ofrece mecánicas de juego originales a los usuarios en una infraestructura más liviana.",
+          "meta": "Kotlin · ★ 10.739 · +24 hoy"
+        },
+        {
+          "title": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "summary": "freeCodeCamp es una plataforma de código abierto que ofrece materiales educativos gratuitos sobre matemáticas, programación e informática. Desarrollado con el lenguaje TypeScript, el proyecto permite a los usuarios mejorar sus habilidades de desarrollo de software a través de un plan de estudios aplicado.",
+          "meta": "TypeScript · ★ 449.270 · +757 hoy"
+        },
+        {
+          "title": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "summary": "Desarrollado por ByteDance, UI-TARS es una infraestructura de agente de código abierto que integra modelos de IA multimodal con interfaces de escritorio. Este sistema permite la creación de agentes (agentes de IA) que realizan tareas de forma autónoma en la computadora mediante el procesamiento de datos visuales.",
+          "meta": "TypeScript · ★ 36.779 · +150 hoy"
+        },
+        {
+          "title": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "summary": "Nautilus Trader es un motor comercial con una arquitectura determinista basada en eventos, desarrollado en lenguaje Rust. Ofrece soluciones de infraestructura de nivel de producción para sistemas financieros de alto rendimiento.",
+          "meta": "Rust · ★ 23.912 · +98 hoy"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot ofrece chat en vivo, soporte por correo electrónico y gestión de soporte omnicanal con su estructura de código abierto. Ofreciendo una alternativa a plataformas como Intercom y Zendesk, esta herramienta centraliza las interacciones con los clientes a través de un único panel.",
+          "meta": "Ruby · ★ 32.482 · +264 hoy"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage es un sistema de código abierto basado en agentes que convierte a los asistentes de codificación de IA en un estudio de producción de vídeo completo. Esta plataforma basada en Python automatiza los procesos de producción de videos con 12 canales diferentes y más de 500 habilidades de agentes.",
+          "meta": "Python · ★ 5.648 · +98 hoy"
+        },
+        {
+          "title": "alexzhang13/rlm",
+          "url": "https://github.com/alexzhang13/rlm",
+          "summary": "Desarrollado para modelos de lenguaje recursivo, rlm es una biblioteca de inferencia plug-and-play que admite diferentes entornos limitados. Esta herramienta basada en Python estandariza procesos complejos de modelos de lenguaje, haciéndolos más fáciles de integrar en diferentes sistemas.",
+          "meta": "Python · ★ 4.987 · +43 hoy"
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane es una plataforma de gestión de proyectos de código abierto que combina gestión de tareas, planificación de sprints y procesos de documentación. Desarrollada como una alternativa a herramientas empresariales como Jira y Linear, esta plataforma permite a los equipos organizar flujos de trabajo a través de una interfaz central.",
+          "meta": "TypeScript · ★ 51.506 · +89 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Lore – Open source version control system designed for scalability",
+          "url": "https://lore.org/",
+          "summary": "Lore fue desarrollado como un sistema de control de versiones de código abierto diseñado centrándose en la escalabilidad. Ofrece una infraestructura alternativa para gestionar grandes conjuntos de datos y flujos de trabajo complejos en proyectos de software.",
+          "meta": "1.117 puntos · 595 comentarios"
+        },
+        {
+          "title": "Volkswagen started blocking GrapheneOS users",
+          "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+          "summary": "Volkswagen impide que su aplicación móvil se ejecute en dispositivos con sistema operativo GrapheneOS por motivos de seguridad. La empresa restringe el acceso a la aplicación de acuerdo con protocolos de seguridad cuando se detecta acceso root o software personalizado.",
+          "meta": "658 puntos · 394 comentarios"
+        },
+        {
+          "title": "Midjourney Medical",
+          "url": "https://www.midjourney.com/medical/blogpost",
+          "summary": "Midjourney está desarrollando un modelo de inteligencia artificial especializado (modelo de IA médica) para analizar datos de imágenes médicas y dar sentido a las exploraciones radiológicas. Con este sistema, la empresa pretende acelerar los procesos de diagnóstico y crear una infraestructura estándar para el procesamiento de datos visuales médicos.",
+          "meta": "650 puntos · 447 comentarios"
+        },
+        {
+          "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+          "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+          "summary": "Estados Unidos ha pospuesto por ahora las restricciones a la plataforma DeepSeek, a pesar de haber incluido en la lista negra a más de un centenar de empresas chinas por riesgos de seguridad. La decisión en cuestión demuestra que continúan las investigaciones sobre los efectos de las empresas tecnológicas en la seguridad nacional.",
+          "meta": "449 puntos · 498 comentarios"
+        },
+        {
+          "title": "RFC 10008: The new HTTP Query Method",
+          "url": "https://www.rfc-editor.org/info/rfc10008/",
+          "summary": "El método de consulta HTTP introduce un nuevo estándar que puede transportar contenido del cuerpo pero está diseñado para operaciones seguras y sin efectos secundarios. Este método permite pasar consultas de datos más complejas omitiendo las restricciones de longitud de la URL de la solicitud GET actual.",
+          "meta": "365 puntos · 154 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "El modelo de codificador Gemma-4-12B es un modelo de generación de texto optimizado para tareas de codificación. Gracias al formato GGUF ofrece inferencia local en dispositivos con recursos de hardware limitados.",
+          "meta": "♥ 1.557 · 146.784 descargas"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, desarrollado por Zai-org, es un modelo de lenguaje diseñado para tareas de generación de texto. Este modelo, publicado en la plataforma HuggingFace, ofrece capacidades de creación de contenidos en procesos de procesamiento del lenguaje natural.",
+          "meta": "♥ 1.132 · 666 descargas"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3 se destaca como un modelo multimodal que puede procesar texto y datos visuales simultáneamente. El sistema ofrece la capacidad de producir resultados de texto significativos mediante el análisis de entradas visuales y textuales.",
+          "meta": "♥ 1.075 · 42.198 descargas"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Desarrollado por Moonshot AI, Kimi-K2.7-Code es un modelo de codificación multimodal que puede procesar datos visuales y de texto como entrada. Está diseñado para producir resultados de código basados ​​en texto mediante el análisis de contenido visual durante los procesos de desarrollo de software.",
+          "meta": "♥ 856 · 172.727 descargas"
+        },
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "Google presentó el modelo DiffusionGemma-26B-A4B-it, un modelo de inteligencia artificial multimodal que produce resultados basados ​​en texto procesando entradas de texto e imágenes. Este modelo tiene como objetivo aumentar la capacidad de análisis en tareas complejas mediante el procesamiento de datos visuales y textuales en una estructura integrada.",
+          "meta": "♥ 986 · 460.173 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "knowledge graph",
+      "explanation": "Una base de datos que conecta información en una estructura de red con sus relaciones entre sí."
+    },
+    {
+      "term": "token",
+      "explanation": "La unidad segmentada más pequeña de palabras o sílabas que utiliza la inteligencia artificial al procesar textos."
+    },
+    {
+      "term": "dial keys",
+      "explanation": "Un teclado mecánico giratorio utilizado para marcar números en teléfonos antiguos."
+    },
+    {
+      "term": "networking stack",
+      "explanation": "La estructura en capas de software y protocolos que permiten que las computadoras se comuniquen entre sí."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que le permite administrar programas ingresando comandos escritos en lugar de usar un mouse."
+    },
+    {
+      "term": "API",
+      "explanation": "Un puente que permite que dos software diferentes se comuniquen entre sí e intercambien datos."
+    },
+    {
+      "term": "cloud native",
+      "explanation": "Arquitectura de software escalable diseñada para ejecutarse directamente en servidores en Internet."
+    },
+    {
+      "term": "service mesh",
+      "explanation": "Capa de infraestructura que regula y asegura el tráfico de datos entre partes en sistemas de software complejos."
+    },
+    {
+      "term": "agentic skills",
+      "explanation": "La capacidad de la inteligencia artificial para tomar decisiones y dar pasos por sí sola para lograr un objetivo determinado."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un conjunto de herramientas y reglas listas para usar que se utilizan para acelerar el trabajo al desarrollar software."
+    },
+    {
+      "term": "Time Series Foundation Model",
+      "explanation": "Modelo de inteligencia artificial avanzado que puede analizar cambios en datos dependientes del tiempo y predecir situaciones futuras."
+    },
+    {
+      "term": "communications operating system",
+      "explanation": "Plataforma software que permite gestionar diferentes herramientas y canales de comunicación desde un único centro."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Inteligencia artificial autónoma que puede escribir código de software, corregir errores y mejorar proyectos por sí sola."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Un modelo de inteligencia artificial entrenado con datos muy grandes que puede comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "refactoring",
+      "explanation": "El proceso de hacer que la estructura del código interno del software sea más organizada y eficiente sin cambiar su comportamiento externo."
+    },
+    {
+      "term": "bloatware",
+      "explanation": "Software preinstalado en una computadora o teléfono que generalmente ocupa espacio innecesario y ralentiza el sistema."
+    }
+  ]
+}

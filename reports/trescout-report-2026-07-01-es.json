@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-01",
+  "editorial": "Hoy en día, en el mundo del software destacan los proyectos centrados en agentes autónomos y capacidades de interacción basadas en navegador. El conjunto de datos y las herramientas de enrutamiento de GitHub muestran que los desarrolladores están construyendo nuevas infraestructuras para entrenar estos sistemas complejos de manera más eficiente.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "El conjunto de datos de ejercicios (conjunto de datos de ejercicios) compartido por Hasaneyldrm ofrece 433 movimientos físicos diferentes con nombres, grupos de músculos objetivo, equipos e instrucciones visuales. Este recurso integral proporciona una infraestructura de datos estructurada para quienes desarrollan aplicaciones de tecnología deportiva.",
+          "meta": "HTML · ★ 7.552 · +1.343 hoy"
+        },
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix es una herramienta de prueba de penetración compatible con inteligencia artificial de código abierto desarrollada para detectar y corregir vulnerabilidades de seguridad en aplicaciones. Este software, escrito en lenguaje Python, ofrece mejoras de seguridad analizando las vulnerabilidades del sistema mediante procesos automatizados.",
+          "meta": "Python · ★ 28.439 · +515 hoy"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "El proyecto agencia-agentes ofrece un flujo de trabajo de agencia de software al reunir agentes de inteligencia artificial con diferentes áreas de especialización bajo un mismo techo. El sistema apunta a automatizar procesos digitales con agentes con carácter especializado, desde desarrolladores front-end hasta productores de contenidos.",
+          "meta": "Shell · ★ 121.532 · +1.791 hoy"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice es una aplicación de dictado en macOS que realiza la conversión de voz a texto en el dispositivo y utiliza modelos de optimización compatibles con inteligencia artificial. Ofrece una alternativa orientada a la privacidad con su estructura de procesamiento local que no requiere conexión a Internet.",
+          "meta": "Swift · ★ 5.133 · +588 hoy"
+        },
+        {
+          "title": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "summary": "OmniRoute es una puerta de enlace que ofrece acceso gratuito combinando más de 231 proveedores de inteligencia artificial en un único punto final. Reduce el uso de tokens con técnicas de compresión avanzadas, al tiempo que optimiza las herramientas de desarrollo con respaldo inteligente y soporte de interfaz multimodal.",
+          "meta": "TypeScript · ★ 8.906 · +387 hoy"
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "La biblioteca de uso de video es un marco de Python que permite a los agentes de codificación automatizar los procesos de edición de video. Esta herramienta permite procesar y editar contenido visual utilizando métodos programáticos.",
+          "meta": "Python · ★ 12.863 · +721 hoy"
+        },
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI Berkshire es un marco basado en múltiples agentes que realiza investigaciones de inversión de valor utilizando los modelos Claude Code y Codex. Realiza análisis versátiles de datos financieros, basados ​​en las metodologías de inversores como Warren Buffett, Charlie Munger, Duan Yongping y Li Lu.",
+          "meta": "Python · ★ 7.820 · +969 hoy"
+        },
+        {
+          "title": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "summary": "Common User Passwords Profiler es una herramienta de Python para crear listas de contraseñas específicas. Prepara archivos de diccionario personalizados (listas de palabras) analizando ciertos datos del usuario.",
+          "meta": "Python · ★ 6.161 · +32 hoy"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Ofrece una lista completa que reúne soluciones de software como servicio (SaaS), plataforma como servicio (PaaS) e infraestructura como servicio (IaaS) que ofrecen niveles gratuitos para desarrolladores. Proporciona recursos actualizados para profesionales que desean reducir costos en DevOps y procesos de desarrollo de infraestructura.",
+          "meta": "HTML · ★ 127.457 · +742 hoy"
+        },
+        {
+          "title": "google/agents-cli",
+          "url": "https://github.com/google/agents-cli",
+          "summary": "La interfaz de línea de comandos (CLI) desarrollada por Google fabrica asistentes de codificación especializados en la creación, evaluación e implementación de agentes de inteligencia artificial en Google Cloud (Google Cloud). Esta herramienta basada en Python estandariza los procesos de desarrollo de agentes y acelera los flujos de trabajo operativos en la infraestructura de la nube.",
+          "meta": "Python · ★ 4.413 · +445 hoy"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "La supervisión es una biblioteca de Python que proporciona herramientas reutilizables y funciones auxiliares utilizadas en proyectos de visión por computadora. Acelera los procesos de desarrollo al estandarizar tareas comunes como el seguimiento y la visualización de objetos.",
+          "meta": "Python · ★ 46.040 · +309 hoy"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Desarrollado con el lenguaje Rust, herdr funciona como un agente multiplexor que se ejecuta en el terminal. Esta herramienta permite a los usuarios gestionar múltiples agentes de inteligencia artificial simultáneamente en el entorno del terminal.",
+          "meta": "Rust · ★ 9.203 · +486 hoy"
+        },
+        {
+          "title": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "summary": "SimpleX ofrece una infraestructura de comunicación orientada a la privacidad como la primera red de mensajería que opera sin utilizar identificadores de usuario. Desarrollada con lenguaje Haskell, la plataforma tiene como objetivo mantener los datos de los usuarios completamente confidenciales gracias a su estructura descentralizada.",
+          "meta": "Haskell · ★ 17.462 · +1.235 hoy"
+        },
+        {
+          "title": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "summary": "Instatic es un moderno sistema de gestión de contenido visual (CMS) autohospedado basado en TypeScript. Permite a los usuarios ejecutar la interfaz de administración de contenido en sus propios servidores con un proceso de instalación rápido.",
+          "meta": "TypeScript · ★ 1.681 · +351 hoy"
+        },
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "Preparado por Microsoft, AI for Beginners enseña temas introductorios a la inteligencia artificial a través de Jupyter Notebooks con un plan de estudios de 12 semanas. Este contenido de 24 lecciones ofrece un recurso educativo estructurado para aquellos que quieran aprender conceptos básicos con ejemplos aplicados.",
+          "meta": "Jupyter Notebook · ★ 49.751 · +252 hoy"
+        },
+        {
+          "title": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "summary": "Desarrollado por Meta, Astryx ofrece un sistema de diseño totalmente personalizable y compatible con agentes de inteligencia artificial. Esta biblioteca de código abierto basada en TypeScript configura componentes de interfaz para el uso de sistemas autónomos.",
+          "meta": "TypeScript · ★ 2.000 · +364 hoy"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading ofrece un agente comercial personal que toma decisiones de inversión analizando datos del mercado financiero. Este proyecto basado en Python tiene como objetivo gestionar procesos comerciales automatizados mediante el procesamiento del sentimiento del mercado y los indicadores técnicos.",
+          "meta": "Python · ★ 16.018 · +721 hoy"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers ofrece un marco de habilidades de agente y una metodología de desarrollo de software para agentes de inteligencia artificial. Esta herramienta está diseñada para estandarizar los flujos de trabajo basados ​​en agentes y estructurar los procesos de desarrollo de software.",
+          "meta": "Shell · ★ 242.917 · +890 hoy"
+        },
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "Lingbot-map proporciona un modelo básico 3D de avance para reconstruir escenas a partir de datos de transmisión. Este proyecto basado en Python tiene como objetivo estandarizar la configuración de escenas en procesos de procesamiento de datos en tiempo real.",
+          "meta": "Python · ★ 9.016 · +189 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Code is steganographically marking requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "summary": "La herramienta Claude Code desarrollada por Anthropic agrega datos invisibles a las solicitudes enviadas y las marca con el método de esteganografía. Esta técnica funciona como un mecanismo de seguimiento desarrollado para rastrear los datos de uso de los modelos de inteligencia artificial y gestionar los procesos de seguridad.",
+          "meta": "1.870 puntos · 529 comentarios"
+        },
+        {
+          "title": "Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "summary": "Anthropic ha lanzado una versión actualizada del modelo Claude 3.5 Sonnet, que proporciona mejoras de rendimiento en capacidades de codificación y razonamiento. El nuevo modelo amplía la capacidad de realizar transacciones directas a través de interfaces con capacidad de uso de computadora.",
+          "meta": "1.092 puntos · 627 comentarios"
+        },
+        {
+          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+          "summary": "El Ministerio de Comercio levantó los controles de exportación de los modelos Claude Fable 5 y Mythos 5. Esta regulación libera el acceso comercial y el uso de estos modelos de inteligencia artificial en los mercados internacionales.",
+          "meta": "635 puntos · 344 comentarios"
+        },
+        {
+          "title": "Claude Science",
+          "url": "https://claude.com/product/claude-science",
+          "summary": "Anthropic ha lanzado Claude Science, una herramienta diseñada para analizar conjuntos de datos complejos y validar hipótesis en la investigación científica. Esta herramienta tiene como objetivo aumentar las capacidades de los grandes modelos lingüísticos en la revisión de literatura académica y los procesos de procesamiento de datos.",
+          "meta": "471 puntos · 142 comentarios"
+        },
+        {
+          "title": "Nano Banana 2 Lite",
+          "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+          "summary": "Google anunció el modelo Gemini Flash Lite, que está optimizado para procesos de procesamiento visual de baja latencia. Este modelo fue diseñado para realizar análisis rápidos de imágenes en dispositivos con recursos limitados.",
+          "meta": "363 puntos · 144 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desarrollado por Baidu, Unlimited-OCR es un modelo de imagen a texto que procesa textos visuales y produce resultados de texto. El sistema tiene como objetivo acelerar el proceso de conversión de datos en documentos complejos a formato digital.",
+          "meta": "♥ 1.516 · 429.056 descargas"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "El modelo Qwythos-9B-Claude-Mythos-5-1M es un modelo de inteligencia artificial multimodal que produce resultados de texto procesando entradas visuales y de texto. Este modelo, presentado en formato GGUF, muestra una estructura optimizada adecuada para su funcionamiento en dispositivos locales.",
+          "meta": "♥ 1.085 · 970.663 descargas"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, publicado por Zai-org, es un modelo de lenguaje desarrollado para tareas de generación de texto. Con su estructura de código abierto, admite procesos de creación de texto en diferentes áreas de aplicación.",
+          "meta": "♥ 3.092 · 142.547 descargas"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "Ornith-1.0-35B, desarrollado por DeepReinforce-AI, es un modelo de lenguaje optimizado para tareas de generación de texto. El modelo se presenta en formato GGUF para operaciones de inferencia de alto rendimiento.",
+          "meta": "♥ 566 · 157.418 descargas"
+        },
+        {
+          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+          "summary": "Desarrollado por Qwen, Qwen-AgentWorld-35B-A3B fue diseñado como un modelo centrado en la generación de texto. El modelo ofrece capacidades personalizadas para agentes de inteligencia artificial (agentes de IA) que pueden realizar tareas complejas.",
+          "meta": "♥ 473 · 28.480 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "exercises-dataset",
+      "explanation": "Un conjunto de datos de práctica organizados que le permiten practicar mientras aprende una materia."
+    },
+    {
+      "term": "penetration testing",
+      "explanation": "Ensayos controlados de ciberataques realizados por expertos para probar la seguridad de los sistemas."
+    },
+    {
+      "term": "speech-to-text",
+      "explanation": "Tecnología que escucha palabras habladas y las convierte automáticamente en texto escrito."
+    },
+    {
+      "term": "endpoint",
+      "explanation": "Dispositivos terminales, como una computadora, un teléfono o una tableta, que estén conectados a la red."
+    },
+    {
+      "term": "gateway",
+      "explanation": "Puerto que gestiona y transfiere el tráfico de datos entre diferentes redes."
+    },
+    {
+      "term": "token",
+      "explanation": "Clave de seguridad temporal que verifica su identidad para transacciones digitales o otorga acceso a sistemas."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Herramientas de inteligencia artificial que pueden escribir códigos de software, corregir errores y mejorar proyectos en su nombre."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Un sistema de trabajo de múltiples unidades de inteligencia artificial que colaboran entre sí y comparten tareas complejas."
+    },
+    {
+      "term": "Common User Passwords Profiler",
+      "explanation": "Una herramienta que identifica vulnerabilidades de seguridad mediante el análisis de contraseñas débiles que la gente usa con frecuencia."
+    },
+    {
+      "term": "wordlists",
+      "explanation": "Listas de palabras y contraseñas utilizadas con frecuencia para intentar iniciar sesión en los sistemas."
+    },
+    {
+      "term": "free tier",
+      "explanation": "El nivel de entrada de un servicio ofrecido de forma gratuita al usuario con ciertas restricciones."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Un modelo de uso del software directamente a través del navegador a través de Internet, sin instalarlo en su computadora."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Proporcionar infraestructura preparada a través de Internet para que los desarrolladores de software desarrollen sus propias aplicaciones."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Utilizar recursos de hardware básicos como servidores y almacenamiento alquilándolos a través de Internet."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que ejecuta programas con comandos escritos en lugar del mouse."
+    },
+    {
+      "term": "Google Cloud",
+      "explanation": "Plataforma de servicios de ejecución de aplicaciones y almacenamiento de datos en Internet ofrecida por Google."
+    }
+  ]
+}

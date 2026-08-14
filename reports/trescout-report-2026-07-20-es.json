@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-20",
+  "editorial": "Las arquitecturas de agentes autónomos y las automatizaciones de revisión de código en los procesos de desarrollo de software son el foco principal de la comunidad de desarrolladores en la actualidad. Los proyectos actuales en GitHub muestran un interés creciente en guías prácticas de ingeniería, especialmente técnicas de gestión de memoria que aumentan la eficiencia de inferencia de grandes modelos de lenguaje.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "summary": "Este libro de código abierto sobre agentes de inteligencia artificial (agentes de IA) cubre de manera integral los principios de diseño y las aplicaciones de ingeniería. Además de la información teórica, incluye códigos de aplicación divididos en secciones y archivos PDF compilados.",
+          "meta": "Python · ★ 7.362 · +1.734 hoy"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-review-graph crea un mapa permanente de la base del código con un enfoque de inteligencia de código local, garantizando que las herramientas de IA procesen solo las secciones relevantes. Este método acelera los procesos de revisión de código en proyectos a gran escala mediante el uso de técnicas de reducción de contexto.",
+          "meta": "Python · ★ 21.777 · +663 hoy"
+        },
+        {
+          "title": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "summary": "Ktransformers ofrece un marco flexible que admite optimizaciones de hardware heterogéneas en los procesos de inferencia y ajuste de grandes modelos de lenguaje. Esta estructura tiene como objetivo aumentar el rendimiento del modelo mediante el uso eficiente de diferentes recursos de hardware.",
+          "meta": "Python · ★ 18.491 · +360 hoy"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Preparado para aquellos que desean ingresar al campo de la ingeniería de inteligencia artificial (ingeniería de IA), este recurso cubre los procesos básicos de desarrollo de aplicaciones de un extremo a otro utilizando Python. Al combinar conocimientos teóricos con proyectos prácticos, permite a los desarrolladores crear y publicar sus propias soluciones de inteligencia artificial.",
+          "meta": "Python · ★ 39.934 · +501 hoy"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox es un estudio de voz de IA de código abierto que permite a los usuarios realizar clonación, dictado y síntesis de voz. Desarrollada con el lenguaje TypeScript, esta plataforma combina procesos de creación de contenidos basados ​​en audio en una única interfaz.",
+          "meta": "TypeScript · ★ 43.601 · +610 hoy"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo es una herramienta que proporciona capacidades de búsqueda, extracción de datos y rastreo local para agentes de codificación de inteligencia artificial. Este sistema, que funciona a través del Model Context Protocol (MCP), proporciona investigación gratuita sin ninguna clave API ni dependencia de la nube.",
+          "meta": "TypeScript · ★ 2.054 · +595 hoy"
+        },
+        {
+          "title": "andrewrabert/jellium-desktop",
+          "url": "https://github.com/andrewrabert/jellium-desktop",
+          "summary": "Jellium-desktop es un cliente de escritorio no oficial desarrollado en Rust para el servidor de medios Jellyfin. El software ofrece una interfaz nativa que permite a los usuarios acceder a bibliotecas multimedia directamente a través del sistema operativo.",
+          "meta": "Rust · ★ 1.342 · +43 hoy"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub Copilot SDK ofrece un kit de desarrollo de software (SDK) multiplataforma que permite a los desarrolladores integrar agentes de GitHub Copilot en sus propias aplicaciones y servicios. Esta herramienta permite ejecutar asistentes apoyados en inteligencia artificial de forma estándar en diferentes plataformas utilizando el lenguaje Java.",
+          "meta": "Java · ★ 9.998 · +39 hoy"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog es una plataforma que reúne herramientas como observabilidad, análisis y repetición de sesiones de IA para automatizar los procesos de desarrollo de productos. Con este conjunto de herramientas, los desarrolladores de software pueden analizar datos de usuarios, diagnosticar errores de productos y gestionar sus procesos de desarrollo a través de una interfaz central.",
+          "meta": "Python · ★ 37.016 · +411 hoy"
+        },
+        {
+          "title": "microsoft/terminal",
+          "url": "https://github.com/microsoft/terminal",
+          "summary": "Microsoft está combinando Windows Terminal y la consola tradicional de Windows bajo un mismo techo. Este proyecto de código abierto, desarrollado en lenguaje C++, reestructura la experiencia de la línea de comandos con una interfaz moderna y pestañas personalizables.",
+          "meta": "C++ · ★ 104.241 · +59 hoy"
+        },
+        {
+          "title": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "summary": "AstrBot es un marco de desarrollo de agentes de inteligencia artificial que se integra con varias plataformas de mensajería instantánea, modelos de lenguaje grandes y complementos. Esta herramienta basada en Python permite crear asistentes de IA personalizables como una alternativa de código abierto.",
+          "meta": "Python · ★ 36.787 · +83 hoy"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Desarrollado con el lenguaje Rust, jcode ofrece una plataforma de prueba y evaluación para agentes de codificación que automatizan los procesos de desarrollo de software. Esta herramienta está diseñada para medir el desempeño de los agentes de desarrollo de software y estandarizar sus flujos de trabajo.",
+          "meta": "Rust · ★ 9.066 · +235 hoy"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua apunta a escalar las tecnologías de uso de computadoras con controladores de código abierto y gestión de flotas independiente del sistema operativo. La plataforma ofrece herramientas de benchmarking estandarizadas para los procesos de capacitación, evaluación y generación de datos de modelos de inteligencia artificial.",
+          "meta": "HTML · ★ 20.286 · +64 hoy"
+        },
+        {
+          "title": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "summary": "Desarrollado por MoonshotAI, Kimi CLI es un agente de inteligencia artificial que funciona a través de una interfaz de línea de comandos (CLI). Esta herramienta basada en Python permite a los desarrolladores automatizar tareas complejas en un entorno de terminal.",
+          "meta": "Python · ★ 9.992 · +410 hoy"
+        },
+        {
+          "title": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "summary": "El proyecto Zapret-discord-youtube es una herramienta de elusión de red que proporciona acceso a plataformas restringidas redirigiendo el tráfico de la red local. Ofrece archivos de script personalizados para superar las barreras de acceso, especialmente para servicios como Discord y YouTube.",
+          "meta": "Batchfile · ★ 31.054 · +106 hoy"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build your own x project ofrece un conjunto de guías cuyo objetivo es mejorar las habilidades de programación codificando tecnologías de software populares desde cero. Los desarrolladores aprenden los principios de funcionamiento de sistemas complejos, como bases de datos o sistemas operativos, a través de proyectos aplicados.",
+          "meta": "Markdown · ★ 529.087 · +754 hoy"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM permite ejecutar modelos de lenguajes grandes con 70 mil millones de parámetros en unidades de procesamiento de gráficos (GPU) con solo 4 GB de memoria. Esta biblioteca utiliza técnicas de optimización de memoria para permitir el uso de modelos de alta capacidad con bajos requisitos de hardware.",
+          "meta": "Jupyter Notebook · ★ 23.722 · +358 hoy"
+        },
+        {
+          "title": "Canner/WrenAI",
+          "url": "https://github.com/Canner/WrenAI",
+          "summary": "Desarrollada por Canner, WrenAI es una herramienta de inteligencia empresarial generativa (BI generativa) de código abierto que exporta datos automáticamente en paneles y gráficos al convertir el lenguaje natural en consultas de bases de datos (texto a SQL). La plataforma proporciona procesos de análisis de datos confiables para agentes de IA a través de una capa de contexto manejable que admite más de veinte fuentes de datos.",
+          "meta": "Python · ★ 16.314 · +121 hoy"
+        },
+        {
+          "title": "PKUFlyingPig/cs-self-learning",
+          "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+          "summary": "Esta guía, preparada por estudiantes de la Universidad de Pekín, ofrece una hoja de ruta completa para aquellos que quieran aprender por su cuenta en el campo de la informática. Combina un plan de estudios amplio, desde cursos básicos hasta especializaciones, con recursos y métodos de estudio.",
+          "meta": "HTML · ★ 74.290 · +134 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+          "url": "https://news.ycombinator.com/item?id=48968606",
+          "summary": "Un ingeniero de software rediseñó un sistema de automatización de una bolera comercial de 120 000 dólares utilizando microcontroladores ESP32 de 1600 dólares. Esta solución, desarrollada con sistemas integrados, crea una alternativa rentable al costoso hardware industrial.",
+          "meta": "2.036 puntos · 212 comentarios"
+        },
+        {
+          "title": "Qwen 3.8",
+          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+          "summary": "Desarrollado por Alibaba, Qwen 3.8 introduce un nuevo esquema de precios y tokens para modelos de lenguajes grandes. Este modelo proporciona capacidad informática accesible a los desarrolladores a través de su infraestructura basada en la nube.",
+          "meta": "846 puntos · 579 comentarios"
+        },
+        {
+          "title": "Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "summary": "Claude Code comenzó a utilizar Bun como tiempo de ejecución de JavaScript para acelerar el entorno de trabajo. Esta migración tiene como objetivo mejorar el rendimiento de las herramientas de desarrollo mediante la integración de componentes de infraestructura escritos en Rust.",
+          "meta": "472 puntos · 629 comentarios"
+        },
+        {
+          "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+          "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+          "summary": "La producción escalable y la gestión de la cadena de suministro en el proceso de desarrollo de hardware presentan desafíos concretos que los emprendedores centrados en el software pueden superar. La experiencia adquirida con la venta de 2.500 grabadoras MIDI demuestra que el emprendimiento en hardware es más accesible de lo que se pensaba.",
+          "meta": "461 puntos · 209 comentarios"
+        },
+        {
+          "title": "Minecraft: Java Edition now uses SDL3",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+          "summary": "Minecraft: Java Edition actualizó la biblioteca Simple DirectMedia Layer utilizada para gráficos y administración de dispositivos de entrada a la tercera versión (SDL3). Esta actualización moderniza la interacción del hardware del juego y proporciona una infraestructura de rendimiento más estable.",
+          "meta": "293 puntos · 200 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Desarrollado por Thinking Machines, Inkling es un modelo multimodal que produce resultados basados ​​en texto al aceptar datos visuales y textuales como entrada. El modelo ofrece la capacidad de analizar imágenes complejas y crear textos detallados sobre estos contenidos.",
+          "meta": "♥ 1.168 · 13.462 descargas"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B, desarrollado por Prism-ml, se ofrece como un modelo de generación de texto optimizado con el método de triple ponderación. Este enfoque tiene como objetivo reducir los requisitos de hardware al reducir el uso de memoria del modelo.",
+          "meta": "♥ 806 · 338.945 descargas"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B, publicado por Prism-ml, es un modelo de lenguaje optimizado para tareas de generación de texto. El modelo se presenta en formato GGUF para un funcionamiento eficiente y se puede utilizar en diferentes configuraciones de hardware.",
+          "meta": "♥ 510 · 1.262.894 descargas"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desarrollado por Baidu, Unlimited-OCR se destaca como un modelo de imagen-texto a texto que produce resultados de texto procesando textos basados ​​en imágenes. El modelo automatiza los procesos de conversión de datos en documentos complejos a formato digital.",
+          "meta": "♥ 2.230 · 2.122.848 descargas"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, desarrollado por Zai-org, es un modelo de lenguaje optimizado para tareas de generación de texto. El modelo altamente interactivo de la plataforma HuggingFace tiene como objetivo ampliar las capacidades de procesamiento de lenguaje de código abierto.",
+          "meta": "♥ 4.179 · 536.177 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Software autónomo que puede tomar decisiones por sí solo y realizar paso a paso las tareas asignadas."
+    },
+    {
+      "term": "local-first code intelligence",
+      "explanation": "Las herramientas de desarrollo de software brindan sugerencias al procesar datos directamente en su computadora sin necesidad de Internet."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "Para que la inteligencia artificial funcione más rápido y con mayor precisión, la información innecesaria que se le proporciona se limpia y se deja su esencia."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Reentrenar una IA de propósito general con un pequeño conjunto de datos para especializarla en un tema específico."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "El proceso de diseño de sistemas que resuelven problemas del mundo real utilizando tecnologías de inteligencia artificial."
+    },
+    {
+      "term": "voice synthesis",
+      "explanation": "Locución de textos escritos por ordenador con voz humana natural."
+    },
+    {
+      "term": "local-first",
+      "explanation": "La aplicación almacena y administra todos los datos de su dispositivo sin necesidad de Internet para funcionar."
+    },
+    {
+      "term": "Model Context Protocol - MCP",
+      "explanation": "Un lenguaje de conexión estándar que permite que los modelos de IA se comuniquen fácilmente con diferentes fuentes de datos."
+    },
+    {
+      "term": "desktop client",
+      "explanation": "Una aplicación de software que descarga a su computadora y usa directamente en el escritorio."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Un conjunto de herramientas listas para usar que facilitan a los desarrolladores el desarrollo de aplicaciones para una plataforma o dispositivo específico."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "Un método para rastrear errores y el desempeño de los sistemas de inteligencia artificial mediante el monitoreo de cómo funcionan."
+    },
+    {
+      "term": "session replay",
+      "explanation": "Los movimientos del usuario en la aplicación se pueden grabar como un vídeo y volver a verlos más tarde."
+    },
+    {
+      "term": "console host",
+      "explanation": "Un entorno de ventana en el que se ejecutan comandos basados ​​en texto en la computadora y se muestran los resultados."
+    },
+    {
+      "term": "development framework",
+      "explanation": "Un marco de trabajo que acelera el trabajo en el desarrollo de software y proporciona estructuras básicas listas para usar."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Asistentes de software inteligentes que escriben código, encuentran errores y gestionan proyectos en nombre de los desarrolladores de software."
+    }
+  ]
+}

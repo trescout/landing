@@ -1,0 +1,170 @@
+{
+  "date": "2026-07-11",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "summary": "Bun es una herramienta de alto rendimiento que combina el tiempo de ejecución de JavaScript, el administrador de paquetes, el ejecutor de pruebas y el empaquetador bajo un mismo techo. Desarrollada con el lenguaje Rust, esta plataforma ofrece una infraestructura integrada para acelerar los procesos de desarrollo de software.",
+          "meta": "Rust · ★ 94.374 · +209 hoy"
+        },
+        {
+          "title": "abseil/abseil-cpp",
+          "url": "https://github.com/abseil/abseil-cpp",
+          "summary": "Desarrollado por Google, Abseil ofrece fragmentos de código fuente abierto que complementan la biblioteca estándar de C++. Esta biblioteca proporciona estructuras de datos y algoritmos básicos para mejorar la capacidad de mantenimiento y el rendimiento del código en proyectos de software complejos.",
+          "meta": "C++ · ★ 17.545 · +89 hoy"
+        },
+        {
+          "title": "jbeder/yaml-cpp",
+          "url": "https://github.com/jbeder/yaml-cpp",
+          "summary": "yaml-cpp es una biblioteca para el lenguaje de programación C++ que analiza y emite datos en formato YAML. Permite a los desarrolladores de software administrar archivos de configuración y realizar operaciones de serialización de datos.",
+          "meta": "C++ · ★ 6.101 · +69 hoy"
+        },
+        {
+          "title": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "summary": "TypeScript, un superconjunto del lenguaje JavaScript, permite la verificación de errores durante la fase de compilación del código. Admite procesos de desarrollo de software más confiables y escalables con su función de escritura estática.",
+          "meta": "TypeScript · ★ 109.817 · +177 hoy"
+        },
+        {
+          "title": "catchorg/Catch2",
+          "url": "https://github.com/catchorg/Catch2",
+          "summary": "Catch2 es un marco de prueba unitario moderno que admite C++ 14 y versiones posteriores. Está diseñado para soportar prácticas de desarrollo basado en pruebas (TDD) y desarrollo basado en comportamiento (BDD) en procesos de desarrollo de software.",
+          "meta": "C++ · ★ 20.636 · +76 hoy"
+        },
+        {
+          "title": "chriskohlhoff/asio",
+          "url": "https://github.com/chriskohlhoff/asio",
+          "summary": "Asio es una biblioteca de C++ desarrollada para operaciones de E/S asíncronas. Proporciona una puerta de enlace portátil (abstracción de red) para la programación de redes y tareas del sistema de bajo nivel.",
+          "meta": "C++ · ★ 6.090 · +92 hoy"
+        },
+        {
+          "title": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "summary": "Las plantillas de Claude Code proporcionan una interfaz de línea de comandos (CLI) para la herramienta Claude Code que simplifica la configuración y el monitoreo. Esta herramienta basada en Python estandariza el control de los desarrolladores sobre el asistente de codificación y la gestión del flujo de trabajo.",
+          "meta": "Python · ★ 28.812 · +118 hoy"
+        },
+        {
+          "title": "zeux/meshoptimizer",
+          "url": "https://github.com/zeux/meshoptimizer",
+          "summary": "La biblioteca Meshoptimizer optimiza los datos de malla tridimensional, reduciendo el tamaño de los archivos y aumentando el rendimiento de renderizado. Desarrollada en C++, esta herramienta organiza datos geométricos para mejorar el uso de la memoria en aplicaciones gráficas.",
+          "meta": "C++ · ★ 8.045 · +91 hoy"
+        },
+        {
+          "title": "tailscale/tailscale",
+          "url": "https://github.com/tailscale/tailscale",
+          "summary": "Tailscale facilita el establecimiento de conexiones de red seguras al combinar el protocolo WireGuard con la autenticación de dos factores. Desarrollada con el lenguaje Go, esta herramienta proporciona comunicación cifrada entre dispositivos sin necesidad de configuraciones de red complejas.",
+          "meta": "Go · ★ 33.734 · +143 hoy"
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "Desarrollada por Google Labs, Stitch Skills es una biblioteca de habilidades de agente diseñada para funcionar con el servidor Stitch MCP. Siguiendo estándares abiertos, esta biblioteca tiene como objetivo estandarizar los flujos de trabajo para agentes de codificación como Gemini CLI y Cursor.",
+          "meta": "TypeScript · ★ 6.814 · +117 hoy"
+        },
+        {
+          "title": "hashicorp/terraform",
+          "url": "https://github.com/hashicorp/terraform",
+          "summary": "Desarrollado por HashiCorp, Terraform define la infraestructura como código, lo que permite crearla de forma segura y predecible. Escrita en lenguaje Go, esta herramienta convierte interfaces de programación de aplicaciones (API) en archivos de configuración declarativos, lo que permite a los equipos gestionar procesos de infraestructura bajo control de versiones.",
+          "meta": "Go · ★ 49.219 · +172 hoy"
+        },
+        {
+          "title": "grpc/grpc",
+          "url": "https://github.com/grpc/grpc",
+          "summary": "gRPC es un marco de llamada a procedimientos remotos de código abierto que proporciona comunicación de alto rendimiento entre diferentes lenguajes de programación. Gracias a su infraestructura basada en C++ permite el desarrollo de servicios de red escalables para lenguajes como Python, Ruby, C# y PHP.",
+          "meta": "C++ · ★ 45.162 · +78 hoy"
+        },
+        {
+          "title": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "summary": "Next.js es un marco utilizado para desarrollar aplicaciones web basadas en React y proporciona funciones como renderizado del lado del servidor y generación de sitios estáticos. Se está convirtiendo en una opción común entre los desarrolladores, ya que ofrece optimizaciones orientadas al rendimiento y soluciones de infraestructura escalables en proyectos web modernos.",
+          "meta": "JavaScript · ★ 140.777 · +191 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+          "summary": "Apple presentó una demanda alegando que sus ex empleados robaron secretos comerciales dentro de la empresa y los compartieron con OpenAI. El proceso legal en cuestión generó discusiones sobre la protección de los derechos de propiedad intelectual en los procesos de desarrollo de inteligencia artificial.",
+          "meta": "852 puntos · 423 comentarios"
+        },
+        {
+          "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+          "url": "https://github.com/JustVugg/colibri",
+          "summary": "El proyecto Colibri optimiza el modelo GLM 5.2 para que se puedan ejecutar modelos de lenguaje grandes en computadoras de gama baja. Este trabajo permite el uso eficiente de modelos de inteligencia artificial de alto rendimiento en sistemas locales.",
+          "meta": "843 puntos · 208 comentarios"
+        },
+        {
+          "title": "QuadRF can spot drones and see WiFi through my wall",
+          "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+          "summary": "QuadRF puede detectar señales de redes inalámbricas y vehículos aéreos no tripulados (drones) detrás de paredes utilizando tecnología de detección de radiofrecuencia. El dispositivo ofrece un sistema de seguimiento que visualiza la movilidad más allá de las barreras físicas mediante el análisis de ondas electromagnéticas en el entorno.",
+          "meta": "523 puntos · 184 comentarios"
+        },
+        {
+          "title": "New York City to ban deceptive subscription practices",
+          "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+          "summary": "La ciudad de Nueva York está promulgando nuevas regulaciones que prohíben los procesos de cancelación de suscripciones y las prácticas de renovación automática que engañan a los consumidores. Este paso legal requiere que los procedimientos de cancelación sean tan fáciles y transparentes como el proceso de inicio de membresía.",
+          "meta": "487 puntos · 238 comentarios"
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "summary": "El modelo GPT-5.6 Sol Ultra anunció que demostró la conjetura del ciclo de doble cobertura, que no se ha resuelto durante mucho tiempo en el mundo matemático. Este estudio demuestra la competencia de grandes modelos de lenguaje en procesos complejos de prueba matemática.",
+          "meta": "412 puntos · 322 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "runtime",
+      "explanation": "El momento en que se ejecuta un programa escrito en la computadora y la infraestructura que gestiona este proceso."
+    },
+    {
+      "term": "code snippets",
+      "explanation": "Piezas de código pequeñas y funcionales que están prediseñadas para usarse en un proyecto más grande."
+    },
+    {
+      "term": "parser",
+      "explanation": "Una herramienta que divide datos complejos escritos de manera que la computadora pueda entenderlos en pequeños fragmentos que el programa puede procesar."
+    },
+    {
+      "term": "emitter",
+      "explanation": "Un mecanismo que convierte datos o código procesados ​​en un formato de salida que otro programa puede usar."
+    },
+    {
+      "term": "serialization",
+      "explanation": "El proceso de convertir estructuras de datos complejas en una cadena de texto sin formato adecuada para guardarla en un archivo o enviarla a través de Internet."
+    },
+    {
+      "term": "skills",
+      "explanation": "Habilidades técnicas o prácticas para realizar un trabajo con un cierto nivel y eficiencia."
+    },
+    {
+      "term": "superset",
+      "explanation": "Una estructura más completa que cubre todas las características de un sistema existente y agrega nuevas capacidades."
+    },
+    {
+      "term": "static typing",
+      "explanation": "La regla de que los tipos de datos en el programa se determinan con precisión en la etapa de escritura antes de ejecutar el código."
+    },
+    {
+      "term": "unit testing",
+      "explanation": "Proceso de prueba automatizado que comprueba si las partes más pequeñas del software funcionan como se espera."
+    },
+    {
+      "term": "TDD",
+      "explanation": "Un método de desarrollo que se basa en preparar primero la prueba del código a escribir y luego escribir suficiente código para pasar esta prueba."
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-25",
+  "editorial": "Hoy en día, el mundo del software se centra en la contratación de agentes y herramientas de visualización de datos que automatizan los procesos de contratación. En particular, los nuevos recursos publicados por Apple sobre arquitectura de contenedores constituyen una referencia básica para los desarrolladores sobre el aislamiento del sistema y la optimización del rendimiento.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage es un sistema de código abierto basado en agentes que convierte a los asistentes de codificación con tecnología de inteligencia artificial en un completo estudio de producción de video. Esta plataforma basada en Python permite automatizar procesos de producción de vídeo con 12 flujos de trabajo diferentes y más de 500 habilidades de agentes.",
+          "meta": "Python · ★ 20.542 · +3.719 hoy"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "El sistema de análisis de acciones diario desarrollado por ZhuLinsen procesa datos de mercado de múltiples fuentes y noticias actuales utilizando modelos de lenguaje grande (LLM). El sistema ofrece análisis periódicos del mercado de valores sin coste alguno, gracias a su panel de apoyo a la decisión y a sus funciones de notificación automática.",
+          "meta": "Python · ★ 49.041 · +1.468 hoy"
+        },
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Desarrollado por Apple, Container permite crear y ejecutar contenedores de Linux utilizando máquinas virtuales livianas en macOS. Esta herramienta, escrita en lenguaje Swift, ofrece un rendimiento optimizado para la arquitectura de silicio de Apple.",
+          "meta": "Swift · ★ 42.628 · +1.838 hoy"
+        },
+        {
+          "title": "interviewstreet/hiring-agent",
+          "url": "https://github.com/interviewstreet/hiring-agent",
+          "summary": "El agente de contratación es un agente de inteligencia artificial (agente de IA) diseñado para evaluar y calificar currículums. Esta herramienta, desarrollada con lenguaje Python, tiene como objetivo automatizar los procesos de selección de candidatos en los procesos de selección.",
+          "meta": "Python · ★ 2.482 · +203 hoy"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "Utilizando agentes de codificación de inteligencia artificial, esta plantilla le permite copiar la estructura de cualquier sitio web con un solo comando. Desarrollada con lenguaje TypeScript, la herramienta automatiza la transferencia de contenido y diseño en los procesos de desarrollo web.",
+          "meta": "TypeScript · ★ 19.675 · +692 hoy"
+        },
+        {
+          "title": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "summary": "Harness es un marco de metahabilidades que diseña equipos de agentes de inteligencia artificial centrados en dominios y genera automáticamente las habilidades especializadas que estos equipos necesitan. El sistema tiene como objetivo optimizar los flujos de trabajo definiendo estructuras de agentes que realizarán tareas complejas.",
+          "meta": "HTML · ★ 7.861 · +277 hoy"
+        },
+        {
+          "title": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "summary": "Desarrollado por Google, Flutter le permite crear rápidamente interfaces de usuario para plataformas móviles, web y de escritorio utilizando una única base de código. Este marco de código abierto, basado en el lenguaje de programación Dart, es ampliamente preferido para desarrollar aplicaciones visualmente ricas y de alto rendimiento.",
+          "meta": "Dart · ★ 177.494 · +73 hoy"
+        },
+        {
+          "title": "andreknieriem/headunit-revived",
+          "url": "https://github.com/andreknieriem/headunit-revived",
+          "summary": "El proyecto revivido por la unidad central proporciona una aplicación que permite ver la interfaz de Android Auto en diferentes pantallas. Este software, desarrollado en lenguaje Kotlin, proporciona una solución de visualización alternativa para los sistemas de información y entretenimiento del automóvil.",
+          "meta": "Kotlin · ★ 1.484 · +41 hoy"
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "Desarrollado por Stablyai, Orca ofrece un entorno de desarrollo de agentes que permite gestionar múltiples agentes de inteligencia artificial simultáneamente. Con su suscripción, los usuarios pueden ejecutar varios agentes de codificación tanto en plataformas móviles como de escritorio.",
+          "meta": "TypeScript · ★ 7.044 · +331 hoy"
+        },
+        {
+          "title": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "summary": "Desarrollado por Google Labs, DESIGN.md proporciona una especificación de formato estructurado para pasar credenciales visuales a agentes de codificación. Este estándar garantiza que los agentes de inteligencia artificial comprendan los sistemas de diseño de manera consistente y permanente.",
+          "meta": "TypeScript · ★ 17.720 · +619 hoy"
+        },
+        {
+          "title": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "summary": "Zapret-discord-youtube es una herramienta que tiene como objetivo proporcionar acceso a plataformas restringidas cifrando el tráfico de red o utilizando métodos de fragmentación de paquetes. Fue desarrollado específicamente para superar las barreras de acceso a servicios como Discord y YouTube.",
+          "meta": "Batchfile · ★ 30.060 · +61 hoy"
+        },
+        {
+          "title": "kunchenguid/no-mistakes",
+          "url": "https://github.com/kunchenguid/no-mistakes",
+          "summary": "Desarrollada con el lenguaje Go, no-mistakes es una herramienta de línea de comandos diseñada para evitar que los desarrolladores de software envíen código defectuoso (git push). Al ejecutarse en el entorno de desarrollo local, proporciona una capa de seguridad que evita que se introduzcan cambios no deseados en el código base.",
+          "meta": "Go · ★ 2.519 · +110 hoy"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Desarrollado por NousResearch, Hermes Agent es un agente de inteligencia artificial (AI agent) que mejora con el tiempo aprendiendo a través de las interacciones del usuario. Este sistema basado en Python admite flujos de trabajo autónomos con gestión de tareas personalizada y capacidades de aprendizaje continuo.",
+          "meta": "Python · ★ 202.422 · +1.178 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "OpenAI unveils its first custom chip, built by Broadcom",
+          "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+          "summary": "OpenAI anunció Jalapeno, el primer chip personalizado desarrollado en colaboración con Broadcom. Este hardware está diseñado para acelerar los procesos de inferencia y reducir los costos operativos de los modelos de inteligencia artificial.",
+          "meta": "663 puntos · 372 comentarios"
+        },
+        {
+          "title": "RubyLLM: A Ruby framework for all major AI providers",
+          "url": "https://rubyllm.com/",
+          "summary": "RubyLLM ofrece un marco que permite que las aplicaciones desarrolladas con el lenguaje de programación Ruby accedan a diferentes proveedores de inteligencia artificial. Esta herramienta estandariza el proceso mediante el cual los desarrolladores integran grandes modelos de lenguaje en sus proyectos basados ​​en Ruby.",
+          "meta": "378 puntos · 61 comentarios"
+        },
+        {
+          "title": "Krea 2: SOTA open-weights 12B image model",
+          "url": "https://www.krea.ai/blog/krea-2-technical-report",
+          "summary": "Krea 2 es un modelo ponderado abierto con 12 mil millones de parámetros que ofrece un alto rendimiento en los procesos de creación de imágenes. Optimizado para mejorar la calidad de la producción visual, este modelo pretende establecer un nuevo estándar en el campo de la síntesis de imágenes.",
+          "meta": "372 puntos · 40 comentarios"
+        },
+        {
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "summary": "Anthropic alega que Alibaba copió las capacidades del modelo Claude AI sin permiso. La empresa sostiene que los pesos de los modelos y las características arquitectónicas se extrajeron utilizando métodos no autorizados.",
+          "meta": "338 puntos · 575 comentarios"
+        },
+        {
+          "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
+          "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
+          "summary": "Los túneles Secure Shell (SSH) se utilizan para transmitir de forma segura el tráfico de red mediante métodos de reenvío de puertos locales y remotos. Esta guía explica con ejemplos prácticos los procesos técnicos que proporcionan acceso seguro a datos entre diferentes servidores mediante el cifrado del tráfico de red.",
+          "meta": "316 puntos · 60 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, desarrollado por Zai-org, es un modelo de lenguaje diseñado para tareas de generación de texto. El modelo, que ha llegado a una amplia base de usuarios en la plataforma HuggingFace, ofrece capacidades de generación de texto en procesos de procesamiento del lenguaje natural.",
+          "meta": "♥ 2.382 · 57.186 descargas"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desarrollado por Baidu, Unlimited-OCR es un modelo de imagen a texto que procesa textos visuales y produce resultados de texto. El sistema tiene como objetivo automatizar el proceso de conversión de datos de documentos complejos a formato digital.",
+          "meta": "♥ 782 · 45.687 descargas"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma-4-12B-coder-fable5-composer2.5-v1-GGUF es un modelo de lenguaje optimizado con capacidades de generación de texto. Gracias al formato GGUF, admite procesos de escritura de código y creación de contenido en dispositivos locales con bajos requisitos de hardware.",
+          "meta": "♥ 2.312 · 483.139 descargas"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Este modelo basado en Gemma-4-12B es un modelo de generación de texto desarrollado utilizando capacidades de agente personalizadas y técnicas de composición. Esta estructura, presentada en formato GGUF, tiene como objetivo realizar operaciones de inferencia más eficientes en hardware local.",
+          "meta": "♥ 555 · 138.704 descargas"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M es un modelo de lenguaje que genera texto con soporte de ventana de contexto extendido. Se presenta en formato GGUF cuantificado, lo que permite su funcionamiento en dispositivos de bajos recursos.",
+          "meta": "♥ 388 · 63.637 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agentic system",
+      "explanation": "Estructura de software autónoma que puede tomar decisiones por sí sola y planificar los pasos necesarios para lograr el objetivo."
+    },
+    {
+      "term": "pipeline",
+      "explanation": "Una serie de etapas automáticas interconectadas a través de las cuales se procesan los datos."
+    },
+    {
+      "term": "agent skill",
+      "explanation": "Una habilidad o herramienta especial que utiliza un software de inteligencia artificial para realizar una tarea específica."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Un modelo avanzado de inteligencia artificial que comprende, resume o produce nuevos contenidos aprendiendo el lenguaje humano."
+    },
+    {
+      "term": "containers",
+      "explanation": "Paquetes que contienen todos los archivos necesarios para que se ejecute un software y garantizan que funcione igual en todas las computadoras."
+    },
+    {
+      "term": "Apple silicon",
+      "explanation": "Arquitectura de procesador propia de Apple diseñada específicamente para un alto rendimiento y un bajo consumo energético en sus dispositivos."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Un asistente digital que interactúa con su entorno y toma sus propias decisiones para ejecutar las órdenes que recibe del usuario."
+    },
+    {
+      "term": "AI coding agents",
+      "explanation": "Asistentes basados ​​en inteligencia artificial para desarrolladores de software que escriben código, encuentran errores y mejoran proyectos."
+    },
+    {
+      "term": "skills",
+      "explanation": "Las capacidades funcionales que tiene un software o sistema para realizar un trabajo específico."
+    },
+    {
+      "term": "meta-skill",
+      "explanation": "Una habilidad de alto nivel que permite aprender nuevas habilidades o utilizar las existentes de manera más eficiente."
+    },
+    {
+      "term": "user interface",
+      "explanation": "La pantalla visual y el área de control que permite al usuario interactuar con un dispositivo o software."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un conjunto de estructuras y reglas listas para usar que se utilizan para acelerar el trabajo al desarrollar software."
+    },
+    {
+      "term": "infotainment systems",
+      "explanation": "Panel de visualización digital en vehículos que ofrece funciones de navegación y entretenimiento, como música."
+    },
+    {
+      "term": "agent development environment",
+      "explanation": "Entorno de desarrollo de software personalizado utilizado para crear, probar y gestionar asistentes de inteligencia artificial."
+    },
+    {
+      "term": "design systems",
+      "explanation": "Una biblioteca estándar de colores, fuentes y componentes que se utiliza para garantizar la coherencia en el diseño de una aplicación."
+    },
+    {
+      "term": "packet fragmentation",
+      "explanation": "El proceso de dividir los datos enviados a través de Internet en partes más pequeñas según la capacidad de carga de la red."
+    }
+  ]
+}

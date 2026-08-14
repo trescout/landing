@@ -1,0 +1,166 @@
+{
+  "date": "2026-06-04",
+  "editorial": "La agenda tecnológica actual gira en torno a herramientas que automatizan los procesos de procesamiento de documentos y arquitecturas de agentes autónomos desarrolladas para grandes modelos de lenguaje. Los escáneres de seguridad de código abierto y las mejoras de la interfaz se centran en aumentar tanto la capacidad de procesamiento de datos como la seguridad operativa de los sistemas.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom reduce el uso de tokens entre un 60 y un 95 por ciento al comprimir archivos de registro, salida de código y fragmentos de recuperación de información (RAG) enviados a modelos de lenguaje grandes (LLM). La biblioteca tiene como objetivo reducir los costos de procesamiento de datos con opciones de servidor proxy y Model Context Protocol (MCP).",
+          "meta": "Python · ★ 10.887 · +3.530 hoy"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC proporciona un sistema de rendimiento del agente que optimiza la capacidad, la memoria y las capas de seguridad para herramientas de desarrollo como Claude Code y Cursor. El sistema está diseñado para hacer más eficientes los flujos de trabajo de los agentes de inteligencia artificial utilizados en los procesos de desarrollo de software.",
+          "meta": "JavaScript · ★ 206.286 · +2.141 hoy"
+        },
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "summary": "Trivy es una herramienta integral de escaneo de seguridad que detecta vulnerabilidades, configuraciones incorrectas y secretos en contenedores, clústeres de Kubernetes e infraestructuras de nube. Automatiza auditorías de seguridad en procesos de desarrollo con la capacidad de crear listas de materiales de software (SBOM).",
+          "meta": "Go · ★ 35.511 · +24 hoy"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Desarrollado por NousResearch, Hermes Agent ofrece una infraestructura de agente autónomo que aprende de las interacciones del usuario y se desarrolla con el tiempo. Este sistema basado en Python utiliza el aprendizaje continuo para crear flujos de trabajo personalizados.",
+          "meta": "Python · ★ 179.808 · +1.735 hoy"
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Desarrollado por Microsoft, MarkItDown es una herramienta de Python que convierte varios formatos de archivos y documentos de Office al formato de lenguaje Markdown (Markdown). Esta herramienta facilita la traducción de datos no estructurados a formatos de texto más procesables para modelos de lenguaje grandes.",
+          "meta": "Python · ★ 143.384 · +1.984 hoy"
+        },
+        {
+          "title": "nesquena/hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "summary": "Hermes WebUI es una interfaz desarrollada para gestionar agentes Hermes a través de navegadores web o dispositivos móviles. Esta herramienta basada en Python proporciona una plataforma que facilita la interacción de los usuarios con agentes de inteligencia artificial.",
+          "meta": "Python · ★ 13.256 · +719 hoy"
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling es un marco de web scraping adaptable que gestiona todo el proceso, desde solicitudes individuales hasta operaciones de rastreo integrales. Esta herramienta basada en Python está diseñada para simplificar tareas complejas de recopilación de datos.",
+          "meta": "Python · ★ 60.629 · +1.067 hoy"
+        },
+        {
+          "title": "opendataloader-project/opendataloader-pdf",
+          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+          "summary": "OpenDataLoader PDF es un analizador de PDF de código abierto que pone datos a disposición de modelos de inteligencia artificial. Este proyecto basado en Java acelera los procesos de procesamiento de datos al automatizar la accesibilidad de los documentos PDF.",
+          "meta": "Java · ★ 23.530 · +570 hoy"
+        },
+        {
+          "title": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "summary": "Odoo es una plataforma de planificación de recursos empresariales de código abierto que permite a las empresas gestionar todos sus procesos operativos bajo un mismo techo. Desarrollado con lenguaje Python, este sistema ofrece una amplia gama de aplicaciones comerciales modulares, desde ventas hasta contabilidad.",
+          "meta": "Python · ★ 52.082 · +29 hoy"
+        },
+        {
+          "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "summary": "Open-LLM-VTuber admite interacción de voz manos libres con modelos de lenguaje grandes y soporte de animación de personajes en vivo (Live2D) que permite que la interrupción de voz se ejecute en sistemas locales. Este proyecto, que tiene compatibilidad multiplataforma, automatiza procesos de publicación virtual apoyados en inteligencia artificial.",
+          "meta": "Python · ★ 9.185 · +693 hoy"
+        },
+        {
+          "title": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "summary": "Coding-interview-university ofrece un plan de estudio integral que cubre los conceptos básicos de la informática para aquellos que desean convertirse en ingenieros de software. Este recurso combina el conocimiento teórico y práctico necesario en la preparación para entrevistas técnicas con un plan de estudios estructurado.",
+          "meta": "★ 349.290 · +330 hoy"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM permite ejecutar modelos de lenguajes grandes con 70 mil millones de parámetros en unidades de procesamiento de gráficos con solo 4 GB de memoria de video (VRAM). Esta biblioteca utiliza técnicas de optimización de memoria para permitir el uso de modelos de alta capacidad con bajos requisitos de hardware.",
+          "meta": "Jupyter Notebook · ★ 19.113 · +208 hoy"
+        },
+        {
+          "title": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "summary": "Supermemory ofrece un motor de memoria escalable y una interfaz de aplicación para la era de la inteligencia artificial. Esta estructura, desarrollada con TypeScript, proporciona una interfaz de programación de memoria especializada (Memory API) para un rápido procesamiento y gestión de datos.",
+          "meta": "TypeScript · ★ 25.363 · +600 hoy"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading ofrece un agente comercial personal desarrollado para operar en los mercados financieros. El proyecto permite a los usuarios gestionar estrategias comerciales automáticas con su estructura basada en Python.",
+          "meta": "Python · ★ 10.343 · +197 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+          "summary": "Google anunció Gemma 2 12B, un modelo de inteligencia artificial multimodal que puede procesar texto y datos visuales en una sola arquitectura. Gracias a su estructura sin codificador, el modelo tiene como objetivo crear respuestas más consistentes procesando directamente entradas visuales y textuales.",
+          "meta": "814 puntos · 321 comentarios"
+        },
+        {
+          "title": "Elixir v1.20: Now a gradually typed language",
+          "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+          "summary": "La versión Elixir v1.20 agrega soporte de escritura gradual al núcleo del idioma. Esta actualización tiene como objetivo reducir los errores de tiempo de ejecución al permitir a los desarrolladores realizar comprobaciones de tipos estáticos en sus bases de código.",
+          "meta": "730 puntos · 264 comentarios"
+        },
+        {
+          "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+          "url": "https://burntsushi.net/encephalitis/",
+          "summary": "El desarrollador de software Andrew Gallant comparte la recuperación de su salud después de que le diagnosticaran encefalitis anti-receptor NMDA y los efectos de esta rara afección neurológica en la vida diaria. Esta narrativa, centrada en la experiencia personal, llama la atención sobre la complejidad de los procesos de diagnóstico médico y las repercusiones de los problemas de salud en la vida profesional.",
+          "meta": "596 puntos · 181 comentarios"
+        },
+        {
+          "title": "\"They're made out of weights\"",
+          "url": "https://maxleiter.com/blog/weights",
+          "summary": "Este estudio, que examina el principio de funcionamiento de grandes modelos de lenguaje a través de pesos, explica que los complejos procesos de razonamiento de los sistemas de inteligencia artificial en realidad consisten en la interacción de coeficientes matemáticos. El artículo proporciona una descripción técnica de los mecanismos de procesamiento de datos que subyacen a las capacidades de aprendizaje y predicción de los modelos.",
+          "meta": "562 puntos · 199 comentarios"
+        },
+        {
+          "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+          "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+          "summary": "Uber está estableciendo un nuevo punto de referencia en las estrategias de precios de las herramientas de software al imponer un límite de gasto mensual de 1.500 dólares al uso de la IA empresarial. Esta práctica muestra que los modelos de precios basados ​​en el uso, que las empresas utilizan para mantener sus costos operativos bajo control, se están generalizando.",
+          "meta": "467 puntos · 580 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "Desarrollado por NVIDIA, LocateAnything-3D es un modelo de conversión de texto a texto que realiza tareas de localización de objetos procesando entradas visuales y textuales. El modelo está diseñado para identificar objetos en escenas complejas y presentar las coordenadas de estos objetos como salida basada en texto.",
+          "meta": "♥ 1.210 · 91.834 descargas"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "summary": "Desarrollado por LiquidAI, LFM2.5-8B-A1B se presentó como un modelo centrado en la generación de texto. El modelo tiene como objetivo proporcionar eficiencia en los procesos de procesamiento del lenguaje con su arquitectura informática de alto rendimiento.",
+          "meta": "♥ 486 · 72.114 descargas"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "El modelo Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive compartido en HuggingFace es un modelo de inteligencia artificial que produce resultados de texto procesando datos visuales y de texto (imagen-texto-a-texto). El modelo ofrece la capacidad de analizar diferentes tipos de datos con su estructura sin censura.",
+          "meta": "♥ 1.368 · 2.646.756 descargas"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "Desarrollado por OpenBMB, MiniCPM5-1B es un modelo de lenguaje de bajos parámetros optimizado para tareas de generación de texto. Este modelo, que tiene como objetivo proporcionar un alto rendimiento con recursos informáticos limitados, se encuentra entre las soluciones eficientes de inteligencia artificial (IA).",
+          "meta": "♥ 762 · 79.427 descargas"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Desarrollado por Google, Gemma 2 12B ofrece una estructura de modelo multimodal (cualquiera a cualquiera) que puede convertir entre diferentes tipos de datos. Este modelo proporciona una experiencia de IA flexible al procesar varios tipos de entradas, como texto e imágenes.",
+          "meta": "♥ 274 · 14.866 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

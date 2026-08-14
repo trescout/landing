@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-15",
+  "editorial": "La agenda tecnológica actual incluye aplicaciones de inteligencia artificial (aplicaciones de IA) de código abierto de desarrolladores independientes y arquitecturas de modelos autónomos para los mercados financieros. Los repositorios populares en GitHub apuntan específicamente a conjuntos de herramientas que amplían los usos prácticos de los modelos de lenguajes grandes (LLM) y recursos que se centran en el desarrollo de habilidades de software.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "1c7/chinese-independent-developer",
+          "url": "https://github.com/1c7/chinese-independent-developer",
+          "summary": "Esta base de datos de código abierto, que enumera proyectos realizados por desarrolladores independientes chinos, reúne las aplicaciones y espacios de trabajo desarrollados por desarrolladores de software. La plataforma le permite seguir las tendencias actuales y los estudios orientados a productos en el ecosistema de desarrollo independiente (indie hacking).",
+          "meta": "Python · ★ 54.609 · +1.196 hoy"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "El repositorio awesome-llm-apps reúne más de 100 agentes de inteligencia artificial y aplicaciones de generación aumentada directamente ejecutables. Estos proyectos de código abierto basados ​​en Python permiten a los desarrolladores copiar y personalizar aplicaciones rápidamente y publicarlas.",
+          "meta": "Python · ★ 121.162 · +1.106 hoy"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Este repositorio, compartido por Matt Pocock, reúne los archivos de configuración y mensajes personalizados que los ingenieros de software utilizan en Claude. Los desarrolladores estandarizan los procesos de codificación respaldados por IA mediante el uso de estos conjuntos de habilidades ya preparados.",
+          "meta": "Shell · ★ 170.810 · +1.679 hoy"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut ofrece una alternativa de código abierto al software de edición de vídeo CapCut. Desarrollada con lenguaje TypeScript, la plataforma permite a los usuarios gestionar libremente sus procesos de edición de vídeo.",
+          "meta": "TypeScript · ★ 69.524 · +4.276 hoy"
+        },
+        {
+          "title": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "summary": "El fondo de cobertura de IA utiliza agentes de IA autónomos para desarrollar análisis de mercados financieros y estrategias comerciales. Este proyecto basado en Python tiene como objetivo automatizar los procesos de toma de decisiones de inversión mediante el procesamiento de datos de mercado.",
+          "meta": "Python · ★ 61.997 · +109 hoy"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark es un archivo de estilo desarrollado para reducir el impacto del contenido creado por inteligencia artificial (AI-slop) en el diseño visual. Garantiza que las interfaces producidas en herramientas de codificación como Claude Code, Cursor y Codex tengan un diseño original y orientado al ser humano.",
+          "meta": "CSS · ★ 6.370 · +1.015 hoy"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading es un agente comercial personal desarrollado para operar en los mercados financieros. Este proyecto basado en Python tiene como objetivo ejecutar estrategias comerciales automáticas en nombre de los usuarios mediante el análisis de datos de mercado.",
+          "meta": "Python · ★ 23.102 · +1.256 hoy"
+        },
+        {
+          "title": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "summary": "Win11Debloat es un script de PowerShell que permite eliminar aplicaciones preinstaladas, deshabilitar datos de telemetría y realizar personalizaciones del sistema en los sistemas operativos Windows 10 y 11. Ayuda a los usuarios a lograr una experiencia de usuario más sencilla al eliminar elementos innecesarios en el sistema operativo.",
+          "meta": "PowerShell · ★ 51.923 · +783 hoy"
+        },
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "El conjunto de datos de fitness compartido por Hasan Eylldrm incluye imágenes animadas, información sobre grupos de músculos e instrucciones paso a paso en seis idiomas para 1.324 ejercicios diferentes. Este recurso integral ofrece una capa estructurada de datos de entrenamiento para los desarrolladores de aplicaciones de fitness.",
+          "meta": "HTML · ★ 13.778 · +851 hoy"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot es una plataforma de diseño de código abierto que permite a los equipos de productos colaborar a escala. Esta herramienta, desarrollada con el lenguaje Clojure, tiene como objetivo aumentar la transparencia y las oportunidades de colaboración en los procesos de diseño.",
+          "meta": "Clojure · ★ 56.290 · +395 hoy"
+        },
+        {
+          "title": "AIEraDev/Clypra",
+          "url": "https://github.com/AIEraDev/Clypra",
+          "summary": "Clypra es una aplicación de edición de vídeo de código abierto desarrollada con Tauri, React y TypeScript. El software tiene como objetivo ofrecer funciones avanzadas que se encuentran en las herramientas de edición de video pagas como una alternativa gratuita.",
+          "meta": "TypeScript · ★ 2.729 · +85 hoy"
+        },
+        {
+          "title": "par274/sharpemu",
+          "url": "https://github.com/par274/sharpemu",
+          "summary": "Sharpemu es un proyecto de emulador experimental desarrollado en C# para la consola de juegos PlayStation 5. El proyecto es un estudio técnico que tiene como objetivo ejecutar la arquitectura de la consola en un entorno basado en software.",
+          "meta": "C# · ★ 2.242 · +332 hoy"
+        },
+        {
+          "title": "chenyme/grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "summary": "Desarrollado para las plataformas Grok Build, Grok Web y Grok Console, este gateway (API gateway) reúne la gestión de múltiples cuentas en un solo centro. Escrita en lenguaje Go, la herramienta ofrece una interfaz manejable al estandarizar el acceso de los usuarios a diferentes servicios de Grok.",
+          "meta": "Go · ★ 5.927 · +186 hoy"
+        },
+        {
+          "title": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "summary": "Graphify transforma diferentes tipos de datos, como archivos de código, esquemas de bases de datos y documentos en proyectos de software, en una estructura de gráfico de conocimiento consultable. Esta herramienta permite a los asistentes de codificación de IA comprender el contexto del proyecto de manera más integral.",
+          "meta": "Python · ★ 86.756 · +1.851 hoy"
+        },
+        {
+          "title": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "summary": "Maths-cs-ai-compendium ofrece una colección completa de recursos que cubren matemáticas, informática e inteligencia artificial para ingenieros que quieran especializarse en inteligencia artificial y aprendizaje automático. Este repositorio sirve como una guía de estudio estructurada para fortalecer los fundamentos teóricos y desarrollar habilidades de ingeniería de investigación.",
+          "meta": "TypeScript · ★ 5.424 · +112 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+          "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+          "summary": "Los desarrolladores tienden a preferir la estructura liviana y accesible que ofrecen las páginas web estándar en lugar de arquitecturas de aplicaciones complejas. Este enfoque sostiene que las soluciones basadas en navegador suelen ser suficientes para simplificar la experiencia del usuario.",
+          "meta": "773 puntos · 467 comentarios"
+        },
+        {
+          "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+          "url": "https://prismml.com/news/bonsai-27b",
+          "summary": "Desarrollado por PrismML, Bonsai 27B fue diseñado como un modelo de lenguaje grande con 27 mil millones de parámetros que puede ejecutarse en teléfonos inteligentes. El modelo hace que los modelos que requieren una alta potencia computacional sean accesibles en dispositivos móviles mediante el uso de técnicas de compresión de modelos.",
+          "meta": "525 puntos · 187 comentarios"
+        },
+        {
+          "title": "How to stop Claude from saying load-bearing",
+          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "summary": "La expresión \"portar carga\", que los modelos de lenguaje grande (LLM) como Claude suelen utilizar en sus respuestas, es un patrón que indica que el modelo depende excesivamente de un contexto particular. Los usuarios pueden evitar expresiones repetitivas que reducen la calidad del contenido a través de indicaciones del sistema y permiten que el modelo produzca respuestas más originales.",
+          "meta": "489 puntos · 529 comentarios"
+        },
+        {
+          "title": "Are we offloading too much of our thinking to AI?",
+          "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+          "summary": "Se discuten los efectos de la carga cognitiva transferida a las herramientas de inteligencia artificial sobre las capacidades de resolución de problemas y pensamiento crítico de la mente humana. En el mundo de la tecnología se está cuestionando el equilibrio entre la automatización que facilita los procesos intelectuales y el riesgo de que los individuos pierdan sus propias habilidades de análisis.",
+          "meta": "426 puntos · 409 comentarios"
+        },
+        {
+          "title": "The Tower Keeps Rising",
+          "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+          "summary": "A medida que aumenta la complejidad en el mundo del software, la acumulación de capas de abstracción que complican la manejabilidad de los sistemas plantea un problema. En los procesos modernos de desarrollo de software, la deuda técnica y los costos de mantenimiento creados por estas capas limitan la sostenibilidad de las arquitecturas del sistema.",
+          "meta": "423 puntos · 191 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "El modelo Qwythos-9B-Claude-Mythos-5-1M es un modelo de inteligencia artificial multimodal que produce resultados de texto procesando entradas visuales y de texto. Este modelo, presentado en formato GGUF, está optimizado para ejecutarse en dispositivos locales.",
+          "meta": "♥ 2.168 · 2.006.265 descargas"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, desarrollado por Zai-org, es un modelo de lenguaje optimizado para tareas de generación de texto. El modelo en cuestión tiene como objetivo proporcionar un alto rendimiento en los procesos de procesamiento del lenguaje natural mediante el entrenamiento en extensos conjuntos de datos.",
+          "meta": "♥ 3.952 · 489.611 descargas"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Desarrollado por Tencent, Hy3 es un modelo de lenguaje optimizado para procesos de generación de texto. El modelo tiene como objetivo realizar una variedad de tareas de procesamiento del lenguaje natural al ser entrenado en conjuntos de datos a gran escala.",
+          "meta": "♥ 785 · 10.406 descargas"
+        },
+        {
+          "title": "conradlocke/krea2-identity-edit",
+          "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "summary": "El modelo Krea2-identity-edit ofrece un enfoque centrado en la preservación de la identidad en procesos de edición visual. Este modelo proporciona capacidades de edición de imágenes que permiten a los usuarios adaptar una identidad visual particular a diferentes contextos sin cambiarla.",
+          "meta": "♥ 291 · 0 descargas"
+        },
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "summary": "ThinkingCap-Qwen3.6-27B, desarrollado por Bottlecapai, es un modelo de inteligencia artificial multimodal que produce resultados de texto procesando datos visuales y de texto. Basado en la arquitectura Qwen, ofrece la capacidad de analizar contenido visual complejo y generar respuestas basadas en texto.",
+          "meta": "♥ 352 · 6.208 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "indie hacking",
+      "explanation": "El proceso de desarrollar y vender tus propios productos digitales solo o con pequeños equipos, sin estar afiliado a grandes empresas."
+    },
+    {
+      "term": "retrieval-augmented generation",
+      "explanation": "Es un método en el que la inteligencia artificial escanea datos actuales y privados de fuentes externas y aumenta su precisión mientras produce respuestas."
+    },
+    {
+      "term": "prompt",
+      "explanation": "Una instrucción o comando escrito que usted le da a la inteligencia artificial para obtener un resultado."
+    },
+    {
+      "term": "skills",
+      "explanation": "Capacidades adicionales que obtienen los asistentes de voz o dispositivos inteligentes para realizar determinadas tareas."
+    },
+    {
+      "term": "AI hedge fund",
+      "explanation": "Gestión de fondos financieros donde las decisiones de inversión se toman íntegramente mediante algoritmos de inteligencia artificial en lugar de humanos."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Software que puede tomar decisiones por sí solo, utilizar herramientas para lograr objetivos y completar tareas automáticamente."
+    },
+    {
+      "term": "AI-slop",
+      "explanation": "El contenido producido por la inteligencia artificial es de baja calidad, descuidado y, a menudo, contamina Internet."
+    },
+    {
+      "term": "trading agent",
+      "explanation": "Un programa de software que rastrea los cambios de precios en el mercado de valores y opera automáticamente por usted."
+    },
+    {
+      "term": "video editor",
+      "explanation": "Software para cortar imágenes, agregar efectos y editar sonidos para convertirlas en una película que se pueda ver."
+    },
+    {
+      "term": "emulator",
+      "explanation": "Software que permite ejecutar juegos o programas en otro sistema imitando el hardware de un dispositivo."
+    },
+    {
+      "term": "API gateway",
+      "explanation": "Una puerta de enlace digital que gestiona el tráfico de datos entre diferentes aplicaciones, garantiza la seguridad y dirige las solicitudes al lugar correcto."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Una base de datos inteligente que registra información en una estructura de red junto con sus relaciones entre sí."
+    },
+    {
+      "term": "AI coding assistants",
+      "explanation": "Herramientas de inteligencia artificial que evitan que los desarrolladores de software cometan errores al escribir código, completar partes faltantes o brindar sugerencias."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Tecnología que permite a las computadoras aprender por sí solas examinando datos y haciendo mejores predicciones a lo largo del tiempo."
+    },
+    {
+      "term": "application",
+      "explanation": "Cualquier programa de software que utilice para realizar un trabajo específico en computadoras o teléfonos."
+    },
+    {
+      "term": "web-based solutions",
+      "explanation": "Servicios de software que funcionan únicamente a través del navegador de Internet, sin necesidad de instalar nada en su computadora."
+    }
+  ]
+}

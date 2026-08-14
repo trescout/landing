@@ -1,0 +1,255 @@
+{
+  "date": "2026-07-05",
+  "editorial": "Los agentes de inteligencia artificial (agentes de IA) y las herramientas de automatización basadas en navegadores han ganado un impulso dominante en los procesos de desarrollo de software actuales. Los protocolos que funcionan especialmente integrados con las herramientas de desarrollo crean un nuevo estándar que se centra en aumentar la eficiencia en los procesos de escritura de código.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "Desarrollado por OpenAI, el complemento Codex permite procesos de revisión de código y delegación de tareas a través de Claude Code. Esta integración tiene como objetivo aumentar la eficiencia combinando las capacidades de diferentes modelos de inteligencia artificial en los flujos de trabajo de desarrollo de software.",
+          "meta": "JavaScript · ★ 24.850 · +718 hoy"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman es un paquete de capacidades utilizado en Claude Code que simplifica la estructura del lenguaje y reduce el uso de tokens en un 65 por ciento. Esta herramienta tiene como objetivo reducir los costos de transacción al permitir que los modelos de inteligencia artificial se comuniquen con menos datos.",
+          "meta": "JavaScript · ★ 84.234 · +1.089 hoy"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "summary": "Desarrollado por Alibaba, page-agent es un agente de interfaz gráfica de usuario (GUI) que permite controlar interfaces web mediante comandos de lenguaje natural. Escrita en TypeScript, esta herramienta tiene como objetivo gestionar elementos interactivos en páginas web mediante el procesamiento del lenguaje natural.",
+          "meta": "TypeScript · ★ 23.327 · +742 hoy"
+        },
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix es una herramienta de prueba de penetración compatible con inteligencia artificial de código abierto desarrollada para detectar y corregir vulnerabilidades de seguridad en aplicaciones. Esta herramienta, escrita en lenguaje Python, tiene como objetivo acelerar los procesos de escaneo de vulnerabilidades mediante la automatización de la seguridad del software.",
+          "meta": "Python · ★ 36.355 · +1.904 hoy"
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "Desarrollado para Chrome DevTools, este servidor permite que agentes de inteligencia artificial centrados en la codificación administren procesos de revisión y depuración en el navegador. Permite a los agentes interactuar con páginas web y procesar directamente datos técnicos a través del Protocolo de contexto modelo.",
+          "meta": "TypeScript · ★ 45.864 · +304 hoy"
+        },
+        {
+          "title": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "summary": "Meetily es un asistente de reuniones de código abierto que procesa grabaciones de reuniones localmente y no requiere una conexión a la nube. Desarrollada en Rust, la aplicación ofrece transcripción de voz rápida, diario del hablante y capacidades de resumen con modelos de idioma local.",
+          "meta": "Rust · ★ 15.565 · +718 hoy"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Las indicaciones del sistema de modelos de lenguaje grandes populares se compilan en un repositorio central para la investigación de seguridad y el análisis del comportamiento del modelo. Este recurso pone a disposición de forma transparente las instrucciones de configuración básicas que desarrolladores como Anthropic, OpenAI, Google y xAI aplican a sus modelos.",
+          "meta": "JavaScript · ★ 49.146 · +471 hoy"
+        },
+        {
+          "title": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "summary": "Este recurso, preparado por la Universidad de Harvard, ofrece una guía técnica completa sobre sistemas de aprendizaje automático. Detalla los procesos de desarrollo de modelos escalables de inteligencia artificial, centrándose en la interacción entre hardware y software.",
+          "meta": "Python · ★ 26.644 · +443 hoy"
+        },
+        {
+          "title": "rommapp/romm",
+          "url": "https://github.com/rommapp/romm",
+          "summary": "Romm es un administrador de archivos de juegos autohospedado desarrollado para organizar bibliotecas de juegos y jugar a través del navegador. Escrita en Python, esta plataforma ofrece una interfaz orientada visualmente para gestionar colecciones de juegos digitales.",
+          "meta": "Python · ★ 10.302 · +398 hoy"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Desarrollado con el lenguaje Rust, herdr funciona como un multiplexor de agentes que permite gestionar múltiples agentes de inteligencia artificial simultáneamente en el terminal. Permite a los usuarios interactuar con diferentes modelos de inteligencia artificial simultáneamente a través de la línea de comando.",
+          "meta": "Rust · ★ 11.608 · +707 hoy"
+        },
+        {
+          "title": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "summary": "Desarrollada para agentes de codificación de inteligencia artificial basados ​​en .NET y C#, esta biblioteca ofrece paquetes de habilidades especializadas que respaldan los procesos de desarrollo de software. Permite a los desarrolladores estandarizar las herramientas de automatización y ejecutar tareas de codificación de manera eficiente.",
+          "meta": "C# · ★ 3.872 · +59 hoy"
+        },
+        {
+          "title": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "summary": "Agent Skills proporciona un marco estándar (especificación) para definir y documentar las capacidades de los agentes de inteligencia artificial. Esta estructura tiene como objetivo facilitar el intercambio de capacidades y la interoperabilidad entre diferentes sistemas de agentes.",
+          "meta": "Python · ★ 22.409 · +351 hoy"
+        },
+        {
+          "title": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "summary": "Immich es una solución de administración de medios autohospedada de alto rendimiento desarrollada para administrar archivos de fotografías y videos. Escrita en TypeScript, esta plataforma permite a los usuarios crear un archivo multimedia central en su propia infraestructura.",
+          "meta": "TypeScript · ★ 105.748 · +201 hoy"
+        },
+        {
+          "title": "chthollyphile/folia-major",
+          "url": "https://github.com/chthollyphile/folia-major",
+          "summary": "Folia-major es una interfaz de reproductor que proporciona animaciones de letras visualizadas para archivos de música locales y plataformas en línea. Desarrollada con TypeScript, esta herramienta tiene como objetivo enriquecer la experiencia de escuchar música con efectos visuales dinámicos.",
+          "meta": "TypeScript · ★ 1.034 · +175 hoy"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Este repositorio, compartido por Matt Pocock, reúne los scripts y los paquetes de habilidades utilizados por los desarrolladores de software en herramientas de codificación compatibles con inteligencia artificial. Los desarrolladores pueden utilizar estas configuraciones optimizadas y listas para usar para mejorar el rendimiento de los modelos de IA generativa en plataformas como Claude.",
+          "meta": "Shell · ★ 156.844 · +973 hoy"
+        },
+        {
+          "title": "CoplayDev/unity-mcp",
+          "url": "https://github.com/CoplayDev/unity-mcp",
+          "summary": "Unity MCP proporciona un puente entre grandes modelos de lenguaje y el editor de Unity, lo que permite automatizar la gestión de activos, el control de escenas y los procesos de edición de código. Esta herramienta, que funciona a través del Model Server Protocol (Model Context Protocol), permite a los asistentes de inteligencia artificial intervenir directamente en los flujos de trabajo de desarrollo de juegos.",
+          "meta": "C# · ★ 11.702 · +69 hoy"
+        },
+        {
+          "title": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "summary": "Desarrollada para Claude Code y varios agentes de codificación, esta biblioteca ofrece más de 330 paquetes de habilidades y más de 70 comandos especiales en diferentes campos, desde ingeniería hasta marketing. Este conjunto de herramientas basado en Python proporciona scripts personalizables para estandarizar los flujos de trabajo basados ​​en IA y aumentar la productividad.",
+          "meta": "Python · ★ 20.244 · +136 hoy"
+        },
+        {
+          "title": "crynta/terax-ai",
+          "url": "https://github.com/crynta/terax-ai",
+          "summary": "Terax-ai, como entorno de desarrollo local de inteligencia artificial orientado a terminales (espacio de trabajo de desarrollo nativo de IA), llama la atención por su estructura de bajo tamaño de 7 megabytes. Desarrollada con TypeScript, esta herramienta ofrece a los desarrolladores la oportunidad de codificar con inteligencia artificial directamente a través del terminal.",
+          "meta": "TypeScript · ★ 8.121 · +62 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Leaking YouTube creators' private videos",
+          "url": "https://javoriuski.com/post/youtube",
+          "summary": "Se ha determinado que los videos privados en YouTube se han vuelto accesibles a personas no autorizadas debido a una vulnerabilidad de seguridad en la interfaz de la plataforma. Esta situación provoca la filtración de archivos de vídeo, que los productores de contenidos mantienen en secreto, a través de sus metadatos.",
+          "meta": "577 puntos · 318 comentarios"
+        },
+        {
+          "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+          "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+          "summary": "El proyecto de código abierto, desarrollado utilizando el motor Fable, hace que el juego Command and Conquer Generals sea ejecutable de forma nativa en dispositivos macOS, iPhone y iPad. Este trabajo permite jugar juegos de estrategia antiguos en hardware moderno de Apple sin la necesidad de una capa de emulación adicional.",
+          "meta": "511 puntos · 211 comentarios"
+        },
+        {
+          "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+          "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+          "summary": "La plataforma Anna's Archive ha lanzado un programa de recompensas de 200.000 dólares para crear una biblioteca digital integral que contenga todos los datos de libros escaneados de Google Books y fuentes similares. Esta iniciativa tiene como objetivo recopilar obras accesibles o protegidas por derechos de autor en un conjunto de datos central.",
+          "meta": "426 puntos · 232 comentarios"
+        },
+        {
+          "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+          "url": "https://github.com/anthropics/claude-code/issues/74066",
+          "summary": "Los usuarios de Claude Code informan fugas de sesión o caché entre diferentes instancias de espacios de trabajo o cuentas de consumidores. Esto indica una debilidad técnica que puede representar un riesgo para la seguridad de los datos entre sesiones independientes.",
+          "meta": "288 puntos · 130 comentarios"
+        },
+        {
+          "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+          "url": "https://github.com/openai/codex/issues/30364",
+          "summary": "Se argumenta que el método de agrupación de tokens de razonamiento en los modelos OpenAI conduce a una disminución en el rendimiento del modelo en algunos casos. Los usuarios afirman que esta estrategia de agrupamiento aumenta el margen de error en los procesos de generación de código.",
+          "meta": "237 puntos · 82 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B, desarrollado por Empero-ai, es un modelo multimodal que produce resultados de texto procesando datos visuales y de texto. El modelo está diseñado para optimizar procesos complejos de análisis de imágenes y texto con soporte de ventanas de alto contexto.",
+          "meta": "♥ 1.479 · 1.464.047 descargas"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, desarrollado por Zai-org, es un modelo de lenguaje optimizado para tareas de generación de texto. Este modelo, que ha despertado gran interés en la plataforma Hugging Face, ofrece capacidades de creación de contenidos en procesos de procesamiento del lenguaje natural.",
+          "meta": "♥ 3.410 · 208.920 descargas"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desarrollado por Baidu, Unlimited-OCR es un modelo de imagen a texto que procesa textos visuales y produce resultados de texto. Está diseñado para automatizar el proceso de conversión de datos de documentos complejos a formato digital.",
+          "meta": "♥ 1.718 · 988.379 descargas"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "Ornith-1.0-35B, desarrollado por Deepreinforce-ai, es un modelo de lenguaje diseñado para la generación de texto. El modelo se puede ejecutar de manera eficiente en diferentes configuraciones de hardware gracias al formato GGUF.",
+          "meta": "♥ 713 · 359.659 descargas"
+        },
+        {
+          "title": "nvidia/Qwen3.6-27B-NVFP4",
+          "url": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
+          "summary": "Qwen3.6-27B-NVFP4 de Nvidia es un modelo de lenguaje optimizado para tareas de generación de texto. Este modelo, entrenado con precisión de punto flotante de cuatro bits (FP4), admite procesos de inferencia de alto rendimiento.",
+          "meta": "♥ 259 · 184.521 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "token",
+      "explanation": "La unidad más pequeña de palabras o sílabas divididas en partes que utiliza la inteligencia artificial al procesar textos."
+    },
+    {
+      "term": "page-agent",
+      "explanation": "Un asistente de software que puede leer información en páginas web y realizar operaciones en nombre del usuario."
+    },
+    {
+      "term": "GUI",
+      "explanation": "Interfaz que le permite administrar visualmente programas de computadora a través de íconos, botones y ventanas."
+    },
+    {
+      "term": "penetration testing",
+      "explanation": "Intentos controlados de ciberataque realizados deliberadamente por expertos para probar la seguridad de un sistema."
+    },
+    {
+      "term": "Chrome DevTools",
+      "explanation": "Herramientas de desarrollo disponibles dentro del navegador para examinar y depurar cómo funcionan los sitios web."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Herramientas de inteligencia artificial que escriben automáticamente código de software o corrigen errores según comandos dados por el usuario."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Método estándar para conectar de forma segura modelos de IA a diferentes fuentes de datos y aplicaciones."
+    },
+    {
+      "term": "transcription",
+      "explanation": "El proceso de transcribir grabaciones de voz o conversaciones a texto."
+    },
+    {
+      "term": "speaker diarization",
+      "explanation": "El proceso de determinar quién habló y cuándo distinguiendo de qué persona proviene la voz en la grabación de audio."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Instrucciones iniciales que le dicen a la IA cómo debe comportarse y qué reglas debe seguir."
+    },
+    {
+      "term": "machine learning systems",
+      "explanation": "Sistemas informáticos que aprenden por sí solos analizando datos y pueden tomar decisiones más precisas con el tiempo."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Un método para ejecutar software en su propia computadora o servidor privado en lugar de en el servidor de otra empresa."
+    },
+    {
+      "term": "terminal",
+      "explanation": "Una interfaz de línea de comandos con una pantalla negra que le permite realizar operaciones escribiendo comandos de texto directamente en la computadora."
+    },
+    {
+      "term": "agent multiplexer",
+      "explanation": "Un sistema que gestiona múltiples asistentes de inteligencia artificial desde un único centro y comparte las tareas entre ellos."
+    },
+    {
+      "term": "skills",
+      "explanation": "Habilidades especiales que tiene un software o inteligencia artificial para realizar un determinado trabajo."
+    },
+    {
+      "term": "specification",
+      "explanation": "Una lista detallada de requisitos técnicos que especifican cómo debe ser un proyecto o producto."
+    }
+  ]
+}

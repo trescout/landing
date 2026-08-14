@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-06",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "summary": "Esta selección, preparada para Claude Code, el asistente de codificación desarrollado por Anthropic, reúne herramientas, complementos y paquetes de habilidades que aceleran los procesos de desarrollo de software. Los recursos que facilitan a los desarrolladores la integración de esta herramienta de inteligencia artificial en sus proyectos se centran en aumentar la capacidad de automatización.",
+          "meta": "Python · ★ 48.592 · +148 hoy"
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "La biblioteca de habilidades de marketing desarrollada para Claude Code y agentes de inteligencia artificial ofrece capacidades especializadas en áreas como optimización de la tasa de conversión (CRO), redacción publicitaria, optimización de motores de búsqueda (SEO), análisis e ingeniería de crecimiento. Este conjunto de herramientas permite que los modelos de IA lleven a cabo tareas orientadas al marketing de una manera más profesional y basada en datos.",
+          "meta": "JavaScript · ★ 36.679 · +145 hoy"
+        },
+        {
+          "title": "gastownhall/gastown",
+          "url": "https://github.com/gastownhall/gastown",
+          "summary": "Gas Town ofrece una infraestructura que permite que diferentes agentes de inteligencia artificial trabajen juntos como un administrador de espacio de trabajo de múltiples agentes. Desarrollada con el lenguaje Go, esta herramienta centraliza la coordinación entre agentes y la gestión de recursos en flujos de trabajo complejos.",
+          "meta": "Go · ★ 16.488 · +51 hoy"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar es una herramienta que permite ver los datos de uso de OpenAI Codex y Claude Code sin necesidad de iniciar sesión. Desarrollada con lenguaje Swift, esta aplicación facilita a los desarrolladores el seguimiento de las estadísticas de consumo en herramientas de codificación compatibles con IA.",
+          "meta": "Swift · ★ 16.432 · +153 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Organic Maps",
+          "url": "https://organicmaps.app/",
+          "summary": "Organic Maps es una aplicación de mapas de código abierto que se basa en datos de mapas fuera de línea y prioriza la privacidad del usuario. La aplicación utiliza datos de OpenStreetMap y proporciona funciones de navegación y búsqueda local sin necesidad de conexión a Internet.",
+          "meta": "940 puntos · 282 comentarios"
+        },
+        {
+          "title": "OpenPrinter",
+          "url": "https://www.opentools.studio/",
+          "summary": "OpenPrinter es un protocolo de impresión de código abierto que proporciona una experiencia de impresión independiente del controlador para diferentes modelos de impresora. Proporciona una interfaz universal que se comunica directamente con las impresoras en la red, sin la necesidad de instalaciones de controladores tradicionales.",
+          "meta": "795 puntos · 192 comentarios"
+        },
+        {
+          "title": "It's not about physical vs. digital games, it's about ownership",
+          "url": "https://popcar.bearblog.dev/its-about-ownership/",
+          "summary": "Los debates en el mundo de los juegos digitales se centran en el concepto de propiedad de los usuarios más que en la distinción entre formatos físicos y digitales. La autoridad de las plataformas para restringir el acceso a los juegos abre un nuevo debate jurídico sobre la permanencia de los contenidos digitales y los derechos de los consumidores.",
+          "meta": "449 puntos · 339 comentarios"
+        },
+        {
+          "title": "The future of Flipper Zero development",
+          "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+          "summary": "Los desarrolladores de Flipper Zero tienen como objetivo facilitar las contribuciones de la comunidad transformando el ecosistema de software del dispositivo en una arquitectura modular. Este nuevo enfoque prevé una transición a un modelo de distribución basado en aplicaciones para hacer que el desarrollo de firmware sea más sostenible.",
+          "meta": "307 puntos · 125 comentarios"
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra will be in Codex",
+          "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+          "summary": "Se anunció que el modelo GPT-5.6 Sol Ultra se integrará en Codex, una herramienta de codificación. Este desarrollo permite la actualización de capacidades de finalización de código respaldadas por inteligencia artificial utilizadas en los procesos de desarrollo de software.",
+          "meta": "249 puntos · 177 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, desarrollado por InternScience, es un modelo de inteligencia artificial optimizado para tareas de generación de texto. Este modelo está diseñado para soportar la ejecución lógica compleja y flujos de trabajo basados ​​en agentes.",
+          "meta": "♥ 311 · 7.010 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Las capacidades que tiene un software o inteligencia artificial para realizar una tarea específica."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Estudios realizados para aumentar el índice de personas que visitan un sitio web convirtiéndose en clientes."
+    }
+  ]
+}

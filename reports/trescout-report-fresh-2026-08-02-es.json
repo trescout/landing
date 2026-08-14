@@ -1,0 +1,260 @@
+{
+  "date": "2026-08-02",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "summary": "Este contenido de formación preparado por Microsoft ofrece un plan de estudios de 21 lecciones para aquellos que quieran adentrarse en las tecnologías de inteligencia artificial generativa (IA generativa). Este recurso, en formato Jupyter Notebook, enseña conceptos básicos y métodos de implementación para que los desarrolladores creen sus propios proyectos.",
+          "meta": "Jupyter Notebook · ★ 114.349 · +108 hoy"
+        },
+        {
+          "title": "github/gh-stack",
+          "url": "https://github.com/github/gh-stack",
+          "summary": "Desarrollado por GitHub, gh-stack es una herramienta de línea de comandos que facilita la creación y gestión de solicitudes de extracción apiladas durante el proceso de desarrollo de software. Su objetivo es acelerar el proceso de revisión dividiendo los cambios de código complejos en partes pequeñas e independientes.",
+          "meta": "Go · ★ 860 · +46 hoy"
+        },
+        {
+          "title": "abus-aikorea/voice-pro",
+          "url": "https://github.com/abus-aikorea/voice-pro",
+          "summary": "Voice-pro es una interfaz de código abierto que combina texto a voz (TTS) y herramientas de clonación de voz de disparo cero. Los usuarios pueden realizar operaciones como análisis de audio, traducción multilingüe y procesamiento de contenido de YouTube en una única plataforma a través de su interfaz basada en web.",
+          "meta": "Python · ★ 11.859 · +58 hoy"
+        },
+        {
+          "title": "iv-org/invidious",
+          "url": "https://github.com/iv-org/invidious",
+          "summary": "Invidious es una interfaz de código abierto desarrollada como alternativa a la plataforma YouTube. Ofrece a los usuarios una experiencia de visualización de vídeos que no contiene anuncios ni rastrea datos.",
+          "meta": "Crystal · ★ 21.676 · +435 hoy"
+        },
+        {
+          "title": "microsoft/TRELLIS.2",
+          "url": "https://github.com/microsoft/TRELLIS.2",
+          "summary": "Desarrollado por Microsoft, TRELLIS es una arquitectura de representación latente estructurada que transforma texto o entradas visuales en modelos tridimensionales (3D). Esta tecnología utiliza métodos de IA generativa para crear activos 3D de alta calidad de forma rápida y compacta.",
+          "meta": "Python · ★ 9.992 · +107 hoy"
+        },
+        {
+          "title": "NomaDamas/k-skill",
+          "url": "https://github.com/NomaDamas/k-skill",
+          "summary": "NomaDamas/k-skill es una biblioteca diseñada para proporcionar a los agentes de IA habilidades locales en un contexto cultural. Ofrece conjuntos de habilidades personalizadas que permiten a los agentes interactuar con los usuarios de forma más natural y de acuerdo con códigos culturales.",
+          "meta": "JavaScript · ★ 6.780 · +53 hoy"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "Desarrollado por ByteDance, Deer-flow es una infraestructura de superagente que realiza tareas complejas a largo plazo mediante investigación, codificación y producción de contenido. Gestiona de forma autónoma procesos que duran minutos u horas utilizando componentes como sandbox, memoria y subagentes.",
+          "meta": "Python · ★ 78.814 · +209 hoy",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "How Google helped destroy adoption of RSS feeds (2023)",
+          "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+          "summary": "En 2013, Google cerró su popular herramienta de seguimiento de contenidos Google Reader, reduciendo el uso generalizado de canales RSS (Really Simple Syndication) en Internet. Este movimiento marcó el comienzo de una era de consumo de contenidos en la que las plataformas centralizadas pasaron a primer plano y los estándares web abiertos fueron reemplazados por algoritmos cerrados.",
+          "meta": "487 puntos · 163 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49136821",
+              "popularity": 487,
+              "engagementCount": 163
+            }
+          ]
+        },
+        {
+          "title": "Diátaxis",
+          "url": "https://diataxis.fr/",
+          "summary": "Diátaxis es un marco sistemático que divide la documentación de software en cuatro categorías básicas: aprendizaje, práctica, referencia y descripción. Este método tiene como objetivo aumentar la comprensibilidad de la documentación técnica proporcionando contenido estructurado según las necesidades de los usuarios.",
+          "meta": "277 puntos · 38 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49138188",
+              "popularity": 277,
+              "engagementCount": 38
+            }
+          ]
+        },
+        {
+          "title": "Seedance 2.5",
+          "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+          "summary": "Seedance 2.5, la herramienta de producción de video desarrollada por ByteDance, permite a los usuarios editar videos de una sola toma y crear contenido consistente utilizando imágenes de referencia. Esta versión ofrece control visual flexible y resultados de alta precisión en procesos de edición de video con IA.",
+          "meta": "271 puntos · 136 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49138302",
+              "popularity": 271,
+              "engagementCount": 136
+            }
+          ]
+        },
+        {
+          "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "summary": "Los modelos de inteligencia artificial logran altas tasas de precisión en el asesoramiento financiero personal cuando se les formulan las preguntas orientadoras adecuadas. Las herramientas de educación financiera tienen el potencial de desarrollar estrategias personalizadas para individuos mediante el análisis de datos económicos complejos.",
+          "meta": "259 puntos · 218 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49139102",
+              "popularity": 259,
+              "engagementCount": 218
+            }
+          ]
+        },
+        {
+          "title": "NetBSD 11.0",
+          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "summary": "NetBSD 11.0 es la última versión de NetBSD, un sistema operativo de código abierto centrado en la alta portabilidad. La nueva versión incluye varias mejoras que aumentan la seguridad y el rendimiento del sistema al tiempo que amplían la compatibilidad con el hardware.",
+          "meta": "255 puntos · 115 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49136736",
+              "popularity": 255,
+              "engagementCount": 115
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/pvrnor/netbsd_11_0_released",
+              "popularity": 65,
+              "engagementCount": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "summary": "Unsloth, una biblioteca que optimiza modelos de lenguaje grandes, ha lanzado una versión comprimida del modelo DeepSeek-V4 en formato GGUF para ejecutarlo más rápido y con menor uso de memoria. Este trabajo permite que los modelos de alto rendimiento se ejecuten de manera más eficiente en hardware de consumo.",
+          "meta": "♥ 297 · 4.048 descargas"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models",
+          "url": "https://huggingface.co/papers/2607.23193",
+          "summary": "OmniScope tiene como objetivo resolver el problema de la pérdida de datos en los métodos de compresión de tokens utilizados en modelos de lenguajes grandes omnimodales. Al afirmar que diferentes modos ganan importancia en diferentes momentos para la misma consulta, este marco garantiza la protección de la información crítica con su estructura que no requiere capacitación.",
+          "meta": "3 me gusta · 2 comentarios"
+        },
+        {
+          "title": "β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
+          "url": "https://huggingface.co/papers/2607.28582",
+          "summary": "β-OPSD redefine el método de autodestilación, que mejora la capacidad de razonamiento en modelos de lenguaje, a través del valor beta, un parámetro optimizable. Este enfoque tiene como objetivo reducir la inestabilidad en el proceso de formación controlando la dependencia del modelo de estudiante del modelo de referencia.",
+          "meta": "18 me gusta · 2 comentarios"
+        },
+        {
+          "title": "Beyond Geometric Complementarity: Coherent Overlap in Sparse Mixture-of-Experts Routing",
+          "url": "https://huggingface.co/papers/2607.28308",
+          "summary": "En modelos de lenguaje de mezcla dispersa de expertos, el mecanismo de dirigir tokens a diferentes expertos se examina utilizando el índice de separación subespacial de expertos (ESSI). La investigación define más claramente las estrategias de enrutamiento al distinguir entre la coherencia en la selección de expertos y su contribución al rendimiento del modelo.",
+          "meta": "2 me gusta · 2 comentarios"
+        },
+        {
+          "title": "Fairness Pruning: Locating Demographic Bias in GLU-MLP Layers via Differential Activations",
+          "url": "https://huggingface.co/papers/2607.28319",
+          "summary": "Fairness Pruning es un método de intervención estructurado desarrollado para detectar y eliminar sesgos demográficos en modelos de lenguaje grandes (LLM). El método identifica neuronas que responden de manera diferente a ciertos atributos demográficos en modelos con arquitectura GLU analizando sus diferencias de activación durante la inferencia.",
+          "meta": "2 me gusta · 3 comentarios"
+        },
+        {
+          "title": "Σ-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems",
+          "url": "https://huggingface.co/papers/2607.27958",
+          "summary": "Σ-Mem es un mecanismo de memoria que rastrea la confiabilidad de los agentes entre sí en sistemas multiagente basados ​​en grandes modelos de lenguaje. El sistema registra el desempeño anterior de los agentes y la evidencia de competencia, lo que permite una colaboración más confiable en flujos de trabajo complejos.",
+          "meta": "12 me gusta · 2 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "An old-new take on argument parsing in Rust",
+          "url": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
+          "summary": "El proceso de análisis de argumentos de línea de comando en el lenguaje de programación Rust se está reevaluando a medida que los desarrolladores recurren a métodos más simples y directos. Este enfoque tiene como objetivo reducir las dependencias en el código base mediante el uso de herramientas estándar o livianas en lugar de bibliotecas complejas.",
+          "meta": "19 puntos · 5 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/vrd28h/old_new_take_on_argument_parsing_rust",
+              "popularity": 19,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Resigning from Arch Linux",
+          "url": "https://linderud.dev/blog/resigning-from-arch-linux/",
+          "summary": "El desarrollador de Arch Linux, Lukas Märdian, anunció que dejará su puesto en el equipo de gestión de la distribución. Esta decisión se justifica por cambios estructurales en los procesos de desarrollo de la distribución y cambios en las prioridades personales.",
+          "meta": "24 puntos · 1 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ectcmr/resigning_from_arch_linux",
+              "popularity": 24,
+              "engagementCount": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "generative AI",
+      "explanation": "Tecnología de inteligencia artificial que puede producir contenido nuevo como texto, imágenes o audio utilizando datos existentes."
+    },
+    {
+      "term": "stacked pull requests",
+      "explanation": "Un método para introducir secuencialmente un cambio de software importante en el sistema en piezas pequeñas, manejables e interconectadas."
+    },
+    {
+      "term": "TTS",
+      "explanation": "La tecnología de expresar textos escritos con una voz humana natural mediante una computadora."
+    },
+    {
+      "term": "zero-shot voice cloning",
+      "explanation": "La tecnología de copiar la voz de una persona a partir de unos pocos segundos de muestra y hacer que esa persona diga frases que nunca ha dicho."
+    },
+    {
+      "term": "structured latent",
+      "explanation": "Convertir datos complejos en una forma matemática ordenada y significativa que la inteligencia artificial pueda entender más fácilmente."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Software autónomo que puede tomar decisiones por sí solo y utilizar herramientas para realizar tareas específicas."
+    },
+    {
+      "term": "skill sets",
+      "explanation": "El conjunto de habilidades que tiene una persona o inteligencia artificial para realizar un trabajo específico."
+    },
+    {
+      "term": "SuperAgent",
+      "explanation": "Software de inteligencia artificial avanzado que puede gestionar múltiples tareas complejas simultáneamente y trabajar integrado con diferentes sistemas."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Un entorno de trabajo aislado donde el software se puede probar de forma segura sin dañar el sistema principal."
+    },
+    {
+      "term": "Really Simple Syndication",
+      "explanation": "Sistema de distribución de contenidos que permite seguir desde un único lugar las actualizaciones o novedades de los sitios web."
+    },
+    {
+      "term": "AI video editing",
+      "explanation": "El proceso de realizar automáticamente operaciones como cortar, agregar efectos o mejorar imágenes en videos con la ayuda de inteligencia artificial."
+    }
+  ]
+}

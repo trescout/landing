@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-04",
+  "editorial": "En el mundo del software actual, los protocolos de integración entre herramientas de desarrollo y asistentes de codificación respaldados por inteligencia artificial pasan a primer plano. En particular, la compatibilidad con Model Context Protocol en Chrome DevTools tiene el potencial de establecer un nuevo estándar en los procesos de depuración basados ​​en navegador.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix es una herramienta de prueba de penetración compatible con inteligencia artificial de código abierto desarrollada para detectar y corregir vulnerabilidades de seguridad en aplicaciones. Este software, escrito en lenguaje Python, tiene como objetivo analizar las vulnerabilidades del sistema mediante procesos automatizados.",
+          "meta": "Python · ★ 35.012 · +2.803 hoy"
+        },
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "Desarrollado por OpenAI, el complemento Codex permite automatizar los procesos de revisión de código y la delegación de tareas en Claude Code. Esta integración aumenta la interoperabilidad de diferentes modelos de inteligencia artificial en los flujos de trabajo de desarrollo de software.",
+          "meta": "JavaScript · ★ 23.396 · +634 hoy"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman es un paquete de capacidades utilizado en Claude Code que simplifica la estructura del lenguaje y reduce el consumo de tokens en un 65 por ciento. Los desarrolladores pretenden reducir los costos de la IA mediante el uso de un lenguaje conciso y directo al estilo cavernícola en lugar de expresiones complejas.",
+          "meta": "JavaScript · ★ 83.163 · +2.863 hoy"
+        },
+        {
+          "title": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "summary": "Desarrollado con Java, Elasticsearch es un motor de búsqueda distribuido y de código abierto que permite búsquedas y análisis rápidos en grandes conjuntos de datos. Gracias a su arquitectura RESTful, admite la indexación y consulta de datos en tiempo real.",
+          "meta": "Java · ★ 77.374 · +91 hoy"
+        },
+        {
+          "title": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "summary": "La acción de pago, que se ejecuta en GitHub Actions, permite que el código fuente de los repositorios de GitHub se transfiera a flujos de trabajo. Esta herramienta ofrece un método estándar para verificar automáticamente el código y prepararlo para el entorno de compilación durante los procesos de desarrollo de software.",
+          "meta": "TypeScript · ★ 8.282 · +129 hoy"
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "Desarrollado para Chrome DevTools, este servidor ofrece una integración de protocolo de contexto modelo que brinda a los agentes de codificación acceso directo a las herramientas del navegador. Proporciona una interfaz estándar para automatizar tareas de depuración y revisión web en procesos de desarrollo de software.",
+          "meta": "TypeScript · ★ 45.555 · +405 hoy"
+        },
+        {
+          "title": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "summary": "Ansible es una plataforma de automatización de tecnologías de la información que automatiza los procesos de implementación de aplicaciones y gestión de sistemas. Realiza operaciones de configuración en un lenguaje sencillo mediante protocolo SSH, sin necesidad de instalar ningún middleware en sistemas remotos.",
+          "meta": "Python · ★ 69.245 · +65 hoy"
+        },
+        {
+          "title": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "summary": "Desarrollado por Meta, Astryx ofrece un sistema de diseño totalmente personalizable y compatible con agentes de inteligencia artificial. Esta estructura de código abierto basada en TypeScript facilita que los componentes de la interfaz sean administrados por sistemas autónomos.",
+          "meta": "TypeScript · ★ 4.873 · +885 hoy"
+        },
+        {
+          "title": "rommapp/romm",
+          "url": "https://github.com/rommapp/romm",
+          "summary": "Romm es un administrador de biblioteca de juegos diseñado para organizar archivos de juegos (ROM) y jugar directamente a través del navegador, que puedes alojar en tu propio servidor. Desarrollada con lenguaje Python, esta herramienta ofrece la oportunidad de administrar y jugar colecciones de juegos con una interfaz visual.",
+          "meta": "Python · ★ 9.887 · +239 hoy"
+        },
+        {
+          "title": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "summary": "Este recurso, publicado por la Universidad de Harvard, analiza la arquitectura de sistemas de aprendizaje automático y los procesos de optimización en hardware. Combinando capas de software y hardware, este estudio ofrece una guía técnica para quienes quieran desarrollar infraestructuras de inteligencia artificial escalables.",
+          "meta": "Python · ★ 26.287 · +793 hoy"
+        },
+        {
+          "title": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "summary": "PyTorch es una biblioteca que proporciona una potente aceleración de unidades de procesamiento de gráficos (GPU) para cálculos de tensores basados ​​en Python y redes neuronales dinámicas. Es un marco de código abierto ampliamente preferido en el desarrollo e implementación de modelos de aprendizaje profundo.",
+          "meta": "Python · ★ 101.465 · +293 hoy"
+        },
+        {
+          "title": "apache/maven",
+          "url": "https://github.com/apache/maven",
+          "summary": "Apache Maven es una herramienta de comprensión y gestión de proyectos (herramienta de automatización de compilación) que gestiona los procesos de creación de software en proyectos basados ​​en Java. Utiliza la estructura del modelo de objetos del proyecto para estandarizar el ciclo de vida del desarrollo de software.",
+          "meta": "Java · ★ 5.250 · +58 hoy"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code es una herramienta de codificación basada en agentes que se ejecuta en la terminal y automatiza tareas rutinarias analizando la base del código con comandos de lenguaje natural. Su objetivo es aumentar la productividad de los desarrolladores mediante la gestión de procesos de anotación de código y control de versiones (flujo de trabajo git) en los procesos de desarrollo de software.",
+          "meta": "Python · ★ 135.933 · +221 hoy"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Herdr es un multiplexor de agentes que se ejecuta en el terminal y permite gestionar múltiples agentes de inteligencia artificial simultáneamente. Desarrollada en Rust, esta herramienta permite a los usuarios cambiar entre diferentes agentes y coordinar flujos de trabajo directamente desde la línea de comandos.",
+          "meta": "Rust · ★ 10.939 · +478 hoy"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers ofrece un marco de habilidades de agentes que se integra con metodologías de desarrollo de software. Esta herramienta proporciona un método de desarrollo para estandarizar los flujos de trabajo basados ​​en agentes en todos los procesos de software.",
+          "meta": "Shell · ★ 245.707 · +1.209 hoy"
+        },
+        {
+          "title": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "summary": "El proyecto Agent Skills proporciona una especificación técnica y documentación para crear paquetes de habilidades reutilizables para agentes de inteligencia artificial. Este estándar tiene como objetivo facilitar el intercambio y la integración de capacidades funcionales entre diferentes sistemas de agentes.",
+          "meta": "Python · ★ 22.075 · +406 hoy"
+        },
+        {
+          "title": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "summary": "Supabase es una plataforma de desarrollo que ofrece infraestructura de bases de datos Postgres para desarrollar aplicaciones web, móviles y de inteligencia artificial. Con su estructura de código abierto, proporciona gestión de bases de datos y servicios de backend necesarios para acelerar los procesos de desarrollo de aplicaciones.",
+          "meta": "TypeScript · ★ 105.582 · +169 hoy"
+        },
+        {
+          "title": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "summary": "Desarrollado por TencentCloud, CubeSandbox ofrece un espacio de trabajo (sandbox) rápido, sincrónico y seguro escrito en Rust para agentes de inteligencia artificial (agentes de IA). El proyecto tiene como objetivo aumentar la seguridad de los sistemas basados ​​en agentes mediante la creación de entornos aislados con bajo consumo de recursos.",
+          "meta": "Rust · ★ 7.217 · +60 hoy"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "El proyecto agencia-agentes automatiza los procesos de desarrollo de software y producción de contenidos reuniendo agentes de inteligencia artificial con diferentes áreas de especialización bajo un mismo techo. Cada agente ofrece una estructura especializada diseñada para realizar tareas específicas con su propia personalidad y definiciones de flujo de trabajo.",
+          "meta": "Shell · ★ 126.662 · +1.208 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Costco is the anti-Amazon",
+          "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+          "summary": "Costco se posiciona en contra de la estrategia de vender todo de Amazon con su variedad limitada de productos y su modelo de ingresos basado en suscripciones. El gigante minorista se diferencia de los modelos tradicionales de comercio electrónico por sus bajos márgenes de beneficio y su enfoque centrado en la eficiencia operativa.",
+          "meta": "380 puntos · 359 comentarios"
+        },
+        {
+          "title": "Espionage Against the European Parliament",
+          "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+          "summary": "Se determinó que un miembro del comité que examinaba las actividades de software espía dentro del Parlamento Europeo fue atacado con un software espía llamado Pegasus. Una investigación realizada por Citizen Lab revela que continúan los riesgos del ciberespionaje para la seguridad digital de los parlamentarios.",
+          "meta": "326 puntos · 78 comentarios"
+        },
+        {
+          "title": "Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "summary": "La guía de Jamesob detalla los requisitos de software y hardware necesarios para ejecutar modelos de lenguajes grandes (SOTA LLM) de última generación en hardware nativo. Reúne métodos técnicos que permiten a los usuarios instalar y optimizar modelos de alto rendimiento en sus propios sistemas.",
+          "meta": "320 puntos · 145 comentarios"
+        },
+        {
+          "title": "Factories are just rooms",
+          "url": "https://interconnected.org/home/2026/07/03/factories",
+          "summary": "Se argumenta que las instalaciones de producción se han convertido en centros de datos basados ​​en software en lugar de infraestructura física. Con la digitalización de los procesos de producción físicos, las fábricas se están redefiniendo como áreas programables con alto poder de procesamiento.",
+          "meta": "225 puntos · 90 comentarios"
+        },
+        {
+          "title": "Performance per dollar is getting faster and cheaper",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "summary": "La eficiencia del rendimiento por dólar en hardware de inteligencia artificial está aumentando rápidamente con los avances en las arquitecturas de procesador. Esta tendencia reduce los costos de energía informática, lo que hace que los procesos de entrenamiento e inferencia de grandes modelos de lenguaje sean más accesibles.",
+          "meta": "200 puntos · 61 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B es un modelo de inteligencia artificial multimodal que produce resultados de texto procesando entradas visuales y basadas en texto. El modelo ofrece la capacidad de analizar conjuntos de datos complejos con soporte de ventana de contexto amplia.",
+          "meta": "♥ 1.392 · 1.366.360 descargas"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, desarrollado por Zai-org, es un modelo de lenguaje optimizado para tareas de generación de texto. El modelo altamente interactivo de la plataforma Hugging Face amplía las capacidades de generación de texto en el ecosistema de inteligencia artificial de código abierto.",
+          "meta": "♥ 3.351 · 191.462 descargas"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desarrollado por Baidu, Unlimited-OCR es un modelo optimizado para tareas de conversión de imagen a texto. Ofrece la capacidad de producir resultados basados ​​en texto procesando datos en estructuras de documentos complejas.",
+          "meta": "♥ 1.696 · 885.040 descargas"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "Ornith-1.0-35B, desarrollado por DeepReinforce-AI, es un modelo de lenguaje centrado en la generación de texto. El modelo se presenta en formato GGUF para utilizar los recursos de hardware de manera eficiente.",
+          "meta": "♥ 691 · 322.780 descargas"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "summary": "DeepSeek-V4-Pro-DSpark es un modelo de inteligencia artificial optimizado para tareas de generación de texto. Este modelo, disponible en la plataforma HuggingFace, está diseñado para ser utilizado en procesos de procesamiento del lenguaje a gran escala.",
+          "meta": "♥ 350 · 9.388 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "penetration testing",
+      "explanation": "Intentos de ciberataque controlados realizados por expertos para probar la seguridad de un sistema."
+    },
+    {
+      "term": "interoperability",
+      "explanation": "La capacidad de diferentes software o hardware para intercambiar datos entre sí sin problemas."
+    },
+    {
+      "term": "token",
+      "explanation": "La unidad de datos más pequeña correspondiente a fragmentos de palabras o sílabas que utiliza la inteligencia artificial al procesar textos."
+    },
+    {
+      "term": "distributed",
+      "explanation": "Realizar una transacción compartiéndola entre múltiples dispositivos conectados a la red en lugar de una sola computadora."
+    },
+    {
+      "term": "action",
+      "explanation": "Una acción concreta realizada por un software o inteligencia artificial ante un comando específico."
+    },
+    {
+      "term": "checkout",
+      "explanation": "La etapa final donde se completa el proceso de pago para compras en línea."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Herramientas autónomas de inteligencia artificial que pueden escribir código, corregir errores y desarrollar aplicaciones en lugar de desarrolladores de software."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "La regla de conexión que permite a los modelos de IA comunicarse con diferentes fuentes de datos de forma segura y estandarizada."
+    },
+    {
+      "term": "agent",
+      "explanation": "Una unidad de software inteligente que puede tomar decisiones por sí sola y utilizar herramientas para realizar la tarea específica."
+    },
+    {
+      "term": "agent ready",
+      "explanation": "Mensaje de estado que indica que una unidad de IA está lista para realizar la tarea asignada."
+    },
+    {
+      "term": "design system",
+      "explanation": "Un conjunto de reglas y componentes de diseño preestablecidos que se utilizan para garantizar la coherencia visual de una aplicación."
+    },
+    {
+      "term": "ROM",
+      "explanation": "Un tipo de memoria permanente de solo lectura que no elimina la información contenida incluso cuando la computadora está apagada."
+    },
+    {
+      "term": "machine learning systems",
+      "explanation": "Estructuras informáticas que aprenden por sí solas analizando datos y pueden hacer predicciones más precisas con el tiempo."
+    },
+    {
+      "term": "dynamic neural networks",
+      "explanation": "Modelos avanzados de inteligencia artificial que pueden cambiar instantáneamente su estructura y conexiones según los datos que procesan."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Procesador especial diseñado específicamente para acelerar operaciones intensivas como el procesamiento de gráficos y cálculos de inteligencia artificial."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un marco de aplicación básico que ofrece bibliotecas y reglas listas para usar que facilitan las cosas al desarrollar software."
+    }
+  ]
+}

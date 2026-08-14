@@ -1,0 +1,255 @@
+{
+  "date": "2026-07-26",
+  "editorial": "La agenda de hoy se basa en herramientas de revisión de código que aceleren los procesos de desarrollo de software y bibliotecas de integración que agreguen capacidades a los modelos de inteligencia artificial. Los nuevos proyectos de código abierto compartidos en GitHub se centran en la documentación técnica que estandariza las formas en que los modelos de lenguaje, especialmente Claude, se pueden incorporar a los flujos de trabajo.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Desarrollada por Block, Buzz es una plataforma de comunicación mental colmena escrita en Rust. Su objetivo es establecer una arquitectura de comunicación descentralizada (comunicación mental colmena) en sistemas distribuidos.",
+          "meta": "Rust · ★ 12.248 · +2.491 hoy"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "La herramienta de revisión de código fuente abierto desarrollada por Alibaba combina flujos de trabajo deterministas y agentes de modelo de lenguaje grande (LLM) en una arquitectura híbrida. El sistema, que está previamente entrenado con reglas de seguridad de software, tiene como objetivo mejorar la calidad del código mediante la realización de comentarios basados ​​en líneas.",
+          "meta": "Go · ★ 13.158 · +431 hoy"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite es una herramienta de navegador liviana que comparte el estado de inicio de sesión del navegador para que los agentes de IA ejecuten procesos de automatización web. Esta estructura, que no requiere instalación, tiene como objetivo acelerar las interacciones de los agentes en la web sin molestar al usuario.",
+          "meta": "JavaScript · ★ 3.775 · +986 hoy"
+        },
+        {
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "Compilado por ComposioHQ, awesome-claude-skills reúne paquetes de habilidades, herramientas y recursos utilizados para personalizar los flujos de trabajo de Claude AI. Esta lista proporciona un punto de referencia central para que los desarrolladores configuren sus procesos de automatización basados ​​en Claude.",
+          "meta": "Python · ★ 70.713 · +577 hoy"
+        },
+        {
+          "title": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "summary": "Los libros de cocina de Claude compartidos por Anthropic proporcionan ejemplos de código prácticos y cuadernos Jupyter para usar los modelos de Claude. Este recurso tiene como objetivo acelerar la integración de modelos y acelerar los procesos de ingeniería de los desarrolladores en aplicaciones de inteligencia artificial.",
+          "meta": "Jupyter Notebook · ★ 49.967 · +132 hoy"
+        },
+        {
+          "title": "Automattic/harper",
+          "url": "https://github.com/Automattic/harper",
+          "summary": "Desarrollado por Automattic, Harper ofrece un corrector gramatical sin conexión y orientado a la privacidad escrito en Rust. Esta herramienta de código abierto proporciona procesamiento de datos local en procesos de edición de texto con su estructura de alto rendimiento.",
+          "meta": "Rust · ★ 13.498 · +503 hoy"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos se desarrolló como un modelo básico diseñado para analizar el lenguaje único de los mercados financieros. Este modelo, que pretende dar sentido a la compleja estructura de los datos financieros, se utiliza para automatizar los procesos de análisis de mercado.",
+          "meta": "Python · ★ 33.870 · +319 hoy"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers ofrece un marco de capacidades y una metodología que combina procesos de desarrollo de software con flujos de trabajo agentes. Esta estructura basada en Shell tiene como objetivo estandarizar la integración de sistemas autónomos en los ciclos de desarrollo de software.",
+          "meta": "Shell · ★ 261.220 · +479 hoy"
+        },
+        {
+          "title": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "summary": "Desarrollado con el lenguaje de programación Rust, Pumpkin ofrece una infraestructura que tiene como objetivo crear servidores Minecraft eficientes y de alto rendimiento. El proyecto acelera los procesos de alojamiento de servidores, permitiendo a los usuarios gestionar sus propios entornos de juego con un menor consumo de recursos.",
+          "meta": "Rust · ★ 9.775 · +358 hoy"
+        },
+        {
+          "title": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "summary": "Bitchat ofrece un entorno de chat local que no requiere conexión a Internet, utilizando tecnología de malla Bluetooth. Desarrollada en lenguaje Swift, la aplicación promete una experiencia similar a IRC que permite a los usuarios comunicarse directamente a corta distancia.",
+          "meta": "Swift · ★ 28.892 · +1.720 hoy"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Este repositorio, compartido por Matt Pocock, contiene paquetes de habilidades personalizados desarrollados por ingenieros de software para agentes de inteligencia artificial. Estos scripts, que automatizan las herramientas de la línea de comandos, se utilizan para estandarizar los flujos de trabajo de los desarrolladores.",
+          "meta": "Shell · ★ 188.590 · +1.740 hoy"
+        },
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro es un software de edición de video que integra herramientas de edición impulsadas por IA en el entorno macOS. Esta plataforma, desarrollada con lenguaje Swift, está diseñada para automatizar procesos de edición de vídeo.",
+          "meta": "Swift · ★ 12.304 · +412 hoy"
+        },
+        {
+          "title": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "summary": "Instatic es un sistema de gestión de contenido visual (CMS) basado en agentes que se ofrece como una alternativa de código abierto a plataformas como Webflow y WordPress. Esta herramienta, que puede alojar en su propio servidor, permite la creación de páginas estáticas limpias con administración de usuarios y soporte para complementos.",
+          "meta": "TypeScript · ★ 5.206 · +426 hoy"
+        },
+        {
+          "title": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "summary": "El proyecto Dive into LLMs es una serie de capacitación que enseña los principios de funcionamiento de grandes modelos de lenguaje a través de cuadernos Jupyter aplicados. Presenta las arquitecturas básicas y procesos operativos de los modelos en un marco técnico a través de prácticas de programación.",
+          "meta": "Jupyter Notebook · ★ 45.438 · +408 hoy"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "TurboVec, construido sobre TurboQuant, es una herramienta de indexación de vectores desarrollada en Rust y que ofrece enlaces de Python. Diseñada para operaciones de búsqueda de alto rendimiento, esta estructura tiene como objetivo acelerar las operaciones de bases de datos vectoriales.",
+          "meta": "Python · ★ 14.329 · +86 hoy"
+        },
+        {
+          "title": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "summary": "Chat2DB es una herramienta de gestión de bases de datos compatible con inteligencia artificial y un cliente SQL que admite diferentes sistemas de bases de datos. Esta plataforma, desarrollada con lenguaje Java, facilita los procesos de consulta de datos a través de una interfaz visual (GUI) con sus capacidades de procesamiento de lenguaje natural.",
+          "meta": "Java · ★ 26.778 · +360 hoy"
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Desarrollado por Andrew Ng, aisuite ofrece acceso a diferentes proveedores de IA generativa a través de una única interfaz. Esta biblioteca basada en Python proporciona una interfaz unificada que facilita a los desarrolladores cambiar entre diferentes proveedores de modelos.",
+          "meta": "Python · ★ 15.272 · +77 hoy"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC ofrece un sistema que optimiza las habilidades, los instintos y las capas de memoria para herramientas de codificación de inteligencia artificial como Claude Code y Cursor. Proporciona una infraestructura que tiene como objetivo aumentar el rendimiento de los agentes y los estándares de seguridad en los procesos de desarrollo de software.",
+          "meta": "JavaScript · ★ 233.406 · +377 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Android May Soon Restrict On-Device ADB",
+          "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+          "summary": "Google se está preparando para restringir el uso del puente de depuración en el dispositivo (ADB en el dispositivo) en el sistema operativo Android. Este cambio limita los permisos de acceso a los procesos de depuración locales para fortalecer los protocolos de seguridad.",
+          "meta": "902 puntos · 445 comentarios"
+        },
+        {
+          "title": "Open-weight AI is having its Kubernetes moment",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+          "summary": "Los modelos de IA de peso abierto están atravesando un punto de inflexión como Kubernetes, que estandariza la orquestación de contenedores en el mundo del software. Este proceso permite que el fragmentado ecosistema de inteligencia artificial se una en torno a infraestructuras y herramientas comunes y se generalice a escala industrial.",
+          "meta": "360 puntos · 283 comentarios"
+        },
+        {
+          "title": "Did They Ghost You?",
+          "url": "https://didtheyghostyou.com/",
+          "summary": "Did They Ghost You es una plataforma que permite a los candidatos seguir a las empresas de las que no recibieron respuesta durante sus procesos de solicitud de empleo. Al enumerar las instituciones a las que postularon, los usuarios pueden ver los comentarios de otros candidatos y aumentar la transparencia en los procesos de comunicación.",
+          "meta": "359 puntos · 162 comentarios"
+        },
+        {
+          "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+          "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
+          "summary": "Los puentes de dosel establecidos en los bosques amazónicos garantizaron el paso seguro de la vida silvestre, lo que resultó en cero datos de accidentes de tránsito en 15 mil cruces. Esta solución de infraestructura permite a los animales moverse a través de hábitats forestales fragmentados sin estar expuestos al tráfico rodado.",
+          "meta": "340 puntos · 98 comentarios"
+        },
+        {
+          "title": "The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "summary": "La ingeniería de contexto desarrollada para los modelos Claude de quinta generación ofrece nuevos métodos que aumentan la capacidad de enfoque del modelo en el procesamiento de grandes conjuntos de datos. Estas técnicas optimizan procesos de análisis complejos al aumentar la precisión de la recuperación de información en textos largos.",
+          "meta": "262 puntos · 167 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Desarrollado por Baidu, Unlimited-OCR es un modelo de imagen a texto que procesa textos visuales y produce resultados de texto. El sistema tiene como objetivo automatizar el proceso de conversión de datos en documentos complejos a formato digital.",
+          "meta": "♥ 3.126 · 2.564.264 descargas"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Laguna-S-2.1, desarrollado por Poolside, es un modelo de lenguaje centrado en la generación de texto. El modelo está diseñado para usarse en una amplia gama de tareas de procesamiento del lenguaje.",
+          "meta": "♥ 668 · 45.260 descargas"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Desarrollado por Upstage, Solar-Open2-250B es un modelo de lenguaje grande centrado en la generación de texto. Con su estructura de 250 mil millones de parámetros, ofrece una solución de alta capacidad para tareas complejas de procesamiento de lenguaje.",
+          "meta": "♥ 573 · 2.784 descargas"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Este modelo, basado en Qwen3.6-27B, ofrece una estructura de imagen-texto a texto que produce salida de texto procesando entradas visuales y de texto. El modelo, entrenado con conjuntos de datos sin censura, proporciona una capacidad lingüística ampliada al combinar diferentes técnicas de fusión.",
+          "meta": "♥ 560 · 483.845 descargas"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Desarrollado por Thinking Machines, Inkling es un modelo de conversión de imagen a texto que puede procesar datos visuales y textuales simultáneamente. Este modelo produce resultados basados ​​en texto para tareas complejas mediante el análisis de conjuntos de entradas multimodales.",
+          "meta": "♥ 1.572 · 31.575 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "hive mind communication",
+      "explanation": "Una forma de comunicación que permite a todos los miembros de un grupo actuar como una sola mente compartiendo información al mismo tiempo."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Un avanzado sistema de inteligencia artificial entrenado con amplios datos que puede escribir textos imitando el lenguaje humano."
+    },
+    {
+      "term": "browser state",
+      "explanation": "La totalidad de la información que el navegador de Internet mantiene en la sesión actual, como pestañas abiertas, cookies y configuraciones de usuario."
+    },
+    {
+      "term": "skills",
+      "explanation": "Habilidades especiales que tiene un software o inteligencia artificial para realizar una tarea específica."
+    },
+    {
+      "term": "cookbooks",
+      "explanation": "Guías que ofrecen soluciones paso a paso a los problemas encontrados al utilizar una tecnología en particular."
+    },
+    {
+      "term": "prompt engineering",
+      "explanation": "El arte de diseñar las órdenes dadas a la inteligencia artificial de la forma más eficiente para obtener de ella la respuesta más precisa y de calidad."
+    },
+    {
+      "term": "grammar checker",
+      "explanation": "Una herramienta digital que encuentra automáticamente errores ortográficos y gramaticales en textos escritos."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "El modelo básico de IA sobre el que se construyen otras aplicaciones, entrenado con datos masivos para realizar muchas tareas diferentes."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un marco de software básico que permite a los desarrolladores de software desarrollar aplicaciones más rápidamente utilizando estructuras ya preparadas en lugar de empezar desde cero."
+    },
+    {
+      "term": "mesh",
+      "explanation": "Una gran estructura de red formada por dispositivos interconectados que transfieren datos entre sí en lugar de un único centro."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Software de inteligencia artificial autónomo que puede tomar decisiones por sí solo y realizar tareas específicas."
+    },
+    {
+      "term": "agentic",
+      "explanation": "La capacidad de un software para tomar sus propias decisiones y actuar hacia un objetivo sin recibir órdenes constantes del exterior."
+    },
+    {
+      "term": "CMS",
+      "explanation": "Un sistema de software para crear sitios web y gestionar contenidos sin necesidad de saber codificación."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "bindings",
+      "explanation": "Puentes que permiten que diferentes lenguajes de programación o piezas de software se comuniquen entre sí."
+    },
+    {
+      "term": "vector index",
+      "explanation": "Un índice de búsqueda especial que permite a la inteligencia artificial agrupar datos según su significado y encontrarlos muy rápidamente cuando los necesita."
+    }
+  ]
+}

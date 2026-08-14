@@ -1,0 +1,49 @@
+# Servidor web de alto rendimiento y proxy inverso
+
+El repositorio de código abierto NGINX continúa desarrollándose en C como servidor web de alto rendimiento y proxy inverso. El software ofrece una solución estándar en infraestructuras de gran escala para gestionar el tráfico de red y optimizar la distribución de contenidos.
+
+- ★ 31.312
+- C
+- GitHub Trending · 2026-06-07
+
+## Actualizar
+- 2 de agosto de 2026: Star 30,727 → 31,312, última versión: 1.31.3 (15 de julio de 2026).
+
+## Qué aporta
+- Servidor web de alto rendimiento y gestión de proxy inverso.
+- Funciones avanzadas de equilibrio de carga y almacenamiento en caché de contenido.
+- Instalación de infraestructura flexible y escalable gracias a su estructura modular.
+
+## Instalación
+**Instalación de dependencias**
+
+```
+sudo apt install gcc make
+```
+
+**Instalación de bibliotecas requeridas**
+
+```
+sudo apt install libpcre3-dev zlib1g-dev
+```
+
+
+## Ejecución
+**Control del módulo estático**
+
+```
+nginx -V
+```
+
+
+## Si no programa
+Quiero configurar un servidor web o un proxy inverso usando NGINX. ¿Qué pasos debo seguir para cumplir con los requisitos del sistema y cómo puedo interpretar la información del módulo que obtengo con el comando nginx -V? Guíeme sobre las directivas básicas a las que debo prestar atención durante el proceso de instalación y configuración.
+
+## Términos relacionados del glosario
+
+## Enlaces
+- Repositorio en GitHub →
+- Leer en turco →
+
+---
+Fuente: TreScout Descubrir · https://trescout.com/es/discover/nginx/

@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-27",
+  "editorial": "La atención actual se centra en complementos que amplían las capacidades de grandes modelos de lenguaje y arquitecturas personalizadas centradas en la ciberseguridad. Las publicaciones actuales en GitHub muestran que están aumentando las herramientas que automatizan los procesos de trabajo del conocimiento y los sistemas de filtrado que protegen la calidad del contenido.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "summary": "Understand-Anything ofrece una estructura reconocible y consultable al convertir las bases de código en gráficos de conocimiento interactivos. Proporciona visualización de proyectos de software mediante la integración con varios asistentes de codificación e interfaces de línea de comandos.",
+          "meta": "TypeScript · ★ 37.639 · +4.697 hoy"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC ofrece un marco de rendimiento que optimiza la capacidad, la memoria, la seguridad y los procesos de desarrollo orientados a la investigación para agentes de inteligencia artificial. Claude Code tiene como objetivo estandarizar los flujos de trabajo basados ​​en agentes mediante la integración con varias herramientas de codificación como Codex y Cursor.",
+          "meta": "JavaScript · ★ 195.187 · +1.915 hoy"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Este recurso, preparado para quienes desean ingresar al campo de la ingeniería en inteligencia artificial (ingeniería AI), cubre los procesos de desarrollo y publicación de aplicaciones, comenzando desde lo básico. Enseña cómo construir sistemas de inteligencia artificial de un extremo a otro a través de proyectos basados ​​en Python con ejemplos prácticos.",
+          "meta": "Python · ★ 21.395 · +2.155 hoy"
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Los complementos para trabajadores del conocimiento publicados por Anthropics ofrecen herramientas de código abierto desarrolladas para aumentar la productividad en el entorno de Claude Cowork. Esta biblioteca basada en Python proporciona flujos de trabajo modulares que permiten a los usuarios automatizar procesos comerciales complejos.",
+          "meta": "Python · ★ 16.909 · +1.718 hoy"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Desarrollado por Mukul975, Anthropic-Cybersecurity-Skills ofrece 754 capacidades (habilidades) estructuradas para agentes de IA que son compatibles con cinco marcos de ciberseguridad diferentes. Esta biblioteca cubre 26 dominios de seguridad y estandariza los flujos de trabajo basados ​​en agentes en más de 20 plataformas, como Claude Code y GitHub Copilot.",
+          "meta": "Python · ★ 10.421 · +880 hoy"
+        },
+        {
+          "title": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "summary": "Stop-slop es una herramienta que ayuda a limpiar patrones narrativos característicos y rastros de IA (informes de IA) en textos generados por IA. Optimiza los procesos de procesamiento del lenguaje para hacer que el contenido escrito parezca más natural y humano.",
+          "meta": "★ 5.257 · +539 hoy"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill es una herramienta desarrollada para evitar que el contenido producido por los modelos de inteligencia artificial sea basura ordinaria y genérica. El sistema proporciona una capa de filtrado centrada en la originalidad para mejorar la calidad de salida de los modelos de lenguaje.",
+          "meta": "Shell · ★ 22.941 · +1.430 hoy"
+        },
+        {
+          "title": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "summary": "DigitalPlat FreeDomain es una plataforma de código abierto que permite a los usuarios obtener nombres de dominio gratuitos. El software tiene como objetivo facilitar el proceso de creación de identidades digitales para proyectos web de forma gratuita.",
+          "meta": "HTML · ★ 168.097 · +1.219 hoy"
+        },
+        {
+          "title": "jellyfin/jellyfin",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "summary": "Jellyfin es un sistema de servidor de medios de código abierto que permite a los usuarios administrar y publicar sus propias colecciones de medios. Desarrollada en lenguaje C#, esta plataforma proporciona administración del lado del servidor de archivos multimedia y acceso a través de una interfaz de programación de aplicaciones (API).",
+          "meta": "C# · ★ 52.495 · +83 hoy"
+        },
+        {
+          "title": "Axorax/awesome-free-apps",
+          "url": "https://github.com/Axorax/awesome-free-apps",
+          "summary": "La increíble lista de aplicaciones gratuitas compilada por Axorax reúne opciones de software gratuitas para PC y dispositivos móviles. Este recurso ofrece una guía accesible al clasificar las aplicaciones populares que los usuarios necesitan.",
+          "meta": "JavaScript · ★ 5.531 · +731 hoy"
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty ofrece una plataforma de gestión de relaciones con el cliente (CRM) de código abierto centrada en la integración de inteligencia artificial (IA). Desarrollado con el lenguaje TypeScript, el proyecto pretende crear una estructura alternativa a los sistemas tradicionales como Salesforce.",
+          "meta": "TypeScript · ★ 47.047 · +216 hoy"
+        },
+        {
+          "title": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "summary": "OpenStock ofrece seguimiento de precios en tiempo real y alertas personalizadas como una alternativa de código abierto a las plataformas de mercado pagas. Desarrollada con TypeScript, esta herramienta proporciona un análisis detallado de los datos de la empresa de forma gratuita y accesible.",
+          "meta": "TypeScript · ★ 12.353 · +156 hoy"
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Claude-mem es una herramienta que permite a los agentes de inteligencia artificial establecer un contexto persistente entre sesiones. Comprime las operaciones realizadas por el agente con inteligencia artificial y transfiere los datos relevantes a sesiones posteriores y funciona de forma compatible con diferentes asistentes de codificación.",
+          "meta": "TypeScript · ★ 78.948 · +352 hoy"
+        },
+        {
+          "title": "st-tech/ppf-contact-solver",
+          "url": "https://github.com/st-tech/ppf-contact-solver",
+          "summary": "ppf-contact-solver proporciona un solucionador que calcula las interacciones de contacto entre capas, sólidos y varillas en simulaciones basadas en física. Desarrollada con Python, esta herramienta permite gestionar los procesos de interacción de objetos físicos complejos de forma estándar.",
+          "meta": "Python · ★ 3.621 · +170 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+          "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+          "summary": "España bloqueó el acceso a mercados de predicción como Polymarket y Kalshi alegando que no tenían licencia de juego. Estas plataformas están sujetas a la supervisión de las autoridades reguladoras locales debido a sus modelos de apuestas basados ​​en los resultados de eventos en lugar de instrumentos financieros.",
+          "meta": "905 puntos · 419 comentarios"
+        },
+        {
+          "title": "Dropbox CEO Drew Houston to step down",
+          "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+          "summary": "El cofundador y director ejecutivo (CEO) de Dropbox, Drew Houston, dejará su puesto. Ashraf Alkarmi, actual presidente de operaciones, asume el liderazgo de la empresa en el nuevo período.",
+          "meta": "344 puntos · 367 comentarios"
+        },
+        {
+          "title": "A few interesting modern pixel fonts",
+          "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+          "summary": "Las fuentes de píxeles modernas están ganando popularidad nuevamente en las interfaces digitales, combinando la estética de la pantalla de baja resolución con las necesidades de diseño actuales. Esta colección de fuentes optimiza las limitaciones del pixel art tradicional con técnicas de tipografía modernas, mejorando la legibilidad en diferentes escalas de pantalla.",
+          "meta": "343 puntos · 69 comentarios"
+        },
+        {
+          "title": "That Methyl Methacrylate Tank",
+          "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+          "summary": "Las reacciones de polimerización que se producen en los tanques de metacrilato de metilo plantean graves riesgos de explosión, ya que se agotan los inhibidores necesarios para mantener la estabilidad química. El hecho de que el proceso se salga de control por efecto de la fuga térmica requiere la aplicación meticulosa de protocolos de seguridad industrial.",
+          "meta": "325 puntos · 127 comentarios"
+        },
+        {
+          "title": "The worst job interview I ever had",
+          "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+          "summary": "En el mundo del software, la ineficiencia de los procesos de entrevistas de trabajo y los enfoques defectuosos hacia los candidatos hacen que las prácticas de entrevistas técnicas sean nuevamente cuestionadas. Los métodos de evaluación no estándar que afectan negativamente la experiencia del candidato resaltan la necesidad de transparencia en los procesos de contratación corporativos.",
+          "meta": "264 puntos · 221 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "bytedance-research/Lance",
+          "url": "https://huggingface.co/bytedance-research/Lance",
+          "summary": "Desarrollado por investigadores de ByteDance, Lance ofrece una arquitectura de modelo de cualquier cosa que se transforma entre diferentes tipos de datos. Esta estructura tiene como objetivo crear un marco flexible para el procesamiento de datos multimodales.",
+          "meta": "♥ 885 · 1.908 descargas"
+        },
+        {
+          "title": "NemoStation/Marlin-2B",
+          "url": "https://huggingface.co/NemoStation/Marlin-2B",
+          "summary": "Marlin-2B, desarrollado por NemoStation, es un modelo que realiza operaciones de generación de texto basado en vídeo (video-texto-a-texto). Se utiliza en procesos de procesamiento de video con la capacidad de crear resultados basados ​​en texto mediante el análisis de contenido visual.",
+          "meta": "♥ 393 · 9.144 descargas"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "summary": "Desarrollado por Meituan, LongCat-Video-Avatar-1.5 es un modelo de IA generativa que permite la creación de avatares de vídeo de alta calidad a partir de la entrada de texto. El sistema acelera el proceso de modelado de figuras digitales animadas y realistas manteniendo la consistencia visual de los personajes.",
+          "meta": "♥ 320 · 0 descargas"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "summary": "Desarrollado por OpenBMB, MiniCPM5-1B es un modelo de lenguaje de bajos parámetros optimizado para tareas de generación de texto. Con su estructura compacta, ofrece una capacidad de trabajo eficiente en dispositivos finales.",
+          "meta": "♥ 347 · 2.409 descargas"
+        },
+        {
+          "title": "sapientinc/HRM-Text-1B",
+          "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
+          "summary": "Desarrollado por Sapientinc, HRM-Text-1B es un modelo de lenguaje optimizado para tareas de generación de texto. Gracias a su bajo número de parámetros ofrece una solución enfocada a la eficiencia de los recursos.",
+          "meta": "♥ 382 · 103.033 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

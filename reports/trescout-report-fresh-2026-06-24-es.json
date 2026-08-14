@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-24",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "summary": "Anthropic ofrece un directorio oficial que recopila complementos de alta calidad desarrollados para Claude Code en un solo centro. Esta estructura basada en Python permite a los desarrolladores compartir y descubrir herramientas preparadas para asistentes de codificación en un formato estándar.",
+          "meta": "Python · ★ 30.960 · +77 hoy"
+        },
+        {
+          "title": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "summary": "Esta guía desarrollada para Claude Code analiza los procesos de transición desde el enfoque de codificación vibe a la ingeniería basada en agentes. Ofrece métodos prácticos de aplicación y mejores prácticas para aumentar la eficiencia de los agentes de inteligencia artificial en los procesos de desarrollo de software.",
+          "meta": "HTML · ★ 59.766 · +344 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "FUTO Swipe – A new swipe typing model",
+          "url": "https://swipe.futo.tech/",
+          "summary": "FUTO Swipe presenta un nuevo modelo de escritura con deslizamiento desarrollado como una alternativa de código abierto. Esta tecnología prioriza la privacidad del usuario y garantiza la protección de los datos personales procesando el proceso de entrada de texto en el dispositivo local.",
+          "meta": "485 puntos · 147 comentarios"
+        },
+        {
+          "title": "Fired by Google for creating the Google workspace CLI",
+          "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+          "summary": "Un desarrollador que desarrolló una interfaz de línea de comandos (CLI) para Google Workspace fue despedido por violar las políticas relativas al uso de herramientas internas. Esta situación ha puesto en duda el uso de herramientas internas de desarrollo y los límites de control sobre las políticas de código abierto de las empresas.",
+          "meta": "465 puntos · 285 comentarios"
+        },
+        {
+          "title": "Jerry's Map",
+          "url": "http://www.jerrysmap.com/the-map",
+          "summary": "Jerry Gretzinger ha puesto a disposición digitalmente su enorme proyecto cartográfico (Jerry's Map), que representa un mundo imaginario que ha estado dibujando continuamente desde 1963. Al reunir miles de paneles dibujados a mano, este trabajo funciona como una base de datos geográfica compleja y en constante expansión.",
+          "meta": "441 puntos · 51 comentarios"
+        },
+        {
+          "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+          "url": "https://tikz.dev/editor/",
+          "summary": "TikZ Editor permite editar el paquete TikZ, que permite crear imágenes en documentos LaTeX, a través de la interfaz visual (WYSIWYG) en lugar de escribir código. Esta herramienta acelera la fase de diseño visual al facilitar la determinación de coordenadas y los procesos de compilación de dibujos académicos.",
+          "meta": "377 puntos · 71 comentarios"
+        },
+        {
+          "title": "In memory of the man who put red and green squiggles under words",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+          "summary": "Se conmemora al ingeniero de software que desarrolló la función de marcar errores ortográficos con líneas onduladas rojas y verdes en los editores de texto. Este sencillo mecanismo de retroalimentación visual se ha convertido ahora en una parte estándar de los procesadores de texto modernos.",
+          "meta": "329 puntos · 44 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "plugins",
+      "explanation": "Pequeños complementos de software que se instalan posteriormente para agregar nuevas funciones a un programa principal."
+    },
+    {
+      "term": "tools",
+      "explanation": "Funciones o herramientas auxiliares que utiliza el software para realizar determinadas operaciones."
+    },
+    {
+      "term": "vibe coding",
+      "explanation": "Un método para escribir código chateando con inteligencia artificial y utilizando un enfoque intuitivo, sin empantanarse en detalles técnicos."
+    },
+    {
+      "term": "agentic engineering",
+      "explanation": "La disciplina de diseñar y desarrollar unidades de software autónomas que pueden tomar decisiones por sí mismas."
+    }
+  ]
+}

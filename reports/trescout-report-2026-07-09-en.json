@@ -98,7 +98,7 @@
         {
           "title": "TencentCloud/CubeSandbox",
           "url": "https://github.com/TencentCloud/CubeSandbox",
-          "summary": "Developed by TencentCloud in Rust, CubeSandbox offers an instant, simultaneous and secure working environment (sandbox) for artificial intelligence agents. Thanks to its lightweight architecture, it enables agents to be operated safely in an isolated area.",
+          "summary": "Developed by TencentCloud in Rust, CubeSandbox offers an instant, simultaneous and secure working environment (sandbox) for artificial intelligence agents (AI agents). Thanks to its lightweight architecture, it enables agents to be operated safely in an isolated area.",
           "meta": "Rust · ★ 9,092 · +564 today"
         }
       ]
@@ -162,13 +162,13 @@
         {
           "title": "baidu/Unlimited-OCR",
           "url": "https://huggingface.co/baidu/Unlimited-OCR",
-          "summary": "Developed by Baidu, Unlimited-OCR is an image-to-text model that processes visual texts and produces text output. The model is designed to analyze text in complex documents with high accuracy.",
+          "summary": "Developed by Baidu, Unlimited-OCR is an image-to-text model that processes visual texts and produces text output. The model is designed to analyze texts in complex documents with high accuracy.",
           "meta": "♥ 1,879 · 1,084,945 downloads"
         },
         {
           "title": "InternScience/Agents-A1",
           "url": "https://huggingface.co/InternScience/Agents-A1",
-          "summary": "InternScience tarafından geliştirilen Agents-A1, metin üretimi (text generation) odaklı bir dil modelidir. Bu model, karmaşık görevleri yerine getirebilen yapay zekâ ajanları (AI agents) için özel olarak eğitilmiş bir altyapı sunar.",
+          "summary": "Agents-A1, developed by InternScience, is a language model focused on text generation. This model provides a specially trained infrastructure for artificial intelligence agents (AI agents) that can perform complex tasks.",
           "meta": "♥ 409 · 14,723 downloads"
         }
       ]

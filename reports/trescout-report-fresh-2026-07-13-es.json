@@ -1,0 +1,165 @@
+{
+  "date": "2026-07-13",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Dicklesworthstone/destructive_command_guard",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "summary": "Destructivo Command Guard es una capa de seguridad desarrollada para evitar comandos peligrosos de git y shell ejecutados por agentes de inteligencia artificial. Escrita en Rust, esta herramienta reduce los riesgos de pérdida de datos no deseados o daños al sistema al auditar los procesos de ejecución de comandos a nivel del sistema.",
+          "meta": "Rust · ★ 3.284 · +444 hoy"
+        },
+        {
+          "title": "PrefectHQ/prefect",
+          "url": "https://github.com/PrefectHQ/prefect",
+          "summary": "Prefect es un marco de orquestación de flujo de trabajo que se utiliza para crear canalizaciones de datos basadas en Python. Diseñada para desarrollar procesos de datos resilientes, esta herramienta permite la gestión y el seguimiento de flujos de trabajo de datos complejos.",
+          "meta": "Python · ★ 23.248 · +66 hoy"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "El repositorio awesome-llm-apps ofrece más de 100 agentes de IA directamente ejecutables y ejemplos de aplicaciones RAG. Estos proyectos basados ​​en Python permiten a los desarrolladores copiar y personalizar aplicaciones rápidamente y ejecutarlas.",
+          "meta": "Python · ★ 118.879 · +408 hoy"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "Project N.O.M.A.D es una computadora de supervivencia portátil que brinda acceso a herramientas críticas, recursos de información y soporte de inteligencia artificial en entornos fuera de línea que no requieren una conexión a Internet. Este sistema, desarrollado con TypeScript, tiene como objetivo hacer que los datos que los usuarios necesitan sean accesibles en todas las circunstancias alojándolos en hardware local.",
+          "meta": "TypeScript · ★ 33.924 · +125 hoy",
+          "returning": true
+        },
+        {
+          "title": "ColeMurray/background-agents",
+          "url": "https://github.com/ColeMurray/background-agents",
+          "summary": "Desarrollado por ColeMurray, background-agents es un sistema de codificación de agentes en segundo plano de código abierto basado en TypeScript. Permite a los desarrolladores crear agentes de inteligencia artificial (agentes de IA) que ejecutan procesos autónomos dentro de las aplicaciones.",
+          "meta": "TypeScript · ★ 2.329 · +16 hoy"
+        },
+        {
+          "title": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "summary": "Wand-Enhancer es un complemento basado en C# que mejora la experiencia del usuario y aumenta la interoperabilidad de la aplicación WeMod. Optimiza el control de los usuarios sobre las herramientas ampliando la funcionalidad de la aplicación.",
+          "meta": "C# · ★ 7.061 · +609 hoy"
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3Code es un conjunto de herramientas desarrollado para mejorar y estandarizar la calidad del código en proyectos basados ​​en TypeScript. Proporciona soporte de automatización a los desarrolladores en procesos de edición de código y seguridad tipográfica.",
+          "meta": "TypeScript · ★ 13.814 · +75 hoy"
+        },
+        {
+          "title": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "summary": "El fondo de cobertura de IA utiliza agentes autónomos para automatizar los procesos de análisis del mercado financiero y gestión de activos. Este proyecto basado en Python ofrece un modelo de equipo de inteligencia artificial que desarrolla estrategias de inversión procesando datos de mercado.",
+          "meta": "Python · ★ 61.500 · +115 hoy"
+        },
+        {
+          "title": "chen08209/FlClash",
+          "url": "https://github.com/chen08209/FlClash",
+          "summary": "FlClash sirve como un cliente proxy multiplataforma basado en ClashMeta. Esta aplicación de código abierto, desarrollada con lenguaje Dart, tiene como objetivo ofrecer una interfaz fácil de usar y sin publicidad.",
+          "meta": "Dart · ★ 45.340 · +154 hoy",
+          "returning": true
+        },
+        {
+          "title": "par274/sharpemu",
+          "url": "https://github.com/par274/sharpemu",
+          "summary": "Sharpemu es un proyecto experimental de emulador de PlayStation 5 desarrollado en lenguaje C#. Este estudio, que pretende imitar la arquitectura de la consola a partir de software, es un experimento técnico llevado a cabo con tecnologías de emulación de consolas de juegos.",
+          "meta": "C# · ★ 1.379 · +314 hoy"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Hallmark es un archivo de estilo desarrollado para reducir el impacto del contenido estándar producido por inteligencia artificial (AI slop) en el diseño. Claude Code garantiza que las interfaces utilizadas en herramientas como Cursor y Codex adquieran una estética única y humana.",
+          "meta": "CSS · ★ 4.508 · +155 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "summary": "Un análisis de la eficiencia del uso de tokens de las herramientas Claude Code y OpenCode revela que Claude Code gasta 33 mil tokens antes de leer el mensaje, mientras que OpenCode gasta 7 mil tokens. Esta diferencia muestra el impacto que la sobrecarga de gestión de contexto y avisos del sistema en las herramientas de desarrollo tiene sobre el costo.",
+          "meta": "541 puntos · 307 comentarios"
+        },
+        {
+          "title": "Ask HN: Add flag for AI-generated articles",
+          "url": "https://news.ycombinator.com/item?id=48886741",
+          "summary": "La comunidad de Hacker News está discutiendo si el contenido generado por IA debería marcarse con una etiqueta especial en la plataforma. Se recomienda que este sistema de puntuación se utilice únicamente como indicador que informe a los lectores, sin cambiar el orden del contenido.",
+          "meta": "462 puntos · 240 comentarios"
+        },
+        {
+          "title": "I love LLMs, I hate hype",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "summary": "El enfoque, que valora la capacidad técnica de los grandes modelos lingüísticos, critica los discursos de marketing exagerados en el sector de la inteligencia artificial. Se argumenta que estos modelos proporcionan aumentos concretos de eficiencia en los procesos de desarrollo de software, pero las expectativas actuales contienen un optimismo poco realista.",
+          "meta": "396 puntos · 248 comentarios"
+        },
+        {
+          "title": "Vint Cerf, “father of the Internet”, is retiring",
+          "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+          "summary": "Vint Cerf, uno de los arquitectos de Internet, se retira de su puesto en Google. Cerf, pionero en el desarrollo de protocolos TCP/IP, desempeñó un papel fundamental en el establecimiento de la estructura básica de las redes digitales.",
+          "meta": "301 puntos · 176 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "conradlocke/krea2-identity-edit",
+          "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "summary": "El modelo Krea2-identity-edit se centra en la preservación de la identidad y la creación consistente de personajes en los procesos de producción visual. Esta herramienta es una solución de ajuste que permite a los usuarios reproducir un tema determinado en diferentes contextos o estilos.",
+          "meta": "♥ 218 · 0 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "destructive command guard",
+      "explanation": "Mecanismo de seguridad que le advierte antes de ejecutar comandos que corren el riesgo de eliminar datos o dañar el sistema."
+    },
+    {
+      "term": "shell",
+      "explanation": "La capa de software subyacente que le permite comunicarse con el sistema operativo de la computadora directamente mediante comandos de texto."
+    },
+    {
+      "term": "workflow orchestration framework",
+      "explanation": "Infraestructura de software que organiza tareas y procesos comerciales complejos y el orden en que estas tareas se suceden entre sí."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Software de inteligencia artificial autónomo que puede tomar decisiones y utilizar herramientas por sí solo para lograr un objetivo específico."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Un método que permite a la inteligencia artificial producir respuestas más precisas al observar documentos actuales o especiales distintos de sus propios datos de entrenamiento."
+    },
+    {
+      "term": "offline",
+      "explanation": "Funciona sin necesidad de conexión a Internet, utilizando únicamente los recursos propios del dispositivo."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Unidades de IA que pueden planificar y ejecutar misiones por sí mismas y utilizar una variedad de herramientas digitales para lograr objetivos."
+    },
+    {
+      "term": "user experience",
+      "explanation": "La facilidad, velocidad y nivel general de satisfacción que siente al usar una aplicación o dispositivo."
+    },
+    {
+      "term": "interoperability",
+      "explanation": "La capacidad de diferentes marcas o tipos de software y hardware de intercambiar datos entre sí sin ningún problema."
+    },
+    {
+      "term": "type safety",
+      "explanation": "Una regla de seguridad que reduce las posibilidades de que el programa cometa errores al evitar que se utilice el tipo incorrecto de datos durante el desarrollo del software."
+    },
+    {
+      "term": "AI hedge fund",
+      "explanation": "Un tipo de fondo de inversión que toma decisiones de inversión con algoritmos avanzados de inteligencia artificial en lugar de intervención humana."
+    }
+  ]
+}

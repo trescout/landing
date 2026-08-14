@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-25",
+  "editorial": "La atención actual se centra en herramientas que amplían los conjuntos de capacidades de los agentes autónomos y automatizan los procesos de monitoreo del sistema. Los datos de GitHub muestran que las bibliotecas de habilidades con integración de Claude y las infraestructuras que brindan observabilidad del sistema están atrayendo el interés de los desarrolladores.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Desarrollado por Block en Rust, Buzz fue diseñado como una plataforma descentralizada de comunicación mental en colmena. El sistema tiene como objetivo gestionar procesos de comunicación y procesamiento masivo de datos a través de una estructura de red distribuida.",
+          "meta": "Rust · ★ 10.393 · +3.270 hoy"
+        },
+        {
+          "title": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "summary": "Worldmonitor ofrece un panel de inteligencia global en tiempo real que combina funciones de compilación de noticias impulsadas por IA, monitoreo geopolítico y monitoreo de infraestructura en una única interfaz. Esta herramienta, desarrollada con el lenguaje TypeScript, permite a los usuarios monitorear flujos de datos complejos con un enfoque en el conocimiento de la situación.",
+          "meta": "TypeScript · ★ 73.537 · +2.184 hoy"
+        },
+        {
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "La lista de increíbles habilidades de Claude compilada por ComposioHQ reúne las herramientas y recursos utilizados para personalizar los flujos de trabajo de Claude AI. Esta lista permite a los usuarios desarrollar habilidades de Claude y configurar procesos de automatización.",
+          "meta": "Python · ★ 70.190 · +663 hoy"
+        },
+        {
+          "title": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "summary": "Desarrollado con el lenguaje de programación Rust, Pumpkin ofrece una infraestructura de código abierto que tiene como objetivo alojar servidores de Minecraft con alta velocidad y eficiencia. El proyecto tiene como objetivo crear una experiencia de juego más eficaz para los usuarios optimizando los procesos de gestión del servidor.",
+          "meta": "Rust · ★ 9.413 · +473 hoy"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos se destaca como un modelo básico desarrollado para analizar el lenguaje de los mercados financieros. Ofrece una arquitectura de inteligencia artificial que se especializa en el procesamiento y análisis de datos financieros.",
+          "meta": "Python · ★ 33.565 · +499 hoy"
+        },
+        {
+          "title": "Automattic/harper",
+          "url": "https://github.com/Automattic/harper",
+          "summary": "Harper ofrece un corrector gramatical sin conexión y orientado a la privacidad desarrollado con el lenguaje Rust. Esta herramienta de código abierto pretende crear una alternativa rápida y segura en los procesos de edición de textos.",
+          "meta": "Rust · ★ 13.108 · +876 hoy"
+        },
+        {
+          "title": "likec4/likec4",
+          "url": "https://github.com/likec4/likec4",
+          "summary": "Likec4 permite visualizar y gestionar la arquitectura de software con diagramas en vivo derivados directamente del código fuente. Permite a los equipos automatizar sus procesos de documentación técnica gracias a diagramas de arquitectura que se actualizan simultáneamente con el código base.",
+          "meta": "TypeScript · ★ 5.077 · +337 hoy"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Desarrollado por Citrolabs, ego-lite es una herramienta de navegador rápida que permite a los agentes de IA compartir el estado del navegador registrado en procesos de automatización web. El software no requiere configuración, lo que permite a los agentes operar en la web sin molestar al usuario.",
+          "meta": "JavaScript · ★ 2.811 · +880 hoy"
+        },
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Desarrollado con el lenguaje Go, superfile proporciona una interfaz moderna y visualmente rica para administradores de archivos basados ​​en terminales. Los usuarios pueden gestionar las operaciones de archivos en la línea de comandos con una experiencia más estética y funcional.",
+          "meta": "Go · ★ 19.700 · +338 hoy"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView utiliza señales de red inalámbrica estándar (WiFi) para realizar detección espacial en tiempo real, seguimiento de signos vitales y detección de presencia sin necesidad de datos de imágenes. Este sistema, desarrollado en lenguaje Rust, realiza procesos de monitoreo ambiental sin datos visuales utilizando la infraestructura de red existente.",
+          "meta": "Rust · ★ 86.054 · +1.022 hoy"
+        },
+        {
+          "title": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "summary": "Instatic es una solución de sistema de gestión de contenido visual (CMS) basada en agentes que se ofrece como una alternativa de código abierto a plataformas como Webflow y WordPress. Desarrollada con TypeScript, esta herramienta permite la creación de páginas estáticas limpias con funciones como administración de usuarios y compatibilidad con complementos.",
+          "meta": "TypeScript · ★ 4.372 · +201 hoy"
+        },
+        {
+          "title": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "summary": "Los códigos fuente de la computadora de guía de los módulos lunares y de comando utilizados en la misión Apolo 11 estuvieron disponibles en GitHub en lenguaje ensamblador. Este archivo ofrece la oportunidad de examinar la arquitectura del sistema original que forma la base de la historia del software de vuelos espaciales.",
+          "meta": "Assembly · ★ 71.441 · +409 hoy"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Compartido por Matt Pocock, este repositorio ofrece una colección de habilidades de agentes de IA personalizadas para ingenieros de software. Su objetivo es estandarizar los procesos de automatización a través de scripts ya preparados y definiciones de flujo de trabajo que los desarrolladores pueden utilizar en sus propios entornos de trabajo.",
+          "meta": "Shell · ★ 187.141 · +2.251 hoy"
+        },
+        {
+          "title": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "summary": "Dive into LLMs es una serie de capacitación que enseña los principios de funcionamiento de grandes modelos de lenguaje de manera práctica a través de archivos Jupyter Notebook. El proyecto concreta los procesos de desarrollo de modelos al ofrecer una amplia gama de prácticas de codificación, desde conceptos básicos hasta técnicas avanzadas.",
+          "meta": "Jupyter Notebook · ★ 45.115 · +328 hoy"
+        },
+        {
+          "title": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "summary": "OmniRoute es una puerta de enlace de IA gratuita que combina más de 290 proveedores de IA y más de 500 modelos en un único punto final. Proporciona rentabilidad al integrarse con herramientas de desarrollador gracias a sus funciones de respaldo automático y compresión de tokens.",
+          "meta": "TypeScript · ★ 29.158 · +1.841 hoy"
+        },
+        {
+          "title": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "summary": "Chat2DB se destaca como una herramienta de gestión de bases de datos y un cliente SQL compatible con inteligencia artificial. Esta plataforma, desarrollada con Java, brinda la oportunidad de administrar múltiples sistemas de bases de datos como MySQL, PostgreSQL y Oracle a través de una única interfaz gráfica de usuario (GUI).",
+          "meta": "Java · ★ 26.409 · +82 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "summary": "Anthropic anunció Claude 3.5 Opus, un nuevo modelo de lenguaje de gran tamaño centrado en el razonamiento avanzado y la capacidad de resolución de problemas complejos. El modelo apunta a estándares de inteligencia artificial de alto rendimiento con mejoras de seguridad compartidas en la placa del sistema y una arquitectura técnica actualizada.",
+          "meta": "1.441 puntos · 790 comentarios"
+        },
+        {
+          "title": "If coding has been solved, why does software keep getting worse?",
+          "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+          "summary": "Aunque la automatización de los procesos de desarrollo de software y la codificación asistida por IA se han generalizado, continúan las discusiones sobre fallas técnicas en la experiencia del usuario final y la disminución de la calidad del software. Los expertos destacan que el aumento de la velocidad de escritura de código no coincide con la capacidad de gestionar la complejidad del sistema y la acumulación de deuda técnica afecta negativamente al ecosistema del software.",
+          "meta": "683 puntos · 516 comentarios"
+        },
+        {
+          "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+          "summary": "Nvidia, Microsoft y Meta sostienen que la sobrerregulación de los modelos abiertos restringirá la innovación tecnológica. Las empresas de tecnología recomiendan mejorar los estándares de seguridad en lugar de restringir estos modelos.",
+          "meta": "573 puntos · 255 comentarios"
+        },
+        {
+          "title": "India's first privately-developed rocket reaches orbit on debut launch",
+          "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+          "summary": "Una iniciativa espacial privada con sede en India logró alcanzar la órbita en su primer vuelo de prueba con el primer cohete que desarrolló. Este desarrollo aumenta la competencia del país en el sector de los vuelos espaciales comerciales y el papel del sector privado en la economía espacial.",
+          "meta": "557 puntos · 163 comentarios"
+        },
+        {
+          "title": "My security camera shipped a GitHub admin token in its login page",
+          "url": "https://hhh.hn/hanwha-github-token/",
+          "summary": "En la página de inicio de sesión de las cámaras de seguridad Hanwha Vision, la clave de acceso del administrador de GitHub (token de administrador) está disponible como código abierto. Esta situación revela que se exportaron accidentalmente datos confidenciales durante el proceso de desarrollo de software de los dispositivos.",
+          "meta": "550 puntos · 186 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR, desarrollado por Baidu, es un modelo que realiza la conversión de imagen-texto a texto. Es una solución de reconocimiento óptico de caracteres (OCR) diseñada para transferir datos de documentos complejos a formato digital.",
+          "meta": "♥ 3.027 · 2.500.391 descargas"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Desarrollado por Poolside, Laguna-S-2.1 es un modelo de lenguaje optimizado para tareas de generación de texto. El modelo está diseñado para su uso en una amplia gama de procesos de creación de contenido y procesamiento del lenguaje natural.",
+          "meta": "♥ 618 · 28.992 descargas"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Desarrollado por Thinking Machines, Inkling es un modelo de conversión de imagen a texto que acepta datos visuales y de texto como entrada. Produce resultados basados ​​en texto al dar sentido a contenidos visuales complejos con su capacidad de procesamiento de datos multimodal.",
+          "meta": "♥ 1.547 · 27.883 descargas"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Desarrollado por Upstage, Solar-Open2-250B es un modelo de lenguaje a gran escala diseñado para tareas de generación de texto. El modelo tiene como objetivo aumentar el rendimiento en procesos complejos de procesamiento de lenguaje con su alta capacidad de parámetros.",
+          "meta": "♥ 543 · 1.106 descargas"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Este modelo, basado en Qwen3.6-27B, ofrece una estructura de imagen-texto a texto que produce salida de texto procesando entradas visuales y de texto. El modelo, configurado como sin censura, incluye una mezcla especial de pesos (fusión de modelos) creada mediante la combinación de diferentes conjuntos de datos.",
+          "meta": "♥ 496 · 407.421 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "hive mind communication platform",
+      "explanation": "Campo de comunicación digital que permite a un grupo de personas tomar decisiones conjuntas y compartir información utilizando su inteligencia colectiva."
+    },
+    {
+      "term": "dashboard",
+      "explanation": "Un panel de control donde se resumen gráficamente datos complejos o estados del sistema en una sola pantalla."
+    },
+    {
+      "term": "situational awareness",
+      "explanation": "La capacidad de un sistema o persona para percibir y dar sentido instantáneamente a lo que sucede a su alrededor."
+    },
+    {
+      "term": "skills",
+      "explanation": "Capacidades especializadas que tiene un software o inteligencia artificial para realizar una tarea específica."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Modelo integral de inteligencia artificial que puede entrenarse con conjuntos de datos muy grandes y formar la base para muchas tareas diferentes."
+    },
+    {
+      "term": "grammar checker",
+      "explanation": "Una herramienta auxiliar que encuentra automáticamente errores ortográficos y gramaticales en textos escritos."
+    },
+    {
+      "term": "architecture diagrams",
+      "explanation": "Diagramas visuales que muestran cómo se interconectan las partes de un sistema de software."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "Tecnología que permite que los dispositivos se conecten a internet a través de ondas de radio sin necesidad de cables."
+    },
+    {
+      "term": "agentic",
+      "explanation": "La capacidad de una inteligencia artificial para tomar decisiones y actuar hacia un objetivo por sí sola, sin intervención humana."
+    },
+    {
+      "term": "CMS",
+      "explanation": "Un sistema de software que permite crear y gestionar contenido en el sitio web sin saber codificación."
+    },
+    {
+      "term": "Guidance Computer",
+      "explanation": "Una computadora de guía que determina la ruta de un vehículo o sistema y lo ayuda a llegar a su destino."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Funciones y herramientas específicas que utilizan los agentes de IA para completar tareas complejas."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "endpoint",
+      "explanation": "Un dispositivo terminal, como una computadora, un teléfono o un servidor, que está conectado a una red."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "Una puerta de enlace que gestiona las solicitudes a servicios de inteligencia artificial, garantiza la seguridad y regula el tráfico."
+    },
+    {
+      "term": "auto-fallback",
+      "explanation": "Cambiar automáticamente a un método de respaldo cuando un sistema falla o no funciona."
+    }
+  ]
+}

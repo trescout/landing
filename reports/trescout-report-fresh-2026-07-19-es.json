@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-19",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Preparado para quienes desean ingresar al campo de la ingeniería en inteligencia artificial (ingeniería AI), este recurso tiene como objetivo enseñar procesos de desarrollo de aplicaciones de un extremo a otro utilizando Python. Este estudio, que pone en práctica los conocimientos teóricos, cubre el diseño y la implementación de software basado en inteligencia artificial.",
+          "meta": "Python · ★ 39.221 · +191 hoy",
+          "returning": true
+        },
+        {
+          "title": "elder-plinius/G0DM0D3",
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "summary": "G0DM0D3 es una interfaz de chat de IA liberada que tiene como objetivo eludir las capas de seguridad de los modelos de lenguajes grandes. Desarrollado con TypeScript, este proyecto de código abierto permite a los usuarios interactuar con modelos sin restricciones.",
+          "meta": "TypeScript · ★ 9.570 · +69 hoy"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo es una herramienta que proporciona capacidades de búsqueda, extracción de datos y rastreo local para agentes de codificación de inteligencia artificial. Este sistema, que funciona sobre el protocolo de contexto modelo (MCP), proporciona investigación gratuita sin dependencia de la nube y sin necesidad de una clave API.",
+          "meta": "TypeScript · ★ 1.365 · +203 hoy"
+        },
+        {
+          "title": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "summary": "Desarrollado por Moonshot AI, Kimi CLI es un agente de inteligencia artificial que funciona a través de una interfaz de línea de comandos (CLI). Esta herramienta basada en Python está diseñada para automatizar las interacciones de la línea de comandos en los procesos de desarrollo de software.",
+          "meta": "Python · ★ 9.577 · +65 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LG monitors silently install software through Windows Update without consent",
+          "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+          "summary": "Los monitores LG instalan software en segundo plano a través de Windows Update sin la aprobación del usuario. Esto genera discusiones sobre seguridad y control de usuarios con respecto a la inclusión de aplicaciones adicionales en el sistema, así como controladores de hardware.",
+          "meta": "1.083 puntos · 549 comentarios"
+        },
+        {
+          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "summary": "Los modelos de inteligencia artificial han resuelto un problema matemático que no se había resuelto desde hacía treinta años en el campo de la optimización convexa con la ayuda de un simple comando. Este desarrollo demuestra la capacidad de los grandes modelos lingüísticos para hacer inferencias lógicas a partir de pruebas matemáticas complejas.",
+          "meta": "541 puntos · 345 comentarios"
+        },
+        {
+          "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+          "summary": "El alcalde Mamdani introdujo una regulación que prohíbe a los propietarios utilizar en secreto imágenes generadas por IA en listados de propiedades de alquiler. Esta aplicación tiene como objetivo aumentar la transparencia visual en los anuncios de vivienda y evitar la manipulación digital.",
+          "meta": "396 puntos · 176 comentarios"
+        },
+        {
+          "title": "Speech Recognition and TTS in less than 500kb",
+          "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+          "summary": "El proyecto Moonshine ofrece modelos de reconocimiento de voz y conversión de texto a voz con un tamaño inferior a 500 kilobytes. Estos marcos livianos permiten capacidades de procesamiento del idioma nativo en sistemas con recursos de hardware limitados.",
+          "meta": "387 puntos · 40 comentarios"
+        },
+        {
+          "title": "If You Build It, They Will Come",
+          "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+          "summary": "Se argumenta que la creación de una base de usuarios en proyectos de software está directamente relacionada con el marketing y la interacción con la comunidad más que con la calidad técnica del producto. Se enfatiza que los desarrolladores deberían centrarse en estrategias de adquisición de usuarios en lugar de un enfoque orientado al producto.",
+          "meta": "351 puntos · 126 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "BI",
+      "explanation": "Es un conjunto de métodos que permiten a las empresas tomar decisiones comerciales más precisas y rápidas mediante el análisis de los datos sin procesar que tienen."
+    },
+    {
+      "term": "UI",
+      "explanation": "Botones, menús y diseños de pantalla a través de los cuales un usuario interactúa con un software o dispositivo."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "La ingeniería para tomar modelos de IA y ejecutarlos de manera eficiente y segura en aplicaciones del mundo real."
+    },
+    {
+      "term": "deployment",
+      "explanation": "Transferir un software o modelo preparado a un entorno en vivo donde los usuarios puedan acceder a él."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Un enfoque de software que prioriza el almacenamiento y procesamiento de datos directamente en la propia memoria del dispositivo sin necesidad de Internet."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Un protocolo puente que permite que los modelos de IA se conecten a diferentes fuentes de datos y herramientas de forma estándar."
+    }
+  ]
+}

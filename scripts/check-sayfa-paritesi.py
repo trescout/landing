@@ -31,11 +31,13 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Aynı sayfanın dillerdeki karşılıkları · (ad, {dil: yol})
 GRUPLAR = [
     ("ana sayfa", {"tr": "index.html", "en": "en/index.html",
-                   "fr": "fr/index.html", "pt": "pt/index.html"}),
+                   "fr": "fr/index.html", "pt": "pt/index.html",
+                   "es": "es/index.html"}),
     ("karşılaştırma", {"tr": "compare/rss-vs-ai/index.html",
                        "en": "en/compare/rss-vs-ai/index.html",
                        "fr": "fr/compare/rss-vs-ai/index.html",
-                       "pt": "pt/compare/rss-vs-ai/index.html"}),
+                       "pt": "pt/compare/rss-vs-ai/index.html",
+                       "es": "es/compare/rss-vs-ai/index.html"}),
 ]
 
 

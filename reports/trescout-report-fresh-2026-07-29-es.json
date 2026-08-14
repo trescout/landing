@@ -1,0 +1,120 @@
+{
+  "date": "2026-07-29",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "Pascalorg/editor basado en TypeScript permite a los usuarios crear y compartir proyectos arquitectónicos tridimensionales a través del navegador. El software tiene como objetivo hacer que los procesos de diseño arquitectónico sean accesibles a través de una interfaz basada en web.",
+          "meta": "TypeScript · ★ 18.985 · +341 hoy"
+        },
+        {
+          "title": "hello245m/free-stockdb",
+          "url": "https://github.com/hello245m/free-stockdb",
+          "summary": "Free-stockdb es un motor de análisis cuantitativo nativo que maneja datos diarios y minuciosos para acciones A y fondos cotizados en bolsa (ETF). El sistema combina funciones como sincronización incremental de datos, almacenamiento en caché local, corrección de precios, backtesting y cálculos de indicadores técnicos.",
+          "meta": "HTML · ★ 1.492 · +50 hoy"
+        },
+        {
+          "title": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "summary": "La biblioteca de voz a voz desarrollada por Hugging Face permite crear agentes de voz locales utilizando modelos de código abierto. Esta herramienta basada en Python permite a los desarrolladores crear sistemas de interacción de voz en tiempo real que se ejecutan en el dispositivo.",
+          "meta": "Python · ★ 7.443 · +227 hoy"
+        },
+        {
+          "title": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "summary": "El proyecto book-to-skill convierte formatos de documentos portátiles (PDF) de libros técnicos en paquetes de habilidades (habilidades) utilizables para Claude Code. Esta herramienta permite referenciar directamente los recursos técnicos y aplicarlos en los procesos de trabajo.",
+          "meta": "Python · ★ 11.802 · +423 hoy"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "Esta lista, que reúne bibliotecas, estrategias y recursos educativos en el campo del comercio sistemático, respalda los procesos de modelado financiero basados ​​en Python. Reúne las herramientas y la literatura necesarias en un solo centro para quienes quieran ingresar al mundo del trading algorítmico.",
+          "meta": "Python · ★ 9.886 · +309 hoy"
+        },
+        {
+          "title": "microsoft/agent-governance-toolkit",
+          "url": "https://github.com/microsoft/agent-governance-toolkit",
+          "summary": "El conjunto de herramientas de gobernanza de agentes desarrollado por Microsoft ofrece capas de seguridad como aplicación de políticas, identidad de confianza cero y zona de pruebas para agentes autónomos de inteligencia artificial. El software tiene como objetivo proteger contra vulnerabilidades en la lista OWASP Agentic Top 10.",
+          "meta": "Python · ★ 5.342 · +46 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Substack writers, you need a website",
+          "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+          "summary": "Los autores de Substack necesitan sitios web personales para reducir la dependencia de la plataforma y proteger la propiedad del contenido. Administrar sus propios dominios se considera esencial para mantener el control sobre los datos de los lectores y crear una presencia digital libre de restricciones de plataforma.",
+          "meta": "487 puntos · 231 comentarios"
+        },
+        {
+          "title": "Codex Security",
+          "url": "https://github.com/openai/codex-security",
+          "summary": "OpenAI compartió el kit de herramientas Codex Security, que desarrolló para detectar vulnerabilidades basadas en código, como código abierto. Este software utiliza grandes modelos de lenguaje para identificar vulnerabilidades de seguridad en los procesos de desarrollo de software.",
+          "meta": "452 puntos · 140 comentarios"
+        },
+        {
+          "title": "Kimi K3 Architecture Overview and Notes",
+          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "summary": "Parte de la arquitectura K3 ofrece una estructura de nueva generación desarrollada para aumentar la eficiencia de modelos de lenguaje grandes. Esta arquitectura se centra en mejorar la velocidad de inferencia y la escalabilidad del modelo optimizando los recursos computacionales.",
+          "meta": "372 puntos · 64 comentarios"
+        },
+        {
+          "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+          "url": "https://www.slow-journalism.com/",
+          "summary": "El movimiento del periodismo lento aboga por un enfoque editorial que se centre en análisis en profundidad e información verificada en lugar de compartir rápidamente noticias actuales. Este enfoque tiene como objetivo reducir la contaminación informativa creada por el ciclo informativo instantáneo orientado al consumo.",
+          "meta": "272 puntos · 159 comentarios"
+        },
+        {
+          "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+          "url": "https://github.com/twalichiewicz/HNewhere",
+          "summary": "HNewhere ofrece un script de usuario que mejora la experiencia del usuario al combinar enlaces y discusiones relacionadas sobre Hacker News dentro de la misma pestaña. Esta herramienta consolida un flujo de trabajo que requiere un cambio constante de pestañas entre contenido y comentarios en una única interfaz.",
+          "meta": "235 puntos · 64 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Habilidades especiales que adquieren los modelos de inteligencia artificial para realizar una tarea específica."
+    },
+    {
+      "term": "ETF",
+      "explanation": "Un vehículo de inversión llamado fondo cotizado en bolsa que le permite comprar muchas acciones diferentes en un solo paquete."
+    },
+    {
+      "term": "backtesting",
+      "explanation": "Un método para probar el éxito de una estrategia de inversión utilizando datos históricos del mercado."
+    },
+    {
+      "term": "voice agents",
+      "explanation": "Asistentes digitales que se comunican con el usuario por voz, responden preguntas y ejecutan comandos."
+    },
+    {
+      "term": "PDF",
+      "explanation": "Un formato de archivo fijo difícil de editar que hace que los documentos tengan el mismo aspecto en diferentes dispositivos."
+    },
+    {
+      "term": "systematic trading",
+      "explanation": "Las decisiones de inversión se toman libres de emociones, en el marco de reglas predeterminadas y un plan disciplinado."
+    },
+    {
+      "term": "algorithmic trading",
+      "explanation": "Las transacciones de compra y venta en los mercados financieros se realizan de forma rápida y automática mediante programas informáticos."
+    },
+    {
+      "term": "agent governance toolkit",
+      "explanation": "Un conjunto de herramientas de gestión que garantizan que los sistemas autónomos de inteligencia artificial actúen de forma segura, ética y conforme a las normas."
+    }
+  ]
+}

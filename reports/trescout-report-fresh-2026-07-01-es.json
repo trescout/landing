@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-01",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "El conjunto de datos de ejercicios (conjunto de datos de ejercicios) compartido por Hasaneyldrm ofrece 433 movimientos físicos diferentes con nombres, grupos de músculos objetivo, equipos e instrucciones visuales. Este recurso integral proporciona una infraestructura de datos estructurada para quienes desarrollan aplicaciones de tecnología deportiva.",
+          "meta": "HTML · ★ 7.552 · +1.343 hoy"
+        },
+        {
+          "title": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "summary": "OmniRoute es una puerta de enlace que ofrece acceso gratuito combinando más de 231 proveedores de inteligencia artificial en un único punto final. Reduce el uso de tokens con técnicas de compresión avanzadas, al tiempo que optimiza las herramientas de desarrollo con respaldo inteligente y soporte de interfaz multimodal.",
+          "meta": "TypeScript · ★ 8.906 · +387 hoy"
+        },
+        {
+          "title": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "summary": "Common User Passwords Profiler es una herramienta de Python para crear listas de contraseñas específicas. Prepara archivos de diccionario personalizados (listas de palabras) analizando ciertos datos del usuario.",
+          "meta": "Python · ★ 6.161 · +32 hoy"
+        },
+        {
+          "title": "google/agents-cli",
+          "url": "https://github.com/google/agents-cli",
+          "summary": "La interfaz de línea de comandos (CLI) desarrollada por Google fabrica asistentes de codificación especializados en la creación, evaluación e implementación de agentes de inteligencia artificial en Google Cloud (Google Cloud). Esta herramienta basada en Python estandariza los procesos de desarrollo de agentes y acelera los flujos de trabajo operativos en la infraestructura de la nube.",
+          "meta": "Python · ★ 4.413 · +445 hoy"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Desarrollado con el lenguaje Rust, herdr funciona como un agente multiplexor que se ejecuta en el terminal. Esta herramienta permite a los usuarios gestionar múltiples agentes de inteligencia artificial simultáneamente en el entorno del terminal.",
+          "meta": "Rust · ★ 9.203 · +486 hoy"
+        },
+        {
+          "title": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "summary": "Instatic es un moderno sistema de gestión de contenido visual (CMS) autohospedado basado en TypeScript. Permite a los usuarios ejecutar la interfaz de administración de contenido en sus propios servidores con un proceso de instalación rápido.",
+          "meta": "TypeScript · ★ 1.681 · +351 hoy"
+        },
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "Elaborado por Microsoft, AI for Beginners enseña temas de introducción a la inteligencia artificial a través de Jupyter Notebooks, con un plan de estudios de 12 semanas. Este contenido de 24 lecciones ofrece un recurso educativo estructurado para aquellos que quieran aprender conceptos básicos con ejemplos aplicados.",
+          "meta": "Jupyter Notebook · ★ 49.751 · +252 hoy"
+        },
+        {
+          "title": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "summary": "Desarrollado por Meta, Astryx ofrece un sistema de diseño totalmente personalizable y compatible con agentes de inteligencia artificial. Esta biblioteca de código abierto basada en TypeScript configura componentes de interfaz para el uso de sistemas autónomos.",
+          "meta": "TypeScript · ★ 2.000 · +364 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Code is steganographically marking requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "summary": "La herramienta Claude Code, desarrollada por Anthropic, añade datos invisibles a las solicitudes enviadas y las marca con el método de esteganografía. Esta técnica funciona como un mecanismo de seguimiento desarrollado para rastrear los datos de uso de los modelos de inteligencia artificial y gestionar los procesos de seguridad.",
+          "meta": "1.870 puntos · 529 comentarios"
+        },
+        {
+          "title": "Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "summary": "Anthropic ha lanzado una versión actualizada del modelo Claude 3.5 Sonnet, que proporciona mejoras de rendimiento en capacidades de codificación y razonamiento. El nuevo modelo amplía la capacidad de realizar transacciones directas a través de interfaces con capacidad de uso de computadora.",
+          "meta": "1.092 puntos · 627 comentarios"
+        },
+        {
+          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+          "summary": "El Ministerio de Comercio levantó los controles de exportación de los modelos Claude Fable 5 y Mythos 5. Esta regulación libera el acceso comercial y el uso de estos modelos de inteligencia artificial en los mercados internacionales.",
+          "meta": "635 puntos · 344 comentarios"
+        },
+        {
+          "title": "Claude Science",
+          "url": "https://claude.com/product/claude-science",
+          "summary": "Anthropic ha lanzado Claude Science, una herramienta diseñada para analizar conjuntos de datos complejos y validar hipótesis en la investigación científica. Esta herramienta tiene como objetivo aumentar las capacidades de los grandes modelos lingüísticos en la revisión de literatura académica y los procesos de procesamiento de datos.",
+          "meta": "471 puntos · 142 comentarios"
+        },
+        {
+          "title": "Nano Banana 2 Lite",
+          "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+          "summary": "Google anunció el modelo Gemini Flash Lite, que está optimizado para procesos de procesamiento visual de baja latencia. Este modelo fue diseñado para realizar análisis rápidos de imágenes en dispositivos con recursos limitados.",
+          "meta": "363 puntos · 144 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "exercises-dataset",
+      "explanation": "Un conjunto de datos de práctica organizados que le permiten practicar mientras aprende una materia."
+    },
+    {
+      "term": "endpoint",
+      "explanation": "Dispositivos terminales, como una computadora, un teléfono o una tableta, que estén conectados a la red."
+    },
+    {
+      "term": "gateway",
+      "explanation": "Puerto que gestiona y transfiere el tráfico de datos entre diferentes redes."
+    },
+    {
+      "term": "token",
+      "explanation": "Clave de seguridad temporal que verifica su identidad para transacciones digitales o otorga acceso a sistemas."
+    },
+    {
+      "term": "Common User Passwords Profiler",
+      "explanation": "Una herramienta que identifica vulnerabilidades de seguridad mediante el análisis de contraseñas débiles que la gente usa con frecuencia."
+    },
+    {
+      "term": "wordlists",
+      "explanation": "Listas de palabras y contraseñas utilizadas con frecuencia para intentar iniciar sesión en los sistemas."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que ejecuta programas con comandos escritos en lugar del mouse."
+    },
+    {
+      "term": "Google Cloud",
+      "explanation": "Plataforma de servicios de ejecución de aplicaciones y almacenamiento de datos en Internet ofrecida por Google."
+    }
+  ]
+}

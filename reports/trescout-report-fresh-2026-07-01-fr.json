@@ -20,7 +20,7 @@
         {
           "title": "Mebus/cupp",
           "url": "https://github.com/Mebus/cupp",
-          "summary": "Common User Passwords Profiler est un outil Python permettant de créer des listes de mots de passe ciblées. Il prépare des fichiers de dictionnaire personnalisés (listes de mots) en analysant les données utilisateur spécifiques.",
+          "summary": "Common User Passwords Profiler est un outil Python permettant de créer des listes de mots de passe ciblées. Il prépare des fichiers de dictionnaire personnalisés (listes de mots) en analysant certaines données utilisateur.",
           "meta": "Python · ★ 6 161 · +32 aujourd'hui"
         },
         {

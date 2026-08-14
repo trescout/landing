@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-22",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "Respaldado por grandes modelos de lenguaje, este sistema analiza datos de mercado de múltiples fuentes y noticias en tiempo real y ofrece paneles visualizados para decisiones de inversión. Estandariza los procesos de análisis para diferentes intercambios con notificaciones automáticas y soporte gratuito para estudios programados.",
+          "meta": "Python · ★ 45.304 · +568 hoy"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "Desarrollado por ByteDance, Deer-Flow es un marco superagente de código abierto diseñado para realizar tareas de larga duración. Sistema; Puede investigar y codificar de forma autónoma flujos de trabajo complejos utilizando sandbox, gestión de memoria y subagentes.",
+          "meta": "Python · ★ 72.905 · +442 hoy"
+        },
+        {
+          "title": "mikumifa/biliTickerBuy",
+          "url": "https://github.com/mikumifa/biliTickerBuy",
+          "summary": "Esta herramienta basada en Python que automatiza los procesos de compra de membresías de Bilibili es un asistente de compra de entradas diseñado para acelerar los procesos de compra de entradas. Permite a los usuarios obtener productos en stock limitados en la plataforma más rápido.",
+          "meta": "Python · ★ 3.782 · +67 hoy"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot es una herramienta de Python que automatiza la recopilación de inteligencia de código abierto (OSINT) para procesos de mapeo de superficies de ataque y inteligencia de amenazas. Permite detectar vulnerabilidades de seguridad en activos digitales mediante la integración de varias fuentes de datos.",
+          "meta": "Python · ★ 18.921 · +294 hoy"
+        },
+        {
+          "title": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "summary": "Cognee es una plataforma de código abierto que proporciona memoria a largo plazo entre sesiones a agentes de inteligencia artificial. Permite a los agentes almacenar y recuperar datos de forma estructurada, utilizando un motor de gráficos de conocimiento autohospedado.",
+          "meta": "Python · ★ 18.871 · +347 hoy"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "El repositorio system_prompts_leaks compartido en GitHub reúne indicaciones del sistema de modelos de inteligencia artificial de las principales empresas de tecnología como Anthropic, OpenAI, Google y xAI. Esta colección proporciona un recurso central para los desarrolladores que desean examinar las instrucciones de configuración en segundo plano y las limitaciones de los modelos de lenguajes populares.",
+          "meta": "JavaScript · ★ 44.809 · +282 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Identity verification on Claude",
+          "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+          "summary": "Anthropic está introduciendo un proceso de verificación de identidad para aumentar las medidas de seguridad en la plataforma Claude. Esta aplicación requiere que los usuarios aseguren su cuenta y verifiquen el acceso a la plataforma cargando sus documentos oficiales.",
+          "meta": "749 puntos · 620 comentarios"
+        },
+        {
+          "title": "Did my old job only exist because of fraud?",
+          "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+          "summary": "Se argumenta que el tráfico falso y las interacciones artificiales en los procesos de desarrollo de software son la principal motivación para la supervivencia de algunos roles laborales. Esto revela que las métricas de productividad y las descripciones de puestos en el sector tecnológico pueden basarse en indicadores engañosos en lugar de producción de valor real.",
+          "meta": "551 puntos · 236 comentarios"
+        },
+        {
+          "title": "Prefer duplication over the wrong abstraction (2016)",
+          "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+          "summary": "Preferir la repetición de código en lugar de una abstracción incorrecta en el proceso de desarrollo de software ayuda a preservar la flexibilidad del sistema. Evitar generalizaciones innecesarias hace posible que el código base se adapte más fácilmente a los cambios necesarios en el futuro.",
+          "meta": "485 puntos · 316 comentarios"
+        },
+        {
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
+          "url": "https://apertvs.ai/",
+          "summary": "Apertus es una plataforma modelo básica de código abierto que permite a los países crear modelos entrenables con sus propios datos. En línea con su visión de una IA soberana, su objetivo es desarrollar sistemas de inteligencia artificial transparentes y auditables que puedan ejecutarse en infraestructura local.",
+          "meta": "375 puntos · 127 comentarios"
+        },
+        {
+          "title": "Deno Desktop",
+          "url": "https://docs.deno.com/runtime/desktop/",
+          "summary": "Deno Desktop permite a los desarrolladores crear aplicaciones de escritorio nativas utilizando el tiempo de ejecución de Deno. Esta herramienta ofrece un marco de aplicación que simplifica el proceso de desarrollo de software de escritorio con tecnologías web.",
+          "meta": "349 puntos · 144 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Este modelo de generación de texto basado en Gemma-4-12B ofrece una configuración especial optimizada para tareas basadas en agentes. El modelo, publicado en formato GGUF, proporciona una experiencia de inferencia eficiente que se puede ejecutar en dispositivos locales.",
+          "meta": "♥ 317 · 50.314 descargas"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "SuperAgent",
+      "explanation": "Asistente de inteligencia artificial avanzado que puede gestionar múltiples tareas simultáneamente y resolver operaciones complejas."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Un área cerrada que le permite probar programas de forma segura aislándolos del sistema principal."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Una estructura de datos que muestra relaciones entre información como puntos interconectados."
+    },
+    {
+      "term": "ticket purchasing assistant",
+      "explanation": "Un asistente digital que busca entradas y realiza compras en nombre del usuario."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Un método para recopilar y analizar información de fuentes disponibles públicamente en Internet."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "La inteligencia artificial almacena información y experiencias pasadas durante mucho tiempo y las recuerda cuando es necesario."
+    },
+    {
+      "term": "knowledge graph engine",
+      "explanation": "Infraestructura de software que establece conexiones complejas entre información y permite consultarla."
+    }
+  ]
+}

@@ -144,10 +144,10 @@ def make_card(slug,title,tagline,stars,lang,out,dil="tr"):
     d.rounded_rectangle([x+44.5*k,y+56*k,x+55.5*k,y+84*k],radius=2,fill=YELLOW)
     d.text((PAD+68,PAD+8),"TreScout",font=f(30,700),fill=WHITE)
     ETIKET={"tr":"KEŞİF · GİTHUB","en":"DISCOVER · GITHUB","fr":"DÉCOUVRIR · GITHUB",
-            "pt":"DESCOBRIR · GITHUB"}
-    BINLIK={"tr":".","en":",","fr":"\u00a0","pt":"."}
+            "pt":"DESCOBRIR · GITHUB","es":"DESCUBRIR · GITHUB"}
+    BINLIK={"tr":".","en":",","fr":"\u00a0","pt":".","es":"."}
     YEDEK={"tr":"TreScout Keşif","en":"TreScout Discover","fr":"TreScout Découvrir",
-           "pt":"TreScout Descobrir"}
+           "pt":"TreScout Descobrir","es":"TreScout Descubrir"}
     d.text((PAD,PAD+78),ETIKET.get(dil,ETIKET["tr"]),font=f(20,700),fill=YELLOW)
     tf=f(64,800);tl=wrap(d,title,tf,W-2*PAD,2)
     for i,ln in enumerate(tl):d.text((PAD,PAD+128+i*74),ln,font=tf,fill=WHITE)
