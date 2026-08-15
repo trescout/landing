@@ -37,11 +37,11 @@ No, he's just making predictions based on mathematical probabilities; It has no 
 - [Awesome LLM Apps](/en/discover/awesome-llm-apps/)
 - [MoneyPrinterTurbo](/en/discover/moneyprinterturbo/)
 - [TradingAgents](/en/discover/tradingagents/)
+- [Ragflow](/en/discover/ragflow/)
 - [Deer Flow](/en/discover/deer-flow/)
 - [Crawl4AI](/en/discover/crawl4ai/)
+- [Unsloth](/en/discover/unsloth/)
 - [MiroFish](/en/discover/mirofish/)
-- [Goose](/en/discover/goose/)
-- [Continue](/en/discover/continue/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/llm/

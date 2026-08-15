@@ -26,6 +26,7 @@ Puisqu’ils ne sont pas connectés à un seul point, le risque d’effondrement
 - [Meshery](/fr/discover/meshery/)
 - [Meshoptimizer](/fr/discover/meshoptimizer/)
 - [Bitchat Android](/fr/discover/bitchat-android/)
+- [Modly](/fr/discover/modly/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/mesh/

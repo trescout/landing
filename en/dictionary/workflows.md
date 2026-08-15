@@ -32,6 +32,7 @@ Yes, it is a best practice to update workflows and make them more efficient as n
 ## Related tools
 - [Gstack](/en/discover/gstack/)
 - [MinerU](/en/discover/mineru/)
+- [Modly](/en/discover/modly/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/workflows/

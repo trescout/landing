@@ -36,12 +36,12 @@ No, if your documents are stored on your own computer or server, they can work w
 ## Related tools
 - [MarkItDown](/en/discover/markitdown/)
 - [Awesome LLM Apps](/en/discover/awesome-llm-apps/)
+- [Ragflow](/en/discover/ragflow/)
 - [AI Agent Book](/en/discover/ai-agent-book/)
 - [DeepTutor](/en/discover/deeptutor/)
 - [Opendataloader PDF](/en/discover/opendataloader-pdf/)
 - [Turbovec](/en/discover/turbovec/)
 - [Liteparse](/en/discover/liteparse/)
-- [Production Agentic RAG Course](/en/discover/production-agentic-rag-course/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/rag/

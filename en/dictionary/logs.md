@@ -27,6 +27,7 @@ When the system crashes, the only way to find out why is to read the logs.
 
 ## Related tools
 - [Grafana](/en/discover/grafana/)
+- [Modly](/en/discover/modly/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/logs/

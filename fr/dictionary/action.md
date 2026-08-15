@@ -27,5 +27,8 @@ L'invite est une demande, l'action est l'action concrète qui a lieu à la suite
 - [Tools](/fr/dictionary/tools/)
 - [Agentic Workflows](/fr/dictionary/agentic-workflows/)
 
+## Outils liés
+- [Embabel Agent](/fr/discover/embabel-agent/)
+
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/action/

@@ -34,12 +34,12 @@ Não, se seus documentos estiverem armazenados em seu próprio computador ou ser
 ## Ferramentas relacionadas
 - [MarkItDown](/pt/discover/markitdown/)
 - [Awesome LLM Apps](/pt/discover/awesome-llm-apps/)
+- [Ragflow](/pt/discover/ragflow/)
 - [AI Agent Book](/pt/discover/ai-agent-book/)
 - [DeepTutor](/pt/discover/deeptutor/)
 - [Opendataloader PDF](/pt/discover/opendataloader-pdf/)
 - [Turbovec](/pt/discover/turbovec/)
 - [Liteparse](/pt/discover/liteparse/)
-- [Production Agentic RAG Course](/pt/discover/production-agentic-rag-course/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/rag/

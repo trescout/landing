@@ -25,6 +25,7 @@ Lorsque le système tombe en panne, la seule façon de savoir pourquoi est de li
 
 ## Outils liés
 - [Grafana](/fr/discover/grafana/)
+- [Modly](/fr/discover/modly/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/logs/

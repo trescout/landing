@@ -28,6 +28,7 @@ Since they are not connected to a single point, the risk of system collapse is m
 - [Meshery](/en/discover/meshery/)
 - [Meshoptimizer](/en/discover/meshoptimizer/)
 - [Bitchat Android](/en/discover/bitchat-android/)
+- [Modly](/en/discover/modly/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/mesh/

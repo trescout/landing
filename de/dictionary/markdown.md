@@ -34,8 +34,8 @@ Sie können es mit jedem Texteditor öffnen, aber mit speziellen Viewern können
 - [MinerU](/de/discover/mineru/)
 - [Crawl4AI](/de/discover/crawl4ai/)
 - [Scrapling](/de/discover/scrapling/)
+- [Obsidian Skills](/de/discover/obsidian-skills/)
 - [Opendataloader PDF](/de/discover/opendataloader-pdf/)
-- [Book to Skill](/de/discover/book-to-skill/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/markdown/

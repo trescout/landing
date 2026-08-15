@@ -35,6 +35,7 @@ It is usually made by large technology companies because it requires a huge amou
 - [Kronos](/en/discover/kronos/)
 - [Timesfm](/en/discover/timesfm/)
 - [Lingbot Map](/en/discover/lingbot-map/)
+- [Needle](/en/discover/needle/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/foundation-model/

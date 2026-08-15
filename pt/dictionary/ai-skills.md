@@ -37,8 +37,8 @@ Sim, novos recursos podem ser adicionados a um modelo com infraestrutura apropri
 - [Awesome Claude Skills](/pt/discover/awesome-claude-skills/)
 - [Awesome Claude Code](/pt/discover/awesome-claude-code/)
 - [OpenMontage](/pt/discover/openmontage/)
+- [Obsidian Skills](/pt/discover/obsidian-skills/)
 - [Anthropic Cybersecurity Skills](/pt/discover/anthropic-cybersecurity-skills/)
-- [Pm Skills](/pt/discover/pm-skills/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ai-skills/

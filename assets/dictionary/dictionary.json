@@ -3344,7 +3344,7 @@
     "kisa_en": "It is a special artificial intelligence assistant that scans web pages and performs actions such as clicking or entering data on behalf of the user.",
     "kisa_fr": "Il s'agit d'un assistant spécial d'intelligence artificielle qui analyse les pages Web et effectue des actions telles que cliquer ou saisir des données au nom de l'utilisateur.",
     "kisa_pt": "É um assistente especial de inteligência artificial que verifica páginas da web e executa ações como clicar ou inserir dados em nome do usuário.",
-    "kisa_es": "İnternet sayfalarını tarayıp kullanıcı adına tıklama veya veri girişi gibi işlemler yapan özel bir yapay zekâ yardımcısıdır.",
+    "kisa_es": "Es un asistente especial de inteligencia artificial que escanea páginas web y realiza acciones como hacer clic o ingresar datos en nombre del usuario.",
     "kisa_de": "Dabei handelt es sich um einen speziellen Assistenten mit künstlicher Intelligenz, der Webseiten scannt und im Namen des Benutzers Aktionen wie das Anklicken oder die Eingabe von Daten ausführt."
   },
   {
@@ -3380,7 +3380,7 @@
     "kisa_en": "It is the process of labeling speakers on the text by distinguishing who made the speeches in the audio recording.",
     "kisa_fr": "Il s'agit du processus d'étiquetage des locuteurs sur le texte en distinguant ceux qui ont prononcé les discours dans l'enregistrement audio.",
     "kisa_pt": "É o processo de rotular os oradores no texto, distinguindo quem fez os discursos na gravação de áudio.",
-    "kisa_es": "Ses kaydındaki konuşmaların kimin tarafından yapıldığını ayırt ederek metin üzerinde konuşmacıları etiketleme sürecidir.",
+    "kisa_es": "Es el proceso de etiquetar a los oradores en el texto distinguiendo quiénes pronunciaron los discursos en la grabación de audio.",
     "kisa_de": "Dabei handelt es sich um den Prozess der Kennzeichnung von Rednern im Text, indem in der Audioaufnahme unterschieden wird, wer die Reden gehalten hat."
   },
   {
@@ -3404,7 +3404,7 @@
     "kisa_en": "It is a system that manages artificial intelligence assistants with different specializations from a single center and directs incoming tasks to the most suitable assistant.",
     "kisa_fr": "Il s'agit d'un système qui gère à partir d'un seul centre des assistants d'intelligence artificielle de différentes spécialisations et dirige les tâches entrantes vers l'assistant le plus approprié.",
     "kisa_pt": "É um sistema que gerencia assistentes de inteligência artificial com diferentes especializações a partir de um único centro e direciona as tarefas recebidas para o assistente mais adequado.",
-    "kisa_es": "Farklı uzmanlıklara sahip yapay zekâ yardımcılarını tek bir merkezden yönetip, gelen görevleri en uygun asistana yönlendiren sistemdir.",
+    "kisa_es": "Se trata de un sistema que gestiona asistentes de inteligencia artificial con diferentes especializaciones desde un único centro y dirige las tareas entrantes al asistente más adecuado.",
     "kisa_de": "Dabei handelt es sich um ein System, das Assistenten der künstlichen Intelligenz mit unterschiedlichen Spezialisierungen von einem einzigen Zentrum aus verwaltet und eingehende Aufgaben an den am besten geeigneten Assistenten weiterleitet."
   },
   {
@@ -3452,7 +3452,7 @@
     "kisa_en": "It is the transfer of responsibility for the completion of a job to another person or artificial intelligence system.",
     "kisa_fr": "Il s’agit du transfert de la responsabilité de l’achèvement d’un travail à une autre personne ou à un système d’intelligence artificielle.",
     "kisa_pt": "É a transferência da responsabilidade pela conclusão de um trabalho para outra pessoa ou sistema de inteligência artificial.",
-    "kisa_es": "Bir işin tamamlanması için sorumluluğun başka bir kişiye veya yapay zekâ sistemine devredilmesidir.",
+    "kisa_es": "Es la transferencia de la responsabilidad de la realización de un trabajo a otra persona o sistema de inteligencia artificial.",
     "kisa_de": "Dabei handelt es sich um die Übertragung der Verantwortung für die Erledigung einer Aufgabe auf eine andere Person oder ein künstliches Intelligenzsystem."
   },
   {
@@ -3464,7 +3464,7 @@
     "kisa_en": "It is the data produced by a computer program or artificial intelligence system as a result of the process.",
     "kisa_fr": "Ce sont les données produites par un programme informatique ou un système d’intelligence artificielle à la suite du processus.",
     "kisa_pt": "São os dados produzidos por um programa de computador ou sistema de inteligência artificial como resultado do processo.",
-    "kisa_es": "Bir bilgisayar programının veya yapay zekâ sisteminin işlem sonucunda ürettiği veridir.",
+    "kisa_es": "Son los datos producidos por un programa informático o sistema de inteligencia artificial como resultado del proceso.",
     "kisa_de": "Dabei handelt es sich um Daten, die von einem Computerprogramm oder einem System der künstlichen Intelligenz als Ergebnis des Prozesses erzeugt werden."
   },
   {
@@ -3500,7 +3500,7 @@
     "kisa_en": "It is a technology that detects human presence in an environment with the help of sensors or software.",
     "kisa_fr": "C'est une technologie qui détecte la présence humaine dans un environnement à l'aide de capteurs ou de logiciels.",
     "kisa_pt": "É uma tecnologia que detecta a presença humana em um ambiente com o auxílio de sensores ou softwares.",
-    "kisa_es": "Bir ortamda insan varlığını sensörler veya yazılım yardımıyla tespit eden teknolojidir.",
+    "kisa_es": "Es una tecnología que detecta la presencia humana en un entorno con la ayuda de sensores o software.",
     "kisa_de": "Dabei handelt es sich um eine Technologie, die mithilfe von Sensoren oder Software die Anwesenheit von Menschen in einer Umgebung erkennt."
   },
   {
@@ -3536,7 +3536,7 @@
     "kisa_en": "It means that a software can be run on your own infrastructure instead of outsourcing it.",
     "kisa_fr": "Cela signifie qu'un logiciel peut être exécuté sur votre propre infrastructure au lieu de l'externaliser.",
     "kisa_pt": "Isso significa que um software pode ser executado em sua própria infraestrutura, em vez de terceirizá-lo.",
-    "kisa_es": "Bir yazılımın dışarıdan hizmet almak yerine kendi altyapınızda çalıştırılabilir olmasıdır.",
+    "kisa_es": "Significa que un software se puede ejecutar en su propia infraestructura en lugar de subcontratarlo.",
     "kisa_de": "Dies bedeutet, dass eine Software auf Ihrer eigenen Infrastruktur ausgeführt werden kann, anstatt sie auszulagern."
   },
   {
@@ -3548,7 +3548,7 @@
     "kisa_en": "It is the revealing of the hidden instructions of artificial intelligence by the user.",
     "kisa_fr": "C’est la révélation des instructions cachées de l’intelligence artificielle par l’utilisateur.",
     "kisa_pt": "É a revelação das instruções ocultas da inteligência artificial pelo usuário.",
-    "kisa_es": "Yapay zekanın gizli talimatlarının kullanıcı tarafından ortaya çıkarılmasıdır.",
+    "kisa_es": "Es la revelación de las instrucciones ocultas de la inteligencia artificial por parte del usuario.",
     "kisa_de": "Es ist die Offenlegung der verborgenen Anweisungen der künstlichen Intelligenz durch den Benutzer."
   },
   {
@@ -5420,7 +5420,7 @@
     "kisa_en": "In order to increase the loading speed of the website, it is a method of dividing large code files into small pieces and loading them only when needed.",
     "kisa_fr": "Afin d'augmenter la vitesse de chargement du site Web, il s'agit d'une méthode permettant de diviser les gros fichiers de code en petits morceaux et de les charger uniquement en cas de besoin.",
     "kisa_pt": "Para aumentar a velocidade de carregamento do site, é um método de dividir grandes arquivos de código em pequenos pedaços e carregá-los somente quando necessário.",
-    "kisa_es": "Web sitesinin yüklenme hızını artırmak için büyük kod dosyalarını küçük parçalara bölüp sadece ihtiyaç anında yükleme yöntemidir.",
+    "kisa_es": "Para aumentar la velocidad de carga del sitio web, es un método que consiste en dividir archivos de código grandes en partes pequeñas y cargarlos solo cuando sea necesario.",
     "kisa_de": "Um die Ladegeschwindigkeit der Website zu erhöhen, werden große Codedateien in kleine Teile aufgeteilt und nur bei Bedarf geladen."
   },
   {
@@ -5468,7 +5468,7 @@
     "kisa_en": "It is a technique that allows artificial intelligence to respond to the same questions much faster and more consistently by keeping the information it has previously processed in its memory.",
     "kisa_fr": "C’est une technique qui permet à l’intelligence artificielle de répondre aux mêmes questions de manière beaucoup plus rapide et cohérente en gardant dans sa mémoire les informations qu’elle a préalablement traitées.",
     "kisa_pt": "É uma técnica que permite à inteligência artificial responder às mesmas perguntas com muito mais rapidez e consistência, mantendo na memória as informações que processou anteriormente.",
-    "kisa_es": "Yapay zekânın daha önce işlediği bilgileri hafızasında tutarak aynı sorulara çok daha hızlı ve tutarlı yanıt vermesini sağlayan tekniktir.",
+    "kisa_es": "Se trata de una técnica que permite a la inteligencia artificial responder a las mismas preguntas de forma mucho más rápida y consistente manteniendo en su memoria la información que ha procesado previamente.",
     "kisa_de": "Dabei handelt es sich um eine Technik, die es künstlicher Intelligenz ermöglicht, viel schneller und konsistenter auf dieselben Fragen zu antworten, indem sie die zuvor verarbeiteten Informationen in ihrem Gedächtnis behält."
   },
   {
@@ -5914,5 +5914,113 @@
     "kisa_pt": "É a cadeia de processos automatizados pela qual o software passa depois de desenvolvido e testado até chegar aos usuários.",
     "kisa_es": "Es la cadena de procesos automatizados por los que pasa el software desde que se desarrolla y prueba hasta que llega a los usuarios.",
     "kisa_de": "Es handelt sich um die Kette automatisierter Prozesse, die die Software nach der Entwicklung und dem Test durchläuft, bis sie die Benutzer erreicht."
+  },
+  {
+    "slug": "svg",
+    "en": "SVG",
+    "full": "Scalable Vector Graphics",
+    "cat": "dev",
+    "kisa": "Matematiksel formüllerle oluşturulan ve kalitesi bozulmadan istenildiği kadar büyütülebilen dijital görsel dosyasıdır.",
+    "kisa_en": "It is a digital image file created with mathematical formulas and can be enlarged as desired without losing quality.",
+    "kisa_fr": "Il s'agit d'un fichier d'image numérique créé avec des formules mathématiques et qui peut être agrandi à volonté sans perte de qualité.",
+    "kisa_pt": "É um arquivo de imagem digital criado com fórmulas matemáticas e que pode ser ampliado conforme desejado sem perder qualidade.",
+    "kisa_es": "Es un archivo de imagen digital creado con fórmulas matemáticas y se puede ampliar según se desee sin perder calidad.",
+    "kisa_de": "Es handelt sich um eine mit mathematischen Formeln erstellte digitale Bilddatei, die beliebig vergrößert werden kann, ohne an Qualität zu verlieren."
+  },
+  {
+    "slug": "web-scraper",
+    "en": "Web Scraper",
+    "full": "",
+    "cat": "data",
+    "kisa": "İnternet sitelerindeki verileri otomatik olarak toplayıp düzenli bir listeye dönüştüren yazılım aracıdır.",
+    "kisa_en": "It is a software tool that automatically collects data from websites and turns it into an organized list.",
+    "kisa_fr": "Il s'agit d'un outil logiciel qui collecte automatiquement les données des sites Web et les transforme en une liste organisée.",
+    "kisa_pt": "É uma ferramenta de software que coleta automaticamente dados de sites e os transforma em uma lista organizada.",
+    "kisa_es": "Es una herramienta de software que recopila automáticamente datos de sitios web y los convierte en una lista organizada.",
+    "kisa_de": "Es handelt sich um ein Softwaretool, das automatisch Daten von Websites sammelt und in eine organisierte Liste umwandelt."
+  },
+  {
+    "slug": "powerpoint",
+    "en": "PowerPoint",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgileri görsel slaytlar halinde sunmanızı sağlayan bir sunum hazırlama programıdır.",
+    "kisa_en": "It is a presentation preparation program that allows you to present information in visual slides.",
+    "kisa_fr": "Il s'agit d'un programme de préparation de présentation qui vous permet de présenter des informations sous forme de diapositives visuelles.",
+    "kisa_pt": "É um programa de preparação de apresentações que permite apresentar informações em slides visuais.",
+    "kisa_es": "Es un programa de preparación de presentaciones que le permite presentar información en diapositivas visuales.",
+    "kisa_de": "Es handelt sich um ein Präsentationsvorbereitungsprogramm, mit dem Sie Informationen in visuellen Folien präsentieren können."
+  },
+  {
+    "slug": "lora",
+    "en": "LoRA",
+    "full": "Low-Rank Adaptation",
+    "cat": "ai",
+    "kisa": "Büyük bir yapay zekâ modelini, tümünü değiştirmeden sadece küçük bir kısmını güncelleyerek belirli bir konuda uzmanlaştırma tekniğidir.",
+    "kisa_en": "It is a technique of making a large artificial intelligence model specialize in a particular subject by updating only a small part of it without changing the entire model.",
+    "kisa_fr": "Il s’agit d’une technique qui consiste à spécialiser un grand modèle d’intelligence artificielle sur un sujet particulier en n’en mettant à jour qu’une petite partie sans changer l’ensemble du modèle.",
+    "kisa_pt": "É uma técnica de fazer com que um grande modelo de inteligência artificial se especialize em um determinado assunto, atualizando apenas uma pequena parte dele sem alterar todo o modelo.",
+    "kisa_es": "Es una técnica para hacer que un gran modelo de inteligencia artificial se especialice en un tema en particular actualizando solo una pequeña parte sin cambiar todo el modelo.",
+    "kisa_de": "Dabei handelt es sich um eine Technik, mit der ein großes Modell der künstlichen Intelligenz auf ein bestimmtes Thema spezialisiert wird, indem nur ein kleiner Teil davon aktualisiert wird, ohne das gesamte Modell zu ändern."
+  },
+  {
+    "slug": "stt",
+    "en": "STT",
+    "full": "Speech-to-Text",
+    "cat": "ai",
+    "kisa": "Konuşulan kelimeleri dinleyip bunları yazılı metne dönüştüren teknolojidir.",
+    "kisa_en": "It is technology that listens to spoken words and converts them into written text.",
+    "kisa_fr": "C'est une technologie qui écoute les paroles prononcées et les convertit en texte écrit.",
+    "kisa_pt": "É a tecnologia que ouve palavras faladas e as converte em texto escrito.",
+    "kisa_es": "Es tecnología que escucha palabras habladas y las convierte en texto escrito.",
+    "kisa_de": "Es handelt sich um eine Technologie, die gesprochene Wörter abhört und sie in geschriebenen Text umwandelt."
+  },
+  {
+    "slug": "byok",
+    "en": "BYOK",
+    "full": "Bring Your Own Key",
+    "cat": "dev",
+    "kisa": "Kullanıcının kendi verilerini şifrelemek için kendi güvenlik anahtarlarını getirmesine izin veren bir güvenlik yaklaşımıdır.",
+    "kisa_en": "It is a security approach that allows the user to bring their own security keys to encrypt their own data.",
+    "kisa_fr": "Il s'agit d'une approche de sécurité qui permet à l'utilisateur d'apporter ses propres clés de sécurité pour chiffrer ses propres données.",
+    "kisa_pt": "É uma abordagem de segurança que permite ao usuário trazer suas próprias chaves de segurança para criptografar seus próprios dados.",
+    "kisa_es": "Es un enfoque de seguridad que permite al usuario traer sus propias claves de seguridad para cifrar sus propios datos.",
+    "kisa_de": "Es handelt sich um einen Sicherheitsansatz, der es dem Benutzer ermöglicht, seine eigenen Sicherheitsschlüssel mitzubringen, um seine eigenen Daten zu verschlüsseln."
+  },
+  {
+    "slug": "plugin-specification",
+    "en": "Plugin Specification",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılıma dışarıdan eklenti geliştirmek için uyulması gereken teknik kurallar bütünüdür.",
+    "kisa_en": "It is a set of technical rules that must be followed to develop external add-ons for a software.",
+    "kisa_fr": "Il s'agit d'un ensemble de règles techniques qui doivent être suivies pour développer des modules complémentaires externes pour un logiciel.",
+    "kisa_pt": "É um conjunto de regras técnicas que devem ser seguidas para desenvolver complementos externos para um software.",
+    "kisa_es": "Es un conjunto de reglas técnicas que se deben seguir para desarrollar complementos externos para un software.",
+    "kisa_de": "Dabei handelt es sich um eine Reihe technischer Regeln, die bei der Entwicklung externer Add-ons für eine Software befolgt werden müssen."
+  },
+  {
+    "slug": "cyber-capabilities",
+    "en": "Cyber Capabilities",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Dijital sistemleri korumak veya bu sistemlere müdahale etmek için kullanılan teknik yetenekler ve araçlardır.",
+    "kisa_en": "They are technical capabilities and tools used to protect or intervene in digital systems.",
+    "kisa_fr": "Ce sont des capacités techniques et des outils utilisés pour protéger ou intervenir dans les systèmes numériques.",
+    "kisa_pt": "São capacidades técnicas e ferramentas utilizadas para proteger ou intervir em sistemas digitais.",
+    "kisa_es": "Son capacidades y herramientas técnicas utilizadas para proteger o intervenir en sistemas digitales.",
+    "kisa_de": "Dabei handelt es sich um technische Fähigkeiten und Werkzeuge, die zum Schutz oder zum Eingriff in digitale Systeme dienen."
+  },
+  {
+    "slug": "fp8",
+    "en": "FP8",
+    "full": "8-bit Floating Point",
+    "cat": "ai",
+    "kisa": "Yapay zekâ hesaplamalarını hızlandırmak için sayıları daha az yer kaplayacak şekilde temsil eden bir veri formatıdır.",
+    "kisa_en": "It is a data format that represents numbers in a smaller footprint to speed up artificial intelligence calculations.",
+    "kisa_fr": "Il s'agit d'un format de données qui représente les nombres dans un format plus petit pour accélérer les calculs de l'intelligence artificielle.",
+    "kisa_pt": "É um formato de dados que representa números em um espaço menor para acelerar os cálculos de inteligência artificial.",
+    "kisa_es": "Es un formato de datos que representa números en un espacio más pequeño para acelerar los cálculos de la inteligencia artificial.",
+    "kisa_de": "Es handelt sich um ein Datenformat, das Zahlen auf kleinerem Raum darstellt, um Berechnungen der künstlichen Intelligenz zu beschleunigen."
   }
 ]

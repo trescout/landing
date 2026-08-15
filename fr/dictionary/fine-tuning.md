@@ -30,6 +30,7 @@ Non, la mise au point est un processus permanent ; Il est beaucoup plus logique 
 
 ## Outils liés
 - [Transformers](/fr/discover/transformers/)
+- [Unsloth](/fr/discover/unsloth/)
 - [Ktransformers](/fr/discover/ktransformers/)
 
 ---

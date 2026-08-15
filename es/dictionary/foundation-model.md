@@ -33,6 +33,7 @@ Generalmente lo fabrican grandes empresas de tecnología porque requiere una gra
 - [Kronos](/es/discover/kronos/)
 - [Timesfm](/es/discover/timesfm/)
 - [Lingbot Map](/es/discover/lingbot-map/)
+- [Needle](/es/discover/needle/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/foundation-model/

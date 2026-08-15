@@ -25,6 +25,7 @@ Cuando el sistema falla, la única forma de saber por qué es leer los registros
 
 ## Herramientas relacionadas
 - [Grafana](/es/discover/grafana/)
+- [Modly](/es/discover/modly/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/logs/

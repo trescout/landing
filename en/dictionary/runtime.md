@@ -35,6 +35,7 @@ Yes, every software that can run needs a working environment.
 - [BUN](/en/discover/bun/)
 - [Svelte](/en/discover/svelte/)
 - [Flue](/en/discover/flue/)
+- [Switchyard](/en/discover/switchyard/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/runtime/

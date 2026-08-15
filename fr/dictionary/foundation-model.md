@@ -33,6 +33,7 @@ Il est généralement réalisé par de grandes entreprises technologiques car il
 - [Kronos](/fr/discover/kronos/)
 - [Timesfm](/fr/discover/timesfm/)
 - [Lingbot Map](/fr/discover/lingbot-map/)
+- [Needle](/fr/discover/needle/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/foundation-model/

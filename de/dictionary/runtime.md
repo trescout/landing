@@ -33,6 +33,7 @@ Ja, jede lauffähige Software benötigt eine Arbeitsumgebung.
 - [BUN](/de/discover/bun/)
 - [Svelte](/de/discover/svelte/)
 - [Flue](/de/discover/flue/)
+- [Switchyard](/de/discover/switchyard/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/runtime/

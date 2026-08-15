@@ -30,6 +30,7 @@ Sí, es una buena práctica actualizar los flujos de trabajo y hacerlos más efi
 ## Herramientas relacionadas
 - [Gstack](/es/discover/gstack/)
 - [MinerU](/es/discover/mineru/)
+- [Modly](/es/discover/modly/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/workflows/

@@ -33,6 +33,7 @@ It increases it to the required level, and the excess remains idle.
 
 ## Related tools
 - [Llmfit](/en/discover/llmfit/)
+- [Needle](/en/discover/needle/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ram/

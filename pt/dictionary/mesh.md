@@ -26,6 +26,7 @@ Como não estão conectados a um único ponto, o risco de colapso do sistema é 
 - [Meshery](/pt/discover/meshery/)
 - [Meshoptimizer](/pt/discover/meshoptimizer/)
 - [Bitchat Android](/pt/discover/bitchat-android/)
+- [Modly](/pt/discover/modly/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/mesh/

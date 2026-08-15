@@ -25,6 +25,7 @@ Quando o sistema trava, a única maneira de descobrir o motivo é lendo os logs.
 
 ## Ferramentas relacionadas
 - [Grafana](/pt/discover/grafana/)
+- [Modly](/pt/discover/modly/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/logs/

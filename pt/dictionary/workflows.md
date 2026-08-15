@@ -30,6 +30,7 @@ Sim, é uma prática recomendada atualizar os fluxos de trabalho e torná-los ma
 ## Ferramentas relacionadas
 - [Gstack](/pt/discover/gstack/)
 - [MinerU](/pt/discover/mineru/)
+- [Modly](/pt/discover/modly/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/workflows/

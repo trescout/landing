@@ -37,8 +37,8 @@ Oui, de nouvelles fonctionnalités peuvent être ajoutées à un modèle avec l�
 - [Awesome Claude Skills](/fr/discover/awesome-claude-skills/)
 - [Awesome Claude Code](/fr/discover/awesome-claude-code/)
 - [OpenMontage](/fr/discover/openmontage/)
+- [Obsidian Skills](/fr/discover/obsidian-skills/)
 - [Anthropic Cybersecurity Skills](/fr/discover/anthropic-cybersecurity-skills/)
-- [Pm Skills](/fr/discover/pm-skills/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/ai-skills/

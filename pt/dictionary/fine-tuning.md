@@ -30,6 +30,7 @@ Não, o ajuste fino é um processo permanente; Faz muito mais sentido usar o RAG
 
 ## Ferramentas relacionadas
 - [Transformers](/pt/discover/transformers/)
+- [Unsloth](/pt/discover/unsloth/)
 - [Ktransformers](/pt/discover/ktransformers/)
 
 ---

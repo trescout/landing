@@ -25,6 +25,7 @@ Wenn das System abstürzt, können Sie die Ursache nur durch Lesen der Protokoll
 
 ## Verwandte Werkzeuge
 - [Grafana](/de/discover/grafana/)
+- [Modly](/de/discover/modly/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/logs/

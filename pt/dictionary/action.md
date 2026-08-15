@@ -27,5 +27,8 @@ Prompt é uma solicitação, ação é a ação concreta que ocorre como resulta
 - [Tools](/pt/dictionary/tools/)
 - [Agentic Workflows](/pt/dictionary/agentic-workflows/)
 
+## Ferramentas relacionadas
+- [Embabel Agent](/pt/discover/embabel-agent/)
+
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/action/

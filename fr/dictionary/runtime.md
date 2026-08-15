@@ -33,6 +33,7 @@ Oui, tout logiciel pouvant fonctionner a besoin d’un environnement de travail.
 - [BUN](/fr/discover/bun/)
 - [Svelte](/fr/discover/svelte/)
 - [Flue](/fr/discover/flue/)
+- [Switchyard](/fr/discover/switchyard/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/runtime/

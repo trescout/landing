@@ -25,13 +25,13 @@ Weil es sehr schnell ist und Softwarefehler deutlich reduziert.
 
 ## Verwandte Werkzeuge
 - [Next.js](/de/discover/next-js/)
+- [Rustdesk](/de/discover/rustdesk/)
 - [Deno](/de/discover/deno/)
 - [BUN](/de/discover/bun/)
 - [RuView](/de/discover/ruview/)
 - [OpenCut](/de/discover/opencut/)
 - [Openinterpreter](/de/discover/openinterpreter/)
 - [Goose](/de/discover/goose/)
-- [AI Engineering from Scratch](/de/discover/ai-engineering-from-scratch/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/rust/

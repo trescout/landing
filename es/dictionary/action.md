@@ -27,5 +27,8 @@ Aviso es una solicitud, acción es la acción concreta que tiene lugar como resu
 - [Tools](/es/dictionary/tools/)
 - [Agentic Workflows](/es/dictionary/agentic-workflows/)
 
+## Herramientas relacionadas
+- [Embabel Agent](/es/discover/embabel-agent/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/action/

@@ -34,12 +34,12 @@ No, si tus documentos están almacenados en tu propio ordenador o servidor, pued
 ## Herramientas relacionadas
 - [MarkItDown](/es/discover/markitdown/)
 - [Awesome LLM Apps](/es/discover/awesome-llm-apps/)
+- [Ragflow](/es/discover/ragflow/)
 - [AI Agent Book](/es/discover/ai-agent-book/)
 - [DeepTutor](/es/discover/deeptutor/)
 - [Opendataloader PDF](/es/discover/opendataloader-pdf/)
 - [Turbovec](/es/discover/turbovec/)
 - [Liteparse](/es/discover/liteparse/)
-- [Production Agentic RAG Course](/es/discover/production-agentic-rag-course/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/rag/

@@ -54,7 +54,7 @@ Grafana kullanmaya başlamak için resmî web sitesi olan grafana.com/get adresi
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Logs Traces
+Traces Logs
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/grafana/

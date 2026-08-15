@@ -27,13 +27,13 @@ Because it is very fast and significantly reduces software errors.
 
 ## Related tools
 - [Next.js](/en/discover/next-js/)
+- [Rustdesk](/en/discover/rustdesk/)
 - [Deno](/en/discover/deno/)
 - [BUN](/en/discover/bun/)
 - [RuView](/en/discover/ruview/)
 - [OpenCut](/en/discover/opencut/)
 - [Openinterpreter](/en/discover/openinterpreter/)
 - [Goose](/en/discover/goose/)
-- [AI Engineering from Scratch](/en/discover/ai-engineering-from-scratch/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/rust/

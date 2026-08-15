@@ -32,9 +32,9 @@ Dado que las computadoras entienden números, no palabras, necesitamos convertir
 - [OmniRoute](/es/discover/omniroute/)
 - [Codebase Memory MCP](/es/discover/codebase-memory-mcp/)
 - [Code Review Graph](/es/discover/code-review-graph/)
+- [Open Code Review](/es/discover/open-code-review/)
 - [Book to Skill](/es/discover/book-to-skill/)
 - [TencentDB-Agent-Memory](/es/discover/tencentdb-agent-memory/)
-- [Open Code Review](/es/discover/open-code-review/)
 - [LMCache](/es/discover/lmcache/)
 
 ---

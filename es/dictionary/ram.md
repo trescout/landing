@@ -31,6 +31,7 @@ Lo aumenta al nivel requerido y el exceso permanece inactivo.
 
 ## Herramientas relacionadas
 - [Llmfit](/es/discover/llmfit/)
+- [Needle](/es/discover/needle/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ram/

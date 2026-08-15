@@ -32,6 +32,7 @@ No, fine-tuning is a permanent process; It makes much more sense to use RAG for 
 
 ## Related tools
 - [Transformers](/en/discover/transformers/)
+- [Unsloth](/en/discover/unsloth/)
 - [Ktransformers](/en/discover/ktransformers/)
 
 ---

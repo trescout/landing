@@ -30,6 +30,7 @@ Oui, il est recommandé de mettre à jour les flux de travail et de les rendre p
 ## Outils liés
 - [Gstack](/fr/discover/gstack/)
 - [MinerU](/fr/discover/mineru/)
+- [Modly](/fr/discover/modly/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/workflows/

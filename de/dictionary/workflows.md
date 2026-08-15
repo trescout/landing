@@ -30,6 +30,7 @@ Ja, es ist eine bewährte Vorgehensweise, Arbeitsabläufe zu aktualisieren und e
 ## Verwandte Werkzeuge
 - [Gstack](/de/discover/gstack/)
 - [MinerU](/de/discover/mineru/)
+- [Modly](/de/discover/modly/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/workflows/

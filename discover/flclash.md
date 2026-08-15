@@ -24,12 +24,12 @@ _Görsel: FlClash (proje deposundan)_
 - Açık kaynaklı ClashMeta gücü.
 
 ## Kullanım notu
+Bir proxy istemcisi yalnızca araçtır; bulunduğunuz ülkenin yasalarına ve kullandığınız servislerin şartlarına uygun kullanmak sizin sorumluluğunuzdadır. 
 
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 FlClash adlı çok platformlu açık kaynaklı proxy istemcisini kullanmak istiyorum; GitHub Releases sayfasından (https://github.com/chen08209/FlClash/releases) işletim sistemime (Android, Windows, macOS ya da Linux) uygun kurulum dosyasını indirip kurmama ve bir abonelik bağlantısı ekleyerek yapılandırmama yardım et.
 
-Bir proxy istemcisi yalnızca araçtır; bulunduğunuz ülkenin yasalarına ve kullandığınız servislerin şartlarına uygun kullanmak sizin sorumluluğunuzdadır. 
 Lisans: GPL-3.0 · kullanımı serbest; yazılımı değiştirip dağıtırsanız değişikliklerinizi de aynı GPL lisansıyla, kaynak koduyla paylaşmanız gerekir (copyleft). 
 
 ## Bağlantılar

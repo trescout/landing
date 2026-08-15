@@ -31,6 +31,7 @@ Es erhöht es auf das erforderliche Niveau und der Überschuss bleibt im Leerlau
 
 ## Verwandte Werkzeuge
 - [Llmfit](/de/discover/llmfit/)
+- [Needle](/de/discover/needle/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ram/

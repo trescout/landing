@@ -26,6 +26,7 @@ Da sie nicht mit einem einzigen Punkt verbunden sind, ist die Gefahr eines Syste
 - [Meshery](/de/discover/meshery/)
 - [Meshoptimizer](/de/discover/meshoptimizer/)
 - [Bitchat Android](/de/discover/bitchat-android/)
+- [Modly](/de/discover/modly/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/mesh/

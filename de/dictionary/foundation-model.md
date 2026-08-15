@@ -33,6 +33,7 @@ Es wird normalerweise von großen Technologieunternehmen hergestellt, da es eine
 - [Kronos](/de/discover/kronos/)
 - [Timesfm](/de/discover/timesfm/)
 - [Lingbot Map](/de/discover/lingbot-map/)
+- [Needle](/de/discover/needle/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/foundation-model/

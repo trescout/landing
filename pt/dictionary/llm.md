@@ -35,11 +35,11 @@ Não, ele está apenas fazendo previsões baseadas em probabilidades matemática
 - [Awesome LLM Apps](/pt/discover/awesome-llm-apps/)
 - [MoneyPrinterTurbo](/pt/discover/moneyprinterturbo/)
 - [TradingAgents](/pt/discover/tradingagents/)
+- [Ragflow](/pt/discover/ragflow/)
 - [Deer Flow](/pt/discover/deer-flow/)
 - [Crawl4AI](/pt/discover/crawl4ai/)
+- [Unsloth](/pt/discover/unsloth/)
 - [MiroFish](/pt/discover/mirofish/)
-- [Goose](/pt/discover/goose/)
-- [Continue](/pt/discover/continue/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/llm/

@@ -29,5 +29,8 @@ Prompt is a request, action is the concrete action that takes place as a result 
 - [Tools](/en/dictionary/tools/)
 - [Agentic Workflows](/en/dictionary/agentic-workflows/)
 
+## Related tools
+- [Embabel Agent](/en/discover/embabel-agent/)
+
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/action/

@@ -30,6 +30,7 @@ Nein, Feinabstimmung ist ein permanenter Prozess; Für aktuelle Informationen is
 
 ## Verwandte Werkzeuge
 - [Transformers](/de/discover/transformers/)
+- [Unsloth](/de/discover/unsloth/)
 - [Ktransformers](/de/discover/ktransformers/)
 
 ---
