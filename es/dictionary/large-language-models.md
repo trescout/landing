@@ -30,5 +30,15 @@ Aprenden las probabilidades de que las palabras se sucedan analizando relaciones
 - [Generative AI](/es/dictionary/generative-ai/)
 - [Transformer](/es/dictionary/transformer/)
 
+## Herramientas relacionadas
+- [Llama.cpp](/es/discover/llama-cpp/)
+- [PaddleOCR](/es/discover/paddleocr/)
+- [MinerU](/es/discover/mineru/)
+- [Daily Stock Analysis](/es/discover/daily-stock-analysis/)
+- [Mempalace](/es/discover/mempalace/)
+- [Dive Into Llms](/es/discover/dive-into-llms/)
+- [AstrBot](/es/discover/astrbot/)
+- [Codex Plugin Cc](/es/discover/codex-plugin-cc/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/large-language-models/

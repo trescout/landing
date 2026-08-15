@@ -29,5 +29,15 @@ Por lo general, las conexiones API o bloques de código especiales se escriben p
 - [Tools](/es/dictionary/tools/)
 - [AI Capabilities](/es/dictionary/ai-capabilities/)
 
+## Herramientas relacionadas
+- [Anthropic Skills](/es/discover/anthropic-skills/)
+- [Taste Skill](/es/discover/taste-skill/)
+- [Awesome Claude Skills](/es/discover/awesome-claude-skills/)
+- [Last30days Skill](/es/discover/last30days-skill/)
+- [OfficeCLI](/es/discover/officecli/)
+- [Reverse Skill](/es/discover/reverse-skill/)
+- [Book to Skill](/es/discover/book-to-skill/)
+- [Video Use](/es/discover/video-use/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/skill/

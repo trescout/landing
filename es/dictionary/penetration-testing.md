@@ -24,5 +24,8 @@ No, al realizarse en un entorno controlado no tiene otra finalidad que la de aum
 - [Vulnerability Scanning](/es/dictionary/vulnerability-scanning/)
 - [Cybersecurity Skills](/es/dictionary/cybersecurity-skills/)
 
+## Herramientas relacionadas
+- [Pentagi](/es/discover/pentagi/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/penetration-testing/

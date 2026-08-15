@@ -30,5 +30,15 @@ Sí, se pueden agregar nuevas capacidades a un modelo con la infraestructura y l
 - [API](/es/dictionary/api/)
 - [AI Agent](/es/dictionary/ai-agent/)
 
+## Herramientas relacionadas
+- [Anthropic Skills](/es/discover/anthropic-skills/)
+- [Agent Skills](/es/discover/agent-skills/)
+- [Taste Skill](/es/discover/taste-skill/)
+- [Awesome Claude Skills](/es/discover/awesome-claude-skills/)
+- [Awesome Claude Code](/es/discover/awesome-claude-code/)
+- [OpenMontage](/es/discover/openmontage/)
+- [Anthropic Cybersecurity Skills](/es/discover/anthropic-cybersecurity-skills/)
+- [Pm Skills](/es/discover/pm-skills/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-skills/

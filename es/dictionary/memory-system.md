@@ -27,5 +27,8 @@ Sólo se recuerda la información que el sistema puede guardar o que se consider
 - [Memory Engine](/es/dictionary/memory-engine/)
 - [Context Window](/es/dictionary/context-window/)
 
+## Herramientas relacionadas
+- [Mempalace](/es/discover/mempalace/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/memory-system/

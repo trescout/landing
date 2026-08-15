@@ -27,5 +27,8 @@ Sí, la inteligencia artificial, que sigue los movimientos faciales del usuario,
 - [Generative AI](/es/dictionary/generative-ai/)
 - [Design Language](/es/dictionary/design-language/)
 
+## Herramientas relacionadas
+- [Open-LLM-VTuber](/es/discover/open-llm-vtuber/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/live2d/

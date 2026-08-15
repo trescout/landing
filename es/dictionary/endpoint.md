@@ -24,5 +24,8 @@ Porque la mayoría de los ciberataques comienzan infiltrándose en la red a trav
 - [VPN](/es/dictionary/vpn/)
 - [Security Scanner](/es/dictionary/security-scanner/)
 
+## Herramientas relacionadas
+- [OmniRoute](/es/discover/omniroute/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/endpoint/

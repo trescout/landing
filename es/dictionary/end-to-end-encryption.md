@@ -29,5 +29,8 @@ No, no todas las aplicaciones ofrecen esta función; Debes verificarlo en la con
 - [Linux Server Security](/es/dictionary/linux-server-security/)
 - [SSO](/es/dictionary/sso/)
 
+## Herramientas relacionadas
+- [Croc](/es/discover/croc/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/end-to-end-encryption/

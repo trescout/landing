@@ -24,5 +24,8 @@ Es seguro siempre que pueda controlar qué operaciones permite que realice la IA
 - [Autonomous Agent](/es/dictionary/autonomous-agent/)
 - [Agentic AI](/es/dictionary/agentic-ai/)
 
+## Herramientas relacionadas
+- [Cwc Workshops](/es/discover/cwc-workshops/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/computer-use/

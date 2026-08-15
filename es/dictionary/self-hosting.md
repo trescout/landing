@@ -27,5 +27,13 @@ Sí, requiere conocimientos básicos de administración de servidores y redes.
 - [Observability](/es/dictionary/observability/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Penpot](/es/discover/penpot/)
+- [Plane](/es/discover/plane/)
+- [Twenty](/es/discover/twenty/)
+- [AIRI](/es/discover/airi/)
+- [Self-Hosting-Guide](/es/discover/self-hosting-guide/)
+- [OpenStock](/es/discover/openstock/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/self-hosting/

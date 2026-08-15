@@ -27,5 +27,8 @@ Sí, si dos trabajos entran en conflicto al mismo tiempo, pueden producirse erro
 - [Runtime](/es/dictionary/runtime/)
 - [Computer Science](/es/dictionary/computer-science/)
 
+## Herramientas relacionadas
+- [GO](/es/discover/go/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/concurrency/

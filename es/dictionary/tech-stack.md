@@ -21,5 +21,8 @@ Porque afecta directamente la rapidez con la que crecerá el proyecto y la facil
 - [Database](/es/dictionary/database/)
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 
+## Herramientas relacionadas
+- [Clone-Wars](/es/discover/clone-wars/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/tech-stack/

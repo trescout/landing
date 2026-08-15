@@ -28,5 +28,8 @@ Sí, la mayoría de los sistemas agentes están diseñados para aprender de la e
 - [Agentic AI](/es/dictionary/agentic-ai/)
 - [Self-orchestration](/es/dictionary/self-orchestration/)
 
+## Herramientas relacionadas
+- [OpenMontage](/es/discover/openmontage/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agentic-system/

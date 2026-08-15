@@ -21,5 +21,8 @@ Sí, la mayoría de las plantillas se pueden modificar más adelante para adapta
 - [Coding Agents](/es/dictionary/coding-agent/)
 - [Tech Stack](/es/dictionary/tech-stack/)
 
+## Herramientas relacionadas
+- [Claude Code Templates](/es/discover/claude-code-templates/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/claude-code-templates/

@@ -27,5 +27,14 @@ Un sandbox bien estructurado restringe por completo la comunicación con el mund
 - [Containers](/es/dictionary/containers/)
 - [Security Scanner](/es/dictionary/security-scanner/)
 
+## Herramientas relacionadas
+- [Deer Flow](/es/discover/deer-flow/)
+- [MiroFish](/es/discover/mirofish/)
+- [CUA](/es/discover/cua/)
+- [iii](/es/discover/iii/)
+- [CubeSandbox](/es/discover/cubesandbox/)
+- [Flue](/es/discover/flue/)
+- [RLM](/es/discover/rlm/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sandbox/

@@ -27,5 +27,8 @@ Su código deja de procesarse porque el procesamiento ocurre en el servidor remo
 - [Compilation](/es/dictionary/compilation/)
 - [CLI](/es/dictionary/cli/)
 
+## Herramientas relacionadas
+- [SWC](/es/discover/swc/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/web-compiler/

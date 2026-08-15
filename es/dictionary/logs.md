@@ -23,5 +23,8 @@ Cuando el sistema falla, la única forma de saber por qué es leer los registros
 - [Observability](/es/dictionary/observability/)
 - [QA](/es/dictionary/qa/)
 
+## Herramientas relacionadas
+- [Grafana](/es/discover/grafana/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/logs/

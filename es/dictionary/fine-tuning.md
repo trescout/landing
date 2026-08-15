@@ -22,5 +22,15 @@ Se ha vuelto mucho más accesible que antes, pero aún requiere una gran potenci
 No, el ajuste es un proceso permanente; Tiene mucho más sentido utilizar RAG para obtener información actualizada.
 
 
+## Términos relacionados
+- [Foundation Model](/es/dictionary/foundation-model/)
+- [LLM](/es/dictionary/llm/)
+- [RLHF](/es/dictionary/rlhf/)
+- [Distillation](/es/dictionary/distillation/)
+
+## Herramientas relacionadas
+- [Transformers](/es/discover/transformers/)
+- [Ktransformers](/es/discover/ktransformers/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/fine-tuning/

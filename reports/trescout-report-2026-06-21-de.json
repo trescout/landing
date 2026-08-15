@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-21",
+  "editorial": "Open-Source-Schnittstellendesign (UI-Design) und Datenverwaltungstools stehen auf der heutigen Technologieagenda im Vordergrund. Neue Bibliotheken, insbesondere im Bereich der Modellkontext- und Zeitreihenvorhersage, konzentrieren sich auf die Optimierung der Datenverarbeitungsprozesse von Entwicklern.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro wurde als macOS-basierter Videoeditor entwickelt, der durch künstliche Intelligenz unterstützte Bearbeitungswerkzeuge integriert. Diese in der Swift-Sprache geschriebene Anwendung zielt darauf ab, generative KI-Funktionen in Videoverarbeitungsprozessen zu nutzen.",
+          "meta": "Swift · ★ 3.871 · +902 heute"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot ist ein Open-Source-Designtool, das entwickelt wurde, um die Zusammenarbeit zwischen Designern und Softwareentwicklern zu stärken. Die in der Sprache Clojure geschriebene Plattform zielt darauf ab, Designprozesse in codebasierte Arbeitsabläufe zu integrieren.",
+          "meta": "Clojure · ★ 51.765 · +420 heute"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage ist ein agentenbasiertes Open-Source-System, das KI-gestützte Codierungsassistenten in ein umfassendes Videoproduktionsstudio verwandelt. Diese Python-basierte Plattform automatisiert Videoproduktionsprozesse mit 12 verschiedenen Pipelines und mehr als 500 Agentenfähigkeiten.",
+          "meta": "Python · ★ 7.346 · +677 heute"
+        },
+        {
+          "title": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "summary": "Turso bietet eine In-Process-SQL-Datenbank, die mit SQLite kompatibel ist. Dieses in der Rust-Sprache entwickelte System vereinfacht Datenverwaltungsprozesse durch die Integration in Anwendungsprozesse.",
+          "meta": "Rust · ★ 20.466 · +801 heute"
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp bietet leistungsstarke Code-Intelligenz durch die Indizierung von Codebasen auf einem permanenten Wissensgraphen. Dieser in C-Sprache entwickelte Server unterstützt 158 ​​Programmiersprachen, reduziert die Abfragezeiten auf unter Millisekunden und reduziert die Token-Nutzung.",
+          "meta": "C · ★ 9.661 · +1.271 heute"
+        },
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "Das von Google Research entwickelte Time Series Foundation Model bietet eine vorab trainierte Architektur für Prognoseaufgaben. Dieses Modell wird auf großen Datensätzen trainiert, um Zeitreihendaten zu analysieren und zukünftige Vorhersagen zu erstellen.",
+          "meta": "Python · ★ 24.672 · +433 heute"
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty ist eine Open-Source-CRM-Plattform (Customer Relationship Management), die mit auf künstlicher Intelligenz basierenden Funktionen entwickelt wurde. Ziel des in TypeScript geschriebenen Projekts ist es, eine moderne und flexible Alternative zu traditioneller Unternehmenssoftware anzubieten.",
+          "meta": "TypeScript · ★ 50.959 · +140 heute"
+        },
+        {
+          "title": "Kong/insomnia",
+          "url": "https://github.com/Kong/insomnia",
+          "summary": "Insomnia ist ein Open-Source-API-Client (Application Programming Interface), der die Protokolle GraphQL, REST, WebSockets, SSE und gRPC unterstützt. Benutzer können Netzwerkanfragen mit Cloud-, lokalem Speicher und Git-Integrationsoptionen verwalten und testen.",
+          "meta": "TypeScript · ★ 39.433 · +329 heute"
+        },
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom reduziert die Token-Nutzung um 60 bis 95 Prozent durch die Komprimierung von Protokolldateien, Tool-Ausgaben und Information Retrieval (RAG)-Fragmenten, die an große Sprachmodelle (LLMs) gesendet werden. Das Tool, das als Bibliothek, Proxy und Model Context Protocol (MCP)-Server verwendet werden kann, bietet Kosteneffizienz bei gleichzeitiger Beibehaltung der Modellleistung.",
+          "meta": "Python · ★ 42.513 · +3.795 heute"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox ist ein Open-Source-Sprachstudio mit künstlicher Intelligenz, das es Benutzern ermöglicht, Stimmen zu klonen, zu diktieren und Inhalte zu erstellen. Diese mit der TypeScript-Sprache entwickelte Plattform bietet umfassende Tools zur Verwaltung von Audioverarbeitungsprozessen in der nativen Umgebung.",
+          "meta": "TypeScript · ★ 31.156 · +145 heute"
+        },
+        {
+          "title": "Kilo-Org/kilocode",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "summary": "Kilo ist eine All-in-One-Agenten-basierte Engineering-Plattform, die Softwareentwicklungsprozesse automatisiert. Ziel ist es, die Erstellungs-, Vertriebs- und Entwicklungsprozesse von Softwareprojekten dank seines Open-Source-Coding-Agenten zu beschleunigen.",
+          "meta": "TypeScript · ★ 23.477 · +513 heute"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Dieses von Matt Pocock geteilte Repository bietet Kompetenzpakete, die es Softwareentwicklern ermöglichen, Assistenten für künstliche Intelligenz mit strukturierten Befehlen zu verwalten. Benutzer automatisieren komplexe Entwicklungsprozesse mit diesen vorgefertigten Anweisungen, die direkt über das Claude-Verzeichnis zugänglich sind.",
+          "meta": "Shell · ★ 138.647 · +1.395 heute"
+        },
+        {
+          "title": "withastro/flue",
+          "url": "https://github.com/withastro/flue",
+          "summary": "Flue wurde vom Astro-Team entwickelt und bietet ein TypeScript-basiertes Sandbox-Agent-Framework. Es ermöglicht Softwareentwicklern, Agenten für künstliche Intelligenz in sicheren und isolierten Umgebungen zu erstellen.",
+          "meta": "TypeScript · ★ 6.188 · +316 heute"
+        },
+        {
+          "title": "owainlewis/awesome-artificial-intelligence",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+          "summary": "Das Awesome-Artificial-Intelligence-Repository sammelt Schulungen, Bücher, Videolektionen und wissenschaftliche Artikel im Bereich der künstlichen Intelligenz in einem einzigen Zentrum. Diese Ressource bietet ein umfassendes Lehrplan- und Literaturarchiv für diejenigen, die den Lernprozess strukturieren möchten.",
+          "meta": "★ 14.888 · +48 heute"
+        },
+        {
+          "title": "pppscn/SmsForwarder",
+          "url": "https://github.com/pppscn/SmsForwarder",
+          "summary": "SmsForwarder ist ein Tool, das Textnachrichten, Anrufe und Anwendungsbenachrichtigungen auf Android-Geräten im Rahmen festgelegter Regeln an verschiedene Messaging-Plattformen oder Webhooks weiterleitet. Diese Software, die es Benutzern ermöglicht, ihre Geräte aus der Ferne zu verwalten und auf Daten wie Batteriestatus und Kontakte zuzugreifen, wurde mit der Kotlin-Sprache entwickelt.",
+          "meta": "Kotlin · ★ 26.560 · +104 heute"
+        },
+        {
+          "title": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "summary": "Jcode wurde mit der Rust-Sprache entwickelt und bietet ein Framework zum Testen und Bewerten codierungsorientierter Agenten für künstliche Intelligenz. Es bietet eine Standardinfrastruktur zur Messung der Leistung von Agenten, die in Softwareentwicklungsprozessen verwendet werden.",
+          "meta": "Rust · ★ 7.450 · +87 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "SMPTE Makes Its Standards Freely Accessible",
+          "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+          "summary": "Die Society of Motion Picture and Television Engineers (SMPTE) hat ihre Medientechnologiestandards der Weltgemeinschaft frei zugänglich gemacht. Dieser Schritt zielt darauf ab, eine breitere Akzeptanz der Bibliothek digitaler Medienstandards in der gesamten Branche sicherzustellen.",
+          "meta": "254 Punkte · 76 Kommentare"
+        },
+        {
+          "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+          "url": "https://github.com/mysk-research/loupe",
+          "summary": "Loupe ist eine iOS-Anwendung, die darauf abzielt, das Bewusstsein der Benutzer zu steigern, indem sie visualisiert, auf welche Daten native Apps auf dem Gerät zugreifen können. Die Software meldet transparent die Datenzugriffsvorgänge, die Anwendungen im Hintergrund durchführen.",
+          "meta": "254 Punkte · 76 Kommentare"
+        },
+        {
+          "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+          "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+          "summary": "Das Reverse-Engineering-Projekt des Spiels F-15 Strike Eagle II sucht Testpiloten, um die Funktionsfähigkeit der Software in verschiedenen DOS-Umgebungen zu überprüfen. Die Arbeit zielt darauf ab, den Quellcode des klassischen Spiels zu bewahren, indem er an moderne Systeme angepasst wird.",
+          "meta": "241 Punkte · 64 Kommentare"
+        },
+        {
+          "title": "Renting a sewing machine from the library",
+          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+          "summary": "Bibliotheken in Finnland verändern das traditionelle buchorientierte Servicemodell, indem sie eine breite Palette von Artikeln ausleihen, von Nähmaschinen bis hin zu Bohrersets. Diese Anwendung kombiniert das Sharing-Economy-Modell, das darauf abzielt, Konsumgewohnheiten zu reduzieren, mit der Bibliotheksinfrastruktur.",
+          "meta": "212 Punkte · 107 Kommentare"
+        },
+        {
+          "title": "Temporary Cloudflare accounts for AI agents",
+          "url": "https://blog.cloudflare.com/temporary-accounts/",
+          "summary": "Cloudflare bietet eine Infrastruktur, die die Erstellung temporärer Cloud-Konten ermöglicht, damit Agenten der künstlichen Intelligenz sicher arbeiten können. Dieses System vereinfacht die Autorisierungsprozesse von Agenten und ermöglicht es ihnen, für eine begrenzte Zeit mit eingeschränkten Zugriffsberechtigungen zu arbeiten.",
+          "meta": "204 Punkte · 109 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Das Gemma-4-12B-Coder-Modell ist ein für Codierungsaufgaben optimiertes Textgenerierungsmodell. Diese im GGUF-Format dargestellte Struktur wurde mit Quantisierungstechniken optimiert, um effizienter auf lokaler Hardware zu laufen.",
+          "meta": "♥ 2.006 · 312.332 Downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, entwickelt von Zai-org, ist ein Sprachmodell, das sich auf die Textgenerierung konzentriert. Dieses Modell, das auf der HuggingFace-Plattform eine breite Benutzerbasis erreicht hat, bietet Textgenerierungsfunktionen für Aufgaben der Verarbeitung natürlicher Sprache.",
+          "meta": "♥ 1.721 · 19.683 Downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3, entwickelt von MiniMaxAI, ist ein multimodales Modell, das durch die Verarbeitung visueller und textueller Eingaben eine Textausgabe erzeugt. Das System unterstützt komplexe Content-Erstellungsprozesse durch die gleichzeitige Analyse verschiedener Datentypen.",
+          "meta": "♥ 1.166 · 85.771 Downloads"
+        },
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "summary": "VibeThinker-3B, entwickelt von WeiboAI, ist ein kompaktes Sprachmodell, das sich auf die Textgenerierung konzentriert. Seine 3-Milliarden-Parameterstruktur bietet eine effiziente Alternative für Textgenerierungsaufgaben mit geringem Rechenaufwand.",
+          "meta": "♥ 526 · 16.270 Downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Kimi-K2.7-Code, entwickelt von Moonshot AI, ist ein multimodales Modell, das die Codegenerierung durch die Verarbeitung visueller und Texteingaben durchführt. Ziel ist die Bereitstellung textbasierter Lösungen durch die Analyse visueller Daten in Softwareentwicklungsprozessen.",
+          "meta": "♥ 934 · 317.963 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "video editor",
+      "explanation": "Software, mit der Sie Bild- und Audiodateien bearbeiten können, indem Sie sie ausschneiden und kombinieren."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Künstliche Intelligenz-Technologie, die mithilfe der gelernten Daten von Grund auf neue Inhalte wie Texte, Bilder oder Audio erstellen kann."
+    },
+    {
+      "term": "agentic system",
+      "explanation": "Autonomes System, das ohne menschliches Eingreifen selbstständig Entscheidungen treffen und Schritte unternehmen kann, um Ziele zu erreichen."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "Eine Reihe miteinander verbundener Phasen, in denen Daten verarbeitet werden, bis daraus ein Ergebnis entsteht."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Besondere Fähigkeiten oder Werkzeuge, über die die KI verfügt, um bestimmte Aufgaben auszuführen."
+    },
+    {
+      "term": "in-process",
+      "explanation": "Die Ausführung einer Operation direkt im eigenen Arbeitsbereich des aktuellen Programms, ohne dass sie an einen anderen Ort übertragen wird."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Ein Datenmodell, das die Beziehungen zwischen Informationen darstellt, indem es sie wie eine Netzwerkstruktur verbindet."
+    },
+    {
+      "term": "token",
+      "explanation": "Wörter oder Zeichenausschnitte, die künstliche Intelligenz bei der Verarbeitung von Texten nutzt."
+    },
+    {
+      "term": "Time Series Foundation Model",
+      "explanation": "Ein umfassendes Modell der künstlichen Intelligenz, das zukünftige Trends vorhersagen kann, indem es Änderungen in historischen numerischen Daten analysiert."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Digitales Managementsystem, mit dem Unternehmen ihre Kommunikation mit Kunden und Vertriebsprozesse überwachen."
+    },
+    {
+      "term": "API",
+      "explanation": "Eine Brücke, die es zwei verschiedenen Softwareprogrammen ermöglicht, miteinander zu kommunizieren und Daten auszutauschen."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Eine Methode, die es künstlicher Intelligenz ermöglicht, bei der Erstellung von Antworten Informationen aus aktuellen und privaten Dokumenten statt aus dem eigenen Gedächtnis zu beziehen."
+    },
+    {
+      "term": "proxy",
+      "explanation": "Ein zwischengeschalteter Server, der in Ihrem Namen Anfragen im Internet weiterleitet und Ihre Identität verbirgt."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Ein Protokoll, das es Modellen der künstlichen Intelligenz ermöglicht, auf standardisierte Weise eine Verbindung zu verschiedenen Datenquellen und Tools herzustellen."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Technologie, die die Stimme einer Person analysiert und sie dazu bringt, neue Sätze zu sagen, als ob sie diese Person wäre."
+    }
+  ]
+}

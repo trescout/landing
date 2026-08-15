@@ -26,5 +26,8 @@ En caso de error, empezar todo el proceso desde cero es una pérdida de tiempo y
 - [State Management](/es/dictionary/state-management/)
 - [Runtime](/es/dictionary/runtime/)
 
+## Herramientas relacionadas
+- [Pg Durable](/es/discover/pg-durable/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/durable-execution/

@@ -23,7 +23,11 @@ No lo es, pero supone un gran ahorro de tiempo para los desarrolladores que no q
 
 ## Términos relacionados
 - [SaaS](/es/dictionary/saas/)
+- [IaaS](/es/dictionary/iaas/)
 - [Deployment](/es/dictionary/deployment/)
+
+## Herramientas relacionadas
+- [Free for Dev](/es/discover/free-for-dev/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/paas/

@@ -24,5 +24,8 @@ Realmente no te siente, pero gracias a los datos con los que ha sido entrenado, 
 - [Autonomous Agent](/es/dictionary/autonomous-agent/)
 - [LLM](/es/dictionary/llm/)
 
+## Herramientas relacionadas
+- [AIRI](/es/discover/airi/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-companion/

@@ -26,5 +26,10 @@ Porque es mucho más potente, nunca se apaga y se puede acceder a él desde cual
 - [PaaS](/es/dictionary/paas/)
 - [IaaS](/es/dictionary/iaas/)
 
+## Herramientas relacionadas
+- [Skills](/es/discover/skills/)
+- [Weathernext](/es/discover/weathernext/)
+- [Agents CLI](/es/discover/agents-cli/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/google-cloud/

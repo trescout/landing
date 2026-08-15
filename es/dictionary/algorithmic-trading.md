@@ -26,5 +26,8 @@ Las transacciones generalmente no se ven afectadas ya que se realizan en el lado
 - [Prediction Market](/es/dictionary/prediction-market/)
 - [Machine Learning](/es/dictionary/machine-learning/)
 
+## Herramientas relacionadas
+- [Awesome Systematic Trading](/es/discover/awesome-systematic-trading/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/algorithmic-trading/

@@ -25,7 +25,19 @@ Sí, es un estándar abierto desarrollado para aumentar la interoperabilidad del
 
 
 ## Términos relacionados
+- [API](/es/dictionary/api/)
+- [Data Pipeline](/es/dictionary/data-pipeline/)
 - [AI Agent](/es/dictionary/ai-agent/)
+
+## Herramientas relacionadas
+- [Langflow](/es/discover/langflow/)
+- [OpenCut](/es/discover/opencut/)
+- [Goose](/es/discover/goose/)
+- [Chrome Devtools MCP](/es/discover/chrome-devtools-mcp/)
+- [AI Engineering from Scratch](/es/discover/ai-engineering-from-scratch/)
+- [Claude Howto](/es/discover/claude-howto/)
+- [Codebase Memory MCP](/es/discover/codebase-memory-mcp/)
+- [Claude Code Templates](/es/discover/claude-code-templates/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/mcp/

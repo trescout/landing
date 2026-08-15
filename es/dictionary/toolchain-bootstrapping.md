@@ -21,5 +21,8 @@ Es necesario eliminar por completo la dependencia externa al construir algo desd
 - [Compilation](/es/dictionary/compilation/)
 - [Rust](/es/dictionary/rust/)
 
+## Herramientas relacionadas
+- [Reverse Skill](/es/discover/reverse-skill/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/toolchain-bootstrapping/

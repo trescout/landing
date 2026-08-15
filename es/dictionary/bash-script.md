@@ -21,5 +21,9 @@ Reduce el margen de error y le permite realizar la misma operación a la misma v
 - [CLI](/es/dictionary/cli/)
 - [Terminal](/es/dictionary/terminal/)
 
+## Herramientas relacionadas
+- [NVM](/es/discover/nvm/)
+- [Meshery](/es/discover/meshery/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/bash-script/

@@ -27,5 +27,8 @@ Sí, pero dado que el sistema tiene poderes autónomos, es importante determinar
 - [Autonomous Agent](/es/dictionary/autonomous-agent/)
 - [Agentic Workflows](/es/dictionary/agentic-workflows/)
 
+## Herramientas relacionadas
+- [Astryx](/es/discover/astryx/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agent-ready/

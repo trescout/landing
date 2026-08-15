@@ -28,16 +28,21 @@ import os, re, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-# Aynı sayfanın dillerdeki karşılıkları · (ad, {dil: yol})
+# Aynı sayfanın dillerdeki karşılıkları · GRUPLAR elle yazılıyordu, her yeni
+# dilde iki satıra birden dil eklemek gerekiyordu. Artık diller.py'den türüyor ·
+# yeni elle yazılan SAYFA türü eklerken KALIPLAR'a bir satır ekleyin, yeni DİL
+# eklerken buraya hiç dokunmayın.
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from diller import DILLER  # noqa: E402
+
+KALIPLAR = [
+    ("ana sayfa", "index.html"),
+    ("karşılaştırma", "compare/rss-vs-ai/index.html"),
+]
+
 GRUPLAR = [
-    ("ana sayfa", {"tr": "index.html", "en": "en/index.html",
-                   "fr": "fr/index.html", "pt": "pt/index.html",
-                   "es": "es/index.html"}),
-    ("karşılaştırma", {"tr": "compare/rss-vs-ai/index.html",
-                       "en": "en/compare/rss-vs-ai/index.html",
-                       "fr": "fr/compare/rss-vs-ai/index.html",
-                       "pt": "pt/compare/rss-vs-ai/index.html",
-                       "es": "es/compare/rss-vs-ai/index.html"}),
+    (ad, {"tr": kalip, **{kod: f"{kod}/{kalip}" for kod in DILLER}})
+    for ad, kalip in KALIPLAR
 ]
 
 

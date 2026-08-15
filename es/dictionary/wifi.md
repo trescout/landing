@@ -29,5 +29,8 @@ Es bastante seguro si utiliza un cifrado seguro (como WPA3).
 - [API](/es/dictionary/api/)
 - [Runtime](/es/dictionary/runtime/)
 
+## Herramientas relacionadas
+- [RuView](/es/discover/ruview/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/wifi/

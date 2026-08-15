@@ -24,5 +24,8 @@ No, los cambios que realices solo aparecerán temporalmente en tu pantalla, todo
 - [User Interface](/es/dictionary/user-interface/)
 - [Web Interface](/es/dictionary/web-interface/)
 
+## Herramientas relacionadas
+- [Chrome Devtools MCP](/es/discover/chrome-devtools-mcp/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/chrome-devtools/

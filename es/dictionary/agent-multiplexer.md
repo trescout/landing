@@ -24,5 +24,8 @@ Los agentes especializados proporcionan resultados de mucha mejor calidad que un
 - [Multi-agent](/es/dictionary/multi-agent/)
 - [Agentic Workflows](/es/dictionary/agentic-workflows/)
 
+## Herramientas relacionadas
+- [Herdr](/es/discover/herdr/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agent-multiplexer/

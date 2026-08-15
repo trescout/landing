@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-30",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "grokability/snipe-it",
+          "url": "https://github.com/grokability/snipe-it",
+          "summary": "Snipe-IT ist ein Open-Source-Managementsystem zur Verfolgung von IT-Assets und Softwarelizenzen. Diese mit der PHP-Sprache entwickelte Plattform ermöglicht es Institutionen, Bestandsaufzeichnungen und Nutzungszyklen in einer digitalen Umgebung zu organisieren.",
+          "meta": "PHP · ★ 14.536 · +164 heute"
+        },
+        {
+          "title": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "summary": "Faceswap auf Python-Basis ist eine Open-Source-Software, die das Ersetzen von Gesichtern in Bildern mithilfe der Deepfake-Technologie ermöglicht. Es ermöglicht Benutzern, Gesichtsaustauschvorgänge an Videos und Bildern durchzuführen.",
+          "meta": "Python · ★ 56.487 · +166 heute"
+        },
+        {
+          "title": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "summary": "VibeVoice wurde von Microsoft entwickelt und wird als Open-Source-Frontier-Sprach-KI-Modell angeboten. Dieses Python-basierte Projekt zielt darauf ab, leistungsstarke und zugängliche Lösungen für Audioverarbeitungsprozesse bereitzustellen.",
+          "meta": "Python · ★ 51.459 · +336 heute",
+          "returning": true
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork ist ein Softwareprojekt, das als Open-Source-Alternative zur Claude-Cowork-Plattform entwickelt wurde und die Opencode-Infrastruktur nutzt. Dieses in der TypeScript-Sprache geschriebene Tool bietet eine von künstlicher Intelligenz unterstützte Arbeitsumgebung mit dem Ziel, Softwareentwicklungsprozesse zu automatisieren.",
+          "meta": "TypeScript · ★ 18.143 · +97 heute"
+        },
+        {
+          "title": "MoonshotAI/FlashKDA",
+          "url": "https://github.com/MoonshotAI/FlashKDA",
+          "summary": "FlashKDA wurde von Moonshot AI entwickelt und bietet leistungsstarke Kernel für den Some Delta Attention-Mechanismus. Diese CUDA-basierte Technologie zielt darauf ab, Aufmerksamkeitsberechnungen in großen Sprachmodellen zu beschleunigen.",
+          "meta": "Cuda · ★ 1.043 · +91 heute"
+        },
+        {
+          "title": "maderix/ANE",
+          "url": "https://github.com/maderix/ANE",
+          "summary": "ANE wurde von Maderix entwickelt und ermöglicht die Durchführung eines neuronalen Netzwerktrainings auf der Apple Neural Engine über private Anwendungsprogrammierschnittstellen (private APIs), die durch Reverse Engineering erhalten werden. Diese Studie ermöglicht den direkten Einsatz von Apple-Hardware in Modelltrainingsprozessen für künstliche Intelligenz.",
+          "meta": "Objective-C · ★ 7.185 · +22 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+          "url": "https://github.com/drumih/turbo-fieldfare",
+          "summary": "TurboFieldfare ist eine Inferenz-Engine, die es dem Gemma 4 26B-Modell ermöglicht, auf Prozessoren der Apple M-Serie mit 4-Bit-Quantisierung zu laufen und dabei nur 2 GB Speicher zu verbrauchen. Dieses Tool wurde mit den Sprachen Swift und Metal entwickelt und zielt darauf ab, die KI-Leistung auf dem Gerät zu optimieren.",
+          "meta": "727 Punkte · 252 Kommentare"
+        },
+        {
+          "title": "Superlogical",
+          "url": "https://www.superlogical.com/",
+          "summary": "Superlogical ist ein logisches Programmiertool zur Verwaltung komplexer logischer Systeme und Regeln. Es ermöglicht Entwicklern, Datenstrukturen und Geschäftsregeln mit einem deklarativen Ansatz zu definieren.",
+          "meta": "616 Punkte · 385 Kommentare"
+        },
+        {
+          "title": "The coolest use for the Vision Pro",
+          "url": "https://christianselig.com/2026/07/vision-pro-house/",
+          "summary": "Benutzer von Apple Vision Pro visualisieren die intelligenten Geräte in ihren Häusern in der physischen Umgebung, indem sie die räumlichen Rechenfunktionen des Geräts nutzen. Diese Methode macht die Hausautomation direkt interaktiv durch virtuelle Schnittstellen, die auf Objekten platziert werden.",
+          "meta": "541 Punkte · 225 Kommentare"
+        },
+        {
+          "title": "Kimi K3-256k",
+          "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+          "summary": "Kimi K3-256k wurde von Moonshot AI entwickelt und konzentriert sich auf Codierungs- und Softwareentwicklungsprozesse mit einem langen Kontextfenster von 256.000 Token. Das Modell bietet die Möglichkeit, lange Codebasen zu analysieren und Lösungen für komplexe Programmieraufgaben mit hoher Genauigkeit zu erstellen.",
+          "meta": "399 Punkte · 116 Kommentare"
+        },
+        {
+          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+          "summary": "Der von Hugging Face veröffentlichte technische Bericht untersucht chronologisch den Agenteneinbruchsvorfall gegen ein Grenzlabor im Jahr 2026. Der Bericht analysiert die Schwachstellen autonomer Systeme und die technische Funktionsweise solcher Angriffe und liefert Daten für Verteidigungsstrategien.",
+          "meta": "345 Punkte · 199 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "summary": "KAT-Coder-V2.5-Dev, entwickelt von Kwaipilot, ist ein Sprachmodell, das sich auf die Textgenerierung konzentriert. Das zur Unterstützung von Softwareentwicklungsprozessen konzipierte Modell wird beim Schreiben von Code und bei der Erstellung technischer Texte eingesetzt.",
+          "meta": "♥ 323 · 6.275 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "deepfake",
+      "explanation": "Einsatz künstlicher Intelligenz, um das Bild oder die Stimme einer Person so an eine andere Person anzupassen, dass sie nicht von der Realität zu unterscheiden ist."
+    },
+    {
+      "term": "face swapping",
+      "explanation": "Ein Gesicht in einem Foto oder Video digital durch das Gesicht einer anderen Person ersetzen."
+    },
+    {
+      "term": "frontier voice AI",
+      "explanation": "Die fortschrittlichsten Technologien der künstlichen Sprachintelligenz, die natürlich und emotional wie ein Mensch sprechen können."
+    },
+    {
+      "term": "kernels",
+      "explanation": "Der grundlegendste Kernteil des Betriebssystems, der die Kommunikation zwischen der Hardware und Software des Computers verwaltet."
+    },
+    {
+      "term": "attention",
+      "explanation": "Ein Mechanismus, der es künstlicher Intelligenz ermöglicht, die Bedeutung besser zu erfassen, indem sie sich auf wichtige Wörter in einem Text konzentriert."
+    }
+  ]
+}

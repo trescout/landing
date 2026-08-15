@@ -23,5 +23,9 @@ A medida que el código se vuelve más complejo, es necesario no olvidar la lóg
 - [Spec-driven Development](/es/dictionary/spec-driven-development/)
 - [Specification](/es/dictionary/specification/)
 
+## Herramientas relacionadas
+- [Awesome Design Md](/es/discover/awesome-design-md/)
+- [Design.md](/es/discover/design-md/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/design-md/

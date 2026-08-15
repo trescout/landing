@@ -27,5 +27,8 @@ Sí, puede haber un ligero retraso ya que se auditan todos los datos.
 - [Security Scanner](/es/dictionary/security-scanner/)
 - [Adversarial Analysis](/es/dictionary/adversarial-analysis/)
 
+## Herramientas relacionadas
+- [Strix](/es/discover/strix/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-security-tool/

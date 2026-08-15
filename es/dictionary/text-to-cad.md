@@ -29,5 +29,8 @@ No, es una herramienta de utilidad que permite a los ingenieros crear prototipos
 - [Design Tool](/es/dictionary/design-tool/)
 - [Physical AI](/es/dictionary/physical-ai/)
 
+## Herramientas relacionadas
+- [Text to Cad](/es/discover/text-to-cad/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/text-to-cad/

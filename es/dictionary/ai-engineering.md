@@ -27,5 +27,8 @@ No, poner en funcionamiento el modelo, monitorearlo y actualizarlo también es u
 - [Engineering Skills](/es/dictionary/engineering-skills/)
 - [AI Agent](/es/dictionary/ai-agent/)
 
+## Herramientas relacionadas
+- [AI Engineering from Scratch](/es/discover/ai-engineering-from-scratch/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-engineering/

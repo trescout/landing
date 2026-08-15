@@ -24,5 +24,8 @@ Algunos lenguajes no requieren esto por motivos de flexibilidad, pero definitiva
 - [Type-safe](/es/dictionary/type-safe/)
 - [Clean Code](/es/dictionary/clean-code/)
 
+## Herramientas relacionadas
+- [T3code](/es/discover/t3code/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/type-safety/

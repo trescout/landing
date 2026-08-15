@@ -27,5 +27,9 @@ Se llama así porque el desarrollador se centra en el flujo y la sensación del 
 - [Prompt Engineering](/es/dictionary/prompt-engineering/)
 - [Coding Agent](/es/dictionary/coding-agent/)
 
+## Herramientas relacionadas
+- [Claude Code Best Practice](/es/discover/claude-code-best-practice/)
+- [GLM 5](/es/discover/glm-5/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/vibe-coding/

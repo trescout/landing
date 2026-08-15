@@ -27,5 +27,8 @@ Te permite encontrar lo que buscas en montones de datos en segundos.
 - [AI-powered Note Analysis](/es/dictionary/ai-powered-note-analysis/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Karakeep](/es/discover/karakeep/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/automatic-tagging/

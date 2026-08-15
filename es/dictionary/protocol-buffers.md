@@ -26,5 +26,8 @@ No, los datos no pueden ser leídos directamente por humanos ya que están en fo
 - [Networking Stack](/es/dictionary/networking-stack/)
 - [Serialization](/es/dictionary/serialization/)
 
+## Herramientas relacionadas
+- [Protobuf](/es/discover/protobuf/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/protocol-buffers/

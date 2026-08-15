@@ -27,5 +27,8 @@ Normalmente funciona con archivos de texto, pero también se puede utilizar en d
 - [Vector Index](/es/dictionary/vector-index/)
 - [Document Parsing](/es/dictionary/document-parsing/)
 
+## Herramientas relacionadas
+- [Karakeep](/es/discover/karakeep/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/full-text-search/

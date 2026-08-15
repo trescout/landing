@@ -27,5 +27,8 @@ Se comunican enviándose mensajes entre sí mediante comandos predefinidos y for
 - [Agentic AI](/es/dictionary/agentic-ai/)
 - [Self-orchestration](/es/dictionary/self-orchestration/)
 
+## Herramientas relacionadas
+- [TradingAgents](/es/discover/tradingagents/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/multi-agent-llm/

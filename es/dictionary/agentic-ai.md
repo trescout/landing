@@ -24,6 +24,11 @@ Nos permite transferir completamente tareas repetitivas y que requieren planific
 
 ## Términos relacionados
 - [AI Agent](/es/dictionary/ai-agent/)
+- [Self-orchestration](/es/dictionary/self-orchestration/)
+- [Compound Engineering](/es/dictionary/compound-engineering/)
+
+## Herramientas relacionadas
+- [Personal_AI_Infrastructure](/es/discover/personal-ai-infrastructure/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agentic-ai/

@@ -24,5 +24,8 @@ Dado que realizar un seguimiento de demasiadas aplicaciones al mismo tiempo redu
 - [API](/es/dictionary/api/)
 - [AI Agent](/es/dictionary/ai-agent/)
 
+## Herramientas relacionadas
+- [Rocket.Chat](/es/discover/rocket-chat/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/communications-operating-system/

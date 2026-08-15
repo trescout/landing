@@ -56,6 +56,16 @@
       metinYolu: '/es/privacy.html',
       onayaDokun: 'Toque el botón de abajo para dar su consentimiento'
     },
+    de: {
+      zaten: '<strong>Sie stehen bereits auf der Liste.</strong> Wir melden uns, sobald wir starten.',
+      aldik: '<strong>Notiert.</strong> Wir melden uns, sobald wir starten. Eine gute Woche.',
+      onay: 'Stimmen Sie dem Datenschutzhinweis zu, um fortzufahren.',
+      gonderiliyor: 'Wird gesendet...',
+      genel: 'Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.',
+      baglanti: 'Verbindungsfehler. Bitte versuchen Sie es erneut.',
+      metinYolu: '/de/privacy.html',
+      onayaDokun: 'Tippen Sie unten auf die Schaltfläche, um zuzustimmen'
+    },
     tr: {
       zaten: '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.',
     aldik: '<strong>Aldık.</strong> Yayında olduğumuzda size haber vereceğiz. İyi haftalar.',

@@ -27,5 +27,8 @@ Definitivamente facilita la resolución de problemas complejos en todos los ámb
 - [Computer Science](/es/dictionary/computer-science/)
 - [Spec-driven Development](/es/dictionary/spec-driven-development/)
 
+## Herramientas relacionadas
+- [Agent Skills](/es/discover/agent-skills/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/engineering-skills/

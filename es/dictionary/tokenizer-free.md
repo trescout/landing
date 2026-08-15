@@ -28,5 +28,8 @@ Los sistemas basados ​​en tokens cuentan actualmente con una infraestructura
 - [Multimodal](/es/dictionary/multimodal/)
 - [NLP](/es/dictionary/nlp/)
 
+## Herramientas relacionadas
+- [VoxCPM](/es/discover/voxcpm/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/tokenizer-free/

@@ -28,5 +28,15 @@ Sí, pueden administrar sus archivos o ejecutar sus aplicaciones si les otorga l
 - [Agentic AI](/es/dictionary/agentic-ai/)
 - [Coding Agent](/es/dictionary/coding-agent/)
 
+## Herramientas relacionadas
+- [Hermes Agent](/es/discover/hermes-agent/)
+- [Opencode](/es/discover/opencode/)
+- [Awesome LLM Apps](/es/discover/awesome-llm-apps/)
+- [Agent Skills](/es/discover/agent-skills/)
+- [Taste Skill](/es/discover/taste-skill/)
+- [Ansible](/es/discover/ansible/)
+- [Agent-Reach](/es/discover/agent-reach/)
+- [Openinterpreter](/es/discover/openinterpreter/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agent/

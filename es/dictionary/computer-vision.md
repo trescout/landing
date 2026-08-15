@@ -27,5 +27,9 @@ Sí, puede confundirse con imágenes de baja calidad o con un objeto que nunca a
 - [Physical AI](/es/dictionary/physical-ai/)
 - [Optical Character Recognition](/es/dictionary/optical-character-recognition/)
 
+## Herramientas relacionadas
+- [Opencv](/es/discover/opencv/)
+- [Supervision](/es/discover/supervision/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/computer-vision/

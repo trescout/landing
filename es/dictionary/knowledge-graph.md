@@ -28,5 +28,11 @@ Se llama así porque matemáticamente es una estructura de red que consta de pun
 - [Embedding](/es/dictionary/embedding/)
 - [Vector Database](/es/dictionary/vector-database/)
 
+## Herramientas relacionadas
+- [Graphify](/es/discover/graphify/)
+- [Understand Anything](/es/discover/understand-anything/)
+- [Codebase Memory MCP](/es/discover/codebase-memory-mcp/)
+- [Cognee](/es/discover/cognee/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/knowledge-graph/

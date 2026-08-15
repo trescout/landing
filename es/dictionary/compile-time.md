@@ -27,5 +27,8 @@ No, algunos lenguajes (como Python) se pueden ejecutar directamente sin compilar
 - [Computer Science](/es/dictionary/computer-science/)
 - [LSP](/es/dictionary/lsp/)
 
+## Herramientas relacionadas
+- [Svelte](/es/discover/svelte/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/compile-time/

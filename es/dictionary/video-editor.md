@@ -27,5 +27,9 @@ Puede cortar, eliminar automáticamente el ruido de fondo o recomendar música a
 - [Multimodal](/es/dictionary/multimodal/)
 - [AI Agent](/es/dictionary/ai-agent/)
 
+## Herramientas relacionadas
+- [Palmier Pro](/es/discover/palmier-pro/)
+- [Clypra](/es/discover/clypra/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/video-editor/

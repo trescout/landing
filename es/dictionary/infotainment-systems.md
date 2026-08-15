@@ -20,5 +20,8 @@ Suelen estar diseñados con comandos de voz y menús simplificados para evitar d
 - [Physical AI](/es/dictionary/physical-ai/)
 - [Web Interface](/es/dictionary/web-interface/)
 
+## Herramientas relacionadas
+- [Headunit Revived](/es/discover/headunit-revived/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/infotainment-systems/

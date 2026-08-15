@@ -23,7 +23,10 @@ No, al contrario, se convertirá en una capacidad más crítica para gestionar s
 
 
 ## Términos relacionados
+- [Few-shot Learning](/es/dictionary/few-shot-learning/)
+- [Zero-shot Learning](/es/dictionary/zero-shot-learning/)
 - [LLM](/es/dictionary/llm/)
+- [AI Skills](/es/dictionary/ai-skills/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/prompt-engineering/

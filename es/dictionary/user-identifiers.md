@@ -24,5 +24,8 @@ Por su seguridad; No utilizar su identidad en un sistema en otro sistema mantien
 - [Database](/es/dictionary/database/)
 - [CRM](/es/dictionary/crm/)
 
+## Herramientas relacionadas
+- [Simplex Chat](/es/discover/simplex-chat/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/user-identifiers/

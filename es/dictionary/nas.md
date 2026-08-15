@@ -29,5 +29,8 @@ Si solo estás trabajando en la red local, no necesitas Internet, puedes acceder
 - [Incremental Backup](/es/dictionary/incremental-backup/)
 - [Personal AI Infrastructure](/es/dictionary/personal-ai-infrastructure/)
 
+## Herramientas relacionadas
+- [Jellyfin](/es/discover/jellyfin/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/nas/

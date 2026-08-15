@@ -24,5 +24,21 @@ Aunque no es imprescindible para la mayoría de herramientas modernas, aporta un
 El sistema suele dar errores, pero también hay comandos críticos que requieren precaución.
 
 
+## Términos relacionados
+- [CLI](/es/dictionary/cli/)
+- [Self-hosting](/es/dictionary/self-hosting/)
+- [Offline](/es/dictionary/offline/)
+- [Open Source](/es/dictionary/open-source/)
+
+## Herramientas relacionadas
+- [Superpowers](/es/discover/superpowers/)
+- [Spec Kit](/es/discover/spec-kit/)
+- [Graphify](/es/discover/graphify/)
+- [Angular](/es/discover/angular/)
+- [Svelte](/es/discover/svelte/)
+- [Understand Anything](/es/discover/understand-anything/)
+- [Agent-Reach](/es/discover/agent-reach/)
+- [Impeccable](/es/discover/impeccable/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cli/

@@ -26,6 +26,10 @@ Es más rápido, consume menos energía y es más seguro porque sus datos no sal
 
 ## Términos relacionados
 - [LLM](/es/dictionary/llm/)
+- [Quantization](/es/dictionary/quantization/)
+- [Offline](/es/dictionary/offline/)
+- [Open Weights](/es/dictionary/open-weights/)
+- [Distillation](/es/dictionary/distillation/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/slm/

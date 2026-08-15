@@ -28,5 +28,8 @@ Para consultas muy complejas, el SQL manual a veces puede ser más rápido, pero
 - [Database](/es/dictionary/database/)
 - [Tech Stack](/es/dictionary/tech-stack/)
 
+## Herramientas relacionadas
+- [Prisma](/es/discover/prisma/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/orm/

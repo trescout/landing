@@ -26,5 +26,10 @@ Se prefiere para ingresar a sitios bloqueados, optimizar la velocidad de Interne
 - [Self-hosting](/es/dictionary/self-hosting/)
 - [Offline](/es/dictionary/offline/)
 
+## Herramientas relacionadas
+- [FlClash](/es/discover/flclash/)
+- [Nginx](/es/discover/nginx/)
+- [Headroom](/es/discover/headroom/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/proxy/

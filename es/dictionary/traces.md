@@ -24,5 +24,8 @@ Le permite saber qué parte de una aplicación de ejecución lenta está bloquea
 - [Logs](/es/dictionary/logs/)
 - [API Gateway](/es/dictionary/api-gateway/)
 
+## Herramientas relacionadas
+- [Grafana](/es/discover/grafana/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/traces/

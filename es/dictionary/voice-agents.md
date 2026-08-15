@@ -27,5 +27,8 @@ Los datos de voz suelen ser anónimos, pero siempre es importante comprobar la c
 - [Speech-to-Text](/es/dictionary/speech-to-text/)
 - [Text-to-Speech](/es/dictionary/text-to-speech/)
 
+## Herramientas relacionadas
+- [Speech to Speech](/es/discover/speech-to-speech/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/voice-agents/

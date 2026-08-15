@@ -27,5 +27,8 @@ Se llama así porque el modelo no necesita pasar por un proceso de "aprendizaje"
 - [Speech Synthesis](/es/dictionary/speech-synthesis/)
 - [Text-to-Speech](/es/dictionary/text-to-speech/)
 
+## Herramientas relacionadas
+- [Voice Pro](/es/discover/voice-pro/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/zero-shot-voice-cloning/

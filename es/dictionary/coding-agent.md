@@ -28,5 +28,12 @@ Realiza bien la mayoría de las tareas estándar, pero aún requiere control hum
 - [LLM](/es/dictionary/llm/)
 - [Agentic AI](/es/dictionary/agentic-ai/)
 
+## Herramientas relacionadas
+- [Opencode](/es/discover/opencode/)
+- [Openinterpreter](/es/discover/openinterpreter/)
+- [Continue](/es/discover/continue/)
+- [Kilocode](/es/discover/kilocode/)
+- [Oh My Pi](/es/discover/oh-my-pi/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/coding-agent/

@@ -30,5 +30,10 @@ Algunos IDE se centran en lenguajes específicos, mientras que otros pueden func
 - [Jupyter Notebooks](/es/dictionary/jupyter-notebooks/)
 - [Editor](/es/dictionary/editor/)
 
+## Herramientas relacionadas
+- [Free Claude Code](/es/discover/free-claude-code/)
+- [Continue](/es/discover/continue/)
+- [Oh My Pi](/es/discover/oh-my-pi/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ide/

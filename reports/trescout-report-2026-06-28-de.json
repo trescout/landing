@@ -1,0 +1,267 @@
+{
+  "date": "2026-06-28",
+  "editorial": "Die heutige Technologieagenda besteht aus Ende-zu-Ende-verschlüsselten Messaging-Protokollen und Open-Source-Lösungen für die persönliche Cloud. Als konkrete Indikatoren für das steigende Interesse an der Transparenz von Systemen stechen Entwicklerressourcen und autonome Fahrsoftware auf GitHub hervor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "summary": "SimpleX ist das erste Messaging-Netzwerk, das ohne die Verwendung von Benutzerkennungen funktioniert. Die in Haskell-Sprache entwickelte Plattform bietet dank ihrer dezentralen Struktur ein durchgängiges, datenschutzorientiertes Kommunikationserlebnis.",
+          "meta": "Haskell · ★ 14.116 · +1.469 heute"
+        },
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "Berkshire aus der KI-Ära ist ein Forschungsrahmen, der auf den Methoden der Anleger basiert und Wertinvestitionsanalysen mit einer Multi-Agenten-Struktur durchführt. Ziel ist die Durchführung einer kontradiktorischen Analyse von Finanzdaten mithilfe der Claude Code- oder Codex-Infrastruktur.",
+          "meta": "Python · ★ 4.628 · +685 heute"
+        },
+        {
+          "title": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "summary": "Als für Robotersysteme entwickeltes Betriebssystem rüstet Openpilot Fahrerassistenzsysteme in mehr als 300 Fahrzeugmodellen auf. Diese in Python geschriebene Open-Source-Plattform zielt darauf ab, Automobilsoftware zu standardisieren.",
+          "meta": "Python · ★ 62.144 · +322 heute"
+        },
+        {
+          "title": "IceWhaleTech/CasaOS",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "summary": "CasaOS ist ein persönliches Open-Source-Cloud-System, das die Verwaltung von Docker-basierten Anwendungen vereinfacht. Diese mit der Go-Sprache entwickelte Plattform ermöglicht es Benutzern, über eine zentrale Schnittstelle Daten zu speichern und Anwendungen auf ihren eigenen Servern zu verwalten.",
+          "meta": "Go · ★ 35.892 · +502 heute"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev ist eine Ressourcenliste, die Software as a Service (SaaS), Platform as a Service (PaaS) und Infrastructure as a Service (IaaS)-Lösungen zusammenstellt, die eine kostenlose Stufe für Softwareentwickler und Betriebsexperten bieten. Es kategorisiert aktuelle Technologiedienste, um Entwicklern den Zugang zu kostenlosen Tools zu erleichtern.",
+          "meta": "HTML · ★ 124.282 · +459 heute"
+        },
+        {
+          "title": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "summary": "DESIGN.md wurde von Google Labs entwickelt und bietet eine strukturierte Formatspezifikation für die Weitergabe visueller Anmeldeinformationen an Codierungsagenten. Dieser Standard ermöglicht die Schaffung einer konsistenten visuellen Sprache in durch künstliche Intelligenz unterstützten Softwareentwicklungsprozessen durch die Integration von Designsystemen in die Codebasis.",
+          "meta": "TypeScript · ★ 22.537 · +1.541 heute"
+        },
+        {
+          "title": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "summary": "Microsoft PowerToys sind eine Sammlung von Systemdienstprogrammen, die die Produktivität und Anpassung des Windows-Betriebssystems steigern. Es handelt sich um ein Open-Source-Softwarepaket, mit dem Benutzer das Desktop-Erlebnis anpassen können.",
+          "meta": "C · ★ 135.772 · +57 heute"
+        },
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "summary": "PPT-Master ist ein KI-gestütztes Tool, das Dokumente direkt in bearbeitbare Präsentationsdateien (PPTX) umwandelt. Das System übersetzt Texte in anpassbare Präsentationen mit nativen Figuren, Animationen und Audionotizen des Sprechers.",
+          "meta": "Python · ★ 33.348 · +589 heute"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "Mithilfe von Codierungsagenten für künstliche Intelligenz (KI-Codierungsagenten) ermöglicht diese Vorlage das Kopieren jeder Website mit einem einzigen Befehl. Das auf TypeScript basierende Tool bietet eine Struktur zur Automatisierung von Webentwicklungsprozessen.",
+          "meta": "TypeScript · ★ 22.347 · +750 heute"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Gstack bietet eine Reihe von 23 spezialisierten Tools, die auf der Claude Code-Konfiguration von Garry Tan basieren und unterschiedliche Rollen wie CEO, Designer und technischer Manager bedienen. Diese TypeScript-basierte Struktur zielt darauf ab, Agenten-Workflows in Softwareentwicklungsprozessen zu automatisieren.",
+          "meta": "TypeScript · ★ 117.433 · +674 heute"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler ist ein Web-Scraping-Tool, das entwickelt wurde, um Post- und Kommentardaten auf in China ansässigen Social-Media-Plattformen zu sammeln. Diese Python-basierte Software automatisiert strukturierte Datenextraktionsprozesse aus beliebten Netzwerken wie Xiaohongshu, Douyin, Bilibili und Weibo.",
+          "meta": "Python · ★ 53.886 · +394 heute"
+        },
+        {
+          "title": "Anil-matcha/Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "summary": "Open-Generative-AI ist eine Open-Source-Studioplattform ohne Inhaltsfilterung und mit mehr als 200 visuellen und Videoerstellungsmodellen. Benutzer können ihre visuellen Produktionsprozesse frei verwalten, indem sie diese unter der MIT-Lizenz angebotene Software auf ihren eigenen Servern (selbst gehostet) ausführen.",
+          "meta": "JavaScript · ★ 21.507 · +255 heute"
+        },
+        {
+          "title": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "summary": "Cognee ist eine Open-Source-Plattform, die Agenten der künstlichen Intelligenz ein Langzeitgedächtnis bietet. Es ermöglicht Agenten, Daten mithilfe einer selbstgehosteten Knowledge-Graph-Engine strukturiert zu speichern und abzurufen.",
+          "meta": "Python · ★ 24.230 · +780 heute"
+        },
+        {
+          "title": "dbt-labs/dbt-core",
+          "url": "https://github.com/dbt-labs/dbt-core",
+          "summary": "Das Datentransformationstool (dbt-core) ermöglicht Datenanalysten und Ingenieuren die Durchführung von Datentransformationen mit Methoden, die denen von Softwareentwicklungsprozessen ähneln. Es standardisiert analytische Arbeitsabläufe durch die Integration von Versionskontroll- und Testprozessen in Data Warehouses.",
+          "meta": "Rust · ★ 13.271 · +18 heute"
+        },
+        {
+          "title": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "summary": "Dieser visuelle Leitfaden zu Claude Code bietet Beispiele, die von grundlegenden Konzepten bis hin zu fortgeschrittenen Agenten der künstlichen Intelligenz reichen. Dank direkt kopierbarer Vorlagen stehen Anwendern praxisnahe Methoden zur Verfügung, die Entwicklungsprozesse beschleunigen.",
+          "meta": "Python · ★ 38.728 · +141 heute"
+        },
+        {
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "summary": "OpenCode ist ein Open-Source-Coding-Agent zur Automatisierung von Softwareentwicklungsprozessen. Dieses mit der TypeScript-Sprache entwickelte Tool bietet Funktionen zur autonomen Aufgabenausführung in Softwareprojekten.",
+          "meta": "TypeScript · ★ 179.948 · +392 heute"
+        },
+        {
+          "title": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "summary": "OpenSpec ist eine TypeScript-Bibliothek, die spezifikationsgesteuerte Entwicklungsprozesse für Code-Assistenten für künstliche Intelligenz unterstützt. Es gewährleistet eine Standardisierung der technischen Anforderungen während der Softwareentwicklungsphasen und einen kontrollierteren Fortschritt der Codeproduktionsprozesse.",
+          "meta": "TypeScript · ★ 57.272 · +177 heute"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading bietet einen persönlichen Handelsagenten, der für die Ausführung von Geschäften auf den Finanzmärkten konzipiert ist. Dieses Python-basierte Projekt zielt darauf ab, automatisierte Anlagestrategien durch die Analyse von Marktdaten umzusetzen.",
+          "meta": "Python · ★ 13.860 · +92 heute"
+        },
+        {
+          "title": "keycloak/keycloak",
+          "url": "https://github.com/keycloak/keycloak",
+          "summary": "Keycloak bietet Open-Source-Identitäts- und Zugriffsmanagementlösungen für moderne Anwendungen und Dienste. Diese Java-basierte Plattform dient der Standardisierung zentraler Authentifizierungs- und Autorisierungsprozesse.",
+          "meta": "Java · ★ 35.354 · +20 heute"
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open SEO bietet eine Open-Source-Alternative zu kostenpflichtigen Tools wie SEMrush und Ahrefs. Das mit TypeScript entwickelte Projekt stellt eine transparente und zugängliche Infrastruktur für die Analyse von Suchmaschinenoptimierungsdaten bereit.",
+          "meta": "TypeScript · ★ 3.549 · +239 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+          "url": "https://github.com/bikini/exploitarium",
+          "summary": "Ein anonymer GitHub-Account namens Bikini teilt öffentlich Exploit-Codes, die für bisher nicht gemeldete Sicherheitslücken vorbereitet wurden (Zero-Day). Das betreffende Repository enthält technische Dokumente und Angriffstools, die auf kritische Schwachstellen in verschiedener Software abzielen.",
+          "meta": "780 Punkte · 303 Kommentare"
+        },
+        {
+          "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "summary": "DSpark wurde von DeepSeek entwickelt und erhöht die Inferenzgeschwindigkeit großer Sprachmodelle mit der spekulativen Dekodierungsmethode. Dieser Ansatz erhöht die Recheneffizienz, indem er die Vorhersagen eines kleinen Modells mit einem großen Modell validiert.",
+          "meta": "754 Punkte · 315 Kommentare"
+        },
+        {
+          "title": "OpenRA",
+          "url": "https://www.openra.net/",
+          "summary": "OpenRA ist eine Open-Source-Spiele-Engine, die entwickelt wurde, um klassische Echtzeit-Strategiespiele auf modernen Betriebssystemen auszuführen. Das Projekt bewahrt die ursprüngliche Spielmechanik und bietet Updates wie Unterstützung für hochauflösende Bildschirme und Multiplayer-Infrastruktur.",
+          "meta": "665 Punkte · 131 Kommentare"
+        },
+        {
+          "title": "Fintech Engineering Handbook",
+          "url": "https://w.pitula.me/fintech-engineering-handbook/",
+          "summary": "Das Fintech Engineering Handbook befasst sich mit Skalierbarkeits-, Sicherheits- und Compliance-Anforderungen in Finanztechnologiesystemen innerhalb eines technischen Rahmens. Es fasst die Grundprinzipien für die Verarbeitung von Finanzdaten und die Strukturierung der Systemarchitektur in Softwareentwicklungsprozessen zusammen.",
+          "meta": "541 Punkte · 170 Kommentare"
+        },
+        {
+          "title": "The case for physical media ownership",
+          "url": "https://dervis.de/physical/",
+          "summary": "Im Gegensatz zu Abonnementmodellen auf digitalen Content-Plattformen bietet der physische Medienbesitz eine Alternative zur Einschränkung der Zugriffsrechte auf digitale Assets. Benutzer greifen auf physische Formate zurück, um ihre dauerhaften Zugriffs- und Eigentumsrechte vor dem Risiko zu schützen, dass Inhalte von Plattformen entfernt werden.",
+          "meta": "423 Punkte · 269 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR wurde von Baidu entwickelt und ist ein Bild-Text-zu-Text-Modell, das visuellen Text in eine textbasierte Ausgabe umwandelt. Dieses Modell bietet optische Zeichenerkennungsfunktionen zur Verarbeitung von Daten in komplexen Dokumenten.",
+          "meta": "♥ 1.157 · 212.760 Downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, entwickelt von Zai-org, ist ein Sprachmodell, das für Textgenerierungsaufgaben optimiert ist. Dieses Modell, das auf der Hugging Face-Plattform großes Interesse geweckt hat, bietet Funktionen zur Inhaltserstellung in Verarbeitungsprozessen natürlicher Sprache.",
+          "meta": "♥ 2.702 · 98.994 Downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Das Modell Qwythos-9B-Claude-Mythos-5-1M ist ein multimodales Modell der künstlichen Intelligenz, das durch die Verarbeitung visueller und Texteingaben eine Textausgabe erzeugt. Das Modell ist für die Analyse komplexer Datensätze mit Unterstützung für breite Kontextfenster optimiert.",
+          "meta": "♥ 688 · 712.627 Downloads"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Dieses Gemma-4-12B-basierte Modell, das auf HuggingFace geteilt wird, bietet eine für Textgenerierungsaufgaben optimierte Struktur. Das Modell ist im GGUF-Format zur Verwendung in agentenbasierten Arbeitsabläufen und komplexen Kompositionsprozessen strukturiert.",
+          "meta": "♥ 740 · 206.828 Downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M ist ein Open-Source-Sprachmodell, das sich auf die Textgenerierung konzentriert. Ziel ist es, die Leistung bei komplexen Inhaltserstellungsprozessen durch Unterstützung eines breiten Kontextfensters zu steigern.",
+          "meta": "♥ 500 · 30.298 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "user identifiers",
+      "explanation": "Eindeutige Identifikationsnummern oder Benutzernamen, die dazu dienen, eine Person in digitalen Umgebungen von anderen zu unterscheiden."
+    },
+    {
+      "term": "end-to-end privacy",
+      "explanation": "Eine Sicherheitsmethode, bei der die gesendeten Daten nur vom Sender und vom Empfänger gelesen werden können und niemand dazwischen Zugriff darauf hat."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Die Zusammenarbeit mehrerer Softwareprogramme für künstliche Intelligenz, die zusammenarbeiten, um komplexe Aufgaben auszuführen."
+    },
+    {
+      "term": "adversarial analysis",
+      "explanation": "Sicherheitstests, die durch die Simulation böswilliger Angriffe durchgeführt werden, um Schwachstellen in einem System zu finden."
+    },
+    {
+      "term": "driver assistance system",
+      "explanation": "Automatische Unterstützungstechnologien, die den Fahrer warnen oder die Sicherheit beim Fahren erhöhen."
+    },
+    {
+      "term": "personal cloud",
+      "explanation": "Speichern persönlicher Dateien in einem privaten Bereich, sodass von überall über das Internet auf sie zugegriffen werden kann."
+    },
+    {
+      "term": "free tier",
+      "explanation": "Das Einstiegsniveau eines Dienstes, der kostenlos mit eingeschränkten Funktionen angeboten wird."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Eine Methode, die Software zu nutzen, indem Sie sie direkt über den Internetbrowser mieten, anstatt sie auf Ihrem Computer zu installieren."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Bereitstellung einer vorgefertigten Infrastruktur über das Internet für Softwareentwickler zur Entwicklung eigener Anwendungen."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Virtuelle Vermietung grundlegender Hardware wie Server und Speicher über das Internet."
+    },
+    {
+      "term": "design systems",
+      "explanation": "Eine Reihe vorgefertigter Designteile und Regeln, mit denen die visuelle Konsistenz einer Anwendung sichergestellt wird."
+    },
+    {
+      "term": "utilities",
+      "explanation": "Kleine Dienstprogramme zur Aufrechterhaltung, Verwaltung und Verbesserung der Leistung eines Computers oder einer Software."
+    },
+    {
+      "term": "PPTX",
+      "explanation": "Standardmäßiges digitales Dateiformat zur Vorbereitung von Präsentationen."
+    },
+    {
+      "term": "AI coding agents",
+      "explanation": "Autonome Assistenten der künstlichen Intelligenz, die anstelle von Programmierern Code schreiben, Fehler beheben und Projekte abschließen können."
+    },
+    {
+      "term": "opinionated tools",
+      "explanation": "Softwaretools, die die beste Arbeitsweise vorgeben und vorgeben, anstatt dem Benutzer zu viele Optionen zu bieten."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Der Vorgang des Kopierens und Speicherns von Daten auf Websites mithilfe automatischer Software."
+    }
+  ]
+}

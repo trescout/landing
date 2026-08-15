@@ -27,5 +27,8 @@ A medida que la tecnología se desarrolla, aumenta el soporte de idiomas, pero o
 - [Voice Synthesis](/es/dictionary/voice-synthesis/)
 - [AI Models](/es/dictionary/ai-models/)
 
+## Herramientas relacionadas
+- [Speech to Speech](/es/discover/speech-to-speech/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/speech-to-speech/

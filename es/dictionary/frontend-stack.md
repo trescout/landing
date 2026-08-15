@@ -27,5 +27,8 @@ No, se seleccionan diferentes combinaciones de herramientas dependiendo del tama
 - [Web Interface](/es/dictionary/web-interface/)
 - [Generative UI](/es/dictionary/generative-ui/)
 
+## Herramientas relacionadas
+- [CopilotKit](/es/discover/copilotkit/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/frontend-stack/

@@ -25,7 +25,20 @@ Dado que solo permite compartir datos permitidos, solo abre la parte relevante d
 
 
 ## Términos relacionados
+- [API](/es/dictionary/api/)
+- [Memory API](/es/dictionary/memory-api/)
 - [MCP](/es/dictionary/mcp/)
+- [Data Pipeline](/es/dictionary/data-pipeline/)
+
+## Herramientas relacionadas
+- [Transformers](/es/discover/transformers/)
+- [Firecrawl](/es/discover/firecrawl/)
+- [Langflow](/es/discover/langflow/)
+- [ComfyUI](/es/discover/comfyui/)
+- [Supabase](/es/discover/supabase/)
+- [MoneyPrinterTurbo](/es/discover/moneyprinterturbo/)
+- [TradingAgents](/es/discover/tradingagents/)
+- [MiroFish](/es/discover/mirofish/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/api/

@@ -27,5 +27,8 @@ Es necesario determinar qué tareas el agente puede y no puede realizar.
 - [Agent Skill](/es/dictionary/agent-skills/)
 - [AI Skills](/es/dictionary/ai-skills/)
 
+## Herramientas relacionadas
+- [K Skill](/es/discover/k-skill/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/skill-sets/

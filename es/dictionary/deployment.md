@@ -27,5 +27,11 @@ En el mundo moderno suele ser automático; Envías el código y el sistema lo pu
 - [Compile-time](/es/dictionary/compile-time/)
 - [API](/es/dictionary/api/)
 
+## Herramientas relacionadas
+- [Rocket.Chat](/es/discover/rocket-chat/)
+- [Chatwoot](/es/discover/chatwoot/)
+- [Argo Cd](/es/discover/argo-cd/)
+- [Openship](/es/discover/openship/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/deployment/

@@ -27,5 +27,8 @@ Sí, un buen motor de inferencia hace que el modelo responda más rápido.
 - [LLM](/es/dictionary/llm/)
 - [AI Models](/es/dictionary/ai-models/)
 
+## Herramientas relacionadas
+- [Ds4](/es/discover/ds4/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/inference-engine/

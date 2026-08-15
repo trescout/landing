@@ -27,5 +27,10 @@ Es una práctica habitual garantizar la fiabilidad en proyectos profesionales.
 - [Unit Testing](/es/dictionary/unit-testing/)
 - [QA](/es/dictionary/qa/)
 
+## Herramientas relacionadas
+- [Jcode](/es/discover/jcode/)
+- [Harness · Ajan Ekip Fabrikası](/es/discover/harness/)
+- [Claude Code Harness](/es/discover/claude-code-harness/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/harness/

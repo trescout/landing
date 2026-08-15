@@ -1,0 +1,29 @@
+# Cybersicherheitskompetenzen für KI
+
+754 vorgefertigte Cybersicherheitskompetenzen, die für Agenten der künstlichen Intelligenz entwickelt wurden; Es deckt 26 verschiedene Sicherheitsdomänen ab und ist auf 5 Kern-Frameworks wie MITRE ATT&CK, NIST CSF und MITRE ATLAS abgebildet. Claude Code funktioniert auf mehr als 20 Plattformen wie GitHub Copilot, Codex, Cursor und Gemini CLI. (Trotz seines Namens handelt es sich nicht um ein offizielles Projekt von Anthropic, sondern um eine unabhängige Gemeinschaftsinitiative.)
+
+- ★ 27.085
+- Python
+- Apache-2.0
+- GitHub Trending · 26 May 2026
+
+## Aktualisieren
+- 1. August 2026: Star 9.924 → 27.085, neueste Version v1.3.0 (22. Juni 2026).
+
+## Was es bringt
+- Es verleiht dem Agenten die Reflexe eines leitenden Analysten: Er weiß, welches Tool er wann verwenden muss.
+- Die Funktionen sind mit anerkannten Sicherheits-Frameworks (wie MITRE, NIST) kompatibel.
+- 26 verschiedene Sicherheitsbereiche, von der forensischen Analyse bis zur Cloud-Sicherheit.
+- Es kann auf mehr als 20 KI-Plattformen eingesetzt werden, ohne an ein einziges Tool gebunden zu sein.
+
+## So fangen Sie an
+Verpackt im Agentskills.io-Standard; Sie können es als Fähigkeit zu Ihrem KI-Assistenten hinzufügen. Schnellstartschritte sind im Repository verfügbar. Validieren Sie jede Funktion in Ihrem Kontext vor der Produktion.
+
+## Verwandte Begriffe aus dem Glossar
+
+## Links
+- GitHub-Repository →
+- Auf Türkisch lesen →
+
+---
+Quelle: TreScout Entdecken · https://trescout.com/de/discover/anthropic-cybersecurity-skills/

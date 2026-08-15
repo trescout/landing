@@ -27,5 +27,8 @@ No, la naturaleza de cada proyecto es diferente; por lo que necesita personaliza
 - [Workflows](/es/dictionary/workflows/)
 - [Framework](/es/dictionary/framework/)
 
+## Herramientas relacionadas
+- [AI Berkshire](/es/discover/ai-berkshire/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/research-framework/

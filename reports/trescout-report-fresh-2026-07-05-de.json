@@ -1,0 +1,129 @@
+{
+  "date": "2026-07-05",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "summary": "Meetily ist ein Open-Source-Meeting-Assistent, der Meeting-Aufzeichnungen lokal verarbeitet und keine Cloud-Verbindung erfordert. Die in Rust entwickelte Anwendung bietet schnelle Sprachtranskription, Sprecher-Tagebücher und Zusammenfassungsfunktionen mit lokalen Sprachmodellen.",
+          "meta": "Rust · ★ 15.565 · +718 heute"
+        },
+        {
+          "title": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "summary": "Diese Bibliothek wurde für .NET- und C#-basierte Codierungsagenten für künstliche Intelligenz entwickelt und bietet spezielle Kompetenzpakete, die Softwareentwicklungsprozesse unterstützen. Es ermöglicht Entwicklern, Automatisierungstools zu standardisieren und Codierungsaufgaben effizient auszuführen.",
+          "meta": "C# · ★ 3.872 · +59 heute"
+        },
+        {
+          "title": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "summary": "Immich ist eine leistungsstarke, selbst gehostete Medienverwaltungslösung, die für die Verwaltung von Foto- und Videodateien entwickelt wurde. Diese in TypeScript geschriebene Plattform ermöglicht es Benutzern, ein zentrales Medienarchiv auf ihrer eigenen Infrastruktur zu erstellen.",
+          "meta": "TypeScript · ★ 105.748 · +201 heute"
+        },
+        {
+          "title": "chthollyphile/folia-major",
+          "url": "https://github.com/chthollyphile/folia-major",
+          "summary": "Folia-major ist eine Player-Schnittstelle, die visualisierte Textanimationen für lokale Musikdateien und Online-Plattformen bereitstellt. Dieses mit TypeScript entwickelte Tool zielt darauf ab, das Musikhörerlebnis mit dynamischen visuellen Effekten zu bereichern.",
+          "meta": "TypeScript · ★ 1.034 · +175 heute"
+        },
+        {
+          "title": "CoplayDev/unity-mcp",
+          "url": "https://github.com/CoplayDev/unity-mcp",
+          "summary": "Unity MCP bietet eine Brücke zwischen großen Sprachmodellen und dem Unity-Editor und ermöglicht so die Automatisierung von Asset-Management, Szenensteuerung und Codebearbeitungsprozessen. Dieses Tool, das über das Model Server Protocol (Model Context Protocol) funktioniert, ermöglicht es Assistenten der künstlichen Intelligenz, direkt in die Arbeitsabläufe der Spieleentwicklung einzugreifen.",
+          "meta": "C# · ★ 11.702 · +69 heute"
+        },
+        {
+          "title": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "summary": "Diese Bibliothek wurde für Claude Code und verschiedene Programmieragenten entwickelt und bietet mehr als 330 Kompetenzpakete und über 70 Spezialbefehle in verschiedenen Bereichen von der Technik bis zum Marketing. Dieses Python-basierte Toolset bietet anpassbare Skripte, um KI-basierte Arbeitsabläufe zu standardisieren und die Produktivität zu steigern.",
+          "meta": "Python · ★ 20.244 · +136 heute"
+        },
+        {
+          "title": "crynta/terax-ai",
+          "url": "https://github.com/crynta/terax-ai",
+          "summary": "Terax-ai fällt als terminalorientierte lokale Entwicklungsumgebung für künstliche Intelligenz (AI-native Dev Workspace) durch seine geringe Größenstruktur von 7 Megabyte auf. Dieses mit TypeScript entwickelte Tool bietet Entwicklern die Möglichkeit, direkt über das Terminal mit künstlicher Intelligenz zu programmieren.",
+          "meta": "TypeScript · ★ 8.121 · +62 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Leaking YouTube creators' private videos",
+          "url": "https://javoriuski.com/post/youtube",
+          "summary": "Es wurde festgestellt, dass private Videos auf YouTube aufgrund einer Sicherheitslücke in der Benutzeroberfläche der Plattform für Unbefugte zugänglich geworden sind. Diese Situation führt dazu, dass Videodateien, die von Inhaltsproduzenten geheim gehalten werden, über ihre Metadaten durchsickern.",
+          "meta": "577 Punkte · 318 Kommentare"
+        },
+        {
+          "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+          "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+          "summary": "Das mit der Fable-Engine entwickelte Open-Source-Projekt macht das Spiel „Command and Conquer Generals“ nativ auf macOS-, iPhone- und iPad-Geräten ausführbar. Diese Arbeit ermöglicht das Spielen alter Strategiespiele auf moderner Apple-Hardware, ohne dass eine zusätzliche Emulationsschicht erforderlich ist.",
+          "meta": "511 Punkte · 211 Kommentare"
+        },
+        {
+          "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+          "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+          "summary": "Anna's Archive-Plattform hat ein Prämienprogramm in Höhe von 200.000 US-Dollar gestartet, um eine umfassende digitale Bibliothek zu erstellen, die alle gescannten Buchdaten von Google Books und ähnlichen Quellen enthält. Ziel dieser Initiative ist es, urheberrechtlich geschützte oder barrierefreie Werke in einem zentralen Datensatz zu sammeln.",
+          "meta": "426 Punkte · 232 Kommentare"
+        },
+        {
+          "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+          "url": "https://github.com/anthropics/claude-code/issues/74066",
+          "summary": "Benutzer von Claude Code melden Sitzungs- oder Cache-Lecks zwischen verschiedenen Workspace-Instanzen oder Verbraucherkonten. Dies weist auf eine technische Schwachstelle hin, die ein Datensicherheitsrisiko zwischen unabhängigen Sitzungen darstellen kann.",
+          "meta": "288 Punkte · 130 Kommentare"
+        },
+        {
+          "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+          "url": "https://github.com/openai/codex/issues/30364",
+          "summary": "Es wird argumentiert, dass die Reasoning-Token-Clustering-Methode in OpenAI-Modellen in einigen Fällen zu einer Verringerung der Modellleistung führt. Benutzer geben an, dass diese Clustering-Strategie die Fehlerquote bei Codegenerierungsprozessen erhöht.",
+          "meta": "237 Punkte · 82 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/Qwen3.6-27B-NVFP4",
+          "url": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
+          "summary": "Qwen3.6-27B-NVFP4 von Nvidia ist ein für Textgenerierungsaufgaben optimiertes Sprachmodell. Dieses mit Vier-Bit-Gleitkomma-Präzision (FP4) trainierte Modell unterstützt leistungsstarke Inferenzprozesse.",
+          "meta": "♥ 259 · 184.521 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "token",
+      "explanation": "Die kleinste in Teile unterteilte Wort- oder Silbeneinheit, die künstliche Intelligenz bei der Verarbeitung von Texten verwendet."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Standardmethode zur sicheren Verbindung von KI-Modellen mit verschiedenen Datenquellen und Anwendungen."
+    },
+    {
+      "term": "transcription",
+      "explanation": "Der Prozess der Transkribierung von Sprachaufzeichnungen oder Gesprächen in Text."
+    },
+    {
+      "term": "speaker diarization",
+      "explanation": "Der Prozess der Bestimmung, wer wann gesprochen hat, indem die Stimme der Person in der Audioaufnahme unterschieden wird."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Eine Methode, Software auf Ihrem eigenen Computer oder privaten Server auszuführen, anstatt auf dem Server eines anderen Unternehmens."
+    },
+    {
+      "term": "terminal",
+      "explanation": "Eine Befehlszeilenschnittstelle mit schwarzem Bildschirm, die es Ihnen ermöglicht, Vorgänge durch die Eingabe von Textbefehlen direkt auf dem Computer auszuführen."
+    },
+    {
+      "term": "skills",
+      "explanation": "Besondere Fähigkeiten, die eine Software oder künstliche Intelligenz benötigt, um eine bestimmte Aufgabe zu erfüllen."
+    }
+  ]
+}

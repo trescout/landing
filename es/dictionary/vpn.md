@@ -29,5 +29,9 @@ Generalmente no, pueden generar ingresos a partir de sus datos.
 - [Reverse Proxy](/es/dictionary/reverse-proxy/)
 - [Offline](/es/dictionary/offline/)
 
+## Herramientas relacionadas
+- [Amnezia Client](/es/discover/amnezia-client/)
+- [MasterDnsVPN](/es/discover/masterdnsvpn/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/vpn/

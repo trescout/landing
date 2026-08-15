@@ -1,0 +1,101 @@
+{
+  "date": "2026-06-23",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Stirling-Tools/Stirling-PDF",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "summary": "Stirling-PDF ist ein Open-Source-Dokumentverarbeitungstool, mit dem Benutzer PDF-Dateien auf jedem Gerät bearbeiten können. Diese mit TypeScript entwickelte Anwendung zentralisiert Dokumentenverwaltungsprozesse, indem sie auf lokalen Servern ausgeführt wird.",
+          "meta": "TypeScript · ★ 83.316 · +547 heute"
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Gstack ist ein System, das auf der Claude Code-Konfiguration von Garry Tan basiert und aus 23 spezialisierten Tools besteht, die unterschiedliche Rollen spielen, z. B. CEO, Designer, technischer Manager. Diese TypeScript-basierte Struktur bietet definierte Workflows zur Automatisierung von Softwareentwicklungsprozessen.",
+          "meta": "TypeScript · ★ 113.462 · +573 heute"
+        },
+        {
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "summary": "Hyperframes wurde von Heygen entwickelt und bietet ein Framework, das HTML-Codes direkt in Videos umwandelt. Dieses Tool wurde entwickelt, um Agenten der künstlichen Intelligenz die Erstellung visueller Inhalte zu erleichtern, und konvertiert webbasierte Schnittstellen in ein Videoformat.",
+          "meta": "TypeScript · ★ 30.297 · +395 heute"
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl bietet eine Schnittstelle (API), um Daten von Websites in großem Maßstab zu crawlen, zu extrahieren und in ein Klartextformat umzuwandeln, das KI-Modelle verarbeiten können. Dieses Tool vereinfacht Datenerfassungsprozesse durch die Automatisierung der Interaktion mit Webinhalten.",
+          "meta": "TypeScript · ★ 137.683 · +615 heute"
+        },
+        {
+          "title": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "summary": "Der von JCodesMore entwickelte Website-Kloner mit künstlicher Intelligenz (AI-Website-Kloner) ermöglicht das Kopieren bestehender Websites mit einem einzigen Befehl mithilfe von TypeScript-basierten Codierungsagenten. Dieses Tool nutzt KI-gestützte Codegenerierung, um Webdesign- und Entwicklungsprozesse zu automatisieren.",
+          "meta": "TypeScript · ★ 18.039 · +100 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Steam Machine launches today",
+          "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+          "summary": "Valve hat Steam Machine veröffentlicht, eine neue Hardwareplattform, die die Spielebibliothek ins Wohnzimmer bringt. Ziel des Geräts ist es, das Spielerlebnis mit einer konsolenähnlichen Oberfläche über ein spezielles Betriebssystem (SteamOS) zu bieten.",
+          "meta": "1.491 Punkte · 1.307 Kommentare"
+        },
+        {
+          "title": "Help I accidentally a wigglegram",
+          "url": "https://lmao.center/blog/wiggle-accidents/",
+          "summary": "Wigglegram ist eine Technik zur Illusion der Tiefenwahrnehmung (stereoskopischer Effekt), die durch das Abspielen von zwei oder mehr Fotos in schneller Folge entsteht. Ziel dieser Methode ist es, ein dreidimensionales Tiefengefühl zu erzeugen, indem statischen Bildern Bewegung hinzugefügt wird.",
+          "meta": "526 Punkte · 122 Kommentare"
+        },
+        {
+          "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+          "url": "https://ipvm.com/reports/police-chiefs-track",
+          "summary": "Die von Flock Safety bereitgestellte automatische Nummernschilderkennung löst Sicherheits- und Datenschutzdebatten aus, da Polizeichefs sie nutzen, um Frauen für persönliche Zwecke zu verfolgen. Diese Situation bringt die Notwendigkeit eines gesetzlichen Durchsuchungsbefehls zur Kontrolle von Überwachungstechnologien auf die Tagesordnung.",
+          "meta": "490 Punkte · 200 Kommentare"
+        },
+        {
+          "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+          "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+          "summary": "Die kanadische Regierung plant eine Strategie zur nuklearen Renaissance, die darauf abzielt, die Energieproduktionskapazität durch den Bau von bis zu zehn neuen Kernreaktoren bis 2040 zu erhöhen. Diese Initiative stellt die Bemühungen des Landes dar, seine Kernenergieinfrastruktur auszubauen, um seine Ziele für saubere Energie zu erreichen.",
+          "meta": "443 Punkte · 293 Kommentare"
+        },
+        {
+          "title": "GLM-5.2 – How to Run Locally",
+          "url": "https://unsloth.ai/docs/models/glm-5.2",
+          "summary": "Die Unsloth-Plattform bietet die notwendigen Optimierungsmethoden und Installationsschritte, um das GLM-5.2-Modell auf lokalen Computern auszuführen. Dieser Leitfaden beschreibt technische Prozesse, die darauf abzielen, leistungsstarke Sprachmodelle mit geringeren Hardwareanforderungen auszuführen.",
+          "meta": "340 Punkte · 147 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR wurde von Baidu entwickelt und ist ein Bild-zu-Text-Modell, das bildbasierten Text in Textdaten umwandelt. Diese Technologie wurde zur Digitalisierung von Daten in komplexen Dokumenten entwickelt und zielt auf eine hohe Genauigkeit optischer Zeichenerkennungsprozesse ab.",
+          "meta": "♥ 261 · 47 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "workflows",
+      "explanation": "Eine Reihe regelmäßiger und wiederholbarer Schritte, die befolgt werden müssen, um eine Aufgabe abzuschließen."
+    },
+    {
+      "term": "framework",
+      "explanation": "Ein Grundgerüst, das vorgefertigte Strukturen und Regeln bereitstellt, die die Entwicklung von Software erleichtern."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    }
+  ]
+}

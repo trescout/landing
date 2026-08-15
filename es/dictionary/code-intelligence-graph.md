@@ -24,5 +24,8 @@ Porque en proyectos muy grandes, es imposible rastrear manualmente dónde un cam
 - [Coding Agent](/es/dictionary/coding-agent/)
 - [LSP](/es/dictionary/lsp/)
 
+## Herramientas relacionadas
+- [Code Review Graph](/es/discover/code-review-graph/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/code-intelligence-graph/

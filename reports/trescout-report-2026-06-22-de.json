@@ -1,0 +1,237 @@
+{
+  "date": "2026-06-22",
+  "editorial": "Open-Source-Designtools und Datenbankverwaltungslösungen stehen heute im Vordergrund. Die aktuelle Aktivität auf GitHub zeigt, dass vor allem visuelle Montage- und Finanzanalyseautomatisierungen bei Entwicklern auf großes Interesse stoßen.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro ist eine für das macOS-Betriebssystem entwickelte Videobearbeitungsanwendung, die durch künstliche Intelligenz unterstützte Bearbeitungswerkzeuge integriert. Diese in Swift geschriebene Plattform zielt darauf ab, Funktionen der künstlichen Intelligenz mit einem nativen Bearbeitungserlebnis zu kombinieren.",
+          "meta": "Swift · ★ 6.336 · +1.834 heute"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage ist ein agentenbasiertes Open-Source-System, das KI-gestützte Codierungsassistenten in ein umfassendes Videoproduktionsstudio verwandelt. Es automatisiert Videoproduktionsprozesse mit zwölf verschiedenen Workflows, 52 Tools und mehr als 500 Agentenfähigkeiten.",
+          "meta": "Python · ★ 10.126 · +987 heute"
+        },
+        {
+          "title": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "summary": "Turso ist eine In-Process-SQL-Datenbank, die mit SQLite kompatibel ist. Dieses mit der Rust-Sprache entwickelte System bietet eine leistungsorientierte Lösung, indem es Datenbankoperationen innerhalb von Anwendungsprozessen ausführt.",
+          "meta": "Rust · ★ 21.039 · +548 heute"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot ist ein Open-Source-Designtool, das die Zusammenarbeit zwischen Designern und Entwicklern stärkt. Dank seiner vektorbasierten Schnittstelle vereint es Design- und Coding-Prozesse auf einer einzigen Plattform.",
+          "meta": "Clojure · ★ 52.562 · +1.135 heute"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "Unterstützt durch große Sprachmodelle analysiert dieses System Marktdaten und Echtzeitnachrichten aus mehreren Quellen und bietet visualisierte Panels für Investitionsentscheidungen. Es standardisiert Analyseprozesse für verschiedene Börsen mit automatischen Benachrichtigungen und kostenloser geplanter Studienunterstützung.",
+          "meta": "Python · ★ 45.304 · +568 heute"
+        },
+        {
+          "title": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "summary": "Worldmonitor bietet ein globales Echtzeit-Intelligence-Dashboard, das KI-gestützte Nachrichtenzusammenstellung, geopolitische Überwachung und Infrastrukturüberwachungsfunktionen in einer einzigen Schnittstelle vereint. Dieses mit der TypeScript-Sprache entwickelte Tool ermöglicht es Benutzern, komplexe Daten mit Schwerpunkt auf Situationsbewusstsein zu verfolgen.",
+          "meta": "TypeScript · ★ 58.424 · +163 heute"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "Deer-Flow wurde von ByteDance entwickelt und ist ein Open-Source-Superagenten-Framework, das für die Ausführung lang andauernder Aufgaben entwickelt wurde. System; Mithilfe von Sandbox, Speicherverwaltung und Subagenten kann es komplexe Arbeitsabläufe autonom recherchieren und programmieren.",
+          "meta": "Python · ★ 72.905 · +442 heute"
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp bietet leistungsstarke Code-Intelligenz, indem es Codebasen in einen permanenten Wissensgraphen umwandelt. Dieses in C-Sprache entwickelte Tool unterstützt 158 ​​Programmiersprachen, reduziert die Abfragezeiten auf unter Millisekunden und reduziert den Verbrauch von Kontextfenstern erheblich.",
+          "meta": "C · ★ 10.874 · +1.032 heute"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Das Anthropic-Cybersecurity-Skills-Projekt bietet eine Reihe von 754 strukturierten Fähigkeiten für KI-Agenten, gepaart mit fünf verschiedenen Cybersicherheits-Frameworks. Diese Ressource deckt 26 Sicherheitsdomänen ab und ermöglicht die Erstellung standardisierter Sicherheitsworkflows auf mehr als 20 Plattformen wie Claude Code und GitHub Copilot.",
+          "meta": "Python · ★ 18.081 · +361 heute"
+        },
+        {
+          "title": "mikumifa/biliTickerBuy",
+          "url": "https://github.com/mikumifa/biliTickerBuy",
+          "summary": "Dieses Python-basierte Tool, das die Kaufprozesse für Bilibili-Mitglieder automatisiert, ist ein Ticketkaufassistent, der die Ticketkaufprozesse beschleunigen soll. Dadurch können Benutzer schneller auf begrenzte Lagerbestände auf der Plattform zugreifen.",
+          "meta": "Python · ★ 3.782 · +67 heute"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot ist ein Python-Tool, das die Sammlung von Open Source Intelligence (OSINT) für Bedrohungsinformationen und Angriffsflächen-Mapping-Prozesse automatisiert. Es ermöglicht die Erkennung von Sicherheitslücken in digitalen Assets durch die Integration verschiedener Datenquellen.",
+          "meta": "Python · ★ 18.921 · +294 heute"
+        },
+        {
+          "title": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "summary": "Cognee ist eine Open-Source-Plattform, die künstliche Intelligenz-Agenten ein Langzeitgedächtnis zwischen Sitzungen bereitstellt. Es ermöglicht Agenten, Daten mithilfe einer selbstgehosteten Knowledge-Graph-Engine strukturiert zu speichern und abzurufen.",
+          "meta": "Python · ★ 18.871 · +347 heute"
+        },
+        {
+          "title": "byoungd/English-level-up-tips",
+          "url": "https://github.com/byoungd/English-level-up-tips",
+          "summary": "English-level-up-tips bietet eine umfassende Liste von Lernleitfäden und Ressourcen für diejenigen, die ihre Englischkenntnisse verbessern möchten. Diese Studie konzentriert sich auf fortgeschrittene Englischziele, indem sie den Sprachlernprozess durch einen strukturierten Lehrplan unterstützt.",
+          "meta": "★ 54.252 · +125 heute"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Das auf GitHub freigegebene Repository system_prompts_leaks bündelt Systemprompts von Modellen der künstlichen Intelligenz großer Technologieunternehmen wie Anthropic, OpenAI, Google und xAI. Diese Sammlung stellt eine zentrale Ressource für Entwickler dar, die die Hintergrundkonfigurationsanweisungen und Einschränkungen gängiger Sprachmodelle untersuchen möchten.",
+          "meta": "JavaScript · ★ 44.809 · +282 heute"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Dieses von Matt Pocock geteilte Repository bietet eine Sammlung maßgeschneiderter Skriptfähigkeiten für Softwareentwickler. Diese Tools stammen aus dem Konfigurationsverzeichnis des Claude AI-Assistenten und zielen darauf ab, Entwickler-Workflows zu automatisieren.",
+          "meta": "Shell · ★ 140.689 · +1.443 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Identity verification on Claude",
+          "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+          "summary": "Anthropic führt einen Identitätsüberprüfungsprozess ein, um die Sicherheitsmaßnahmen auf der Claude-Plattform zu erhöhen. Bei dieser App müssen Benutzer ihr Konto sichern und den Plattformzugriff verifizieren, indem sie ihre offiziellen Dokumente hochladen.",
+          "meta": "749 Punkte · 620 Kommentare"
+        },
+        {
+          "title": "Did my old job only exist because of fraud?",
+          "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+          "summary": "Es wird argumentiert, dass gefälschter Datenverkehr und künstliche Interaktionen in Softwareentwicklungsprozessen die Hauptmotivation für das Überleben einiger Jobrollen sind. Dies zeigt, dass Produktivitätskennzahlen und Stellenbeschreibungen im Technologiesektor möglicherweise eher auf irreführenden Indikatoren als auf der tatsächlichen Wertschöpfung basieren.",
+          "meta": "551 Punkte · 236 Kommentare"
+        },
+        {
+          "title": "Prefer duplication over the wrong abstraction (2016)",
+          "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+          "summary": "Die Bevorzugung von Codewiederholungen gegenüber falscher Abstraktion im Softwareentwicklungsprozess trägt dazu bei, die Flexibilität des Systems zu bewahren. Durch die Vermeidung unnötiger Verallgemeinerungen kann sich die Codebasis leichter an künftig erforderliche Änderungen anpassen.",
+          "meta": "485 Punkte · 316 Kommentare"
+        },
+        {
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
+          "url": "https://apertvs.ai/",
+          "summary": "Apertus ist eine Open-Source-Grundmodellplattform, die es Ländern ermöglicht, trainierbare Modelle mit ihren eigenen Daten zu erstellen. Im Einklang mit seiner Vision einer souveränen KI zielt es darauf ab, transparente und überprüfbare künstliche Intelligenzsysteme zu entwickeln, die auf lokaler Infrastruktur laufen können.",
+          "meta": "375 Punkte · 127 Kommentare"
+        },
+        {
+          "title": "Deno Desktop",
+          "url": "https://docs.deno.com/runtime/desktop/",
+          "summary": "Mit Deno Desktop können Entwickler native Desktop-Anwendungen mithilfe der Deno-Laufzeitumgebung erstellen. Dieses Tool bietet ein Anwendungsframework, das den Desktop-Softwareentwicklungsprozess mit Webtechnologien vereinfacht.",
+          "meta": "349 Punkte · 144 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, veröffentlicht von Zai-org, ist ein Sprachmodell, das für Textgenerierungsaufgaben optimiert ist. Das Modell ist für den Einsatz in verschiedenen Sprachverarbeitungsprozessen durch Training an großen Datensätzen konzipiert.",
+          "meta": "♥ 1.919 · 33.589 Downloads"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Gemma-4-12B-coder-fable5-composer2.5-v1-GGUF ist ein Sprachmodell, das sich auf Textgenerierungsfunktionen konzentriert und im GGUF-Format präsentiert wird, um Hardwareressourcen zu optimieren. Es ist so strukturiert, dass es Codegenerierungs- und Bearbeitungsaufgaben in Softwareentwicklungsprozessen unterstützt.",
+          "meta": "♥ 2.124 · 414.734 Downloads"
+        },
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "summary": "VibeThinker-3B wurde von WeiboAI entwickelt und ist ein 3-Milliarden-Parameter-Sprachmodell, das für Textgenerierungsaufgaben optimiert ist. Das Modell, das schnelle Inferenzprozesse mit einer geringen Anzahl von Parametern unterstützt, konzentriert sich auf allgemeine Anforderungen an die Textgenerierung.",
+          "meta": "♥ 583 · 32.385 Downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3 ist ein multimodales Modell, das Text- und visuelle Daten gleichzeitig verarbeiten kann. Das System bietet die Möglichkeit, durch die Kombination von Bild- und Texteingaben eine textbasierte Ausgabe zu erstellen.",
+          "meta": "♥ 1.188 · 119.967 Downloads"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Dieses auf Gemma-4-12B basierende Textgenerierungsmodell bietet eine spezielle Konfiguration, die für agentenbasierte Aufgaben optimiert ist. Das im GGUF-Format veröffentlichte Modell bietet ein effizientes Inferenzerlebnis, das auf lokalen Geräten ausgeführt werden kann.",
+          "meta": "♥ 317 · 50.314 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "video editor",
+      "explanation": "Software, mit der Sie Bild- und Audiodateien bearbeiten können, indem Sie sie ausschneiden und kombinieren."
+    },
+    {
+      "term": "agentic system",
+      "explanation": "Autonome Softwarestruktur, die selbstständig Entscheidungen treffen und Schritte zur Zielerreichung einleiten kann."
+    },
+    {
+      "term": "pipeline",
+      "explanation": "Automatisierte Prozesslinie, in der Daten von einer Stufe zur nächsten verarbeitet werden."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Besondere Fähigkeiten, die künstliche Intelligenz nutzt, um bestimmte Aufgaben auszuführen."
+    },
+    {
+      "term": "in-process",
+      "explanation": "Vorgänge, die im eigenen Arbeitsbereich eines Programms ausgeführt werden."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "dashboard",
+      "explanation": "Panel, mit dem Sie komplexe Daten und Statistiken visuell auf einem einzigen Bildschirm verfolgen können."
+    },
+    {
+      "term": "situational awareness",
+      "explanation": "Die Software erkennt die Daten und Änderungen in ihrer Umgebung sofort und wertet sie aus."
+    },
+    {
+      "term": "SuperAgent",
+      "explanation": "Fortschrittlicher Assistent mit künstlicher Intelligenz, der mehrere Aufgaben gleichzeitig verwalten und komplexe Vorgänge lösen kann."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Ein geschlossener Bereich, der es Ihnen ermöglicht, Programme sicher zu testen, indem Sie sie vom Hauptsystem isolieren."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Eine Datenstruktur, die Beziehungen zwischen Informationen als miteinander verbundene Punkte zeigt."
+    },
+    {
+      "term": "skills",
+      "explanation": "Die Fähigkeiten, die eine Software oder künstliche Intelligenz benötigt, um eine bestimmte Aufgabe zu erfüllen."
+    },
+    {
+      "term": "ticket purchasing assistant",
+      "explanation": "Ein digitaler Assistent, der im Namen des Benutzers nach Tickets sucht und Einkäufe tätigt."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Eine Methode zum Sammeln und Analysieren von Informationen aus öffentlich zugänglichen Quellen im Internet."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "Künstliche Intelligenz speichert vergangene Informationen und Erfahrungen über einen langen Zeitraum und erinnert sich bei Bedarf daran."
+    },
+    {
+      "term": "knowledge graph engine",
+      "explanation": "Software-Infrastruktur, die komplexe Zusammenhänge zwischen Informationen herstellt und deren Abfrage ermöglicht."
+    }
+  ]
+}

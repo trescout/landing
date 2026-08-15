@@ -24,5 +24,8 @@ Acelera el proceso de desarrollo de software, reduce los errores y garantiza un 
 - [SDK](/es/dictionary/sdk/)
 - [Common Libraries](/es/dictionary/common-libraries/)
 
+## Herramientas relacionadas
+- [Guava](/es/discover/guava/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/core-libraries/

@@ -23,5 +23,8 @@ Aumenta la lealtad al garantizar que el cliente reciba la misma calidad de servi
 - [Omni-channel Desk](/es/dictionary/omni-channel-desk/)
 - [Enterprise Resource Planning](/es/dictionary/enterprise-resource-planning/)
 
+## Herramientas relacionadas
+- [Chatwoot](/es/discover/chatwoot/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/omni-channel/

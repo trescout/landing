@@ -27,5 +27,8 @@ Su acceso está completamente cortado, por lo que el almacenamiento seguro de la
 - [Secrets](/es/dictionary/secrets/)
 - [Security Scanner](/es/dictionary/security-scanner/)
 
+## Herramientas relacionadas
+- [Iroh](/es/discover/iroh/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/key-based/

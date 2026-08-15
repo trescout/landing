@@ -27,5 +27,15 @@ Puedes abrirlo con cualquier editor de texto, pero puedes leerlo formateado más
 - [API](/es/dictionary/api/)
 - [CLI](/es/dictionary/cli/)
 
+## Herramientas relacionadas
+- [MarkItDown](/es/discover/markitdown/)
+- [Firecrawl](/es/discover/firecrawl/)
+- [PaddleOCR](/es/discover/paddleocr/)
+- [MinerU](/es/discover/mineru/)
+- [Crawl4AI](/es/discover/crawl4ai/)
+- [Scrapling](/es/discover/scrapling/)
+- [Opendataloader PDF](/es/discover/opendataloader-pdf/)
+- [Book to Skill](/es/discover/book-to-skill/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/markdown/

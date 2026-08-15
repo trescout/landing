@@ -24,5 +24,8 @@ Los cambios que realices permanecerán solo en tu computadora y tu equipo no pod
 - [Tech Stack](/es/dictionary/tech-stack/)
 - [Deployment](/es/dictionary/deployment/)
 
+## Herramientas relacionadas
+- [No Mistakes](/es/discover/no-mistakes/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/git-push/

@@ -24,5 +24,8 @@ Se almacena dentro del propio volumen, es decir, directamente como parte del ent
 - [State Management](/es/dictionary/state-management/)
 - [Distributed](/es/dictionary/distributed/)
 
+## Herramientas relacionadas
+- [Celld](/es/discover/celld/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/durable-objects/

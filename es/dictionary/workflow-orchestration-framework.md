@@ -24,5 +24,8 @@ Se utiliza para evitar cometer errores en los casos en los que hay demasiadas ta
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 - [Workflows](/es/dictionary/workflows/)
 
+## Herramientas relacionadas
+- [Prefect](/es/discover/prefect/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/workflow-orchestration-framework/

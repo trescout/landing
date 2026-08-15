@@ -24,5 +24,8 @@ Los sistemas modernos cuentan con protocolos de seguridad que se monitorean cons
 - [Physical AI](/es/dictionary/physical-ai/)
 - [Autonomous Robotics](/es/dictionary/autonomous-robotics/)
 
+## Herramientas relacionadas
+- [Apollo-11](/es/discover/apollo-11/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/guidance-computer/

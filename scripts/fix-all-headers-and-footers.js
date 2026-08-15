@@ -117,11 +117,18 @@ let fixedFooterCount = 0;
 // eklenince unutuldu: normalize edici 1000+ Portekizce sayfaya TÜRKÇE menü
 // bastı (2026-08-14). Artık tablodan türüyor · İngilizce hariç, çünkü onun
 // kanonik kaynağı bu betik.
-const URETILEN_DILLER = JSON.parse(
+const DIL_BILGI = JSON.parse(
   require('child_process').execFileSync('python3', ['-c',
-    "import sys;sys.path.insert(0,'scripts');from diller import DILLER;import json;" +
-    "print(json.dumps([k+'/' for k in DILLER if k!='en']))"], { encoding: 'utf8' })
+    "import sys;sys.path.insert(0,'scripts');from diller import DILLER, ARIA_TR;import json;" +
+    "print(json.dumps({'diller': list(DILLER), " +
+    "'aria_kendi': {k: d['aria_gec'] for k, d in DILLER.items()}, 'aria_tr': ARIA_TR}))"],
+    { encoding: 'utf8' })
 );
+const URETILEN_DILLER = DIL_BILGI.diller.filter(k => k !== 'en').map(k => k + '/');
+// Menüdeki dil düğmeleri · TÜRKÇE ve İNGİLİZCE kabuk için. Liste ELLE
+// yazılıyordu: Portekizce eklenince bu dosya unutuldu ve normalize edici
+// 1000+ Portekizce sayfaya Türkçe menü bastı (2026-08-14). Artık diller.py'den.
+const DIGER_DILLER = DIL_BILGI.diller.filter(k => k !== 'en');
 
 allHtmls.forEach(relPath => {
   const normPath = relPath.replace(/\\/g, '/');
@@ -173,7 +180,7 @@ allHtmls.forEach(relPath => {
   // Diğer dillerdeki karşılık · aynı bölüm + aynı slug, karşılığı yoksa o dilin
   // ana sayfası (404 vermesin). 2026-08-08'de Fransızca, 2026-08-13'te Portekizce
   // eklendi · dil listesi büyüyünce burası tek yerden dönüyor.
-  const bolumYolu = normPath.replace(/^(en|fr|pt|es)\//, '');
+  const bolumYolu = normPath.replace(new RegExp('^(' + DIL_BILGI.diller.join('|') + ')/'), '');
   const dilBaglantisi = (onek) => {
     const aday = (() => {
       if (bolumYolu === 'index.html') return `/${onek}/`;
@@ -198,13 +205,16 @@ allHtmls.forEach(relPath => {
     return fs.existsSync(path.join(ROOT, aday.replace(/^\/|\/$/g, ''), 'index.html'))
       ? aday : `/${onek}/`;
   };
-  const frLink = dilBaglantisi('fr');
-  const ptLink = dilBaglantisi('pt');
-  const esLink = dilBaglantisi('es');
+  // Dil düğmeleri · İngilizce kabuk hedef dilin KENDİ metnini kullanıyor,
+  // Türkçe kabuk Türkçe konuşuyor.
+  const dilDugmeleri = (trKabugu) => DIGER_DILLER.map(k =>
+    `<a href="${dilBaglantisi(k)}" class="btn btn-ghost" aria-label="${
+      trKabugu ? DIL_BILGI.aria_tr[k] : DIL_BILGI.aria_kendi[k]
+    }">${k.toUpperCase()}</a>`).join('');
 
   const expectedNav = isEn ?
-`<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports Archive</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="${oppLink}" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a><a href="${frLink}" class="btn btn-ghost" aria-label="Passer au français">FR</a><a href="${ptLink}" class="btn btn-ghost" aria-label="Mudar para português">PT</a><a href="${esLink}" class="btn btn-ghost" aria-label="Cambiar a español">ES</a></div></div></nav>` :
-`<nav><div class="container nav-inner"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/discover/" class="btn btn-ghost">Keşif</a><a href="/dictionary/" class="btn btn-ghost">Sözlük</a><a href="/reports/" class="btn btn-ghost">Raporlar</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Karşılaştır</a><a href="${oppLink}" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a><a href="${frLink}" class="btn btn-ghost" aria-label="Fransızcaya geç">FR</a><a href="${ptLink}" class="btn btn-ghost" aria-label="Portekizceye geç">PT</a><a href="${esLink}" class="btn btn-ghost" aria-label="İspanyolcaya geç">ES</a></div></div></nav>`;
+`<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports Archive</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="${oppLink}" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a>${dilDugmeleri(false)}</div></div></nav>` :
+`<nav><div class="container nav-inner"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/discover/" class="btn btn-ghost">Keşif</a><a href="/dictionary/" class="btn btn-ghost">Sözlük</a><a href="/reports/" class="btn btn-ghost">Raporlar</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Karşılaştır</a><a href="${oppLink}" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a>${dilDugmeleri(true)}</div></div></nav>`;
 
   const expectedFooter = isEn ? richEnFooter : richTrFooter;
 

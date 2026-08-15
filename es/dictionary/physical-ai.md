@@ -27,5 +27,8 @@ No, a diferencia de las máquinas simples que simplemente ejecutan comandos bás
 - [Autonomous Agent](/es/dictionary/autonomous-agent/)
 - [World Model](/es/dictionary/world-model/)
 
+## Herramientas relacionadas
+- [Cosmos](/es/discover/cosmos/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/physical-ai/

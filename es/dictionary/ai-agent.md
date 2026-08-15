@@ -22,5 +22,17 @@ Pueden realizar operaciones incorrectas si no se controlan, por lo que la superv
 Progresan haciendo cálculos de probabilidad de acuerdo con las reglas y objetivos que se les asignan.
 
 
+## Términos relacionados
+- [Agentic AI](/es/dictionary/agentic-ai/)
+- [AI Skills](/es/dictionary/ai-skills/)
+- [MCP](/es/dictionary/mcp/)
+
+## Herramientas relacionadas
+- [Awesome LLM Apps](/es/discover/awesome-llm-apps/)
+- [Taste Skill](/es/discover/taste-skill/)
+- [Last30days Skill](/es/discover/last30days-skill/)
+- [AI Agent Book](/es/discover/ai-agent-book/)
+- [Hiring Agent](/es/discover/hiring-agent/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-agent/

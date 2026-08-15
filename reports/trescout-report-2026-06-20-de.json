@@ -1,0 +1,237 @@
+{
+  "date": "2026-06-20",
+  "editorial": "Heutzutage stechen im Entwickler-Ökosystem Tools hervor, die sich auf Codebasisspeicher und autonome Agentenarchitekturen konzentrieren. Von Google Research geteilte Zeitreihen-Prognosemodelle bieten eine wichtige Ressource, die die datenbasierten Prognosemöglichkeiten erweitert.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp wurde von DeusData entwickelt und bietet eine leistungsstarke Codeanalyse durch die Umwandlung von Codebasen in einen permanenten Wissensgraphen. Dieser in C-Sprache geschriebene Server unterstützt 158 ​​Programmiersprachen, wodurch die Abfragezeiten auf unter Millisekunden reduziert und die Token-Nutzung erheblich reduziert wird.",
+          "meta": "C · ★ 8.589 · +1.058 heute"
+        },
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "Das von Google Research entwickelte Time Series Foundation Model bietet eine vorab trainierte Struktur für Prognoseprozesse. Das Modell zielt darauf ab, Vorhersagefähigkeiten über verschiedene Bereiche hinweg zu standardisieren, indem komplexe Zeitreihendaten analysiert werden.",
+          "meta": "Python · ★ 24.191 · +1.510 heute"
+        },
+        {
+          "title": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "summary": "Palmier Pro wurde als Videoeditor entwickelt, der auf dem Betriebssystem macOS läuft und durch künstliche Intelligenz unterstützte Bearbeitungswerkzeuge bietet. Diese in Swift-Sprache geschriebene Anwendung zielt darauf ab, auf künstlicher Intelligenz basierende Arbeitsabläufe mit lokaler Systemleistung zu kombinieren.",
+          "meta": "Swift · ★ 2.134 · +756 heute"
+        },
+        {
+          "title": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "summary": "Worldmonitor bietet ein globales Echtzeit-Intelligence-Dashboard, das KI-gestützte Nachrichtenzusammenstellung und geopolitische Überwachungsfunktionen in einer einzigen Schnittstelle vereint. Dieses Tool, das Infrastrukturüberwachung und Situationsbewusstsein bietet, erleichtert Analyseprozesse durch die Visualisierung komplexer Datenflüsse.",
+          "meta": "TypeScript · ★ 57.469 · +156 heute"
+        },
+        {
+          "title": "aishwaryanr/awesome-generative-ai-guide",
+          "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+          "summary": "Das awesome-generative-ai-guide Repository sammelt aktuelle Forschungsergebnisse, Interviewressourcen und Notizbücher im Bereich der generativen künstlichen Intelligenz (generative KI) an einem Ort. Diese Ressource dient als umfassendes Lern- und Referenzzentrum für Entwickler und Forscher.",
+          "meta": "HTML · ★ 27.722 · +107 heute"
+        },
+        {
+          "title": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "summary": "Agent-native wurde von BuilderIO entwickelt und ist ein TypeScript-Framework, das sich auf die Erstellung agentennativer Anwendungen für Agenten der künstlichen Intelligenz konzentriert. Es ermöglicht Entwicklern, agentenbasierte Workflows direkt in die Anwendungsarchitektur zu integrieren.",
+          "meta": "TypeScript · ★ 1.138 · +147 heute"
+        },
+        {
+          "title": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "summary": "Headroom reduziert die Token-Nutzung um bis zu 95 Prozent durch die Komprimierung von Protokolldateien, Tool-Ausgaben und kontextbezogenen Datenblöcken (RAG-Chunks), die an große Sprachmodelle (LLM) gesendet werden. Dieses Tool, das als Bibliothek, Proxy und Model Context Protocol (MCP)-Server verwendet werden kann, zielt darauf ab, die Kosten zu senken und gleichzeitig die Modellleistung aufrechtzuerhalten.",
+          "meta": "Python · ★ 39.624 · +4.005 heute"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage bietet ein auf Open-Source-Agenten basierendes Videoproduktionssystem, das KI-gestützte Codierungsassistenten in ein umfassendes Videoproduktionsstudio verwandelt. Die Plattform automatisiert Videoerstellungsprozesse mit 12 verschiedenen Workflows, 52 Tools und mehr als 500 Agentenfähigkeiten.",
+          "meta": "Python · ★ 6.471 · +156 heute"
+        },
+        {
+          "title": "zai-org/GLM-5",
+          "url": "https://github.com/zai-org/GLM-5",
+          "summary": "GLM-5 bietet ein Framework, das auf den Übergang von codierungsorientierten Entwicklungsprozessen zu agentenbasiertem Engineering mit der Fähigkeit zur autonomen Aufgabenausführung abzielt. Ziel dieses Projekts ist die Standardisierung künstlicher Intelligenz-gestützter Arbeitsabläufe in Softwareentwicklungsprozessen.",
+          "meta": "★ 4.666 · +480 heute"
+        },
+        {
+          "title": "withastro/flue",
+          "url": "https://github.com/withastro/flue",
+          "summary": "Basierend auf TypeScript bietet Flue ein Sandbox-Framework, das es Entwicklern ermöglicht, KI-Agenten in sicheren und isolierten Umgebungen zu erstellen. Dieses Tool erhöht die Kontrolle während der Entwicklungsphase, indem es die Laufzeitprozesse von Agenten standardisiert.",
+          "meta": "TypeScript · ★ 5.907 · +309 heute"
+        },
+        {
+          "title": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "summary": "Iroh bietet einen modularen Netzwerk-Stack, der über kryptografische Schlüssel statt über IP-Adressen kommuniziert. Dieses mit der Rust-Sprache entwickelte Tool zielt darauf ab, die Einschränkungen adressbasierter Systeme zu überwinden, um die Kontinuität von Netzwerkverbindungen sicherzustellen.",
+          "meta": "Rust · ★ 10.283 · +302 heute"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers bietet ein Framework und eine Methodik, die Softwareentwicklungsprozesse mit agentenbasierten Fähigkeiten kombiniert. Diese in der Shell-Sprache geschriebene Struktur zielt darauf ab, die Arbeitsabläufe autonomer Systeme zu standardisieren.",
+          "meta": "Shell · ★ 233.624 · +1.110 heute"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot ist ein Open-Source-Designtool, das die Zusammenarbeit zwischen Designern und Entwicklern stärkt. Seine vektorbasierte Schnittstelle unterstützt das Arbeiten über Standarddateiformate, indem Design- und Codeprozesse auf einer gemeinsamen Plattform kombiniert werden.",
+          "meta": "Clojure · ★ 50.700 · +85 heute"
+        },
+        {
+          "title": "Kong/insomnia",
+          "url": "https://github.com/Kong/insomnia",
+          "summary": "Insomnia ist ein Open-Source-API-Client (Application Programming Interface), der die Protokolle GraphQL, REST, WebSockets, SSE und gRPC unterstützt. Die Software bietet Entwicklern eine plattformübergreifende Testumgebung mit Cloud-, lokalen und Git-basierten Speicheroptionen.",
+          "meta": "TypeScript · ★ 39.063 · +292 heute"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "summary": "LTX-2 wurde von Lightricks entwickelt und bietet eine Python-basierte Inferenz- und Low-Order-Adaptation-Trainingssuite (LoRA) für Modelle der künstlichen Intelligenz, die Audio und Video erzeugen. Mit diesem Tool können Benutzer Videoproduktionsmodelle mit benutzerdefinierten Datensätzen verfeinern.",
+          "meta": "Python · ★ 7.721 · +196 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Hyundai buys Boston Dynamics",
+          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+          "summary": "Hyundai erhöhte seine Kontrolle im Bereich Robotik durch den Kauf aller Anteile an Boston Dynamics von SoftBank für 325 Millionen US-Dollar. Dieser Schritt stärkt die strategischen Investitionen des Automobilherstellers in autonome Mobilität und humanoide Robotertechnologien.",
+          "meta": "781 Punkte · 346 Kommentare"
+        },
+        {
+          "title": "Norway imposes near ban on AI in elementary school",
+          "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+          "summary": "Norwegen hat eine neue Verordnung erlassen, die Beschränkungen für den Einsatz künstlicher Intelligenz in Grundschulen vorsieht. Diese Entscheidung zielt darauf ab, den Datenschutz im Bildungsumfeld zu schützen und die Interaktion der Schüler mit digitalen Werkzeugen zu kontrollieren.",
+          "meta": "612 Punkte · 426 Kommentare"
+        },
+        {
+          "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+          "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+          "summary": "Project Valhalla zielt darauf ab, die Leistung durch die Bereitstellung von Werttypen und eine verbesserte Unterstützung des Speicherlayouts auf der Java Virtual Machine (JVM) zu steigern. Diese Arbeit macht die Speichernutzung effizienter, indem sie die Datenlokalität in der objektorientierten Programmierung optimiert.",
+          "meta": "586 Punkte · 360 Kommentare"
+        },
+        {
+          "title": "There are no instances in ATProto",
+          "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+          "summary": "Im Gegensatz zu herkömmlichen sozialen Netzwerken verwendet das ATProto-Protokoll eine benutzerorientierte Datenstruktur anstelle zentraler Server. Diese Architektur bietet eine Portabilitätsfunktion, die es Benutzern ermöglicht, ihre Konten zwischen verschiedenen Plattformen zu verschieben.",
+          "meta": "418 Punkte · 216 Kommentare"
+        },
+        {
+          "title": "Court Records Should Be Free",
+          "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+          "summary": "Die Electronic Frontier Foundation argumentiert, dass Gebühren für den Zugang zu Gerichtsakten die Transparenz behindern. Dieser Ansatz betont, dass öffentliche Rechtsdokumente digital frei und uneingeschränkt zugänglich sein sollten.",
+          "meta": "348 Punkte · 73 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "Das Gemma-4-12B-Coder-Modell ist ein Textgenerierungsmodell, das sich auf Code-Schreib- und Entwicklungsprozesse konzentriert. Diese im GGUF-Format dargestellte Struktur verwendet eine Quantisierungsmethode, die es dem Modell ermöglicht, auf verschiedenen Hardwareressourcen effizienter zu laufen.",
+          "meta": "♥ 1.875 · 268.102 Downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, entwickelt von Zai-org, ist ein Sprachmodell, das für Textgenerierungsaufgaben optimiert ist. Das Modell wird mit seinen umfangreichen Sprachverarbeitungsfunktionen in verschiedenen Inhaltserstellungsprozessen eingesetzt.",
+          "meta": "♥ 1.564 · 11.871 Downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3, entwickelt von MiniMaxAI, ist ein multimodales Modell, das visuelle und Textdaten gleichzeitig verarbeiten kann. Das System bietet eine Struktur, die durch die Kombination von Bild- und Texteingaben textbasierte Ausgaben erzeugt.",
+          "meta": "♥ 1.138 · 67.836 Downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Kimi-K2.7-Code wurde von Moonshot AI entwickelt und ist ein multimodales Modell, das durch die Verarbeitung visueller und textbasierter Eingaben eine Textausgabe erzeugt. Dieses Modell konzentriert sich auf Softwareentwicklungsprozesse und bietet Lösungen durch die Kombination visueller und textueller Daten in Codierungsaufgaben.",
+          "meta": "♥ 911 · 274.865 Downloads"
+        },
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "summary": "VibeThinker-3B, entwickelt von WeiboAI, ist ein kompaktes Sprachmodell, das sich auf die Textgenerierung konzentriert. Ziel dieser Struktur mit 3 Milliarden Parametern ist es, bei Texterstellungsaufgaben eine ressourceneffiziente Performance zu gewährleisten.",
+          "meta": "♥ 473 · 12.148 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "knowledge graph",
+      "explanation": "Eine Kartierungsmethode, die Beziehungen zwischen Daten durch die Organisation von Informationen in miteinander verbundenen Punkten erklärt."
+    },
+    {
+      "term": "Time Series Foundation Model",
+      "explanation": "Umfassende Modelle der künstlichen Intelligenz, die zukünftige Veränderungen vorhersagen können, indem sie vergangene numerische Daten untersuchen."
+    },
+    {
+      "term": "video editor",
+      "explanation": "Software, die Bild- und Audiodateien schneidet und zu einem anschaubaren Video zusammenfügt."
+    },
+    {
+      "term": "global intelligence dashboard",
+      "explanation": "Verwaltungspanel, das die Überwachung der Situation ermöglicht, indem Daten aus verschiedenen Teilen der Welt auf einem einzigen Bildschirm gesammelt werden."
+    },
+    {
+      "term": "situational awareness",
+      "explanation": "Es ist die Fähigkeit eines Systems, sofort wahrzunehmen, was um es herum geschieht, und die aktuelle Situation richtig zu erfassen."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Technologie, die auf der Grundlage der gelernten Informationen von Grund auf neue Inhalte wie Text, Bilder oder Ton erzeugen kann."
+    },
+    {
+      "term": "notebooks",
+      "explanation": "Interaktive Arbeitsumgebungen, in denen Sie beim Schreiben von Code Notizen machen und die Ergebnisse sofort sehen können."
+    },
+    {
+      "term": "agent-native applications",
+      "explanation": "Speziell für künstliche Intelligenzassistenten entwickelte Anwendungen, die im Namen des Benutzers Entscheidungen treffen und Transaktionen selbstständig durchführen können."
+    },
+    {
+      "term": "framework",
+      "explanation": "Die Grundstruktur, die eine Reihe vorgefertigter Tools und Regeln bereitstellt, die Ihnen die Arbeit bei der Entwicklung von Software erleichtern."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Fortgeschrittene Modelle der künstlichen Intelligenz, die in der Lage sind, menschliche Sprache zu lernen, Texte zu verstehen, zusammenzufassen und neue Inhalte zu produzieren."
+    },
+    {
+      "term": "RAG chunks",
+      "explanation": "Große Dokumente in kleine und aussagekräftige Teile aufteilen, damit künstliche Intelligenz besser reagieren kann."
+    },
+    {
+      "term": "token",
+      "explanation": "Die kleinste Dateneinheit, die Buchstaben oder Wortfragmenten entspricht und die künstliche Intelligenz bei der Textverarbeitung verwendet."
+    },
+    {
+      "term": "proxy",
+      "explanation": "Ein Zwischenserver, der den Datenverkehr zwischen Ihnen und dem Internet verwaltet, Ihre Identität verbirgt oder die Verbindung kontrolliert."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Standardprotokoll, das eine sichere Verbindung von KI-Modellen mit verschiedenen Datenquellen und Tools ermöglicht."
+    },
+    {
+      "term": "agentic video production system",
+      "explanation": "Ein intelligentes System, das Videos selbstständig und ohne menschliches Eingreifen bearbeitet, Effekte hinzufügt und bearbeitet."
+    },
+    {
+      "term": "pipeline",
+      "explanation": "Eine Reihe automatischer Schritte, durch die Daten verarbeitet werden, bis sie zu einem Ergebnis werden."
+    }
+  ]
+}

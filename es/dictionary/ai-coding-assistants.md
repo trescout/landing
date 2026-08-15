@@ -24,5 +24,8 @@ No, es una herramienta auxiliar que hace el trabajo del desarrollador de softwar
 - [Coding Agents](/es/dictionary/coding-agent/)
 - [LLM](/es/dictionary/llm/)
 
+## Herramientas relacionadas
+- [Graphify](/es/discover/graphify/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-coding-assistants/

@@ -27,5 +27,8 @@ Sí, porque registrar cada decisión de la IA puede crear una enorme carga de da
 - [AI Agent](/es/dictionary/ai-agent/)
 - [Logs](/es/dictionary/logs/)
 
+## Herramientas relacionadas
+- [Posthog](/es/discover/posthog/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-observability/

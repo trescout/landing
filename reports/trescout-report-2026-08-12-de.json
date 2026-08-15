@@ -1,0 +1,371 @@
+{
+  "date": "2026-08-12",
+  "editorial": "Heute liegt der Schwerpunkt auf der technischen Analyse von Schwachstellen, die auf autonome Agenten abzielen, und auf den Argumentationsprozessen dieser Modelle. In der wissenschaftlichen Literatur stechen effizienzorientierte Deep-Research-Agenten und neue Verlustfunktionen hervor, die eine Qualitätsverbesserung in visuellen Produktionsmodellen bewirken.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-Agents ist eine Automatisierungsbibliothek, die Agenten der künstlichen Intelligenz mit unterschiedlichen Fachgebieten unter einem Dach vereint. Diese Expertenagenten verwalten Prozesse wie Softwareentwicklung, Inhaltserstellung und Datenvalidierung und ermöglichen es Benutzern, komplexe Arbeitsabläufe wie ein digitales Team durchzuführen.",
+          "meta": "Shell · ★ 143.644 · +958 heute"
+        },
+        {
+          "title": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "summary": "Semantica ist eine graphnative Infrastruktur, die zur Verwaltung kontextbezogener Daten in Systemen der künstlichen Intelligenz entwickelt wurde. Durch die Strukturierung von Datenbeziehungen können generative KI-Modelle zuverlässigere und überprüfbare Ergebnisse liefern.",
+          "meta": "Python · ★ 5.083 · +893 heute"
+        },
+        {
+          "title": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "summary": "Node Version Manager ist ein Befehlszeilentool, mit dem Entwickler mehrere Versionen von Node.js auf ihren Systemen verwalten können. Mit seiner POSIX-kompatiblen Shell-Skript-Struktur (Bash-Skript) erleichtert es schnelle Versionsübergänge zwischen verschiedenen Projekten.",
+          "meta": "Shell · ★ 94.520 · +22 heute"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Agent-Skills wurde für Programmieragenten für künstliche Intelligenz entwickelt und ist eine Bibliothek, die technische Fähigkeiten auf Produktionsebene bietet. Diese JavaScript-basierte Ressource bietet standardisierte Tools, die es Agenten ermöglichen, Aufgaben in Softwareentwicklungsprozessen effizienter auszuführen.",
+          "meta": "JavaScript · ★ 86.325 · +578 heute"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen/daily_stock_analysis ist ein automatisches Aktienverfolgungssystem, das mehrere Marktdaten und aktuelle Nachrichten mithilfe großer Sprachmodelle (LLM) analysiert. Dieses Python-basierte Tool liefert in regelmäßigen Abständen automatisch Analysen und stellt ein Dashboard bereit, das Investitionsentscheidungen unterstützt.",
+          "meta": "Python · ★ 62.290 · +243 heute"
+        },
+        {
+          "title": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "summary": "Code-Graph-Rag kombiniert Wissensgraphen und RAG-Technologie (Fetch-Assisted Generation), um komplexe Strukturen in großen Code-Repositories zu verstehen. Es ermöglicht Entwicklern, mehrsprachige Codebasen abzufragen und mithilfe künstlicher Intelligenz Bearbeitungen durchzuführen.",
+          "meta": "Python · ★ 3.903 · +341 heute"
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Skills wird von Anthropics geteilt und bietet wiederverwendbare Kompetenzpakete für Agenten der künstlichen Intelligenz. Diese Open-Source-Bibliothek hilft Entwicklern, verschiedene Agenten-Workflows zu standardisieren.",
+          "meta": "Python · ★ 168.269 · +485 heute"
+        },
+        {
+          "title": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "summary": "Manim ist eine Python-basierte Animations-Engine zur Visualisierung mathematischer Konzepte. Es bietet eine programmatische Lösung für Content-Ersteller, die komplexe Theorien in Erklärvideos umwandeln möchten.",
+          "meta": "Python · ★ 90.306 · +197 heute"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor ist ein auf künstlicher Intelligenz basierendes Nachhilfesystem, das personalisierte Bildungsunterstützung bietet, indem es die Lernprozesse der Schüler kontinuierlich überwacht. Das Modell analysiert die Leistung der Schüler und erstellt maßgeschneiderte Inhalte basierend auf langfristigen Lernbedürfnissen.",
+          "meta": "Python · ★ 34.890 · +812 heute"
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "Orca wurde von Stablyai entwickelt und ist eine Agentenentwicklungsumgebung (ADE), mit der Sie mehrere Agenten für künstliche Intelligenz gleichzeitig verwalten können. Dieses Tool, das auf Desktops, Mobilgeräten und virtuellen privaten Servern (VPS) funktioniert, ermöglicht es Ihnen, verschiedene Codierungsagenten mit Ihren eigenen Abonnements auszuführen.",
+          "meta": "TypeScript · ★ 43.010 · +875 heute"
+        },
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip ist eine Open-Source-Anwendung, die zur Verwaltung von Agenten der künstlichen Intelligenz am Arbeitsplatz entwickelt wurde. Diese in TypeScript geschriebene Plattform ermöglicht die Steuerung digitaler Agenten, die verschiedene Aufgaben ausführen, von einem zentralen Punkt aus.",
+          "meta": "TypeScript · ★ 77.289 · +748 heute"
+        },
+        {
+          "title": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "summary": "Transformers wurde von Hugging Face entwickelt und ist eine Bibliothek, die zum Trainieren und Ausführen modernster Modelle für maschinelles Lernen für verschiedene Datentypen wie Text, Bilder und Audio verwendet wird. Es bietet Entwicklern Zugriff auf beliebte Modelle der künstlichen Intelligenz und die Möglichkeit, diese zu verfeinern.",
+          "meta": "Python · ★ 163.880 · +80 heute"
+        },
+        {
+          "title": "harveyai/harvey-labs",
+          "url": "https://github.com/harveyai/harvey-labs",
+          "summary": "Harvey Labs ist ein Benchmarking-Tool zur Messung und Verbesserung der Fähigkeiten von Agenten der künstlichen Intelligenz, die Aufgaben im Rechtsbereich unterstützen. Es wurde in der Python-Sprache entwickelt, um die Leistung von Modellen zu bewerten, die in juristischen Arbeitsabläufen verwendet werden.",
+          "meta": "Python · ★ 1.117 · +28 heute"
+        },
+        {
+          "title": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac",
+          "summary": "Awesome-mac ist ein umfassendes Ressourcen-Repository, das hochwertige, für das macOS-Betriebssystem entwickelte Software kategorisiert und auflistet. Dieses Archiv, das es Benutzern ermöglicht, Anwendungen, die ihren Bedürfnissen entsprechen, leicht zu finden, fungiert als systematisches Organisationstool.",
+          "meta": "Swift · ★ 110.586 · +298 heute"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage ist ein Open-Source-System, das KI-gestützte Codierungsassistenten in ein umfassendes Videoproduktionsstudio verwandelt. Es automatisiert Prozesse zur Erstellung von Videoinhalten mit zwölf verschiedenen Produktionspipelines, über hundert Tools und über siebenhundert Agentenfunktionen.",
+          "meta": "Python · ★ 47.495 · +458 heute"
+        },
+        {
+          "title": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "summary": "Projektbasiertes Lernen ist eine Liste, die Ressourcen zusammenfasst, die Softwareentwicklungsprozesse durch angewandte Projekte vermitteln. Es bietet einen umfassenden Leitfaden für diejenigen, die reale Anwendungen mit verschiedenen Programmiersprachen entwickeln möchten.",
+          "meta": "Python · ★ 278.578 · +401 heute"
+        },
+        {
+          "title": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "summary": "Prime-Agent, entwickelt von PrimeIntellect, ist ein sich selbst entwickelnder Reinforcement-Learning-Agent, der für Softwareentwicklungsprozesse und langfristige autonome Aufgaben konzipiert ist. Dieses in TypeScript geschriebene Tool zielt darauf ab, durch künstliche Intelligenz unterstützte Softwareentwicklungsprozesse durch die Automatisierung komplexer Arbeitsabläufe zu optimieren.",
+          "meta": "TypeScript · ★ 14.360 · +1.138 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+          "url": "https://stolen-thoughts.com/",
+          "summary": "Forscher zeigen, dass es möglich ist, kleinere Modelle mithilfe von Reasoning-Trace-Daten zu trainieren, die von proprietären Large Language Models (LLM) erstellt wurden. Ziel dieser Methode ist es, die Argumentationsfähigkeiten von Closed-Source-Modellen auf Open-Source-Alternativen zu übertragen.",
+          "meta": "566 Punkte · 248 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49257876",
+              "popularity": 566,
+              "engagementCount": 248
+            }
+          ]
+        },
+        {
+          "title": "England set to be one of the first countries to eliminate hepatitis C",
+          "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+          "summary": "England bereitet sich darauf vor, dank seiner umfassenden Screening- und Behandlungsprogramme eines der ersten Länder zu sein, das das Hepatitis-C-Virus vollständig eliminiert. Das Gesundheitssystem NHS (National Health Service) führt im ganzen Land einen groß angelegten Testprozess durch, um die Ausbreitung des Virus zu stoppen.",
+          "meta": "507 Punkte · 370 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49257377",
+              "popularity": 507,
+              "engagementCount": 370
+            }
+          ]
+        },
+        {
+          "title": "Compression is prediction",
+          "url": "https://ngrok.com/blog/compression-is-prediction",
+          "summary": "Die mathematische Beziehung zwischen Datenkomprimierung und Vorhersage zeigt, dass der Algorithmus, der Daten am besten komprimiert, tatsächlich das Modell ist, das die Struktur dieser Daten am besten vorhersagt. Dieser Ansatz bietet einen grundlegenden Rahmen zum Verständnis der Arbeitslogik großer Sprachmodelle.",
+          "meta": "397 Punkte · 157 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49263497",
+              "popularity": 397,
+              "engagementCount": 157
+            }
+          ]
+        },
+        {
+          "title": "OpenAI’s head of ethics leaves less than a year after joining",
+          "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+          "summary": "Der Manager, der die Ethikabteilung bei OpenAI leitete, verließ das Unternehmen weniger als ein Jahr nach seinem Amtsantritt. Diese Trennung löste Diskussionen über die Zukunft ethischer Prüf- und Sicherheitsprozesse beim Entwickler von künstlicher Intelligenz OpenAI aus.",
+          "meta": "356 Punkte · 369 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49257160",
+              "popularity": 356,
+              "engagementCount": 369
+            }
+          ]
+        },
+        {
+          "title": "Mojo 1.0",
+          "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+          "summary": "Mojo 1.0 wurde von Modular entwickelt und ist eine Programmiersprache, die die Benutzerfreundlichkeit von Python mit der hohen Leistung von Systemprogrammiersprachen kombiniert. Diese Sprache ist für die Ausführung auf Hardware mit künstlicher Intelligenz optimiert und bietet Entwicklern eine Arbeitsumgebung, die vollständig mit dem Python-Ökosystem kompatibel ist.",
+          "meta": "341 Punkte · 161 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49261128",
+              "popularity": 341,
+              "engagementCount": 161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, entwickelt von MiniMax, ist ein Modell der künstlichen Intelligenz, das Videos mit visuellen und Texteingaben produziert. Diese Technologie erleichtert die Erstellung von Videoinhalten, indem sie die von Benutzern bereitgestellten Daten in bewegte Bilder umwandelt.",
+          "meta": "♥ 3.611 · 59.368 Downloads"
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "Muse-Glimmer-30B, veröffentlicht von Meta-models, ist ein multimodales Modell, das durch die Verarbeitung von Bild- und Textdaten textbasierte Ausgaben erzeugt. Das Modell wird in komplexen Content-Erstellungsprozessen eingesetzt, indem Bilder analysiert und mit Text kombiniert werden.",
+          "meta": "♥ 1.129 · 0 Downloads"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, entwickelt von DeepSeek, ist ein Modell der künstlichen Intelligenz, das sich auf die Textgenerierung konzentriert. Dieses auf HuggingFace geteilte Sprachmodell bietet eine alternative Lösung für leistungsstarke Content-Produktionsprozesse.",
+          "meta": "♥ 3.171 · 1.048.685 Downloads"
+        },
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "MiniMax-H3-Turbo-Lora, geteilt auf HuggingFace, ist eine Low-Rank-Anpassungsdatei, die für Modelle mit Text-zu-Video-Funktion entwickelt wurde. Mit dieser Datei können bestehende Videoproduktionsmodelle effizienter auf bestimmte Datensätze trainiert (Feinabstimmung) werden.",
+          "meta": "♥ 660 · 0 Downloads"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3 ist ein multimodales großes Sprachmodell mit Text- und visuellen Verarbeitungsfunktionen. Dieses von Comfy-Org angebotene Modell wird insbesondere bei der Analyse und Interpretation komplexer visueller Inhalte eingesetzt.",
+          "meta": "♥ 1.222 · 6.798.796 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
+          "url": "https://huggingface.co/papers/2608.11205",
+          "summary": "AdvFD zielt darauf ab, das Problem des Qualitätsverlusts bei der Fréchet-Distanzoptimierung in visuellen Produktionsmodellen zu lösen. Die Methode sorgt für eine Verbesserung visueller Produktionsprozesse durch die Verwendung einer dynamischen Struktur anstelle statischer Merkmalsräume.",
+          "meta": "5 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Not Worth Another Token: Marginal Value Estimation for Efficient Deep Research Agents",
+          "url": "https://huggingface.co/papers/2608.08389",
+          "summary": "Künstliche Intelligenz-Agenten, die tiefgreifende Forschung betreiben, sind mit hohen Kosten und langsamen Betriebsproblemen aufgrund unnötiger Datenansammlung bei Langzeitaufgaben konfrontiert. Durch die Untersuchung von Grenzwertschätzungsmethoden für das Kontextmanagement bietet diese Studie systematische Bereinigungsstrategien, die bestimmen, welche Daten während des Forschungsprozesses aufbewahrt werden sollten.",
+          "meta": "2 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Reference-Free Post-Training of Open Large Language Models for Multilingual Machine Translation",
+          "url": "https://huggingface.co/papers/2608.10812",
+          "summary": "Diese Methode wurde für große Open-Source-Sprachmodelle entwickelt und erhöht die Qualität der mehrsprachigen maschinellen Übersetzung, ohne dass Referenztext erforderlich ist. Mithilfe der Group Relative Policy Optimization werden überwachte Feinabstimmungsprozesse mit Modellen kombiniert, die die Übersetzungsqualität vorhersagen.",
+          "meta": "3 Likes · 1 Kommentare"
+        },
+        {
+          "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+          "url": "https://huggingface.co/papers/2608.10915",
+          "summary": "Der ComBodied Agents-Ansatz kombiniert künstliche Intelligenz-Agenten aus der digitalen und physischen Welt in einem menschenzentrierten Rahmen. Dieses Modell konzentriert sich darauf, dass Agenten nicht nur Software oder physische Zustände ändern, sondern auch personalisierte Unterstützung bieten, indem sie den aktuellen psychischen und physischen Zustand des Benutzers verstehen.",
+          "meta": "40 Likes · 1 Kommentare"
+        },
+        {
+          "title": "iFAN: Inference-Aware Learning for Plain Mask Transformers",
+          "url": "https://huggingface.co/papers/2608.03216",
+          "summary": "iFAN ist eine neue Lernmethode, die die Inkompatibilitäten zwischen dem Inferenzprozess und der Trainingsphase in Bildsegmentierungsmodellen beseitigt. Dieser Ansatz zielt darauf ab, die Maskengenauigkeit zu verbessern, indem sichergestellt wird, dass das Modell die letzte Vorhersagephase während des Trainings berücksichtigt.",
+          "meta": "2 Likes · 1 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "GNOME Shell Design Dreams",
+          "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+          "summary": "GNOME-Entwickler haben neue Designziele mitgeteilt, um das Benutzererlebnis für die Desktop-Umgebung GNOME Shell zu verbessern. Diese Vision zielt darauf ab, eine konsistentere visuelle Sprache und ein konsistenteres Interaktionsmodell in der Benutzeroberfläche zu schaffen.",
+          "meta": "52 Punkte · 13 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/b3uky6/gnome_shell_design_dreams",
+              "popularity": 52,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Text Watermarking for Non-Academics",
+          "url": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
+          "summary": "Textwasserzeichen fügen Textzeichenfolgen versteckte statistische Signale hinzu, um durch generative KI erstellte Inhalte zu erkennen. Obwohl diese Methode Beweise zur Überprüfung der Quelle des Inhalts liefert, weist sie technische Einschränkungen gegen Manipulationen auf.",
+          "meta": "6 Punkte · 6 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/glicgx/text_watermarking_for_non_academics",
+              "popularity": 6,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "Reviewing code is a skill",
+          "url": "https://typesanitizer.com/blog/code-review.html",
+          "summary": "Die Codeüberprüfung ist ein Prozess, der Kommunikations- und kritische Denkfähigkeiten erfordert, die über technisches Wissen im Softwareentwicklungsprozess hinausgehen. Ziel dieser Fähigkeit ist es nicht nur, Fehler zu finden, sondern auch eine nachhaltige Teamzusammenarbeit und Codequalität sicherzustellen.",
+          "meta": "41 Punkte · 13 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/gyxkma/reviewing_code_is_skill",
+              "popularity": 41,
+              "engagementCount": 13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "graph-native",
+      "explanation": "Systeme, die speziell dafür entwickelt wurden, Daten in einer vernetzten Netzwerkstruktur zu speichern."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Künstliche Intelligenztechnologie, die auf der Grundlage zuvor erlernter Informationen neue Texte, Bilder oder Töne erzeugen kann."
+    },
+    {
+      "term": "bash script",
+      "explanation": "Ein Skript, das mehrstufige Vorgänge, die auf dem Computer ausgeführt werden müssen, automatisiert, indem es sie in eine einzige Datei schreibt."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Fähigkeit, komplexe Probleme in logischen Schritten zu lösen und technische Systeme zu etablieren."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Ein Modell der künstlichen Intelligenz, das lernt, wie ein Mensch zu sprechen und zu schreiben, indem es riesige Textmengen im Internet liest."
+    },
+    {
+      "term": "monorepo",
+      "explanation": "Ein Layout, in dem alle Codes und Dateien eines Softwareprojekts in einem einzigen Hauptordner gesammelt werden."
+    },
+    {
+      "term": "knowledge graphs",
+      "explanation": "Eine Datenkarte, die Informationen zusammen mit ihren Beziehungen untereinander aufzeichnet und Verbindungen zwischen Konzepten zeigt."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Eine Methode, die es künstlicher Intelligenz ermöglicht, bei der Erstellung von Antworten auf aktuelle und zuverlässige externe Dokumente anstelle des eigenen Gedächtnisses zurückzugreifen."
+    },
+    {
+      "term": "skills",
+      "explanation": "Für die Ausübung einer Tätigkeit sind praktische Kenntnisse und Anwendungsfähigkeit erforderlich."
+    },
+    {
+      "term": "tutoring",
+      "explanation": "Der Prozess der Korrektur von Fehlern und der Anleitung einer Person beim Lernen eines Fachs durch individuelle Anleitung."
+    },
+    {
+      "term": "ADE",
+      "explanation": "Digitale Umgebungen zur Beschleunigung und Verwaltung von Softwareentwicklungsprozessen."
+    },
+    {
+      "term": "VPS",
+      "explanation": "Mieten und nutzen Sie einen Server im Internet, als wäre es Ihr eigener privater Computer."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Der Prozess der Umschulung einer allgemein trainierten künstlichen Intelligenz mit einem kleinen Datensatz, um zu einem besseren Experten für ein bestimmtes Thema zu werden."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Eine Methode, um die Leistung eines Systems oder einer Software mit Standardtests zu messen und mit anderen zu vergleichen."
+    },
+    {
+      "term": "production pipeline",
+      "explanation": "Die automatisierte Abfolge von Phasen, die Software nach der Entwicklung und dem Test durchläuft, bis sie für echte Benutzer freigegeben wird."
+    },
+    {
+      "term": "reinforcement learning agent",
+      "explanation": "Software für künstliche Intelligenz, die lernt, die richtige Entscheidung zu treffen, indem sie durch Versuch und Irrtum Belohnungen erhält."
+    }
+  ]
+}

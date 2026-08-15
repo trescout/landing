@@ -21,5 +21,8 @@ Generalmente no; Se posiciona como una herramienta que facilita el trabajo del d
 - [AI Companion](/es/dictionary/ai-companion/)
 - [Generative AI](/es/dictionary/generative-ai/)
 
+## Herramientas relacionadas
+- [DeepTutor](/es/discover/deeptutor/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/personalized-tutoring/

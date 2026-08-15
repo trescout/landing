@@ -27,5 +27,9 @@ Permite que el modelo evite temas irrelevantes y presente una personalidad consi
 - [LLM](/es/dictionary/llm/)
 - [AI Agent](/es/dictionary/ai-agent/)
 
+## Herramientas relacionadas
+- [System Prompts and Models of AI Tools](/es/discover/system-prompts-and-models-of-ai-tools/)
+- [System Prompts Leaks](/es/discover/system-prompts-leaks/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/system-prompts/

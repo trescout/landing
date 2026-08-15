@@ -27,5 +27,8 @@ No, dependiendo del propósito del agente (por ejemplo, agente codificador versu
 - [Autonomous Agent](/es/dictionary/autonomous-agent/)
 - [AI Skills](/es/dictionary/ai-skills/)
 
+## Herramientas relacionadas
+- [Last30days Skill](/es/discover/last30days-skill/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-agent-skill/

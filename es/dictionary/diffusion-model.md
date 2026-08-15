@@ -25,6 +25,7 @@ Construir la imagen paso a paso requiere una intensa potencia de procesamiento, 
 ## Términos relacionados
 - [Generative AI](/es/dictionary/generative-ai/)
 - [Multimodal](/es/dictionary/multimodal/)
+- [Text-to-Speech](/es/dictionary/text-to-speech/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/diffusion-model/

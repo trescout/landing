@@ -20,7 +20,18 @@ Porque es muy rápido y reduce significativamente los errores de software.
 
 
 ## Términos relacionados
+- [Compiler](/es/dictionary/compiler/)
 - [System Programming Language](/es/dictionary/system-programming-language/)
+
+## Herramientas relacionadas
+- [Next.js](/es/discover/next-js/)
+- [Deno](/es/discover/deno/)
+- [BUN](/es/discover/bun/)
+- [RuView](/es/discover/ruview/)
+- [OpenCut](/es/discover/opencut/)
+- [Openinterpreter](/es/discover/openinterpreter/)
+- [Goose](/es/discover/goose/)
+- [AI Engineering from Scratch](/es/discover/ai-engineering-from-scratch/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/rust/

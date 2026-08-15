@@ -26,5 +26,8 @@ El sistema se da cuenta de que ha definido el estado incorrecto y normalmente vu
 - [Cloud Native](/es/dictionary/cloud-native/)
 - [Deployment](/es/dictionary/deployment/)
 
+## Herramientas relacionadas
+- [Argo Cd](/es/discover/argo-cd/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/declarative-continuous-deployment/

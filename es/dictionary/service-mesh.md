@@ -21,5 +21,8 @@ No, sólo es necesario para gestionar la complejidad en sistemas grandes con muc
 - [API](/es/dictionary/api/)
 - [Proxy](/es/dictionary/proxy/)
 
+## Herramientas relacionadas
+- [Meshery](/es/discover/meshery/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/service-mesh/

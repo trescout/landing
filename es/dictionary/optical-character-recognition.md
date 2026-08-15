@@ -29,5 +29,8 @@ La mayoría de los sistemas admiten lenguajes comunes, pero los scripts especial
 - [PDF Parser](/es/dictionary/pdf-parser/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [PaddleOCR](/es/discover/paddleocr/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/optical-character-recognition/

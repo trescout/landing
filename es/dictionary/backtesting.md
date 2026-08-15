@@ -27,5 +27,9 @@ Se utilizan movimientos de precios pasados, volúmenes de transacciones e indica
 - [Value Investing](/es/dictionary/value-investing/)
 - [AI Hedge Fund](/es/dictionary/ai-hedge-fund/)
 
+## Herramientas relacionadas
+- [Awesome Systematic Trading](/es/discover/awesome-systematic-trading/)
+- [Free Stockdb](/es/discover/free-stockdb/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/backtesting/

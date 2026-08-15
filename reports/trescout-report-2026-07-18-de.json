@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-18",
+  "editorial": "Mit der Tendenz, in Softwareentwicklungsprozessen eigene Tools zu bauen, stehen heute künstliche Intelligenz-gestützte Codierungsassistenten im Vordergrund. Aktuelle Daten auf GitHub zeigen, dass grundlegende Informatik-Ressourcen und Anwendungsentwicklungskits (SDKs) auf den Schreibtischen der Entwickler auf dem Vormarsch sind.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "„Build-your-own-x project“ ist ein Lernleitfaden, der darauf abzielt, Programmierkenntnisse durch das Programmieren gängiger Softwaretechnologien von Grund auf zu verbessern. Entwickler erlangen technische Tiefe, indem sie Schritt für Schritt komplexe Systeme wie eine Datenbank oder ein Betriebssystem aufbauen.",
+          "meta": "Markdown · ★ 527.611 · +1.068 heute"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog kombiniert Tools wie KI-Beobachtbarkeit, Sitzungsaufzeichnung und Fehlerverfolgung auf einer einzigen Plattform, um Produktentwicklungsprozesse zu automatisieren. Dank dieser Tools können Entwickler Benutzerdaten analysieren und Produktverbesserungen direkt über Slack oder Model Context Protocol verwalten.",
+          "meta": "Python · ★ 36.267 · +438 heute"
+        },
+        {
+          "title": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "summary": "Maths-cs-ai-compendium bietet eine umfassende Sammlung von Ressourcen zu Mathematik, Informatik und künstlicher Intelligenz für Ingenieure, die sich auf künstliche Intelligenz und maschinelles Lernen spezialisieren möchten. Dieses Repositorium dient als strukturierter Lehrplan zur Stärkung der theoretischen Grundlagen und zum Erwerb von Kompetenzen in forschungstechnischen Prozessen.",
+          "meta": "TypeScript · ★ 6.731 · +200 heute"
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Es handelt sich um einen Designstil, der entwickelt wurde, um Standardinhalte (AI-Slop) zu vermeiden, die von durch künstliche Intelligenz unterstützten Codierungstools wie Hallmark, Claude Code, Cursor und Codex erstellt werden. Dieser CSS-basierte Ansatz zielt darauf ab, originellere und menschenorientiertere Designs zu erstellen, indem die Unterscheidbarkeit von durch künstliche Intelligenz erstellten Schnittstellen verringert wird.",
+          "meta": "CSS · ★ 12.247 · +1.485 heute"
+        },
+        {
+          "title": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "summary": "GitHub hat ein Multiplattform-Software-Development-Kit (SDK) veröffentlicht, mit dem Entwickler GitHub-Copilot-Agenten in ihre eigenen Anwendungen und Dienste integrieren können. Mit diesem Tool können Entwickler KI-gestützte Assistenten direkt in ihre Arbeitsumgebung integrieren.",
+          "meta": "Java · ★ 9.826 · +233 heute"
+        },
+        {
+          "title": "anthropics/cwc-workshops",
+          "url": "https://github.com/anthropics/cwc-workshops",
+          "summary": "Diese von Anthropic geteilten Workshops zeigen Entwicklern in der Praxis die Prozesse zur Entwicklung computertauglicher Agenten künstlicher Intelligenz. Zu den TypeScript-basierten Beispielen gehören technische Frameworks, die es Modellen ermöglichen, komplexe Aufgaben durch Interaktion mit Bildschirmschnittstellen zu verwalten.",
+          "meta": "TypeScript · ★ 1.632 · +45 heute"
+        },
+        {
+          "title": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "summary": "Bonsai-Demo bietet Anwendungsbeispiele der Bonsai-Plattform, die für die Optimierung von Modellen für maschinelles Lernen entwickelt wurde. Dieses Tool, mit dem Entwickler den Betrieb des Systems testen können, zielt darauf ab, die Modellschulungs- und Verteilungsprozesse zu vereinfachen.",
+          "meta": "Shell · ★ 1.746 · +278 heute"
+        },
+        {
+          "title": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "summary": "Protokollpuffer wurden von Google entwickelt und sind ein sprachunabhängiges Datenaustauschformat, das zur Serialisierung strukturierter Daten verwendet wird. Dieser Mechanismus sorgt für eine effiziente und schnelle Binärdatenübertragung bei der Kommunikation zwischen Systemen.",
+          "meta": "C++ · ★ 71.559 · +11 heute"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-Review-Graph analysiert die Codebasis und erstellt eine lokal fokussierte Code-Intelligence-Map für Tools der künstlichen Intelligenz. Diese Struktur macht durch künstliche Intelligenz unterstützte Code-Review-Prozesse durch den Einsatz von Kontextreduktionsmethoden in großen Projekten effizienter.",
+          "meta": "Python · ★ 19.852 · +74 heute"
+        },
+        {
+          "title": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "summary": "DocuSeal bietet eine Open-Source-Alternative zum Erstellen, Ausfüllen und Signieren digitaler Dokumente. Diese mit der Ruby-Sprache entwickelte Plattform bietet eine Lösung für Benutzer, die elektronische Signaturprozesse (E-Signatur) in ihrer eigenen Infrastruktur verwalten möchten.",
+          "meta": "Ruby · ★ 17.916 · +91 heute"
+        },
+        {
+          "title": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "summary": "Open Interpreter ist ein Codierungsagent, der mithilfe lokaler Modelle Code auf dem Computer ausführt und Softwareentwicklungsprozesse automatisiert. Dieses mit der Rust-Sprache entwickelte Tool bietet die Möglichkeit, Befehle über Open-Source-Modelle direkt auf Betriebssystemebene auszuführen.",
+          "meta": "Rust · ★ 66.480 · +431 heute"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "Turbovec wurde mit der TurboQuant-Infrastruktur entwickelt und bietet einen leistungsstarken Vektorindex, der in der Rust-Sprache geschrieben ist. Dank Python-Bindungen ermöglicht es eine schnelle Suche und Indizierung in Datenverarbeitungsprozessen.",
+          "meta": "Python · ★ 13.393 · +280 heute"
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor ist eine private Nachhilfeplattform, die sich auf lebenslanges Lernen konzentriert und die Lernprozesse der Benutzer kontinuierlich personalisiert. Das System zielt darauf ab, die Entwicklung der Studierenden durch künstliche Intelligenz unterstützte Nachhilfemodelle zu optimieren, die sich an die individuellen Bedürfnisse anpassen.",
+          "meta": "Python · ★ 27.457 · +531 heute"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut bietet eine Open-Source-CapCut-Alternative für Videobearbeitungsprozesse. Diese mit der TypeScript-Sprache entwickelte Plattform zielt darauf ab, Benutzern den Zugriff auf Videobearbeitungstools zu erleichtern.",
+          "meta": "TypeScript · ★ 75.036 · +1.074 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+          "url": "https://news.ycombinator.com/item?id=48945241",
+          "summary": "Benutzer von Amazon Web Services (AWS) stoßen in ihren Abrechnungspanels auf ungenaue geschätzte Abrechnungsdaten, die unrealistische Beträge in Milliardenhöhe erreichen. Der Cloud-Dienstleister setzt seine Bemühungen zur Behebung des Problems fort, indem er eine technische Störungsmeldung bezüglich dieses Datenfehlers in seinen Systemen herausgibt.",
+          "meta": "1.120 Punkte · 663 Kommentare"
+        },
+        {
+          "title": "Thanks HN for 15 years of support and helping me find my life's work",
+          "url": "https://news.ycombinator.com/item?id=48949551",
+          "summary": "Recurse Center, eine Bildungsgemeinschaft für Softwareentwickler, feiert sein fünfzehnjähriges Jubiläum. Unternehmer verwandelten ihr Projekt, das als geschäftsorientierte Plattform begann, im Laufe der Zeit in ein softwareorientiertes Lernzentrum (Programming Retreat).",
+          "meta": "482 Punkte · 49 Kommentare"
+        },
+        {
+          "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+          "summary": "Pflegekräfte bei Kaiser Permanente geben an, dass durch künstliche Intelligenz unterstützte Tools und Arbeitsplatzüberwachungssysteme die Arbeitsbelastung erhöhen und die Qualität der Patientenversorgung verringern. Mitarbeiter geben an, dass algorithmische Managementprozesse ihre klinischen Entscheidungsfähigkeiten einschränken und die berufliche Belastung erhöhen.",
+          "meta": "432 Punkte · 283 Kommentare"
+        },
+        {
+          "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+          "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+          "summary": "Zum ersten Mal haben Astronomen Spuren der Atmosphäre um einen erdähnlichen Exoplaneten in der bewohnbaren Zone gefunden. Dieser Fund auf dem Planeten 55 Cancri e bietet eine neue Methode zur Untersuchung der atmosphärischen Strukturen von Gesteinswelten.",
+          "meta": "415 Punkte · 251 Kommentare"
+        },
+        {
+          "title": "The state of open source AI",
+          "url": "https://stateofopensource.ai/",
+          "summary": "Das Open-Source-KI-Ökosystem wächst mit der Verfügbarkeit von Modellgewichten und der Diversifizierung von Entwicklertools weiter. Der Bericht analysiert die Akzeptanzraten transparenter Modelle im Technologiesektor und die Auswirkungen gemeinschaftsgetriebener Innovationen auf Industriestandards.",
+          "meta": "406 Punkte · 296 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Inkling wurde von Thinking Machines entwickelt und funktioniert als Bild-Text-zu-Text-Modell, das visuelle und textuelle Daten verarbeitet und eine Textausgabe erzeugt. Das Modell unterstützt Benutzerinteraktionen mit textbasierten Antworten über multimodale Datensätze.",
+          "meta": "♥ 975 · 7.870 Downloads"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B wird als Textgenerierungsmodell angeboten, das mit der ternären Quantisierungsmethode optimiert ist. Diese Technik zielt darauf ab, Leistungsverluste zu minimieren und gleichzeitig die Speichernutzung des Modells zu reduzieren.",
+          "meta": "♥ 687 · 200.774 Downloads"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B, veröffentlicht von Prism-ML, ist ein Sprachmodell, das für Textgenerierungsaufgaben optimiert ist. Das Modell wird im quantisierten GGUF-Format präsentiert, um leistungsstarke Inferenzprozesse zu unterstützen.",
+          "meta": "♥ 403 · 1.045.182 Downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Das Modell Qwythos-9B-Claude-Mythos-5-1M ist ein multimodales Modell der künstlichen Intelligenz, das durch die Verarbeitung visueller und textueller Daten eine Textausgabe erzeugt. Das Modell ist für komplexe Bild- und Textanalysen mit Unterstützung für breite Kontextfenster optimiert.",
+          "meta": "♥ 2.281 · 2.096.147 Downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, veröffentlicht von Zai-org, ist ein Sprachmodell, das für Textgenerierungsaufgaben optimiert ist. Dieses Modell, das auf HuggingFace eine breite Benutzerbasis erreicht hat, zielt darauf ab, die Textgenerierungsfähigkeiten in Verarbeitungsprozessen natürlicher Sprache zu verbessern.",
+          "meta": "♥ 4.078 · 534.698 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI observability",
+      "explanation": "Ein Tracking-Mechanismus, mit dem Sie überwachen und verstehen können, wie Systeme der künstlichen Intelligenz funktionieren, wo sie Fehler machen und warum sie diese Ergebnisse liefern."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Eine gemeinsame Verbindungssprache, die es KI-Modellen ermöglicht, auf sichere und standardisierte Weise mit verschiedenen Datenquellen zu kommunizieren."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Computer analysieren Daten und leiten selbstständig Regeln ab, die mit zunehmender Erfahrung zu besseren Ergebnissen führen."
+    },
+    {
+      "term": "AI-slop",
+      "explanation": "Minderwertige, schlampige und wertlose Inhalte, die von künstlicher Intelligenz produziert werden und oft das Internet verschmutzen."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Eine Reihe vorgefertigter Tools und Bibliotheken, die es Softwareentwicklern erleichtern, Anwendungen für eine bestimmte Plattform oder ein bestimmtes Gerät zu entwickeln."
+    },
+    {
+      "term": "computer use",
+      "explanation": "Künstliche Intelligenz kann Operationen auf dem Computerbildschirm steuern, indem sie die Maus bewegt und die Tastatur verwendet, genau wie ein Mensch."
+    },
+    {
+      "term": "protocol buffers",
+      "explanation": "Eine Datentransportmethode, die von verschiedenen Softwareprogrammen verwendet wird, um Daten untereinander zu senden, wobei die Informationen sehr schnell und in kleinen Größen verpackt werden."
+    },
+    {
+      "term": "binary",
+      "explanation": "Die grundlegendste Maschinensprache, die nur aus Nullen und Einsen besteht und die der Prozessor des Computers direkt versteht."
+    },
+    {
+      "term": "code intelligence graph",
+      "explanation": "Eine detaillierte Karte, die die Beziehungen aller Dateien und Befehle in einem Softwareprojekt zeigt."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "Der Prozess der Zusammenfassung der riesigen Informationen, die der künstlichen Intelligenz zur Verfügung gestellt werden, durch Bereinigen unnötiger Teile, damit das Modell schneller und genauer arbeitet."
+    },
+    {
+      "term": "e-signature",
+      "explanation": "Eine elektronische Bestätigungsmethode mit Identitätsprüfungsfunktion, die die rechtsgültige Unterzeichnung digitaler Dokumente ermöglicht."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Autonome Software für künstliche Intelligenz, die in Ihrem Namen Softwarecodes schreibt, Fehler findet und Projekte von Anfang bis Ende entwickelt."
+    },
+    {
+      "term": "vector index",
+      "explanation": "Ein spezieller Suchindex, der es künstlicher Intelligenz ermöglicht, die gesuchten Informationen sehr schnell zu finden, indem sie komplexe Daten in numerische Werte umwandelt."
+    },
+    {
+      "term": "bindings",
+      "explanation": "Es werden Brücken errichtet, damit in einer Programmiersprache geschriebene Bibliotheken in einer anderen Sprache genutzt werden können."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "Künstliche Intelligenz verbessert sich ständig, indem sie neue Informationen lernt, ohne dabei die alten Informationen zu vergessen."
+    },
+    {
+      "term": "tutoring models",
+      "explanation": "Künstliche Intelligenzsysteme, die Schülern Themen Schritt für Schritt erklären, Fragen beantworten und personalisierte pädagogische Unterstützung bieten."
+    }
+  ]
+}

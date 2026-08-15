@@ -26,5 +26,8 @@ No, el CEO se centra más en decisiones estratégicas y delega tareas operativas
 - [Product Development Cycle](/es/dictionary/product-development-cycle/)
 - [AI Team Operations](/es/dictionary/ai-team-operations/)
 
+## Herramientas relacionadas
+- [Gstack](/es/discover/gstack/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ceo/

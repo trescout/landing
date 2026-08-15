@@ -29,5 +29,8 @@ Por lo general, se utiliza una sintaxis simple, como Gherkin, que es muy parecid
 - [Testing Framework](/es/dictionary/testing-framework/)
 - [Spec-driven Development](/es/dictionary/spec-driven-development/)
 
+## Herramientas relacionadas
+- [Catch2](/es/discover/catch2/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/bdd/

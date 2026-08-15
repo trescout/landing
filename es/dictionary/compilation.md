@@ -24,5 +24,8 @@ No, algunos lenguajes, como Python, ejecutan el código instantáneamente, líne
 - [Rust](/es/dictionary/rust/)
 - [Compile-time](/es/dictionary/compile-time/)
 
+## Herramientas relacionadas
+- [SWC](/es/discover/swc/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/compilation/

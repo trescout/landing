@@ -24,5 +24,8 @@ Generalmente analizando constantemente los datos que los rodean y mediante prueb
 - [Autonomous Agent](/es/dictionary/autonomous-agent/)
 - [Computer Vision](/es/dictionary/computer-vision/)
 
+## Herramientas relacionadas
+- [Introduction-to-Autonomous-Robots](/es/discover/introduction-to-autonomous-robots/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/autonomous-robots-intro/

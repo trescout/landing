@@ -21,5 +21,8 @@ En lugar de ser más inteligentes, son más flexibles y rápidos porque pueden u
 - [Machine Learning](/es/dictionary/machine-learning/)
 - [Transformer](/es/dictionary/transformer/)
 
+## Herramientas relacionadas
+- [Pytorch](/es/discover/pytorch/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/dynamic-neural-networks/

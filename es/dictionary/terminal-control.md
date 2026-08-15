@@ -24,5 +24,8 @@ Las interfaces gráficas son más fáciles de aprender porque son visuales, pero
 - [Terminal](/es/dictionary/terminal/)
 - [Script](/es/dictionary/script/)
 
+## Herramientas relacionadas
+- [DesktopCommanderMCP](/es/discover/desktopcommandermcp/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/terminal-control/

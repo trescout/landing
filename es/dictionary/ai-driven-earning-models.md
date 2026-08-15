@@ -26,5 +26,8 @@ Dado que la inteligencia artificial evoluciona constantemente, los modelos de ne
 - [AI Skills](/es/dictionary/ai-skills/)
 - [Enterprise Resource Planning](/es/dictionary/enterprise-resource-planning/)
 
+## Herramientas relacionadas
+- [AiToEarn](/es/discover/aitoearn/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-driven-earning-models/

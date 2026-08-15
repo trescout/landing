@@ -23,6 +23,7 @@ Si la tarea es muy compleja o el modelo tiene poca capacidad, los ejemplos puede
 
 
 ## Términos relacionados
+- [Zero-shot Learning](/es/dictionary/zero-shot-learning/)
 - [Prompt Engineering](/es/dictionary/prompt-engineering/)
 - [LLM](/es/dictionary/llm/)
 - [Fine-tuning](/es/dictionary/fine-tuning/)

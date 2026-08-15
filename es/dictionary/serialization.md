@@ -20,5 +20,8 @@ Los datos en la memoria de la computadora sólo son significativos para el progr
 - [API](/es/dictionary/api/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [YAML Cpp](/es/discover/yaml-cpp/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/serialization/

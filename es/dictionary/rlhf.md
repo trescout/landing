@@ -27,6 +27,8 @@ Sí, la puntuación suele ser realizada por expertos capacitados o por un públi
 ## Términos relacionados
 - [Fine-tuning](/es/dictionary/fine-tuning/)
 - [LLM](/es/dictionary/llm/)
+- [AI Skills](/es/dictionary/ai-skills/)
+- [Hallucination](/es/dictionary/hallucination/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/rlhf/

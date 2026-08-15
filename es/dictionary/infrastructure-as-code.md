@@ -22,5 +22,8 @@ Porque en las operaciones manuales, un pequeño ajuste olvidado puede causar gra
 - [Cloud Native](/es/dictionary/cloud-native/)
 - [Deployment](/es/dictionary/deployment/)
 
+## Herramientas relacionadas
+- [Terraform](/es/discover/terraform/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/infrastructure-as-code/

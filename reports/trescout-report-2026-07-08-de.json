@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-08",
+  "editorial": "Die heutige Technologieagenda wird durch eine Struktur bestimmt, die auf autonomen Fähigkeiten und der Sicherheit von Systemanweisungen basiert. Insbesondere Open-Source-Automatisierungen für die Jobsuche und Lösungen für sichere Arbeitsumgebungen (Sandbox) erregen im Entwickler-Ökosystem große Aufmerksamkeit.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "Mithilfe der Claude-Code-Infrastruktur bietet ai-job-search ein Framework, das den Jobsuchprozess automatisiert. Das Tool analysiert das Nutzerprofil und übernimmt mit Unterstützung künstlicher Intelligenz Aufgaben wie die Bearbeitung von Lebensläufen, das Verfassen von Anschreiben und die Vorbereitung von Vorstellungsgesprächen.",
+          "meta": "TypeScript · ★ 12.031 · +2.514 heute"
+        },
+        {
+          "title": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "summary": "Meetily ist ein in Rust entwickelter, auf den Datenschutz ausgerichteter Meeting-Assistent, der alle Vorgänge auf dem lokalen Gerät ausführt. Es führt die Transkription von Sprachaufzeichnungen, die Tagebucherstellung von Sprechern und Zusammenfassungsprozesse ohne Cloud-Verbindung durch.",
+          "meta": "Rust · ★ 21.061 · +1.777 heute"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Diese Bibliothek wurde für Codieragenten für künstliche Intelligenz entwickelt und bietet technische Fähigkeiten auf Produktionsebene. Dieses JavaScript-basierte Toolkit ermöglicht es Agenten, funktionalere Aufgaben in Softwareentwicklungsprozessen zu übernehmen.",
+          "meta": "JavaScript · ★ 72.455 · +1.317 heute"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView führt mithilfe standardmäßiger drahtloser Internetsignale räumliche Intelligenz, Vitalzeichenverfolgung und Anwesenheitserkennung in Echtzeit durch, ohne dass Bilddaten erforderlich sind. Diese in Rust entwickelte Technologie verwandelt die bestehende WLAN-Infrastruktur in ein nicht-visuelles Erkennungssystem.",
+          "meta": "Rust · ★ 78.671 · +1.129 heute"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Das System-Prompt-Leaks-Repository vereint geheime Befehlssätze von wichtigen Sprachmodellen wie Anthropic, OpenAI, Google und xAI. Diese Studie stellt eine zentrale Ressource für Entwickler dar, die die Funktionsprinzipien und Sicherheitskonfigurationen beliebter Modelle der künstlichen Intelligenz verstehen möchten.",
+          "meta": "JavaScript · ★ 53.327 · +1.691 heute"
+        },
+        {
+          "title": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "summary": "CubeSandbox wurde von Tencent Cloud entwickelt und bietet eine schnelle, gleichzeitige und sichere Arbeitsumgebung (Sandbox) für Agenten der künstlichen Intelligenz (KI-Agenten). Diese in Rust geschriebene, leichte Struktur ermöglicht es Agenten, sicher in einem isolierten Bereich zu arbeiten.",
+          "meta": "Rust · ★ 8.583 · +664 heute"
+        },
+        {
+          "title": "AhmadIbrahiim/Website-downloader",
+          "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+          "summary": "Der von AhmadIbrahiim entwickelte Website-Downloader ermöglicht das Herunterladen aller Quellcodes und Assets einer Website mithilfe von Node.js auf den lokalen Computer. Mit dem Tool wird die gesamte Website archiviert, einschließlich JavaScript-Dateien, Stylesheets und Bildern.",
+          "meta": "HTML · ★ 4.223 · +140 heute"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar ist ein Tool, das die Anzeige von OpenAI-Codex- und Claude-Code-Nutzungsstatistiken ohne Anmeldepflicht ermöglicht. Diese mit der Swift-Sprache entwickelte Software erleichtert Entwicklern die Verfolgung von Verbrauchsdaten in von künstlicher Intelligenz unterstützten Codierungstools.",
+          "meta": "Swift · ★ 17.106 · +376 heute"
+        },
+        {
+          "title": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "summary": "Dotnet/skills wurde von Microsoft entwickelt und bietet wiederverwendbare Kompetenzpakete (Skills), die es AI-Coding-Agents ermöglichen, effektiver in .NET- und C#-Projekten zu arbeiten. Ziel dieser Bibliothek ist es, agentenbasierte Arbeitsabläufe zu standardisieren, um Entwicklungsprozesse zu automatisieren.",
+          "meta": "C# · ★ 4.361 · +64 heute"
+        },
+        {
+          "title": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "summary": "OfficeCLI bietet eine Open-Source-Office-Suite, die es KI-Agenten ermöglicht, Word-, Excel- und PowerPoint-Dateien direkt zu lesen, zu bearbeiten und zu automatisieren. Dieses mit C# entwickelte Tool ermöglicht die Ausführung von Vorgängen über eine einzige Binärdatei, ohne dass eine Office-Softwareinstallation erforderlich ist.",
+          "meta": "C# · ★ 10.491 · +893 heute"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Das Claude-Video-Tool bietet Videoanalysefunktionen für das Claude-Modell mit einer Struktur, die Videos herunterlädt, sie in Frames unterteilt und Audioaufzeichnungen in Text umwandelt. Dieses Python-basierte System verarbeitet visuelle und Audiodaten und ermöglicht es künstlicher Intelligenz, Rückschlüsse aus Videoinhalten zu ziehen.",
+          "meta": "Python · ★ 5.415 · +965 heute"
+        },
+        {
+          "title": "kyutai-labs/pocket-tts",
+          "url": "https://github.com/kyutai-labs/pocket-tts",
+          "summary": "Pocket-TTS wurde von Kyutai Labs entwickelt und ist ein leichtes Text-to-Speech-Modell, das nur auf der Zentraleinheit (CPU) läuft, ohne dass eine Grafikverarbeitungseinheit erforderlich ist. Dank seines geringen Ressourcenverbrauchs bietet es eine schnelle und effiziente Klangsynthese auf Geräten mit Hardware-Einschränkungen.",
+          "meta": "Python · ★ 6.350 · +531 heute"
+        },
+        {
+          "title": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "summary": "Diese Kuration wurde von Anthropic für Claude Code erstellt und vereint Kompetenzpakete, Entwicklertools und Plug-ins für Codierungsagenten. Die Zusammenstellung zentralisiert die Ressourcen, die zur Optimierung der Arbeitsabläufe im Claude Code-Ökosystem verwendet werden.",
+          "meta": "Python · ★ 49.316 · +144 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+          "url": "https://streetcomplete.app/",
+          "summary": "StreetComplete ist eine mobile Anwendung, mit der Benutzer OpenStreetMap-Daten durch Beantwortung einfacher Fragen aktualisieren können. Ziel ist es, die fehlenden Informationen auf der Karte zu vervollständigen, indem freiwillige Beiträge durch Gamification gefördert werden.",
+          "meta": "732 Punkte · 173 Kommentare"
+        },
+        {
+          "title": "Chat Control 1.0 and 2.0 Explained",
+          "url": "https://fightchatcontrol.eu/chat-control-overview",
+          "summary": "Die in der Europäischen Union diskutierten Chat-Kontrollvorschriften zielen darauf ab, eine Verpflichtung zum Scannen von Inhalten auf Ende-zu-Ende-verschlüsselten Messaging-Plattformen vorzuschreiben. Diese Gesetzesinitiativen definieren digitale Datenschutz- und Datensicherheitsstandards neu, um die Ausbeutung von Kindern zu bekämpfen.",
+          "meta": "550 Punkte · 182 Kommentare"
+        },
+        {
+          "title": "Every new car sold in the European Union must include a driver monitoring camera",
+          "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+          "summary": "Alle in der Europäischen Union verkauften Neufahrzeuge müssen über eine Fahrerüberwachungskamera verfügen, die Ablenkungen des Fahrers erkennt. Ziel dieses Systems ist es, das Unfallrisiko durch Sicherheitswarnungen durch Analyse des Fahrerverhaltens zu verringern.",
+          "meta": "535 Punkte · 694 Kommentare"
+        },
+        {
+          "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+          "url": "https://30papers.com/",
+          "summary": "Die Plattform 30papers.com bietet 30 grundlegende Artikel zum maschinellen Lernen, die vom Forscher für künstliche Intelligenz Ilya Sutskever empfohlen werden, in einem für Anfänger zugänglichen Format. Das Projekt zielt darauf ab, das Erlernen grundlegender Konzepte im Bereich des maschinellen Lernens durch die Vereinfachung komplexer akademischer Inhalte zu erleichtern.",
+          "meta": "452 Punkte · 71 Kommentare"
+        },
+        {
+          "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+          "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+          "summary": "Kokoro ist ein Modell, das mit geringer Prozessorleistung läuft und hochwertige Text-to-Speech-Funktionen auf lokalen Geräten bietet. Dank seiner leichten Architektur ermöglicht es schnelle und natürliche Sprachsynthesevorgänge, ohne dass eine Internetverbindung erforderlich ist.",
+          "meta": "368 Punkte · 74 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Das Qwythos-9B-Modell ist ein multimodales Modell der künstlichen Intelligenz, das durch die Verarbeitung von Bild- und Textdaten eine Textausgabe erzeugt. Dieses im GGUF-Format präsentierte Modell ermöglicht die visuelle Textproduktion auf lokalen Systemen mit geringen Hardwareanforderungen.",
+          "meta": "♥ 1.778 · 1.683.711 Downloads"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Hy3 wurde von Tencent entwickelt und ist ein für Textgenerierungsprozesse optimiertes Sprachmodell. Das Modell zielt darauf ab, durch das Training anhand umfangreicher Datensätze eine konsistente Ausgabe über eine Vielzahl von Verarbeitungsaufgaben natürlicher Sprache hinweg zu erzeugen.",
+          "meta": "♥ 508 · 121 Downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, entwickelt von Zai-org, ist ein Sprachmodell, das für Textgenerierungsaufgaben optimiert ist. Mit seiner Open-Source-Struktur bietet es Entwicklern eine neue Alternative, die sie in verschiedenen Prozessen der Verarbeitung natürlicher Sprache nutzen können.",
+          "meta": "♥ 3.611 · 281.584 Downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR wurde von Baidu entwickelt und ist ein Bild-Text-zu-Text-Modell, das bildbasierte Texte in Textdaten umwandelt. Dieses Modell führt optische Zeichenerkennungsvorgänge mit hoher Genauigkeit für komplexe Dokumente und Bilder mit dichtem Text durch.",
+          "meta": "♥ 1.840 · 1.084.945 Downloads"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, entwickelt von InternScience, ist ein Modell der künstlichen Intelligenz, das für Textgenerierungsaufgaben optimiert ist. Das Modell bietet eine spezialisierte Architektur für die Verarbeitung komplexer Befehle und die Wahrung der Kontextkonsistenz.",
+          "meta": "♥ 379 · 14.723 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Eine Reihe vorgefertigter Strukturen und Regeln, die dazu dienen, die Arbeit bei der Entwicklung von Software zu beschleunigen."
+    },
+    {
+      "term": "transcription",
+      "explanation": "Der Prozess der Transkribierung von Sprachlauten in Text."
+    },
+    {
+      "term": "speaker diarization",
+      "explanation": "Der Prozess der Identifizierung und Kennzeichnung des Sprechers in einer Audioaufnahme."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Fähigkeit, komplexe Probleme in logischen Schritten zu lösen und technische Hilfsmittel effizient einzusetzen."
+    },
+    {
+      "term": "presence detection",
+      "explanation": "Mithilfe von Sensoren oder Software erkennen, ob sich Menschen oder Objekte in einer Umgebung befinden."
+    },
+    {
+      "term": "system prompt leaks",
+      "explanation": "Offenlegung der im Hintergrund geheim gehaltenen Anweisungen einer künstlichen Intelligenz durch den Nutzer."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonome Software, die selbstständig Entscheidungen treffen und bestimmte Aufgaben ausführen kann."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Ein isolierter Arbeitsbereich, in dem Software sicher getestet werden kann, ohne das Hauptsystem zu beschädigen."
+    },
+    {
+      "term": "assets",
+      "explanation": "Alle digitalen Ressourcen wie Bilder, Töne, Codes oder Dateien, die in einem Projekt verwendet werden."
+    },
+    {
+      "term": "skills",
+      "explanation": "Besondere Fähigkeiten, die ein Modell der künstlichen Intelligenz durch die Spezialisierung auf ein bestimmtes Fachgebiet ausführen kann."
+    },
+    {
+      "term": "binary",
+      "explanation": "Eine Maschinensprache, die nur aus Nullen und Einsen besteht und die der Computer direkt verstehen und ausführen kann."
+    },
+    {
+      "term": "CPU",
+      "explanation": "Die Hauptverarbeitungseinheit im Computer, die alle Berechnungen durchführt und Anweisungen verarbeitet."
+    },
+    {
+      "term": "text-to-speech",
+      "explanation": "Voiceover geschriebener Texte durch einen Computer mit natürlicher menschlicher Stimme."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Künstliche Intelligenz-Tools, die im Auftrag des Benutzers Softwarecode schreiben, debuggen und Projekte entwickeln."
+    },
+    {
+      "term": "OpenStreetMap",
+      "explanation": "Von Freiwilligen erstellte Weltkartendatenbank, die allen kostenlos zur Verfügung steht."
+    },
+    {
+      "term": "gamification",
+      "explanation": "Verwendung von Spielmechaniken wie Punkten, Abzeichen oder Levels, um den Benutzer in spielfremden Bereichen zu motivieren."
+    }
+  ]
+}

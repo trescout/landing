@@ -27,5 +27,8 @@ No, ser un SuperAgent requiere multitarea y herramientas avanzadas.
 - [Autonomous AI Agent](/es/dictionary/autonomous-ai-agent/)
 - [Agentic System](/es/dictionary/agentic-system/)
 
+## Herramientas relacionadas
+- [Deer Flow](/es/discover/deer-flow/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/superagent/

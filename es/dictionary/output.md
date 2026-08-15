@@ -24,5 +24,8 @@ Generalmente, si la entrada es defectuosa o la capacidad de procesamiento del si
 - [API](/es/dictionary/api/)
 - [Token](/es/dictionary/token/)
 
+## Herramientas relacionadas
+- [Liteparse](/es/discover/liteparse/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/output/

@@ -23,7 +23,9 @@ Sí, las personas con un capital muy grande pueden intentar influir en el mercad
 
 
 ## Términos relacionados
+- [Artificial Intelligence](/es/dictionary/artificial-intelligence/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
+- [Prediction Market](/es/dictionary/prediction-market/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/prediction-market/

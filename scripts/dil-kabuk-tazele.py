@@ -19,7 +19,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from diller import dil, dil_dugmeleri_yaz  # noqa: E402
+from diller import DIL_ONEK, dil, dil_dugmeleri_yaz  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -28,27 +28,32 @@ if not LANG:
     raise SystemExit("Kullanım: dil-kabuk-tazele.py --lang=fr")
 dil(LANG)  # bilinmeyen dilde anlaşılır hata
 
-# Elle yazılan sayfalar · (yol, o sayfanın diğer dillerdeki karşılıkları)
-SAYFALAR = {
-    "fr": [
-        ("fr/index.html", {"TR": "/", "EN": "/en/", "PT": "/pt/", "ES": "/es/"}),
-        ("fr/compare/rss-vs-ai/index.html",
-         {"TR": "/compare/rss-vs-ai/", "EN": "/en/compare/rss-vs-ai/",
-          "PT": "/pt/compare/rss-vs-ai/", "ES": "/es/compare/rss-vs-ai/"}),
-    ],
-    "pt": [
-        ("pt/index.html", {"TR": "/", "EN": "/en/", "FR": "/fr/", "ES": "/es/"}),
-        ("pt/compare/rss-vs-ai/index.html",
-         {"TR": "/compare/rss-vs-ai/", "EN": "/en/compare/rss-vs-ai/",
-          "FR": "/fr/compare/rss-vs-ai/", "ES": "/es/compare/rss-vs-ai/"}),
-    ],
-    "es": [
-        ("es/index.html", {"TR": "/", "EN": "/en/", "FR": "/fr/", "PT": "/pt/"}),
-        ("es/compare/rss-vs-ai/index.html",
-         {"TR": "/compare/rss-vs-ai/", "EN": "/en/compare/rss-vs-ai/",
-          "FR": "/fr/compare/rss-vs-ai/", "PT": "/pt/compare/rss-vs-ai/"}),
-    ],
-}
+# Elle yazılan (üreticiden geçmeyen) çok dilli sayfalar · yol kalıpları.
+# Liste ELLE yazılıyordu: her yeni dilde hem yeni bloğu eklemek hem ESKİ
+# dillerin hedeflerine yeni dili eklemek gerekiyordu · biri unutulunca o dilin
+# düğmesi eski sayfalarda hiç görünmüyordu. Artık DIL_ONEK'ten türüyor.
+KALIPLAR = ["index.html", "compare/rss-vs-ai/index.html"]
+
+
+def sayfalar(kod):
+    """(yol, {ETİKET: hedef}) · o dilin elle yazılan sayfaları.
+
+    İngilizce HARİÇ: en/ sayfalarının kabuğu fix-all-headers-and-footers.js'in
+    kanonik kaynağı. İkisi birden yazarsa son çalışan kazanır · sıraya bağlı
+    davranış istemiyoruz.
+    """
+    if kod == "en":
+        return []
+    out = []
+    for kalip in KALIPLAR:
+        yol = f"{kod}/{kalip}"
+        hedefler = {}
+        for etiket, onek in DIL_ONEK.items():
+            if etiket.lower() == kod:
+                continue
+            hedefler[etiket] = f"{onek}/{kalip.replace('index.html', '')}" or "/"
+        out.append((yol, hedefler))
+    return out
 
 
 def uretilmis_kabuk():
@@ -70,7 +75,7 @@ def uretilmis_kabuk():
 
 nav_kanonik, footer_kanonik = uretilmis_kabuk()
 degisen = 0
-for yol, hedefler in SAYFALAR.get(LANG, []):
+for yol, hedefler in sayfalar(LANG):
     tam = os.path.join(ROOT, yol)
     if not os.path.exists(tam):
         print(f"  · atlandı (yok): {yol}")

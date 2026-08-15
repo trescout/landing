@@ -29,5 +29,8 @@ Sí, el administrador del sistema puede actualizar los permisos desde un punto c
 - [Security Scanner](/es/dictionary/security-scanner/)
 - [API Gateway](/es/dictionary/api-gateway/)
 
+## Herramientas relacionadas
+- [Logto](/es/discover/logto/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/rbac/

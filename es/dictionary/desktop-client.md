@@ -24,5 +24,8 @@ Para tareas que requieren mayor rendimiento y acceso a hardware, sí, pero en t�
 - [Application](/es/dictionary/application/)
 - [Runtime](/es/dictionary/runtime/)
 
+## Herramientas relacionadas
+- [Jellium Desktop](/es/discover/jellium-desktop/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/desktop-client/

@@ -3,7 +3,7 @@
 (function () {
   /* Sayaç metni sayfanın dilinden · önceden sabit Türkçe "terim" idi ve
      İngilizce dizinde de öyle görünüyordu (2026-08-07). */
-  var METIN = { tr: ' terim', en: ' terms', fr: ' termes', 'pt-BR': ' termos', es: ' términos' };
+  var METIN = { tr: ' terim', en: ' terms', fr: ' termes', 'pt-BR': ' termos', es: ' términos', de: ' Begriffe' };
   var _l = document.documentElement.lang || 'tr';
   var BIRIM = METIN[_l] || METIN[_l.split('-')[0]] || METIN.tr;
 

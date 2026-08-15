@@ -24,5 +24,22 @@ No, sólo sabe lo que hay en los datos de entrenamiento y en ocasiones puede dar
 No, sólo está haciendo predicciones basadas en probabilidades matemáticas; No tiene conciencia ni emoción.
 
 
+## Términos relacionados
+- [Transformer](/es/dictionary/transformer/)
+- [Token](/es/dictionary/token/)
+- [Context Window](/es/dictionary/context-window/)
+- [Inference](/es/dictionary/inference/)
+- [Generative AI](/es/dictionary/generative-ai/)
+
+## Herramientas relacionadas
+- [Awesome LLM Apps](/es/discover/awesome-llm-apps/)
+- [MoneyPrinterTurbo](/es/discover/moneyprinterturbo/)
+- [TradingAgents](/es/discover/tradingagents/)
+- [Deer Flow](/es/discover/deer-flow/)
+- [Crawl4AI](/es/discover/crawl4ai/)
+- [MiroFish](/es/discover/mirofish/)
+- [Goose](/es/discover/goose/)
+- [Continue](/es/discover/continue/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/llm/

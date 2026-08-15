@@ -24,5 +24,8 @@ No, algunos idiomas son más flexibles, otros tienen reglas estrictas.
 - [Clean Code](/es/dictionary/clean-code/)
 - [Unit Testing](/es/dictionary/unit-testing/)
 
+## Herramientas relacionadas
+- [Prisma](/es/discover/prisma/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/type-safe/

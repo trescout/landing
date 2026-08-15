@@ -27,5 +27,8 @@ Dado que es secuencial, debes gestionar los cambios con cuidado para evitar romp
 - [Git Push](/es/dictionary/git-push/)
 - [Checkout](/es/dictionary/checkout/)
 
+## Herramientas relacionadas
+- [Gh Stack](/es/discover/gh-stack/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/stacked-pull-requests/

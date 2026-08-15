@@ -28,5 +28,8 @@ Dado que es autónomo, es importante que sus poderes sean limitados y monitoread
 - [Self-orchestration](/es/dictionary/self-orchestration/)
 - [Instincts](/es/dictionary/instincts/)
 
+## Herramientas relacionadas
+- [Hermes Agent](/es/discover/hermes-agent/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/hermes-agent/

@@ -24,6 +24,9 @@ Sí, se puede implementar en casi todos los modelos de lenguajes principales.
 
 ## Términos relacionados
 - [SLM](/es/dictionary/slm/)
+- [Open Weights](/es/dictionary/open-weights/)
+- [Self-hosting](/es/dictionary/self-hosting/)
+- [Inference](/es/dictionary/inference/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/quantization/

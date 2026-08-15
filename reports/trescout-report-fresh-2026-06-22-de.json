@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-22",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "Unterstützt durch große Sprachmodelle analysiert dieses System Marktdaten und Echtzeitnachrichten aus mehreren Quellen und bietet visualisierte Panels für Investitionsentscheidungen. Es standardisiert Analyseprozesse für verschiedene Börsen mit automatischen Benachrichtigungen und kostenloser geplanter Studienunterstützung.",
+          "meta": "Python · ★ 45.304 · +568 heute"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "Deer-Flow wurde von ByteDance entwickelt und ist ein Open-Source-Superagenten-Framework, das für die Ausführung lang andauernder Aufgaben entwickelt wurde. System; Mithilfe von Sandbox, Speicherverwaltung und Subagenten kann es komplexe Arbeitsabläufe autonom recherchieren und programmieren.",
+          "meta": "Python · ★ 72.905 · +442 heute"
+        },
+        {
+          "title": "mikumifa/biliTickerBuy",
+          "url": "https://github.com/mikumifa/biliTickerBuy",
+          "summary": "Dieses Python-basierte Tool, das die Kaufprozesse für Bilibili-Mitglieder automatisiert, ist ein Ticketkaufassistent, der die Ticketkaufprozesse beschleunigen soll. Dadurch können Benutzer schneller auf begrenzte Lagerbestände auf der Plattform zugreifen.",
+          "meta": "Python · ★ 3.782 · +67 heute"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot ist ein Python-Tool, das die Sammlung von Open Source Intelligence (OSINT) für Bedrohungsinformationen und Angriffsflächen-Mapping-Prozesse automatisiert. Es ermöglicht die Erkennung von Sicherheitslücken in digitalen Assets durch die Integration verschiedener Datenquellen.",
+          "meta": "Python · ★ 18.921 · +294 heute"
+        },
+        {
+          "title": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "summary": "Cognee ist eine Open-Source-Plattform, die künstliche Intelligenz-Agenten ein Langzeitgedächtnis zwischen Sitzungen bereitstellt. Es ermöglicht Agenten, Daten mithilfe einer selbstgehosteten Knowledge-Graph-Engine strukturiert zu speichern und abzurufen.",
+          "meta": "Python · ★ 18.871 · +347 heute"
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Das auf GitHub freigegebene Repository system_prompts_leaks bündelt Systemprompts von Modellen der künstlichen Intelligenz großer Technologieunternehmen wie Anthropic, OpenAI, Google und xAI. Diese Sammlung stellt eine zentrale Ressource für Entwickler dar, die die Hintergrundkonfigurationsanweisungen und Einschränkungen gängiger Sprachmodelle untersuchen möchten.",
+          "meta": "JavaScript · ★ 44.809 · +282 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Identity verification on Claude",
+          "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+          "summary": "Anthropic führt einen Identitätsüberprüfungsprozess ein, um die Sicherheitsmaßnahmen auf der Claude-Plattform zu erhöhen. Bei dieser App müssen Benutzer ihr Konto sichern und den Plattformzugriff verifizieren, indem sie ihre offiziellen Dokumente hochladen.",
+          "meta": "749 Punkte · 620 Kommentare"
+        },
+        {
+          "title": "Did my old job only exist because of fraud?",
+          "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+          "summary": "Es wird argumentiert, dass gefälschter Datenverkehr und künstliche Interaktionen in Softwareentwicklungsprozessen die Hauptmotivation für das Überleben einiger Jobrollen sind. Dies zeigt, dass Produktivitätskennzahlen und Stellenbeschreibungen im Technologiesektor möglicherweise eher auf irreführenden Indikatoren als auf der tatsächlichen Wertschöpfung basieren.",
+          "meta": "551 Punkte · 236 Kommentare"
+        },
+        {
+          "title": "Prefer duplication over the wrong abstraction (2016)",
+          "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+          "summary": "Die Bevorzugung von Codewiederholungen gegenüber falscher Abstraktion im Softwareentwicklungsprozess trägt dazu bei, die Flexibilität des Systems zu bewahren. Durch die Vermeidung unnötiger Verallgemeinerungen kann sich die Codebasis leichter an künftig erforderliche Änderungen anpassen.",
+          "meta": "485 Punkte · 316 Kommentare"
+        },
+        {
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
+          "url": "https://apertvs.ai/",
+          "summary": "Apertus ist eine Open-Source-Grundmodellplattform, die es Ländern ermöglicht, trainierbare Modelle mit ihren eigenen Daten zu erstellen. Im Einklang mit seiner Vision einer souveränen KI zielt es darauf ab, transparente und überprüfbare künstliche Intelligenzsysteme zu entwickeln, die auf lokaler Infrastruktur laufen können.",
+          "meta": "375 Punkte · 127 Kommentare"
+        },
+        {
+          "title": "Deno Desktop",
+          "url": "https://docs.deno.com/runtime/desktop/",
+          "summary": "Mit Deno Desktop können Entwickler native Desktop-Anwendungen mithilfe der Deno-Laufzeitumgebung erstellen. Dieses Tool bietet ein Anwendungsframework, das den Desktop-Softwareentwicklungsprozess mit Webtechnologien vereinfacht.",
+          "meta": "349 Punkte · 144 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "summary": "Dieses auf Gemma-4-12B basierende Textgenerierungsmodell bietet eine spezielle Konfiguration, die für agentenbasierte Aufgaben optimiert ist. Das im GGUF-Format veröffentlichte Modell bietet ein effizientes Inferenzerlebnis, das auf lokalen Geräten ausgeführt werden kann.",
+          "meta": "♥ 317 · 50.314 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "SuperAgent",
+      "explanation": "Fortschrittlicher Assistent mit künstlicher Intelligenz, der mehrere Aufgaben gleichzeitig verwalten und komplexe Vorgänge lösen kann."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Ein geschlossener Bereich, der es Ihnen ermöglicht, Programme sicher zu testen, indem Sie sie vom Hauptsystem isolieren."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Eine Datenstruktur, die Beziehungen zwischen Informationen als miteinander verbundene Punkte zeigt."
+    },
+    {
+      "term": "ticket purchasing assistant",
+      "explanation": "Ein digitaler Assistent, der im Namen des Benutzers nach Tickets sucht und Einkäufe tätigt."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Eine Methode zum Sammeln und Analysieren von Informationen aus öffentlich zugänglichen Quellen im Internet."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "Künstliche Intelligenz speichert vergangene Informationen und Erfahrungen über einen langen Zeitraum und erinnert sich bei Bedarf daran."
+    },
+    {
+      "term": "knowledge graph engine",
+      "explanation": "Software-Infrastruktur, die komplexe Zusammenhänge zwischen Informationen herstellt und deren Abfrage ermöglicht."
+    }
+  ]
+}

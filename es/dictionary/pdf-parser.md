@@ -27,5 +27,8 @@ Porque antes de dejar que la inteligencia artificial lea un documento, es necesa
 - [RAG](/es/dictionary/rag/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Opendataloader PDF](/es/discover/opendataloader-pdf/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/pdf-parser/

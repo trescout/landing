@@ -23,5 +23,8 @@ Sí, necesita conocer los comandos SQL básicos para utilizar estas herramientas
 - [Database](/es/dictionary/database/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Chat2DB](/es/discover/chat2db/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sql-client/

@@ -26,5 +26,8 @@ No, el mapa es solo el resultado. SIG es el proceso completo de recopilación, a
 - [World Model](/es/dictionary/world-model/)
 - [OpenStreetMap](/es/dictionary/openstreetmap/)
 
+## Herramientas relacionadas
+- [GeoLibre](/es/discover/geolibre/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/gis/

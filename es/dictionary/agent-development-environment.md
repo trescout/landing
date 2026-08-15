@@ -24,5 +24,8 @@ Porque los agentes de inteligencia artificial a veces pueden tomar decisiones in
 - [Sandbox Agent Framework](/es/dictionary/sandbox-agent-framework/)
 - [Agentic Engineering Platform](/es/dictionary/agentic-engineering-platform/)
 
+## Herramientas relacionadas
+- [Orca](/es/discover/orca/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agent-development-environment/

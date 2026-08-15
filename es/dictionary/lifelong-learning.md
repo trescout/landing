@@ -24,5 +24,8 @@ Debido a que los modelos tienden a olvidar datos antiguos mientras aprenden dato
 - [Continuous Learning](/es/dictionary/continuous-learning/)
 - [Memory](/es/dictionary/memory/)
 
+## Herramientas relacionadas
+- [DeepTutor](/es/discover/deeptutor/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/lifelong-learning/

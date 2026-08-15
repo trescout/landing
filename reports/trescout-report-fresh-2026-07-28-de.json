@@ -1,0 +1,103 @@
+{
+  "date": "2026-07-28",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "summary": "GeoLibre ist eine leichte, cloudbasierte Plattform für geografische Informationssysteme (GIS), die zur Visualisierung, Erkundung und Analyse geografischer Daten entwickelt wurde. Dieses mit TypeScript entwickelte Tool kann auf Webbrowsern, Desktops, Mobilgeräten und Jupyter-Notebooks ausgeführt werden.",
+          "meta": "TypeScript · ★ 2.891 · +420 heute"
+        },
+        {
+          "title": "vudovn/ag-kit",
+          "url": "https://github.com/vudovn/ag-kit",
+          "summary": "Ag-kit ist eine Entwicklungsbibliothek, die die notwendigen Werkzeuge und Strukturen bereitstellt, um autonome Agenten für künstliche Intelligenz (KI-Agenten) in TypeScript-basierten Projekten zu erstellen. Es ermöglicht Entwicklern, schnell Agentensysteme zu entwerfen, die komplexe Arbeitsabläufe verwalten können.",
+          "meta": "TypeScript · ★ 8.020 · +14 heute"
+        },
+        {
+          "title": "apache/cassandra",
+          "url": "https://github.com/apache/cassandra",
+          "summary": "Apache Cassandra ist eine verteilte Open-Source-Transaktionsdatenbank, die lineare Skalierbarkeit und Fehlertoleranz bietet, ohne dass es zu Leistungseinbußen auf Standardhardware oder Cloud-Infrastrukturen kommt. Dieses in der Java-Sprache entwickelte System ist für umfangreiche Datenverwaltungsprozesse konzipiert, die eine hohe Verfügbarkeit erfordern.",
+          "meta": "Java · ★ 10.004 · +11 heute"
+        },
+        {
+          "title": "ocornut/imgui",
+          "url": "https://github.com/ocornut/imgui",
+          "summary": "Dear ImGui ist eine leichte grafische Benutzeroberflächenbibliothek für C++-Projekte, die mit minimalen Abhängigkeiten arbeitet. Es ermöglicht Softwareentwicklern, eine einfache Schnittstelle für Rapid-Prototyping- und Werkzeugentwicklungsprozesse zu erstellen.",
+          "meta": "C++ · ★ 75.256 · +51 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Our position on open-weights models",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "summary": "Anthropic geht bei Open-Weight-Modellen vorsichtig vor und verweist auf die Sicherheitsrisiken und das Missbrauchspotenzial dieser Modelle. Das Unternehmen argumentiert, dass bei der Entwicklung künstlicher Intelligenzsysteme eine Balance zwischen Transparenz und Sicherheit gefunden werden sollte.",
+          "meta": "721 Punkte · 1.019 Kommentare"
+        },
+        {
+          "title": "Benchmarking Opus 5 on SlopCodeBench",
+          "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+          "summary": "SlopCodeBench ist ein Benchmarking-Tool, das entwickelt wurde, um die Leistung von codierungsorientierten Agenten der künstlichen Intelligenz anhand komplexer und minderwertiger Datensätze zu messen. Dieser Test bewertet die Fähigkeit der Modelle, verrauschte Daten und das Kontextmanagement zu extrahieren, auf die sie während des Codegenerierungsprozesses stoßen.",
+          "meta": "223 Punkte · 52 Kommentare"
+        },
+        {
+          "title": "Using an open model feels surprisingly good",
+          "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+          "summary": "Aufgrund der Vorteile der Datenvertraulichkeit und der vollständigen Kontrolle über das Modell wird die Ausführung von Open-Source-Sprachmodellen auf lokalen Systemen bevorzugt. Benutzer heben die Flexibilität hervor, die diese Modelle in Bezug auf Leistung und Anpassbarkeit bieten, wodurch die Abhängigkeit von Closed-Source-Systemen verringert wird.",
+          "meta": "201 Punkte · 66 Kommentare"
+        },
+        {
+          "title": "Watching Go's new garbage collector move through the heap",
+          "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+          "summary": "Die Programmiersprache Go zielt mit ihrem neuen Garbage-Collector-Mechanismus auf geringere Latenzen bei Speicherverwaltungsprozessen ab. Dieses Update verbessert die Systemleistung durch Optimierung der Objektscanvorgänge auf dem Heap.",
+          "meta": "196 Punkte · 20 Kommentare"
+        },
+        {
+          "title": "The computer that helped win World War II",
+          "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+          "summary": "Der Colossus-Computer, der während des Zweiten Weltkriegs zum Knacken deutscher Passwörter entwickelt wurde, wurde vom IEEE als historischer Meilenstein registriert. Dieses System ist der erste programmierbare digitale elektronische Computer und bildet die Grundlage moderner Informationstechnologien.",
+          "meta": "193 Punkte · 76 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, entwickelt von Moonshot AI, ist ein multimodales Modell der künstlichen Intelligenz, das durch die Verarbeitung visueller und textueller Daten eine Textausgabe erzeugt. Das Modell ist darauf ausgelegt, komplexe Bildanalysen und textbasierte Aufgaben in einer integrierten Struktur durchzuführen.",
+          "meta": "♥ 6.868 · 2.850 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "GIS",
+      "explanation": "Ein digitales System, das geografische Daten über die Welt sammelt, analysiert und auf einer Karte visualisiert."
+    },
+    {
+      "term": "Jupyter notebooks",
+      "explanation": "Eine interaktive Arbeitsumgebung, die es Ihnen ermöglicht, beim Schreiben von Code erklärende Texte und Ergebnisse nebeneinander zu sehen."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonome Software für künstliche Intelligenz, die selbstständig Entscheidungen treffen und gezielte Aufgaben ausführen kann."
+    },
+    {
+      "term": "agentic systems",
+      "explanation": "Systeme, in denen mehrere Einheiten der künstlichen Intelligenz zusammenarbeiten, um komplexe Probleme zu lösen."
+    },
+    {
+      "term": "linear scalability",
+      "explanation": "Mit zunehmender Menge an Ressourcen, die dem System hinzugefügt werden, erhöht sich auch die Leistung."
+    }
+  ]
+}

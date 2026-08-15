@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-25",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Superfile wurde mit der Go-Sprache entwickelt und bietet eine moderne und visuell ansprechende Schnittstelle zu terminalbasierten Dateimanagern. Benutzer können Dateivorgänge auf der Befehlszeile mit einem ästhetischeren und funktionaleren Erlebnis verwalten.",
+          "meta": "Go · ★ 19.700 · +338 heute"
+        },
+        {
+          "title": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "summary": "„Dive into LLMs“ ist eine Schulungsreihe, die die Arbeitsprinzipien großer Sprachmodelle praktisch anhand von Jupyter-Notebook-Dateien vermittelt. Das Projekt konkretisiert Modellentwicklungsprozesse, indem es eine breite Palette von Codierungspraktiken anbietet, von grundlegenden Konzepten bis hin zu fortgeschrittenen Techniken.",
+          "meta": "Jupyter Notebook · ★ 45.115 · +328 heute"
+        },
+        {
+          "title": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "summary": "Chat2DB zeichnet sich als durch künstliche Intelligenz unterstütztes Datenbankverwaltungstool und SQL-Client aus. Diese mit Java entwickelte Plattform bietet die Möglichkeit, mehrere Datenbanksysteme wie MySQL, PostgreSQL und Oracle über eine einzige grafische Benutzeroberfläche (GUI) zu verwalten.",
+          "meta": "Java · ★ 26.409 · +82 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "summary": "Anthropic kündigte Claude 3.5 Opus an, ein neues großes Sprachmodell, das sich auf fortgeschrittenes Denken und die Fähigkeit zur Lösung komplexer Probleme konzentriert. Das Modell zielt auf leistungsstarke Standards der künstlichen Intelligenz mit Sicherheitsverbesserungen ab, die über die Systemplatine geteilt werden, und einer aktualisierten technischen Architektur.",
+          "meta": "1.441 Punkte · 790 Kommentare"
+        },
+        {
+          "title": "If coding has been solved, why does software keep getting worse?",
+          "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+          "summary": "Obwohl die Automatisierung von Softwareentwicklungsprozessen und KI-gestütztes Codieren weit verbreitet sind, gehen die Diskussionen über technische Störungen in der Endbenutzererfahrung und den Rückgang der Softwarequalität weiter. Experten betonen, dass die Steigerung der Code-Schreibgeschwindigkeit nicht mit der Fähigkeit zur Bewältigung der Systemkomplexität einhergeht und dass sich die Anhäufung technischer Schulden negativ auf das Software-Ökosystem auswirkt.",
+          "meta": "683 Punkte · 516 Kommentare"
+        },
+        {
+          "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+          "summary": "Nvidia, Microsoft und Meta argumentieren, dass eine Überregulierung von Open-Weight-Modellen die technologische Innovation einschränken wird. Technologieunternehmen empfehlen, die Sicherheitsstandards zu verbessern, anstatt diese Modelle einzuschränken.",
+          "meta": "573 Punkte · 255 Kommentare"
+        },
+        {
+          "title": "India's first privately-developed rocket reaches orbit on debut launch",
+          "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+          "summary": "Einer privaten Raumfahrtinitiative mit Sitz in Indien gelang es, mit der ersten von ihr entwickelten Rakete bei ihrem ersten Testflug den Orbit zu erreichen. Diese Entwicklung erhöht die Kompetenz des Landes im kommerziellen Raumfahrtsektor und die Rolle des Privatsektors in der Raumfahrtwirtschaft.",
+          "meta": "557 Punkte · 163 Kommentare"
+        },
+        {
+          "title": "My security camera shipped a GitHub admin token in its login page",
+          "url": "https://hhh.hn/hanwha-github-token/",
+          "summary": "Auf der Anmeldeseite der Hanwha Vision-Sicherheitskameras ist der GitHub-Administrator-Zugriffsschlüssel (Admin-Token) als Open Source verfügbar. Diese Situation zeigt, dass während des Softwareentwicklungsprozesses der Geräte versehentlich sensible Daten exportiert wurden.",
+          "meta": "550 Punkte · 186 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    }
+  ]
+}

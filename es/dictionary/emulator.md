@@ -27,5 +27,8 @@ Por lo general, la potencia de su hardware debe ser mayor que la del dispositivo
 - [Sandbox](/es/dictionary/sandbox/)
 - [Virtual Machines](/es/dictionary/virtual-machines/)
 
+## Herramientas relacionadas
+- [Sharpemu](/es/discover/sharpemu/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/emulator/

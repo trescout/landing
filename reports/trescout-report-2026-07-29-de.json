@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-29",
+  "editorial": "Auf der heutigen Technologieagenda stehen Entwicklungstools für künstliche Intelligenz (KI-Entwicklungstools) und kontinuierliche Integrationssysteme (CI/CD-Systeme) im Vordergrund. Aisuite, die von Andrew Ng geteilte Multi-Modell-Bibliothek, erregt die Aufmerksamkeit von Entwicklern, indem sie verschiedene Sprachmodelle in einer einzigen Schnittstelle kombiniert.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "Der auf TypeScript basierende Pascalorg/Editor ermöglicht Benutzern das Erstellen und Teilen dreidimensionaler Architekturprojekte über den Browser. Ziel der Software ist es, architektonische Entwurfsprozesse über eine webbasierte Schnittstelle zugänglich zu machen.",
+          "meta": "TypeScript · ★ 18.985 · +341 heute"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Jenkins wurde mit der Java-Sprache entwickelt und ist eine Serverlösung, die kontinuierliche Integrations- und kontinuierliche Bereitstellungsprozesse in Softwareentwicklungsprozessen automatisiert. Es bietet ein breites Ökosystem an Plugins zur Verwaltung der Kompilierungs-, Test- und Bereitstellungsprozesse in Softwareprojekten.",
+          "meta": "Java · ★ 26.144 · +180 heute"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "summary": "Airi ist eine Begleitplattform für künstliche Intelligenz mit Echtzeit-Voice-Chat und Gaming-Funktionen, die Benutzer auf ihren eigenen Servern hosten können. Das Projekt zielt darauf ab, Neuro-Sama-ähnliche interaktive digitale Charaktere auf lokalen Systemen auszuführen und sie in verschiedene Spielumgebungen zu integrieren.",
+          "meta": "TypeScript · ★ 44.962 · +797 heute"
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Aisuite wurde von Andrew Ng entwickelt und ist eine Python-Bibliothek, die die Verwaltung verschiedener generativer KI-Anbieter über eine einzige Schnittstelle ermöglicht. Es standardisiert Integrationsprozesse, indem es Entwicklern den Wechsel zwischen verschiedenen Modelldiensten erleichtert.",
+          "meta": "Python · ★ 15.752 · +62 heute"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC ist ein Leistungsoptimierungssystem, das Fähigkeiten, Instinkte, Gedächtnis und Sicherheitsebenen für Agenten der künstlichen Intelligenz kombiniert. Claude Code zielt darauf ab, die Effizienz agentenbasierter Arbeitsabläufe in Entwicklungstools wie Codex und Cursor zu steigern.",
+          "meta": "JavaScript · ★ 235.046 · +636 heute"
+        },
+        {
+          "title": "hello245m/free-stockdb",
+          "url": "https://github.com/hello245m/free-stockdb",
+          "summary": "Free-stockdb ist eine native quantitative Analyse-Engine, die Tages- und Minutendaten für A-Aktien und Exchange Traded Funds (ETFs) verarbeitet. Das System vereint Funktionen wie inkrementelle Synchronisierung von Daten, lokales Caching, Preiskorrektur, Backtesting und Berechnung technischer Indikatoren.",
+          "meta": "HTML · ★ 1.492 · +50 heute"
+        },
+        {
+          "title": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "summary": "Die von Hugging Face entwickelte Speech-to-Speech-Bibliothek ermöglicht die Erstellung lokaler Sprachagenten mithilfe von Open-Source-Modellen. Mit diesem Python-basierten Tool können Entwickler Echtzeit-Sprachinteraktionssysteme erstellen, die auf dem Gerät ausgeführt werden.",
+          "meta": "Python · ★ 7.443 · +227 heute"
+        },
+        {
+          "title": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "summary": "Das Book-to-Skill-Projekt wandelt portable Dokumentformate (PDF) technischer Bücher in nutzbare Skill-Packs (Skills) für Claude Code um. Dieses Tool ermöglicht die direkte Referenzierung und Anwendung technischer Ressourcen in Arbeitsprozessen.",
+          "meta": "Python · ★ 11.802 · +423 heute"
+        },
+        {
+          "title": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "summary": "GeoLibre ist eine leichte, cloudbasierte Plattform für geografische Informationssysteme (GIS), die für die Visualisierung, Erkundung und Analyse geografischer Daten entwickelt wurde. Dieses in TypeScript geschriebene Tool; Es bietet eine flexible Struktur, die auf Webbrowsern, Desktops, Mobilgeräten und Jupyter-Notebooks ausgeführt werden kann.",
+          "meta": "TypeScript · ★ 3.563 · +607 heute"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "Diese Liste, die Bibliotheken, Strategien und Bildungsressourcen im Bereich des systematischen Handels zusammenfasst, unterstützt Python-basierte Finanzmodellierungsprozesse. Es vereint die notwendigen Tools und Literatur in einem einzigen Zentrum für diejenigen, die in die Welt des algorithmischen Handels einsteigen möchten.",
+          "meta": "Python · ★ 9.886 · +309 heute"
+        },
+        {
+          "title": "microsoft/agent-governance-toolkit",
+          "url": "https://github.com/microsoft/agent-governance-toolkit",
+          "summary": "Das von Microsoft entwickelte Agent-Governance-Toolkit bietet Sicherheitsebenen wie Richtliniendurchsetzung, Zero-Trust-Identität und Sandboxing für autonome Agenten der künstlichen Intelligenz. Ziel der Software ist der Schutz vor Schwachstellen in der OWASP Agentic Top 10-Liste.",
+          "meta": "Python · ★ 5.342 · +46 heute"
+        },
+        {
+          "title": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "summary": "Superfile wurde mit der Programmiersprache Go entwickelt und bietet eine moderne und visuell ansprechende Schnittstelle für die terminalbasierte Dateiverwaltung. Benutzer können Dateioperationen auf der Befehlszeile in einer funktionaleren und ästhetischeren Struktur ausführen.",
+          "meta": "Go · ★ 21.651 · +662 heute"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Das Claude-Video-Projekt ist ein Python-Tool, das Videos in Frames unterteilt und Audioaufnahmen transkribiert, um dem Claude-Modell die Möglichkeit zu geben, Videos anzusehen. Dieses System ermöglicht der künstlichen Intelligenz die Analyse von Videoinhalten durch die Verarbeitung visueller Daten und Texttranskripte.",
+          "meta": "Python · ★ 12.328 · +988 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Substack writers, you need a website",
+          "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+          "summary": "Substack-Autoren benötigen persönliche Websites, um die Plattformabhängigkeit zu verringern und das Eigentum an Inhalten zu schützen. Die Verwaltung eigener Domains wird als wesentlich angesehen, um die Kontrolle über die Leserdaten zu behalten und eine digitale Präsenz ohne Plattformbeschränkungen zu schaffen.",
+          "meta": "487 Punkte · 231 Kommentare"
+        },
+        {
+          "title": "Codex Security",
+          "url": "https://github.com/openai/codex-security",
+          "summary": "OpenAI hat das Codex Security Toolkit, das es zur Erkennung codebasierter Schwachstellen entwickelt hat, als Open Source freigegeben. Diese Software verwendet große Sprachmodelle, um Sicherheitslücken in Softwareentwicklungsprozessen zu identifizieren.",
+          "meta": "452 Punkte · 140 Kommentare"
+        },
+        {
+          "title": "Kimi K3 Architecture Overview and Notes",
+          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "summary": "Einige K3-Architekturen bieten eine Struktur der neuen Generation, die entwickelt wurde, um die Effizienz großer Sprachmodelle zu steigern. Der Schwerpunkt dieser Architektur liegt auf der Verbesserung der Inferenzgeschwindigkeit und Skalierbarkeit des Modells durch Optimierung der Rechenressourcen.",
+          "meta": "372 Punkte · 64 Kommentare"
+        },
+        {
+          "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+          "url": "https://www.slow-journalism.com/",
+          "summary": "Die Slow-Journalismus-Bewegung befürwortet einen Veröffentlichungsansatz, der sich auf tiefgreifende Analysen und verifizierte Informationen konzentriert, anstatt aktuelle Nachrichten schnell zu teilen. Dieser Ansatz zielt darauf ab, die Informationsverschmutzung zu reduzieren, die durch den konsumorientierten Nachrichtenzyklus entsteht.",
+          "meta": "272 Punkte · 159 Kommentare"
+        },
+        {
+          "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+          "url": "https://github.com/twalichiewicz/HNewhere",
+          "summary": "HNewhere bietet ein Benutzerskript, das die Benutzererfahrung verbessert, indem es Links und verwandte Diskussionen zu Hacker-News auf derselben Registerkarte kombiniert. Dieses Tool konsolidiert einen Arbeitsablauf, der einen ständigen Tab-Wechsel zwischen Inhalten und Kommentaren erfordert, in einer einzigen Oberfläche.",
+          "meta": "235 Punkte · 64 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3 wurde von Moonshot AI entwickelt und ist ein multimodales Modell, das visuelle und Textdaten als Eingabe verarbeitet und eine Textausgabe erzeugt. Das Modell bietet die Möglichkeit, durch die Analyse komplexer visueller Inhalte textbasierte Antworten auf Benutzeranfragen zu generieren.",
+          "meta": "♥ 8.229 · 99.214 Downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR wurde von Baidu entwickelt und ist ein Bild-zu-Text-Modell, das visuelle Texte verarbeitet und eine Textausgabe erzeugt. Es wurde entwickelt, um Texte in komplexen Dokumenten mit hoher Genauigkeit zu analysieren.",
+          "meta": "♥ 3.440 · 2.694.935 Downloads"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Solar-Open2-250B wurde von Upstage entwickelt und ist ein umfassendes Sprachmodell, das sich auf die Textgenerierung konzentriert. Dieses Modell, das darauf abzielt, komplexe Aufgaben mit hoher Parameterkapazität auszuführen, bietet eine neue Option für das Open-Source-Ökosystem der künstlichen Intelligenz.",
+          "meta": "♥ 668 · 4.804 Downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Dieses auf Qwen3.6-27B basierende Modell bietet eine Bild-Text-zu-Text-Struktur, die durch die Verarbeitung visueller und Texteingaben eine Textausgabe erzeugt. Das als unzensiert konfigurierte Modell zeichnet sich durch eine spezialisierte Version aus, die durch die Kombination verschiedener Datensätze (Modellzusammenführung) entsteht.",
+          "meta": "♥ 869 · 736.692 Downloads"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Laguna-S-2.1 wurde von Poolside entwickelt und ist ein für Textgenerierungsaufgaben optimiertes Sprachmodell. Das Modell bietet eine Open-Source-Architektur, die für den Einsatz in einer Vielzahl von Sprachverarbeitungsprozessen konzipiert ist.",
+          "meta": "♥ 804 · 67.286 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "continuous integration",
+      "explanation": "Von Entwicklern geschriebene Codeteile werden automatisch zum Hauptprojekt hinzugefügt, um Fehler frühzeitig zu finden."
+    },
+    {
+      "term": "continuous deployment",
+      "explanation": "Automatische Bereitstellung vorbereiteter Software-Updates direkt an Benutzer ohne menschliches Eingreifen."
+    },
+    {
+      "term": "AI companion",
+      "explanation": "Künstliche Intelligenz-Software, die mit dem Benutzer chattet, ihn bei seinen täglichen Aufgaben unterstützt und seine persönlichen Bedürfnisse lernt."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Künstliche Intelligenz-Technologie, die auf der Grundlage zuvor erlernter Informationen neue Texte, Bilder oder Töne erstellen kann."
+    },
+    {
+      "term": "skills",
+      "explanation": "Besondere Fähigkeiten, die Modelle der künstlichen Intelligenz erwerben, um eine bestimmte Aufgabe auszuführen."
+    },
+    {
+      "term": "instincts",
+      "explanation": "Die Fähigkeit der KI, in komplexen Situationen schnelle und intuitive Entscheidungen auf der Grundlage vorab trainierter Daten zu treffen."
+    },
+    {
+      "term": "memory",
+      "explanation": "KI personalisiert zukünftige Interaktionen, indem sie sich an vergangene Gespräche oder Benutzerpräferenzen erinnert."
+    },
+    {
+      "term": "ETF",
+      "explanation": "Ein Anlageinstrument namens Exchange Traded Fund, mit dem Sie viele verschiedene Aktien in einem einzigen Paket kaufen können."
+    },
+    {
+      "term": "backtesting",
+      "explanation": "Eine Methode zum Testen des Erfolgs einer Anlagestrategie anhand historischer Marktdaten."
+    },
+    {
+      "term": "voice agents",
+      "explanation": "Digitale Assistenten, die per Stimme mit dem Nutzer kommunizieren, Fragen beantworten und Befehle ausführen."
+    },
+    {
+      "term": "PDF",
+      "explanation": "Ein schwer zu bearbeitendes festes Dateiformat, das dafür sorgt, dass Dokumente auf verschiedenen Geräten gleich aussehen."
+    },
+    {
+      "term": "GIS",
+      "explanation": "Ein System, das geografische Daten auf Karten auf der ganzen Welt sammelt, analysiert und visualisiert."
+    },
+    {
+      "term": "Jupyter notebooks",
+      "explanation": "Eine interaktive Arbeitsumgebung, in der Sie beim Schreiben von Code Notizen machen und die Ergebnisse sofort sehen können."
+    },
+    {
+      "term": "systematic trading",
+      "explanation": "Anlageentscheidungen werden frei von Emotionen, im Rahmen vorgegebener Regeln und einer disziplinierten Planung getroffen."
+    },
+    {
+      "term": "algorithmic trading",
+      "explanation": "Kauf- und Verkaufstransaktionen auf Finanzmärkten werden durch Computerprogramme schnell und automatisch durchgeführt."
+    },
+    {
+      "term": "agent governance toolkit",
+      "explanation": "Eine Reihe von Managementtools, die sicherstellen, dass autonome Systeme der künstlichen Intelligenz sicher, ethisch und regelkonform agieren."
+    }
+  ]
+}

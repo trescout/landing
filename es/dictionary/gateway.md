@@ -24,5 +24,11 @@ No, su red local no puede conectarse con el mundo exterior y permanece aislada.
 - [Networking Stack](/es/dictionary/networking-stack/)
 - [Proxy](/es/dictionary/proxy/)
 
+## Herramientas relacionadas
+- [Fanqiang](/es/discover/fanqiang/)
+- [OmniRoute](/es/discover/omniroute/)
+- [OpenWA](/es/discover/openwa/)
+- [Grok2api](/es/discover/grok2api/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/gateway/

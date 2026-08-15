@@ -29,5 +29,8 @@ Puede haber una ineficiencia en el software o su sistema está bajo una gran car
 - [Runtime](/es/dictionary/runtime/)
 - [Personal AI Infrastructure](/es/dictionary/personal-ai-infrastructure/)
 
+## Herramientas relacionadas
+- [Agentsview](/es/discover/agentsview/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ccusage/

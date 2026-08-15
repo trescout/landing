@@ -25,6 +25,7 @@ Varía según la arquitectura del sistema, pero generalmente se optimiza conside
 ## Términos relacionados
 - [Vector Database](/es/dictionary/vector-database/)
 - [Context Window](/es/dictionary/context-window/)
+- [Memory API](/es/dictionary/memory-api/)
 - [RAG](/es/dictionary/rag/)
 
 ---

@@ -28,5 +28,8 @@ No, al contrario, acelera tu proceso de codificación evitando que cometas error
 - [Agentic Coding Tool](/es/dictionary/agentic-coding-tool/)
 - [CLI](/es/dictionary/cli/)
 
+## Herramientas relacionadas
+- [Oh My Pi](/es/discover/oh-my-pi/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/lsp/

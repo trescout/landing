@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-26",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI-berkshire ist ein Value-Investing-Research-Framework, das die Methoden von Investoren wie Warren Buffett und Charlie Munger unter Verwendung der Claude-Code-Infrastruktur umsetzt. Das System analysiert Finanzdaten mit seiner Multi-Agenten-Struktur und führt kontradiktorische Überprüfungen durch.",
+          "meta": "Python · ★ 2.500 · +309 heute"
+        },
+        {
+          "title": "mauriceboe/TREK",
+          "url": "https://github.com/mauriceboe/TREK",
+          "summary": "TREK ist eine selbst gehostete Reiseplanungsanwendung, die Funktionen wie Echtzeit-Zusammenarbeit, interaktive Karten und Budgetverwaltung bietet. Mit der Unterstützung progressiver Webanwendungen (PWA) und der Integration von Single Sign-on (SSO) können Benutzer ihre Reiseprozesse digital organisieren.",
+          "meta": "TypeScript · ★ 7.040 · +241 heute"
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open SEO bietet eine Open-Source-Alternative zu kostenpflichtigen Tools wie SEMrush und Ahrefs. Diese zur Analyse von Suchmaschinenoptimierungsdaten (SEO) entwickelte Software zielt darauf ab, mit ihrer TypeScript-basierten Infrastruktur Prozesse transparent zu machen.",
+          "meta": "TypeScript · ★ 2.736 · +57 heute"
+        },
+        {
+          "title": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "summary": "AWS hat ein Toolset veröffentlicht, das Model Context Protocol-Server, Fähigkeiten und Plug-Ins umfasst, um die Interaktion von KI-Agenten mit der Cloud-Infrastruktur zu erleichtern. Diese Entwicklung bietet eine standardisierte Struktur, die es Agenten ermöglicht, direkt auf AWS-Diensten zu arbeiten.",
+          "meta": "Python · ★ 1.209 · +47 heute"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "summary": "Der von Alibaba entwickelte Page-Agent ist ein In-Page-Agent für grafische Benutzeroberflächen, der die Steuerung von Webschnittstellen mit Befehlen in natürlicher Sprache ermöglicht. Dieses in TypeScript geschriebene Tool bietet einen browserbasierten Steuerungsmechanismus zur Automatisierung von Webinteraktionen.",
+          "meta": "TypeScript · ★ 20.032 · +163 heute"
+        },
+        {
+          "title": "IceWhaleTech/CasaOS",
+          "url": "https://github.com/IceWhaleTech/CasaOS",
+          "summary": "CasaOS bietet ein persönliches Open-Source-Cloud-System, das die Verwaltung von Docker-basierten Anwendungen vereinfacht. Diese mit der Go-Sprache entwickelte Schnittstelle ermöglicht es Benutzern, ihre Server einfach über ein visuelles Panel zu verwalten.",
+          "meta": "Go · ★ 34.992 · +223 heute"
+        },
+        {
+          "title": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "summary": "MinerU konvertiert komplexe Dokumentformate wie PDF und Office in das Markdown- oder JSON-Format, das für große Sprachmodelle geeignet ist. Ziel dieses Tools ist es, unstrukturierte Daten in agentenbasierten Workflows verfügbar zu machen.",
+          "meta": "Python · ★ 69.899 · +644 heute"
+        },
+        {
+          "title": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "summary": "MediaCrawler sammelt durch Web Scraping automatisch Beiträge und Benutzerkommentare auf beliebten chinesischen Social-Media-Plattformen. Dieses Python-basierte Tool bietet eine umfassende Daten-Crawling-Infrastruktur für Inhaltsanalyse- und Datenerfassungsprozesse.",
+          "meta": "Python · ★ 53.062 · +398 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "An entire Herculaneum scroll has been read for the first time",
+          "url": "https://scrollprize.org/firstscroll",
+          "summary": "Die durch den Ausbruch des Vesuvs verkohlten Herculaneum-Rollen wurden erstmals ohne physisches Öffnen mithilfe von Computertomographie und künstlicher Intelligenz unterstützten Bildverarbeitungstechniken gelesen. Diese Studie belegt den Erfolg virtueller Auspackmethoden, die für die digitale Analyse antiker Texte entwickelt wurden.",
+          "meta": "1.238 Punkte · 260 Kommentare"
+        },
+        {
+          "title": "Om Malik has died",
+          "url": "https://om.co/2026/06/24/1966-2026/",
+          "summary": "Om Malik, einer der Pioniere des Technologiejournalismus, ist im Alter von 59 Jahren verstorben. Malik, der Gründer der Gigaom-Plattform, war für seine Artikel bekannt, die den digitalen Transformationsprozess des Silicon Valley-Ökosystems dokumentierten.",
+          "meta": "822 Punkte · 91 Kommentare"
+        },
+        {
+          "title": "Apple raises prices of MacBooks, iPads",
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+          "summary": "Apple hat die Verkaufspreise der MacBook- und iPad-Modelle aufgrund steigender Speicherkosten aktualisiert. Preiserhöhungen bei Hardwarekomponenten wirkten sich direkt auf die Kostenstruktur des Produktsortiments des Unternehmens aus.",
+          "meta": "698 Punkte · 1.007 Kommentare"
+        },
+        {
+          "title": "The 'papers, please' era of the internet will decimate your privacy",
+          "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+          "summary": "Die Tatsache, dass Internetplattformen Altersverifizierungs- und Identitätsnachweisverfahren erfordern, setzt die Privatsphäre der Nutzer unter Druck. Die Verbreitung digitaler Identitätsanwendungen erweitert den Umfang der Erhebung personenbezogener Daten und schränkt die Bereiche der Anonymität ein.",
+          "meta": "643 Punkte · 301 Kommentare"
+        },
+        {
+          "title": "Oxide computer 3D rack guided tour",
+          "url": "https://explorer.oxide.computer/",
+          "summary": "Oxide Computer hat ein 3D-Rack-Tour-Tool veröffentlicht, das das Hardware-Design von Rechenzentren transparent macht. Benutzer können die interne Struktur und die Komponentenanordnungen von Serversystemen im Detail über den Browser untersuchen.",
+          "meta": "356 Punkte · 140 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "research framework",
+      "explanation": "Eine Reihe von Standardmethoden und -werkzeugen zur Durchführung eines Forschungsprozesses."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Mehr als eine Software für künstliche Intelligenz arbeitet gemeinsam für ein gemeinsames Ziel."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Hosten einer Software auf Ihrem eigenen Computer oder privaten Server und nicht auf dem Server eines anderen Unternehmens."
+    },
+    {
+      "term": "PWA",
+      "explanation": "Webseiten, die über einen Internetbrowser funktionieren, aber wie eine Anwendung auf Ihrem Telefon installiert werden können."
+    },
+    {
+      "term": "SSO",
+      "explanation": "Ein System, das es Ihnen ermöglicht, sich mit einem einzigen Benutzernamen und Passwort bei vielen verschiedenen Anwendungen gleichzeitig anzumelden."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Es werden Vorkehrungen getroffen, um sicherzustellen, dass Websites in Suchmaschinen einen höheren Rang einnehmen."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Eine Brücke, die es Modellen der künstlichen Intelligenz ermöglicht, auf sichere und standardisierte Weise mit verschiedenen Datenquellen zu kommunizieren."
+    },
+    {
+      "term": "skills",
+      "explanation": "Die technischen Fähigkeiten, die eine Software oder ein System benötigt, um einen bestimmten Vorgang auszuführen."
+    }
+  ]
+}

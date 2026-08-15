@@ -26,5 +26,8 @@ Sí, puedes visualizar tus propios datos con herramientas sencillas.
 - [Global Intelligence Dashboard](/es/dictionary/global-intelligence-dashboard/)
 - [Observability](/es/dictionary/observability/)
 
+## Herramientas relacionadas
+- [Worldmonitor](/es/discover/worldmonitor/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/dashboard/

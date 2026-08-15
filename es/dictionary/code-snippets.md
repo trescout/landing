@@ -21,5 +21,8 @@ Puede conllevar riesgos a menos que se compre de fuentes confiables. Es importan
 - [Coding Agents](/es/dictionary/coding-agent/)
 - [Clean Code](/es/dictionary/clean-code/)
 
+## Herramientas relacionadas
+- [Abseil Cpp](/es/discover/abseil-cpp/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/code-snippets/

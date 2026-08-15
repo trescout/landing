@@ -23,8 +23,12 @@ Generalmente no, porque la máquina virtual está en un entorno aislado del sist
 
 
 ## Términos relacionados
+- [Containers](/es/dictionary/containers/)
 - [Runtime](/es/dictionary/runtime/)
 - [Self-hosting](/es/dictionary/self-hosting/)
+
+## Herramientas relacionadas
+- [Container](/es/discover/container/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/virtual-machines/

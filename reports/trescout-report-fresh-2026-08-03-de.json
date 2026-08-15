@@ -1,0 +1,246 @@
+{
+  "date": "2026-08-03",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach ist eine Befehlszeilenschnittstelle (CLI), die Agenten künstlicher Intelligenz die Möglichkeit gibt, Inhalte auf beliebten Plattformen im Internet zu suchen und zu lesen. Es bietet Benutzern die Möglichkeit, Daten von Plattformen wie Twitter, Reddit und GitHub zu extrahieren, ohne Gebühren für die Anwendungsprogrammierschnittstelle (API) zu zahlen.",
+          "meta": "Python · ★ 65.059 · +659 heute",
+          "returning": true
+        },
+        {
+          "title": "HarbourMasters/Lighthouse",
+          "url": "https://github.com/HarbourMasters/Lighthouse",
+          "summary": "Lighthouse ist ein in C-Sprache entwickeltes Code-Coverage-Tool, das für Low-Level-Systeme konzipiert ist. Es stellt Entwicklern Daten zum Debuggen und zur Leistungsoptimierung zur Verfügung, indem es analysiert, welche Codeblöcke während der Testprozesse der Software ausgeführt werden.",
+          "meta": "C · ★ 259 · +65 heute"
+        },
+        {
+          "title": "antirez/ds4",
+          "url": "https://github.com/antirez/ds4",
+          "summary": "DS4 wurde von Salvatore Sanfilippo, dem Erfinder von Redis, entwickelt und ist eine Inferenz-Engine, die die Ausführung von DeepSeek-Modellen auf lokaler Hardware ermöglicht. Dieses in C-Sprache geschriebene Tool bietet dank Metal-, CUDA- und ROCm-Unterstützung die Möglichkeit, Hochleistungsmodelle auf verschiedenen Grafikprozessoren auszuführen.",
+          "meta": "C · ★ 20.117 · +139 heute"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix ist ein KI-Coding-Agent, der auf dem Terminal läuft und auf DeepSeek-Modellen basiert. Dieses Tool konzentriert sich auf die Stabilität des Präfix-Cache und stellt sicher, dass Entwickler über lange Sitzungen hinweg unterbrechungsfreie Codierungsunterstützung erhalten.",
+          "meta": "Go · ★ 29.369 · +333 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Karpathy’s Pelican",
+          "url": "https://twitter.com/karpathy/status/2083749667410727319",
+          "summary": "Pelican wurde von Andrej Karpathy entwickelt und bietet als statischer Site-Generator eine einfache und schnelle Inhaltsverwaltung. Dieses Python-basierte Tool konzentriert sich auf die direkte Konvertierung von Textdateien in Webseiten und nicht auf komplexe Konfigurationen.",
+          "meta": "538 Punkte · 376 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49140998",
+              "popularity": 538,
+              "engagementCount": 376
+            }
+          ]
+        },
+        {
+          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "summary": "Qwen3.8-Max, das von Alibaba entwickelte große Sprachmodell, bringt Codierungs- und Kollaborationsfunktionen in Softwareentwicklungsprozessen auf ein fortgeschrittenes Niveau. Das Modell setzt einen neuen Standard für Entwicklertools (IDEs), indem es eine hohe Genauigkeit und effiziente Arbeitsleistung bei komplexen Programmieraufgaben bietet.",
+          "meta": "415 Punkte · 172 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49150470",
+              "popularity": 415,
+              "engagementCount": 172
+            }
+          ]
+        },
+        {
+          "title": "How the words we teach English language learners changed",
+          "url": "https://pudding.cool/2026/07/essential-words/",
+          "summary": "Die von The Pudding erstellte Visualisierung untersucht die Veränderung des Vokabulars, das in Lehrbüchern für Englischlerner im Laufe der Zeit verwendet wird. Die Studie zeigt mit einem datengesteuerten Ansatz, wie sich die kulturellen und sprachlichen Schwerpunkte von Lehrmaterialien im Laufe der Jahrzehnte unterschieden haben.",
+          "meta": "208 Punkte · 156 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49145590",
+              "popularity": 208,
+              "engagementCount": 156
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+          "url": "https://github.com/wie-project/kakehashi",
+          "summary": "Kakehashi ist ein experimentelles Userspace-Tool, das die Ausführung von macOS-Binärdateien auf der Linux-ARM-Architektur ermöglicht. Ziel ist es, die notwendige Übersetzungsschicht zu schaffen, um Apple-Betriebssystemanwendungen auf einem anderen Kern auszuführen.",
+          "meta": "208 Punkte · 50 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49145937",
+              "popularity": 208,
+              "engagementCount": 50
+            }
+          ]
+        },
+        {
+          "title": "Developers are attached to tools because tools encode trust",
+          "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+          "summary": "Das Engagement der Entwickler gegenüber den von ihnen verwendeten Tools beruht auf der Tatsache, dass diese Tools Zuverlässigkeit und Vorhersehbarkeit in ihren Arbeitsabläufen bieten. Entwickler sehen in den Standards und der Zuverlässigkeit einer technischen Lösung (Tool) einen wichtigen Bezugspunkt für die Aufrechterhaltung ihrer persönlichen Produktivität.",
+          "meta": "193 Punkte · 104 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49097961",
+              "popularity": 193,
+              "engagementCount": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, entwickelt von MiniMax, ist ein multimodales KI-Modell, das Videos mithilfe visueller und Texteingaben erstellt. Es ermöglicht Benutzern, aus statischen Inhalten oder schriftlichen Befehlen hochwertige Bewegtbilder zu erstellen.",
+          "meta": "♥ 630 · 0 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift",
+          "url": "https://huggingface.co/papers/2607.28996",
+          "summary": "SULAND v2 ist ein umfassender RGB-Bilddatensatz und ein Benchmarking-Tool, das für die Erkennung von Oberflächenminen durch unbemannte Luft- und Bodenfahrzeuge (UAV/UGV) entwickelt wurde. Durch die Messung der Leistung von Objekterkennungsmodellen unter verschiedenen Betriebsbedingungen soll die allgemeine Gültigkeit der Modelle in diesem sicherheitsorientierten Bereich getestet werden.",
+          "meta": "0 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
+          "url": "https://huggingface.co/papers/2607.27951",
+          "summary": "Schutzmaßnahmen in großen Sprachmodellen schaffen Schwachstellen bei Dual-Use-Aufgaben, da über die Antwort entschieden wird, ohne zu wissen, wie sie verwendet wird. Die Forscher beweisen, dass klonbarer Kontext keine verlässliche Grundlage für Sicherheit bieten kann, wenn Angreifer sich als Benutzer mit guten Absichten ausgeben können.",
+          "meta": "0 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Enhancing Rubric-based RL via Self-Distillation",
+          "url": "https://huggingface.co/papers/2607.18082",
+          "summary": "Kriteriumbasiertes Verstärkungslernen ist eine Methode zur Verbesserung von Sprachmodellen in einem breiten Aufgabenspektrum. Um die durch externe Anleitung verursachte Trainings- und Inferenzinkongruenz zu beseitigen, verwenden Forscher die Selbstdestillationstechnik, um unentdeckte Metriken in den Optimierungsprozess einzubeziehen.",
+          "meta": "13 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
+          "url": "https://huggingface.co/papers/2607.29025",
+          "summary": "Das Bewertungs- und Verifizierungsbelohnungssystem, das entwickelt wurde, um visuelle Konsistenz und Harmonie in visuellen Bearbeitungsmodellen mit mehreren Referenzen sicherzustellen, bringt Methoden des verstärkenden Lernens in diesen Bereich. Dieser Ansatz zielt darauf ab, die visuelle Integrität bei Bearbeitungsprozessen zu wahren, indem relationale Einschränkungen zwischen mehreren Bildern modelliert werden.",
+          "meta": "11 Likes · 0 Kommentare"
+        },
+        {
+          "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+          "url": "https://huggingface.co/papers/2607.29677",
+          "summary": "ExtractBench ist ein neuer Benchmark, der die schemabasierte Datenextraktion aus Unternehmensdokumenten bewertet. Das System misst die Genauigkeit, Vollständigkeit, Herkunft und Kostenleistung von KI-Modellen in 370 verschiedenen Unternehmensdokumenten.",
+          "meta": "13 Likes · 0 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Your JSON Is Lying to You",
+          "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+          "summary": "Das JSON-Format kann aufgrund seiner begrenzten Fähigkeit zur Darstellung von Datentypen und seiner numerischen Genauigkeit zu unerwartetem Datenverlust in Anwendungen führen. Diese Inkonsistenzen führen insbesondere bei der Verarbeitung großer Ganzzahlen oder präziser Dezimalwerte zu Problemen mit der Datenintegrität.",
+          "meta": "9 Punkte · 3 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/tjgemj/your_json_is_lying_you",
+              "popularity": 9,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "I'm (mostly) picking models on speed now, not intelligence",
+          "url": "https://martinalderson.com/posts/speed-vs-intelligence/",
+          "summary": "Bei der Auswahl von Modellen für künstliche Intelligenz konzentrieren sich Softwareentwickler heute eher auf Geschwindigkeit (Latenz) als auf Intelligenzkapazität. Kurze Reaktionszeiten haben Vorrang vor der Komplexität der Modelle, da sie die Effizienz in den täglichen Arbeitsabläufen steigern.",
+          "meta": "27 Punkte · 15 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aso7dh/i_m_mostly_picking_models_on_speed_now_not",
+              "popularity": 27,
+              "engagementCount": 15
+            }
+          ]
+        },
+        {
+          "title": "Faster floating point math with Rust’s new API",
+          "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+          "summary": "Die neue Anwendungsprogrammierschnittstelle (API), die der Programmiersprache Rust hinzugefügt wurde, erhöht die Verarbeitungsgeschwindigkeit der Gleitkomma-Mathematik. Dieses Update sorgt für Leistungsoptimierung, insbesondere bei Software, die intensive mathematische Operationen erfordert.",
+          "meta": "18 Punkte · 7 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new",
+              "popularity": 18,
+              "engagementCount": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Textbasierte Schnittstelle, die es Ihnen ermöglicht, Programme durch die Eingabe geschriebener Befehle statt mit der Maus zu verwalten."
+    },
+    {
+      "term": "API",
+      "explanation": "Eine Brücke, die es zwei verschiedenen Softwareprogrammen ermöglicht, miteinander zu kommunizieren und Daten auszutauschen."
+    },
+    {
+      "term": "code coverage",
+      "explanation": "Ein Messwert, der angibt, wie viel von einem geschriebenen Programm durch Tests kontrolliert wird."
+    },
+    {
+      "term": "inference engine",
+      "explanation": "Eine Software, die mithilfe eines trainierten Modells der künstlichen Intelligenz Vorhersagen oder Schlussfolgerungen zu neuen Daten erstellt."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "Eine Beschleunigungsmethode, die verhindert, dass künstliche Intelligenz dieselben Vorgänge wiederholt, indem sie die zuvor verarbeiteten Textanfänge im Speicher behält."
+    },
+    {
+      "term": "static site generator",
+      "explanation": "Ein Softwaretool, das vorgefertigte Inhalte in schnell ladende feste Webseiten umwandelt."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Eine fortschrittliche Arbeitsumgebung, die alle Tools, die Softwareentwickler zum Schreiben von Code benötigen, an einem Ort vereint."
+    },
+    {
+      "term": "binary",
+      "explanation": "Ein Maschinensprachenformat, das nur aus Nullen und Einsen besteht und vom Computer direkt verstanden und ausgeführt werden kann."
+    },
+    {
+      "term": "userspace",
+      "explanation": "Ein sicherer Bereich, in dem Benutzeranwendungen ausgeführt werden, ohne den Betriebssystemkern des Computers zu berühren."
+    }
+  ]
+}

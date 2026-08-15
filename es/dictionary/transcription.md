@@ -24,5 +24,9 @@ Los modelos de IA modernos admiten docenas de idiomas, pero la tasa de éxito pu
 - [Voice to Text](/es/dictionary/voice-to-text/)
 - [NLP](/es/dictionary/nlp/)
 
+## Herramientas relacionadas
+- [Meetily](/es/discover/meetily/)
+- [Claude Video](/es/discover/claude-video/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/transcription/

@@ -23,6 +23,8 @@ Por lo general, requiere una tarjeta gráfica potente o hardware de servidor de 
 
 
 ## Términos relacionados
+- [Open Source](/es/dictionary/open-source/)
+- [Self-hosting](/es/dictionary/self-hosting/)
 - [Fine-tuning](/es/dictionary/fine-tuning/)
 
 ---

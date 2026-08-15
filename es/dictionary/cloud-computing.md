@@ -28,5 +28,8 @@ Cuando se configura correctamente, generalmente es más seguro que las computado
 - [IaaS](/es/dictionary/iaas/)
 - [Personal Cloud](/es/dictionary/personal-cloud/)
 
+## Herramientas relacionadas
+- [DevOps-Interview-Guide](/es/discover/devops-interview-guide/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cloud-computing/

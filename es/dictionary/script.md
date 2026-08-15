@@ -23,5 +23,10 @@ Sí, es bastante fácil escribir scripts simples una vez que aprendes la lógica
 - [CLI](/es/dictionary/cli/)
 - [Tools](/es/dictionary/tools/)
 
+## Herramientas relacionadas
+- [NVM](/es/discover/nvm/)
+- [Meshery](/es/discover/meshery/)
+- [Tradingview MCP](/es/discover/tradingview-mcp/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/script/

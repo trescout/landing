@@ -24,6 +24,18 @@ Sí, pero la inclusión de cambios en el proyecto principal suele depender de la
 
 ## Términos relacionados
 - [Open Weights](/es/dictionary/open-weights/)
+- [Self-hosting](/es/dictionary/self-hosting/)
+- [Artificial Intelligence](/es/dictionary/artificial-intelligence/)
+
+## Herramientas relacionadas
+- [Superpowers](/es/discover/superpowers/)
+- [ECC](/es/discover/ecc/)
+- [MarkItDown](/es/discover/markitdown/)
+- [Claude Code](/es/discover/claude-code/)
+- [MoneyPrinterTurbo](/es/discover/moneyprinterturbo/)
+- [claude-mem](/es/discover/claude-mem/)
+- [Opencv](/es/discover/opencv/)
+- [RuView](/es/discover/ruview/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/open-source/

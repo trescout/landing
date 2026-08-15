@@ -25,7 +25,13 @@ Puede hacerlo escribiendo una función y definiéndola para el agente a través 
 ## Términos relacionados
 - [MCP](/es/dictionary/mcp/)
 - [AI Agent](/es/dictionary/ai-agent/)
+- [Plugins](/es/dictionary/plugin/)
 - [SDK](/es/dictionary/sdk/)
+
+## Herramientas relacionadas
+- [ECC](/es/discover/ecc/)
+- [System Prompts and Models of AI Tools](/es/discover/system-prompts-and-models-of-ai-tools/)
+- [Claude Plugins Official](/es/discover/claude-plugins-official/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/tools/

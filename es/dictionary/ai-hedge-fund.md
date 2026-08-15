@@ -24,5 +24,8 @@ Todavía se necesitan expertos para supervisar los algoritmos y determinar la es
 - [Trading Agent](/es/dictionary/trading-agent/)
 - [Value Investing](/es/dictionary/value-investing/)
 
+## Herramientas relacionadas
+- [AI Hedge Fund](/es/discover/ai-hedge-fund/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-hedge-fund/

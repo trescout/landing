@@ -24,5 +24,8 @@ Cuando se hace correctamente, sólo se descartan las piezas innecesarias, a las 
 - [Context Window](/es/dictionary/context-window/)
 - [Token Compression](/es/dictionary/token-compression/)
 
+## Herramientas relacionadas
+- [Code Review Graph](/es/discover/code-review-graph/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/context-reduction/

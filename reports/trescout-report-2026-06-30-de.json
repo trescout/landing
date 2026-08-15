@@ -1,0 +1,237 @@
+{
+  "date": "2026-06-30",
+  "editorial": "Die heutige Technologieagenda konzentriert sich auf das Gleichgewicht zwischen dezentralen Kommunikationsprotokollen und autonomen Fahrsystemen. GitHub-Daten zeigen ein zunehmendes Interesse an datenschutzorientierten Messaging-Tools und durch künstliche Intelligenz unterstützten autonomen Software-Frameworks.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "summary": "SimpleX konzentriert sich auf den Datenschutz und ist das erste Messaging-Netzwerk, das ohne die Verwendung von Benutzerkennungen arbeitet. Diese in der Haskell-Sprache entwickelte Plattform zielt darauf ab, mit ihrer dezentralen Struktur vollständige Privatsphäre bei der Kommunikation zu gewährleisten.",
+          "meta": "Haskell · ★ 17.049 · +1.607 heute"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Das Agency-Agents-Projekt vereint Künstliche-Intelligenz-Agenten (KI-Agenten) mit unterschiedlichen Fachgebieten auf einer einzigen Plattform. Diese auf Aufgaben wie Softwareentwicklung, Community-Management und Content-Produktion spezialisierten Agenten automatisieren Arbeitsabläufe mit definierten Prozessen und Persönlichkeitsstrukturen.",
+          "meta": "Shell · ★ 119.599 · +1.425 heute"
+        },
+        {
+          "title": "cupy/cupy",
+          "url": "https://github.com/cupy/cupy",
+          "summary": "CuPy ist eine Python-Bibliothek, die die NumPy- und SciPy-Schnittstellen mit GPU-beschleunigtem Computing kombiniert. Es bietet leistungsstarke Array-Operationen in wissenschaftlichen Rechenprozessen mithilfe von CUDA-Kernen.",
+          "meta": "Python · ★ 11.930 · +352 heute"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice ist eine Offline-Diktieranwendung, die auf macOS läuft und keine Internetverbindung erfordert. Die mit der Swift-Sprache entwickelte Software verarbeitet Sprachdaten vollständig in der lokalen Umgebung und bietet eine schnelle Konvertierung von Sprache in Text.",
+          "meta": "Swift · ★ 4.608 · +830 heute"
+        },
+        {
+          "title": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "summary": "Maigret scannt mehr als 3000 Websites anhand von Benutzernamen und erstellt durch die Kombination persönlicher digitaler Fußabdrücke ein umfassendes Dossier. Dieses mit der Python-Sprache entwickelte Tool wird verwendet, um Benutzerdaten an zentraler Stelle in Open-Source-Intelligence-Prozessen (OSINT) zu sammeln.",
+          "meta": "Python · ★ 34.606 · +224 heute"
+        },
+        {
+          "title": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "summary": "Openpilot ist ein Open-Source-Robotik-Betriebssystem (Betriebssystem für die Robotik), das Fahrerassistenzsysteme in mehr als dreihundert Fahrzeugmodellen entwickelt. Diese mit der Python-Sprache entwickelte Plattform zielt darauf ab, bestehende Autos mit erweiterten autonomen Fahrfunktionen auszustatten.",
+          "meta": "Python · ★ 62.859 · +458 heute"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev vereint Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS) und Infrastructure-as-a-Service (IaaS)-Lösungen mit kostenlosen Stufen für Softwareentwickler und Infrastrukturexperten. Die Liste kategorisiert Tools, die Kostenvorteile in Entwicklungsprozessen bieten, und macht sie zugänglich.",
+          "meta": "HTML · ★ 126.998 · +1.935 heute"
+        },
+        {
+          "title": "logto-io/logto",
+          "url": "https://github.com/logto-io/logto",
+          "summary": "Logto bietet eine Authentifizierungs- und Autorisierungsinfrastruktur basierend auf den Protokollen Open Authentication (OIDC) und OAuth 2.1 für SaaS- und künstliche Intelligenzanwendungen. Es vereint Funktionen wie Mandantenfähigkeit, Single Sign-On (SSO) und rollenbasierte Zugriffskontrolle (RBAC) in einer mit TypeScript entwickelten Struktur.",
+          "meta": "TypeScript · ★ 12.903 · +158 heute"
+        },
+        {
+          "title": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "summary": "AI-berkshire ist ein Forschungsrahmen, der Value-Investing-Analysen mithilfe von Claude Code- und Codex-Modellen durchführt. Es untersucht Finanzdaten, indem es die Anlagemethoden von Namen wie Warren Buffett und Charlie Munger mit einem Multi-Agenten-System kombiniert.",
+          "meta": "Python · ★ 7.056 · +1.386 heute"
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "Die Videonutzungsbibliothek ermöglicht Programmierern die Automatisierung von Videobearbeitungsprozessen mithilfe visueller Bearbeitungswerkzeuge. Dieses Python-basierte Tool bietet die Möglichkeit, komplexe Videobearbeitungsbefehle in Software-Workflows zu integrieren.",
+          "meta": "Python · ★ 12.206 · +967 heute"
+        },
+        {
+          "title": "Unclecheng-li/VulnClaw",
+          "url": "https://github.com/Unclecheng-li/VulnClaw",
+          "summary": "VulnClaw automatisiert Penetrationstestprozesse mithilfe von KI-Agenten und der Model Context Protocol-Toolchain. Das Tool verarbeitet Befehle in natürlicher Sprache und führt eine umfassende Informationserfassung, Schwachstellenprüfung, Ausnutzung und Berichtsschritte durch.",
+          "meta": "Python · ★ 1.313 · +129 heute"
+        },
+        {
+          "title": "0xNyk/council-of-high-intelligence",
+          "url": "https://github.com/0xNyk/council-of-high-intelligence",
+          "summary": "Der Council of High Intelligence führt strukturierte Entscheidungsprozesse durch verschiedene Expertenpersönlichkeiten unter Verwendung verschiedener großer Sprachmodelle durch. Das System kombiniert die Perspektiven verschiedener Modelle der künstlichen Intelligenz, indem es komplexe Probleme in mehrrundigen Diskussionen analysiert.",
+          "meta": "Shell · ★ 2.176 · +331 heute"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading ist ein persönliches Handelsagentenprojekt, das für den Handel auf Finanzmärkten entwickelt wurde. Diese Python-basierte Struktur zielt darauf ab, automatische Handelsstrategien durch die Analyse von Marktdaten auszuführen.",
+          "meta": "Python · ★ 15.389 · +839 heute"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria ist eine Desktop-Anwendung, die für die Verwaltung von Markdown-basierten Wissensdatenbanken entwickelt wurde. Dieses in TypeScript geschriebene Tool bietet eine zentrale Verwaltungsoberfläche zur Organisation persönlicher Dokumentationsprozesse.",
+          "meta": "TypeScript · ★ 17.719 · +280 heute"
+        },
+        {
+          "title": "veracrypt/VeraCrypt",
+          "url": "https://github.com/veracrypt/VeraCrypt",
+          "summary": "VeraCrypt ist ein Festplattenverschlüsselungstool, das auf TrueCrypt basiert und hohe Sicherheitsstandards bietet. Diese in C geschriebene Open-Source-Software verwendet verschiedene Verschlüsselungsalgorithmen und Authentifizierungsmethoden, um Daten zu sichern.",
+          "meta": "C · ★ 10.574 · +186 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Qwen 3.6 27B is the sweet spot for local development",
+          "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+          "summary": "Es wird angegeben, dass das Modell Qwen 2.5 32B ein ideales Gleichgewicht hinsichtlich Leistung und Ressourcenverbrauch in lokalen Entwicklungsprozessen bietet. Dieses Modell wird für lokale Anwendungen der künstlichen Intelligenz bevorzugt, da es eine effiziente Beziehung zwischen Hardwareanforderungen und Verarbeitungskapazität herstellt.",
+          "meta": "886 Punkte · 600 Kommentare"
+        },
+        {
+          "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+          "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+          "summary": "Die dreißigjährige Haftstrafe von Daniel Sanchez Estrada wegen der Verbreitung eines Zines löst juristische Debatten über die Meinungsfreiheit aus. Diese Entscheidung birgt die Gefahr, einen Präzedenzfall für die gemeinsame Nutzung digitaler und gedruckter Inhalte zu schaffen, da Rundfunkverbreitungsaktivitäten strafrechtlich verfolgt werden.",
+          "meta": "539 Punkte · 331 Kommentare"
+        },
+        {
+          "title": "US Supreme Court rules geofence warrants require constitutional protections",
+          "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+          "summary": "Der Oberste Gerichtshof der USA entschied, dass Geofencing-basierte Durchsuchungsbefehle verfassungsrechtlichen Schutz erfordern. Diese Entscheidung schränkt die Strafverfolgung darin ein, alle Benutzerdaten in einem bestimmten Bereich im Rahmen digitaler Datenschutzrechte zu sammeln.",
+          "meta": "516 Punkte · 243 Kommentare"
+        },
+        {
+          "title": ".self: A new top-level domain designed to support self-hosting",
+          "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+          "summary": "Die Top-Level-Domain .self wurde entwickelt, um die Self-Hosting-Prozesse der Benutzer auf ihren eigenen Servern zu unterstützen. Ziel dieser Domainendung ist es, digitale Vermögenswerte in einer dezentralen Struktur unter persönlicher Kontrolle zu halten.",
+          "meta": "486 Punkte · 276 Kommentare"
+        },
+        {
+          "title": "Free the Icons",
+          "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+          "summary": "Apple führt neue Sicherheitsprotokolle ein, die die Anpassung von App-Symbolen im macOS-Betriebssystem einschränken. Softwareentwickler argumentieren, dass diese Einschränkungen das Benutzererlebnis und die Personalisierungsmöglichkeiten einschränken.",
+          "meta": "420 Punkte · 114 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR wurde von Baidu entwickelt und ist ein Bild-zu-Text-Modell, das visuelle Texte verarbeitet und eine Textausgabe erzeugt. Dieses Modell wurde entwickelt, um Text in komplexen Dokumenten mit hoher Genauigkeit zu analysieren.",
+          "meta": "♥ 1.411 · 362.945 Downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B, entwickelt von Empero-ai, ist ein multimodales Modell der künstlichen Intelligenz, das Textausgaben durch die Verarbeitung visueller und Texteingaben erzeugt. Das Modell bietet die Möglichkeit, komplexe Datensätze mit Unterstützung für breite Kontextfenster zu analysieren.",
+          "meta": "♥ 990 · 907.682 Downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, entwickelt von Zai-org, ist ein Sprachmodell für Textgenerierungsaufgaben. Dieses Modell, das auf der HuggingFace-Plattform eine breite Benutzerbasis erreicht hat, bietet Textgenerierungsfunktionen in Verarbeitungsprozessen natürlicher Sprache.",
+          "meta": "♥ 2.971 · 133.350 Downloads"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "Ornith-1.0-35B-GGUF, veröffentlicht von DeepReinforce, ist ein Sprachmodell, das für Textgenerierungsaufgaben optimiert ist. Die Darstellung des Modells erfolgt durch Komprimierung mit dem General Graphics Processing Unit Format (GGUF), um Hardwareressourcen effizient zu nutzen.",
+          "meta": "♥ 492 · 123.598 Downloads"
+        },
+        {
+          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+          "summary": "Qwen-AgentWorld-35B-A3B, entwickelt von Qwen, ist ein Modell der künstlichen Intelligenz, das sich auf die Textgenerierung konzentriert. Dieses Modell bietet eine angepasste Architektur zur Ausführung agentenbasierter Aufgaben.",
+          "meta": "♥ 444 · 26.223 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "user identifiers",
+      "explanation": "Eindeutige Benutzernummern oder Namen, die dazu dienen, eine Person in der digitalen Welt von anderen zu unterscheiden."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonome Software für künstliche Intelligenz, die selbstständig Entscheidungen treffen und bestimmte Aufgaben ausführen kann."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Spezieller Prozessor zur Verarbeitung von Bildern auf einem Computer und zur Beschleunigung komplexer mathematischer Berechnungen."
+    },
+    {
+      "term": "array operations",
+      "explanation": "Mathematische Operationen, die gleichzeitig an nebeneinander im Computerspeicher aufgereihten Datengruppen ausgeführt werden."
+    },
+    {
+      "term": "offline dictation",
+      "explanation": "Technologie, die gesprochene Wörter ohne Internetverbindung sofort in geschriebenen Text umwandelt."
+    },
+    {
+      "term": "local",
+      "explanation": "Führen Sie Daten oder Programme direkt auf Ihrem eigenen Gerät aus, ohne dass das Internet erforderlich ist."
+    },
+    {
+      "term": "voice to text",
+      "explanation": "Ein System, das Sprachgespräche erkennt und in geschriebenen Text umwandelt."
+    },
+    {
+      "term": "dossier",
+      "explanation": "Ein digitales Aktenarchiv, das alle gesammelten Informationen zu einem bestimmten Thema oder einer bestimmten Person enthält."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Eine Methode zum Sammeln und Analysieren von Informationen aus öffentlich zugänglichen Quellen im Internet."
+    },
+    {
+      "term": "operating system for robotics",
+      "explanation": "Benutzerdefinierte Software-Infrastruktur zur Verwaltung der Bewegungen, Sensoren und Teile von Robotern."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Ein Modell, bei dem die Software über das Internet gemietet wird, anstatt sie auf Ihrem Computer zu installieren."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Bereitstellung der vorgefertigten Infrastruktur, die Softwareentwickler zum Entwickeln und Veröffentlichen von Anwendungen über das Internet benötigen."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Nutzung grundlegender Hardwareressourcen wie Server und Speicher durch Miete über das Internet."
+    },
+    {
+      "term": "OIDC",
+      "explanation": "Standardprotokoll, das Ihre Identität beim Anmelden auf verschiedenen Websites sicher überprüft."
+    },
+    {
+      "term": "multi-tenancy",
+      "explanation": "Eine einzige Software, die viele verschiedene Benutzer oder Unternehmen unabhängig voneinander gleichzeitig bedient."
+    },
+    {
+      "term": "SSO",
+      "explanation": "Einfache Anmeldung bei mehreren verschiedenen Anwendungen mit einem einzigen Benutzernamen und Passwort."
+    }
+  ]
+}

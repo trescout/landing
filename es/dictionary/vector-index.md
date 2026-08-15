@@ -27,5 +27,8 @@ Los vectores son coordenadas matemáticas de datos comprendidos por la computado
 - [Embedding](/es/dictionary/embedding/)
 - [RAG](/es/dictionary/rag/)
 
+## Herramientas relacionadas
+- [Turbovec](/es/discover/turbovec/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/vector-index/

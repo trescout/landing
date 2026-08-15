@@ -1,0 +1,103 @@
+{
+  "date": "2026-06-17",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "summary": "Universal Android Debloater Next Generation ist eine in Rust entwickelte plattformübergreifende grafische Oberfläche zum Entfernen unnötiger Anwendungen auf Android-Geräten, die keinen Root-Zugriff erfordern. Das Tool zielt darauf ab, den Datenschutz, die Sicherheit und die Akkulaufzeit des Geräts mithilfe der Android Debug Bridge (ADB) zu verbessern.",
+          "meta": "Rust · ★ 7.487 · +146 heute"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Zvec wurde von Alibaba entwickelt und ist eine leichte und schnelle In-Process-Vektordatenbanklösung, die in C++ geschrieben ist. Ziel ist es, die Systemleistung zu steigern, indem Anwendungen die Verarbeitung von Vektordaten direkt im Speicher ermöglicht werden.",
+          "meta": "C++ · ★ 10.691 · +156 heute"
+        },
+        {
+          "title": "rmyndharis/OpenWA",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "summary": "OpenWA bietet eine kostenlose und Open-Source-API-Gateway-Lösung für das WhatsApp-Messaging-Protokoll. Dieses mit der TypeScript-Sprache entwickelte Tool ermöglicht es Benutzern, WhatsApp-Integrationen auf ihren eigenen Servern (selbst gehostet) zu verwalten.",
+          "meta": "TypeScript · ★ 9.223 · +185 heute"
+        },
+        {
+          "title": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "summary": "Iroh ist ein modularer Netzwerk-Stack, der Netzwerkverbindungen flexibler macht, indem er schlüsselbasierte Adressierung anstelle von IP-Adressen verwendet. Dieses mit der Rust-Sprache entwickelte Tool bietet eine Infrastruktur, die gegen Netzwerkunterbrechungen resistent ist und eine direkte Datenübertragung ermöglicht.",
+          "meta": "Rust · ★ 9.418 · +334 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Running local models is good now",
+          "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+          "summary": "Die Ausführung nativer Modelle großer Sprachen auf Personalcomputern ist mit zunehmender Hardware-Effizienz und einfacherer Software-Tools immer einfacher geworden. Benutzer können Modelle der künstlichen Intelligenz (lokale Modelle) auf ihren eigenen Systemen ausführen und so den Datenschutz wahren, ohne auf Cloud-basierte Dienste angewiesen zu sein.",
+          "meta": "1.293 Punkte · 499 Kommentare"
+        },
+        {
+          "title": "SpaceX to buy Cursor for $60B",
+          "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+          "summary": "SpaceX kauft Anysphere, den Entwickler des KI-Code-Editors Cursor, für 60 Milliarden US-Dollar. Mit diesem Schritt möchte das Unternehmen Technologien der generativen künstlichen Intelligenz (generative KI) integrieren, die Softwareentwicklungsprozesse in den eigenen Betrieb automatisieren.",
+          "meta": "1.013 Punkte · 1.511 Kommentare"
+        },
+        {
+          "title": "GrapheneOS has been ported to Android 17",
+          "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+          "summary": "GrapheneOS wurde auf Android 17 portiert und die Veröffentlichung offizieller Versionen ist in Kürze geplant. Das datenschutzorientierte Betriebssystem bereitet sich darauf vor, mit der aktuellen Android-Version neue Sicherheitsfunktionen zu unterstützen.",
+          "meta": "736 Punkte · 337 Kommentare"
+        },
+        {
+          "title": "Mechanical Watch (2022)",
+          "url": "https://ciechanow.ski/mechanical-watch/",
+          "summary": "Der von Bartosz Ciechanowski erstellte interaktive Artikel visualisiert die Funktionsprinzipien mechanischer Uhren anhand von Zahnrädern, Triebfedern und Hemmungsmechanismen. Die Studie erklärt Schritt für Schritt die physikalische Funktionsweise komplexer Zeitmesssysteme und untermauert technische Details mit digitalen Simulationen.",
+          "meta": "692 Punkte · 116 Kommentare"
+        },
+        {
+          "title": "Calvin and Hobbes and the price of integrity",
+          "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+          "summary": "Bill Watterson beschloss, seine kreative Integrität zu schützen, indem er die Merchandise-Rechte am Calvin-und-Hobbes-Comic verweigerte. Dieser Ansatz stellt die Kontrolle der Künstler über ihre Werke und das Gleichgewicht zwischen kommerziellem Erfolg und künstlerischer Unabhängigkeit in Frage.",
+          "meta": "410 Punkte · 177 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, veröffentlicht von Zai-org, ist ein Sprachmodell, das für Textgenerierungsaufgaben optimiert ist. Dieses auf der HuggingFace-Plattform verfügbare Modell ist für den Einsatz in umfangreichen Texterstellungsprozessen konzipiert.",
+          "meta": "♥ 725 · 0 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "API",
+      "explanation": "Eine Brücke, die es zwei verschiedenen Softwareprogrammen ermöglicht, miteinander zu kommunizieren und Daten auszutauschen."
+    },
+    {
+      "term": "root",
+      "explanation": "Das Administratorkonto der höchsten Ebene, das volle Autorität über das Betriebssystem eines Geräts hat."
+    },
+    {
+      "term": "ADB",
+      "explanation": "Ein Verbindungstool, das die Softwareverwaltung ermöglicht, indem es über den Computer Befehle an Android-Geräte sendet."
+    },
+    {
+      "term": "in-process vector database",
+      "explanation": "Ein System, das komplexe Daten, die von künstlicher Intelligenz benötigt werden, schnell direkt in der Anwendung selbst speichert, ohne dass ein separater Server erforderlich ist."
+    },
+    {
+      "term": "API gateway",
+      "explanation": "Das zentrale Gateway, das alle externen Anfragen bearbeitet und an die entsprechenden Softwareeinheiten weiterleitet."
+    }
+  ]
+}

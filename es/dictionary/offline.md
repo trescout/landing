@@ -28,5 +28,8 @@ Se actualiza manualmente o a través del sistema cuando te conectas a Internet.
 - [Self-hosting](/es/dictionary/self-hosting/)
 - [Quantization](/es/dictionary/quantization/)
 
+## Herramientas relacionadas
+- [Project N.O.M.A.D](/es/discover/project-nomad/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/offline/

@@ -29,5 +29,8 @@ Lo aumenta al nivel requerido y el exceso permanece inactivo.
 - [Runtime](/es/dictionary/runtime/)
 - [CPU](/es/dictionary/cpu/)
 
+## Herramientas relacionadas
+- [Llmfit](/es/discover/llmfit/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ram/

@@ -27,5 +27,8 @@ Generalmente basado en LLM con capacidad de razonamiento avanzada.
 - [Agentic AI](/es/dictionary/agentic-ai/)
 - [Self-orchestration](/es/dictionary/self-orchestration/)
 
+## Herramientas relacionadas
+- [Hermes Agent](/es/discover/hermes-agent/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/autonomous-agent/

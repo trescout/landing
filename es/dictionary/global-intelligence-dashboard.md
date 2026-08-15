@@ -27,5 +27,8 @@ Se pueden utilizar sensores, fuentes de noticias, datos de redes sociales o base
 - [Knowledge Graph](/es/dictionary/knowledge-graph/)
 - [Observability](/es/dictionary/observability/)
 
+## Herramientas relacionadas
+- [Worldmonitor](/es/discover/worldmonitor/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/global-intelligence-dashboard/

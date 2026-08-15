@@ -23,6 +23,7 @@ Las computadoras no comprenden los archivos PDF sin formato; convertirlos en dat
 
 
 ## Términos relacionados
+- [Document Parsing](/es/dictionary/document-parsing/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 - [RAG](/es/dictionary/rag/)
 - [NLP](/es/dictionary/nlp/)

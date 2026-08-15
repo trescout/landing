@@ -24,6 +24,9 @@ Teóricamente sí, pero los costes y las posibilidades de recopilación de datos
 
 ## Términos relacionados
 - [World Model](/es/dictionary/world-model/)
+- [Observability](/es/dictionary/observability/)
+- [Data Pipeline](/es/dictionary/data-pipeline/)
+- [Artificial Intelligence](/es/dictionary/artificial-intelligence/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/digital-twin/

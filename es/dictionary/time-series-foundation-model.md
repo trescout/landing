@@ -24,5 +24,8 @@ Tiene éxito con cualquier dato que tenga un patrón dependiente del tiempo, per
 - [Algorithmic Trading](/es/dictionary/algorithmic-trading/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Timesfm](/es/discover/timesfm/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/time-series-foundation-model/

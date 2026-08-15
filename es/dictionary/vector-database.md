@@ -25,6 +25,12 @@ Se puede almacenar cualquier dato cuyo significado pueda convertirse en vector, 
 ## Términos relacionados
 - [Embedding](/es/dictionary/embedding/)
 - [RAG](/es/dictionary/rag/)
+- [Knowledge Graph](/es/dictionary/knowledge-graph/)
+- [Memory Engine](/es/dictionary/memory-engine/)
+
+## Herramientas relacionadas
+- [Zvec](/es/discover/zvec/)
+- [Turbovec](/es/discover/turbovec/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/vector-database/

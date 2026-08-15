@@ -22,8 +22,12 @@ Sí, pero debes hacerlo con herramientas confiables y en tus propios sistemas.
 
 
 ## Términos relacionados
+- [Wordlists](/es/dictionary/wordlists/)
 - [Penetration Testing](/es/dictionary/penetration-testing/)
 - [Security Scanner](/es/dictionary/security-scanner/)
+
+## Herramientas relacionadas
+- [Cupp](/es/discover/cupp/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/common-user-passwords-profiler/

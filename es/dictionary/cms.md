@@ -29,5 +29,8 @@ WordPress es el ejemplo de CMS más utilizado en todo el mundo.
 - [Tech Stack](/es/dictionary/tech-stack/)
 - [Application](/es/dictionary/application/)
 
+## Herramientas relacionadas
+- [Instatic](/es/discover/instatic/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cms/

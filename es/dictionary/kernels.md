@@ -27,5 +27,8 @@ Sí, por ejemplo, el kernel de Linux y el kernel de Windows tienen arquitecturas
 - [Operating System for Robotics](/es/dictionary/operating-system-for-robotics/)
 - [System Programming Language](/es/dictionary/system-programming-language/)
 
+## Herramientas relacionadas
+- [FlashKDA](/es/discover/flashkda/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/kernels/

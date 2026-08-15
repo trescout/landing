@@ -27,5 +27,8 @@ Sí, los parches especialmente orientados a la seguridad protegen su sistema con
 - [Security Scanner](/es/dictionary/security-scanner/)
 - [Deployment](/es/dictionary/deployment/)
 
+## Herramientas relacionadas
+- [PhotoGIMP](/es/discover/photogimp/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/patch/

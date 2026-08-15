@@ -24,6 +24,20 @@ Sí, hoy en día cualquiera que sepa escribir un comando sencillo puede benefici
 
 ## Términos relacionados
 - [LLM](/es/dictionary/llm/)
+- [Diffusion Model](/es/dictionary/diffusion-model/)
+- [Text-to-Speech](/es/dictionary/text-to-speech/)
+- [Prompt Engineering](/es/dictionary/prompt-engineering/)
+- [Multimodal](/es/dictionary/multimodal/)
+
+## Herramientas relacionadas
+- [System Prompts and Models of AI Tools](/es/discover/system-prompts-and-models-of-ai-tools/)
+- [Generative AI for Beginners](/es/discover/generative-ai-for-beginners/)
+- [Impeccable](/es/discover/impeccable/)
+- [Next AI Draw IO](/es/discover/next-ai-draw-io/)
+- [Awesome Generative AI Guide](/es/discover/awesome-generative-ai-guide/)
+- [Aisuite](/es/discover/aisuite/)
+- [TRELLIS.2](/es/discover/trellis-2/)
+- [Weathernext](/es/discover/weathernext/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/generative-ai/

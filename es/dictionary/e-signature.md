@@ -26,5 +26,8 @@ Una firma electrónica puede demostrar matemáticamente la integridad del docume
 - [API](/es/dictionary/api/)
 - [Enterprise Resource Planning](/es/dictionary/enterprise-resource-planning/)
 
+## Herramientas relacionadas
+- [Docuseal](/es/discover/docuseal/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/e-signature/

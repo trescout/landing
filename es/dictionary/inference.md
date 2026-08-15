@@ -25,6 +25,13 @@ No, el modelo sólo hace predicciones utilizando la información que tiene dispo
 ## Términos relacionados
 - [LLM](/es/dictionary/llm/)
 - [Foundation Model](/es/dictionary/foundation-model/)
+- [Observability](/es/dictionary/observability/)
+
+## Herramientas relacionadas
+- [Llama.cpp](/es/discover/llama-cpp/)
+- [Ds4](/es/discover/ds4/)
+- [LTX 2](/es/discover/ltx-2/)
+- [Transcribe.cpp](/es/discover/transcribe-cpp/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/inference/

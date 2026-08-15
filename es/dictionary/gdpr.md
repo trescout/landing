@@ -25,6 +25,7 @@ Vincula a todas las empresas de todo el mundo que hacen negocios con ciudadanos 
 
 
 ## Términos relacionados
+- [Data Residency](/es/dictionary/data-residency/)
 - [End-to-End Privacy](/es/dictionary/end-to-end-privacy/)
 - [Security Scanner](/es/dictionary/security-scanner/)
 

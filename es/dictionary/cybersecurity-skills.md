@@ -27,5 +27,8 @@ Dado que los modelos de IA procesan datos, las habilidades de ciberseguridad son
 - [Vulnerability Scanning](/es/dictionary/vulnerability-scanning/)
 - [Engineering Skills](/es/dictionary/engineering-skills/)
 
+## Herramientas relacionadas
+- [Anthropic Cybersecurity Skills](/es/discover/anthropic-cybersecurity-skills/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cybersecurity-skills/

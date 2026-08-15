@@ -26,5 +26,9 @@ Aunque al principio pueda parecer que se ralentiza, en general ahorra tiempo ya 
 - [Testing Framework](/es/dictionary/testing-framework/)
 - [Clean Code](/es/dictionary/clean-code/)
 
+## Herramientas relacionadas
+- [Catch2](/es/discover/catch2/)
+- [Babysitter](/es/discover/babysitter/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/tdd/

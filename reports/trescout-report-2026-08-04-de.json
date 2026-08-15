@@ -1,0 +1,365 @@
+{
+  "date": "2026-08-04",
+  "editorial": "Heutzutage stehen Diskussionen im Vordergrund, dass Entwicklertools Open Source sein sollten und dass neue Architekturen das Fachwissen von Hochleistungssprachmodellen (LLMs) belohnen. Daten auf GitHub und HuggingFace zeigen, dass Bemühungen, große Modelle mit geringem Speicherverbrauch (Inferenz) und 3D-Datenkomprimierungstechniken auszuführen, an Dynamik gewinnen.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "Mit AirLLM können Sie große Sprachmodelle mit 70 Milliarden Parametern auf Grafikprozessoren (GPU) mit nur 4 Gigabyte Videospeicher ausführen. Diese Bibliothek erhöht die Zugänglichkeit, indem Modelle mit hohen Hardwareanforderungen auf Consumer-Hardware mit geringer Kapazität ausgeführt werden.",
+          "meta": "Jupyter Notebook · ★ 27.515 · +1.085 heute"
+        },
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-Skill ist ein KI-gestützter Talenttreiber, der Reverse-Engineering- und Penetrationstestprozesse automatisiert. Durch die Integration mit von künstlicher Intelligenz unterstützten Codierungstools (AI Coding Clients) wie Claude Code oder Cursor werden automatisch die für die Sicherheitsforschung erforderlichen Toolketten aufgebaut und die Erfahrungsbasis ständig aktualisiert.",
+          "meta": "PowerShell · ★ 16.395 · +2.446 heute"
+        },
+        {
+          "title": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "summary": "PDF Inspector, entwickelt von Firecrawl, ist eine schnelle Rust-Bibliothek zum Überprüfen, Klassifizieren und Extrahieren des Texts von PDF-Dateien. Es ermöglicht intelligente Routing-Entscheidungen in Datenverarbeitungsprozessen, indem es gescannte Dokumente von textbasierten Dateien unterscheidet.",
+          "meta": "Rust · ★ 8.766 · +1.699 heute"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix ist ein KI-Coding-Agent, der auf dem Terminal läuft und sich in DeepSeek-Modelle integrieren lässt. Dieses Tool konzentriert sich auf die Stabilität des Präfix-Cache und ermöglicht es Entwicklern, langfristige Codierungsprozesse ohne Unterbrechung zu verwalten.",
+          "meta": "Go · ★ 30.213 · +883 heute"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory ist ein Hub für KI-Agenten, der Konversationen, Dokumente und Code in wiederverwendbare Speicherressourcen umwandelt. Dieses System macht Daten zwischen verschiedenen Agenten gemeinsam nutzbar, indem es sie als Chat-Verlauf, Skill, Wissensdatenbank (LLM-Wiki) und Code-Graph strukturiert.",
+          "meta": "TypeScript · ★ 12.417 · +1.090 heute"
+        },
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "AI-For-Beginners, erstellt von Microsoft, bietet einen 12-wöchigen Lehrplan für diejenigen, die in die Welt der künstlichen Intelligenz einsteigen möchten. Dieses Trainingsset im Jupyter Notebook-Format, das interaktive Codeblöcke enthält, bietet einen breiten Lernpfad von grundlegenden Konzepten bis hin zu angewandten Projekten.",
+          "meta": "Jupyter Notebook · ★ 61.100 · +1.902 heute"
+        },
+        {
+          "title": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "summary": "Generative-ai-for-beginners wurde von Microsoft erstellt und bietet einen 21-stündigen Schulungslehrplan für diejenigen, die in Technologien der generativen künstlichen Intelligenz (generative KI) einsteigen möchten. Der Inhalt zielt darauf ab, grundlegende Konzepte und Modellentwicklungsprozesse durch angewandte Projekte im Jupyter Notebook-Format zu vermitteln.",
+          "meta": "Jupyter Notebook · ★ 115.799 · +775 heute"
+        },
+        {
+          "title": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "summary": "System Design Primer bietet eine umfassende Lernressource für diejenigen, die umfangreiche Softwaresysteme entwerfen möchten. Es vereint Systemdesignprinzipien und praktische Lernkarten für Softwareentwickler, die sich auf technische Interviews vorbereiten.",
+          "meta": "Python · ★ 360.710 · +237 heute"
+        },
+        {
+          "title": "antirez/ds4",
+          "url": "https://github.com/antirez/ds4",
+          "summary": "DS4 wurde vom Entwickler von Redis entwickelt und ist eine Inferenz-Engine, die die Ausführung von DeepSeek-Modellen auf lokalen Geräten ermöglicht. Mit CUDA- und ROCm-Unterstützung bietet Metal hardwarebeschleunigte Modelle für künstliche Intelligenz, die mit der Low-Level-C-Sprache optimiert sind.",
+          "meta": "C · ★ 20.440 · +384 heute"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos ist ein Grundlagenmodell zum Verständnis und zur Analyse der komplexen Sprache der Finanzmärkte. Dieses auf Finanzdaten basierende System zielt darauf ab, die Prozesse der Interpretation von Marktbewegungen und der Verarbeitung von Finanztexten zu automatisieren.",
+          "meta": "Python · ★ 35.882 · +200 heute"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach ist ein Python-Tool, das es KI-Agenten ermöglicht, Inhalte auf verschiedenen Plattformen im Internet (Twitter, Reddit, YouTube, GitHub) zu suchen und zu lesen. Es ermöglicht den Zugriff auf Webdaten über die Befehlszeile, ohne dass eine API-Gebühr (Application Programming Interface) anfällt.",
+          "meta": "Python · ★ 65.979 · +1.057 heute"
+        },
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "summary": "Free-claude-code wurde von Alishahryar1 entwickelt und bietet kostenlosen Zugriff auf Modelle der künstlichen Intelligenz wie Claude Code und Codex über Terminal, Anwendung oder Entwicklungsumgebung (IDE). Dieses Open-Source-Tool lässt sich in Plattformen integrieren, die Sprachbefehlsunterstützung bieten, wie z. B. OpenClaw, und ermöglicht es Benutzern, Funktionen der künstlichen Intelligenz auf verschiedenen Geräten zu nutzen.",
+          "meta": "Python · ★ 44.150 · +278 heute"
+        },
+        {
+          "title": "iv-org/invidious",
+          "url": "https://github.com/iv-org/invidious",
+          "summary": "Invidious ist eine alternative Schnittstelle, die für die Videoplattform YouTube entwickelt wurde. Es bietet Benutzern ein werbefreies Seherlebnis und erfasst keine persönlichen Daten.",
+          "meta": "Crystal · ★ 22.316 · +402 heute"
+        },
+        {
+          "title": "livekit/agents",
+          "url": "https://github.com/livekit/agents",
+          "summary": "LiveKit Agents ist ein Python-Framework, das zur Entwicklung von Audio- und Video-Agenten für künstliche Intelligenz in Echtzeit verwendet wird. Es ermöglicht Entwicklern, Sprachinteraktionen mit geringer Latenz zu erstellen, wodurch es einfacher wird, KI-Systeme zu erstellen, die wie ein Mensch reagieren.",
+          "meta": "Python · ★ 12.122 · +148 heute"
+        },
+        {
+          "title": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "summary": "Kaneo ist ein Open-Source-Projektmanagement-Tool, das durch die Optimierung komplexer Funktionen ein benutzerorientiertes Erlebnis bietet. Diese mit TypeScript entwickelte Plattform zielt darauf ab, eine vereinfachte Alternative zu beliebter Projektverfolgungssoftware wie Jira zu schaffen.",
+          "meta": "TypeScript · ★ 6.988 · +665 heute"
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox ist ein Open-Source-Sprachstudio mit künstlicher Intelligenz, das es Benutzern ermöglicht, Stimmen zu klonen, zu diktieren und Stimmen zu produzieren. Dieses mit der TypeScript-Sprache entwickelte Tool bietet eine umfassende Lösung für diejenigen, die Sprachtechnologien in einer lokalen Umgebung ausführen möchten.",
+          "meta": "TypeScript · ★ 48.852 · +412 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LLMs reward expertise",
+          "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+          "summary": "Große Sprachmodelle (LLM) zeigen bei komplexen Aufgaben eine höhere Leistung, wenn sie mit speziellen Kontexten ausgestattet sind. Die Verbesserung des technischen Wissens der Benutzer wirkt sich direkt auf die Qualität der Ergebnisse aus, die von Modellen der künstlichen Intelligenz erhalten werden.",
+          "meta": "717 Punkte · 300 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49161518",
+              "popularity": 717,
+              "engagementCount": 300
+            }
+          ]
+        },
+        {
+          "title": "Devtools must be open source",
+          "url": "https://blog.exe.dev/devtools-must-be-open-source",
+          "summary": "Open-Source-Softwareentwicklungstools (Devtools) gewährleisten die langfristige Nachhaltigkeit der Tools, indem sie die Benutzerabhängigkeit verringern. Dieser Ansatz ermöglicht es Entwicklern, die volle Kontrolle über die von ihnen verwendeten Technologien zu haben und von der Community unterstützte Verbesserungen vorzunehmen.",
+          "meta": "562 Punkte · 195 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49156111",
+              "popularity": 562,
+              "engagementCount": 195
+            }
+          ]
+        },
+        {
+          "title": "Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics/",
+          "summary": "OpenAI hat zehn wichtige Fortschritte in der Mathematik und der theoretischen Informatik zusammengestellt. Diese Studie fasst neue Methoden zur Lösung komplexer Probleme und aktuelle Entwicklungen im Bereich der Computermathematik zusammen.",
+          "meta": "510 Punkte · 781 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49157930",
+              "popularity": 510,
+              "engagementCount": 781
+            }
+          ]
+        },
+        {
+          "title": "More German than many Germans",
+          "url": "https://mertbulan.com/more-german-than-many-germans/",
+          "summary": "Mert Bulan vermittelt anhand seiner eigenen Erfahrungen den komplexen Zusammenhang zwischen bürokratischen Prozessen und kulturellen Gewohnheiten in Deutschland und der Digitalisierung. Der Artikel erörtert die Bemühungen, die traditionelle Funktionsweise des Landes an die moderne Technologie anzupassen, und die dabei auftretenden Schwierigkeiten.",
+          "meta": "468 Punkte · 325 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49151734",
+              "popularity": 468,
+              "engagementCount": 325
+            }
+          ]
+        },
+        {
+          "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+          "summary": "Durch manuelles Umschreiben der von künstlicher Intelligenz erzeugten Codes statt durch Kopieren und Einfügen können Entwickler die Logik besser verstehen und die Bildung kognitiver Schulden verhindern. Diese Methode unterstützt das Debuggen von Fehlern und eine bessere Beherrschung des Systems, indem sie das Bewusstsein für die Funktionsweise des Codes erhöht.",
+          "meta": "447 Punkte · 364 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49153374",
+              "popularity": 447,
+              "engagementCount": 364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3 wurde von Moonshot AI entwickelt und ist ein multimodales künstliches Intelligenzmodell, das visuelle und Textdaten gleichzeitig verarbeiten kann. Es ermöglicht Benutzern, visuelle Inhalte in Text umzuwandeln und eine interaktive Analyse dieser Daten durchzuführen.",
+          "meta": "♥ 9.884 · 967.622 Downloads"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, das von DeepSeek entwickelte Textgenerierungsmodell, bietet eine Struktur, die für leistungsstarke Sprachverarbeitungsaufgaben optimiert ist. Das Modell bietet Entwicklern über die Open-Source-KI-Plattform HuggingFace eine zugängliche Sprachmodellalternative.",
+          "meta": "♥ 2.113 · 236.076 Downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, entwickelt von MiniMaxAI, ist ein Modell der künstlichen Intelligenz, das Videos mit visuellen und Texteingaben produziert. Dieses Modell unterstützt Videoerstellungsprozesse durch die Umwandlung komplexer Befehle in visuelle Inhalte.",
+          "meta": "♥ 1.602 · 0 Downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion, geteilt auf Hugging Face, ist ein Modell der künstlichen Intelligenz, das durch die Verarbeitung von Bild- und Textdaten eine Textausgabe erzeugt. Mit seiner unzensierten Struktur und der hohen Anzahl an Parametern ermöglicht es Benutzern, komplexe Inhalte auf ihren lokalen Systemen zu produzieren.",
+          "meta": "♥ 1.455 · 1.550.034 Downloads"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3 ist ein multimodales großes Sprachmodell mit Text- und visuellen Verarbeitungsfunktionen. ComfyUI ist in die visuelle Bearbeitungsoberfläche integriert, sodass Benutzer komplexe Bilderstellungsprozesse schneller verwalten können.",
+          "meta": "♥ 477 · 2 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering",
+          "url": "https://huggingface.co/papers/2608.01185",
+          "summary": "3DZip bietet eine auf räumliches Bewusstsein ausgerichtete Token-Komprimierungsmethode, um die Belastung durch intensive Datenverarbeitung in dreidimensionalen Vision-Language-Modellen (3D-VLM) zu reduzieren. Diese Technik bewahrt die Szenengeometrie, eliminiert unnötige Daten und erhöht die Recheneffizienz in dreidimensionalen Frage-Antwort-Prozessen.",
+          "meta": "5 Likes · 2 Kommentare"
+        },
+        {
+          "title": "DAPD: Dual-Anchored Policy Distillation",
+          "url": "https://huggingface.co/papers/2608.01735",
+          "summary": "Die doppelt verankerte Richtliniendestillation zielt darauf ab, die Informationsasymmetrie zwischen Lehrer- und Schülermodellen im Trainingsprozess von Sprachmodellen zu beseitigen. Diese Methode erhöht die Modellleistung, indem sie verhindert, dass der Schüler fehlerhaftes Verhalten entwickelt, das auf privilegierten Daten basiert, auf die er während der Inferenzphase keinen Zugriff hat.",
+          "meta": "1 Likes · 1 Kommentare"
+        },
+        {
+          "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+          "url": "https://huggingface.co/papers/2608.01964",
+          "summary": "LongHorizon-Harness zielt darauf ab, die Probleme der Zustandsverfolgung und Fehlerakkumulation zu lösen, mit denen große sprachmodellbasierte Agenten bei Langzeitmissionen konfrontiert sind. Durch die Neudefinition komplexer Prozesse als Problem der Aufgabenstatusverwaltung können Agenten konsistentere Entscheidungen in mehrstufigen Arbeitsabläufen treffen.",
+          "meta": "44 Likes · 1 Kommentare"
+        },
+        {
+          "title": "DiffusionGemma Technical Report",
+          "url": "https://huggingface.co/papers/2608.00146",
+          "summary": "DiffusionGemma wurde von Google entwickelt und führt im Gegensatz zu herkömmlichen Methoden in der Textproduktion eine Parallelverarbeitung in 256er-Blöcken mithilfe diskreter Diffusion durch. Dieser Ansatz zielt darauf ab, Text mit hoher Geschwindigkeit zu generieren, indem der Engpass bei der sequentiellen Wortgenerierung in großen Sprachmodellen überwunden wird.",
+          "meta": "2 Likes · 0 Kommentare"
+        },
+        {
+          "title": "CADENA: Stepwise CAD Reverse Engineering",
+          "url": "https://huggingface.co/papers/2608.00799",
+          "summary": "CADENA ist ein System, das dreidimensionale Netzmodelle (3D-Netz) in parametrische CAD-Programme (Computer Aided Design) umwandelt. Indem es die Arbeitsweise menschlicher Ingenieure nachahmt, baut es das Modell Schritt für Schritt auf, fügt in jeder Phase Features hinzu und führt geometrische Überprüfungen durch, anstatt alles auf einmal zu erstellen.",
+          "meta": "1 Likes · 1 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Kill the Cookie Banner",
+          "url": "https://killthecookiebanner.eu/",
+          "summary": "Kill the Cookie Banner ist eine Initiative, die darauf abzielt, die Benutzererfahrung zu verbessern, indem Cookie-Banner auf Websites auf Browserebene blockiert werden. Ziel ist es, die durch gesetzliche Vorschriften in der gesamten Europäischen Union verursachte Notifizierungsmüdigkeit durch automatische Genehmigungs- oder Ablehnungsmechanismen zu beseitigen.",
+          "meta": "103 Punkte · 20 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aftrcr/kill_cookie_banner",
+              "popularity": 103,
+              "engagementCount": 20
+            }
+          ]
+        },
+        {
+          "title": "Don't be a meat proxy",
+          "url": "https://gruhn.me/blog/2026-08-03/",
+          "summary": "Es wird kritisiert, dass Softwareentwickler beim Einsatz von Tools der künstlichen Intelligenz ihre eigene Logik außer Kraft setzen und nur noch zu Vermittlern (Proxy) werden. Dieser Ansatz wird als Risiko definiert, das die Codequalität und die Dominanz über das System verringert.",
+          "meta": "95 Punkte · 42 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy",
+              "popularity": 95,
+              "engagementCount": 42
+            }
+          ]
+        },
+        {
+          "title": "help wanted",
+          "url": "https://lake.computer/blog/help-wanted/",
+          "summary": "Lake ist ein Open-Source-Betriebssystemprojekt, das darauf abzielt, das Personal-Computing-Erlebnis neu zu definieren. Das Entwicklungsteam ist auf der Suche nach neuen Entwicklern, die in Schlüsselbereichen wie Betriebssystemarchitektur und Benutzeroberflächendesign Beiträge leisten.",
+          "meta": "143 Punkte · 19 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a355zh/help_wanted",
+              "popularity": 143,
+              "engagementCount": 19
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Leistungsstarke Prozessoreinheit zur Verarbeitung von Bildern am Computer und zur Beschleunigung von Berechnungen der künstlichen Intelligenz."
+    },
+    {
+      "term": "AI coding clients",
+      "explanation": "KI-gestützte Tools, die Ihnen helfen, Code zu schreiben, Fehler zu finden und das Projekt abzuschließen, während Sie Software entwickeln."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "Es handelt sich um eine Methode, die es künstlicher Intelligenz ermöglicht, dieselben Fragen viel schneller zu beantworten, indem sie die zuvor verarbeiteten Informationen in ihrem Gedächtnis behält."
+    },
+    {
+      "term": "skill",
+      "explanation": "Die Fähigkeit eines Assistenten mit künstlicher Intelligenz, sich auf ein bestimmtes Fachgebiet zu spezialisieren und benutzerspezifische Aufgaben auszuführen."
+    },
+    {
+      "term": "LLM-Wiki",
+      "explanation": "Eine digitale Informationsbibliothek, in der Modelle der künstlichen Intelligenz aus externen Quellen gespeist werden, um genauere Informationen bereitzustellen."
+    },
+    {
+      "term": "Code-Graph",
+      "explanation": "Eine visuelle Struktur, die die Verbindungen verschiedener Codeteile in einem Softwareprojekt abbildet."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Computer erlangen die Fähigkeit, wie Menschen zu denken, zu lernen und Probleme zu lösen."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Künstliche Intelligenz-Technologie, die aus vorhandenen Daten neue Texte, Bilder oder Töne erstellen kann."
+    },
+    {
+      "term": "system design",
+      "explanation": "Der Prozess der Planung, wie Teile einer komplexen Software miteinander zusammenarbeiten und wie Daten fließen."
+    },
+    {
+      "term": "inference engine",
+      "explanation": "Die Softwareschicht, die es einem trainierten Modell der künstlichen Intelligenz ermöglicht, Vorhersagen über neue Daten zu treffen, die ihm zur Verfügung gestellt werden."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Das Hauptmodell, das die Grundlage für Anwendungen der künstlichen Intelligenz bildet, trainiert mit riesigen Datenmengen für den Einsatz in vielen verschiedenen Aufgaben."
+    },
+    {
+      "term": "API",
+      "explanation": "Eine digitale Brücke, die es zwei verschiedenen Softwareprogrammen ermöglicht, miteinander zu kommunizieren und Daten auszutauschen."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Eine fortschrittliche Arbeitsumgebung, in der Softwareentwickler alle Tools finden, die sie beim Schreiben von Code benötigen."
+    },
+    {
+      "term": "framework",
+      "explanation": "Ein Skelettsystem, das die Entwicklung von Software erleichtert und vorgefertigte Strukturen und ein Regelwerk bietet."
+    },
+    {
+      "term": "voice cloning",
+      "explanation": "Eine Technologie, die die Stimme einer Person analysiert und basierend auf dem Tonfall dieser Person künstliche Sprache erzeugt."
+    }
+  ]
+}

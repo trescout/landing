@@ -26,5 +26,8 @@ Puedes desarrollar cualquier cosa, desde simples juegos de rompecabezas hasta co
 - [Open Source](/es/dictionary/open-source/)
 - [CLI](/es/dictionary/cli/)
 
+## Herramientas relacionadas
+- [Godot](/es/discover/godot/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/godot-engine/

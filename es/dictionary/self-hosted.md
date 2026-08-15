@@ -27,5 +27,15 @@ Es más seguro en términos de privacidad de datos, pero es enteramente su respo
 - [Open Source](/es/dictionary/open-source/)
 - [Offline](/es/dictionary/offline/)
 
+## Herramientas relacionadas
+- [Immich](/es/discover/immich/)
+- [Chatwoot](/es/discover/chatwoot/)
+- [Open-Generative-AI](/es/discover/open-generative-ai/)
+- [OpenWA](/es/discover/openwa/)
+- [Openship](/es/discover/openship/)
+- [Instatic](/es/discover/instatic/)
+- [TREK](/es/discover/trek/)
+- [Celld](/es/discover/celld/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/self-hosted/

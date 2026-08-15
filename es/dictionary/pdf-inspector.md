@@ -24,5 +24,8 @@ No, también puede examinar la resolución de las imágenes, los campos de formu
 - [Document Parsing](/es/dictionary/document-parsing/)
 - [PDF](/es/dictionary/pdf/)
 
+## Herramientas relacionadas
+- [PDF Inspector](/es/discover/pdf-inspector/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/pdf-inspector/

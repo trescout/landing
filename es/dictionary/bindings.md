@@ -27,5 +27,8 @@ Aunque suele haber una ligera pérdida de rendimiento, la comodidad que ofrece m
 - [Framework](/es/dictionary/framework/)
 - [Runtime](/es/dictionary/runtime/)
 
+## Herramientas relacionadas
+- [Turbovec](/es/discover/turbovec/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/bindings/

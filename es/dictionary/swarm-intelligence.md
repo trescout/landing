@@ -24,5 +24,8 @@ No, la mayor ventaja de estos sistemas es que las unidades se respaldan entre sÃ
 - [Multi-agent](/es/dictionary/multi-agent/)
 - [Introduction to Autonomous Robots](/es/dictionary/autonomous-robots-intro/)
 
+## Herramientas relacionadas
+- [MiroFish](/es/discover/mirofish/)
+
 ---
 Fuente: TreScout Glosario Â· https://trescout.com/es/dictionary/swarm-intelligence/

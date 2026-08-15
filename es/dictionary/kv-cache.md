@@ -30,5 +30,8 @@ Es posible que el sistema no pueda procesar datos nuevos o comience a olvidar in
 - [Inference](/es/dictionary/inference/)
 - [Memory Management](/es/dictionary/memory-management/)
 
+## Herramientas relacionadas
+- [LMCache](/es/discover/lmcache/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/kv-cache/

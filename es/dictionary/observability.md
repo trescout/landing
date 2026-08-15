@@ -22,5 +22,15 @@ El registro de errores informa el problema pero no explica el motivo, mientras q
 Puede que sea una exageración para aplicaciones simples, pero es vital en sistemas de inteligencia artificial que constan de muchas partes.
 
 
+## Términos relacionados
+- [Observability](/es/dictionary/observability/)
+- [State Management](/es/dictionary/state-management/)
+- [Data Pipeline](/es/dictionary/data-pipeline/)
+- [API](/es/dictionary/api/)
+
+## Herramientas relacionadas
+- [Posthog](/es/discover/posthog/)
+- [iii](/es/discover/iii/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/observability/

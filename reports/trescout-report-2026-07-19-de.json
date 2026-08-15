@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-19",
+  "editorial": "Heutzutage gibt es eine Bewegung, die sich auf Entwicklertools und Praktiken der künstlichen Intelligenz (KI-Engineering) konzentriert. Projekte, die Open-Source-Datenanalysen und Codeüberprüfungsprozesse auf GitHub automatisieren, erfreuen sich zunehmender Beliebtheit.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "Lingbot-map ist ein Feed-Forward-Grundmodell, das für die Szenenrekonstruktion aus Streaming-Daten entwickelt wurde. Es bietet eine Lösung zur Modellierung dreidimensionaler Umgebungen mit Echtzeit-Streaming-Daten.",
+          "meta": "Python · ★ 13.120 · +831 heute"
+        },
+        {
+          "title": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "summary": "Apache Ossie ist eine Initiative, die darauf abzielt, den Austausch semantischer Metadaten zwischen Analyse-, künstlichen Intelligenz- und Business-Intelligence-Plattformen (BI) zu standardisieren. Ziel dieses Projekts ist es, eine herstellerunabhängige Single Source of Truth für semantische Daten zu schaffen.",
+          "meta": "Python · ★ 1.318 · +47 heute"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog kombiniert Tools wie KI-Beobachtbarkeit, Sitzungsaufzeichnung und Fehlerverfolgung auf einer einzigen Plattform, um Produktentwicklungsprozesse zu optimieren. Dank dieser Tools können Entwickler autonome Produktabläufe durch die Analyse von Benutzerdaten verwalten.",
+          "meta": "Python · ★ 36.675 · +338 heute"
+        },
+        {
+          "title": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "summary": "UI-Skills wurde für Designingenieure entwickelt und vereint die technischen Fähigkeiten und Kompetenzen, die in Entwicklungsprozessen für Benutzeroberflächen (UI) erforderlich sind. Diese TypeScript-basierte Ressource präsentiert schnittstellenorientierte Softwareentwicklungsstandards und -methoden mit einem strukturierten Lehrplan.",
+          "meta": "TypeScript · ★ 5.166 · +123 heute"
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Diese Ressource richtet sich an diejenigen, die in den Bereich der künstlichen Intelligenz (KI-Engineering) einsteigen möchten, und zielt darauf ab, End-to-End-Anwendungsentwicklungsprozesse mit Python zu vermitteln. Diese Studie, die theoretisches Wissen in die Praxis umsetzt, befasst sich mit dem Design und dem Einsatz von auf künstlicher Intelligenz basierender Software.",
+          "meta": "Python · ★ 39.221 · +191 heute"
+        },
+        {
+          "title": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "summary": "Code-Review-Graph erstellt eine lokale Karte der Codebasis und stellt ein Code-Intelligence-Graph bereit, das sicherstellt, dass KI-gestützte Softwaretools nur relevante Abschnitte verarbeiten. Diese Methode steigert die Effizienz durch Kontextreduzierung in Arbeitsabläufen und Codeüberprüfungsprozessen in großen Projekten.",
+          "meta": "Python · ★ 20.303 · +355 heute"
+        },
+        {
+          "title": "elder-plinius/G0DM0D3",
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "summary": "G0DM0D3 ist eine befreite KI-Chat-Schnittstelle, die darauf abzielt, die Sicherheitsebenen großer Sprachmodelle zu umgehen. Dieses mit TypeScript entwickelte Open-Source-Projekt ermöglicht Benutzern die uneingeschränkte Interaktion mit Modellen.",
+          "meta": "TypeScript · ★ 9.570 · +69 heute"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM ermöglicht die Ausführung großer Sprachmodelle mit 70 Milliarden Parametern mit nur 4 Gigabyte Grafikkartenspeicher (VRAM). Diese Bibliothek ermöglicht es Hochleistungsmodellen, mithilfe von Speicheroptimierungstechniken Rückschlüsse auf Low-End-Systeme zu ziehen.",
+          "meta": "Jupyter Notebook · ★ 23.415 · +161 heute"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo ist ein Tool, das lokale Such-, Datenextraktions- und Crawling-Funktionen für Codierungsagenten für künstliche Intelligenz bereitstellt. Dieses System, das über das Model Context Protocol (MCP) arbeitet, ermöglicht kostenlose Recherche ohne Cloud-Abhängigkeit und ohne die Notwendigkeit eines API-Schlüssels.",
+          "meta": "TypeScript · ★ 1.365 · +203 heute"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "„Build Your Own Durch praxisnahe Projekte erlernen Entwickler die Arbeitslogik komplexer Systeme wie Datenbanken oder Betriebssysteme.",
+          "meta": "Markdown · ★ 528.427 · +1.126 heute"
+        },
+        {
+          "title": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "summary": "Kimi CLI wurde von Moonshot AI entwickelt und ist ein Agent für künstliche Intelligenz, der über eine Befehlszeilenschnittstelle (CLI) funktioniert. Dieses Python-basierte Tool wurde entwickelt, um Befehlszeileninteraktionen in Softwareentwicklungsprozessen zu automatisieren.",
+          "meta": "Python · ★ 9.577 · +65 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LG monitors silently install software through Windows Update without consent",
+          "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+          "summary": "LG-Monitore installieren Software im Hintergrund über Windows Update ohne Zustimmung des Benutzers. Dies führt zu Diskussionen über Sicherheit und Benutzerkontrolle hinsichtlich der Aufnahme zusätzlicher Anwendungen in das System sowie Hardwaretreiber.",
+          "meta": "1.083 Punkte · 549 Kommentare"
+        },
+        {
+          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "summary": "Modelle der künstlichen Intelligenz haben ein seit dreißig Jahren ungelöstes mathematisches Problem im Bereich der konvexen Optimierung mit Hilfe eines einfachen Befehls gelöst. Diese Entwicklung zeigt die Fähigkeit großer Sprachmodelle, logische Schlussfolgerungen aus komplexen mathematischen Beweisen zu ziehen.",
+          "meta": "541 Punkte · 345 Kommentare"
+        },
+        {
+          "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+          "summary": "Bürgermeister Mamdani führte eine Verordnung ein, die es Vermietern verbietet, heimlich KI-generierte Bilder in Mietobjektanzeigen zu verwenden. Ziel dieser Anwendung ist es, die visuelle Transparenz in Wohnungsanzeigen zu erhöhen und digitale Manipulationen zu verhindern.",
+          "meta": "396 Punkte · 176 Kommentare"
+        },
+        {
+          "title": "Speech Recognition and TTS in less than 500kb",
+          "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+          "summary": "Das Moonshine-Projekt bietet Spracherkennungs- und Text-to-Speech-Modelle mit einer Größe von weniger als 500 Kilobyte. Diese leichten Frameworks ermöglichen native Sprachverarbeitungsfunktionen auf Systemen mit begrenzten Hardwareressourcen.",
+          "meta": "387 Punkte · 40 Kommentare"
+        },
+        {
+          "title": "If You Build It, They Will Come",
+          "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+          "summary": "Es wird argumentiert, dass die Schaffung einer Benutzerbasis in Softwareprojekten direkt mit Marketing und Community-Interaktion zusammenhängt und nicht mit der technischen Qualität des Produkts. Es wird betont, dass sich Entwickler auf Strategien zur Benutzerakquise und nicht auf einen produktorientierten Ansatz konzentrieren sollten.",
+          "meta": "351 Punkte · 126 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Inkling wurde von Thinking Machines entwickelt und ist ein multimodales Modell, das textbasierte Ausgaben erzeugt, indem es visuelle und textuelle Daten als Eingabe akzeptiert. Das System unterstützt Content-Produktionsprozesse durch die Analyse der Interaktion zwischen Bild und Text.",
+          "meta": "♥ 1.078 · 12.456 Downloads"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "summary": "Ternary-Bonsai-27B-gguf ist ein für die Textgenerierung optimiertes und mit Low-Bit-Quantisierungstechniken minimiertes Sprachmodell. Dieses Modell unterstützt leistungsstarke Inferenzprozesse durch die effiziente Nutzung von Hardwareressourcen.",
+          "meta": "♥ 750 · 301.893 Downloads"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "summary": "Bonsai-27B, entwickelt von Prism-ml, ist ein Sprachmodell, das für Textgenerierungsaufgaben optimiert ist. Das Modell wird im quantisierten GGUF-Format präsentiert, um eine leistungsstarke Inferenz zu ermöglichen.",
+          "meta": "♥ 452 · 1.218.815 Downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, veröffentlicht von Zai-org, ist ein Sprachmodell, das für Textgenerierungsaufgaben optimiert ist. Dieses Modell, das auf der HuggingFace-Plattform eine hohe Interaktion erhält, wird in umfangreichen Texterstellungsprozessen verwendet.",
+          "meta": "♥ 4.134 · 541.662 Downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M ist ein Modell der künstlichen Intelligenz, das durch die Verarbeitung von Bild- und Textdaten eine Textausgabe (Bild-Text-zu-Text) erzeugt. Dieses im GGUF-Format präsentierte Modell bietet die Möglichkeit, verschiedene Datentypen mit Unterstützung für hohe Kontextfenster zu analysieren.",
+          "meta": "♥ 2.319 · 2.112.869 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "scene reconstruction",
+      "explanation": "Der Prozess der Erstellung einer dreidimensionalen digitalen Kopie einer physischen Umgebung auf der Grundlage von Foto- oder Videobildern."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Riesige Modelle der künstlichen Intelligenz, die mit sehr großen Datensätzen trainiert und als Grundlage für viele verschiedene Aufgaben verwendet werden können."
+    },
+    {
+      "term": "BI",
+      "explanation": "Dabei handelt es sich um eine Reihe von Methoden, die es Unternehmen ermöglichen, durch die Analyse der ihnen vorliegenden Rohdaten genauere und schnellere Geschäftsentscheidungen zu treffen."
+    },
+    {
+      "term": "semantic metadata",
+      "explanation": "Beschreibende Informationen, die erklären, was Daten bedeuten und in welcher Beziehung sie zu anderen Daten stehen."
+    },
+    {
+      "term": "single source of truth",
+      "explanation": "Der Grundsatz, Verwirrung zu vermeiden, indem alle Daten einer Institution von einem einzigen zuverlässigen Punkt aus verwaltet werden."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "Der Prozess der ständigen Überwachung, wie Systeme der künstlichen Intelligenz funktionieren, warum sie diese Entscheidungen treffen und ob sie Fehler machen."
+    },
+    {
+      "term": "UI",
+      "explanation": "Schaltflächen, Menüs und Bildschirmdesigns, über die ein Benutzer mit einer Software oder einem Gerät interagiert."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "Die Technik, KI-Modelle zu nutzen und sie effizient und sicher in realen Anwendungen auszuführen."
+    },
+    {
+      "term": "deployment",
+      "explanation": "Übertragen einer vorbereiteten Software oder eines Modells in eine Live-Umgebung, wo Benutzer darauf zugreifen können."
+    },
+    {
+      "term": "code intelligence graph",
+      "explanation": "Eine Struktur, die Entwickler durch die Abbildung komplexer Beziehungen und Verbindungen zwischen Softwarecodes leitet."
+    },
+    {
+      "term": "context reduction",
+      "explanation": "Sicherstellen, dass künstliche Intelligenz von unnötigen Informationen befreit wird und sich bei der Durchführung von Operationen nur auf die wichtigsten Daten konzentriert."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "VRAM",
+      "explanation": "Ein spezieller Speicherbereich, den die Grafikkarte vorübergehend während der Bildverarbeitung und Berechnungen der künstlichen Intelligenz nutzt."
+    },
+    {
+      "term": "inference",
+      "explanation": "Die Phase, in der ein trainiertes Modell der künstlichen Intelligenz Vorhersagen trifft oder mit neuen Daten Ergebnisse liefert."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Ein Software-Ansatz, der die Speicherung und Verarbeitung von Daten direkt im Speicher des Geräts priorisiert, ohne dass das Internet erforderlich ist."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Ein Brückenprotokoll, das es KI-Modellen ermöglicht, auf standardisierte Weise eine Verbindung zu verschiedenen Datenquellen und Tools herzustellen."
+    }
+  ]
+}

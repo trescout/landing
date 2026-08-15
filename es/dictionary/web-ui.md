@@ -29,5 +29,8 @@ Es compatible con la mayoría de los navegadores modernos, pero puede variar seg
 - [Web Interface](/es/dictionary/web-interface/)
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 
+## Herramientas relacionadas
+- [Pi Web](/es/discover/pi-web/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/web-ui/

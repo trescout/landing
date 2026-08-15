@@ -1,0 +1,28 @@
+# Disziplinierte Entwicklung mit Claude Code
+
+Claude Code Harness führt die Disziplin des Planens, Ausführens, Überprüfens und Lieferns ein und dämmt so die Tendenz ein, dass die Arbeit der Rohagenten auseinanderfällt. Es verhindert, dass Pläne im Chat verloren gehen, begrenzt Tests und sorgt für eine konsistentere Codeproduktion. Obwohl Claude Code-zentriert ist, bietet es auch Integrationspfade für Codex und OpenCode.
+
+- ★ 3.037
+- Shell
+- MIT
+- GitHub Trending · 28 May 2026
+
+## Aktualisieren
+- 2. August 2026: Star 1.838 → 3.037, neueste Version v5.6.0 (1. August 2026).
+
+## Was es bringt
+- Der Wirkstoff verteilt sich nicht; Der Plan wird aktenkundig gemacht.
+- Die Qualität wird durch die Einschränkung von Tests erhöht.
+- Es werden vorhersehbarere und konsistentere Ergebnisse erzielt.
+
+## So fangen Sie an
+Integriert in Claude Code mit Installation im Repository; Anschließend wird der Zyklus „Planen, Ausführen, Überprüfen“ umgesetzt.
+
+## Verwandte Begriffe aus dem Glossar
+
+## Links
+- GitHub-Repository →
+- Auf Türkisch lesen →
+
+---
+Quelle: TreScout Entdecken · https://trescout.com/de/discover/claude-code-harness/

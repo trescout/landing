@@ -29,5 +29,8 @@ Puede reducir la carga mental dividiendo tareas complejas en listas y establecie
 - [Personal AI Infrastructure](/es/dictionary/personal-ai-infrastructure/)
 - [AI Skills](/es/dictionary/ai-skills/)
 
+## Herramientas relacionadas
+- [I Have Adhd](/es/discover/i-have-adhd/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/adhd/
