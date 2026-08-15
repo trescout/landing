@@ -137,6 +137,20 @@ jobs:
             python3 scripts/discover-en.py   --lang=$d
           done
 
+      # İKİNCİ TUR · çapraz bağlantı kuralı İKİ YÖNLÜ:
+      #   keşif sayfası → "İlgili sözlük terimleri" · sözlük sayfası → "İlgili araçlar"
+      # İkisi de karşı sayfanın O DİLDE DİSKTE olmasına bakıyor. Tek turda hangisi
+      # önce çalışırsa diğerinin bağlantıları eksik kalıyor · aynı gün eklenen YENİ
+      # bir terim yeni bir aracı gösteriyorsa o bölüm çevirilerde hiç basılmıyor
+      # (2026-08-15: "svg" terimi beş dilde "İlgili araçlar" olmadan çıktı;
+      # Almanca eklenirken de 353 sözlük sayfası aynı sebeple eksikti).
+      # Çeviriler önbellekli · ikinci tur birkaç saniye.
+      - name: Sözlük ikinci tur (keşif sayfaları artık diskte)
+        run: |
+          for d in ${{ steps.diller.outputs.kodlar }}; do
+            python3 scripts/dictionary-en.py --lang=$d
+          done
+
       # Dizin sayfaları · kart ızgarası + arama/sıralama. Detay sayfalarından
       # SONRA çalışmalı: kabuğu (nav/footer) o dilin üretilmiş bir sayfasından
       # kopyalıyor.
@@ -219,7 +233,14 @@ jobs:
       - name: Sayfa paritesi (diller arası yapı)
         run: python3 scripts/check-sayfa-paritesi.py
 
+      # PR'da SERT, günlük hatta YUMUŞAK. Sebep: bu bir içerik bütünlüğü
+      # ölçüsü ve tek bir sayfanın eksik bölümü için 6500 sayfalık yayını
+      # durdurmak orantısız · üstelik bugün tam bunun bedelini ödedik
+      # (hreflang guard'ı üç gün hattı kilitledi). Yapısal sapma bir sonraki
+      # turda kendiliğinden düzeliyor; loga düşüyor, gözden kaçmıyor.
+      # csp-inline-guard.yml'de (insan bakarken) çıkış kodu hâlâ sert.
       - name: Bölüm paritesi (üretilen sayfalar · h2 sayısı)
+        continue-on-error: true
         run: python3 scripts/check-bolum-paritesi.py
 
       # Birleştirilmiş sözlük ikizleri geri açılmasın · günlük hat terimi
