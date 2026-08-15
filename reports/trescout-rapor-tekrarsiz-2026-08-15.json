@@ -1,0 +1,247 @@
+{
+  "date": "2026-08-15",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "GitHub tarafından geliştirilen Spec-kit, şartname odaklı geliştirme (spec-driven development) süreçlerini hızlandıran bir Python araç setidir. Yazılım projelerinde standartları belirleyerek kod kalitesini ve geliştirme disiplinini artırmayı hedefler.",
+          "meta": "Python · ★ 128.591 · +1.160 bugün",
+          "returning": true
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Kod düzenleme aracı Cursor, geliştiricilerin kendi eklentilerini oluşturabilmesi için resmi bir eklenti belirtimi (plugin specification) yayınladı. Bu standart, TypeScript tabanlı eklentilerle yazılım geliştirme ortamının işlevselliğini genişletmeyi mümkün kılıyor.",
+          "meta": "TypeScript · ★ 2.831 · +41 bugün",
+          "returning": true
+        },
+        {
+          "title": "deepseek-ai/awesome-deepseek-agent",
+          "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+          "summary": "GitHub üzerinde paylaşılan awesome-deepseek-agent, DeepSeek modelleriyle geliştirilen yapay zekâ ajanlarını (AI agents) ve bu alandaki araçları listeleyen bir kaynak derlemesi. Geliştiricilerin DeepSeek altyapısını kullanarak otonom sistemler kurmasına yardımcı olan projeleri ve entegrasyonları bir araya getiriyor.",
+          "meta": "★ 5.755 · +222 bugün"
+        },
+        {
+          "title": "rustdesk/rustdesk",
+          "url": "https://github.com/rustdesk/rustdesk",
+          "summary": "Rust ile geliştirilen RustDesk, kendi sunucunuzda barındırabileceğiniz açık kaynaklı bir uzak masaüstü uygulamasıdır. Uzaktan erişim ve kontrol imkânı sunan bu yazılım, TeamViewer gibi ücretli servislere alternatif bir çözüm oluşturur.",
+          "meta": "Rust · ★ 120.685 · +143 bugün"
+        },
+        {
+          "title": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "summary": "ToolJet, kurum içi araçlar, gösterge panelleri ve yapay zekâ ajanları geliştirmeye yarayan açık kaynaklı bir uygulama oluşturma platformu. JavaScript tabanlı bu altyapı, işletmelerin karmaşık iş akışlarını kod yazma ihtiyacını azaltarak dijitalleştirmesini sağlıyor.",
+          "meta": "JavaScript · ★ 39.148 · +132 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+          "url": "https://z.ai/blog/glm-5.3",
+          "summary": "Z.ai tarafından yayınlanan GLM-5.3, yazılım geliştirme süreçlerinde kullanılan ve siber güvenlik yetenekleri (cyber capabilities) barındıran yeni bir büyük dil modeli (large language model). Model, kod yazma ve sistem analizi gibi karmaşık görevlerde yüksek performans sergilemek üzere optimize edildi.",
+          "meta": "1.054 oy · 522 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49294997",
+              "popularity": 1054,
+              "engagementCount": 522
+            }
+          ]
+        },
+        {
+          "title": "Qwen 3.8 27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "summary": "Alibaba tarafından geliştirilen büyük dil modeli Qwen 3.8 27B, düşük hassasiyetli (FP8) veri formatıyla yüksek performanslı çıkarım sunuyor. Model, 27 milyar parametrelik yapısıyla karmaşık görevlerde verimlilik ve hız dengesini optimize etmeyi amaçlıyor.",
+          "meta": "978 oy · 629 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49299605",
+              "popularity": 978,
+              "engagementCount": 629
+            }
+          ]
+        },
+        {
+          "title": "Why does Opus 5 feel worse to work with?",
+          "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+          "summary": "Kullanıcılar, Anthropic tarafından geliştirilen büyük dil modeli (large language model) Claude 3 Opus'un güncel sürümlerinin önceki versiyonlara kıyasla daha düşük performans sergilediğini ve karmaşık görevlerde daha fazla hata yaptığını belirtiyor. Bu durum, modelin yanıt kalitesindeki değişimlerin geliştirici deneyimi üzerindeki etkilerini tartışmaya açıyor.",
+          "meta": "813 oy · 745 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49296740",
+              "popularity": 813,
+              "engagementCount": 745
+            }
+          ]
+        },
+        {
+          "title": "Firefox is now the last major browser that still supports uBlock Origin",
+          "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+          "summary": "Google Chrome, içerik engelleyici uBlock Origin gibi eklentilerin çalışmasını kısıtlayan Manifest V3 geçişini tamamladı. Firefox, bu teknoloji değişikliğine rağmen popüler reklam engelleyici uBlock Origin desteğini sürdüren tek büyük tarayıcı konumunda bulunuyor.",
+          "meta": "594 oy · 216 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49303202",
+              "popularity": 594,
+              "engagementCount": 216
+            }
+          ]
+        },
+        {
+          "title": "Seven books I keep close because I love them",
+          "url": "https://blog.plover.com/2026/08/02/",
+          "summary": "Yazılım geliştirme ve dilbilim üzerine çalışmalarıyla tanınan Mark Dominus, kişisel kütüphanesinde sürekli başvurduğu yedi temel kitabı paylaşıyor. Liste, teknik derinliği ve edebi niteliğiyle yazılım dünyasındaki profesyonellerin düşünce yapısını şekillendiren eserlere odaklanıyor.",
+          "meta": "317 oy · 141 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49299675",
+              "popularity": 317,
+              "engagementCount": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Alibaba tarafından geliştirilen Qwen2.5-27B, metin ve görsel verilerini işleyebilen çok modlu bir büyük dil modeli (large language model). Model, karmaşık görsel içerikleri analiz ederek metin tabanlı yanıtlar üretme yeteneğiyle öne çıkıyor.",
+          "meta": "♥ 9.189 · 2 indirme"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth, Qwen2.5-32B modelinin bellek kullanımını azaltan ve eğitim hızını artıran optimize edilmiş bir sürümünü (GGUF formatı) kullanıma sundu. Bu sürüm, düşük donanımlı sistemlerde bile büyük dil modellerinin (large language models) daha verimli çalışmasını sağlıyor.",
+          "meta": "♥ 887 · 0 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Maglev: Sliding Recurrent Memory",
+          "url": "https://huggingface.co/papers/2608.02870",
+          "summary": "Maglev, sabit boyutlu bellek kullanarak kayan pencereli dikkat (sliding-window attention) mekanizmasını genelleştiren yinelemeli bir dönüştürücü (recurrent Transformer) mimarisidir. Eğitim sırasında paralelleştirilebilir yapısı sayesinde, tam geçmişe erişimi olan bir ön doldurucu (prefiller) ve bir kod çözücü (decoder) modelini birleştirerek uzun bağlamları verimli şekilde işler.",
+          "meta": "3 beğeni · 2 yorum"
+        },
+        {
+          "title": "Thought-Level Beam Search for Reasoning",
+          "url": "https://huggingface.co/papers/2608.08020",
+          "summary": "Düşünce düzeyi ışın araması (thought-level beam search), büyük akıl yürütme modellerinde (large reasoning models) işlem gücünün en verimli şekilde kullanılmasına odaklanan bir yöntemdir. Bu yaklaşım, donanım kaynaklarını en umut verici çözüm yollarına yönlendirerek akıl yürütme süreçlerini optimize etmeyi hedefler.",
+          "meta": "4 beğeni · 2 yorum"
+        },
+        {
+          "title": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections",
+          "url": "https://huggingface.co/papers/2608.06914",
+          "summary": "RibAssist 3D, bilgisayarlı tomografi (CT) görüntülerinde kaburga kırıklarını tespit etmek ve üç boyutlu (3D) olarak konumlandırmak için geliştirilen bir tanı sistemidir. İki farklı açıdan alınan görüntüleri eşleştirerek kırık noktalarını yüksek doğruluk payıyla belirlemeyi amaçlar.",
+          "meta": "0 beğeni · 2 yorum"
+        },
+        {
+          "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
+          "url": "https://huggingface.co/papers/2608.13391",
+          "summary": "Bağlam eşlemeli damıtma (context-matched distillation), etkileşimli video üretiminde düşük gecikme süresi ve hassas çevrim içi kontrol sağlamak için geliştirilen bir yöntemdir. Bu teknik, öz yinelemeli (autoregressive) video modellerini eğitirken, öğrenci modellerin sadece geçmiş veriye dayalı nedensel kısıtlamalara uyum sağlamasını hedefler.",
+          "meta": "4 beğeni · 2 yorum"
+        },
+        {
+          "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
+          "url": "https://huggingface.co/papers/2608.09158",
+          "summary": "Büyük ses-dil modelleri (LALMs), insanların duyamadığı düşük frekanslı sinyalleri işleyerek çıktılarını etkileyebilir. Araştırmacılar, bu güvenlik açığını test etmek için geliştirdikleri aralıklı düşük frekanslı kilitleme (Intermittent Low-Frequency Lockout) adlı yöntemle modellerin bu sinyallere karşı savunmasızlığını ortaya koyuyor.",
+          "meta": "2 beğeni · 2 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "RISC-V: They Should Have Known Better",
+          "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+          "summary": "Açık kaynaklı işlemci mimarisi RISC-V, donanım tasarımı ve komut seti mimarisi (ISA) üzerindeki karmaşıklıklar nedeniyle eleştiriliyor. Yazılım geliştiriciler, bu mimarinin ölçeklenebilirlik ve güvenlik konularında mevcut standartlara kıyasla bazı tasarım hataları barındırdığını savunuyor.",
+          "meta": "34 oy · 23 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better",
+              "popularity": 34,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "ActivityPub Won by Being Boring",
+          "url": "https://o.ee/blog/activitypub-won-by-being-boring/",
+          "summary": "Merkeziyetsiz sosyal ağ protokolü ActivityPub, karmaşık özelliklerden kaçınarak basit ve sürdürülebilir bir yapı sunması sayesinde geniş bir kabul gördü. Bu yaklaşım, platformların birbirleriyle iletişim kurmasını sağlayan açık standartların uzun vadeli başarısında sadeliğin önemini ortaya koyuyor.",
+          "meta": "17 oy · 8 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring",
+              "popularity": 17,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "Curl Performance",
+          "url": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+          "summary": "Veri aktarım aracı curl, ağ performansını artırmak amacıyla HTTP/3 protokolü ve bağlantı yönetimi süreçlerinde optimizasyonlar gerçekleştiriyor. Bu geliştirmeler, yüksek trafikli sistemlerde gecikme sürelerini düşürerek daha verimli veri transferi sağlamayı hedefliyor.",
+          "meta": "35 oy · 6 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/avjfxw/curl_performance",
+              "popularity": 35,
+              "engagementCount": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip belirli hedeflere ulaşmak için araçları kullanan otonom yapay zekâ yazılımları."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "Yazılımı kodlamaya başlamadan önce tüm teknik gereksinimlerin ve kuralların detaylıca belirlenmesi süreci."
+    },
+    {
+      "term": "plugin specification",
+      "explanation": "Bir yazılıma dışarıdan eklenti yapabilmek için uyulması gereken teknik kurallar bütünü."
+    },
+    {
+      "term": "cyber capabilities",
+      "explanation": "Dijital sistemleri korumak veya bu sistemlere müdahale etmek için kullanılan teknik yetenekler ve araçlar."
+    },
+    {
+      "term": "large language model",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "FP8",
+      "explanation": "Yapay zekâ hesaplamalarını daha hızlı yapmak için sayıları daha az yer kaplayacak şekilde temsil eden bir veri formatı."
+    }
+  ]
+}
