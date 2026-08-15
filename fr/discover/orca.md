@@ -6,12 +6,6 @@ Développé par Stablyai, Orca propose un environnement de développement d'agen
 - TypeScript
 - GitHub Trending · 2026-06-25
 
-## Mise à jour
-- 12 août 2026 : Étoile 41 921 → 43 019, dernière version v1.4.180 (11 août 2026).
-- 11 août 2026 : Star 41.024 → 41.921, dernière version v1.4.179 (10 août 2026).
-- 10 août 2026 : Star 40 329 → 41 024, dernière version v1.4.178 (10 août 2026).
-- 9 août 2026 : Étoile 39 609 → 40 329, dernière version v1.4.177 (8 août 2026).
-
 ## Ce que ça vous apporte
 - Exécutez simultanément plusieurs agents IA dans différents espaces de travail.
 - Surveillez et dirigez vos agents à distance via l'application mobile.

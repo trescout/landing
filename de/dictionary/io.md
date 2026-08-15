@@ -23,5 +23,8 @@ Auch wenn der Prozessor sehr schnell arbeitet, muss das System warten, wenn die 
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 - [Streaming Applications](/de/dictionary/streaming-applications/)
 
+## Verwandte Werkzeuge
+- [Asio](/de/discover/asio/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/io/

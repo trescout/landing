@@ -5,9 +5,6 @@ GLM-5 offre un cadre qui vise à faire passer les processus de développement lo
 - ★ 6 864
 - GitHub Trending · 2026-06-19
 
-## Mise à jour
-- 2 août 2026 : Étoile 4 301 → 6 864.
-
 ## Ce que ça vous apporte
 - Fonctionnement ininterrompu à long terme avec une capacité de 1 million de jetons
 - Planification autonome dans des tâches d'ingénierie logicielle complexes

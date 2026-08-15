@@ -6,10 +6,6 @@ Chat2DB stands out as an artificial intelligence-supported database management t
 - Java
 - GitHub Trending · 2026-07-25
 
-## Update
-- August 6, 2026: Star 27,604 → 27,657, latest version v5.3.3 (August 6, 2026).
-- August 2, 2026: Star 26,409 → 27,604, latest version v5.3.2 (July 28, 2026).
-
 ## What you get
 - Support for more than 30 databases
 - Create and explain SQL with natural language

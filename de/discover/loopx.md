@@ -6,11 +6,6 @@ Loopx ist ein leichtgewichtiger Zustandskernel, der für Langzeitagententeams mi
 - Python
 - GitHub Trending · 2026-08-06
 
-## Aktualisieren
-- 9. August 2026: Star 3.035 → 3.609, neueste Version v0.4.4 (9. August 2026).
-- 7. August 2026: Star 2.399 → 3.035, neueste Version v0.4.2 (6. August 2026).
-- 6. August 2026: Star 2.385 → 2.399, neueste Version v0.4.1 (4. August 2026).
-
 ## Was es bringt
 - Standardisiert die Zielverfolgung und Quotenverwaltung bei Langzeitmissionen.
 - Es ermöglicht eine nachweisbare Arbeitsübergabe zwischen verschiedenen KI-Agenten.

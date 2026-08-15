@@ -6,9 +6,6 @@ Developed by OpenAI, the Codex plugin is used on Claude Code to automate code re
 - JavaScript
 - GitHub Trending · 2026-07-03
 
-## Update
-- August 2, 2026: Star 22,800 → 30,950, latest version v1.0.6 (July 8, 2026).
-
 ## What you get
 - Automates code review processes
 - Delegates tasks to the Codex model

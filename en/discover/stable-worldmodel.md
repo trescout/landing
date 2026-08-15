@@ -7,13 +7,24 @@ stable-worldmodel; It is a platform that ensures that research on 'world models'
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
 
-## Update
-- August 2, 2026: Star 1,403 → 2,080, last version 0.1.1 (June 6, 2026).
-
 ## What does it do?
 - Making research reproducible.
 - Providing a standard assessment environment.
 - Not an end user tool, but a direct solution for research.
+
+## How to install, how to use?
+**Install from PyPI (all plugins)**
+
+```
+pip install 'stable-worldmodel[all]'
+```
+
+**List cached datasets**
+
+```
+swm datasets
+```
+
 
 ## Related dictionary terms
 

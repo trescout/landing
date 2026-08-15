@@ -6,9 +6,6 @@ spdlog ist eine sehr schnelle Protokollierungsbibliothek, die für die Programmi
 - C++
 - GitHub Trending · 2026-08-05
 
-## Aktualisieren
-- 6. August 2026: Star 29.402 → 29.437, neueste Version v1.17.0 (4. Januar 2026).
-
 ## Was es bringt
 - Hochleistungsfähiges Protokollierungsmanagement
 - Ausgabe an verschiedene Ziele wie Datei, Konsole und Debugger

@@ -6,9 +6,6 @@ SimpleX propose une infrastructure de communication axée sur la confidentialit�
 - Haskell
 - GitHub Trending · 2026-06-27
 
-## Mise à jour
-- 2 août 2026 : Star 12 874 → 19 164, dernière version v7.0.0 (28 juillet 2026).
-
 ## Ce que ça vous apporte
 - Communication anonyme sans identifiant d'utilisateur
 - Chiffrement double couche de bout en bout

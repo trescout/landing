@@ -6,10 +6,6 @@ OpenClaw oferece um conjunto de gerenciamento integrado no sistema operacional W
 - C#
 - GitHub Trending · 2026-06-05
 
-## Atualizar
-- 11 de agosto de 2026: Star 2.018 → 2.040, versão mais recente v2026.7.1 (11 de agosto de 2026).
-- 2 de agosto de 2026: Star 1.432 → 2.018, versão mais recente v0.6.12 (30 de junho de 2026).
-
 ## O que você ganha
 - Fornece acesso rápido ao assistente de inteligência artificial OpenClaw através da bandeja do sistema.
 - Oferece gateway local e gerenciamento de conexão no Windows.

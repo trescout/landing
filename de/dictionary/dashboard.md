@@ -26,5 +26,8 @@ Ja, Sie können Ihre eigenen Daten mit einfachen Tools visualisieren.
 - [Global Intelligence Dashboard](/de/dictionary/global-intelligence-dashboard/)
 - [Observability](/de/dictionary/observability/)
 
+## Verwandte Werkzeuge
+- [Worldmonitor](/de/discover/worldmonitor/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/dashboard/

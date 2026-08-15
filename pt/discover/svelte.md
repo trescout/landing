@@ -5,9 +5,6 @@ Ao contrário dos frameworks tradicionais, o Svelte usa uma abordagem de tempo d
 - ★ 87.724
 - GitHub Trending · 2026-06-07
 
-## Atualizar
-- 2 de agosto de 2026: Star 87.060 → 87.724, última versão svelte@5.56.8 (24 de julho de 2026).
-
 ## O que você ganha
 - Reduz a carga do tempo de execução no navegador
 - Converte códigos em módulos JavaScript de execução rápida

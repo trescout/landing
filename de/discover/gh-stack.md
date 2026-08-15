@@ -6,9 +6,6 @@ gh-stack wurde von GitHub entwickelt und ist ein Befehlszeilentool, das die Erst
 - Go
 - GitHub Trending · 2026-08-02
 
-## Aktualisieren
-- 2. August 2026: Star 860 → 911, neueste Version v0.1.0 (29. Juli 2026).
-
 ## Was es bringt
 - Zerlegt große Codeänderungen in kleine und überschaubare Teile
 - Organisiert automatisch Abhängigkeiten zwischen Pull-Anfragen

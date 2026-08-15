@@ -13,7 +13,6 @@ Oferecendo um currículo gratuito e de autoaprendizagem na área de ciência da 
 
 ## Como começar
 - Fonte oficial →
-Para começar com este currículo, basta visitar o site oficial do OSSU CS ou o repositório GitHub. Você pode revisar os cursos no site, criar seu plano de estudos e interagir com outros alunos ingressando na comunidade Discord.
 
 ## Termos relacionados do glossário
 

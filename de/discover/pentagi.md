@@ -6,9 +6,6 @@ Pentagi wurde mit der Go-Sprache entwickelt und bietet ein System vollständig a
 - Go
 - GitHub Trending · 2026-07-10
 
-## Aktualisieren
-- 2. August 2026: Star 19.634 → 21.475, neueste Version v2.1.0 (29. Mai 2026).
-
 ## Was es bringt
 - Vollständig autonome Sicherheitstests in einer Sandboxed Docker-Umgebung
 - Unterstützung für mehr als 20 professionelle Tools wie Nmap und SQLmap

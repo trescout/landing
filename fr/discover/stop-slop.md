@@ -7,16 +7,16 @@ Les textes produits avec l’intelligence artificielle contiennent souvent des e
 - MIT
 - GitHub Trending · 26 May 2026
 
-## Mise à jour
-- 1er août 2026 : Étoile 4 876 → 14 843.
-
 ## Ce que ça vous apporte
 - Les textes sont lus plus naturellement, les clichés et les répétitions sont réduits.
 - Il peut être enseigné à n'importe quel LLM (sans se limiter à Claude).
 - Cela réduit le sentiment d’être écrit par l’intelligence artificielle dans la production de contenu.
 
 ## Comment utiliser ?
-Vous donnez SKILL.md comme compétence à votre assistant IA, puis transmettez le texte selon ces règles :
+- Corrigez ce texte selon les règles Stop Slop, effacez les modèles d'IA.
+
+## Comment installer, comment utiliser ?
+Téléchargez ce référentiel (https://github.com/hardikpandya/stop-slop) et ajoutez la compétence stop-slop en tant que compétence à Claude Code ; Utilisez ensuite cette compétence pour nettoyer les clichés spécifiques à l'IA des textes que j'écris.
 
 ## Termes liés du glossaire
 

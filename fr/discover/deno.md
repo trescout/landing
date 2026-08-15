@@ -6,10 +6,6 @@ Deno est un environnement d'exécution moderne conçu pour les langages JavaScri
 - Rust
 - GitHub Trending · 2026-08-05
 
-## Mise à jour
-- 7 août 2026 : Star 108 166 → 108 181, dernière version v2.9.5 (6 août 2026).
-- 6 août 2026 : Star 108 091 → 108 166, dernière version v2.9.4 (23 juillet 2026).
-
 ## Ce que ça vous apporte
 - Il exécute en toute sécurité les langages JavaScript, TypeScript et WebAssembly.
 - Il offre de hautes performances avec son moteur V8 et son langage Rust.

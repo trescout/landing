@@ -6,9 +6,6 @@ Las plantillas de Claude Code proporcionan una interfaz de línea de comandos (C
 - Python
 - GitHub Trending · 2026-07-11
 
-## Actualizar
-- 2 de agosto de 2026: Star 28,812 → 30,058, última versión v1.28.3 (15 de noviembre de 2025).
-
 ## Qué aporta
 - Más de cien agentes de IA listos para usar y acceso a comandos
 - Rápida integración y gestión de enlaces para servicios externos.

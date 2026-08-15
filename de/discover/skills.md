@@ -6,11 +6,6 @@ Die von Google entwickelte Kompetenzbibliothek bietet Python-basierte Tools, die
 - Python
 - GitHub Trending · 2026-06-09
 
-## Aktualisieren
-- 11. August 2026: Stern 16.451 → 17.658.
-- 8. August 2026: Stern 15.389 → 16.451.
-- 2. August 2026: Stern 12.675 → 15.389.
-
 ## Was es bringt
 - Es gibt Agenten der künstlichen Intelligenz die Möglichkeit, mit Google-Produkten zu interagieren.
 - Bietet standardisierte Tools für Google Cloud-Dienste.

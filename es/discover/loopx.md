@@ -6,11 +6,6 @@ Loopx es un núcleo de estado liviano desarrollado para equipos de agentes de in
 - Python
 - GitHub Trending · 2026-08-06
 
-## Actualizar
-- 9 de agosto de 2026: Star 3035 → 3609, última versión v0.4.4 (9 de agosto de 2026).
-- 7 de agosto de 2026: Star 2399 → 3035, última versión v0.4.2 (6 de agosto de 2026).
-- 6 de agosto de 2026: Star 2385 → 2399, última versión v0.4.1 (4 de agosto de 2026).
-
 ## Qué aporta
 - Estandariza el seguimiento de objetivos y la gestión de cuotas en misiones de larga duración.
 - Permite un traspaso verificable de trabajo entre diferentes agentes de IA.

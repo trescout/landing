@@ -27,5 +27,8 @@ Es werden nur Informationen gespeichert, die das System speichern darf oder die 
 - [Memory Engine](/de/dictionary/memory-engine/)
 - [Context Window](/de/dictionary/context-window/)
 
+## Verwandte Werkzeuge
+- [Mempalace](/de/discover/mempalace/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/memory-system/

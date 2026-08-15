@@ -6,9 +6,6 @@ Desenvolvido pela Moonshot AI, Kimi CLI é um agente de inteligência artificial
 - Python
 - GitHub Trending · 2026-07-19
 
-## Atualizar
-- 2 de agosto de 2026: Star 9.577 → 11.074, última versão 1.49.0 (16 de julho de 2026).
-
 ## O que você ganha
 - Capacidade de ler e editar código
 - Executando comandos via terminal

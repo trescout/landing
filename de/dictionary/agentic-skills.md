@@ -28,5 +28,8 @@ Ja, Modelle der künstlichen Intelligenz können diese Fähigkeiten durch spezie
 - [AI Agent Skill](/de/dictionary/ai-agent-skill/)
 - [Agentic AI](/de/dictionary/agentic-ai/)
 
+## Verwandte Werkzeuge
+- [Pm Skills](/de/discover/pm-skills/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agentic-skills/

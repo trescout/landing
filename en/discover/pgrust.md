@@ -6,9 +6,6 @@ The pgrust project, in which the PostgreSQL database management system was rewri
 - Rust
 - GitHub Trending · 2026-07-12
 
-## Update
-- August 2, 2026: Star 2,171 → 3,957, final version v0.2-release (July 30, 2026).
-
 ## What you get
 - Disk compatibility with Postgres 18.3
 - More than 46 thousand regression test successes

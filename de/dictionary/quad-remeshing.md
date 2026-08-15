@@ -24,5 +24,8 @@ Rechteckige Strukturen führen zu viel natürlicheren Ergebnissen bei der Biegun
 - [Computer Vision](/de/dictionary/computer-vision/)
 - [Design Tool](/de/dictionary/design-tool/)
 
+## Verwandte Werkzeuge
+- [Autoremesher](/de/discover/autoremesher/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/quad-remeshing/

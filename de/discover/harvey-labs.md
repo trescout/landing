@@ -13,7 +13,6 @@ Harvey Labs ist ein Benchmarking-Tool zur Messung und Verbesserung der Fähigkei
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Schauen Sie sich zunächst die Datei docs/tutorial.md in der Dokumentation auf der GitHub-Seite an. Dieser Leitfaden führt Sie durch die End-to-End-Verwaltung einer M&A-Datenraummission, von der Einrichtung bis zur Berichtsprüfung.
 
 ## Verwandte Begriffe aus dem Glossar
 

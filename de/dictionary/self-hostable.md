@@ -28,5 +28,8 @@ Ja, für Installations- und Wartungsprozesse sind möglicherweise grundlegende S
 - [Personal Cloud](/de/dictionary/personal-cloud/)
 - [Open Source](/de/dictionary/open-source/)
 
+## Verwandte Werkzeuge
+- [Karakeep](/de/discover/karakeep/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/self-hostable/

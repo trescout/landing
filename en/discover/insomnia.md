@@ -6,9 +6,6 @@ Insomnia is an open source application programming interface (API) client that s
 - TypeScript
 - GitHub Trending · 2026-06-19
 
-## Update
-- August 2, 2026: Star 38,771 → 39,916, last version core@13.1.0 (July 24, 2026).
-
 ## What you get
 - Support for debugging popular protocols such as GraphQL, REST and gRPC
 - Flexible local, Git or cloud-based storage options
@@ -30,7 +27,6 @@ sudo snap install insomnia
 
 ## Getting started
 - Official source →
-To start using Insomnia, you can go to the official website https://insomnia.rest and download and run the installation file suitable for your operating system. You can start using the app with its native Scratch Pad feature without creating an account, or create a free account for more features.
 
 ## Related dictionary terms
 

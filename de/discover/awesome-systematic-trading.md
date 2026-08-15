@@ -6,9 +6,6 @@ Diese Liste, die Bibliotheken, Strategien und Bildungsressourcen im Bereich des 
 - Python
 - GitHub Trending · 2026-07-29
 
-## Aktualisieren
-- 2. August 2026: Stern 9.886 → 12.499.
-
 ## Was es bringt
 - 97 Handelsbibliotheken und Pakete
 - Mehr als 40 Unternehmens- und akademische Strategien
@@ -16,7 +13,6 @@ Diese Liste, die Bibliotheken, Strategien und Bildungsressourcen im Bereich des 
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Für dieses Tool ist keine Softwareinstallation erforderlich. Es handelt sich um einen umfassenden Leitfaden, der die Bibliotheken, Bücher und Bildungsressourcen zusammenstellt, die zur Entwicklung systematischer Handelsstrategien erforderlich sind. Wenn Sie sich die Titel auf der GitHub-Seite ansehen, können Sie auf die Kategorien klicken, die Sie interessieren (Backtesting, Datenanalyse, Strategien usw.) und auf die relevanten Ressourcen zugreifen.
 
 ## Verwandte Begriffe aus dem Glossar
 

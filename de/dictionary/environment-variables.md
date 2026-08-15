@@ -24,5 +24,8 @@ Um zu verhindern, dass Ihre Passwörter gefährdet werden, wenn Sie Ihren Code w
 - [Runtime](/de/dictionary/runtime/)
 - [API](/de/dictionary/api/)
 
+## Verwandte Werkzeuge
+- [Mise](/de/discover/mise/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/environment-variables/

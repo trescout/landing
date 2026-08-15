@@ -6,11 +6,6 @@ Jenkins is an open source continuous integration and continuous delivery server 
 - Java
 - GitHub Trending · 2026-07-27
 
-## Update
-- 12 August 2026: Star 26,422 → 26,444, last version jenkins-2,577 (11 August 2026).
-- 6 August 2026: Star 26,390 → 26,422, last version jenkins-2,576 (5 August 2026).
-- 2 August 2026: Star 25,763 → 26,390, last version jenkins-2,575 (28 July 2026).
-
 ## What you get
 - Automates the compilation and testing processes of software projects
 - Offers the opportunity to customize processes with extensive plug-in support
@@ -40,7 +35,6 @@ docker run -p 8080:8080 -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts
 
 ## Getting started
 - Official source →
-You can go to the download page on the official website, jenkins.io, select the WAR file, Docker image or one of the local packages suitable for your platform and follow the installation steps.
 
 ## Related dictionary terms
 

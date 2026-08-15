@@ -6,10 +6,6 @@ Prisma es una herramienta de mapeo relacional de objetos (ORM) que simplifica la
 - TypeScript
 - GitHub Trending · 2026-07-09
 
-## Actualizar
-- 6 de agosto de 2026: Star 47,427 → 47,540, última versión v0.17.0 (4 de agosto de 2026).
-- 2 de agosto de 2026: Estrella 46,668 → 47,427, última versión 7.9.1 (27 de julio de 2026).
-
 ## Qué aporta
 - Crear consultas de bases de datos con seguridad de tipos
 - Modelado y migración de datos declarativos

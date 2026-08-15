@@ -23,6 +23,8 @@ Normalerweise ist eine leistungsstarke Grafikkarte oder Serverhardware mit hoher
 
 
 ## Verwandte Begriffe
+- [Open Source](/de/dictionary/open-source/)
+- [Self-hosting](/de/dictionary/self-hosting/)
 - [Fine-tuning](/de/dictionary/fine-tuning/)
 
 ---

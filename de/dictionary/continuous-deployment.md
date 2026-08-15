@@ -26,5 +26,8 @@ Das System versucht dank automatischer Tests, den Fehler zu erkennen, bevor es i
 - [Deployment](/de/dictionary/deployment/)
 - [QA](/de/dictionary/qa/)
 
+## Verwandte Werkzeuge
+- [Argo Cd](/de/discover/argo-cd/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/continuous-deployment/

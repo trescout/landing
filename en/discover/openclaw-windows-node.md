@@ -6,10 +6,6 @@ OpenClaw offers an integrated management suite on the Windows operating system t
 - C#
 - GitHub Trending · 2026-06-05
 
-## Update
-- August 11, 2026: Star 2.018 → 2.040, latest version v2026.7.1 (August 11, 2026).
-- 2 August 2026: Star 1.432 → 2.018, latest version v0.6.12 (30 June 2026).
-
 ## What you get
 - Provides quick access to the OpenClaw artificial intelligence assistant via the system tray.
 - It offers local gateway and connection management on Windows.

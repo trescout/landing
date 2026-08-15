@@ -5,9 +5,6 @@ Developed with the Rust language, SWC offers a fast compilation and bundling pla
 - ★ 34,160
 - GitHub Trending · 2026-06-14
 
-## Update
-- August 2, 2026: Star 33,681 → 34,160, last version v1.15.47 (July 29, 2026).
-
 ## What you get
 - Processes JavaScript and TypeScript files at high speed
 - Provides high-performance infrastructure developed with Rust language

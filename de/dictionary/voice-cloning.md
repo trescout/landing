@@ -24,6 +24,13 @@ Moderne Modelle können bereits mit wenigen Sekunden sauberer Aufnahme sehr gute
 
 ## Verwandte Begriffe
 - [Text-to-Speech](/de/dictionary/text-to-speech/)
+- [Speech Synthesis](/de/dictionary/speech-synthesis/)
+- [AI Skills](/de/dictionary/ai-skills/)
+
+## Verwandte Werkzeuge
+- [Voicebox](/de/discover/voicebox/)
+- [VoxCPM](/de/discover/voxcpm/)
+- [Voice Pro](/de/discover/voice-pro/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/voice-cloning/

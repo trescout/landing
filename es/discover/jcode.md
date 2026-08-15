@@ -6,12 +6,6 @@ Desarrollado con el lenguaje Rust, jcode ofrece un marco para probar y evaluar a
 - Rust
 - GitHub Trending · 2026-06-21
 
-## Actualizar
-- 12 de agosto de 2026: Star 16.663 → 17.227, última versión v0.75.3 (11 de agosto de 2026).
-- 10 de agosto de 2026: Star 16.653 → 16.663, última versión v0.75.0 (10 de agosto de 2026).
-- 10 de agosto de 2026: Star 16.505 → 16.653, última versión v0.74.0 (10 de agosto de 2026).
-- 9 de agosto de 2026: Star 16,378 → 16,505, última versión v0.72.0 (8 de agosto de 2026).
-
 ## Qué aporta
 - Alta eficiencia de recursos en flujos de trabajo de múltiples sesiones
 - Bajo uso de memoria y tiempo de inicio rápido

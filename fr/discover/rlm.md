@@ -6,9 +6,6 @@ Développé pour les modèles de langage récursifs, rlm est une bibliothèque d
 - Python
 - GitHub Trending · 2026-06-18
 
-## Mise à jour
-- 2 août 2026 : Étoile 4 987 → 5 343, dernière version v0.1.3 (26 juin 2026).
-
 ## Ce que ça vous apporte
 - Gestion de contexte de longueur infinie
 - Architecture plug-and-play fonctionnant dans un environnement de code

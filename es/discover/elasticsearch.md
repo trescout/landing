@@ -6,11 +6,6 @@ Desarrollado con Java, Elasticsearch es un motor de búsqueda distribuido y de c
 - Java
 - GitHub Trending · 2026-07-04
 
-## Actualizar
-- 12 de agosto de 2026: Star 77,787 → 77,837, última versión v9.5.1 (11 de agosto de 2026).
-- 6 de agosto de 2026: Star 77,640 → 77,787, última versión v9.5.0 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 77,374 → 77,640, última versión v9.4.4 (21 de julio de 2026).
-
 ## Qué aporta
 - Búsqueda y análisis rápidos de grandes conjuntos de datos.
 - Integración con búsqueda de vectores y aplicaciones de IA.
@@ -40,7 +35,6 @@ docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elas
 
 ## Cómo empezar
 - Fuente oficial →
-La forma más sencilla de comenzar con Elasticsearch es crear una implementación administrada a través de Elastic Cloud. Alternativamente, si desea administrar su propia instalación, puede visitar la página de descarga en el sitio web oficial o revisar los scripts de inicio basados ​​en Docker disponibles para entornos de desarrollo locales.
 
 ## Términos relacionados del glosario
 

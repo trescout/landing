@@ -23,7 +23,10 @@ Nein, im Gegenteil, es wird zu einer wichtigeren Fähigkeit für die Verwaltung 
 
 
 ## Verwandte Begriffe
+- [Few-shot Learning](/de/dictionary/few-shot-learning/)
+- [Zero-shot Learning](/de/dictionary/zero-shot-learning/)
 - [LLM](/de/dictionary/llm/)
+- [AI Skills](/de/dictionary/ai-skills/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/prompt-engineering/

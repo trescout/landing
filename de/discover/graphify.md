@@ -6,12 +6,6 @@ Graphify wandelt verschiedene Arten von Daten wie Codedateien, Datenbankschemata
 - Python
 - GitHub Trending · 2026-07-14
 
-## Aktualisieren
-- 12. August 2026: Star 105.050 → 105.395, neueste Version v0.9.40 (11. August 2026).
-- 11. August 2026: Star 104.693 → 105.050, neueste Version v0.9.39 (10. August 2026).
-- 10. August 2026: Star 104.401 → 104.693, neueste Version v0.9.38 (9. August 2026).
-- 9. August 2026: Star 104.008 → 104.401, neueste Version v0.9.37 (8. August 2026).
-
 ## Was es bringt
 - Der Code verwandelt Ihre Dateien und Dokumente in ein abfragbares Informationsnetzwerk.
 - Es nutzt native und schnelle Tree-Sitter-Technologie zur Code-Analyse.

@@ -5,9 +5,6 @@ This Python-based tool that automates Bilibili membership purchasing processes i
 - ★ 4,173
 - GitHub Trending · 2026-06-22
 
-## Update
-- August 2, 2026: Star 3,782 → 4,173, latest version v2.15.16 (July 4, 2026).
-
 ## What you get
 - Automates ticket purchases via Bilibili
 - Increases the speed of capturing limited stock products

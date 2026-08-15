@@ -6,9 +6,6 @@ Developed by TencentCloud in Rust, CubeSandbox offers an instant, simultaneous a
 - Rust
 - GitHub Trending · 2026-07-02
 
-## Update
-- August 2, 2026: Star 6,927 → 10,828, latest version v0.6.0 (July 24, 2026).
-
 ## What you get
 - Fast startup in under 60 milliseconds
 - safe area isolated at hardware level
@@ -24,7 +21,6 @@ pip install cubesandbox
 
 ## Getting started
 - Official source →
-For installation and usage details, you can review the Quick Start guide in the documentation section of the GitHub repository. To access the web interface, simply visit http://<control-node IP>:12088 from your browser after installation.
 
 ## Related dictionary terms
 

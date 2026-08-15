@@ -6,9 +6,6 @@ gRPC ist ein Open-Source-Framework für Remote-Prozeduraufrufe, das eine leistun
 - C++
 - GitHub Trending · 2026-07-11
 
-## Aktualisieren
-- 2. August 2026: Star 45.162 → 45.240, neueste Version v1.83.0 (22. Juli 2026).
-
 ## Was es bringt
 - Ermöglicht den Datenaustausch zwischen verschiedenen Programmiersprachen
 - Hilft bei der Entwicklung leistungsstarker Netzwerkdienste
@@ -24,7 +21,6 @@ brew install grpc
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Um mit der Nutzung von gRPC zu beginnen, müssen Sie zunächst die offizielle Website unter grpc.io besuchen. Sie können die für Ihr Projekt geeigneten Installationsschritte befolgen, indem Sie die Schnellstartanleitungen und Tutorials speziell für die von Ihnen verwendete Programmiersprache im Dokumentationsabschnitt hier lesen.
 
 ## Links
 - GitHub-Repository →

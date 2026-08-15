@@ -6,9 +6,6 @@ Claude Code templates provide a command line interface (CLI) for the Claude Code
 - Python
 - GitHub Trending · 2026-07-11
 
-## Update
-- August 2, 2026: Star 28,812 → 30,058, latest version v1.28.3 (November 15, 2025).
-
 ## What you get
 - More than a hundred ready-made AI agents and command access
 - Fast integration and hook management for external services

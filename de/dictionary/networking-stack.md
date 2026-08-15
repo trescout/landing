@@ -24,5 +24,8 @@ Denn die Aufteilung eines komplexen Prozesses in Teile macht es viel einfacher, 
 - [Proxy](/de/dictionary/proxy/)
 - [VPN](/de/dictionary/vpn/)
 
+## Verwandte Werkzeuge
+- [Iroh](/de/discover/iroh/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/networking-stack/

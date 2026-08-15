@@ -24,5 +24,8 @@ Um die Codequalität zu überprüfen, Dateien zu optimieren und eine automatisch
 - [Continuous Integration](/de/dictionary/continuous-integration/)
 - [Script](/de/dictionary/script/)
 
+## Verwandte Werkzeuge
+- [Mise](/de/discover/mise/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/task-runner/

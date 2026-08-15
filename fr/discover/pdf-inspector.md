@@ -6,12 +6,6 @@ PDF Inspector, développé par Firecrawl, est une bibliothèque Rust rapide con�
 - Rust
 - GitHub Trending · 2026-08-04
 
-## Mise à jour
-- 11 août 2026 : Star 14.048 → 14.452, dernière version packages-2026-08-10 (10 août 2026).
-- 10 août 2026 : Étoile 13 019 → 14 048.
-- 7 août 2026 : Étoile 11 746 → 13 019.
-- 6 août 2026 : Étoile 8 766 → 11 746.
-
 ## Ce que ça vous apporte
 - Classifie les fichiers PDF en quelques secondes
 - Convertit les textes au format Markdown sans erreurs

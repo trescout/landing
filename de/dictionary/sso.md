@@ -29,5 +29,9 @@ Nein, die Anwendung muss für die Unterstützung dieses Protokolls konfiguriert 
 - [API](/de/dictionary/api/)
 - [Security Scanner](/de/dictionary/security-scanner/)
 
+## Verwandte Werkzeuge
+- [Logto](/de/discover/logto/)
+- [TREK](/de/discover/trek/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/sso/

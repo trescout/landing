@@ -7,9 +7,6 @@ FreeDomain offers free domain name service so anyone can have a digital identity
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
 
-## Update
-- August 2, 2026: Star 166,947 → 190,061.
-
 ## What you get
 - A free and unique domain name.
 - Full compatibility with your own DNS provider (Cloudflare etc.).
@@ -18,6 +15,9 @@ FreeDomain offers free domain name service so anyone can have a digital identity
 
 ## How to get it?
 You apply with the directive in the repo: you select the domain, connect it to your DNS. Step-by-step guide is on the GitHub page.
+
+## How to use it with AI?
+DigitalPlat FreeDomain is a free domain name service, not software to install. Go to https://dash.domain.digitalplat.org/ and guide me step by step to register a free domain name from extensions like .dpdns.org, .us.kg, .qzz.io and tell me how to connect it with Cloudflare DNS.
 
 ## Related dictionary terms
 

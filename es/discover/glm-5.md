@@ -5,9 +5,6 @@ GLM-5 ofrece un marco que tiene como objetivo mover los procesos de desarrollo d
 - ★ 6.864
 - GitHub Trending · 2026-06-19
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 4.301 → 6.864.
-
 ## Qué aporta
 - Operación ininterrumpida a largo plazo con capacidad de 1 millón de tokens
 - Planificación autónoma en tareas complejas de ingeniería de software.

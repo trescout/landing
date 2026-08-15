@@ -29,5 +29,8 @@ Es kann die mentale Belastung reduzieren, indem es komplexe Aufgaben in Listen a
 - [Personal AI Infrastructure](/de/dictionary/personal-ai-infrastructure/)
 - [AI Skills](/de/dictionary/ai-skills/)
 
+## Verwandte Werkzeuge
+- [I Have Adhd](/de/discover/i-have-adhd/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/adhd/

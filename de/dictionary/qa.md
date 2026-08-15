@@ -27,5 +27,8 @@ Dazu werden die Ausgaben des Modells überprüft, Halluzinationen getestet und �
 - [Testing Framework](/de/dictionary/testing-framework/)
 - [Benchmarks](/de/dictionary/benchmark/)
 
+## Verwandte Werkzeuge
+- [Gstack](/de/discover/gstack/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/qa/

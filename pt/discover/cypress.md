@@ -6,11 +6,6 @@ Cypress é uma estrutura de automação que acelera e facilita processos de test
 - TypeScript
 - GitHub Trending · 2026-06-15
 
-## Atualizar
-- 11 de agosto de 2026: Star 50.916 → 50.941, versão mais recente v15.20.1 (10 de agosto de 2026).
-- 6 de agosto de 2026: Star 50.646 → 50.916, versão mais recente v15.20.0 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 49.912 → 50.646, versão mais recente v15.19.0 (21 de julho de 2026).
-
 ## O que você ganha
 - Ele fornece processos de teste rápido para aplicativos executados no navegador.
 - Ele oferece ferramentas simplificadas para depuração e gerenciamento de testes.

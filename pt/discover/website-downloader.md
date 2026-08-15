@@ -13,7 +13,6 @@ O downloader de sites, desenvolvido por AhmadIbrahiim, permite baixar todos os c
 
 ## Como começar
 - Fonte oficial →
-Para começar a usar a ferramenta, baixe os códigos da página do GitHub para o seu computador. Em seguida, acesse a pasta do projeto através do terminal, instale as dependências necessárias e inicie a aplicação. Após a execução do aplicativo, você pode iniciar o download acessando seu endereço local por meio do navegador.
 
 ## Termos relacionados do glossário
 

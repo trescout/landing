@@ -5,9 +5,6 @@ A Zhangxuefeng-skill oferece um sistema operacional cognitivo estruturado para p
 - ★ 10.048
 - GitHub Trending · 2026-06-12
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 8.114 → 10.048.
-
 ## O que você ganha
 - Analisa decisões complexas de carreira e educação por meio da estrutura cognitiva de 张雪峰.
 - Oferece recomendações concretas centradas nos dados de emprego e na realidade social.

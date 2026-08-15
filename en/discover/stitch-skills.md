@@ -6,9 +6,6 @@ Developed by Google Labs, Stitch Skills is an agent skills library designed to w
 - TypeScript
 - GitHub Trending · 2026-07-11
 
-## Update
-- August 2, 2026: Star 6,814 → 7,892, final version v1.0 (May 18, 2026).
-
 ## What you get
 - Standardized workflow between code and design
 - Automatic React and React Native component generation

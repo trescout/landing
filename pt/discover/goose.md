@@ -6,9 +6,6 @@ Goose é um agente de IA de código aberto que vai além das sugestões de códi
 - Rust
 - GitHub Trending · 2026-06-08
 
-## Atualizar
-- 2 de agosto de 2026: Star 47.753 → 52.110, versão mais recente v1.45.0 (29 de julho de 2026).
-
 ## O que você ganha
 - Ele automatiza os processos de instalação, execução e teste de software.
 - Funciona integrado com mais de 15 provedores de inteligência artificial.

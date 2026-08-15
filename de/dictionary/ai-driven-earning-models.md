@@ -26,5 +26,8 @@ Da sich künstliche Intelligenz ständig weiterentwickelt, müssen Geschäftsmod
 - [AI Skills](/de/dictionary/ai-skills/)
 - [Enterprise Resource Planning](/de/dictionary/enterprise-resource-planning/)
 
+## Verwandte Werkzeuge
+- [AiToEarn](/de/discover/aitoearn/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-driven-earning-models/

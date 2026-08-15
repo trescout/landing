@@ -26,5 +26,8 @@ Das KI-Modell wird zu langsam oder funktioniert nicht mehr mit der Fehlermeldung
 - [Local](/de/dictionary/local/)
 - [AI Models](/de/dictionary/ai-models/)
 
+## Verwandte Werkzeuge
+- [Airllm](/de/discover/airllm/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/vram/

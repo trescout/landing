@@ -6,10 +6,6 @@ O LMCache oferece uma camada que aumenta a velocidade de inferência otimizando 
 - Python
 - GitHub Trending · 2026-06-13
 
-## Atualizar
-- 6 de agosto de 2026: Star 10.985 → 11.038, versão mais recente v0.5.3 (5 de agosto de 2026).
-- 2 de agosto de 2026: Star 8.698 → 10.985, versão mais recente do operador-v0.5.1 (23 de julho de 2026).
-
 ## O que você ganha
 - Ele encurta o tempo do primeiro token, aumentando a velocidade de inferência em grandes modelos de linguagem.
 - Reduz a carga computacional otimizando o uso da memória.

@@ -7,13 +7,18 @@ Crawl4AI; es un rastreador y raspador web de código abierto optimizado para mod
 - Apache-2.0
 - GitHub Trending · 29 May 2026
 
-## Actualizar
-- 2 de agosto de 2026: Star 67,194 → 75,853, última versión v0.9.2 (15 de julio de 2026).
-
 ## Qué aporta
 - Convierte el contenido web a un formato limpio y compatible con la IA.
 - Especialmente optimizado para procesos LLM.
 - Es rápido y de código abierto.
+
+## Instalación (comando único)
+**Pitón (pip)**
+
+```
+pip install crawl4ai
+```
+
 
 ## Términos relacionados del glosario
 

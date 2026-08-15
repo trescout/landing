@@ -6,9 +6,6 @@ LobeHub ermöglicht den Aufbau eines KI-Teams, das 24 Stunden am Tag, 7 Tage die
 - TypeScript
 - GitHub Trending · 2026-07-17
 
-## Aktualisieren
-- 2. August 2026: Star 80.291 → 81.117, neueste Version v2.2.13 (1. August 2026).
-
 ## Was es bringt
 - Verwaltung aller Agenten der künstlichen Intelligenz von einem einzigen Zentrum aus
 - Agentenübergreifende Zusammenarbeit und Aufgabenverteilung
@@ -38,7 +35,6 @@ docker compose up -d
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Um mit der Nutzung von LobeHub zu beginnen, können Sie die offizielle Website besuchen oder die Installationsoptionen mit Vercel, Zeabur, Sealos, Alibaba Cloud oder Docker im Abschnitt „Self Hosting“ im GitHub-Repository überprüfen. Für detaillierte Informationen und aktuelle Dokumentation werfen Sie einfach einen Blick auf die offizielle Dokumentseite des Projekts.
 
 ## Verwandte Begriffe aus dem Glossar
 

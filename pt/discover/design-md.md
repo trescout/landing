@@ -6,9 +6,6 @@ Desenvolvido pelo Google Labs, DESIGN.md fornece uma especificação de formato 
 - TypeScript
 - GitHub Trending · 2026-06-25
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 17.720 → 26.873, última versão 0.4.0 (27 de julho de 2026).
-
 ## O que você ganha
 - Armazena decisões de design em formato estruturado
 - Fornece orientação visual consistente para agentes de codificação

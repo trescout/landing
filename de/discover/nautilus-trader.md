@@ -6,10 +6,6 @@ Nautilus Trader ist eine Handelsmaschine mit einer deterministischen ereignisges
 - Rust
 - GitHub Trending · 2026-06-18
 
-## Aktualisieren
-- 3. August 2026: Star 25.204 → 25.223, neueste Version v1.231.0 (2. August 2026).
-- 2. August 2026: Star 23.912 → 25.204, letzte Version v1.230.0 (29. Juni 2026).
-
 ## Was es bringt
 - Rustbasierte schnelle und sichere Handelsinfrastruktur
 - Übergang von der Forschung zum Leben ohne Codeänderungen

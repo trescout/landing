@@ -13,7 +13,6 @@ L'apprentissage par projet est une liste qui rassemble des ressources qui enseig
 
 ## Pour commencer
 - Source officielle →
-Puisqu’il s’agit d’une liste de logiciels, elle ne nécessite aucune installation. Vous pouvez sélectionner le langage de programmation qui vous intéresse dans la liste, cliquer sur les liens ci-dessous et commencer à examiner les projets.
 
 ## Liens
 - Dépôt GitHub →

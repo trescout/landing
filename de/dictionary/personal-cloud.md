@@ -27,5 +27,8 @@ Da Sie die Kontrolle haben, müssen Sie die Sicherheit verwalten.
 - [Self-hosting](/de/dictionary/self-hosting/)
 - [Backup Program](/de/dictionary/backup-program/)
 
+## Verwandte Werkzeuge
+- [CasaOS](/de/discover/casaos/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/personal-cloud/

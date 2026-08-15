@@ -27,5 +27,8 @@ Ja, autonome Agenten können innerhalb definierter Grenzen vollständig mit ihre
 - [AI Agent](/de/dictionary/ai-agent/)
 - [Autonomous Agent](/de/dictionary/autonomous-agent/)
 
+## Verwandte Werkzeuge
+- [Vibe-Trading](/de/discover/vibe-trading/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/trading-agent/

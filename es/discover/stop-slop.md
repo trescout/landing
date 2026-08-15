@@ -7,16 +7,16 @@ Los textos producidos con inteligencia artificial suelen contener expresiones, r
 - MIT
 - GitHub Trending · 26 May 2026
 
-## Actualizar
-- 1 de agosto de 2026: Estrella 4.876 → 14.843.
-
 ## Qué aporta
 - Los textos se leen de forma más natural, se reducen los clichés y las repeticiones.
 - Se puede enseñar a cualquier LLM (no limitado solo a Claude).
 - Reduce la sensación de estar escrito por inteligencia artificial en la producción de contenidos.
 
 ## ¿Cómo utilizar?
-Le das SKILL.md como habilidad a tu asistente de IA y luego pasas el texto a través de estas reglas:
+- Corrija este texto de acuerdo con las reglas de Stop Slop, borre los patrones de IA.
+
+## ¿Cómo instalar, cómo utilizar?
+Descargue este repositorio (https://github.com/hardikpandya/stop-slop) y agregue la habilidad stop-slop como habilidad a Claude Code; Luego, utilice esta habilidad para limpiar clichés específicos de la IA de los textos que escribo.
 
 ## Términos relacionados del glosario
 

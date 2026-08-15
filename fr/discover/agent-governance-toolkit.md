@@ -6,9 +6,6 @@ La boîte à outils de gouvernance des agents développée par Microsoft offre d
 - Python
 - GitHub Trending · 2026-07-29
 
-## Mise à jour
-- 2 août 2026 : Star 5 342 → 5 564, dernière version v4.1.0 (9 juin 2026).
-
 ## Ce que ça vous apporte
 - Contrôle des politiques sur les actions des agents
 - Authentification zéro confiance

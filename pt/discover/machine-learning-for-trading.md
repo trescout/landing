@@ -5,9 +5,6 @@ Preparado por Stefan Jansen, este recurso fornece exemplos de código abrangente
 - ★ 20.241
 - GitHub Trending · 2026-06-02
 
-## Atualizar
-- 2 de agosto de 2026: Star 18.065 → 20.241, última versão v3.0.0-artefatos (24 de julho de 2026).
-
 ## O que você ganha
 - Desenvolvimento de estratégia ponta a ponta com dados financeiros
 - Estudos de casos práticos para nove mercados diferentes

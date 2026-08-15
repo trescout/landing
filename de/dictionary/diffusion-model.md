@@ -25,6 +25,7 @@ Der schrittweise Aufbau des Bildes erfordert eine hohe Rechenleistung, da eine m
 ## Verwandte Begriffe
 - [Generative AI](/de/dictionary/generative-ai/)
 - [Multimodal](/de/dictionary/multimodal/)
+- [Text-to-Speech](/de/dictionary/text-to-speech/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/diffusion-model/

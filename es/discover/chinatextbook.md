@@ -6,9 +6,6 @@ El repositorio ChinaTextbook ofrece un archivo digital de libros de texto utiliz
 - Roff
 - GitHub Trending · 2026-06-08
 
-## Actualizar
-- 3 de agosto de 2026: Estrella 72,765 → 76,412.
-
 ## Qué aporta
 - Proporciona acceso a un gran archivo de libros de texto chinos desde la escuela primaria hasta la universidad.
 - Facilita el acceso a recursos gratuitos mediante la recopilación de materiales educativos en un punto central.
@@ -16,7 +13,6 @@ El repositorio ChinaTextbook ofrece un archivo digital de libros de texto utiliz
 
 ## Cómo empezar
 - Fuente oficial →
-Puede ver o descargar directamente libros de texto de nivel primario, secundario, secundario y universitario en formato PDF visitando la página de GitHub del repositorio de ChinaTextbook. Si el archivo que descargó está dividido en partes, puede descargar la herramienta de combinación en su computadora yendo al enlace '下载文件合并程序' en la página del proyecto y fusionarlo ejecutándolo en la misma carpeta con los archivos relevantes.
 
 ## Términos relacionados del glosario
 

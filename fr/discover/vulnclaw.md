@@ -6,11 +6,6 @@ VulnClaw automatise les processus de tests d'intrusion à l'aide d'agents IA et 
 - Python
 - GitHub Trending · 2026-06-30
 
-## Mise à jour
-- 9 août 2026 : Étoile 2 575 → 2 646, dernière version v0.3.8 (9 août 2026).
-- 6 août 2026 : Étoile 2 425 → 2 575, dernière version v0.3.7 (4 août 2026).
-- 2 août 2026 : Étoile 1 313 → 2 425, dernière version v0.3.6 (25 juillet 2026).
-
 ## Ce que ça vous apporte
 - Tests d'intrusion de bout en bout avec des commandes en langage naturel
 - Analyse de sécurité autonome ciblée

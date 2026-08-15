@@ -6,9 +6,6 @@ Free-for-dev ist eine Ressourcenliste, die die kostenlosen Ebenen von Software a
 - HTML
 - GitHub Trending · 2026-06-27
 
-## Aktualisieren
-- 2. August 2026: Stern 123.834 → 131.012.
-
 ## Was es bringt
 - Zugriff auf kostenlose Stufen von SaaS-, PaaS- und IaaS-Lösungen
 - Kosteneinsparungen bei Infrastruktur- und Softwareentwicklungsprozessen
@@ -16,7 +13,6 @@ Free-for-dev ist eine Ressourcenliste, die die kostenlosen Ebenen von Software a
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Bei diesem Tool handelt es sich nicht um eine Software, sondern um eine Ressource, die kostenlose Dienste auflistet. Wenn Sie die offizielle Free-for-Dev-Seite auf GitHub besuchen, können Sie den Dienst, den Sie benötigen, aus der kategorisierten Liste auswählen und sich direkt für die kostenlose Stufe dieser Plattform registrieren, indem Sie auf den entsprechenden Link klicken.
 
 ## Verwandte Begriffe aus dem Glossar
 

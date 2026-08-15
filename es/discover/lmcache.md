@@ -6,10 +6,6 @@ LMCache ofrece una capa que aumenta la velocidad de inferencia optimizando la ge
 - Python
 - GitHub Trending · 2026-06-13
 
-## Actualizar
-- 6 de agosto de 2026: Star 10,985 → 11,038, última versión v0.5.3 (5 de agosto de 2026).
-- 2 de agosto de 2026: Star 8698 → 10 985, última versión operador-v0.5.1 (23 de julio de 2026).
-
 ## Qué aporta
 - Acorta el tiempo del primer token al aumentar la velocidad de inferencia en modelos de lenguaje grandes.
 - Reduce la carga computacional al optimizar el uso de la memoria.

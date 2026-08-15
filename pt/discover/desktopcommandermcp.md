@@ -6,9 +6,6 @@ DesktopCommanderMCP é um servidor Model Context Protocol desenvolvido para Clau
 - TypeScript
 - GitHub Trending · 2026-07-09
 
-## Atualizar
-- 2 de agosto de 2026: Star 6.436 → 9.072, versão mais recente v0.2.44 (9 de julho de 2026).
-
 ## O que você ganha
 - Execute comandos de terminal diretamente
 - Pesquise e edite o sistema de arquivos

@@ -26,5 +26,8 @@ Es ist ein Prozess, der Geduld erfordert, da es Testprozesse und Datenerfassungs
 - [User Interface](/de/dictionary/user-interface/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Marketingskills](/de/discover/marketingskills/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cro/

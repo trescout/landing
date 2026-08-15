@@ -27,5 +27,15 @@ Nein, bei sehr kleinen und einfachen Projekten reichen manchmal nur einfache Cod
 - [Frontend Stack](/de/dictionary/frontend-stack/)
 - [CLI](/de/dictionary/cli/)
 
+## Verwandte Werkzeuge
+- [Flutter](/de/discover/flutter/)
+- [Next.js](/de/discover/next-js/)
+- [Angular](/de/discover/angular/)
+- [Tailwindcss](/de/discover/tailwindcss/)
+- [Nuxt](/de/discover/nuxt/)
+- [Cypress](/de/discover/cypress/)
+- [Hyperframes](/de/discover/hyperframes/)
+- [AstrBot](/de/discover/astrbot/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/framework/

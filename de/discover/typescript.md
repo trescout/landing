@@ -6,9 +6,6 @@ TypeScript, eine Obermenge der JavaScript-Sprache, ermöglicht die Fehlerprüfun
 - TypeScript
 - GitHub Trending · 2026-07-11
 
-## Aktualisieren
-- 2. August 2026: Star 109.817 → 110.042, neueste Version v6.0.3 (16. April 2026).
-
 ## Was es bringt
 - Beim Schreiben von Code auf Fehler prüfen
 - Zuverlässigkeit durch statische Typidentifikation
@@ -38,7 +35,6 @@ tsc index.ts
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Um mit der Verwendung von TypeScript zu beginnen, können Sie die Anleitung „TypeScript in 5 Minuten“ auf der offiziellen Website lesen oder die TypeScript Playground-Umgebung ausprobieren, die über den Browser ausgeführt wird. Wenn Sie es installieren möchten, können Sie es über den npm-Paketmanager in Ihr Projekt einbinden.
 
 ## Verwandte Begriffe aus dem Glossar
 

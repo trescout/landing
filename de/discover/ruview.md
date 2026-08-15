@@ -7,15 +7,32 @@ RuView bietet räumliche Echtzeit-Intelligenz, Vitalzeichenverfolgung und Anwese
 - MIT
 - GitHub Trending · 30 May 2026
 
-## Aktualisieren
-- 12. August 2026: Star 88.270 → 89.705, neueste Version v2235 (11. August 2026).
-- 3. August 2026: Star 88.185 → 88.270, letzte Version v2146 (2. August 2026).
-- 2. August 2026: Star 68.643 → 88.185, letzte Version v2143 (2. August 2026).
-
 ## Was bietet es?
 - Präsenz- und Bewegungserkennung ohne Verwendung einer Kamera.
 - Überwachung der Vitalfunktionen (Atmung und Puls).
 - Räumliche Intelligenz in Echtzeit.
+
+## Haftungshinweis
+
+## Wie installiere ich, wie verwende ich?
+**Ziehen Sie das Docker-Image**
+
+```
+docker pull ruvnet/wifi-densepose:latest
+```
+
+**Mit Docker ausführen (Simulation, keine Hardware erforderlich)**
+
+```
+docker run -p 3000:3000 ruvnet/wifi-densepose:latest
+```
+
+**Python-Paket (PyPI)**
+
+```
+pip install ruview
+```
+
 
 ## Verwandte Begriffe aus dem Glossar
 

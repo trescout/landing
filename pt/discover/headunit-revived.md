@@ -13,7 +13,6 @@ O projeto revivido da unidade principal fornece um aplicativo que permite visual
 
 ## Como começar
 - Fonte oficial →
-Baixe o aplicativo para o seu dispositivo através da Google Play Store ou Amazon Appstore. Para conexão sem fio, é recomendado que você instale também o aplicativo ‘Wireless Helper’ em seu telefone. Para etapas detalhadas de instalação e configurações de conexão, você pode revisar a seção Wiki na página do GitHub.
 
 ## Termos relacionados do glossário
 

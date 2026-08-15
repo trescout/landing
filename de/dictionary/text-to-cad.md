@@ -29,5 +29,8 @@ Nein, es handelt sich um ein Hilfsprogramm, das Ingenieuren eine schnellere Prot
 - [Design Tool](/de/dictionary/design-tool/)
 - [Physical AI](/de/dictionary/physical-ai/)
 
+## Verwandte Werkzeuge
+- [Text to Cad](/de/discover/text-to-cad/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/text-to-cad/

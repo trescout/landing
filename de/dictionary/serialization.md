@@ -20,5 +20,8 @@ Die Daten im Speicher des Computers sind nur für das aktuelle Programm von Bede
 - [API](/de/dictionary/api/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [YAML Cpp](/de/discover/yaml-cpp/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/serialization/

@@ -6,11 +6,6 @@ Grafana é uma plataforma de observabilidade e visualização de dados de códig
 - TypeScript
 - GitHub Trending · 2026-06-27
 
-## Atualizar
-- 7 de agosto de 2026: Star 76.114 → 76.138, versão mais recente v13.1.3 (7 de agosto de 2026).
-- 6 de agosto de 2026: Star 75.925 → 76.114, versão mais recente v13.1.2 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 74.994 → 75.925, versão mais recente v13.1.1 (21 de julho de 2026).
-
 ## O que você ganha
 - Combinando diferentes fontes de dados em um painel
 - Criação de painéis de controle flexíveis e dinâmicos
@@ -40,7 +35,6 @@ brew services start grafana
 
 ## Como começar
 - Fonte oficial →
-Para começar a usar o Grafana, visite o site oficial grafana.com/get. Você pode revisar os documentos em grafana.com/docs/grafana/latest/setup-grafana/installation/ para acessar os guias de instalação que atendem às suas necessidades.
 
 ## Termos relacionados do glossário
 

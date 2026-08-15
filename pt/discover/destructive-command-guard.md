@@ -6,12 +6,6 @@ Destructive Command Guard é uma camada de segurança desenvolvida para evitar c
 - Rust
 - GitHub Trending · 2026-07-13
 
-## Atualizar
-- 8 de agosto de 2026: Star 5.642 → 5.678, versão mais recente v0.10.0 (8 de agosto de 2026).
-- 6 de agosto de 2026: Star 5.542 → 5.642, versão mais recente v0.9.4 (6 de agosto de 2026).
-- 3 de agosto de 2026: Star 5.532 → 5.542, versão mais recente v0.9.2 (3 de agosto de 2026).
-- 2 de agosto de 2026: Star 3.284 → 5.532, versão mais recente v0.9.0 (2 de agosto de 2026).
-
 ## O que você ganha
 - Bloqueia comandos perigosos antes de serem executados
 - Reduz o risco de perda de dados e danos ao sistema

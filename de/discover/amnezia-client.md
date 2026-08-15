@@ -6,9 +6,6 @@ Der Amnesia VPN-Client ist ein Open-Source-Netzwerktool, das es Benutzern ermög
 - C++
 - GitHub Trending · 2026-07-27
 
-## Aktualisieren
-- 2. August 2026: Star 13.457 → 14.262, letzte Version 5.0.0.5 (26. Juli 2026).
-
 ## Was es bringt
 - Unzensierter Internetzugang über Ihren eigenen Server
 - Datenschutzorientierte, anpassbare Tunneling-Protokolle

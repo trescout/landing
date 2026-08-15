@@ -6,9 +6,6 @@ Worldmonitor propose un tableau de bord de renseignement mondial en temps réel 
 - TypeScript
 - GitHub Trending · 2026-06-20
 
-## Mise à jour
-- 2 août 2026 : Étoile 57 469 → 78 032, dernière version v2.5.23 (1er mars 2026).
-
 ## Ce que ça vous apporte
 - Résumer plus de 500 sources d'information avec l'intelligence artificielle
 - Analyse visuelle avec prise en charge du globe 3D et des cartes WebGL

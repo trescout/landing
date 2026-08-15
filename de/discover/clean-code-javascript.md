@@ -13,7 +13,6 @@ Dieser Leitfaden, der Clean-Code-Prinzipien an die JavaScript-Sprache anpasst, b
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Bei diesem Tool handelt es sich um eine Anleitung, nicht um eine Softwarebibliothek. Wenn Sie das Clean-Code-Javascript-Repository auf GitHub besuchen, können Sie Abschnitte wie Variablenbenennung, Funktionsdesign und SOLID-Prinzipien untersuchen und Ihre Codequalität verbessern, indem Sie diese Standards in Ihren eigenen Projekten anwenden.
 
 ## Verwandte Begriffe aus dem Glossar
 

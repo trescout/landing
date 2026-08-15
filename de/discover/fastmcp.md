@@ -6,11 +6,6 @@ FastMCP ist ein Python-basiertes Framework, das die Entwicklung von Model Contex
 - Python
 - GitHub Trending · 2026-07-21
 
-## Aktualisieren
-- 11. August 2026: Star 27.084 → 27.165, neueste Version v3.4.7 (10. August 2026).
-- 6. August 2026: Star 27.020 → 27.084, neueste Version v3.4.6 (5. August 2026).
-- 2. August 2026: Star 26.621 → 27.020, neueste Version v3.4.5 (27. Juli 2026).
-
 ## Was es bringt
 - Verwandelt Python-Funktionen ganz einfach in KI-Tools
 - Erstellt automatisch Schema, Validierung und Dokumentation

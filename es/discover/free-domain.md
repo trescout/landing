@@ -7,9 +7,6 @@ FreeDomain ofrece servicio gratuito de nombres de dominio para que cualquiera pu
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 166,947 → 190,061.
-
 ## Qué aporta
 - Un nombre de dominio gratuito y único.
 - Compatibilidad total con su propio proveedor de DNS (Cloudflare, etc.).
@@ -18,6 +15,9 @@ FreeDomain ofrece servicio gratuito de nombres de dominio para que cualquiera pu
 
 ## ¿Cómo conseguirlo?
 Lo aplicas con la directiva en el repositorio: seleccionas el dominio, lo conectas a tu DNS. La guía paso a paso está en la página de GitHub.
+
+## ¿Cómo usarlo con IA?
+DigitalPlat FreeDomain es un servicio de nombres de dominio gratuito, no es un software para instalar. Vaya a https://dash.domain.digitalplat.org/ y guíeme paso a paso para registrar un nombre de dominio gratuito desde extensiones como .dpdns.org, .us.kg, .qzz.io y dígame cómo conectarlo con Cloudflare DNS.
 
 ## Términos relacionados del glosario
 

@@ -6,9 +6,6 @@ Free-for-dev is a resource list that brings together the free tiers of software 
 - HTML
 - GitHub Trending · 2026-06-27
 
-## Update
-- August 2, 2026: Star 123,834 → 131,012.
-
 ## What you get
 - Access to free tiers of SaaS, PaaS and IaaS solutions
 - Cost savings in infrastructure and software development processes
@@ -16,7 +13,6 @@ Free-for-dev is a resource list that brings together the free tiers of software 
 
 ## Getting started
 - Official source →
-This tool is not a software, but a resource that lists free services. By visiting the official free-for-dev page on GitHub, you can choose the service you need from the categorized list and register directly to the free tier of that platform by clicking on the relevant link.
 
 ## Related dictionary terms
 

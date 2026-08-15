@@ -6,9 +6,6 @@ Développé par Google Labs, DESIGN.md fournit une spécification de format stru
 - TypeScript
 - GitHub Trending · 2026-06-25
 
-## Mise à jour
-- 2 août 2026 : Étoile 17 720 → 26 873, dernière version 0.4.0 (27 juillet 2026).
-
 ## Ce que ça vous apporte
 - Stocke les décisions de conception dans un format structuré
 - Fournit un guidage visuel cohérent pour les agents de codage

@@ -24,5 +24,8 @@ Es verfügt nicht über ein biologisches Denken wie der Mensch, sondern über ei
 - [Memory Engine](/de/dictionary/memory-engine/)
 - [AI Agent](/de/dictionary/ai-agent/)
 
+## Verwandte Werkzeuge
+- [Zhangxuefeng Skill](/de/discover/zhangxuefeng-skill/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cognitive-operating-system/

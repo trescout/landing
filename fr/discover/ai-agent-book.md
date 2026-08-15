@@ -6,11 +6,6 @@ Ce livre open source sur les agents d'intelligence artificielle (agents IA) couv
 - Python
 - GitHub Trending · 2026-07-20
 
-## Mise à jour
-- 9 août 2026 : Étoile 33 116 → 34 874.
-- 6 août 2026 : Étoile 29 814 → 33 116.
-- 2 août 2026 : Étoile 7 362 → 29 814.
-
 ## Ce que ça vous apporte
 - Apprendre les principes de fonctionnement des agents d'intelligence artificielle
 - Acquérir des compétences pratiques avec des exemples de code pratiques

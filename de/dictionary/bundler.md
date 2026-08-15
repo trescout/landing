@@ -24,5 +24,8 @@ Sehr große Dateien können den Browser verlangsamen; Daher teilt der Bundler Da
 - [Compilation](/de/dictionary/compilation/)
 - [Frontend Stack](/de/dictionary/frontend-stack/)
 
+## Verwandte Werkzeuge
+- [Webpack](/de/discover/webpack/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/bundler/

@@ -6,9 +6,6 @@ Les plugins OpenAI permettent aux modèles de langage d'accéder à des données
 - JavaScript
 - GitHub Trending · 2026-06-06
 
-## Mise à jour
-- 2 août 2026 : Étoile 1 596 → 4 881.
-
 ## Ce que ça vous apporte
 - Il permet aux modèles linguistiques d’accéder à des données à jour.
 - Permet l'interaction avec des applications tierces.

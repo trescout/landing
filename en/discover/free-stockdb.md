@@ -6,10 +6,6 @@ Free-stockdb is a native quantitative analysis engine that handles daily and min
 - HTML
 - GitHub Trending · 2026-07-29
 
-## Update
-- August 10, 2026: Star 1,684 → 1,866, last version 测试版本0.3.1 (July 19, 2026).
-- August 2, 2026: Star 1,492 → 1,684, last version 测试版本0.2.1 (July 19, 2026).
-
 ## What you get
 - Store all stock market data on your computer
 - Calculate 39 different technical indicators in seconds
@@ -17,7 +13,6 @@ Free-stockdb is a native quantitative analysis engine that handles daily and min
 
 ## Getting started
 - Official source →
-If you are a Windows user, download the current version from the Releases section on the GitHub page. After opening the file you downloaded, run the data update tool and wait for the data to be synchronized to your local folder, and then launch the stockdb application.
 
 ## Related dictionary terms
 

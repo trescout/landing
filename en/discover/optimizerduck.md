@@ -6,9 +6,6 @@ Developed in C# language, optimizerDuck is an open source tool that offers perfo
 - C#
 - GitHub Trending · 2026-06-16
 
-## Update
-- August 2, 2026: Star 3,900 → 7,672, latest version v2.25.5 (July 16, 2026).
-
 ## What you get
 - Cleans up Windows background processes and bloatware
 - Brings performance, privacy and GPU settings into a single interface
@@ -16,7 +13,6 @@ Developed in C# language, optimizerDuck is an open source tool that offers perfo
 
 ## Getting started
 - Official source →
-To start using the tool, visit the official releases page on GitHub. Download the current version from the relevant link and start configuring the settings by running the .exe file directly without any installation.
 
 ## Related dictionary terms
 

@@ -24,5 +24,8 @@ Alte oder selten genutzte Daten werden gelöscht und durch neue Daten ersetzt.
 - [Prefix Cache](/de/dictionary/prefix-cache/)
 - [Database](/de/dictionary/database/)
 
+## Verwandte Werkzeuge
+- [Guava](/de/discover/guava/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/caching/

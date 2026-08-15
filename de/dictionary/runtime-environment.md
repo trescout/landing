@@ -23,5 +23,8 @@ Normalerweise wird eine Fehlermeldung ausgegeben, weil die erforderlichen Medien
 - [Runtime](/de/dictionary/runtime/)
 - [Compiler](/de/dictionary/compiler/)
 
+## Verwandte Werkzeuge
+- [Node](/de/discover/node/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/runtime-environment/

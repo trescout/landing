@@ -6,9 +6,6 @@ El Consejo de Alta Inteligencia lleva a cabo procesos estructurados de toma de d
 - Shell
 - GitHub Trending · 2026-06-30
 
-## Actualizar
-- 2 de agosto de 2026: Star 2176 → 3808, última versión v1.2.0 (4 de julio de 2026).
-
 ## Qué aporta
 - Análisis con 18 personalidades expertas diferentes.
 - Interrogatorio con diferentes modelos de inteligencia artificial

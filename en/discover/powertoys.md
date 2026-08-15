@@ -5,9 +5,6 @@ Microsoft PowerToys is a collection of utility software developed to increase pr
 - ★ 137,392
 - GitHub Trending · 2026-06-13
 
-## Update
-- August 2, 2026: Star 134,431 → 137,392, last version v0.100.2 (June 26, 2026).
-
 ## What you get
 - Provides window editing and screen management
 - Offers advanced file and text editing

@@ -6,10 +6,6 @@ OpenMontage est un système open source basé sur des agents qui transforme les 
 - Python
 - GitHub Trending · 2026-06-18
 
-## Mise à jour
-- 12 août 2026 : Étoile 44 651 → 47 498.
-- 2 août 2026 : Étoile 5 648 → 44 651.
-
 ## Ce que ça vous apporte
 - Scénario automatique, montage visuel et sonore
 - Compilation vidéo à partir de séquences d’archives et d’archives ouvertes

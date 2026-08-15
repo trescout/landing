@@ -6,9 +6,6 @@ Lingbot-map é um modelo básico 3D feed-forward projetado para reconstruir cena
 - Python
 - GitHub Trending · 2026-06-29
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 8.439 → 16.054.
-
 ## O que você ganha
 - Reconstrução 3D estável de longas sequências de vídeo
 - Suporte para inferência de streaming de baixa latência

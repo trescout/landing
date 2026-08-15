@@ -13,7 +13,6 @@ Apache Ossie est une initiative industrielle qui vise à standardiser l'échange
 
 ## Pour commencer
 - Source officielle →
-Apache Ossie est une spécification de normes plutôt qu'une installation logicielle. Vous pouvez obtenir des informations sur la façon dont les outils de données que vous utilisez peuvent être rendus compatibles avec cette norme en examinant les documents techniques et les fichiers de schéma dans le dossier core-spec sur la page GitHub du projet.
 
 ## Termes liés du glossaire
 

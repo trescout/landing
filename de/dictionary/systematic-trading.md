@@ -27,5 +27,8 @@ Ja, aber es erfordert eine solide Strategie und Know-how.
 - [Backtesting](/de/dictionary/backtesting/)
 - [AI Hedge Fund](/de/dictionary/ai-hedge-fund/)
 
+## Verwandte Werkzeuge
+- [Awesome Systematic Trading](/de/discover/awesome-systematic-trading/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/systematic-trading/

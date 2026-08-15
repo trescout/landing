@@ -6,11 +6,6 @@ Desarrollado para las plataformas Grok Build, Grok Web y Grok Console, este gate
 - Go
 - GitHub Trending · 2026-07-15
 
-## Actualizar
-- 10 de agosto de 2026: Star 7.022 → 7.239, última versión v3.1.2 (10 de agosto de 2026).
-- 6 de agosto de 2026: Star 6945 → 7022, última versión v3.1.1 (5 de agosto de 2026).
-- 2 de agosto de 2026: Star 5927 → 6945, última versión v3.0.11 (29 de julio de 2026).
-
 ## Qué aporta
 - Grok Build combina cuentas web y de consola en un solo panel
 - Proporciona una interfaz API estándar compatible con OpenAI y Anthropic

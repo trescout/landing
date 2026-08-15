@@ -6,9 +6,6 @@ Diese Bibliothek wurde für Claude Code und verschiedene Programmieragenten entw
 - Python
 - GitHub Trending · 2026-07-05
 
-## Aktualisieren
-- 2. August 2026: Star 20.244 → 23.654, neueste Version v2.9.0 (28. Mai 2026).
-
 ## Was es bringt
 - Mehr als 350 vorgefertigte Skill-Pakete
 - Breites Fachwissen vom Engineering bis zum Marketing

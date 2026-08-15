@@ -6,9 +6,6 @@ CuPy combines the numerical computing library NumPy and SciPy interfaces with gr
 - Python
 - GitHub Trending · 2026-06-29
 
-## Update
-- 2 August 2026: Star 11,639 → 12,227, latest version v14.1.1 (1 June 2026).
-
 ## What you get
 - Compatible with NumPy and SciPy
 - NVIDIA CUDA and AMD ROCm support

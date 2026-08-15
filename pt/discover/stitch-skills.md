@@ -6,9 +6,6 @@ Desenvolvido pelo Google Labs, Stitch Skills é uma biblioteca de habilidades de
 - TypeScript
 - GitHub Trending · 2026-07-11
 
-## Atualizar
-- 2 de agosto de 2026: Star 6.814 → 7.892, versão final v1.0 (18 de maio de 2026).
-
 ## O que você ganha
 - Fluxo de trabalho padronizado entre código e design
 - Geração automática de componentes React e React Native

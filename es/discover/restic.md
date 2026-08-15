@@ -5,9 +5,6 @@ Desarrollado con el lenguaje Go, Restic ofrece un programa de copia de seguridad
 - ★ 35.302
 - GitHub Trending · 2026-06-12
 
-## Actualizar
-- 2 de agosto de 2026: Star 34,273 → 35,302, última versión v0.19.1 (5 de julio de 2026).
-
 ## Qué aporta
 - Proporciona alta seguridad al cifrar los datos.
 - Ahorra espacio de almacenamiento con copia de seguridad incremental

@@ -5,11 +5,6 @@ Puppeteer est une bibliothèque d'automatisation de navigateur utilisée pour co
 - ★ 95 441
 - GitHub Trending · 2026-06-15
 
-## Mise à jour
-- 12 août 2026 : Star 95.418 → 95.441, dernière version navigateurs-v3.2.0 (11 août 2026).
-- 6 août 2026 : Star 95.396 → 95.418, dernière version navigateurs-v3.1.0 (4 août 2026).
-- 2 août 2026 : Star 94 629 → 95 396, dernière version puppeteer-core-v25.4.0 (27 juillet 2026).
-
 ## Ce que ça vous apporte
 - Le logiciel contrôle les navigateurs Chrome et Firefox
 - Crée des processus de test automatiques sur les pages Web

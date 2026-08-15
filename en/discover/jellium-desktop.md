@@ -13,7 +13,6 @@ Jellium-desktop is an unofficial desktop client developed in Rust for the media 
 
 ## Getting started
 - Official source →
-You can use the download links on the GitHub page to start using the Jellium Desktop application. After downloading the version suitable for your operating system (Windows, macOS or Linux), install the application on your system by running the installation file and access it by entering your Jellyfin server information.
 
 ## Related dictionary terms
 

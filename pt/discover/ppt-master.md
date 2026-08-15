@@ -6,11 +6,6 @@ PPT-Master é uma ferramenta alimentada por IA que converte documentos diretamen
 - Python
 - GitHub Trending · 2026-06-28
 
-## Atualizar
-- 10 de agosto de 2026: Star 43.374 → 44.162, versão mais recente v4.5.0 (9 de agosto de 2026).
-- 6 de agosto de 2026: Star 42.557 → 43.374, versão mais recente v4.4.0 (6 de agosto de 2026).
-- 2 de agosto de 2026: Star 33.348 → 42.557, versão mais recente v4.3.0 (31 de julho de 2026).
-
 ## O que você ganha
 - Converte texto em arquivos PPTX com formas e animações nativas.
 - Adiciona notas automáticas do orador aos slides da apresentação.

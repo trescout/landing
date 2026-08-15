@@ -7,13 +7,13 @@ GitHub Docs est un référentiel open source contenant le code source de la docu
 - CC-BY-4.0
 - GitHub Trending · 1 Haziran 2026
 
-## Mise à jour
-- 2 août 2026 : Étoile 19 817 → 20 600, dernière version v1.0.1 (14 février 2023).
-
 ## Ce que ça vous apporte
 - Vous pouvez contribuer à la documentation GitHub.
 - Vous pouvez observer comment une documentation complète est créée.
 - Le contenu est entièrement open source.
+
+## Comment l'utiliser avec l'IA ?
+Ce référentiel (github/docs) est le référentiel source de la documentation open source officielle de GitHub. Examinez la structure du contenu et le guide de contribution et cela me donne une feuille de route en turc : comment puis-je contribuer à cette documentation, où trouver les fichiers de contenu et quelles étapes je dois suivre pour ma première contribution.
 
 ## Termes liés du glossaire
 

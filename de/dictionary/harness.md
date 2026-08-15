@@ -27,5 +27,10 @@ Es ist gängige Praxis, in professionellen Projekten für Zuverlässigkeit zu so
 - [Unit Testing](/de/dictionary/unit-testing/)
 - [QA](/de/dictionary/qa/)
 
+## Verwandte Werkzeuge
+- [Jcode](/de/discover/jcode/)
+- [Harness · Ajan Ekip Fabrikası](/de/discover/harness/)
+- [Claude Code Harness](/de/discover/claude-code-harness/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/harness/

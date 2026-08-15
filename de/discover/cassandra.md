@@ -35,7 +35,6 @@ docker run -p 9042:9042 cassandra
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Um Apache Cassandra zu verwenden, besuchen Sie die Download-Seite auf der offiziellen Website, um die Installationsdateien zu erhalten. Anschließend können Sie, indem Sie der Anleitung „Erste Schritte“ in der Dokumentation folgen, die Archivdatei öffnen, den Server starten und Ihre Datenbankoperationen über die CQL-Befehlszeilenschnittstelle starten.
 
 ## Verwandte Begriffe aus dem Glossar
 

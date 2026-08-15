@@ -27,5 +27,8 @@ Ja, wenn zwei Jobs gleichzeitig miteinander in Konflikt geraten, kann es zu Fehl
 - [Runtime](/de/dictionary/runtime/)
 - [Computer Science](/de/dictionary/computer-science/)
 
+## Verwandte Werkzeuge
+- [GO](/de/discover/go/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/concurrency/

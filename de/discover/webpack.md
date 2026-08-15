@@ -6,9 +6,6 @@ Webpack ist ein Bundler, der JavaScript und andere Web-Assets für die Ausführu
 - JavaScript
 - GitHub Trending · 2026-08-05
 
-## Aktualisieren
-- 6. August 2026: Star 65.961 → 65.985, neueste Version v5.109.2 (28. Juli 2026).
-
 ## Was es bringt
 - Es kombiniert JavaScript-Dateien zur Ausführung im Browser.
 - Es verkürzt die Ladezeit der Anwendung mit seiner Code-Splitting-Funktion.

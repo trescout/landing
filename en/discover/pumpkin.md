@@ -6,9 +6,6 @@ Developed with the Rust programming language, Pumpkin offers an open source infr
 - Rust
 - GitHub Trending · 2026-07-23
 
-## Update
-- August 2, 2026: Star 8,562 → 10,510.
-
 ## What you get
 - High performance server management with Rust language
 - Java and Bedrock edition support
@@ -16,7 +13,6 @@ Developed with the Rust programming language, Pumpkin offers an open source infr
 
 ## Getting started
 - Official source →
-The Pumpkin project is still under development. For installation and operation steps, you can proceed by reviewing the Quick Start guide on the official documentation page.
 
 ## Related dictionary terms
 

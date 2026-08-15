@@ -6,10 +6,6 @@ Open SEO bietet eine Open-Source-Alternative zu kostenpflichtigen Tools wie SEMr
 - TypeScript
 - GitHub Trending · 2026-06-26
 
-## Aktualisieren
-- 10. August 2026: Star 10.091 → 11.139, neueste Version v0.1.4 (9. August 2026).
-- 2. August 2026: Star 2.736 → 10.091, neueste Version v0.1.3 (30. Juli 2026).
-
 ## Was es bringt
 - Zahlen Sie nur für das, was Sie nutzen, ohne Abonnementgebühren
 - Direkte SEO-Datenanalyse mit Agenten der künstlichen Intelligenz

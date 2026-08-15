@@ -6,9 +6,6 @@ Desenvolvido pela OpenAI, Whisper é um modelo de reconhecimento de fala treinad
 - Python
 - GitHub Trending · 2026-06-07
 
-## Atualizar
-- 2 de agosto de 2026: Star 101.952 → 106.452, última versão v20250625 (26 de junho de 2025).
-
 ## O que você ganha
 - Converta arquivos de áudio em texto com alta precisão.
 - Traduzindo conversas de diferentes idiomas para o inglês.

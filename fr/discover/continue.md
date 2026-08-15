@@ -5,9 +5,6 @@ Continue est un agent de codage open source conçu pour automatiser les processu
 - ★ 35 282
 - GitHub Trending · 2026-06-18
 
-## Mise à jour
-- 2 août 2026 : Star 34.017 → 35.282, dernière version v2.0.0-vscode (19 juin 2026).
-
 ## Ce que ça vous apporte
 - Accélère les processus de codage et de débogage
 - Fournit un espace de travail sécurisé avec des modèles linguistiques locaux

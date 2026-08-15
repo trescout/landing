@@ -6,9 +6,6 @@ A biblioteca Meshoptimizer otimiza dados de malha tridimensionais, reduzindo o t
 - C++
 - GitHub Trending · 2026-07-11
 
-## Atualizar
-- 2 de agosto de 2026: Star 8.045 → 8.177, versão mais recente v1.2 (30 de junho de 2026).
-
 ## O que você ganha
 - Reduz o tamanho do arquivo para modelos tridimensionais
 - Aumenta o desempenho de renderização da GPU

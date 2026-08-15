@@ -6,11 +6,6 @@ Agentsview é uma ferramenta de monitoramento que fornece inteligência de prime
 - Go
 - GitHub Trending · 2026-06-12
 
-## Atualizar
-- 6 de agosto de 2026: Star 4.683 → 4.714, versão mais recente v0.40.1 (4 de agosto de 2026).
-- 3 de agosto de 2026: Star 4.672 → 4.683, versão mais recente v0.40.0 (3 de agosto de 2026).
-- 2 de agosto de 2026: Star 1.867 → 4.672, versão mais recente v0.39.0 (27 de julho de 2026).
-
 ## O que você ganha
 - Monitore as sessões de todos os seus agentes de codificação de inteligência artificial em um único centro.
 - Calcule rapidamente os valores e custos dos tokens usados.

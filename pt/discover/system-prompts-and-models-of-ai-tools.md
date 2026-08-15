@@ -12,7 +12,6 @@ Os prompts do sistema e os modelos de linguagem usados (modelos de IA) de ferram
 
 ## Como começar
 - Fonte oficial →
-Esta ferramenta é um arquivo de informações que não requer instalação. Você pode visitar a página do repositório relevante no GitHub através do seu navegador para acessar as instruções do sistema e as informações do modelo das ferramentas de inteligência artificial que deseja examinar.
 
 ## Termos relacionados do glossário
 

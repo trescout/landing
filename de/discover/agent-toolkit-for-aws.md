@@ -6,9 +6,6 @@ AWS hat ein Toolset veröffentlicht, das Model Context Protocol-Server, Fähigke
 - Python
 - GitHub Trending · 2026-06-26
 
-## Aktualisieren
-- 4. August 2026: Stern 1.209 → 2.215.
-
 ## Was es bringt
 - Direkte und sichere Interaktion mit AWS-Diensten
 - Standardisierte Funktionen für KI-Agenten

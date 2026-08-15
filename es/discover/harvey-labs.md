@@ -13,7 +13,6 @@ Harvey Labs es una herramienta de benchmarking diseñada para medir y mejorar la
 
 ## Cómo empezar
 - Fuente oficial →
-Para comenzar, consulte el archivo docs/tutorial.md entre la documentación en la página de GitHub. Esta guía le explica cómo gestionar una misión de sala de datos de fusiones y adquisiciones de principio a fin, desde la configuración hasta la revisión del informe.
 
 ## Términos relacionados del glosario
 

@@ -6,9 +6,6 @@ Voice-pro is an open-source interface that combines text-to-speech (TTS) and zer
 - Python
 - GitHub Trending · 2026-08-02
 
-## Update
-- August 2, 2026: Star 11,859 → 11,965, latest version v4.0.0 (July 13, 2026).
-
 ## What you get
 - Parsing and translating audio from YouTube videos
 - Copying audio and converting text to audio with artificial intelligence

@@ -6,9 +6,6 @@ Awesome-mac is a comprehensive resource repository that categorizes and lists hi
 - Swift
 - GitHub Trending · 2026-08-12
 
-## Update
-- August 12, 2026: Star 110,586 → 110,588, latest version v2.1.0 (March 30, 2026).
-
 ## What you get
 - Quickly find applications that fit your needs
 - Systematic and categorized software list
@@ -16,7 +13,6 @@ Awesome-mac is a comprehensive resource repository that categorizes and lists hi
 
 ## Getting started
 - Official source →
-This tool does not require a software installation. By visiting the relevant GitHub page, you can browse the categorized list of macOS applications and directly examine the software you need.
 
 ## Links
 - GitHub repository →

@@ -6,10 +6,6 @@ Free-stockdb est un moteur d'analyse quantitative natif qui gère les données q
 - HTML
 - GitHub Trending · 2026-07-29
 
-## Mise à jour
-- 10 août 2026 : Star 1 684 → 1 866, dernière version 测试版本0.3.1 (19 juillet 2026).
-- 2 août 2026 : Star 1 492 → 1 684, dernière version 测试版本0.2.1 (19 juillet 2026).
-
 ## Ce que ça vous apporte
 - Stockez toutes les données boursières sur votre ordinateur
 - Calculez 39 indicateurs techniques différents en quelques secondes
@@ -17,7 +13,6 @@ Free-stockdb est un moteur d'analyse quantitative natif qui gère les données q
 
 ## Pour commencer
 - Source officielle →
-Si vous êtes un utilisateur Windows, téléchargez la version actuelle à partir de la section Releases de la page GitHub. Après avoir ouvert le fichier que vous avez téléchargé, exécutez l'outil de mise à jour des données et attendez que les données soient synchronisées avec votre dossier local, puis lancez l'application stockdb.
 
 ## Termes liés du glossaire
 

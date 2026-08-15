@@ -6,9 +6,6 @@ Developed by Andrew Ng, aisuite is a Python library that allows managing differe
 - Python
 - GitHub Trending · 2026-06-14
 
-## Update
-- August 2, 2026: Star 14,220 → 15,888, latest version v0.1.3 (July 20, 2026).
-
 ## What you get
 - Manage different AI providers with a single interface
 - Ability to switch between models without changing the code

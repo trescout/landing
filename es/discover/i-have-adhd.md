@@ -6,12 +6,6 @@ Desarrollado para hacer que la producción de los agentes de codificación esté
 - Python
 - GitHub Trending · 2026-07-22
 
-## Actualizar
-- 12 de agosto de 2026: Estrella 18,555 → 19,772.
-- 9 de agosto de 2026: Estrella 17,370 → 18,555.
-- 6 de agosto de 2026: Estrella 15,559 → 17,370.
-- 2 de agosto de 2026: Estrella 7.248 → 15.559.
-
 ## Qué aporta
 - Elimina frases introductorias innecesarias en las respuestas de la IA.
 - Divide tareas complejas en pasos numerados.

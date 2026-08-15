@@ -23,5 +23,8 @@ In einem gut konfigurierten System ist es sicher, aber es ist wichtig, die Gerä
 - [Physical AI](/de/dictionary/physical-ai/)
 - [AI Agent](/de/dictionary/ai-agent/)
 
+## Verwandte Werkzeuge
+- [Core](/de/discover/core/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/home-automation/

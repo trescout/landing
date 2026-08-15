@@ -26,5 +26,15 @@ Datenwissenschaftler, Forscher und KI-Entwickler.
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 - [Markdown](/de/dictionary/markdown/)
 
+## Verwandte Werkzeuge
+- [Generative AI for Beginners](/de/discover/generative-ai-for-beginners/)
+- [AI-For-Beginners](/de/discover/ai-for-beginners/)
+- [Claude Cookbooks](/de/discover/claude-cookbooks/)
+- [Dive Into Llms](/de/discover/dive-into-llms/)
+- [Airllm](/de/discover/airllm/)
+- [Machine Learning for Trading](/de/discover/machine-learning-for-trading/)
+- [Cosmos](/de/discover/cosmos/)
+- [Train LLM from Scratch](/de/discover/train-llm-from-scratch/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/jupyter-notebooks/

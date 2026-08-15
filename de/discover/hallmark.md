@@ -6,11 +6,6 @@ Hallmark ist eine Stildatei, die entwickelt wurde, um den Einfluss von Standardi
 - CSS
 - GitHub Trending · 2026-07-13
 
-## Aktualisieren
-- 10. August 2026: Stern 22.106 → 23.216.
-- 6. August 2026: Stern 20.791 → 22.106.
-- 2. August 2026: Stern 4.508 → 20.791.
-
 ## Was es bringt
 - Vermeidet die Standard-KI-Ästhetik
 - Erstellt einzigartige Schnittstellen mit zwanzig verschiedenen Themen

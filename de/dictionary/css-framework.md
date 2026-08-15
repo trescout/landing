@@ -24,5 +24,8 @@ Frameworks sind flexibel; Sie können originelle Designs erstellen, indem Sie Ih
 - [Frontend Stack](/de/dictionary/frontend-stack/)
 - [User Interface](/de/dictionary/user-interface/)
 
+## Verwandte Werkzeuge
+- [Tailwindcss](/de/discover/tailwindcss/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/css-framework/

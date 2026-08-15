@@ -13,7 +13,6 @@ El proyecto revivido por la unidad central proporciona una aplicación que permi
 
 ## Cómo empezar
 - Fuente oficial →
-Descargue la aplicación a su dispositivo a través de Google Play Store o Amazon Appstore. Para una conexión inalámbrica, se recomienda que también instale la aplicación 'Wireless Helper' en su teléfono. Para conocer los pasos de instalación detallados y la configuración de conexión, puede revisar la sección Wiki en la página de GitHub.
 
 ## Términos relacionados del glosario
 

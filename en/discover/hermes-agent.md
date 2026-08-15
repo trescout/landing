@@ -6,10 +6,6 @@ Developed by NousResearch, Hermes Agent offers an autonomous agent infrastructur
 - Python
 - GitHub Trending · 2026-06-04
 
-## Update
-- August 4, 2026: Star 224,186 → 225,045, latest version v2026.8.3 (August 3, 2026).
-- August 2, 2026: Star 179,808 → 224,186, latest version v2026.7.30 (July 30, 2026).
-
 ## What you get
 - Autonomous capabilities that evolve over time by learning from user interactions.
 - Opportunity to work integrated with platforms such as Telegram, Discord and Slack.

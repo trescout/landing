@@ -27,5 +27,8 @@ Er muss sich nicht jedes Mal neu erklären, um sein Problem zu lösen.
 - [AI-powered Note Analysis](/de/dictionary/ai-powered-note-analysis/)
 - [AI Skills](/de/dictionary/ai-skills/)
 
+## Verwandte Werkzeuge
+- [Chatwoot](/de/discover/chatwoot/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/omni-channel-desk/

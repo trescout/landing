@@ -6,9 +6,6 @@ O compêndio Maths-cs-ai oferece uma coleção abrangente de recursos que cobrem
 - TypeScript
 - GitHub Trending · 2026-07-15
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 5.424 → 7.220.
-
 ## O que você ganha
 - Fortalecendo os fundamentos da matemática e da ciência da computação
 - Conhecimento profundo de inteligência artificial e aprendizado de máquina
@@ -16,7 +13,6 @@ O compêndio Maths-cs-ai oferece uma coleção abrangente de recursos que cobrem
 
 ## Como começar
 - Fonte oficial →
-Você não precisa de nenhuma instalação para começar a usar este guia. Você pode ler todos os capítulos online e dar uma olhada imediata no guia de estudo visitando o site oficial do projeto, henryndubuaku.github.io/maths-cs-ai-compendium.
 
 ## Termos relacionados do glossário
 

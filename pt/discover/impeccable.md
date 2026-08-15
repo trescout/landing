@@ -5,10 +5,6 @@ Impeccable é uma biblioteca de linguagem de design desenvolvida para melhorar o
 - ★ 56.704
 - GitHub Trending · 2026-06-02
 
-## Atualizar
-- 7 de agosto de 2026: Star 53.997 → 56.704, versão mais recente ext-v1.3.1 (30 de julho de 2026).
-- 2 de agosto de 2026: Star 33.104 → 53.997, versão mais recente ext-v1.3.1 (30 de julho de 2026).
-
 ## O que você ganha
 - Fornece linguagem de design padronizada e consistência visual para modelos de IA.
 - Ele acelera os processos de controle de design, melhoria e experiência do usuário com 23 comandos diferentes.

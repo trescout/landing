@@ -6,11 +6,6 @@ T3Code est un ensemble d'outils développé pour améliorer et standardiser la q
 - TypeScript
 - GitHub Trending · 2026-07-13
 
-## Mise à jour
-- 11 août 2026 : Star 17 232 → 18 086, dernière version v0.0.33 (10 août 2026).
-- 7 août 2026 : Star 16 312 → 17 232, dernière version v0.0.32 (7 août 2026).
-- 2 août 2026 : Star 13 814 → 16 312, dernière version v0.0.31 (29 juillet 2026).
-
 ## Ce que ça vous apporte
 - Prise en charge du Codex, Claude, Cursor et OpenCode
 - Gestion du code visuel via navigateur

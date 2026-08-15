@@ -6,10 +6,6 @@ ComfyUI ist ein modulares Visualisierungstool, das eine knotenbasierte Schnittst
 - Python
 - GitHub Trending · 2026-08-10
 
-## Aktualisieren
-- 12. August 2026: Star 125.723 → 126.885, neueste Version v0.32.0 (11. August 2026).
-- 10. August 2026: Star 125.719 → 125.723, neueste Version v0.31.0 (8. August 2026).
-
 ## Was es bringt
 - Entwerfen Sie komplexe Arbeitsabläufe, ohne Code schreiben zu müssen, mit einer knotenbasierten Schnittstelle.
 - Erstellen Sie Bilder, Videos, Audio- und 3D-Modelle auf einer einzigen Plattform.

@@ -7,12 +7,6 @@ Ingénierie composée ; Claude Code est un module complémentaire officiel pour
 - MIT
 - GitHub Trending · 29 May 2026
 
-## Mise à jour
-- 6 août 2026 : Star 24.041 → 24.046, dernière version compound-engineering-v3.21.4 (6 août 2026).
-- 6 août 2026 : Star 23.748 → 24.041, dernière version compound-engineering-v3.21.3 (5 août 2026).
-- 4 août 2026 : Star 23 700 → 23 748, dernière version compound-engineering-v3.21.1 (4 août 2026).
-- 2 août 2026 : Star 17 931 → 23 700, dernière version compound-engineering-v3.21.0 (31 juillet 2026).
-
 ## Ce que ça vous apporte
 - Chaque tâche rend la suivante plus facile, de sorte que votre productivité augmente de manière cumulative.
 - Fournit des compétences et des agents prêts à l'emploi.
@@ -20,6 +14,21 @@ Ingénierie composée ; Claude Code est un module complémentaire officiel pour
 
 ## Pour commencer
 Vous pouvez l'installer en tant que module complémentaire à votre assistant IA, puis intégrer les compétences et les agents dans votre flux de travail.
+
+## Comment installer, comment utiliser ?
+**Claude Code · place de marché + installation**
+
+```
+/plugin marketplace add EveryInc/compound-engineering-plugin
+/plugin install compound-engineering
+```
+
+**Préparer le projet après l'installation**
+
+```
+/ce-setup
+```
+
 
 ## Termes liés du glossaire
 

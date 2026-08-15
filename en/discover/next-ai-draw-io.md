@@ -6,9 +6,6 @@ This Next.js-based application combines diagramming tool draw.io with generative
 - TypeScript
 - GitHub Trending · 2026-07-12
 
-## Update
-- August 2, 2026: Star 33,359 → 33,999, latest version v0.4.16 (May 21, 2026).
-
 ## What you get
 - Draw professional diagrams with natural language commands
 - Convert existing images and PDF files into diagrams

@@ -5,10 +5,6 @@ GitHub Copilot SDK ofrece un kit de desarrollo de software (SDK) multiplataforma
 - ★ 10.354
 - GitHub Trending · 2026-06-05
 
-## Actualizar
-- 6 de agosto de 2026: Star 10.331 → 10.354, última versión Rust/v1.0.9 (6 de agosto de 2026).
-- 2 de agosto de 2026: Star 9070 → 10331, última versión Rust/v1.0.8 (22 de julio de 2026).
-
 ## Qué aporta
 - Integre el motor Copilot en sus aplicaciones
 - Automatizar los procesos de planificación y herramientas.

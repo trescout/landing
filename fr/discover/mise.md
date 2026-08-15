@@ -6,10 +6,6 @@ Mise est un outil qui vous permet de gérer les outils de développement logicie
 - Rust
 - GitHub Trending · 2026-08-08
 
-## Mise à jour
-- 11 août 2026 : Star 32 098 → 32 258, dernière version v2026.8.4 (11 août 2026).
-- 8 août 2026 : Star 32 098 → 32 098, dernière version v2026.8.3 (7 août 2026).
-
 ## Ce que ça vous apporte
 - Gère automatiquement les outils et les versions du projet
 - Définit les variables d'environnement sur la base d'un projet
@@ -17,7 +13,6 @@ Mise est un outil qui vous permet de gérer les outils de développement logicie
 
 ## Pour commencer
 - Source officielle →
-Pour l'installer, vous pouvez visiter la section « Démarrage » sur la page de documentation officielle et suivre les étapes appropriées à votre système d'exploitation. Après l'installation, vous devez configurer les commandes 'activate' nécessaires au fonctionnement intégré de l'outil à votre shell, en fonction de votre type de terminal, via la même documentation.
 
 ## Termes liés du glossaire
 

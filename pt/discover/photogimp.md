@@ -6,9 +6,6 @@ PhotoGIMP oferece um patch que faz com que a interface do GIMP pareça familiar 
 - CSS
 - GitHub Trending · 2026-07-09
 
-## Atualizar
-- 2 de agosto de 2026: Star 15.195 → 17.197, última versão 3.1 (11 de julho de 2026).
-
 ## O que você ganha
 - Mesmas teclas de atalho do Photoshop
 - Layout do veículo com o qual você está acostumado

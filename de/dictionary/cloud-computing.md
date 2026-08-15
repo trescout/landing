@@ -28,5 +28,8 @@ Bei richtiger Konfiguration ist es im Allgemeinen sicherer als Personalcomputer.
 - [IaaS](/de/dictionary/iaas/)
 - [Personal Cloud](/de/dictionary/personal-cloud/)
 
+## Verwandte Werkzeuge
+- [DevOps-Interview-Guide](/de/discover/devops-interview-guide/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cloud-computing/

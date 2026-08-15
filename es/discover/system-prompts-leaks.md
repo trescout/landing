@@ -6,9 +6,6 @@ El repositorio system_prompts_leaks compartido en GitHub reúne indicaciones del
 - JavaScript
 - GitHub Trending · 2026-06-22
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 44,809 → 61,968.
-
 ## Qué aporta
 - Oportunidad de examinar configuraciones de fondo de modelos populares de inteligencia artificial.
 - Vea las restricciones de modelos como Claude, ChatGPT y Gemini
@@ -16,7 +13,6 @@ El repositorio system_prompts_leaks compartido en GitHub reúne indicaciones del
 
 ## Cómo empezar
 - Fuente oficial →
-Esta herramienta no requiere instalación de software. Al ir al repositorio de fugas de mensajes del sistema en GitHub, puede hacer clic en la carpeta del modelo o empresa de inteligencia artificial que desea examinar y leer los archivos de mensajes del sistema relevantes directamente desde su navegador.
 
 ## Términos relacionados del glosario
 

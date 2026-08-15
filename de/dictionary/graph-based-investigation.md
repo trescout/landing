@@ -26,5 +26,8 @@ Dank Visualisierungstools kann jeder, der Logik versteht, Zusammenhänge verfolg
 - [Knowledge Graph](/de/dictionary/knowledge-graph/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Flowsint](/de/discover/flowsint/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/graph-based-investigation/

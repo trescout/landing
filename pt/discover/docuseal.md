@@ -6,11 +6,6 @@ DocuSeal oferece uma alternativa de código aberto para criação, preenchimento
 - Ruby
 - GitHub Trending · 2026-07-18
 
-## Atualizar
-- 12 de agosto de 2026: Star 18.183 → 18.245, última versão 3.2.0 (11 de agosto de 2026).
-- 4 de agosto de 2026: Star 18.176 → 18.183, última versão 3.1.7 (3 de agosto de 2026).
-- 2 de agosto de 2026: Star 17.916 → 18.176, última versão 3.1.6 (27 de julho de 2026).
-
 ## O que você ganha
 - Crie e assine formulários PDF online
 - Interface de usuário compatível com dispositivos móveis

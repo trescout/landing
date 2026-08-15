@@ -6,9 +6,6 @@ MiroFish bietet eine einfache und universelle Schwarmintelligenz-Engine, die zur
 - Python
 - GitHub Trending · 2026-06-06
 
-## Aktualisieren
-- 2. August 2026: Star 64.830 → 69.813, neueste Version v0.1.2 (7. März 2026).
-
 ## Was es bringt
 - Erstellt digitale Simulationswelten aus realen Daten.
 - Es ermöglicht die Interaktion mit Agenten der künstlichen Intelligenz mit unabhängigen Persönlichkeiten.

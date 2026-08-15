@@ -5,9 +5,6 @@ Zhangxuefeng-skill bietet ein strukturiertes kognitives Betriebssystem für Univ
 - ★ 10.048
 - GitHub Trending · 2026-06-12
 
-## Aktualisieren
-- 2. August 2026: Stern 8.114 → 10.048.
-
 ## Was es bringt
 - Analysiert komplexe Karriere- und Bildungsentscheidungen anhand des kognitiven Rahmens von 张雪峰.
 - Es bietet konkrete Empfehlungen, die sich auf Beschäftigungsdaten und die soziale Realität konzentrieren.

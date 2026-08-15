@@ -24,5 +24,8 @@ Zu Ihrer Sicherheit; Wenn Sie Ihre Identität nicht in einem System in einem and
 - [Database](/de/dictionary/database/)
 - [CRM](/de/dictionary/crm/)
 
+## Verwandte Werkzeuge
+- [Simplex Chat](/de/discover/simplex-chat/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/user-identifiers/

@@ -6,11 +6,6 @@ Semantica is a graph-native infrastructure that provides contextual data managem
 - Python
 - GitHub Trending · 2026-08-08
 
-## Update
-- August 12, 2026: Star 3,493 → 5,094, latest version v0.6.5 (August 11, 2026).
-- August 10, 2026: Star 2,398 → 3,493, latest version v0.6.0 (July 21, 2026).
-- August 8, 2026: Star 2,396 → 2,398, latest version v0.6.0 (July 21, 2026).
-
 ## What you get
 - Makes decision processes traceable and auditable
 - Converts data into a relational knowledge graph

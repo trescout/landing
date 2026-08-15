@@ -6,9 +6,6 @@ Le référentiel ChinaTextbook propose une archive numérique des manuels utilis
 - Roff
 - GitHub Trending · 2026-06-08
 
-## Mise à jour
-- 3 août 2026 : Étoile 72 765 → 76 412.
-
 ## Ce que ça vous apporte
 - Donne accès à une vaste archive de manuels chinois de l’école primaire à l’université.
 - Il facilite l'accès à des ressources gratuites en collectant du matériel pédagogique en un point central.
@@ -16,7 +13,6 @@ Le référentiel ChinaTextbook propose une archive numérique des manuels utilis
 
 ## Pour commencer
 - Source officielle →
-Vous pouvez directement consulter ou télécharger des manuels scolaires aux niveaux primaire, secondaire, secondaire et universitaire au format PDF en visitant la page GitHub du référentiel ChinaTextbook. Si le fichier que vous avez téléchargé est divisé en morceaux, vous pouvez télécharger l'outil de fusion sur votre ordinateur en cliquant sur le lien « 下载文件合并程序 » sur la page du projet et le fusionner en l'exécutant dans le même dossier que les fichiers concernés.
 
 ## Termes liés du glossaire
 

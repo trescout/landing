@@ -6,9 +6,6 @@ Claude Code-Vorlagen bieten eine Befehlszeilenschnittstelle (CLI) für das Claud
 - Python
 - GitHub Trending · 2026-07-11
 
-## Aktualisieren
-- 2. August 2026: Star 28.812 → 30.058, neueste Version v1.28.3 (15. November 2025).
-
 ## Was es bringt
 - Mehr als hundert vorgefertigte KI-Agenten und Befehlszugriff
 - Schnelle Integration und Hook-Verwaltung für externe Dienste

@@ -7,9 +7,6 @@ Claude Code Harness introduces the discipline of plan, do, review and deliver, c
 - MIT
 - GitHub Trending · 28 May 2026
 
-## Update
-- August 2, 2026: Star 1,838 → 3,037, latest version v5.6.0 (August 1, 2026).
-
 ## What you get
 - The agent does not disperse; The plan is kept on record.
 - Quality is increased by limiting tests.
@@ -17,6 +14,30 @@ Claude Code Harness introduces the discipline of plan, do, review and deliver, c
 
 ## Getting started
 Integrated into Claude Code with installation in the repository; then implements the plan, do, review cycle.
+
+## How to install, how to use?
+**Claude Code · marketplace + installation**
+
+```
+/plugin marketplace add Chachamaru127/claude-code-harness
+/plugin install claude-code-harness@claude-code-harness-marketplace
+```
+
+**Start installation**
+
+```
+/harness-setup
+```
+
+**Flow: plan → work → review → publish**
+
+```
+/harness-plan
+/harness-work
+/harness-review
+/harness-release
+```
+
 
 ## Related dictionary terms
 

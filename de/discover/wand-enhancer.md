@@ -6,11 +6,6 @@ Wand-Enhancer ist ein C#-basiertes Plugin, das die Benutzererfahrung verbessert 
 - C#
 - GitHub Trending · 2026-07-13
 
-## Aktualisieren
-- 11. August 2026: Star 15.270 → 16.468, letzte Version 1.0.9.4 (21. Juli 2026).
-- 7. August 2026: Star 14.159 → 15.270, letzte Version 1.0.9.4 (21. Juli 2026).
-- 2. August 2026: Star 7.061 → 14.159, letzte Version 1.0.9.4 (21. Juli 2026).
-
 ## Was es bringt
 - Verwalten und verbessern Sie lokale Clienteinstellungen
 - Fernbedienfeld über Mobilgerät
@@ -18,7 +13,6 @@ Wand-Enhancer ist ein C#-basiertes Plugin, das die Benutzererfahrung verbessert 
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Dieses Tool stellt keine vorgefertigte Installationsdatei bereit. Verzweigen Sie das ursprüngliche Repository auf GitHub in Ihr eigenes Konto, erstellen Sie dann Ihre eigene ausführbare Datei und laden Sie sie herunter, indem Sie den Workflow „Ausführbare Datei erstellen“ über die Registerkarte „Aktionen“ starten.
 
 ## Verwandte Begriffe aus dem Glossar
 

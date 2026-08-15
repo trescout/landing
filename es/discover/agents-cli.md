@@ -6,10 +6,6 @@ La interfaz de línea de comandos (CLI) desarrollada por Google fabrica asistent
 - Python
 - GitHub Trending · 2026-07-01
 
-## Actualizar
-- 6 de agosto de 2026: Star 5455 → 5491, última versión v1.3.1 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 4413 → 5455, última versión v1.2.1 (23 de julio de 2026).
-
 ## Qué aporta
 - Estandariza los procesos de desarrollo de agentes en Google Cloud
 - Brinda a los asistentes de codificación la capacidad de crear e implementar agentes

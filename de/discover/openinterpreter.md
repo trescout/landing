@@ -6,9 +6,6 @@ Open Interpreter bietet einen Codierungsagenten, der Softwareentwicklungsprozess
 - Rust
 - GitHub Trending · 2026-07-16
 
-## Aktualisieren
-- 2. August 2026: Star 65.626 → 67.509, neueste Version rust-v0.0.34 (18. Juli 2026).
-
 ## Was es bringt
 - Es automatisiert Softwareprozesse über das lokale Terminal.
 - Es ist mit kostengünstigen Sprachmodellen kompatibel.

@@ -5,10 +5,6 @@ Desenvolvido com Rust, fff é um kit de ferramentas para agentes de inteligênci
 - ★ 9.894
 - GitHub Trending · 2026-06-02
 
-## Atualizar
-- 7 de agosto de 2026: Star 9.882 → 9.894, versão mais recente v0.10.3 (7 de agosto de 2026).
-- 2 de agosto de 2026: Star 7.319 → 9.882, versão mais recente v0.10.1 (20 de julho de 2026).
-
 ## O que você ganha
 - Ele fornece alta velocidade na pesquisa de arquivos e navegação de conteúdo.
 - Ele oferece classificação baseada em frequência que prioriza arquivos usados ​​com frequência.

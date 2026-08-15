@@ -6,11 +6,6 @@ DocuSeal ofrece una alternativa de código abierto para crear, completar y firma
 - Ruby
 - GitHub Trending · 2026-07-18
 
-## Actualizar
-- 12 de agosto de 2026: Estrella 18,183 → 18,245, última versión 3.2.0 (11 de agosto de 2026).
-- 4 de agosto de 2026: Estrella 18,176 → 18,183, última versión 3.1.7 (3 de agosto de 2026).
-- 2 de agosto de 2026: Estrella 17,916 → 18,176, última versión 3.1.6 (27 de julio de 2026).
-
 ## Qué aporta
 - Cree y firme formularios PDF en línea
 - Interfaz de usuario compatible con dispositivos móviles

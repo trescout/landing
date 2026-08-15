@@ -5,10 +5,6 @@ ASP.NET Core ist ein plattformübergreifendes .NET-Framework zur Entwicklung mod
 - ★ 38.367
 - GitHub Trending · 2026-06-19
 
-## Aktualisieren
-- 12. August 2026: Star 38.339 → 38.367, neueste Version v10.0.11 (11. August 2026).
-- 2. August 2026: Star 38.124 → 38.339, neueste Version v8.0.29 (14. Juli 2026).
-
 ## Was es bringt
 - Plattformübergreifender Betrieb unter Windows, macOS und Linux
 - Cloudbasierte und skalierbare Anwendungsentwicklung

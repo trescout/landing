@@ -27,5 +27,15 @@ Sie können es mit jedem Texteditor öffnen, aber mit speziellen Viewern können
 - [API](/de/dictionary/api/)
 - [CLI](/de/dictionary/cli/)
 
+## Verwandte Werkzeuge
+- [MarkItDown](/de/discover/markitdown/)
+- [Firecrawl](/de/discover/firecrawl/)
+- [PaddleOCR](/de/discover/paddleocr/)
+- [MinerU](/de/discover/mineru/)
+- [Crawl4AI](/de/discover/crawl4ai/)
+- [Scrapling](/de/discover/scrapling/)
+- [Opendataloader PDF](/de/discover/opendataloader-pdf/)
+- [Book to Skill](/de/discover/book-to-skill/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/markdown/

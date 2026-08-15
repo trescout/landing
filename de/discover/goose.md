@@ -6,9 +6,6 @@ Goose ist ein Open-Source-KI-Agent, der über Codevorschläge hinausgeht und die
 - Rust
 - GitHub Trending · 2026-06-08
 
-## Aktualisieren
-- 2. August 2026: Star 47.753 → 52.110, neueste Version v1.45.0 (29. Juli 2026).
-
 ## Was es bringt
 - Es automatisiert Softwareinstallations-, Ausführungs- und Testprozesse.
 - Es arbeitet integriert mit mehr als 15 Anbietern künstlicher Intelligenz zusammen.

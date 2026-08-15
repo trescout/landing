@@ -7,10 +7,6 @@ iii es un método para crear, ampliar y monitorear todos los servicios en su pil
 - Lisans: yok
 - GitHub Trending · 28 May 2026
 
-## Actualizar
-- 7 de agosto de 2026: Star 18.547 → 18.570, última versión iii/v0.22.1 (7 de agosto de 2026).
-- 2 de agosto de 2026: Star 16.881 → 18.547, última versión iii/v0.22.0 (22 de julio de 2026).
-
 ## Qué aporta
 - Gestión de colas, cron, HTTP y estado en un solo lugar.
 - Oportunidad de trazabilidad en tiempo real.
@@ -19,6 +15,33 @@ iii es un método para crear, ampliar y monitorear todos los servicios en su pil
 
 ## Cómo empezar
 Para comenzar y acceder a la documentación, puede visitar iii.dev.
+
+## ¿Cómo instalar, cómo utilizar?
+**Crear proyecto**
+
+```
+iii project init myapp
+```
+
+**arrancar el motor**
+
+```
+cd myapp
+iii
+```
+
+**Agregar trabajador (habilidad)**
+
+```
+iii worker add queue
+```
+
+**Instalar el SDK de Node.js**
+
+```
+npm install iii-sdk
+```
+
 
 ## Términos relacionados del glosario
 

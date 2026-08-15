@@ -6,10 +6,6 @@ LMCache bietet eine Ebene, die die Inferenzgeschwindigkeit erhöht, indem die Ve
 - Python
 - GitHub Trending · 2026-06-13
 
-## Aktualisieren
-- 6. August 2026: Star 10.985 → 11.038, neueste Version v0.5.3 (5. August 2026).
-- 2. August 2026: Star 8.698 → 10.985, neueste Version Operator-v0.5.1 (23. Juli 2026).
-
 ## Was es bringt
 - Es verkürzt die Zeit für den ersten Token, indem es die Inferenzgeschwindigkeit in großen Sprachmodellen erhöht.
 - Es reduziert die Rechenlast durch die Optimierung der Speichernutzung.

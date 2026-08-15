@@ -6,10 +6,6 @@ Plane ist eine Open-Source-Projektmanagementplattform, die Aufgabenverwaltung, S
 - TypeScript
 - GitHub Trending · 2026-06-18
 
-## Aktualisieren
-- 7. August 2026: Star 55.364 → 55.693, neueste Version v1.4.1 (7. August 2026).
-- 2. August 2026: Star 51.506 → 55.364, neueste Version v1.4.0 (31. Juli 2026).
-
 ## Was es bringt
 - Verfolgen Sie Aufgaben und Produkt-Roadmaps in einer zentralen Oberfläche
 - Aufteilung komplexer Projekte in überschaubare Module und Zyklen
@@ -39,7 +35,6 @@ chmod +x setup.sh
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Um schnell loszulegen, können Sie über Plane Cloud ein kostenloses Konto erstellen. Wenn Sie es auf Ihrer eigenen Infrastruktur hosten möchten, können Sie es auf Ihrem eigenen Server installieren, indem Sie den Docker- oder Kubernetes-Installationsanleitungen auf der offiziellen Dokumentationsseite folgen.
 
 ## Verwandte Begriffe aus dem Glossar
 

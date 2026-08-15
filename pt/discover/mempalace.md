@@ -6,10 +6,6 @@ MemPalace oferece um sistema de memória de código aberto para modelos de intel
 - Python
 - GitHub Trending · 2026-06-06
 
-## Atualizar
-- 12 de agosto de 2026: Star 57.977 → 58.311, versão mais recente v3.7.0 (11 de agosto de 2026).
-- 2 de agosto de 2026: Star 53.981 → 57.977, versão mais recente v3.6.0 (17 de julho de 2026).
-
 ## O que você ganha
 - Oferece pesquisa semântica, mantendo o histórico da conversa como está.
 - Cria uma estrutura de memória organizada categorizando pessoas, projetos e tópicos.

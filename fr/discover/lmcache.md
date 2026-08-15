@@ -6,10 +6,6 @@ LMCache offre une couche qui augmente la vitesse d'inférence en optimisant la g
 - Python
 - GitHub Trending · 2026-06-13
 
-## Mise à jour
-- 6 août 2026 : Star 10 985 → 11 038, dernière version v0.5.3 (5 août 2026).
-- 2 août 2026 : Star 8 698 → 10 985, dernière version Operator-v0.5.1 (23 juillet 2026).
-
 ## Ce que ça vous apporte
 - Il raccourcit le temps du premier jeton en augmentant la vitesse d'inférence dans les grands modèles de langage.
 - Il réduit la charge de calcul en optimisant l'utilisation de la mémoire.

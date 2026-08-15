@@ -6,9 +6,6 @@ Développé avec le langage Go, Pentagi propose un système d'agents d'intellige
 - Go
 - GitHub Trending · 2026-07-10
 
-## Mise à jour
-- 2 août 2026 : Étoile 19 634 → 21 475, dernière version v2.1.0 (29 mai 2026).
-
 ## Ce que ça vous apporte
 - Tests de sécurité entièrement autonomes dans un environnement Sandboxed Docker
 - Prise en charge de plus de 20 outils professionnels tels que Nmap et SQLmap

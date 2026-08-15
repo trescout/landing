@@ -7,9 +7,6 @@ Anthropic Skills; It is the official repository of skill packs that Claude dynam
 - Lisans: kontrol et
 - GitHub Trending · 29 May 2026
 
-## Update
-- August 2, 2026: Star 143,307 → 165,785.
-
 ## What you get
 - Ready and formal abilities for Claude.
 - Dynamic loading: comes into play only when necessary.
@@ -17,6 +14,20 @@ Anthropic Skills; It is the official repository of skill packs that Claude dynam
 
 ## How to use?
 You define the relevant skill as a skill to Claude (e.g. Claude Code or Cowork); In this way, your performance in special tasks increases.
+
+## How to install, how to use?
+**Add Marketplace (Claude Code)**
+
+```
+/plugin marketplace add anthropics/skills
+```
+
+**Build your document skills**
+
+```
+/plugin install document-skills@anthropic-agent-skills
+```
+
 
 ## Related dictionary terms
 

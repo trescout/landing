@@ -6,10 +6,6 @@ Invidious est une interface open source développée comme alternative à la pla
 - Crystal
 - GitHub Trending · 2026-08-02
 
-## Mise à jour
-- 6 août 2026 : Star 21 884 → 22 400, dernière version v2.20260804.1 (5 août 2026).
-- 2 août 2026 : Star 21 676 → 21 884, dernière version v2.20260723.0 (23 juillet 2026).
-
 ## Ce que ça vous apporte
 - Regardez des vidéos YouTube sans publicité ni suivi des données
 - Abonnez-vous aux chaînes sans avoir besoin d'un compte Google
@@ -33,7 +29,6 @@ docker compose up -d
 
 ## Pour commencer
 - Source officielle →
-Vous n'avez besoin d'aucune installation pour commencer à utiliser Invidious. Vous pouvez sélectionner un serveur en accédant à la liste d'échantillons publics via votre navigateur Internet et commencer à regarder des vidéos immédiatement. Si vous souhaitez configurer votre propre serveur, vous pouvez suivre les étapes d'installation sur la page de documentation officielle.
 
 ## Liens
 - Dépôt GitHub →

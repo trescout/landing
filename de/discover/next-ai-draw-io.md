@@ -6,9 +6,6 @@ Diese Next.js-basierte Anwendung kombiniert das Diagrammtool draw.io mit generat
 - TypeScript
 - GitHub Trending · 2026-07-12
 
-## Aktualisieren
-- 2. August 2026: Star 33.359 → 33.999, neueste Version v0.4.16 (21. Mai 2026).
-
 ## Was es bringt
 - Zeichnen Sie professionelle Diagramme mit Befehlen in natürlicher Sprache
 - Konvertieren Sie vorhandene Bilder und PDF-Dateien in Diagramme

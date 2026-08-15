@@ -28,5 +28,8 @@ Tokenbasierte Systeme verfügen derzeit über eine deutlich optimiertere und wei
 - [Multimodal](/de/dictionary/multimodal/)
 - [NLP](/de/dictionary/nlp/)
 
+## Verwandte Werkzeuge
+- [VoxCPM](/de/discover/voxcpm/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/tokenizer-free/

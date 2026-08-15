@@ -6,9 +6,6 @@ This visual guide for Claude Code offers a wide range of examples, from basic co
 - Python
 - GitHub Trending · 2026-06-09
 
-## Update
-- August 2, 2026: Star 36,008 → 40,779, latest version v2.1.160 (June 2, 2026).
-
 ## What you get
 - Integrating Claude Code features into workflows.
 - Speeding up code development processes with ready-made templates.

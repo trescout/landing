@@ -6,9 +6,6 @@ Die Meshoptimizer-Bibliothek optimiert dreidimensionale Netzdaten, reduziert die
 - C++
 - GitHub Trending · 2026-07-11
 
-## Aktualisieren
-- 2. August 2026: Star 8.045 → 8.177, neueste Version v1.2 (30. Juni 2026).
-
 ## Was es bringt
 - Reduziert die Dateigröße für dreidimensionale Modelle
 - Erhöht die GPU-Rendering-Leistung

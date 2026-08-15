@@ -21,5 +21,8 @@ Normalerweise nein; Es ist als Werkzeug positioniert, das die Arbeit des Lehrers
 - [AI Companion](/de/dictionary/ai-companion/)
 - [Generative AI](/de/dictionary/generative-ai/)
 
+## Verwandte Werkzeuge
+- [DeepTutor](/de/discover/deeptutor/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/personalized-tutoring/

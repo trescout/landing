@@ -6,9 +6,6 @@ Desenvolvido com a linguagem Rust, Karukan é um sistema de método de entrada j
 - Rust
 - GitHub Trending · 2026-07-02
 
-## Atualizar
-- 2 de agosto de 2026: Star 615 → 692, versão mais recente v0.1.0 (23 de fevereiro de 2026).
-
 ## O que você ganha
 - Conversão neural kana-kanji baseada em GPT-2
 - Conversão de texto ao vivo em tempo real enquanto você digita

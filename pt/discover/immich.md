@@ -6,9 +6,6 @@ Immich é uma solução de gerenciamento de mídia auto-hospedada de alto desemp
 - TypeScript
 - GitHub Trending · 2026-07-05
 
-## Atualizar
-- 2 de agosto de 2026: Star 105.748 → 109.538, versão mais recente v3.1.0 (29 de julho de 2026).
-
 ## O que você ganha
 - Armazenamento central para fotos e vídeos
 - Reconhecimento facial e pesquisa baseada em objetos
@@ -34,7 +31,6 @@ docker compose up -d
 
 ## Como começar
 - Fonte oficial →
-Visite a página de documentação oficial para detalhes de instalação e uso. Você pode iniciar o gerenciamento de mídia em seu próprio servidor seguindo os guias de instalação em https://immich.app/.
 
 ## Termos relacionados do glossário
 

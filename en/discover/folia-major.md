@@ -6,12 +6,6 @@ Folia-major is a player interface that provides visualized lyric animations for 
 - TypeScript
 - GitHub Trending · 2026-07-05
 
-## Update
-- 10 August 2026: Star 1.673 → 1.683, latest version v0.6.16 (9 August 2026).
-- 9 August 2026: Star 1.651 → 1.673, latest version v0.6.15 (8 August 2026).
-- August 7, 2026: Star 1,640 → 1,651, latest version v0.6.14 (August 6, 2026).
-- August 6, 2026: Star 1,602 → 1,640, latest version v0.6.13 (August 5, 2026).
-
 ## What you get
 - Dynamic full-screen lyric animations
 - AI-powered theme and color creation
@@ -19,7 +13,6 @@ Folia-major is a player interface that provides visualized lyric animations for 
 
 ## Getting started
 - Official source →
-To start using it directly, you can download and install the desktop version for Windows, macOS or Linux from the Releases section on the GitHub page. If you want to use it on the web or host it on your own server, you can review the one-click distribution method with Vercel in the official guide of the project.
 
 ## Related dictionary terms
 

@@ -6,9 +6,6 @@ Desenvolvido pela Uber, o ADR protege agentes corporativos de IA com observabili
 - Python
 - GitHub Trending · 2026-08-05
 
-## Atualizar
-- 6 de agosto de 2026: Star 782 → 1.123, versão mais recente sensor-v1.0.0 (31 de julho de 2026).
-
 ## O que você ganha
 - Ele monitora as ações realizadas pelos agentes de IA, permitindo entender o que eles fazem e por que o fazem.
 - Testa a segurança do agente com mais de 300 missões contra 17 técnicas de ataque diferentes.

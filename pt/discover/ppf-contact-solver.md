@@ -7,11 +7,6 @@ O PPF Contact Solver, como mecanismo de física da ZOZO, foi projetado para reso
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Atualizar
-- 7 de agosto de 2026: Star 4.380 → 4.404, última versão addon-2026-08-08-0540 (7 de agosto de 2026).
-- 3 de agosto de 2026: Star 4.378 → 4.380, última versão addon-2026-08-03-0714 (2 de agosto de 2026).
-- 2 de agosto de 2026: Star 3.389 → 4.378, última versão addon-2026-07-27-0038 (26 de julho de 2026).
-
 ## O que isso faz?
 - Ele realiza simulações realistas de tecidos, objetos sólidos e cordas.
 - Aumenta a consistência física em simulações.
@@ -20,6 +15,16 @@ O PPF Contact Solver, como mecanismo de física da ZOZO, foi projetado para reso
 
 ## Para quem não é adequado?
 Este não é um aplicativo de usuário final. É necessário conhecimento de programação e simulação física para usar; Apela mais para o campo gráfico/pesquisa.
+
+## Como instalar, como usar?
+**Inicie com Docker (requer GPU NVIDIA)**
+
+```
+docker run --rm -it --name ppf-contact-solver --gpus all \
+  -p 8080:8080 -p 9090:9090 -e WEB_PORT=8080 \
+  ghcr.io/st-tech/ppf-contact-solver-compiled:latest
+```
+
 
 ## Termos relacionados do glossário
 

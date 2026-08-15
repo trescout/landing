@@ -6,9 +6,6 @@ Construído na infraestrutura TurboQuant, turbovec é uma ferramenta de índice 
 - Python
 - GitHub Trending · 2026-06-08
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 7.703 → 14.575.
-
 ## O que você ganha
 - Ele reduz o uso de memória ao compactar altamente dados vetoriais.
 - Ele fornece adição instantânea de dados e pesquisa rápida sem exigir uma fase de treinamento.

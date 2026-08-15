@@ -6,9 +6,6 @@ Le référentiel open source NGINX continue d'être développé en C en tant que
 - C
 - GitHub Trending · 2026-06-07
 
-## Mise à jour
-- 2 août 2026 : Star 30 727 → 31 312, dernière version release-1.31.3 (15 juillet 2026).
-
 ## Ce que ça vous apporte
 - Serveur Web haute performance et gestion de proxy inverse.
 - Fonctionnalités avancées d’équilibrage de charge et de mise en cache de contenu.

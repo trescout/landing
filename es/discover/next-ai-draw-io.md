@@ -6,9 +6,6 @@ Esta aplicación basada en Next.js combina la herramienta de diagramación draw.
 - TypeScript
 - GitHub Trending · 2026-07-12
 
-## Actualizar
-- 2 de agosto de 2026: Star 33,359 → 33,999, última versión v0.4.16 (21 de mayo de 2026).
-
 ## Qué aporta
 - Dibuja diagramas profesionales con comandos de lenguaje natural.
 - Convierta imágenes existentes y archivos PDF en diagramas

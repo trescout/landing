@@ -24,5 +24,15 @@ Wenn Sie in die Welt der Software einsteigen möchten, ja, denn viele Tools funk
 - [GUI](/de/dictionary/gui/)
 - [Runtime](/de/dictionary/runtime/)
 
+## Verwandte Werkzeuge
+- [Claude Code](/de/discover/claude-code/)
+- [Terminal](/de/discover/terminal/)
+- [Openinterpreter](/de/discover/openinterpreter/)
+- [Career Ops](/de/discover/career-ops/)
+- [Free Claude Code](/de/discover/free-claude-code/)
+- [DeepSeek-Reasonix](/de/discover/deepseek-reasonix/)
+- [Mise](/de/discover/mise/)
+- [Oh My Pi](/de/discover/oh-my-pi/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/terminal/

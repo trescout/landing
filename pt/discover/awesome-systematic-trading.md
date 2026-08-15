@@ -6,9 +6,6 @@ Esta lista, que reúne bibliotecas, estratégias e recursos educacionais na áre
 - Python
 - GitHub Trending · 2026-07-29
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 9.886 → 12.499.
-
 ## O que você ganha
 - 97 bibliotecas e pacotes comerciais
 - Mais de 40 estratégias corporativas e acadêmicas
@@ -16,7 +13,6 @@ Esta lista, que reúne bibliotecas, estratégias e recursos educacionais na áre
 
 ## Como começar
 - Fonte oficial →
-Esta ferramenta não requer instalação de software; É um guia completo que compila bibliotecas, livros e recursos educacionais necessários para desenvolver estratégias comerciais sistemáticas. Ao examinar os títulos na página do GitHub, você pode clicar nas categorias de seu interesse (backtesting, análise de dados, estratégias, etc.) e acessar os recursos relevantes.
 
 ## Termos relacionados do glossário
 

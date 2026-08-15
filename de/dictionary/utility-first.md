@@ -20,8 +20,12 @@ Es mag zunächst so erscheinen, aber es ist ein großer Vorteil, das gesamte Des
 
 
 ## Verwandte Begriffe
+- [CSS Framework](/de/dictionary/css-framework/)
 - [Frontend Stack](/de/dictionary/frontend-stack/)
 - [User Interface](/de/dictionary/user-interface/)
+
+## Verwandte Werkzeuge
+- [Tailwindcss](/de/discover/tailwindcss/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/utility-first/

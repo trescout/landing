@@ -12,7 +12,6 @@ Odoo é uma plataforma de planejamento de recursos empresariais de código abert
 
 ## Como começar
 - Fonte oficial →
-Para começar a instalar o Odoo, você precisa seguir as instruções de instalação na página oficial da documentação do Odoo. Para aprender o software, você pode conferir a plataforma Odoo eLearning ou o jogo de negócios Scale-up.
 
 ## Termos relacionados do glossário
 

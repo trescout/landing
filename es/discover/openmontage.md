@@ -6,10 +6,6 @@ OpenMontage es un sistema de código abierto basado en agentes que convierte a l
 - Python
 - GitHub Trending · 2026-06-18
 
-## Actualizar
-- 12 de agosto de 2026: Estrella 44,651 → 47,498.
-- 2 de agosto de 2026: Estrella 5.648 → 44.651.
-
 ## Qué aporta
 - Edición automática de escenarios, visuales y sonoros.
 - Recopilación de vídeos a partir de material de archivo y archivos abiertos.

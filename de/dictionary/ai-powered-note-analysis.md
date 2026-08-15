@@ -27,5 +27,8 @@ In Kombination mit der OCR-Technologie ist das möglich.
 - [LLM](/de/dictionary/llm/)
 - [Memory](/de/dictionary/memory/)
 
+## Verwandte Werkzeuge
+- [Open Notebook](/de/discover/open-notebook/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-powered-note-analysis/

@@ -6,9 +6,6 @@ Flue wurde vom Astro-Team entwickelt und zeichnet sich durch ein TypeScript-basi
 - TypeScript
 - GitHub Trending · 2026-06-06
 
-## Aktualisieren
-- 2. August 2026: Stern 4.594 → 7.625.
-
 ## Was es bringt
 - Erstellen programmierbarer und kopfloser Agenten basierend auf TypeScript.
 - Schnelle und skalierbare Arbeitsumgebung mit virtueller Sandbox.

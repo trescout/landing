@@ -22,5 +22,17 @@ Wenn sie unkontrolliert bleiben, können sie fehlerhafte Vorgänge ausführen, w
 Sie machen Fortschritte, indem sie Wahrscheinlichkeitsberechnungen gemäß den ihnen vorgegebenen Regeln und Zielen durchführen.
 
 
+## Verwandte Begriffe
+- [Agentic AI](/de/dictionary/agentic-ai/)
+- [AI Skills](/de/dictionary/ai-skills/)
+- [MCP](/de/dictionary/mcp/)
+
+## Verwandte Werkzeuge
+- [Awesome LLM Apps](/de/discover/awesome-llm-apps/)
+- [Taste Skill](/de/discover/taste-skill/)
+- [Last30days Skill](/de/discover/last30days-skill/)
+- [AI Agent Book](/de/discover/ai-agent-book/)
+- [Hiring Agent](/de/discover/hiring-agent/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-agent/

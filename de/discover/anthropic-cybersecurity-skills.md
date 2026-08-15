@@ -7,9 +7,6 @@
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Aktualisieren
-- 1. August 2026: Star 9.924 → 27.085, neueste Version v1.3.0 (22. Juni 2026).
-
 ## Was es bringt
 - Es verleiht dem Agenten die Reflexe eines leitenden Analysten: Er weiß, welches Tool er wann verwenden muss.
 - Die Funktionen sind mit anerkannten Sicherheits-Frameworks (wie MITRE, NIST) kompatibel.
@@ -18,6 +15,14 @@
 
 ## So fangen Sie an
 Verpackt im Agentskills.io-Standard; Sie können es als Fähigkeit zu Ihrem KI-Assistenten hinzufügen. Schnellstartschritte sind im Repository verfügbar. Validieren Sie jede Funktion in Ihrem Kontext vor der Produktion.
+
+## Wie installiere ich, wie verwende ich?
+**mit npx hinzufügen (empfohlen)**
+
+```
+npx skills add mukul975/Anthropic-Cybersecurity-Skills
+```
+
 
 ## Verwandte Begriffe aus dem Glossar
 

@@ -21,5 +21,9 @@ Denn die Unterscheidung zweier Zustände (Spannung vorhanden/nicht vorhanden) in
 - [Compilation](/de/dictionary/compilation/)
 - [System Programming Language](/de/dictionary/system-programming-language/)
 
+## Verwandte Werkzeuge
+- [Protobuf](/de/discover/protobuf/)
+- [OfficeCLI](/de/discover/officecli/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/binary/

@@ -27,5 +27,8 @@ Da Informationen überall fließen, sind in diesen Systemen strenge Berechtigung
 - [Multi-agent](/de/dictionary/multi-agent/)
 - [Hive Mind Communication Platform](/de/dictionary/hive-mind-communication-platform/)
 
+## Verwandte Werkzeuge
+- [Buzz](/de/discover/buzz/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/hive-mind-communication/

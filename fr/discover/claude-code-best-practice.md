@@ -6,9 +6,6 @@ Ce guide développé pour Claude Code traite des processus de transition de l'ap
 - HTML
 - GitHub Trending · 2026-06-24
 
-## Mise à jour
-- 2 août 2026 : Étoile 59 766 → 63 889.
-
 ## Ce que ça vous apporte
 - Apprenez les processus d’ingénierie basés sur les agents.
 - Appliquer les meilleures pratiques pour Claude Code.
@@ -16,7 +13,6 @@ Ce guide développé pour Claude Code traite des processus de transition de l'ap
 
 ## Pour commencer
 - Source officielle →
-Cet outil n'est pas une bibliothèque de logiciels, mais un guide complet d'utilisation de Claude Code. Pour commencer, vous pouvez consulter les liens dans le tableau du référentiel GitHub pour en savoir plus sur des sujets tels que les sous-agents, les commandes et les compétences, et visiter la documentation officielle de Claude Code.
 
 ## Termes liés du glossaire
 

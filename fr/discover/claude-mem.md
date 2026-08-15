@@ -7,12 +7,6 @@ claude-mem permet à vos agents IA d'effectuer des rappels inter-sessions. Il ca
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Mise à jour
-- 11 août 2026 : Star 90.015 → 90.349, dernière version v13.15.0 (10 août 2026).
-- 8 août 2026 : Étoile 89 464 → 90 015, dernière version v13.14.0 (8 août 2026).
-- 4 août 2026 : Star 89.371 → 89.464, dernière version v13.13.1 (3 août 2026).
-- 3 août 2026 : Star 89.278 → 89.371, dernière version v13.13.0 (2 août 2026).
-
 ## Ce que ça vous apporte
 - L’agent ne repart pas de zéro à chaque fois, mais se souvient du passé.
 - L'historique de la session est résumé grâce à l'intelligence artificielle et les parties pertinentes sont rappelées.
@@ -20,6 +14,14 @@ claude-mem permet à vos agents IA d'effectuer des rappels inter-sessions. Il ca
 
 ## Comment ça marche
 Il enregistre automatiquement les actions entreprises par l'agent pendant la session.
+
+## Installation (commande unique)
+**Installation (commande unique)**
+
+```
+npx claude-mem install
+```
+
 
 ## Termes liés du glossaire
 

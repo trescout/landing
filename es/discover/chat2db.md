@@ -6,10 +6,6 @@ Chat2DB se destaca como una herramienta de gestión de bases de datos y un clien
 - Java
 - GitHub Trending · 2026-07-25
 
-## Actualizar
-- 6 de agosto de 2026: Star 27,604 → 27,657, última versión v5.3.3 (6 de agosto de 2026).
-- 2 de agosto de 2026: Star 26,409 → 27,604, última versión v5.3.2 (28 de julio de 2026).
-
 ## Qué aporta
 - Soporte para más de 30 bases de datos.
 - Cree y explique SQL con lenguaje natural.

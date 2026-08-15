@@ -6,10 +6,6 @@ Desenvolvido pelo Google, Angular é uma estrutura abrangente usada para criar a
 - TypeScript
 - GitHub Trending · 2026-08-05
 
-## Atualizar
-- 7 de agosto de 2026: Star 100.952 → 100.955, versão mais recente v22.1.1 (7 de agosto de 2026).
-- 6 de agosto de 2026: Star 100.882 → 100.952, versão mais recente v22.1.0 (29 de julho de 2026).
-
 ## O que você ganha
 - Oferece a oportunidade de desenvolver aplicativos da web para dispositivos móveis e desktop
 - Padroniza projetos complexos com sua estrutura baseada em TypeScript

@@ -27,5 +27,8 @@ Denn bevor Sie die künstliche Intelligenz ein Dokument lesen lassen, müssen Si
 - [RAG](/de/dictionary/rag/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Opendataloader PDF](/de/discover/opendataloader-pdf/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/pdf-parser/

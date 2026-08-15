@@ -6,9 +6,6 @@ Der von Hasaneyldrm geteilte Übungsdatensatz (exercises-dataset) bietet 433 ver
 - HTML
 - GitHub Trending · 2026-07-01
 
-## Aktualisieren
-- 2. August 2026: Stern 7.552 → 18.515.
-
 ## Was es bringt
 - Strukturierte Daten für 1.324 verschiedene Fitnessübungen
 - Schritt-für-Schritt-Anleitung zur Bewerbung in 6 Sprachen, darunter Türkisch

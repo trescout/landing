@@ -7,12 +7,6 @@ Ingeniería compuesta; Claude Code es un complemento oficial para Codex y Cursor
 - MIT
 - GitHub Trending · 29 May 2026
 
-## Actualizar
-- 6 de agosto de 2026: Star 24.041 → 24.046, última versión de ingeniería compuesta-v3.21.4 (6 de agosto de 2026).
-- 6 de agosto de 2026: Star 23.748 → 24.041, última versión de ingeniería compuesta-v3.21.3 (5 de agosto de 2026).
-- 4 de agosto de 2026: Star 23 700 → 23 748, última versión de ingeniería compuesta-v3.21.1 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 17,931 → 23,700, última versión de ingeniería compuesta-v3.21.0 (31 de julio de 2026).
-
 ## Qué aporta
 - Cada tarea facilita la siguiente, por lo que su productividad aumenta de forma acumulativa.
 - Proporciona habilidades y agentes ya preparados.
@@ -20,6 +14,21 @@ Ingeniería compuesta; Claude Code es un complemento oficial para Codex y Cursor
 
 ## Cómo empezar
 Puede instalarlo como un complemento de su asistente de IA y luego incorporar las habilidades y los agentes a su flujo de trabajo.
+
+## ¿Cómo instalar, cómo utilizar?
+**Código Claude · mercado + instalación**
+
+```
+/plugin marketplace add EveryInc/compound-engineering-plugin
+/plugin install compound-engineering
+```
+
+**Prepare el proyecto después de la instalación.**
+
+```
+/ce-setup
+```
+
 
 ## Términos relacionados del glosario
 

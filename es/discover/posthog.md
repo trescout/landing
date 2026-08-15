@@ -6,12 +6,6 @@ PostHog es una plataforma integral que reúne herramientas como observabilidad, 
 - Python
 - GitHub Trending · 2026-07-17
 
-## Actualizar
-- 12 de agosto de 2026: Star 37.601 → 37.618, última versión de escritorio-v0.60.146 (11 de agosto de 2026).
-- 11 de agosto de 2026: Star 37.590 → 37.601, última versión de escritorio-v0.60.120 (11 de agosto de 2026).
-- 10 de agosto de 2026: Star 37,564 → 37,590, última versión de escritorio: v0.60.99 (10 de agosto de 2026).
-- 9 de agosto de 2026: Star 37,549 → 37,564, última versión de escritorio: v0.60.96 (9 de agosto de 2026).
-
 ## Qué aporta
 - Detecta errores automáticamente analizando el comportamiento del usuario.
 - Supervise la experiencia del usuario con repeticiones de sesiones y análisis web.

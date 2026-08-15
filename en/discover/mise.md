@@ -6,10 +6,6 @@ Mise is a tool that allows you to manage software development tools, environment
 - Rust
 - GitHub Trending · 2026-08-08
 
-## Update
-- August 11, 2026: Star 32,098 → 32,258, latest version v2026.8.4 (August 11, 2026).
-- August 8, 2026: Star 32,098 → 32,098, latest version v2026.8.3 (August 7, 2026).
-
 ## What you get
 - Automatically manages project tools and versions
 - Defines environment variables on a project basis
@@ -17,7 +13,6 @@ Mise is a tool that allows you to manage software development tools, environment
 
 ## Getting started
 - Official source →
-To install, you can visit the 'Getting started' section on the official documentation page and follow the steps appropriate for your operating system. After installation, you need to configure the 'activate' commands required for the tool to work integrated with your shell, according to your terminal type, via the same documentation.
 
 ## Related dictionary terms
 

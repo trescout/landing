@@ -6,12 +6,6 @@ OpenWA ofrece una solución de puerta de enlace API gratuita y de código abiert
 - TypeScript
 - GitHub Trending · 2026-06-17
 
-## Actualizar
-- 12 de agosto de 2026: Star 12.605 → 12.674, última versión v0.16.0 (11 de agosto de 2026).
-- 10 de agosto de 2026: Star 12,552 → 12,605, última versión v0.15.0 (9 de agosto de 2026).
-- 8 de agosto de 2026: Star 12,544 → 12,552, última versión v0.14.6 (8 de agosto de 2026).
-- 8 de agosto de 2026: Star 12,503 → 12,544, última versión v0.14.5 (8 de agosto de 2026).
-
 ## Qué aporta
 - Control total sobre la infraestructura de mensajería de WhatsApp
 - Gestión de sesiones y webhooks con interfaz moderna

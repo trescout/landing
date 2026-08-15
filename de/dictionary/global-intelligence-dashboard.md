@@ -27,5 +27,8 @@ Dabei können Sensoren, Newsfeeds, Social-Media-Daten oder Unternehmensdatenbank
 - [Knowledge Graph](/de/dictionary/knowledge-graph/)
 - [Observability](/de/dictionary/observability/)
 
+## Verwandte Werkzeuge
+- [Worldmonitor](/de/discover/worldmonitor/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/global-intelligence-dashboard/

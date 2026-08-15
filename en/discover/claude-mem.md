@@ -7,12 +7,6 @@ claude-mem enables your AI agents to perform cross-session recall. It captures e
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Update
-- 11 August 2026: Star 90.015 → 90.349, latest version v13.15.0 (10 August 2026).
-- August 8, 2026: Star 89,464 → 90,015, latest version v13.14.0 (August 8, 2026).
-- 4 August 2026: Star 89.371 → 89.464, latest version v13.13.1 (3 August 2026).
-- 3 August 2026: Star 89.278 → 89.371, latest version v13.13.0 (2 August 2026).
-
 ## What you get
 - The agent does not start from scratch each time, but remembers the past.
 - The session history is summarized with artificial intelligence and relevant parts are recalled.
@@ -20,6 +14,14 @@ claude-mem enables your AI agents to perform cross-session recall. It captures e
 
 ## How it works
 It automatically records the actions taken by the agent during the session.
+
+## Installation (single command)
+**Installation (single command)**
+
+```
+npx claude-mem install
+```
+
 
 ## Related dictionary terms
 

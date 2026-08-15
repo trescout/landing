@@ -30,5 +30,10 @@ Einige IDEs konzentrieren sich auf bestimmte Sprachen, während andere dank Plug
 - [Jupyter Notebooks](/de/dictionary/jupyter-notebooks/)
 - [Editor](/de/dictionary/editor/)
 
+## Verwandte Werkzeuge
+- [Free Claude Code](/de/discover/free-claude-code/)
+- [Continue](/de/discover/continue/)
+- [Oh My Pi](/de/discover/oh-my-pi/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ide/

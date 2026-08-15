@@ -23,8 +23,15 @@ Ja, aber es ist besser, sich die Gesamtergebnisse anzusehen, die verschiedene Sz
 
 
 ## Verwandte Begriffe
+- [Benchmarks](/de/dictionary/benchmark/)
 - [AI Models](/de/dictionary/ai-models/)
 - [Inference](/de/dictionary/inference/)
+
+## Verwandte Werkzeuge
+- [CUA](/de/discover/cua/)
+- [Whichllm](/de/discover/whichllm/)
+- [SIA](/de/discover/sia/)
+- [Harvey Labs](/de/discover/harvey-labs/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/benchmark/

@@ -6,10 +6,6 @@ Le cloneur de sites Web à intelligence artificielle (AI website cloner), dével
 - TypeScript
 - GitHub Trending · 2026-06-23
 
-## Mise à jour
-- 10 août 2026 : Star 30 826 → 31 512, dernière version v0.4.0 (10 août 2026).
-- 2 août 2026 : Étoile 18 039 → 30 826, dernière version v0.3.1 (30 mars 2026).
-
 ## Ce que ça vous apporte
 - Convertit les sites Web existants en base de code Next.js
 - Extrait automatiquement les éléments de conception et les actifs

@@ -6,10 +6,6 @@ Bitchat-android oferece uma experiência de mensagens descentralizada que não r
 - Kotlin
 - GitHub Trending · 2026-07-27
 
-## Atualizar
-- 12 de agosto de 2026: Star 7.246 → 7.424, versão mais recente v2.0.1 (11 de agosto de 2026).
-- 2 de agosto de 2026: Star 6.833 → 7.246, última versão 1.7.4 (17 de junho de 2026).
-
 ## O que você ganha
 - Comunicação sem internet com tecnologia mesh Bluetooth
 - Mensagens criptografadas e descentralizadas de ponta a ponta

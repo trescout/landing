@@ -23,7 +23,9 @@ Ja, Leute mit sehr großem Kapital versuchen möglicherweise, den Markt zu beein
 
 
 ## Verwandte Begriffe
+- [Artificial Intelligence](/de/dictionary/artificial-intelligence/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
+- [Prediction Market](/de/dictionary/prediction-market/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/prediction-market/

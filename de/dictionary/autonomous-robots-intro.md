@@ -24,5 +24,8 @@ Normalerweise durch ständige Analyse der sie umgebenden Daten und durch Versuch
 - [Autonomous Agent](/de/dictionary/autonomous-agent/)
 - [Computer Vision](/de/dictionary/computer-vision/)
 
+## Verwandte Werkzeuge
+- [Introduction-to-Autonomous-Robots](/de/discover/introduction-to-autonomous-robots/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/autonomous-robots-intro/

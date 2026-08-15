@@ -6,10 +6,6 @@ Nuxt é uma estrutura full-stack usada para desenvolver aplicativos baseados em 
 - TypeScript
 - GitHub Trending · 2026-07-12
 
-## Atualizar
-- 6 de agosto de 2026: Star 60.715 → 60.726, versão mais recente v4.5.2 (5 de agosto de 2026).
-- 2 de agosto de 2026: Star 60.747 → 60.715, versão mais recente v4.5.1 (27 de julho de 2026).
-
 ## O que você ganha
 - Renderização do lado do servidor e geração de site estático
 - Roteamento automático e divisão de código

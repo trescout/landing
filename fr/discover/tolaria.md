@@ -6,10 +6,6 @@ Tolaria est une application de bureau développée pour gérer les bases de conn
 - TypeScript
 - GitHub Trending · 2026-06-08
 
-## Mise à jour
-- 12 août 2026 : Star 19.219 → 19.403, dernière version v2026-08-11 (11 août 2026).
-- 2 août 2026 : Star 13.116 → 19.219, dernière version v2027-07-31 (31 juillet 2026).
-
 ## Ce que ça vous apporte
 - Fournit une gestion de notes portable avec des fichiers de démarque.
 - Offre un contrôle complet des versions avec l'intégration de Git.

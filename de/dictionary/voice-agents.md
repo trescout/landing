@@ -27,5 +27,8 @@ Sprachdaten werden oft anonymisiert, es ist jedoch immer wichtig, Ihre Datenschu
 - [Speech-to-Text](/de/dictionary/speech-to-text/)
 - [Text-to-Speech](/de/dictionary/text-to-speech/)
 
+## Verwandte Werkzeuge
+- [Speech to Speech](/de/discover/speech-to-speech/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/voice-agents/

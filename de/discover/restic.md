@@ -5,9 +5,6 @@ Restic wurde mit der Go-Sprache entwickelt und bietet ein Open-Source-Backup-Pro
 - ★ 35.302
 - GitHub Trending · 2026-06-12
 
-## Aktualisieren
-- 2. August 2026: Star 34.273 → 35.302, neueste Version v0.19.1 (5. Juli 2026).
-
 ## Was es bringt
 - Bietet hohe Sicherheit durch Verschlüsselung der Daten
 - Spart Speicherplatz durch inkrementelles Backup

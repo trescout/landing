@@ -29,5 +29,15 @@ Es kann geschrieben werden, aber man muss alles von Grund auf programmieren, was
 - [Framework](/de/dictionary/framework/)
 - [Bindings](/de/dictionary/bindings/)
 
+## Verwandte Werkzeuge
+- [Supermemory](/de/discover/supermemory/)
+- [Opendataloader PDF](/de/discover/opendataloader-pdf/)
+- [CUA](/de/discover/cua/)
+- [iii](/de/discover/iii/)
+- [Logto](/de/discover/logto/)
+- [CubeSandbox](/de/discover/cubesandbox/)
+- [Copilot SDK](/de/discover/copilot-sdk/)
+- [U3 SDK](/de/discover/u3-sdk/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/sdk/

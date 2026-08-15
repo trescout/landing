@@ -6,9 +6,6 @@ OptimiererDuck wurde in der C#-Sprache entwickelt und ist ein Open-Source-Tool, 
 - C#
 - GitHub Trending · 2026-06-16
 
-## Aktualisieren
-- 2. August 2026: Star 3.900 → 7.672, neueste Version v2.25.5 (16. Juli 2026).
-
 ## Was es bringt
 - Bereinigt Windows-Hintergrundprozesse und Bloatware
 - Bringt Leistung, Datenschutz und GPU-Einstellungen in einer einzigen Oberfläche zusammen
@@ -16,7 +13,6 @@ OptimiererDuck wurde in der C#-Sprache entwickelt und ist ein Open-Source-Tool, 
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Um mit der Nutzung des Tools zu beginnen, besuchen Sie die offizielle Release-Seite auf GitHub. Laden Sie die aktuelle Version über den entsprechenden Link herunter und beginnen Sie mit der Konfiguration der Einstellungen, indem Sie die .exe-Datei direkt und ohne Installation ausführen.
 
 ## Verwandte Begriffe aus dem Glossar
 

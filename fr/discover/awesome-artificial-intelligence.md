@@ -5,9 +5,6 @@ Awesome-artificial-intelligence est une liste de ressources complète qui rassem
 - ★ 15 631
 - GitHub Trending · 2026-06-19
 
-## Mise à jour
-- 2 août 2026 : Étoile 14 532 → 15 631.
-
 ## Ce que ça vous apporte
 - Sélection de livres actuels sur l'ingénierie de l'intelligence artificielle
 - Articles académiques et contenus pédagogiques structurés
@@ -15,7 +12,6 @@ Awesome-artificial-intelligence est une liste de ressources complète qui rassem
 
 ## Pour commencer
 - Source officielle →
-Cet outil ne nécessite pas d'installation de logiciel ; est une liste de ressources. Pour commencer votre parcours d'apprentissage, vous pouvez consulter les livres de la section « Apprendre » du fichier README et parcourir les cadres et guides d'intelligence artificielle actuels via les liens de la section « Construire ».
 
 ## Termes liés du glossaire
 

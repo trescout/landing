@@ -24,5 +24,8 @@ Bei richtiger Vorgehensweise werden nur unnötige Teile, die wir als Rauschen be
 - [Context Window](/de/dictionary/context-window/)
 - [Token Compression](/de/dictionary/token-compression/)
 
+## Verwandte Werkzeuge
+- [Code Review Graph](/de/discover/code-review-graph/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/context-reduction/

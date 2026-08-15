@@ -6,12 +6,6 @@ WrenAI wurde von Canner entwickelt und ist ein Open-Source-Tool für generative 
 - Python
 - GitHub Trending · 2026-07-20
 
-## Aktualisieren
-- 12. August 2026: Star 17.219 → 17.239, neueste Version wren-core-py-v0.7.4 (12. August 2026).
-- 11. August 2026: Star 17.046 → 17.219, letzte Version wren-semantic-core-v0.3.1 (11. August 2026).
-- 6. August 2026: Star 16.780 → 17.046, letzte Version 0.29.2 (5. August 2026).
-- 2. August 2026: Star 16.314 → 16.780, neueste Version wren-pydantic-v0.2.1 (29. Juli 2026).
-
 ## Was es bringt
 - Erzeugt zuverlässige SQL-Abfragen aus natürlicher Sprache
 - Konvertiert Daten automatisch in Panels

@@ -25,7 +25,19 @@ Ja, es handelt sich um einen offenen Standard, der entwickelt wurde, um die Inte
 
 
 ## Verwandte Begriffe
+- [API](/de/dictionary/api/)
+- [Data Pipeline](/de/dictionary/data-pipeline/)
 - [AI Agent](/de/dictionary/ai-agent/)
+
+## Verwandte Werkzeuge
+- [Langflow](/de/discover/langflow/)
+- [OpenCut](/de/discover/opencut/)
+- [Goose](/de/discover/goose/)
+- [Chrome Devtools MCP](/de/discover/chrome-devtools-mcp/)
+- [AI Engineering from Scratch](/de/discover/ai-engineering-from-scratch/)
+- [Claude Howto](/de/discover/claude-howto/)
+- [Codebase Memory MCP](/de/discover/codebase-memory-mcp/)
+- [Claude Code Templates](/de/discover/claude-code-templates/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/mcp/

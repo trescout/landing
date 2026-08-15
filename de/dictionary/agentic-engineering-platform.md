@@ -27,5 +27,8 @@ Sie sind innerhalb der von Ihnen festgelegten Regeln und Grenzen völlig kostenl
 - [AI Agent](/de/dictionary/ai-agent/)
 - [Autonomous AI Agent](/de/dictionary/autonomous-ai-agent/)
 
+## Verwandte Werkzeuge
+- [Kilocode](/de/discover/kilocode/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agentic-engineering-platform/

@@ -5,9 +5,6 @@ Desarrollado por PaddlePaddle, PaddleOCR es una herramienta liviana de reconocim
 - ★ 86.787
 - GitHub Trending · 2026-06-05
 
-## Actualizar
-- 2 de agosto de 2026: Star 80,160 → 86,787, última versión v3.7.0 (11 de junio de 2026).
-
 ## Qué aporta
 - Convierte archivos PDF e imágenes a formato JSON o Markdown
 - Reconoce más de 100 idiomas con un solo modelo

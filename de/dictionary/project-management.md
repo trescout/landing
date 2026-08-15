@@ -21,5 +21,8 @@ Damit komplexe Projekte nicht auseinanderfallen und sich alle auf das gleiche Zi
 - [AI Team Operations](/de/dictionary/ai-team-operations/)
 - [Productivity](/de/dictionary/productivity/)
 
+## Verwandte Werkzeuge
+- [Kaneo](/de/discover/kaneo/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/project-management/

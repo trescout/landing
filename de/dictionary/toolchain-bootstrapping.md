@@ -21,5 +21,8 @@ Wenn man etwas von Grund auf neu baut, ist es notwendig, die Abhängigkeit von a
 - [Compilation](/de/dictionary/compilation/)
 - [Rust](/de/dictionary/rust/)
 
+## Verwandte Werkzeuge
+- [Reverse Skill](/de/discover/reverse-skill/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/toolchain-bootstrapping/

@@ -6,9 +6,6 @@ CuPy kombiniert die NumPy- und SciPy-Schnittstellen der numerischen Computerbibl
 - Python
 - GitHub Trending · 2026-06-29
 
-## Aktualisieren
-- 2. August 2026: Star 11.639 → 12.227, neueste Version v14.1.1 (1. Juni 2026).
-
 ## Was es bringt
 - Kompatibel mit NumPy und SciPy
 - NVIDIA CUDA- und AMD ROCm-Unterstützung

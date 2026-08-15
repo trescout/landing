@@ -21,5 +21,8 @@ Es kann Risiken bergen, wenn es nicht aus zuverlässigen Quellen gekauft wird. E
 - [Coding Agents](/de/dictionary/coding-agent/)
 - [Clean Code](/de/dictionary/clean-code/)
 
+## Verwandte Werkzeuge
+- [Abseil Cpp](/de/discover/abseil-cpp/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/code-snippets/

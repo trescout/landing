@@ -6,10 +6,6 @@ Developed for Chrome DevTools, this server enables coding artificial intelligenc
 - TypeScript
 - GitHub Trending · 2026-07-03
 
-## Update
-- 11 August 2026: Star 48,381 → 48,884, latest version chrome-devtools-mcp-v1.7.0 (10 August 2026).
-- August 2, 2026: Star 45,204 → 48,381, latest version chrome-devtools-mcp-v1.6.0 (July 14, 2026).
-
 ## What you get
 - Control live browser directly
 - Automating performance analytics

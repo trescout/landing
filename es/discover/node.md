@@ -6,11 +6,6 @@ Node.js ofrece un entorno de ejecución que permite ejecutar código JavaScript 
 - JavaScript
 - GitHub Trending · 2026-07-27
 
-## Actualizar
-- 6 de agosto de 2026: Star 118,705 → 118,797, última versión v26.7.0 (5 de agosto de 2026).
-- 4 de agosto de 2026: Star 118.617 → 118.705, última versión v26.6.0 (3 de agosto de 2026).
-- 2 de agosto de 2026: Star 118,523 → 118,617, última versión v26.5.1 (29 de julio de 2026).
-
 ## Qué aporta
 - Ejecuta código JavaScript fuera del navegador.
 - Permite el desarrollo de aplicaciones de red escalables.

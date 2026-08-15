@@ -7,9 +7,6 @@ CCE ; Claude Code est un système complet qui apporte des compétences, des ins
 - MIT
 - GitHub Trending · 26 May 2026
 
-## Mise à jour
-- 1er août 2026 : Étoile 194 032 → 236 779, dernière version v2.1.0 (27 juillet 2026).
-
 ## Ce que ça vous apporte
 - L'agent travaille de manière plus cohérente grâce à des ensembles de compétences et d'instincts prêts à l'emploi.
 - Il évite la perte de concentration lors de tâches à long terme grâce à la gestion de la mémoire et du contexte.
@@ -18,6 +15,21 @@ CCE ; Claude Code est un système complet qui apporte des compétences, des ins
 
 ## Pour commencer
 Vous pouvez l'installer en tant que package npm (ecc-universal) ou en tant qu'application GitHub. Toutes les étapes se trouvent dans la section d'installation du référentiel. Une fois installé, votre agent commence à utiliser la couche de fonctionnalités et de sécurité de TreScout.
+
+## Comment installer, comment utiliser ?
+**Claude Code · ajouter + installer une place de marché**
+
+```
+/plugin marketplace add https://github.com/affaan-m/ECC
+/plugin install ecc@ecc
+```
+
+**Exécuter une analyse de sécurité**
+
+```
+/security-scan
+```
+
 
 ## Termes liés du glossaire
 

@@ -6,9 +6,6 @@ Maths-cs-ai-compendium propose une collection complète de ressources couvrant l
 - TypeScript
 - GitHub Trending · 2026-07-15
 
-## Mise à jour
-- 2 août 2026 : Étoile 5 424 → 7 220.
-
 ## Ce que ça vous apporte
 - Renforcer les fondements des mathématiques et de l’informatique
 - Connaissance approfondie de l'intelligence artificielle et de l'apprentissage automatique
@@ -16,7 +13,6 @@ Maths-cs-ai-compendium propose une collection complète de ressources couvrant l
 
 ## Pour commencer
 - Source officielle →
-Vous n'avez besoin d'aucune installation pour commencer avec ce guide. Vous pouvez lire tous les chapitres en ligne et consulter immédiatement le guide d'étude en visitant le site officiel du projet, henryndubuaku.github.io/maths-cs-ai-compendium.
 
 ## Termes liés du glossaire
 

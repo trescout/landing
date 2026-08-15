@@ -30,5 +30,11 @@ Im Allgemeinen ja, aber für kritische Updates können manuelle Genehmigungsschr
 - [Deployment](/de/dictionary/deployment/)
 - [QA](/de/dictionary/qa/)
 
+## Verwandte Werkzeuge
+- [Strix](/de/discover/strix/)
+- [Openship](/de/discover/openship/)
+- [Flue](/de/discover/flue/)
+- [DevOps-Interview-Guide](/de/discover/devops-interview-guide/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ci-cd/

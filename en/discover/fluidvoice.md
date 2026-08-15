@@ -6,11 +6,6 @@ FluidVoice is a fast voice to text application that works completely offline on 
 - Swift
 - GitHub Trending · 2026-06-29
 
-## Update
-- August 11, 2026: Star 9,360 → 9,494, latest version v1.6.8 (August 11, 2026).
-- August 6, 2026: Star 9,248 → 9,360, latest version v1.6.7 (August 5, 2026).
-- August 2, 2026: Star 3,995 → 9,248, latest version v1.6.6 (July 31, 2026).
-
 ## What you get
 - Completely local and offline audio conversion
 - Write and edit text in any app

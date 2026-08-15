@@ -13,7 +13,6 @@ Le référentiel Awesome-generative-ai-guide rassemble en un seul endroit les re
 
 ## Pour commencer
 - Source officielle →
-Cet outil ne nécessite aucune installation. En visitant la page officielle de GitHub, vous pouvez consulter les sujets qui vous intéressent et accéder aux cours gratuits, feuilles de route et documents techniques proposés via des liens directs.
 
 ## Termes liés du glossaire
 

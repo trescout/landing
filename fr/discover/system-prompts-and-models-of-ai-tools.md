@@ -12,7 +12,6 @@ Les invites système et les modèles de langage utilisés (modèles d'IA) des ou
 
 ## Pour commencer
 - Source officielle →
-Cet outil est une archive d'informations qui ne nécessite aucune installation. Vous pouvez visiter la page du référentiel pertinente sur GitHub via votre navigateur pour accéder aux instructions système et aux informations de modèle des outils d'intelligence artificielle que vous souhaitez examiner.
 
 ## Termes liés du glossaire
 

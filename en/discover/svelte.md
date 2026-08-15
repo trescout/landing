@@ -5,9 +5,6 @@ Unlike traditional frameworks, Svelte uses a compile-time approach that reduces 
 - ★ 87,724
 - GitHub Trending · 2026-06-07
 
-## Update
-- 2 August 2026: Star 87.060 → 87.724, last version svelte@5.56.8 (24 July 2026).
-
 ## What you get
 - Reduces runtime load on the browser
 - Converts codes into fast-running JavaScript modules

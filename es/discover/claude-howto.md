@@ -6,9 +6,6 @@ Esta guía visual de Claude Code ofrece una amplia gama de ejemplos, desde conce
 - Python
 - GitHub Trending · 2026-06-09
 
-## Actualizar
-- 2 de agosto de 2026: Star 36 008 → 40 779, última versión v2.1.160 (2 de junio de 2026).
-
 ## Qué aporta
 - Integrar las funciones de Claude Code en los flujos de trabajo.
 - Acelerar los procesos de desarrollo de código con plantillas listas para usar.

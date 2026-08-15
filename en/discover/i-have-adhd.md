@@ -6,12 +6,6 @@ Developed to make the output of coding agents more focused and organized, i-have
 - Python
 - GitHub Trending · 2026-07-22
 
-## Update
-- August 12, 2026: Star 18,555 → 19,772.
-- August 9, 2026: Star 17,370 → 18,555.
-- August 6, 2026: Star 15,559 → 17,370.
-- August 2, 2026: Star 7,248 → 15,559.
-
 ## What you get
 - Removes unnecessary introductory sentences in AI responses.
 - Breaks complex tasks into numbered steps.

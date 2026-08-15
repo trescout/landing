@@ -6,9 +6,6 @@ Transformers wurde von Hugging Face entwickelt und ist eine Bibliothek, die zum 
 - Python
 - GitHub Trending · 2026-08-12
 
-## Aktualisieren
-- 12. August 2026: Star 163.880 → 163.881, neueste Version v5.15.0 (10. August 2026).
-
 ## Was es bringt
 - Bietet Zugriff auf Text-, Bild- und Tonmodelle.
 - Dies erleichtert die Feinabstimmung von Modellen.

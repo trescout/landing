@@ -27,5 +27,8 @@ Da KI-Modelle Daten verarbeiten, sind Cybersicherheitskenntnisse unerlässlich, 
 - [Vulnerability Scanning](/de/dictionary/vulnerability-scanning/)
 - [Engineering Skills](/de/dictionary/engineering-skills/)
 
+## Verwandte Werkzeuge
+- [Anthropic Cybersecurity Skills](/de/discover/anthropic-cybersecurity-skills/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cybersecurity-skills/

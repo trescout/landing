@@ -21,5 +21,9 @@ Manchmal möchten Unternehmen ihre Systeme geschlossen halten oder verschiedene 
 - [API Gateway](/de/dictionary/api-gateway/)
 - [Tech Stack](/de/dictionary/tech-stack/)
 
+## Verwandte Werkzeuge
+- [Agentskills](/de/discover/agentskills/)
+- [Wand-Enhancer](/de/discover/wand-enhancer/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/interoperability/

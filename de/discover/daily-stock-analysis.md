@@ -6,10 +6,6 @@ Unterstützt durch große Sprachmodelle analysiert dieses System Marktdaten und 
 - Python
 - GitHub Trending · 2026-06-22
 
-## Aktualisieren
-- 10. August 2026: Star 59.863 → 61.388, neueste Version v3.30.0 (9. August 2026).
-- 2. August 2026: Star 45.304 → 59.863, neueste Version v3.29.0 (2. August 2026).
-
 ## Was es bringt
 - Automatisierte Handelsberichte mit Marktdaten aus mehreren Quellen
 - Push-Benachrichtigungsunterstützung für Messaging-Anwendungen

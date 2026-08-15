@@ -6,9 +6,6 @@ SmsForwarder is a tool that forwards text messages, calls and application notifi
 - Kotlin
 - GitHub Trending · 2026-06-21
 
-## Update
-- August 2, 2026: Star 26,560 → 27,342, latest version v3.5.0 (February 14, 2026).
-
 ## What you get
 - Automatic forwarding of SMS, calls and notifications
 - Remotely manage the device and query data
@@ -16,7 +13,6 @@ SmsForwarder is a tool that forwards text messages, calls and application notifi
 
 ## Getting started
 - Official source →
-To start using the tool, visit the official releases page on GitHub. Download the updated APK file on the page to your device and complete the installation. For detailed user manual and configuration steps, you can review the project's GitHub Wiki page.
 
 ## Links
 - GitHub repository →

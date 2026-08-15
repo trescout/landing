@@ -12,7 +12,6 @@ Odoo est une plateforme open source de planification des ressources de l'entrepr
 
 ## Pour commencer
 - Source officielle →
-Pour commencer à installer Odoo, vous devez suivre les instructions d'installation sur la page de documentation officielle d'Odoo. Pour apprendre le logiciel, vous pouvez consulter la plateforme eLearning Odoo ou le jeu d'entreprise Scale-up.
 
 ## Termes liés du glossaire
 

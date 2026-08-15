@@ -6,9 +6,6 @@ Desenvolvido pela OpenAI, o plugin Codex é usado no Claude Code para automatiza
 - JavaScript
 - GitHub Trending · 2026-07-03
 
-## Atualizar
-- 2 de agosto de 2026: Star 22.800 → 30.950, versão mais recente v1.0.6 (8 de julho de 2026).
-
 ## O que você ganha
 - Automatiza processos de revisão de código
 - Delega tarefas ao modelo Codex

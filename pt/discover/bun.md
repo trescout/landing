@@ -6,9 +6,6 @@ Bun é uma ferramenta de alto desempenho que combina tempo de execução JavaScr
 - Rust
 - GitHub Trending · 2026-07-11
 
-## Atualizar
-- 2 de agosto de 2026: Star 94.374 → 95.153, última versão bun-v1.3.14 (13 de maio de 2026).
-
 ## O que você ganha
 - Tempo de execução rápido compatível com Node.js
 - Gerenciador de pacotes e ferramenta de teste sob o mesmo teto

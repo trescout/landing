@@ -6,10 +6,6 @@ MemPalace propose un système de mémoire open source pour les modèles d'intell
 - Python
 - GitHub Trending · 2026-06-06
 
-## Mise à jour
-- 12 août 2026 : Étoile 57 977 → 58 311, dernière version v3.7.0 (11 août 2026).
-- 2 août 2026 : Étoile 53 981 → 57 977, dernière version v3.6.0 (17 juillet 2026).
-
 ## Ce que ça vous apporte
 - Il propose une recherche sémantique en conservant l’historique des conversations tel quel.
 - Il crée une structure de mémoire organisée en catégorisant les personnes, les projets et les sujets.

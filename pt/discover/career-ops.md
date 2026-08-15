@@ -6,11 +6,6 @@ Usando a infraestrutura do Claude Code, as operações de carreira automatizam p
 - JavaScript
 - GitHub Trending · 2026-06-07
 
-## Atualizar
-- 11 de agosto de 2026: Star 62.979 → 63.452, última versão career-ops-v1.26.0 (10 de agosto de 2026).
-- 6 de agosto de 2026: Star 62.526 → 62.979, última versão career-ops-v1.25.0 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 49.580 → 62.526, última versão career-ops-v1.24.0 (30 de julho de 2026).
-
 ## O que você ganha
 - Filtre as ofertas de emprego pontuando-as em 10 dimensões diferentes
 - Criação de um currículo compatível com ATS específico para a descrição do cargo

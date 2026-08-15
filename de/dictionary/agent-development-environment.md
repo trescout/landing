@@ -24,5 +24,8 @@ Weil Agenten der künstlichen Intelligenz manchmal unerwartete Entscheidungen tr
 - [Sandbox Agent Framework](/de/dictionary/sandbox-agent-framework/)
 - [Agentic Engineering Platform](/de/dictionary/agentic-engineering-platform/)
 
+## Verwandte Werkzeuge
+- [Orca](/de/discover/orca/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agent-development-environment/

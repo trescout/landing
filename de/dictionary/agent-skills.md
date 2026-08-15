@@ -28,5 +28,13 @@ Nein, seine Fähigkeiten werden je nach Verwendungszweck des Agenten angepasst (
 - [Agentic Skills](/de/dictionary/agentic-skills/)
 - [Agentic Skills Framework](/de/dictionary/agentic-skills-framework/)
 
+## Verwandte Werkzeuge
+- [Agent Skills](/de/discover/agent-skills/)
+- [Taste Skill](/de/discover/taste-skill/)
+- [OpenMontage](/de/discover/openmontage/)
+- [Agentskills](/de/discover/agentskills/)
+- [Text to Cad](/de/discover/text-to-cad/)
+- [Stitch Skills](/de/discover/stitch-skills/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agent-skills/

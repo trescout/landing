@@ -23,9 +23,13 @@ Um sicherzustellen, dass die Teile zusammenarbeiten, ist eine gründliche Planun
 
 
 ## Verwandte Begriffe
+- [Compound Engineering](/de/dictionary/compound-engineering/)
 - [AI Agent](/de/dictionary/ai-agent/)
 - [Agentic AI](/de/dictionary/agentic-ai/)
 - [RAG](/de/dictionary/rag/)
+
+## Verwandte Werkzeuge
+- [Compound Engineering](/de/discover/compound-engineering-plugin/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/compound-engineering/

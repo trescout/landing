@@ -6,10 +6,6 @@ Stirling-PDF ist ein Open-Source-Dokumentverarbeitungstool, mit dem Benutzer PDF
 - TypeScript
 - GitHub Trending · 2026-06-23
 
-## Aktualisieren
-- 7. August 2026: Star 88.578 → 89.027, neueste Version v2.14.3 (6. August 2026).
-- 2. August 2026: Star 83.316 → 88.578, neueste Version v2.14.2 (8. Juli 2026).
-
 ## Was es bringt
 - Mehr als 50 verschiedene PDF-Bearbeitungstools
 - Lokale Verarbeitung Ihrer Daten ohne Übermittlung an externe Dienste

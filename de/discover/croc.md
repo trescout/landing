@@ -6,12 +6,6 @@ Croc ist ein Tool, das mittels Ende-zu-Ende-Verschlüsselung eine sichere Datei-
 - Go
 - GitHub Trending · 2026-07-22
 
-## Aktualisieren
-- 12. August 2026: Star 39.574 → 39.672, neueste Version v11.1.0 (11. August 2026).
-- 10. August 2026: Star 39.444 → 39.574, neueste Version v11.0.3 (10. August 2026).
-- 7. August 2026: Star 39.265 → 39.444, neueste Version v11.0.2 (6. August 2026).
-- 2. August 2026: Star 36.970 → 39.265, neueste Version v11.0.1 (31. Juli 2026).
-
 ## Was es bringt
 - Ende-zu-Ende verschlüsselte Datenübertragung
 - Kompatibilität zwischen verschiedenen Betriebssystemen

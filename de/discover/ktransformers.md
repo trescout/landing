@@ -6,9 +6,6 @@ Ktransformers bietet ein flexibles Framework, das heterogene Hardwareoptimierung
 - Python
 - GitHub Trending · 2026-07-20
 
-## Aktualisieren
-- 2. August 2026: Star 18.491 → 19.145, neueste Version v0.6.4 (23. Juli 2026).
-
 ## Was es bringt
 - Effizientes Arbeiten durch gemeinsame Nutzung von Prozessor- und Grafikkartenressourcen
 - Geringe Hardwareanforderungen in großen MoE-Modellen

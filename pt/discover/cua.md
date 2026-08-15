@@ -6,12 +6,6 @@ CUA fornece uma infraestrutura de código aberto para agentes de inteligência a
 - HTML
 - GitHub Trending · 2026-06-16
 
-## Atualizar
-- 12 de agosto de 2026: Star 21.066 → 21.225, última versão lume-v0.5.3 (11 de agosto de 2026).
-- 10 de agosto de 2026: Star 20.990 → 21.066, versão mais recente cli-v0.1.14 (10 de agosto de 2026).
-- 7 de agosto de 2026: Star 20.962 → 20.990, versão mais recente frota-v0.1.7 (7 de agosto de 2026).
-- 6 de agosto de 2026: Star 20.909 → 20.962, versão mais recente sandbox-v0.1.27 (5 de agosto de 2026).
-
 ## O que você ganha
 - Controle aplicativos de desktop em segundo plano
 - Sandboxes isolados para diferentes sistemas operacionais

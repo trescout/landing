@@ -25,5 +25,8 @@ Es erfordert technische Kenntnisse, falsche Befehle können die Funktion des Ger
 - [CLI](/de/dictionary/cli/)
 - [SDK](/de/dictionary/sdk/)
 
+## Verwandte Werkzeuge
+- [Universal Android Debloater Next Generation](/de/discover/universal-android-debloater-next-generation/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/adb/

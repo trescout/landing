@@ -6,9 +6,6 @@ Developed by AllenAI, olmocr is a toolkit that converts PDF documents into text 
 - Python
 - GitHub Trending · 2026-07-02
 
-## Update
-- 2 August 2026: Star 18,418 → 19,259, last version v0.4.27 (12 March 2026).
-
 ## What you get
 - Converts PDF and image formats to clean Markdown text
 - Processes equations, tables, and complex layouts in the correct reading order

@@ -6,9 +6,6 @@ The Meshoptimizer library optimizes three-dimensional mesh data, reducing file s
 - C++
 - GitHub Trending · 2026-07-11
 
-## Update
-- August 2, 2026: Star 8,045 → 8,177, latest version v1.2 (June 30, 2026).
-
 ## What you get
 - Reduces file size for three-dimensional models
 - Increases GPU rendering performance

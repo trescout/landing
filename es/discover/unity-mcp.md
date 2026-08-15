@@ -6,10 +6,6 @@ Unity MCP proporciona un puente entre grandes modelos de lenguaje y el editor de
 - C#
 - GitHub Trending · 2026-07-05
 
-## Actualizar
-- 3 de agosto de 2026: Star 13.064 → 13.091, última versión v10.1.2 (2 de agosto de 2026).
-- 2 de agosto de 2026: Star 11,702 → 13,064, última versión v10.1.0 (13 de julio de 2026).
-
 ## Qué aporta
 - Control de escenas y objetos con lenguaje natural.
 - Edición y prueba automatizadas de código C#
@@ -17,7 +13,6 @@ Unity MCP proporciona un puente entre grandes modelos de lenguaje y el editor de
 
 ## Cómo empezar
 - Fuente oficial →
-Abra su proyecto de Unity y vaya a la ventana del Administrador de paquetes. Haga clic en 'Agregar paquete desde la URL de git' y pegue la dirección https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity#main. Una vez completada la instalación, vaya a la pestaña 'MCP para Unity' en el menú Ventana y complete los ajustes de configuración.
 
 ## Términos relacionados del glosario
 

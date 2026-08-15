@@ -6,9 +6,6 @@ Este aplicativo baseado em Next.js combina a ferramenta de diagramação draw.io
 - TypeScript
 - GitHub Trending · 2026-07-12
 
-## Atualizar
-- 2 de agosto de 2026: Star 33.359 → 33.999, versão mais recente v0.4.16 (21 de maio de 2026).
-
 ## O que você ganha
 - Desenhe diagramas profissionais com comandos de linguagem natural
 - Converta imagens e arquivos PDF existentes em diagramas

@@ -6,9 +6,6 @@ Desarrollado por el equipo de Astro, Flue se destaca como un marco de agente san
 - TypeScript
 - GitHub Trending · 2026-06-06
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 4.594 → 7.625.
-
 ## Qué aporta
 - Creación de agentes programables y headless basados ​​en TypeScript.
 - Entorno de trabajo rápido y escalable con sandbox virtual.

@@ -6,10 +6,6 @@ GeoLibre est une plate-forme de système d'information géographique (SIG) lég�
 - TypeScript
 - GitHub Trending · 2026-07-28
 
-## Mise à jour
-- 6 août 2026 : Étoile 4 941 → 5 470, dernière version v2.5.0 (6 août 2026).
-- 2 août 2026 : Étoile 2 891 → 4 941, dernière version v2.4.0 (29 juillet 2026).
-
 ## Ce que ça vous apporte
 - Analyse des géodonnées sans installation dans le navigateur
 - Prise en charge des ordinateurs de bureau, mobiles et Jupyter
@@ -25,7 +21,6 @@ pip install GeoLibre
 
 ## Pour commencer
 - Source officielle →
-Vous n'avez besoin d'aucune installation pour commencer à utiliser GeoLibre. Vous pouvez accéder à la version Web via votre navigateur ou visiter la page de téléchargement sur le site officiel pour télécharger le programme d'installation de votre système d'exploitation de bureau.
 
 ## Termes liés du glossaire
 

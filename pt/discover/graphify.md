@@ -6,12 +6,6 @@ Graphify transforma diferentes tipos de dados, como arquivos de código, esquema
 - Python
 - GitHub Trending · 2026-07-14
 
-## Atualizar
-- 12 de agosto de 2026: Star 105.050 → 105.395, versão mais recente v0.9.40 (11 de agosto de 2026).
-- 11 de agosto de 2026: Star 104.693 → 105.050, versão mais recente v0.9.39 (10 de agosto de 2026).
-- 10 de agosto de 2026: Star 104.401 → 104.693, versão mais recente v0.9.38 (9 de agosto de 2026).
-- 9 de agosto de 2026: Star 104.008 → 104.401, versão mais recente v0.9.37 (8 de agosto de 2026).
-
 ## O que você ganha
 - O código transforma seus arquivos e documentos em uma rede de informações consultáveis.
 - Ele usa tecnologia nativa e rápida de tree-sitter para análise de código.

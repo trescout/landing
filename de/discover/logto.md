@@ -6,9 +6,6 @@ Logto bietet eine Authentifizierungs- und Autorisierungsinfrastruktur basierend 
 - TypeScript
 - GitHub Trending · 2026-06-30
 
-## Aktualisieren
-- 2. August 2026: Star 12.903 → 14.271, neueste Version v1.42.0 (30. Juli 2026).
-
 ## Was es bringt
 - Sichere Infrastruktur mit OIDC- und OAuth 2.1-Protokollen
 - Mandantenfähigkeit und rollenbasierte Zugriffskontrolle

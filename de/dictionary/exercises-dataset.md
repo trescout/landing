@@ -24,5 +24,8 @@ Denn statt zufälliger Informationen beschleunigt ein regelmäßiger Fluss, der 
 - [AI Skills](/de/dictionary/ai-skills/)
 - [Engineering Skills](/de/dictionary/engineering-skills/)
 
+## Verwandte Werkzeuge
+- [Exercises Dataset](/de/discover/exercises-dataset/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/exercises-dataset/

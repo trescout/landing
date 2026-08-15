@@ -6,9 +6,6 @@ Paperclip est une plateforme open source qui vous permet de gérer les agents IA
 - TypeScript
 - GitHub Trending · 2026-08-11
 
-## Mise à jour
-- 11 août 2026 : Star 76.656 → 76.659, dernière version v2026.722.0 (22 juillet 2026).
-
 ## Ce que ça vous apporte
 - Gérez plusieurs agents IA à partir d’une seule interface.
 - Contrôlez de manière centralisée le budget et les tâches des agents.

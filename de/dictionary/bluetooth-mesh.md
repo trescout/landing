@@ -26,5 +26,9 @@ Mit zunehmender Geräteanzahl vergrößert sich auch der Abdeckungsbereich des N
 - [Mesh](/de/dictionary/mesh/)
 - [Networking Stack](/de/dictionary/networking-stack/)
 
+## Verwandte Werkzeuge
+- [Bitchat](/de/discover/bitchat/)
+- [Bitchat Android](/de/discover/bitchat-android/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/bluetooth-mesh/

@@ -6,11 +6,6 @@ Caveman ist ein für Claude Code entwickeltes Funktionspaket, das den Token-Verb
 - JavaScript
 - GitHub Trending · 2026-07-03
 
-## Aktualisieren
-- 12. August 2026: Star 95.589 → 97.574, neueste Version v2.0.0 (11. August 2026).
-- 4. August 2026: Star 95.226 → 95.589, neueste Version v1.10.0 (3. August 2026).
-- 2. August 2026: Star 81.688 → 95.226, neueste Version v1.9.1 (3. Juli 2026).
-
 ## Was es bringt
 - Spart bis zu 65 % Token bei KI-Antworten.
 - Eliminiert unnötige Wörter, ohne die technische Genauigkeit zu beeinträchtigen.

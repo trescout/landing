@@ -21,7 +21,6 @@ brew install asio
 
 ## Cómo empezar
 - Fuente oficial →
-Asio es una biblioteca C++. Para comenzar a usarlo, puede visitar https://think-async.com/ o seguir la ruta doc/index.html en el archivo que descargó para acceder a la documentación y los tutoriales de la API.
 
 ## Términos relacionados del glosario
 

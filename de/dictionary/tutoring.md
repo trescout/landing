@@ -27,5 +27,8 @@ Ja, aber manchmal kann es bei Themen, die eine komplexe Logik erfordern, zu Fehl
 - [AI Companion](/de/dictionary/ai-companion/)
 - [Lifelong Learning](/de/dictionary/lifelong-learning/)
 
+## Verwandte Werkzeuge
+- [DeepTutor](/de/discover/deeptutor/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/tutoring/

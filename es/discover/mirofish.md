@@ -6,9 +6,6 @@ MiroFish ofrece un motor de inteligencia de enjambre simple y universal desarrol
 - Python
 - GitHub Trending · 2026-06-06
 
-## Actualizar
-- 2 de agosto de 2026: Star 64.830 → 69.813, última versión v0.1.2 (7 de marzo de 2026).
-
 ## Qué aporta
 - Crea mundos de simulación digital a partir de datos del mundo real.
 - Permite la interacción con agentes de inteligencia artificial con personalidades independientes.

@@ -6,10 +6,6 @@ AstrBot é uma estrutura de desenvolvimento de agentes de inteligência artifici
 - Python
 - GitHub Trending · 2026-07-20
 
-## Atualizar
-- 6 de agosto de 2026: Star 38.478 → 38.683, versão mais recente v4.27.2 (5 de agosto de 2026).
-- 2 de agosto de 2026: Star 36.787 → 38.478, versão mais recente v4.27.1 (2 de agosto de 2026).
-
 ## O que você ganha
 - Integração com plataformas de mensagens populares
 - Estrutura extensível com milhares de plugins

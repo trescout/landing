@@ -6,10 +6,6 @@ El clonador de sitios web con inteligencia artificial (AI website cloner), desar
 - TypeScript
 - GitHub Trending · 2026-06-23
 
-## Actualizar
-- 10 de agosto de 2026: Star 30,826 → 31,512, última versión v0.4.0 (10 de agosto de 2026).
-- 2 de agosto de 2026: Star 18 039 → 30 826, última versión v0.3.1 (30 de marzo de 2026).
-
 ## Qué aporta
 - Convierte sitios web existentes al código base Next.js
 - Extrae automáticamente elementos y activos de diseño.

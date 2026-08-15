@@ -6,10 +6,6 @@ Witr ist ein Befehlszeilentool, das Prozesse, Ports, Container oder Dateien im S
 - Go
 - GitHub Trending · 2026-08-08
 
-## Aktualisieren
-- 10. August 2026: Star 19.853 → 20.875, neueste Version v0.3.3 (24. Juni 2026).
-- 8. August 2026: Star 19.848 → 19.853, neueste Version v0.3.3 (24. Juni 2026).
-
 ## Was es bringt
 - Zeigt Schritt für Schritt, warum Prozesse funktionieren
 - Überwacht die Container- und Hafenaktivitäten im Detail

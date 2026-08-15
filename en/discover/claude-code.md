@@ -7,16 +7,30 @@ Claude Code; It is an agent-based coding tool that lives in your terminal and ha
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
 
-## Update
-- August 12, 2026: Star 140,975 → 141,119, latest version v2.1.228 (August 11, 2026).
-- 11 August 2026: Star 140.624 → 140.975, latest version v2.1.227 (10 August 2026).
-- August 8, 2026: Star 140,527 → 140,624, latest version v2.1.226 (August 8, 2026).
-- August 7, 2026: Star 140,418 → 140,527, latest version v2.1.224 (August 7, 2026).
-
 ## What you get
 - It understands your code base and performs operations between files.
 - Just say 'add or correct this' in natural language.
 - Many skills and plugins from this catalog are used with it.
+
+## How to install, how to use?
+**macOS/Linux (recommended)**
+
+```
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+**Windows (PowerShell)**
+
+```
+irm https://claude.ai/install.ps1 | iex
+```
+
+**Start in project directory**
+
+```
+claude
+```
+
 
 ## Related dictionary terms
 

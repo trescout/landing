@@ -5,9 +5,6 @@ Zhangxuefeng-skill offers a structured cognitive operating system for university
 - ★ 10,048
 - GitHub Trending · 2026-06-12
 
-## Update
-- August 2, 2026: Star 8,114 → 10,048.
-
 ## What you get
 - Analyzes complex career and education decisions through the cognitive framework of 张雪峰.
 - It offers concrete recommendations focused on employment data and social reality.

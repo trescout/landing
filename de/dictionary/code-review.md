@@ -27,5 +27,10 @@ Auch wenn es zunächst zeitaufwändig ist, spart es auf lange Sicht erheblich Ze
 - [Clean Code](/de/dictionary/clean-code/)
 - [Refactoring](/de/dictionary/refactoring/)
 
+## Verwandte Werkzeuge
+- [Code Review Graph](/de/discover/code-review-graph/)
+- [Open Code Review](/de/discover/open-code-review/)
+- [Tuicr](/de/discover/tuicr/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/code-review/

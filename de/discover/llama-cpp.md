@@ -6,12 +6,6 @@ Llama.cpp ist eine C- und C++-basierte Inferenzbibliothek, die die effiziente Au
 - C++
 - GitHub Trending · 2026-06-08
 
-## Aktualisieren
-- 12. August 2026: Star 123.392 → 123.526, letzte Version b10369 (12. August 2026).
-- 11. August 2026: Star 123.386 → 123.392, letzte Version b10357 (11. August 2026).
-- 11. August 2026: Star 123.241 → 123.386, letzte Version b10356 (11. August 2026).
-- 10. August 2026: Star 123.145 → 123.241, letzte Version b10333 (9. August 2026).
-
 ## Was es bringt
 - Es führt große Sprachmodelle effizient auf Standardhardware aus.
 - Bietet hohe Leistung bei geringer Speichernutzung.

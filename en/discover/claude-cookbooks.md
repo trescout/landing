@@ -6,9 +6,6 @@ Claude cookbooks shared by Anthropics provide practical code examples and Jupyte
 - Jupyter Notebook
 - GitHub Trending · 2026-07-10
 
-## Update
-- August 2, 2026: Star 47,306 → 50,838.
-
 ## What you get
 - Ready-made code templates for Claude API integration
 - Examples of image processing and data analysis
@@ -16,7 +13,6 @@ Claude cookbooks shared by Anthropics provide practical code examples and Jupyte
 
 ## Getting started
 - Official source →
-You can review the Jupyter notebooks you want to use by accessing the Claude Cookbooks repository via GitHub. To get started, you should first grab a free Claude API key from the Anthropic official site and check out the recommended Claude API Fundamentals course to learn the basic concepts.
 
 ## Related dictionary terms
 

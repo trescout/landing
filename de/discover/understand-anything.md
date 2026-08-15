@@ -7,8 +7,42 @@ Haben Sie eine Codebasis mit 200.000 Zeilen oder ein riesiges Dokumentenarchiv, 
 - MIT
 - GitHub Trending · 26 May 2026
 
-## Aktualisieren
-- 1. August 2026: Star 35.132 → 77.021, neueste Version v2.9.0 (10. Juli 2026), Repository verschoben, neue Adresse ist Egonex-AI/Understand-Anything.
+## Was es bringt
+- Sie können ein Projekt, mit dem Sie nicht vertraut sind, innerhalb von Minuten lösen.
+- Mit dem Befehl „Leitfaden für Anfänger vorbereiten“ können Sie sofort Inhalte erstellen.
+- „Wo ist diese Funktion und wie funktioniert sie?“ Sie können die Details erfahren, indem Sie fragen:
+- Sie verwandeln Ihr eigenes Dokumenten- und Notizarchiv in ein interaktives Frage-Antwort-System, ohne dass Programmierkenntnisse erforderlich sind.
+
+## Schreiben Sie einfach das und fragen Sie:
+- Was macht dieses Projekt, wie funktioniert es?
+- Erstellen Sie einen Onboarding-Leitfaden für einen Anfänger.
+- Was genau macht diese Datei, was sind ihre Abhängigkeiten?
+
+## Wie fühlt es sich an?
+Was macht dieses Projekt und wo sollte ich suchen, um Änderungen vorzunehmen?
+
+## Probieren Sie es in 2 Minuten aus
+**Claude Code**
+
+```
+/plugin marketplace add Lum1104/Understand-Anything
+/plugin install understand-anything
+```
+
+**Codex · Antigravity · Gemini CLI · Cursor…**
+
+```
+curl -fsSL https://raw.githubusercontent.com/Lum1104/Understand-Anything/main/install.sh | bash
+```
+
+
+## Warum steht es auf der Tagesordnung?
+Denn es steht im Mittelpunkt des Trends „Code und Informationen verstehen, indem man KI fragt“. Es ist nicht nur eine eigenständige Anwendung, sondern ist auch als Add-on zu den von Ihnen verwendeten Assistenten enthalten (z. B. Claude Code, Codex, Gemini CLI). Die Tatsache, dass mehr als 4.700 Entwickler an einem Tag die Hauptrolle spielten, ist ein Beweis für das große Interesse, das es gefunden hat.
+
+## Grenzen · ehrlich
+- Es ist keine Zauberei: Die Qualität der Antworten hängt vom verwendeten KI-Modell ab.
+- Bei sehr großen und unübersichtlichen Projekten kann der erste Scan einige Zeit dauern.
+- Sie müssen einen KI-Assistenten einrichten (und häufig ein Konto eröffnen).
 
 ## Verwandte Begriffe aus dem Glossar
 

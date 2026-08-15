@@ -6,11 +6,6 @@ FastMCP é uma estrutura baseada em Python que facilita o desenvolvimento de ser
 - Python
 - GitHub Trending · 2026-07-21
 
-## Atualizar
-- 11 de agosto de 2026: Star 27.084 → 27.165, versão mais recente v3.4.7 (10 de agosto de 2026).
-- 6 de agosto de 2026: Star 27.020 → 27.084, versão mais recente v3.4.6 (5 de agosto de 2026).
-- 2 de agosto de 2026: Star 26.621 → 27.020, versão mais recente v3.4.5 (27 de julho de 2026).
-
 ## O que você ganha
 - Transforma facilmente funções Python em ferramentas de IA
 - Cria automaticamente esquema, validação e documentação

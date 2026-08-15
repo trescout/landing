@@ -6,10 +6,6 @@ Supabase es una plataforma de desarrollo que ofrece infraestructura de bases de 
 - TypeScript
 - GitHub Trending · 2026-07-04
 
-## Actualizar
-- 7 de agosto de 2026: Star 107,399 → 107,669, última versión v1.26.08 (7 de agosto de 2026).
-- 2 de agosto de 2026: Star 105,582 → 107,399, última versión v1.26.07 (9 de julio de 2026).
-
 ## Qué aporta
 - Ofrece infraestructura de base de datos Postgres lista para usar
 - Proporciona API y autenticación automáticas.
@@ -40,7 +36,6 @@ supabase start
 
 ## Cómo empezar
 - Fuente oficial →
-Supabase es una plataforma basada en la nube, no es necesario realizar ninguna instalación. Para comenzar, puede ir a supabase.com, crear una cuenta y comenzar a usar el panel de control a través del navegador.
 
 ## Términos relacionados del glosario
 

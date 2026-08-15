@@ -24,5 +24,8 @@ Ja, das Wichtigste ist nicht, dass es künstlerisch ist, sondern dass es die Fun
 - [Workflow Orchestration Framework](/de/dictionary/workflow-orchestration-framework/)
 - [Design System](/de/dictionary/design-system/)
 
+## Verwandte Werkzeuge
+- [Likec4](/de/discover/likec4/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/diagrams/

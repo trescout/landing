@@ -5,9 +5,6 @@ LibreTranslate offers a free and open source machine translation interface (API)
 - ★ 15,834
 - GitHub Trending · 2026-06-19
 
-## Update
-- August 2, 2026: Star 15,075 → 15,834, latest version v1.9.6 (May 26, 2026).
-
 ## What you get
 - Get rid of dependent services like Google or Azure
 - Translate offline without internet connection

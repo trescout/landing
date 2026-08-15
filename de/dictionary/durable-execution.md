@@ -26,5 +26,8 @@ Im Falle eines Fehlers ist es Zeit- und Geldverschwendung, den gesamten Prozess 
 - [State Management](/de/dictionary/state-management/)
 - [Runtime](/de/dictionary/runtime/)
 
+## Verwandte Werkzeuge
+- [Pg Durable](/de/discover/pg-durable/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/durable-execution/

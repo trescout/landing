@@ -13,7 +13,6 @@ Der von AhmadIbrahiim entwickelte Website-Downloader ermöglicht das Herunterlad
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Um das Tool zu verwenden, laden Sie die Codes von der GitHub-Seite auf Ihren Computer herunter. Gehen Sie dann über das Terminal in den Projektordner, installieren Sie die notwendigen Abhängigkeiten und starten Sie die Anwendung. Nachdem die Anwendung ausgeführt wurde, können Sie den Download starten, indem Sie über Ihren Browser die lokale Adresse aufrufen.
 
 ## Verwandte Begriffe aus dem Glossar
 

@@ -29,5 +29,8 @@ Es kann Prozesse wie die Lagerverwaltung oder Verkaufsanalyse durch die Erstellu
 - [API](/de/dictionary/api/)
 - [State Management](/de/dictionary/state-management/)
 
+## Verwandte Werkzeuge
+- [Odoo](/de/discover/odoo/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/enterprise-resource-planning/

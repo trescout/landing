@@ -6,10 +6,6 @@ The Outlines library enables the responses from large language models to be pres
 - Python
 - GitHub Trending · 2026-07-22
 
-## Update
-- August 7, 2026: Star 15,477 → 15,525, last version 1.3.3 (August 6, 2026).
-- August 2, 2026: Star 14,917 → 15,477, last version 1.3.2 (July 20, 2026).
-
 ## What you get
 - Constrains model outputs according to predefined schemas
 - Fully compatible with JSON or Python data types

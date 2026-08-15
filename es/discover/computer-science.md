@@ -13,7 +13,6 @@ Al ofrecer un plan de estudios gratuito y orientado al autoaprendizaje en el cam
 
 ## Cómo empezar
 - Fuente oficial →
-Para comenzar con este plan de estudios, simplemente visite el sitio web oficial de OSSU CS o el repositorio de GitHub. Puedes revisar cursos en el sitio web, crear tu plan de estudio e interactuar con otros estudiantes uniéndote a la comunidad de Discord.
 
 ## Términos relacionados del glosario
 

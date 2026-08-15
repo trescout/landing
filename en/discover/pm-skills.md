@@ -5,9 +5,6 @@ PM Skills Marketplace offers more than 100 agentic skills, commands and plugins 
 - ★ 24,775
 - GitHub Trending · 2026-06-09
 
-## Update
-- August 2, 2026: Star 12,983 → 24,775, latest version v2.1.0 (July 3, 2026).
-
 ## What you get
 - It provides more than 100 autonomous capabilities and commands for product management processes.
 - It standardizes the entire product lifecycle, from discovery to growth.
@@ -15,7 +12,6 @@ PM Skills Marketplace offers more than 100 agentic skills, commands and plugins 
 
 ## Getting started
 - Official source →
-If you are using Claude Cowork, go to the 'Customize' menu in the interface, select 'Add marketplace from GitHub' from the 'Browse plugins' section and complete the installation by entering 'phuryn/pm-skills'. For other AI tools, you can start by copying the skill files in the GitHub repository to the folder paths specified in the relevant tool's documentation (for example, .cursor/skills/).
 
 ## Related dictionary terms
 

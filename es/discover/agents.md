@@ -6,10 +6,6 @@ LiveKit Agents es un marco de Python que se utiliza para desarrollar agentes de 
 - Python
 - GitHub Trending · 2026-08-04
 
-## Actualizar
-- 7 de agosto de 2026: Star 12.125 → 12.727, última versión livekit-agents@1.6.9 (7 de agosto de 2026).
-- 4 de agosto de 2026: Star 12.122 → 12.125, última versión livekit-agents@1.6.8 (3 de agosto de 2026).
-
 ## Qué aporta
 - Crea interacciones vocales que producen respuestas similares a las humanas.
 - El servidor de medios WebRTC es totalmente compatible con LiveKit.

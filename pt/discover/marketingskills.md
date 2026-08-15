@@ -6,9 +6,6 @@ A biblioteca de habilidades de marketing desenvolvida para Claude Code e agentes
 - JavaScript
 - GitHub Trending · 2026-07-06
 
-## Atualizar
-- 2 de agosto de 2026: Star 36.679 → 42.728, versão mais recente v2.10.0 (27 de julho de 2026).
-
 ## O que você ganha
 - Melhora o desempenho da IA em tarefas orientadas para marketing
 - Oferece fluxos de trabalho especializados em áreas como SEO, copywriting e CRO

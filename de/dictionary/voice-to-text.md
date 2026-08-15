@@ -27,5 +27,8 @@ Moderne Modelle unterstützen die meisten Sprachen, allerdings ist die Erfolgsqu
 - [Speech Synthesis](/de/dictionary/speech-synthesis/)
 - [NLP](/de/dictionary/nlp/)
 
+## Verwandte Werkzeuge
+- [FluidVoice](/de/discover/fluidvoice/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/voice-to-text/

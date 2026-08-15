@@ -6,12 +6,6 @@ Le projet book-to-skill convertit les formats de documents portables (PDF) de li
 - Python
 - GitHub Trending · 2026-07-29
 
-## Mise à jour
-- 11 août 2026 : Star 19 562 → 20 129, dernière version v1.4.0 (10 août 2026).
-- 10 août 2026 : Étoile 18 272 → 19 562, dernière version v1.3.0 (30 juillet 2026).
-- 7 août 2026 : Star 17 132 → 18 272, dernière version v1.3.0 (30 juillet 2026).
-- 6 août 2026 : Star 15 238 → 17 132, dernière version v1.3.0 (30 juillet 2026).
-
 ## Ce que ça vous apporte
 - Transfère les livres et les documents directement dans la mémoire de travail de votre agent IA.
 - Il évite la consommation inutile de jetons en divisant les fichiers volumineux en sections.

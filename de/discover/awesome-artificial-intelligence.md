@@ -5,9 +5,6 @@ Awesome-Artificial-Intelligence ist eine umfassende Ressourcenliste, die Schulun
 - ★ 15.631
 - GitHub Trending · 2026-06-19
 
-## Aktualisieren
-- 2. August 2026: Stern 14.532 → 15.631.
-
 ## Was es bringt
 - Ausgewählte aktuelle Bücher zum Thema Künstliche Intelligenz
 - Wissenschaftliche Artikel und strukturierte Bildungsinhalte
@@ -15,7 +12,6 @@ Awesome-Artificial-Intelligence ist eine umfassende Ressourcenliste, die Schulun
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Für dieses Tool ist keine Softwareinstallation erforderlich. ist eine Liste von Ressourcen. Um Ihre Lernreise zu beginnen, können Sie die Bücher im Abschnitt „Lernen“ der README-Datei durchsehen und über die Links im Abschnitt „Erstellen“ aktuelle Frameworks und Leitfäden für künstliche Intelligenz durchsuchen.
 
 ## Verwandte Begriffe aus dem Glossar
 

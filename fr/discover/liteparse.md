@@ -7,15 +7,36 @@ Liteparse (run-llama); est un analyseur de documents open source écrit en Rust 
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
-## Mise à jour
-- 6 août 2026 : Star 11 883 → 11 934, dernière version node-v2.11.1 (5 août 2026).
-- 3 août 2026 : Star 11.878 → 11.883, dernière version docker-v2.11.0 (3 août 2026).
-- 2 août 2026 : Star 7 781 → 11 878, dernière version node-v2.10.1 (29 juillet 2026).
-
 ## Ce que ça vous apporte
 - Fournit une analyse de documents rapide et efficace.
 - Il rend usinables des structures complexes.
 - Entièrement compatible avec les pipelines AI et RAG.
+
+## Comment installer, comment utiliser ?
+**Installer avec Python (pip)**
+
+```
+pip install liteparse
+```
+
+**Installer avec Node.js / TypeScript**
+
+```
+npm i @llamaindex/liteparse
+```
+
+**Analyser un PDF**
+
+```
+lit parse document.pdf
+```
+
+**enregistrer au format JSON**
+
+```
+lit parse document.pdf --format json -o output.json
+```
+
 
 ## Termes liés du glossaire
 

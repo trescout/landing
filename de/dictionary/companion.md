@@ -27,5 +27,8 @@ Ja, heute können Sie Ihren persönlichen Freund mit künstlicher Intelligenz mi
 - [AI Agent](/de/dictionary/ai-agent/)
 - [Memory](/de/dictionary/memory/)
 
+## Verwandte Werkzeuge
+- [AIRI](/de/discover/airi/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/companion/

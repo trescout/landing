@@ -6,11 +6,6 @@ OfficeCLI ofrece una suite ofimática de código abierto que permite a los agent
 - C#
 - GitHub Trending · 2026-07-08
 
-## Actualizar
-- 11 de agosto de 2026: Star 25,967 → 27,506, última versión v1.0.143 (28 de julio de 2026).
-- 6 de agosto de 2026: Star 24,245 → 25,967, última versión v1.0.143 (28 de julio de 2026).
-- 2 de agosto de 2026: Star 10,491 → 24,245, última versión v1.0.143 (28 de julio de 2026).
-
 ## Qué aporta
 - Edite archivos de Word, Excel y PowerPoint con código
 - Realice transacciones directamente sin instalar software de oficina

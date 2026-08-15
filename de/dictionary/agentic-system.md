@@ -28,5 +28,8 @@ Ja, die meisten Agentensysteme sind darauf ausgelegt, aus Erfahrungen zu lernen 
 - [Agentic AI](/de/dictionary/agentic-ai/)
 - [Self-orchestration](/de/dictionary/self-orchestration/)
 
+## Verwandte Werkzeuge
+- [OpenMontage](/de/discover/openmontage/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agentic-system/

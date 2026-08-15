@@ -6,9 +6,6 @@ DESIGN.md wurde von Google Labs entwickelt und bietet eine strukturierte Formats
 - TypeScript
 - GitHub Trending · 2026-06-25
 
-## Aktualisieren
-- 2. August 2026: Star 17.720 → 26.873, letzte Version 0.4.0 (27. Juli 2026).
-
 ## Was es bringt
 - Speichert Designentscheidungen in strukturiertem Format
 - Bietet konsistente visuelle Anleitung für Codierungsagenten

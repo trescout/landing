@@ -6,12 +6,6 @@ Reverse-Skill bietet ein durch künstliche Intelligenz unterstütztes Routing-Pa
 - PowerShell
 - GitHub Trending · 2026-08-01
 
-## Aktualisieren
-- 12. August 2026: Star 22.757 → 24.068, neueste Version v1.0.1 (8. August 2026).
-- 10. August 2026: Star 20.865 → 22.757, neueste Version v1.0.1 (8. August 2026).
-- 8. August 2026: Star 20.511 → 20.865, neueste Version v1.0.1 (8. August 2026).
-- 7. August 2026: Star 19.315 → 20.511, neueste Version v1.0.0 (17. Juli 2026).
-
 ## Was es bringt
 - Standardisierte Arbeitsabläufe für KI-Agenten
 - Automatische Werkzeugauswahl basierend auf verschiedenen Dateitypen

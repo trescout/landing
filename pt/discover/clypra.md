@@ -6,10 +6,6 @@ Clypra é um aplicativo editor de vídeo de código aberto desenvolvido usando T
 - TypeScript
 - GitHub Trending · 2026-07-15
 
-## Atualizar
-- 6 de agosto de 2026: Star 2.952 → 2.965, versão mais recente v1.2.2 (6 de agosto de 2026).
-- 2 de agosto de 2026: Star 2.729 → 2.952, versão mais recente v1.2.1 (30 de julho de 2026).
-
 ## O que você ganha
 - Processamento de vídeo de alto desempenho acelerado por hardware
 - Linha do tempo multipista com precisão de quadro

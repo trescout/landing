@@ -5,10 +5,6 @@ Vite offers a fast development environment and build tool for modern web project
 - ★ 82,245
 - GitHub Trending · 2026-06-07
 
-## Update
-- 7 August 2026: Star 82.169 → 82.245, last version plugin-legacy@8.2.3 (6 August 2026).
-- 2 August 2026: Star 81.238 → 82.169, last version create-vite@9.1.2 (30 July 2026).
-
 ## What you get
 - Instant server startup thanks to native ES modules
 - Uninterrupted development process with fast module replacement

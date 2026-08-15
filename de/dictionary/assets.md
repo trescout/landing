@@ -21,5 +21,9 @@ Im Allgemeinen nein, obwohl Code als Hauptstruktur betrachtet wird; Bilder, Tön
 - [Godot Engine](/de/dictionary/godot-engine/)
 - [Design Systems](/de/dictionary/design-system/)
 
+## Verwandte Werkzeuge
+- [Website-downloader](/de/discover/website-downloader/)
+- [U3 SDK](/de/discover/u3-sdk/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/assets/

@@ -6,9 +6,6 @@ Desenvolvido pela ByteDance, Deer-Flow é uma estrutura de superagente de códig
 - Python
 - GitHub Trending · 2026-06-22
 
-## Atualizar
-- 2 de agosto de 2026: Star 72.905 → 78.818, última versão v2.0.0 (25 de junho de 2026).
-
 ## O que você ganha
 - Pesquisa autônoma e capacidade de codificação
 - Trabalhando em um ambiente sandbox seguro

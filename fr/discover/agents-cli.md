@@ -6,10 +6,6 @@ L'interface de ligne de commande (CLI) développée par Google réalise des assi
 - Python
 - GitHub Trending · 2026-07-01
 
-## Mise à jour
-- 6 août 2026 : Star 5 455 → 5 491, dernière version v1.3.1 (4 août 2026).
-- 2 août 2026 : Étoile 4 413 → 5 455, dernière version v1.2.1 (23 juillet 2026).
-
 ## Ce que ça vous apporte
 - Standardise les processus de développement d'agents sur Google Cloud
 - Donne aux assistants de codage la possibilité de créer et de déployer des agents

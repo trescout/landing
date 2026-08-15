@@ -7,13 +7,25 @@ train-llm-from-scratch offers a simple, step-by-step method of training a large 
 - MIT
 - GitHub Trending · 30 May 2026
 
-## Update
-- August 2, 2026: Star 2,086 → 8,864.
-
 ## What do you learn?
 - End-to-end flow covering data download, training and text production.
 - Application method based on the inner workings of the LLM.
 - Practical use with directly operable notebooks.
+
+## How to install, how to use?
+**Clone repository**
+
+```
+git clone https://github.com/FareedKhan-dev/train-llm-from-scratch.git
+cd train-llm-from-scratch
+```
+
+**Install dependencies**
+
+```
+pip install -r requirements.txt
+```
+
 
 ## Related dictionary terms
 

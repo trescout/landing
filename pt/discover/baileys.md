@@ -6,9 +6,6 @@ Baileys oferece uma interface baseada em soquete (API) baseada no protocolo What
 - JavaScript
 - GitHub Trending · 2026-07-31
 
-## Atualizar
-- 2 de agosto de 2026: Star 10.485 → 10.556, versão mais recente v7.0.0-rc14 (29 de julho de 2026).
-
 ## O que você ganha
 - Interaja diretamente com o WhatsApp Web API
 - Desenvolva projetos baseados em TypeScript e JavaScript
@@ -24,7 +21,6 @@ npm install baileys
 
 ## Como começar
 - Fonte oficial →
-Para começar a usar esta biblioteca, você pode primeiro revisar o guia atual em https://baileys.wiki. Você também pode acessar informações básicas acessando a documentação antiga do projeto no arquivo README no GitHub ou na página inicial do NPM.
 
 ## Termos relacionados do glossário
 

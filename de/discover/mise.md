@@ -6,10 +6,6 @@ Mise ist ein Tool, mit dem Sie Softwareentwicklungstools, Umgebungsvariablen und
 - Rust
 - GitHub Trending · 2026-08-08
 
-## Aktualisieren
-- 11. August 2026: Star 32.098 → 32.258, neueste Version v2026.8.4 (11. August 2026).
-- 8. August 2026: Star 32.098 → 32.098, neueste Version v2026.8.3 (7. August 2026).
-
 ## Was es bringt
 - Verwaltet automatisch Projekttools und -versionen
 - Definiert Umgebungsvariablen auf Projektbasis
@@ -17,7 +13,6 @@ Mise ist ein Tool, mit dem Sie Softwareentwicklungstools, Umgebungsvariablen und
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Zur Installation können Sie den Abschnitt „Erste Schritte“ auf der offiziellen Dokumentationsseite besuchen und die für Ihr Betriebssystem geeigneten Schritte befolgen. Nach der Installation müssen Sie die „Aktivierungs“-Befehle, die erforderlich sind, damit das Tool in Ihre Shell integriert funktioniert, entsprechend Ihrem Terminaltyp über dieselbe Dokumentation konfigurieren.
 
 ## Verwandte Begriffe aus dem Glossar
 

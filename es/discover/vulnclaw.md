@@ -6,11 +6,6 @@ VulnClaw automatiza los procesos de pruebas de penetración utilizando agentes d
 - Python
 - GitHub Trending · 2026-06-30
 
-## Actualizar
-- 9 de agosto de 2026: Star 2575 → 2646, última versión v0.3.8 (9 de agosto de 2026).
-- 6 de agosto de 2026: Star 2425 → 2575, última versión v0.3.7 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 1313 → 2425, última versión v0.3.6 (25 de julio de 2026).
-
 ## Qué aporta
 - Pruebas de penetración de un extremo a otro con comandos de lenguaje natural
 - Escaneo de seguridad autónomo dirigido

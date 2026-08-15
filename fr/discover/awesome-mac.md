@@ -6,9 +6,6 @@ Awesome-mac est un référentiel de ressources complet qui catégorise et réper
 - Swift
 - GitHub Trending · 2026-08-12
 
-## Mise à jour
-- 12 août 2026 : Star 110 586 → 110 588, dernière version v2.1.0 (30 mars 2026).
-
 ## Ce que ça vous apporte
 - Trouvez rapidement les applications qui répondent à vos besoins
 - Liste de logiciels systématique et catégorisée
@@ -16,7 +13,6 @@ Awesome-mac est un référentiel de ressources complet qui catégorise et réper
 
 ## Pour commencer
 - Source officielle →
-Cet outil ne nécessite pas d'installation de logiciel. En visitant la page GitHub correspondante, vous pouvez parcourir la liste catégorisée des applications macOS et examiner directement le logiciel dont vous avez besoin.
 
 ## Liens
 - Dépôt GitHub →

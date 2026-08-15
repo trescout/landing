@@ -7,9 +7,6 @@ CEC; Claude Code é um sistema abrangente que traz habilidades, instintos, otimi
 - MIT
 - GitHub Trending · 26 May 2026
 
-## Atualizar
-- 1º de agosto de 2026: Star 194.032 → 236.779, versão mais recente v2.1.0 (27 de julho de 2026).
-
 ## O que você ganha
 - O agente trabalha de forma mais consistente graças a conjuntos prontos de habilidades e instintos.
 - Evita a perda de foco durante tarefas de longo prazo com gerenciamento de memória e contexto.
@@ -18,6 +15,21 @@ CEC; Claude Code é um sistema abrangente que traz habilidades, instintos, otimi
 
 ## Como começar
 Você pode instalá-lo como um pacote npm (ecc-universal) ou como um aplicativo GitHub. Todas as etapas estão na seção de instalação do repositório. Depois de instalado, seu agente começa a usar a camada de recursos e segurança do TreScout.
+
+## Como instalar, como usar?
+**Claude Code · adicionar + instalar mercado**
+
+```
+/plugin marketplace add https://github.com/affaan-m/ECC
+/plugin install ecc@ecc
+```
+
+**Execute a verificação de segurança**
+
+```
+/security-scan
+```
+
 
 ## Termos relacionados do glossário
 

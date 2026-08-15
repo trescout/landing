@@ -27,5 +27,8 @@ Es steigen nicht nur die Kosten, sondern das Modell kann sich auch in zu vielen 
 - [Embedding](/de/dictionary/embedding/)
 - [Vector Database](/de/dictionary/vector-database/)
 
+## Verwandte Werkzeuge
+- [Headroom](/de/discover/headroom/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/rag-chunks/

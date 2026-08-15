@@ -6,10 +6,6 @@ Code-review-graph analiza la base del código y crea un mapa de inteligencia de 
 - Python
 - GitHub Trending · 2026-07-18
 
-## Actualizar
-- 9 de agosto de 2026: Star 28 041 → 29 487, última versión v2.3.7 (18 de julio de 2026).
-- 2 de agosto de 2026: Star 19,852 → 28,041, última versión v2.3.7 (18 de julio de 2026).
-
 ## Qué aporta
 - Analiza la base del código y presenta solo archivos relevantes a la inteligencia artificial.
 - Reduce significativamente el consumo de tokens en grandes proyectos.

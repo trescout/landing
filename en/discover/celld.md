@@ -6,9 +6,6 @@ Developed by Deno, Celld offers a self-hosted durable objects infrastructure for
 - Rust
 - GitHub Trending · 2026-08-08
 
-## Update
-- August 8, 2026: Star 2,264 → 2,266, latest version v0.1.0 (August 5, 2026).
-
 ## What you get
 - Provides scalable state management in your own infrastructure.
 - It stores each object as an independent SQLite database.

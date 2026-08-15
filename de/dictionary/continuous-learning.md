@@ -27,5 +27,8 @@ Ein unterbrechungsfreier Datenfluss und eine starke Infrastruktur, die diese Dat
 - [Foundation Model](/de/dictionary/foundation-model/)
 - [AI Skills](/de/dictionary/ai-skills/)
 
+## Verwandte Werkzeuge
+- [Hermes Agent](/de/discover/hermes-agent/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/continuous-learning/

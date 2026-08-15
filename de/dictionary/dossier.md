@@ -27,5 +27,8 @@ Es kann problemlos mit Notizanwendungen oder Datenbanken verwaltet werden.
 - [Knowledge Graph](/de/dictionary/knowledge-graph/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Maigret](/de/discover/maigret/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/dossier/

@@ -6,9 +6,6 @@ Voicebox is an open source artificial intelligence voice studio that allows user
 - TypeScript
 - GitHub Trending · 2026-06-21
 
-## Update
-- August 2, 2026: Star 31,156 → 48,096, last version v0.5.0 (April 25, 2026).
-
 ## What you get
 - Transcribe your own voice or someone else's voice in seconds.
 - Provide natural voice-over and dictation in 23 different languages.

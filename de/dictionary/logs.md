@@ -23,5 +23,8 @@ Wenn das System abstürzt, können Sie die Ursache nur durch Lesen der Protokoll
 - [Observability](/de/dictionary/observability/)
 - [QA](/de/dictionary/qa/)
 
+## Verwandte Werkzeuge
+- [Grafana](/de/discover/grafana/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/logs/

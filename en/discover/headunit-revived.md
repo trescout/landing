@@ -13,7 +13,6 @@ The headunit-revived project provides an application that allows viewing the And
 
 ## Getting started
 - Official source →
-Download the app to your device via Google Play Store or Amazon Appstore. For wireless connection, it is recommended that you also install the 'Wireless Helper' application on your phone. For detailed installation steps and connection settings, you can review the Wiki section on the GitHub page.
 
 ## Related dictionary terms
 

@@ -6,10 +6,6 @@ Développé par NousResearch, Hermes Agent propose une infrastructure d'agent au
 - Python
 - GitHub Trending · 2026-06-04
 
-## Mise à jour
-- 4 août 2026 : Étoile 224 186 → 225 045, dernière version v2026.8.3 (3 août 2026).
-- 2 août 2026 : Star 179 808 → 224 186, dernière version v2026.7.30 (30 juillet 2026).
-
 ## Ce que ça vous apporte
 - Des capacités autonomes qui évoluent au fil du temps en apprenant des interactions des utilisateurs.
 - Possibilité de travailler en intégration avec des plateformes telles que Telegram, Discord et Slack.

@@ -27,5 +27,9 @@ Ja, da keine Zeit bleibt, Daten über das Netzwerk abzurufen, erfolgen In-Proces
 - [Runtime](/de/dictionary/runtime/)
 - [Memory Management](/de/dictionary/memory-management/)
 
+## Verwandte Werkzeuge
+- [Turso](/de/discover/turso/)
+- [Zvec](/de/discover/zvec/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/in-process/

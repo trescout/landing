@@ -27,5 +27,10 @@ Für einfache Websites ist dies recht einfach, für moderne und sichere Websites
 - [Document Parsing](/de/dictionary/document-parsing/)
 - [NLP](/de/dictionary/nlp/)
 
+## Verwandte Werkzeuge
+- [Puppeteer](/de/discover/puppeteer/)
+- [Scrapling](/de/discover/scrapling/)
+- [MediaCrawler](/de/discover/mediacrawler/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/web-scraping/

@@ -6,10 +6,6 @@ La bibliothèque d'utilisation vidéo permet aux agents de codage d'automatiser 
 - Python
 - GitHub Trending · 2026-06-29
 
-## Mise à jour
-- 6 août 2026 : Étoile 18 290 → 19 784.
-- 2 août 2026 : Étoile 11 471 → 18 290.
-
 ## Ce que ça vous apporte
 - Supprime automatiquement les mots de remplissage et les espaces silencieux
 - Applique des effets de fondu professionnels aux transitions audio

@@ -24,5 +24,8 @@ Wenn der Code sauberer ist, werden zukünftige Fehler verhindert und der Entwick
 - [Unit Testing](/de/dictionary/unit-testing/)
 - [Tech Stack](/de/dictionary/tech-stack/)
 
+## Verwandte Werkzeuge
+- [Continue](/de/discover/continue/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/refactoring/

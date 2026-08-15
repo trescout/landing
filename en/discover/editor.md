@@ -6,9 +6,6 @@ TypeScript-based pascalorg/editor allows users to create and share three-dimensi
 - TypeScript
 - GitHub Trending · 2026-07-29
 
-## Update
-- August 2, 2026: Star 18,985 → 20,706, latest version v0.9.1 (June 10, 2026).
-
 ## What you get
 - 3D architectural modeling with React Three Fiber
 - High-performance visualization with WebGPU support

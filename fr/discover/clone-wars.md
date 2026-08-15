@@ -12,7 +12,6 @@ Clone-Wars rassemble sous un même toit plus de 100 clones open source de platef
 
 ## Pour commencer
 - Source officielle →
-Clone-Wars n'est pas un outil logiciel, mais un guide répertoriant les clones open source de plateformes populaires. Pour accéder aux détails du projet que vous souhaitez examiner, vous pouvez visiter le site officiel gourav.io/clone-wars et accéder directement aux codes sources et au contenu de formation des projets concernés via les liens dans le tableau.
 
 ## Termes liés du glossaire
 

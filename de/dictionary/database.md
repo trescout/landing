@@ -27,5 +27,10 @@ Nein, je nach Art der Daten (Tabellen oder Dokumente) werden unterschiedliche Da
 - [Vector Database](/de/dictionary/vector-database/)
 - [Memory System](/de/dictionary/memory-system/)
 
+## Verwandte Werkzeuge
+- [Supabase](/de/discover/supabase/)
+- [Zvec](/de/discover/zvec/)
+- [Cassandra](/de/discover/cassandra/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/database/

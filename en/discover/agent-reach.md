@@ -5,10 +5,6 @@ Agent-Reach is a command line interface (CLI) tool that gives AI agents the abil
 - ★ 67,818
 - GitHub Trending · 2026-06-06
 
-## Update
-- August 7, 2026: Star 64,497 → 67,818, latest version v1.5.0 (June 11, 2026).
-- August 2, 2026: Star 21,757 → 64,497, latest version v1.5.0 (June 11, 2026).
-
 ## What you get
 - It provides free access to platforms such as Twitter, Reddit and GitHub.
 - It reads YouTube videos and RSS feeds directly.

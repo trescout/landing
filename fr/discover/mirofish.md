@@ -6,9 +6,6 @@ MiroFish propose un moteur d'intelligence par essaim simple et universel dévelo
 - Python
 - GitHub Trending · 2026-06-06
 
-## Mise à jour
-- 2 août 2026 : Star 64 830 → 69 813, dernière version v0.1.2 (7 mars 2026).
-
 ## Ce que ça vous apporte
 - Crée des mondes de simulation numérique à partir de données du monde réel.
 - Il permet d’interagir avec des agents d’intelligence artificielle dotés de personnalités indépendantes.

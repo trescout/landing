@@ -6,9 +6,6 @@ DS4 wurde von Salvatore Sanfilippo, dem Erfinder von Redis, entwickelt und ist e
 - C
 - GitHub Trending · 2026-08-03
 
-## Aktualisieren
-- 11. August 2026: Stern 20.117 → 21.134.
-
 ## Was es bringt
 - Führt leistungsstarke KI-Modelle auf Consumer-Hardware aus
 - Ermöglicht die Modellnutzung auch bei begrenzter Speicherkapazität durch Datenstreaming per SSD

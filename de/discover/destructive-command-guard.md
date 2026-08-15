@@ -6,12 +6,6 @@ Destructive Command Guard ist eine Sicherheitsschicht, die entwickelt wurde, um 
 - Rust
 - GitHub Trending · 2026-07-13
 
-## Aktualisieren
-- 8. August 2026: Star 5.642 → 5.678, neueste Version v0.10.0 (8. August 2026).
-- 6. August 2026: Star 5.542 → 5.642, neueste Version v0.9.4 (6. August 2026).
-- 3. August 2026: Star 5.532 → 5.542, neueste Version v0.9.2 (3. August 2026).
-- 2. August 2026: Star 3.284 → 5.532, neueste Version v0.9.0 (2. August 2026).
-
 ## Was es bringt
 - Blockiert gefährliche Befehle, bevor sie ausgeführt werden
 - Reduziert das Risiko von Datenverlust und Systemschäden

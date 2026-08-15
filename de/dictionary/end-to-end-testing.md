@@ -26,5 +26,8 @@ Da es sehr langsam ist und ein Fehler auftritt, ist es schwieriger, genau zu fin
 - [Testing Framework](/de/dictionary/testing-framework/)
 - [Web Interface](/de/dictionary/web-interface/)
 
+## Verwandte Werkzeuge
+- [Cypress](/de/discover/cypress/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/end-to-end-testing/

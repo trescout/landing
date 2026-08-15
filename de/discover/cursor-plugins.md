@@ -7,13 +7,13 @@ Cursor-Plugins; Es enthält die offizielle Plugin-Spezifikation und vorgefertigt
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
 
-## Aktualisieren
-- 2. August 2026: Stern 1.403 → 2.515.
-
 ## Was es bringt
 - Damit können Sie die Cursorumgebung entsprechend Ihren eigenen Anforderungen erweitern.
 - Bietet Aufwärtskompatibilität dank seiner offiziellen Spezifikationsstruktur.
 - Sie können Ihre eigenen Lösungen entwickeln, indem Sie sich von vorgefertigten Plugins inspirieren lassen.
+
+## Wie nutzt man es mit KI?
+Helfen Sie mir, die offiziellen Cursor-Plugins aus diesem Repository (z. B. Plugins, die Codeüberprüfungen oder Sicherheitsüberprüfungen durchführen) vom Cursor-Plugin-Markt für das Projekt, an dem ich arbeite, im Cursor-Editor zu installieren, und erklären Sie Schritt für Schritt, wie Sie sie verwenden.
 
 ## Verwandte Begriffe aus dem Glossar
 

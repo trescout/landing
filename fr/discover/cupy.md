@@ -6,9 +6,6 @@ CuPy combine les interfaces de la bibliothèque de calcul numérique NumPy et Sc
 - Python
 - GitHub Trending · 2026-06-29
 
-## Mise à jour
-- 2 août 2026 : Star 11 639 → 12 227, dernière version v14.1.1 (1er juin 2026).
-
 ## Ce que ça vous apporte
 - Compatible avec NumPy et SciPy
 - Prise en charge de NVIDIA CUDA et AMD ROCm

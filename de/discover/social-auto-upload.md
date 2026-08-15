@@ -7,15 +7,14 @@ social-auto-upload ist ein Python-Tool, das Ihre Videos automatisch auf Social-M
 - Lisans: yok
 - GitHub Trending · 30 May 2026
 
-## Aktualisieren
-- 2. August 2026: Star 11.705 → 13.937, letzte Version oh-v1.0 (10. April 2024).
-
 ## Was es bringt
 - Möglichkeit zum gleichzeitigen Hochladen auf mehrere Plattformen.
 - Automatisierung von Inhaltsverteilungsprozessen.
 - Effizienter Workflow, der Zeit spart.
 
 ## Haftungshinweis
+
+## Wie installiere ich, wie verwende ich?
 **Melden Sie sich bei einer Plattform an**
 
 ```

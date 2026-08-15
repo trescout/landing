@@ -6,9 +6,6 @@ Das von Microsoft entwickelte Agent-Governance-Toolkit bietet Sicherheitsebenen 
 - Python
 - GitHub Trending · 2026-07-29
 
-## Aktualisieren
-- 2. August 2026: Star 5.342 → 5.564, neueste Version v4.1.0 (9. Juni 2026).
-
 ## Was es bringt
 - Richtlinienkontrolle über Agentenaktionen
 - Zero-Trust-Authentifizierung

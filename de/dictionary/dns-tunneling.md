@@ -27,5 +27,8 @@ Da DNS der Eckpfeiler des Internets ist und seine Blockierung dazu führen kann,
 - [Reverse Proxy](/de/dictionary/reverse-proxy/)
 - [Secrets](/de/dictionary/secrets/)
 
+## Verwandte Werkzeuge
+- [MasterDnsVPN](/de/discover/masterdnsvpn/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/dns-tunneling/

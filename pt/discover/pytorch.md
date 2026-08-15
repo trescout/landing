@@ -6,9 +6,6 @@ PyTorch é uma biblioteca de aprendizado de máquina que oferece aceleração po
 - Python
 - GitHub Trending · 2026-07-03
 
-## Atualizar
-- 2 de agosto de 2026: Star 101.297 → 102.131, versão mais recente v2.13.0 (8 de julho de 2026).
-
 ## O que você ganha
 - Cálculos de tensor de alto desempenho alimentados por GPU
 - Desenvolvimento flexível de modelos com redes neurais dinâmicas

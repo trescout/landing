@@ -6,9 +6,6 @@ Desenvolvido pela Comma AI, openpilot é um sistema operacional de código abert
 - Python
 - GitHub Trending · 2026-06-27
 
-## Atualizar
-- 2 de agosto de 2026: Star 61.864 → 63.294, versão mais recente v0.11.1 (5 de junho de 2026).
-
 ## O que você ganha
 - Atualização do sistema de assistência ao motorista em mais de 300 modelos de veículos
 - Ganhando capacidades de direção autônoma
@@ -16,7 +13,6 @@ Desenvolvido pela Comma AI, openpilot é um sistema operacional de código abert
 
 ## Como começar
 - Fonte oficial →
-Para usar esta ferramenta, você deve ter um dispositivo de vírgula compatível, um chicote de cabos adequado ao seu veículo e um modelo de veículo compatível. Para obter informações detalhadas sobre o processo de instalação e requisitos de hardware, você pode visitar a página de documentação oficial (docs.comma.ai) e o guia de instalação (comma.ai/setup).
 
 ## Termos relacionados do glossário
 

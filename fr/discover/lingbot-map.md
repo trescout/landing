@@ -6,9 +6,6 @@ Lingbot-map est un modèle de base 3D à rétroaction conçu pour reconstruire d
 - Python
 - GitHub Trending · 2026-06-29
 
-## Mise à jour
-- 2 août 2026 : Étoile 8 439 → 16 054.
-
 ## Ce que ça vous apporte
 - Reconstruction 3D stable de longues séquences vidéo
 - Prise en charge de l'inférence de streaming à faible latence

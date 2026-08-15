@@ -13,7 +13,6 @@ Website-downloader, developed by AhmadIbrahiim, allows downloading all source co
 
 ## Getting started
 - Official source →
-To start using the tool, download the codes from the GitHub page to your computer. Then go to the project folder via the terminal, install the necessary dependencies and start the application. After the application runs, you can start downloading by going to its local address via your browser.
 
 ## Related dictionary terms
 

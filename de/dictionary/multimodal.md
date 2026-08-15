@@ -25,6 +25,12 @@ Ja, sie können verstehen, was im Inhalt enthalten ist, indem sie Videos Bild f�
 ## Verwandte Begriffe
 - [LLM](/de/dictionary/llm/)
 - [Generative AI](/de/dictionary/generative-ai/)
+- [Diffusion Model](/de/dictionary/diffusion-model/)
+- [Text-to-Speech](/de/dictionary/text-to-speech/)
+- [Embedding](/de/dictionary/embedding/)
+
+## Verwandte Werkzeuge
+- [UI-TARS-desktop](/de/discover/ui-tars-desktop/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/multimodal/

@@ -7,13 +7,13 @@ Data Engineering Zoomcamp es un curso gratuito de nueve semanas ofrecido por Dat
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 41,734 → 44,237.
-
 ## ¿Qué aprendes?
 - Proporciona canales de datos listos para producción.
 - Sigue un enfoque práctico y orientado a proyectos.
 - Incluye un programa estructurado de 9 semanas.
+
+## ¿Cómo usarlo con IA?
+Te daré el contenido de un curso gratuito de 9 semanas llamado 'Data Engineering Zoomcamp' que enseña ingeniería de datos con herramientas como Docker, Terraform, BigQuery, dbt, Spark y Kafka. Examinar el plan de estudios y determinar con qué módulo debo comenzar según mi nivel de conocimientos, y crear un plan de estudio semanal para mí. Mi nivel: [ej. principiante]. Mi objetivo: [ej. convertirse en ingeniero de datos].
 
 ## Términos relacionados del glosario
 

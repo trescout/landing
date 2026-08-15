@@ -6,11 +6,6 @@ FluidVoice é um aplicativo rápido de voz para texto que funciona totalmente of
 - Swift
 - GitHub Trending · 2026-06-29
 
-## Atualizar
-- 11 de agosto de 2026: Star 9.360 → 9.494, versão mais recente v1.6.8 (11 de agosto de 2026).
-- 6 de agosto de 2026: Star 9.248 → 9.360, versão mais recente v1.6.7 (5 de agosto de 2026).
-- 2 de agosto de 2026: Star 3.995 → 9.248, versão mais recente v1.6.6 (31 de julho de 2026).
-
 ## O que você ganha
 - Conversão de áudio totalmente local e offline
 - Escreva e edite texto em qualquer aplicativo

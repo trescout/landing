@@ -27,5 +27,8 @@ Ja, sie lernen oft aus dem Erfolg des anderen und werden mit der Zeit effiziente
 - [Autonomous Agent](/de/dictionary/autonomous-agent/)
 - [AI Agent](/de/dictionary/ai-agent/)
 
+## Verwandte Werkzeuge
+- [MiroFish](/de/discover/mirofish/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/swarm-intelligence-engine/

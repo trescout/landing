@@ -6,9 +6,6 @@ AWS a publié un ensemble d'outils comprenant des serveurs, des compétences et 
 - Python
 - GitHub Trending · 2026-06-26
 
-## Mise à jour
-- 4 août 2026 : Étoile 1 209 → 2 215.
-
 ## Ce que ça vous apporte
 - Interaction directe et sécurisée avec les services AWS
 - Capacités standardisées pour les agents IA

@@ -24,5 +24,8 @@ Die Speicherung erfolgt innerhalb des Volumes selbst, also direkt als Teil der B
 - [State Management](/de/dictionary/state-management/)
 - [Distributed](/de/dictionary/distributed/)
 
+## Verwandte Werkzeuge
+- [Celld](/de/discover/celld/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/durable-objects/

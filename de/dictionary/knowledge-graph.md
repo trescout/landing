@@ -28,5 +28,11 @@ Es wird so genannt, weil es sich mathematisch um eine Netzwerkstruktur handelt, 
 - [Embedding](/de/dictionary/embedding/)
 - [Vector Database](/de/dictionary/vector-database/)
 
+## Verwandte Werkzeuge
+- [Graphify](/de/discover/graphify/)
+- [Understand Anything](/de/discover/understand-anything/)
+- [Codebase Memory MCP](/de/discover/codebase-memory-mcp/)
+- [Cognee](/de/discover/cognee/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/knowledge-graph/

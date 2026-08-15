@@ -6,12 +6,6 @@ Prime-Agent, developed by PrimeIntellect, is a self-healing reinforcement learni
 - TypeScript
 - GitHub Trending · 2026-08-08
 
-## Update
-- 12 August 2026: Star 13,302 → 14,372, latest version v0.7.2 (11 August 2026).
-- 11 August 2026: Star 11,727 → 13,302, latest version v0.7.1 (7 August 2026).
-- 10 August 2026: Star 9,265 → 11,727, latest version v0.7.1 (7 August 2026).
-- August 9, 2026: Star 6,915 → 9,265, latest version v0.7.1 (August 7, 2026).
-
 ## What you get
 - Runs long-running tasks uninterruptedly in the background
 - Automates coding and file management processes

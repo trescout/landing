@@ -6,9 +6,6 @@ Desenvolvido com a linguagem Go, o Pentagi oferece um sistema de agentes de inte
 - Go
 - GitHub Trending · 2026-07-10
 
-## Atualizar
-- 2 de agosto de 2026: Star 19.634 → 21.475, versão mais recente v2.1.0 (29 de maio de 2026).
-
 ## O que você ganha
 - Testes de segurança totalmente autônomos em ambiente Sandboxed Docker
 - Suporte para mais de 20 ferramentas profissionais como Nmap e SQLmap

@@ -5,9 +5,6 @@ Der Production-Agentic-Rag-Kurs bietet praktische Schulungen in der Entwicklung 
 - ★ 8.216
 - GitHub Trending · 2026-06-03
 
-## Aktualisieren
-- 2. August 2026: Star 6.536 → 8.216, letzte Version Woche 7.0 (26. November 2025).
-
 ## Was es bringt
 - Aufbau der notwendigen Infrastruktur für RAG-Systeme auf Produktionsebene.
 - Anwendung hybrider Such- und intelligenter Datenverarbeitungsmethoden.

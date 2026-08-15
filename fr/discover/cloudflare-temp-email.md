@@ -6,9 +6,6 @@ Cet outil, qui permet de créer un service de messagerie temporaire gratuit à l
 - TypeScript
 - GitHub Trending · 2026-07-23
 
-## Mise à jour
-- 2 août 2026 : Star 10 884 → 11 156, dernière version v1.10.0 (31 juillet 2026).
-
 ## Ce que ça vous apporte
 - Configuration sans frais avec l'infrastructure Cloudflare
 - Analyse rapide des e-mails basée sur Rust
@@ -16,7 +13,6 @@ Cet outil, qui permet de créer un service de messagerie temporaire gratuit à l
 
 ## Pour commencer
 - Source officielle →
-Pour installer, vous devez visiter la page de documentation officielle du projet. Vous pouvez suivre les étapes du [guide d'installation officiel](https://temp-mail-docs.awsl.uk) pour déployer rapidement à l'aide de l'infrastructure Cloudflare Workers et Pages.
 
 ## Termes liés du glossaire
 

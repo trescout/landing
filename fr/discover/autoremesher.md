@@ -6,9 +6,6 @@ Autoremesher est un outil qui convertit automatiquement les structures de surfac
 - C++
 - GitHub Trending · 2026-07-09
 
-## Mise à jour
-- 2 août 2026 : Étoile 2 123 → 3 087, dernière version 1.0.0 (6 juillet 2026).
-
 ## Ce que ça vous apporte
 - Transforme les modèles complexes en maillages rectangulaires épurés
 - Fournit une topologie optimisée pour les processus d'animation

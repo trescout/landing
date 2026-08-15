@@ -6,12 +6,6 @@ CUA bietet eine Open-Source-Infrastruktur für computerfähige Agenten der küns
 - HTML
 - GitHub Trending · 2026-06-16
 
-## Aktualisieren
-- 12. August 2026: Star 21.066 → 21.225, letzte Veröffentlichung lume-v0.5.3 (11. August 2026).
-- 10. August 2026: Star 20.990 → 21.066, neueste Version cli-v0.1.14 (10. August 2026).
-- 7. August 2026: Star 20.962 → 20.990, neueste Version Fleet-v0.1.7 (7. August 2026).
-- 6. August 2026: Star 20.909 → 20.962, neueste Version Sandbox-v0.1.27 (5. August 2026).
-
 ## Was es bringt
 - Steuern Sie Desktop-Apps im Hintergrund
 - Isolierte Sandboxen für verschiedene Betriebssysteme

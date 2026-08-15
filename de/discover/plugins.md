@@ -6,9 +6,6 @@ OpenAI-Plugins ermöglichen Sprachmodellen den Zugriff auf aktuelle Daten und di
 - JavaScript
 - GitHub Trending · 2026-06-06
 
-## Aktualisieren
-- 2. August 2026: Stern 1.596 → 4.881.
-
 ## Was es bringt
 - Es ermöglicht Sprachmodellen den Zugriff auf aktuelle Daten.
 - Ermöglicht die Interaktion mit Anwendungen von Drittanbietern.

@@ -13,7 +13,6 @@ Harvey Labs est un outil d'analyse comparative conçu pour mesurer et améliorer
 
 ## Pour commencer
 - Source officielle →
-Pour commencer, consultez le fichier docs/tutorial.md parmi la documentation sur la page GitHub. Ce guide vous explique comment gérer une mission de data room M&A de bout en bout, de la configuration à la révision du rapport.
 
 ## Termes liés du glossaire
 

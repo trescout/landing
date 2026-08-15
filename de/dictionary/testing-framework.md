@@ -18,7 +18,11 @@ Normalerweise ist es am besten, die beliebteste auszuwählen, basierend auf der 
 
 ## Verwandte Begriffe
 - [Unit Testing](/de/dictionary/unit-testing/)
+- [End-to-End Testing](/de/dictionary/end-to-end-testing/)
 - [Framework](/de/dictionary/framework/)
+
+## Verwandte Werkzeuge
+- [Pytest](/de/discover/pytest/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/testing-framework/

@@ -6,9 +6,6 @@ Construit sur l'infrastructure TurboQuant, turbovec est un outil d'indexation ve
 - Python
 - GitHub Trending · 2026-06-08
 
-## Mise à jour
-- 2 août 2026 : Étoile 7 703 → 14 575.
-
 ## Ce que ça vous apporte
 - Il réduit l'utilisation de la mémoire en compressant fortement les données vectorielles.
 - Il permet un ajout instantané de données et une recherche rapide sans nécessiter de phase de formation.

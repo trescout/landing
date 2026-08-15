@@ -6,12 +6,6 @@ CopilotKit ofrece una pila de interfaz basada en React y Angular para desarrolla
 - TypeScript
 - GitHub Trending · 2026-06-06
 
-## Actualizar
-- 11 de agosto de 2026: Star 36,582 → 36,678, última versión v1.67.1 (10 de agosto de 2026).
-- 7 de agosto de 2026: Star 36,508 → 36,582, última versión v1.66.4 (7 de agosto de 2026).
-- 6 de agosto de 2026: Star 36,438 → 36,508, última versión v1.66.2 (4 de agosto de 2026).
-- 4 de agosto de 2026: Star 36.415 → 36.438, última versión angular/v0.3.1 (3 de agosto de 2026).
-
 ## Qué aporta
 - Agrega interfaces dinámicas e inteligentes a las aplicaciones.
 - Proporciona intercambio de datos en tiempo real entre agentes de inteligencia artificial y la interfaz de usuario.

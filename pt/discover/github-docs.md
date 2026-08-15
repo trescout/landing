@@ -7,13 +7,13 @@ GitHub Docs é um repositório de código aberto que contém o código-fonte da 
 - CC-BY-4.0
 - GitHub Trending · 1 Haziran 2026
 
-## Atualizar
-- 2 de agosto de 2026: Star 19.817 → 20.600, versão mais recente v1.0.1 (14 de fevereiro de 2023).
-
 ## O que você ganha
 - Você pode contribuir com a documentação do GitHub.
 - Você pode observar como uma documentação abrangente é criada.
 - O conteúdo é totalmente de código aberto.
+
+## Como usá-lo com IA?
+Este repositório (github/docs) é o repositório fonte da documentação oficial de código aberto do GitHub. Examine a estrutura do conteúdo e o guia de contribuição e ele me dará um roteiro em turco: como posso contribuir para esta documentação, onde encontrar os arquivos de conteúdo e quais etapas preciso seguir para minha primeira contribuição.
 
 ## Termos relacionados do glossário
 

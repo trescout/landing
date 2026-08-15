@@ -24,5 +24,8 @@ Bei kritischen Entscheidungen wird in der Regel eine Genehmigung erwartet, die m
 - [Autonomous Agent](/de/dictionary/autonomous-agent/)
 - [Workflows](/de/dictionary/workflows/)
 
+## Verwandte Werkzeuge
+- [MinerU](/de/discover/mineru/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agentic-workflows/

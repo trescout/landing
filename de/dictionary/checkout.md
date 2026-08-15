@@ -24,5 +24,8 @@ Denn hier werden sowohl Finanzdaten verarbeitet als auch der sensibelste Moment 
 - [SaaS](/de/dictionary/saas/)
 - [CRM](/de/dictionary/crm/)
 
+## Verwandte Werkzeuge
+- [Checkout](/de/discover/checkout/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/checkout/

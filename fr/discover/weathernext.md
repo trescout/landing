@@ -6,9 +6,6 @@ WeatherNext, développé par Google DeepMind, est un modèle qui utilise l'intel
 - Python
 - GitHub Trending · 2026-08-10
 
-## Mise à jour
-- 10 août 2026 : Star 7.148 → 7.149, dernière version v0.3.0 (6 août 2026).
-
 ## Ce que ça vous apporte
 - Fait des prévisions météorologiques atmosphériques à moyen terme.
 - Effectue le suivi et l’analyse des ouragans.

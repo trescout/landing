@@ -21,5 +21,8 @@ Parser importiert und analysiert die Daten, während Emitter die verarbeiteten D
 - [API](/de/dictionary/api/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [YAML Cpp](/de/discover/yaml-cpp/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/emitter/

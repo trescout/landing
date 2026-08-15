@@ -5,9 +5,6 @@ Mattermost ist eine Open-Source-Plattform, die eine sichere Zusammenarbeit währ
 - ★ 38.643
 - GitHub Trending · 2026-06-12
 
-## Aktualisieren
-- 2. August 2026: Star 37.444 → 38.643, neueste Version v11.9.0 (8. Juli 2026).
-
 ## Was es bringt
 - Bietet zentrale Kommunikation und Workflow-Automatisierung
 - Bietet Unterstützung für Sprachanrufe und Bildschirmfreigabe

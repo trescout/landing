@@ -6,9 +6,6 @@ Manim ist eine Python-basierte Animations-Engine zur Visualisierung mathematisch
 - Python
 - GitHub Trending · 2026-08-12
 
-## Aktualisieren
-- 12. August 2026: Star 90.306 → 90.309, neueste Version v1.7.2 (13. Dezember 2024).
-
 ## Was es bringt
 - Erstellt präzise Animationen, die mathematische Theorien visualisieren
 - Ermöglicht die Erstellung von Erklärvideos durch das Schreiben von Code

@@ -6,10 +6,6 @@ Tolaria is a desktop application developed for managing Markdown-based knowledge
 - TypeScript
 - GitHub Trending · 2026-06-08
 
-## Update
-- 12 August 2026: Star 19.219 → 19.403, last version v2026-08-11 (11 August 2026).
-- 2 August 2026: Star 13.116 → 19.219, last version v2027-07-31 (31 July 2026).
-
 ## What you get
 - Provides portable note management with markdown files.
 - Offers full version control with Git integration.

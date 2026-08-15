@@ -13,7 +13,6 @@ Das von der Headunit wiederbelebte Projekt stellt eine Anwendung bereit, mit der
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Laden Sie die App über den Google Play Store oder Amazon Appstore auf Ihr Gerät herunter. Für eine drahtlose Verbindung wird empfohlen, auch die Anwendung „Wireless Helper“ auf Ihrem Telefon zu installieren. Detaillierte Installationsschritte und Verbindungseinstellungen finden Sie im Wiki-Abschnitt auf der GitHub-Seite.
 
 ## Verwandte Begriffe aus dem Glossar
 

@@ -6,11 +6,6 @@ Utilizando la infraestructura de Claude Code, Career-Ops automatiza los procesos
 - JavaScript
 - GitHub Trending · 2026-06-07
 
-## Actualizar
-- 11 de agosto de 2026: Estrella 62 979 → 63 452, última versión care-ops-v1.26.0 (10 de agosto de 2026).
-- 6 de agosto de 2026: Estrella 62 526 → 62 979, última versión care-ops-v1.25.0 (4 de agosto de 2026).
-- 2 de agosto de 2026: Estrella 49,580 → 62,526, última versión carrera-ops-v1.24.0 (30 de julio de 2026).
-
 ## Qué aporta
 - Filtre las ofertas de trabajo calificándolas en 10 dimensiones diferentes
 - Crear un currículum compatible con ATS específico para la descripción del trabajo

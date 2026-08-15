@@ -6,10 +6,6 @@ Mit der Videonutzungsbibliothek können Programmierer Videobearbeitungsprozesse 
 - Python
 - GitHub Trending · 2026-06-29
 
-## Aktualisieren
-- 6. August 2026: Stern 18.290 → 19.784.
-- 2. August 2026: Stern 11.471 → 18.290.
-
 ## Was es bringt
 - Entfernt automatisch Füllwörter und Leerzeichen
 - Wendet professionelle Fade-Effekte auf Audioübergänge an

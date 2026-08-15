@@ -24,5 +24,8 @@ Für Geschwindigkeit und Automatisierung; Damit können Sie komplexe Vorgänge a
 - [Shell](/de/dictionary/shell/)
 - [CLI](/de/dictionary/cli/)
 
+## Verwandte Werkzeuge
+- [Terminal](/de/discover/terminal/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/console-host/

@@ -6,9 +6,6 @@ Bitchat bietet mithilfe der Bluetooth-Mesh-Technologie eine lokale Chat-Umgebung
 - Swift
 - GitHub Trending · 2026-07-26
 
-## Aktualisieren
-- 2. August 2026: Star 28.892 → 34.123, neueste Version v1.7.1 (31. Juli 2026).
-
 ## Was es bringt
 - Lokaler Chat ohne Internet über Bluetooth
 - Globaler Zugriff mit Nostr-Protokoll

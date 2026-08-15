@@ -24,5 +24,8 @@ Es sorgt für weniger Datenübertragung und eliminiert das Risiko versehentliche
 - [Git Push](/de/dictionary/git-push/)
 - [Refactoring](/de/dictionary/refactoring/)
 
+## Verwandte Werkzeuge
+- [DesktopCommanderMCP](/de/discover/desktopcommandermcp/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/diff-file-editing/

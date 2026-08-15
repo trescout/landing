@@ -6,9 +6,6 @@ Le référentiel system_prompts_leaks partagé sur GitHub rassemble les invites 
 - JavaScript
 - GitHub Trending · 2026-06-22
 
-## Mise à jour
-- 2 août 2026 : Étoile 44 809 → 61 968.
-
 ## Ce que ça vous apporte
 - Possibilité d'examiner les configurations d'arrière-plan des modèles d'intelligence artificielle populaires
 - Voir les restrictions des modèles comme Claude, ChatGPT et Gemini
@@ -16,7 +13,6 @@ Le référentiel system_prompts_leaks partagé sur GitHub rassemble les invites 
 
 ## Pour commencer
 - Source officielle →
-Cet outil ne nécessite pas d'installation de logiciel. En accédant au référentiel System Prompts Leaks sur GitHub, vous pouvez cliquer sur le dossier du modèle d'intelligence artificielle ou de l'entreprise que vous souhaitez examiner et lire les fichiers d'invite système pertinents directement depuis votre navigateur.
 
 ## Termes liés du glossaire
 

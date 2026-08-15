@@ -7,9 +7,6 @@ Superpowers é uma metodologia abrangente de desenvolvimento de software de habi
 - MIT
 - GitHub Trending · 28 May 2026
 
-## Atualizar
-- 2 de agosto de 2026: Star 209.561 → 264.883, versão mais recente v6.2.0 (24 de julho de 2026).
-
 ## O que você ganha
 - Um conjunto de habilidades composto e pronto para o seu agente.
 - Uma metodologia de desenvolvimento estruturada.
@@ -18,6 +15,14 @@ Superpowers é uma metodologia abrangente de desenvolvimento de software de habi
 
 ## Como começar
 Dê superpoderes ao seu agente com TreScout; As etapas de início rápido para Claude Code, Codex e Gemini estão esperando por você no repositório.
+
+## Como instalar, como usar?
+**Código Claude · instalar do mercado oficial**
+
+```
+/plugin install superpowers@claude-plugins-official
+```
+
 
 ## Termos relacionados do glossário
 

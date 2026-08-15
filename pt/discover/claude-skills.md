@@ -6,9 +6,6 @@ Desenvolvida para Claude Code e diversos agentes de codificação, esta bibliote
 - Python
 - GitHub Trending · 2026-07-05
 
-## Atualizar
-- 2 de agosto de 2026: Star 20.244 → 23.654, versão mais recente v2.9.0 (28 de maio de 2026).
-
 ## O que você ganha
 - Mais de 350 pacotes de habilidades prontos
 - Ampla experiência da engenharia ao marketing

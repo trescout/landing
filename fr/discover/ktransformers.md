@@ -6,9 +6,6 @@ Ktransformers offre un cadre flexible qui prend en charge les optimisations mat�
 - Python
 - GitHub Trending · 2026-07-20
 
-## Mise à jour
-- 2 août 2026 : Étoile 18 491 → 19 145, dernière version v0.6.4 (23 juillet 2026).
-
 ## Ce que ça vous apporte
 - Travail efficace en utilisant ensemble les ressources du processeur et de la carte graphique
 - Faibles exigences matérielles dans les modèles MoE à grande échelle

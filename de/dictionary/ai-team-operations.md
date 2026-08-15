@@ -27,5 +27,8 @@ Die Genauigkeit des Modells hängt davon ab, wie schnell das Team es aktualisier
 - [Continuous Learning](/de/dictionary/continuous-learning/)
 - [Observability](/de/dictionary/observability/)
 
+## Verwandte Werkzeuge
+- [Lobehub](/de/discover/lobehub/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-team-operations/

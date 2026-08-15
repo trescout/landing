@@ -6,10 +6,6 @@ Prepared by Microsoft, AI for Beginners teaches introductory topics to artificia
 - Jupyter Notebook
 - GitHub Trending · 2026-07-01
 
-## Update
-- August 6, 2026: Star 58,739 → 62,224.
-- August 2, 2026: Star 49,751 → 58,739.
-
 ## What you get
 - 24 lessons of applied artificial intelligence training
 - Practical experience with TensorFlow and PyTorch

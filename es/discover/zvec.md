@@ -6,9 +6,6 @@ Desarrollado por Alibaba, zvec es una solución de base de datos vectorial en pr
 - C++
 - GitHub Trending · 2026-06-17
 
-## Actualizar
-- 2 de agosto de 2026: Star 10,691 → 15,356, última versión v0.6.0 (20 de julio de 2026).
-
 ## Qué aporta
 - Arquitectura operativa local que no requiere servidor
 - Velocidad de búsqueda de milisegundos en miles de millones de vectores

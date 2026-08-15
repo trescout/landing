@@ -21,5 +21,8 @@ Nein, es wird nur benötigt, um die Komplexität in großen Systemen mit vielen 
 - [API](/de/dictionary/api/)
 - [Proxy](/de/dictionary/proxy/)
 
+## Verwandte Werkzeuge
+- [Meshery](/de/discover/meshery/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/service-mesh/

@@ -13,7 +13,6 @@ Projektbasiertes Lernen ist eine Liste, die Ressourcen zusammenfasst, die Softwa
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Da es sich um eine Softwareliste handelt, ist keine Installation erforderlich. Sie können die Programmiersprache, die Sie interessiert, aus der Liste auswählen, auf die untenstehenden Links klicken und mit der Untersuchung der Projekte beginnen.
 
 ## Links
 - GitHub-Repository →

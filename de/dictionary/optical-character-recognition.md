@@ -29,5 +29,8 @@ Die meisten Systeme unterstützen gängige Sprachen, spezielle Skripte erfordern
 - [PDF Parser](/de/dictionary/pdf-parser/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [PaddleOCR](/de/discover/paddleocr/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/optical-character-recognition/

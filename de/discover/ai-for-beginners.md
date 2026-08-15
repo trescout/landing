@@ -6,10 +6,6 @@ AI for Beginners wurde von Microsoft vorbereitet und vermittelt anhand von Jupyt
 - Jupyter Notebook
 - GitHub Trending · 2026-07-01
 
-## Aktualisieren
-- 6. August 2026: Stern 58.739 → 62.224.
-- 2. August 2026: Stern 49.751 → 58.739.
-
 ## Was es bringt
 - 24 Lektionen angewandtes Training für künstliche Intelligenz
 - Praktische Erfahrung mit TensorFlow und PyTorch

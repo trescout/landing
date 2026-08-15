@@ -6,10 +6,6 @@ Chat2DB zeichnet sich als durch künstliche Intelligenz unterstütztes Datenbank
 - Java
 - GitHub Trending · 2026-07-25
 
-## Aktualisieren
-- 6. August 2026: Star 27.604 → 27.657, neueste Version v5.3.3 (6. August 2026).
-- 2. August 2026: Star 26.409 → 27.604, neueste Version v5.3.2 (28. Juli 2026).
-
 ## Was es bringt
 - Unterstützung für mehr als 30 Datenbanken
 - Erstellen und erklären Sie SQL mit natürlicher Sprache

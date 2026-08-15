@@ -6,9 +6,6 @@ spdlog est une bibliothèque de journalisation très rapide développée pour le
 - C++
 - GitHub Trending · 2026-08-05
 
-## Mise à jour
-- 6 août 2026 : Star 29 402 → 29 437, dernière version v1.17.0 (4 janvier 2026).
-
 ## Ce que ça vous apporte
 - Gestion de journalisation haute performance
 - Sortie vers différentes destinations telles que fichier, console et débogueur

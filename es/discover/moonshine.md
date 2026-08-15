@@ -6,10 +6,6 @@ Moonshine ofrece voz a texto de baja latencia, reconocimiento de intenciones y c
 - C++
 - GitHub Trending · 2026-07-21
 
-## Actualizar
-- 7 de agosto de 2026: Star 10,579 → 10,671, última versión v0.1.1 (7 de agosto de 2026).
-- 2 de agosto de 2026: Estrella 10.028 → 10.579, última versión v0.1.0 (27 de julio de 2026).
-
 ## Qué aporta
 - Procesamiento de audio rápido y discreto que se ejecuta en el dispositivo
 - Baja latencia optimizada para transmisiones en vivo

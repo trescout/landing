@@ -6,9 +6,6 @@ MediaCrawler collecte automatiquement les publications et les commentaires des u
 - Python
 - GitHub Trending · 2026-06-26
 
-## Mise à jour
-- 2 août 2026 : Étoile 53 062 → 59 631.
-
 ## Ce que ça vous apporte
 - Extraire des publications et des commentaires de plateformes populaires
 - Connexion facile avec l'automatisation du navigateur

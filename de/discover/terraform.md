@@ -6,9 +6,6 @@ Terraform wurde von HashiCorp entwickelt und definiert Infrastruktur als Code, s
 - Go
 - GitHub Trending · 2026-07-11
 
-## Aktualisieren
-- 2. August 2026: Star 49.219 → 49.375, neueste Version v1.15.8 (8. Juli 2026).
-
 ## Was es bringt
 - Verwaltung von Infrastrukturprozessen mit Versionskontrolle
 - Planung vor der Umsetzung von Änderungen
@@ -44,7 +41,6 @@ terraform -version
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Um mit der Nutzung von Terraform zu beginnen, können Sie die Dokumentationsseiten auf der offiziellen Website besuchen. Für die Installation und die grundlegenden Schritte wird empfohlen, die Anleitungen für den ersten Schritt auf der Lernplattform von HashiCorp zu befolgen.
 
 ## Verwandte Begriffe aus dem Glossar
 

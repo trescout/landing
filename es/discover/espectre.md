@@ -6,9 +6,6 @@ ESPectre es un sistema que realiza la detección de movimiento a través del an�
 - Python
 - GitHub Trending · 2026-06-10
 
-## Actualizar
-- 2 de agosto de 2026: Star 8.362 → 8.905, última versión 2.8.0 (21 de mayo de 2026).
-
 ## Qué aporta
 - Detección de movimiento a través de señales Wi-Fi sin necesidad de utilizar cámara ni micrófono.
 - Trabajo totalmente integrado con Home Assistant.
@@ -16,7 +13,6 @@ ESPectre es un sistema que realiza la detección de movimiento a través del an�
 
 ## Cómo empezar
 - Fuente oficial →
-Para comenzar a usar ESPectre, debe seguir el documento oficial SETUP.md del proyecto. Este documento explica en detalle los pasos de instalación y los procesos de configuración. También puede utilizar el archivo TUNING.md para realizar la configuración más adecuada para su entorno.
 
 ## Enlaces
 - Repositorio en GitHub →

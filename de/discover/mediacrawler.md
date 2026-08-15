@@ -6,9 +6,6 @@ MediaCrawler sammelt durch Web Scraping automatisch Beiträge und Benutzerkommen
 - Python
 - GitHub Trending · 2026-06-26
 
-## Aktualisieren
-- 2. August 2026: Stern 53.062 → 59.631.
-
 ## Was es bringt
 - Abrufen von Beiträgen und Kommentaren von beliebten Plattformen
 - Einfache Anmeldung mit Browser-Automatisierung

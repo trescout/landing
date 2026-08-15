@@ -6,9 +6,6 @@ Topcoat wurde vom Tokio-Team entwickelt und bietet ein umfassendes Framework, da
 - Rust
 - GitHub Trending · 2026-07-21
 
-## Aktualisieren
-- 2. August 2026: Star 1.715 → 4.127, neueste Version v0.5.0 (27. Juli 2026).
-
 ## Was es bringt
 - Schnelles serverseitiges HTML-Rendering
 - Automatisches Routing mit modularem Aufbau
@@ -24,7 +21,6 @@ cargo install topcoat
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Um mit Topcoat zu arbeiten, sollten Sie der Anleitung „Erste Schritte“ in der offiziellen Dokumentation auf GitHub folgen. Mithilfe dieser Anleitung können Sie ein neues Projekt erstellen, das erforderliche CLI-Tool installieren und den Entwicklungsserver starten.
 
 ## Verwandte Begriffe aus dem Glossar
 

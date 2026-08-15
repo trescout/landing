@@ -7,9 +7,6 @@ Utilisant le système d'équipe d'agents de Claude Code, Harness divise les miss
 - Apache-2.0
 - GitHub Trending · 29 May 2026
 
-## Mise à jour
-- 2 août 2026 : Étoile 4 063 → 8 581.
-
 ## Ce que ça vous apporte
 - Divise les missions complexes en équipes d'agents spécialisés.
 - Il développe les compétences dont les équipes ont besoin.
@@ -17,6 +14,15 @@ Utilisant le système d'équipe d'agents de Claude Code, Harness divise les miss
 
 ## Pour commencer
 Ajouté comme compétence à Claude Code ; Ensuite, vous pouvez leur demander de constituer une équipe d’agents pour la zone souhaitée.
+
+## Comment installer, comment utiliser ?
+**Claude Code · place de marché + installation**
+
+```
+/plugin marketplace add revfactory/harness
+/plugin install harness@harness-marketplace
+```
+
 
 ## Termes liés du glossaire
 

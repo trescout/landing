@@ -6,9 +6,6 @@ Der Council of High Intelligence führt strukturierte Entscheidungsprozesse durc
 - Shell
 - GitHub Trending · 2026-06-30
 
-## Aktualisieren
-- 2. August 2026: Star 2.176 → 3.808, neueste Version v1.2.0 (4. Juli 2026).
-
 ## Was es bringt
 - Analyse mit 18 verschiedenen Expertenpersönlichkeiten
 - Kreuzverhör mit verschiedenen Modellen der künstlichen Intelligenz

@@ -5,9 +5,6 @@ Continue is an open source coding agent designed to automate software developmen
 - ★ 35,282
 - GitHub Trending · 2026-06-18
 
-## Update
-- 2 August 2026: Star 34.017 → 35.282, latest version v2.0.0-vscode (19 June 2026).
-
 ## What you get
 - Speeds up coding and debugging processes
 - Provides a safe workspace with local language models

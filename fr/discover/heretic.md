@@ -7,13 +7,12 @@ Heretic est un outil technique qui supprime les contraintes d'alignement de séc
 - AGPL-3.0
 - GitHub Trending · 28 May 2026
 
-## Mise à jour
-- 2 août 2026 : Star 22.018 → 27.018, dernière version v1.4.0 (14 juin 2026).
-
 ## Qu'est-ce que ça fait ?
 - Il supprime les contraintes du modèle avec la technique « Ablitération ».
 - Ne nécessite pas de recyclage coûteux.
 - La méthode est open source et automatique.
+
+## Note de responsabilité
 
 ## Termes liés du glossaire
 

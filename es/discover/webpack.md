@@ -6,9 +6,6 @@ Webpack es un paquete que agrupa JavaScript y otros activos web para ejecutarlos
 - JavaScript
 - GitHub Trending · 2026-08-05
 
-## Actualizar
-- 6 de agosto de 2026: Star 65,961 → 65,985, última versión v5.109.2 (28 de julio de 2026).
-
 ## Qué aporta
 - Combina archivos JavaScript para ejecutarse en el navegador.
 - Reduce el tiempo de carga de la aplicación con su función de división de código.

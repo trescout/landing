@@ -6,10 +6,6 @@ LiveKit Agents ist ein Python-Framework, das zur Entwicklung von Audio- und Vide
 - Python
 - GitHub Trending · 2026-08-04
 
-## Aktualisieren
-- 7. August 2026: Star 12.125 → 12.727, letzte Version livekit-agents@1.6.9 (7. August 2026).
-- 4. August 2026: Star 12.122 → 12.125, letzte Version livekit-agents@1.6.8 (3. August 2026).
-
 ## Was es bringt
 - Erzeugt Stimminteraktionen, die menschenähnliche Reaktionen hervorrufen.
 - Der WebRTC-Medienserver ist vollständig mit LiveKit kompatibel.

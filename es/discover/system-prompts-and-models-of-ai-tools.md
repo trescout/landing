@@ -12,7 +12,6 @@ Las indicaciones del sistema y los modelos de lenguaje utilizados (modelos de IA
 
 ## Cómo empezar
 - Fuente oficial →
-Esta herramienta es un archivo de información que no requiere ninguna instalación. Puede visitar la página del repositorio correspondiente en GitHub a través de su navegador para acceder a las instrucciones del sistema y a la información del modelo de las herramientas de inteligencia artificial que desea examinar.
 
 ## Términos relacionados del glosario
 

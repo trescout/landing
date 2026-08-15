@@ -27,5 +27,8 @@ Nein, ein SuperAgent erfordert Multitasking und fortschrittliche Tools.
 - [Autonomous AI Agent](/de/dictionary/autonomous-ai-agent/)
 - [Agentic System](/de/dictionary/agentic-system/)
 
+## Verwandte Werkzeuge
+- [Deer Flow](/de/discover/deer-flow/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/superagent/

@@ -27,5 +27,8 @@ Der Name wird so genannt, weil das Modell keinen für diese Person spezifischen 
 - [Speech Synthesis](/de/dictionary/speech-synthesis/)
 - [Text-to-Speech](/de/dictionary/text-to-speech/)
 
+## Verwandte Werkzeuge
+- [Voice Pro](/de/discover/voice-pro/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/zero-shot-voice-cloning/

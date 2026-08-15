@@ -27,5 +27,8 @@ Ja, eine gute Inferenz-Engine sorgt dafür, dass das Modell schneller reagiert.
 - [LLM](/de/dictionary/llm/)
 - [AI Models](/de/dictionary/ai-models/)
 
+## Verwandte Werkzeuge
+- [Ds4](/de/discover/ds4/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/inference-engine/

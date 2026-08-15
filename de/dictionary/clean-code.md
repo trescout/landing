@@ -21,5 +21,8 @@ Den Code zum Laufen zu bringen, ist nur der erste Schritt. Sauberer Code stellt 
 - [Unit Testing](/de/dictionary/unit-testing/)
 - [Engineering Skills](/de/dictionary/engineering-skills/)
 
+## Verwandte Werkzeuge
+- [Clean Code Javascript](/de/discover/clean-code-javascript/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/clean-code/

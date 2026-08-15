@@ -26,5 +26,10 @@ Weil es viel leistungsfähiger ist, nie abschaltet und von überall auf der Welt
 - [PaaS](/de/dictionary/paas/)
 - [IaaS](/de/dictionary/iaas/)
 
+## Verwandte Werkzeuge
+- [Skills](/de/discover/skills/)
+- [Weathernext](/de/discover/weathernext/)
+- [Agents CLI](/de/discover/agents-cli/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/google-cloud/

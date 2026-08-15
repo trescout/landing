@@ -13,7 +13,6 @@ Offering a free and self-learning oriented curriculum in the field of computer s
 
 ## Getting started
 - Official source →
-To get started with this curriculum, simply visit the official OSSU CS website or GitHub repository. You can review courses on the website, create your study plan, and interact with other students by joining the Discord community.
 
 ## Related dictionary terms
 

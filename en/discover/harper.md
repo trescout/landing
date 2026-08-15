@@ -6,9 +6,6 @@ Harper offers an offline and privacy-oriented grammar checker developed with the
 - Rust
 - GitHub Trending · 2026-07-24
 
-## Update
-- August 2, 2026: Star 12,510 → 14,110, latest version v2.7.0 (July 28, 2026).
-
 ## What you get
 - Quickly checks text in milliseconds
 - Protects privacy by processing your data locally
@@ -24,7 +21,6 @@ brew install harper
 
 ## Getting started
 - Official source →
-To start using the Harper tool, you can visit the official website writewithharper.com. You can complete the installation by reviewing the integration guides suitable for the text editor you use, such as Visual Studio Code, Neovim, Helix, Emacs or Zed, in the documentation section on the site.
 
 ## Related dictionary terms
 

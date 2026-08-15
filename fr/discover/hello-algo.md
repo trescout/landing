@@ -6,9 +6,6 @@ Hello 算法 est une plateforme éducative open source qui enseigne les structur
 - Java
 - GitHub Trending · 2026-06-16
 
-## Mise à jour
-- 2 août 2026 : Étoile 127 220 → 129 072, dernière version 1.3.0 (1er janvier 2026).
-
 ## Ce que ça vous apporte
 - Apprentissage facile avec des explications visuelles animées
 - Prise en charge du code pour de nombreux langages de programmation
@@ -16,7 +13,6 @@ Hello 算法 est une plateforme éducative open source qui enseigne les structur
 
 ## Pour commencer
 - Source officielle →
-Pour démarrer avec la plateforme Hello Algo, vous pouvez visiter le site officiel hello-algo.com. Vous pouvez accéder à des leçons interactives sur le site et utiliser la section versions de la page GitHub pour télécharger des ressources au format PDF ou e-book.
 
 ## Termes liés du glossaire
 

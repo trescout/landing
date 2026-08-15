@@ -6,12 +6,6 @@ La biblioteca de voz a voz desarrollada por Hugging Face permite crear agentes d
 - Python
 - GitHub Trending · 2026-07-29
 
-## Actualizar
-- 12 de agosto de 2026: Star 11,283 → 12,310, última versión v0.2.12 (5 de agosto de 2026).
-- 6 de agosto de 2026: Star 10,774 → 11,283, última versión v0.2.12 (5 de agosto de 2026).
-- 4 de agosto de 2026: Star 10,402 → 10,774, última versión v0.2.11 (3 de agosto de 2026).
-- 2 de agosto de 2026: Star 7,443 → 10,402, última versión v0.2.10 (11 de junio de 2026).
-
 ## Qué aporta
 - Línea de audio modular de baja latencia
 - Compatibilidad con WebSocket compatible con OpenAI Realtime

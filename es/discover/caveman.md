@@ -6,11 +6,6 @@ Caveman es un paquete de capacidades desarrollado para Claude Code que reduce el
 - JavaScript
 - GitHub Trending · 2026-07-03
 
-## Actualizar
-- 12 de agosto de 2026: Star 95,589 → 97,574, última versión v2.0.0 (11 de agosto de 2026).
-- 4 de agosto de 2026: Star 95.226 → 95.589, última versión v1.10.0 (3 de agosto de 2026).
-- 2 de agosto de 2026: Star 81,688 → 95,226, última versión v1.9.1 (3 de julio de 2026).
-
 ## Qué aporta
 - Ahorra hasta un 65% de tokens en respuestas de IA.
 - Elimina palabras innecesarias sin sacrificar la precisión técnica.

@@ -6,12 +6,6 @@ Unciv is an open source desktop and Android adaptation of the Civilization V gam
 - Kotlin
 - GitHub Trending · 2026-06-18
 
-## Update
-- 12 August 2026: Star 11.085 → 11.088, latest version 4.21.7-patch2 (11 August 2026).
-- 11 August 2026: Star 11.085 → 11.085, latest version 4.21.7-patch1 (11 August 2026).
-- 11 August 2026: Star 11.075 → 11.085, last version 4.21.7 (10 August 2026).
-- August 9, 2026: Star 11,043 → 11,075, last version 4.21.6 (August 8, 2026).
-
 ## What you get
 - Smooth gaming experience on low-end devices
 - Moddable and customizable game structure
@@ -19,7 +13,6 @@ Unciv is an open source desktop and Android adaptation of the Civilization V gam
 
 ## Getting started
 - Official source →
-To start playing the Unciv project, you must download the appropriate version for your device. Android users can install via Google Play or F-Droid, while Windows users can install using the updated MSI file on GitHub. For Linux and macOS users, various installation options are available via itch.io, Flatpak or package managers.
 
 ## Related dictionary terms
 

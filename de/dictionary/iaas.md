@@ -26,5 +26,8 @@ Ja, aber Sie sind für die Sicherheit des Betriebssystems und der Software veran
 - [PaaS](/de/dictionary/paas/)
 - [Virtual Machines](/de/dictionary/virtual-machines/)
 
+## Verwandte Werkzeuge
+- [Free for Dev](/de/discover/free-for-dev/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/iaas/

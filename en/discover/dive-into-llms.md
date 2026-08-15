@@ -6,9 +6,6 @@ Dive into LLMs is a training series that teaches the working principles of large
 - Jupyter Notebook
 - GitHub Trending · 2026-07-25
 
-## Update
-- August 2, 2026: Star 45,115 → 47,047, final release v1 (June 12, 2025).
-
 ## What you get
 - Understand the working principles of large language models
 - Practical coding experience via Jupyter Notebook
@@ -16,7 +13,6 @@ Dive into LLMs is a training series that teaches the working principles of large
 
 ## Getting started
 - Official source →
-Visit the official GitHub page of the project and select the topic that interests you from the table under the heading '教程目录'. You can access Jupyter Notebook files by clicking the '脚本' link on the relevant line and start practical training by running these files in your own environment.
 
 ## Related dictionary terms
 

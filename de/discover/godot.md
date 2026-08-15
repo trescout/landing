@@ -5,9 +5,6 @@ Godot Engine (Godot Engine) ist eine Open-Source-Game-Engine, die für zwei- und
 - ★ 114.944
 - GitHub Trending · 2026-06-02
 
-## Aktualisieren
-- 2. August 2026: Star 111.819 → 114.944, neueste Version 4.7.1-stable (14. Juli 2026).
-
 ## Was es bringt
 - Bietet umfassende Tools für zwei- und dreidimensionale Spiele
 - Ermöglicht die Ausgabe von Spielen auf verschiedenen Plattformen mit einem Klick

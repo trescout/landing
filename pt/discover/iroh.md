@@ -5,9 +5,6 @@ Iroh é uma pilha de rede modular que torna as conexões de rede mais flexíveis
 - ★ 11.957
 - GitHub Trending · 2026-06-17
 
-## Atualizar
-- 2 de agosto de 2026: Star 9.418 → 11.957, versão mais recente v1.0.3 (20 de julho de 2026).
-
 ## O que você ganha
 - Conectando via chave pública em vez de endereços IP
 - Perfuração automática para transferência direta de dados

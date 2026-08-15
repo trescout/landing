@@ -6,9 +6,6 @@ Dieses Tool, das die Erstellung eines kostenlosen temporären E-Mail-Dienstes mi
 - TypeScript
 - GitHub Trending · 2026-07-23
 
-## Aktualisieren
-- 2. August 2026: Star 10.884 → 11.156, neueste Version v1.10.0 (31. Juli 2026).
-
 ## Was es bringt
 - Kostenfreie Einrichtung mit Cloudflare-Infrastruktur
 - Schnelles E-Mail-Parsing basierend auf Rust
@@ -16,7 +13,6 @@ Dieses Tool, das die Erstellung eines kostenlosen temporären E-Mail-Dienstes mi
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Zur Installation müssen Sie die offizielle Dokumentationsseite des Projekts besuchen. Sie können den Schritten im [offiziellen Installationshandbuch](https://temp-mail-docs.awsl.uk) folgen, um eine schnelle Bereitstellung mithilfe der Cloudflare Workers- und Pages-Infrastruktur durchzuführen.
 
 ## Verwandte Begriffe aus dem Glossar
 

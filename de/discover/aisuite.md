@@ -6,9 +6,6 @@ Aisuite wurde von Andrew Ng entwickelt und ist eine Python-Bibliothek, die die V
 - Python
 - GitHub Trending · 2026-06-14
 
-## Aktualisieren
-- 2. August 2026: Star 14.220 → 15.888, neueste Version v0.1.3 (20. Juli 2026).
-
 ## Was es bringt
 - Verwalten Sie verschiedene KI-Anbieter über eine einzige Schnittstelle
 - Möglichkeit, zwischen Modellen zu wechseln, ohne den Code zu ändern

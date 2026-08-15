@@ -5,9 +5,6 @@ Esta ferramenta baseada em Python que automatiza os processos de compra de membr
 - ★ 4.173
 - GitHub Trending · 2026-06-22
 
-## Atualizar
-- 2 de agosto de 2026: Star 3.782 → 4.173, versão mais recente v2.15.16 (4 de julho de 2026).
-
 ## O que você ganha
 - Automatiza a compra de ingressos via Bilibili
 - Aumenta a velocidade de captura de produtos de estoque limitado

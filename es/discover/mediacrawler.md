@@ -6,9 +6,6 @@ MediaCrawler recopila automáticamente publicaciones y comentarios de usuarios e
 - Python
 - GitHub Trending · 2026-06-26
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 53.062 → 59.631.
-
 ## Qué aporta
 - Extrayendo publicaciones y comentarios de plataformas populares
 - Inicio de sesión sencillo con automatización del navegador

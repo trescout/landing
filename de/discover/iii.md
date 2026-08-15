@@ -7,10 +7,6 @@ iii ist eine Methode zum Erstellen, Erweitern und Überwachen aller Dienste in I
 - Lisans: yok
 - GitHub Trending · 28 May 2026
 
-## Aktualisieren
-- 7. August 2026: Star 18.547 → 18.570, letzte Version iii/v0.22.1 (7. August 2026).
-- 2. August 2026: Star 16.881 → 18.547, letzte Version iii/v0.22.0 (22. Juli 2026).
-
 ## Was es bringt
 - Warteschlangen-, Cron-, HTTP- und Statusverwaltung an einem Ort.
 - Möglichkeit der Rückverfolgbarkeit in Echtzeit.
@@ -19,6 +15,33 @@ iii ist eine Methode zum Erstellen, Erweitern und Überwachen aller Dienste in I
 
 ## So fangen Sie an
 Um loszulegen und auf die Dokumentation zuzugreifen, können Sie iii.dev besuchen.
+
+## Wie installiere ich, wie verwende ich?
+**Projekt erstellen**
+
+```
+iii project init myapp
+```
+
+**Motor starten**
+
+```
+cd myapp
+iii
+```
+
+**Arbeiter (Fertigkeit) hinzufügen**
+
+```
+iii worker add queue
+```
+
+**Installieren Sie das Node.js SDK**
+
+```
+npm install iii-sdk
+```
+
 
 ## Verwandte Begriffe aus dem Glossar
 

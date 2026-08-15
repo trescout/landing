@@ -6,10 +6,6 @@ Der von JCodesMore entwickelte Website-Kloner mit künstlicher Intelligenz (AI-W
 - TypeScript
 - GitHub Trending · 2026-06-23
 
-## Aktualisieren
-- 10. August 2026: Star 30.826 → 31.512, neueste Version v0.4.0 (10. August 2026).
-- 2. August 2026: Star 18.039 → 30.826, neueste Version v0.3.1 (30. März 2026).
-
 ## Was es bringt
 - Konvertiert vorhandene Websites in die Codebasis von Next.js
 - Extrahiert automatisch Designelemente und Assets

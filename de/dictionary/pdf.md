@@ -28,5 +28,15 @@ Es liest das PDF, indem es es mit speziellen Werkzeugen (Parsern), die den darin
 - [Document Parsing](/de/dictionary/document-parsing/)
 - [PDF Parser](/de/dictionary/pdf-parser/)
 
+## Verwandte Werkzeuge
+- [MarkItDown](/de/discover/markitdown/)
+- [Anthropic Skills](/de/discover/anthropic-skills/)
+- [Hello Algo](/de/discover/hello-algo/)
+- [Puppeteer](/de/discover/puppeteer/)
+- [Stirling-PDF](/de/discover/stirling-pdf/)
+- [PaddleOCR](/de/discover/paddleocr/)
+- [MinerU](/de/discover/mineru/)
+- [ChinaTextbook](/de/discover/chinatextbook/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/pdf/

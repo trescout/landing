@@ -6,9 +6,6 @@ UI-Skills wurde für Designingenieure entwickelt und vereint die technischen Fä
 - TypeScript
 - GitHub Trending · 2026-07-17
 
-## Aktualisieren
-- 2. August 2026: Star 4.436 → 6.838, neueste Version v0.2.3 (22. Juni 2026).
-
 ## Was es bringt
 - Technische Kompetenzkarte in Schnittstellenentwicklungsprozessen
 - Überbrückung der Lücke zwischen Design und Codierung

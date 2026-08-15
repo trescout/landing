@@ -6,9 +6,6 @@ Von Anthropics geteilte Claude-Kochbücher bieten praktische Codebeispiele und J
 - Jupyter Notebook
 - GitHub Trending · 2026-07-10
 
-## Aktualisieren
-- 2. August 2026: Stern 47.306 → 50.838.
-
 ## Was es bringt
 - Vorgefertigte Codevorlagen für die Claude-API-Integration
 - Beispiele für Bildverarbeitung und Datenanalyse
@@ -16,7 +13,6 @@ Von Anthropics geteilte Claude-Kochbücher bieten praktische Codebeispiele und J
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Sie können die Jupyter-Notebooks, die Sie verwenden möchten, überprüfen, indem Sie über GitHub auf das Claude Cookbooks-Repository zugreifen. Um zu beginnen, sollten Sie sich zunächst einen kostenlosen Claude API-Schlüssel von der offiziellen Anthropic-Website besorgen und sich den empfohlenen Claude API Fundamentals-Kurs ansehen, um die Grundkonzepte zu erlernen.
 
 ## Verwandte Begriffe aus dem Glossar
 

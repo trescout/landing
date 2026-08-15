@@ -5,10 +5,6 @@ Desenvolvido pela Lightricks, o LTX-2 oferece um pacote de treinamento de infer�
 - ★ 8.587
 - GitHub Trending · 2026-06-19
 
-## Atualizar
-- 12 de agosto de 2026: Star 8.554 → 8.587, versão mais recente v1.2.0 (11 de agosto de 2026).
-- 10 de agosto de 2026: Estrela 7.550 → 8.554.
-
 ## O que você ganha
 - Fornece sincronização de áudio e vídeo
 - Você pode treinar LoRA com seus próprios dados

@@ -7,15 +7,36 @@ Liteparse (ejecutar-llama); es un analizador de documentos de código abierto es
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
-## Actualizar
-- 6 de agosto de 2026: Star 11,883 → 11,934, última versión nodo-v2.11.1 (5 de agosto de 2026).
-- 3 de agosto de 2026: Star 11.878 → 11.883, última versión docker-v2.11.0 (3 de agosto de 2026).
-- 2 de agosto de 2026: Star 7781 → 11878, última versión nodo-v2.10.1 (29 de julio de 2026).
-
 ## Qué aporta
 - Proporciona un análisis de documentos rápido y eficiente.
 - Hace mecanizables estructuras complejas.
 - Totalmente compatible con tuberías AI y RAG.
+
+## ¿Cómo instalar, cómo utilizar?
+**Instalar con Python (pip)**
+
+```
+pip install liteparse
+```
+
+**Instalar con Node.js/TypeScript**
+
+```
+npm i @llamaindex/liteparse
+```
+
+**Analizar un PDF**
+
+```
+lit parse document.pdf
+```
+
+**guardar como JSON**
+
+```
+lit parse document.pdf --format json -o output.json
+```
+
 
 ## Términos relacionados del glosario
 

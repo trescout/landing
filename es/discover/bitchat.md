@@ -6,9 +6,6 @@ Bitchat ofrece un entorno de chat local que no requiere conexión a Internet, ut
 - Swift
 - GitHub Trending · 2026-07-26
 
-## Actualizar
-- 2 de agosto de 2026: Star 28,892 → 34,123, última versión v1.7.1 (31 de julio de 2026).
-
 ## Qué aporta
 - Chat local sin internet vía Bluetooth
 - Acceso global con protocolo Nostr

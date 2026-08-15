@@ -27,5 +27,8 @@ Sie sollten diesen Schlüssel sofort löschen, einen neuen erstellen und prüfen
 - [Self-hosting](/de/dictionary/self-hosting/)
 - [Observability](/de/dictionary/observability/)
 
+## Verwandte Werkzeuge
+- [Trivy](/de/discover/trivy/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/secrets/

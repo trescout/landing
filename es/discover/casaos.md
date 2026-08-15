@@ -6,9 +6,6 @@ CasaOS ofrece un sistema de nube personal de código abierto que facilita la adm
 - Go
 - GitHub Trending · 2026-06-26
 
-## Actualizar
-- 2 de agosto de 2026: Star 34,992 → 36,953, última versión v0.4.15 (19 de diciembre de 2024).
-
 ## Qué aporta
 - Instale aplicaciones Docker con un solo clic
 - Gestiona archivos con una interfaz visual

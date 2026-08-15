@@ -6,12 +6,6 @@ Destructivo Command Guard es una capa de seguridad desarrollada para evitar coma
 - Rust
 - GitHub Trending · 2026-07-13
 
-## Actualizar
-- 8 de agosto de 2026: Star 5642 → 5678, última versión v0.10.0 (8 de agosto de 2026).
-- 6 de agosto de 2026: Star 5542 → 5642, última versión v0.9.4 (6 de agosto de 2026).
-- 3 de agosto de 2026: Star 5532 → 5542, última versión v0.9.2 (3 de agosto de 2026).
-- 2 de agosto de 2026: Star 3284 → 5532, última versión v0.9.0 (2 de agosto de 2026).
-
 ## Qué aporta
 - Bloquea comandos peligrosos antes de que se ejecuten
 - Reduce el riesgo de pérdida de datos y daños al sistema.

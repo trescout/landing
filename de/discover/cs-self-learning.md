@@ -6,9 +6,6 @@ Dieser von Studenten der Peking-Universität erstellte Leitfaden bietet eine umf
 - HTML
 - GitHub Trending · 2026-07-20
 
-## Aktualisieren
-- 2. August 2026: Star 74.290 → 74.728, neueste Version v1.2.0 (8. Juni 2025).
-
 ## Was es bringt
 - Strukturierter Lehrplan auf Universitätsniveau
 - Open-Source-Kurs- und Ressourcenempfehlungen
@@ -16,7 +13,6 @@ Dieser von Studenten der Peking-Universität erstellte Leitfaden bietet eine umf
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Sie benötigen keine Einrichtung, um mit dieser Anleitung zu beginnen. Sie können alle Kursinhalte und Studienpläne kostenlos online einsehen, indem Sie die offizielle Website des Projekts, csdiy.wiki, besuchen.
 
 ## Verwandte Begriffe aus dem Glossar
 

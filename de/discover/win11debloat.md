@@ -5,9 +5,6 @@ Win11Debloat ist ein PowerShell-Skript, das das Entfernen vorinstallierter Apps 
 - ★ 54.506
 - GitHub Trending · 2026-06-16
 
-## Aktualisieren
-- 2. August 2026: Star 48.210 → 54.506, letzte Version 2026.07.11 (11. Juli 2026).
-
 ## Was es bringt
 - Entfernt schnell unnötige vorinstallierte Anwendungen.
 - Deaktiviert Telemetrie- und Trackingdaten.

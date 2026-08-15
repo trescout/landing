@@ -6,10 +6,6 @@ Moonshine oferece recursos de fala para texto de baixa latência, reconhecimento
 - C++
 - GitHub Trending · 2026-07-21
 
-## Atualizar
-- 7 de agosto de 2026: Star 10.579 → 10.671, versão mais recente v0.1.1 (7 de agosto de 2026).
-- 2 de agosto de 2026: Star 10.028 → 10.579, última versão v0.1.0 (27 de julho de 2026).
-
 ## O que você ganha
 - Processamento de áudio rápido e discreto executado no dispositivo
 - Baixa latência otimizada para transmissões ao vivo

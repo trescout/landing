@@ -6,9 +6,6 @@ Os livros de receitas de Claude compartilhados pela Anthropics fornecem exemplos
 - Jupyter Notebook
 - GitHub Trending · 2026-07-10
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 47.306 → 50.838.
-
 ## O que você ganha
 - Modelos de código prontos para integração com API Claude
 - Exemplos de processamento de imagens e análise de dados
@@ -16,7 +13,6 @@ Os livros de receitas de Claude compartilhados pela Anthropics fornecem exemplos
 
 ## Como começar
 - Fonte oficial →
-Você pode revisar os notebooks Jupyter que deseja usar acessando o repositório Claude Cookbooks via GitHub. Para começar, você deve primeiro obter uma chave de API Claude gratuita no site oficial da Anthropic e verificar o curso recomendado de Fundamentos da API Claude para aprender os conceitos básicos.
 
 ## Termos relacionados do glossário
 

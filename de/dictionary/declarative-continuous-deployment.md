@@ -26,5 +26,8 @@ Das System erkennt, dass Sie den falschen Zustand definiert haben und kehrt in d
 - [Cloud Native](/de/dictionary/cloud-native/)
 - [Deployment](/de/dictionary/deployment/)
 
+## Verwandte Werkzeuge
+- [Argo Cd](/de/discover/argo-cd/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/declarative-continuous-deployment/

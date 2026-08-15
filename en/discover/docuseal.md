@@ -6,11 +6,6 @@ DocuSeal offers an open source alternative for creating, filling and signing dig
 - Ruby
 - GitHub Trending · 2026-07-18
 
-## Update
-- August 12, 2026: Star 18,183 → 18,245, last version 3.2.0 (August 11, 2026).
-- August 4, 2026: Star 18,176 → 18,183, last version 3.1.7 (August 3, 2026).
-- August 2, 2026: Star 17,916 → 18,176, last version 3.1.6 (July 27, 2026).
-
 ## What you get
 - Create and sign PDF forms online
 - Mobile compatible user interface

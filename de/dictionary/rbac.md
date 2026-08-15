@@ -29,5 +29,8 @@ Ja, der Systemadministrator kann Berechtigungen zentral aktualisieren.
 - [Security Scanner](/de/dictionary/security-scanner/)
 - [API Gateway](/de/dictionary/api-gateway/)
 
+## Verwandte Werkzeuge
+- [Logto](/de/discover/logto/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/rbac/

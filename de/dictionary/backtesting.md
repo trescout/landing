@@ -27,5 +27,9 @@ Dabei werden vergangene Preisbewegungen, Transaktionsvolumina und Wirtschaftsind
 - [Value Investing](/de/dictionary/value-investing/)
 - [AI Hedge Fund](/de/dictionary/ai-hedge-fund/)
 
+## Verwandte Werkzeuge
+- [Awesome Systematic Trading](/de/discover/awesome-systematic-trading/)
+- [Free Stockdb](/de/discover/free-stockdb/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/backtesting/

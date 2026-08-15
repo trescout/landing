@@ -21,5 +21,8 @@ Denn es wirkt sich direkt darauf aus, wie schnell das Projekt wächst und wie ei
 - [Database](/de/dictionary/database/)
 - [Frontend Stack](/de/dictionary/frontend-stack/)
 
+## Verwandte Werkzeuge
+- [Clone-Wars](/de/discover/clone-wars/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/tech-stack/

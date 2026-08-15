@@ -7,9 +7,6 @@
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Update
-- August 1, 2026: Star 9,924 → 27,085, latest version v1.3.0 (June 22, 2026).
-
 ## What you get
 - It gives the agent the reflexes of a senior analyst: he knows which tool to use and when.
 - Capabilities are compatible with recognized security frameworks (such as MITER, NIST).
@@ -18,6 +15,14 @@
 
 ## Getting started
 Packaged in agentskills.io standard; You can add it as a skill to your AI assistant. Quickstart steps are available in the repository. Validate each capability in your context before production.
+
+## How to install, how to use?
+**add with npx (recommended)**
+
+```
+npx skills add mukul975/Anthropic-Cybersecurity-Skills
+```
+
 
 ## Related dictionary terms
 

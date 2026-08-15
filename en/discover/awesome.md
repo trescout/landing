@@ -12,7 +12,6 @@ Awesome lists offers curated collections of resources on a variety of topics in 
 
 ## Getting started
 - Official source →
-This tool does not require a software installation. To find the technology or topic you are interested in, you can visit the official website, awesome.re, and access the resources you are looking for through categorized lists.
 
 ## Links
 - GitHub repository →

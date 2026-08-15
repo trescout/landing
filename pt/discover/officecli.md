@@ -6,11 +6,6 @@ OfficeCLI oferece um pacote de escritório de código aberto que permite aos age
 - C#
 - GitHub Trending · 2026-07-08
 
-## Atualizar
-- 11 de agosto de 2026: Star 25.967 → 27.506, versão mais recente v1.0.143 (28 de julho de 2026).
-- 6 de agosto de 2026: Star 24.245 → 25.967, versão mais recente v1.0.143 (28 de julho de 2026).
-- 2 de agosto de 2026: Star 10.491 → 24.245, versão mais recente v1.0.143 (28 de julho de 2026).
-
 ## O que você ganha
 - Edite arquivos Word, Excel e PowerPoint com código
 - Faça transações diretamente sem instalar software de escritório

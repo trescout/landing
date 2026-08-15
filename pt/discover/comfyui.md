@@ -6,10 +6,6 @@ ComfyUI é uma ferramenta de visualização modular que fornece uma interface ba
 - Python
 - GitHub Trending · 2026-08-10
 
-## Atualizar
-- 12 de agosto de 2026: Star 125.723 → 126.885, versão mais recente v0.32.0 (11 de agosto de 2026).
-- 10 de agosto de 2026: Star 125.719 → 125.723, versão mais recente v0.31.0 (8 de agosto de 2026).
-
 ## O que você ganha
 - Projete fluxos de trabalho complexos sem escrever código com uma interface baseada em nós.
 - Crie imagens, vídeos, áudio e modelos 3D em uma única plataforma.

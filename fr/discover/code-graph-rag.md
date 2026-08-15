@@ -6,9 +6,6 @@ Code-graph-rag combine des graphiques de connaissances et une génération assis
 - Python
 - GitHub Trending · 2026-08-10
 
-## Mise à jour
-- 10 août 2026 : Star 3.153 → 3.158, dernière version v0.0.589 (10 août 2026).
-
 ## Ce que ça vous apporte
 - Découvrez les relations complexes en transformant la base de code en un graphe de connaissances
 - Obtenez des réponses sur la structure du code en posant des questions en langage naturel

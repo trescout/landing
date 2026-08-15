@@ -27,5 +27,9 @@ Ja, aber es ist sehr kostspielig und schwierig, die Architektur zu ändern, wenn
 - [API Gateway](/de/dictionary/api-gateway/)
 - [Deployment](/de/dictionary/deployment/)
 
+## Verwandte Werkzeuge
+- [System Design Primer](/de/discover/system-design-primer/)
+- [System Design 101](/de/discover/system-design-101/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/system-design/

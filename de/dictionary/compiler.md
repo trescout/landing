@@ -21,5 +21,8 @@ Ja, jede Programmiersprache benötigt einen Compiler oder Interpreter, der ihren
 - [Runtime](/de/dictionary/runtime/)
 - [Compile-time](/de/dictionary/compile-time/)
 
+## Verwandte Werkzeuge
+- [SWC](/de/discover/swc/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/compiler/

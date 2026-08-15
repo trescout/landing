@@ -6,12 +6,6 @@ Das von GitHub veröffentlichte spec-kit bietet die notwendigen Tools, um spezif
 - Python
 - GitHub Trending · 2026-06-05
 
-## Aktualisieren
-- 11. August 2026: Star 125.781 → 126.131, neueste Version v0.16.2 (10. August 2026).
-- 7. August 2026: Star 125.507 → 125.781, neueste Version v0.16.1 (7. August 2026).
-- 6. August 2026: Star 125.212 → 125.507, neueste Version v0.16.0 (5. August 2026).
-- 4. August 2026: Star 125.003 → 125.212, neueste Version v0.15.2 (3. August 2026).
-
 ## Was es bringt
 - Es wandelt technische Spezifikationen in ausführbare Codeprozesse um.
 - Es liefert konsistente und vorhersehbare Ergebnisse während der Softwareentwicklungsphase.

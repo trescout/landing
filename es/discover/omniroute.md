@@ -6,12 +6,6 @@ OmniRoute es una puerta de enlace que ofrece acceso gratuito combinando más de 
 - TypeScript
 - GitHub Trending · 2026-07-01
 
-## Actualizar
-- 12 de agosto de 2026: Star 43,582 → 46,052, última versión v3.8.49 (30 de julio de 2026).
-- 9 de agosto de 2026: Star 41.023 → 43.582, última versión v3.8.49 (30 de julio de 2026).
-- 6 de agosto de 2026: Star 37,621 → 41,023, última versión v3.8.49 (30 de julio de 2026).
-- 2 de agosto de 2026: Star 8906 → 37621, última versión v3.8.49 (30 de julio de 2026).
-
 ## Qué aporta
 - Acceso de punto único a 231 proveedores de inteligencia artificial diferentes
 - Hasta un 95 % de ahorro de monedas con compresión avanzada

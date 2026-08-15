@@ -6,11 +6,6 @@ Mithilfe der Claude-Code-Infrastruktur automatisiert Career-Ops künstliche Inte
 - JavaScript
 - GitHub Trending · 2026-06-07
 
-## Aktualisieren
-- 11. August 2026: Star 62.979 → 63.452, letzte Version Career-ops-v1.26.0 (10. August 2026).
-- 6. August 2026: Star 62.526 → 62.979, letzte Version Career-ops-v1.25.0 (4. August 2026).
-- 2. August 2026: Star 49.580 → 62.526, letzte Version Career-ops-v1.24.0 (30. Juli 2026).
-
 ## Was es bringt
 - Filtern Sie Stellenausschreibungen, indem Sie sie in 10 verschiedenen Dimensionen bewerten
 - Erstellen eines ATS-kompatiblen Lebenslaufs speziell für die Stellenbeschreibung

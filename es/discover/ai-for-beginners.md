@@ -6,10 +6,6 @@ Elaborado por Microsoft, AI for Beginners enseña temas de introducción a la in
 - Jupyter Notebook
 - GitHub Trending · 2026-07-01
 
-## Actualizar
-- 6 de agosto de 2026: Estrella 58,739 → 62,224.
-- 2 de agosto de 2026: Estrella 49,751 → 58,739.
-
 ## Qué aporta
 - 24 lecciones de formación en inteligencia artificial aplicada
 - Experiencia práctica con TensorFlow y PyTorch

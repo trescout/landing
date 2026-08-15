@@ -5,9 +5,6 @@ Iroh is a modular networking stack that makes network connections more flexible 
 - ★ 11,957
 - GitHub Trending · 2026-06-17
 
-## Update
-- August 2, 2026: Star 9,418 → 11,957, latest version v1.0.3 (July 20, 2026).
-
 ## What you get
 - Connecting via public key instead of IP addresses
 - Automatic hole-punching for direct data transfer

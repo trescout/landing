@@ -6,10 +6,6 @@ Prisma is an object relational mapper (ORM) tool that simplifies database intera
 - TypeScript
 - GitHub Trending · 2026-07-09
 
-## Update
-- 6 August 2026: Star 47,427 → 47,540, latest version v0.17.0 (4 August 2026).
-- August 2, 2026: Star 46,668 → 47,427, last version 7.9.1 (July 27, 2026).
-
 ## What you get
 - Creating type-safe database queries
 - Declarative data modeling and migration

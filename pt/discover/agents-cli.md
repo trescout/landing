@@ -6,10 +6,6 @@ A interface de linha de comando (CLI) desenvolvida pelo Google torna assistentes
 - Python
 - GitHub Trending · 2026-07-01
 
-## Atualizar
-- 6 de agosto de 2026: Star 5.455 → 5.491, versão mais recente v1.3.1 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 4.413 → 5.455, versão mais recente v1.2.1 (23 de julho de 2026).
-
 ## O que você ganha
 - Padroniza os processos de desenvolvimento de agentes no Google Cloud
 - Dá aos assistentes de codificação a capacidade de criar e implantar agentes

@@ -6,10 +6,6 @@ Rocket.Chat oferece um sistema operacional de comunicação seguro projetado par
 - TypeScript
 - GitHub Trending · 2026-06-18
 
-## Atualizar
-- 7 de agosto de 2026: Star 45.919 → 45.941, última versão 8.7.0 (7 de agosto de 2026).
-- 2 de agosto de 2026: Star 45.649 → 45.919, última versão 8.6.1 (10 de julho de 2026).
-
 ## O que você ganha
 - Segurança de dados com criptografia ponta a ponta
 - Possibilidade de hospedagem em servidor próprio
@@ -39,7 +35,6 @@ docker compose -f compose.database.yml -f compose.yml -f compose.nats.yml -f doc
 
 ## Como começar
 - Fonte oficial →
-Para começar a instalar o Rocket.Chat, você pode revisar o Guia de implantação na página de documentação oficial. Você pode escolher um dos métodos Docker, Podman ou Kubernetes para hospedar em seu próprio servidor ou considerar a opção Launchpad para um início mais rápido. Para todos os requisitos técnicos e etapas detalhadas de instalação, visite o site de documentação oficial do Rocket.Chat.
 
 ## Termos relacionados do glossário
 

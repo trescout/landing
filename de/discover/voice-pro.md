@@ -6,9 +6,6 @@ Voice-pro ist eine Open-Source-Schnittstelle, die Text-to-Speech (TTS) und Zero-
 - Python
 - GitHub Trending · 2026-08-02
 
-## Aktualisieren
-- 2. August 2026: Star 11.859 → 11.965, neueste Version v4.0.0 (13. Juli 2026).
-
 ## Was es bringt
 - Analysieren und Übersetzen von Audio aus YouTube-Videos
 - Mit künstlicher Intelligenz Audio kopieren und Text in Audio umwandeln

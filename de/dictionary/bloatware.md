@@ -23,5 +23,8 @@ Sie können es beseitigen, indem Sie die App im Einstellungsmenü deaktivieren o
 - [Utilities](/de/dictionary/utilities/)
 - [Runtime](/de/dictionary/runtime/)
 
+## Verwandte Werkzeuge
+- [optimizerDuck](/de/discover/optimizerduck/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/bloatware/

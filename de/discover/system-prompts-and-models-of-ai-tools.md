@@ -12,7 +12,6 @@ Systemeingabeaufforderungen und verwendete Sprachmodelle (KI-Modelle) beliebter 
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Bei diesem Tool handelt es sich um ein Informationsarchiv, für das keine Installation erforderlich ist. Sie können über Ihren Browser die entsprechende Repository-Seite auf GitHub besuchen, um auf die Systemanweisungen und Modellinformationen der Tools für künstliche Intelligenz zuzugreifen, die Sie untersuchen möchten.
 
 ## Verwandte Begriffe aus dem Glossar
 

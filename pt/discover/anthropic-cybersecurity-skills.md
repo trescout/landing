@@ -7,9 +7,6 @@
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Atualizar
-- 1º de agosto de 2026: Star 9.924 → 27.085, versão mais recente v1.3.0 (22 de junho de 2026).
-
 ## O que você ganha
 - Dá ao agente os reflexos de um analista sênior: ele sabe qual ferramenta usar e quando.
 - Os recursos são compatíveis com estruturas de segurança reconhecidas (como MITRE, NIST).
@@ -18,6 +15,14 @@
 
 ## Como começar
 Empacotado no padrão agentskills.io; Você pode adicioná-lo como uma habilidade ao seu assistente de IA. As etapas de início rápido estão disponíveis no repositório. Valide cada recurso em seu contexto antes da produção.
+
+## Como instalar, como usar?
+**adicionar com npx (recomendado)**
+
+```
+npx skills add mukul975/Anthropic-Cybersecurity-Skills
+```
+
 
 ## Termos relacionados do glossário
 

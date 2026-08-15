@@ -5,9 +5,6 @@ VibeVoice wurde von Microsoft veröffentlicht und als Open-Source-Sprach-KI-Fram
 - ★ 51.860
 - GitHub Trending · 2026-06-07
 
-## Aktualisieren
-- 2. August 2026: Stern 48.569 → 51.860.
-
 ## Was es bringt
 - Konvertiert bis zu 60 Minuten Audioaufnahme gleichzeitig in Text.
 - Es stellt Sprecher-ID, Zeitstempel und Inhaltsdetails auf strukturierte Weise bereit.

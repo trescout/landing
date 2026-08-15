@@ -7,13 +7,25 @@ Babysitter bietet einen deterministischen Kontrollmechanismus, sodass eine Beleg
 - MIT
 - GitHub Trending · 1 Haziran 2026
 
-## Aktualisieren
-- 2. August 2026: Star 1.101 → 1.632, letzte Version v0.0.188 (26. Juni 2026).
-
 ## Was es bringt
 - Beaufsichtigt die Belegschaft des Agenten.
 - Es verringert das Risiko von Halluzinationen und Fehlern.
 - Es bietet einen deterministischen und vorhersehbaren Fluss.
+
+## Wie installiere ich, wie verwende ich?
+**Claude Code · Marktplatz + Installation**
+
+```
+claude plugin marketplace add a5c-ai/babysitter
+claude plugin install --scope user babysitter@a5c.ai
+```
+
+**Führen Sie die Aufgabe mit TDD aus**
+
+```
+claude "/babysitter:call implement user authentication with TDD"
+```
+
 
 ## Verwandte Begriffe aus dem Glossar
 

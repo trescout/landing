@@ -26,5 +26,8 @@ Transaktionen sind in der Regel nicht betroffen, da sie serverseitig erfolgen, e
 - [Prediction Market](/de/dictionary/prediction-market/)
 - [Machine Learning](/de/dictionary/machine-learning/)
 
+## Verwandte Werkzeuge
+- [Awesome Systematic Trading](/de/discover/awesome-systematic-trading/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/algorithmic-trading/

@@ -6,9 +6,6 @@ CasaOS offers an open source personal cloud system that makes it easy to manage 
 - Go
 - GitHub Trending · 2026-06-26
 
-## Update
-- August 2, 2026: Star 34,992 → 36,953, last version v0.4.15 (December 19, 2024).
-
 ## What you get
 - Install Docker applications in one click
 - Manage files with a visual interface

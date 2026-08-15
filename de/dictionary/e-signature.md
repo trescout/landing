@@ -26,5 +26,8 @@ Eine elektronische Signatur kann die Integrität des Dokuments mathematisch bewe
 - [API](/de/dictionary/api/)
 - [Enterprise Resource Planning](/de/dictionary/enterprise-resource-planning/)
 
+## Verwandte Werkzeuge
+- [Docuseal](/de/discover/docuseal/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/e-signature/

@@ -6,11 +6,6 @@ Esta biblioteca, desarrollada para agentes de codificación de inteligencia arti
 - Shell
 - GitHub Trending · 2026-06-10
 
-## Actualizar
-- 11 de agosto de 2026: Star 81.505 → 85.857, última versión 0.6.6 (4 de agosto de 2026).
-- 4 de agosto de 2026: Star 81.328 → 81.505, última versión 0.6.6 (4 de agosto de 2026).
-- 2 de agosto de 2026: Estrella 50.041 → 81.328, última versión 0.6.5 (26 de julio de 2026).
-
 ## Qué aporta
 - Proporciona flujos de trabajo de ingeniería profesionales a agentes de inteligencia artificial.
 - Automatiza los procesos de desarrollo de software con pasos estandarizados.

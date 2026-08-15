@@ -6,9 +6,6 @@ Desarrollado para ingenieros de diseño, ui-skills reúne las habilidades y comp
 - TypeScript
 - GitHub Trending · 2026-07-17
 
-## Actualizar
-- 2 de agosto de 2026: Star 4436 → 6838, última versión v0.2.3 (22 de junio de 2026).
-
 ## Qué aporta
 - Mapa de competencias técnicas en procesos de desarrollo de interfaces.
 - Cerrando la brecha entre diseño y codificación

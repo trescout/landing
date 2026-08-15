@@ -7,15 +7,18 @@ Scrapling est un framework de web scraping adaptable qui peut gérer l'évolutio
 - BSD-3-Clause
 - GitHub Trending · 1 Haziran 2026
 
-## Mise à jour
-- 11 août 2026 : Star 73 309 → 73 439, dernière version v0.4.14 (10 août 2026).
-- 10 août 2026 : Star 72.180 → 73.309, dernière version v0.4.13 (9 août 2026).
-- 2 août 2026 : Étoile 57 333 → 72 180, dernière version v0.4.12 (26 juillet 2026).
-
 ## Ce que ça vous apporte
 - Outil complet capable d'effectuer une analyse à grande échelle avec une seule requête.
 - Adaptation automatique aux changements de pages.
 - Structure rapide et open source.
+
+## Installation (commande unique)
+**Python (pépin)**
+
+```
+pip install scrapling
+```
+
 
 ## Termes liés du glossaire
 

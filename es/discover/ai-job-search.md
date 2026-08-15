@@ -6,11 +6,6 @@ Utilizando la infraestructura de Claude Code, ai-job-search ofrece un marco que 
 - TypeScript
 - GitHub Trending · 2026-07-08
 
-## Actualizar
-- 7 de agosto de 2026: Star 29,509 → 30,691, última versión v1.4.0 (7 de agosto de 2026).
-- 4 de agosto de 2026: Star 29,226 → 29,509, última versión v1.3.0 (3 de agosto de 2026).
-- 2 de agosto de 2026: Star 12 031 → 29 226, última versión v1.2.0 (1 de agosto de 2026).
-
 ## Qué aporta
 - Prepara CV y carta de presentación según tu perfil personal.
 - Analiza ofertas de trabajo y otorga puntuaciones de idoneidad.

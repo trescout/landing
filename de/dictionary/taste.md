@@ -24,5 +24,8 @@ Ja, es verbessert sich mit der Zeit durch das Studium verschiedener Technologien
 - [User Experience](/de/dictionary/user-experience/)
 - [Clean Code](/de/dictionary/clean-code/)
 
+## Verwandte Werkzeuge
+- [Taste Skill](/de/discover/taste-skill/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/taste/

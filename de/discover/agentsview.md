@@ -6,11 +6,6 @@ Agentsview ist ein Überwachungstool, das lokale Sitzungsinformationen und Analy
 - Go
 - GitHub Trending · 2026-06-12
 
-## Aktualisieren
-- 6. August 2026: Star 4.683 → 4.714, neueste Version v0.40.1 (4. August 2026).
-- 3. August 2026: Star 4.672 → 4.683, neueste Version v0.40.0 (3. August 2026).
-- 2. August 2026: Star 1.867 → 4.672, neueste Version v0.39.0 (27. Juli 2026).
-
 ## Was es bringt
 - Überwachen Sie die Sitzungen aller Ihrer künstlichen Intelligenz-Coding-Agenten von einem einzigen Zentrum aus.
 - Berechnen Sie schnell die Beträge und Kosten der verwendeten Token.

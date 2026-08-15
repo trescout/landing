@@ -6,10 +6,6 @@ Developed by Meta, Astryx offers a design system that is fully customizable and 
 - TypeScript
 - GitHub Trending · 2026-07-01
 
-## Update
-- August 6, 2026: Star 11,277 → 11,769, latest version v0.3.0 (August 5, 2026).
-- August 2, 2026: Star 2,000 → 11,277, latest version v0.2.0 (July 30, 2026).
-
 ## What you get
 - More than 150 accessible components
 - API compatible with AI assistants

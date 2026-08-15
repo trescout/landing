@@ -27,5 +27,8 @@ Obwohl es in der Regel zu leichten Leistungseinbußen kommt, lohnt sich der Komf
 - [Framework](/de/dictionary/framework/)
 - [Runtime](/de/dictionary/runtime/)
 
+## Verwandte Werkzeuge
+- [Turbovec](/de/discover/turbovec/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/bindings/

@@ -6,11 +6,6 @@ FastMCP is a Python-based framework that makes it easy to develop Model Context 
 - Python
 - GitHub Trending · 2026-07-21
 
-## Update
-- August 11, 2026: Star 27,084 → 27,165, latest version v3.4.7 (August 10, 2026).
-- August 6, 2026: Star 27.020 → 27.084, latest version v3.4.6 (August 5, 2026).
-- August 2, 2026: Star 26,621 → 27,020, latest version v3.4.5 (July 27, 2026).
-
 ## What you get
 - Easily turns Python functions into AI tools
 - Automatically creates schema, validation and documentation

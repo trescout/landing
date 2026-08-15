@@ -6,9 +6,6 @@ Hiring-Agent ist ein Agent mit künstlicher Intelligenz (KI-Agent), der zur Bewe
 - Python
 - GitHub Trending · 2026-06-25
 
-## Aktualisieren
-- 2. August 2026: Stern 2.482 → 6.694.
-
 ## Was es bringt
 - Es analysiert automatisch Lebensläufe im PDF-Format.
 - Es bereichert Kandidaten mit GitHub-Daten.

@@ -6,9 +6,6 @@ Open-notebook offers an open-source alternative to Google NotebookLM, allowing u
 - TypeScript
 - GitHub Trending · 2026-06-05
 
-## Update
-- August 2, 2026: Star 25,373 → 36,268, latest version v1.14.0 (July 21, 2026).
-
 ## What you get
 - Analyze your data in a completely local environment, keeping it confidential.
 - Get flexible model selection from 18+ AI providers.

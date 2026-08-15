@@ -6,12 +6,6 @@ Llmfit wurde mit der Rust-Sprache entwickelt und scannt Hunderte großer Sprachm
 - Rust
 - GitHub Trending · 2026-07-22
 
-## Aktualisieren
-- 10. August 2026: Star 31.111 → 31.288, neueste Version v1.1.9 (9. August 2026).
-- 4. August 2026: Star 31.076 → 31.111, neueste Version v1.1.8 (4. August 2026).
-- 3. August 2026: Star 31.060 → 31.076, neueste Version v1.1.7 (3. August 2026).
-- 2. August 2026: Star 30.309 → 31.060, neueste Version v1.1.6 (21. Juli 2026).
-
 ## Was es bringt
 - Erkennt automatisch mit Ihrem System kompatible Modelle
 - Sortiert nach Speicher, Geschwindigkeit und Qualität

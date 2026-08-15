@@ -6,9 +6,6 @@ Transcribe.cpp es una biblioteca de inferencia de voz a texto desarrollada en C+
 - C++
 - GitHub Trending · 2026-07-21
 
-## Actualizar
-- 2 de agosto de 2026: Star 1357 → 1673, última versión v0.1.3 (12 de julio de 2026).
-
 ## Qué aporta
 - Soporte para 16 familias de modelos diferentes.
 - Alto rendimiento en GPU y CPU

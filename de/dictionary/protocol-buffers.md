@@ -26,5 +26,8 @@ Nein, die Daten können nicht direkt von Menschen gelesen werden, da sie im Bin�
 - [Networking Stack](/de/dictionary/networking-stack/)
 - [Serialization](/de/dictionary/serialization/)
 
+## Verwandte Werkzeuge
+- [Protobuf](/de/discover/protobuf/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/protocol-buffers/

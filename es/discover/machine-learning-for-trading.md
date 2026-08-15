@@ -5,9 +5,6 @@ Preparado por Stefan Jansen, este recurso proporciona ejemplos de código comple
 - ★ 20.241
 - GitHub Trending · 2026-06-02
 
-## Actualizar
-- 2 de agosto de 2026: Star 18 065 → 20 241, última versión v3.0.0-artifacts (24 de julio de 2026).
-
 ## Qué aporta
 - Desarrollo de estrategia de extremo a extremo con datos financieros.
 - Estudios de casos prácticos para nueve mercados diferentes

@@ -6,10 +6,6 @@ Free-stockdb é um mecanismo nativo de análise quantitativa que lida com dados 
 - HTML
 - GitHub Trending · 2026-07-29
 
-## Atualizar
-- 10 de agosto de 2026: Estrela 1.684 → 1.866, última versão 测试版本0.3.1 (19 de julho de 2026).
-- 2 de agosto de 2026: Star 1.492 → 1.684, última versão 测试版本0.2.1 (19 de julho de 2026).
-
 ## O que você ganha
 - Armazene todos os dados do mercado de ações em seu computador
 - Calcule 39 indicadores técnicos diferentes em segundos
@@ -17,7 +13,6 @@ Free-stockdb é um mecanismo nativo de análise quantitativa que lida com dados 
 
 ## Como começar
 - Fonte oficial →
-Se você for um usuário do Windows, baixe a versão atual na seção Releases na página do GitHub. Após abrir o arquivo baixado, execute a ferramenta de atualização de dados e espere que os dados sejam sincronizados com sua pasta local e, em seguida, inicie o aplicativo stockdb.
 
 ## Termos relacionados do glossário
 

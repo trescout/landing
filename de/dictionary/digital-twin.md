@@ -24,6 +24,9 @@ Theoretisch ja, entscheidend sind aber Kosten und Möglichkeiten der Datenerhebu
 
 ## Verwandte Begriffe
 - [World Model](/de/dictionary/world-model/)
+- [Observability](/de/dictionary/observability/)
+- [Data Pipeline](/de/dictionary/data-pipeline/)
+- [Artificial Intelligence](/de/dictionary/artificial-intelligence/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/digital-twin/

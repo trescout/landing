@@ -5,10 +5,6 @@ Impeccable est une bibliothèque de langage de conception développée pour amé
 - ★ 56 704
 - GitHub Trending · 2026-06-02
 
-## Mise à jour
-- 7 août 2026 : Star 53 997 → 56 704, dernière version ext-v1.3.1 (30 juillet 2026).
-- 2 août 2026 : Star 33 104 → 53 997, dernière version ext-v1.3.1 (30 juillet 2026).
-
 ## Ce que ça vous apporte
 - Fournit un langage de conception standardisé et une cohérence visuelle pour les modèles d’IA.
 - Il accélère les processus de contrôle de conception, d’amélioration et d’expérience utilisateur avec 23 commandes différentes.

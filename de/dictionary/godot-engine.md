@@ -26,5 +26,8 @@ Sie können alles entwickeln, von einfachen Puzzlespielen bis hin zu komplexen 3
 - [Open Source](/de/dictionary/open-source/)
 - [CLI](/de/dictionary/cli/)
 
+## Verwandte Werkzeuge
+- [Godot](/de/discover/godot/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/godot-engine/

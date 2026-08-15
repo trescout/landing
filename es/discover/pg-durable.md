@@ -6,9 +6,6 @@ Desarrollada por Microsoft, pg_durable es una biblioteca diseñada para gestiona
 - Rust
 - GitHub Trending · 2026-06-08
 
-## Actualizar
-- 2 de agosto de 2026: Star 1580 → 2716, última versión v0.2.5 (30 de julio de 2026).
-
 ## Qué aporta
 - Gestiona los flujos de trabajo dentro de la base de datos de forma persistente y tolerante a fallos.
 - En caso de caída o interrupción, continúa operaciones desde el último punto de control.

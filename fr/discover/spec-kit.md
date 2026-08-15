@@ -6,12 +6,6 @@ Publié par GitHub, spec-kit offre les outils nécessaires pour démarrer des pr
 - Python
 - GitHub Trending · 2026-06-05
 
-## Mise à jour
-- 11 août 2026 : Star 125 781 → 126 131, dernière version v0.16.2 (10 août 2026).
-- 7 août 2026 : Star 125 507 → 125 781, dernière version v0.16.1 (7 août 2026).
-- 6 août 2026 : Étoile 125 212 → 125 507, dernière version v0.16.0 (5 août 2026).
-- 4 août 2026 : Étoile 125 003 → 125 212, dernière version v0.15.2 (3 août 2026).
-
 ## Ce que ça vous apporte
 - Il convertit les spécifications techniques en processus de code exécutable.
 - Il fournit des résultats cohérents et prévisibles pendant la phase de développement logiciel.

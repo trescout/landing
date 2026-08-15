@@ -6,9 +6,6 @@ Ktransformers oferece uma estrutura flexível que suporta otimizações de hardw
 - Python
 - GitHub Trending · 2026-07-20
 
-## Atualizar
-- 2 de agosto de 2026: Star 18.491 → 19.145, versão mais recente v0.6.4 (23 de julho de 2026).
-
 ## O que você ganha
 - Trabalho eficiente usando recursos do processador e da placa gráfica juntos
 - Baixos requisitos de hardware em modelos MoE de grande escala

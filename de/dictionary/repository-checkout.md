@@ -21,5 +21,8 @@ Es enthält nicht nur die Dateien, sondern auch den Verlauf und die Versionsinfo
 - [Tech Stack](/de/dictionary/tech-stack/)
 - [Cloning](/de/dictionary/cloning/)
 
+## Verwandte Werkzeuge
+- [Checkout](/de/discover/checkout/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/repository-checkout/

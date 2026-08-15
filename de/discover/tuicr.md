@@ -6,10 +6,6 @@ tuicr wurde mit der Rust-Sprache entwickelt und ist ein auf der Terminal-Benutze
 - Rust
 - GitHub Trending · 2026-07-31
 
-## Aktualisieren
-- 6. August 2026: Star 2.291 → 2.439, neueste Version v0.21.0 (5. August 2026).
-- 2. August 2026: Star 1.940 → 2.291, neueste Version v0.20.0 (2. August 2026).
-
 ## Was es bringt
 - Schnelle Codeüberprüfung im Terminal mit Vim-Verknüpfungen
 - Veröffentlichen Sie Kommentare direkt auf GitHub und GitLab

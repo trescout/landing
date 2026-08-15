@@ -27,5 +27,8 @@ Ja, es kann zu einer leichten Verzögerung kommen, da alle Daten geprüft werden
 - [Security Scanner](/de/dictionary/security-scanner/)
 - [Adversarial Analysis](/de/dictionary/adversarial-analysis/)
 
+## Verwandte Werkzeuge
+- [Strix](/de/discover/strix/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-security-tool/

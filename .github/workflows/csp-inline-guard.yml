@@ -47,6 +47,9 @@ jobs:
 
       # Elle bakılan sayfalar (ana sayfa · karşılaştırma) üç dilde aynı yapıyı
       # taşımalı · biri değişip diğerleri geride kalmasın.
+      - name: Bölüm paritesi (üretilen sayfalar · h2 sayısı)
+        run: python3 scripts/check-bolum-paritesi.py
+
       - name: Sayfa paritesi (diller arası yapı)
         run: python3 scripts/check-sayfa-paritesi.py
 

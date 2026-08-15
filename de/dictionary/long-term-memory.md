@@ -27,5 +27,9 @@ Die Daten werden in der Regel im eigenen Speicher des Benutzers oder in verschlÃ
 - [Memory Engine](/de/dictionary/memory-engine/)
 - [Vector Database](/de/dictionary/vector-database/)
 
+## Verwandte Werkzeuge
+- [Cognee](/de/discover/cognee/)
+- [TencentDB-Agent-Memory](/de/discover/tencentdb-agent-memory/)
+
 ---
 Quelle: TreScout Glossar Â· https://trescout.com/de/dictionary/long-term-memory/

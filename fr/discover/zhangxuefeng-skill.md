@@ -5,9 +5,6 @@ Zhangxuefeng-skill offre un système d'exploitation cognitif structuré pour les
 - ★ 10 048
 - GitHub Trending · 2026-06-12
 
-## Mise à jour
-- 2 août 2026 : Étoile 8 114 → 10 048.
-
 ## Ce que ça vous apporte
 - Analyse les décisions complexes de carrière et d'éducation à travers le cadre cognitif de 张雪峰.
 - Il propose des recommandations concrètes axées sur les données d’emploi et la réalité sociale.

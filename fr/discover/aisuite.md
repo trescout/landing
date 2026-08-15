@@ -6,9 +6,6 @@ Développée par Andrew Ng, aisuite est une bibliothèque Python qui permet de g
 - Python
 - GitHub Trending · 2026-06-14
 
-## Mise à jour
-- 2 août 2026 : Étoile 14 220 → 15 888, dernière version v0.1.3 (20 juillet 2026).
-
 ## Ce que ça vous apporte
 - Gérez différents fournisseurs d’IA avec une seule interface
 - Possibilité de basculer entre les modèles sans changer de code

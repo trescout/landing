@@ -27,5 +27,8 @@ Ihre Daten gehen nicht verloren, sie bleiben vollständig unter Ihrer Kontrolle.
 - [Memory Engine](/de/dictionary/memory-engine/)
 - [AI Agent](/de/dictionary/ai-agent/)
 
+## Verwandte Werkzeuge
+- [Personal_AI_Infrastructure](/de/discover/personal-ai-infrastructure/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/personal-ai-infrastructure/

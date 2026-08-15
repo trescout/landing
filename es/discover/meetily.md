@@ -6,9 +6,6 @@ Meetily es un asistente de reuniones de código abierto que procesa grabaciones 
 - Rust
 - GitHub Trending · 2026-07-05
 
-## Actualizar
-- 2 de agosto de 2026: Star 15,565 → 27,968, última versión v0.4.0 (5 de junio de 2026).
-
 ## Qué aporta
 - Toda la transcripción y resumen de audio se realiza en su dispositivo.
 - No requiere conexión a la nube, tus datos no salen de tu computadora.

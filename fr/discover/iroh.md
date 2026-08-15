@@ -5,9 +5,6 @@ Iroh est une pile réseau modulaire qui rend les connexions réseau plus flexibl
 - ★ 11 957
 - GitHub Trending · 2026-06-17
 
-## Mise à jour
-- 2 août 2026 : Étoile 9 418 → 11 957, dernière version v1.0.3 (20 juillet 2026).
-
 ## Ce que ça vous apporte
 - Connexion via une clé publique au lieu d'adresses IP
 - Perforation automatique pour un transfert direct de données

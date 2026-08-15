@@ -6,10 +6,6 @@ LMCache offers a layer that increases inference speed by optimizing key-value ca
 - Python
 - GitHub Trending · 2026-06-13
 
-## Update
-- August 6, 2026: Star 10,985 → 11,038, latest version v0.5.3 (August 5, 2026).
-- 2 August 2026: Star 8,698 → 10,985, latest version operator-v0.5.1 (23 July 2026).
-
 ## What you get
 - It shortens the first token time by increasing the inference speed in large language models.
 - It reduces computational load by optimizing memory usage.

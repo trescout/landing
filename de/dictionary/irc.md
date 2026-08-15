@@ -28,5 +28,9 @@ Es wird bevorzugt, da es schnell, leicht und sehr einfach zu installieren ist.
 - [Networking Stack](/de/dictionary/networking-stack/)
 - [Terminal](/de/dictionary/terminal/)
 
+## Verwandte Werkzeuge
+- [Bitchat](/de/discover/bitchat/)
+- [Bitchat Android](/de/discover/bitchat-android/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/irc/

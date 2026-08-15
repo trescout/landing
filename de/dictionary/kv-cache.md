@@ -30,5 +30,8 @@ Das System ist möglicherweise nicht mehr in der Lage, neue Daten zu verarbeiten
 - [Inference](/de/dictionary/inference/)
 - [Memory Management](/de/dictionary/memory-management/)
 
+## Verwandte Werkzeuge
+- [LMCache](/de/discover/lmcache/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/kv-cache/

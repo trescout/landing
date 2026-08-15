@@ -7,15 +7,32 @@ RuView provides real-time spatial intelligence, vital sign tracking and presence
 - MIT
 - GitHub Trending · 30 May 2026
 
-## Update
-- 12 August 2026: Star 88.270 → 89.705, latest version v2235 (11 August 2026).
-- 3 August 2026: Star 88.185 → 88.270, last version v2146 (2 August 2026).
-- August 2, 2026: Star 68,643 → 88,185, last version v2143 (August 2, 2026).
-
 ## What does it offer?
 - Presence and motion detection without using a camera.
 - Monitoring vital signs (breathing and pulse).
 - Real-time spatial intelligence.
+
+## Responsibility note
+
+## How to install, how to use?
+**Pull the Docker image**
+
+```
+docker pull ruvnet/wifi-densepose:latest
+```
+
+**Run with Docker (simulation, no hardware required)**
+
+```
+docker run -p 3000:3000 ruvnet/wifi-densepose:latest
+```
+
+**Python package (PyPI)**
+
+```
+pip install ruview
+```
+
 
 ## Related dictionary terms
 

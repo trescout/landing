@@ -13,7 +13,6 @@ Dieser von Microsoft erstellte Schulungsinhalt bietet einen 21-Stunden-Lehrplan 
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Um mit den Schulungsinhalten zu beginnen, können Sie die offizielle Seite auf GitHub besuchen oder die Dateien mit den oben genannten Befehlen auf Ihren Computer herunterladen. Befolgen Sie dann einfach die Anleitung im Ordner „00-course-setup“ im Repository, um Ihre Entwicklungsumgebung vorzubereiten.
 
 ## Verwandte Begriffe aus dem Glossar
 

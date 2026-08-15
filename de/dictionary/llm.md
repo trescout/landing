@@ -24,5 +24,22 @@ Nein, es weiß nur, was in den Trainingsdaten enthalten ist, und kann manchmal f
 Nein, er macht nur Vorhersagen, die auf mathematischen Wahrscheinlichkeiten basieren. Es hat kein Bewusstsein oder Emotionen.
 
 
+## Verwandte Begriffe
+- [Transformer](/de/dictionary/transformer/)
+- [Token](/de/dictionary/token/)
+- [Context Window](/de/dictionary/context-window/)
+- [Inference](/de/dictionary/inference/)
+- [Generative AI](/de/dictionary/generative-ai/)
+
+## Verwandte Werkzeuge
+- [Awesome LLM Apps](/de/discover/awesome-llm-apps/)
+- [MoneyPrinterTurbo](/de/discover/moneyprinterturbo/)
+- [TradingAgents](/de/discover/tradingagents/)
+- [Deer Flow](/de/discover/deer-flow/)
+- [Crawl4AI](/de/discover/crawl4ai/)
+- [MiroFish](/de/discover/mirofish/)
+- [Goose](/de/discover/goose/)
+- [Continue](/de/discover/continue/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/llm/

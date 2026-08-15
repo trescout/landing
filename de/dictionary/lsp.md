@@ -28,5 +28,8 @@ Nein, im Gegenteil, es beschleunigt Ihren Codierungsprozess, indem es verhindert
 - [Agentic Coding Tool](/de/dictionary/agentic-coding-tool/)
 - [CLI](/de/dictionary/cli/)
 
+## Verwandte Werkzeuge
+- [Oh My Pi](/de/discover/oh-my-pi/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/lsp/

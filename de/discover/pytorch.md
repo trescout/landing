@@ -6,9 +6,6 @@ PyTorch ist eine Bibliothek für maschinelles Lernen, die eine leistungsstarke G
 - Python
 - GitHub Trending · 2026-07-03
 
-## Aktualisieren
-- 2. August 2026: Star 101.297 → 102.131, neueste Version v2.13.0 (8. Juli 2026).
-
 ## Was es bringt
 - GPU-gestützte Hochleistungs-Tensorberechnungen
 - Flexible Modellentwicklung mit dynamischen neuronalen Netzen

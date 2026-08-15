@@ -26,5 +26,10 @@ Es wird bevorzugt, um auf blockierte Websites zuzugreifen, die Internetgeschwind
 - [Self-hosting](/de/dictionary/self-hosting/)
 - [Offline](/de/dictionary/offline/)
 
+## Verwandte Werkzeuge
+- [FlClash](/de/discover/flclash/)
+- [Nginx](/de/discover/nginx/)
+- [Headroom](/de/discover/headroom/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/proxy/

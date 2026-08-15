@@ -6,9 +6,6 @@ AI-berkshire é uma estrutura de pesquisa de investimento em valor que implement
 - Python
 - GitHub Trending · 2026-06-26
 
-## Atualizar
-- 2 de agosto de 2026: Star 2.500 → 14.888, última versão v1.0.0 (7 de abril de 2026).
-
 ## O que você ganha
 - Análise estruturada com metodologia de quatro mestres de investimento
 - Investigação aprofundada de oposição com vários agentes de IA

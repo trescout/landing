@@ -6,11 +6,6 @@ Langflow é uma plataforma de desenvolvimento baseada em Python que oferece uma 
 - Python
 - GitHub Trending · 2026-07-03
 
-## Atualizar
-- 12 de agosto de 2026: Star 152.874 → 153.074, versão mais recente v1.11.3 (11 de agosto de 2026).
-- 6 de agosto de 2026: Star 152.754 → 152.874, versão mais recente v1.11.2 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 150.932 → 152.754, versão mais recente v1.11.1 (28 de julho de 2026).
-
 ## O que você ganha
 - Projetando agentes de IA usando arrastar e soltar
 - Publicação de fluxos de trabalho como servidor API ou MCP

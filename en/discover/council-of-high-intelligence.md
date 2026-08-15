@@ -6,9 +6,6 @@ The Council of High Intelligence carries out structured decision-making processe
 - Shell
 - GitHub Trending · 2026-06-30
 
-## Update
-- August 2, 2026: Star 2,176 → 3,808, latest version v1.2.0 (July 4, 2026).
-
 ## What you get
 - Analysis with 18 different expert personalities
 - Cross-examination with different artificial intelligence models

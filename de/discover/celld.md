@@ -6,9 +6,6 @@ Celld wurde von Deno entwickelt und bietet eine selbst gehostete Infrastruktur f
 - Rust
 - GitHub Trending · 2026-08-08
 
-## Aktualisieren
-- 8. August 2026: Star 2.264 → 2.266, neueste Version v0.1.0 (5. August 2026).
-
 ## Was es bringt
 - Bietet skalierbares Zustandsmanagement in Ihrer eigenen Infrastruktur.
 - Es speichert jedes Objekt als unabhängige SQLite-Datenbank.

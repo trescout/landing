@@ -29,5 +29,8 @@ Sie haben im Allgemeinen niedrige Verwaltungsgebühren, aber Sie zahlen beim Han
 - [Value Investing](/de/dictionary/value-investing/)
 - [AI Hedge Fund](/de/dictionary/ai-hedge-fund/)
 
+## Verwandte Werkzeuge
+- [Free Stockdb](/de/discover/free-stockdb/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/etf/

@@ -6,10 +6,6 @@ Code-Review-Graph analysiert die Codebasis und erstellt eine lokal fokussierte C
 - Python
 - GitHub Trending · 2026-07-18
 
-## Aktualisieren
-- 9. August 2026: Star 28.041 → 29.487, neueste Version v2.3.7 (18. Juli 2026).
-- 2. August 2026: Star 19.852 → 28.041, neueste Version v2.3.7 (18. Juli 2026).
-
 ## Was es bringt
 - Analysiert die Codebasis und präsentiert der künstlichen Intelligenz nur relevante Dateien
 - Reduziert den Token-Verbrauch in großen Projekten erheblich

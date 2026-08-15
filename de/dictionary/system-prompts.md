@@ -27,5 +27,9 @@ Dadurch kann das Modell irrelevante Themen vermeiden und eine konsistente Persö
 - [LLM](/de/dictionary/llm/)
 - [AI Agent](/de/dictionary/ai-agent/)
 
+## Verwandte Werkzeuge
+- [System Prompts and Models of AI Tools](/de/discover/system-prompts-and-models-of-ai-tools/)
+- [System Prompts Leaks](/de/discover/system-prompts-leaks/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/system-prompts/

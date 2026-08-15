@@ -6,9 +6,6 @@ Cette ressource, partagée par l'Université Harvard, propose un guide technique
 - Python
 - GitHub Trending · 2026-07-03
 
-## Mise à jour
-- 2 août 2026 : Star 25 784 → 27 689, dernière version tinytorch-v0.1.13 (24 juin 2026).
-
 ## Ce que ça vous apporte
 - Apprendre les principes de conception et d’ingénierie des systèmes d’intelligence artificielle
 - Créer votre propre framework d'apprentissage automatique à partir de zéro
@@ -16,7 +13,6 @@ Cette ressource, partagée par l'Université Harvard, propose un guide technique
 
 ## Pour commencer
 - Source officielle →
-Pour démarrer ce projet, vous pouvez visiter le site officiel mlsysbook.ai. Vous pouvez commencer votre processus d'apprentissage en combinant connaissances théoriques et travaux pratiques grâce au manuel, aux laboratoires interactifs et aux modules TinyTorch du site.
 
 ## Termes liés du glossaire
 

@@ -6,9 +6,6 @@ SpiderFoot is a Python tool that automates open source intelligence (OSINT) coll
 - Python
 - GitHub Trending · 2026-06-22
 
-## Update
-- August 2, 2026: Star 18,921 → 20,026, latest version v4.0 (April 7, 2022).
-
 ## What you get
 - Automatic data collection with more than 200 modules
 - Web-based interface or command line support

@@ -6,9 +6,6 @@ Desarrollado por OpenAI, el complemento Codex se utiliza en Claude Code para aut
 - JavaScript
 - GitHub Trending · 2026-07-03
 
-## Actualizar
-- 2 de agosto de 2026: Star 22 800 → 30 950, última versión v1.0.6 (8 de julio de 2026).
-
 ## Qué aporta
 - Automatiza los procesos de revisión de código.
 - Delega tareas al modelo Codex

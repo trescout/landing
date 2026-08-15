@@ -29,7 +29,6 @@ python3 cupp.py -i
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Um das Tool zu verwenden, stellen Sie zunächst sicher, dass Python 3 auf Ihrem Computer installiert ist. Besuchen Sie die GitHub-Seite des Projekts, laden Sie die Dateien auf Ihren Computer herunter und beginnen Sie mit der Ausführung der Befehle, indem Sie über das Terminal in das Verzeichnis gehen, in dem sich das Tool befindet.
 
 ## Verwandte Begriffe aus dem Glossar
 

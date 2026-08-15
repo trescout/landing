@@ -27,5 +27,8 @@ Vektoren sind mathematische Koordinaten von Daten, die vom Computer verstanden w
 - [Embedding](/de/dictionary/embedding/)
 - [RAG](/de/dictionary/rag/)
 
+## Verwandte Werkzeuge
+- [Turbovec](/de/discover/turbovec/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/vector-index/

@@ -27,5 +27,8 @@ Nein, je nach Zweck des Agenten (z. B. Codierungsagent vs. Forschungsagent) unte
 - [Autonomous Agent](/de/dictionary/autonomous-agent/)
 - [AI Skills](/de/dictionary/ai-skills/)
 
+## Verwandte Werkzeuge
+- [Last30days Skill](/de/discover/last30days-skill/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-agent-skill/

@@ -6,10 +6,6 @@ Plane is an open source project management platform that brings together task ma
 - TypeScript
 - GitHub Trending · 2026-06-18
 
-## Update
-- August 7, 2026: Star 55,364 → 55,693, latest version v1.4.1 (August 7, 2026).
-- August 2, 2026: Star 51,506 → 55,364, latest version v1.4.0 (July 31, 2026).
-
 ## What you get
 - Track tasks and product roadmaps in a central interface
 - Dividing complex projects into manageable modules and cycles
@@ -39,7 +35,6 @@ chmod +x setup.sh
 
 ## Getting started
 - Official source →
-To get started quickly, you can create a free account through Plane Cloud. If you want to host it on your own infrastructure, you can install it on your own server by following the Docker or Kubernetes installation guides on the official documentation page.
 
 ## Related dictionary terms
 

@@ -7,13 +7,26 @@ Kronos es un modelo básico diseñado para analizar los patrones únicos de los 
 - MIT
 - GitHub Trending · 28 May 2026
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 26,888 → 35,441.
-
 ## ¿Qué hace?
 - Proporciona la base para modelar patrones de mercado.
 - Se puede ajustar como modelo básico.
 - Proporciona una base sólida para la investigación y la PNL financiera.
+
+## nota honesta
+
+## ¿Cómo instalar, cómo utilizar?
+**Instalar dependencias**
+
+```
+pip install -r requirements.txt
+```
+
+**Ejecutar script de predicción de muestra**
+
+```
+python examples/prediction_example.py
+```
+
 
 ## Términos relacionados del glosario
 

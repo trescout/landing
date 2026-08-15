@@ -24,5 +24,8 @@ Nein, manchmal wird die Anwendung durch das Hinzufügen zu vieler Funktionen kom
 - [Tech Stack](/de/dictionary/tech-stack/)
 - [Application](/de/dictionary/application/)
 
+## Verwandte Werkzeuge
+- [YimMenuV2](/de/discover/yimmenuv2/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/features/

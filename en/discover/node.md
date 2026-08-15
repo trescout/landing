@@ -6,11 +6,6 @@ Node.js offers a runtime environment that allows JavaScript code to be run outsi
 - JavaScript
 - GitHub Trending · 2026-07-27
 
-## Update
-- August 6, 2026: Star 118,705 → 118,797, latest version v26.7.0 (August 5, 2026).
-- 4 August 2026: Star 118.617 → 118.705, latest version v26.6.0 (3 August 2026).
-- August 2, 2026: Star 118,523 → 118,617, latest version v26.5.1 (July 29, 2026).
-
 ## What you get
 - Runs JavaScript code outside the browser
 - Enables the development of scalable network applications

@@ -7,9 +7,6 @@ Awesome Free Apps est un guide catégorisé d'applications gratuites sélectionn
 - Lisans: belirsiz
 - GitHub Trending · 26 May 2026
 
-## Mise à jour
-- 2 août 2026 : Étoile 5 121 → 7 106.
-
 ## Ce que ça vous apporte
 - Alternatives gratuites aux logiciels payants.
 - Filtres de plateforme (Windows/macOS/Linux/mobile).
@@ -17,6 +14,9 @@ Awesome Free Apps est un guide catégorisé d'applications gratuites sélectionn
 
 ## Comment utiliser ?
 Vous pouvez naviguer sur notre page GitHub en fonction de votre plateforme et choisir facilement l'application dont vous avez besoin. Vous pouvez l'examiner directement sans avoir besoin de l'installer.
+
+## Comment l'utiliser avec l'IA ?
+Je vais vous donner une liste catégorisée d'applications gratuites pour Windows, macOS et Linux appelées « applications gratuites géniales ». Consultez la liste et suggérez les applications gratuites et open source que je devrais utiliser en fonction de mes besoins (par exemple, son, navigateur, outils de développement, sécurité), avec une brève description de chacune et sur quelle plate-forme elle fonctionne.
 
 ## Termes liés du glossaire
 

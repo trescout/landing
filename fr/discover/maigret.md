@@ -6,9 +6,6 @@ Maigret scanne plus de 3000 sites Web à partir des noms d'utilisateurs et crée
 - Python
 - GitHub Trending · 2026-06-11
 
-## Mise à jour
-- 2 août 2026 : Star 32 267 → 36 075, dernière version principale (26 avril 2026).
-
 ## Ce que ça vous apporte
 - Il analyse plus de 3 000 sites en fonction du nom d'utilisateur.
 - Il crée un fichier d’empreinte numérique détaillé pour les personnes.

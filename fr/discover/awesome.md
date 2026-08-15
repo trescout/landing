@@ -12,7 +12,6 @@ Awesome lists propose des collections organisées de ressources sur une variét�
 
 ## Pour commencer
 - Source officielle →
-Cet outil ne nécessite pas d'installation de logiciel. Pour trouver la technologie ou le sujet qui vous intéresse, vous pouvez visiter le site officiel, Awesome.re, et accéder aux ressources que vous recherchez via des listes catégorisées.
 
 ## Liens
 - Dépôt GitHub →

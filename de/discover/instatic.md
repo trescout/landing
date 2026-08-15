@@ -6,10 +6,6 @@ Instatic ist ein modernes, selbst gehostetes visuelles Content-Management-System
 - TypeScript
 - GitHub Trending · 2026-07-01
 
-## Aktualisieren
-- 12. August 2026: Star 7.250 → 7.891, neueste Version v0.0.16 (11. August 2026).
-- 2. August 2026: Star 1.681 → 7.250, neueste Version v0.0.14 (28. Juli 2026).
-
 ## Was es bringt
 - Konsolidieren Sie das gesamte Content-Management auf einem einzigen Server
 - Bearbeiten Sie Seiten direkt mit KI

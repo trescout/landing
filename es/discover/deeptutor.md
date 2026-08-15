@@ -6,12 +6,6 @@ DeepTutor es un sistema de tutoría privada basado en el aprendizaje permanente 
 - Python
 - GitHub Trending · 2026-07-16
 
-## Actualizar
-- 10 de agosto de 2026: Star 32 944 → 33 415, última versión v1.5.11 (9 de agosto de 2026).
-- 7 de agosto de 2026: Star 32,640 → 32,944, última versión v1.5.10 (7 de agosto de 2026).
-- 6 de agosto de 2026: Star 31,925 → 32,640, última versión v1.5.9 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 26,461 → 31,925, última versión v1.5.8 (2 de agosto de 2026).
-
 ## Qué aporta
 - Sistema de lecciones privadas enfocadas al aprendizaje permanente
 - Interacción con agentes de inteligencia artificial personalizados

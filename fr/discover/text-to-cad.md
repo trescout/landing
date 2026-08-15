@@ -6,10 +6,6 @@ Les outils Text-to-CAD sont un ensemble de compétences d'agent développées po
 - JavaScript
 - GitHub Trending · 2026-07-22
 
-## Mise à jour
-- 12 août 2026 : Star 12 478 → 13 287, dernière version 0.4.5 (12 août 2026).
-- 2 août 2026 : Star 9 319 → 12 478, dernière version 0.3.13 (31 juillet 2026).
-
 ## Ce que ça vous apporte
 - Créez des modèles CAO complexes avec un langage naturel
 - Préparation des fichiers de structure robotique et de simulation

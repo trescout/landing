@@ -6,9 +6,6 @@ Voicebox est un studio vocal d'intelligence artificielle open source qui permet 
 - TypeScript
 - GitHub Trending · 2026-06-21
 
-## Mise à jour
-- 2 août 2026 : Étoile 31 156 → 48 096, dernière version v0.5.0 (25 avril 2026).
-
 ## Ce que ça vous apporte
 - Transcrivez votre propre voix ou celle de quelqu'un d'autre en quelques secondes.
 - Fournissez une voix off et une dictée naturelles dans 23 langues différentes.

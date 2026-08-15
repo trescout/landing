@@ -6,11 +6,6 @@ Hallmark is a style file developed to reduce the impact of standard content prod
 - CSS
 - GitHub Trending · 2026-07-13
 
-## Update
-- August 10, 2026: Star 22,106 → 23,216.
-- August 6, 2026: Star 20,791 → 22,106.
-- August 2, 2026: Star 4,508 → 20,791.
-
 ## What you get
 - Avoids standard AI aesthetics
 - Creates unique interfaces with twenty different themes

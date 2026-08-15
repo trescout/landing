@@ -24,6 +24,8 @@ Sie können Ihr Risiko minimieren, indem Sie Ihre Software stets auf dem neueste
 
 ## Verwandte Begriffe
 - [Observability](/de/dictionary/observability/)
+- [Open Source](/de/dictionary/open-source/)
+- [Self-hosting](/de/dictionary/self-hosting/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/zero-day/

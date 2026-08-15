@@ -6,9 +6,6 @@ Developed by Activeloop, Hivemind offers a centralized memory layer for all arti
 - TypeScript
 - GitHub Trending · 2026-06-11
 
-## Update
-- August 2, 2026: Star 985 → 1,526, latest version v0.7.145 (July 30, 2026).
-
 ## What you get
 - It creates a common memory and coordination layer for all your AI agents.
 - It automatically transforms successful solution patterns from past sessions into reusable skills.

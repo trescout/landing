@@ -28,5 +28,8 @@ Es geht darum, das System immer auf dem neuesten Stand zu halten und Standardken
 - [Vulnerability Scanning](/de/dictionary/vulnerability-scanning/)
 - [Root](/de/dictionary/root/)
 
+## Verwandte Werkzeuge
+- [How-To-Secure-A-Linux-Server](/de/discover/how-to-secure-a-linux-server/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/linux-server-security/

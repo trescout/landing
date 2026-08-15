@@ -6,9 +6,6 @@ Karukan wurde mit der Rust-Sprache entwickelt und ist ein japanisches Eingabemet
 - Rust
 - GitHub Trending · 2026-07-02
 
-## Aktualisieren
-- 2. August 2026: Star 615 → 692, neueste Version v0.1.0 (23. Februar 2026).
-
 ## Was es bringt
 - GPT-2-basierte neuronale Kana-Kanji-Konvertierung
 - Live-Textkonvertierung in Echtzeit während der Eingabe

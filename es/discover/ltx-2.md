@@ -5,10 +5,6 @@ Desarrollado por Lightricks, LTX-2 ofrece un paquete de entrenamiento de inferen
 - ★ 8.587
 - GitHub Trending · 2026-06-19
 
-## Actualizar
-- 12 de agosto de 2026: Star 8554 → 8587, última versión v1.2.0 (11 de agosto de 2026).
-- 10 de agosto de 2026: Estrella 7.550 → 8.554.
-
 ## Qué aporta
 - Proporciona sincronización de audio y vídeo.
 - Puedes entrenar LoRA con tus propios datos

@@ -6,12 +6,6 @@ CodexBar es una herramienta que permite ver los datos de uso de OpenAI Codex y C
 - Swift
 - GitHub Trending · 2026-07-06
 
-## Actualizar
-- 11 de agosto de 2026: Star 19.867 → 19.899, última versión v0.49.2 (11 de agosto de 2026).
-- 10 de agosto de 2026: Star 19.864 → 19.867, última versión v0.49.1 (10 de agosto de 2026).
-- 10 de agosto de 2026: Star 19.775 → 19.864, última versión v0.49.0 (9 de agosto de 2026).
-- 8 de agosto de 2026: Star 19,770 → 19,775, última versión v0.48.1 (8 de agosto de 2026).
-
 ## Qué aporta
 - Vea instantáneamente los límites de uso de todos los servicios de inteligencia artificial en la barra de menú
 - Sigue los tiempos de reinicio del servicio con una cuenta regresiva

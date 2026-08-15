@@ -26,6 +26,11 @@ Nein, heute wird es auch in den Bereichen Bild- und Tonverarbeitung erfolgreich 
 - [LLM](/de/dictionary/llm/)
 - [Foundation Model](/de/dictionary/foundation-model/)
 - [Generative AI](/de/dictionary/generative-ai/)
+- [NLP](/de/dictionary/nlp/)
+
+## Verwandte Werkzeuge
+- [Heretic](/de/discover/heretic/)
+- [Train LLM from Scratch](/de/discover/train-llm-from-scratch/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/transformer/

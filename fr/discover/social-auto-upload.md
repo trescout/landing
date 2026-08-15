@@ -7,15 +7,14 @@ social-auto-upload est un outil Python qui télécharge automatiquement vos vid�
 - Lisans: yok
 - GitHub Trending · 30 May 2026
 
-## Mise à jour
-- 2 août 2026 : Star 11 705 → 13 937, dernière version oh-v1.0 (10 avril 2024).
-
 ## Ce que ça vous apporte
 - Possibilité de télécharger sur plusieurs plateformes à la fois.
 - Automatisation des processus de distribution de contenu.
 - Flux de travail efficace qui fait gagner du temps.
 
 ## Note de responsabilité
+
+## Comment installer, comment utiliser ?
 **Connectez-vous à une plateforme**
 
 ```

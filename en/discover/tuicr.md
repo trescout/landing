@@ -6,10 +6,6 @@ Developed with the Rust language, tuicr is a terminal user interface-based code 
 - Rust
 - GitHub Trending · 2026-07-31
 
-## Update
-- August 6, 2026: Star 2,291 → 2,439, latest version v0.21.0 (August 5, 2026).
-- August 2, 2026: Star 1,940 → 2,291, latest version v0.20.0 (August 2, 2026).
-
 ## What you get
 - Quick code review in terminal with Vim shortcuts
 - Post comments directly to GitHub and GitLab

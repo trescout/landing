@@ -6,9 +6,6 @@ Wigolo est un outil qui fournit des capacités de recherche, d'extraction de don
 - TypeScript
 - GitHub Trending · 2026-07-19
 
-## Mise à jour
-- 2 août 2026 : Étoile 1 365 → 4 069, dernière version v0.2.1 (19 juillet 2026).
-
 ## Ce que ça vous apporte
 - Recherche et analyse gratuites sans clé API requise
 - Traitement et mise en cache des données locales indépendants du cloud

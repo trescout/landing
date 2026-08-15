@@ -29,5 +29,8 @@ Möglicherweise liegt eine Ineffizienz der Software vor oder Ihr System ist star
 - [Runtime](/de/dictionary/runtime/)
 - [Personal AI Infrastructure](/de/dictionary/personal-ai-infrastructure/)
 
+## Verwandte Werkzeuge
+- [Agentsview](/de/discover/agentsview/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ccusage/

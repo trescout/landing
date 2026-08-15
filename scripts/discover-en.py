@@ -183,29 +183,66 @@ def cmd_bloklari(sec_html):
 def bolumler(t):
     """Türkçe sayfadaki disc-sec bölümlerini İngilizceye çevirerek yeniden kur."""
     out = ""
-    for m in re.finditer(r'<section class="disc-sec"><h2>(.*?)</h2>(.*?)</section>', t, re.S):
+    # Desen "disc-sec" ile BAŞLAYAN sınıfı kabul eder · tam eşleşme aranırken
+    # `class="disc-sec disc-how"` taşıyan 46 Türkçe bölüm ("Nasıl kurulur, nasıl
+    # kullanılır?") beş dilde birden SESSİZCE düşüyordu · 47 aracın kurulum
+    # anlatımı yalnız Türkçede vardı (2026-08-15).
+    # \s* · bazı Türkçe sayfalar <section> ile <h2> arasına satır sonu koyuyor.
+    # Desen bitişik beklerken o sayfanın YEDİ bölümü birden düşüyordu
+    # (understand-anything · çeviride 9 başlıktan 3'ü kalmıştı).
+    for m in re.finditer(r'<section class="disc-sec[^"]*">\s*<h2>(.*?)</h2>(.*?)</section>', t, re.S):
         h2, govde = metin(m.group(1)), m.group(2)
         if h2 == "Bağlantılar":
             continue  # bağlantı bölümünü aşağıda kendimiz kuruyoruz
+        if h2 == "Güncelleme":
+            # Güncelleme bloğunu guncelleme_en() KATALOGDAN kuruyor · burada da
+            # kurulursa sayfa aynı bölümü İKİ KEZ gösteriyor. 2026-08-15'e kadar
+            # tam bunu yapıyordu: 370 Türkçe sayfanın çevirisinde "Updates"
+            # (tablodan, doğru etiket ve sayı biçimi) ile "Update" (buradan,
+            # makine çevirisi) yan yana duruyordu · beş dilde 1850 sayfa.
+            continue
         yeni_h2 = BASLIK_MAP.get(h2) or tr2en(h2)
-        if 'class="disc-wins"' in govde:
+        # Madde listeleri · SINIF ADINA BAKMADAN. Eskiden yalnız "disc-wins"
+        # tanınıyordu; aynı yapıdaki "disc-prompts" ve "disc-list" bölümleri
+        # else dalına düşüp <p> aranıyordu, bulunamayınca SESSİZCE atılıyordu
+        # (2026-08-15). Yeni bir liste sınıfı gelirse burası kendiliğinden alır.
+        liste = re.search(r'<ul class="(disc-[a-z-]+)">(.*?)</ul>', govde, re.S)
+        if liste and 'class="disc-cmd"' not in govde and 'class="disc-related"' not in govde:
             maddeler = "".join(f"<li>{esc(tr2en(metin(x)))}</li>"
-                               for x in re.findall(r"<li>(.*?)</li>", govde, re.S))
-            out += f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2><ul class="disc-wins">{maddeler}</ul></section>\n      '
-        elif 'class="disc-cmd"' in govde:
-            out += f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2>{cmd_bloklari(govde)}</section>\n      '
-        elif 'class="disc-ai"' in govde:
-            istem = tr2en(metin(blok(r'<p class="disc-ai-text">(.*?)</p>', govde)))
-            out += ('<section class="disc-sec"><h2>' + esc(yeni_h2) + '</h2><div class="disc-ai"><div class="disc-ai-head">'
-                    f'<span>{D["ajan_istem"]}</span>'
-                    f'<button type="button" class="disc-copy" aria-label="{D["kopyala_istem"]}">{D["kopyala"]}</button></div>'
-                    '<p class="disc-ai-text">' + esc(istem) + '</p></div></section>\n      ')
+                               for x in re.findall(r"<li>(.*?)</li>", liste.group(2), re.S))
+            out += (f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2>'
+                    f'<ul class="{liste.group(1)}">{maddeler}</ul></section>\n      ')
+        elif 'class="disc-cmd"' in govde or 'class="disc-ai"' in govde:
+            # Bir bölüm İKİSİNİ BİRDEN taşıyabiliyor (disc-how böyle: önce ajan
+            # istemi, sonra komutlar). Eskiden elif zinciriydi · ikisi bir arada
+            # olduğunda komut blokları düşüyordu.
+            ic = ""
+            if 'class="disc-ai"' in govde:
+                istem = tr2en(metin(blok(r'<p class="disc-ai-text">(.*?)</p>', govde)))
+                ic += ('<div class="disc-ai"><div class="disc-ai-head">'
+                       f'<span>{D["ajan_istem"]}</span>'
+                       f'<button type="button" class="disc-copy" aria-label="{D["kopyala_istem"]}">{D["kopyala"]}</button></div>'
+                       '<p class="disc-ai-text">' + esc(istem) + '</p></div>')
+            if 'class="disc-cmd"' in govde:
+                ic += cmd_bloklari(govde)
+            out += f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2>{ic}</section>\n      '
         elif 'class="disc-related"' in govde:
             cips = "".join(f'<a href="{D["onek"]}/dictionary/{s}/">{esc(metin(a))}</a>'
                            for s, a in re.findall(r'<a href="/dictionary/([^/]+)/">(.*?)</a>', govde, re.S)
                            if os.path.isdir(os.path.join(ROOT, LANG, "dictionary", s)))
             if cips:
                 out += f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2><div class="disc-related">{cips}</div></section>\n      '
+        elif 'class="disc-note"' in govde:
+            # Sorumluluk / kullanım notu · gövdesi <div class="disc-note">, <p> DEĞİL.
+            # else dalı <p> arıyordu, bulamayınca bölüm sessizce düşüyordu:
+            # 131 Türkçe sayfanın notu çevirilerde yalnız 34'ünde vardı ·
+            # "gizlilik ve rıza sizin sorumluluğunuzda" uyarısı da bunlardan
+            # biri (2026-08-15).
+            ic = blok(r'(<div class="disc-note">.*?</div>)', govde)
+            duz = tr2en(metin(ic))
+            # <strong> vurgusu kaynakta varsa koru · yoksa düz metin
+            out += (f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2>'
+                    f'<div class="disc-note">{esc(duz)}</div></section>\n      ')
         else:
             p = metin(blok(r"<p>(.*?)</p>", govde))
             link = blok(r'(<ul class="disc-links">.*?</ul>)', govde)
@@ -230,6 +267,21 @@ def olgular(t):
             out += (f'<div class="disc-fact"><span class="disc-fact-k">{esc(etiket)}</span>'
                     f'<span class="disc-fact-v">{esc(tr2en(v))}</span></div>')
     return f'<div class="disc-facts">{out}</div>\n      ' if out else ""
+
+
+def lisans_notu(t):
+    """Sayfa düzeyindeki lisans açıklaması · <div class="disc-note"><strong>Lisans:</strong> …
+
+    Bu blok hiçbir <section> içinde DEĞİL, bu yüzden bolumler() görmüyordu ·
+    46 Türkçe sayfada var, çevirilerde HİÇ yoktu (2026-08-15). Olgular
+    satırında yalnız lisansın ADI ("MIT") duruyor, ne izin verdiği burada
+    yazıyor · okur için asıl bilgi bu.
+    """
+    m = re.search(r'<div class="disc-note"><strong>Lisans:</strong>(.*?)</div>', t, re.S)
+    if not m:
+        return ""
+    return (f'<div class="disc-note"><strong>{esc(D["lisans"])}:</strong> '
+            f'{esc(tr2en(metin(m.group(1))))}</div>\n      ')
 
 
 def guncelleme_en(gs):
@@ -410,7 +462,7 @@ def build(slug, cat, chrome):
              + (f'<span class="disc-momentum">{esc(mom_en)}</span>' if mom_en else "") + '</div>\n'
              f'<h1 class="disc-title">{esc(headline)}</h1>\n<p class="disc-lead">{esc(lead)}</p>\n'
              f'<ul class="disc-meta">{metas}</ul>\n      '
-             + not_html + guncelleme_en(c.get("guncellemeler")) + shot + bolumler(t) + olgular(t) +
+             + not_html + guncelleme_en(c.get("guncellemeler")) + shot + bolumler(t) + olgular(t) + lisans_notu(t) +
              f'<section class="disc-sec"><h2>{D["baglantilar"]}</h2><ul class="disc-links">'
              f'<li><a href="{esc(url)}" target="_blank" rel="noopener">{D["depo"]}</a></li>'
              f'<li><a href="{canon_tr}">{D["turkce_oku"]}</a></li></ul></section>\n'

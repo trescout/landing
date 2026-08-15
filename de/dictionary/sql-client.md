@@ -23,5 +23,8 @@ Ja, Sie müssen grundlegende SQL-Befehle kennen, um diese Tools effektiv nutzen 
 - [Database](/de/dictionary/database/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Chat2DB](/de/discover/chat2db/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/sql-client/

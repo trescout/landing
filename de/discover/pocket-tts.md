@@ -6,9 +6,6 @@ Pocket-TTS wurde von Kyutai Labs entwickelt und ist ein leichtes Text-to-Speech-
 - Python
 - GitHub Trending · 2026-07-08
 
-## Aktualisieren
-- 2. August 2026: Star 6.350 → 7.994, neueste Version v2.1.0 (4. Mai 2026).
-
 ## Was es bringt
 - Funktioniert nur mit dem Prozessor, ohne dass eine Grafikkarte erforderlich ist
 - Bietet eine schnelle Tonwiedergabe bei geringem Ressourcenverbrauch

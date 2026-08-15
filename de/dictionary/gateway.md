@@ -24,5 +24,11 @@ Nein, Ihr lokales Netzwerk kann keine Verbindung zur Außenwelt herstellen und b
 - [Networking Stack](/de/dictionary/networking-stack/)
 - [Proxy](/de/dictionary/proxy/)
 
+## Verwandte Werkzeuge
+- [Fanqiang](/de/discover/fanqiang/)
+- [OmniRoute](/de/discover/omniroute/)
+- [OpenWA](/de/discover/openwa/)
+- [Grok2api](/de/discover/grok2api/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/gateway/

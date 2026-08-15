@@ -6,9 +6,6 @@ Developed for Claude Code and various coding agents, this library offers more th
 - Python
 - GitHub Trending · 2026-07-05
 
-## Update
-- August 2, 2026: Star 20,244 → 23,654, latest version v2.9.0 (May 28, 2026).
-
 ## What you get
 - More than 350 ready-made skill packs
 - Broad expertise from engineering to marketing

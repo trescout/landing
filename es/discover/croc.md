@@ -6,12 +6,6 @@ Croc es una herramienta que proporciona transferencia segura de archivos y datos
 - Go
 - GitHub Trending · 2026-07-22
 
-## Actualizar
-- 12 de agosto de 2026: Star 39.574 → 39.672, última versión v11.1.0 (11 de agosto de 2026).
-- 10 de agosto de 2026: Star 39,444 → 39,574, última versión v11.0.3 (10 de agosto de 2026).
-- 7 de agosto de 2026: Star 39,265 → 39,444, última versión v11.0.2 (6 de agosto de 2026).
-- 2 de agosto de 2026: Star 36,970 → 39,265, última versión v11.0.1 (31 de julio de 2026).
-
 ## Qué aporta
 - Transmisión de datos cifrada de extremo a extremo
 - Compatibilidad entre diferentes sistemas operativos

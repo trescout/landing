@@ -6,9 +6,6 @@ Maigret scans more than 3000 websites based on usernames and creates a dossier o
 - Python
 - GitHub Trending · 2026-06-11
 
-## Update
-- August 2, 2026: Star 32,267 → 36,075, last release main (April 26, 2026).
-
 ## What you get
 - It scans more than 3000 sites based on username.
 - It creates a detailed digital footprint file for people.

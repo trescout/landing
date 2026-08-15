@@ -6,10 +6,6 @@ La bibliothèque Outlines permet de présenter les réponses de grands modèles 
 - Python
 - GitHub Trending · 2026-07-22
 
-## Mise à jour
-- 7 août 2026 : Star 15 477 → 15 525, dernière version 1.3.3 (6 août 2026).
-- 2 août 2026 : Star 14 917 → 15 477, dernière version 1.3.2 (20 juillet 2026).
-
 ## Ce que ça vous apporte
 - Contraint les sorties du modèle selon des schémas prédéfinis
 - Entièrement compatible avec les types de données JSON ou Python

@@ -6,9 +6,6 @@ Desenvolvido pela Deno, o Celld oferece uma infraestrutura de objetos duráveis 
 - Rust
 - GitHub Trending · 2026-08-08
 
-## Atualizar
-- 8 de agosto de 2026: Star 2.264 → 2.266, versão mais recente v0.1.0 (5 de agosto de 2026).
-
 ## O que você ganha
 - Fornece gerenciamento de estado escalonável em sua própria infraestrutura.
 - Ele armazena cada objeto como um banco de dados SQLite independente.

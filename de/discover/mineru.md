@@ -6,9 +6,6 @@ MinerU konvertiert komplexe Dokumentformate wie PDF und Office in das Markdown- 
 - Python
 - GitHub Trending · 2026-06-26
 
-## Aktualisieren
-- 2. August 2026: Star 69.899 → 76.547, letzte Version Mineru-3.4.4-veröffentlicht (10. Juli 2026).
-
 ## Was es bringt
 - Konvertiert PDF- und Office-Dateien in die Auszeichnungssprache
 - Bereitet unstrukturierte Daten für Agenten-Workflows vor

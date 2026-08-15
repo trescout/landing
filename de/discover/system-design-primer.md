@@ -13,7 +13,6 @@ System Design Primer bietet eine umfassende Lernressource für diejenigen, die u
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Dieses Handbuch ist ein Dokumentations-Repository auf GitHub. Um zu beginnen, können Sie direkt die GitHub-Seite des Projekts besuchen, die Inhaltstitel überprüfen und mit dem Lesen der zu Systemdesignfragen erstellten Arbeitsnotizen beginnen. Wenn Sie die Informationen vertiefen möchten, können Sie Anki-Dateien (Software, die das Auswendiglernen mit Karteikarten ermöglicht) über die entsprechenden Links herunterladen und verwenden.
 
 ## Verwandte Begriffe aus dem Glossar
 

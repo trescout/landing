@@ -5,9 +5,6 @@ El curso Production-Agentic-Rag ofrece capacitación práctica en el desarrollo 
 - ★ 8.216
 - GitHub Trending · 2026-06-03
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 6536 → 8216, última versión semana 7.0 (26 de noviembre de 2025).
-
 ## Qué aporta
 - Establecer la infraestructura necesaria para los sistemas RAG a nivel de producción.
 - Aplicar métodos híbridos de búsqueda y procesamiento inteligente de datos.

@@ -6,11 +6,6 @@ Agentsview is a monitoring tool that provides local-first session intelligence a
 - Go
 - GitHub Trending · 2026-06-12
 
-## Update
-- August 6, 2026: Star 4,683 → 4,714, latest version v0.40.1 (August 4, 2026).
-- August 3, 2026: Star 4,672 → 4,683, latest version v0.40.0 (August 3, 2026).
-- August 2, 2026: Star 1,867 → 4,672, latest version v0.39.0 (July 27, 2026).
-
 ## What you get
 - Monitor the sessions of all your artificial intelligence coding agents from a single center.
 - Quickly calculate used token amounts and costs.

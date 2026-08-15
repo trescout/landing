@@ -6,9 +6,6 @@ El repositorio de código abierto NGINX continúa desarrollándose en C como ser
 - C
 - GitHub Trending · 2026-06-07
 
-## Actualizar
-- 2 de agosto de 2026: Star 30,727 → 31,312, última versión: 1.31.3 (15 de julio de 2026).
-
 ## Qué aporta
 - Servidor web de alto rendimiento y gestión de proxy inverso.
 - Funciones avanzadas de equilibrio de carga y almacenamiento en caché de contenido.

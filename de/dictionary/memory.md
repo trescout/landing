@@ -27,5 +27,13 @@ Auf den meisten Systemen können Sie diese Daten mit dem Befehl „Speicher lös
 - [Memory API](/de/dictionary/memory-api/)
 - [RAG](/de/dictionary/rag/)
 
+## Verwandte Werkzeuge
+- [Mempalace](/de/discover/mempalace/)
+- [Codebase Memory MCP](/de/discover/codebase-memory-mcp/)
+- [Cognee](/de/discover/cognee/)
+- [TencentDB-Agent-Memory](/de/discover/tencentdb-agent-memory/)
+- [Pgrust](/de/discover/pgrust/)
+- [Hivemind](/de/discover/hivemind/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/memory/

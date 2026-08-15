@@ -6,9 +6,6 @@ Voice-pro é uma interface de código aberto que combina ferramentas de convers�
 - Python
 - GitHub Trending · 2026-08-02
 
-## Atualizar
-- 2 de agosto de 2026: Star 11.859 → 11.965, versão mais recente v4.0.0 (13 de julho de 2026).
-
 ## O que você ganha
 - Análise e tradução de áudio de vídeos do YouTube
 - Copiando áudio e convertendo texto em áudio com inteligência artificial

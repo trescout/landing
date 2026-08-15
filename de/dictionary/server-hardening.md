@@ -24,5 +24,8 @@ Es sollte ständig überprüft werden, wenn Systemaktualisierungen und neue Dien
 - [Vulnerability Scanning](/de/dictionary/vulnerability-scanning/)
 - [Cybersecurity Skills](/de/dictionary/cybersecurity-skills/)
 
+## Verwandte Werkzeuge
+- [How-To-Secure-A-Linux-Server](/de/discover/how-to-secure-a-linux-server/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/server-hardening/

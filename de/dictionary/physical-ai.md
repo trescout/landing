@@ -27,5 +27,8 @@ Nein, im Gegensatz zu einfachen Maschinen, die lediglich grundlegende Befehle au
 - [Autonomous Agent](/de/dictionary/autonomous-agent/)
 - [World Model](/de/dictionary/world-model/)
 
+## Verwandte Werkzeuge
+- [Cosmos](/de/discover/cosmos/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/physical-ai/

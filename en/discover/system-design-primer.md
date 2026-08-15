@@ -13,7 +13,6 @@ System Design Primer offers a comprehensive learning resource for those who want
 
 ## Getting started
 - Official source →
-This guide is a documentation repository on GitHub. To get started, you can directly visit the project's GitHub page, review the content titles, and start reading the working notes on system design issues. If you want to reinforce the information, you can download and use Anki (software that allows memorization with flashcards) files from the relevant links.
 
 ## Related dictionary terms
 

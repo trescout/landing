@@ -27,5 +27,9 @@ Abhängig von der Größe des Modells und der Datenmenge kann es Tage oder sogar
 - [Machine Learning](/de/dictionary/machine-learning/)
 - [Foundation Model](/de/dictionary/foundation-model/)
 
+## Verwandte Werkzeuge
+- [System Prompts and Models of AI Tools](/de/discover/system-prompts-and-models-of-ai-tools/)
+- [UI-TARS-desktop](/de/discover/ui-tars-desktop/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-models/

@@ -6,9 +6,6 @@ Worldmonitor bietet ein globales Echtzeit-Intelligence-Dashboard, das KI-gestüt
 - TypeScript
 - GitHub Trending · 2026-06-20
 
-## Aktualisieren
-- 2. August 2026: Star 57.469 → 78.032, neueste Version v2.5.23 (1. März 2026).
-
 ## Was es bringt
 - Zusammenfassung von mehr als 500 Nachrichtenquellen mit künstlicher Intelligenz
 - Visuelle Analyse mit 3D-Globus- und WebGL-Kartenunterstützung

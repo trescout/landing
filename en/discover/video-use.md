@@ -6,10 +6,6 @@ The video-use library allows coding agents to automate video editing processes. 
 - Python
 - GitHub Trending · 2026-06-29
 
-## Update
-- August 6, 2026: Star 18,290 → 19,784.
-- August 2, 2026: Star 11,471 → 18,290.
-
 ## What you get
 - Automatically removes filler words and silent spaces
 - Applies professional fade effects to audio transitions

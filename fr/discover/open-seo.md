@@ -6,10 +6,6 @@ Open SEO offre une alternative open source aux outils payants comme Semrush et A
 - TypeScript
 - GitHub Trending · 2026-06-26
 
-## Mise à jour
-- 10 août 2026 : Star 10 091 → 11 139, dernière version v0.1.4 (9 août 2026).
-- 2 août 2026 : Étoile 2 736 → 10 091, dernière version v0.1.3 (30 juillet 2026).
-
 ## Ce que ça vous apporte
 - Payez uniquement ce que vous utilisez, sans frais d'abonnement
 - Analyse des données SEO directe avec des agents d'intelligence artificielle

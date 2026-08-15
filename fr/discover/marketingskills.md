@@ -6,9 +6,6 @@ La bibliothèque de compétences marketing développée pour Claude Code et les 
 - JavaScript
 - GitHub Trending · 2026-07-06
 
-## Mise à jour
-- 2 août 2026 : Étoile 36 679 → 42 728, dernière version v2.10.0 (27 juillet 2026).
-
 ## Ce que ça vous apporte
 - Améliore les performances de l'IA dans les tâches orientées marketing
 - Offre des flux de travail spécialisés dans des domaines tels que le référencement, la rédaction et le CRO

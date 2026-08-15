@@ -5,9 +5,6 @@ Continuar es un agente de codificación de código abierto diseñado para automa
 - ★ 35.282
 - GitHub Trending · 2026-06-18
 
-## Actualizar
-- 2 de agosto de 2026: Star 34.017 → 35.282, última versión v2.0.0-vscode (19 de junio de 2026).
-
 ## Qué aporta
 - Acelera los procesos de codificación y depuración.
 - Proporciona un espacio de trabajo seguro con modelos en el idioma local.

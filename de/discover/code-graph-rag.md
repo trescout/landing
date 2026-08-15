@@ -6,9 +6,6 @@ Code-Graph-Rag kombiniert Wissensgraphen und Fetch-Assisted Generation (RAG), um
 - Python
 - GitHub Trending · 2026-08-10
 
-## Aktualisieren
-- 10. August 2026: Star 3.153 → 3.158, neueste Version v0.0.589 (10. August 2026).
-
 ## Was es bringt
 - Erkennen Sie komplexe Zusammenhänge, indem Sie die Codebasis in einen Wissensgraphen umwandeln
 - Erhalten Sie Antworten zur Codestruktur, indem Sie Fragen in natürlicher Sprache stellen

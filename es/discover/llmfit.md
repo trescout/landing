@@ -6,12 +6,6 @@ Desarrollado con el lenguaje Rust, llmfit escanea cientos de grandes modelos y p
 - Rust
 - GitHub Trending · 2026-07-22
 
-## Actualizar
-- 10 de agosto de 2026: Star 31,111 → 31,288, última versión v1.1.9 (9 de agosto de 2026).
-- 4 de agosto de 2026: Star 31.076 → 31.111, última versión v1.1.8 (4 de agosto de 2026).
-- 3 de agosto de 2026: Star 31.060 → 31.076, última versión v1.1.7 (3 de agosto de 2026).
-- 2 de agosto de 2026: Star 30,309 → 31,060, última versión v1.1.6 (21 de julio de 2026).
-
 ## Qué aporta
 - Detecta automáticamente modelos compatibles con tu sistema
 - Ordena por memoria, velocidad y calidad.

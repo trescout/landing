@@ -6,9 +6,6 @@ O conjunto de dados de exercícios (conjunto de dados de exercícios) compartilh
 - HTML
 - GitHub Trending · 2026-07-01
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 7.552 → 18.515.
-
 ## O que você ganha
 - Dados estruturados para 1.324 exercícios físicos diferentes
 - Instruções de aplicação passo a passo em 6 idiomas, incluindo turco

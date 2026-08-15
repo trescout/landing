@@ -5,9 +5,6 @@ LibreTranslate bietet eine kostenlose Open-Source-Schnittstelle (API) für masch
 - ★ 15.834
 - GitHub Trending · 2026-06-19
 
-## Aktualisieren
-- 2. August 2026: Star 15.075 → 15.834, neueste Version v1.9.6 (26. Mai 2026).
-
 ## Was es bringt
 - Befreien Sie sich von abhängigen Diensten wie Google oder Azure
 - Übersetzen Sie offline ohne Internetverbindung

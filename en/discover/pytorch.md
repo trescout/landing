@@ -6,9 +6,6 @@ PyTorch is a machine learning library that offers powerful graphics processing u
 - Python
 - GitHub Trending · 2026-07-03
 
-## Update
-- August 2, 2026: Star 101,297 → 102,131, latest version v2.13.0 (July 8, 2026).
-
 ## What you get
 - GPU powered high performance tensor calculations
 - Flexible model development with dynamic neural networks

@@ -5,9 +5,6 @@ OpenCV, una biblioteca de visión por computadora de código abierto, ofrece una
 - ★ 90.258
 - GitHub Trending · 2026-06-08
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 88,274 → 90,258, última versión 5.0.0 (6 de junio de 2026).
-
 ## Qué aporta
 - Analizar datos visuales en tiempo real
 - Gestione los procesos de procesamiento de imágenes con infraestructura estándar

@@ -28,5 +28,10 @@ Wenn Aufgaben sehr komplex werden, werden kleinere Spezialmodelle kombiniert, um
 - [Subagents](/de/dictionary/subagents/)
 - [Autonomous Agent](/de/dictionary/autonomous-agent/)
 
+## Verwandte Werkzeuge
+- [TradingAgents](/de/discover/tradingagents/)
+- [Gastown](/de/discover/gastown/)
+- [AI Berkshire](/de/discover/ai-berkshire/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/multi-agent/

@@ -6,9 +6,6 @@ Bun est un outil hautes performances qui combine le runtime JavaScript, le gesti
 - Rust
 - GitHub Trending · 2026-07-11
 
-## Mise à jour
-- 2 août 2026 : Star 94.374 → 95.153, dernière version bun-v1.3.14 (13 mai 2026).
-
 ## Ce que ça vous apporte
 - Exécution rapide compatible avec Node.js
 - Gestionnaire de packages et outil de test sous un même toit

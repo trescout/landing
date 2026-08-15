@@ -7,13 +7,25 @@ train-llm-from-scratch ofrece un método simple, paso a paso, para entrenar un m
 - MIT
 - GitHub Trending · 30 May 2026
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 2086 → 8864.
-
 ## ¿Qué aprendes?
 - Flujo de un extremo a otro que cubre la descarga de datos, la capacitación y la producción de textos.
 - Método de aplicación basado en el funcionamiento interno del LLM.
 - Uso práctico con portátiles de uso directo.
+
+## ¿Cómo instalar, cómo utilizar?
+**Repositorio de clones**
+
+```
+git clone https://github.com/FareedKhan-dev/train-llm-from-scratch.git
+cd train-llm-from-scratch
+```
+
+**Instalar dependencias**
+
+```
+pip install -r requirements.txt
+```
+
 
 ## Términos relacionados del glosario
 

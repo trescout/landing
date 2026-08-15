@@ -5,9 +5,6 @@ LibreTranslate propose une interface de traduction automatique (API) gratuite et
 - ★ 15 834
 - GitHub Trending · 2026-06-19
 
-## Mise à jour
-- 2 août 2026 : Star 15 075 → 15 834, dernière version v1.9.6 (26 mai 2026).
-
 ## Ce que ça vous apporte
 - Débarrassez-vous des services dépendants comme Google ou Azure
 - Traduire hors ligne sans connexion Internet

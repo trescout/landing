@@ -6,11 +6,6 @@ Dieses Open-Source-Buch über Agenten der künstlichen Intelligenz (KI-Agenten) 
 - Python
 - GitHub Trending · 2026-07-20
 
-## Aktualisieren
-- 9. August 2026: Stern 33.116 → 34.874.
-- 6. August 2026: Stern 29.814 → 33.116.
-- 2. August 2026: Stern 7.362 → 29.814.
-
 ## Was es bringt
 - Lernen Sie die Arbeitsprinzipien von Agenten der künstlichen Intelligenz kennen
 - Erwerben Sie praktische Fähigkeiten anhand praktischer Codebeispiele

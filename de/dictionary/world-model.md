@@ -23,6 +23,7 @@ Nein, die meisten aktuellen Sprachmodelle konzentrieren sich nur auf Textstatist
 
 
 ## Verwandte Begriffe
+- [AGI](/de/dictionary/agi/)
 - [Generative AI](/de/dictionary/generative-ai/)
 - [AI Agent](/de/dictionary/ai-agent/)
 - [Foundation Model](/de/dictionary/foundation-model/)

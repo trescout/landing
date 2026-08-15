@@ -6,9 +6,6 @@ Autoremesher é uma ferramenta que converte automaticamente estruturas de superf
 - C++
 - GitHub Trending · 2026-07-09
 
-## Atualizar
-- 2 de agosto de 2026: Star 2.123 → 3.087, última versão 1.0.0 (6 de julho de 2026).
-
 ## O que você ganha
 - Transforma modelos complexos em malhas retangulares limpas
 - Fornece topologia otimizada para processos de animação

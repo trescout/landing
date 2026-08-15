@@ -24,6 +24,18 @@ Ja, aber die Aufnahme von Änderungen in das Hauptprojekt hängt in der Regel vo
 
 ## Verwandte Begriffe
 - [Open Weights](/de/dictionary/open-weights/)
+- [Self-hosting](/de/dictionary/self-hosting/)
+- [Artificial Intelligence](/de/dictionary/artificial-intelligence/)
+
+## Verwandte Werkzeuge
+- [Superpowers](/de/discover/superpowers/)
+- [ECC](/de/discover/ecc/)
+- [MarkItDown](/de/discover/markitdown/)
+- [Claude Code](/de/discover/claude-code/)
+- [MoneyPrinterTurbo](/de/discover/moneyprinterturbo/)
+- [claude-mem](/de/discover/claude-mem/)
+- [Opencv](/de/discover/opencv/)
+- [RuView](/de/discover/ruview/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/open-source/

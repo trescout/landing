@@ -6,9 +6,6 @@ This guide developed for Claude Code discusses the transition processes from vib
 - HTML
 - GitHub Trending · 2026-06-24
 
-## Update
-- August 2, 2026: Star 59,766 → 63,889.
-
 ## What you get
 - Learn agent-based engineering processes.
 - Apply best practices for Claude Code.
@@ -16,7 +13,6 @@ This guide developed for Claude Code discusses the transition processes from vib
 
 ## Getting started
 - Official source →
-This tool is not a software library, but a comprehensive guide to using Claude Code. To get started, you can review the links in the table in the GitHub repository to learn about topics such as sub-agents, commands, and skills, and visit the official Claude Code documentation.
 
 ## Related dictionary terms
 

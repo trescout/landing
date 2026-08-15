@@ -24,5 +24,15 @@ Es mag auf den ersten Blick etwas ungewohnt erscheinen, aber sobald Sie ein paar
 - [CLI](/de/dictionary/cli/)
 - [Linux Server Security](/de/dictionary/linux-server-security/)
 
+## Verwandte Werkzeuge
+- [Superpowers](/de/discover/superpowers/)
+- [Agency Agents](/de/discover/agency-agents/)
+- [NVM](/de/discover/nvm/)
+- [Agent Skills](/de/discover/agent-skills/)
+- [Taste Skill](/de/discover/taste-skill/)
+- [Destructive Command Guard](/de/discover/destructive-command-guard/)
+- [Council of High Intelligence](/de/discover/council-of-high-intelligence/)
+- [Claude Code Harness](/de/discover/claude-code-harness/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/shell/

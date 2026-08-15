@@ -6,9 +6,6 @@ SpiderFoot es una herramienta de Python que automatiza la recopilación de intel
 - Python
 - GitHub Trending · 2026-06-22
 
-## Actualizar
-- 2 de agosto de 2026: Star 18,921 → 20,026, última versión v4.0 (7 de abril de 2022).
-
 ## Qué aporta
 - Recopilación automática de datos con más de 200 módulos.
 - Interfaz basada en web o soporte de línea de comando

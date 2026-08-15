@@ -5,9 +5,6 @@ Flowsint bietet eine visuelle, flexible und erweiterbare graphbasierte Untersuch
 - ★ 7.528
 - GitHub Trending · 2026-06-03
 
-## Aktualisieren
-- 2. August 2026: Star 4.693 → 7.528, neueste Version v1.2.11 (1. Juli 2026).
-
 ## Was es bringt
 - Analysieren Sie Beziehungen zwischen Entitäten in einer visuellen Diagrammoberfläche
 - Verarbeiten Sie IP-, Domain- und Social-Media-Daten mit automatischen Anreicherern

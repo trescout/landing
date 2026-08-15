@@ -6,12 +6,6 @@ Hyperframes wurde von Heygen entwickelt und bietet ein Framework, das HTML-Codes
 - TypeScript
 - GitHub Trending · 2026-06-23
 
-## Aktualisieren
-- 12. August 2026: Star 40.461 → 40.617, neueste Version v0.7.107 (11. August 2026).
-- 11. August 2026: Star 40.280 → 40.461, neueste Version v0.7.106 (11. August 2026).
-- 10. August 2026: Star 40.114 → 40.280, neueste Version v0.7.104 (10. August 2026).
-- 9. August 2026: Star 39.984 → 40.114, neueste Version v0.7.102 (8. August 2026).
-
 ## Was es bringt
 - Videoproduktion mit HTML und CSS
 - Kompatibel mit Agenten der künstlichen Intelligenz

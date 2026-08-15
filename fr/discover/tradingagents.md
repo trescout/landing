@@ -5,9 +5,6 @@ TradingAgents est un framework multi-agent basé sur LLM développé pour le tra
 - ★ 95 338
 - GitHub Trending · 2026-06-02
 
-## Mise à jour
-- 2 août 2026 : Star 82 054 → 95 338, dernière version v0.3.1 (5 juillet 2026).
-
 ## Ce que ça vous apporte
 - Il gère les processus d’analyse financière et de développement de stratégies avec des agents autonomes.
 - Travaille en collaboration avec des rôles d'experts tels que l'analyste, le chercheur et la gestion des risques.

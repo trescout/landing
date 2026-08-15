@@ -27,5 +27,8 @@ Die Einrichtung und Verwaltung erfordert Fachwissen, aber die Einblicke, die es 
 - [Graph-based Investigation](/de/dictionary/graph-based-investigation/)
 - [Database](/de/dictionary/database/)
 
+## Verwandte Werkzeuge
+- [Cognee](/de/discover/cognee/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/knowledge-graph-engine/

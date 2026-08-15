@@ -6,12 +6,6 @@ CopilotKit bietet einen auf React und Angular basierenden Frontend-Stack für di
 - TypeScript
 - GitHub Trending · 2026-06-06
 
-## Aktualisieren
-- 11. August 2026: Star 36.582 → 36.678, neueste Version v1.67.1 (10. August 2026).
-- 7. August 2026: Star 36.508 → 36.582, neueste Version v1.66.4 (7. August 2026).
-- 6. August 2026: Star 36.438 → 36.508, neueste Version v1.66.2 (4. August 2026).
-- 4. August 2026: Star 36.415 → 36.438, letzte Version Angular/v0.3.1 (3. August 2026).
-
 ## Was es bringt
 - Es fügt Anwendungen dynamische und intelligente Schnittstellen hinzu.
 - Es ermöglicht den Datenaustausch in Echtzeit zwischen Agenten der künstlichen Intelligenz und der Benutzeroberfläche.

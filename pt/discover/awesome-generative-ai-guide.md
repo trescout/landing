@@ -13,7 +13,6 @@ O repositório awesome-generative-ai-guide coleta pesquisas atuais, recursos de 
 
 ## Como começar
 - Fonte oficial →
-Esta ferramenta não requer nenhuma instalação. Visitando a página oficial no GitHub, você pode revisar os temas de seu interesse e acessar os cursos gratuitos, roteiros e documentos técnicos oferecidos por meio de links diretos.
 
 ## Termos relacionados do glossário
 

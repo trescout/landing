@@ -5,10 +5,6 @@ Impeccable is a design language library developed to improve the design outputs 
 - ★ 56,704
 - GitHub Trending · 2026-06-02
 
-## Update
-- August 7, 2026: Star 53,997 → 56,704, latest release ext-v1.3.1 (July 30, 2026).
-- August 2, 2026: Star 33,104 → 53,997, latest release ext-v1.3.1 (July 30, 2026).
-
 ## What you get
 - Provides standardized design language and visual consistency for AI models.
 - It accelerates design control, improvement and user experience processes with 23 different commands.

@@ -6,9 +6,6 @@ Likec4 est un outil qui visualise l'architecture logicielle directement à parti
 - TypeScript
 - GitHub Trending · 2026-07-23
 
-## Mise à jour
-- 2 août 2026 : Étoile 4 419 → 5 328, dernière version v1.59.2 (22 juillet 2026).
-
 ## Ce que ça vous apporte
 - Il crée des schémas architecturaux qui sont mis à jour simultanément avec votre base de code.
 - Il propose un langage de modélisation flexible et personnalisable basé sur le modèle C4.

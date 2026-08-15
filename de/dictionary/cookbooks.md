@@ -23,5 +23,8 @@ Nein, der klügste Weg besteht nicht darin, das Rad neu zu erfinden und Best Pra
 - [Framework](/de/dictionary/framework/)
 - [Tech Stack](/de/dictionary/tech-stack/)
 
+## Verwandte Werkzeuge
+- [Claude Cookbooks](/de/discover/claude-cookbooks/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cookbooks/

@@ -6,10 +6,6 @@ Desarrollado con el lenguaje Rust, tuicr es una herramienta de revisión de cód
 - Rust
 - GitHub Trending · 2026-07-31
 
-## Actualizar
-- 6 de agosto de 2026: Star 2291 → 2439, última versión v0.21.0 (5 de agosto de 2026).
-- 2 de agosto de 2026: Star 1940 → 2291, última versión v0.20.0 (2 de agosto de 2026).
-
 ## Qué aporta
 - Revisión rápida de código en terminal con atajos de Vim
 - Publicar comentarios directamente en GitHub y GitLab

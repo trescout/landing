@@ -6,9 +6,6 @@ PhotoGIMP offers a patch that makes the GIMP interface look familiar to Photosho
 - CSS
 - GitHub Trending · 2026-07-09
 
-## Update
-- August 2, 2026: Star 15,195 → 17,197, last version 3.1 (July 11, 2026).
-
 ## What you get
 - Same hotkeys as Photoshop
 - Vehicle layout you are accustomed to

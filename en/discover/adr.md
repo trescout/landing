@@ -6,9 +6,6 @@ Developed by Uber, ADR protects corporate AI agents with observability, security
 - Python
 - GitHub Trending · 2026-08-05
 
-## Update
-- 6 August 2026: Star 782 → 1.123, latest version sensor-v1.0.0 (31 July 2026).
-
 ## What you get
 - It monitors the actions taken by AI agents, allowing you to understand what they do and why they do it.
 - Tests agent security with over 300 missions against 17 different attack techniques.

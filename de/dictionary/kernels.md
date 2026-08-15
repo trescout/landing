@@ -27,5 +27,8 @@ Ja, zum Beispiel haben der Linux-Kernel und der Windows-Kernel unterschiedliche 
 - [Operating System for Robotics](/de/dictionary/operating-system-for-robotics/)
 - [System Programming Language](/de/dictionary/system-programming-language/)
 
+## Verwandte Werkzeuge
+- [FlashKDA](/de/discover/flashkda/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/kernels/

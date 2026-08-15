@@ -5,10 +5,6 @@ Vite bietet eine schnelle Entwicklungsumgebung und ein Build-Tool für moderne W
 - ★ 82.245
 - GitHub Trending · 2026-06-07
 
-## Aktualisieren
-- 7. August 2026: Star 82.169 → 82.245, letzte Versionplugin-legacy@8.2.3 (6. August 2026).
-- 2. August 2026: Star 81.238 → 82.169, letzte Version create-vite@9.1.2 (30. Juli 2026).
-
 ## Was es bringt
 - Sofortiger Serverstart dank nativer ES-Module
 - Unterbrechungsfreier Entwicklungsprozess mit schnellem Modulaustausch

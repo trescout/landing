@@ -6,9 +6,6 @@ Maigret verifica mais de 3.000 sites com base em nomes de usuário e cria um dos
 - Python
 - GitHub Trending · 2026-06-11
 
-## Atualizar
-- 2 de agosto de 2026: Star 32.267 → 36.075, último lançamento principal (26 de abril de 2026).
-
 ## O que você ganha
 - Ele verifica mais de 3.000 sites com base no nome de usuário.
 - Ele cria um arquivo de pegada digital detalhado para as pessoas.

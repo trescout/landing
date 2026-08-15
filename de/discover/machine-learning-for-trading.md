@@ -5,9 +5,6 @@ Diese von Stefan Jansen erstellte Ressource bietet umfassende Codebeispiele und 
 - ★ 20.241
 - GitHub Trending · 2026-06-02
 
-## Aktualisieren
-- 2. August 2026: Star 18.065 → 20.241, neueste Version v3.0.0-Artefakte (24. Juli 2026).
-
 ## Was es bringt
 - End-to-End-Strategieentwicklung mit Finanzdaten
 - Praxisnahe Fallstudien für neun verschiedene Märkte

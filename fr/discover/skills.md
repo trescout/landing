@@ -6,11 +6,6 @@ La bibliothèque de compétences développée par Google propose des outils bas�
 - Python
 - GitHub Trending · 2026-06-09
 
-## Mise à jour
-- 11 août 2026 : Étoile 16 451 → 17 658.
-- 8 août 2026 : Étoile 15 389 → 16 451.
-- 2 août 2026 : Étoile 12 675 → 15 389.
-
 ## Ce que ça vous apporte
 - Il donne aux agents d’intelligence artificielle la possibilité d’interagir avec les produits Google.
 - Fournit des outils standardisés pour les services Google Cloud.

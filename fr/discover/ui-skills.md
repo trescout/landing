@@ -6,9 +6,6 @@ Développé pour les ingénieurs de conception, ui-skills rassemble les aptitude
 - TypeScript
 - GitHub Trending · 2026-07-17
 
-## Mise à jour
-- 2 août 2026 : Étoile 4 436 → 6 838, dernière version v0.2.3 (22 juin 2026).
-
 ## Ce que ça vous apporte
 - Carte des compétences techniques dans les processus de développement d'interfaces
 - Combler le fossé entre la conception et le codage

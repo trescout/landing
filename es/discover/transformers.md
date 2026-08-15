@@ -6,9 +6,6 @@ Desarrollada por Hugging Face, Transformers es una biblioteca que se utiliza par
 - Python
 - GitHub Trending · 2026-08-12
 
-## Actualizar
-- 12 de agosto de 2026: Star 163,880 → 163,881, última versión v5.15.0 (10 de agosto de 2026).
-
 ## Qué aporta
 - Proporciona acceso a modelos de texto, imagen y sonido.
 - Facilita el ajuste de modelos.

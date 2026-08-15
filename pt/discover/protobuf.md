@@ -6,9 +6,6 @@ Desenvolvidos pelo Google, os buffers de protocolo são um formato de intercâmb
 - C++
 - GitHub Trending · 2026-07-18
 
-## Atualizar
-- 2 de agosto de 2026: Star 71.559 → 71.674, versão mais recente v35.1 (11 de junho de 2026).
-
 ## O que você ganha
 - Transferência eficiente de dados binários entre sistemas
 - Serialização de dados independente de idioma
@@ -32,7 +29,6 @@ protoc --cpp_out=. dosya.proto
 
 ## Como começar
 - Fonte oficial →
-Para começar a usar o Protobuf, você pode visitar o site de documentação oficial ou baixar binários pré-compilados adequados para o seu sistema operacional na página de versões do GitHub. Para instalar bibliotecas de tempo de execução específicas para a linguagem de programação usada, você deve seguir as instruções nos diretórios de origem relevantes.
 
 ## Termos relacionados do glossário
 

@@ -7,9 +7,6 @@ FreeDomain bietet einen kostenlosen Domainnamen-Service, damit jeder eine digita
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
 
-## Aktualisieren
-- 2. August 2026: Stern 166.947 → 190.061.
-
 ## Was es bringt
 - Ein kostenloser und einzigartiger Domainname.
 - Volle Kompatibilität mit Ihrem eigenen DNS-Anbieter (Cloudflare etc.).
@@ -18,6 +15,9 @@ FreeDomain bietet einen kostenlosen Domainnamen-Service, damit jeder eine digita
 
 ## Wie bekomme ich es?
 Sie bewerben sich mit der Anweisung im Repo: Sie wählen die Domain aus, verbinden sie mit Ihrem DNS. Eine Schritt-für-Schritt-Anleitung finden Sie auf der GitHub-Seite.
+
+## Wie nutzt man es mit KI?
+DigitalPlat FreeDomain ist ein kostenloser Domain-Name-Dienst, keine zu installierende Software. Gehen Sie zu https://dash.domain.digitalplat.org/ und führen Sie mich Schritt für Schritt durch die Registrierung eines kostenlosen Domainnamens mit Erweiterungen wie .dpdns.org, .us.kg, .qzz.io und erklären Sie mir, wie ich ihn mit Cloudflare DNS verbinden kann.
 
 ## Verwandte Begriffe aus dem Glossar
 

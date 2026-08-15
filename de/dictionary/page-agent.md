@@ -27,5 +27,8 @@ Es funktioniert normalerweise auf Standard-Webstrukturen, kann jedoch auf Websit
 - [Autonomous Agent](/de/dictionary/autonomous-agent/)
 - [Web Scraping](/de/dictionary/web-scraping/)
 
+## Verwandte Werkzeuge
+- [Page Agent](/de/discover/page-agent/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/page-agent/

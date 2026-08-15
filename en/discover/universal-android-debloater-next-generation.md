@@ -6,9 +6,6 @@ Universal Android Debloater Next Generation is a cross-platform graphical interf
 - Rust
 - GitHub Trending · 2026-06-17
 
-## Update
-- August 2, 2026: Star 7,487 → 8,660, latest version v1.2.0 (January 12, 2026).
-
 ## What you get
 - Improves device performance and battery life
 - Strengthens privacy by reducing security vulnerabilities
@@ -16,7 +13,6 @@ Universal Android Debloater Next Generation is a cross-platform graphical interf
 
 ## Getting started
 - Official source →
-To get started with the tool, go to the Wiki section on the GitHub page. By reviewing the 'Getting started' and 'Usage guide' pages here, you can follow the necessary steps for your device and download and run the application on your computer.
 
 ## Related dictionary terms
 

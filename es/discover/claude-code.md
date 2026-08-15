@@ -7,16 +7,30 @@ Código Claude; Es una herramienta de codificación basada en agentes que reside
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
 
-## Actualizar
-- 12 de agosto de 2026: Star 140,975 → 141,119, última versión v2.1.228 (11 de agosto de 2026).
-- 11 de agosto de 2026: Star 140.624 → 140.975, última versión v2.1.227 (10 de agosto de 2026).
-- 8 de agosto de 2026: Star 140,527 → 140,624, última versión v2.1.226 (8 de agosto de 2026).
-- 7 de agosto de 2026: Star 140,418 → 140,527, última versión v2.1.224 (7 de agosto de 2026).
-
 ## Qué aporta
 - Entiende su código base y realiza operaciones entre archivos.
 - Simplemente diga "agregar o corregir esto" en lenguaje natural.
 - Con él se utilizan muchas habilidades y complementos de este catálogo.
+
+## ¿Cómo instalar, cómo utilizar?
+**macOS/Linux (recomendado)**
+
+```
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+**Windows (PowerShell)**
+
+```
+irm https://claude.ai/install.ps1 | iex
+```
+
+**Comenzar en el directorio del proyecto**
+
+```
+claude
+```
+
 
 ## Términos relacionados del glosario
 

@@ -29,5 +29,9 @@ Ja, es gibt heute sehr einfache BI-Tools, die mit der Drag-and-Drop-Methode arbe
 - [Dashboard](/de/dictionary/dashboard/)
 - [CRM](/de/dictionary/crm/)
 
+## Verwandte Werkzeuge
+- [WrenAI](/de/discover/wrenai/)
+- [Ossie](/de/discover/ossie/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/bi/

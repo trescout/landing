@@ -6,9 +6,6 @@ MinerU convierte formatos de documentos complejos como PDF y Office a formato Ma
 - Python
 - GitHub Trending · 2026-06-26
 
-## Actualizar
-- 2 de agosto de 2026: Star 69,899 → 76,547, última versión mineru-3.4.4 lanzada (10 de julio de 2026).
-
 ## Qué aporta
 - Convierte archivos PDF y Office a lenguaje de marcado
 - Prepara datos no estructurados para los flujos de trabajo de los agentes.

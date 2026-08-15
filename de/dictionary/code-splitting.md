@@ -23,5 +23,8 @@ Es mag eine sehr kurze Zeit sein, aber das Gesamterlebnis ist besser, da die anf
 - [Bundler](/de/dictionary/bundler/)
 - [Frontend Stack](/de/dictionary/frontend-stack/)
 
+## Verwandte Werkzeuge
+- [Webpack](/de/discover/webpack/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/code-splitting/

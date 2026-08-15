@@ -6,12 +6,6 @@ Desenvolvido pela Block in Rust, o Buzz foi projetado como uma plataforma descen
 - Rust
 - GitHub Trending · 2026-07-24
 
-## Atualizar
-- 12 de agosto de 2026: Star 26.126 → 26.401, versão mais recente desktop-v0.5.10 (12 de agosto de 2026).
-- 11 de agosto de 2026: Star 25.351 → 26.126, versão mais recente desktop-v0.5.9 (10 de agosto de 2026).
-- 9 de agosto de 2026: Star 24.932 → 25.351, versão mais recente desktop-v0.5.8 (8 de agosto de 2026).
-- 7 de agosto de 2026: Star 24.916 → 24.932, versão mais recente desktop-v0.5.7 (7 de agosto de 2026).
-
 ## O que você ganha
 - Salas de colaboração para humanos e agentes de IA
 - Uma única trilha de auditoria para todas as interações

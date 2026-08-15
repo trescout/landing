@@ -6,11 +6,6 @@ Desarrollado por Apple, el contenedor permite crear y ejecutar contenedores de L
 - Swift
 - GitHub Trending · 2026-06-11
 
-## Actualizar
-- 8 de agosto de 2026: Estrella 48,710 → 48,745, última versión 1.2.2 (8 de agosto de 2026).
-- 7 de agosto de 2026: Estrella 48,543 → 48,710, última versión 1.2.1 (7 de agosto de 2026).
-- 2 de agosto de 2026: Estrella 30,453 → 48,543, última versión 1.2.0 (29 de julio de 2026).
-
 ## Qué aporta
 - Ejecuta contenedores de Linux como máquinas virtuales livianas en dispositivos Mac con procesadores Apple Silicon.
 - Le permite extraer y utilizar imágenes de contenedores compatibles con OCI de registros estándar.

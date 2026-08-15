@@ -6,9 +6,6 @@ Faceswap auf Python-Basis ist eine Open-Source-Software, die das Ersetzen von Ge
 - Python
 - GitHub Trending · 2026-07-30
 
-## Aktualisieren
-- 2. August 2026: Star 56.487 → 57.204, neueste Version v3.0.0 (21. Dezember 2025).
-
 ## Was es bringt
 - Gesichtsveränderung in Bildern und Videos
 - Training mit Deep-Learning-Modellen
@@ -32,7 +29,6 @@ python setup.py
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Um das Tool verwenden zu können, müssen Sie zunächst die Datei INSTALL.md auf der GitHub-Seite überprüfen und die für Ihr System geeigneten Installationsschritte ausführen. Nach der Installation können Sie über die Befehlszeile im Ordner, in dem sich das Projekt befindet, Gesichter extrahieren, Modelle trainieren oder Konvertierungen durchführen.
 
 ## Verwandte Begriffe aus dem Glossar
 

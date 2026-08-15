@@ -24,5 +24,8 @@ Diese Methode ist die effizienteste Methode, wenn die Beziehungen zwischen Ihren
 - [Graph-based Investigation](/de/dictionary/graph-based-investigation/)
 - [Code Intelligence Graph](/de/dictionary/code-intelligence-graph/)
 
+## Verwandte Werkzeuge
+- [Semantica](/de/discover/semantica/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/graph-native/

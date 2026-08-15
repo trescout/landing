@@ -5,9 +5,6 @@ Publié par Microsoft, VibeVoice a été développé comme un framework d'IA voc
 - ★ 51 860
 - GitHub Trending · 2026-06-07
 
-## Mise à jour
-- 2 août 2026 : Étoile 48 569 → 51 860.
-
 ## Ce que ça vous apporte
 - Convertit jusqu'à 60 minutes d'enregistrement audio en texte à la fois.
 - Il fournit l’identifiant du locuteur, l’horodatage et les détails du contenu de manière structurée.

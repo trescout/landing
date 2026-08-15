@@ -26,5 +26,8 @@ Nein, der CEO konzentriert sich stärker auf strategische Entscheidungen und del
 - [Product Development Cycle](/de/dictionary/product-development-cycle/)
 - [AI Team Operations](/de/dictionary/ai-team-operations/)
 
+## Verwandte Werkzeuge
+- [Gstack](/de/discover/gstack/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ceo/

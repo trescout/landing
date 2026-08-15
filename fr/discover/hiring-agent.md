@@ -6,9 +6,6 @@ L'agent d'embauche est un agent d'intelligence artificielle (agent IA) conçu po
 - Python
 - GitHub Trending · 2026-06-25
 
-## Mise à jour
-- 2 août 2026 : Étoile 2 482 → 6 694.
-
 ## Ce que ça vous apporte
 - Il analyse automatiquement les CV au format PDF.
 - Il enrichit les candidats avec les données GitHub.
