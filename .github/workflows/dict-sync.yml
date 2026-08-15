@@ -188,7 +188,16 @@ jobs:
       - name: Chrome normalize (nav + footer kanonik hâle)
         run: node scripts/fix-all-headers-and-footers.js
 
-      # bot commit'lerinde çalışmaz; aynı 6 guard'ı burada üretici çıktısına da uyguluyoruz.
+      # hreflang normalize · ÜRETİMDEN SONRA, GUARD'DAN ÖNCE.
+      # 2026-08-13'te guard eklendi ama bu adım eklenmedi · hat o günden beri
+      # HER GÜN kırıldı. Guard iş akışının SONUNDA olduğu için commit adımına
+      # hiç gelinmedi: üç gün boyunca yeni keşif kaydı, yeni sözlük terimi ve
+      # çapraz-link tazelemesi YAYINLANMADI (katalog 2026-08-12'de durdu).
+      # Guard'ı normalize edici olmadan eklemek, guard'ı hiç eklememekten kötü.
+      - name: hreflang normalize (üretilen sayfalar dahil)
+        run: python3 scripts/hreflang-normalize.py
+
+      # bot commit'lerinde çalışmaz; aynı guard'ları burada üretici çıktısına da uyguluyoruz.
       - name: Inline CSS/JS kontrolü
         run: python3 scripts/check-no-inline-csp.py
       - name: Nav tutarlılık kontrolü
@@ -210,6 +219,9 @@ jobs:
       - name: Sayfa paritesi (diller arası yapı)
         run: python3 scripts/check-sayfa-paritesi.py
 
+      - name: Bölüm paritesi (üretilen sayfalar · h2 sayısı)
+        run: python3 scripts/check-bolum-paritesi.py
+
       # Birleştirilmiş sözlük ikizleri geri açılmasın · günlük hat terimi
       # yeniden yaratırsa 301 zinciri kırılır.
       - name: Birleştirilmiş terimler kontrolü
@@ -224,8 +236,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/ikiz-tara.py
 
-      # Çok dilli her sayfa diğer dillerdeki sürümünü bildirmeli ·
-      # düzeltmesi: python3 scripts/hreflang-normalize.py
+      # Çok dilli her sayfa diğer dillerdeki sürümünü bildirmeli · normalize
+      # edici yukarıda koştu, burada yalnız DOĞRULUYORUZ.
       - name: hreflang kontrolü
         run: python3 scripts/check-hreflang.py
 
