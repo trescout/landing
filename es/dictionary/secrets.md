@@ -27,5 +27,8 @@ Debes cancelar inmediatamente esa clave, crear una nueva y comprobar si hay algu
 - [Self-hosting](/es/dictionary/self-hosting/)
 - [Observability](/es/dictionary/observability/)
 
+## Herramientas relacionadas
+- [Trivy](/es/discover/trivy/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/secrets/

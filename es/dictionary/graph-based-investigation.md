@@ -26,5 +26,8 @@ Gracias a las herramientas de visualización, cualquiera que entienda la lógica
 - [Knowledge Graph](/es/dictionary/knowledge-graph/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Flowsint](/es/discover/flowsint/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/graph-based-investigation/

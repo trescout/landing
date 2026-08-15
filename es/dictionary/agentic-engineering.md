@@ -25,6 +25,12 @@ Pueden cometer errores, por lo que la trazabilidad y seguridad del sistema es la
 ## Términos relacionados
 - [AI Agent](/es/dictionary/ai-agent/)
 - [Autonomous AI Agent](/es/dictionary/autonomous-ai-agent/)
+- [Agentic Engineering Platform](/es/dictionary/agentic-engineering-platform/)
+
+## Herramientas relacionadas
+- [Claude Code Best Practice](/es/discover/claude-code-best-practice/)
+- [Kilocode](/es/discover/kilocode/)
+- [GLM 5](/es/discover/glm-5/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agentic-engineering/

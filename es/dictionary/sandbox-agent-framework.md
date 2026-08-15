@@ -27,5 +27,8 @@ Porque los agentes autónomos pueden cometer errores y usted no quiere que estos
 - [AI Agent](/es/dictionary/ai-agent/)
 - [Agentic Engineering](/es/dictionary/agentic-engineering/)
 
+## Herramientas relacionadas
+- [Flue](/es/discover/flue/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sandbox-agent-framework/

@@ -24,5 +24,16 @@ La naturalidad puede variar según la calidad del modelo utilizado y la diversid
 Sí, con las tecnologías de clonación de voz puedes introducir tu propia voz en el sistema y hacer que los textos se lean con tu propia voz.
 
 
+## Términos relacionados
+- [Speech Synthesis](/es/dictionary/speech-synthesis/)
+- [Voice Cloning](/es/dictionary/voice-cloning/)
+- [AI Skills](/es/dictionary/ai-skills/)
+
+## Herramientas relacionadas
+- [Voicebox](/es/discover/voicebox/)
+- [VoxCPM](/es/discover/voxcpm/)
+- [Pocket TTS](/es/discover/pocket-tts/)
+- [MOSS-TTS](/es/discover/moss-tts/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/text-to-speech/

@@ -27,5 +27,15 @@ No, en proyectos muy pequeños y simples, a veces sólo los códigos básicos pu
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 - [CLI](/es/dictionary/cli/)
 
+## Herramientas relacionadas
+- [Flutter](/es/discover/flutter/)
+- [Next.js](/es/discover/next-js/)
+- [Angular](/es/discover/angular/)
+- [Tailwindcss](/es/discover/tailwindcss/)
+- [Nuxt](/es/discover/nuxt/)
+- [Cypress](/es/discover/cypress/)
+- [Hyperframes](/es/discover/hyperframes/)
+- [AstrBot](/es/discover/astrbot/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/framework/

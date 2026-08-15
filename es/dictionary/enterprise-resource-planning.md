@@ -29,5 +29,8 @@ Puede automatizar procesos como la gestión de stock o el análisis de ventas re
 - [API](/es/dictionary/api/)
 - [State Management](/es/dictionary/state-management/)
 
+## Herramientas relacionadas
+- [Odoo](/es/discover/odoo/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/enterprise-resource-planning/

@@ -21,5 +21,9 @@ Generalmente no, mientras que el código se considera la estructura principal; L
 - [Godot Engine](/es/dictionary/godot-engine/)
 - [Design Systems](/es/dictionary/design-system/)
 
+## Herramientas relacionadas
+- [Website-downloader](/es/discover/website-downloader/)
+- [U3 SDK](/es/discover/u3-sdk/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/assets/

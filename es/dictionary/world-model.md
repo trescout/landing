@@ -23,6 +23,7 @@ No, la mayoría de los modelos lingüísticos actuales se centran únicamente en
 
 
 ## Términos relacionados
+- [AGI](/es/dictionary/agi/)
 - [Generative AI](/es/dictionary/generative-ai/)
 - [AI Agent](/es/dictionary/ai-agent/)
 - [Foundation Model](/es/dictionary/foundation-model/)

@@ -27,7 +27,11 @@
     fr: { onek: '/fr/discover/', dizi: 'fr', alan: 'tagline_fr',
           etiket: { "Yapay zekâ araçları": "Outils IA", "Geliştirici aracı": "Outil développeur",
                     "Kod bilmeyenler için": "Sans code", "Öğrenme": "Apprentissage", "Üretkenlik": "Productivité" },
-          tumu: 'Tous', birim: ' outils', bos: 'Aucun résultat. Changez de filtre.', kopyalandi: 'Copié ✓' }
+          tumu: 'Tous', birim: ' outils', bos: 'Aucun résultat. Changez de filtre.', kopyalandi: 'Copié ✓' },
+    de: { onek: '/de/discover/', dizi: 'de', alan: 'tagline_de',
+          etiket: { "Yapay zekâ araçları": "KI-Werkzeuge", "Geliştirici aracı": "Entwicklerwerkzeug",
+                    "Kod bilmeyenler için": "Ohne Programmieren", "Öğrenme": "Lernen", "Üretkenlik": "Produktivität" },
+          tumu: 'Alle', birim: ' Werkzeuge', bos: 'Kein Treffer. Ändern Sie den Filter.', kopyalandi: 'Kopiert ✓' }
   };
   /* Sayfanın dili · <html lang> bölge kodu taşıyabiliyor ("pt-BR"). Sözlük
      anahtarı hem tam kodu hem ana dili kabul etsin · yoksa Portekizce sayfa

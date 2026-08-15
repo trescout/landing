@@ -23,5 +23,8 @@ Por lo general, da un error porque faltan los archivos multimedia requeridos o t
 - [Runtime](/es/dictionary/runtime/)
 - [Compiler](/es/dictionary/compiler/)
 
+## Herramientas relacionadas
+- [Node](/es/discover/node/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/runtime-environment/

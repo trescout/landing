@@ -24,5 +24,8 @@ No, a veces agregar demasiadas funciones complica la aplicación y crea bloatwar
 - [Tech Stack](/es/dictionary/tech-stack/)
 - [Application](/es/dictionary/application/)
 
+## Herramientas relacionadas
+- [YimMenuV2](/es/discover/yimmenuv2/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/features/

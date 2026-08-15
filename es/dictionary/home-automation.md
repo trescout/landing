@@ -23,5 +23,8 @@ Es seguro en un sistema bien configurado, pero es importante mantener los dispos
 - [Physical AI](/es/dictionary/physical-ai/)
 - [AI Agent](/es/dictionary/ai-agent/)
 
+## Herramientas relacionadas
+- [Core](/es/discover/core/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/home-automation/

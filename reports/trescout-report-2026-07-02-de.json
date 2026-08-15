@@ -1,0 +1,267 @@
+{
+  "date": "2026-07-02",
+  "editorial": "Autonome Agenten und Entscheidungsunterstützungssysteme nehmen heute eine zentrale Stellung im Entwickler-Ökosystem ein. Aktuelle Projekte auf GitHub zeigen, dass Tools in den Vordergrund gerückt sind, die die Funktionalität in Bereichen wie Datensatzverwaltung und Routenoptimierung erhöhen.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Das Projekt Agency-agents bietet eine integrierte digitale Agenturstruktur bestehend aus spezialisierten Agenten der künstlichen Intelligenz mit unterschiedlichen Fachgebieten. Diese Agenten, die Prozesse wie Softwareentwicklung, Inhaltserstellung und Datenüberprüfung verwalten, führen Aufgaben mit bestimmten Persönlichkeitsmerkmalen und Arbeitsabläufen aus.",
+          "meta": "Shell · ★ 124.333 · +2.114 heute"
+        },
+        {
+          "title": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "summary": "Strix ist ein Open-Source-Penetrationstest-Tool mit künstlicher Intelligenz, das entwickelt wurde, um Sicherheitslücken in Anwendungen zu erkennen und zu beheben. Diese in Python geschriebene Software zielt darauf ab, die Anwendungsverteidigung durch automatisierte Sicherheitsüberprüfungen zu stärken.",
+          "meta": "Python · ★ 30.291 · +1.211 heute"
+        },
+        {
+          "title": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "summary": "Vibe-Trading ist ein persönliches Handelsagentenprojekt, das für den Handel auf Finanzmärkten entwickelt wurde. Dieses Python-basierte Tool zielt darauf ab, automatisierte Handelsstrategien durch die Analyse von Marktdaten auszuführen.",
+          "meta": "Python · ★ 16.865 · +694 heute"
+        },
+        {
+          "title": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "summary": "Der von Hasan Eyl-drm erstellte Datensatz präsentiert 433 verschiedene Fitnessübungen mit Angaben wie Name, Zielmuskelgruppe, Ausrüstung und Anwendungshinweisen. Diese visuellen und videogestützten Inhalte schaffen eine strukturierte Datenquelle für Sportanwendungen und Trainingssoftware.",
+          "meta": "HTML · ★ 8.706 · +2.470 heute"
+        },
+        {
+          "title": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "summary": "Astryx wird von Meta geteilt und bietet ein Designsystem, das vollständig anpassbar und agentenbereit ist. Dieses TypeScript-basierte Open-Source-Projekt zielt darauf ab, Schnittstellenkomponenten zu konfigurieren, die für den Einsatz in autonomen Systemen geeignet sind.",
+          "meta": "TypeScript · ★ 2.969 · +708 heute"
+        },
+        {
+          "title": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "summary": "OmniRoute ist ein kostenloses KI-Gateway, das Entwicklern den Zugriff auf mehrere KI-Anbieter wie Claude, GPT und Gemini über einen einzigen Endpunkt ermöglicht. Das Tool reduziert die Kosten durch die Token-Komprimierungsmethode und erhöht die Effizienz von Codierungsassistenten durch automatische Sicherung und Unterstützung multimodaler Schnittstellen.",
+          "meta": "TypeScript · ★ 9.850 · +1.010 heute"
+        },
+        {
+          "title": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "summary": "Olmocr wurde von AllenAI entwickelt und ist ein Toolkit, das PDF-Dokumente in Textformate konvertiert, die für große Sprachmodelle geeignet sind. Diese Software erleichtert die Vorbereitung von Datensätzen durch die lineare Verarbeitung komplexer Dokumentstrukturen.",
+          "meta": "Python · ★ 18.418 · +334 heute"
+        },
+        {
+          "title": "logto-io/logto",
+          "url": "https://github.com/logto-io/logto",
+          "summary": "Logto bietet eine Authentifizierungs- und Autorisierungsinfrastruktur basierend auf den Standards Open Authentication (OIDC) und OAuth 2.1 für SaaS- und künstliche Intelligenzanwendungen. Es vereint Funktionen wie Mandantenfähigkeit, Single Sign-On (SSO) und rollenbasierte Zugriffskontrolle (RBAC) in einer mit TypeScript entwickelten Struktur.",
+          "meta": "TypeScript · ★ 13.401 · +113 heute"
+        },
+        {
+          "title": "togatoga/karukan",
+          "url": "https://github.com/togatoga/karukan",
+          "summary": "Karukan wurde mit der Rust-Sprache entwickelt und ist ein japanisches Eingabemethodensystem (Japanese Input Method System), das eine neuronale Kana-Kanji-Konvertierungs-Engine für Linux- und macOS-Betriebssysteme verwendet. Die Software geht über traditionelle Methoden hinaus und bietet einen auf künstlicher Intelligenz basierenden Ansatz für Textkonvertierungsprozesse.",
+          "meta": "Rust · ★ 615 · +42 heute"
+        },
+        {
+          "title": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "summary": "Common User Passwords Profiler ist ein Python-Tool zum Erstellen gezielter Passwortlisten. Es analysiert bestimmte personenbezogene Daten und erstellt maßgeschneiderte Wörterbücher (Wortlisten), die bei Social-Engineering-Angriffen verwendet werden können.",
+          "meta": "Python · ★ 6.283 · +184 heute"
+        },
+        {
+          "title": "Unclecheng-li/VulnClaw",
+          "url": "https://github.com/Unclecheng-li/VulnClaw",
+          "summary": "VulnClaw automatisiert Penetrationstestprozesse mithilfe von KI-Agenten und der Model Context Protocol-Toolchain. Das Tool verwaltet die Phasen der Informationserfassung, Schwachstellenerkennung, Ausnutzung und Berichterstattung durchgängig mit Befehlen in natürlicher Sprache.",
+          "meta": "Python · ★ 1.666 · +132 heute"
+        },
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "AI-For-Beginners wurde von Microsoft vorbereitet und bietet ein Schulungsprogramm mit grundlegenden Konzepten für diejenigen, die mit einem 12-wöchigen Lehrplan in die künstliche Intelligenz einsteigen möchten. Der Inhalt läuft über Jupyter-Notebooks weiter und sorgt mit seiner 24-Lektionen-Struktur für einen anwendungsorientierten Lernprozess.",
+          "meta": "Jupyter Notebook · ★ 50.800 · +1.096 heute"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria ist eine Desktop-Anwendung, die für die Verwaltung von Markdown-basierten Wissensdatenbanken entwickelt wurde. Das in TypeScript geschriebene Tool bietet eine zentrale Schnittstelle zur Organisation persönlicher Dokumentationsprozesse.",
+          "meta": "TypeScript · ★ 18.112 · +150 heute"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Herdr ist ein Agenten-Multiplexer, der auf dem Terminal läuft und die gleichzeitige Verwaltung mehrerer Agenten künstlicher Intelligenz ermöglicht. Dieses in der Rust-Sprache entwickelte Tool ermöglicht es Benutzern, gleichzeitig mit verschiedenen Agenten in der Terminalumgebung zu interagieren.",
+          "meta": "Rust · ★ 9.810 · +609 heute"
+        },
+        {
+          "title": "0xNyk/council-of-high-intelligence",
+          "url": "https://github.com/0xNyk/council-of-high-intelligence",
+          "summary": "Der Council of High Intelligence ermöglicht es KI-Persönlichkeiten, die an verschiedenen großen Sprachmodellen arbeiten, mehrstufige Verhandlungen für komplexe Entscheidungen zu führen. Das System bietet eine strukturierte Diskussionsumgebung mit Charakteren künstlicher Intelligenz, die historische und wissenschaftliche Persönlichkeiten darstellen.",
+          "meta": "Shell · ★ 2.797 · +161 heute"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice ist eine Diktieranwendung auf macOS, die Sprache-zu-Text auf dem Gerät und benutzerdefinierte KI-Optimierungsmodelle bietet. Dieses Tool, das ohne Internetverbindung funktioniert, soll eine schnelle Texteingabe mit lokaler Rechenleistung ermöglichen.",
+          "meta": "Swift · ★ 5.652 · +572 heute"
+        },
+        {
+          "title": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "summary": "Instatic bietet ein visuelles Content-Management-System (visuelles CMS), das in einer Minute installiert und auf Ihrem eigenen Server gehostet werden kann. Dieses mit TypeScript entwickelte Tool bietet eine benutzerfreundliche Bearbeitungsoberfläche für Websites.",
+          "meta": "TypeScript · ★ 2.120 · +508 heute"
+        },
+        {
+          "title": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "summary": "CubeSandbox wurde von TencentCloud in Rust entwickelt und bietet eine sofortige, gleichzeitige und sichere Arbeitsumgebung (Sandbox) für Agenten der künstlichen Intelligenz (KI-Agenten). Dieses Tool, das sich durch seine leichte Struktur auszeichnet, ermöglicht den Betrieb agentenbasierter Systeme in einem isolierten Bereich.",
+          "meta": "Rust · ★ 6.927 · +79 heute"
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "Die Browser-Bibliothek bietet eine Struktur, die die Automatisierung von Videobearbeitungsprozessen durch Codierungsagenten ermöglicht. Dieses Python-basierte Tool ermöglicht die Verwaltung visueller Inhaltsverarbeitungsaufgaben mit programmgesteuerten Befehlen.",
+          "meta": "Python · ★ 13.396 · +693 heute"
+        },
+        {
+          "title": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "summary": "Das AiToEarn-Projekt bietet eine Software-Infrastruktur, die darauf abzielt, mit künstlicher Intelligenz unterstützten Automatisierungsmethoden Einnahmen aus digitalen Plattformen zu generieren. Dieses mit der TypeScript-Sprache entwickelte Tool ermöglicht es Benutzern, verschiedene Aufgaben mithilfe von Agenten der künstlichen Intelligenz zu automatisieren.",
+          "meta": "TypeScript · ★ 22.750 · +116 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "For first time, a cell built from scratch grows and divides",
+          "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+          "summary": "Von Grund auf neu entwickelte synthetische Zellen haben die Wachstums- und Teilungsprozesse erstmals erfolgreich in einer Laborumgebung abgeschlossen. Diese Entwicklung stellt einen entscheidenden Schritt in den Bemühungen dar, die grundlegende Funktionsweise biologischer Systeme zu rekonstruieren und die Ursprünge des Lebens zu verstehen.",
+          "meta": "836 Punkte · 274 Kommentare"
+        },
+        {
+          "title": "ZCode – Harness for GLM-5.2",
+          "url": "https://zcode.z.ai/en",
+          "summary": "ZCode bietet ein verbessertes Test- und Bewertungsframework für GLM-5.2-Sprachmodelle. Dieses Tool wird verwendet, um die Leistung großer Sprachmodelle zu messen und Entwicklungsprozesse zu standardisieren.",
+          "meta": "354 Punkte · 280 Kommentare"
+        },
+        {
+          "title": "FFmpeg 9.1's new AAC encoder",
+          "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+          "summary": "FFmpeg Version 9.1 enthält einen neuen erweiterten Audio-Encoder (AAC-Encoder), der die Qualität der Audio-Kodierung verbessert. Dieses Update bietet eine höhere Audiotreue und eine effiziente Komprimierungsleistung, insbesondere bei niedrigen Bitraten.",
+          "meta": "352 Punkte · 109 Kommentare"
+        },
+        {
+          "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+          "url": "https://www.workerowned.info/",
+          "summary": "Das Verzeichnis listet mehr als 22.000 Produkte auf, die von Arbeitergenossenschaften hergestellt werden, und ermöglicht es Benutzern, diese Unternehmen direkt zu erreichen. Die Plattform bietet ein alternatives Marktplatzerlebnis, indem sie die Auffindbarkeit kooperativer Produkte erhöht.",
+          "meta": "327 Punkte · 65 Kommentare"
+        },
+        {
+          "title": "What to learn to be a graphics programmer",
+          "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+          "summary": "Für diejenigen, die Grafikprogrammierer werden möchten, stechen Kernkompetenzen wie mathematische Grundlagen, Hardwarearchitektur und Grafikanwendungsschnittstellen (Grafik-APIs) hervor. Diese Roadmap bietet eine umfassende Lernkurve für diejenigen, die einfache Systemprogrammierungs- und Visualisierungstechniken erlernen möchten.",
+          "meta": "313 Punkte · 162 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR wurde von Baidu entwickelt und ist ein Bild-zu-Text-Modell, das visuelle Texte verarbeitet und eine Textausgabe erzeugt. Das System zielt darauf ab, den Prozess der Konvertierung von Daten aus komplexen Dokumenten in ein digitales Format zu automatisieren.",
+          "meta": "♥ 1.597 · 630.246 Downloads"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Das Modell Qwythos-9B-Claude-Mythos-5-1M ist ein multimodales Modell der künstlichen Intelligenz, das durch die Verarbeitung visueller und textbasierter Daten eine Textausgabe erzeugt. Das Modell bietet die Möglichkeit, komplexe Datensätze mit Unterstützung für breite Kontextfenster zu analysieren.",
+          "meta": "♥ 1.183 · 1.113.871 Downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, entwickelt von Zai-org, ist ein Sprachmodell, das für Textgenerierungsaufgaben optimiert ist. Das hochgradig interaktive Modell auf der Hugging Face-Plattform bietet die Möglichkeit, Text in natürlichen Sprachverarbeitungsprozessen zu erstellen.",
+          "meta": "♥ 3.190 · 159.967 Downloads"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "Ornith-1.0-35B, veröffentlicht von DeepReinforce-AI, ist ein Sprachmodell, das für Textgenerierungsaufgaben optimiert ist. Das Modell wird mit im GGUF-Format komprimierten Gewichten bereitgestellt, sodass es auf lokalen Geräten ausgeführt werden kann.",
+          "meta": "♥ 621 · 233.701 Downloads"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "summary": "Ornith-1.0-9B-GGUF, entwickelt von DeepReinforce-AI, ist ein Sprachmodell, das sich auf die Textgenerierung konzentriert. Das Modell wird im komprimierten GGUF-Format dargestellt, um Hardwareressourcen effizient zu nutzen.",
+          "meta": "♥ 375 · 191.409 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "penetration testing",
+      "explanation": "Kontrollierte Penetrationsstudien zum Auffinden von Sicherheitslücken in einem System mithilfe der Methoden von Cyber-Angreifern."
+    },
+    {
+      "term": "trading agent",
+      "explanation": "Software, die automatisch nach vorgegebenen Regeln auf Finanzmärkten handelt."
+    },
+    {
+      "term": "trading strategies",
+      "explanation": "Eine Reihe mathematischer oder logischer Regeln, die befolgt werden, um beim Investieren einen Gewinn zu erzielen oder das Risiko zu verringern."
+    },
+    {
+      "term": "agent ready",
+      "explanation": "Eine Statusbenachrichtigung, die angibt, dass eine Software oder ein KI-Tool bereit ist, eine Aufgabe zu übernehmen."
+    },
+    {
+      "term": "design system",
+      "explanation": "Eine Standardbibliothek mit Farben, Schriftarten und Komponenten, die verwendet wird, um die visuelle Konsistenz einer Anwendung sicherzustellen."
+    },
+    {
+      "term": "endpoint",
+      "explanation": "Der nach außen offene Port einer Software, der Daten über das Internet austauscht."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "Eine Bridge-Software, die an Modelle der künstlichen Intelligenz gesendete Anfragen verwaltet, für Sicherheit sorgt und den Datenverkehr reguliert."
+    },
+    {
+      "term": "token compression",
+      "explanation": "Eine Methode zur Darstellung von durch künstliche Intelligenz verarbeiteten Textfragmenten mit weniger Daten."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "OIDC",
+      "explanation": "Standardprotokoll zur sicheren Überprüfung der Identität von Benutzern auf verschiedenen Plattformen im Internet."
+    },
+    {
+      "term": "multi-tenancy",
+      "explanation": "Architektur, die es ermöglicht, eine einzelne Software gleichzeitig von vielen verschiedenen Benutzern oder Institutionen unabhängig voneinander zu nutzen."
+    },
+    {
+      "term": "SSO",
+      "explanation": "Ein System, das es dem Benutzer ermöglicht, mit einer einzigen Anmeldeinformation auf mehrere verschiedene Anwendungen zuzugreifen."
+    },
+    {
+      "term": "RBAC",
+      "explanation": "Eine Methode, Benutzern basierend auf der Rolle, die sie innehaben, Autorität über das System zu erteilen."
+    },
+    {
+      "term": "neural kana-kanji conversion engine",
+      "explanation": "Eine auf künstlicher Intelligenz basierende Software-Engine, die phonetische Zeichen im japanischen Schriftsystem in aussagekräftige Symbole umwandelt."
+    },
+    {
+      "term": "Japanese Input Method System",
+      "explanation": "Eingabetool, das das Schreiben japanischer Zeichen über die Tastatur ermöglicht."
+    },
+    {
+      "term": "Common User Passwords Profiler",
+      "explanation": "Analysetool zur Erkennung schwacher und erratener Passwörter in Systemen."
+    }
+  ]
+}

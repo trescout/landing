@@ -24,5 +24,8 @@ Porque dividir un proceso complejo en partes hace que sea mucho más fácil enco
 - [Proxy](/es/dictionary/proxy/)
 - [VPN](/es/dictionary/vpn/)
 
+## Herramientas relacionadas
+- [Iroh](/es/discover/iroh/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/networking-stack/

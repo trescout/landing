@@ -26,5 +26,13 @@ Son pequeñas unidades de procesamiento independientes dentro de un procesador q
 - [Runtime](/es/dictionary/runtime/)
 - [Apple Silicon](/es/dictionary/apple-silicon/)
 
+## Herramientas relacionadas
+- [Llmfit](/es/discover/llmfit/)
+- [Ktransformers](/es/discover/ktransformers/)
+- [Pocket TTS](/es/discover/pocket-tts/)
+- [Whichllm](/es/discover/whichllm/)
+- [Transcribe.cpp](/es/discover/transcribe-cpp/)
+- [Sharpemu](/es/discover/sharpemu/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cpu/

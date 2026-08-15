@@ -29,5 +29,8 @@ Sí, gracias a la función de almacenamiento en caché, las funciones básicas p
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 - [Desktop App](/es/dictionary/desktop-app/)
 
+## Herramientas relacionadas
+- [TREK](/es/discover/trek/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/pwa/

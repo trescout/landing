@@ -27,5 +27,10 @@ No, se utilizan diferentes tipos de bases de datos según el tipo de datos (tabl
 - [Vector Database](/es/dictionary/vector-database/)
 - [Memory System](/es/dictionary/memory-system/)
 
+## Herramientas relacionadas
+- [Supabase](/es/discover/supabase/)
+- [Zvec](/es/discover/zvec/)
+- [Cassandra](/es/discover/cassandra/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/database/

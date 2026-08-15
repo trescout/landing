@@ -1,0 +1,237 @@
+{
+  "date": "2026-06-15",
+  "editorial": "In der heutigen Software-Agenda haben Open-Source-Infrastrukturtools und Testautomatisierungsbibliotheken eine erhebliche Bedeutung. GitHub-Daten zeigen, dass Entwickler besonders an leistungsorientierten Compilern und Kundensupportplattformen interessiert sind.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "summary": "Das Projekt, das öffentlich-rechtliche Internetfernsehkanäle (IPTV) auf der ganzen Welt in einem einzigen Zentrum zusammenführt, erleichtert Benutzern den Zugang zu Live-Übertragungsinhalten. Diese mit der TypeScript-Sprache entwickelte Open-Source-Datensammlung standardisiert und listet weltweit ausgestrahlte Fernsehsender auf.",
+          "meta": "TypeScript · ★ 122.250 · +1.528 heute"
+        },
+        {
+          "title": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "summary": "freeCodeCamp ist eine Open-Source-Plattform, die kostenlose Bildungsinhalte zu den Themen Mathematik, Programmierung und Informatik anbietet. Dieses mit der TypeScript-Sprache entwickelte Projekt bietet Benutzern einen umfassenden Lehrplan und eine Anwendungsumgebung zur Verbesserung ihrer Softwarekenntnisse.",
+          "meta": "TypeScript · ★ 447.547 · +146 heute"
+        },
+        {
+          "title": "pytest-dev/pytest",
+          "url": "https://github.com/pytest-dev/pytest",
+          "summary": "Pytest bietet ein Testframework, das eine breite Palette von Tests in Python-Projekten unterstützt, von kleinen Tests bis hin zu komplexen Funktionstests. Dank seiner einfachen Syntax schafft es eine skalierbare Struktur, indem es das Schreiben von Tests in Softwareentwicklungsprozessen erleichtert.",
+          "meta": "Python · ★ 14.120 · +14 heute"
+        },
+        {
+          "title": "swc-project/swc",
+          "url": "https://github.com/swc-project/swc",
+          "summary": "SWC, ein schneller Web-Compiler, der mit der Rust-Sprache entwickelt wurde, soll die Konvertierungs- und Verpackungsprozesse von JavaScript- und TypeScript-Dateien beschleunigen. Das Projekt optimiert moderne Webentwicklungs-Workflows, indem es eine leistungsstarke Alternative zu bestehenden Tools bietet.",
+          "meta": "Rust · ★ 33.876 · +163 heute"
+        },
+        {
+          "title": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "summary": "Chatwoot bietet eine Open-Source-Alternative für die Verwaltung von Live-Chat, E-Mail-Support und Omni-Channel-Kundenserviceprozessen (Omni-Channel-Desk). Dieses Tool bietet ähnliche Funktionen wie Plattformen wie Intercom und Zendesk und erstellt eine zentrale Lösung für das Kundenkontaktmanagement, die in der Ruby-Sprache entwickelt wurde.",
+          "meta": "Ruby · ★ 31.416 · +400 heute"
+        },
+        {
+          "title": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "summary": "SkillSpector, entwickelt von NVIDIA, ist ein Sicherheitsscanner, der Schwachstellen und bösartige Muster in Skillpaketen für Agenten der künstlichen Intelligenz erkennt. Dieses Python-basierte Tool zielt darauf ab, die Softwaresicherheit zu erhöhen, indem potenzielle Risiken in agentenbasierten Systemen identifiziert werden.",
+          "meta": "Python · ★ 5.822 · +964 heute"
+        },
+        {
+          "title": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "summary": "Meshery ist eine Service-Mesh-Verwaltungsebene, die für die Verwaltung cloudnativer Infrastrukturen entwickelt wurde. Es standardisiert die Konfiguration, Bereitstellung und Leistungsanalyse verschiedener Infrastrukturkomponenten über eine einzige Schnittstelle.",
+          "meta": "TypeScript · ★ 10.496 · +20 heute"
+        },
+        {
+          "title": "cypress-io/cypress",
+          "url": "https://github.com/cypress-io/cypress",
+          "summary": "Cypress ist ein Framework, das schnelle und zuverlässige End-to-End-Testprozesse für browserbasierte Anwendungen bietet. Dieses mit TypeScript entwickelte Tool dient zur Überprüfung der Funktionalität von Webanwendungen in der Browserumgebung.",
+          "meta": "TypeScript · ★ 50.089 · +39 heute"
+        },
+        {
+          "title": "GorvGoyl/Clone-Wars",
+          "url": "https://github.com/GorvGoyl/Clone-Wars",
+          "summary": "Clone-Wars sammelt mehr als 100 Open-Source-Klone beliebter Plattformen wie Airbnb, Amazon und Instagram in einem einzigen Verzeichnis. Entwickler können Anwendungsarchitekturen untersuchen, indem sie auf Projektquellcodes, Technologie-Stacks und Live-Demo-Links zugreifen.",
+          "meta": "★ 35.776 · +269 heute"
+        },
+        {
+          "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "summary": "Diese Ressource, die grundlegende Konzepte für autonome Roboter enthält, bietet technische Informationen zum Design und zur Steuerung von Robotersystemen. Die im TeX-Format aufbereiteten Inhalte bieten einen theoretischen Hintergrund für diejenigen, die in den Bereich der Robotik einsteigen möchten.",
+          "meta": "TeX · ★ 2.915 · +293 heute"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos zeichnet sich durch ein Grundlagenmodell aus, das zur Analyse der einzigartigen Sprache der Finanzmärkte entwickelt wurde. Dieses Modell, das darauf ausgelegt ist, die komplexe Struktur von Finanzdaten zu verstehen, nutzt Sprachverarbeitungsfunktionen in Marktanalyseprozessen.",
+          "meta": "Python · ★ 30.072 · +244 heute"
+        },
+        {
+          "title": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "summary": "Music Assistant ist ein Open-Source-Medienbibliotheksmanager, der verschiedene digitale Musikdienste und angeschlossene Lautsprechersysteme in einem einzigen Hub vereint. Diese Python-basierte Serversoftware verwaltet Audiostreams, indem sie einen zentralen Kontrollpunkt für ständig laufende Geräte erstellt.",
+          "meta": "Python · ★ 2.296 · +197 heute"
+        },
+        {
+          "title": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "summary": "Das Free-TV/IPTV-Projekt vereint Playlists im M3U-Format, die kostenlose Fernsehkanäle weltweit auflisten. Dieses auf Python basierende Open-Source-Werk erleichtert Benutzern den Zugriff auf Fernsehsendungen über das Internet mit einer Standarddateistruktur.",
+          "meta": "Python · ★ 17.099 · +70 heute"
+        },
+        {
+          "title": "puppeteer/puppeteer",
+          "url": "https://github.com/puppeteer/puppeteer",
+          "summary": "Puppeteer bietet eine Browser-Automatisierungsschnittstelle (API) zur Steuerung von Chrome- und Firefox-Browsern. Diese mit TypeScript entwickelte Bibliothek bietet eine Standardstruktur für Testautomatisierung und Web-Scraping-Vorgänge auf Webseiten.",
+          "meta": "TypeScript · ★ 94.738 · +29 heute"
+        },
+        {
+          "title": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "summary": "Aisuite wurde von Andrew Ng entwickelt und ist eine Python-Bibliothek, die die Verwaltung verschiedener generativer KI-Anbieter über eine einzige Schnittstelle ermöglicht. Es bietet eine einheitliche Struktur, die es Entwicklern erleichtert, zwischen verschiedenen Modelldiensten zu wechseln.",
+          "meta": "Python · ★ 14.511 · +291 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Firewood Splitting Simulator",
+          "url": "https://screen.toys/firewood/",
+          "summary": "Der browserbasierte Brennholzspaltsimulator kombiniert physikbasierte Interaktionen mit einer einfachen Benutzeroberfläche. Dieses mithilfe von Webtechnologien entwickelte digitale Erlebnis ermöglicht es Benutzern, den Akt des Holzspaltens in einer virtuellen Umgebung durchzuführen.",
+          "meta": "825 Punkte · 242 Kommentare"
+        },
+        {
+          "title": "How to earn a billion dollars",
+          "url": "https://paulgraham.com/earn.html",
+          "summary": "Paul Graham erklärt, dass die Grundlage für den Aufbau eines milliardenschweren Unternehmens darin besteht, skalierbare Lösungen zu entwickeln und ein stark nachgefragtes Problem zu lösen. Er betont, dass Erfolg möglich ist, wenn man sich auf einen Produktentwicklungsprozess konzentriert, der Mehrwert für die Benutzer schafft und nicht persönlichen Wohlstand.",
+          "meta": "634 Punkte · 1.643 Kommentare"
+        },
+        {
+          "title": "Your ePub Is fine",
+          "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+          "summary": "Fehler beim Öffnen von ePub-Dateien in Kobo-E-Book-Readern werden durch Inkompatibilitäten in der vom Gerät verwendeten Adobe Digital Rights Management-Software verursacht. Benutzer führen die Geräteablehnung von Standard-ePub-Dateien auf technische Einschränkungen bei Adobe-basierten Rendering-Prozessen zurück.",
+          "meta": "593 Punkte · 199 Kommentare"
+        },
+        {
+          "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+          "url": "https://github.com/tamnd/kage",
+          "summary": "Kage ist ein Tool, das Websites in eine einzige ausführbare Datei (binär) für die Offline-Anzeige konvertiert. Es ermöglicht den Zugriff ohne Internetverbindung, indem es lokale Kopien von Webseiten erstellt.",
+          "meta": "563 Punkte · 110 Kommentare"
+        },
+        {
+          "title": "Curl will not accept vulnerability reports during July 2026",
+          "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+          "summary": "Das Curl-Projekt kündigte an, bis Juli 2026 keine Schwachstellenmeldungen mehr anzunehmen, um dem Entwicklerteam eine Pause zu gönnen. Während dieses Zeitraums wird die Einreichung von Fehlerberichten ausgesetzt, sodass Entwickler eine ununterbrochene Pause haben.",
+          "meta": "397 Punkte · 143 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, entwickelt von Google, ist ein multimodales Modell, das textbasierte Ausgaben durch die Verarbeitung von Text- und Bildeingaben erzeugt. Das Modell führt komplexe visuell-textuelle Aufgaben aus, indem es aus Bildern gewonnene Informationen mit Textkontext kombiniert.",
+          "meta": "♥ 826 · 311.788 Downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "summary": "Kimi-K2.7-Code, entwickelt von Moonshot AI, ist ein multimodales Modell, das durch die Verarbeitung visueller und Texteingaben eine Textausgabe erzeugt. Dieses Modell konzentriert sich auf Softwareentwicklungsprozesse und bietet Lösungen durch die Analyse visueller Daten in codebasierten Aufgaben.",
+          "meta": "♥ 679 · 56.750 Downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "summary": "MiniMax-M3, entwickelt von MiniMaxAI, ist ein multimodales Modell, das visuelle und textuelle Daten gleichzeitig verarbeiten kann. Das System ist in der Lage, durch die Analyse von Bild- und Texteingaben textbasierte Ausgaben zu erzeugen.",
+          "meta": "♥ 535 · 14.312 Downloads"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "LocateAnything-3B wurde von Nvidia entwickelt und zeichnet sich durch ein Bild-Text-zu-Text-Modell aus, das Objektpositionierungsaufgaben durch die Verarbeitung visueller und textueller Eingaben ausführt. Das Modell verwaltet die Prozesse der Objektidentifizierung in komplexen Szenen und der koordinatenbasierten Lokalisierung über eine einzige Architektur.",
+          "meta": "♥ 2.028 · 86.968 Downloads"
+        },
+        {
+          "title": "CohereLabs/North-Mini-Code-1.0",
+          "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+          "summary": "North-Mini-Code-1.0, entwickelt von CohereLabs, ist ein Sprachmodell, das sich auf die Textgenerierung konzentriert. Dieses Modell wurde zur Unterstützung von Softwareentwicklungsprozessen entwickelt und bietet eine auf Codegenerierungsaufgaben spezialisierte Struktur.",
+          "meta": "♥ 374 · 11.145 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IPTV",
+      "explanation": "Technologie, die es ermöglicht, Fernsehsendungen über das Internet statt über herkömmliches Satellit oder Kabel anzusehen."
+    },
+    {
+      "term": "framework",
+      "explanation": "Eine Reihe vorgefertigter Codeteile und Regeln, die dazu dienen, die Arbeit bei der Entwicklung von Software zu beschleunigen."
+    },
+    {
+      "term": "compiler",
+      "explanation": "Ein Tool, das von Menschen geschriebene Codes in Maschinensprache übersetzt, die der Computer direkt verstehen und ausführen kann."
+    },
+    {
+      "term": "omni-channel desk",
+      "explanation": "Ein Managementsystem, das Kundenanfragen aus verschiedenen Kanälen wie Social Media, E-Mail oder Telefon auf einem einzigen Bildschirm sammelt."
+    },
+    {
+      "term": "skills",
+      "explanation": "Die Fähigkeit intelligenter Lautsprecher oder virtueller Assistenten, bestimmte Aufgaben auszuführen, indem sie neue Funktionen erhalten."
+    },
+    {
+      "term": "security scanner",
+      "explanation": "Ein Softwaretool, das automatisch Schwachstellen in Software oder Netzwerken scannt und findet."
+    },
+    {
+      "term": "cloud native",
+      "explanation": "Anwendungen, die speziell entwickelt wurden, um die Möglichkeiten von Cloud-Computing-Umgebungen optimal zu nutzen."
+    },
+    {
+      "term": "service mesh",
+      "explanation": "Infrastrukturschicht, die die Kommunikation zwischen vielen miteinander verbundenen Softwareteilen sicher und organisiert macht."
+    },
+    {
+      "term": "end-to-end testing",
+      "explanation": "Eine Testmethode, die überprüft, ob alle Prozesse einer Software von Anfang bis Ende gemäß realen Benutzerszenarien fehlerfrei funktionieren."
+    },
+    {
+      "term": "open-source clones",
+      "explanation": "Ähnliche Programme, bei denen die Quellcodes einer beliebten Software kopiert und kostenlos angeboten werden, sodass jeder sie ändern kann."
+    },
+    {
+      "term": "tech stack",
+      "explanation": "Alle Programmiersprachen, Datenbanken und Tools, die bei der Entwicklung einer Website oder mobilen Anwendung verwendet werden."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Ein Modell der künstlichen Intelligenz, das auf sehr großen Datenmengen trainiert wird und als Grundlage für viele verschiedene Aufgaben wie das Schreiben von Texten oder das Erstellen von Bildern dient."
+    },
+    {
+      "term": "playlist",
+      "explanation": "Eine Liste von Musik oder Videos, sortiert nach Nutzern nach ihrem Geschmack auf digitalen Plattformen."
+    },
+    {
+      "term": "API",
+      "explanation": "Eine digitale Brücke, die es zwei verschiedenen Softwareprogrammen ermöglicht, miteinander zu kommunizieren und Daten auszutauschen."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Der Vorgang des Kopierens und Übertragens von Daten von Websites an einen anderen Ort mithilfe automatischer Software."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Künstliche Intelligenz-Technologie, die auf Basis zuvor erlernter Informationen neue Texte, Bilder oder Töne erzeugen kann."
+    }
+  ]
+}

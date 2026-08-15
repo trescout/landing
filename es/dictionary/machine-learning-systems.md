@@ -21,5 +21,8 @@ El aprendizaje automático es una subrama de la inteligencia artificial centrada
 - [AI Models](/es/dictionary/ai-models/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Cs249r Book](/es/discover/cs249r-book/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/machine-learning-systems/

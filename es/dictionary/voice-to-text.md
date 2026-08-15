@@ -27,5 +27,8 @@ Los modelos modernos admiten la mayoría de los idiomas, pero la tasa de éxito 
 - [Speech Synthesis](/es/dictionary/speech-synthesis/)
 - [NLP](/es/dictionary/nlp/)
 
+## Herramientas relacionadas
+- [FluidVoice](/es/discover/fluidvoice/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/voice-to-text/

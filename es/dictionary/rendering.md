@@ -21,5 +21,10 @@ Si la cantidad de datos a procesar es demasiado grande o el hardware de la compu
 - [User Interface](/es/dictionary/user-interface/)
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 
+## Herramientas relacionadas
+- [Next.js](/es/discover/next-js/)
+- [Nuxt](/es/discover/nuxt/)
+- [Meshoptimizer](/es/discover/meshoptimizer/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/rendering/

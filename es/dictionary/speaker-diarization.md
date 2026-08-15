@@ -24,5 +24,8 @@ No, suele distinguir entre hablantes (persona A, persona B). Debes introducir lo
 - [Speech-to-Text](/es/dictionary/speech-to-text/)
 - [NLP](/es/dictionary/nlp/)
 
+## Herramientas relacionadas
+- [Meetily](/es/discover/meetily/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/speaker-diarization/

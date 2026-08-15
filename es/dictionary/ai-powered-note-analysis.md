@@ -27,5 +27,8 @@ Cuando se combina con la tecnología OCR, sí, se puede.
 - [LLM](/es/dictionary/llm/)
 - [Memory](/es/dictionary/memory/)
 
+## Herramientas relacionadas
+- [Open Notebook](/es/discover/open-notebook/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-powered-note-analysis/

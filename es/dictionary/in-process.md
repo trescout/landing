@@ -27,5 +27,9 @@ Sí, dado que no hay tiempo para recuperar datos a través de la red, las operac
 - [Runtime](/es/dictionary/runtime/)
 - [Memory Management](/es/dictionary/memory-management/)
 
+## Herramientas relacionadas
+- [Turso](/es/discover/turso/)
+- [Zvec](/es/discover/zvec/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/in-process/

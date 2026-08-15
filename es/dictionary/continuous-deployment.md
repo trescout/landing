@@ -26,5 +26,8 @@ El sistema intenta detectar el error antes de que se active, gracias a pruebas a
 - [Deployment](/es/dictionary/deployment/)
 - [QA](/es/dictionary/qa/)
 
+## Herramientas relacionadas
+- [Argo Cd](/es/discover/argo-cd/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/continuous-deployment/

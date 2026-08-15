@@ -24,5 +24,8 @@ El relé evita que se pierda la conexión cuando la distancia es demasiado grand
 - [Proxy](/es/dictionary/proxy/)
 - [VPN](/es/dictionary/vpn/)
 
+## Herramientas relacionadas
+- [Croc](/es/discover/croc/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/relay/

@@ -27,5 +27,10 @@ Sí, la automatización es el núcleo del concepto de canalización.
 - [Observability](/es/dictionary/observability/)
 - [Deployment](/es/dictionary/deployment/)
 
+## Herramientas relacionadas
+- [Transformers](/es/discover/transformers/)
+- [OpenMontage](/es/discover/openmontage/)
+- [Liteparse](/es/discover/liteparse/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/pipeline/

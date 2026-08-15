@@ -27,5 +27,8 @@ No, el sensor simplemente detecta los datos; El registrador de datos es una unid
 - [Database](/es/dictionary/database/)
 - [Observability](/es/dictionary/observability/)
 
+## Herramientas relacionadas
+- [Teslamate](/es/discover/teslamate/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/data-logger/

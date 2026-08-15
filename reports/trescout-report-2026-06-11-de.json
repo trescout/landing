@@ -1,0 +1,249 @@
+{
+  "date": "2026-06-11",
+  "editorial": "Die heutige Technologieagenda besteht aus Fähigkeiten und digitalen Tracking-Tools, die für Agenten der künstlichen Intelligenz entwickelt wurden. Aktuelle Repositories auf GitHub konzentrieren sich speziell auf modulare Strukturen und Open-Source-Informationserfassungstools (OSINT), die die Arbeitsabläufe autonomer Systeme optimieren.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Agent-Skills wurden für Programmieragenten für künstliche Intelligenz entwickelt und bieten produktionsreife technische Fähigkeiten. Diese Bibliothek stellt standardisierte Tools zur Verfügung, um die Aufgabenerledigungskapazität von Agenten in Softwareentwicklungsprozessen zu erhöhen.",
+          "meta": "Shell · ★ 53.040 · +821 heute"
+        },
+        {
+          "title": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "summary": "PM Skills Marketplace bietet mehr als 100 Agentenfähigkeiten, Befehle und Plugins für Produktmanagementprozesse, von der Entdeckung bis zum Wachstum. Diese Ressource bietet vorgefertigte Module für KI-Agenten, die Produktmanagement-Workflows automatisieren möchten.",
+          "meta": "★ 15.664 · +804 heute"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria ist eine Desktop-Anwendung, die für die Verwaltung von Markdown-basierten Wissensdatenbanken entwickelt wurde. Dieses in TypeScript geschriebene Tool ermöglicht die Organisation persönlicher Dokumentation und Notizenverwaltungsprozesse über eine native Schnittstelle.",
+          "meta": "TypeScript · ★ 15.148 · +612 heute"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill bietet einen Skill für künstliche Intelligenz (KI-Skill), der Recherchen durch das Scannen aktueller Daten von Plattformen wie Reddit, X, YouTube, Hacker News und Polymarket durchführt. Dieses Python-basierte Tool erstellt überprüfbare Zusammenfassungen, indem es Informationen aus verschiedenen Quellen kombiniert.",
+          "meta": "Python · ★ 39.399 · +2.535 heute"
+        },
+        {
+          "title": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "summary": "Maigret durchsucht mehr als 3000 Websites anhand von Benutzernamen und erstellt ein Personendossier. Dieses mit Python entwickelte Tool automatisiert die Verfolgung des digitalen Fußabdrucks in Open-Source-Intelligence-Prozessen (OSINT).",
+          "meta": "Python · ★ 32.267 · +318 heute"
+        },
+        {
+          "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "summary": "Dieses Open-Source-Repository sammelt Systemaufforderungen beliebter Tools für künstliche Intelligenz und der in einem einzigen Zentrum verwendeten Grundmodelle. Entwickler haben die Möglichkeit, die Arbeitslogik aktueller Coding-Assistenten und generativer KI-Plattformen zu untersuchen.",
+          "meta": "★ 139.671 · +393 heute"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers bietet ein Framework für Agentenfähigkeiten und eine Softwareentwicklungsmethodik für Agenten der künstlichen Intelligenz. Dieses Tool wurde entwickelt, um agentenbasierte Arbeitsabläufe zu standardisieren und Anwendungsentwicklungsprozesse zu strukturieren.",
+          "meta": "Shell · ★ 224.112 · +1.104 heute"
+        },
+        {
+          "title": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "summary": "MasterDnsVPN ist eine VPN-Lösung (Virtual Private Network) mit geringem Last-Domain-Name-System-Tunneling (DNS-Tunneling), die zur Umgehung von Zensurbarrieren entwickelt wurde. Das in der Go-Sprache geschriebene Tool bietet eine hohe Paketverluststabilität und Resolver-Lastausgleichsfunktionen bei der Datenübertragung.",
+          "meta": "Go · ★ 5.411 · +354 heute"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo nutzt große Sprachmodelle, um mit einem einzigen Klick hochauflösende Kurzvideos aus textbasierten Inhalten zu erstellen. Dieses Python-basierte Tool beschleunigt die Arbeitsabläufe bei der Inhaltserstellung durch die Automatisierung des Videoproduktionsprozesses.",
+          "meta": "Python · ★ 85.531 · +1.389 heute"
+        },
+        {
+          "title": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "summary": "OpenMed wurde von Maziyar Panahi entwickelt und vereint Open-Source-KI-Modelle und Tools für das Gesundheitswesen, die im Gesundheitswesen verwendet werden. Ziel des Projekts ist die Bereitstellung einer Standardinfrastruktur für die Verarbeitung und Analyse medizinischer Daten.",
+          "meta": "Python · ★ 2.454 · +527 heute"
+        },
+        {
+          "title": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "summary": "Dieser visuelle Leitfaden für Claude Code bietet eine breite Palette praktischer Beispiele, von grundlegenden Konzepten bis hin zu fortgeschrittenen Agenten für künstliche Intelligenz. Mit kopierbaren Vorlagen ermöglicht diese Ressource Benutzern die schnelle Implementierung komplexer Arbeitsabläufe.",
+          "meta": "Python · ★ 36.736 · +211 heute"
+        },
+        {
+          "title": "activeloopai/hivemind",
+          "url": "https://github.com/activeloopai/hivemind",
+          "summary": "Hivemind wurde von Activeloop entwickelt und bietet eine zentralisierte Speicherschicht für alle Agenten der künstlichen Intelligenz. Diese auf TypeScript basierende Struktur ermöglicht es verschiedenen Agenten, Daten auszutauschen und über einen gemeinsamen Informationspool zu kommunizieren.",
+          "meta": "TypeScript · ★ 985 · +64 heute"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView führt räumliche Intelligenz in Echtzeit, Vitalzeichenverfolgung und Anwesenheitserkennung ohne Bilddaten unter Verwendung standardmäßiger drahtloser Netzwerksignale (WiFi) durch. Diese mit der Rust-Sprache entwickelte Technologie minimiert die Hardwareanforderungen und führt Umgebungsüberwachungsprozesse über Standardsignale durch.",
+          "meta": "Rust · ★ 73.055 · +420 heute"
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Supervision wurde von Roboflow entwickelt und bietet wiederverwendbare Tools und Zusatzfunktionen für Computer-Vision-Projekte. Diese Python-basierte Bibliothek beschleunigt Entwicklungsabläufe durch die Optimierung von Standardaufgaben in Prozessen wie der Objekterkennung und -verfolgung.",
+          "meta": "Python · ★ 43.735 · +695 heute"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Google hat seine Kompetenzbibliothek veröffentlicht, ein Entwickler-Toolkit für Agenten der künstlichen Intelligenz, die integriert mit seinen eigenen Produkten und Technologien arbeiten. Diese Python-basierte Struktur bietet modulare Funktionen, die es Agenten ermöglichen, individuelle Aufgaben für Google-Dienste auszuführen.",
+          "meta": "Python · ★ 13.468 · +211 heute"
+        },
+        {
+          "title": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "summary": "Das Projekt FareedKhan-dev/train-llm-from-scratch bietet eine End-to-End-Methode zum Trainieren großer Sprachmodelle vom Datendownload bis zur Textgenerierung. Diese Python-basierte Arbeit bietet einen vereinfachten Arbeitsablauf für diejenigen, die ihr eigenes Sprachmodell von Grund auf entwickeln möchten.",
+          "meta": "Python · ★ 5.451 · +247 heute"
+        },
+        {
+          "title": "apple/container",
+          "url": "https://github.com/apple/container",
+          "summary": "Der von Apple entwickelte Container ermöglicht das Erstellen und Ausführen von Linux-Containern mithilfe kompakter virtueller Maschinen auf dem Mac. Das in der Swift-Sprache geschriebene Tool bietet eine für die Apple-Siliziumarchitektur optimierte Leistung.",
+          "meta": "Swift · ★ 30.453 · +1.611 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Building an HTML-first site doubled our users overnight",
+          "url": "https://mohkohn.co.uk/writing/html-first/",
+          "summary": "Durch die Verwendung eines HTML-First-Ansatzes anstelle komplexer JavaScript-Frameworks wird die Benutzerinteraktion durch die Verbesserung der Ladezeiten der Website direkt erhöht. Diese Methode optimiert die Zugänglichkeit und Leistungsdaten, indem sie eine schlankere Infrastruktur mit serverseitigem Rendering bereitstellt.",
+          "meta": "1.115 Punkte · 503 Kommentare"
+        },
+        {
+          "title": "πFS",
+          "url": "https://github.com/philipl/pifs",
+          "summary": "πFS ist eine experimentelle Speichermethode, die Ziffern von Pi als Dateisystem verwendet. Anstatt Daten direkt zu speichern, ermöglicht es den Datenzugriff durch Indizierung der Position bestimmter Daten innerhalb der Zahl pi.",
+          "meta": "725 Punkte · 171 Kommentare"
+        },
+        {
+          "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+          "url": "https://news.ycombinator.com/item?id=48477135",
+          "summary": "Eric Ries, Autor des Buches „The Lean Startup“, teilt seine fünfzehnjährigen Beobachtungen großer Unternehmen und öffentlicher Institutionen in der Frage-Antwort-Veranstaltung, die er im Rahmen seines neuen Buches „Incorruptible“ abhielt. Es bewertet die Anwendungsprozesse und Unternehmenstransformationserfahrungen von Entrepreneurship-Methoden in verschiedenen Sektoren.",
+          "meta": "646 Punkte · 484 Kommentare"
+        },
+        {
+          "title": "PgDog is funded and coming to a database near you",
+          "url": "https://pgdog.dev/blog/our-funding-announcement",
+          "summary": "PgDog erhielt Investitionen als Tool, das Echtzeit-Änderungsdatenerfassungsprozesse für PostgreSQL-Datenbanken vereinfacht. Diese Lösung, die es Entwicklern ermöglicht, Datenbankereignisse an externe Systeme zu übertragen, soll das Datenflussmanagement erleichtern.",
+          "meta": "450 Punkte · 220 Kommentare"
+        },
+        {
+          "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+          "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+          "summary": "Cyber-Sicherheitsforscher geben an, dass die Sicherheitsmaßnahmen (Leitplanken) im von Anthropic entwickelten Fable-Modell nicht ausreichen, um eine böswillige Nutzung des Systems zu verhindern. Experten argumentieren, dass die Sicherheitsbeschränkungen des Modells überwunden werden können und in Cyber-Angriffsszenarien ein Risiko darstellen könnten.",
+          "meta": "416 Punkte · 363 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "LocateAnything-3B wurde von Nvidia entwickelt und ist ein Bild-Text-zu-Text-Modell, das Objektlokalisierungsaufgaben durch die Verarbeitung visueller und textueller Eingaben ausführt. Das Modell bietet die Möglichkeit, die Koordinaten von Objekten in Bildern anhand vorgegebener Textbefehle zu bestimmen.",
+          "meta": "♥ 1.825 · 131.794 Downloads"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Google hat das Gemma 2 12B-Modell mit 12 Milliarden Parametern auf den Markt gebracht, das neue Mitglied der Gemma 2-Modellfamilie mit Multimode-Funktionen. Dieses Modell bietet eine Struktur, die mit seiner multimodalen Architektur, die Text- und visuelle Daten gleichzeitig verarbeiten kann, zwischen verschiedenen Datentypen wechseln kann.",
+          "meta": "♥ 910 · 675.936 Downloads"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "Das von Unsloth optimierte Gemma 4-12b-it-Modell bietet eine multimodale Struktur, die visuelle und textbasierte Daten verarbeiten kann. Dank des GGUF-Formats unterstützt das Modell die Text- und Bildverarbeitung auf lokalen Geräten mit geringem Speicherverbrauch.",
+          "meta": "♥ 554 · 711.706 Downloads"
+        },
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "summary": "DiffusionGemma, entwickelt von Google, ist ein multimodales Modell, das textbasierte Ausgaben durch die Verarbeitung von Text- und Bildeingaben erzeugt. Mit seiner Kapazität von 26 Milliarden Parametern bietet das Modell einen neuen Ansatz für die Verknüpfung visueller Daten mit Text.",
+          "meta": "♥ 337 · 0 Downloads"
+        },
+        {
+          "title": "bosonai/higgs-audio-v3-tts-4b",
+          "url": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
+          "summary": "higgs-audio-v3-tts-4b, entwickelt von BosonAI, ist ein Modell mit 4 Milliarden Parametern, das in Text-zu-Sprache-Prozessen verwendet wird. Dieses Modell bietet mit seinen natürlichen Klangsynthesefunktionen eine alternative Lösung zu digitalen Inhaltsproduktionsprozessen.",
+          "meta": "♥ 334 · 19.948 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "engineering skills",
+      "explanation": "Fähigkeit, Systeme mithilfe von Mathematik und Logik zu entwerfen und aufzubauen, um komplexe Probleme zu lösen."
+    },
+    {
+      "term": "agentic skills",
+      "explanation": "Die Fähigkeit einer künstlichen Intelligenz, selbstständig Entscheidungen zu treffen und die notwendigen Schritte zu planen, um das Ziel zu erreichen."
+    },
+    {
+      "term": "AI skill",
+      "explanation": "Die Fähigkeit, eine bestimmte Aufgabe auszuführen oder ein Problem mithilfe von Tools der künstlichen Intelligenz zu lösen."
+    },
+    {
+      "term": "dossier",
+      "explanation": "Eine organisierte Datei, in der alle Dokumente und Informationen zu einer bestimmten Person, einem bestimmten Thema oder einem bestimmten Ereignis gesammelt werden."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Eine Methode zum Sammeln und Analysieren von Informationen aus öffentlich zugänglichen Quellen im Internet."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Erste Anweisungen, die einem KI-Modell sagen, wie es sich verhalten und welche Regeln es befolgen soll."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Künstliche Intelligenz-Technologie, die mithilfe zuvor erlernter Daten neue Texte, Bilder oder Töne erstellen kann."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Eine Reihe von Methoden und Regeln zur Verbesserung der Fähigkeit künstlicher Intelligenz, unabhängig zu handeln."
+    },
+    {
+      "term": "DNS tunneling",
+      "explanation": "Eine Methode, den Internetverkehr heimlich durch ein System zu leiten, das normalerweise zum Suchen von Adressen verwendet wird."
+    },
+    {
+      "term": "VPN",
+      "explanation": "Ein Tool, das Ihre Identität verbirgt und durch die Verschlüsselung Ihrer Daten im Internet eine sichere Verbindung herstellt."
+    },
+    {
+      "term": "resolver load balancing",
+      "explanation": "Der Prozess zur Verhinderung einer Systemüberlastung durch die Verteilung von Internetadressenabfragen auf mehrere Server."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "open-source healthcare AI",
+      "explanation": "Software für künstliche Intelligenz, die im Gesundheitswesen geteilt wird, damit jeder sie untersuchen und weiterentwickeln kann."
+    },
+    {
+      "term": "agents",
+      "explanation": "Programme der künstlichen Intelligenz, die Werkzeuge verwenden und selbstständig Entscheidungen treffen, die dem Ziel entsprechen, das sie vom Benutzer erhalten."
+    },
+    {
+      "term": "centralized memory layer",
+      "explanation": "Ein gemeinsamer Speicherbereich, der es Systemen der künstlichen Intelligenz ermöglicht, vergangene Informationen und Erfahrungen von einem einzigen Zentrum aus zu speichern."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "Technologie, die es Geräten ermöglicht, über Funkwellen eine Verbindung zum Internet herzustellen, ohne dass Kabel erforderlich sind."
+    }
+  ]
+}

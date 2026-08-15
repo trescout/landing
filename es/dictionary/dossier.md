@@ -27,5 +27,8 @@ Se puede gestionar fácilmente con aplicaciones de toma de notas o bases de dato
 - [Knowledge Graph](/es/dictionary/knowledge-graph/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Maigret](/es/discover/maigret/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/dossier/

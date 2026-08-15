@@ -26,5 +26,8 @@ La mayoría del software de presentación admite este formato, pero a veces pued
 - [Document Parsing](/es/dictionary/document-parsing/)
 - [Design Tool](/es/dictionary/design-tool/)
 
+## Herramientas relacionadas
+- [Ppt Master](/es/discover/ppt-master/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/pptx/

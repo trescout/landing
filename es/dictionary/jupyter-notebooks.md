@@ -26,5 +26,15 @@ Científicos de datos, investigadores y desarrolladores de IA.
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 - [Markdown](/es/dictionary/markdown/)
 
+## Herramientas relacionadas
+- [Generative AI for Beginners](/es/discover/generative-ai-for-beginners/)
+- [AI-For-Beginners](/es/discover/ai-for-beginners/)
+- [Claude Cookbooks](/es/discover/claude-cookbooks/)
+- [Dive Into Llms](/es/discover/dive-into-llms/)
+- [Airllm](/es/discover/airllm/)
+- [Machine Learning for Trading](/es/discover/machine-learning-for-trading/)
+- [Cosmos](/es/discover/cosmos/)
+- [Train LLM from Scratch](/es/discover/train-llm-from-scratch/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/jupyter-notebooks/

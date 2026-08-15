@@ -27,5 +27,8 @@ Decisiones pasadas de los agentes, preferencias de los usuarios y nueva informac
 - [Memory API](/es/dictionary/memory-api/)
 - [Memory System](/es/dictionary/memory-system/)
 
+## Herramientas relacionadas
+- [Hivemind](/es/discover/hivemind/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/centralized-memory-layer/

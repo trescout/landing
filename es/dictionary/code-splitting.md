@@ -23,5 +23,8 @@ Puede que sea muy poco tiempo, pero la experiencia general es mejor ya que la ve
 - [Bundler](/es/dictionary/bundler/)
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 
+## Herramientas relacionadas
+- [Webpack](/es/discover/webpack/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/code-splitting/

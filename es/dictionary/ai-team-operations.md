@@ -27,5 +27,8 @@ La precisión del modelo está determinada por la rapidez con la que el equipo p
 - [Continuous Learning](/es/dictionary/continuous-learning/)
 - [Observability](/es/dictionary/observability/)
 
+## Herramientas relacionadas
+- [Lobehub](/es/discover/lobehub/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-team-operations/

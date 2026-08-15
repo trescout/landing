@@ -24,5 +24,8 @@ Sí, mejora con el tiempo estudiando diferentes tecnologías, analizando buenos 
 - [User Experience](/es/dictionary/user-experience/)
 - [Clean Code](/es/dictionary/clean-code/)
 
+## Herramientas relacionadas
+- [Taste Skill](/es/discover/taste-skill/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/taste/

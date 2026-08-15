@@ -26,5 +26,8 @@ Sí, pero usted es responsable de la seguridad del sistema operativo y del softw
 - [PaaS](/es/dictionary/paas/)
 - [Virtual Machines](/es/dictionary/virtual-machines/)
 
+## Herramientas relacionadas
+- [Free for Dev](/es/discover/free-for-dev/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/iaas/

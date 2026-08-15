@@ -28,5 +28,8 @@ Se trata de mantener siempre actualizado el sistema y reemplazar las contraseña
 - [Vulnerability Scanning](/es/dictionary/vulnerability-scanning/)
 - [Root](/es/dictionary/root/)
 
+## Herramientas relacionadas
+- [How-To-Secure-A-Linux-Server](/es/discover/how-to-secure-a-linux-server/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/linux-server-security/

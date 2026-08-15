@@ -23,5 +23,8 @@ Aumentar la velocidad de carga del sitio haciendo que el navegador envíe menos 
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 - [Tech Stack](/es/dictionary/tech-stack/)
 
+## Herramientas relacionadas
+- [SWC](/es/discover/swc/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/bundling/

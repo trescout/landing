@@ -24,5 +24,8 @@ Los marcos son flexibles; Puedes crear diseños originales añadiendo tus propio
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 - [User Interface](/es/dictionary/user-interface/)
 
+## Herramientas relacionadas
+- [Tailwindcss](/es/discover/tailwindcss/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/css-framework/

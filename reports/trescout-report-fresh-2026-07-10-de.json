@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-10",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "SmartlyDressedGames/U3-SDK",
+          "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+          "summary": "SmartlyDressedGames hat das U3-SDK-Softwareentwicklungskit, das für das Open-World-Zombie-Überlebensspiel Unturned entwickelt wurde, als Open Source bereitgestellt. Diese in C#-Sprache erstellten Quellcodes ermöglichen es Community-Mitgliedern, das Spiel anzupassen und weiterzuentwickeln.",
+          "meta": "C# · ★ 2.182 · +524 heute"
+        },
+        {
+          "title": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "summary": "Awesome-design-md ist eine Sammlung von Designdokumenten (DESIGN.md) aus beliebten Markendesignsystemen. Mithilfe dieser Dokumente können Software-Agenten für Projekte geeignete Benutzeroberflächen (UIs) erstellen.",
+          "meta": "★ 100.194 · +1.391 heute"
+        },
+        {
+          "title": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "summary": "Von Anthropics geteilte Claude-Kochbücher bieten praktische Codebeispiele und Jupyter-Notizbücher für die Verwendung von Claude-Modellen. Diese Ressource bietet eine Vielzahl von Workflow-Vorlagen, die Entwicklern dabei helfen, die Integration von Claude in KI-Anwendungen zu beschleunigen.",
+          "meta": "Jupyter Notebook · ★ 47.306 · +194 heute"
+        },
+        {
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "summary": "Pentagi wurde mit der Go-Sprache entwickelt und bietet ein System vollständig autonomer künstlicher Intelligenz-Agenten (KI-Agenten), die komplexe Penetrationstests durchführen können. Das System zielt darauf ab, autonome Arbeitsabläufe zur Erkennung und Ausnutzung von Schwachstellen zu standardisieren.",
+          "meta": "Go · ★ 19.634 · +535 heute"
+        },
+        {
+          "title": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "summary": "Crawl4AI ist ein Open-Source-Webcrawler und Datenscraper, der für große Sprachmodelle optimiert ist. Das auf Python basierende Tool wandelt unstrukturierte Webdaten in Formate um, die direkt in KI-Anwendungen verwendet werden können.",
+          "meta": "Python · ★ 72.019 · +215 heute",
+          "returning": true
+        },
+        {
+          "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+          "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+          "summary": "Dieser Leitfaden zur Linux-Serversicherheit fasst die grundlegenden Konfigurationsschritte zusammen, die befolgt werden müssen, um Systeme vor externen Bedrohungen zu schützen. Der ständig aktualisierte Inhalt bietet einen praktischen Leitfaden zu den besten Methoden, die bei Server-Härtungsprozessen angewendet werden können.",
+          "meta": "★ 29.237 · +243 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "EU Parliament greenlights Chat Control 1.0",
+          "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+          "summary": "Das Europäische Parlament hat die Verordnung gebilligt, die darauf abzielt, Ende-zu-Ende-Verschlüsselungssysteme zu scannen, um Kindesmissbrauchsmaterialien auf digitalen Kommunikationsplattformen zu erkennen. Die Entscheidung löste Diskussionen über die Vertraulichkeit privater Korrespondenz und die Implementierung von Kontrollmechanismen über Sicherheitsprotokolle aus.",
+          "meta": "1.276 Punkte · 605 Kommentare"
+        },
+        {
+          "title": "GPT-5.6",
+          "url": "https://openai.com/index/gpt-5-6/",
+          "summary": "OpenAI kündigte GPT-5.6 an, das sich auf Sicherheits- und Leistungsverbesserungen in großen Sprachmodellen konzentriert. Das neue Modell ist über die API mit verbesserten Argumentationsfunktionen und aktualisierten Sicherheitsprotokollen verfügbar.",
+          "meta": "1.213 Punkte · 858 Kommentare"
+        },
+        {
+          "title": "Show HN: 18 Words",
+          "url": "https://18words.com/",
+          "summary": "18 Words ist eine Plattform zum Auswendiglernen von Wörtern, die Benutzern jeden Tag nur achtzehn Wörter beibringt, um ihren täglichen Wortschatz zu verbessern. Die Benutzeroberfläche bietet ein minimalistisches Design ohne Ablenkungen, um den Lernprozess zu vereinfachen.",
+          "meta": "954 Punkte · 312 Kommentare"
+        },
+        {
+          "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+          "url": "https://github.com/malisper/pgrust",
+          "summary": "Die mit der Programmiersprache Rust neu geschriebene Version des PostgreSQL-Datenbankverwaltungssystems schließt alle Regressionstests erfolgreich ab. Dieses Projekt bringt die Datenbankarchitektur in das Rust-Ökosystem, um die Speichersicherheit zu erhöhen und die Vorteile moderner Sprachfunktionen zu nutzen.",
+          "meta": "599 Punkte · 501 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "software development kit",
+      "explanation": "Eine Reihe von Tools, Bibliotheken und Dokumenten, die zur Entwicklung von Software für eine bestimmte Plattform verwendet werden."
+    },
+    {
+      "term": "DESIGN.md",
+      "explanation": "Eine Informationsdatei, die erklärt, wie ein Projekt entworfen wurde und welche architektonischen Entscheidungen getroffen wurden."
+    },
+    {
+      "term": "UI",
+      "explanation": "Alle visuellen Elemente, mit denen ein Benutzer mit einer Anwendung oder Website interagiert."
+    },
+    {
+      "term": "cookbooks",
+      "explanation": "Leitfäden, die praktische und vorgefertigte Lösungen für Probleme bieten, die bei der Verwendung einer bestimmten Technologie auftreten."
+    },
+    {
+      "term": "notebooks",
+      "explanation": "Interaktive Arbeitsumgebungen, in denen Codes, Erklärungen und Ergebnisse gemeinsam auf derselben Seite angezeigt werden können."
+    },
+    {
+      "term": "penetration testing",
+      "explanation": "Dabei handelt es sich um den Prozess, die Angriffe zu testen, die böswillige Personen auf kontrollierte Weise durchführen können, um die Sicherheit eines Systems zu testen."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonome Software für künstliche Intelligenz, die selbstständig Entscheidungen treffen und gezielte Aufgaben ausführen kann."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "Linux server security",
+      "explanation": "Arbeiten Sie daran, Open-Source-Serversysteme vor Cyberangriffen und unbefugtem Zugriff zu schützen."
+    },
+    {
+      "term": "server hardening",
+      "explanation": "Der Prozess zur Reduzierung des Angriffsrisikos durch Deaktivierung unnötiger Funktionen und Verschärfung der Sicherheitseinstellungen auf einem Server."
+    }
+  ]
+}

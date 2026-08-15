@@ -27,5 +27,8 @@ No tiene que explicarse desde cero cada vez para resolver su problema.
 - [AI-powered Note Analysis](/es/dictionary/ai-powered-note-analysis/)
 - [AI Skills](/es/dictionary/ai-skills/)
 
+## Herramientas relacionadas
+- [Chatwoot](/es/discover/chatwoot/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/omni-channel-desk/

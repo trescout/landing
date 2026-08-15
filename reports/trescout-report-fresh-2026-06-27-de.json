@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-27",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "summary": "SimpleX bietet eine datenschutzorientierte Kommunikationsinfrastruktur als erstes Messaging-Netzwerk, das ohne die Verwendung von Benutzerkennungen auskommt. Die in Haskell-Sprache entwickelte Plattform zielt darauf ab, Benutzerdaten dank ihrer dezentralen Struktur vollständig anonym zu halten.",
+          "meta": "Haskell · ★ 12.874 · +432 heute"
+        },
+        {
+          "title": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "summary": "Openpilot wurde von Comma AI entwickelt und ist ein Open-Source-Betriebssystem für Robotersysteme. Die Software ermöglicht autonomes Fahren durch die Aufrüstung des Fahrerassistenzsystems in mehr als 300 Fahrzeugmodellen.",
+          "meta": "Python · ★ 61.864 · +80 heute"
+        },
+        {
+          "title": "grafana/grafana",
+          "url": "https://github.com/grafana/grafana",
+          "summary": "Grafana ist eine Open-Source-Plattform für Beobachtbarkeit und Datenvisualisierung, die Metriken, Protokolle und Traces aus verschiedenen Datenquellen in einer einzigen Schnittstelle kombiniert. Es ermöglicht die Analyse komplexer Datensätze durch die Integration mit vielen Systemen wie Prometheus, Elasticsearch und PostgreSQL.",
+          "meta": "TypeScript · ★ 74.994 · +32 heute"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev ist eine Ressourcenliste, die die kostenlosen Ebenen von Software as a Service (SaaS), Platform as a Service (PaaS) und Infrastructure as a Service (IaaS)-Lösungen zusammenfasst, die in Softwareentwicklungsprozessen verwendet werden. Ziel ist es, Entwicklern und Infrastrukturingenieuren den Zugang zu kostenlosen Tools zu erleichtern.",
+          "meta": "HTML · ★ 123.834 · +90 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+          "summary": "Die Regierung der Vereinigten Staaten wird die Befugnis haben, Benutzer zu überwachen, die auf die von OpenAI entwickelten Modelle für künstliche Intelligenz der nächsten Generation zugreifen. Diese Anwendung hebt nationale Sicherheits- und Risikomanagementkriterien bei der Verwendung von Hochleistungsmodellen hervor.",
+          "meta": "955 Punkte · 1.018 Kommentare"
+        },
+        {
+          "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+          "summary": "OpenAI teilte die Systemplatine und Vorschaudetails für das Sprachmodell der nächsten Generation GPT-5.6 Sol mit. Die veröffentlichten technischen Dokumente konzentrieren sich auf die Sicherheitsprotokolle des Modells und verbesserte Argumentationsfähigkeiten.",
+          "meta": "940 Punkte · 579 Kommentare"
+        },
+        {
+          "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+          "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+          "summary": "Die Regierung der Vereinigten Staaten hat das von Anthropic entwickelte Mythos-Modell für künstliche Intelligenz zur Verwendung durch bestimmte vertrauenswürdige Organisationen genehmigt. Diese Entwicklung stellt die Öffnung leistungsstarker Modelle der künstlichen Intelligenz für den kontrollierten Zugang im Rahmen der nationalen Sicherheit und Kontrolle dar.",
+          "meta": "356 Punkte · 355 Kommentare"
+        },
+        {
+          "title": "We can still stop California's 3D printer surveillance scheme",
+          "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+          "summary": "Der Gesetzentwurf, der im US-Bundesstaat Kalifornien ins Rampenlicht gerückt wurde, zielt darauf ab, Hersteller von 3D-Druckern zu zwingen, Überwachungstechnologien zu integrieren, die Benutzer in den Geräten verfolgen können. Die Electronic Frontier Foundation lehnt den Gesetzentwurf ab und argumentiert, dass diese Regelung die persönliche Produktionsfreiheit einschränken und das Recht auf Privatsphäre verletzen würde.",
+          "meta": "343 Punkte · 117 Kommentare"
+        },
+        {
+          "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+          "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+          "summary": "AWS Lambda führt die Micro Virtual Machines (microVMs)-Technologie ein, um isolierte Sandboxen zu erstellen. Dieser Ansatz verbessert die Sicherheits- und Ressourcenverwaltungsprozesse, indem er Entwicklern die volle Kontrolle über den Lebenszyklus gibt.",
+          "meta": "314 Punkte · 175 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "user identifiers",
+      "explanation": "Eindeutige Identifikationsnummern oder Benutzernamen, die zur Unterscheidung einer Person von anderen in einem digitalen System verwendet werden."
+    },
+    {
+      "term": "driver assistance system",
+      "explanation": "Intelligente Assistenztechnologien, die den Fahrer warnen oder das Fahrzeug automatisch steuern, um die Sicherheit beim Fahren zu erhöhen."
+    },
+    {
+      "term": "logs",
+      "explanation": "Protokolle, in denen die von einer Software im Hintergrund ausgeführten Vorgänge und die dabei auftretenden Fehler mit Zeitstempel aufgezeichnet werden."
+    },
+    {
+      "term": "traces",
+      "explanation": "Die schrittweise Aufzeichnung des Pfades, dem ein Prozess folgt, während er sich durch verschiedene Phasen innerhalb des Systems bewegt."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Ein Modell der Nutzung der Software durch Ausleihen über das Internet über einen Browser, anstatt sie auf Ihrem Computer zu installieren."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Bereitstellung der notwendigen Infrastruktur über das Internet für Softwareentwickler, um ihre eigenen Anwendungen zu entwickeln und zu veröffentlichen."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Vermietung grundlegender Hardware-Ressourcen wie virtuelle Server und Speicherplatz über das Internet."
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "date": "2026-08-03",
+  "editorial": "Heute ist ein Tag, an dem geschwindigkeitsorientierte Modelle in Softwareentwicklungsprozessen Vorrang vor Intelligenzkapazität haben und Zuverlässigkeitsprobleme in Datenstrukturen diskutiert werden. Insbesondere der Anstieg der Codierungsleistung von Modellen der neuen Generation wie DeepSeek und Qwen wird durch technische Artikel zu den Schwachstellen großer Sprachmodelle (LLM) ausgeglichen.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "AI-For-Beginners, erstellt von Microsoft, ist ein Open-Source-Schulungsprogramm, das in einem 12-wöchigen Lehrplan die Grundlagen der künstlichen Intelligenz vermittelt. Es erleichtert den Lernprozess, indem es theoretisches Wissen mit praktischen Anwendungen durch interaktive Codedateien (Jupyter Notebook) unterstützt.",
+          "meta": "Jupyter Notebook · ★ 59.742 · +2.629 heute"
+        },
+        {
+          "title": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "summary": "Kaneo ist ein übersichtliches Open-Source-Projektmanagement-Tool. Diese Software konzentriert sich auf die Vereinfachung der Arbeitsabläufe der Benutzer und bietet eine Alternative zu herkömmlichen Projektverfolgungsplattformen wie Jira.",
+          "meta": "TypeScript · ★ 6.372 · +496 heute"
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "Mit AirLLM können Sie große Sprachmodelle mit 70 Milliarden Parametern auf Grafikprozessoren (GPU) mit nur 4 GB Speicher ausführen. Diese Bibliothek bietet eine Lösung für diejenigen, die Modelle der künstlichen Intelligenz mit hohem Speicher und begrenzten Hardwareressourcen verwenden möchten.",
+          "meta": "Jupyter Notebook · ★ 25.971 · +819 heute"
+        },
+        {
+          "title": "iv-org/invidious",
+          "url": "https://github.com/iv-org/invidious",
+          "summary": "Invidious ist eine Open-Source-Software, die eine alternative Schnittstelle zur YouTube-Plattform bietet. Ziel ist es, den Benutzern ein Videoerlebnis ohne Werbung und Datenverfolgung zu bieten.",
+          "meta": "Crystal · ★ 22.071 · +305 heute"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "summary": "Build Your Own Es vermittelt anhand angewandter Projekte, wie komplexe Systeme wie eine Datenbank, ein Betriebssystem oder eine Suchmaschine funktionieren.",
+          "meta": "Markdown · ★ 535.205 · +674 heute"
+        },
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-Skill bietet einen KI-gestützten Talenttreiber für Reverse-Engineering- und Penetrationstestprozesse. Durch die Integration mit Codierungsassistenten wie Claude Code und Cursor installiert dieses Tool automatisch die erforderlichen Sicherheitstools und aktualisiert ständig seine Wissensdatenbank.",
+          "meta": "PowerShell · ★ 14.299 · +1.141 heute"
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork ist eine Open-Source-Alternative zu Claude Cowork, einem KI-Assistenten, der Softwareentwicklungsprozesse automatisiert. Mithilfe der Opencode-Infrastruktur ermöglicht dieses Tool Entwicklern die Verwendung eines anpassbaren Codierungsassistenten in ihren eigenen Projekten.",
+          "meta": "TypeScript · ★ 20.503 · +280 heute"
+        },
+        {
+          "title": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "summary": "Diese von Microsoft vorbereitete Schulungsreihe bietet einen Lehrplan mit 21 Lektionen für diejenigen, die in Technologien der generativen künstlichen Intelligenz (generative KI) einsteigen möchten. Die Inhalte im Jupyter-Notebook-Format vermitteln den Teilnehmern die grundlegenden Konzepte und technischen Fähigkeiten, die für die Entwicklung eigener Anwendungen erforderlich sind.",
+          "meta": "Jupyter Notebook · ★ 115.026 · +588 heute"
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach ist eine Befehlszeilenschnittstelle (CLI), die Agenten künstlicher Intelligenz die Möglichkeit gibt, Inhalte auf beliebten Plattformen im Internet zu suchen und zu lesen. Es bietet Benutzern die Möglichkeit, Daten von Plattformen wie Twitter, Reddit und GitHub zu extrahieren, ohne Gebühren für die Anwendungsprogrammierschnittstelle (API) zu zahlen.",
+          "meta": "Python · ★ 65.059 · +659 heute"
+        },
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory wurde von TencentCloud entwickelt und ist ein Speicher-Hub auf Teamebene für KI-Agenten, der Konversationen, Dokumente und Code in wiederverwendbare Datenbestände umwandelt. Dieses in TypeScript geschriebene Tool zielt darauf ab, den Informationsaustausch und die Governance über verschiedene Agenten und Frameworks hinweg zu standardisieren.",
+          "meta": "TypeScript · ★ 11.428 · +602 heute"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill wurde als künstlicher Intelligenz-Skill (KI-Skill) konzipiert, der aktuelle Themenrecherchen auf Plattformen wie Reddit, X, YouTube und Hacker News durchführt. Dieses Python-basierte Tool analysiert aus verschiedenen Quellen gesammelte Daten und stellt dem Benutzer eine überprüfbare Zusammenfassung zur Verfügung.",
+          "meta": "Python · ★ 57.008 · +206 heute"
+        },
+        {
+          "title": "NomaDamas/k-skill",
+          "url": "https://github.com/NomaDamas/k-skill",
+          "summary": "K-skill ist eine Skill-Bibliothek, die KI-Agenten an die koreanische Kultur und Sprachstruktur anpasst. Es handelt sich um ein JavaScript-basiertes Toolset, das es Entwicklern ermöglicht, Interaktionen zu entwerfen, die an lokale Kontexte angepasst sind.",
+          "meta": "JavaScript · ★ 6.937 · +177 heute"
+        },
+        {
+          "title": "HarbourMasters/Lighthouse",
+          "url": "https://github.com/HarbourMasters/Lighthouse",
+          "summary": "Lighthouse ist ein in C-Sprache entwickeltes Code-Coverage-Tool, das für Low-Level-Systeme konzipiert ist. Es stellt Entwicklern Daten zum Debuggen und zur Leistungsoptimierung zur Verfügung, indem es analysiert, welche Codeblöcke während der Testprozesse der Software ausgeführt werden.",
+          "meta": "C · ★ 259 · +65 heute"
+        },
+        {
+          "title": "antirez/ds4",
+          "url": "https://github.com/antirez/ds4",
+          "summary": "DS4 wurde von Salvatore Sanfilippo, dem Erfinder von Redis, entwickelt und ist eine Inferenz-Engine, die die Ausführung von DeepSeek-Modellen auf lokaler Hardware ermöglicht. Dieses in C-Sprache geschriebene Tool bietet dank Metal-, CUDA- und ROCm-Unterstützung die Möglichkeit, Hochleistungsmodelle auf verschiedenen Grafikprozessoren auszuführen.",
+          "meta": "C · ★ 20.117 · +139 heute"
+        },
+        {
+          "title": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "summary": "DeepSeek-Reasonix ist ein KI-Coding-Agent, der auf dem Terminal läuft und auf DeepSeek-Modellen basiert. Dieses Tool konzentriert sich auf die Stabilität des Präfix-Cache und stellt sicher, dass Entwickler über lange Sitzungen hinweg unterbrechungsfreie Codierungsunterstützung erhalten.",
+          "meta": "Go · ★ 29.369 · +333 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Karpathy’s Pelican",
+          "url": "https://twitter.com/karpathy/status/2083749667410727319",
+          "summary": "Pelican wurde von Andrej Karpathy entwickelt und bietet als statischer Site-Generator eine einfache und schnelle Inhaltsverwaltung. Dieses Python-basierte Tool konzentriert sich auf die direkte Konvertierung von Textdateien in Webseiten und nicht auf komplexe Konfigurationen.",
+          "meta": "538 Punkte · 376 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49140998",
+              "popularity": 538,
+              "engagementCount": 376
+            }
+          ]
+        },
+        {
+          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "summary": "Qwen3.8-Max, das von Alibaba entwickelte große Sprachmodell, bringt Codierungs- und Kollaborationsfunktionen in Softwareentwicklungsprozessen auf ein fortgeschrittenes Niveau. Das Modell setzt einen neuen Standard für Entwicklertools (IDEs), indem es eine hohe Genauigkeit und effiziente Arbeitsleistung bei komplexen Programmieraufgaben bietet.",
+          "meta": "415 Punkte · 172 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49150470",
+              "popularity": 415,
+              "engagementCount": 172
+            }
+          ]
+        },
+        {
+          "title": "How the words we teach English language learners changed",
+          "url": "https://pudding.cool/2026/07/essential-words/",
+          "summary": "Die von The Pudding erstellte Visualisierung untersucht die Veränderung des Vokabulars, das in Lehrbüchern für Englischlerner im Laufe der Zeit verwendet wird. Die Studie zeigt mit einem datengesteuerten Ansatz, wie sich die kulturellen und sprachlichen Schwerpunkte von Lehrmaterialien im Laufe der Jahrzehnte unterschieden haben.",
+          "meta": "208 Punkte · 156 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49145590",
+              "popularity": 208,
+              "engagementCount": 156
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+          "url": "https://github.com/wie-project/kakehashi",
+          "summary": "Kakehashi ist ein experimentelles Userspace-Tool, das die Ausführung von macOS-Binärdateien auf der Linux-ARM-Architektur ermöglicht. Ziel ist es, die notwendige Übersetzungsschicht zu schaffen, um Apple-Betriebssystemanwendungen auf einem anderen Kern auszuführen.",
+          "meta": "208 Punkte · 50 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49145937",
+              "popularity": 208,
+              "engagementCount": 50
+            }
+          ]
+        },
+        {
+          "title": "Developers are attached to tools because tools encode trust",
+          "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+          "summary": "Das Engagement der Entwickler gegenüber den von ihnen verwendeten Tools beruht auf der Tatsache, dass diese Tools Zuverlässigkeit und Vorhersehbarkeit in ihren Arbeitsabläufen bieten. Entwickler sehen in den Standards und der Zuverlässigkeit einer technischen Lösung (Tool) einen wichtigen Bezugspunkt für die Aufrechterhaltung ihrer persönlichen Produktivität.",
+          "meta": "193 Punkte · 104 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49097961",
+              "popularity": 193,
+              "engagementCount": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3 wurde von Moonshot AI entwickelt und ist ein multimodales Modell der künstlichen Intelligenz, das sowohl visuelle als auch Textdaten verarbeiten kann. Es ermöglicht Benutzern die Analyse komplexer Bilder und die Interaktion mit textbasierten Befehlen.",
+          "meta": "♥ 9.708 · 837.202 Downloads"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731 ist ein von DeepSeek entwickeltes und für Textgenerierungsaufgaben optimiertes Modell der künstlichen Intelligenz. Dieses auf Hugging Face gehostete Modell zielt darauf ab, leistungsstarke Sprachverarbeitungsfunktionen mit schnelleren Reaktionszeiten bereitzustellen.",
+          "meta": "♥ 1.850 · 156.173 Downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, entwickelt von MiniMax, ist ein multimodales KI-Modell, das Videos mithilfe visueller und Texteingaben erstellt. Es ermöglicht Benutzern, aus statischen Inhalten oder schriftlichen Befehlen hochwertige Bewegtbilder zu erstellen.",
+          "meta": "♥ 630 · 0 Downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Qwen3.6-27B-Fable-Fusion ist ein Modell der künstlichen Intelligenz, das Textausgaben durch die Verarbeitung visueller und Texteingaben erzeugt. Diese Arbeit, die auf HuggingFace, einer Plattform, die Open-Source-Modelle hostet, geteilt wird, bietet eine Struktur, die sich auf die unzensierte Produktion von Inhalten konzentriert.",
+          "meta": "♥ 1.370 · 1.372.285 Downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR wurde von Baidu entwickelt und ist ein Bild-zu-Text-Modell, das Text in Bildern verarbeitet und in eine textbasierte Ausgabe umwandelt. Es erleichtert Digitalisierungsprozesse, indem es visuelle Daten in verschiedenen Formaten in Textdaten umwandelt.",
+          "meta": "♥ 3.802 · 2.536.284 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift",
+          "url": "https://huggingface.co/papers/2607.28996",
+          "summary": "SULAND v2 ist ein umfassender RGB-Bilddatensatz und ein Benchmarking-Tool, das für die Erkennung von Oberflächenminen durch unbemannte Luft- und Bodenfahrzeuge (UAV/UGV) entwickelt wurde. Durch die Messung der Leistung von Objekterkennungsmodellen unter verschiedenen Betriebsbedingungen soll die allgemeine Gültigkeit der Modelle in diesem sicherheitsorientierten Bereich getestet werden.",
+          "meta": "0 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
+          "url": "https://huggingface.co/papers/2607.27951",
+          "summary": "Schutzmaßnahmen in großen Sprachmodellen schaffen Schwachstellen bei Dual-Use-Aufgaben, da über die Antwort entschieden wird, ohne zu wissen, wie sie verwendet wird. Die Forscher beweisen, dass klonbarer Kontext keine verlässliche Grundlage für Sicherheit bieten kann, wenn Angreifer sich als Benutzer mit guten Absichten ausgeben können.",
+          "meta": "0 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Enhancing Rubric-based RL via Self-Distillation",
+          "url": "https://huggingface.co/papers/2607.18082",
+          "summary": "Kriteriumbasiertes Verstärkungslernen ist eine Methode zur Verbesserung von Sprachmodellen in einem breiten Aufgabenspektrum. Um die durch externe Anleitung verursachte Trainings- und Inferenzinkongruenz zu beseitigen, verwenden Forscher die Selbstdestillationstechnik, um unentdeckte Metriken in den Optimierungsprozess einzubeziehen.",
+          "meta": "13 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
+          "url": "https://huggingface.co/papers/2607.29025",
+          "summary": "Das Bewertungs- und Verifizierungsbelohnungssystem, das entwickelt wurde, um visuelle Konsistenz und Harmonie in visuellen Bearbeitungsmodellen mit mehreren Referenzen sicherzustellen, bringt Methoden des verstärkenden Lernens in diesen Bereich. Dieser Ansatz zielt darauf ab, die visuelle Integrität bei Bearbeitungsprozessen zu wahren, indem relationale Einschränkungen zwischen mehreren Bildern modelliert werden.",
+          "meta": "11 Likes · 0 Kommentare"
+        },
+        {
+          "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+          "url": "https://huggingface.co/papers/2607.29677",
+          "summary": "ExtractBench ist ein neuer Benchmark, der die schemabasierte Datenextraktion aus Unternehmensdokumenten bewertet. Das System misst die Genauigkeit, Vollständigkeit, Herkunft und Kostenleistung von KI-Modellen in 370 verschiedenen Unternehmensdokumenten.",
+          "meta": "13 Likes · 0 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Your JSON Is Lying to You",
+          "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+          "summary": "Das JSON-Format kann aufgrund seiner begrenzten Fähigkeit zur Darstellung von Datentypen und seiner numerischen Genauigkeit zu unerwartetem Datenverlust in Anwendungen führen. Diese Inkonsistenzen führen insbesondere bei der Verarbeitung großer Ganzzahlen oder präziser Dezimalwerte zu Problemen mit der Datenintegrität.",
+          "meta": "9 Punkte · 3 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/tjgemj/your_json_is_lying_you",
+              "popularity": 9,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "I'm (mostly) picking models on speed now, not intelligence",
+          "url": "https://martinalderson.com/posts/speed-vs-intelligence/",
+          "summary": "Bei der Auswahl von Modellen für künstliche Intelligenz konzentrieren sich Softwareentwickler heute eher auf Geschwindigkeit (Latenz) als auf Intelligenzkapazität. Kurze Reaktionszeiten haben Vorrang vor der Komplexität der Modelle, da sie die Effizienz in den täglichen Arbeitsabläufen steigern.",
+          "meta": "27 Punkte · 15 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aso7dh/i_m_mostly_picking_models_on_speed_now_not",
+              "popularity": 27,
+              "engagementCount": 15
+            }
+          ]
+        },
+        {
+          "title": "Faster floating point math with Rust’s new API",
+          "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+          "summary": "Die neue Anwendungsprogrammierschnittstelle (API), die der Programmiersprache Rust hinzugefügt wurde, erhöht die Verarbeitungsgeschwindigkeit der Gleitkomma-Mathematik. Dieses Update sorgt für Leistungsoptimierung, insbesondere bei Software, die intensive mathematische Operationen erfordert.",
+          "meta": "18 Punkte · 7 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jnznnu/faster_floating_point_math_with_rust_s_new",
+              "popularity": 18,
+              "engagementCount": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Jupyter Notebook",
+      "explanation": "Eine interaktive Arbeitsumgebung, in der Sie beim Schreiben und Ausführen von Codes Notizen und Grafiken hinzufügen können."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Eine leistungsstarke Prozessoreinheit, die komplexe Vorgänge, insbesondere Bildverarbeitung und Berechnungen der künstlichen Intelligenz, sehr schnell ausführen kann."
+    },
+    {
+      "term": "coding assistant",
+      "explanation": "Ein Tool für künstliche Intelligenz, das Sie beim Schreiben von Code unterstützt, Fehler findet und Vorschläge bei der Entwicklung von Software macht."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Künstliche Intelligenz-Technologie, die auf der Grundlage der gelernten Informationen neue Texte, Bilder oder Töne erstellen kann."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Textbasierte Schnittstelle, die es Ihnen ermöglicht, Programme durch die Eingabe geschriebener Befehle statt mit der Maus zu verwalten."
+    },
+    {
+      "term": "API",
+      "explanation": "Eine Brücke, die es zwei verschiedenen Softwareprogrammen ermöglicht, miteinander zu kommunizieren und Daten auszutauschen."
+    },
+    {
+      "term": "AI skill",
+      "explanation": "Die besondere Fähigkeit oder das Fachgebiet, über das eine künstliche Intelligenz verfügt, um eine bestimmte Aufgabe auszuführen."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonome Software für künstliche Intelligenz, die mithilfe von Tools selbstständig Entscheidungen trifft und Ziele erreicht."
+    },
+    {
+      "term": "code coverage",
+      "explanation": "Ein Messwert, der angibt, wie viel von einem geschriebenen Programm durch Tests kontrolliert wird."
+    },
+    {
+      "term": "inference engine",
+      "explanation": "Eine Software, die mithilfe eines trainierten Modells der künstlichen Intelligenz Vorhersagen oder Schlussfolgerungen zu neuen Daten erstellt."
+    },
+    {
+      "term": "prefix-cache",
+      "explanation": "Eine Beschleunigungsmethode, die verhindert, dass künstliche Intelligenz dieselben Vorgänge wiederholt, indem sie die zuvor verarbeiteten Textanfänge im Speicher behält."
+    },
+    {
+      "term": "static site generator",
+      "explanation": "Ein Softwaretool, das vorgefertigte Inhalte in schnell ladende feste Webseiten umwandelt."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Eine fortschrittliche Arbeitsumgebung, die alle Tools, die Softwareentwickler zum Schreiben von Code benötigen, an einem Ort vereint."
+    },
+    {
+      "term": "binary",
+      "explanation": "Ein Maschinensprachenformat, das nur aus Nullen und Einsen besteht und vom Computer direkt verstanden und ausgeführt werden kann."
+    },
+    {
+      "term": "userspace",
+      "explanation": "Ein sicherer Bereich, in dem Benutzeranwendungen ausgeführt werden, ohne den Betriebssystemkern des Computers zu berühren."
+    }
+  ]
+}

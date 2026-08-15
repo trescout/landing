@@ -28,5 +28,8 @@ Sí, los modelos de inteligencia artificial pueden mejorar estas habilidades con
 - [AI Agent Skill](/es/dictionary/ai-agent-skill/)
 - [Agentic AI](/es/dictionary/agentic-ai/)
 
+## Herramientas relacionadas
+- [Pm Skills](/es/discover/pm-skills/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agentic-skills/

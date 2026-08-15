@@ -20,8 +20,12 @@ Lo ideal es que las copias de seguridad se guarden en una ubicación físicament
 
 
 ## Términos relacionados
+- [Incremental Backup](/es/dictionary/incremental-backup/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 - [Secrets](/es/dictionary/secrets/)
+
+## Herramientas relacionadas
+- [Restic](/es/discover/restic/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/backup-program/

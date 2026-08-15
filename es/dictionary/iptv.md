@@ -28,5 +28,8 @@ IPTV es una tecnología de transmisión y es legal; Sin embargo, los servicios d
 - [API](/es/dictionary/api/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Iptv](/es/discover/iptv/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/iptv/

@@ -29,5 +29,10 @@ Dibujar elementos visuales requiere potencia de procesamiento, por lo que a vece
 - [Web Interface](/es/dictionary/web-interface/)
 - [User Interface](/es/dictionary/user-interface/)
 
+## Herramientas relacionadas
+- [Imgui](/es/discover/imgui/)
+- [Page Agent](/es/discover/page-agent/)
+- [Chat2DB](/es/discover/chat2db/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/gui/

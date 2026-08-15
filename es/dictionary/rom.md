@@ -26,5 +26,9 @@ Porque las reglas básicas de funcionamiento del dispositivo están protegidas p
 - [Compiler](/es/dictionary/compiler/)
 - [System Programming Language](/es/dictionary/system-programming-language/)
 
+## Herramientas relacionadas
+- [Romm](/es/discover/romm/)
+- [Lighthouse](/es/discover/lighthouse/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/rom/

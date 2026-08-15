@@ -26,5 +26,8 @@ Los conocimientos básicos de código son suficientes, ya que las bibliotecas es
 - [Machine Learning](/es/dictionary/machine-learning/)
 - [AI Skills](/es/dictionary/ai-skills/)
 
+## Herramientas relacionadas
+- [Opencv](/es/discover/opencv/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/computer-vision-library/

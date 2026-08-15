@@ -27,5 +27,9 @@ Sí, tiene desafíos adicionales como la conectividad de red o la compatibilidad
 - [Service Mesh](/es/dictionary/service-mesh/)
 - [Multi-tenancy](/es/dictionary/multi-tenancy/)
 
+## Herramientas relacionadas
+- [Elasticsearch](/es/discover/elasticsearch/)
+- [Cassandra](/es/discover/cassandra/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/distributed/

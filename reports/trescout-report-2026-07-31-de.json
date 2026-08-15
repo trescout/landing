@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-31",
+  "editorial": "Heutzutage stehen in der Softwarewelt sprachbasierte Interaktionsmodelle (Speech-to-Speech) und systematische Handelsbibliotheken im Fokus der Entwickler. GitHub-Daten zeigen einen deutlichen Anstieg der Nutzungsrate, insbesondere von Open-Source-Tools für künstliche Intelligenz und Automatisierungsbibliotheken.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "summary": "Die von Hugging Face veröffentlichte Speech-to-Speech-Bibliothek ermöglicht die Entwicklung lokaler Sprachagenten mithilfe von Open-Source-Modellen. Mit diesem Python-basierten Tool können Entwickler Anwendungen erstellen, die auf ihren Systemen Sprache-zu-Sprache interagieren.",
+          "meta": "Python · ★ 9.260 · +628 heute"
+        },
+        {
+          "title": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "summary": "AI-For-Beginners, vorbereitet von Microsoft, vermittelt die Grundlagen der künstlichen Intelligenz mithilfe von Jupyter Notebooks mit einem 12-wöchigen Lehrplan. Dieser Open-Source-Inhalt von 24 Lektionen bietet Anfängern die Möglichkeit, theoretisches Wissen mit praktischen Projekten zu kombinieren.",
+          "meta": "Jupyter Notebook · ★ 54.451 · +155 heute"
+        },
+        {
+          "title": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "summary": "Diese Liste vereint Bibliotheken, Strategien und Bildungsressourcen für die Welt des systematischen Handels und fasst Python-basierte Finanzanalysetools an zentraler Stelle zusammen. Es bietet eine umfangreiche Ressourcenbibliothek für Entwickler, die algorithmische Handelsprozesse verbessern möchten.",
+          "meta": "Python · ★ 11.268 · +621 heute"
+        },
+        {
+          "title": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "summary": "Openwork ist ein Softwareentwicklungstool, das eine Open-Source-Alternative zur Claude-Cowork-Plattform bietet und die Opencode-Infrastruktur nutzt. Dieses mit TypeScript entwickelte Projekt zielt darauf ab, autonome Codierungsprozesse in das Open-Source-Ökosystem zu integrieren.",
+          "meta": "TypeScript · ★ 18.941 · +915 heute"
+        },
+        {
+          "title": "WhiskeySockets/Baileys",
+          "url": "https://github.com/WhiskeySockets/Baileys",
+          "summary": "Baileys bietet eine Socket-basierte Schnittstelle (API), die auf dem WhatsApp-Webprotokoll basiert und die Entwicklung von TypeScript- und JavaScript-basierten Anwendungen ermöglicht. Dank dieser Bibliothek können Entwickler WhatsApp-Messaging-Funktionen direkt in ihre eigenen Projekte integrieren.",
+          "meta": "JavaScript · ★ 10.485 · +19 heute"
+        },
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "Pascal wurde mit TypeScript entwickelt und bietet einen Editor, mit dem Benutzer 3D-Architekturprojekte erstellen und teilen können. Ziel der Plattform ist es, architektonische Entwurfsprozesse über eine browserbasierte Oberfläche zugänglich zu machen.",
+          "meta": "TypeScript · ★ 20.242 · +625 heute"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill bietet einen Skill für künstliche Intelligenz (AI-Agent-Skill), der Recherchen durch das Scannen aktueller Daten von Plattformen wie Reddit, X, YouTube, Hacker News und Polymarket durchführt. Dieses Python-basierte Tool analysiert die gesammelten Informationen und erstellt begründete Zusammenfassungen für Benutzer.",
+          "meta": "Python · ★ 55.714 · +378 heute"
+        },
+        {
+          "title": "dotnet/aspnetcore",
+          "url": "https://github.com/dotnet/aspnetcore",
+          "summary": "ASP.NET Core ist ein plattformübergreifendes .NET-Framework zur Entwicklung moderner cloudbasierter Webanwendungen unter Windows, macOS und Linux. Diese in C# geschriebene Open-Source-Infrastruktur ermöglicht die Erstellung leistungsstarker und skalierbarer Webdienste.",
+          "meta": "C# · ★ 38.317 · +7 heute"
+        },
+        {
+          "title": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "summary": "Microsoft PowerToys ist eine Sammlung von Dienstprogrammen, die die Produktivität und Anpassungsoptionen im Windows-Betriebssystem steigern. Dieses Open-Source-Paket bietet eine Vielzahl von Anpassungs- und Produktivitätstools, um das Systemerlebnis der Benutzer zu verbessern.",
+          "meta": "C · ★ 137.230 · +70 heute"
+        },
+        {
+          "title": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "summary": "Ansible ist eine Plattform zur Automatisierung von Informationstechnologien (IT-Automatisierung), die Anwendungsbereitstellungs- und Systemverwaltungsprozesse automatisiert. Es bietet Konfigurationsverwaltung in einer einfachen Sprache über das SSH-Protokoll, ohne dass Software auf Remote-Systemen installiert werden muss.",
+          "meta": "Python · ★ 69.947 · +29 heute"
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "Chrome DevTools stellt ein Modellkontextprotokoll bereit, das es Programmieragenten ermöglicht, browserbasiertes Web-Debugging und -Inspektion durchzuführen. Durch diese Integration können autonome Softwareentwicklungstools Debugging-Prozesse automatisieren, indem sie direkt auf technische Daten im Browser zugreifen.",
+          "meta": "TypeScript · ★ 48.165 · +80 heute"
+        },
+        {
+          "title": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "summary": "Java-basiertes Jenkins ist eine Serversoftware, die kontinuierliche Integrations- und kontinuierliche Bereitstellungsprozesse in Softwareentwicklungsprozessen automatisiert. Dank seiner umfangreichen Plug-in-Unterstützung ermöglicht es die Verwaltung komplexer Arbeitsabläufe auf verschiedenen Plattformen.",
+          "meta": "Java · ★ 26.337 · +25 heute"
+        },
+        {
+          "title": "agavra/tuicr",
+          "url": "https://github.com/agavra/tuicr",
+          "summary": "tuicr wurde mit der Rust-Sprache entwickelt und ist ein auf der Terminal-Benutzeroberfläche basierendes Codeüberprüfungstool, das Vim-Tastaturkürzel unterstützt. Es ermöglicht Entwicklern, ihren Codeüberprüfungsprozess direkt vom Terminal aus zu verwalten.",
+          "meta": "Rust · ★ 1.940 · +190 heute"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC ist ein Leistungsoptimierungssystem, das Funktionen, Speicherverwaltung und Sicherheitsebenen für KI-Codierungstools wie Claude Code und Cursor bereitstellt. Es bietet eine Infrastruktur zur Stärkung agentenbasierter Arbeitsabläufe in Softwareentwicklungsprozessen.",
+          "meta": "JavaScript · ★ 236.374 · +804 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "UEFA and its national associations will not participate in FIFA competitions",
+          "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+          "summary": "Die UEFA und ihre Mitgliedsverbände gaben bekannt, dass sie an den von der FIFA geplanten neuen Turnierformaten nicht teilnehmen werden. Diese Entscheidung spiegelt Meinungsverschiedenheiten hinsichtlich der Management- und Organisationsstruktur des internationalen Fußballkalenders wider.",
+          "meta": "925 Punkte · 501 Kommentare"
+        },
+        {
+          "title": "Read this before you buy that TV streaming stick",
+          "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+          "summary": "Fernseh-Streaming-Sticks bergen das Risiko von Malware und unbefugter Datenverfolgung, die die Sicherheit der Geräte gefährden. Benutzer sollten die Datenschutzrichtlinien und Software-Updates der Geräte überprüfen, insbesondere wenn sie sich für Hardware unbekannter Marken entscheiden.",
+          "meta": "671 Punkte · 384 Kommentare"
+        },
+        {
+          "title": "Stacked PRs are now live on GitHub",
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+          "summary": "GitHub hat die Funktion „Stacked Pull Requests“ für die öffentliche Vorschau geöffnet, um Softwareentwicklungsprozesse zu beschleunigen. Mit dieser Funktion können Entwickler große Änderungen in kleineren, überschaubaren Teilen bereitstellen, die miteinander verknüpft sind.",
+          "meta": "582 Punkte · 195 Kommentare"
+        },
+        {
+          "title": "Advancing the price-performance frontier with GPT‑5.6",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+          "summary": "OpenAI zielt darauf ab, die Transaktionskosten zu senken, indem es mit seinem Sprachmodell GPT-5.6 der neuen Generation das Preis-Leistungs-Limit erweitert. Das Modell optimiert die Rechenkosten bei komplexen Aufgaben durch Architekturverbesserungen, die eine höhere Effizienz bieten.",
+          "meta": "547 Punkte · 355 Kommentare"
+        },
+        {
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "summary": "Gemini Robotics 2, entwickelt von Google DeepMind, ermöglicht es Robotern, ihre körperlichen Bewegungen und Umgebungswahrnehmungen mit integrierter Intelligenz (Ganzkörperintelligenz) zu verwalten. Dieses Modell ermöglicht es Robotern, komplexe Aufgaben präziser und anpassungsfähiger auszuführen.",
+          "meta": "531 Punkte · 423 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3, entwickelt von Moonshot AI, ist ein multimodales Modell, das durch die Verarbeitung visueller und textueller Daten eine Textausgabe erzeugt. Das System bietet die Möglichkeit, komplexe visuelle Inhalte zu analysieren und auf Basis dieser Inhalte zusammenhängende Texte zu erstellen.",
+          "meta": "♥ 9.079 · 387.822 Downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Dieses auf Qwen3.6-27B basierende Modell bietet eine multimodale Struktur, die durch die Verarbeitung visueller und Texteingaben eine Textausgabe erzeugt. Das als unzensiert konfigurierte Modell liegt im quantisierten GGUF-Format vor, sodass es auf lokalen Geräten ausgeführt werden kann.",
+          "meta": "♥ 1.053 · 955.767 Downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR wurde von Baidu entwickelt und ist ein Bild-zu-Text-Modell, das bildbasierten Text in Textausgaben umwandelt. Dieses Modell wurde für die Verarbeitung von Daten in komplexen Dokumenten entwickelt und zielt auf eine hohe Genauigkeit bei der optischen Zeichenerkennung (OCR) ab.",
+          "meta": "♥ 3.596 · 2.598.659 Downloads"
+        },
+        {
+          "title": "owensong/Inflect-Micro-v2",
+          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "summary": "Inflect-Micro-v2 ist ein kompaktes Modell künstlicher Intelligenz, das für Text-zu-Sprache-Operationen entwickelt wurde. Der Fokus liegt auf schnellen Sprachsyntheseprozessen mit geringem Ressourcenverbrauch.",
+          "meta": "♥ 328 · 1.100 Downloads"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Laguna-S-2.1, entwickelt von Poolside, ist ein Sprachmodell, das sich auf die Textgenerierung konzentriert. Dieses für Entwickler optimierte Modell führt Textgenerierungsaufgaben in Verarbeitungsprozessen natürlicher Sprache aus.",
+          "meta": "♥ 852 · 73.246 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "voice agents",
+      "explanation": "Digitale Assistenten, die per Stimme mit dem Benutzer kommunizieren und Fragen beantworten oder zugewiesene Aufgaben ausführen."
+    },
+    {
+      "term": "speech-to-speech",
+      "explanation": "Technologie, die es ermöglicht, gesprochenen Ton direkt in ein anderes Audioformat oder eine andere Sprache umzuwandeln."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Computer haben die Fähigkeit, wie Menschen zu lernen, zu denken und Entscheidungen zu treffen."
+    },
+    {
+      "term": "Jupyter Notebooks",
+      "explanation": "Interaktive Arbeitsumgebung, die das Hinzufügen von Erläuterungen und Grafiken beim Schreiben von Code ermöglicht."
+    },
+    {
+      "term": "systematic trading",
+      "explanation": "Automatisierte Börsentransaktionen mithilfe vorgegebener Regeln und Computeralgorithmen."
+    },
+    {
+      "term": "API",
+      "explanation": "Eine digitale Brücke, die es zwei verschiedenen Softwareprogrammen ermöglicht, Daten miteinander auszutauschen."
+    },
+    {
+      "term": "editor",
+      "explanation": "Ein Programm, in dem Softwareentwickler ihre Codes schreiben und bearbeiten und Funktionen wie Farbgebung und Fehlerprüfung bieten."
+    },
+    {
+      "term": "AI agent skill",
+      "explanation": "Die spezifischen Fähigkeiten oder Fertigkeiten, über die künstliche Intelligenz verfügt, um eine bestimmte Aufgabe auszuführen."
+    },
+    {
+      "term": "framework",
+      "explanation": "Ein Grundgerüst, das vorgefertigte Strukturen und ein Regelwerk bereitstellt, das die Arbeit bei der Entwicklung von Software beschleunigt."
+    },
+    {
+      "term": "customization",
+      "explanation": "Anpassen eines Programms oder Systems an die persönlichen Bedürfnisse des Benutzers."
+    },
+    {
+      "term": "productivity",
+      "explanation": "Ein Effizienzniveau, das den Arbeitsaufwand in einem bestimmten Zeitraum erhöht."
+    },
+    {
+      "term": "IT automation",
+      "explanation": "Durchführen sich wiederholender Computeroperationen durch Software ohne menschliches Eingreifen."
+    },
+    {
+      "term": "Chrome DevTools",
+      "explanation": "In den Internetbrowser integrierte Tools zur Analyse der Funktionsweise von Websites und zur Behebung von Fehlern."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Eine Verbindungsmethode, die es KI-Modellen ermöglicht, auf sichere und standardisierte Weise mit verschiedenen Datenquellen zu kommunizieren."
+    },
+    {
+      "term": "continuous integration",
+      "explanation": "Der Prozess, die von Softwareentwicklern geschriebenen Codes ständig zu kombinieren und automatisch auf Fehler zu testen."
+    },
+    {
+      "term": "continuous deployment",
+      "explanation": "Codes, die den Test erfolgreich bestanden haben, werden ohne manuellen Eingriff direkt in das Live-System übertragen."
+    }
+  ]
+}

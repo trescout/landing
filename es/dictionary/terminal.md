@@ -24,5 +24,15 @@ Si quieres adentrarte en el mundo del software, sí, porque muchas herramientas 
 - [GUI](/es/dictionary/gui/)
 - [Runtime](/es/dictionary/runtime/)
 
+## Herramientas relacionadas
+- [Claude Code](/es/discover/claude-code/)
+- [Terminal](/es/discover/terminal/)
+- [Openinterpreter](/es/discover/openinterpreter/)
+- [Career Ops](/es/discover/career-ops/)
+- [Free Claude Code](/es/discover/free-claude-code/)
+- [DeepSeek-Reasonix](/es/discover/deepseek-reasonix/)
+- [Mise](/es/discover/mise/)
+- [Oh My Pi](/es/discover/oh-my-pi/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/terminal/

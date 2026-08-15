@@ -23,7 +23,10 @@ Sí, los vectores numéricos creados una vez se almacenan en la base de datos y 
 
 
 ## Términos relacionados
+- [Vector Database](/es/dictionary/vector-database/)
 - [LLM](/es/dictionary/llm/)
+- [NLP](/es/dictionary/nlp/)
+- [Tokenizer](/es/dictionary/tokenizer/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/embedding/

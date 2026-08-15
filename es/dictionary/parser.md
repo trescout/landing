@@ -24,5 +24,9 @@ Si el analizador encuentra los datos en un formato que no puede comprender, gene
 - [Compiler](/es/dictionary/compiler/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Opendataloader PDF](/es/discover/opendataloader-pdf/)
+- [YAML Cpp](/es/discover/yaml-cpp/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/parser/

@@ -27,5 +27,9 @@ Dependiendo del tamaño del modelo y del tamaño de los datos, pueden pasar día
 - [Machine Learning](/es/dictionary/machine-learning/)
 - [Foundation Model](/es/dictionary/foundation-model/)
 
+## Herramientas relacionadas
+- [System Prompts and Models of AI Tools](/es/discover/system-prompts-and-models-of-ai-tools/)
+- [UI-TARS-desktop](/es/discover/ui-tars-desktop/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-models/

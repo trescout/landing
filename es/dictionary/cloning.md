@@ -26,5 +26,10 @@ Sólo se requiere copia en ese momento; Luego podrá trabajar sin conexión.
 - [Clone](/es/dictionary/clone/)
 - [Open Source](/es/dictionary/open-source/)
 
+## Herramientas relacionadas
+- [Voicebox](/es/discover/voicebox/)
+- [VoxCPM](/es/discover/voxcpm/)
+- [Voice Pro](/es/discover/voice-pro/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cloning/

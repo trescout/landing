@@ -27,5 +27,8 @@ Tus datos no salen, quedan completamente bajo tu control.
 - [Memory Engine](/es/dictionary/memory-engine/)
 - [AI Agent](/es/dictionary/ai-agent/)
 
+## Herramientas relacionadas
+- [Personal_AI_Infrastructure](/es/discover/personal-ai-infrastructure/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/personal-ai-infrastructure/

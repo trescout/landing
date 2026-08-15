@@ -27,5 +27,8 @@ Por lo general, se crean y administran mediante herramientas como Docker.
 - [Runtime](/es/dictionary/runtime/)
 - [Framework](/es/dictionary/framework/)
 
+## Herramientas relacionadas
+- [Container](/es/discover/container/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/containers/

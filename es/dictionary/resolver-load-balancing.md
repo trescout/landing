@@ -27,5 +27,8 @@ El equilibrador de carga mantiene el sitio en funcionamiento redirigiendo a otro
 - [Reverse Proxy](/es/dictionary/reverse-proxy/)
 - [Runtime](/es/dictionary/runtime/)
 
+## Herramientas relacionadas
+- [MasterDnsVPN](/es/discover/masterdnsvpn/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/resolver-load-balancing/

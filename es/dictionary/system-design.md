@@ -27,5 +27,9 @@ Sí, pero es muy costoso y difícil cambiar la arquitectura a medida que el sist
 - [API Gateway](/es/dictionary/api-gateway/)
 - [Deployment](/es/dictionary/deployment/)
 
+## Herramientas relacionadas
+- [System Design Primer](/es/discover/system-design-primer/)
+- [System Design 101](/es/discover/system-design-101/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/system-design/

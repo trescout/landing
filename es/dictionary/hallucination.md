@@ -25,6 +25,8 @@ Sí, todos los principales modelos de lenguaje probabilístico conllevan este ri
 ## Términos relacionados
 - [LLM](/es/dictionary/llm/)
 - [RAG](/es/dictionary/rag/)
+- [Hallucination](/es/dictionary/hallucination/)
+- [AI Agent](/es/dictionary/ai-agent/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/hallucination/

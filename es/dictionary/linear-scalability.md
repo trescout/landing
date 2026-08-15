@@ -24,5 +24,8 @@ Porque a medida que el sistema crece, aumenta la carga de comunicación entre la
 - [Cloud Native](/es/dictionary/cloud-native/)
 - [Multi-tenancy](/es/dictionary/multi-tenancy/)
 
+## Herramientas relacionadas
+- [Cassandra](/es/discover/cassandra/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/linear-scalability/

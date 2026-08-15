@@ -1,0 +1,172 @@
+{
+  "date": "2026-06-08",
+  "editorial": "Die heutige Technologieagenda wird von autonomen Fähigkeiten und Open-Source-Agentenarchitekturen dominiert. Insbesondere das von NousResearch veröffentlichte Hermes-Modell ermöglicht es Entwicklern, ihre eigenen KI-Assistenten in einer anpassbaren Struktur zu erstellen.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill, das auf Plattformen wie Reddit recherchiert, kombiniert Informationen aus verschiedenen digitalen Quellen, um umfassende Berichte zu aktuellen Themen zu erstellen.",
+          "meta": "Python · ★ 32.482 · +1.111 heute"
+        },
+        {
+          "title": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "summary": "OpenCV, eine Open-Source-Computer-Vision-Bibliothek, bietet eine breite Palette von Tools für Bildverarbeitungs- und maschinelle Lernanwendungen. Diese in der Sprache C++ entwickelte Bibliothek dient als Standardinfrastruktur für visuelle Datenanalyseprozesse in Echtzeit.",
+          "meta": "C++ · ★ 88.274 · +65 heute"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill ist ein System, das es ermöglicht, qualifiziertere Ergebnisse zu erzielen, indem monotone und alltägliche Ausdrücke in den von Modellen der künstlichen Intelligenz erzeugten Inhalten reduziert werden. Es ermöglicht Benutzern, KI-Ausgaben zu personalisieren und die Sprachqualität zu verbessern.",
+          "meta": "Shell · ★ 37.663 · +1.103 heute"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Der von NousResearch entwickelte Hermes Agent ist ein autonomer KI-Agent, der seine Fähigkeiten erweitert, indem er im Laufe der Zeit durch Benutzerinteraktionen lernt. Dieses Python-basierte System soll eine personalisierte Aufgabenverwaltung und kontinuierliche Lernprozesse unterstützen.",
+          "meta": "Python · ★ 186.572 · +1.112 heute"
+        },
+        {
+          "title": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "summary": "Open-Notebook bietet eine Open-Source-Alternative zu Google NotebookLM und bietet Benutzern mehr Flexibilität und Individualisierung ihrer Dokumente. Dieses mit TypeScript entwickelte Projekt bringt persönliche Informationsverwaltung und durch künstliche Intelligenz unterstützte Prozesse zur Inhaltsanalyse in lokale oder anpassbare Umgebungen.",
+          "meta": "TypeScript · ★ 27.633 · +554 heute"
+        },
+        {
+          "title": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "summary": "AiToEarn ist eine TypeScript-basierte Plattform, die es Benutzern ermöglicht, ihre Monetarisierungsprozesse durch KI-gestützte Automatisierungen zu verwalten. Das Projekt bietet Entwicklern eine offene Infrastruktur durch die Kombination autonomer Aufgabenausführung und auf künstlicher Intelligenz basierender Verdienstmodelle.",
+          "meta": "TypeScript · ★ 19.145 · +183 heute"
+        },
+        {
+          "title": "aaif-goose/goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "summary": "Goose ist ein Open-Source-KI-Agent, der über Codevorschläge hinausgeht und die Installation, Ausführung, Bearbeitung und Prüfung von Software automatisiert. Dieses Tool wurde mit der Rust-Sprache entwickelt und zielt darauf ab, Softwareentwicklungs-Workflows durchgängig zu verwalten, indem es in verschiedene große Sprachmodelle (LLM) integriert wird.",
+          "meta": "Rust · ★ 47.753 · +322 heute"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "Project N.O.M.A.D ist ein Offline-Überlebenscomputer, der Zugriff auf wichtige Tools, Informationsressourcen und lokale Modelle der künstlichen Intelligenz in Umgebungen bietet, die keine Internetverbindung erfordern. Ziel des tragbaren Systems ist es, dem Benutzer in Notfallszenarien unabhängige Daten- und Verarbeitungskapazitäten zur Verfügung zu stellen.",
+          "meta": "TypeScript · ★ 29.903 · +309 heute"
+        },
+        {
+          "title": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "summary": "Llama.cpp ist eine C- und C++-basierte Inferenzbibliothek, die die effiziente Ausführung großer Sprachmodelle auf Standardhardware ermöglicht. Die Software erleichtert durch ihren geringen Speicherverbrauch und ihre hochleistungsorientierte Struktur die Ausführung von Modellen der künstlichen Intelligenz auf lokalen Geräten.",
+          "meta": "C++ · ★ 115.499 · +158 heute"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "Turbovec basiert auf der TurboQuant-Infrastruktur und ist ein leistungsstarkes Vektorindextool, das mit der Rust-Sprache entwickelt wurde. Dank Python-Bindungen können Entwickler vektorbasierte Suchvorgänge schnell und effizient durchführen.",
+          "meta": "Python · ★ 7.703 · +1.554 heute"
+        },
+        {
+          "title": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "summary": "Das ChinaTextbook-Repository bietet ein digitales Archiv von Lehrbüchern, die im chinesischen Lehrplan von der Grundschule bis zur Universität verwendet werden, im tragbaren Dokumentformat (PDF). Diese Ressource bietet einen zentralen Zugangspunkt zu einer breiten Palette akademischer Materialien.",
+          "meta": "Roff · ★ 72.765 · +350 heute"
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "OpenAI-Plugins stellen ein Framework bereit, das es Sprachmodellen ermöglicht, auf aktuelle Daten zuzugreifen und mit externen Systemen zu interagieren. Diese Struktur ermöglicht generativen KI-Modellen die Durchführung von Echtzeitoperationen und die Verbindung mit Anwendungen von Drittanbietern.",
+          "meta": "JavaScript · ★ 2.152 · +262 heute"
+        },
+        {
+          "title": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "summary": "Tolaria ist eine Desktop-Anwendung, die für die Verwaltung von Markdown-basierten Wissensdatenbanken entwickelt wurde. Dieses in TypeScript geschriebene Tool erleichtert die Organisation persönlicher Dokumentationen und Notizsysteme.",
+          "meta": "TypeScript · ★ 13.116 · +245 heute"
+        },
+        {
+          "title": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "summary": "GhostTrack auf Python-Basis ist ein Tool, das die Standortverfolgung über Mobiltelefonnummern ermöglicht. Diese Open-Source-Software wurde entwickelt, um die geografischen Daten der Zielnummer zu ermitteln.",
+          "meta": "Python · ★ 13.874 · +28 heute"
+        },
+        {
+          "title": "microsoft/pg_durable",
+          "url": "https://github.com/microsoft/pg_durable",
+          "summary": "pg_durable wurde von Microsoft entwickelt und ist eine Bibliothek zur Verwaltung dauerhafter Ausführungsprozesse auf PostgreSQL. Das in Rust geschriebene Tool ermöglicht die fehlertolerante und persistente Ausführung komplexer Arbeitsabläufe innerhalb der Datenbank.",
+          "meta": "Rust · ★ 1.580 · +316 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do",
+          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "summary": "Die Integration großer Sprachmodelle in Softwareentwicklungsprozesse führt zu einer Transformation, die den Wert traditioneller Codierungspraktiken in Frage stellt. Angesichts des zunehmenden Einflusses der Automatisierung müssen Softwareentwickler ihre technischen Kompetenzen neu definieren und sich auf menschenzentrierte Fähigkeiten zur Problemlösung konzentrieren.",
+          "meta": "944 Punkte · 910 Kommentare"
+        },
+        {
+          "title": "Building from zero after addiction, prison, and a felony",
+          "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+          "summary": "Der Softwareentwickler Gavin Ray teilt seinen beruflichen Werdegang und seine technischen Kompetenzen, die er nach Sucht und Inhaftierung von Grund auf aufgebaut hat. Diese Erzählung verbindet persönliche Entwicklung mit der Disziplin professioneller Softwareentwicklung und befasst sich mit den Auswirkungen schwieriger Lebensbedingungen auf Karriereziele im Technologiesektor.",
+          "meta": "612 Punkte · 271 Kommentare"
+        },
+        {
+          "title": "How's Linear so fast? A technical breakdown",
+          "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+          "summary": "Linear verwendet eine Kombination aus optimistischen UI-Updates und Daten-Caching-Strategien, um die Anwendungsleistung zu optimieren. Die Software minimiert die Latenz, indem sie die Interaktion mit der lokalen Statusverwaltung sofort ermöglicht, ohne auf Serverantworten warten zu müssen.",
+          "meta": "402 Punkte · 181 Kommentare"
+        },
+        {
+          "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+          "url": "https://www.ioccc.org/2025/",
+          "summary": "Der International Obfuscated C Code Contest gab die Gewinner des Jahres 2025 bekannt und zeichnete die komplexesten und am schwierigsten zu verstehenden C-Quellcodes aus. Der Wettbewerb präsentiert weiterhin kreative und mysteriöse Softwareentwicklungspraktiken, die die Grenzen von Programmiersprachen verschieben.",
+          "meta": "392 Punkte · 89 Kommentare"
+        },
+        {
+          "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+          "url": "https://github.com/devenjarvis/lathe",
+          "summary": "Lathe ist ein Lehrmittel, das große Sprachmodelle verwendet, um technische Themen zu vermitteln, anstatt die Arbeit für den Benutzer zu erledigen. Es erstellt ressourcengestützte praktische Lektionen über eine native Schnittstelle, die Softwareentwickler dazu ermutigt, Code manuell zu schreiben.",
+          "meta": "303 Punkte · 55 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "summary": "LocateAnything-3D wurde von NVIDIA entwickelt und ist ein Bild-Text-zu-Text-Modell, das Objektlokalisierungsaufgaben durch die Verarbeitung visueller und textueller Eingaben ausführt. Das Modell ist darauf ausgelegt, Objekte in komplexen Szenen zu identifizieren und die Koordinaten dieser Objekte mit textbasierten Ausgaben anzugeben.",
+          "meta": "♥ 1.559 · 121.594 Downloads"
+        },
+        {
+          "title": "google/gemma-4-12B-it",
+          "url": "https://huggingface.co/google/gemma-4-12B-it",
+          "summary": "Das von Google entwickelte Gemma 2 9B-basierte Gemma-4-12B-it-Modell bietet eine multimodale Struktur, die verschiedene Datentypen wie Text und Bilder verarbeiten kann. Das Modell zielt darauf ab, zwischen verschiedenen Datenformaten zu interagieren und jede Art von Eingabe (Any-to-Any) verarbeiten zu können.",
+          "meta": "♥ 712 · 554.173 Downloads"
+        },
+        {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "summary": "Das von Unsloth optimierte Gemma 4-12B-Modell bietet eine multimodale Struktur, die visuelle und Textdaten verarbeiten kann. Dieses Modell im GGUF-Format beschleunigt textbasierte visuelle Analyseprozesse auf lokalen Geräten mit geringem Speicherverbrauch.",
+          "meta": "♥ 468 · 645.263 Downloads"
+        },
+        {
+          "title": "google/gemma-4-12B",
+          "url": "https://huggingface.co/google/gemma-4-12B",
+          "summary": "Gemma-4-12B wurde von Google veröffentlicht und ist als vielseitiges multimodales Modell (Any-to-Any-Modell) konzipiert, das in der Lage ist, zwischen verschiedenen Datentypen zu transformieren. Dieses Modell bietet ein flexibles Erlebnis künstlicher Intelligenz durch die Verarbeitung verschiedener Eingabearten wie Text und Bilder.",
+          "meta": "♥ 423 · 117.509 Downloads"
+        },
+        {
+          "title": "ideogram-ai/ideogram-4-fp8",
+          "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+          "summary": "Ideogram-4-fp8 wurde von Ideogram entwickelt und ist ein Gleitkomma-8-Bit-Präzisionsmodell (FP8), das eine geringe Speichernutzung bei Text-zu-Bild-Konvertierungsprozessen ermöglicht. Dieses Modell bietet eine schnellere Verarbeitungskapazität durch höhere Hardwareeffizienz bei Rendering-Vorgängen.",
+          "meta": "♥ 363 · 5.495 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": []
+}

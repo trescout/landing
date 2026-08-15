@@ -24,5 +24,8 @@ Sí, lo importante no es que sea artístico, sino que refleje fielmente el funci
 - [Workflow Orchestration Framework](/es/dictionary/workflow-orchestration-framework/)
 - [Design System](/es/dictionary/design-system/)
 
+## Herramientas relacionadas
+- [Likec4](/es/discover/likec4/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/diagrams/

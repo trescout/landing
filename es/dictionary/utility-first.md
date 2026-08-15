@@ -20,8 +20,12 @@ Puede que en un principio lo parezca, pero es una gran ventaja poder ver el dise
 
 
 ## Términos relacionados
+- [CSS Framework](/es/dictionary/css-framework/)
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 - [User Interface](/es/dictionary/user-interface/)
+
+## Herramientas relacionadas
+- [Tailwindcss](/es/discover/tailwindcss/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/utility-first/

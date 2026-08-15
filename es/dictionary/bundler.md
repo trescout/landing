@@ -24,5 +24,8 @@ Los archivos muy grandes pueden ralentizar el navegador; por eso, el paquete a v
 - [Compilation](/es/dictionary/compilation/)
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 
+## Herramientas relacionadas
+- [Webpack](/es/discover/webpack/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/bundler/

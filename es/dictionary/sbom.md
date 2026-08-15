@@ -29,5 +29,8 @@ Sí, ahora se está convirtiendo en el estándar de transparencia en materia de 
 - [Observability](/es/dictionary/observability/)
 - [API](/es/dictionary/api/)
 
+## Herramientas relacionadas
+- [Trivy](/es/discover/trivy/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sbom/

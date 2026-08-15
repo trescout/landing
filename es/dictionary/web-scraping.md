@@ -27,5 +27,10 @@ Es bastante fácil para sitios simples, pero requiere conocimientos técnicos av
 - [Document Parsing](/es/dictionary/document-parsing/)
 - [NLP](/es/dictionary/nlp/)
 
+## Herramientas relacionadas
+- [Puppeteer](/es/discover/puppeteer/)
+- [Scrapling](/es/discover/scrapling/)
+- [MediaCrawler](/es/discover/mediacrawler/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/web-scraping/

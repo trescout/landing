@@ -26,5 +26,8 @@ No, estos son sólo para fines de apoyo y el conductor debe tener cuidado en tod
 - [Computer Vision](/es/dictionary/computer-vision/)
 - [Autonomous Robotics](/es/dictionary/autonomous-robotics/)
 
+## Herramientas relacionadas
+- [Openpilot](/es/discover/openpilot/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/driver-assistance-system/

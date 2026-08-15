@@ -25,5 +25,8 @@ Elimina la necesidad de realizar un nuevo diseño cada vez y permite un progreso
 ## Términos relacionados
 - [AI Skills](/es/dictionary/ai-skills/)
 
+## Herramientas relacionadas
+- [Impeccable](/es/discover/impeccable/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/design-language/

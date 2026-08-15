@@ -27,5 +27,8 @@ Da los mejores resultados en ángulos donde la cara es completamente visible; Pu
 - [Generative AI](/es/dictionary/generative-ai/)
 - [Computer Vision](/es/dictionary/computer-vision/)
 
+## Herramientas relacionadas
+- [Faceswap](/es/discover/faceswap/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/face-swapping/

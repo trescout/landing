@@ -26,5 +26,8 @@ Porque es muy lento y cuando ocurre un error es más difícil encontrar exactame
 - [Testing Framework](/es/dictionary/testing-framework/)
 - [Web Interface](/es/dictionary/web-interface/)
 
+## Herramientas relacionadas
+- [Cypress](/es/discover/cypress/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/end-to-end-testing/

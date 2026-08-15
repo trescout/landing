@@ -21,5 +21,8 @@ Hacer que el código funcione es sólo el primer paso; El código limpio garanti
 - [Unit Testing](/es/dictionary/unit-testing/)
 - [Engineering Skills](/es/dictionary/engineering-skills/)
 
+## Herramientas relacionadas
+- [Clean Code Javascript](/es/discover/clean-code-javascript/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/clean-code/

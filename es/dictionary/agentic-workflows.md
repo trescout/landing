@@ -24,5 +24,8 @@ Generalmente se espera aprobación para decisiones críticas, pero la mayoría d
 - [Autonomous Agent](/es/dictionary/autonomous-agent/)
 - [Workflows](/es/dictionary/workflows/)
 
+## Herramientas relacionadas
+- [MinerU](/es/discover/mineru/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agentic-workflows/

@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-09",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "summary": "TencentDB Agent Memory bietet eine vollständig lokale Langzeitspeicherlösung für Agenten der künstlichen Intelligenz mit einem vierstufigen Prozess. Es führt Datenspeicherungs- und -abrufvorgänge aus, ohne dass externe Anwendungsprogrammierschnittstellen (APIs) erforderlich sind.",
+          "meta": "TypeScript · ★ 7.846 · +318 heute"
+        },
+        {
+          "title": "prisma/prisma",
+          "url": "https://github.com/prisma/prisma",
+          "summary": "Prisma ist ein Object Relational Mapper (ORM)-Tool, das Datenbankinteraktionen für Node.js- und TypeScript-Projekte vereinfacht. Seine Struktur, die verschiedene Datenbanksysteme unterstützt, ermöglicht es Entwicklern, typsichere Datenbankabfragen zu erstellen.",
+          "meta": "TypeScript · ★ 46.668 · +46 heute"
+        },
+        {
+          "title": "argoproj/argo-cd",
+          "url": "https://github.com/argoproj/argo-cd",
+          "summary": "Argo CD ist ein Tool, das deklarative kontinuierliche Bereitstellungsprozesse für Kubernetes-Umgebungen verwaltet. Es bietet automatische Aktualisierungen der Infrastruktur durch die Synchronisierung des Anwendungsstatus mit Git-Repositorys.",
+          "meta": "Go · ★ 23.488 · +29 heute"
+        },
+        {
+          "title": "Diolinux/PhotoGIMP",
+          "url": "https://github.com/Diolinux/PhotoGIMP",
+          "summary": "PhotoGIMP bietet einen Patch, der Photoshop-Benutzern die GIMP-Benutzeroberfläche vertraut macht. Dieses Tool passt Verknüpfungen und Menülayouts an Photoshop-Standards an, um den Umstieg auf Bildbearbeitungssoftware zu erleichtern.",
+          "meta": "CSS · ★ 15.195 · +1.125 heute"
+        },
+        {
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "summary": "DesktopCommanderMCP ist ein für Claude entwickelter Model Context Protocol-Server, der dem Modell der künstlichen Intelligenz Terminalsteuerung, Dateisystemsuche und differenzbasierte Dateibearbeitungsfunktionen bietet. Dieses in TypeScript geschriebene Tool ermöglicht es künstlicher Intelligenz, direkte Operationen auf lokalen Dateisystemen durchzuführen.",
+          "meta": "TypeScript · ★ 6.436 · +28 heute"
+        },
+        {
+          "title": "huxingyi/autoremesher",
+          "url": "https://github.com/huxingyi/autoremesher",
+          "summary": "Autoremesher ist ein Werkzeug, das unregelmäßige Oberflächenstrukturen in dreidimensionalen Modellen automatisch in Quad-Remeshing umwandelt. Diese in der Sprache C++ entwickelte Software ist darauf optimiert, komplexe Geometrien für Animations- und Modellierungsprozesse geeignet zu machen.",
+          "meta": "C++ · ★ 2.123 · +296 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+          "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+          "summary": "Das verschleierte Bash-Skript auf einem in Uniqlo-Läden verkauften T-Shirt wurde von Technikbegeisterten analysiert und die Funktionsweise der darin enthaltenen Befehle enthüllt. Das vorliegende Skript mit seiner selbstbewertenden Struktur ist ein Beispiel für eine unerwartete digitale Codierung auf Einzelhandelsprodukten.",
+          "meta": "1.361 Punkte · 213 Kommentare"
+        },
+        {
+          "title": "Chatto is now open source",
+          "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+          "summary": "Chatto ist eine Open-Source-Bibliothek, die es Entwicklern ermöglicht, Chat-Schnittstellen in ihre Anwendungen zu integrieren. Mit seiner komponentenbasierten Struktur erleichtert es die Verwaltung von Benutzerinteraktionen und die Anpassung von Nachrichtenflüssen.",
+          "meta": "928 Punkte · 241 Kommentare"
+        },
+        {
+          "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+          "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+          "summary": "John Deere gewährt Besitzern landwirtschaftlicher Geräte das Recht auf Reparatur im Rahmen der Vereinbarung mit der Federal Trade Commission (FTC). Diese Vereinbarung bietet Benutzern Zugriff auf Softwaretools und technische Dokumentation, die es ihnen ermöglichen, ihre Geräte außerhalb autorisierter Dienste zu reparieren.",
+          "meta": "696 Punkte · 131 Kommentare"
+        },
+        {
+          "title": "GPT‑Live",
+          "url": "https://openai.com/index/introducing-gpt-live/",
+          "summary": "GPT-Live, eingeführt von OpenAI, ermöglicht Benutzern die Einrichtung einer Echtzeit-Sprachinteraktion mit Modellen der künstlichen Intelligenz. Diese Funktion zielt auf ein natürliches und unterbrechungsfreies Dialogerlebnis dank Sprachfunktionen mit geringer Latenz ab.",
+          "meta": "685 Punkte · 447 Kommentare"
+        },
+        {
+          "title": "Grok 4.5",
+          "url": "https://x.ai/news/grok-4-5",
+          "summary": "Grok 4.5, entwickelt von xAI, fällt durch seine multimodalen Fähigkeiten und fortgeschrittenen Denkfähigkeiten auf. Das Modell zielt darauf ab, durch die Integration in Softwareentwicklungstools wie Cursor eine hohe Leistung bei Code-Schreib- und Analyseprozessen zu bieten.",
+          "meta": "590 Punkte · 801 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "long-term memory",
+      "explanation": "Künstliche Intelligenz kann vergangene Informationen lange speichern, ohne sie zu vergessen, und bei Bedarf nutzen."
+    },
+    {
+      "term": "API",
+      "explanation": "Eine Brücke, die es zwei verschiedenen Softwareprogrammen ermöglicht, miteinander zu kommunizieren und Daten auszutauschen."
+    },
+    {
+      "term": "ORM",
+      "explanation": "Ein Tool, das komplexe Tabellen in der Datenbank in Objekte umwandelt, die Softwareentwickler leichter verstehen können."
+    },
+    {
+      "term": "type-safe",
+      "explanation": "Eine Struktur, die Fehler erkennt, bevor sie auftreten, indem sie verhindert, dass in der Software der falsche Datentyp verwendet wird."
+    },
+    {
+      "term": "declarative continuous deployment",
+      "explanation": "Definieren, wie das System aussehen soll, und Ausrollen von Updates automatisch und fehlerfrei."
+    },
+    {
+      "term": "patch",
+      "explanation": "Eine kleine Update-Datei, die später hinzugefügt wird, um einen Fehler zu beheben oder die Leistung einer Software zu verbessern."
+    }
+  ]
+}

@@ -27,5 +27,9 @@ Se puede hacer, pero cada cambio requiere actualizar el documento.
 - [Agentic Coding Tool](/es/dictionary/agentic-coding-tool/)
 - [LSP](/es/dictionary/lsp/)
 
+## Herramientas relacionadas
+- [Spec Kit](/es/discover/spec-kit/)
+- [OpenSpec](/es/discover/openspec/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/spec-driven-development/

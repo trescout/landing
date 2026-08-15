@@ -23,6 +23,7 @@ Sí, pero puede aumentar el costo de transacción y el tiempo de respuesta.
 
 
 ## Términos relacionados
+- [Memory Engine](/es/dictionary/memory-engine/)
 - [LLM](/es/dictionary/llm/)
 - [Token](/es/dictionary/token/)
 

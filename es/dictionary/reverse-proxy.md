@@ -27,5 +27,8 @@ Es a la vez una capa de software y de servidor en la que se ejecuta este softwar
 - [API](/es/dictionary/api/)
 - [Observability](/es/dictionary/observability/)
 
+## Herramientas relacionadas
+- [Nginx](/es/discover/nginx/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/reverse-proxy/

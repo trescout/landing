@@ -21,5 +21,11 @@ Al no estar conectados a un único punto, el riesgo de colapso del sistema es mu
 - [Networking Stack](/es/dictionary/networking-stack/)
 - [Distributed](/es/dictionary/distributed/)
 
+## Herramientas relacionadas
+- [Bitchat](/es/discover/bitchat/)
+- [Meshery](/es/discover/meshery/)
+- [Meshoptimizer](/es/discover/meshoptimizer/)
+- [Bitchat Android](/es/discover/bitchat-android/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/mesh/

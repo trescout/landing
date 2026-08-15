@@ -29,5 +29,8 @@ Por lo general, tienen tarifas de gestión bajas, pero usted paga comisiones de 
 - [Value Investing](/es/dictionary/value-investing/)
 - [AI Hedge Fund](/es/dictionary/ai-hedge-fund/)
 
+## Herramientas relacionadas
+- [Free Stockdb](/es/discover/free-stockdb/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/etf/

@@ -27,5 +27,8 @@ Proporciona una gestión de códigos más segura con la autorización correcta.
 - [Git Push](/es/dictionary/git-push/)
 - [Code Review](/es/dictionary/code-review/)
 
+## Herramientas relacionadas
+- [Code Graph RAG](/es/discover/code-graph-rag/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/monorepo/

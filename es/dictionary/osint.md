@@ -29,5 +29,12 @@ Las herramientas básicas como las búsquedas de Google, los navegadores de rede
 - [Knowledge Graph](/es/dictionary/knowledge-graph/)
 - [Web Scraping](/es/dictionary/web-scraping/)
 
+## Herramientas relacionadas
+- [Maigret](/es/discover/maigret/)
+- [Spiderfoot](/es/discover/spiderfoot/)
+- [GhostTrack](/es/discover/ghosttrack/)
+- [Flowsint](/es/discover/flowsint/)
+- [Legendary_OSINT](/es/discover/legendary-osint/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/osint/

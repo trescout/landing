@@ -24,5 +24,8 @@ Requiere que escribas un poco más de código al principio, pero es más seguro 
 - [Compiler](/es/dictionary/compiler/)
 - [Clean Code](/es/dictionary/clean-code/)
 
+## Herramientas relacionadas
+- [TypeScript](/es/discover/typescript/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/static-typing/

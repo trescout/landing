@@ -27,5 +27,9 @@ Los datos generalmente se guardan en el almacenamiento del usuario o en forma ci
 - [Memory Engine](/es/dictionary/memory-engine/)
 - [Vector Database](/es/dictionary/vector-database/)
 
+## Herramientas relacionadas
+- [Cognee](/es/discover/cognee/)
+- [TencentDB-Agent-Memory](/es/discover/tencentdb-agent-memory/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/long-term-memory/

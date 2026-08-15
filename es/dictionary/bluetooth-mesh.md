@@ -26,5 +26,9 @@ A medida que aumenta la cantidad de dispositivos, también se expande el área d
 - [Mesh](/es/dictionary/mesh/)
 - [Networking Stack](/es/dictionary/networking-stack/)
 
+## Herramientas relacionadas
+- [Bitchat](/es/discover/bitchat/)
+- [Bitchat Android](/es/discover/bitchat-android/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/bluetooth-mesh/

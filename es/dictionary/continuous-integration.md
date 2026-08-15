@@ -23,5 +23,9 @@ Las pruebas manuales son lentas y propensas a errores humanos; CI, por otro lado
 - [Testing Framework](/es/dictionary/testing-framework/)
 - [End-to-End Testing](/es/dictionary/end-to-end-testing/)
 
+## Herramientas relacionadas
+- [Jenkins](/es/discover/jenkins/)
+- [Checkout](/es/discover/checkout/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/continuous-integration/

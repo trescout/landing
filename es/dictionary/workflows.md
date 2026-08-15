@@ -27,5 +27,9 @@ Sí, es una buena práctica actualizar los flujos de trabajo y hacerlos más efi
 - [Pipelines](/es/dictionary/pipeline/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Gstack](/es/discover/gstack/)
+- [MinerU](/es/discover/mineru/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/workflows/

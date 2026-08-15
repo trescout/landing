@@ -25,5 +25,9 @@ Aumenta la carga del servidor y es más complejo de instalar; Puede que no sea n
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 - [Deployment](/es/dictionary/deployment/)
 
+## Herramientas relacionadas
+- [Next.js](/es/discover/next-js/)
+- [Nuxt](/es/discover/nuxt/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/server-side-rendering/

@@ -21,5 +21,8 @@ Para evitar que proyectos complejos se desmoronen y mantener a todos enfocados e
 - [AI Team Operations](/es/dictionary/ai-team-operations/)
 - [Productivity](/es/dictionary/productivity/)
 
+## Herramientas relacionadas
+- [Kaneo](/es/discover/kaneo/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/project-management/

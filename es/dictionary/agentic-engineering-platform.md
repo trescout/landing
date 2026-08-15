@@ -27,5 +27,8 @@ Son completamente gratuitos dentro de las reglas y límites que tú establezcas.
 - [AI Agent](/es/dictionary/ai-agent/)
 - [Autonomous AI Agent](/es/dictionary/autonomous-ai-agent/)
 
+## Herramientas relacionadas
+- [Kilocode](/es/discover/kilocode/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agentic-engineering-platform/

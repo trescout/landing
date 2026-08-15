@@ -24,5 +24,8 @@ Porque en lugar de información aleatoria, un flujo regular que se centre en los
 - [AI Skills](/es/dictionary/ai-skills/)
 - [Engineering Skills](/es/dictionary/engineering-skills/)
 
+## Herramientas relacionadas
+- [Exercises Dataset](/es/discover/exercises-dataset/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/exercises-dataset/

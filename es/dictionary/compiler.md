@@ -21,5 +21,8 @@ Sí, cada lenguaje de programación necesita un compilador o intérprete que se 
 - [Runtime](/es/dictionary/runtime/)
 - [Compile-time](/es/dictionary/compile-time/)
 
+## Herramientas relacionadas
+- [SWC](/es/discover/swc/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/compiler/

@@ -24,5 +24,8 @@ Su uso en pruebas de seguridad es legal y necesario, pero atacar sistemas no aut
 - [Penetration Testing](/es/dictionary/penetration-testing/)
 - [Security Scanner](/es/dictionary/security-scanner/)
 
+## Herramientas relacionadas
+- [Cupp](/es/discover/cupp/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/wordlists/

@@ -30,5 +30,11 @@ Generalmente sí, pero se pueden agregar pasos de aprobación manual para actual
 - [Deployment](/es/dictionary/deployment/)
 - [QA](/es/dictionary/qa/)
 
+## Herramientas relacionadas
+- [Strix](/es/discover/strix/)
+- [Openship](/es/discover/openship/)
+- [Flue](/es/discover/flue/)
+- [DevOps-Interview-Guide](/es/discover/devops-interview-guide/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ci-cd/

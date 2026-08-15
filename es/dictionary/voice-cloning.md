@@ -24,6 +24,13 @@ Los modelos modernos pueden producir muy buenos resultados incluso con unos poco
 
 ## Términos relacionados
 - [Text-to-Speech](/es/dictionary/text-to-speech/)
+- [Speech Synthesis](/es/dictionary/speech-synthesis/)
+- [AI Skills](/es/dictionary/ai-skills/)
+
+## Herramientas relacionadas
+- [Voicebox](/es/discover/voicebox/)
+- [VoxCPM](/es/discover/voxcpm/)
+- [Voice Pro](/es/discover/voice-pro/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/voice-cloning/

@@ -24,5 +24,8 @@ Para comprobar la calidad del código, optimizar archivos y realizar una impleme
 - [Continuous Integration](/es/dictionary/continuous-integration/)
 - [Script](/es/dictionary/script/)
 
+## Herramientas relacionadas
+- [Mise](/es/discover/mise/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/task-runner/

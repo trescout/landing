@@ -23,5 +23,8 @@ Puede deshacerse de él desactivando la aplicación desde el menú de configurac
 - [Utilities](/es/dictionary/utilities/)
 - [Runtime](/es/dictionary/runtime/)
 
+## Herramientas relacionadas
+- [optimizerDuck](/es/discover/optimizerduck/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/bloatware/

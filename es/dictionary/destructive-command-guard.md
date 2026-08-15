@@ -24,5 +24,8 @@ Sí, tener esta protección activada evita pérdidas importantes de datos, espec
 - [Linux Server Security](/es/dictionary/linux-server-security/)
 - [Terminal Control](/es/dictionary/terminal-control/)
 
+## Herramientas relacionadas
+- [Destructive Command Guard](/es/discover/destructive-command-guard/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/destructive-command-guard/

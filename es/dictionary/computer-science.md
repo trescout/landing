@@ -27,5 +27,10 @@ La inteligencia artificial, como subrama de la informática, examina cómo los s
 - [AI Skills](/es/dictionary/ai-skills/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Coding Interview University](/es/discover/coding-interview-university/)
+- [Computer Science](/es/discover/computer-science/)
+- [Cs Self Learning](/es/discover/cs-self-learning/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/computer-science/

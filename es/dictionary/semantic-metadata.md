@@ -27,5 +27,8 @@ Por lo general, los sistemas lo agregan automáticamente, pero a veces los human
 - [Vector Database](/es/dictionary/vector-database/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Ossie](/es/discover/ossie/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/semantic-metadata/

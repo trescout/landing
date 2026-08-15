@@ -23,5 +23,8 @@ El dispositivo receptor se da cuenta de que faltan piezas y le pide al remitente
 - [Networking Stack](/es/dictionary/networking-stack/)
 - [DNS Tunneling](/es/dictionary/dns-tunneling/)
 
+## Herramientas relacionadas
+- [Zapret Discord Youtube](/es/discover/zapret-discord-youtube/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/packet-fragmentation/

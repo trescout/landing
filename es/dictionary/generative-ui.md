@@ -27,5 +27,8 @@ No, la interfaz puede cambiar completamente para cada usuario y cada tarea difer
 - [AI Agent](/es/dictionary/ai-agent/)
 - [Design Language](/es/dictionary/design-language/)
 
+## Herramientas relacionadas
+- [CopilotKit](/es/discover/copilotkit/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/generative-ui/

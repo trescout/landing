@@ -24,5 +24,8 @@ Porque instalar un programa independiente para cada usuario es muy costoso y dif
 - [PaaS](/es/dictionary/paas/)
 - [Cloud Native](/es/dictionary/cloud-native/)
 
+## Herramientas relacionadas
+- [Logto](/es/discover/logto/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/multi-tenancy/

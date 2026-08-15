@@ -24,8 +24,12 @@ Es un documento vivo que normalmente lo gestionan de forma conjunta diseñadores
 
 ## Términos relacionados
 - [Design Language](/es/dictionary/design-language/)
+- [Design Systems](/es/dictionary/design-system/)
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 - [User Interface](/es/dictionary/user-interface/)
+
+## Herramientas relacionadas
+- [Astryx](/es/discover/astryx/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/design-system/

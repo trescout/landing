@@ -24,5 +24,8 @@ Porque aquí se procesan tanto datos financieros como se vive el momento más se
 - [SaaS](/es/dictionary/saas/)
 - [CRM](/es/dictionary/crm/)
 
+## Herramientas relacionadas
+- [Checkout](/es/discover/checkout/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/checkout/

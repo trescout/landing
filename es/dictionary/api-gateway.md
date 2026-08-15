@@ -24,5 +24,9 @@ En lugar de abrir cada servicio de forma individual al exterior, gestionarlo des
 - [Proxy](/es/dictionary/proxy/)
 - [Reverse Proxy](/es/dictionary/reverse-proxy/)
 
+## Herramientas relacionadas
+- [OpenWA](/es/discover/openwa/)
+- [Grok2api](/es/discover/grok2api/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/api-gateway/

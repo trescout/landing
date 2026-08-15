@@ -29,5 +29,9 @@ Sí, hoy en día existen herramientas de BI muy sencillas que funcionan con el m
 - [Dashboard](/es/dictionary/dashboard/)
 - [CRM](/es/dictionary/crm/)
 
+## Herramientas relacionadas
+- [WrenAI](/es/discover/wrenai/)
+- [Ossie](/es/discover/ossie/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/bi/

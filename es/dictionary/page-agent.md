@@ -27,5 +27,8 @@ Normalmente funciona en estructuras web estándar, pero puede tener dificultades
 - [Autonomous Agent](/es/dictionary/autonomous-agent/)
 - [Web Scraping](/es/dictionary/web-scraping/)
 
+## Herramientas relacionadas
+- [Page Agent](/es/discover/page-agent/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/page-agent/

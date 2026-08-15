@@ -26,5 +26,8 @@ Es un proceso que requiere paciencia ya que existen procesos de prueba y etapas 
 - [User Interface](/es/dictionary/user-interface/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Marketingskills](/es/discover/marketingskills/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cro/

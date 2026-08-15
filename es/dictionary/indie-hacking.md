@@ -27,5 +27,8 @@ En lugar de escribir código, se trata de encontrar un problema que la gente rea
 - [Tech Stack](/es/dictionary/tech-stack/)
 - [AI Skills](/es/dictionary/ai-skills/)
 
+## Herramientas relacionadas
+- [Chinese Independent Developer](/es/discover/chinese-independent-developer/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/indie-hacking/

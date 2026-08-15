@@ -21,5 +21,8 @@ Trae no solo los archivos, sino también el historial y la información de versi
 - [Tech Stack](/es/dictionary/tech-stack/)
 - [Cloning](/es/dictionary/cloning/)
 
+## Herramientas relacionadas
+- [Checkout](/es/discover/checkout/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/repository-checkout/

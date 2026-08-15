@@ -27,5 +27,8 @@ Los sistemas modernos son bastante ligeros ya que sólo registran datos de movim
 - [QA](/es/dictionary/qa/)
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 
+## Herramientas relacionadas
+- [Posthog](/es/discover/posthog/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/session-replay/

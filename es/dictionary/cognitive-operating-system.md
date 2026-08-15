@@ -24,5 +24,8 @@ No tiene un pensamiento biológico como los humanos, pero tiene una estructura q
 - [Memory Engine](/es/dictionary/memory-engine/)
 - [AI Agent](/es/dictionary/ai-agent/)
 
+## Herramientas relacionadas
+- [Zhangxuefeng Skill](/es/discover/zhangxuefeng-skill/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cognitive-operating-system/

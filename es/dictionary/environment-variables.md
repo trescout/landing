@@ -24,5 +24,8 @@ Para evitar que sus contraseñas se vean comprometidas cuando comparte su códig
 - [Runtime](/es/dictionary/runtime/)
 - [API](/es/dictionary/api/)
 
+## Herramientas relacionadas
+- [Mise](/es/discover/mise/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/environment-variables/

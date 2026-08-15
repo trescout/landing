@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-19",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Diese Ressource richtet sich an diejenigen, die in den Bereich der künstlichen Intelligenz (KI-Engineering) einsteigen möchten, und zielt darauf ab, End-to-End-Anwendungsentwicklungsprozesse mit Python zu vermitteln. Diese Studie, die theoretisches Wissen in die Praxis umsetzt, befasst sich mit dem Design und dem Einsatz von auf künstlicher Intelligenz basierender Software.",
+          "meta": "Python · ★ 39.221 · +191 heute",
+          "returning": true
+        },
+        {
+          "title": "elder-plinius/G0DM0D3",
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "summary": "G0DM0D3 ist eine befreite KI-Chat-Schnittstelle, die darauf abzielt, die Sicherheitsebenen großer Sprachmodelle zu umgehen. Dieses mit TypeScript entwickelte Open-Source-Projekt ermöglicht Benutzern die uneingeschränkte Interaktion mit Modellen.",
+          "meta": "TypeScript · ★ 9.570 · +69 heute"
+        },
+        {
+          "title": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "summary": "Wigolo ist ein Tool, das lokale Such-, Datenextraktions- und Crawling-Funktionen für Codierungsagenten für künstliche Intelligenz bereitstellt. Dieses System, das über das Model Context Protocol (MCP) arbeitet, ermöglicht kostenlose Recherche ohne Cloud-Abhängigkeit und ohne die Notwendigkeit eines API-Schlüssels.",
+          "meta": "TypeScript · ★ 1.365 · +203 heute"
+        },
+        {
+          "title": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "summary": "Kimi CLI wurde von Moonshot AI entwickelt und ist ein Agent für künstliche Intelligenz, der über eine Befehlszeilenschnittstelle (CLI) funktioniert. Dieses Python-basierte Tool wurde entwickelt, um Befehlszeileninteraktionen in Softwareentwicklungsprozessen zu automatisieren.",
+          "meta": "Python · ★ 9.577 · +65 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "LG monitors silently install software through Windows Update without consent",
+          "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+          "summary": "LG-Monitore installieren Software im Hintergrund über Windows Update ohne Zustimmung des Benutzers. Dies führt zu Diskussionen über Sicherheit und Benutzerkontrolle hinsichtlich der Aufnahme zusätzlicher Anwendungen in das System sowie Hardwaretreiber.",
+          "meta": "1.083 Punkte · 549 Kommentare"
+        },
+        {
+          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "summary": "Modelle der künstlichen Intelligenz haben ein seit dreißig Jahren ungelöstes mathematisches Problem im Bereich der konvexen Optimierung mit Hilfe eines einfachen Befehls gelöst. Diese Entwicklung zeigt die Fähigkeit großer Sprachmodelle, logische Schlussfolgerungen aus komplexen mathematischen Beweisen zu ziehen.",
+          "meta": "541 Punkte · 345 Kommentare"
+        },
+        {
+          "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+          "summary": "Bürgermeister Mamdani führte eine Verordnung ein, die es Vermietern verbietet, heimlich KI-generierte Bilder in Mietobjektanzeigen zu verwenden. Ziel dieser Anwendung ist es, die visuelle Transparenz in Wohnungsanzeigen zu erhöhen und digitale Manipulationen zu verhindern.",
+          "meta": "396 Punkte · 176 Kommentare"
+        },
+        {
+          "title": "Speech Recognition and TTS in less than 500kb",
+          "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+          "summary": "Das Moonshine-Projekt bietet Spracherkennungs- und Text-to-Speech-Modelle mit einer Größe von weniger als 500 Kilobyte. Diese leichten Frameworks ermöglichen native Sprachverarbeitungsfunktionen auf Systemen mit begrenzten Hardwareressourcen.",
+          "meta": "387 Punkte · 40 Kommentare"
+        },
+        {
+          "title": "If You Build It, They Will Come",
+          "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+          "summary": "Es wird argumentiert, dass die Schaffung einer Benutzerbasis in Softwareprojekten direkt mit Marketing und Community-Interaktion zusammenhängt und nicht mit der technischen Qualität des Produkts. Es wird betont, dass sich Entwickler auf Strategien zur Benutzerakquise und nicht auf einen produktorientierten Ansatz konzentrieren sollten.",
+          "meta": "351 Punkte · 126 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "BI",
+      "explanation": "Dabei handelt es sich um eine Reihe von Methoden, die es Unternehmen ermöglichen, durch die Analyse der ihnen vorliegenden Rohdaten genauere und schnellere Geschäftsentscheidungen zu treffen."
+    },
+    {
+      "term": "UI",
+      "explanation": "Schaltflächen, Menüs und Bildschirmdesigns, über die ein Benutzer mit einer Software oder einem Gerät interagiert."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "Die Technik, KI-Modelle zu nutzen und sie effizient und sicher in realen Anwendungen auszuführen."
+    },
+    {
+      "term": "deployment",
+      "explanation": "Übertragen einer vorbereiteten Software oder eines Modells in eine Live-Umgebung, wo Benutzer darauf zugreifen können."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Ein Software-Ansatz, der die Speicherung und Verarbeitung von Daten direkt im Speicher des Geräts priorisiert, ohne dass das Internet erforderlich ist."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Ein Brückenprotokoll, das es KI-Modellen ermöglicht, auf standardisierte Weise eine Verbindung zu verschiedenen Datenquellen und Tools herzustellen."
+    }
+  ]
+}

@@ -24,5 +24,8 @@ Esta estructura es mucho más rápida si necesita consultar relaciones profundas
 - [Database](/es/dictionary/database/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Semantica](/es/discover/semantica/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/graph-native-infrastructure/

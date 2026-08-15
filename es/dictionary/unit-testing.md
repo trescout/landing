@@ -23,7 +23,13 @@ Sí, el desarrollador suele automatizarlo mediante herramientas de prueba.
 
 
 ## Términos relacionados
+- [Testing Framework](/es/dictionary/testing-framework/)
+- [End-to-End Testing](/es/dictionary/end-to-end-testing/)
 - [Framework](/es/dictionary/framework/)
+
+## Herramientas relacionadas
+- [Catch2](/es/discover/catch2/)
+- [Pytest](/es/discover/pytest/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/unit-testing/

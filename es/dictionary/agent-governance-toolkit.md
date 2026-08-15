@@ -27,5 +27,8 @@ Cubre las políticas de la empresa, las regulaciones legales y los límites éti
 - [Autonomous AI Agent](/es/dictionary/autonomous-ai-agent/)
 - [AI Observability](/es/dictionary/ai-observability/)
 
+## Herramientas relacionadas
+- [Agent Governance Toolkit](/es/discover/agent-governance-toolkit/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agent-governance-toolkit/

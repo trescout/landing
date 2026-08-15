@@ -30,5 +30,15 @@ Sí, MCP tiene una estructura que mantiene bajo control los permisos de acceso a
 - [Data Layer](/es/dictionary/data-layer/)
 - [API](/es/dictionary/api/)
 
+## Herramientas relacionadas
+- [Goose](/es/discover/goose/)
+- [Chrome Devtools MCP](/es/discover/chrome-devtools-mcp/)
+- [Fastmcp](/es/discover/fastmcp/)
+- [Unity MCP](/es/discover/unity-mcp/)
+- [DesktopCommanderMCP](/es/discover/desktopcommandermcp/)
+- [TREK](/es/discover/trek/)
+- [Tradingview MCP](/es/discover/tradingview-mcp/)
+- [VulnClaw](/es/discover/vulnclaw/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/model-context-protocol/

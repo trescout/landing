@@ -23,5 +23,8 @@ Incluso si el procesador funciona muy rápido, si la velocidad de entrada o sali
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 - [Streaming Applications](/es/dictionary/streaming-applications/)
 
+## Herramientas relacionadas
+- [Asio](/es/discover/asio/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/io/

@@ -30,5 +30,15 @@ La inteligencia artificial cambiará la forma en que se realizan muchos trabajos
 - [AGI](/es/dictionary/agi/)
 - [NLP](/es/dictionary/nlp/)
 
+## Herramientas relacionadas
+- [Build Your Own X](/es/discover/build-your-own-x/)
+- [Coding Interview University](/es/discover/coding-interview-university/)
+- [Superpowers](/es/discover/superpowers/)
+- [ECC](/es/discover/ecc/)
+- [Hermes Agent](/es/discover/hermes-agent/)
+- [Opencode](/es/discover/opencode/)
+- [FreeDomain](/es/discover/free-domain/)
+- [AutoGPT](/es/discover/autogpt/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/artificial-intelligence/

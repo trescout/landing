@@ -28,5 +28,8 @@ Sí, los procesos de instalación y mantenimiento pueden requerir conocimientos 
 - [Personal Cloud](/es/dictionary/personal-cloud/)
 - [Open Source](/es/dictionary/open-source/)
 
+## Herramientas relacionadas
+- [Karakeep](/es/discover/karakeep/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/self-hostable/

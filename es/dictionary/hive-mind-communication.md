@@ -27,5 +27,8 @@ Debido a que la información fluye por todas partes, en estos sistemas son esenc
 - [Multi-agent](/es/dictionary/multi-agent/)
 - [Hive Mind Communication Platform](/es/dictionary/hive-mind-communication-platform/)
 
+## Herramientas relacionadas
+- [Buzz](/es/discover/buzz/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/hive-mind-communication/

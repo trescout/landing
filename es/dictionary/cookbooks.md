@@ -23,5 +23,8 @@ No, la forma más inteligente es no reinventar la rueda y utilizar las mejores p
 - [Framework](/es/dictionary/framework/)
 - [Tech Stack](/es/dictionary/tech-stack/)
 
+## Herramientas relacionadas
+- [Claude Cookbooks](/es/discover/claude-cookbooks/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cookbooks/

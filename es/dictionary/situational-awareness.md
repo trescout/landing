@@ -27,5 +27,8 @@ Los humanos son intuitivos, mientras que las IA se basan completamente en cálcu
 - [Autonomous AI Agent](/es/dictionary/autonomous-ai-agent/)
 - [World Model](/es/dictionary/world-model/)
 
+## Herramientas relacionadas
+- [Worldmonitor](/es/discover/worldmonitor/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/situational-awareness/

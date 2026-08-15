@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-18",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Codebase-memory-mcp bietet leistungsstarke Code-Intelligenz, indem es Codebasen in einen permanenten Wissensgraphen umwandelt. Das in C-Sprache entwickelte Tool unterstützt 158 ​​Programmiersprachen, reduziert die Abfragezeiten auf unter Millisekunden und reduziert die Token-Nutzung.",
+          "meta": "C · ★ 6.142 · +371 heute"
+        },
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "Das von Google Research entwickelte Time Series Foundation Model bietet eine vorab trainierte Struktur für die Zeitreihenvorhersage. Das Modell ist darauf ausgelegt, allgemeine Vorhersagefunktionen für verschiedene Datensätze bereitzustellen.",
+          "meta": "Python · ★ 22.167 · +606 heute"
+        },
+        {
+          "title": "RocketChat/Rocket.Chat",
+          "url": "https://github.com/RocketChat/Rocket.Chat",
+          "summary": "Rocket.Chat bietet ein sicheres Kommunikationsbetriebssystem, das für geschäftskritische Vorgänge entwickelt wurde. Die mit der TypeScript-Sprache entwickelte Plattform zielt darauf ab, interne Nachrichten- und Kollaborationsprozesse zu zentralisieren.",
+          "meta": "TypeScript · ★ 45.649 · +22 heute"
+        },
+        {
+          "title": "continuedev/continue",
+          "url": "https://github.com/continuedev/continue",
+          "summary": "Continue ist ein Open-Source-Coding-Agent zur Automatisierung von Softwareentwicklungsprozessen. Es ermöglicht Entwicklern, Code innerhalb der IDE unter Verwendung ihrer nativen Sprachmodelle (LLM) zu schreiben, zu debuggen und umzugestalten.",
+          "meta": "TypeScript · ★ 34.017 · +49 heute"
+        },
+        {
+          "title": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "summary": "Penpot ist ein Open-Source-Designtool, das die Zusammenarbeit zwischen Designern und Entwicklern stärkt. Dank seiner vektorbasierten Schnittstelle ermöglicht es Ihnen, Designprozesse integriert mit der Codierungsphase zu verwalten.",
+          "meta": "Clojure · ★ 50.242 · +70 heute"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Dieses von Matt Pocock geteilte Repository enthält Skripte und strukturierte Anweisungen für Softwareentwickler, um Assistenten für künstliche Intelligenz effizienter zu nutzen. Entwickler nutzen diese vorgefertigten Fähigkeiten, um die Leistung von Modellen der künstlichen Intelligenz wie Claude in Codierungs- und Debugging-Prozessen zu verbessern.",
+          "meta": "Shell · ★ 134.391 · +1.523 heute"
+        },
+        {
+          "title": "yairm210/Unciv",
+          "url": "https://github.com/yairm210/Unciv",
+          "summary": "Unciv ist eine Open-Source-Desktop- und Android-Adaption des Spiels Civilization V. Das in der Kotlin-Sprache entwickelte Projekt bietet Benutzern originelle Spielmechaniken auf einer einfacheren Infrastruktur.",
+          "meta": "Kotlin · ★ 10.739 · +24 heute"
+        },
+        {
+          "title": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "summary": "UI-TARS wurde von ByteDance entwickelt und ist eine Open-Source-Agenteninfrastruktur, die multimodale KI-Modelle mit Desktop-Schnittstellen integriert. Dieses System ermöglicht die Erstellung von Agenten (KI-Agenten), die durch die Verarbeitung visueller Daten autonom Aufgaben am Computer ausführen.",
+          "meta": "TypeScript · ★ 36.779 · +150 heute"
+        },
+        {
+          "title": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "summary": "Nautilus Trader ist eine Handelsmaschine mit einer deterministischen ereignisgesteuerten Architektur, die in der Rust-Sprache entwickelt wurde. Es bietet produktionstaugliche Infrastrukturlösungen für leistungsstarke Finanzsysteme.",
+          "meta": "Rust · ★ 23.912 · +98 heute"
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage ist ein agentenbasiertes Open-Source-System, das KI-Codierungsassistenten in ein vollwertiges Videoproduktionsstudio verwandelt. Diese Python-basierte Plattform automatisiert Videoproduktionsprozesse mit 12 verschiedenen Pipelines und mehr als 500 Agentenfähigkeiten.",
+          "meta": "Python · ★ 5.648 · +98 heute"
+        },
+        {
+          "title": "alexzhang13/rlm",
+          "url": "https://github.com/alexzhang13/rlm",
+          "summary": "RLM wurde für rekursive Sprachmodelle entwickelt und ist eine Plug-and-Play-Inferenzbibliothek, die verschiedene Sandboxes unterstützt. Dieses Python-basierte Tool standardisiert komplexe Sprachmodellprozesse und erleichtert so die Integration in verschiedene Systeme.",
+          "meta": "Python · ★ 4.987 · +43 heute"
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane ist eine Open-Source-Projektmanagementplattform, die Aufgabenverwaltung, Sprintplanung und Dokumentationsprozesse kombiniert. Diese Plattform wurde als Alternative zu Unternehmenstools wie Jira und Linear entwickelt und ermöglicht es Teams, Arbeitsabläufe über eine zentrale Schnittstelle zu organisieren.",
+          "meta": "TypeScript · ★ 51.506 · +89 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Lore – Open source version control system designed for scalability",
+          "url": "https://lore.org/",
+          "summary": "Lore wurde als Open-Source-Versionskontrollsystem mit Schwerpunkt auf Skalierbarkeit entwickelt. Es bietet eine alternative Infrastruktur zur Verwaltung großer Datenmengen und komplexer Arbeitsabläufe in Softwareprojekten.",
+          "meta": "1.117 Punkte · 595 Kommentare"
+        },
+        {
+          "title": "Volkswagen started blocking GrapheneOS users",
+          "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+          "summary": "Volkswagen verhindert aus Sicherheitsgründen die Ausführung seiner mobilen Anwendung auf Geräten mit dem Betriebssystem GrapheneOS. Das Unternehmen schränkt den Zugriff auf die Anwendung gemäß Sicherheitsprotokollen ein, wenn Root-Zugriff oder angepasste Software erkannt wird.",
+          "meta": "658 Punkte · 394 Kommentare"
+        },
+        {
+          "title": "Midjourney Medical",
+          "url": "https://www.midjourney.com/medical/blogpost",
+          "summary": "Midjourney entwickelt ein spezielles Modell der künstlichen Intelligenz (medizinisches KI-Modell), um medizinische Bilddaten zu analysieren und radiologische Scans zu verstehen. Ziel des Unternehmens ist es, mit diesem System diagnostische Prozesse zu beschleunigen und eine einheitliche Infrastruktur für die Verarbeitung medizinischer Bilddaten zu schaffen.",
+          "meta": "650 Punkte · 447 Kommentare"
+        },
+        {
+          "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+          "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+          "summary": "Die Vereinigten Staaten haben die Beschränkungen für die DeepSeek-Plattform vorerst verschoben, obwohl mehr als hundert chinesische Unternehmen aufgrund von Sicherheitsrisiken auf die schwarze Liste gesetzt wurden. Die fragliche Entscheidung zeigt, dass Untersuchungen zu den Auswirkungen von Technologieunternehmen auf die nationale Sicherheit fortgesetzt werden.",
+          "meta": "449 Punkte · 498 Kommentare"
+        },
+        {
+          "title": "RFC 10008: The new HTTP Query Method",
+          "url": "https://www.rfc-editor.org/info/rfc10008/",
+          "summary": "Die HTTP-Abfragemethode führt einen neuen Standard ein, der Textinhalte übertragen kann, aber für sichere und nebenwirkungsfreie Vorgänge konzipiert ist. Mit dieser Methode können komplexere Datenabfragen weitergeleitet werden, indem die URL-Längenbeschränkungen der aktuellen GET-Anfrage umgangen werden.",
+          "meta": "365 Punkte · 154 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "knowledge graph",
+      "explanation": "Eine Datenbank, die Informationen in einer Netzwerkstruktur mit ihren Beziehungen untereinander verbindet."
+    },
+    {
+      "term": "token",
+      "explanation": "Die kleinste segmentierte Wort- oder Silbeneinheit, die künstliche Intelligenz bei der Verarbeitung von Texten verwendet."
+    },
+    {
+      "term": "Time Series Foundation Model",
+      "explanation": "Fortschrittliches Modell der künstlichen Intelligenz, das Änderungen in zeitabhängigen Daten analysieren und zukünftige Situationen vorhersagen kann."
+    },
+    {
+      "term": "communications operating system",
+      "explanation": "Softwareplattform, die die Verwaltung verschiedener Kommunikationstools und -kanäle von einem einzigen Zentrum aus ermöglicht."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Autonome künstliche Intelligenz, die selbstständig Softwarecode schreiben, Fehler beheben und Projekte verbessern kann."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Ein mit sehr großen Datenmengen trainiertes Modell der künstlichen Intelligenz, das menschliche Sprache verstehen und Text produzieren kann."
+    },
+    {
+      "term": "refactoring",
+      "explanation": "Der Prozess, die interne Codestruktur der Software organisierter und effizienter zu gestalten, ohne ihr externes Verhalten zu ändern."
+    }
+  ]
+}

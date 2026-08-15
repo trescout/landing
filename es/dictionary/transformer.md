@@ -26,6 +26,11 @@ No, hoy en día también se utiliza con éxito en el campo del procesamiento de 
 - [LLM](/es/dictionary/llm/)
 - [Foundation Model](/es/dictionary/foundation-model/)
 - [Generative AI](/es/dictionary/generative-ai/)
+- [NLP](/es/dictionary/nlp/)
+
+## Herramientas relacionadas
+- [Heretic](/es/discover/heretic/)
+- [Train LLM from Scratch](/es/discover/train-llm-from-scratch/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/transformer/

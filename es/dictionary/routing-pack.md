@@ -1,15 +1,15 @@
 # ¿Qué es Routing Pack?
 
-Veri paketlerinin ağ üzerindeki en verimli rotayı izlemesini sağlayan kurallar dizisidir.
+Es un conjunto de reglas que garantiza que los paquetes de datos sigan la ruta más eficiente en la red.
 
 ## Definición
-Bilgisayar ağlarında veri, küçük parçalar halinde iletilir. Routing pack, bu parçaların hangi yolları izleyerek hedefe ulaşacağını belirleyen bir trafik polisi gibi çalışır. Verinin kaybolmadan veya gereksiz gecikmeye uğramadan doğru adrese gitmesini sağlar.
+En las redes informáticas, los datos se transmiten en pequeños fragmentos. El paquete de rutas funciona como un oficial de policía de tránsito, determinando qué rutas seguirán estas piezas para llegar al destino. Garantiza que los datos lleguen a la dirección correcta sin perderse ni sufrir retrasos innecesarios.
 
 ## Cómo funciona
-Ağ cihazları, bu paketlerdeki kuralları okur ve veriyi bir sonraki durak noktasına yönlendirir. Bu sayede trafik sıkışıklığı önlenir.
+Los dispositivos de red leen las reglas de estos paquetes y enrutan los datos a la siguiente parada. De esta forma se evita la congestión del tráfico.
 
 ## Dónde se usa
-İnternet altyapılarında ve büyük kurumsal ağlarda kullanılır.
+Se utiliza en infraestructuras de Internet y grandes redes corporativas.
 
 ## Preguntas frecuentes
 **¿Por qué es importante?**
@@ -20,6 +20,9 @@ Afecta directamente a la velocidad y seguridad de la transmisión de datos.
 - [Networking Stack](/es/dictionary/networking-stack/)
 - [API Gateway](/es/dictionary/api-gateway/)
 - [Proxy](/es/dictionary/proxy/)
+
+## Herramientas relacionadas
+- [Reverse Skill](/es/discover/reverse-skill/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/routing-pack/

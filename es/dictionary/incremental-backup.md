@@ -26,5 +26,8 @@ Puede realizarse diariamente o cada hora, dependiendo de su tasa de intercambio 
 - [Backup Program](/es/dictionary/backup-program/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Restic](/es/discover/restic/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/incremental-backup/

@@ -21,5 +21,15 @@ Sí, puedes realizar los cambios que quieras en la copia en tu propia computador
 - [Open Source](/es/dictionary/open-source/)
 - [Self-hosting](/es/dictionary/self-hosting/)
 
+## Herramientas relacionadas
+- [MoneyPrinterTurbo](/es/discover/moneyprinterturbo/)
+- [Clone-Wars](/es/discover/clone-wars/)
+- [VoxCPM](/es/discover/voxcpm/)
+- [Hermes WebUI](/es/discover/hermes-webui/)
+- [OpenStock](/es/discover/openstock/)
+- [Production Agentic RAG Course](/es/discover/production-agentic-rag-course/)
+- [Flowsint](/es/discover/flowsint/)
+- [MOSS-TTS](/es/discover/moss-tts/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/clone/

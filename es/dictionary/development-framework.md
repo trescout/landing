@@ -24,5 +24,8 @@ Puede que sea innecesario para trabajos pequeños y sencillos, pero es esencial 
 - [Tech Stack](/es/dictionary/tech-stack/)
 - [Coding Agents](/es/dictionary/coding-agent/)
 
+## Herramientas relacionadas
+- [AstrBot](/es/discover/astrbot/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/development-framework/

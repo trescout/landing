@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-07",
+  "editorial": "Bei Systemen der künstlichen Intelligenz stehen heute Kompetenzpakete und zeitnahe Leaks im Mittelpunkt des Entwickler-Ökosystems. Open-Source-Projekte auf GitHub konzentrieren sich speziell auf benutzerdefinierte Fähigkeiten, die die Funktionalität von Claude und ähnlichen Modellen erweitern.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "Dieses Repository kompiliert und stellt Systemeingabeaufforderungen wichtiger Sprachmodelle wie Anthropic, OpenAI, Google und xAI zur Verfügung. Es bietet eine aktuelle Datenquelle für Entwickler, die die Funktionsprinzipien und Einschränkungen verschiedener Modelle der künstlichen Intelligenz verstehen möchten.",
+          "meta": "JavaScript · ★ 52.076 · +1.378 heute"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Agent-Skills wurde von Addy Osmani entwickelt und bietet technische Fähigkeiten auf Produktionsebene für Programmieragenten für künstliche Intelligenz. Diese Bibliothek ermöglicht es JavaScript-basierten Agenten, komplexe Softwareentwicklungsaufgaben mit standardisierten Methoden auszuführen.",
+          "meta": "JavaScript · ★ 71.250 · +1.112 heute"
+        },
+        {
+          "title": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "summary": "Meetily ist ein Open-Source-Meeting-Assistent, der Meeting-Aufzeichnungen lokal verarbeitet und keine Cloud-Verbindung erfordert. Die in Rust entwickelte Anwendung nutzt muttersprachliche Modelle für Live-Transkription, Sprecher-Tagebücher und Zusammenfassungen.",
+          "meta": "Rust · ★ 19.818 · +2.494 heute"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView führt in Echtzeit räumliche Intelligenz, Vitalzeichenverfolgung und Anwesenheitserkennung ohne Bilddaten unter Verwendung standardmäßiger drahtloser Netzwerksignale (WiFi) durch. Diese mit der Rust-Sprache entwickelte Technologie analysiert Bewegungen und biometrische Daten in der Umgebung, ohne dass Kamera-Hardware erforderlich ist.",
+          "meta": "Rust · ★ 77.861 · +470 heute"
+        },
+        {
+          "title": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "summary": "Taste-Skill ist ein Tool, das entwickelt wurde, um zu verhindern, dass die von Modellen der künstlichen Intelligenz erzeugten Inhalte gewöhnlich und allgemein sind. Die Software bietet einen auf Ästhetik und Originalität ausgerichteten Filtermechanismus, um die Ausgabequalität von Sprachmodellen zu verbessern.",
+          "meta": "JavaScript · ★ 59.459 · +1.458 heute"
+        },
+        {
+          "title": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "summary": "Diese für Claude Code und ähnliche Coding-Agenten entwickelte Bibliothek bietet mehr als 330 Skills, mehr als 70 Spezialbefehle und mehr als 30 vorgefertigte Agentenstrukturen. Es standardisiert die KI-basierte Produktivität, indem es anpassbare Arbeitsabläufe und Skripte in einer Vielzahl von Bereichen bereitstellt, vom Engineering bis zum Finanzbetrieb.",
+          "meta": "Python · ★ 21.346 · +610 heute"
+        },
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "Codex-plugin-cc wurde von OpenAI veröffentlicht und ermöglicht die Verwendung des Codex-Modells für die Codeüberprüfung und Aufgabendelegierung innerhalb von Claude Code. Dieses Plugin ermöglicht es Entwicklern, verschiedene Modelle der künstlichen Intelligenz gemeinsam in Automatisierungsprozessen auf der Codebasis auszuführen.",
+          "meta": "JavaScript · ★ 26.431 · +906 heute"
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "Last30days-skill bietet einen Skill für künstliche Intelligenz (KI-Skill), der Recherchen zu einem bestimmten Thema über Reddit, X, YouTube, Hacker News und Webressourcen durchführt. Dieses Python-basierte Tool analysiert gesammelte Daten und erstellt überprüfbare Zusammenfassungen.",
+          "meta": "Python · ★ 50.004 · +458 heute"
+        },
+        {
+          "title": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "summary": "Herdr ist ein Agent-Multiplexer-Tool, das auf dem Terminal läuft und die gleichzeitige Verwaltung mehrerer Agenten für künstliche Intelligenz ermöglicht. Diese in der Rust-Sprache entwickelte Software ermöglicht es Benutzern, über die Befehlszeile mit verschiedenen Modellen der künstlichen Intelligenz zu interagieren.",
+          "meta": "Rust · ★ 13.065 · +779 heute"
+        },
+        {
+          "title": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "summary": "Claude-video ist ein Python-Tool, das dem Claude-Modell die Möglichkeit gibt, Videoinhalte zu analysieren. Indem die Software Videos herunterlädt, in Frames unterteilt und in Text umwandelt (Transkription), bringt die Software die visuellen Daten in ein Format, das das Modell der künstlichen Intelligenz verarbeiten kann.",
+          "meta": "Python · ★ 4.554 · +427 heute"
+        },
+        {
+          "title": "karakeep-app/karakeep",
+          "url": "https://github.com/karakeep-app/karakeep",
+          "summary": "Karakeep ist eine selbsthostbare Content-Management-Anwendung, die Links, Notizen und Bilder in einem einzigen Zentrum sammelt. Es erleichtert digitale Archivierungsprozesse mit künstlicher Intelligenz unterstützter automatischer Verschlagwortung und Volltextsuche.",
+          "meta": "TypeScript · ★ 27.033 · +199 heute"
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl bietet eine Schnittstelle (API), die für die Durchführung von Web-Scraping- und Suchvorgängen in großem Umfang entwickelt wurde. Dieses Tool beschleunigt die Datenverarbeitung, indem es Webinhalte in Formate konvertiert, die für große Sprachmodelle geeignet sind.",
+          "meta": "TypeScript · ★ 146.681 · +867 heute"
+        },
+        {
+          "title": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "summary": "CodexBar ermöglicht das Anzeigen von OpenAI Codex- und Claude Code-Nutzungsstatistiken, ohne dass eine Anmeldung erforderlich ist. Dieses Tool wurde mit der Swift-Sprache entwickelt und erleichtert Entwicklern die Verfolgung der Nutzungsdaten des Codierungsassistenten.",
+          "meta": "Swift · ★ 16.847 · +598 heute"
+        },
+        {
+          "title": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "summary": "Zvec wurde von Alibaba entwickelt und ist eine leichtgewichtige Vektordatenbank, die mit ihrer prozessinternen Arbeitslogik eine hohe Leistung bietet. Dieses in C++ geschriebene Tool bietet eine Struktur, die für schnelle Datenverarbeitungsanforderungen optimiert ist.",
+          "meta": "C++ · ★ 13.670 · +382 heute"
+        },
+        {
+          "title": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "summary": "Awesome Lists bietet kuratierte Ressourcensammlungen zu verschiedenen Themen in der Welt der Softwareentwicklung und -technologie. Dieses Repository fungiert als umfassendes Verzeichnis, das die besten Tools, Bibliotheken und Lernmaterialien aus verschiedenen Bereichen zusammenführt.",
+          "meta": "★ 482.524 · +345 heute"
+        },
+        {
+          "title": "gastownhall/gastown",
+          "url": "https://github.com/gastownhall/gastown",
+          "summary": "Gas Town ist ein System, das als Multi-Agent-Workspace-Manager entwickelt wurde. Dieses in der Go-Sprache geschriebene Tool bietet eine strukturierte Infrastruktur für die Verwaltung von Arbeitsumgebungen, in denen autonome Agenten zusammenarbeiten.",
+          "meta": "Go · ★ 16.787 · +291 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Resetting Xbox",
+          "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+          "summary": "Microsoft führt eine umfassende Umstrukturierung der Konsolensoftware und der Benutzeroberfläche durch, um das Xbox-Ökosystem zu modernisieren. Ziel dieses Updates ist es, das digitale Shop-Erlebnis der Plattform und die systemweite Leistungseffizienz zu verbessern.",
+          "meta": "585 Punkte · 594 Kommentare"
+        },
+        {
+          "title": "OpenWrt One – Open Hardware Router",
+          "url": "https://openwrt.org/toh/openwrt/one",
+          "summary": "OpenWrt One ist ein Router-Projekt, das auf offenen Hardware-Prinzipien basiert. Das Gerät, das Softwareunterstützung direkt von der OpenWrt-Community erhält, soll Benutzern die volle Kontrolle über ihre Netzwerkhardware geben.",
+          "meta": "558 Punkte · 220 Kommentare"
+        },
+        {
+          "title": "CoMaps – FOSS Offline Maps",
+          "url": "https://www.comaps.app/",
+          "summary": "CoMaps ist eine Open-Source-Kartenanwendung (FOSS), die keine Internetverbindung erfordert. Es ermöglicht Benutzern, den Datenschutz zu schützen und ohne Standortverfolgung zu navigieren, indem sie Offline-Karten auf ihre Geräte herunterladen.",
+          "meta": "479 Punkte · 94 Kommentare"
+        },
+        {
+          "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+          "url": "https://github.com/MaximeRivest/Riddle",
+          "summary": "Das Fable-Projekt verwandelt das digitale Notizbuch reMarkable in Tom Riddles Tagebuch im Harry-Potter-Universum und bietet Benutzern ein interaktives, textbasiertes Spielerlebnis. Die Software erstellt mithilfe der Bildschirm- und Stifteingaben des Geräts eine von künstlicher Intelligenz unterstützte Erzählschnittstelle.",
+          "meta": "385 Punkte · 207 Kommentare"
+        },
+        {
+          "title": "A global workspace in language models",
+          "url": "https://www.anthropic.com/research/global-workspace",
+          "summary": "Anthropische Forscher wenden die Global-Workspace-Theorie an, um die internen Prozesse von Sprachmodellen zu verstehen. Ziel dieser Methode ist es, durch die Kombination verschiedener Informationen transparent zu machen, wie Modelle komplexe Aufgaben erfüllen.",
+          "meta": "348 Punkte · 127 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B, veröffentlicht von Empero-ai, verfügt über eine multimodale Modellstruktur, die durch die Verarbeitung visueller und textbasierter Daten eine Textausgabe erzeugt. Das Modell ist im GGUF-Format verfügbar, das eine hohe Kontextfensterunterstützung mit einer Kapazität von 9 Milliarden Parametern bietet.",
+          "meta": "♥ 1.676 · 1.617.508 Downloads"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "url": "https://huggingface.co/zai-org/GLM-5.2",
+          "summary": "GLM-5.2, entwickelt von Zai-org, ist ein Sprachmodell für Textgenerierungsaufgaben. Dieses Modell, das auf der HuggingFace-Plattform eine breite Nutzerbasis erreicht hat, bietet eine alternative Lösung für Prozesse der Verarbeitung natürlicher Sprache.",
+          "meta": "♥ 3.548 · 231.218 Downloads"
+        },
+        {
+          "title": "tencent/Hy3",
+          "url": "https://huggingface.co/tencent/Hy3",
+          "summary": "Hy3 wurde von Tencent entwickelt und ist ein für Textgenerierungsprozesse optimiertes Sprachmodell. Das Modell zielt darauf ab, eine Vielzahl von Aufgaben zur Verarbeitung natürlicher Sprache auszuführen, indem es an großen Datensätzen trainiert wird.",
+          "meta": "♥ 374 · 2 Downloads"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR wurde von Baidu entwickelt und ist ein Bild-Text-zu-Text-Modell, das durch die Verarbeitung visueller Texte eine Textausgabe erzeugt. Das System zielt darauf ab, den Prozess der Konvertierung von Daten in komplexen Dokumenten in ein digitales Format zu automatisieren.",
+          "meta": "♥ 1.805 · 1.070.230 Downloads"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "url": "https://huggingface.co/InternScience/Agents-A1",
+          "summary": "Agents-A1, entwickelt von InternScience, ist ein Modell der künstlichen Intelligenz, das für Textgenerierungsaufgaben optimiert ist. Dieses Modell wurde entwickelt, um agentenbasierte Arbeitsabläufe in Prozessen zu unterstützen, die komplexe logische Überlegungen erfordern.",
+          "meta": "♥ 350 · 8.766 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "system prompts",
+      "explanation": "Erste Anweisungen, die festlegen, wie sich die KI verhalten und welche Regeln sie befolgen soll."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Fähigkeit, technische Methoden zu entwickeln und Systeme zur Lösung komplexer Probleme zu etablieren."
+    },
+    {
+      "term": "live transcription",
+      "explanation": "Der Prozess der sofortigen Transkription gesprochener Audiodaten."
+    },
+    {
+      "term": "speaker diarization",
+      "explanation": "Technologie, die die Gespräche in der Sprachaufzeichnung danach unterscheidet und gruppiert, wer sie geführt hat."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "Drahtlose Netzwerktechnologie, die es Geräten ermöglicht, ohne Kabel eine Verbindung zum Internet oder untereinander herzustellen."
+    },
+    {
+      "term": "presence detection",
+      "explanation": "Ein System, das über Sensoren oder Software erkennt, ob sich Menschen in einer Umgebung befinden."
+    },
+    {
+      "term": "skills",
+      "explanation": "Die Fähigkeiten, über die eine Software oder künstliche Intelligenz verfügt, um eine bestimmte Aufgabe auszuführen."
+    },
+    {
+      "term": "scripts",
+      "explanation": "Kurze Befehlsfolgen, die für den Computer geschrieben wurden, um bestimmte Aufgaben automatisch auszuführen."
+    },
+    {
+      "term": "AI skill",
+      "explanation": "Ein Kompetenzbereich, in dem künstliche Intelligenz speziell für die Ausführung einer Aufgabe trainiert oder definiert wird."
+    },
+    {
+      "term": "agent multiplexer",
+      "explanation": "Das Zentrum verwaltet mehrere Beamte für künstliche Intelligenz und leitet eingehende Anfragen an die richtige Einheit weiter."
+    },
+    {
+      "term": "transcription",
+      "explanation": "Konvertieren von Gesprächen in Audio- oder Videoaufzeichnungen in Text."
+    },
+    {
+      "term": "self-hostable",
+      "explanation": "Die Möglichkeit, eine Software auf Ihrem eigenen Computer oder Server auszuführen, anstatt sie auszulagern."
+    },
+    {
+      "term": "automatic tagging",
+      "explanation": "Automatische Kennzeichnung von Dateien oder Daten durch das System anhand deren Inhalt."
+    },
+    {
+      "term": "full text search",
+      "explanation": "Finden der gesuchten Informationen durch Scannen aller Wörter in einem Dokument."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Automatisches Kopieren und Sammeln von Daten auf Websites durch Software."
+    },
+    {
+      "term": "API",
+      "explanation": "Eine Brücke, die es zwei verschiedenen Softwareprogrammen ermöglicht, miteinander zu kommunizieren und Daten auszutauschen."
+    }
+  ]
+}

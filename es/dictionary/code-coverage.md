@@ -24,5 +24,8 @@ Se puede medir automáticamente con bibliotecas de prueba adecuadas para el leng
 - [Testing Framework](/es/dictionary/testing-framework/)
 - [QA](/es/dictionary/qa/)
 
+## Herramientas relacionadas
+- [Lighthouse](/es/discover/lighthouse/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/code-coverage/

@@ -23,8 +23,16 @@ Sí, todo software que pueda ejecutarse necesita un entorno de trabajo.
 
 
 ## Términos relacionados
+- [Compile-time](/es/dictionary/compile-time/)
 - [State Management](/es/dictionary/state-management/)
 - [API](/es/dictionary/api/)
+
+## Herramientas relacionadas
+- [Node](/es/discover/node/)
+- [Deno](/es/discover/deno/)
+- [BUN](/es/discover/bun/)
+- [Svelte](/es/discover/svelte/)
+- [Flue](/es/discover/flue/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/runtime/

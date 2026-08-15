@@ -27,5 +27,8 @@ Se requiere un flujo de datos ininterrumpido y una infraestructura sólida que p
 - [Foundation Model](/es/dictionary/foundation-model/)
 - [AI Skills](/es/dictionary/ai-skills/)
 
+## Herramientas relacionadas
+- [Hermes Agent](/es/discover/hermes-agent/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/continuous-learning/

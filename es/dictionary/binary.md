@@ -21,5 +21,9 @@ Porque distinguir dos estados (tensión presente/ausente) en circuitos electrón
 - [Compilation](/es/dictionary/compilation/)
 - [System Programming Language](/es/dictionary/system-programming-language/)
 
+## Herramientas relacionadas
+- [Protobuf](/es/discover/protobuf/)
+- [OfficeCLI](/es/discover/officecli/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/binary/

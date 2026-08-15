@@ -27,5 +27,8 @@ Requiere experiencia para configurarlo y administrarlo, pero la información que
 - [Graph-based Investigation](/es/dictionary/graph-based-investigation/)
 - [Database](/es/dictionary/database/)
 
+## Herramientas relacionadas
+- [Cognee](/es/discover/cognee/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/knowledge-graph-engine/

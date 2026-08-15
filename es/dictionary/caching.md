@@ -24,5 +24,8 @@ Los datos antiguos o que se utilizan con poca frecuencia se eliminan y se reempl
 - [Prefix Cache](/es/dictionary/prefix-cache/)
 - [Database](/es/dictionary/database/)
 
+## Herramientas relacionadas
+- [Guava](/es/discover/guava/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/caching/

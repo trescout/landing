@@ -28,6 +28,7 @@ Se trata de una cuestión que está en el centro de los debates éticos y de seg
 - [World Model](/es/dictionary/world-model/)
 - [AI Agent](/es/dictionary/ai-agent/)
 - [Foundation Model](/es/dictionary/foundation-model/)
+- [Artificial Intelligence](/es/dictionary/artificial-intelligence/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agi/

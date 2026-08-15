@@ -24,5 +24,8 @@ No, simplemente intentan encontrar el camino más eficiente según el mecanismo 
 - [Autonomous Agent](/es/dictionary/autonomous-agent/)
 - [Machine Learning](/es/dictionary/machine-learning/)
 
+## Herramientas relacionadas
+- [Prime Agent](/es/discover/prime-agent/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/reinforcement-learning-agent/

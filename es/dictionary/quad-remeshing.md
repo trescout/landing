@@ -24,5 +24,8 @@ Las estructuras rectangulares dan resultados mucho más naturales al doblarse y 
 - [Computer Vision](/es/dictionary/computer-vision/)
 - [Design Tool](/es/dictionary/design-tool/)
 
+## Herramientas relacionadas
+- [Autoremesher](/es/discover/autoremesher/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/quad-remeshing/

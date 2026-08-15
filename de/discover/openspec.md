@@ -1,0 +1,44 @@
+# Standardentwicklung in Projekten zur künstlichen Intelligenz
+
+OpenSpec ist eine TypeScript-Bibliothek, die spezifikationsgesteuerte Entwicklungsprozesse für Code-Assistenten für künstliche Intelligenz unterstützt. Es gewährleistet eine Standardisierung der technischen Anforderungen während der Softwareentwicklungsphasen und einen kontrollierteren Fortschritt der Codeproduktionsprozesse.
+
+- ★ 63.990
+- TypeScript
+- GitHub Trending · 2026-06-28
+
+## Aktualisieren
+- 6. August 2026: Star 63.477 → 63.990, neueste Version v1.8.0 (5. August 2026).
+- 2. August 2026: Star 57.272 → 63.477, neueste Version v1.7.0 (29. Juli 2026).
+
+## Was es bringt
+- Standardisiert technische Anforderungen, bevor Code geschrieben wird
+- Steuert den Entwicklungsprozess mit künstlicher Intelligenz
+- Archiviert Änderungen in einer organisierten Ordnerstruktur
+
+## Installation
+**Installieren Sie das Tool global**
+
+```
+npm install -g @fission-ai/openspec@latest
+```
+
+
+## Ausführung
+**Im Projektverzeichnis starten**
+
+```
+openspec init
+```
+
+
+## Wenn Sie nicht programmieren
+Ich möchte einen Entwicklungsprozess mit OpenSpec starten. Bitte überprüfen Sie meine aktuelle Codestruktur, machen Sie Vorschläge und helfen Sie mir mit dem Befehl „/opsx:propose“, einen Plan zu erstellen, der technische Anforderungen, Designdetails und Implementierungsaufgaben für eine neue Funktion enthält.
+
+## Verwandte Begriffe aus dem Glossar
+
+## Links
+- GitHub-Repository →
+- Auf Türkisch lesen →
+
+---
+Quelle: TreScout Entdecken · https://trescout.com/de/discover/openspec/

@@ -27,5 +27,11 @@ Jupyter Notebooks es el más utilizado.
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 - [AI Engineering](/es/dictionary/ai-engineering/)
 
+## Herramientas relacionadas
+- [AI-For-Beginners](/es/discover/ai-for-beginners/)
+- [Claude Cookbooks](/es/discover/claude-cookbooks/)
+- [Awesome Generative AI Guide](/es/discover/awesome-generative-ai-guide/)
+- [GeoLibre](/es/discover/geolibre/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/notebooks/

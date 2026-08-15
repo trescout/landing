@@ -24,5 +24,8 @@ Aunque los modelos modernos entienden la mayoría de los acentos, pueden cometer
 - [Speech Synthesis](/es/dictionary/speech-synthesis/)
 - [NLP](/es/dictionary/nlp/)
 
+## Herramientas relacionadas
+- [Transcribe.cpp](/es/discover/transcribe-cpp/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/speech-to-text/

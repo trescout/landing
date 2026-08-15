@@ -23,6 +23,8 @@ Sí, el proceso se activa automáticamente a medida que los datos llegan y fluye
 
 
 ## Términos relacionados
+- [Data Pipeline](/es/dictionary/data-pipeline/)
+- [Document Parsing](/es/dictionary/document-parsing/)
 - [RAG](/es/dictionary/rag/)
 - [Embedding](/es/dictionary/embedding/)
 

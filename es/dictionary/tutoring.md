@@ -27,5 +27,8 @@ Sí, pero a veces puede cometer errores en temas que requieren una lógica compl
 - [AI Companion](/es/dictionary/ai-companion/)
 - [Lifelong Learning](/es/dictionary/lifelong-learning/)
 
+## Herramientas relacionadas
+- [DeepTutor](/es/discover/deeptutor/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/tutoring/

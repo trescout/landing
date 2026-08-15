@@ -1,0 +1,149 @@
+{
+  "date": "2026-07-22",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "i-have-adhd wurde entwickelt, um die Ausgabe von Codierungsagenten fokussierter und organisierter zu gestalten und verbessert die Benutzererfahrung, indem komplexe Antworten in Teile zerlegt werden. Diese auf Python basierende Fähigkeit standardisiert die Darstellung von Informationen durch KI in einem für Aufmerksamkeitsdefizit-Hyperaktivitätsstörungen (ADHS) geeigneten Format.",
+          "meta": "Python · ★ 7.248 · +1.866 heute"
+        },
+        {
+          "title": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "summary": "Text-zu-CAD-Tools sind eine Sammlung von Agentenfähigkeiten, die zur Automatisierung von Robotik- und Hardware-Designprozessen entwickelt wurden. Diese JavaScript-basierte Bibliothek ermöglicht die Erstellung komplexer technischer Modelle mit Befehlen in natürlicher Sprache.",
+          "meta": "JavaScript · ★ 9.319 · +291 heute"
+        },
+        {
+          "title": "tradesdontlie/tradingview-mcp",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "summary": "TradingView-mcp verbindet Claude Code mit der TradingView-Desktopanwendung und ermöglicht Ihnen so die Automatisierung von Diagrammanalyseprozessen. Diese Integration ermöglicht es Benutzern, technische Analyse-Workflows durch KI-gestützten Modellkontext (Model Context Protocol) zu personalisieren.",
+          "meta": "JavaScript · ★ 4.930 · +114 heute"
+        },
+        {
+          "title": "AlexsJones/llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "summary": "Llmfit wurde mit der Rust-Sprache entwickelt und scannt Hunderte großer Sprachmodelle und Anbieter und ermöglicht es Ihnen, mit einem einzigen Befehl diejenigen zu identifizieren, die mit Ihrer Hardware kompatibel sind. Das Tool automatisiert den Prozess der Suche nach Modellen, die am besten zu den lokalen Systemressourcen passen.",
+          "meta": "Rust · ★ 30.309 · +129 heute"
+        },
+        {
+          "title": "hyprwm/Hyprland",
+          "url": "https://github.com/hyprwm/Hyprland",
+          "summary": "Hyprland ist ein Fenstermanager, der auf dem Wayland-Compositor läuft und eine anpassbare dynamische Kachelstruktur bietet. Dieses in C++ entwickelte Tool bietet ein leistungsstarkes Desktop-Erlebnis ohne Kompromisse bei der visuellen Ästhetik.",
+          "meta": "C++ · ★ 37.107 · +58 heute"
+        },
+        {
+          "title": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "summary": "Der ursprüngliche Quellcode des in der Apollo-11-Mission verwendeten Befehls- und Mondlandemodul-Leitcomputers (Guidance Computer) wurde auf GitHub in Assemblersprache verfügbar gemacht. Die Software dokumentiert die technischen Details der Berechnungsalgorithmen, die bei der ersten bemannten Mondlandung zum Einsatz kamen.",
+          "meta": "Assembly · ★ 70.068 · +1.235 heute"
+        },
+        {
+          "title": "DioxusLabs/dioxus",
+          "url": "https://github.com/DioxusLabs/dioxus",
+          "summary": "Dioxus ist ein Rust-Framework, das die Entwicklung von End-to-End-Anwendungen (Fullstack) mit einer einzigen Codebasis für Web-, Desktop- und mobile Plattformen ermöglicht. Es standardisiert die Anwendungsentwicklungserfahrung im Rust-Ökosystem, indem es den Erstellungsprozess der Benutzeroberfläche mit seiner React-ähnlichen komponentenbasierten Struktur beschleunigt.",
+          "meta": "Rust · ★ 37.762 · +271 heute"
+        },
+        {
+          "title": "langchain-ai/open_deep_research",
+          "url": "https://github.com/langchain-ai/open_deep_research",
+          "summary": "Open-Deep-Research wurde von LangChain entwickelt und ist ein autonomes System, das mehrstufige Suchen im Internet durchführt, um komplexe Fragen zu beantworten. Es erleichtert tiefgreifende Forschungsprozesse, indem es den Forschungsprozess in den Phasen Planung, Datenerfassung und Synthese automatisiert.",
+          "meta": "Python · ★ 12.307 · +23 heute"
+        },
+        {
+          "title": "agegr/pi-web",
+          "url": "https://github.com/agegr/pi-web",
+          "summary": "Pi-web bietet eine verbesserte webbasierte Benutzeroberfläche (Web-UI) für den Pi-Coding-Agent. Dieses in der TypeScript-Sprache geschriebene Tool ermöglicht die Verwaltung von Codierungsprozessen über eine visuelle Schnittstelle.",
+          "meta": "TypeScript · ★ 1.821 · +298 heute"
+        },
+        {
+          "title": "schollz/croc",
+          "url": "https://github.com/schollz/croc",
+          "summary": "Croc ist ein Tool, das mittels Ende-zu-Ende-Verschlüsselung eine sichere Datei- und Datenübertragung zwischen zwei Computern ermöglicht. Diese mit der Programmiersprache Go entwickelte Software nutzt einen temporären Relay-Mechanismus, um den Übertragungsprozess zu erleichtern.",
+          "meta": "Go · ★ 36.970 · +361 heute"
+        },
+        {
+          "title": "dottxt-ai/outlines",
+          "url": "https://github.com/dottxt-ai/outlines",
+          "summary": "Die Outlines-Bibliothek ermöglicht die Darstellung der Antworten großer Sprachmodelle als strukturierte Ausgaben nach vordefinierten Schemata. Mit diesem Python-basierten Tool schützen Entwickler die Datenintegrität, indem sie Modellausgaben mit regulären Ausdrücken oder kontextfreien Grammatikregeln einschränken.",
+          "meta": "Python · ★ 14.917 · +65 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "OpenAI and Hugging Face address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "summary": "OpenAI und Hugging Face lösten das Problem durch die Zusammenarbeit bei einem Sicherheitsvorfall, der während der Modellbewertungsprozesse auftrat. Um die Systemsicherheit zu erhöhen, führten die Parteien Aktualisierungen durch, um Schwachstellen in ihren Evaluierungsinfrastrukturen zu schließen.",
+          "meta": "959 Punkte · 655 Kommentare"
+        },
+        {
+          "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+          "summary": "Google hat seine Gemini-Serie erweitert und seine neuen Modelle mit Fokus auf schnelle Verarbeitung angekündigt: Gemini 3.6 Flash, 3.5 Flash-Lite und 3.5 Flash Cyber. Diese Modelle bieten maßgeschneiderte Optionen für künstliche Intelligenz, die ein ausgewogenes Verhältnis von Leistung und Effizienz für unterschiedliche Computeranforderungen bieten.",
+          "meta": "656 Punkte · 512 Kommentare"
+        },
+        {
+          "title": "Advertise in ChatGPT",
+          "url": "https://ads.openai.com/",
+          "summary": "OpenAI arbeitet an einer Werbeplattform für Anzeigenplatzierungen für ChatGPT-Nutzer. Dieses System ermöglicht es Marken, ihre Zielgruppen über von künstlicher Intelligenz unterstützte Chat-Schnittstellen zu erreichen.",
+          "meta": "600 Punkte · 435 Kommentare"
+        },
+        {
+          "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+          "url": "https://fireworks.ai/blog/kimik3-fable",
+          "summary": "Das von Moonshot AI entwickelte Modell Kimi K3 konkurriert mit dem Fable-Modell und erreicht modernste Leistungsniveaus. Diese mit der Fireworks.ai-Infrastruktur angebotenen Modelle bieten eine hohe Genauigkeit und Geschwindigkeitseffizienz bei Inferenzprozessen.",
+          "meta": "499 Punkte · 280 Kommentare"
+        },
+        {
+          "title": "FreeInk: Open ecosystem for e-readers",
+          "url": "https://freeink.org/",
+          "summary": "FreeInk erleichtert Geräteunabhängigkeit und Inhaltsverwaltung, indem es ein Open-Source-Ökosystem für E-Book-Reader bereitstellt. Ziel der Plattform ist es, ein einheitliches Leseerlebnis und Datenportabilität zwischen unterschiedlicher Hardware zu bieten.",
+          "meta": "491 Punkte · 113 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "reteetzad/Kimi-K3",
+          "url": "https://huggingface.co/reteetzad/Kimi-K3",
+          "summary": "Das auf Hugging Face geteilte Kimi-K3-Modell ist eine Gewichtsverschmelzungsstudie, die für große Sprachmodelle entwickelt wurde. Ziel ist die Leistungsoptimierung durch die Kombination der Fähigkeiten verschiedener Modelle.",
+          "meta": "♥ 530 · 0 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "MCP",
+      "explanation": "Ein Brückenprotokoll, das es KI-Modellen ermöglicht, auf standardisierte Weise eine Verbindung zu verschiedenen Datenquellen und Tools herzustellen."
+    },
+    {
+      "term": "skill",
+      "explanation": "Die spezielle Fähigkeit einer Software oder künstlichen Intelligenz, einen bestimmten Vorgang auszuführen."
+    },
+    {
+      "term": "ADHD",
+      "explanation": "Es handelt sich um eine neurologische Erkrankung, die sich in Ablenkbarkeit, Hyperaktivität und Impulsivität äußert und zu Konzentrationsschwierigkeiten führt."
+    },
+    {
+      "term": "text-to-cad",
+      "explanation": "Technologie, die mithilfe schriftlicher Befehle automatisch dreidimensionale technische Zeichnungen und Modelle erstellt."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Die Fähigkeiten, die Assistenten mit künstlicher Intelligenz erwerben, um Aufgaben wie das Durchsuchen des Internets oder das Bearbeiten von Dateien zu erledigen."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    }
+  ]
+}

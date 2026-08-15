@@ -21,5 +21,8 @@ Ya que garantiza que la aplicación siempre sobreviva y crezca rápidamente.
 - [Virtual Machines](/es/dictionary/virtual-machines/)
 - [Runtime](/es/dictionary/runtime/)
 
+## Herramientas relacionadas
+- [Meshery](/es/discover/meshery/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cloud-native/

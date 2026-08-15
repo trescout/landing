@@ -1,0 +1,341 @@
+{
+  "date": "2026-08-10",
+  "editorial": "Akademische Studien zu den Fähigkeiten und der Persönlichkeitsentwicklung von Agenten der künstlichen Intelligenz konzentrieren sich auf die Fähigkeit der Modelle, komplexe Konzepte zu verstehen (konzeptübergreifendes Verständnis). Während in der Softwarewelt weiterhin Diskussionen über die Zugänglichkeit von Quellcodes geführt werden, steht die Speichernutzung (RAM-Nutzung) von Betriebssystemanwendungen weiterhin im Mittelpunkt effizienzorientierter Kritik.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "summary": "Prime-Agent ist ein sich selbst entwickelnder Reinforcement Learning Agent (RLM-Agent), der für die Codierung von Arbeitsabläufen und langfristige autonome Aufgaben entwickelt wurde. Dieses mit der TypeScript-Sprache entwickelte Tool bietet autonome Entscheidungsmechanismen zur Automatisierung komplexer Softwareprozesse.",
+          "meta": "TypeScript · ★ 11.708 · +2.356 heute"
+        },
+        {
+          "title": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "summary": "Code-Graph-Rag kombiniert Wissensgraphen und Fetch-Assisted Generation (RAG), um komplexe Strukturen in großen Code-Repositories zu verstehen und abzufragen. Es ermöglicht Entwicklern, mithilfe künstlicher Intelligenz Codebasen in verschiedenen Sprachen zu analysieren und zu bearbeiten.",
+          "meta": "Python · ★ 3.153 · +96 heute"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-Agents ist eine Automatisierungsbibliothek, die Agenten der künstlichen Intelligenz mit unterschiedlichen Fachgebieten unter einem Dach vereint. Diese Expertenagenten übernehmen eine Vielzahl von Aufgaben wie Softwareentwicklung, Inhaltserstellung und Datenvalidierung und zielen darauf ab, Arbeitsabläufe zu standardisieren.",
+          "meta": "Shell · ★ 141.050 · +858 heute"
+        },
+        {
+          "title": "pranshuparmar/witr",
+          "url": "https://github.com/pranshuparmar/witr",
+          "summary": "Witr ist ein Befehlszeilentool, mit dem Sie den Ursprung aller auf Ihrem Computer ausgeführten Prozesse, Ports, Container oder Dateien verfolgen können. Über eine visuelle Schnittstelle (TUI) können Sie verfolgen, von welcher Quelle die Prozesse starten, die Systemressourcen nutzen.",
+          "meta": "Go · ★ 20.869 · +210 heute"
+        },
+        {
+          "title": "google-deepmind/weathernext",
+          "url": "https://github.com/google-deepmind/weathernext",
+          "summary": "WeatherNext, entwickelt von Google DeepMind, ist ein Modell, das generative künstliche Intelligenz (generative KI) für Wettervorhersagen nutzt. Ziel ist es, schnellere und höher aufgelöste atmosphärische Vorhersagen im Vergleich zu herkömmlichen physikalischen Simulationen zu erstellen.",
+          "meta": "Python · ★ 7.148 · +86 heute"
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Agent-Skills wurde für Programmieragenten für künstliche Intelligenz entwickelt und ist eine Bibliothek, die technische Fähigkeiten auf Produktionsebene bietet. Dieses JavaScript-basierte Tool stellt standardisierte Funktionen bereit, die Entwickler in autonomen Softwareprozessen nutzen können.",
+          "meta": "JavaScript · ★ 85.292 · +680 heute"
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen/daily_stock_analysis ist ein Börsenverfolgungssystem, das mehrere Marktdaten und aktuelle Nachrichten mithilfe großer Sprachmodelle analysiert. Dieses Python-basierte Tool bietet ein Dashboard, das Investitionsentscheidungen unterstützt und es Ihnen ermöglicht, die Marktüberwachung kostenlos mit automatischen Benachrichtigungen zu planen.",
+          "meta": "Python · ★ 61.386 · +306 heute"
+        },
+        {
+          "title": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "summary": "Authentik ist eine Open-Source-Sicherheitsplattform, die eine zentralisierte Authentifizierung und Zugriffsverwaltung für Anwendungen bietet. Dieses Tool, das Benutzeranmeldevorgänge zwischen verschiedenen Diensten kombiniert, fungiert als Identitätsanbieter.",
+          "meta": "Python · ★ 24.356 · +310 heute"
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Skills wurde von Google entwickelt und ist eine Bibliothek, die es Agenten der künstlichen Intelligenz ermöglicht, mit Google-Produkten und -Technologien zu interagieren. Dieses Python-basierte Tool standardisiert die Fähigkeiten, die Agenten zur Ausführung bestimmter Aufgaben benötigen.",
+          "meta": "Python · ★ 17.346 · +528 heute"
+        },
+        {
+          "title": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "summary": "ComfyUI ist ein modulares Visualisierungstool, das eine knotenbasierte Schnittstelle für Diffusionsmodelle bereitstellt. Es ermöglicht Benutzern, komplexe Bildverarbeitungsprozesse mit einem visuellen Flussdiagramm zu entwerfen und diese Prozesse über eine API zu verwalten.",
+          "meta": "Python · ★ 125.719 · +365 heute"
+        },
+        {
+          "title": "harveyai/harvey-labs",
+          "url": "https://github.com/harveyai/harvey-labs",
+          "summary": "Harvey Labs ist ein Benchmarking-Tool zur Messung und Verbesserung der Fähigkeiten von Agenten der künstlichen Intelligenz, die Aufgaben im Rechtsbereich unterstützen. Ziel dieser in der Python-Sprache erstellten Studie ist es, die Leistung von Software zu bewerten, die Rechtstechnologien mit Standardtests entwickelt.",
+          "meta": "Python · ★ 881 · +47 heute"
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3code ist ein Entwicklungsframework, das eine durchgängige Typsicherheit in TypeScript-Projekten gewährleistet. Es standardisiert die Anwendungsarchitektur und erleichtert so die Einrichtung einer konsistenten Struktur zwischen Datenmodellen und API-Endpunkten.",
+          "meta": "TypeScript · ★ 17.744 · +163 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "How I use LLMs to learn complex topics",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+          "summary": "Große Sprachmodelle werden als personalisierte Lehrer beim Erlernen komplexer Themen eingesetzt. Benutzer verwenden KI-gestützte Fragemethoden, um Konzepte zu vereinfachen und Lernlücken zu identifizieren.",
+          "meta": "531 Punkte · 302 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49234675",
+              "popularity": 531,
+              "engagementCount": 302
+            }
+          ]
+        },
+        {
+          "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+          "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+          "summary": "Die integrierte Wetteranwendung des Betriebssystems Windows 11 nutzt Systemressourcen ineffizient, indem sie im Hintergrund mehr als 1 GB Arbeitsspeicher (RAM) verbraucht. Dies zeigt, dass die Anwendung, die eine einfache Schnittstelle bietet, die Systemleistung stärker belastet als erwartet.",
+          "meta": "443 Punkte · 367 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49232138",
+              "popularity": 443,
+              "engagementCount": 367
+            }
+          ]
+        },
+        {
+          "title": "Everything you do is being recorded",
+          "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+          "summary": "Die Verbreitung künstlicher Intelligenz-unterstützter tragbarer Geräte schafft eine Überwachungsumgebung, in der tägliche Interaktionen ständig aufgezeichnet werden. Dieser technologische Wandel erfordert die Entwicklung neuer Abwehrmechanismen und Strategien zur Sicherheit personenbezogener Daten, um die Privatsphäre des Einzelnen zu schützen.",
+          "meta": "248 Punkte · 198 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49230477",
+              "popularity": 248,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Taxi drivers rarely die of Alzheimer's",
+          "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+          "summary": "Die Arbeit als Taxifahrer, die die Erstellung komplexer mentaler Karten und räumliches Denken erfordert, verringert das Risiko, an Alzheimer zu erkranken. Es wird behauptet, dass die ständige Aktivität des Gehirns einen Schutz vor neurodegenerativen Prozessen bietet, indem es die kognitive Reserve erhöht.",
+          "meta": "231 Punkte · 173 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49232253",
+              "popularity": 231,
+              "engagementCount": 173
+            }
+          ]
+        },
+        {
+          "title": "Cool URIs Don't Change (1998)",
+          "url": "https://www.w3.org/Provider/Style/URI",
+          "summary": "In diesem vom W3C veröffentlichten Artikel wird argumentiert, dass sich Webadressen (URI) im Laufe der Zeit nicht ändern sollten. Er empfiehlt die Erstellung von Permalink-Strukturen als grundlegendes Designprinzip, um die Zugänglichkeit von Inhalten aufrechtzuerhalten.",
+          "meta": "214 Punkte · 52 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49231809",
+              "popularity": 214,
+              "engagementCount": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, entwickelt von MiniMax, ist ein Modell der künstlichen Intelligenz, das Videos mit visuellen und Texteingaben produziert. Dieses Modell zeichnet sich durch seine Fähigkeit aus, vom Benutzer bereitgestellte Daten in hochwertige Videoinhalte umzuwandeln.",
+          "meta": "♥ 3.284 · 35.295 Downloads"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, das von DeepSeek entwickelte Textgenerierungsmodell, bietet eine Struktur, die für leistungsstarke Sprachverarbeitungsaufgaben optimiert ist. Dieses auf der HuggingFace-Plattform geteilte Modell zielt darauf ab, die Effizienz bei Anwendungen zu steigern, die schnelle Reaktionszeiten erfordern.",
+          "meta": "♥ 2.963 · 868.576 Downloads"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "summary": "MiniMax-H3 ist ein multimodales großes Sprachmodell mit Text- und visuellen Verarbeitungsfunktionen. Dieses Modell, das auf Hugging Face geteilt wird, einer Plattform, die Open-Source-Modelle für künstliche Intelligenz hostet, wird bei der Analyse und Interpretation komplexer visueller Daten verwendet.",
+          "meta": "♥ 1.091 · 4.947.943 Downloads"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "summary": "Kimi-K3 wurde von Moonshot AI entwickelt und ist ein multimodales Modell der künstlichen Intelligenz (multimodales Modell), das visuelle und Textdaten verarbeiten kann. Damit können Benutzer komplexe Abfragen erstellen, die sowohl auf Bild- als auch auf Texteingaben basieren.",
+          "meta": "♥ 10.410 · 1.456.459 Downloads"
+        },
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "MiniMax-H3-Turbo-Lora ist eine Anpassungsdatei (LoRA), die die Fähigkeiten des Modells zur Generierung von Text-zu-Video-Inhalten erweitert. Diese Arbeit ermöglicht eine Feinabstimmung des Videoerstellungsprozesses bei geringem Ressourcenverbrauch.",
+          "meta": "♥ 553 · 0 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+          "url": "https://huggingface.co/papers/2608.06501",
+          "summary": "Das C4-Framework, das zur Messung der kreativen Fähigkeiten multimodaler großer Sprachmodelle entwickelt wurde, testet deren Fähigkeit zum konzeptübergreifenden Verständnis. Diese Methode verkörpert die kreative Problemlösungskompetenz künstlicher Intelligenz, indem sie die Fähigkeit von Modellen bewertet, nicht offensichtliche, aber sinnvolle Zusammenhänge herzustellen.",
+          "meta": "1 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Do AI Personas Grow? Analyzing and Benchmarking Personality Evolution in LLM Agents After Life Events",
+          "url": "https://huggingface.co/papers/2608.06485",
+          "summary": "Es werden persönlichkeitsorientierte Large-Language-Model-Agenten (PC-Agents) entwickelt, um Konsistenz über langfristige Interaktionen in Bereichen wie emotionale Unterstützung und soziale Simulation zu gewährleisten. Diese Studie bietet einen Bewertungsrahmen, der analysiert, wie Agenten der künstlichen Intelligenz die Persönlichkeit auf der Grundlage psychologischer Grundlagen als Reaktion auf Lebensereignisse verändern.",
+          "meta": "1 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning",
+          "url": "https://huggingface.co/papers/2608.02831",
+          "summary": "Es wurde eine Methode des verstärkenden Lernens entwickelt, die sich entwickelnde Bewertungskriterien als Belohnungsmechanismus in Audio-Argumentationsprozessen nutzt. Dieser Ansatz ermöglicht es dem Modell, sich besser auf die Audiodaten zu konzentrieren, und zwar mit einem dynamischen, an die Frage angepassten Bewertungssystem anstelle fester Regeln.",
+          "meta": "7 Likes · 1 Kommentare"
+        },
+        {
+          "title": "PrivacyPeek: Auditing What LLM-Based Agents Acquire, Not Just What They Say",
+          "url": "https://huggingface.co/papers/2606.00152",
+          "summary": "PrivacyPeek ist eine Methode zur Überwachung der Tendenz von auf großen Sprachmodellen basierenden Agenten, mehr vertrauliche Daten in ihre Systeme aufzunehmen, als sie zur Ausführung ihrer Aufgaben benötigen. Dieser Ansatz konzentriert sich auf Schwachstellen im Datenerfassungsprozess, bei dem Daten zuerst in den Agentenkontext gelangen, und nicht auf die Phase, in der Daten exfiltriert werden.",
+          "meta": "1 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors",
+          "url": "https://huggingface.co/papers/2608.00675",
+          "summary": "Bidirektionale Diffusionsmodelle können ihre Fehlermarge messen, indem sie sich zeitlich vorwärts und rückwärts bewegen. Mit dieser Methode können Abweichungen in langfristigen Prognosen selbstüberwacht erkannt werden, ohne dass eine reale Datenquelle erforderlich ist.",
+          "meta": "2 Likes · 2 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Who Should Pay For Source Code Availability?",
+          "url": "https://kristoff.it/blog/source-code-availability/",
+          "summary": "In der Softwarewelt stellt die Zugänglichkeit von Quellcode das Gleichgewicht zwischen Entwicklerfreiheit und kommerzieller Nachhaltigkeit in Frage. Im Mittelpunkt dieser Debatte steht der Konflikt zwischen den Finanzierungsmodellen von Open-Source-Projekten und den Eigentumsrechten von Software.",
+          "meta": "61 Punkte · 35 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rsztog/who_should_pay_for_source_code",
+              "popularity": 61,
+              "engagementCount": 35
+            }
+          ]
+        },
+        {
+          "title": "IRC technology news from the first half of 2026",
+          "url": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
+          "summary": "Das Internet Relay Chat (IRC)-Protokoll rückt im ersten Halbjahr 2026 mit Updates und neuer Client-Software, die modernen Netzwerkstandards entspricht, wieder in den Vordergrund. Diese Verbesserungen, insbesondere im Hinblick auf Verschlüsselung und Verbindungsstabilität, stellen sicher, dass dezentrale Kommunikationsnetzwerke ihren Platz im aktuellen Technologie-Ökosystem behalten.",
+          "meta": "46 Punkte · 7 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026",
+              "popularity": 46,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "Mea Culpa - Dark Hours",
+          "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+          "summary": "Die Website Vibecoded kopierte ohne Genehmigung den Quellcode eines bestehenden kostenlosen Softwareprogramms und präsentierte es als eigenes Produkt. Diese Situation hat die Diskussionen über unethische Codenutzung und Plagiate in der Softwarewelt erneut auf die Tagesordnung gebracht.",
+          "meta": "39 Punkte · 11 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jnbujx/mea_culpa_dark_hours",
+              "popularity": 39,
+              "engagementCount": 11
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "RLM agent",
+      "explanation": "Eine Softwareeinheit, die lernt, bestimmte Aufgaben durch Versuch und Irrtum mithilfe von Belohnungs- und Bestrafungsmethoden auszuführen."
+    },
+    {
+      "term": "monorepo",
+      "explanation": "Eine Entwicklungsmethode, bei der die Codes mehrerer Softwareprojekte in einem einzigen gemeinsamen Ordner gesammelt werden."
+    },
+    {
+      "term": "knowledge graphs",
+      "explanation": "Ein Datenbanksystem, das die Beziehungen zwischen Informationen in Form einer Netzwerkstruktur visualisiert und organisiert."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Technologie, die es künstlicher Intelligenz ermöglicht, Informationen aus aktuellen und privaten Dokumenten zu extrahieren und gleichzeitig Antworten zu produzieren."
+    },
+    {
+      "term": "container",
+      "explanation": "Ein Paket, das alle für die Ausführung einer Software erforderlichen Dateien enthält und sicherstellt, dass sie auf jedem Computer gleich funktioniert."
+    },
+    {
+      "term": "TUI",
+      "explanation": "Die Bildschirmoberfläche wird nur mit Text und Zeichen anstelle grafischer Elemente verwaltet."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Systeme, die mithilfe zuvor erlernter Daten neue Inhalte wie Text, Bilder oder Ton produzieren können."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Technische Fähigkeiten, die erforderlich sind, um komplexe Probleme in logischen Schritten zu lösen und Systeme zu entwerfen."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "identity provider",
+      "explanation": "Zentraler Dienst, der es Benutzern ermöglicht, sich durch Überprüfung ihrer Anmeldeinformationen sicher bei Anwendungen anzumelden."
+    },
+    {
+      "term": "skills",
+      "explanation": "Die Gesamtheit der besonderen Kenntnisse, Übungen und Fertigkeiten, die für die Ausübung einer Tätigkeit erforderlich sind."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Künstliche Intelligenz-Technologie, die durch die schrittweise Bereinigung verrauschter Daten von Grund auf hochwertige visuelle Darstellungen erstellt."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Standardtests zur Messung der Leistung verschiedener Systeme oder Software."
+    },
+    {
+      "term": "type safety",
+      "explanation": "Sicherheitskontrolle, die Fehler verhindert, indem verhindert wird, dass in der Software der falsche Datentyp verwendet wird."
+    },
+    {
+      "term": "RAM",
+      "explanation": "Dabei handelt es sich um eine temporäre Speichereinheit, in der der Computer die Daten, die er gerade aktiv nutzt, schnell lesen und schreiben kann."
+    },
+    {
+      "term": "spatial reasoning",
+      "explanation": "Die Fähigkeit, die Position von Objekten im Raum, ihre Größe und ihre Bewegung relativ zueinander mental zu erfassen."
+    }
+  ]
+}

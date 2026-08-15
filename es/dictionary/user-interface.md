@@ -26,5 +26,11 @@ No, la UI cubre las partes visuales (color, botón), mientras que la UX trata so
 - [Generative UI](/es/dictionary/generative-ui/)
 - [Web Interface](/es/dictionary/web-interface/)
 
+## Herramientas relacionadas
+- [Flutter](/es/discover/flutter/)
+- [Imgui](/es/discover/imgui/)
+- [Page Agent](/es/discover/page-agent/)
+- [Tuicr](/es/discover/tuicr/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/user-interface/

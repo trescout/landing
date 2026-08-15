@@ -29,5 +29,9 @@ No, la aplicación debe estar configurada para admitir este protocolo.
 - [API](/es/dictionary/api/)
 - [Security Scanner](/es/dictionary/security-scanner/)
 
+## Herramientas relacionadas
+- [Logto](/es/discover/logto/)
+- [TREK](/es/discover/trek/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sso/

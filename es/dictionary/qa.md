@@ -27,5 +27,8 @@ Esto se hace verificando las salidas del modelo, probando alucinaciones y verifi
 - [Testing Framework](/es/dictionary/testing-framework/)
 - [Benchmarks](/es/dictionary/benchmark/)
 
+## Herramientas relacionadas
+- [Gstack](/es/discover/gstack/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/qa/

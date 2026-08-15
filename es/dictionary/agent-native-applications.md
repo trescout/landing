@@ -27,5 +27,8 @@ Sí, pero el diseño se centra en la eficiencia de los agentes.
 - [Autonomous AI Agent](/es/dictionary/autonomous-ai-agent/)
 - [Agentic Engineering Platform](/es/dictionary/agentic-engineering-platform/)
 
+## Herramientas relacionadas
+- [Agent Native](/es/discover/agent-native/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agent-native-applications/

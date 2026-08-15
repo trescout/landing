@@ -23,7 +23,13 @@ Es preferible garantizar que los datos permanezcan actualizados en todas partes 
 
 
 ## Términos relacionados
+- [State Management](/es/dictionary/state-management/)
+- [Memory Engine](/es/dictionary/memory-engine/)
+- [Memory API](/es/dictionary/memory-api/)
 - [Observability](/es/dictionary/observability/)
+
+## Herramientas relacionadas
+- [Celld](/es/discover/celld/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/state-management/

@@ -101,71 +101,67 @@ jobs:
       # Fransızca · 2026-08-07'de eklendi. Aynı betikler --lang ile çalışıyor,
       # metinler scripts/diller.py'den geliyor. Yeni dil eklemenin tüm adımları
       # diller.py'nin başlığında yazılı.
-      - name: Fransızca tanıtım metinleri (tagline_fr · kisa_fr)
-        run: node scripts/translate-i18n.js --lang=fr
+      # Diller ELLE yazılıyordu · her yeni dilde bu dosyada BEŞ ayrı yerde
+      # satır eklemek gerekiyordu ve biri unutulursa o dil hatta sessizce
+      # eksik kalıyordu. Artık liste diller.py'den geliyor (--liste).
+      - name: Dil listesi
+        id: diller
+        run: echo "kodlar=$(python3 scripts/diller.py --liste)" >> "$GITHUB_OUTPUT"
+
+      - name: Tanıtım metinleri (tagline_XX · kisa_XX)
+        run: |
+          for d in ${{ steps.diller.outputs.kodlar }}; do
+            [ "$d" = "en" ] && continue   # İngilizce çevirisi ayrı adımda
+            node scripts/translate-i18n.js --lang=$d
+          done
 
       # Kapak görselleri · metin GÖRSELE gömülü olduğu için dile bağlı. Yeni
       # kayıtların kapağı burada basılıyor; çevirisi geçmemiş kayıt atlanır ve
       # sayfa Türkçe kapağa düşer (yarım çeviriyle görsel basmaktansa).
-      - name: Kapak görselleri (EN + FR)
+      - name: Kapak görselleri (tüm diller)
         run: |
-          python3 scripts/kapak-gorselleri.py --lang=en
-          python3 scripts/kapak-gorselleri.py --lang=fr
-          python3 scripts/kapak-gorselleri.py --lang=pt
-          python3 scripts/kapak-gorselleri.py --lang=es
+          for d in ${{ steps.diller.outputs.kodlar }}; do
+            python3 scripts/kapak-gorselleri.py --lang=$d
+          done
 
       # SIRA ÖNEMLİ · sözlük ÖNCE. Keşif sayfasındaki "İlgili sözlük terimleri"
       # bölümü, o dilde sözlük sayfası diskte VARSA basılıyor. Ters sırada yeni
       # bir dilin ilk gününde 400+ keşif sayfası çapraz bağlantısız çıkıyor
       # (2026-08-13'te Portekizce'de yaşandı · sonraki günler kendiliğinden
       # düzeliyordu, o yüzden görülmemişti).
-      - name: İngilizce sayfaları üret (sözlük + keşif)
+      - name: Sayfaları üret · her dilde sözlük SONRA keşif
         run: |
-          python3 scripts/dictionary-en.py
-          python3 scripts/discover-en.py
-
-      - name: Fransızca sayfaları üret (sözlük + keşif)
-        run: |
-          python3 scripts/dictionary-en.py --lang=fr
-          python3 scripts/discover-en.py --lang=fr
-
-      - name: Portekizce sayfaları üret (sözlük + keşif)
-        run: |
-          python3 scripts/dictionary-en.py --lang=pt
-          python3 scripts/discover-en.py --lang=pt
-
-      - name: İspanyolca sayfaları üret (sözlük + keşif)
-        run: |
-          python3 scripts/dictionary-en.py --lang=es
-          python3 scripts/discover-en.py --lang=es
+          for d in ${{ steps.diller.outputs.kodlar }}; do
+            echo "── $d"
+            python3 scripts/dictionary-en.py --lang=$d
+            python3 scripts/discover-en.py   --lang=$d
+          done
 
       # Dizin sayfaları · kart ızgarası + arama/sıralama. Detay sayfalarından
       # SONRA çalışmalı: kabuğu (nav/footer) o dilin üretilmiş bir sayfasından
       # kopyalıyor.
-      - name: Dil dizin sayfaları (EN + FR)
+      - name: Dil dizin sayfaları (tüm diller)
         run: |
-          node scripts/build-en.js
-          node scripts/build-en.js --lang=fr
-          node scripts/build-en.js --lang=pt
-          node scripts/build-en.js --lang=es
+          for d in ${{ steps.diller.outputs.kodlar }}; do
+            node scripts/build-en.js --lang=$d
+          done
           # dil-anasayfa.py ARTIK ÇAĞRILMIYOR · Fransızca ana sayfa Türkçesinin
           # tam çevirisi oldu ve elle bakılıyor (check-sayfa-paritesi.py
           # denetliyor). Betik yeni diller için duruyor, tam sayfayı ezmiyor.
           # Elle yazılan Fransızca sayfalar hiçbir üreticiden geçmiyor · menü
           # değişince kabukları geride kalmasın diye tazeleyici koşuyor.
-          python3 scripts/dil-kabuk-tazele.py --lang=fr
-          python3 scripts/dil-kabuk-tazele.py --lang=pt
-          python3 scripts/dil-kabuk-tazele.py --lang=es
+          for d in ${{ steps.diller.outputs.kodlar }}; do
+            [ -f "$d/index.html" ] && python3 scripts/dil-kabuk-tazele.py --lang=$d
+          done
 
       # Rapor arşivi sayfaları · rapor yayını (app · publish-report.ts) PDF ve
       # çevrilmiş JSON'u üretiyor, sayfaları burada basıyoruz. O dilin çevrilmiş
       # JSON'u olmayan tarih atlanır · Türkçe içerikli sayfa çıkmasın diye.
-      - name: Rapor arşivi sayfaları (EN + FR)
+      - name: Rapor arşivi sayfaları (tüm diller)
         run: |
-          node scripts/build-reports-en.js
-          node scripts/build-reports-en.js --lang=fr
-          node scripts/build-reports-en.js --lang=pt
-          node scripts/build-reports-en.js --lang=es
+          for d in ${{ steps.diller.outputs.kodlar }}; do
+            node scripts/build-reports-en.js --lang=$d
+          done
 
       - name: AI'a hizmet · keşif index server-render + .md + llms.txt
         run: |

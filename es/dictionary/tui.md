@@ -29,5 +29,8 @@ Es necesario memorizar los atajos de teclado al principio, pero es mucho más ef
 - [Terminal](/es/dictionary/terminal/)
 - [Terminal Control](/es/dictionary/terminal-control/)
 
+## Herramientas relacionadas
+- [Witr](/es/discover/witr/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/tui/

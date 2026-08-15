@@ -27,5 +27,13 @@ En la mayoría de los sistemas, puede eliminar estos datos con el comando "borra
 - [Memory API](/es/dictionary/memory-api/)
 - [RAG](/es/dictionary/rag/)
 
+## Herramientas relacionadas
+- [Mempalace](/es/discover/mempalace/)
+- [Codebase Memory MCP](/es/discover/codebase-memory-mcp/)
+- [Cognee](/es/discover/cognee/)
+- [TencentDB-Agent-Memory](/es/discover/tencentdb-agent-memory/)
+- [Pgrust](/es/discover/pgrust/)
+- [Hivemind](/es/discover/hivemind/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/memory/

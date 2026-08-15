@@ -27,5 +27,8 @@ Sí, hoy puedes crear tu amigo personal de inteligencia artificial a través de 
 - [AI Agent](/es/dictionary/ai-agent/)
 - [Memory](/es/dictionary/memory/)
 
+## Herramientas relacionadas
+- [AIRI](/es/discover/airi/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/companion/

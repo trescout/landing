@@ -1,0 +1,43 @@
+# Webschnittstelle für Pi-Coding-Agent
+
+Pi-web bietet eine verbesserte webbasierte Benutzeroberfläche (Web-UI) für den Pi-Coding-Agent. Dieses in der TypeScript-Sprache geschriebene Tool ermöglicht die Verwaltung von Codierungsprozessen über eine visuelle Schnittstelle.
+
+- ★ 3.714
+- TypeScript
+- GitHub Trending · 2026-07-22
+
+## Aktualisieren
+- 7. August 2026: Star 3.485 → 3.714, neueste Version v0.8.7 (6. August 2026).
+- 2. August 2026: Star 1.821 → 3.485, neueste Version v0.8.6 (31. Juli 2026).
+
+## Was es bringt
+- Scannen Sie vergangene Codierungssitzungen visuell
+- Vorschau der Dateien über den Browser
+- Verwalten Sie Modell- und Funktionseinstellungen über die Schnittstelle
+
+## Installation
+**Schnelle Inbetriebnahme ohne Installation**
+
+```
+npx @agegr/pi-web@latest
+```
+
+**Global hochladen**
+
+```
+npm install -g @agegr/pi-web
+pi-web
+```
+
+
+## Wenn Sie nicht programmieren
+Ich möchte meine Arbeit mit dem Pi-Codierungsagenten visualisieren und meine Sitzungen effizienter verwalten. Wie kann ich meine lokalen Sitzungsdateien über den Browser anzeigen, meinen Chat-Verlauf bearbeiten und über die Benutzeroberfläche mit dem Pi Web-Tool eine Vorschau meiner Projektdateien anzeigen? Erklären Sie Schritt für Schritt, wie ich die Modellkonfiguration und das Talentmanagement vereinfachen kann, indem ich den nach der Installation im Browser geöffneten Arbeitsbereich verwende.
+
+## Verwandte Begriffe aus dem Glossar
+
+## Links
+- GitHub-Repository →
+- Auf Türkisch lesen →
+
+---
+Quelle: TreScout Entdecken · https://trescout.com/de/discover/pi-web/

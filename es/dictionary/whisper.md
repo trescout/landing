@@ -24,5 +24,9 @@ Sí, dado que Whisper es un modelo de código abierto, los desarrolladores puede
 - [Transcription](/es/dictionary/transcription/)
 - [AI Models](/es/dictionary/ai-models/)
 
+## Herramientas relacionadas
+- [Whisper](/es/discover/whisper/)
+- [Claude Video](/es/discover/claude-video/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/whisper/

@@ -25,5 +25,8 @@ No, solo se comparte una confirmación digital de que su identidad ha sido verif
 - [SSO](/es/dictionary/sso/)
 - [User Identifiers](/es/dictionary/user-identifiers/)
 
+## Herramientas relacionadas
+- [Logto](/es/discover/logto/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/oidc/

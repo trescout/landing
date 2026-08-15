@@ -28,5 +28,10 @@ Cuando las tareas se vuelven muy complejas, se combinan modelos especializados m
 - [Subagents](/es/dictionary/subagents/)
 - [Autonomous Agent](/es/dictionary/autonomous-agent/)
 
+## Herramientas relacionadas
+- [TradingAgents](/es/discover/tradingagents/)
+- [Gastown](/es/discover/gastown/)
+- [AI Berkshire](/es/discover/ai-berkshire/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/multi-agent/

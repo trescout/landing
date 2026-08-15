@@ -24,5 +24,8 @@ No, demasiados registros pueden ralentizar el sistema y dificultar la búsqueda 
 - [Traces](/es/dictionary/traces/)
 - [Logs](/es/dictionary/logs/)
 
+## Herramientas relacionadas
+- [Spdlog](/es/discover/spdlog/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/logging/

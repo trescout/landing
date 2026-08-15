@@ -27,5 +27,8 @@ Mientras se logre la integración, se podrán comprar entradas de avión, de tre
 - [Autonomous AI Agent](/es/dictionary/autonomous-ai-agent/)
 - [Agentic Skills](/es/dictionary/agentic-skills/)
 
+## Herramientas relacionadas
+- [biliTickerBuy](/es/discover/bilitickerbuy/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ticket-purchasing-assistant/

@@ -28,5 +28,8 @@ Sí, normalmente pueden intercambiar información a través del agente anfitrió
 - [Multi-agent LLM](/es/dictionary/multi-agent-llm/)
 - [Autonomous AI Agent](/es/dictionary/autonomous-ai-agent/)
 
+## Herramientas relacionadas
+- [Pi Subagents](/es/discover/pi-subagents/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/subagents/

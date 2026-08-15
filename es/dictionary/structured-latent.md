@@ -27,5 +27,8 @@ No, se trata de un proceso matemático abstracto que tiene lugar íntegramente e
 - [Transformer](/es/dictionary/transformer/)
 - [Vector Index](/es/dictionary/vector-index/)
 
+## Herramientas relacionadas
+- [TRELLIS.2](/es/discover/trellis-2/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/structured-latent/

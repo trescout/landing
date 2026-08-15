@@ -26,7 +26,11 @@ No, las máquinas en realidad operan según probabilidades estadísticas, por lo
 
 ## Términos relacionados
 - [LLM](/es/dictionary/llm/)
+- [Tokenizer](/es/dictionary/tokenizer/)
 - [Transformer](/es/dictionary/transformer/)
+
+## Herramientas relacionadas
+- [Kronos](/es/discover/kronos/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/nlp/

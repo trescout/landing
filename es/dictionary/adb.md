@@ -25,5 +25,8 @@ Requiere conocimientos técnicos, los comandos incorrectos pueden afectar el fun
 - [CLI](/es/dictionary/cli/)
 - [SDK](/es/dictionary/sdk/)
 
+## Herramientas relacionadas
+- [Universal Android Debloater Next Generation](/es/discover/universal-android-debloater-next-generation/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/adb/

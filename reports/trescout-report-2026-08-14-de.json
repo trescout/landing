@@ -1,0 +1,367 @@
+{
+  "date": "2026-08-14",
+  "editorial": "Auf der heutigen Technologieagenda stechen Architekturen der neuen Generation hervor, die für große Sprachmodelle und Echtzeit-Videoverarbeitungstechnologien entwickelt wurden. Während sich Ankündigungen wie Gemini 3.7 Flash und DeepSeek Harness auf die Modelleffizienz konzentrieren, ist auf akademischer Seite ein intensiver Arbeitsverkehr zur Charakteranimation in Live-Videostreams zu beobachten.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design bietet 29 verschiedene redaktionelle Diagrammvorlagen, die für die Verwendung mit dem Codierungsassistenten für künstliche Intelligenz, Claude Code, konzipiert sind. Diese eigenständigen Designs im HTML- und SVG-Format bieten eine saubere und einfache Visualisierungsmethode anstelle komplexer Grafiktools.",
+          "meta": "HTML · ★ 15.284 · +4.475 heute"
+        },
+        {
+          "title": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "summary": "Semantica ist eine graphnative Infrastruktur, die kontextbezogenes Datenmanagement für Systeme der künstlichen Intelligenz bietet. Durch die Beibehaltung der relationalen Struktur der Daten werden zuverlässigere und überprüfbare Ergebnisse in generativen KI-Prozessen gewährleistet.",
+          "meta": "Python · ★ 6.916 · +713 heute"
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Diese von Anthropic gemeinsam genutzte Bibliothek bietet wiederverwendbare Kompetenzpakete für Agenten der künstlichen Intelligenz. Es ermöglicht Entwicklern, komplexe Arbeitsabläufe zu standardisieren und agentenbasierte Systeme schneller aufzubauen.",
+          "meta": "Python · ★ 169.166 · +312 heute"
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Needle wurde von Cactus Compute entwickelt und ist ein 14-Megabyte-Basismodell, das auf kleiner Hardware wie Telefonen, tragbaren Geräten und Smart-Home-Produkten ausgeführt werden kann. Diese leichte Struktur ermöglicht es, native Anwendungen der künstlichen Intelligenz auf Geräten mit begrenzter Rechenleistung auszuführen.",
+          "meta": "Python · ★ 5.082 · +769 heute"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice ist eine Diktieranwendung, die auf macOS läuft und die Sprach-zu-Text-Konvertierung (STT) vollständig auf dem Gerät durchführt. Dieses Tool schützt die Privatsphäre durch die lokale Verarbeitung von Benutzerdaten und bietet eine alternative Lösung zu Diensten wie Wispr Flow mit ähnlichen Funktionen.",
+          "meta": "Swift · ★ 9.936 · +76 heute"
+        },
+        {
+          "title": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "summary": "Unsloth ist eine Bibliothek, die das Training und die Ausführung großer Sprachmodelle (LLM) und Diffusionsmodelle in einer nativen Umgebung beschleunigt. Durch die Optimierung der Speichernutzung wird die Feinabstimmung von Prozessen beliebter Modelle leichter zugänglich.",
+          "meta": "Python · ★ 71.157 · +328 heute"
+        },
+        {
+          "title": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "summary": "Macro ist ein Arbeitsbereich, der Geschäftstools wie E-Mail, Chat, Dokumente und Aufgabenverwaltung in einer einzigen Oberfläche vereint. Diese mit der Rust-Sprache entwickelte Plattform verbindet alle Arbeitsabläufe über einen gemeinsamen Speicher mit künstlicher Intelligenz.",
+          "meta": "Rust · ★ 2.696 · +1.239 heute"
+        },
+        {
+          "title": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "summary": "Holehe ist ein Python-Tool, das abfragt, ob eine eingegebene E-Mail-Adresse auf beliebten Plattformen wie Twitter und Instagram verwendet wird. Es erkennt die Kontoinformationen, die mit der entsprechenden E-Mail verknüpft sind, mithilfe von Funktionen zum Zurücksetzen des Passworts.",
+          "meta": "Python · ★ 12.498 · +195 heute"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot ist ein Sicherheitstool, das Cyberbedrohungen identifiziert und die Angriffsfläche durch die Automatisierung von Open-Source-Intelligence-Prozessen (OSINT) kartiert. Diese mit der Python-Sprache entwickelte Plattform analysiert die Schwachstellen digitaler Assets durch das Scannen großer Datenquellen.",
+          "meta": "Python · ★ 20.712 · +283 heute"
+        },
+        {
+          "title": "NVIDIA-NeMo/Switchyard",
+          "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+          "summary": "Switchyard wurde von NVIDIA entwickelt und ist eine Anwendungsschnittstellenschicht, die den Datenverkehr zwischen verschiedenen Anbietern für große Sprachmodelle weiterleitet. Dank seiner mit OpenAI- und Anthropic-Standards kompatiblen Struktur können Entwickler je nach Kosten- und Leistungsziel flexibel zwischen Modellen wechseln.",
+          "meta": "Rust · ★ 1.291 · +408 heute"
+        },
+        {
+          "title": "holaboss-ai/holaOS",
+          "url": "https://github.com/holaboss-ai/holaOS",
+          "summary": "holaOS ist ein Open-Source-Arbeitsbereich, der verschiedene Agenten der künstlichen Intelligenz (Claude Code, Codex) mit Ihren Tools, Anwendungen und Dateien über einen gemeinsamen Speicher kombiniert. Mit über 100 Integrationen und Model Link Protocol (MCP)-Unterstützung ermöglicht es Benutzern, ihre eigenen Modelle (BYOK) oder integrierten Modelle in einer einzigen Schnittstelle zu verwalten.",
+          "meta": "TypeScript · ★ 6.748 · +241 heute"
+        },
+        {
+          "title": "kepano/obsidian-skills",
+          "url": "https://github.com/kepano/obsidian-skills",
+          "summary": "Mit Obsidian-Skills können Agenten der künstlichen Intelligenz Operationen an der Notizanwendung Obsidian über die Befehlszeilenschnittstelle (CLI) und offene Dateiformate ausführen. Dieses Tool automatisiert die Verwaltung persönlicher Informationen, indem es Agenten ermöglicht, Formate wie Markdown und JSON Canvas zu lesen und zu bearbeiten.",
+          "meta": "★ 45.950 · +292 heute"
+        },
+        {
+          "title": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "summary": "Manim ist eine Python-basierte Animations-Engine, die zur Visualisierung mathematischer Konzepte entwickelt wurde. Diejenigen, die Bildungsinhalte produzieren, bevorzugen es, komplexe Gleichungen und geometrische Strukturen in Erklärvideos umzuwandeln.",
+          "meta": "Python · ★ 90.959 · +176 heute"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-Agents ist eine Software-Sammlung, die Agenten der künstlichen Intelligenz mit unterschiedlichen Fachgebieten unter einem Dach vereint. Diese spezialisierten Agenten übernehmen Aufgaben, die von der Schnittstellenentwicklung bis zum Community-Management reichen, und sind darauf ausgelegt, bestimmte Geschäftsprozesse zu automatisieren.",
+          "meta": "Shell · ★ 145.283 · +778 heute"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "summary": "LTX-2 wurde von Lightricks veröffentlicht und ist die offizielle LoRA-Trainingssuite (Python Inference and Low Order Adaptation) für ein generatives Modell, das Audio und Video erzeugt. Mit diesem Tool können Entwickler das Modell mit ihren eigenen Datensätzen verfeinern.",
+          "meta": "Python · ★ 8.960 · +205 heute"
+        },
+        {
+          "title": "lightningpixel/modly",
+          "url": "https://github.com/lightningpixel/modly",
+          "summary": "Modly ist eine Desktop-Anwendung, die 3D-Modelle aus Bildern erstellt und alle Vorgänge auf der lokalen Grafikkarte (GPU) ausführt. Dieses Tool, das ohne Internetverbindung funktioniert, bringt den durch künstliche Intelligenz unterstützten Modellierungsprozess auf Personalcomputer.",
+          "meta": "TypeScript · ★ 5.550 · +118 heute"
+        },
+        {
+          "title": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "summary": "RAGFlow ist eine Open-Source-RAG-Engine (Fetch-based Generation), die eine Kontextschicht für große Sprachmodelle (LLM) erstellt. Es kombiniert fortschrittliche RAG-Techniken mit Agentenfunktionen, um die Datenverarbeitung und Antwortqualität zu optimieren.",
+          "meta": "Go · ★ 88.121 · +465 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gemini 3.7 Flash",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+          "summary": "Gemini 3.7 Flash, angekündigt von Google, ist ein generatives künstliches Intelligenzmodell (generative KI) der neuen Generation, das auf hohe Geschwindigkeit und niedrige Kosten ausgerichtet ist. Das Modell bietet eine höhere Leistung bei komplexen Argumentationsaufgaben und bietet Entwicklern schnellere Reaktionszeiten.",
+          "meta": "716 Punkte · 393 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49289112",
+              "popularity": 716,
+              "engagementCount": 393
+            }
+          ]
+        },
+        {
+          "title": "DeepSeek Harness developer preview",
+          "url": "https://deepseek.com/harness/en/",
+          "summary": "DeepSeek Harness ist ein Bewertungsframework zur Messung der Leistung großer Sprachmodelle. Es ermöglicht Entwicklern, ihre Modelle mit Standardtestsätzen zu vergleichen und die Modellfähigkeiten systematisch zu analysieren.",
+          "meta": "604 Punkte · 255 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49285244",
+              "popularity": 604,
+              "engagementCount": 255
+            }
+          ]
+        },
+        {
+          "title": "Spaghettifying DRAM",
+          "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+          "summary": "Spaghettifying DRAM, das eine Zufallszahlengenerierung ermöglicht, indem es sich die physikalischen Eigenschaften der Daten in DRAM-Speichermodulen zunutze macht, funktioniert über eine hardwarebasierte Schwachstelle. Diese Methode erhöht die Vorhersagbarkeit kryptografischer Schlüssel, indem sie Lecks in Speicherzellen ausnutzt.",
+          "meta": "546 Punkte · 150 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49286341",
+              "popularity": 546,
+              "engagementCount": 150
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram",
+              "popularity": 34,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "Accelerating GPT-5.6 Sol Ultrafast",
+          "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+          "summary": "Cerebras, ein Unternehmen, das Hardware für künstliche Intelligenz herstellt, hat eine neue Technologie entwickelt, die die Inferenzgeschwindigkeit für OpenAI-Modelle erhöht. Ziel dieser Methode ist es, die Verarbeitungseffizienz zu steigern, indem die Antwortzeit großer Sprachmodelle verkürzt wird.",
+          "meta": "507 Punkte · 208 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49289844",
+              "popularity": 507,
+              "engagementCount": 208
+            }
+          ]
+        },
+        {
+          "title": "Choose Boring Technology (2015)",
+          "url": "https://mcfunley.com/choose-boring-technology",
+          "summary": "Ein Ansatz, der die Auswahl bewährter und stabiler Technologien in Softwareentwicklungsprozessen befürwortet. Er gibt an, dass die Wahl hochzuverlässiger Infrastrukturen anstelle innovativer Tools die betriebliche Belastung der Teams verringert und das Risiko technischer Schulden verringert.",
+          "meta": "298 Punkte · 147 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49289512",
+              "popularity": 298,
+              "engagementCount": 147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "Muse-Glimmer-30B, veröffentlicht auf HuggingFace, ist ein multimodales Sprachmodell, das visuelle und textuelle Daten gleichzeitig verarbeiten kann. Dieses Modell bietet die Möglichkeit, durch die Analyse komplexer Bilder textbasierte Ausgaben zu erstellen.",
+          "meta": "♥ 1.437 · 121.042 Downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, entwickelt von MiniMaxAI, ist ein generatives KI-Modell, das Videos mithilfe visueller und Texteingaben erstellt. Es ermöglicht Benutzern, bewegte Bilder aus statischen Inhalten oder geschriebenen Befehlen zu erstellen.",
+          "meta": "♥ 3.844 · 1.605.940 Downloads"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Qwen3.8, das von Alibaba entwickelte Textgenerierungsmodell, bietet eine leistungsstarke Architektur für künstliche Intelligenz, die auf großen Datensätzen trainiert wird. Dieses System, das in der Open-Source-Modellbibliothek HuggingFace geteilt wird, ist für die Ausführung komplexer Sprachverarbeitungsaufgaben optimiert.",
+          "meta": "♥ 809 · 1.012 Downloads"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5 wurde von Lightricks entwickelt und ist ein Bild-zu-Video-Produktionsmodell, das Standbilder in kurze Videoclips umwandelt. Diese zur Animation visueller Inhalte eingesetzte Technologie ermöglicht es Benutzern, aus statischen Bildern hochwertige Videos zu erstellen.",
+          "meta": "♥ 745 · 57.287 Downloads"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "summary": "DeepSeek-V4-Flash-0731, das von DeepSeek entwickelte Textgenerierungsmodell, bietet eine Struktur, die für leistungsstarke Sprachverarbeitungsaufgaben optimiert ist. Unter den anfälligkeitsgewichteten Modellen, die auf Plattformen wie Hugging Face geteilt werden, zeichnet sich das Modell durch seine schnellen Reaktionszeiten aus.",
+          "meta": "♥ 3.333 · 1.431.587 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos",
+          "url": "https://huggingface.co/papers/2608.11752",
+          "summary": "UniSwap bietet ein Framework, das gleichzeitig die visuelle und akustische Identität in Sprachvideos ändert. Es integriert visuelle Referenz- und Audiodaten in das Video und behält dabei Bewegung, Szene und Timing im Quellvideo bei.",
+          "meta": "1 Likes · 1 Kommentare"
+        },
+        {
+          "title": "LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time",
+          "url": "https://huggingface.co/papers/2608.11745",
+          "summary": "LiveAnimate ist ein System, das menschliche Animationen in Echtzeit aus einem einzigen Referenzbild und Bewegungsstrom erzeugt. Es optimiert die langen Verarbeitungszeiten diffusionsbasierter Modelle und ermöglicht eine nahtlose Videoerstellung in interaktiven Bereichen wie Live-Übertragungen und virtuellen Avataren.",
+          "meta": "1 Likes · 1 Kommentare"
+        },
+        {
+          "title": "CW-BASS v2: Saturation-Aware Pseudo-Label Selection for Semi-Supervised Segmentation under Foundation-Model Teachers",
+          "url": "https://huggingface.co/papers/2608.12773",
+          "summary": "CW-BASS v2 verbessert halbüberwachte semantische Segmentierungsprozesse, für die herkömmliche Methoden aufgrund der hohen Konfidenzwerte des Grundmodells von Lehrern unzureichend sind. Dieser neue sättigungsbewusste Ansatz verbessert die Modellleistung, indem er die Auswahl der von leistungsstarken Modellen erzeugten Etiketten optimiert.",
+          "meta": "0 Likes · 1 Kommentare"
+        },
+        {
+          "title": "H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models",
+          "url": "https://huggingface.co/papers/2608.13049",
+          "summary": "H2R-Bench ist ein Benchmarking-Framework, das zur Bewertung von Videoproduktionsmodellen entwickelt wurde, die menschliche Handbewegungen auf Roboter-Endeffektoren übertragen. Es misst die Leistung von Weltmodellen, die roboterzentrierte Manipulationsvideos aus menschlichen Videos synthetisieren, um die Kosten der Datenerfassung in robotergestützten Lernprozessen zu senken.",
+          "meta": "2 Likes · 1 Kommentare"
+        },
+        {
+          "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers",
+          "url": "https://huggingface.co/papers/2608.06867",
+          "summary": "LLMRouter bietet eine einheitliche Infrastruktur zur Entwicklung, Bewertung und Bereitstellung von Routern, die das optimale große Sprachmodell für verschiedene Abfragen und Budgetbeschränkungen auswählen. Dieses System unterteilt den Routing-Prozess in fünf Schlüsselkomponenten und erleichtert so den Vergleich der Leistung verschiedener Modelle und die Erstellung skalierbarer Arbeitsabläufe.",
+          "meta": "48 Likes · 1 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I want extern \"fil-c\"",
+          "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+          "summary": "Softwareentwickler suchen nach einer externen Standardbibliothek, um Dateisystemoperationen (Datei-I/O) in C sicherer und verwaltbarer zu machen. Dieser Ansatz zielt darauf ab, die Fehlerquote in Softwareentwicklungsprozessen zu verringern, indem Systemaufrufe auf niedriger Ebene modularer gestaltet werden.",
+          "meta": "46 Punkte · 16 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/tssf5y/i_want_extern_fil_c",
+              "popularity": 46,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "python's pre-declared constants are kinda weird",
+          "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+          "summary": "Vordeklarierte Konstanten in der Python-Sprache enthalten einige Inkonsistenzen, die der dynamischen Struktur der Sprache widersprechen. Dies stellt technische Einschränkungen in Frage, die es Entwicklern erschweren, die volle Kontrolle über den Code zu behalten.",
+          "meta": "91 Punkte · 15 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda",
+              "popularity": 91,
+              "engagementCount": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "graph-native infrastructure",
+      "explanation": "Spezielle Infrastruktur zur schnellen Verarbeitung komplexer Datenbeziehungen über direkte Verbindungen."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Künstliche Intelligenz-Technologie, die auf der Grundlage zuvor erlernter Informationen neue Texte, Bilder oder Töne erstellen kann."
+    },
+    {
+      "term": "skills",
+      "explanation": "Besondere Fähigkeiten, die eine Software oder künstliche Intelligenz besitzt, um eine bestimmte Aufgabe auszuführen."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Die grundlegende Struktur der künstlichen Intelligenz, die mit sehr großen Datensätzen trainiert wird und auf der verschiedene Aufgaben aufbauen können."
+    },
+    {
+      "term": "STT",
+      "explanation": "Technologie, die gesprochene Wörter abhört und sie in geschriebenen Text umwandelt."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Eine Methode der künstlichen Intelligenz, die durch die schrittweise Bearbeitung verrauschter Daten hochwertige Bilder von Grund auf erstellt."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Der Prozess der Anpassung einer allgemein trainierten künstlichen Intelligenz mit einem kleinen Datensatz, um bei einem bestimmten Thema eine bessere Leistung zu erzielen."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Eine Methode zum Sammeln und Analysieren von Informationen mithilfe öffentlich verfügbarer Quellen im Internet."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Ein Protokoll, das es Modellen der künstlichen Intelligenz ermöglicht, auf standardisierte Weise eine Verbindung zu verschiedenen Datenquellen und Tools herzustellen."
+    },
+    {
+      "term": "BYOK",
+      "explanation": "Ein Sicherheitsansatz, der es dem Benutzer ermöglicht, seine Daten mit seinen eigenen Sicherheitsschlüsseln zu verschlüsseln."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Textbasierte Schnittstelle, die Programme mit geschriebenen Befehlen statt mit der Maus ausführt."
+    },
+    {
+      "term": "generative model",
+      "explanation": "Ein System, das mithilfe von Mustern in Trainingsdaten neue und originelle Inhalte erstellen kann."
+    },
+    {
+      "term": "inference",
+      "explanation": "Der Prozess, bei dem ein trainiertes Modell der künstlichen Intelligenz ein Ergebnis erzeugt, indem es eine neue Eingabe verarbeitet."
+    },
+    {
+      "term": "LoRA",
+      "explanation": "Eine Methode, um ein großes Modell der künstlichen Intelligenz schneller und effizienter zu trainieren, indem nur ein kleiner Teil davon aktualisiert wird, ohne das gesamte Modell zu ändern."
+    }
+  ]
+}

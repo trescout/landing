@@ -24,5 +24,8 @@ La aplicación se comporta de manera inconsistente o falla; Por eso hay que gest
 - [Runtime Environment](/es/dictionary/runtime-environment/)
 - [Context Window](/es/dictionary/context-window/)
 
+## Herramientas relacionadas
+- [Loopx](/es/discover/loopx/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/state-kernel/

@@ -27,5 +27,10 @@ Aunque al principio lleva tiempo, a la larga ahorra mucho tiempo, ya que evita e
 - [Clean Code](/es/dictionary/clean-code/)
 - [Refactoring](/es/dictionary/refactoring/)
 
+## Herramientas relacionadas
+- [Code Review Graph](/es/discover/code-review-graph/)
+- [Open Code Review](/es/discover/open-code-review/)
+- [Tuicr](/es/discover/tuicr/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/code-review/

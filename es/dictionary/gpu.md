@@ -29,5 +29,15 @@ Sí, pero los que se utilizan para IA suelen ser modelos profesionales equipados
 - [Machine Learning](/es/dictionary/machine-learning/)
 - [Deployment](/es/dictionary/deployment/)
 
+## Herramientas relacionadas
+- [Pytorch](/es/discover/pytorch/)
+- [Llmfit](/es/discover/llmfit/)
+- [Olmocr](/es/discover/olmocr/)
+- [Ktransformers](/es/discover/ktransformers/)
+- [Cupy](/es/discover/cupy/)
+- [Train LLM from Scratch](/es/discover/train-llm-from-scratch/)
+- [Terax AI](/es/discover/terax-ai/)
+- [Meshoptimizer](/es/discover/meshoptimizer/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/gpu/

@@ -10,10 +10,11 @@ Kaynak dil DAİMA Türkçe · sayfalar Türkçesinden üretilir, buradaki tablol
 yalnız arayüz metinlerini (başlık, düğme, uyarı) taşır. İçerik metinleri
 çeviri uç noktasından geçer.
 
-YENİ DİL EKLEME · 2026-08-14'te Portekizce eklenirken gerçekten yapılanlar.
-Eski liste beş maddeydi ve ikisi artık gereksiz (guard'lar ve normalize edicinin
-atlama listesi bu tablodan türüyor). Sırayı bozmayın · 3'ten önce 4 yaparsanız
-keşif sayfaları çapraz bağlantısız çıkar.
+YENİ DİL EKLEME · 2026-08-15'te Almanca eklenirken güncellendi. Liste her turda
+kısalıyor: artık guard'lar, normalize edicilerin atlama listeleri, kabuk
+düğmeleri, elle yazılan sayfa listeleri ve YAYIN HATTI bu tablodan türüyor.
+Sırayı bozmayın · 3'ten önce 4 yaparsanız keşif sayfaları çapraz bağlantısız
+çıkar.
 
   1. Buraya tabloyu ekleyin. Dizin adı ile hreflang FARKLI olabilir:
      Portekizce dizini "pt", hreflang'i "pt-BR" ("hreflang" alanı).
@@ -46,17 +47,43 @@ keşif sayfaları çapraz bağlantısız çıkar.
      Arşivi geriye dönük basacaksanız: build-lang-report.ts <tarihler> --lang=XX
      Sonra landing'de: node scripts/build-reports-en.js --lang=XX
 
-  7. Hat · .github/workflows/dict-sync.yml'ye adımları ekleyin (çeviri, sayfalar,
-     dizinler, kapaklar, rapor sayfaları, kabuk tazeleme).
+  7. Hat · dict-sync.yml'ye DOKUNMAYIN. Adımlar `diller.py --liste` üzerinden
+     döngüyle çalışıyor (2026-08-15'e kadar dil adları beş ayrı yerde elle
+     yazılıydı · biri unutulursa o dil hatta sessizce eksik kalıyordu).
 
-  8. Kapanış: fix-all-headers-and-footers.js → hreflang-normalize.py →
+  8. ESKİ dillerin kabuğunu da tazeleyin · yeni dilin düğmesi onlarda YOK.
+     Üretilen dillerin (en/fr/pt/es…) nav'ı diller.py'den her ÜRETİMDE
+     basılıyor · yalnız yeni dili üretmek yetmez, eskileri de bir tur döndürün:
+        for d in $(python3 scripts/diller.py --liste); do
+          python3 scripts/dictionary-en.py --lang=$d
+          python3 scripts/discover-en.py   --lang=$d
+          node    scripts/build-en.js      --lang=$d
+        done
+     (Çeviriler önbellekli, ikinci tur hızlı. Atlarsanız nav guard kırılır ·
+     hat ertesi gün kendiliğinden düzeltirdi ama PR kırmızı gelir.)
+
+  9. Kapanış: fix-all-headers-and-footers.js → hreflang-normalize.py →
      sitemap-sync.py → llms-txt.py, sonra on guard.
 
 KENDİLİĞİNDEN OLANLAR (elle dokunmayın):
   · nav/footer guard'ları beklenen setleri buradan türetiyor
   · normalize edicinin atlayacağı diller listesi buradan
+  · fix-all-headers-and-footers.js'teki dil düğmeleri + aria etiketleri buradan
   · hreflang normalize edici ve guard'ı buradan
   · yönlendirme üreticisi ve birleşme guard'ı dil öneklerini buradan
+  · dil-kabuk-tazele.py ve check-sayfa-paritesi.py'nin sayfa listeleri buradan
+  · dict-sync.yml adımları `--liste` çıktısı üzerinde döngü kuruyor
+
+ELLE KALAN İKİ ŞEY · unutulursa guard yakalamaz:
+  · Ana sayfa/karşılaştırma metinleri (çeviri makineden geçerse ÖZEL ADLARI
+    bozuyor). 2026-08-15 denetimi: fr/pt/es sayfalarında RAG → "chiffon/pano/
+    trapo" (bez), MCP → "PCM", fine-tuning → "réglage fin", Lobste.rs →
+    "Homard.rs", hello@ → "bonjour@/olá@/hola@". Yeni dilde metni ELLE yazın ·
+    özel adlar (GitHub · Hacker News · HuggingFace · Lobste.rs · RAG · MCP ·
+    fine-tuning · CLI · TreScout) ve e-posta adresi çevrilmez.
+  · Karşılaştırma sayfasındaki "rapor şu dillerde" satırı · beş sayfada birden
+    güncellenmeli. 2026-08-15'e kadar Türkçesi hâlâ "Türkçe ve İngilizce"
+    diyordu, üç dil eklendiği hâlde.
 """
 
 import re
@@ -64,6 +91,7 @@ import re
 DILLER = {
     "en": {
         "kod": "en",
+        "aria_gec": "Switch to English",     # dil düğmesinin aria-label'ı · KENDİ dilinde
         "html_lang": "en",
         "onek": "/en",                      # URL öneki · Türkçe için ""
         "og_locale": "en_US",
@@ -77,7 +105,7 @@ DILLER = {
         "nav_cta": "Early Access",
         # Dil değiştirme düğmeleri · (etiket, o dilin URL öneki). Sıra menüde
         # göründüğü sıra. Hedef sayfa yoksa o dilin ana sayfasına düşer.
-        "dil_dugmeleri": [("TR", ""), ("FR", "/fr"), ("PT", "/pt"), ("ES", "/es")],
+        "dil_dugmeleri": [("TR", ""), ("FR", "/fr"), ("PT", "/pt"), ("ES", "/es"), ("DE", "/de")],
         # Footer "Ürün" sütunu nav'dan bir fazla: ana sayfadaki "nasıl çalışır"
         # bölümü. O bölüm çevrilmemiş dillerde None olur.
         "footer_nasil": "How It Works",
@@ -245,6 +273,7 @@ DILLER = {
     },
     "fr": {
         "kod": "fr",
+        "aria_gec": "Passer au français",     # dil düğmesinin aria-label'ı · KENDİ dilinde
         "html_lang": "fr",
         "onek": "/fr",
         "og_locale": "fr_FR",
@@ -253,7 +282,7 @@ DILLER = {
         "nav": ["Découvrir", "Glossaire", "Archive des rapports", "Comparer"],
         "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
         "nav_cta": "Accès anticipé",
-        "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("PT", "/pt"), ("ES", "/es")],
+        "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("PT", "/pt"), ("ES", "/es"), ("DE", "/de")],
         "footer_nasil": None,      # Türkçe ana sayfanın "nasıl çalışır" bölümü çevrilmedi
         "footer_urun": "Produit",
         "footer_iletisim": "Contact",
@@ -424,6 +453,7 @@ DILLER = {
     },
     "pt": {
         "kod": "pt",
+        "aria_gec": "Mudar para português",     # dil düğmesinin aria-label'ı · KENDİ dilinde
         # Brezilya Portekizcesi · geliştirici kitlesinin ağırlığı orada.
         # Dizin adı "pt", hreflang "pt-BR" · ikisi ayrı alanlar.
         "html_lang": "pt-BR",
@@ -435,7 +465,7 @@ DILLER = {
         "nav": ["Descobrir", "Glossário", "Arquivo de relatórios", "Comparar"],
         "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
         "nav_cta": "Acesso antecipado",
-        "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("FR", "/fr"), ("ES", "/es")],
+        "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("FR", "/fr"), ("ES", "/es"), ("DE", "/de")],
         "footer_nasil": None,
         "footer_urun": "Produto",
         "footer_iletisim": "Contato",
@@ -604,6 +634,7 @@ DILLER = {
     },
     "es": {
         "kod": "es",
+        "aria_gec": "Cambiar a español",     # dil düğmesinin aria-label'ı · KENDİ dilinde
         # Nötr İspanyolca · İspanya ve Latin Amerika arasında Portekizcedeki
         # gibi net bir ağırlık yok, tek sürüm ikisine de hitap ediyor.
         "html_lang": "es",
@@ -615,7 +646,7 @@ DILLER = {
         "nav": ["Descubrir", "Glosario", "Archivo de informes", "Comparar"],
         "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
         "nav_cta": "Acceso anticipado",
-        "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("FR", "/fr"), ("PT", "/pt")],
+        "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("FR", "/fr"), ("PT", "/pt"), ("DE", "/de")],
         "footer_nasil": None,
         "footer_urun": "Producto",
         "footer_iletisim": "Contacto",
@@ -785,6 +816,192 @@ DILLER = {
         "ana_not": ("Las páginas en español se traducen automáticamente desde el original en turco · "
                     "en caso de duda, prevalece la versión turca."),
     },
+    "de": {
+        "kod": "de",
+        "aria_gec": "Auf Deutsch wechseln",     # dil düğmesinin aria-label'ı · KENDİ dilinde
+        # Standarddeutsch · Almanya, Avusturya ve İsviçre'yi birlikte kapsıyor.
+        # "Sie" (formal) kullanılıyor · markanın Türkçedeki "siz" tonuyla birebir.
+        "html_lang": "de",
+        "hreflang": "de",
+        "onek": "/de",
+        "og_locale": "de_DE",
+        "tagline_alan": "tagline_de",
+        "kisa_alan": "kisa_de",
+        "nav": ["Entdecken", "Glossar", "Berichtsarchiv", "Vergleich"],
+        "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
+        "nav_cta": "Vorabzugang",
+        "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("FR", "/fr"), ("PT", "/pt"), ("ES", "/es")],
+        "footer_nasil": None,
+        "footer_urun": "Produkt",
+        "footer_iletisim": "Kontakt",
+        "footer_sosyal": "Netzwerke",
+        "footer_gizlilik": "Datenschutzhinweis",
+        "footer_tagline": "TreScout durchsucht, fasst zusammen und liefert. Sie lesen nur.",
+        "footer_alt": "© 2026 TreScout · Alle Rechte vorbehalten.",
+        "atla": "Zum Hauptinhalt springen",
+        "kesif": "Entdecken",
+        "kesif_geri": "← Entdecken",
+        "kesif_tumu": "Alle Entdeckungen →",
+        "baglantilar": "Links",
+        "depo": "GitHub-Repository →",
+        "turkce_oku": "Auf Türkisch lesen →",
+        "resmi_kaynak": "Offizielle Quelle →",
+        "kopyala_komut": "Befehl kopieren",
+        "kopyala_istem": "Anweisung kopieren",
+        "kopyala": "Kopieren",
+        "ajan_istem": "🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)",
+        "guncellemeler": "Aktualisierungen",
+        "yildiz": "Sterne",
+        "son_surum": "neueste Version",
+        "tasindi": "Repository verschoben, neue Adresse",
+        "arsiv": "Repository archiviert, Entwicklung eingestellt",
+        "kimin_icin": "Für wen es gedacht ist",
+        "lisans": "Lizenz",
+        "bugun": "heute",
+        "cta_baslik": "TreScout findet jeden Tag Werkzeuge wie dieses.",
+        "cta_metin": "Wir durchsuchen GitHub, Hacker News und HuggingFace und fassen das Wesentliche für Sie zusammen.",
+        "sorumluluk": ("TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends "
+                       "gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am "
+                       "{date} war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das "
+                       "Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über "
+                       "den Link zum Repository."),
+        "trescout_notu": "Hinweis von TreScout:",
+        "sozluk": "Glossar",
+        "sozluk_geri": "← Glossar",
+        "sozluk_tumu": "Alle Begriffe →",
+        "nedir": "Was ist {terim}?",
+        "son_guncelleme": "Zuletzt aktualisiert: {tarih}",
+        "analoji": "Analogie:",
+        "sozluk_cta_baslik": "Jeden Morgen neue Fachbegriffe in Ihrem Postfach.",
+        "sozluk_cta_metin": "Sichern Sie sich den Vorabzugang zu TreScout und erhalten Sie die tägliche Zusammenfassung.",
+        "bolumler": {
+            "Ne kazandırır?": "Was es bringt",
+            "Kurulum": "Installation",
+            "Çalıştırma": "Ausführung",
+            "Nasıl başlanır?": "So fangen Sie an",
+            "Kod bilmiyorsanız": "Wenn Sie nicht programmieren",
+            "İlgili sözlük terimleri": "Verwandte Begriffe aus dem Glossar",
+            "Bağlantılar": "Links",
+            "Tanım": "Definition",
+            "Nasıl çalışır?": "So funktioniert es",
+            "Nerede kullanılır?": "Wo es eingesetzt wird",
+            "Sık karıştırılanlar": "Häufig verwechselt mit",
+            "Sıkça sorulanlar": "Häufige Fragen",
+            "İlgili terimler": "Verwandte Begriffe",
+            "İlgili araçlar": "Verwandte Werkzeuge",
+        },
+        "form_yer_tutucu": "Ihre E-Mail-Adresse",
+        "form_dugme": "Vorabzugang",
+        "form_onay": ('Ich habe den <a href="{gizlilik}" target="_blank" rel="noopener">Datenschutzhinweis</a> '
+                      "gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck "
+                      "verarbeitet wird."),
+        "ana_onay": ('Ich habe den <a href="{gizlilik}" data-privacy-modal>Datenschutzhinweis</a> '
+                     "gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck "
+                     "verarbeitet wird."),
+        "gizlilik_yolu": "/de/privacy.html",
+        "md_kaynak_kesif": "Quelle: TreScout Entdecken · {url}",
+        "md_kaynak_sozluk": "Quelle: TreScout Glossar · {url}",
+        "aylar": ["Januar", "Februar", "März", "April", "Mai", "Juni",
+                  "Juli", "August", "September", "Oktober", "November", "Dezember"],
+        "tarih_bicimi": "{gun}. {ay} {yil}",
+        "binlik": ".",                      # Almancada binlik ayırıcı nokta
+        "etiketler": {
+            "Yapay zekâ araçları": "KI-Werkzeuge",
+            "Geliştirici aracı": "Entwicklerwerkzeug",
+            "Kod bilmeyenler için": "Ohne Programmieren",
+            "Öğrenme": "Lernen",
+            "Üretkenlik": "Produktivität",
+        },
+        "sozluk_dizin_baslik": "Technik-Glossar · KI- und Software-Begriffe · TreScout",
+        "sozluk_dizin_aciklama": "Verständliche Definitionen für KI- und Software-Begriffe: RAG, Fine-Tuning, LLM, MCP und viele mehr.",
+        "sozluk_dizin_h1": "Glossar für KI und Software",
+        "sozluk_dizin_lead": "Verständliche Definitionen für die Fachbegriffe von heute. TreScout verfolgt die Trends jeden Tag und erweitert dieses Glossar fortlaufend.",
+        "sozluk_dizin_ara": "Begriff suchen: RAG, Embedding, Fine-Tuning…",
+        "sozluk_dizin_ara_etiket": "Begriff suchen",
+        "sozluk_dizin_cipler": [("", "Alle"), ("ai", "Künstliche Intelligenz"),
+                                ("dev", "Entwicklung"), ("data", "Daten und Infrastruktur")],
+        "sozluk_dizin_birim": "Begriffe",
+        "sozluk_dizin_bos": "Kein Begriff passt dazu. Versuchen Sie eine andere Suche.",
+        "kesif_dizin_baslik": "Open-Source-Projekte entdecken · TreScout",
+        "kesif_dizin_aciklama": "Eine tägliche Auswahl an Open-Source-Werkzeugen, KI-Projekten und Repositorys aus den GitHub-Trends.",
+        "kesif_dizin_h1": "Entdecken Sie die Werkzeuge im Trend",
+        "kesif_dizin_lead": ("Open-Source-Projekte, KI-Werkzeuge und Frameworks, die TreScout jeden Tag "
+                             "findet: Vorstellung, Wachstum der Sterne und <strong>wie Sie sie mit einem "
+                             "Agenten nutzen.</strong>"),
+        "kesif_dizin_ara": "Werkzeug oder Beschreibung suchen…",
+        "kesif_dizin_ara_etiket": "Werkzeug suchen",
+        "kesif_dizin_sirala": "Sortieren",
+        "kesif_dizin_siralar": [("stars", "Meiste Sterne"), ("date", "Neueste"), ("title", "A–Z")],
+        "kesif_dizin_birim": "Projekte",
+        "kesif_dizin_bos": "Kein Werkzeug passt dazu. Versuchen Sie eine andere Suche.",
+        "kesif_dizin_kategori": "Kategorien",
+        "rapor_gunler": ["Sonntag", "Montag", "Dienstag", "Mittwoch",
+                         "Donnerstag", "Freitag", "Samstag"],
+        "rapor_tarih": "{gun}. {ay} {yil} ({gunad})",
+        "rapor_arsiv_esigi": "2026-08-15",
+        "rapor_rozet": "Übersetztes Archiv",
+        "rapor_sayfa_baslik": "{tarih} · Tagesbericht von TreScout",
+        "rapor_sayfa_aciklama": ("Der Technik-Tagesbericht von TreScout vom {tarih}: Open-Source-Werkzeuge, "
+                                 "Diskussionen auf Hacker News und Beiträge über künstliche Intelligenz, "
+                                 "ausgewählt und zusammengefasst."),
+        "rapor_sayfa_og": "Der Technik-Tagesbericht von TreScout vom {tarih}.",
+        "rapor_eyebrow": "Technik-Tagesbericht",
+        "rapor_eyebrow_arsiv": "· übersetzte Ausgabe",
+        "rapor_arsiv": "Archiv",
+        "rapor_ac": "PDF auf {dil} öffnen →",
+        "rapor_indir": "PDF herunterladen",
+        "rapor_oku": "Lesen →",
+        "rapor_dil_adi": "Deutsch",
+        "rapor_not": ("Vollständiges PDF: jeder Eintrag mit Zusammenfassung, die Links zu den Quellen und "
+                      "das Glossar der Begriffe. Übersetzt aus der türkischen Originalausgabe."),
+        "rapor_cta": ("<strong>Erhalten Sie den Tagesbericht in Ihr Postfach.</strong> TreScout "
+                      "durchsucht, fasst zusammen und liefert. Sie lesen nur."),
+        "rapor_cta_dugme": "Vorabzugang sichern →",
+        "rapor_banner_baslik": "Über dieses übersetzte Archiv",
+        "rapor_banner": ("Diese Seiten und die PDF-Dateien sind aus den türkischen Original-Tagesberichten "
+                         "übersetzt. Die Auswahl der Einträge, die Kennzahlen und die Links sind mit der "
+                         "türkischen Ausgabe identisch."),
+        "rapor_cipler": {
+            "Günün Modelleri": "Modelle des Tages",
+            "Günün Makaleleri": "Beiträge des Tages",
+            "öne çıkan": "hervorgehoben",
+        },
+        "rapor_varyant": {
+            "normal": {
+                "geri": "Alle Berichte",
+                "baslik": "Technik-Tagesberichte",
+                "intro": ("Jeden Tag eine Zusammenfassung der Trends von GitHub Trending, Hacker News, "
+                          "HuggingFace und Lobsters. Online lesen oder als PDF herunterladen."),
+                "dizin_baslik": "Archiv der Tagesberichte · TreScout",
+                "dizin_aciklama": ("Das Archiv der Technik-Tagesberichte von TreScout · die Trends von "
+                                   "GitHub, Hacker News und HuggingFace, jeden Tag zusammengefasst."),
+            },
+            "fresh": {
+                "geri": "Nur Neues",
+                "baslik": "Berichte · nur Neues",
+                "intro": ("Nur das Neue von heute. Repositorys, die in den letzten 30 Tagen schon "
+                          "vorkamen, bleiben draußen, nichts wiederholt sich."),
+                "dizin_baslik": "Berichtsarchiv · nur Neues · TreScout",
+                "dizin_aciklama": "Die Tagesberichte von TreScout, ohne alles, was schon vorkam.",
+            },
+        },
+        "onay_ipucu": "Lesen Sie den Datenschutzhinweis, um Ihre Einwilligung zu geben.",
+        "modal_baslik": "Datenschutzhinweis",
+        "modal_kapat": "Schließen",
+        "modal_kaydir": "Scrollen Sie bis zum Ende des Textes, um Ihre Einwilligung zu geben",
+        "modal_onayla": "Ich habe es gelesen und stimme zu",
+        "ana_h1": "Technik zu verfolgen ist keine Last mehr.",
+        "ana_lead": ("Jeden Tag durchsucht TreScout GitHub, Hacker News, HuggingFace und Lobsters, behält "
+                     "das Wesentliche und fasst es in einem einzigen Bericht zusammen."),
+        "ana_bolum": "Was Sie hier finden",
+        "ana_kartlar": [
+            ("Entdecken", "/de/discover/", "Die Open-Source-Werkzeuge, die wir jeden Tag finden, verständlich erklärt."),
+            ("Glossar", "/de/dictionary/", "Die Fachbegriffe von heute, in verständlicher Sprache erklärt."),
+        ],
+        "ana_kayit": "Erhalten Sie den Tagesbericht, sobald wir öffnen.",
+        "ana_not": ("Die deutschen Seiten werden maschinell aus dem türkischen Original übersetzt · "
+                    "im Zweifelsfall gilt die türkische Fassung."),
+    },
 }
 
 
@@ -847,8 +1064,13 @@ def chrome(d, logo_svg):
     return nav, footer
 
 
-DIL_ONEK = {"TR": "", "EN": "/en", "FR": "/fr", "PT": "/pt", "ES": "/es"}
-_DUGME = re.compile(r'<a href="[^"]*" class="btn btn-ghost" aria-label="[^"]*">(TR|EN|FR|PT|ES)</a>')
+DIL_ONEK = {"TR": "", "EN": "/en", "FR": "/fr", "PT": "/pt", "ES": "/es", "DE": "/de"}
+
+# Türkçe kabuktaki dil düğmelerinin aria-label'ı · Türkçe nav Türkçe konuşur,
+# İngilizce nav ise hedef dilin kendi metnini kullanır ("aria_gec").
+ARIA_TR = {"en": "İngilizceye geç", "fr": "Fransızcaya geç", "pt": "Portekizceye geç",
+           "es": "İspanyolcaya geç", "de": "Almancaya geç"}
+_DUGME = re.compile(r'<a href="[^"]*" class="btn btn-ghost" aria-label="[^"]*">(TR|EN|FR|PT|ES|DE)</a>')
 
 
 def dil_dugmeleri_yaz(nav, hedefler):
@@ -903,7 +1125,11 @@ def tarih_yaz(iso, d):
 #     python3 scripts/diller.py --json fr
 if __name__ == "__main__":
     import sys, json
-    if "--json" in sys.argv:
+    if "--liste" in sys.argv:
+        # Hat (dict-sync.yml) dilleri buradan okuyor · iş akışında dil adı
+        # ELLE yazılmıyor. "en" dahil, üretim sırası tablodaki sıra.
+        print(" ".join(DILLER))
+    elif "--json" in sys.argv:
         kod = sys.argv[sys.argv.index("--json") + 1]
         print(json.dumps(dil(kod), ensure_ascii=False))
     else:

@@ -23,8 +23,19 @@ No, sólo el software que permite el sistema plug-in (arquitectura abierta) admi
 
 
 ## Términos relacionados
+- [Plugins](/es/dictionary/plugin/)
 - [SDK](/es/dictionary/sdk/)
 - [API](/es/dictionary/api/)
+
+## Herramientas relacionadas
+- [Superpowers](/es/discover/superpowers/)
+- [ECC](/es/discover/ecc/)
+- [Anthropic Skills](/es/discover/anthropic-skills/)
+- [Understand Anything](/es/discover/understand-anything/)
+- [Claude Plugins Official](/es/discover/claude-plugins-official/)
+- [Codex Plugin Cc](/es/discover/codex-plugin-cc/)
+- [Compound Engineering](/es/discover/compound-engineering-plugin/)
+- [Knowledge Work Plugins](/es/discover/knowledge-work-plugins/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/plugin/

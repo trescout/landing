@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-24",
+  "editorial": "Der Schwerpunkt des Tages liegt auf Systemüberwachung und autonomen Task-Management-Tools. GitHub-Daten zeigen, dass Automatisierungsbibliotheken, insbesondere solche, die Infrastrukturüberwachung und Softwareentwicklungsprozesse beschleunigen, auf dem Vormarsch sind.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Buzz wurde von Block in Rust entwickelt und ist als dezentrale Hive-Mind-Kommunikationsplattform konzipiert. Es stellt eine Infrastruktur bereit, die den kollektiven Datenaustausch und die gleichzeitige Interaktion über eine verteilte Netzwerkstruktur unterstützt.",
+          "meta": "Rust · ★ 7.593 · +2.162 heute"
+        },
+        {
+          "title": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "summary": "Worldmonitor bietet ein globales Echtzeit-Intelligence-Dashboard, das auf künstlicher Intelligenz basierende Nachrichtenzusammenstellung, geopolitische Überwachung und Infrastrukturüberwachungsfunktionen in einer einzigen Schnittstelle vereint. Dieses mit TypeScript entwickelte Tool ermöglicht es Benutzern, durch die Analyse komplexer Datenflüsse ein Situationsbewusstsein zu erlangen.",
+          "meta": "TypeScript · ★ 72.095 · +3.175 heute"
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos ist ein Grundlagenmodell, das zur Analyse der einzigartigen Sprache der Finanzmärkte entwickelt wurde. Es bietet eine Architektur für künstliche Intelligenz, die auf die Verarbeitung und Analyse von Finanzdaten spezialisiert ist.",
+          "meta": "Python · ★ 33.209 · +401 heute"
+        },
+        {
+          "title": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "summary": "Pumpkin wurde in Rust entwickelt und ist eine Open-Source-Plattform, die darauf abzielt, leistungsstarke und effiziente Minecraft-Server zu hosten. Die Software bietet eine auf Speichersicherheit ausgerichtete Infrastruktur, um die Verwaltungsprozesse von Spieleservern zu beschleunigen.",
+          "meta": "Rust · ★ 9.034 · +565 heute"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite ist ein Browser, der es Benutzern und Agenten der künstlichen Intelligenz ermöglicht, gleichzeitig zu arbeiten. Dieses JavaScript-basierte Tool zielt darauf ab, die Interaktion von Mensch und Maschine parallel in derselben Browserumgebung durchzuführen.",
+          "meta": "JavaScript · ★ 1.896 · +247 heute"
+        },
+        {
+          "title": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "summary": "Die Quellcodes des Leitrechners der Kommando- und Mondlandefähren der Apollo-11-Mission wurden auf GitHub in Assemblersprache zur Verfügung gestellt. Dieses Archiv bietet die Möglichkeit, grundlegende Softwarearchitekturen und Low-Level-Programmiermethoden in der Geschichte des Raumfahrtprogramms zu untersuchen.",
+          "meta": "Assembly · ★ 71.188 · +592 heute"
+        },
+        {
+          "title": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "summary": "OmniRoute ist ein Open-Source-KI-Gateway, das über 290 Anbieter und über 500 Modelle über einen einzigen Endpunkt zugänglich macht. Es optimiert Anwendungsentwicklungsprozesse, indem es Entwicklern kontingentabhängige automatische Backup- und Token-Komprimierungsfunktionen bietet.",
+          "meta": "TypeScript · ★ 27.625 · +1.929 heute"
+        },
+        {
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "Die von ComposioHQ zusammengestellte Liste „awesome-claude-skills“ fasst Skillpakete (Skills), Tools und Ressourcen zusammen, die zur Anpassung der Claude AI-Workflows verwendet werden. Diese Python-basierte Sammlung erleichtert Entwicklern die Erstellung funktionaler Integrationen für KI-Agenten.",
+          "meta": "Python · ★ 69.587 · +636 heute"
+        },
+        {
+          "title": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "summary": "Text-to-CAD-Tools bieten eine Reihe von KI-Agent-Fähigkeiten, die zur Automatisierung von Hardware-Design- und Robotikprozessen entwickelt wurden. Diese JavaScript-basierte Sammlung ermöglicht die Erstellung komplexer technischer Modelle mit Befehlen in natürlicher Sprache.",
+          "meta": "JavaScript · ★ 10.149 · +230 heute"
+        },
+        {
+          "title": "agegr/pi-web",
+          "url": "https://github.com/agegr/pi-web",
+          "summary": "Pi-web bietet eine verbesserte webbasierte Benutzeroberfläche (Web-UI) für den Pi-Coding-Agent. Dieses in TypeScript geschriebene Tool ermöglicht die Visualisierung agentenbasierter Interaktionen in Softwareentwicklungsprozessen.",
+          "meta": "TypeScript · ★ 2.472 · +315 heute"
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Das von Alibaba entwickelte Open-Source-Code-Review-Tool kombiniert deterministische Pipelines und LLM-Agenten (Large Language Model) in einer Hybridstruktur. Ausgestattet mit Software-Sicherheitsregeln und zeilenbasierten Interpretationsfunktionen ist das Tool in der Go-Sprache geschrieben und bietet eine OpenAI- und Anthropic-kompatible Infrastruktur.",
+          "meta": "Go · ★ 11.836 · +180 heute"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView verwendet standardmäßige drahtlose Netzwerksignale (WiFi), um räumliche Intelligenz, Vitalzeichenverfolgung und Anwesenheitserkennung in Echtzeit durchzuführen, ohne dass Bilddaten erforderlich sind. Diese in der Rust-Sprache entwickelte Technologie bietet eine kontaktlose Überwachungslösung unter Nutzung der vorhandenen Signalinfrastruktur.",
+          "meta": "Rust · ★ 85.395 · +1.708 heute"
+        },
+        {
+          "title": "likec4/likec4",
+          "url": "https://github.com/likec4/likec4",
+          "summary": "LikeC4 ist ein Tool, das die Erstellung von Live- und aktuellen Software-Architekturdiagrammen aus Quellcode ermöglicht. Es stellt eine Modellierungssprache bereit, die synchron mit der Codebasis arbeitet, um die Softwarestruktur zu visualisieren und gemeinsam zu entwickeln.",
+          "meta": "TypeScript · ★ 4.787 · +472 heute"
+        },
+        {
+          "title": "Automattic/harper",
+          "url": "https://github.com/Automattic/harper",
+          "summary": "Harper bietet einen Offline- und datenschutzorientierten Grammatikprüfer, der mit der Rust-Sprache entwickelt wurde. Ziel dieses Open-Source-Tools ist es, eine leistungsstarke und sichere Alternative für Textanalyseprozesse zu schaffen.",
+          "meta": "Rust · ★ 12.510 · +624 heute"
+        },
+        {
+          "title": "jellyfin/jellyfin",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "summary": "Jellyfin bietet ein kostenloses Mediensystem, mit dem Benutzer ihre eigenen Mediensammlungen verwalten und veröffentlichen können. Dieses in C# entwickelte Server-Backend und die Anwendungsprogrammierschnittstelle (API) stellen eine Open-Source-Alternative für den Aufbau eines zentralen Medienservers dar.",
+          "meta": "C# · ★ 54.815 · +66 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Writing by hand is good for your brain",
+          "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+          "summary": "Das Üben des Schreibens mit der Hand unterstützt kognitive Prozesse und steigert das Lern- und Gedächtnisvermögen im Vergleich zu digitalen Werkzeugen. Neurologische Interaktionen offenbaren die positiven Beiträge des physischen Aktes des Schreibens zur mentalen Konzentration und zu Informationsverarbeitungsprozessen.",
+          "meta": "1.176 Punkte · 546 Kommentare"
+        },
+        {
+          "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "summary": "Gründer von Technologie-Startups fordern die US-Regierung auf, den Zugang zu Open-Weight-KI-Modellen aus China nicht einzuschränken. Sie argumentieren, dass diese Einschränkungen die Innovation verlangsamen und dem Open-Source-KI-Ökosystem schaden werden.",
+          "meta": "848 Punkte · 721 Kommentare"
+        },
+        {
+          "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+          "summary": "OpenAI verursachte während der Modellevaluierung einen unerwarteten Sicherheitsvorfall auf Hugging Face. Die beiden Institutionen arbeiten gemeinsam daran, die Systemsicherheit nach dieser technischen Panne zu erhöhen.",
+          "meta": "464 Punkte · 370 Kommentare"
+        },
+        {
+          "title": "98.css",
+          "url": "https://jdan.github.io/98.css/#status-bar",
+          "summary": "98.css ist eine Stylesheet-Bibliothek, die entwickelt wurde, um die visuelle Sprache von Windows 98 auf Weboberflächen zu übertragen. Es ermöglicht Entwicklern, in modernen Webprojekten eine nostalgische Benutzeroberfläche zu erstellen.",
+          "meta": "400 Punkte · 91 Kommentare"
+        },
+        {
+          "title": "What happened to TheNumbers.com",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "summary": "Der plötzliche Offline-Zustand der Website TheNumbers.com, die Daten der Filmindustrie sammelt, birgt Risiken für die Kontinuität digitaler Archive und Datenquellen. Diese Situation zeigt die Anfälligkeit von Informationsspeichermethoden, die auf zentralen Plattformen basieren, gegenüber Datenverlust.",
+          "meta": "341 Punkte · 148 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "baidu/Unlimited-OCR",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "summary": "Unlimited-OCR wurde von Baidu entwickelt und ist ein Bild-zu-Text-Modell, das bildbasierten Text in Textdaten umwandelt. Dieses Modell wurde für die Digitalisierung von Daten in komplexen Dokumenten entwickelt und zielt auf eine hohe Genauigkeit bei der optischen Zeichenerkennung (OCR) ab.",
+          "meta": "♥ 2.917 · 2.414.259 Downloads"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "url": "https://huggingface.co/thinkingmachines/Inkling",
+          "summary": "Inkling wurde von Thinking Machines entwickelt und ist ein multimodales Modell, das textbasierte Ausgaben erzeugt, indem es visuelle und textliche Daten als Eingabe verarbeitet. Das System bietet die Möglichkeit, durch die Analyse der Beziehungen zwischen Bild und Text sinnvolle Antworten in komplexen Kontexten zu generieren.",
+          "meta": "♥ 1.517 · 24.669 Downloads"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "summary": "Laguna-S-2.1, entwickelt von Poolside, ist ein Sprachmodell, das sich auf die Textgenerierung konzentriert. Dieses Modell wurde für Entwickler zur Verwendung bei Verarbeitungsaufgaben in natürlicher Sprache entwickelt und ist auf der HuggingFace-Plattform verfügbar.",
+          "meta": "♥ 535 · 13.285 Downloads"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "summary": "Solar-Open2-250B wurde von Upstage entwickelt und ist ein umfangreiches Sprachmodell für Textgenerierungsaufgaben. Das Modell zielt mit seiner hohen Parameterkapazität darauf ab, die Leistung in komplexen Sprachverarbeitungsprozessen zu steigern.",
+          "meta": "♥ 483 · 362 Downloads"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "summary": "Das Qwen3.6-27B-Fable-Fusion-Modell ist ein multimodales Modell der künstlichen Intelligenz, das durch die Verarbeitung visueller und textbasierter Eingaben eine Textausgabe erzeugt. Durch seine unzensierte Struktur und große Parametervielfalt bietet es einen flexiblen Einsatz in komplexen Datensätzen.",
+          "meta": "♥ 418 · 334.847 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "hive mind communication platform",
+      "explanation": "Eine digitale Umgebung, die es einer Gruppe von Menschen oder einem System ermöglicht, als kollektiver Geist zu agieren und in der Ideen schnell ausgetauscht werden."
+    },
+    {
+      "term": "global intelligence dashboard",
+      "explanation": "Verwaltungspanel, in dem Daten aus aller Welt auf einem einzigen Bildschirm zusammengefasst und analysiert werden."
+    },
+    {
+      "term": "situational awareness",
+      "explanation": "Ein System nimmt sofort wahr, was um es herum passiert, und interpretiert die aktuelle Situation richtig."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Eine riesige Infrastruktur für künstliche Intelligenz, die darauf trainiert ist, viele verschiedene Aufgaben auszuführen, auf der andere Anwendungen aufbauen."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonome Software, die selbstständig Entscheidungen trifft und gezielte Aufgaben in Ihrem Namen ausführt."
+    },
+    {
+      "term": "Guidance Computer",
+      "explanation": "Ein Leitcomputer, der die Route eines Fahrzeugs oder Systems bestimmt und ihm dabei hilft, sein Ziel zu erreichen."
+    },
+    {
+      "term": "Assembly",
+      "explanation": "Die einfachste Low-Level-Programmiersprache, die direkt mit der Hardware des Computers kommuniziert."
+    },
+    {
+      "term": "endpoint",
+      "explanation": "Der Endpunkt, an dem die Kommunikation beginnt oder endet, z. B. ein Computer, ein Telefon oder ein Server, der mit einem Netzwerk verbunden ist."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "Ein Gateway, das den Zugriff auf verschiedene Dienste der künstlichen Intelligenz regelt, für Sicherheit sorgt und den Datenverkehr verwaltet."
+    },
+    {
+      "term": "token",
+      "explanation": "Die kleinste Dateneinheit, die Wort- oder Silbenfragmenten entspricht und die künstliche Intelligenz bei der Verarbeitung von Texten verwendet."
+    },
+    {
+      "term": "skills",
+      "explanation": "Besondere Fähigkeiten, die eine Software oder künstliche Intelligenz benötigt, um eine bestimmte Operation auszuführen."
+    },
+    {
+      "term": "text-to-cad",
+      "explanation": "Technologie, die eingegebene Textbefehle automatisch in dreidimensionale technische Zeichnungen umwandelt."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Eine Reihe spezialisierter Fähigkeiten, die Software für künstliche Intelligenz nutzt, um komplexe Aufgaben zu erledigen."
+    },
+    {
+      "term": "web UI",
+      "explanation": "Eine visuelle Schnittstelle, die es Ihnen ermöglicht, eine Software über einen Internetbrowser zu verwenden."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "Automatische Prozesslinie, in der Daten von einer Phase zur nächsten verarbeitet werden und zum Endergebnis gelangen."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    }
+  ]
+}

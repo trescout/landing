@@ -27,5 +27,8 @@ Porque el DNS es la piedra angular de Internet y bloquearlo puede impedir que la
 - [Reverse Proxy](/es/dictionary/reverse-proxy/)
 - [Secrets](/es/dictionary/secrets/)
 
+## Herramientas relacionadas
+- [MasterDnsVPN](/es/discover/masterdnsvpn/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/dns-tunneling/

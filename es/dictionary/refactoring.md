@@ -24,5 +24,8 @@ Si el código es más limpio, se evitarán errores futuros y el proceso de desar
 - [Unit Testing](/es/dictionary/unit-testing/)
 - [Tech Stack](/es/dictionary/tech-stack/)
 
+## Herramientas relacionadas
+- [Continue](/es/discover/continue/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/refactoring/

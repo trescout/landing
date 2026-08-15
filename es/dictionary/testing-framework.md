@@ -18,7 +18,11 @@ Por lo general, es mejor elegir el más popular según el lenguaje de programaci
 
 ## Términos relacionados
 - [Unit Testing](/es/dictionary/unit-testing/)
+- [End-to-End Testing](/es/dictionary/end-to-end-testing/)
 - [Framework](/es/dictionary/framework/)
+
+## Herramientas relacionadas
+- [Pytest](/es/discover/pytest/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/testing-framework/

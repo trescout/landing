@@ -25,6 +25,12 @@ Sí, pueden comprender el contenido analizando los vídeos cuadro por cuadro.
 ## Términos relacionados
 - [LLM](/es/dictionary/llm/)
 - [Generative AI](/es/dictionary/generative-ai/)
+- [Diffusion Model](/es/dictionary/diffusion-model/)
+- [Text-to-Speech](/es/dictionary/text-to-speech/)
+- [Embedding](/es/dictionary/embedding/)
+
+## Herramientas relacionadas
+- [UI-TARS-desktop](/es/discover/ui-tars-desktop/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/multimodal/

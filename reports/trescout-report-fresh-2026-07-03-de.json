@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-03",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman ist ein für Claude Code entwickeltes Funktionspaket, das den Token-Verbrauch um 65 Prozent reduziert, indem es die Sprachverwendung des Modells der künstlichen Intelligenz vereinfacht. Ziel dieses Tools ist es, die Verarbeitungskosten zu senken, indem komplexe Befehle auf eine primitive Sprachstruktur reduziert werden.",
+          "meta": "JavaScript · ★ 81.688 · +926 heute"
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "Dieser für Chrome DevTools entwickelte Server ermöglicht es Codierungs-Agenten für künstliche Intelligenz, browserbasierte Debugging-Prozesse zu verwalten. Mithilfe des Model Context Protocol ermöglicht dieses Tool Agenten die direkte Inspektion von Webanwendungen und die Automatisierung von Debugging-Prozessen.",
+          "meta": "TypeScript · ★ 45.204 · +104 heute"
+        },
+        {
+          "title": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "summary": "Actions/Checkout wurde von GitHub entwickelt und ist ein Tool, das Repository-Checkout-Prozesse in Softwareentwicklungsprozessen automatisiert. Durch die kontinuierliche Integration kann der Quellcode in Workflows in die Arbeitsumgebung übertragen werden.",
+          "meta": "TypeScript · ★ 8.197 · +26 heute"
+        },
+        {
+          "title": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "summary": "Agent Skills ist ein technisches Spezifikations- und Dokumentationsprojekt, das die Fähigkeiten standardisiert, die Agenten der künstlichen Intelligenz bei der Ausführung ihrer Aufgaben verwenden. Diese Python-basierte Struktur zielt darauf ab, die gemeinsame Nutzung von Fähigkeiten und die Interoperabilität zwischen verschiedenen Agentensystemen zu erleichtern.",
+          "meta": "Python · ★ 21.721 · +86 heute"
+        },
+        {
+          "title": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "summary": "Das von OpenAI entwickelte Codex-Plugin wird auf Claude Code verwendet, um Codeüberprüfungsprozesse zu automatisieren und die Aufgabendelegierung bereitzustellen. Dieses Tool ermöglicht die Integration verschiedener Modelle der künstlichen Intelligenz (große Sprachmodelle) in Softwareentwicklungsworkflows.",
+          "meta": "JavaScript · ★ 22.800 · +352 heute"
+        },
+        {
+          "title": "langflow-ai/langflow",
+          "url": "https://github.com/langflow-ai/langflow",
+          "summary": "Langflow ist eine Python-basierte Entwicklungsplattform, die eine visuelle Schnittstelle zum Erstellen KI-gestützter Agenten und Workflows bietet. Benutzer können komplexe Sprachmodellanwendungen per Drag-and-Drop entwerfen und bereitstellen, ohne Code schreiben zu müssen.",
+          "meta": "Python · ★ 150.932 · +117 heute"
+        },
+        {
+          "title": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "summary": "PyTorch ist eine Bibliothek für maschinelles Lernen, die eine leistungsstarke GPU-Beschleunigung (Graphics Processing Unit) für Python-basierte Tensorberechnungen und dynamische neuronale Netze bietet. Es bietet umfassende Ökosystemunterstützung bei der Entwicklung und Bereitstellung von Deep-Learning-Modellen.",
+          "meta": "Python · ★ 101.297 · +65 heute"
+        },
+        {
+          "title": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "summary": "Diese von der Harvard University gemeinsam genutzte Ressource bietet einen umfassenden technischen Leitfaden zu maschinellen Lernsystemen. Diese Studie kombiniert Hardware- und Softwareschichten und befasst sich mit den Entwurfsprozessen skalierbarer Infrastrukturen für künstliche Intelligenz.",
+          "meta": "Python · ★ 25.784 · +68 heute"
+        },
+        {
+          "title": "ryanmcdermott/clean-code-javascript",
+          "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+          "summary": "Dieser Leitfaden, der Clean-Code-Prinzipien an die JavaScript-Sprache anpasst, bietet Standards zum Schreiben von lesbarem und wartbarem Code in Softwareentwicklungsprozessen. Es kombiniert objektorientierte Programmierung und funktionale Programmierprinzipien mit praktischen Beispielen.",
+          "meta": "JavaScript · ★ 94.633 · +27 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Virginia bans sale of geolocation data",
+          "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+          "summary": "Der Bundesstaat Virginia hat eine neue Verordnung erlassen, die die Vermarktung und den Verkauf personenbezogener Standortdaten verbietet. Dieser rechtliche Schritt schränkt die Aktivitäten von Datenbrokern Dritter ein, um die digitale Privatsphäre der Verbraucher zu schützen.",
+          "meta": "692 Punkte · 117 Kommentare"
+        },
+        {
+          "title": "PeerTube is a free, decentralized and federated video platform",
+          "url": "https://github.com/Chocobozzz/PeerTube",
+          "summary": "PeerTube ist eine Open-Source-Plattform, die mit ihrer dezentralen und föderierten Struktur eine Alternative zu Video-Hosting-Diensten bietet. Ziel ist es, die Bandbreitenlast zu verteilen und die Benutzerkontrolle über Inhalte durch den Einsatz von P2P-Protokollen (Peer-to-Peer) zu erhöhen.",
+          "meta": "592 Punkte · 274 Kommentare"
+        },
+        {
+          "title": "Podman v6.0.0",
+          "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+          "summary": "Podman v6.0.0 bietet erhöhte Leistung und erweiterte API-Unterstützung in Container-Management-Prozessen. Die neue Version bietet eine stabilere Infrastruktur und erweiterte Debugging-Tools für Cloud-native Workflows.",
+          "meta": "478 Punkte · 188 Kommentare"
+        },
+        {
+          "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+          "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+          "summary": "Mit Linux 6.9 wurde die LUKS-Funktion, die das Löschen von Festplattenverschlüsselungsschlüsseln aus dem Speicher während des Suspendierens ermöglicht, deaktiviert. Dadurch sind Geräte im Schlafmodus anfällig für Angriffe auf den physischen Speicher.",
+          "meta": "440 Punkte · 197 Kommentare"
+        },
+        {
+          "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+          "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+          "summary": "Der Erfolg der Schweiz beim Zugang zur Hochgeschwindigkeits-Internet-Infrastruktur basiert auf Infrastrukturinvestitionen der lokalen Regierungen und öffentlichkeitsorientierten Vorschriften und nicht auf freiem Marktwettbewerb. Diese Situation stellt die Wirksamkeit der Argumente des freien Marktes im Telekommunikationssektor in Bezug auf den Breitbandzugang in Frage.",
+          "meta": "348 Punkte · 219 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "token",
+      "explanation": "Die kleinste Dateneinheit, die Wort- oder Silbenfragmenten entspricht und die künstliche Intelligenz bei der Verarbeitung von Texten verwendet."
+    },
+    {
+      "term": "Chrome DevTools",
+      "explanation": "Ein in den Webbrowser eingebettetes Entwicklertool, das dabei hilft, den Code von Websites zu untersuchen und Fehler zu beheben."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Autonome Programme für künstliche Intelligenz, die Code schreiben, debuggen und Projekte verwalten können, indem sie sich wie ein Programmierer verhalten."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Eine Verbindungsmethode, die es Modellen der künstlichen Intelligenz ermöglicht, auf sichere und standardisierte Weise mit verschiedenen Datenquellen zu kommunizieren."
+    },
+    {
+      "term": "repository checkout",
+      "explanation": "Der Vorgang des Kopierens aller Dateien eines Softwareprojekts von einem zentralen Server auf Ihren Computer."
+    },
+    {
+      "term": "continuous integration",
+      "explanation": "Dabei handelt es sich um einen Prozess, der es ermöglicht, Fehler frühzeitig zu erkennen, indem die von Softwareentwicklern geschriebenen Codes automatisch kombiniert und getestet werden."
+    },
+    {
+      "term": "skills",
+      "explanation": "Spezielle Fähigkeiten oder Werkzeugsätze, die KI-Modelle verwenden, um eine bestimmte Aufgabe auszuführen."
+    },
+    {
+      "term": "memory",
+      "explanation": "Datenspeicherplatz, der es künstlicher Intelligenz ermöglicht, sich an vergangene Gespräche oder Transaktionen zu erinnern und diese für die nächsten Schritte zu verwenden."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "interoperability",
+      "explanation": "Die Fähigkeit verschiedener Systeme oder Software, Daten nahtlos miteinander auszutauschen."
+    },
+    {
+      "term": "dynamic neural networks",
+      "explanation": "Flexible Architekturen für künstliche Intelligenz, die ihre Struktur je nach Art der verarbeiteten Daten sofort ändern können."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Ein spezieller Prozessor, der komplexe mathematische Operationen wie Bildverarbeitung und Berechnungen der künstlichen Intelligenz sehr schnell gleichzeitig ausführt."
+    },
+    {
+      "term": "machine learning systems",
+      "explanation": "Computersysteme, die durch die Analyse von Daten selbstständig lernen und im Laufe der Zeit genauere Vorhersagen treffen können."
+    },
+    {
+      "term": "clean code",
+      "explanation": "Eine klare, einfache und fehlerfreie Codestruktur, die von anderen Softwareentwicklern leicht gelesen werden kann."
+    }
+  ]
+}

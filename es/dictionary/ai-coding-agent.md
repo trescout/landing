@@ -28,5 +28,8 @@ Suele tener mucho éxito, pero siempre es recomendable que lo revise un humano.
 - [LSP](/es/dictionary/lsp/)
 - [CLI](/es/dictionary/cli/)
 
+## Herramientas relacionadas
+- [Oh My Pi](/es/discover/oh-my-pi/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-coding-agent/

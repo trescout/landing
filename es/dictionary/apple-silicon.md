@@ -24,5 +24,10 @@ Debido a que su eficiencia energética es muy alta, el procesador hace el mismo 
 - [Computer Science](/es/dictionary/computer-science/)
 - [Desktop App](/es/dictionary/desktop-app/)
 
+## Herramientas relacionadas
+- [Container](/es/discover/container/)
+- [Palmier Pro](/es/discover/palmier-pro/)
+- [Openmed](/es/discover/openmed/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/apple-silicon/

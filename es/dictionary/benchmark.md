@@ -23,8 +23,15 @@ Sí, pero es mejor observar los resultados generales que incluyen diferentes esc
 
 
 ## Términos relacionados
+- [Benchmarks](/es/dictionary/benchmark/)
 - [AI Models](/es/dictionary/ai-models/)
 - [Inference](/es/dictionary/inference/)
+
+## Herramientas relacionadas
+- [CUA](/es/discover/cua/)
+- [Whichllm](/es/discover/whichllm/)
+- [SIA](/es/discover/sia/)
+- [Harvey Labs](/es/discover/harvey-labs/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/benchmark/

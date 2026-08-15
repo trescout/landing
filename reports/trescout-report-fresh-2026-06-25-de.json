@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-25",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "interviewstreet/hiring-agent",
+          "url": "https://github.com/interviewstreet/hiring-agent",
+          "summary": "Hiring-Agent ist ein Agent mit künstlicher Intelligenz (KI-Agent), der zur Bewertung und Bewertung von Lebensläufen entwickelt wurde. Dieses mit der Python-Sprache entwickelte Tool zielt darauf ab, Kandidaten-Screening-Prozesse in Rekrutierungsprozessen zu automatisieren.",
+          "meta": "Python · ★ 2.482 · +203 heute"
+        },
+        {
+          "title": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "summary": "Flutter wurde von Google entwickelt und ermöglicht Ihnen die schnelle Erstellung von Benutzeroberflächen für Mobil-, Web- und Desktop-Plattformen mit einer einzigen Codebasis. Dieses Open-Source-Framework, das auf der Programmiersprache Dart basiert, wird weithin für die Entwicklung leistungsstarker und visuell ansprechender Anwendungen bevorzugt.",
+          "meta": "Dart · ★ 177.494 · +73 heute"
+        },
+        {
+          "title": "andreknieriem/headunit-revived",
+          "url": "https://github.com/andreknieriem/headunit-revived",
+          "summary": "Das von der Headunit wiederbelebte Projekt stellt eine Anwendung bereit, mit der die Android Auto-Benutzeroberfläche auf verschiedenen Bildschirmen angezeigt werden kann. Diese in der Kotlin-Sprache entwickelte Software bietet eine alternative Anzeigelösung für Infotainmentsysteme im Auto.",
+          "meta": "Kotlin · ★ 1.484 · +41 heute"
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "Orca wurde von Stablyai entwickelt und bietet eine Agentenentwicklungsumgebung, die die gleichzeitige Verwaltung mehrerer Agenten für künstliche Intelligenz ermöglicht. Mit ihrem Abonnement können Benutzer verschiedene Codierungsagenten sowohl auf Desktop- als auch auf mobilen Plattformen ausführen.",
+          "meta": "TypeScript · ★ 7.044 · +331 heute"
+        },
+        {
+          "title": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "summary": "DESIGN.md wurde von Google Labs entwickelt und bietet eine strukturierte Formatspezifikation für die Weitergabe visueller Anmeldeinformationen an Codierungsagenten. Dieser Standard stellt sicher, dass Designsysteme von Agenten der künstlichen Intelligenz konsistent und dauerhaft verstanden werden.",
+          "meta": "TypeScript · ★ 17.720 · +619 heute"
+        },
+        {
+          "title": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "summary": "Zapret-discord-youtube ist ein Tool, das darauf abzielt, den Zugriff auf eingeschränkte Plattformen durch die Verschlüsselung des Netzwerkverkehrs oder die Verwendung von Paketfragmentierungsmethoden zu ermöglichen. Es wurde speziell entwickelt, um Zugangsbarrieren zu Diensten wie Discord und YouTube zu überwinden.",
+          "meta": "Batchfile · ★ 30.060 · +61 heute"
+        },
+        {
+          "title": "kunchenguid/no-mistakes",
+          "url": "https://github.com/kunchenguid/no-mistakes",
+          "summary": "No-Mistakes wurde mit der Go-Sprache entwickelt und ist ein Befehlszeilentool, das Softwareentwickler daran hindern soll, fehlerhaften Code einzureichen (Git Push). Durch die Ausführung in der lokalen Entwicklungsumgebung bietet es eine Sicherheitsebene, die verhindert, dass unerwünschte Änderungen in die Codebasis übertragen werden.",
+          "meta": "Go · ★ 2.519 · +110 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "OpenAI unveils its first custom chip, built by Broadcom",
+          "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+          "summary": "OpenAI kündigte Jalapeno an, den ersten maßgeschneiderten Chip, der in Zusammenarbeit mit Broadcom entwickelt wurde. Diese Hardware soll Inferenzprozesse beschleunigen und die Betriebskosten von Modellen der künstlichen Intelligenz senken.",
+          "meta": "663 Punkte · 372 Kommentare"
+        },
+        {
+          "title": "RubyLLM: A Ruby framework for all major AI providers",
+          "url": "https://rubyllm.com/",
+          "summary": "RubyLLM bietet ein Framework, das es Anwendungen, die mit der Programmiersprache Ruby entwickelt wurden, ermöglicht, auf verschiedene Anbieter künstlicher Intelligenz zuzugreifen. Dieses Tool standardisiert den Prozess, mit dem Entwickler große Sprachmodelle in ihre Ruby-basierten Projekte integrieren.",
+          "meta": "378 Punkte · 61 Kommentare"
+        },
+        {
+          "title": "Krea 2: SOTA open-weights 12B image model",
+          "url": "https://www.krea.ai/blog/krea-2-technical-report",
+          "summary": "Krea 2 ist ein offen gewichtetes Modell mit 12 Milliarden Parametern, das eine hohe Leistung bei Bilderzeugungsprozessen bietet. Dieses zur Verbesserung der visuellen Produktionsqualität optimierte Modell soll einen neuen Standard im Bereich der Bildsynthese setzen.",
+          "meta": "372 Punkte · 40 Kommentare"
+        },
+        {
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "summary": "Anthropic behauptet, Alibaba habe die Fähigkeiten des Claude-KI-Modells ohne Erlaubnis kopiert. Das Unternehmen argumentiert, dass Modellgewichte und Architekturmerkmale mit nicht autorisierten Methoden extrahiert wurden.",
+          "meta": "338 Punkte · 575 Kommentare"
+        },
+        {
+          "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
+          "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
+          "summary": "Secure Shell (SSH)-Tunnel werden zur sicheren Übertragung des Netzwerkverkehrs mithilfe lokaler und Remote-Port-Weiterleitungsmethoden verwendet. Dieser Leitfaden erklärt anhand praktischer Beispiele die technischen Prozesse, die durch die Verschlüsselung des Netzwerkverkehrs einen sicheren Datenzugriff zwischen verschiedenen Servern ermöglichen.",
+          "meta": "316 Punkte · 60 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "Qwythos-9B-Claude-Mythos-5-1M ist ein Sprachmodell, das die Textgenerierung mit erweiterter Kontextfensterunterstützung durchführt. Es wird im quantisierten GGUF-Format präsentiert, was den Betrieb auf Geräten mit geringen Ressourcen ermöglicht.",
+          "meta": "♥ 388 · 63.637 Downloads"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "LLM",
+      "explanation": "Ein fortschrittliches Modell der künstlichen Intelligenz, das durch das Erlernen der menschlichen Sprache neue Inhalte versteht, zusammenfasst oder produziert."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Ein digitaler Assistent, der mit seiner Umgebung interagiert und eigene Entscheidungen trifft, um die Befehle auszuführen, die er vom Benutzer erhält."
+    },
+    {
+      "term": "user interface",
+      "explanation": "Der visuelle Anzeige- und Steuerbereich, der es dem Benutzer ermöglicht, mit einem Gerät oder einer Software zu interagieren."
+    },
+    {
+      "term": "framework",
+      "explanation": "Eine Reihe vorgefertigter Strukturen und Regeln, die dazu dienen, die Arbeit bei der Entwicklung von Software zu beschleunigen."
+    },
+    {
+      "term": "infotainment systems",
+      "explanation": "Digitales Anzeigefeld in Fahrzeugen, das sowohl Navigations- als auch Unterhaltungsfunktionen wie Musik bietet."
+    },
+    {
+      "term": "agent development environment",
+      "explanation": "Benutzerdefinierte Softwareentwicklungsumgebung zum Erstellen, Testen und Verwalten von Assistenten für künstliche Intelligenz."
+    },
+    {
+      "term": "design systems",
+      "explanation": "Eine Standardbibliothek mit Farben, Schriftarten und Komponenten, die zur Gewährleistung der Konsistenz im Design einer Anwendung verwendet wird."
+    },
+    {
+      "term": "packet fragmentation",
+      "explanation": "Der Prozess der Aufteilung der über das Internet gesendeten Daten in kleinere Teile entsprechend der Übertragungskapazität des Netzwerks."
+    }
+  ]
+}

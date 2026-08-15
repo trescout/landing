@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-20",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "summary": "Dieses Open-Source-Buch über Agenten der künstlichen Intelligenz (KI-Agenten) behandelt umfassend Designprinzipien und technische Anwendungen. Neben theoretischen Informationen enthält es in Abschnitte unterteilte Anwendungscodes und zusammengestellte PDF-Dateien.",
+          "meta": "Python · ★ 7.362 · +1.734 heute"
+        },
+        {
+          "title": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "summary": "Ktransformers bietet ein flexibles Framework, das heterogene Hardwareoptimierungen bei den Inferenz- und Feinabstimmungsprozessen großer Sprachmodelle unterstützt. Diese Struktur zielt darauf ab, die Modellleistung durch effiziente Nutzung verschiedener Hardwareressourcen zu steigern.",
+          "meta": "Python · ★ 18.491 · +360 heute"
+        },
+        {
+          "title": "andrewrabert/jellium-desktop",
+          "url": "https://github.com/andrewrabert/jellium-desktop",
+          "summary": "Jellium-desktop ist ein inoffizieller Desktop-Client, der in Rust für den Medienserver Jellyfin entwickelt wurde. Die Software bietet eine native Schnittstelle, die es Benutzern ermöglicht, direkt über das Betriebssystem auf Medienbibliotheken zuzugreifen.",
+          "meta": "Rust · ★ 1.342 · +43 heute"
+        },
+        {
+          "title": "microsoft/terminal",
+          "url": "https://github.com/microsoft/terminal",
+          "summary": "Microsoft vereint Windows Terminal und den traditionellen Windows-Konsolenhost unter einem Dach. Dieses in der Sprache C++ entwickelte Open-Source-Projekt strukturiert die Befehlszeilenerfahrung mit einer modernen Benutzeroberfläche und anpassbaren Registerkarten neu.",
+          "meta": "C++ · ★ 104.241 · +59 heute"
+        },
+        {
+          "title": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "summary": "AstrBot ist ein Framework zur Entwicklung von Agenten für künstliche Intelligenz, das sich in verschiedene Instant-Messaging-Plattformen, große Sprachmodelle und Plug-Ins integrieren lässt. Dieses Python-basierte Tool ermöglicht die Erstellung anpassbarer KI-Assistenten als Open-Source-Alternative.",
+          "meta": "Python · ★ 36.787 · +83 heute"
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua zielt darauf ab, computergestützte Technologien mit Open-Source-Treibern und einem betriebssystemunabhängigen Flottenmanagement zu skalieren. Die Plattform bietet standardisierte Benchmarking-Tools für die Trainings-, Bewertungs- und Datengenerierungsprozesse von Modellen der künstlichen Intelligenz.",
+          "meta": "HTML · ★ 20.286 · +64 heute",
+          "returning": true
+        },
+        {
+          "title": "Canner/WrenAI",
+          "url": "https://github.com/Canner/WrenAI",
+          "summary": "WrenAI wurde von Canner entwickelt und ist ein Open-Source-Tool für generative Business Intelligence (generative BI), das Daten automatisch in Panels und Diagramme exportiert, indem es natürliche Sprache in Datenbankabfragen (Text-to-SQL) umwandelt. Die Plattform bietet zuverlässige Datenanalyseprozesse für KI-Agenten über eine verwaltbare Kontextschicht, die mehr als zwanzig Datenquellen unterstützt.",
+          "meta": "Python · ★ 16.314 · +121 heute"
+        },
+        {
+          "title": "PKUFlyingPig/cs-self-learning",
+          "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+          "summary": "Dieser von Studenten der Peking-Universität erstellte Leitfaden bietet eine umfassende Roadmap für diejenigen, die sich im Bereich Informatik selbstständig weiterbilden möchten. Es kombiniert einen breiten Lehrplan, von Kernkursen bis hin zu Spezialisierungen, mit Ressourcen und Lernmethoden.",
+          "meta": "HTML · ★ 74.290 · +134 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+          "url": "https://news.ycombinator.com/item?id=48968606",
+          "summary": "Ein Softwareentwickler hat ein 120.000 US-Dollar teures Automatisierungssystem für ein kommerzielles Bowlingcenter mit 1.600 US-Dollar teuren ESP32-Mikrocontrollern neu gestaltet. Diese mit eingebetteten Systemen entwickelte Lösung schafft eine kostengünstige Alternative zu teurer Industriehardware.",
+          "meta": "2.036 Punkte · 212 Kommentare"
+        },
+        {
+          "title": "Qwen 3.8",
+          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+          "summary": "Qwen 3.8 wurde von Alibaba entwickelt und führt ein neues Preis- und Token-Schema für große Sprachmodelle ein. Dieses Modell stellt Entwicklern über seine cloudbasierte Infrastruktur zugängliche Rechenkapazität zur Verfügung.",
+          "meta": "846 Punkte · 579 Kommentare"
+        },
+        {
+          "title": "Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "summary": "Claude Code begann, Bun als JavaScript-Laufzeitumgebung zu verwenden, um die Arbeitsumgebung zu beschleunigen. Ziel dieser Migration ist es, die Leistung von Entwicklertools durch die Integration von in Rust geschriebenen Infrastrukturkomponenten zu verbessern.",
+          "meta": "472 Punkte · 629 Kommentare"
+        },
+        {
+          "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+          "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+          "summary": "Skalierbares Produktions- und Lieferkettenmanagement im Hardware-Entwicklungsprozess stellen konkrete Herausforderungen dar, die softwareorientierte Unternehmer bewältigen können. Die Erfahrung aus dem Verkauf von 2.500 MIDI-Recordern zeigt, dass Hardware-Unternehmertum leichter zugänglich ist als gedacht.",
+          "meta": "461 Punkte · 209 Kommentare"
+        },
+        {
+          "title": "Minecraft: Java Edition now uses SDL3",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+          "summary": "Minecraft: Java Edition hat die Simple DirectMedia Layer-Bibliothek, die für die Grafik- und Eingabegeräteverwaltung verwendet wird, auf die dritte Version (SDL3) aktualisiert. Dieses Update modernisiert die Hardware-Interaktion des Spiels und sorgt für eine stabilere Leistungsinfrastruktur.",
+          "meta": "293 Punkte · 200 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Autonome Software, die selbstständig Entscheidungen treffen und zugewiesene Aufgaben Schritt für Schritt ausführen kann."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Umschulung einer Allzweck-KI mit einem kleinen Datensatz, um sich auf ein bestimmtes Thema zu spezialisieren."
+    },
+    {
+      "term": "desktop client",
+      "explanation": "Eine Softwareanwendung, die Sie auf Ihren Computer herunterladen und direkt auf dem Desktop verwenden."
+    },
+    {
+      "term": "console host",
+      "explanation": "Eine Fensterumgebung, in der textbasierte Befehle auf dem Computer ausgeführt und die Ergebnisse angezeigt werden."
+    },
+    {
+      "term": "development framework",
+      "explanation": "Ein Arbeitsframework, das die Arbeit bei der Entwicklung von Software beschleunigt und vorgefertigte Grundstrukturen bereitstellt."
+    }
+  ]
+}

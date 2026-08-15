@@ -24,5 +24,9 @@ Son instrucciones muy breves, vagas o carentes de contexto. Por ejemplo, simplem
 - [System Prompts](/es/dictionary/system-prompts/)
 - [AI Agent](/es/dictionary/ai-agent/)
 
+## Herramientas relacionadas
+- [AI Engineering from Scratch](/es/discover/ai-engineering-from-scratch/)
+- [Flue](/es/discover/flue/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/prompt/

@@ -27,5 +27,9 @@ Es estándar en casi todos los modelos de IA modernos que utilizan la arquitectu
 - [LLM](/es/dictionary/llm/)
 - [NLP](/es/dictionary/nlp/)
 
+## Herramientas relacionadas
+- [AI Engineering from Scratch](/es/discover/ai-engineering-from-scratch/)
+- [FlashKDA](/es/discover/flashkda/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/attention/

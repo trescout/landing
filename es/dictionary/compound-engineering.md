@@ -23,9 +23,13 @@ Garantizar que las piezas funcionen juntas requiere una planificación e ingenie
 
 
 ## Términos relacionados
+- [Compound Engineering](/es/dictionary/compound-engineering/)
 - [AI Agent](/es/dictionary/ai-agent/)
 - [Agentic AI](/es/dictionary/agentic-ai/)
 - [RAG](/es/dictionary/rag/)
+
+## Herramientas relacionadas
+- [Compound Engineering](/es/discover/compound-engineering-plugin/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/compound-engineering/

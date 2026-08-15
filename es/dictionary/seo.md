@@ -29,5 +29,10 @@ No, la calidad del contenido y el rendimiento técnico del sitio ahora son mucho
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
+## Herramientas relacionadas
+- [Nuxt](/es/discover/nuxt/)
+- [Marketingskills](/es/discover/marketingskills/)
+- [Open Seo](/es/discover/open-seo/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/seo/
