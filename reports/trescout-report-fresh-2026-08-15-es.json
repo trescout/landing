@@ -1,0 +1,247 @@
+{
+  "date": "2026-08-15",
+  "editorial": "Este informe incluye por primera vez las tendencias que destacaron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "Desarrollado por GitHub, Spec-kit es un conjunto de herramientas de Python que acelera los procesos de desarrollo basados ​​en especificaciones. Su objetivo es aumentar la calidad del código y la disciplina de desarrollo estableciendo estándares en proyectos de software.",
+          "meta": "Python · ★ 128.591 · +1.160 hoy",
+          "returning": true
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "La herramienta de edición de código Cursor ha publicado una especificación de complemento oficial para que los desarrolladores puedan crear sus propios complementos. Este estándar permite ampliar la funcionalidad del entorno de desarrollo de software con complementos basados ​​en TypeScript.",
+          "meta": "TypeScript · ★ 2.831 · +41 hoy",
+          "returning": true
+        },
+        {
+          "title": "deepseek-ai/awesome-deepseek-agent",
+          "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+          "summary": "compartido en GitHub, awesome-deepseek-agent es una colección de recursos que enumera agentes de inteligencia artificial (agentes de IA) desarrollados con modelos y herramientas de DeepSeek en este campo. Reúne proyectos e integraciones que ayudan a los desarrolladores a construir sistemas autónomos utilizando la infraestructura de DeepSeek.",
+          "meta": "★ 5.755 · +222 hoy"
+        },
+        {
+          "title": "rustdesk/rustdesk",
+          "url": "https://github.com/rustdesk/rustdesk",
+          "summary": "Desarrollada con Rust, RustDesk es una aplicación de escritorio remoto de código abierto que puedes alojar en tu propio servidor. Al ofrecer acceso y control remotos, este software crea una solución alternativa a los servicios pagos como TeamViewer.",
+          "meta": "Rust · ★ 120.685 · +143 hoy"
+        },
+        {
+          "title": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "summary": "ToolJet es una plataforma de creación de aplicaciones de código abierto para desarrollar herramientas internas, paneles y agentes de inteligencia artificial. Esta infraestructura basada en JavaScript permite a las empresas digitalizar flujos de trabajo complejos al reducir la necesidad de escribir código.",
+          "meta": "JavaScript · ★ 39.148 · +132 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+          "url": "https://z.ai/blog/glm-5.3",
+          "summary": "GLM-5.3, publicado por Z.ai, es un nuevo modelo de lenguaje grande que se utiliza en procesos de desarrollo de software e incluye capacidades de seguridad cibernética. El modelo está optimizado para un alto rendimiento en tareas complejas como codificación y análisis de sistemas.",
+          "meta": "1.054 puntos · 522 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49294997",
+              "popularity": 1054,
+              "engagementCount": 522
+            }
+          ]
+        },
+        {
+          "title": "Qwen 3.8 27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "summary": "Qwen 3.8 27B, el modelo de lenguaje grande desarrollado por Alibaba, ofrece inferencia de alto rendimiento con formato de datos de baja precisión (FP8). El modelo tiene como objetivo optimizar el equilibrio entre eficiencia y velocidad en tareas complejas con su estructura de 27 mil millones de parámetros.",
+          "meta": "978 puntos · 629 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49299605",
+              "popularity": 978,
+              "engagementCount": 629
+            }
+          ]
+        },
+        {
+          "title": "Why does Opus 5 feel worse to work with?",
+          "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+          "summary": "Los usuarios afirman que las versiones actuales de Claude 3 Opus, el modelo de lenguaje grande desarrollado por Anthropic, tienen un rendimiento inferior que las versiones anteriores y cometen más errores en tareas complejas. Esto pone en duda los efectos de los cambios en la calidad de respuesta del modelo en la experiencia del desarrollador.",
+          "meta": "813 puntos · 745 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49296740",
+              "popularity": 813,
+              "engagementCount": 745
+            }
+          ]
+        },
+        {
+          "title": "Firefox is now the last major browser that still supports uBlock Origin",
+          "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+          "summary": "Google Chrome ha completado su migración Manifest V3, que restringe el funcionamiento de extensiones como el bloqueador de contenido uBlock Origin. A pesar de este cambio tecnológico, Firefox es el único navegador importante que sigue siendo compatible con el popular bloqueador de anuncios uBlock Origin.",
+          "meta": "594 puntos · 216 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49303202",
+              "popularity": 594,
+              "engagementCount": 216
+            }
+          ]
+        },
+        {
+          "title": "Seven books I keep close because I love them",
+          "url": "https://blog.plover.com/2026/08/02/",
+          "summary": "Mark Dominus, conocido por su trabajo en desarrollo de software y lingüística, comparte siete libros básicos a los que consulta constantemente en su biblioteca personal. La lista se centra en obras que moldean la mentalidad de los profesionales del mundo del software con su profundidad técnica y calidad literaria.",
+          "meta": "317 puntos · 141 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49299675",
+              "popularity": 317,
+              "engagementCount": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Desarrollado por Alibaba, Qwen2.5-27B es un modelo de lenguaje grande multimodal que puede procesar datos de texto e imágenes. El modelo se destaca por su capacidad para generar respuestas basadas en texto mediante el análisis de contenido visual complejo.",
+          "meta": "♥ 9.189 · 2 descargas"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth ha introducido una versión optimizada del modelo Qwen2.5-32B (formato GGUF) que reduce el uso de memoria y aumenta la velocidad de entrenamiento. Esta versión permite que los modelos de lenguaje grandes se ejecuten de manera más eficiente, incluso en sistemas de gama baja.",
+          "meta": "♥ 887 · 0 descargas"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Maglev: Sliding Recurrent Memory",
+          "url": "https://huggingface.co/papers/2608.02870",
+          "summary": "Maglev es una arquitectura Transformer recurrente que generaliza el mecanismo de atención de la ventana deslizante mediante el uso de memoria de tamaño fijo. Gracias a su estructura paralelizable durante el entrenamiento, procesa contextos largos de manera eficiente combinando un modelo de precarga y decodificador con acceso al historial completo.",
+          "meta": "3 me gusta · 2 comentarios"
+        },
+        {
+          "title": "Thought-Level Beam Search for Reasoning",
+          "url": "https://huggingface.co/papers/2608.08020",
+          "summary": "La búsqueda de haces a nivel de pensamiento es un método que se centra en el uso más eficiente de la potencia de procesamiento en grandes modelos de razonamiento. Este enfoque tiene como objetivo optimizar los procesos de razonamiento dirigiendo los recursos de hardware a las soluciones más prometedoras.",
+          "meta": "4 me gusta · 2 comentarios"
+        },
+        {
+          "title": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections",
+          "url": "https://huggingface.co/papers/2608.06914",
+          "summary": "RibAssist 3D es un sistema de diagnóstico desarrollado para detectar y posicionar fracturas costales en tres dimensiones (3D) en imágenes de tomografía computarizada (TC). Su objetivo es determinar puntos de fractura con alta precisión haciendo coincidir imágenes tomadas desde dos ángulos diferentes.",
+          "meta": "0 me gusta · 2 comentarios"
+        },
+        {
+          "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
+          "url": "https://huggingface.co/papers/2608.13391",
+          "summary": "La destilación adaptada al contexto es un método desarrollado para proporcionar baja latencia y control en línea preciso en la producción de videos interactivos. Esta técnica entrena modelos de video autorregresivos, con el objetivo de garantizar que los modelos de los estudiantes se adapten a restricciones causales basadas únicamente en datos históricos.",
+          "meta": "4 me gusta · 2 comentarios"
+        },
+        {
+          "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
+          "url": "https://huggingface.co/papers/2608.09158",
+          "summary": "Los grandes modelos de audiolenguaje (LALM) pueden procesar señales de baja frecuencia que los humanos no pueden oír, lo que afecta su salida. Los investigadores revelan la vulnerabilidad de los modelos a estas señales con el método llamado Bloqueo intermitente de baja frecuencia, que desarrollaron para probar esta vulnerabilidad.",
+          "meta": "2 me gusta · 2 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "RISC-V: They Should Have Known Better",
+          "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+          "summary": "La arquitectura de procesador de código abierto RISC-V ha sido criticada por las complejidades del diseño de hardware y la arquitectura del conjunto de instrucciones (ISA). Los desarrolladores de software argumentan que esta arquitectura contiene algunos errores de diseño en cuanto a escalabilidad y seguridad en comparación con los estándares existentes.",
+          "meta": "34 puntos · 23 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better",
+              "popularity": 34,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "ActivityPub Won by Being Boring",
+          "url": "https://o.ee/blog/activitypub-won-by-being-boring/",
+          "summary": "El protocolo descentralizado de redes sociales ActivityPub ha ganado una amplia aceptación gracias a su estructura simple y sostenible que evita funciones complejas. Este enfoque demuestra la importancia de la simplicidad en el éxito a largo plazo de los estándares abiertos que permiten que las plataformas se comuniquen entre sí.",
+          "meta": "17 puntos · 8 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring",
+              "popularity": 17,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "Curl Performance",
+          "url": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+          "summary": "La herramienta de transferencia de datos curl realiza optimizaciones en el protocolo HTTP/3 y los procesos de administración de conexiones para mejorar el rendimiento de la red. Estas mejoras tienen como objetivo proporcionar una transferencia de datos más eficiente al reducir la latencia en sistemas de alto tráfico.",
+          "meta": "35 puntos · 6 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/avjfxw/curl_performance",
+              "popularity": 35,
+              "engagementCount": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Software de inteligencia artificial autónomo que toma decisiones por sí solo y utiliza herramientas para lograr determinados objetivos."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "El proceso de determinar todos los requisitos y reglas técnicas en detalle antes de comenzar a codificar el software."
+    },
+    {
+      "term": "plugin specification",
+      "explanation": "Un conjunto de reglas técnicas que se deben seguir para crear un complemento externo a un software."
+    },
+    {
+      "term": "cyber capabilities",
+      "explanation": "Capacidades y herramientas técnicas utilizadas para proteger o interferir con los sistemas digitales."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "FP8",
+      "explanation": "Un formato de datos que representa números en un espacio más pequeño para agilizar los cálculos de IA."
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "date": "2026-08-15",
+  "editorial": "A agenda atual é baseada em novas técnicas de busca que aumentam a capacidade de raciocínio em grandes modelos de linguagem e na rápida expansão de arquiteturas de modelos de código aberto. Em particular, 30 bilhões de modelos de nível de parâmetro, como Qwen e Muse, continuam a ultrapassar os limites em termos de eficiência de hardware e capacidades de codificação.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "O design de diagramas desenvolvido para Claude Code oferece 29 tipos diferentes de diagramas editoriais preparados diretamente em formato HTML e SVG sem usar software complexo. Esta ferramenta facilita a criação de gráficos fora do padrão em documentação técnica com seu design simples que reduz a confusão visual.",
+          "meta": "HTML · ★ 17.449 · +3.646 hoje"
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Desenvolvido pela Cactus Compute, o Needle é um pequeno modelo básico de 14 megabytes que pode ser executado em sistemas com hardware limitado, como smartphones e dispositivos vestíveis. Este projeto oferece uma alternativa leve e otimizada para executar recursos de IA em dispositivos locais (computação de ponta).",
+          "meta": "Python · ★ 5.678 · +662 hoje"
+        },
+        {
+          "title": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "summary": "Holehe é uma ferramenta Python que consulta se um endereço de e-mail é usado em plataformas como Twitter ou Instagram. Ele detecta a existência de contas associadas ao email relevante usando funções de redefinição de senha.",
+          "meta": "Python · ★ 12.887 · +427 hoje"
+        },
+        {
+          "title": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "summary": "Macro combina ferramentas de negócios como e-mail, chat, documentos, gerenciamento de tarefas e gerenciamento de relacionamento com o cliente (CRM) em um único espaço de trabalho. Graças à memória de inteligência artificial compartilhada, centraliza a colaboração da equipe conectando os dados em todas essas plataformas.",
+          "meta": "Rust · ★ 3.068 · +436 hoje"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot é uma ferramenta Python que automatiza a coleta de inteligência de código aberto (OSINT) para inteligência de ameaças e processos de mapeamento de superfície de ataque. Ele agrega automaticamente informações sobre seus ativos digitais, verificando fontes de dados na Internet.",
+          "meta": "Python · ★ 20.983 · +293 hoje"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite é um navegador rápido projetado para agentes de inteligência artificial realizarem automação do navegador. Ele permite que os usuários tomem medidas sem exigir intervenção manual, compartilhando o estado do navegador conectado com assistentes de codificação, como Codex ou Claude Code.",
+          "meta": "JavaScript · ★ 10.442 · +165 hoje"
+        },
+        {
+          "title": "holaboss-ai/holaOS",
+          "url": "https://github.com/holaboss-ai/holaOS",
+          "summary": "holaOS é uma plataforma de código aberto que permite aos usuários gerenciar agentes de IA como Claude Code e Codex em um único espaço de trabalho com navegador, arquivos e mais de cem integrações. Oferecendo uma estrutura de memória compartilhada, esta ferramenta permite utilizar seus próprios modelos ou escolher modelos prontos.",
+          "meta": "TypeScript · ★ 7.355 · +769 hoje"
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "Desenvolvido pelo GitHub, Spec-kit é um kit de ferramentas Python que acelera processos de desenvolvimento orientados por especificações. Tem como objetivo aumentar a qualidade do código e a disciplina de desenvolvimento, estabelecendo padrões em projetos de software.",
+          "meta": "Python · ★ 128.591 · +1.160 hoje"
+        },
+        {
+          "title": "lightningpixel/modly",
+          "url": "https://github.com/lightningpixel/modly",
+          "summary": "Modly é um aplicativo de desktop que gera modelos tridimensionais a partir de imagens ou comandos de texto. Funciona sem a necessidade de serviços baseados em nuvem, realizando todas as operações na unidade de processamento gráfico (GPU) local.",
+          "meta": "TypeScript · ★ 5.998 · +579 hoje"
+        },
+        {
+          "title": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "summary": "RAGFlow é um mecanismo de geração assistida por busca (RAG) de código aberto que cria uma camada de contexto avançada para grandes modelos de linguagem (LLM). O sistema combina a tecnologia RAG com recursos de agente para automatizar processos complexos de processamento de dados.",
+          "meta": "Go · ★ 88.424 · +473 hoje"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "A ferramenta de edição de código Cursor publicou uma especificação oficial de plugins para que os desenvolvedores possam criar seus próprios plugins. Este padrão permite estender a funcionalidade do ambiente de desenvolvimento de software com plugins baseados em TypeScript.",
+          "meta": "TypeScript · ★ 2.831 · +41 hoje"
+        },
+        {
+          "title": "deepseek-ai/awesome-deepseek-agent",
+          "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+          "summary": "compartilhado no GitHub, awesome-deepseek-agent é uma coleção de recursos que lista agentes de inteligência artificial (agentes de IA) desenvolvidos com modelos e ferramentas DeepSeek neste campo. Reúne projetos e integrações que ajudam desenvolvedores a construir sistemas autônomos utilizando a infraestrutura DeepSeek.",
+          "meta": "★ 5.755 · +222 hoje"
+        },
+        {
+          "title": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "summary": "A Semantica oferece uma infraestrutura nativa de gráficos que fornece gerenciamento contextual de dados e responsabilidade em sistemas de inteligência artificial. Desenvolvida com Python, esta ferramenta ajuda modelos de inteligência artificial a produzir resultados mais confiáveis ​​e rastreáveis, gerenciando relacionamentos de dados complexos.",
+          "meta": "Python · ★ 7.580 · +1.181 hoje"
+        },
+        {
+          "title": "rustdesk/rustdesk",
+          "url": "https://github.com/rustdesk/rustdesk",
+          "summary": "Desenvolvido com Rust, RustDesk é um aplicativo de desktop remoto de código aberto que você pode hospedar em seu próprio servidor. Oferecendo acesso e controle remotos, este software cria uma solução alternativa aos serviços pagos como o TeamViewer.",
+          "meta": "Rust · ★ 120.685 · +143 hoje"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut é um projeto de software desenvolvido como uma alternativa de código aberto à ferramenta de edição de vídeo CapCut. Este aplicativo, criado com a linguagem TypeScript, permite aos usuários gerenciar seus processos de edição de vídeo em seus próprios sistemas locais.",
+          "meta": "TypeScript · ★ 83.233 · +255 hoje"
+        },
+        {
+          "title": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "summary": "Unsloth fornece um ambiente nativo de trabalho e ajuste fino para modelos de linguagem grandes (LLM) e modelos de renderização. Esta ferramenta baseada em Python permite treinar modelos populares de inteligência artificial com mais rapidez e menor uso de memória.",
+          "meta": "Python · ★ 71.559 · +501 hoje"
+        },
+        {
+          "title": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "summary": "ToolJet é uma plataforma de criação de aplicativos de código aberto para o desenvolvimento de ferramentas internas, painéis e agentes de inteligência artificial. Essa infraestrutura baseada em JavaScript permite que as empresas digitalizem fluxos de trabalho complexos, reduzindo a necessidade de escrever código.",
+          "meta": "JavaScript · ★ 39.148 · +132 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+          "url": "https://z.ai/blog/glm-5.3",
+          "summary": "GLM-5.3, publicado pela Z.ai, é um novo modelo de linguagem grande usado em processos de desenvolvimento de software e inclui recursos de segurança cibernética. O modelo é otimizado para alto desempenho em tarefas complexas, como codificação e análise de sistema.",
+          "meta": "1.054 pontos · 522 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49294997",
+              "popularity": 1054,
+              "engagementCount": 522
+            }
+          ]
+        },
+        {
+          "title": "Qwen 3.8 27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "summary": "Qwen 3.8 27B, o grande modelo de linguagem desenvolvido pela Alibaba, oferece inferência de alto desempenho com formato de dados de baixa precisão (FP8). O modelo visa otimizar o equilíbrio entre eficiência e velocidade em tarefas complexas com sua estrutura de 27 bilhões de parâmetros.",
+          "meta": "978 pontos · 629 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49299605",
+              "popularity": 978,
+              "engagementCount": 629
+            }
+          ]
+        },
+        {
+          "title": "Why does Opus 5 feel worse to work with?",
+          "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+          "summary": "Os usuários afirmam que as versões atuais do Claude 3 Opus, o grande modelo de linguagem desenvolvido pela Anthropic, apresentam desempenho inferior às versões anteriores e cometem mais erros em tarefas complexas. Isso questiona os efeitos das mudanças na qualidade da resposta do modelo na experiência do desenvolvedor.",
+          "meta": "813 pontos · 745 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49296740",
+              "popularity": 813,
+              "engagementCount": 745
+            }
+          ]
+        },
+        {
+          "title": "Firefox is now the last major browser that still supports uBlock Origin",
+          "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+          "summary": "O Google Chrome concluiu sua migração do Manifest V3, que restringe o funcionamento de extensões como o bloqueador de conteúdo uBlock Origin. Apesar dessa mudança tecnológica, o Firefox é o único navegador importante que continua a oferecer suporte ao popular bloqueador de anúncios uBlock Origin.",
+          "meta": "594 pontos · 216 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49303202",
+              "popularity": 594,
+              "engagementCount": 216
+            }
+          ]
+        },
+        {
+          "title": "Seven books I keep close because I love them",
+          "url": "https://blog.plover.com/2026/08/02/",
+          "summary": "Mark Dominus, conhecido por seu trabalho em desenvolvimento de software e linguística, compartilha sete livros básicos que ele constantemente consulta em sua biblioteca pessoal. A lista concentra-se em obras que moldam a mentalidade dos profissionais do mundo do software com sua profundidade técnica e qualidade literária.",
+          "meta": "317 pontos · 141 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49299675",
+              "popularity": 317,
+              "engagementCount": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Desenvolvido pela Alibaba, Qwen2.5-27B é um modelo multimodal de linguagem grande que pode processar dados de texto e imagem. O modelo se destaca pela capacidade de gerar respostas baseadas em texto por meio da análise de conteúdo visual complexo.",
+          "meta": "♥ 9.189 · 2 downloads"
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "Muse-Glimmer-30B, desenvolvido pela Meta, é um modelo de linguagem multimodal (modelo multimodal) que pode processar dados visuais e textuais. Este modelo facilita a compreensão do conteúdo visual, analisando imagens complexas e gerando respostas baseadas em texto.",
+          "meta": "♥ 1.523 · 165.300 downloads"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Desenvolvido pela Alibaba, Qwen3.8-2.4T-A95B é um modelo de linguagem abrangente que se concentra nos recursos de geração de texto. Treinado em grandes conjuntos de dados, este modelo visa entregar alto desempenho em tarefas complexas de processamento de linguagem.",
+          "meta": "♥ 927 · 3.832 downloads"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "A Unsloth introduziu uma versão otimizada do modelo Qwen2.5-32B (formato GGUF) que reduz o uso de memória e aumenta a velocidade de treinamento. Esta versão permite que grandes modelos de linguagem sejam executados com mais eficiência, mesmo em sistemas de baixo custo.",
+          "meta": "♥ 887 · 0 downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, desenvolvido pela MiniMaxAI, é um modelo generativo de IA que cria vídeo usando entradas visuais e de texto. Ele permite aos usuários converter conteúdo estático em imagens em movimento.",
+          "meta": "♥ 3.925 · 1.997.541 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Maglev: Sliding Recurrent Memory",
+          "url": "https://huggingface.co/papers/2608.02870",
+          "summary": "Maglev é uma arquitetura Transformer recorrente que generaliza o mecanismo de atenção de janela deslizante usando memória de tamanho fixo. Graças à sua estrutura paralelizável durante o treinamento, ele processa contextos longos de forma eficiente, combinando um pré-preenchimento e um modelo de decodificador com acesso ao histórico completo.",
+          "meta": "3 curtidas · 2 comentários"
+        },
+        {
+          "title": "Thought-Level Beam Search for Reasoning",
+          "url": "https://huggingface.co/papers/2608.08020",
+          "summary": "A pesquisa de feixe em nível de pensamento é um método que se concentra no uso mais eficiente do poder de processamento em grandes modelos de raciocínio. Esta abordagem visa otimizar os processos de raciocínio direcionando recursos de hardware para as soluções mais promissoras.",
+          "meta": "4 curtidas · 2 comentários"
+        },
+        {
+          "title": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections",
+          "url": "https://huggingface.co/papers/2608.06914",
+          "summary": "RibAssist 3D é um sistema de diagnóstico desenvolvido para detectar e posicionar fraturas de costelas em três dimensões (3D) em imagens de tomografia computadorizada (TC). O objetivo é determinar pontos de fratura com alta precisão, combinando imagens tiradas de dois ângulos diferentes.",
+          "meta": "0 curtidas · 2 comentários"
+        },
+        {
+          "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
+          "url": "https://huggingface.co/papers/2608.13391",
+          "summary": "A destilação contextual é um método desenvolvido para fornecer baixa latência e controle on-line preciso na produção de vídeo interativo. Esta técnica treina modelos de vídeo autorregressivos, visando garantir que os modelos dos alunos se adaptem às restrições causais baseadas apenas em dados históricos.",
+          "meta": "4 curtidas · 2 comentários"
+        },
+        {
+          "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
+          "url": "https://huggingface.co/papers/2608.09158",
+          "summary": "Grandes modelos de linguagem de áudio (LALMs) podem processar sinais de baixa frequência que os humanos não conseguem ouvir, afetando sua saída. Os pesquisadores revelam a vulnerabilidade dos modelos a esses sinais com o método denominado Bloqueio Intermitente de Baixa Frequência, que desenvolveram para testar essa vulnerabilidade.",
+          "meta": "2 curtidas · 2 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "RISC-V: They Should Have Known Better",
+          "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+          "summary": "A arquitetura de processador de código aberto RISC-V foi criticada pelas complexidades no design de hardware e na arquitetura do conjunto de instruções (ISA). Os desenvolvedores de software argumentam que esta arquitetura contém alguns erros de design em termos de escalabilidade e segurança em comparação com os padrões existentes.",
+          "meta": "34 pontos · 23 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better",
+              "popularity": 34,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "ActivityPub Won by Being Boring",
+          "url": "https://o.ee/blog/activitypub-won-by-being-boring/",
+          "summary": "O protocolo descentralizado de rede social ActivityPub ganhou ampla aceitação graças à sua estrutura simples e sustentável que evita recursos complexos. Esta abordagem demonstra a importância da simplicidade no sucesso a longo prazo dos padrões abertos que permitem que as plataformas comuniquem entre si.",
+          "meta": "17 pontos · 8 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring",
+              "popularity": 17,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "Curl Performance",
+          "url": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+          "summary": "A ferramenta de transferência de dados curl realiza otimizações no protocolo HTTP/3 e nos processos de gerenciamento de conexão para melhorar o desempenho da rede. Essas melhorias visam proporcionar uma transferência de dados mais eficiente, reduzindo a latência em sistemas de alto tráfego.",
+          "meta": "35 pontos · 6 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/avjfxw/curl_performance",
+              "popularity": 35,
+              "engagementCount": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "foundation model",
+      "explanation": "Estrutura básica de IA pré-treinada com grandes quantidades de dados para realizar muitas tarefas diferentes."
+    },
+    {
+      "term": "edge computing",
+      "explanation": "Ganhar velocidade processando dados no ponto mais próximo do próprio dispositivo, em vez de servidores remotos no centro."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Sistema de gestão que permite às empresas acompanhar em um só lugar suas interações e informações históricas com seus clientes."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Um método de coleta e análise de informações de fontes disponíveis publicamente na Internet."
+    },
+    {
+      "term": "browser state",
+      "explanation": "Todas as informações armazenadas do seu navegador de internet, como abas abertas no momento, cookies e as contas nas quais você está conectado."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Software autônomo de inteligência artificial que toma decisões por conta própria e utiliza ferramentas para atingir determinados objetivos."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "O processo de determinação detalhada de todos os requisitos e regras técnicas antes de começar a codificar o software."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Processador especial usado para processar imagens em um computador e acelerar cálculos matemáticos pesados, como inteligência artificial."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Um método que permite que a inteligência artificial se beneficie de documentos atuais e privados, além de seu próprio conhecimento, na produção de respostas."
+    },
+    {
+      "term": "plugin specification",
+      "explanation": "Um conjunto de regras técnicas que devem ser seguidas para fazer um complemento externo a um software."
+    },
+    {
+      "term": "graph-native",
+      "explanation": "Uma estrutura de banco de dados especial que armazena e processa dados com base em seus relacionamentos entre si."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "O processo de reciclagem de uma inteligência artificial treinada para uso geral com um pequeno conjunto de dados para torná-la mais especialista em um assunto específico."
+    },
+    {
+      "term": "cyber capabilities",
+      "explanation": "Capacidades técnicas e ferramentas utilizadas para proteger ou interferir em sistemas digitais."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "FP8",
+      "explanation": "Um formato de dados que representa números em um espaço menor para agilizar os cálculos de IA."
+    }
+  ]
+}

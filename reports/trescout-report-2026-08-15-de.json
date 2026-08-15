@@ -1,0 +1,375 @@
+{
+  "date": "2026-08-15",
+  "editorial": "Die heutige Agenda basiert auf neuen Suchtechniken, die die Argumentationskapazität in großen Sprachmodellen erhöhen, und auf der schnellen Verbreitung von Open-Source-Modellarchitekturen. Insbesondere Modelle auf 30-Milliarden-Parameterebene wie Qwen und Muse verschieben weiterhin die Grenzen in Bezug auf Hardwareeffizienz und Codierungsfunktionen.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Das für Claude Code entwickelte Diagrammdesign bietet 29 verschiedene redaktionelle Diagrammtypen, die ohne den Einsatz komplexer Software direkt im HTML- und SVG-Format erstellt werden können. Mit seinem einfachen Design, das die visuelle Unordnung reduziert, erleichtert dieses Tool die Erstellung nicht standardmäßiger Grafiken in der technischen Dokumentation.",
+          "meta": "HTML · ★ 17.449 · +3.646 heute"
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Needle wurde von Cactus Compute entwickelt und ist ein kleines 14-Megabyte-Basismodell, das auf Systemen mit eingeschränkter Hardware wie Smartphones und tragbaren Geräten ausgeführt werden kann. Dieses Projekt bietet eine leichtgewichtige Alternative, die für die Ausführung von KI-Funktionen auf lokalen Geräten optimiert ist (Edge Computing).",
+          "meta": "Python · ★ 5.678 · +662 heute"
+        },
+        {
+          "title": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "summary": "Holehe ist ein Python-Tool, das abfragt, ob eine E-Mail-Adresse auf Plattformen wie Twitter oder Instagram verwendet wird. Es erkennt mithilfe von Funktionen zum Zurücksetzen des Passworts das Vorhandensein von Konten, die mit der entsprechenden E-Mail verknüpft sind.",
+          "meta": "Python · ★ 12.887 · +427 heute"
+        },
+        {
+          "title": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "summary": "Macro vereint Geschäftstools wie E-Mail, Chat, Dokumente, Aufgabenverwaltung und Kundenbeziehungsmanagement (CRM) in einem einzigen Arbeitsbereich. Dank des gemeinsamen Gedächtnisses der künstlichen Intelligenz zentralisiert es die Teamzusammenarbeit, indem es die Daten auf all diesen Plattformen verbindet.",
+          "meta": "Rust · ★ 3.068 · +436 heute"
+        },
+        {
+          "title": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "summary": "SpiderFoot ist ein Python-Tool, das die Sammlung von Open Source Intelligence (OSINT) für Bedrohungsinformationen und Angriffsflächen-Mapping-Prozesse automatisiert. Es aggregiert automatisch Informationen über Ihre digitalen Assets, indem es Datenquellen im Internet scannt.",
+          "meta": "Python · ★ 20.983 · +293 heute"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite ist ein schneller Webbrowser, der für Agenten der künstlichen Intelligenz entwickelt wurde, um eine Browserautomatisierung durchzuführen. Es ermöglicht Benutzern, ohne manuelles Eingreifen Maßnahmen zu ergreifen, indem sie ihren angemeldeten Browserstatus mit Codierungsassistenten wie Codex oder Claude Code teilen.",
+          "meta": "JavaScript · ★ 10.442 · +165 heute"
+        },
+        {
+          "title": "holaboss-ai/holaOS",
+          "url": "https://github.com/holaboss-ai/holaOS",
+          "summary": "holaOS ist eine Open-Source-Plattform, die es Benutzern ermöglicht, KI-Agenten wie Claude Code und Codex in einem einzigen Arbeitsbereich mit dem Browser, Dateien und über hundert Integrationen zu verwalten. Dieses Tool bietet eine gemeinsame Speicherstruktur und ermöglicht Ihnen die Verwendung Ihrer eigenen Modelle oder die Auswahl vorgefertigter Modelle.",
+          "meta": "TypeScript · ★ 7.355 · +769 heute"
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "Spec-kit wurde von GitHub entwickelt und ist ein Python-Toolkit, das spezifikationsgesteuerte Entwicklungsprozesse beschleunigt. Ziel ist es, die Codequalität und Entwicklungsdisziplin durch die Festlegung von Standards in Softwareprojekten zu erhöhen.",
+          "meta": "Python · ★ 128.591 · +1.160 heute"
+        },
+        {
+          "title": "lightningpixel/modly",
+          "url": "https://github.com/lightningpixel/modly",
+          "summary": "Modly ist eine Desktop-Anwendung, die aus Bildern oder Textbefehlen dreidimensionale Modelle generiert. Es funktioniert ohne Cloud-basierte Dienste, da alle Vorgänge auf der lokalen Grafikverarbeitungseinheit (GPU) ausgeführt werden.",
+          "meta": "TypeScript · ★ 5.998 · +579 heute"
+        },
+        {
+          "title": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "summary": "RAGFlow ist eine Open-Source-RAG-Engine (Fetch-Assisted Generation), die eine erweiterte Kontextschicht für große Sprachmodelle (LLM) erstellt. Das System kombiniert RAG-Technologie mit Agentenfähigkeiten, um komplexe Datenverarbeitungsprozesse zu automatisieren.",
+          "meta": "Go · ★ 88.424 · +473 heute"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Das Codebearbeitungstool Cursor hat eine offizielle Plugin-Spezifikation veröffentlicht, damit Entwickler ihre eigenen Plugins erstellen können. Dieser Standard ermöglicht es, die Funktionalität der Softwareentwicklungsumgebung mit TypeScript-basierten Plugins zu erweitern.",
+          "meta": "TypeScript · ★ 2.831 · +41 heute"
+        },
+        {
+          "title": "deepseek-ai/awesome-deepseek-agent",
+          "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+          "summary": "awesome-deepseek-agent, geteilt auf GitHub, ist eine Ressourcensammlung, die Agenten der künstlichen Intelligenz (KI-Agenten) auflistet, die mit DeepSeek-Modellen und -Tools in diesem Bereich entwickelt wurden. Es vereint Projekte und Integrationen, die Entwicklern beim Aufbau autonomer Systeme mithilfe der DeepSeek-Infrastruktur helfen.",
+          "meta": "★ 5.755 · +222 heute"
+        },
+        {
+          "title": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "summary": "Semantica bietet eine graphnative Infrastruktur, die kontextbezogenes Datenmanagement und Verantwortlichkeit in Systemen der künstlichen Intelligenz ermöglicht. Dieses mit Python entwickelte Tool hilft Modellen der künstlichen Intelligenz, durch die Verwaltung komplexer Datenbeziehungen zuverlässigere und nachvollziehbarere Ergebnisse zu erzielen.",
+          "meta": "Python · ★ 7.580 · +1.181 heute"
+        },
+        {
+          "title": "rustdesk/rustdesk",
+          "url": "https://github.com/rustdesk/rustdesk",
+          "summary": "RustDesk wurde mit Rust entwickelt und ist eine Open-Source-Remotedesktopanwendung, die Sie auf Ihrem eigenen Server hosten können. Diese Software bietet Fernzugriff und -steuerung und stellt eine alternative Lösung zu kostenpflichtigen Diensten wie TeamViewer dar.",
+          "meta": "Rust · ★ 120.685 · +143 heute"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut ist ein Softwareprojekt, das als Open-Source-Alternative zum Videobearbeitungstool CapCut entwickelt wurde. Diese mit der TypeScript-Sprache erstellte Anwendung ermöglicht es Benutzern, ihre Videobearbeitungsprozesse auf ihren eigenen lokalen Systemen zu verwalten.",
+          "meta": "TypeScript · ★ 83.233 · +255 heute"
+        },
+        {
+          "title": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "summary": "Unsloth bietet eine native Arbeits- und Feinabstimmungsumgebung für große Sprachmodelle (LLM) und Rendering-Modelle. Mit diesem Python-basierten Tool können Sie beliebte Modelle der künstlichen Intelligenz schneller und mit geringerem Speicherverbrauch trainieren.",
+          "meta": "Python · ★ 71.559 · +501 heute"
+        },
+        {
+          "title": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "summary": "ToolJet ist eine Open-Source-Plattform zur Anwendungserstellung für die Entwicklung interner Tools, Dashboards und Agenten für künstliche Intelligenz. Diese JavaScript-basierte Infrastruktur ermöglicht es Unternehmen, komplexe Arbeitsabläufe zu digitalisieren, indem sie die Notwendigkeit reduziert, Code zu schreiben.",
+          "meta": "JavaScript · ★ 39.148 · +132 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+          "url": "https://z.ai/blog/glm-5.3",
+          "summary": "GLM-5.3, veröffentlicht von Z.ai, ist ein neues großes Sprachmodell, das in Softwareentwicklungsprozessen verwendet wird und Cybersicherheitsfunktionen umfasst. Das Modell ist für eine hohe Leistung bei komplexen Aufgaben wie Codierung und Systemanalyse optimiert.",
+          "meta": "1.054 Punkte · 522 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49294997",
+              "popularity": 1054,
+              "engagementCount": 522
+            }
+          ]
+        },
+        {
+          "title": "Qwen 3.8 27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "summary": "Qwen 3.8 27B, das von Alibaba entwickelte große Sprachmodell, bietet leistungsstarke Inferenz mit einem Datenformat mit niedriger Präzision (FP8). Das Modell zielt mit seiner Struktur aus 27 Milliarden Parametern darauf ab, das Gleichgewicht zwischen Effizienz und Geschwindigkeit bei komplexen Aufgaben zu optimieren.",
+          "meta": "978 Punkte · 629 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49299605",
+              "popularity": 978,
+              "engagementCount": 629
+            }
+          ]
+        },
+        {
+          "title": "Why does Opus 5 feel worse to work with?",
+          "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+          "summary": "Benutzer geben an, dass aktuelle Versionen von Claude 3 Opus, dem von Anthropic entwickelten großen Sprachmodell, eine geringere Leistung als frühere Versionen erbringen und bei komplexen Aufgaben mehr Fehler machen. Dies stellt die Auswirkungen von Änderungen in der Antwortqualität des Modells auf die Entwicklererfahrung in Frage.",
+          "meta": "813 Punkte · 745 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49296740",
+              "popularity": 813,
+              "engagementCount": 745
+            }
+          ]
+        },
+        {
+          "title": "Firefox is now the last major browser that still supports uBlock Origin",
+          "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+          "summary": "Google Chrome hat seine Manifest V3-Migration abgeschlossen, die den Betrieb von Erweiterungen wie dem Inhaltsblocker uBlock Origin einschränkt. Trotz dieser Technologieänderung ist Firefox der einzige große Browser, der weiterhin den beliebten Werbeblocker uBlock Origin unterstützt.",
+          "meta": "594 Punkte · 216 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49303202",
+              "popularity": 594,
+              "engagementCount": 216
+            }
+          ]
+        },
+        {
+          "title": "Seven books I keep close because I love them",
+          "url": "https://blog.plover.com/2026/08/02/",
+          "summary": "Mark Dominus, bekannt für seine Arbeit in den Bereichen Softwareentwicklung und Linguistik, stellt sieben grundlegende Bücher vor, auf die er in seiner persönlichen Bibliothek ständig Bezug nimmt. Die Liste konzentriert sich auf Werke, die mit ihrer technischen Tiefe und literarischen Qualität die Denkweise von Fachleuten in der Softwarewelt prägen.",
+          "meta": "317 Punkte · 141 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49299675",
+              "popularity": 317,
+              "engagementCount": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B wurde von Alibaba entwickelt und ist ein multimodales großes Sprachmodell, das Text- und Bilddaten verarbeiten kann. Das Modell zeichnet sich durch seine Fähigkeit aus, durch die Analyse komplexer visueller Inhalte textbasierte Antworten zu generieren.",
+          "meta": "♥ 9.189 · 2 Downloads"
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "Muse-Glimmer-30B, entwickelt von Meta, ist ein multimodales Sprachmodell (multimodales Modell), das sowohl visuelle als auch Textdaten verarbeiten kann. Dieses Modell erleichtert das Verständnis visueller Inhalte, indem es komplexe Bilder analysiert und textbasierte Antworten generiert.",
+          "meta": "♥ 1.523 · 165.300 Downloads"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Qwen3.8-2.4T-A95B wurde von Alibaba entwickelt und ist ein umfassendes Sprachmodell, das sich auf Textgenerierungsfunktionen konzentriert. Dieses auf großen Datenmengen trainierte Modell zielt darauf ab, eine hohe Leistung bei komplexen Sprachverarbeitungsaufgaben zu liefern.",
+          "meta": "♥ 927 · 3.832 Downloads"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth hat eine optimierte Version des Qwen2.5-32B-Modells (GGUF-Format) eingeführt, die den Speicherverbrauch reduziert und die Trainingsgeschwindigkeit erhöht. Diese Version ermöglicht eine effizientere Ausführung großer Sprachmodelle, selbst auf Low-End-Systemen.",
+          "meta": "♥ 887 · 0 Downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "summary": "MiniMax-H3, entwickelt von MiniMaxAI, ist ein generatives KI-Modell, das Videos mithilfe visueller und Texteingaben erstellt. Es ermöglicht Benutzern, statische Inhalte in bewegte Bilder umzuwandeln.",
+          "meta": "♥ 3.925 · 1.997.541 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Maglev: Sliding Recurrent Memory",
+          "url": "https://huggingface.co/papers/2608.02870",
+          "summary": "Maglev ist eine wiederkehrende Transformer-Architektur, die den Sliding-Window-Attention-Mechanismus durch die Verwendung von Speicher mit fester Größe verallgemeinert. Dank seiner parallelisierbaren Struktur während des Trainings verarbeitet es lange Kontexte effizient, indem es ein Prefiller- und ein Decoder-Modell mit Zugriff auf den vollständigen Verlauf kombiniert.",
+          "meta": "3 Likes · 2 Kommentare"
+        },
+        {
+          "title": "Thought-Level Beam Search for Reasoning",
+          "url": "https://huggingface.co/papers/2608.08020",
+          "summary": "Die Strahlsuche auf Gedankenebene ist eine Methode, die sich auf die effizienteste Nutzung der Rechenleistung in großen Argumentationsmodellen konzentriert. Dieser Ansatz zielt darauf ab, Argumentationsprozesse zu optimieren, indem Hardwareressourcen auf die vielversprechendsten Lösungen gelenkt werden.",
+          "meta": "4 Likes · 2 Kommentare"
+        },
+        {
+          "title": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections",
+          "url": "https://huggingface.co/papers/2608.06914",
+          "summary": "RibAssist 3D ist ein Diagnosesystem, das entwickelt wurde, um Rippenfrakturen in drei Dimensionen (3D) auf Computertomographiebildern (CT) zu erkennen und zu positionieren. Ziel ist es, Bruchstellen mit hoher Genauigkeit zu bestimmen, indem Bilder aus zwei verschiedenen Winkeln verglichen werden.",
+          "meta": "0 Likes · 2 Kommentare"
+        },
+        {
+          "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
+          "url": "https://huggingface.co/papers/2608.13391",
+          "summary": "Die kontextbezogene Destillation ist eine Methode, die entwickelt wurde, um bei der interaktiven Videoproduktion eine geringe Latenz und eine präzise Online-Steuerung zu ermöglichen. Diese Technik trainiert autoregressive Videomodelle und soll sicherstellen, dass sich die Schülermodelle an kausale Einschränkungen anpassen, die nur auf historischen Daten basieren.",
+          "meta": "4 Likes · 2 Kommentare"
+        },
+        {
+          "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
+          "url": "https://huggingface.co/papers/2608.09158",
+          "summary": "Große Audio-Sprachmodelle (LALMs) können niederfrequente Signale verarbeiten, die Menschen nicht hören können, was sich auf ihre Ausgabe auswirkt. Forscher decken die Anfälligkeit von Modellen gegenüber diesen Signalen mit der Methode namens Intermittent Low-Frequency Lockout auf, die sie entwickelt haben, um diese Anfälligkeit zu testen.",
+          "meta": "2 Likes · 2 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "RISC-V: They Should Have Known Better",
+          "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+          "summary": "Die Open-Source-Prozessorarchitektur RISC-V wurde wegen der Komplexität des Hardwaredesigns und der Befehlssatzarchitektur (ISA) kritisiert. Softwareentwickler argumentieren, dass diese Architektur im Vergleich zu bestehenden Standards einige Designfehler in Bezug auf Skalierbarkeit und Sicherheit aufweist.",
+          "meta": "34 Punkte · 23 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better",
+              "popularity": 34,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "ActivityPub Won by Being Boring",
+          "url": "https://o.ee/blog/activitypub-won-by-being-boring/",
+          "summary": "Das dezentrale soziale Netzwerkprotokoll ActivityPub hat dank seiner einfachen und nachhaltigen Struktur, die komplexe Funktionen vermeidet, breite Akzeptanz gefunden. Dieser Ansatz zeigt, wie wichtig Einfachheit für den langfristigen Erfolg offener Standards ist, die es Plattformen ermöglichen, miteinander zu kommunizieren.",
+          "meta": "17 Punkte · 8 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring",
+              "popularity": 17,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "Curl Performance",
+          "url": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+          "summary": "Das Datenübertragungstool Curl führt Optimierungen am HTTP/3-Protokoll und an Verbindungsverwaltungsprozessen durch, um die Netzwerkleistung zu verbessern. Diese Verbesserungen zielen darauf ab, eine effizientere Datenübertragung durch Reduzierung der Latenz in Systemen mit hohem Datenverkehr zu ermöglichen.",
+          "meta": "35 Punkte · 6 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/avjfxw/curl_performance",
+              "popularity": 35,
+              "engagementCount": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "foundation model",
+      "explanation": "Grundlegende KI-Struktur, die mit riesigen Datenmengen vorab trainiert ist, um viele verschiedene Aufgaben auszuführen."
+    },
+    {
+      "term": "edge computing",
+      "explanation": "Steigern Sie die Geschwindigkeit, indem Sie Daten an dem Punkt verarbeiten, der dem Gerät am nächsten liegt, statt an entfernten Servern im Zentrum."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Managementsystem, das es Unternehmen ermöglicht, ihre Interaktionen und historischen Informationen mit ihren Kunden an einem Ort zu verfolgen."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Eine Methode zum Sammeln und Analysieren von Informationen aus öffentlich zugänglichen Quellen im Internet."
+    },
+    {
+      "term": "browser state",
+      "explanation": "Alle gespeicherten Informationen Ihres Internetbrowsers, wie aktuell geöffnete Tabs, Cookies und die Konten, bei denen Sie angemeldet sind."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonome Software für künstliche Intelligenz, die selbstständig Entscheidungen trifft und Tools nutzt, um bestimmte Ziele zu erreichen."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "Der Prozess der detaillierten Festlegung aller technischen Anforderungen und Regeln, bevor mit der Codierung der Software begonnen wird."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Spezieller Prozessor, der zur Verarbeitung von Bildern auf einem Computer und zur Beschleunigung umfangreicher mathematischer Berechnungen wie künstlicher Intelligenz verwendet wird."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Eine Methode, die es künstlicher Intelligenz ermöglicht, bei der Erstellung von Antworten zusätzlich zu ihrem eigenen Wissen auch aktuelle und private Dokumente zu nutzen."
+    },
+    {
+      "term": "plugin specification",
+      "explanation": "Eine Reihe technischer Regeln, die befolgt werden müssen, um ein externes Add-on zu einer Software zu erstellen."
+    },
+    {
+      "term": "graph-native",
+      "explanation": "Eine spezielle Datenbankstruktur, die Daten basierend auf ihren Beziehungen zueinander speichert und verarbeitet."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Der Prozess der Umschulung einer allgemein trainierten künstlichen Intelligenz mit einem kleinen Datensatz, um sie zu einem besseren Experten für ein bestimmtes Thema zu machen."
+    },
+    {
+      "term": "cyber capabilities",
+      "explanation": "Technische Fähigkeiten und Werkzeuge zum Schutz oder Eingriff in digitale Systeme."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "FP8",
+      "explanation": "Ein Datenformat, das Zahlen auf kleinerem Raum darstellt, um KI-Berechnungen schneller zu machen."
+    }
+  ]
+}

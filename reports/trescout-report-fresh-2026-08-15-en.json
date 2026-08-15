@@ -1,0 +1,247 @@
+{
+  "date": "2026-08-15",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "Developed by GitHub, Spec-kit is a Python toolkit that accelerates specification-driven development processes. It aims to increase code quality and development discipline by setting standards in software projects.",
+          "meta": "Python · ★ 128,591 · +1,160 today",
+          "returning": true
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Code editing tool Cursor has published an official plugin specification so developers can create their own plugins. This standard makes it possible to extend the functionality of the software development environment with TypeScript-based plugins.",
+          "meta": "TypeScript · ★ 2,831 · +41 today",
+          "returning": true
+        },
+        {
+          "title": "deepseek-ai/awesome-deepseek-agent",
+          "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+          "summary": "shared on GitHub, awesome-deepseek-agent is a resource collection that lists artificial intelligence agents (AI agents) developed with DeepSeek models and tools in this field. It brings together projects and integrations that help developers build autonomous systems using the DeepSeek infrastructure.",
+          "meta": "★ 5,755 · +222 today"
+        },
+        {
+          "title": "rustdesk/rustdesk",
+          "url": "https://github.com/rustdesk/rustdesk",
+          "summary": "Developed with Rust, RustDesk is an open source remote desktop application that you can host on your own server. Offering remote access and control, this software creates an alternative solution to paid services such as TeamViewer.",
+          "meta": "Rust · ★ 120,685 · +143 today"
+        },
+        {
+          "title": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "summary": "ToolJet is an open source application creation platform for developing in-house tools, dashboards and artificial intelligence agents. This JavaScript-based infrastructure enables businesses to digitize complex workflows by reducing the need to write code.",
+          "meta": "JavaScript · ★ 39,148 · +132 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+          "url": "https://z.ai/blog/glm-5.3",
+          "summary": "GLM-5.3, published by Z.ai, is a new large language model that is used in software development processes and includes cyber security capabilities. The model is optimized for high performance on complex tasks such as coding and system analysis.",
+          "meta": "1,054 points · 522 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49294997",
+              "popularity": 1054,
+              "engagementCount": 522
+            }
+          ]
+        },
+        {
+          "title": "Qwen 3.8 27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "summary": "Qwen 3.8 27B, the large language model developed by Alibaba, offers high-performance inference with low precision (FP8) data format. The model aims to optimize the balance of efficiency and speed in complex tasks with its structure of 27 billion parameters.",
+          "meta": "978 points · 629 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49299605",
+              "popularity": 978,
+              "engagementCount": 629
+            }
+          ]
+        },
+        {
+          "title": "Why does Opus 5 feel worse to work with?",
+          "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+          "summary": "Users state that current versions of Claude 3 Opus, the large language model developed by Anthropic, perform lower than previous versions and make more errors in complex tasks. This brings into question the effects of changes in the model's response quality on the developer experience.",
+          "meta": "813 points · 745 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49296740",
+              "popularity": 813,
+              "engagementCount": 745
+            }
+          ]
+        },
+        {
+          "title": "Firefox is now the last major browser that still supports uBlock Origin",
+          "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+          "summary": "Google Chrome has completed its Manifest V3 migration, which restricts the operation of extensions such as content blocker uBlock Origin. Despite this technology change, Firefox is the only major browser that continues to support the popular ad blocker uBlock Origin.",
+          "meta": "594 points · 216 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49303202",
+              "popularity": 594,
+              "engagementCount": 216
+            }
+          ]
+        },
+        {
+          "title": "Seven books I keep close because I love them",
+          "url": "https://blog.plover.com/2026/08/02/",
+          "summary": "Mark Dominus, known for his work on software development and linguistics, shares seven basic books that he constantly references in his personal library. The list focuses on works that shape the mindset of professionals in the software world with their technical depth and literary quality.",
+          "meta": "317 points · 141 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49299675",
+              "popularity": 317,
+              "engagementCount": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Developed by Alibaba, Qwen2.5-27B is a multi-modal large language model that can process text and image data. The model stands out with its ability to generate text-based responses by analyzing complex visual content.",
+          "meta": "♥ 9,189 · 2 downloads"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth has introduced an optimized version of the Qwen2.5-32B model (GGUF format) that reduces memory usage and increases training speed. This version enables large language models to run more efficiently, even on low-end systems.",
+          "meta": "♥ 887 · 0 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Maglev: Sliding Recurrent Memory",
+          "url": "https://huggingface.co/papers/2608.02870",
+          "summary": "Maglev is a recurrent Transformer architecture that generalizes the sliding-window attention mechanism by using fixed-size memory. Thanks to its parallelizable structure during training, it processes long contexts efficiently by combining a prefiller and a decoder model with access to the full history.",
+          "meta": "3 likes · 2 comments"
+        },
+        {
+          "title": "Thought-Level Beam Search for Reasoning",
+          "url": "https://huggingface.co/papers/2608.08020",
+          "summary": "Thought-level beam search is a method that focuses on the most efficient use of processing power in large reasoning models. This approach aims to optimize reasoning processes by directing hardware resources to the most promising solutions.",
+          "meta": "4 likes · 2 comments"
+        },
+        {
+          "title": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections",
+          "url": "https://huggingface.co/papers/2608.06914",
+          "summary": "RibAssist 3D is a diagnostic system developed to detect and position rib fractures in three dimensions (3D) on computed tomography (CT) images. It aims to determine fracture points with high accuracy by matching images taken from two different angles.",
+          "meta": "0 likes · 2 comments"
+        },
+        {
+          "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
+          "url": "https://huggingface.co/papers/2608.13391",
+          "summary": "Context-matched distillation is a method developed to provide low latency and precise online control in interactive video production. This technique trains autoregressive video models, aiming to ensure that the student models adapt to causal constraints based only on historical data.",
+          "meta": "4 likes · 2 comments"
+        },
+        {
+          "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
+          "url": "https://huggingface.co/papers/2608.09158",
+          "summary": "Large audio-language models (LALMs) can process low-frequency signals that humans cannot hear, affecting their output. Researchers reveal the vulnerability of models to these signals with the method called Intermittent Low-Frequency Lockout, which they developed to test this vulnerability.",
+          "meta": "2 likes · 2 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "RISC-V: They Should Have Known Better",
+          "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+          "summary": "The open source processor architecture RISC-V has been criticized for complexities on hardware design and instruction set architecture (ISA). Software developers argue that this architecture contains some design errors in scalability and security compared to existing standards.",
+          "meta": "34 points · 23 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better",
+              "popularity": 34,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "ActivityPub Won by Being Boring",
+          "url": "https://o.ee/blog/activitypub-won-by-being-boring/",
+          "summary": "Decentralized social networking protocol ActivityPub has gained wide acceptance thanks to its simple and sustainable structure that avoids complex features. This approach demonstrates the importance of simplicity in the long-term success of open standards that enable platforms to communicate with each other.",
+          "meta": "17 points · 8 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring",
+              "popularity": 17,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "Curl Performance",
+          "url": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+          "summary": "The data transfer tool curl performs optimizations on the HTTP/3 protocol and connection management processes to improve network performance. These improvements aim to provide more efficient data transfer by reducing latency in high-traffic systems.",
+          "meta": "35 points · 6 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/avjfxw/curl_performance",
+              "popularity": 35,
+              "engagementCount": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous artificial intelligence software that makes decisions on its own and uses tools to achieve certain goals."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "The process of determining all technical requirements and rules in detail before starting to code the software."
+    },
+    {
+      "term": "plugin specification",
+      "explanation": "A set of technical rules that must be followed in order to make an external add-on to a software."
+    },
+    {
+      "term": "cyber capabilities",
+      "explanation": "Technical capabilities and tools used to protect or interfere with digital systems."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "FP8",
+      "explanation": "A data format that represents numbers in a smaller footprint to make AI calculations faster."
+    }
+  ]
+}
