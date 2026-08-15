@@ -6,9 +6,6 @@ Meetily is an open source meeting assistant that processes meeting recordings lo
 - Rust
 - GitHub Trending · 2026-07-05
 
-## Update
-- August 2, 2026: Star 15,565 → 27,968, latest version v0.4.0 (June 5, 2026).
-
 ## What you get
 - All audio transcription and summarization takes place on your device.
 - It does not require a cloud connection, your data does not leave your computer.

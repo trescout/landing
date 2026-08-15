@@ -6,9 +6,6 @@ Last30days-skill oferece uma habilidade de inteligência artificial (habilidade 
 - Python
 - GitHub Trending · 2026-06-05
 
-## Atualizar
-- 2 de agosto de 2026: Star 27.863 → 56.777, versão mais recente v3.18.4 (28 de julho de 2026).
-
 ## O que você ganha
 - Ele sintetiza dados atuais de plataformas como Reddit, X, YouTube e Polymarket.
 - Ele fornece resumos verificáveis ​​com base na interação social e dados em tempo real.

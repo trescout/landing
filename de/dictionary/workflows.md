@@ -27,5 +27,9 @@ Ja, es ist eine bewährte Vorgehensweise, Arbeitsabläufe zu aktualisieren und e
 - [Pipelines](/de/dictionary/pipeline/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Gstack](/de/discover/gstack/)
+- [MinerU](/de/discover/mineru/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/workflows/

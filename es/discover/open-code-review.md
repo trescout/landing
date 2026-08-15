@@ -6,12 +6,6 @@ La herramienta de revisión de código fuente abierto desarrollada por Alibaba c
 - Go
 - GitHub Trending · 2026-07-24
 
-## Actualizar
-- 12 de agosto de 2026: Star 19.983 → 20.197, última versión v1.9.2 (12 de agosto de 2026).
-- 11 de agosto de 2026: Star 19,972 → 19,983, última versión v1.9.1 (11 de agosto de 2026).
-- 11 de agosto de 2026: Star 19,417 → 19,972, última versión v1.9.0 (10 de agosto de 2026).
-- 7 de agosto de 2026: Star 19,239 → 19,417, última versión v1.8.10 (7 de agosto de 2026).
-
 ## Qué aporta
 - Detección precisa de errores basada en líneas
 - Alta eficiencia con bajo consumo de tokens

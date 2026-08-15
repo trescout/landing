@@ -6,9 +6,6 @@ Apache Maven est un outil de gestion et de compréhension de projet (outil d'aut
 - Java
 - GitHub Trending · 2026-07-04
 
-## Mise à jour
-- 2 août 2026 : Star 5.250 → 5.292, dernière version maven-3.10.0-rc-1 (13 juillet 2026).
-
 ## Ce que ça vous apporte
 - Standardise les processus de création de logiciels
 - Fournit une gestion centralisée avec un modèle objet de projet
@@ -38,7 +35,6 @@ mvn package
 
 ## Pour commencer
 - Source officielle →
-Pour commencer à utiliser Apache Maven, vous pouvez visiter la page d'accueil officielle d'Apache Maven et obtenir la version actuelle à partir de la page de téléchargement. Pour les détails d'installation et d'utilisation, il est recommandé de consulter la section documentation sur la même page.
 
 ## Liens
 - Dépôt GitHub →

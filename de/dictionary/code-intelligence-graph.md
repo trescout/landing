@@ -24,5 +24,8 @@ Denn bei sehr großen Projekten lässt sich manuell nicht nachvollziehen, wo ein
 - [Coding Agent](/de/dictionary/coding-agent/)
 - [LSP](/de/dictionary/lsp/)
 
+## Verwandte Werkzeuge
+- [Code Review Graph](/de/discover/code-review-graph/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/code-intelligence-graph/

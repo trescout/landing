@@ -7,8 +7,42 @@ Avez-vous une base de code de 200 000 lignes ou une énorme archive de documents
 - MIT
 - GitHub Trending · 26 May 2026
 
-## Mise à jour
-- 1er août 2026 : Star 35.132 → 77.021, dernière version v2.9.0 (10 juillet 2026), référentiel déplacé, nouvelle adresse est Egonex-AI/Understand-Anything.
+## Ce que ça vous apporte
+- Vous pouvez résoudre un projet que vous ne connaissez pas en quelques minutes.
+- Vous pouvez produire instantanément du contenu avec la commande « Préparer un guide pour les débutants ».
+- « Où se trouve cette fonctionnalité et comment fonctionne-t-elle ? Vous pouvez connaître les détails en demandant :
+- Vous transformez vos propres archives de documents et de notes en un système interactif de questions-réponses sans avoir besoin de connaissances en codage.
+
+## Écrivez simplement ceci et demandez :
+- A quoi sert ce projet, comment ça marche ?
+- Créez un guide d'intégration pour un débutant.
+- Que fait exactement ce fichier, quelles sont ses dépendances ?
+
+## Qu'est-ce que ça fait ?
+Que fait ce projet et où dois-je chercher à apporter des modifications ?
+
+## Essayez-le en 2 minutes
+**Claude Code**
+
+```
+/plugin marketplace add Lum1104/Understand-Anything
+/plugin install understand-anything
+```
+
+**Codex · Antigravité · Gemini CLI · Curseur…**
+
+```
+curl -fsSL https://raw.githubusercontent.com/Lum1104/Understand-Anything/main/install.sh | bash
+```
+
+
+## Pourquoi est-ce à l’ordre du jour ?
+Parce qu’il est au centre de la tendance « comprendre le code et l’information en interrogeant l’IA ». En plus d'être une application autonome, elle est incluse en complément des assistants que vous utilisez (tels que Claude Code, Codex, Gemini CLI). Le fait qu'il ait été joué par plus de 4 700 développeurs en une seule journée témoigne de l'intérêt intense qu'il a suscité.
+
+## Limites · honnêtement
+- Ce n'est pas magique : la qualité des réponses dépend du modèle d'IA que vous utilisez.
+- Dans les projets très volumineux et compliqués, l’analyse initiale peut prendre du temps.
+- Vous devrez configurer un assistant IA (et souvent ouvrir un compte).
 
 ## Termes liés du glossaire
 

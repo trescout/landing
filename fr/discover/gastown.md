@@ -6,9 +6,6 @@ Gas Town propose une infrastructure qui permet à différents agents d'intellige
 - Go
 - GitHub Trending · 2026-07-06
 
-## Mise à jour
-- 2 août 2026 : Star 16 488 → 17 403, dernière version v1.2.1 (6 juin 2026).
-
 ## Ce que ça vous apporte
 - Coordonnez plusieurs agents d’intelligence artificielle à partir d’un seul centre.
 - Empêchez les agents de perdre le contexte lors des redémarrages.

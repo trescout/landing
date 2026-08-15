@@ -6,12 +6,6 @@ Desenvolvido pela BuilderIO, agent-native é uma estrutura TypeScript focada na 
 - TypeScript
 - GitHub Trending · 2026-06-20
 
-## Atualizar
-- 12 de agosto de 2026: Star 4.464 → 4.476, última versão @agent-native/dispatch@0.24.0 (11 de agosto de 2026).
-- 11 de agosto de 2026: Star 4.457 → 4.464, última versão @agent-native/dispatch@0.23.1 (11 de agosto de 2026).
-- 10 de agosto de 2026: Star 4.449 → 4.457, última versão @agent-native/core@0.148.1 (10 de agosto de 2026).
-- 9 de agosto de 2026: Star 4.442 → 4.449, última versão @agent-native/core@0.146.8 (8 de agosto de 2026).
-
 ## O que você ganha
 - Sincroniza o agente e a interface do usuário em um único banco de dados
 - Totalmente compatível com bancos de dados SQL e hospedagem com tecnologia Nitro

@@ -22,5 +22,15 @@ Das Fehlerprotokoll weist auf das Problem hin, erklärt jedoch nicht den Grund, 
 Für einfache Anwendungen mag das übertrieben sein, in Systemen der künstlichen Intelligenz, die aus vielen Teilen bestehen, ist es jedoch von entscheidender Bedeutung.
 
 
+## Verwandte Begriffe
+- [Observability](/de/dictionary/observability/)
+- [State Management](/de/dictionary/state-management/)
+- [Data Pipeline](/de/dictionary/data-pipeline/)
+- [API](/de/dictionary/api/)
+
+## Verwandte Werkzeuge
+- [Posthog](/de/discover/posthog/)
+- [iii](/de/discover/iii/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/observability/

@@ -26,5 +26,8 @@ Heutzutage unterstützen viele Tools viele Sprachen, darunter auch Türkisch.
 - [NLP](/de/dictionary/nlp/)
 - [AI-powered Note Analysis](/de/dictionary/ai-powered-note-analysis/)
 
+## Verwandte Werkzeuge
+- [Harper](/de/discover/harper/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/grammar-checker/

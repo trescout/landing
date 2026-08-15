@@ -27,5 +27,8 @@ Der Load Balancer hält die Site am Laufen, indem er sie auf andere Server umlei
 - [Reverse Proxy](/de/dictionary/reverse-proxy/)
 - [Runtime](/de/dictionary/runtime/)
 
+## Verwandte Werkzeuge
+- [MasterDnsVPN](/de/discover/masterdnsvpn/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/resolver-load-balancing/

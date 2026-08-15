@@ -6,10 +6,6 @@ Vibe-Trading propose un agent de trading personnel développé pour le trading s
 - Python
 - GitHub Trending · 2026-06-04
 
-## Mise à jour
-- 11 août 2026 : Star 29 309 → 30 558, dernière version v0.1.13 (10 août 2026).
-- 2 août 2026 : Star 10 343 → 29 309, dernière version v0.1.12 (22 juillet 2026).
-
 ## Ce que ça vous apporte
 - Gestion de stratégie automatisée avec agent commercial personnel.
 - Accès aux données de marché avec support multi-courtage.

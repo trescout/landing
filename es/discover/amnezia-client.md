@@ -6,9 +6,6 @@ El cliente Amnesia VPN es una herramienta de red de código abierto que permite 
 - C++
 - GitHub Trending · 2026-07-27
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 13,457 → 14,262, última versión 5.0.0.5 (26 de julio de 2026).
-
 ## Qué aporta
 - Acceso a Internet sin censura a través de su propio servidor
 - Protocolos de tunelización personalizables centrados en la privacidad

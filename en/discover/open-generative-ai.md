@@ -6,9 +6,6 @@ Open-Generative-AI is an open source studio platform with no content filtering a
 - JavaScript
 - GitHub Trending · 2026-06-28
 
-## Update
-- August 2, 2026: Star 21,507 → 25,418, last version v2.0.0 (May 23, 2026).
-
 ## What you get
 - More than 200 advanced AI models
 - No content filters or subscription fees

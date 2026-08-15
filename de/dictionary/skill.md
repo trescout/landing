@@ -29,5 +29,15 @@ Normalerweise werden API-Verbindungen oder spezielle Codeblöcke geschrieben, um
 - [Tools](/de/dictionary/tools/)
 - [AI Capabilities](/de/dictionary/ai-capabilities/)
 
+## Verwandte Werkzeuge
+- [Anthropic Skills](/de/discover/anthropic-skills/)
+- [Taste Skill](/de/discover/taste-skill/)
+- [Awesome Claude Skills](/de/discover/awesome-claude-skills/)
+- [Last30days Skill](/de/discover/last30days-skill/)
+- [OfficeCLI](/de/discover/officecli/)
+- [Reverse Skill](/de/discover/reverse-skill/)
+- [Book to Skill](/de/discover/book-to-skill/)
+- [Video Use](/de/discover/video-use/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/skill/

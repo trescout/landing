@@ -6,10 +6,6 @@ Open SEO oferece uma alternativa de código aberto para ferramentas pagas como S
 - TypeScript
 - GitHub Trending · 2026-06-26
 
-## Atualizar
-- 10 de agosto de 2026: Star 10.091 → 11.139, versão mais recente v0.1.4 (9 de agosto de 2026).
-- 2 de agosto de 2026: Star 2.736 → 10.091, versão mais recente v0.1.3 (30 de julho de 2026).
-
 ## O que você ganha
 - Pague apenas pelo que usar, sem taxas de assinatura
 - Análise direta de dados de SEO com agentes de inteligência artificial

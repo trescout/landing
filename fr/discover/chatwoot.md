@@ -5,9 +5,6 @@ Chatwoot est une plateforme open source qui offre un chat en direct, une assista
 - ★ 35 290
 - GitHub Trending · 2026-06-12
 
-## Mise à jour
-- 1er août 2026 : Star 30 493 → 35 290, dernière version v4.16.2 (27 juillet 2026).
-
 ## Ce que ça vous apporte
 - Il regroupe tous les canaux clients dans une seule boîte de réception.
 - Répond automatiquement aux questions de routine avec un assistant basé sur l'intelligence artificielle.

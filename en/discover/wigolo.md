@@ -6,9 +6,6 @@ Wigolo is a tool that provides local-first search, data extraction and crawling 
 - TypeScript
 - GitHub Trending · 2026-07-19
 
-## Update
-- August 2, 2026: Star 1,365 → 4,069, latest version v0.2.1 (July 19, 2026).
-
 ## What you get
 - Free search and scan with no API key required
 - Cloud-agnostic local data processing and caching

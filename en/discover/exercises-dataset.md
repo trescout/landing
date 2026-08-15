@@ -6,9 +6,6 @@ The exercise dataset (exercises-dataset) shared by Hasaneyldrm offers 433 differ
 - HTML
 - GitHub Trending · 2026-07-01
 
-## Update
-- August 2, 2026: Star 7,552 → 18,515.
-
 ## What you get
 - Structured data for 1,324 different fitness exercises
 - Step-by-step application instructions in 6 languages ​​including Turkish

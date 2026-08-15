@@ -12,7 +12,6 @@ System prompts and used language models (AI models) of popular artificial intell
 
 ## Getting started
 - Official source →
-This tool is an information archive that does not require any installation. You can visit the relevant repository page on GitHub through your browser to access the system instructions and model information of the artificial intelligence tools you want to examine.
 
 ## Related dictionary terms
 

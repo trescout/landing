@@ -27,5 +27,11 @@ In der modernen Welt erfolgt dies normalerweise automatisch; Sie senden den Code
 - [Compile-time](/de/dictionary/compile-time/)
 - [API](/de/dictionary/api/)
 
+## Verwandte Werkzeuge
+- [Rocket.Chat](/de/discover/rocket-chat/)
+- [Chatwoot](/de/discover/chatwoot/)
+- [Argo Cd](/de/discover/argo-cd/)
+- [Openship](/de/discover/openship/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/deployment/

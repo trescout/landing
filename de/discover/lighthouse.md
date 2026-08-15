@@ -6,11 +6,6 @@ Lighthouse ist ein in C-Sprache entwickeltes Code-Coverage-Tool, das für Low-Le
 - C
 - GitHub Trending · 2026-08-03
 
-## Aktualisieren
-- 9. August 2026: Star 324 → 334, neueste Version 1.0.3 (9. August 2026).
-- 6. August 2026: Star 260 → 324, neueste Version 1.0.2 (5. August 2026).
-- 3. August 2026: Star 259 → 260, neueste Version 1.0.1 (1. August 2026).
-
 ## Was es bringt
 - Bietet moderne Plattformunterstützung mit Originalspieldateien
 - Bietet Unterstützung für mehrsprachige Pakete und Mods

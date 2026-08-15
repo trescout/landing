@@ -6,11 +6,6 @@ Tailscale erleichtert den Aufbau sicherer Netzwerkverbindungen durch die Kombina
 - Go
 - GitHub Trending · 2026-07-11
 
-## Aktualisieren
-- 6. August 2026: Star 34.778 → 34.858, neueste Version v1.102.2 (4. August 2026).
-- 4. August 2026: Star 34.704 → 34.778, neueste Version v1.102.1 (3. August 2026).
-- 2. August 2026: Star 33.734 → 34.704, neueste Version v1.98.10 (28. Juli 2026).
-
 ## Was es bringt
 - Verschlüsselte Kommunikation mit WireGuard-Protokoll
 - Unterstützung der Zwei-Faktor-Authentifizierung

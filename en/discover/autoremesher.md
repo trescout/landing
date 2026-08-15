@@ -6,9 +6,6 @@ Autoremesher is a tool that automatically converts irregular surface structures 
 - C++
 - GitHub Trending · 2026-07-09
 
-## Update
-- August 2, 2026: Star 2,123 → 3,087, last version 1.0.0 (July 6, 2026).
-
 ## What you get
 - Transforms complex models into clean rectangular meshes
 - Provides optimized topology for animation processes

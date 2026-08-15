@@ -6,9 +6,6 @@ Os plug-ins OpenAI permitem que modelos de linguagem acessem dados atuais e inte
 - JavaScript
 - GitHub Trending · 2026-06-06
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 1.596 → 4.881.
-
 ## O que você ganha
 - Ele permite que modelos de linguagem acessem dados atualizados.
 - Permite interação com aplicativos de terceiros.

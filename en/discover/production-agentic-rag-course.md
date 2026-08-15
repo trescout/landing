@@ -5,9 +5,6 @@ Production-agentic-rag-course offers hands-on training in the development of age
 - ★ 8,216
 - GitHub Trending · 2026-06-03
 
-## Update
-- August 2, 2026: Star 6,536 → 8,216, last version week7.0 (November 26, 2025).
-
 ## What you get
 - Establishing the necessary infrastructure for RAG systems at the production level.
 - Applying hybrid search and intelligent data processing methods.

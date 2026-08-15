@@ -27,5 +27,8 @@ Nein, je nach Größe und Bedarf des Projekts werden unterschiedliche Werkzeugko
 - [Web Interface](/de/dictionary/web-interface/)
 - [Generative UI](/de/dictionary/generative-ui/)
 
+## Verwandte Werkzeuge
+- [CopilotKit](/de/discover/copilotkit/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/frontend-stack/

@@ -28,5 +28,12 @@ Es erledigt die meisten Standardaufgaben gut, erfordert aber in sehr komplexen o
 - [LLM](/de/dictionary/llm/)
 - [Agentic AI](/de/dictionary/agentic-ai/)
 
+## Verwandte Werkzeuge
+- [Opencode](/de/discover/opencode/)
+- [Openinterpreter](/de/discover/openinterpreter/)
+- [Continue](/de/discover/continue/)
+- [Kilocode](/de/discover/kilocode/)
+- [Oh My Pi](/de/discover/oh-my-pi/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/coding-agent/

@@ -27,5 +27,8 @@ Normalerweise muss Ihre Hardwareleistung höher sein als die des emulierten Ger�
 - [Sandbox](/de/dictionary/sandbox/)
 - [Virtual Machines](/de/dictionary/virtual-machines/)
 
+## Verwandte Werkzeuge
+- [Sharpemu](/de/discover/sharpemu/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/emulator/

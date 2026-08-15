@@ -6,10 +6,6 @@ Ansible é uma plataforma de automação de tecnologias de informação que auto
 - Python
 - GitHub Trending · 2026-07-04
 
-## Atualizar
-- 11 de agosto de 2026: Star 70.171 → 70.299, versão mais recente v2.21.3 (10 de agosto de 2026).
-- 2 de agosto de 2026: Star 69.245 → 70.171, versão mais recente v2.21.2 (13 de julho de 2026).
-
 ## O que você ganha
 - Gerencie sistemas remotos via SSH
 - Configurar sem instalar middleware
@@ -39,7 +35,6 @@ ansible-playbook site.yml
 
 ## Como começar
 - Fonte oficial →
-Para instalar o Ansible, você precisa visitar o guia de instalação no site oficial. Você pode encontrar etapas detalhadas para diferentes sistemas operacionais no guia de instalação na página de documentação oficial do Ansible.
 
 ## Termos relacionados do glossário
 

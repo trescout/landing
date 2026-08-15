@@ -7,13 +7,25 @@ Babysitter proporciona un mecanismo de control determinista para que una fuerza 
 - MIT
 - GitHub Trending · 1 Haziran 2026
 
-## Actualizar
-- 2 de agosto de 2026: Star 1.101 → 1.632, última versión v0.0.188 (26 de junio de 2026).
-
 ## Qué aporta
 - Supervisa la fuerza laboral del agente.
 - Reduce el riesgo de alucinaciones y errores.
 - Proporciona un flujo determinista y predecible.
+
+## ¿Cómo instalar, cómo utilizar?
+**Código Claude · mercado + instalación**
+
+```
+claude plugin marketplace add a5c-ai/babysitter
+claude plugin install --scope user babysitter@a5c.ai
+```
+
+**Ejecutar tarea con TDD**
+
+```
+claude "/babysitter:call implement user authentication with TDD"
+```
+
 
 ## Términos relacionados del glosario
 

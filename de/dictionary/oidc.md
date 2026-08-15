@@ -25,5 +25,8 @@ Nein, es wird lediglich eine digitale Bestätigung weitergegeben, dass Ihre Iden
 - [SSO](/de/dictionary/sso/)
 - [User Identifiers](/de/dictionary/user-identifiers/)
 
+## Verwandte Werkzeuge
+- [Logto](/de/discover/logto/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/oidc/

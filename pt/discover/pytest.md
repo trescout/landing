@@ -6,9 +6,6 @@ Pytest é uma estrutura de teste que oferece suporte a uma ampla variedade de te
 - Python
 - GitHub Trending · 2026-06-15
 
-## Atualizar
-- 2 de agosto de 2026: Star 14.015 → 14.382, última versão 9.1.1 (19 de junho de 2026).
-
 ## O que você ganha
 - Ele permite escrever testes unitários e funcionais abrangentes com menos código.
 - Ajuda a analisar os testes rapidamente, fornecendo informações detalhadas no momento do erro.

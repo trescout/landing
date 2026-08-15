@@ -6,10 +6,6 @@ O gráfico de revisão de código analisa a base de código e cria um mapa de in
 - Python
 - GitHub Trending · 2026-07-18
 
-## Atualizar
-- 9 de agosto de 2026: Star 28.041 → 29.487, versão mais recente v2.3.7 (18 de julho de 2026).
-- 2 de agosto de 2026: Star 19.852 → 28.041, versão mais recente v2.3.7 (18 de julho de 2026).
-
 ## O que você ganha
 - Analisa a base de código e apresenta apenas arquivos relevantes para inteligência artificial
 - Reduz significativamente o consumo de tokens em grandes projetos

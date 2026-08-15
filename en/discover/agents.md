@@ -6,10 +6,6 @@ LiveKit Agents is a Python framework used to develop real-time audio and video a
 - Python
 - GitHub Trending · 2026-08-04
 
-## Update
-- 7 August 2026: Star 12.125 → 12.727, last version livekit-agents@1.6.9 (7 August 2026).
-- 4 August 2026: Star 12.122 → 12.125, last version livekit-agents@1.6.8 (3 August 2026).
-
 ## What you get
 - Creates vocal interactions that produce human-like responses.
 - WebRTC media server is fully compatible with LiveKit.

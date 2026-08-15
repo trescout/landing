@@ -6,9 +6,6 @@ PyTorch es una biblioteca de aprendizaje automático que ofrece una potente acel
 - Python
 - GitHub Trending · 2026-07-03
 
-## Actualizar
-- 2 de agosto de 2026: Star 101,297 → 102,131, última versión v2.13.0 (8 de julio de 2026).
-
 ## Qué aporta
 - Cálculos de tensor de alto rendimiento impulsados por GPU
 - Desarrollo de modelos flexibles con redes neuronales dinámicas.

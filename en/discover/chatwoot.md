@@ -5,9 +5,6 @@ Chatwoot is an open source platform that offers live chat, email support and omn
 - ★ 35,290
 - GitHub Trending · 2026-06-12
 
-## Update
-- August 1, 2026: Star 30,493 → 35,290, latest version v4.16.2 (July 27, 2026).
-
 ## What you get
 - It combines all customer channels into a single inbox.
 - Automatically answers routine questions with an artificial intelligence-supported assistant.

@@ -5,9 +5,6 @@ Open-LLM-VTuber ermöglicht die freihändige Sprachinteraktion mit großen Sprac
 - ★ 13.042
 - GitHub Trending · 2026-06-03
 
-## Aktualisieren
-- 2. August 2026: Star 8.629 → 13.042, neueste Version v1.2.1 (26. August 2025).
-
 ## Was es bringt
 - Vollständiger Offline-Betrieb auf dem lokalen System
 - Echtzeit-Interaktion mit Live2D-Charakteren

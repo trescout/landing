@@ -24,5 +24,8 @@ Damit können Sie herausfinden, welcher Teil einer langsam laufenden Anwendung b
 - [Logs](/de/dictionary/logs/)
 - [API Gateway](/de/dictionary/api-gateway/)
 
+## Verwandte Werkzeuge
+- [Grafana](/de/discover/grafana/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/traces/

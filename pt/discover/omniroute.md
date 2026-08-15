@@ -6,12 +6,6 @@ OmniRoute é um gateway que oferece acesso gratuito combinando mais de 231 prove
 - TypeScript
 - GitHub Trending · 2026-07-01
 
-## Atualizar
-- 12 de agosto de 2026: Star 43.582 → 46.052, versão mais recente v3.8.49 (30 de julho de 2026).
-- 9 de agosto de 2026: Star 41.023 → 43.582, versão mais recente v3.8.49 (30 de julho de 2026).
-- 6 de agosto de 2026: Star 37.621 → 41.023, versão mais recente v3.8.49 (30 de julho de 2026).
-- 2 de agosto de 2026: Star 8.906 → 37.621, versão mais recente v3.8.49 (30 de julho de 2026).
-
 ## O que você ganha
 - Acesso de ponto único a 231 provedores diferentes de inteligência artificial
 - Economia de até 95% em moedas com compactação avançada

@@ -27,5 +27,9 @@ Es kann Hintergrundgeräusche automatisch schneiden, löschen oder Musik empfehl
 - [Multimodal](/de/dictionary/multimodal/)
 - [AI Agent](/de/dictionary/ai-agent/)
 
+## Verwandte Werkzeuge
+- [Palmier Pro](/de/discover/palmier-pro/)
+- [Clypra](/de/discover/clypra/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/video-editor/

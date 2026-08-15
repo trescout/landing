@@ -6,11 +6,6 @@ OfficeCLI propose une suite bureautique open source qui permet aux agents IA de 
 - C#
 - GitHub Trending · 2026-07-08
 
-## Mise à jour
-- 11 août 2026 : Star 25 967 → 27 506, dernière version v1.0.143 (28 juillet 2026).
-- 6 août 2026 : Star 24 245 → 25 967, dernière version v1.0.143 (28 juillet 2026).
-- 2 août 2026 : Étoile 10 491 → 24 245, dernière version v1.0.143 (28 juillet 2026).
-
 ## Ce que ça vous apporte
 - Modifiez des fichiers Word, Excel et PowerPoint avec du code
 - Effectuez des transactions directement sans installer de logiciel bureautique

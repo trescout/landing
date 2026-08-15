@@ -6,9 +6,6 @@ Wigolo é uma ferramenta que fornece recursos de pesquisa local, extração de d
 - TypeScript
 - GitHub Trending · 2026-07-19
 
-## Atualizar
-- 2 de agosto de 2026: Star 1.365 → 4.069, versão mais recente v0.2.1 (19 de julho de 2026).
-
 ## O que você ganha
 - Pesquisa e verificação gratuitas sem necessidade de chave API
 - Processamento e cache de dados locais independentes da nuvem

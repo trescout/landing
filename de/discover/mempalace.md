@@ -6,10 +6,6 @@ MemPalace bietet ein Open-Source-Speichersystem für Modelle der künstlichen In
 - Python
 - GitHub Trending · 2026-06-06
 
-## Aktualisieren
-- 12. August 2026: Star 57.977 → 58.311, neueste Version v3.7.0 (11. August 2026).
-- 2. August 2026: Star 53.981 → 57.977, neueste Version v3.6.0 (17. Juli 2026).
-
 ## Was es bringt
 - Es bietet eine semantische Suche, indem der Gesprächsverlauf unverändert bleibt.
 - Durch die Kategorisierung von Personen, Projekten und Themen entsteht eine organisierte Gedächtnisstruktur.

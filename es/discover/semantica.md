@@ -6,11 +6,6 @@ Semantica es una infraestructura nativa de gráficos que proporciona gestión de
 - Python
 - GitHub Trending · 2026-08-08
 
-## Actualizar
-- 12 de agosto de 2026: Star 3493 → 5094, última versión v0.6.5 (11 de agosto de 2026).
-- 10 de agosto de 2026: Star 2398 → 3493, última versión v0.6.0 (21 de julio de 2026).
-- 8 de agosto de 2026: Star 2396 → 2398, última versión v0.6.0 (21 de julio de 2026).
-
 ## Qué aporta
 - Hace que los procesos de decisión sean rastreables y auditables
 - Convierte datos en un gráfico de conocimiento relacional

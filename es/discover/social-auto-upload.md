@@ -7,15 +7,14 @@ social-auto-upload es una herramienta de Python que carga automáticamente sus v
 - Lisans: yok
 - GitHub Trending · 30 May 2026
 
-## Actualizar
-- 2 de agosto de 2026: Star 11.705 → 13.937, última versión oh-v1.0 (10 de abril de 2024).
-
 ## Qué aporta
 - Posibilidad de cargar en múltiples plataformas a la vez.
 - Automatización de procesos de distribución de contenidos.
 - Flujo de trabajo eficiente que ahorra tiempo.
 
 ## nota de responsabilidad
+
+## ¿Cómo instalar, cómo utilizar?
 **Iniciar sesión en una plataforma**
 
 ```

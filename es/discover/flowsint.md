@@ -5,9 +5,6 @@ Flowsint ofrece una plataforma de investigación visual, flexible y extensible b
 - ★ 7.528
 - GitHub Trending · 2026-06-03
 
-## Actualizar
-- 2 de agosto de 2026: Star 4693 → 7528, última versión v1.2.11 (1 de julio de 2026).
-
 ## Qué aporta
 - Analizar relaciones entre entidades en una interfaz gráfica visual.
 - Procese datos de IP, dominio y redes sociales con enriquecedores automáticos

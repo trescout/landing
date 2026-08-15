@@ -27,5 +27,8 @@ Da es sequentiell ist, müssen Sie Ihre Änderungen sorgfältig verwalten, um ei
 - [Git Push](/de/dictionary/git-push/)
 - [Checkout](/de/dictionary/checkout/)
 
+## Verwandte Werkzeuge
+- [Gh Stack](/de/discover/gh-stack/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/stacked-pull-requests/

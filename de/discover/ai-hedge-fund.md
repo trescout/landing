@@ -6,11 +6,6 @@ Der KI-Hedgefonds nutzt autonome Agenten, um Finanzmarktanalyse- und Vermögensv
 - Python
 - GitHub Trending · 2026-07-13
 
-## Aktualisieren
-- 7. August 2026: Star 62.684 → 62.721, neueste Version v2.2.0 (7. August 2026).
-- 6. August 2026: Star 62.606 → 62.684, neueste Version v2.1.0 (4. August 2026).
-- 2. August 2026: Star 61.500 → 62.606, neueste Version v2.0.2 (30. Juli 2026).
-
 ## Was es bringt
 - Autonome Agenten analysieren Finanzmarktdaten
 - Modellierung verschiedener Investmentschulen

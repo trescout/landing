@@ -27,5 +27,15 @@ Nein, die meisten KIs sind passive Systeme, die nur auf Ihren Befehl warten.
 - [Autonomous AI Agent](/de/dictionary/autonomous-ai-agent/)
 - [Agentic AI](/de/dictionary/agentic-ai/)
 
+## Verwandte Werkzeuge
+- [MinerU](/de/discover/mineru/)
+- [Claude Code Best Practice](/de/discover/claude-code-best-practice/)
+- [OpenMontage](/de/discover/openmontage/)
+- [Kilocode](/de/discover/kilocode/)
+- [Pm Skills](/de/discover/pm-skills/)
+- [Personal_AI_Infrastructure](/de/discover/personal-ai-infrastructure/)
+- [Production Agentic RAG Course](/de/discover/production-agentic-rag-course/)
+- [Ag Kit](/de/discover/ag-kit/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agentic/

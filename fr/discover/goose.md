@@ -6,9 +6,6 @@ Goose est un agent d'IA open source qui va au-delà des suggestions de code et a
 - Rust
 - GitHub Trending · 2026-06-08
 
-## Mise à jour
-- 2 août 2026 : Étoile 47 753 → 52 110, dernière version v1.45.0 (29 juillet 2026).
-
 ## Ce que ça vous apporte
 - Il automatise les processus d’installation, d’exécution et de test des logiciels.
 - Il fonctionne en intégration avec plus de 15 fournisseurs d'intelligence artificielle.

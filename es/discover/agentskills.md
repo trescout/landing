@@ -6,9 +6,6 @@ Agent Skills es un proyecto de documentación y especificación técnica que est
 - Python
 - GitHub Trending · 2026-07-03
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 21,721 → 23,755.
-
 ## Qué aporta
 - Cree paquetes de capacidades portátiles y estándar para agentes
 - Capacidad compartida y compatibilidad entre diferentes sistemas de agentes.
@@ -16,7 +13,6 @@ Agent Skills es un proyecto de documentación y especificación técnica que est
 
 ## Cómo empezar
 - Fuente oficial →
-Agent Skills es una instalación estándar más que de software. Para comenzar, puede revisar la documentación oficial en agenteskills.io, explorar el directorio de ejemplos en GitHub para ver capacidades de muestra y comenzar a desarrollar sus capacidades en esta estructura de carpetas de formato estándar.
 
 ## Términos relacionados del glosario
 

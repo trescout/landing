@@ -13,7 +13,6 @@ freeCodeCamp ist eine Open-Source-Lernplattform, die kostenlose Lehrmaterialien 
 
 ## So fangen Sie an
 - Offizielle Quelle →
-freeCodeCamp ist kein Softwaretool, sondern eine webbasierte Lernplattform. Sie benötigen keine Einrichtung, um loszulegen. Sie können direkt zu freeCodeCamp.org gehen, ein Konto erstellen und sofort auf den angebotenen kostenlosen Schulungslehrplan zugreifen.
 
 ## Links
 - GitHub-Repository →

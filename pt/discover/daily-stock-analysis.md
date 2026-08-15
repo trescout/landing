@@ -6,10 +6,6 @@ Apoiado em grandes modelos de linguagem, este sistema analisa dados de mercado d
 - Python
 - GitHub Trending · 2026-06-22
 
-## Atualizar
-- 10 de agosto de 2026: Star 59.863 → 61.388, versão mais recente v3.30.0 (9 de agosto de 2026).
-- 2 de agosto de 2026: Star 45.304 → 59.863, versão mais recente v3.29.0 (2 de agosto de 2026).
-
 ## O que você ganha
 - Relatórios de negociação automatizados com dados de mercado de várias fontes
 - Suporte a notificações push para aplicativos de mensagens

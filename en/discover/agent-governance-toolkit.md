@@ -6,9 +6,6 @@ The agent governance toolkit developed by Microsoft offers security layers such 
 - Python
 - GitHub Trending · 2026-07-29
 
-## Update
-- August 2, 2026: Star 5,342 → 5,564, latest version v4.1.0 (June 9, 2026).
-
 ## What you get
 - Policy control over agent actions
 - Zero trust authentication

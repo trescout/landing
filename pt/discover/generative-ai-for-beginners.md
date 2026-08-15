@@ -13,7 +13,6 @@ Este conteúdo de treinamento preparado pela Microsoft oferece um currículo de 
 
 ## Como começar
 - Fonte oficial →
-Para iniciar o conteúdo do treinamento, você pode visitar a página oficial no GitHub ou baixar os arquivos para o seu computador usando os comandos acima. Em seguida, basta seguir o guia na pasta ‘00-course-setup’ do repositório para preparar seu ambiente de desenvolvimento.
 
 ## Termos relacionados do glossário
 

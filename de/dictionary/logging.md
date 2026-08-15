@@ -24,5 +24,8 @@ Nein, zu viele Protokolle können das System verlangsamen und das Auffinden krit
 - [Traces](/de/dictionary/traces/)
 - [Logs](/de/dictionary/logs/)
 
+## Verwandte Werkzeuge
+- [Spdlog](/de/discover/spdlog/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/logging/

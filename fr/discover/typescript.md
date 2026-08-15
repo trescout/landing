@@ -6,9 +6,6 @@ TypeScript, un sur-ensemble du langage JavaScript, permet de vérifier les erreu
 - TypeScript
 - GitHub Trending · 2026-07-11
 
-## Mise à jour
-- 2 août 2026 : Star 109 817 → 110 042, dernière version v6.0.3 (16 avril 2026).
-
 ## Ce que ça vous apporte
 - Vérifier les erreurs lors de l'écriture du code
 - Fiabilité avec identification de type statique
@@ -38,7 +35,6 @@ tsc index.ts
 
 ## Pour commencer
 - Source officielle →
-Pour commencer à utiliser TypeScript, vous pouvez consulter le guide TypeScript en 5 minutes sur le site officiel ou essayer l'environnement TypeScript Playground qui s'exécute via le navigateur. Si vous souhaitez l'installer, vous pouvez l'inclure dans votre projet via le gestionnaire de packages npm.
 
 ## Termes liés du glossaire
 

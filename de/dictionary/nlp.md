@@ -26,7 +26,11 @@ Nein, Maschinen basieren tatsächlich auf statistischen Wahrscheinlichkeiten, es
 
 ## Verwandte Begriffe
 - [LLM](/de/dictionary/llm/)
+- [Tokenizer](/de/dictionary/tokenizer/)
 - [Transformer](/de/dictionary/transformer/)
+
+## Verwandte Werkzeuge
+- [Kronos](/de/discover/kronos/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/nlp/

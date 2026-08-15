@@ -24,5 +24,8 @@ Spezialisierte Wirkstoffe liefern wesentlich bessere Ergebnisse als ein einzelne
 - [Multi-agent](/de/dictionary/multi-agent/)
 - [Agentic Workflows](/de/dictionary/agentic-workflows/)
 
+## Verwandte Werkzeuge
+- [Herdr](/de/discover/herdr/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agent-multiplexer/

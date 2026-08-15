@@ -24,5 +24,8 @@ Die Anwendung verhält sich inkonsistent oder stürzt ab; Deshalb muss sehr sorg
 - [Runtime Environment](/de/dictionary/runtime-environment/)
 - [Context Window](/de/dictionary/context-window/)
 
+## Verwandte Werkzeuge
+- [Loopx](/de/discover/loopx/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/state-kernel/

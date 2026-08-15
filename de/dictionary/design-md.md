@@ -23,5 +23,9 @@ Da der Code immer komplexer wird, ist es notwendig, die Logik der getroffenen En
 - [Spec-driven Development](/de/dictionary/spec-driven-development/)
 - [Specification](/de/dictionary/specification/)
 
+## Verwandte Werkzeuge
+- [Awesome Design Md](/de/discover/awesome-design-md/)
+- [Design.md](/de/discover/design-md/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/design-md/

@@ -6,9 +6,6 @@ AI-berkshire est un cadre de recherche sur l'investissement de valeur qui met en
 - Python
 - GitHub Trending · 2026-06-26
 
-## Mise à jour
-- 2 août 2026 : Étoile 2 500 → 14 888, dernière version v1.0.0 (7 avril 2026).
-
 ## Ce que ça vous apporte
 - Analyse structurée avec la méthodologie de quatre maîtres d'investissement
 - Enquête oppositionnelle approfondie avec plusieurs agents IA

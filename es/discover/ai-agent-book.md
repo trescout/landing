@@ -6,11 +6,6 @@ Este libro de código abierto sobre agentes de inteligencia artificial (agentes 
 - Python
 - GitHub Trending · 2026-07-20
 
-## Actualizar
-- 9 de agosto de 2026: Estrella 33,116 → 34,874.
-- 6 de agosto de 2026: Estrella 29,814 → 33,116.
-- 2 de agosto de 2026: Estrella 7,362 → 29,814.
-
 ## Qué aporta
 - Conozca los principios de funcionamiento de los agentes de inteligencia artificial.
 - Adquiera habilidades prácticas con ejemplos de código prácticos

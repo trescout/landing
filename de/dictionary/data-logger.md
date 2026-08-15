@@ -27,5 +27,8 @@ Nein, der Sensor erfasst nur die Daten; Ein Datenlogger ist eine übergeordnete 
 - [Database](/de/dictionary/database/)
 - [Observability](/de/dictionary/observability/)
 
+## Verwandte Werkzeuge
+- [Teslamate](/de/discover/teslamate/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/data-logger/

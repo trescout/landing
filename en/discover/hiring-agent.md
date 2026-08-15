@@ -6,9 +6,6 @@ Hiring-agent is an artificial intelligence agent (AI agent) designed to evaluate
 - Python
 - GitHub Trending · 2026-06-25
 
-## Update
-- August 2, 2026: Star 2,482 → 6,694.
-
 ## What you get
 - It automatically parses resumes in PDF format.
 - It enriches candidates with GitHub data.

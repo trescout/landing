@@ -6,9 +6,6 @@ L'outil de transformation des données (dbt-core) permet aux analystes de donné
 - Rust
 - GitHub Trending · 2026-06-28
 
-## Mise à jour
-- 2 août 2026 : Star 13 271 → 13 561, dernière version v1.12.0 (16 juillet 2026).
-
 ## Ce que ça vous apporte
 - Transformation des données avec des pratiques de développement logiciel
 - Gestion des relations entre les modèles de données
@@ -32,7 +29,6 @@ dbt run
 
 ## Pour commencer
 - Source officielle →
-Vous pouvez accéder au guide d'installation en visitant la page de documentation officielle de dbt. Vous pouvez choisir l'une des options dbt Core ou Fusion en fonction de vos besoins et suivre les étapes d'installation sur votre ordinateur local.
 
 ## Termes liés du glossaire
 

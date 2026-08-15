@@ -5,9 +5,6 @@ TradingAgents é uma estrutura multiagente baseada em LLM desenvolvida para nego
 - ★ 95.338
 - GitHub Trending · 2026-06-02
 
-## Atualizar
-- 2 de agosto de 2026: Star 82.054 → 95.338, versão mais recente v0.3.1 (5 de julho de 2026).
-
 ## O que você ganha
 - Gerencia processos de análise financeira e desenvolvimento de estratégia com agentes autônomos.
 - Ele emprega funções especializadas, como analista, pesquisador e gerenciamento de risco em colaboração.

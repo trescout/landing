@@ -6,12 +6,6 @@ Graphify transforms different types of data such as code files, database schemas
 - Python
 - GitHub Trending · 2026-07-14
 
-## Update
-- August 12, 2026: Star 105,050 → 105,395, latest version v0.9.40 (August 11, 2026).
-- August 11, 2026: Star 104,693 → 105,050, latest version v0.9.39 (August 10, 2026).
-- 10 August 2026: Star 104.401 → 104.693, latest version v0.9.38 (9 August 2026).
-- 9 August 2026: Star 104.008 → 104.401, latest version v0.9.37 (8 August 2026).
-
 ## What you get
 - The code turns your files and documents into a queryable information network.
 - It uses native and fast tree-sitter technology for code analysis.

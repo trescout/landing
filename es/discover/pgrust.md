@@ -6,9 +6,6 @@ El proyecto pgrust, en el que se reescribió el sistema de gestión de bases de 
 - Rust
 - GitHub Trending · 2026-07-12
 
-## Actualizar
-- 2 de agosto de 2026: Star 2171 → 3957, lanzamiento de la versión final v0.2 (30 de julio de 2026).
-
 ## Qué aporta
 - Compatibilidad de disco con Postgres 18.3
 - Más de 46 mil éxitos en pruebas de regresión

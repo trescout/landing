@@ -5,9 +5,6 @@ Microsoft PowerToys ist eine Sammlung von Dienstprogrammen, die zur Steigerung d
 - ★ 137.392
 - GitHub Trending · 2026-06-13
 
-## Aktualisieren
-- 2. August 2026: Star 134.431 → 137.392, letzte Version v0.100.2 (26. Juni 2026).
-
 ## Was es bringt
 - Bietet Fensterbearbeitung und Bildschirmverwaltung
 - Bietet erweiterte Datei- und Textbearbeitung

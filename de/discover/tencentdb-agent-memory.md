@@ -6,12 +6,6 @@ TencentDB Agent Memory bietet eine vollständig lokale Langzeitspeicherlösung f
 - TypeScript
 - GitHub Trending · 2026-07-09
 
-## Aktualisieren
-- 12. August 2026: Star 18.953 → 20.021, neueste Version v2.0.0 (3. August 2026).
-- 10. August 2026: Star 17.887 → 18.953, neueste Version v2.0.0 (3. August 2026).
-- 8. August 2026: Star 16.699 → 17.887, neueste Version v2.0.0 (3. August 2026).
-- 7. August 2026: Star 15.363 → 16.699, neueste Version v2.0.0 (3. August 2026).
-
 ## Was es bringt
 - Reduziert den Token-Verbrauch um bis zu 61 %
 - Erhöht die Erfolgsquote bei komplexen Aufgaben

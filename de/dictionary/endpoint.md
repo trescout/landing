@@ -24,5 +24,8 @@ Denn die meisten Cyberangriffe beginnen damit, dass sie über einen schlecht ges
 - [VPN](/de/dictionary/vpn/)
 - [Security Scanner](/de/dictionary/security-scanner/)
 
+## Verwandte Werkzeuge
+- [OmniRoute](/de/discover/omniroute/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/endpoint/

@@ -5,9 +5,6 @@ Production-agentic-rag-course propose une formation pratique sur le développeme
 - ★ 8 216
 - GitHub Trending · 2026-06-03
 
-## Mise à jour
-- 2 août 2026 : Étoile 6 536 → 8 216, dernière version semaine 7.0 (26 novembre 2025).
-
 ## Ce que ça vous apporte
 - Établir l'infrastructure nécessaire pour les systèmes RAG au niveau de la production.
 - Application de méthodes de recherche hybride et de traitement de données intelligent.

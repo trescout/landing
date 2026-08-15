@@ -6,9 +6,6 @@ Développé par Salvatore Sanfilippo, le créateur de Redis, ds4 est un moteur d
 - C
 - GitHub Trending · 2026-08-03
 
-## Mise à jour
-- 11 août 2026 : Étoile 20 117 → 21 134.
-
 ## Ce que ça vous apporte
 - Exécute des modèles d'IA hautes performances sur du matériel grand public
 - Permet l'utilisation du modèle même avec une capacité de mémoire limitée en diffusant des données via SSD

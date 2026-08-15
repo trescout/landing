@@ -5,9 +5,6 @@ Desenvolvido com a linguagem Go, o Restic oferece um programa de backup de códi
 - ★ 35.302
 - GitHub Trending · 2026-06-12
 
-## Atualizar
-- 2 de agosto de 2026: Star 34.273 → 35.302, versão mais recente v0.19.1 (5 de julho de 2026).
-
 ## O que você ganha
 - Fornece alta segurança criptografando dados
 - Economiza espaço de armazenamento com backup incremental

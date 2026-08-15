@@ -6,9 +6,6 @@ Terax-ai, como um ambiente de desenvolvimento local de inteligência artificial 
 - TypeScript
 - GitHub Trending · 2026-07-05
 
-## Atualizar
-- 2 de agosto de 2026: Star 8.121 → 8.790, versão mais recente v0.8.6 (27 de julho de 2026).
-
 ## O que você ganha
 - Estrutura leve e rápida com tamanho de 7 a 8 MB
 - Integração de IA com modelos nativos e suporte de API

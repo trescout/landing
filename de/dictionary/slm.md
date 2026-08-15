@@ -26,6 +26,10 @@ Es ist schneller, verbraucht weniger Energie und ist sicherer, da Ihre Daten Ihr
 
 ## Verwandte Begriffe
 - [LLM](/de/dictionary/llm/)
+- [Quantization](/de/dictionary/quantization/)
+- [Offline](/de/dictionary/offline/)
+- [Open Weights](/de/dictionary/open-weights/)
+- [Distillation](/de/dictionary/distillation/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/slm/

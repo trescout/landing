@@ -6,9 +6,6 @@ MediaCrawler automatically collects posts and user comments on popular Chinese s
 - Python
 - GitHub Trending · 2026-06-26
 
-## Update
-- August 2, 2026: Star 53,062 → 59,631.
-
 ## What you get
 - Pulling posts and comments from popular platforms
 - Easy login with browser automation

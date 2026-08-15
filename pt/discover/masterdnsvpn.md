@@ -6,9 +6,6 @@ MasterDnsVPN é uma solução de rede privada virtual (VPN) de túnel de sistema
 - Go
 - GitHub Trending · 2026-06-11
 
-## Atualizar
-- 2 de agosto de 2026: Star 5.411 → 6.870, última versão v2026.06.13.234407-7de2476 (13 de junho de 2026).
-
 ## O que você ganha
 - Ele fornece transmissão de dados em redes censuradas através do método de tunelamento DNS.
 - Oferece multipathing e balanceamento de carga para baixa perda de pacotes e alta velocidade.

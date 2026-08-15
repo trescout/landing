@@ -6,10 +6,6 @@ Desarrollado para Chrome DevTools, este servidor permite codificar agentes de in
 - TypeScript
 - GitHub Trending · 2026-07-03
 
-## Actualizar
-- 11 de agosto de 2026: Star 48,381 → 48,884, última versión chrome-devtools-mcp-v1.7.0 (10 de agosto de 2026).
-- 2 de agosto de 2026: Star 45,204 → 48,381, última versión chrome-devtools-mcp-v1.6.0 (14 de julio de 2026).
-
 ## Qué aporta
 - Controla el navegador en vivo directamente
 - Automatización de análisis de rendimiento

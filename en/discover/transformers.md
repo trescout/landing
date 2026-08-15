@@ -6,9 +6,6 @@ Developed by Hugging Face, Transformers is a library used to train and run state
 - Python
 - GitHub Trending · 2026-08-12
 
-## Update
-- August 12, 2026: Star 163,880 → 163,881, latest version v5.15.0 (August 10, 2026).
-
 ## What you get
 - Provides access to text, image and sound models.
 - It makes it easier to fine-tune models.

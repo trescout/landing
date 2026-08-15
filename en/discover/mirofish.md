@@ -6,9 +6,6 @@ MiroFish offers a simple and universal swarm intelligence engine developed to pr
 - Python
 - GitHub Trending · 2026-06-06
 
-## Update
-- 2 August 2026: Star 64,830 → 69,813, latest version v0.1.2 (7 March 2026).
-
 ## What you get
 - Creates digital simulation worlds from real world data.
 - It enables interaction with artificial intelligence agents with independent personalities.

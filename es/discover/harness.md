@@ -7,9 +7,6 @@ Utilizando el sistema de equipo de agentes de Claude Code, Harness divide mision
 - Apache-2.0
 - GitHub Trending · 29 May 2026
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 4.063 → 8.581.
-
 ## Qué aporta
 - Divide misiones complejas en equipos de agentes especializados.
 - Desarrolla las habilidades que los equipos necesitan.
@@ -17,6 +14,15 @@ Utilizando el sistema de equipo de agentes de Claude Code, Harness divide mision
 
 ## Cómo empezar
 Agregado como habilidad a Claude Code; Luego, puedes pedirles que establezcan un equipo de agentes para el área que desees.
+
+## ¿Cómo instalar, cómo utilizar?
+**Código Claude · mercado + instalación**
+
+```
+/plugin marketplace add revfactory/harness
+/plugin install harness@harness-marketplace
+```
+
 
 ## Términos relacionados del glosario
 

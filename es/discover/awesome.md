@@ -12,7 +12,6 @@ Awesome Lists ofrece colecciones seleccionadas de recursos sobre una variedad de
 
 ## Cómo empezar
 - Fuente oficial →
-Esta herramienta no requiere instalación de software. Para encontrar la tecnología o el tema que le interesa, puede visitar el sitio web oficial, awesome.re, y acceder a los recursos que busca a través de listas categorizadas.
 
 ## Enlaces
 - Repositorio en GitHub →

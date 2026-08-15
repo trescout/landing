@@ -7,9 +7,6 @@ Este conjunto de complementos de código abierto de Anthropic reúne habilidades
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Actualizar
-- 1 de agosto de 2026: Estrella 16,517 → 23,222.
-
 ## Qué aporta
 - Especializa a Claude según su función (por ejemplo, marketing, finanzas, legal).
 - Cada complemento consta de un conjunto de habilidades, conectores y comandos, lo que proporciona un inicio rápido.
@@ -18,6 +15,21 @@ Este conjunto de complementos de código abierto de Anthropic reúne habilidades
 
 ## Cómo empezar
 Puede instalarlo desde el mercado de complementos de Claude Cowork. La lista de 11 complementos y sus funciones se incluyen en una tabla en el repositorio. Después de la instalación, Claude comienza a actuar como un experto en la función comercial correspondiente.
+
+## ¿Cómo instalar, cómo utilizar?
+**Agregar Marketplace + instalar un complemento de función**
+
+```
+claude plugin marketplace add anthropics/knowledge-work-plugins
+claude plugin install sales@knowledge-work-plugins
+```
+
+**Ejemplo: preparación de una reunión de ventas**
+
+```
+/sales:call-prep
+```
+
 
 ## Términos relacionados del glosario
 

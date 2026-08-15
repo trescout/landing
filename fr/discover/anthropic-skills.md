@@ -7,9 +7,6 @@ Compétences anthropiques ; Il s'agit du référentiel officiel des packs de co
 - Lisans: kontrol et
 - GitHub Trending · 29 May 2026
 
-## Mise à jour
-- 2 août 2026 : Étoile 143 307 → 165 785.
-
 ## Ce que ça vous apporte
 - Capacités prêtes et formelles pour Claude.
 - Chargement dynamique : n’intervient que lorsque cela est nécessaire.
@@ -17,6 +14,20 @@ Compétences anthropiques ; Il s'agit du référentiel officiel des packs de co
 
 ## Comment utiliser ?
 Vous définissez la compétence pertinente comme une compétence pour Claude (ex. Claude Code ou Cowork) ; De cette façon, vos performances dans des tâches spéciales augmentent.
+
+## Comment installer, comment utiliser ?
+**Ajouter une place de marché (Claude Code)**
+
+```
+/plugin marketplace add anthropics/skills
+```
+
+**Développez vos compétences documentaires**
+
+```
+/plugin install document-skills@anthropic-agent-skills
+```
+
 
 ## Termes liés du glossaire
 

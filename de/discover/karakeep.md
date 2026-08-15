@@ -6,10 +6,6 @@ Karakeep ist eine selbsthostbare Content-Management-Anwendung, die Links, Notize
 - TypeScript
 - GitHub Trending · 2026-07-07
 
-## Aktualisieren
-- 12. August 2026: Star 28.017 → 28.260, neueste Version v0.33.2 (11. August 2026).
-- 2. August 2026: Star 27.033 → 28.017, neueste Version v0.33.1 (1. August 2026).
-
 ## Was es bringt
 - Sammeln Sie Links, Notizen und Dateien an einem zentralen Ort.
 - Automatisches Tagging und Zusammenfassung mit künstlicher Intelligenz.
@@ -25,7 +21,6 @@ brew install karakeep
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Zur Installation können Sie der Docker-Installationsanleitung auf der offiziellen Dokumentationsseite folgen. Detaillierte Schritte und Konfigurationsoptionen finden Sie in der Installationsanleitung unter docs.karakeep.app.
 
 ## Verwandte Begriffe aus dem Glossar
 

@@ -25,6 +25,12 @@ Sie können Fehler machen, daher sind Rückverfolgbarkeit und Sicherheit des Sys
 ## Verwandte Begriffe
 - [AI Agent](/de/dictionary/ai-agent/)
 - [Autonomous AI Agent](/de/dictionary/autonomous-ai-agent/)
+- [Agentic Engineering Platform](/de/dictionary/agentic-engineering-platform/)
+
+## Verwandte Werkzeuge
+- [Claude Code Best Practice](/de/discover/claude-code-best-practice/)
+- [Kilocode](/de/discover/kilocode/)
+- [GLM 5](/de/discover/glm-5/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agentic-engineering/

@@ -6,9 +6,6 @@ This resource, shared by Harvard University, offers a comprehensive technical gu
 - Python
 - GitHub Trending · 2026-07-03
 
-## Update
-- 2 August 2026: Star 25,784 → 27,689, last version tinytorch-v0.1.13 (24 June 2026).
-
 ## What you get
 - Learning the design and engineering principles of artificial intelligence systems
 - Building your own machine learning framework from scratch
@@ -16,7 +13,6 @@ This resource, shared by Harvard University, offers a comprehensive technical gu
 
 ## Getting started
 - Official source →
-To get started with this project, you can visit the official website mlsysbook.ai. You can start your learning process by combining theoretical knowledge with practical work through the textbook, interactive laboratories and TinyTorch modules on the site.
 
 ## Related dictionary terms
 

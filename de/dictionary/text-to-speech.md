@@ -24,5 +24,16 @@ Die Natürlichkeit kann je nach Qualität des verwendeten Modells und der Vielfa
 Ja, mit Voice-Cloning-Technologien können Sie Ihre eigene Stimme in das System einbringen und die Texte mit Ihrer eigenen Stimme vorlesen lassen.
 
 
+## Verwandte Begriffe
+- [Speech Synthesis](/de/dictionary/speech-synthesis/)
+- [Voice Cloning](/de/dictionary/voice-cloning/)
+- [AI Skills](/de/dictionary/ai-skills/)
+
+## Verwandte Werkzeuge
+- [Voicebox](/de/discover/voicebox/)
+- [VoxCPM](/de/discover/voxcpm/)
+- [Pocket TTS](/de/discover/pocket-tts/)
+- [MOSS-TTS](/de/discover/moss-tts/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/text-to-speech/

@@ -23,6 +23,8 @@ Ja, der Prozess wird automatisch ausgelöst, wenn Daten ohne menschliches Eingre
 
 
 ## Verwandte Begriffe
+- [Data Pipeline](/de/dictionary/data-pipeline/)
+- [Document Parsing](/de/dictionary/document-parsing/)
 - [RAG](/de/dictionary/rag/)
 - [Embedding](/de/dictionary/embedding/)
 

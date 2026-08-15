@@ -24,6 +24,11 @@ Es ermöglicht uns, repetitive und planungsintensive Aufgaben vollständig auf k
 
 ## Verwandte Begriffe
 - [AI Agent](/de/dictionary/ai-agent/)
+- [Self-orchestration](/de/dictionary/self-orchestration/)
+- [Compound Engineering](/de/dictionary/compound-engineering/)
+
+## Verwandte Werkzeuge
+- [Personal_AI_Infrastructure](/de/discover/personal-ai-infrastructure/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agentic-ai/

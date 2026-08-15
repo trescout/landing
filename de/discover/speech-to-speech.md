@@ -6,12 +6,6 @@ Die von Hugging Face entwickelte Speech-to-Speech-Bibliothek ermöglicht die Ers
 - Python
 - GitHub Trending · 2026-07-29
 
-## Aktualisieren
-- 12. August 2026: Star 11.283 → 12.310, neueste Version v0.2.12 (5. August 2026).
-- 6. August 2026: Star 10.774 → 11.283, neueste Version v0.2.12 (5. August 2026).
-- 4. August 2026: Star 10.402 → 10.774, neueste Version v0.2.11 (3. August 2026).
-- 2. August 2026: Star 7.443 → 10.402, neueste Version v0.2.10 (11. Juni 2026).
-
 ## Was es bringt
 - Modulare Audiolinie mit geringer Latenz
 - OpenAI Realtime-kompatible WebSocket-Unterstützung

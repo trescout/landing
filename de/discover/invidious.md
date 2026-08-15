@@ -6,10 +6,6 @@ Invidious ist eine Open-Source-Schnittstelle, die als Alternative zur YouTube-Pl
 - Crystal
 - GitHub Trending · 2026-08-02
 
-## Aktualisieren
-- 6. August 2026: Star 21.884 → 22.400, neueste Version v2.20260804.1 (5. August 2026).
-- 2. August 2026: Star 21.676 → 21.884, neueste Version v2.20260723.0 (23. Juli 2026).
-
 ## Was es bringt
 - Sehen Sie sich YouTube-Videos ohne Werbung und Datenverfolgung an
 - Abonnieren Sie Kanäle, ohne ein Google-Konto zu benötigen
@@ -33,7 +29,6 @@ docker compose up -d
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Sie benötigen keine Installation, um Invidious zu nutzen. Sie können einen Server auswählen, indem Sie über Ihren Internetbrowser zur öffentlichen Probenliste gehen und sofort mit dem Ansehen von Videos beginnen. Wenn Sie Ihren eigenen Server einrichten möchten, können Sie die Installationsschritte auf der offiziellen Dokumentationsseite befolgen.
 
 ## Links
 - GitHub-Repository →

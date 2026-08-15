@@ -5,9 +5,6 @@ A diferencia de los marcos tradicionales, Svelte utiliza un enfoque en tiempo de
 - ★ 87.724
 - GitHub Trending · 2026-06-07
 
-## Actualizar
-- 2 de agosto de 2026: Star 87.060 → 87.724, última versión svelte@5.56.8 (24 de julio de 2026).
-
 ## Qué aporta
 - Reduce la carga del tiempo de ejecución en el navegador.
 - Convierte códigos en módulos JavaScript de ejecución rápida

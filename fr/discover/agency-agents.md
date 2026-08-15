@@ -6,9 +6,6 @@ Le projet Agency-agents crée une structure d’agence digitale en réunissant d
 - Shell
 - GitHub Trending · 2026-06-12
 
-## Mise à jour
-- 2 août 2026 : Étoile 111 887 → 138 170.
-
 ## Ce que ça vous apporte
 - Il optimise les workflows avec des agents d’intelligence artificielle spécialisés selon leurs domaines d’expertise.
 - Fournit un soutien professionnel dans des processus tels que le développement de logiciels, la validation des données et la production de contenu.

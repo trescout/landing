@@ -6,9 +6,6 @@ Développé par la NASA, F´ est un framework open source conçu pour les logici
 - C++
 - GitHub Trending · 2026-07-12
 
-## Mise à jour
-- 2 août 2026 : Star 11 523 → 11 610, dernière version v4.2.2 (24 avril 2026).
-
 ## Ce que ça vous apporte
 - Structure modulaire pour engins spatiaux et systèmes embarqués
 - Environnement de développement logiciel rapide basé sur des composants

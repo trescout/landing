@@ -6,9 +6,6 @@ Developed by Google, Abseil offers open source code snippets that complement the
 - C++
 - GitHub Trending · 2026-07-11
 
-## Update
-- August 2, 2026: Star 17,545 → 18,043, last version 20260526.0 (June 1, 2026).
-
 ## What you get
 - Provides C++17 compatible underlying data structures and algorithms
 - Provides reliable pieces of code tested in Google projects
@@ -24,7 +21,6 @@ brew install abseil
 
 ## Getting started
 - Official source →
-To start using Abseil, you should visit the Abseil Quickstart document on the official website. This guide will walk you through how to prepare your development environment, download codes, and run a simple binary.
 
 ## Related dictionary terms
 

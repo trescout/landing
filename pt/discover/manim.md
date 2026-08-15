@@ -6,9 +6,6 @@ Manim é um mecanismo de animação baseado em Python usado para visualizar conc
 - Python
 - GitHub Trending · 2026-08-12
 
-## Atualizar
-- 12 de agosto de 2026: Star 90.306 → 90.309, versão mais recente v1.7.2 (13 de dezembro de 2024).
-
 ## O que você ganha
 - Cria animações precisas que visualizam teorias matemáticas
 - Permite produzir vídeos explicativos escrevendo código

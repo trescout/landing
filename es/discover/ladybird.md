@@ -13,7 +13,6 @@ Ladybird es un nuevo navegador web desarrollado independientemente de los princi
 
 ## Cómo empezar
 - Fuente oficial →
-Ladybird es un navegador aún en desarrollo. Para conocer los pasos de instalación y operación, puede revisar las instrucciones de compilación en la sección de documentación del sitio web oficial.
 
 ## Enlaces
 - Repositorio en GitHub →

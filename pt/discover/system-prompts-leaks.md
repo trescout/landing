@@ -6,9 +6,6 @@ O repositório system_prompts_leaks compartilhado no GitHub reúne prompts de si
 - JavaScript
 - GitHub Trending · 2026-06-22
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 44.809 → 61.968.
-
 ## O que você ganha
 - Oportunidade de examinar configurações de segundo plano de modelos populares de inteligência artificial
 - Veja as restrições de modelos como Claude, ChatGPT e Gemini
@@ -16,7 +13,6 @@ O repositório system_prompts_leaks compartilhado no GitHub reúne prompts de si
 
 ## Como começar
 - Fonte oficial →
-Esta ferramenta não requer instalação de software. Acessando o repositório System Prompts Leaks no GitHub, você pode clicar na pasta do modelo de inteligência artificial ou empresa que deseja examinar e ler os arquivos relevantes de prompt do sistema diretamente do seu navegador.
 
 ## Termos relacionados do glossário
 

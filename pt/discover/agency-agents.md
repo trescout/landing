@@ -6,9 +6,6 @@ O projeto Agência-agentes cria uma estrutura de agência digital ao reunir agen
 - Shell
 - GitHub Trending · 2026-06-12
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 111.887 → 138.170.
-
 ## O que você ganha
 - Otimiza fluxos de trabalho com agentes de inteligência artificial especializados de acordo com suas áreas de atuação.
 - Fornece suporte profissional em processos como desenvolvimento de software, validação de dados e produção de conteúdo.

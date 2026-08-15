@@ -6,9 +6,6 @@ AI-berkshire is a value investing research framework that implements the methodo
 - Python
 - GitHub Trending · 2026-06-26
 
-## Update
-- August 2, 2026: Star 2,500 → 14,888, latest version v1.0.0 (April 7, 2026).
-
 ## What you get
 - Structured analysis with the methodology of four investment masters
 - Oppositional in-depth investigation with multiple AI agents

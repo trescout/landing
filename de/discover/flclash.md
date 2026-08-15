@@ -7,15 +7,14 @@ FlClash; Es handelt sich um einen Multiplattform-Proxy-Client, der auf ClashMeta
 - GPL-3.0
 - GitHub Trending · 30 May 2026
 
-## Aktualisieren
-- 2. August 2026: Star 40.313 → 47.428, neueste Version v0.8.94 (11. Juli 2026).
-
 ## Was es bringt
 - Möglichkeit, auf mehreren Plattformen zu arbeiten.
 - Werbefreie und einfache Benutzeroberfläche.
 - Die Kraft von Open Source ClashMeta.
 
 ## Nutzungshinweis
+
+## Wie installiere ich, wie verwende ich?
 Ich möchte einen plattformübergreifenden Open-Source-Proxy-Client namens FlClash verwenden. Helfen Sie mir, die für mein Betriebssystem (Android, Windows, macOS oder Linux) geeignete Installationsdatei von der GitHub-Release-Seite (https://github.com/chen08209/FlClash/releases) herunterzuladen und zu installieren und sie zu konfigurieren, indem Sie einen Abonnementlink hinzufügen.
 
 ## Verwandte Begriffe aus dem Glossar

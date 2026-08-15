@@ -6,9 +6,6 @@ Firecrawl bietet eine Schnittstelle (API), um Daten von Websites in großem Maß
 - TypeScript
 - GitHub Trending · 2026-06-23
 
-## Aktualisieren
-- 2. August 2026: Star 137.683 → 159.421, neueste Version v2.11.0 (19. Juni 2026).
-
 ## Was es bringt
 - Konvertiert Websites in das Klartextformat
 - Sammelt Daten für Agenten der künstlichen Intelligenz

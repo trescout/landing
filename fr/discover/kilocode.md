@@ -6,12 +6,6 @@ Kilo est une plateforme d'ingénierie tout-en-un basée sur des agents conçue p
 - TypeScript
 - GitHub Trending · 2026-06-19
 
-## Mise à jour
-- 11 août 2026 : Star 26 752 → 26 815, dernière version v7.4.21 (11 août 2026).
-- 7 août 2026 : Star 26 733 → 26 752, dernière version jetbrains/v7.0.14 (7 août 2026).
-- 6 août 2026 : Star 26 704 → 26 733, dernière version jetbrains/v7.0.13 (6 août 2026).
-- 4 août 2026 : Star 26 672 → 26 704, dernière version v7.4.19 (4 août 2026).
-
 ## Ce que ça vous apporte
 - Possibilité de basculer entre plus de 500 modèles
 - Prise en charge de VS Code, JetBrains et CLI

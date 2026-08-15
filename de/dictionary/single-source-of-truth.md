@@ -29,5 +29,8 @@ Dies führt zu Fehlentscheidungen und Zeitverlust innerhalb der Organisation.
 - [CRM](/de/dictionary/crm/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Ossie](/de/discover/ossie/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/single-source-of-truth/

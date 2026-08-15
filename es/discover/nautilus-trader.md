@@ -6,10 +6,6 @@ Nautilus Trader es un motor comercial con una arquitectura determinista basada e
 - Rust
 - GitHub Trending · 2026-06-18
 
-## Actualizar
-- 3 de agosto de 2026: Star 25.204 → 25.223, última versión v1.231.0 (2 de agosto de 2026).
-- 2 de agosto de 2026: Star 23,912 → 25,204, última versión v1.230.0 (29 de junio de 2026).
-
 ## Qué aporta
 - Infraestructura comercial rápida y segura basada en Rust
 - Transición de la investigación a la vida sin cambios de código

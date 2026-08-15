@@ -6,9 +6,6 @@ Maths-cs-ai-compendium offers a comprehensive collection of resources covering m
 - TypeScript
 - GitHub Trending · 2026-07-15
 
-## Update
-- August 2, 2026: Star 5,424 → 7,220.
-
 ## What you get
 - Strengthening mathematics and computer science foundations
 - In-depth knowledge of artificial intelligence and machine learning
@@ -16,7 +13,6 @@ Maths-cs-ai-compendium offers a comprehensive collection of resources covering m
 
 ## Getting started
 - Official source →
-You don't need any installation to get started with this guide. You can read all chapters online and take a look at the study guide immediately by visiting the official website of the project, henryndubuaku.github.io/maths-cs-ai-compendium.
 
 ## Related dictionary terms
 

@@ -51,7 +51,13 @@ Sırayı bozmayın · 3'ten önce 4 yaparsanız keşif sayfaları çapraz bağla
      döngüyle çalışıyor (2026-08-15'e kadar dil adları beş ayrı yerde elle
      yazılıydı · biri unutulursa o dil hatta sessizce eksik kalıyordu).
 
-  8. ESKİ dillerin kabuğunu da tazeleyin · yeni dilin düğmesi onlarda YOK.
+  8a. SÖZLÜK + KEŞİF TURUNU İKİ KEZ DÖNDÜRÜN. Çapraz bağlantılar karşı bölümün
+     o dilde DİSKTE olmasına bakıyor: keşif → sözlük, sözlük → keşif. Yeni bir
+     dilde ilk turda hangisi önce çalışırsa diğerinin bağlantıları eksik kalır ·
+     2026-08-15'te 353 Almanca sözlük sayfası "İlgili araçlar" bölümü olmadan
+     çıktı (hat ertesi gün düzeltirdi, o yüzden yıllardır görülmemişti).
+
+  8b. ESKİ dillerin kabuğunu da tazeleyin · yeni dilin düğmesi onlarda YOK.
      Üretilen dillerin (en/fr/pt/es…) nav'ı diller.py'den her ÜRETİMDE
      basılıyor · yalnız yeni dili üretmek yetmez, eskileri de bir tur döndürün:
         for d in $(python3 scripts/diller.py --liste); do

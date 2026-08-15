@@ -6,9 +6,6 @@ Los complementos de OpenAI permiten que los modelos de lenguaje accedan a datos 
 - JavaScript
 - GitHub Trending · 2026-06-06
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 1.596 → 4.881.
-
 ## Qué aporta
 - Permite que los modelos de lenguaje accedan a datos actualizados.
 - Permite la interacción con aplicaciones de terceros.

@@ -6,9 +6,6 @@ OpenMed ist eine Plattform, die Open-Source-Modelle für künstliche Intelligenz
 - Python
 - GitHub Trending · 2026-06-10
 
-## Aktualisieren
-- 2. August 2026: Star 2.041 → 4.793, letzte Version v2.0.0 (28. Juli 2026).
-
 ## Was es bringt
 - Extrahiert strukturierte medizinische Erkenntnisse aus klinischen Texten.
 - Anonymisiert persönliche Gesundheitsdaten auf dem Gerät.

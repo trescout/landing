@@ -6,9 +6,6 @@ Esta guía, preparada por estudiantes de la Universidad de Pekín, ofrece una ho
 - HTML
 - GitHub Trending · 2026-07-20
 
-## Actualizar
-- 2 de agosto de 2026: Star 74,290 → 74,728, última versión v1.2.0 (8 de junio de 2025).
-
 ## Qué aporta
 - Plan de estudios estructurado a nivel universitario.
 - Recomendaciones de recursos y cursos de código abierto
@@ -16,7 +13,6 @@ Esta guía, preparada por estudiantes de la Universidad de Pekín, ofrece una ho
 
 ## Cómo empezar
 - Fuente oficial →
-No necesita ninguna configuración para comenzar con esta guía. Puede revisar todos los contenidos del curso y los planes de estudio en línea de forma gratuita visitando el sitio web oficial del proyecto, csdiy.wiki.
 
 ## Términos relacionados del glosario
 

@@ -27,5 +27,10 @@ Ja, die Automatisierung ist der Kern des Pipeline-Konzepts.
 - [Observability](/de/dictionary/observability/)
 - [Deployment](/de/dictionary/deployment/)
 
+## Verwandte Werkzeuge
+- [Transformers](/de/discover/transformers/)
+- [OpenMontage](/de/discover/openmontage/)
+- [Liteparse](/de/discover/liteparse/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/pipeline/

@@ -6,9 +6,6 @@ O kit de ferramentas de governança de agentes desenvolvido pela Microsoft ofere
 - Python
 - GitHub Trending · 2026-07-29
 
-## Atualizar
-- 2 de agosto de 2026: Star 5.342 → 5.564, versão mais recente v4.1.0 (9 de junho de 2026).
-
 ## O que você ganha
 - Controle de política sobre ações do agente
 - Autenticação de confiança zero

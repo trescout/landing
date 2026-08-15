@@ -6,11 +6,6 @@ OfficeCLI bietet eine Open-Source-Office-Suite, die es KI-Agenten ermöglicht, W
 - C#
 - GitHub Trending · 2026-07-08
 
-## Aktualisieren
-- 11. August 2026: Star 25.967 → 27.506, neueste Version v1.0.143 (28. Juli 2026).
-- 6. August 2026: Star 24.245 → 25.967, neueste Version v1.0.143 (28. Juli 2026).
-- 2. August 2026: Star 10.491 → 24.245, neueste Version v1.0.143 (28. Juli 2026).
-
 ## Was es bringt
 - Bearbeiten Sie Word-, Excel- und PowerPoint-Dateien mit Code
 - Führen Sie Transaktionen direkt durch, ohne Office-Software installieren zu müssen

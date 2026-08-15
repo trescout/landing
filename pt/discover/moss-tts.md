@@ -7,14 +7,34 @@ MOSS-TTS (MOSI.AI e OpenMOSS); É uma família de modelos de código aberto que 
 - Apache-2.0
 - GitHub Trending · 29 May 2026
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 2.440 → 3.939.
-
 ## O que isso oferece?
 - Ele fornece fala de alta fidelidade e síntese de voz.
 - Oferece suporte para vários alto-falantes.
 - Suporta streaming de áudio em tempo real.
 - É baseado na família de modelos de código aberto.
+
+## Como instalar, como usar?
+**Criar ambiente conda**
+
+```
+conda create -n moss-tts python=3.12 -y
+conda activate moss-tts
+```
+
+**Clone e instale o repositório**
+
+```
+git clone https://github.com/OpenMOSS/MOSS-TTS.git
+cd MOSS-TTS
+pip install --extra-index-url https://download.pytorch.org/whl/cu128 -e ".[torch-runtime]"
+```
+
+**Execute a demonstração do Gradio**
+
+```
+python clis/moss_tts_app.py
+```
+
 
 ## Termos relacionados do glossário
 

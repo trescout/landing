@@ -7,9 +7,6 @@ Habilidades Antrópicas; É o repositório oficial de pacotes de habilidades que
 - Lisans: kontrol et
 - GitHub Trending · 29 May 2026
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 143.307 → 165.785.
-
 ## O que você ganha
 - Habilidades prontas e formais para Claude.
 - Carregamento dinâmico: entra em ação somente quando necessário.
@@ -17,6 +14,20 @@ Habilidades Antrópicas; É o repositório oficial de pacotes de habilidades que
 
 ## Como usar?
 Você define a habilidade relevante como uma habilidade para Claude (por exemplo, Claude Code ou Cowork); Desta forma, aumenta o seu desempenho em tarefas especiais.
+
+## Como instalar, como usar?
+**Adicionar Marketplace (Código Claude)**
+
+```
+/plugin marketplace add anthropics/skills
+```
+
+**Desenvolva suas habilidades documentais**
+
+```
+/plugin install document-skills@anthropic-agent-skills
+```
+
 
 ## Termos relacionados do glossário
 

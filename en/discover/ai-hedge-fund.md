@@ -6,11 +6,6 @@ The AI ​​hedge fund uses autonomous agents to automate financial market anal
 - Python
 - GitHub Trending · 2026-07-13
 
-## Update
-- August 7, 2026: Star 62,684 → 62,721, latest version v2.2.0 (August 7, 2026).
-- August 6, 2026: Star 62,606 → 62,684, latest version v2.1.0 (August 4, 2026).
-- August 2, 2026: Star 61,500 → 62,606, latest version v2.0.2 (July 30, 2026).
-
 ## What you get
 - Autonomous agents analyzing financial market data
 - Modeling representing different investment schools

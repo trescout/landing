@@ -5,9 +5,6 @@ Open-LLM-VTuber permite interação de voz sem usar as mãos com grandes modelos
 - ★ 13.042
 - GitHub Trending · 2026-06-03
 
-## Atualizar
-- 2 de agosto de 2026: Star 8.629 → 13.042, versão mais recente v1.2.1 (26 de agosto de 2025).
-
 ## O que você ganha
 - Operação completamente offline no sistema local
 - Interação em tempo real com personagens Live2D

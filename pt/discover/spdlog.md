@@ -6,9 +6,6 @@ spdlog é uma biblioteca de registro muito rápida desenvolvida para a linguagem
 - C++
 - GitHub Trending · 2026-08-05
 
-## Atualizar
-- 6 de agosto de 2026: Star 29.402 → 29.437, versão mais recente v1.17.0 (4 de janeiro de 2026).
-
 ## O que você ganha
 - Gerenciamento de registros de alto desempenho
 - Saída para diferentes destinos, como arquivo, console e depurador

@@ -5,9 +5,6 @@ Publicado por Microsoft, VibeVoice fue desarrollado como un marco de inteligenci
 - ★ 51.860
 - GitHub Trending · 2026-06-07
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 48,569 → 51,860.
-
 ## Qué aporta
 - Convierte hasta 60 minutos de grabación de audio en texto a la vez.
 - Proporciona identificación del hablante, marca de tiempo y detalles del contenido de forma estructurada.

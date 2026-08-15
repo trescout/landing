@@ -6,9 +6,6 @@ Desenvolvido pelo Google, o Flutter permite criar rapidamente interfaces de usu�
 - Dart
 - GitHub Trending · 2026-06-25
 
-## Atualizar
-- 2 de agosto de 2026: Star 177.494 → 178.068, última versão 3.19.0-0.1.pre (11 de janeiro de 2024).
-
 ## O que você ganha
 - Suporte móvel, web e desktop com uma única base de código
 - Recurso de recarga a quente que permite ver alterações instantâneas
@@ -40,7 +37,6 @@ flutter run
 
 ## Como começar
 - Fonte oficial →
-Para começar a desenvolver com Flutter, você precisa visitar o site oficial flutter.dev. Você pode concluir a instalação guiada seguindo a seção “Primeiros passos” no site para obter as etapas de instalação e opções de download adequadas ao seu sistema operacional.
 
 ## Termos relacionados do glossário
 

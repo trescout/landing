@@ -6,11 +6,6 @@ Semantica est une infrastructure graphique native qui fournit une gestion de don
 - Python
 - GitHub Trending · 2026-08-08
 
-## Mise à jour
-- 12 août 2026 : Étoile 3 493 → 5 094, dernière version v0.6.5 (11 août 2026).
-- 10 août 2026 : Étoile 2 398 → 3 493, dernière version v0.6.0 (21 juillet 2026).
-- 8 août 2026 : Star 2 396 → 2 398, dernière version v0.6.0 (21 juillet 2026).
-
 ## Ce que ça vous apporte
 - Rend les processus de décision traçables et vérifiables
 - Convertit les données en un graphique de connaissances relationnelles

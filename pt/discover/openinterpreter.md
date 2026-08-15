@@ -6,9 +6,6 @@ Open Interpreter oferece um agente de codificação que automatiza processos de 
 - Rust
 - GitHub Trending · 2026-07-16
 
-## Atualizar
-- 2 de agosto de 2026: Star 65.626 → 67.509, versão mais recente ferrugem-v0.0.34 (18 de julho de 2026).
-
 ## O que você ganha
 - Automatiza processos de software através do terminal local.
 - É compatível com modelos de linguagem de baixo custo.

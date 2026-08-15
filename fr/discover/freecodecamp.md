@@ -13,7 +13,6 @@ freeCodeCamp est une plateforme d'apprentissage open source qui propose du maté
 
 ## Pour commencer
 - Source officielle →
-freeCodeCamp n'est pas un outil logiciel, mais une plateforme d'apprentissage basée sur le Web. Vous n'avez besoin d'aucune configuration pour commencer ; Vous pouvez vous rendre directement sur freeCodeCamp.org, créer un compte et accéder immédiatement au programme de formation gratuit proposé.
 
 ## Liens
 - Dépôt GitHub →

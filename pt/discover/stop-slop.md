@@ -7,16 +7,16 @@ Os textos produzidos com inteligência artificial muitas vezes contêm expressõ
 - MIT
 - GitHub Trending · 26 May 2026
 
-## Atualizar
-- 1º de agosto de 2026: Estrela 4.876 → 14.843.
-
 ## O que você ganha
 - Os textos são lidos com mais naturalidade, as expressões clichês e as repetições são reduzidas.
 - Pode ser ensinado a qualquer LLM (não limitado apenas a Claude).
 - Reduz a sensação de ser escrito por inteligência artificial na produção de conteúdo.
 
 ## Como usar?
-Você fornece SKILL.md como uma habilidade ao seu assistente de IA e, em seguida, passa o texto por meio destas regras:
+- Corrija este texto de acordo com as regras Stop Slop, limpe os padrões de IA.
+
+## Como instalar, como usar?
+Baixe este repositório (https://github.com/hardikpandya/stop-slop) e adicione a habilidade stop-slop como uma habilidade ao Claude Code; Em seguida, use essa habilidade para limpar clichês específicos de IA dos textos que escrevo.
 
 ## Termos relacionados do glossário
 

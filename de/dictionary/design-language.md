@@ -25,5 +25,8 @@ Dadurch entfällt die Notwendigkeit, jedes Mal ein neues Design zu erstellen, un
 ## Verwandte Begriffe
 - [AI Skills](/de/dictionary/ai-skills/)
 
+## Verwandte Werkzeuge
+- [Impeccable](/de/discover/impeccable/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/design-language/

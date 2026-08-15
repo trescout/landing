@@ -26,5 +26,8 @@ Dies hängt von der Struktur der Plattform ab, aber im Allgemeinen ist es wichti
 - [Swarm Intelligence Engine](/de/dictionary/swarm-intelligence-engine/)
 - [Multi-agent](/de/dictionary/multi-agent/)
 
+## Verwandte Werkzeuge
+- [Buzz](/de/discover/buzz/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/hive-mind-communication-platform/

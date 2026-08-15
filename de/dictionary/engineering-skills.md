@@ -27,5 +27,8 @@ Es erleichtert auf jeden Fall die Lösung komplexer Probleme in allen Lebensbere
 - [Computer Science](/de/dictionary/computer-science/)
 - [Spec-driven Development](/de/dictionary/spec-driven-development/)
 
+## Verwandte Werkzeuge
+- [Agent Skills](/de/discover/agent-skills/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/engineering-skills/

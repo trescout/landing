@@ -6,9 +6,6 @@ Les modèles Claude Code fournissent une interface de ligne de commande (CLI) po
 - Python
 - GitHub Trending · 2026-07-11
 
-## Mise à jour
-- 2 août 2026 : Star 28 812 → 30 058, dernière version v1.28.3 (15 novembre 2025).
-
 ## Ce que ça vous apporte
 - Plus d'une centaine d'agents IA prêts à l'emploi et accès aux commandes
 - Intégration rapide et gestion des hooks pour les services externes

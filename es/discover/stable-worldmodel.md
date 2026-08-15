@@ -7,13 +7,24 @@ modelo de mundo estable; Es una plataforma que garantiza que la investigación s
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 1.403 → 2.080, última versión 0.1.1 (6 de junio de 2026).
-
 ## ¿Qué hace?
 - Hacer que la investigación sea reproducible.
 - Proporcionar un entorno de evaluación estándar.
 - No es una herramienta para el usuario final, sino una solución directa para la investigación.
+
+## ¿Cómo instalar, cómo utilizar?
+**Instalar desde PyPI (todos los complementos)**
+
+```
+pip install 'stable-worldmodel[all]'
+```
+
+**Listar conjuntos de datos almacenados en caché**
+
+```
+swm datasets
+```
+
 
 ## Términos relacionados del glosario
 

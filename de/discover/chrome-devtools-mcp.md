@@ -6,10 +6,6 @@ Dieser für Chrome DevTools entwickelte Server ermöglicht es Codierungs-Agenten
 - TypeScript
 - GitHub Trending · 2026-07-03
 
-## Aktualisieren
-- 11. August 2026: Star 48.381 → 48.884, neueste Version chrome-devtools-mcp-v1.7.0 (10. August 2026).
-- 2. August 2026: Star 45.204 → 48.381, neueste Version chrome-devtools-mcp-v1.6.0 (14. Juli 2026).
-
 ## Was es bringt
 - Steuern Sie den Live-Browser direkt
 - Automatisierung der Leistungsanalyse

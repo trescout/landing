@@ -6,9 +6,6 @@ Das Projekt „Einführung in autonome Roboter“ stellt die Grundprinzipien und
 - TeX
 - GitHub Trending · 2026-06-15
 
-## Aktualisieren
-- 2. August 2026: Star 2.681 → 3.301, neueste Version v3.0 (1. Dezember 2021).
-
 ## Was es bringt
 - Erlernen der grundlegenden Mechanismen und Algorithmen autonomer Robotersysteme.
 - Erwerben Sie technisches Wissen über Robotersensoren und -aktoren.
@@ -16,7 +13,6 @@ Das Projekt „Einführung in autonome Roboter“ stellt die Grundprinzipien und
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Dieses Projekt enthält die Quellcodes eines Lehrbuchs über autonome Roboter. Um eine PDF-Version des Buchs zu erstellen, können Sie auf der GitHub-Seite auf die grüne Schaltfläche „Code“ klicken und die Dateien mit der Option „ZIP herunterladen“ auf Ihren Computer herunterladen. Alternativ können Sie an dem Projekt arbeiten, indem Sie es in einen Online-LaTeX-Editor wie Overleaf übertragen.
 
 ## Verwandte Begriffe aus dem Glossar
 

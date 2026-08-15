@@ -6,10 +6,6 @@ OpenSpec é uma biblioteca TypeScript que oferece suporte a processos de desenvo
 - TypeScript
 - GitHub Trending · 2026-06-28
 
-## Atualizar
-- 6 de agosto de 2026: Star 63.477 → 63.990, versão mais recente v1.8.0 (5 de agosto de 2026).
-- 2 de agosto de 2026: Star 57.272 → 63.477, versão mais recente v1.7.0 (29 de julho de 2026).
-
 ## O que você ganha
 - Padroniza os requisitos técnicos antes de escrever o código
 - Controla o processo de desenvolvimento com inteligência artificial

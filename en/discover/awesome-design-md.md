@@ -5,9 +5,6 @@ Awesome-design-md is a collection of design documents (DESIGN.md) from popular b
 - ★ 105,953
 - GitHub Trending · 2026-07-10
 
-## Update
-- August 2, 2026: Star 100,194 → 105,953.
-
 ## What you get
 - Bring the design languages ​​of popular brands to your projects
 - Maintain visual consistency with AI agents
@@ -15,7 +12,6 @@ Awesome-design-md is a collection of design documents (DESIGN.md) from popular b
 
 ## Getting started
 - Official source →
-Select a DESIGN.md file that suits your project from the collection in the awesome-design-md repository. Copy the contents of the relevant file and save it as a text file in the main directory of your project. Then, simply reference this file to the artificial intelligence coding tool you are using and give the command 'Create me a page that looks like this'.
 
 ## Related dictionary terms
 

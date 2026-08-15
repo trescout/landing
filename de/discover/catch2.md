@@ -6,9 +6,6 @@ Catch2 ist ein modernes Unit-Test-Framework, das C++14 und höher unterstützt. 
 - C++
 - GitHub Trending · 2026-07-11
 
-## Aktualisieren
-- 2. August 2026: Star 20.636 → 21.404, neueste Version v3.15.3 (26. Juli 2026).
-
 ## Was es bringt
 - Unterstützt testgetriebene Entwicklungsprozesse
 - Bietet einfaches und natürliches Testschreiben
@@ -24,7 +21,6 @@ brew install catch2
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Catch2 ist als Bibliothek strukturiert. Um zu beginnen, können Sie lernen, wie Sie es in Ihr Projekt einbinden, indem Sie die Anleitung „Tutorial“ im Dokumentationsabschnitt der GitHub-Seite lesen.
 
 ## Verwandte Begriffe aus dem Glossar
 

@@ -24,5 +24,8 @@ Nein, die von Ihnen vorgenommenen Änderungen werden nur vorübergehend auf Ihre
 - [User Interface](/de/dictionary/user-interface/)
 - [Web Interface](/de/dictionary/web-interface/)
 
+## Verwandte Werkzeuge
+- [Chrome Devtools MCP](/de/discover/chrome-devtools-mcp/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/chrome-devtools/

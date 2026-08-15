@@ -6,9 +6,6 @@ Esta selección, preparada para Claude Code, el asistente de codificación desar
 - Python
 - GitHub Trending · 2026-07-06
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 48,592 → 51,520.
-
 ## Qué aporta
 - Paquetes de habilidades para asistente de codificación
 - Integración de complementos y automatización
@@ -16,7 +13,6 @@ Esta selección, preparada para Claude Code, el asistente de codificación desar
 
 ## Cómo empezar
 - Fuente oficial →
-Esta herramienta es una lista de recursos para desarrolladores que utilizan Claude Code. Para comenzar, puede visitar la documentación oficial de Claude Code de Anthropic y personalizar su proyecto utilizando las guías, complementos y paquetes de habilidades de esta lista.
 
 ## Términos relacionados del glosario
 

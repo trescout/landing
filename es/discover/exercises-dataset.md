@@ -6,9 +6,6 @@ El conjunto de datos de ejercicios (conjunto de datos de ejercicios) compartido 
 - HTML
 - GitHub Trending · 2026-07-01
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 7.552 → 18.515.
-
 ## Qué aporta
 - Datos estructurados para 1.324 ejercicios de fitness diferentes
 - Instrucciones de solicitud paso a paso en 6 idiomas, incluido el turco

@@ -23,5 +23,10 @@ Ja, aber Code-Editoren helfen Ihnen, Ihre Arbeit mit Funktionen wie Fehlererkenn
 - [CLI](/de/dictionary/cli/)
 - [Coding Agent](/de/dictionary/coding-agent/)
 
+## Verwandte Werkzeuge
+- [Editor](/de/discover/editor/)
+- [Palmier Pro](/de/discover/palmier-pro/)
+- [Clypra](/de/discover/clypra/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/editor/

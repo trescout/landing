@@ -24,5 +24,8 @@ Für Aufgaben, die eine höhere Leistung und Hardwarezugriff erfordern, ja, aber
 - [Application](/de/dictionary/application/)
 - [Runtime](/de/dictionary/runtime/)
 
+## Verwandte Werkzeuge
+- [Jellium Desktop](/de/discover/jellium-desktop/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/desktop-client/

@@ -6,9 +6,6 @@ OpenCut is a TypeScript-based application development project that offers an ope
 - TypeScript
 - GitHub Trending · 2026-07-14
 
-## Update
-- August 2, 2026: Star 67,464 → 80,488, last version v0.3.0 (April 15, 2026).
-
 ## What you get
 - Web, desktop and mobile platform support
 - Extensibility with plugin-oriented architecture

@@ -6,9 +6,6 @@ L'ensemble de données d'exercices (ensemble de données d'exercices) partagé p
 - HTML
 - GitHub Trending · 2026-07-01
 
-## Mise à jour
-- 2 août 2026 : Étoile 7 552 → 18 515.
-
 ## Ce que ça vous apporte
 - Données structurées pour 1 324 exercices de fitness différents
 - Instructions de candidature étape par étape en 6 langues dont le turc

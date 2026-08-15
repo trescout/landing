@@ -6,9 +6,6 @@ La biblioteca Meshoptimizer optimiza los datos de malla tridimensional, reducien
 - C++
 - GitHub Trending · 2026-07-11
 
-## Actualizar
-- 2 de agosto de 2026: Star 8045 → 8177, última versión v1.2 (30 de junio de 2026).
-
 ## Qué aporta
 - Reduce el tamaño del archivo para modelos tridimensionales.
 - Aumenta el rendimiento de renderizado de la GPU

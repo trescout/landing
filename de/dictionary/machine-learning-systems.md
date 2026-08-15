@@ -21,5 +21,8 @@ Maschinelles Lernen ist ein Unterzweig der künstlichen Intelligenz, der sich au
 - [AI Models](/de/dictionary/ai-models/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Cs249r Book](/de/discover/cs249r-book/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/machine-learning-systems/

@@ -6,10 +6,6 @@ Bitchat-android bietet mithilfe der Bluetooth-Mesh-Technologie ein dezentrales M
 - Kotlin
 - GitHub Trending · 2026-07-27
 
-## Aktualisieren
-- 12. August 2026: Star 7.246 → 7.424, neueste Version v2.0.1 (11. August 2026).
-- 2. August 2026: Star 6.833 → 7.246, letzte Version 1.7.4 (17. Juni 2026).
-
 ## Was es bringt
 - Kommunikation ohne Internet mit Bluetooth-Mesh-Technologie
 - Ende-zu-Ende-verschlüsseltes und dezentrales Messaging

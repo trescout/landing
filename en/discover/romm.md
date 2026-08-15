@@ -6,9 +6,6 @@ Romm is a game library manager designed to organize game files (ROM) and play di
 - Python
 - GitHub Trending · 2026-07-04
 
-## Update
-- August 2, 2026: Star 9,887 → 11,859, last version 5.1.0 (July 29, 2026).
-
 ## What you get
 - Manage your game collection via browser
 - Support for direct gaming in the browser
@@ -32,7 +29,6 @@ docker compose up -d
 
 ## Getting started
 - Official source →
-To start the installation, you need to visit the Quick Start Guide on the official documentation page. You can follow the installation steps by accessing the relevant guide on the RomM documentation site.
 
 ## Related dictionary terms
 

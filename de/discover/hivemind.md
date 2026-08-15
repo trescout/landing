@@ -6,9 +6,6 @@ Hivemind wurde von Activeloop entwickelt und bietet eine zentralisierte Speicher
 - TypeScript
 - GitHub Trending · 2026-06-11
 
-## Aktualisieren
-- 2. August 2026: Star 985 → 1.526, neueste Version v0.7.145 (30. Juli 2026).
-
 ## Was es bringt
 - Es erstellt eine gemeinsame Speicher- und Koordinationsebene für alle Ihre KI-Agenten.
 - Es wandelt erfolgreiche Lösungsmuster aus vergangenen Sitzungen automatisch in wiederverwendbare Fähigkeiten um.

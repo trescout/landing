@@ -24,5 +24,8 @@ Nein, einige Sprachen wie Python führen den Code sofort Zeile für Zeile aus, o
 - [Rust](/de/dictionary/rust/)
 - [Compile-time](/de/dictionary/compile-time/)
 
+## Verwandte Werkzeuge
+- [SWC](/de/discover/swc/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/compilation/

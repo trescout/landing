@@ -26,5 +26,10 @@ Zu diesem Zeitpunkt ist nur das Kopieren erforderlich; Anschließend können Sie
 - [Clone](/de/dictionary/clone/)
 - [Open Source](/de/dictionary/open-source/)
 
+## Verwandte Werkzeuge
+- [Voicebox](/de/discover/voicebox/)
+- [VoxCPM](/de/discover/voxcpm/)
+- [Voice Pro](/de/discover/voice-pro/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cloning/

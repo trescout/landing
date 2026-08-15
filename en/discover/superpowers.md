@@ -7,9 +7,6 @@ Superpowers is a comprehensive software development methodology of composite ski
 - MIT
 - GitHub Trending · 28 May 2026
 
-## Update
-- August 2, 2026: Star 209,561 → 264,883, latest version v6.2.0 (July 24, 2026).
-
 ## What you get
 - A ready-made, composite skill set for your agent.
 - A structured development methodology.
@@ -18,6 +15,14 @@ Superpowers is a comprehensive software development methodology of composite ski
 
 ## Getting started
 Give your agent super powers with TreScout; Quickstart steps for Claude Code, Codex and Gemini are waiting for you in the repository.
+
+## How to install, how to use?
+**Claude Code · install from official marketplace**
+
+```
+/plugin install superpowers@claude-plugins-official
+```
+
 
 ## Related dictionary terms
 

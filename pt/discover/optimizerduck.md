@@ -6,9 +6,6 @@ Desenvolvido em linguagem C#, o OptimizerDuck é uma ferramenta de código abert
 - C#
 - GitHub Trending · 2026-06-16
 
-## Atualizar
-- 2 de agosto de 2026: Star 3.900 → 7.672, versão mais recente v2.25.5 (16 de julho de 2026).
-
 ## O que você ganha
 - Limpa processos em segundo plano e bloatware do Windows
 - Traz desempenho, privacidade e configurações de GPU em uma única interface
@@ -16,7 +13,6 @@ Desenvolvido em linguagem C#, o OptimizerDuck é uma ferramenta de código abert
 
 ## Como começar
 - Fonte oficial →
-Para começar a usar a ferramenta, visite a página oficial de lançamentos no GitHub. Baixe a versão atual do link relevante e comece a definir as configurações executando o arquivo .exe diretamente, sem qualquer instalação.
 
 ## Termos relacionados do glossário
 

@@ -13,7 +13,6 @@ A aprendizagem baseada em projetos é uma lista que reúne recursos que ensinam 
 
 ## Como começar
 - Fonte oficial →
-Por se tratar de uma lista de software, não requer instalação. Você pode selecionar na lista a linguagem de programação de seu interesse, clicar nos links abaixo e começar a examinar os projetos.
 
 ## Links
 - Repositório no GitHub →

@@ -6,9 +6,6 @@ The Time Series Foundation Model, developed by Google Research, offers a pre-tra
 - Python
 - GitHub Trending · 2026-06-18
 
-## Update
-- August 2, 2026: Star 22,167 → 27,185, latest version v2.0.2 (July 2, 2026).
-
 ## What you get
 - Fast prediction with pre-trained base model
 - 16k context length support

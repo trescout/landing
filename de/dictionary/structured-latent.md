@@ -27,5 +27,8 @@ Nein, es handelt sich um einen abstrakten mathematischen Prozess, der vollständ
 - [Transformer](/de/dictionary/transformer/)
 - [Vector Index](/de/dictionary/vector-index/)
 
+## Verwandte Werkzeuge
+- [TRELLIS.2](/de/discover/trellis-2/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/structured-latent/

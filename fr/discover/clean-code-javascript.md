@@ -13,7 +13,6 @@ Ce guide, qui adapte les principes du code propre au langage JavaScript, propose
 
 ## Pour commencer
 - Source officielle →
-Cet outil est un guide, pas une bibliothèque de logiciels. En visitant le référentiel clean-code-javascript sur GitHub, vous pouvez examiner des sections telles que la dénomination des variables, la conception des fonctions et les principes SOLID, et améliorer la qualité de votre code en appliquant ces normes dans vos propres projets.
 
 ## Termes liés du glossaire
 

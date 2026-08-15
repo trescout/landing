@@ -6,9 +6,6 @@ The marketingskills library developed for Claude Code and artificial intelligenc
 - JavaScript
 - GitHub Trending · 2026-07-06
 
-## Update
-- August 2, 2026: Star 36,679 → 42,728, latest version v2.10.0 (July 27, 2026).
-
 ## What you get
 - Improves AI performance in marketing-oriented tasks
 - Offers specialized workflows in areas such as SEO, copywriting and CRO

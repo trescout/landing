@@ -6,11 +6,6 @@ Node.js bietet eine Laufzeitumgebung, die die Ausführung von JavaScript-Code au
 - JavaScript
 - GitHub Trending · 2026-07-27
 
-## Aktualisieren
-- 6. August 2026: Star 118.705 → 118.797, neueste Version v26.7.0 (5. August 2026).
-- 4. August 2026: Star 118.617 → 118.705, neueste Version v26.6.0 (3. August 2026).
-- 2. August 2026: Star 118.523 → 118.617, neueste Version v26.5.1 (29. Juli 2026).
-
 ## Was es bringt
 - Führt JavaScript-Code außerhalb des Browsers aus
 - Ermöglicht die Entwicklung skalierbarer Netzwerkanwendungen

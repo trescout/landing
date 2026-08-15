@@ -24,5 +24,8 @@ Nein, sie versuchen lediglich, den effizientesten Weg entsprechend dem vorgegebe
 - [Autonomous Agent](/de/dictionary/autonomous-agent/)
 - [Machine Learning](/de/dictionary/machine-learning/)
 
+## Verwandte Werkzeuge
+- [Prime Agent](/de/discover/prime-agent/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/reinforcement-learning-agent/

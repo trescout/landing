@@ -24,5 +24,8 @@ Moderne Systeme verfügen über Sicherheitsprotokolle, die sich ständig selbst 
 - [Physical AI](/de/dictionary/physical-ai/)
 - [Autonomous Robotics](/de/dictionary/autonomous-robotics/)
 
+## Verwandte Werkzeuge
+- [Apollo-11](/de/discover/apollo-11/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/guidance-computer/

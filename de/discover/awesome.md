@@ -12,7 +12,6 @@ Awesome Lists bietet kuratierte Ressourcensammlungen zu verschiedenen Themen in 
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Für dieses Tool ist keine Softwareinstallation erforderlich. Um die Technologie oder das Thema zu finden, an dem Sie interessiert sind, können Sie die offizielle Website awesome.re besuchen und über kategorisierte Listen auf die gesuchten Ressourcen zugreifen.
 
 ## Links
 - GitHub-Repository →

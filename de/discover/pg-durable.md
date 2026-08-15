@@ -6,9 +6,6 @@ pg_durable wurde von Microsoft entwickelt und ist eine Bibliothek zur Verwaltung
 - Rust
 - GitHub Trending · 2026-06-08
 
-## Aktualisieren
-- 2. August 2026: Star 1.580 → 2.716, neueste Version v0.2.5 (30. Juli 2026).
-
 ## Was es bringt
 - Es verwaltet Arbeitsabläufe innerhalb der Datenbank fehlertolerant und persistent.
 - Im Falle eines Absturzes oder einer Unterbrechung wird der Betrieb ab dem letzten Kontrollpunkt fortgesetzt.

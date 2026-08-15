@@ -26,5 +26,8 @@ Nein, diese dienen nur zu Supportzwecken und der Fahrer muss jederzeit vorsichti
 - [Computer Vision](/de/dictionary/computer-vision/)
 - [Autonomous Robotics](/de/dictionary/autonomous-robotics/)
 
+## Verwandte Werkzeuge
+- [Openpilot](/de/discover/openpilot/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/driver-assistance-system/

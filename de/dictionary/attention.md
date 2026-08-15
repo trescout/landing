@@ -27,5 +27,9 @@ Es ist Standard in fast allen modernen KI-Modellen, die die Transformer-Architek
 - [LLM](/de/dictionary/llm/)
 - [NLP](/de/dictionary/nlp/)
 
+## Verwandte Werkzeuge
+- [AI Engineering from Scratch](/de/discover/ai-engineering-from-scratch/)
+- [FlashKDA](/de/discover/flashkda/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/attention/

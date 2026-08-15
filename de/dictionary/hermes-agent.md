@@ -28,5 +28,8 @@ Da es autonom ist, ist es wichtig, dass seine Befugnisse begrenzt sind und stän
 - [Self-orchestration](/de/dictionary/self-orchestration/)
 - [Instincts](/de/dictionary/instincts/)
 
+## Verwandte Werkzeuge
+- [Hermes Agent](/de/discover/hermes-agent/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/hermes-agent/

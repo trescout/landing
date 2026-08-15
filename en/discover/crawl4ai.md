@@ -7,13 +7,18 @@ Crawl4AI; is an open source web crawler and scraper optimized for large language
 - Apache-2.0
 - GitHub Trending · 29 May 2026
 
-## Update
-- August 2, 2026: Star 67,194 → 75,853, latest version v0.9.2 (July 15, 2026).
-
 ## What you get
 - It converts web content into a clean and AI-friendly format.
 - Specially optimized for LLM processes.
 - It is fast and open source.
+
+## Installation (single command)
+**Python (pip)**
+
+```
+pip install crawl4ai
+```
+
 
 ## Related dictionary terms
 

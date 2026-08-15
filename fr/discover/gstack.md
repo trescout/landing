@@ -6,9 +6,6 @@ Gstack est un système basé sur la configuration Claude Code de Garry Tan et se
 - TypeScript
 - GitHub Trending · 2026-06-23
 
-## Mise à jour
-- 2 août 2026 : Étoile 113 462 → 125 874.
-
 ## Ce que ça vous apporte
 - Workflow avec 23 rôles spécialisés différents
 - Révision automatisée du code et assurance qualité

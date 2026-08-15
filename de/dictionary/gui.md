@@ -29,5 +29,10 @@ Das Zeichnen visueller Elemente erfordert Rechenleistung, daher werden auf sehr 
 - [Web Interface](/de/dictionary/web-interface/)
 - [User Interface](/de/dictionary/user-interface/)
 
+## Verwandte Werkzeuge
+- [Imgui](/de/discover/imgui/)
+- [Page Agent](/de/discover/page-agent/)
+- [Chat2DB](/de/discover/chat2db/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/gui/

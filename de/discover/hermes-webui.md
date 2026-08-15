@@ -7,13 +7,26 @@ Hermes WebUI ist eine Schnittstelle, mit der Sie Hermes-KI-Agenten über einen W
 - MIT
 - GitHub Trending · 1 Haziran 2026
 
-## Aktualisieren
-- 2. August 2026: Star 10.353 → 16.850, neueste Version v0.52.106 (29. Juli 2026).
-
 ## Was es bringt
 - Verwalten Sie Ihre Agenten über einen Browser oder ein Mobilgerät.
 - Überwachen Sie alle Interaktionen von einem zentralen Punkt aus.
 - Genießen Sie die einfache und benutzerfreundliche Oberfläche.
+
+## Wie installiere ich, wie verwende ich?
+**Bootstrap klonen und ausführen**
+
+```
+git clone https://github.com/nesquena/hermes-webui.git hermes-webui
+cd hermes-webui
+python3 bootstrap.py
+```
+
+**Mit Startskript ausführen**
+
+```
+./start.sh
+```
+
 
 ## Verwandte Begriffe aus dem Glossar
 

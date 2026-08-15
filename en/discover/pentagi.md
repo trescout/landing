@@ -6,9 +6,6 @@ Developed with the Go language, Pentagi offers a system of fully autonomous arti
 - Go
 - GitHub Trending · 2026-07-10
 
-## Update
-- August 2, 2026: Star 19,634 → 21,475, latest version v2.1.0 (May 29, 2026).
-
 ## What you get
 - Fully autonomous security tests in Sandboxed Docker environment
 - Support for more than 20 professional tools such as Nmap and SQLmap

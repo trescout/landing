@@ -6,10 +6,6 @@ Moonshine bietet Sprach-zu-Text-, Absichtserkennungs- und Text-zu-Sprache-Funkti
 - C++
 - GitHub Trending · 2026-07-21
 
-## Aktualisieren
-- 7. August 2026: Star 10.579 → 10.671, neueste Version v0.1.1 (7. August 2026).
-- 2. August 2026: Star 10.028 → 10.579, letzte Version v0.1.0 (27. Juli 2026).
-
 ## Was es bringt
 - Schnelle und diskrete Audioverarbeitung auf dem Gerät
 - Geringe Latenz, optimiert für Live-Übertragungen

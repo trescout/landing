@@ -7,13 +7,24 @@ Supermemory oferece um mecanismo de memória altamente escalável e uma API proj
 - MIT
 - GitHub Trending · 1 Haziran 2026
 
-## Atualizar
-- 2 de agosto de 2026: Star 23.582 → 28.742, versão mais recente server-v0.0.6 (19 de julho de 2026).
-
 ## O que você ganha
 - Ele adiciona uma camada de memória persistente ao seu aplicativo.
 - Suporte de arquitetura escalável.
 - Fácil integração via API.
+
+## Como instalar, como usar?
+**Instale o SDK (Nó ou Python)**
+
+```
+npm install supermemory    # ya da: pip install supermemory
+```
+
+**Conecte o servidor MCP ao cliente AI**
+
+```
+npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes
+```
+
 
 ## Termos relacionados do glossário
 

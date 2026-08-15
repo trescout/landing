@@ -7,9 +7,6 @@ This open-source set of plugins from Anthropic brings together skills, connector
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Update
-- August 1, 2026: Star 16,517 → 23,222.
-
 ## What you get
 - Specializes Claude based on your role (e.g. marketing, finance, legal).
 - Each plugin consists of a suite of skills, connectors and commands, providing a quick start.
@@ -18,6 +15,21 @@ This open-source set of plugins from Anthropic brings together skills, connector
 
 ## Getting started
 You can install it from the Claude Cowork plugin market. The list of 11 plugins and their functions are included in a table in the repo. After installation, Claude begins to act like an expert in the relevant business function.
+
+## How to install, how to use?
+**Add Marketplace + install a role plugin**
+
+```
+claude plugin marketplace add anthropics/knowledge-work-plugins
+claude plugin install sales@knowledge-work-plugins
+```
+
+**Example: sales meeting preparation**
+
+```
+/sales:call-prep
+```
+
 
 ## Related dictionary terms
 

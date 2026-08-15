@@ -6,9 +6,6 @@ Développée pour Claude Code et divers agents de codage, cette bibliothèque pr
 - Python
 - GitHub Trending · 2026-07-05
 
-## Mise à jour
-- 2 août 2026 : Étoile 20 244 → 23 654, dernière version v2.9.0 (28 mai 2026).
-
 ## Ce que ça vous apporte
 - Plus de 350 packs de compétences prêts à l'emploi
 - Une vaste expertise de l’ingénierie au marketing

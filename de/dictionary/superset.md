@@ -21,5 +21,8 @@ Ja, denn es ermöglicht Ihnen, auf neue Technologien umzusteigen, ohne die mit d
 - [Framework](/de/dictionary/framework/)
 - [System Design](/de/dictionary/system-design/)
 
+## Verwandte Werkzeuge
+- [TypeScript](/de/discover/typescript/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/superset/

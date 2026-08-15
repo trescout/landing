@@ -24,5 +24,8 @@ Obwohl moderne Modelle die meisten Akzente verstehen, können sie bei sehr selte
 - [Speech Synthesis](/de/dictionary/speech-synthesis/)
 - [NLP](/de/dictionary/nlp/)
 
+## Verwandte Werkzeuge
+- [Transcribe.cpp](/de/discover/transcribe-cpp/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/speech-to-text/

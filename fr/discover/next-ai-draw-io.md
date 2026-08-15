@@ -6,9 +6,6 @@ Cette application basée sur Next.js combine l'outil de création de diagrammes 
 - TypeScript
 - GitHub Trending · 2026-07-12
 
-## Mise à jour
-- 2 août 2026 : Étoile 33 359 → 33 999, dernière version v0.4.16 (21 mai 2026).
-
 ## Ce que ça vous apporte
 - Dessinez des diagrammes professionnels avec des commandes en langage naturel
 - Convertissez des images et des fichiers PDF existants en diagrammes

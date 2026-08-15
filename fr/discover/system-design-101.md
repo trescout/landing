@@ -12,7 +12,6 @@ Le référentiel system-design-101 de ByteByteGoHq explique les architectures sy
 
 ## Pour commencer
 - Source officielle →
-Cet outil n'est pas une bibliothèque logicielle mais une ressource pédagogique complète. Pour commencer, vous pouvez parcourir la liste de contenu dans le référentiel GitHub et accéder aux guides explicatifs sur le site officiel de ByteByteGo en cliquant sur le titre qui vous intéresse.
 
 ## Termes liés du glossaire
 

@@ -27,5 +27,13 @@ Ja, es erfordert grundlegende Serveradministrations- und Netzwerkkenntnisse.
 - [Observability](/de/dictionary/observability/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Penpot](/de/discover/penpot/)
+- [Plane](/de/discover/plane/)
+- [Twenty](/de/discover/twenty/)
+- [AIRI](/de/discover/airi/)
+- [Self-Hosting-Guide](/de/discover/self-hosting-guide/)
+- [OpenStock](/de/discover/openstock/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/self-hosting/

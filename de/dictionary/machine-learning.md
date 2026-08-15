@@ -27,5 +27,12 @@ Weil es komplexe Aufgaben in Sekundenschnelle erledigen kann und dabei Daten ver
 - [Foundation Model](/de/dictionary/foundation-model/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Opencv](/de/discover/opencv/)
+- [Cs249r Book](/de/discover/cs249r-book/)
+- [Machine Learning for Trading](/de/discover/machine-learning-for-trading/)
+- [Maths Cs AI Compendium](/de/discover/maths-cs-ai-compendium/)
+- [Bonsai-demo](/de/discover/bonsai-demo/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/machine-learning/

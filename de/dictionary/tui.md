@@ -29,5 +29,8 @@ Am Anfang ist es notwendig, sich Tastaturkürzel zu merken, aber es ist viel eff
 - [Terminal](/de/dictionary/terminal/)
 - [Terminal Control](/de/dictionary/terminal-control/)
 
+## Verwandte Werkzeuge
+- [Witr](/de/discover/witr/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/tui/

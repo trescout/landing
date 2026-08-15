@@ -21,5 +21,9 @@ Es reduziert die Fehlerquote und ermöglicht es Ihnen, jedes Mal den gleichen Vo
 - [CLI](/de/dictionary/cli/)
 - [Terminal](/de/dictionary/terminal/)
 
+## Verwandte Werkzeuge
+- [NVM](/de/discover/nvm/)
+- [Meshery](/de/discover/meshery/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/bash-script/

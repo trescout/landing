@@ -6,9 +6,6 @@ AWS has released a toolset that includes Model Context Protocol servers, skills,
 - Python
 - GitHub Trending · 2026-06-26
 
-## Update
-- August 4, 2026: Star 1,209 → 2,215.
-
 ## What you get
 - Direct and secure interaction with AWS services
 - Standardized capabilities for AI agents

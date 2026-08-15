@@ -28,5 +28,8 @@ Es ist in der Regel sehr erfolgreich, es wird jedoch immer empfohlen, es von ein
 - [LSP](/de/dictionary/lsp/)
 - [CLI](/de/dictionary/cli/)
 
+## Verwandte Werkzeuge
+- [Oh My Pi](/de/discover/oh-my-pi/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-coding-agent/

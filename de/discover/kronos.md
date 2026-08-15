@@ -7,13 +7,26 @@ Kronos ist ein Grundlagenmodell zur Analyse der einzigartigen Muster der Finanzm
 - MIT
 - GitHub Trending · 28 May 2026
 
-## Aktualisieren
-- 2. August 2026: Stern 26.888 → 35.441.
-
 ## Was macht es?
 - Es bietet die Grundlage für die Modellierung von Marktmustern.
 - Es kann als Grundlagenmodell verfeinert werden.
 - Es bietet eine solide Grundlage für finanzielles NLP und Forschung.
+
+## ehrliche Anmerkung
+
+## Wie installiere ich, wie verwende ich?
+**Abhängigkeiten installieren**
+
+```
+pip install -r requirements.txt
+```
+
+**Führen Sie ein Beispielvorhersageskript aus**
+
+```
+python examples/prediction_example.py
+```
+
 
 ## Verwandte Begriffe aus dem Glossar
 

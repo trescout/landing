@@ -6,9 +6,6 @@ Anthropic ofrece un directorio oficial que recopila complementos de alta calidad
 - Python
 - GitHub Trending · 2026-06-24
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 30,960 → 32,968.
-
 ## Qué aporta
 - Descubra los complementos preparados para Claude Code desde un único centro
 - Agregue nuevas capacidades y herramientas a su asistente de codificación
@@ -16,7 +13,6 @@ Anthropic ofrece un directorio oficial que recopila complementos de alta calidad
 
 ## Cómo empezar
 - Fuente oficial →
-Puede explorar los complementos disponibles utilizando el menú '/plugin > Descubrir' en la interfaz de Claude Code. Para instalar complementos, simplemente use el comando '/plugin install {plugin-name}@claude-plugins-official' en la línea de comando de Claude Code.
 
 ## Términos relacionados del glosario
 

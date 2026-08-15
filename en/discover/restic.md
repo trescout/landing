@@ -5,9 +5,6 @@ Developed with the Go language, Restic offers an open source backup program that
 - ★ 35,302
 - GitHub Trending · 2026-06-12
 
-## Update
-- August 2, 2026: Star 34,273 → 35,302, latest version v0.19.1 (July 5, 2026).
-
 ## What you get
 - Provides high security by encrypting data
 - Saves storage space with incremental backup

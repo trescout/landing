@@ -6,9 +6,6 @@ Olmocr wurde von AllenAI entwickelt und ist ein Toolkit, das PDF-Dokumente in Te
 - Python
 - GitHub Trending · 2026-07-02
 
-## Aktualisieren
-- 2. August 2026: Star 18.418 → 19.259, letzte Version v0.4.27 (12. März 2026).
-
 ## Was es bringt
 - Konvertiert PDF- und Bildformate in sauberen Markdown-Text
 - Verarbeitet Gleichungen, Tabellen und komplexe Layouts in der richtigen Lesereihenfolge

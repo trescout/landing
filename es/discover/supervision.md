@@ -6,10 +6,6 @@ Desarrollado por Roboflow, Supervision ofrece herramientas y funciones auxiliare
 - Python
 - GitHub Trending · 2026-06-09
 
-## Actualizar
-- 6 de agosto de 2026: Star 48.545 → 49.033, última versión 0.30.0 (4 de agosto de 2026).
-- 2 de agosto de 2026: Estrella 42,546 → 48,545, última versión 0.29.1 (23 de junio de 2026).
-
 ## Qué aporta
 - Acelera los procesos de carga y procesamiento de datos en proyectos de visión por computadora.
 - Simplifica el desarrollo de aplicaciones al estandarizar operaciones como la detección y el seguimiento de objetos.

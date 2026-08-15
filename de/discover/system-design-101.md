@@ -12,7 +12,6 @@ Das system-design-101-Repository von ByteByteGoHq erklärt komplexe Systemarchit
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Bei diesem Tool handelt es sich nicht um eine Softwarebibliothek, sondern um eine umfassende Bildungsressource. Um zu beginnen, können Sie die Inhaltsliste im GitHub-Repository durchsuchen und auf die erklärenden Leitfäden auf der offiziellen Website von ByteByteGo zugreifen, indem Sie auf den Titel klicken, der Sie interessiert.
 
 ## Verwandte Begriffe aus dem Glossar
 

@@ -25,5 +25,8 @@ Nein, diese Software wird benötigt, da es unmöglich ist, Tausende von Zeichen 
 - [Neural Kana-Kanji Conversion Engine](/de/dictionary/neural-kana-kanji-conversion-engine/)
 - [User Interface](/de/dictionary/user-interface/)
 
+## Verwandte Werkzeuge
+- [Karukan](/de/discover/karukan/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/japanese-input-method-system/

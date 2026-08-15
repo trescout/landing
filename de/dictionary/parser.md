@@ -24,5 +24,9 @@ Wenn der Parser die Daten in einem Format findet, das er nicht verstehen kann, g
 - [Compiler](/de/dictionary/compiler/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Opendataloader PDF](/de/discover/opendataloader-pdf/)
+- [YAML Cpp](/de/discover/yaml-cpp/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/parser/

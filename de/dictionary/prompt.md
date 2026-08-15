@@ -24,5 +24,9 @@ Es handelt sich um Anweisungen, die sehr kurz, vage oder ohne Kontext sind. Wenn
 - [System Prompts](/de/dictionary/system-prompts/)
 - [AI Agent](/de/dictionary/ai-agent/)
 
+## Verwandte Werkzeuge
+- [AI Engineering from Scratch](/de/discover/ai-engineering-from-scratch/)
+- [Flue](/de/discover/flue/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/prompt/

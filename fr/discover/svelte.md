@@ -5,9 +5,6 @@ Contrairement aux frameworks traditionnels, Svelte utilise une approche de compi
 - ★ 87 724
 - GitHub Trending · 2026-06-07
 
-## Mise à jour
-- 2 août 2026 : Star 87.060 → 87.724, dernière version svelte@5.56.8 (24 juillet 2026).
-
 ## Ce que ça vous apporte
 - Réduit la charge d'exécution sur le navigateur
 - Convertit les codes en modules JavaScript à exécution rapide

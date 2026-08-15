@@ -24,5 +24,8 @@ Relay verhindert, dass die Verbindung verloren geht, wenn die Entfernung zu groÃ
 - [Proxy](/de/dictionary/proxy/)
 - [VPN](/de/dictionary/vpn/)
 
+## Verwandte Werkzeuge
+- [Croc](/de/discover/croc/)
+
 ---
 Quelle: TreScout Glossar Â· https://trescout.com/de/dictionary/relay/

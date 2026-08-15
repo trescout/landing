@@ -27,5 +27,8 @@ Es muss festgelegt werden, welche Aufgaben der Agent ausführen kann und welche 
 - [Agent Skill](/de/dictionary/agent-skills/)
 - [AI Skills](/de/dictionary/ai-skills/)
 
+## Verwandte Werkzeuge
+- [K Skill](/de/discover/k-skill/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/skill-sets/

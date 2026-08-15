@@ -6,11 +6,6 @@ This open source book on artificial intelligence agents (AI agents) comprehensiv
 - Python
 - GitHub Trending · 2026-07-20
 
-## Update
-- August 9, 2026: Star 33,116 → 34,874.
-- August 6, 2026: Star 29,814 → 33,116.
-- August 2, 2026: Star 7,362 → 29,814.
-
 ## What you get
 - Learn the working principles of artificial intelligence agents
 - Gain practical skills with hands-on code examples

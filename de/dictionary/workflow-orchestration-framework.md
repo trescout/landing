@@ -24,5 +24,8 @@ Es wird verwendet, um Fehler zu vermeiden, wenn zu viele miteinander verbundene 
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 - [Workflows](/de/dictionary/workflows/)
 
+## Verwandte Werkzeuge
+- [Prefect](/de/discover/prefect/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/workflow-orchestration-framework/

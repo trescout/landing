@@ -6,9 +6,6 @@ Le projet pgrust, dans lequel le système de gestion de base de données Postgre
 - Rust
 - GitHub Trending · 2026-07-12
 
-## Mise à jour
-- 2 août 2026 : Star 2 171 → 3 957, version finale v0.2-release (30 juillet 2026).
-
 ## Ce que ça vous apporte
 - Compatibilité des disques avec Postgres 18.3
 - Plus de 46 000 réussites aux tests de régression

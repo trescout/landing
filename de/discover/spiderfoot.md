@@ -6,9 +6,6 @@ SpiderFoot ist ein Python-Tool, das die Sammlung von Open Source Intelligence (O
 - Python
 - GitHub Trending · 2026-06-22
 
-## Aktualisieren
-- 2. August 2026: Star 18.921 → 20.026, neueste Version v4.0 (7. April 2022).
-
 ## Was es bringt
 - Automatische Datenerfassung mit mehr als 200 Modulen
 - Webbasierte Schnittstelle oder Befehlszeilenunterstützung

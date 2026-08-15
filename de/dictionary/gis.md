@@ -26,5 +26,8 @@ Nein, die Karte ist nur die Ausgabe. GIS ist der gesamte Prozess des Sammelns, S
 - [World Model](/de/dictionary/world-model/)
 - [OpenStreetMap](/de/dictionary/openstreetmap/)
 
+## Verwandte Werkzeuge
+- [GeoLibre](/de/discover/geolibre/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/gis/

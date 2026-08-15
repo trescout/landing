@@ -7,10 +7,6 @@ Introduction to artificial intelligence engineering from scratch: 485 lessons, 2
 - MIT
 - GitHub Trending · 26 May 2026
 
-## Update
-- August 11, 2026: Star 45,404 → 46,486, latest version v2026.08 (August 10, 2026).
-- August 1, 2026: Star 20,435 → 45,404, last version v2026.07 (July 25, 2026).
-
 ## What do you learn?
 - You set up the basics such as backprop, tokenizer and attention manually, starting with the math.
 - You develop end-to-end, from the agent loop to the MCP server.
@@ -19,6 +15,9 @@ Introduction to artificial intelligence engineering from scratch: 485 lessons, 2
 
 ## How it works
 Each lesson follows the same cycle: analyze the problem, do the math, write the code, run the test, and store the output. There are no five-minute videos or copy-paste deployment processes. Everything runs on your own computer.
+
+## How to use it with AI?
+I'll give you the content of a 20-phase, 500+ lesson open source curriculum called 'ai-engineering-from-scratch' that teaches AI engineering from scratch. Review the README and the roadmap and it gives me a personal study plan, in Turkish, divided into weeks: which phase should I start from, what are the prerequisites and in what order should I proceed? My level: [eg. beginner].
 
 ## Related dictionary terms
 

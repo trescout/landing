@@ -6,9 +6,6 @@ Desarrollado por AllenAI, olmocr es un conjunto de herramientas que convierte do
 - Python
 - GitHub Trending · 2026-07-02
 
-## Actualizar
-- 2 de agosto de 2026: Star 18.418 → 19.259, última versión v0.4.27 (12 de marzo de 2026).
-
 ## Qué aporta
 - Convierte formatos de imagen y PDF para limpiar texto Markdown
 - Procesa ecuaciones, tablas y diseños complejos en el orden de lectura correcto.

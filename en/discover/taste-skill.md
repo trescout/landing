@@ -7,10 +7,6 @@ When artificial intelligence agents produce interfaces, they often give template
 - MIT
 - GitHub Trending · 26 May 2026
 
-## Update
-- August 7, 2026: Star 69,955 → 73,831.
-- August 1, 2026: Star 21,137 → 69,955.
-
 ## What you get
 - Better layout, typography and movement; you get rid of the standard "boilerplate" look.
 - Thanks to its portable structure, it can be easily integrated into different AI agents.
@@ -18,6 +14,20 @@ When artificial intelligence agents produce interfaces, they often give template
 
 ## How to use?
 When you add the skill to your AI agent (steps at tasteskill.dev), it is automatically activated during interface generation, taking design quality to the next level.
+
+## How to install, how to use?
+**Install all skills**
+
+```
+npx skills add https://github.com/Leonxlnx/taste-skill
+```
+
+**Build a single skill**
+
+```
+npx skills add https://github.com/Leonxlnx/taste-skill --skill "design-taste-frontend"
+```
+
 
 ## Related dictionary terms
 

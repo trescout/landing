@@ -23,6 +23,7 @@ Wenn die Aufgabe sehr komplex ist oder das Modell über eine geringe Kapazität 
 
 
 ## Verwandte Begriffe
+- [Zero-shot Learning](/de/dictionary/zero-shot-learning/)
 - [Prompt Engineering](/de/dictionary/prompt-engineering/)
 - [LLM](/de/dictionary/llm/)
 - [Fine-tuning](/de/dictionary/fine-tuning/)

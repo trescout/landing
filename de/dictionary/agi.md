@@ -28,6 +28,7 @@ Dabei handelt es sich um ein Thema, das im Mittelpunkt ethischer und sicherheits
 - [World Model](/de/dictionary/world-model/)
 - [AI Agent](/de/dictionary/ai-agent/)
 - [Foundation Model](/de/dictionary/foundation-model/)
+- [Artificial Intelligence](/de/dictionary/artificial-intelligence/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agi/

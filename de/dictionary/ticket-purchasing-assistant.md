@@ -27,5 +27,8 @@ Solange die Integration erreicht ist, können Sie Flug-, Bahn-, Konzert- oder Ki
 - [Autonomous AI Agent](/de/dictionary/autonomous-ai-agent/)
 - [Agentic Skills](/de/dictionary/agentic-skills/)
 
+## Verwandte Werkzeuge
+- [biliTickerBuy](/de/discover/bilitickerbuy/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ticket-purchasing-assistant/

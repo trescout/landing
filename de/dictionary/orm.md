@@ -28,5 +28,8 @@ Bei sehr komplexen Abfragen kann manuelles SQL manchmal schneller sein, aber in 
 - [Database](/de/dictionary/database/)
 - [Tech Stack](/de/dictionary/tech-stack/)
 
+## Verwandte Werkzeuge
+- [Prisma](/de/discover/prisma/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/orm/

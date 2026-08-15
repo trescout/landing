@@ -7,15 +7,32 @@ RuView fournit une intelligence spatiale en temps réel, un suivi des signes vit
 - MIT
 - GitHub Trending · 30 May 2026
 
-## Mise à jour
-- 12 août 2026 : Star 88.270 → 89.705, dernière version v2235 (11 août 2026).
-- 3 août 2026 : Star 88.185 → 88.270, dernière version v2146 (2 août 2026).
-- 2 août 2026 : Étoile 68 643 → 88 185, dernière version v2143 (2 août 2026).
-
 ## Que propose-t-il ?
 - Détection de présence et de mouvement sans utiliser de caméra.
 - Surveillance des signes vitaux (respiration et pouls).
 - Intelligence spatiale en temps réel.
+
+## Note de responsabilité
+
+## Comment installer, comment utiliser ?
+**Extraire l'image Docker**
+
+```
+docker pull ruvnet/wifi-densepose:latest
+```
+
+**Exécuter avec Docker (simulation, aucun matériel requis)**
+
+```
+docker run -p 3000:3000 ruvnet/wifi-densepose:latest
+```
+
+**Paquet Python (PyPI)**
+
+```
+pip install ruview
+```
+
 
 ## Termes liés du glossaire
 

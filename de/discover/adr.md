@@ -6,9 +6,6 @@ ADR wurde von Uber entwickelt und schützt KI-Agenten von Unternehmen mit Observ
 - Python
 - GitHub Trending · 2026-08-05
 
-## Aktualisieren
-- 6. August 2026: Star 782 → 1.123, neueste Version sensor-v1.0.0 (31. Juli 2026).
-
 ## Was es bringt
 - Es überwacht die von KI-Agenten durchgeführten Aktionen und ermöglicht Ihnen zu verstehen, was sie tun und warum sie es tun.
 - Testet die Agentensicherheit mit über 300 Einsätzen gegen 17 verschiedene Angriffstechniken.

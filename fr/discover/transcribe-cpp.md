@@ -6,9 +6,6 @@ Transcribe.cpp est une bibliothèque d'inférence parole-texte développée en C
 - C++
 - GitHub Trending · 2026-07-21
 
-## Mise à jour
-- 2 août 2026 : Star 1 357 → 1 673, dernière version v0.1.3 (12 juillet 2026).
-
 ## Ce que ça vous apporte
 - Prise en charge de 16 familles de modèles différentes
 - Hautes performances sur GPU et CPU

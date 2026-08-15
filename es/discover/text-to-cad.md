@@ -6,10 +6,6 @@ Las herramientas de texto a CAD son un conjunto de habilidades de agentes desarr
 - JavaScript
 - GitHub Trending · 2026-07-22
 
-## Actualizar
-- 12 de agosto de 2026: Star 12.478 → 13.287, última versión 0.4.5 (12 de agosto de 2026).
-- 2 de agosto de 2026: Star 9.319 → 12.478, última versión 0.3.13 (31 de julio de 2026).
-
 ## Qué aporta
 - Cree modelos CAD complejos con lenguaje natural
 - Preparación de estructura robótica y archivos de simulación.

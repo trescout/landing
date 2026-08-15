@@ -26,5 +26,11 @@ Nein, die Benutzeroberfläche umfasst die visuellen Teile (Farbe, Schaltfläche)
 - [Generative UI](/de/dictionary/generative-ui/)
 - [Web Interface](/de/dictionary/web-interface/)
 
+## Verwandte Werkzeuge
+- [Flutter](/de/discover/flutter/)
+- [Imgui](/de/discover/imgui/)
+- [Page Agent](/de/discover/page-agent/)
+- [Tuicr](/de/discover/tuicr/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/user-interface/

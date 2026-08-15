@@ -29,5 +29,15 @@ Ja, aber für KI werden in der Regel professionelle Modelle verwendet, die mit m
 - [Machine Learning](/de/dictionary/machine-learning/)
 - [Deployment](/de/dictionary/deployment/)
 
+## Verwandte Werkzeuge
+- [Pytorch](/de/discover/pytorch/)
+- [Llmfit](/de/discover/llmfit/)
+- [Olmocr](/de/discover/olmocr/)
+- [Ktransformers](/de/discover/ktransformers/)
+- [Cupy](/de/discover/cupy/)
+- [Train LLM from Scratch](/de/discover/train-llm-from-scratch/)
+- [Terax AI](/de/discover/terax-ai/)
+- [Meshoptimizer](/de/discover/meshoptimizer/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/gpu/

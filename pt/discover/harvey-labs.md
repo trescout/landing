@@ -13,7 +13,6 @@ Harvey Labs é uma ferramenta de benchmarking projetada para medir e melhorar as
 
 ## Como começar
 - Fonte oficial →
-Para começar, verifique o arquivo docs/tutorial.md na documentação da página do GitHub. Este guia orienta você sobre como gerenciar uma missão de data room de fusões e aquisições de ponta a ponta, desde a configuração até a revisão do relatório.
 
 ## Termos relacionados do glossário
 

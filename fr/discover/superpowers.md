@@ -7,9 +7,6 @@ Superpowers est une méthodologie complète de développement logiciel de compé
 - MIT
 - GitHub Trending · 28 May 2026
 
-## Mise à jour
-- 2 août 2026 : Étoile 209 561 → 264 883, dernière version v6.2.0 (24 juillet 2026).
-
 ## Ce que ça vous apporte
 - Un ensemble de compétences composites prêtes à l’emploi pour votre agent.
 - Une méthodologie de développement structurée.
@@ -18,6 +15,14 @@ Superpowers est une méthodologie complète de développement logiciel de compé
 
 ## Pour commencer
 Donnez des super pouvoirs à votre agent avec TreScout ; Des étapes de démarrage rapide pour Claude Code, Codex et Gemini vous attendent dans le référentiel.
+
+## Comment installer, comment utiliser ?
+**Claude Code · installer depuis le marché officiel**
+
+```
+/plugin install superpowers@claude-plugins-official
+```
+
 
 ## Termes liés du glossaire
 

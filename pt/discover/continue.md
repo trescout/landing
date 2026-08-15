@@ -5,9 +5,6 @@ Continue é um agente de codificação de código aberto projetado para automati
 - ★ 35.282
 - GitHub Trending · 2026-06-18
 
-## Atualizar
-- 2 de agosto de 2026: Star 34.017 → 35.282, versão mais recente v2.0.0-vscode (19 de junho de 2026).
-
 ## O que você ganha
 - Acelera os processos de codificação e depuração
 - Fornece um espaço de trabalho seguro com modelos de idioma local

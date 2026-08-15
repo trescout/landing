@@ -27,5 +27,8 @@ Nein, die Art jedes Projekts ist anders; Daher müssen Sie Ihr Framework an die 
 - [Workflows](/de/dictionary/workflows/)
 - [Framework](/de/dictionary/framework/)
 
+## Verwandte Werkzeuge
+- [AI Berkshire](/de/discover/ai-berkshire/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/research-framework/

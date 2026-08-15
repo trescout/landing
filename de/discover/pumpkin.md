@@ -6,9 +6,6 @@ Pumpkin wurde mit der Programmiersprache Rust entwickelt und bietet eine Open-So
 - Rust
 - GitHub Trending · 2026-07-23
 
-## Aktualisieren
-- 2. August 2026: Stern 8.562 → 10.510.
-
 ## Was es bringt
 - Hochleistungs-Serververwaltung mit Rust-Sprache
 - Unterstützung für Java und Bedrock Edition
@@ -16,7 +13,6 @@ Pumpkin wurde mit der Programmiersprache Rust entwickelt und bietet eine Open-So
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Das Pumpkin-Projekt befindet sich noch in der Entwicklung. Informationen zu Installations- und Betriebsschritten finden Sie in der Kurzanleitung auf der offiziellen Dokumentationsseite.
 
 ## Verwandte Begriffe aus dem Glossar
 

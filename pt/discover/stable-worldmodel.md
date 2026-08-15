@@ -7,13 +7,24 @@ modelo de mundo estável; É uma plataforma que garante que a investigação sob
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
 
-## Atualizar
-- 2 de agosto de 2026: Star 1.403 → 2.080, última versão 0.1.1 (6 de junho de 2026).
-
 ## O que isso faz?
 - Tornando a pesquisa reproduzível.
 - Fornecer um ambiente de avaliação padrão.
 - Não é uma ferramenta para o usuário final, mas uma solução direta para pesquisa.
+
+## Como instalar, como usar?
+**Instalar do PyPI (todos os plug-ins)**
+
+```
+pip install 'stable-worldmodel[all]'
+```
+
+**Listar conjuntos de dados armazenados em cache**
+
+```
+swm datasets
+```
+
 
 ## Termos relacionados do glossário
 

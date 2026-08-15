@@ -23,8 +23,12 @@ Normalerweise nicht, da sich die virtuelle Maschine in einer vom Hostsystem isol
 
 
 ## Verwandte Begriffe
+- [Containers](/de/dictionary/containers/)
 - [Runtime](/de/dictionary/runtime/)
 - [Self-hosting](/de/dictionary/self-hosting/)
+
+## Verwandte Werkzeuge
+- [Container](/de/discover/container/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/virtual-machines/

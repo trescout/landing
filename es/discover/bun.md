@@ -6,9 +6,6 @@ Bun es una herramienta de alto rendimiento que combina el tiempo de ejecución d
 - Rust
 - GitHub Trending · 2026-07-11
 
-## Actualizar
-- 2 de agosto de 2026: Star 94.374 → 95.153, última versión bun-v1.3.14 (13 de mayo de 2026).
-
 ## Qué aporta
 - Tiempo de ejecución rápido compatible con Node.js
 - Administrador de paquetes y herramienta de prueba bajo un mismo techo

@@ -6,12 +6,6 @@ Das von Alibaba entwickelte Open-Source-Code-Review-Tool kombiniert deterministi
 - Go
 - GitHub Trending · 2026-07-24
 
-## Aktualisieren
-- 12. August 2026: Star 19.983 → 20.197, neueste Version v1.9.2 (12. August 2026).
-- 11. August 2026: Star 19.972 → 19.983, neueste Version v1.9.1 (11. August 2026).
-- 11. August 2026: Star 19.417 → 19.972, neueste Version v1.9.0 (10. August 2026).
-- 7. August 2026: Star 19.239 → 19.417, neueste Version v1.8.10 (7. August 2026).
-
 ## Was es bringt
 - Zeilenbasierte präzise Fehlererkennung
 - Hohe Effizienz bei geringem Tokenverbrauch

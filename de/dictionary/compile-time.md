@@ -27,5 +27,8 @@ Nein, einige Sprachen (wie Python) können direkt ohne Kompilierung ausgeführt 
 - [Computer Science](/de/dictionary/computer-science/)
 - [LSP](/de/dictionary/lsp/)
 
+## Verwandte Werkzeuge
+- [Svelte](/de/discover/svelte/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/compile-time/

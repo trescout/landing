@@ -6,11 +6,6 @@ VulnClaw automatisiert Penetrationstestprozesse mithilfe von KI-Agenten und der 
 - Python
 - GitHub Trending · 2026-06-30
 
-## Aktualisieren
-- 9. August 2026: Star 2.575 → 2.646, neueste Version v0.3.8 (9. August 2026).
-- 6. August 2026: Star 2.425 → 2.575, neueste Version v0.3.7 (4. August 2026).
-- 2. August 2026: Star 1.313 → 2.425, neueste Version v0.3.6 (25. Juli 2026).
-
 ## Was es bringt
 - End-to-End-Penetrationstests mit Befehlen in natürlicher Sprache
 - Gezieltes autonomes Sicherheitsscannen

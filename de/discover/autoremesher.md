@@ -6,9 +6,6 @@ Autoremesher ist ein Werkzeug, das unregelmäßige Oberflächenstrukturen in dre
 - C++
 - GitHub Trending · 2026-07-09
 
-## Aktualisieren
-- 2. August 2026: Star 2.123 → 3.087, letzte Version 1.0.0 (6. Juli 2026).
-
 ## Was es bringt
 - Wandelt komplexe Modelle in saubere rechteckige Netze um
 - Bietet eine optimierte Topologie für Animationsprozesse

@@ -6,9 +6,6 @@ Desenvolvido para modelos de linguagem recursiva, rlm é uma biblioteca de infer
 - Python
 - GitHub Trending · 2026-06-18
 
-## Atualizar
-- 2 de agosto de 2026: Star 4.987 → 5.343, versão mais recente v0.1.3 (26 de junho de 2026).
-
 ## O que você ganha
 - Gerenciamento de contexto de comprimento infinito
 - Arquitetura plug-and-play executada em um ambiente de código

@@ -6,9 +6,6 @@ SmsForwarder est un outil qui transfère les messages texte, les appels et les n
 - Kotlin
 - GitHub Trending · 2026-06-21
 
-## Mise à jour
-- 2 août 2026 : Star 26 560 → 27 342, dernière version v3.5.0 (14 février 2026).
-
 ## Ce que ça vous apporte
 - Transfert automatique des SMS, appels et notifications
 - Gérer à distance l'appareil et interroger les données
@@ -16,7 +13,6 @@ SmsForwarder est un outil qui transfère les messages texte, les appels et les n
 
 ## Pour commencer
 - Source officielle →
-Pour commencer à utiliser l'outil, visitez la page des versions officielles sur GitHub. Téléchargez le fichier APK mis à jour sur la page sur votre appareil et terminez l'installation. Pour obtenir un manuel d'utilisation détaillé et les étapes de configuration, vous pouvez consulter la page Wiki GitHub du projet.
 
 ## Liens
 - Dépôt GitHub →

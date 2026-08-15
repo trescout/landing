@@ -23,6 +23,7 @@ Computer verstehen Roh-PDF-Dateien nicht, ihre Umwandlung in aussagekräftige Da
 
 
 ## Verwandte Begriffe
+- [Document Parsing](/de/dictionary/document-parsing/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 - [RAG](/de/dictionary/rag/)
 - [NLP](/de/dictionary/nlp/)

@@ -6,9 +6,6 @@ Desenvolvido pela TencentCloud em Rust, CubeSandbox oferece um ambiente de traba
 - Rust
 - GitHub Trending · 2026-07-02
 
-## Atualizar
-- 2 de agosto de 2026: Star 6.927 → 10.828, versão mais recente v0.6.0 (24 de julho de 2026).
-
 ## O que você ganha
 - Inicialização rápida em menos de 60 milissegundos
 - área segura isolada no nível do hardware
@@ -24,7 +21,6 @@ pip install cubesandbox
 
 ## Como começar
 - Fonte oficial →
-Para obter detalhes de instalação e uso, você pode revisar o guia de início rápido na seção de documentação do repositório GitHub. Para acessar a interface da web, basta visitar http://<control-node IP>:12088 em seu navegador após a instalação.
 
 ## Termos relacionados do glossário
 

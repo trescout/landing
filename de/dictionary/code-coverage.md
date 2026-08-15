@@ -24,5 +24,8 @@ Es kann automatisch mit Testbibliotheken gemessen werden, die für die von Ihnen
 - [Testing Framework](/de/dictionary/testing-framework/)
 - [QA](/de/dictionary/qa/)
 
+## Verwandte Werkzeuge
+- [Lighthouse](/de/discover/lighthouse/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/code-coverage/

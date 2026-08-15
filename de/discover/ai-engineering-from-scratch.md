@@ -7,10 +7,6 @@ Einführung in die Technik der künstlichen Intelligenz von Grund auf: 485 Lekti
 - MIT
 - GitHub Trending · 26 May 2026
 
-## Aktualisieren
-- 11. August 2026: Star 45.404 → 46.486, neueste Version v2026.08 (10. August 2026).
-- 1. August 2026: Star 20.435 → 45.404, letzte Version v2026.07 (25. Juli 2026).
-
 ## Was lernt man?
 - Sie richten die Grundlagen wie Backprop, Tokenizer und Attention manuell ein und beginnen mit der Mathematik.
 - Sie entwickeln End-to-End, von der Agentenschleife bis zum MCP-Server.
@@ -19,6 +15,9 @@ Einführung in die Technik der künstlichen Intelligenz von Grund auf: 485 Lekti
 
 ## So funktioniert es
 Jede Lektion folgt demselben Zyklus: Problem analysieren, rechnen, Code schreiben, Test ausführen und Ausgabe speichern. Es gibt keine fünfminütigen Videos oder Bereitstellungsprozesse zum Kopieren und Einfügen. Alles läuft auf Ihrem eigenen Computer.
+
+## Wie nutzt man es mit KI?
+Ich gebe Ihnen den Inhalt eines 20-Phasen-Open-Source-Lehrplans mit mehr als 500 Lektionen namens „AI-Engineering von Grund auf“, der KI-Engineering von Grund auf lehrt. Wenn ich die README-Datei und die Roadmap durchschaue, erhalte ich einen persönlichen Lernplan auf Türkisch, der in Wochen unterteilt ist: Mit welcher Phase soll ich beginnen, was sind die Voraussetzungen und in welcher Reihenfolge soll ich fortfahren? Mein Niveau: [zB. Anfänger].
 
 ## Verwandte Begriffe aus dem Glossar
 

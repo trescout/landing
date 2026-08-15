@@ -7,12 +7,6 @@ claude-mem ermöglicht Ihren KI-Agenten einen sitzungsübergreifenden Rückruf. 
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Aktualisieren
-- 11. August 2026: Star 90.015 → 90.349, neueste Version v13.15.0 (10. August 2026).
-- 8. August 2026: Star 89.464 → 90.015, neueste Version v13.14.0 (8. August 2026).
-- 4. August 2026: Star 89.371 → 89.464, neueste Version v13.13.1 (3. August 2026).
-- 3. August 2026: Star 89.278 → 89.371, neueste Version v13.13.0 (2. August 2026).
-
 ## Was es bringt
 - Der Agent fängt nicht jedes Mal bei Null an, sondern erinnert sich an die Vergangenheit.
 - Der Sitzungsverlauf wird mit künstlicher Intelligenz zusammengefasst und relevante Teile werden abgerufen.
@@ -20,6 +14,14 @@ claude-mem ermöglicht Ihren KI-Agenten einen sitzungsübergreifenden Rückruf. 
 
 ## So funktioniert es
 Es zeichnet automatisch die vom Agenten während der Sitzung durchgeführten Aktionen auf.
+
+## Installation (einzelner Befehl)
+**Installation (einzelner Befehl)**
+
+```
+npx claude-mem install
+```
+
 
 ## Verwandte Begriffe aus dem Glossar
 

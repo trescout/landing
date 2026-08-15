@@ -24,5 +24,8 @@ Es spürt Sie nicht wirklich, aber dank der Daten, auf die es trainiert wurde, k
 - [Autonomous Agent](/de/dictionary/autonomous-agent/)
 - [LLM](/de/dictionary/llm/)
 
+## Verwandte Werkzeuge
+- [AIRI](/de/discover/airi/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-companion/

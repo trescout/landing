@@ -5,9 +5,6 @@ Published by Microsoft, VibeVoice was developed as an open source voice AI frame
 - ★ 51,860
 - GitHub Trending · 2026-06-07
 
-## Update
-- August 2, 2026: Star 48,569 → 51,860.
-
 ## What you get
 - Converts up to 60 minutes of audio recording to text at a time.
 - It provides speaker ID, timestamp and content details in a structured way.

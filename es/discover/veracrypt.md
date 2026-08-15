@@ -6,9 +6,6 @@ VeraCrypt es una herramienta de cifrado de disco desarrollada en base a TrueCryp
 - C
 - GitHub Trending · 2026-06-30
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 10,574 → 10,906, última versión VeraCrypt_1.26.29 (12 de junio de 2026).
-
 ## Qué aporta
 - Cifrado de disco de código abierto
 - Estándares de seguridad avanzados
@@ -24,7 +21,6 @@ brew install --cask veracrypt
 
 ## Cómo empezar
 - Fuente oficial →
-Para comenzar a usar VeraCrypt, puede visitar el sitio web oficial veracrypt.jp y descargar el archivo de instalación adecuado para su sistema operativo. Si desea compilar desde el código fuente, puede seguir los pasos específicos de su sistema examinando los archivos CompilingGuideline en la carpeta de documentación del repositorio.
 
 ## Enlaces
 - Repositorio en GitHub →

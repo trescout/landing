@@ -22,5 +22,15 @@ Es ist viel zugänglicher geworden als zuvor, erfordert jedoch immer noch erhebl
 Nein, Feinabstimmung ist ein permanenter Prozess; Für aktuelle Informationen ist es viel sinnvoller, RAG zu nutzen.
 
 
+## Verwandte Begriffe
+- [Foundation Model](/de/dictionary/foundation-model/)
+- [LLM](/de/dictionary/llm/)
+- [RLHF](/de/dictionary/rlhf/)
+- [Distillation](/de/dictionary/distillation/)
+
+## Verwandte Werkzeuge
+- [Transformers](/de/discover/transformers/)
+- [Ktransformers](/de/discover/ktransformers/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/fine-tuning/

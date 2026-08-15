@@ -7,13 +7,13 @@ Developer Portfolios ist eine übersichtliche Sammlung von Portfolio-Beispielen,
 - Lisans: yok
 - GitHub Trending · 1 Haziran 2026
 
-## Aktualisieren
-- 2. August 2026: Stern 23.623 → 25.746.
-
 ## Was es bringt
 - Bietet Zugriff auf Hunderte realer Portfolio-Beispiele.
 - Es bietet Inspiration für Ihre Design- und Content-Erstellungsprozesse.
 - Es bietet eine zuverlässige Referenz bei der Planung Ihrer eigenen Website.
+
+## Wie nutzt man es mit KI?
+Ich gebe Ihnen eine Liste mit Links zu inspirierenden persönlichen Portfolioseiten von Softwareentwicklern, die „Entwicklerportfolios“ genannt werden. Sehen Sie sich die Liste an und wählen Sie die am besten geeigneten Portfolios aus, die ich als Beispiel für meinen Beruf nehmen kann, und Sie erhalten eine Roadmap für die Einrichtung meiner eigenen Portfolio-Site. Meine Domain: [zB. Frontend-Entwickler]. Mein Ziel: [zB. beeindruckendes Portfolio für die Bewerbung.
 
 ## Verwandte Begriffe aus dem Glossar
 

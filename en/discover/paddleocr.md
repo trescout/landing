@@ -5,9 +5,6 @@ Developed by PaddlePaddle, PaddleOCR is a lightweight optical character recognit
 - ★ 86,787
 - GitHub Trending · 2026-06-05
 
-## Update
-- August 2, 2026: Star 80,160 → 86,787, latest version v3.7.0 (June 11, 2026).
-
 ## What you get
 - Converts PDFs and images to JSON or Markdown format
 - Recognizes more than 100 languages ​​with a single model

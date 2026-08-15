@@ -6,9 +6,6 @@ Das von OpenAI entwickelte Codex-Plugin wird auf Claude Code verwendet, um Code�
 - JavaScript
 - GitHub Trending · 2026-07-03
 
-## Aktualisieren
-- 2. August 2026: Star 22.800 → 30.950, neueste Version v1.0.6 (8. Juli 2026).
-
 ## Was es bringt
 - Automatisiert Codeüberprüfungsprozesse
 - Delegiert Aufgaben an das Codex-Modell

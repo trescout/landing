@@ -6,10 +6,6 @@ Moonshine offers low-latency speech to text, intent recognition and text to spee
 - C++
 - GitHub Trending · 2026-07-21
 
-## Update
-- August 7, 2026: Star 10,579 → 10,671, latest version v0.1.1 (August 7, 2026).
-- August 2, 2026: Star 10,028 → 10,579, last version v0.1.0 (July 27, 2026).
-
 ## What you get
 - Fast and discreet audio processing running on-device
 - Low latency optimized for live broadcasts

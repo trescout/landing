@@ -6,12 +6,6 @@ No-Mistakes wurde mit der Go-Sprache entwickelt und ist ein Befehlszeilentool, d
 - Go
 - GitHub Trending · 2026-06-25
 
-## Aktualisieren
-- 12. August 2026: Star 7.475 → 7.589, neueste Version v1.48.0 (8. August 2026).
-- 9. August 2026: Star 7.424 → 7.475, neueste Version v1.46.0 (6. August 2026).
-- 6. August 2026: Star 7.334 → 7.424, neueste Version v1.45.4 (4. August 2026).
-- 2. August 2026: Star 2.519 → 7.334, neueste Version v1.41.2 (24. Juli 2026).
-
 ## Was es bringt
 - Verhindert, dass fehlerhafte Codes den Remote-Server erreichen
 - Automatische Überprüfung und saubere PR-Generierung

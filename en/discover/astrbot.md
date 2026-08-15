@@ -6,10 +6,6 @@ AstrBot is an artificial intelligence agent development framework that integrate
 - Python
 - GitHub Trending · 2026-07-20
 
-## Update
-- August 6, 2026: Star 38,478 → 38,683, latest version v4.27.2 (August 5, 2026).
-- August 2, 2026: Star 36,787 → 38,478, latest version v4.27.1 (August 2, 2026).
-
 ## What you get
 - Integration with popular messaging platforms
 - Extensible structure with thousands of plugins

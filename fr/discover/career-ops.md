@@ -6,11 +6,6 @@
 - JavaScript
 - GitHub Trending · 2026-06-07
 
-## Mise à jour
-- 11 août 2026 : Star 62 979 → 63 452, dernière version carrière-ops-v1.26.0 (10 août 2026).
-- 6 août 2026 : Star 62 526 → 62 979, dernière version carrière-ops-v1.25.0 (4 août 2026).
-- 2 août 2026 : Star 49 580 → 62 526, dernière version carrière-ops-v1.24.0 (30 juillet 2026).
-
 ## Ce que ça vous apporte
 - Filtrez les offres d'emploi en les notant dans 10 dimensions différentes
 - Création d'un CV compatible ATS spécifique à la description de poste

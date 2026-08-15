@@ -28,5 +28,8 @@ Es wird manuell oder über das System aktualisiert, wenn Sie eine Verbindung zum
 - [Self-hosting](/de/dictionary/self-hosting/)
 - [Quantization](/de/dictionary/quantization/)
 
+## Verwandte Werkzeuge
+- [Project N.O.M.A.D](/de/discover/project-nomad/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/offline/

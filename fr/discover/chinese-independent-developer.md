@@ -6,9 +6,6 @@ Cette base de données open source, qui recense les projets réalisés par des d
 - Python
 - GitHub Trending · 2026-07-15
 
-## Mise à jour
-- 2 août 2026 : Étoile 54 609 → 60 379.
-
 ## Ce que ça vous apporte
 - Accès aux applications actuelles de développeurs indépendants
 - Suivre des études orientées produit dans différents secteurs
@@ -16,7 +13,6 @@ Cette base de données open source, qui recense les projets réalisés par des d
 
 ## Pour commencer
 - Source officielle →
-Cet outil ne nécessite pas d'installation de logiciel. Pour consulter les projets, vous pouvez visiter la page d'accueil sur GitHub et naviguer directement en cliquant sur les sites Web des applications répertoriées ou sur les liens de leurs référentiels respectifs.
 
 ## Termes liés du glossaire
 

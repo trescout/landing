@@ -28,5 +28,8 @@ IPTV ist eine Übertragungstechnologie und legal; Raubkopien von Streaming-Diens
 - [API](/de/dictionary/api/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Iptv](/de/discover/iptv/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/iptv/

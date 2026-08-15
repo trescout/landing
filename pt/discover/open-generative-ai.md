@@ -6,9 +6,6 @@ Open-Generative-AI é uma plataforma de estúdio de código aberto, sem filtrage
 - JavaScript
 - GitHub Trending · 2026-06-28
 
-## Atualizar
-- 2 de agosto de 2026: Star 21.507 → 25.418, última versão v2.0.0 (23 de maio de 2026).
-
 ## O que você ganha
 - Mais de 200 modelos avançados de IA
 - Sem filtros de conteúdo ou taxas de assinatura

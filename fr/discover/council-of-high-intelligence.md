@@ -6,9 +6,6 @@ Le Conseil de la Haute Intelligence mène des processus décisionnels structuré
 - Shell
 - GitHub Trending · 2026-06-30
 
-## Mise à jour
-- 2 août 2026 : Étoile 2 176 → 3 808, dernière version v1.2.0 (4 juillet 2026).
-
 ## Ce que ça vous apporte
 - Analyse avec 18 personnalités expertes différentes
 - Contre-interrogatoire avec différents modèles d’intelligence artificielle

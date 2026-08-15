@@ -24,5 +24,8 @@ Da der Überblick über zu viele Anträge gleichzeitig die Effizienz verringert,
 - [API](/de/dictionary/api/)
 - [AI Agent](/de/dictionary/ai-agent/)
 
+## Verwandte Werkzeuge
+- [Rocket.Chat](/de/discover/rocket-chat/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/communications-operating-system/

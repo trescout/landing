@@ -6,12 +6,6 @@ CUA proporciona una infraestructura de código abierto para agentes de inteligen
 - HTML
 - GitHub Trending · 2026-06-16
 
-## Actualizar
-- 12 de agosto de 2026: Star 21 066 → 21 225, última versión lume-v0.5.3 (11 de agosto de 2026).
-- 10 de agosto de 2026: Star 20 990 → 21 066, última versión cli-v0.1.14 (10 de agosto de 2026).
-- 7 de agosto de 2026: Star 20 962 → 20 990, última versión flota-v0.1.7 (7 de agosto de 2026).
-- 6 de agosto de 2026: Star 20,909 → 20,962, última versión sandbox-v0.1.27 (5 de agosto de 2026).
-
 ## Qué aporta
 - Controlar las aplicaciones de escritorio en segundo plano
 - Sandboxes aislados para diferentes sistemas operativos

@@ -25,6 +25,10 @@ Denn die Verarbeitung numerischer Daten ist viel schneller und effizienter als d
 ## Verwandte Begriffe
 - [Token](/de/dictionary/token/)
 - [NLP](/de/dictionary/nlp/)
+- [Tokenizer-free](/de/dictionary/tokenizer-free/)
+
+## Verwandte Werkzeuge
+- [AI Engineering from Scratch](/de/discover/ai-engineering-from-scratch/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/tokenizer/

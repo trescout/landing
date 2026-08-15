@@ -13,7 +13,6 @@ Le téléchargeur de sites Web, développé par AhmadIbrahiim, permet de téléc
 
 ## Pour commencer
 - Source officielle →
-Pour commencer à utiliser l'outil, téléchargez les codes de la page GitHub sur votre ordinateur. Rendez-vous ensuite dans le dossier du projet via le terminal, installez les dépendances nécessaires et démarrez l'application. Une fois l'application exécutée, vous pouvez commencer le téléchargement en accédant à son adresse locale via votre navigateur.
 
 ## Termes liés du glossaire
 

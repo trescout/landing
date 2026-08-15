@@ -27,5 +27,8 @@ Ja, künstliche Intelligenz, die den Gesichtsbewegungen des Benutzers folgt, kan
 - [Generative AI](/de/dictionary/generative-ai/)
 - [Design Language](/de/dictionary/design-language/)
 
+## Verwandte Werkzeuge
+- [Open-LLM-VTuber](/de/discover/open-llm-vtuber/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/live2d/

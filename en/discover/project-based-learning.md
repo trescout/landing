@@ -13,7 +13,6 @@ Project-based learning is a list that brings together resources that teach softw
 
 ## Getting started
 - Official source →
-Since this is a software listing, it does not require installation. You can select the programming language you are interested in from the list, click on the links below and start examining the projects.
 
 ## Links
 - GitHub repository →

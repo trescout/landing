@@ -7,10 +7,6 @@ iii is a method of creating, extending and monitoring all services in your backe
 - Lisans: yok
 - GitHub Trending · 28 May 2026
 
-## Update
-- 7 August 2026: Star 18,547 → 18,570, last version iii/v0.22.1 (7 August 2026).
-- 2 August 2026: Star 16,881 → 18,547, last version iii/v0.22.0 (22 July 2026).
-
 ## What you get
 - Queue, cron, HTTP and state management in one place.
 - Real-time traceability opportunity.
@@ -19,6 +15,33 @@ iii is a method of creating, extending and monitoring all services in your backe
 
 ## Getting started
 To get started and access documentation, you can visit iii.dev.
+
+## How to install, how to use?
+**Create project**
+
+```
+iii project init myapp
+```
+
+**start engine**
+
+```
+cd myapp
+iii
+```
+
+**Add worker (skill)**
+
+```
+iii worker add queue
+```
+
+**Install Node.js SDK**
+
+```
+npm install iii-sdk
+```
+
 
 ## Related dictionary terms
 

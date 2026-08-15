@@ -24,5 +24,8 @@ Für kleine und einfache Aufgaben mag es unnötig sein, für die Standardisierun
 - [Tech Stack](/de/dictionary/tech-stack/)
 - [Coding Agents](/de/dictionary/coding-agent/)
 
+## Verwandte Werkzeuge
+- [AstrBot](/de/discover/astrbot/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/development-framework/

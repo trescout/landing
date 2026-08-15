@@ -6,12 +6,6 @@ L'outil de révision de code open source développé par Alibaba combine des pip
 - Go
 - GitHub Trending · 2026-07-24
 
-## Mise à jour
-- 12 août 2026 : Star 19 983 → 20 197, dernière version v1.9.2 (12 août 2026).
-- 11 août 2026 : Star 19 972 → 19 983, dernière version v1.9.1 (11 août 2026).
-- 11 août 2026 : Star 19 417 → 19 972, dernière version v1.9.0 (10 août 2026).
-- 7 août 2026 : Étoile 19 239 → 19 417, dernière version v1.8.10 (7 août 2026).
-
 ## Ce que ça vous apporte
 - Détection précise des erreurs basée sur les lignes
 - Haute efficacité avec une faible consommation de jetons

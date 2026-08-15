@@ -6,9 +6,6 @@ Développé par AllenAI, olmocr est une boîte à outils qui convertit les docum
 - Python
 - GitHub Trending · 2026-07-02
 
-## Mise à jour
-- 2 août 2026 : Star 18 418 → 19 259, dernière version v0.4.27 (12 mars 2026).
-
 ## Ce que ça vous apporte
 - Convertit les formats PDF et image pour nettoyer le texte Markdown
 - Traite les équations, les tableaux et les mises en page complexes dans le bon ordre de lecture

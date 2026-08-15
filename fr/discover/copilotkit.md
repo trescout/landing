@@ -6,12 +6,6 @@ CopilotKit propose une pile frontale basée sur React et Angular pour développe
 - TypeScript
 - GitHub Trending · 2026-06-06
 
-## Mise à jour
-- 11 août 2026 : Star 36 582 → 36 678, dernière version v1.67.1 (10 août 2026).
-- 7 août 2026 : Star 36 508 → 36 582, dernière version v1.66.4 (7 août 2026).
-- 6 août 2026 : Star 36 438 → 36 508, dernière version v1.66.2 (4 août 2026).
-- 4 août 2026 : Star 36.415 → 36.438, dernière version angulaire/v0.3.1 (3 août 2026).
-
 ## Ce que ça vous apporte
 - Il ajoute des interfaces dynamiques et intelligentes aux applications.
 - Il permet le partage de données en temps réel entre les agents d'intelligence artificielle et l'interface utilisateur.

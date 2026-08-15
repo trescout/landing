@@ -25,6 +25,12 @@ Alle Daten, deren Bedeutung in Vektoren umgewandelt werden kann, wie Text, Bild,
 ## Verwandte Begriffe
 - [Embedding](/de/dictionary/embedding/)
 - [RAG](/de/dictionary/rag/)
+- [Knowledge Graph](/de/dictionary/knowledge-graph/)
+- [Memory Engine](/de/dictionary/memory-engine/)
+
+## Verwandte Werkzeuge
+- [Zvec](/de/discover/zvec/)
+- [Turbovec](/de/discover/turbovec/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/vector-database/

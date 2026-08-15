@@ -7,9 +7,6 @@
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Actualizar
-- 1 de agosto de 2026: Star 9,924 → 27,085, última versión v1.3.0 (22 de junio de 2026).
-
 ## Qué aporta
 - Le da al agente los reflejos de un analista experimentado: sabe qué herramienta utilizar y cuándo.
 - Las capacidades son compatibles con marcos de seguridad reconocidos (como MITRE, NIST).
@@ -18,6 +15,14 @@
 
 ## Cómo empezar
 Empaquetado en el estándar agentkills.io; Puedes agregarlo como una habilidad a tu asistente de IA. Los pasos de inicio rápido están disponibles en el repositorio. Valide cada capacidad en su contexto antes de la producción.
+
+## ¿Cómo instalar, cómo utilizar?
+**agregar con npx (recomendado)**
+
+```
+npx skills add mukul975/Anthropic-Cybersecurity-Skills
+```
+
 
 ## Términos relacionados del glosario
 

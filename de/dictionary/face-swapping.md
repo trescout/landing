@@ -27,5 +27,8 @@ Die besten Ergebnisse werden bei Winkeln erzielt, bei denen das Gesicht vollstä
 - [Generative AI](/de/dictionary/generative-ai/)
 - [Computer Vision](/de/dictionary/computer-vision/)
 
+## Verwandte Werkzeuge
+- [Faceswap](/de/discover/faceswap/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/face-swapping/

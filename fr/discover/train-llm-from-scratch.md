@@ -7,13 +7,25 @@ train-llm-from-scratch propose une méthode simple, étape par étape, pour entr
 - MIT
 - GitHub Trending · 30 May 2026
 
-## Mise à jour
-- 2 août 2026 : Étoile 2 086 → 8 864.
-
 ## Qu'est-ce qu'on apprend ?
 - Flux de bout en bout couvrant le téléchargement des données, la formation et la production de textes.
 - Méthode de candidature basée sur le fonctionnement interne du LLM.
 - Utilisation pratique avec des ordinateurs portables directement utilisables.
+
+## Comment installer, comment utiliser ?
+**Cloner le référentiel**
+
+```
+git clone https://github.com/FareedKhan-dev/train-llm-from-scratch.git
+cd train-llm-from-scratch
+```
+
+**Installer les dépendances**
+
+```
+pip install -r requirements.txt
+```
+
 
 ## Termes liés du glossaire
 

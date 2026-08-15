@@ -13,7 +13,6 @@ Harvey Labs is a benchmarking tool designed to measure and improve the capabilit
 
 ## Getting started
 - Official source →
-To get started, check out the docs/tutorial.md file among the documentation on the GitHub page. This guide walks you through how to manage an M&A data room mission end-to-end, from setup to report review.
 
 ## Related dictionary terms
 

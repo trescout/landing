@@ -21,5 +21,8 @@ Dies wirkt sich direkt auf die Geschwindigkeit und Sicherheit der Datenübertrag
 - [API Gateway](/de/dictionary/api-gateway/)
 - [Proxy](/de/dictionary/proxy/)
 
+## Verwandte Werkzeuge
+- [Reverse Skill](/de/discover/reverse-skill/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/routing-pack/

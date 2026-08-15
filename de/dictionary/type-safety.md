@@ -24,5 +24,8 @@ Einige Sprachen erfordern dies aus Flexibilitätsgründen nicht, aber es ist def
 - [Type-safe](/de/dictionary/type-safe/)
 - [Clean Code](/de/dictionary/clean-code/)
 
+## Verwandte Werkzeuge
+- [T3code](/de/discover/t3code/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/type-safety/

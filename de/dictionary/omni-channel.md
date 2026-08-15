@@ -23,5 +23,8 @@ Es erhöht die Loyalität, indem sichergestellt wird, dass der Kunde unabhängig
 - [Omni-channel Desk](/de/dictionary/omni-channel-desk/)
 - [Enterprise Resource Planning](/de/dictionary/enterprise-resource-planning/)
 
+## Verwandte Werkzeuge
+- [Chatwoot](/de/discover/chatwoot/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/omni-channel/

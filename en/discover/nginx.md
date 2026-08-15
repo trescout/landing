@@ -6,9 +6,6 @@ The NGINX open source repository continues to be developed in C as a high-perfor
 - C
 - GitHub Trending · 2026-06-07
 
-## Update
-- August 2, 2026: Star 30,727 → 31,312, last version release-1.31.3 (July 15, 2026).
-
 ## What you get
 - High performance web server and reverse proxy management.
 - Advanced load balancing and content caching features.

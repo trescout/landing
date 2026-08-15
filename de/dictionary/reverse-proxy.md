@@ -27,5 +27,8 @@ Es handelt sich sowohl um eine Software- als auch um eine Serverschicht, auf der
 - [API](/de/dictionary/api/)
 - [Observability](/de/dictionary/observability/)
 
+## Verwandte Werkzeuge
+- [Nginx](/de/discover/nginx/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/reverse-proxy/

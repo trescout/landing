@@ -6,12 +6,6 @@ Strix ist ein auf künstlicher Intelligenz basierendes Open-Source-Sicherheitsto
 - Python
 - GitHub Trending · 2026-06-29
 
-## Aktualisieren
-- 11. August 2026: Star 50.026 → 50.882, neueste Version v1.5.3 (10. August 2026).
-- 9. August 2026: Star 49.641 → 50.026, neueste Version v1.5.2 (9. August 2026).
-- 7. August 2026: Star 49.423 → 49.641, neueste Version v1.5.1 (7. August 2026).
-- 7. August 2026: Star 49.097 → 49.423, neueste Version v1.5.0 (7. August 2026).
-
 ## Was es bringt
 - Erkennt automatisch Schwachstellen in Anwendungen
 - Erstellt überprüfbare Sicherheitsberichte

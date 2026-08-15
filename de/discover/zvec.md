@@ -6,9 +6,6 @@ Zvec wurde von Alibaba entwickelt und ist eine leichte und schnelle In-Process-V
 - C++
 - GitHub Trending · 2026-06-17
 
-## Aktualisieren
-- 2. August 2026: Star 10.691 → 15.356, neueste Version v0.6.0 (20. Juli 2026).
-
 ## Was es bringt
 - Lokale Betriebsarchitektur, die keinen Server erfordert
 - Suchgeschwindigkeit im Millisekundenbereich über Milliarden von Vektoren

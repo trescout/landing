@@ -6,9 +6,6 @@ SpiderFoot est un outil Python qui automatise la collecte de renseignements open
 - Python
 - GitHub Trending · 2026-06-22
 
-## Mise à jour
-- 2 août 2026 : Étoile 18 921 → 20 026, dernière version v4.0 (7 avril 2022).
-
 ## Ce que ça vous apporte
 - Collecte automatique de données avec plus de 200 modules
 - Interface Web ou prise en charge de la ligne de commande

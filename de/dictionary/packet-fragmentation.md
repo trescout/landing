@@ -23,5 +23,8 @@ Das empfangende Gerät erkennt, dass Teile fehlen und fordert den Absender auf, 
 - [Networking Stack](/de/dictionary/networking-stack/)
 - [DNS Tunneling](/de/dictionary/dns-tunneling/)
 
+## Verwandte Werkzeuge
+- [Zapret Discord Youtube](/de/discover/zapret-discord-youtube/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/packet-fragmentation/

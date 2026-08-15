@@ -6,9 +6,6 @@ Firecrawl oferece uma interface (API) para rastrear dados de sites em grande esc
 - TypeScript
 - GitHub Trending · 2026-06-23
 
-## Atualizar
-- 2 de agosto de 2026: Star 137.683 → 159.421, versão mais recente v2.11.0 (19 de junho de 2026).
-
 ## O que você ganha
 - Converte sites para formato de texto não criptografado
 - Coleta dados para agentes de inteligência artificial

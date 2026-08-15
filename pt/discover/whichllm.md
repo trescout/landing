@@ -6,9 +6,6 @@ Whichllm é uma ferramenta que permite identificar os modelos nativos de linguag
 - Python
 - GitHub Trending · 2026-06-09
 
-## Atualizar
-- 2 de agosto de 2026: Star 3.679 → 6.101, versão mais recente v0.5.15 (3 de julho de 2026).
-
 ## O que você ganha
 - Ele determina o modelo de idioma nativo mais adequado ao seu hardware com dados de benchmark atualizados.
 - Ele prevê o desempenho detectando automaticamente a GPU e os recursos do sistema.

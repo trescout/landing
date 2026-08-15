@@ -6,9 +6,6 @@ Voice-pro es una interfaz de código abierto que combina texto a voz (TTS) y her
 - Python
 - GitHub Trending · 2026-08-02
 
-## Actualizar
-- 2 de agosto de 2026: Star 11,859 → 11,965, última versión v4.0.0 (13 de julio de 2026).
-
 ## Qué aporta
 - Analizar y traducir audio de videos de YouTube
 - Copiar audio y convertir texto a audio con inteligencia artificial

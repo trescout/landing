@@ -6,9 +6,6 @@ Developed by Salvatore Sanfilippo, the creator of Redis, ds4 is an inference eng
 - C
 - GitHub Trending · 2026-08-03
 
-## Update
-- August 11, 2026: Star 20,117 → 21,134.
-
 ## What you get
 - Runs high-performance AI models on consumer-grade hardware
 - Allows model usage even with limited memory capacity by streaming data via SSD

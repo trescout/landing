@@ -6,10 +6,6 @@ Nuxt es un marco completo que se utiliza para desarrollar aplicaciones basadas e
 - TypeScript
 - GitHub Trending · 2026-07-12
 
-## Actualizar
-- 6 de agosto de 2026: Star 60,715 → 60,726, última versión v4.5.2 (5 de agosto de 2026).
-- 2 de agosto de 2026: Star 60,747 → 60,715, última versión v4.5.1 (27 de julio de 2026).
-
 ## Qué aporta
 - Representación del lado del servidor y generación de sitios estáticos
 - Enrutamiento automático y división de código

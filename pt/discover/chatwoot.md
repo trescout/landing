@@ -5,9 +5,6 @@ Chatwoot é uma plataforma de código aberto que oferece chat ao vivo, suporte p
 - ★ 35.290
 - GitHub Trending · 2026-06-12
 
-## Atualizar
-- 1º de agosto de 2026: Star 30.493 → 35.290, versão mais recente v4.16.2 (27 de julho de 2026).
-
 ## O que você ganha
 - Ele combina todos os canais do cliente em uma única caixa de entrada.
 - Responde automaticamente a perguntas de rotina com um assistente apoiado por inteligência artificial.

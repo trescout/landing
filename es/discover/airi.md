@@ -7,9 +7,6 @@ AIRI es una plataforma de personajes virtuales basada en IA que puedes alojar en
 - MIT
 - GitHub Trending · 28 May 2026
 
-## Actualizar
-- 2 de agosto de 2026: Star 40,222 → 46,435, última versión v0.11.3 (18 de julio de 2026).
-
 ## Qué aporta
 - Tu propio personaje de IA, completamente en tu servidor.
 - Oportunidad de chat de voz en tiempo real.
@@ -18,6 +15,20 @@ AIRI es una plataforma de personajes virtuales basada en IA que puedes alojar en
 
 ## Cómo empezar
 Puede instalarlo fácilmente en su propio sistema siguiendo la documentación (airi.moeru.ai/docs). Se admiten plataformas web, macOS y Windows.
+
+## ¿Cómo instalar, cómo utilizar?
+**macOS · Instalar con Homebrew**
+
+```
+brew install --cask airi
+```
+
+**Windows · Instalar con Winget**
+
+```
+winget install MoeruAI.AIRI
+```
+
 
 ## Términos relacionados del glosario
 

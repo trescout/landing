@@ -21,5 +21,8 @@ Ja, die meisten Vorlagen können später an die Anforderungen des Projekts angep
 - [Coding Agents](/de/dictionary/coding-agent/)
 - [Tech Stack](/de/dictionary/tech-stack/)
 
+## Verwandte Werkzeuge
+- [Claude Code Templates](/de/discover/claude-code-templates/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/claude-code-templates/

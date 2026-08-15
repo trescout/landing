@@ -6,9 +6,6 @@ The system_prompts_leaks repository shared on GitHub brings together system prom
 - JavaScript
 - GitHub Trending · 2026-06-22
 
-## Update
-- August 2, 2026: Star 44,809 → 61,968.
-
 ## What you get
 - Opportunity to examine background configurations of popular artificial intelligence models
 - See the restrictions of models like Claude, ChatGPT and Gemini
@@ -16,7 +13,6 @@ The system_prompts_leaks repository shared on GitHub brings together system prom
 
 ## Getting started
 - Official source →
-This tool does not require a software installation. By going to the System Prompts Leaks repository on GitHub, you can click on the folder of the artificial intelligence model or company you want to examine and read the relevant system prompt files directly from your browser.
 
 ## Related dictionary terms
 

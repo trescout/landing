@@ -6,11 +6,6 @@ Desenvolvido para as plataformas Grok Build, Grok Web e Grok Console, este gatew
 - Go
 - GitHub Trending · 2026-07-15
 
-## Atualizar
-- 10 de agosto de 2026: Star 7.022 → 7.239, versão mais recente v3.1.2 (10 de agosto de 2026).
-- 6 de agosto de 2026: Star 6.945 → 7.022, versão mais recente v3.1.1 (5 de agosto de 2026).
-- 2 de agosto de 2026: Estrela 5.927 → 6.945, versão mais recente v3.0.11 (29 de julho de 2026).
-
 ## O que você ganha
 - Grok Build combina contas da Web e de console em um painel
 - Fornece interface API padrão compatível com OpenAI e Anthropic

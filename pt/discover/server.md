@@ -5,11 +5,6 @@ Music Assistant é um gerenciador de biblioteca de mídia de código aberto que 
 - ★ 2.930
 - GitHub Trending · 2026-06-13
 
-## Atualizar
-- 11 de agosto de 2026: Star 2.923 → 2.930, última versão 2.9.12 (11 de agosto de 2026).
-- 7 de agosto de 2026: Star 2.913 → 2.923, última versão 2.9.11 (7 de agosto de 2026).
-- 2 de agosto de 2026: Estrela 1.857 → 2.913, última versão 2.9.10 (30 de julho de 2026).
-
 ## O que você ganha
 - Combina diferentes serviços de transmissão digital em uma interface
 - Permite controlar centralmente todos os alto-falantes conectados

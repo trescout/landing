@@ -6,9 +6,6 @@ Worldmonitor ofrece un panel de inteligencia global en tiempo real que combina l
 - TypeScript
 - GitHub Trending · 2026-06-20
 
-## Actualizar
-- 2 de agosto de 2026: Star 57,469 → 78,032, última versión v2.5.23 (1 de marzo de 2026).
-
 ## Qué aporta
 - Resumiendo más de 500 fuentes de noticias con inteligencia artificial
 - Análisis visual con soporte de globo 3D y mapas WebGL

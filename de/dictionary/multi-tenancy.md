@@ -24,5 +24,8 @@ Weil die Installation eines separaten Programms für jeden Benutzer sehr kostspi
 - [PaaS](/de/dictionary/paas/)
 - [Cloud Native](/de/dictionary/cloud-native/)
 
+## Verwandte Werkzeuge
+- [Logto](/de/discover/logto/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/multi-tenancy/

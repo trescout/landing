@@ -7,9 +7,6 @@ MarkItDown (Microsoft); It's a lightweight Python tool that converts Word, PDF, 
 - MIT
 - GitHub Trending · 29 May 2026
 
-## Update
-- August 2, 2026: Star 128,420 → 170,726, latest version v0.1.7 (July 29, 2026).
-
 ## What you get
 - It turns your documents into clear texts that artificial intelligence can process.
 - It preserves header, list and table structures.
@@ -17,6 +14,20 @@ MarkItDown (Microsoft); It's a lightweight Python tool that converts Word, PDF, 
 
 ## Example usage
 report.pdf · presentation.pptx · table.xlsx
+
+## Installation + usage
+**Installation (Python)**
+
+```
+pip install 'markitdown[all]'
+```
+
+**Usage (command line)**
+
+```
+markitdown belge.pdf > belge.md
+```
+
 
 ## Related dictionary terms
 

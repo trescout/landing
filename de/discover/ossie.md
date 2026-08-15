@@ -13,7 +13,6 @@ Apache Ossie ist eine Brancheninitiative, die darauf abzielt, den Austausch sema
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Bei Apache Ossie handelt es sich eher um eine Standardspezifikation als um eine Softwareinstallation. Informationen darüber, wie die von Ihnen verwendeten Datentools mit diesem Standard kompatibel gemacht werden können, erhalten Sie, indem Sie die technischen Dokumente und Schemadateien im Ordner „core-spec“ auf der GitHub-Seite des Projekts untersuchen.
 
 ## Verwandte Begriffe aus dem Glossar
 

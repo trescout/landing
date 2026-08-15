@@ -6,11 +6,6 @@ Dieses Gateway (API-Gateway) wurde für die Plattformen Grok Build, Grok Web und
 - Go
 - GitHub Trending · 2026-07-15
 
-## Aktualisieren
-- 10. August 2026: Star 7.022 → 7.239, neueste Version v3.1.2 (10. August 2026).
-- 6. August 2026: Star 6.945 → 7.022, neueste Version v3.1.1 (5. August 2026).
-- 2. August 2026: Star 5.927 → 6.945, neueste Version v3.0.11 (29. Juli 2026).
-
 ## Was es bringt
 - Grok Build vereint Web- und Konsolenkonten in einem Panel
 - Bietet eine Standard-API-Schnittstelle, die mit OpenAI und Anthropic kompatibel ist

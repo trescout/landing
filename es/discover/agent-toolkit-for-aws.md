@@ -6,9 +6,6 @@ AWS ha lanzado un conjunto de herramientas que incluye servidores, habilidades y
 - Python
 - GitHub Trending · 2026-06-26
 
-## Actualizar
-- 4 de agosto de 2026: Estrella 1209 → 2215.
-
 ## Qué aporta
 - Interacción directa y segura con los servicios de AWS
 - Capacidades estandarizadas para agentes de IA

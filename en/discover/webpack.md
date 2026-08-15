@@ -6,9 +6,6 @@ Webpack is a bundler that bundles JavaScript and other web assets together to ru
 - JavaScript
 - GitHub Trending · 2026-08-05
 
-## Update
-- August 6, 2026: Star 65,961 → 65,985, latest version v5.109.2 (July 28, 2026).
-
 ## What you get
 - It combines JavaScript files to run in the browser.
 - It shortens application loading time with its code splitting feature.

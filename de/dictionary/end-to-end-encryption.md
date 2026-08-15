@@ -29,5 +29,8 @@ Nein, nicht jede App bietet diese Funktion; Sie müssen es in den Einstellungen 
 - [Linux Server Security](/de/dictionary/linux-server-security/)
 - [SSO](/de/dictionary/sso/)
 
+## Verwandte Werkzeuge
+- [Croc](/de/discover/croc/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/end-to-end-encryption/

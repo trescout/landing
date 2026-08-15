@@ -6,9 +6,6 @@ Open Interpreter ofrece un agente de codificación que automatiza los procesos d
 - Rust
 - GitHub Trending · 2026-07-16
 
-## Actualizar
-- 2 de agosto de 2026: Star 65,626 → 67,509, última versión Rust-v0.0.34 (18 de julio de 2026).
-
 ## Qué aporta
 - Automatiza procesos de software a través del terminal local.
 - Es compatible con modelos de idiomas de bajo costo.

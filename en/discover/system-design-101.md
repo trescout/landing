@@ -12,7 +12,6 @@ The system-design-101 repository by ByteByteGoHq explains complex system archite
 
 ## Getting started
 - Official source →
-This tool is not a software library but a comprehensive educational resource. To get started, you can browse the content list in the GitHub repository and access the explanatory guides on ByteByteGo's official website by clicking on the title that interests you.
 
 ## Related dictionary terms
 

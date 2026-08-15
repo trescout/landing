@@ -6,9 +6,6 @@ Terax-ai, en tant qu'environnement de développement local d'intelligence artifi
 - TypeScript
 - GitHub Trending · 2026-07-05
 
-## Mise à jour
-- 2 août 2026 : Star 8 121 → 8 790, dernière version v0.8.6 (27 juillet 2026).
-
 ## Ce que ça vous apporte
 - Structure légère et rapide d'une taille de 7 à 8 Mo
 - Intégration de l'IA avec des modèles natifs et prise en charge des API

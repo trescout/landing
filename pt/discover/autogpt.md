@@ -6,9 +6,6 @@ AutoGPT é um projeto Python de código aberto que permite a criação de agente
 - Python
 - GitHub Trending · 2026-08-07
 
-## Atualizar
-- 7 de agosto de 2026: Star 186.094 → 186.094, versão mais recente autogpt-platform-beta-v0.7.0 (5 de agosto de 2026).
-
 ## O que você ganha
 - Ele economiza tempo semanal ao automatizar fluxos de trabalho complexos.
 - Ele transforma comandos dados em linguagem natural em um agente funcional de inteligência artificial.

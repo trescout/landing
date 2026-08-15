@@ -6,11 +6,6 @@ Loopx est un noyau d'état léger développé pour les équipes d'agents d'intel
 - Python
 - GitHub Trending · 2026-08-06
 
-## Mise à jour
-- 9 août 2026 : Star 3 035 → 3 609, dernière version v0.4.4 (9 août 2026).
-- 7 août 2026 : Étoile 2 399 → 3 035, dernière version v0.4.2 (6 août 2026).
-- 6 août 2026 : Étoile 2 385 → 2 399, dernière version v0.4.1 (4 août 2026).
-
 ## Ce que ça vous apporte
 - Standardise le suivi des cibles et la gestion des quotas dans les missions à long terme.
 - Il permet un transfert vérifiable du travail entre différents agents d’IA.

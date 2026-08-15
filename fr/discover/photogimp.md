@@ -6,9 +6,6 @@ PhotoGIMP propose un correctif qui rend l'interface GIMP familière aux utilisat
 - CSS
 - GitHub Trending · 2026-07-09
 
-## Mise à jour
-- 2 août 2026 : Star 15 195 → 17 197, dernière version 3.1 (11 juillet 2026).
-
 ## Ce que ça vous apporte
 - Mêmes raccourcis clavier que Photoshop
 - Aménagement du véhicule auquel vous êtes habitué

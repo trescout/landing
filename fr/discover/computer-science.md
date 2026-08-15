@@ -13,7 +13,6 @@ Proposant un programme d'études gratuit et orienté vers l'auto-apprentissage d
 
 ## Pour commencer
 - Source officielle →
-Pour commencer ce programme, visitez simplement le site Web officiel d'OSSU CS ou le référentiel GitHub. Vous pouvez consulter les cours sur le site Web, créer votre plan d'études et interagir avec d'autres étudiants en rejoignant la communauté Discord.
 
 ## Termes liés du glossaire
 

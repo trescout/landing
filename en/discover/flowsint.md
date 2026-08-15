@@ -5,9 +5,6 @@ Flowsint offers a visual, flexible and extensible graph-based investigation plat
 - ★ 7,528
 - GitHub Trending · 2026-06-03
 
-## Update
-- August 2, 2026: Star 4,693 → 7,528, latest version v1.2.11 (July 1, 2026).
-
 ## What you get
 - Analyze relationships between entities in a visual graph interface
 - Process IP, domain and social media data with automatic enrichers

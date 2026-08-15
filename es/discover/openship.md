@@ -6,11 +6,6 @@ OpenShip ofrece una plataforma de distribución de aplicaciones que los usuarios
 - TypeScript
 - GitHub Trending · 2026-07-21
 
-## Actualizar
-- 12 de agosto de 2026: Star 10,414 → 10,565, última versión v0.6.5 (11 de agosto de 2026).
-- 7 de agosto de 2026: Star 10,135 → 10,414, última versión v0.6.1 (7 de agosto de 2026).
-- 2 de agosto de 2026: Star 5130 → 10135, última versión v0.5.0 (31 de julio de 2026).
-
 ## Qué aporta
 - Procesos CI/CD automatizados
 - Transición rápida del código al contenedor

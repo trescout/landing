@@ -6,9 +6,6 @@ PhotoGIMP ofrece un parche que hace que la interfaz de GIMP resulte familiar par
 - CSS
 - GitHub Trending · 2026-07-09
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 15.195 → 17.197, última versión 3.1 (11 de julio de 2026).
-
 ## Qué aporta
 - Las mismas teclas de acceso rápido que Photoshop
 - Diseño del vehículo al que está acostumbrado

@@ -6,12 +6,6 @@ Desarrollado por Heygen, Hyperframes ofrece un marco que convierte códigos HTML
 - TypeScript
 - GitHub Trending · 2026-06-23
 
-## Actualizar
-- 12 de agosto de 2026: Star 40,461 → 40,617, última versión v0.7.107 (11 de agosto de 2026).
-- 11 de agosto de 2026: Star 40.280 → 40.461, última versión v0.7.106 (11 de agosto de 2026).
-- 10 de agosto de 2026: Star 40.114 → 40.280, última versión v0.7.104 (10 de agosto de 2026).
-- 9 de agosto de 2026: Star 39.984 → 40.114, última versión v0.7.102 (8 de agosto de 2026).
-
 ## Qué aporta
 - Producción de vídeo con HTML y CSS.
 - Trabajo compatible con agentes de inteligencia artificial.

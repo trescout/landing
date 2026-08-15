@@ -6,11 +6,6 @@ DocuSeal bietet eine Open-Source-Alternative zum Erstellen, Ausfüllen und Signi
 - Ruby
 - GitHub Trending · 2026-07-18
 
-## Aktualisieren
-- 12. August 2026: Stern 18.183 → 18.245, letzte Version 3.2.0 (11. August 2026).
-- 4. August 2026: Star 18.176 → 18.183, letzte Version 3.1.7 (3. August 2026).
-- 2. August 2026: Star 17.916 → 18.176, letzte Version 3.1.6 (27. Juli 2026).
-
 ## Was es bringt
 - Erstellen und unterschreiben Sie PDF-Formulare online
 - Mobilkompatible Benutzeroberfläche

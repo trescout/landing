@@ -6,10 +6,6 @@ Karakeep est une application de gestion de contenu auto-hébergée qui collecte 
 - TypeScript
 - GitHub Trending · 2026-07-07
 
-## Mise à jour
-- 12 août 2026 : Étoile 28 017 → 28 260, dernière version v0.33.2 (11 août 2026).
-- 2 août 2026 : Étoile 27 033 → 28 017, dernière version v0.33.1 (1er août 2026).
-
 ## Ce que ça vous apporte
 - Rassemblez des liens, des notes et des fichiers dans un emplacement central.
 - Marquage et synthèse automatiques avec intelligence artificielle.
@@ -25,7 +21,6 @@ brew install karakeep
 
 ## Pour commencer
 - Source officielle →
-Pour installer, vous pouvez suivre le guide d'installation de Docker sur la page de documentation officielle. Pour les étapes détaillées et les options de configuration, consultez simplement le guide d'installation sur docs.karakeep.app.
 
 ## Termes liés du glossaire
 

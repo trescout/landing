@@ -27,5 +27,8 @@ Sie kommunizieren, indem sie sich gegenseitig Nachrichten über vordefinierte Be
 - [Agentic AI](/de/dictionary/agentic-ai/)
 - [Self-orchestration](/de/dictionary/self-orchestration/)
 
+## Verwandte Werkzeuge
+- [TradingAgents](/de/discover/tradingagents/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/multi-agent-llm/

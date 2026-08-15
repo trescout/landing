@@ -6,9 +6,6 @@ Superfile wurde mit der Go-Sprache entwickelt und bietet eine moderne und visuel
 - Go
 - GitHub Trending · 2026-07-25
 
-## Aktualisieren
-- 2. August 2026: Star 19.700 → 22.119, neueste Version v1.6.0 (7. Juni 2026).
-
 ## Was es bringt
 - Visuell ansprechende Terminalschnittstelle
 - Schnelle und ästhetische Dateivorgänge

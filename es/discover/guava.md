@@ -6,9 +6,6 @@ Desarrollado por Google, Guava es un conjunto de herramientas que contiene bibli
 - Java
 - GitHub Trending · 2026-08-07
 
-## Actualizar
-- 7 de agosto de 2026: Star 51,666 → 51,668, última versión v33.6.0 (14 de abril de 2026).
-
 ## Qué aporta
 - Posibilidad de utilizar tipos de colección y biblioteca de gráficos.
 - Concurrencia, facilidad de entrada-salida y procesamiento de cadenas.
@@ -16,7 +13,6 @@ Desarrollado por Google, Guava es un conjunto de herramientas que contiene bibli
 
 ## Cómo empezar
 - Fuente oficial →
-Dependiendo de la herramienta de configuración que utilice para agregar la biblioteca Guava a su proyecto, deberá definir las dependencias necesarias en sus archivos Maven o Gradle. Puede comenzar eligiendo una de las versiones JRE o Android según las necesidades de su proyecto y agregando los códigos de dependencia relevantes al archivo de configuración de su proyecto.
 
 ## Términos relacionados del glosario
 

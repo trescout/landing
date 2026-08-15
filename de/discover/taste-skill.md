@@ -7,10 +7,6 @@ Wenn Agenten der künstlichen Intelligenz Schnittstellen erstellen, liefern sie 
 - MIT
 - GitHub Trending · 26 May 2026
 
-## Aktualisieren
-- 7. August 2026: Stern 69.955 → 73.831.
-- 1. August 2026: Stern 21.137 → 69.955.
-
 ## Was es bringt
 - Besseres Layout, bessere Typografie und Bewegung; Sie werden den üblichen „Boilerplate“-Look los.
 - Dank seiner tragbaren Struktur kann es problemlos in verschiedene KI-Agenten integriert werden.
@@ -18,6 +14,20 @@ Wenn Agenten der künstlichen Intelligenz Schnittstellen erstellen, liefern sie 
 
 ## Wie benutzt man?
 Wenn Sie den Skill zu Ihrem KI-Agenten hinzufügen (Schritte unter tasteskill.dev), wird er während der Schnittstellengenerierung automatisch aktiviert, wodurch die Designqualität auf die nächste Stufe gehoben wird.
+
+## Wie installiere ich, wie verwende ich?
+**Installieren Sie alle Fähigkeiten**
+
+```
+npx skills add https://github.com/Leonxlnx/taste-skill
+```
+
+**Bauen Sie eine einzelne Fähigkeit auf**
+
+```
+npx skills add https://github.com/Leonxlnx/taste-skill --skill "design-taste-frontend"
+```
+
 
 ## Verwandte Begriffe aus dem Glossar
 

@@ -6,9 +6,6 @@ Whichllm est un outil qui vous permet d'identifier les grands modèles de langag
 - Python
 - GitHub Trending · 2026-06-09
 
-## Mise à jour
-- 2 août 2026 : Star 3 679 → 6 101, dernière version v0.5.15 (3 juillet 2026).
-
 ## Ce que ça vous apporte
 - Il détermine le modèle de langage natif le mieux adapté à votre matériel avec des données de référence à jour.
 - Il prédit les performances en détectant automatiquement les fonctionnalités du GPU et du système.

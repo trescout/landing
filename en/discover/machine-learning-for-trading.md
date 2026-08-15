@@ -5,9 +5,6 @@ Prepared by Stefan Jansen, this resource provides comprehensive code examples an
 - ★ 20,241
 - GitHub Trending · 2026-06-02
 
-## Update
-- August 2, 2026: Star 18,065 → 20,241, latest version v3.0.0-artifacts (July 24, 2026).
-
 ## What you get
 - End-to-end strategy development with financial data
 - Practical case studies for nine different markets

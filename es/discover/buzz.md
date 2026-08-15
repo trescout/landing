@@ -6,12 +6,6 @@ Desarrollado por Block en Rust, Buzz está diseñado como una plataforma descent
 - Rust
 - GitHub Trending · 2026-07-24
 
-## Actualizar
-- 12 de agosto de 2026: Star 26.126 → 26.401, última versión de escritorio-v0.5.10 (12 de agosto de 2026).
-- 11 de agosto de 2026: Star 25,351 → 26,126, última versión de escritorio-v0.5.9 (10 de agosto de 2026).
-- 9 de agosto de 2026: Star 24,932 → 25,351, última versión de escritorio-v0.5.8 (8 de agosto de 2026).
-- 7 de agosto de 2026: Star 24,916 → 24,932, última versión de escritorio-v0.5.7 (7 de agosto de 2026).
-
 ## Qué aporta
 - Salas de colaboración para humanos y agentes de IA
 - Un único registro de auditoría para todas las interacciones

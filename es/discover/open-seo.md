@@ -6,10 +6,6 @@ Open SEO ofrece una alternativa de código abierto a herramientas pagas como Sem
 - TypeScript
 - GitHub Trending · 2026-06-26
 
-## Actualizar
-- 10 de agosto de 2026: Star 10 091 → 11 139, última versión v0.1.4 (9 de agosto de 2026).
-- 2 de agosto de 2026: Star 2736 → 10 091, última versión v0.1.3 (30 de julio de 2026).
-
 ## Qué aporta
 - Paga sólo por lo que usas, sin cuotas de suscripción
 - Análisis de datos SEO directo con agentes de inteligencia artificial

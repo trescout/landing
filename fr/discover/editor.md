@@ -6,9 +6,6 @@ L'éditeur/pascalorg basé sur TypeScript permet aux utilisateurs de créer et d
 - TypeScript
 - GitHub Trending · 2026-07-29
 
-## Mise à jour
-- 2 août 2026 : Étoile 18 985 → 20 706, dernière version v0.9.1 (10 juin 2026).
-
 ## Ce que ça vous apporte
 - Modélisation architecturale 3D avec React Three Fiber
 - Visualisation hautes performances avec prise en charge WebGPU

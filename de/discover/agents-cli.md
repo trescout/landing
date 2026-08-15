@@ -6,10 +6,6 @@ Die von Google entwickelte Befehlszeilenschnittstelle (CLI) macht Programmierass
 - Python
 - GitHub Trending · 2026-07-01
 
-## Aktualisieren
-- 6. August 2026: Star 5.455 → 5.491, neueste Version v1.3.1 (4. August 2026).
-- 2. August 2026: Star 4.413 → 5.455, neueste Version v1.2.1 (23. Juli 2026).
-
 ## Was es bringt
 - Standardisiert Agent-Entwicklungsprozesse in Google Cloud
 - Gibt Programmierassistenten die Möglichkeit, Agenten zu erstellen und bereitzustellen

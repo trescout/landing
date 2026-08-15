@@ -6,10 +6,6 @@ Desenvolvido para Chrome DevTools, este servidor permite a codificação de agen
 - TypeScript
 - GitHub Trending · 2026-07-03
 
-## Atualizar
-- 11 de agosto de 2026: Star 48.381 → 48.884, versão mais recente chrome-devtools-mcp-v1.7.0 (10 de agosto de 2026).
-- 2 de agosto de 2026: Star 45.204 → 48.381, versão mais recente chrome-devtools-mcp-v1.6.0 (14 de julho de 2026).
-
 ## O que você ganha
 - Controle o navegador ao vivo diretamente
 - Automatizando a análise de desempenho

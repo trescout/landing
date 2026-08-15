@@ -5,9 +5,6 @@ Iroh es una pila de redes modular que hace que las conexiones de red sean más f
 - ★ 11.957
 - GitHub Trending · 2026-06-17
 
-## Actualizar
-- 2 de agosto de 2026: Star 9,418 → 11,957, última versión v1.0.3 (20 de julio de 2026).
-
 ## Qué aporta
 - Conexión mediante clave pública en lugar de direcciones IP
 - Perforación automática para transferencia directa de datos

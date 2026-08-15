@@ -6,10 +6,6 @@ Witr is a command line tool that monitors processes, ports, containers or files 
 - Go
 - GitHub Trending · 2026-08-08
 
-## Update
-- 10 August 2026: Star 19,853 → 20,875, latest version v0.3.3 (24 June 2026).
-- August 8, 2026: Star 19,848 → 19,853, latest version v0.3.3 (June 24, 2026).
-
 ## What you get
 - Shows step by step why processes work
 - Monitors container and port activities in detail

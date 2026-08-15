@@ -6,11 +6,6 @@ O fundo de hedge de IA utiliza agentes autônomos para automatizar a análise do
 - Python
 - GitHub Trending · 2026-07-13
 
-## Atualizar
-- 7 de agosto de 2026: Star 62.684 → 62.721, versão mais recente v2.2.0 (7 de agosto de 2026).
-- 6 de agosto de 2026: Star 62.606 → 62.684, versão mais recente v2.1.0 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 61.500 → 62.606, versão mais recente v2.0.2 (30 de julho de 2026).
-
 ## O que você ganha
 - Agentes autônomos analisando dados do mercado financeiro
 - Modelagem representando diferentes escolas de investimento

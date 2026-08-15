@@ -27,5 +27,8 @@ Es umfasst Unternehmensrichtlinien, gesetzliche Vorschriften und ethische Grenze
 - [Autonomous AI Agent](/de/dictionary/autonomous-ai-agent/)
 - [AI Observability](/de/dictionary/ai-observability/)
 
+## Verwandte Werkzeuge
+- [Agent Governance Toolkit](/de/discover/agent-governance-toolkit/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agent-governance-toolkit/

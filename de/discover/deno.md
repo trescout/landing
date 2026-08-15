@@ -6,10 +6,6 @@ Deno ist eine moderne Laufzeitumgebung, die für die Sprachen JavaScript und Typ
 - Rust
 - GitHub Trending · 2026-08-05
 
-## Aktualisieren
-- 7. August 2026: Star 108.166 → 108.181, neueste Version v2.9.5 (6. August 2026).
-- 6. August 2026: Star 108.091 → 108.166, neueste Version v2.9.4 (23. Juli 2026).
-
 ## Was es bringt
 - Es führt sicher die Sprachen JavaScript, TypeScript und WebAssembly aus.
 - Mit seinem V8-Motor und der Rust-Sprache bietet es hohe Leistung.

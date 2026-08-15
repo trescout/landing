@@ -6,11 +6,6 @@ Hallmark es un archivo de estilo desarrollado para reducir el impacto del conten
 - CSS
 - GitHub Trending · 2026-07-13
 
-## Actualizar
-- 10 de agosto de 2026: Estrella 22,106 → 23,216.
-- 6 de agosto de 2026: Estrella 20,791 → 22,106.
-- 2 de agosto de 2026: Estrella 4.508 → 20.791.
-
 ## Qué aporta
 - Evita la estética estándar de la IA
 - Crea interfaces únicas con veinte temas diferentes.

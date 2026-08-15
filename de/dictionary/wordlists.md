@@ -24,5 +24,8 @@ Der Einsatz bei Sicherheitstests ist legal und notwendig, der Angriff auf nicht 
 - [Penetration Testing](/de/dictionary/penetration-testing/)
 - [Security Scanner](/de/dictionary/security-scanner/)
 
+## Verwandte Werkzeuge
+- [Cupp](/de/discover/cupp/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/wordlists/

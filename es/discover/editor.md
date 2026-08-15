@@ -6,9 +6,6 @@ Pascalorg/editor basado en TypeScript permite a los usuarios crear y compartir p
 - TypeScript
 - GitHub Trending · 2026-07-29
 
-## Actualizar
-- 2 de agosto de 2026: Star 18,985 → 20,706, última versión v0.9.1 (10 de junio de 2026).
-
 ## Qué aporta
 - Modelado arquitectónico 3D con React Three Fiber
 - Visualización de alto rendimiento con soporte WebGPU

@@ -6,11 +6,6 @@ Agentsview est un outil de surveillance qui fournit des données d'analyse et d'
 - Go
 - GitHub Trending · 2026-06-12
 
-## Mise à jour
-- 6 août 2026 : Étoile 4 683 → 4 714, dernière version v0.40.1 (4 août 2026).
-- 3 août 2026 : Étoile 4 672 → 4 683, dernière version v0.40.0 (3 août 2026).
-- 2 août 2026 : Étoile 1 867 → 4 672, dernière version v0.39.0 (27 juillet 2026).
-
 ## Ce que ça vous apporte
 - Surveillez les sessions de tous vos agents de codage d’intelligence artificielle depuis un seul centre.
 - Calculez rapidement les montants et les coûts des jetons utilisés.

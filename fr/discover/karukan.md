@@ -6,9 +6,6 @@ Développé avec le langage Rust, Karukan est un système de méthode de saisie 
 - Rust
 - GitHub Trending · 2026-07-02
 
-## Mise à jour
-- 2 août 2026 : Star 615 → 692, dernière version v0.1.0 (23 février 2026).
-
 ## Ce que ça vous apporte
 - Conversion neuronale kana-kanji basée sur GPT-2
 - Conversion de texte en direct en temps réel pendant que vous tapez

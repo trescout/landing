@@ -6,12 +6,6 @@ AirLLM permite que grandes modelos de linguagem com 70 bilhões de parâmetros s
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
-## Atualizar
-- 12 de agosto de 2026: Star 29.265 → 30.796, versão mais recente v3.1.0 (29 de julho de 2026).
-- 6 de agosto de 2026: Star 27.522 → 29.265, versão mais recente v3.1.0 (29 de julho de 2026).
-- 4 de agosto de 2026: Star 25.416 → 27.522, versão mais recente v3.1.0 (29 de julho de 2026).
-- 2 de agosto de 2026: Star 19.113 → 25.416, versão mais recente v3.1.0 (29 de julho de 2026).
-
 ## O que você ganha
 - Possibilidade de rodar modelos com parâmetros de 70B com 4GB VRAM.
 - Capacidade de usar modelos 405B Llama3.1 com 8 GB VRAM.

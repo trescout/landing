@@ -29,5 +29,8 @@ Ja, dank der Caching-Funktion funktionieren Grundfunktionen auch dann, wenn kein
 - [Frontend Stack](/de/dictionary/frontend-stack/)
 - [Desktop App](/de/dictionary/desktop-app/)
 
+## Verwandte Werkzeuge
+- [TREK](/de/discover/trek/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/pwa/

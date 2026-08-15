@@ -24,5 +24,10 @@ Da seine Energieeffizienz sehr hoch ist, erledigt der Prozessor die gleiche Aufg
 - [Computer Science](/de/dictionary/computer-science/)
 - [Desktop App](/de/dictionary/desktop-app/)
 
+## Verwandte Werkzeuge
+- [Container](/de/discover/container/)
+- [Palmier Pro](/de/discover/palmier-pro/)
+- [Openmed](/de/discover/openmed/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/apple-silicon/

@@ -6,10 +6,6 @@ Zapret-discord-youtube ist ein Tool, das darauf abzielt, den Zugriff auf eingesc
 - Batchfile
 - GitHub Trending · 2026-06-25
 
-## Aktualisieren
-- 10. August 2026: Star 31.660 → 31.940, letzte Version 1.10.1 (9. August 2026).
-- 2. August 2026: Star 30.060 → 31.660, letzte Version 1.10.0 (22. Juli 2026).
-
 ## Was es bringt
 - Umgeht Discord- und YouTube-Zugriffsbarrieren
 - Führt eine Paketfragmentierung durch Verschlüsselung des Netzwerkverkehrs durch
@@ -17,7 +13,6 @@ Zapret-discord-youtube ist ein Tool, das darauf abzielt, den Zugriff auf eingesc
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Laden Sie die Archivdatei herunter, indem Sie den Link zur neuesten Version auf der offiziellen GitHub-Seite aufrufen. Entsperren Sie das Archiv in seinen Eigenschaften und extrahieren Sie seinen Inhalt in einen Ordner, der keine Sonderzeichen oder das kyrillische Alphabet enthält. Anschließend können Sie mithilfe der .bat-Dateien im Ordner Strategien ausführen oder Dienste installieren.
 
 ## Verwandte Begriffe aus dem Glossar
 

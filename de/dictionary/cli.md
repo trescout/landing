@@ -24,5 +24,21 @@ Obwohl es für die meisten modernen Werkzeuge nicht unbedingt erforderlich ist, 
 Normalerweise gibt das System Fehler aus, aber es gibt auch kritische Befehle, die Vorsicht erfordern.
 
 
+## Verwandte Begriffe
+- [CLI](/de/dictionary/cli/)
+- [Self-hosting](/de/dictionary/self-hosting/)
+- [Offline](/de/dictionary/offline/)
+- [Open Source](/de/dictionary/open-source/)
+
+## Verwandte Werkzeuge
+- [Superpowers](/de/discover/superpowers/)
+- [Spec Kit](/de/discover/spec-kit/)
+- [Graphify](/de/discover/graphify/)
+- [Angular](/de/discover/angular/)
+- [Svelte](/de/discover/svelte/)
+- [Understand Anything](/de/discover/understand-anything/)
+- [Agent-Reach](/de/discover/agent-reach/)
+- [Impeccable](/de/discover/impeccable/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cli/

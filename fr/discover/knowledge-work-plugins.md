@@ -7,9 +7,6 @@ Cet ensemble de plugins open source d'Anthropic rassemble des compétences, des 
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Mise à jour
-- 1er août 2026 : Étoile 16 517 → 23 222.
-
 ## Ce que ça vous apporte
 - Spécialise Claude en fonction de votre rôle (par exemple marketing, finance, juridique).
 - Chaque plugin se compose d'une suite de compétences, de connecteurs et de commandes, permettant un démarrage rapide.
@@ -18,6 +15,21 @@ Cet ensemble de plugins open source d'Anthropic rassemble des compétences, des 
 
 ## Pour commencer
 Vous pouvez l'installer depuis le marché des plugins Claude Cowork. La liste des 11 plugins et leurs fonctions sont incluses dans un tableau du repo. Après installation, Claude commence à agir comme un expert dans la fonction métier concernée.
+
+## Comment installer, comment utiliser ?
+**Ajouter Marketplace + installer un plugin de rôle**
+
+```
+claude plugin marketplace add anthropics/knowledge-work-plugins
+claude plugin install sales@knowledge-work-plugins
+```
+
+**Exemple : préparation de réunion commerciale**
+
+```
+/sales:call-prep
+```
+
 
 ## Termes liés du glossaire
 

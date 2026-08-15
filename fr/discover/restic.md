@@ -5,9 +5,6 @@ Développé avec le langage Go, Restic propose un programme de sauvegarde open s
 - ★ 35 302
 - GitHub Trending · 2026-06-12
 
-## Mise à jour
-- 2 août 2026 : Star 34 273 → 35 302, dernière version v0.19.1 (5 juillet 2026).
-
 ## Ce que ça vous apporte
 - Fournit une haute sécurité en cryptant les données
 - Économise de l'espace de stockage avec une sauvegarde incrémentielle

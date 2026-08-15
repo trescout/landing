@@ -6,9 +6,6 @@ The Agency-agents project creates a digital agency structure by bringing togethe
 - Shell
 - GitHub Trending · 2026-06-12
 
-## Update
-- August 2, 2026: Star 111,887 → 138,170.
-
 ## What you get
 - It optimizes workflows with artificial intelligence agents specialized according to their areas of expertise.
 - Provides professional support in processes such as software development, data validation and content production.

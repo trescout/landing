@@ -6,9 +6,6 @@ Wigolo es una herramienta que proporciona capacidades de búsqueda, extracción 
 - TypeScript
 - GitHub Trending · 2026-07-19
 
-## Actualizar
-- 2 de agosto de 2026: Star 1365 → 4069, última versión v0.2.1 (19 de julio de 2026).
-
 ## Qué aporta
 - Búsqueda y escaneo gratuitos sin necesidad de clave API
 - Procesamiento y almacenamiento en caché de datos locales independientes de la nube

@@ -6,12 +6,6 @@ Reverse-skill offers an artificial intelligence-supported routing package for re
 - PowerShell
 - GitHub Trending · 2026-08-01
 
-## Update
-- 12 August 2026: Star 22,757 → 24,068, latest version v1.0.1 (8 August 2026).
-- 10 August 2026: Star 20,865 → 22,757, latest version v1.0.1 (8 August 2026).
-- August 8, 2026: Star 20,511 → 20,865, latest version v1.0.1 (August 8, 2026).
-- August 7, 2026: Star 19,315 → 20,511, latest version v1.0.0 (July 17, 2026).
-
 ## What you get
 - Standardized workflows for AI agents
 - Automatic tool selection based on different file types

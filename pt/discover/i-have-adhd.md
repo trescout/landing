@@ -6,12 +6,6 @@ Desenvolvido para tornar a saída dos agentes de codificação mais focada e org
 - Python
 - GitHub Trending · 2026-07-22
 
-## Atualizar
-- 12 de agosto de 2026: Estrela 18.555 → 19.772.
-- 9 de agosto de 2026: Estrela 17.370 → 18.555.
-- 6 de agosto de 2026: Estrela 15.559 → 17.370.
-- 2 de agosto de 2026: Estrela 7.248 → 15.559.
-
 ## O que você ganha
 - Remove frases introdutórias desnecessárias nas respostas de IA.
 - Divide tarefas complexas em etapas numeradas.

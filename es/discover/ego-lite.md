@@ -6,11 +6,6 @@ Ego-lite es un navegador que permite trabajar simultáneamente a usuarios y agen
 - JavaScript
 - GitHub Trending · 2026-07-24
 
-## Actualizar
-- 11 de agosto de 2026: Star 8875 → 9541, última versión v1.2.3 (11 de agosto de 2026).
-- 6 de agosto de 2026: Star 7602 → 8875, última versión v1.2.5 (17 de julio de 2026).
-- 2 de agosto de 2026: Star 1896 → 7602, última versión v1.2.5 (17 de julio de 2026).
-
 ## Qué aporta
 - Los agentes y los usuarios se ejecutan en el mismo navegador sin conflictos
 - Protege las sesiones importando datos de Chrome

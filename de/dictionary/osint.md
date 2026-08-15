@@ -29,5 +29,12 @@ Einfache Tools wie Google-Suchen, Social-Media-Browser und Kartendienste reichen
 - [Knowledge Graph](/de/dictionary/knowledge-graph/)
 - [Web Scraping](/de/dictionary/web-scraping/)
 
+## Verwandte Werkzeuge
+- [Maigret](/de/discover/maigret/)
+- [Spiderfoot](/de/discover/spiderfoot/)
+- [GhostTrack](/de/discover/ghosttrack/)
+- [Flowsint](/de/discover/flowsint/)
+- [Legendary_OSINT](/de/discover/legendary-osint/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/osint/

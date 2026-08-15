@@ -7,11 +7,6 @@ Twenty est une alternative open source à Salesforce qui permet aux équipes tec
 - Lisans: özel
 - GitHub Trending · 26 May 2026
 
-## Mise à jour
-- 12 août 2026 : Star 54.367 → 54.772, dernière version sdk/v2.30.0 (11 août 2026).
-- 6 août 2026 : Star 54.054 → 54.367, dernière version vingt/v2.27.0 (4 août 2026).
-- 2 août 2026 : Star 46 735 → 54 054, dernière version vingt/v2.26.0 (31 juillet 2026).
-
 ## Ce que ça vous apporte
 - Une alternative gratuite et open source à Salesforce.
 - Contrôle total sur vos données avec l'option d'auto-hébergement.
@@ -20,6 +15,20 @@ Twenty est une alternative open source à Salesforce qui permet aux équipes tec
 
 ## Comment installer ?
 Il est généralement installé sur votre propre serveur avec Docker ; les étapes d'installation sont dans la documentation. Sa gestion nécessite quelques connaissances techniques.
+
+## Comment installer, comment utiliser ?
+**Créer un nouveau squelette d'application**
+
+```
+npx create-twenty-app my-app
+```
+
+**Publier sur l'espace de travail**
+
+```
+npx twenty app:publish --private
+```
+
 
 ## Termes liés du glossaire
 

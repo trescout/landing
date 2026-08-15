@@ -6,9 +6,6 @@ Gas Town bietet eine Infrastruktur, die es verschiedenen Agenten der künstliche
 - Go
 - GitHub Trending · 2026-07-06
 
-## Aktualisieren
-- 2. August 2026: Star 16.488 → 17.403, neueste Version v1.2.1 (6. Juni 2026).
-
 ## Was es bringt
 - Koordinieren Sie mehrere Agenten der künstlichen Intelligenz von einem einzigen Zentrum aus.
 - Verhindern Sie, dass Agenten bei Neustarts den Kontext verlieren.

@@ -24,5 +24,9 @@ Anstatt jeden Dienst einzeln für die Außenwelt zu öffnen, sorgt die Verwaltun
 - [Proxy](/de/dictionary/proxy/)
 - [Reverse Proxy](/de/dictionary/reverse-proxy/)
 
+## Verwandte Werkzeuge
+- [OpenWA](/de/discover/openwa/)
+- [Grok2api](/de/discover/grok2api/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/api-gateway/

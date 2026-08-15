@@ -6,9 +6,6 @@ Desenvolvido com a linguagem de programação Rust, o Pumpkin oferece uma infrae
 - Rust
 - GitHub Trending · 2026-07-23
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 8.562 → 10.510.
-
 ## O que você ganha
 - Gerenciamento de servidores de alto desempenho com linguagem Rust
 - Suporte às edições Java e Bedrock
@@ -16,7 +13,6 @@ Desenvolvido com a linguagem de programação Rust, o Pumpkin oferece uma infrae
 
 ## Como começar
 - Fonte oficial →
-O projeto Pumpkin ainda está em desenvolvimento. Para as etapas de instalação e operação, você pode prosseguir revisando o guia de início rápido na página de documentação oficial.
 
 ## Termos relacionados do glossário
 

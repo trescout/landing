@@ -6,9 +6,6 @@ Turso propose une base de données SQL en cours compatible avec SQLite. Ce syst�
 - Rust
 - GitHub Trending · 2026-06-21
 
-## Mise à jour
-- 2 août 2026 : Étoile 20 466 → 23 620, dernière version v0.7.2 (30 juillet 2026).
-
 ## Ce que ça vous apporte
 - Compatibilité SQL totale avec SQLite
 - Prise en charge multilingue et plateforme

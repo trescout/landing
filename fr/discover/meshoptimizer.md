@@ -6,9 +6,6 @@ La bibliothèque Meshoptimizer optimise les données de maillage tridimensionnel
 - C++
 - GitHub Trending · 2026-07-11
 
-## Mise à jour
-- 2 août 2026 : Star 8 045 → 8 177, dernière version v1.2 (30 juin 2026).
-
 ## Ce que ça vous apporte
 - Réduit la taille du fichier pour les modèles tridimensionnels
 - Augmente les performances de rendu GPU

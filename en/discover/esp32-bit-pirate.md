@@ -6,10 +6,6 @@ ESP32-Bit-Pirate is a hardware hacking tool that supports multiple communication
 - C++
 - GitHub Trending · 2026-08-01
 
-## Update
-- August 7, 2026: Star 5,281 → 5,357, latest version v1.7 (August 6, 2026).
-- August 2, 2026: Star 5,115 → 5,281, latest version v1.6 (June 5, 2026).
-
 ## What you get
 - Manage protocols such as I2C, SPI, UART and 1-Wire
 - Interaction with radio frequencies, Bluetooth and Wi-Fi
@@ -17,7 +13,6 @@ ESP32-Bit-Pirate is a hardware hacking tool that supports multiple communication
 
 ## Getting started
 - Official source →
-Install the software suitable for your device through your browser using the Web Flasher tool on the official website. Then, access the command line interface by connecting to your device with a serial terminal application or browser-based Web Serial terminal.
 
 ## Related dictionary terms
 

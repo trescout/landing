@@ -23,5 +23,10 @@ Ja, es ist ganz einfach, einfache Skripte zu schreiben, wenn man die grundlegend
 - [CLI](/de/dictionary/cli/)
 - [Tools](/de/dictionary/tools/)
 
+## Verwandte Werkzeuge
+- [NVM](/de/discover/nvm/)
+- [Meshery](/de/discover/meshery/)
+- [Tradingview MCP](/de/discover/tradingview-mcp/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/script/

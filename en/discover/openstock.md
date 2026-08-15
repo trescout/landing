@@ -7,9 +7,6 @@ OpenStock is an open source alternative to expensive exchange platforms. It offe
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
 
-## Update
-- August 2, 2026: Star 11,968 → 14,018.
-
 ## What you get
 - It tracks real-time prices.
 - Sends personalized notifications.
@@ -18,6 +15,27 @@ OpenStock is an open source alternative to expensive exchange platforms. It offe
 
 ## How to use?
 You can use the ready-made site (openstock-ods.vercel.app) directly or install it on your own server.
+
+## How to install, how to use?
+**Clone repository**
+
+```
+git clone https://github.com/Open-Dev-Society/OpenStock.git
+cd OpenStock
+```
+
+**Install dependencies**
+
+```
+pnpm install
+```
+
+**Start development server**
+
+```
+pnpm dev
+```
+
 
 ## Related dictionary terms
 

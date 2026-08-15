@@ -6,12 +6,6 @@ A ferramenta de revisão de código-fonte aberta desenvolvida pela Alibaba combi
 - Go
 - GitHub Trending · 2026-07-24
 
-## Atualizar
-- 12 de agosto de 2026: Star 19.983 → 20.197, versão mais recente v1.9.2 (12 de agosto de 2026).
-- 11 de agosto de 2026: Star 19.972 → 19.983, versão mais recente v1.9.1 (11 de agosto de 2026).
-- 11 de agosto de 2026: Star 19.417 → 19.972, versão mais recente v1.9.0 (10 de agosto de 2026).
-- 7 de agosto de 2026: Star 19.239 → 19.417, versão mais recente v1.8.10 (7 de agosto de 2026).
-
 ## O que você ganha
 - Detecção precisa de erros baseada em linha
 - Alta eficiência com baixo consumo de tokens

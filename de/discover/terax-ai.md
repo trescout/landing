@@ -6,9 +6,6 @@ Terax-ai fällt als terminalorientierte lokale Entwicklungsumgebung für künstl
 - TypeScript
 - GitHub Trending · 2026-07-05
 
-## Aktualisieren
-- 2. August 2026: Star 8.121 → 8.790, neueste Version v0.8.6 (27. Juli 2026).
-
 ## Was es bringt
 - Leichte und schnelle Struktur mit einer Größe von 7-8 MB
 - KI-Integration mit nativen Modellen und API-Unterstützung

@@ -6,10 +6,6 @@ Claude-video é uma ferramenta Python que dá ao modelo Claude a capacidade de a
 - Python
 - GitHub Trending · 2026-07-07
 
-## Atualizar
-- 7 de agosto de 2026: Star 13.424 → 14.427, versão mais recente v0.2.0 (1 de julho de 2026).
-- 2 de agosto de 2026: Star 4.554 → 13.424, versão mais recente v0.2.0 (1 de julho de 2026).
-
 ## O que você ganha
 - Analisa vídeos quadro a quadro
 - Produz legendas e transcrições automaticamente

@@ -6,9 +6,6 @@ LobeHub permite crear un equipo de operaciones de IA que trabaja las 24 horas de
 - TypeScript
 - GitHub Trending · 2026-07-17
 
-## Actualizar
-- 2 de agosto de 2026: Star 80,291 → 81,117, última versión v2.2.13 (1 de agosto de 2026).
-
 ## Qué aporta
 - Gestionar todos los agentes de inteligencia artificial desde un único centro
 - Cooperación entre agentes y distribución de tareas.
@@ -38,7 +35,6 @@ docker compose up -d
 
 ## Cómo empezar
 - Fuente oficial →
-Para comenzar a utilizar LobeHub, puedes visitar el sitio web oficial o revisar las opciones de instalación con Vercel, Zeabur, Sealos, Alibaba Cloud o Docker en la sección 'Self Hosting' del repositorio de GitHub. Para obtener información detallada y documentación actual, simplemente eche un vistazo a la página del documento oficial del proyecto.
 
 ## Términos relacionados del glosario
 

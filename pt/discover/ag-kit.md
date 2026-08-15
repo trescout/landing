@@ -6,9 +6,6 @@ Ag-kit é uma biblioteca de desenvolvimento que fornece as ferramentas e estrutu
 - TypeScript
 - GitHub Trending · 2026-07-28
 
-## Atualizar
-- 2 de agosto de 2026: Star 8.020 → 8.084, versão mais recente v2026.7.27 (26 de julho de 2026).
-
 ## O que você ganha
 - 20 funções diferentes de especialistas em IA
 - Controle seguro de execução de comandos

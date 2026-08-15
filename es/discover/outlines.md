@@ -6,10 +6,6 @@ La biblioteca Outlines permite que las respuestas de modelos de lenguaje grandes
 - Python
 - GitHub Trending · 2026-07-22
 
-## Actualizar
-- 7 de agosto de 2026: Estrella 15,477 → 15,525, última versión 1.3.3 (6 de agosto de 2026).
-- 2 de agosto de 2026: Estrella 14,917 → 15,477, última versión 1.3.2 (20 de julio de 2026).
-
 ## Qué aporta
 - Restringe los resultados del modelo según esquemas predefinidos.
 - Totalmente compatible con tipos de datos JSON o Python

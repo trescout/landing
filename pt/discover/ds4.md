@@ -6,9 +6,6 @@ Desenvolvido por Salvatore Sanfilippo, criador do Redis, o ds4 é um mecanismo d
 - C
 - GitHub Trending · 2026-08-03
 
-## Atualizar
-- 11 de agosto de 2026: Estrela 20.117 → 21.134.
-
 ## O que você ganha
 - Executa modelos de IA de alto desempenho em hardware de consumo
 - Permite o uso do modelo mesmo com capacidade de memória limitada, transmitindo dados via SSD

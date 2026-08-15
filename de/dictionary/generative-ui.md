@@ -27,5 +27,8 @@ Nein, die Benutzeroberfläche kann sich für jeden Benutzer und jede Aufgabe vol
 - [AI Agent](/de/dictionary/ai-agent/)
 - [Design Language](/de/dictionary/design-language/)
 
+## Verwandte Werkzeuge
+- [CopilotKit](/de/discover/copilotkit/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/generative-ui/

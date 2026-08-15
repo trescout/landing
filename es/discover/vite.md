@@ -5,10 +5,6 @@ Vite ofrece un entorno de desarrollo rápido y una herramienta de creación para
 - ★ 82.245
 - GitHub Trending · 2026-06-07
 
-## Actualizar
-- 7 de agosto de 2026: Star 82.169 → 82.245, última versión plugin-legacy@8.2.3 (6 de agosto de 2026).
-- 2 de agosto de 2026: Star 81.238 → 82.169, última versión create-vite@9.1.2 (30 de julio de 2026).
-
 ## Qué aporta
 - Inicio instantáneo del servidor gracias a los módulos ES nativos
 - Proceso de desarrollo ininterrumpido con reemplazo rápido de módulos

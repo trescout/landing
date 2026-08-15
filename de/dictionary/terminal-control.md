@@ -24,5 +24,8 @@ Grafische Schnittstellen sind leichter zu erlernen, weil sie visuell sind, aber 
 - [Terminal](/de/dictionary/terminal/)
 - [Script](/de/dictionary/script/)
 
+## Verwandte Werkzeuge
+- [DesktopCommanderMCP](/de/discover/desktopcommandermcp/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/terminal-control/

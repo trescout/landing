@@ -6,9 +6,6 @@ Turbovec basiert auf der TurboQuant-Infrastruktur und ist ein leistungsstarkes V
 - Python
 - GitHub Trending · 2026-06-08
 
-## Aktualisieren
-- 2. August 2026: Stern 7.703 → 14.575.
-
 ## Was es bringt
 - Es reduziert den Speicherverbrauch durch starke Komprimierung von Vektordaten.
 - Es ermöglicht die sofortige Datenergänzung und schnelle Suche, ohne dass eine Schulungsphase erforderlich ist.

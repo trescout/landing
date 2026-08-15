@@ -29,5 +29,8 @@ Wenn Sie nur im lokalen Netzwerk arbeiten, ist das Internet nicht erforderlich, 
 - [Incremental Backup](/de/dictionary/incremental-backup/)
 - [Personal AI Infrastructure](/de/dictionary/personal-ai-infrastructure/)
 
+## Verwandte Werkzeuge
+- [Jellyfin](/de/discover/jellyfin/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/nas/

@@ -24,5 +24,8 @@ Da es auf Japanisch so viele Wörter gibt, die gleich klingen, aber unterschiedl
 - [AI Models](/de/dictionary/ai-models/)
 - [Tokenizer](/de/dictionary/tokenizer/)
 
+## Verwandte Werkzeuge
+- [Karukan](/de/discover/karukan/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/neural-kana-kanji-conversion-engine/

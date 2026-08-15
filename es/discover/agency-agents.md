@@ -6,9 +6,6 @@ El proyecto Agencia-agentes crea una estructura de agencia digital reuniendo age
 - Shell
 - GitHub Trending · 2026-06-12
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 111,887 → 138,170.
-
 ## Qué aporta
 - Optimiza los flujos de trabajo con agentes de inteligencia artificial especializados según sus áreas de especialización.
 - Brinda soporte profesional en procesos como desarrollo de software, validación de datos y producción de contenidos.

@@ -6,9 +6,6 @@ Desenvolvido pela NASA, F´ é uma estrutura de código aberto projetada para so
 - C++
 - GitHub Trending · 2026-07-12
 
-## Atualizar
-- 2 de agosto de 2026: Star 11.523 → 11.610, versão mais recente v4.2.2 (24 de abril de 2026).
-
 ## O que você ganha
 - Estrutura modular para naves espaciais e sistemas embarcados
 - Ambiente de desenvolvimento rápido de software baseado em componentes

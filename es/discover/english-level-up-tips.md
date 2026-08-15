@@ -7,9 +7,6 @@ English Level Up Tips es una guía completa que proporciona planes de estudio es
 - Lisans: yok
 - GitHub Trending · 28 May 2026
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 46.723 → 56.687, almacén movido, nueva dirección byoungd/up.
-
 ## Qué aporta
 - Planes estratégicos de trabajo.
 - Métodos de aprendizaje avanzados.
@@ -17,6 +14,9 @@ English Level Up Tips es una guía completa que proporciona planes de estudio es
 
 ## ¿Cómo utilizar?
 Puedes adaptar el plan recomendado según tus necesidades revisando la guía en la página de GitHub. No requiere ninguna instalación.
+
+## ¿Cómo usarlo con IA?
+Te daré una guía completa llamada 'Consejos para subir de nivel en inglés', que explica vocabulario, comprensión auditiva, lectura, expresión oral, escritura y métodos de estudio respaldados por inteligencia artificial para aprender inglés a un nivel avanzado. Examina esta guía y crea un plan de estudio personal y una hoja de ruta de acuerdo a tu nivel y objetivo. Mi nivel: [ej. medio]. Mi objetivo: [ej. hablando con fluidez].
 
 ## Términos relacionados del glosario
 

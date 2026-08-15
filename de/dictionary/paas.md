@@ -23,7 +23,11 @@ Das ist zwar nicht der Fall, aber es bedeutet eine enorme Zeitersparnis für Ent
 
 ## Verwandte Begriffe
 - [SaaS](/de/dictionary/saas/)
+- [IaaS](/de/dictionary/iaas/)
 - [Deployment](/de/dictionary/deployment/)
+
+## Verwandte Werkzeuge
+- [Free for Dev](/de/discover/free-for-dev/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/paas/

@@ -6,11 +6,6 @@ La biblioteca de habilidades desarrollada por Google ofrece herramientas basadas
 - Python
 - GitHub Trending · 2026-06-09
 
-## Actualizar
-- 11 de agosto de 2026: Estrella 16,451 → 17,658.
-- 8 de agosto de 2026: Estrella 15,389 → 16,451.
-- 2 de agosto de 2026: Estrella 12,675 → 15,389.
-
 ## Qué aporta
 - Brinda a los agentes de inteligencia artificial la capacidad de interactuar con los productos de Google.
 - Proporciona herramientas estandarizadas para los servicios de Google Cloud.

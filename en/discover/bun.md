@@ -6,9 +6,6 @@ Bun is a high-performance tool that combines the JavaScript runtime, package man
 - Rust
 - GitHub Trending · 2026-07-11
 
-## Update
-- 2 August 2026: Star 94.374 → 95.153, last version bun-v1.3.14 (13 May 2026).
-
 ## What you get
 - Fast runtime compatible with Node.js
 - Package manager and testing tool under one roof

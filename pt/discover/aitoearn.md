@@ -6,9 +6,6 @@ AiToEarn é uma plataforma baseada em TypeScript que permite aos usuários geren
 - TypeScript
 - GitHub Trending · 2026-06-08
 
-## Atualizar
-- 2 de agosto de 2026: Star 19.145 → 24.551, versão mais recente v2.5.0 (24 de junho de 2026).
-
 ## O que você ganha
 - Ele gerencia a criação de conteúdo com suporte de inteligência artificial e processos de publicação automática.
 - Permite gerar receita com conteúdo com modelos CPS, CPE e CPM.

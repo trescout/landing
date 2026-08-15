@@ -6,11 +6,6 @@ Using the Claude Code infrastructure, career-ops automates artificial intelligen
 - JavaScript
 - GitHub Trending · 2026-06-07
 
-## Update
-- 11 August 2026: Star 62,979 → 63,452, last version career-ops-v1.26.0 (10 August 2026).
-- 6 August 2026: Star 62,526 → 62,979, last version career-ops-v1.25.0 (4 August 2026).
-- August 2, 2026: Star 49,580 → 62,526, last version career-ops-v1.24.0 (July 30, 2026).
-
 ## What you get
 - Filter job postings by scoring them in 10 different dimensions
 - Creating an ATS compatible resume specific to the job description

@@ -6,9 +6,6 @@ Meetily ist ein Open-Source-Meeting-Assistent, der Meeting-Aufzeichnungen lokal 
 - Rust
 - GitHub Trending · 2026-07-05
 
-## Aktualisieren
-- 2. August 2026: Star 15.565 → 27.968, neueste Version v0.4.0 (5. Juni 2026).
-
 ## Was es bringt
 - Die gesamte Audiotranskription und -zusammenfassung erfolgt auf Ihrem Gerät.
 - Es ist keine Cloud-Verbindung erforderlich, Ihre Daten verlassen Ihren Computer nicht.

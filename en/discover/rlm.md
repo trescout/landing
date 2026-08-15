@@ -6,9 +6,6 @@ Developed for Recursive Language Models, rlm is a plug-and-play inference librar
 - Python
 - GitHub Trending · 2026-06-18
 
-## Update
-- August 2, 2026: Star 4,987 → 5,343, latest version v0.1.3 (June 26, 2026).
-
 ## What you get
 - Infinite length context management
 - Plug-and-play architecture running in a code environment

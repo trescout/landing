@@ -13,7 +13,6 @@ This training content prepared by Microsoft offers a 21-lesson curriculum for th
 
 ## Getting started
 - Official source →
-To start with the training content, you can visit the official page on GitHub or download the files to your computer using the commands above. Then, simply follow the guide in the '00-course-setup' folder in the repository to prepare your development environment.
 
 ## Related dictionary terms
 

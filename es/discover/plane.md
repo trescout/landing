@@ -6,10 +6,6 @@ Plane es una plataforma de gestión de proyectos de código abierto que combina 
 - TypeScript
 - GitHub Trending · 2026-06-18
 
-## Actualizar
-- 7 de agosto de 2026: Star 55,364 → 55,693, última versión v1.4.1 (7 de agosto de 2026).
-- 2 de agosto de 2026: Star 51,506 → 55,364, última versión v1.4.0 (31 de julio de 2026).
-
 ## Qué aporta
 - Realice un seguimiento de tareas y hojas de ruta de productos en una interfaz central
 - Dividir proyectos complejos en módulos y ciclos manejables
@@ -39,7 +35,6 @@ chmod +x setup.sh
 
 ## Cómo empezar
 - Fuente oficial →
-Para comenzar rápidamente, puede crear una cuenta gratuita a través de Plane Cloud. Si desea alojarlo en su propia infraestructura, puede instalarlo en su propio servidor siguiendo las guías de instalación de Docker o Kubernetes en la página de documentación oficial.
 
 ## Términos relacionados del glosario
 

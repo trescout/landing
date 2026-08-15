@@ -6,10 +6,6 @@ Développé pour Chrome DevTools, ce serveur permet aux agents de codage d'intel
 - TypeScript
 - GitHub Trending · 2026-07-03
 
-## Mise à jour
-- 11 août 2026 : Star 48 381 → 48 884, dernière version chrome-devtools-mcp-v1.7.0 (10 août 2026).
-- 2 août 2026 : Star 45 204 → 48 381, dernière version chrome-devtools-mcp-v1.6.0 (14 juillet 2026).
-
 ## Ce que ça vous apporte
 - Contrôlez directement le navigateur en direct
 - Automatisation de l'analyse des performances

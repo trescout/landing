@@ -5,9 +5,6 @@ Im Gegensatz zu herkömmlichen Frameworks verwendet Svelte einen Ansatz zur Komp
 - ★ 87.724
 - GitHub Trending · 2026-06-07
 
-## Aktualisieren
-- 2. August 2026: Star 87.060 → 87.724, letzte Version svelte@5.56.8 (24. Juli 2026).
-
 ## Was es bringt
 - Reduziert die Laufzeitbelastung des Browsers
 - Konvertiert Codes in schnell laufende JavaScript-Module

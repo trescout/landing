@@ -6,10 +6,6 @@ Code-review-graph analyse la base de code et crée une carte d'intelligence de c
 - Python
 - GitHub Trending · 2026-07-18
 
-## Mise à jour
-- 9 août 2026 : Étoile 28 041 → 29 487, dernière version v2.3.7 (18 juillet 2026).
-- 2 août 2026 : Étoile 19 852 → 28 041, dernière version v2.3.7 (18 juillet 2026).
-
 ## Ce que ça vous apporte
 - Analyse la base de code et présente uniquement les fichiers pertinents à l'intelligence artificielle
 - Réduit considérablement la consommation de jetons dans les grands projets

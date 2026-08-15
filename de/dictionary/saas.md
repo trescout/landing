@@ -22,7 +22,14 @@ Ihre Daten werden auf den sicheren Servern des Unternehmens gespeichert, das die
 
 
 ## Verwandte Begriffe
+- [PaaS](/de/dictionary/paas/)
+- [IaaS](/de/dictionary/iaas/)
 - [Cloud Native](/de/dictionary/cloud-native/)
+
+## Verwandte Werkzeuge
+- [Free for Dev](/de/discover/free-for-dev/)
+- [Twenty](/de/discover/twenty/)
+- [Logto](/de/discover/logto/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/saas/

@@ -6,11 +6,6 @@ Desenvolvido pela Apple, o container permite criar e executar containers Linux u
 - Swift
 - GitHub Trending · 2026-06-11
 
-## Atualizar
-- 8 de agosto de 2026: Star 48.710 → 48.745, última versão 1.2.2 (8 de agosto de 2026).
-- 7 de agosto de 2026: Star 48.543 → 48.710, última versão 1.2.1 (7 de agosto de 2026).
-- 2 de agosto de 2026: Star 30.453 → 48.543, última versão 1.2.0 (29 de julho de 2026).
-
 ## O que você ganha
 - Ele executa contêineres Linux como máquinas virtuais leves em dispositivos Mac com processadores Apple Silicon.
 - Ele permite extrair e usar imagens de contêiner compatíveis com OCI de registros padrão.

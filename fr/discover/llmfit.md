@@ -6,12 +6,6 @@ Développé avec le langage Rust, llmfit analyse des centaines de grands modèle
 - Rust
 - GitHub Trending · 2026-07-22
 
-## Mise à jour
-- 10 août 2026 : Star 31 111 → 31 288, dernière version v1.1.9 (9 août 2026).
-- 4 août 2026 : Star 31 076 → 31 111, dernière version v1.1.8 (4 août 2026).
-- 3 août 2026 : Star 31 060 → 31 076, dernière version v1.1.7 (3 août 2026).
-- 2 août 2026 : Star 30 309 → 31 060, dernière version v1.1.6 (21 juillet 2026).
-
 ## Ce que ça vous apporte
 - Détecte automatiquement les modèles compatibles avec votre système
 - Trie par mémoire, vitesse et qualité

@@ -6,11 +6,6 @@ Diese Bibliothek wurde für Codieragenten für künstliche Intelligenz entwickel
 - Shell
 - GitHub Trending · 2026-06-10
 
-## Aktualisieren
-- 11. August 2026: Star 81.505 → 85.857, letzte Version 0.6.6 (4. August 2026).
-- 4. August 2026: Star 81.328 → 81.505, letzte Version 0.6.6 (4. August 2026).
-- 2. August 2026: Star 50.041 → 81.328, letzte Version 0.6.5 (26. Juli 2026).
-
 ## Was es bringt
 - Es bietet professionellen Engineering-Workflows für Agenten der künstlichen Intelligenz.
 - Es automatisiert Softwareentwicklungsprozesse mit standardisierten Schritten.

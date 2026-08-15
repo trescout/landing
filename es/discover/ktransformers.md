@@ -6,9 +6,6 @@ Ktransformers ofrece un marco flexible que admite optimizaciones de hardware het
 - Python
 - GitHub Trending · 2026-07-20
 
-## Actualizar
-- 2 de agosto de 2026: Star 18,491 → 19,145, última versión v0.6.4 (23 de julio de 2026).
-
 ## Qué aporta
 - Trabajo eficiente mediante el uso conjunto de recursos del procesador y la tarjeta gráfica
 - Bajos requisitos de hardware en modelos MoE a gran escala

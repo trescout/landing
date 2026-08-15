@@ -6,10 +6,6 @@ The command-line interface (CLI) developed by Google makes coding assistants spe
 - Python
 - GitHub Trending · 2026-07-01
 
-## Update
-- August 6, 2026: Star 5,455 → 5,491, latest version v1.3.1 (August 4, 2026).
-- August 2, 2026: Star 4,413 → 5,455, latest version v1.2.1 (July 23, 2026).
-
 ## What you get
 - Standardizes agent development processes on Google Cloud
 - Gives coding assistants the ability to create and deploy agents

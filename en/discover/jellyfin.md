@@ -7,9 +7,6 @@ Jellyfin is a free media server that allows you to manage and stream your own mo
 - GPL-2.0
 - GitHub Trending · 26 May 2026
 
-## Update
-- August 2, 2026: Star 52,316 → 55,268, latest version v10.11.11 (June 6, 2026).
-
 ## What you get
 - All your media in one place and accessible from any device.
 - You won't have to deal with subscription fees or ads.
@@ -18,6 +15,14 @@ Jellyfin is a free media server that allows you to manage and stream your own mo
 
 ## How to install?
 Docker is installed on a server or NAS. Installation guide is at jellyfin.org; After installing it, you introduce your media folders.
+
+## How to install, how to use?
+**Run with Docker**
+
+```
+docker run -d --name jellyfin -p 8096:8096 jellyfin/jellyfin
+```
+
 
 ## Related dictionary terms
 

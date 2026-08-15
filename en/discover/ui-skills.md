@@ -6,9 +6,6 @@ Developed for design engineers, ui-skills brings together the technical skills a
 - TypeScript
 - GitHub Trending · 2026-07-17
 
-## Update
-- August 2, 2026: Star 4,436 → 6,838, latest version v0.2.3 (June 22, 2026).
-
 ## What you get
 - Technical competence map in interface development processes
 - Bridging the gap between design and coding

@@ -6,9 +6,6 @@ MasterDnsVPN ist eine VPN-Lösung (Virtual Private Network) mit geringem Last-Do
 - Go
 - GitHub Trending · 2026-06-11
 
-## Aktualisieren
-- 2. August 2026: Star 5.411 → 6.870, letzte Version v2026.06.13.234407-7de2476 (13. Juni 2026).
-
 ## Was es bringt
 - Es ermöglicht die Datenübertragung in zensierten Netzwerken über das DNS-Tunneling-Verfahren.
 - Es bietet Multipathing und Lastausgleich für geringen Paketverlust und hohe Geschwindigkeit.

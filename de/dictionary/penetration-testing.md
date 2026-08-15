@@ -24,5 +24,8 @@ Nein, da dies in einer kontrollierten Umgebung erfolgt, hat es keinen anderen Zw
 - [Vulnerability Scanning](/de/dictionary/vulnerability-scanning/)
 - [Cybersecurity Skills](/de/dictionary/cybersecurity-skills/)
 
+## Verwandte Werkzeuge
+- [Pentagi](/de/discover/pentagi/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/penetration-testing/

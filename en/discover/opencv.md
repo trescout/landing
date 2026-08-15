@@ -5,9 +5,6 @@ OpenCV, an open source computer vision library, offers a wide range of tools for
 - ★ 90,258
 - GitHub Trending · 2026-06-08
 
-## Update
-- August 2, 2026: Star 88,274 → 90,258, last version 5.0.0 (June 6, 2026).
-
 ## What you get
 - Analyze real-time visual data
 - Manage image processing processes with standard infrastructure

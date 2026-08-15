@@ -6,9 +6,6 @@ MasterDnsVPN is a low-load domain name system tunneling (DNS tunneling) virtual 
 - Go
 - GitHub Trending · 2026-06-11
 
-## Update
-- August 2, 2026: Star 5.411 → 6.870, last version v2026.06.13.234407-7de2476 (June 13, 2026).
-
 ## What you get
 - It provides data transmission in censored networks via DNS tunneling method.
 - It offers multipathing and load balancing for low packet loss and high speed.

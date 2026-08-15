@@ -6,10 +6,6 @@ Witr est un outil de ligne de commande qui surveille les processus, les ports, l
 - Go
 - GitHub Trending · 2026-08-08
 
-## Mise à jour
-- 10 août 2026 : Star 19 853 → 20 875, dernière version v0.3.3 (24 juin 2026).
-- 8 août 2026 : Étoile 19 848 → 19 853, dernière version v0.3.3 (24 juin 2026).
-
 ## Ce que ça vous apporte
 - Montre étape par étape pourquoi les processus fonctionnent
 - Surveille en détail les activités des conteneurs et des ports

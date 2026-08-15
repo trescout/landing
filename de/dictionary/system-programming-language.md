@@ -27,5 +27,8 @@ Es ist schwer zu erlernen und erfordert eine sehr sorgfältige Codierung.
 - [Runtime](/de/dictionary/runtime/)
 - [Compile-time](/de/dictionary/compile-time/)
 
+## Verwandte Werkzeuge
+- [GO](/de/discover/go/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/system-programming-language/

@@ -23,5 +23,9 @@ Manuelle Tests sind langsam und anfällig für menschliches Versagen; CI hingege
 - [Testing Framework](/de/dictionary/testing-framework/)
 - [End-to-End Testing](/de/dictionary/end-to-end-testing/)
 
+## Verwandte Werkzeuge
+- [Jenkins](/de/discover/jenkins/)
+- [Checkout](/de/discover/checkout/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/continuous-integration/

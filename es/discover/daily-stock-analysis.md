@@ -6,10 +6,6 @@ Respaldado por grandes modelos de lenguaje, este sistema analiza datos de mercad
 - Python
 - GitHub Trending · 2026-06-22
 
-## Actualizar
-- 10 de agosto de 2026: Star 59,863 → 61,388, última versión v3.30.0 (9 de agosto de 2026).
-- 2 de agosto de 2026: Star 45,304 → 59,863, última versión v3.29.0 (2 de agosto de 2026).
-
 ## Qué aporta
 - Informes comerciales automatizados con datos de mercado de múltiples fuentes
 - Soporte de notificaciones push para aplicaciones de mensajería

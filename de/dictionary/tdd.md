@@ -26,5 +26,9 @@ Auch wenn es auf den ersten Blick so aussieht, als ob es langsamer wird, spart e
 - [Testing Framework](/de/dictionary/testing-framework/)
 - [Clean Code](/de/dictionary/clean-code/)
 
+## Verwandte Werkzeuge
+- [Catch2](/de/discover/catch2/)
+- [Babysitter](/de/discover/babysitter/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/tdd/

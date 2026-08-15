@@ -6,9 +6,6 @@ Teslamate wurde für Besitzer von Tesla-Fahrzeugen entwickelt und ist eine Daten
 - Elixir
 - GitHub Trending · 2026-06-16
 
-## Aktualisieren
-- 2. August 2026: Star 8.326 → 8.798, neueste Version v4.0.1 (14. Juni 2026).
-
 ## Was es bringt
 - Analysieren Sie Fahr- und Ladedaten im Detail
 - Überwachen Sie den Zustand und die Effizienz der Batterie
@@ -32,7 +29,6 @@ docker compose up -d
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Für die Installation und Verwendung müssen Sie die offizielle Dokumentationsseite besuchen. Sie können beginnen, indem Sie die offizielle Dokumentation unter https://docs.teslamate.org durchsehen, um alle Installationsschritte, Konfigurationshandbücher und aktuelle Anweisungen zu finden.
 
 ## Verwandte Begriffe aus dem Glossar
 

@@ -5,9 +5,6 @@ Godot Engine (Godot Engine) est un moteur de jeu open source utilisé pour les p
 - ★ 114 944
 - GitHub Trending · 2026-06-02
 
-## Mise à jour
-- 2 août 2026 : Star 111 819 → 114 944, dernière version 4.7.1-stable (14 juillet 2026).
-
 ## Ce que ça vous apporte
 - Offre des outils complets pour les jeux en deux et trois dimensions
 - Vous permet de sortir des jeux sur différentes plateformes en un seul clic

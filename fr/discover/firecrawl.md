@@ -6,9 +6,6 @@ Firecrawl propose une interface (API) pour explorer les données des sites Web �
 - TypeScript
 - GitHub Trending · 2026-06-23
 
-## Mise à jour
-- 2 août 2026 : Étoile 137 683 → 159 421, dernière version v2.11.0 (19 juin 2026).
-
 ## Ce que ça vous apporte
 - Convertit les sites Web au format texte clair
 - Collecte des données pour les agents d'intelligence artificielle

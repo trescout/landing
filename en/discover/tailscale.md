@@ -6,11 +6,6 @@ Tailscale makes it easier to establish secure network connections by combining t
 - Go
 - GitHub Trending · 2026-07-11
 
-## Update
-- August 6, 2026: Star 34,778 → 34,858, latest version v1.102.2 (August 4, 2026).
-- August 4, 2026: Star 34,704 → 34,778, latest version v1.102.1 (August 3, 2026).
-- August 2, 2026: Star 33,734 → 34,704, latest version v1.98.10 (July 28, 2026).
-
 ## What you get
 - Encrypted communication with WireGuard protocol
 - Two-factor authentication support

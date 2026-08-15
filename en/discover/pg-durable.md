@@ -6,9 +6,6 @@ Developed by Microsoft, pg_durable is a library designed to manage durable execu
 - Rust
 - GitHub Trending · 2026-06-08
 
-## Update
-- August 2, 2026: Star 1,580 → 2,716, latest version v0.2.5 (July 30, 2026).
-
 ## What you get
 - It manages workflows within the database in a fault-tolerant and persistent manner.
 - In case of crash or interruption, it continues operations from the last checkpoint.

@@ -6,9 +6,6 @@ O MediaCrawler coleta automaticamente postagens e comentários de usuários em p
 - Python
 - GitHub Trending · 2026-06-26
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 53.062 → 59.631.
-
 ## O que você ganha
 - Extraindo postagens e comentários de plataformas populares
 - Login fácil com automação do navegador

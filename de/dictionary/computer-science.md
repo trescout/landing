@@ -27,5 +27,10 @@ Künstliche Intelligenz untersucht als Teilgebiet der Informatik, wie Systeme di
 - [AI Skills](/de/dictionary/ai-skills/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Coding Interview University](/de/discover/coding-interview-university/)
+- [Computer Science](/de/discover/computer-science/)
+- [Cs Self Learning](/de/discover/cs-self-learning/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/computer-science/

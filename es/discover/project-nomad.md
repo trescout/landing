@@ -7,14 +7,25 @@ Proyecto N.O.M.A.D; Se trata de un proyecto de construcción de ordenadores fuer
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
-## Actualizar
-- 4 de agosto de 2026: Star 35,380 → 35,435, última versión v1.34.0 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 27,228 → 35,380, última versión v1.33.0 (23 de junio de 2026).
-
 ## Qué aporta
 - Ofrece herramientas e información críticas que no requieren Internet.
 - Proporciona soporte de inteligencia artificial local (fuera de línea).
 - Permite la preparación para escenarios de emergencia y fuera de línea.
+
+## ¿Cómo instalar, cómo utilizar?
+**Instalación rápida (Debian/Ubuntu)**
+
+```
+curl -fsSL https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/install/install_nomad.sh -o install_nomad.sh
+sudo bash install_nomad.sh
+```
+
+**empezar**
+
+```
+sudo bash /opt/project-nomad/start_nomad.sh
+```
+
 
 ## Términos relacionados del glosario
 

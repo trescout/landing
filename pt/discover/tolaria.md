@@ -6,10 +6,6 @@ Tolaria é um aplicativo desktop desenvolvido para gerenciar bases de conhecimen
 - TypeScript
 - GitHub Trending · 2026-06-08
 
-## Atualizar
-- 12 de agosto de 2026: Star 19.219 → 19.403, última versão v2026-08-11 (11 de agosto de 2026).
-- 2 de agosto de 2026: Star 13.116 → 19.219, última versão v2027-07-31 (31 de julho de 2026).
-
 ## O que você ganha
 - Fornece gerenciamento portátil de notas com arquivos markdown.
 - Oferece controle total de versão com integração Git.

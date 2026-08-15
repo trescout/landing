@@ -6,9 +6,6 @@ Awesome-mac es un repositorio de recursos integral que clasifica y enumera softw
 - Swift
 - GitHub Trending · 2026-08-12
 
-## Actualizar
-- 12 de agosto de 2026: Star 110,586 → 110,588, última versión v2.1.0 (30 de marzo de 2026).
-
 ## Qué aporta
 - Encuentre rápidamente aplicaciones que se ajusten a sus necesidades
 - Lista de software sistemática y categorizada
@@ -16,7 +13,6 @@ Awesome-mac es un repositorio de recursos integral que clasifica y enumera softw
 
 ## Cómo empezar
 - Fuente oficial →
-Esta herramienta no requiere instalación de software. Al visitar la página de GitHub correspondiente, puede explorar la lista categorizada de aplicaciones macOS y examinar directamente el software que necesita.
 
 ## Enlaces
 - Repositorio en GitHub →

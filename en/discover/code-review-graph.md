@@ -6,10 +6,6 @@ Code-review-graph analyzes the code base and creates a locally focused code inte
 - Python
 - GitHub Trending · 2026-07-18
 
-## Update
-- August 9, 2026: Star 28,041 → 29,487, latest version v2.3.7 (July 18, 2026).
-- August 2, 2026: Star 19,852 → 28,041, latest version v2.3.7 (July 18, 2026).
-
 ## What you get
 - Analyzes the code base and presents only relevant files to artificial intelligence
 - Significantly reduces token consumption in large projects

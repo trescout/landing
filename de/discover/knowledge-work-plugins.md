@@ -7,9 +7,6 @@ Dieser Open-Source-Plugin-Satz von Anthropic vereint Fähigkeiten, Konnektoren, 
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Aktualisieren
-- 1. August 2026: Stern 16.517 → 23.222.
-
 ## Was es bringt
 - Spezialisiert Claude basierend auf Ihrer Rolle (z. B. Marketing, Finanzen, Recht).
 - Jedes Plugin besteht aus einer Reihe von Fähigkeiten, Konnektoren und Befehlen und ermöglicht so einen schnellen Einstieg.
@@ -18,6 +15,21 @@ Dieser Open-Source-Plugin-Satz von Anthropic vereint Fähigkeiten, Konnektoren, 
 
 ## So fangen Sie an
 Sie können es über den Plugin-Markt von Claude Cowork installieren. Die Liste der 11 Plugins und ihrer Funktionen ist in einer Tabelle im Repo enthalten. Nach der Installation beginnt Claude, sich wie ein Experte für die jeweilige Geschäftsfunktion zu verhalten.
+
+## Wie installiere ich, wie verwende ich?
+**Fügen Sie Marketplace hinzu und installieren Sie ein Rollen-Plugin**
+
+```
+claude plugin marketplace add anthropics/knowledge-work-plugins
+claude plugin install sales@knowledge-work-plugins
+```
+
+**Beispiel: Vorbereitung eines Verkaufsgesprächs**
+
+```
+/sales:call-prep
+```
+
 
 ## Verwandte Begriffe aus dem Glossar
 

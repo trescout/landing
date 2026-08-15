@@ -5,9 +5,6 @@ Awesome-artificial-intelligence es una lista completa de recursos que reúne cap
 - ★ 15.631
 - GitHub Trending · 2026-06-19
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 14,532 → 15,631.
-
 ## Qué aporta
 - Libros actuales seleccionados sobre ingeniería de inteligencia artificial
 - Artículos académicos y contenidos educativos estructurados.
@@ -15,7 +12,6 @@ Awesome-artificial-intelligence es una lista completa de recursos que reúne cap
 
 ## Cómo empezar
 - Fuente oficial →
-Esta herramienta no requiere instalación de software; es una lista de recursos. Para comenzar su viaje de aprendizaje, puede revisar los libros en la sección "Aprender" del archivo README y explorar los marcos y guías de inteligencia artificial actuales a través de los enlaces en la sección "Construir".
 
 ## Términos relacionados del glosario
 

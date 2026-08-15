@@ -6,10 +6,6 @@ Pi-web offre une interface utilisateur Web améliorée (interface utilisateur We
 - TypeScript
 - GitHub Trending · 2026-07-22
 
-## Mise à jour
-- 7 août 2026 : Étoile 3 485 → 3 714, dernière version v0.8.7 (6 août 2026).
-- 2 août 2026 : Étoile 1 821 → 3 485, dernière version v0.8.6 (31 juillet 2026).
-
 ## Ce que ça vous apporte
 - Scanner visuellement les sessions de codage passées
 - Prévisualiser les fichiers via le navigateur

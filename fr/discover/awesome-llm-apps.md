@@ -6,9 +6,6 @@ Le référentiel Awesome-llm-apps propose plus de 100 agents IA directement exé
 - Python
 - GitHub Trending · 2026-07-13
 
-## Mise à jour
-- 2 août 2026 : Étoile 118 879 → 129 783.
-
 ## Ce que ça vous apporte
 - Plus de 100 agents IA personnalisables
 - Compatible avec Claude, Gemini et OpenAI

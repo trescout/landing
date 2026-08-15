@@ -6,9 +6,6 @@ Dieser visuelle Leitfaden für Claude Code bietet eine breite Palette von Beispi
 - Python
 - GitHub Trending · 2026-06-09
 
-## Aktualisieren
-- 2. August 2026: Star 36.008 → 40.779, neueste Version v2.1.160 (2. Juni 2026).
-
 ## Was es bringt
 - Integration von Claude Code-Funktionen in Arbeitsabläufe.
 - Beschleunigen Sie Codeentwicklungsprozesse mit vorgefertigten Vorlagen.

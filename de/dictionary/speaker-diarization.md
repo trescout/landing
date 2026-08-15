@@ -24,5 +24,8 @@ Nein, es wird normalerweise zwischen Sprechern (Person A, Person B) unterschiede
 - [Speech-to-Text](/de/dictionary/speech-to-text/)
 - [NLP](/de/dictionary/nlp/)
 
+## Verwandte Werkzeuge
+- [Meetily](/de/discover/meetily/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/speaker-diarization/

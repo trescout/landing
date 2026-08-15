@@ -27,5 +27,8 @@ Weil autonome Agenten Fehler machen können und Sie nicht möchten, dass diese F
 - [AI Agent](/de/dictionary/ai-agent/)
 - [Agentic Engineering](/de/dictionary/agentic-engineering/)
 
+## Verwandte Werkzeuge
+- [Flue](/de/discover/flue/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/sandbox-agent-framework/

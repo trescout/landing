@@ -6,9 +6,6 @@ Der auf TypeScript basierende Pascalorg/Editor ermöglicht Benutzern das Erstell
 - TypeScript
 - GitHub Trending · 2026-07-29
 
-## Aktualisieren
-- 2. August 2026: Star 18.985 → 20.706, neueste Version v0.9.1 (10. Juni 2026).
-
 ## Was es bringt
 - 3D-Architekturmodellierung mit React Three Fiber
 - Hochleistungsvisualisierung mit WebGPU-Unterstützung

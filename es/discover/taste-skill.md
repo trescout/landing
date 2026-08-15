@@ -7,10 +7,6 @@ Cuando los agentes de inteligencia artificial producen interfaces, a menudo dan 
 - MIT
 - GitHub Trending · 26 May 2026
 
-## Actualizar
-- 7 de agosto de 2026: Estrella 69,955 → 73,831.
-- 1 de agosto de 2026: Estrella 21,137 → 69,955.
-
 ## Qué aporta
 - Mejor diseño, tipografía y movimiento; Te deshaces del aspecto estándar "repetitivo".
 - Gracias a su estructura portátil, se puede integrar fácilmente en diferentes agentes de IA.
@@ -18,6 +14,20 @@ Cuando los agentes de inteligencia artificial producen interfaces, a menudo dan 
 
 ## ¿Cómo utilizar?
 Cuando agrega la habilidad a su agente de IA (pasos en gustoskill.dev), se activa automáticamente durante la generación de la interfaz, llevando la calidad del diseño al siguiente nivel.
+
+## ¿Cómo instalar, cómo utilizar?
+**Instalar todas las habilidades**
+
+```
+npx skills add https://github.com/Leonxlnx/taste-skill
+```
+
+**Desarrolla una única habilidad**
+
+```
+npx skills add https://github.com/Leonxlnx/taste-skill --skill "design-taste-frontend"
+```
+
 
 ## Términos relacionados del glosario
 

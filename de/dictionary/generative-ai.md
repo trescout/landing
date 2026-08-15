@@ -24,6 +24,20 @@ Ja, heute kann jeder, der einen einfachen Befehl eingeben kann, von dieser Techn
 
 ## Verwandte Begriffe
 - [LLM](/de/dictionary/llm/)
+- [Diffusion Model](/de/dictionary/diffusion-model/)
+- [Text-to-Speech](/de/dictionary/text-to-speech/)
+- [Prompt Engineering](/de/dictionary/prompt-engineering/)
+- [Multimodal](/de/dictionary/multimodal/)
+
+## Verwandte Werkzeuge
+- [System Prompts and Models of AI Tools](/de/discover/system-prompts-and-models-of-ai-tools/)
+- [Generative AI for Beginners](/de/discover/generative-ai-for-beginners/)
+- [Impeccable](/de/discover/impeccable/)
+- [Next AI Draw IO](/de/discover/next-ai-draw-io/)
+- [Awesome Generative AI Guide](/de/discover/awesome-generative-ai-guide/)
+- [Aisuite](/de/discover/aisuite/)
+- [TRELLIS.2](/de/discover/trellis-2/)
+- [Weathernext](/de/discover/weathernext/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/generative-ai/

@@ -6,9 +6,6 @@ Ktransformers offers a flexible framework that supports heterogeneous hardware o
 - Python
 - GitHub Trending · 2026-07-20
 
-## Update
-- August 2, 2026: Star 18,491 → 19,145, latest version v0.6.4 (July 23, 2026).
-
 ## What you get
 - Efficient work by using processor and graphics card resources together
 - Low hardware requirements in large-scale MoE models

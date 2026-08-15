@@ -6,10 +6,6 @@ Nautilus Trader is a trading engine with a deterministic event-driven architectu
 - Rust
 - GitHub Trending · 2026-06-18
 
-## Update
-- 3 August 2026: Star 25.204 → 25.223, latest version v1.231.0 (2 August 2026).
-- August 2, 2026: Star 23,912 → 25,204, last version v1.230.0 (June 29, 2026).
-
 ## What you get
 - Rust-based fast and secure trading infrastructure
 - Transition from research to live without code changes

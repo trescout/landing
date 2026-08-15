@@ -6,9 +6,6 @@ Universal Android Debloater Next Generation est une interface graphique multipla
 - Rust
 - GitHub Trending · 2026-06-17
 
-## Mise à jour
-- 2 août 2026 : Étoile 7 487 → 8 660, dernière version v1.2.0 (12 janvier 2026).
-
 ## Ce que ça vous apporte
 - Améliore les performances de l'appareil et la durée de vie de la batterie
 - Renforce la confidentialité en réduisant les vulnérabilités de sécurité
@@ -16,7 +13,6 @@ Universal Android Debloater Next Generation est une interface graphique multipla
 
 ## Pour commencer
 - Source officielle →
-Pour démarrer avec l'outil, accédez à la section Wiki de la page GitHub. En consultant les pages « Démarrage » et « Guide d'utilisation » ici, vous pouvez suivre les étapes nécessaires pour votre appareil et télécharger et exécuter l'application sur votre ordinateur.
 
 ## Termes liés du glossaire
 

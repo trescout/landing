@@ -6,9 +6,6 @@ Diese Open-Source-Datenbank, die von unabhängigen chinesischen Entwicklern durc
 - Python
 - GitHub Trending · 2026-07-15
 
-## Aktualisieren
-- 2. August 2026: Stern 54.609 → 60.379.
-
 ## Was es bringt
 - Zugriff auf aktuelle Anwendungen unabhängiger Entwickler
 - Anschließend produktorientierte Studien in verschiedenen Branchen
@@ -16,7 +13,6 @@ Diese Open-Source-Datenbank, die von unabhängigen chinesischen Entwicklern durc
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Für dieses Tool ist keine Softwareinstallation erforderlich. Um die Projekte zu überprüfen, können Sie die Homepage auf GitHub besuchen und direkt durchsuchen, indem Sie auf die Websites der aufgelisteten Anwendungen oder deren jeweilige Repository-Links klicken.
 
 ## Verwandte Begriffe aus dem Glossar
 

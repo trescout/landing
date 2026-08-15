@@ -27,5 +27,8 @@ Ja, aber da das System über autonome Befugnisse verfügt, ist es wichtig, die e
 - [Autonomous Agent](/de/dictionary/autonomous-agent/)
 - [Agentic Workflows](/de/dictionary/agentic-workflows/)
 
+## Verwandte Werkzeuge
+- [Astryx](/de/discover/astryx/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agent-ready/

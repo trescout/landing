@@ -7,13 +7,24 @@ stabiles Weltmodell; Es handelt sich um eine Plattform, die sicherstellt, dass d
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
 
-## Aktualisieren
-- 2. August 2026: Star 1.403 → 2.080, letzte Version 0.1.1 (6. Juni 2026).
-
 ## Was macht es?
 - Forschung reproduzierbar machen.
 - Bereitstellung einer Standard-Bewertungsumgebung.
 - Kein Endbenutzer-Tool, sondern eine direkte Lösung für die Forschung.
+
+## Wie installiere ich, wie verwende ich?
+**Von PyPI installieren (alle Plugins)**
+
+```
+pip install 'stable-worldmodel[all]'
+```
+
+**Zwischengespeicherte Datensätze auflisten**
+
+```
+swm datasets
+```
+
 
 ## Verwandte Begriffe aus dem Glossar
 

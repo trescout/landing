@@ -6,12 +6,6 @@ A biblioteca de conversão de fala desenvolvida pela Hugging Face permite a cria
 - Python
 - GitHub Trending · 2026-07-29
 
-## Atualizar
-- 12 de agosto de 2026: Star 11.283 → 12.310, versão mais recente v0.2.12 (5 de agosto de 2026).
-- 6 de agosto de 2026: Star 10.774 → 11.283, versão mais recente v0.2.12 (5 de agosto de 2026).
-- 4 de agosto de 2026: Star 10.402 → 10.774, versão mais recente v0.2.11 (3 de agosto de 2026).
-- 2 de agosto de 2026: Star 7.443 → 10.402, versão mais recente v0.2.10 (11 de junho de 2026).
-
 ## O que você ganha
 - Linha de áudio modular de baixa latência
 - Suporte WebSocket compatível com OpenAI Realtime

@@ -6,11 +6,6 @@ The skills library developed by Google offers Python-based tools that enable art
 - Python
 - GitHub Trending · 2026-06-09
 
-## Update
-- August 11, 2026: Star 16,451 → 17,658.
-- August 8, 2026: Star 15,389 → 16,451.
-- August 2, 2026: Star 12,675 → 15,389.
-
 ## What you get
 - It gives artificial intelligence agents the ability to interact with Google products.
 - Provides standardized tools for Google Cloud services.

@@ -23,5 +23,8 @@ Um die Ladegeschwindigkeit der Website zu erhöhen, indem der Browser weniger An
 - [Frontend Stack](/de/dictionary/frontend-stack/)
 - [Tech Stack](/de/dictionary/tech-stack/)
 
+## Verwandte Werkzeuge
+- [SWC](/de/discover/swc/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/bundling/

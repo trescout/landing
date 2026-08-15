@@ -7,9 +7,6 @@ Anthropische Fähigkeiten; Es handelt sich um die offizielle Sammlung von Fertig
 - Lisans: kontrol et
 - GitHub Trending · 29 May 2026
 
-## Aktualisieren
-- 2. August 2026: Stern 143.307 → 165.785.
-
 ## Was es bringt
 - Bereite und formale Fähigkeiten für Claude.
 - Dynamische Belastung: kommt nur bei Bedarf ins Spiel.
@@ -17,6 +14,20 @@ Anthropische Fähigkeiten; Es handelt sich um die offizielle Sammlung von Fertig
 
 ## Wie benutzt man?
 Sie definieren den relevanten Skill als Skill für Claude (z. B. Claude Code oder Cowork); Dadurch steigert sich Ihre Leistungsfähigkeit bei Spezialaufgaben.
+
+## Wie installiere ich, wie verwende ich?
+**Marktplatz hinzufügen (Claude Code)**
+
+```
+/plugin marketplace add anthropics/skills
+```
+
+**Bauen Sie Ihre Dokumentkompetenzen aus**
+
+```
+/plugin install document-skills@anthropic-agent-skills
+```
+
 
 ## Verwandte Begriffe aus dem Glossar
 

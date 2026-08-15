@@ -6,11 +6,6 @@ Home Assistant es una plataforma de domótica de código abierto que prioriza el
 - Python
 - GitHub Trending · 2026-07-12
 
-## Actualizar
-- 7 de agosto de 2026: Estrella 89,760 → 89,792, última versión 2026.8.1 (7 de agosto de 2026).
-- 6 de agosto de 2026: Estrella 89.632 → 89.760, última versión 2026.8.0 (5 de agosto de 2026).
-- 2 de agosto de 2026: Estrella 88,765 → 89,632, última versión 2026.7.4 (24 de julio de 2026).
-
 ## Qué aporta
 - Gestiona tus dispositivos inteligentes desde un único centro
 - Proteja la privacidad de sus datos con control local
@@ -40,7 +35,6 @@ hass
 
 ## Cómo empezar
 - Fuente oficial →
-Visita home-assistant.io para comenzar la configuración. Puede instalar el sistema en su dispositivo siguiendo los pasos apropiados para su Raspberry Pi o servidor local a través de la sección de instrucciones de instalación en el sitio.
 
 ## Términos relacionados del glosario
 

@@ -6,9 +6,6 @@ Das awesome-llm-apps-Repository bietet mehr als 100 direkt ausführbare KI-Agent
 - Python
 - GitHub Trending · 2026-07-13
 
-## Aktualisieren
-- 2. August 2026: Stern 118.879 → 129.783.
-
 ## Was es bringt
 - Mehr als 100 anpassbare KI-Agenten
 - Kompatibel mit Claude, Gemini und OpenAI

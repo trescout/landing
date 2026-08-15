@@ -24,5 +24,8 @@ Es ist sicher, solange Sie kontrollieren können, welche Vorgänge Sie der KI er
 - [Autonomous Agent](/de/dictionary/autonomous-agent/)
 - [Agentic AI](/de/dictionary/agentic-ai/)
 
+## Verwandte Werkzeuge
+- [Cwc Workshops](/de/discover/cwc-workshops/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/computer-use/

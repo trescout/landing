@@ -27,5 +27,8 @@ Die Verarbeitung Ihres Codes stoppt, da die Verarbeitung auf dem Remote-Server u
 - [Compilation](/de/dictionary/compilation/)
 - [CLI](/de/dictionary/cli/)
 
+## Verwandte Werkzeuge
+- [SWC](/de/discover/swc/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/web-compiler/

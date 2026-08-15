@@ -6,12 +6,6 @@ OpenCode é um agente de codificação de código aberto projetado para automati
 - TypeScript
 - GitHub Trending · 2026-06-28
 
-## Atualizar
-- 10 de agosto de 2026: Star 194.749 → 195.548, versão mais recente v1.18.16 (10 de agosto de 2026).
-- 7 de agosto de 2026: Star 193.974 → 194.749, versão mais recente v1.18.15 (7 de agosto de 2026).
-- 6 de agosto de 2026: Star 193.021 → 193.974, versão mais recente v1.18.14 (5 de agosto de 2026).
-- 4 de agosto de 2026: Star 192.342 → 193.021, versão mais recente v1.18.12 (4 de agosto de 2026).
-
 ## O que você ganha
 - Gerencia processos de desenvolvimento de software de forma autônoma
 - Oferece modos especiais para revisão e planejamento de código

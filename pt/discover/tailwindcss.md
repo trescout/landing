@@ -6,9 +6,6 @@ Tailwind CSS é uma estrutura de folha de estilo utilitária (estrutura CSS) foc
 - TypeScript
 - GitHub Trending · 2026-08-05
 
-## Atualizar
-- 6 de agosto de 2026: Star 96.571 → 96.949, versão mais recente v4.3.3 (16 de julho de 2026).
-
 ## O que você ganha
 - Crie designs originais com classes de baixo nível
 - Desenvolva interfaces sem lidar com componentes prontos
@@ -32,7 +29,6 @@ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 
 ## Como começar
 - Fonte oficial →
-Para começar a usar esta ferramenta, você pode visitar o site oficial tailwindcss.com e revisar a documentação de instalação e uso.
 
 ## Termos relacionados do glossário
 

@@ -7,15 +7,14 @@ Choque Fl; Es un cliente proxy multiplataforma basado en ClashMeta. Fue desarrol
 - GPL-3.0
 - GitHub Trending · 30 May 2026
 
-## Actualizar
-- 2 de agosto de 2026: Star 40,313 → 47,428, última versión v0.8.94 (11 de julio de 2026).
-
 ## Qué aporta
 - Posibilidad de trabajar en múltiples plataformas.
 - Interfaz sencilla y sin publicidad.
 - El poder del código abierto ClashMeta.
 
 ## Nota de uso
+
+## ¿Cómo instalar, cómo utilizar?
 Quiero utilizar un cliente proxy multiplataforma de código abierto llamado FlClash; Ayúdame a descargar e instalar el archivo de instalación adecuado para mi sistema operativo (Android, Windows, macOS o Linux) desde la página de lanzamientos de GitHub (https://github.com/chen08209/FlClash/releases) y configúralo agregando un enlace de suscripción.
 
 ## Términos relacionados del glosario

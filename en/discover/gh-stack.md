@@ -6,9 +6,6 @@ Developed by GitHub, gh-stack is a command line tool that makes it easy to creat
 - Go
 - GitHub Trending · 2026-08-02
 
-## Update
-- August 2, 2026: Star 860 → 911, latest version v0.1.0 (July 29, 2026).
-
 ## What you get
 - Breaks large code changes into small and manageable pieces
 - Automatically organizes dependencies between pull requests

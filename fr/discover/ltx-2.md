@@ -5,10 +5,6 @@ Développé par Lightricks, LTX-2 propose un package de formation Python d'infé
 - ★ 8 587
 - GitHub Trending · 2026-06-19
 
-## Mise à jour
-- 12 août 2026 : Star 8 554 → 8 587, dernière version v1.2.0 (11 août 2026).
-- 10 août 2026 : Étoile 7 550 → 8 554.
-
 ## Ce que ça vous apporte
 - Fournit une synchronisation audio et vidéo
 - Vous pouvez entraîner LoRA avec vos propres données

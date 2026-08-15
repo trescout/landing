@@ -24,5 +24,9 @@ Moderne KI-Modelle unterstützen Dutzende Sprachen, die Erfolgsquote kann jedoch
 - [Voice to Text](/de/dictionary/voice-to-text/)
 - [NLP](/de/dictionary/nlp/)
 
+## Verwandte Werkzeuge
+- [Meetily](/de/discover/meetily/)
+- [Claude Video](/de/discover/claude-video/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/transcription/

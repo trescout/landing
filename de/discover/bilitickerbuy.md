@@ -5,9 +5,6 @@ Dieses Python-basierte Tool, das die Kaufprozesse für Bilibili-Mitglieder autom
 - ★ 4.173
 - GitHub Trending · 2026-06-22
 
-## Aktualisieren
-- 2. August 2026: Star 3.782 → 4.173, neueste Version v2.15.16 (4. Juli 2026).
-
 ## Was es bringt
 - Automatisiert den Ticketkauf über Bilibili
 - Erhöht die Geschwindigkeit der Erfassung begrenzter Lagerbestände

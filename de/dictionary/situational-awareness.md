@@ -27,5 +27,8 @@ Menschen sind intuitiv, während KIs ausschließlich auf mathematische Berechnun
 - [Autonomous AI Agent](/de/dictionary/autonomous-ai-agent/)
 - [World Model](/de/dictionary/world-model/)
 
+## Verwandte Werkzeuge
+- [Worldmonitor](/de/discover/worldmonitor/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/situational-awareness/

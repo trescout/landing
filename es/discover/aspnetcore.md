@@ -5,10 +5,6 @@ ASP.NET Core es un marco .NET multiplataforma que se utiliza para desarrollar ap
 - ★ 38.367
 - GitHub Trending · 2026-06-19
 
-## Actualizar
-- 12 de agosto de 2026: Star 38,339 → 38,367, última versión v10.0.11 (11 de agosto de 2026).
-- 2 de agosto de 2026: Star 38,124 → 38,339, última versión v8.0.29 (14 de julio de 2026).
-
 ## Qué aporta
 - Operación multiplataforma en Windows, macOS y Linux
 - Desarrollo de aplicaciones escalables y basadas en la nube

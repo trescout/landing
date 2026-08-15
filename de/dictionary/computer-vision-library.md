@@ -26,5 +26,8 @@ Grundkenntnisse im Code sind ausreichend, da in Bibliotheken komplexe Mathematik
 - [Machine Learning](/de/dictionary/machine-learning/)
 - [AI Skills](/de/dictionary/ai-skills/)
 
+## Verwandte Werkzeuge
+- [Opencv](/de/discover/opencv/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/computer-vision-library/

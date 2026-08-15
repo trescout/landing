@@ -6,9 +6,6 @@ Transcribe.cpp é uma biblioteca de inferência de fala para texto desenvolvida 
 - C++
 - GitHub Trending · 2026-07-21
 
-## Atualizar
-- 2 de agosto de 2026: Star 1.357 → 1.673, versão mais recente v0.1.3 (12 de julho de 2026).
-
 ## O que você ganha
 - Suporte para 16 famílias de modelos diferentes
 - Alto desempenho em GPU e CPU

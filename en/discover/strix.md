@@ -6,12 +6,6 @@ Strix is ​​an open source artificial intelligence-based security tool (AI se
 - Python
 - GitHub Trending · 2026-06-29
 
-## Update
-- 11 August 2026: Star 50,026 → 50,882, latest version v1.5.3 (10 August 2026).
-- August 9, 2026: Star 49,641 → 50,026, latest version v1.5.2 (August 9, 2026).
-- August 7, 2026: Star 49,423 → 49,641, latest version v1.5.1 (August 7, 2026).
-- August 7, 2026: Star 49,097 → 49,423, latest version v1.5.0 (August 7, 2026).
-
 ## What you get
 - Automatically detects vulnerabilities in applications
 - Generates verifiable security reports

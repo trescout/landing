@@ -6,9 +6,6 @@ Penpot est un outil de conception open source qui renforce la collaboration entr
 - Clojure
 - GitHub Trending · 2026-06-18
 
-## Mise à jour
-- 2 août 2026 : Star 50 242 → 57 989, dernière version 2.17.0 (22 juillet 2026).
-
 ## Ce que ça vous apporte
 - Intègre les processus de conception avec le code
 - Propose des normes ouvertes et des jetons de conception
@@ -32,7 +29,6 @@ docker compose -p penpot -f docker-compose.yaml up -d
 
 ## Pour commencer
 - Source officielle →
-Pour commencer à utiliser Penpot, vous pouvez visiter le site officiel, penpot.app. Vous pouvez utiliser le design via le navigateur ou si vous souhaitez l'installer sur vos propres serveurs, vous pouvez consulter les guides d'auto-hébergement dans la section documents techniques.
 
 ## Termes liés du glossaire
 

@@ -5,9 +5,6 @@ Desarrollado con el lenguaje Rust, SWC ofrece una plataforma de compilación y a
 - ★ 34.160
 - GitHub Trending · 2026-06-14
 
-## Actualizar
-- 2 de agosto de 2026: Star 33,681 → 34,160, última versión v1.15.47 (29 de julio de 2026).
-
 ## Qué aporta
 - Procesa archivos JavaScript y TypeScript a alta velocidad
 - Proporciona infraestructura de alto rendimiento desarrollada con lenguaje Rust.

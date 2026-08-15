@@ -6,10 +6,6 @@ Pi-web oferece uma interface de usuário baseada na web aprimorada (UI da web) p
 - TypeScript
 - GitHub Trending · 2026-07-22
 
-## Atualizar
-- 7 de agosto de 2026: Star 3.485 → 3.714, versão mais recente v0.8.7 (6 de agosto de 2026).
-- 2 de agosto de 2026: Star 1.821 → 3.485, versão mais recente v0.8.6 (31 de julho de 2026).
-
 ## O que você ganha
 - Digitalize visualmente sessões de codificação anteriores
 - Visualizar arquivos via navegador

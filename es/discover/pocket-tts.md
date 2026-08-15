@@ -6,9 +6,6 @@ Desarrollado por Kyutai Labs, Pocket-TTS es un modelo ligero de conversión de t
 - Python
 - GitHub Trending · 2026-07-08
 
-## Actualizar
-- 2 de agosto de 2026: Star 6350 → 7994, última versión v2.1.0 (4 de mayo de 2026).
-
 ## Qué aporta
 - Funciona sólo con el procesador, sin necesidad de tarjeta gráfica
 - Proporciona una reproducción de sonido rápida con un bajo consumo de recursos.

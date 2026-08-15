@@ -23,5 +23,8 @@ Denn das Sicherheitsrisiko ist sehr hoch; Wenn eine Schadsoftware Root-Rechte er
 - [Virtual Machines](/de/dictionary/virtual-machines/)
 - [Containers](/de/dictionary/containers/)
 
+## Verwandte Werkzeuge
+- [Universal Android Debloater Next Generation](/de/discover/universal-android-debloater-next-generation/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/root/

@@ -5,9 +5,6 @@ Zhangxuefeng-skill ofrece un sistema operativo cognitivo estructurado para prefe
 - ★ 10.048
 - GitHub Trending · 2026-06-12
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 8.114 → 10.048.
-
 ## Qué aporta
 - Analiza decisiones complejas de carrera y educación a través del marco cognitivo de 张雪峰.
 - Ofrece recomendaciones concretas centradas en datos de empleo y la realidad social.

@@ -6,11 +6,6 @@ Loopx is a lightweight state kernel developed for long-term artificial intellige
 - Python
 - GitHub Trending · 2026-08-06
 
-## Update
-- August 9, 2026: Star 3,035 → 3,609, latest version v0.4.4 (August 9, 2026).
-- August 7, 2026: Star 2,399 → 3,035, latest version v0.4.2 (August 6, 2026).
-- August 6, 2026: Star 2,385 → 2,399, latest version v0.4.1 (August 4, 2026).
-
 ## What you get
 - Standardizes target tracking and quota management in long-term missions.
 - It enables verifiable handover of work between different AI agents.

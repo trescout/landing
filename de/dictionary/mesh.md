@@ -21,5 +21,11 @@ Da sie nicht mit einem einzigen Punkt verbunden sind, ist die Gefahr eines Syste
 - [Networking Stack](/de/dictionary/networking-stack/)
 - [Distributed](/de/dictionary/distributed/)
 
+## Verwandte Werkzeuge
+- [Bitchat](/de/discover/bitchat/)
+- [Meshery](/de/discover/meshery/)
+- [Meshoptimizer](/de/discover/meshoptimizer/)
+- [Bitchat Android](/de/discover/bitchat-android/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/mesh/

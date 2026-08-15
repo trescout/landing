@@ -6,12 +6,6 @@ Reverse-skill oferece um pacote de roteamento apoiado por inteligência artifici
 - PowerShell
 - GitHub Trending · 2026-08-01
 
-## Atualizar
-- 12 de agosto de 2026: Star 22.757 → 24.068, versão mais recente v1.0.1 (8 de agosto de 2026).
-- 10 de agosto de 2026: Star 20.865 → 22.757, versão mais recente v1.0.1 (8 de agosto de 2026).
-- 8 de agosto de 2026: Star 20.511 → 20.865, versão mais recente v1.0.1 (8 de agosto de 2026).
-- 7 de agosto de 2026: Star 19.315 → 20.511, versão mais recente v1.0.0 (17 de julho de 2026).
-
 ## O que você ganha
 - Fluxos de trabalho padronizados para agentes de IA
 - Seleção automática de ferramentas com base em diferentes tipos de arquivo

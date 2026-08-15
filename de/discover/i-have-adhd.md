@@ -6,12 +6,6 @@ i-have-adhd wurde entwickelt, um die Ausgabe von Codierungsagenten fokussierter 
 - Python
 - GitHub Trending · 2026-07-22
 
-## Aktualisieren
-- 12. August 2026: Stern 18.555 → 19.772.
-- 9. August 2026: Stern 17.370 → 18.555.
-- 6. August 2026: Stern 15.559 → 17.370.
-- 2. August 2026: Stern 7.248 → 15.559.
-
 ## Was es bringt
 - Entfernt unnötige Einleitungssätze in KI-Antworten.
 - Unterteilt komplexe Aufgaben in nummerierte Schritte.

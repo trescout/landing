@@ -27,5 +27,8 @@ Nein, das Modell live zu bringen, zu überwachen und zu aktualisieren ist ebenfa
 - [Engineering Skills](/de/dictionary/engineering-skills/)
 - [AI Agent](/de/dictionary/ai-agent/)
 
+## Verwandte Werkzeuge
+- [AI Engineering from Scratch](/de/discover/ai-engineering-from-scratch/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-engineering/

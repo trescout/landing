@@ -6,11 +6,6 @@ Cognee est une plateforme open source qui fournit une mémoire à long terme ent
 - Python
 - GitHub Trending · 2026-06-22
 
-## Mise à jour
-- 9 août 2026 : Étoile 29 804 → 29 883, dernière version v1.4.2 (8 août 2026).
-- 6 août 2026 : Star 29 692 → 29 804, dernière version v1.4.1.dev0 (5 août 2026).
-- 2 août 2026 : Étoile 18 871 → 29 692, dernière version v1.4.1 (31 juillet 2026).
-
 ## Ce que ça vous apporte
 - Mémoire à long terme persistante entre sessions pour les agents.
 - Moteur de graphes de connaissances auto-hébergé

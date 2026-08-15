@@ -6,9 +6,6 @@ Dopamine es una herramienta de jailbreak semiindependiente desarrollada para dis
 - C
 - GitHub Trending · 2026-08-11
 
-## Actualizar
-- 11 de agosto de 2026: Estrella 6.086 → 6.086, última versión 3.0.4 (9 de agosto de 2026).
-
 ## Qué aporta
 - Funciona en iOS 15 a 18.7.1
 - Proporciona acceso a privilegios administrativos en el dispositivo.
@@ -16,7 +13,6 @@ Dopamine es una herramienta de jailbreak semiindependiente desarrollada para dis
 
 ## Cómo empezar
 - Fuente oficial →
-Para comenzar a utilizar la herramienta Dopamina, puede visitar el sitio web oficial https://ellekit.space/dopamine/ y seguir el enlace de descarga apropiado para su dispositivo.
 
 ## Enlaces
 - Repositorio en GitHub →

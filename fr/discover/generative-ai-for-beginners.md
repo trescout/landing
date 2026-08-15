@@ -13,7 +13,6 @@ Ce contenu de formation préparé par Microsoft propose un programme de 21 leço
 
 ## Pour commencer
 - Source officielle →
-Pour commencer avec le contenu de la formation, vous pouvez visiter la page officielle sur GitHub ou télécharger les fichiers sur votre ordinateur à l'aide des commandes ci-dessus. Ensuite, suivez simplement le guide dans le dossier « 00-course-setup » du référentiel pour préparer votre environnement de développement.
 
 ## Termes liés du glossaire
 

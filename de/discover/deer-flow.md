@@ -6,9 +6,6 @@ Deer-Flow wurde von ByteDance entwickelt und ist ein Open-Source-Superagenten-Fr
 - Python
 - GitHub Trending · 2026-06-22
 
-## Aktualisieren
-- 2. August 2026: Star 72.905 → 78.818, letzte Version v2.0.0 (25. Juni 2026).
-
 ## Was es bringt
 - Autonome Recherche- und Programmierfähigkeit
 - Arbeiten in einer sicheren Sandbox-Umgebung

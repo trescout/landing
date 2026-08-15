@@ -6,9 +6,6 @@ Maigret escanea más de 3.000 sitios web basándose en nombres de usuario y crea
 - Python
 - GitHub Trending · 2026-06-11
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 32,267 → 36,075, última versión principal (26 de abril de 2026).
-
 ## Qué aporta
 - Escanea más de 3000 sitios según el nombre de usuario.
 - Crea un archivo de huella digital detallado para las personas.

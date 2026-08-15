@@ -28,5 +28,15 @@ Ja, sie können Ihre Dateien verwalten oder Ihre Anwendungen ausführen, wenn Si
 - [Agentic AI](/de/dictionary/agentic-ai/)
 - [Coding Agent](/de/dictionary/coding-agent/)
 
+## Verwandte Werkzeuge
+- [Hermes Agent](/de/discover/hermes-agent/)
+- [Opencode](/de/discover/opencode/)
+- [Awesome LLM Apps](/de/discover/awesome-llm-apps/)
+- [Agent Skills](/de/discover/agent-skills/)
+- [Taste Skill](/de/discover/taste-skill/)
+- [Ansible](/de/discover/ansible/)
+- [Agent-Reach](/de/discover/agent-reach/)
+- [Openinterpreter](/de/discover/openinterpreter/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agent/

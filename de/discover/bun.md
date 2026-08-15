@@ -6,9 +6,6 @@ Bun ist ein Hochleistungstool, das JavaScript-Laufzeit, Paketmanager, Testläufe
 - Rust
 - GitHub Trending · 2026-07-11
 
-## Aktualisieren
-- 2. August 2026: Star 94.374 → 95.153, letzte Version bun-v1.3.14 (13. Mai 2026).
-
 ## Was es bringt
 - Schnelle Laufzeit, kompatibel mit Node.js
 - Paketmanager und Testtool unter einem Dach

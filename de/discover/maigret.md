@@ -6,9 +6,6 @@ Maigret durchsucht mehr als 3000 Websites anhand von Benutzernamen und erstellt 
 - Python
 - GitHub Trending · 2026-06-11
 
-## Aktualisieren
-- 2. August 2026: Star 32.267 → 36.075, letzte Hauptveröffentlichung (26. April 2026).
-
 ## Was es bringt
 - Es scannt mehr als 3000 Websites basierend auf dem Benutzernamen.
 - Es erstellt eine detaillierte digitale Fußabdruckdatei für Personen.

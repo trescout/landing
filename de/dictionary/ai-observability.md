@@ -27,5 +27,8 @@ Ja, denn die Aufzeichnung jeder Entscheidung der KI kann eine enorme Datenlast e
 - [AI Agent](/de/dictionary/ai-agent/)
 - [Logs](/de/dictionary/logs/)
 
+## Verwandte Werkzeuge
+- [Posthog](/de/discover/posthog/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-observability/

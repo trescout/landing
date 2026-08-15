@@ -6,12 +6,6 @@ Publicado por GitHub, spec-kit ofrece las herramientas necesarias para iniciar p
 - Python
 - GitHub Trending · 2026-06-05
 
-## Actualizar
-- 11 de agosto de 2026: Star 125,781 → 126,131, última versión v0.16.2 (10 de agosto de 2026).
-- 7 de agosto de 2026: Star 125,507 → 125,781, última versión v0.16.1 (7 de agosto de 2026).
-- 6 de agosto de 2026: Star 125,212 → 125,507, última versión v0.16.0 (5 de agosto de 2026).
-- 4 de agosto de 2026: Star 125.003 → 125.212, última versión v0.15.2 (3 de agosto de 2026).
-
 ## Qué aporta
 - Convierte especificaciones técnicas en procesos de código ejecutable.
 - Proporciona resultados consistentes y predecibles durante la fase de desarrollo de software.

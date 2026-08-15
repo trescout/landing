@@ -6,9 +6,6 @@ AutoGPT is an open source Python project that enables creating autonomous AI age
 - Python
 - GitHub Trending · 2026-08-07
 
-## Update
-- 7 August 2026: Star 186.094 → 186.094, latest release autogpt-platform-beta-v0.7.0 (5 August 2026).
-
 ## What you get
 - It saves weekly time by automating complex workflows.
 - It transforms commands given in natural language into a working artificial intelligence agent.

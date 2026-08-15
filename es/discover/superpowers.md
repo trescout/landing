@@ -7,9 +7,6 @@ Superpowers es una metodología integral de desarrollo de software de habilidade
 - MIT
 - GitHub Trending · 28 May 2026
 
-## Actualizar
-- 2 de agosto de 2026: Star 209,561 → 264,883, última versión v6.2.0 (24 de julio de 2026).
-
 ## Qué aporta
 - Un conjunto de habilidades compuesto y listo para usar para su agente.
 - Una metodología de desarrollo estructurada.
@@ -18,6 +15,14 @@ Superpowers es una metodología integral de desarrollo de software de habilidade
 
 ## Cómo empezar
 Dale a tu agente superpoderes con TreScout; Los pasos de inicio rápido para Claude Code, Codex y Gemini lo están esperando en el repositorio.
+
+## ¿Cómo instalar, cómo utilizar?
+**Claude Code · instalar desde el mercado oficial**
+
+```
+/plugin install superpowers@claude-plugins-official
+```
+
 
 ## Términos relacionados del glosario
 

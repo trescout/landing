@@ -6,9 +6,6 @@ Faceswap basado en Python es un software de código abierto que permite reemplaz
 - Python
 - GitHub Trending · 2026-07-30
 
-## Actualizar
-- 2 de agosto de 2026: Star 56,487 → 57,204, última versión v3.0.0 (21 de diciembre de 2025).
-
 ## Qué aporta
 - Cambio de rostro en imágenes y vídeos.
 - Entrenamiento con modelos de aprendizaje profundo
@@ -32,7 +29,6 @@ python setup.py
 
 ## Cómo empezar
 - Fuente oficial →
-Para comenzar a utilizar la herramienta, primero debe revisar el archivo INSTALL.md en la página de GitHub y completar los pasos de instalación apropiados para su sistema. Después de la instalación, puede usar la línea de comando en la carpeta donde se encuentra el proyecto para extraer caras, entrenar modelos o realizar conversiones.
 
 ## Términos relacionados del glosario
 

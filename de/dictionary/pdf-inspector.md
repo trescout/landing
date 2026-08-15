@@ -24,5 +24,8 @@ Nein, es kann auch die Auflösung von Bildern, Formularfeldern und Metadaten der
 - [Document Parsing](/de/dictionary/document-parsing/)
 - [PDF](/de/dictionary/pdf/)
 
+## Verwandte Werkzeuge
+- [PDF Inspector](/de/discover/pdf-inspector/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/pdf-inspector/

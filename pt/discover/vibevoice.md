@@ -5,9 +5,6 @@ Publicado pela Microsoft, o VibeVoice foi desenvolvido como uma estrutura de IA 
 - ★ 51.860
 - GitHub Trending · 2026-06-07
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 48.569 → 51.860.
-
 ## O que você ganha
 - Converte até 60 minutos de gravação de áudio em texto por vez.
 - Ele fornece ID do palestrante, carimbo de data/hora e detalhes do conteúdo de forma estruturada.

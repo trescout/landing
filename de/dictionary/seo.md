@@ -29,5 +29,10 @@ Nein, die inhaltliche Qualität und die technische Leistung der Seite sind jetzt
 - [Frontend Stack](/de/dictionary/frontend-stack/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Nuxt](/de/discover/nuxt/)
+- [Marketingskills](/de/discover/marketingskills/)
+- [Open Seo](/de/discover/open-seo/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/seo/

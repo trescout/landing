@@ -24,5 +24,8 @@ Es ist bei allen Daten erfolgreich, die ein zeitabhängiges Muster aufweisen, ka
 - [Algorithmic Trading](/de/dictionary/algorithmic-trading/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Timesfm](/de/discover/timesfm/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/time-series-foundation-model/

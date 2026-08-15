@@ -6,9 +6,6 @@ RLM wurde für rekursive Sprachmodelle entwickelt und ist eine Plug-and-Play-Inf
 - Python
 - GitHub Trending · 2026-06-18
 
-## Aktualisieren
-- 2. August 2026: Star 4.987 → 5.343, neueste Version v0.1.3 (26. Juni 2026).
-
 ## Was es bringt
 - Kontextverwaltung mit unendlicher Länge
 - Plug-and-Play-Architektur, die in einer Codeumgebung ausgeführt wird

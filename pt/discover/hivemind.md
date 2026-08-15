@@ -6,9 +6,6 @@ Desenvolvido pela Activeloop, o Hivemind oferece uma camada de memória centrali
 - TypeScript
 - GitHub Trending · 2026-06-11
 
-## Atualizar
-- 2 de agosto de 2026: Star 985 → 1.526, versão mais recente v0.7.145 (30 de julho de 2026).
-
 ## O que você ganha
 - Ele cria uma camada comum de memória e coordenação para todos os seus agentes de IA.
 - Ele transforma automaticamente padrões de solução bem-sucedidos de sessões anteriores em habilidades reutilizáveis.

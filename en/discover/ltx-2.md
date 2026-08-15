@@ -5,10 +5,6 @@ Developed by Lightricks, LTX-2 offers a Python inference and low-rank adaptation
 - ★ 8,587
 - GitHub Trending · 2026-06-19
 
-## Update
-- August 12, 2026: Star 8,554 → 8,587, latest version v1.2.0 (August 11, 2026).
-- August 10, 2026: Star 7,550 → 8,554.
-
 ## What you get
 - Provides audio and video synchronization
 - You can train LoRA with your own data

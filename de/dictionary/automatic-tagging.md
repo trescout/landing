@@ -27,5 +27,8 @@ Es ermöglicht Ihnen, in Sekundenschnelle das Gesuchte in Datenbergen zu finden.
 - [AI-powered Note Analysis](/de/dictionary/ai-powered-note-analysis/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Karakeep](/de/discover/karakeep/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/automatic-tagging/

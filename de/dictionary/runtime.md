@@ -23,8 +23,16 @@ Ja, jede lauffähige Software benötigt eine Arbeitsumgebung.
 
 
 ## Verwandte Begriffe
+- [Compile-time](/de/dictionary/compile-time/)
 - [State Management](/de/dictionary/state-management/)
 - [API](/de/dictionary/api/)
+
+## Verwandte Werkzeuge
+- [Node](/de/discover/node/)
+- [Deno](/de/discover/deno/)
+- [BUN](/de/discover/bun/)
+- [Svelte](/de/discover/svelte/)
+- [Flue](/de/discover/flue/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/runtime/

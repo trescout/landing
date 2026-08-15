@@ -12,7 +12,6 @@ Odoo is an open source enterprise resource planning platform that allows busines
 
 ## Getting started
 - Official source →
-To start installing Odoo, you need to follow the installation instructions on the official Odoo documentation page. To learn the software, you can check out the Odoo eLearning platform or the Scale-up business game.
 
 ## Related dictionary terms
 

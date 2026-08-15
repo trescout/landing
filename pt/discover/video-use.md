@@ -6,10 +6,6 @@ A biblioteca de uso de vídeo permite que agentes de codificação automatizem p
 - Python
 - GitHub Trending · 2026-06-29
 
-## Atualizar
-- 6 de agosto de 2026: Estrela 18.290 → 19.784.
-- 2 de agosto de 2026: Estrela 11.471 → 18.290.
-
 ## O que você ganha
 - Remove automaticamente palavras de preenchimento e espaços silenciosos
 - Aplica efeitos de fade profissionais às transições de áudio

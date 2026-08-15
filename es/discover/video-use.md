@@ -6,10 +6,6 @@ La biblioteca de uso de video permite a los agentes de codificación automatizar
 - Python
 - GitHub Trending · 2026-06-29
 
-## Actualizar
-- 6 de agosto de 2026: Estrella 18,290 → 19,784.
-- 2 de agosto de 2026: Estrella 11,471 → 18,290.
-
 ## Qué aporta
 - Elimina automáticamente palabras de relleno y espacios silenciosos.
 - Aplica efectos de desvanecimiento profesionales a las transiciones de audio.

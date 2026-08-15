@@ -6,11 +6,6 @@ Agentsview es una herramienta de monitoreo que proporciona inteligencia de sesi�
 - Go
 - GitHub Trending · 2026-06-12
 
-## Actualizar
-- 6 de agosto de 2026: Star 4683 → 4714, última versión v0.40.1 (4 de agosto de 2026).
-- 3 de agosto de 2026: Star 4672 → 4683, última versión v0.40.0 (3 de agosto de 2026).
-- 2 de agosto de 2026: Star 1.867 → 4.672, última versión v0.39.0 (27 de julio de 2026).
-
 ## Qué aporta
 - Monitoriza las sesiones de todos tus agentes codificadores de inteligencia artificial desde un único centro.
 - Calcule rápidamente las cantidades y los costos de los tokens usados.

@@ -6,10 +6,6 @@ Mise é uma ferramenta que permite gerenciar ferramentas de desenvolvimento de s
 - Rust
 - GitHub Trending · 2026-08-08
 
-## Atualizar
-- 11 de agosto de 2026: Star 32.098 → 32.258, versão mais recente v2026.8.4 (11 de agosto de 2026).
-- 8 de agosto de 2026: Star 32.098 → 32.098, versão mais recente v2026.8.3 (7 de agosto de 2026).
-
 ## O que você ganha
 - Gerencia automaticamente ferramentas e versões do projeto
 - Define variáveis de ambiente com base no projeto
@@ -17,7 +13,6 @@ Mise é uma ferramenta que permite gerenciar ferramentas de desenvolvimento de s
 
 ## Como começar
 - Fonte oficial →
-Para instalar, você pode visitar a seção ‘Introdução’ na página de documentação oficial e seguir as etapas apropriadas para o seu sistema operacional. Após a instalação, é necessário configurar os comandos ‘activate’ necessários para que a ferramenta funcione integrada ao seu shell, de acordo com o seu tipo de terminal, através da mesma documentação.
 
 ## Termos relacionados do glossário
 

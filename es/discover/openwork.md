@@ -6,12 +6,6 @@ Openwork es un proyecto de software desarrollado como una alternativa de código
 - TypeScript
 - GitHub Trending · 2026-07-30
 
-## Actualizar
-- 12 de agosto de 2026: Star 21.877 → 21.881, última versión v0.18.20 (12 de agosto de 2026).
-- 12 de agosto de 2026: Star 21.447 → 21.877, última versión v0.18.19 (11 de agosto de 2026).
-- 7 de agosto de 2026: Star 21,196 → 21,447, última versión v0.18.18 (7 de agosto de 2026).
-- 6 de agosto de 2026: Star 21.152 → 21.196, última versión v0.18.17 (6 de agosto de 2026).
-
 ## Qué aporta
 - Compartir capacidades entre herramientas de IA
 - Integración de Google Workspace y Microsoft 365

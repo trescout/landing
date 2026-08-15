@@ -6,9 +6,6 @@ Built on the TurboQuant infrastructure, turbovec is a high-performance vector in
 - Python
 - GitHub Trending · 2026-06-08
 
-## Update
-- August 2, 2026: Star 7,703 → 14,575.
-
 ## What you get
 - It reduces memory usage by highly compressing vector data.
 - It provides instant data addition and fast searching without requiring a training phase.

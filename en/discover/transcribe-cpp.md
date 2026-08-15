@@ -6,9 +6,6 @@ Transcribe.cpp is a speech-to-text inference library developed in C++ that suppo
 - C++
 - GitHub Trending · 2026-07-21
 
-## Update
-- August 2, 2026: Star 1,357 → 1,673, latest version v0.1.3 (July 12, 2026).
-
 ## What you get
 - Support for 16 different model families
 - High performance on GPU and CPU

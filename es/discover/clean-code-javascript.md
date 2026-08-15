@@ -13,7 +13,6 @@ Esta guía, que adapta los principios del código limpio al lenguaje JavaScript,
 
 ## Cómo empezar
 - Fuente oficial →
-Esta herramienta es una guía, no una biblioteca de software. Al visitar el repositorio clean-code-javascript en GitHub, puede examinar secciones como nombres de variables, diseño de funciones y principios SOLID, y mejorar la calidad de su código aplicando estos estándares en sus propios proyectos.
 
 ## Términos relacionados del glosario
 

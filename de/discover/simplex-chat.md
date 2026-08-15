@@ -6,9 +6,6 @@ SimpleX bietet eine datenschutzorientierte Kommunikationsinfrastruktur als erste
 - Haskell
 - GitHub Trending · 2026-06-27
 
-## Aktualisieren
-- 2. August 2026: Star 12.874 → 19.164, neueste Version v7.0.0 (28. Juli 2026).
-
 ## Was es bringt
 - Anonyme Kommunikation ohne Benutzerkennung
 - End-to-End-Dual-Layer-Verschlüsselung

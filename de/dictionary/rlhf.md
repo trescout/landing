@@ -27,6 +27,8 @@ Ja, die Bewertung erfolgt in der Regel durch geschulte Experten oder ein breites
 ## Verwandte Begriffe
 - [Fine-tuning](/de/dictionary/fine-tuning/)
 - [LLM](/de/dictionary/llm/)
+- [AI Skills](/de/dictionary/ai-skills/)
+- [Hallucination](/de/dictionary/hallucination/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/rlhf/

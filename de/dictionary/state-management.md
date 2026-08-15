@@ -23,7 +23,13 @@ Es ist vorzuziehen, sicherzustellen, dass die Daten überall gleichzeitig aktuel
 
 
 ## Verwandte Begriffe
+- [State Management](/de/dictionary/state-management/)
+- [Memory Engine](/de/dictionary/memory-engine/)
+- [Memory API](/de/dictionary/memory-api/)
 - [Observability](/de/dictionary/observability/)
+
+## Verwandte Werkzeuge
+- [Celld](/de/discover/celld/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/state-management/

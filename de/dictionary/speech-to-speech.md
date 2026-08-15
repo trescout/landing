@@ -27,5 +27,8 @@ Mit der Weiterentwicklung der Technologie nimmt die Sprachunterstützung zu, bie
 - [Voice Synthesis](/de/dictionary/voice-synthesis/)
 - [AI Models](/de/dictionary/ai-models/)
 
+## Verwandte Werkzeuge
+- [Speech to Speech](/de/discover/speech-to-speech/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/speech-to-speech/

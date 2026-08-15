@@ -6,9 +6,6 @@ Desenvolvido pela Alibaba, o page-agent é um agente de interface gráfica de us
 - TypeScript
 - GitHub Trending · 2026-06-26
 
-## Atualizar
-- 2 de agosto de 2026: Star 20.032 → 28.366, versão mais recente v1.12.2 (16 de julho de 2026).
-
 ## O que você ganha
 - Não são necessárias extensões de navegador ou Python
 - Renderização DOM baseada em texto em vez de capturas de tela

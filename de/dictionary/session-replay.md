@@ -27,5 +27,8 @@ Moderne Systeme sind recht leichtgewichtig, da sie nur Bewegungsdaten aufzeichne
 - [QA](/de/dictionary/qa/)
 - [Frontend Stack](/de/dictionary/frontend-stack/)
 
+## Verwandte Werkzeuge
+- [Posthog](/de/discover/posthog/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/session-replay/

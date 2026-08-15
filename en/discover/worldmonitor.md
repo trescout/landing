@@ -6,9 +6,6 @@ Worldmonitor offers a real-time global intelligence dashboard that combines AI-p
 - TypeScript
 - GitHub Trending · 2026-06-20
 
-## Update
-- August 2, 2026: Star 57,469 → 78,032, latest version v2.5.23 (March 1, 2026).
-
 ## What you get
 - Summarizing more than 500 news sources with artificial intelligence
 - Visual analysis with 3D globe and WebGL map support

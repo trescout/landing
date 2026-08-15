@@ -6,11 +6,6 @@ Meshery is a service mesh management platform designed for the management of clo
 - TypeScript
 - GitHub Trending · 2026-06-15
 
-## Update
-- August 7, 2026: Star 11,427 → 11,439, latest version v1.0.65 (August 7, 2026).
-- 4 August 2026: Star 11.417 → 11.427, latest version v1.0.64 (3 August 2026).
-- August 2, 2026: Star 10,384 → 11,417, latest version v1.0.63 (July 26, 2026).
-
 ## What you get
 - Central management of Kubernetes-based infrastructure and applications
 - Visual design opportunity without dealing with complex YAML files
@@ -34,7 +29,6 @@ mesheryctl system start
 
 ## Getting started
 - Official source →
-To start using Meshery, you can visit meshery.io via your browser or try the Cloud Native Playground environment offered directly via the play.meshery.io link.
 
 ## Related dictionary terms
 

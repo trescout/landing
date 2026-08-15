@@ -6,9 +6,6 @@ Developed by Alibaba, zvec is a lightweight and high-speed in-process vector dat
 - C++
 - GitHub Trending · 2026-06-17
 
-## Update
-- August 2, 2026: Star 10,691 → 15,356, latest version v0.6.0 (July 20, 2026).
-
 ## What you get
 - Local operating architecture that does not require a server
 - Millisecond search speed over billions of vectors

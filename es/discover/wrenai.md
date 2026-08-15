@@ -6,12 +6,6 @@ Desarrollada por Canner, WrenAI es una herramienta de inteligencia empresarial g
 - Python
 - GitHub Trending · 2026-07-20
 
-## Actualizar
-- 12 de agosto de 2026: Star 17.219 → 17.239, última versión wren-core-py-v0.7.4 (12 de agosto de 2026).
-- 11 de agosto de 2026: Star 17.046 → 17.219, última versión wren-semantic-core-v0.3.1 (11 de agosto de 2026).
-- 6 de agosto de 2026: Estrella 16.780 → 17.046, última versión 0.29.2 (5 de agosto de 2026).
-- 2 de agosto de 2026: Star 16,314 → 16,780, última versión wren-pydantic-v0.2.1 (29 de julio de 2026).
-
 ## Qué aporta
 - Genera consultas SQL confiables desde lenguaje natural
 - Convierte automáticamente datos en paneles

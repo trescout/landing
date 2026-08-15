@@ -13,7 +13,6 @@ Ladybird is a new web browser developed independently of the existing major brow
 
 ## Getting started
 - Official source →
-Ladybird is a browser still under development. For installation and operation steps, you can review the compilation instructions in the documentation section of the official website.
 
 ## Links
 - GitHub repository →

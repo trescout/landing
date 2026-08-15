@@ -12,7 +12,6 @@ El repositorio system-design-101 de ByteByteGoHq explica arquitecturas de sistem
 
 ## Cómo empezar
 - Fuente oficial →
-Esta herramienta no es una biblioteca de software sino un recurso educativo integral. Para comenzar, puedes navegar por la lista de contenidos en el repositorio de GitHub y acceder a las guías explicativas en el sitio web oficial de ByteByteGo haciendo clic en el título que te interese.
 
 ## Términos relacionados del glosario
 

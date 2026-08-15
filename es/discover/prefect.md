@@ -6,10 +6,6 @@ Prefect es un marco de orquestación de flujo de trabajo que se utiliza para cre
 - Python
 - GitHub Trending · 2026-07-13
 
-## Actualizar
-- 7 de agosto de 2026: Estrella 23,532 → 23,572, última versión 3.8.2 (7 de agosto de 2026).
-- 2 de agosto de 2026: Estrella 23,248 → 23,532, última versión 3.8.1 (30 de julio de 2026).
-
 ## Qué aporta
 - Mover canales de datos al nivel de producción
 - Manejo de errores y reintento automático.

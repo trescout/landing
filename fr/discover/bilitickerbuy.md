@@ -5,9 +5,6 @@ Cet outil basé sur Python qui automatise les processus d'achat d'adhésion à B
 - ★ 4 173
 - GitHub Trending · 2026-06-22
 
-## Mise à jour
-- 2 août 2026 : Star 3 782 → 4 173, dernière version v2.15.16 (4 juillet 2026).
-
 ## Ce que ça vous apporte
 - Automatise les achats de billets via Bilibili
 - Augmente la vitesse de capture des produits en stock limité

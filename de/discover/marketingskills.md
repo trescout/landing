@@ -6,9 +6,6 @@ Die für Claude Code und Agenten der künstlichen Intelligenz entwickelte Market
 - JavaScript
 - GitHub Trending · 2026-07-06
 
-## Aktualisieren
-- 2. August 2026: Star 36.679 → 42.728, neueste Version v2.10.0 (27. Juli 2026).
-
 ## Was es bringt
 - Verbessert die KI-Leistung bei marketingorientierten Aufgaben
 - Bietet spezialisierte Workflows in Bereichen wie SEO, Copywriting und CRO

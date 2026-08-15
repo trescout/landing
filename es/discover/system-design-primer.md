@@ -13,7 +13,6 @@ System Design Primer ofrece un recurso de aprendizaje integral para aquellos que
 
 ## Cómo empezar
 - Fuente oficial →
-Esta guía es un depósito de documentación en GitHub. Para comenzar, puede visitar directamente la página de GitHub del proyecto, revisar los títulos del contenido y comenzar a leer las notas de trabajo preparadas sobre cuestiones de diseño del sistema. Si desea reforzar la información, puede descargar y utilizar archivos Anki (software que permite la memorización con tarjetas didácticas) desde los enlaces correspondientes.
 
 ## Términos relacionados del glosario
 

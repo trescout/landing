@@ -6,9 +6,6 @@ Last30days-skill propose une compétence d'intelligence artificielle (compétenc
 - Python
 - GitHub Trending · 2026-06-05
 
-## Mise à jour
-- 2 août 2026 : Étoile 27 863 → 56 777, dernière version v3.18.4 (28 juillet 2026).
-
 ## Ce que ça vous apporte
 - Il synthétise les données actuelles de plateformes telles que Reddit, X, YouTube et Polymarket.
 - Il fournit des résumés vérifiables basés sur les interactions sociales et des données en temps réel.

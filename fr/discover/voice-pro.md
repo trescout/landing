@@ -6,9 +6,6 @@ Voice-pro est une interface open source qui combine des outils de synthèse voca
 - Python
 - GitHub Trending · 2026-08-02
 
-## Mise à jour
-- 2 août 2026 : Star 11 859 → 11 965, dernière version v4.0.0 (13 juillet 2026).
-
 ## Ce que ça vous apporte
 - Analyser et traduire l'audio des vidéos YouTube
 - Copier de l'audio et convertir du texte en audio avec l'intelligence artificielle

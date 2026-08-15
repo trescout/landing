@@ -6,11 +6,6 @@ Utilisant l'infrastructure Claude Code, ai-job-search offre un cadre qui automat
 - TypeScript
 - GitHub Trending · 2026-07-08
 
-## Mise à jour
-- 7 août 2026 : Étoile 29 509 → 30 691, dernière version v1.4.0 (7 août 2026).
-- 4 août 2026 : Étoile 29 226 → 29 509, dernière version v1.3.0 (3 août 2026).
-- 2 août 2026 : Star 12 031 → 29 226, dernière version v1.2.0 (1er août 2026).
-
 ## Ce que ça vous apporte
 - Prépare CV et lettre de motivation en fonction de votre profil personnel
 - Analyse les offres d'emploi et attribue des notes d'adéquation

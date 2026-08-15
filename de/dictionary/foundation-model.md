@@ -24,7 +24,15 @@ Es wird normalerweise von großen Technologieunternehmen hergestellt, da es eine
 
 ## Verwandte Begriffe
 - [LLM](/de/dictionary/llm/)
+- [Generative AI](/de/dictionary/generative-ai/)
+- [Transformer](/de/dictionary/transformer/)
 - [Fine-tuning](/de/dictionary/fine-tuning/)
+- [Open Source](/de/dictionary/open-source/)
+
+## Verwandte Werkzeuge
+- [Kronos](/de/discover/kronos/)
+- [Timesfm](/de/discover/timesfm/)
+- [Lingbot Map](/de/discover/lingbot-map/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/foundation-model/

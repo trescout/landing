@@ -24,5 +24,8 @@ Nein, der größte Vorteil dieser Systeme besteht darin, dass die Einheiten sich
 - [Multi-agent](/de/dictionary/multi-agent/)
 - [Introduction to Autonomous Robots](/de/dictionary/autonomous-robots-intro/)
 
+## Verwandte Werkzeuge
+- [MiroFish](/de/discover/mirofish/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/swarm-intelligence/

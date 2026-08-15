@@ -26,5 +26,8 @@ Benutzer verwenden keine Apps mehr, die ihnen schwerfallen, daher ist eine gute 
 - [Design System](/de/dictionary/design-system/)
 - [Generative UI](/de/dictionary/generative-ui/)
 
+## Verwandte Werkzeuge
+- [Wand-Enhancer](/de/discover/wand-enhancer/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/user-experience/

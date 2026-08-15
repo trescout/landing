@@ -7,9 +7,6 @@ ECC; Claude Code ist ein umfassendes System, das Fähigkeiten, Instinkte, Speich
 - MIT
 - GitHub Trending · 26 May 2026
 
-## Aktualisieren
-- 1. August 2026: Star 194.032 → 236.779, neueste Version v2.1.0 (27. Juli 2026).
-
 ## Was es bringt
 - Der Agent arbeitet dank vorgefertigter Fähigkeiten und Instinkte konsistenter.
 - Es verhindert Konzentrationsverlust bei Langzeitaufgaben durch Gedächtnis- und Kontextmanagement.
@@ -18,6 +15,21 @@ ECC; Claude Code ist ein umfassendes System, das Fähigkeiten, Instinkte, Speich
 
 ## So fangen Sie an
 Sie können es als npm-Paket (ecc-universal) oder als GitHub-Anwendung installieren. Alle Schritte finden Sie im Installationsabschnitt des Repositorys. Nach der Installation beginnt Ihr Agent, die Leistungs- und Sicherheitsebene von TreScout zu nutzen.
+
+## Wie installiere ich, wie verwende ich?
+**Claude Code · Marktplatz hinzufügen und installieren**
+
+```
+/plugin marketplace add https://github.com/affaan-m/ECC
+/plugin install ecc@ecc
+```
+
+**Führen Sie einen Sicherheitsscan durch**
+
+```
+/security-scan
+```
+
 
 ## Verwandte Begriffe aus dem Glossar
 

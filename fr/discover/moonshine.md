@@ -6,10 +6,6 @@ Moonshine offre des capacités de synthèse vocale à faible latence, de reconna
 - C++
 - GitHub Trending · 2026-07-21
 
-## Mise à jour
-- 7 août 2026 : Star 10 579 → 10 671, dernière version v0.1.1 (7 août 2026).
-- 2 août 2026 : Star 10 028 → 10 579, dernière version v0.1.0 (27 juillet 2026).
-
 ## Ce que ça vous apporte
 - Traitement audio rapide et discret exécuté sur l'appareil
 - Faible latence optimisée pour les diffusions en direct

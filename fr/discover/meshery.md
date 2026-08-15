@@ -6,11 +6,6 @@ Meshery est une plateforme de gestion de maillage de services conçue pour la ge
 - TypeScript
 - GitHub Trending · 2026-06-15
 
-## Mise à jour
-- 7 août 2026 : Star 11 427 → 11 439, dernière version v1.0.65 (7 août 2026).
-- 4 août 2026 : Star 11.417 → 11.427, dernière version v1.0.64 (3 août 2026).
-- 2 août 2026 : Star 10 384 → 11 417, dernière version v1.0.63 (26 juillet 2026).
-
 ## Ce que ça vous apporte
 - Gestion centralisée de l'infrastructure et des applications basées sur Kubernetes
 - Opportunité de conception visuelle sans traiter de fichiers YAML complexes
@@ -34,7 +29,6 @@ mesheryctl system start
 
 ## Pour commencer
 - Source officielle →
-Pour commencer à utiliser Meshery, vous pouvez visiter meshery.io via votre navigateur ou essayer l'environnement Cloud Native Playground proposé directement via le lien play.meshery.io.
 
 ## Termes liés du glossaire
 

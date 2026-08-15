@@ -6,9 +6,6 @@ Webpack é um empacotador que agrupa JavaScript e outros ativos da web para sere
 - JavaScript
 - GitHub Trending · 2026-08-05
 
-## Atualizar
-- 6 de agosto de 2026: Star 65.961 → 65.985, versão mais recente v5.109.2 (28 de julho de 2026).
-
 ## O que você ganha
 - Ele combina arquivos JavaScript para serem executados no navegador.
 - Ele reduz o tempo de carregamento do aplicativo com seu recurso de divisão de código.

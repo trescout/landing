@@ -6,11 +6,6 @@ Codebase-memory-mcp offre une intelligence de code haute performance en transfor
 - C
 - GitHub Trending · 2026-06-18
 
-## Mise à jour
-- 12 août 2026 : Star 38 456 → 38 612, dernière version v0.10.2 (11 août 2026).
-- 11 août 2026 : Star 37 095 → 38 456, dernière version v0.10.0 (10 août 2026).
-- 2 août 2026 : Étoile 6 142 → 37 095, dernière version v0.9.0 (8 juillet 2026).
-
 ## Ce que ça vous apporte
 - Convertit la base de code en graphique de connaissances en millisecondes
 - Prend en charge nativement 158 ​​langages de programmation

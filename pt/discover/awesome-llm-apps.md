@@ -6,9 +6,6 @@ O repositório awesome-llm-apps oferece mais de 100 agentes de IA diretamente ex
 - Python
 - GitHub Trending · 2026-07-13
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 118.879 → 129.783.
-
 ## O que você ganha
 - Mais de 100 agentes de IA personalizáveis
 - Compatível com Claude, Gemini e OpenAI

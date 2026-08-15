@@ -6,9 +6,6 @@ El agente de contratación es un agente de inteligencia artificial (agente de IA
 - Python
 - GitHub Trending · 2026-06-25
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 2.482 → 6.694.
-
 ## Qué aporta
 - Analiza automáticamente currículums en formato PDF.
 - Enriquece a los candidatos con datos de GitHub.

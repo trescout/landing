@@ -24,5 +24,8 @@ Wenn die Eingabe fehlerhaft ist oder die Verarbeitungskapazität des Systems nic
 - [API](/de/dictionary/api/)
 - [Token](/de/dictionary/token/)
 
+## Verwandte Werkzeuge
+- [Liteparse](/de/discover/liteparse/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/output/

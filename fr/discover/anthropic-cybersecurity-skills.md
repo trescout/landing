@@ -7,9 +7,6 @@
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Mise à jour
-- 1er août 2026 : Étoile 9 924 → 27 085, dernière version v1.3.0 (22 juin 2026).
-
 ## Ce que ça vous apporte
 - Il donne à l'agent les réflexes d'un analyste senior : il sait quel outil utiliser et à quel moment.
 - Les fonctionnalités sont compatibles avec les cadres de sécurité reconnus (tels que MITRE, NIST).
@@ -18,6 +15,14 @@
 
 ## Pour commencer
 Emballé dans la norme agentskills.io ; Vous pouvez l'ajouter en tant que compétence à votre assistant IA. Les étapes de démarrage rapide sont disponibles dans le référentiel. Validez chaque fonctionnalité dans votre contexte avant la production.
+
+## Comment installer, comment utiliser ?
+**ajouter avec npx (recommandé)**
+
+```
+npx skills add mukul975/Anthropic-Cybersecurity-Skills
+```
+
 
 ## Termes liés du glossaire
 

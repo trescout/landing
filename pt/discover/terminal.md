@@ -6,9 +6,6 @@ A Microsoft está combinando o Windows Terminal e o host de console tradicional 
 - C++
 - GitHub Trending · 2026-07-20
 
-## Atualizar
-- 2 de agosto de 2026: Star 104.241 → 104.442, versão mais recente v1.24.11911.0 (16 de julho de 2026).
-
 ## O que você ganha
 - Interface moderna e personalizável
 - Suporte a múltiplas guias
@@ -32,7 +29,6 @@ wt
 
 ## Como começar
 - Fonte oficial →
-Você pode baixar facilmente o aplicativo Windows Terminal na Microsoft Store. Alternativamente, você pode baixar manualmente a versão atual na página Releases no GitHub ou instalá-la em seu computador usando gerenciadores de pacotes como Winget, Chocolatey ou Scoop.
 
 ## Termos relacionados do glossário
 

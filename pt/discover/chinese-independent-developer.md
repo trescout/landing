@@ -6,9 +6,6 @@ Esta base de dados de código aberto, que lista projetos realizados por desenvol
 - Python
 - GitHub Trending · 2026-07-15
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 54.609 → 60.379.
-
 ## O que você ganha
 - Acesso a aplicativos atuais de desenvolvedores independentes
 - Seguindo estudos orientados a produtos em diferentes setores
@@ -16,7 +13,6 @@ Esta base de dados de código aberto, que lista projetos realizados por desenvol
 
 ## Como começar
 - Fonte oficial →
-Esta ferramenta não requer instalação de software. Para revisar os projetos, você pode visitar a página inicial no GitHub e navegar diretamente clicando nos sites dos aplicativos listados ou nos links de seus respectivos repositórios.
 
 ## Termos relacionados do glossário
 

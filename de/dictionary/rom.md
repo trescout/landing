@@ -26,5 +26,9 @@ Denn die grundlegenden Betriebsregeln des Geräts sind geschützt, um versehentl
 - [Compiler](/de/dictionary/compiler/)
 - [System Programming Language](/de/dictionary/system-programming-language/)
 
+## Verwandte Werkzeuge
+- [Romm](/de/discover/romm/)
+- [Lighthouse](/de/discover/lighthouse/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/rom/

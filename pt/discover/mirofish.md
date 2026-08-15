@@ -6,9 +6,6 @@ MiroFish oferece um mecanismo de inteligência de enxame simples e universal des
 - Python
 - GitHub Trending · 2026-06-06
 
-## Atualizar
-- 2 de agosto de 2026: Star 64.830 → 69.813, última versão v0.1.2 (7 de março de 2026).
-
 ## O que você ganha
 - Cria mundos de simulação digital a partir de dados do mundo real.
 - Permite a interação com agentes de inteligência artificial com personalidades independentes.

@@ -6,9 +6,6 @@ Hola 算法 es una plataforma educativa de código abierto que enseña estructur
 - Java
 - GitHub Trending · 2026-06-16
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 127,220 → 129,072, última versión 1.3.0 (1 de enero de 2026).
-
 ## Qué aporta
 - Aprendizaje fácil con explicaciones visuales animadas.
 - Soporte de código para numerosos lenguajes de programación.
@@ -16,7 +13,6 @@ Hola 算法 es una plataforma educativa de código abierto que enseña estructur
 
 ## Cómo empezar
 - Fuente oficial →
-Para comenzar con la plataforma Hello Algo, puede visitar el sitio web oficial hello-algo.com. Puede acceder a lecciones interactivas en el sitio y utilizar la sección de versiones en la página de GitHub para descargar recursos en formato PDF o libro electrónico.
 
 ## Términos relacionados del glosario
 

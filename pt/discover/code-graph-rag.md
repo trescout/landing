@@ -6,9 +6,6 @@ Code-graph-rag combina gráficos de conhecimento e geração assistida por busca
 - Python
 - GitHub Trending · 2026-08-10
 
-## Atualizar
-- 10 de agosto de 2026: Star 3.153 → 3.158, versão mais recente v0.0.589 (10 de agosto de 2026).
-
 ## O que você ganha
 - Veja relacionamentos complexos transformando a base de código em um gráfico de conhecimento
 - Obtenha respostas sobre a estrutura do código fazendo perguntas em linguagem natural

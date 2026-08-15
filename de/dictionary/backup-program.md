@@ -20,8 +20,12 @@ Idealerweise werden Backups an einem physisch anderen Ort als dem Originalgerät
 
 
 ## Verwandte Begriffe
+- [Incremental Backup](/de/dictionary/incremental-backup/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 - [Secrets](/de/dictionary/secrets/)
+
+## Verwandte Werkzeuge
+- [Restic](/de/discover/restic/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/backup-program/

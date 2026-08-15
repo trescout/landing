@@ -7,16 +7,30 @@ pi-subagents is a TypeScript library developed to manage asynchronous subagent d
 - Lisans: yok
 - GitHub Trending · 1 Haziran 2026
 
-## Update
-- 12 August 2026: Star 3.078 → 3.104, latest version v0.47.1 (12 August 2026).
-- August 11, 2026: Star 3,060 → 3,078, latest version v0.46.0 (August 11, 2026).
-- August 10, 2026: Star 3,044 → 3,060, latest version v0.45.2 (August 10, 2026).
-- 9 August 2026: Star 3.013 → 3.044, latest version v0.44.0 (8 August 2026).
-
 ## What you get
 - It distributes the workload to sub-agents.
 - Provides asynchronous and parallel execution.
 - It works fully integrated with the Pi platform.
+
+## How to install, how to use?
+**install with pi**
+
+```
+pi install npm:pi-subagents
+```
+
+**Run a sub-agent**
+
+```
+/run <ajan> [görev]
+```
+
+**Run agents in parallel**
+
+```
+/parallel ajan1 "görev1" -> ajan2 "görev2"
+```
+
 
 ## Related dictionary terms
 

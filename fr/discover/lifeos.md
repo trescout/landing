@@ -6,9 +6,6 @@ Développé avec TypeScript, LifeOS est un outil de développement personnel et 
 - TypeScript
 - GitHub Trending · 2026-08-11
 
-## Mise à jour
-- 11 août 2026 : Star 18 046 → 18 047, dernière version v7.28.3 (1er août 2026).
-
 ## Ce que ça vous apporte
 - Établit un pont entre les objectifs de travail et de vie privée
 - Augmente la productivité avec un contexte spécifique à l'utilisateur

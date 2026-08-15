@@ -5,10 +5,6 @@ Agent-Reach é uma ferramenta de interface de linha de comando (CLI) que oferece
 - ★ 67.818
 - GitHub Trending · 2026-06-06
 
-## Atualizar
-- 7 de agosto de 2026: Star 64.497 → 67.818, versão mais recente v1.5.0 (11 de junho de 2026).
-- 2 de agosto de 2026: Star 21.757 → 64.497, versão mais recente v1.5.0 (11 de junho de 2026).
-
 ## O que você ganha
 - Ele fornece acesso gratuito a plataformas como Twitter, Reddit e GitHub.
 - Ele lê vídeos do YouTube e feeds RSS diretamente.

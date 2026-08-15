@@ -6,9 +6,6 @@ OpenAI plugins enable language models to access up-to-date data and interact wit
 - JavaScript
 - GitHub Trending · 2026-06-06
 
-## Update
-- August 2, 2026: Star 1,596 → 4,881.
-
 ## What you get
 - It allows language models to access up-to-date data.
 - Allows interaction with third-party applications.

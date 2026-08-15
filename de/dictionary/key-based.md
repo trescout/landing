@@ -27,5 +27,8 @@ Ihr Zugang ist vollständig gesperrt, daher ist eine sichere Aufbewahrung der Sc
 - [Secrets](/de/dictionary/secrets/)
 - [Security Scanner](/de/dictionary/security-scanner/)
 
+## Verwandte Werkzeuge
+- [Iroh](/de/discover/iroh/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/key-based/

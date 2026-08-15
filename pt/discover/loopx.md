@@ -6,11 +6,6 @@ Loopx é um kernel de estado leve desenvolvido para equipes de agentes de inteli
 - Python
 - GitHub Trending · 2026-08-06
 
-## Atualizar
-- 9 de agosto de 2026: Star 3.035 → 3.609, versão mais recente v0.4.4 (9 de agosto de 2026).
-- 7 de agosto de 2026: Star 2.399 → 3.035, versão mais recente v0.4.2 (6 de agosto de 2026).
-- 6 de agosto de 2026: Star 2.385 → 2.399, versão mais recente v0.4.1 (4 de agosto de 2026).
-
 ## O que você ganha
 - Padroniza o rastreamento de alvos e o gerenciamento de cotas em missões de longo prazo.
 - Ele permite a transferência verificável de trabalho entre diferentes agentes de IA.

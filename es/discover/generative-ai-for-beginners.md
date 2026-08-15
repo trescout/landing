@@ -13,7 +13,6 @@ Este contenido de formación preparado por Microsoft ofrece un plan de estudios 
 
 ## Cómo empezar
 - Fuente oficial →
-Para comenzar con el contenido de la capacitación, puede visitar la página oficial en GitHub o descargar los archivos a su computadora usando los comandos anteriores. Luego, simplemente siga la guía en la carpeta '00-course-setup' en el repositorio para preparar su entorno de desarrollo.
 
 ## Términos relacionados del glosario
 

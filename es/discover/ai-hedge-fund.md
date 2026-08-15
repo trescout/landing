@@ -6,11 +6,6 @@ El fondo de cobertura de IA utiliza agentes autónomos para automatizar los proc
 - Python
 - GitHub Trending · 2026-07-13
 
-## Actualizar
-- 7 de agosto de 2026: Star 62,684 → 62,721, última versión v2.2.0 (7 de agosto de 2026).
-- 6 de agosto de 2026: Star 62,606 → 62,684, última versión v2.1.0 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 61 500 → 62 606, última versión v2.0.2 (30 de julio de 2026).
-
 ## Qué aporta
 - Agentes autónomos analizando datos del mercado financiero.
 - Modelado representando diferentes escuelas de inversión.

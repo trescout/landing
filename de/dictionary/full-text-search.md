@@ -27,5 +27,8 @@ Es funktioniert normalerweise bei textbasierten Dateien, kann aber auch bei OCR-
 - [Vector Index](/de/dictionary/vector-index/)
 - [Document Parsing](/de/dictionary/document-parsing/)
 
+## Verwandte Werkzeuge
+- [Karakeep](/de/discover/karakeep/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/full-text-search/

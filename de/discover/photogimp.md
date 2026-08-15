@@ -6,9 +6,6 @@ PhotoGIMP bietet einen Patch, der Photoshop-Benutzern die GIMP-Benutzeroberfläc
 - CSS
 - GitHub Trending · 2026-07-09
 
-## Aktualisieren
-- 2. August 2026: Star 15.195 → 17.197, letzte Version 3.1 (11. Juli 2026).
-
 ## Was es bringt
 - Gleiche Hotkeys wie Photoshop
 - Fahrzeuglayout, das Sie gewohnt sind

@@ -6,9 +6,6 @@ Immich ist eine leistungsstarke, selbst gehostete Medienverwaltungslösung, die 
 - TypeScript
 - GitHub Trending · 2026-07-05
 
-## Aktualisieren
-- 2. August 2026: Star 105.748 → 109.538, neueste Version v3.1.0 (29. Juli 2026).
-
 ## Was es bringt
 - Zentraler Speicher für Fotos und Videos
 - Gesichtserkennung und objektbasierte Suche
@@ -34,7 +31,6 @@ docker compose up -d
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Besuchen Sie die offizielle Dokumentationsseite für Installations- und Nutzungsdetails. Sie können Ihre Medienverwaltung auf Ihrem eigenen Server starten, indem Sie den Installationsanleitungen unter https://immich.app/ folgen.
 
 ## Verwandte Begriffe aus dem Glossar
 

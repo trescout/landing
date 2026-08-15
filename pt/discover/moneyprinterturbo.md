@@ -7,14 +7,33 @@ MoneyPrinterTurbo produz automaticamente vídeos curtos usando modelos de lingua
 - MIT
 - GitHub Trending · 28 May 2026
 
-## Atualizar
-- 12 de agosto de 2026: Star 101.070 → 102.680, versão mais recente v1.3.4 (12 de agosto de 2026).
-- 2 de agosto de 2026: Star 62.104 → 101.070, versão mais recente v1.3.3 (24 de julho de 2026).
-
 ## O que você ganha
 - Ele cria edição automática usando texto, legendas, música e recursos visuais.
 - É fácil de usar graças à sua interface web.
 - Ele permite a produção de vídeos em lote e múltiplos.
+
+## nota honesta
+
+## Como instalar, como usar?
+**Clonar repositório**
+
+```
+git clone https://github.com/harry0703/MoneyPrinterTurbo.git
+```
+
+**Lançar com Docker**
+
+```
+cd MoneyPrinterTurbo
+docker-compose up
+```
+
+**Execute a interface web (com uv)**
+
+```
+uv run streamlit run ./webui/Main.py --browser.gatherUsageStats=False
+```
+
 
 ## Termos relacionados do glossário
 

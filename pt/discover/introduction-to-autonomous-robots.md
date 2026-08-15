@@ -6,9 +6,6 @@ O projeto Introdução aos Robôs Autônomos apresenta os princípios básicos e
 - TeX
 - GitHub Trending · 2026-06-15
 
-## Atualizar
-- 2 de agosto de 2026: Star 2.681 → 3.301, versão mais recente v3.0 (1 de dezembro de 2021).
-
 ## O que você ganha
 - Aprender os mecanismos e algoritmos básicos de sistemas robóticos autónomos.
 - Obtenha conhecimento técnico sobre sensores e atuadores robóticos.
@@ -16,7 +13,6 @@ O projeto Introdução aos Robôs Autônomos apresenta os princípios básicos e
 
 ## Como começar
 - Fonte oficial →
-Este projeto contém os códigos-fonte de um livro escrito em robôs autônomos. Para criar uma versão PDF do livro, você pode clicar no botão verde ‘Código’ na página do GitHub e baixar os arquivos para o seu computador com a opção ‘Baixar ZIP’, ou você pode trabalhar no projeto transferindo-o para um editor LaTeX online como o Overleaf.
 
 ## Termos relacionados do glossário
 

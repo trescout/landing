@@ -27,5 +27,8 @@ Ja, insbesondere sicherheitsorientierte Patches schützen Ihr System vor Angriff
 - [Security Scanner](/de/dictionary/security-scanner/)
 - [Deployment](/de/dictionary/deployment/)
 
+## Verwandte Werkzeuge
+- [PhotoGIMP](/de/discover/photogimp/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/patch/

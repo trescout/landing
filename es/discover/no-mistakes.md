@@ -6,12 +6,6 @@ Desarrollada con el lenguaje Go, no-mistakes es una herramienta de línea de com
 - Go
 - GitHub Trending · 2026-06-25
 
-## Actualizar
-- 12 de agosto de 2026: Star 7475 → 7589, última versión v1.48.0 (8 de agosto de 2026).
-- 9 de agosto de 2026: Star 7.424 → 7.475, última versión v1.46.0 (6 de agosto de 2026).
-- 6 de agosto de 2026: Star 7.334 → 7.424, última versión v1.45.4 (4 de agosto de 2026).
-- 2 de agosto de 2026: Star 2519 → 7334, última versión v1.41.2 (24 de julio de 2026).
-
 ## Qué aporta
 - Evita que los códigos defectuosos lleguen al servidor remoto
 - Verificación automática y generación limpia de relaciones públicas.

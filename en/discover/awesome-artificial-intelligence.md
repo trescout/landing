@@ -5,9 +5,6 @@ Awesome-artificial-intelligence is a comprehensive resource list that brings tog
 - ★ 15,631
 - GitHub Trending · 2026-06-19
 
-## Update
-- August 2, 2026: Star 14,532 → 15,631.
-
 ## What you get
 - Selected current books for artificial intelligence engineering
 - Academic articles and structured educational content
@@ -15,7 +12,6 @@ Awesome-artificial-intelligence is a comprehensive resource list that brings tog
 
 ## Getting started
 - Official source →
-This tool does not require a software installation; is a list of resources. To start your learning journey, you can review the books in the 'Learn' section of the README file and browse current artificial intelligence frameworks and guides through the links in the 'Build' section.
 
 ## Related dictionary terms
 

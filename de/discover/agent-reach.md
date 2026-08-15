@@ -5,10 +5,6 @@ Agent-Reach ist ein Befehlszeilenschnittstellen-Tool (CLI), das KI-Agenten die M
 - ★ 67.818
 - GitHub Trending · 2026-06-06
 
-## Aktualisieren
-- 7. August 2026: Star 64.497 → 67.818, neueste Version v1.5.0 (11. Juni 2026).
-- 2. August 2026: Star 21.757 → 64.497, neueste Version v1.5.0 (11. Juni 2026).
-
 ## Was es bringt
 - Es bietet kostenlosen Zugang zu Plattformen wie Twitter, Reddit und GitHub.
 - Es liest YouTube-Videos und RSS-Feeds direkt.

@@ -25,6 +25,7 @@ Sie variiert je nach Systemarchitektur, wird jedoch im Allgemeinen unter Berück
 ## Verwandte Begriffe
 - [Vector Database](/de/dictionary/vector-database/)
 - [Context Window](/de/dictionary/context-window/)
+- [Memory API](/de/dictionary/memory-api/)
 - [RAG](/de/dictionary/rag/)
 
 ---

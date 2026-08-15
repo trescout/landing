@@ -24,5 +24,8 @@ Nein, es ist im Allgemeinen für kleine und mittlere Datenmengen konzipiert, auf
 - [Memory System](/de/dictionary/memory-system/)
 - [RAG](/de/dictionary/rag/)
 
+## Verwandte Werkzeuge
+- [Zvec](/de/discover/zvec/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/in-process-vector-database/

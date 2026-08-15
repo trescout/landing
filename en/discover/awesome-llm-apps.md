@@ -6,9 +6,6 @@ The awesome-llm-apps repository offers more than 100 directly executable AI agen
 - Python
 - GitHub Trending · 2026-07-13
 
-## Update
-- August 2, 2026: Star 118,879 → 129,783.
-
 ## What you get
 - More than 100 customizable AI agents
 - Compatible with Claude, Gemini and OpenAI

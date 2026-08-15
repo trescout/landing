@@ -6,10 +6,6 @@ Argo CD est un outil qui gère les processus de déploiement continu déclaratif
 - Go
 - GitHub Trending · 2026-07-09
 
-## Mise à jour
-- 6 août 2026 : Star 23 807 → 23 853, dernière version v3.5.0 (4 août 2026).
-- 2 août 2026 : Star 23 488 → 23 807, dernière version v3.4.6 (31 juillet 2026).
-
 ## Ce que ça vous apporte
 - Synchronisation automatique des applications avec les référentiels Git
 - Processus de distribution déclaratifs et traçables
@@ -39,7 +35,6 @@ kubectl port-forward svc/argocd-server -n argocd 8080:443
 
 ## Pour commencer
 - Source officielle →
-Pour commencer à utiliser Argo CD, vous pouvez visiter la page de documentation officielle et suivre les étapes d'installation. Vous pouvez consulter la démo en direct pour comprendre le fonctionnement du projet et parcourir le site de documentation du CD Argo pour accéder à des guides complets.
 
 ## Termes liés du glossaire
 

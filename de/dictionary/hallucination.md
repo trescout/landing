@@ -25,6 +25,8 @@ Ja, alle wichtigen probabilistischen Sprachmodelle bergen dieses Risiko bis zu e
 ## Verwandte Begriffe
 - [LLM](/de/dictionary/llm/)
 - [RAG](/de/dictionary/rag/)
+- [Hallucination](/de/dictionary/hallucination/)
+- [AI Agent](/de/dictionary/ai-agent/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/hallucination/

@@ -6,9 +6,6 @@ Développé par ByteDance, UI-TARS est une infrastructure d'agent open source qu
 - TypeScript
 - GitHub Trending · 2026-06-18
 
-## Mise à jour
-- 2 août 2026 : Étoile 36 779 → 38 404, dernière version v0.3.0 (4 novembre 2025).
-
 ## Ce que ça vous apporte
 - Effectuez de manière autonome des tâches de bureau et de navigateur
 - Flux de travail semblable à celui d'un humain grâce au traitement des données visuelles

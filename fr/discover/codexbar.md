@@ -6,12 +6,6 @@ CodexBar est un outil qui permet de visualiser les données d'utilisation d'Open
 - Swift
 - GitHub Trending · 2026-07-06
 
-## Mise à jour
-- 11 août 2026 : Star 19 867 → 19 899, dernière version v0.49.2 (11 août 2026).
-- 10 août 2026 : Star 19 864 → 19 867, dernière version v0.49.1 (10 août 2026).
-- 10 août 2026 : Étoile 19 775 → 19 864, dernière version v0.49.0 (9 août 2026).
-- 8 août 2026 : Star 19 770 → 19 775, dernière version v0.48.1 (8 août 2026).
-
 ## Ce que ça vous apporte
 - Visualisez instantanément les limites d'utilisation de tous les services d'intelligence artificielle dans la barre de menu
 - Suivez les temps de réinitialisation des services avec un compte à rebours

@@ -6,9 +6,6 @@ Logto offers an authentication and authorization infrastructure based on Open Au
 - TypeScript
 - GitHub Trending · 2026-06-30
 
-## Update
-- August 2, 2026: Star 12,903 → 14,271, latest version v1.42.0 (July 30, 2026).
-
 ## What you get
 - Secure infrastructure with OIDC and OAuth 2.1 protocols
 - Multi-tenancy and role-based access control

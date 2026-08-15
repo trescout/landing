@@ -5,9 +5,6 @@ Win11Debloat est un script PowerShell qui permet de supprimer les applications p
 - ★ 54 506
 - GitHub Trending · 2026-06-16
 
-## Mise à jour
-- 2 août 2026 : Star 48 210 → 54 506, dernière version 2026.07.11 (11 juillet 2026).
-
 ## Ce que ça vous apporte
 - Supprime rapidement les applications préinstallées inutiles.
 - Désactive les données de télémétrie et de suivi.

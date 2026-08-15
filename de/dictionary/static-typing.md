@@ -24,5 +24,8 @@ Am Anfang müssen Sie etwas mehr Code schreiben, aber auf lange Sicht ist es sic
 - [Compiler](/de/dictionary/compiler/)
 - [Clean Code](/de/dictionary/clean-code/)
 
+## Verwandte Werkzeuge
+- [TypeScript](/de/discover/typescript/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/static-typing/

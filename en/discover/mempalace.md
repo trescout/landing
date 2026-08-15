@@ -6,10 +6,6 @@ MemPalace offers an open source memory system for artificial intelligence models
 - Python
 - GitHub Trending · 2026-06-06
 
-## Update
-- August 12, 2026: Star 57,977 → 58,311, latest version v3.7.0 (August 11, 2026).
-- August 2, 2026: Star 53,981 → 57,977, latest version v3.6.0 (July 17, 2026).
-
 ## What you get
 - It offers semantic search by keeping the conversation history as it is.
 - It creates an organized memory structure by categorizing people, projects and topics.

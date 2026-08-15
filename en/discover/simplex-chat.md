@@ -6,9 +6,6 @@ SimpleX offers a privacy-oriented communication infrastructure as the first mess
 - Haskell
 - GitHub Trending · 2026-06-27
 
-## Update
-- August 2, 2026: Star 12,874 → 19,164, latest version v7.0.0 (July 28, 2026).
-
 ## What you get
 - Anonymous communication without user identifier
 - End-to-end dual-layer encryption

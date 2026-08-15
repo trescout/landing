@@ -6,11 +6,6 @@ Le hedge fund AI utilise des agents autonomes pour automatiser les processus d'a
 - Python
 - GitHub Trending · 2026-07-13
 
-## Mise à jour
-- 7 août 2026 : Star 62 684 → 62 721, dernière version v2.2.0 (7 août 2026).
-- 6 août 2026 : Star 62 606 → 62 684, dernière version v2.1.0 (4 août 2026).
-- 2 août 2026 : Star 61 500 → 62 606, dernière version v2.0.2 (30 juillet 2026).
-
 ## Ce que ça vous apporte
 - Agents autonomes analysant les données des marchés financiers
 - Modélisation représentant différentes écoles d'investissement

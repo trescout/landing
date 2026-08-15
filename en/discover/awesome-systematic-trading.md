@@ -6,9 +6,6 @@ This list, which brings together libraries, strategies and educational resources
 - Python
 - GitHub Trending · 2026-07-29
 
-## Update
-- August 2, 2026: Star 9,886 → 12,499.
-
 ## What you get
 - 97 trading libraries and packages
 - More than 40 corporate and academic strategies
@@ -16,7 +13,6 @@ This list, which brings together libraries, strategies and educational resources
 
 ## Getting started
 - Official source →
-This tool does not require a software installation; It is a comprehensive guide compiling the libraries, books and educational resources necessary to develop systematic trading strategies. By examining the titles on the GitHub page, you can click on the categories that interest you (backtesting, data analysis, strategies, etc.) and access the relevant resources.
 
 ## Related dictionary terms
 

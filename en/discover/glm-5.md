@@ -5,9 +5,6 @@ GLM-5 offers a framework that aims to move software development processes from v
 - ★ 6,864
 - GitHub Trending · 2026-06-19
 
-## Update
-- August 2, 2026: Star 4,301 → 6,864.
-
 ## What you get
 - Uninterrupted long-term operation with 1 million token capacity
 - Autonomous planning in complex software engineering tasks

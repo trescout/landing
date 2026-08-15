@@ -6,11 +6,6 @@ Tailscale facilite l'établissement de connexions réseau sécurisées en combin
 - Go
 - GitHub Trending · 2026-07-11
 
-## Mise à jour
-- 6 août 2026 : Star 34 778 → 34 858, dernière version v1.102.2 (4 août 2026).
-- 4 août 2026 : Star 34 704 → 34 778, dernière version v1.102.1 (3 août 2026).
-- 2 août 2026 : Star 33 734 → 34 704, dernière version v1.98.10 (28 juillet 2026).
-
 ## Ce que ça vous apporte
 - Communication cryptée avec le protocole WireGuard
 - Prise en charge de l'authentification à deux facteurs

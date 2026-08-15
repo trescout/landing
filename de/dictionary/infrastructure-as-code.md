@@ -22,5 +22,8 @@ Denn bei manuellen Vorgängen kann eine kleine vergessene Einstellung große Pro
 - [Cloud Native](/de/dictionary/cloud-native/)
 - [Deployment](/de/dictionary/deployment/)
 
+## Verwandte Werkzeuge
+- [Terraform](/de/discover/terraform/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/infrastructure-as-code/

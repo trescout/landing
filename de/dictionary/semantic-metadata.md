@@ -27,5 +27,8 @@ Normalerweise fügen Systeme es automatisch hinzu, manchmal wird es jedoch manue
 - [Vector Database](/de/dictionary/vector-database/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
+## Verwandte Werkzeuge
+- [Ossie](/de/discover/ossie/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/semantic-metadata/

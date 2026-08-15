@@ -6,10 +6,6 @@ OpenMontage ist ein agentenbasiertes Open-Source-System, das KI-Codierungsassist
 - Python
 - GitHub Trending · 2026-06-18
 
-## Aktualisieren
-- 12. August 2026: Stern 44.651 → 47.498.
-- 2. August 2026: Stern 5.648 → 44.651.
-
 ## Was es bringt
 - Automatische Szenario-, Bild- und Tonbearbeitung
 - Videozusammenstellung aus Archivmaterial und offenen Archiven

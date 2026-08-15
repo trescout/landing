@@ -7,9 +7,6 @@ Claude Code Harness introduz a disciplina de planejar, fazer, revisar e entregar
 - MIT
 - GitHub Trending · 28 May 2026
 
-## Atualizar
-- 2 de agosto de 2026: Star 1.838 → 3.037, versão mais recente v5.6.0 (1 de agosto de 2026).
-
 ## O que você ganha
 - O agente não se dispersa; O plano é mantido em registro.
 - A qualidade é aumentada limitando os testes.
@@ -17,6 +14,30 @@ Claude Code Harness introduz a disciplina de planejar, fazer, revisar e entregar
 
 ## Como começar
 Integrado ao Claude Code com instalação no repositório; em seguida, implementa o ciclo planejar, fazer e revisar.
+
+## Como instalar, como usar?
+**Código Claude · marketplace + instalação**
+
+```
+/plugin marketplace add Chachamaru127/claude-code-harness
+/plugin install claude-code-harness@claude-code-harness-marketplace
+```
+
+**Iniciar a instalação**
+
+```
+/harness-setup
+```
+
+**Fluxo: planejar → trabalhar → revisar → publicar**
+
+```
+/harness-plan
+/harness-work
+/harness-review
+/harness-release
+```
+
 
 ## Termos relacionados do glossário
 

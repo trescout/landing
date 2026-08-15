@@ -7,14 +7,25 @@ Projekt N.O.M.A.D; Es handelt sich um ein autarkes Offline-Computerbauprojekt, d
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
-## Aktualisieren
-- 4. August 2026: Star 35.380 → 35.435, neueste Version v1.34.0 (4. August 2026).
-- 2. August 2026: Star 27.228 → 35.380, letzte Version v1.33.0 (23. Juni 2026).
-
 ## Was es bringt
 - Es bietet wichtige Tools und Informationen, die kein Internet erfordern.
 - Bietet lokale (Offline-)Unterstützung für künstliche Intelligenz.
 - Es ermöglicht die Vorbereitung auf Notfall- und Offline-Szenarien.
+
+## Wie installiere ich, wie verwende ich?
+**Schnelle Installation (Debian/Ubuntu)**
+
+```
+curl -fsSL https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/install/install_nomad.sh -o install_nomad.sh
+sudo bash install_nomad.sh
+```
+
+**beginnen**
+
+```
+sudo bash /opt/project-nomad/start_nomad.sh
+```
+
 
 ## Verwandte Begriffe aus dem Glossar
 

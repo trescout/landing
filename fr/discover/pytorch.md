@@ -6,9 +6,6 @@ PyTorch est une bibliothèque d'apprentissage automatique qui offre une puissant
 - Python
 - GitHub Trending · 2026-07-03
 
-## Mise à jour
-- 2 août 2026 : Star 101 297 → 102 131, dernière version v2.13.0 (8 juillet 2026).
-
 ## Ce que ça vous apporte
 - Calculs de tenseurs hautes performances alimentés par GPU
 - Développement de modèles flexibles avec des réseaux de neurones dynamiques

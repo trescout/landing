@@ -5,9 +5,6 @@ Mattermost es una plataforma de código abierto diseñada para permitir una cola
 - ★ 38.643
 - GitHub Trending · 2026-06-12
 
-## Actualizar
-- 2 de agosto de 2026: Star 37,444 → 38,643, última versión v11.9.0 (8 de julio de 2026).
-
 ## Qué aporta
 - Proporciona comunicación central y automatización del flujo de trabajo.
 - Ofrece soporte para llamadas de voz y pantalla compartida.

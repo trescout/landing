@@ -6,9 +6,6 @@ Der von Alibaba entwickelte Page-Agent ist ein In-Page-Agent für grafische Benu
 - TypeScript
 - GitHub Trending · 2026-06-26
 
-## Aktualisieren
-- 2. August 2026: Star 20.032 → 28.366, neueste Version v1.12.2 (16. Juli 2026).
-
 ## Was es bringt
 - Keine Browsererweiterungen oder Python erforderlich
 - Textbasiertes DOM-Rendering statt Screenshot

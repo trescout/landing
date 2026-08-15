@@ -26,5 +26,13 @@ Dabei handelt es sich um kleine unabhängige Verarbeitungseinheiten innerhalb ei
 - [Runtime](/de/dictionary/runtime/)
 - [Apple Silicon](/de/dictionary/apple-silicon/)
 
+## Verwandte Werkzeuge
+- [Llmfit](/de/discover/llmfit/)
+- [Ktransformers](/de/discover/ktransformers/)
+- [Pocket TTS](/de/discover/pocket-tts/)
+- [Whichllm](/de/discover/whichllm/)
+- [Transcribe.cpp](/de/discover/transcribe-cpp/)
+- [Sharpemu](/de/discover/sharpemu/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cpu/

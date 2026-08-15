@@ -29,5 +29,8 @@ Ja, es wird mittlerweile zum Standard für Sicherheitstransparenz, insbesondere 
 - [Observability](/de/dictionary/observability/)
 - [API](/de/dictionary/api/)
 
+## Verwandte Werkzeuge
+- [Trivy](/de/discover/trivy/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/sbom/

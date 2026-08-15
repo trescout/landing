@@ -6,9 +6,6 @@ Cette sélection, préparée pour Claude Code, l'assistant de codage développé
 - Python
 - GitHub Trending · 2026-07-06
 
-## Mise à jour
-- 2 août 2026 : Étoile 48 592 → 51 520.
-
 ## Ce que ça vous apporte
 - Packs de compétences pour assistant de codage
 - Automatisation et intégration de plugins
@@ -16,7 +13,6 @@ Cette sélection, préparée pour Claude Code, l'assistant de codage développé
 
 ## Pour commencer
 - Source officielle →
-Cet outil est une liste de ressources pour les développeurs utilisant Claude Code. Pour commencer, vous pouvez visiter la documentation officielle de Claude Code par Anthropic et personnaliser votre projet à l'aide des guides, plugins et packs de compétences de cette liste.
 
 ## Termes liés du glossaire
 

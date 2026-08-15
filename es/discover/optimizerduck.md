@@ -6,9 +6,6 @@ Desarrollado en lenguaje C#, optimizadorDuck es una herramienta de código abier
 - C#
 - GitHub Trending · 2026-06-16
 
-## Actualizar
-- 2 de agosto de 2026: Star 3900 → 7672, última versión v2.25.5 (16 de julio de 2026).
-
 ## Qué aporta
 - Limpia los procesos en segundo plano y el bloatware de Windows
 - Reúne el rendimiento, la privacidad y la configuración de GPU en una única interfaz
@@ -16,7 +13,6 @@ Desarrollado en lenguaje C#, optimizadorDuck es una herramienta de código abier
 
 ## Cómo empezar
 - Fuente oficial →
-Para comenzar a utilizar la herramienta, visite la página de lanzamientos oficiales en GitHub. Descargue la versión actual desde el enlace correspondiente y comience a configurar los ajustes ejecutando el archivo .exe directamente sin ninguna instalación.
 
 ## Términos relacionados del glosario
 

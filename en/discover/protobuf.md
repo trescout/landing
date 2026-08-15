@@ -6,9 +6,6 @@ Developed by Google, protocol buffers are a language-independent data interchang
 - C++
 - GitHub Trending · 2026-07-18
 
-## Update
-- August 2, 2026: Star 71,559 → 71,674, latest version v35.1 (June 11, 2026).
-
 ## What you get
 - Efficient binary data transfer between systems
 - Language-independent data serialization
@@ -32,7 +29,6 @@ protoc --cpp_out=. dosya.proto
 
 ## Getting started
 - Official source →
-To get started with Protobuf, you can visit the official documentation site or download precompiled binaries suitable for your operating system from the GitHub versions page. To install runtime libraries specific to the programming language you use, you must follow the instructions in the relevant source directories.
 
 ## Related dictionary terms
 

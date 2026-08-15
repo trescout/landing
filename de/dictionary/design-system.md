@@ -24,8 +24,12 @@ Es handelt sich um ein lebendiges Dokument, das in der Regel gemeinsam von Desig
 
 ## Verwandte Begriffe
 - [Design Language](/de/dictionary/design-language/)
+- [Design Systems](/de/dictionary/design-system/)
 - [Frontend Stack](/de/dictionary/frontend-stack/)
 - [User Interface](/de/dictionary/user-interface/)
+
+## Verwandte Werkzeuge
+- [Astryx](/de/discover/astryx/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/design-system/

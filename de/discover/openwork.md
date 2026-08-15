@@ -6,12 +6,6 @@ Openwork ist ein Softwareprojekt, das als Open-Source-Alternative zur Claude-Cow
 - TypeScript
 - GitHub Trending · 2026-07-30
 
-## Aktualisieren
-- 12. August 2026: Star 21.877 → 21.881, neueste Version v0.18.20 (12. August 2026).
-- 12. August 2026: Star 21.447 → 21.877, letzte Version v0.18.19 (11. August 2026).
-- 7. August 2026: Star 21.196 → 21.447, neueste Version v0.18.18 (7. August 2026).
-- 6. August 2026: Star 21.152 → 21.196, letzte Version v0.18.17 (6. August 2026).
-
 ## Was es bringt
 - Gemeinsame Nutzung von Funktionen zwischen KI-Tools
 - Google Workspace- und Microsoft 365-Integration

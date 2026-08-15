@@ -6,10 +6,6 @@ Supported by large language models, this system analyzes multi-source market dat
 - Python
 - GitHub Trending · 2026-06-22
 
-## Update
-- August 10, 2026: Star 59,863 → 61,388, latest version v3.30.0 (August 9, 2026).
-- August 2, 2026: Star 45,304 → 59,863, latest version v3.29.0 (August 2, 2026).
-
 ## What you get
 - Automated trading reports with multi-source market data
 - Push notification support for messaging applications

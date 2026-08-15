@@ -7,9 +7,6 @@ Build Your Own é uma coleção de guias passo a passo que permitem reescrever s
 - Lisans: yok
 - GitHub Trending · 29 May 2026
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 506.894 → 534.641.
-
 ## O que você ganha
 - Você aprende a lógica interna dos sistemas fazendo.
 - Uma ampla variedade de tópicos, desde banco de dados até sistema operacional.
@@ -17,6 +14,9 @@ Build Your Own é uma coleção de guias passo a passo que permitem reescrever s
 
 ## Como usar?
 Você pode escolher a tecnologia de seu interesse na página do GitHub e seguir os guias passo a passo.
+
+## Como usá-lo com IA?
+Darei a você uma lista de links para guias passo a passo chamados 'construa seu próprio x' que ensinarão como construir sua própria tecnologia (banco de dados, sistema operacional, linguagem de programação, servidor web, etc.) do zero. Revise esta lista e liste quais projetos devo começar de acordo com meu nível e objetivo atual, e você receberá um plano de trabalho semanal. Meu nível: [ex. novato]. Meu objetivo: [por exemplo. fazendo meu próprio servidor web].
 
 ## Termos relacionados do glossário
 

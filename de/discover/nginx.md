@@ -6,9 +6,6 @@ Das Open-Source-Repository NGINX wird in C als leistungsstarker Webserver und Re
 - C
 - GitHub Trending · 2026-06-07
 
-## Aktualisieren
-- 2. August 2026: Star 30.727 → 31.312, letzte Versionsveröffentlichung 1.31.3 (15. Juli 2026).
-
 ## Was es bringt
 - Hochleistungs-Webserver- und Reverse-Proxy-Verwaltung.
 - Erweiterte Lastausgleichs- und Inhalts-Caching-Funktionen.

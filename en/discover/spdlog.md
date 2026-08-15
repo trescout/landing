@@ -6,9 +6,6 @@ spdlog is a very fast logging library developed for the C++ programming language
 - C++
 - GitHub Trending · 2026-08-05
 
-## Update
-- August 6, 2026: Star 29,402 → 29,437, latest version v1.17.0 (January 4, 2026).
-
 ## What you get
 - High performance logging management
 - Output to different destinations such as file, console and debugger

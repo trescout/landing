@@ -7,12 +7,6 @@ claude-mem permite a sus agentes de IA realizar recuperación de sesiones cruzad
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
-## Actualizar
-- 11 de agosto de 2026: Star 90.015 → 90.349, última versión v13.15.0 (10 de agosto de 2026).
-- 8 de agosto de 2026: Star 89,464 → 90,015, última versión v13.14.0 (8 de agosto de 2026).
-- 4 de agosto de 2026: Star 89.371 → 89.464, última versión v13.13.1 (3 de agosto de 2026).
-- 3 de agosto de 2026: Star 89.278 → 89.371, última versión v13.13.0 (2 de agosto de 2026).
-
 ## Qué aporta
 - El agente no empieza cada vez desde cero, sino que recuerda el pasado.
 - El historial de la sesión se resume con inteligencia artificial y se recuerdan las partes relevantes.
@@ -20,6 +14,14 @@ claude-mem permite a sus agentes de IA realizar recuperación de sesiones cruzad
 
 ## Cómo funciona
 Registra automáticamente las acciones realizadas por el agente durante la sesión.
+
+## Instalación (comando único)
+**Instalación (comando único)**
+
+```
+npx claude-mem install
+```
+
 
 ## Términos relacionados del glosario
 

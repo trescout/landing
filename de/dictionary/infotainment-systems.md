@@ -20,5 +20,8 @@ Sie sind oft mit Sprachbefehlen und vereinfachten Menüs ausgestattet, um den Fa
 - [Physical AI](/de/dictionary/physical-ai/)
 - [Web Interface](/de/dictionary/web-interface/)
 
+## Verwandte Werkzeuge
+- [Headunit Revived](/de/discover/headunit-revived/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/infotainment-systems/

@@ -6,10 +6,6 @@ Die Outlines-Bibliothek ermöglicht die Darstellung der Antworten großer Sprach
 - Python
 - GitHub Trending · 2026-07-22
 
-## Aktualisieren
-- 7. August 2026: Stern 15.477 → 15.525, letzte Version 1.3.3 (6. August 2026).
-- 2. August 2026: Star 14.917 → 15.477, letzte Version 1.3.2 (20. Juli 2026).
-
 ## Was es bringt
 - Schränkt Modellausgaben gemäß vordefinierten Schemata ein
 - Vollständig kompatibel mit JSON- oder Python-Datentypen

@@ -24,5 +24,22 @@ Nein, RAG ruft nur externe Informationen für die aktuelle Frage ab und fügt ni
 Nein, wenn Ihre Dokumente auf Ihrem eigenen Computer oder Server gespeichert sind, können sie ohne Internetverbindung funktionieren.
 
 
+## Verwandte Begriffe
+- [LLM](/de/dictionary/llm/)
+- [Vector Database](/de/dictionary/vector-database/)
+- [Embedding](/de/dictionary/embedding/)
+- [Document Parsing](/de/dictionary/document-parsing/)
+- [Hallucination](/de/dictionary/hallucination/)
+
+## Verwandte Werkzeuge
+- [MarkItDown](/de/discover/markitdown/)
+- [Awesome LLM Apps](/de/discover/awesome-llm-apps/)
+- [AI Agent Book](/de/discover/ai-agent-book/)
+- [DeepTutor](/de/discover/deeptutor/)
+- [Opendataloader PDF](/de/discover/opendataloader-pdf/)
+- [Turbovec](/de/discover/turbovec/)
+- [Liteparse](/de/discover/liteparse/)
+- [Production Agentic RAG Course](/de/discover/production-agentic-rag-course/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/rag/

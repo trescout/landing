@@ -6,10 +6,6 @@ OpenClaw bietet über den Windows-Knoten, die Taskleistenanwendung, die gemeinsa
 - C#
 - GitHub Trending · 2026-06-05
 
-## Aktualisieren
-- 11. August 2026: Star 2.018 → 2.040, neueste Version v2026.7.1 (11. August 2026).
-- 2. August 2026: Star 1.432 → 2.018, neueste Version v0.6.12 (30. Juni 2026).
-
 ## Was es bringt
 - Bietet schnellen Zugriff auf den OpenClaw-Assistenten für künstliche Intelligenz über die Taskleiste.
 - Es bietet lokales Gateway- und Verbindungsmanagement unter Windows.

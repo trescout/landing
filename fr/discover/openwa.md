@@ -6,12 +6,6 @@ OpenWA propose une solution de passerelle API gratuite et open source pour le pr
 - TypeScript
 - GitHub Trending · 2026-06-17
 
-## Mise à jour
-- 12 août 2026 : Star 12.605 → 12.674, dernière version v0.16.0 (11 août 2026).
-- 10 août 2026 : Star 12 552 → 12 605, dernière version v0.15.0 (9 août 2026).
-- 8 août 2026 : Star 12 544 → 12 552, dernière version v0.14.6 (8 août 2026).
-- 8 août 2026 : Star 12 503 → 12 544, dernière version v0.14.5 (8 août 2026).
-
 ## Ce que ça vous apporte
 - Contrôle total sur l'infrastructure de messagerie WhatsApp
 - Gestion des sessions et des webhooks avec une interface moderne

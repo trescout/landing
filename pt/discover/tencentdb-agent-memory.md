@@ -6,12 +6,6 @@ TencentDB Agent Memory oferece uma solução de memória de longo prazo totalmen
 - TypeScript
 - GitHub Trending · 2026-07-09
 
-## Atualizar
-- 12 de agosto de 2026: Star 18.953 → 20.021, versão mais recente v2.0.0 (3 de agosto de 2026).
-- 10 de agosto de 2026: Star 17.887 → 18.953, versão mais recente v2.0.0 (3 de agosto de 2026).
-- 8 de agosto de 2026: Star 16.699 → 17.887, versão mais recente v2.0.0 (3 de agosto de 2026).
-- 7 de agosto de 2026: Star 15.363 → 16.699, versão mais recente v2.0.0 (3 de agosto de 2026).
-
 ## O que você ganha
 - Reduz o uso de tokens em até 61%
 - Aumenta a taxa de sucesso em tarefas complexas

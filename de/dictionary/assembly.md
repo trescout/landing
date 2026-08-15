@@ -24,5 +24,8 @@ Zur einfacheren Verwaltung, Fehlersuche und Wiederverwendung von Teilen in ander
 - [Bundling](/de/dictionary/bundling/)
 - [Deployment](/de/dictionary/deployment/)
 
+## Verwandte Werkzeuge
+- [Apollo-11](/de/discover/apollo-11/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/assembly/

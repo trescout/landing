@@ -12,7 +12,6 @@ Odoo ist eine Open-Source-Enterprise-Resource-Planning-Plattform, die es Unterne
 
 ## So fangen Sie an
 - Offizielle Quelle →
-Um mit der Installation von Odoo zu beginnen, müssen Sie den Installationsanweisungen auf der offiziellen Odoo-Dokumentationsseite folgen. Um die Software zu erlernen, können Sie sich die Odoo eLearning-Plattform oder das Scale-up-Planspiel ansehen.
 
 ## Verwandte Begriffe aus dem Glossar
 

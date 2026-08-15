@@ -6,9 +6,6 @@ Tailwind CSS is a utility-first style sheet framework (CSS framework) focused on
 - TypeScript
 - GitHub Trending · 2026-08-05
 
-## Update
-- August 6, 2026: Star 96,571 → 96,949, latest version v4.3.3 (July 16, 2026).
-
 ## What you get
 - Create original designs with low-level classes
 - Develop interfaces without dealing with ready-made components
@@ -32,7 +29,6 @@ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 
 ## Getting started
 - Official source →
-To start using this tool, you can visit the official website tailwindcss.com and review the installation and usage documentation.
 
 ## Related dictionary terms
 

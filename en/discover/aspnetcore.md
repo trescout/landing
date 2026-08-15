@@ -5,10 +5,6 @@ ASP.NET Core is a cross-platform .NET framework used to develop modern cloud-bas
 - ★ 38,367
 - GitHub Trending · 2026-06-19
 
-## Update
-- 12 August 2026: Star 38,339 → 38,367, latest version v10.0.11 (11 August 2026).
-- August 2, 2026: Star 38,124 → 38,339, latest version v8.0.29 (July 14, 2026).
-
 ## What you get
 - Cross-platform operation on Windows, macOS and Linux
 - Cloud-based and scalable application development

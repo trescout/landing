@@ -6,9 +6,6 @@ OpenDataLoader PDF is an open source PDF parser that makes data available for ar
 - Java
 - GitHub Trending · 2026-06-04
 
-## Update
-- August 2, 2026: Star 23,530 → 28,095, latest version v2.5.0 (July 14, 2026).
-
 ## What you get
 - Converts PDF files to Markdown, JSON or HTML format for AI models.
 - Provides high-accuracy data extraction for scanned documents and complex tables.

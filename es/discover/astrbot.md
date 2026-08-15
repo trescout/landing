@@ -6,10 +6,6 @@ AstrBot es un marco de desarrollo de agentes de inteligencia artificial que se i
 - Python
 - GitHub Trending · 2026-07-20
 
-## Actualizar
-- 6 de agosto de 2026: Star 38,478 → 38,683, última versión v4.27.2 (5 de agosto de 2026).
-- 2 de agosto de 2026: Star 36,787 → 38,478, última versión v4.27.1 (2 de agosto de 2026).
-
 ## Qué aporta
 - Integración con plataformas de mensajería populares.
 - Estructura extensible con miles de complementos.

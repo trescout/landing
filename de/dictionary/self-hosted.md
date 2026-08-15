@@ -27,5 +27,15 @@ Es ist sicherer im Hinblick auf den Datenschutz, aber es liegt ausschließlich i
 - [Open Source](/de/dictionary/open-source/)
 - [Offline](/de/dictionary/offline/)
 
+## Verwandte Werkzeuge
+- [Immich](/de/discover/immich/)
+- [Chatwoot](/de/discover/chatwoot/)
+- [Open-Generative-AI](/de/discover/open-generative-ai/)
+- [OpenWA](/de/discover/openwa/)
+- [Openship](/de/discover/openship/)
+- [Instatic](/de/discover/instatic/)
+- [TREK](/de/discover/trek/)
+- [Celld](/de/discover/celld/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/self-hosted/

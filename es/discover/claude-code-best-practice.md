@@ -6,9 +6,6 @@ Esta guía desarrollada para Claude Code analiza los procesos de transición des
 - HTML
 - GitHub Trending · 2026-06-24
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 59,766 → 63,889.
-
 ## Qué aporta
 - Aprenda los procesos de ingeniería basados ​​en agentes.
 - Aplicar las mejores prácticas para Claude Code.
@@ -16,7 +13,6 @@ Esta guía desarrollada para Claude Code analiza los procesos de transición des
 
 ## Cómo empezar
 - Fuente oficial →
-Esta herramienta no es una biblioteca de software, sino una guía completa para usar Claude Code. Para comenzar, puede revisar los enlaces en la tabla en el repositorio de GitHub para obtener información sobre temas como subagentes, comandos y habilidades, y visitar la documentación oficial de Claude Code.
 
 ## Términos relacionados del glosario
 

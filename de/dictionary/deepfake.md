@@ -27,5 +27,8 @@ Sie variiert je nach Verwendungszweck; Unbefugte und böswillige Nutzung führt 
 - [Generative AI](/de/dictionary/generative-ai/)
 - [AI Security Tool](/de/dictionary/ai-security-tool/)
 
+## Verwandte Werkzeuge
+- [Faceswap](/de/discover/faceswap/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/deepfake/

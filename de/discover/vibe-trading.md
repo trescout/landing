@@ -6,10 +6,6 @@ Vibe-Trading bietet einen persönlichen Handelsagenten, der für den Handel auf 
 - Python
 - GitHub Trending · 2026-06-04
 
-## Aktualisieren
-- 11. August 2026: Star 29.309 → 30.558, neueste Version v0.1.13 (10. August 2026).
-- 2. August 2026: Star 10.343 → 29.309, neueste Version v0.1.12 (22. Juli 2026).
-
 ## Was es bringt
 - Automatisiertes Strategiemanagement mit persönlichem Handelsagenten.
 - Zugriff auf Marktdaten mit Multi-Brokerage-Unterstützung.

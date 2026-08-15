@@ -6,9 +6,6 @@ Autoremesher es una herramienta que convierte automáticamente estructuras de su
 - C++
 - GitHub Trending · 2026-07-09
 
-## Actualizar
-- 2 de agosto de 2026: Estrella 2123 → 3087, última versión 1.0.0 (6 de julio de 2026).
-
 ## Qué aporta
 - Transforma modelos complejos en mallas rectangulares limpias
 - Proporciona topología optimizada para procesos de animación.

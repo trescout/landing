@@ -7,9 +7,6 @@ Jellyfin est un serveur multimédia gratuit qui vous permet de gérer et de diff
 - GPL-2.0
 - GitHub Trending · 26 May 2026
 
-## Mise à jour
-- 2 août 2026 : Star 52 316 → 55 268, dernière version v10.11.11 (6 juin 2026).
-
 ## Ce que ça vous apporte
 - Tous vos médias au même endroit et accessibles depuis n'importe quel appareil.
 - Vous n'aurez pas à vous soucier des frais d'abonnement ou des publicités.
@@ -18,6 +15,14 @@ Jellyfin est un serveur multimédia gratuit qui vous permet de gérer et de diff
 
 ## Comment installer ?
 Docker est installé sur un serveur ou un NAS. Le guide d'installation se trouve sur jellyfin.org ; Après l'avoir installé, vous présentez vos dossiers multimédias.
+
+## Comment installer, comment utiliser ?
+**Exécuter avec Docker**
+
+```
+docker run -d --name jellyfin -p 8096:8096 jellyfin/jellyfin
+```
+
 
 ## Termes liés du glossaire
 

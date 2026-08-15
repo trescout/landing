@@ -7,13 +7,26 @@ Hermes WebUI est une interface qui vous permet de gérer les agents Hermes AI vi
 - MIT
 - GitHub Trending · 1 Haziran 2026
 
-## Mise à jour
-- 2 août 2026 : Star 10 353 → 16 850, dernière version v0.52.106 (29 juillet 2026).
-
 ## Ce que ça vous apporte
 - Gérez vos agents via un navigateur ou un mobile.
 - Surveillez toutes les interactions à partir d’un point central.
 - Profitez de l'interface simple et conviviale.
+
+## Comment installer, comment utiliser ?
+**Cloner et exécuter le bootstrap**
+
+```
+git clone https://github.com/nesquena/hermes-webui.git hermes-webui
+cd hermes-webui
+python3 bootstrap.py
+```
+
+**Exécuter avec le script de démarrage**
+
+```
+./start.sh
+```
+
 
 ## Termes liés du glossaire
 

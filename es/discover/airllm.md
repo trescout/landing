@@ -6,12 +6,6 @@ AirLLM permite ejecutar modelos de lenguajes grandes con 70 mil millones de par�
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
-## Actualizar
-- 12 de agosto de 2026: Star 29,265 → 30,796, última versión v3.1.0 (29 de julio de 2026).
-- 6 de agosto de 2026: Star 27,522 → 29,265, última versión v3.1.0 (29 de julio de 2026).
-- 4 de agosto de 2026: Star 25,416 → 27,522, última versión v3.1.0 (29 de julio de 2026).
-- 2 de agosto de 2026: Star 19,113 → 25,416, última versión v3.1.0 (29 de julio de 2026).
-
 ## Qué aporta
 - Posibilidad de ejecutar modelos con 70B de parámetros con 4GB de VRAM.
 - Posibilidad de utilizar modelos 405B Llama3.1 con 8GB VRAM.

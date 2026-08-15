@@ -7,15 +7,14 @@ VoxCPM; It is a tokenizer-free open source TTS model developed for multilingual 
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
-## Update
-- August 2, 2026: Star 22,648 → 34,774, last version 2.0.3 (May 11, 2026).
-
 ## What does it offer?
 - Multilingual and natural speech production.
 - Creative and original sound design.
 - High accuracy voice cloning.
 
 ## Responsibility note
+
+## How to install, how to use?
 **install with pip**
 
 ```

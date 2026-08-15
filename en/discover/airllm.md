@@ -6,12 +6,6 @@ AirLLM allows large language models with 70 billion parameters to be run on grap
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
-## Update
-- August 12, 2026: Star 29,265 → 30,796, latest version v3.1.0 (July 29, 2026).
-- August 6, 2026: Star 27,522 → 29,265, latest version v3.1.0 (July 29, 2026).
-- August 4, 2026: Star 25,416 → 27,522, latest version v3.1.0 (July 29, 2026).
-- August 2, 2026: Star 19,113 → 25,416, latest version v3.1.0 (July 29, 2026).
-
 ## What you get
 - Possibility to run models with 70B parameters with 4GB VRAM.
 - Ability to use 405B Llama3.1 models with 8GB VRAM.

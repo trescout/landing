@@ -6,9 +6,6 @@ Free-for-dev é uma lista de recursos que reúne os níveis gratuitos de soluç�
 - HTML
 - GitHub Trending · 2026-06-27
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 123.834 → 131.012.
-
 ## O que você ganha
 - Acesso a níveis gratuitos de soluções SaaS, PaaS e IaaS
 - Economia de custos em processos de infraestrutura e desenvolvimento de software
@@ -16,7 +13,6 @@ Free-for-dev é uma lista de recursos que reúne os níveis gratuitos de soluç�
 
 ## Como começar
 - Fonte oficial →
-Esta ferramenta não é um software, mas sim um recurso que lista serviços gratuitos. Ao visitar a página oficial gratuita para desenvolvedores no GitHub, você pode escolher o serviço que precisa na lista categorizada e registrar-se diretamente no nível gratuito dessa plataforma clicando no link relevante.
 
 ## Termos relacionados do glossário
 

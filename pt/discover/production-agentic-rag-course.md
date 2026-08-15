@@ -5,9 +5,6 @@ O curso Production-agentic-rag oferece treinamento prático no desenvolvimento d
 - ★ 8.216
 - GitHub Trending · 2026-06-03
 
-## Atualizar
-- 2 de agosto de 2026: Estrela 6.536 → 8.216, última versão semana 7.0 (26 de novembro de 2025).
-
 ## O que você ganha
 - Estabelecer a infraestrutura necessária para sistemas RAG no nível de produção.
 - Aplicação de pesquisa híbrida e métodos inteligentes de processamento de dados.

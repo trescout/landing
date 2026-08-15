@@ -6,11 +6,6 @@ FastMCP est un framework basé sur Python qui facilite le développement de serv
 - Python
 - GitHub Trending · 2026-07-21
 
-## Mise à jour
-- 11 août 2026 : Étoile 27 084 → 27 165, dernière version v3.4.7 (10 août 2026).
-- 6 août 2026 : Star 27.020 → 27.084, dernière version v3.4.6 (5 août 2026).
-- 2 août 2026 : Star 26 621 → 27 020, dernière version v3.4.5 (27 juillet 2026).
-
 ## Ce que ça vous apporte
 - Transforme facilement les fonctions Python en outils d'IA
 - Crée automatiquement un schéma, une validation et une documentation

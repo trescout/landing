@@ -6,11 +6,6 @@ Using the Claude Code infrastructure, ai-job-search offers a framework that auto
 - TypeScript
 - GitHub Trending · 2026-07-08
 
-## Update
-- August 7, 2026: Star 29,509 → 30,691, latest version v1.4.0 (August 7, 2026).
-- August 4, 2026: Star 29,226 → 29,509, latest version v1.3.0 (August 3, 2026).
-- 2 August 2026: Star 12,031 → 29,226, latest version v1.2.0 (1 August 2026).
-
 ## What you get
 - Prepares CV and cover letter according to your personal profile
 - Analyzes job postings and gives suitability scores

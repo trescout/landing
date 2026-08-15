@@ -27,5 +27,9 @@ Ja, es gibt zusätzliche Herausforderungen wie Netzwerkkonnektivität oder Gerä
 - [Service Mesh](/de/dictionary/service-mesh/)
 - [Multi-tenancy](/de/dictionary/multi-tenancy/)
 
+## Verwandte Werkzeuge
+- [Elasticsearch](/de/discover/elasticsearch/)
+- [Cassandra](/de/discover/cassandra/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/distributed/

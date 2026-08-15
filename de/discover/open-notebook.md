@@ -6,9 +6,6 @@ Open-Notebook bietet eine Open-Source-Alternative zu Google NotebookLM und ermö
 - TypeScript
 - GitHub Trending · 2026-06-05
 
-## Aktualisieren
-- 2. August 2026: Star 25.373 → 36.268, neueste Version v1.14.0 (21. Juli 2026).
-
 ## Was es bringt
 - Analysieren Sie Ihre Daten in einer vollständig lokalen Umgebung und bewahren Sie sie vertraulich auf.
 - Erhalten Sie eine flexible Modellauswahl von über 18 KI-Anbietern.

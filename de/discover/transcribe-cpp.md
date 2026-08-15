@@ -6,9 +6,6 @@ Transcribe.cpp ist eine in C++ entwickelte Sprache-zu-Text-Inferenzbibliothek, d
 - C++
 - GitHub Trending · 2026-07-21
 
-## Aktualisieren
-- 2. August 2026: Star 1.357 → 1.673, neueste Version v0.1.3 (12. Juli 2026).
-
 ## Was es bringt
 - Unterstützung für 16 verschiedene Modellfamilien
 - Hohe Leistung auf GPU und CPU
