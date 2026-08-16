@@ -1,0 +1,351 @@
+{
+  "date": "2026-08-16",
+  "editorial": "Hoje, no mundo da tecnologia, novas arquiteturas que melhoram as capacidades de memória e de raciocínio de grandes modelos de linguagem vêm à tona. O fato do navegador Firefox manter suporte a bloqueadores de conteúdo traz de volta à agenda do mundo do software a tensão entre a liberdade do usuário e as políticas da plataforma.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "summary": "Cordis é uma metaestrutura que reúne componentes espaciais e temporais. Esta ferramenta baseada em TypeScript, que permite o desenvolvimento de sistemas complexos em uma estrutura modular, permite que diferentes partes da aplicação funcionem em harmonia entre si.",
+          "meta": "TypeScript · ★ 4.187 · +599 hoje"
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "O Diagram-design oferece 29 modelos de diagramas editoriais diferentes projetados para serem usados ​​na ferramenta de codificação baseada em IA Claude Code. Essas imagens independentes em formato HTML e SVG adotam uma abordagem de design simples e direta, em vez de linguagens de esquema complexas.",
+          "meta": "HTML · ★ 18.789 · +1.607 hoje"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "A ferramenta de edição de código Cursor lançou sua especificação oficial de plugins, permitindo aos usuários desenvolver seus próprios plugins. Esta etapa permite que os desenvolvedores ampliem a experiência de codificação suportada por IA com módulos personalizáveis.",
+          "meta": "TypeScript · ★ 2.973 · +149 hoje"
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Desenvolvido pela Cactus Compute, o Needle é um pequeno modelo básico de 14 megabytes que pode ser executado em sistemas com hardware limitado, como smartphones e dispositivos vestíveis. Essa tecnologia permite que aplicações locais de inteligência artificial sejam executadas em dispositivos que não necessitam de alto poder de processamento.",
+          "meta": "Python · ★ 6.120 · +547 hoje"
+        },
+        {
+          "title": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "summary": "Unsloth é uma biblioteca que fornece treinamento e execução de grandes modelos de linguagem e modelos de difusão em um ambiente local. Ao otimizar o uso da memória, permite que modelos populares de inteligência artificial sejam ajustados de forma mais rápida e eficiente.",
+          "meta": "Python · ★ 72.122 · +434 hoje"
+        },
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "Public-apis é uma lista abrangente de interfaces de programação de aplicativos (APIs) gratuitas que os desenvolvedores de aplicativos podem usar em seus projetos. Serve como um ponto de referência central que facilita o acesso a fontes de dados externas necessárias nos processos de desenvolvimento de software.",
+          "meta": "Python · ★ 460.356 · +2.260 hoje"
+        },
+        {
+          "title": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "summary": "Soup é uma biblioteca Python que permite o ajuste fino de grandes modelos de linguagem por meio de um único arquivo YAML. Ele pode treinar modelos com 8 bilhões de parâmetros usando o método de streaming de camada em processadores gráficos de laptop com 4 GB de memória.",
+          "meta": "Python · ★ 1.729 · +297 hoje"
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "Publicado pelo GitHub, spec-kit é um kit de ferramentas Python usado para iniciar processos de desenvolvimento orientados por especificações. Facilita a criação de documentação técnica padronizada e estrutura de aplicativos em projetos de software.",
+          "meta": "Python · ★ 129.269 · +892 hoje"
+        },
+        {
+          "title": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "summary": "Holehe é uma ferramenta Python que consulta se um endereço de e-mail inserido é usado em plataformas populares como Twitter e Instagram. Ele detecta informações da conta associadas ao e-mail relevante usando funções de redefinição de senha.",
+          "meta": "Python · ★ 13.154 · +382 hoje"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice é um aplicativo executado em macOS e realiza ditado de voz usando a tecnologia de fala para texto (STT) no dispositivo, sem exigir conexão com a Internet. Esta ferramenta, que melhora a clareza da voz com modelos de inteligência artificial especialmente treinados, oferece uma alternativa local a serviços como o Wispr Flow com funcionalidade semelhante.",
+          "meta": "Swift · ★ 10.368 · +104 hoje"
+        },
+        {
+          "title": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "summary": "ToolJet é uma plataforma de desenvolvimento de aplicativos de código aberto que permite a criação de ferramentas, painéis e fluxos de trabalho internos. Essa estrutura baseada em JavaScript permite que as empresas projetem aplicativos de negócios com suporte de inteligência artificial em seus próprios servidores.",
+          "meta": "JavaScript · ★ 39.599 · +544 hoje"
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything é uma estrutura que converte interfaces de linha de comando (CLI) em um formato que os agentes de inteligência artificial podem usar diretamente. Ao tornar as ferramentas de software nativas do agente, permite que modelos de inteligência artificial gerenciem comandos complexos do sistema com mais eficiência.",
+          "meta": "Python · ★ 47.429 · +118 hoje"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite é uma ferramenta de navegador leve desenvolvida para agentes de IA gerenciarem processos de automação de navegador. Ao compartilhar as informações de login dos usuários, permite que assistentes de codificação como Claude Code executem operações no navegador sem interromper o funcionamento atual.",
+          "meta": "JavaScript · ★ 11.074 · +545 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI has access to a vastly larger working memory than the human brain",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "summary": "Os modelos de inteligência artificial têm uma capacidade de processamento de dados muito maior em comparação com a limitada memória de trabalho do cérebro humano. Isso mostra que os modelos seguem um processo cognitivo diferente da mente humana ao resolver problemas matemáticos complexos.",
+          "meta": "447 pontos · 389 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49312845",
+              "popularity": 447,
+              "engagementCount": 389
+            }
+          ]
+        },
+        {
+          "title": "Semaglutide linked to lower predicted dementia risk",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+          "summary": "Foi determinado que medicamentos contendo o princípio ativo semaglutida, utilizado no tratamento de diabetes e obesidade, podem reduzir o risco de demência. Estudos clínicos mostram que estes medicamentos podem ter um potencial efeito protetor na prevenção de doenças neurodegenerativas.",
+          "meta": "382 pontos · 267 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49311651",
+              "popularity": 382,
+              "engagementCount": 267
+            }
+          ]
+        },
+        {
+          "title": "Working with AI feels more like leadership than coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+          "summary": "O uso de inteligência artificial generativa (IA generativa) em processos de desenvolvimento de software está evoluindo para uma habilidade de gerenciamento de equipe, em vez de escrita técnica de código. Os desenvolvedores gerenciam o fluxo de trabalho como um líder, definindo tarefas para modelos de inteligência artificial e monitorando os resultados.",
+          "meta": "285 pontos · 185 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49309451",
+              "popularity": 285,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "RISC-V: They Should Have Known Better",
+          "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+          "summary": "A arquitetura de processador de código aberto RISC-V foi criticada pelas complexidades no design de hardware e na arquitetura do conjunto de instruções. Os desenvolvedores de software expressam preocupações de que a flexibilidade oferecida pela arquitetura possa levar a um ecossistema fragmentado no longo prazo.",
+          "meta": "261 pontos · 320 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49298035",
+              "popularity": 261,
+              "engagementCount": 320
+            }
+          ]
+        },
+        {
+          "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+          "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+          "summary": "O kit de teste de carrapatos, que pode ser aplicado em casa, tem como objetivo agilizar o processo de diagnóstico ao detectar rapidamente a bactéria causadora da doença de Lyme. Essa tecnologia permite que os usuários aprendam rapidamente o risco de infecção sem enviar carrapatos ao laboratório.",
+          "meta": "235 pontos · 82 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49310682",
+              "popularity": 235,
+              "engagementCount": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Desenvolvido pela Alibaba, Qwen2.5-27B é um modelo multimodal de inteligência artificial que pode processar dados visuais e textuais. Destaca-se como uma ferramenta de processamento de linguagem e imagem de alto desempenho no Hugging Face, plataforma onde são compartilhados modelos de inteligência artificial de código aberto.",
+          "meta": "♥ 9.864 · 91.917 downloads"
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "Muse-Glimmer-30B, publicado no Hugging Face, é um modelo de linguagem multimodal que pode processar dados visuais e textuais simultaneamente. O modelo oferece a capacidade de produzir saídas de texto significativas combinando entradas de imagem e texto.",
+          "meta": "♥ 1.589 · 246.454 downloads"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "O modelo Qwen2.5-27B, otimizado pela Unsloth, permite inferência de alto desempenho com baixo uso de memória. Este arquivo, no formato GGUF, facilita a execução de modelos de linguagem grandes em hardware de consumo padrão.",
+          "meta": "♥ 1.262 · 867.963 downloads"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Desenvolvido pela Alibaba, Qwen3.8-2.4T-A95B é um grande modelo de linguagem focado na geração de texto. Este modelo, treinado em conjuntos de dados multilíngues, visa demonstrar alto desempenho em tarefas complexas.",
+          "meta": "♥ 976 · 6.381 downloads"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Desenvolvido pela Lightricks, o LTX-2.5 é um modelo de imagem para vídeo que converte imagens estáticas em vídeos curtos. Esta ferramenta, compartilhada na plataforma de inteligência artificial de código aberto HuggingFace, tem como objetivo facilitar o processo de adição de animação a conteúdo visual.",
+          "meta": "♥ 952 · 378.439 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Maglev: Sliding Recurrent Memory",
+          "url": "https://huggingface.co/papers/2608.02870",
+          "summary": "Maglev é uma arquitetura de transformador recorrente que generaliza o mecanismo de atenção de janela deslizante usando memória de tamanho fixo. Este método, que mantém sua estrutura paralelizável durante o treinamento, gerencia contextos longos combinando um pré-preenchimento e um modelo de decodificador que utiliza atenção total.",
+          "meta": "9 curtidas · 2 comentários"
+        },
+        {
+          "title": "Thought-Level Beam Search for Reasoning",
+          "url": "https://huggingface.co/papers/2608.08020",
+          "summary": "A pesquisa de feixe em nível de pensamento é um método que permite o uso mais eficiente do poder de processamento em grandes modelos de raciocínio. Essa abordagem melhora o desempenho do modelo, concentrando recursos computacionais nas soluções mais bem-sucedidas dentro de um orçamento fixo de hardware.",
+          "meta": "10 curtidas · 2 comentários"
+        },
+        {
+          "title": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections",
+          "url": "https://huggingface.co/papers/2608.06914",
+          "summary": "RibAssist 3D é uma ferramenta de diagnóstico desenvolvida para detectar fraturas de costelas em imagens de tomografia computadorizada (TC) e determinar sua localização tridimensional. Ao combinar imagens tiradas de dois ângulos diferentes, detecta pontos de fratura com alta precisão e acelera o processo de análise dos radiologistas.",
+          "meta": "3 curtidas · 2 comentários"
+        },
+        {
+          "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
+          "url": "https://huggingface.co/papers/2608.13391",
+          "summary": "A destilação contextual é um método desenvolvido para reduzir o atraso em processos de geração de vídeo autorregressivos. Esta técnica permite que o modelo cumpra as restrições de causalidade com base em dados históricos e controles durante a fase de treinamento, permitindo uma saída de vídeo mais rápida e consistente.",
+          "meta": "9 curtidas · 2 comentários"
+        },
+        {
+          "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
+          "url": "https://huggingface.co/papers/2608.09158",
+          "summary": "Grandes modelos de linguagem de áudio (LALM) podem produzir resultados errados ao processar sinais de baixa frequência que são inaudíveis para os humanos. Os pesquisadores avaliam a segurança da entrada auditiva dos modelos com o método Intermittent Low Frequency Locking (ILL) que desenvolveram para testar esta vulnerabilidade.",
+          "meta": "6 curtidas · 2 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Firefox is now the last major browser that still supports uBlock Origin",
+          "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+          "summary": "Com o Google Chrome e os navegadores baseados em Chromium descontinuando o suporte para o plug-in de bloqueio de anúncios uBlock Origin, o Firefox se tornou o único navegador importante que oferece suporte total a essa ferramenta. Isso afeta diretamente as preferências de filtragem de conteúdo e proteção de privacidade dos usuários.",
+          "meta": "143 pontos · 37 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still",
+              "popularity": 143,
+              "engagementCount": 37
+            }
+          ]
+        },
+        {
+          "title": "Why I remain a skeptic",
+          "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+          "summary": "O desenvolvedor de software João Barretto permanece cético quanto à confiabilidade de grandes modelos de linguagem em processos de desenvolvimento de software. Ele argumenta que as conveniências oferecidas pela inteligência artificial nos processos de geração e depuração de código são insuficientes para gerenciar a complexidade dos sistemas.",
+          "meta": "38 pontos · 39 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fooyux/why_i_remain_skeptic",
+              "popularity": 38,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "Everything is about to “go dark”",
+          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+          "summary": "O uso generalizado de criptografia ponta a ponta no tráfego da Internet dificulta a análise de dados pelos sistemas de segurança que monitoram o tráfego de rede. Esta situação indica um período em que os métodos tradicionais utilizados para segurança de rede e controle de conteúdo se tornarão disfuncionais.",
+          "meta": "33 pontos · 8 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/w5rmwi/everything_is_about_go_dark",
+              "popularity": 33,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "meta-framework",
+      "explanation": "Plataforma de desenvolvimento mais abrangente construída com base nas principais ferramentas de software que facilitam a criação de sites."
+    },
+    {
+      "term": "plugin specification",
+      "explanation": "Um conjunto de regras técnicas que devem ser seguidas para fazer um complemento externo a um software."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "O principal modelo que forma a base dos sistemas de inteligência artificial, treinados em enormes dados para realizar uma ampla gama de tarefas."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Tecnologia de inteligência artificial que pode produzir imagens ou conteúdo de alta qualidade com base em dados ruidosos."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "O processo de reciclagem de um modelo de inteligência artificial treinado de uso geral em um pequeno conjunto de dados para se especializar em um assunto específico."
+    },
+    {
+      "term": "API",
+      "explanation": "Uma ponte digital que permite que dois softwares diferentes se comuniquem e troquem dados."
+    },
+    {
+      "term": "layer streaming",
+      "explanation": "Carregamento instantâneo de uma grande camada de dados ou software em partes, sem esperar o download de toda a camada de software."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "Um método para definir detalhadamente as regras e padrões que determinam como o sistema funcionará antes de começar a escrever o código do software."
+    },
+    {
+      "term": "on-device STT",
+      "explanation": "Tecnologia que converte áudio falado em texto diretamente no aparelho, sem necessidade de internet."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que executa programas com comandos escritos em vez do mouse."
+    },
+    {
+      "term": "framework",
+      "explanation": "Uma estrutura estrutural contendo blocos de código prontos e regras usadas para acelerar o desenvolvimento de software."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Projeto de sistema baseado em inteligência artificial que pode tomar decisões e agir por conta própria, em vez de apenas esperar por comandos humanos."
+    },
+    {
+      "term": "working memory",
+      "explanation": "Área da memória de curto prazo onde a inteligência artificial armazena temporariamente as informações de que necessita durante o processo atual."
+    },
+    {
+      "term": "dementia",
+      "explanation": "Condição em que a memória, o pensamento e as habilidades da vida diária ficam seriamente enfraquecidas como resultado de danos às células nervosas do cérebro."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Um tipo de inteligência artificial que pode criar novos conteúdos como texto, imagens ou sons que nunca existiram antes."
+    }
+  ]
+}

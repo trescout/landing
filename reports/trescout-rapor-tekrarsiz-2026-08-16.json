@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-16",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "summary": "Cordis, uzamsal ve zamansal bileşenleri bir araya getiren bir meta çerçeve (meta-framework). Karmaşık sistemlerin modüler bir yapıda geliştirilmesini sağlayan bu TypeScript tabanlı araç, farklı uygulama parçalarının birbiriyle uyumlu çalışmasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 4.187 · +599 bugün"
+        },
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "Public-apis, uygulama geliştiricilerin projelerinde kullanabileceği ücretsiz uygulama programlama arayüzlerini (API) kategorize edilmiş bir şekilde sunan kapsamlı bir liste. Yazılım geliştirme süreçlerinde ihtiyaç duyulan harici veri kaynaklarına erişimi kolaylaştıran merkezi bir referans noktası görevi görüyor.",
+          "meta": "Python · ★ 460.356 · +2.260 bugün"
+        },
+        {
+          "title": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "summary": "Soup, büyük dil modellerine (large language models) tek bir YAML dosyası üzerinden ince ayar (fine-tuning) yapılmasına olanak tanıyan bir Python kütüphanesi. Katman akış (layer streaming) yöntemiyle 8 milyar parametreli modelleri 4 GB belleğe sahip dizüstü bilgisayar grafik işlemcilerinde eğitebiliyor.",
+          "meta": "Python · ★ 1.729 · +297 bugün"
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything, komut satırı arayüzlerini (CLI) yapay zekâ ajanlarının doğrudan kullanabileceği bir formata dönüştüren bir çerçeve (framework). Yazılım araçlarını ajan uyumlu (agent-native) hâle getirerek, yapay zekâ modellerinin karmaşık sistem komutlarını daha etkili bir şekilde yönetmesini sağlıyor.",
+          "meta": "Python · ★ 47.429 · +118 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI has access to a vastly larger working memory than the human brain",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "summary": "Yapay zekâ modelleri, insan beyninin sınırlı çalışma belleğine (working memory) kıyasla çok daha geniş bir veri işleme kapasitesine sahip. Bu durum, modellerin karmaşık matematiksel problemleri çözerken insan zihninden farklı bir bilişsel süreç izlediğini gösteriyor.",
+          "meta": "447 oy · 389 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49312845",
+              "popularity": 447,
+              "engagementCount": 389
+            }
+          ]
+        },
+        {
+          "title": "Semaglutide linked to lower predicted dementia risk",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+          "summary": "Diyabet ve obezite tedavisinde kullanılan semaglutid etken maddeli ilaçların, bunama (dementia) riskini düşürebileceği tespit edildi. Yapılan klinik araştırmalar, bu ilaçların nörodejeneratif hastalıkların önlenmesinde potansiyel bir koruyucu etkisi olabileceğini gösteriyor.",
+          "meta": "382 oy · 267 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49311651",
+              "popularity": 382,
+              "engagementCount": 267
+            }
+          ]
+        },
+        {
+          "title": "Working with AI feels more like leadership than coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+          "summary": "Yazılım geliştirme süreçlerinde üretken yapay zekâ (generative AI) kullanımı, teknik kod yazımından ziyade bir ekip yönetimi becerisine evriliyor. Geliştiriciler, yapay zekâ modellerine görev tanımları yaparak ve çıktıları denetleyerek bir lider gibi iş akışını yönetiyor.",
+          "meta": "285 oy · 185 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49309451",
+              "popularity": 285,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+          "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+          "summary": "Evde uygulanabilen kene test kiti, Lyme hastalığına neden olan bakterileri hızlı bir şekilde tespit ederek teşhis sürecini hızlandırmayı amaçlıyor. Bu teknoloji, kullanıcıların keneleri laboratuvara göndermeden enfeksiyon riskini kısa sürede öğrenmelerine olanak tanıyor.",
+          "meta": "235 oy · 82 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49310682",
+              "popularity": 235,
+              "engagementCount": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Why I remain a skeptic",
+          "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+          "summary": "Yazılım geliştirici João Barretto, büyük dil modellerinin (large language models) yazılım geliştirme süreçlerindeki güvenilirliği konusunda şüpheci yaklaşımını koruyor. Yapay zekânın kod üretimi ve hata ayıklama süreçlerinde sunduğu kolaylıkların, sistemlerin karmaşıklığını yönetme noktasında yetersiz kaldığını savunuyor.",
+          "meta": "38 oy · 39 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fooyux/why_i_remain_skeptic",
+              "popularity": 38,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "Everything is about to “go dark”",
+          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+          "summary": "İnternet trafiğinde uçtan uca şifrelemenin (end-to-end encryption) yaygınlaşması, ağ trafiğini izleyen güvenlik sistemlerinin verileri analiz etmesini zorlaştırıyor. Bu durum, ağ güvenliği ve içerik denetimi için kullanılan geleneksel yöntemlerin işlevsiz kalacağı bir dönemi işaret ediyor.",
+          "meta": "33 oy · 8 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/w5rmwi/everything_is_about_go_dark",
+              "popularity": 33,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "meta-framework",
+      "explanation": "Web siteleri oluşturmayı kolaylaştıran, temel yazılım araçlarının üzerine inşa edilmiş daha kapsamlı geliştirme platformu."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Genel amaçlı eğitilmiş bir yapay zekâ modelini, belirli bir konuda uzmanlaşması için küçük bir veri setiyle tekrar eğitme süreci."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan dijital köprü."
+    },
+    {
+      "term": "layer streaming",
+      "explanation": "Büyük bir verinin veya yazılım katmanının tamamının indirilmesini beklemeden, parçalar halinde anlık olarak yüklenmesi."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri hızlandırmak için kullanılan, hazır kod blokları ve kurallar içeren yapısal iskelet."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Sadece insan komutlarını beklemek yerine, kendi başına karar verip işlem yapabilen yapay zekâ odaklı sistem tasarımı."
+    },
+    {
+      "term": "working memory",
+      "explanation": "Yapay zekânın o anki işlem sırasında ihtiyaç duyduğu bilgileri geçici olarak sakladığı kısa süreli hafıza alanı."
+    },
+    {
+      "term": "dementia",
+      "explanation": "Beyindeki sinir hücrelerinin hasar görmesi sonucu hafıza, düşünme ve günlük yaşam becerilerinin ciddi şekilde zayıflaması durumu."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Daha önce hiç var olmayan metin, görsel veya ses gibi yeni içerikler oluşturabilen yapay zekâ türü."
+    }
+  ]
+}

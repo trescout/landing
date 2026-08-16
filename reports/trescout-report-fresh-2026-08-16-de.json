@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-16",
+  "editorial": "Dieser Bericht berücksichtigt erstmals die Trends, die sich heute abzeichneten, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "summary": "Cordis ist ein Meta-Framework, das räumliche und zeitliche Komponenten zusammenführt. Dieses TypeScript-basierte Tool, das die Entwicklung komplexer Systeme in modularer Struktur ermöglicht, ermöglicht die harmonische Zusammenarbeit verschiedener Anwendungsteile.",
+          "meta": "TypeScript · ★ 4.187 · +599 heute"
+        },
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "Public-apis ist eine umfassende Liste kostenloser Anwendungsprogrammierschnittstellen (APIs), die Anwendungsentwickler in ihren Projekten verwenden können. Es dient als zentraler Referenzpunkt, der den Zugriff auf externe Datenquellen erleichtert, die in Softwareentwicklungsprozessen benötigt werden.",
+          "meta": "Python · ★ 460.356 · +2.260 heute"
+        },
+        {
+          "title": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "summary": "Soup ist eine Python-Bibliothek, die die Feinabstimmung großer Sprachmodelle über eine einzige YAML-Datei ermöglicht. Es kann Modelle mit 8 Milliarden Parametern mithilfe der Layer-Streaming-Methode auf Laptop-Grafikprozessoren mit 4 GB Speicher trainieren.",
+          "meta": "Python · ★ 1.729 · +297 heute"
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything ist ein Framework, das Befehlszeilenschnittstellen (CLI) in ein Format konvertiert, das Agenten der künstlichen Intelligenz direkt verwenden können. Durch die agentennative Gestaltung von Softwaretools können Modelle der künstlichen Intelligenz komplexe Systembefehle effektiver verwalten.",
+          "meta": "Python · ★ 47.429 · +118 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI has access to a vastly larger working memory than the human brain",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "summary": "Modelle der künstlichen Intelligenz verfügen im Vergleich zum begrenzten Arbeitsgedächtnis des menschlichen Gehirns über eine viel größere Datenverarbeitungskapazität. Dies zeigt, dass Modelle bei der Lösung komplexer mathematischer Probleme einem anderen kognitiven Prozess folgen als der menschliche Geist.",
+          "meta": "447 Punkte · 389 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49312845",
+              "popularity": 447,
+              "engagementCount": 389
+            }
+          ]
+        },
+        {
+          "title": "Semaglutide linked to lower predicted dementia risk",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+          "summary": "Es wurde festgestellt, dass Medikamente mit dem Wirkstoff Semaglutid, die zur Behandlung von Diabetes und Fettleibigkeit eingesetzt werden, das Demenzrisiko senken können. Klinische Studien zeigen, dass diese Medikamente eine potenzielle Schutzwirkung bei der Vorbeugung neurodegenerativer Erkrankungen haben können.",
+          "meta": "382 Punkte · 267 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49311651",
+              "popularity": 382,
+              "engagementCount": 267
+            }
+          ]
+        },
+        {
+          "title": "Working with AI feels more like leadership than coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+          "summary": "Der Einsatz generativer künstlicher Intelligenz (generative KI) in Softwareentwicklungsprozessen entwickelt sich eher zu einer Teammanagementfähigkeit als zum technischen Code-Schreiben. Entwickler verwalten den Workflow wie ein Anführer, indem sie Aufgaben für Modelle der künstlichen Intelligenz definieren und die Ergebnisse überwachen.",
+          "meta": "285 Punkte · 185 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49309451",
+              "popularity": 285,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+          "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+          "summary": "Das Zeckentest-Kit, das zu Hause angewendet werden kann, soll den Diagnoseprozess beschleunigen, indem es die Bakterien, die Lyme-Borreliose verursachen, schnell erkennt. Mit dieser Technologie können Benutzer schnell das Infektionsrisiko erkennen, ohne Zecken ins Labor schicken zu müssen.",
+          "meta": "235 Punkte · 82 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49310682",
+              "popularity": 235,
+              "engagementCount": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Why I remain a skeptic",
+          "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+          "summary": "Der Softwareentwickler João Barretto bleibt hinsichtlich der Zuverlässigkeit großer Sprachmodelle in Softwareentwicklungsprozessen skeptisch. Er argumentiert, dass die Annehmlichkeiten, die künstliche Intelligenz bei Codegenerierungs- und Debugging-Prozessen bietet, nicht ausreichen, um die Komplexität von Systemen zu bewältigen.",
+          "meta": "38 Punkte · 39 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fooyux/why_i_remain_skeptic",
+              "popularity": 38,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "Everything is about to “go dark”",
+          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+          "summary": "Der weit verbreitete Einsatz von Ende-zu-Ende-Verschlüsselung im Internetverkehr erschwert die Datenanalyse durch Sicherheitssysteme, die den Netzwerkverkehr überwachen. Diese Situation deutet auf eine Zeit hin, in der herkömmliche Methoden zur Netzwerksicherheit und Inhaltskontrolle nicht mehr funktionieren.",
+          "meta": "33 Punkte · 8 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/w5rmwi/everything_is_about_go_dark",
+              "popularity": 33,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "meta-framework",
+      "explanation": "Umfassendere Entwicklungsplattform, die auf Kernsoftwaretools aufbaut und die Erstellung von Websites erleichtert."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Der Prozess der Umschulung eines allgemein trainierten künstlichen Intelligenzmodells anhand eines kleinen Datensatzes, um sich auf ein bestimmtes Thema zu spezialisieren."
+    },
+    {
+      "term": "API",
+      "explanation": "Eine digitale Brücke, die es zwei verschiedenen Softwareprogrammen ermöglicht, miteinander zu kommunizieren und Daten auszutauschen."
+    },
+    {
+      "term": "layer streaming",
+      "explanation": "Sofortiges Laden einer großen Daten- oder Softwareschicht in Teilen, ohne auf den Download der gesamten Softwareschicht warten zu müssen."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Textbasierte Schnittstelle, die Programme mit geschriebenen Befehlen statt mit der Maus ausführt."
+    },
+    {
+      "term": "framework",
+      "explanation": "Ein strukturelles Framework mit vorgefertigten Codeblöcken und Regeln zur Beschleunigung der Softwareentwicklung."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Auf künstlicher Intelligenz basierendes Systemdesign, das selbstständig Entscheidungen treffen und Maßnahmen ergreifen kann, anstatt nur auf menschliche Befehle zu warten."
+    },
+    {
+      "term": "working memory",
+      "explanation": "Kurzzeitgedächtnisbereich, in dem künstliche Intelligenz die Informationen, die sie während des aktuellen Prozesses benötigt, vorübergehend speichert."
+    },
+    {
+      "term": "dementia",
+      "explanation": "Eine Erkrankung, bei der das Gedächtnis, das Denken und die Alltagsfähigkeiten aufgrund einer Schädigung der Nervenzellen im Gehirn erheblich geschwächt sind."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Eine Art künstlicher Intelligenz, die neue Inhalte wie Texte, Bilder oder Ton erstellen kann, die es noch nie zuvor gab."
+    }
+  ]
+}

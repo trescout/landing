@@ -1,0 +1,351 @@
+{
+  "date": "2026-08-16",
+  "editorial": "Heutzutage rücken in der Technologiewelt neue Architekturen in den Vordergrund, die die Speicherkapazitäten und Argumentationsfähigkeiten großer Sprachmodelle verbessern. Die Tatsache, dass der Firefox-Browser die Unterstützung von Inhaltsblockern beibehält, bringt die Spannung zwischen Benutzerfreiheit und Plattformrichtlinien wieder auf die Tagesordnung der Softwarewelt.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "summary": "Cordis ist ein Meta-Framework, das räumliche und zeitliche Komponenten zusammenführt. Dieses TypeScript-basierte Tool, das die Entwicklung komplexer Systeme in modularer Struktur ermöglicht, ermöglicht die harmonische Zusammenarbeit verschiedener Anwendungsteile.",
+          "meta": "TypeScript · ★ 4.187 · +599 heute"
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design bietet 29 verschiedene redaktionelle Diagrammvorlagen, die für die Verwendung mit dem KI-gestützten Codierungstool Claude Code konzipiert sind. Diese eigenständigen Bilder im HTML- und SVG-Format verfolgen einen einfachen und unkomplizierten Designansatz und keine komplexen Schemasprachen.",
+          "meta": "HTML · ★ 18.789 · +1.607 heute"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Das Codebearbeitungstool Cursor hat seine offizielle Plugin-Spezifikation veröffentlicht, die es Benutzern ermöglicht, ihre eigenen Plugins zu entwickeln. Dieser Schritt ermöglicht es Entwicklern, das AI-unterstützte Codierungserlebnis mit anpassbaren Modulen zu erweitern.",
+          "meta": "TypeScript · ★ 2.973 · +149 heute"
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Needle wurde von Cactus Compute entwickelt und ist ein kleines 14-Megabyte-Basismodell, das auf Systemen mit eingeschränkter Hardware wie Smartphones und tragbaren Geräten ausgeführt werden kann. Diese Technologie ermöglicht die Ausführung lokaler Anwendungen der künstlichen Intelligenz auf Geräten, die keine hohe Rechenleistung benötigen.",
+          "meta": "Python · ★ 6.120 · +547 heute"
+        },
+        {
+          "title": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "summary": "Unsloth ist eine Bibliothek, die das Training und die Ausführung großer Sprachmodelle und Diffusionsmodelle in einer lokalen Umgebung ermöglicht. Durch die Optimierung der Speichernutzung können gängige Modelle der künstlichen Intelligenz schneller und effizienter verfeinert werden.",
+          "meta": "Python · ★ 72.122 · +434 heute"
+        },
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "Public-apis ist eine umfassende Liste kostenloser Anwendungsprogrammierschnittstellen (APIs), die Anwendungsentwickler in ihren Projekten verwenden können. Es dient als zentraler Referenzpunkt, der den Zugriff auf externe Datenquellen erleichtert, die in Softwareentwicklungsprozessen benötigt werden.",
+          "meta": "Python · ★ 460.356 · +2.260 heute"
+        },
+        {
+          "title": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "summary": "Soup ist eine Python-Bibliothek, die die Feinabstimmung großer Sprachmodelle über eine einzige YAML-Datei ermöglicht. Es kann Modelle mit 8 Milliarden Parametern mithilfe der Layer-Streaming-Methode auf Laptop-Grafikprozessoren mit 4 GB Speicher trainieren.",
+          "meta": "Python · ★ 1.729 · +297 heute"
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "Das von GitHub veröffentlichte spec-kit ist ein Python-Toolkit, das zur Initiierung spezifikationsgesteuerter Entwicklungsprozesse verwendet wird. Es erleichtert die Erstellung einer standardisierten technischen Dokumentation und Anwendungsstruktur in Softwareprojekten.",
+          "meta": "Python · ★ 129.269 · +892 heute"
+        },
+        {
+          "title": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "summary": "Holehe ist ein Python-Tool, das abfragt, ob eine eingegebene E-Mail-Adresse auf beliebten Plattformen wie Twitter und Instagram verwendet wird. Es erkennt Kontoinformationen, die mit der entsprechenden E-Mail verknüpft sind, mithilfe von Funktionen zum Zurücksetzen des Passworts.",
+          "meta": "Python · ★ 13.154 · +382 heute"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice ist eine Anwendung, die auf macOS läuft und Sprachdiktate mithilfe der Speech-to-Text-Technologie (STT) auf dem Gerät durchführt, ohne dass eine Internetverbindung erforderlich ist. Dieses Tool, das die Sprachverständlichkeit mit speziell trainierten Modellen der künstlichen Intelligenz verbessert, bietet eine lokale Alternative zu Diensten wie Wispr Flow mit ähnlicher Funktionalität.",
+          "meta": "Swift · ★ 10.368 · +104 heute"
+        },
+        {
+          "title": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "summary": "ToolJet ist eine Open-Source-Anwendungsentwicklungsplattform, die die Erstellung interner Tools, Dashboards und Workflows ermöglicht. Diese JavaScript-basierte Struktur ermöglicht es Unternehmen, auf ihren eigenen Servern Geschäftsanwendungen zu entwerfen, die auf künstlicher Intelligenz basieren.",
+          "meta": "JavaScript · ★ 39.599 · +544 heute"
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything ist ein Framework, das Befehlszeilenschnittstellen (CLI) in ein Format konvertiert, das Agenten der künstlichen Intelligenz direkt verwenden können. Durch die agentennative Gestaltung von Softwaretools können Modelle der künstlichen Intelligenz komplexe Systembefehle effektiver verwalten.",
+          "meta": "Python · ★ 47.429 · +118 heute"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite ist ein leichtes Browser-Tool, das für KI-Agenten entwickelt wurde, um Browser-Automatisierungsprozesse zu verwalten. Durch die Weitergabe der Anmeldeinformationen der Benutzer können Codierungsassistenten wie Claude Code Vorgänge im Browser ausführen, ohne den aktuellen Arbeitsablauf zu stören.",
+          "meta": "JavaScript · ★ 11.074 · +545 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI has access to a vastly larger working memory than the human brain",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "summary": "Modelle der künstlichen Intelligenz verfügen im Vergleich zum begrenzten Arbeitsgedächtnis des menschlichen Gehirns über eine viel größere Datenverarbeitungskapazität. Dies zeigt, dass Modelle bei der Lösung komplexer mathematischer Probleme einem anderen kognitiven Prozess folgen als der menschliche Geist.",
+          "meta": "447 Punkte · 389 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49312845",
+              "popularity": 447,
+              "engagementCount": 389
+            }
+          ]
+        },
+        {
+          "title": "Semaglutide linked to lower predicted dementia risk",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+          "summary": "Es wurde festgestellt, dass Medikamente mit dem Wirkstoff Semaglutid, die zur Behandlung von Diabetes und Fettleibigkeit eingesetzt werden, das Demenzrisiko senken können. Klinische Studien zeigen, dass diese Medikamente eine potenzielle Schutzwirkung bei der Vorbeugung neurodegenerativer Erkrankungen haben können.",
+          "meta": "382 Punkte · 267 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49311651",
+              "popularity": 382,
+              "engagementCount": 267
+            }
+          ]
+        },
+        {
+          "title": "Working with AI feels more like leadership than coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+          "summary": "Der Einsatz generativer künstlicher Intelligenz (generative KI) in Softwareentwicklungsprozessen entwickelt sich eher zu einer Teammanagementfähigkeit als zum technischen Code-Schreiben. Entwickler verwalten den Workflow wie ein Anführer, indem sie Aufgaben für Modelle der künstlichen Intelligenz definieren und die Ergebnisse überwachen.",
+          "meta": "285 Punkte · 185 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49309451",
+              "popularity": 285,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "RISC-V: They Should Have Known Better",
+          "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+          "summary": "Die Open-Source-Prozessorarchitektur RISC-V wurde wegen der Komplexität des Hardwaredesigns und der Befehlssatzarchitektur kritisiert. Softwareentwickler äußern Bedenken, dass die Flexibilität, die die Architektur bietet, auf lange Sicht zu einem fragmentierten Ökosystem führen könnte.",
+          "meta": "261 Punkte · 320 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49298035",
+              "popularity": 261,
+              "engagementCount": 320
+            }
+          ]
+        },
+        {
+          "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+          "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+          "summary": "Das Zeckentest-Kit, das zu Hause angewendet werden kann, soll den Diagnoseprozess beschleunigen, indem es die Bakterien, die Lyme-Borreliose verursachen, schnell erkennt. Mit dieser Technologie können Benutzer schnell das Infektionsrisiko erkennen, ohne Zecken ins Labor schicken zu müssen.",
+          "meta": "235 Punkte · 82 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49310682",
+              "popularity": 235,
+              "engagementCount": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B wurde von Alibaba entwickelt und ist ein multimodales Modell der künstlichen Intelligenz, das sowohl visuelle als auch Textdaten verarbeiten kann. Es zeichnet sich als leistungsstarkes Sprach- und Bildverarbeitungstool auf Hugging Face aus, der Plattform, auf der Open-Source-Modelle für künstliche Intelligenz geteilt werden.",
+          "meta": "♥ 9.864 · 91.917 Downloads"
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "Muse-Glimmer-30B, veröffentlicht auf Hugging Face, ist ein multimodales Sprachmodell, das visuelle und textuelle Daten gleichzeitig verarbeiten kann. Das Modell bietet die Möglichkeit, durch die Kombination von Bild- und Texteingaben aussagekräftige Textausgaben zu erstellen.",
+          "meta": "♥ 1.589 · 246.454 Downloads"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Das von Unsloth optimierte Modell Qwen2.5-27B ermöglicht eine leistungsstarke Inferenz bei geringem Speicherverbrauch. Diese Datei im GGUF-Format erleichtert die Ausführung großer Sprachmodelle auf Standard-Consumer-Hardware.",
+          "meta": "♥ 1.262 · 867.963 Downloads"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Qwen3.8-2.4T-A95B wurde von Alibaba entwickelt und ist ein großes Sprachmodell, das sich auf die Textgenerierung konzentriert. Dieses auf mehrsprachigen Datensätzen trainierte Modell zielt darauf ab, eine hohe Leistung bei komplexen Aufgaben zu demonstrieren.",
+          "meta": "♥ 976 · 6.381 Downloads"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5 wurde von Lightricks entwickelt und ist ein Bild-zu-Video-Modell, das Standbilder in kurze Videos umwandelt. Dieses Tool, das auf der Open-Source-Plattform für künstliche Intelligenz HuggingFace geteilt wird, soll den Prozess des Hinzufügens von Animationen zu visuellen Inhalten erleichtern.",
+          "meta": "♥ 952 · 378.439 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Maglev: Sliding Recurrent Memory",
+          "url": "https://huggingface.co/papers/2608.02870",
+          "summary": "Maglev ist eine wiederkehrende Transformatorarchitektur, die den Sliding-Window-Attention-Mechanismus durch die Verwendung von Speicher mit fester Größe verallgemeinert. Diese Methode, die ihre parallelisierbare Struktur während des Trainings beibehält, verwaltet lange Kontexte durch die Kombination eines Prefiller- und eines Decodermodells, das die volle Aufmerksamkeit nutzt.",
+          "meta": "9 Likes · 2 Kommentare"
+        },
+        {
+          "title": "Thought-Level Beam Search for Reasoning",
+          "url": "https://huggingface.co/papers/2608.08020",
+          "summary": "Die Strahlsuche auf Gedankenebene ist eine Methode, die die effizienteste Nutzung der Rechenleistung in großen Argumentationsmodellen ermöglicht. Dieser Ansatz verbessert die Modellleistung, indem er die Rechenressourcen auf die erfolgreichsten Lösungen innerhalb eines festen Hardwarebudgets konzentriert.",
+          "meta": "10 Likes · 2 Kommentare"
+        },
+        {
+          "title": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections",
+          "url": "https://huggingface.co/papers/2608.06914",
+          "summary": "RibAssist 3D ist ein Diagnosetool, das entwickelt wurde, um Rippenfrakturen auf Computertomographiebildern (CT) zu erkennen und deren dreidimensionale Position zu bestimmen. Durch den Abgleich von Bildern, die aus zwei verschiedenen Winkeln aufgenommen wurden, erkennt es Bruchstellen mit hoher Genauigkeit und beschleunigt den Analyseprozess von Radiologen.",
+          "meta": "3 Likes · 2 Kommentare"
+        },
+        {
+          "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
+          "url": "https://huggingface.co/papers/2608.13391",
+          "summary": "Die kontextangepasste Destillation ist eine Methode, die entwickelt wurde, um Verzögerungen bei autoregressiven Videogenerierungsprozessen zu reduzieren. Diese Technik ermöglicht es dem Modell, während der Trainingsphase Kausalitätsbeschränkungen basierend auf historischen Daten und Kontrollen einzuhalten, was eine schnellere und konsistentere Videoausgabe ermöglicht.",
+          "meta": "9 Likes · 2 Kommentare"
+        },
+        {
+          "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
+          "url": "https://huggingface.co/papers/2608.09158",
+          "summary": "Große Audio-Sprachmodelle (LALM) können fehlerhafte Ausgaben erzeugen, indem sie niederfrequente Signale verarbeiten, die für Menschen nicht hörbar sind. Forscher bewerten die akustische Eingabesicherheit von Modellen mit der von ihnen entwickelten Intermittent Low Frequency Locking (ILL)-Methode, um diese Schwachstelle zu testen.",
+          "meta": "6 Likes · 2 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Firefox is now the last major browser that still supports uBlock Origin",
+          "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+          "summary": "Da Google Chrome und Chromium-basierte Browser die Unterstützung für das Werbeblocker-Plug-in uBlock Origin einstellen, ist Firefox der einzige große Browser, der dieses Tool vollständig unterstützt. Dies wirkt sich direkt auf die Inhaltsfilterung und Datenschutzeinstellungen der Benutzer aus.",
+          "meta": "143 Punkte · 37 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still",
+              "popularity": 143,
+              "engagementCount": 37
+            }
+          ]
+        },
+        {
+          "title": "Why I remain a skeptic",
+          "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+          "summary": "Der Softwareentwickler João Barretto bleibt hinsichtlich der Zuverlässigkeit großer Sprachmodelle in Softwareentwicklungsprozessen skeptisch. Er argumentiert, dass die Annehmlichkeiten, die künstliche Intelligenz bei Codegenerierungs- und Debugging-Prozessen bietet, nicht ausreichen, um die Komplexität von Systemen zu bewältigen.",
+          "meta": "38 Punkte · 39 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fooyux/why_i_remain_skeptic",
+              "popularity": 38,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "Everything is about to “go dark”",
+          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+          "summary": "Der weit verbreitete Einsatz von Ende-zu-Ende-Verschlüsselung im Internetverkehr erschwert die Datenanalyse durch Sicherheitssysteme, die den Netzwerkverkehr überwachen. Diese Situation deutet auf eine Zeit hin, in der herkömmliche Methoden zur Netzwerksicherheit und Inhaltskontrolle nicht mehr funktionieren.",
+          "meta": "33 Punkte · 8 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/w5rmwi/everything_is_about_go_dark",
+              "popularity": 33,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "meta-framework",
+      "explanation": "Umfassendere Entwicklungsplattform, die auf Kernsoftwaretools aufbaut und die Erstellung von Websites erleichtert."
+    },
+    {
+      "term": "plugin specification",
+      "explanation": "Eine Reihe technischer Regeln, die befolgt werden müssen, um ein externes Add-on zu einer Software zu erstellen."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Das Hauptmodell, das die Grundlage künstlicher Intelligenzsysteme bildet, wird auf riesigen Datenmengen trainiert, um eine Vielzahl von Aufgaben auszuführen."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Künstliche Intelligenztechnologie, die auf der Grundlage verrauschter Daten hochwertige Bilder oder Inhalte erzeugen kann."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Der Prozess der Umschulung eines allgemein trainierten künstlichen Intelligenzmodells anhand eines kleinen Datensatzes, um sich auf ein bestimmtes Thema zu spezialisieren."
+    },
+    {
+      "term": "API",
+      "explanation": "Eine digitale Brücke, die es zwei verschiedenen Softwareprogrammen ermöglicht, miteinander zu kommunizieren und Daten auszutauschen."
+    },
+    {
+      "term": "layer streaming",
+      "explanation": "Sofortiges Laden einer großen Daten- oder Softwareschicht in Teilen, ohne auf den Download der gesamten Softwareschicht warten zu müssen."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "Eine Methode zur detaillierten Definition der Regeln und Standards, die bestimmen, wie das System funktionieren soll, bevor mit dem Schreiben des Softwarecodes begonnen wird."
+    },
+    {
+      "term": "on-device STT",
+      "explanation": "Technologie, die gesprochenes Audio direkt auf dem Gerät in Text umwandelt, ohne dass eine Internetverbindung erforderlich ist."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Textbasierte Schnittstelle, die Programme mit geschriebenen Befehlen statt mit der Maus ausführt."
+    },
+    {
+      "term": "framework",
+      "explanation": "Ein strukturelles Framework mit vorgefertigten Codeblöcken und Regeln zur Beschleunigung der Softwareentwicklung."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Auf künstlicher Intelligenz basierendes Systemdesign, das selbstständig Entscheidungen treffen und Maßnahmen ergreifen kann, anstatt nur auf menschliche Befehle zu warten."
+    },
+    {
+      "term": "working memory",
+      "explanation": "Kurzzeitgedächtnisbereich, in dem künstliche Intelligenz die Informationen, die sie während des aktuellen Prozesses benötigt, vorübergehend speichert."
+    },
+    {
+      "term": "dementia",
+      "explanation": "Eine Erkrankung, bei der das Gedächtnis, das Denken und die Alltagsfähigkeiten aufgrund einer Schädigung der Nervenzellen im Gehirn erheblich geschwächt sind."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Eine Art künstlicher Intelligenz, die neue Inhalte wie Texte, Bilder oder Ton erstellen kann, die es noch nie zuvor gab."
+    }
+  ]
+}

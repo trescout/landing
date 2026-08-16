@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-16",
+  "editorial": "This report includes the trends that emerged today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "summary": "Cordis is a meta-framework that brings together spatial and temporal components. This TypeScript-based tool, which enables the development of complex systems in a modular structure, allows different application parts to work in harmony with each other.",
+          "meta": "TypeScript · ★ 4,187 · +599 today"
+        },
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "Public-apis is a comprehensive list of free application programming interfaces (APIs) that application developers can use in their projects. It serves as a central reference point that facilitates access to external data sources needed in software development processes.",
+          "meta": "Python · ★ 460,356 · +2,260 today"
+        },
+        {
+          "title": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "summary": "Soup is a Python library that allows fine-tuning of large language models via a single YAML file. It can train models with 8 billion parameters using the layer streaming method on laptop graphics processors with 4 GB memory.",
+          "meta": "Python · ★ 1,729 · +297 today"
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything is a framework that converts command line interfaces (CLI) into a format that artificial intelligence agents can directly use. By making software tools agent-native, it enables artificial intelligence models to manage complex system commands more effectively.",
+          "meta": "Python · ★ 47,429 · +118 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI has access to a vastly larger working memory than the human brain",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "summary": "Artificial intelligence models have a much larger data processing capacity compared to the limited working memory of the human brain. This shows that models follow a different cognitive process than the human mind when solving complex mathematical problems.",
+          "meta": "447 points · 389 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49312845",
+              "popularity": 447,
+              "engagementCount": 389
+            }
+          ]
+        },
+        {
+          "title": "Semaglutide linked to lower predicted dementia risk",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+          "summary": "It has been determined that drugs containing the active ingredient semaglutide, used in the treatment of diabetes and obesity, can reduce the risk of dementia. Clinical studies show that these drugs may have a potential protective effect in preventing neurodegenerative diseases.",
+          "meta": "382 points · 267 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49311651",
+              "popularity": 382,
+              "engagementCount": 267
+            }
+          ]
+        },
+        {
+          "title": "Working with AI feels more like leadership than coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+          "summary": "The use of generative artificial intelligence (generative AI) in software development processes is evolving into a team management skill rather than technical code writing. Developers manage the workflow like a leader by defining tasks to artificial intelligence models and monitoring the outputs.",
+          "meta": "285 points · 185 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49309451",
+              "popularity": 285,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+          "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+          "summary": "The tick test kit, which can be applied at home, aims to speed up the diagnosis process by quickly detecting the bacteria that cause Lyme disease. This technology allows users to quickly learn the risk of infection without sending ticks to the laboratory.",
+          "meta": "235 points · 82 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49310682",
+              "popularity": 235,
+              "engagementCount": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Why I remain a skeptic",
+          "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+          "summary": "Software developer João Barretto remains skeptical about the reliability of large language models in software development processes. He argues that the conveniences offered by artificial intelligence in code generation and debugging processes are insufficient to manage the complexity of systems.",
+          "meta": "38 points · 39 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fooyux/why_i_remain_skeptic",
+              "popularity": 38,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "Everything is about to “go dark”",
+          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+          "summary": "The widespread use of end-to-end encryption in Internet traffic makes it difficult for security systems that monitor network traffic to analyze data. This situation indicates a period in which traditional methods used for network security and content control will become dysfunctional.",
+          "meta": "33 points · 8 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/w5rmwi/everything_is_about_go_dark",
+              "popularity": 33,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "meta-framework",
+      "explanation": "More comprehensive development platform built on top of core software tools that make creating websites easier."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "The process of retraining a general-purpose trained artificial intelligence model on a small data set to specialize in a specific subject."
+    },
+    {
+      "term": "API",
+      "explanation": "A digital bridge that allows two different software to talk to each other and exchange data."
+    },
+    {
+      "term": "layer streaming",
+      "explanation": "Instant loading of a large data or software layer in parts, without waiting for the entire software layer to be downloaded."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Text-based interface that runs programs with written commands rather than the mouse."
+    },
+    {
+      "term": "framework",
+      "explanation": "A structural framework containing ready-made code blocks and rules used to speed up software development."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Artificial intelligence-driven system design that can make decisions and take action on its own, instead of just waiting for human commands."
+    },
+    {
+      "term": "working memory",
+      "explanation": "Short-term memory area where artificial intelligence temporarily stores the information it needs during the current process."
+    },
+    {
+      "term": "dementia",
+      "explanation": "A condition in which memory, thinking and daily living skills are seriously weakened as a result of damage to nerve cells in the brain."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "A type of artificial intelligence that can create new content such as text, images or sound that has never existed before."
+    }
+  ]
+}

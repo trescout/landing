@@ -1,0 +1,351 @@
+{
+  "date": "2026-08-16",
+  "editorial": "Bugün teknoloji dünyasında büyük dil modellerinin (large language models) bellek kapasiteleri ve muhakeme yeteneklerini geliştiren yeni mimariler öne çıkıyor. Firefox tarayıcısının içerik engelleyici (content blocker) desteğini koruması ise yazılım dünyasında kullanıcı özgürlüğü ve platform politikaları arasındaki gerilimi tekrar gündeme taşıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "summary": "Cordis, uzamsal ve zamansal bileşenleri bir araya getiren bir meta çerçeve (meta-framework). Karmaşık sistemlerin modüler bir yapıda geliştirilmesini sağlayan bu TypeScript tabanlı araç, farklı uygulama parçalarının birbiriyle uyumlu çalışmasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 4.187 · +599 bugün"
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design, yapay zekâ destekli kodlama aracı Claude Code üzerinde kullanılmak üzere tasarlanmış 29 farklı editoryal diyagram şablonu sunuyor. HTML ve SVG formatındaki bu bağımsız görseller, karmaşık şema dilleri yerine sade ve doğrudan bir tasarım yaklaşımını benimsiyor.",
+          "meta": "HTML · ★ 18.789 · +1.607 bugün"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Kod düzenleme aracı Cursor, kullanıcıların kendi eklentilerini geliştirmesine olanak tanıyan resmi eklenti belirtimini (plugin specification) yayımladı. Bu adım, geliştiricilerin yapay zekâ destekli kod yazma deneyimini özelleştirebilir modüllerle genişletmesini sağlıyor.",
+          "meta": "TypeScript · ★ 2.973 · +149 bugün"
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Cactus Compute tarafından geliştirilen Needle, akıllı telefonlar ve giyilebilir cihazlar gibi donanımı kısıtlı sistemlerde çalışabilen 14 megabaytlık küçük bir temel model (foundation model). Bu teknoloji, yüksek işlem gücü gerektirmeyen cihazlarda yerel yapay zekâ uygulamalarının yürütülmesini sağlıyor.",
+          "meta": "Python · ★ 6.120 · +547 bugün"
+        },
+        {
+          "title": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "summary": "Unsloth, büyük dil modelleri (large language models) ve görsel oluşturma modelleri (diffusion models) için yerel ortamda eğitim ve çalıştırma imkânı sunan bir kütüphanedir. Bellek kullanımını optimize ederek popüler yapay zekâ modellerinin daha hızlı ve verimli şekilde ince ayar (fine-tuning) süreçlerinden geçirilmesini sağlar.",
+          "meta": "Python · ★ 72.122 · +434 bugün"
+        },
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "Public-apis, uygulama geliştiricilerin projelerinde kullanabileceği ücretsiz uygulama programlama arayüzlerini (API) kategorize edilmiş bir şekilde sunan kapsamlı bir liste. Yazılım geliştirme süreçlerinde ihtiyaç duyulan harici veri kaynaklarına erişimi kolaylaştıran merkezi bir referans noktası görevi görüyor.",
+          "meta": "Python · ★ 460.356 · +2.260 bugün"
+        },
+        {
+          "title": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "summary": "Soup, büyük dil modellerine (large language models) tek bir YAML dosyası üzerinden ince ayar (fine-tuning) yapılmasına olanak tanıyan bir Python kütüphanesi. Katman akış (layer streaming) yöntemiyle 8 milyar parametreli modelleri 4 GB belleğe sahip dizüstü bilgisayar grafik işlemcilerinde eğitebiliyor.",
+          "meta": "Python · ★ 1.729 · +297 bugün"
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "GitHub tarafından yayınlanan spec-kit, şartname odaklı geliştirme (spec-driven development) süreçlerini başlatmak için kullanılan bir Python araç setidir. Yazılım projelerinde standartlaştırılmış teknik dokümantasyon ve uygulama yapısı oluşturmayı kolaylaştırır.",
+          "meta": "Python · ★ 129.269 · +892 bugün"
+        },
+        {
+          "title": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "summary": "Holehe, girilen bir e-posta adresinin Twitter ve Instagram gibi popüler platformlarda kullanılıp kullanılmadığını sorgulayan bir Python aracıdır. Parola sıfırlama işlevlerini kullanarak ilgili e-posta ile bağlantılı hesap bilgilerini tespit eder.",
+          "meta": "Python · ★ 13.154 · +382 bugün"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice, macOS üzerinde çalışan ve sesli dikte işlemini internet bağlantısı gerektirmeden, cihaz üzerinde konuşmadan metne dönüştürme (on-device STT) teknolojisiyle gerçekleştiren bir uygulamadır. Özel olarak eğitilmiş yapay zekâ modelleriyle ses netliğini artıran bu araç, benzer işlevselliğe sahip Wispr Flow gibi servislere yerel bir alternatif sunar.",
+          "meta": "Swift · ★ 10.368 · +104 bugün"
+        },
+        {
+          "title": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "summary": "ToolJet, kurum içi araçlar, gösterge panelleri ve iş akışları oluşturmayı sağlayan açık kaynak kodlu bir uygulama geliştirme platformu. JavaScript tabanlı bu yapı, işletmelerin kendi sunucularında yapay zekâ destekli iş uygulamaları tasarlamasına olanak tanıyor.",
+          "meta": "JavaScript · ★ 39.599 · +544 bugün"
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything, komut satırı arayüzlerini (CLI) yapay zekâ ajanlarının doğrudan kullanabileceği bir formata dönüştüren bir çerçeve (framework). Yazılım araçlarını ajan uyumlu (agent-native) hâle getirerek, yapay zekâ modellerinin karmaşık sistem komutlarını daha etkili bir şekilde yönetmesini sağlıyor.",
+          "meta": "Python · ★ 47.429 · +118 bugün"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite, yapay zekâ ajanlarının tarayıcı otomasyonu süreçlerini yönetmesi için geliştirilmiş hafif bir tarayıcı aracıdır. Kullanıcıların oturum bilgilerini paylaşarak Claude Code gibi kodlama asistanlarının tarayıcı üzerinde işlem yapmasını, mevcut çalışma düzenini bozmadan sağlar.",
+          "meta": "JavaScript · ★ 11.074 · +545 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI has access to a vastly larger working memory than the human brain",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "summary": "Yapay zekâ modelleri, insan beyninin sınırlı çalışma belleğine (working memory) kıyasla çok daha geniş bir veri işleme kapasitesine sahip. Bu durum, modellerin karmaşık matematiksel problemleri çözerken insan zihninden farklı bir bilişsel süreç izlediğini gösteriyor.",
+          "meta": "447 oy · 389 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49312845",
+              "popularity": 447,
+              "engagementCount": 389
+            }
+          ]
+        },
+        {
+          "title": "Semaglutide linked to lower predicted dementia risk",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+          "summary": "Diyabet ve obezite tedavisinde kullanılan semaglutid etken maddeli ilaçların, bunama (dementia) riskini düşürebileceği tespit edildi. Yapılan klinik araştırmalar, bu ilaçların nörodejeneratif hastalıkların önlenmesinde potansiyel bir koruyucu etkisi olabileceğini gösteriyor.",
+          "meta": "382 oy · 267 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49311651",
+              "popularity": 382,
+              "engagementCount": 267
+            }
+          ]
+        },
+        {
+          "title": "Working with AI feels more like leadership than coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+          "summary": "Yazılım geliştirme süreçlerinde üretken yapay zekâ (generative AI) kullanımı, teknik kod yazımından ziyade bir ekip yönetimi becerisine evriliyor. Geliştiriciler, yapay zekâ modellerine görev tanımları yaparak ve çıktıları denetleyerek bir lider gibi iş akışını yönetiyor.",
+          "meta": "285 oy · 185 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49309451",
+              "popularity": 285,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "RISC-V: They Should Have Known Better",
+          "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+          "summary": "Açık kaynaklı işlemci mimarisi RISC-V, donanım tasarımı ve komut seti mimarisi (instruction set architecture) konusundaki karmaşıklıklar nedeniyle eleştiriliyor. Yazılım geliştiriciler, mimarinin sunduğu esnekliğin uzun vadede parçalı bir ekosisteme yol açabileceği konusunda endişelerini dile getiriyor.",
+          "meta": "261 oy · 320 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49298035",
+              "popularity": 261,
+              "engagementCount": 320
+            }
+          ]
+        },
+        {
+          "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+          "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+          "summary": "Evde uygulanabilen kene test kiti, Lyme hastalığına neden olan bakterileri hızlı bir şekilde tespit ederek teşhis sürecini hızlandırmayı amaçlıyor. Bu teknoloji, kullanıcıların keneleri laboratuvara göndermeden enfeksiyon riskini kısa sürede öğrenmelerine olanak tanıyor.",
+          "meta": "235 oy · 82 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49310682",
+              "popularity": 235,
+              "engagementCount": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Alibaba tarafından geliştirilen Qwen2.5-27B, hem görsel hem de metinsel verileri işleyebilen çok modlu (multimodal) bir yapay zekâ modelidir. Açık kaynaklı yapay zekâ modellerinin paylaşıldığı platform Hugging Face üzerinde, yüksek performanslı bir dil ve görüntü işleme aracı olarak öne çıkmaktadır.",
+          "meta": "♥ 9.864 · 91.917 indirme"
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "Hugging Face üzerinde yayımlanan Muse-Glimmer-30B, görsel ve metinsel verileri aynı anda işleyebilen çok modlu bir dil modeli (multimodal model). Model, görüntü ve metin girişlerini birleştirerek anlamlı metin çıktıları üretme yeteneği sunuyor.",
+          "meta": "♥ 1.589 · 246.454 indirme"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth tarafından optimize edilen Qwen2.5-27B modeli, düşük bellek kullanımıyla yüksek performanslı çıkarım (inference) yapılmasına olanak tanıyor. GGUF formatındaki bu dosya, büyük dil modellerini (large language models) standart tüketici donanımlarında çalıştırmayı kolaylaştırıyor.",
+          "meta": "♥ 1.262 · 867.963 indirme"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Alibaba tarafından geliştirilen Qwen3.8-2.4T-A95B, metin üretimi (text generation) odaklı büyük bir dil modeli. Çok dilli veri setleri üzerinde eğitilen bu model, karmaşık görevlerde yüksek performans sergilemeyi amaçlıyor.",
+          "meta": "♥ 976 · 6.381 indirme"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Lightricks tarafından geliştirilen LTX-2.5, durağan görselleri kısa videolara dönüştüren bir görüntüden videoya (image-to-video) modelidir. Açık kaynaklı yapay zekâ platformu HuggingFace üzerinde paylaşılan bu araç, görsel içeriklere hareket kazandırma süreçlerini kolaylaştırmayı amaçlıyor.",
+          "meta": "♥ 952 · 378.439 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Maglev: Sliding Recurrent Memory",
+          "url": "https://huggingface.co/papers/2608.02870",
+          "summary": "Maglev, sabit boyutlu bellek kullanarak kayan pencere dikkat mekanizmasını (sliding-window attention) genelleştiren yinelemeli bir dönüştürücü (recurrent Transformer) mimarisidir. Eğitim sırasında paralelleştirilebilir yapısını koruyan bu yöntem, tam dikkat (full attention) kullanan bir ön doldurucu (prefiller) ve bir kod çözücü (decoder) modelini birleştirerek uzun bağlamları yönetir.",
+          "meta": "9 beğeni · 2 yorum"
+        },
+        {
+          "title": "Thought-Level Beam Search for Reasoning",
+          "url": "https://huggingface.co/papers/2608.08020",
+          "summary": "Düşünce düzeyi ışın araması (thought-level beam search), büyük akıl yürütme modellerinde (large reasoning models) işlem gücünün en verimli şekilde kullanılmasını sağlayan bir yöntemdir. Bu yaklaşım, sabit bir donanım bütçesi dahilinde hesaplama kaynaklarını en başarılı ilerleme gösteren çözüm yollarına odaklayarak model performansını artırır.",
+          "meta": "10 beğeni · 2 yorum"
+        },
+        {
+          "title": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections",
+          "url": "https://huggingface.co/papers/2608.06914",
+          "summary": "RibAssist 3D, bilgisayarlı tomografi (CT) görüntülerinde kaburga kırıklarını tespit etmek ve üç boyutlu konumlarını belirlemek için geliştirilen bir tanı aracıdır. İki farklı açıdan alınan görüntüleri eşleştirerek kırık noktalarını yüksek doğrulukla saptar ve radyologların analiz sürecini hızlandırır.",
+          "meta": "3 beğeni · 2 yorum"
+        },
+        {
+          "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
+          "url": "https://huggingface.co/papers/2608.13391",
+          "summary": "Bağlam uyumlu damıtma (context-matched distillation), öz yinelemeli video üretimi (autoregressive video generation) süreçlerinde gecikmeyi azaltmak için geliştirilen bir yöntemdir. Bu teknik, modelin eğitim aşamasında geçmiş veriye ve kontrollere dayalı nedensellik kısıtlamalarına uymasını sağlayarak daha hızlı ve tutarlı video çıktısı üretilmesine olanak tanır.",
+          "meta": "9 beğeni · 2 yorum"
+        },
+        {
+          "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
+          "url": "https://huggingface.co/papers/2608.09158",
+          "summary": "Büyük ses-dil modelleri (LALM), insanlar tarafından duyulamayan düşük frekanslı sinyalleri işleyerek hatalı çıktılar üretebiliyor. Araştırmacılar, bu güvenlik açığını test etmek için geliştirdikleri Aralıklı Düşük Frekanslı Kilitleme (ILL) yöntemiyle modellerin işitsel girdi güvenliğini değerlendiriyor.",
+          "meta": "6 beğeni · 2 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Firefox is now the last major browser that still supports uBlock Origin",
+          "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+          "summary": "Google Chrome ve Chromium tabanlı tarayıcıların reklam engelleme eklentisi uBlock Origin desteğini sonlandırmasıyla birlikte, Firefox bu aracı tam kapasiteyle destekleyen tek büyük tarayıcı konumuna geldi. Bu durum, kullanıcıların içerik filtreleme ve gizlilik koruma tercihlerini doğrudan etkiliyor.",
+          "meta": "143 oy · 37 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still",
+              "popularity": 143,
+              "engagementCount": 37
+            }
+          ]
+        },
+        {
+          "title": "Why I remain a skeptic",
+          "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+          "summary": "Yazılım geliştirici João Barretto, büyük dil modellerinin (large language models) yazılım geliştirme süreçlerindeki güvenilirliği konusunda şüpheci yaklaşımını koruyor. Yapay zekânın kod üretimi ve hata ayıklama süreçlerinde sunduğu kolaylıkların, sistemlerin karmaşıklığını yönetme noktasında yetersiz kaldığını savunuyor.",
+          "meta": "38 oy · 39 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fooyux/why_i_remain_skeptic",
+              "popularity": 38,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "Everything is about to “go dark”",
+          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+          "summary": "İnternet trafiğinde uçtan uca şifrelemenin (end-to-end encryption) yaygınlaşması, ağ trafiğini izleyen güvenlik sistemlerinin verileri analiz etmesini zorlaştırıyor. Bu durum, ağ güvenliği ve içerik denetimi için kullanılan geleneksel yöntemlerin işlevsiz kalacağı bir dönemi işaret ediyor.",
+          "meta": "33 oy · 8 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/w5rmwi/everything_is_about_go_dark",
+              "popularity": 33,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "meta-framework",
+      "explanation": "Web siteleri oluşturmayı kolaylaştıran, temel yazılım araçlarının üzerine inşa edilmiş daha kapsamlı geliştirme platformu."
+    },
+    {
+      "term": "plugin specification",
+      "explanation": "Bir yazılıma dışarıdan eklenti yapabilmek için uyulması gereken teknik kurallar bütünü."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Çok çeşitli görevleri yerine getirebilmek için devasa verilerle eğitilmiş, yapay zekâ sistemlerinin temelini oluşturan ana model."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Gürültülü verilerden yola çıkarak yüksek kaliteli görseller veya içerikler üretebilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Genel amaçlı eğitilmiş bir yapay zekâ modelini, belirli bir konuda uzmanlaşması için küçük bir veri setiyle tekrar eğitme süreci."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan dijital köprü."
+    },
+    {
+      "term": "layer streaming",
+      "explanation": "Büyük bir verinin veya yazılım katmanının tamamının indirilmesini beklemeden, parçalar halinde anlık olarak yüklenmesi."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "Yazılım kodunu yazmaya başlamadan önce, sistemin nasıl çalışacağını belirleyen kuralları ve standartları detaylıca tanımlama yöntemi."
+    },
+    {
+      "term": "on-device STT",
+      "explanation": "İnternete ihtiyaç duymadan, konuşulan sesi doğrudan cihaz üzerinde metne dönüştüren teknoloji."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri hızlandırmak için kullanılan, hazır kod blokları ve kurallar içeren yapısal iskelet."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Sadece insan komutlarını beklemek yerine, kendi başına karar verip işlem yapabilen yapay zekâ odaklı sistem tasarımı."
+    },
+    {
+      "term": "working memory",
+      "explanation": "Yapay zekânın o anki işlem sırasında ihtiyaç duyduğu bilgileri geçici olarak sakladığı kısa süreli hafıza alanı."
+    },
+    {
+      "term": "dementia",
+      "explanation": "Beyindeki sinir hücrelerinin hasar görmesi sonucu hafıza, düşünme ve günlük yaşam becerilerinin ciddi şekilde zayıflaması durumu."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Daha önce hiç var olmayan metin, görsel veya ses gibi yeni içerikler oluşturabilen yapay zekâ türü."
+    }
+  ]
+}

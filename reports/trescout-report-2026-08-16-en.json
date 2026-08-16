@@ -1,0 +1,351 @@
+{
+  "date": "2026-08-16",
+  "editorial": "Today, in the technology world, new architectures that improve the memory capacities and reasoning abilities of large language models come to the fore. The fact that the Firefox browser maintains content blocker support brings the tension between user freedom and platform policies back to the agenda in the software world.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "summary": "Cordis is a meta-framework that brings together spatial and temporal components. This TypeScript-based tool, which enables the development of complex systems in a modular structure, allows different application parts to work in harmony with each other.",
+          "meta": "TypeScript · ★ 4,187 · +599 today"
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design offers 29 different editorial diagram templates designed to be used on the AI-powered coding tool Claude Code. These stand-alone images in HTML and SVG format take a simple and straightforward design approach rather than complex schema languages.",
+          "meta": "HTML · ★ 18,789 · +1,607 today"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Code editing tool Cursor has released its official plugin specification, allowing users to develop their own plugins. This step allows developers to extend the AI-supported coding experience with customizable modules.",
+          "meta": "TypeScript · ★ 2,973 · +149 today"
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Developed by Cactus Compute, Needle is a small 14-megabyte foundation model that can run on hardware-constrained systems such as smartphones and wearable devices. This technology enables local artificial intelligence applications to be run on devices that do not require high processing power.",
+          "meta": "Python · ★ 6,120 · +547 today"
+        },
+        {
+          "title": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "summary": "Unsloth is a library that provides training and execution of large language models and diffusion models in a local environment. By optimizing memory usage, it enables popular artificial intelligence models to be fine-tuned faster and more efficiently.",
+          "meta": "Python · ★ 72,122 · +434 today"
+        },
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "Public-apis is a comprehensive list of free application programming interfaces (APIs) that application developers can use in their projects. It serves as a central reference point that facilitates access to external data sources needed in software development processes.",
+          "meta": "Python · ★ 460,356 · +2,260 today"
+        },
+        {
+          "title": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "summary": "Soup is a Python library that allows fine-tuning of large language models via a single YAML file. It can train models with 8 billion parameters using the layer streaming method on laptop graphics processors with 4 GB memory.",
+          "meta": "Python · ★ 1,729 · +297 today"
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "Published by GitHub, spec-kit is a Python toolkit used to initiate spec-driven development processes. It makes it easier to create standardized technical documentation and application structure in software projects.",
+          "meta": "Python · ★ 129,269 · +892 today"
+        },
+        {
+          "title": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "summary": "Holehe is a Python tool that queries whether an entered email address is used on popular platforms such as Twitter and Instagram. It detects account information associated with the relevant email using password reset functions.",
+          "meta": "Python · ★ 13,154 · +382 today"
+        },
+        {
+          "title": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "summary": "FluidVoice is an application that runs on macOS and performs voice dictation using on-device speech-to-text (STT) technology, without requiring an internet connection. This tool, which improves voice clarity with specially trained artificial intelligence models, offers a local alternative to services such as Wispr Flow with similar functionality.",
+          "meta": "Swift · ★ 10,368 · +104 today"
+        },
+        {
+          "title": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "summary": "ToolJet is an open source application development platform that allows creating in-house tools, dashboards and workflows. This JavaScript-based structure allows businesses to design artificial intelligence-supported business applications on their own servers.",
+          "meta": "JavaScript · ★ 39,599 · +544 today"
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything is a framework that converts command line interfaces (CLI) into a format that artificial intelligence agents can directly use. By making software tools agent-native, it enables artificial intelligence models to manage complex system commands more effectively.",
+          "meta": "Python · ★ 47,429 · +118 today"
+        },
+        {
+          "title": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "summary": "Ego-lite is a lightweight browser tool developed for AI agents to manage browser automation processes. By sharing users' login information, it allows coding assistants such as Claude Code to perform operations on the browser without disrupting the current working order.",
+          "meta": "JavaScript · ★ 11,074 · +545 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI has access to a vastly larger working memory than the human brain",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "summary": "Artificial intelligence models have a much larger data processing capacity compared to the limited working memory of the human brain. This shows that models follow a different cognitive process than the human mind when solving complex mathematical problems.",
+          "meta": "447 points · 389 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49312845",
+              "popularity": 447,
+              "engagementCount": 389
+            }
+          ]
+        },
+        {
+          "title": "Semaglutide linked to lower predicted dementia risk",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+          "summary": "It has been determined that drugs containing the active ingredient semaglutide, used in the treatment of diabetes and obesity, can reduce the risk of dementia. Clinical studies show that these drugs may have a potential protective effect in preventing neurodegenerative diseases.",
+          "meta": "382 points · 267 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49311651",
+              "popularity": 382,
+              "engagementCount": 267
+            }
+          ]
+        },
+        {
+          "title": "Working with AI feels more like leadership than coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+          "summary": "The use of generative artificial intelligence (generative AI) in software development processes is evolving into a team management skill rather than technical code writing. Developers manage the workflow like a leader by defining tasks to artificial intelligence models and monitoring the outputs.",
+          "meta": "285 points · 185 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49309451",
+              "popularity": 285,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "RISC-V: They Should Have Known Better",
+          "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+          "summary": "The open source processor architecture RISC-V has been criticized for complexities in hardware design and instruction set architecture. Software developers express concerns that the flexibility offered by the architecture could lead to a fragmented ecosystem in the long run.",
+          "meta": "261 points · 320 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49298035",
+              "popularity": 261,
+              "engagementCount": 320
+            }
+          ]
+        },
+        {
+          "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+          "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+          "summary": "The tick test kit, which can be applied at home, aims to speed up the diagnosis process by quickly detecting the bacteria that cause Lyme disease. This technology allows users to quickly learn the risk of infection without sending ticks to the laboratory.",
+          "meta": "235 points · 82 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49310682",
+              "popularity": 235,
+              "engagementCount": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Developed by Alibaba, Qwen2.5-27B is a multimodal artificial intelligence model that can process both visual and textual data. It stands out as a high-performance language and image processing tool on Hugging Face, the platform where open source artificial intelligence models are shared.",
+          "meta": "♥ 9,864 · 91,917 downloads"
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "Muse-Glimmer-30B, published on Hugging Face, is a multimodal language model that can process visual and textual data simultaneously. The model offers the ability to produce meaningful text outputs by combining image and text inputs.",
+          "meta": "♥ 1,589 · 246,454 downloads"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "The Qwen2.5-27B model, optimized by Unsloth, allows high-performance inference with low memory usage. This file, in GGUF format, makes it easier to run large language models on standard consumer hardware.",
+          "meta": "♥ 1,262 · 867,963 downloads"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Developed by Alibaba, Qwen3.8-2.4T-A95B is a large language model focused on text generation. This model, trained on multilingual data sets, aims to demonstrate high performance in complex tasks.",
+          "meta": "♥ 976 · 6,381 downloads"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Developed by Lightricks, LTX-2.5 is an image-to-video model that converts still images into short videos. This tool, shared on the open source artificial intelligence platform HuggingFace, aims to facilitate the process of adding animation to visual content.",
+          "meta": "♥ 952 · 378,439 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Maglev: Sliding Recurrent Memory",
+          "url": "https://huggingface.co/papers/2608.02870",
+          "summary": "Maglev is a recurrent transformer architecture that generalizes the sliding-window attention mechanism by using fixed-size memory. This method, which maintains its parallelizable structure during training, manages long contexts by combining a prefiller and a decoder model that uses full attention.",
+          "meta": "9 likes · 2 comments"
+        },
+        {
+          "title": "Thought-Level Beam Search for Reasoning",
+          "url": "https://huggingface.co/papers/2608.08020",
+          "summary": "Thought-level beam search is a method that enables the most efficient use of processing power in large reasoning models. This approach improves model performance by focusing computational resources on the most successful solutions within a fixed hardware budget.",
+          "meta": "10 likes · 2 comments"
+        },
+        {
+          "title": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections",
+          "url": "https://huggingface.co/papers/2608.06914",
+          "summary": "RibAssist 3D is a diagnostic tool developed to detect rib fractures on computed tomography (CT) images and determine their three-dimensional location. By matching images taken from two different angles, it detects fracture points with high accuracy and accelerates the analysis process of radiologists.",
+          "meta": "3 likes · 2 comments"
+        },
+        {
+          "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
+          "url": "https://huggingface.co/papers/2608.13391",
+          "summary": "Context-matched distillation is a method developed to reduce delay in autoregressive video generation processes. This technique allows the model to comply with causality constraints based on historical data and controls during the training phase, allowing for faster and more consistent video output.",
+          "meta": "9 likes · 2 comments"
+        },
+        {
+          "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
+          "url": "https://huggingface.co/papers/2608.09158",
+          "summary": "Large audio-language models (LALM) can produce erroneous outputs by processing low-frequency signals that are inaudible to humans. Researchers evaluate the auditory input security of models with the Intermittent Low Frequency Locking (ILL) method they developed to test this vulnerability.",
+          "meta": "6 likes · 2 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Firefox is now the last major browser that still supports uBlock Origin",
+          "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+          "summary": "With Google Chrome and Chromium-based browsers discontinuing support for the ad-blocking plug-in uBlock Origin, Firefox has become the only major browser that fully supports this tool. This directly affects users' content filtering and privacy protection preferences.",
+          "meta": "143 points · 37 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still",
+              "popularity": 143,
+              "engagementCount": 37
+            }
+          ]
+        },
+        {
+          "title": "Why I remain a skeptic",
+          "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+          "summary": "Software developer João Barretto remains skeptical about the reliability of large language models in software development processes. He argues that the conveniences offered by artificial intelligence in code generation and debugging processes are insufficient to manage the complexity of systems.",
+          "meta": "38 points · 39 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fooyux/why_i_remain_skeptic",
+              "popularity": 38,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "Everything is about to “go dark”",
+          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+          "summary": "The widespread use of end-to-end encryption in Internet traffic makes it difficult for security systems that monitor network traffic to analyze data. This situation indicates a period in which traditional methods used for network security and content control will become dysfunctional.",
+          "meta": "33 points · 8 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/w5rmwi/everything_is_about_go_dark",
+              "popularity": 33,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "meta-framework",
+      "explanation": "More comprehensive development platform built on top of core software tools that make creating websites easier."
+    },
+    {
+      "term": "plugin specification",
+      "explanation": "A set of technical rules that must be followed in order to make an external add-on to a software."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "The main model that forms the basis of artificial intelligence systems, trained on huge data to perform a wide range of tasks."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Artificial intelligence technology that can produce high-quality images or content based on noisy data."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "The process of retraining a general-purpose trained artificial intelligence model on a small data set to specialize in a specific subject."
+    },
+    {
+      "term": "API",
+      "explanation": "A digital bridge that allows two different software to talk to each other and exchange data."
+    },
+    {
+      "term": "layer streaming",
+      "explanation": "Instant loading of a large data or software layer in parts, without waiting for the entire software layer to be downloaded."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "A method of defining in detail the rules and standards that determine how the system will work before starting to write the software code."
+    },
+    {
+      "term": "on-device STT",
+      "explanation": "Technology that converts spoken audio into text directly on the device, without the need for the Internet."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Text-based interface that runs programs with written commands rather than the mouse."
+    },
+    {
+      "term": "framework",
+      "explanation": "A structural framework containing ready-made code blocks and rules used to speed up software development."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Artificial intelligence-driven system design that can make decisions and take action on its own, instead of just waiting for human commands."
+    },
+    {
+      "term": "working memory",
+      "explanation": "Short-term memory area where artificial intelligence temporarily stores the information it needs during the current process."
+    },
+    {
+      "term": "dementia",
+      "explanation": "A condition in which memory, thinking and daily living skills are seriously weakened as a result of damage to nerve cells in the brain."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "A type of artificial intelligence that can create new content such as text, images or sound that has never existed before."
+    }
+  ]
+}

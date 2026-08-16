@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-16",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui ont émergé aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "summary": "Cordis est un méta-framework qui rassemble des composants spatiaux et temporels. Cet outil basé sur TypeScript, qui permet le développement de systèmes complexes dans une structure modulaire, permet aux différentes parties de l'application de fonctionner en harmonie les unes avec les autres.",
+          "meta": "TypeScript · ★ 4 187 · +599 aujourd'hui"
+        },
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "Public-apis est une liste complète d'interfaces de programmation d'applications (API) gratuites que les développeurs d'applications peuvent utiliser dans leurs projets. Il sert de point de référence central qui facilite l'accès aux sources de données externes nécessaires aux processus de développement de logiciels.",
+          "meta": "Python · ★ 460 356 · +2 260 aujourd'hui"
+        },
+        {
+          "title": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "summary": "Soup est une bibliothèque Python qui permet d'affiner de grands modèles de langage via un seul fichier YAML. Il peut entraîner des modèles avec 8 milliards de paramètres à l'aide de la méthode de streaming de couches sur des processeurs graphiques d'ordinateurs portables dotés de 4 Go de mémoire.",
+          "meta": "Python · ★ 1 729 · +297 aujourd'hui"
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything est un framework qui convertit les interfaces de ligne de commande (CLI) en un format que les agents d'intelligence artificielle peuvent directement utiliser. En rendant les outils logiciels agents natifs, il permet aux modèles d'intelligence artificielle de gérer plus efficacement les commandes système complexes.",
+          "meta": "Python · ★ 47 429 · +118 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI has access to a vastly larger working memory than the human brain",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "summary": "Les modèles d’intelligence artificielle ont une capacité de traitement de données bien plus grande que la mémoire de travail limitée du cerveau humain. Cela montre que les modèles suivent un processus cognitif différent de celui de l’esprit humain lors de la résolution de problèmes mathématiques complexes.",
+          "meta": "447 votes · 389 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49312845",
+              "popularity": 447,
+              "engagementCount": 389
+            }
+          ]
+        },
+        {
+          "title": "Semaglutide linked to lower predicted dementia risk",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+          "summary": "Il a été déterminé que les médicaments contenant l’ingrédient actif sémaglutide, utilisé dans le traitement du diabète et de l’obésité, peuvent réduire le risque de démence. Des études cliniques montrent que ces médicaments pourraient avoir un effet protecteur potentiel dans la prévention des maladies neurodégénératives.",
+          "meta": "382 votes · 267 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49311651",
+              "popularity": 382,
+              "engagementCount": 267
+            }
+          ]
+        },
+        {
+          "title": "Working with AI feels more like leadership than coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+          "summary": "L’utilisation de l’intelligence artificielle générative (IA générative) dans les processus de développement de logiciels évolue vers une compétence de gestion d’équipe plutôt que vers la rédaction de code technique. Les développeurs gèrent le flux de travail comme un leader en définissant des tâches selon des modèles d'intelligence artificielle et en surveillant les résultats.",
+          "meta": "285 votes · 185 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49309451",
+              "popularity": 285,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+          "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+          "summary": "Le kit de test de tiques, qui peut être appliqué à la maison, vise à accélérer le processus de diagnostic en détectant rapidement les bactéries responsables de la maladie de Lyme. Cette technologie permet aux utilisateurs de connaître rapidement le risque d’infection sans envoyer de tiques au laboratoire.",
+          "meta": "235 votes · 82 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49310682",
+              "popularity": 235,
+              "engagementCount": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Why I remain a skeptic",
+          "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+          "summary": "Le développeur de logiciels João Barretto reste sceptique quant à la fiabilité des grands modèles de langage dans les processus de développement de logiciels. Il soutient que les commodités offertes par l’intelligence artificielle dans les processus de génération de code et de débogage sont insuffisantes pour gérer la complexité des systèmes.",
+          "meta": "38 votes · 39 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fooyux/why_i_remain_skeptic",
+              "popularity": 38,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "Everything is about to “go dark”",
+          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+          "summary": "L'utilisation généralisée du cryptage de bout en bout dans le trafic Internet rend difficile l'analyse des données pour les systèmes de sécurité qui surveillent le trafic réseau. Cette situation indique une période au cours de laquelle les méthodes traditionnelles utilisées pour la sécurité des réseaux et le contrôle du contenu deviendront dysfonctionnelles.",
+          "meta": "33 votes · 8 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/w5rmwi/everything_is_about_go_dark",
+              "popularity": 33,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "meta-framework",
+      "explanation": "Plateforme de développement plus complète construite sur des outils logiciels de base qui facilitent la création de sites Web."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Processus de recyclage d'un modèle d'intelligence artificielle formé à usage général sur un petit ensemble de données pour se spécialiser dans un sujet spécifique."
+    },
+    {
+      "term": "API",
+      "explanation": "Un pont numérique qui permet à deux logiciels différents de se parler et d'échanger des données."
+    },
+    {
+      "term": "layer streaming",
+      "explanation": "Chargement instantané d'une couche de données ou d'un logiciel volumineux par parties, sans attendre que la couche logicielle entière soit téléchargée."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface textuelle qui exécute des programmes avec des commandes écrites plutôt qu'avec la souris."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un cadre structurel contenant des blocs de code et des règles prêts à l'emploi utilisés pour accélérer le développement de logiciels."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Conception de systèmes basés sur l'intelligence artificielle, capables de prendre des décisions et d'agir de manière autonome, au lieu de simplement attendre des commandes humaines."
+    },
+    {
+      "term": "working memory",
+      "explanation": "Zone de mémoire à court terme où l'intelligence artificielle stocke temporairement les informations dont elle a besoin pendant le processus en cours."
+    },
+    {
+      "term": "dementia",
+      "explanation": "Une condition dans laquelle la mémoire, la réflexion et les capacités de la vie quotidienne sont sérieusement affaiblies en raison de lésions des cellules nerveuses du cerveau."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Un type d'intelligence artificielle qui peut créer de nouveaux contenus tels que du texte, des images ou du son qui n'ont jamais existé auparavant."
+    }
+  ]
+}
