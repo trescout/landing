@@ -2,7 +2,7 @@
 
 PPF Contact Solver ist als Physik-Engine von ZOZO darauf ausgelegt, Kontakte zwischen Stoff, Festkörper und Seil in physikbasierten Simulationen zu lösen. Es erhöht die physikalische Konsistenz in Simulationen, indem es das Zusammenspiel verschiedener Geometrien berechnet. Dank des Blender-Plug-Ins kann es auch aus der Ferne ausgeführt werden.
 
-- ★ 4.404
+- ★ 4.427
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026

@@ -34,8 +34,8 @@ No, en proyectos muy pequeños y simples, a veces sólo los códigos básicos pu
 - [Tailwindcss](/es/discover/tailwindcss/)
 - [Nuxt](/es/discover/nuxt/)
 - [Cypress](/es/discover/cypress/)
+- [CLI-Anything](/es/discover/cli-anything/)
 - [Hyperframes](/es/discover/hyperframes/)
-- [AstrBot](/es/discover/astrbot/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/framework/

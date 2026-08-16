@@ -4,12 +4,13 @@ Supermemory , yapay zekâ çağı için tasarlanmış, yüksek ölçeklenebilir 
 
 _Görsel: supermemory (proje deposundan)_
 
-- ★ 28.742
+- ★ 28.924
 - TypeScript
 - MIT
 - GitHub Trending · 1 Haziran 2026
 
 ## Güncelleme
+- 15 Ağustos 2026: Yıldız 28.742 → 28.924, son sürüm server-v0.0.7 (15 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 23.582 → 28.742, son sürüm server-v0.0.6 (19 Temmuz 2026).
 
 - **Kimin için:** AI uygulaması geliştiren ekipler 

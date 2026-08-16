@@ -2,11 +2,12 @@
 
 Tesla araç sahipleri için geliştirilen Teslamate, verileri kendi sunucunuzda barındırmanıza olanak tanıyan bir veri kaydedici (data logger) uygulamasıdır. Elixir diliyle yazılan bu açık kaynaklı araç, sürüş geçmişi ve şarj verileri gibi detaylı istatistikleri görselleştirerek kullanıcıya sunar.
 
-- ★ 8.798
+- ★ 8.844
 - Elixir
 - GitHub Trending · 2026-06-16
 
 ## Güncelleme
+- 15 Ağustos 2026: Yıldız 8.798 → 8.844, son sürüm v4.1.1 (14 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 8.326 → 8.798, son sürüm v4.0.1 (14 Haziran 2026).
 
 ## Ne kazandırır?

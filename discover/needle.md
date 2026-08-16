@@ -2,9 +2,12 @@
 
 Cactus Compute tarafından geliştirilen Needle, telefonlar, giyilebilir cihazlar ve robotlar gibi küçük donanımlarda çalışabilen 14 MB boyutunda bir temel model (foundation model) sunuyor. Bu hafif yapı, kısıtlı işlem gücüne sahip uç cihazlarda (edge devices) yapay zekâ uygulamalarının yerel olarak çalıştırılmasını hedefliyor.
 
-- ★ 4.412
+- ★ 6.022
 - Python
 - GitHub Trending · 2026-08-13
+
+## Güncelleme
+- 15 Ağustos 2026: Yıldız 4.412 → 6.022.
 
 ## Ne kazandırır?
 - Sadece 14 MB boyutunda tek dosyalık model

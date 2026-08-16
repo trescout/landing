@@ -2,11 +2,12 @@
 
 OpenMed, sağlık hizmetleri alanında kullanılan açık kaynaklı yapay zekâ (artificial intelligence) modellerini ve veri setlerini bir araya getiren bir platformdur. Tıp odaklı uygulamalar için geliştirilen bu Python tabanlı kütüphane, sağlık verilerinin işlenmesi süreçlerini standartlaştırmayı amaçlar.
 
-- ★ 4.793
+- ★ 5.015
 - Python
 - GitHub Trending · 2026-06-10
 
 ## Güncelleme
+- 15 Ağustos 2026: Yıldız 4.793 → 5.015, son sürüm v2.1.0 (12 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 2.041 → 4.793, son sürüm v2.0.0 (28 Temmuz 2026).
 
 ## Ne kazandırır?

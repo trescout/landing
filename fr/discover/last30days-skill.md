@@ -2,7 +2,7 @@
 
 Last30days-skill propose une compétence d'intelligence artificielle (compétence d'agent IA) qui synthétise les données actuelles en recherchant sur des plateformes telles que Reddit, X, YouTube, Hacker News et Polymarket. Cet outil basé sur Python combine des informations provenant de différentes sources pour créer des résumés vérifiables pour les utilisateurs.
 
-- ★ 56 777
+- ★ 58 287
 - Python
 - GitHub Trending · 2026-06-05
 

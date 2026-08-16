@@ -32,6 +32,7 @@ Nein, Feinabstimmung ist ein permanenter Prozess; Für aktuelle Informationen is
 - [Transformers](/de/discover/transformers/)
 - [Unsloth](/de/discover/unsloth/)
 - [Ktransformers](/de/discover/ktransformers/)
+- [Soup](/de/discover/soup/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/fine-tuning/

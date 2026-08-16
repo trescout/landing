@@ -2,7 +2,7 @@
 
 Modly es una aplicación de escritorio que crea modelos 3D a partir de imágenes y realiza todas las operaciones en la tarjeta gráfica local (GPU). Esta herramienta, que funciona sin necesidad de conexión a Internet, lleva el proceso de modelado apoyado en inteligencia artificial a los ordenadores personales.
 
-- ★ 5.550
+- ★ 6.115
 - TypeScript
 - GitHub Trending · 2026-08-14
 

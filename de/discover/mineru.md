@@ -2,7 +2,7 @@
 
 MinerU konvertiert komplexe Dokumentformate wie PDF und Office in das Markdown- oder JSON-Format, das für große Sprachmodelle geeignet ist. Ziel dieses Tools ist es, unstrukturierte Daten in agentenbasierten Workflows verfügbar zu machen.
 
-- ★ 76.547
+- ★ 77.695
 - Python
 - GitHub Trending · 2026-06-26
 

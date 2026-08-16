@@ -2,7 +2,7 @@
 
 Kaneo é uma ferramenta de gerenciamento de projetos de código aberto desenvolvida com uma interface orientada ao usuário. Escrita em TypeScript, a plataforma visa criar fluxos de trabalho livres de complexidade.
 
-- ★ 8.122
+- ★ 8.308
 - TypeScript
 - GitHub Trending · 2026-08-01
 

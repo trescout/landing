@@ -2,7 +2,7 @@
 
 OpenMed é uma plataforma que reúne modelos de inteligência artificial de código aberto e conjuntos de dados utilizados na área da saúde. Desenvolvida para aplicações voltadas para a área médica, esta biblioteca baseada em Python visa padronizar os processos de processamento de dados de saúde.
 
-- ★ 4.793
+- ★ 5.015
 - Python
 - GitHub Trending · 2026-06-10
 

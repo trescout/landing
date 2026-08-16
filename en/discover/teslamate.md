@@ -2,7 +2,7 @@
 
 Developed for Tesla vehicle owners, Teslamate is a data logger application that allows you to host data on your own server. This open source tool, written in Elixir language, visualizes and presents detailed statistics such as driving history and charging data to the user.
 
-- ★ 8,798
+- ★ 8,844
 - Elixir
 - GitHub Trending · 2026-06-16
 

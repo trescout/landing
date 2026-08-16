@@ -2,7 +2,7 @@
 
 Awesome-claude-skills wird von ComposioHQ kuratiert und vereint Tools und Ressourcen zur Anpassung der Claude-KI-Workflows. Diese Liste erleichtert Entwicklern die Erstellung von Skill Packs für Claude und deren Integration in bestehende Projekte.
 
-- ★ 68.956
+- ★ 72.557
 - Python
 - GitHub Trending · 2026-07-23
 

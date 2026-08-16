@@ -34,8 +34,8 @@ Sí, pueden administrar sus archivos o ejecutar sus aplicaciones si les otorga l
 - [Awesome LLM Apps](/es/discover/awesome-llm-apps/)
 - [Agent Skills](/es/discover/agent-skills/)
 - [Taste Skill](/es/discover/taste-skill/)
-- [Ansible](/es/discover/ansible/)
 - [Agent-Reach](/es/discover/agent-reach/)
+- [Ansible](/es/discover/ansible/)
 - [Openinterpreter](/es/discover/openinterpreter/)
 
 ---

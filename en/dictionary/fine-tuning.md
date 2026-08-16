@@ -34,6 +34,7 @@ No, fine-tuning is a permanent process; It makes much more sense to use RAG for 
 - [Transformers](/en/discover/transformers/)
 - [Unsloth](/en/discover/unsloth/)
 - [Ktransformers](/en/discover/ktransformers/)
+- [Soup](/en/discover/soup/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/fine-tuning/

@@ -2,7 +2,7 @@
 
 The exercise dataset (exercises-dataset) shared by Hasaneyldrm offers 433 different fitness movements with names, target muscle groups, equipment and visual instructions. This comprehensive resource provides a structured data infrastructure for those developing sports technology applications.
 
-- ★ 18,515
+- ★ 19,692
 - HTML
 - GitHub Trending · 2026-07-01
 

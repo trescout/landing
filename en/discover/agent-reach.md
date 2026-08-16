@@ -2,7 +2,7 @@
 
 Agent-Reach is a command line interface (CLI) tool that gives AI agents the ability to scan the entire internet and read content. It provides direct access to pull data from platforms like Twitter, Reddit, and GitHub without paying any application programming interface (API) fees.
 
-- ★ 67,818
+- ★ 71,997
 - GitHub Trending · 2026-06-06
 
 ## What you get

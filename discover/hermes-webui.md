@@ -4,12 +4,13 @@ Hermes WebUI , Hermes AI ajanlarını web tarayıcısı veya mobil cihazlar üze
 
 _Görsel: Hermes WebUI (proje deposundan)_
 
-- ★ 16.850
+- ★ 17.366
 - Python
 - MIT
 - GitHub Trending · 1 Haziran 2026
 
 ## Güncelleme
+- 15 Ağustos 2026: Yıldız 16.850 → 17.366, son sürüm v0.52.113 (14 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 10.353 → 16.850, son sürüm v0.52.106 (29 Temmuz 2026).
 
 - **Kimin için:** Hermes/AI ajanı kullananlar 

@@ -2,7 +2,7 @@
 
 Next.js is a framework used to develop React-based web applications and provides features such as server-side rendering and static site generation. It is becoming a common choice among developers as it offers performance-oriented optimizations and scalable infrastructure solutions in modern web projects.
 
-- ★ 141,328
+- ★ 141,787
 - JavaScript
 - GitHub Trending · 2026-07-11
 

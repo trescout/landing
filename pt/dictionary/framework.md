@@ -34,8 +34,8 @@ Não, em projetos muito pequenos e simples, por vezes apenas códigos básicos p
 - [Tailwindcss](/pt/discover/tailwindcss/)
 - [Nuxt](/pt/discover/nuxt/)
 - [Cypress](/pt/discover/cypress/)
+- [CLI-Anything](/pt/discover/cli-anything/)
 - [Hyperframes](/pt/discover/hyperframes/)
-- [AstrBot](/pt/discover/astrbot/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/framework/

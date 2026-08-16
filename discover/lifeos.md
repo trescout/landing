@@ -2,11 +2,12 @@
 
 TypeScript ile geliştirilen LifeOS, mevcut durumunuz ile ideal durumunuz arasındaki farkı kapatmanıza yardımcı olan bir kişisel gelişim ve verimlilik aracıdır. Yapay zekâ destekli bu sistem, hem iş hem de özel hayatınızdaki hedeflere ulaşmak için kademeli iyileştirme (hill-climbing) yöntemini kullanır.
 
-- ★ 18.047
+- ★ 18.528
 - TypeScript
 - GitHub Trending · 2026-08-11
 
 ## Güncelleme
+- 15 Ağustos 2026: Yıldız 18.047 → 18.528, son sürüm v7.40.4 (14 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 18.046 → 18.047, son sürüm v7.28.3 (1 Ağustos 2026).
 
 ## Ne kazandırır?

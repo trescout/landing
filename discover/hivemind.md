@@ -2,11 +2,12 @@
 
 Activeloop tarafından geliştirilen Hivemind, tüm yapay zekâ ajanları için merkezi bir bellek ve koordinasyon katmanı (centralized memory layer) sunuyor. TypeScript tabanlı bu yapı, farklı ajanların verileri paylaşmasını ve ortak bir zekâ havuzu üzerinden iletişim kurmasını sağlıyor.
 
-- ★ 1.526
+- ★ 1.558
 - TypeScript
 - GitHub Trending · 2026-06-11
 
 ## Güncelleme
+- 15 Ağustos 2026: Yıldız 1.526 → 1.558, son sürüm v0.7.146 (14 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 985 → 1.526, son sürüm v0.7.145 (30 Temmuz 2026).
 
 ## Ne kazandırır?

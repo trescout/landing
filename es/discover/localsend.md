@@ -2,7 +2,7 @@
 
 LocalSend es una aplicación de código abierto que permite compartir archivos entre diferentes sistemas operativos. Crea una alternativa independiente de la plataforma a la función AirDrop que ofrecen los dispositivos Apple.
 
-- ★ 87.961
+- ★ 88.401
 - Dart
 - GitHub Trending · 2026-08-13
 

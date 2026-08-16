@@ -2,7 +2,7 @@
 
 Développé en langage C#, optimiseurDuck est un outil open source qui offre une augmentation des performances et des configurations axées sur la confidentialité sur les systèmes d'exploitation Windows. Ce logiciel, qui permet aux utilisateurs de simplifier les paramètres du système, rassemble les processus d'optimisation de Windows dans une seule interface.
 
-- ★ 7 672
+- ★ 8 365
 - C#
 - GitHub Trending · 2026-06-16
 

@@ -42,7 +42,7 @@ Transformers kütüphanesini kullanarak bir metin oluşturma modeli çalıştır
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Fine-tuning Pipeline API Artificial Intelligence
+Pipeline Fine-tuning API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/transformers/

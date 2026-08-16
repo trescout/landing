@@ -2,7 +2,7 @@
 
 Worldmonitor propose un tableau de bord de renseignement mondial en temps réel qui combine des fonctionnalités de compilation d'actualités basées sur l'IA et de surveillance géopolitique dans une seule interface. Cet outil, qui assure la surveillance des infrastructures et la connaissance de la situation, facilite les processus d'analyse en visualisant des flux de données complexes.
 
-- ★ 78 032
+- ★ 82 117
 - TypeScript
 - GitHub Trending · 2026-06-20
 

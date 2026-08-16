@@ -2,11 +2,12 @@
 
 Hasaneyldrm tarafından paylaşılan egzersiz veri seti (exercises-dataset), 433 farklı fitness hareketini isim, hedef kas grubu, ekipman ve görsel talimatlarla birlikte sunuyor. Bu kapsamlı kaynak, spor teknolojileri uygulamaları geliştirenler için yapılandırılmış bir veri altyapısı sağlıyor.
 
-- ★ 18.515
+- ★ 19.692
 - HTML
 - GitHub Trending · 2026-07-01
 
 ## Güncelleme
+- 15 Ağustos 2026: Yıldız 18.515 → 19.692.
 - 2 Ağustos 2026: Yıldız 7.552 → 18.515.
 
 ## Ne kazandırır?

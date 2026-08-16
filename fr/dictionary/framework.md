@@ -34,8 +34,8 @@ Non, dans des projets très petits et simples, seuls des codes de base peuvent p
 - [Tailwindcss](/fr/discover/tailwindcss/)
 - [Nuxt](/fr/discover/nuxt/)
 - [Cypress](/fr/discover/cypress/)
+- [CLI-Anything](/fr/discover/cli-anything/)
 - [Hyperframes](/fr/discover/hyperframes/)
-- [AstrBot](/fr/discover/astrbot/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/framework/

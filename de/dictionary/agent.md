@@ -34,8 +34,8 @@ Ja, sie können Ihre Dateien verwalten oder Ihre Anwendungen ausführen, wenn Si
 - [Awesome LLM Apps](/de/discover/awesome-llm-apps/)
 - [Agent Skills](/de/discover/agent-skills/)
 - [Taste Skill](/de/discover/taste-skill/)
-- [Ansible](/de/discover/ansible/)
 - [Agent-Reach](/de/discover/agent-reach/)
+- [Ansible](/de/discover/ansible/)
 - [Openinterpreter](/de/discover/openinterpreter/)
 
 ---

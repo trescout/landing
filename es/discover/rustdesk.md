@@ -2,7 +2,7 @@
 
 Desarrollada con Rust, RustDesk es una aplicación de escritorio remoto de código abierto que puedes alojar en tu propio servidor. Al ofrecer acceso y control remotos, este software crea una solución alternativa a los servicios pagos como TeamViewer.
 
-- ★ 120.685
+- ★ 120.872
 - Rust
 - GitHub Trending · 2026-08-15
 

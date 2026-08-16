@@ -2,7 +2,7 @@
 
 Puppeteer is a browser automation library used to control Chrome and Firefox browsers. Developed with TypeScript, this tool offers a standard interface for test automation and web scraping operations on web pages.
 
-- ★ 95,441
+- ★ 95,460
 - GitHub Trending · 2026-06-15
 
 ## What you get

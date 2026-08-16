@@ -6022,5 +6022,77 @@
     "kisa_pt": "É um formato de dados que representa números em um espaço menor para acelerar os cálculos de inteligência artificial.",
     "kisa_es": "Es un formato de datos que representa números en un espacio más pequeño para acelerar los cálculos de la inteligencia artificial.",
     "kisa_de": "Es handelt sich um ein Datenformat, das Zahlen auf kleinerem Raum darstellt, um Berechnungen der künstlichen Intelligenz zu beschleunigen."
+  },
+  {
+    "slug": "generative-model",
+    "en": "Generative Model",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yeni ve özgün içerikler oluşturabilen yapay zekâ modelleridir.",
+    "kisa_en": "They are artificial intelligence models that can create new and original content.",
+    "kisa_fr": "Ce sont des modèles d’intelligence artificielle capables de créer du contenu nouveau et original.",
+    "kisa_pt": "São modelos de inteligência artificial que podem criar conteúdos novos e originais.",
+    "kisa_es": "Son modelos de inteligencia artificial que pueden crear contenidos nuevos y originales.",
+    "kisa_de": "Es handelt sich um Modelle der künstlichen Intelligenz, die neue und originelle Inhalte erstellen können."
+  },
+  {
+    "slug": "meta-framework",
+    "en": "Meta-framework",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Temel yazılım araçlarının üzerine inşa edilen, kapsamlı geliştirme platformudur.",
+    "kisa_en": "It is a comprehensive development platform built on core software tools.",
+    "kisa_fr": "Il s'agit d'une plate-forme de développement complète construite sur des outils logiciels de base.",
+    "kisa_pt": "É uma plataforma de desenvolvimento abrangente baseada em ferramentas básicas de software.",
+    "kisa_es": "Es una plataforma de desarrollo integral construida sobre herramientas de software centrales.",
+    "kisa_de": "Es handelt sich um eine umfassende Entwicklungsplattform, die auf Kernsoftwaretools basiert."
+  },
+  {
+    "slug": "layer-streaming",
+    "en": "Layer Streaming",
+    "full": "",
+    "cat": "data",
+    "kisa": "Büyük verilerin veya yazılım katmanlarının tamamı inmeden parça parça işlenmeye başlanmasıdır.",
+    "kisa_en": "It is the process of starting to process big data or software layers piece by piece before all of them are downloaded.",
+    "kisa_fr": "Il s’agit du processus consistant à commencer à traiter le Big Data ou les couches logicielles pièce par pièce avant qu’elles ne soient toutes téléchargées.",
+    "kisa_pt": "É o processo de começar a processar big data ou camadas de software, peça por peça, antes que todas elas sejam baixadas.",
+    "kisa_es": "Es el proceso de comenzar a procesar capas de big data o software pieza por pieza antes de descargarlas todas.",
+    "kisa_de": "Dabei handelt es sich um den Prozess, bei dem begonnen wird, große Datenmengen oder Softwareschichten Stück für Stück zu verarbeiten, bevor sie alle heruntergeladen werden."
+  },
+  {
+    "slug": "on-device-stt",
+    "en": "On-device STT",
+    "full": "On-device Speech-to-Text",
+    "cat": "ai",
+    "kisa": "İnternet gerekmeden, sesi doğrudan cihaz üzerinde metne dönüştüren teknolojidir.",
+    "kisa_en": "It is a technology that converts audio into text directly on the device, without the need for internet.",
+    "kisa_fr": "Il s'agit d'une technologie qui convertit l'audio en texte directement sur l'appareil, sans avoir besoin d'Internet.",
+    "kisa_pt": "É uma tecnologia que converte áudio em texto diretamente no aparelho, sem necessidade de internet.",
+    "kisa_es": "Es una tecnología que convierte audio en texto directamente en el dispositivo, sin necesidad de internet.",
+    "kisa_de": "Es handelt sich um eine Technologie, die Audio direkt auf dem Gerät in Text umwandelt, ohne dass eine Internetverbindung erforderlich ist."
+  },
+  {
+    "slug": "agent-native",
+    "en": "Agent-native",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Sistemlerin insan komutu beklemeden, özerk karar alacak şekilde tasarlanmasıdır.",
+    "kisa_en": "Systems are designed to make autonomous decisions without waiting for human commands.",
+    "kisa_fr": "Les systèmes sont conçus pour prendre des décisions autonomes sans attendre les commandes humaines.",
+    "kisa_pt": "Os sistemas são projetados para tomar decisões autônomas sem esperar por comandos humanos.",
+    "kisa_es": "Los sistemas están diseñados para tomar decisiones autónomas sin esperar órdenes humanas.",
+    "kisa_de": "Systeme sind darauf ausgelegt, autonome Entscheidungen zu treffen, ohne auf menschliche Befehle warten zu müssen."
+  },
+  {
+    "slug": "working-memory",
+    "en": "Working Memory",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın işlem sırasında bilgileri geçici olarak tuttuğu kısa süreli hafıza alanıdır.",
+    "kisa_en": "It is the short-term memory area where artificial intelligence temporarily keeps information during processing.",
+    "kisa_fr": "Il s’agit de la zone de mémoire à court terme où l’intelligence artificielle conserve temporairement les informations pendant leur traitement.",
+    "kisa_pt": "É a área da memória de curto prazo onde a inteligência artificial mantém temporariamente as informações durante o processamento.",
+    "kisa_es": "Es el área de la memoria a corto plazo donde la inteligencia artificial guarda temporalmente la información durante el procesamiento.",
+    "kisa_de": "Es handelt sich um den Bereich des Kurzzeitgedächtnisses, in dem künstliche Intelligenz Informationen während der Verarbeitung vorübergehend speichert."
   }
 ]

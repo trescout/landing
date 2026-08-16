@@ -2,7 +2,7 @@
 
 Claude-video est un outil Python qui donne au modèle Claude la possibilité d'analyser le contenu vidéo. En téléchargeant des vidéos, en les divisant en images et en les convertissant en texte (transcription), le logiciel amène les données visuelles dans un format que le modèle d'intelligence artificielle peut traiter.
 
-- ★ 14 427
+- ★ 15 503
 - Python
 - GitHub Trending · 2026-07-07
 

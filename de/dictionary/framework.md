@@ -34,8 +34,8 @@ Nein, bei sehr kleinen und einfachen Projekten reichen manchmal nur einfache Cod
 - [Tailwindcss](/de/discover/tailwindcss/)
 - [Nuxt](/de/discover/nuxt/)
 - [Cypress](/de/discover/cypress/)
+- [CLI-Anything](/de/discover/cli-anything/)
 - [Hyperframes](/de/discover/hyperframes/)
-- [AstrBot](/de/discover/astrbot/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/framework/

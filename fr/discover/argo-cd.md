@@ -2,7 +2,7 @@
 
 Argo CD est un outil qui gère les processus de déploiement continu déclaratif pour les environnements Kubernetes. Il fournit des mises à jour automatiques sur l'infrastructure en synchronisant les états des applications avec les référentiels Git.
 
-- ★ 23 853
+- ★ 23 927
 - Go
 - GitHub Trending · 2026-07-09
 

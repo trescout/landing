@@ -37,7 +37,7 @@ Sim, mas os usados ​​para IA costumam ser modelos profissionais equipados co
 - [Cupy](/pt/discover/cupy/)
 - [Train LLM from Scratch](/pt/discover/train-llm-from-scratch/)
 - [Terax AI](/pt/discover/terax-ai/)
-- [Meshoptimizer](/pt/discover/meshoptimizer/)
+- [optimizerDuck](/pt/discover/optimizerduck/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/gpu/

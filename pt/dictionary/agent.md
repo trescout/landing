@@ -34,8 +34,8 @@ Sim, eles podem gerenciar seus arquivos ou executar seus aplicativos se você co
 - [Awesome LLM Apps](/pt/discover/awesome-llm-apps/)
 - [Agent Skills](/pt/discover/agent-skills/)
 - [Taste Skill](/pt/discover/taste-skill/)
-- [Ansible](/pt/discover/ansible/)
 - [Agent-Reach](/pt/discover/agent-reach/)
+- [Ansible](/pt/discover/ansible/)
 - [Openinterpreter](/pt/discover/openinterpreter/)
 
 ---

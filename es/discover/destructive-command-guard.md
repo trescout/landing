@@ -2,7 +2,7 @@
 
 Destructivo Command Guard es una capa de seguridad desarrollada para evitar comandos peligrosos de git y shell ejecutados por agentes de inteligencia artificial. Escrita en Rust, esta herramienta reduce los riesgos de pérdida de datos no deseados o daños al sistema al auditar los procesos de ejecución de comandos a nivel del sistema.
 
-- ★ 5.678
+- ★ 5.761
 - Rust
 - GitHub Trending · 2026-07-13
 

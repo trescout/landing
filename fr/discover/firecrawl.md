@@ -2,7 +2,7 @@
 
 Firecrawl propose une interface (API) pour explorer les données des sites Web à grande échelle, les extraire et les convertir dans un format de texte clair que les modèles d'IA peuvent traiter. Cet outil simplifie les processus de collecte de données en automatisant l'interaction avec le contenu Web.
 
-- ★ 159 421
+- ★ 167 766
 - TypeScript
 - GitHub Trending · 2026-06-23
 

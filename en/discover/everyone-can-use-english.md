@@ -2,7 +2,7 @@
 
 Everyone-can-use-english is an open source educational project that supports the English learning process with a structured curriculum. It offers practical methods and study resources for users who want to improve their language skills.
 
-- ★ 36,233
+- ★ 36,451
 - TypeScript
 - GitHub Trending · 2026-08-13
 

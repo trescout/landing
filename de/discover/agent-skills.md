@@ -2,7 +2,7 @@
 
 Diese Bibliothek wurde für Codieragenten für künstliche Intelligenz entwickelt und bietet technische Fähigkeiten auf Produktionsebene. Es stellt standardisierte Tools zur Verfügung, um die technische Kapazität von Agenten zu erhöhen, die Softwareentwicklungsprozesse automatisieren.
 
-- ★ 85.857
+- ★ 87.477
 - Shell
 - GitHub Trending · 2026-06-10
 

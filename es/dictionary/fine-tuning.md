@@ -32,6 +32,7 @@ No, el ajuste es un proceso permanente; Tiene mucho más sentido utilizar RAG pa
 - [Transformers](/es/discover/transformers/)
 - [Unsloth](/es/discover/unsloth/)
 - [Ktransformers](/es/discover/ktransformers/)
+- [Soup](/es/discover/soup/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/fine-tuning/

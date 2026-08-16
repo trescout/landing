@@ -2,7 +2,7 @@
 
 Développé pour rendre la sortie des agents de codage plus ciblée et organisée, i-have-adhd améliore l'expérience utilisateur en divisant les réponses complexes en plusieurs parties. Cette compétence basée sur Python standardise la présentation des informations par l'IA dans un format compatible avec le trouble déficitaire de l'attention avec hyperactivité (TDAH).
 
-- ★ 19 772
+- ★ 20 830
 - Python
 - GitHub Trending · 2026-07-22
 

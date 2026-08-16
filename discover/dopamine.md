@@ -2,11 +2,12 @@
 
 Dopamine, iOS 15 ile 16.6.1 sürümleri arasındaki cihazlar için geliştirilen yarı bağımsız bir jailbreak aracıdır. Kullanıcılara, sistem kısıtlamalarını aşarak cihaz üzerinde yönetici yetkileriyle özelleştirme yapma imkânı tanır.
 
-- ★ 6.086
+- ★ 6.273
 - C
 - GitHub Trending · 2026-08-11
 
 ## Güncelleme
+- 15 Ağustos 2026: Yıldız 6.086 → 6.273, son sürüm 3.0.7 (15 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 6.086 → 6.086, son sürüm 3.0.4 (9 Ağustos 2026).
 
 ## Ne kazandırır?

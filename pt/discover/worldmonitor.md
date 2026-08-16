@@ -2,7 +2,7 @@
 
 Worldmonitor oferece um painel de inteligência global em tempo real que combina compilação de notícias com tecnologia de IA e recursos de monitoramento geopolítico em uma única interface. Essa ferramenta, que fornece monitoramento da infraestrutura e consciência situacional, facilita os processos de análise ao visualizar fluxos de dados complexos.
 
-- ★ 78.032
+- ★ 82.117
 - TypeScript
 - GitHub Trending · 2026-06-20
 

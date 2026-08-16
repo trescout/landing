@@ -2,7 +2,7 @@
 
 Desenvolvido pelo Google, Angular é uma estrutura abrangente usada para criar aplicativos web escalonáveis. Com sua estrutura baseada em TypeScript, oferece ferramentas que padronizam e estruturam o processo de desenvolvimento em projetos complexos.
 
-- ★ 100.955
+- ★ 101.009
 - TypeScript
 - GitHub Trending · 2026-08-05
 

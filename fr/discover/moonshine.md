@@ -2,7 +2,7 @@
 
 Moonshine offre des capacités de synthèse vocale à faible latence, de reconnaissance d'intention et de synthèse vocale pour les interfaces vocales et les agents d'intelligence artificielle. Cette bibliothèque, développée en langage C++, a pour objectif d'optimiser les processus de traitement audio en temps réel.
 
-- ★ 10 671
+- ★ 10 853
 - C++
 - GitHub Trending · 2026-07-21
 

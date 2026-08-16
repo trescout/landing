@@ -2,7 +2,7 @@
 
 MemPalace ofrece un sistema de memoria de código abierto para modelos de inteligencia artificial. El sistema incluye herramientas optimizadas para medir y mejorar el rendimiento de la memoria contextual de modelos de lenguaje grandes.
 
-- ★ 58.311
+- ★ 58.390
 - Python
 - GitHub Trending · 2026-06-06
 

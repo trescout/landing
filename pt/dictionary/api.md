@@ -31,14 +31,14 @@ Uma vez que só permite a partilha de dados permitidos, abre apenas a parte rele
 - [Data Pipeline](/pt/dictionary/data-pipeline/)
 
 ## Ferramentas relacionadas
-- [Transformers](/pt/discover/transformers/)
+- [Public Apis](/pt/discover/public-apis/)
 - [Firecrawl](/pt/discover/firecrawl/)
+- [Transformers](/pt/discover/transformers/)
 - [Langflow](/pt/discover/langflow/)
 - [ComfyUI](/pt/discover/comfyui/)
 - [Supabase](/pt/discover/supabase/)
 - [MoneyPrinterTurbo](/pt/discover/moneyprinterturbo/)
 - [TradingAgents](/pt/discover/tradingagents/)
-- [MiroFish](/pt/discover/mirofish/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/api/

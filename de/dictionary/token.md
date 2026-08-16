@@ -32,9 +32,9 @@ Da Computer Zahlen und keine Wörter verstehen, müssen wir den Text in ein math
 - [OmniRoute](/de/discover/omniroute/)
 - [Codebase Memory MCP](/de/discover/codebase-memory-mcp/)
 - [Code Review Graph](/de/discover/code-review-graph/)
-- [Open Code Review](/de/discover/open-code-review/)
-- [Book to Skill](/de/discover/book-to-skill/)
 - [TencentDB-Agent-Memory](/de/discover/tencentdb-agent-memory/)
+- [Book to Skill](/de/discover/book-to-skill/)
+- [Open Code Review](/de/discover/open-code-review/)
 - [LMCache](/de/discover/lmcache/)
 
 ---

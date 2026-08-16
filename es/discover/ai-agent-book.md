@@ -2,7 +2,7 @@
 
 Este libro de código abierto sobre agentes de inteligencia artificial (agentes de IA) cubre de manera integral los principios de diseño y las aplicaciones de ingeniería. Además de la información teórica, incluye códigos de aplicación divididos en secciones y archivos PDF compilados.
 
-- ★ 34.874
+- ★ 37.602
 - Python
 - GitHub Trending · 2026-07-20
 

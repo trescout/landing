@@ -2,7 +2,7 @@
 
 TencentDB Agent Memory bietet eine vollständig lokale Langzeitspeicherlösung für Agenten der künstlichen Intelligenz mit einem vierstufigen Prozess. Es führt Datenspeicherungs- und -abrufvorgänge aus, ohne dass externe Anwendungsprogrammierschnittstellen (APIs) erforderlich sind.
 
-- ★ 20.021
+- ★ 21.959
 - TypeScript
 - GitHub Trending · 2026-07-09
 

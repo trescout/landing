@@ -2,9 +2,12 @@
 
 RAGFlow, büyük dil modelleri (LLM) için bağlam katmanı oluşturan açık kaynaklı bir getirme temelli üretim (RAG) motoru. Gelişmiş RAG tekniklerini ajan yetenekleriyle birleştirerek verilerin işlenmesini ve yanıtların doğruluğunu artırmayı hedefliyor.
 
-- ★ 87.648
+- ★ 88.549
 - Go
 - GitHub Trending · 2026-08-13
+
+## Güncelleme
+- 15 Ağustos 2026: Yıldız 87.648 → 88.549, son sürüm v0.26.4 (7 Temmuz 2026).
 
 ## Ne kazandırır?
 - Karmaşık belgelerden yüksek doğrulukla bilgi çıkarır.

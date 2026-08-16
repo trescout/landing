@@ -2,7 +2,7 @@
 
 Supermemory oferece um mecanismo de memória altamente escalável e uma API projetada para a era da inteligência artificial. Ele permite adicionar uma camada de memória persistente e consultável aos seus aplicativos.
 
-- ★ 28.742
+- ★ 28.924
 - TypeScript
 - MIT
 - GitHub Trending · 1 Haziran 2026

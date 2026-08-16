@@ -2,7 +2,7 @@
 
 DeepTutor é um sistema de aulas particulares baseado em aprendizagem ao longo da vida que oferece processos educacionais personalizados usando dados de alunos. O projeto visa otimizar a experiência de aprendizagem com métodos de tutoria individualizados apoiados por inteligência artificial.
 
-- ★ 33.415
+- ★ 35.776
 - Python
 - GitHub Trending · 2026-07-16
 

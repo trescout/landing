@@ -32,6 +32,7 @@ Non, la mise au point est un processus permanent ; Il est beaucoup plus logique 
 - [Transformers](/fr/discover/transformers/)
 - [Unsloth](/fr/discover/unsloth/)
 - [Ktransformers](/fr/discover/ktransformers/)
+- [Soup](/fr/discover/soup/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/fine-tuning/

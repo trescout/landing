@@ -31,14 +31,14 @@ Da es nur die Weitergabe zulässiger Daten ermöglicht, öffnet es nur den relev
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
 ## Verwandte Werkzeuge
-- [Transformers](/de/discover/transformers/)
+- [Public Apis](/de/discover/public-apis/)
 - [Firecrawl](/de/discover/firecrawl/)
+- [Transformers](/de/discover/transformers/)
 - [Langflow](/de/discover/langflow/)
 - [ComfyUI](/de/discover/comfyui/)
 - [Supabase](/de/discover/supabase/)
 - [MoneyPrinterTurbo](/de/discover/moneyprinterturbo/)
 - [TradingAgents](/de/discover/tradingagents/)
-- [MiroFish](/de/discover/mirofish/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/api/

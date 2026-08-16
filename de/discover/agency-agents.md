@@ -2,7 +2,7 @@
 
 Das Projekt Agency-Agents schafft eine digitale Agenturstruktur, indem es Agenten der künstlichen Intelligenz mit unterschiedlichen Fachgebieten zusammenbringt. Es ermöglicht die Verwaltung von Prozessen wie Softwareentwicklung, Inhaltserstellung und Datenüberprüfung durch spezielle Charaktere und Arbeitsabläufe.
 
-- ★ 138.170
+- ★ 145.612
 - Shell
 - GitHub Trending · 2026-06-12
 

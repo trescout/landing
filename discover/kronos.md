@@ -4,12 +4,13 @@ Kronos , finansal piyasaların kendine has örüntülerini çözümlemek için t
 
 _Görsel: Kronos (proje deposundan)_
 
-- ★ 35.441
+- ★ 37.285
 - Python
 - MIT
 - GitHub Trending · 28 May 2026
 
 ## Güncelleme
+- 15 Ağustos 2026: Yıldız 35.441 → 37.285.
 - 2 Ağustos 2026: Yıldız 26.888 → 35.441.
 
 - **Kimin için:** Quant / ML araştırmacıları, finans-veri çalışanları 

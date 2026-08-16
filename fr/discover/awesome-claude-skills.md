@@ -2,7 +2,7 @@
 
 Organisé par ComposioHQ, Awesome-claude-skills rassemble des outils et des ressources pour personnaliser les flux de travail Claude AI. Cette liste permet aux développeurs de créer plus facilement des packs de compétences pour Claude et de les intégrer dans des projets existants.
 
-- ★ 68 956
+- ★ 72 557
 - Python
 - GitHub Trending · 2026-07-23
 

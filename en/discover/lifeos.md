@@ -2,7 +2,7 @@
 
 Developed with TypeScript, LifeOS is a personal development and productivity tool that helps you close the gap between your current state and your ideal state. This artificial intelligence-supported system uses the gradual improvement (hill-climbing) method to achieve goals in both your business and private life.
 
-- ★ 18,047
+- ★ 18,528
 - TypeScript
 - GitHub Trending · 2026-08-11
 

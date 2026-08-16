@@ -2,7 +2,7 @@
 
 A diferencia de los marcos tradicionales, Svelte utiliza un enfoque en tiempo de compilación que reduce la sobrecarga del tiempo de ejecución en el navegador. Esta biblioteca de JavaScript simplifica los procesos de desarrollo web al convertir el código de la aplicación en módulos de JavaScript puro, pequeños y de rápida ejecución.
 
-- ★ 87.724
+- ★ 87.958
 - GitHub Trending · 2026-06-07
 
 ## Qué aporta

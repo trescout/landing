@@ -2,7 +2,7 @@
 
 Le projet Agency-agents crée une structure d’agence digitale en réunissant des agents d’intelligence artificielle avec différents domaines d’expertise. Il permet de gérer des processus tels que le développement de logiciels, la production de contenu et la vérification des données via des personnages et des flux de travail spécialisés.
 
-- ★ 138 170
+- ★ 145 612
 - Shell
 - GitHub Trending · 2026-06-12
 

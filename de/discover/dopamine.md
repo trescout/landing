@@ -2,7 +2,7 @@
 
 Dopamin ist ein halbunabhängiges Jailbreak-Tool, das für Geräte mit iOS 15 bis 16.6.1 entwickelt wurde. Es ermöglicht Benutzern, das Gerät mit Administratorrechten anzupassen und Systembeschränkungen zu umgehen.
 
-- ★ 6.086
+- ★ 6.273
 - C
 - GitHub Trending · 2026-08-11
 

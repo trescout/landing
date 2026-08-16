@@ -2,7 +2,7 @@
 
 Everyone-can-use-english es un proyecto educativo de código abierto que respalda el proceso de aprendizaje del inglés con un plan de estudios estructurado. Ofrece métodos prácticos y recursos de estudio para usuarios que quieran mejorar sus habilidades lingüísticas.
 
-- ★ 36.233
+- ★ 36.451
 - TypeScript
 - GitHub Trending · 2026-08-13
 

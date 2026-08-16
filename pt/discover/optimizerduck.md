@@ -2,7 +2,7 @@
 
 Desenvolvido em linguagem C#, o OptimizerDuck é uma ferramenta de código aberto que oferece aumento de desempenho e configurações voltadas para a privacidade em sistemas operacionais Windows. Este software, que permite aos usuários simplificar as configurações do sistema, reúne os processos de otimização do Windows em uma única interface.
 
-- ★ 7.672
+- ★ 8.365
 - C#
 - GitHub Trending · 2026-06-16
 

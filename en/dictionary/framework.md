@@ -36,8 +36,8 @@ No, in very small and simple projects, sometimes only basic codes may be suffici
 - [Tailwindcss](/en/discover/tailwindcss/)
 - [Nuxt](/en/discover/nuxt/)
 - [Cypress](/en/discover/cypress/)
+- [CLI-Anything](/en/discover/cli-anything/)
 - [Hyperframes](/en/discover/hyperframes/)
-- [AstrBot](/en/discover/astrbot/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/framework/
