@@ -2,7 +2,7 @@
 
 Soup ist eine Python-Bibliothek, die die Feinabstimmung großer Sprachmodelle über eine einzige YAML-Datei ermöglicht. Es kann Modelle mit 8 Milliarden Parametern mithilfe der Layer-Streaming-Methode auf Laptop-Grafikprozessoren mit 4 GB Speicher trainieren.
 
-- ★ 1.729
+- ★ 1.739
 - Python
 - GitHub Trending · 2026-08-16
 

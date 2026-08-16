@@ -6094,5 +6094,17 @@
     "kisa_pt": "É a área da memória de curto prazo onde a inteligência artificial mantém temporariamente as informações durante o processamento.",
     "kisa_es": "Es el área de la memoria a corto plazo donde la inteligencia artificial guarda temporalmente la información durante el procesamiento.",
     "kisa_de": "Es handelt sich um den Bereich des Kurzzeitgedächtnisses, in dem künstliche Intelligenz Informationen während der Verarbeitung vorübergehend speichert."
+  },
+  {
+    "slug": "dementia",
+    "en": "Dementia",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Beyindeki sinir hücrelerinin hasar görmesiyle hafıza, düşünme ve günlük yaşam becerilerinin ciddi şekilde zayıfladığı bir durumdur.",
+    "kisa_en": "It is a condition in which memory, thinking and daily living skills are severely weakened due to damage to nerve cells in the brain.",
+    "kisa_fr": "Il s’agit d’une condition dans laquelle la mémoire, la réflexion et les capacités de la vie quotidienne sont gravement affaiblies en raison de lésions des cellules nerveuses du cerveau.",
+    "kisa_pt": "É uma condição na qual a memória, o pensamento e as habilidades da vida diária ficam gravemente enfraquecidas devido a danos nas células nervosas do cérebro.",
+    "kisa_es": "Es una afección en la que la memoria, el pensamiento y las habilidades de la vida diaria se ven gravemente debilitados debido al daño a las células nerviosas del cerebro.",
+    "kisa_de": "Es handelt sich um eine Erkrankung, bei der das Gedächtnis, das Denken und die Alltagsfähigkeiten aufgrund einer Schädigung der Nervenzellen im Gehirn stark geschwächt sind."
   }
 ]

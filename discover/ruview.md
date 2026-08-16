@@ -4,12 +4,13 @@ RuView , sıradan WiFi sinyallerini kullanarak kamera olmadan gerçek zamanlı m
 
 _Görsel: RuView (proje deposundan)_
 
-- ★ 89.705
+- ★ 90.296
 - Rust
 - MIT
 - GitHub Trending · 30 May 2026
 
 ## Güncelleme
+- 16 Ağustos 2026: Yıldız 89.705 → 90.296, son sürüm v2262 (16 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 88.270 → 89.705, son sürüm v2235 (11 Ağustos 2026).
 - 3 Ağustos 2026: Yıldız 88.185 → 88.270, son sürüm v2146 (2 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 68.643 → 88.185, son sürüm v2143 (2 Ağustos 2026).

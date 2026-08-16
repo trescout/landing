@@ -7,10 +7,10 @@ CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) gelişt
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
+- 16 Ağustos 2026: Yıldız 36.783 → 36.783, son sürüm python-sdk/v0.1.95 (16 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 36.678 → 36.783, son sürüm v1.68.1 (14 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 36.582 → 36.678, son sürüm v1.67.1 (10 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 36.508 → 36.582, son sürüm v1.66.4 (7 Ağustos 2026).
-- 6 Ağustos 2026: Yıldız 36.438 → 36.508, son sürüm v1.66.2 (4 Ağustos 2026).
 
 ## Ne kazandırır?
 - Uygulamalara dinamik ve akıllı arayüzler ekler.

@@ -34,8 +34,8 @@ Ja, aber die Aufnahme von Änderungen in das Hauptprojekt hängt in der Regel vo
 - [Claude Code](/de/discover/claude-code/)
 - [MoneyPrinterTurbo](/de/discover/moneyprinterturbo/)
 - [claude-mem](/de/discover/claude-mem/)
-- [Opencv](/de/discover/opencv/)
 - [RuView](/de/discover/ruview/)
+- [Opencv](/de/discover/opencv/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/open-source/

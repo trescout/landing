@@ -34,8 +34,8 @@ Oui, mais l'inclusion de modifications dans le projet principal dépend généra
 - [Claude Code](/fr/discover/claude-code/)
 - [MoneyPrinterTurbo](/fr/discover/moneyprinterturbo/)
 - [claude-mem](/fr/discover/claude-mem/)
-- [Opencv](/fr/discover/opencv/)
 - [RuView](/fr/discover/ruview/)
+- [Opencv](/fr/discover/opencv/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/open-source/

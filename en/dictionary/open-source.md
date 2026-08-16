@@ -36,8 +36,8 @@ Yes, but the inclusion of changes in the main project usually depends on the app
 - [Claude Code](/en/discover/claude-code/)
 - [MoneyPrinterTurbo](/en/discover/moneyprinterturbo/)
 - [claude-mem](/en/discover/claude-mem/)
-- [Opencv](/en/discover/opencv/)
 - [RuView](/en/discover/ruview/)
+- [Opencv](/en/discover/opencv/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/open-source/

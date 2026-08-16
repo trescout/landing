@@ -902,14 +902,14 @@
     "slug": "compound-engineering-plugin",
     "title": "Compound Engineering",
     "tagline": "Her işin bir sonrakini kolaylaştırdığı, AI destekli mühendislik eklentisi (Claude Code/Codex/Cursor).",
-    "meta": "★ 24.046 · MIT",
+    "meta": "★ 24.300 · MIT",
     "source": "GitHub",
     "date": "2026-05-29",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 24046,
+    "stars": 24300,
     "image": "/assets/discover/og/compound-engineering-plugin.webp",
     "headline": "Yapay zekâ Destekli Mühendislik Süreçleri",
     "last_review": "2026-08-16",
@@ -941,6 +941,13 @@
         "onceki_yildiz": 24041,
         "surum": "compound-engineering-v3.21.4",
         "surum_tarihi": "2026-08-06"
+      },
+      {
+        "tarih": "2026-08-16",
+        "yildiz": 24300,
+        "onceki_yildiz": 24046,
+        "surum": "compound-engineering-v3.22.0",
+        "surum_tarihi": "2026-08-16"
       }
     ],
     "tagline_en": "AI-powered engineering plugin (Claude Code/Codex/Cursor) where each job makes the next one easier.",

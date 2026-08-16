@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-16 · 441 araç · 508 terim
+Son güncelleme: 2026-08-16 · 441 araç · 509 terim
 
 ---
 
@@ -5909,6 +5909,48 @@ Kullanım amacına göre değişir; izinsiz ve kötü niyetli kullanım birçok 
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/deepfake/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Dementia nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-16
+
+Beyindeki sinir hücrelerinin hasar görmesiyle hafıza, düşünme ve günlük yaşam becerilerinin ciddi şekilde zayıfladığı bir durumdur.
+
+## Tanım
+Demans, tek bir hastalık değil, zihinsel işlevlerdeki genel bir gerilemeyi tanımlayan bir şemsiye terimdir. Beyindeki hücreler arası iletişimin bozulması sonucu ortaya çıkar. Bu durum, kişinin kendi kendine yetebilme yetisini zamanla kısıtlar.
+
+## Bir benzetmeyle
+Bir bilgisayarın işletim sistemindeki dosyaların bozulması veya bağlantıların kopması gibidir; bilgisayar hala açıktır ancak komutları doğru işleyemez ve verileri hatırlayamaz.
+
+## Nasıl çalışır?
+Genellikle yaşlanma, genetik faktörler veya beyin sağlığını etkileyen hastalıklar sonucu gelişir. Uzmanlar tarafından çeşitli nörolojik testler ve görüntüleme yöntemleriyle teşhis edilir. Tedavi süreci, semptomların yavaşlatılmasına ve yaşam kalitesinin korunmasına odaklanır.
+
+## Nerede kullanılır?
+Tıp dünyasında ve nöroloji kliniklerinde kullanılır. Ayrıca yapay zekâ araştırmalarında, insan beyninin çalışma prensiplerini anlamak veya hafıza kaybı yaşayan hastalar için yardımcı teknolojiler geliştirmek amacıyla incelenir.
+
+## Sık karıştırılanlar
+Sadece unutkanlık ile karıştırılmamalıdır; unutkanlık geçici olabilir, demans ise kalıcı ve ilerleyici bir süreçtir.
+
+## Sıkça sorulanlar
+
+**Demans ve Alzheimer aynı şey mi?**  
+Hayır, Alzheimer bir demans türüdür; demans ise daha geniş bir kavramdır.
+
+**Yapay zekâ demans tedavisinde kullanılabilir mi?**  
+Evet, erken teşhis için verileri analiz edebilir veya hastaların günlük yaşamlarını kolaylaştıracak akıllı destek sistemleri sunabilir.
+
+## İlgili terimler
+- [Memory](/dictionary/memory/)
+- [Working Memory](/dictionary/working-memory/)
+- [Long-term Memory](/dictionary/long-term-memory/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/dementia/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -22944,15 +22986,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Graphify, kod dosyaları, veritabanı şemaları ve dokümantasyon gibi farklı veri türlerini sorgulanabilir bir bilgi çizgesi (knowledge graph) yapısına dönüştürüyor. Python tabanlı bu araç, çeşitli yapay zekâ kod yardımcıları (AI coding assistants) için merkezi bir veri katmanı oluşturmayı hedefliyor.
 
-- ★ 106.664
+- ★ 106.783
 - Python
 - GitHub Trending · 2026-07-14
 
 ## Güncelleme
+- 16 Ağustos 2026: Yıldız 106.664 → 106.783, son sürüm v0.9.44 (15 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 105.395 → 106.664, son sürüm v0.9.43 (14 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 105.050 → 105.395, son sürüm v0.9.40 (11 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 104.693 → 105.050, son sürüm v0.9.39 (10 Ağustos 2026).
-- 10 Ağustos 2026: Yıldız 104.401 → 104.693, son sürüm v0.9.38 (9 Ağustos 2026).
 
 ## Ne kazandırır?
 - Kod dosyalarınızı ve dokümanlarınızı sorgulanabilir bir bilgi ağına çevirir.
@@ -23865,6 +23907,76 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# WiFi Sinyalleriyle Mekansal Zeka Kazanın
+
+RuView , sıradan WiFi sinyallerini kullanarak kamera olmadan gerçek zamanlı mekânsal zekâ, hayati bulgu takibi ve varlık algılama işlemleri gerçekleştirir. Rust ile geliştirilmiş açık kaynak bir projedir.
+
+_Görsel: RuView (proje deposundan)_
+
+- ★ 90.296
+- Rust
+- MIT
+- GitHub Trending · 30 May 2026
+
+## Güncelleme
+- 16 Ağustos 2026: Yıldız 89.705 → 90.296, son sürüm v2262 (16 Ağustos 2026).
+- 12 Ağustos 2026: Yıldız 88.270 → 89.705, son sürüm v2235 (11 Ağustos 2026).
+- 3 Ağustos 2026: Yıldız 88.185 → 88.270, son sürüm v2146 (2 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 68.643 → 88.185, son sürüm v2143 (2 Ağustos 2026).
+
+- **Kimin için:** IoT/algılama/araştırma ile ilgilenenler 
+- **Zorluk:** İleri · teknik/donanım 
+- **Ne sunar:** WiFi tabanlı algılama ve mekânsal zekâ 
+- **Ücret:** Ücretsiz · açık kaynak (MIT) 
+- **Lisans:** MIT · ayrıntı aşağıda 
+
+## Ne sunar?
+- Kamera kullanmadan varlık ve hareket algılama.
+- Hayati bulguların (nefes ve nabız) takibi.
+- Gerçek zamanlı mekânsal zekâ.
+
+## Sorumluluk notu
+İnsanların varlığını/hareketini algılayan bir teknolojidir. Gizlilik ve rıza açısından dikkatli, yasalara uygun kullanım sizin sorumluluğunuzdadır. 
+
+## Nasıl kurulur, nasıl kullanılır?
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Donanım olmadan denemek için terminalde 'docker pull ruvnet/wifi-densepose:latest' çalıştır, ardından 'docker run -p 3000:3000 ruvnet/wifi-densepose:latest' ile başlat ve tarayıcıdan http://localhost:3000 adresini aç; bu, RuView'in WiFi sinyalleriyle hareket/varlık algılama arayüzünü simülasyon veriyle gösterir.
+
+**Docker imajını çek**
+
+```
+docker pull ruvnet/wifi-densepose:latest
+```
+
+**Docker ile çalıştır (simülasyon, donanım gerekmez)**
+
+```
+docker run -p 3000:3000 ruvnet/wifi-densepose:latest
+```
+
+**Python paketi (PyPI)**
+
+```
+pip install ruview
+```
+
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/ruvnet/RuView)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+WiFi Rust Open Source Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/ruview/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Görüntü işlemenin açık kaynak standardı
 
 Açık kaynak kodlu bilgisayarlı görü kütüphanesi (computer vision library) olan OpenCV, görüntü işleme ve makine öğrenmesi (machine learning) uygulamaları için geniş kapsamlı araçlar sunuyor. C++ diliyle geliştirilen bu kütüphane, gerçek zamanlı görsel veri analizi süreçlerinde standart bir altyapı görevi görüyor.
@@ -23975,75 +24087,6 @@ Home Automation
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/core/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# WiFi Sinyalleriyle Mekansal Zeka Kazanın
-
-RuView , sıradan WiFi sinyallerini kullanarak kamera olmadan gerçek zamanlı mekânsal zekâ, hayati bulgu takibi ve varlık algılama işlemleri gerçekleştirir. Rust ile geliştirilmiş açık kaynak bir projedir.
-
-_Görsel: RuView (proje deposundan)_
-
-- ★ 89.705
-- Rust
-- MIT
-- GitHub Trending · 30 May 2026
-
-## Güncelleme
-- 12 Ağustos 2026: Yıldız 88.270 → 89.705, son sürüm v2235 (11 Ağustos 2026).
-- 3 Ağustos 2026: Yıldız 88.185 → 88.270, son sürüm v2146 (2 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 68.643 → 88.185, son sürüm v2143 (2 Ağustos 2026).
-
-- **Kimin için:** IoT/algılama/araştırma ile ilgilenenler 
-- **Zorluk:** İleri · teknik/donanım 
-- **Ne sunar:** WiFi tabanlı algılama ve mekânsal zekâ 
-- **Ücret:** Ücretsiz · açık kaynak (MIT) 
-- **Lisans:** MIT · ayrıntı aşağıda 
-
-## Ne sunar?
-- Kamera kullanmadan varlık ve hareket algılama.
-- Hayati bulguların (nefes ve nabız) takibi.
-- Gerçek zamanlı mekânsal zekâ.
-
-## Sorumluluk notu
-İnsanların varlığını/hareketini algılayan bir teknolojidir. Gizlilik ve rıza açısından dikkatli, yasalara uygun kullanım sizin sorumluluğunuzdadır. 
-
-## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Donanım olmadan denemek için terminalde 'docker pull ruvnet/wifi-densepose:latest' çalıştır, ardından 'docker run -p 3000:3000 ruvnet/wifi-densepose:latest' ile başlat ve tarayıcıdan http://localhost:3000 adresini aç; bu, RuView'in WiFi sinyalleriyle hareket/varlık algılama arayüzünü simülasyon veriyle gösterir.
-
-**Docker imajını çek**
-
-```
-docker pull ruvnet/wifi-densepose:latest
-```
-
-**Docker ile çalıştır (simülasyon, donanım gerekmez)**
-
-```
-docker run -p 3000:3000 ruvnet/wifi-densepose:latest
-```
-
-**Python paketi (PyPI)**
-
-```
-pip install ruview
-```
-
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/ruvnet/RuView)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-WiFi Rust Open Source Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/ruview/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -27279,6 +27322,57 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yerel ortamda çalışan yapay zekâ ses stüdyosu
+
+Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve içerik oluşturma işlemlerini gerçekleştirmesine olanak tanıyan açık kaynaklı bir yapay zekâ ses stüdyosudur. TypeScript diliyle geliştirilen bu platform, ses işleme süreçlerini yerel ortamda yönetmek için kapsamlı araçlar sunar.
+
+- ★ 50.505
+- TypeScript
+- GitHub Trending · 2026-06-21
+
+## Güncelleme
+- 16 Ağustos 2026: Yıldız 48.096 → 50.505, son sürüm v0.5.0 (25 Nisan 2026).
+- 2 Ağustos 2026: Yıldız 31.156 → 48.096, son sürüm v0.5.0 (25 Nisan 2026).
+
+## Ne kazandırır?
+- Kendi sesinizi veya başkalarının sesini saniyeler içinde kopyalayın.
+- 23 farklı dilde doğal seslendirme ve dikte yapın.
+- Tüm ses verilerini yerel bilgisayarınızda tutarak gizliliği koruyun.
+
+## Kurulum
+
+**Kaynak koddan kurulum**
+
+```
+git clone https://github.com/jamiepine/voicebox.git
+cd voicebox
+
+just setup # creates Python venv, installs all deps
+just dev # starts backend + desktop app
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Voicebox üzerinde ses kopyalama ve seslendirme süreçlerini yönetiyorum. Seçtiğim ses profili için en uygun TTS motorunu belirlememe yardımcı ol, metin içerisindeki duygusal vurguları nasıl ekleyeceğimi göster ve yerel yapay zekâ ajanımın sesli yanıt vermesi için gerekli olan voicebox.speak araç çağrısını nasıl yapılandıracağımı adım adım açıkla.
+
+- **Kimin için:** Kendi bilgisayarında gizlilikten ödün vermeden profesyonel ses kopyalama ve dikte araçlarını kullanmak isteyen içerik üreticileri ve geliştiriciler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/jamiepine/voicebox)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Voice Cloning Cloning Text-to-Speech Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/voicebox/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Kotlin ile internet sansürünü aşın
 
 Fanqiang projesi, internet sansürünü aşmak için geliştirilen ve Kotlin diliyle yazılmış bir ağ geçidi (gateway) aracıdır. Kullanıcılara kısıtlı ağ kaynaklarına erişim sağlamak amacıyla tasarlanmış açık kaynaklı bir yazılımdır.
@@ -27671,56 +27765,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Yerel ortamda çalışan yapay zekâ ses stüdyosu
-
-Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve içerik oluşturma işlemlerini gerçekleştirmesine olanak tanıyan açık kaynaklı bir yapay zekâ ses stüdyosudur. TypeScript diliyle geliştirilen bu platform, ses işleme süreçlerini yerel ortamda yönetmek için kapsamlı araçlar sunar.
-
-- ★ 48.096
-- TypeScript
-- GitHub Trending · 2026-06-21
-
-## Güncelleme
-- 2 Ağustos 2026: Yıldız 31.156 → 48.096, son sürüm v0.5.0 (25 Nisan 2026).
-
-## Ne kazandırır?
-- Kendi sesinizi veya başkalarının sesini saniyeler içinde kopyalayın.
-- 23 farklı dilde doğal seslendirme ve dikte yapın.
-- Tüm ses verilerini yerel bilgisayarınızda tutarak gizliliği koruyun.
-
-## Kurulum
-
-**Kaynak koddan kurulum**
-
-```
-git clone https://github.com/jamiepine/voicebox.git
-cd voicebox
-
-just setup # creates Python venv, installs all deps
-just dev # starts backend + desktop app
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Voicebox üzerinde ses kopyalama ve seslendirme süreçlerini yönetiyorum. Seçtiğim ses profili için en uygun TTS motorunu belirlememe yardımcı ol, metin içerisindeki duygusal vurguları nasıl ekleyeceğimi göster ve yerel yapay zekâ ajanımın sesli yanıt vermesi için gerekli olan voicebox.speak araç çağrısını nasıl yapılandıracağımı adım adım açıkla.
-
-- **Kimin için:** Kendi bilgisayarında gizlilikten ödün vermeden profesyonel ses kopyalama ve dikte araçlarını kullanmak isteyen içerik üreticileri ve geliştiriciler içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/jamiepine/voicebox)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Voice Cloning Cloning Text-to-Speech Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/voicebox/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Node.js projeleri için veritabanı yönetimi
 
 Prisma, Node.js ve TypeScript projeleri için veritabanı etkileşimlerini kolaylaştıran bir nesne ilişkisel eşleyici (ORM) aracıdır. Farklı veritabanı sistemlerini destekleyen yapısı, geliştiricilere tip güvenli (type-safe) veritabanı sorguları oluşturma imkânı tanır.
@@ -27836,9 +27880,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 CLI-Anything, komut satırı arayüzlerini (CLI) yapay zekâ ajanlarının doğrudan kullanabileceği bir formata dönüştüren bir çerçeve (framework). Yazılım araçlarını ajan uyumlu (agent-native) hâle getirerek, yapay zekâ modellerinin karmaşık sistem komutlarını daha etkili bir şekilde yönetmesini sağlıyor.
 
-- ★ 47.429
+- ★ 47.443
 - Python
 - GitHub Trending · 2026-08-16
+
+## Güncelleme
+- 16 Ağustos 2026: Yıldız 47.429 → 47.443, son sürüm v0.4.0 (25 Haziran 2026).
 
 ## Ne kazandırır?
 - Yazılım araçlarını yapay zekâ modellerinin doğrudan yönetebileceği bir formata dönüştürür.
@@ -28650,15 +28697,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Croc, iki bilgisayar arasında uçtan uca şifreleme (end-to-end encryption) kullanarak güvenli dosya ve veri aktarımı sağlayan bir araçtır. Go programlama diliyle geliştirilen bu yazılım, aktarım sürecini kolaylaştırmak için geçici bir röle (relay) mekanizması kullanır.
 
-- ★ 39.672
+- ★ 39.809
 - Go
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
+- 16 Ağustos 2026: Yıldız 39.672 → 39.809, son sürüm v11.1.1 (15 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 39.574 → 39.672, son sürüm v11.1.0 (11 Ağustos 2026).
 - 10 Ağustos 2026: Yıldız 39.444 → 39.574, son sürüm v11.0.3 (10 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 39.265 → 39.444, son sürüm v11.0.2 (6 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 36.970 → 39.265, son sürüm v11.0.1 (31 Temmuz 2026).
 
 ## Ne kazandırır?
 - Uçtan uca şifreli veri gönderimi
@@ -29387,10 +29434,10 @@ CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) gelişt
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
+- 16 Ağustos 2026: Yıldız 36.783 → 36.783, son sürüm python-sdk/v0.1.95 (16 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 36.678 → 36.783, son sürüm v1.68.1 (14 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 36.582 → 36.678, son sürüm v1.67.1 (10 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 36.508 → 36.582, son sürüm v1.66.4 (7 Ağustos 2026).
-- 6 Ağustos 2026: Yıldız 36.438 → 36.508, son sürüm v1.66.2 (4 Ağustos 2026).
 
 ## Ne kazandırır?
 - Uygulamalara dinamik ve akıllı arayüzler ekler.
@@ -30129,15 +30176,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel alan bir yapay zekâ kodlama ajanıdır. Önek önbelleği (prefix-cache) kararlılığına odaklanan bu araç, geliştiricilerin uzun süreli oturumlarda kesintisiz kodlama desteği almasını sağlar.
 
-- ★ 34.616
+- ★ 34.627
 - Go
 - GitHub Trending · 2026-08-03
 
 ## Güncelleme
+- 16 Ağustos 2026: Yıldız 34.616 → 34.627, son sürüm desktop-v1.25.3 (16 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 34.019 → 34.616, son sürüm desktop-v1.25.2 (14 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 33.787 → 34.019, son sürüm desktop-v1.24.1 (11 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 33.531 → 33.787, son sürüm desktop-v1.23.0 (10 Ağustos 2026).
-- 10 Ağustos 2026: Yıldız 33.009 → 33.531, son sürüm desktop-v1.22.0 (10 Ağustos 2026).
 
 ## Ne kazandırır?
 - DeepSeek modelleriyle uzun süreli kesintisiz kodlama desteği sağlar.
@@ -30997,15 +31044,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (long-term memory) sağlayan açık kaynaklı bir platformdur. Kendi kendine barındırılan bir bilgi grafiği motoru (knowledge graph engine) kullanarak ajanların verileri yapılandırılmış şekilde saklamasına ve geri çağırmasına olanak tanır.
 
-- ★ 30.046
+- ★ 30.057
 - Python
 - GitHub Trending · 2026-06-22
 
 ## Güncelleme
+- 16 Ağustos 2026: Yıldız 30.046 → 30.057, son sürüm v1.5.0 (15 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 29.883 → 30.046, son sürüm v1.5.0.dev2 (14 Ağustos 2026).
 - 9 Ağustos 2026: Yıldız 29.804 → 29.883, son sürüm v1.4.2 (8 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 29.692 → 29.804, son sürüm v1.4.1.dev0 (5 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 18.871 → 29.692, son sürüm v1.4.1 (31 Temmuz 2026).
 
 ## Ne kazandırır?
 - Ajanlar için oturumlar arası kalıcı uzun süreli bellek
@@ -33100,15 +33147,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir yazılım projesidir. TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerini otomatize etmeyi hedefleyen yapay zekâ destekli bir çalışma ortamı sunar.
 
-- ★ 22.314
+- ★ 22.349
 - TypeScript
 - GitHub Trending · 2026-07-30
 
 ## Güncelleme
+- 16 Ağustos 2026: Yıldız 22.314 → 22.349, son sürüm v0.18.25 (15 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 21.881 → 22.314, son sürüm v0.18.24 (15 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 21.877 → 21.881, son sürüm v0.18.20 (12 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 21.447 → 21.877, son sürüm v0.18.19 (11 Ağustos 2026).
-- 7 Ağustos 2026: Yıldız 21.196 → 21.447, son sürüm v0.18.18 (7 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yapay zekâ araçları arasında yetenekleri paylaşma
@@ -36402,11 +36449,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Metinden bilgisayar destekli tasarım (text-to-cad) araçları, robotik ve donanım tasarımı süreçlerini otomatikleştirmek için geliştirilen bir yetenek paketi (agent skills) koleksiyonudur. JavaScript tabanlı bu kütüphane, karmaşık mühendislik modellerinin doğal dil komutlarıyla oluşturulmasına olanak tanır.
 
-- ★ 13.466
+- ★ 13.474
 - JavaScript
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
+- 16 Ağustos 2026: Yıldız 13.466 → 13.474, son sürüm 0.4.14 (16 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 13.287 → 13.466, son sürüm 0.4.13 (15 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 12.478 → 13.287, son sürüm 0.4.5 (12 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 9.319 → 12.478, son sürüm 0.3.13 (31 Temmuz 2026).
@@ -38136,6 +38184,67 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Dosya aramada yapay zekâ hızı
+
+Rust ile geliştirilen fff, yapay zekâ ajanları ve metin düzenleyiciler için dosya arama işlemlerini yüksek hız ve doğrulukla gerçekleştiren bir araç takımıdır. C ve NodeJS desteğiyle farklı geliştirme ortamlarına entegre edilebilir bir yapı sunar.
+
+- ★ 10.015
+- GitHub Trending · 2026-06-02
+
+## Güncelleme
+- 16 Ağustos 2026: Yıldız 9.894 → 10.015, son sürüm v0.10.4 (15 Ağustos 2026).
+- 7 Ağustos 2026: Yıldız 9.882 → 9.894, son sürüm v0.10.3 (7 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 7.319 → 9.882, son sürüm v0.10.1 (20 Temmuz 2026).
+
+## Ne kazandırır?
+- Dosya arama ve içerik tarama işlemlerinde yüksek hız sağlar.
+- Sık kullanılan dosyaları önceliklendiren frecency tabanlı sıralama sunar.
+- Yapay zekâ ajanları ve editörler için optimize edilmiş indeksleme yapar.
+
+## Kurulum
+
+**MCP Sunucusu Kurulumu (Linux / macOS)**
+
+```
+curl -L https://dmtrkovalenko.dev/install-fff-mcp.sh | bash
+```
+
+**Pi Ajan Eklentisi Kurulumu**
+
+```
+pi install npm:@ff-labs/pi-fff
+```
+
+## Çalıştırma
+
+**Ajan İçin Yapılandırma**
+
+```
+For any file search or grep in the current git-indexed directory, use fff tools.
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Projemdeki tüm dosya arama ve içerik tarama (grep) işlemleri için fff araçlarını kullan. Bu araçlar frecency tabanlı sıralama ve hızlı indeksleme özellikleri sayesinde daha verimli sonuçlar döndürecektir.
+
+- **Kimin için:** Projelerinde dosya arama ve içerik tarama süreçlerini hızlandırmak isteyen yazılımcılar ve yapay zekâ destekli geliştirme araçlarını kullanan kişiler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/dmtrKovalenko/fff)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+MCP Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/fff/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Dağıtık sistemler için ölçeklenebilir veritabanı
 
 Apache Cassandra, standart donanımlar veya bulut altyapıları üzerinde performans kaybı yaşatmadan doğrusal ölçeklenebilirlik (linear scalability) ve hata toleransı (fault-tolerance) sağlayan açık kaynaklı, dağıtık bir işlemsel veritabanıdır (transactional distributed database). Java diliyle geliştirilen bu sistem, yüksek erişilebilirlik gerektiren büyük ölçekli veri yönetim süreçleri için tasarlanmıştır.
@@ -38241,66 +38350,6 @@ Structured Latent Generative AI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/trellis-2/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Dosya aramada yapay zekâ hızı
-
-Rust ile geliştirilen fff, yapay zekâ ajanları ve metin düzenleyiciler için dosya arama işlemlerini yüksek hız ve doğrulukla gerçekleştiren bir araç takımıdır. C ve NodeJS desteğiyle farklı geliştirme ortamlarına entegre edilebilir bir yapı sunar.
-
-- ★ 9.894
-- GitHub Trending · 2026-06-02
-
-## Güncelleme
-- 7 Ağustos 2026: Yıldız 9.882 → 9.894, son sürüm v0.10.3 (7 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 7.319 → 9.882, son sürüm v0.10.1 (20 Temmuz 2026).
-
-## Ne kazandırır?
-- Dosya arama ve içerik tarama işlemlerinde yüksek hız sağlar.
-- Sık kullanılan dosyaları önceliklendiren frecency tabanlı sıralama sunar.
-- Yapay zekâ ajanları ve editörler için optimize edilmiş indeksleme yapar.
-
-## Kurulum
-
-**MCP Sunucusu Kurulumu (Linux / macOS)**
-
-```
-curl -L https://dmtrkovalenko.dev/install-fff-mcp.sh | bash
-```
-
-**Pi Ajan Eklentisi Kurulumu**
-
-```
-pi install npm:@ff-labs/pi-fff
-```
-
-## Çalıştırma
-
-**Ajan İçin Yapılandırma**
-
-```
-For any file search or grep in the current git-indexed directory, use fff tools.
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Projemdeki tüm dosya arama ve içerik tarama (grep) işlemleri için fff araçlarını kullan. Bu araçlar frecency tabanlı sıralama ve hızlı indeksleme özellikleri sayesinde daha verimli sonuçlar döndürecektir.
-
-- **Kimin için:** Projelerinde dosya arama ve içerik tarama süreçlerini hızlandırmak isteyen yazılımcılar ve yapay zekâ destekli geliştirme araçlarını kullanan kişiler için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/dmtrKovalenko/fff)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-MCP Rust Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/fff/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -41484,15 +41533,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications) oluşturmaya odaklanan bir TypeScript çerçevesidir (framework). Geliştiricilerin ajan tabanlı iş akışlarını doğrudan uygulama mimarisine entegre etmelerini sağlar.
 
-- ★ 4.501
+- ★ 4.504
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
+- 16 Ağustos 2026: Yıldız 4.501 → 4.504, son sürüm @agent-native/skills@0.2.564 (16 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 4.476 → 4.501, son sürüm @agent-native/skills@0.2.562 (15 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 4.464 → 4.476, son sürüm @agent-native/dispatch@0.24.0 (11 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 4.457 → 4.464, son sürüm @agent-native/dispatch@0.23.1 (11 Ağustos 2026).
-- 10 Ağustos 2026: Yıldız 4.449 → 4.457, son sürüm @agent-native/core@0.148.1 (10 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ajan ve kullanıcı arayüzünü tek veritabanında senkronize eder
@@ -43315,9 +43364,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Soup, büyük dil modellerine (large language models) tek bir YAML dosyası üzerinden ince ayar (fine-tuning) yapılmasına olanak tanıyan bir Python kütüphanesi. Katman akış (layer streaming) yöntemiyle 8 milyar parametreli modelleri 4 GB belleğe sahip dizüstü bilgisayar grafik işlemcilerinde eğitebiliyor.
 
-- ★ 1.729
+- ★ 1.739
 - Python
 - GitHub Trending · 2026-08-16
+
+## Güncelleme
+- 16 Ağustos 2026: Yıldız 1.729 → 1.739, son sürüm v0.73.2 (15 Ağustos 2026).
 
 ## Ne kazandırır?
 - 4 GB grafik belleğine sahip dizüstü bilgisayarlarda 8 milyar parametreli modelleri eğitebilirsiniz.
