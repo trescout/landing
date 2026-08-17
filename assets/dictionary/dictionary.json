@@ -6106,5 +6106,53 @@
     "kisa_pt": "É uma condição na qual a memória, o pensamento e as habilidades da vida diária ficam gravemente enfraquecidas devido a danos nas células nervosas do cérebro.",
     "kisa_es": "Es una afección en la que la memoria, el pensamiento y las habilidades de la vida diaria se ven gravemente debilitados debido al daño a las células nerviosas del cerebro.",
     "kisa_de": "Es handelt sich um eine Erkrankung, bei der das Gedächtnis, das Denken und die Alltagsfähigkeiten aufgrund einer Schädigung der Nervenzellen im Gehirn stark geschwächt sind."
+  },
+  {
+    "slug": "adblocker",
+    "en": "Adblocker",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternet tarayıcınızda reklamların görünmesini engelleyen bir yazılım eklentisidir.",
+    "kisa_en": "It is a software plug-in that prevents ads from appearing in your internet browser.",
+    "kisa_fr": "Il s'agit d'un plug-in logiciel qui empêche l'apparition de publicités dans votre navigateur Internet.",
+    "kisa_pt": "É um plug-in de software que impede a exibição de anúncios no seu navegador de internet.",
+    "kisa_es": "Es un complemento de software que evita que aparezcan anuncios en su navegador de Internet.",
+    "kisa_de": "Dabei handelt es sich um ein Software-Plug-in, das verhindert, dass Werbung in Ihrem Internetbrowser erscheint."
+  },
+  {
+    "slug": "nameservers",
+    "en": "Nameservers",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnsanların kullandığı web sitesi isimlerini, bilgisayarların anladığı sayısal adreslere dönüştüren bir telefon rehberidir.",
+    "kisa_en": "It is a phone book that converts website names used by people into numerical addresses that computers understand.",
+    "kisa_fr": "Il s'agit d'un annuaire téléphonique qui convertit les noms de sites Web utilisés par les internautes en adresses numériques compréhensibles par les ordinateurs.",
+    "kisa_pt": "É uma lista telefônica que converte nomes de sites usados ​​por pessoas em endereços numéricos que os computadores entendem.",
+    "kisa_es": "Es una guía telefónica que convierte los nombres de sitios web utilizados por las personas en direcciones numéricas que las computadoras entienden.",
+    "kisa_de": "Es handelt sich um ein Telefonbuch, das von Menschen verwendete Website-Namen in numerische Adressen umwandelt, die Computer verstehen."
+  },
+  {
+    "slug": "analytics-snippets",
+    "en": "Analytics Snippets",
+    "full": "",
+    "cat": "data",
+    "kisa": "Web sitelerinin ziyaretçi davranışlarını takip etmek için sayfalarına eklediği küçük kod parçalarıdır.",
+    "kisa_en": "They are small pieces of code that websites add to their pages to track visitor behavior.",
+    "kisa_fr": "Il s'agit de petits morceaux de code que les sites Web ajoutent à leurs pages pour suivre le comportement des visiteurs.",
+    "kisa_pt": "São pequenos pedaços de código que os sites adicionam às suas páginas para rastrear o comportamento do visitante.",
+    "kisa_es": "Son pequeños fragmentos de código que los sitios web agregan a sus páginas para rastrear el comportamiento de los visitantes.",
+    "kisa_de": "Dabei handelt es sich um kleine Codestücke, die Websites ihren Seiten hinzufügen, um das Besucherverhalten zu verfolgen."
+  },
+  {
+    "slug": "image-to-video",
+    "en": "Image-to-Video",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Hareketsiz bir resmi yapay zekâ kullanarak hareketli bir videoya dönüştüren teknolojidir.",
+    "kisa_en": "It is a technology that turns a still image into a moving video using artificial intelligence.",
+    "kisa_fr": "Il s’agit d’une technologie qui transforme une image fixe en vidéo animée grâce à l’intelligence artificielle.",
+    "kisa_pt": "É uma tecnologia que transforma uma imagem estática em um vídeo em movimento por meio de inteligência artificial.",
+    "kisa_es": "Es una tecnología que convierte una imagen fija en un vídeo en movimiento mediante inteligencia artificial.",
+    "kisa_de": "Dabei handelt es sich um eine Technologie, die mithilfe künstlicher Intelligenz ein Standbild in ein bewegtes Video verwandelt."
   }
 ]

@@ -25,6 +25,7 @@ Oui, il est assez facile d’écrire des scripts simples une fois que vous avez 
 
 ## Outils liés
 - [NVM](/fr/discover/nvm/)
+- [Omarchy](/fr/discover/omarchy/)
 - [Meshery](/fr/discover/meshery/)
 - [Tradingview MCP](/fr/discover/tradingview-mcp/)
 

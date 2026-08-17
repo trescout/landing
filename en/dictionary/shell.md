@@ -32,9 +32,9 @@ It may seem a little unfamiliar at first, but once you learn a few basic command
 - [NVM](/en/discover/nvm/)
 - [Agent Skills](/en/discover/agent-skills/)
 - [Taste Skill](/en/discover/taste-skill/)
+- [Omarchy](/en/discover/omarchy/)
 - [Destructive Command Guard](/en/discover/destructive-command-guard/)
 - [Council of High Intelligence](/en/discover/council-of-high-intelligence/)
-- [Claude Code Harness](/en/discover/claude-code-harness/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/shell/

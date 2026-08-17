@@ -30,9 +30,9 @@ Cela peut sembler un peu inhabituel au début, mais une fois que vous avez appri
 - [NVM](/fr/discover/nvm/)
 - [Agent Skills](/fr/discover/agent-skills/)
 - [Taste Skill](/fr/discover/taste-skill/)
+- [Omarchy](/fr/discover/omarchy/)
 - [Destructive Command Guard](/fr/discover/destructive-command-guard/)
 - [Council of High Intelligence](/fr/discover/council-of-high-intelligence/)
-- [Claude Code Harness](/fr/discover/claude-code-harness/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/shell/

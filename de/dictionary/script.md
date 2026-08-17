@@ -25,6 +25,7 @@ Ja, es ist ganz einfach, einfache Skripte zu schreiben, wenn man die grundlegend
 
 ## Verwandte Werkzeuge
 - [NVM](/de/discover/nvm/)
+- [Omarchy](/de/discover/omarchy/)
 - [Meshery](/de/discover/meshery/)
 - [Tradingview MCP](/de/discover/tradingview-mcp/)
 

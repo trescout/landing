@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-16 · 441 araç · 509 terim
+Son güncelleme: 2026-08-17 · 442 araç · 513 terim
 
 ---
 
@@ -85,6 +85,48 @@ Teknik bilgi gerektirir, yanlış komutlar cihazın çalışmasını etkileyebil
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/adb/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Adblocker nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-17
+
+İnternet tarayıcınızda reklamların görünmesini engelleyen bir yazılım eklentisidir.
+
+## Tanım
+Adblocker, web sitelerini ziyaret ederken karşınıza çıkan reklamları otomatik olarak tespit edip gizleyen bir araçtır. Bu araçlar, reklamların yüklenmesini durdurarak sayfaların daha hızlı açılmasını sağlar ve dikkatinizin dağılmasını önler. Genellikle tarayıcı eklentisi olarak kurulurlar.
+
+## Bir benzetmeyle
+Bir dergi okurken sayfadaki tüm reklamları bir makasla kesip attığınızı düşünün; adblocker tam olarak bunu dijital dünyada sizin yerinize yapar.
+
+## Nasıl çalışır?
+Tarayıcınızın mağazasından bir adblocker eklentisi indirip kurduğunuzda, bu araç arka planda çalışmaya başlar. Web siteleri yüklenirken, eklenti reklam sunucularına giden bağlantıları engeller. Böylece reklamlar ekranınıza hiç ulaşmaz.
+
+## Nerede kullanılır?
+Chrome, Firefox veya Safari gibi internet tarayıcılarında birer eklenti olarak kullanılır.
+
+## Sık karıştırılanlar
+Güvenlik duvarı (firewall) ile karıştırılabilir ancak o tüm internet trafiğini denetlerken, adblocker sadece reklam içeriklerini hedefler.
+
+## Sıkça sorulanlar
+
+**Adblocker kullanmak web sitelerine zarar verir mi?**  
+Birçok web sitesi gelirini reklamlar üzerinden sağlar; bu yüzden bazı siteler adblocker kullandığınızı fark edip reklamları kapatmanızı isteyebilir.
+
+**Her reklamı engeller mi?**  
+Çoğu reklamı engeller ancak bazı siteler reklamları içerik ile birleştirdiği için bunları engellemek daha zor olabilir.
+
+## İlgili terimler
+- [Browser State](/dictionary/browser-state/)
+- [User Experience](/dictionary/user-experience/)
+- [Web Interface](/dictionary/web-interface/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/adblocker/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -1878,6 +1920,48 @@ Hayır, strateji hatalıysa çok hızlı zarar da ettirebilir.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/algorithmic-trading/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Analytics Snippets nedir?
+
+**Kategori:** Veri & Altyapı  
+**Son güncelleme:** 2026-08-17
+
+Web sitelerinin ziyaretçi davranışlarını takip etmek için sayfalarına eklediği küçük kod parçalarıdır.
+
+## Tanım
+Analytics snippet, bir web sitesine yerleştirilen ve ziyaretçilerin siteye nereden geldiğini, hangi sayfalarda ne kadar vakit geçirdiğini kaydeden bir kod parçasıdır. Bu veriler, site sahiplerinin sitelerini geliştirmelerine yardımcı olur. Genellikle sayfanın arka planında sessizce çalışır.
+
+## Bir benzetmeyle
+Bir mağazanın kapısına yerleştirilen ve kaç kişinin girdiğini, hangi reyonlarda durduğunu not eden görünmez bir sayaç gibidir.
+
+## Nasıl çalışır?
+Site sahibi, analiz servisinden aldığı bu kısa kodu web sitesinin kaynak dosyalarına ekler. Kullanıcı sayfayı açtığında kod çalışır ve ziyaret bilgilerini analiz sunucusuna gönderir.
+
+## Nerede kullanılır?
+Google Analytics gibi platformlarda üretilir ve web sitelerinin HTML kodlarına yerleştirilir.
+
+## Sık karıştırılanlar
+Çerezler (cookies) ile sıkça karıştırılır; çerezler veriyi tarayıcınızda tutarken, snippet veriyi toplayıp sunucuya gönderen araçtır.
+
+## Sıkça sorulanlar
+
+**Bu kodlar kişisel bilgilerimi çalar mı?**  
+Genellikle anonim veriler toplarlar; ancak siteler bu verileri nasıl kullandıkları konusunda şeffaf olmalıdır.
+
+**Neden her sitede var?**  
+Site sahipleri, kullanıcıların neyi sevip neyi sevmediğini ölçerek daha iyi bir deneyim sunmak ister.
+
+## İlgili terimler
+- [Data Layer](/dictionary/data-layer/)
+- [User Identifiers](/dictionary/user-identifiers/)
+- [Logs](/dictionary/logs/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/analytics-snippets/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -9438,6 +9522,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Image-to-Video nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-17
+
+Hareketsiz bir resmi yapay zekâ kullanarak hareketli bir videoya dönüştüren teknolojidir.
+
+## Tanım
+Image-to-video, tek bir fotoğraf karesini alıp, yapay zekânın o sahnedeki nesnelerin nasıl hareket edebileceğini tahmin etmesiyle video haline getiren bir süreçtir. Bu teknoloji, statik görsellere hayat vererek gerçekçi veya sanatsal videolar üretir.
+
+## Bir benzetmeyle
+Eski bir aile fotoğrafındaki kişilerin, sanki o anı yaşıyormuş gibi hareket etmeye başlamasını sağlayan bir sihirli değnek gibidir.
+
+## Nasıl çalışır?
+Yapay zekâ modeli, resimdeki nesnelerin yapısını ve dokusunu analiz eder. Ardından, bir sonraki karelerde bu nesnelerin nasıl değişeceğini hesaplayarak bir video akışı oluşturur.
+
+## Nerede kullanılır?
+Yaratıcı içerik platformlarında, video düzenleme araçlarında ve yapay zekâ destekli tasarım uygulamalarında kullanılır.
+
+## Sık karıştırılanlar
+Video düzenleme ile karıştırılabilir; bu teknoloji düzenleme yapmaz, sıfırdan hareketli görüntü üretir.
+
+## Sıkça sorulanlar
+
+**Her türlü resimden video olur mu?**  
+Yapay zekânın resmi ne kadar iyi anladığına bağlıdır; net ve belirgin nesneler daha iyi sonuç verir.
+
+**Ne kadar sürer?**  
+Modelin karmaşıklığına göre birkaç saniye ile birkaç dakika arasında değişebilir.
+
+## İlgili terimler
+- [Generative Model](/dictionary/generative-model/)
+- [Multimodal Model](/dictionary/multimodal-model/)
+- [AI Video Editing](/dictionary/ai-video-editing/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/image-to-video/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # In-process nedir?
 
 **Kategori:** Geliştirme  
@@ -12149,6 +12275,48 @@ GPT-4o veya Claude 3.5 gibi modeller multimodal yeteneklere sahip öncü modelle
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/multimodal-model/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Nameservers nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-17
+
+İnsanların kullandığı web sitesi isimlerini, bilgisayarların anladığı sayısal adreslere dönüştüren bir telefon rehberidir.
+
+## Tanım
+İnternette her web sitesinin aslında bir IP adresi denilen sayısal bir karşılığı vardır. Nameserver, siz tarayıcınıza bir isim yazdığınızda bu ismi ilgili IP adresine yönlendirerek doğru sunucuya ulaşmanızı sağlar. Bu, internetin adres defteri sistemidir.
+
+## Bir benzetmeyle
+Bir arkadaşınızın ismini telefon rehberinde arayıp onun gerçek numarasını bulmak gibidir; siz ismi bilirsiniz, sistem numarayı bulur.
+
+## Nasıl çalışır?
+Bir web adresi yazdığınızda, bilgisayarınız nameserver sunucularına sorar: Bu ismin sayısal adresi nedir? Nameserver cevabı verir ve tarayıcınız o adrese bağlanır.
+
+## Nerede kullanılır?
+Alan adı (domain) ayarlarında ve internet servis sağlayıcılarının altyapılarında merkezi olarak bulunur.
+
+## Sık karıştırılanlar
+Hosting ile karıştırılabilir; hosting sitenizin dosyalarının durduğu yerdir, nameserver ise oraya giden yoldur.
+
+## Sıkça sorulanlar
+
+**Nameserver ayarlarını değiştirmek ne işe yarar?**  
+Genellikle web sitenizi farklı bir sunucuya taşıdığınızda, trafiğin yeni yere gitmesi için bu ayarları güncellersiniz.
+
+**Nameserver çökerse ne olur?**  
+Web sitelerine isimleriyle ulaşamazsınız, çünkü internet tarayıcınız sitenin nerede olduğunu bulamaz.
+
+## İlgili terimler
+- [DNS Tunneling](/dictionary/dns-tunneling/)
+- [Networking Stack](/dictionary/networking-stack/)
+- [Gateway](/dictionary/gateway/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/nameservers/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -32255,6 +32423,42 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Linux sistemler için modern yapılandırma
+
+Basecamp tarafından geliştirilen Omarchy, Linux işletim sistemleri için modern ve özgün bir yapılandırma aracıdır. Sistem kurulumlarını standartlaştırmak ve yönetimi kolaylaştırmak amacıyla kabuk betiği (shell script) tabanlı bir yaklaşım sunar.
+
+- ★ 25.537
+- Shell
+- GitHub Trending · 2026-08-17
+
+## Ne kazandırır?
+- Sistem kurulumlarını standartlaştırarak yönetimi kolaylaştırır
+- Kullanıcı deneyimini özgün temalarla kişiselleştirir
+- Geliştirme araçları ve terminal uygulamalarıyla bütünleşik çalışır
+
+## Nasıl başlanır?
+
+Omarchy kullanmaya başlamak için omarchy.org adresini ziyaret ederek resmî web sitesindeki kurulum rehberini inceleyebilirsiniz. Sistemin tüm detaylarını ve yapılandırma seçeneklerini öğrenmek için learn.omacom.io adresindeki çevrim içi el kitabına göz atmanız yeterlidir.
+- [Resmî kaynak →](https://omarchy.org)
+
+- **Kimin için:** Linux işletim sistemini standart ve modern bir yapıda kullanmak isteyen kullanıcılar için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/basecamp/omarchy)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Script Shell Terminal
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/omarchy/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Sızma testleri için yapay zekâ yönlendirme
 
 Reverse-skill, tersine mühendislik ve sızma testi süreçleri için yapay zekâ destekli bir yönlendirme paketi (routing pack) sunuyor. Araç zinciri önyükleme (toolchain bootstrapping) ve kendi kendine gelişen bilgi tabanı özellikleriyle Claude Code, Cursor ve Cline gibi kodlama araçlarıyla entegre çalışıyor.
@@ -32661,16 +32865,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Compound Engineering ; Claude Code, Codex ve Cursor için geliştirilmiş resmi bir eklentidir. Temel felsefesi nettir: her mühendislik işi bir sonrakini zorlaştırmamalı, aksine kolaylaştırmalıdır. Bu amaçla, geliştirme sürecini iyileştiren yapay zekâ becerileri ve ajanları sunar.
 
-- ★ 24.046
+- ★ 24.300
 - TypeScript
 - MIT
 - GitHub Trending · 29 May 2026
 
 ## Güncelleme
+- 16 Ağustos 2026: Yıldız 24.046 → 24.300, son sürüm compound-engineering-v3.22.0 (16 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 24.041 → 24.046, son sürüm compound-engineering-v3.21.4 (6 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 23.748 → 24.041, son sürüm compound-engineering-v3.21.3 (5 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 23.700 → 23.748, son sürüm compound-engineering-v3.21.1 (4 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 17.931 → 23.700, son sürüm compound-engineering-v3.21.0 (31 Temmuz 2026).
 
 - **Kimin için:** AI ile geliştirme yapan ekipler 
 - **Zorluk:** Orta · AI asistanına eklenir 

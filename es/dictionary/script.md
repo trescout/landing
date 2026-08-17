@@ -25,6 +25,7 @@ Sí, es bastante fácil escribir scripts simples una vez que aprendes la lógica
 
 ## Herramientas relacionadas
 - [NVM](/es/discover/nvm/)
+- [Omarchy](/es/discover/omarchy/)
 - [Meshery](/es/discover/meshery/)
 - [Tradingview MCP](/es/discover/tradingview-mcp/)
 
