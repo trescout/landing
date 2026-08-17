@@ -1,0 +1,315 @@
+{
+  "date": "2026-08-17",
+  "editorial": "La agenda de hoy se basa en integraciones de bloqueadores de publicidad basados ​​en navegador, indicaciones del sistema y herramientas de evaluación de procesos en modelos de lenguaje grandes. En el mundo de los modelos de código abierto, los nuevos lanzamientos de alta capacidad como Qwen y Muse-Glimmer están provocando que los desarrolladores reconsideren sus opciones de hardware y arquitectura.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "summary": "Cordis es un metamarco que permite gestionar juntos los componentes espaciales y temporales. Esta estructura basada en TypeScript facilita la modularidad y los componentes compatibles en sistemas complejos.",
+          "meta": "TypeScript · ★ 5.024 · +720 hoy"
+        },
+        {
+          "title": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "summary": "Desarrollado por Basecamp, Omarchy es una herramienta de configuración moderna y original para sistemas operativos Linux. Ofrece un enfoque basado en scripts de shell para estandarizar las instalaciones del sistema y facilitar la administración.",
+          "meta": "Shell · ★ 25.537 · +270 hoy"
+        },
+        {
+          "title": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "summary": "Unsloth es una biblioteca desarrollada para entrenar y ejecutar modelos de lenguaje grandes (LLM) y representar modelos más rápido en computadoras locales. Al optimizar el uso de la memoria, acelera los procesos de ajuste y reduce los requisitos de hardware.",
+          "meta": "Python · ★ 72.741 · +572 hoy"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut ofrece una alternativa de código abierto a la herramienta de edición de vídeo CapCut. Escrito en TypeScript, este software permite a los usuarios editar sus videos localmente.",
+          "meta": "TypeScript · ★ 84.046 · +150 hoy"
+        },
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "Public-apis ofrece una lista categorizada de interfaces de programación de aplicaciones (API) gratuitas que los desarrolladores de software pueden utilizar en sus proyectos. Este recurso, que proporciona acceso a datos de diversos sectores, reúne en un único centro los servicios externos necesarios en los procesos de desarrollo.",
+          "meta": "Python · ★ 462.093 · +1.588 hoy"
+        },
+        {
+          "title": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "summary": "ToolJet es una plataforma de desarrollo de aplicaciones de código abierto para crear herramientas internas, paneles y agentes de inteligencia artificial. Esta infraestructura basada en JavaScript ofrece un rápido desarrollo de aplicaciones a través de una interfaz visual para automatizar los flujos de trabajo corporativos.",
+          "meta": "JavaScript · ★ 40.158 · +452 hoy"
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Desarrollado por Cactus Compute, Needle es un modelo básico de 14 MB que puede ejecutarse en hardware pequeño como teléfonos inteligentes, dispositivos portátiles y robots. Gracias a su estructura liviana, permite realizar operaciones locales de inteligencia artificial en dispositivos finales sin necesidad de conexión a Internet.",
+          "meta": "Python · ★ 6.731 · +443 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Firefox for iOS now has a native adblocker",
+          "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+          "summary": "Mozilla agregó una función de bloqueo de anuncios incorporada al navegador de Internet Firefox que desarrolló para iOS. Esta actualización permite a los usuarios bloquear anuncios y rastreadores en páginas web directamente desde el navegador sin necesidad de un complemento de terceros.",
+          "meta": "581 puntos · 239 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49319633",
+              "popularity": 581,
+              "engagementCount": 239
+            }
+          ]
+        },
+        {
+          "title": "Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "summary": "Anthropic ha puesto a disposición de los desarrolladores la función de indicaciones del sistema para su modelo de inteligencia artificial Claude. Esta característica permite a los desarrolladores gestionar el comportamiento, el tono y las restricciones del modelo con instrucciones predefinidas.",
+          "meta": "580 puntos · 240 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49319556",
+              "popularity": 580,
+              "engagementCount": 240
+            }
+          ]
+        },
+        {
+          "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+          "url": "https://rvembedded.com/blog_post/12/",
+          "summary": "Los ingenieros de sistemas integrados de los países en desarrollo afirman que la naturaleza de código abierto y de bajo costo de la arquitectura RISC-V ofrece una oportunidad crítica para los ecosistemas tecnológicos locales. Esta arquitectura permite el desarrollo independiente al democratizar los procesos de diseño de hardware que son inaccesibles debido a las tarifas de licencia.",
+          "meta": "412 puntos · 225 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49321717",
+              "popularity": 412,
+              "engagementCount": 225
+            }
+          ]
+        },
+        {
+          "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+          "url": "https://news.ycombinator.com/item?id=49322107",
+          "summary": "El proveedor de infraestructura de Internet Cloudflare agrega automáticamente fragmentos de análisis a los sitios web si los usuarios mueven sus servidores de nombres a su propio sistema. Esto hace que se incluyan scripts de seguimiento incluso en páginas estáticas que no contienen ningún código JavaScript.",
+          "meta": "346 puntos · 91 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49322107",
+              "popularity": 346,
+              "engagementCount": 91
+            }
+          ]
+        },
+        {
+          "title": "The AI Credit Resale Economy",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "summary": "Está surgiendo una economía en la que los créditos API que brindan acceso a modelos de inteligencia artificial se revenden a precios reducidos en los mercados secundarios. Los corredores de tokens adquieren derechos de uso a gran escala a bajo costo y comercializan estos tokens entre desarrolladores o empresas más pequeños.",
+          "meta": "248 puntos · 98 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49320611",
+              "popularity": 248,
+              "engagementCount": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Desarrollado por Alibaba, Qwen2.5-VL es un modelo de inteligencia artificial multimodal (IA multimodal) que produce resultados basados ​​en texto mediante el procesamiento de imágenes y datos de texto. Su objetivo es aumentar la capacidad de comprensión visual entre los modelos de lenguaje de código abierto (LLM) con la capacidad de analizar contenido visual y relacionarlo con el texto.",
+          "meta": "♥ 10.358 · 267.725 descargas"
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "summary": "Muse-Glimmer-30B, desarrollado por Meta-models, es un modelo de lenguaje grande multimodal que puede procesar datos visuales y textuales simultáneamente. El modelo funciona con la capacidad de producir resultados basados ​​en texto combinando entradas de imagen y texto.",
+          "meta": "♥ 1.636 · 292.973 descargas"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth es una biblioteca de optimización que permite entrenar modelos de lenguaje grandes más rápido y con menor uso de memoria. Esta versión del modelo Qwen2.5-27B ha sido optimizada para ejecutarse de manera más eficiente en hardware estándar gracias al formato GGUF.",
+          "meta": "♥ 1.491 · 1.945.635 descargas"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Desarrollado por Alibaba, Qwen3.8-2.4T-A95B es un modelo de generación de texto entrenado en conjuntos de datos a gran escala. El modelo ofrece una estructura orientada al rendimiento en tareas lingüísticas complejas con su gran número de parámetros y datos de entrenamiento completos.",
+          "meta": "♥ 1.015 · 7.932 descargas"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Desarrollado por Lightricks, LTX-2.5 es un modelo de imagen a video que convierte imágenes fijas en videos cortos. Su objetivo es acelerar los procesos de producción visual convirtiendo las fotografías subidas por los usuarios en contenido animado.",
+          "meta": "♥ 1.038 · 424.099 descargas"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment",
+          "url": "https://huggingface.co/papers/2608.14284",
+          "summary": "PRM-as-a-Judge 1.5 es un conjunto de herramientas que evalúa el rendimiento de modelos robóticos con métricas de proceso detalladas más allá de las tasas de éxito binarias. Analiza las operaciones realizadas por los robots a través de grabaciones de vídeo y proporciona datos concretos sobre cuestiones como el margen de error, el proceso de recuperación y la calidad de la aplicación.",
+          "meta": "2 me gusta · 1 comentarios"
+        },
+        {
+          "title": "MobileMem: Learning from a Year of Mobile Experiences",
+          "url": "https://huggingface.co/papers/2608.13606",
+          "summary": "MobileMem ofrece un nuevo marco que permite a los asistentes de inteligencia artificial aprender continuamente manteniendo las experiencias de los usuarios en la memoria a largo plazo. Su objetivo es permitir que los asistentes tengan una estructura de memoria que se desarrolle con el tiempo mediante el procesamiento de datos personales complejos, multimodales en dispositivos móviles.",
+          "meta": "6 me gusta · 1 comentarios"
+        },
+        {
+          "title": "Multimodal Model Diffing for Feature Discovery and Control",
+          "url": "https://huggingface.co/papers/2608.09928",
+          "summary": "Desarrollado para analizar características internas en modelos de lenguajes grandes multimodales, MMDiff permite identificar componentes que cambian durante el proceso de entrenamiento del modelo. Este método permite la inspección y el control específico de estructuras visuales y textuales complejas utilizando codificadores automáticos dispersos.",
+          "meta": "2 me gusta · 1 comentarios"
+        },
+        {
+          "title": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
+          "url": "https://huggingface.co/papers/2608.14546",
+          "summary": "CPI-Bench es una herramienta de referencia integral desarrollada para evaluar modelos de edición visual en escenarios del mundo real. A diferencia de las pruebas existentes, su objetivo es analizar el rendimiento de los modelos con criterios más realistas en tareas complejas y de múltiples imágenes.",
+          "meta": "8 me gusta · 1 comentarios"
+        },
+        {
+          "title": "Generation as Auxiliary Supervision: Enhancing Visual Understanding at Zero Inference Overhead via Decoupled Embedding Prediction",
+          "url": "https://huggingface.co/papers/2608.12209",
+          "summary": "GAS mejora el rendimiento de modelos de lenguaje grande multimodal con un método de entrenamiento que combina comprensión y producción visual. El método permite un procesamiento más eficaz de datos visuales mediante el uso de predicción de incrustación desacoplada sin aumentar el costo de inferencia.",
+          "meta": "0 me gusta · 0 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I thought I was building a C replacement. I was wrong",
+          "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+          "summary": "Aunque el lenguaje de programación C3 se desarrolló para eliminar las deficiencias del lenguaje C, es un lenguaje de sistema que ha evolucionado hacia su propia estructura única con el tiempo. Los desarrolladores señalan que es más eficiente diseñar un nuevo lenguaje (C3) que se centre en las necesidades del software moderno en lugar de modificar un lenguaje existente.",
+          "meta": "66 puntos · 37 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i",
+              "popularity": 66,
+              "engagementCount": 37
+            }
+          ]
+        },
+        {
+          "title": "Every Fucking Website",
+          "url": "https://op.tngl.io/every-fucking-website/",
+          "summary": "Los elementos de la interfaz, como los consentimientos de cookies, las ventanas de suscripción a boletines informativos y las solicitudes de notificación que ocultan el contenido de los sitios web modernos, se convierten en un desorden que afecta negativamente a la experiencia del usuario. Esta situación aumenta las críticas contra la difusión de patrones oscuros que dificultan el acceso a la información en Internet.",
+          "meta": "59 puntos · 27 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ii5tun/every_fucking_website",
+              "popularity": 59,
+              "engagementCount": 27
+            }
+          ]
+        },
+        {
+          "title": "A faster way to calculate the day-of-the-week",
+          "url": "https://www.benjoffe.com/fast-day-of-week",
+          "summary": "El nuevo algoritmo desarrollado por Ben Joffe ofrece un atajo matemático para calcular en qué día de la semana cae cualquier fecha. Este método proporciona resultados rápidos con menos pasos de procesamiento en comparación con los cálculos de calendario tradicionales (fórmula de Zeller).",
+          "meta": "21 puntos · 4 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ln3dao/faster_way_calculate_day_week",
+              "popularity": 21,
+              "engagementCount": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "meta-framework",
+      "explanation": "Un marco avanzado construido sobre una herramienta de desarrollo de software que acelera el trabajo y ofrece soluciones listas para usar."
+    },
+    {
+      "term": "shell script",
+      "explanation": "Pequeños scripts que hacen que automáticamente el sistema operativo del ordenador realice una tras otra las tareas que necesita."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Sistema avanzado de inteligencia artificial que puede hablar y escribir como un humano leyendo grandes cantidades de texto en Internet."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Reentrenar una inteligencia artificial entrenada de propósito general con datos más pequeños y específicos para especializarse en un tema específico."
+    },
+    {
+      "term": "API",
+      "explanation": "Un puente digital que permite que dos software diferentes se comuniquen entre sí e intercambien datos."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "El modelo principal que forma la base de las aplicaciones de inteligencia artificial, entrenado en grandes conjuntos de datos para su uso en muchas tareas diferentes."
+    },
+    {
+      "term": "adblocker",
+      "explanation": "Complemento del navegador que impide la carga de anuncios que aparecen en sitios web."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Instrucciones iniciales que le dicen a la IA cómo debe comportarse y qué reglas debe seguir."
+    },
+    {
+      "term": "nameservers",
+      "explanation": "Servidores de directorio que convierten los nombres de sitios web en direcciones numéricas que las computadoras pueden entender."
+    },
+    {
+      "term": "analytics snippets",
+      "explanation": "Pequeños fragmentos de código que se utilizan para realizar un seguimiento de cuántas personas visitan un sitio web y qué hacen."
+    },
+    {
+      "term": "multimodal AI",
+      "explanation": "No sólo con texto; Inteligencia artificial que puede procesar simultáneamente diferentes tipos de datos como imagen, audio y vídeo."
+    },
+    {
+      "term": "multimodal large language model",
+      "explanation": "Un modelo de inteligencia artificial avanzado que puede comprender y comentar diferentes contenidos como imágenes o sonidos además de texto."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "text-generation model",
+      "explanation": "Inteligencia artificial que crea textos significativos siguiendo una oración inicial o un tema que se le asigna."
+    },
+    {
+      "term": "image-to-video",
+      "explanation": "Tecnología de inteligencia artificial que toma una fotografía y la convierte en un vídeo en movimiento."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "La capacidad de utilizar múltiples tipos diferentes de comunicaciones o datos simultáneamente."
+    }
+  ]
+}

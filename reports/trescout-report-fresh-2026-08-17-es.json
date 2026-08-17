@@ -1,0 +1,220 @@
+{
+  "date": "2026-08-17",
+  "editorial": "Este informe incluye por primera vez las tendencias que surgieron hoy, sin repetir lo que hemos compartido en los últimos días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "summary": "Desarrollado por Basecamp, Omarchy es una herramienta de configuración moderna y original para sistemas operativos Linux. Ofrece un enfoque basado en scripts de shell para estandarizar las instalaciones del sistema y facilitar la administración.",
+          "meta": "Shell · ★ 25.537 · +270 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Firefox for iOS now has a native adblocker",
+          "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+          "summary": "Mozilla agregó una función de bloqueo de anuncios incorporada al navegador de Internet Firefox que desarrolló para iOS. Esta actualización permite a los usuarios bloquear anuncios y rastreadores en páginas web directamente desde el navegador sin necesidad de un complemento de terceros.",
+          "meta": "581 puntos · 239 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49319633",
+              "popularity": 581,
+              "engagementCount": 239
+            }
+          ]
+        },
+        {
+          "title": "Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "summary": "Anthropic ha puesto a disposición de los desarrolladores la función de indicaciones del sistema para su modelo de inteligencia artificial Claude. Esta característica permite a los desarrolladores gestionar el comportamiento, el tono y las restricciones del modelo con instrucciones predefinidas.",
+          "meta": "580 puntos · 240 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49319556",
+              "popularity": 580,
+              "engagementCount": 240
+            }
+          ]
+        },
+        {
+          "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+          "url": "https://rvembedded.com/blog_post/12/",
+          "summary": "Los ingenieros de sistemas integrados de los países en desarrollo afirman que la naturaleza de código abierto y de bajo costo de la arquitectura RISC-V ofrece una oportunidad crítica para los ecosistemas tecnológicos locales. Esta arquitectura permite el desarrollo independiente al democratizar los procesos de diseño de hardware que son inaccesibles debido a las tarifas de licencia.",
+          "meta": "412 puntos · 225 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49321717",
+              "popularity": 412,
+              "engagementCount": 225
+            }
+          ]
+        },
+        {
+          "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+          "url": "https://news.ycombinator.com/item?id=49322107",
+          "summary": "El proveedor de infraestructura de Internet Cloudflare agrega automáticamente fragmentos de análisis a los sitios web si los usuarios mueven sus servidores de nombres a su propio sistema. Esto hace que se incluyan scripts de seguimiento incluso en páginas estáticas que no contienen ningún código JavaScript.",
+          "meta": "346 puntos · 91 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49322107",
+              "popularity": 346,
+              "engagementCount": 91
+            }
+          ]
+        },
+        {
+          "title": "The AI Credit Resale Economy",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "summary": "Está surgiendo una economía en la que los créditos API que brindan acceso a modelos de inteligencia artificial se revenden a precios reducidos en los mercados secundarios. Los corredores de tokens adquieren derechos de uso a gran escala a bajo costo y comercializan estos tokens entre desarrolladores o empresas más pequeños.",
+          "meta": "248 puntos · 98 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49320611",
+              "popularity": 248,
+              "engagementCount": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment",
+          "url": "https://huggingface.co/papers/2608.14284",
+          "summary": "PRM-as-a-Judge 1.5 es un conjunto de herramientas que evalúa el rendimiento de modelos robóticos con métricas de proceso detalladas más allá de las tasas de éxito binarias. Analiza las operaciones realizadas por los robots a través de grabaciones de vídeo y proporciona datos concretos sobre cuestiones como el margen de error, el proceso de recuperación y la calidad de la aplicación.",
+          "meta": "2 me gusta · 1 comentarios"
+        },
+        {
+          "title": "MobileMem: Learning from a Year of Mobile Experiences",
+          "url": "https://huggingface.co/papers/2608.13606",
+          "summary": "MobileMem ofrece un nuevo marco que permite a los asistentes de inteligencia artificial aprender continuamente manteniendo las experiencias de los usuarios en la memoria a largo plazo. Su objetivo es permitir que los asistentes tengan una estructura de memoria que se desarrolle con el tiempo mediante el procesamiento de datos personales complejos, multimodales en dispositivos móviles.",
+          "meta": "6 me gusta · 1 comentarios"
+        },
+        {
+          "title": "Multimodal Model Diffing for Feature Discovery and Control",
+          "url": "https://huggingface.co/papers/2608.09928",
+          "summary": "Desarrollado para analizar características internas en modelos de lenguajes grandes multimodales, MMDiff permite identificar componentes que cambian durante el proceso de entrenamiento del modelo. Este método permite la inspección y el control específico de estructuras visuales y textuales complejas utilizando codificadores automáticos dispersos.",
+          "meta": "2 me gusta · 1 comentarios"
+        },
+        {
+          "title": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
+          "url": "https://huggingface.co/papers/2608.14546",
+          "summary": "CPI-Bench es una herramienta de referencia integral desarrollada para evaluar modelos de edición visual en escenarios del mundo real. A diferencia de las pruebas existentes, su objetivo es analizar el rendimiento de los modelos con criterios más realistas en tareas complejas y de múltiples imágenes.",
+          "meta": "8 me gusta · 1 comentarios"
+        },
+        {
+          "title": "Generation as Auxiliary Supervision: Enhancing Visual Understanding at Zero Inference Overhead via Decoupled Embedding Prediction",
+          "url": "https://huggingface.co/papers/2608.12209",
+          "summary": "GAS mejora el rendimiento de modelos de lenguaje grande multimodal con un método de entrenamiento que combina comprensión y producción visual. El método permite un procesamiento más eficaz de datos visuales mediante el uso de predicción de incrustación desacoplada sin aumentar el costo de inferencia.",
+          "meta": "0 me gusta · 0 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I thought I was building a C replacement. I was wrong",
+          "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+          "summary": "Aunque el lenguaje de programación C3 se desarrolló para eliminar las deficiencias del lenguaje C, es un lenguaje de sistema que ha evolucionado hacia su propia estructura única con el tiempo. Los desarrolladores señalan que es más eficiente diseñar un nuevo lenguaje (C3) que se centre en las necesidades del software moderno en lugar de modificar un lenguaje existente.",
+          "meta": "66 puntos · 37 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i",
+              "popularity": 66,
+              "engagementCount": 37
+            }
+          ]
+        },
+        {
+          "title": "Every Fucking Website",
+          "url": "https://op.tngl.io/every-fucking-website/",
+          "summary": "Los elementos de la interfaz, como los consentimientos de cookies, las ventanas de suscripción a boletines informativos y las solicitudes de notificación que ocultan el contenido de los sitios web modernos, se convierten en un desorden que afecta negativamente a la experiencia del usuario. Esta situación aumenta las críticas contra la difusión de patrones oscuros que dificultan el acceso a la información en Internet.",
+          "meta": "59 puntos · 27 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ii5tun/every_fucking_website",
+              "popularity": 59,
+              "engagementCount": 27
+            }
+          ]
+        },
+        {
+          "title": "A faster way to calculate the day-of-the-week",
+          "url": "https://www.benjoffe.com/fast-day-of-week",
+          "summary": "El nuevo algoritmo desarrollado por Ben Joffe ofrece un atajo matemático para calcular en qué día de la semana cae cualquier fecha. Este método proporciona resultados rápidos con menos pasos de procesamiento en comparación con los cálculos de calendario tradicionales (fórmula de Zeller).",
+          "meta": "21 puntos · 4 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ln3dao/faster_way_calculate_day_week",
+              "popularity": 21,
+              "engagementCount": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "shell script",
+      "explanation": "Pequeños scripts que hacen que automáticamente el sistema operativo del ordenador realice una tras otra las tareas que necesita."
+    },
+    {
+      "term": "API",
+      "explanation": "Un puente digital que permite que dos software diferentes se comuniquen entre sí e intercambien datos."
+    },
+    {
+      "term": "adblocker",
+      "explanation": "Complemento del navegador que impide la carga de anuncios que aparecen en sitios web."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Instrucciones iniciales que le dicen a la IA cómo debe comportarse y qué reglas debe seguir."
+    },
+    {
+      "term": "nameservers",
+      "explanation": "Servidores de directorio que convierten los nombres de sitios web en direcciones numéricas que las computadoras pueden entender."
+    },
+    {
+      "term": "analytics snippets",
+      "explanation": "Pequeños fragmentos de código que se utilizan para realizar un seguimiento de cuántas personas visitan un sitio web y qué hacen."
+    },
+    {
+      "term": "multimodal large language model",
+      "explanation": "Un modelo de inteligencia artificial avanzado que puede comprender y comentar diferentes contenidos como imágenes o sonidos además de texto."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "La capacidad de utilizar múltiples tipos diferentes de comunicaciones o datos simultáneamente."
+    }
+  ]
+}
