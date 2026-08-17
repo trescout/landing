@@ -1212,13 +1212,13 @@
     "slug": "liteparse",
     "title": "Liteparse",
     "tagline": "Rust ile geliştirilmiş hızlı ve açık kaynak belge ayrıştırıcı (document parser).",
-    "meta": "★ 12.098 · Apache-2.0",
+    "meta": "★ 12.102 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 12098,
+    "stars": 12102,
     "image": "/assets/discover/og/liteparse.webp",
     "headline": "Belgelerinizi Rust ile hızlıca ayrıştırın",
     "last_review": "2026-08-17",
@@ -1250,6 +1250,13 @@
         "onceki_yildiz": 11934,
         "surum": "node-v2.13.0",
         "surum_tarihi": "2026-08-15"
+      },
+      {
+        "tarih": "2026-08-17",
+        "yildiz": 12102,
+        "onceki_yildiz": 12098,
+        "surum": "node-v2.13.1",
+        "surum_tarihi": "2026-08-17"
       }
     ],
     "tagline_en": "Fast and open source document parser developed with Rust.",
@@ -3435,7 +3442,7 @@
     "slug": "llama-cpp",
     "title": "Llama.cpp",
     "tagline": "Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını…",
-    "meta": "★ 124.252 · C++",
+    "meta": "★ 124.267 · C++",
     "image": "/assets/discover/og/llama-cpp.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -3443,7 +3450,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 124252,
+    "stars": 124267,
     "lite": false,
     "headline": "Yapay zekâ modellerini bilgisayarınızda çalıştırın",
     "last_review": "2026-08-17",
@@ -3573,6 +3580,13 @@
         "onceki_yildiz": 124020,
         "surum": "b10453",
         "surum_tarihi": "2026-08-16"
+      },
+      {
+        "tarih": "2026-08-17",
+        "yildiz": 124267,
+        "onceki_yildiz": 124252,
+        "surum": "b10455",
+        "surum_tarihi": "2026-08-17"
       }
     ],
     "tagline_en": "Llama.cpp enables large language models to run efficiently on standard hardware.",
@@ -5197,7 +5211,7 @@
     "slug": "cua",
     "title": "CUA",
     "tagline": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor.",
-    "meta": "★ 21.430 · HTML",
+    "meta": "★ 21.435 · HTML",
     "image": "/assets/discover/og/cua.webp",
     "source": "GitHub",
     "date": "2026-06-16",
@@ -5205,7 +5219,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 21430,
+    "stars": 21435,
     "lite": false,
     "headline": "Yapay zekâ ajanları için bilgisayar kontrolü",
     "last_review": "2026-08-17",
@@ -5271,6 +5285,13 @@
         "yildiz": 21430,
         "onceki_yildiz": 21399,
         "surum": "sandbox-v0.3.5",
+        "surum_tarihi": "2026-08-17"
+      },
+      {
+        "tarih": "2026-08-17",
+        "yildiz": 21435,
+        "onceki_yildiz": 21430,
+        "surum": "fleet-v0.1.11",
         "surum_tarihi": "2026-08-17"
       }
     ],
@@ -6576,7 +6597,7 @@
     "slug": "agent-native",
     "title": "Agent Native",
     "tagline": "BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications)…",
-    "meta": "★ 4.509 · TypeScript",
+    "meta": "★ 4.510 · TypeScript",
     "image": "/assets/discover/og/agent-native.webp",
     "source": "GitHub",
     "date": "2026-06-20",
@@ -6584,7 +6605,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4509,
+    "stars": 4510,
     "lite": false,
     "headline": "Yapay zekâ ajanları için uygulama çerçevesi",
     "last_review": "2026-08-17",
@@ -6692,6 +6713,13 @@
         "yildiz": 4509,
         "onceki_yildiz": 4504,
         "surum": "@agent-native/skills@0.2.583",
+        "surum_tarihi": "2026-08-17"
+      },
+      {
+        "tarih": "2026-08-17",
+        "yildiz": 4510,
+        "onceki_yildiz": 4509,
+        "surum": "@agent-native/skills@0.2.584",
         "surum_tarihi": "2026-08-17"
       }
     ],

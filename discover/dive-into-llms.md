@@ -2,11 +2,12 @@
 
 Dive into LLMs, büyük dil modellerinin (large language models) çalışma prensiplerini Jupyter Notebook dosyaları üzerinden uygulamalı olarak öğreten bir eğitim serisidir. Proje, temel kavramlardan ileri seviye tekniklere kadar geniş bir yelpazede kodlama pratikleri sunarak model geliştirme süreçlerini somutlaştırır.
 
-- ★ 47.047
+- ★ 49.468
 - Jupyter Notebook
 - GitHub Trending · 2026-07-25
 
 ## Güncelleme
+- 17 Ağustos 2026: Yıldız 47.047 → 49.468, son sürüm v1 (12 Haziran 2025).
 - 2 Ağustos 2026: Yıldız 45.115 → 47.047, son sürüm v1 (12 Haziran 2025).
 
 ## Ne kazandırır?

@@ -2,7 +2,7 @@
 
 Autoremesher é uma ferramenta que converte automaticamente estruturas de superfície irregulares em modelos tridimensionais em remalhamento quádruplo. Desenvolvido em linguagem C++, este software é otimizado para tornar geometrias complexas adequadas para processos de animação e modelagem.
 
-- ★ 3.087
+- ★ 3.225
 - C++
 - GitHub Trending · 2026-07-09
 

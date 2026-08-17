@@ -2,7 +2,7 @@
 
 Lighthouse est un outil de couverture de code développé en langage C et conçu pour les systèmes de bas niveau. Il fournit des données aux développeurs pour le débogage et l'optimisation des performances en analysant les blocs de code exécutés pendant les processus de test du logiciel.
 
-- ★ 334
+- ★ 368
 - C
 - GitHub Trending · 2026-08-03
 

@@ -2,9 +2,12 @@
 
 Basecamp tarafından geliştirilen Omarchy, Linux işletim sistemleri için modern ve özgün bir yapılandırma aracıdır. Sistem kurulumlarını standartlaştırmak ve yönetimi kolaylaştırmak amacıyla kabuk betiği (shell script) tabanlı bir yaklaşım sunar.
 
-- ★ 25.537
+- ★ 25.539
 - Shell
 - GitHub Trending · 2026-08-17
+
+## Güncelleme
+- 17 Ağustos 2026: Yıldız 25.537 → 25.539, son sürüm v4.0.0 (14 Ağustos 2026).
 
 ## Ne kazandırır?
 - Sistem kurulumlarını standartlaştırarak yönetimi kolaylaştırır
@@ -25,7 +28,7 @@ Omarchy kullanmaya başlamak için omarchy.org adresini ziyaret ederek resmî we
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Script Shell Terminal
+Shell Script Script Shell Terminal
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/omarchy/

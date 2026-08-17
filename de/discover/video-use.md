@@ -2,7 +2,7 @@
 
 Mit der Videonutzungsbibliothek können Programmierer Videobearbeitungsprozesse automatisieren. Dieses Python-basierte Tool beschleunigt Arbeitsabläufe, indem es visuelle Bearbeitungsaufgaben über Softwarebefehle ausführt.
 
-- ★ 19.784
+- ★ 20.820
 - Python
 - GitHub Trending · 2026-06-29
 

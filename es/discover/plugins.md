@@ -2,7 +2,7 @@
 
 Los complementos de OpenAI permiten que los modelos de lenguaje accedan a datos actuales e interactúen con aplicaciones de terceros. Esta estructura permite que la inteligencia artificial realice tareas complejas utilizando herramientas externas.
 
-- ★ 4.881
+- ★ 5.110
 - JavaScript
 - GitHub Trending · 2026-06-06
 

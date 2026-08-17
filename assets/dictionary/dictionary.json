@@ -6154,5 +6154,29 @@
     "kisa_pt": "É uma tecnologia que transforma uma imagem estática em um vídeo em movimento por meio de inteligência artificial.",
     "kisa_es": "Es una tecnología que convierte una imagen fija en un vídeo en movimiento mediante inteligencia artificial.",
     "kisa_de": "Dabei handelt es sich um eine Technologie, die mithilfe künstlicher Intelligenz ein Standbild in ein bewegtes Video verwandelt."
+  },
+  {
+    "slug": "shell-script",
+    "en": "Shell Script",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarın işletim sistemine, yapılması gereken işleri sırayla yaptıran küçük komut dosyalarıdır.",
+    "kisa_en": "These are small scripts that instruct the computer's operating system to do the work that needs to be done in order.",
+    "kisa_fr": "Il s'agit de petits scripts qui demandent au système d'exploitation de l'ordinateur d'effectuer le travail qui doit être effectué dans l'ordre.",
+    "kisa_pt": "Esses são pequenos scripts que instruem o sistema operacional do computador a fazer o trabalho que precisa ser feito em ordem.",
+    "kisa_es": "Estos son pequeños scripts que le indican al sistema operativo de la computadora que haga el trabajo que debe realizarse en orden.",
+    "kisa_de": "Hierbei handelt es sich um kleine Skripte, die das Betriebssystem des Computers anweisen, die erforderliche Arbeit in der richtigen Reihenfolge auszuführen."
+  },
+  {
+    "slug": "text-generation-model",
+    "en": "Text Generation Model",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Verilen bir başlangıç cümlesini veya konuyu takip ederek anlamlı metinler üreten yapay zekâ modelidir.",
+    "kisa_en": "It is an artificial intelligence model that produces meaningful texts by following a given starting sentence or topic.",
+    "kisa_fr": "Il s'agit d'un modèle d'intelligence artificielle qui produit des textes significatifs en suivant une phrase ou un sujet de départ donné.",
+    "kisa_pt": "É um modelo de inteligência artificial que produz textos significativos seguindo uma determinada frase ou tópico inicial.",
+    "kisa_es": "Es un modelo de inteligencia artificial que produce textos significativos siguiendo una oración o tema inicial determinado.",
+    "kisa_de": "Dabei handelt es sich um ein Modell der künstlichen Intelligenz, das aussagekräftige Texte produziert, indem es einem vorgegebenen Anfangssatz oder Thema folgt."
   }
 ]

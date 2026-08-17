@@ -2,7 +2,7 @@
 
 Agentsview ist ein Überwachungstool, das lokale Sitzungsinformationen und Analysedaten für Codierungsagenten bereitstellt. Diese Software, die mehr als zwanzig Agenten unterstützt, darunter Claude Code und Codex, verspricht eine schnellere Leistung im Vergleich zum Ccusage-Tool.
 
-- ★ 4.714
+- ★ 5.064
 - Go
 - GitHub Trending · 2026-06-12
 

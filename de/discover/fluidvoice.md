@@ -2,7 +2,7 @@
 
 FluidVoice ist eine schnelle Voice-to-Text-Anwendung, die vollständig offline auf dem macOS-Betriebssystem funktioniert. Dieses in Swift entwickelte Tool verarbeitet Daten lokal und bietet ein datenschutzorientiertes Audiokonvertierungserlebnis.
 
-- ★ 9.494
+- ★ 10.516
 - Swift
 - GitHub Trending · 2026-06-29
 

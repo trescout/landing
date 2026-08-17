@@ -2,7 +2,7 @@
 
 Les plugins OpenAI permettent aux modèles de langage d'accéder à des données à jour et d'interagir avec des applications tierces. Cette structure permet à l'intelligence artificielle d'effectuer des tâches complexes à l'aide d'outils externes.
 
-- ★ 4 881
+- ★ 5 110
 - JavaScript
 - GitHub Trending · 2026-06-06
 

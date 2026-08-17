@@ -2,7 +2,7 @@
 
 Dive into LLMs es una serie de capacitación que enseña los principios de funcionamiento de grandes modelos de lenguaje de manera práctica a través de archivos Jupyter Notebook. El proyecto concreta los procesos de desarrollo de modelos al ofrecer una amplia gama de prácticas de codificación, desde conceptos básicos hasta técnicas avanzadas.
 
-- ★ 47.047
+- ★ 49.468
 - Jupyter Notebook
 - GitHub Trending · 2026-07-25
 
