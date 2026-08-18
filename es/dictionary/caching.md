@@ -26,6 +26,7 @@ Los datos antiguos o que se utilizan con poca frecuencia se eliminan y se reempl
 
 ## Herramientas relacionadas
 - [Guava](/es/discover/guava/)
+- [Omlx](/es/discover/omlx/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/caching/

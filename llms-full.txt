@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-17 · 442 araç · 515 terim
+Son güncelleme: 2026-08-18 · 449 araç · 520 terim
 
 ---
 
@@ -5097,6 +5097,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Continuous Batching nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-18
+
+Yapay zekâ modellerinin gelen istekleri bekletmeden, sürekli ve akıcı bir şekilde işlemesini sağlayan bir optimizasyon yöntemidir.
+
+## Tanım
+Normalde yapay zekâ modelleri istekleri gruplar halinde işler ve bir grubun bitmesini bekler. Sürekli gruplama yöntemi ise, sistemin yeni gelen istekleri mevcut işlem bitmeden sürece dahil etmesine olanak tanır. Bu sayede kullanıcılar cevapları daha hızlı ve beklemeden alır.
+
+## Bir benzetmeyle
+Bir restoranda mutfağın sadece bir masanın tüm yemeklerini bitirip sonra diğerine geçmesi yerine, her masadan gelen siparişleri sürekli olarak pişirmeye devam eden bir şef gibidir.
+
+## Nasıl çalışır?
+Modelin işlem kapasitesi boş kaldığı anda, sırada bekleyen yeni istekler hemen sisteme enjekte edilir. Bu, donanım kaynaklarının her an tam verimle çalışmasını sağlar.
+
+## Nerede kullanılır?
+ChatGPT gibi sohbet botlarının arka planında ve yüksek trafikli yapay zekâ servislerinde kullanılır.
+
+## Sık karıştırılanlar
+Sadece işlem hızıyla karıştırılabilir, ancak bu yöntem özellikle verimlilikle ilgilidir.
+
+## Sıkça sorulanlar
+
+**Neden önemli?**  
+Kullanıcıların bekleme süresini azaltır ve sunucu maliyetlerini düşürür.
+
+**Her modelde var mı?**  
+Hayır, bu genellikle gelişmiş çıkarım motorlarının bir özelliğidir.
+
+## İlgili terimler
+- [Inference Engine](/dictionary/inference-engine/)
+- [LLM](/dictionary/llm/)
+- [Inference](/dictionary/inference/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/continuous-batching/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Continuous Deployment nedir?
 
 > CD
@@ -6849,6 +6891,47 @@ Not alma uygulamaları veya veri tabanları ile kolayca yönetilebilir.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/dossier/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Download Manager nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-18
+
+İnternetten dosya indirme sürecini hızlandıran ve kesintiye uğrayan indirmeleri kaldığı yerden devam ettiren bir yardımcı araçtır.
+
+## Tanım
+İnternet üzerinden büyük dosyalar indirirken bağlantı kopmaları veya yavaşlamalar can sıkıcı olabilir. Bu araç, dosyayı küçük parçalara bölerek aynı anda indirir ve bu sayede indirme hızını artırır. Ayrıca bağlantı koptuğunda baştan başlamak yerine, kaldığı yerden devam ederek zamandan tasarruf sağlar.
+
+## Bir benzetmeyle
+Bir kütüphaneden yüzlerce sayfalık bir kitabı tek tek sayfaları kopyalayarak almak yerine, on arkadaşınızı görevlendirip her birine farklı bölümleri kopyalatarak işi çok daha hızlı bitirmeye benzer.
+
+## Nasıl çalışır?
+Genellikle tarayıcınıza bir eklenti veya bilgisayarınıza bir yazılım olarak kurulur. Bir dosya indirme bağlantısına tıkladığınızda, tarayıcınızın kendi indirme yöneticisi yerine bu araç devreye girer ve süreci yönetir.
+
+## Nerede kullanılır?
+Dosya paylaşım sitelerinde, büyük yazılım paketleri indirirken veya yavaş internet bağlantılarında kullanılır.
+
+## Sık karıştırılanlar
+Tarayıcıların kendi basit indirme yöneticileriyle karıştırılabilir, ancak bu araçlar çok daha gelişmiş özellikler sunar.
+
+## Sıkça sorulanlar
+
+**Her dosyayı hızlandırır mı?**  
+Hayır, dosya boyutu küçükse hız farkı hissedilmez ancak büyük dosyalarda oldukça etkilidir.
+
+**Ücretsiz midir?**  
+Pek çok ücretsiz ve açık kaynaklı seçeneği mevcuttur.
+
+## İlgili terimler
+- [CLI](/dictionary/cli/)
+- [Utilities](/dictionary/utilities/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/download-manager/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -13880,6 +13963,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Phased Array Radar nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-18
+
+Hareketli parçalar kullanmadan, elektronik sinyallerle yönünü değiştirerek hedefleri takip eden gelişmiş bir radar sistemidir.
+
+## Tanım
+Geleneksel radarlar anteni fiziksel olarak döndürerek tarama yaparken, bu teknoloji sabit bir anten dizisi kullanır. Elektronik sinyallerin zamanlamasını değiştirerek radar ışınlarını farklı yönlere saptırır. Bu sayede çok daha hızlı ve hassas bir takip imkanı sağlar.
+
+## Bir benzetmeyle
+Bir kalabalıkta birini ararken başınızı sürekli sağa sola çevirmek yerine, gözlerinizi hareket ettirmeden sadece odak noktanızı saniyeler içinde değiştirerek bakmaya benzer.
+
+## Nasıl çalışır?
+Anten dizisindeki her bir vericiye giden sinyalin fazı (zamanlaması) hassas bir şekilde ayarlanır. Bu faz farkları, radyo dalgalarının belirli bir yönde birleşmesini sağlar.
+
+## Nerede kullanılır?
+Askeri savunma sistemlerinde, hava trafik kontrolünde ve modern otonom araçların sensörlerinde kullanılır.
+
+## Sık karıştırılanlar
+Dönen antenli klasik radarlarla karıştırılabilir; en büyük fark hareketli parça içermemesidir.
+
+## Sıkça sorulanlar
+
+**Neden daha avantajlı?**  
+Çok daha hızlı tepki verir ve mekanik arıza riski düşüktür.
+
+**Sadece askeri mi?**  
+Hayır, hava durumu tahminleri ve otonom araç teknolojilerinde de yaygındır.
+
+## İlgili terimler
+- [Autonomous Robotics](/dictionary/autonomous-robotics/)
+- [Physical AI](/dictionary/physical-ai/)
+- [Driver Assistance System](/dictionary/driver-assistance-system/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/phased-array-radar/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Physical AI nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -16907,6 +17032,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Smart Contracts nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-18
+
+Belirli koşullar sağlandığında otomatik olarak çalışan ve aracı gerektirmeyen dijital sözleşmelerdir.
+
+## Tanım
+Geleneksel sözleşmelerde birinin kurallara uyup uymadığını kontrol eden bir avukat veya banka gibi aracı gerekir. Akıllı sözleşmeler ise kodla yazılır ve koşullar gerçekleştiğinde (örneğin ödeme yapıldığında) işlem kendiliğinden tamamlanır. Bu kodlar değiştirilemez ve şeffaftır.
+
+## Bir benzetmeyle
+Bir otomat makinesine benzer: Parayı atıp ürünü seçtiğinizde, makine koşulun sağlandığını anlar ve ürünü size verir; araya bir satıcı girmesine gerek kalmaz.
+
+## Nasıl çalışır?
+Blokzincir ağları üzerinde çalışan kod parçalarıdır. Belirlenen kurallar kodlanır ve ağ tarafından doğrulanarak otomatik olarak yürütülür.
+
+## Nerede kullanılır?
+Finansal işlemlerde, mülkiyet devirlerinde ve dijital varlık yönetiminde kullanılır.
+
+## Sık karıştırılanlar
+Sadece dijital imza ile karıştırılabilir, ancak akıllı sözleşmeler bir işlem mantığı içerir.
+
+## Sıkça sorulanlar
+
+**Değiştirilebilir mi?**  
+Hayır, bir kez blokzincire yüklendikten sonra değiştirilemezler.
+
+**Güvenli mi?**  
+Kodun hatasız yazılması gerekir; hatalı kodlar açık oluşturabilir.
+
+## İlgili terimler
+- [API](/dictionary/api/)
+- [Security Scanner](/dictionary/security-scanner/)
+- [Distributed](/dictionary/distributed/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/smart-contracts/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Spatial Reasoning nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -17264,6 +17431,48 @@ Evet, bu araçları etkili kullanmak için temel SQL komutlarını bilmeniz gere
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/sql-client/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# SSD Caching nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-18
+
+Sık kullanılan verilerin hızlı SSD disklerde tutularak bilgisayarın genel tepki süresinin artırılması işlemidir.
+
+## Tanım
+Bilgisayarların ana depolama birimleri bazen yavaş kalabilir. Bu yöntem, en çok ihtiyaç duyulan dosyaları veya verileri geçici olarak çok daha hızlı olan SSD üzerinde depolar. Böylece sistem aradığı veriyi yavaş diskte aramak yerine doğrudan SSD'den çeker.
+
+## Bir benzetmeyle
+Çok okuduğunuz kitapları kütüphanenin en uzak rafına koymak yerine, masanızın hemen üzerindeki rafa dizmeye benzer.
+
+## Nasıl çalışır?
+Sistem, hangi verilerin sık kullanıldığını takip eden bir yazılım aracılığıyla bu verileri otomatik olarak SSD'ye kopyalar. Siz bir dosyayı açtığınızda sistem önce SSD'ye bakar.
+
+## Nerede kullanılır?
+Sunucularda, yüksek performanslı bilgisayarlarda ve NAS cihazlarında kullanılır.
+
+## Sık karıştırılanlar
+Sadece depolama alanı eklemekle karıştırılabilir, ancak bu bir hızlandırma stratejisidir.
+
+## Sıkça sorulanlar
+
+**SSD'nin ömrünü azaltır mı?**  
+Sürekli yazma işlemi yapıldığında evet, ancak modern sistemler bunu optimize eder.
+
+**Elle mi ayarlanır?**  
+Genellikle işletim sistemi veya özel sürücüler bunu otomatik yönetir.
+
+## İlgili terimler
+- [Caching](/dictionary/caching/)
+- [NAS](/dictionary/nas/)
+- [RAM](/dictionary/ram/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ssd-caching/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -21975,7 +22184,7 @@ Lisans: GitHub bu repo için standart bir lisans tespit etmedi. Anthropic'in res
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Plugin Skill AI Skills PDF Artificial Intelligence
+Plugin Skill PDF AI Skills Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/anthropic-skills/
@@ -22725,17 +22934,17 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını sağlayan C ve C++ tabanlı bir çıkarım (inference) kütüphanesidir. Yazılım, düşük bellek kullanımı ve yüksek performans odaklı yapısıyla yerel cihazlarda yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.
 
-- ★ 124.252
+- ★ 124.267
 - C++
 - GitHub Trending · 2026-06-08
 
 TreScout notu: Dil modellerini kendi bilgisayarınızda, sunucu kiralamadan çalıştırır. Kurulum artık kolay ama beklentiyi ayarlayın: Küçük modeller hızlı, büyükleri belleğinizi zorlar ve bulut hizmetlerinin cevap kalitesini beklemeyin.
 
 ## Güncelleme
+- 17 Ağustos 2026: Yıldız 124.252 → 124.267, son sürüm b10455 (17 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 124.020 → 124.252, son sürüm b10453 (16 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 123.526 → 124.020, son sürüm b10448 (15 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 123.392 → 123.526, son sürüm b10369 (12 Ağustos 2026).
-- 11 Ağustos 2026: Yıldız 123.386 → 123.392, son sürüm b10357 (11 Ağustos 2026).
 
 ## Ne kazandırır?
 - Büyük dil modellerini standart donanımlarda verimli çalıştırır.
@@ -27260,6 +27469,56 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Modern ve kapsamlı indirme yöneticisi
+
+Motrix, TypeScript ile geliştirilen ve tüm dosya indirme ihtiyaçlarını karşılayan kapsamlı bir indirme yöneticisi (download manager). Kullanıcılara HTTP, FTP ve BitTorrent gibi farklı protokolleri tek bir arayüz üzerinden yönetme imkânı sunuyor.
+
+- ★ 53.422
+- TypeScript
+- GitHub Trending · 2026-08-18
+
+## Ne kazandırır?
+- HTTP, FTP ve BitTorrent protokollerini tek arayüzden yönetir
+- İndirme hızlarını sınırlar ve gelişmiş oturum yönetimi sunar
+- Tarayıcı eklentileriyle tek tıkla indirme başlatır
+
+## Kurulum
+
+**Komut satırı arayüzünü yükleme**
+
+```
+npm install -g @motrix/cli
+```
+
+## Çalıştırma
+
+**Dosya indirme işlemini başlatma**
+
+```
+motrix add https://example.com/file.iso --save-dir ~/Downloads
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Motrix komut satırı arayüzünü kullanarak indirme görevlerini yönetmeme yardımcı ol. İndirme listesini görüntülemek için 'motrix list', yeni bir dosya eklemek için 'motrix add [URL] --save-dir [DİZİN]' ve indirme ilerlemesini canlı takip etmek için 'motrix watch --stats' komutlarını kullan. Uzak bir sunucuya bağlanmam gerekirse 'motrix pair' komutunu devreye al.
+
+- **Kimin için:** İnternet üzerindeki farklı kaynaklardan dosya indirme süreçlerini tek bir merkezden kontrol etmek isteyen kullanıcılar içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/agalwood/Motrix)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Download Manager Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/motrix/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yazılım süreçlerini yapay zekâ ile yönetinşa otomatize edin
 
 Goose, kod önerilerinin ötesine geçerek yazılım kurulumu, yürütme, düzenleme ve test süreçlerini otomatize eden açık kaynaklı bir yapay zekâ ajanıdır. Rust diliyle geliştirilen bu araç, farklı büyük dil modelleriyle (LLM) entegre çalışarak yazılım geliştirme iş akışlarını uçtan uca yönetmeyi hedefler.
@@ -31508,6 +31767,62 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanları için dosya sistemli hafıza
+
+Volcengine tarafından geliştirilen OpenViking, yapay zekâ ajanları için kendi kendini geliştiren bir bağlam veritabanı sunuyor. Bu sistem, ajan hafızasını, bilgi getirme (RAG) süreçlerini ve yetenekleri (skills) tek bir çatı altında birleştiriyor.
+
+- ★ 29.050
+- Python
+- GitHub Trending · 2026-08-18
+
+## Ne kazandırır?
+- Bilgileri dosya sistemi gibi hiyerarşik düzenler.
+- Katmanlı yükleme ile yapay zekâ maliyetini düşürür.
+- Ajan geçmişini izlenebilir ve hata ayıklanabilir kılar.
+
+## Kurulum
+
+**Sunucu kurulumu ve başlatma**
+
+```
+pip install openviking --upgrade
+openviking-server init # interactive wizard: providers, models, ov.conf
+openviking-server doctor # validate setup
+openviking-server # start (background: nohup openviking-server > openviking.log 2>&1 &)
+```
+
+## Çalıştırma
+
+**Bot desteğiyle sohbet başlatma**
+
+```
+pip install "openviking[bot]"
+openviking-server --with-bot
+ov chat # in another terminal
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+OpenViking veritabanını kullanarak bir yapay zekâ ajanı için bağlam yönetimi kurgula. Bilgileri L0 özet, L1 genel bakış ve L2 detay katmanlarına ayırarak viking:// protokolü üzerinden yapılandır. Ajanın hafızasını, kaynaklarını ve yeteneklerini bu sanal dosya sistemine yerleştirerek, sorgulama sırasında dizinler arasında gezinebilmesini ve geçmiş oturumlarından öğrenerek uzun vadeli hafıza oluşturmasını sağla.
+
+- **Kimin için:** Yapay zekâ ajanlarının hafıza yönetimi, bilgi getirme süreçleri ve yeteneklerini tek bir düzenli sistemde birleştirmek isteyen geliştiriciler içindir. 
+- **Lisans:** AGPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/volcengine/OpenViking)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+RAG AI Skills Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/openviking/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ için akıllı bellek
 
 Supermemory , yapay zekâ çağı için tasarlanmış, yüksek ölçeklenebilir bir bellek motoru ve API sunar. Uygulamalarınıza kalıcı ve sorgulanabilir bir hafıza katmanı eklemenizi sağlar.
@@ -33015,6 +33330,40 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Açık kaynaklı faz dizili radar
+
+PLFM RADAR, 10.5 GHz frekansında çalışan düşük maliyetli ve açık kaynaklı bir faz dizili radar (phased array radar) sistemi. Donanım tabanlı bu proje, radyo frekansı algılama teknolojilerini erişilebilir kılmak için PLSQL diliyle geliştirilen kontrol yazılımlarını kullanıyor.
+
+- ★ 24.163
+- PLSQL
+- GitHub Trending · 2026-08-18
+
+## Ne kazandırır?
+- 3 km ve 20 km menzil seçenekleri
+- Elektronik huzme yönlendirme yeteneği
+- FPGA tabanlı gelişmiş sinyal işleme
+
+## Nasıl başlanır?
+
+Bu proje donanım ve yazılım bileşenlerinden oluşan kapsamlı bir sistemdir. Başlamak için GitHub sayfasındaki dokümanları inceleyerek donanım şemalarına, FPGA yazılım dosyalarına ve Python tabanlı kullanıcı arayüzüne erişebilirsiniz. Projenin kurulumu ve kullanımı için ilgili klasörlerdeki teknik raporları ve simülasyon çıktılarını takip etmeniz önerilir.
+
+- **Kimin için:** Üniversite araştırmacıları, drone geliştiricileri ve yazılım tanımlı radyo teknolojileriyle ilgilenen ileri seviye kullanıcılar için uygundur. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/NawfalMotii79/PLFM_RADAR)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Phased Array Radar
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/plfm-radar/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Kubernetes Dağıtımlarını Otomatize Edin
 
 Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarative continuous deployment) süreçlerini yöneten bir araçtır. Uygulama durumlarını Git depolarıyla senkronize ederek altyapı üzerinde otomatik güncellemeler sağlar.
@@ -33667,7 +34016,7 @@ book-to-skill --check # report which extractors are installed
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Token Markdown Skill AI Skills PDF Artificial Intelligence
+Token Markdown Skill PDF AI Skills Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/book-to-skill/
@@ -33727,15 +34076,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor. Masaüstü işletim sistemlerini kontrol edebilen ajanların eğitimi ve değerlendirilmesi amacıyla kum havuzu (sandbox), yazılım geliştirme kiti (SDK) ve kıyaslama (benchmark) araçlarını tek bir çatı altında topluyor.
 
-- ★ 21.430
+- ★ 21.435
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Güncelleme
+- 17 Ağustos 2026: Yıldız 21.430 → 21.435, son sürüm fleet-v0.1.11 (17 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 21.399 → 21.430, son sürüm sandbox-v0.3.5 (17 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 21.225 → 21.399, son sürüm sandbox-v0.3.4 (13 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 21.066 → 21.225, son sürüm lume-v0.5.3 (11 Ağustos 2026).
-- 10 Ağustos 2026: Yıldız 20.990 → 21.066, son sürüm cli-v0.1.14 (10 Ağustos 2026).
 
 ## Ne kazandırır?
 - Masaüstü uygulamalarını arka planda kontrol etme
@@ -34646,6 +34995,58 @@ Markdown GPU Large Language Models PDF Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/olmocr/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Mac bilgisayarlar için yapay zekâ sunucusu
+
+Omlx, Apple Silicon işlemciler için sürekli yığınlama (continuous batching) ve SSD önbellekleme (SSD caching) özelliklerini destekleyen bir büyük dil modeli (LLM) çıkarım sunucusudur. macOS menü çubuğu üzerinden yönetilen bu araç, yerel donanım üzerinde yüksek performanslı model çalıştırma imkânı sunar.
+
+- ★ 19.197
+- Python
+- GitHub Trending · 2026-08-18
+
+## Ne kazandırır?
+- Apple Silicon işlemcilerde yüksek performanslı model çalıştırma
+- SSD önbellekleme ile verimli bellek yönetimi
+- Menü çubuğundan kolay sunucu kontrolü
+
+## Kurulum
+
+**Homebrew ile kurulum**
+
+```
+brew tap jundot/omlx https://github.com/jundot/omlx
+brew install jundot/omlx/omlx
+```
+
+## Çalıştırma
+
+**Arka plan servisini başlatma**
+
+```
+omlx start
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Yerel Apple Silicon donanımımda çalışan oMLX sunucum üzerinden büyük dil modellerini yönetiyorum. Sürekli yığınlama ve SSD önbellekleme özelliklerini kullanarak, bellek kullanımını optimize etmemi ve model performansını artırmamı sağlayacak en iyi yapılandırma ayarlarını öner. Ayrıca, mevcut modellerim arasında geçiş yaparken KV önbelleğini nasıl en verimli şekilde kullanabileceğimi açıkla.
+
+- **Kimin için:** Apple Silicon işlemcili Mac bilgisayarında yüksek performanslı yapay zekâ modellerini yerel olarak çalıştırmak ve yönetmek isteyen kullanıcılar içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/jundot/omlx)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Continuous Batching SSD Caching Caching Apple Silicon LLM Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/omlx/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -35650,6 +36051,59 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# İnternet verisiyle çalışan akıllı sözleşmeler
+
+GenLayer, akıllı sözleşmelerin (smart contracts) internetteki verilerle doğrudan etkileşime girmesini sağlayan merkeziyetsiz bir yürütme katmanı. Bu şablon (boilerplate), geliştiricilerin TypeScript kullanarak blokzinciri üzerinde çalışan ve dış kaynaklı verileri işleyebilen uygulamalar oluşturmasına olanak tanıyor.
+
+- ★ 15.737
+- TypeScript
+- GitHub Trending · 2026-08-18
+
+## Ne kazandırır?
+- İnternet verilerine doğrudan erişen akıllı sözleşmeler geliştirin
+- Yapay zekâ destekli tahmin ve doğrulama süreçlerini entegre edin
+- Hızlı test araçlarıyla geliştirme sürecini hızlandırın
+
+## Kurulum
+
+**Python ortamını hazırlama**
+
+```
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+**Arayüzü başlatma**
+
+```
+cd frontend
+npm install
+npm run dev
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Benim için bir GenLayer akıllı sözleşmesi geliştir. Bu sözleşme internetten güncel verileri çekebilmeli ve yapay zekâ modelleriyle bu verileri işleyerek mantıksal kararlar verebilmeli. Kodun hata içermemesi için linter kurallarına uygun olmasını sağla ve geliştirme sürecinde hızlı geri bildirim almak için doğrudan bellek üzerinde çalışan test senaryoları oluştur.
+
+- **Kimin için:** Blokzinciri üzerinde çalışan ve dış dünya verileriyle etkileşime giren akıllı sözleşmeler geliştirmek isteyen yazılımcılar için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/genlayerlabs/genlayer-project-boilerplate)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Smart Contracts Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/genlayer-project-boilerplate/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Hızlı ve Yerel PDF Metin İşleme
 
 Firecrawl tarafından geliştirilen PDF Inspector, PDF dosyalarını incelemek, sınıflandırmak ve metinlerini ayıklamak için tasarlanmış hızlı bir Rust kütüphanesidir. Taranmış belgeler ile metin tabanlı dosyaları ayırt ederek veri işleme süreçlerinde akıllı yönlendirme kararları alınmasını sağlar.
@@ -36344,7 +36798,7 @@ Python projemde birim testleri yazmak istiyorum. Pytest kullanarak basit bir tes
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Testing Framework Unit Testing Terminal Framework Artificial Intelligence
+Testing Framework Unit Testing Framework Terminal Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pytest/
@@ -36732,7 +37186,7 @@ Resmî GitHub sayfasındaki indirme bağlantısını kullanarak Palmier Pro uygu
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Video Editor Apple Silicon Editor MCP Artificial Intelligence
+Video Editor Editor Apple Silicon MCP Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/palmier-pro/
@@ -37021,7 +37475,7 @@ LiveKit Agents kullanarak gerçek zamanlı sesli etkileşim kurabilen bir yapay 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-STT LLM Framework Agent Artificial Intelligence
+STT Framework LLM Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agents/
@@ -37368,16 +37822,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Liteparse (run-llama); belgeleri hızlı ve verimli bir şekilde ayrıştırmak için Rust ile yazılmış açık kaynak bir belge ayrıştırıcıdır. Karmaşık doküman yapılarını işlenebilir hale getirerek AI ve RAG süreçlerinde kolaylık sağlar.
 
-- ★ 12.098
+- ★ 12.102
 - Rust
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
 ## Güncelleme
+- 17 Ağustos 2026: Yıldız 12.098 → 12.102, son sürüm node-v2.13.1 (17 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 11.934 → 12.098, son sürüm node-v2.13.0 (15 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 11.883 → 11.934, son sürüm node-v2.11.1 (5 Ağustos 2026).
 - 3 Ağustos 2026: Yıldız 11.878 → 11.883, son sürüm docker-v2.11.0 (3 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 7.781 → 11.878, son sürüm node-v2.10.1 (29 Temmuz 2026).
 
 - **Kimin için:** Belge/veri işleyen geliştiriciler 
 - **Zorluk:** Orta · geliştirici aracı 
@@ -41836,15 +42290,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications) oluşturmaya odaklanan bir TypeScript çerçevesidir (framework). Geliştiricilerin ajan tabanlı iş akışlarını doğrudan uygulama mimarisine entegre etmelerini sağlar.
 
-- ★ 4.509
+- ★ 4.510
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
+- 17 Ağustos 2026: Yıldız 4.509 → 4.510, son sürüm @agent-native/skills@0.2.584 (17 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 4.504 → 4.509, son sürüm @agent-native/skills@0.2.583 (17 Ağustos 2026).
 - 16 Ağustos 2026: Yıldız 4.501 → 4.504, son sürüm @agent-native/skills@0.2.564 (16 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 4.476 → 4.501, son sürüm @agent-native/skills@0.2.562 (15 Ağustos 2026).
-- 12 Ağustos 2026: Yıldız 4.464 → 4.476, son sürüm @agent-native/dispatch@0.24.0 (11 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ajan ve kullanıcı arayüzünü tek veritabanında senkronize eder
@@ -43272,6 +43726,41 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ kodlama ajanlarına kalıcı hafıza
+
+Rust diliyle yazılan ai-memory, yapay zekâ ajanları için uzun süreli bellek (long term memory) çözümü sunuyor. Farklı ajan sağlayıcıları arasında veri aktarımını kolaylaştırarak yazılım geliştirme süreçlerinde kullanılan komut satırı arayüzlerinin (CLI) sürekliliğini destekliyor.
+
+- ★ 2.455
+- Rust
+- GitHub Trending · 2026-08-18
+
+## Ne kazandırır?
+- Farklı yapay zekâ ajanları arasında bağlamı korur
+- Geliştirme süreçlerinde süreklilik sağlar
+- Çok sayıda kodlama aracıyla uyumlu çalışır
+
+## Nasıl başlanır?
+
+Aracı kullanmaya başlamak için GitHub üzerindeki resmî sayfayı ziyaret ederek işletim sisteminize uygun olan sürümü indirin. Kurulum ve yapılandırma detayları için ilgili dokümantasyon dosyalarını inceleyerek aracın desteklediği kodlama ajanlarıyla nasıl entegre edileceğini öğrenebilirsiniz.
+
+- **Kimin için:** Birden fazla yapay zekâ kodlama aracı kullanan ve projeler arası geçişlerde bağlam kaybı yaşamak istemeyen yazılım geliştiriciler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/akitaonrails/ai-memory)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Memory CLI Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/ai-memory/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Otonom yazılım geliştiren yapay zekâ ajanları
 
 ColeMurray tarafından geliştirilen background-agents, TypeScript tabanlı açık kaynaklı bir arka plan ajanları kodlama sistemidir. Geliştiricilerin uygulamalar içerisinde otonom süreçler yürüten yapay zekâ ajanları (AI agents) oluşturmasına olanak tanır.
@@ -43772,6 +44261,60 @@ Speech-to-Text STT Inference CPU GPU Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/transcribe-cpp/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Yapay zekâ ajanları için ofis ortamı
+
+Munder-Difflin, yerel sistemlerde birden fazla yapay zekâ ajanının bir arada çalışmasını sağlayan bir düzenek (harness). TypeScript ile geliştirilen bu araç, karmaşık görevleri paylaşan otonom ajan sistemlerini yerel ortamda yönetmeyi kolaylaştırıyor.
+
+- ★ 1.669
+- TypeScript
+- GitHub Trending · 2026-08-18
+
+## Ne kazandırır?
+- Terminal tabanlı yapay zekâ araçlarını otonom bir ekip olarak koordine eder.
+- Ajanların uzun süreli hafıza ve birbirleriyle mesajlaşma yeteneği kazanmasını sağlar.
+- Görsel bir ofis arayüzü üzerinden ajanların çalışma süreçlerini takip etme imkânı sunar.
+
+## Kurulum
+
+**Uygulamayı indirme ve başlatma**
+
+```
+git clone https://github.com/chaitanyagiri/munder-difflin.git
+cd munder-difflin
+npm install # postinstall rebuilds node-pty against Electron's ABI
+npm run dev # launches the Electron app with hot reload
+```
+
+## Çalıştırma
+
+**Üretim sürümü oluşturma ve önizleme**
+
+```
+npm run build # production build via electron-vite
+npm run preview # preview the production build
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Munder Difflin üzerinde çalışan ajanlarıma şu görevi ver: Mevcut terminal tabanlı yapay zekâ araçlarını kullanarak bir ekip oluştur, Michael isimli yönetici ajan aracılığıyla görevleri dağıt ve tüm süreçleri ortak bir hafıza katmanında saklayarak otonom bir şekilde tamamla.
+
+- **Kimin için:** Birden fazla yapay zekâ ajanını tek bir merkezden yönetmek ve iş akışlarını görselleştirmek isteyen kullanıcılar içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/chaitanyagiri/munder-difflin)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Harness Terminal Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/munder-difflin/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

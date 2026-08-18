@@ -6178,5 +6178,65 @@
     "kisa_pt": "É um modelo de inteligência artificial que produz textos significativos seguindo uma determinada frase ou tópico inicial.",
     "kisa_es": "Es un modelo de inteligencia artificial que produce textos significativos siguiendo una oración o tema inicial determinado.",
     "kisa_de": "Dabei handelt es sich um ein Modell der künstlichen Intelligenz, das aussagekräftige Texte produziert, indem es einem vorgegebenen Anfangssatz oder Thema folgt."
+  },
+  {
+    "slug": "download-manager",
+    "en": "Download Manager",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternetten dosya indirme sürecini hızlandıran ve kesintiye uğrayan indirmeleri kaldığı yerden devam ettiren bir yardımcı araçtır.",
+    "kisa_en": "It is an auxiliary tool that speeds up the process of downloading files from the Internet and resumes interrupted downloads from where they left off.",
+    "kisa_fr": "Il s'agit d'un outil auxiliaire qui accélère le processus de téléchargement de fichiers depuis Internet et reprend les téléchargements interrompus là où ils s'étaient arrêtés.",
+    "kisa_pt": "É uma ferramenta auxiliar que agiliza o processo de download de arquivos da Internet e retoma downloads interrompidos de onde pararam.",
+    "kisa_es": "Es una herramienta auxiliar que acelera el proceso de descarga de archivos de Internet y reanuda las descargas interrumpidas desde donde se quedaron.",
+    "kisa_de": "Dabei handelt es sich um ein Hilfstool, das das Herunterladen von Dateien aus dem Internet beschleunigt und unterbrochene Downloads dort fortsetzt, wo sie unterbrochen wurden."
+  },
+  {
+    "slug": "phased-array-radar",
+    "en": "Phased Array Radar",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Hareketli parçalar kullanmadan, elektronik sinyallerle yönünü değiştirerek hedefleri takip eden gelişmiş bir radar sistemidir.",
+    "kisa_en": "It is an advanced radar system that tracks targets by changing their direction with electronic signals, without using moving parts.",
+    "kisa_fr": "Il s'agit d'un système radar avancé qui suit les cibles en changeant leur direction grâce à des signaux électroniques, sans utiliser de pièces mobiles.",
+    "kisa_pt": "É um sistema de radar avançado que rastreia alvos mudando sua direção com sinais eletrônicos, sem utilizar peças móveis.",
+    "kisa_es": "Se trata de un avanzado sistema de radar que rastrea objetivos cambiando su dirección con señales electrónicas, sin utilizar piezas móviles.",
+    "kisa_de": "Es handelt sich um ein fortschrittliches Radarsystem, das Ziele verfolgt, indem es ihre Richtung mit elektronischen Signalen ändert, ohne bewegliche Teile zu verwenden."
+  },
+  {
+    "slug": "continuous-batching",
+    "en": "Continuous Batching",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ modellerinin gelen istekleri bekletmeden, sürekli ve akıcı bir şekilde işlemesini sağlayan bir optimizasyon yöntemidir.",
+    "kisa_en": "It is an optimization method that enables artificial intelligence models to process incoming requests continuously and fluently, without waiting.",
+    "kisa_fr": "Il s’agit d’une méthode d’optimisation qui permet aux modèles d’intelligence artificielle de traiter les requêtes entrantes de manière continue et fluide, sans attente.",
+    "kisa_pt": "É um método de otimização que permite que modelos de inteligência artificial processem solicitações recebidas de forma contínua e fluente, sem espera.",
+    "kisa_es": "Es un método de optimización que permite que los modelos de inteligencia artificial procesen las solicitudes entrantes de forma continua y fluida, sin esperas.",
+    "kisa_de": "Dabei handelt es sich um eine Optimierungsmethode, die es Modellen der künstlichen Intelligenz ermöglicht, eingehende Anfragen kontinuierlich und flüssig zu verarbeiten, ohne zu warten."
+  },
+  {
+    "slug": "ssd-caching",
+    "en": "SSD Caching",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Sık kullanılan verilerin hızlı SSD disklerde tutularak bilgisayarın genel tepki süresinin artırılması işlemidir.",
+    "kisa_en": "It is the process of increasing the overall response time of the computer by keeping frequently used data on fast SSD disks.",
+    "kisa_fr": "Il s'agit du processus consistant à augmenter le temps de réponse global de l'ordinateur en conservant les données fréquemment utilisées sur des disques SSD rapides.",
+    "kisa_pt": "É o processo de aumentar o tempo de resposta geral do computador, mantendo os dados usados ​​com frequência em discos SSD rápidos.",
+    "kisa_es": "Es el proceso de aumentar el tiempo de respuesta general de la computadora manteniendo los datos de uso frecuente en discos SSD rápidos.",
+    "kisa_de": "Dabei handelt es sich um den Prozess, die Gesamtreaktionszeit des Computers zu erhöhen, indem häufig verwendete Daten auf schnellen SSD-Festplatten gespeichert werden."
+  },
+  {
+    "slug": "smart-contracts",
+    "en": "Smart Contracts",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Belirli koşullar sağlandığında otomatik olarak çalışan ve aracı gerektirmeyen dijital sözleşmelerdir.",
+    "kisa_en": "They are digital contracts that work automatically when certain conditions are met and do not require an intermediary.",
+    "kisa_fr": "Ce sont des contrats numériques qui fonctionnent automatiquement lorsque certaines conditions sont remplies et ne nécessitent pas d'intermédiaire.",
+    "kisa_pt": "São contratos digitais que funcionam automaticamente quando determinadas condições são atendidas e não necessitam de intermediário.",
+    "kisa_es": "Son contratos digitales que funcionan de forma automática cuando se cumplen determinadas condiciones y no requieren de intermediario.",
+    "kisa_de": "Dabei handelt es sich um digitale Verträge, die bei Erfüllung bestimmter Bedingungen automatisch funktionieren und keinen Vermittler erfordern."
   }
 ]

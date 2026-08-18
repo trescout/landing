@@ -26,6 +26,7 @@ Dados antigos ou raramente usados ​​são excluídos e substituídos por novo
 
 ## Ferramentas relacionadas
 - [Guava](/pt/discover/guava/)
+- [Omlx](/pt/discover/omlx/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/caching/

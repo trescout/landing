@@ -38,7 +38,7 @@ Ja, mit der entsprechenden Infrastruktur und API-Verbindungen können einem Mode
 - [Awesome Claude Code](/de/discover/awesome-claude-code/)
 - [OpenMontage](/de/discover/openmontage/)
 - [Obsidian Skills](/de/discover/obsidian-skills/)
-- [Anthropic Cybersecurity Skills](/de/discover/anthropic-cybersecurity-skills/)
+- [OpenViking](/de/discover/openviking/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-skills/

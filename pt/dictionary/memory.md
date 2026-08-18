@@ -33,6 +33,7 @@ Na maioria dos sistemas você pode excluir esses dados com o comando ‘clear me
 - [Cognee](/pt/discover/cognee/)
 - [TencentDB-Agent-Memory](/pt/discover/tencentdb-agent-memory/)
 - [Pgrust](/pt/discover/pgrust/)
+- [AI Memory](/pt/discover/ai-memory/)
 - [Hivemind](/pt/discover/hivemind/)
 
 ---

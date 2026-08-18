@@ -31,6 +31,7 @@ Es una práctica habitual garantizar la fiabilidad en proyectos profesionales.
 - [Jcode](/es/discover/jcode/)
 - [Harness · Ajan Ekip Fabrikası](/es/discover/harness/)
 - [Claude Code Harness](/es/discover/claude-code-harness/)
+- [Munder Difflin](/es/discover/munder-difflin/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/harness/

@@ -26,6 +26,7 @@ Debido a que su eficiencia energética es muy alta, el procesador hace el mismo 
 
 ## Herramientas relacionadas
 - [Container](/es/discover/container/)
+- [Omlx](/es/discover/omlx/)
 - [Palmier Pro](/es/discover/palmier-pro/)
 - [Openmed](/es/discover/openmed/)
 

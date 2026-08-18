@@ -28,6 +28,7 @@ Because its energy efficiency is very high, the processor does the same job by c
 
 ## Related tools
 - [Container](/en/discover/container/)
+- [Omlx](/en/discover/omlx/)
 - [Palmier Pro](/en/discover/palmier-pro/)
 - [Openmed](/en/discover/openmed/)
 

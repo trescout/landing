@@ -26,6 +26,7 @@ Grâce à son efficacité énergétique très élevée, le processeur fait le m�
 
 ## Outils liés
 - [Container](/fr/discover/container/)
+- [Omlx](/fr/discover/omlx/)
 - [Palmier Pro](/fr/discover/palmier-pro/)
 - [Openmed](/fr/discover/openmed/)
 

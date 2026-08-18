@@ -37,9 +37,9 @@ No, si tus documentos están almacenados en tu propio ordenador o servidor, pued
 - [Ragflow](/es/discover/ragflow/)
 - [AI Agent Book](/es/discover/ai-agent-book/)
 - [DeepTutor](/es/discover/deeptutor/)
+- [OpenViking](/es/discover/openviking/)
 - [Opendataloader PDF](/es/discover/opendataloader-pdf/)
 - [Turbovec](/es/discover/turbovec/)
-- [Liteparse](/es/discover/liteparse/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/rag/

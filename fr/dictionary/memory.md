@@ -33,6 +33,7 @@ Sur la plupart des systèmes, vous pouvez supprimer ces données avec la command
 - [Cognee](/fr/discover/cognee/)
 - [TencentDB-Agent-Memory](/fr/discover/tencentdb-agent-memory/)
 - [Pgrust](/fr/discover/pgrust/)
+- [AI Memory](/fr/discover/ai-memory/)
 - [Hivemind](/fr/discover/hivemind/)
 
 ---

@@ -31,6 +31,7 @@ Es ist gängige Praxis, in professionellen Projekten für Zuverlässigkeit zu so
 - [Jcode](/de/discover/jcode/)
 - [Harness · Ajan Ekip Fabrikası](/de/discover/harness/)
 - [Claude Code Harness](/de/discover/claude-code-harness/)
+- [Munder Difflin](/de/discover/munder-difflin/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/harness/

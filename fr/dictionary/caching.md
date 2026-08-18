@@ -26,6 +26,7 @@ Les données anciennes ou rarement utilisées sont supprimées et remplacées pa
 
 ## Outils liés
 - [Guava](/fr/discover/guava/)
+- [Omlx](/fr/discover/omlx/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/caching/

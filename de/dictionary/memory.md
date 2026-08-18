@@ -33,6 +33,7 @@ Auf den meisten Systemen können Sie diese Daten mit dem Befehl „Speicher lös
 - [Cognee](/de/discover/cognee/)
 - [TencentDB-Agent-Memory](/de/discover/tencentdb-agent-memory/)
 - [Pgrust](/de/discover/pgrust/)
+- [AI Memory](/de/discover/ai-memory/)
 - [Hivemind](/de/discover/hivemind/)
 
 ---

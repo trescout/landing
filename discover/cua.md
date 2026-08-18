@@ -2,15 +2,15 @@
 
 CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor. Masaüstü işletim sistemlerini kontrol edebilen ajanların eğitimi ve değerlendirilmesi amacıyla kum havuzu (sandbox), yazılım geliştirme kiti (SDK) ve kıyaslama (benchmark) araçlarını tek bir çatı altında topluyor.
 
-- ★ 21.430
+- ★ 21.435
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Güncelleme
+- 17 Ağustos 2026: Yıldız 21.430 → 21.435, son sürüm fleet-v0.1.11 (17 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 21.399 → 21.430, son sürüm sandbox-v0.3.5 (17 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 21.225 → 21.399, son sürüm sandbox-v0.3.4 (13 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 21.066 → 21.225, son sürüm lume-v0.5.3 (11 Ağustos 2026).
-- 10 Ağustos 2026: Yıldız 20.990 → 21.066, son sürüm cli-v0.1.14 (10 Ağustos 2026).
 
 ## Ne kazandırır?
 - Masaüstü uygulamalarını arka planda kontrol etme

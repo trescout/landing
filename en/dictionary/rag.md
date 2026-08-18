@@ -39,9 +39,9 @@ No, if your documents are stored on your own computer or server, they can work w
 - [Ragflow](/en/discover/ragflow/)
 - [AI Agent Book](/en/discover/ai-agent-book/)
 - [DeepTutor](/en/discover/deeptutor/)
+- [OpenViking](/en/discover/openviking/)
 - [Opendataloader PDF](/en/discover/opendataloader-pdf/)
 - [Turbovec](/en/discover/turbovec/)
-- [Liteparse](/en/discover/liteparse/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/rag/

@@ -26,6 +26,7 @@ Alte oder selten genutzte Daten werden gelöscht und durch neue Daten ersetzt.
 
 ## Verwandte Werkzeuge
 - [Guava](/de/discover/guava/)
+- [Omlx](/de/discover/omlx/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/caching/

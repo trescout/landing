@@ -26,6 +26,7 @@ Da seine Energieeffizienz sehr hoch ist, erledigt der Prozessor die gleiche Aufg
 
 ## Verwandte Werkzeuge
 - [Container](/de/discover/container/)
+- [Omlx](/de/discover/omlx/)
 - [Palmier Pro](/de/discover/palmier-pro/)
 - [Openmed](/de/discover/openmed/)
 

@@ -33,6 +33,7 @@ It is standard practice to ensure reliability in professional projects.
 - [Jcode](/en/discover/jcode/)
 - [Harness · Ajan Ekip Fabrikası](/en/discover/harness/)
 - [Claude Code Harness](/en/discover/claude-code-harness/)
+- [Munder Difflin](/en/discover/munder-difflin/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/harness/
