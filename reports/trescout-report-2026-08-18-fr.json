@@ -1,0 +1,343 @@
+{
+  "date": "2026-08-18",
+  "editorial": "Aujourd'hui, dans l'écosystème des développeurs, les discussions sur la sécurité concernant la manipulation des outils de production automatique de contenu et des grands modèles de langage sont au premier plan. Le nouveau modèle de paramètres 27B de la série Qwen et les formats GGUF optimisés qui l'accompagnent accélèrent les processus de développement de modèles open source en augmentant la capacité d'inférence locale.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo est un projet Python qui produit de courtes vidéos haute résolution à l'aide de flux de travail automatisés à partir de sujets ou de mots-clés donnés. Il automatise le processus de création de contenu de bout en bout à l'aide de grands modèles de langage.",
+          "meta": "Python · ★ 107 533 · +2 306 aujourd'hui"
+        },
+        {
+          "title": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "summary": "Munder-Difflin est un mécanisme qui permet à plusieurs agents d'intelligence artificielle de travailler ensemble dans des systèmes locaux. Développé avec TypeScript, cet outil facilite la gestion des systèmes d'agents autonomes partageant des tâches complexes dans un environnement local.",
+          "meta": "TypeScript · ★ 1 669 · +256 aujourd'hui"
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Écrit en Rust, ai-memory propose une solution de mémoire à long terme pour les agents d'intelligence artificielle. Il prend en charge la continuité des interfaces de ligne de commande (CLI) utilisées dans les processus de développement logiciel en facilitant le transfert de données entre différents fournisseurs d'agents.",
+          "meta": "Rust · ★ 2 455 · +207 aujourd'hui"
+        },
+        {
+          "title": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "summary": "Développé par Volcengine, OpenViking propose une base de données contextuelle auto-améliorée pour les agents IA. Ce système combine la mémoire des agents, les processus et les capacités de recherche d'informations (RAG) sous un même toit.",
+          "meta": "Python · ★ 29 050 · +239 aujourd'hui"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Anthropic-Cybersecurity-Skills est une bibliothèque open source qui propose 817 compétences structurées en cybersécurité pour les agents d'intelligence artificielle. Compatible avec six frameworks de sécurité différents, tels que MITRE ATT&CK et NIST CSF, cette ressource peut être utilisée sur plus de 20 plateformes, telles que l'outil d'édition de code Cursor et l'assistant de codage basé sur l'intelligence artificielle GitHub Copilot.",
+          "meta": "Python · ★ 28 808 · +726 aujourd'hui"
+        },
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "Public-apis propose une liste catégorisée d'interfaces de programmation d'applications (API) gratuites qui peuvent être utilisées dans des projets logiciels. Cette ressource, qui permet aux développeurs d'explorer plus facilement différents services, rassemble des outils permettant d'accéder à différents ensembles de données en un seul point.",
+          "meta": "Python · ★ 463 738 · +1 907 aujourd'hui"
+        },
+        {
+          "title": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "summary": "Développé par Basecamp, Omarchy est un outil de configuration moderne et original conçu pour les systèmes d'exploitation Linux. Il propose une approche basée sur des scripts shell pour standardiser les installations système et faciliter la gestion.",
+          "meta": "Shell · ★ 26 184 · +710 aujourd'hui"
+        },
+        {
+          "title": "agalwood/Motrix",
+          "url": "https://github.com/agalwood/Motrix",
+          "summary": "Motrix est un gestionnaire de téléchargement complet développé avec TypeScript qui répond à tous les besoins de téléchargement de fichiers. Il offre aux utilisateurs la possibilité de gérer différents protocoles tels que HTTP, FTP et BitTorrent via une seule interface.",
+          "meta": "TypeScript · ★ 53 422 · +607 aujourd'hui"
+        },
+        {
+          "title": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "summary": "PLFM RADAR est un système radar multiéléments à faible coût et open source fonctionnant à une fréquence de 10,5 GHz. Ce projet basé sur le matériel utilise un logiciel de contrôle développé avec le langage PLSQL pour rendre accessibles les technologies de détection par radiofréquence.",
+          "meta": "PLSQL · ★ 24 163 · +204 aujourd'hui"
+        },
+        {
+          "title": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "summary": "Omlx est un serveur d'inférence LLM (Large Language Model) qui prend en charge le traitement par lots continu et la mise en cache SSD pour les processeurs Apple Silicon. Cet outil, géré via la barre de menu macOS, offre la possibilité d'exécuter des modèles performants sur du matériel local.",
+          "meta": "Python · ★ 19 197 · +366 aujourd'hui"
+        },
+        {
+          "title": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "summary": "Ce livre open source sur les agents d'intelligence artificielle (agents IA) couvre de manière exhaustive les principes de conception et les pratiques d'ingénierie. Il propose des exemples de code basés sur des sections ainsi que des informations théoriques pour ceux qui souhaitent établir des systèmes basés sur des agents dans leurs processus de développement logiciel.",
+          "meta": "Python · ★ 38 897 · +556 aujourd'hui"
+        },
+        {
+          "title": "genlayerlabs/genlayer-project-boilerplate",
+          "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+          "summary": "GenLayer est une couche d'exécution décentralisée qui permet aux contrats intelligents d'interagir directement avec les données sur Internet. Ce modèle (passe-partout) permet aux développeurs d'utiliser TypeScript pour créer des applications qui s'exécutent sur la blockchain et peuvent traiter des données externes.",
+          "meta": "TypeScript · ★ 15 737 · +543 aujourd'hui"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut est une alternative open source à l'outil de montage vidéo CapCut. Ce logiciel, écrit en langage TypeScript, permet aux utilisateurs d'effectuer des processus d'édition de contenu sur leurs propres systèmes locaux.",
+          "meta": "TypeScript · ★ 84 496 · +682 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI;DR (AI; Didn't Read)",
+          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "summary": "AI;DR est un concept qui questionne les effets des outils d'intelligence artificielle qui résument des textes longs sur les habitudes de lecture et la pensée critique. Il soutient que cette approche, axée sur une consommation rapide de l’information, comporte le risque d’ignorer le contexte et la profondeur des textes.",
+          "meta": "960 votes · 583 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49336573",
+              "popularity": 960,
+              "engagementCount": 583
+            }
+          ]
+        },
+        {
+          "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+          "summary": "Israël a créé un faux groupe de réflexion pour diriger les chatbots d’intelligence artificielle. Cette initiative vise à influencer la perception du public en manipulant les sources d'information de grands modèles linguistiques.",
+          "meta": "686 votes · 391 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49337392",
+              "popularity": 686,
+              "engagementCount": 391
+            }
+          ]
+        },
+        {
+          "title": "A Preview of DuckDB v2.0",
+          "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+          "summary": "Avec sa deuxième version majeure, l'outil de traitement de données analytiques DuckDB propose des mises à jour qui améliorent les performances du moteur de requête et étendent la prise en charge des types de données. La nouvelle version inclut des améliorations dans la gestion de la mémoire et la vitesse de traitement pour les utilisateurs travaillant avec des ensembles de données à grande échelle.",
+          "meta": "665 votes · 118 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49330781",
+              "popularity": 665,
+              "engagementCount": 118
+            }
+          ]
+        },
+        {
+          "title": "How Bluesky draws its logo on screenshots",
+          "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+          "summary": "La plateforme de médias sociaux Bluesky utilise une méthode de traitement d'image basée sur un navigateur pour ajouter automatiquement son logo aux captures d'écran partagées. Cette technique utilise des éléments de canevas CSS et HTML pour préserver l'identité visuelle lorsque les utilisateurs partagent hors plateforme.",
+          "meta": "583 votes · 372 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49338459",
+              "popularity": 583,
+              "engagementCount": 372
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots",
+              "popularity": 69,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "GPT-5.6 Sol Pricing Cut by 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "summary": "OpenRouter, une plate-forme qui donne accès à des modèles d'intelligence artificielle, a réduit de 50 % les coûts d'utilisation du modèle GPT-5.6 Sol. Cette mise à jour tarifaire rend l’accès à des modèles linguistiques performants plus abordable.",
+          "meta": "514 votes · 327 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49337602",
+              "popularity": 514,
+              "engagementCount": 327
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Développé par Alibaba, Qwen2.5-27B est un modèle d'intelligence artificielle multimodale capable de traiter des données textuelles et visuelles. Il crée une alternative riche en vulnérabilités qui offre des performances élevées sur des tâches complexes de raisonnement et d’analyse de contenu.",
+          "meta": "♥ 10 954 · 665 513 téléchargements"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth propose le modèle Qwen 2.5 32B au format GGUF optimisé pour un fonctionnement plus rapide et plus efficace. Cette version permet d'exécuter un modèle de langage étendu hautes performances sur des appareils locaux avec de faibles exigences matérielles.",
+          "meta": "♥ 1 744 · 3 561 466 téléchargements"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Qwen, le modèle de génération de texte développé par Alibaba, offre des capacités linguistiques complètes sur une échelle de 2 400 milliards de paramètres. Le modèle utilise une architecture d'intelligence artificielle à jour, formée sur de grands ensembles de données pour effectuer des tâches complexes.",
+          "meta": "♥ 1 052 · 11 212 téléchargements"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Développé par Lightricks, LTX-2.5 est un modèle image-vidéo qui convertit les images statiques en vidéos animées. Cette technologie, proposée sur la plateforme open source d'intelligence artificielle HuggingFace, permet de créer des versions animées de contenus visuels.",
+          "meta": "♥ 1 172 · 503 632 téléchargements"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "summary": "MiniMax-Music3, développé par MiniMaxAI, est un modèle texte-audio qui convertit les commandes texte en fichiers audio de haute qualité. Cette technologie, qui automatise les processus de création musicale, produit du contenu audio conformément aux descriptions définies par les utilisateurs.",
+          "meta": "♥ 926 · 11 745 téléchargements"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Advancing Open and Reproducible Relational Learning: RelArena-α, TabPFN-Rel and RPI",
+          "url": "https://huggingface.co/papers/2608.16319",
+          "summary": "RelArena-α, TabPFN-Rel et RPI, développés par Prior Labs, sont trois nouveaux outils logiciels proposés en open source pour accélérer la recherche dans le domaine de l'apprentissage relationnel. Ces outils sont conçus pour prendre en charge des études scientifiques reproductibles sur des ensembles de données et des tâches.",
+          "meta": "14 j'aime · 1 commentaires"
+        },
+        {
+          "title": "GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks",
+          "url": "https://huggingface.co/papers/2608.16328",
+          "summary": "GRNEdit propose un cadre en deux étapes qui rend les processus de montage vidéo basés sur des commandes plus légers et plus rapides. En codant la sémantique visuelle avec des chaînes de données binaires, cette méthode développe une approche alternative aux techniques d'édition traditionnelles qui nécessitent une lourde charge de traitement.",
+          "meta": "12 j'aime · 1 commentaires"
+        },
+        {
+          "title": "MOSS-VL Technical Report",
+          "url": "https://huggingface.co/papers/2608.15045",
+          "summary": "MOSS-VL est une famille de modèles de langage de vision open source qui combine interaction en temps réel et perception visuelle. Le modèle offre une expérience d'interaction transparente grâce à sa capacité à traiter les images visuelles pendant la conversation.",
+          "meta": "35 j'aime · 1 commentaires"
+        },
+        {
+          "title": "A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models",
+          "url": "https://huggingface.co/papers/2608.15984",
+          "summary": "L'interface de mouvement 2D, qui élimine le besoin de données 3D dans les modèles en langage de mouvement, permet aux modèles existants de fonctionner avec des données 2D sans nécessiter de réglage précis. Cette méthode surmonte le défi de l’extraction de données 3D à partir de vidéos individuelles, augmentant ainsi la convivialité des modèles dans des applications réelles.",
+          "meta": "1 j'aime · 1 commentaires"
+        },
+        {
+          "title": "How Do Agents Fail on AutoResearch: End-to-End Diagnostic Evaluation on 100 Real-World Frontier Research Tasks",
+          "url": "https://huggingface.co/papers/2608.14905",
+          "summary": "Les systèmes de recherche autonome (AutoResearch) proposent une étude diagnostique complète qui examine les performances et les points d'erreur des agents d'intelligence artificielle capables de gérer l'ensemble du processus, de l'hypothèse à la rédaction de l'article. La recherche analyse systématiquement les raisons pour lesquelles les agents échouent dans des tâches scientifiques complexes, notant que les méthodes d'évaluation actuelles ne sont pas orientées vers les processus.",
+          "meta": "19 j'aime · 2 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Rethinking Database Programming",
+          "url": "https://acadia.engineering/blog/rethinking-database-programming",
+          "summary": "Les approches de programmation de bases de données sont en cours de réévaluation pour simplifier l'interaction complexe entre la couche application et la couche données. Pour résoudre les problèmes d'efficacité causés par les méthodes traditionnelles, de nouveaux modèles architecturaux sont proposés qui rendent les requêtes de bases de données plus intégrées à la logique applicative.",
+          "meta": "23 votes · 14 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ykq7ym/rethinking_database_programming",
+              "popularity": 23,
+              "engagementCount": 14
+            }
+          ]
+        },
+        {
+          "title": "GitHub has alternatives, but no replacement",
+          "url": "https://lalitm.com/post/github-alternatives/",
+          "summary": "GitHub occupe une position centrale dans le monde du logiciel grâce au vaste écosystème qu'il propose en matière d'hébergement de code et de processus de collaboration. Bien que les plateformes de gestion de code telles que GitLab (GitLab) offrent des alternatives fonctionnelles, les capacités d'interaction et d'intégration de la communauté de GitHub n'ont pas encore trouvé leur adéquation.",
+          "meta": "53 votes · 40 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement",
+              "popularity": 53,
+              "engagementCount": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "harness",
+      "explanation": "Tirer parti de la puissance d’une technologie ou d’une ressource et l’utiliser efficacement."
+    },
+    {
+      "term": "long term memory",
+      "explanation": "L’intelligence artificielle stocke longtemps les informations passées sans les oublier et s’en souvient en cas de besoin."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface textuelle qui exécute des programmes avec des commandes écrites plutôt qu'avec la souris."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Il s’agit d’une méthode qui permet à l’intelligence artificielle de lire des documents externes à son insu et de réagir en conséquence."
+    },
+    {
+      "term": "skills",
+      "explanation": "Les connaissances techniques et la capacité d’application requises pour effectuer un travail."
+    },
+    {
+      "term": "cybersecurity skills",
+      "explanation": "Expertise pour protéger les systèmes et données numériques contre les cyberattaques."
+    },
+    {
+      "term": "API",
+      "explanation": "Un pont qui permet à deux logiciels différents de se parler et d'échanger des données."
+    },
+    {
+      "term": "shell script",
+      "explanation": "Une série de commandes écrites pour automatiser les tâches qui doivent être effectuées sur l'ordinateur."
+    },
+    {
+      "term": "download manager",
+      "explanation": "Un outil qui augmente la vitesse de téléchargement de fichiers depuis Internet et reprend les téléchargements interrompus là où ils s'étaient arrêtés."
+    },
+    {
+      "term": "phased array radar",
+      "explanation": "Système radar avancé qui suit les objets en changeant de direction avec des signaux électroniques, sans aucune pièce mobile."
+    },
+    {
+      "term": "continuous batching",
+      "explanation": "L’intelligence artificielle produit des réponses en traitant les demandes entrantes de manière continue et rapide, sans attente."
+    },
+    {
+      "term": "SSD caching",
+      "explanation": "Méthode permettant d'augmenter la vitesse de fonctionnement globale d'un ordinateur en conservant les données fréquemment utilisées dans un stockage rapide."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Logiciel d'intelligence artificielle avancé capable de saisir du texte et de répondre à des questions complexes comme un humain."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Des programmes d’intelligence artificielle autonomes capables de prendre des décisions par eux-mêmes et d’effectuer des tâches ciblées."
+    },
+    {
+      "term": "smart contracts",
+      "explanation": "Des contrats numériques qui fonctionnent automatiquement lorsque les conditions sont remplies et ne nécessitent pas d'intermédiaires."
+    }
+  ]
+}

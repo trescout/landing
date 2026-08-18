@@ -1,0 +1,285 @@
+{
+  "date": "2026-08-18",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo, verilen konu veya anahtar kelimelerden otomatik iş akışları kullanarak yüksek çözünürlüklü kısa videolar üreten bir Python projesidir. Büyük dil modellerini (large language models) kullanarak içerik oluşturma sürecini uçtan uca otomatize eder.",
+          "meta": "Python · ★ 107.533 · +2.306 bugün",
+          "returning": true
+        },
+        {
+          "title": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "summary": "Munder-Difflin, yerel sistemlerde birden fazla yapay zekâ ajanının bir arada çalışmasını sağlayan bir düzenek (harness). TypeScript ile geliştirilen bu araç, karmaşık görevleri paylaşan otonom ajan sistemlerini yerel ortamda yönetmeyi kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 1.669 · +256 bugün"
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Rust diliyle yazılan ai-memory, yapay zekâ ajanları için uzun süreli bellek (long term memory) çözümü sunuyor. Farklı ajan sağlayıcıları arasında veri aktarımını kolaylaştırarak yazılım geliştirme süreçlerinde kullanılan komut satırı arayüzlerinin (CLI) sürekliliğini destekliyor.",
+          "meta": "Rust · ★ 2.455 · +207 bugün"
+        },
+        {
+          "title": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "summary": "Volcengine tarafından geliştirilen OpenViking, yapay zekâ ajanları için kendi kendini geliştiren bir bağlam veritabanı sunuyor. Bu sistem, ajan hafızasını, bilgi getirme (RAG) süreçlerini ve yetenekleri (skills) tek bir çatı altında birleştiriyor.",
+          "meta": "Python · ★ 29.050 · +239 bugün"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Anthropic-Cybersecurity-Skills, yapay zekâ ajanları için 817 yapılandırılmış siber güvenlik yeteneği (cybersecurity skills) sunan açık kaynaklı bir kütüphane. MITRE ATT&CK ve NIST CSF gibi altı farklı güvenlik çerçevesiyle uyumlu olan bu kaynak, kod düzenleme aracı Cursor ve yapay zekâ destekli kodlama asistanı GitHub Copilot gibi 20'den fazla platformda kullanılabiliyor.",
+          "meta": "Python · ★ 28.808 · +726 bugün",
+          "returning": true
+        },
+        {
+          "title": "agalwood/Motrix",
+          "url": "https://github.com/agalwood/Motrix",
+          "summary": "Motrix, TypeScript ile geliştirilen ve tüm dosya indirme ihtiyaçlarını karşılayan kapsamlı bir indirme yöneticisi (download manager). Kullanıcılara HTTP, FTP ve BitTorrent gibi farklı protokolleri tek bir arayüz üzerinden yönetme imkânı sunuyor.",
+          "meta": "TypeScript · ★ 53.422 · +607 bugün"
+        },
+        {
+          "title": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "summary": "PLFM RADAR, 10.5 GHz frekansında çalışan düşük maliyetli ve açık kaynaklı bir faz dizili radar (phased array radar) sistemi. Donanım tabanlı bu proje, radyo frekansı algılama teknolojilerini erişilebilir kılmak için PLSQL diliyle geliştirilen kontrol yazılımlarını kullanıyor.",
+          "meta": "PLSQL · ★ 24.163 · +204 bugün"
+        },
+        {
+          "title": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "summary": "Omlx, Apple Silicon işlemciler için sürekli yığınlama (continuous batching) ve SSD önbellekleme (SSD caching) özelliklerini destekleyen bir büyük dil modeli (LLM) çıkarım sunucusudur. macOS menü çubuğu üzerinden yönetilen bu araç, yerel donanım üzerinde yüksek performanslı model çalıştırma imkânı sunar.",
+          "meta": "Python · ★ 19.197 · +366 bugün"
+        },
+        {
+          "title": "genlayerlabs/genlayer-project-boilerplate",
+          "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+          "summary": "GenLayer, akıllı sözleşmelerin (smart contracts) internetteki verilerle doğrudan etkileşime girmesini sağlayan merkeziyetsiz bir yürütme katmanı. Bu şablon (boilerplate), geliştiricilerin TypeScript kullanarak blokzinciri üzerinde çalışan ve dış kaynaklı verileri işleyebilen uygulamalar oluşturmasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 15.737 · +543 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI;DR (AI; Didn't Read)",
+          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "summary": "AI;DR, uzun metinleri özetleyen yapay zekâ araçlarının okuma alışkanlıkları ve eleştirel düşünme üzerindeki etkilerini sorgulayan bir kavram. Bilgiyi hızlı tüketme odaklı bu yaklaşımın, metinlerin bağlamını ve derinliğini göz ardı etme riski taşıdığını savunuyor.",
+          "meta": "960 oy · 583 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49336573",
+              "popularity": 960,
+              "engagementCount": 583
+            }
+          ]
+        },
+        {
+          "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+          "summary": "İsrail, yapay zekâ sohbet botlarını yönlendirmek amacıyla sahte bir düşünce kuruluşu oluşturdu. Bu girişim, büyük dil modellerinin (large language models) bilgi kaynaklarını manipüle ederek kamuoyu algısını etkilemeyi hedefliyor.",
+          "meta": "686 oy · 391 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49337392",
+              "popularity": 686,
+              "engagementCount": 391
+            }
+          ]
+        },
+        {
+          "title": "A Preview of DuckDB v2.0",
+          "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+          "summary": "Analitik veri işleme aracı DuckDB, ikinci büyük sürümüyle birlikte sorgu motoru performansını artıran ve veri türü desteğini genişleten güncellemeler sunuyor. Yeni sürüm, büyük ölçekli veri kümeleriyle çalışan kullanıcılar için bellek yönetimi ve işlem hızı konusunda iyileştirmeler içeriyor.",
+          "meta": "665 oy · 118 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49330781",
+              "popularity": 665,
+              "engagementCount": 118
+            }
+          ]
+        },
+        {
+          "title": "How Bluesky draws its logo on screenshots",
+          "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+          "summary": "Sosyal medya platformu Bluesky, paylaşılan ekran görüntülerine otomatik olarak kendi logosunu eklemek için tarayıcı tabanlı bir görüntü işleme yöntemi kullanıyor. Bu teknik, kullanıcıların platform dışındaki paylaşımlarında görsel kimliği korumak amacıyla CSS ve HTML tuvali (canvas) öğelerinden yararlanıyor.",
+          "meta": "583 oy · 372 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49338459",
+              "popularity": 583,
+              "engagementCount": 372
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots",
+              "popularity": 69,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "GPT-5.6 Sol Pricing Cut by 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "summary": "OpenRouter, yapay zekâ modellerine erişim sağlayan bir platform, GPT-5.6 Sol modelinin kullanım maliyetlerini yüzde 50 oranında düşürdü. Bu fiyat güncellemesi, yüksek performanslı dil modellerine (large language models) erişimi daha ekonomik hale getiriyor.",
+          "meta": "514 oy · 327 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49337602",
+              "popularity": 514,
+              "engagementCount": 327
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "summary": "MiniMaxAI tarafından geliştirilen MiniMax-Music3, metin komutlarını yüksek kaliteli ses dosyalarına dönüştüren bir metinden sese (text-to-audio) modelidir. Müzik oluşturma süreçlerini otomatikleştiren bu teknoloji, kullanıcıların tanımladığı betimlemelere uygun işitsel içerikler üretir.",
+          "meta": "♥ 926 · 11.745 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Advancing Open and Reproducible Relational Learning: RelArena-α, TabPFN-Rel and RPI",
+          "url": "https://huggingface.co/papers/2608.16319",
+          "summary": "Prior Labs tarafından geliştirilen RelArena-α, TabPFN-Rel ve RPI, ilişkisel öğrenme (relational learning) alanında araştırmaları hızlandırmak amacıyla açık kaynaklı olarak sunulan üç yeni yazılım aracıdır. Bu araçlar, veri setleri ve görevler üzerinde tekrarlanabilir bilimsel çalışmaları desteklemek için tasarlanmıştır.",
+          "meta": "14 beğeni · 1 yorum"
+        },
+        {
+          "title": "GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks",
+          "url": "https://huggingface.co/papers/2608.16328",
+          "summary": "GRNEdit, komut tabanlı video düzenleme süreçlerini daha hafif ve hızlı hale getiren iki aşamalı bir çerçeve (framework) sunuyor. Görsel anlambilimi ikili veri dizileriyle kodlayan bu yöntem, ağır işlem yükü gerektiren geleneksel düzenleme tekniklerine alternatif bir yaklaşım geliştiriyor.",
+          "meta": "12 beğeni · 1 yorum"
+        },
+        {
+          "title": "MOSS-VL Technical Report",
+          "url": "https://huggingface.co/papers/2608.15045",
+          "summary": "MOSS-VL, gerçek zamanlı etkileşimi ve görsel algıyı bir arada yürüten açık kaynaklı bir görme-dil modeli (vision-language model) ailesidir. Model, konuşma sırasında görsel kareleri işleyebilme yeteneği sayesinde kesintisiz bir etkileşim deneyimi sunar.",
+          "meta": "35 beğeni · 1 yorum"
+        },
+        {
+          "title": "A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models",
+          "url": "https://huggingface.co/papers/2608.15984",
+          "summary": "Hareket dil modellerinin (motion language models) 3D veri gereksinimini ortadan kaldıran 2D hareket arayüzü, mevcut modellerin herhangi bir ince ayar (fine-tuning) işlemine ihtiyaç duymadan 2D verilerle çalışmasını sağlıyor. Bu yöntem, tekil videolardan 3D veri çıkarma zorluğunu aşarak modellerin gerçek dünya uygulamalarında kullanılabilirliğini artırıyor.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "How Do Agents Fail on AutoResearch: End-to-End Diagnostic Evaluation on 100 Real-World Frontier Research Tasks",
+          "url": "https://huggingface.co/papers/2608.14905",
+          "summary": "Otonom araştırma (AutoResearch) sistemleri, hipotezden makale yazımına kadar tüm süreci yönetebilen yapay zekâ ajanlarının performansını ve hata noktalarını inceleyen kapsamlı bir teşhis çalışması sunuyor. Araştırma, mevcut değerlendirme yöntemlerinin süreç odaklı olmadığını belirterek ajanların karmaşık bilimsel görevlerdeki başarısızlık nedenlerini sistemli bir şekilde analiz ediyor.",
+          "meta": "19 beğeni · 2 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Rethinking Database Programming",
+          "url": "https://acadia.engineering/blog/rethinking-database-programming",
+          "summary": "Veri tabanı programlama yaklaşımları, uygulama katmanı ile veri katmanı arasındaki karmaşık etkileşimi basitleştirmek adına yeniden değerlendiriliyor. Geleneksel yöntemlerin yarattığı verimlilik sorunlarını çözmek için veri tabanı sorgularını uygulama mantığıyla daha bütünleşik hale getiren yeni mimari modeller öneriliyor.",
+          "meta": "23 oy · 14 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ykq7ym/rethinking_database_programming",
+              "popularity": 23,
+              "engagementCount": 14
+            }
+          ]
+        },
+        {
+          "title": "GitHub has alternatives, but no replacement",
+          "url": "https://lalitm.com/post/github-alternatives/",
+          "summary": "GitHub, kod barındırma ve iş birliği süreçlerinde sunduğu geniş ekosistemle yazılım dünyasında merkezi bir konumda bulunuyor. GitLab gibi kod yönetimi platformları (GitLab) işlevsel alternatifler sunsa da, GitHub'ın topluluk etkileşimi ve entegrasyon yetenekleri henüz tam bir karşılık bulamıyor.",
+          "meta": "53 oy · 40 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement",
+              "popularity": 53,
+              "engagementCount": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "harness",
+      "explanation": "Bir teknolojinin veya kaynağın gücünden faydalanarak onu verimli bir şekilde kullanmak."
+    },
+    {
+      "term": "long term memory",
+      "explanation": "Yapay zekânın geçmişteki bilgileri unutmadan uzun süre saklayıp ihtiyaç duyduğunda hatırlaması."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın kendi bilgisi dışında, dış kaynaklı belgeleri okuyup onlara göre cevap vermesini sağlayan yöntem."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir işi yapmak için gereken teknik bilgi ve uygulama yeteneği."
+    },
+    {
+      "term": "cybersecurity skills",
+      "explanation": "Dijital sistemleri ve verileri siber saldırılara karşı korumak için sahip olunan uzmanlık."
+    },
+    {
+      "term": "download manager",
+      "explanation": "İnternetten dosya indirirken hızı artıran ve kesilen indirmeleri kaldığı yerden devam ettiren araç."
+    },
+    {
+      "term": "phased array radar",
+      "explanation": "Hareketli parçası olmadan, elektronik sinyallerle yön değiştirerek nesneleri takip eden gelişmiş radar sistemi."
+    },
+    {
+      "term": "continuous batching",
+      "explanation": "Yapay zekânın gelen istekleri bekletmeden, sürekli ve hızlı bir şekilde işleyerek cevap üretmesi."
+    },
+    {
+      "term": "SSD caching",
+      "explanation": "Sık kullanılan verileri hızlı depolama biriminde tutarak bilgisayarın genel çalışma hızını artırma yöntemi."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan gibi metin yazabilen ve karmaşık soruları yanıtlayabilen gelişmiş yapay zekâ yazılımı."
+    },
+    {
+      "term": "smart contracts",
+      "explanation": "Koşullar sağlandığında kendiliğinden çalışan ve aracı gerektirmeyen dijital sözleşmeler."
+    }
+  ]
+}

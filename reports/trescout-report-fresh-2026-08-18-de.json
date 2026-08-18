@@ -1,0 +1,285 @@
+{
+  "date": "2026-08-18",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo ist ein Python-Projekt, das mithilfe automatisierter Workflows aus vorgegebenen Themen oder Schlüsselwörtern hochauflösende Kurzvideos erstellt. Es automatisiert den Inhaltserstellungsprozess durchgängig mithilfe großer Sprachmodelle.",
+          "meta": "Python · ★ 107.533 · +2.306 heute",
+          "returning": true
+        },
+        {
+          "title": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "summary": "Munder-Difflin ist ein Mechanismus, der es mehreren Agenten der künstlichen Intelligenz ermöglicht, in lokalen Systemen zusammenzuarbeiten. Dieses mit TypeScript entwickelte Tool erleichtert die Verwaltung autonomer Agentensysteme, die komplexe Aufgaben in einer lokalen Umgebung teilen.",
+          "meta": "TypeScript · ★ 1.669 · +256 heute"
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Ai-memory wurde in Rust geschrieben und bietet eine Langzeitgedächtnislösung für Agenten der künstlichen Intelligenz. Es unterstützt die Kontinuität von Befehlszeilenschnittstellen (CLI), die in Softwareentwicklungsprozessen verwendet werden, indem es den Datentransfer zwischen verschiedenen Agentenanbietern erleichtert.",
+          "meta": "Rust · ★ 2.455 · +207 heute"
+        },
+        {
+          "title": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "summary": "OpenViking wurde von Volcengine entwickelt und bietet eine sich selbst verbessernde Kontextdatenbank für KI-Agenten. Dieses System vereint Agentenspeicher, Information Retrieval (RAG)-Prozesse und -Fähigkeiten unter einem Dach.",
+          "meta": "Python · ★ 29.050 · +239 heute"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Anthropic-Cybersecurity-Skills ist eine Open-Source-Bibliothek, die 817 strukturierte Cybersicherheitskompetenzen für Agenten der künstlichen Intelligenz bietet. Diese Ressource ist mit sechs verschiedenen Sicherheitsframeworks wie MITRE ATT&CK und NIST CSF kompatibel und kann auf mehr als 20 Plattformen verwendet werden, beispielsweise dem Codebearbeitungstool Cursor und dem durch künstliche Intelligenz unterstützten Codierungsassistenten GitHub Copilot.",
+          "meta": "Python · ★ 28.808 · +726 heute",
+          "returning": true
+        },
+        {
+          "title": "agalwood/Motrix",
+          "url": "https://github.com/agalwood/Motrix",
+          "summary": "Motrix ist ein umfassender, mit TypeScript entwickelter Download-Manager, der alle Datei-Download-Anforderungen erfüllt. Es bietet Benutzern die Möglichkeit, verschiedene Protokolle wie HTTP, FTP und BitTorrent über eine einzige Schnittstelle zu verwalten.",
+          "meta": "TypeScript · ★ 53.422 · +607 heute"
+        },
+        {
+          "title": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "summary": "PLFM RADAR ist ein kostengünstiges und quelloffenes Phased-Array-Radarsystem, das mit einer Frequenz von 10,5 GHz arbeitet. Dieses hardwarebasierte Projekt nutzt Steuerungssoftware, die mit der PLSQL-Sprache entwickelt wurde, um Hochfrequenz-Sensortechnologien zugänglich zu machen.",
+          "meta": "PLSQL · ★ 24.163 · +204 heute"
+        },
+        {
+          "title": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "summary": "Omlx ist ein LLM-Inferenzserver (Large Language Model), der kontinuierliches Batching und SSD-Caching für Apple Silicon-Prozessoren unterstützt. Dieses über die macOS-Menüleiste verwaltete Tool bietet die Möglichkeit, leistungsstarke Modelle auf lokaler Hardware auszuführen.",
+          "meta": "Python · ★ 19.197 · +366 heute"
+        },
+        {
+          "title": "genlayerlabs/genlayer-project-boilerplate",
+          "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+          "summary": "GenLayer ist eine dezentrale Ausführungsschicht, die es Smart Contracts ermöglicht, direkt mit Daten im Internet zu interagieren. Mit dieser Vorlage (Boilerplate) können Entwickler mit TypeScript Anwendungen erstellen, die auf der Blockchain laufen und externe Daten verarbeiten können.",
+          "meta": "TypeScript · ★ 15.737 · +543 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI;DR (AI; Didn't Read)",
+          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "summary": "AI;DR ist ein Konzept, das die Auswirkungen von Tools der künstlichen Intelligenz, die lange Texte zusammenfassen, auf Lesegewohnheiten und kritisches Denken hinterfragt. Er argumentiert, dass dieser Ansatz, der sich auf die schnelle Informationsaufnahme konzentriert, die Gefahr birgt, den Kontext und die Tiefe der Texte zu ignorieren.",
+          "meta": "960 Punkte · 583 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49336573",
+              "popularity": 960,
+              "engagementCount": 583
+            }
+          ]
+        },
+        {
+          "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+          "summary": "Israel hat eine gefälschte Denkfabrik gegründet, um Chatbots mit künstlicher Intelligenz zu steuern. Diese Initiative zielt darauf ab, die öffentliche Wahrnehmung durch Manipulation der Informationsquellen großer Sprachmodelle zu beeinflussen.",
+          "meta": "686 Punkte · 391 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49337392",
+              "popularity": 686,
+              "engagementCount": 391
+            }
+          ]
+        },
+        {
+          "title": "A Preview of DuckDB v2.0",
+          "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+          "summary": "Mit seiner zweiten Hauptversion bietet das analytische Datenverarbeitungstool DuckDB Updates, die die Leistung der Abfrage-Engine verbessern und die Datentypunterstützung erweitern. Die neue Version beinhaltet Verbesserungen bei der Speicherverwaltung und Verarbeitungsgeschwindigkeit für Benutzer, die mit großen Datensätzen arbeiten.",
+          "meta": "665 Punkte · 118 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49330781",
+              "popularity": 665,
+              "engagementCount": 118
+            }
+          ]
+        },
+        {
+          "title": "How Bluesky draws its logo on screenshots",
+          "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+          "summary": "Die Social-Media-Plattform Bluesky verwendet eine browserbasierte Bildverarbeitungsmethode, um ihr Logo automatisch zu geteilten Screenshots hinzuzufügen. Diese Technik verwendet CSS- und HTML-Canvas-Elemente, um die visuelle Identität zu bewahren, wenn Benutzer Inhalte außerhalb der Plattform teilen.",
+          "meta": "583 Punkte · 372 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49338459",
+              "popularity": 583,
+              "engagementCount": 372
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots",
+              "popularity": 69,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "GPT-5.6 Sol Pricing Cut by 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "summary": "OpenRouter, eine Plattform, die Zugriff auf Modelle der künstlichen Intelligenz bietet, reduzierte die Nutzungskosten des GPT-5.6 Sol-Modells um 50 Prozent. Diese Preisaktualisierung macht den Zugang zu leistungsstarken Sprachmodellen erschwinglicher.",
+          "meta": "514 Punkte · 327 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49337602",
+              "popularity": 514,
+              "engagementCount": 327
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "summary": "MiniMax-Music3, entwickelt von MiniMaxAI, ist ein Text-to-Audio-Modell, das Textbefehle in hochwertige Audiodateien umwandelt. Diese Technologie, die Musikerstellungsprozesse automatisiert, produziert Audioinhalte gemäß den von Benutzern definierten Beschreibungen.",
+          "meta": "♥ 926 · 11.745 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Advancing Open and Reproducible Relational Learning: RelArena-α, TabPFN-Rel and RPI",
+          "url": "https://huggingface.co/papers/2608.16319",
+          "summary": "RelArena-α, TabPFN-Rel und RPI, entwickelt von Prior Labs, sind drei neue Softwaretools, die als Open Source angeboten werden, um die Forschung im Bereich des relationalen Lernens zu beschleunigen. Diese Tools sollen reproduzierbare wissenschaftliche Studien zu Datensätzen und Aufgaben unterstützen.",
+          "meta": "14 Likes · 1 Kommentare"
+        },
+        {
+          "title": "GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks",
+          "url": "https://huggingface.co/papers/2608.16328",
+          "summary": "GRNEdit bietet ein zweistufiges Framework, das befehlsbasierte Videobearbeitungsprozesse einfacher und schneller macht. Durch die Kodierung visueller Semantik mit binären Datenzeichenfolgen entwickelt diese Methode einen alternativen Ansatz zu herkömmlichen Bearbeitungstechniken, die eine hohe Verarbeitungslast erfordern.",
+          "meta": "12 Likes · 1 Kommentare"
+        },
+        {
+          "title": "MOSS-VL Technical Report",
+          "url": "https://huggingface.co/papers/2608.15045",
+          "summary": "MOSS-VL ist eine Open-Source-Vision-Language-Modellfamilie, die Echtzeitinteraktion und visuelle Wahrnehmung kombiniert. Das Modell bietet dank seiner Fähigkeit, visuelle Frames während eines Gesprächs zu verarbeiten, ein nahtloses Interaktionserlebnis.",
+          "meta": "35 Likes · 1 Kommentare"
+        },
+        {
+          "title": "A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models",
+          "url": "https://huggingface.co/papers/2608.15984",
+          "summary": "Die 2D-Bewegungsschnittstelle, die den Bedarf an 3D-Daten in Motion-Language-Modellen überflüssig macht, ermöglicht es vorhandenen Modellen, mit 2D-Daten zu arbeiten, ohne dass eine Feinabstimmung erforderlich ist. Diese Methode überwindet die Herausforderung, 3D-Daten aus einzelnen Videos zu extrahieren, und erhöht die Benutzerfreundlichkeit von Modellen in realen Anwendungen.",
+          "meta": "1 Likes · 1 Kommentare"
+        },
+        {
+          "title": "How Do Agents Fail on AutoResearch: End-to-End Diagnostic Evaluation on 100 Real-World Frontier Research Tasks",
+          "url": "https://huggingface.co/papers/2608.14905",
+          "summary": "Autonome Forschungssysteme (AutoResearch) bieten eine umfassende diagnostische Studie, die die Leistung und Fehlerpunkte von Agenten der künstlichen Intelligenz untersucht, die den gesamten Prozess von der Hypothese bis zum Schreiben von Artikeln verwalten können. Die Forschung analysiert systematisch die Gründe, warum Agenten bei komplexen wissenschaftlichen Aufgaben versagen, und stellt fest, dass aktuelle Bewertungsmethoden nicht prozessorientiert sind.",
+          "meta": "19 Likes · 2 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Rethinking Database Programming",
+          "url": "https://acadia.engineering/blog/rethinking-database-programming",
+          "summary": "Ansätze zur Datenbankprogrammierung werden neu bewertet, um die komplexe Interaktion zwischen der Anwendungsschicht und der Datenschicht zu vereinfachen. Um die durch herkömmliche Methoden verursachten Effizienzprobleme zu lösen, werden neue Architekturmodelle vorgeschlagen, die Datenbankabfragen stärker in die Anwendungslogik integrieren.",
+          "meta": "23 Punkte · 14 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ykq7ym/rethinking_database_programming",
+              "popularity": 23,
+              "engagementCount": 14
+            }
+          ]
+        },
+        {
+          "title": "GitHub has alternatives, but no replacement",
+          "url": "https://lalitm.com/post/github-alternatives/",
+          "summary": "GitHub nimmt mit dem breiten Ökosystem, das es in Code-Hosting- und Kollaborationsprozessen bietet, eine zentrale Position in der Softwarewelt ein. Obwohl Codeverwaltungsplattformen wie GitLab (GitLab) funktionale Alternativen bieten, haben die Community-Interaktions- und Integrationsfähigkeiten von GitHub noch keine vollständige Übereinstimmung gefunden.",
+          "meta": "53 Punkte · 40 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement",
+              "popularity": 53,
+              "engagementCount": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "harness",
+      "explanation": "Die Leistungsfähigkeit einer Technologie oder Ressource nutzen und effizient nutzen."
+    },
+    {
+      "term": "long term memory",
+      "explanation": "Künstliche Intelligenz speichert vergangene Informationen lange Zeit, ohne sie zu vergessen, und erinnert sich bei Bedarf daran."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Textbasierte Schnittstelle, die Programme mit geschriebenen Befehlen statt mit der Maus ausführt."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Dabei handelt es sich um eine Methode, die es künstlicher Intelligenz ermöglicht, ohne eigenes Wissen externe Dokumente zu lesen und entsprechend zu reagieren."
+    },
+    {
+      "term": "skills",
+      "explanation": "Das technische Wissen und die Anwendungsfähigkeit, die für die Ausführung einer Aufgabe erforderlich sind."
+    },
+    {
+      "term": "cybersecurity skills",
+      "explanation": "Expertise zum Schutz digitaler Systeme und Daten vor Cyberangriffen."
+    },
+    {
+      "term": "download manager",
+      "explanation": "Ein Tool, das das Herunterladen von Dateien aus dem Internet beschleunigt und unterbrochene Downloads dort fortsetzt, wo sie aufgehört haben."
+    },
+    {
+      "term": "phased array radar",
+      "explanation": "Fortschrittliches Radarsystem, das Objekte verfolgt, indem es mithilfe elektronischer Signale die Richtung ändert, ohne dass bewegliche Teile erforderlich sind."
+    },
+    {
+      "term": "continuous batching",
+      "explanation": "Künstliche Intelligenz liefert Antworten, indem sie eingehende Anfragen kontinuierlich und schnell verarbeitet, ohne zu warten."
+    },
+    {
+      "term": "SSD caching",
+      "explanation": "Eine Methode zur Erhöhung der Gesamtbetriebsgeschwindigkeit eines Computers durch die Speicherung häufig verwendeter Daten in einem schnellen Speicher."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Fortschrittliche Software für künstliche Intelligenz, die wie ein Mensch Text eingeben und komplexe Fragen beantworten kann."
+    },
+    {
+      "term": "smart contracts",
+      "explanation": "Digitale Verträge, die bei Erfüllung der Bedingungen automatisch funktionieren und keine Zwischenhändler erfordern."
+    }
+  ]
+}
