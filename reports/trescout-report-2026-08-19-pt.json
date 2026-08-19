@@ -1,0 +1,345 @@
+{
+  "date": "2026-08-19",
+  "editorial": "A agenda de hoje gira em torno de versões de alto desempenho do modelo Qwen 3.8-27B (modelos quantizados) e otimizações de espaço latente na produção de vídeo. No mundo do software, há sérias discussões técnicas sobre o processo de reescrita baseado em Rust no Bun 1.4 e os custos do vendedor na Amazon.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo é um projeto Python que cria vídeos curtos de alta resolução usando fluxos de trabalho automatizados a partir de tópicos ou palavras-chave inseridos. Ao usar modelos de inteligência artificial generativa (IA generativa), completa o processo de produção de vídeo com um único clique.",
+          "meta": "Python · ★ 109.631 · +2.304 hoje"
+        },
+        {
+          "title": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "summary": "Munder-difflin é um ambiente de trabalho que permite gerenciar mais de um agente de inteligência artificial (multiagente) em computadores locais. Ele permite que os desenvolvedores testem sistemas autônomos que executam tarefas complexas em sua própria infraestrutura.",
+          "meta": "TypeScript · ★ 2.430 · +306 hoje"
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Desenvolvido com a linguagem Rust, o ai-memory oferece uma solução de memória de longo prazo para agentes de inteligência artificial focados em codificação. Apoia a continuidade de dados entre agentes, facilitando a delegação de tarefas entre diferentes fornecedores de IA.",
+          "meta": "Rust · ★ 3.041 · +648 hoje"
+        },
+        {
+          "title": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "summary": "Desenvolvido pela Volcengine, o OpenViking oferece um banco de dados de contexto de autodesenvolvimento para agentes de inteligência artificial. Ele padroniza os processos de aprendizagem dos sistemas combinando memória do agente, recuperação de conhecimento (RAG) e gerenciamento de habilidades sob o mesmo teto.",
+          "meta": "Python · ★ 29.810 · +213 hoje"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "A Anthropic-Cybersecurity-Skills oferece 817 habilidades diferentes de segurança cibernética em uma estrutura padrão para agentes de inteligência artificial. Compatível com seis estruturas de segurança diferentes, como MITRE ATT&CK e NIST CSF, esta biblioteca oferece suporte a processos de automação focados em segurança em assistentes de codificação, como Claude Code e GitHub Copilot.",
+          "meta": "Python · ★ 29.533 · +730 hoje"
+        },
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "Public-apis oferece uma lista categorizada de interfaces de programação de aplicativos (APIs) gratuitas que podem ser usadas em projetos de software. Os desenvolvedores podem integrar facilmente os dados necessários em seus projetos por meio deste diretório de recursos, que fornece acesso a vários serviços da web.",
+          "meta": "Python · ★ 465.352 · +1.005 hoje"
+        },
+        {
+          "title": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "summary": "Desenvolvido pela Basecamp, Omarchy é uma ferramenta de configuração moderna e original para sistemas operacionais Linux. Este software, que padroniza as configurações do sistema, tem como objetivo tornar a experiência dos usuários no Linux mais organizada e estética.",
+          "meta": "Shell · ★ 26.643 · +356 hoje"
+        },
+        {
+          "title": "agalwood/Motrix",
+          "url": "https://github.com/agalwood/Motrix",
+          "summary": "Motrix é um gerenciador de downloads de código aberto que gerencia downloads de arquivos pela internet. Ele coleta transferências de arquivos em uma única interface com suporte multiprotocolo como HTTP, FTP, BitTorrent e Magnet.",
+          "meta": "TypeScript · ★ 53.961 · +609 hoje"
+        },
+        {
+          "title": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "summary": "PLFM_RADAR é um sistema de radar phased array de código aberto e baixo custo operando na frequência de 10,5 GHz. Este projeto baseado em hardware oferece uma estrutura única que utiliza a linguagem PLSQL para processar sinais de radiofrequência.",
+          "meta": "PLSQL · ★ 24.494 · +192 hoje"
+        },
+        {
+          "title": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "summary": "Omlx é um servidor de inferência de modelo de linguagem grande (LLM) que suporta lote contínuo e cache SSD para processadores Apple Silicon. Esta ferramenta, que pode ser gerenciada através da barra de menu do macOS, facilita a execução de modelos otimizados de inteligência artificial em hardware local.",
+          "meta": "Python · ★ 19.649 · +370 hoje"
+        },
+        {
+          "title": "genlayerlabs/genlayer-project-boilerplate",
+          "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+          "summary": "GenLayer é uma infraestrutura blockchain que permite que contratos inteligentes interajam diretamente com modelos de inteligência artificial. Este modelo de projeto permite que os desenvolvedores criem lógica alimentada por IA em aplicativos descentralizados (dApps) usando TypeScript.",
+          "meta": "TypeScript · ★ 16.116 · +535 hoje"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut oferece uma alternativa de código aberto à plataforma de edição de vídeo CapCut. Este software, desenvolvido em linguagem TypeScript, permite aos usuários editar livremente seus vídeos.",
+          "meta": "TypeScript · ★ 85.106 · +192 hoje"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "The Amazon tax",
+          "url": "https://seths.blog/2026/08/the-amazon-tax/",
+          "summary": "A Amazon define as altas comissões e taxas de publicidade que recebe dos vendedores em seu mercado como “imposto da Amazon”. Esses custos fazem com que os preços dos produtos subam, ao mesmo tempo que reduzem as margens de lucro dos vendedores.",
+          "meta": "1.216 pontos · 637 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49345263",
+              "popularity": 1216,
+              "engagementCount": 637
+            }
+          ]
+        },
+        {
+          "title": "OpenLogi",
+          "url": "https://openlogi.org/en",
+          "summary": "OpenLogi é um sistema de gerenciamento de armazém que automatiza processos logísticos para empresas de comércio eletrônico. Ele permite que as empresas gerenciem os processos de rastreamento de estoque, embalagem e envio de cargas em uma única plataforma.",
+          "meta": "891 pontos · 241 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49355606",
+              "popularity": 891,
+              "engagementCount": 241
+            }
+          ]
+        },
+        {
+          "title": "Being ambitious and being a dad",
+          "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+          "summary": "Nicholas Charriere adota uma perspectiva pessoal sobre como equilibrar as responsabilidades parentais com metas ambiciosas em sua carreira de desenvolvimento de software. Ele discute maneiras de combinar o sucesso profissional e a vida familiar por meio de estratégias de gerenciamento de tempo e priorização.",
+          "meta": "583 pontos · 390 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49321298",
+              "popularity": 583,
+              "engagementCount": 390
+            }
+          ]
+        },
+        {
+          "title": "How does IKEA come up with names for its products?",
+          "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+          "summary": "Ao nomear os seus produtos, a IKEA utiliza um método de nomenclatura sistemático baseado numa região geográfica ou categoria específica. Este método permite que o varejista de móveis e artigos domésticos IKEA classifique e identifique facilmente seus produtos.",
+          "meta": "374 pontos · 259 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49349984",
+              "popularity": 374,
+              "engagementCount": 259
+            }
+          ]
+        },
+        {
+          "title": "And then the men with guns tell you to do it anyway",
+          "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+          "summary": "Este artigo sobre segurança e privacidade digital aborda os dilemas éticos e legais criados pelos governos que forçam as empresas de tecnologia a aceder aos dados dos utilizadores. Discute os possíveis efeitos do enfraquecimento dos padrões de criptografia através de regulamentações legais sobre direitos individuais e segurança cibernética.",
+          "meta": "338 pontos · 238 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49348912",
+              "popularity": 338,
+              "engagementCount": 238
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Desenvolvido pela Alibaba, Qwen2.5-27B é um modelo de inteligência artificial multimodal que produz saída de texto processando entradas visuais e de texto. Graças à sua estrutura aberta, ele permite que os desenvolvedores criem aplicativos de análise visual personalizáveis ​​em seu próprio hardware.",
+          "meta": "♥ 11.319 · 1.006.235 downloads"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth é uma biblioteca de otimização que permite treinar grandes modelos de linguagem com mais rapidez e menor uso de memória. O modelo Qwen3.8-27B-GGUF é um modelo de inteligência artificial que foi otimizado com esta biblioteca e adequado para execução em dispositivos com hardware limitado.",
+          "meta": "♥ 1.883 · 4.318.134 downloads"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Desenvolvido pela Alibaba, Qwen3.8-2.4T-A95B é um modelo de geração de texto treinado em extensos conjuntos de dados. Este sistema, que está na categoria de modelos de grandes linguagens, tem como objetivo proporcionar alto desempenho em tarefas complexas de criação de conteúdo e processamento de linguagem.",
+          "meta": "♥ 1.078 · 12.699 downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "summary": "MiniMax-Music3, desenvolvido pela MiniMaxAI, é um modelo de texto para áudio que converte comandos de texto em arquivos de áudio de alta qualidade. Esta tecnologia de inteligência artificial, que permite aos utilizadores criar conteúdos musicais a partir de descrições escritas, está entre os modelos atuais na área da produção sonora.",
+          "meta": "♥ 998 · 13.138 downloads"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Desenvolvido pela Lightricks, o LTX-2.5 é um modelo de imagem para vídeo que converte imagens estáticas em vídeos curtos. Essa ferramenta, compartilhada na plataforma de inteligência artificial de código aberto HuggingFace, permite aos usuários transformar seu conteúdo estático em cenas animadas.",
+          "meta": "♥ 1.273 · 555.993 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
+          "url": "https://huggingface.co/papers/2608.13556",
+          "summary": "O V-RAE otimiza os espaços latentes usados ​​na produção de vídeo de acordo com as necessidades de modelagem generativa, em vez da reconstrução orientada a pixels. Este método permite que autoencoders que fornecem representação de vídeo forneçam uma estrutura mais compacta e semanticamente organizada.",
+          "meta": "10 curtidas · 1 comentários"
+        },
+        {
+          "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+          "url": "https://huggingface.co/papers/2608.17067",
+          "summary": "DiSCO usa o método de otimização de prompt contrastivo guiado por distribuição para evitar que modelos que criam imagens a partir de texto produzam conteúdo prejudicial (NSFW). Essa técnica, que funciona mesmo em modelos de caixa fechada, oferece proteção contra vulnerabilidades de segurança ao reorganizar comandos de texto.",
+          "meta": "10 curtidas · 1 comentários"
+        },
+        {
+          "title": "PixRestore: Unified Image Restoration via Pixel Diffusion Transformer",
+          "url": "https://huggingface.co/papers/2608.16793",
+          "summary": "PixRestore é um método unificado de restauração de imagens que converte imagens de baixa qualidade em alta qualidade usando um único modelo. O objetivo é superar os problemas de perda de detalhes e inconsistência dos modelos existentes de texto para imagem com arquitetura de transformador de difusão baseada em pixels.",
+          "meta": "0 curtidas · 1 comentários"
+        },
+        {
+          "title": "MoE-ViE: Mixture of Experts Vision Encoder for Efficient Image and Video Understanding",
+          "url": "https://huggingface.co/papers/2608.17402",
+          "summary": "MoE-ViE usa a arquitetura Mixture-of-Experts para aumentar a eficiência dos codificadores de visão usados ​​em modelos de compreensão de imagem e vídeo. Este método permite processos de processamento visual mais rápidos e eficazes, dimensionando a capacidade dos modelos sem aumentar o custo computacional.",
+          "meta": "0 curtidas · 1 comentários"
+        },
+        {
+          "title": "Demystifying Agent Skills: Why They Work-Until They Don't",
+          "url": "https://huggingface.co/papers/2608.14036",
+          "summary": "O uso de habilidades, que fornecem pacotes de informações aos agentes de inteligência artificial no momento da inferência, é preferido para aumentar o sucesso em tarefas complexas. A investigação actual analisa formas representacionais e rótulos de resultados para compreender em que condições estas capacidades funcionam e em que condições falham.",
+          "meta": "44 curtidas · 1 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Bun 1.4 Rust rewrite is not looking good",
+          "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+          "summary": "O tempo de execução do JavaScript Bun encontra problemas de desempenho e estabilidade no processo de portabilidade de sua infraestrutura para a linguagem Rust. Os desenvolvedores discutem as implicações de reescrever a base de código existente no futuro e na sustentabilidade do projeto.",
+          "meta": "40 pontos · 19 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good",
+              "popularity": 40,
+              "engagementCount": 19
+            }
+          ]
+        },
+        {
+          "title": "Mastodon 5.0: Laying the foundation",
+          "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+          "summary": "A rede social descentralizada Mastodon torna sua infraestrutura mais escalável com sua versão 5.0. A atualização inclui alterações arquitetônicas importantes que aumentam o desempenho do banco de dados para melhorar a experiência do usuário e oferecer suporte a recursos futuros da plataforma.",
+          "meta": "35 pontos · 7 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation",
+              "popularity": 35,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "How I browse the Web with uBlock (Hard Mode)",
+          "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+          "summary": "Plug-in de bloqueio de conteúdo uBlock Origin oferece um “modo rígido” que bloqueia scripts e iframes de terceiros em sites por padrão com configurações de filtragem avançadas. Este método permite que os usuários aumentem a privacidade e melhorem o desempenho do navegador, limpando elementos desnecessários nas páginas da web.",
+          "meta": "63 pontos · 24 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode",
+              "popularity": 63,
+              "engagementCount": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "generative AI",
+      "explanation": "Tecnologia de inteligência artificial que pode criar do zero conteúdos, imagens ou textos anteriormente inexistentes."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "A colaboração de vários softwares de IA independentes que colaboram entre si para compartilhar tarefas complexas."
+    },
+    {
+      "term": "harness",
+      "explanation": "Utilizar o potencial de uma tecnologia ou poder para torná-lo útil de forma eficiente."
+    },
+    {
+      "term": "long term memory",
+      "explanation": "A inteligência artificial armazena por muito tempo informações passadas e preferências do usuário, sem esquecê-las e lembra-as quando necessário."
+    },
+    {
+      "term": "context database",
+      "explanation": "Uma área de dados regular onde são mantidas conversas anteriores e informações especiais necessárias à inteligência artificial para fornecer respostas mais precisas."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Um método que permite à inteligência artificial produzir respostas mais precisas e confiáveis, consultando fontes atuais ou especiais além do seu próprio conhecimento."
+    },
+    {
+      "term": "cybersecurity skills",
+      "explanation": "Conhecimentos e competências técnicas que permitam proteger sistemas informáticos, redes e dados pessoais contra ataques digitais."
+    },
+    {
+      "term": "API",
+      "explanation": "Uma ponte digital que permite que dois softwares diferentes se comuniquem e troquem dados."
+    },
+    {
+      "term": "download manager",
+      "explanation": "Software utilitário que aumenta a velocidade de download de arquivos da internet, retoma downloads interrompidos e organiza arquivos."
+    },
+    {
+      "term": "phased array radar",
+      "explanation": "Um sistema de varredura avançado que detecta a localização e a velocidade de objetos direcionando sinais eletrônicos sem usar peças móveis."
+    },
+    {
+      "term": "continuous batching",
+      "explanation": "É um método que aumenta a velocidade de processamento e a eficiência da inteligência artificial, processando as perguntas recebidas em um fluxo contínuo, sem espera."
+    },
+    {
+      "term": "SSD caching",
+      "explanation": "O processo de manter temporariamente dados usados ​​com frequência em unidades de armazenamento mais rápidas para acesso rápido."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    },
+    {
+      "term": "smart contracts",
+      "explanation": "Códigos que funcionam automaticamente quando determinadas condições são atendidas e garantem o acordo entre as partes em ambiente digital."
+    },
+    {
+      "term": "dApps",
+      "explanation": "Os aplicativos que não estão sob o controle de uma instituição central funcionam no blockchain e estão abertos a todos."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com enormes dados que podem compreender a linguagem humana e produzir texto."
+    }
+  ]
+}

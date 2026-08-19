@@ -1,0 +1,176 @@
+{
+  "date": "2026-08-19",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "The Amazon tax",
+          "url": "https://seths.blog/2026/08/the-amazon-tax/",
+          "summary": "Amazon defines the high commissions and advertising fees it receives from sellers in its marketplace as \"Amazon tax\". These costs cause product prices to rise while narrowing sellers' profit margins.",
+          "meta": "1,216 points · 637 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49345263",
+              "popularity": 1216,
+              "engagementCount": 637
+            }
+          ]
+        },
+        {
+          "title": "OpenLogi",
+          "url": "https://openlogi.org/en",
+          "summary": "OpenLogi is a warehouse management system that automates logistics processes for e-commerce businesses. It allows companies to manage stock tracking, packaging and cargo shipping processes on a single platform.",
+          "meta": "891 points · 241 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49355606",
+              "popularity": 891,
+              "engagementCount": 241
+            }
+          ]
+        },
+        {
+          "title": "Being ambitious and being a dad",
+          "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+          "summary": "Nicholas Charriere takes a personal perspective on balancing parenting responsibilities with ambitious goals in his software development career. He discusses ways to combine professional success and family life through time management and prioritization strategies.",
+          "meta": "583 points · 390 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49321298",
+              "popularity": 583,
+              "engagementCount": 390
+            }
+          ]
+        },
+        {
+          "title": "How does IKEA come up with names for its products?",
+          "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+          "summary": "When naming its products, IKEA uses a systematic naming method based on a specific geographical region or category. This method allows furniture and home goods retailer IKEA to easily classify and identify its products.",
+          "meta": "374 points · 259 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49349984",
+              "popularity": 374,
+              "engagementCount": 259
+            }
+          ]
+        },
+        {
+          "title": "And then the men with guns tell you to do it anyway",
+          "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+          "summary": "This article on digital security and privacy addresses the ethical and legal dilemmas created by governments forcing technology companies to access user data. It discusses the possible effects of weakening encryption standards through legal regulations on individual rights and cyber security.",
+          "meta": "338 points · 238 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49348912",
+              "popularity": 338,
+              "engagementCount": 238
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
+          "url": "https://huggingface.co/papers/2608.13556",
+          "summary": "V-RAE optimizes latent spaces used in video production according to generative modeling needs rather than pixel-oriented reconstruction. This method enables autoencoders that provide video representation to provide a more compact and semantically organized structure.",
+          "meta": "10 likes · 1 comments"
+        },
+        {
+          "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+          "url": "https://huggingface.co/papers/2608.17067",
+          "summary": "DiSCO uses the distribution-guided contrastive prompt optimization method to prevent models that create images from text from producing harmful content (NSFW). This technique, which works even on closed-box models, provides protection against security vulnerabilities by rearranging text commands.",
+          "meta": "10 likes · 1 comments"
+        },
+        {
+          "title": "PixRestore: Unified Image Restoration via Pixel Diffusion Transformer",
+          "url": "https://huggingface.co/papers/2608.16793",
+          "summary": "PixRestore is a unified image restoration method that converts low quality images to high quality using a single model. It aims to overcome the detail loss and inconsistency problems of existing text-to-image models with pixel-based diffusion transformer architecture.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "MoE-ViE: Mixture of Experts Vision Encoder for Efficient Image and Video Understanding",
+          "url": "https://huggingface.co/papers/2608.17402",
+          "summary": "MoE-ViE uses the Mixture-of-Experts architecture to increase the efficiency of vision encoders used in image and video understanding models. This method enables faster and more effective visual processing processes by scaling the capacity of the models without increasing the computational cost.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "Demystifying Agent Skills: Why They Work-Until They Don't",
+          "url": "https://huggingface.co/papers/2608.14036",
+          "summary": "The use of skills, which provide information packages to artificial intelligence agents at the time of inference, is preferred to increase success in complex tasks. Current research analyzes representational forms and outcome labels to understand under what conditions these abilities work and under what conditions they fail.",
+          "meta": "44 likes · 1 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Bun 1.4 Rust rewrite is not looking good",
+          "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+          "summary": "JavaScript runtime Bun encounters performance and stability issues in the process of porting its infrastructure to the Rust language. Developers discuss the implications of rewriting the existing code base on the future and sustainability of the project.",
+          "meta": "40 points · 19 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good",
+              "popularity": 40,
+              "engagementCount": 19
+            }
+          ]
+        },
+        {
+          "title": "Mastodon 5.0: Laying the foundation",
+          "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+          "summary": "Decentralized social network Mastodon makes its infrastructure more scalable with its 5.0 version. The update includes key architectural changes that increase database performance to improve user experience and support future features of the platform.",
+          "meta": "35 points · 7 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation",
+              "popularity": 35,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "How I browse the Web with uBlock (Hard Mode)",
+          "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+          "summary": "Content blocking plugin uBlock Origin offers a \"hard mode\" that blocks third-party scripts and iframes on websites by default with advanced filtering settings. This method allows users to both increase privacy and improve browser performance by cleaning unnecessary elements on web pages.",
+          "meta": "63 points · 24 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode",
+              "popularity": 63,
+              "engagementCount": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": []
+}

@@ -1,0 +1,176 @@
+{
+  "date": "2026-08-19",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "The Amazon tax",
+          "url": "https://seths.blog/2026/08/the-amazon-tax/",
+          "summary": "Als „Amazon-Steuer“ definiert Amazon die hohen Provisionen und Werbegebühren, die es von den Verkäufern auf seinem Marktplatz erhält. Diese Kosten führen zu steigenden Produktpreisen und verringern gleichzeitig die Gewinnspanne der Verkäufer.",
+          "meta": "1.216 Punkte · 637 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49345263",
+              "popularity": 1216,
+              "engagementCount": 637
+            }
+          ]
+        },
+        {
+          "title": "OpenLogi",
+          "url": "https://openlogi.org/en",
+          "summary": "OpenLogi ist ein Lagerverwaltungssystem, das Logistikprozesse für E-Commerce-Unternehmen automatisiert. Es ermöglicht Unternehmen, Lagerverfolgungs-, Verpackungs- und Frachtversandprozesse auf einer einzigen Plattform zu verwalten.",
+          "meta": "891 Punkte · 241 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49355606",
+              "popularity": 891,
+              "engagementCount": 241
+            }
+          ]
+        },
+        {
+          "title": "Being ambitious and being a dad",
+          "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+          "summary": "Nicholas Charriere vertritt in seiner Karriere als Softwareentwickler aus persönlicher Sicht die Frage, wie er elterliche Pflichten mit ehrgeizigen Zielen in Einklang bringen kann. Er diskutiert Möglichkeiten, beruflichen Erfolg und Familienleben durch Zeitmanagement- und Priorisierungsstrategien zu vereinbaren.",
+          "meta": "583 Punkte · 390 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49321298",
+              "popularity": 583,
+              "engagementCount": 390
+            }
+          ]
+        },
+        {
+          "title": "How does IKEA come up with names for its products?",
+          "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+          "summary": "Bei der Benennung seiner Produkte verwendet IKEA eine systematische Benennungsmethode, die auf einer bestimmten geografischen Region oder Kategorie basiert. Mit dieser Methode kann der Möbel- und Haushaltswarenhändler IKEA seine Produkte einfach klassifizieren und identifizieren.",
+          "meta": "374 Punkte · 259 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49349984",
+              "popularity": 374,
+              "engagementCount": 259
+            }
+          ]
+        },
+        {
+          "title": "And then the men with guns tell you to do it anyway",
+          "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+          "summary": "Dieser Artikel über digitale Sicherheit und Datenschutz befasst sich mit den ethischen und rechtlichen Dilemmata, die dadurch entstehen, dass Regierungen Technologieunternehmen zum Zugriff auf Benutzerdaten zwingen. Es werden die möglichen Auswirkungen einer Schwächung von Verschlüsselungsstandards durch gesetzliche Regelungen auf Individualrechte und Cybersicherheit diskutiert.",
+          "meta": "338 Punkte · 238 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49348912",
+              "popularity": 338,
+              "engagementCount": 238
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
+          "url": "https://huggingface.co/papers/2608.13556",
+          "summary": "V-RAE optimiert latente Räume, die bei der Videoproduktion verwendet werden, gemäß den Anforderungen der generativen Modellierung und nicht gemäß der pixelorientierten Rekonstruktion. Mit dieser Methode können Autoencoder, die eine Videodarstellung bereitstellen, eine kompaktere und semantisch organisierte Struktur bereitstellen.",
+          "meta": "10 Likes · 1 Kommentare"
+        },
+        {
+          "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+          "url": "https://huggingface.co/papers/2608.17067",
+          "summary": "DiSCO verwendet die verteilungsgesteuerte kontrastive Prompt-Optimierungsmethode, um zu verhindern, dass Modelle, die Bilder aus Text erstellen, schädliche Inhalte produzieren (NSFW). Diese Technik, die auch bei Closed-Box-Modellen funktioniert, bietet Schutz vor Sicherheitslücken, indem Textbefehle neu angeordnet werden.",
+          "meta": "10 Likes · 1 Kommentare"
+        },
+        {
+          "title": "PixRestore: Unified Image Restoration via Pixel Diffusion Transformer",
+          "url": "https://huggingface.co/papers/2608.16793",
+          "summary": "PixRestore ist eine einheitliche Methode zur Bildwiederherstellung, die Bilder mit geringer Qualität mithilfe eines einzigen Modells in Bilder mit hoher Qualität umwandelt. Ziel ist es, die Detailverlust- und Inkonsistenzprobleme bestehender Text-zu-Bild-Modelle mit einer pixelbasierten Diffusionstransformator-Architektur zu überwinden.",
+          "meta": "0 Likes · 1 Kommentare"
+        },
+        {
+          "title": "MoE-ViE: Mixture of Experts Vision Encoder for Efficient Image and Video Understanding",
+          "url": "https://huggingface.co/papers/2608.17402",
+          "summary": "MoE-ViE nutzt die Mixture-of-Experts-Architektur, um die Effizienz von Vision-Encodern zu steigern, die in Bild- und Videoverständnismodellen verwendet werden. Diese Methode ermöglicht schnellere und effektivere visuelle Verarbeitungsprozesse, indem sie die Kapazität der Modelle skaliert, ohne den Rechenaufwand zu erhöhen.",
+          "meta": "0 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Demystifying Agent Skills: Why They Work-Until They Don't",
+          "url": "https://huggingface.co/papers/2608.14036",
+          "summary": "Um den Erfolg bei komplexen Aufgaben zu steigern, wird der Einsatz von Fähigkeiten bevorzugt, die den Agenten der künstlichen Intelligenz zum Zeitpunkt der Schlussfolgerung Informationspakete bereitstellen. Aktuelle Forschung analysiert Darstellungsformen und Ergebnisbezeichnungen, um zu verstehen, unter welchen Bedingungen diese Fähigkeiten funktionieren und unter welchen Bedingungen sie versagen.",
+          "meta": "44 Likes · 1 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Bun 1.4 Rust rewrite is not looking good",
+          "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+          "summary": "Die JavaScript-Laufzeitumgebung Bun stößt bei der Portierung ihrer Infrastruktur auf die Rust-Sprache auf Leistungs- und Stabilitätsprobleme. Entwickler diskutieren die Auswirkungen des Umschreibens der vorhandenen Codebasis auf die Zukunft und Nachhaltigkeit des Projekts.",
+          "meta": "40 Punkte · 19 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good",
+              "popularity": 40,
+              "engagementCount": 19
+            }
+          ]
+        },
+        {
+          "title": "Mastodon 5.0: Laying the foundation",
+          "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+          "summary": "Das dezentrale soziale Netzwerk Mastodon macht seine Infrastruktur mit der Version 5.0 skalierbarer. Das Update umfasst wichtige Architekturänderungen, die die Datenbankleistung erhöhen, um das Benutzererlebnis zu verbessern und zukünftige Funktionen der Plattform zu unterstützen.",
+          "meta": "35 Punkte · 7 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation",
+              "popularity": 35,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "How I browse the Web with uBlock (Hard Mode)",
+          "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+          "summary": "Das Inhaltsblockierungs-Plugin uBlock Origin bietet einen „harten Modus“, der standardmäßig Skripte und Iframes von Drittanbietern auf Websites mit erweiterten Filtereinstellungen blockiert. Mit dieser Methode können Benutzer sowohl den Datenschutz erhöhen als auch die Browserleistung verbessern, indem unnötige Elemente auf Webseiten entfernt werden.",
+          "meta": "63 Punkte · 24 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode",
+              "popularity": 63,
+              "engagementCount": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": []
+}

@@ -1,0 +1,345 @@
+{
+  "date": "2026-08-19",
+  "editorial": "Today's agenda revolves around high-performance versions of the Qwen 3.8-27B model (quantized models) and latent space optimizations in video production. In the software world, there are serious technical discussions about the Rust-based rewriting process in Bun 1.4 and seller costs on Amazon.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo is a Python project that creates high-resolution short videos using automated workflows from entered topics or keywords. By using generative artificial intelligence (generative AI) models, it makes the video production process complete with a single click.",
+          "meta": "Python · ★ 109,631 · +2,304 today"
+        },
+        {
+          "title": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "summary": "Munder-difflin is a working environment that allows managing more than one artificial intelligence agent (multi-agent) on local computers. It allows developers to test autonomous systems that perform complex tasks on their own infrastructure.",
+          "meta": "TypeScript · ★ 2,430 · +306 today"
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Developed with the Rust language, ai-memory offers a long-term memory solution for coding-focused artificial intelligence agents. It supports inter-agent data continuity by facilitating task delegation between different AI providers.",
+          "meta": "Rust · ★ 3,041 · +648 today"
+        },
+        {
+          "title": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "summary": "Developed by Volcengine, OpenViking offers a self-developing context database for artificial intelligence agents. It standardizes the learning processes of systems by combining agent memory, knowledge retrieval (RAG) and skill management under a single roof.",
+          "meta": "Python · ★ 29,810 · +213 today"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Anthropic-Cybersecurity-Skills offers 817 different cybersecurity skills in a standard structure for artificial intelligence agents. Compatible with six different security frameworks such as MITER ATT&CK and NIST CSF, this library supports security-focused automation processes in coding assistants such as Claude Code and GitHub Copilot.",
+          "meta": "Python · ★ 29,533 · +730 today"
+        },
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "Public-apis offers a categorized list of free application programming interfaces (APIs) that can be used in software projects. Developers can easily integrate the data they need into their projects through this resource directory, which provides access to various web services.",
+          "meta": "Python · ★ 465,352 · +1,005 today"
+        },
+        {
+          "title": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "summary": "Developed by Basecamp, Omarchy is a modern and original configuration tool for Linux operating systems. This software, which standardizes system settings, aims to make users' Linux experience more organized and aesthetic.",
+          "meta": "Shell · ★ 26,643 · +356 today"
+        },
+        {
+          "title": "agalwood/Motrix",
+          "url": "https://github.com/agalwood/Motrix",
+          "summary": "Motrix is ​​an open source download manager that manages file downloads over the internet. It collects file transfers in a single interface with multi-protocol support such as HTTP, FTP, BitTorrent and Magnet.",
+          "meta": "TypeScript · ★ 53,961 · +609 today"
+        },
+        {
+          "title": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "summary": "PLFM_RADAR is an open source and low-cost phased array radar system operating at a frequency of 10.5 GHz. This hardware-based project offers a unique structure that uses the PLSQL language to process radio frequency signals.",
+          "meta": "PLSQL · ★ 24,494 · +192 today"
+        },
+        {
+          "title": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "summary": "Omlx is a large language model (LLM) inference server that supports continuous batching and SSD caching for Apple Silicon processors. This tool, which can be managed via the macOS menu bar, makes it easier to run optimized artificial intelligence models on local hardware.",
+          "meta": "Python · ★ 19,649 · +370 today"
+        },
+        {
+          "title": "genlayerlabs/genlayer-project-boilerplate",
+          "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+          "summary": "GenLayer is a blockchain infrastructure that enables smart contracts to directly interact with artificial intelligence models. This project template allows developers to build AI-powered logic within decentralized applications (dApps) using TypeScript.",
+          "meta": "TypeScript · ★ 16,116 · +535 today"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut offers an open source alternative to the video editing platform CapCut. This software, developed with TypeScript language, allows users to freely edit their videos.",
+          "meta": "TypeScript · ★ 85,106 · +192 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "The Amazon tax",
+          "url": "https://seths.blog/2026/08/the-amazon-tax/",
+          "summary": "Amazon defines the high commissions and advertising fees it receives from sellers in its marketplace as \"Amazon tax\". These costs cause product prices to rise while narrowing sellers' profit margins.",
+          "meta": "1,216 points · 637 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49345263",
+              "popularity": 1216,
+              "engagementCount": 637
+            }
+          ]
+        },
+        {
+          "title": "OpenLogi",
+          "url": "https://openlogi.org/en",
+          "summary": "OpenLogi is a warehouse management system that automates logistics processes for e-commerce businesses. It allows companies to manage stock tracking, packaging and cargo shipping processes on a single platform.",
+          "meta": "891 points · 241 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49355606",
+              "popularity": 891,
+              "engagementCount": 241
+            }
+          ]
+        },
+        {
+          "title": "Being ambitious and being a dad",
+          "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+          "summary": "Nicholas Charriere takes a personal perspective on balancing parenting responsibilities with ambitious goals in his software development career. He discusses ways to combine professional success and family life through time management and prioritization strategies.",
+          "meta": "583 points · 390 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49321298",
+              "popularity": 583,
+              "engagementCount": 390
+            }
+          ]
+        },
+        {
+          "title": "How does IKEA come up with names for its products?",
+          "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+          "summary": "When naming its products, IKEA uses a systematic naming method based on a specific geographical region or category. This method allows furniture and home goods retailer IKEA to easily classify and identify its products.",
+          "meta": "374 points · 259 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49349984",
+              "popularity": 374,
+              "engagementCount": 259
+            }
+          ]
+        },
+        {
+          "title": "And then the men with guns tell you to do it anyway",
+          "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+          "summary": "This article on digital security and privacy addresses the ethical and legal dilemmas created by governments forcing technology companies to access user data. It discusses the possible effects of weakening encryption standards through legal regulations on individual rights and cyber security.",
+          "meta": "338 points · 238 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49348912",
+              "popularity": 338,
+              "engagementCount": 238
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Developed by Alibaba, Qwen2.5-27B is a multi-modal artificial intelligence model that produces text output by processing visual and text inputs. Thanks to its open-heavy structure, it allows developers to create customizable visual analysis applications on their own hardware.",
+          "meta": "♥ 11,319 · 1,006,235 downloads"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth is an optimization library that allows training large language models faster and with lower memory usage. The Qwen3.8-27B-GGUF model is an artificial intelligence model that has been optimized with this library and made suitable for running on hardware-limited devices.",
+          "meta": "♥ 1,883 · 4,318,134 downloads"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Developed by Alibaba, Qwen3.8-2.4T-A95B is a text-generation model trained on extensive data sets. This system, which is in the category of large language models, aims to provide high performance in complex content creation and language processing tasks.",
+          "meta": "♥ 1,078 · 12,699 downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "summary": "MiniMax-Music3, developed by MiniMaxAI, is a text-to-audio model that converts text commands into high-quality audio files. This artificial intelligence technology, which allows users to create musical content from written descriptions, is among the current models in the field of sound production.",
+          "meta": "♥ 998 · 13,138 downloads"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Developed by Lightricks, LTX-2.5 is an image-to-video model that converts still images into short videos. This tool, shared on the open source artificial intelligence platform HuggingFace, allows users to turn their static content into animated scenes.",
+          "meta": "♥ 1,273 · 555,993 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
+          "url": "https://huggingface.co/papers/2608.13556",
+          "summary": "V-RAE optimizes latent spaces used in video production according to generative modeling needs rather than pixel-oriented reconstruction. This method enables autoencoders that provide video representation to provide a more compact and semantically organized structure.",
+          "meta": "10 likes · 1 comments"
+        },
+        {
+          "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+          "url": "https://huggingface.co/papers/2608.17067",
+          "summary": "DiSCO uses the distribution-guided contrastive prompt optimization method to prevent models that create images from text from producing harmful content (NSFW). This technique, which works even on closed-box models, provides protection against security vulnerabilities by rearranging text commands.",
+          "meta": "10 likes · 1 comments"
+        },
+        {
+          "title": "PixRestore: Unified Image Restoration via Pixel Diffusion Transformer",
+          "url": "https://huggingface.co/papers/2608.16793",
+          "summary": "PixRestore is a unified image restoration method that converts low quality images to high quality using a single model. It aims to overcome the detail loss and inconsistency problems of existing text-to-image models with pixel-based diffusion transformer architecture.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "MoE-ViE: Mixture of Experts Vision Encoder for Efficient Image and Video Understanding",
+          "url": "https://huggingface.co/papers/2608.17402",
+          "summary": "MoE-ViE uses the Mixture-of-Experts architecture to increase the efficiency of vision encoders used in image and video understanding models. This method enables faster and more effective visual processing processes by scaling the capacity of the models without increasing the computational cost.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "Demystifying Agent Skills: Why They Work-Until They Don't",
+          "url": "https://huggingface.co/papers/2608.14036",
+          "summary": "The use of skills, which provide information packages to artificial intelligence agents at the time of inference, is preferred to increase success in complex tasks. Current research analyzes representational forms and outcome labels to understand under what conditions these abilities work and under what conditions they fail.",
+          "meta": "44 likes · 1 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Bun 1.4 Rust rewrite is not looking good",
+          "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+          "summary": "JavaScript runtime Bun encounters performance and stability issues in the process of porting its infrastructure to the Rust language. Developers discuss the implications of rewriting the existing code base on the future and sustainability of the project.",
+          "meta": "40 points · 19 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good",
+              "popularity": 40,
+              "engagementCount": 19
+            }
+          ]
+        },
+        {
+          "title": "Mastodon 5.0: Laying the foundation",
+          "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+          "summary": "Decentralized social network Mastodon makes its infrastructure more scalable with its 5.0 version. The update includes key architectural changes that increase database performance to improve user experience and support future features of the platform.",
+          "meta": "35 points · 7 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation",
+              "popularity": 35,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "How I browse the Web with uBlock (Hard Mode)",
+          "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+          "summary": "Content blocking plugin uBlock Origin offers a \"hard mode\" that blocks third-party scripts and iframes on websites by default with advanced filtering settings. This method allows users to both increase privacy and improve browser performance by cleaning unnecessary elements on web pages.",
+          "meta": "63 points · 24 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode",
+              "popularity": 63,
+              "engagementCount": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "generative AI",
+      "explanation": "Artificial intelligence technology that can create previously non-existent content, images or texts from scratch."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "The collaboration of multiple independent AI software that collaborates with each other to share complex tasks."
+    },
+    {
+      "term": "harness",
+      "explanation": "Using the potential of a technology or power to make it useful efficiently."
+    },
+    {
+      "term": "long term memory",
+      "explanation": "Artificial intelligence stores past information and user preferences for a long time without forgetting them and remembers them when needed."
+    },
+    {
+      "term": "context database",
+      "explanation": "A regular data area where past conversations and special information needed by artificial intelligence to provide more accurate answers are kept."
+    },
+    {
+      "term": "RAG",
+      "explanation": "A method that enables artificial intelligence to produce more accurate and reliable answers by consulting current or special sources beyond its own knowledge."
+    },
+    {
+      "term": "cybersecurity skills",
+      "explanation": "Technical knowledge and skills that enable protecting computer systems, networks and personal data against digital attacks."
+    },
+    {
+      "term": "API",
+      "explanation": "A digital bridge that allows two different software to talk to each other and exchange data."
+    },
+    {
+      "term": "download manager",
+      "explanation": "Utility software that increases speed when downloading files from the internet, resumes interrupted downloads and organizes files."
+    },
+    {
+      "term": "phased array radar",
+      "explanation": "An advanced scanning system that detects the location and speed of objects by directing electronic signals without using moving parts."
+    },
+    {
+      "term": "continuous batching",
+      "explanation": "It is a method that increases the processing speed and efficiency of artificial intelligence by processing incoming questions in a continuous flow without waiting."
+    },
+    {
+      "term": "SSD caching",
+      "explanation": "The process of temporarily keeping frequently used data in faster storage units for quick access."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    },
+    {
+      "term": "smart contracts",
+      "explanation": "Codes that work automatically when certain conditions are met and ensure the agreement between the parties in a digital environment."
+    },
+    {
+      "term": "dApps",
+      "explanation": "Applications that are not under the control of a central institution, work on the blockchain and are open to everyone."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained with huge data that can understand human language and produce text."
+    }
+  ]
+}
