@@ -6,7 +6,7 @@ discover/index.html'deki #discover-grid önceden boştu (JS ile doluyordu) → J
 çalıştırmayan crawler'lara / çoğu AI botuna BOŞ görünüyordu. Bu script grid'i
 catalog'dan server-render eder (discover.js markup'ıyla birebir, yıldıza göre).
 discover.js JS kullanıcıları için aynı içeriği yeniden render eder + arama/filtre
-ekler (progressive enhancement). Idempotent · Action'da discover-sync sonrası çalışır.
+ekler (progressive enhancement). Idempotent · Action'da discover-sync sonrası çalışır. Kartlar son rapor görülme tarihine, sonra ilk keşif tarihine göre sıralanır.
 Kullanım: python3 scripts/discover-index.py
 """
 import os, re, json, html
@@ -28,7 +28,9 @@ def card(it):  # discover.js card() ile birebir aynı markup
 
 def main():
     cat = json.load(open(CAT, encoding="utf-8"))
-    items = sorted(cat, key=lambda c: -(c.get("stars") or 0))
+    def freshness(c):
+        return c.get("last_seen") or c.get("date") or ""
+    items = sorted(cat, key=lambda c: (freshness(c), c.get("stars") or 0), reverse=True)
     grid = "\n        " + "\n        ".join(card(c) for c in items) + "\n      "
     t = open(IDX, encoding="utf-8").read()
     # grid'i değiştir · bitişi <aside class="disc-cta"> ile çapala (iç içe </div>'lere takılmaz, idempotent)
@@ -40,7 +42,7 @@ def main():
     if t2 == t:
         print("discover index: değişiklik yok (grid/sayaç bulunamadı?)"); return
     open(IDX, "w", encoding="utf-8").write(t2)
-    print(f"discover index server-render: {len(items)} kart gömüldü (yıldıza göre)")
+    print(f"discover index server-render: {len(items)} kart gömüldü (son görülme tarihine göre)")
 
 if __name__ == "__main__":
     main()

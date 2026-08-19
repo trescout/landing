@@ -71,7 +71,7 @@
   if (!grid) return;
 
   var TAG_ORDER = ["Yapay zekâ araçları", "Geliştirici aracı", "Üretkenlik", "Öğrenme", "Kod bilmeyenler için"];
-  var state = { q: "", tag: null, sort: "stars" };
+  var state = { q: "", tag: null, sort: "date" };
   var items = [];
 
   function card(it) {
@@ -97,7 +97,11 @@
       return true;
     });
     if (state.sort === 'stars') list.sort(function (a, b) { return (b.stars || 0) - (a.stars || 0); });
-    else if (state.sort === 'date') list.sort(function (a, b) { return (b.date || '').localeCompare(a.date || ''); });
+    else if (state.sort === 'date') list.sort(function (a, b) {
+      var ad = a.last_seen || a.date || '';
+      var bd = b.last_seen || b.date || '';
+      return bd.localeCompare(ad) || (b.stars || 0) - (a.stars || 0);
+    });
     else list.sort(function (a, b) { return (a.title || '').localeCompare(b.title || '', M.dizi); });
 
     var cnt = document.getElementById('disc-count');

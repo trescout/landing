@@ -58,7 +58,11 @@ def report_items():
             if sec.get("sourceName")!="github": continue
             for it in sec.get("items",[]):
                 u=norm_url(it.get("url",""))
-                if u and u not in seen: seen[u]={**it,"_date":date}
+                # Aynı günün tekrarsız raporu ana raporu alfabetik olarak
+                # ezebilir. Her repo için dosya sırasına değil ISO tarihe göre
+                # en yeni rapor kazanmalı; eski tarih sabitlenmemeli.
+                if u and (u not in seen or date >= str(seen[u].get("_date") or "")):
+                    seen[u]={**it,"_date":date}
     return list(seen.values())
 
 def parse_meta(meta):
@@ -784,6 +788,25 @@ def main():
         slugs={s.strip() for s in rpa.split("=",1)[1].split(",") if s.strip()}
         reprocess(cat, by_slug, key, [c for c in cat if c["slug"] in slugs], "--reprocess="+",".join(sorted(slugs))); return
     ex=existing_urls(); items=report_items(); cat_slugs=set(by_slug)
+    # Mevcut entry'lerde ilk keşif tarihi korunur; son raporda yeniden
+    # görüldüğü tarih ayrı tutulur. Böylece "En yeni" görünümü gerçekten
+    # günlük raporu yansıtır ve tarih geriye sabitlenmez.
+    url_to_entry={}
+    for c in cat:
+        f=os.path.join(DISC,c["slug"],"index.html")
+        if not os.path.exists(f): continue
+        t=open(f,encoding="utf-8").read()
+        m=re.search(r'"codeRepository":\s*"([^"]+)"',t) or re.search(r'href="(https://github\.com/[^"?]+)',t)
+        if m: url_to_entry[norm_url(m.group(1))]=c
+    seen_existing=0
+    for it in items:
+        u=norm_url(it.get("url",""))
+        c=url_to_entry.get(u)
+        if c:
+            latest=it.get("_date") or TODAY
+            if latest > str(c.get("last_seen") or ""):
+                c["last_seen"]=latest
+                seen_existing+=1
     new=[]
     for it in items:
         if norm_url(it.get("url","")) in ex: continue
@@ -794,11 +817,17 @@ def main():
         summary=it.get("summary","").strip()
         new.append({"slug":slug,"title":title,"tagline":make_tagline(summary,title),"summary":summary,
                     "url":it.get("url",""),"lang":lang,"stars":stars,"momentum":momentum,
-                    "date":it.get("_date",TODAY),"tags":infer_tags(summary)})
-    print(f"rapor GitHub repo: {len(items)} · mevcut (URL): {len(ex)} · YENİ: {len(new)}")
+                    "date":it.get("_date",TODAY),"last_seen":it.get("_date",TODAY),"tags":infer_tags(summary)})
+    print(f"rapor GitHub repo: {len(items)} · mevcut (URL): {len(ex)} · yeniden gündemde: {seen_existing} · YENİ: {len(new)}")
     for n in new: print(f"  + {n['slug']}  ({n['title']})")
     if DRY: print("[--dry] yazılmadı."); return
-    if not new: print("eklenecek yeni repo yok · keşif güncel ✅"); return
+    if not new:
+        if seen_existing:
+            json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
+            print(f"✅ {seen_existing} mevcut keşif kaydının son rapor tarihi güncellendi")
+        else:
+            print("eklenecek yeni repo yok · keşif güncel ✅")
+        return
     nrich=nlite=0
     for n in new:
         rich,reason=process_one(n,key)

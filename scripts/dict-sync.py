@@ -200,7 +200,9 @@ def render_page(e, en_map):
 
 def render_index(manifest):
     cards=""
-    for e in sorted(manifest,key=lambda x:x["en"].lower()):
+    # Yeni terimler ve yakın zamanda eklenenler ana sayfada görünür olsun;
+    # tarihsiz eski manifest kayıtları alfabetik kuyruğa düşer.
+    for e in sorted(manifest,key=lambda x: (not x.get("date"), x.get("date", "")), reverse=True):
         enl=f'<p class="dict-card-en">{esc(e["full"])}</p>' if e.get("full") else ''
         hay=f"{e['en']} {e.get('full','')} {e['kisa']} {e['slug']}"
         cards+=(f'<a class="dict-card" data-cat="{e["cat"]}" data-search="{esc(hay)}" href="/dictionary/{e["slug"]}/">'
@@ -252,6 +254,22 @@ def main():
     print(f"raporlardan toplanan glossary terimi: {len(terms)}")
     if not terms: print("glossary bulunamadı (rapor JSON'unda 'glossary' yok, PDF de yok)."); return
     manifest=json.load(open(MANIFEST,encoding="utf-8"))
+    # Eski manifest kayıtlarında tarih alanı yoktu. Detay sayfasındaki kanonik
+    # `dict-time` değerinden bir kez backfill et; böylece yeni terimler ana
+    # sayfada görünür güncellik sırasına girebilir.
+    manifest_changed=False
+    for m in manifest:
+        if m.get("date"): continue
+        p=os.path.join(DICT,m["slug"],"index.html")
+        if not os.path.exists(p): continue
+        t=open(p,encoding="utf-8").read()
+        mt=re.search(r'<time class="dict-time" datetime="(\d{4}-\d{2}-\d{2})"',t)
+        if mt:
+            m["date"]=mt.group(1); manifest_changed=True
+    if manifest_changed:
+        json.dump(manifest,open(MANIFEST,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
+        render_index(manifest)
+        print("✅ eski sözlük kayıtlarının tarih alanı backfill edildi")
     existing_slugs={m["slug"] for m in manifest}
     # BİRLEŞTİRİLMİŞ terimler · 2026-08-08'de 19 tekil/çoğul ikizi kanonik
     # sluglarında birleştirildi ve eski URL'ler 301'lendi. O sluglar burada
@@ -288,7 +306,7 @@ def main():
     for n in new:
         n["related"]=[r for r in (n.get("related") or []) if r in en_map][:5]
         render_page(n, en_map)
-    manifest+=[{"slug":n["slug"],"en":n["en"],"full":n.get("full",""),"cat":n["cat"],"kisa":n["kisa"]} for n in new]
+    manifest+=[{"slug":n["slug"],"en":n["en"],"full":n.get("full",""),"cat":n["cat"],"kisa":n["kisa"],"date":TODAY_ISO} for n in new]
     json.dump(manifest,open(MANIFEST,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
     render_index(manifest)
     update_sitemap([n["slug"] for n in new])
