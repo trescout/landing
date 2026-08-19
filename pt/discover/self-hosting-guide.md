@@ -2,7 +2,7 @@
 
 O Guia de auto-hospedagem oferece um guia completo para hospedar e gerenciar aplicativos de software em redes locais ou servidores web dedicados. Fornece recursos técnicos sobre temas como computação em nuvem, grandes modelos de linguagem, automação e configuração de rede.
 
-- ★ 21.324
+- ★ 22.395
 - Dockerfile
 - GitHub Trending · 2026-06-16
 

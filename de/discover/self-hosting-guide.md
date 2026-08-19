@@ -2,7 +2,7 @@
 
 Der Self-Hosting Guide bietet einen umfassenden Leitfaden zum Hosten und Verwalten von Softwareanwendungen in lokalen Netzwerken oder dedizierten Webservern. Es bietet technische Ressourcen zu Themen wie Cloud Computing, großen Sprachmodellen, Automatisierung und Netzwerkkonfiguration.
 
-- ★ 21.324
+- ★ 22.395
 - Dockerfile
 - GitHub Trending · 2026-06-16
 
