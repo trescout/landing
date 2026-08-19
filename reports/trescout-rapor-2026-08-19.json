@@ -1,0 +1,345 @@
+{
+  "date": "2026-08-19",
+  "editorial": "Bugünün gündemi, Qwen 3.8-27B modelinin yüksek performanslı sürümleri (quantized models) ve video üretimindeki gizli alan (latent space) optimizasyonları etrafında şekilleniyor. Yazılım dünyasında ise Bun 1.4 sürümündeki Rust tabanlı yeniden yazım süreci ve Amazon üzerindeki satıcı maliyetleri üzerine ciddi teknik tartışmalar yürütülüyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo, girilen konu veya anahtar kelimelerden otomatik iş akışları kullanarak yüksek çözünürlüklü kısa videolar oluşturan bir Python projesidir. Üretken yapay zekâ (generative AI) modellerini kullanarak video üretim sürecini tek tuşla tamamlanabilir hale getirir.",
+          "meta": "Python · ★ 109.631 · +2.304 bugün"
+        },
+        {
+          "title": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "summary": "Munder-difflin, yerel bilgisayarlarda birden fazla yapay zekâ ajanını (multi-agent) yönetmeye olanak tanıyan bir çalışma ortamı (harness). Geliştiricilerin karmaşık görevleri yerine getiren otonom sistemleri kendi altyapıları üzerinde test etmelerini sağlıyor.",
+          "meta": "TypeScript · ★ 2.430 · +306 bugün"
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Rust diliyle geliştirilen ai-memory, kodlama odaklı yapay zekâ ajanları için uzun süreli bellek (long term memory) çözümü sunuyor. Farklı yapay zekâ sağlayıcıları arasında görev devrini kolaylaştırarak ajanlar arası veri sürekliliğini destekliyor.",
+          "meta": "Rust · ★ 3.041 · +648 bugün"
+        },
+        {
+          "title": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "summary": "Volcengine tarafından geliştirilen OpenViking, yapay zekâ ajanları için kendi kendini geliştiren bir bağlam veritabanı (context database) sunuyor. Ajan belleği, bilgi getirme (RAG) ve yetenek yönetimini tek bir çatı altında birleştirerek sistemlerin öğrenme süreçlerini standartlaştırıyor.",
+          "meta": "Python · ★ 29.810 · +213 bugün"
+        },
+        {
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "summary": "Anthropic-Cybersecurity-Skills, yapay zekâ ajanları için 817 farklı siber güvenlik yeteneğini (cybersecurity skills) standart bir yapıda sunuyor. MITRE ATT&CK ve NIST CSF gibi altı farklı güvenlik çerçevesiyle uyumlu olan bu kütüphane, Claude Code ve GitHub Copilot gibi kodlama asistanlarında güvenlik odaklı otomasyon süreçlerini destekliyor.",
+          "meta": "Python · ★ 29.533 · +730 bugün"
+        },
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "Public-apis, yazılım projelerinde kullanılabilecek ücretsiz uygulama programlama arayüzlerinin (API) kategorize edilmiş bir listesini sunuyor. Geliştiriciler, çeşitli web servislerine erişim sağlayan bu kaynak dizini üzerinden ihtiyaç duydukları verileri projelerine kolayca entegre edebiliyor.",
+          "meta": "Python · ★ 465.352 · +1.005 bugün"
+        },
+        {
+          "title": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "summary": "Basecamp tarafından geliştirilen Omarchy, Linux işletim sistemleri için modern ve özgün bir yapılandırma aracıdır. Sistem ayarlarını standartlaştıran bu yazılım, kullanıcıların Linux deneyimini daha düzenli ve estetik bir hale getirmeyi amaçlar.",
+          "meta": "Shell · ★ 26.643 · +356 bugün"
+        },
+        {
+          "title": "agalwood/Motrix",
+          "url": "https://github.com/agalwood/Motrix",
+          "summary": "Motrix, internet üzerinden dosya indirme süreçlerini yöneten açık kaynaklı bir indirme yöneticisi (download manager). HTTP, FTP, BitTorrent ve Magnet gibi çoklu protokol desteğiyle dosya transferlerini tek bir arayüzde topluyor.",
+          "meta": "TypeScript · ★ 53.961 · +609 bugün"
+        },
+        {
+          "title": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "summary": "PLFM_RADAR, 10.5 GHz frekansında çalışan açık kaynaklı ve düşük maliyetli bir faz dizili radar (phased array radar) sistemidir. Donanım tabanlı bu proje, radyo frekansı sinyallerini işlemek için PLSQL dilini kullanan özgün bir yapı sunar.",
+          "meta": "PLSQL · ★ 24.494 · +192 bugün"
+        },
+        {
+          "title": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "summary": "Omlx, Apple Silicon işlemciler için sürekli yığınlama (continuous batching) ve SSD önbellekleme (SSD caching) özelliklerini destekleyen bir büyük dil modeli (LLM) çıkarım sunucusu. macOS menü çubuğu üzerinden yönetilebilen bu araç, yerel donanım üzerinde optimize edilmiş yapay zekâ modellerini çalıştırmayı kolaylaştırıyor.",
+          "meta": "Python · ★ 19.649 · +370 bugün"
+        },
+        {
+          "title": "genlayerlabs/genlayer-project-boilerplate",
+          "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+          "summary": "GenLayer, akıllı sözleşmelerin (smart contracts) yapay zekâ modelleriyle doğrudan etkileşime girmesini sağlayan bir blokzinciri altyapısı. Bu proje şablonu, geliştiricilerin TypeScript kullanarak merkeziyetsiz uygulamalar (dApps) içinde yapay zekâ destekli mantıklar kurmasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 16.116 · +535 bugün"
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut, video düzenleme platformu CapCut için açık kaynaklı bir alternatif sunuyor. TypeScript diliyle geliştirilen bu yazılım, kullanıcıların videoları üzerinde özgürce düzenleme yapmasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 85.106 · +192 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "The Amazon tax",
+          "url": "https://seths.blog/2026/08/the-amazon-tax/",
+          "summary": "Amazon, pazar yerindeki satıcılardan aldığı yüksek komisyon ve reklam ücretlerini \"Amazon vergisi\" olarak tanımlıyor. Bu maliyetler, satıcıların kâr marjlarını daraltırken ürün fiyatlarının yükselmesine neden oluyor.",
+          "meta": "1.216 oy · 637 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49345263",
+              "popularity": 1216,
+              "engagementCount": 637
+            }
+          ]
+        },
+        {
+          "title": "OpenLogi",
+          "url": "https://openlogi.org/en",
+          "summary": "OpenLogi, e-ticaret işletmeleri için lojistik süreçlerini otomatize eden bir depo yönetim sistemi. Şirketlerin stok takibi, paketleme ve kargo gönderim işlemlerini tek bir platform üzerinden yönetmelerine imkan tanıyor.",
+          "meta": "891 oy · 241 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49355606",
+              "popularity": 891,
+              "engagementCount": 241
+            }
+          ]
+        },
+        {
+          "title": "Being ambitious and being a dad",
+          "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+          "summary": "Nicholas Charriere, yazılım geliştirme kariyerindeki hırslı hedefler ile ebeveynlik sorumluluklarını dengeleme sürecini kişisel bir perspektifle ele alıyor. Zaman yönetimi ve önceliklendirme stratejileri üzerinden profesyonel başarı ile aile hayatını bir arada yürütmenin yöntemlerini tartışıyor.",
+          "meta": "583 oy · 390 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49321298",
+              "popularity": 583,
+              "engagementCount": 390
+            }
+          ]
+        },
+        {
+          "title": "How does IKEA come up with names for its products?",
+          "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+          "summary": "IKEA, ürünlerine isim verirken belirli bir coğrafi bölge veya kategoriye dayanan sistematik bir isimlendirme yöntemi kullanıyor. Bu yöntem, mobilya ve ev eşyası perakendecisi IKEA'nın ürünlerini kolayca sınıflandırmasını ve tanımlamasını sağlıyor.",
+          "meta": "374 oy · 259 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49349984",
+              "popularity": 374,
+              "engagementCount": 259
+            }
+          ]
+        },
+        {
+          "title": "And then the men with guns tell you to do it anyway",
+          "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+          "summary": "Dijital güvenlik ve mahremiyet üzerine yazılan bu makale, devletlerin teknoloji şirketlerini kullanıcı verilerine erişim konusunda zorlamasının yarattığı etik ve hukuki ikilemleri ele alıyor. Şifreleme standartlarının yasal düzenlemelerle zayıflatılmasının, bireysel haklar ve siber güvenlik üzerindeki olası etkilerini tartışmaya açıyor.",
+          "meta": "338 oy · 238 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49348912",
+              "popularity": 338,
+              "engagementCount": 238
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Alibaba tarafından geliştirilen Qwen2.5-27B, görsel ve metin girdilerini işleyerek metin çıktısı üreten çok modlu bir yapay zekâ modeli. Açık ağırlıklı yapısı sayesinde geliştiricilerin kendi donanımlarında özelleştirilebilir görsel analiz uygulamaları oluşturmasına imkân tanıyor.",
+          "meta": "♥ 11.319 · 1.006.235 indirme"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth, büyük dil modellerini (large language models) daha hızlı ve düşük bellek kullanımıyla eğitmeyi sağlayan bir optimizasyon kütüphanesi. Qwen3.8-27B-GGUF modeli ise, bu kütüphane ile optimize edilmiş ve donanım kısıtlı cihazlarda çalışmaya uygun hale getirilmiş bir yapay zekâ modelidir.",
+          "meta": "♥ 1.883 · 4.318.134 indirme"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "Alibaba tarafından geliştirilen Qwen3.8-2.4T-A95B, geniş kapsamlı veri setleri üzerinde eğitilmiş bir metin üretme modeli (text-generation model). Büyük dil modelleri (large language models) kategorisinde yer alan bu sistem, karmaşık içerik oluşturma ve dil işleme görevlerinde yüksek performans sunmayı amaçlıyor.",
+          "meta": "♥ 1.078 · 12.699 indirme"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "summary": "MiniMaxAI tarafından geliştirilen MiniMax-Music3, metin komutlarını yüksek kaliteli ses dosyalarına dönüştüren bir metinden sese (text-to-audio) modeli. Kullanıcıların yazılı tanımlarından müzikal içerikler oluşturmasına olanak tanıyan bu yapay zekâ teknolojisi, ses üretimi alanındaki güncel modeller arasında yer alıyor.",
+          "meta": "♥ 998 · 13.138 indirme"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Lightricks tarafından geliştirilen LTX-2.5, durağan görselleri kısa videolara dönüştüren bir görüntüden videoya (image-to-video) modelidir. Açık kaynaklı yapay zekâ platformu HuggingFace üzerinde paylaşılan bu araç, kullanıcıların statik içeriklerini hareketli sahnelere dönüştürmesine olanak tanıyor.",
+          "meta": "♥ 1.273 · 555.993 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
+          "url": "https://huggingface.co/papers/2608.13556",
+          "summary": "V-RAE, video üretiminde kullanılan gizli alanları (latent spaces) piksel odaklı yeniden oluşturma yerine üretken modelleme ihtiyaçlarına göre optimize ediyor. Bu yöntem, video temsilini sağlayan otomatik kodlayıcıların (autoencoders) daha kompakt ve anlamsal açıdan düzenli bir yapı sunmasını sağlıyor.",
+          "meta": "10 beğeni · 1 yorum"
+        },
+        {
+          "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+          "url": "https://huggingface.co/papers/2608.17067",
+          "summary": "DiSCO, metinden görüntü oluşturan modellerin zararlı içerik (NSFW) üretmesini engellemek için dağılım güdümlü karşıt komut optimizasyonu (distribution-guided contrastive prompt optimization) yöntemini kullanıyor. Kapalı kutu (black-box) modellerde bile çalışan bu teknik, metin komutlarını yeniden düzenleyerek güvenlik açıklarına karşı koruma sağlıyor.",
+          "meta": "10 beğeni · 1 yorum"
+        },
+        {
+          "title": "PixRestore: Unified Image Restoration via Pixel Diffusion Transformer",
+          "url": "https://huggingface.co/papers/2608.16793",
+          "summary": "PixRestore, tek bir model kullanarak düşük kaliteli görselleri yüksek kaliteye dönüştüren bütünleşik görsel onarım (unified image restoration) yöntemidir. Mevcut metinden görsele (text-to-image) modellerin detay kaybı ve tutarsızlık sorunlarını, piksel tabanlı difüzyon dönüştürücü (pixel diffusion transformer) mimarisiyle aşmayı hedefler.",
+          "meta": "0 beğeni · 1 yorum"
+        },
+        {
+          "title": "MoE-ViE: Mixture of Experts Vision Encoder for Efficient Image and Video Understanding",
+          "url": "https://huggingface.co/papers/2608.17402",
+          "summary": "MoE-ViE, görüntü ve video anlama modellerinde kullanılan görsel kodlayıcıların (vision encoder) verimliliğini artırmak için uzman karışımı (Mixture-of-Experts) mimarisini kullanıyor. Bu yöntem, hesaplama maliyetini artırmadan modellerin kapasitesini ölçeklendirerek daha hızlı ve etkili görsel işleme süreçleri sağlıyor.",
+          "meta": "0 beğeni · 1 yorum"
+        },
+        {
+          "title": "Demystifying Agent Skills: Why They Work-Until They Don't",
+          "url": "https://huggingface.co/papers/2608.14036",
+          "summary": "Yapay zekâ ajanlarına çıkarım anında bilgi paketleri sunan yetenek (skill) kullanımı, karmaşık görevlerdeki başarıyı artırmak için tercih ediliyor. Güncel araştırmalar, bu yeteneklerin hangi koşullarda işe yaradığını ve hangi durumlarda başarısız olduğunu anlamak için temsil biçimleri ile sonuç etiketlerini analiz ediyor.",
+          "meta": "44 beğeni · 1 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Bun 1.4 Rust rewrite is not looking good",
+          "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+          "summary": "JavaScript çalışma zamanı (runtime) Bun, altyapısını Rust diline taşıma sürecinde performans ve kararlılık sorunlarıyla karşılaşıyor. Geliştiriciler, mevcut kod tabanının yeniden yazılmasının projenin geleceği ve sürdürülebilirliği üzerindeki etkilerini tartışıyor.",
+          "meta": "40 oy · 19 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good",
+              "popularity": 40,
+              "engagementCount": 19
+            }
+          ]
+        },
+        {
+          "title": "Mastodon 5.0: Laying the foundation",
+          "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+          "summary": "Merkeziyetsiz sosyal ağ Mastodon, 5.0 sürümüyle birlikte altyapısını daha ölçeklenebilir bir yapıya kavuşturuyor. Güncelleme, kullanıcı deneyimini iyileştirmek için veri tabanı performansını artıran ve platformun gelecekteki özelliklerini destekleyecek temel mimari değişiklikleri içeriyor.",
+          "meta": "35 oy · 7 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation",
+              "popularity": 35,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "How I browse the Web with uBlock (Hard Mode)",
+          "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+          "summary": "İçerik engelleyici eklenti uBlock Origin, gelişmiş filtreleme ayarlarıyla internet sitelerindeki üçüncü taraf betikleri (scripts) ve çerçeveleri (iframes) varsayılan olarak engelleyen bir \"sert mod\" (hard mode) sunuyor. Bu yöntem, kullanıcıların web sayfalarındaki gereksiz öğeleri temizleyerek hem gizliliği artırmasını hem de tarayıcı performansını iyileştirmesini sağlıyor.",
+          "meta": "63 oy · 24 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode",
+              "popularity": 63,
+              "engagementCount": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "generative AI",
+      "explanation": "Daha önce var olmayan içerikleri, görselleri veya metinleri sıfırdan oluşturabilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Birbirleriyle iş birliği yaparak karmaşık görevleri paylaşan birden fazla bağımsız yapay zekâ yazılımının bir arada çalışması."
+    },
+    {
+      "term": "harness",
+      "explanation": "Bir teknolojinin veya gücün potansiyelini kullanarak onu verimli bir şekilde işe yarar hale getirmek."
+    },
+    {
+      "term": "long term memory",
+      "explanation": "Yapay zekânın geçmişteki bilgileri ve kullanıcı tercihlerini unutmadan uzun süre saklayıp ihtiyaç duyduğunda hatırlaması."
+    },
+    {
+      "term": "context database",
+      "explanation": "Yapay zekânın daha doğru cevaplar verebilmesi için ihtiyaç duyduğu özel bilgilerin ve geçmiş konuşmaların tutulduğu düzenli veri alanı."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın kendi bilgisi dışındaki güncel veya özel kaynaklara başvurarak daha doğru ve güvenilir cevaplar üretmesini sağlayan yöntem."
+    },
+    {
+      "term": "cybersecurity skills",
+      "explanation": "Bilgisayar sistemlerini, ağları ve kişisel verileri dijital saldırılara karşı korumayı sağlayan teknik bilgi ve beceriler."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan dijital köprü."
+    },
+    {
+      "term": "download manager",
+      "explanation": "İnternetten dosya indirirken hızı artıran, kesilen indirmeleri devam ettiren ve dosyaları düzenleyen yardımcı yazılım."
+    },
+    {
+      "term": "phased array radar",
+      "explanation": "Hareketli parçalar kullanmadan, elektronik sinyalleri yönlendirerek nesnelerin yerini ve hızını tespit eden gelişmiş bir tarama sistemi."
+    },
+    {
+      "term": "continuous batching",
+      "explanation": "Yapay zekânın gelen soruları bekletmeden, sürekli bir akış halinde işleyerek işlem hızını ve verimliliğini artıran bir yöntem."
+    },
+    {
+      "term": "SSD caching",
+      "explanation": "Sık kullanılan verileri hızlı erişim için daha süratli olan depolama birimlerinde geçici olarak tutma işlemi."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "smart contracts",
+      "explanation": "Belirli koşullar sağlandığında otomatik olarak çalışan ve taraflar arasındaki anlaşmayı dijital ortamda garantileyen kodlar."
+    },
+    {
+      "term": "dApps",
+      "explanation": "Merkezi bir kurumun kontrolünde olmayan, blok zinciri üzerinde çalışan ve herkesin kullanımına açık olan uygulamalar."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    }
+  ]
+}
