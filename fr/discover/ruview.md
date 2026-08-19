@@ -2,7 +2,7 @@
 
 RuView fournit une intelligence spatiale en temps réel, un suivi des signes vitaux et une détection de présence sans caméra, en utilisant des signaux WiFi ordinaires. Il s'agit d'un projet open source développé avec Rust.
 
-- ★ 90 395
+- ★ 90 838
 - Rust
 - MIT
 - GitHub Trending · 30 May 2026

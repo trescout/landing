@@ -2,11 +2,12 @@
 
 Google tarafından geliştirilen Abseil, C++ standart kütüphanesini tamamlayan açık kaynaklı kod parçaları (code snippets) sunuyor. Bu kütüphane, karmaşık yazılım projelerinde kodun sürdürülebilirliğini ve performansını artırmak amacıyla temel veri yapıları ile algoritmalar sağlıyor.
 
-- ★ 18.043
+- ★ 18.083
 - C++
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
+- 19 Ağustos 2026: Yıldız 18.043 → 18.083, son sürüm 20260817.0 (18 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 17.545 → 18.043, son sürüm 20260526.0 (1 Haziran 2026).
 
 ## Ne kazandırır?

@@ -2,7 +2,7 @@
 
 O projeto book-to-skill converte formatos de documentos portáteis (PDF) de livros técnicos em pacotes de habilidades (habilidades) utilizáveis ​​para Claude Code. Esta ferramenta permite que recursos técnicos sejam diretamente referenciados e aplicados nos processos de trabalho.
 
-- ★ 21.816
+- ★ 22.934
 - Python
 - GitHub Trending · 2026-07-29
 

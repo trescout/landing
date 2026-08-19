@@ -36,8 +36,8 @@ Da es nur die Weitergabe zulässiger Daten ermöglicht, öffnet es nur den relev
 - [Transformers](/de/discover/transformers/)
 - [Langflow](/de/discover/langflow/)
 - [ComfyUI](/de/discover/comfyui/)
-- [Supabase](/de/discover/supabase/)
 - [MoneyPrinterTurbo](/de/discover/moneyprinterturbo/)
+- [Supabase](/de/discover/supabase/)
 - [TradingAgents](/de/discover/tradingagents/)
 
 ---

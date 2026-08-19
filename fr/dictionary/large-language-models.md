@@ -38,7 +38,7 @@ Ils apprennent les probabilités que les mots se succèdent en analysant les rel
 - [Mempalace](/fr/discover/mempalace/)
 - [Dive Into Llms](/fr/discover/dive-into-llms/)
 - [AstrBot](/fr/discover/astrbot/)
-- [Codex Plugin Cc](/fr/discover/codex-plugin-cc/)
+- [Airllm](/fr/discover/airllm/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/large-language-models/

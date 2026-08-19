@@ -2,7 +2,7 @@
 
 Meetily est un assistant de réunion open source qui traite les enregistrements de réunions localement et ne nécessite pas de connexion cloud. Développée dans Rust, l'application offre des capacités rapides de transcription vocale, de diarisation du locuteur et de résumé avec des modèles linguistiques locaux.
 
-- ★ 27 968
+- ★ 29 473
 - Rust
 - GitHub Trending · 2026-07-05
 

@@ -2,7 +2,7 @@
 
 OpenCut ist ein TypeScript-basiertes Anwendungsentwicklungsprojekt, das eine Open-Source-Alternative für Videobearbeitungsprozesse bietet. Mit dem Ziel, ein CapCut-ähnliches Benutzererlebnis zu bieten, zielt diese Plattform darauf ab, Videobearbeitungstools zugänglich zu machen.
 
-- ★ 80.488
+- ★ 84.934
 - TypeScript
 - GitHub Trending · 2026-07-14
 

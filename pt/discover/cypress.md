@@ -2,7 +2,7 @@
 
 Cypress é uma estrutura de automação que acelera e facilita processos de teste ponta a ponta para aplicativos baseados em navegador. Desenvolvido com TypeScript, esta ferramenta oferece aos desenvolvedores depuração rápida e gerenciamento de testes para aumentar a confiabilidade dos aplicativos da web.
 
-- ★ 50.941
+- ★ 50.980
 - TypeScript
 - GitHub Trending · 2026-06-15
 

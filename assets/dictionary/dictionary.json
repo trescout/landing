@@ -6250,5 +6250,29 @@
     "kisa_pt": "A inteligência artificial não funciona apenas com texto; É a capacidade de processar diferentes tipos de dados como imagens, áudio e vídeo simultaneamente.",
     "kisa_es": "La inteligencia artificial no sólo funciona con texto; Es la capacidad de procesar diferentes tipos de datos como imágenes, audio y video simultáneamente.",
     "kisa_de": "Künstliche Intelligenz funktioniert nicht nur mit Text; Dabei handelt es sich um die Fähigkeit, verschiedene Datentypen wie Bilder, Audio und Video gleichzeitig zu verarbeiten."
+  },
+  {
+    "slug": "context-database",
+    "en": "Context Database",
+    "full": "",
+    "cat": "data",
+    "kisa": "Yapay zekânın daha tutarlı ve kişiselleştirilmiş yanıtlar üretebilmesi için ihtiyaç duyduğu bilgileri saklayan özel veri deposudur.",
+    "kisa_en": "It is a private data store that stores the information needed by artificial intelligence to produce more consistent and personalized responses.",
+    "kisa_fr": "Il s'agit d'un magasin de données privé qui stocke les informations nécessaires à l'intelligence artificielle pour produire des réponses plus cohérentes et personnalisées.",
+    "kisa_pt": "É um armazenamento de dados privado que armazena as informações necessárias à inteligência artificial para produzir respostas mais consistentes e personalizadas.",
+    "kisa_es": "Es un almacén de datos privado que almacena la información que necesita la inteligencia artificial para producir respuestas más consistentes y personalizadas.",
+    "kisa_de": "Dabei handelt es sich um einen privaten Datenspeicher, der die von der künstlichen Intelligenz benötigten Informationen speichert, um konsistentere und personalisiertere Antworten zu erstellen."
+  },
+  {
+    "slug": "dapps",
+    "en": "dApps",
+    "full": "Decentralized Applications",
+    "cat": "dev",
+    "kisa": "Merkezi bir otoriteye bağlı olmadan, blok zinciri üzerinde çalışan ve herkesin kullanımına açık olan dijital uygulamalardır.",
+    "kisa_en": "They are digital applications that work on the blockchain and are open to everyone, without being dependent on a central authority.",
+    "kisa_fr": "Ce sont des applications numériques qui fonctionnent sur la blockchain et sont ouvertes à tous, sans dépendre d’une autorité centrale.",
+    "kisa_pt": "São aplicações digitais que funcionam no blockchain e estão abertas a todos, sem depender de uma autoridade central.",
+    "kisa_es": "Son aplicaciones digitales que funcionan sobre blockchain y están abiertas a todos, sin depender de una autoridad central.",
+    "kisa_de": "Dabei handelt es sich um digitale Anwendungen, die auf der Blockchain arbeiten und allen offen stehen, ohne auf eine zentrale Instanz angewiesen zu sein."
   }
 ]

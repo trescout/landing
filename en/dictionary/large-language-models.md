@@ -40,7 +40,7 @@ They learn the probabilities of words following each other by analyzing statisti
 - [Mempalace](/en/discover/mempalace/)
 - [Dive Into Llms](/en/discover/dive-into-llms/)
 - [AstrBot](/en/discover/astrbot/)
-- [Codex Plugin Cc](/en/discover/codex-plugin-cc/)
+- [Airllm](/en/discover/airllm/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/large-language-models/

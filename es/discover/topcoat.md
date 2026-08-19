@@ -2,7 +2,7 @@
 
 Desarrollado por el equipo de Tokio, Topcoat ofrece un marco integral que incluye todas las herramientas necesarias para crear aplicaciones web en Rust. Su objetivo es estandarizar el proceso de desarrollo de aplicaciones reuniendo los componentes básicos que necesitan los desarrolladores en una única estructura.
 
-- ★ 4.567
+- ★ 4.584
 - Rust
 - GitHub Trending · 2026-07-21
 

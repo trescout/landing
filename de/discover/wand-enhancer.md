@@ -2,7 +2,7 @@
 
 Wand-Enhancer ist ein C#-basiertes Plugin, das die Benutzererfahrung verbessert und die Interoperabilität für die WeMod-Anwendung erhöht. Es optimiert die Kontrolle der Benutzer über die Tools, indem es die Funktionalität der Anwendung erweitert.
 
-- ★ 17.581
+- ★ 18.662
 - C#
 - GitHub Trending · 2026-07-13
 

@@ -2,7 +2,7 @@
 
 Godot Engine (Godot Engine) é um mecanismo de jogo de código aberto usado para processos de desenvolvimento de jogos bidimensionais e tridimensionais. Esta plataforma, desenvolvida em linguagem C++, permite aos desenvolvedores produzir jogos que podem rodar em diferentes sistemas operacionais.
 
-- ★ 114.944
+- ★ 115.850
 - GitHub Trending · 2026-06-02
 
 ## O que você ganha

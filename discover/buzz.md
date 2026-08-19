@@ -2,15 +2,15 @@
 
 Block tarafından Rust diliyle geliştirilen Buzz, merkeziyetsiz bir kovan zihni iletişim platformu (hive mind communication platform) olarak tasarlanmıştır. Dağıtık ağ yapısı üzerinden kolektif veri paylaşımını ve eş zamanlı etkileşimi destekleyen bir altyapı sunar.
 
-- ★ 27.566
+- ★ 28.454
 - Rust
 - GitHub Trending · 2026-07-24
 
 ## Güncelleme
+- 19 Ağustos 2026: Yıldız 27.566 → 28.454, son sürüm desktop-v0.5.17 (18 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 26.401 → 27.566, son sürüm desktop-v0.5.14 (15 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 26.126 → 26.401, son sürüm desktop-v0.5.10 (12 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 25.351 → 26.126, son sürüm desktop-v0.5.9 (10 Ağustos 2026).
-- 9 Ağustos 2026: Yıldız 24.932 → 25.351, son sürüm desktop-v0.5.8 (8 Ağustos 2026).
 
 ## Ne kazandırır?
 - İnsanlar ve yapay zekâ ajanları için ortak çalışma odaları

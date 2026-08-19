@@ -38,7 +38,7 @@ Sie lernen die Wahrscheinlichkeiten aufeinander folgender Wörter kennen, indem 
 - [Mempalace](/de/discover/mempalace/)
 - [Dive Into Llms](/de/discover/dive-into-llms/)
 - [AstrBot](/de/discover/astrbot/)
-- [Codex Plugin Cc](/de/discover/codex-plugin-cc/)
+- [Airllm](/de/discover/airllm/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/large-language-models/

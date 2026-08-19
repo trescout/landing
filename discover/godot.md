@@ -2,7 +2,7 @@
 
 Godot Motoru (Godot Engine), iki ve üç boyutlu oyun geliştirme süreçleri için kullanılan açık kaynaklı bir oyun motorudur. C++ diliyle geliştirilen bu platform, geliştiricilere farklı işletim sistemlerinde çalışabilen oyunlar üretme imkânı tanır.
 
-- ★ 114.944
+- ★ 115.850
 - GitHub Trending · 2026-06-02
 
 TreScout notu: Oyun motoru, üstelik ücretsiz ve kapalı bir şirkete bağlı değil. İki boyutlu oyunlarda rakiplerini aratmaz; üç boyutlu büyük projelerde hazır varlık ve eğitim içeriği Unity ve Unreal kadar bol değil.
@@ -10,6 +10,7 @@ TreScout notu: Oyun motoru, üstelik ücretsiz ve kapalı bir şirkete bağlı d
 _Görsel: Godot Engine (godot-design) · CC-BY-4.0_
 
 ## Güncelleme
+- 19 Ağustos 2026: Yıldız 114.944 → 115.850, son sürüm 4.7.2-stable (18 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 111.819 → 114.944, son sürüm 4.7.1-stable (14 Temmuz 2026).
 
 ## Ne kazandırır?

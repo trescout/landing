@@ -38,7 +38,7 @@ Aprenden las probabilidades de que las palabras se sucedan analizando relaciones
 - [Mempalace](/es/discover/mempalace/)
 - [Dive Into Llms](/es/discover/dive-into-llms/)
 - [AstrBot](/es/discover/astrbot/)
-- [Codex Plugin Cc](/es/discover/codex-plugin-cc/)
+- [Airllm](/es/discover/airllm/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/large-language-models/

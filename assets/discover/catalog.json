@@ -168,7 +168,7 @@
     "slug": "stop-slop",
     "title": "Stop Slop",
     "tagline": "Yapay zekâ tarafından üretilen metinlerdeki yapay ifade kalıplarını temizleyen bir beceri.",
-    "meta": "★ 14.843 · MIT",
+    "meta": "★ 15.870 · MIT",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
@@ -176,7 +176,7 @@
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 14843,
+    "stars": 15870,
     "image": "/assets/discover/og/stop-slop.webp",
     "headline": "Yapay zekâ metinlerini doğallaştırın",
     "last_review": "2026-08-19",
@@ -185,6 +185,11 @@
         "tarih": "2026-08-01",
         "yildiz": 14843,
         "onceki_yildiz": 4876
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 15870,
+        "onceki_yildiz": 14843
       }
     ],
     "tagline_en": "A skill that removes artificial expression patterns in texts produced by artificial intelligence.",
@@ -1941,7 +1946,7 @@
     "slug": "oh-my-pi",
     "title": "Oh My Pi",
     "tagline": "Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding…",
-    "meta": "★ 25.590",
+    "meta": "★ 25.804",
     "image": "/assets/discover/og/oh-my-pi.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -1949,7 +1954,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 25590,
+    "stars": 25804,
     "lite": false,
     "headline": "Terminalde yapay zekâ destekli kodlama",
     "last_review": "2026-08-19",
@@ -2030,6 +2035,13 @@
         "onceki_yildiz": 25292,
         "surum": "v17.3.7",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 25804,
+        "onceki_yildiz": 25590,
+        "surum": "v17.3.8",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Oh-my-pi is an artificial intelligence coding agent (AI coding…) that runs in a terminal environment and automates code editing processes.",
@@ -3753,14 +3765,14 @@
     "slug": "chinatextbook",
     "title": "ChinaTextbook",
     "tagline": "ChinaTextbook deposu, ilkokuldan üniversite seviyesine kadar Çin eğitim müfredatında kullanılan ders kitaplarının taşınabilir…",
-    "meta": "★ 76.412 · Roff",
+    "meta": "★ 80.243 · Roff",
     "image": "/assets/discover/og/chinatextbook.webp",
     "source": "GitHub",
     "date": "2026-06-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 76412,
+    "stars": 80243,
     "lite": false,
     "headline": "Çin eğitim müfredatı ve ders kitapları",
     "last_review": "2026-08-19",
@@ -3769,6 +3781,11 @@
         "tarih": "2026-08-03",
         "yildiz": 76412,
         "onceki_yildiz": 72765
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 80243,
+        "onceki_yildiz": 76412
       }
     ],
     "tagline_en": "ChinaTextbook repository is a portable collection of textbooks used in the Chinese education curriculum from primary school to university level…",
@@ -5524,7 +5541,7 @@
     "slug": "self-hosting-guide",
     "title": "Self-Hosting-Guide",
     "tagline": "Self-Hosting Guide, yerel ağlarda veya özel web sunucularında yazılım uygulamalarını barındırma ve yönetme süreçlerine dair…",
-    "meta": "★ 21.324 · Dockerfile",
+    "meta": "★ 22.395 · Dockerfile",
     "image": "/assets/discover/og/self-hosting-guide.webp",
     "source": "GitHub",
     "date": "2026-06-16",
@@ -5532,7 +5549,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 21324,
+    "stars": 22395,
     "lite": false,
     "headline": "Kendi sunucunuzu yönetme rehberi",
     "last_review": "2026-08-19",
@@ -5540,7 +5557,14 @@
     "tagline_fr": "Le guide d'auto-hébergement couvre le processus d'hébergement et de gestion d'applications logicielles sur des réseaux locaux ou des serveurs Web privés.",
     "tagline_pt": "O Guia de auto-hospedagem cobre o processo de hospedagem e gerenciamento de aplicativos de software em redes locais ou servidores web privados.",
     "tagline_es": "La Guía de autohospedaje cubre el proceso de alojamiento y administración de aplicaciones de software en redes locales o servidores web privados.",
-    "tagline_de": "Der Self-Hosting-Leitfaden behandelt den Prozess des Hostens und Verwaltens von Softwareanwendungen in lokalen Netzwerken oder privaten Webservern."
+    "tagline_de": "Der Self-Hosting-Leitfaden behandelt den Prozess des Hostens und Verwaltens von Softwareanwendungen in lokalen Netzwerken oder privaten Webservern.",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 22395,
+        "onceki_yildiz": 21324
+      }
+    ]
   },
   {
     "slug": "optimizerduck",
@@ -6063,14 +6087,14 @@
     "slug": "unciv",
     "title": "Unciv",
     "tagline": "Unciv, Civilization V oyununun açık kaynak kodlu bir masaüstü ve Android uyarlamasıdır.",
-    "meta": "★ 11.106 · Kotlin",
+    "meta": "★ 11.108 · Kotlin",
     "image": "/assets/discover/og/unciv.webp",
     "source": "GitHub",
     "date": "2026-06-18",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 11106,
+    "stars": 11108,
     "lite": false,
     "headline": "Hafif ve açık kaynaklı strateji oyunu",
     "last_review": "2026-08-19",
@@ -6130,6 +6154,13 @@
         "onceki_yildiz": 11102,
         "surum": "4.21.9-patch1",
         "surum_tarihi": "2026-08-17"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 11108,
+        "onceki_yildiz": 11106,
+        "surum": "4.21.10",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Unciv is an open source desktop and Android adaptation of the Civilization V game.",
@@ -6812,7 +6843,7 @@
     "slug": "agent-native",
     "title": "Agent Native",
     "tagline": "BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications)…",
-    "meta": "★ 4.528 · TypeScript",
+    "meta": "★ 4.529 · TypeScript",
     "image": "/assets/discover/og/agent-native.webp",
     "source": "GitHub",
     "date": "2026-06-20",
@@ -6820,7 +6851,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4528,
+    "stars": 4529,
     "lite": false,
     "headline": "Yapay zekâ ajanları için uygulama çerçevesi",
     "last_review": "2026-08-19",
@@ -6950,6 +6981,13 @@
         "onceki_yildiz": 4523,
         "surum": "@agent-native/skills@0.2.628",
         "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 4529,
+        "onceki_yildiz": 4528,
+        "surum": "@agent-native/core@0.163.4",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Agent-native, native applications for artificial intelligence agents developed by BuilderIO…",
@@ -7060,7 +7098,7 @@
     "slug": "jcode",
     "title": "Jcode",
     "tagline": "Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness)…",
-    "meta": "★ 17.904 · Rust",
+    "meta": "★ 17.976 · Rust",
     "image": "/assets/discover/og/jcode.webp",
     "source": "GitHub",
     "date": "2026-06-21",
@@ -7068,7 +7106,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 17904,
+    "stars": 17976,
     "lite": false,
     "headline": "Kodlama ajanları için yüksek performanslı çerçeve",
     "last_review": "2026-08-19",
@@ -7149,6 +7187,13 @@
         "onceki_yildiz": 17767,
         "surum": "v0.78.0",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 17976,
+        "onceki_yildiz": 17904,
+        "surum": "v0.78.1",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Developed with the Rust language, jcode is a framework (harness) for testing and evaluating coding-oriented artificial intelligence agents.",
@@ -7824,7 +7869,7 @@
     "slug": "orca",
     "title": "Orca",
     "tagline": "Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme…",
-    "meta": "★ 46.719 · TypeScript",
+    "meta": "★ 48.759 · TypeScript",
     "image": "/assets/discover/og/orca.webp",
     "source": "GitHub",
     "date": "2026-06-25",
@@ -7832,7 +7877,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 46719,
+    "stars": 48759,
     "lite": false,
     "headline": "Birden fazla yapay zekâ ajanı yönetin",
     "last_review": "2026-08-19",
@@ -7920,6 +7965,13 @@
         "onceki_yildiz": 46071,
         "surum": "v1.4.184",
         "surum_tarihi": "2026-08-17"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 48759,
+        "onceki_yildiz": 46719,
+        "surum": "v1.4.185",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Developed by Stablyai, Orca is an agent development tool that allows managing multiple artificial intelligence agents simultaneously.",
@@ -10925,7 +10977,7 @@
     "slug": "tencentdb-agent-memory",
     "title": "TencentDB-Agent-Memory",
     "tagline": "TencentDB Agent Memory, yapay zekâ ajanları için dört aşamalı bir süreçle tamamen yerel uzun süreli bellek (long-term memory)…",
-    "meta": "★ 21.959 · TypeScript",
+    "meta": "★ 23.144 · TypeScript",
     "image": "/assets/discover/og/tencentdb-agent-memory.webp",
     "source": "GitHub",
     "date": "2026-07-09",
@@ -10933,7 +10985,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 21959,
+    "stars": 23144,
     "lite": false,
     "headline": "Yapay zekâ ajanları için katmanlı bellek",
     "last_review": "2026-08-19",
@@ -10991,6 +11043,13 @@
         "tarih": "2026-08-15",
         "yildiz": 21959,
         "onceki_yildiz": 20021,
+        "surum": "v2.0.0",
+        "surum_tarihi": "2026-08-03"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 23144,
+        "onceki_yildiz": 21959,
         "surum": "v2.0.0",
         "surum_tarihi": "2026-08-03"
       }
@@ -12666,14 +12725,14 @@
     "slug": "grok2api",
     "title": "Grok2api",
     "tagline": "Grok Build, Grok Web ve Grok Console platformları için geliştirilen bu ağ geçidi (API gateway), çoklu hesap yönetimini tek bir…",
-    "meta": "★ 7.447 · Go",
+    "meta": "★ 7.459 · Go",
     "image": "/assets/discover/og/grok2api.webp",
     "source": "GitHub",
     "date": "2026-07-15",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 7447,
+    "stars": 7459,
     "lite": false,
     "headline": "Grok servisleri için merkezi yönetim",
     "last_review": "2026-08-19",
@@ -12705,6 +12764,13 @@
         "onceki_yildiz": 7239,
         "surum": "v3.1.3",
         "surum_tarihi": "2026-08-17"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 7459,
+        "onceki_yildiz": 7447,
+        "surum": "v3.1.4",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Developed for Grok Build, Grok Web and Grok Console platforms, this gateway (API gateway) integrates multi-account management into a single…",
@@ -12791,7 +12857,7 @@
     "slug": "deeptutor",
     "title": "DeepTutor",
     "tagline": "DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning)…",
-    "meta": "★ 35.981 · Python",
+    "meta": "★ 36.416 · Python",
     "image": "/assets/discover/og/deeptutor.webp",
     "source": "GitHub",
     "date": "2026-07-16",
@@ -12799,7 +12865,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 35981,
+    "stars": 36416,
     "lite": false,
     "headline": "Yapay zekâ destekli kişiselleştirilmiş eğitim",
     "last_review": "2026-08-19",
@@ -12845,6 +12911,13 @@
         "onceki_yildiz": 35776,
         "surum": "v1.5.13",
         "surum_tarihi": "2026-08-17"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 36416,
+        "onceki_yildiz": 35981,
+        "surum": "v1.5.14",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "DeepTutor is a lifelong learning platform that offers personalized education processes using student data.",
@@ -12909,7 +12982,7 @@
     "slug": "posthog",
     "title": "Posthog",
     "tagline": "PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session…",
-    "meta": "★ 37.760 · Python",
+    "meta": "★ 37.770 · Python",
     "image": "/assets/discover/og/posthog.webp",
     "source": "GitHub",
     "date": "2026-07-17",
@@ -12917,7 +12990,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 37760,
+    "stars": 37770,
     "lite": false,
     "headline": "Ürün geliştirme için yapay zekâ gözlemlenebilirliği",
     "last_review": "2026-08-19",
@@ -13004,6 +13077,13 @@
         "yildiz": 37760,
         "onceki_yildiz": 37733,
         "surum": "desktop-v0.60.267",
+        "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 37770,
+        "onceki_yildiz": 37760,
+        "surum": "desktop-v0.60.274",
         "surum_tarihi": "2026-08-19"
       }
     ],
@@ -14294,14 +14374,14 @@
     "slug": "croc",
     "title": "Croc",
     "tagline": "Croc, iki bilgisayar arasında uçtan uca şifreleme (end-to-end encryption) kullanarak güvenli dosya ve veri aktarımı sağlayan…",
-    "meta": "★ 39.923 · Go",
+    "meta": "★ 39.942 · Go",
     "image": "/assets/discover/og/croc.webp",
     "source": "GitHub",
     "date": "2026-07-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 39923,
+    "stars": 39942,
     "lite": false,
     "headline": "Güvenli ve kolay dosya transferi",
     "last_review": "2026-08-19",
@@ -14354,6 +14434,13 @@
         "onceki_yildiz": 39880,
         "surum": "v11.2.1",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 39942,
+        "onceki_yildiz": 39923,
+        "surum": "v11.2.2",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Croc provides secure file and data transfer between two computers using end-to-end encryption.",
@@ -14681,7 +14768,7 @@
     "slug": "open-code-review",
     "title": "Open Code Review",
     "tagline": "Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli…",
-    "meta": "★ 20.761 · Go",
+    "meta": "★ 20.813 · Go",
     "image": "/assets/discover/og/open-code-review.webp",
     "source": "GitHub",
     "date": "2026-07-24",
@@ -14689,7 +14776,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 20761,
+    "stars": 20813,
     "lite": false,
     "headline": "Yapay zekâ destekli hassas kod inceleme",
     "last_review": "2026-08-19",
@@ -14763,6 +14850,13 @@
         "onceki_yildiz": 20626,
         "surum": "v1.9.6",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 20813,
+        "onceki_yildiz": 20761,
+        "surum": "v1.9.7",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Open source code review tool developed by Alibaba, large language model with deterministic pipelines…",
@@ -15485,7 +15579,7 @@
     "slug": "awesome-systematic-trading",
     "title": "Awesome Systematic Trading",
     "tagline": "Sistematik alım satım (systematic trading) alanındaki kütüphaneleri, stratejileri ve eğitim kaynaklarını bir araya getiren bu…",
-    "meta": "★ 12.499 · Python",
+    "meta": "★ 13.502 · Python",
     "image": "/assets/discover/og/awesome-systematic-trading.webp",
     "source": "GitHub",
     "date": "2026-07-29",
@@ -15493,7 +15587,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 12499,
+    "stars": 13502,
     "lite": false,
     "headline": "Sistematik alım satım kaynak kütüphanesi",
     "last_review": "2026-08-19",
@@ -15502,6 +15596,11 @@
         "tarih": "2026-08-02",
         "yildiz": 12499,
         "onceki_yildiz": 9886
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 13502,
+        "onceki_yildiz": 12499
       }
     ],
     "tagline_en": "Bringing together libraries, strategies and educational resources in the field of systematic trading, this…",
@@ -15649,7 +15748,7 @@
     "slug": "openwork",
     "title": "Openwork",
     "tagline": "Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir…",
-    "meta": "★ 22.640 · TypeScript",
+    "meta": "★ 22.647 · TypeScript",
     "image": "/assets/discover/og/openwork.webp",
     "source": "GitHub",
     "date": "2026-07-30",
@@ -15657,7 +15756,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 22640,
+    "stars": 22647,
     "lite": false,
     "headline": "Yapay zekâ iş akışlarını paylaşın",
     "last_review": "2026-08-19",
@@ -15737,6 +15836,13 @@
         "yildiz": 22640,
         "onceki_yildiz": 22609,
         "surum": "v0.18.31",
+        "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 22647,
+        "onceki_yildiz": 22640,
+        "surum": "v0.18.32",
         "surum_tarihi": "2026-08-19"
       }
     ],
@@ -17767,7 +17873,7 @@
     "slug": "transformers",
     "title": "Transformers",
     "tagline": "Hugging Face tarafından geliştirilen Transformers, metin, görüntü ve ses gibi farklı veri türlerinde güncel makine öğrenimi…",
-    "meta": "★ 163.881 · Python",
+    "meta": "★ 164.253 · Python",
     "image": "/assets/discover/og/transformers.webp",
     "source": "GitHub",
     "date": "2026-08-12",
@@ -17775,7 +17881,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 163881,
+    "stars": 164253,
     "lite": false,
     "headline": "Yapay zekâ modellerini eğitmek ve çalıştırmak",
     "tagline_en": "Developed by Hugging Face, Transformers provides up-to-date machine learning on different types of data such as text, images and audio.",
@@ -17788,6 +17894,13 @@
         "onceki_yildiz": 163880,
         "surum": "v5.15.0",
         "surum_tarihi": "2026-08-10"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 164253,
+        "onceki_yildiz": 163881,
+        "surum": "v5.15.1",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_pt": "Desenvolvido pela Hugging Face, o Transformers oferece aprendizado de máquina atualizado em diferentes tipos de dados, como texto, imagens e áudio.",
@@ -17853,7 +17966,7 @@
     "slug": "diagram-design",
     "title": "Diagram Design",
     "tagline": "Cathryn Lavery tarafından geliştirilen diagram-design, yapay zekâ destekli kodlama aracı Claude Code için hazırlanan 29 farklı…",
-    "meta": "★ 21.326 · HTML",
+    "meta": "★ 22.596 · HTML",
     "image": "/assets/discover/og/diagram-design.webp",
     "source": "GitHub",
     "date": "2026-08-13",
@@ -17861,7 +17974,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 21326,
+    "stars": 22596,
     "lite": false,
     "headline": "Yapay zekâ ile profesyonel diyagramlar oluşturun",
     "tagline_en": "Diagram-design, developed by Cathryn Lavery, consists of 29 different models prepared for the artificial intelligence-supported coding tool Claude Code.",
@@ -17885,6 +17998,11 @@
         "tarih": "2026-08-18",
         "yildiz": 21326,
         "onceki_yildiz": 19784
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 22596,
+        "onceki_yildiz": 21326
       }
     ]
   },
@@ -17939,7 +18057,7 @@
     "slug": "ragflow",
     "title": "Ragflow",
     "tagline": "RAGFlow, büyük dil modelleri (LLM) için bağlam katmanı oluşturan açık kaynaklı bir getirme temelli üretim (RAG) motoru.",
-    "meta": "★ 88.549 · Go",
+    "meta": "★ 88.819 · Go",
     "image": "/assets/discover/og/ragflow.webp",
     "source": "GitHub",
     "date": "2026-08-13",
@@ -17947,7 +18065,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 88549,
+    "stars": 88819,
     "lite": false,
     "headline": "Veri odaklı yapay zekâ motoru",
     "tagline_en": "RAGFlow is an open source fetch-based generation (RAG) engine that creates a context layer for large language models (LLM).",
@@ -17963,6 +18081,13 @@
         "onceki_yildiz": 87648,
         "surum": "v0.26.4",
         "surum_tarihi": "2026-07-07"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 88819,
+        "onceki_yildiz": 88549,
+        "surum": "v0.27.0",
+        "surum_tarihi": "2026-08-19"
       }
     ]
   },
@@ -18334,7 +18459,7 @@
     "slug": "tooljet",
     "title": "ToolJet",
     "tagline": "ToolJet, kurum içi araçlar, gösterge panelleri ve yapay zekâ ajanları geliştirmeye yarayan açık kaynaklı bir uygulama…",
-    "meta": "★ 40.426 · JavaScript",
+    "meta": "★ 40.482 · JavaScript",
     "image": "/assets/discover/og/tooljet.webp",
     "source": "GitHub",
     "date": "2026-08-15",
@@ -18342,7 +18467,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 40426,
+    "stars": 40482,
     "lite": false,
     "headline": "Kod yazmadan kurumsal uygulamalar geliştirin",
     "tagline_en": "ToolJet is an open source application for developing in-house tools, dashboards and artificial intelligence agents.",
@@ -18365,6 +18490,13 @@
         "onceki_yildiz": 39474,
         "surum": "v3.20.213-lts",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 40482,
+        "onceki_yildiz": 40426,
+        "surum": "v3.20.214-lts",
+        "surum_tarihi": "2026-08-19"
       }
     ]
   },

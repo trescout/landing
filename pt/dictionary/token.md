@@ -32,8 +32,8 @@ Como os computadores entendem números e não palavras, precisamos converter o t
 - [OmniRoute](/pt/discover/omniroute/)
 - [Codebase Memory MCP](/pt/discover/codebase-memory-mcp/)
 - [Code Review Graph](/pt/discover/code-review-graph/)
-- [TencentDB-Agent-Memory](/pt/discover/tencentdb-agent-memory/)
 - [Book to Skill](/pt/discover/book-to-skill/)
+- [TencentDB-Agent-Memory](/pt/discover/tencentdb-agent-memory/)
 - [Open Code Review](/pt/discover/open-code-review/)
 - [LMCache](/pt/discover/lmcache/)
 

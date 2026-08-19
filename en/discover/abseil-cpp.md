@@ -2,7 +2,7 @@
 
 Developed by Google, Abseil offers open source code snippets that complement the C++ standard library. This library provides basic data structures and algorithms to improve code maintainability and performance in complex software projects.
 
-- ★ 18,043
+- ★ 18,083
 - C++
 - GitHub Trending · 2026-07-11
 

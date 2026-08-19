@@ -2,7 +2,7 @@
 
 Développé par Block in Rust, Buzz est conçu comme une plateforme de communication décentralisée de l'esprit de ruche. Il fournit une infrastructure qui prend en charge le partage collectif de données et l'interaction simultanée via une structure de réseau distribuée.
 
-- ★ 27 566
+- ★ 28 454
 - Rust
 - GitHub Trending · 2026-07-24
 

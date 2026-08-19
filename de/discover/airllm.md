@@ -2,7 +2,7 @@
 
 AirLLM ermöglicht die Ausführung großer Sprachmodelle mit 70 Milliarden Parametern auf Grafikprozessoren mit nur 4 GB Videospeicher (VRAM). Diese Bibliothek nutzt Techniken zur Speicheroptimierung, um die Verwendung von Modellen mit hoher Kapazität und geringen Hardwareanforderungen zu ermöglichen.
 
-- ★ 30.796
+- ★ 31.598
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 

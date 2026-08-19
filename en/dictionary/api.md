@@ -38,8 +38,8 @@ Since it only allows sharing of permitted data, it only opens the relevant part 
 - [Transformers](/en/discover/transformers/)
 - [Langflow](/en/discover/langflow/)
 - [ComfyUI](/en/discover/comfyui/)
-- [Supabase](/en/discover/supabase/)
 - [MoneyPrinterTurbo](/en/discover/moneyprinterturbo/)
+- [Supabase](/en/discover/supabase/)
 - [TradingAgents](/en/discover/tradingagents/)
 
 ---

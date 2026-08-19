@@ -2,7 +2,7 @@
 
 MoneyPrinterTurbo produz automaticamente vídeos curtos usando modelos de linguagem grandes a partir de um tópico ou palavra-chave que você fornece. Combina texto, legendas, música de fundo e recursos visuais. (O nome é para fins de marketing, é uma ferramenta de produção de conteúdo, não uma máquina de ‘impressão de dinheiro’.)
 
-- ★ 102.680
+- ★ 108.989
 - Python
 - MIT
 - GitHub Trending · 28 May 2026

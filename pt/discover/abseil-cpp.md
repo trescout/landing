@@ -2,7 +2,7 @@
 
 Desenvolvido pelo Google, o Abseil oferece trechos de código-fonte aberto que complementam a biblioteca padrão C++. Esta biblioteca fornece estruturas de dados e algoritmos básicos para melhorar a capacidade de manutenção e o desempenho do código em projetos de software complexos.
 
-- ★ 18.043
+- ★ 18.083
 - C++
 - GitHub Trending · 2026-07-11
 

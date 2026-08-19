@@ -2,7 +2,7 @@
 
 Abseil wurde von Google entwickelt und bietet Open-Source-Codeschnipsel, die die C++-Standardbibliothek ergänzen. Diese Bibliothek stellt grundlegende Datenstrukturen und Algorithmen bereit, um die Wartbarkeit und Leistung des Codes in komplexen Softwareprojekten zu verbessern.
 
-- ★ 18.043
+- ★ 18.083
 - C++
 - GitHub Trending · 2026-07-11
 

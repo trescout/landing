@@ -36,8 +36,8 @@ Uma vez que só permite a partilha de dados permitidos, abre apenas a parte rele
 - [Transformers](/pt/discover/transformers/)
 - [Langflow](/pt/discover/langflow/)
 - [ComfyUI](/pt/discover/comfyui/)
-- [Supabase](/pt/discover/supabase/)
 - [MoneyPrinterTurbo](/pt/discover/moneyprinterturbo/)
+- [Supabase](/pt/discover/supabase/)
 - [TradingAgents](/pt/discover/tradingagents/)
 
 ---

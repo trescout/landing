@@ -36,8 +36,8 @@ Puisqu'il permet uniquement le partage des données autorisées, il n'ouvre que 
 - [Transformers](/fr/discover/transformers/)
 - [Langflow](/fr/discover/langflow/)
 - [ComfyUI](/fr/discover/comfyui/)
-- [Supabase](/fr/discover/supabase/)
 - [MoneyPrinterTurbo](/fr/discover/moneyprinterturbo/)
+- [Supabase](/fr/discover/supabase/)
 - [TradingAgents](/fr/discover/tradingagents/)
 
 ---

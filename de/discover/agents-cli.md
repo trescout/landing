@@ -2,7 +2,7 @@
 
 Die von Google entwickelte Befehlszeilenschnittstelle (CLI) macht Programmierassistenten spezialisiert auf die Erstellung, Bewertung und Bereitstellung von Agenten für künstliche Intelligenz in Google Cloud (Google Cloud). Dieses Python-basierte Tool standardisiert Agentenentwicklungsprozesse und beschleunigt betriebliche Arbeitsabläufe in der Cloud-Infrastruktur.
 
-- ★ 5.491
+- ★ 5.681
 - Python
 - GitHub Trending · 2026-07-01
 

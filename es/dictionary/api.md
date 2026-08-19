@@ -36,8 +36,8 @@ Dado que solo permite compartir datos permitidos, solo abre la parte relevante d
 - [Transformers](/es/discover/transformers/)
 - [Langflow](/es/discover/langflow/)
 - [ComfyUI](/es/discover/comfyui/)
-- [Supabase](/es/discover/supabase/)
 - [MoneyPrinterTurbo](/es/discover/moneyprinterturbo/)
+- [Supabase](/es/discover/supabase/)
 - [TradingAgents](/es/discover/tradingagents/)
 
 ---
