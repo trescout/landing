@@ -29,8 +29,8 @@ Quaisquer dados cujo significado possa ser convertido em vetor, como texto, imag
 - [Memory Engine](/pt/dictionary/memory-engine/)
 
 ## Ferramentas relacionadas
-- [Zvec](/pt/discover/zvec/)
 - [Turbovec](/pt/discover/turbovec/)
+- [Zvec](/pt/discover/zvec/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/vector-database/

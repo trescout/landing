@@ -2,7 +2,7 @@
 
 Construído na infraestrutura TurboQuant, turbovec é uma ferramenta de índice vetorial de alto desempenho desenvolvida com a linguagem Rust. Graças às ligações Python, permite aos desenvolvedores realizar operações de pesquisa baseadas em vetores de forma rápida e eficiente.
 
-- ★ 14.575
+- ★ 15.603
 - Python
 - GitHub Trending · 2026-06-08
 

@@ -2,7 +2,7 @@
 
 Graphify wandelt verschiedene Arten von Daten wie Codedateien, Datenbankschemata und Dokumentation in eine abfragbare Knowledge-Graph-Struktur um. Dieses Python-basierte Tool zielt darauf ab, eine zentrale Datenschicht für verschiedene KI-Codierungsassistenten zu schaffen.
 
-- ★ 107.723
+- ★ 108.256
 - Python
 - GitHub Trending · 2026-07-14
 

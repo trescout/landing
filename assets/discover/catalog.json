@@ -1428,13 +1428,13 @@
     "slug": "ruview",
     "title": "RuView",
     "tagline": "Sıradan WiFi sinyallerini kamera olmadan gerçek zamanlı mekânsal zekâya dönüştürün.",
-    "meta": "★ 90.838 · MIT",
+    "meta": "★ 90.940 · MIT",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 90838,
+    "stars": 90940,
     "image": "/assets/discover/og/ruview.webp",
     "headline": "WiFi Sinyalleriyle Mekansal Zeka Kazanın",
     "last_review": "2026-08-19",
@@ -1479,6 +1479,13 @@
         "yildiz": 90838,
         "onceki_yildiz": 90395,
         "surum": "v2288",
+        "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 90940,
+        "onceki_yildiz": 90838,
+        "surum": "v2297",
         "surum_tarihi": "2026-08-19"
       }
     ],
@@ -7208,6 +7215,13 @@
         "onceki_yildiz": 4529,
         "surum": "v0.1.244",
         "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 4533,
+        "onceki_yildiz": 4533,
+        "surum": "v0.1.245",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Agent-native, native applications for artificial intelligence agents developed by BuilderIO…",
@@ -8408,14 +8422,14 @@
     "slug": "open-seo",
     "title": "Open Seo",
     "tagline": "Open SEO, Semrush ve Ahrefs gibi ücretli araçlara açık kaynaklı bir alternatif sunuyor.",
-    "meta": "★ 12.589 · TypeScript",
+    "meta": "★ 12.642 · TypeScript",
     "image": "/assets/discover/og/open-seo.webp",
     "source": "GitHub",
     "date": "2026-06-26",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 12589,
+    "stars": 12642,
     "lite": false,
     "headline": "Açık kaynaklı SEO veri ve analiz platformu",
     "last_review": "2026-08-19",
@@ -8447,6 +8461,13 @@
         "onceki_yildiz": 12234,
         "surum": "v0.1.5",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 12642,
+        "onceki_yildiz": 12589,
+        "surum": "v0.1.6",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Open SEO offers an open source alternative to paid tools like Semrush and Ahrefs.",
@@ -19398,7 +19419,7 @@
     "slug": "omlx",
     "title": "Omlx",
     "tagline": "Omlx, Apple Silicon işlemciler için sürekli yığınlama (continuous batching) ve SSD önbellekleme (SSD caching) özelliklerini…",
-    "meta": "★ 19.519 · Python",
+    "meta": "★ 19.758 · Python",
     "image": "/assets/discover/og/omlx.webp",
     "source": "GitHub",
     "date": "2026-08-18",
@@ -19406,7 +19427,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 19519,
+    "stars": 19758,
     "lite": false,
     "headline": "Mac bilgisayarlar için yapay zekâ sunucusu",
     "tagline_en": "Omlx introduces continuous batching and SSD caching features for Apple Silicon processors.",
@@ -19429,6 +19450,13 @@
         "onceki_yildiz": 19201,
         "surum": "v0.6.2",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 19758,
+        "onceki_yildiz": 19519,
+        "surum": "v0.6.3rc1",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "last_seen": "2026-08-19"

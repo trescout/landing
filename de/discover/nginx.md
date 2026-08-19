@@ -2,7 +2,7 @@
 
 Das Open-Source-Repository NGINX wird in C als leistungsstarker Webserver und Reverse-Proxy weiterentwickelt. Die Software bietet eine Standardlösung in großen Infrastrukturen zur Verwaltung des Netzwerkverkehrs und zur Optimierung der Inhaltsverteilung.
 
-- ★ 31.312
+- ★ 31.451
 - C
 - GitHub Trending · 2026-06-07
 

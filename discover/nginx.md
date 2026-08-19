@@ -2,11 +2,12 @@
 
 NGINX açık kaynak kod deposu, yüksek performanslı bir web sunucusu ve ters vekil sunucu (reverse proxy) olarak C diliyle geliştirilmeye devam ediyor. Yazılım, ağ trafiğini yönetmek ve içerik dağıtımını optimize etmek amacıyla geniş ölçekli altyapılarda standart bir çözüm sunuyor.
 
-- ★ 31.312
+- ★ 31.451
 - C
 - GitHub Trending · 2026-06-07
 
 ## Güncelleme
+- 19 Ağustos 2026: Yıldız 31.312 → 31.451, son sürüm release-1.31.4 (19 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 30.727 → 31.312, son sürüm release-1.31.3 (15 Temmuz 2026).
 
 ## Ne kazandırır?

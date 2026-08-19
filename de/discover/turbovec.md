@@ -2,7 +2,7 @@
 
 Turbovec basiert auf der TurboQuant-Infrastruktur und ist ein leistungsstarkes Vektorindextool, das mit der Rust-Sprache entwickelt wurde. Dank Python-Bindungen können Entwickler vektorbasierte Suchvorgänge schnell und effizient durchführen.
 
-- ★ 14.575
+- ★ 15.603
 - Python
 - GitHub Trending · 2026-06-08
 

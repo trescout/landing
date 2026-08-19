@@ -29,8 +29,8 @@ Toutes les données dont la signification peut être convertie en vecteur, telle
 - [Memory Engine](/fr/dictionary/memory-engine/)
 
 ## Outils liés
-- [Zvec](/fr/discover/zvec/)
 - [Turbovec](/fr/discover/turbovec/)
+- [Zvec](/fr/discover/zvec/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/vector-database/

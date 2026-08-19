@@ -25,8 +25,8 @@ Nein, Ihr lokales Netzwerk kann keine Verbindung zur Außenwelt herstellen und b
 - [Proxy](/de/dictionary/proxy/)
 
 ## Verwandte Werkzeuge
-- [Fanqiang](/de/discover/fanqiang/)
 - [OmniRoute](/de/discover/omniroute/)
+- [Fanqiang](/de/discover/fanqiang/)
 - [OpenWA](/de/discover/openwa/)
 - [Grok2api](/de/discover/grok2api/)
 

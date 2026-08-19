@@ -29,8 +29,8 @@ Se puede almacenar cualquier dato cuyo significado pueda convertirse en vector, 
 - [Memory Engine](/es/dictionary/memory-engine/)
 
 ## Herramientas relacionadas
-- [Zvec](/es/discover/zvec/)
 - [Turbovec](/es/discover/turbovec/)
+- [Zvec](/es/discover/zvec/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/vector-database/

@@ -2,7 +2,7 @@
 
 Le référentiel open source NGINX continue d'être développé en C en tant que serveur Web hautes performances et proxy inverse. Le logiciel offre une solution standard dans les infrastructures à grande échelle pour gérer le trafic réseau et optimiser la distribution de contenu.
 
-- ★ 31 312
+- ★ 31 451
 - C
 - GitHub Trending · 2026-06-07
 

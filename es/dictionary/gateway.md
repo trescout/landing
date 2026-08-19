@@ -25,8 +25,8 @@ No, su red local no puede conectarse con el mundo exterior y permanece aislada.
 - [Proxy](/es/dictionary/proxy/)
 
 ## Herramientas relacionadas
-- [Fanqiang](/es/discover/fanqiang/)
 - [OmniRoute](/es/discover/omniroute/)
+- [Fanqiang](/es/discover/fanqiang/)
 - [OpenWA](/es/discover/openwa/)
 - [Grok2api](/es/discover/grok2api/)
 

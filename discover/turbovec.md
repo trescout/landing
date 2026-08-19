@@ -2,11 +2,12 @@
 
 TurboQuant altyapısı üzerine inşa edilen turbovec, Rust diliyle geliştirilmiş yüksek performanslı bir vektör dizini (vector index) aracıdır. Python bağlamaları (bindings) sayesinde geliştiricilerin vektör tabanlı arama işlemlerini hızlı ve verimli bir şekilde gerçekleştirmesine olanak tanır.
 
-- ★ 14.575
+- ★ 15.603
 - Python
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
+- 19 Ağustos 2026: Yıldız 14.575 → 15.603.
 - 2 Ağustos 2026: Yıldız 7.703 → 14.575.
 
 ## Ne kazandırır?

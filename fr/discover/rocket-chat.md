@@ -2,7 +2,7 @@
 
 Rocket.Chat propose un système d'exploitation de communications sécurisé conçu pour les opérations critiques. La plateforme, développée avec le langage TypeScript, vise à centraliser les processus de messagerie et de collaboration internes.
 
-- ★ 45 941
+- ★ 46 005
 - TypeScript
 - GitHub Trending · 2026-06-18
 

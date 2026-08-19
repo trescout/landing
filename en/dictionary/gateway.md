@@ -27,8 +27,8 @@ No, your local network cannot connect to the outside world and remains isolated.
 - [Proxy](/en/dictionary/proxy/)
 
 ## Related tools
-- [Fanqiang](/en/discover/fanqiang/)
 - [OmniRoute](/en/discover/omniroute/)
+- [Fanqiang](/en/discover/fanqiang/)
 - [OpenWA](/en/discover/openwa/)
 - [Grok2api](/en/discover/grok2api/)
 

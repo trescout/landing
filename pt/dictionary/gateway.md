@@ -25,8 +25,8 @@ Não, a sua rede local não consegue se conectar ao mundo exterior e permanece i
 - [Proxy](/pt/dictionary/proxy/)
 
 ## Ferramentas relacionadas
-- [Fanqiang](/pt/discover/fanqiang/)
 - [OmniRoute](/pt/discover/omniroute/)
+- [Fanqiang](/pt/discover/fanqiang/)
 - [OpenWA](/pt/discover/openwa/)
 - [Grok2api](/pt/discover/grok2api/)
 

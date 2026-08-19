@@ -29,8 +29,8 @@ Alle Daten, deren Bedeutung in Vektoren umgewandelt werden kann, wie Text, Bild,
 - [Memory Engine](/de/dictionary/memory-engine/)
 
 ## Verwandte Werkzeuge
-- [Zvec](/de/discover/zvec/)
 - [Turbovec](/de/discover/turbovec/)
+- [Zvec](/de/discover/zvec/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/vector-database/

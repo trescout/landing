@@ -31,8 +31,8 @@ Any data whose meaning can be converted into vector, such as text, image, audio 
 - [Memory Engine](/en/dictionary/memory-engine/)
 
 ## Related tools
-- [Zvec](/en/discover/zvec/)
 - [Turbovec](/en/discover/turbovec/)
+- [Zvec](/en/discover/zvec/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/vector-database/
