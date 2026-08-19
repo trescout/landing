@@ -2,11 +2,12 @@
 
 MediaCrawler, popüler Çin sosyal medya platformlarındaki gönderileri ve kullanıcı yorumlarını otomatik olarak veri madenciliği (web scraping) yöntemiyle topluyor. Python tabanlı bu araç, içerik analizi ve veri toplama süreçleri için geniş kapsamlı bir veri çekme (crawling) altyapısı sunuyor.
 
-- ★ 59.631
+- ★ 62.789
 - Python
 - GitHub Trending · 2026-06-26
 
 ## Güncelleme
+- 18 Ağustos 2026: Yıldız 59.631 → 62.789.
 - 2 Ağustos 2026: Yıldız 53.062 → 59.631.
 
 ## Ne kazandırır?

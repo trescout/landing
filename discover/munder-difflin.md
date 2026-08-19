@@ -2,9 +2,12 @@
 
 Munder-Difflin, yerel sistemlerde birden fazla yapay zekâ ajanının bir arada çalışmasını sağlayan bir düzenek (harness). TypeScript ile geliştirilen bu araç, karmaşık görevleri paylaşan otonom ajan sistemlerini yerel ortamda yönetmeyi kolaylaştırıyor.
 
-- ★ 1.669
+- ★ 1.684
 - TypeScript
 - GitHub Trending · 2026-08-18
+
+## Güncelleme
+- 18 Ağustos 2026: Yıldız 1.669 → 1.684, son sürüm v0.4.4 (18 Ağustos 2026).
 
 ## Ne kazandırır?
 - Terminal tabanlı yapay zekâ araçlarını otonom bir ekip olarak koordine eder.

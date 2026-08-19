@@ -2,7 +2,7 @@
 
 Moonshine offers low-latency speech to text, intent recognition and text to speech capabilities for voice interfaces and artificial intelligence agents. This library, developed in C++ language, aims to optimize real-time audio processing processes.
 
-- ★ 10,853
+- ★ 10,886
 - C++
 - GitHub Trending · 2026-07-21
 

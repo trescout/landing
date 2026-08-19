@@ -2,7 +2,7 @@
 
 Desenvolvido por Canner, WrenAI é uma ferramenta de business intelligence generativa (BI generativo) de código aberto que exporta automaticamente dados para painéis e gráficos, convertendo linguagem natural em consultas de banco de dados (texto para SQL). A plataforma fornece processos confiáveis ​​de análise de dados para agentes de IA por meio de uma camada de contexto gerenciável que suporta mais de vinte fontes de dados.
 
-- ★ 17.239
+- ★ 17.302
 - Python
 - GitHub Trending · 2026-07-20
 

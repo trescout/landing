@@ -2,7 +2,7 @@
 
 Compound Engineering; Claude Code is an official add-on for Codex and Cursor. Its basic philosophy is clear: each engineering task should make the next one easier, not harder. To this end, it offers AI capabilities and agents that improve the development process.
 
-- ★ 24,316
+- ★ 24,349
 - TypeScript
 - MIT
 - GitHub Trending · 29 May 2026

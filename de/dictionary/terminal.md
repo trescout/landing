@@ -32,7 +32,7 @@ Wenn Sie in die Welt der Software einsteigen möchten, ja, denn viele Tools funk
 - [Free Claude Code](/de/discover/free-claude-code/)
 - [DeepSeek-Reasonix](/de/discover/deepseek-reasonix/)
 - [Mise](/de/discover/mise/)
-- [Omarchy](/de/discover/omarchy/)
+- [Oh My Pi](/de/discover/oh-my-pi/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/terminal/

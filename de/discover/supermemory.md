@@ -2,7 +2,7 @@
 
 Supermemory bietet eine hoch skalierbare Speicher-Engine und API, die für das Zeitalter der künstlichen Intelligenz entwickelt wurden. Es ermöglicht Ihnen, Ihren Anwendungen eine persistente und abfragbare Speicherschicht hinzuzufügen.
 
-- ★ 28.924
+- ★ 28.943
 - TypeScript
 - MIT
 - GitHub Trending · 1 Haziran 2026

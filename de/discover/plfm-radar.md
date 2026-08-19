@@ -2,7 +2,7 @@
 
 PLFM RADAR ist ein kostengünstiges und quelloffenes Phased-Array-Radarsystem, das mit einer Frequenz von 10,5 GHz arbeitet. Dieses hardwarebasierte Projekt nutzt Steuerungssoftware, die mit der PLSQL-Sprache entwickelt wurde, um Hochfrequenz-Sensortechnologien zugänglich zu machen.
 
-- ★ 24.163
+- ★ 24.168
 - PLSQL
 - GitHub Trending · 2026-08-18
 

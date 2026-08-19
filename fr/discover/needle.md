@@ -2,7 +2,7 @@
 
 Développé par Cactus Compute, Needle propose un modèle de base de 14 Mo pouvant fonctionner sur du petit matériel tel que des téléphones, des appareils portables et des robots. Cette structure légère vise à exécuter localement des applications d’intelligence artificielle sur des appareils de périphérie dotés d’une puissance de traitement limitée.
 
-- ★ 6 022
+- ★ 7 348
 - Python
 - GitHub Trending · 2026-08-13
 

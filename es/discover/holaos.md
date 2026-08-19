@@ -2,7 +2,7 @@
 
 holaOS es un espacio de trabajo de código abierto que combina diferentes agentes de inteligencia artificial (Claude Code, Codex) con tus herramientas, aplicaciones y archivos en una memoria común. Con más de 100 integraciones y compatibilidad con Model Link Protocol (MCP), permite a los usuarios administrar sus propios modelos (BYOK) o modelos integrados en una única interfaz.
 
-- ★ 7.604
+- ★ 9.653
 - TypeScript
 - GitHub Trending · 2026-08-14
 

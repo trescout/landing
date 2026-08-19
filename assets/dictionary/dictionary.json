@@ -6238,5 +6238,17 @@
     "kisa_pt": "São contratos digitais que funcionam automaticamente quando determinadas condições são atendidas e não necessitam de intermediário.",
     "kisa_es": "Son contratos digitales que funcionan de forma automática cuando se cumplen determinadas condiciones y no requieren de intermediario.",
     "kisa_de": "Dabei handelt es sich um digitale Verträge, die bei Erfüllung bestimmter Bedingungen automatisch funktionieren und keinen Vermittler erfordern."
+  },
+  {
+    "slug": "multimodal-ai",
+    "en": "Multimodal AI",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın sadece metinle değil; görüntü, ses ve video gibi farklı veri türlerini aynı anda işleyebilme yeteneğidir.",
+    "kisa_en": "Artificial intelligence works not only with text; It is the ability to process different types of data such as images, audio and video simultaneously.",
+    "kisa_fr": "L’intelligence artificielle ne fonctionne pas uniquement avec le texte ; C’est la capacité de traiter simultanément différents types de données telles que les images, l’audio et la vidéo.",
+    "kisa_pt": "A inteligência artificial não funciona apenas com texto; É a capacidade de processar diferentes tipos de dados como imagens, áudio e vídeo simultaneamente.",
+    "kisa_es": "La inteligencia artificial no sólo funciona con texto; Es la capacidad de procesar diferentes tipos de datos como imágenes, audio y video simultáneamente.",
+    "kisa_de": "Künstliche Intelligenz funktioniert nicht nur mit Text; Dabei handelt es sich um die Fähigkeit, verschiedene Datentypen wie Bilder, Audio und Video gleichzeitig zu verarbeiten."
   }
 ]

@@ -2,9 +2,12 @@
 
 PLFM RADAR, 10.5 GHz frekansında çalışan düşük maliyetli ve açık kaynaklı bir faz dizili radar (phased array radar) sistemi. Donanım tabanlı bu proje, radyo frekansı algılama teknolojilerini erişilebilir kılmak için PLSQL diliyle geliştirilen kontrol yazılımlarını kullanıyor.
 
-- ★ 24.163
+- ★ 24.168
 - PLSQL
 - GitHub Trending · 2026-08-18
+
+## Güncelleme
+- 18 Ağustos 2026: Yıldız 24.163 → 24.168, son sürüm v2.0.2-p0-audit (20 Nisan 2026).
 
 ## Ne kazandırır?
 - 3 km ve 20 km menzil seçenekleri

@@ -2,7 +2,7 @@
 
 Needle wurde von Cactus Compute entwickelt und bietet ein 14-MB-Basismodell, das auf kleiner Hardware wie Telefonen, tragbaren Geräten und Robotern ausgeführt werden kann. Diese leichte Struktur zielt darauf ab, Anwendungen der künstlichen Intelligenz lokal auf Edge-Geräten mit begrenzter Rechenleistung auszuführen.
 
-- ★ 6.022
+- ★ 7.348
 - Python
 - GitHub Trending · 2026-08-13
 

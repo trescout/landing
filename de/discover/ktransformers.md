@@ -2,7 +2,7 @@
 
 Ktransformers bietet ein flexibles Framework, das heterogene Hardwareoptimierungen bei den Inferenz- und Feinabstimmungsprozessen großer Sprachmodelle unterstützt. Diese Struktur zielt darauf ab, die Modellleistung durch effiziente Nutzung verschiedener Hardwareressourcen zu steigern.
 
-- ★ 19.145
+- ★ 19.255
 - Python
 - GitHub Trending · 2026-07-20
 

@@ -2,7 +2,7 @@
 
 GenLayer is a decentralized execution layer that allows smart contracts to directly interact with data on the internet. This template (boilerplate) allows developers to use TypeScript to create applications that run on blockchain and can process external data.
 
-- ★ 15,737
+- ★ 15,748
 - TypeScript
 - GitHub Trending · 2026-08-18
 

@@ -2,7 +2,7 @@
 
 Cordis é uma metaestrutura que combina componentes espaciais e temporais. Esta ferramenta baseada em TypeScript, que permite o desenvolvimento de sistemas complexos em uma estrutura modular, permite que diferentes partes da aplicação funcionem em harmonia entre si.
 
-- ★ 4.187
+- ★ 5.981
 - TypeScript
 - GitHub Trending · 2026-08-16
 

@@ -2,7 +2,7 @@
 
 Penpot is an open source design tool that strengthens collaboration between designers and developers. Thanks to its vector-based interface, it allows you to manage design processes in an integrated manner with the coding phase.
 
-- ★ 57,989
+- ★ 58,822
 - Clojure
 - GitHub Trending · 2026-06-18
 

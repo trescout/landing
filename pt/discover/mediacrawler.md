@@ -2,7 +2,7 @@
 
 O MediaCrawler coleta automaticamente postagens e comentários de usuários em plataformas populares de mídia social chinesa por meio de web scraping. Esta ferramenta baseada em Python oferece uma infraestrutura abrangente de rastreamento de dados para análise de conteúdo e processos de coleta de dados.
 
-- ★ 59.631
+- ★ 62.789
 - Python
 - GitHub Trending · 2026-06-26
 

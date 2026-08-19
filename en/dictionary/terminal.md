@@ -34,7 +34,7 @@ If you want to get into the world of software, yes, because many tools only work
 - [Free Claude Code](/en/discover/free-claude-code/)
 - [DeepSeek-Reasonix](/en/discover/deepseek-reasonix/)
 - [Mise](/en/discover/mise/)
-- [Omarchy](/en/discover/omarchy/)
+- [Oh My Pi](/en/discover/oh-my-pi/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/terminal/

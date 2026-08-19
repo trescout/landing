@@ -2,9 +2,12 @@
 
 GenLayer, akıllı sözleşmelerin (smart contracts) internetteki verilerle doğrudan etkileşime girmesini sağlayan merkeziyetsiz bir yürütme katmanı. Bu şablon (boilerplate), geliştiricilerin TypeScript kullanarak blokzinciri üzerinde çalışan ve dış kaynaklı verileri işleyebilen uygulamalar oluşturmasına olanak tanıyor.
 
-- ★ 15.737
+- ★ 15.748
 - TypeScript
 - GitHub Trending · 2026-08-18
+
+## Güncelleme
+- 18 Ağustos 2026: Yıldız 15.737 → 15.748, son sürüm v0.2.0 (9 Aralık 2025).
 
 ## Ne kazandırır?
 - İnternet verilerine doğrudan erişen akıllı sözleşmeler geliştirin

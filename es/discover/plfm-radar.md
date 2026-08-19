@@ -2,7 +2,7 @@
 
 PLFM RADAR es un sistema de radar de matriz en fase de código abierto y de bajo costo que opera a una frecuencia de 10,5 GHz. Este proyecto basado en hardware utiliza software de control desarrollado con lenguaje PLSQL para hacer accesibles las tecnologías de detección de radiofrecuencia.
 
-- ★ 24.163
+- ★ 24.168
 - PLSQL
 - GitHub Trending · 2026-08-18
 

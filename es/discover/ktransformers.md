@@ -2,7 +2,7 @@
 
 Ktransformers ofrece un marco flexible que admite optimizaciones de hardware heterogéneas en los procesos de inferencia y ajuste de grandes modelos de lenguaje. Esta estructura tiene como objetivo aumentar el rendimiento del modelo mediante el uso eficiente de diferentes recursos de hardware.
 
-- ★ 19.145
+- ★ 19.255
 - Python
 - GitHub Trending · 2026-07-20
 

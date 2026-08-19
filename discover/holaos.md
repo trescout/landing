@@ -2,11 +2,12 @@
 
 holaOS, farklı yapay zekâ ajanlarını (Claude Code, Codex) araçlarınız, uygulamalarınız ve dosyalarınızla ortak bir bellek üzerinden birleştiren açık kaynaklı bir çalışma alanı. 100'den fazla entegrasyon ve Model Bağlantı Protokolü (MCP) desteğiyle, kullanıcıların kendi modellerini (BYOK) veya yerleşik modelleri tek bir arayüzde yönetmesini sağlıyor.
 
-- ★ 7.604
+- ★ 9.653
 - TypeScript
 - GitHub Trending · 2026-08-14
 
 ## Güncelleme
+- 18 Ağustos 2026: Yıldız 7.604 → 9.653, son sürüm latest (6 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 6.748 → 7.604, son sürüm latest (6 Ağustos 2026).
 
 ## Ne kazandırır?

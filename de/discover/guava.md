@@ -2,7 +2,7 @@
 
 Guava wurde von Google entwickelt und ist ein Toolkit mit Kernbibliotheken, die häufig in Java-Projekten benötigt werden. Sammlungen beschleunigen die Softwareentwicklung, indem sie häufige Aufgaben wie Caching und String-Manipulation vereinfachen.
 
-- ★ 51.668
+- ★ 51.884
 - Java
 - GitHub Trending · 2026-08-07
 

@@ -2,15 +2,15 @@
 
 Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir yazılım projesidir. TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerini otomatize etmeyi hedefleyen yapay zekâ destekli bir çalışma ortamı sunar.
 
-- ★ 22.349
+- ★ 22.609
 - TypeScript
 - GitHub Trending · 2026-07-30
 
 ## Güncelleme
+- 18 Ağustos 2026: Yıldız 22.349 → 22.609, son sürüm v0.18.28 (18 Ağustos 2026).
 - 16 Ağustos 2026: Yıldız 22.314 → 22.349, son sürüm v0.18.25 (15 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 21.881 → 22.314, son sürüm v0.18.24 (15 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 21.877 → 21.881, son sürüm v0.18.20 (12 Ağustos 2026).
-- 12 Ağustos 2026: Yıldız 21.447 → 21.877, son sürüm v0.18.19 (11 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yapay zekâ araçları arasında yetenekleri paylaşma

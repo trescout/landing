@@ -2,7 +2,7 @@
 
 PLFM RADAR is a low-cost and open source phased array radar system operating at a frequency of 10.5 GHz. This hardware-based project uses control software developed with PLSQL language to make radio frequency sensing technologies accessible.
 
-- ★ 24,163
+- ★ 24,168
 - PLSQL
 - GitHub Trending · 2026-08-18
 

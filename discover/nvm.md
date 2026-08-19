@@ -2,11 +2,12 @@
 
 Node Version Manager, geliştiricilerin sistemlerinde birden fazla Node.js sürümünü yönetmelerine olanak tanıyan bir komut satırı aracı. POSIX uyumlu kabuk betiği (bash script) yapısıyla farklı projeler arasında hızlı sürüm geçişleri yapmayı kolaylaştırıyor.
 
-- ★ 94.519
+- ★ 94.630
 - Shell
 - GitHub Trending · 2026-08-12
 
 ## Güncelleme
+- 18 Ağustos 2026: Yıldız 94.519 → 94.630, son sürüm v0.40.7 (18 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 94.520 → 94.519, son sürüm v0.40.6 (15 Temmuz 2026).
 
 ## Ne kazandırır?

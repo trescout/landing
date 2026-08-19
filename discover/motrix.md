@@ -2,9 +2,12 @@
 
 Motrix, TypeScript ile geliştirilen ve tüm dosya indirme ihtiyaçlarını karşılayan kapsamlı bir indirme yöneticisi (download manager). Kullanıcılara HTTP, FTP ve BitTorrent gibi farklı protokolleri tek bir arayüz üzerinden yönetme imkânı sunuyor.
 
-- ★ 53.422
+- ★ 53.428
 - TypeScript
 - GitHub Trending · 2026-08-18
+
+## Güncelleme
+- 18 Ağustos 2026: Yıldız 53.422 → 53.428, son sürüm v1.8.19 (3 Mayıs 2023).
 
 ## Ne kazandırır?
 - HTTP, FTP ve BitTorrent protokollerini tek arayüzden yönetir

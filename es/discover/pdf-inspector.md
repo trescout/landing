@@ -2,7 +2,7 @@
 
 PDF Inspector, desarrollado por Firecrawl, es una biblioteca rápida de Rust diseñada para inspeccionar, clasificar y extraer el texto de archivos PDF. Permite tomar decisiones de enrutamiento inteligentes en los procesos de procesamiento de datos al distinguir los documentos escaneados de los archivos basados ​​en texto.
 
-- ★ 15.659
+- ★ 16.077
 - Rust
 - GitHub Trending · 2026-08-04
 
