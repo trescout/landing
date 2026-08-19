@@ -2,7 +2,7 @@
 
 Diese Liste, die Bibliotheken, Strategien und Bildungsressourcen im Bereich des systematischen Handels zusammenfasst, unterstützt Python-basierte Finanzmodellierungsprozesse. Es vereint die notwendigen Tools und Literatur in einem einzigen Zentrum für diejenigen, die in die Welt des algorithmischen Handels einsteigen möchten.
 
-- ★ 12.499
+- ★ 13.502
 - Python
 - GitHub Trending · 2026-07-29
 

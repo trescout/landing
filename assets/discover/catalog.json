@@ -1165,13 +1165,13 @@
     "slug": "cursor-plugins",
     "title": "Cursor Plugins",
     "tagline": "Cursor kod editörü için resmi eklenti spesifikasyonu ve hazır eklentiler.",
-    "meta": "★ 2.515 · Lisans: kontrol et",
+    "meta": "★ 3.572 · Lisans: kontrol et",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 2515,
+    "stars": 3572,
     "image": "/assets/discover/og/cursor-plugins.webp",
     "headline": "Cursor Editörünü Eklentilerle Özelleştirin",
     "last_review": "2026-08-19",
@@ -1180,6 +1180,11 @@
         "tarih": "2026-08-02",
         "yildiz": 2515,
         "onceki_yildiz": 1403
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 3572,
+        "onceki_yildiz": 2515
       }
     ],
     "tagline_en": "Official plugin specification and ready-made plugins for the Cursor code editor.",
@@ -2640,14 +2645,14 @@
     "slug": "spec-kit",
     "title": "Spec Kit",
     "tagline": "GitHub tarafından yayınlanan spec-kit, şartname odaklı geliştirme (spec-driven development) süreçlerini başlatmak için gerekli…",
-    "meta": "★ 129.120 · Python",
+    "meta": "★ 130.294 · Python",
     "image": "/assets/discover/og/spec-kit.webp",
     "source": "GitHub",
     "date": "2026-06-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 129120,
+    "stars": 130294,
     "lite": false,
     "headline": "Yapay zekâ ile şartname odaklı geliştirme",
     "last_review": "2026-08-19",
@@ -2693,6 +2698,13 @@
         "onceki_yildiz": 126131,
         "surum": "v0.16.4",
         "surum_tarihi": "2026-08-14"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 130294,
+        "onceki_yildiz": 129120,
+        "surum": "v0.16.5",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Published by GitHub, spec-kit is a tool required to start specification-driven development processes.",
@@ -3273,14 +3285,14 @@
     "slug": "nginx",
     "title": "Nginx",
     "tagline": "NGINX açık kaynak kod deposu, yüksek performanslı bir web sunucusu ve ters vekil sunucu (reverse proxy) olarak C diliyle…",
-    "meta": "★ 31.312 · C",
+    "meta": "★ 31.451 · C",
     "image": "/assets/discover/og/nginx.webp",
     "source": "GitHub",
     "date": "2026-06-07",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 31312,
+    "stars": 31451,
     "lite": false,
     "headline": "Yüksek performanslı web sunucusu ve ters vekil",
     "last_review": "2026-08-19",
@@ -3291,6 +3303,13 @@
         "onceki_yildiz": 30727,
         "surum": "release-1.31.3",
         "surum_tarihi": "2026-07-15"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 31451,
+        "onceki_yildiz": 31312,
+        "surum": "release-1.31.4",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "NGINX is an open source code repository, a high-performance web server and reverse proxy, based on the C language.",
@@ -3660,7 +3679,7 @@
     "slug": "llama-cpp",
     "title": "Llama.cpp",
     "tagline": "Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını…",
-    "meta": "★ 124.477 · C++",
+    "meta": "★ 124.705 · C++",
     "image": "/assets/discover/og/llama-cpp.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -3668,7 +3687,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 124477,
+    "stars": 124705,
     "lite": false,
     "headline": "Yapay zekâ modellerini bilgisayarınızda çalıştırın",
     "last_review": "2026-08-19",
@@ -3812,6 +3831,13 @@
         "onceki_yildiz": 124267,
         "surum": "b10488",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 124705,
+        "onceki_yildiz": 124477,
+        "surum": "b10502",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Llama.cpp enables large language models to run efficiently on standard hardware.",
@@ -3826,14 +3852,14 @@
     "slug": "turbovec",
     "title": "Turbovec",
     "tagline": "TurboQuant altyapısı üzerine inşa edilen turbovec, Rust diliyle geliştirilmiş yüksek performanslı bir vektör dizini (vector…",
-    "meta": "★ 14.575 · Python",
+    "meta": "★ 15.603 · Python",
     "image": "/assets/discover/og/turbovec.webp",
     "source": "GitHub",
     "date": "2026-06-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 14575,
+    "stars": 15603,
     "lite": false,
     "headline": "Rust ile yüksek performanslı vektör dizini",
     "last_review": "2026-08-19",
@@ -3842,6 +3868,11 @@
         "tarih": "2026-08-02",
         "yildiz": 14575,
         "onceki_yildiz": 7703
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 15603,
+        "onceki_yildiz": 14575
       }
     ],
     "tagline_en": "Built on the TurboQuant infrastructure, turbovec is a high-performance vector directory (vector…",
@@ -3891,14 +3922,14 @@
     "slug": "tolaria",
     "title": "Tolaria",
     "tagline": "Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilen bir masaüstü uygulamasıdır.",
-    "meta": "★ 19.403 · TypeScript",
+    "meta": "★ 19.513 · TypeScript",
     "image": "/assets/discover/og/tolaria.webp",
     "source": "GitHub",
     "date": "2026-06-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 19403,
+    "stars": 19513,
     "lite": false,
     "headline": "Markdown bilgi tabanı masaüstü uygulaması",
     "last_review": "2026-08-19",
@@ -3916,6 +3947,13 @@
         "onceki_yildiz": 19219,
         "surum": "v2026-08-11",
         "surum_tarihi": "2026-08-11"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 19513,
+        "onceki_yildiz": 19403,
+        "surum": "v2026-08-19",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Tolaria is a desktop application developed for managing Markdown-based knowledge bases.",
@@ -5519,7 +5557,7 @@
     "slug": "cua",
     "title": "CUA",
     "tagline": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor.",
-    "meta": "★ 21.461 · HTML",
+    "meta": "★ 21.592 · HTML",
     "image": "/assets/discover/og/cua.webp",
     "source": "GitHub",
     "date": "2026-06-16",
@@ -5527,7 +5565,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 21461,
+    "stars": 21592,
     "lite": false,
     "headline": "Yapay zekâ ajanları için bilgisayar kontrolü",
     "last_review": "2026-08-19",
@@ -5608,6 +5646,13 @@
         "onceki_yildiz": 21435,
         "surum": "sandbox-v0.4.1",
         "surum_tarihi": "2026-08-17"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 21592,
+        "onceki_yildiz": 21461,
+        "surum": "sandbox-v0.4.2",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "CUA provides an open source infrastructure for computer-capable artificial intelligence agents.",
@@ -6063,14 +6108,14 @@
     "slug": "rocket-chat",
     "title": "Rocket.Chat",
     "tagline": "Rocket.Chat, görev kritik operasyonlar için tasarlanmış güvenli bir iletişim işletim sistemi (communications operating system)…",
-    "meta": "★ 45.941 · TypeScript",
+    "meta": "★ 46.005 · TypeScript",
     "image": "/assets/discover/og/rocket-chat.webp",
     "source": "GitHub",
     "date": "2026-06-18",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 45941,
+    "stars": 46005,
     "lite": false,
     "headline": "Güvenli ve özelleştirilebilir ekip iletişimi",
     "last_review": "2026-08-19",
@@ -6088,6 +6133,13 @@
         "onceki_yildiz": 45919,
         "surum": "8.7.0",
         "surum_tarihi": "2026-08-07"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 46005,
+        "onceki_yildiz": 45941,
+        "surum": "8.7.1",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Rocket.Chat is a secure communications operating system designed for mission-critical operations.",
@@ -7004,7 +7056,7 @@
     "slug": "agent-native",
     "title": "Agent Native",
     "tagline": "BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications)…",
-    "meta": "★ 4.529 · TypeScript",
+    "meta": "★ 4.533 · TypeScript",
     "image": "/assets/discover/og/agent-native.webp",
     "source": "GitHub",
     "date": "2026-06-20",
@@ -7012,7 +7064,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4529,
+    "stars": 4533,
     "lite": false,
     "headline": "Yapay zekâ ajanları için uygulama çerçevesi",
     "last_review": "2026-08-19",
@@ -7148,6 +7200,13 @@
         "yildiz": 4529,
         "onceki_yildiz": 4528,
         "surum": "@agent-native/core@0.163.4",
+        "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 4533,
+        "onceki_yildiz": 4529,
+        "surum": "v0.1.244",
         "surum_tarihi": "2026-08-19"
       }
     ],
@@ -8237,14 +8296,14 @@
     "slug": "no-mistakes",
     "title": "No Mistakes",
     "tagline": "Go diliyle geliştirilen no-mistakes, yazılım geliştiricilerin hatalı kod gönderimlerini (git push) engellemek için tasarlanmış…",
-    "meta": "★ 7.589 · Go",
+    "meta": "★ 7.719 · Go",
     "image": "/assets/discover/og/no-mistakes.webp",
     "source": "GitHub",
     "date": "2026-06-25",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 7589,
+    "stars": 7719,
     "lite": false,
     "headline": "Hatalı kod gönderimlerini engelleyin",
     "last_review": "2026-08-19",
@@ -8276,6 +8335,13 @@
         "onceki_yildiz": 7475,
         "surum": "v1.48.0",
         "surum_tarihi": "2026-08-08"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 7719,
+        "onceki_yildiz": 7589,
+        "surum": "v1.53.0",
+        "surum_tarihi": "2026-08-16"
       }
     ],
     "tagline_en": "Developed with the Go language, no-mistakes is designed to prevent software developers from submitting faulty code (git push).",
@@ -8561,14 +8627,14 @@
     "slug": "simplex-chat",
     "title": "Simplex Chat",
     "tagline": "SimpleX, kullanıcı tanımlayıcıları (user identifiers) kullanmadan çalışan ilk mesajlaşma ağı olarak gizlilik odaklı bir…",
-    "meta": "★ 19.164 · Haskell",
+    "meta": "★ 19.277 · Haskell",
     "image": "/assets/discover/og/simplex-chat.webp",
     "source": "GitHub",
     "date": "2026-06-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 19164,
+    "stars": 19277,
     "lite": false,
     "headline": "Kullanıcı tanımlayıcısı olmayan gizli mesajlaşma",
     "last_review": "2026-08-19",
@@ -8579,6 +8645,13 @@
         "onceki_yildiz": 12874,
         "surum": "v7.0.0",
         "surum_tarihi": "2026-07-28"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 19277,
+        "onceki_yildiz": 19164,
+        "surum": "v7.0.1",
+        "surum_tarihi": "2026-08-18"
       }
     ],
     "tagline_en": "SimpleX is a privacy-focused platform that is the first messaging network that operates without using user identifiers.",
@@ -9483,7 +9556,7 @@
     "slug": "omniroute",
     "title": "OmniRoute",
     "tagline": "OmniRoute, 231'den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir…",
-    "meta": "★ 48.542 · TypeScript",
+    "meta": "★ 51.059 · TypeScript",
     "image": "/assets/discover/og/omniroute.webp",
     "source": "GitHub",
     "date": "2026-07-01",
@@ -9491,7 +9564,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 48542,
+    "stars": 51059,
     "lite": false,
     "headline": "Tüm yapay zekâ sağlayıcılarını birleştirin",
     "last_review": "2026-08-19",
@@ -9528,6 +9601,13 @@
         "tarih": "2026-08-15",
         "yildiz": 48542,
         "onceki_yildiz": 46052,
+        "surum": "v3.8.49",
+        "surum_tarihi": "2026-07-30"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 51059,
+        "onceki_yildiz": 48542,
         "surum": "v3.8.49",
         "surum_tarihi": "2026-07-30"
       }
@@ -9727,7 +9807,7 @@
     "slug": "astryx",
     "title": "Astryx",
     "tagline": "Meta tarafından geliştirilen Astryx, tamamen özelleştirilebilir ve yapay zekâ ajanlarıyla uyumlu (agent ready) bir tasarım…",
-    "meta": "★ 12.124 · TypeScript",
+    "meta": "★ 12.147 · TypeScript",
     "image": "/assets/discover/og/astryx.webp",
     "source": "GitHub",
     "date": "2026-07-01",
@@ -9735,7 +9815,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 12124,
+    "stars": 12147,
     "lite": false,
     "headline": "Yapay zekâ uyumlu tasarım sistemi",
     "last_review": "2026-08-19",
@@ -9774,6 +9854,13 @@
         "onceki_yildiz": 12053,
         "surum": "v0.4.4",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 12147,
+        "onceki_yildiz": 12124,
+        "surum": "v0.4.5",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Developed by Meta, Astryx is a fully customizable and agent ready design…",
@@ -10798,7 +10885,7 @@
     "slug": "marketingskills",
     "title": "Marketingskills",
     "tagline": "Claude Code ve yapay zekâ ajanları için geliştirilen marketingskills kütüphanesi, dönüşüm oranı optimizasyonu (CRO), metin…",
-    "meta": "★ 42.728 · JavaScript",
+    "meta": "★ 44.894 · JavaScript",
     "image": "/assets/discover/og/marketingskills.webp",
     "source": "GitHub",
     "date": "2026-07-06",
@@ -10806,7 +10893,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 42728,
+    "stars": 44894,
     "lite": false,
     "headline": "Yapay zekâ ajanınıza pazarlama becerileri kazandırın",
     "last_review": "2026-08-19",
@@ -10815,6 +10902,13 @@
         "tarih": "2026-08-02",
         "yildiz": 42728,
         "onceki_yildiz": 36679,
+        "surum": "v2.10.0",
+        "surum_tarihi": "2026-07-27"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 44894,
+        "onceki_yildiz": 42728,
         "surum": "v2.10.0",
         "surum_tarihi": "2026-07-27"
       }
@@ -12062,14 +12156,14 @@
     "slug": "terraform",
     "title": "Terraform",
     "tagline": "HashiCorp tarafından geliştirilen Terraform, altyapıyı kod olarak (infrastructure as code) tanımlayarak güvenli ve…",
-    "meta": "★ 49.375 · Go",
+    "meta": "★ 49.487 · Go",
     "image": "/assets/discover/og/terraform.webp",
     "source": "GitHub",
     "date": "2026-07-11",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 49375,
+    "stars": 49487,
     "lite": false,
     "headline": "Altyapınızı kod ile yönetin",
     "last_review": "2026-08-19",
@@ -12080,6 +12174,13 @@
         "onceki_yildiz": 49219,
         "surum": "v1.15.8",
         "surum_tarihi": "2026-07-08"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 49487,
+        "onceki_yildiz": 49375,
+        "surum": "v1.15.9",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Developed by HashiCorp, Terraform defines the infrastructure as code, providing a secure and…",
@@ -12839,7 +12940,7 @@
     "slug": "graphify",
     "title": "Graphify",
     "tagline": "Graphify, kod dosyaları, veritabanı şemaları ve dokümantasyon gibi farklı veri türlerini sorgulanabilir bir bilgi çizgesi…",
-    "meta": "★ 107.723 · Python",
+    "meta": "★ 108.256 · Python",
     "image": "/assets/discover/og/graphify.webp",
     "source": "GitHub",
     "date": "2026-07-14",
@@ -12847,7 +12948,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 107723,
+    "stars": 108256,
     "lite": false,
     "headline": "Projelerinizi yapay zekâ için bilgi çizgesine dönüştürün",
     "last_review": "2026-08-19",
@@ -12935,6 +13036,13 @@
         "onceki_yildiz": 107184,
         "surum": "v0.9.46",
         "surum_tarihi": "2026-08-17"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 108256,
+        "onceki_yildiz": 107723,
+        "surum": "v0.9.47",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "Graphify combines different types of data, such as code files, database schemas, and documentation, into a queryable information graph.",
@@ -13286,7 +13394,7 @@
     "slug": "posthog",
     "title": "Posthog",
     "tagline": "PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session…",
-    "meta": "★ 37.770 · Python",
+    "meta": "★ 37.777 · Python",
     "image": "/assets/discover/og/posthog.webp",
     "source": "GitHub",
     "date": "2026-07-17",
@@ -13294,7 +13402,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 37770,
+    "stars": 37777,
     "lite": false,
     "headline": "Ürün geliştirme için yapay zekâ gözlemlenebilirliği",
     "last_review": "2026-08-19",
@@ -13388,6 +13496,13 @@
         "yildiz": 37770,
         "onceki_yildiz": 37760,
         "surum": "desktop-v0.60.274",
+        "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 37777,
+        "onceki_yildiz": 37770,
+        "surum": "desktop-v0.60.292",
         "surum_tarihi": "2026-08-19"
       }
     ],
@@ -13936,7 +14051,7 @@
     "slug": "astrbot",
     "title": "AstrBot",
     "tagline": "AstrBot, çeşitli anlık mesajlaşma platformları, büyük dil modelleri (large language models) ve eklentilerle entegre çalışan…",
-    "meta": "★ 39.214 · Python",
+    "meta": "★ 39.387 · Python",
     "image": "/assets/discover/og/astrbot.webp",
     "source": "GitHub",
     "date": "2026-07-20",
@@ -13944,7 +14059,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 39214,
+    "stars": 39387,
     "lite": false,
     "headline": "Mesajlaşma uygulamaları için yapay zekâ ajanı",
     "last_review": "2026-08-19",
@@ -13969,6 +14084,13 @@
         "onceki_yildiz": 38683,
         "surum": "v4.27.3",
         "surum_tarihi": "2026-08-12"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 39387,
+        "onceki_yildiz": 39214,
+        "surum": "v4.27.4",
+        "surum_tarihi": "2026-08-19"
       }
     ],
     "tagline_en": "AstrBot works integrated with various instant messaging platforms, large language models and plug-ins.",
@@ -16116,7 +16238,7 @@
     "slug": "openwork",
     "title": "Openwork",
     "tagline": "Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir…",
-    "meta": "★ 22.647 · TypeScript",
+    "meta": "★ 22.673 · TypeScript",
     "image": "/assets/discover/og/openwork.webp",
     "source": "GitHub",
     "date": "2026-07-30",
@@ -16124,7 +16246,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 22647,
+    "stars": 22673,
     "lite": false,
     "headline": "Yapay zekâ iş akışlarını paylaşın",
     "last_review": "2026-08-19",
@@ -16211,6 +16333,13 @@
         "yildiz": 22647,
         "onceki_yildiz": 22640,
         "surum": "v0.18.32",
+        "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-19",
+        "yildiz": 22673,
+        "onceki_yildiz": 22647,
+        "surum": "v0.18.33",
         "surum_tarihi": "2026-08-19"
       }
     ],

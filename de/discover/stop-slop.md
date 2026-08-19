@@ -2,7 +2,7 @@
 
 Mit künstlicher Intelligenz erstellte Texte enthalten oft vorhersehbare Ausdrücke, Rhythmen und Strukturen. Stop Slop ist eine Fertigkeitsdatei, die Claude oder jedem LLM beibringt, diese Muster zu erkennen und zu beseitigen. Auf diese Weise erhalten Ihre Texte einen viel natürlicheren und menschlicheren Ton.
 
-- ★ 14.843
+- ★ 15.870
 - Claude Skill
 - MIT
 - GitHub Trending · 26 May 2026

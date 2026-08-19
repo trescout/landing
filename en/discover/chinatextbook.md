@@ -2,7 +2,7 @@
 
 The ChinaTextbook repository offers a digital archive of textbooks used in the Chinese education curriculum from primary school to university level in portable document format (PDF). This resource provides a central access point to a wide range of academic materials.
 
-- ★ 76,412
+- ★ 80,243
 - Roff
 - GitHub Trending · 2026-06-08
 

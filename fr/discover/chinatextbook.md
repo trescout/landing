@@ -2,7 +2,7 @@
 
 Le référentiel ChinaTextbook propose une archive numérique des manuels utilisés dans le programme d'enseignement chinois, de l'école primaire au niveau universitaire, au format de document portable (PDF). Cette ressource fournit un point d'accès central à un large éventail de documents académiques.
 
-- ★ 76 412
+- ★ 80 243
 - Roff
 - GitHub Trending · 2026-06-08
 

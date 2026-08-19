@@ -35,8 +35,8 @@ Es liest das PDF, indem es es mit speziellen Werkzeugen (Parsern), die den darin
 - [Puppeteer](/de/discover/puppeteer/)
 - [Stirling-PDF](/de/discover/stirling-pdf/)
 - [PaddleOCR](/de/discover/paddleocr/)
-- [MinerU](/de/discover/mineru/)
 - [ChinaTextbook](/de/discover/chinatextbook/)
+- [MinerU](/de/discover/mineru/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/pdf/

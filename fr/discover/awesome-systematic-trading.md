@@ -2,7 +2,7 @@
 
 Cette liste, qui rassemble des bibliothèques, des stratégies et des ressources pédagogiques dans le domaine du trading systématique, prend en charge les processus de modélisation financière basés sur Python. Il rassemble les outils et la littérature nécessaires dans un centre unique pour ceux qui souhaitent entrer dans le monde du trading algorithmique.
 
-- ★ 12 499
+- ★ 13 502
 - Python
 - GitHub Trending · 2026-07-29
 

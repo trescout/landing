@@ -2,7 +2,7 @@
 
 Dieses Gateway (API-Gateway) wurde für die Plattformen Grok Build, Grok Web und Grok Console entwickelt und vereint die Verwaltung mehrerer Konten in einem einzigen Zentrum. Das in der Go-Sprache geschriebene Tool bietet eine verwaltbare Benutzeroberfläche, indem es den Benutzerzugriff auf verschiedene Grok-Dienste standardisiert.
 
-- ★ 7.447
+- ★ 7.459
 - Go
 - GitHub Trending · 2026-07-15
 

@@ -2,9 +2,12 @@
 
 Self-Hosting Guide, yerel ağlarda veya özel web sunucularında yazılım uygulamalarını barındırma ve yönetme süreçlerine dair kapsamlı bir rehber sunuyor. Bulut bilişim, büyük dil modelleri (large language models), otomasyon ve ağ yapılandırması gibi konularda teknik kaynaklar sağlıyor.
 
-- ★ 21.324
+- ★ 22.395
 - Dockerfile
 - GitHub Trending · 2026-06-16
+
+## Güncelleme
+- 19 Ağustos 2026: Yıldız 21.324 → 22.395.
 
 ## Ne kazandırır?
 - Yerel ağda yazılım barındırma yöntemleri

@@ -35,8 +35,8 @@ Ele lê o PDF convertendo-o em texto com ferramentas especiais (analisadores) qu
 - [Puppeteer](/pt/discover/puppeteer/)
 - [Stirling-PDF](/pt/discover/stirling-pdf/)
 - [PaddleOCR](/pt/discover/paddleocr/)
-- [MinerU](/pt/discover/mineru/)
 - [ChinaTextbook](/pt/discover/chinatextbook/)
+- [MinerU](/pt/discover/mineru/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/pdf/

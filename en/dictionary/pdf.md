@@ -37,8 +37,8 @@ It reads the PDF by converting it into text with special tools (parsers) that pa
 - [Puppeteer](/en/discover/puppeteer/)
 - [Stirling-PDF](/en/discover/stirling-pdf/)
 - [PaddleOCR](/en/discover/paddleocr/)
-- [MinerU](/en/discover/mineru/)
 - [ChinaTextbook](/en/discover/chinatextbook/)
+- [MinerU](/en/discover/mineru/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/pdf/

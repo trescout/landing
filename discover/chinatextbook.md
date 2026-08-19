@@ -2,11 +2,12 @@
 
 ChinaTextbook deposu, ilkokuldan üniversite seviyesine kadar Çin eğitim müfredatında kullanılan ders kitaplarının taşınabilir belge formatındaki (PDF) dijital arşivini sunuyor. Bu kaynak, geniş kapsamlı akademik materyallere merkezi bir erişim noktası sağlıyor.
 
-- ★ 76.412
+- ★ 80.243
 - Roff
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
+- 19 Ağustos 2026: Yıldız 76.412 → 80.243.
 - 3 Ağustos 2026: Yıldız 72.765 → 76.412.
 
 ## Ne kazandırır?

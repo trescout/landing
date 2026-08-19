@@ -2,7 +2,7 @@
 
 Das ChinaTextbook-Repository bietet ein digitales Archiv von Lehrbüchern, die im chinesischen Lehrplan von der Grundschule bis zur Universität verwendet werden, im tragbaren Dokumentformat (PDF). Diese Ressource bietet einen zentralen Zugangspunkt zu einer breiten Palette akademischer Materialien.
 
-- ★ 76.412
+- ★ 80.243
 - Roff
 - GitHub Trending · 2026-06-08
 

@@ -2,7 +2,7 @@
 
 El repositorio ChinaTextbook ofrece un archivo digital de libros de texto utilizados en el plan de estudios de educación china desde la escuela primaria hasta el nivel universitario en formato de documento portátil (PDF). Este recurso proporciona un punto de acceso central a una amplia gama de materiales académicos.
 
-- ★ 76.412
+- ★ 80.243
 - Roff
 - GitHub Trending · 2026-06-08
 

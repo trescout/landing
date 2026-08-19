@@ -2,7 +2,7 @@
 
 Os textos produzidos com inteligência artificial muitas vezes contêm expressões, ritmos e estruturas previsíveis. Stop Slop é um arquivo de habilidade que ensina Claude ou qualquer LLM a capturar e eliminar esses padrões. Desta forma, seus textos terão um tom muito mais natural e humano.
 
-- ★ 14.843
+- ★ 15.870
 - Claude Skill
 - MIT
 - GitHub Trending · 26 May 2026

@@ -35,8 +35,8 @@ Lee el PDF convirtiéndolo en texto con herramientas especiales (analizadores) q
 - [Puppeteer](/es/discover/puppeteer/)
 - [Stirling-PDF](/es/discover/stirling-pdf/)
 - [PaddleOCR](/es/discover/paddleocr/)
-- [MinerU](/es/discover/mineru/)
 - [ChinaTextbook](/es/discover/chinatextbook/)
+- [MinerU](/es/discover/mineru/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/pdf/

@@ -34,8 +34,8 @@ Since computers understand numbers, not words, we need to convert the text into 
 - [OmniRoute](/en/discover/omniroute/)
 - [Codebase Memory MCP](/en/discover/codebase-memory-mcp/)
 - [Code Review Graph](/en/discover/code-review-graph/)
-- [Book to Skill](/en/discover/book-to-skill/)
 - [TencentDB-Agent-Memory](/en/discover/tencentdb-agent-memory/)
+- [Book to Skill](/en/discover/book-to-skill/)
 - [Open Code Review](/en/discover/open-code-review/)
 - [LMCache](/en/discover/lmcache/)
 
