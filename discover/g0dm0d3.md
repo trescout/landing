@@ -2,9 +2,12 @@
 
 G0DM0D3, büyük dil modellerinin (large language models) güvenlik katmanlarını aşmayı hedefleyen özgürleştirilmiş bir yapay zekâ sohbet arayüzüdür. TypeScript ile geliştirilen bu açık kaynaklı proje, kullanıcıların kısıtlamalara takılmadan modellerle etkileşime girmesini sağlar.
 
-- ★ 9.570
+- ★ 10.574
 - TypeScript
 - GitHub Trending · 2026-07-19
+
+## Güncelleme
+- 20 Ağustos 2026: Yıldız 9.570 → 10.574.
 
 ## Ne kazandırır?
 - 60'tan fazla modelle çoklu karşılaştırmalı analiz

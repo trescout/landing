@@ -2,7 +2,7 @@
 
 Developed with Java, Elasticsearch is a distributed and open source search engine that allows fast search and analysis on large data sets. Thanks to its RESTful architecture, it supports real-time indexing and querying of data.
 
-- ★ 77,837
+- ★ 77,846
 - Java
 - GitHub Trending · 2026-07-04
 

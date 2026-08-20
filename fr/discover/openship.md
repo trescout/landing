@@ -2,7 +2,7 @@
 
 OpenShip propose une plateforme de distribution d'applications que les utilisateurs peuvent héberger sur leurs propres serveurs. Cet outil, développé avec le langage TypeScript, facilite les processus d'auto-hébergement comme alternative aux services d'infrastructure basés sur le cloud.
 
-- ★ 10 864
+- ★ 11 135
 - TypeScript
 - GitHub Trending · 2026-07-21
 

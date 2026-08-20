@@ -2,7 +2,7 @@
 
 Desarrollado con Java, Elasticsearch es un motor de búsqueda distribuido y de código abierto que permite búsquedas y análisis rápidos en grandes conjuntos de datos. Gracias a su arquitectura RESTful, admite la indexación y consulta de datos en tiempo real.
 
-- ★ 77.837
+- ★ 77.846
 - Java
 - GitHub Trending · 2026-07-04
 

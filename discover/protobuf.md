@@ -2,11 +2,12 @@
 
 Google tarafından geliştirilen protokol tamponları (protocol buffers), yapılandırılmış verileri seri hale getirmek için kullanılan dilden bağımsız bir veri değişim formatıdır. Bu mekanizma, sistemler arası iletişimde verimli ve hızlı bir ikili (binary) veri aktarımı sağlar.
 
-- ★ 71.674
+- ★ 71.747
 - C++
 - GitHub Trending · 2026-07-18
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 71.674 → 71.747, son sürüm v36.0 (20 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 71.559 → 71.674, son sürüm v35.1 (11 Haziran 2026).
 
 ## Ne kazandırır?

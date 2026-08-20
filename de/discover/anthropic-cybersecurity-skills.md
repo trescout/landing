@@ -2,7 +2,7 @@
 
 754 vorgefertigte Cybersicherheitskompetenzen, die für Agenten der künstlichen Intelligenz entwickelt wurden; Es deckt 26 verschiedene Sicherheitsdomänen ab und ist auf 5 Kern-Frameworks wie MITRE ATT&CK, NIST CSF und MITRE ATLAS abgebildet. Claude Code funktioniert auf mehr als 20 Plattformen wie GitHub Copilot, Codex, Cursor und Gemini CLI. (Trotz seines Namens handelt es sich nicht um ein offizielles Projekt von Anthropic, sondern um eine unabhängige Gemeinschaftsinitiative.)
 
-- ★ 28.821
+- ★ 30.300
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026

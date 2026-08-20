@@ -2,11 +2,12 @@
 
 Romm, oyun dosyalarını (ROM) düzenlemek ve tarayıcı üzerinden doğrudan oynamak için tasarlanmış, kendi sunucunuzda barındırabileceğiniz bir oyun kütüphanesi yöneticisidir. Python diliyle geliştirilen bu araç, oyun koleksiyonlarını görsel bir arayüzle yönetme ve oynatma imkanı sunar.
 
-- ★ 11.859
+- ★ 12.170
 - Python
 - GitHub Trending · 2026-07-04
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 11.859 → 12.170, son sürüm 5.2.0 (20 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 9.887 → 11.859, son sürüm 5.1.0 (29 Temmuz 2026).
 
 ## Ne kazandırır?

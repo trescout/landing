@@ -2,9 +2,12 @@
 
 Desenvolvido pela Tencent, o AI-Infra-Guard é uma plataforma abrangente de red teaming que protege ecossistemas de inteligência artificial contra vulnerabilidades. Sistema; Ele monitora a segurança da infraestrutura por meio de métodos como verificação de agentes, análise de habilidades e avaliações de segurança de grandes modelos de linguagem.
 
-- ★ 4.744
+- ★ 4.746
 - Python
 - GitHub Trending · 2026-08-20
+
+## Güncelleme
+- 20 Ağustos 2026: Yıldız 4.744 → 4.746, son sürüm v4.5.2 (17 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yapay zekâ sistemlerindeki güvenlik açıklarını tarar.

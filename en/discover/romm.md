@@ -2,7 +2,7 @@
 
 Romm is a game library manager designed to organize game files (ROM) and play directly through the browser, which you can host on your own server. Developed with Python language, this tool offers the opportunity to manage and play game collections with a visual interface.
 
-- ★ 11,859
+- ★ 12,170
 - Python
 - GitHub Trending · 2026-07-04
 

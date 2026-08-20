@@ -2,7 +2,7 @@
 
 Utilizando la infraestructura de Claude Code, Career-Ops automatiza los procesos de búsqueda de empleo respaldados por inteligencia artificial con 14 modos de habilidades diferentes. El sistema centraliza funciones como la gestión de lotes y la creación de currículums a través de un panel de control basado en Go.
 
-- ★ 65.261
+- ★ 66.453
 - JavaScript
 - GitHub Trending · 2026-06-07
 

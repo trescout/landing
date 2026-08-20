@@ -2,9 +2,12 @@
 
 Desenvolvido com a linguagem Go, o Agent Substrate oferece um runtime básico para agentes de inteligência artificial. Esta infraestrutura, que suporta diferentes arquiteturas de agentes, visa padronizar os recursos do sistema e os fluxos de trabalho necessários aos agentes.
 
-- ★ 1.275
+- ★ 1.276
 - Go
 - GitHub Trending · 2026-08-20
+
+## Güncelleme
+- 20 Ağustos 2026: Yıldız 1.275 → 1.276, son sürüm v0.0.0 (19 Mayıs 2026).
 
 ## Ne kazandırır?
 - Ajanları düşük gecikmeyle saniyeler içinde başlatır

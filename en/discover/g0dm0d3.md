@@ -2,7 +2,7 @@
 
 G0DM0D3 is a liberated AI chat interface that aims to bypass the security layers of large language models. Developed with TypeScript, this open source project allows users to interact with models without restrictions.
 
-- ★ 9,570
+- ★ 10,574
 - TypeScript
 - GitHub Trending · 2026-07-19
 

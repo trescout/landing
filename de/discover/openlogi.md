@@ -2,7 +2,7 @@
 
 OpenLogi und alternative lokale Software und Code wurden jedoch für die Verwendung mit Logitech-Peripheriegeräten entwickelt. Um es unseren Benutzern zu ermöglichen, Tastenkombinationen, Empfindlichkeitskonfigurationen (DPI) und SmartShift-Rekursionen zu definieren, ist es notwendig, einen Inhalt zu erstellen oder Daten miteinander zu vergleichen.
 
-- ★ 10.999
+- ★ 11.535
 - Rust
 - GitHub Trending · 2026-08-20
 

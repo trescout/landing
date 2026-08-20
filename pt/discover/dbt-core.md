@@ -2,7 +2,7 @@
 
 A ferramenta de transformação de dados (dbt-core) permite que analistas e engenheiros de dados realizem a transformação de dados usando métodos semelhantes aos processos de desenvolvimento de software. Ele padroniza fluxos de trabalho analíticos integrando controle de versão e processos de teste em data warehouses.
 
-- ★ 13.646
+- ★ 13.672
 - Rust
 - GitHub Trending · 2026-06-28
 

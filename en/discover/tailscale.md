@@ -2,7 +2,7 @@
 
 Tailscale makes it easier to establish secure network connections by combining the WireGuard protocol with two-factor authentication. Developed with the Go language, this tool provides encrypted communication between devices without the need for complex network configurations.
 
-- ★ 34,858
+- ★ 35,397
 - Go
 - GitHub Trending · 2026-07-11
 

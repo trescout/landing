@@ -2,7 +2,7 @@
 
 Mithilfe der Claude-Code-Infrastruktur automatisiert Career-Ops künstliche Intelligenz-gestützte Jobsuchprozesse mit 14 verschiedenen Skill-Modi. Das System zentralisiert Funktionen wie die Stapelverwaltung und die Erstellung von Lebensläufen über ein Go-basiertes Bedienfeld.
 
-- ★ 65.261
+- ★ 66.453
 - JavaScript
 - GitHub Trending · 2026-06-07
 

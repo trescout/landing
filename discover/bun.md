@@ -2,11 +2,12 @@
 
 Bun, JavaScript çalışma zamanı (runtime), paket yöneticisi, test çalıştırıcı ve paketleyiciyi tek bir çatı altında toplayan yüksek performanslı bir araçtır. Rust diliyle geliştirilen bu platform, yazılım geliştirme süreçlerini hızlandırmak için tümleşik bir altyapı sunar.
 
-- ★ 95.153
+- ★ 95.505
 - Rust
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 95.153 → 95.505, son sürüm bun-v1.4.0 (20 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 94.374 → 95.153, son sürüm bun-v1.3.14 (13 Mayıs 2026).
 
 ## Ne kazandırır?

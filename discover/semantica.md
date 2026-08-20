@@ -2,15 +2,15 @@
 
 Semantica, yapay zekâ sistemleri için bağlamsal veri yönetimi sağlayan çizge tabanlı bir altyapı (graph-native infrastructure). Büyük dil modellerinin (LLM) daha güvenilir ve hesap verebilir sonuçlar üretmesi için verileri ilişkisel bir yapıda düzenliyor.
 
-- ★ 9.180
+- ★ 9.708
 - Python
 - GitHub Trending · 2026-08-08
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 9.180 → 9.708, son sürüm v0.6.6 (20 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 7.891 → 9.180, son sürüm v0.6.5 (11 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 5.094 → 7.891, son sürüm v0.6.5 (11 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 3.493 → 5.094, son sürüm v0.6.5 (11 Ağustos 2026).
-- 10 Ağustos 2026: Yıldız 2.398 → 3.493, son sürüm v0.6.0 (21 Temmuz 2026).
 
 ## Ne kazandırır?
 - Karar süreçlerini izlenebilir ve denetlenebilir kılar
