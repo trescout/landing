@@ -2,7 +2,7 @@
 
 CuPy kombiniert die NumPy- und SciPy-Schnittstellen der numerischen Computerbibliothek mit GPU-Beschleunigung (Graphics Processing Unit). Diese Python-basierte Bibliothek beschleunigt komplexe mathematische Operationen mithilfe von CUDA-Kernen.
 
-- ★ 12.227
+- ★ 12.259
 - Python
 - GitHub Trending · 2026-06-29
 

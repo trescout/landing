@@ -2,7 +2,7 @@
 
 CuPy combina las interfaces de la biblioteca de computación numérica NumPy y SciPy con la aceleración de la unidad de procesamiento de gráficos (GPU). Esta biblioteca basada en Python acelera operaciones matemáticas complejas utilizando núcleos CUDA.
 
-- ★ 12.227
+- ★ 12.259
 - Python
 - GitHub Trending · 2026-06-29
 

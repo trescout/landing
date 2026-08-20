@@ -77,6 +77,27 @@ jobs:
           LIMIT: ${{ github.event.inputs.headlines_limit }}
         run: python3 scripts/discover-sync.py --headlines --limit="$LIMIT"
 
+      # Tazeleme · yıldız/sürüm değişimlerini katalog ve TÜRKÇE sayfalara işler.
+      #
+      # SIRA · sayfa üretiminden ÖNCE olmalı. 2026-08-20'ye kadar iş akışının
+      # EN SONUNDAYDI, tüm guard'lardan ve normalize edicilerden sonra: Türkçe
+      # sayfaya yeni "Güncelleme" bölümü ekliyor, çevrilmiş sayfalar o turda
+      # yeniden basılmadığı için o bölüm onlarda olmuyordu. Bölüm paritesi
+      # guard'ı beş aracı yakaladı (ai-infra-guard, ghosttrack, modular,
+      # openlogi, google-timeline-visualizer) · ayrıca çıktısı hiçbir normalize
+      # ediciden geçmediği için hreflang'i de bozuluyordu (2026-08-19'da elle
+      # onarılmıştı). Buraya alınınca tüm diller tazelenmiş veriden üretiliyor
+      # ve guard'lar gerçekten son hâle bakıyor.
+      #
+      # GitHub API aksarsa asıl işi düşürmesin · 2026-08-02'de REST hız sınırı
+      # 403 döndü ve dört çalışmayı üst üste düşürdü (hem GraphQL'e geçildi,
+      # hem bu bayrak).
+      - name: Keşif sayfalarını tazele (tüm depolar · GraphQL toplu sorgu)
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/discover-sync.py --refresh
+
       - name: Çapraz-linkleri yenile (keşif ↔ sözlük)
         run: python3 scripts/cross-link.py
 
@@ -260,32 +281,6 @@ jobs:
       # Çok dilli her sayfa diğer dillerdeki sürümünü bildirmeli · normalize
       # edici yukarıda koştu, burada yalnız DOĞRULUYORUZ.
       - name: hreflang kontrolü
-        run: python3 scripts/check-hreflang.py
-
-      # Tazeleme yardımcı bir adım · GitHub API aksarsa asıl işi (içerik büyümesi
-      # + commit) düşürmesin. 2026-08-02'de REST hız sınırı 403 döndü ve dört
-      # çalışmayı üst üste düşürdü, o yüzden hem GraphQL'e geçildi hem bu bayrak.
-      - name: Keşif sayfalarını tazele (tüm depolar · GraphQL toplu sorgu)
-        continue-on-error: true
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/discover-sync.py --refresh
-
-      # Tazeleme SON YAZAN adım · çıktısı hiçbir normalize ediciden geçmiyordu
-      # ve doğrudan commit'leniyordu. 2026-08-19'da tam bu yüzden çevrilmiş
-      # keşif sayfaları hreflang'siz yayına gitti ve elle onarıldı
-      # (e263b24c9 → 821cbec89). Guard'lar tazelemeden ÖNCE koştuğu için
-      # hiçbiri görmedi. Yazan her adımdan sonra normalize edici gelmeli.
-      - name: Tazeleme sonrası normalize (kabuk + hreflang)
-        run: |
-          node scripts/fix-all-headers-and-footers.js
-          python3 scripts/hreflang-normalize.py
-          python3 scripts/sitemap-sync.py
-
-      # Yayını düşürmesin · normalize edici yukarıda koştu, burası yalnız
-      # sapma kalırsa loga düşsün diye.
-      - name: Tazeleme sonrası hreflang doğrulama
-        continue-on-error: true
         run: python3 scripts/check-hreflang.py
 
       - name: Değişiklik varsa commit'le

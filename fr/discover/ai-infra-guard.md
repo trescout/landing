@@ -2,7 +2,7 @@
 
 Conçu par Tencent, AI-Infra-Guard et une plate-forme exclusive de Red Teaming qui protège les écosystèmes d'intelligence artificielle contre les vulnérabilités. Système ; Il s'agit d'une sécurité et d'une infrastructure pour des méthodes telles que la vérification des agents, l'analyse des capacités et les avals de sécurité des grands modèles de langage.
 
-- ★ 4 744
+- ★ 4 746
 - Python
 - GitHub Trending · 2026-08-20
 

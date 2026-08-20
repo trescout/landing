@@ -2,7 +2,7 @@
 
 Conçu avec le langage Go, l'agent Substrate offre un runtime de base pour les agents d'intelligence artificielle. Cette infrastructure, qui prend en charge différentes architectures d'agents, doit protéger les ressources du système et les flux de travail nécessaires aux agents.
 
-- ★ 1 275
+- ★ 1 276
 - Go
 - GitHub Trending · 2026-08-20
 

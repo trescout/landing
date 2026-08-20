@@ -2,7 +2,7 @@
 
 Entworfen mit der Go-Sprache, bietet Agent Substrate eine grundlegende Laufzeit für künstliche Intelligenz-Agenten. Bei dieser Infrastruktur handelt es sich um eine Infrastruktur, die verschiedene Architekturen von Agenten unterstützt, die Rekursion von Systemen und die für die Agenten erforderlichen Arbeitsflüsse unterstützt.
 
-- ★ 1.275
+- ★ 1.276
 - Go
 - GitHub Trending · 2026-08-20
 

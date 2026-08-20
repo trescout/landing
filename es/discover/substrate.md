@@ -2,7 +2,7 @@
 
 Desarrollado con el lenguaje Go, el Agent Substrate ofrece un tiempo de ejecución básico para agentes de inteligencia artificial. Esta infraestructura, que soporta diferentes arquitecturas de agentes, visa padronizar los recursos del sistema y los flujos de trabajo necesarios de los agentes.
 
-- ★ 1.275
+- ★ 1.276
 - Go
 - GitHub Trending · 2026-08-20
 
