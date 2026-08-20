@@ -33,8 +33,8 @@ Sim, mas a inclusão de alterações no projeto principal geralmente depende da 
 - [MarkItDown](/pt/discover/markitdown/)
 - [Claude Code](/pt/discover/claude-code/)
 - [MoneyPrinterTurbo](/pt/discover/moneyprinterturbo/)
-- [claude-mem](/pt/discover/claude-mem/)
 - [RuView](/pt/discover/ruview/)
+- [claude-mem](/pt/discover/claude-mem/)
 - [Opencv](/pt/discover/opencv/)
 
 ---

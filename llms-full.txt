@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-19 · 449 araç · 523 terim
+Son güncelleme: 2026-08-20 · 449 araç · 523 terim
 
 ---
 
@@ -24375,6 +24375,76 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# WiFi Sinyalleriyle Mekansal Zeka Kazanın
+
+RuView , sıradan WiFi sinyallerini kullanarak kamera olmadan gerçek zamanlı mekânsal zekâ, hayati bulgu takibi ve varlık algılama işlemleri gerçekleştirir. Rust ile geliştirilmiş açık kaynak bir projedir.
+
+_Görsel: RuView (proje deposundan)_
+
+- ★ 90.940
+- Rust
+- MIT
+- GitHub Trending · 30 May 2026
+
+## Güncelleme
+- 19 Ağustos 2026: Yıldız 90.838 → 90.940, son sürüm v2297 (19 Ağustos 2026).
+- 19 Ağustos 2026: Yıldız 90.395 → 90.838, son sürüm v2288 (19 Ağustos 2026).
+- 17 Ağustos 2026: Yıldız 90.296 → 90.395, son sürüm v2272 (17 Ağustos 2026).
+- 16 Ağustos 2026: Yıldız 89.705 → 90.296, son sürüm v2262 (16 Ağustos 2026).
+
+- **Kimin için:** IoT/algılama/araştırma ile ilgilenenler 
+- **Zorluk:** İleri · teknik/donanım 
+- **Ne sunar:** WiFi tabanlı algılama ve mekânsal zekâ 
+- **Ücret:** Ücretsiz · açık kaynak (MIT) 
+- **Lisans:** MIT · ayrıntı aşağıda 
+
+## Ne sunar?
+- Kamera kullanmadan varlık ve hareket algılama.
+- Hayati bulguların (nefes ve nabız) takibi.
+- Gerçek zamanlı mekânsal zekâ.
+
+## Sorumluluk notu
+İnsanların varlığını/hareketini algılayan bir teknolojidir. Gizlilik ve rıza açısından dikkatli, yasalara uygun kullanım sizin sorumluluğunuzdadır. 
+
+## Nasıl kurulur, nasıl kullanılır?
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Donanım olmadan denemek için terminalde 'docker pull ruvnet/wifi-densepose:latest' çalıştır, ardından 'docker run -p 3000:3000 ruvnet/wifi-densepose:latest' ile başlat ve tarayıcıdan http://localhost:3000 adresini aç; bu, RuView'in WiFi sinyalleriyle hareket/varlık algılama arayüzünü simülasyon veriyle gösterir.
+
+**Docker imajını çek**
+
+```
+docker pull ruvnet/wifi-densepose:latest
+```
+
+**Docker ile çalıştır (simülasyon, donanım gerekmez)**
+
+```
+docker run -p 3000:3000 ruvnet/wifi-densepose:latest
+```
+
+**Python paketi (PyPI)**
+
+```
+pip install ruview
+```
+
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/ruvnet/RuView)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+WiFi Rust Open Source Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/ruview/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ Ajanınıza Kalıcı Hafıza Kazandırın
 
 claude-mem , AI ajanlarınızın oturumlar arası hatırlama yapabilmesini sağlar. Bir oturumda gerçekleşen her şeyi yakalar, AI ile anlamlı özetlere dönüştürür ve sonraki oturumda ilgili bağlamı geri sunar. Claude Code, Codex, Gemini, Copilot ve OpenCode ile uyumludur.
@@ -24437,76 +24507,6 @@ Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-mem/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# WiFi Sinyalleriyle Mekansal Zeka Kazanın
-
-RuView , sıradan WiFi sinyallerini kullanarak kamera olmadan gerçek zamanlı mekânsal zekâ, hayati bulgu takibi ve varlık algılama işlemleri gerçekleştirir. Rust ile geliştirilmiş açık kaynak bir projedir.
-
-_Görsel: RuView (proje deposundan)_
-
-- ★ 90.838
-- Rust
-- MIT
-- GitHub Trending · 30 May 2026
-
-## Güncelleme
-- 19 Ağustos 2026: Yıldız 90.395 → 90.838, son sürüm v2288 (19 Ağustos 2026).
-- 17 Ağustos 2026: Yıldız 90.296 → 90.395, son sürüm v2272 (17 Ağustos 2026).
-- 16 Ağustos 2026: Yıldız 89.705 → 90.296, son sürüm v2262 (16 Ağustos 2026).
-- 12 Ağustos 2026: Yıldız 88.270 → 89.705, son sürüm v2235 (11 Ağustos 2026).
-
-- **Kimin için:** IoT/algılama/araştırma ile ilgilenenler 
-- **Zorluk:** İleri · teknik/donanım 
-- **Ne sunar:** WiFi tabanlı algılama ve mekânsal zekâ 
-- **Ücret:** Ücretsiz · açık kaynak (MIT) 
-- **Lisans:** MIT · ayrıntı aşağıda 
-
-## Ne sunar?
-- Kamera kullanmadan varlık ve hareket algılama.
-- Hayati bulguların (nefes ve nabız) takibi.
-- Gerçek zamanlı mekânsal zekâ.
-
-## Sorumluluk notu
-İnsanların varlığını/hareketini algılayan bir teknolojidir. Gizlilik ve rıza açısından dikkatli, yasalara uygun kullanım sizin sorumluluğunuzdadır. 
-
-## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Donanım olmadan denemek için terminalde 'docker pull ruvnet/wifi-densepose:latest' çalıştır, ardından 'docker run -p 3000:3000 ruvnet/wifi-densepose:latest' ile başlat ve tarayıcıdan http://localhost:3000 adresini aç; bu, RuView'in WiFi sinyalleriyle hareket/varlık algılama arayüzünü simülasyon veriyle gösterir.
-
-**Docker imajını çek**
-
-```
-docker pull ruvnet/wifi-densepose:latest
-```
-
-**Docker ile çalıştır (simülasyon, donanım gerekmez)**
-
-```
-docker run -p 3000:3000 ruvnet/wifi-densepose:latest
-```
-
-**Python paketi (PyPI)**
-
-```
-pip install ruview
-```
-
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/ruvnet/RuView)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-WiFi Rust Open Source Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/ruview/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -35015,53 +35015,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Çok dilli fitness egzersiz veri seti
-
-Hasaneyldrm tarafından paylaşılan egzersiz veri seti (exercises-dataset), 433 farklı fitness hareketini isim, hedef kas grubu, ekipman ve görsel talimatlarla birlikte sunuyor. Bu kapsamlı kaynak, spor teknolojileri uygulamaları geliştirenler için yapılandırılmış bir veri altyapısı sağlıyor.
-
-- ★ 19.692
-- HTML
-- GitHub Trending · 2026-07-01
-
-## Güncelleme
-- 15 Ağustos 2026: Yıldız 18.515 → 19.692.
-- 2 Ağustos 2026: Yıldız 7.552 → 18.515.
-
-## Ne kazandırır?
-- 1.324 farklı fitness egzersizi için yapılandırılmış veri
-- Türkçe dahil 6 dilde adım adım uygulama talimatları
-- Veritabanı ve API entegrasyonu için hazır rehber
-
-## Nasıl başlanır?
-
-Bu araç bir kurulum gerektirmez. GitHub sayfasındaki dosyaları bilgisayarınıza indirdikten sonra 'index.html' dosyasını herhangi bir internet tarayıcısı ile açarak egzersizleri inceleyebilir, 'setup.html' dosyasını açarak ise veritabanı ve API kurulum rehberine ulaşabilirsiniz.
-
-- **Kimin için:** Spor teknolojileri alanında uygulama geliştiren yazılımcılar ve fitness odaklı araştırmacılar için uygundur. 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/hasaneyldrm/exercises-dataset)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Exercises Dataset API
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/exercises-dataset/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Mac bilgisayarlar için yapay zekâ sunucusu
 
 Omlx, Apple Silicon işlemciler için sürekli yığınlama (continuous batching) ve SSD önbellekleme (SSD caching) özelliklerini destekleyen bir büyük dil modeli (LLM) çıkarım sunucusudur. macOS menü çubuğu üzerinden yönetilen bu araç, yerel donanım üzerinde yüksek performanslı model çalıştırma imkânı sunar.
 
-- ★ 19.519
+- ★ 19.758
 - Python
 - GitHub Trending · 2026-08-18
 
 ## Güncelleme
+- 19 Ağustos 2026: Yıldız 19.519 → 19.758, son sürüm v0.6.3rc1 (19 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 19.201 → 19.519, son sürüm v0.6.2 (18 Ağustos 2026).
 - 18 Ağustos 2026: Yıldız 19.197 → 19.201, son sürüm v0.6.1 (17 Ağustos 2026).
 
@@ -35104,6 +35067,44 @@ Continuous Batching SSD Caching Caching Apple Silicon LLM Artificial Intelligenc
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/omlx/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Çok dilli fitness egzersiz veri seti
+
+Hasaneyldrm tarafından paylaşılan egzersiz veri seti (exercises-dataset), 433 farklı fitness hareketini isim, hedef kas grubu, ekipman ve görsel talimatlarla birlikte sunuyor. Bu kapsamlı kaynak, spor teknolojileri uygulamaları geliştirenler için yapılandırılmış bir veri altyapısı sağlıyor.
+
+- ★ 19.692
+- HTML
+- GitHub Trending · 2026-07-01
+
+## Güncelleme
+- 15 Ağustos 2026: Yıldız 18.515 → 19.692.
+- 2 Ağustos 2026: Yıldız 7.552 → 18.515.
+
+## Ne kazandırır?
+- 1.324 farklı fitness egzersizi için yapılandırılmış veri
+- Türkçe dahil 6 dilde adım adım uygulama talimatları
+- Veritabanı ve API entegrasyonu için hazır rehber
+
+## Nasıl başlanır?
+
+Bu araç bir kurulum gerektirmez. GitHub sayfasındaki dosyaları bilgisayarınıza indirdikten sonra 'index.html' dosyasını herhangi bir internet tarayıcısı ile açarak egzersizleri inceleyebilir, 'setup.html' dosyasını açarak ise veritabanı ve API kurulum rehberine ulaşabilirsiniz.
+
+- **Kimin için:** Spor teknolojileri alanında uygulama geliştiren yazılımcılar ve fitness odaklı araştırmacılar için uygundur. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/hasaneyldrm/exercises-dataset)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Exercises Dataset API
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/exercises-dataset/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -37783,15 +37784,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Open SEO, Semrush ve Ahrefs gibi ücretli araçlara açık kaynaklı bir alternatif sunuyor. Arama motoru optimizasyonu (SEO) verilerini analiz etmek için geliştirilen bu yazılım, TypeScript tabanlı altyapısıyla süreçleri şeffaflaştırmayı hedefliyor.
 
-- ★ 12.589
+- ★ 12.642
 - TypeScript
 - GitHub Trending · 2026-06-26
 
 ## Güncelleme
+- 19 Ağustos 2026: Yıldız 12.589 → 12.642, son sürüm v0.1.6 (19 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 12.234 → 12.589, son sürüm v0.1.5 (18 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 11.139 → 12.234, son sürüm v0.1.4 (9 Ağustos 2026).
 - 10 Ağustos 2026: Yıldız 10.091 → 11.139, son sürüm v0.1.4 (9 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 2.736 → 10.091, son sürüm v0.1.3 (30 Temmuz 2026).
 
 ## Ne kazandırır?
 - Abonelik ücreti olmadan sadece kullandığın kadar öde
@@ -42658,10 +42659,10 @@ BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için ye
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
+- 19 Ağustos 2026: Yıldız 4.533 → 4.533, son sürüm v0.1.245 (19 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 4.529 → 4.533, son sürüm v0.1.244 (19 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 4.528 → 4.529, son sürüm @agent-native/core@0.163.4 (19 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 4.523 → 4.528, son sürüm @agent-native/skills@0.2.628 (19 Ağustos 2026).
-- 18 Ağustos 2026: Yıldız 4.510 → 4.523, son sürüm @agent-native/skills@0.2.609 (18 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ajan ve kullanıcı arayüzünü tek veritabanında senkronize eder

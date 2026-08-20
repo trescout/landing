@@ -2,7 +2,7 @@
 
 RuView bietet räumliche Echtzeit-Intelligenz, Vitalzeichenverfolgung und Anwesenheitserkennung ohne Kamera unter Verwendung gewöhnlicher WLAN-Signale. Es handelt sich um ein Open-Source-Projekt, das mit Rust entwickelt wurde.
 
-- ★ 90.838
+- ★ 90.940
 - Rust
 - MIT
 - GitHub Trending · 30 May 2026
