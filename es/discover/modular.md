@@ -2,7 +2,7 @@
 
 Una plataforma Modular que incluye el motor MAX, diseñada para rodar modelos de inteligencia artificial, y un lenguaje de programación Mojo, que combina las capacidades del lenguaje Python con la velocidad de programación de sistemas. Este es un proyecto de tecnología para una rápida infraestructura de inteligencia artificial y simplificar procesos complejos de software.
 
-- ★ 27.442
+- ★ 27.449
 - Mojo
 - GitHub Trending · 2026-08-20
 

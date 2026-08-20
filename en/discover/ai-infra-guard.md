@@ -2,7 +2,7 @@
 
 Desenvolvido pela Tencent, o AI-Infra-Guard e uma plataforma abragente de red teaming que protege ecossistemas de inteligência artificial contra vulnerabilidades. Systema; This is a segurança and infraestrutura por meio de métodos como verificação de agentes, análise de habilidades e avaliações de segurança de grandes modelos de linguagem.
 
-- ★ 4,744
+- ★ 4,746
 - Python
 - GitHub Trending · 2026-08-20
 

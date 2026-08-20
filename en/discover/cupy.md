@@ -2,7 +2,7 @@
 
 CuPy combines the numerical computing library NumPy and SciPy interfaces with graphics processing unit (GPU) acceleration. This Python-based library accelerates complex mathematical operations using CUDA cores.
 
-- ★ 12,227
+- ★ 12,259
 - Python
 - GitHub Trending · 2026-06-29
 

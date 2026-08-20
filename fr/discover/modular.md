@@ -2,7 +2,7 @@
 
 Une plate-forme modulaire comprend le moteur MAX, conçu pour les modèles d'intelligence artificielle, et le langage de programmation Mojo, qui combine les capacités du langage Python avec la vitesse de programmation des systèmes. Il s'agit d'un projet technologique pour une infrastructure d'intelligence artificielle rapide et des processus complexes de logiciels simplifiés.
 
-- ★ 27 442
+- ★ 27 449
 - Mojo
 - GitHub Trending · 2026-08-20
 

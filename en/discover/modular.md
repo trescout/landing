@@ -2,7 +2,7 @@
 
 A plataforma Modular inclui o engine MAX, desenvolvido para rodar modelos de inteligência artificial, e a linguagem de programação Mojo, que combina as capacidades da linguagem Python com a velocidade de programação de systemas. This is a tecnologia foi project for a rapid infraestrutura de inteligência artificial and simplificar processos complexos de software.
 
-- ★ 27,442
+- ★ 27,449
 - Mojo
 - GitHub Trending · 2026-08-20
 
