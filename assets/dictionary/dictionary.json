@@ -6797,5 +6797,44 @@
     "kisa_es": "Son aplicaciones digitales que funcionan sobre blockchain y están abiertas a todos, sin depender de una autoridad central.",
     "kisa_de": "Dabei handelt es sich um digitale Anwendungen, die auf der Blockchain arbeiten und allen offen stehen, ohne auf eine zentrale Instanz angewiesen zu sein.",
     "date": "2026-08-19"
+  },
+  {
+    "slug": "dpi",
+    "en": "DPI",
+    "full": "Dots Per Inch",
+    "cat": "dev",
+    "kisa": "Bir ekranın veya yazıcının görüntü kalitesini belirleyen, inç başına düşen nokta sayısıdır.",
+    "date": "2026-08-20",
+    "kisa_en": "The number of dots per inch determines the image quality of a display or printer.",
+    "kisa_fr": "Le nombre de points par pouce détermine la qualité d'image d'un écran ou d'une imprimante.",
+    "kisa_pt": "O número de pontos por polegada determina a qualidade da imagem de um monitor ou impressora.",
+    "kisa_es": "El número de puntos por pulgada determina la calidad de imagen de una pantalla o impresora.",
+    "kisa_de": "Die Anzahl der Punkte pro Zoll bestimmt die Bildqualität eines Displays oder Druckers."
+  },
+  {
+    "slug": "ai-code-editor",
+    "en": "AI Code Editor",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yazılım geliştirirken hataları anlık tespit eden ve kod yazımına yardımcı olan akıllı düzenleme aracıdır.",
+    "date": "2026-08-20",
+    "kisa_en": "It is a smart editing tool that instantly detects errors and helps code writing while developing software.",
+    "kisa_fr": "Il s'agit d'un outil d'édition intelligent qui détecte instantanément les erreurs et facilite l'écriture de code lors du développement de logiciels.",
+    "kisa_pt": "É uma ferramenta de edição inteligente que detecta erros instantaneamente e ajuda na escrita de código durante o desenvolvimento de software.",
+    "kisa_es": "Es una herramienta de edición inteligente que detecta errores instantáneamente y ayuda a escribir código mientras se desarrolla software.",
+    "kisa_de": "Es handelt sich um ein intelligentes Bearbeitungstool, das Fehler sofort erkennt und beim Schreiben von Code während der Softwareentwicklung hilft."
+  },
+  {
+    "slug": "red-teaming",
+    "en": "Red Teaming",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir sistemin güvenliğini test etmek için kötü niyetli bir kullanıcı gibi davranarak zayıf noktaları bulma yöntemidir.",
+    "date": "2026-08-20",
+    "kisa_en": "It is a method of finding vulnerabilities by pretending to be a malicious user to test the security of a system.",
+    "kisa_fr": "Il s'agit d'une méthode permettant de trouver des vulnérabilités en se faisant passer pour un utilisateur malveillant pour tester la sécurité d'un système.",
+    "kisa_pt": "É um método de encontrar vulnerabilidades fingindo ser um usuário mal-intencionado para testar a segurança de um sistema.",
+    "kisa_es": "Es un método para encontrar vulnerabilidades haciéndose pasar por un usuario malicioso para probar la seguridad de un sistema.",
+    "kisa_de": "Dabei handelt es sich um eine Methode zum Auffinden von Schwachstellen, indem man sich als böswilliger Benutzer ausgibt, um die Sicherheit eines Systems zu testen."
   }
 ]

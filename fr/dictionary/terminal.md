@@ -32,7 +32,7 @@ Si vous souhaitez vous lancer dans le monde du logiciel, oui, car de nombreux ou
 - [Free Claude Code](/fr/discover/free-claude-code/)
 - [DeepSeek-Reasonix](/fr/discover/deepseek-reasonix/)
 - [Mise](/fr/discover/mise/)
-- [Oh My Pi](/fr/discover/oh-my-pi/)
+- [Omarchy](/fr/discover/omarchy/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/terminal/

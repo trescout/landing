@@ -2,7 +2,7 @@
 
 Vite offers a fast development environment and build tool for modern web projects. It functions as a frontend tooling tool that reduces waiting times in the development process by using native ES modules.
 
-- ★ 82,245
+- ★ 82,419
 - GitHub Trending · 2026-06-07
 
 ## What you get

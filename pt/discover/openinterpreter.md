@@ -2,7 +2,7 @@
 
 Open Interpreter oferece um agente de codificação que automatiza processos de desenvolvimento de software executando código no ambiente de computador local. Projetada para trabalhar com modelos de linguagem de baixo custo, esta ferramenta permite executar tarefas complexas diretamente do terminal.
 
-- ★ 68.054
+- ★ 68.079
 - Rust
 - GitHub Trending · 2026-07-16
 

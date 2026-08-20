@@ -2,7 +2,7 @@
 
 Nautilus Trader is a trading engine with a deterministic event-driven architecture, developed in Rust language. It offers production-grade infrastructure solutions for high-performance financial systems.
 
-- ★ 25,223
+- ★ 26,536
 - Rust
 - GitHub Trending · 2026-06-18
 

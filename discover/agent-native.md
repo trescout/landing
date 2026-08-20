@@ -2,15 +2,15 @@
 
 BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications) oluşturmaya odaklanan bir TypeScript çerçevesidir (framework). Geliştiricilerin ajan tabanlı iş akışlarını doğrudan uygulama mimarisine entegre etmelerini sağlar.
 
-- ★ 4.535
+- ★ 4.536
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 4.535 → 4.536, son sürüm @agent-native/core@0.164.22 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 4.533 → 4.535, son sürüm @agent-native/core@0.164.21 (20 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 4.533 → 4.533, son sürüm v0.1.245 (19 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 4.529 → 4.533, son sürüm v0.1.244 (19 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 4.528 → 4.529, son sürüm @agent-native/core@0.163.4 (19 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ajan ve kullanıcı arayüzünü tek veritabanında senkronize eder

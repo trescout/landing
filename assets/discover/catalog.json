@@ -574,7 +574,7 @@
     "tagline_pt": "Insira um tópico e a IA produzirá vídeos curtos com legendas com um clique.",
     "tagline_es": "Ingrese un tema y la IA producirá videos cortos con subtítulos con un solo clic.",
     "tagline_de": "Geben Sie ein Thema ein und die KI erstellt mit einem Klick kurze Videos mit Untertiteln.",
-    "last_seen": "2026-08-19"
+    "last_seen": "2026-08-20"
   },
   {
     "slug": "heretic",
@@ -720,7 +720,7 @@
     "tagline_pt": "Habilidades compostas e metodologia de desenvolvimento de software para agentes de codificação.",
     "tagline_es": "Habilidades compuestas y metodología de desarrollo de software para agentes de codificación.",
     "tagline_de": "Zusammengesetzte Fähigkeiten und Softwareentwicklungsmethodik für Codierungsagenten.",
-    "last_seen": "2026-08-08"
+    "last_seen": "2026-08-20"
   },
   {
     "slug": "english-level-up-tips",
@@ -1206,7 +1206,7 @@
     "tagline_pt": "Especificação oficial de plugins e plugins prontos para o editor de código Cursor.",
     "tagline_es": "Especificación oficial de complementos y complementos listos para usar para el editor de código de cursor.",
     "tagline_de": "Offizielle Plugin-Spezifikation und vorgefertigte Plugins für den Cursor-Code-Editor.",
-    "last_seen": "2026-08-16"
+    "last_seen": "2026-08-20"
   },
   {
     "slug": "voxcpm",
@@ -2043,7 +2043,7 @@
     "slug": "oh-my-pi",
     "title": "Oh My Pi",
     "tagline": "Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding…",
-    "meta": "★ 25.804",
+    "meta": "★ 25.996",
     "image": "/assets/discover/og/oh-my-pi.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -2051,7 +2051,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 25804,
+    "stars": 25996,
     "lite": false,
     "headline": "Terminalde yapay zekâ destekli kodlama",
     "last_review": "2026-08-20",
@@ -2139,6 +2139,13 @@
         "onceki_yildiz": 25590,
         "surum": "v17.3.8",
         "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 25996,
+        "onceki_yildiz": 25804,
+        "surum": "v17.4.0",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "Oh-my-pi is an artificial intelligence coding agent (AI coding…) that runs in a terminal environment and automates code editing processes.",
@@ -3463,7 +3470,7 @@
     "tagline_pt": "Usando a infraestrutura do Claude Code, as operações de carreira oferecem processos de busca de emprego apoiados por inteligência artificial com 14 modos de habilidades diferentes.",
     "tagline_es": "Utilizando la infraestructura de Claude Code, Career-Ops ofrece procesos de búsqueda de empleo respaldados por inteligencia artificial con 14 modos de habilidades diferentes.",
     "tagline_de": "Career-ops bietet mithilfe der Claude-Code-Infrastruktur künstliche Intelligenz-gestützte Jobsuchprozesse mit 14 verschiedenen Skill-Modi an.",
-    "last_seen": "2026-07-03"
+    "last_seen": "2026-08-20"
   },
   {
     "slug": "whisper",
@@ -3742,7 +3749,7 @@
     "slug": "llama-cpp",
     "title": "Llama.cpp",
     "tagline": "Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını…",
-    "meta": "★ 124.773 · C++",
+    "meta": "★ 124.811 · C++",
     "image": "/assets/discover/og/llama-cpp.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -3750,7 +3757,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 124773,
+    "stars": 124811,
     "lite": false,
     "headline": "Yapay zekâ modellerini bilgisayarınızda çalıştırın",
     "last_review": "2026-08-20",
@@ -3915,6 +3922,13 @@
         "onceki_yildiz": 124753,
         "surum": "b10507",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 124811,
+        "onceki_yildiz": 124773,
+        "surum": "b10509",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "Llama.cpp enables large language models to run efficiently on standard hardware.",
@@ -3958,7 +3972,7 @@
     "tagline_pt": "Construído na infraestrutura TurboQuant, turbovec é um diretório vetorial de alto desempenho (vetor…",
     "tagline_es": "Construido sobre la infraestructura TurboQuant, turbovec es un directorio vectorial de alto rendimiento (vector...",
     "tagline_de": "Turbovec basiert auf der TurboQuant-Infrastruktur und ist ein leistungsstarkes Vektorverzeichnis (Vektor…",
-    "last_seen": "2026-07-26"
+    "last_seen": "2026-08-20"
   },
   {
     "slug": "chinatextbook",
@@ -4045,14 +4059,14 @@
     "slug": "ghosttrack",
     "title": "GhostTrack",
     "tagline": "Python tabanlı GhostTrack, mobil numaralar üzerinden konum takibi yapılmasına olanak tanıyan bir araçtır.",
-    "meta": "★ 13.874",
+    "meta": "★ 14.877",
     "image": "/assets/discover/og/ghosttrack.webp",
     "source": "GitHub",
     "date": "2026-06-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 13874,
+    "stars": 14877,
     "lite": false,
     "headline": "Mobil numaralar ve kullanıcı adları üzerinden konum takibi",
     "cmds": {
@@ -4076,7 +4090,14 @@
     "tagline_pt": "GhostTrack baseado em Python é uma ferramenta que permite rastreamento de localização por meio de números de celular.",
     "tagline_es": "GhostTrack, basado en Python, es una herramienta que permite el seguimiento de la ubicación a través de números de móvil.",
     "tagline_de": "GhostTrack auf Python-Basis ist ein Tool, das die Standortverfolgung über Mobiltelefonnummern ermöglicht.",
-    "last_seen": "2026-06-08"
+    "last_seen": "2026-06-08",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 14877,
+        "onceki_yildiz": 13874
+      }
+    ]
   },
   {
     "slug": "pg-durable",
@@ -5935,14 +5956,14 @@
     "slug": "openwa",
     "title": "OpenWA",
     "tagline": "OpenWA, WhatsApp mesajlaşma protokolü için ücretsiz ve açık kaynaklı bir ağ geçidi (API gateway) çözümü sunuyor.",
-    "meta": "★ 12.953 · TypeScript",
+    "meta": "★ 12.991 · TypeScript",
     "image": "/assets/discover/og/openwa.webp",
     "source": "GitHub",
     "date": "2026-06-17",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 12953,
+    "stars": 12991,
     "lite": false,
     "headline": "WhatsApp için açık kaynaklı ağ geçidi",
     "last_review": "2026-08-20",
@@ -6030,6 +6051,13 @@
         "onceki_yildiz": 12919,
         "surum": "v0.22.0",
         "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 12991,
+        "onceki_yildiz": 12953,
+        "surum": "v0.23.0",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "OpenWA offers a free and open source API gateway solution for the WhatsApp messaging protocol.",
@@ -6657,7 +6685,7 @@
     "tagline_pt": "Plane é uma ferramenta de gerenciamento de projetos de código aberto que combina processos de gerenciamento de tarefas, planejamento de sprint e documentação.",
     "tagline_es": "Plane es una herramienta de gestión de proyectos de código abierto que combina gestión de tareas, planificación de sprints y procesos de documentación.",
     "tagline_de": "Plane ist ein Open-Source-Projektmanagement-Tool, das Aufgabenverwaltung, Sprintplanung und Dokumentationsprozesse kombiniert.",
-    "last_seen": "2026-06-19"
+    "last_seen": "2026-08-20"
   },
   {
     "slug": "glm-5",
@@ -7154,7 +7182,7 @@
     "slug": "agent-native",
     "title": "Agent Native",
     "tagline": "BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications)…",
-    "meta": "★ 4.536 · TypeScript",
+    "meta": "★ 4.537 · TypeScript",
     "image": "/assets/discover/og/agent-native.webp",
     "source": "GitHub",
     "date": "2026-06-20",
@@ -7162,7 +7190,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4536,
+    "stars": 4537,
     "lite": false,
     "headline": "Yapay zekâ ajanları için uygulama çerçevesi",
     "last_review": "2026-08-20",
@@ -7326,6 +7354,13 @@
         "yildiz": 4536,
         "onceki_yildiz": 4535,
         "surum": "@agent-native/core@0.164.22",
+        "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 4537,
+        "onceki_yildiz": 4536,
+        "surum": "@agent-native/core@0.164.24",
         "surum_tarihi": "2026-08-20"
       }
     ],
@@ -9082,7 +9117,7 @@
     "slug": "opencode",
     "title": "Opencode",
     "tagline": "OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent).",
-    "meta": "★ 197.773 · TypeScript",
+    "meta": "★ 199.394 · TypeScript",
     "image": "/assets/discover/og/opencode.webp",
     "source": "GitHub",
     "date": "2026-06-28",
@@ -9090,7 +9125,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 197773,
+    "stars": 199394,
     "lite": false,
     "headline": "Açık kaynaklı yapay zekâ kodlama ajanı",
     "last_review": "2026-08-20",
@@ -9136,6 +9171,13 @@
         "onceki_yildiz": 195548,
         "surum": "v1.18.18",
         "surum_tarihi": "2026-08-13"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 199394,
+        "onceki_yildiz": 197773,
+        "surum": "v1.18.19",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "OpenCode is an open source coding agent designed to automate software development processes.",
@@ -9293,14 +9335,14 @@
     "slug": "cupy",
     "title": "Cupy",
     "tagline": "CuPy, sayısal hesaplama kütüphanesi NumPy ve SciPy arayüzlerini grafik işlem birimi (GPU) hızlandırmasıyla birleştiriyor.",
-    "meta": "★ 12.227 · Python",
+    "meta": "★ 12.259 · Python",
     "image": "/assets/discover/og/cupy.webp",
     "source": "GitHub",
     "date": "2026-06-29",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 12227,
+    "stars": 12259,
     "lite": false,
     "headline": "GPU destekli sayısal hesaplama kütüphanesi",
     "last_review": "2026-08-20",
@@ -9311,6 +9353,13 @@
         "onceki_yildiz": 11639,
         "surum": "v14.1.1",
         "surum_tarihi": "2026-06-01"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 12259,
+        "onceki_yildiz": 12227,
+        "surum": "v14.2.0",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "CuPy combines the numerical computing library NumPy and SciPy interfaces with graphics processing unit (GPU) acceleration.",
@@ -10180,7 +10229,7 @@
     "tagline_pt": "Caveman, desenvolvido para Claude Code, simplifica o uso da linguagem do modelo de inteligência artificial e reduz o consumo de tokens.",
     "tagline_es": "Caveman, desarrollado para Claude Code, simplifica el uso del lenguaje del modelo de inteligencia artificial y reduce el consumo de tokens.",
     "tagline_de": "Caveman, entwickelt für Claude Code, vereinfacht die Sprachverwendung des Modells der künstlichen Intelligenz und reduziert den Token-Verbrauch.",
-    "last_seen": "2026-07-06"
+    "last_seen": "2026-08-20"
   },
   {
     "slug": "chrome-devtools-mcp",
@@ -13441,7 +13490,7 @@
     "slug": "deeptutor",
     "title": "DeepTutor",
     "tagline": "DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning)…",
-    "meta": "★ 36.416 · Python",
+    "meta": "★ 36.594 · Python",
     "image": "/assets/discover/og/deeptutor.webp",
     "source": "GitHub",
     "date": "2026-07-16",
@@ -13449,7 +13498,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 36416,
+    "stars": 36594,
     "lite": false,
     "headline": "Yapay zekâ destekli kişiselleştirilmiş eğitim",
     "last_review": "2026-08-20",
@@ -13502,6 +13551,13 @@
         "onceki_yildiz": 35981,
         "surum": "v1.5.14",
         "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 36594,
+        "onceki_yildiz": 36416,
+        "surum": "v1.5.15",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "DeepTutor is a lifelong learning platform that offers personalized education processes using student data.",
@@ -13569,7 +13625,7 @@
     "slug": "posthog",
     "title": "Posthog",
     "tagline": "PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session…",
-    "meta": "★ 37.789 · Python",
+    "meta": "★ 37.805 · Python",
     "image": "/assets/discover/og/posthog.webp",
     "source": "GitHub",
     "date": "2026-07-17",
@@ -13577,7 +13633,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 37789,
+    "stars": 37805,
     "lite": false,
     "headline": "Ürün geliştirme için yapay zekâ gözlemlenebilirliği",
     "last_review": "2026-08-20",
@@ -13686,6 +13742,13 @@
         "onceki_yildiz": 37777,
         "surum": "desktop-v0.60.313",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 37805,
+        "onceki_yildiz": 37789,
+        "surum": "desktop-v0.60.317",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "PostHog provides artificial intelligence observability, analysis and session replay for product development processes.",
@@ -13693,7 +13756,7 @@
     "tagline_pt": "PostHog fornece observabilidade de inteligência artificial, análise e reprodução de sessão para processos de desenvolvimento de produtos.",
     "tagline_es": "PostHog proporciona observabilidad, análisis y repetición de sesiones de inteligencia artificial para procesos de desarrollo de productos.",
     "tagline_de": "PostHog bietet Beobachtbarkeit, Analyse und Sitzungswiedergabe durch künstliche Intelligenz für Produktentwicklungsprozesse.",
-    "last_seen": "2026-07-20"
+    "last_seen": "2026-08-20"
   },
   {
     "slug": "bonsai-demo",
@@ -14557,7 +14620,7 @@
     "slug": "transcribe-cpp",
     "title": "Transcribe.cpp",
     "tagline": "Transcribe.cpp, 16'dan fazla model ailesini destekleyen ve C++ diliyle geliştirilen bir konuşmayı metne dönüştürme…",
-    "meta": "★ 1.802 · C++",
+    "meta": "★ 1.816 · C++",
     "image": "/assets/discover/og/transcribe-cpp.webp",
     "source": "GitHub",
     "date": "2026-07-21",
@@ -14565,7 +14628,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 1802,
+    "stars": 1816,
     "lite": false,
     "headline": "Yerel sistemlerde hızlı konuşma dönüştürme",
     "last_review": "2026-08-20",
@@ -14583,6 +14646,13 @@
         "onceki_yildiz": 1673,
         "surum": "v0.2.0",
         "surum_tarihi": "2026-08-17"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 1816,
+        "onceki_yildiz": 1802,
+        "surum": "v0.2.1",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "Transcribe.cpp is a speech-to-text converter developed in C++ language that supports more than 16 model families.",
@@ -15028,14 +15098,14 @@
     "slug": "croc",
     "title": "Croc",
     "tagline": "Croc, iki bilgisayar arasında uçtan uca şifreleme (end-to-end encryption) kullanarak güvenli dosya ve veri aktarımı sağlayan…",
-    "meta": "★ 39.942 · Go",
+    "meta": "★ 39.973 · Go",
     "image": "/assets/discover/og/croc.webp",
     "source": "GitHub",
     "date": "2026-07-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 39942,
+    "stars": 39973,
     "lite": false,
     "headline": "Güvenli ve kolay dosya transferi",
     "last_review": "2026-08-20",
@@ -15095,6 +15165,13 @@
         "onceki_yildiz": 39923,
         "surum": "v11.2.2",
         "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 39973,
+        "onceki_yildiz": 39942,
+        "surum": "v11.2.3",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "Croc provides secure file and data transfer between two computers using end-to-end encryption.",
@@ -18049,7 +18126,7 @@
     "slug": "semantica",
     "title": "Semantica",
     "tagline": "Semantica, yapay zekâ sistemleri için bağlamsal veri yönetimi sağlayan çizge tabanlı bir altyapı (graph-native infrastructure).",
-    "meta": "★ 9.180 · Python",
+    "meta": "★ 9.708 · Python",
     "image": "/assets/discover/og/semantica.webp",
     "source": "GitHub",
     "date": "2026-08-08",
@@ -18057,7 +18134,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 9180,
+    "stars": 9708,
     "lite": false,
     "headline": "Yapay zekâ ajanınıza kalıcı hafıza",
     "tagline_en": "Semantica is a graph-native infrastructure that provides contextual data management for artificial intelligence systems.",
@@ -18097,6 +18174,13 @@
         "onceki_yildiz": 7891,
         "surum": "v0.6.5",
         "surum_tarihi": "2026-08-11"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 9708,
+        "onceki_yildiz": 9180,
+        "surum": "v0.6.6",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_fr": "Semantica est une infrastructure graphique native qui fournit une gestion de données contextuelles pour les systèmes d'intelligence artificielle.",
@@ -18773,7 +18857,7 @@
     "slug": "diagram-design",
     "title": "Diagram Design",
     "tagline": "Cathryn Lavery tarafından geliştirilen diagram-design, yapay zekâ destekli kodlama aracı Claude Code için hazırlanan 29 farklı…",
-    "meta": "★ 22.596 · HTML",
+    "meta": "★ 23.886 · HTML",
     "image": "/assets/discover/og/diagram-design.webp",
     "source": "GitHub",
     "date": "2026-08-13",
@@ -18781,7 +18865,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 22596,
+    "stars": 23886,
     "lite": false,
     "headline": "Yapay zekâ ile profesyonel diyagramlar oluşturun",
     "tagline_en": "Diagram-design, developed by Cathryn Lavery, consists of 29 different models prepared for the artificial intelligence-supported coding tool Claude Code.",
@@ -18810,6 +18894,11 @@
         "tarih": "2026-08-19",
         "yildiz": 22596,
         "onceki_yildiz": 21326
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 23886,
+        "onceki_yildiz": 22596
       }
     ],
     "last_seen": "2026-08-16"
@@ -19533,7 +19622,7 @@
         "surum_tarihi": "2026-08-18"
       }
     ],
-    "last_seen": "2026-08-19"
+    "last_seen": "2026-08-20"
   },
   {
     "slug": "ai-memory",
@@ -19581,13 +19670,13 @@
         "surum_tarihi": "2026-08-19"
       }
     ],
-    "last_seen": "2026-08-19"
+    "last_seen": "2026-08-20"
   },
   {
     "slug": "openviking",
     "title": "OpenViking",
     "tagline": "Volcengine tarafından geliştirilen OpenViking, yapay zekâ ajanları için kendi kendini geliştiren bir bağlam veritabanı sunuyor.",
-    "meta": "★ 29.066 · Python",
+    "meta": "★ 30.721 · Python",
     "image": "/assets/discover/og/openviking.webp",
     "source": "GitHub",
     "date": "2026-08-18",
@@ -19595,7 +19684,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 29066,
+    "stars": 30721,
     "lite": false,
     "headline": "Yapay zekâ ajanları için dosya sistemli hafıza",
     "tagline_en": "Developed by Volcengine, OpenViking offers a self-improving context database for AI agents.",
@@ -19611,9 +19700,16 @@
         "onceki_yildiz": 29050,
         "surum": "v0.4.15",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 30721,
+        "onceki_yildiz": 29066,
+        "surum": "v0.4.15",
+        "surum_tarihi": "2026-08-18"
       }
     ],
-    "last_seen": "2026-08-19"
+    "last_seen": "2026-08-20"
   },
   {
     "slug": "motrix",
@@ -19755,5 +19851,159 @@
       }
     ],
     "last_seen": "2026-08-19"
+  },
+  {
+    "slug": "modular",
+    "title": "Modular",
+    "tagline": "A plataforma Modular inclui o motor MAX, desenvolvido para rodar modelos de inteligência artificial, e a linguagem de…",
+    "meta": "★ 27.449 · Mojo",
+    "image": "/assets/discover/og/modular.webp",
+    "source": "GitHub",
+    "date": "2026-08-20",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 27449,
+    "lite": false,
+    "headline": "Yapay zekâ projeleri için yüksek performanslı altyapı",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz",
+    "tagline_en": "A plataforma Modular inclui o motor MAX, desenvolvido para rodar modelos de inteligência artificial, e a linguagem de…",
+    "tagline_fr": "Une plate-forme modulaire comprenant le moteur MAX, conçue pour les modèles d'intelligence artificielle, et un langage de…",
+    "tagline_pt": "A plataforma Modular inclui o motor MAX, desenvolvido para rodar modelos de inteligência artificial, e a linguagem de…",
+    "tagline_es": "Una plataforma Modular que incluye el motor MAX, diseñada para rodar modelos de inteligencia artificial, y un lenguaje de…",
+    "tagline_de": "Eine modulare Plattform mit MAX-Motor, gelenkt zum Fahren künstlicher Intelligenzmodelle und einer Sprache, die…",
+    "last_review": "2026-08-20",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 27449,
+        "onceki_yildiz": 27442,
+        "surum": "max/v26.5.0",
+        "surum_tarihi": "2026-08-11"
+      }
+    ]
+  },
+  {
+    "slug": "openlogi",
+    "title": "OpenLogi",
+    "tagline": "OpenLogi é um software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech.",
+    "meta": "★ 10.999 · Rust",
+    "image": "/assets/discover/og/openlogi.webp",
+    "source": "GitHub",
+    "date": "2026-08-20",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 10999,
+    "lite": false,
+    "headline": "Logitech cihazlar için açık kaynaklı yönetim",
+    "tagline_en": "OpenLogi and software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech.",
+    "tagline_fr": "OpenLogi et logiciels alternatifs locaux et code ouvert développés pour la gestion des périphériques Logitech.",
+    "tagline_pt": "OpenLogi e software alternativo local e de código aberto desenvolvido para gerenciamento periféricos Logitech.",
+    "tagline_es": "OpenLogi y software alternativo local y de código abierto diseñado para gerenciar periféricos Logitech.",
+    "tagline_de": "OpenLogi und alternative lokale Software und Code wurden jedoch für die Verwendung mit Logitech-Peripheriegeräten entwickelt.",
+    "last_review": "2026-08-20",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 10999,
+        "onceki_yildiz": 10988,
+        "surum": "v0.7.1",
+        "surum_tarihi": "2026-08-15"
+      }
+    ]
+  },
+  {
+    "slug": "substrate",
+    "title": "Substrate",
+    "tagline": "Desenvolvido com a linguagem Go, o Agent Substrate oferece um runtime básico para agentes de inteligência artificial.",
+    "meta": "★ 1.276 · Go",
+    "image": "/assets/discover/og/substrate.webp",
+    "source": "GitHub",
+    "date": "2026-08-20",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1276,
+    "lite": false,
+    "headline": "Yapay zekâ ajanları için ölçeklenebilir altyapı",
+    "tagline_en": "Desenvolvido com a linguagem Go, o Agent Substrate oferece um runtime básico para agentes de inteligência artificial.",
+    "tagline_fr": "Conçu avec le langage Go, l'agent Substrate offre un runtime de base pour les agents d'intelligence artificielle.",
+    "tagline_pt": "Desenvolvido com a linguagem Go, o Agent Substrate oferece um runtime básico para agentes de inteligência artificial.",
+    "tagline_es": "Desarrollado con el lenguaje Go, el Agent Substrate ofrece un tiempo de ejecución básico para agentes de inteligencia artificial.",
+    "tagline_de": "Entworfen mit der Go-Sprache, bietet Agent Substrate eine grundlegende Laufzeit für künstliche Intelligenz-Agenten.",
+    "last_review": "2026-08-20",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 1276,
+        "onceki_yildiz": 1275,
+        "surum": "v0.0.0",
+        "surum_tarihi": "2026-05-19"
+      }
+    ]
+  },
+  {
+    "slug": "google-timeline-visualizer",
+    "title": "Google Timeline Visualizer",
+    "tagline": "O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar rotas de viagem…",
+    "meta": "★ 882 · Kotlin",
+    "image": "/assets/discover/og/google-timeline-visualizer.webp",
+    "source": "GitHub",
+    "date": "2026-08-20",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 882,
+    "lite": false,
+    "headline": "Konum geçmişinizi hareketli videoya dönüştürün",
+    "tagline_en": "O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar routes de viagem…",
+    "tagline_fr": "Le Google Timeline Visualizer, qui visualise les données de l'historique de localisation de Google, permet d'analyser les itinéraires de voyage…",
+    "tagline_pt": "O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar rotas de viagem…",
+    "tagline_es": "El Google Timeline Visualizer, que visualiza los datos históricos de localización de Google, permite analizar rutas de viaje…",
+    "tagline_de": "Der Google Timeline Visualizer ermöglicht die Visualisierung von Google-Lokalisierungsdaten und die Analyse von Reiserouten …",
+    "last_review": "2026-08-20",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 882,
+        "onceki_yildiz": 866,
+        "surum": "v2.2.0",
+        "surum_tarihi": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "slug": "ai-infra-guard",
+    "title": "AI-Infra-Guard",
+    "tagline": "Desenvolvido pela Tencent, o AI-Infra-Guard é uma plataforma abrangente de red teaming que protege ecossistemas de…",
+    "meta": "★ 4.746 · Python",
+    "image": "/assets/discover/og/ai-infra-guard.webp",
+    "source": "GitHub",
+    "date": "2026-08-20",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 4746,
+    "lite": false,
+    "headline": "Yapay zekâ altyapınız için güvenlik denetimi",
+    "tagline_en": "Desenvolvido pela Tencent, o AI-Infra-Guard e uma plataforma abragente de red teaming que protege ecossistemas de…",
+    "tagline_fr": "Développé par Tencent, ou AI-Infra-Guard et une plate-forme exclusive de Red Teaming qui protège les écosystèmes de…",
+    "tagline_pt": "Desenvolvido pela Tencent, o AI-Infra-Guard e uma plataforma abragente de red teaming que protege ecossistemas de…",
+    "tagline_es": "Desarrollado por Tencent, AI-Infra-Guard y una plataforma abragente de red teaming que protege los ecosistemas de…",
+    "tagline_de": "Entworfen von Tencent, dem AI-Infra-Guard und einer abtragenden Plattform für Red Teaming, die die Umweltschützer von… schützt.",
+    "last_review": "2026-08-20",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 4746,
+        "onceki_yildiz": 4744,
+        "surum": "v4.5.2",
+        "surum_tarihi": "2026-08-17"
+      }
+    ]
   }
 ]

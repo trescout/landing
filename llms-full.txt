@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-20 · 449 araç · 523 terim
+Son güncelleme: 2026-08-20 · 454 araç · 526 terim
 
 ---
 
@@ -1173,6 +1173,48 @@ Hayır, bazı modeller yaratıcılıkta, bazıları ise mantıksal analizde veya
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-capabilities/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# AI Code Editor nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-20
+
+Yazılım geliştirirken hataları anlık tespit eden ve kod yazımına yardımcı olan akıllı düzenleme aracıdır.
+
+## Tanım
+Bu editörler, sadece yazı yazmanızı sağlamakla kalmaz, yazdığınız kodun mantığını anlayarak bir sonraki satırı tahmin eder. Hata yaptığınızda sizi uyarır ve daha verimli yazmanız için önerilerde bulunur. Sanki yanınızda size sürekli rehberlik eden bir yazılım uzmanı varmış gibi çalışır.
+
+## Bir benzetmeyle
+Yabancı dilde bir metin yazarken sürekli düzeltmeler yapan ve cümlelerinizi tamamlayan akıllı bir klavye asistanı gibidir.
+
+## Nasıl çalışır?
+Editörü açıp kod yazmaya başladığınızda, sistem arka planda yapay zekâ modellerini çalıştırır. Siz yazdıkça o, bağlamı analiz eder ve en uygun kod parçacıklarını önerir.
+
+## Nerede kullanılır?
+Modern yazılım geliştirme süreçlerinde ve profesyonel kodlama ortamlarında kullanılır.
+
+## Sık karıştırılanlar
+Sadece basit bir metin düzenleyici ile karıştırılmamalıdır; bu araçlar kodun çalışma mantığını bilir.
+
+## Sıkça sorulanlar
+
+**Kodumu tamamen bu editör mü yazar?**  
+Hayır, editör size öneriler sunar ancak kararları ve mimariyi siz belirlersiniz.
+
+**Hangi dilleri destekler?**  
+Genellikle popüler olan tüm programlama dillerini destekler.
+
+## İlgili terimler
+- [AI Coding Agent](/dictionary/ai-coding-agent/)
+- [IDE](/dictionary/ide/)
+- [Coding Assistant](/dictionary/coding-assistant/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-code-editor/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -7018,6 +7060,50 @@ Pek çok ücretsiz ve açık kaynaklı seçeneği mevcuttur.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/download-manager/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# DPI nedir?
+
+> Dots Per Inch
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-20
+
+Bir ekranın veya yazıcının görüntü kalitesini belirleyen, inç başına düşen nokta sayısıdır.
+
+## Tanım
+DPI, bir cihazın bir inçlik alana kaç tane nokta sığdırabildiğini ifade eden bir ölçü birimidir. Bu sayı ne kadar yüksek olursa, görüntü o kadar keskin ve detaylı görünür. Özellikle grafik tasarım ve baskı dünyasında, işin kalitesini belirleyen temel standartlardan biridir.
+
+## Bir benzetmeyle
+Bir resmi boyama kitabındaki küçük kareleri doldurmak gibi düşünün; kareler ne kadar küçük ve sık olursa, resim o kadar gerçeğe yakın ve pürüzsüz görünür.
+
+## Nasıl çalışır?
+Dijital bir dosyayı yazdırırken veya bir ekran çözünürlüğü ayarlarken DPI değerine bakılır. Yüksek DPI, daha fazla netlik demektir ancak dosya boyutunun da büyümesine neden olabilir.
+
+## Nerede kullanılır?
+Fotoğraf baskılarında, monitör ayarlarında ve profesyonel tasarım yazılımlarında karşınıza çıkar.
+
+## Sık karıştırılanlar
+PPI (Pixels Per Inch) ile sıkça karıştırılır; DPI daha çok fiziksel baskı, PPI ise ekran pikselleriyle ilgilidir.
+
+## Sıkça sorulanlar
+
+**DPI yüksek olursa ne olur?**  
+Görüntü çok daha net ve kaliteli görünür, ancak baskı veya dosya boyutu artar.
+
+**Ekran için DPI önemli mi?**  
+Ekranlarda genellikle PPI kullanılır, ancak DPI terimi bazen ekran yoğunluğunu tanımlamak için genel bir ifade olarak da kullanılır.
+
+## İlgili terimler
+- [Frontend Stack](/dictionary/frontend-stack/)
+- [Design Tool](/dictionary/design-tool/)
+- [Rendering](/dictionary/rendering/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/dpi/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -15284,6 +15370,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Red Teaming nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-20
+
+Bir sistemin güvenliğini test etmek için kötü niyetli bir kullanıcı gibi davranarak zayıf noktaları bulma yöntemidir.
+
+## Tanım
+Red teaming, bir sistemin savunmasını aşmaya çalışan bir ekibin yaptığı simülasyondur. Bu ekip, saldırganların kullanabileceği yöntemleri kullanarak sistemin ne kadar dayanıklı olduğunu ölçer. Amaç, gerçek bir saldırı gerçekleşmeden önce tüm açıkları kapatmaktır.
+
+## Bir benzetmeyle
+Bir bankanın kapılarını ve alarmlarını test etmek için profesyonel bir hırsız kiralayıp, bankayı soymaya çalışmasını istemek gibidir.
+
+## Nasıl çalışır?
+Güvenlik uzmanları, sistemin sınırlarını zorlar, şifreleri kırmaya çalışır veya hatalı komutlar gönderir. Çıkan sonuçlar raporlanır ve güvenlik duvarları buna göre güçlendirilir.
+
+## Nerede kullanılır?
+Büyük şirketlerin siber güvenlik departmanlarında ve yapay zekâ modellerinin güvenliğinin test edilmesinde kullanılır.
+
+## Sık karıştırılanlar
+Sıradan bir güvenlik taraması ile karıştırılmamalıdır; bu, yaratıcı ve insan odaklı bir saldırı simülasyonudur.
+
+## Sıkça sorulanlar
+
+**Neden bu yönteme ihtiyaç var?**  
+Çünkü standart güvenlik testleri her zaman yaratıcı saldırı yöntemlerini yakalayamaz.
+
+**Yapay zekâ modellerinde nasıl uygulanır?**  
+Modele zararlı sorular sorarak, modelin kuralları çiğneyip çiğnemediği kontrol edilir.
+
+## İlgili terimler
+- [Vulnerability Scanning](/dictionary/vulnerability-scanning/)
+- [Cybersecurity Skills](/dictionary/cybersecurity-skills/)
+- [Adversarial Analysis](/dictionary/adversarial-analysis/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/red-teaming/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Refactoring nedir?
 
 **Kategori:** Geliştirme  
@@ -23064,17 +23192,17 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını sağlayan C ve C++ tabanlı bir çıkarım (inference) kütüphanesidir. Yazılım, düşük bellek kullanımı ve yüksek performans odaklı yapısıyla yerel cihazlarda yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.
 
-- ★ 124.753
+- ★ 124.773
 - C++
 - GitHub Trending · 2026-06-08
 
 TreScout notu: Dil modellerini kendi bilgisayarınızda, sunucu kiralamadan çalıştırır. Kurulum artık kolay ama beklentiyi ayarlayın: Küçük modeller hızlı, büyükleri belleğinizi zorlar ve bulut hizmetlerinin cevap kalitesini beklemeyin.
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 124.753 → 124.773, son sürüm b10507 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 124.705 → 124.753, son sürüm b10506 (20 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 124.477 → 124.705, son sürüm b10502 (19 Ağustos 2026).
 - 18 Ağustos 2026: Yıldız 124.267 → 124.477, son sürüm b10488 (18 Ağustos 2026).
-- 17 Ağustos 2026: Yıldız 124.252 → 124.267, son sürüm b10455 (17 Ağustos 2026).
 
 ## Ne kazandırır?
 - Büyük dil modellerini standart donanımlarda verimli çalıştırır.
@@ -25064,12 +25192,13 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Vite, modern web projeleri için hızlı bir geliştirme ortamı ve derleme aracı (build tool) sunuyor. Yerel ES modüllerini kullanarak geliştirme sürecindeki bekleme sürelerini azaltan bir ön yüz araç seti (frontend tooling) işlevi görüyor.
 
-- ★ 82.245
+- ★ 82.419
 - GitHub Trending · 2026-06-07
 
 TreScout notu: Geliştirme sırasında kaydettiğiniz değişikliği anında ekrana yansıtır, büyük projede dakikalara çıkan beklemeyi saniyeye indirir. Eski araçlardan geçiyorsanız kullandığınız eklentilerin burada karşılığı var mı diye bakın. Yeni bir web projesine başlıyorsanız varsayılan tercih sayılabilir.
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 82.245 → 82.419, son sürüm v8.2.2 (20 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 82.169 → 82.245, son sürüm plugin-legacy@8.2.3 (6 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 81.238 → 82.169, son sürüm create-vite@9.1.2 (30 Temmuz 2026).
 
@@ -26307,11 +26436,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Open Interpreter, yerel bilgisayar ortamında kod çalıştırarak yazılım geliştirme süreçlerini otomatize eden bir kodlama ajanı (coding agent) sunuyor. Düşük maliyetli dil modelleriyle uyumlu çalışacak şekilde tasarlanan bu araç, karmaşık görevleri doğrudan terminal üzerinden yürütmeyi sağlıyor.
 
-- ★ 68.054
+- ★ 68.079
 - Rust
 - GitHub Trending · 2026-07-16
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 68.054 → 68.079, son sürüm rust-v0.0.40 (20 Ağustos 2026).
 - 18 Ağustos 2026: Yıldız 68.017 → 68.054, son sürüm rust-v0.0.39 (17 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 67.509 → 68.017, son sürüm rust-v0.0.38 (15 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 65.626 → 67.509, son sürüm rust-v0.0.34 (18 Temmuz 2026).
@@ -30734,67 +30864,19 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Cihazlar arası güvenli ağ bağlantısı
-
-Tailscale, WireGuard protokolünü iki faktörlü kimlik doğrulama (two-factor authentication) ile birleştirerek güvenli ağ bağlantıları kurmayı kolaylaştırıyor. Go diliyle geliştirilen bu araç, karmaşık ağ yapılandırmalarına ihtiyaç duymadan cihazlar arası şifreli iletişim sağlıyor.
-
-- ★ 34.858
-- Go
-- GitHub Trending · 2026-07-11
-
-## Güncelleme
-- 6 Ağustos 2026: Yıldız 34.778 → 34.858, son sürüm v1.102.2 (4 Ağustos 2026).
-- 4 Ağustos 2026: Yıldız 34.704 → 34.778, son sürüm v1.102.1 (3 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 33.734 → 34.704, son sürüm v1.98.10 (28 Temmuz 2026).
-
-## Ne kazandırır?
-- WireGuard protokolü ile şifreli iletişim
-- İki faktörlü kimlik doğrulama desteği
-- Karmaşık ağ yapılandırması gerektirmeyen kurulum
-
-## Kurulum
-
-**Go ile kurulum**
-
-```
-go install tailscale.com/cmd/tailscale{,d}
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Tailscale kullanarak farklı cihazlarım arasında nasıl güvenli bir ağ kurabilirim ve bu süreçte WireGuard protokolünün sağladığı şifreleme avantajlarından nasıl yararlanabilirim? İki faktörlü kimlik doğrulamanın ağ güvenliğime katkılarını ve cihazlarımı birbirine bağlamak için izlemem gereken temel adımları açıklar mısın?
-
-- **Kimin için:** Cihazları arasında karmaşık ağ ayarlarıyla uğraşmadan güvenli ve şifreli bir bağlantı kurmak isteyen herkes için uygundur. 
-- **Lisans:** BSD-3-Clause 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/tailscale/tailscale)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/tailscale/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Terminal için yapay zekâ kodlama ajanı
 
 DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel alan bir yapay zekâ kodlama ajanıdır. Önek önbelleği (prefix-cache) kararlılığına odaklanan bu araç, geliştiricilerin uzun süreli oturumlarda kesintisiz kodlama desteği almasını sağlar.
 
-- ★ 34.808
+- ★ 34.888
 - Go
 - GitHub Trending · 2026-08-03
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 34.808 → 34.888, son sürüm desktop-v1.30.0 (20 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 34.753 → 34.808, son sürüm desktop-v1.29.0 (18 Ağustos 2026).
 - 18 Ağustos 2026: Yıldız 34.644 → 34.753, son sürüm desktop-v1.27.0 (18 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 34.627 → 34.644, son sürüm desktop-v1.26.0 (17 Ağustos 2026).
-- 16 Ağustos 2026: Yıldız 34.616 → 34.627, son sürüm desktop-v1.25.3 (16 Ağustos 2026).
 
 ## Ne kazandırır?
 - DeepSeek modelleriyle uzun süreli kesintisiz kodlama desteği sağlar.
@@ -30846,6 +30928,54 @@ Terminal Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/deepseek-reasonix/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Cihazlar arası güvenli ağ bağlantısı
+
+Tailscale, WireGuard protokolünü iki faktörlü kimlik doğrulama (two-factor authentication) ile birleştirerek güvenli ağ bağlantıları kurmayı kolaylaştırıyor. Go diliyle geliştirilen bu araç, karmaşık ağ yapılandırmalarına ihtiyaç duymadan cihazlar arası şifreli iletişim sağlıyor.
+
+- ★ 34.858
+- Go
+- GitHub Trending · 2026-07-11
+
+## Güncelleme
+- 6 Ağustos 2026: Yıldız 34.778 → 34.858, son sürüm v1.102.2 (4 Ağustos 2026).
+- 4 Ağustos 2026: Yıldız 34.704 → 34.778, son sürüm v1.102.1 (3 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 33.734 → 34.704, son sürüm v1.98.10 (28 Temmuz 2026).
+
+## Ne kazandırır?
+- WireGuard protokolü ile şifreli iletişim
+- İki faktörlü kimlik doğrulama desteği
+- Karmaşık ağ yapılandırması gerektirmeyen kurulum
+
+## Kurulum
+
+**Go ile kurulum**
+
+```
+go install tailscale.com/cmd/tailscale{,d}
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Tailscale kullanarak farklı cihazlarım arasında nasıl güvenli bir ağ kurabilirim ve bu süreçte WireGuard protokolünün sağladığı şifreleme avantajlarından nasıl yararlanabilirim? İki faktörlü kimlik doğrulamanın ağ güvenliğime katkılarını ve cihazlarımı birbirine bağlamak için izlemem gereken temel adımları açıklar mısın?
+
+- **Kimin için:** Cihazları arasında karmaşık ağ ayarlarıyla uğraşmadan güvenli ve şifreli bir bağlantı kurmak isteyen herkes için uygundur. 
+- **Lisans:** BSD-3-Clause 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/tailscale/tailscale)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/tailscale/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -32569,6 +32699,41 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ projeleri için yüksek performanslı altyapı
+
+A plataforma Modular inclui o motor MAX, desenvolvido para rodar modelos de inteligência artificial, e a linguagem de programação Mojo, que combina as capacidades da linguagem Python com a velocidade de programação de sistemas. Esta tecnologia foi projetada para acelerar a infraestrutura de inteligência artificial e simplificar processos complexos de software.
+
+- ★ 27.442
+- Mojo
+- GitHub Trending · 2026-08-20
+
+## Ne kazandırır?
+- Yapay zekâ modellerini çalıştırmak için optimize edilmiş MAX motorunu kullanın.
+- Python dilinin kullanım kolaylığını sistem programlama hızıyla birleştiren Mojo dilini keşfedin.
+- Yapay zekâ geliştirme ve dağıtım süreçlerini tek bir platform üzerinden yönetin.
+
+## Nasıl başlanır?
+
+Platformu kullanmaya başlamak için resmî web sitesindeki rehberlerden faydalanabilirsiniz. Yapay zekâ modellerini çalıştırmak ve MAX çerçevesini kullanmak için MAX hızlı başlangıç kılavuzuna, Mojo programlama diliyle çalışmaya başlamak için ise Mojo hızlı başlangıç kılavuzuna göz atmanız yeterlidir.
+- [Resmî kaynak →](https://docs.modular.com/)
+
+- **Kimin için:** Yapay zekâ modellerini daha hızlı çalıştırmak ve sistem seviyesinde yazılım geliştirme süreçlerini optimize etmek isteyen yazılım geliştiriciler için uygundur. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/modular/modular)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/modular/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Android mesajlarınızı farklı platformlara yönlendirin
 
 SmsForwarder, Android cihazlardaki kısa mesajları, çağrıları ve uygulama bildirimlerini belirlenen kurallar çerçevesinde farklı mesajlaşma platformlarına veya web kancalarına (webhook) yönlendiren bir araçtır. Kullanıcıların cihazlarını uzaktan yönetmesine ve pil durumu ile rehber gibi verilere erişmesine olanak tanıyan bu yazılım, Kotlin diliyle geliştirilmiştir.
@@ -32888,6 +33053,46 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Linux sistemler için modern yapılandırma
+
+Basecamp tarafından geliştirilen Omarchy, Linux işletim sistemleri için modern ve özgün bir yapılandırma aracıdır. Sistem kurulumlarını standartlaştırmak ve yönetimi kolaylaştırmak amacıyla kabuk betiği (shell script) tabanlı bir yaklaşım sunar.
+
+- ★ 26.839
+- Shell
+- GitHub Trending · 2026-08-17
+
+## Güncelleme
+- 20 Ağustos 2026: Yıldız 25.539 → 26.839, son sürüm v4.0.0 (14 Ağustos 2026).
+- 17 Ağustos 2026: Yıldız 25.537 → 25.539, son sürüm v4.0.0 (14 Ağustos 2026).
+
+## Ne kazandırır?
+- Sistem kurulumlarını standartlaştırarak yönetimi kolaylaştırır
+- Kullanıcı deneyimini özgün temalarla kişiselleştirir
+- Geliştirme araçları ve terminal uygulamalarıyla bütünleşik çalışır
+
+## Nasıl başlanır?
+
+Omarchy kullanmaya başlamak için omarchy.org adresini ziyaret ederek resmî web sitesindeki kurulum rehberini inceleyebilirsiniz. Sistemin tüm detaylarını ve yapılandırma seçeneklerini öğrenmek için learn.omacom.io adresindeki çevrim içi el kitabına göz atmanız yeterlidir.
+- [Resmî kaynak →](https://omarchy.org)
+
+- **Kimin için:** Linux işletim sistemini standart ve modern bir yapıda kullanmak isteyen kullanıcılar için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/basecamp/omarchy)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Shell Script Script Shell Terminal
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/omarchy/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Sızma testleri için yapay zekâ yönlendirme
 
 Reverse-skill, tersine mühendislik ve sızma testi süreçleri için yapay zekâ destekli bir yönlendirme paketi (routing pack) sunuyor. Araç zinciri önyükleme (toolchain bootstrapping) ve kendi kendine gelişen bilgi tabanı özellikleriyle Claude Code, Cursor ve Cline gibi kodlama araçlarıyla entegre çalışıyor.
@@ -32979,6 +33184,60 @@ Self-hosted Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-generative-ai/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Yüksek Performanslı Algoritmik İşlem Platformu
+
+Nautilus Trader, Rust diliyle geliştirilmiş, deterministik olay güdümlü mimariye (event-driven architecture) sahip bir alım satım motorudur (trading engine). Yüksek performanslı finansal sistemler için üretim seviyesinde (production-grade) altyapı çözümleri sunar.
+
+- ★ 26.536
+- Rust
+- GitHub Trending · 2026-06-18
+
+## Güncelleme
+- 20 Ağustos 2026: Yıldız 25.223 → 26.536, son sürüm v1.231.0 (2 Ağustos 2026).
+- 3 Ağustos 2026: Yıldız 25.204 → 25.223, son sürüm v1.231.0 (2 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 23.912 → 25.204, son sürüm v1.230.0 (29 Haziran 2026).
+
+## Ne kazandırır?
+- Rust tabanlı hızlı ve güvenli alım satım altyapısı
+- Araştırmadan canlıya kod değişikliği olmadan geçiş
+- Çoklu borsa ve varlık sınıfı desteği
+
+## Kurulum
+
+**Standart kurulum**
+
+```
+pip install -U nautilus_trader
+```
+
+**Özel paket deposundan kurulum**
+
+```
+pip install -U nautilus_trader --index-url=https://packages.nautechsystems.io/simple
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+NautilusTrader alım satım motorunu kullanarak çoklu borsa desteğine sahip, Rust çekirdeği üzerinde çalışan deterministik bir alım satım stratejisi tasarlamam gerekiyor. Python kontrol düzlemini kullanarak strateji mantığını nasıl kurgulayabilirim ve araştırma ortamından canlı ortama geçişte kod tutarlılığını sağlamak için hangi modüler yapıları kullanmalıyım?
+
+- **Kimin için:** Finansal piyasalarda yüksek performanslı, deterministik ve ölçeklenebilir alım satım sistemleri geliştirmek isteyen profesyonel yazılımcılar ve araştırmacılar içindir. 
+- **Lisans:** LGPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/nautechsystems/nautilus_trader)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/nautilus-trader/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -33158,98 +33417,6 @@ Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/developer-portfolios/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Linux sistemler için modern yapılandırma
-
-Basecamp tarafından geliştirilen Omarchy, Linux işletim sistemleri için modern ve özgün bir yapılandırma aracıdır. Sistem kurulumlarını standartlaştırmak ve yönetimi kolaylaştırmak amacıyla kabuk betiği (shell script) tabanlı bir yaklaşım sunar.
-
-- ★ 25.539
-- Shell
-- GitHub Trending · 2026-08-17
-
-## Güncelleme
-- 17 Ağustos 2026: Yıldız 25.537 → 25.539, son sürüm v4.0.0 (14 Ağustos 2026).
-
-## Ne kazandırır?
-- Sistem kurulumlarını standartlaştırarak yönetimi kolaylaştırır
-- Kullanıcı deneyimini özgün temalarla kişiselleştirir
-- Geliştirme araçları ve terminal uygulamalarıyla bütünleşik çalışır
-
-## Nasıl başlanır?
-
-Omarchy kullanmaya başlamak için omarchy.org adresini ziyaret ederek resmî web sitesindeki kurulum rehberini inceleyebilirsiniz. Sistemin tüm detaylarını ve yapılandırma seçeneklerini öğrenmek için learn.omacom.io adresindeki çevrim içi el kitabına göz atmanız yeterlidir.
-- [Resmî kaynak →](https://omarchy.org)
-
-- **Kimin için:** Linux işletim sistemini standart ve modern bir yapıda kullanmak isteyen kullanıcılar için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/basecamp/omarchy)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Shell Script Script Shell Terminal
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/omarchy/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yüksek Performanslı Algoritmik İşlem Platformu
-
-Nautilus Trader, Rust diliyle geliştirilmiş, deterministik olay güdümlü mimariye (event-driven architecture) sahip bir alım satım motorudur (trading engine). Yüksek performanslı finansal sistemler için üretim seviyesinde (production-grade) altyapı çözümleri sunar.
-
-- ★ 25.223
-- Rust
-- GitHub Trending · 2026-06-18
-
-## Güncelleme
-- 3 Ağustos 2026: Yıldız 25.204 → 25.223, son sürüm v1.231.0 (2 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 23.912 → 25.204, son sürüm v1.230.0 (29 Haziran 2026).
-
-## Ne kazandırır?
-- Rust tabanlı hızlı ve güvenli alım satım altyapısı
-- Araştırmadan canlıya kod değişikliği olmadan geçiş
-- Çoklu borsa ve varlık sınıfı desteği
-
-## Kurulum
-
-**Standart kurulum**
-
-```
-pip install -U nautilus_trader
-```
-
-**Özel paket deposundan kurulum**
-
-```
-pip install -U nautilus_trader --index-url=https://packages.nautechsystems.io/simple
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-NautilusTrader alım satım motorunu kullanarak çoklu borsa desteğine sahip, Rust çekirdeği üzerinde çalışan deterministik bir alım satım stratejisi tasarlamam gerekiyor. Python kontrol düzlemini kullanarak strateji mantığını nasıl kurgulayabilirim ve araştırma ortamından canlı ortama geçişte kod tutarlılığını sağlamak için hangi modüler yapıları kullanmalıyım?
-
-- **Kimin için:** Finansal piyasalarda yüksek performanslı, deterministik ve ölçeklenebilir alım satım sistemleri geliştirmek isteyen profesyonel yazılımcılar ve araştırmacılar içindir. 
-- **Lisans:** LGPL-3.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/nautechsystems/nautilus_trader)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Rust Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/nautilus-trader/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -38725,6 +38892,56 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Logitech cihazlar için açık kaynaklı yönetim
+
+OpenLogi é um software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech. Ele permite que os usuários definam atalhos de teclado, configurações de sensibilidade (DPI) e recursos SmartShift sem a necessidade de criar uma conta ou compartilhar dados.
+
+- ★ 10.988
+- Rust
+- GitHub Trending · 2026-08-20
+
+## Ne kazandırır?
+- Hesap oluşturmadan yerel kontrol sağlar
+- Tüm tuşlara özel kısayollar atar
+- Linux dahil çoklu platform desteği sunar
+
+## Kurulum
+
+**Homebrew ile standart kurulum**
+
+```
+brew install --cask openlogi
+```
+
+**En güncel sürümü takip etme**
+
+```
+brew tap aprilnea/tap
+brew install --cask aprilnea/tap/openlogi@latest
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Logitech farem, klavyem ve web kameram üzerinde tam kontrol sağlamak istiyorum. OpenLogi kullanarak tuş atamalarımı, DPI hassasiyet ayarlarımı ve kamera görüntü kontrollerimi nasıl yapılandırabilirim? Özellikle TOML formatındaki yapılandırma dosyası ile cihazlarımı nasıl özelleştirebileceğimi ve uygulama bazlı profilleri nasıl oluşturabileceğimi adım adım açıkla.
+
+- **Kimin için:** Logitech çevre birimlerini hesap zorunluluğu olmadan, daha hafif ve kişiselleştirilebilir bir yazılımla yönetmek isteyen kullanıcılar içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/AprilNEA/OpenLogi)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Local DPI Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/openlogi/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Güçlü disk şifreleme aracı
 
 VeraCrypt, TrueCrypt temel alınarak geliştirilen ve güçlü güvenlik standartları sunan bir disk şifreleme (disk encryption) aracıdır. C diliyle yazılan bu açık kaynaklı yazılım, verilerin güvenliğini sağlamak için çeşitli şifreleme algoritmaları ve kimlik doğrulama yöntemleri kullanır.
@@ -39462,7 +39679,7 @@ G0DM0D3 arayüzünü kullanarak, belirlediğim model sağlayıcıları (OpenRout
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Large Language Models Artificial Intelligence
+Red Teaming Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/g0dm0d3/
@@ -42538,6 +42755,58 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ altyapınız için güvenlik denetimi
+
+Desenvolvido pela Tencent, o AI-Infra-Guard é uma plataforma abrangente de red teaming que protege ecossistemas de inteligência artificial contra vulnerabilidades. Sistema; Ele monitora a segurança da infraestrutura por meio de métodos como verificação de agentes, análise de habilidades e avaliações de segurança de grandes modelos de linguagem.
+
+- ★ 4.744
+- Python
+- GitHub Trending · 2026-08-20
+
+## Ne kazandırır?
+- Yapay zekâ sistemlerindeki güvenlik açıklarını tarar.
+- Ajan yeteneklerini ve model güvenliğini analiz eder.
+- Jailbreak saldırılarına karşı koruma sağlar.
+
+## Kurulum
+
+**Docker ile hızlı kurulum**
+
+```
+git clone https://github.com/Tencent/AI-Infra-Guard.git
+cd AI-Infra-Guard
+# For Docker Compose V2+, replace 'docker-compose' with 'docker compose'
+docker-compose -f docker-compose.images.yml up -d
+```
+
+**Tek komutla otomatik kurulum**
+
+```
+curl https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/refs/heads/main/docker.sh | bash
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+AI-Infra-Guard platformunu kullanarak yapay zekâ altyapımdaki güvenlik açıklarını nasıl tespit edebilirim? Özellikle ajan tabanlı sistemlerdeki yetenek taraması ve jailbreak değerlendirmesi süreçlerini başlatmak için izlemem gereken adımları açıkla.
+
+- **Kimin için:** Yapay zekâ modelleri ve ajan tabanlı sistemler geliştiren, altyapı güvenliğini proaktif şekilde denetlemek isteyen yazılım geliştiriciler ve güvenlik uzmanları içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/Tencent/AI-Infra-Guard)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Red Teaming Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/ai-infra-guard/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Kod deponuzu yapay zekâ ile sorgulayın
 
 Code-graph-rag, büyük kod depolarındaki (monorepo) karmaşık yapıları anlamak ve sorgulamak için bilgi grafikleri (knowledge graphs) ile getirme destekli üretim (RAG) yöntemini birleştiriyor. Geliştiricilerin farklı dillerdeki kod tabanlarını yapay zekâ yardımıyla analiz etmelerine ve düzenlemelerine olanak tanıyor.
@@ -42661,15 +42930,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications) oluşturmaya odaklanan bir TypeScript çerçevesidir (framework). Geliştiricilerin ajan tabanlı iş akışlarını doğrudan uygulama mimarisine entegre etmelerini sağlar.
 
-- ★ 4.535
+- ★ 4.536
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 4.535 → 4.536, son sürüm @agent-native/core@0.164.22 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 4.533 → 4.535, son sürüm @agent-native/core@0.164.21 (20 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 4.533 → 4.533, son sürüm v0.1.245 (19 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 4.529 → 4.533, son sürüm v0.1.244 (19 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 4.528 → 4.529, son sürüm @agent-native/core@0.163.4 (19 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ajan ve kullanıcı arayüzünü tek veritabanında senkronize eder
@@ -43553,16 +43822,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 pi-subagents , Pi platformu üzerinde asenkron alt-ajan delegasyonu süreçlerini yönetmek için geliştirilmiş bir TypeScript kütüphanesidir. Karmaşık iş yüklerini alt-ajanlara dağıtmayı kolaylaştırır.
 
-- ★ 3.214
+- ★ 3.216
 - TypeScript
 - Lisans: yok
 - GitHub Trending · 1 Haziran 2026
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 3.214 → 3.216, son sürüm v0.52.1 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 3.200 → 3.214, son sürüm v0.52.0 (19 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 3.156 → 3.200, son sürüm v0.51.0 (18 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 3.104 → 3.156, son sürüm v0.50.0 (15 Ağustos 2026).
-- 12 Ağustos 2026: Yıldız 3.078 → 3.104, son sürüm v0.47.1 (12 Ağustos 2026).
 
 - **Kimin için:** Pi platformunda ajan geliştirenler 
 - **Zorluk:** İleri · geliştirici kütüphanesi 
@@ -45080,6 +45349,49 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanları için ölçeklenebilir altyapı
+
+Desenvolvido com a linguagem Go, o Agent Substrate oferece um runtime básico para agentes de inteligência artificial. Esta infraestrutura, que suporta diferentes arquiteturas de agentes, visa padronizar os recursos do sistema e os fluxos de trabalho necessários aos agentes.
+
+- ★ 1.275
+- Go
+- GitHub Trending · 2026-08-20
+
+## Ne kazandırır?
+- Ajanları düşük gecikmeyle saniyeler içinde başlatır
+- Bellek ve dosya sistemi durumunu koruyarak süreklilik sağlar
+- Sınırlı kaynakla çok sayıda ajanı aynı anda çalıştırır
+
+## Çalıştırma
+
+**Örnek sayaca istek gönderme**
+
+```
+curl -X POST -H "Host: my-counter-1.demo.actors.resources.substrate.ate.dev" -i http://localhost:8000/
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Yapay zekâ ajanlarını ölçekli bir şekilde çalıştırmak için Substrate altyapısını kullanıyorum. Kubernetes (konteyner yönetim sistemi) üzerinde çalışan bu sistemde, aktörlerin yaşam döngüsünü yönetmek, kaynakları verimli kullanmak ve yüksek yoğunluklu ajan dağıtımları gerçekleştirmek istiyorum. Substrate'in sunduğu performanslı çalışma ortamını kullanarak ajanlarımın durumunu korumak ve hızlı bir şekilde aktif hale getirmek için gerekli yapılandırmayı nasıl optimize edebilirim?
+
+- **Kimin için:** Büyük ölçekli yapay zekâ ajanlarını Kubernetes üzerinde yönetmek ve çalıştırmak isteyen geliştiriciler için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/agent-substrate/substrate)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Runtime Agent Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/substrate/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Kurumsal yapay zekâ ajanları için güvenlik
 
 Uber tarafından geliştirilen ADR, kurumsal yapay zekâ ajanlarını gözlemlenebilirlik, güvenlik kıyaslaması ve tehdit algılama yöntemleriyle koruma altına alıyor. Yazılım, yapay zekâ sistemlerinin güvenliğini artırmak için geliştirilmiş bir güvenlik çerçevesi (framework) sunuyor.
@@ -45322,6 +45634,59 @@ Benchmark Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/harvey-labs/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Konum geçmişinizi hareketli videoya dönüştürün
+
+O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar rotas de viagem ao longo do ano em um mapa. Desenvolvido com a linguagem Kotlin, esta ferramenta cria resumos pessoais de viagens convertendo dados do histórico de localização em gráficos significativos.
+
+- ★ 866
+- Kotlin
+- GitHub Trending · 2026-08-20
+
+## Ne kazandırır?
+- Google Haritalar geçmiş verisini MP4 videoya çevirir
+- Seyahat rotalarını harita üzerinde animasyonla gösterir
+- Kişisel verileri cihazda işleyerek gizliliği korur
+
+## Kurulum
+
+**Gerekli bağımlılıkları yükleme ve çalışt**
+
+```
+python -m pip install -r requirements.txt
+python visualizer.py --input Timeline.json --year 2025 --camera-movement steady \
+--long-trip-compression balanced --output my_trip_2025.mp4
+```
+
+**Geliştirme araçlarını yapılandırma**
+
+```
+./gradlew test lint assembleGithubDebug assemblePlayDebug
+python -m pip install -r requirements-dev.txt
+python -m pytest
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Elimdeki Timeline.json dosyasını kullanarak seyahatlerimi gösteren bir video oluşturmak istiyorum. Python ortamında gerekli bağımlılıkları yükledikten sonra, 2025 yılı verilerimi 'steady' kamera hareketi ve 'balanced' sıkıştırma ayarlarıyla 'my_trip_2025.mp4' adında bir dosyaya dönüştürmek için hangi komutu kullanmalıyım?
+
+- **Kimin için:** Google Haritalar'daki konum geçmişini görselleştirmek ve seyahat anılarını video formatında saklamak isteyen herkes için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/mahlernim/google-timeline-visualizer)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/google-timeline-visualizer/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

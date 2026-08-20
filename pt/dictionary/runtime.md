@@ -34,6 +34,7 @@ Sim, todo software que pode ser executado precisa de um ambiente de trabalho.
 - [Svelte](/pt/discover/svelte/)
 - [Flue](/pt/discover/flue/)
 - [Switchyard](/pt/discover/switchyard/)
+- [Substrate](/pt/discover/substrate/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/runtime/
