@@ -23,9 +23,54 @@ try {
 const escapedHost = HOST.replace(/\./g, '\\.');
 const urlRegex = new RegExp(`<loc>(https://${escapedHost}/[^<]+)</loc>`, 'g');
 const urlMatches = sitemapContent.match(urlRegex) || [];
-const urlList = urlMatches.map(m => m.replace('<loc>', '').replace('</loc>', ''));
+const sitemapUrls = urlMatches.map(m => m.replace('<loc>', '').replace('</loc>', ''));
 
-console.log(`Extracted ${urlList.length} URLs from sitemap.xml for IndexNow ping.`);
+/*
+ * YALNIZ DEĞİŞENLERİ bildir · IndexNow'ın amacı bu.
+ *
+ * 2026-08-20'ye kadar her gün sitemap'in TAMAMI gönderiliyordu (6782 URL).
+ * Uç nokta 200 dönüyor, yani "çalışıyor" görünüyor · ama protokolün beklediği
+ * şey "şu sayfalar değişti" demek. Her gün her şeyi bildirmek sinyali
+ * gürültüye çeviriyor ve arama motorları böyle göndericileri kısıtlıyor.
+ *
+ * Adım commit'ten SONRA koştuğu için son commit'in diff'i tam olarak o günün
+ * değişikliği. Diff alınamazsa (sığ klon, ilk commit) hiçbir şey gönderilmez ·
+ * "emin değilsem her şeyi bildireyim" yanlış varsayılan. Elle tam gönderim
+ * gerekirse --all var.
+ */
+function degisenUrller() {
+  const { execFileSync } = require('child_process');
+  let dosyalar;
+  try {
+    dosyalar = execFileSync('git', ['diff', '--name-only', 'HEAD~1', 'HEAD'],
+      { cwd: ROOT, encoding: 'utf8' }).split('\n').filter(Boolean);
+  } catch (err) {
+    console.log(`Git diff alınamadı (${err.message.split('\n')[0]}) · bildirim atlandı.`);
+    return [];
+  }
+  const bilinen = new Set(sitemapUrls);
+  const out = new Set();
+  for (const f of dosyalar) {
+    if (!f.endsWith('.html')) continue;
+    const url = f === 'index.html'
+      ? `https://${HOST}/`
+      : f.endsWith('/index.html')
+        ? `https://${HOST}/${f.slice(0, -'index.html'.length)}`
+        : `https://${HOST}/${f}`;
+    if (bilinen.has(url)) out.add(url);
+  }
+  return [...out];
+}
+
+const TUMU = process.argv.includes('--all');
+// --dry · ne göndereceğini yaz, İSTEK ATMA. Betikte yoktu; 2026-08-20'de
+// değişiklik test edilirken uç noktaya gereksiz iki tam gönderim yapıldı.
+const DRY = process.argv.includes('--dry');
+const urlList = TUMU ? sitemapUrls : degisenUrller();
+
+console.log(TUMU
+  ? `[--all] Sitemap'in tamamı bildirilecek: ${urlList.length} URL.`
+  : `Son commit'te değişen ${urlList.length} sayfa bildirilecek (sitemap ${sitemapUrls.length} URL).`);
 
 if (urlList.length === 0) {
   console.log('No URLs found, skipping IndexNow ping.');
@@ -92,6 +137,12 @@ async function main() {
   const chunks = [];
   for (let i = 0; i < urlList.length; i += CHUNK_SIZE) {
     chunks.push(urlList.slice(i, i + CHUNK_SIZE));
+  }
+
+  if (DRY) {
+    console.log(`[--dry] ${urlList.length} URL, ${chunks.length} istek · gönderilmedi.`);
+    console.log('  örnek:', urlList.slice(0, 4));
+    return;
   }
 
   console.log(`Sending ${urlList.length} URLs in ${chunks.length} batch(es)...`);
