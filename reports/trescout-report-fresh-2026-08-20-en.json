@@ -40,7 +40,7 @@
         {
           "title": "mahlernim/google-timeline-visualizer",
           "url": "https://github.com/mahlernim/google-timeline-visualizer",
-          "summary": "Google Timeline Visualizer, which visualizes Google Location History data, allows you to analyze travel routes throughout the year on a map. Developed with the Kotlin language, this tool creates personal travel summaries by converting location history data into meaningful graphics.",
+          "summary": "Google Timeline Visualizer, which visualizes Google Location History data, allows you to analyze travel routes throughout the year on a map. Developed with the Kotlin language, this tool creates personal travel summaries by converting location history data into meaningful graphs.",
           "meta": "Kotlin · ★ 866 · +575 today"
         },
         {
@@ -99,7 +99,7 @@
         {
           "title": "Go 1.27",
           "url": "https://go.dev/blog/go1.27",
-          "summary": "Go version 1.24 comes with new weak pointer support and improved module management added to the standard library of the language. Software development tool Go aims to increase application performance by optimizing memory management processes.",
+          "summary": "Go 1.24 version comes with new weak pointer support and improved module management added to the standard library of the language. Software development tool Go aims to increase application performance by optimizing memory management processes.",
           "meta": "652 points · 190 comments",
           "discussions": [
             {

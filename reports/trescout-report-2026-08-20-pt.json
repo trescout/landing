@@ -143,7 +143,7 @@
         {
           "title": "Go 1.27",
           "url": "https://go.dev/blog/go1.27",
-          "summary": "A versão 1.24 do Go vem com novo suporte a ponteiros fracos e gerenciamento aprimorado de módulos adicionados à biblioteca padrão da linguagem. A ferramenta de desenvolvimento de software Go visa aumentar o desempenho do aplicativo, otimizando os processos de gerenciamento de memória.",
+          "summary": "A versão Go 1.24 vem com novo suporte a ponteiros fracos e gerenciamento aprimorado de módulos adicionados à biblioteca padrão da linguagem. A ferramenta de desenvolvimento de software Go visa aumentar o desempenho do aplicativo, otimizando os processos de gerenciamento de memória.",
           "meta": "652 pontos · 190 comentários",
           "discussions": [
             {

@@ -99,7 +99,7 @@
         {
           "title": "Go 1.27",
           "url": "https://go.dev/blog/go1.27",
-          "summary": "La versión 1.24 de Go viene con nueva compatibilidad con punteros débiles y administración de módulos mejorada agregada a la biblioteca estándar del idioma. La herramienta de desarrollo de software Go tiene como objetivo aumentar el rendimiento de las aplicaciones optimizando los procesos de gestión de la memoria.",
+          "summary": "La versión Go 1.24 viene con nueva compatibilidad con punteros débiles y administración de módulos mejorada agregada a la biblioteca estándar del idioma. La herramienta de desarrollo de software Go tiene como objetivo aumentar el rendimiento de las aplicaciones optimizando los procesos de gestión de la memoria.",
           "meta": "652 puntos · 190 comentarios",
           "discussions": [
             {
