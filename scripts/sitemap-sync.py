@@ -16,6 +16,9 @@ Kullanım: python3 scripts/sitemap-sync.py [--dry]
 """
 import os, re, sys, glob, datetime
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from diller import DILLER  # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITEMAP = os.path.join(ROOT, "sitemap.xml")
 BASE = "https://trescout.com"
@@ -26,17 +29,24 @@ DRY = "--dry" in sys.argv
 ATLA = {"/404/", "/en/404/", "/fr/404/"}
 
 
+# Diller ELLE yazılıydı · liste tr/en/fr'de kalmıştı, yani Portekizce,
+# İspanyolca ve Almanca dizin sayfaları öncelik almıyordu (2026-08-20).
+DIL_ANA = {f"/{k}/" for k in DILLER}
+BOLUM_ANA = {"/discover/", "/dictionary/", "/reports/", "/reports/tekrarsiz/"} | {
+    f"/{k}/{b}/" for k in DILLER for b in ("discover", "dictionary", "reports")
+} | {f"/{k}/reports/fresh/" for k in DILLER}
+RAPOR_ONEK = ("/reports/",) + tuple(f"/{k}/reports/" for k in DILLER)
+
+
 def oncelik(url):
     """changefreq + priority · mevcut sitemap konvansiyonuyla aynı."""
     if url == "/":
         return "weekly", "1.0"
-    if url in ("/en/", "/fr/"):
+    if url in DIL_ANA:
         return "weekly", "0.9"
-    if url in ("/discover/", "/dictionary/", "/reports/", "/reports/tekrarsiz/",
-               "/en/discover/", "/en/dictionary/", "/en/reports/", "/en/reports/fresh/",
-               "/fr/discover/", "/fr/dictionary/"):
+    if url in BOLUM_ANA:
         return "weekly", "0.8"
-    if url.startswith("/reports/") or url.startswith("/en/reports/"):
+    if url.startswith(RAPOR_ONEK):
         return "monthly", "0.7"
     if url.endswith("privacy.html"):
         return "monthly", "0.3"
@@ -51,7 +61,9 @@ def disk_urls():
         if url in ATLA:
             continue
         out.add(url)
-    for ek in ("privacy.html", "en/privacy.html", "fr/privacy.html"):
+    # Elle yazılıydı ve tr/en/fr'de kalmıştı · pt, es, de aydınlatma metinleri
+    # sitemap'te HİÇ yoktu. Aydınlatma metni rıza akışının parçası, indekslenmeli.
+    for ek in ["privacy.html"] + [f"{k}/privacy.html" for k in DILLER]:
         if os.path.exists(os.path.join(ROOT, ek)):
             out.add("/" + ek)
     return out
@@ -76,6 +88,17 @@ def main():
                      f"    <changefreq>{cf}</changefreq>\n    <priority>{pr}</priority>\n  </url>\n")
     for u in olu:
         mevcut.pop(u, None)
+
+    # TOPLU SİLME FRENİ · betik diskte olmayan URL'i siliyor. Eksik/kısmi bir
+    # ağaçtan çalıştırılırsa sitemap'i sessizce budar: 2026-08-20'de çevrilmiş
+    # rapor arşivinin TAMAMI (dil başına 154, toplam 770 URL) sitemap'ten
+    # düştü ve kimse fark etmedi · Google için o sayfalar yok olmuş demekti.
+    if olu and len(olu) > max(50, len(mevcut) * 0.02):
+        print(f"✗ sitemap · {len(olu)} URL silinecekti ({len(mevcut)} kayıttan). Bu çok.")
+        print(f"  örnek: {olu[:5]}")
+        print("  Ağaç eksik olabilir · sayfalar gerçekten silindiyse --force ile çalıştırın.")
+        if "--force" not in sys.argv:
+            sys.exit(1)
 
     print(f"sitemap · disk {len(hedef)} sayfa · eklenen {len(eksik)} · silinen {len(olu)}")
     if eksik:
