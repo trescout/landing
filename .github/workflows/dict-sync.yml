@@ -295,8 +295,24 @@ jobs:
             git config user.email "hello@trescout.com"
             git add -A
             git commit -m "chore(content-sync): rapordan yeni sözlük/keşif içeriği eklendi [skip ci]"
-            git push
-            echo "Yeni içerik eklendi ve push edildi."
+            # PUSH YARIŞI · bu depoya İKİ hat yazıyor: içerik büyümesi (burası)
+            # ve app'teki rapor yayını. Aynı dakikaya denk gelirlerse ikincinin
+            # push'u "fetch first" ile reddediliyor ve O KOŞUNUN TÜM İŞİ ÇÖPE
+            # GİDİYOR · sayfalar üretilmiş, commit atılmış, push düşmüş.
+            # 2026-08-19 ve 2026-08-20'de yaşandı. Rebase edip tekrar dene.
+            for deneme in 1 2 3 4 5; do
+              if git push; then
+                echo "Yeni içerik eklendi ve push edildi (deneme $deneme)."
+                exit 0
+              fi
+              echo "→ push reddedildi · rebase edip tekrar deniyorum ($deneme/5)"
+              git pull --rebase --autostash origin main || {
+                echo "✗ rebase başarısız · elle bakılmalı."; exit 1;
+              }
+              sleep $((deneme * 5))
+            done
+            echo "✗ beş denemede push edilemedi."
+            exit 1
           else
             echo "Eklenecek yeni içerik yok · güncel."
           fi
