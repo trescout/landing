@@ -271,6 +271,23 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/discover-sync.py --refresh
 
+      # Tazeleme SON YAZAN adım · çıktısı hiçbir normalize ediciden geçmiyordu
+      # ve doğrudan commit'leniyordu. 2026-08-19'da tam bu yüzden çevrilmiş
+      # keşif sayfaları hreflang'siz yayına gitti ve elle onarıldı
+      # (e263b24c9 → 821cbec89). Guard'lar tazelemeden ÖNCE koştuğu için
+      # hiçbiri görmedi. Yazan her adımdan sonra normalize edici gelmeli.
+      - name: Tazeleme sonrası normalize (kabuk + hreflang)
+        run: |
+          node scripts/fix-all-headers-and-footers.js
+          python3 scripts/hreflang-normalize.py
+          python3 scripts/sitemap-sync.py
+
+      # Yayını düşürmesin · normalize edici yukarıda koştu, burası yalnız
+      # sapma kalırsa loga düşsün diye.
+      - name: Tazeleme sonrası hreflang doğrulama
+        continue-on-error: true
+        run: python3 scripts/check-hreflang.py
+
       - name: Değişiklik varsa commit'le
         run: |
           if [ -n "$(git status --porcelain)" ]; then
