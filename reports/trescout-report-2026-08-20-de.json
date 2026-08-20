@@ -74,7 +74,7 @@
         {
           "title": "mahlernim/google-timeline-visualizer",
           "url": "https://github.com/mahlernim/google-timeline-visualizer",
-          "summary": "Mit dem Google Timeline Visualizer, der die Google-Standortverlaufsdaten visualisiert, können Sie Reiserouten das ganze Jahr über auf einer Karte analysieren. Dieses mit der Kotlin-Sprache entwickelte Tool erstellt persönliche Reisezusammenfassungen, indem es Standortverlaufsdaten in aussagekräftige Grafiken umwandelt.",
+          "summary": "Mit dem Google Timeline Visualizer, der die Google-Standortverlaufsdaten visualisiert, können Sie Reiserouten das ganze Jahr über auf einer Karte analysieren. Dieses mit der Kotlin-Sprache entwickelte Tool erstellt persönliche Reisezusammenfassungen, indem es Standortverlaufsdaten in aussagekräftige Diagramme umwandelt.",
           "meta": "Kotlin · ★ 866 · +575 heute"
         },
         {
@@ -143,7 +143,7 @@
         {
           "title": "Go 1.27",
           "url": "https://go.dev/blog/go1.27",
-          "summary": "Go Version 1.24 bietet neue Unterstützung für schwache Zeiger und eine verbesserte Modulverwaltung, die der Standardbibliothek der Sprache hinzugefügt wurde. Das Softwareentwicklungstool Go zielt darauf ab, die Anwendungsleistung durch die Optimierung von Speicherverwaltungsprozessen zu steigern.",
+          "summary": "Die Go-Version 1.24 bietet neue Unterstützung für schwache Zeiger und eine verbesserte Modulverwaltung, die der Standardbibliothek der Sprache hinzugefügt wurde. Das Softwareentwicklungstool Go zielt darauf ab, die Anwendungsleistung durch die Optimierung von Speicherverwaltungsprozessen zu steigern.",
           "meta": "652 Punkte · 190 Kommentare",
           "discussions": [
             {

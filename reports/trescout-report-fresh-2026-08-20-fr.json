@@ -99,7 +99,7 @@
         {
           "title": "Go 1.27",
           "url": "https://go.dev/blog/go1.27",
-          "summary": "La version 1.24 de Go est livrée avec une nouvelle prise en charge des pointeurs faibles et une gestion améliorée des modules ajoutée à la bibliothèque standard du langage. L'outil de développement logiciel Go vise à augmenter les performances des applications en optimisant les processus de gestion de la mémoire.",
+          "summary": "La version Go 1.24 est livrée avec une nouvelle prise en charge des pointeurs faibles et une gestion améliorée des modules ajoutée à la bibliothèque standard du langage. L'outil de développement logiciel Go vise à augmenter les performances des applications en optimisant les processus de gestion de la mémoire.",
           "meta": "652 votes · 190 commentaires",
           "discussions": [
             {
