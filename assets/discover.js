@@ -135,7 +135,15 @@
       var s = document.getElementById('disc-search');
       if (s) s.addEventListener('input', function () { state.q = s.value; render(); });
       var so = document.getElementById('disc-sort');
-      if (so) so.addEventListener('change', function () { state.sort = so.value; render(); });
+      /* Kontrol, listenin GERÇEK sırasını göstersin. Varsayılan 2026-08-19'da
+         "stars"tan "date"e alındı ama açılır menünün ilk seçeneği "En çok
+         yıldız" olduğu için altı dilde de menü yıldız diyor, liste tarihe göre
+         diziliyordu. Değeri state'ten yazınca varsayılan ileride yine
+         değişse de ikisi ayrışmaz. */
+      if (so) {
+        so.value = state.sort;
+        so.addEventListener('change', function () { state.sort = so.value; render(); });
+      }
     })
     .catch(function () {
       grid.innerHTML = '<p class="disc-loading">Liste şu an yüklenemedi. <a href="/reports/">Raporlara bakın →</a></p>';
