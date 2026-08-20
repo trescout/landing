@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
 
-Son güncelleme: 2026-08-20 · 454 araç · 526 terim
+Son güncelleme: 2026-08-20 · 454 araç · 527 terim
 
 ---
 
@@ -4931,6 +4931,48 @@ Hız ve otomasyon için; grafiksel arayüzlerin yapamadığı karmaşık işleml
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/console-host/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Container nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-20
+
+Bir yazılımın çalışması için gereken her şeyi içinde barındıran ve her bilgisayarda aynı şekilde çalışmasını sağlayan taşınabilir bir kutudur.
+
+## Tanım
+Konteynerler, bir uygulamanın kodunu, kütüphanelerini ve ayarlarını tek bir paket haline getirir. Bu sayede yazılımınız, sizin bilgisayarınızda nasıl çalışıyorsa sunucuda veya başka birinin bilgisayarında da aynı şekilde çalışır. Yani, 'benim bilgisayarımda çalışıyordu' sorununu tamamen ortadan kaldırır.
+
+## Bir benzetmeyle
+Bir mutfak düşünün; her yemek için gerekli tüm malzemeleri, baharatları ve araçları tek bir kutuya koyup istediğiniz yere götürüyorsunuz. Nerede açarsanız açın, aynı yemeği aynı lezzetle pişirebiliyorsunuz.
+
+## Nasıl çalışır?
+Geliştiriciler, Docker gibi araçlar kullanarak uygulamanın ihtiyaç duyduğu her şeyi bir 'konteyner imajı' içine paketler. Bu paket, işletim sisteminden bağımsız olarak izole bir alanda çalışır. Böylece sistemdeki diğer uygulamalarla çakışma yaşanmaz.
+
+## Nerede kullanılır?
+Bulut bilişimde, yazılım dağıtımında ve karmaşık uygulamaların yönetilmesinde kullanılır. Özellikle büyük ekiplerin birbiriyle uyumlu çalışması gereken projelerde standarttır.
+
+## Sık karıştırılanlar
+Sanal makineler (Virtual Machines) ile sıkça karıştırılır; ancak konteynerler çok daha hafif ve hızlıdır çünkü işletim sistemini paylaşırlar.
+
+## Sıkça sorulanlar
+
+**Konteyner neden bu kadar popüler?**  
+Çünkü yazılımın her ortamda aynı kararlılıkla çalışmasını garanti eder ve kurulum süreçlerini dakikalardan saniyelere indirir.
+
+**Konteyner ile sanal makine farkı nedir?**  
+Sanal makineler kendi işletim sistemlerini taşır, konteynerler ise ana işletim sisteminin çekirdeğini paylaşır; bu yüzden konteynerler çok daha hızlıdır.
+
+## İlgili terimler
+- [Containers](/dictionary/containers/)
+- [Virtual Machines](/dictionary/virtual-machines/)
+- [Deployment](/dictionary/deployment/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/container/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -23458,11 +23500,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 JavaScript dilinin bir üst kümesi (superset) olan TypeScript, kodun derleme aşamasında hata denetimi yapılmasına olanak tanıyor. Statik tip tanımlama (static typing) özelliğiyle daha güvenilir ve ölçeklenebilir yazılım geliştirme süreçlerini destekliyor.
 
-- ★ 110.042
+- ★ 110.286
 - TypeScript
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 110.042 → 110.286, son sürüm v7.0.2 (20 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 109.817 → 110.042, son sürüm v6.0.3 (16 Nisan 2026).
 
 ## Ne kazandırır?
@@ -24808,7 +24851,7 @@ Kuruluma başlamak için home-assistant.io adresini ziyaret edin. Sitedeki kurul
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Home Automation
+Home Automation Container
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/core/
@@ -28651,7 +28694,7 @@ Apple silikon işlemcili Mac bilgisayarımda container aracını kullanarak OCI 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Virtual Machines Containers Apple Silicon Artificial Intelligence
+Virtual Machines Containers Container Apple Silicon Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/container/
@@ -38620,11 +38663,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 OpenLogi é um software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech. Ele permite que os usuários definam atalhos de teclado, configurações de sensibilidade (DPI) e recursos SmartShift sem a necessidade de criar uma conta ou compartilhar dados.
 
-- ★ 11.535
+- ★ 11.574
 - Rust
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 11.535 → 11.574, son sürüm v0.7.3 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 10.999 → 11.535, son sürüm v0.7.2 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 10.988 → 10.999, son sürüm v0.7.1 (15 Ağustos 2026).
 
@@ -42964,10 +43008,10 @@ BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için ye
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 4.540 → 4.540, son sürüm @agent-native/core@0.165.2 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 4.537 → 4.540, son sürüm @agent-native/core@0.165.1 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 4.536 → 4.537, son sürüm @agent-native/core@0.164.24 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 4.535 → 4.536, son sürüm @agent-native/core@0.164.22 (20 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 4.533 → 4.535, son sürüm @agent-native/core@0.164.21 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ajan ve kullanıcı arayüzünü tek veritabanında senkronize eder
@@ -43503,15 +43547,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Macro, e-posta, sohbet, dokümanlar ve görev yönetimi gibi iş araçlarını ortak bir yapay zekâ hafızasıyla birleştiren bir çalışma alanı. Rust diliyle geliştirilen bu platform, farklı iş akışlarını tek bir arayüzde birbirine bağlı hale getiriyor.
 
-- ★ 3.850
+- ★ 3.852
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 3.850 → 3.852, son sürüm v2026.8.20.2 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 3.784 → 3.850, son sürüm v2026.8.20.1 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 3.700 → 3.784, son sürüm v2026.8.19.0 (20 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 3.619 → 3.700, son sürüm v2026.8.18.2 (19 Ağustos 2026).
-- 18 Ağustos 2026: Yıldız 3.252 → 3.619, son sürüm v2026.8.17.0 (17 Ağustos 2026).
 
 ## Ne kazandırır?
 - E-posta, sohbet, görev ve dokümanları tek arayüzde toplar.
@@ -45117,11 +45161,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Activeloop tarafından geliştirilen Hivemind, tüm yapay zekâ ajanları için merkezi bir bellek ve koordinasyon katmanı (centralized memory layer) sunuyor. TypeScript tabanlı bu yapı, farklı ajanların verileri paylaşmasını ve ortak bir zekâ havuzu üzerinden iletişim kurmasını sağlıyor.
 
-- ★ 1.558
+- ★ 1.564
 - TypeScript
 - GitHub Trending · 2026-06-11
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 1.558 → 1.564, son sürüm v0.7.147 (20 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 1.526 → 1.558, son sürüm v0.7.146 (14 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 985 → 1.526, son sürüm v0.7.145 (30 Temmuz 2026).
 

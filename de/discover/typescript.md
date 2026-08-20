@@ -2,7 +2,7 @@
 
 TypeScript, eine Obermenge der JavaScript-Sprache, ermöglicht die Fehlerprüfung während der Kompilierungsphase des Codes. Mit seiner statischen Typisierungsfunktion unterstützt es zuverlässigere und skalierbarere Softwareentwicklungsprozesse.
 
-- ★ 110.042
+- ★ 110.286
 - TypeScript
 - GitHub Trending · 2026-07-11
 

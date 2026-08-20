@@ -2,7 +2,7 @@
 
 TypeScript, un superconjunto del lenguaje JavaScript, permite la verificación de errores durante la fase de compilación del código. Admite procesos de desarrollo de software más confiables y escalables con su función de escritura estática.
 
-- ★ 110.042
+- ★ 110.286
 - TypeScript
 - GitHub Trending · 2026-07-11
 

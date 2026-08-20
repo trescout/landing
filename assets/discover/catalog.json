@@ -4556,7 +4556,7 @@
     "slug": "hivemind",
     "title": "Hivemind",
     "tagline": "Activeloop tarafından geliştirilen Hivemind, tüm yapay zekâ ajanları için merkezi bir bellek ve koordinasyon katmanı…",
-    "meta": "★ 1.558 · TypeScript",
+    "meta": "★ 1.564 · TypeScript",
     "image": "/assets/discover/og/hivemind.webp",
     "source": "GitHub",
     "date": "2026-06-11",
@@ -4564,7 +4564,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 1558,
+    "stars": 1564,
     "lite": false,
     "headline": "Yapay zekâ ajanları için merkezi bellek",
     "last_review": "2026-08-20",
@@ -4582,6 +4582,13 @@
         "onceki_yildiz": 1526,
         "surum": "v0.7.146",
         "surum_tarihi": "2026-08-14"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 1564,
+        "onceki_yildiz": 1558,
+        "surum": "v0.7.147",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "Hivemind, developed by Activeloop, is a central memory and coordination layer for all artificial intelligence agents.",
@@ -7403,6 +7410,13 @@
         "yildiz": 4540,
         "onceki_yildiz": 4537,
         "surum": "@agent-native/core@0.165.1",
+        "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 4540,
+        "onceki_yildiz": 4540,
+        "surum": "@agent-native/core@0.165.2",
         "surum_tarihi": "2026-08-20"
       }
     ],
@@ -12190,14 +12204,14 @@
     "slug": "typescript",
     "title": "TypeScript",
     "tagline": "JavaScript dilinin bir üst kümesi (superset) olan TypeScript, kodun derleme aşamasında hata denetimi yapılmasına olanak tanıyor.",
-    "meta": "★ 110.042 · TypeScript",
+    "meta": "★ 110.286 · TypeScript",
     "image": "/assets/discover/og/typescript.webp",
     "source": "GitHub",
     "date": "2026-07-11",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 110042,
+    "stars": 110286,
     "lite": false,
     "headline": "JavaScript projeleri için hata denetimi",
     "last_review": "2026-08-20",
@@ -12208,6 +12222,13 @@
         "onceki_yildiz": 109817,
         "surum": "v6.0.3",
         "surum_tarihi": "2026-04-16"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 110286,
+        "onceki_yildiz": 110042,
+        "surum": "v7.0.2",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "TypeScript, a superset of the JavaScript language, allows error checking during the compilation phase of the code.",
@@ -19089,7 +19110,7 @@
     "slug": "macro",
     "title": "Macro",
     "tagline": "Macro, e-posta, sohbet, dokümanlar ve görev yönetimi gibi iş araçlarını ortak bir yapay zekâ hafızasıyla birleştiren bir…",
-    "meta": "★ 3.850 · Rust",
+    "meta": "★ 3.852 · Rust",
     "image": "/assets/discover/og/macro.webp",
     "source": "GitHub",
     "date": "2026-08-13",
@@ -19097,7 +19118,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 3850,
+    "stars": 3852,
     "lite": false,
     "headline": "İş araçlarını birleştiren yapay zekâ hafızası",
     "needs_enrichment": true,
@@ -19142,6 +19163,13 @@
         "yildiz": 3850,
         "onceki_yildiz": 3784,
         "surum": "v2026.8.20.1",
+        "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 3852,
+        "onceki_yildiz": 3850,
+        "surum": "v2026.8.20.2",
         "surum_tarihi": "2026-08-20"
       }
     ],
@@ -20093,14 +20121,14 @@
     "slug": "openlogi",
     "title": "OpenLogi",
     "tagline": "OpenLogi é um software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech.",
-    "meta": "★ 11.535 · Rust",
+    "meta": "★ 11.574 · Rust",
     "image": "/assets/discover/og/openlogi.webp",
     "source": "GitHub",
     "date": "2026-08-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 11535,
+    "stars": 11574,
     "lite": false,
     "headline": "Logitech cihazlar için açık kaynaklı yönetim",
     "tagline_en": "OpenLogi and software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech.",
@@ -20122,6 +20150,13 @@
         "yildiz": 11535,
         "onceki_yildiz": 10999,
         "surum": "v0.7.2",
+        "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 11574,
+        "onceki_yildiz": 11535,
+        "surum": "v0.7.3",
         "surum_tarihi": "2026-08-20"
       }
     ],

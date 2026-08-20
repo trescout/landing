@@ -2,7 +2,7 @@
 
 TypeScript, un sur-ensemble du langage JavaScript, permet de vérifier les erreurs lors de la phase de compilation du code. Il prend en charge des processus de développement logiciel plus fiables et évolutifs grâce à sa fonction de typage statique.
 
-- ★ 110 042
+- ★ 110 286
 - TypeScript
 - GitHub Trending · 2026-07-11
 

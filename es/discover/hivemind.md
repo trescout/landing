@@ -2,7 +2,7 @@
 
 Desarrollado por Activeloop, Hivemind ofrece una capa de memoria centralizada para todos los agentes de inteligencia artificial. Esta estructura basada en TypeScript permite que diferentes agentes compartan datos y se comuniquen a través de un grupo de inteligencia común.
 
-- ★ 1.558
+- ★ 1.564
 - TypeScript
 - GitHub Trending · 2026-06-11
 

@@ -45,7 +45,7 @@ Apple silikon işlemcili Mac bilgisayarımda container aracını kullanarak OCI 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Virtual Machines Containers Apple Silicon Artificial Intelligence
+Virtual Machines Containers Container Apple Silicon Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/container/

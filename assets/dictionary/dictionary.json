@@ -6836,5 +6836,18 @@
     "kisa_pt": "É um método de encontrar vulnerabilidades fingindo ser um usuário mal-intencionado para testar a segurança de um sistema.",
     "kisa_es": "Es un método para encontrar vulnerabilidades haciéndose pasar por un usuario malicioso para probar la seguridad de un sistema.",
     "kisa_de": "Dabei handelt es sich um eine Methode zum Auffinden von Schwachstellen, indem man sich als böswilliger Benutzer ausgibt, um die Sicherheit eines Systems zu testen."
+  },
+  {
+    "slug": "container",
+    "en": "Container",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın çalışması için gereken her şeyi içinde barındıran ve her bilgisayarda aynı şekilde çalışmasını sağlayan taşınabilir bir kutudur.",
+    "date": "2026-08-20",
+    "kisa_en": "It is a portable box that contains everything required for a software to run and ensures that it works the same on every computer.",
+    "kisa_fr": "Il s'agit d'un boîtier portable qui contient tout ce dont un logiciel a besoin pour fonctionner et garantit qu'il fonctionne de la même manière sur chaque ordinateur.",
+    "kisa_pt": "É uma caixa portátil que contém tudo o que é necessário para o funcionamento de um software e garante que funcione da mesma forma em todos os computadores.",
+    "kisa_es": "Es una caja portátil que contiene todo lo necesario para que se ejecute un software y garantiza que funcione igual en todas las computadoras.",
+    "kisa_de": "Dabei handelt es sich um eine tragbare Box, die alles enthält, was für die Ausführung einer Software erforderlich ist, und dafür sorgt, dass sie auf jedem Computer gleich funktioniert."
   }
 ]

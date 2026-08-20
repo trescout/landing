@@ -2,7 +2,7 @@
 
 TypeScript, a superset of the JavaScript language, allows error checking during the compilation phase of the code. It supports more reliable and scalable software development processes with its static typing feature.
 
-- ★ 110,042
+- ★ 110,286
 - TypeScript
 - GitHub Trending · 2026-07-11
 
