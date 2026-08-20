@@ -1769,14 +1769,14 @@
     "slug": "pi-subagents",
     "title": "Pi Subagents",
     "tagline": "Pi platformunda asenkron alt-ajan delegasyonu için TypeScript kütüphanesi.",
-    "meta": "★ 3.214 · Lisans: yok",
+    "meta": "★ 3.216 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-06-01",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 3214,
+    "stars": 3216,
     "image": "/assets/discover/og/pi-subagents.webp",
     "headline": "Yapay zekâ ile asenkron görev yönetimi",
     "last_review": "2026-08-20",
@@ -1857,6 +1857,13 @@
         "onceki_yildiz": 3200,
         "surum": "v0.52.0",
         "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 3216,
+        "onceki_yildiz": 3214,
+        "surum": "v0.52.1",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "TypeScript library for asynchronous sub-agent delegation on the Pi platform.",
@@ -3494,14 +3501,14 @@
     "slug": "vite",
     "title": "Vite",
     "tagline": "Vite, modern web projeleri için hızlı bir geliştirme ortamı ve derleme aracı (build tool) sunuyor.",
-    "meta": "★ 82.245",
+    "meta": "★ 82.419",
     "image": "/assets/discover/og/vite.webp",
     "source": "GitHub",
     "date": "2026-06-07",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 82245,
+    "stars": 82419,
     "lite": false,
     "headline": "Web projeleri için hızlı geliştirme ortamı",
     "cmds": {
@@ -3529,6 +3536,13 @@
         "onceki_yildiz": 82169,
         "surum": "plugin-legacy@8.2.3",
         "surum_tarihi": "2026-08-06"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 82419,
+        "onceki_yildiz": 82245,
+        "surum": "v8.2.2",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "Vite offers a fast development environment and build tool for modern web projects.",
@@ -3728,7 +3742,7 @@
     "slug": "llama-cpp",
     "title": "Llama.cpp",
     "tagline": "Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını…",
-    "meta": "★ 124.753 · C++",
+    "meta": "★ 124.773 · C++",
     "image": "/assets/discover/og/llama-cpp.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -3736,7 +3750,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 124753,
+    "stars": 124773,
     "lite": false,
     "headline": "Yapay zekâ modellerini bilgisayarınızda çalıştırın",
     "last_review": "2026-08-20",
@@ -3893,6 +3907,13 @@
         "yildiz": 124753,
         "onceki_yildiz": 124705,
         "surum": "b10506",
+        "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 124773,
+        "onceki_yildiz": 124753,
+        "surum": "b10507",
         "surum_tarihi": "2026-08-20"
       }
     ],
@@ -6473,14 +6494,14 @@
     "slug": "nautilus-trader",
     "title": "Nautilus Trader",
     "tagline": "Nautilus Trader, Rust diliyle geliştirilmiş, deterministik olay güdümlü mimariye (event-driven architecture) sahip bir alım…",
-    "meta": "★ 25.223 · Rust",
+    "meta": "★ 26.536 · Rust",
     "image": "/assets/discover/og/nautilus-trader.webp",
     "source": "GitHub",
     "date": "2026-06-18",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 25223,
+    "stars": 26536,
     "lite": false,
     "headline": "Yüksek Performanslı Algoritmik İşlem Platformu",
     "last_review": "2026-08-20",
@@ -6496,6 +6517,13 @@
         "tarih": "2026-08-03",
         "yildiz": 25223,
         "onceki_yildiz": 25204,
+        "surum": "v1.231.0",
+        "surum_tarihi": "2026-08-02"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 26536,
+        "onceki_yildiz": 25223,
         "surum": "v1.231.0",
         "surum_tarihi": "2026-08-02"
       }
@@ -7126,7 +7154,7 @@
     "slug": "agent-native",
     "title": "Agent Native",
     "tagline": "BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications)…",
-    "meta": "★ 4.535 · TypeScript",
+    "meta": "★ 4.536 · TypeScript",
     "image": "/assets/discover/og/agent-native.webp",
     "source": "GitHub",
     "date": "2026-06-20",
@@ -7134,7 +7162,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4535,
+    "stars": 4536,
     "lite": false,
     "headline": "Yapay zekâ ajanları için uygulama çerçevesi",
     "last_review": "2026-08-20",
@@ -7291,6 +7319,13 @@
         "yildiz": 4535,
         "onceki_yildiz": 4533,
         "surum": "@agent-native/core@0.164.21",
+        "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 4536,
+        "onceki_yildiz": 4535,
+        "surum": "@agent-native/core@0.164.22",
         "surum_tarihi": "2026-08-20"
       }
     ],
@@ -13353,7 +13388,7 @@
     "slug": "openinterpreter",
     "title": "Openinterpreter",
     "tagline": "Open Interpreter, yerel bilgisayar ortamında kod çalıştırarak yazılım geliştirme süreçlerini otomatize eden bir kodlama ajanı…",
-    "meta": "★ 68.054 · Rust",
+    "meta": "★ 68.079 · Rust",
     "image": "/assets/discover/og/openinterpreter.webp",
     "source": "GitHub",
     "date": "2026-07-16",
@@ -13361,7 +13396,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 68054,
+    "stars": 68079,
     "lite": false,
     "headline": "Bilgisayarınızda kod çalıştıran yapay zekâ",
     "last_review": "2026-08-20",
@@ -13386,6 +13421,13 @@
         "onceki_yildiz": 68017,
         "surum": "rust-v0.0.39",
         "surum_tarihi": "2026-08-17"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 68079,
+        "onceki_yildiz": 68054,
+        "surum": "rust-v0.0.40",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "Open Interpreter is a coding agent that automates software development processes by running code in the local computer environment.",
@@ -17151,7 +17193,7 @@
     "slug": "deepseek-reasonix",
     "title": "DeepSeek-Reasonix",
     "tagline": "DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel alan bir yapay zekâ kodlama ajanıdır.",
-    "meta": "★ 34.808 · Go",
+    "meta": "★ 34.888 · Go",
     "image": "/assets/discover/og/deepseek-reasonix.webp",
     "source": "GitHub",
     "date": "2026-08-03",
@@ -17159,7 +17201,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 34808,
+    "stars": 34888,
     "lite": false,
     "headline": "Terminal için yapay zekâ kodlama ajanı",
     "last_review": "2026-08-20",
@@ -17268,6 +17310,13 @@
         "onceki_yildiz": 34753,
         "surum": "desktop-v1.29.0",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 34888,
+        "onceki_yildiz": 34808,
+        "surum": "desktop-v1.30.0",
+        "surum_tarihi": "2026-08-20"
       }
     ],
     "tagline_en": "DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models.",
@@ -19411,14 +19460,14 @@
     "slug": "omarchy",
     "title": "Omarchy",
     "tagline": "Basecamp tarafından geliştirilen Omarchy, Linux işletim sistemleri için modern ve özgün bir yapılandırma aracıdır.",
-    "meta": "★ 25.539 · Shell",
+    "meta": "★ 26.839 · Shell",
     "image": "/assets/discover/og/omarchy.webp",
     "source": "GitHub",
     "date": "2026-08-17",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 25539,
+    "stars": 26839,
     "lite": false,
     "headline": "Linux sistemler için modern yapılandırma",
     "needs_enrichment": true,
@@ -19434,6 +19483,13 @@
         "tarih": "2026-08-17",
         "yildiz": 25539,
         "onceki_yildiz": 25537,
+        "surum": "v4.0.0",
+        "surum_tarihi": "2026-08-14"
+      },
+      {
+        "tarih": "2026-08-20",
+        "yildiz": 26839,
+        "onceki_yildiz": 25539,
         "surum": "v4.0.0",
         "surum_tarihi": "2026-08-14"
       }

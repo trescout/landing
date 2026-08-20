@@ -2,7 +2,7 @@
 
 Macro ist ein Arbeitsbereich, der Geschäftstools wie E-Mail, Chat, Dokumente und Aufgabenverwaltung mit einem gemeinsamen Speicher für künstliche Intelligenz kombiniert. Diese mit der Rust-Sprache entwickelte Plattform verbindet verschiedene Arbeitsabläufe in einer einzigen Oberfläche.
 
-- ★ 3.700
+- ★ 3.784
 - Rust
 - GitHub Trending · 2026-08-13
 

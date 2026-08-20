@@ -2,7 +2,7 @@
 
 Snipe-IT é um sistema de gerenciamento de código aberto para rastrear ativos de tecnologia da informação e licenças de software. Esta plataforma, desenvolvida em linguagem PHP, permite que as instituições organizem registros de inventário e ciclos de utilização em ambiente digital.
 
-- ★ 14.832
+- ★ 14.843
 - PHP
 - GitHub Trending · 2026-07-30
 

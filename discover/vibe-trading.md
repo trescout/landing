@@ -2,11 +2,12 @@
 
 Vibe-Trading, finansal piyasalarda işlem yapmak amacıyla geliştirilmiş kişisel bir alım satım ajanı (trading agent) sunuyor. Proje, Python tabanlı yapısıyla kullanıcıların otomatik ticaret stratejilerini yönetmelerine olanak tanıyor.
 
-- ★ 30.558
+- ★ 31.295
 - Python
 - GitHub Trending · 2026-06-04
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 30.558 → 31.295, son sürüm v0.1.14 (20 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 29.309 → 30.558, son sürüm v0.1.13 (10 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 10.343 → 29.309, son sürüm v0.1.12 (22 Temmuz 2026).
 

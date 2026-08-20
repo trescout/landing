@@ -2,7 +2,7 @@
 
 Chatwoot est une plateforme open source qui offre un chat en direct, une assistance par e-mail et une gestion de bureau omnicanal. Développé comme alternative aux logiciels commerciaux tels qu'Intercom et Zendesk, cet outil vous permet de gérer les interactions clients à partir d'un centre unique.
 
-- ★ 35 290
+- ★ 36 001
 - GitHub Trending · 2026-06-12
 
 ## Ce que ça vous apporte

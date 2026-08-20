@@ -2,7 +2,7 @@
 
 Developed by Google, Angular is a comprehensive framework used to create scalable web applications. With its TypeScript-based structure, it offers tools that standardize and structure the development process in complex projects.
 
-- ★ 101,009
+- ★ 101,007
 - TypeScript
 - GitHub Trending · 2026-08-05
 

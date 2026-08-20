@@ -35,8 +35,8 @@ Yes, but the inclusion of changes in the main project usually depends on the app
 - [MarkItDown](/en/discover/markitdown/)
 - [Claude Code](/en/discover/claude-code/)
 - [MoneyPrinterTurbo](/en/discover/moneyprinterturbo/)
-- [RuView](/en/discover/ruview/)
 - [claude-mem](/en/discover/claude-mem/)
+- [RuView](/en/discover/ruview/)
 - [Opencv](/en/discover/opencv/)
 
 ---

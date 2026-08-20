@@ -2,7 +2,7 @@
 
 Open-Generative-AI is an open source studio platform with no content filtering and more than 200 visual and video creation models. Users can freely manage their visual production processes by running this software, which is offered under the MIT license, on their own servers (self-hosted).
 
-- ★ 25,418
+- ★ 26,697
 - JavaScript
 - GitHub Trending · 2026-06-28
 

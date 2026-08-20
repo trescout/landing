@@ -2,7 +2,7 @@
 
 This open source book on artificial intelligence agents (AI agents) comprehensively covers design principles and engineering applications. In addition to theoretical information, it includes application codes divided into sections and compiled PDF files.
 
-- ★ 37,602
+- ★ 39,686
 - Python
 - GitHub Trending · 2026-07-20
 

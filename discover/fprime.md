@@ -2,11 +2,12 @@
 
 NASA tarafından geliştirilen F´, uçuş yazılımları ve gömülü sistemler (embedded systems) için tasarlanmış açık kaynaklı bir çerçevedir (framework). C++ diliyle yazılan bu yapı, uzay araçları ve karmaşık sistemler için modüler bir geliştirme ortamı sunar.
 
-- ★ 11.610
+- ★ 11.676
 - C++
 - GitHub Trending · 2026-07-12
 
 ## Güncelleme
+- 20 Ağustos 2026: Yıldız 11.610 → 11.676, son sürüm v4.3.0 (20 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 11.523 → 11.610, son sürüm v4.2.2 (24 Nisan 2026).
 
 ## Ne kazandırır?

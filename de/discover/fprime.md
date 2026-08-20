@@ -2,7 +2,7 @@
 
 F´ wurde von der NASA entwickelt und ist ein Open-Source-Framework für Flugsoftware und eingebettete Systeme. Diese in C++ geschriebene Struktur bietet eine modulare Entwicklungsumgebung für Raumfahrzeuge und komplexe Systeme.
 
-- ★ 11.610
+- ★ 11.676
 - C++
 - GitHub Trending · 2026-07-12
 
