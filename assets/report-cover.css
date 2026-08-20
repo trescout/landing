@@ -19,4 +19,10 @@
   .act-dl { color: var(--ink-muted); border: 1px solid rgba(95,168,211,0.28); }
   .act-dl:hover { color: var(--accent); border-color: var(--accent); }
   .rep-note { margin-top: 26px; font-size: 13.5px; color: var(--ink-muted); line-height: 1.6; }
+  .rep-discover-links { margin-top: 36px; padding-top: 24px; border-top: 1px solid rgba(95,168,211,0.18); }
+  .rep-links-title { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--brand-light); margin-bottom: 12px; }
+  .rep-links-grid { display: flex; flex-wrap: wrap; gap: 8px; }
+  .rep-link-item { font-size: 13.5px; color: var(--ink); background: rgba(95,168,211,0.08); border: 1px solid rgba(95,168,211,0.2); padding: 6px 12px; border-radius: 8px; text-decoration: none; transition: background .15s, border-color .15s, color .15s; }
+  .rep-link-item:hover { background: rgba(95,168,211,0.18); border-color: var(--accent); color: var(--accent); }
   @media (max-width: 560px) { .report-main { padding: 36px 18px 36px; } .rep-actions .act { flex: 1; } }
+

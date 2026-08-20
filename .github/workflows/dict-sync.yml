@@ -283,3 +283,8 @@ jobs:
           else
             echo "Eklenecek yeni içerik yok · güncel."
           fi
+
+      - name: IndexNow ile arama motorlarına anında bildirim (Bing, Yandex)
+        continue-on-error: true
+        run: node scripts/indexnow.js
+

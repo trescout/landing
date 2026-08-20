@@ -171,6 +171,37 @@ function buildVariant(V) {
 <meta property="og:url" content="https://trescout.com${V.urlBase}/${dateStr}/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="${D.og_locale}">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Report",
+  "headline": "${D.rapor_sayfa_baslik.replace('{tarih}', tarih)}",
+  "name": "${D.rapor_sayfa_baslik.replace('{tarih}', tarih)}",
+  "datePublished": "${dateStr}",
+  "dateModified": "${dateStr}",
+  "inLanguage": "${D.html_lang}",
+  "description": "${D.rapor_sayfa_aciklama.replace('{tarih}', tarih)}",
+  "url": "https://trescout.com${V.urlBase}/${dateStr}/",
+  "author": {
+    "@type": "Organization",
+    "name": "TreScout",
+    "url": "https://trescout.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "TreScout",
+    "url": "https://trescout.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://trescout.com/favicon.svg"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://trescout.com${V.urlBase}/${dateStr}/"
+  }
+}
+</script>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/report-cover.css">
 </head>
