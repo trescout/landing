@@ -1,0 +1,283 @@
+{
+  "date": "2026-08-20",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "summary": "Die Modular-Plattform umfasst die MAX-Engine, die für die Ausführung von Modellen der künstlichen Intelligenz entwickelt wurde, und die Programmiersprache Mojo, die die Fähigkeiten der Python-Sprache mit der Geschwindigkeit der Systemprogrammierung kombiniert. Diese Technologie soll die Infrastruktur für künstliche Intelligenz beschleunigen und komplexe Softwareprozesse vereinfachen.",
+          "meta": "Mojo · ★ 27.442 · +340 heute"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi ist eine lokale Open-Source-Alternativsoftware, die zur Verwaltung von Logitech-Peripheriegeräten entwickelt wurde. Es ermöglicht Benutzern, Tastenkombinationen, Empfindlichkeitseinstellungen (DPI) und SmartShift-Funktionen zu konfigurieren, ohne ein Konto erstellen oder Daten teilen zu müssen.",
+          "meta": "Rust · ★ 10.988 · +1.225 heute"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Career-ops ist ein Open-Source-Tool für die Jobsuche, das Stellenausschreibungen scannt, sie nach bestimmten Kriterien bewertet und Ihren Lebenslauf entsprechend dieser Ausschreibungen organisiert. Diese Software läuft auf nativen Befehlszeilenschnittstellen (CLI) und automatisiert den Bewerbungsprozess, sodass Kandidaten Stellenausschreibungen mit einem strukturierten System bewerten können.",
+          "meta": "JavaScript · ★ 66.183 · +198 heute",
+          "returning": true
+        },
+        {
+          "title": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "summary": "Agent Substrate wurde mit der Go-Sprache entwickelt und bietet eine grundlegende Laufzeit für Agenten der künstlichen Intelligenz. Diese Infrastruktur, die verschiedene Agentenarchitekturen unterstützt, zielt darauf ab, die von Agenten benötigten Systemressourcen und Arbeitsabläufe zu standardisieren.",
+          "meta": "Go · ★ 1.275 · +26 heute"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog ist eine Plattform, die Tools wie Analyse, Sitzungsaufzeichnung und Fehlerverfolgung kombiniert, um Produktentwicklungsprozesse zu optimieren. Es ermöglicht Softwareentwicklern, das Benutzerverhalten zu verstehen und die Produktleistung durch durch künstliche Intelligenz unterstützte Beobachtbarkeit zu verbessern.",
+          "meta": "Python · ★ 37.803 · +41 heute",
+          "returning": true
+        },
+        {
+          "title": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "summary": "Mit dem Google Timeline Visualizer, der die Google-Standortverlaufsdaten visualisiert, können Sie Reiserouten das ganze Jahr über auf einer Karte analysieren. Dieses mit der Kotlin-Sprache entwickelte Tool erstellt persönliche Reisezusammenfassungen, indem es Standortverlaufsdaten in aussagekräftige Grafiken umwandelt.",
+          "meta": "Kotlin · ★ 866 · +575 heute"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman ist ein für das künstliche Intelligenzmodell Claude entwickeltes Tool, das die Eingabeaufforderungen vereinfacht und die Anzahl der verwendeten Token um 65 % reduziert. Diese in der Sprache Go geschriebene Software zielt darauf ab, Kosten zu senken, indem komplexe Anweisungen in der Sprache der Höhlenmenschen vereinfacht werden.",
+          "meta": "Go · ★ 99.331 · +286 heute",
+          "returning": true
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane ist eine Open-Source-Projektmanagementplattform zur Verwaltung von Aufgaben, Sprintprozessen und Dokumentation. Es bietet eine Alternative zu beliebten Job-Tracking-Tools wie Jira, Linear, Monday und ClickUp, die Sie auf Ihrem eigenen Server hosten können.",
+          "meta": "TypeScript · ★ 56.181 · +54 heute",
+          "returning": true
+        },
+        {
+          "title": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "summary": "AI-Infra-Guard wurde von Tencent entwickelt und ist eine umfassende Red-Teaming-Plattform, die Ökosysteme der künstlichen Intelligenz vor Schwachstellen schützt. System; Es überwacht die Infrastruktursicherheit durch Methoden wie Agent-Scanning, Fähigkeitsanalyse und Sicherheitsbewertungen großer Sprachmodelle.",
+          "meta": "Python · ★ 4.744 · +28 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "A joke domain purchase turned in geopolitical warfare",
+          "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+          "summary": "Ein im Scherz gekaufter Domainname wurde unerwartet Teil eines geopolitischen Cyberkrieges. Der Vorfall wurde zu einem digitalen Sicherheitsrisiko, als ein persönliches Projekt mit SondeHub, einer globalen Datenverfolgungsplattform, in Verbindung gebracht wurde.",
+          "meta": "909 Punkte · 144 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49360015",
+              "popularity": 909,
+              "engagementCount": 144
+            }
+          ]
+        },
+        {
+          "title": "OpenRouter is joining Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+          "summary": "OpenRouter, das über eine einzige Schnittstelle Zugriff auf verschiedene Modelle der künstlichen Intelligenz bietet, schließt sich dem Zahlungsinfrastrukturanbieter Stripe an. Ziel dieser Fusion ist es, die Entwicklertools von Stripe für KI-Anwendungen zu erweitern.",
+          "meta": "847 Punkte · 442 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49364559",
+              "popularity": 847,
+              "engagementCount": 442
+            }
+          ]
+        },
+        {
+          "title": "Go 1.27",
+          "url": "https://go.dev/blog/go1.27",
+          "summary": "Go Version 1.24 bietet neue Unterstützung für schwache Zeiger und eine verbesserte Modulverwaltung, die der Standardbibliothek der Sprache hinzugefügt wurde. Das Softwareentwicklungstool Go zielt darauf ab, die Anwendungsleistung durch die Optimierung von Speicherverwaltungsprozessen zu steigern.",
+          "meta": "652 Punkte · 190 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49365405",
+              "popularity": 652,
+              "engagementCount": 190
+            }
+          ]
+        },
+        {
+          "title": "Google has stopped pushing Git tags for some Android source code",
+          "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+          "summary": "Google hat die Veröffentlichung von Git-Tags für einige Android-Quellcodes eingestellt. Diese Änderung macht es für Softwareentwickler schwierig, bestimmte Versionen zu verfolgen und den Verlauf des Quellcodes zu überprüfen.",
+          "meta": "580 Punkte · 236 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49364745",
+              "popularity": 580,
+              "engagementCount": 236
+            }
+          ]
+        },
+        {
+          "title": "Geolocating a random island using geometry and CUDA programming",
+          "url": "https://yassa9.github.io/osint/gralhix-004/",
+          "summary": "Softwareentwickler berechnen die Koordinaten einer zufälligen Insel auf der Erde ausschließlich anhand geometrischer Daten wie dem Sonnenstand und der Länge des Schattens. Dabei wird die Parallelverarbeitungsplattform CUDA (Compute Unified Device Architecture) genutzt, um die Berechnungsgeschwindigkeit zu erhöhen.",
+          "meta": "482 Punkte · 78 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49360545",
+              "popularity": 482,
+              "engagementCount": 78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+          "summary": "DeepSeek-V4-Pro-0813, veröffentlicht von DeepSeek, ist ein Modell der künstlichen Intelligenz, das sich auf Funktionen zur Textgenerierung konzentriert. Dieses auf Hugging Face geteilte Modell bietet Entwicklern eine neue Alternative in der Kategorie der großen Sprachmodelle (LLM).",
+          "meta": "♥ 661 · 43.287 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents",
+          "url": "https://huggingface.co/papers/2608.18852",
+          "summary": "SkillGate bietet eine Trainingsmethode, die es Agenten der künstlichen Intelligenz ermöglicht, die Fähigkeiten, die sie für langfristige Aufgaben benötigen, richtig auszuwählen. Es hilft Agenten dabei, automatisch die am besten geeigneten Verfahrensinformationen in komplexen Arbeitsabläufen zu ermitteln und so das Problem des selektiven Kreditmangels zu überwinden, der bei herkömmlichen Methoden auftritt.",
+          "meta": "1 Likes · 1 Kommentare"
+        },
+        {
+          "title": "The More Popular, The Harder to Forget: Adaptive Popularity for LLM Unlearning",
+          "url": "https://huggingface.co/papers/2608.14229",
+          "summary": "Das Vergessen populären Wissens in Trainingsdaten großer Sprachmodelle (LLM) ist ein schwierigerer Prozess als in seltenen Daten. Die Adaptive Popularity-Methode optimiert das Gleichgewicht des Modells zwischen Vergessen und Bewahren von Informationen, indem sie den Gradientendruck automatisch entsprechend der Verbreitung der Daten anpasst.",
+          "meta": "6 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+          "url": "https://huggingface.co/papers/2608.18115",
+          "summary": "Dieser von HuggingFace geteilte Artikel schlägt eine neue Methode vor, die Textstatistiken und Inferenzdaten natürlicher Sprache kombiniert, um falsche Informationen (Halluzinationen) zu erkennen, die von Modellen der künstlichen Intelligenz erzeugt werden. Dieses System, das einen seriellen Ansatz anstelle einzelner Wörter verwendet, erkennt Fehler mit einem 33-dimensionalen Datenfluss, ohne auf die interne Struktur des Modells zuzugreifen.",
+          "meta": "2 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL",
+          "url": "https://huggingface.co/papers/2608.17253",
+          "summary": "Co-RL, das in der Multi-Agent-Reinforcement-Learning-Methode verwendet wird, ermöglicht es Modellen, ihre eigenen Belohnungssignale ohne externe Kontrolle zu erstellen. Dieser Ansatz zielt darauf ab, die Notwendigkeit einer Datenkennzeichnung in komplexen Argumentationsprozessen zu reduzieren, bei denen die menschliche Bewertung schwierig wird.",
+          "meta": "76 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Scaling Creative Writing Beyond Story-Centric Data with Attribute-Guided Genre Expansion",
+          "url": "https://huggingface.co/papers/2608.13947",
+          "summary": "Das für große Sprachmodelle (LLM) entwickelte attributgesteuerte Genre-Erweiterungsframework erweitert kreative Schreibdaten über geschichtengesteuerte Strukturen hinaus. Diese Methode trennt thematische Variation von der generischen Formkontrolle und erleichtert so die Anpassung von Modellen an die Strukturregeln verschiedener literarischer Formate.",
+          "meta": "12 Likes · 1 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "HTML Can Do That",
+          "url": "https://chrisburnell.com/html-can-do-that/",
+          "summary": "HTML Can Do That zeigt, wie die integrierten HTML-Funktionen moderner Browser komplexe Oberflächenelemente erstellen können, ohne dass JavaScript-Bibliotheken erforderlich sind. Es beschreibt interaktive Komponenten und native Browserfunktionen, die Entwickler ohne zusätzlichen Software-Overhead nutzen können.",
+          "meta": "172 Punkte · 39 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/5gcd3t/html_can_do",
+              "popularity": 172,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "Plain Text Accounting is Pretty Cool",
+          "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+          "summary": "Die Klartextbuchhaltung ist eine Methode, die es ermöglicht, Finanzunterlagen in einfachen Textdateien statt in komplexer Software zu führen. Es ermöglicht eine flexible Berichterstellung und Analyse der Daten durch die Verarbeitung dieser Dateien mit Befehlszeilentools wie Ledger oder Beancount.",
+          "meta": "68 Punkte · 31 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool",
+              "popularity": 68,
+              "engagementCount": 31
+            }
+          ]
+        },
+        {
+          "title": "Reclaim the terminal",
+          "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+          "summary": "Der Trend, das Terminal zurückzugewinnen, ermutigt Softwareentwickler, ihre Produktivität zu steigern, indem sie sich für Befehlszeilentools anstelle komplexer Schnittstellen entscheiden. Dieser Ansatz befürwortet eine Rückkehr zu minimalistischen und schnellen Arbeitsumgebungen, die die Kontrolle der Entwickler über das System stärken.",
+          "meta": "22 Punkte · 5 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/7v1wvd/reclaim_terminal",
+              "popularity": 22,
+              "engagementCount": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Besondere Fähigkeiten oder Werkzeuge, über die künstliche Intelligenz verfügt, um bestimmte Aufgaben auszuführen."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Ein Software-Ansatz, bei dem Daten direkt auf Ihrem Gerät gespeichert und verarbeitet werden, ohne dass eine Internetverbindung erforderlich ist."
+    },
+    {
+      "term": "DPI",
+      "explanation": "Die Anzahl der Punkte pro Zoll, die die Bildqualität eines Displays oder Druckers bestimmt."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Textbasierte Schnittstelle, die Programme mit geschriebenen Befehlen statt mit der Maus ausführt."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Der Moment, in dem eine Software auf dem Computer ausgeführt und aktiviert wird."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Die Arbeit mehrerer KI-Einheiten, die miteinander zusammenarbeiten und komplexe Aufgaben teilen."
+    },
+    {
+      "term": "observability",
+      "explanation": "Der Prozess des Verstehens, wo und warum Fehler auftreten, durch Überwachung der Funktionsweise innerhalb eines Systems."
+    },
+    {
+      "term": "prompt",
+      "explanation": "Die Anweisung oder Frage, die Sie der KI geben, um daraus ein Ergebnis zu erhalten."
+    },
+    {
+      "term": "token",
+      "explanation": "Die kleinsten Daten, die Wörtern oder Silben entsprechen und die künstliche Intelligenz bei der Verarbeitung von Texten verwendet."
+    },
+    {
+      "term": "red teaming",
+      "explanation": "Ein Versuch, Schwachstellen zu finden, indem er sich als böswilliger Benutzer ausgibt, um die Sicherheit eines Systems zu testen."
+    }
+  ]
+}

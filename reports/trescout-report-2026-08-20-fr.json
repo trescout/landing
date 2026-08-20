@@ -1,0 +1,375 @@
+{
+  "date": "2026-08-20",
+  "editorial": "Les mécanismes de sélection et de désapprentissage des compétences dans les modèles d’intelligence artificielle sont aujourd’hui au centre des discussions techniques. Les données de Hacker News soulignent l'importance des fusions stratégiques telles que la collaboration OpenRouter et Stripe dans un environnement où les achats de noms de domaine évoluent vers des crises géopolitiques.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "summary": "La plateforme modulaire comprend le moteur MAX, développé pour exécuter des modèles d'intelligence artificielle, et le langage de programmation Mojo, qui combine les capacités du langage Python avec la vitesse de programmation des systèmes. Cette technologie est conçue pour accélérer l’infrastructure d’intelligence artificielle et simplifier les processus logiciels complexes.",
+          "meta": "Mojo · ★ 27 442 · +340 aujourd'hui"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Partagé par Mattpocock, Skills rassemble des packages de compétences personnalisés que les développeurs de logiciels utilisent pour les agents d'intelligence artificielle. Cette bibliothèque, compilée par les développeurs à partir de leurs propres répertoires .agents, propose des outils pratiques pour standardiser les processus d'automatisation.",
+          "meta": "Shell · ★ 224 659 · +1 894 aujourd'hui"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi est un logiciel alternatif local et open source développé pour gérer les périphériques Logitech. Il permet aux utilisateurs de configurer les raccourcis clavier, les paramètres de sensibilité (DPI) et les fonctionnalités SmartShift sans avoir besoin de créer un compte ou de partager des données.",
+          "meta": "Rust · ★ 10 988 · +1 225 aujourd'hui"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers propose un cadre basé sur les capacités et une méthodologie de développement logiciel pour les agents d'intelligence artificielle. Ce système, qui divise les tâches complexes en parties gérables, vise à standardiser les flux de travail des agents.",
+          "meta": "Shell · ★ 274 606 · +557 aujourd'hui"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor, un éditeur de code basé sur l'intelligence artificielle qui accélère le processus de codage, partage ses normes de développement de plug-ins et ses plug-ins officiels en open source. Cette fonctionnalité permet aux développeurs de créer des flux de travail personnalisés dans l'éditeur.",
+          "meta": "TypeScript · ★ 3 847 · +473 aujourd'hui"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Career-ops est un outil de recherche d'emploi open source qui analyse les offres d'emploi, les note selon certains critères et organise votre CV en fonction de ces offres. Fonctionnant sur des interfaces de ligne de commande (CLI) natives, ce logiciel automatise le processus de candidature, permettant aux candidats d'évaluer les offres avec un système structuré.",
+          "meta": "JavaScript · ★ 66 183 · +198 aujourd'hui"
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Développé avec le langage Rust, ai-memory offre une solution de mémoire à long terme pour les outils de codage d'intelligence artificielle. Il facilite le transfert de données entre différents fournisseurs d'IA, permettant aux agents utilisés dans les processus de développement logiciel de se souvenir des interactions passées.",
+          "meta": "Rust · ★ 3 350 · +606 aujourd'hui"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo est un projet Python qui produit de courtes vidéos haute résolution à l'aide de flux de travail automatisés à partir de sujets ou de mots-clés donnés. En utilisant des modèles d’intelligence artificielle générative (IA générative), le processus de création vidéo est complété en un seul clic.",
+          "meta": "Python · ★ 112 290 · +2 221 aujourd'hui"
+        },
+        {
+          "title": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "summary": "Développé avec le langage Go, Agent Substrate offre un runtime de base pour les agents d'intelligence artificielle. Cette infrastructure, qui prend en charge différentes architectures d'agents, vise à standardiser les ressources système et les flux de travail nécessaires aux agents.",
+          "meta": "Go · ★ 1 275 · +26 aujourd'hui"
+        },
+        {
+          "title": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "summary": "Munder-difflin est un outil d'infrastructure qui permet d'exécuter plusieurs agents d'intelligence artificielle (multi-agents) dans l'environnement local. Développé avec TypeScript, ce système offre un espace de travail où différents agents peuvent collaborer pour gérer des tâches complexes.",
+          "meta": "TypeScript · ★ 2 930 · +795 aujourd'hui"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog est une plateforme qui combine des outils tels que l'analyse, l'enregistrement de session et le suivi des bogues pour optimiser les processus de développement de produits. Il permet aux développeurs de logiciels de comprendre le comportement des utilisateurs et d'améliorer les performances des produits grâce à une observabilité basée sur l'intelligence artificielle.",
+          "meta": "Python · ★ 37 803 · +41 aujourd'hui"
+        },
+        {
+          "title": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "summary": "Google Timeline Visualizer, qui visualise les données de l'historique de localisation de Google, vous permet d'analyser les itinéraires de voyage tout au long de l'année sur une carte. Développé avec le langage Kotlin, cet outil crée des résumés de voyage personnels en convertissant les données d'historique de localisation en graphiques significatifs.",
+          "meta": "Kotlin · ★ 866 · +575 aujourd'hui"
+        },
+        {
+          "title": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "summary": "Développé par Volcengine au sein de ByteDance, OpenViking est une base de données contextuelle auto-développée qui combine la mémoire, la récupération d'informations (RAG) et la gestion des compétences dans une structure unique pour les agents d'intelligence artificielle. Ce système permet aux agents de créer des flux de travail plus cohérents en gérant leurs interactions passées et leurs compétences techniques dans un environnement central.",
+          "meta": "Python · ★ 30 719 · +804 aujourd'hui"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman est un outil développé pour le modèle d'intelligence artificielle Claude, qui simplifie les invites et réduit le nombre de jetons utilisés de 65 %. Ce logiciel, écrit en langage Go, vise à réduire les coûts en simplifiant les instructions complexes en langage homme des cavernes.",
+          "meta": "Go · ★ 99 331 · +286 aujourd'hui"
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane est une plateforme de gestion de projet open source permettant de gérer les tâches, les processus de sprint et la documentation. Il offre une alternative aux outils de suivi des tâches populaires tels que Jira, Linear, Monday et ClickUp, que vous pouvez héberger sur votre propre serveur.",
+          "meta": "TypeScript · ★ 56 181 · +54 aujourd'hui"
+        },
+        {
+          "title": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "summary": "Développée par Tencent, AI-Infra-Guard est une plateforme complète de red teaming qui protège les écosystèmes d'intelligence artificielle contre les vulnérabilités. Système; Il surveille la sécurité de l'infrastructure grâce à des méthodes telles que l'analyse des agents, l'analyse des compétences et les évaluations de sécurité de grands modèles de langage.",
+          "meta": "Python · ★ 4 744 · +28 aujourd'hui"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "TurboVec est un outil d'indexation vectorielle construit sur la bibliothèque de calcul haute performance TurboQuant. Développé avec le langage Rust, ce système offre des capacités de recherche rapides dans les projets de science des données grâce aux liaisons Python.",
+          "meta": "Rust · ★ 15 738 · +736 aujourd'hui"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "A joke domain purchase turned in geopolitical warfare",
+          "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+          "summary": "Un nom de domaine acheté pour plaisanter est devenu de manière inattendue un élément d’une cyber-guerre géopolitique. L'incident s'est transformé en risques pour la sécurité numérique lorsqu'un projet personnel a été associé à SondeHub, une plateforme mondiale de suivi des données.",
+          "meta": "909 votes · 144 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49360015",
+              "popularity": 909,
+              "engagementCount": 144
+            }
+          ]
+        },
+        {
+          "title": "OpenRouter is joining Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+          "summary": "OpenRouter, qui permet d'accéder à différents modèles d'intelligence artificielle depuis une seule interface, rejoint le fournisseur d'infrastructures de paiement Stripe. Cette fusion vise à étendre les outils de développement de Stripe pour les applications d'IA.",
+          "meta": "847 votes · 442 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49364559",
+              "popularity": 847,
+              "engagementCount": 442
+            }
+          ]
+        },
+        {
+          "title": "Go 1.27",
+          "url": "https://go.dev/blog/go1.27",
+          "summary": "La version 1.24 de Go est livrée avec une nouvelle prise en charge des pointeurs faibles et une gestion améliorée des modules ajoutée à la bibliothèque standard du langage. L'outil de développement logiciel Go vise à augmenter les performances des applications en optimisant les processus de gestion de la mémoire.",
+          "meta": "652 votes · 190 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49365405",
+              "popularity": 652,
+              "engagementCount": 190
+            }
+          ]
+        },
+        {
+          "title": "Google has stopped pushing Git tags for some Android source code",
+          "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+          "summary": "Google a arrêté de publier les balises Git pour certains codes sources Android. Ce changement rend difficile pour les développeurs de logiciels le suivi de versions spécifiques et la vérification de l'historique du code source.",
+          "meta": "580 votes · 236 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49364745",
+              "popularity": 580,
+              "engagementCount": 236
+            }
+          ]
+        },
+        {
+          "title": "Geolocating a random island using geometry and CUDA programming",
+          "url": "https://yassa9.github.io/osint/gralhix-004/",
+          "summary": "Les développeurs de logiciels calculent les coordonnées d'une île aléatoire sur Terre en utilisant uniquement des données géométriques telles que la position du soleil et la longueur de l'ombre. Dans ce processus, la plateforme de traitement parallèle CUDA (Compute Unified Device Architecture) est utilisée pour augmenter la vitesse de calcul.",
+          "meta": "482 votes · 78 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49360545",
+              "popularity": 482,
+              "engagementCount": 78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Développé par Alibaba, Qwen2.5-27B est un grand modèle de langage multimodal capable de traiter des données de texte et d'image. Le modèle offre des performances élevées dans la compréhension des commandes complexes et la conversion du contenu visuel en texte.",
+          "meta": "♥ 11 610 · 1 373 584 téléchargements"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth est une bibliothèque d'optimisation qui permet de former des modèles de langage volumineux (LLM) plus rapidement et avec une utilisation moindre de la mémoire. Cette version du modèle Qwen2.5-27B est compressée au format GGUF pour fonctionner sur des appareils aux ressources matérielles limitées.",
+          "meta": "♥ 2 225 · 5 126 652 téléchargements"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "summary": "MiniMax-Music3, développé par MiniMaxAI, est un modèle texte-audio qui convertit les commandes texte en fichiers audio de haute qualité. Cette technologie, qui automatise les processus de production musicale, crée du contenu audio conformément aux descriptions définies par les utilisateurs.",
+          "meta": "♥ 1 073 · 14 471 téléchargements"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+          "summary": "DeepSeek-V4-Pro-0813, publié par DeepSeek, est un modèle d'intelligence artificielle axé sur les capacités de génération de texte. Ce modèle, partagé sur Hugging Face, offre aux développeurs une nouvelle alternative dans la catégorie des grands modèles de langage (LLM).",
+          "meta": "♥ 661 · 43 287 téléchargements"
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B-FP8",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "summary": "Développé par Alibaba, Qwen2.5-27B-FP8 est un modèle d'intelligence artificielle multimodale (modèle multimodal) capable de traiter des données texte et image. Grâce au format de données de basse précision (FP8), le modèle effectue des opérations d'inférence rapides en utilisant plus efficacement les ressources matérielles.",
+          "meta": "♥ 616 · 1 517 643 téléchargements"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents",
+          "url": "https://huggingface.co/papers/2608.18852",
+          "summary": "SkillGate propose une méthode de formation qui permet aux agents d'intelligence artificielle de choisir correctement les compétences dont ils ont besoin pour des tâches de longue durée. Il aide les agents à déterminer automatiquement les informations procédurales les plus appropriées dans des flux de travail complexes, surmontant ainsi le problème de pénurie sélective de crédit rencontré avec les méthodes traditionnelles.",
+          "meta": "1 j'aime · 1 commentaires"
+        },
+        {
+          "title": "The More Popular, The Harder to Forget: Adaptive Popularity for LLM Unlearning",
+          "url": "https://huggingface.co/papers/2608.14229",
+          "summary": "Oublier les connaissances populaires dans les données de formation des grands modèles de langage (LLM) est un processus plus difficile que dans les données rares. La méthode Adaptive Popularity optimise l'équilibre du modèle entre l'oubli et la préservation des informations en ajustant automatiquement l'impression du dégradé en fonction de la prévalence des données.",
+          "meta": "6 j'aime · 1 commentaires"
+        },
+        {
+          "title": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+          "url": "https://huggingface.co/papers/2608.18115",
+          "summary": "Cet article partagé par HuggingFace propose une nouvelle méthode qui combine des statistiques textuelles et des données d'inférence en langage naturel pour détecter les fausses informations (hallucinations) produites par les modèles d'intelligence artificielle. Ce système, qui adopte une approche sérielle au lieu de mots simples, détecte les erreurs avec un flux de données à 33 dimensions sans accéder à la structure interne du modèle.",
+          "meta": "2 j'aime · 1 commentaires"
+        },
+        {
+          "title": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL",
+          "url": "https://huggingface.co/papers/2608.17253",
+          "summary": "Co-RL, utilisé dans la méthode d'apprentissage par renforcement multi-agents, permet aux modèles de créer leurs propres signaux de récompense sans contrôle externe. Cette approche vise à réduire le besoin d’étiquetage des données dans des processus de raisonnement complexes où l’évaluation humaine devient difficile.",
+          "meta": "76 j'aime · 1 commentaires"
+        },
+        {
+          "title": "Scaling Creative Writing Beyond Story-Centric Data with Attribute-Guided Genre Expansion",
+          "url": "https://huggingface.co/papers/2608.13947",
+          "summary": "Le cadre d'expansion de genre basé sur les attributs développé pour les grands modèles de langage (LLM) étend les données d'écriture créative au-delà des structures basées sur l'histoire. Cette méthode sépare la variation thématique du contrôle générique de la forme, ce qui permet aux modèles de s'adapter plus facilement aux règles structurelles des différents formats littéraires.",
+          "meta": "12 j'aime · 1 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "HTML Can Do That",
+          "url": "https://chrisburnell.com/html-can-do-that/",
+          "summary": "HTML Can Do That montre comment les fonctionnalités HTML intégrées offertes par les navigateurs modernes peuvent créer des éléments d'interface complexes sans avoir besoin de bibliothèques JavaScript. Il détaille les composants interactifs et les fonctionnalités natives du navigateur que les développeurs peuvent utiliser sans surcharge logicielle supplémentaire.",
+          "meta": "172 votes · 39 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/5gcd3t/html_can_do",
+              "popularity": 172,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "Plain Text Accounting is Pretty Cool",
+          "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+          "summary": "La comptabilité en texte brut est une méthode qui permet de conserver les registres financiers dans de simples fichiers texte plutôt que dans un logiciel complexe. Il permet un reporting et une analyse flexibles des données en traitant ces fichiers avec des outils de ligne de commande tels que Ledger ou Beancount.",
+          "meta": "68 votes · 31 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool",
+              "popularity": 68,
+              "engagementCount": 31
+            }
+          ]
+        },
+        {
+          "title": "Reclaim the terminal",
+          "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+          "summary": "La tendance à la récupération du terminal encourage les développeurs de logiciels à augmenter leur productivité en choisissant des outils de ligne de commande plutôt que des interfaces complexes. Cette approche prône un retour à des environnements de travail minimalistes et rapides qui renforcent le contrôle des développeurs sur le système.",
+          "meta": "22 votes · 5 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/7v1wvd/reclaim_terminal",
+              "popularity": 22,
+              "engagementCount": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Capacités ou outils spéciaux dont dispose l’intelligence artificielle pour effectuer certaines tâches."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Une approche logicielle où les données sont stockées et traitées directement sur votre appareil sans avoir besoin d'Internet."
+    },
+    {
+      "term": "DPI",
+      "explanation": "Nombre de points par pouce qui détermine la qualité d'image d'un écran ou d'une imprimante."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un aperçu de base qui fournit des structures prêtes à l'emploi et un ensemble de règles qui facilitent les choses lors du développement de logiciels."
+    },
+    {
+      "term": "AI code editor",
+      "explanation": "Un outil d'édition intelligent qui détecte les erreurs lors de l'écriture d'un logiciel et vous propose des suggestions de code."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface textuelle qui exécute des programmes avec des commandes écrites plutôt qu'avec la souris."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "L’intelligence artificielle peut mémoriser longtemps des conversations ou des informations passées et les utiliser dans de nouvelles transactions."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Technologie qui produit de nouveaux contenus tels que du texte, des éléments visuels ou audio à partir de zéro en utilisant les données qu'elle apprend."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Le moment où un logiciel est exécuté et activé sur l'ordinateur."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Le travail de plusieurs unités d’IA qui collaborent les unes avec les autres et partagent des tâches complexes."
+    },
+    {
+      "term": "observability",
+      "explanation": "Processus consistant à comprendre où et pourquoi les erreurs se produisent en surveillant le fonctionnement d'un système."
+    },
+    {
+      "term": "RAG",
+      "explanation": "L’intelligence artificielle produit des réponses en extrayant des données à jour provenant de sources externes fiables, à son insu."
+    },
+    {
+      "term": "context database",
+      "explanation": "C’est un lieu où sont conservées régulièrement les informations nécessaires à l’intelligence artificielle pour fournir des réponses plus précises."
+    },
+    {
+      "term": "prompt",
+      "explanation": "L'instruction ou la question que vous donnez à l'IA pour en tirer un résultat."
+    },
+    {
+      "term": "token",
+      "explanation": "La plus petite donnée correspondant à des mots ou des syllabes que l’intelligence artificielle utilise lors du traitement des textes."
+    },
+    {
+      "term": "red teaming",
+      "explanation": "Une tentative de trouver des vulnérabilités en se faisant passer pour un utilisateur malveillant pour tester la sécurité d'un système."
+    }
+  ]
+}

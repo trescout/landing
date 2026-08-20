@@ -1,0 +1,283 @@
+{
+  "date": "2026-08-20",
+  "editorial": "This report includes the trends that stood out today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "summary": "The Modular platform includes the MAX engine, developed to run artificial intelligence models, and the Mojo programming language, which combines the capabilities of the Python language with the speed of systems programming. This technology is designed to accelerate artificial intelligence infrastructure and simplify complex software processes.",
+          "meta": "Mojo · ★ 27,442 · +340 today"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi is a local-first and open source alternative software developed to manage Logitech peripherals. It allows users to configure keybindings, sensitivity (DPI) settings, and SmartShift features without needing to create an account or share data.",
+          "meta": "Rust · ★ 10,988 · +1,225 today"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Career-ops is an open source job search tool that scans job postings, scores them according to certain criteria, and organizes your resume according to these postings. Running on native command line interfaces (CLI), this software automates the job application process, allowing candidates to evaluate postings with a structured system.",
+          "meta": "JavaScript · ★ 66,183 · +198 today",
+          "returning": true
+        },
+        {
+          "title": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "summary": "Developed with the Go language, Agent Substrate offers a basic runtime for artificial intelligence agents. This infrastructure, which supports different agent architectures, aims to standardize the system resources and workflows needed by agents.",
+          "meta": "Go · ★ 1,275 · +26 today"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog is a platform that combines tools such as analytics, session recording and bug tracking to optimize product development processes. It enables software developers to understand user behavior and improve product performance with artificial intelligence-supported observability.",
+          "meta": "Python · ★ 37,803 · +41 today",
+          "returning": true
+        },
+        {
+          "title": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "summary": "Google Timeline Visualizer, which visualizes Google Location History data, allows you to analyze travel routes throughout the year on a map. Developed with the Kotlin language, this tool creates personal travel summaries by converting location history data into meaningful graphics.",
+          "meta": "Kotlin · ★ 866 · +575 today"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman is a tool developed for the artificial intelligence model Claude, which simplifies the prompts and reduces the number of tokens used by 65%. This software, written in Go language, aims to reduce costs by simplifying complex instructions in caveman language.",
+          "meta": "Go · ★ 99,331 · +286 today",
+          "returning": true
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane is an open source project management platform for managing tasks, sprint processes and documentation. It offers an alternative to popular job tracking tools such as Jira, Linear, Monday and ClickUp that you can host on your own server.",
+          "meta": "TypeScript · ★ 56,181 · +54 today",
+          "returning": true
+        },
+        {
+          "title": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "summary": "Developed by Tencent, AI-Infra-Guard is a comprehensive red teaming platform that protects artificial intelligence ecosystems against vulnerabilities. System; It monitors infrastructure security through methods such as agent scanning, skill analysis and large language model security assessments.",
+          "meta": "Python · ★ 4,744 · +28 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "A joke domain purchase turned in geopolitical warfare",
+          "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+          "summary": "A domain name purchased as a joke unexpectedly became part of a geopolitical cyber war. The incident turned into digital security risks when a personal project was associated with SondeHub, a global data tracking platform.",
+          "meta": "909 points · 144 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49360015",
+              "popularity": 909,
+              "engagementCount": 144
+            }
+          ]
+        },
+        {
+          "title": "OpenRouter is joining Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+          "summary": "OpenRouter, which provides access to different artificial intelligence models from a single interface, is joining the payment infrastructure provider Stripe. This merger aims to expand Stripe's developer tools for AI applications.",
+          "meta": "847 points · 442 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49364559",
+              "popularity": 847,
+              "engagementCount": 442
+            }
+          ]
+        },
+        {
+          "title": "Go 1.27",
+          "url": "https://go.dev/blog/go1.27",
+          "summary": "Go version 1.24 comes with new weak pointer support and improved module management added to the standard library of the language. Software development tool Go aims to increase application performance by optimizing memory management processes.",
+          "meta": "652 points · 190 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49365405",
+              "popularity": 652,
+              "engagementCount": 190
+            }
+          ]
+        },
+        {
+          "title": "Google has stopped pushing Git tags for some Android source code",
+          "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+          "summary": "Google has stopped publishing Git tags for some Android source code. This change makes it difficult for software developers to track specific versions and verify source code history.",
+          "meta": "580 points · 236 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49364745",
+              "popularity": 580,
+              "engagementCount": 236
+            }
+          ]
+        },
+        {
+          "title": "Geolocating a random island using geometry and CUDA programming",
+          "url": "https://yassa9.github.io/osint/gralhix-004/",
+          "summary": "Software developers calculate the coordinates of a random island on Earth using only geometric data such as the position of the sun and the length of the shadow. In this process, the parallel processing platform CUDA (Compute Unified Device Architecture) is used to increase the calculation speed.",
+          "meta": "482 points · 78 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49360545",
+              "popularity": 482,
+              "engagementCount": 78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+          "summary": "DeepSeek-V4-Pro-0813, published by DeepSeek, is an artificial intelligence model focusing on text generation capabilities. This model, shared on Hugging Face, offers developers a new alternative in the large language models (LLM) category.",
+          "meta": "♥ 661 · 43,287 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents",
+          "url": "https://huggingface.co/papers/2608.18852",
+          "summary": "SkillGate offers a training method that allows artificial intelligence agents to correctly choose the skills they need for long-term tasks. It helps agents automatically determine the most appropriate procedural information in complex workflows, overcoming the problem of selective credit starvation experienced in traditional methods.",
+          "meta": "1 likes · 1 comments"
+        },
+        {
+          "title": "The More Popular, The Harder to Forget: Adaptive Popularity for LLM Unlearning",
+          "url": "https://huggingface.co/papers/2608.14229",
+          "summary": "Forgetting popular knowledge in training data of large language models (LLM) is a more challenging process than in rare data. The Adaptive Popularity method optimizes the model's balance of forgetting and preserving information by automatically adjusting the gradient printing according to the prevalence of the data.",
+          "meta": "6 likes · 1 comments"
+        },
+        {
+          "title": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+          "url": "https://huggingface.co/papers/2608.18115",
+          "summary": "This article shared by HuggingFace proposes a new method that combines text statistics and natural language inference data to detect false information (hallucinations) produced by artificial intelligence models. This system, which adopts a serial approach instead of single words, detects errors with a 33-dimensional data flow without accessing the internal structure of the model.",
+          "meta": "2 likes · 1 comments"
+        },
+        {
+          "title": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL",
+          "url": "https://huggingface.co/papers/2608.17253",
+          "summary": "Co-RL, used in the multi-agent reinforcement learning method, enables models to create their own reward signals without external control. This approach aims to reduce the need for data labeling in complex reasoning processes where human evaluation becomes difficult.",
+          "meta": "76 likes · 1 comments"
+        },
+        {
+          "title": "Scaling Creative Writing Beyond Story-Centric Data with Attribute-Guided Genre Expansion",
+          "url": "https://huggingface.co/papers/2608.13947",
+          "summary": "The attribute-driven genre expansion framework developed for large language models (LLM) extends creative writing data beyond story-driven structures. This method separates thematic variation from generic form control, making it easier for models to adapt to the structural rules of different literary formats.",
+          "meta": "12 likes · 1 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "HTML Can Do That",
+          "url": "https://chrisburnell.com/html-can-do-that/",
+          "summary": "HTML Can Do That shows how the built-in HTML features offered by modern browsers can create complex interface elements without the need for JavaScript libraries. It details interactive components and native browser features that developers can use without additional software overhead.",
+          "meta": "172 points · 39 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/5gcd3t/html_can_do",
+              "popularity": 172,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "Plain Text Accounting is Pretty Cool",
+          "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+          "summary": "Plain text accounting is a method that allows keeping financial records in simple text files instead of complex software. It allows flexible reporting and analysis on the data by processing these files with command line tools such as Ledger or Beancount.",
+          "meta": "68 points · 31 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool",
+              "popularity": 68,
+              "engagementCount": 31
+            }
+          ]
+        },
+        {
+          "title": "Reclaim the terminal",
+          "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+          "summary": "The trend of reclaiming the terminal encourages software developers to increase their productivity by choosing command-line tools instead of complex interfaces. This approach advocates a return to minimalist and fast working environments that strengthen developers' control over the system.",
+          "meta": "22 points · 5 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/7v1wvd/reclaim_terminal",
+              "popularity": 22,
+              "engagementCount": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Special abilities or tools that artificial intelligence has to perform certain tasks."
+    },
+    {
+      "term": "local-first",
+      "explanation": "A software approach where data is stored and processed directly on your device without the need for the Internet."
+    },
+    {
+      "term": "DPI",
+      "explanation": "The number of dots per inch that determines the image quality of a display or printer."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Text-based interface that runs programs with written commands rather than the mouse."
+    },
+    {
+      "term": "runtime",
+      "explanation": "The moment when a software is run and activated on the computer."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "The work of multiple AI units that collaborate with each other and share complex tasks."
+    },
+    {
+      "term": "observability",
+      "explanation": "The process of understanding where and why errors occur by monitoring the functioning within a system."
+    },
+    {
+      "term": "prompt",
+      "explanation": "The instruction or question you give to the AI ​​to get a result from it."
+    },
+    {
+      "term": "token",
+      "explanation": "The smallest piece of data corresponding to words or syllables that artificial intelligence uses when processing texts."
+    },
+    {
+      "term": "red teaming",
+      "explanation": "An attempt to find vulnerabilities by pretending to be a malicious user to test the security of a system."
+    }
+  ]
+}

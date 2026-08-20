@@ -1,0 +1,283 @@
+{
+  "date": "2026-08-20",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "summary": "Modular platformu, yapay zekâ modellerini çalıştırmak için geliştirilen MAX motorunu ve Python dilinin yeteneklerini sistem programlama hızıyla birleştiren Mojo programlama dilini içeriyor. Bu teknoloji, yapay zekâ altyapısını hızlandırmak ve karmaşık yazılım süreçlerini basitleştirmek için tasarlanıyor.",
+          "meta": "Mojo · ★ 27.442 · +340 bugün"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi, Logitech çevre birimlerini yönetmek için geliştirilen, yerel öncelikli (local-first) ve açık kaynaklı bir alternatif yazılımdır. Kullanıcıların hesap oluşturmasına veya veri paylaşmasına gerek kalmadan tuş atamalarını, hassasiyet (DPI) ayarlarını ve SmartShift özelliklerini yapılandırmasına olanak tanır.",
+          "meta": "Rust · ★ 10.988 · +1.225 bugün"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Career-ops, iş ilanlarını tarayıp belirli kriterlere göre puanlayan ve öz geçmişinizi bu ilanlara göre düzenleyen açık kaynaklı bir iş arama aracıdır. Yerel komut satırı arayüzlerinde (CLI) çalışan bu yazılım, iş başvurusu sürecini otomatikleştirerek adayların ilanları yapılandırılmış bir sistemle değerlendirmesine olanak tanır.",
+          "meta": "JavaScript · ★ 66.183 · +198 bugün",
+          "returning": true
+        },
+        {
+          "title": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "summary": "Go diliyle geliştirilen Agent Substrate, yapay zekâ ajanları için temel bir yürütme ortamı (runtime) sunuyor. Farklı ajan mimarilerini destekleyen bu altyapı, ajanların ihtiyaç duyduğu sistem kaynaklarını ve iş akışlarını standartlaştırmayı amaçlıyor.",
+          "meta": "Go · ★ 1.275 · +26 bugün"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog, ürün geliştirme süreçlerini optimize etmek için analitik, oturum kaydı ve hata takibi gibi araçları bir araya getiren bir platformdur. Yazılım geliştiricilerin kullanıcı davranışlarını anlamasını ve yapay zekâ destekli gözlemlenebilirlik (observability) ile ürün performansını artırmasını sağlar.",
+          "meta": "Python · ★ 37.803 · +41 bugün",
+          "returning": true
+        },
+        {
+          "title": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "summary": "Google Konum Geçmişi verilerini görselleştiren Google Timeline Visualizer, yıl içindeki seyahat rotalarını harita üzerinde analiz etmenizi sağlıyor. Kotlin diliyle geliştirilen bu araç, konum geçmişi verilerini anlamlı grafiklere dönüştürerek kişisel seyahat özetleri oluşturuyor.",
+          "meta": "Kotlin · ★ 866 · +575 bugün"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman, yapay zekâ modeli Claude için geliştirilen ve istemleri (prompt) basitleştirerek kullanılan belirteç (token) sayısını %65 oranında azaltan bir araçtır. Go diliyle yazılan bu yazılım, karmaşık talimatları mağara adamı diliyle sadeleştirerek maliyetleri düşürmeyi hedefler.",
+          "meta": "Go · ★ 99.331 · +286 bugün",
+          "returning": true
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane, görevleri, sprint süreçlerini ve dokümantasyonu yönetmeye yarayan açık kaynaklı bir proje yönetim platformu. Jira, Linear, Monday ve ClickUp gibi popüler iş takip araçlarına kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.",
+          "meta": "TypeScript · ★ 56.181 · +54 bugün",
+          "returning": true
+        },
+        {
+          "title": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "summary": "Tencent tarafından geliştirilen AI-Infra-Guard, yapay zekâ ekosistemlerini güvenlik açıklarına karşı koruyan kapsamlı bir kırmızı takım (red teaming) platformu. Sistem; ajan taraması, yetenek analizi ve büyük dil modeli (large language model) güvenlik değerlendirmeleri gibi yöntemlerle altyapı güvenliğini denetliyor.",
+          "meta": "Python · ★ 4.744 · +28 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "A joke domain purchase turned in geopolitical warfare",
+          "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+          "summary": "Bir şaka amaçlı satın alınan alan adı, beklenmedik bir şekilde jeopolitik bir siber savaşın parçası haline geldi. Olay, kişisel bir projenin küresel çapta bir veri izleme platformu olan SondeHub ile ilişkilendirilmesi sonucu dijital güvenlik risklerine dönüştü.",
+          "meta": "909 oy · 144 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49360015",
+              "popularity": 909,
+              "engagementCount": 144
+            }
+          ]
+        },
+        {
+          "title": "OpenRouter is joining Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+          "summary": "Farklı yapay zekâ modellerine tek bir arayüzden erişim sağlayan OpenRouter, ödeme altyapısı sağlayıcısı Stripe bünyesine katılıyor. Bu birleşme, Stripe'ın yapay zekâ uygulamaları için sunduğu geliştirici araçlarını genişletmeyi amaçlıyor.",
+          "meta": "847 oy · 442 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49364559",
+              "popularity": 847,
+              "engagementCount": 442
+            }
+          ]
+        },
+        {
+          "title": "Go 1.27",
+          "url": "https://go.dev/blog/go1.27",
+          "summary": "Go 1.24 sürümü, dilin standart kütüphanesine eklenen yeni zayıf işaretçi (weak pointer) desteği ve geliştirilmiş modül yönetimiyle geliyor. Yazılım geliştirme aracı Go, bellek yönetimi süreçlerini optimize ederek uygulama performansını artırmayı hedefliyor.",
+          "meta": "652 oy · 190 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49365405",
+              "popularity": 652,
+              "engagementCount": 190
+            }
+          ]
+        },
+        {
+          "title": "Google has stopped pushing Git tags for some Android source code",
+          "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+          "summary": "Google, bazı Android kaynak kodları için Git etiketlerini (Git tags) yayınlamayı durdurdu. Bu değişiklik, yazılım geliştiricilerin belirli sürümleri takip etmesini ve kaynak kod geçmişini doğrulamasını zorlaştırıyor.",
+          "meta": "580 oy · 236 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49364745",
+              "popularity": 580,
+              "engagementCount": 236
+            }
+          ]
+        },
+        {
+          "title": "Geolocating a random island using geometry and CUDA programming",
+          "url": "https://yassa9.github.io/osint/gralhix-004/",
+          "summary": "Yazılım geliştiriciler, sadece güneşin konumu ve gölge uzunluğu gibi geometrik verileri kullanarak rastgele bir adanın dünya üzerindeki koordinatlarını hesaplıyor. Bu süreçte hesaplama hızını artırmak için paralel işlem platformu CUDA (Compute Unified Device Architecture) kullanılıyor.",
+          "meta": "482 oy · 78 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49360545",
+              "popularity": 482,
+              "engagementCount": 78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+          "summary": "DeepSeek tarafından yayınlanan DeepSeek-V4-Pro-0813, metin oluşturma (text generation) yeteneklerine odaklanan bir yapay zekâ modelidir. Hugging Face üzerinde paylaşılan bu model, geniş dil modelleri (LLM) kategorisinde geliştiricilere yeni bir alternatif sunuyor.",
+          "meta": "♥ 661 · 43.287 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents",
+          "url": "https://huggingface.co/papers/2608.18852",
+          "summary": "SkillGate, yapay zekâ ajanlarının uzun süreli görevlerde ihtiyaç duydukları yetenekleri (skills) doğru seçmesini sağlayan bir eğitim yöntemi sunuyor. Geleneksel yöntemlerde yaşanan seçici kredi açlığı (selector credit starvation) sorununu aşarak, ajanların karmaşık iş akışlarında en uygun prosedürel bilgiyi otomatik belirlemesine yardımcı oluyor.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "The More Popular, The Harder to Forget: Adaptive Popularity for LLM Unlearning",
+          "url": "https://huggingface.co/papers/2608.14229",
+          "summary": "Büyük dil modellerinin (LLM) eğitim verisindeki popüler bilgileri unutmak, nadir verilere göre daha zorlu bir süreçtir. Uyarlanabilir popülerlik (Adaptive Popularity) yöntemi, verinin yaygınlığına göre gradyan baskısını otomatik ayarlayarak modelin unutma ve bilgiyi koruma dengesini optimize eder.",
+          "meta": "6 beğeni · 1 yorum"
+        },
+        {
+          "title": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+          "url": "https://huggingface.co/papers/2608.18115",
+          "summary": "HuggingFace tarafından paylaşılan bu makale, yapay zekâ modellerinin ürettiği yanlış bilgileri (halüsinasyonları) tespit etmek için metin istatistikleri ve doğal dil çıkarımı (natural language inference) verilerini birleştiren yeni bir yöntem öneriyor. Tekil kelimeler yerine dizisel bir yaklaşım benimseyen bu sistem, modelin iç yapısına erişim sağlamadan 33 boyutlu bir veri akışıyla hata tespiti yapıyor.",
+          "meta": "2 beğeni · 1 yorum"
+        },
+        {
+          "title": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL",
+          "url": "https://huggingface.co/papers/2608.17253",
+          "summary": "Çoklu ajan pekiştirmeli öğrenme (multi-agent reinforcement learning) yönteminde kullanılan Co-RL, modellerin dışarıdan denetim almadan kendi ödül sinyallerini oluşturmasını sağlıyor. Bu yaklaşım, insan değerlendirmesinin zorlaştığı karmaşık muhakeme süreçlerinde veri etiketleme ihtiyacını azaltmayı hedefliyor.",
+          "meta": "76 beğeni · 1 yorum"
+        },
+        {
+          "title": "Scaling Creative Writing Beyond Story-Centric Data with Attribute-Guided Genre Expansion",
+          "url": "https://huggingface.co/papers/2608.13947",
+          "summary": "Büyük dil modelleri (LLM) için geliştirilen nitelik güdümlü tür genişletme çerçevesi, yaratıcı yazarlık verilerini hikâye odaklı yapıların ötesine taşıyor. Bu yöntem, tematik çeşitliliği türsel biçim kontrolünden ayırarak modellerin farklı edebi formatların yapısal kurallarına uyum sağlamasını kolaylaştırıyor.",
+          "meta": "12 beğeni · 1 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "HTML Can Do That",
+          "url": "https://chrisburnell.com/html-can-do-that/",
+          "summary": "HTML Can Do That, modern tarayıcıların sunduğu yerleşik HTML özelliklerinin JavaScript kütüphanelerine ihtiyaç duymadan karmaşık arayüz öğelerini nasıl oluşturabildiğini gösteriyor. Geliştiricilerin ek yazılım yükü olmadan kullanabileceği etkileşimli bileşenleri ve tarayıcı yerel işlevlerini (native browser features) detaylandırıyor.",
+          "meta": "172 oy · 39 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/5gcd3t/html_can_do",
+              "popularity": 172,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "Plain Text Accounting is Pretty Cool",
+          "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+          "summary": "Düz metin muhasebesi (plain text accounting), finansal kayıtları karmaşık yazılımlar yerine basit metin dosyalarında tutmayı sağlayan bir yöntemdir. Ledger veya Beancount gibi komut satırı araçlarıyla bu dosyaları işleyerek veriler üzerinde esnek raporlamalar ve analizler yapılmasına olanak tanır.",
+          "meta": "68 oy · 31 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool",
+              "popularity": 68,
+              "engagementCount": 31
+            }
+          ]
+        },
+        {
+          "title": "Reclaim the terminal",
+          "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+          "summary": "Terminali yeniden sahiplenme eğilimi, yazılımcıların karmaşık arayüzler yerine komut satırı araçlarını (command-line tools) tercih ederek verimliliklerini artırmasını teşvik ediyor. Bu yaklaşım, geliştiricilerin sistem üzerindeki kontrolünü güçlendiren minimalist ve hızlı çalışma ortamlarına dönüşü savunuyor.",
+          "meta": "22 oy · 5 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/7v1wvd/reclaim_terminal",
+              "popularity": 22,
+              "engagementCount": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Yapay zekânın belirli görevleri yerine getirebilmesi için sahip olduğu özel yetenekler veya araçlar."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Verilerin internete ihtiyaç duymadan doğrudan cihazınızda saklanıp işlendiği yazılım yaklaşımı."
+    },
+    {
+      "term": "DPI",
+      "explanation": "Bir ekranın veya yazıcının görüntü kalitesini belirleyen, inç başına düşen nokta sayısı."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Bir yazılımın bilgisayarda çalıştırıldığı ve aktif olduğu an."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Birbirleriyle iş birliği yaparak karmaşık görevleri paylaşan birden fazla yapay zekâ biriminin çalışması."
+    },
+    {
+      "term": "observability",
+      "explanation": "Bir sistemin içindeki işleyişi izleyerek hataların nerede ve neden kaynaklandığını anlama süreci."
+    },
+    {
+      "term": "prompt",
+      "explanation": "Yapay zekâdan bir sonuç almak için ona verdiğiniz talimat veya soru."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekânın metinleri işlerken kullandığı, kelimelere veya hecelere karşılık gelen en küçük veri parçası."
+    },
+    {
+      "term": "red teaming",
+      "explanation": "Bir sistemin güvenliğini test etmek için kötü niyetli kullanıcı gibi davranarak açıkları bulma çalışması."
+    }
+  ]
+}
