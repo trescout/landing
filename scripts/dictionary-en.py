@@ -325,10 +325,15 @@ def build(term, chrome):
              + (lambda s: (s[0] + analoji_html + "".join(s[1:])) if s else analoji_html)(bolumler(b))
              + f'<aside class="disc-cta"><p><strong>{D["sozluk_cta_baslik"]}</strong> {D["sozluk_cta_metin"]}</p>' + form +
              f'<a class="btn btn-ghost disc-cta-all" href="{D["onek"]}/dictionary/">{D["sozluk_tumu"]}</a></aside>\n'
-             '<p class="disc-disclaimer">This explanation was written in plain language for TreScout · '
-             'translated from the Turkish original. If something looks wrong or missing, write to '
+             # Çeviri notu · SAYFANIN DİLİNDE ve "makine çevirisi" diyerek.
+             # 2026-08-21'e kadar bu cümle betikte İNGİLİZCE gömülüydü: Fransız,
+             # Portekiz, İspanyol ve Alman okur sayfanın ortasında İngilizce bir
+             # cümle görüyordu (493 × 5 = 2465 sayfa). Ayrıca yalnız "translated"
+             # diyordu · aynı gün makine çevirisinin RAG'i "bez", MCP'yi "PCM"
+             # yaptığını bulduk. Okur neyi okuduğunu bilmeli.
+             f'<p class="disc-disclaimer">{D["ceviri_notu"]}'
              '<a href="mailto:hello@trescout.com">hello@trescout.com</a>. '
-             f'<a href="{canon_tr}">Read in Turkish →</a></p>\n'
+             f'<a href="{canon_tr}">{D["turkce_oku"]}</a></p>\n'
              '</article>\n</main>\n' + footer + '\n<script src="/assets/subscribe.js" defer></script>\n'
              + vercel + '</body>\n</html>\n')
     return head + govde
