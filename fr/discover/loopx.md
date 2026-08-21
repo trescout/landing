@@ -2,7 +2,7 @@
 
 Loopx est un noyau d'état léger développé pour les équipes d'agents d'intelligence artificielle à long terme. Il fonctionne de manière compatible avec les agents de codage (Codex, Claude Code) et standardise les processus tels que le suivi des tâches, la gestion des quotas et le transfert de travail vérifiable.
 
-- ★ 4 960
+- ★ 4 979
 - Python
 - GitHub Trending · 2026-08-06
 

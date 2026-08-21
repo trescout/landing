@@ -2,7 +2,7 @@
 
 Unlike traditional frameworks, Svelte uses a compile-time approach that reduces runtime overhead on the browser. This JavaScript library simplifies web development processes by converting application code into small and fast-running pure JavaScript modules.
 
-- ★ 87,958
+- ★ 87,981
 - GitHub Trending · 2026-06-07
 
 ## What you get

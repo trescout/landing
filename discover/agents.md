@@ -2,11 +2,12 @@
 
 LiveKit Agents, gerçek zamanlı sesli ve görüntülü yapay zekâ ajanları geliştirmek için kullanılan bir Python çerçevesidir (framework). Geliştiricilerin düşük gecikmeli sesli etkileşimler kurmasını sağlayarak, insan benzeri tepkiler veren yapay zekâ sistemlerinin oluşturulmasını kolaylaştırır.
 
-- ★ 13.106
+- ★ 13.110
 - Python
 - GitHub Trending · 2026-08-04
 
 ## Güncelleme
+- 21 Ağustos 2026: Yıldız 13.106 → 13.110, son sürüm livekit-agents@1.7.0 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 12.727 → 13.106, son sürüm livekit-agents@1.6.10 (20 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 12.125 → 12.727, son sürüm livekit-agents@1.6.9 (7 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 12.122 → 12.125, son sürüm livekit-agents@1.6.8 (3 Ağustos 2026).
