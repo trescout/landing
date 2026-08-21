@@ -1,5 +1,6 @@
 {
   "date": "2026-08-21",
+  "capturedAt": "2026-08-21T04:43:00.000Z",
   "editorial": "Hoje, as otimizações orientadas para a eficiência de grandes modelos de linguagem e as violações de privacidade baseadas em navegadores se destacam na agenda tecnológica. Em particular, as novas variantes do modelo Qwen 27B e FlashPrefill V2, que aumentam a capacidade de processamento de contexto longo, elevam o nível de desempenho na infraestrutura de inteligência artificial.",
   "sections": [
     {
@@ -86,7 +87,7 @@
         {
           "title": "JuliusBrussee/caveman",
           "url": "https://github.com/JuliusBrussee/caveman",
-          "summary": "Desenvolvido para Claude Code, Caveman é uma ferramenta de otimização de linguagem que reduz em 65% a quantidade de tokens usados ​​por modelos de inteligência artificial. Ele transforma os textos em uma forma mais concisa, simplificando estruturas de frases complexas.",
+          "summary": "Desenvolvido para Claude Code, Caveman é uma ferramenta de otimização de linguagem que reduz em 65% a quantidade de tokens usados ​​por modelos de inteligência artificial. Simplifica estruturas de frases complexas e transforma os textos em uma forma mais concisa.",
           "meta": "Go · ★ 99.729 · +258 hoje"
         },
         {
@@ -104,7 +105,7 @@
         {
           "title": "RyanCodrai/turbovec",
           "url": "https://github.com/RyanCodrai/turbovec",
-          "summary": "Turbovec é uma ferramenta de indexação vetorial desenvolvida na linguagem Rust e utilizando a infraestrutura TurboQuant. Permite pesquisas rápidas em grandes conjuntos de dados graças aos conectores Python.",
+          "summary": "Turbovec é uma ferramenta de índice vetorial desenvolvida na linguagem Rust e utilizando a infraestrutura TurboQuant. Permite pesquisas rápidas em grandes conjuntos de dados graças aos conectores Python.",
           "meta": "Rust · ★ 15.994 · +230 hoje"
         }
       ]
@@ -214,7 +215,7 @@
         {
           "title": "Qwen/Qwen3.8-27B-FP8",
           "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "summary": "Desenvolvido pela Alibaba, Qwen2.5-27B-FP8 é um modelo de inteligência artificial multimodal que produz saída de texto processando entradas visuais e de texto. Com seu método de cálculo de baixa precisão (FP8), otimiza o uso de memória do modelo no hardware, permitindo que ele rode mais rápido.",
+          "summary": "Desenvolvido pela Alibaba, Qwen2.5-27B-FP8 é um modelo de inteligência artificial multimodal que produz saída de texto processando entradas visuais e de texto. Com seu método de cálculo de baixa precisão (FP8), permite que o modelo seja executado mais rapidamente, otimizando o uso de memória no hardware.",
           "meta": "♥ 637 · 1.517.643 downloads"
         }
       ]

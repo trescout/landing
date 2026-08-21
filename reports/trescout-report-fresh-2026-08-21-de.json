@@ -133,7 +133,7 @@
         {
           "title": "Supply chain attack on arrayref",
           "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
-          "summary": "Der Supply-Chain-Angriff auf die Arrayref-Bibliothek im Ökosystem der Programmiersprache Rust erfolgte, als ein böswilliger Benutzer die Kontrolle über das Paket übernahm. Dieser Vorfall verdeutlicht die Notwendigkeit, die Sicherheit von Abhängigkeiten Dritter zu überprüfen, die in Softwareentwicklungsprozessen verwendet werden.",
+          "summary": "Der Supply-Chain-Angriff auf die Arrayref-Bibliothek im Ökosystem der Programmiersprache Rust erfolgte, als ein böswilliger Benutzer die Kontrolle über das Paket übernahm. Dieser Vorfall verdeutlicht die Notwendigkeit, die Sicherheit von Abhängigkeiten von Drittanbietern zu überprüfen, die in Softwareentwicklungsprozessen verwendet werden.",
           "meta": "71 Punkte · 41 Kommentare",
           "discussions": [
             {

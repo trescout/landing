@@ -24,6 +24,10 @@ const ROOT = path.dirname(__dirname);
 const REPORTS_DIR = path.join(ROOT, 'reports');
 const LANG = (process.argv.find((a) => a.startsWith('--lang=')) || '--lang=en').split('=')[1];
 
+/** HTML kaçışı · çeviri metinleri tabloda, yine de sayfaya güvenle bas. */
+const esc = (t) => String(t ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;')
+  .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
 const D = JSON.parse(
   execFileSync('python3', [path.join(__dirname, 'diller.py'), '--json', LANG], { encoding: 'utf8' })
 );
@@ -125,8 +129,21 @@ function buildVariant(V) {
     if (!fs.existsSync(jsonPath)) { atlanan++; return; }
 
     let editorial = '';
+    let cekim = '';
     try {
-      editorial = JSON.parse(fs.readFileSync(jsonPath, 'utf8')).editorial || '';
+      const ham = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+      editorial = ham.editorial || '';
+      // capturedAt · verinin GERÇEKTEN çekildiği an. Rapordaki tarih bir takvim
+      // etiketi; enstantane kaynaklarda (GitHub Trending) içeriğin penceresi
+      // çekim saatine bağlı. Eski raporlarda alan yok · o zaman satır basılmıyor.
+      if (ham.capturedAt) {
+        const t = new Date(ham.capturedAt);
+        if (!Number.isNaN(t.getTime())) {
+          cekim = new Intl.DateTimeFormat(D.html_lang, {
+            dateStyle: 'long', timeStyle: 'short', timeZone: 'Europe/Istanbul',
+          }).format(t);
+        }
+      }
     } catch { /* bozuk JSON · aşağıda eleniyor */ }
     if (!editorial) { atlanan++; return; }
 
@@ -220,6 +237,7 @@ function buildVariant(V) {
         <a class="act act-read" href="${pdfUrl}" target="_blank" rel="noopener">${D.rapor_ac.replace('{dil}', D.rapor_dil_adi)}</a>
         <a class="act act-dl" href="${pdfUrl}" download>${D.rapor_indir}</a>
       </div>
+      ${cekim ? `<p class="rep-captured" title="${esc(D.rapor_cekim_not)}">${esc(D.rapor_cekim.replace('{an}', cekim))}</p>` : ''}
       <p class="rep-note">${D.rapor_not}</p>
       <aside class="signup-cta">
         <p>${D.rapor_cta}</p>
