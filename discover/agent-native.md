@@ -7,10 +7,10 @@ BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için ye
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
+- 21 Ağustos 2026: Yıldız 4.541 → 4.541, son sürüm @agent-native/core@0.168.5 (21 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 4.541 → 4.541, son sürüm v0.1.249 (21 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 4.540 → 4.541, son sürüm @agent-native/core@0.168.0 (21 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 4.540 → 4.540, son sürüm @agent-native/core@0.165.2 (20 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 4.537 → 4.540, son sürüm @agent-native/core@0.165.1 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ajan ve kullanıcı arayüzünü tek veritabanında senkronize eder

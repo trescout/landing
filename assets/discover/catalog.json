@@ -7474,6 +7474,13 @@
         "onceki_yildiz": 4541,
         "surum": "v0.1.249",
         "surum_tarihi": "2026-08-21"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 4541,
+        "onceki_yildiz": 4541,
+        "surum": "@agent-native/core@0.168.5",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "Agent-native, native applications for artificial intelligence agents developed by BuilderIO…",
@@ -8021,7 +8028,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 41.838 · TypeScript",
+    "meta": "★ 41.879 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -8029,7 +8036,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 41838,
+    "stars": 41879,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-08-21",
@@ -8145,6 +8152,13 @@
         "onceki_yildiz": 41723,
         "surum": "v0.8.5",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 41879,
+        "onceki_yildiz": 41838,
+        "surum": "v0.8.6",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video.",
@@ -17812,7 +17826,7 @@
     "slug": "free-claude-code",
     "title": "Free Claude Code",
     "tagline": "Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama…",
-    "meta": "★ 44.150 · Python",
+    "meta": "★ 46.363 · Python",
     "image": "/assets/discover/og/free-claude-code.webp",
     "source": "GitHub",
     "date": "2026-08-04",
@@ -17820,7 +17834,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 44150,
+    "stars": 46363,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına ücretsiz erişim",
     "last_review": "2026-08-21",
@@ -17829,7 +17843,14 @@
     "tagline_pt": "Terminais, aplicações para modelos de inteligência artificial como free-claude-code, Claude Code e Codex desenvolvidos por Alishahryar1…",
     "tagline_es": "Terminales, aplicaciones para modelos de inteligencia artificial como free-claude-code, Claude Code y Codex desarrollados por Alishahryar1…",
     "tagline_de": "Terminals, Anwendungen für Modelle der künstlichen Intelligenz wie Free-Claude-Code, Claude Code und Codex, entwickelt von Alishahryar1…",
-    "last_seen": "2026-08-04"
+    "last_seen": "2026-08-04",
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 46363,
+        "onceki_yildiz": 44150
+      }
+    ]
   },
   {
     "slug": "agents",
@@ -18349,7 +18370,7 @@
     "slug": "autogpt",
     "title": "AutoGPT",
     "tagline": "AutoGPT, karmaşık görevleri kendi başına planlayıp yürütebilen otonom yapay zekâ ajanları (autonomous AI agents) oluşturmayı…",
-    "meta": "★ 186.620 · Python",
+    "meta": "★ 186.692 · Python",
     "image": "/assets/discover/og/autogpt.webp",
     "source": "GitHub",
     "date": "2026-08-07",
@@ -18357,7 +18378,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 186620,
+    "stars": 186692,
     "lite": false,
     "headline": "Otonom yapay zekâ ajanları oluşturun",
     "last_review": "2026-08-21",
@@ -18375,6 +18396,13 @@
         "onceki_yildiz": 186094,
         "surum": "autogpt-platform-beta-v0.7.1",
         "surum_tarihi": "2026-08-13"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 186692,
+        "onceki_yildiz": 186620,
+        "surum": "autogpt-platform-beta-v0.7.2",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "AutoGPT aims to create autonomous AI agents that can plan and execute complex tasks on their own.",
