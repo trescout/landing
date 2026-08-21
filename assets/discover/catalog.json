@@ -2429,7 +2429,7 @@
     "slug": "hermes-agent",
     "title": "Hermes Agent",
     "tagline": "NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom ajan…",
-    "meta": "★ 232.339 · Python",
+    "meta": "★ 233.843 · Python",
     "image": "/assets/discover/og/hermes-agent.webp",
     "source": "GitHub",
     "date": "2026-06-04",
@@ -2437,7 +2437,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 232339,
+    "stars": 233843,
     "lite": false,
     "headline": "Kullanıcı Etkileşimleriyle Gelişen yapay zekâ",
     "last_review": "2026-08-21",
@@ -2476,6 +2476,13 @@
         "onceki_yildiz": 231620,
         "surum": "v2026.8.18",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 233843,
+        "onceki_yildiz": 232339,
+        "surum": "v2026.8.19",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "Developed by NousResearch, Hermes Agent is an autonomous agent that evolves over time by learning through user interactions.",
@@ -2489,7 +2496,7 @@
     "slug": "opendataloader-pdf",
     "title": "Opendataloader PDF",
     "tagline": "OpenDataLoader PDF, yapay zekâ modelleri için veriyi hazır hale getiren açık kaynaklı bir PDF ayrıştırıcıdır (PDF parser).",
-    "meta": "★ 28.540 · Java",
+    "meta": "★ 28.638 · Java",
     "image": "/assets/discover/og/opendataloader-pdf.webp",
     "source": "GitHub",
     "date": "2026-06-04",
@@ -2497,7 +2504,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 28540,
+    "stars": 28638,
     "lite": false,
     "headline": "PDF verilerini yapay zekâya hazırlayın",
     "last_review": "2026-08-21",
@@ -2515,6 +2522,13 @@
         "onceki_yildiz": 28095,
         "surum": "v2.5.1",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 28638,
+        "onceki_yildiz": 28540,
+        "surum": "v2.5.2",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "OpenDataLoader PDF is an open source PDF parser (PDF parser) that makes data available for artificial intelligence models.",
@@ -2722,14 +2736,14 @@
     "slug": "spec-kit",
     "title": "Spec Kit",
     "tagline": "GitHub tarafından yayınlanan spec-kit, şartname odaklı geliştirme (spec-driven development) süreçlerini başlatmak için gerekli…",
-    "meta": "★ 130.294 · Python",
+    "meta": "★ 130.645 · Python",
     "image": "/assets/discover/og/spec-kit.webp",
     "source": "GitHub",
     "date": "2026-06-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 130294,
+    "stars": 130645,
     "lite": false,
     "headline": "Yapay zekâ ile şartname odaklı geliştirme",
     "last_review": "2026-08-21",
@@ -2782,6 +2796,13 @@
         "onceki_yildiz": 129120,
         "surum": "v0.16.5",
         "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 130645,
+        "onceki_yildiz": 130294,
+        "surum": "v1.0.0",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "Published by GitHub, spec-kit is a tool required to start specification-driven development processes.",
@@ -3791,7 +3812,7 @@
     "slug": "llama-cpp",
     "title": "Llama.cpp",
     "tagline": "Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını…",
-    "meta": "★ 124.919 · C++",
+    "meta": "★ 124.998 · C++",
     "image": "/assets/discover/og/llama-cpp.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -3799,7 +3820,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 124919,
+    "stars": 124998,
     "lite": false,
     "headline": "Yapay zekâ modellerini bilgisayarınızda çalıştırın",
     "last_review": "2026-08-21",
@@ -3991,6 +4012,13 @@
         "yildiz": 124919,
         "onceki_yildiz": 124888,
         "surum": "b10545",
+        "surum_tarihi": "2026-08-21"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 124998,
+        "onceki_yildiz": 124919,
+        "surum": "b10549",
         "surum_tarihi": "2026-08-21"
       }
     ],
@@ -4404,7 +4432,7 @@
     "slug": "openmed",
     "title": "Openmed",
     "tagline": "OpenMed, sağlık hizmetleri alanında kullanılan açık kaynaklı yapay zekâ (artificial intelligence) modellerini ve veri…",
-    "meta": "★ 5.015 · Python",
+    "meta": "★ 5.076 · Python",
     "image": "/assets/discover/og/openmed.webp",
     "source": "GitHub",
     "date": "2026-06-10",
@@ -4412,7 +4440,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5015,
+    "stars": 5076,
     "lite": false,
     "headline": "Sağlıkta Açık Kaynak yapay zekâ",
     "last_review": "2026-08-21",
@@ -4430,6 +4458,13 @@
         "onceki_yildiz": 4793,
         "surum": "v2.1.0",
         "surum_tarihi": "2026-08-12"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 5076,
+        "onceki_yildiz": 5015,
+        "surum": "v2.2.0",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "OpenMed develops open source artificial intelligence models and data used in healthcare.",
@@ -4591,7 +4626,7 @@
     "slug": "hivemind",
     "title": "Hivemind",
     "tagline": "Activeloop tarafından geliştirilen Hivemind, tüm yapay zekâ ajanları için merkezi bir bellek ve koordinasyon katmanı…",
-    "meta": "★ 1.564 · TypeScript",
+    "meta": "★ 1.570 · TypeScript",
     "image": "/assets/discover/og/hivemind.webp",
     "source": "GitHub",
     "date": "2026-06-11",
@@ -4599,7 +4634,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 1564,
+    "stars": 1570,
     "lite": false,
     "headline": "Yapay zekâ ajanları için merkezi bellek",
     "last_review": "2026-08-21",
@@ -4624,6 +4659,13 @@
         "onceki_yildiz": 1558,
         "surum": "v0.7.147",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 1570,
+        "onceki_yildiz": 1564,
+        "surum": "v0.7.148",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "Hivemind, developed by Activeloop, is a central memory and coordination layer for all artificial intelligence agents.",
@@ -6033,14 +6075,14 @@
     "slug": "openwa",
     "title": "OpenWA",
     "tagline": "OpenWA, WhatsApp mesajlaşma protokolü için ücretsiz ve açık kaynaklı bir ağ geçidi (API gateway) çözümü sunuyor.",
-    "meta": "★ 12.991 · TypeScript",
+    "meta": "★ 13.033 · TypeScript",
     "image": "/assets/discover/og/openwa.webp",
     "source": "GitHub",
     "date": "2026-06-17",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 12991,
+    "stars": 13033,
     "lite": false,
     "headline": "WhatsApp için açık kaynaklı ağ geçidi",
     "last_review": "2026-08-21",
@@ -6135,6 +6177,13 @@
         "onceki_yildiz": 12953,
         "surum": "v0.23.0",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 13033,
+        "onceki_yildiz": 12991,
+        "surum": "v0.23.1",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "OpenWA offers a free and open source API gateway solution for the WhatsApp messaging protocol.",
@@ -7266,7 +7315,7 @@
     "slug": "agent-native",
     "title": "Agent Native",
     "tagline": "BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications)…",
-    "meta": "★ 4.541 · TypeScript",
+    "meta": "★ 4.540 · TypeScript",
     "image": "/assets/discover/og/agent-native.webp",
     "source": "GitHub",
     "date": "2026-06-20",
@@ -7274,7 +7323,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4541,
+    "stars": 4540,
     "lite": false,
     "headline": "Yapay zekâ ajanları için uygulama çerçevesi",
     "last_review": "2026-08-21",
@@ -7480,6 +7529,13 @@
         "yildiz": 4541,
         "onceki_yildiz": 4541,
         "surum": "@agent-native/core@0.168.5",
+        "surum_tarihi": "2026-08-21"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 4540,
+        "onceki_yildiz": 4541,
+        "surum": "@agent-native/dispatch@0.31.11",
         "surum_tarihi": "2026-08-21"
       }
     ],
@@ -8411,7 +8467,7 @@
     "slug": "orca",
     "title": "Orca",
     "tagline": "Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme…",
-    "meta": "★ 50.019 · TypeScript",
+    "meta": "★ 50.516 · TypeScript",
     "image": "/assets/discover/og/orca.webp",
     "source": "GitHub",
     "date": "2026-06-25",
@@ -8419,7 +8475,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 50019,
+    "stars": 50516,
     "lite": false,
     "headline": "Birden fazla yapay zekâ ajanı yönetin",
     "last_review": "2026-08-21",
@@ -8521,6 +8577,13 @@
         "onceki_yildiz": 48759,
         "surum": "v1.4.186",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 50516,
+        "onceki_yildiz": 50019,
+        "surum": "v1.4.187",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "Developed by Stablyai, Orca is an agent development tool that allows managing multiple artificial intelligence agents simultaneously.",
@@ -9183,7 +9246,7 @@
     "stars": 26697,
     "lite": false,
     "headline": "Kısıtlamasız yapay zekâ görsel ve video stüdyosu",
-    "last_review": "2026-08-20",
+    "last_review": "2026-08-21",
     "guncellemeler": [
       {
         "tarih": "2026-08-02",
@@ -9278,7 +9341,7 @@
     "slug": "opencode",
     "title": "Opencode",
     "tagline": "OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent).",
-    "meta": "★ 199.394 · TypeScript",
+    "meta": "★ 199.822 · TypeScript",
     "image": "/assets/discover/og/opencode.webp",
     "source": "GitHub",
     "date": "2026-06-28",
@@ -9286,7 +9349,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 199394,
+    "stars": 199822,
     "lite": false,
     "headline": "Açık kaynaklı yapay zekâ kodlama ajanı",
     "last_review": "2026-08-21",
@@ -9339,6 +9402,13 @@
         "onceki_yildiz": 197773,
         "surum": "v1.18.19",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 199822,
+        "onceki_yildiz": 199394,
+        "surum": "v1.18.21",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "OpenCode is an open source coding agent designed to automate software development processes.",
@@ -12691,14 +12761,14 @@
     "slug": "next-js",
     "title": "Next.js",
     "tagline": "Next.js, React tabanlı web uygulamaları geliştirmek için kullanılan bir çerçeve (framework) olarak sunucu taraflı oluşturma…",
-    "meta": "★ 141.787 · JavaScript",
+    "meta": "★ 141.887 · JavaScript",
     "image": "/assets/discover/og/next-js.webp",
     "source": "GitHub",
     "date": "2026-07-11",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 141787,
+    "stars": 141887,
     "lite": false,
     "headline": "React ile hızlı web uygulamaları geliştirin",
     "last_review": "2026-08-21",
@@ -12723,6 +12793,13 @@
         "onceki_yildiz": 141328,
         "surum": "v16.3.1",
         "surum_tarihi": "2026-08-13"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 141887,
+        "onceki_yildiz": 141787,
+        "surum": "v16.3.2",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "Next.js is a server-side rendering framework used to develop React-based web applications.",
@@ -13312,7 +13389,7 @@
     "slug": "hallmark",
     "title": "Hallmark",
     "tagline": "Hallmark, yapay zekâ tarafından üretilen standart içeriklerin (AI slop) tasarım üzerindeki etkisini azaltmak amacıyla…",
-    "meta": "★ 25.084 · CSS",
+    "meta": "★ 26.349 · CSS",
     "image": "/assets/discover/og/hallmark.webp",
     "source": "GitHub",
     "date": "2026-07-13",
@@ -13320,7 +13397,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 25084,
+    "stars": 26349,
     "lite": false,
     "headline": "Yapay zekâ tasarımlarına özgünlük kazandırın",
     "last_review": "2026-08-21",
@@ -13344,6 +13421,11 @@
         "tarih": "2026-08-15",
         "yildiz": 25084,
         "onceki_yildiz": 23216
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 26349,
+        "onceki_yildiz": 25084
       }
     ],
     "tagline_en": "Hallmark aims to reduce the impact of standard content produced by artificial intelligence (AI slop) on design…",
@@ -13870,7 +13952,7 @@
     "slug": "posthog",
     "title": "Posthog",
     "tagline": "PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session…",
-    "meta": "★ 38.045 · Python",
+    "meta": "★ 38.180 · Python",
     "image": "/assets/discover/og/posthog.webp",
     "source": "GitHub",
     "date": "2026-07-17",
@@ -13878,7 +13960,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 38045,
+    "stars": 38180,
     "lite": false,
     "headline": "Ürün geliştirme için yapay zekâ gözlemlenebilirliği",
     "last_review": "2026-08-21",
@@ -14014,6 +14096,13 @@
         "yildiz": 38045,
         "onceki_yildiz": 37995,
         "surum": "desktop-v0.60.349",
+        "surum_tarihi": "2026-08-21"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 38180,
+        "onceki_yildiz": 38045,
+        "surum": "desktop-v0.60.360",
         "surum_tarihi": "2026-08-21"
       }
     ],
@@ -15808,7 +15897,7 @@
     "slug": "open-code-review",
     "title": "Open Code Review",
     "tagline": "Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli…",
-    "meta": "★ 20.891 · Go",
+    "meta": "★ 21.044 · Go",
     "image": "/assets/discover/og/open-code-review.webp",
     "source": "GitHub",
     "date": "2026-07-24",
@@ -15816,7 +15905,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 20891,
+    "stars": 21044,
     "lite": false,
     "headline": "Yapay zekâ destekli hassas kod inceleme",
     "last_review": "2026-08-21",
@@ -15904,6 +15993,13 @@
         "onceki_yildiz": 20813,
         "surum": "v1.9.8",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 21044,
+        "onceki_yildiz": 20891,
+        "surum": "v1.9.9",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "Open source code review tool developed by Alibaba, large language model with deterministic pipelines…",
@@ -17599,7 +17695,7 @@
     "slug": "deepseek-reasonix",
     "title": "DeepSeek-Reasonix",
     "tagline": "DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel alan bir yapay zekâ kodlama ajanıdır.",
-    "meta": "★ 34.938 · Go",
+    "meta": "★ 34.994 · Go",
     "image": "/assets/discover/og/deepseek-reasonix.webp",
     "source": "GitHub",
     "date": "2026-08-03",
@@ -17607,7 +17703,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 34938,
+    "stars": 34994,
     "lite": false,
     "headline": "Terminal için yapay zekâ kodlama ajanı",
     "last_review": "2026-08-21",
@@ -17730,6 +17826,13 @@
         "onceki_yildiz": 34888,
         "surum": "desktop-v1.31.0",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 34994,
+        "onceki_yildiz": 34938,
+        "surum": "desktop-v1.31.1",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models.",
@@ -19465,14 +19568,14 @@
     "slug": "localsend",
     "title": "Localsend",
     "tagline": "LocalSend, farklı işletim sistemleri arasında dosya paylaşımına olanak tanıyan açık kaynaklı bir uygulama.",
-    "meta": "★ 88.401 · Dart",
+    "meta": "★ 88.882 · Dart",
     "image": "/assets/discover/og/localsend.webp",
     "source": "GitHub",
     "date": "2026-08-13",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 88401,
+    "stars": 88882,
     "lite": false,
     "headline": "Cihazlar arası güvenli dosya paylaşımı",
     "needs_enrichment": true,
@@ -19490,6 +19593,13 @@
         "onceki_yildiz": 87961,
         "surum": "v1.18.1",
         "surum_tarihi": "2026-08-12"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 88882,
+        "onceki_yildiz": 88401,
+        "surum": "v1.18.2",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "last_seen": "2026-08-13"
@@ -20082,7 +20192,7 @@
     "slug": "openviking",
     "title": "OpenViking",
     "tagline": "Volcengine tarafından geliştirilen OpenViking, yapay zekâ ajanları için kendi kendini geliştiren bir bağlam veritabanı sunuyor.",
-    "meta": "★ 30.721 · Python",
+    "meta": "★ 31.462 · Python",
     "image": "/assets/discover/og/openviking.webp",
     "source": "GitHub",
     "date": "2026-08-18",
@@ -20090,7 +20200,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 30721,
+    "stars": 31462,
     "lite": false,
     "headline": "Yapay zekâ ajanları için dosya sistemli hafıza",
     "tagline_en": "Developed by Volcengine, OpenViking offers a self-improving context database for AI agents.",
@@ -20113,6 +20223,13 @@
         "onceki_yildiz": 29066,
         "surum": "v0.4.15",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 31462,
+        "onceki_yildiz": 30721,
+        "surum": "v0.4.16",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "last_seen": "2026-08-21"
@@ -20303,14 +20420,14 @@
     "slug": "openlogi",
     "title": "OpenLogi",
     "tagline": "OpenLogi é um software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech.",
-    "meta": "★ 11.574 · Rust",
+    "meta": "★ 12.579 · Rust",
     "image": "/assets/discover/og/openlogi.webp",
     "source": "GitHub",
     "date": "2026-08-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 11574,
+    "stars": 12579,
     "lite": false,
     "headline": "Logitech cihazlar için açık kaynaklı yönetim",
     "tagline_en": "OpenLogi and software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech.",
@@ -20340,6 +20457,13 @@
         "onceki_yildiz": 11535,
         "surum": "v0.7.3",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 12579,
+        "onceki_yildiz": 11574,
+        "surum": "v0.7.4",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "last_seen": "2026-08-21"
@@ -20379,14 +20503,14 @@
     "slug": "google-timeline-visualizer",
     "title": "Google Timeline Visualizer",
     "tagline": "O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar rotas de viagem…",
-    "meta": "★ 1.753 · Kotlin",
+    "meta": "★ 2.075 · Kotlin",
     "image": "/assets/discover/og/google-timeline-visualizer.webp",
     "source": "GitHub",
     "date": "2026-08-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 1753,
+    "stars": 2075,
     "lite": false,
     "headline": "Konum geçmişinizi hareketli videoya dönüştürün",
     "tagline_en": "O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar routes de viagem…",
@@ -20415,6 +20539,13 @@
         "yildiz": 1753,
         "onceki_yildiz": 1359,
         "surum": "v2.2.6",
+        "surum_tarihi": "2026-08-21"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 2075,
+        "onceki_yildiz": 1753,
+        "surum": "v2.2.10",
         "surum_tarihi": "2026-08-21"
       }
     ],

@@ -2,11 +2,12 @@
 
 O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar rotas de viagem ao longo do ano em um mapa. Desenvolvido com a linguagem Kotlin, esta ferramenta cria resumos pessoais de viagens convertendo dados do histórico de localização em gráficos significativos.
 
-- ★ 1.753
+- ★ 2.075
 - Kotlin
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
+- 21 Ağustos 2026: Yıldız 1.753 → 2.075, son sürüm v2.2.10 (21 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 1.359 → 1.753, son sürüm v2.2.6 (21 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 882 → 1.359, son sürüm v2.2.5 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 866 → 882, son sürüm v2.2.0 (20 Ağustos 2026).

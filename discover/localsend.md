@@ -2,11 +2,12 @@
 
 LocalSend, farklı işletim sistemleri arasında dosya paylaşımına olanak tanıyan açık kaynaklı bir uygulama. Apple cihazların sunduğu AirDrop özelliğine platform bağımsız bir alternatif oluşturuyor.
 
-- ★ 88.401
+- ★ 88.882
 - Dart
 - GitHub Trending · 2026-08-13
 
 ## Güncelleme
+- 21 Ağustos 2026: Yıldız 88.401 → 88.882, son sürüm v1.18.2 (21 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 87.961 → 88.401, son sürüm v1.18.1 (12 Ağustos 2026).
 
 ## Ne kazandırır?

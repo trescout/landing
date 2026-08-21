@@ -2,7 +2,7 @@
 
 L'outil de révision de code open source développé par Alibaba combine des pipelines déterministes et des agents LLM (Large Language Model) dans une structure hybride. Doté de règles de sécurité logicielles et de capacités d'interprétation basées sur les lignes, l'outil est écrit en langage Go et propose une infrastructure compatible OpenAI et Anthropic.
 
-- ★ 20 891
+- ★ 21 044
 - Go
 - GitHub Trending · 2026-07-24
 
