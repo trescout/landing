@@ -581,7 +581,7 @@
     "tagline_pt": "Insira um tópico e a IA produzirá vídeos curtos com legendas com um clique.",
     "tagline_es": "Ingrese un tema y la IA producirá videos cortos con subtítulos con un solo clic.",
     "tagline_de": "Geben Sie ein Thema ein und die KI erstellt mit einem Klick kurze Videos mit Untertiteln.",
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "heretic",
@@ -727,7 +727,7 @@
     "tagline_pt": "Habilidades compostas e metodologia de desenvolvimento de software para agentes de codificação.",
     "tagline_es": "Habilidades compuestas y metodología de desarrollo de software para agentes de codificación.",
     "tagline_de": "Zusammengesetzte Fähigkeiten und Softwareentwicklungsmethodik für Codierungsagenten.",
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "english-level-up-tips",
@@ -1220,7 +1220,7 @@
     "tagline_pt": "Especificação oficial de plugins e plugins prontos para o editor de código Cursor.",
     "tagline_es": "Especificación oficial de complementos y complementos listos para usar para el editor de código de cursor.",
     "tagline_de": "Offizielle Plugin-Spezifikation und vorgefertigte Plugins für den Cursor-Code-Editor.",
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "voxcpm",
@@ -3512,7 +3512,7 @@
     "tagline_pt": "Usando a infraestrutura do Claude Code, as operações de carreira oferecem processos de busca de emprego apoiados por inteligência artificial com 14 modos de habilidades diferentes.",
     "tagline_es": "Utilizando la infraestructura de Claude Code, Career-Ops ofrece procesos de búsqueda de empleo respaldados por inteligencia artificial con 14 modos de habilidades diferentes.",
     "tagline_de": "Career-ops bietet mithilfe der Claude-Code-Infrastruktur künstliche Intelligenz-gestützte Jobsuchprozesse mit 14 verschiedenen Skill-Modi an.",
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "whisper",
@@ -3791,7 +3791,7 @@
     "slug": "llama-cpp",
     "title": "Llama.cpp",
     "tagline": "Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını…",
-    "meta": "★ 124.888 · C++",
+    "meta": "★ 124.919 · C++",
     "image": "/assets/discover/og/llama-cpp.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -3799,7 +3799,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 124888,
+    "stars": 124919,
     "lite": false,
     "headline": "Yapay zekâ modellerini bilgisayarınızda çalıştırın",
     "last_review": "2026-08-21",
@@ -3985,6 +3985,13 @@
         "onceki_yildiz": 124853,
         "surum": "b10531",
         "surum_tarihi": "2026-08-21"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 124919,
+        "onceki_yildiz": 124888,
+        "surum": "b10545",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "Llama.cpp enables large language models to run efficiently on standard hardware.",
@@ -4028,7 +4035,7 @@
     "tagline_pt": "Construído na infraestrutura TurboQuant, turbovec é um diretório vetorial de alto desempenho (vetor…",
     "tagline_es": "Construido sobre la infraestructura TurboQuant, turbovec es un directorio vectorial de alto rendimiento (vector...",
     "tagline_de": "Turbovec basiert auf der TurboQuant-Infrastruktur und ist ein leistungsstarkes Vektorverzeichnis (Vektor…",
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "chinatextbook",
@@ -6755,7 +6762,7 @@
     "tagline_pt": "Plane é uma ferramenta de gerenciamento de projetos de código aberto que combina processos de gerenciamento de tarefas, planejamento de sprint e documentação.",
     "tagline_es": "Plane es una herramienta de gestión de proyectos de código abierto que combina gestión de tareas, planificación de sprints y procesos de documentación.",
     "tagline_de": "Plane ist ein Open-Source-Projektmanagement-Tool, das Aufgabenverwaltung, Sprintplanung und Dokumentationsprozesse kombiniert.",
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "glm-5",
@@ -7460,6 +7467,13 @@
         "onceki_yildiz": 4540,
         "surum": "@agent-native/core@0.168.0",
         "surum_tarihi": "2026-08-21"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 4541,
+        "onceki_yildiz": 4541,
+        "surum": "v0.1.249",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "Agent-native, native applications for artificial intelligence agents developed by BuilderIO…",
@@ -7574,7 +7588,7 @@
     "slug": "jcode",
     "title": "Jcode",
     "tagline": "Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness)…",
-    "meta": "★ 17.976 · Rust",
+    "meta": "★ 18.120 · Rust",
     "image": "/assets/discover/og/jcode.webp",
     "source": "GitHub",
     "date": "2026-06-21",
@@ -7582,7 +7596,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 17976,
+    "stars": 18120,
     "lite": false,
     "headline": "Kodlama ajanları için yüksek performanslı çerçeve",
     "last_review": "2026-08-21",
@@ -7670,6 +7684,13 @@
         "onceki_yildiz": 17904,
         "surum": "v0.78.1",
         "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 18120,
+        "onceki_yildiz": 17976,
+        "surum": "v0.79.1",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "Developed with the Rust language, jcode is a framework (harness) for testing and evaluating coding-oriented artificial intelligence agents.",
@@ -9176,14 +9197,14 @@
     "slug": "dbt-core",
     "title": "Dbt Core",
     "tagline": "Veri dönüştürme aracı (dbt-core), veri analistlerinin ve mühendislerinin yazılım geliştirme süreçlerine benzer yöntemlerle…",
-    "meta": "★ 13.672 · Rust",
+    "meta": "★ 13.673 · Rust",
     "image": "/assets/discover/og/dbt-core.webp",
     "source": "GitHub",
     "date": "2026-06-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 13672,
+    "stars": 13673,
     "lite": false,
     "headline": "Veri ambarında standartlaştırılmış dönüşüm süreçleri",
     "last_review": "2026-08-21",
@@ -9208,6 +9229,13 @@
         "onceki_yildiz": 13646,
         "surum": "v1.11.14",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 13673,
+        "onceki_yildiz": 13672,
+        "surum": "v1.12.3",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "The data transformation tool (dbt-core) enables data analysts and engineers to use software development processes in similar ways.",
@@ -10362,7 +10390,7 @@
     "tagline_pt": "Caveman, desenvolvido para Claude Code, simplifica o uso da linguagem do modelo de inteligência artificial e reduz o consumo de tokens.",
     "tagline_es": "Caveman, desarrollado para Claude Code, simplifica el uso del lenguaje del modelo de inteligencia artificial y reduce el consumo de tokens.",
     "tagline_de": "Caveman, entwickelt für Claude Code, vereinfacht die Sprachverwendung des Modells der künstlichen Intelligenz und reduziert den Token-Verbrauch.",
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "chrome-devtools-mcp",
@@ -11015,14 +11043,14 @@
     "slug": "folia-major",
     "title": "Folia Major",
     "tagline": "Folia-major, yerel müzik dosyaları ve çevrimiçi platformlar için görselleştirilmiş şarkı sözü animasyonları sunan bir oynatıcı…",
-    "meta": "★ 1.784 · TypeScript",
+    "meta": "★ 1.786 · TypeScript",
     "image": "/assets/discover/og/folia-major.webp",
     "source": "GitHub",
     "date": "2026-07-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 1784,
+    "stars": 1786,
     "lite": false,
     "headline": "Müzik deneyimini görselleştiren şarkı oynatıcı",
     "last_review": "2026-08-21",
@@ -11089,6 +11117,13 @@
         "onceki_yildiz": 1769,
         "surum": "v0.6.20",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 1786,
+        "onceki_yildiz": 1784,
+        "surum": "v0.6.21",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "Folia-major is a player that provides visualized lyric animations for local music files and online platforms.",
@@ -13821,7 +13856,7 @@
     "slug": "posthog",
     "title": "Posthog",
     "tagline": "PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session…",
-    "meta": "★ 37.995 · Python",
+    "meta": "★ 38.045 · Python",
     "image": "/assets/discover/og/posthog.webp",
     "source": "GitHub",
     "date": "2026-07-17",
@@ -13829,7 +13864,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 37995,
+    "stars": 38045,
     "lite": false,
     "headline": "Ürün geliştirme için yapay zekâ gözlemlenebilirliği",
     "last_review": "2026-08-21",
@@ -13959,6 +13994,13 @@
         "onceki_yildiz": 37911,
         "surum": "posthog-cli/v0.13.3",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 38045,
+        "onceki_yildiz": 37995,
+        "surum": "desktop-v0.60.349",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "PostHog provides artificial intelligence observability, analysis and session replay for product development processes.",
@@ -13966,7 +14008,7 @@
     "tagline_pt": "PostHog fornece observabilidade de inteligência artificial, análise e reprodução de sessão para processos de desenvolvimento de produtos.",
     "tagline_es": "PostHog proporciona observabilidad, análisis y repetición de sesiones de inteligencia artificial para procesos de desarrollo de productos.",
     "tagline_de": "PostHog bietet Beobachtbarkeit, Analyse und Sitzungswiedergabe durch künstliche Intelligenz für Produktentwicklungsprozesse.",
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "bonsai-demo",
@@ -15005,7 +15047,7 @@
     "slug": "text-to-cad",
     "title": "Text to Cad",
     "tagline": "Metinden bilgisayar destekli tasarım (text-to-cad) araçları, robotik ve donanım tasarımı süreçlerini otomatikleştirmek için…",
-    "meta": "★ 13.684 · JavaScript",
+    "meta": "★ 13.730 · JavaScript",
     "image": "/assets/discover/og/text-to-cad.webp",
     "source": "GitHub",
     "date": "2026-07-22",
@@ -15013,7 +15055,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 13684,
+    "stars": 13730,
     "lite": false,
     "headline": "Yapay zekâ ile otomatik tasarım",
     "last_review": "2026-08-21",
@@ -15073,6 +15115,13 @@
         "onceki_yildiz": 13626,
         "surum": "0.4.20",
         "surum_tarihi": "2026-08-19"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 13730,
+        "onceki_yildiz": 13684,
+        "surum": "0.4.21",
+        "surum_tarihi": "2026-08-21"
       }
     ],
     "tagline_en": "Text-to-CAD tools are used to automate robotics and hardware design processes.",
@@ -19951,7 +20000,7 @@
         "surum_tarihi": "2026-08-18"
       }
     ],
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "ai-memory",
@@ -19999,7 +20048,7 @@
         "surum_tarihi": "2026-08-19"
       }
     ],
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "openviking",
@@ -20038,7 +20087,7 @@
         "surum_tarihi": "2026-08-18"
       }
     ],
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "motrix",
@@ -20220,7 +20269,7 @@
         "surum_tarihi": "2026-08-11"
       }
     ],
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "openlogi",
@@ -20265,7 +20314,7 @@
         "surum_tarihi": "2026-08-20"
       }
     ],
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "substrate",
@@ -20296,20 +20345,20 @@
         "surum_tarihi": "2026-05-19"
       }
     ],
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "google-timeline-visualizer",
     "title": "Google Timeline Visualizer",
     "tagline": "O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar rotas de viagem…",
-    "meta": "★ 1.359 · Kotlin",
+    "meta": "★ 1.753 · Kotlin",
     "image": "/assets/discover/og/google-timeline-visualizer.webp",
     "source": "GitHub",
     "date": "2026-08-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 1359,
+    "stars": 1753,
     "lite": false,
     "headline": "Konum geçmişinizi hareketli videoya dönüştürün",
     "tagline_en": "O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar routes de viagem…",
@@ -20332,9 +20381,16 @@
         "onceki_yildiz": 882,
         "surum": "v2.2.5",
         "surum_tarihi": "2026-08-20"
+      },
+      {
+        "tarih": "2026-08-21",
+        "yildiz": 1753,
+        "onceki_yildiz": 1359,
+        "surum": "v2.2.6",
+        "surum_tarihi": "2026-08-21"
       }
     ],
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   },
   {
     "slug": "ai-infra-guard",
@@ -20366,6 +20422,6 @@
         "surum_tarihi": "2026-08-17"
       }
     ],
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-08-21"
   }
 ]

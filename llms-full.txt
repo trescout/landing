@@ -23234,17 +23234,17 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını sağlayan C ve C++ tabanlı bir çıkarım (inference) kütüphanesidir. Yazılım, düşük bellek kullanımı ve yüksek performans odaklı yapısıyla yerel cihazlarda yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.
 
-- ★ 124.888
+- ★ 124.919
 - C++
 - GitHub Trending · 2026-06-08
 
 TreScout notu: Dil modellerini kendi bilgisayarınızda, sunucu kiralamadan çalıştırır. Kurulum artık kolay ama beklentiyi ayarlayın: Küçük modeller hızlı, büyükleri belleğinizi zorlar ve bulut hizmetlerinin cevap kalitesini beklemeyin.
 
 ## Güncelleme
+- 21 Ağustos 2026: Yıldız 124.888 → 124.919, son sürüm b10545 (21 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 124.853 → 124.888, son sürüm b10531 (21 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 124.811 → 124.853, son sürüm b10517 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 124.773 → 124.811, son sürüm b10509 (20 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 124.753 → 124.773, son sürüm b10507 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 - Büyük dil modellerini standart donanımlarda verimli çalıştırır.
@@ -30079,15 +30079,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session replay) gibi araçları bir araya getiren kapsamlı bir platformdur. Yazılım geliştiricilerin hata takibi, deney yönetimi ve kullanıcı verilerini analiz ederek otonom ürünler oluşturmasını sağlar.
 
-- ★ 37.995
+- ★ 38.045
 - Python
 - GitHub Trending · 2026-07-17
 
 ## Güncelleme
+- 21 Ağustos 2026: Yıldız 37.995 → 38.045, son sürüm desktop-v0.60.349 (21 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 37.911 → 37.995, son sürüm posthog-cli/v0.13.3 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 37.805 → 37.911, son sürüm desktop-v0.60.345 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 37.789 → 37.805, son sürüm desktop-v0.60.317 (20 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 37.777 → 37.789, son sürüm desktop-v0.60.313 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 - Kullanıcı davranışlarını analiz ederek hataları otomatik tespit edin.
@@ -35844,69 +35844,19 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# C++ standart kütüphanesini güçlendiren araçlar
-
-Google tarafından geliştirilen Abseil, C++ standart kütüphanesini tamamlayan açık kaynaklı kod parçaları (code snippets) sunuyor. Bu kütüphane, karmaşık yazılım projelerinde kodun sürdürülebilirliğini ve performansını artırmak amacıyla temel veri yapıları ile algoritmalar sağlıyor.
-
-- ★ 18.083
-- C++
-- GitHub Trending · 2026-07-11
-
-## Güncelleme
-- 19 Ağustos 2026: Yıldız 18.043 → 18.083, son sürüm 20260817.0 (18 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 17.545 → 18.043, son sürüm 20260526.0 (1 Haziran 2026).
-
-## Ne kazandırır?
-- C++17 uyumlu temel veri yapıları ve algoritmalar sağlar
-- Google projelerinde test edilmiş güvenilir kod parçaları sunar
-- Standart kütüphanede eksik olan işlevsellikleri tamamlar
-
-## Kurulum
-
-**macOS (Homebrew)**
-
-```
-brew install abseil
-```
-
-Kaynak: Homebrew formülü · abseil.io
-
-## Nasıl başlanır?
-
-Abseil kullanmaya başlamak için resmî web sitesindeki Abseil Quickstart dokümanını ziyaret etmelisiniz. Bu kılavuz, geliştirme ortamınızı nasıl hazırlayacağınız, kodları nasıl indireceğiniz ve basit bir ikili dosyanın nasıl çalıştırılacağı konusunda size yol gösterecektir.
-- [Resmî kaynak →](https://abseil.io)
-
-- **Kimin için:** Karmaşık yazılım projelerinde kod sürdürülebilirliğini ve performansını artırmak isteyen C++ geliştiricileri içindir. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/abseil/abseil-cpp)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Code Snippets
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/abseil-cpp/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Kodlama ajanları için yüksek performanslı çerçeve
 
 Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness) sunuyor. Yazılım geliştirme süreçlerinde kullanılan ajanların performansını ölçmek amacıyla standart bir altyapı sağlıyor.
 
-- ★ 17.976
+- ★ 18.120
 - Rust
 - GitHub Trending · 2026-06-21
 
 ## Güncelleme
+- 21 Ağustos 2026: Yıldız 17.976 → 18.120, son sürüm v0.79.1 (21 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 17.904 → 17.976, son sürüm v0.78.1 (19 Ağustos 2026).
 - 18 Ağustos 2026: Yıldız 17.767 → 17.904, son sürüm v0.78.0 (18 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 17.637 → 17.767, son sürüm v0.77.1 (17 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 17.227 → 17.637, son sürüm v0.76.0 (14 Ağustos 2026).
 
 ## Ne kazandırır?
 - Çoklu oturum iş akışlarında yüksek kaynak verimliliği
@@ -35955,6 +35905,56 @@ Harness Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/jcode/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# C++ standart kütüphanesini güçlendiren araçlar
+
+Google tarafından geliştirilen Abseil, C++ standart kütüphanesini tamamlayan açık kaynaklı kod parçaları (code snippets) sunuyor. Bu kütüphane, karmaşık yazılım projelerinde kodun sürdürülebilirliğini ve performansını artırmak amacıyla temel veri yapıları ile algoritmalar sağlıyor.
+
+- ★ 18.083
+- C++
+- GitHub Trending · 2026-07-11
+
+## Güncelleme
+- 19 Ağustos 2026: Yıldız 18.043 → 18.083, son sürüm 20260817.0 (18 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 17.545 → 18.043, son sürüm 20260526.0 (1 Haziran 2026).
+
+## Ne kazandırır?
+- C++17 uyumlu temel veri yapıları ve algoritmalar sağlar
+- Google projelerinde test edilmiş güvenilir kod parçaları sunar
+- Standart kütüphanede eksik olan işlevsellikleri tamamlar
+
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install abseil
+```
+
+Kaynak: Homebrew formülü · abseil.io
+
+## Nasıl başlanır?
+
+Abseil kullanmaya başlamak için resmî web sitesindeki Abseil Quickstart dokümanını ziyaret etmelisiniz. Bu kılavuz, geliştirme ortamınızı nasıl hazırlayacağınız, kodları nasıl indireceğiniz ve basit bir ikili dosyanın nasıl çalıştırılacağı konusunda size yol gösterecektir.
+- [Resmî kaynak →](https://abseil.io)
+
+- **Kimin için:** Karmaşık yazılım projelerinde kod sürdürülebilirliğini ve performansını artırmak isteyen C++ geliştiricileri içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/abseil/abseil-cpp)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Code Snippets
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/abseil-cpp/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -37526,15 +37526,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Metinden bilgisayar destekli tasarım (text-to-cad) araçları, robotik ve donanım tasarımı süreçlerini otomatikleştirmek için geliştirilen bir yetenek paketi (agent skills) koleksiyonudur. JavaScript tabanlı bu kütüphane, karmaşık mühendislik modellerinin doğal dil komutlarıyla oluşturulmasına olanak tanır.
 
-- ★ 13.684
+- ★ 13.730
 - JavaScript
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
+- 21 Ağustos 2026: Yıldız 13.684 → 13.730, son sürüm 0.4.21 (21 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 13.626 → 13.684, son sürüm 0.4.20 (19 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 13.591 → 13.626, son sürüm 0.4.19 (19 Ağustos 2026).
 - 18 Ağustos 2026: Yıldız 13.520 → 13.591, son sürüm 0.4.17 (17 Ağustos 2026).
-- 17 Ağustos 2026: Yıldız 13.474 → 13.520, son sürüm 0.4.15 (17 Ağustos 2026).
 
 ## Ne kazandırır?
 - Doğal dille karmaşık CAD modelleri oluşturma
@@ -37617,11 +37617,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Veri dönüştürme aracı (dbt-core), veri analistlerinin ve mühendislerinin yazılım geliştirme süreçlerine benzer yöntemlerle veri dönüşümü (data transformation) yapmalarını sağlıyor. Sürüm kontrolü ve test süreçlerini veri ambarlarına entegre ederek analitik iş akışlarını standartlaştırıyor.
 
-- ★ 13.672
+- ★ 13.673
 - Rust
 - GitHub Trending · 2026-06-28
 
 ## Güncelleme
+- 21 Ağustos 2026: Yıldız 13.672 → 13.673, son sürüm v1.12.3 (21 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 13.646 → 13.672, son sürüm v1.11.14 (20 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 13.561 → 13.646, son sürüm v1.2.7 (14 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 13.271 → 13.561, son sürüm v1.12.0 (16 Temmuz 2026).
@@ -43011,10 +43012,10 @@ BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için ye
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
+- 21 Ağustos 2026: Yıldız 4.541 → 4.541, son sürüm v0.1.249 (21 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 4.540 → 4.541, son sürüm @agent-native/core@0.168.0 (21 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 4.540 → 4.540, son sürüm @agent-native/core@0.165.2 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 4.537 → 4.540, son sürüm @agent-native/core@0.165.1 (20 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 4.536 → 4.537, son sürüm @agent-native/core@0.164.24 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ajan ve kullanıcı arayüzünü tek veritabanında senkronize eder
@@ -44864,15 +44865,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Folia-major, yerel müzik dosyaları ve çevrimiçi platformlar için görselleştirilmiş şarkı sözü animasyonları sunan bir oynatıcı arayüzüdür. TypeScript ile geliştirilen bu araç, müzik dinleme deneyimini dinamik görsel efektlerle zenginleştirmeyi amaçlar.
 
-- ★ 1.784
+- ★ 1.786
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Güncelleme
+- 21 Ağustos 2026: Yıldız 1.784 → 1.786, son sürüm v0.6.21 (21 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 1.769 → 1.784, son sürüm v0.6.20 (20 Ağustos 2026).
 - 18 Ağustos 2026: Yıldız 1.742 → 1.769, son sürüm v0.6.19 (17 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 1.683 → 1.742, son sürüm v0.6.18 (13 Ağustos 2026).
-- 10 Ağustos 2026: Yıldız 1.673 → 1.683, son sürüm v0.6.16 (9 Ağustos 2026).
 
 ## Ne kazandırır?
 - Dinamik tam ekran şarkı sözü animasyonları
@@ -44897,6 +44898,64 @@ Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/folia-major/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Konum geçmişinizi hareketli videoya dönüştürün
+
+O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar rotas de viagem ao longo do ano em um mapa. Desenvolvido com a linguagem Kotlin, esta ferramenta cria resumos pessoais de viagens convertendo dados do histórico de localização em gráficos significativos.
+
+- ★ 1.753
+- Kotlin
+- GitHub Trending · 2026-08-20
+
+## Güncelleme
+- 21 Ağustos 2026: Yıldız 1.359 → 1.753, son sürüm v2.2.6 (21 Ağustos 2026).
+- 20 Ağustos 2026: Yıldız 882 → 1.359, son sürüm v2.2.5 (20 Ağustos 2026).
+- 20 Ağustos 2026: Yıldız 866 → 882, son sürüm v2.2.0 (20 Ağustos 2026).
+
+## Ne kazandırır?
+- Google Haritalar geçmiş verisini MP4 videoya çevirir
+- Seyahat rotalarını harita üzerinde animasyonla gösterir
+- Kişisel verileri cihazda işleyerek gizliliği korur
+
+## Kurulum
+
+**Gerekli bağımlılıkları yükleme ve çalışt**
+
+```
+python -m pip install -r requirements.txt
+python visualizer.py --input Timeline.json --year 2025 --camera-movement steady \
+--long-trip-compression balanced --output my_trip_2025.mp4
+```
+
+**Geliştirme araçlarını yapılandırma**
+
+```
+./gradlew test lint assembleGithubDebug assemblePlayDebug
+python -m pip install -r requirements-dev.txt
+python -m pytest
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Elimdeki Timeline.json dosyasını kullanarak seyahatlerimi gösteren bir video oluşturmak istiyorum. Python ortamında gerekli bağımlılıkları yükledikten sonra, 2025 yılı verilerimi 'steady' kamera hareketi ve 'balanced' sıkıştırma ayarlarıyla 'my_trip_2025.mp4' adında bir dosyaya dönüştürmek için hangi komutu kullanmalıyım?
+
+- **Kimin için:** Google Haritalar'daki konum geçmişini görselleştirmek ve seyahat anılarını video formatında saklamak isteyen herkes için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/mahlernim/google-timeline-visualizer)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/google-timeline-visualizer/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -45387,63 +45446,6 @@ Emulator CPU SDK
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sharpemu/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Konum geçmişinizi hareketli videoya dönüştürün
-
-O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar rotas de viagem ao longo do ano em um mapa. Desenvolvido com a linguagem Kotlin, esta ferramenta cria resumos pessoais de viagens convertendo dados do histórico de localização em gráficos significativos.
-
-- ★ 1.359
-- Kotlin
-- GitHub Trending · 2026-08-20
-
-## Güncelleme
-- 20 Ağustos 2026: Yıldız 882 → 1.359, son sürüm v2.2.5 (20 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 866 → 882, son sürüm v2.2.0 (20 Ağustos 2026).
-
-## Ne kazandırır?
-- Google Haritalar geçmiş verisini MP4 videoya çevirir
-- Seyahat rotalarını harita üzerinde animasyonla gösterir
-- Kişisel verileri cihazda işleyerek gizliliği korur
-
-## Kurulum
-
-**Gerekli bağımlılıkları yükleme ve çalışt**
-
-```
-python -m pip install -r requirements.txt
-python visualizer.py --input Timeline.json --year 2025 --camera-movement steady \
---long-trip-compression balanced --output my_trip_2025.mp4
-```
-
-**Geliştirme araçlarını yapılandırma**
-
-```
-./gradlew test lint assembleGithubDebug assemblePlayDebug
-python -m pip install -r requirements-dev.txt
-python -m pytest
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Elimdeki Timeline.json dosyasını kullanarak seyahatlerimi gösteren bir video oluşturmak istiyorum. Python ortamında gerekli bağımlılıkları yükledikten sonra, 2025 yılı verilerimi 'steady' kamera hareketi ve 'balanced' sıkıştırma ayarlarıyla 'my_trip_2025.mp4' adında bir dosyaya dönüştürmek için hangi komutu kullanmalıyım?
-
-- **Kimin için:** Google Haritalar'daki konum geçmişini görselleştirmek ve seyahat anılarını video formatında saklamak isteyen herkes için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/mahlernim/google-timeline-visualizer)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/google-timeline-visualizer/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

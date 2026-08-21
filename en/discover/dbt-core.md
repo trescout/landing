@@ -2,7 +2,7 @@
 
 The data transformation tool (dbt-core) enables data analysts and engineers to perform data transformation using methods similar to software development processes. It standardizes analytical workflows by integrating version control and testing processes into data warehouses.
 
-- ★ 13,672
+- ★ 13,673
 - Rust
 - GitHub Trending · 2026-06-28
 
