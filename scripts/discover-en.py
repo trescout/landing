@@ -466,7 +466,11 @@ def build(slug, cat, chrome):
              f'<section class="disc-sec"><h2>{D["baglantilar"]}</h2><ul class="disc-links">'
              f'<li><a href="{esc(url)}" target="_blank" rel="noopener">{D["depo"]}</a></li>'
              f'<li><a href="{canon_tr}">{D["turkce_oku"]}</a></li></ul></section>\n'
-             f'<p class="disc-disclaimer">{D["sorumluluk"].format(date=date)}</p>\n'
+             # Sorumluluk notunun yanına ÇEVİRİ notu · keşif sayfalarında hiç
+             # yoktu (2026-08-21 denetimi). Okur "TreScout bu aracı geliştirmedi"
+             # uyarısını görüyordu ama metnin makineden geçtiğini görmüyordu.
+             f'<p class="disc-disclaimer">{D["sorumluluk"].format(date=date)} '
+             f'{D["ceviri_notu_kisa"]}</p>\n'
              f'<aside class="disc-cta"><p><strong>{D["cta_baslik"]}</strong> {D["cta_metin"]}</p>'
              + form + f'<a class="btn btn-ghost disc-cta-all" href="{D["onek"]}/discover/">{D["kesif_tumu"]}</a></aside>\n'
              '</article>\n</main>\n' + footer + '\n<script src="/assets/discover.js" defer></script>\n'
