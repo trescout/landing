@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-21",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+          "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+          "summary": "Aaron Swartz'ın veri kazıma (web scraping) nedeniyle hukuki yaptırımlara maruz kalması, büyük teknoloji şirketlerinin benzer faaliyetleri karşısında yaşadığı yasal dokunulmazlıkla kıyaslanıyor. Bu durum, veri toplama yöntemlerinin etik sınırları ve dijital platformların veri kullanımı konusundaki çifte standart tartışmalarını yeniden gündeme getiriyor.",
+          "meta": "1.200 oy · 270 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49379550",
+              "popularity": 1200,
+              "engagementCount": 270
+            }
+          ]
+        },
+        {
+          "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+          "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+          "summary": "AliExpress web sitesi, kullanıcıları takip etmek amacıyla web ses (WebAudio) parmak izi alma yöntemini kullanıyor. Bu süreç, tarayıcı üzerinden donanım kaynaklarını etkileyerek çoklu bağlantı (Bluetooth multipoint) özelliğine sahip kulaklıkların bağlantı kararlılığını bozuyor.",
+          "meta": "926 oy · 295 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49372583",
+              "popularity": 926,
+              "engagementCount": 295
+            }
+          ]
+        },
+        {
+          "title": "I like 'em thick: an apology to my English teachers",
+          "url": "https://www.experimental-history.com/p/i-like-em-thick",
+          "summary": "Yazar Adam Mastroianni, akademik yazımda kullanılan kısa ve öz anlatım tarzının aksine, detaylı ve uzun cümlelerin fikirleri daha iyi açıkladığını savunuyor. Karmaşık düşünceleri aktarmak için metinlerde yoğunluk (thickness) kullanımını teşvik eden bir yaklaşım öneriyor.",
+          "meta": "621 oy · 268 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49347543",
+              "popularity": 621,
+              "engagementCount": 268
+            }
+          ]
+        },
+        {
+          "title": "Malicious Rust crate Arrayref runs a build-time payload",
+          "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+          "summary": "Rust programlama dilinin paket yöneticisi crates.io üzerinde bulunan arrayref adlı kütüphane, derleme zamanında (build-time) zararlı kod çalıştıran bir güvenlik açığı içeriyor. Bu durum, yazılım tedarik zinciri saldırılarının (supply chain attacks) geliştirici araçları üzerinden nasıl yürütülebileceğini gösteriyor.",
+          "meta": "423 oy · 377 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49374269",
+              "popularity": 423,
+              "engagementCount": 377
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "summary": "Hugging Face platformunda paylaşılan orcarouter/Qwen3.8-27B-Uncensored-MLX, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir yapay zekâ modeli. Apple cihazlarında çalışan MLX kütüphanesiyle optimize edilen bu model, içerik kısıtlaması bulunmayan (uncensored) bir yapı sunuyor.",
+          "meta": "♥ 723 · 2.628 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
+          "url": "https://huggingface.co/papers/2608.19758",
+          "summary": "FlashPrefill V2, büyük dil modellerinde (large language models) uzun bağlam işleme sırasında oluşan hesaplama yükünü azaltmak için geliştirilen bir yöntemdir. Dikkat mekanizmasının (attention) karmaşıklığını blok seyrekliği (block-sparsity) ile optimize ederek, üretim ortamlarında daha verimli çalışmayı hedefler.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
+          "url": "https://huggingface.co/papers/2608.13120",
+          "summary": "SkillEvo, yapay zekâ ajanlarının yeteneklerini (agent skills) çok turlu etkileşimlerden gelen geri bildirimlerle sürekli geliştiren bir yöntem sunuyor. Bu yaklaşım, tek seferlik üretimin veya basit soru-cevap değerlendirmelerinin aksine, ajanların hatalarından öğrenerek performanslarını zamanla iyileştirmesini sağlıyor.",
+          "meta": "4 beğeni · 2 yorum"
+        },
+        {
+          "title": "Repo0: Design-Driven Zero-to-All Code Generation",
+          "url": "https://huggingface.co/papers/2608.19854",
+          "summary": "Repo0, yazılım projelerini doğal dilden gelen gereksinimlere göre sıfırdan inşa eden ve geliştirme süreci boyunca modüler bir yapı koruyan bir kod oluşturma çerçevesidir. Bu sistem, önceden tanımlanmış bir mimari varsayımı olmadan yazılımın tüm aşamalarını yönetebilen yapay zekâ ajanları (AI agents) için sürekli bir yapısal evrim modeli sunar.",
+          "meta": "5 beğeni · 1 yorum"
+        },
+        {
+          "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+          "url": "https://huggingface.co/papers/2608.20281",
+          "summary": "IAR (Enjekte Et, Hizala ve Kurtar) yaklaşımı, büyük dil modellerinin (large language models) belirli belgelerdeki bilgileri dış kaynak kullanmadan içselleştirmesini sağlayan üç aşamalı bir eğitim çerçevesidir. Bu yöntem, modelin sabit bir veri kümesini parametrik bilgiye dönüştürerek, belge erişimi (retrieval) gerektirmeyen soru-cevap süreçlerinde daha başarılı olmasını hedefler.",
+          "meta": "3 beğeni · 1 yorum"
+        },
+        {
+          "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+          "url": "https://huggingface.co/papers/2608.20335",
+          "summary": "4DAnyone, tek bir kameradan alınan sıradan videoları kullanarak insan figürlerini dört boyutlu (4D) modellere dönüştüren bir çerçevedir. Sistem, çoklu bakış açısı tutarlılığına sahip videolar üreterek bunları 4D Gauss saçılımı (4D Gaussian Splatting) yöntemiyle üç boyutlu ve hareketli modellere dönüştürür.",
+          "meta": "27 beğeni · 2 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Bun 1.4",
+          "url": "https://bun.com/blog/bun-v1.4",
+          "summary": "JavaScript çalışma zamanı (runtime) Bun 1.4, performans iyileştirmeleri ve hata düzeltmeleriyle birlikte geliyor. Yazılım geliştiricilerin uygulama çalıştırma ve paket yönetimi süreçlerini hızlandıran bu güncelleme, platformun kararlılığını artırıyor.",
+          "meta": "59 oy · 70 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/eesu8d/bun_1_4",
+              "popularity": 59,
+              "engagementCount": 70
+            }
+          ]
+        },
+        {
+          "title": "Supply chain attack on arrayref",
+          "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+          "summary": "Rust programlama dili ekosistemindeki arrayref kütüphanesine düzenlenen tedarik zinciri saldırısı (supply chain attack), kötü niyetli bir kullanıcının paketin kontrolünü ele geçirmesiyle gerçekleşti. Bu olay, yazılım geliştirme süreçlerinde kullanılan üçüncü taraf bağımlılıkların güvenliğinin denetlenmesinin gerekliliğini ortaya koyuyor.",
+          "meta": "71 oy · 41 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref",
+              "popularity": 71,
+              "engagementCount": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Yapay zekâ modellerinin belirli görevleri yerine getirmek için kullandığı özel yetenekler veya araçlar."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Bir yazılımın bilgisayarda çalıştırıldığı an ve bu süreçte ihtiyaç duyduğu ortam."
+    }
+  ]
+}

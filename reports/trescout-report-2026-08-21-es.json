@@ -1,0 +1,375 @@
+{
+  "date": "2026-08-21",
+  "editorial": "Hoy en día, las optimizaciones orientadas a la eficiencia de grandes modelos de lenguaje y las violaciones de la privacidad basadas en navegadores se destacan en la agenda tecnológica. En particular, las nuevas variantes del modelo Qwen 27B y FlashPrefill V2, que aumenta la capacidad de procesamiento de contexto largo, elevan el nivel de rendimiento en la infraestructura de inteligencia artificial.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "summary": "La plataforma Modular incluye el motor MAX desarrollado para ejecutar modelos de inteligencia artificial y el lenguaje de programación Mojo, una versión de alto rendimiento del lenguaje Python. Esta tecnología tiene como objetivo aumentar la eficiencia del hardware y acelerar los procesos de desarrollo en infraestructuras de inteligencia artificial.",
+          "meta": "Mojo · ★ 28.099 · +268 hoy"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Compartido por Matt Pocock, Skills incluye paquetes de habilidades personalizados que los desarrolladores de software utilizan para agentes de inteligencia artificial. Estos conjuntos de comandos ya preparados, que los desarrolladores utilizan en sus propios entornos de trabajo, tienen como objetivo estandarizar los procesos de automatización.",
+          "meta": "Shell · ★ 227.032 · +2.192 hoy"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi es una alternativa de código abierto para periféricos Logitech que le permite administrar los ajustes de configuración localmente. Le permite controlar las asignaciones de teclas, la configuración de sensibilidad (DPI) y las funciones SmartShift directamente a través del hardware sin la necesidad del software Logitech Options+.",
+          "meta": "Rust · ★ 12.071 · +1.545 hoy"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers es un marco y una metodología de habilidades de agentes que automatiza los procesos de desarrollo de software. Permite a los desarrolladores de software crear flujos de trabajo reutilizables para agentes de IA.",
+          "meta": "Shell · ★ 275.065 · +727 hoy"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "La herramienta de edición de código Cursor ha lanzado una especificación de complemento oficial que permite a los desarrolladores crear sus propios complementos. Esta estructura de código abierto permite a los usuarios personalizar la experiencia de codificación impulsada por IA y agregar nuevas funciones.",
+          "meta": "TypeScript · ★ 4.146 · +449 hoy"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Career-ops es una herramienta de búsqueda de empleo de código abierto que escanea ofertas de trabajo, las califica según ciertos criterios y organiza su currículum de acuerdo con estas publicaciones. Este software, que se ejecuta en interfaces de línea de comandos (CLI) nativas, transforma el proceso de solicitud de empleo en una estructura respaldada por inteligencia artificial.",
+          "meta": "JavaScript · ★ 66.848 · +816 hoy"
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Desarrollada con el lenguaje Rust, ai-memory ofrece una solución de memoria a largo plazo para agentes de inteligencia artificial centrados en la codificación. Desarrollada para facilitar la transferencia del flujo de trabajo entre diferentes proveedores de IA, esta biblioteca permite a los agentes recordar interacciones pasadas.",
+          "meta": "Rust · ★ 3.700 · +332 hoy"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo es un proyecto de Python que produce videos cortos de alta resolución con flujos de trabajo automáticos a partir de temas o palabras clave ingresados. Automatiza el proceso de creación de contenido de un extremo a otro utilizando grandes modelos de lenguaje.",
+          "meta": "Python · ★ 113.158 · +2.761 hoy"
+        },
+        {
+          "title": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "summary": "Substrate es un sistema basado en Go que proporciona un tiempo de ejecución básico para agentes de inteligencia artificial. Crea una capa de infraestructura estándar que permite que los agentes se ejecuten en diferentes plataformas.",
+          "meta": "Go · ★ 1.443 · +22 hoy"
+        },
+        {
+          "title": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "summary": "Munder-difflin es un marco que permite que múltiples agentes de inteligencia artificial se comuniquen entre sí en sistemas locales. Desarrollada con TypeScript, esta herramienta le permite ejecutar flujos de trabajo de múltiples agentes de forma nativa para gestionar tareas complejas.",
+          "meta": "TypeScript · ★ 3.179 · +507 hoy"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog es una plataforma de datos integral que combina herramientas como análisis, registro de sesiones y seguimiento de errores para optimizar los procesos de desarrollo de productos. Ofrece a los equipos de software la oportunidad de monitorear el comportamiento de los usuarios y proporcionar observabilidad respaldada por inteligencia artificial.",
+          "meta": "Python · ★ 38.045 · +60 hoy"
+        },
+        {
+          "title": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "summary": "Google Timeline Visualizer es una aplicación de Kotlin que visualiza viajes durante todo el año utilizando datos del historial de ubicaciones de Google. Permite a los usuarios transformar datos de ubicación personal en una línea de tiempo significativa en un mapa.",
+          "meta": "Kotlin · ★ 1.750 · +657 hoy"
+        },
+        {
+          "title": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "summary": "Desarrollado por Volcengine, OpenViking ofrece una base de datos contextual de desarrollo propio para agentes de inteligencia artificial. El sistema combina memoria de agente, procesos de recuperación de información (RAG) y capacidades bajo un mismo techo.",
+          "meta": "Python · ★ 31.151 · +950 hoy"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Desarrollado para Claude Code, Caveman es una herramienta de optimización del lenguaje que reduce la cantidad de tokens utilizados por los modelos de inteligencia artificial en un 65 por ciento. Simplifica estructuras de oraciones complejas y transforma textos en una forma más concisa.",
+          "meta": "Go · ★ 99.729 · +258 hoy"
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane es una plataforma de gestión de proyectos de código abierto para gestionar tareas, procesos de sprint y documentación. Ofrece una alternativa a las herramientas populares de seguimiento de empleos como Jira, Linear, Monday y ClickUp que puedes alojar en tu propio servidor.",
+          "meta": "TypeScript · ★ 56.582 · +98 hoy"
+        },
+        {
+          "title": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "summary": "Desarrollada por Tencent, AI-Infra-Guard es una plataforma integral de equipos rojos que protege los ecosistemas de inteligencia artificial contra vulnerabilidades. El software prueba la solidez de los sistemas con análisis de seguridad de las capacidades de los agentes y modelos de lenguaje grandes (LLM).",
+          "meta": "Python · ★ 5.045 · +50 hoy"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "Turbovec es una herramienta de indexación de vectores desarrollada con el lenguaje Rust y utilizando la infraestructura TurboQuant. Permite búsquedas rápidas en grandes conjuntos de datos gracias a los conectores de Python.",
+          "meta": "Rust · ★ 15.994 · +230 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+          "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+          "summary": "La exposición de Aaron Swartz a sanciones legales por web scraping se ha comparado con la inmunidad legal de la que disfruta contra actividades similares de las principales empresas de tecnología. Esta situación vuelve a poner en la agenda los debates sobre los límites éticos de los métodos de recolección de datos y los dobles estándares en el uso de datos de las plataformas digitales.",
+          "meta": "1.200 puntos · 270 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49379550",
+              "popularity": 1200,
+              "engagementCount": 270
+            }
+          ]
+        },
+        {
+          "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+          "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+          "summary": "El sitio web de AliExpress utiliza huellas digitales de audio web (WebAudio) para rastrear a los usuarios. Este proceso afecta los recursos de hardware a través del navegador, interrumpiendo la estabilidad de la conexión de los auriculares con funciones multipunto Bluetooth.",
+          "meta": "926 puntos · 295 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49372583",
+              "popularity": 926,
+              "engagementCount": 295
+            }
+          ]
+        },
+        {
+          "title": "HTML Can Do That",
+          "url": "https://chrisburnell.com/html-can-do-that/",
+          "summary": "En los procesos de desarrollo web modernos, se pueden crear interfaces interactivas con etiquetas integradas de HTML (como detalles, resumen, diálogo) sin necesidad de bibliotecas de JavaScript. Este enfoque tiene como objetivo reducir la complejidad del código y aumentar la eficiencia del rendimiento mediante el uso de funciones nativas que ofrecen los navegadores.",
+          "meta": "636 puntos · 170 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49362689",
+              "popularity": 636,
+              "engagementCount": 170
+            }
+          ]
+        },
+        {
+          "title": "I like 'em thick: an apology to my English teachers",
+          "url": "https://www.experimental-history.com/p/i-like-em-thick",
+          "summary": "El autor Adam Mastroianni sostiene que las oraciones largas y detalladas explican mejor las ideas, a diferencia del estilo narrativo breve y conciso utilizado en la escritura académica. Propone un enfoque que fomenta el uso del grosor en los textos para transmitir ideas complejas.",
+          "meta": "621 puntos · 268 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49347543",
+              "popularity": 621,
+              "engagementCount": 268
+            }
+          ]
+        },
+        {
+          "title": "Malicious Rust crate Arrayref runs a build-time payload",
+          "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+          "summary": "La biblioteca llamada arrayref, ubicada en crates.io, el administrador de paquetes del lenguaje de programación Rust, contiene una vulnerabilidad que ejecuta código malicioso en tiempo de compilación. Esto muestra cómo se pueden llevar a cabo ataques a la cadena de suministro de software a través de herramientas de desarrollo.",
+          "meta": "423 puntos · 377 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49374269",
+              "popularity": 423,
+              "engagementCount": 377
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Desarrollado por Alibaba, Qwen2.5-27B es un modelo de lenguaje grande multimodal que puede procesar texto y datos visuales. Con su estructura de código abierto, ofrece un alto rendimiento en tareas que requieren razonamiento lógico complejo y análisis de imágenes.",
+          "meta": "♥ 11.777 · 1.373.584 descargas"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth es una biblioteca de optimización que permite entrenar modelos de lenguaje grandes más rápido y con menor uso de memoria. Esta versión proporciona una versión del modelo Qwen 2.5 32B, comprimida en formato GGUF y optimizada para ejecutarse en hardware nativo.",
+          "meta": "♥ 2.379 · 5.126.652 descargas"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "summary": "MiniMax-Music3, desarrollado por MiniMax, es un modelo de texto a audio que convierte comandos de texto en archivos de audio de alta calidad. Permite a los usuarios crear contenido de música y audio a través de descripciones escritas.",
+          "meta": "♥ 1.120 · 14.471 descargas"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "summary": "orcarouter/Qwen3.8-27B-Uncensored-MLX, compartido en la plataforma Hugging Face, es un modelo de inteligencia artificial que produce resultados de texto procesando entradas visuales y de texto. Este modelo, optimizado con la biblioteca MLX ejecutándose en dispositivos Apple, ofrece una estructura sin censura.",
+          "meta": "♥ 723 · 2.628 descargas"
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B-FP8",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "summary": "Desarrollado por Alibaba, Qwen2.5-27B-FP8 es un modelo de inteligencia artificial multimodal que produce resultados de texto procesando entradas visuales y de texto. Con su método de cálculo de baja precisión (FP8), optimiza el uso de memoria del modelo en el hardware, permitiéndole ejecutarse más rápido.",
+          "meta": "♥ 637 · 1.517.643 descargas"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
+          "url": "https://huggingface.co/papers/2608.19758",
+          "summary": "FlashPrefill V2 es un método desarrollado para reducir la carga computacional incurrida durante el procesamiento de contexto prolongado en modelos de lenguaje grandes. Su objetivo es trabajar de manera más eficiente en entornos de producción optimizando la complejidad del mecanismo de atención con escasez de bloques.",
+          "meta": "1 me gusta · 1 comentarios"
+        },
+        {
+          "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
+          "url": "https://huggingface.co/papers/2608.13120",
+          "summary": "SkillEvo ofrece un método que mejora continuamente las capacidades de los agentes de inteligencia artificial con retroalimentación de interacciones de múltiples rondas. Este enfoque permite a los agentes mejorar su desempeño con el tiempo aprendiendo de sus errores, en lugar de una producción única o simples evaluaciones de preguntas y respuestas.",
+          "meta": "4 me gusta · 2 comentarios"
+        },
+        {
+          "title": "Repo0: Design-Driven Zero-to-All Code Generation",
+          "url": "https://huggingface.co/papers/2608.19854",
+          "summary": "Repo0 es un marco de generación de código que crea proyectos de software desde cero basándose en los requisitos del lenguaje natural y mantiene una estructura modular durante todo el proceso de desarrollo. Este sistema proporciona un modelo de evolución estructural continua para agentes de inteligencia artificial que pueden gestionar todas las fases del software sin asumir una arquitectura predefinida.",
+          "meta": "5 me gusta · 1 comentarios"
+        },
+        {
+          "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+          "url": "https://huggingface.co/papers/2608.20281",
+          "summary": "El enfoque IAR (Inject, Align, and Recover) es un marco de capacitación de tres etapas que permite que modelos de lenguaje grandes internalicen información de documentos específicos sin subcontratación. Este método tiene como objetivo hacer que el modelo tenga más éxito en procesos de preguntas y respuestas que no requieren acceso (recuperación) de documentos mediante la transformación de un conjunto de datos fijos en información paramétrica.",
+          "meta": "3 me gusta · 1 comentarios"
+        },
+        {
+          "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+          "url": "https://huggingface.co/papers/2608.20335",
+          "summary": "4DAnyone es un marco que transforma figuras humanas en modelos de cuatro dimensiones (4D) utilizando vídeos normales de una sola cámara. El sistema produce videos con consistencia de múltiples puntos de vista y los convierte en modelos tridimensionales y en movimiento con el método de dispersión gaussiana 4D.",
+          "meta": "27 me gusta · 2 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Bun 1.4",
+          "url": "https://bun.com/blog/bun-v1.4",
+          "summary": "El tiempo de ejecución de JavaScript Bun 1.4 viene con mejoras de rendimiento y correcciones de errores. Esta actualización, que acelera los procesos de ejecución de aplicaciones y gestión de paquetes de los desarrolladores de software, aumenta la estabilidad de la plataforma.",
+          "meta": "59 puntos · 70 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/eesu8d/bun_1_4",
+              "popularity": 59,
+              "engagementCount": 70
+            }
+          ]
+        },
+        {
+          "title": "Supply chain attack on arrayref",
+          "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+          "summary": "El ataque a la cadena de suministro a la biblioteca arrayref en el ecosistema del lenguaje de programación Rust ocurrió cuando un usuario malintencionado tomó el control del paquete. Este incidente revela la necesidad de auditar la seguridad de las dependencias de terceros utilizadas en los procesos de desarrollo de software.",
+          "meta": "71 puntos · 41 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref",
+              "popularity": 71,
+              "engagementCount": 41
+            }
+          ]
+        },
+        {
+          "title": "How a joke domain purchase turned into geopolitical warfare",
+          "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+          "summary": "Las tensiones geopolíticas y de ciberseguridad que se produjeron a raíz de que un nombre de dominio comprado como broma se asociara con SondeHub, una plataforma que comparte datos meteorológicos, muestran cómo las infraestructuras digitales pueden verse arrastradas a conflictos inesperados. El incidente revela las dimensiones técnicas y políticas de cómo un simple registro de nombre de dominio pasó a formar parte de una crisis internacional.",
+          "meta": "82 puntos · 3 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into",
+              "popularity": 82,
+              "engagementCount": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Habilidades o herramientas especiales que utilizan los modelos de IA para realizar tareas específicas."
+    },
+    {
+      "term": "DPI",
+      "explanation": "El número de puntos por pulgada que determina la calidad de imagen de una pantalla o impresora."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "La estructura que organiza las habilidades que la inteligencia artificial necesita para tomar decisiones y actuar por sí sola."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Pequeñas utilidades que se añaden a un software y le añaden nuevas funciones."
+    },
+    {
+      "term": "specification",
+      "explanation": "Un conjunto de reglas técnicas detalladas que especifican cómo debe funcionar un producto o software."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que le permite administrar programas ingresando comandos escritos en lugar de usar un mouse."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "La inteligencia artificial puede almacenar información pasada durante mucho tiempo sin olvidarla y utilizarla cuando sea necesario."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "runtime",
+      "explanation": "El momento en que se ejecuta un software en una computadora y el entorno que necesita en este proceso."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un sistema básico que facilita las cosas a la hora de desarrollar software y ofrece códigos y estructuras ya preparados."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Múltiples unidades de inteligencia artificial se comunican entre sí para lograr un objetivo común."
+    },
+    {
+      "term": "observability",
+      "explanation": "La capacidad de comprender lo que está sucediendo al monitorear el funcionamiento interno y los errores de un software desde el exterior."
+    },
+    {
+      "term": "context database",
+      "explanation": "Un almacén de datos privado donde se guarda la información que necesita la inteligencia artificial para responder mejor."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Es un método en el que la inteligencia artificial produce respuestas más precisas leyendo documentos externos sin su propio conocimiento."
+    },
+    {
+      "term": "token",
+      "explanation": "El dato más pequeño correspondiente a palabras o sílabas que utiliza la inteligencia artificial al procesar textos."
+    },
+    {
+      "term": "red teaming",
+      "explanation": "Un intento de encontrar vulnerabilidades haciéndose pasar por un usuario malicioso para probar la seguridad de un sistema."
+    }
+  ]
+}

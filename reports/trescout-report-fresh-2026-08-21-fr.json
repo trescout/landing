@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-21",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui se sont distinguées aujourd’hui, sans répéter ce que nous avons partagé ces derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+          "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+          "summary": "L'exposition d'Aaron Swartz à des sanctions juridiques pour grattage de sites Web a été comparée à l'immunité juridique dont il bénéficie contre des activités similaires de grandes entreprises technologiques. Cette situation remet à l’ordre du jour les débats sur les limites éthiques des méthodes de collecte de données et les doubles standards concernant l’utilisation des données sur les plateformes numériques.",
+          "meta": "1 200 votes · 270 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49379550",
+              "popularity": 1200,
+              "engagementCount": 270
+            }
+          ]
+        },
+        {
+          "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+          "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+          "summary": "Le site Web AliExpress utilise les empreintes digitales audio Web (WebAudio) pour suivre les utilisateurs. Ce processus affecte les ressources matérielles via le navigateur, perturbant la stabilité de la connexion des casques dotés de fonctionnalités multipoints Bluetooth.",
+          "meta": "926 votes · 295 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49372583",
+              "popularity": 926,
+              "engagementCount": 295
+            }
+          ]
+        },
+        {
+          "title": "I like 'em thick: an apology to my English teachers",
+          "url": "https://www.experimental-history.com/p/i-like-em-thick",
+          "summary": "L'auteur Adam Mastroianni soutient que les phrases longues et détaillées expliquent mieux les idées, par opposition au style narratif court et concis utilisé dans les écrits universitaires. Il propose une approche qui encourage l'utilisation de l'épaisseur dans les textes pour transmettre des idées complexes.",
+          "meta": "621 votes · 268 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49347543",
+              "popularity": 621,
+              "engagementCount": 268
+            }
+          ]
+        },
+        {
+          "title": "Malicious Rust crate Arrayref runs a build-time payload",
+          "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+          "summary": "La bibliothèque appelée arrayref, située sur crates.io, le gestionnaire de packages du langage de programmation Rust, contient une vulnérabilité qui exécute du code malveillant au moment de la compilation. Cela montre comment des attaques contre la chaîne d'approvisionnement logicielle peuvent être menées via les outils de développement.",
+          "meta": "423 votes · 377 commentaires",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49374269",
+              "popularity": 423,
+              "engagementCount": 377
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "summary": "orcarouter/Qwen3.8-27B-Uncensored-MLX, partagé sur la plateforme Hugging Face, est un modèle d'intelligence artificielle qui produit une sortie de texte en traitant les entrées visuelles et textuelles. Ce modèle, optimisé avec la bibliothèque MLX fonctionnant sur les appareils Apple, offre une structure non censurée.",
+          "meta": "♥ 723 · 2 628 téléchargements"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
+          "url": "https://huggingface.co/papers/2608.19758",
+          "summary": "FlashPrefill V2 est une méthode développée pour réduire la charge de calcul encourue lors du traitement de contexte long dans de grands modèles de langage. Il vise à travailler plus efficacement dans les environnements de production en optimisant la complexité du mécanisme d’attention avec une parcimonie de blocs.",
+          "meta": "1 j'aime · 1 commentaires"
+        },
+        {
+          "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
+          "url": "https://huggingface.co/papers/2608.13120",
+          "summary": "SkillEvo propose une méthode qui améliore continuellement les capacités des agents d’intelligence artificielle grâce aux retours d’interactions à plusieurs tours. Cette approche permet aux agents d’améliorer leurs performances au fil du temps en apprenant de leurs erreurs, par opposition à une production ponctuelle ou à de simples évaluations par questions-réponses.",
+          "meta": "4 j'aime · 2 commentaires"
+        },
+        {
+          "title": "Repo0: Design-Driven Zero-to-All Code Generation",
+          "url": "https://huggingface.co/papers/2608.19854",
+          "summary": "Repo0 est un framework de génération de code qui crée des projets logiciels à partir de zéro en fonction des exigences du langage naturel et maintient une structure modulaire tout au long du processus de développement. Ce système fournit un modèle d'évolution structurelle continue pour les agents d'intelligence artificielle qui peuvent gérer toutes les phases du logiciel sans assumer une architecture prédéfinie.",
+          "meta": "5 j'aime · 1 commentaires"
+        },
+        {
+          "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+          "url": "https://huggingface.co/papers/2608.20281",
+          "summary": "L'approche IAR (Inject, Align, and Recover) est un cadre de formation en trois étapes qui permet à de grands modèles de langage d'internaliser les informations de documents spécifiques sans sous-traiter. Cette méthode vise à rendre le modèle plus efficace dans les processus questions-réponses qui ne nécessitent pas d'accès aux documents (récupération) en transformant un ensemble de données fixes en informations paramétriques.",
+          "meta": "3 j'aime · 1 commentaires"
+        },
+        {
+          "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+          "url": "https://huggingface.co/papers/2608.20335",
+          "summary": "4DAnyone est un framework qui transforme des figures humaines en modèles quadridimensionnels (4D) à l'aide de vidéos ordinaires provenant d'une seule caméra. Le système produit des vidéos avec une cohérence multi-points de vue et les convertit en modèles tridimensionnels et mobiles avec la méthode d'éclaboussure gaussienne 4D.",
+          "meta": "27 j'aime · 2 commentaires"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Bun 1.4",
+          "url": "https://bun.com/blog/bun-v1.4",
+          "summary": "Le runtime JavaScript Bun 1.4 est livré avec des améliorations de performances et des corrections de bugs. Cette mise à jour, qui accélère les processus d'exécution des applications et de gestion des packages des développeurs de logiciels, augmente la stabilité de la plateforme.",
+          "meta": "59 votes · 70 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/eesu8d/bun_1_4",
+              "popularity": 59,
+              "engagementCount": 70
+            }
+          ]
+        },
+        {
+          "title": "Supply chain attack on arrayref",
+          "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+          "summary": "L'attaque de la chaîne d'approvisionnement contre la bibliothèque arrayref dans l'écosystème du langage de programmation Rust s'est produite lorsqu'un utilisateur malveillant a pris le contrôle du package. Cet incident révèle la nécessité d'auditer la sécurité des dépendances tierces utilisées dans les processus de développement logiciel.",
+          "meta": "71 votes · 41 commentaires",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref",
+              "popularity": 71,
+              "engagementCount": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Capacités ou outils spéciaux que les modèles d'IA utilisent pour effectuer des tâches spécifiques."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Des modèles d'intelligence artificielle entraînés avec d'énormes données capables de comprendre le langage humain et de produire du texte."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Le moment où un logiciel est exécuté sur un ordinateur et l'environnement dont il a besoin dans ce processus."
+    }
+  ]
+}

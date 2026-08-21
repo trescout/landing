@@ -1,0 +1,375 @@
+{
+  "date": "2026-08-21",
+  "editorial": "Heutzutage stehen effizienzorientierte Optimierungen großer Sprachmodelle und browserbasierte Datenschutzverletzungen ganz oben auf der Technologieagenda. Insbesondere die neuen Varianten des Modells Qwen 27B und FlashPrefill V2, das die Verarbeitungskapazität für lange Kontexte erhöht, legen die Leistungsmesslatte in der Infrastruktur für künstliche Intelligenz höher.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "summary": "Die Modular-Plattform umfasst die MAX-Engine, die für die Ausführung von Modellen der künstlichen Intelligenz entwickelt wurde, und die Programmiersprache Mojo, eine Hochleistungsversion der Python-Sprache. Ziel dieser Technologie ist es, die Hardware-Effizienz zu steigern und Entwicklungsprozesse in Infrastrukturen der künstlichen Intelligenz zu beschleunigen.",
+          "meta": "Mojo · ★ 28.099 · +268 heute"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Skills wird von Matt Pocock geteilt und umfasst maßgeschneiderte Kompetenzpakete, die Softwareentwickler für Agenten der künstlichen Intelligenz verwenden. Ziel dieser vorgefertigten Befehlssätze, die Entwickler in ihren eigenen Arbeitsumgebungen nutzen, ist die Standardisierung von Automatisierungsprozessen.",
+          "meta": "Shell · ★ 227.032 · +2.192 heute"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi ist eine Open-Source-Alternative für Logitech-Peripheriegeräte, mit der Sie Konfigurationseinstellungen lokal verwalten können. Damit können Sie Tastenbelegungen, Empfindlichkeitseinstellungen (DPI) und SmartShift-Funktionen direkt über die Hardware steuern, ohne dass die Software Logitech Options+ erforderlich ist.",
+          "meta": "Rust · ★ 12.071 · +1.545 heute"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers ist ein Framework und eine Methodik für Agentenfähigkeiten, die Softwareentwicklungsprozesse automatisieren. Es ermöglicht Softwareentwicklern, wiederverwendbare Arbeitsabläufe für KI-Agenten zu erstellen.",
+          "meta": "Shell · ★ 275.065 · +727 heute"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Das Codebearbeitungstool Cursor hat eine offizielle Plugin-Spezifikation veröffentlicht, die es Entwicklern ermöglicht, ihre eigenen Plugins zu erstellen. Diese Open-Source-Struktur ermöglicht es Benutzern, das KI-gestützte Codierungserlebnis anzupassen und neue Funktionen hinzuzufügen.",
+          "meta": "TypeScript · ★ 4.146 · +449 heute"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Career-ops ist ein Open-Source-Tool für die Jobsuche, das Stellenausschreibungen scannt, sie nach bestimmten Kriterien bewertet und Ihren Lebenslauf entsprechend dieser Ausschreibungen organisiert. Diese auf nativen Befehlszeilenschnittstellen (CLI) laufende Software transformiert den Bewerbungsprozess in eine durch künstliche Intelligenz unterstützte Struktur.",
+          "meta": "JavaScript · ★ 66.848 · +816 heute"
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Ai-memory wurde mit der Rust-Sprache entwickelt und bietet eine Langzeitspeicherlösung für codierungsorientierte Agenten der künstlichen Intelligenz. Diese Bibliothek wurde entwickelt, um die Übergabe von Arbeitsabläufen zwischen verschiedenen KI-Anbietern zu erleichtern, und ermöglicht es Agenten, sich an vergangene Interaktionen zu erinnern.",
+          "meta": "Rust · ★ 3.700 · +332 heute"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo ist ein Python-Projekt, das aus eingegebenen Themen oder Schlüsselwörtern hochauflösende Kurzvideos mit automatischen Workflows erstellt. Es automatisiert den Inhaltserstellungsprozess durchgängig mithilfe großer Sprachmodelle.",
+          "meta": "Python · ★ 113.158 · +2.761 heute"
+        },
+        {
+          "title": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "summary": "Substrate ist ein Go-basiertes System, das eine grundlegende Laufzeit für Agenten der künstlichen Intelligenz bereitstellt. Es erstellt eine Standard-Infrastrukturschicht, die es Agenten ermöglicht, auf verschiedenen Plattformen ausgeführt zu werden.",
+          "meta": "Go · ★ 1.443 · +22 heute"
+        },
+        {
+          "title": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "summary": "Munder-difflin ist ein Framework, das es mehreren Agenten der künstlichen Intelligenz ermöglicht, in lokalen Systemen miteinander zu kommunizieren. Dieses mit TypeScript entwickelte Tool ermöglicht Ihnen die native Ausführung von Multi-Agent-Workflows zur Verwaltung komplexer Aufgaben.",
+          "meta": "TypeScript · ★ 3.179 · +507 heute"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog ist eine umfassende Datenplattform, die Tools wie Analyse, Sitzungsprotokollierung und Fehlerverfolgung kombiniert, um Produktentwicklungsprozesse zu optimieren. Es bietet Softwareteams die Möglichkeit, das Nutzerverhalten zu überwachen und eine durch künstliche Intelligenz unterstützte Beobachtbarkeit bereitzustellen.",
+          "meta": "Python · ★ 38.045 · +60 heute"
+        },
+        {
+          "title": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "summary": "Google Timeline Visualizer ist eine Kotlin-Anwendung, die das ganze Jahr über Reisen mithilfe von Google-Standortverlaufsdaten visualisiert. Es ermöglicht Benutzern, persönliche Standortdaten in eine aussagekräftige Zeitleiste auf einer Karte umzuwandeln.",
+          "meta": "Kotlin · ★ 1.750 · +657 heute"
+        },
+        {
+          "title": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "summary": "OpenViking wurde von Volcengine entwickelt und bietet eine sich selbst entwickelnde Kontextdatenbank für Agenten der künstlichen Intelligenz. Das System vereint Agentenspeicher, Information Retrieval (RAG)-Prozesse und -Fähigkeiten unter einem Dach.",
+          "meta": "Python · ★ 31.151 · +950 heute"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman wurde für Claude Code entwickelt und ist ein Sprachoptimierungstool, das die Menge der von Modellen der künstlichen Intelligenz verwendeten Token um 65 Prozent reduziert. Es vereinfacht komplexe Satzstrukturen und bringt Texte in eine prägnantere Form.",
+          "meta": "Go · ★ 99.729 · +258 heute"
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane ist eine Open-Source-Projektmanagementplattform zur Verwaltung von Aufgaben, Sprintprozessen und Dokumentation. Es bietet eine Alternative zu beliebten Job-Tracking-Tools wie Jira, Linear, Monday und ClickUp, die Sie auf Ihrem eigenen Server hosten können.",
+          "meta": "TypeScript · ★ 56.582 · +98 heute"
+        },
+        {
+          "title": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "summary": "AI-Infra-Guard wurde von Tencent entwickelt und ist eine umfassende Red-Teaming-Plattform, die Ökosysteme der künstlichen Intelligenz vor Schwachstellen schützt. Die Software testet die Robustheit von Systemen mit Sicherheitsscans auf Agentenfunktionen und großen Sprachmodellen (LLM).",
+          "meta": "Python · ★ 5.045 · +50 heute"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "Turbovec ist ein Vektorindizierungstool, das mit der Rust-Sprache entwickelt wurde und die TurboQuant-Infrastruktur nutzt. Dank Python-Konnektoren ermöglicht es eine schnelle Suche in großen Datenmengen.",
+          "meta": "Rust · ★ 15.994 · +230 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+          "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+          "summary": "Aaron Swartzs Gefährdung durch rechtliche Sanktionen wegen Web-Scraping wurde mit der rechtlichen Immunität verglichen, die er gegen ähnliche Aktivitäten großer Technologieunternehmen genießt. Diese Situation bringt die Debatten über die ethischen Grenzen von Datenerhebungsmethoden und Doppelmoral bei der Datennutzung digitaler Plattformen wieder auf die Tagesordnung.",
+          "meta": "1.200 Punkte · 270 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49379550",
+              "popularity": 1200,
+              "engagementCount": 270
+            }
+          ]
+        },
+        {
+          "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+          "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+          "summary": "Die AliExpress-Website verwendet Web-Audio-Fingerprinting (WebAudio), um Benutzer zu verfolgen. Dieser Vorgang wirkt sich über den Browser auf Hardwareressourcen aus und beeinträchtigt die Verbindungsstabilität von Headsets mit Bluetooth-Multipoint-Funktionen.",
+          "meta": "926 Punkte · 295 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49372583",
+              "popularity": 926,
+              "engagementCount": 295
+            }
+          ]
+        },
+        {
+          "title": "HTML Can Do That",
+          "url": "https://chrisburnell.com/html-can-do-that/",
+          "summary": "In modernen Webentwicklungsprozessen können interaktive Schnittstellen mit den in HTML integrierten Tags (z. B. Details, Zusammenfassung, Dialog) erstellt werden, ohne dass JavaScript-Bibliotheken erforderlich sind. Dieser Ansatz zielt darauf ab, die Codekomplexität zu reduzieren und die Leistungseffizienz zu steigern, indem die nativen Funktionen von Browsern genutzt werden.",
+          "meta": "636 Punkte · 170 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49362689",
+              "popularity": 636,
+              "engagementCount": 170
+            }
+          ]
+        },
+        {
+          "title": "I like 'em thick: an apology to my English teachers",
+          "url": "https://www.experimental-history.com/p/i-like-em-thick",
+          "summary": "Der Autor Adam Mastroianni argumentiert, dass detaillierte und lange Sätze Ideen besser erklären als der kurze und prägnante Erzählstil, der beim wissenschaftlichen Schreiben verwendet wird. Er schlägt einen Ansatz vor, der die Verwendung von Dicke in Texten fördert, um komplexe Ideen zu vermitteln.",
+          "meta": "621 Punkte · 268 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49347543",
+              "popularity": 621,
+              "engagementCount": 268
+            }
+          ]
+        },
+        {
+          "title": "Malicious Rust crate Arrayref runs a build-time payload",
+          "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+          "summary": "Die Bibliothek namens arrayref, die sich auf crates.io, dem Paketmanager der Programmiersprache Rust, befindet, enthält eine Schwachstelle, die zur Kompilierungszeit Schadcode ausführt. Dies zeigt, wie Angriffe auf die Software-Lieferkette über Entwicklertools durchgeführt werden können.",
+          "meta": "423 Punkte · 377 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49374269",
+              "popularity": 423,
+              "engagementCount": 377
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B wurde von Alibaba entwickelt und ist ein multimodales großes Sprachmodell, das Text und visuelle Daten verarbeiten kann. Mit seiner Open-Source-Struktur bietet es eine hohe Leistung bei Aufgaben, die komplexe logische Überlegungen und Bildanalysen erfordern.",
+          "meta": "♥ 11.777 · 1.373.584 Downloads"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth ist eine Optimierungsbibliothek, die es ermöglicht, große Sprachmodelle schneller und mit geringerem Speicherverbrauch zu trainieren. Diese Version bietet eine Version des Qwen 2.5 32B-Modells, komprimiert im GGUF-Format und optimiert für die Ausführung auf nativer Hardware.",
+          "meta": "♥ 2.379 · 5.126.652 Downloads"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "summary": "MiniMax-Music3, entwickelt von MiniMax, ist ein Text-to-Audio-Modell, das Textbefehle in hochwertige Audiodateien umwandelt. Es ermöglicht Benutzern, Musik- und Audioinhalte durch schriftliche Beschreibungen zu erstellen.",
+          "meta": "♥ 1.120 · 14.471 Downloads"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "summary": "orcarouter/Qwen3.8-27B-Uncensored-MLX, geteilt auf der Hugging Face-Plattform, ist ein Modell künstlicher Intelligenz, das Textausgaben durch die Verarbeitung visueller und Texteingaben erzeugt. Dieses Modell, optimiert mit der MLX-Bibliothek, die auf Apple-Geräten läuft, bietet eine unzensierte Struktur.",
+          "meta": "♥ 723 · 2.628 Downloads"
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B-FP8",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "summary": "Qwen2.5-27B-FP8 wurde von Alibaba entwickelt und ist ein multimodales Modell der künstlichen Intelligenz, das durch die Verarbeitung visueller und Texteingaben eine Textausgabe erzeugt. Mit seiner Berechnungsmethode mit geringer Genauigkeit (FP8) optimiert es die Speichernutzung des Modells auf der Hardware und ermöglicht so eine schnellere Ausführung.",
+          "meta": "♥ 637 · 1.517.643 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
+          "url": "https://huggingface.co/papers/2608.19758",
+          "summary": "FlashPrefill V2 ist eine Methode, die entwickelt wurde, um die Rechenlast zu reduzieren, die bei der Verarbeitung langer Kontexte in großen Sprachmodellen entsteht. Ziel ist es, in Produktionsumgebungen effizienter zu arbeiten, indem die Komplexität des Aufmerksamkeitsmechanismus durch Blocksparsity optimiert wird.",
+          "meta": "1 Likes · 1 Kommentare"
+        },
+        {
+          "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
+          "url": "https://huggingface.co/papers/2608.13120",
+          "summary": "SkillEvo bietet eine Methode, die die Fähigkeiten von Agenten der künstlichen Intelligenz durch Feedback aus mehrrundigen Interaktionen kontinuierlich verbessert. Dieser Ansatz ermöglicht es Agenten, ihre Leistung im Laufe der Zeit zu verbessern, indem sie aus ihren Fehlern lernen, im Gegensatz zu einmaligen Produktionen oder einfachen Frage-und-Antwort-Bewertungen.",
+          "meta": "4 Likes · 2 Kommentare"
+        },
+        {
+          "title": "Repo0: Design-Driven Zero-to-All Code Generation",
+          "url": "https://huggingface.co/papers/2608.19854",
+          "summary": "Repo0 ist ein Code-Generierungs-Framework, das Softwareprojekte von Grund auf auf der Grundlage von Anforderungen aus natürlicher Sprache erstellt und während des gesamten Entwicklungsprozesses eine modulare Struktur beibehält. Dieses System bietet ein kontinuierliches Strukturentwicklungsmodell für Agenten der künstlichen Intelligenz, das alle Phasen der Software verwalten kann, ohne eine vordefinierte Architektur anzunehmen.",
+          "meta": "5 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+          "url": "https://huggingface.co/papers/2608.20281",
+          "summary": "Der IAR-Ansatz (Inject, Align und Recover) ist ein dreistufiges Trainingsframework, das es großen Sprachmodellen ermöglicht, Informationen aus bestimmten Dokumenten ohne Outsourcing zu internalisieren. Diese Methode zielt darauf ab, das Modell in Frage-Antwort-Prozessen erfolgreicher zu machen, die keinen Dokumentenzugriff (Abruf) erfordern, indem ein fester Datensatz in parametrische Informationen umgewandelt wird.",
+          "meta": "3 Likes · 1 Kommentare"
+        },
+        {
+          "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+          "url": "https://huggingface.co/papers/2608.20335",
+          "summary": "4DAnyone ist ein Framework, das menschliche Figuren mithilfe gewöhnlicher Videos einer einzelnen Kamera in vierdimensionale (4D) Modelle umwandelt. Das System produziert Videos mit Multiviewpoint-Konsistenz und wandelt sie mit der 4D-Gauß-Splatting-Methode in dreidimensionale und bewegte Modelle um.",
+          "meta": "27 Likes · 2 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Bun 1.4",
+          "url": "https://bun.com/blog/bun-v1.4",
+          "summary": "Die JavaScript-Laufzeitversion Bun 1.4 bietet Leistungsverbesserungen und Fehlerbehebungen. Dieses Update, das die Anwendungsausführungs- und Paketverwaltungsprozesse von Softwareentwicklern beschleunigt, erhöht die Stabilität der Plattform.",
+          "meta": "59 Punkte · 70 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/eesu8d/bun_1_4",
+              "popularity": 59,
+              "engagementCount": 70
+            }
+          ]
+        },
+        {
+          "title": "Supply chain attack on arrayref",
+          "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+          "summary": "Der Supply-Chain-Angriff auf die Arrayref-Bibliothek im Ökosystem der Programmiersprache Rust erfolgte, als ein böswilliger Benutzer die Kontrolle über das Paket übernahm. Dieser Vorfall verdeutlicht die Notwendigkeit, die Sicherheit von Abhängigkeiten Dritter zu überprüfen, die in Softwareentwicklungsprozessen verwendet werden.",
+          "meta": "71 Punkte · 41 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref",
+              "popularity": 71,
+              "engagementCount": 41
+            }
+          ]
+        },
+        {
+          "title": "How a joke domain purchase turned into geopolitical warfare",
+          "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+          "summary": "Die Cybersicherheit und die geopolitischen Spannungen, die durch die Verbindung eines im Scherz gekauften Domainnamens mit SondeHub, einer Plattform zur Weitergabe meteorologischer Daten, entstanden sind, zeigen, wie digitale Infrastrukturen in unerwartete Konflikte geraten können. Der Vorfall offenbart die technischen und politischen Dimensionen, wie eine einfache Domainnamenregistrierung Teil einer internationalen Krise wurde.",
+          "meta": "82 Punkte · 3 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into",
+              "popularity": 82,
+              "engagementCount": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Besondere Fähigkeiten oder Werkzeuge, die KI-Modelle nutzen, um bestimmte Aufgaben auszuführen."
+    },
+    {
+      "term": "DPI",
+      "explanation": "Die Anzahl der Punkte pro Zoll, die die Bildqualität eines Displays oder Druckers bestimmt."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Die Struktur, die die Fähigkeiten organisiert, die künstliche Intelligenz benötigt, um selbstständig Entscheidungen zu treffen und Maßnahmen zu ergreifen."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Kleine Dienstprogramme, die einer Software hinzugefügt werden und ihr neue Funktionen hinzufügen."
+    },
+    {
+      "term": "specification",
+      "explanation": "Eine Reihe detaillierter technischer Regeln, die festlegen, wie ein Produkt oder eine Software funktionieren soll."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Textbasierte Schnittstelle, die es Ihnen ermöglicht, Programme durch die Eingabe schriftlicher Befehle statt mit der Maus zu verwalten."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "Künstliche Intelligenz kann vergangene Informationen lange speichern, ohne sie zu vergessen, und bei Bedarf nutzen."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Der Moment, in dem eine Software auf einem Computer ausgeführt wird, und die Umgebung, die sie für diesen Prozess benötigt."
+    },
+    {
+      "term": "framework",
+      "explanation": "Ein Basissystem, das die Entwicklung von Software erleichtert und vorgefertigte Codes und Strukturen bietet."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Mehrere Einheiten der künstlichen Intelligenz kommunizieren miteinander für ein gemeinsames Ziel."
+    },
+    {
+      "term": "observability",
+      "explanation": "Die Fähigkeit zu verstehen, was vor sich geht, indem man die internen Abläufe und Fehler einer Software von außen überwacht."
+    },
+    {
+      "term": "context database",
+      "explanation": "Ein privates Data Warehouse, in dem die Informationen gespeichert werden, die künstliche Intelligenz benötigt, um besser reagieren zu können."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Dabei handelt es sich um eine Methode, bei der künstliche Intelligenz durch das Auslesen externer Dokumente ohne eigenes Wissen genauere Antworten liefert."
+    },
+    {
+      "term": "token",
+      "explanation": "Die kleinsten Daten, die Wörtern oder Silben entsprechen und die künstliche Intelligenz bei der Verarbeitung von Texten verwendet."
+    },
+    {
+      "term": "red teaming",
+      "explanation": "Ein Versuch, Schwachstellen zu finden, indem er sich als böswilliger Benutzer ausgibt, um die Sicherheit eines Systems zu testen."
+    }
+  ]
+}

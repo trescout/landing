@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-21",
+  "editorial": "Dieser Bericht enthält erstmals die Trends, die heute aufgefallen sind, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+          "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+          "summary": "Aaron Swartzs Gefährdung durch rechtliche Sanktionen wegen Web-Scraping wurde mit der rechtlichen Immunität verglichen, die er gegen ähnliche Aktivitäten großer Technologieunternehmen genießt. Diese Situation bringt die Debatten über die ethischen Grenzen von Datenerhebungsmethoden und Doppelmoral bei der Datennutzung digitaler Plattformen wieder auf die Tagesordnung.",
+          "meta": "1.200 Punkte · 270 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49379550",
+              "popularity": 1200,
+              "engagementCount": 270
+            }
+          ]
+        },
+        {
+          "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+          "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+          "summary": "Die AliExpress-Website verwendet Web-Audio-Fingerprinting (WebAudio), um Benutzer zu verfolgen. Dieser Vorgang wirkt sich über den Browser auf Hardwareressourcen aus und beeinträchtigt die Verbindungsstabilität von Headsets mit Bluetooth-Multipoint-Funktionen.",
+          "meta": "926 Punkte · 295 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49372583",
+              "popularity": 926,
+              "engagementCount": 295
+            }
+          ]
+        },
+        {
+          "title": "I like 'em thick: an apology to my English teachers",
+          "url": "https://www.experimental-history.com/p/i-like-em-thick",
+          "summary": "Der Autor Adam Mastroianni argumentiert, dass detaillierte und lange Sätze Ideen besser erklären als der kurze und prägnante Erzählstil, der beim wissenschaftlichen Schreiben verwendet wird. Er schlägt einen Ansatz vor, der die Verwendung von Dicke in Texten fördert, um komplexe Ideen zu vermitteln.",
+          "meta": "621 Punkte · 268 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49347543",
+              "popularity": 621,
+              "engagementCount": 268
+            }
+          ]
+        },
+        {
+          "title": "Malicious Rust crate Arrayref runs a build-time payload",
+          "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+          "summary": "Die Bibliothek namens arrayref, die sich auf crates.io, dem Paketmanager der Programmiersprache Rust, befindet, enthält eine Schwachstelle, die zur Kompilierungszeit Schadcode ausführt. Dies zeigt, wie Angriffe auf die Software-Lieferkette über Entwicklertools durchgeführt werden können.",
+          "meta": "423 Punkte · 377 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49374269",
+              "popularity": 423,
+              "engagementCount": 377
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "summary": "orcarouter/Qwen3.8-27B-Uncensored-MLX, geteilt auf der Hugging Face-Plattform, ist ein Modell künstlicher Intelligenz, das Textausgaben durch die Verarbeitung visueller und Texteingaben erzeugt. Dieses Modell, optimiert mit der MLX-Bibliothek, die auf Apple-Geräten läuft, bietet eine unzensierte Struktur.",
+          "meta": "♥ 723 · 2.628 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
+          "url": "https://huggingface.co/papers/2608.19758",
+          "summary": "FlashPrefill V2 ist eine Methode, die entwickelt wurde, um die Rechenlast zu reduzieren, die bei der Verarbeitung langer Kontexte in großen Sprachmodellen entsteht. Ziel ist es, in Produktionsumgebungen effizienter zu arbeiten, indem die Komplexität des Aufmerksamkeitsmechanismus durch Blocksparsity optimiert wird.",
+          "meta": "1 Likes · 1 Kommentare"
+        },
+        {
+          "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
+          "url": "https://huggingface.co/papers/2608.13120",
+          "summary": "SkillEvo bietet eine Methode, die die Fähigkeiten von Agenten der künstlichen Intelligenz durch Feedback aus mehrrundigen Interaktionen kontinuierlich verbessert. Dieser Ansatz ermöglicht es Agenten, ihre Leistung im Laufe der Zeit zu verbessern, indem sie aus ihren Fehlern lernen, im Gegensatz zu einmaligen Produktionen oder einfachen Frage-und-Antwort-Bewertungen.",
+          "meta": "4 Likes · 2 Kommentare"
+        },
+        {
+          "title": "Repo0: Design-Driven Zero-to-All Code Generation",
+          "url": "https://huggingface.co/papers/2608.19854",
+          "summary": "Repo0 ist ein Code-Generierungs-Framework, das Softwareprojekte von Grund auf auf der Grundlage von Anforderungen aus natürlicher Sprache erstellt und während des gesamten Entwicklungsprozesses eine modulare Struktur beibehält. Dieses System bietet ein kontinuierliches Strukturentwicklungsmodell für Agenten der künstlichen Intelligenz, das alle Phasen der Software verwalten kann, ohne eine vordefinierte Architektur anzunehmen.",
+          "meta": "5 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+          "url": "https://huggingface.co/papers/2608.20281",
+          "summary": "Der IAR-Ansatz (Inject, Align und Recover) ist ein dreistufiges Trainingsframework, das es großen Sprachmodellen ermöglicht, Informationen aus bestimmten Dokumenten ohne Outsourcing zu internalisieren. Diese Methode zielt darauf ab, das Modell in Frage-Antwort-Prozessen erfolgreicher zu machen, die keinen Dokumentenzugriff (Abruf) erfordern, indem ein fester Datensatz in parametrische Informationen umgewandelt wird.",
+          "meta": "3 Likes · 1 Kommentare"
+        },
+        {
+          "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+          "url": "https://huggingface.co/papers/2608.20335",
+          "summary": "4DAnyone ist ein Framework, das menschliche Figuren mithilfe gewöhnlicher Videos einer einzelnen Kamera in vierdimensionale (4D) Modelle umwandelt. Das System produziert Videos mit Multiviewpoint-Konsistenz und wandelt sie mit der 4D-Gauß-Splatting-Methode in dreidimensionale und bewegte Modelle um.",
+          "meta": "27 Likes · 2 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Bun 1.4",
+          "url": "https://bun.com/blog/bun-v1.4",
+          "summary": "Die JavaScript-Laufzeitversion Bun 1.4 bietet Leistungsverbesserungen und Fehlerbehebungen. Dieses Update, das die Anwendungsausführungs- und Paketverwaltungsprozesse von Softwareentwicklern beschleunigt, erhöht die Stabilität der Plattform.",
+          "meta": "59 Punkte · 70 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/eesu8d/bun_1_4",
+              "popularity": 59,
+              "engagementCount": 70
+            }
+          ]
+        },
+        {
+          "title": "Supply chain attack on arrayref",
+          "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+          "summary": "Der Supply-Chain-Angriff auf die Arrayref-Bibliothek im Ökosystem der Programmiersprache Rust erfolgte, als ein böswilliger Benutzer die Kontrolle über das Paket übernahm. Dieser Vorfall verdeutlicht die Notwendigkeit, die Sicherheit von Abhängigkeiten Dritter zu überprüfen, die in Softwareentwicklungsprozessen verwendet werden.",
+          "meta": "71 Punkte · 41 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref",
+              "popularity": 71,
+              "engagementCount": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Besondere Fähigkeiten oder Werkzeuge, die KI-Modelle nutzen, um bestimmte Aufgaben auszuführen."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Der Moment, in dem eine Software auf einem Computer ausgeführt wird, und die Umgebung, die sie für diesen Prozess benötigt."
+    }
+  ]
+}

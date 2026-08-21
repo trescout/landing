@@ -1,0 +1,375 @@
+{
+  "date": "2026-08-21",
+  "editorial": "Bugün teknoloji gündeminde büyük dil modellerinin (large language models) verimlilik odaklı optimizasyonları ve tarayıcı tabanlı gizlilik ihlalleri öne çıkıyor. Özellikle Qwen 27B modelinin yeni türevleri ve uzun bağlam (long-context) işleme kapasitesini artıran FlashPrefill V2, yapay zekâ altyapısında performans çıtasını yükseltiyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "summary": "Modular platformu, yapay zekâ modellerini çalıştırmak için geliştirilen MAX motorunu ve Python dilinin yüksek performanslı bir sürümü olan Mojo programlama dilini içeriyor. Bu teknoloji, yapay zekâ altyapılarında donanım verimliliğini artırmayı ve geliştirme süreçlerini hızlandırmayı hedefliyor.",
+          "meta": "Mojo · ★ 28.099 · +268 bugün"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan Skills, yazılım geliştiricilerin yapay zekâ ajanları için kullandığı özelleştirilmiş yetenek paketlerini (skills) içeriyor. Geliştiricilerin kendi çalışma ortamlarında kullandığı bu hazır komut setleri, otomasyon süreçlerini standartlaştırmayı amaçlıyor.",
+          "meta": "Shell · ★ 227.032 · +2.192 bugün"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi, Logitech çevre birimleri için geliştirilen ve yapılandırma ayarlarını yerel olarak yönetmenizi sağlayan açık kaynaklı bir alternatif. Logitech Options+ yazılımına ihtiyaç duymadan tuş atamalarını, hassasiyet (DPI) ayarlarını ve SmartShift özelliklerini doğrudan donanım üzerinden kontrol etmenize olanak tanıyor.",
+          "meta": "Rust · ★ 12.071 · +1.545 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yazılım geliştirme süreçlerini otomatize eden bir ajan yetenekleri çerçevesi (agentic skills framework) ve metodolojisidir. Yazılım geliştiricilerin yapay zekâ ajanları için yeniden kullanılabilir iş akışları oluşturmasına olanak tanır.",
+          "meta": "Shell · ★ 275.065 · +727 bugün"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Kod düzenleme aracı Cursor, geliştiricilerin kendi eklentilerini (plugins) oluşturmasına olanak tanıyan resmi bir eklenti belirtimi (specification) yayınladı. Bu açık kaynaklı yapı, kullanıcıların yapay zekâ destekli kod yazma deneyimini özelleştirmesini ve yeni işlevler eklemesini sağlıyor.",
+          "meta": "TypeScript · ★ 4.146 · +449 bugün"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Career-ops, iş ilanlarını tarayıp belirli kriterlere göre puanlayan ve öz geçmişinizi bu ilanlara göre düzenleyen açık kaynaklı bir iş arama aracıdır. Yerel komut satırı arayüzlerinde (CLI) çalışan bu yazılım, iş başvurusu sürecini yapay zekâ destekli bir yapıya dönüştürür.",
+          "meta": "JavaScript · ★ 66.848 · +816 bugün"
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Rust diliyle geliştirilen ai-memory, kodlama odaklı yapay zekâ ajanları için uzun süreli bellek (long-term memory) çözümü sunuyor. Farklı yapay zekâ sağlayıcıları arasında iş akışı devrini kolaylaştırmak amacıyla geliştirilen bu kütüphane, ajanların geçmiş etkileşimleri hatırlamasını sağlıyor.",
+          "meta": "Rust · ★ 3.700 · +332 bugün"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo, girilen konu veya anahtar kelimelerden otomatik iş akışlarıyla yüksek çözünürlüklü kısa videolar üreten bir Python projesi. Büyük dil modellerini (large language models) kullanarak içerik oluşturma sürecini uçtan uca otomatize ediyor.",
+          "meta": "Python · ★ 113.158 · +2.761 bugün"
+        },
+        {
+          "title": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "summary": "Substrate, yapay zekâ ajanları için temel bir çalışma ortamı (runtime) sunan Go tabanlı bir sistemdir. Ajanların farklı platformlarda çalışmasını sağlayan standart bir altyapı katmanı oluşturur.",
+          "meta": "Go · ★ 1.443 · +22 bugün"
+        },
+        {
+          "title": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "summary": "Munder-difflin, yerel sistemlerde birden fazla yapay zekâ ajanının birbiriyle iletişim kurmasını sağlayan bir çerçeve (framework). TypeScript ile geliştirilen bu araç, karmaşık görevleri yönetmek için çoklu ajan (multi-agent) iş akışlarını yerel ortamda çalıştırmanıza olanak tanıyor.",
+          "meta": "TypeScript · ★ 3.179 · +507 bugün"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog, ürün geliştirme süreçlerini optimize etmek için analitik, oturum kaydı ve hata takibi gibi araçları bir araya getiren kapsamlı bir veri platformu. Yazılım ekiplerine kullanıcı davranışlarını izleme ve yapay zekâ destekli gözlemlenebilirlik (observability) sağlama imkânı sunuyor.",
+          "meta": "Python · ★ 38.045 · +60 bugün"
+        },
+        {
+          "title": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "summary": "Google Timeline Visualizer, Google Konum Geçmişi verilerini kullanarak yıl boyu yapılan seyahatleri görselleştiren bir Kotlin uygulamasıdır. Kullanıcıların kişisel konum verilerini harita üzerinde anlamlı bir zaman çizelgesine dönüştürmesini sağlar.",
+          "meta": "Kotlin · ★ 1.750 · +657 bugün"
+        },
+        {
+          "title": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "summary": "Volcengine tarafından geliştirilen OpenViking, yapay zekâ ajanları için kendi kendini geliştiren bir bağlam veritabanı (context database) sunuyor. Sistem, ajan belleğini, bilgi getirme (RAG) süreçlerini ve yetenekleri (skills) tek bir çatı altında birleştiriyor.",
+          "meta": "Python · ★ 31.151 · +950 bugün"
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Claude Code için geliştirilen Caveman, yapay zekâ modellerinin kullandığı belirteç (token) miktarını yüzde 65 oranında azaltan bir dil optimizasyon aracıdır. Karmaşık cümle yapılarını basitleştirerek metinleri daha kısa ve öz bir biçime dönüştürür.",
+          "meta": "Go · ★ 99.729 · +258 bugün"
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane, görevleri, sprint süreçlerini ve dokümantasyonu yönetmeye yarayan açık kaynak kodlu bir proje yönetim platformu. Jira, Linear, Monday ve ClickUp gibi popüler iş takip araçlarına kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.",
+          "meta": "TypeScript · ★ 56.582 · +98 bugün"
+        },
+        {
+          "title": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "summary": "Tencent tarafından geliştirilen AI-Infra-Guard, yapay zekâ ekosistemlerini güvenlik açıklarına karşı koruyan kapsamlı bir kırmızı takım (red teaming) platformudur. Yazılım, ajan yetenekleri ve büyük dil modelleri (LLM) üzerindeki güvenlik taramalarıyla sistemlerin dayanıklılığını test eder.",
+          "meta": "Python · ★ 5.045 · +50 bugün"
+        },
+        {
+          "title": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "summary": "Turbovec, Rust diliyle geliştirilen ve TurboQuant altyapısını kullanan bir vektör dizinleme (vector index) aracıdır. Python bağlayıcıları sayesinde büyük veri kümeleri üzerinde hızlı arama yapılmasına olanak tanır.",
+          "meta": "Rust · ★ 15.994 · +230 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+          "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+          "summary": "Aaron Swartz'ın veri kazıma (web scraping) nedeniyle hukuki yaptırımlara maruz kalması, büyük teknoloji şirketlerinin benzer faaliyetleri karşısında yaşadığı yasal dokunulmazlıkla kıyaslanıyor. Bu durum, veri toplama yöntemlerinin etik sınırları ve dijital platformların veri kullanımı konusundaki çifte standart tartışmalarını yeniden gündeme getiriyor.",
+          "meta": "1.200 oy · 270 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49379550",
+              "popularity": 1200,
+              "engagementCount": 270
+            }
+          ]
+        },
+        {
+          "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+          "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+          "summary": "AliExpress web sitesi, kullanıcıları takip etmek amacıyla web ses (WebAudio) parmak izi alma yöntemini kullanıyor. Bu süreç, tarayıcı üzerinden donanım kaynaklarını etkileyerek çoklu bağlantı (Bluetooth multipoint) özelliğine sahip kulaklıkların bağlantı kararlılığını bozuyor.",
+          "meta": "926 oy · 295 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49372583",
+              "popularity": 926,
+              "engagementCount": 295
+            }
+          ]
+        },
+        {
+          "title": "HTML Can Do That",
+          "url": "https://chrisburnell.com/html-can-do-that/",
+          "summary": "Modern web geliştirme süreçlerinde JavaScript kütüphanelerine ihtiyaç duymadan, HTML'in yerleşik etiketleri (details, summary, dialog gibi) ile etkileşimli arayüzler oluşturulabiliyor. Bu yaklaşım, tarayıcıların sunduğu doğal özellikleri kullanarak kod karmaşasını azaltmayı ve performans verimliliğini artırmayı hedefliyor.",
+          "meta": "636 oy · 170 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49362689",
+              "popularity": 636,
+              "engagementCount": 170
+            }
+          ]
+        },
+        {
+          "title": "I like 'em thick: an apology to my English teachers",
+          "url": "https://www.experimental-history.com/p/i-like-em-thick",
+          "summary": "Yazar Adam Mastroianni, akademik yazımda kullanılan kısa ve öz anlatım tarzının aksine, detaylı ve uzun cümlelerin fikirleri daha iyi açıkladığını savunuyor. Karmaşık düşünceleri aktarmak için metinlerde yoğunluk (thickness) kullanımını teşvik eden bir yaklaşım öneriyor.",
+          "meta": "621 oy · 268 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49347543",
+              "popularity": 621,
+              "engagementCount": 268
+            }
+          ]
+        },
+        {
+          "title": "Malicious Rust crate Arrayref runs a build-time payload",
+          "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+          "summary": "Rust programlama dilinin paket yöneticisi crates.io üzerinde bulunan arrayref adlı kütüphane, derleme zamanında (build-time) zararlı kod çalıştıran bir güvenlik açığı içeriyor. Bu durum, yazılım tedarik zinciri saldırılarının (supply chain attacks) geliştirici araçları üzerinden nasıl yürütülebileceğini gösteriyor.",
+          "meta": "423 oy · 377 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49374269",
+              "popularity": 423,
+              "engagementCount": 377
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Alibaba tarafından geliştirilen Qwen2.5-27B, metin ve görsel verileri işleyebilen çok modlu bir büyük dil modeli (large language model). Açık kaynaklı yapısıyla karmaşık mantıksal akıl yürütme ve görüntü analizi gerektiren görevlerde yüksek performans sunuyor.",
+          "meta": "♥ 11.777 · 1.373.584 indirme"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth, büyük dil modellerini (large language models) daha hızlı ve düşük bellek kullanımıyla eğitmeyi sağlayan bir optimizasyon kütüphanesi. Bu sürüm, Qwen 2.5 32B modelinin GGUF formatında sıkıştırılmış ve yerel donanımlarda çalışmaya uygun hale getirilmiş bir versiyonunu sunuyor.",
+          "meta": "♥ 2.379 · 5.126.652 indirme"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "summary": "MiniMax tarafından geliştirilen MiniMax-Music3, metin komutlarını yüksek kaliteli ses dosyalarına dönüştüren bir metinden sese (text-to-audio) modelidir. Kullanıcıların yazılı tanımlar üzerinden müzik ve ses içerikleri oluşturmasına olanak tanır.",
+          "meta": "♥ 1.120 · 14.471 indirme"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "summary": "Hugging Face platformunda paylaşılan orcarouter/Qwen3.8-27B-Uncensored-MLX, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir yapay zekâ modeli. Apple cihazlarında çalışan MLX kütüphanesiyle optimize edilen bu model, içerik kısıtlaması bulunmayan (uncensored) bir yapı sunuyor.",
+          "meta": "♥ 723 · 2.628 indirme"
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B-FP8",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "summary": "Alibaba tarafından geliştirilen Qwen2.5-27B-FP8, görsel ve metin girdilerini işleyerek metin çıktısı üreten çok modlu bir yapay zekâ modeli. Düşük hassasiyetli (FP8) hesaplama yöntemiyle, modelin donanım üzerindeki bellek kullanımını optimize ederek daha hızlı çalışmasını sağlıyor.",
+          "meta": "♥ 637 · 1.517.643 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
+          "url": "https://huggingface.co/papers/2608.19758",
+          "summary": "FlashPrefill V2, büyük dil modellerinde (large language models) uzun bağlam işleme sırasında oluşan hesaplama yükünü azaltmak için geliştirilen bir yöntemdir. Dikkat mekanizmasının (attention) karmaşıklığını blok seyrekliği (block-sparsity) ile optimize ederek, üretim ortamlarında daha verimli çalışmayı hedefler.",
+          "meta": "1 beğeni · 1 yorum"
+        },
+        {
+          "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
+          "url": "https://huggingface.co/papers/2608.13120",
+          "summary": "SkillEvo, yapay zekâ ajanlarının yeteneklerini (agent skills) çok turlu etkileşimlerden gelen geri bildirimlerle sürekli geliştiren bir yöntem sunuyor. Bu yaklaşım, tek seferlik üretimin veya basit soru-cevap değerlendirmelerinin aksine, ajanların hatalarından öğrenerek performanslarını zamanla iyileştirmesini sağlıyor.",
+          "meta": "4 beğeni · 2 yorum"
+        },
+        {
+          "title": "Repo0: Design-Driven Zero-to-All Code Generation",
+          "url": "https://huggingface.co/papers/2608.19854",
+          "summary": "Repo0, yazılım projelerini doğal dilden gelen gereksinimlere göre sıfırdan inşa eden ve geliştirme süreci boyunca modüler bir yapı koruyan bir kod oluşturma çerçevesidir. Bu sistem, önceden tanımlanmış bir mimari varsayımı olmadan yazılımın tüm aşamalarını yönetebilen yapay zekâ ajanları (AI agents) için sürekli bir yapısal evrim modeli sunar.",
+          "meta": "5 beğeni · 1 yorum"
+        },
+        {
+          "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+          "url": "https://huggingface.co/papers/2608.20281",
+          "summary": "IAR (Enjekte Et, Hizala ve Kurtar) yaklaşımı, büyük dil modellerinin (large language models) belirli belgelerdeki bilgileri dış kaynak kullanmadan içselleştirmesini sağlayan üç aşamalı bir eğitim çerçevesidir. Bu yöntem, modelin sabit bir veri kümesini parametrik bilgiye dönüştürerek, belge erişimi (retrieval) gerektirmeyen soru-cevap süreçlerinde daha başarılı olmasını hedefler.",
+          "meta": "3 beğeni · 1 yorum"
+        },
+        {
+          "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+          "url": "https://huggingface.co/papers/2608.20335",
+          "summary": "4DAnyone, tek bir kameradan alınan sıradan videoları kullanarak insan figürlerini dört boyutlu (4D) modellere dönüştüren bir çerçevedir. Sistem, çoklu bakış açısı tutarlılığına sahip videolar üreterek bunları 4D Gauss saçılımı (4D Gaussian Splatting) yöntemiyle üç boyutlu ve hareketli modellere dönüştürür.",
+          "meta": "27 beğeni · 2 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Bun 1.4",
+          "url": "https://bun.com/blog/bun-v1.4",
+          "summary": "JavaScript çalışma zamanı (runtime) Bun 1.4, performans iyileştirmeleri ve hata düzeltmeleriyle birlikte geliyor. Yazılım geliştiricilerin uygulama çalıştırma ve paket yönetimi süreçlerini hızlandıran bu güncelleme, platformun kararlılığını artırıyor.",
+          "meta": "59 oy · 70 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/eesu8d/bun_1_4",
+              "popularity": 59,
+              "engagementCount": 70
+            }
+          ]
+        },
+        {
+          "title": "Supply chain attack on arrayref",
+          "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+          "summary": "Rust programlama dili ekosistemindeki arrayref kütüphanesine düzenlenen tedarik zinciri saldırısı (supply chain attack), kötü niyetli bir kullanıcının paketin kontrolünü ele geçirmesiyle gerçekleşti. Bu olay, yazılım geliştirme süreçlerinde kullanılan üçüncü taraf bağımlılıkların güvenliğinin denetlenmesinin gerekliliğini ortaya koyuyor.",
+          "meta": "71 oy · 41 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref",
+              "popularity": 71,
+              "engagementCount": 41
+            }
+          ]
+        },
+        {
+          "title": "How a joke domain purchase turned into geopolitical warfare",
+          "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+          "summary": "Şaka amaçlı satın alınan bir alan adının, meteoroloji verisi paylaşan platform SondeHub ile ilişkilendirilmesi sonucu yaşanan siber güvenlik ve jeopolitik gerilimler, dijital altyapıların beklenmedik çatışmalara nasıl çekilebileceğini gösteriyor. Olay, basit bir alan adı kaydının uluslararası bir krizin parçası haline gelme sürecini teknik ve siyasi boyutlarıyla ortaya koyuyor.",
+          "meta": "82 oy · 3 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into",
+              "popularity": 82,
+              "engagementCount": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Yapay zekâ modellerinin belirli görevleri yerine getirmek için kullandığı özel yetenekler veya araçlar."
+    },
+    {
+      "term": "DPI",
+      "explanation": "Bir ekranın veya yazıcının görüntü kalitesini belirleyen, inç başına düşen nokta sayısı."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekânın kendi başına karar verip işlem yapabilmesi için ihtiyaç duyduğu yetenekleri düzenleyen yapı."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Bir yazılıma sonradan eklenerek ona yeni özellikler kazandıran küçük yardımcı programlar."
+    },
+    {
+      "term": "specification",
+      "explanation": "Bir ürünün veya yazılımın nasıl çalışması gerektiğini belirten detaylı teknik kurallar bütünü."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlar girerek yönetmenizi sağlayan metin tabanlı arayüz."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "Yapay zekânın geçmişteki bilgileri unutmadan uzun süre saklayıp ihtiyaç duyduğunda kullanabilmesi."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Bir yazılımın bilgisayarda çalıştırıldığı an ve bu süreçte ihtiyaç duyduğu ortam."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, hazır kodlar ve yapılar sunan bir temel sistem."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Birden fazla yapay zekâ biriminin ortak bir hedef için birbirleriyle haberleşerek çalışması."
+    },
+    {
+      "term": "observability",
+      "explanation": "Bir yazılımın iç işleyişini ve hatalarını dışarıdan izleyerek ne olup bittiğini anlama yeteneği."
+    },
+    {
+      "term": "context database",
+      "explanation": "Yapay zekânın daha iyi cevap verebilmesi için ihtiyaç duyduğu bilgilerin tutulduğu özel veri deposu."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın kendi bilgisi dışında, dış kaynaklı belgeleri okuyarak daha doğru cevaplar üretmesi yöntemi."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekânın metinleri işlerken kullandığı, kelimelere veya hecelere karşılık gelen en küçük veri parçası."
+    },
+    {
+      "term": "red teaming",
+      "explanation": "Bir sistemin güvenliğini test etmek için kötü niyetli kullanıcı gibi davranarak açıkları bulma çalışması."
+    }
+  ]
+}
