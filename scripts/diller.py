@@ -205,6 +205,8 @@ DILLER = {
         "rapor_ac": "Open {dil} PDF →",
         "rapor_indir": "Download PDF",
         "rapor_oku": "Read →",
+        "rapor_cekim": "Data captured {an}",
+        "rapor_cekim_not": "Sources are snapshots · this report reflects the moment above, not the whole calendar day.",
         "rapor_dil_adi": "English",
         "rapor_not": ("Full report PDF: every item with its summary, source links and the glossary of "
                       "terms. Translated from the original Turkish edition."),
@@ -373,6 +375,8 @@ DILLER = {
         "rapor_ac": "Ouvrir le PDF en {dil} →",
         "rapor_indir": "Télécharger le PDF",
         "rapor_oku": "Lire →",
+        "rapor_cekim": "Données collectées le {an}",
+        "rapor_cekim_not": "Les sources sont des instantanés · ce rapport reflète le moment ci-dessus, pas la journée entière.",
         "rapor_dil_adi": "français",
         "rapor_not": ("Le PDF complet : chaque élément avec son résumé, ses liens sources et le glossaire "
                       "des termes. Traduit de l'édition turque originale."),
@@ -588,6 +592,8 @@ DILLER = {
         "rapor_ac": "Abrir o PDF em {dil} →",
         "rapor_indir": "Baixar o PDF",
         "rapor_oku": "Ler →",
+        "rapor_cekim": "Dados coletados em {an}",
+        "rapor_cekim_not": "As fontes são instantâneos · este relatório reflete o momento acima, não o dia inteiro.",
         "rapor_dil_adi": "português",
         "rapor_not": ("PDF completo: cada item com seu resumo, os links das fontes e o glossário de termos. "
                       "Traduzido da edição original em turco."),
@@ -771,6 +777,8 @@ DILLER = {
         "rapor_ac": "Abrir el PDF en {dil} →",
         "rapor_indir": "Descargar el PDF",
         "rapor_oku": "Leer →",
+        "rapor_cekim": "Datos recogidos el {an}",
+        "rapor_cekim_not": "Las fuentes son instantáneas · este informe refleja el momento indicado, no el día entero.",
         "rapor_dil_adi": "español",
         "rapor_not": ("PDF completo: cada elemento con su resumen, los enlaces de las fuentes y el glosario "
                       "de términos. Traducido de la edición original en turco."),
@@ -957,6 +965,8 @@ DILLER = {
         "rapor_ac": "PDF auf {dil} öffnen →",
         "rapor_indir": "PDF herunterladen",
         "rapor_oku": "Lesen →",
+        "rapor_cekim": "Daten erfasst am {an}",
+        "rapor_cekim_not": "Die Quellen sind Momentaufnahmen · dieser Bericht gibt den oben genannten Zeitpunkt wieder, nicht den ganzen Kalendertag.",
         "rapor_dil_adi": "Deutsch",
         "rapor_not": ("Vollständiges PDF: jeder Eintrag mit Zusammenfassung, die Links zu den Quellen und "
                       "das Glossar der Begriffe. Übersetzt aus der türkischen Originalausgabe."),

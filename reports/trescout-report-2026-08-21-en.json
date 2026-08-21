@@ -1,5 +1,6 @@
 {
   "date": "2026-08-21",
+  "capturedAt": "2026-08-21T04:43:00.000Z",
   "editorial": "Today, efficiency-oriented optimizations of large language models and browser-based privacy violations stand out on the technology agenda. In particular, the new variants of the Qwen 27B model and FlashPrefill V2, which increases the long-context processing capacity, raise the performance bar in artificial intelligence infrastructure.",
   "sections": [
     {
@@ -104,7 +105,7 @@
         {
           "title": "RyanCodrai/turbovec",
           "url": "https://github.com/RyanCodrai/turbovec",
-          "summary": "Turbovec is a vector indexing tool developed with the Rust language and using the TurboQuant infrastructure. It allows fast searches on large data sets thanks to Python connectors.",
+          "summary": "Turbovec is a vector index tool developed with the Rust language and using the TurboQuant infrastructure. It allows fast searches on large data sets thanks to Python connectors.",
           "meta": "Rust · ★ 15,994 · +230 today"
         }
       ]
@@ -214,7 +215,7 @@
         {
           "title": "Qwen/Qwen3.8-27B-FP8",
           "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "summary": "Developed by Alibaba, Qwen2.5-27B-FP8 is a multi-modal artificial intelligence model that produces text output by processing visual and text inputs. With its low-precision (FP8) calculation method, it optimizes the memory usage of the model on the hardware, allowing it to run faster.",
+          "summary": "Developed by Alibaba, Qwen2.5-27B-FP8 is a multi-modal artificial intelligence model that produces text output by processing visual and text inputs. With its low-precision (FP8) calculation method, it enables the model to run faster by optimizing memory usage on the hardware.",
           "meta": "♥ 637 · 1,517,643 downloads"
         }
       ]

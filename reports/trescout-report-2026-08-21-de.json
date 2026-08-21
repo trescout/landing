@@ -1,5 +1,6 @@
 {
   "date": "2026-08-21",
+  "capturedAt": "2026-08-21T04:43:00.000Z",
   "editorial": "Heutzutage stehen effizienzorientierte Optimierungen großer Sprachmodelle und browserbasierte Datenschutzverletzungen ganz oben auf der Technologieagenda. Insbesondere die neuen Varianten des Modells Qwen 27B und FlashPrefill V2, das die Verarbeitungskapazität für lange Kontexte erhöht, legen die Leistungsmesslatte in der Infrastruktur für künstliche Intelligenz höher.",
   "sections": [
     {
@@ -104,7 +105,7 @@
         {
           "title": "RyanCodrai/turbovec",
           "url": "https://github.com/RyanCodrai/turbovec",
-          "summary": "Turbovec ist ein Vektorindizierungstool, das mit der Rust-Sprache entwickelt wurde und die TurboQuant-Infrastruktur nutzt. Dank Python-Konnektoren ermöglicht es eine schnelle Suche in großen Datenmengen.",
+          "summary": "Turbovec ist ein Vektorindex-Tool, das mit der Rust-Sprache entwickelt wurde und die TurboQuant-Infrastruktur nutzt. Dank Python-Konnektoren ermöglicht es eine schnelle Suche in großen Datenmengen.",
           "meta": "Rust · ★ 15.994 · +230 heute"
         }
       ]
@@ -214,7 +215,7 @@
         {
           "title": "Qwen/Qwen3.8-27B-FP8",
           "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "summary": "Qwen2.5-27B-FP8 wurde von Alibaba entwickelt und ist ein multimodales Modell der künstlichen Intelligenz, das durch die Verarbeitung visueller und Texteingaben eine Textausgabe erzeugt. Mit seiner Berechnungsmethode mit geringer Genauigkeit (FP8) optimiert es die Speichernutzung des Modells auf der Hardware und ermöglicht so eine schnellere Ausführung.",
+          "summary": "Qwen2.5-27B-FP8 wurde von Alibaba entwickelt und ist ein multimodales Modell der künstlichen Intelligenz, das durch die Verarbeitung visueller und Texteingaben eine Textausgabe erzeugt. Mit seiner Berechnungsmethode mit geringer Genauigkeit (FP8) ermöglicht es eine schnellere Ausführung des Modells durch Optimierung der Speichernutzung auf der Hardware.",
           "meta": "♥ 637 · 1.517.643 Downloads"
         }
       ]
@@ -274,7 +275,7 @@
         {
           "title": "Supply chain attack on arrayref",
           "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
-          "summary": "Der Supply-Chain-Angriff auf die Arrayref-Bibliothek im Ökosystem der Programmiersprache Rust erfolgte, als ein böswilliger Benutzer die Kontrolle über das Paket übernahm. Dieser Vorfall verdeutlicht die Notwendigkeit, die Sicherheit von Abhängigkeiten Dritter zu überprüfen, die in Softwareentwicklungsprozessen verwendet werden.",
+          "summary": "Der Supply-Chain-Angriff auf die Arrayref-Bibliothek im Ökosystem der Programmiersprache Rust erfolgte, als ein böswilliger Benutzer die Kontrolle über das Paket übernahm. Dieser Vorfall verdeutlicht die Notwendigkeit, die Sicherheit von Abhängigkeiten von Drittanbietern zu überprüfen, die in Softwareentwicklungsprozessen verwendet werden.",
           "meta": "71 Punkte · 41 Kommentare",
           "discussions": [
             {

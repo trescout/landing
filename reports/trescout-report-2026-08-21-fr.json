@@ -1,5 +1,6 @@
 {
   "date": "2026-08-21",
+  "capturedAt": "2026-08-21T04:43:00.000Z",
   "editorial": "Aujourd’hui, les optimisations axées sur l’efficacité des grands modèles de langage et les violations de la vie privée basées sur les navigateurs figurent au premier plan de l’agenda technologique. En particulier, les nouvelles variantes du modèle Qwen 27B et FlashPrefill V2, qui augmentent la capacité de traitement de contexte long, placent la barre des performances dans l'infrastructure d'intelligence artificielle.",
   "sections": [
     {
@@ -214,7 +215,7 @@
         {
           "title": "Qwen/Qwen3.8-27B-FP8",
           "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "summary": "Développé par Alibaba, Qwen2.5-27B-FP8 est un modèle d'intelligence artificielle multimodale qui produit une sortie de texte en traitant les entrées visuelles et textuelles. Grâce à sa méthode de calcul de faible précision (FP8), il optimise l'utilisation de la mémoire du modèle sur le matériel, lui permettant de s'exécuter plus rapidement.",
+          "summary": "Développé par Alibaba, Qwen2.5-27B-FP8 est un modèle d'intelligence artificielle multimodale qui produit une sortie de texte en traitant les entrées visuelles et textuelles. Grâce à sa méthode de calcul de faible précision (FP8), il permet au modèle de s'exécuter plus rapidement en optimisant l'utilisation de la mémoire sur le matériel.",
           "meta": "♥ 637 · 1 517 643 téléchargements"
         }
       ]
@@ -231,7 +232,7 @@
         {
           "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
           "url": "https://huggingface.co/papers/2608.13120",
-          "summary": "SkillEvo propose une méthode qui améliore continuellement les capacités des agents d’intelligence artificielle grâce aux retours d’interactions à plusieurs tours. Cette approche permet aux agents d’améliorer leurs performances au fil du temps en apprenant de leurs erreurs, par opposition à une production ponctuelle ou à de simples évaluations par questions-réponses.",
+          "summary": "SkillEvo propose une méthode qui améliore continuellement les capacités des agents d'intelligence artificielle grâce aux retours d'interactions à plusieurs tours. Cette approche permet aux agents d’améliorer leurs performances au fil du temps en apprenant de leurs erreurs, par opposition à une production ponctuelle ou à de simples évaluations par questions-réponses.",
           "meta": "4 j'aime · 2 commentaires"
         },
         {
@@ -317,7 +318,7 @@
     },
     {
       "term": "agentic skills framework",
-      "explanation": "Structure qui organise les capacités dont l’intelligence artificielle a besoin pour prendre des décisions et agir seule."
+      "explanation": "Structure qui organise les capacités dont l’intelligence artificielle a besoin pour prendre des décisions et agir de manière autonome."
     },
     {
       "term": "plugins",
